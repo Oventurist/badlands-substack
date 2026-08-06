@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [academia, harvard, plagiarism, higher-education]
-sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-525.md]
+sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-a9e.md]
 confidence: medium
 ---
 
@@ -28,7 +28,14 @@ On Monday night, December 11, 2023, two people familiar with the matter told *Th
 
 [[burning-bright|Burning Bright]] of [[badlands-media|Badlands Media]] described the episode as "a beautiful Ouroboros pattern" consuming the liberal establishment in media and academia, characterizing the backlash as a "Death Blossom" in which liberal academia dragged Gay through the mud and pressured the school to act.[2] He noted that the plagiarism findings surfacing against her dissertation were themselves the work of "liberal sleuths," and closed with "enjoy the show."[2]
 
+## Impact on Harvard admissions
+
+In December 2023, ZeroHedge reported that Harvard College — "led by controversial president Claudine Gay," whom the outlet said had single-handedly done more damage to the school's reputation than anyone in its nearly 500-year history — received 17 percent fewer early-admission applications from high school seniors, 7,921 versus 9,553 the prior year, according to Bloomberg data.[3] The outlet attributed the decline to Gay's failure to tackle campus antisemitism and to parental perceptions that the school had abandoned educational excellence in favor of political indoctrination.[3] Applications had been due on November 1, however — more than a month before Gay's Capitol Hill testimony in which she declined to say plainly whether "calling for the genocide of Jews" constituted bullying and harassment under the school's code of conduct.[3]
+
+[[burning-bright|Burning Bright]] noted this chronology explicitly, observing that the data predated the plagiarism and antisemitism scandals engulfing Gay and that the sensational framing obscured it.[3] He described [[harvard-university|Harvard]] as the epicenter of a "circular firing squad" pattern within academia and the symbolic heart of what he called the Woke Industrial Complex.[3]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: MAGA Gets Branded as Biden Bungles Everything", URL: https://badlands.substack.com/p/badlands-news-brief-07e
 2. Badlands Brief — "Bicameral Lawfare, Trump's Gambit & the Ouroboros", URL: https://badlands.substack.com/p/badlands-news-brief-525
+3. Badlands Brief — "Badlands News Brief: The Simulation Gets Very ... Very Weird", URL: https://badlands.substack.com/p/badlands-news-brief-a9e

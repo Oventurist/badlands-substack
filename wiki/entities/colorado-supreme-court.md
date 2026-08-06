@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [courts, colorado, trump-disqualification, fourteenth-amendment]
-sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-860.md]
+sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-948.md]
 confidence: medium
 ---
 
@@ -37,6 +37,10 @@ In late 2023 the Colorado Supreme Court upheld the trial court's finding of fact
 On October 8, 2024, the court declined in a 4–3 decision to decide whether Christian baker [[jack-phillips|Jack Phillips]] could refuse to make a celebratory gender-transition cake for transgender attorney [[autumn-scardina|Autumn Scardina]], dismissing the case on procedural grounds.[5] Justice Melissa Hart wrote for the majority that the constitutional question of how governments should balance the rights of transgender individuals in places of public accommodation against those of religious business owners "has become the focus of intense public debate," but concluded: "We cannot answer that question."[5]
 The ruling was the first contentious decision issued by the court since [[monica-marquez|Monica Márquez]] became Chief Justice in September 2024; Márquez joined the majority.[5] [[ashe-in-america|Ashe in America]] described the outcome as a notable shift for a body widely considered the most progressive state high court in the nation, and argued that the "technicality" cited by the Colorado press amounted to the constitutional protection of religious liberty and freedom of expression that the state's district and appeals courts had declined to honor in ruling against Phillips and [[masterpiece-cakeshop|Masterpiece Cakeshop]].[5]
 
+## Anderson v. Griswold argument (December 2023)
+
+On December 6, 2023, the court weighed whether former president [[donald-trump|Donald Trump]] should be barred from the state's Republican primary ballot under Section 3 of the [[fourteenth-amendment|Fourteenth Amendment]] in [[anderson-v-griswold|Anderson v. Griswold]], a dispute expected to reach the U.S. Supreme Court.[6] Justices examined whether Section 3 reaches the presidency as an "Officer," discussed Confederate president [[jefferson-davis|Jefferson Davis]] and the Civil War parallels to January 6, and questioned whether excluding Trump would unequally treat Colorado's Republican voters.[6] Eric Olsen argued that Trump's presence would dilute votes for qualified candidates, while [[scott-gessler|Scott Gessler]] contended January 6 amounted to a riot rather than an insurrection.[6] Badlands writer [[ashe-in-america|Ashe in America]] warned that the court — which she noted had repeatedly sent the baker Jack Phillips's cases to the U.S. Supreme Court — might overturn the district court's ruling allowing Trump on the ballot, with a decision due before the statutory deadline of December 29, 2023.[6]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: MAGA Gets Branded as Biden Bungles Everything", URL: https://badlands.substack.com/p/badlands-news-brief-07e
@@ -44,3 +48,4 @@ The ruling was the first contentious decision issued by the court since [[monica
 3. Badlands Brief — "Badlands News Brief: The Witch Hunt Hits a Few Snags as the Landscape Shifts", URL: https://badlands.substack.com/p/badlands-news-brief-2a0
 4. Badlands Brief — "Badlands News Brief: Hypocrisy Roundup & Rug-pulls Galore", URL: https://badlands.substack.com/p/badlands-news-brief-378
 5. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
+6. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948

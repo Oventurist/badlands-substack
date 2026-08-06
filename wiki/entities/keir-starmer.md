@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [uk, syria, media-narrative]
-sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-05f.md, raw/badlands-brief-282.md, raw/badlands-brief-4ec.md, raw/badlands-brief-739.md, raw/badlands-brief-b56.md, raw/badlands-brief-b62.md, raw/badlands-brief-da2.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-59b.md, raw/badlands-news-brief-7bb.md]
+sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-05f.md, raw/badlands-brief-282.md, raw/badlands-brief-4ec.md, raw/badlands-brief-739.md, raw/badlands-brief-b56.md, raw/badlands-brief-b62.md, raw/badlands-brief-da2.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-59b.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a65.md]
 confidence: low
 ---
 
@@ -89,6 +89,16 @@ By early March 2025, Politico described Starmer — "hardly the most obvious war
 
 Badlands contributor Burning Bright recounted that Trump had asked Starmer the previous week whether the UK would take on Russia by itself and received only a strained smile in response, arguing that both men know the EU bureaucracy is powerless without US military backing and that such backing is now at an end.[16]
 
+## Scotland meeting with Trump on Gaza (July 2025)
+
+President [[donald-trump|Donald Trump]] made his remarks that there was "real starvation" in [[gaza|Gaza]] while speaking during a meeting with Starmer in Scotland in late July 2025.[17] Trump used the occasion to distance himself from Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]]'s denial of hunger in the territory, saying "nobody's done anything great over there" and that he had told [[israel|Israel]] "maybe they have to do it a different way."[17]
+
+## White House visit and Ukraine disagreements (February 2025)
+
+Starmer met President [[donald-trump|Donald Trump]] at the White House in late February 2025, in a visit the BBC described as one where personal rapport mattered as much as substance.[18] An invitation from King Charles for an unprecedented second state visit to the United Kingdom set a flattering tone; Trump called it "a great honour, because it's never happened before," adding that the honour was "not for me, it's for our country."[18] Despite Starmer's diplomatic language — including praise for Trump for creating conditions in which a ceasefire in Ukraine could be discussed — significant disagreements remained over the shape of any peace deal, with Trump saying he believed he could trust [[vladimir-putin|Vladimir Putin]] to abide by a deal and Starmer stressing that any truce must endure and must not favour the aggressor.[18]
+
+Starmer said the UK was "ready to put boots on the ground and planes in the air to support a deal, working together with our allies, because that is the only way that peace will last."[18] Trump declined to guarantee U.S. backup for British forces deployed to Ukraine, saying British troops "can take care of themselves" and "don't need much help," and sidestepping a question about support in the event of clashes with Russian forces.[18] Badlands contributors mocked Starmer's performance, with one writing that Trump had "spanked" him and expressing a preference for [[nigel-farage|Nigel Farage]], and another concluding that the episode marked the end of "the illusion of Europe."[18]
+
 ## References
 
 1. Badlands Brief — "Assad Day in Damascus", URL: https://badlands.substack.com/p/assad-day-in-damascus
@@ -107,3 +117,5 @@ Badlands contributor Burning Bright recounted that Trump had asked Starmer the p
 14. Badlands Brief — "Badlands News Brief: MORE Shooter Shenanigans ... and TrumpaMania Reigns", URL: https://badlands.substack.com/p/badlands-news-brief-4cb
 15. Badlands News Brief — "A Song of Ice and Fire, Fraud, and Foreign Flashpoints", URL: https://badlands.substack.com/p/badlands-news-brief-59b
 16. Badlands Brief — "Badlands News Brief: “Terrifying” Trade Alliances, Pedagogue Payouts, & A Bondi Barn Burner", URL: https://badlands.substack.com/p/badlands-news-brief-7bb
+17. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
+18. Badlands Brief — "Badlands News Brief: Rug Pulled Reputations, Insubordination, & the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-a65

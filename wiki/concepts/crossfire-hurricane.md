@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [fbi, russiagate, counterintelligence, 2016-election]
-sources: [raw/badlands-brief-195.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-7ad.md]
+sources: [raw/badlands-brief-195.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-a15.md]
 confidence: medium
 ---
 
@@ -31,7 +31,12 @@ On June 7, 2023, the commentator [[dc-draino|DC Draino]] published a letter sign
 
 [[badlands-media|Badlands Media]] commentary by [[ashe-in-america|Ashe in America]] argued that the letter damaged the narrative that Trump had improperly hoarded classified material, noting that although no signed letter is legally required for presidential declassification, the supposed absence of one had been central to the case against him.[3] DC Draino wrote that the letter explained the [[mar-a-lago-raid|Mar-a-Lago raid]]: "To steal back evidence of their crimes."[3]
 
+## Invoked in the March 2024 Wray hearing
+
+At the House Intelligence Committee's Annual Threat Assessment hearing on March 12, 2024, Representative Elise Stefanik cited Crossfire Hurricane — the FBI's 2016 counterintelligence investigation into Donald Trump — while pressing FBI Director Christopher Wray on whether any comparable investigation was then open into Trump or Joe Biden.[4] She emphasized that former FBI Director James Comey had testified he did not follow the proper protocol regarding notification of Congress when Crossfire Hurricane was opened, and pointed to the Intelligence Authorization Act's requirement that congressional leadership be informed of counterintelligence investigations into federal candidates.[4] Wray responded that there was "no investigation that I could confirm here."[4]
+
 ## References
 1. Badlands Brief — "Crypto Smears, Professional Plotlines, & Meat Probes", URL: https://badlands.substack.com/p/badlands-brief-195
 2. Badlands News Brief — "Durham's Dance, Putin's Warning and Xi's Rebuke", URL: https://badlands.substack.com/p/badlands-news-brief-01d
 3. Badlands Brief — "The Wall Are Closing in Again! (And Other Stories)", URL: https://badlands.substack.com/p/badlands-news-brief-7ad
+4. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15

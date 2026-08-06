@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [north-korea, russia, ukraine-war, kursk, badlands-brief]
-sources: [raw/badlands-brief-9f2.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-959.md]
+sources: [raw/badlands-brief-9f2.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-a0c.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-a71.md]
 confidence: medium
 ---
 
@@ -119,6 +119,20 @@ On Wednesday, April 10, 2024, Kim said that the unstable geopolitical situation 
 
 [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] responded to the item with sympathy rather than alarm, writing that Kim had appeared genuinely happy and had lost weight while [[donald-trump|Donald Trump]] was in office and seemed to have relapsed into a role he did not want to play once the Biden phase began.[16] He placed Kim within the [[sovereign-alliance|Sovereign Alliance]] and expressed hope that Kim and Trump would one day develop North Korea into a tourist destination and first-world nation.[16]
 
+## Suicide drone inspection (August 2024)
+
+In August 2024 state media reported that Kim had inspected small new "suicide drones" and urged the military to incorporate artificial intelligence in their development.[17] Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] treated the item lightly, saying he was covering the story mainly so he could post photographs of the [[north-korea|North Korean]] leader, and offered as "proof that Un is still our guy" the observation that Kim did not begin wearing Western suits until after meeting [[donald-trump|Donald Trump]] at the DMZ.[17]
+
+## February 2025: Condemnation of the Gaza takeover proposal
+
+On Wednesday, February 12, 2025, North Korean state media denounced U.S. President [[donald-trump|Donald Trump]]'s proposal to take over Gaza and relocate Palestinians as bluster, accusing Washington of robbery.[18] A commentary carried by the [[korean-central-news-agency|Korean Central News Agency]] said the slim hopes of Palestinians for safety and peace were being crushed by the proposal, and declared that "the world is now boiling like a porridge pot over the U.S.' bombshell declaration" — without naming Trump directly.[18] The commentary also criticized calls to take over the Panama Canal and Greenland and the decision to rename the "Gulf of Mexico" the "Gulf of America," urging that "the U.S. should awaken from its anachronistic daydream and stop at once the act of encroaching upon the dignity and sovereignty of other countries and nations," and calling the United States a "ferocious robber" and an "accomplice" to Israel's actions in Gaza.[18]
+
+Badlands commentary read the omission of Trump's name as a deliberate signal that Kim was targeting neoconservatives in Trump's orbit rather than the president himself, likening the rhetoric to professional-wrestling heel work even as Trump spoke fondly of their friendship and of wanting to catch up by phone.[18]
+
+## Severing of inter-Korean links (October 2024)
+
+On October 15, 2024, [[north-korea|North Korea]] blew up the northern sections of the unused road and rail routes that once connected it to [[south-korea|South Korea]], days after Pyongyang claimed the South had flown drones over the capital.[19] The Associated Press described the choreographed demolition as underlining growing anger at South Korea's conservative government and as following Kim's vow to sever relations with the South and abandon the goal of peaceful Korean unification.[19] Observers considered a preemptive large-scale attack unlikely, since near-certain massive retaliation by superior US and South Korean forces would threaten Pyongyang's survival.[19] Badlands contributor Burning Bright argued that Kim, alongside Vladimir Putin and other members of what he called the Sovereign Alliance, would help [[donald-trump|Donald Trump]] actualize the story of "Trump the Peacemaker."[19]
+
 ## References
 1. Badlands Brief — "Rigged Maps, Russian Grain, & Maduro's Billable Hours", URL: https://badlands.substack.com/p/badlands-brief-9f2
 2. Badlands Brief — "Preemptive Pardons, Syrian Sanctions, & Preparations for Putin", URL: https://badlands.substack.com/p/badlands-news-brief-09e
@@ -136,3 +150,6 @@ On Wednesday, April 10, 2024, Kim said that the unstable geopolitical situation 
 14. Badlands Brief — "Badlands News Brief: Trump Calls for Peace as the World Heads Toward War", URL: https://badlands.substack.com/p/badlands-news-brief-69b
 15. Badlands Brief — "Badlands News Brief: Globalists Threaten Their Own as Bidenomics Reigns", URL: https://badlands.substack.com/p/badlands-news-brief-677
 16. Badlands Brief — "Badlands News Brief — Fearmongering and Capitulation Rule the News Cycle", URL: https://badlands.substack.com/p/badlands-news-brief-959
+17. Badlands News Brief — "Transition Teams at Home and Abroad ...", URL: https://badlands.substack.com/p/badlands-news-brief-a0c
+18. Badlands Brief — "Badlands News Brief: Rising Demand for DC Defenders & A Sovereign Spring Social", URL: https://badlands.substack.com/p/badlands-news-brief-a34
+19. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71

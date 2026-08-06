@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [supreme-court, elections, mail-in-ballots, judiciary]
-sources: [raw/badlands-brief-169.md]
+sources: [raw/badlands-brief-169.md, raw/badlands-news-brief-a69.md]
 confidence: medium
 ---
 
@@ -18,5 +18,10 @@ Writing for a 5-4 majority, Barrett concluded that federal law sets a uniform El
 
 Badlands contributor [[ashe-in-america|Ashe in America]] framed the ruling as consistent with the broader project of returning government to its constitutional boxes, arguing that a Court declining to legislate from the bench is a positive development even when a particular outcome disappoints.[1]
 
+## Trump v. CASA (2025)
+
+Barrett wrote for the majority in [[trump-v-casa|Trump v. CASA]], announced June 27, 2025, which curtailed the ability of federal district courts to issue [[universal-injunction|universal injunctions]] against the executive branch.[2] The opinion included a pointed rebuttal of Justice [[ketanji-brown-jackson|Ketanji Brown Jackson]]'s dissent, an exchange the New York Post likened to a "virtual cage match" by the Court's usually restrained standards.[2] Badlands commentary called the exchange the highlight of the opinion and arguably of the entire session.[2]
+
 ## References
 1. Badlands Brief — "Condemnation, Calibration, & Constitutional Boxes", URL: https://badlands.substack.com/p/badlands-brief-169
+2. Badlands News Brief — "Shadow Feds, Activist Courts, & Lasting Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a69

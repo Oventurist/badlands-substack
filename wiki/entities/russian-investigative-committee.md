@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, law-enforcement, terrorism-financing, burisma, nato]
-sources: [raw/badlands-news-brief-523.md]
+sources: [raw/badlands-news-brief-523.md, raw/badlands-news-brief-a82.md]
 confidence: medium
 ---
 
@@ -24,5 +24,10 @@ Among the organizations the Committee named as implicated was the Ukrainian ener
 
 [[badlands-media|Badlands Media]] commentary treated the announcement as potentially the opening move in a public disclosure of the international financing of terrorism pursued through [[lawfare|lawfare]] by a purported member of a "Sovereign Alliance."[1] Writing for the brief, [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] tied the theme to longstanding questions about 9/11, Saudi Arabia, [[donald-trump|Donald Trump]] and Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]], and closed by wondering "what evidence Putin is going to present next to support his argument that US government agencies are funding terrorist activities."[1] The framing positions [[vladimir-putin|Vladimir Putin]] and the Committee as actors using formal legal process as an information-war instrument rather than as a conventional prosecution.[1]
 
+## Il-76 shootdown findings, June 2024
+
+On June 25, 2024, the Investigative Committee announced that senior military officials in Kiev were responsible for shooting down a Russian Ilyushin Il-76M transport plane carrying Ukrainian prisoners of war to an exchange on January 24, 2024, killing all 65 POWs, three Russian guards and six crew members.[2] It said the aircraft was brought down by a US-made [[patriot-missile-system|Patriot]] interceptor missile and that it had collected enough evidence to accuse Ukrainian commanders and the leadership of the GUR military intelligence directorate, who "knew for certain" a prisoner swap was due and "ordered the destruction of the plane" nevertheless.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Russia Makes a Move, Garland Threatens & Zelenskyy Stalls", URL: https://badlands.substack.com/p/badlands-news-brief-523
+2. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82

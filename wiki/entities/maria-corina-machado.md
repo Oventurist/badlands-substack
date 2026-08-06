@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [venezuela, opposition, machado, white-house]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-577.md, raw/badlands-brief-861.md, raw/badlands-brief-a9f.md, raw/badlands-brief-b38.md, raw/badlands-brief-b56.md, raw/badlands-brief-e87.md, raw/badlands-brief-d9f.md, raw/badlands-brief-e8d.md, raw/badlands-news-brief-040.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-306.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-60c.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-577.md, raw/badlands-brief-861.md, raw/badlands-brief-a9f.md, raw/badlands-brief-b38.md, raw/badlands-brief-b56.md, raw/badlands-brief-e87.md, raw/badlands-brief-d9f.md, raw/badlands-brief-e8d.md, raw/badlands-news-brief-040.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-306.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-a71.md]
 confidence: low
 ---
 
@@ -118,6 +118,10 @@ In December 2025, WikiLeaks co-founder [[julian-assange|Julian Assange]] filed a
 
 Assange warned that the prize could be turned into an "instrument of war," and Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] noted that the filing accuses Machado of serious crimes including "facilitation of war crimes and crimes against humanity," alongside all 30 members of the Nobel Board of Directors.[16]
 
+## Named in Maduro's Musk accusation (October 2024)
+
+In October 2024, Venezuelan President [[nicolas-maduro|Nicolás Maduro]] accused [[elon-musk|Elon Musk]] of spending at least $1 billion to incite violence in Venezuela after the July 28 presidential election, and named Machado — whom he described as his political opponent and a businesswoman — as the distributor of the alleged funding to "fascist" groups.[17] Maduro claimed that the US government was ultimately behind the attempts to oust him from power.[17] Maduro had been declared the winner of the July vote by national election authorities, though the United States maintained that victory had been stolen from opposition candidate Edmundo Gonzalez.[17]
+
 ## References
 
 1. Badlands Brief — "Arctic Escalation and Tropic Trouble for the Financial System", URL: https://badlands.substack.com/p/badlands-brief-02a
@@ -136,3 +140,4 @@ Assange warned that the prize could be turned into an "instrument of war," and B
 14. Badlands Brief — "Badlands News Brief: Dali, Diddy & DJT", URL: https://badlands.substack.com/p/badlands-news-brief-491
 15. Badlands Brief — "Counterterrorism Co-Ops, Chinese Challenges, & Channels for Children", URL: https://badlands.substack.com/p/badlands-news-brief-497
 16. Badlands Brief — "Fusion Mergers & Fusion-Adjacent Murders", URL: https://badlands.substack.com/p/badlands-news-brief-60c
+17. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [epstein, victim, litigation]
-sources: [raw/badlands-news-blast.md, raw/badlands-news-brief-26f.md]
+sources: [raw/badlands-news-blast.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-ac6.md]
 confidence: medium
 ---
 
@@ -32,6 +32,11 @@ Speaking to reporters on the tarmac at a New Jersey airport, President Trump cal
 
 Badlands contributor Burning Bright argued that media outlets were rushing "right on cue" to connect the latest Epstein narrative to Trump, against a backdrop of Trump reordering global trade and laying the foundation for a global monetary and energy reset.[2] Whether or not Giuffre killed herself, he wrote, was secondary to the larger monetary, trade and energy realignment being announced openly by Trump and members of the Sovereign Alliance — urging readers to "consider whose op you're boosting" and to "focus on signal."[2]
 
+## Role in the November 2025 email dispute
+
+Giuffre was identified as the redacted "[VICTIM]" in the [[jeffrey-epstein|Jeffrey Epstein]] email released by Democrats on the [[house-oversight-committee|House Oversight Committee]] in November 2025, which read: "i want you to realize that that dog that hasn't barked is trump..[VICTIM] spent hours at my house with him ,, he has never once been mentioned."[3] The [[new-york-post|New York Post]] argued that the redaction enabled headlines claiming that [[donald-trump|Donald Trump]] "spent hours alone with Epstein victim," an impression it called centrally false, noting that Giuffre had worked for Trump before she fell into Epstein's clutches and had publicly said time and again that the future president never misbehaved toward her in the least.[3] The dispute formed part of the wider fight over the [[epstein-files|Epstein files]].[3]
+
 ## References
 1. Badlands Brief — "UFO's, Epstein Logs & Racist Squirrels?", URL: https://badlands.substack.com/p/badlands-news-blast
 2. Badlands Brief — "Badlands News Brief: Boozing & Brunching While Rome Burns", raw/badlands-news-brief-26f.md
+3. Badlands Brief — "Badlands News Brief: Epsteinian Psyops, Mortgage Madness and Caribbean Chaos", URL: https://badlands.substack.com/p/badlands-news-brief-ac6

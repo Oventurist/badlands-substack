@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [colombia, cartels, latin-america, drug-war]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-05f.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-314.md, raw/badlands-brief-579.md, raw/badlands-brief-285.md, raw/badlands-brief-5ba.md, raw/badlands-brief-739.md, raw/badlands-brief-7bf.md, raw/badlands-brief-b24.md, raw/badlands-brief-e3b.md, raw/badlands-brief-e9a.md, raw/badlands-brief-eea.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-71c.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-05f.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-314.md, raw/badlands-brief-579.md, raw/badlands-brief-285.md, raw/badlands-brief-5ba.md, raw/badlands-brief-739.md, raw/badlands-brief-7bf.md, raw/badlands-brief-b24.md, raw/badlands-brief-e3b.md, raw/badlands-brief-e9a.md, raw/badlands-brief-eea.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-ac6.md]
 confidence: medium
 ---
 
@@ -98,11 +98,23 @@ In a press conference delivered entirely in Spanish following his meeting with P
 
 Over the weekend following the announcement of the [[2025-nobel-peace-prize|2025 Nobel Peace Prize]], Petro posted on X about a December 2018 letter that laureate [[maria-corina-machado|María Corina Machado]] had sent to Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] through the Argentinian embassy in Venezuela seeking help in overthrowing [[nicolas-maduro|Nicolás Maduro]].[15] Petro asserted that the letter disqualified her from the prize and accused her of attempting to bring "the Zionist genocide" to South America, while also noting that President [[donald-trump|Donald Trump]] appeared to be distancing himself from Netanyahu.[15] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]], who had previously reported Petro's assertion that Trump's war appeared to be aimed at Colombia rather than Venezuela, took the intervention as further evidence that Petro is "a [[sovereign-alliance|Sovereign Alliance]] bro and coordinating with Putin," and observed that Petro was now joining the Trump White House in blasting Machado as unfit for the award.[15]
 
+## October 2025 Middle East tour
+
+On October 28, 2025, Petro embarked on a tour of the Middle East taking him to Saudi Arabia, Egypt, and Qatar through November 4.[17] The trip, comprising bilateral meetings, business forums, and encounters with heads of state, was framed by the Colombian presidency as part of a strategy to strengthen economic and diplomatic ties with a region that has become both a global investment hub and a growing center of political influence.[17] Its agenda focused on attracting investment for infrastructure and energy projects, advancing the ecological transition, and diversifying Colombia's international partnerships, while positioning the country as an independent voice within the global south.[17]
+
+In Riyadh, Petro met Saudi Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] and posted about the encounter on X, calling it "the most important meeting that will continue tomorrow."[17] Badlands contributor GhostofBasedPatrickHenry described the trip as mimicking President [[donald-trump|Donald Trump]]'s earlier Middle East tour, and noted the contrast with Petro's harsh rhetoric toward Israel and Benjamin Netanyahu, including his UN address calling for an international force in Gaza to fight the IDF.[17] Subsequent Petro posts alluded to a coffee collaboration between Colombia and Saudi Arabia, later extended to Colombian cocoa, with a joint goal of expanding tourism in both countries — an ambition central to MBS's plans for Saudi Arabia.[17] The Badlands commentary jokingly styled this potential Arabica–Colombian pairing a "Coffee Alliance."[17]
+
 ## February 2025 remarks on cocaine
 
 In February 2025, Petro claimed that cocaine is no worse than whiskey, arguing that the drug's illegality derives from its Latin American origin rather than its effects.[16] Speaking during a cabinet meeting, he said, "Cocaine is illegal not because it's worse than whiskey, but because it's produced in Latin America," a comparison apparently chosen because the United States is a leading producer and exporter of whiskey.[16] Colombia has long been associated with cocaine production, with significant portions of the global supply originating there from the coca plant native to Latin America.[16]
 
 The remarks came amid tensions with the administration of [[donald-trump|Donald Trump]] over deportation policy and threatened trade tariffs, following a public dispute over the repatriation of Colombian nationals deported from the United States.[16] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] treated the statement as notable mainly for its comic value in the context of that spat.[16]
+
+## "Barbarian" remarks over Caribbean strikes
+
+In an NBC News interview aired Thursday, November 13, 2025, Petro denounced the US strikes on alleged cartel vessels in the Caribbean Sea, calling President [[donald-trump|Donald Trump]] "a barbarian" who "wants to frighten us."[18] He did not rule out that some of the vessels hit were linked to cartels — "maybe or maybe not, we do not know" — but insisted that "according to due process, the civilized treatment of people, they should be seized and detained."[18] Petro described the victims as "poor boatmen" hired by cartels, saying that "when one of those missiles arrives [it] kills that boatman, it doesn't kill the drug trafficker," and had previously stated that at least some of those killed were ordinary fishermen not involved in organized crime.[18] The remarks came as the [[pentagon|Pentagon]] announced [[operation-southern-spear|Operation Southern Spear]].[18]
+
+[[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] read Petro's words as theater — part of a dialectic constructed by the [[sovereign-alliance|Sovereign Alliance]] to make its enemies misjudge the situation — noting that Petro had sent diplomats to Qatar in September 2025 to negotiate the surrender and disbandment of the [[gulf-clan|Gulf Clan]], Colombia's largest cocaine cartel, and had arrested thousands of cartel criminals over the previous year, including [[carlos-lehder|Carlos Lehder]], Pablo Escobar's partner and co-founder of the [[medellin-cartel|Medellín Cartel]].[18] In that reading, Petro and [[nicolas-maduro|Nicolás Maduro]] only appear to be Trump's enemies while in fact cooperating with him in a pincer movement to corner the cartels in the jungle.[18]
 
 ## References
 1. Badlands Brief — "Somali Shatterpoints, Cartel Countermeasures, & Erosion of the World Order", URL: https://badlands.substack.com/p/badlands-brief-094
@@ -121,3 +133,5 @@ The remarks came amid tensions with the administration of [[donald-trump|Donald 
 14. Badlands Brief — "Epstein Fallout & Middle East Madness", URL: https://badlands.substack.com/p/badlands-brief-eea
 15. Badlands Brief — "Counterterrorism Co-Ops, Chinese Challenges, & Channels for Children", URL: https://badlands.substack.com/p/badlands-news-brief-497
 16. Badlands News Brief — "Strategy & Micro Protests", URL: https://badlands.substack.com/p/badlands-news-brief-71c
+17. Badlands Brief — "Badlands News Brief: Asian Happy Endings, Salvadoran Favors, & American Public Corruption", raw/badlands-news-brief-a98.md
+18. Badlands Brief — "Badlands News Brief: Epsteinian Psyops, Mortgage Madness and Caribbean Chaos", URL: https://badlands.substack.com/p/badlands-news-brief-ac6

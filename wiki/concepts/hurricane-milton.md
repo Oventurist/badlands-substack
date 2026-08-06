@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [hurricane, florida, fema, disaster-response, 2024]
-sources: [raw/badlands-news-brief-860.md]
+sources: [raw/badlands-news-brief-860.md, raw/badlands-news-brief-ac8.md]
 confidence: medium
 ---
 
@@ -26,5 +26,14 @@ Reporting cited in the brief described the federal government as potentially nea
 
 Badlands contributor Burning Bright framed the episode as evidence that "the politicos of the DC Swamp" were signalling to the Harris campaign that its narrative strategy was failing, noting Biden's decision to side with DeSantis amid "the Hurricane Milton chaos" as part of a broader hedging by establishment figures ahead of what the brief called the true October surprises.[1]
 
+## Landfall and immediate impact
+
+Milton made landfall at around 8:30 p.m. ET near Siesta Key, Florida, as a dangerous Category 3 storm, weakening to a Category 2 as it came ashore, according to the National Hurricane Center.[2] Power outages soared as the storm charged inland, doubling to more than two million homes and businesses without power in roughly three hours.[2] In Bradenton, reporters described uprooted trees and water from the river boardwalk "gushing in like the ocean," with water rising to knee height.[2] In Sarasota, about twenty minutes from the landfall point, there was substantial destruction and continuing concern about storm surge damage to the downtown area, with winds that kept intensifying and temperatures dropping sharply.[2] In St. Petersburg, one of four tower cranes on Central Avenue collapsed into a building — the city reported no injuries — and the roof of the MLB stadium Tropicana Field, a mile from the harbor, appeared to have partially ripped off.[2] In Tampa, crews were forced back from the seawall by pounding water, extraordinarily powerful wind and horizontally driven rain.[2]
+
+## Forecast volatility and Badlands reaction
+
+Badlands writer [[ashe-in-america|Ashe in America]] noted that the storm was "being downgraded as fast as it was upgraded," moving rapidly from Category 5 to 4 to 3, and offered the maxim that "the first rule of hurricanes is that they get it wrong."[2] She reported that her own parents lay in the storm's direct path and had evacuated on the Wednesday morning, describing the evacuation decision as a difficult one for Floridians — especially in Sarasota, which had been spared a direct hit for generations — and observing that many in the path, including General Michael Flynn, chose to stay.[2] The National Hurricane Center issued updated projections every few hours, and regardless of the storm's category rating the surge was expected to devastate Florida's west coast, still reeling from [[hurricane-helene|Hurricane Helene]].[2] Ashe called Milton "an anomaly" from its origin.[2]
+
 ## References
 1. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
+2. Badlands Brief — "Storms both Real and Political Converge in October", URL: https://badlands.substack.com/p/badlands-news-brief-ac8

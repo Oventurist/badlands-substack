@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, oversight, investigations, biden-family]
-sources: [raw/badlands-news-brief-26c.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-3c3.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-743.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8c5.md]
+sources: [raw/badlands-news-brief-26c.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-3c3.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-743.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-948.md]
 confidence: medium
 ---
 
@@ -70,6 +70,10 @@ In February 2023, committee Republicans pressed the Biden administration to acco
 
 The inquiry ran alongside oversight by inspectors general: the [[department-of-defense-office-of-inspector-general|DoD Office of Inspector General]] released an "Oversight Update: Ukraine Assistance" the same day noting five potential planned oversight projects.[12] [[badlands-media|Badlands Media]] contributor [[just-human|Just Human]] assessed that the committees were delivering on their promises and that the [[ukraine-aid-funding-controversy|Ukraine spending fight]] coincided with a shift in Congress and among the public against further aid.[12]
 
+## Hunter Biden testimony dispute (December 2023)
+
+The committee, chaired by [[james-comer|James Comer]], was at the center of a December 2023 standoff over how [[hunter-biden|Hunter Biden]] would testify: Comer rejected an offer of public testimony and demanded a closed-door transcribed deposition on December 13, while Hunter's counsel [[abbe-lowell|Abbe Lowell]] argued that closed sessions were used "to manipulate, even distort, the facts and misinform the American public."[13] The panel's November subpoenas to Hunter Biden, [[james-biden|James Biden]] and other Biden family members and business associates were widely read as a sign that the [[biden-impeachment-inquiry|impeachment inquiry]] into President [[joe-biden|Joe Biden]] was entering a new phase.[13]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Russia Collusion is Back ... Unlike Biden's Memories", URL: https://badlands.substack.com/p/badlands-news-brief-26c
 2. Badlands Brief — "Badlands News Brief: Biden Bills, African Coups & Optics", URL: https://badlands.substack.com/p/badlands-news-brief-2d2
@@ -83,3 +87,4 @@ The inquiry ran alongside oversight by inspectors general: the [[department-of-d
 10. Badlands Brief — "Badlands News Brief: The Trump Train Rolls on ... Fake MAGA Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-89f
 11. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
 12. Badlands Brief — "Badlands News Brief: Putin Postures, Voting Matters & J6 Subpoenas", URL: https://badlands.substack.com/p/badlands-news-brief-8c5
+13. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948

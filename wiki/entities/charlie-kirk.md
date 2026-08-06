@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [commentator, conservative, campus-politics]
-sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-282.md, raw/badlands-brief-774.md, raw/badlands-brief-c5b.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-4fd.md, raw/badlands-news-brief-6e5.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-282.md, raw/badlands-brief-774.md, raw/badlands-brief-c5b.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-4fd.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-a04.md]
 confidence: low
 ---
 
@@ -70,6 +70,11 @@ After [[jack-posobiec|Jack Posobiec]] reported in July 2023 that [[ron-desantis|
 
 In July 2025 Kirk figured prominently in the fallout over the [[doj-fbi-epstein-memo|DOJ–FBI Epstein memo]]. Badlands commentary noted that Kirk said on one day that he was "done talking about the Epstein stuff," then the next day declared that "there is a viral fake news story circulating saying that I'm done talking about Epstein. I'm not."[10] The reversal was cited alongside [[dinesh-dsouza|Dinesh D'Souza]]'s argument that it was "time to move on" from the Epstein matter as evidence that [[con-inc|ConInc]] had no idea how to handle or contain the crisis and was floundering.[10]
 
+## Badlands criticism over Gaza (July 2025)
+
+After President [[donald-trump|Donald Trump]] publicly acknowledged "real starvation" in [[gaza|Gaza]] in late July 2025, Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] singled out Kirk for criticism, writing "Charlie Kirk, you're on notice" and accusing him of having "tried to play both sides" on the Israel-Gaza question for too long.[12]
+
+
 ## References
 1. Badlands Brief — "A Glaring Double Standard", URL: https://badlands.substack.com/p/a-glaring-double-standard
 2. Badlands Brief — "Jesus Walks", URL: https://badlands.substack.com/p/badlands-brief-282
@@ -82,3 +87,4 @@ In July 2025 Kirk figured prominently in the fallout over the [[doj-fbi-epstein-
 9. Badlands Brief — "Badlands News Brief: The DOJ's Hypocrisy, Zelensky's Failure and DeSantis' Decline", URL: https://badlands.substack.com/p/badlands-news-brief-3f0
 10. Badlands Brief — "Badlands News Brief: Autopens, AI Chips, & Astrological Assertions", URL: https://badlands.substack.com/p/badlands-news-brief-4fd
 11. Badlands Brief — "Badlands News Brief: Manhunts, Mental Health, & the Mother of a Monster", URL: https://badlands.substack.com/p/badlands-news-brief-6e5
+12. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04

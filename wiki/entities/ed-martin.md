@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [doj, lawfare, maga, narrative]
-sources: [raw/badlands-brief-314.md, raw/badlands-brief-6f0.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-8dc.md]
+sources: [raw/badlands-brief-314.md, raw/badlands-brief-6f0.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-a0b.md]
 confidence: low
 ---
 
@@ -58,7 +58,12 @@ In May 2025, Martin was President [[donald-trump|Donald Trump]]'s nominee to ser
 
 Martin failed to disclose nearly 200 media appearances in his initial disclosures, and under oath told members of the [[senate-judiciary-committee|Senate Judiciary Committee]] that he did not recall some of his most controversial past statements.[8] Badlands commentary linked the delay to [[kash-patel|Kash Patel]]'s argument in *Government Gangsters* that the DC US attorney confirmation is a key position, suggesting the holdup was deliberate.[8]
 
+## Inquiry into Biden's capacity to pardon (April 2025)
+
+In reporting published April 1, 2025, The New York Times described Martin — the "ardent Trump loyalist serving as interim U.S. attorney in Washington" — as pursuing an inquiry into whether former President [[joe-biden|Joseph R. Biden Jr.]] was competent to pardon his family members and others during his final days in office.[9] The inquiry included previously unreported letters to Biden's family and former [[white-house|White House]] staff members, which the Times said used the levers of federal law enforcement to harass Biden's family and allies and undermine his decisions as president while scoring political points with [[donald-trump|President Trump]].[9] Trump and his supporters had increasingly seized on the unsubstantiated theory that pardons Biden issued in his final months might be invalid because he lacked the mental capacity to consent to them.[9] Martin began sending the letters roughly two months earlier; the Times characterised them as informal but provocative, questioning a presidential clemency power that has generally gone unchallenged.[9]
+
 ## References
+
 1. Badlands Brief — "Nationalized Elections, Nazi Bankers & Sovereign Shielding", URL: https://badlands.substack.com/p/badlands-brief-314
 2. Badlands Brief — "The Bibi Break-Up Begins, As Does The IC Purge...", URL: https://badlands.substack.com/p/badlands-brief-6f0
 3. Badlands Brief — "Amplified Antagonism, Phantom Palestinians, & Hitler's Micropenis", URL: https://badlands.substack.com/p/badlands-news-brief-066
@@ -67,3 +72,4 @@ Martin failed to disclose nearly 200 media appearances in his initial disclosure
 6. Badlands Brief — "Badlands News Brief: Energy EOs, Game-Changing AI, & Jewish Election Fraud", URL: https://badlands.substack.com/p/badlands-news-brief-32e
 7. Badlands News Brief — "The Bilateral Bromance & A Misled Grand Jury", URL: https://badlands.substack.com/p/badlands-news-brief-7bf
 8. Badlands Brief — "Badlands News Brief: Gazan Seizures & Gay Porn Scandals", URL: https://badlands.substack.com/p/badlands-news-brief-8dc
+9. Badlands Brief — "Badlands News Brief: The Wolf of D.C. & A Portfolio of Highly Organized Crime", URL: https://badlands.substack.com/p/badlands-news-brief-a0b

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [canada, political-parties, trudeau, carney]
-sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-071.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-a82.md]
 confidence: medium
 ---
 
@@ -20,6 +20,11 @@ The party underwent a period of re-organization between 2011 and 2014 as it prep
 
 On March 9, 2025, the party chose [[mark-carney|Mark Carney]] — an unelected technocrat with deep experience in financial markets — to replace [[justin-trudeau|Justin Trudeau]] as leader and prime minister amid what the New York Times called a generational crisis in Canada's relationship with the United States.[2] Carney defeated his friend and former finance minister [[chrystia-freeland|Chrystia Freeland]] with 85.9% of the vote, cast by more than 150,000 party members according to Liberal leaders.[2]
 
+## 2024 Toronto—St. Paul's defeat
+
+In June 2024 the Liberals lost a special election in Toronto—St. Paul's, an urban stronghold the party had held since 1993, in a major blow to the Conservatives that intensified pressure on [[justin-trudeau|Justin Trudeau]] to resign for the good of his party amid Canada's affordability crisis.[3]
+
 ## References
 1. Badlands Brief — "A Re-Alignment of World Systems", URL: https://badlands.substack.com/p/a-re-alignment-of-world-systems
 2. Badlands Brief — "Badlands News Brief: Hot Wars Wind Down. Trade & Meme Wars Heat Up.", URL: https://badlands.substack.com/p/badlands-news-brief-071
+3. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82

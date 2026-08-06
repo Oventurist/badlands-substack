@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, banking, central-bank]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-seismic-shift.md, raw/a-week-to-remember.md, raw/americas-greatest-threat.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-094.md, raw/badlands-brief-169.md, raw/badlands-brief-9eb.md, raw/badlands-brief-bf7.md, raw/badlands-brief-b82.md, raw/badlands-brief-c7b.md, raw/badlands-brief-d9f.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-919.md, raw/badlands-news-brief-93e.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-seismic-shift.md, raw/a-week-to-remember.md, raw/americas-greatest-threat.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-094.md, raw/badlands-brief-169.md, raw/badlands-brief-9eb.md, raw/badlands-brief-bf7.md, raw/badlands-brief-b82.md, raw/badlands-brief-c7b.md, raw/badlands-brief-d9f.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-919.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-a71.md]
 confidence: medium
 ---
 
@@ -187,6 +187,31 @@ In April 2023, three Republican congressmen — [[alex-mooney|Alex Mooney]], [[a
 
 The Federal Reserve held interest rates steady on Wednesday, January 29, 2025, days after President [[donald-trump|Donald Trump]] publicly called on the central bank to lower them, putting the Fed on a potential collision course with the president even as a longstanding norm of independence typically insulates it from direct political interference.[31] Speaking at a press conference in Washington, Chair [[jerome-powell|Jerome Powell]] declined to comment on Trump's call for lower rates, saying it would be "inappropriate" to respond, and said "the public should be confident that we'll continue to do our work as we always have," adding that the Fed would keep using its tools to achieve its goals.[31] Powell said he had had "no contact" with Trump since the president's call for lower rates the previous week.[31]
 
+## Coordinated Dollar Swap Lines (March 2023)
+
+On Sunday, March 19, 2023, at 5:00 p.m., the Federal Reserve announced "coordinated central bank action to enhance the provision of U.S. dollar liquidity," opening daily dollar swap lines with all major central banks in what ZeroHedge called a carbon-copy repeat of the Fed's panicked post-COVID crisis policy playbook.[32] The move followed the end of the Fed's tightening cycle "in disaster," with [[silicon-valley-bank|SVB]] the first bank to fail and the collapse of [[credit-suisse|Credit Suisse]] following days later.[32] ZeroHedge argued the Fed had "finally capitulated" as it had repeatedly warned it would, rendering moot the debate over whether the prior week's record surge in use of the Fed's discount window constituted quantitative easing, and predicted that once the swap lines reopened "the rest of the cavalry follows: rate cuts, QE ... etc."[32]
+
+The same commentary warned that if the Fed did not contain the regional bank collapse there would be another great depression, noting that small and medium-sized banks account for 50 percent of U.S. commercial and industrial lending, 60 percent of residential real estate lending, 80 percent of commercial real estate lending, and 45 percent of consumer lending.[32]
+
+## August 2025 board shake-up
+
+In early August 2025 the composition and leadership of the Board of Governors became the focus of intense speculation. Governor [[adriana-kugler|Adriana Kugler]] resigned on August 1, and on August 7 President [[donald-trump|Donald Trump]] announced that he had selected [[stephen-miran|Stephen Miran]], chair of the [[council-of-economic-advisers|Council of Economic Advisers]], to fill the seat for the remainder of her term expiring January 31, 2026.[33] Trump signaled that a different person might be nominated for the full fourteen-year term, leaving Miran potentially in a caretaker role.[33]
+
+At the same time, prediction market [[kalshi|Kalshi]] showed Governor [[christopher-waller|Christopher Waller]] crossing 50 percent as the favorite to become the next Fed chairman, ahead of former Fed official [[kevin-warsh|Kevin Warsh]] at about 20 percent and [[national-economic-council|National Economic Council]] Director [[kevin-hassett|Kevin Hassett]] at about 35 percent.[33] Waller's rise followed reporting that Trump's advisors favored his willingness to set monetary policy on forecasts rather than current data.[33] Markets read the combined news as dovish, with [[bitcoin|bitcoin]] climbing back above $117,000 on the Miran announcement.[33]
+
+## September 2025 rate cut expectations
+
+In late July 2025 analysts placed the probability of a Federal Reserve rate cut at the September FOMC meeting at 64%, citing weakening demand and easing inflation from tariffs.[34] Political pressures — including the influence of President [[donald-trump|Donald Trump]] — and a slowing labor market were seen as potentially accelerating policy easing despite mixed market signals.[34] Treasury markets remained skeptical, with the 30-year yield near 5%, in contrast to futures markets pricing in September cuts; the Fed's decision was described as hinging on real-time data, balancing inflation control against growth support amid economic uncertainty.[34] Badlands contributor [[canncon|CannCon]] used the item to fact-check a Fox News claim about inflation, noting that inflation had not been above 3% since Trump took office.[34]
+
+
+## Shadow chair controversy (June 2025)
+
+In June 2025 President Donald Trump said he would soon name a successor to Chair [[jerome-powell|Jerome Powell]] despite Powell having eleven months left in his term, raising the prospect of a [[shadow-fed-chair|"shadow" Fed chair]] — an unprecedented step in the institution's 111-year history.[35] Former Fed officials and academics warned that such an announcement could undermine the sitting chief and intensify economic uncertainty, while Trump's frustration centred on the Fed's refusal to lower interest rates.[35]
+
+## Trump's Economic Club of Chicago remarks (October 2024)
+
+During his October 15, 2024 interview with Bloomberg Editor-in-Chief [[john-micklethwait|John Micklethwait]] at the Economic Club of Chicago, [[donald-trump|Donald Trump]] mocked the Federal Reserve, calling it "the greatest job in government" where "you show up to the office once a month and say, 'Hmm, let's flip a coin,' and everybody talks about you like you're a god."[36] He added that the arrangement "sets a horrible tone."[36] Badlands contributor Burning Bright treated the exchange as part of a broader information-war deployment in which Trump told the assembled financial establishment to their faces that he was dismantling their system, noting that Trump followed his attack on the Wall Street Journal and Bloomberg with an aside about "currency" and sidestepped accusations that he had helped destabilize the dollar's hegemony.[36]
+
 ## References
 1. Badlands Brief — "A Journey of Ever-changing Truths", URL: https://badlands.substack.com/p/a-journey-of-ever-changing-truths
 2. Badlands Brief — "A Seismic Shift", URL: https://badlands.substack.com/p/a-seismic-shift
@@ -219,3 +244,8 @@ The Federal Reserve held interest rates steady on Wednesday, January 29, 2025, d
 29. Badlands Brief — "Badlands News Brief: Orange Friday, Election Action, & McKinsey's Gives Advice", URL: https://badlands.substack.com/p/badlands-news-brief-71f
 30. Badlands Brief — "Badlands News Brief: Trials Galore, Ukraine Backpedal & The Gold Standard", URL: https://badlands.substack.com/p/badlands-news-brief-919
 31. Badlands Brief — "Badlands News Brief: A Midflight Collision, Dems Choose Division, Menendez Gets Prison", URL: https://badlands.substack.com/p/badlands-news-brief-93e
+32. Badlands Brief — "Badlands News Brief: Trump Arrest ... Panic or No Panic?", URL: https://badlands.substack.com/p/badlands-news-brief-9e8
+33. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
+34. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
+35. Badlands News Brief — "Shadow Feds, Activist Courts, & Lasting Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a69
+36. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71

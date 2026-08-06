@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [federal-reserve, interest-rates, monetary-policy]
-sources: [raw/a-week-to-remember.md, raw/badlands-brief-094.md, raw/badlands-brief-1ce.md, raw/badlands-brief-9eb.md, raw/badlands-brief-b74.md, raw/badlands-brief-b82.md, raw/badlands-brief-bf7.md, raw/badlands-brief-d9f.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-12b.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-3f5.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-93e.md]
+sources: [raw/a-week-to-remember.md, raw/badlands-brief-094.md, raw/badlands-brief-1ce.md, raw/badlands-brief-9eb.md, raw/badlands-brief-b74.md, raw/badlands-brief-b82.md, raw/badlands-brief-bf7.md, raw/badlands-brief-d9f.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-12b.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-3f5.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-a12.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-a9a.md]
 confidence: medium
 ---
 
@@ -156,6 +156,20 @@ Badlands analyst Burning Bright argued that the escalation was deliberate and ti
 
 At a Washington press conference on Wednesday, January 29, 2025, after the [[federal-reserve|Federal Reserve]] held interest rates steady, Powell declined to comment on President [[donald-trump|Donald Trump]]'s call for lower rates, saying it would be "inappropriate" to respond.[26] He told reporters that "the public should be confident that we'll continue to do our work as we always have" and that the Fed would continue to "use our tools to achieve our goals," and said he had had "no contact" with Trump since the president's public demand the previous week.[26]
 
+## Eccles Building renovation dispute (July 2025)
+
+In July 2025 the White House financial watchdog attacked Powell over the [[eccles-building-renovation|$2.5 billion revamp]] of the [[federal-reserve|Federal Reserve]]'s Washington headquarters and warned that construction could be halted.[27] In a letter obtained by the [[new-york-post|New York Post]], [[office-of-management-and-budget|Office of Management and Budget]] Director [[russ-vought|Russell T. Vought]] criticized the project, which public disclosures showed had run $700 million over budget.[27] The Post had reported in April that the Fed was pushing ahead with the overhaul despite mounting losses, prompting critics to liken the central bank's leadership to French royalty building a "Palace of Versailles."[27]
+
+## Shadow Fed chair speculation (June 2025)
+
+In late June 2025, President Donald Trump said he would announce his pick to succeed Powell "very soon," even though Powell had eleven months remaining in his term.[28] CNN reported that naming a successor that far in advance would be unprecedented in the Federal Reserve's 111-year history and would effectively create a [[shadow-fed-chair|"shadow" Fed chair]] — an idea first floated by Scott Bessent before he became Treasury secretary.[28] Trump's frustration stemmed from the Fed's refusal to lower interest rates, and former Fed officials and academics warned that the maneuver could undermine Powell and deepen economic uncertainty.[28]
+
+## White House meeting on interest rates (May 2025)
+
+Powell was summoned to the [[white-house|White House]] on May 29, 2025, for a closed-door meeting with [[donald-trump|President Trump]], his first visit there during Trump's second term.[29] Powell's office said the agenda was "to discuss economic developments, including for growth, employment, and inflation," and both sides said the meeting came at the president's invitation.[29] Trump told Powell in person what he had been saying publicly for months — that the [[federal-reserve|Fed]]'s refusal to cut interest rates was a "mistake" damaging the economy — but Powell stayed the course.[29] The Board of Governors had voted unanimously in early May to hold the primary credit rate at 4.5%, meaning rates for lenders and consumers would not move in the near term.[29]
+
+Badlands contributor [[burning-bright|Burning Bright]] framed the standoff as a long-anticipated "pincer" in which Trump traps the Fed between raising and lowering rates, arguing that with inflation metrics cooling Powell now had to cut or else reveal that he was "at war with the American economy."[29]
+
 ## References
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
 2. Badlands Brief — "Somali Shatterpoints, Cartel Countermeasures, & Erosion of the World Order", URL: https://badlands.substack.com/p/badlands-brief-094
@@ -183,3 +197,6 @@ At a Washington press conference on Wednesday, January 29, 2025, after the [[fed
 24. Badlands Brief — "Badlands News Brief: Orange Friday, Election Action, & McKinsey's Gives Advice", URL: https://badlands.substack.com/p/badlands-news-brief-71f
 25. Badlands Brief — "Badlands News Brief: Musical Fed Chairs, Salvadoran Chess, & Cocktails in the Clink", URL: https://badlands.substack.com/p/badlands-news-brief-80e
 26. Badlands Brief — "Badlands News Brief: A Midflight Collision, Dems Choose Division, Menendez Gets Prison", URL: https://badlands.substack.com/p/badlands-news-brief-93e
+27. Badlands News Brief — "Pentagon Portfolio Plays & Spy Court Sunlight", URL: https://badlands.substack.com/p/badlands-news-brief-a12
+28. Badlands News Brief — "Shadow Feds, Activist Courts, & Lasting Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a69
+29. Badlands Brief — "Proxy Wars & The Prevention of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a9a

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [epstein, treasury, economics, democratic-party]
-sources: [raw/badlands-news-brief-321.md, raw/badlands-news-brief-582.md]
+sources: [raw/badlands-news-brief-321.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-97e.md]
 confidence: medium
 ---
 
@@ -26,6 +26,11 @@ On November 17, 2025, Summers announced plans to step back from public commitmen
 
 "I am deeply ashamed of my actions and recognize the pain they have caused," Summers said in a statement, adding, "I take full responsibility for my misguided decision to continue communicating with Mr. Epstein."[2] He described stepping away as "one part of my broader effort to rebuild trust and repair relationships with the people closest to me," while saying that at age 70 he would continue to fulfill his teaching obligations at [[harvard-university|Harvard]].[2]
 
+## Cited on credit downgrades (2025)
+
+Treasury Secretary [[scott-bessent|Scott Bessent]] invoked Summers on Meet the Press in May 2025 while dismissing the [[moodys|Moody's]] downgrade of U.S. debt, saying that although the two do not agree on everything, Summers had characterized the 2011 U.S. downgrade as the product of a lagging indicator.[3]
+
 ## References
 1. Badlands Brief — "A Thousand Rabbis, Failing Firewalls, & the Loss of a Legend", URL: https://badlands.substack.com/p/badlands-news-brief-321
 2. Badlands Brief — "Badlands News Brief: Democracy Shields, Entitled Foreigners, & Epstein's Boomerang", URL: https://badlands.substack.com/p/badlands-news-brief-582
+3. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e

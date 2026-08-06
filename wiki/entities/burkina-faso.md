@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [africa, sahel, russia, energy, coup]
-sources: [raw/badlands-brief-1ce.md, raw/badlands-brief-5a2.md, raw/badlands-brief-e8d.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-42c.md]
+sources: [raw/badlands-brief-1ce.md, raw/badlands-brief-5a2.md, raw/badlands-brief-e8d.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-a56.md]
 confidence: medium
 ---
 
@@ -62,6 +62,10 @@ At a press briefing on Tuesday, October 7, 2025, Security Minister [[mahamadou-s
 
 [[badlands-news-brief|Badlands News Brief]] contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] framed the case as another Western regime-change effort, writing that "the [[state-department|State Department]] ([[cia|CIA]]) has been busy, trying to overthrow yet another troublesome government."[7] The commentary suggested the motive lay in Burkina Faso's newly signed nuclear deal with Russia to construct a nuclear power plant, noting that 80 percent of the country's citizens lack access to electricity.[7] It also condemned [[lindsey-graham|Lindsey Graham]] and the [[republican-party|Republican Party]] for defending such intelligence networks as necessary to preserve American superpower status.[7]
 
+## Russian military cooperation talks (September 2023)
+
+A Russian delegation led by Deputy Defence Minister [[yunus-bek-yevkurov|Yunus-Bek Yevkurov]] travelled to Burkina Faso in late August 2023 to meet the country's military leader, [[ibrahim-traore|Ibrahim Traoré]], and discuss possible military cooperation, the Burkinabè presidency announced.[8] According to Ouagadougou, the meeting followed talks between Traoré and Russian President [[vladimir-putin|Vladimir Putin]] on the sidelines of the Russia-Africa summit in St. Petersburg in July 2023, and addressed "areas of cooperation that mainly concern the military sphere, including the training of Burkinabe cadet officers and officers at all levels, including pilots in Russia."[8] Ties with Moscow had deepened since the September 2022 coup that brought Traoré to power against Lieutenant Colonel [[paul-henri-sandaogo-damiba|Paul-Henri Sandaogo Damiba]], who had himself ousted President Roch Marc Christian Kaboré in January of that year.[8] [[ashe-in-america|Ashe in America]] framed the visit as part of a Russian sweep through the Sahel — Bamako, then Ouagadougou, then Bangui in the [[central-african-republic|Central African Republic]] — as Western credibility in West Africa eroded.[8]
+
 ## References
 1. Badlands Brief — "African Acceleration, Powell's Replacement, & MEGA Democracy", URL: https://badlands.substack.com/p/badlands-brief-1ce
 2. Badlands Brief — "Tina Peters' Sentence Commuted; ISIS Killed in Africa", URL: https://badlands.substack.com/p/badlands-brief-5a2
@@ -70,3 +74,4 @@ At a press briefing on Tuesday, October 7, 2025, Security Minister [[mahamadou-s
 5. Badlands Brief — "Badlands News Brief: Trump Indicted ... Again, and Other Stories!", URL: https://badlands.substack.com/p/badlands-news-brief-1cc
 6. Badlands Brief — "Badlands News Brief: Fake Candidates, Plea Deals & War Drums", URL: https://badlands.substack.com/p/badlands-news-brief-264
 7. Badlands News Brief — "The Palisades Patsy, A Gazan Golden Age, & African Espionage", URL: https://badlands.substack.com/p/badlands-news-brief-42c
+8. Badlands Brief — "Badlands News Brief: Corruption Probes, Client Lists & Mud Pits", URL: https://badlands.substack.com/p/badlands-news-brief-a56

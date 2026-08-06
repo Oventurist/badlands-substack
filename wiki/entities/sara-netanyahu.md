@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, netanyahu-family, trump, mar-a-lago]
-sources: [raw/badlands-news-brief-397.md, raw/badlands-news-brief-52f.md]
+sources: [raw/badlands-news-brief-397.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-a82.md]
 confidence: medium
 ---
 
@@ -30,7 +30,12 @@ The investigation is being conducted by the Israel Police together with the cybe
 
 Badlands commentary noted that Sara Netanyahu is technically a convicted felon, having been found guilty in 2019 of misusing state funds to cater more than $50,000 in meals despite having access to a full-time chef at the prime minister's residence, and speculated that the new exposure increased [[donald-trump|Donald Trump]]'s leverage over her husband ahead of their February 2025 White House meeting.[2]
 
+## June 2024 remarks to hostage families
+
+In June 2024 it was reported that Sara Netanyahu had told families of hostages taken by [[hamas|Hamas]] that [[israel-defense-forces|IDF]] leadership was "staging a coup" against her husband.[3] One of the fathers responded publicly that "instead of doing everything to save lives, [Netanyahu] is spreading delusional conspiracies and is busy inciting and sowing division," adding that there would be no hostage deal and no revival for Israel as long as Netanyahu remained in power.[3] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] called it strange for her to say such things to bereaved families still hoping their loved ones were alive.[3]
+
 ## References
 
 1. Badlands News Brief — "Pardon Me, Blue, but Whose Team Are You Really On?", URL: https://badlands.substack.com/p/badlands-news-brief-397
 2. Badlands Brief — "Badlands News Brief: North American Trade Troubles & Unipartisan Panic", URL: https://badlands.substack.com/p/badlands-news-brief-52f
+3. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82

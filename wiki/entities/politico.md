@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, legacy-media, political-journalism, elections]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-1ae.md, raw/badlands-brief-618.md, raw/badlands-brief-6b4.md, raw/badlands-brief-a1a.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-71c.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-1ae.md, raw/badlands-brief-618.md, raw/badlands-brief-6b4.md, raw/badlands-brief-a1a.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-a71.md]
 confidence: low
 ---
 
@@ -83,6 +83,12 @@ Separately, Shore News Network reported on February 5, 2025 that Politico had fa
 
 Badlands contributor [[ashe-in-america|Ashe in America]] argued that the fact check was self-defeating, since it confirmed roughly $8.1 million in total federal payments — including about half a million dollars in subscriptions from the Food and Drug Administration — while narrowly disputing only the USAID share, and noted with amusement that the outlet had been forced to correct its own headline.[12] [[jordan-sather|Jordan Sather]] linked the funding revelations to Politico having been first to report the 2020 letter in which 51 former intelligence officials characterized the Hunter Biden laptop story as Russian disinformation.[12] [[burning-bright|Burning Bright]] contended that the episode would push mainstream audiences toward a reckoning with the [[smith-mundt-act|Smith-Mundt Modernization Act of 2013]], arguing that the greater scandal was that state-adjacent propaganda arrangements had been legal.[12]
 
+## "October surprise" magazine piece (October 2024)
+
+On October 15, 2024, Politico published a magazine essay arguing that the factor deciding the presidential election might not yet have happened, and tracing the history of the [[october-surprise|October surprise]] from its 1980 origins in [[ronald-reagan|Ronald Reagan]]'s campaign's fear that [[jimmy-carter|Jimmy Carter]] would win the release of the Iran hostages.[13] The piece recounted the counter-theory that the Reagan campaign persuaded Iran to delay the release, the 1993 House finding of "little or no credible evidence" of such communication, and [[max-boot|Max Boot]]'s assessment that the evidence was "substantial and credible if still circumstantial."[13]
+
+Badlands contributor Ashe in America described the article as "wild" — effectively a mainstream deconstruction of decades of US political parties manipulating foreign policy and weaponizing government bureaucracy for political gain, confirming what Badlands has said while its writers are dismissed as conspiracy theorists.[13] She faulted the piece for omitting [[hunter-biden|Hunter Biden]] and mocked its closing reference to the "remarkable stability" of the 2024 race and "relatively minor movement in the polls" as inexplicable and mathematically questionable.[13]
+
 ## References
 1. Badlands Brief — "Mixed Gender Crews, Trafficking Stings, & Shadow Cabal Reruns", URL: https://badlands.substack.com/p/badlands-brief-029
 2. Badlands Brief — "DC Exposes Itself as the Middle East Gets Gloriously Strange", URL: https://badlands.substack.com/p/badlands-brief-1ae
@@ -96,3 +102,4 @@ Badlands contributor [[ashe-in-america|Ashe in America]] argued that the fact ch
 10. Badlands Brief — "Badlands News Brief: Fake Poles, HomOlympics & Deal-Making", URL: https://badlands.substack.com/p/badlands-news-brief-4c5
 11. Badlands Brief — "Polling Paradoxes, Hegelian Seeding & Putin's Gambit", URL: https://badlands.substack.com/p/badlands-news-brief-565
 12. Badlands News Brief — "Strategy & Micro Protests", URL: https://badlands.substack.com/p/badlands-news-brief-71c
+13. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71

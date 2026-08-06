@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, pennsylvania, democrat, government-shutdown, israel]
-sources: [raw/badlands-news-brief-497.md, raw/badlands-news-brief-50a.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-82f.md]
+sources: [raw/badlands-news-brief-497.md, raw/badlands-news-brief-50a.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-ae1.md]
 confidence: medium
 ---
 
@@ -34,8 +34,14 @@ Before checking himself into the hospital for clinical depression in February 20
 
 In September 2023 Majority Leader [[chuck-schumer|Chuck Schumer]] ended enforcement of the chamber's informal [[senate-dress-code|dress code]], a change reported to benefit Fetterman, who prefers gym shorts and hoodies to formal business attire and could thereafter linger on the Senate floor before and after votes.[4] [[ashe-in-america|Ashe in America]] wrote that Fetterman had previously hidden in the cloakroom, entering the chamber only to vote, because the old rule required a suit, and mocked the ableism rationale for scrapping it as proof "we are not a serious country."[4]
 
+## Clash with Ocasio-Cortez over the March 2025 funding bill
+
+After announcing that he would vote for a House-passed funding bill to avert a government shutdown, Fetterman dismissed criticism from Representative [[alexandria-ocasio-cortez|Alexandria Ocasio-Cortez]] of Senate Democrats who advanced the measure, which would fund the government through September 30.[5] He argued that House liberals calling on the Senate to block the bill had no viable exit strategy for ending a shutdown, and that it was easy for them to take potshots when members of Congress would keep drawing paychecks while tens of thousands of federal workers were furloughed without pay, possibly for weeks.[5] Asked about her claim that Senate Democrats voting to advance the bill were betraying their House colleagues, Fetterman said, "I hope you can relay how little I care about her views on this."[5]
+
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Counterterrorism Co-Ops, Chinese Challenges, & Channels for Children", URL: https://badlands.substack.com/p/badlands-news-brief-497
 2. Badlands Brief — "Badlands News Brief: Manipulated Maps, Downed Planes, & A Very Stable Genius", URL: https://badlands.substack.com/p/badlands-news-brief-50a
 3. Badlands Brief — "Badlands News Brief: DeSantis Runs, Lake Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-5eb
 4. Badlands Brief — "Badlands News Brief: Missing Planes, Missing Funds & Missing Metrics", URL: https://badlands.substack.com/p/badlands-news-brief-82f
+5. Badlands News Brief — "Defiant Deportations & Canadian Freeloaders", URL: https://badlands.substack.com/p/badlands-news-brief-ae1

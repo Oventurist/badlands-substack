@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, mainstream-media, cable-news]
-sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-1c6.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-8f4.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-1c6.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-9e7.md, raw/badlands-news-brief-a15.md]
 confidence: medium
 ---
 
@@ -90,6 +90,16 @@ On March 6, 2023, CNN reported that "the U.S. has surpassed 100 mass shootings i
 
 [[ryan-delarme|Ryan DeLarme]] responded in the [[badlands-news-brief|Badlands News Brief]] that CNN and allied institutions would rather Americans face fentanyl in their communities than keep a firearm at home, arguing that an unabated flow of drugs and criminals across the border served agendas including depopulation, launderable federal funding for [[sanctuary-cities|sanctuary cities]], an endless drug war, and the prison industrial complex.[16] He added that groups opposed to the [[second-amendment|Second Amendment]] have long manipulated crime statistics, most cleverly by folding suicides and accidents in with homicides.[16]
 
+## Trump defamation lawsuit dismissed (2023)
+
+On Friday, July 28, 2023, a federal judge dismissed former President [[donald-trump|Donald Trump]]'s $475 million defamation lawsuit against CNN.[17] Trump's legal team had argued that the network's statements likened him to Adolf Hitler and were therefore defamatory, citing five uses of the phrase "the Big Lie" that his attorneys said CNN had refused to retract.[17] Trump-appointed U.S. District Judge Raag Singhal ruled that "being 'Hitler-like' is not a verifiable statement of fact that would support a defamation claim," and that "CNN's statements, while repugnant, were not, as a matter of law, defamatory," adding that bad rhetoric does not equate to defamation.[17]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] wrote that defamation is extremely hard to prove and must rest on verifiably false statements, and argued that the ruling raised that bar still higher even though CNN had made numerous false statements about Trump.[17] She characterized the outcome as chilling proof that the regime media would never be held accountable for election interference and could defame political opponents without repercussion, evidence in her framing of two standards of justice in the United States.[17]
+
+## Don Lemon and Musk coverage, March 2024
+
+On March 13, 2024, former CNN anchor Don Lemon announced that Elon Musk had cancelled his partnership with X hours after Lemon interviewed Musk for the debut of his new independent web-based show.[18] Lemon discussed the collapse in an interview with CNN's Erin Burnett that night and shared excerpts of the ninety-minute sit-down.[18] CNN had previously confirmed Musk's recent meeting with Donald Trump, one of several Trump held with donors in Palm Beach as he sought funds for a financially strained campaign.[18] Separately, CNN senior legal analyst Elie Honig characterized Judge Scott McAfee's partial dismissal of the Fulton County indictment as an embarrassing setback for District Attorney Fani Willis.[18]
+
 ## References
 
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
@@ -108,3 +118,5 @@ On March 6, 2023, CNN reported that "the U.S. has surpassed 100 mass shootings i
 14. Badlands Brief — "Badlands News Brief: Psyops Abound as the Media Landscape Shifts Rapidly", URL: https://badlands.substack.com/p/badlands-news-brief-6f7
 15. Badlands Brief — "Dumb Questions, Pentagon Pizzas, & Zero Trust", URL: https://badlands.substack.com/p/badlands-news-brief-669
 16. Badlands Brief — "Badlands News Brief: January 6 and Nord Stream Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-8f4
+17. Badlands Brief — "Archer's Testimony & Prussian Roulette", URL: https://badlands.substack.com/p/badlands-news-brief-9e7
+18. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15

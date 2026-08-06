@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [technology, satellite-internet, spacex, iran, israel, covert-operations]
-sources: [raw/badlands-brief-b34.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-9ae.md]
+sources: [raw/badlands-brief-b34.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-aaf.md, raw/badlands-news-brief-a72.md]
 confidence: medium
 ---
 
@@ -46,6 +46,16 @@ In a letter sent on Wednesday, March 6, 2024, House Democrats launched an invest
 
 Badlands writer [[burning-bright|Burning Bright]] framed the probe as part of a week in which [[donald-trump|Donald Trump]] and Musk — "the two biggest Mind-Movers in the Info War" — converged in the public narrative through hostile establishment reporting, with coverage shifting from campaign-funding speculation to "the Actual theater represented by Starlink, Department of Defense funding and international conflicts."[6] He restated the Badlands view that Musk "didn't buy Twitter ... he seized it on behalf of the Sovereign Alliance," and that the establishment both knew and feared this.[6]
 
+## Nationwide U.S. Coverage, October 2023
+
+On October 2, 2023, Starlink announced on X that its service had become available across the entire Lower 48 states following the deployment of second-generation satellites, which the company said carry four times the capacity of the first generation and "enable us to connect even more people no matter where they live."[7] Before the announcement, large portions of the U.S. map had been marked as pending, with coverage projected only for late 2023 or early 2024; tracking data cited at the time indicated roughly 5,039 Starlink satellites had been launched into low Earth orbit over the preceding years.[7]
+
+Badlands writer [[justin-deschamps|Justin Deschamps]] framed the milestone as strategically significant to the information war, arguing that internet censorship is a primary vector of globalism and that control of infrastructure at the server level — as in the deplatforming of Parler by Amazon — allows dissenting voices to be cut off entirely.[7] In this reading, [[elon-musk|Elon Musk]]'s acquisition of Twitter combined with Starlink's nationwide rollout gave alternative media a route around globalist information policy, potentially making Musk "uncancellable" and positioning him as a possible vehicle for long-anticipated data dumps exposing the cabal.[7] Deschamps also predicted retaliation in the form of coordinated personal accusations against Musk and the cancellation of his government contracts.[7]
+
+## FAA approval for United Airlines regional jets (2025)
+
+The Federal Aviation Administration approved the use of Starlink satellite internet on a regional jet model, clearing [[united-airlines|United Airlines]] to launch its first commercial flight with free Starlink Wi-Fi in May 2025.[8] United said it planned to install the service on 40 planes per month and complete its fleet of more than 300 regional jets by year's end, following beta testing, and that it would work with the FAA toward approval for every aircraft under a deal signed the previous September covering more than 1,000 planes.[8] United described the service — free to members of its MileagePlus frequent flyer program — as 50 times faster than the internet then available on its regional planes.[8]
+
 ## References
 1. Badlands Brief — "The Old Guard Is Very Confused About What's Happening to Them", URL: https://badlands.substack.com/p/badlands-brief-b34
 2. Badlands Brief — "Badlands News Brief: Hunter Hunted, Billionaire Boxing & Snopes Nopes", URL: https://badlands.substack.com/p/badlands-news-brief-090
@@ -53,3 +63,5 @@ Badlands writer [[burning-bright|Burning Bright]] framed the probe as part of a 
 4. Badlands Media — "Badlands News Brief: The Biden Crime Family Begins to Unravel ...", URL: https://badlands.substack.com/p/badlands-news-brief-505
 5. Badlands Brief — "Musk the Peacemaker, Constitutional Overreach & POTATUS", URL: https://badlands.substack.com/p/badlands-news-brief-670
 6. Badlands Brief — "Badlands News Brief: Will the One True POTUS Please Stand Up?", URL: https://badlands.substack.com/p/badlands-news-brief-9ae
+7. Badlands Brief — "Badlands News Brief: Supreme Court Rumblings & Witch Hunts Galore", URL: https://badlands.substack.com/p/badlands-news-brief-aaf
+8. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72

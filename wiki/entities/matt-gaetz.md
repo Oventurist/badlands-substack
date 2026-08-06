@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republican, russiagate]
-sources: [raw/badlands-news-brief-01d.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-11b.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-72e.md]
+sources: [raw/badlands-news-brief-01d.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-11b.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-9c6.md]
 confidence: medium
 ---
 
@@ -56,8 +56,13 @@ Gaetz's selection on 13 November 2024 left Senate Republicans shocked, and his w
 
 On June 6, 2023, Gaetz was among eleven Republicans, led by [[house-freedom-caucus|House Freedom Caucus]] members, who broke with their party on a routine procedural rule vote in retaliation for Speaker [[kevin-mccarthy|Kevin McCarthy]]'s handling of the [[debt-ceiling-agreement-2023|debt ceiling]] deal, the first such failed rule vote in nearly two decades.[9] "We're frustrated with the way this place is operating," Gaetz said. "We're not going to live in the era of the imperial speaker anymore."[9]
 
-## References
+## Attorney General Nomination and Senate Resistance (2024)
 
+After the 2024 election, President-elect [[donald-trump|Donald Trump]] nominated Gaetz, then a Republican representative from Florida, to serve as attorney general, a choice reported alongside the placement of several of Trump's criminal defense lawyers in other senior Department of Justice posts.[10] The pick was widely read as part of Trump's stated intention to pursue retribution against political adversaries.[10]
+
+By November 19, 2024, numerous Republican senators had told Trump and his team that they believed Gaetz had little chance of being confirmed, a message delivered to the president-elect himself, to incoming White House chief of staff [[susie-wiles|Susie Wiles]], and to Gaetz's unofficial "sherpa," Vice President-elect [[jd-vance|JD Vance]].[10] Senators worried about being tarnished by the process; those facing reelection in 2026, including [[thom-tillis|Thom Tillis]], feared a MAGA primary challenge if they opposed the nomination and a general-election liability if they backed it.[10] Others argued that Trump would waste political capital and attention on confirmation hearings better spent dismantling Joe Biden's regulatory and legislative legacy.[10] Trump reportedly acknowledged that Gaetz had "less than even odds" of confirmation but still wanted a fight, asking Republican senators to give his pick "a shot" and arguing that Gaetz was the man to fix the Justice Department, according to Sen. [[kevin-cramer|Kevin Cramer]].[10]
+
+## References
 
 1. Badlands News Brief — "Durham's Dance, Putin's Warning and Xi's Rebuke", URL: https://badlands.substack.com/p/badlands-news-brief-01d
 2. Badlands Brief — "Badlands News Brief: Draft Dodgers, Peacemakers & Warmongers Galore!", URL: https://badlands.substack.com/p/badlands-news-brief-0db
@@ -68,3 +73,4 @@ On June 6, 2023, Gaetz was among eleven Republicans, led by [[house-freedom-cauc
 7. Badlands Brief — "Trump Takes on Big Pharma and GART Kicks Off!", URL: https://badlands.substack.com/p/badlands-news-brief-62c
 8. Badlands Brief — "It’s Our Failed ‘Resistance’ and We Can Cry if We Want To", URL: https://badlands.substack.com/p/badlands-news-brief-656
 9. Badlands Brief — "Badlands News Brief: Ukraine Bursts, Tucker Returns & Trump Promises", URL: https://badlands.substack.com/p/badlands-news-brief-72e
+10. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6

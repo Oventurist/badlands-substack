@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [lawfare, new-york, trump-investigations, civil-fraud-case]
-sources: [raw/badlands-brief-884.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-3c1.md, raw/badlands-news-brief-7c6.md]
+sources: [raw/badlands-brief-884.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-3c1.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-a82.md]
 confidence: medium
 ---
 
@@ -36,8 +36,18 @@ On Saturday, March 25, 2023, following his rally in Waco, Texas, [[donald-trump|
 
 During the May 2024 New York hush money trial of [[donald-trump|Donald Trump]], the defense rested after calling a former federal prosecutor who challenged the credibility of the prosecution's key witness, Cohen.[4] Badlands contributor [[ashe-in-america|Ashe in America]] argued that Cohen and [[stormy-daniels|Stormy Daniels]] should be charged with perjury and that the prosecutors who put them on the stand — in her view knowing they would lie — should be disbarred.[4]
 
+## Role in the 2016 Hush-Money Payment
+
+Michael Cohen, as Donald Trump's former personal attorney, made the alleged 2016 payment of $130,000 in hush money to [[stormy-daniels|Stormy Daniels]] and was later reimbursed by Trump — the transaction at the center of Manhattan District Attorney [[alvin-bragg|Alvin Bragg]]'s expected March 2023 indictment.[5] Prosecutors were expected to argue that Trump's labeling of the reimbursement as a legal expense constituted falsifying business records under New York Penal Law Section 175.[5] Trump attorney [[joe-tacopina|Joe Tacopina]] countered that Cohen "was his lawyer at the time and advised him that this was the proper way to do this to protect himself and his family from embarrassment," making the reimbursement a legitimate legal fee paid to a lawyer rather than a payment to Daniels.[5]
+
+## Gag order loosened, June 2024
+
+When Justice [[juan-merchan|Juan M. Merchan]] loosened the gag order in [[donald-trump|Donald Trump]]'s Manhattan criminal case on June 25, 2024, the ruling expressly freed Trump to complain publicly about prosecution witnesses including his former fixer Michael D. Cohen.[6]
+
 ## References
 1. Badlands Brief — "War Weaves & Midterm Maxis", URL: https://badlands.substack.com/p/badlands-brief-884
 2. Badlands Media — "Badlands News Brief: Exculpatory Trump Card & China's Moves", URL: https://badlands.substack.com/p/badlands-news-brief-0e0
 3. Badlands Media — "Badlands News Brief: Witch Hunt, Woke's Fall & Peacemakers", URL: https://badlands.substack.com/p/badlands-news-brief-3c1
 4. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
+5. Badlands Brief — "Badlands News Brief: Trump Arrest ... Panic or No Panic?", URL: https://badlands.substack.com/p/badlands-news-brief-9e8
+6. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [foreign-aid, gaza, terrorism-finance, obama, badlands]
-sources: [raw/bad-actors.md, raw/badlands-brief-05f.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-215.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-7e8.md]
+sources: [raw/bad-actors.md, raw/badlands-brief-05f.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-215.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-9b2.md]
 confidence: medium
 ---
 
@@ -62,6 +62,14 @@ After the [[israel-defense-forces|IDF]] and Israeli settlers withdrew from Gaza 
 
 On December 1, 2025, Saudi Arabia transferred a $90 million grant to the Palestinian Authority to allow the cash-strapped Ramallah government to continue operating.[8] Formal notice of the grant was presented to PA Finance Minister Estephan Salameh by Saudi Ambassador to the Palestinians Prince Mansour bin Khalid, who said the tranche demonstrated Riyadh's commitment to supporting the PA and helping it meet its financial obligations.[8] The transfer came amid continued Israeli withholding of tax revenues collected on the PA's behalf; Badlands commentary argued that analysts predicting Saudi betrayal of the Palestinians had badly misread the situation and that the real question was why Israel controls Palestinian tax collection and can withhold billions in revenue without recourse.[8]
 
+## Abbas's 2024 United Nations appeal
+
+In his September 2024 address to the United Nations, [[mahmoud-abbas|Mahmoud Abbas]] argued that the Palestinian Authority should have control over all Palestinian territories and said it would hold elections once the war in Gaza ended.[9] He called for a comprehensive and permanent ceasefire, an end to attacks by Israeli settlers in the West Bank and East Jerusalem, delivery of humanitarian aid throughout Gaza, and a full withdrawal of the Israeli military from the enclave.[9]
+
+## Conflict with Hamas
+
+Badlands Media recounted the Authority's long antagonism with [[hamas|Hamas]]: its security forces were driven out of Gaza alongside the [[israel-defense-forces|Israel Defense Forces]] in 2007; Abbas subsequently refused dialogue with the group and declined to seat its officials in the Palestinian government unless it recognized Israel; and in 2018 Hamas attempted to assassinate the Authority's prime minister with a roadside bomb while he travelled to Gaza to negotiate a peaceful transfer of governance.[9] The outlet also stated that Abbas had criticized Hamas for launching the October 7 attack without informing the Authority and had blamed the group for the destruction that followed.[9]
+
 ## References
 
 1. Badlands Brief — "Bad Actors", URL: https://badlands.substack.com/p/bad-actors
@@ -72,3 +80,4 @@ On December 1, 2025, Saudi Arabia transferred a $90 million grant to the Palesti
 6. Badlands News Brief — "The Week of Rage Continues ... Biden to the Rescue?", URL: https://badlands.substack.com/p/badlands-news-brief-28e
 7. Badlands News Brief — "Post Mortems, Dog Fights, & Flight Risks", URL: https://badlands.substack.com/p/badlands-news-brief-721
 8. Badlands Brief — "Corruption Within Corruption & A Offer of Free Elections", URL: https://badlands.substack.com/p/badlands-news-brief-7e8
+9. Badlands News Brief — "Embattled Mayors, Peacemakers & Signal Setters", URL: https://badlands.substack.com/p/badlands-news-brief-9b2

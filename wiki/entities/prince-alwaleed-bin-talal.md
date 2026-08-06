@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [saudi-arabia, lebanon, jeddah, finance, cia]
-sources: [raw/a-conflict-of-interest.md, raw/a-dereliction-of-duty.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-1.md, raw/arabian-nights.md, raw/bad-actors.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-dereliction-of-duty.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-1.md, raw/arabian-nights.md, raw/bad-actors.md, raw/badlands-news-brief-a82.md]
 confidence: low
 ---
 
@@ -44,6 +44,10 @@ The article traces the relationship to California in the late 1970s. Newsmax rep
 
 Lange further argues that Alwaleed was the creditor repaid when Obama, hours before Trump's inauguration and over the objections of [[congress|Congress]], released $221 million to the [[palestinian-authority|Palestinian Authority]] through [[usaid|USAID]] to settle Clinton's [[clinton-foundation|Clinton Foundation]] obligations.[6] He also connects Alwaleed to the Iraq reconstruction funds traced by [[stuart-w-bowen-jr|Stuart W. Bowen Jr.]] to a bunker in rural Lebanon, noting that Lebanon is both the base of Hezbollah and the place where Alwaleed was raised as a young child and retains extensive family connections.[6] By this reading both [[george-w-bush|George W. Bush]] and Obama were his puppets, and he controlled terrorist groups through his control of the CIA.[6] The Q drop cited at the article's close came four days before Alwaleed's arrest in Saudi Arabia along with hundreds of his allies, an event Lange describes as Trump cutting a great many puppet strings at once.[6]
 
+## Seizure of Kingdom Holdings
+
+During the Royal Purge, Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] seized control of Alwaleed bin Talal's Kingdom Holdings, a $12 billion investment fund, along with the [[saudi-binladin-group|Bin Laden Group]], the largest construction firm in Saudi Arabia.[7]
+
 ## References
 1. Badlands Brief — "A Conflict of Interest", URL: https://badlands.substack.com/p/a-conflict-of-interest
 2. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
@@ -51,3 +55,4 @@ Lange further argues that Alwaleed was the creditor repaid when Obama, hours bef
 4. Badlands Brief — "America for Sale - Part 1", URL: https://badlands.substack.com/p/america-for-sale-part-1
 5. Badlands Brief — "Arabian Nights", URL: https://badlands.substack.com/p/arabian-nights
 6. Badlands Brief — "Bad Actors", URL: https://badlands.substack.com/p/bad-actors
+7. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82

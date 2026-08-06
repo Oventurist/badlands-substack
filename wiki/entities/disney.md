@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [corporations, media, americana, boycotts]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-brief-0a2.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-3c1.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-9b2.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-brief-0a2.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-3c1.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-a3b.md]
 confidence: medium
 ---
 
@@ -65,6 +65,14 @@ In late September 2024, Disney began a new wave of job cuts described by the com
 
 The cuts followed a July 31, 2024 round at Disney Entertainment Television in which about 140 people — roughly 2% of that workforce — were let go, and a 14% staff reduction at the animation studio Pixar in May of the same year.[9] They also coincided with a second round of layoffs at [[paramount-global|Paramount Global]], which was aiming to cut 15% of its US workforce with Paramount+ bearing the brunt.[9]
 
+## 2023 SEC filing and the "woke" pivot
+
+In its fiscal 2023 annual filing with the U.S. Securities and Exchange Commission, the Walt Disney Company acknowledged that it faces "risks relating to misalignment with public and consumer tastes and preferences for entertainment, travel, and consumer products," and that "revenues and profitability are adversely impacted" when its "entertainment offerings and products" fail to "achieve sufficient consumer acceptance."[10] The same filing described the company as "a diversified worldwide entertainment company" with Diversity, Equity and Inclusion objectives that include "building teams that reflect the life experiences of our audiences, while employing and supporting a diverse array of voices in our creative and production teams."[10] Commentators read the disclosure as a tacit admission of the maxim coined by Florida Governor [[ron-desantis|Ron DeSantis]], "Go Woke. Go Broke."[10]
+
+The filing reported fiscal 2023 revenues of $88.9 billion, a seven percent increase over fiscal 2022, even as The Hollywood Reporter noted Disney had cut television and film content spending from $29.8 billion to $27.2 billion.[10] Business Insider had reported in May 2023 that the company entered a third round of layoffs, releasing around 7,000 employees, and scrapped plans for a $900 million corporate campus in Florida.[10]
+
+[[burning-bright|Burning Bright]] argued that the "Get Woke, Go Broke" trend was accelerating, with Disney in the midst of a "Crisis Cascade" of box-office failures across both male- and female-dominated brands.[10] He added that a key informational trend of the culture war was the subconscious training of otherwise-disengaged Americans in sourcing primary documents and parsing corporate speak, since financial filings now proved the company knew exactly what was happening.[10]
+
 ## References
 1. Badlands Brief — "A Communist Plot to Take Over America", URL: https://badlands.substack.com/p/a-communist-plot-to-take-over-america
 2. Badlands Brief — "A Virtual Smash & Grab & Another Impeachment Hoax", URL: https://badlands.substack.com/p/badlands-brief-0a2
@@ -75,3 +83,4 @@ The cuts followed a July 31, 2024 round at Disney Entertainment Television in wh
 7. Badlands News Brief — "Trump Counters, SBF Pleads & Disney Dies?", URL: https://badlands.substack.com/p/badlands-news-brief-4c3
 8. Badlands Brief — "Palestinian Promises, Venezuelan Ventures, & Kazakh Considerations", URL: https://badlands.substack.com/p/badlands-news-brief-8ce
 9. Badlands News Brief — "Embattled Mayors, Peacemakers & Signal Setters", URL: https://badlands.substack.com/p/badlands-news-brief-9b2
+10. Badlands Brief — "Badlands News Brief: The DOJ Deploys All Assets and an Infamous Politico Dies", URL: https://badlands.substack.com/p/badlands-news-brief-a3b

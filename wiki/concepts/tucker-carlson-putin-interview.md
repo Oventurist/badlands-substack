@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [media, russia, ukraine, interview, information-war]
-sources: [raw/badlands-news-brief-11c.md, raw/badlands-news-brief-575.md]
+sources: [raw/badlands-news-brief-11c.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-a66.md]
 confidence: medium
 ---
 
@@ -24,7 +24,16 @@ Writing afterward, [[burning-bright|Burning Bright]] scored his own pre-intervie
 
 Putin instead went deep on the Maidan coup and [[cia|CIA]] backing of it — treating intelligence-agency-led coups as a key vector of asymmetric Western power projection — along with NATO expansionism, the petrodollar as a globalist weapon of war, and the suspect character of US elections in which states decide who appears on the ballot.[2] Burning Bright highlighted as unexpected the lengthy opening history lesson focused on the Russian people rather than the Russian Federation, and Putin's esoteric asides on peace between religions and "inherent laws," which he described as big-picture philosophizing rare among modern leaders.[2] He further argued that Putin hinted at the gravity of [[devolution|Devolution]] and the Sovereign Alliance by suggesting that conditions had changed between 2014 and 2022 in ways that permitted his moves in the Donbas.[2]
 
+## Carlson's pre-interview explanation
+
+Ahead of the sit-down, and as critics on the left reacted to his being spotted in Moscow, Carlson published an explainer on his website setting out why he was interviewing Putin, attributing the decision to an incurious Western media that had left the public grossly uninformed.[3] "Here's why we're doing it. First, because it's our job. We're in journalism. Our duty is to inform people," he said, adding that two years into a war reshaping the entire world, most Americans had "no real idea what's happening in this region, here in Russia or 600 miles away in Ukraine," though they were paying for much of it.[3] He called the war a human disaster that had left hundreds of thousands dead, consumed a generation of young Ukrainians, and depopulated the largest country in Europe.[3]
+
+Carlson argued the war had "utterly reshaped the global military and trade alliances" and "upended the world economy," and that the post-World War II Bretton Woods economic order — along with the dominance of the US dollar — was "coming apart very fast."[3] He also attacked corporate media, saying Ukrainian President [[volodymyr-zelensky|Volodymyr Zelensky]] had been the beneficiary of softball, curated Western interviews he called "prep sessions": "That is not journalism. It is government propaganda."[3]
+
+Badlands writer [[ashe-in-america|Ashe in America]] called the endeavor "genius" and a signal of a new phase of "Con, Inc" disclosures, noting that many figures who stayed Trump-loyal during the primary were now alarmed at Americans hearing from Russians firsthand because the interview threatened the resources invested in the Russia narrative.[3] She singled out [[sebastian-gorka|Sebastian Gorka]], who tweeted, "I remember when Americans didn't do PR for KGB colonels. Well, without being agents of the Kremlin," and asked why a self-described conservative would not want Americans to hear the Russian side, concluding that authoritarians always justify censorship as being "for your safety."[3]
+
 ## References
 
 1. Badlands Brief — "The Turn on Biden Begins", URL: https://badlands.substack.com/p/badlands-news-brief-11c
 2. Badlands Brief — "Badlands News Brief: Putin Pandemonium Competes with A Biden Blitz", URL: https://badlands.substack.com/p/badlands-news-brief-575
+3. Badlands Brief — "The President of Precedent & a Trapped Economy", URL: https://badlands.substack.com/p/badlands-news-brief-a66

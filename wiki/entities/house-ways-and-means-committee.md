@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, oversight, taxation, hunter-biden]
-sources: [raw/badlands-news-brief-204.md, raw/badlands-news-brief-3c3.md]
+sources: [raw/badlands-news-brief-204.md, raw/badlands-news-brief-3c3.md, raw/badlands-news-brief-948.md]
 confidence: medium
 ---
 
@@ -24,6 +24,11 @@ In August 2023 the committee opened an investigation into whether liberal activi
 
 The inquiry turned on the [[internal-revenue-service|IRS]] rule permitting 501(c)(3) organisations to conduct voter registration and get-out-the-vote drives only where those activities are neutral and non-partisan, without reference to any candidate or party.[2] Tenney said she was concerned that activists were instead engaged in "vote trafficking," using the system to turn out only Democrat-supporting voters while accepting large sums from liberal donors or foreign interests.[2] The story was reported by [[just-the-news|Just the News]].[2]
 
+## IRS whistleblower interviews (December 2023)
+
+Badlands writer [[just-human|Just Human]] reported that during the first week of December 2023 the Ways and Means Committee again interviewed IRS whistleblowers in connection with the [[hunter-biden|Hunter Biden]] tax investigation, part of a week of Biden-family developments that also included [[james-biden|James Biden]]'s failure to appear before the [[biden-impeachment-inquiry|House impeachment inquiry]] panel.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Narrative Shielding & Biden Bait", URL: https://badlands.substack.com/p/badlands-news-brief-204
 2. Badlands Brief — "Badlands News Brief: From Hunter to NATO, It's All About Ukraine", URL: https://badlands.substack.com/p/badlands-news-brief-3c3
+3. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948

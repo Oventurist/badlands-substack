@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [supreme-court, judiciary, immigration, asylum]
-sources: [raw/badlands-brief-174.md, raw/badlands-brief-686.md, raw/badlands-brief-c5b.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-6fc.md]
+sources: [raw/badlands-brief-174.md, raw/badlands-brief-686.md, raw/badlands-brief-c5b.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-a69.md]
 confidence: medium
 ---
 
@@ -38,9 +38,14 @@ Badlands' commentary framed the appearance through its "we're watching a movie, 
 
 During the [[supreme-court-of-the-united-states|Supreme Court]]'s February 2024 consideration of the effort to bar [[donald-trump|Donald Trump]] from the ballot under Section 3 of the Fourteenth Amendment, Jackson — one of the Court's liberal justices — called the disqualification effort anti-democratic.[5] Legal commentator [[jonathan-turley|Jonathan Turley]] cited her remark as evidence that the justices had given the theory, promoted as "unassailable" by Harvard's [[laurence-tribe|Laurence Tribe]], a reception that "bordered on the glacial," raising the possibility of a unanimous rejection.[5]
 
+## Trump v. CASA dissent (2025)
+
+Jackson's dissent in [[trump-v-casa|Trump v. CASA]], decided June 27, 2025, drew unusual attention for its tone, which commentators said shocked both court watchers and her colleagues and echoed the rhetoric of the [[no-kings-protests|"No Kings" protests]].[6] Critics wrote that the most junior justice had effectively accused her colleagues of being toadies for tyranny, prompting the majority to push back on the rhetoric.[6] Badlands contributor [[ashe-in-america|Ashe in America]] described Justice [[amy-coney-barrett|Amy Coney Barrett]]'s response as an "absolute dismantling" of a dissent that reimagined the Constitution.[6]
+
 ## References
 1. Badlands Brief — "Conflicts, Cartels, & Clemency", URL: https://badlands.substack.com/p/badlands-brief-174
 2. Badlands Brief — "To Infinity & Iran!", URL: https://badlands.substack.com/p/badlands-brief-686
 3. Badlands Brief — "A Christian Court Victory, Sovereign Alliance Comms and Off-Ramps Galore?", URL: https://badlands.substack.com/p/badlands-brief-c5b
 4. Badlands Brief — "Theatrical Judges, Syrian Statements & Canadian Defections", URL: https://badlands.substack.com/p/badlands-news-brief-311
 5. Badlands Brief — "Biden Hemorrhages Already-Nonexistent Support", URL: https://badlands.substack.com/p/badlands-news-brief-6fc
+6. Badlands News Brief — "Shadow Feds, Activist Courts, & Lasting Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a69

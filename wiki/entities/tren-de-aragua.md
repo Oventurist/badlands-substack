@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [venezuela, organized-crime, terrorism, cia, latin-america]
-sources: [raw/badlands-brief-708.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-4bb.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-93e.md]
+sources: [raw/badlands-brief-708.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-4bb.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-ae1.md]
 confidence: medium
 ---
 
@@ -89,6 +89,15 @@ In raids conducted on the night of Tuesday, January 28, 2025, the [[nypd|New Yor
 
 The gang's rapid growth in the United States featured in the debate over [[temporary-protected-status|temporary protected status]] for Venezuelan migrants, which the [[donald-trump|Trump]] administration ended that same week.[12]
 
+## Named in the 2025 Maduro reward announcement
+
+Announcing a $50 million reward for information leading to the arrest of Venezuelan President [[nicolas-maduro|Nicolás Maduro]] on August 7, 2025, Attorney General [[pam-bondi|Pam Bondi]] said Maduro "uses foreign terrorist organizations like Tren de Aragua, the [[sinaloa-cartel|Sinaloa Cartel]], and the [[cartel-de-los-soles|Cartel of the Suns]] to bring deadly drugs and violence into our country."[13] The [[drug-enforcement-administration|DEA]] was said to have seized thirty tons of cocaine tied to Maduro's network, much of it laced with fentanyl.[13]
+
+## March 2025 mass deportation under the Alien Enemies Act
+
+In mid-March 2025 the [[trump-administration|Trump administration]] made Tren de Aragua the target of the first modern invocation of the [[alien-enemies-act|Alien Enemies Act]], deporting hundreds of alleged members over the weekend of March 15–16 despite an order from U.S. District Judge [[james-boasberg|James Boasberg]] temporarily blocking use of the law.[14] Government lawyers told the court that the statute was being used specifically against members of the gang, described in reporting as a violent Venezuelan organization whose members had reached the United States in recent years and which had also faced raids in Chile.[14] White House press secretary [[karoline-leavitt|Karoline Leavitt]] said the [[department-of-homeland-security|Department of Homeland Security]] had arrested nearly 300 members of the gang that weekend, and Secretary of State [[marco-rubio|Marco Rubio]] framed the removals as sending "hundreds of violent criminals" out of the country.[14]
+
+
 ## References
 1. Badlands Brief — "AMERICA IS BACK", URL: https://badlands.substack.com/p/badlands-brief-708
 2. Badlands Brief — "A Politician is Swallowelled Whole as the Middle East Realigns in Real Time", URL: https://badlands.substack.com/p/badlands-brief-9ea
@@ -102,3 +111,5 @@ The gang's rapid growth in the United States featured in the debate over [[tempo
 10. Badlands Brief — "Badlands News Brief: Ongoing Judicial Coups. Newly Jailed Judges.", URL: https://badlands.substack.com/p/badlands-news-brief-8a9
 11. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
 12. Badlands Brief — "Badlands News Brief: A Midflight Collision, Dems Choose Division, Menendez Gets Prison", URL: https://badlands.substack.com/p/badlands-news-brief-93e
+13. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
+14. Badlands News Brief — "Defiant Deportations & Canadian Freeloaders", URL: https://badlands.substack.com/p/badlands-news-brief-ae1

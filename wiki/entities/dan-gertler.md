@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [drc, mining, sanctions, corruption]
-sources: [raw/badlands-brief-abf.md, raw/badlands-news-brief-021.md, raw/badlands-news-brief-03a.md, raw/badlands-news-brief-1ba.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-4c5.md]
+sources: [raw/badlands-brief-abf.md, raw/badlands-news-brief-021.md, raw/badlands-news-brief-03a.md, raw/badlands-news-brief-1ba.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-a69.md]
 confidence: medium
 ---
 
@@ -62,6 +62,10 @@ Badlands commentary recounted that on January 15, 2021, during the final days of
 
 Treasury Secretary [[janet-yellen|Janet Yellen]] reissued the sanctions against Gertler in March 2021 once the press finally reported the development, and the Biden [[justice-department|Justice Department]] then successfully prosecuted the case, stripping Gertler of his African mining rights in 2022.[8] Those rights were subsequently acquired legally by members of what Badlands calls the [[sovereign-alliance|Sovereign Alliance]] — the UAE, Russia and China — an outcome [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] presented as both a [[devolution|Devolution]] proof and a Sovereign Alliance proof.[8]
 
+## Place in the DR Congo minerals narrative
+
+Badlands commentary on the June 2025 [[rwanda-drc-peace-agreement-2025|Rwanda–DR Congo peace agreement]] positions Gertler, described as a scion of the Israeli Diamond Cartel, at the origin of the story: he was targeted by [[executive-order-13818|Executive Order 13818]], signed December 20, 2017.[9] His longtime business partner, DRC President [[joseph-kabila|Joseph Kabila]], was subsequently displaced by [[felix-tshisekedi|Félix Tshisekedi]], after which Gertler and former Mossad director [[yossi-cohen|Yossi Cohen]] were alleged to have made the first of several attempts to overthrow the new government.[9] The wider affair also encompassed arrests of high-profile figures at the world's top three commodity trading houses, including [[glencore|Glencore]], over access to an estimated $24 trillion in Congolese rare earth minerals.[9]
+
 ## References
 1. Badlands Brief — "Long-Term Legal Remedies & A Reboot of Russian Relations", URL: https://badlands.substack.com/p/badlands-brief-abf
 2. Badlands Brief — "Seditious Overreactions, Billion Dollar Bailouts, & NATO-Style Guarantees", URL: https://badlands.substack.com/p/badlands-news-brief-021
@@ -71,3 +75,4 @@ Treasury Secretary [[janet-yellen|Janet Yellen]] reissued the sanctions against 
 6. Badlands Brief — "Badlands News Brief: Extra-Judicial Judges & Master Manipulating Monsters", URL: https://badlands.substack.com/p/badlands-news-brief-324
 7. Badlands Brief — "Climbing Confidence, a Congolese Crisis, & Uncorroborated KGB Claims", URL: https://badlands.substack.com/p/badlands-news-brief-457
 8. Badlands Brief — "Badlands News Brief: Fake Poles, HomOlympics & Deal-Making", URL: https://badlands.substack.com/p/badlands-news-brief-4c5
+9. Badlands News Brief — "Shadow Feds, Activist Courts, & Lasting Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a69

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [white-house, immigration, trump-administration]
-sources: [raw/badlands-brief-144.md, raw/badlands-brief-6f4.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-942.md]
+sources: [raw/badlands-brief-144.md, raw/badlands-brief-6f4.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-942.md, raw/badlands-news-brief-9bc.md]
 confidence: medium
 ---
 
@@ -55,6 +55,10 @@ Speaking on July 8, 2024 at an event in Washington, DC hosted by the National Co
 
 Badlands writer [[ashe-in-america|Ashe in America]] called this "the winning message at this critical moment," arguing that Harris, the cabinet, congressional leaders, bureaucrats, the intelligence community and the news media had conspired to hide an incapacitated president — a conspiracy she framed against the origins of the [[twenty-fifth-amendment|25th Amendment]] in Woodrow Wilson's hidden decline.[9]
 
+## Appointment as deputy chief of policy (November 2024)
+
+On Monday, November 11, 2024, President-elect [[donald-trump|Donald Trump]] named Miller, a longtime adviser, as deputy chief of policy for the incoming administration, announced alongside the selection of former Representative [[lee-zeldin|Lee Zeldin]] to lead the [[environmental-protection-agency|Environmental Protection Agency]].[10] Badlands writer [[burning-bright|Burning Bright]] described "'silent-running' Stephen Miller" as one of the supposed "lesser" names carrying the real significance of the second Trump administration — alongside [[kash-patel|Kash Patel]], [[tom-homan|Tom Homan]], [[mike-waltz|Mike Waltz]] and [[susie-wiles|Susie Wiles]] — arguing that such names meant nothing to normies but a great deal to the Truth Community and even more to the Deep State.[10]
+
 ## References
 1. Badlands Brief — "MLKKK Day, Peace Boards and Power Paradigms", URL: https://badlands.substack.com/p/badlands-brief-144
 2. Badlands Brief — "Illegal Psychological Warfare Campaigns & Misprision of Treason", URL: https://badlands.substack.com/p/badlands-brief-6f4
@@ -65,3 +69,4 @@ Badlands writer [[ashe-in-america|Ashe in America]] called this "the winning mes
 7. Badlands News Brief — "Trump Counters, SBF Pleads & Disney Dies?", URL: https://badlands.substack.com/p/badlands-news-brief-4c3
 8. Badlands Brief — "Dumb Questions, Pentagon Pizzas, & Zero Trust", URL: https://badlands.substack.com/p/badlands-news-brief-669
 9. Badlands Brief — "Kamala on the Media Block as Putin Makes Moves", URL: https://badlands.substack.com/p/badlands-news-brief-942
+10. Badlands News Brief — "Trump's Avengers Assemble as Globalists Tremble", URL: https://badlands.substack.com/p/badlands-news-brief-9bc

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [trafficking, children, border, exploitation, info-war]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-c91.md, raw/badlands-news-brief-49a.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-c91.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-a61.md]
 confidence: medium
 ---
 
@@ -42,7 +42,16 @@ An early congressional airing of the unaccompanied-minor trafficking problem cam
 
 [[badlands-media|Badlands Media]] contributor [[burning-bright|Burning Bright]] summarized the hearing's institutional response as simultaneous acknowledgment, disavowal, and deflection, but argued that repeatedly forcing the issue into the American limelight makes it harder to suppress over the long haul.[3] The Gateway Pundit incorporated the testimony into a wider indictment of the [[barack-obama|Obama]]-era and Biden-era federal apparatus.[3]
 
+## 2023 Mexican trailer interdiction and the language of "adolescent migrants"
+
+In late January 2023, Mexican immigration authorities said they had found 57 Guatemalan adolescents packed into a trailer on a highway near the U.S. border — 43 boys and 14 girls, along with eight men and a woman and her daughter.[4] All of the adolescents were classified as unaccompanied minors, meaning none had a parent or relative with them.[4]
+
+Badlands contributor [[brad-getz|Brad Getz]] argued that describing the group as "adolescent migrants" rather than trafficking victims was a deliberate softening of language, evoking the image of a boy sent north by his mother in search of a better life while obscuring the reality that many such children are taken by adults and handed to coyotes as payment for their own passage.[4] He contended that if 57 were rescued in one interdiction, far more go unrescued daily.[4]
+
+Getz further tied the problem to border infrastructure, arguing that a border wall creates choke points at which traffic can be inspected more efficiently for narcotics, weapons and trafficking victims, and contrasting the $5 billion [[donald-trump|Donald Trump]] sought to complete the wall with the roughly $110 billion directed to a border six thousand miles away — 22 times as much — as evidence that the concern for children at the southern border was a matter of optics.[4]
+
 ## References
 1. Badlands Brief — "Mixed Gender Crews, Trafficking Stings, & Shadow Cabal Reruns", URL: https://badlands.substack.com/p/badlands-brief-029
 2. Badlands Brief — "Trump Rugs the Deltas with an Early MOU", URL: https://badlands.substack.com/p/badlands-brief-c91
 3. Badlands Brief — "Badlands News Brief: FOX Trots, Montana Maintains & Congress Convenes", URL: https://badlands.substack.com/p/badlands-news-brief-49a
+4. Badlands News Brief — "Big Pharma, Big Lies and Big Boomerangs", URL: https://badlands.substack.com/p/badlands-news-brief-a61

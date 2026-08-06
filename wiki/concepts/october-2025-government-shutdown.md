@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [government-shutdown, congress, federal-budget, appropriations, libertarianism]
-sources: [raw/badlands-news-brief-060.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-398.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-8d6.md, raw/badlands-news-brief-94b.md]
+sources: [raw/badlands-news-brief-060.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-398.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-8d6.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-aae.md]
 confidence: medium
 ---
 
@@ -95,6 +95,20 @@ President [[donald-trump|Donald Trump]] warned Democrats that he would soon deci
 Badlands host [[burning-bright|Burning Bright]] said he and [[jon-herold|Jon Herold]] had laid out in advance how Trump and Vought would roll out budget cuts during a shutdown they had baited, predicting "a death by a thousand cuts sort of thing... doing ironically what the DOGE deployment said it was going to do," and judged the early results "so far, so good."[11] [[chris-paul|Chris Paul]] argued that the shutdown narrative was a rerun — "the covid death clock of 2025" — in which each side sacrifices principles on behalf of the State, and concluded that "it is good that the federal government is shut down," which should remain so at least until the People's relationship with the State has been totally reset.[11] The administration's warnings of major trimming of the federal government during the shutdown also preceded Defense Secretary [[pete-hegseth|Pete Hegseth]]'s firing of Navy chief of staff [[jon-harrison|Jon Harrison]].[11]
 
 
+## Resolution
+
+On the night of Monday, November 10, 2025, the [[us-senate|Senate]] passed a government funding package by a vote of 60–40, paving the way for ending what had become the longest shutdown in history.[12] The vote came roughly twenty-four hours after a bipartisan group of rank-and-file senators, working in tandem with Majority Leader [[john-thune|John Thune]], reached an agreement that broke the weeks-long partisan stalemate.[12] Eight members of the Senate Democratic Caucus voted to pass the deal — the same configuration of lawmakers who had voted to advance the package the night before.[12]
+
+The bipartisan bill still required passage by the [[us-house-of-representatives|House]] and the signature of President [[donald-trump|Donald Trump]] before the government could reopen, and Speaker [[mike-johnson|Mike Johnson]] advised his members that the House could vote on the package as soon as Wednesday.[12] Trump was expected to lean on potential House GOP holdouts, while a cadre of moderate House Democrats was thought likely to support the plan in a break with party leaders still smarting over the failure to secure an extension of expiring [[obamacare-subsidy-lapse|Obamacare tax credits]].[12] Senate passage put the federal funding lapse on track to be over by the end of the week.[12]
+
+The package included a three-bill "minibus" funding the Department of Agriculture and the FDA, the Department of Veterans Affairs and military construction projects, and the operations of [[congress|Congress]] for the whole of the current fiscal year — the product of months of bipartisan, bicameral negotiation among top appropriators.[12] All other agencies would be funded through January 30.[12]
+
+## Democratic backlash
+
+The deal convulsed the Democratic Party, because the moderates' support all but ensured the shutdown would end without Republicans conceding anything on the Democrats' central demand for an extension of ObamaCare subsidies.[12] Liberals in and out of Congress, who had cheered the party throughout the weeks-long standoff and urged it to keep fighting to prevent health care costs from spiking at the start of the following year, were infuriated by the Sunday-night development.[12] Their frustration was intensified by the previous week's off-year election results, which delivered resounding Democratic victories across the country and suggested that voters wanted the fight over health care subsidies to continue.[12] Representative [[mark-pocan|Mark Pocan]] of Wisconsin, a former head of the Congressional Progressive Caucus, wrote on X that the senators who backed the deal had undone "all the hard work people put in to Tuesday's elections."[12] Liberal activist groups likewise accused Democrats of failing to fight hard enough against Trump since his return to the White House.[12]
+
+Writing in the [[badlands-news-brief|Badlands News Brief]], [[ashe-in-america|Ashe in America]] observed that the democratic socialists were "big mad because they got nothing out of it," argued that Republicans had secured new provisions for themselves as legislators rather than for their constituents, and asked readers what the people actually gain by reopening the government — answering that it was "about the same as the DSA."[12]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Quantum Tunneling, Natural Conflicts, & Pirates for Gaza", URL: https://badlands.substack.com/p/badlands-news-brief-060
@@ -108,3 +122,4 @@ Badlands host [[burning-bright|Burning Bright]] said he and [[jon-herold|Jon Her
 9. Badlands Brief — "Badlands News Brief: MAGA Cracks, Fund Funnels, & Devilish Bees", URL: https://badlands.substack.com/p/badlands-news-brief-817
 10. Badlands Brief — "Badlands News Brief: Inadvertent Israeli Attacks, Delightful Deep Fakes, & A Suing Shaman", URL: https://badlands.substack.com/p/badlands-news-brief-8d6
 11. Badlands Brief — "Posse Comitatus & Haggling with Hamas", URL: https://badlands.substack.com/p/badlands-news-brief-94b
+12. Badlands Brief — "Badlands News Brief: Reopening Washington, Rescheduling Putin, & Revisiting De Jure", URL: https://badlands.substack.com/p/badlands-news-brief-aae

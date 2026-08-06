@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, debanking, litigation, january-6]
-sources: [raw/badlands-brief-577.md, raw/badlands-brief-695.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-47a.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-85a.md]
+sources: [raw/badlands-brief-577.md, raw/badlands-brief-695.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-47a.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a56.md]
 confidence: medium
 ---
 
@@ -80,6 +80,14 @@ At the bank's annual investor day on May 19, 2025, chief executive [[jamie-dimon
 
 In March 2023 Reuters reported that chief executive [[jamie-dimon|Jamie Dimon]] would be deposed under oath about the bank's relationship with [[jeffrey-epstein|Jeffrey Epstein]], a former client, with the interview expected in early May.[14] The disclosure came from [[brad-edwards|Brad Edwards]], an attorney for women who allege Epstein abused them and who are suing the largest U.S. bank for allegedly enabling his sex trafficking.[14] [[badlands-media|Badlands Media]] commentary paired the JPMorgan case with the parallel [[deutsche-bank|Deutsche Bank]] litigation, arguing that the mere association of major banks with Epstein victims in headlines during a financial crisis carried more public weight than the underlying legal record.[14]
 
+## Bitcoin call (May 2025)
+
+In May 2025 JPMorgan analysts flipped from gold to [[bitcoin|bitcoin]], predicting that bitcoin would outperform gold over the remainder of 2025, a call reported as the bitcoin price reclaimed $100,000 and rose to $106,000.[15]
+
+## USVI disclosure of $1 billion in suspicious Epstein transfers (September 2023)
+
+In September 2023 the [[us-virgin-islands|U.S. Virgin Islands]] told a federal court in Manhattan that JPMorgan had flagged more than $1 billion in suspicious transactions linked to [[jeffrey-epstein|Jeffrey Epstein]] and reported them to the U.S. government, a disclosure made in a 2019 filing to the U.S. Department of the Treasury after Epstein died in a Manhattan jail cell a month following his sex-trafficking arrest.[16] Bloomberg noted it was the first time the sheer volume of Epstein's financial activity at the bank over a 16-year period had been disclosed; Epstein had banked there from the late 1990s until 2013, when the firm cut ties.[16] USVI attorney Mimi Liu said "JPMorgan was a full-service bank for Jeffrey Epstein's sex trafficking."[16] The bank denied letting Epstein's activities slide and said it reported around 150 cash transactions to a federal regulator between 2002 and 2013; the territory had told the judge a month earlier that the bank facilitated over $1.1 million in payments from Epstein to "girls or women," many with Eastern European surnames.[16] [[burning-bright|Burning Bright]] observed that the name most associated with elite child trafficking could not surface without a major financial institution attached to it, adding: "Drip. Drip. Flood."[16]
+
 ## References
 1. Badlands Brief — "ICE Getting Boiled, Chinese Coup Chaos, & Carney Bends The Knee", URL: https://badlands.substack.com/p/badlands-brief-577
 2. Badlands Brief — "Election Bombshells, Peace Board Bangers, & Clintons in Contempt", URL: https://badlands.substack.com/p/badlands-brief-695
@@ -95,3 +103,5 @@ In March 2023 Reuters reported that chief executive [[jamie-dimon|Jamie Dimon]] 
 12. Badlands Brief — "Badlands News Brief: Mostly Peaceful Riots and Billionaire Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-6db
 13. Badlands News Brief — "The Bilateral Bromance & A Misled Grand Jury", URL: https://badlands.substack.com/p/badlands-news-brief-7bf
 14. Badlands Brief — "Bank of Epstein, Saudi Arabia & Trump's Reprieve?", URL: https://badlands.substack.com/p/badlands-news-brief-85a
+15. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
+16. Badlands Brief — "Badlands News Brief: Corruption Probes, Client Lists & Mud Pits", URL: https://badlands.substack.com/p/badlands-news-brief-a56

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [social-media, ccp, algorithms, ai]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/a-new-hollywood.md, raw/badlands-news-brief-08a.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-09b.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-592.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-8ce.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/a-new-hollywood.md, raw/badlands-news-brief-08a.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-09b.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-592.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a69.md]
 confidence: medium
 ---
 
@@ -86,6 +86,16 @@ Commentators argued the posts presented a damaging image of the US military to p
 
 In late September 2025 President [[donald-trump|Donald Trump]] was expected to approve a [[tiktok-us-joint-venture-deal|deal]] placing TikTok's US operations under majority American ownership, with all user data held in a secure US-based cloud.[13] Under the arrangement TikTok's US business would operate as a new joint-venture company with [[bytedance|ByteDance]] limited to under 20% ownership and one seat on a seven-member board otherwise composed mostly of US citizens with national security and cybersecurity expertise.[13] [[oracle|Oracle]] would act as trusted security partner, and TikTok's US algorithm would be duplicated, leased to the joint venture, retrained and continuously monitored outside ByteDance's control.[13]
 
+## House divestment vote, March 2024
+
+On March 13, 2024, the House of Representatives passed a bill requiring TikTok's divestment from its Chinese parent by a vote of 352-65-1, with fifteen Republicans and fifty Democrats voting against.[14] The measure moved to the Senate with the declared support of Intelligence Committee Chairman Mark Warner and Vice Chairman Marco Rubio, and President Joe Biden said he would sign it if Congress sent it to him.[14] Representative Thomas Massie argued on the floor that the legislation was "actually a trojan horse" and raised First Amendment concerns, saying Americans "have the right to view information, and don't need to be protected by the government from information."[14]
+
+Badlands commentary read the bill as the Deep State building a pretext for further systems of control, while also noting Donald Trump's ambiguous position following meetings with ByteDance part-owner Jeffrey Yass and with Elon Musk, and speculating that Trump's media conglomerate might be maneuvering to acquire the platform.[14]
+
+## Sale speculation (June 2025)
+
+In an interview on Fox's Sunday Morning Futures with Maria Bartiromo in late June 2025, President [[donald-trump|Donald Trump]] revealed that a "very wealthy" group of buyers was set to purchase TikTok in the coming weeks.[15] "We have a buyer for TikTok, by the way," he said, adding that he would probably need China's approval but that "President Xi will probably do it."[15] Asked to identify the buyer, Trump said the group would be revealed in two weeks, describing them only as "very, very wealthy people."[15]
+
 ## References
 1. Badlands Brief — "A Communist Plot to Take Over America", URL: https://badlands.substack.com/p/a-communist-plot-to-take-over-america
 2. Badlands Brief — "A New Hollywood", URL: https://badlands.substack.com/p/a-new-hollywood
@@ -100,3 +110,5 @@ In late September 2025 President [[donald-trump|Donald Trump]] was expected to a
 11. Badlands Brief — "Badlands News Brief: ICE Swarms, TikTok Pivots, & Shoes Stay On", URL: https://badlands.substack.com/p/badlands-news-brief-6af
 12. Badlands Brief — "Badlands News Brief: Trump 2024 Has the Deep State a Little Testy …", URL: https://badlands.substack.com/p/badlands-news-brief-810
 13. Badlands Brief — "Palestinian Promises, Venezuelan Ventures, & Kazakh Considerations", URL: https://badlands.substack.com/p/badlands-news-brief-8ce
+14. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
+15. Badlands News Brief — "Shadow Feds, Activist Courts, & Lasting Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a69

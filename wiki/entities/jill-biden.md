@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [first-lady, white-house, education]
-sources: [raw/badlands-news-brief-082.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-59b.md, raw/badlands-news-brief-669.md]
+sources: [raw/badlands-news-brief-082.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-59b.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-97e.md]
 confidence: medium
 ---
 
@@ -28,9 +28,14 @@ An insider claimed that "Jill views Democrats on Capitol Hill, the [wider] party
 
 Dr. Jill Biden, a Phillies fan who attended Game 4 of the 2022 World Series against the Houston Astros, was invoked in [[badlands-news-brief|Badlands News Brief]] commentary in October 2025 after former President [[joe-biden|Joe Biden]] was spotted at Game 2 of the National League Division Series in Philadelphia.[4] Commentator [[ashe-in-america|Ashe in America]] tied the item to a prior discussion of [[edith-wilson|Edith Wilson]], the First Lady described as effectively acting as president in October 1919, wondering aloud "how Jill Biden is doing, for obvious reasons."[4]
 
+## Calls for testimony (May 2025)
+
+Following the release of the [[robert-hur|Hur]] audio and the announcement of [[joe-biden|Joe Biden]]'s cancer diagnosis in May 2025, Badlands writer Ashe in America argued that Jill Biden, along with the many doctors and medical staff around the president, the chief of staff, the cabinet, [[karine-jean-pierre|Karine Jean-Pierre]] and [[jake-sullivan|Jake Sullivan]], "need to answer questions under oath" about who was exercising presidential authority.[5]
+
 ## References
 
 1. Badlands Brief — "Tucker, Fauci, Biden & Biology", URL: https://badlands.substack.com/p/badlands-news-brief-082
 2. Badlands News Brief — "Shutdown Looms as Game Theory Plays Out", URL: https://badlands.substack.com/p/badlands-news-brief-24e
 3. Badlands News Brief — "A Song of Ice and Fire, Fraud, and Foreign Flashpoints", URL: https://badlands.substack.com/p/badlands-news-brief-59b
 4. Badlands Brief — "Dumb Questions, Pentagon Pizzas, & Zero Trust", URL: https://badlands.substack.com/p/badlands-news-brief-669
+5. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e

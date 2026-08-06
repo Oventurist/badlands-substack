@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [saudi-arabia, journalism, cia, mossad, epstein]
-sources: [raw/badlands-brief-f17.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-745.md]
+sources: [raw/badlands-brief-f17.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-a64.md]
 confidence: medium
 ---
 
@@ -39,9 +39,14 @@ Saudi Crown Prince Mohammed bin Salman and Operation Endgame aimed at
 ### Timing relative to the first FII summit
 Badlands commentary noted that the inaugural Future Investment Initiative summit in October 2018 was shadowed by the Khashoggi affair, which had been launched weeks earlier and which the commentary characterized as a psychological operation directed against Crown Prince Mohammed bin Salman.[4] In that reading, the resulting controversy gave many would-be attendees pause over whether the young Saudi leader truly represented a new chapter in Arab history — an outcome described as likely part of the intent of the operation.[4]
 
+## Legacy in US-Saudi Relations (2025)
+
+Khashoggi's murder continued to define the reference point for shifts in US-Saudi relations. In May 2025, coverage of [[donald-trump|Donald Trump]]'s Riyadh visit contrasted the warm reception given to Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] with the crown prince's difficulty four years earlier in securing a meeting with then-President [[joe-biden|Joe Biden]], who had vowed to make Saudi Arabia a "pariah" over its role in the journalist's killing.[5] At the [[saudi-us-investment-forum|Saudi-US Investment Forum]], Trump made no mention of the Kingdom's human rights record, which had previously been a sticking point in the relationship.[5]
+
 ## References
 
 1. Badlands Brief — "Epstein Clickbait, Lemon's Demise, & Zionists MAD", URL: https://badlands.substack.com/p/badlands-brief-f17
 2. Badlands News Brief — "Trump Doubles Down as Kamala Crumbles", URL: https://badlands.substack.com/p/badlands-news-brief-020
 3. Badlands Brief — "Badlands News Brief: Middle Eastern Powder Kegs & Crisis Cascades Abound", URL: https://badlands.substack.com/p/badlands-news-brief-158
 4. Badlands Brief — "Trump Teases Saudi Trillions; Biden Bros Embezzled Billions", URL: https://badlands.substack.com/p/badlands-news-brief-745
+5. Badlands Brief — "Badlands News Brief: Black Hat Nightmares & A Camelback Caravan of Confirmation", URL: https://badlands.substack.com/p/badlands-news-brief-a64

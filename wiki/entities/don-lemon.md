@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, journalism, department-of-justice, minnesota]
-sources: [raw/badlands-brief-144.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-2f2.md]
+sources: [raw/badlands-brief-144.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-a15.md]
 confidence: medium
 ---
 
@@ -38,7 +38,14 @@ On September 17, 2024, Lemon appeared on [[joy-reid|Joy Reid]]'s [[msnbc|MSNBC]]
 
 Badlands commentator [[ashe-in-america|Ashe in America]] called the framing "full blown racist against black men," writing that it was a stunning thing for any man—let alone a black man—to say of an entire racially-defined voting bloc, and predicted the remarks would broaden rather than narrow Trump's support among black voters, who she argued do have agency and should vote in their own self-interest.[3]
 
+## Cancellation of the X partnership, March 2024
+
+On Wednesday, March 13, 2024, Lemon said his partnership with Elon Musk had collapsed, hours after the former CNN anchor conducted an interview with Musk for the debut episode of his new independent web-based show.[4] "Elon publicly encouraged me to join X with a new show, saying I would have his 'full support,'" Lemon said in a statement, adding that he had taken Musk at his word that he was "interested in working directly with diverse voices."[4]
+
+Speaking to CNN's Erin Burnett that night, Lemon discussed the exchange and released excerpts of the ninety-minute sit-down, in which he questioned Musk across a range of subjects.[4] Lemon said he pressed Musk on the rise in hate speech on X since his takeover of the platform and on whether Musk and the company bore a responsibility to moderate hateful content; Musk replied, "I don't have to answer questions from reporters, Don. The only reason I'm doing this interview is because you're on the X platform and you asked for it. Otherwise, I would not do this interview."[4] Lemon also asked about Musk's recent meeting with Donald Trump, one of several Trump had held with donors in Palm Beach as he sought funds for a financially strained campaign.[4]
+
 ## References
 1. Badlands Brief — "MLKKK Day, Peace Boards and Power Paradigms", URL: https://badlands.substack.com/p/badlands-brief-144
 2. Badlands Brief — "Epstein Clickbait, Lemon's Demise, & Zionists MAD", URL: https://badlands.substack.com/p/badlands-brief-f17
 3. Badlands News Brief — "Israel Strikes Again as The FED Pivots", URL: https://badlands.substack.com/p/badlands-news-brief-2f2
+4. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15

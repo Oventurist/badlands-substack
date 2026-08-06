@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, filmmaker, september-11, gart]
-sources: [raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-91b.md]
+sources: [raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a31.md]
 confidence: medium
 ---
 
@@ -38,6 +38,15 @@ Zerbo's original film *CODEX 911* was slated to premiere at the GART Deadwood ev
 
 In July 2025 Zerbo published a personal Substack feature titled "September 11th 2001," recounting being woken by his friend Sal on the morning of the attacks — "Brad wake up! … a bomb just went off in one of the Towers" — and watching United Flight 175 explode into the second tower as the two walked into the kitchen.[6] He wrote that "everything changed" in that moment, that it was when "Flight 11 became no accident, and crisis became King," and that the event would shape the rest of his life.[6] [[badlands-media|Badlands Media]] promoted the piece as the filmmaker's back story and the source of his personal inspiration for [[codex-911|CODEX 911]], which premiered at [[gart-9-deadwood|GART Deadwood]] and was available for early screening to virtual ticket holders.[6]
 
+## CODEX 911 (2025)
+
+Zerbo directed [[codex-911|CODEX 911]], an original film produced under the [[badlands-media|Badlands Media]] banner, which premiered at the GART Deadwood event and was promoted in the [[badlands-news-brief|Badlands News Brief]] of July 29, 2025.[7] Badlands offered virtual tickets so remote audiences could take part in the premiere.[7]
+
+
+## CODEX 9/11 trailer (August 2025)
+
+Days before the Deadwood premiere, Zerbo released a new trailer for [[codex-911|CODEX 9/11]], which the August 8, 2025 Badlands News Brief promoted alongside the GART event, exclusive streams, panels and behind-the-scenes content, with virtual tickets available through Badlands Media.[8]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Epstein Angst, Autopen Privilege, & Migrant Cash Cards", URL: https://badlands.substack.com/p/badlands-news-brief-1a7
@@ -46,3 +55,5 @@ In July 2025 Zerbo published a personal Substack feature titled "September 11th 
 4. Badlands Brief — "Manhunts, Mental Health, & the Mother of a Monster", URL: https://badlands.substack.com/p/badlands-news-brief-6e5
 5. Badlands News Brief — "Post Mortems, Dog Fights, & Flight Risks", URL: https://badlands.substack.com/p/badlands-news-brief-721
 6. Badlands Brief — "Badlands News Brief: The Corruption of Anti-Corruption & Obama Bites Back", URL: https://badlands.substack.com/p/badlands-news-brief-91b
+7. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
+8. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31

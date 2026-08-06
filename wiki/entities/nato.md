@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [nato, ukraine, russia, alliance, geopolitics, labor]
-sources: [raw/a-bright-red-line.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-more-perfect-labor-union.md, raw/a-re-alignment-of-world-systems.md, raw/and-iran-iran-so-far-away.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-24.md, raw/badlands-brief-095.md, raw/badlands-brief-05f.md, raw/badlands-brief-195.md, raw/badlands-brief-169.md, raw/badlands-brief-282.md, raw/badlands-brief-686.md, raw/badlands-brief-67a.md, raw/badlands-brief-577.md, raw/badlands-brief-6bf.md, raw/badlands-brief-805.md, raw/badlands-brief-a1a.md, raw/badlands-brief-bce.md, raw/badlands-brief-b62.md, raw/badlands-brief-c07.md, raw/badlands-brief-b82.md, raw/badlands-brief-d94.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-306.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-398.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-3c3.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-9b2.md]
+sources: [raw/a-bright-red-line.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-more-perfect-labor-union.md, raw/a-re-alignment-of-world-systems.md, raw/and-iran-iran-so-far-away.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-24.md, raw/badlands-brief-095.md, raw/badlands-brief-05f.md, raw/badlands-brief-195.md, raw/badlands-brief-169.md, raw/badlands-brief-282.md, raw/badlands-brief-686.md, raw/badlands-brief-67a.md, raw/badlands-brief-577.md, raw/badlands-brief-6bf.md, raw/badlands-brief-805.md, raw/badlands-brief-a1a.md, raw/badlands-brief-bce.md, raw/badlands-brief-b62.md, raw/badlands-brief-c07.md, raw/badlands-brief-b82.md, raw/badlands-brief-d94.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-306.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-398.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-3c3.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-a9e.md, raw/badlands-news-brief-adc.md, raw/badlands-news-brief-a82.md]
 confidence: medium
 ---
 
@@ -324,6 +324,32 @@ In September 2024, [[donald-trump|Donald Trump]] gave what reporters called his 
 
 Badlands writers also treated the [[taliban|Taliban]]'s bid to join [[brics|BRICS]] as a sign that the alliance's authority, alongside that of the [[united-nations|United Nations]], was being undermined by what the outlet calls a Sovereign Alliance: states outside Western recognition can decline the international rules-based order altogether and route around sanctions, central banking and IMF lending by joining alternative structures.[48] The outlet noted that China and Russia maintained embassies in Kabul even after the US–NATO withdrawal of August 2021.[48]
 
+## Trump ceasefire diplomacy (May 2025)
+
+Announcing a May 2025 telephone call with [[vladimir-putin|Vladimir Putin]] aimed at ending the war in Ukraine, [[donald-trump|Donald Trump]] said he would afterward speak separately with [[volodymyr-zelensky|Volodymyr Zelensky]] and with members of NATO.[49] Trump framed the effort around "stopping the 'bloodbath' that is killing, on average, more than 5,000 Russian and Ukrainian soldiers a week, and trade."[49]
+
+## Air defense performance in Ukraine, April 2024
+
+All six hypersonic Kinzhal missiles launched by [[russia|Russia]] during the April 11, 2024 offensive penetrated the U.S. and NATO-provided missile-defense systems protecting [[ukraine|Ukraine]] and struck their targets, while 24 of 42 conventional missiles also found their marks.[50] Badlands commentary held that this failure rate should alarm [[israel|Israel]], given that [[iran|Iran]] fields similar missile technology and enjoys Russian backing.[50]
+
+## Istanbul talks and the Turkish pivot thesis (February 2025)
+
+Badlands commentary on the February 2025 U.S.-Russia diplomatic talks in Istanbul argued that the summit had the potential to bring down NATO by drawing [[turkey|Turkey]] out of Europe's sphere of influence and into Asia's, consistent with President [[recep-tayyip-erdogan|Recep Tayyip Erdogan]]'s public overtures toward BRICS, the Shanghai Cooperation Organization, and Russia.[51] The same analysis held that because the IDF could not attack Turkish forces in Syria without triggering [[article-5|Article 5]] of the North Atlantic Treaty, the alliance would be kept "on life support" while negotiations proceeded.[51] Separately, at his White House meeting with President [[donald-trump|Donald Trump]], British Prime Minister [[keir-starmer|Keir Starmer]] said the UK was ready to put "boots on the ground and planes in the air" to support a Ukraine peace deal alongside allies, while Trump declined to guarantee U.S. backup for British troops, saying they "can take care of themselves."[51]
+
+## Putin's December 2023 disavowal
+
+In an interview published on December 17, 2023 by Rossiya state television, Russian President [[vladimir-putin|Vladimir Putin]] said Moscow had "no interest" in attacking a NATO member state, calling U.S. President [[joe-biden|Joe Biden]]'s warning to the contrary "complete nonsense."[52] Biden had argued that month, while lobbying Congress for Ukraine aid, that if Putin took Ukraine "he won't stop there" and would attack NATO countries, producing a scenario of "American troops fighting Russian troops."[52] Putin responded that Russia had "no geopolitical interest, neither economic, political nor military — to fight with NATO countries," while separately warning of "problems" with Finland following the EU country's accession to the alliance.[52]
+
+## Putin's June 2024 rejection of invasion claims
+
+Asked at the [[2024-st-petersburg-international-economic-forum|St. Petersburg International Economic Forum]] in June 2024 about NATO's preparations to defend against a Russian invasion, [[vladimir-putin|Vladimir Putin]] dismissed the idea as "bulls**t" and as a fear-based attempt to preserve Western global hegemony, arguing it served to persuade Western publics to arm and to send more weapons to Ukraine.[53]
+
+Badlands commentary framed the exchange as [[maneuver-defense|maneuver defense]] in the information domain, noting that while the Germans invented maneuver warfare, the Russians became its masters, and closing with the warning: "Keep playing games, NATO. The Sovereign Alliance is playing for keeps."[53]
+
+## Badlands framing of the 2024 Trump peace plan
+
+Assessing the June 2024 report that [[donald-trump|Donald Trump]]'s advisers had drafted a plan to condition US aid to Kyiv on peace talks, Badlands contributor [[burning-bright|Burning Bright]] argued the plan mirrored [[vladimir-putin|Vladimir Putin]]'s terms, whose remaining point of contention was a commitment that Ukraine would not seek NATO membership — a demand he said posed no contradiction for Trump, who has publicly called for the United States to withdraw from NATO as well.[54]
+
 ## References
 1. Badlands Brief — "A Bright Red Line", URL: https://badlands.substack.com/p/a-bright-red-line
 2. Badlands Brief — "A Gateway to a New World of Cooperation", URL: https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation
@@ -373,3 +399,9 @@ Badlands writers also treated the [[taliban|Taliban]]'s bid to join [[brics|BRIC
 46. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
 47. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
 48. Badlands News Brief — "Embattled Mayors, Peacemakers & Signal Setters", URL: https://badlands.substack.com/p/badlands-news-brief-9b2
+49. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
+50. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38
+51. Badlands Brief — "Badlands News Brief: Rug Pulled Reputations, Insubordination, & the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-a65
+52. Badlands Brief — "Badlands News Brief: The Simulation Gets Very ... Very Weird", URL: https://badlands.substack.com/p/badlands-news-brief-a9e
+53. Badlands Brief — "Badlands News Brief: Globalists Panic as Populism Takes Over the Zeitgeist", URL: https://badlands.substack.com/p/badlands-news-brief-adc
+54. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82

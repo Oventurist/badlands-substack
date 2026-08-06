@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ukraine, foreign-aid, defense-contractors, congress, corruption]
-sources: [raw/badlands-news-brief-06d.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-8c5.md]
+sources: [raw/badlands-news-brief-06d.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-aaf.md]
 confidence: medium
 ---
 
@@ -46,6 +46,16 @@ In February 2023, Republicans on the [[house-oversight-committee|House Oversight
 
 The same day, the [[department-of-defense-office-of-inspector-general|DoD Office of Inspector General]] published an "Oversight Update: Ukraine Assistance" stating that it was "currently planning five potential oversight projects related to Ukraine."[6] [[badlands-media|Badlands Media]] contributor [[just-human|Just Human]] wrote that the committees were delivering on their promises and that the spending inquiry coincided with a shift in Congress and among the public against further Ukraine aid, complementing the parallel work of the DoD OIG and other inspectors general.[6]
 
+## December 2023 Senate blockade
+
+On December 6, 2023, Republican senators blocked $106 billion in new funding for Ukraine and Israel, rejecting appeals from President [[joe-biden|Joe Biden]] amid anger over the exclusion of the immigration reforms they had demanded as part of the package.[7] The measure included roughly $61 billion to help Ukraine sustain pressure on [[russia|Russia]] through the winter months, along with aid for Israel and Gaza.[7] Biden warned that failure would be a "gift" to [[vladimir-putin|Vladimir Putin]], said opponents were "willing to literally kneecap Ukraine on the battlefield and damage our national security in the process," and predicted that if Putin took Ukraine he would attack a [[nato|NATO]] ally and draw American troops into war with Russian forces.[7] The impasse coincided with Putin's warm reception in Riyadh by [[mohammed-bin-salman|Mohammed bin Salman]], a juxtaposition noted at the very hour Biden delivered a White House speech lamenting congressional inaction, with existing funding due to run out within three weeks.[7] Rep. [[thomas-massie|Thomas Massie]] separately argued that such appropriations were effectively laundered back into the [[military-industrial-complex|military-industrial complex]], enriching contractors and lawmakers alike.[7]
+
+## October 2023: Stopgap Without Ukraine Money
+
+After President [[joe-biden|Joe Biden]] signed a stopgap funding bill over the weekend of September 30–October 1, 2023 that contained no aid for Ukraine — Congressional Republicans having blocked its inclusion — European leaders moved to fill the perceived gap.[8] EU foreign ministers convened what was billed as a "historic" meeting in Kiev in the war's twentieth month, with [[european-union|EU]] foreign policy chief [[josep-borrell|Josep Borrell]] describing Ukraine as a "candidate country and future member of the EU" while cautioning that the meeting was not aimed at concrete conclusions or decisions.[8]
+
+Ukrainian foreign minister [[dmytro-kuleba|Dmytro Kuleba]] praised the EU at a moment of open disappointment with Washington, noting that the foreign affairs council was sitting for the first time outside the Union's current borders but "within future borders of the European Union."[8] France's foreign minister Catherine Colonna framed the gathering as a signal to Moscow of "resolute and lasting support for Ukraine, until it can win," as U.S. support appeared set to wane or halt for the first time.[8] Badlands writer [[ashe-in-america|Ashe in America]] called the absence of Ukraine money the stopgap's one silver lining, tied it to Trump's burden-sharing foreign policy toward China, NATO, the WHO and Mexico, and read the [[kevin-mccarthy|Kevin McCarthy]]–[[matt-gaetz|Matt Gaetz]] conflict as a scripted fight producing an America First outcome — despite weekend reports that McCarthy had struck a secret deal with Democrats on Ukraine funding.[8]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Devolution Proofs Abroad and White Pills in the Chaos", URL: https://badlands.substack.com/p/badlands-news-brief-06d
 2. Badlands Brief — "Badlands News Brief: Speaker Trump, Proxy War Funding & Emergency Alerts", URL: https://badlands.substack.com/p/badlands-news-brief-132
@@ -53,3 +63,5 @@ The same day, the [[department-of-defense-office-of-inspector-general|DoD Office
 4. Badlands News Brief — "Trump Counters, Musk Sues & Biden Lies", URL: https://badlands.substack.com/p/badlands-news-brief-2db
 5. Badlands News Brief — "FBI Corruption, Kayfabe & Russia, Russia, Russia!", URL: https://badlands.substack.com/p/badlands-news-brief-38a
 6. Badlands Brief — "Badlands News Brief: Putin Postures, Voting Matters & J6 Subpoenas", URL: https://badlands.substack.com/p/badlands-news-brief-8c5
+7. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
+8. Badlands Brief — "Badlands News Brief: Supreme Court Rumblings & Witch Hunts Galore", URL: https://badlands.substack.com/p/badlands-news-brief-aaf

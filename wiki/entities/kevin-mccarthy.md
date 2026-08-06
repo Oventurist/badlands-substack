@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, speaker-of-the-house, republican-party]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-11b.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-743.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-83d.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-11b.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-743.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-83d.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-948.md]
 confidence: medium
 ---
 
@@ -124,6 +124,16 @@ Gaetz responded that "instead of emotionally cursing, maybe the Speaker should j
 
 [[ashe-in-america|Ashe in America]] wrote that it was rare to see McCarthy abandon decorum and that his visible pressure from the Freedom Caucus was a good sign, noting he had yet to deliver on balanced budgets, term limits or single-subject spending bills; she judged that the Freedom Caucus lacked the votes to vacate the chair without Democratic help, which was unlikely because McCarthy had been useful to Democrats.[21] [[burning-bright|Burning Bright]] framed the fight as kabuki theater in Congress, observing that McCarthy was seen as representative of the [[uniparty|Uniparty]] establishment yet was also [[donald-trump|Trump]]'s pick for Speaker while Gaetz and the Freedom Caucus served as Trump's de facto representatives — a net effect he described as America First rising while the controlled demolition of the Uniparty continued.[21]
 
+## Attack on Alvin Bragg at the 2023 House GOP Retreat
+
+At a press conference on March 19, 2023, as House Republicans gathered for the first day of a three-day retreat to formulate their 2023 agenda, Speaker McCarthy sharply criticized Manhattan District Attorney [[alvin-bragg|Alvin Bragg]] over the charges expected that week against [[donald-trump|Donald Trump]].[22] Asked by [[breitbart-news|Breitbart News]] what he would say to the 75 million Americans who voted for Trump in 2020, McCarthy replied, "I wouldn't just talk to 75 million Americans — I would talk to 330 million Americans."[22]
+
+"It doesn't matter what side of the issue you're on. It doesn't matter if this was President Trump or if this was a Democrat. It should be equal justice in America. And stop going after people because you have political differences," McCarthy said.[22] He added that he regularly encounters people he disagrees with politically but respects their opinions, asking, "why would you ever try to use the law for it?"[22] McCarthy said Bragg's conduct "goes directly against everything this Manhattan DA has professed," citing Bragg's record of downgrading felonies to misdemeanors while New Yorkers were "afraid to walk the streets," crediting Republican election wins in New York partly to that record, and asserting that the statute of limitations in the Trump matter had expired.[22] He concluded that "this is the type of thing America hates and divides us and is wrong."[22]
+
+## Resignation from Congress (December 2023)
+
+On December 6, 2023, McCarthy announced in a Wall Street Journal opinion piece that he would resign his California congressional seat at the end of the year, two months after being [[ouster-of-kevin-mccarthy|ousted as House speaker]].[23] "No matter the odds, or personal cost, we did the right thing," he wrote, saying he would "depart the House at the end of this year to serve America in new ways" and that his work was "only getting started."[23] He pledged to keep recruiting candidates for elected office and to lend his experience to "the next generation of leaders," adding that "it often seems that the more Washington does, the worse America gets" and that the country's challenges "are more likely to be solved by innovation than legislation."[23]
+
 ## References
 
 1. Badlands Brief — "A Communist Plot to Take Over America", URL: https://badlands.substack.com/p/a-communist-plot-to-take-over-america
@@ -147,3 +157,5 @@ Gaetz responded that "instead of emotionally cursing, maybe the Speaker should j
 19. Badlands Brief — "Badlands News Brief: Biden, Bobulinski & Barbecue", URL: https://badlands.substack.com/p/badlands-news-brief-743
 20. Badlands Brief — "Badlands News Brief: Missing Planes, Missing Funds & Missing Metrics", URL: https://badlands.substack.com/p/badlands-news-brief-82f
 21. Badlands Brief — "Badlands News Brief: Kabuki Congress & Closing Walls", URL: https://badlands.substack.com/p/badlands-news-brief-83d
+22. Badlands Brief — "Badlands News Brief: Trump Arrest ... Panic or No Panic?", URL: https://badlands.substack.com/p/badlands-news-brief-9e8
+23. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948

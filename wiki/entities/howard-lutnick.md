@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [epstein, commerce, trump-administration, congress]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-0a2.md, raw/badlands-brief-7bf.md, raw/badlands-brief-7c6.md, raw/badlands-brief-959.md, raw/badlands-brief-eea.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-4fd.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-95a.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-0a2.md, raw/badlands-brief-7bf.md, raw/badlands-brief-7c6.md, raw/badlands-brief-959.md, raw/badlands-brief-eea.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-4fd.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-95a.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a5d.md]
 confidence: medium
 ---
 
@@ -73,7 +73,22 @@ In that reading, Lutnick's anecdotes about the actual and mass-psychological dam
 
 Speaking with reporters alongside President [[donald-trump|Donald Trump]] before departing Bedminster, New Jersey on a Sunday evening in July 2025, Commerce Secretary Lutnick confirmed that countries failing to strike a trade deal with the United States by August 1 would revert to the tariff levels set in April.[12] Trump indicated that his administration could send 12 to 15 letters to different countries the following Monday, with some possibly going out as late as Tuesday or Wednesday, and later posted on Truth Social that the letters would begin going out Monday at noon.[12] Badlands contributor [[ashe-in-america|Ashe in America]] anticipated panic cycles over the letters but argued that essentially no one had looked out for the American people in prior trade deals, adding that those screaming loudest were likely those who had benefited most — "looking at you, Congress."[12]
 
+## Nomination as Commerce Secretary (2024)
+
+On November 19, 2024, President-elect [[donald-trump|Donald Trump]] chose Lutnick to serve as secretary of the [[department-of-commerce|Department of Commerce]] and to lead a sweeping program of tariffs, a role in which the department would be central to implementing the incoming administration's trade agenda.[13] Lutnick, a co-chair of Trump's transition, had hoped to become Treasury secretary, but Trump soured on the finalists for that post and began considering other options.[13]
+
+Lutnick is chairman and chief executive of [[cantor-fitzgerald|Cantor Fitzgerald]], the investment firm he joined after graduating from college in the 1980s.[13] He became one of the most prominent business voices in the aftermath of the September 11 attacks, when the firm's offices in the World Trade Center's North Tower were destroyed and hundreds of employees, including his brother, were killed.[13] He holds an annual fundraiser on September 11 for charities worldwide, and told the Wall Street Journal that having had to hire hundreds of replacement employees after 9/11 qualified him to help staff the incoming administration.[13]
+
+Badlands commentary described Lutnick as a New York firebrand in Trump's own mold and a heterodox thinker inclined to go at the establishment rather than with it, and highlighted his standing as one of the first major Bitcoin advocates of the Wall Street class.[13]
+
+## Divestiture from Cantor Fitzgerald
+
+In May 2025, Lutnick reportedly agreed to transfer his stake in [[cantor-fitzgerald|Cantor Fitzgerald]] to his children and a group of investors, and to divest from two of the Wall Street firm's subsidiaries, as part of an ethics agreement with the U.S. government.[14] Reuters reported that he sold his Class A shares in the brokerage BGC Group for $151.5 million and in the real-estate firm Newmark Group for $127 million, with the shares sold to the two subsidiaries themselves; Cantor Fitzgerald was expected to purchase his Class B shares in BGC and Newmark so that the firm would retain majority ownership of both companies.[14] Disclosure of the sales was described as ensuring compliance with the [[ethics-in-government-act|Ethics in Government Act of 1978]], which bars government officials from holding financial interests that could compromise their objectivity or independence, with the [[office-of-government-ethics|Office of Government Ethics]] overseeing the review of such disclosures.[14]
+
+Commenting in the May 21, 2025 [[badlands-news-brief|Badlands News Brief]], [[gmoney|GMONEY]] redirected attention to Cantor Fitzgerald's portfolio, noting that the firm had bought 1.07 million [[microstrategy|Strategy]] ($MSTR) shares for $326.53 million at an average price of $304 per share in the first quarter of 2025, bringing total holdings to 4.65 million shares worth more than $1.93 billion — roughly 49.98% of the firm's portfolio — and asking why it was not buying the tokens named in Trump's crypto executive order instead.[14]
+
 ## References
+
 1. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
 2. Badlands Brief — "A Virtual Smash & Grab & Another Impeachment Hoax", URL: https://badlands.substack.com/p/badlands-brief-0a2
 3. Badlands Brief — "Entertaining Obstruction & Artificial Shadow Wars", URL: https://badlands.substack.com/p/badlands-brief-7bf
@@ -86,3 +101,5 @@ Speaking with reporters alongside President [[donald-trump|Donald Trump]] before
 10. Badlands Brief — "Trump Teases Saudi Trillions; Biden Bros Embezzled Billions", URL: https://badlands.substack.com/p/badlands-news-brief-745
 11. Badlands Brief — "Badlands News Brief: Trump Tours, Bannon Breaks Out & Israel Hesitates", URL: https://badlands.substack.com/p/badlands-news-brief-914
 12. Badlands Brief — "Kingmakers, Rainmakers, & Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-95a
+13. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6
+14. Badlands Brief — "Badlands News Brief: Our Boy Victim & Friends Without Benefits", URL: https://badlands.substack.com/p/badlands-news-brief-a5d

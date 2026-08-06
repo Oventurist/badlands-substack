@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [secret-service, security, 2024, oversight]
-sources: [raw/a-week-to-remember.md, raw/badlands-brief-245.md, raw/badlands-brief-8c2.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-8ae.md]
+sources: [raw/a-week-to-remember.md, raw/badlands-brief-245.md, raw/badlands-brief-8c2.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-acf.md]
 confidence: medium
 ---
 
@@ -49,7 +49,22 @@ After the [[attempted-assassination-of-donald-trump-2024|July 13, 2024 attempted
 
 Director [[kimberly-cheatle|Kimberly Cheatle]], who rejected calls to resign, told ABC News that no agent had been placed on the building because it had a "sloped roof" that posed a safety concern, and that the decision had been made to secure the building from inside instead.[8] Critics said the agency's explanations were not adding up, and the [[department-of-homeland-security|Department of Homeland Security]] Inspector General opened an investigation into the security failures.[8]
 
+## "Golf Force One" (July 2025)
+
+In July 2025 the Secret Service introduced a new armored escort vehicle — a modified Polaris Ranger dubbed [[golf-force-one|"Golf Force One"]] by the press — to shadow President [[donald-trump|Donald Trump]] during golf outings.[9] The all-black, military-style buggy was first sighted trailing Trump at his Turnberry course in Scotland, and reportedly features armored panels, tinted bulletproof windows and visibly reinforced rear sections.[9] Security experts noted that its light frame permits high mobility across grassy terrain while still offering ballistic protection in a crisis.[9]
+
+## FOIA denials on the Trump assassination attempt (2024)
+
+[[judicial-watch|Judicial Watch]] announced that the Secret Service had completely denied multiple Freedom of Information Act requests for documents about the assassination attempt on former President [[donald-trump|Donald Trump]].[10] On July 16, 2024, the group filed three comprehensive FOIA requests seeking emails, videos, and advance survey security assessments, among other records related to the attempt.[10] The agency refused to produce a single record, writing that "pursuant to Title 5 U.S.C. § 552(B)(7)(A), any potentially responsive records, if they exist, are exempt as disclosure could reasonably be expected to interfere with enforcement proceedings," and adding that the cited exemption was not to be construed as the only one available.[10]
+
+Judicial Watch said it was preparing for litigation and had more than 25 FOIA and open-records requests pending on the shooting with the Biden administration and with local and state officials in Pennsylvania.[10] Its president [[tom-fitton|Tom Fitton]] accused "the Biden Secret Service" of being "in cover-up mode on its inexcusable and epic failure to protect former President Trump and other innocents."[10] Badlands commentator [[ashe-in-america|Ashe in America]] countered that the investigation was genuinely ongoing and less than a month old, giving the agency legal cover, even as non-responsive testimony across more than four public hearings and non-compliance with congressional subpoenas suggested a coverup; she argued that only [[congress|Congress]], exercising its authority in both chambers, could compel transparency about July 13.[10]
+
+## 2023 Georgetown shooting
+
+On the night of Sunday, November 12, 2023, agents protecting [[naomi-biden|Naomi Biden]], granddaughter of President [[joe-biden|Joe Biden]], opened fire in the Georgetown neighborhood of Washington, D.C. after three people were seen breaking a window of a parked, unoccupied unmarked Secret Service SUV.[11] No one was struck by the gunfire, the agency said in a statement, and the three suspects fled in a red car, prompting a regional bulletin to the Metropolitan Police Department.[11] [[badlands-media|Badlands Media]] contributor [[ashe-in-america|Ashe in America]] used the incident to question federal competence, noting that the agent "discharged his firearm — and missed" while the suspects escaped, and arguing that if this was the protection afforded presidential family members, ordinary citizens had every reason to retain the right of self-defense.[11]
+
 ## References
+
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
 2. Badlands Brief — "Trump Roasts The Press; Teases 2028 Run", URL: https://badlands.substack.com/p/badlands-brief-245
 3. Badlands Brief — "Trump Springs His Trap as the Deep State Gets Desperate", URL: https://badlands.substack.com/p/badlands-brief-8c2
@@ -58,3 +73,6 @@ Director [[kimberly-cheatle|Kimberly Cheatle]], who rejected calls to resign, to
 6. Badlands Brief — "Badlands News Brief: Mandatory Deprogramming & Military Parades", URL: https://badlands.substack.com/p/badlands-news-brief-574
 7. Badlands Brief — "Badlands News Brief: Kennedy Assassins, Justice Wins & More", URL: https://badlands.substack.com/p/badlands-news-brief-627
 8. Badlands Media — "Badlands News Brief: Vance Takes the Stage as Biden Takes the Basement", URL: https://badlands.substack.com/p/badlands-news-brief-8ae
+9. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
+10. Badlands Brief — "Badlands News Brief: Escalation, Litigation & Sovereign Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a3c
+11. Badlands Brief — "Badlands News Brief: China Joe Takes the Stage as Trump's Power Grows", URL: https://badlands.substack.com/p/badlands-news-brief-acf

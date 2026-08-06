@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [national-security, america-first, trump-administration]
-sources: [raw/badlands-brief-c7b.md]
+sources: [raw/badlands-brief-c7b.md, raw/badlands-news-brief-a82.md]
 confidence: medium
 ---
 
@@ -16,5 +16,10 @@ Following the sudden death of Sen. [[lindsey-graham|Lindsey Graham]] in July 202
 
 The Badlands Brief treated Fleitz's characterization skeptically, with contributor [[ashe-in-america|Ashe in America]] reading the description of Graham's constant counsel and foreign contacts as suggesting Graham functioned less as a friendly adviser than as an "asset" positioned close to the president.[1]
 
+## Ukraine peace plan, June 2024
+
+Fleitz, a former chief of staff in [[donald-trump|Donald Trump]]'s National Security Council during his 2017-2021 presidency, drew up a plan with retired Lieutenant General [[keith-kellogg|Keith Kellogg]] in June 2024 to end Russia's war in Ukraine, providing for a ceasefire based on prevailing battle lines during peace talks.[2] Fleitz said the two had presented the strategy to Trump and that the candidate responded favorably: "I'm not claiming he agreed with it or agreed with every word of it, but we were pleased to get the feedback we did."[2]
+
 ## References
 1. Badlands Brief — "TACO Tuesday Returns as the War of Stories Gets Weird", URL: https://badlands.substack.com/p/badlands-brief-c7b
+2. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82

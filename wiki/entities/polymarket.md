@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [prediction-markets, betting, forecasting]
-sources: [raw/badlands-brief-71c.md, raw/badlands-brief-d3b.md]
+sources: [raw/badlands-brief-71c.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-a71.md]
 confidence: medium
 ---
 
@@ -28,6 +28,11 @@ Scrutiny intensified when an Israeli journalist said Polymarket users threatened
 
 Badlands contributor [[burning-bright|Burning Bright]] read the venture as "pure Idiocracy" optics and the "final grotesque triumph of gamification," in which politics, culture, war and markets have all been colonized by the dopamine slot machine.[2] He also offered a more optimistic reading: a growing subset of Americans consume news not to be informed but to bet on its downstream effects, which he treated as evidence that a critical mass has internalized that real-time truth is unobtainable and that the central narrative is "a constantly-evolving series of conflicting, weaponized fictions" — leaving the sovereign mind to treat the construct as "a casino of verisimilitude masquerading as objective reality."[2]
 
+## 2024 election odds during the Bloomberg interview
+
+Badlands contributor Burning Bright cited Polymarket in his commentary on [[donald-trump|Donald Trump]]'s October 15, 2024 interview with [[bloomberg|Bloomberg]] Editor-in-Chief [[john-micklethwait|John Micklethwait]], writing that if one wanted to know what the financial markets thought of "Trump 2.0," Polymarket showed the "actual (fake) money" increasingly surging toward him as the election neared, with a spike that afternoon.[3]
+
 ## References
 1. Badlands Brief — "Persian Devolution, Minnesotan Maneuvers & Chinese Checkers", URL: https://badlands.substack.com/p/badlands-brief-71c
 2. Badlands Brief — "Situation Rooms & Terror Taskforces", URL: https://badlands.substack.com/p/badlands-brief-d3b
+3. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71

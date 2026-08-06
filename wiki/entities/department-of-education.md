@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [government, agency, education, civil-rights]
-sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-fbb.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-8a9.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-fbb.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-9c6.md]
 confidence: medium
 ---
 
@@ -62,7 +62,12 @@ The buyout coincided with the Senate's March 3, 2025 confirmation of [[linda-mcm
 
 In February 2025 the department issued a so-called Dear Colleague letter setting out a policy under which schools receiving federal funding would face certification mandates requiring them to disclose compliance with the administration's prohibitions on [[diversity-equity-and-inclusion|diversity, equity and inclusion]] programming and on incorporating race into aspects of student life; the mandates were to begin taking effect in April.[10] On April 24, 2025, three separate judges — two of them appointed by President [[donald-trump|Donald Trump]] — ruled against the policy.[10] U.S. District Judge [[landya-mccafferty|Landya McCafferty]] wrote a scathing opinion calling it "textbook viewpoint discrimination" likely violating the First Amendment, and concluded that the [[national-education-association|National Education Association]] was likely to prevail in arguing the policy was unconstitutionally vague and procedurally defective.[10]
 
+## McMahon Nomination and Abolition Pledge (2024)
+
+On November 19, 2024, President-elect [[donald-trump|Donald Trump]] selected transition co-chair [[linda-mcmahon|Linda McMahon]] to serve as secretary of the department, despite his and his allies' pledge to abolish the agency.[11] Trump indicated that McMahon would be tasked with giving states a larger role in education policy and with pursuing the nationwide expansion of school choice, saying she would "fight tirelessly to expand 'Choice' to every State in America, and empower parents to make the best Education decisions for their families."[11]
+
 ## References
+
 1. Badlands Brief — "A Glaring Double Standard", URL: https://badlands.substack.com/p/a-glaring-double-standard
 2. Badlands Brief — "Unity, Patricide, & Political Violence", URL: https://badlands.substack.com/p/badlands-brief-fbb
 3. Badlands News Brief — "Jordanian Jam Sessions, Unpaused Loans, & Disbanded Brotherhoods", URL: https://badlands.substack.com/p/badlands-news-brief-079
@@ -73,3 +78,4 @@ In February 2025 the department issued a so-called Dear Colleague letter setting
 8. Badlands Brief — "Brennan Decries Judge Shopping & JD Says It's Okay to Be White!", URL: https://badlands.substack.com/p/badlands-news-brief-795
 9. Badlands Brief — "Badlands News Brief: “Terrifying” Trade Alliances, Pedagogue Payouts, & A Bondi Barn Burner", URL: https://badlands.substack.com/p/badlands-news-brief-7bb
 10. Badlands Brief — "Badlands News Brief: Ongoing Judicial Coups. Newly Jailed Judges.", URL: https://badlands.substack.com/p/badlands-news-brief-8a9
+11. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ukraine, nationalism, world-war-ii, oun, badlands-brief]
-sources: [raw/badlands-brief-3d4.md, raw/badlands-news-brief-12c.md]
+sources: [raw/badlands-brief-3d4.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-a12.md]
 confidence: medium
 ---
 
@@ -34,6 +34,15 @@ After the war, Bandera was contacted by British intelligence and recruited to wo
 
 The Ukrainian government honored Bandera in 2010 with the Ukrainian equivalent of the Medal of Honor, and museums and monuments dedicated to him are found across the country.[2] On New Year's Day 2025, hundreds of Ukrainians marched through the center of Lviv bearing torches, flares and red-and-black flags to honor Bandera's birthday, shouting "Slava Ukraini" and carrying the flags of the OUN and the Ukrainian Insurgent Army (UPA) alongside a battle standard bearing Bandera's face.[2] Badlands describes Bandera as "very much credited as a founding father of modern Ukraine," and notes that the red-and-black Banderite flag is flown by many Ukrainian militias today, including the [[azov-battalion|Azov Battalion]].[2]
 
+## Volyn massacre and Ukrainian memory
+
+Bandera headed the [[organization-of-ukrainian-nationalists|Organization of Ukrainian Nationalists]], whose militants — together with those of the [[ukrainian-insurgent-army|Ukrainian Insurgent Army]] — slaughtered up to 100,000 Poles between 1943 and 1945 in Volhynia and Eastern Galicia in the killings known as the [[volyn-massacre|Volyn massacre]].[3] Both organizations collaborated with Nazi Germany during the Second World War, and Bandera and other ultranationalist leaders remain widely revered in Ukraine today.[3]
+
+Polish President [[andrzej-duda|Andrzej Duda]] said that Ukrainian President [[volodymyr-zelensky|Vladimir Zelensky]] told him he had never heard of the killings of Poles in Volhynia and had not been taught about them in school, which Duda took as evidence that Ukrainians are broadly kept in the dark about their nation's troubled past.[3]
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] called Bandera one of the more important and least known figures of the Second World War, arguing that his propensity for reckless violence alienated him from the Third Reich while drawing him into the good graces of the [[cia|CIA]], which recruited him as a top operative in the postwar regime-change program [[operation-gladio|Operation Gladio]].[3]
+
 ## References
 1. Badlands Brief — "Canadian Separatists & Guerilla Campaigns", URL: https://badlands.substack.com/p/badlands-brief-3d4
 2. Badlands Brief — "Badlands News Brief: A New Era of Terror & Monumental Lightning Strikes", URL: https://badlands.substack.com/p/badlands-news-brief-12c
+3. Badlands News Brief — "Pentagon Portfolio Plays & Spy Court Sunlight", URL: https://badlands.substack.com/p/badlands-news-brief-a12

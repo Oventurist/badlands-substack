@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [syria, regime-change, isis, russia]
-sources: [raw/a-conflict-of-interest.md, raw/a-dereliction-of-duty.md, raw/arabian-nights.md, raw/assad-day-in-damascus.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-960.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-dereliction-of-duty.md, raw/arabian-nights.md, raw/assad-day-in-damascus.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-a64.md]
 confidence: low
 ---
 
@@ -75,6 +75,10 @@ Axios reporting in December 2024 placed Assad's flight to Russia within the long
 
 Badlands commentary read Assad's departure as part of a template rather than an isolated collapse, arguing that his withdrawal to Moscow was followed by Russian maneuvers producing no intra-Sovereign Alliance fire, that [[centcom|US CENTCOM]] used the opening to conduct 75 precision-strike air raids on [[islamic-state|ISIS]] targets across central Syria, and that globalist coalitions were openly praising "former al Qaeda" leadership.[10] It characterized Assad as one of several populist Middle Eastern leaders who ran afoul of the U.S. [[military-industrial-complex|military-industrial complex]], while observing that both the U.S. and Russian militaries appeared to be striking Assad's enemies rather than Assad himself, and likened the 2011 Arab Spring regime changes to the 2014 Maidan coup in Ukraine and the 2003 removal of Saddam Hussein.[10]
 
+## Aftermath and Speculation (May 2025)
+
+Following his overthrow in December, coverage in May 2025 of the United States lifting sanctions on Syria identified interim president [[ahmed-al-sharaa|Ahmed al-Sharaa]] as a former Al Qaeda commander who had helped topple Assad and who renounced terrorism in 2016.[11] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] speculated that the new arrangement would not hold, writing, "I still think this Jolani thing is a rug to be pulled and we will see Assad return as part of a maneuver warfare operation."[11] See [[syria-sanctions-relief|Syria sanctions relief]].
+
 ## References
 1. Badlands Brief — "A Conflict of Interest", URL: https://badlands.substack.com/p/a-conflict-of-interest
 2. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
@@ -86,3 +90,4 @@ Badlands commentary read Assad's departure as part of a template rather than an 
 8. Badlands Brief — "A Not so Brief Full of Sovereign SIGNAL", URL: https://badlands.substack.com/p/badlands-news-brief-711
 9. Badlands Brief — "Damascus Has Fallen ... Cui Bono?", URL: https://badlands.substack.com/p/badlands-news-brief-7a5
 10. Badlands Brief — "Wray Goes to Sleep, Syria Gets Weird and Xi Gets an Invite", URL: https://badlands.substack.com/p/badlands-news-brief-960
+11. Badlands Brief — "Badlands News Brief: Black Hat Nightmares & A Camelback Caravan of Confirmation", URL: https://badlands.substack.com/p/badlands-news-brief-a64

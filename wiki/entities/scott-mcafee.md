@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [georgia, fulton-county, judiciary, 2020-election]
-sources: [raw/badlands-brief-990.md, raw/badlands-news-brief-054.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-881.md]
+sources: [raw/badlands-brief-990.md, raw/badlands-news-brief-054.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-a15.md]
 confidence: medium
 ---
 
@@ -44,6 +44,12 @@ McAfee, the Fulton County Superior Court judge randomly assigned to preside over
 
 On Tuesday, August 22, 2023, McAfee granted a request from four local television stations to bring live cameras and other recording devices into his courtroom through September 8, marking the first time one of [[donald-trump|Donald Trump]]'s criminal proceedings would be televised.[7] District Attorney [[fani-willis|Fani Willis]] was seeking to hold the arraignments of all defendants the week following Labor Day, which fell inside that window; if the timeline were delayed, McAfee's order would expire.[7] The order did not indicate whether cameras would be allowed during a trial or any other future proceedings in the case.[7]
 
+## March 2024 ruling on the Georgia indictment
+
+On Wednesday, March 13, 2024, McAfee quashed six counts of the Fulton County racketeering indictment, three of them against former President Donald Trump, finding that prosecutors had not provided enough detail about the alleged crimes.[8] He left the rest of the indictment intact, including ten counts against Trump and the overarching RICO charge, and stated that prosecutors could seek a new indictment to reinstate the dismissed counts.[8] The counts struck down included those concerning the Brad Raffensperger phone call and the defendants' oaths of office.[8]
+
+The ruling resolved a pending motion unrelated to the separate effort to disqualify District Attorney Fani Willis, on which McAfee's decision was expected within days.[8] Commentators divided over whether the dismissal signalled anything about his thinking on disqualification: Norm Eisen read it as a slight lean toward keeping Willis, while CNN's Elie Honig treated it purely as an embarrassing setback for the prosecution.[8]
+
 ## References
 
 1. Badlands Brief — "Secret Seizures, Sovereign Signals, & Unnamed Somalis Close to the Matter", URL: https://badlands.substack.com/p/badlands-brief-990
@@ -53,3 +59,4 @@ On Tuesday, August 22, 2023, McAfee granted a request from four local television
 5. Badlands Brief — "Biden Hemorrhages Already-Nonexistent Support", URL: https://badlands.substack.com/p/badlands-news-brief-6fc
 6. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
 7. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... But Not on Us", URL: https://badlands.substack.com/p/badlands-news-brief-881
+8. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15

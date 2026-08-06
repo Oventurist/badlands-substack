@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, press-freedom, doj, leaks, badlands-brief]
-sources: [raw/badlands-brief-a89.md, raw/badlands-brief-ac2.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-7ad.md]
+sources: [raw/badlands-brief-a89.md, raw/badlands-brief-ac2.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-97e.md]
 confidence: medium
 ---
 
@@ -42,6 +42,10 @@ The Wall Street Journal reported the January 1, 2024 decision by [[israeli-high-
 
 In June 2023, the Journal published a comprehensive investigation conducted jointly with the [[stanford-internet-observatory|Stanford Internet Observatory]] reporting that [[meta-platforms|Meta]]-owned [[instagram|Instagram]] had been home to an organized and massive network of pedophiles whose activity was amplified by the platform's own recommendation systems.[7] The reporting described a coded vocabulary — a map emoji for "minor-attracted person" and "cheese pizza" sharing initials with "child pornography," attributed to researcher Levine of the University of Massachusetts — and documented searchable hashtags such as #pedowhore and #preteensex that routed users to accounts advertising child-sex material.[7] The findings were widely aggregated, including by [[zerohedge|ZeroHedge]] and [[badlands-media|Badlands Media]].[7]
 
+## Hur audio scoop (May 2025)
+
+The Journal obtained and reported on the previously withheld audio recordings of [[joe-biden|Joe Biden]]'s October 2023 interviews with special counsel [[robert-hur|Robert Hur]], material the Biden administration had declined to release after publishing transcripts in March 2024.[8] Its account described Biden speaking at times with a frail voice and struggling for words and dates across roughly five hours of interviews over two days.[8]
+
 ## References
 1. Badlands Brief — "Trump's DOJ Gets Busy as the Boss Jets to Beijing", URL: https://badlands.substack.com/p/badlands-brief-a89
 2. Badlands Brief — "NeoCon Goggles & Phantom Whistleblowers", URL: https://badlands.substack.com/p/badlands-brief-ac2
@@ -50,3 +54,4 @@ In June 2023, the Journal published a comprehensive investigation conducted join
 5. Badlands News Brief — "MAGA Gets Branded as Biden Bungles Everything", URL: https://badlands.substack.com/p/badlands-news-brief-07e
 6. Badlands Brief — "Badlands News Brief: Hypocrisy Roundup & Rug-pulls Galore", URL: https://badlands.substack.com/p/badlands-news-brief-378
 7. Badlands Brief — "The Wall Are Closing in Again! (And Other Stories)", URL: https://badlands.substack.com/p/badlands-news-brief-7ad
+8. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e

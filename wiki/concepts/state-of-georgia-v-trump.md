@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [georgia, rico, 2020-election, lawfare, fulton-county]
-sources: [raw/badlands-brief-990.md, raw/badlands-news-brief-040.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-9de.md]
+sources: [raw/badlands-brief-990.md, raw/badlands-news-brief-040.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-9de.md, raw/badlands-news-brief-a15.md]
 confidence: medium
 ---
 
@@ -82,6 +82,20 @@ The same day, Atlanta bail bondsman [[scott-hall|Scott Hall]] became the first c
 
 [[burning-bright|Burning Bright]] wrote that while "the Revolution won't be televised," Trump had become "the symbol of that rising sovereign sentiment within the American Mind," and that his revolution would be televised: "The Trial of Donald Trump isn't going to be the end of the story, but the beginning of one."[12]
 
+## The August 14, 2023 indictment
+
+The Atlanta grand jury handed down its indictment on Monday, August 14, 2023, marking the fourth criminal indictment of [[donald-trump|Donald Trump]]; the 98-page charging instrument named him and 18 allies on 13 counts and was issued with the jurors' names unredacted.[13] Prosecutors alleged that Trump and his co-defendants had orchestrated a sweeping criminal enterprise involving more than a dozen felonies as he tried and failed to overturn his defeat in Georgia's 2020 election.[13] Named defendants included [[rudy-giuliani|Rudy Giuliani]], [[mark-meadows|Mark Meadows]], [[sidney-powell|Sidney Powell]] and [[john-eastman|John Eastman]], and the documents additionally listed 30 unindicted co-conspirators.[13]
+
+Earlier the same day, [[reuters|Reuters]] reported that a document had leaked onto the Fulton County court's website showing Trump indicted on racketeering charges before the grand jury had returned its verdict.[13] The Georgia district attorney's office released a statement calling the document "fictitious," a characterisation mocked by Trump's team and much of the internet; his team responded that "this was not a simple administrative mistake."[13]
+
+[[burning-bright|Burning Bright]] recalled [[just-human|Just Human]] saying on DEFECTED that he had tracked the lawfare narrative accurately because "everything that happened to Trump was boomeranging back on Biden" — foreign collusion, quid pro quo, and election fraud alike — and predicted that the public was about to receive a media crash course in racketeering law.[13] He argued that the co-conspirator list should be read as the roster of allies Trump would bring into battle, and that a "Disclosure Defense" strategy "might not just expose election fraud; it could set the template for the exact RICO case that starts the Deep State dominoes falling."[13]
+
+## March 2024 partial dismissal of charges
+
+On Wednesday, March 13, 2024, Fulton County Superior Court Judge Scott McAfee dismissed some of the charges against former President Donald Trump and his co-defendants, while leaving the sweeping racketeering indictment otherwise intact.[14] McAfee quashed six counts, three of them against Trump, the presumptive 2024 Republican presidential nominee, but left in place other counts including ten facing Trump, and held that prosecutors could seek a new indictment to reinstate the dismissed counts.[14] The judge grounded the dismissals in the prosecution's failure to provide sufficient detail about the alleged crimes.[14] It was the first time charges in any of Trump's four criminal cases had been dismissed, and the ruling was described as a blow to District Attorney Fani Willis, who was simultaneously facing an effort to disqualify her over a romantic relationship with a colleague.[14]
+
+Badlands commentary noted that the quashed counts included those relating to the Brad Raffensperger phone call and to the defendants' oaths of office, and argued that the phone call had been arguably the strongest element of the state's case, even as the RICO charge and the prosecution as a whole survived.[14] The ruling resolved a pending motion unrelated to the disqualification question, with a decision on that separate matter expected imminently.[14]
+
 ## References
 
 1. Badlands Brief — "Secret Seizures, Sovereign Signals, & Unnamed Somalis Close to the Matter", URL: https://badlands.substack.com/p/badlands-brief-990
@@ -96,3 +110,5 @@ The same day, Atlanta bail bondsman [[scott-hall|Scott Hall]] became the first c
 10. Badlands Brief — "Biden Hemorrhages Already-Nonexistent Support", URL: https://badlands.substack.com/p/badlands-news-brief-6fc
 11. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
 12. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... But Not on Us", URL: https://badlands.substack.com/p/badlands-news-brief-881
+13. Badlands Brief — "Badlands News Brief: The Establishment Goes Full RICO Against Trump", URL: https://badlands.substack.com/p/badlands-news-brief-9de
+14. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15

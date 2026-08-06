@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, radio, mainstream-media, layoffs]
-sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-907.md, raw/badlands-news-brief-8fd.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-907.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a57.md]
 confidence: low
 ---
 
@@ -42,6 +42,10 @@ The cuts triggered multiple tense all-hands meetings in which affected staff que
 
 In December 2025 commentary on the Signalgate report, Badlands host CannCon highlighted that NPR chief executive Katherine Maher simultaneously chairs the board of the Signal Foundation, suggesting the overlap warranted scrutiny of the messaging platform's adoption by US officials.[6]
 
+## Berliner essay and the Defund NPR Act (April 2024)
+
+In April 2024 NPR editor [[uri-berliner|Uri Berliner]] published a piece alleging that the outlet had deep political bias and that its Washington, D.C. bureau employed 87 registered Democrats and zero registered Republicans; he resigned after NPR suspended him for publishing it.[7] NPR's new CEO [[katherine-maher|Katherine Maher]], hired in March 2024, also drew scrutiny as old tweets and clips surfaced showing support for [[joe-biden|Joe Biden]]'s 2020 campaign, a 2018 description of [[donald-trump|Donald Trump]] as a "racist," and her characterization of the First Amendment as "the number one challenge" to combatting "misinformation."[7] On April 19, 2024, Republican Indiana Representative [[jim-banks|Jim Banks]] introduced the [[defund-npr-act|Defund NPR Act]] to cut off all federal funds to the broadcaster.[7]
+
 ## References
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
 2. Badlands Brief — "Amplified Antagonism, Phantom Palestinians, & Hitler's Micropenis", URL: https://badlands.substack.com/p/badlands-news-brief-066
@@ -49,3 +53,4 @@ In December 2025 commentary on the Signalgate report, Badlands host CannCon high
 4. Badlands News Brief — "The Free Market of Ideas Condemns the Regime", raw/badlands-news-brief-363.md
 5. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... Or Are They?", URL: https://badlands.substack.com/p/badlands-news-brief-907
 6. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
+7. Badlands Brief — "Badlands News Brief: The Uniparty Celebrates as Warmongers Grow Desperate", URL: https://badlands.substack.com/p/badlands-news-brief-a57

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [white-house, trump-administration, arctic-frost, fbi, surveillance]
-sources: [raw/badlands-brief-40d.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-58c.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-763.md]
+sources: [raw/badlands-brief-40d.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-58c.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-763.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a38.md]
 confidence: medium
 ---
 
@@ -50,6 +50,14 @@ In December 2025 Wiles disputed portions of a [[vanity-fair|Vanity Fair]] articl
 
 Wiles, 68, played a key part in Trump's successful 2024 presidential campaign before becoming the first woman to serve as [[white-house|White House]] Chief of Staff.[5] Trump defended her in a [[new-york-post|New York Post]] interview, calling her "fantastic" and suggesting she had been "deceived" by the writer, while noting that her comments about his personality mirrored remarks he had made himself.[5] Over nearly a dozen interviews with the magazine, Wiles discussed the handling of Epstein files, Trump's legal actions against political rivals, and the personalities around the president.[5] Badlands contributor [[chris-paul|Chris Paul]] read both parts of the interview and judged it "boring and irrelevant," concluding there was "no scandal there whatsoever."[5]
 
+## Chief of Staff and the Gaetz Nomination (2024)
+
+As incoming White House chief of staff, Wiles was one of the figures to whom Senate Republicans privately conveyed their view that [[matt-gaetz|Matt Gaetz]] had little chance of being confirmed as attorney general in November 2024, alongside President-elect [[donald-trump|Donald Trump]] himself and Vice President-elect [[jd-vance|JD Vance]].[6]
+
+## 2024 debate letter
+
+In April 2024, Wiles and fellow Trump co-campaign manager [[chris-lacivita|Chris LaCivita]] sent a letter to [[commission-on-presidential-debates|Commission on Presidential Debates]] co-chairs [[frank-fahrenkopf|Frank Fahrenkopf Jr.]] and [[antonia-hernandez|Antonia Hernandez]] urging that the 2024 presidential debates against [[joe-biden|Joe Biden]] begin "much earlier" than announced and that more be added.[7] The letter, obtained by Fox News Digital, aligned the campaign with a parallel push by television networks for debates to be held in 2024 and noted that three presidential debates and one vice-presidential debate had already been scheduled for later in the year.[7]
+
 ## References
 
 1. Badlands Brief — "Clinton Clashes, Royal Trafficking, & Fond WEF Farewells", URL: https://badlands.substack.com/p/badlands-brief-40d
@@ -57,3 +65,5 @@ Wiles, 68, played a key part in Trump's successful 2024 presidential campaign be
 3. Badlands Brief — "Badlands News Brief: The Winds of Change Approach DC …", URL: https://badlands.substack.com/p/badlands-news-brief-58c
 4. Badlands Brief — "Afghanis Activate, Witch Hunts End, & Hitler Launches Re-Election Campaign", URL: https://badlands.substack.com/p/badlands-news-brief-747
 5. Badlands Brief — "Badlands News Brief: The Ice Maiden, A Command Overhaul, & A Thrice Jewish President", URL: https://badlands.substack.com/p/badlands-news-brief-763
+6. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6
+7. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, judiciary-committee, oversight, declassification, treason]
-sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-165.md, raw/badlands-brief-245.md, raw/badlands-brief-314.md, raw/badlands-brief-9ac.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-561.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-94b.md]
+sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-165.md, raw/badlands-brief-245.md, raw/badlands-brief-314.md, raw/badlands-brief-9ac.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-561.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-a98.md]
 confidence: medium
 ---
 
@@ -83,6 +83,15 @@ On Thursday, July 20, 2023, Grassley released an unclassified FBI document in wh
 
 Grassley, as Senate Judiciary Chairman, joined Senator [[ron-johnson|Ron Johnson]] of Wisconsin in releasing two new FBI FD-1023s — records of reporting from the bureau's confidential human sources — focused on allegations of Biden family corruption in [[ukraine|Ukraine]].[14] The records match closely a memo Grassley released in 2023 containing similar claims, and he has pressed to determine why the [[fbi|FBI]] apparently failed to investigate them, telling Director [[kash-patel|Kash Patel]] at a September 2025 hearing that "to date, the FBI has never answered Congress whether they investigated the text messages, audio files and financial records referenced in that 1023."[14]
 
+## FBI destruction of CCP election-interference memo (2025)
+
+In June 2025, Grassley alleged in a letter to the [[fbi|FBI]] that the bureau under former director [[christopher-wray|Christopher Wray]] had ordered the destruction of an intelligence document alleging that the Chinese Communist Party plotted to interfere in the 2020 presidential election.[15] The FBI had recently turned over to Grassley an intelligence report from its Albany Field Office alleging that China planned to interfere by creating fake mail-in ballots for Democratic candidate Joe Biden.[15] A statement noted that "Chairman Grassley is in receipt of an FBI document responsive to a request he made based on legally protected whistleblower disclosures," and that he was seeking additional information about the destruction decision.[15] Badlands host [[jon-herold|Jon Herold]] characterized the episode as evidence that the CCP foreign-interference story runs far deeper than commonly understood, calling it "coordinated disclosure."[15]
+
+## October 2025 release of Arctic Frost subpoenas
+
+On Wednesday, October 29, 2025, Grassley released additional FBI files showing that hundreds more Republican groups and individuals had been swept into what he called a "fishing expedition" by special counsel [[jack-smith|Jack Smith]].[16] At a press conference alongside other GOP senators, he made public the 197 subpoenas issued as part of the [[arctic-frost|Arctic Frost]] probe, which he said became "the vehicle by which FBI agents and DOJ prosecutors could improperly investigate the entire Republican political apparatus."[16]
+
+Grassley said he had obtained the material "through legally protected whistleblower disclosures," and detailed that the subpoenas went to 34 individuals and 163 businesses, including financial institutions, seeking records and communications related to more than 430 individuals and organizations, all apparently aimed at Republicans.[16] He noted requests sent to the late conservative figure [[charlie-kirk|Charlie Kirk]]'s [[turning-point-usa|Turning Point USA]] and the [[republican-attorneys-general-association|Republican Attorneys General Association]].[16] The release intensified calls for the impeachment of Judge [[james-boasberg|James Boasberg]], with Senator [[mike-lee|Mike Lee]] publicly raising the question the same day.[16]
 
 ## References
 1. Badlands Brief — "America for Sale - Part 2", URL: https://badlands.substack.com/p/america-for-sale-part-2
@@ -99,3 +108,5 @@ Grassley, as Senate Judiciary Chairman, joined Senator [[ron-johnson|Ron Johnson
 12.  Badlands Media — "Badlands News Brief: Biden Crime Cascade, Woke Collapse & Establishment Panic", URL: https://badlands.substack.com/p/badlands-news-brief-617
 13. Badlands Brief — "Badlands News Brief: Escalation is the Name of the Game", URL: https://badlands.substack.com/p/badlands-news-brief-73f
 14. Badlands Brief — "Posse Comitatus & Haggling with Hamas", URL: https://badlands.substack.com/p/badlands-news-brief-94b
+15. Badlands News Brief — "A Constellation of Corruption & A Goldilocks Galaxy", URL: https://badlands.substack.com/p/badlands-news-brief-a40
+16. Badlands Brief — "Badlands News Brief: Asian Happy Endings, Salvadoran Favors, & American Public Corruption", raw/badlands-news-brief-a98.md

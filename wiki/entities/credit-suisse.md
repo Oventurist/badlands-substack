@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, credit-suisse, switzerland, money-laundering, ubs, nazi-era-accounts]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-314.md, raw/badlands-brief-9ac.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-47a.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-314.md, raw/badlands-brief-9ac.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-47a.md, raw/badlands-news-brief-9e8.md]
 confidence: low
 ---
 
@@ -50,6 +50,10 @@ Market commentary compiled on March 13, 2023 reported that Credit Suisse credit-
 
 Reuters reported in July 2023 that the Swiss parliamentary investigation into the collapse of Credit Suisse would keep its files closed for 50 years, a level of secrecy that triggered concern among Swiss historians.[6] The period, specified in a parliamentary committee document, is two decades longer than the 30 years standard in comparable cases, and the moratorium was justified as ensuring "high levels of confidentiality apply to the investigation."[6] [[justin-deschamps|Justin Deschamps]] argued that banks are fundamentally in the business of trust and that sealing the record of a failure for half a century removes the vetting on which trust depends.[6] See [[credit-suisse-collapse-inquiry|Credit Suisse collapse inquiry]].[6]
 
+## Collapse and Sale to UBS (March 2023)
+
+The failure of [[silicon-valley-bank|SVB]] earlier in March 2023 triggered a chain of dominoes that culminated in the collapse of Credit Suisse, described by ZeroHedge as a systemically important bank with $600 billion in assets.[7] On March 19, 2023, [[ubs|UBS]] agreed to acquire Credit Suisse in a deal whose price rose from an initial CHF 1 billion to CHF 2 billion and finally to CHF 3 billion (about US$3.25 billion), or 0.76 francs per share; Credit Suisse shareholders were to receive one UBS share for every 22.48 Credit Suisse shares.[7] As part of the arrangement, the Swiss National Bank offered UBS 100 billion francs in liquidity assistance while the Swiss government granted a 9 billion-franc guarantee against potential losses on assets UBS was absorbing, which ZeroHedge characterized as a taxpayer-backed bailout.[7]
+
 ## References
 
 1. Badlands Brief — "Arctic Escalation and Tropic Trouble for the Financial System", URL: https://badlands.substack.com/p/badlands-brief-02a
@@ -58,3 +62,4 @@ Reuters reported in July 2023 that the Swiss parliamentary investigation into th
 4. Badlands News Brief — "Drones, Speeches ... and a Swiss Bank", URL: https://badlands.substack.com/p/badlands-news-brief-138
 5. Badlands News Brief — "More Banks! And Some Weird Stuff, Too ...", URL: https://badlands.substack.com/p/badlands-news-brief-1e0
 6. Badlands Brief — "Badlands News Brief: The System of Systems Fades ... and Fights", URL: https://badlands.substack.com/p/badlands-news-brief-47a
+7. Badlands Brief — "Badlands News Brief: Trump Arrest ... Panic or No Panic?", URL: https://badlands.substack.com/p/badlands-news-brief-9e8

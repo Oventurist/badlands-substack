@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, house-judiciary, oversight, jack-smith]
-sources: [raw/badlands-brief-245.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-732.md, raw/badlands-news-brief-79c.md, raw/badlands-news-brief-8f9.md]
+sources: [raw/badlands-brief-245.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-732.md, raw/badlands-news-brief-79c.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-a7b.md]
 confidence: medium
 ---
 
@@ -99,6 +99,10 @@ In May 2023, as chairman of the [[house-judiciary-committee|House Judiciary Comm
 
 Days after taking the Judiciary gavel in the 118th Congress, Jordan fired off the committee's first subpoenas, targeting Attorney General [[merrick-garland|Merrick Garland]], [[fbi|FBI]] Director [[christopher-wray|Christopher Wray]] and Education Secretary [[miguel-cardona|Miguel Cardona]] over the [[doj-school-board-memo-2021|2021 school board memo]]; the demands followed more than 100 letters Judiciary Republicans had sent on the subject.[20]
 
+## Forcing the October 17, 2023 speaker vote
+
+Amid the [[2023-speaker-of-the-house-election|2023 speaker of the House election]], Jordan sent out a "Dear Colleague" letter vowing to bring "all Republicans together" if elected speaker, writing: "The role of a speaker is to bring all Republicans together. That's what I intend to do. We will make sure there are more Republican voices involved in our major decision beyond the Five Families."[21] He added that his goal would be "to empower our committees and committee chairs to take the lead on the House's legislative work through regular order."[21] Reporting indicated Jordan planned to force a Tuesday floor vote with or without the 217 votes needed to win, saying: "If you don't have a speaker, so we get a speaker, we get the House open and we get to work on the resolution and supplemental for Israel. And we get back to work for the American people."[21]
+
 ## References
 
 1. Badlands Brief — "Trump Roasts The Press; Teases 2028 Run", URL: https://badlands.substack.com/p/badlands-brief-245
@@ -121,3 +125,4 @@ Days after taking the Judiciary gavel in the 118th Congress, Jordan fired off th
 18. Badlands Brief — "A Terror Designation & A Breath of Fresh Air", URL: https://badlands.substack.com/p/badlands-news-brief-732
 19. Badlands Brief — "Badlands News Brief: Target Tumbles, Trump Tops & Feds Fabricate", URL: https://badlands.substack.com/p/badlands-news-brief-79c
 20. Badlands News Brief — "Deflated Balloons, Sketchy AI & Democrat Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-8f9
+21. Badlands Brief — "Badlands News Brief: A Potato Visits Israel; A Ukrainian Does Not ...", URL: https://badlands.substack.com/p/badlands-news-brief-a7b

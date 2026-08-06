@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [dhs, immigration, trump-administration, congress]
-sources: [raw/badlands-brief-165.md, raw/badlands-brief-4ec.md, raw/badlands-brief-7ed.md, raw/badlands-brief-9ea.md, raw/badlands-brief-990.md, raw/badlands-brief-a20.md, raw/badlands-brief-b74.md, raw/badlands-brief-d17.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-94b.md]
+sources: [raw/badlands-brief-165.md, raw/badlands-brief-4ec.md, raw/badlands-brief-7ed.md, raw/badlands-brief-9ea.md, raw/badlands-brief-990.md, raw/badlands-brief-a20.md, raw/badlands-brief-b74.md, raw/badlands-brief-d17.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-a34.md]
 confidence: medium
 ---
 
@@ -108,6 +108,11 @@ On Tuesday, January 28, 2025, Noem announced the revocation of [[temporary-prote
 
 Noem ended a 2023 designation that had made 350,000 Venezuelans eligible for [[temporary-protected-status|Temporary Protected Status]] and attempted to revoke two extensions announced under the Biden administration that would have let all qualifying Venezuelans keep the status through October 2026.[19] A federal district judge in San Francisco blocked the attempt in the spring of 2025, but on October 3 the [[supreme-court-of-the-united-states|Supreme Court]] lifted that ruling, allowing the terminations to proceed in the [[2025-supreme-court-ruling-on-venezuelan-temporary-protected-status|2025 Supreme Court ruling on Venezuelan temporary protected status]].[19]
 
+## February 2025: FEMA clawback
+
+In February 2025 Homeland Security Secretary Noem announced that the [[donald-trump|Trump]] administration had retrieved $59 million that the [[fema|Federal Emergency Management Agency]] had allocated the previous week to house illegal aliens in New York City hotels.[20] "I have clawed back the full payment that FEMA deep state activists unilaterally gave to NYC migrant hotels," she wrote on X.[20]
+
+Noem said FEMA had been funding the Roosevelt Hotel, which she described as serving as a [[tren-de-aragua|Tren de Aragua]] base of operations and as housing the killer of [[laken-riley|Laken Riley]] — a reference to [[jose-antonio-ibarra|Jose Antonio Ibarra]], an illegal alien from Venezuela found guilty in November of murdering the Georgia nursing student.[20] "Mark my words," she added, "there will not be a single penny spent that goes against the interest and safety of the American people."[20]
 
 ## References
 
@@ -130,3 +135,4 @@ Noem ended a 2023 designation that had made 350,000 Venezuelans eligible for [[t
 17. Badlands Brief — "Badlands News Brief: Unlikely Ambassadors, The Ceasefire Accords, & Predatory Cartoonist", URL: https://badlands.substack.com/p/badlands-news-brief-7ed
 18. Badlands Brief — "Badlands News Brief: A Midflight Collision, Dems Choose Division, Menendez Gets Prison", URL: https://badlands.substack.com/p/badlands-news-brief-93e
 19. Badlands Brief — "Posse Comitatus & Haggling with Hamas", URL: https://badlands.substack.com/p/badlands-news-brief-94b
+20. Badlands Brief — "Badlands News Brief: Rising Demand for DC Defenders & A Sovereign Spring Social", URL: https://badlands.substack.com/p/badlands-news-brief-a34

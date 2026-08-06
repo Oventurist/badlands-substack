@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [narrative, info-war, trump, theory]
-sources: [raw/badlands-brief-e3b.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-42e.md]
+sources: [raw/badlands-brief-e3b.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-aed.md]
 confidence: low
 ---
 
@@ -28,7 +28,14 @@ In this earlier formulation, Trumpamania 2024 cast global politics as a WWE pay-
 
 The term was popularized on the final night of the [[2024-republican-national-convention|2024 Republican National Convention]], when [[hulk-hogan|Hulk Hogan]] used "Trumpmania" to describe the aura surrounding [[donald-trump|Donald Trump]] and "Trumpmaniacs" to describe the MAGA faithful, after stepping briefly out of character as Terry Bollea to describe his long friendship with Trump.[3] Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] asked whether Americans were "about to witness Trumpmania 2024" — a battle royal elimination tournament to determine who would face Trump — drawing an analogy to WrestleMania IV in 1988 at Trump Plaza, the first [[world-wrestling-entertainment|WWE]] event to feature a fourteen-man battle royal.[3] He noted that [[dwayne-johnson|Dwayne "The Rock" Johnson]] had said in November 2023 that both parties had asked him to run for president.[3]
 
+## The garbage truck presser (October 2024)
+
+A late-campaign episode frequently cited as TrumpaMania in its purest form came on Wednesday, October 30, 2024, when [[donald-trump|Donald Trump]] spoke to reporters from the passenger seat of a campaign-branded garbage truck marked "LOADMASTER."[4] Leaning out of the window in an orange hi-vis vest, he asked supporters, "How do you like my garbage truck?" and said, "This truck is in honor of Kamala [Harris] and Joe Biden."[4] The stunt responded to remarks in which [[joe-biden|Joe Biden]] appeared to call Trump's supporters "garbage," itself a reply to Trump's claim that immigration had turned the United States into a "garbage can" and to a speaker at the Madison Square Garden rally who called Puerto Rico a "floating island of garbage."[4] Trump kept the costume on during a rally in Green Bay, swaying to Lee Greenwood's "God Bless the U.S.A." while wearing the vest over his button-down and tie.[4]
+
+Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] treated the day as confirmation of the frame, noting that [[steve-bannon|Steve Bannon]] had affirmed the previous day that "politics is professional wrestling" before the Commander-in-Chief rebranded himself as the "Commander-in-Trash."[4] He argued that Trump understood troop morale as one of the most critical factors in fighting a war, and that making the campaign fun and whimsical while humiliating the [[uniparty|Uniparty]] was itself a strategic act.[4] "TrumpaMania will go down as perhaps the greatest thing to ever happen in politics," he wrote, warning the [[deep-state|Deep State]] not to let the laughter fool them, since Trump was on a mission to destroy it with over 250 million people at his side.[4] The same author invoked the frame again in reacting to [[volodymyr-zelensky|Volodymyr Zelenskyy]]'s complaints about the White House leak, describing himself as savoring "the last few bites of this TrumpaMania sandwich."[4]
+
 ## References
 1. Badlands Brief — "Mad-Lad Maduro, Media Meltdowns & Weapons of the Future", URL: https://badlands.substack.com/p/badlands-brief-e3b
 2. Badlands Brief — "Badlands News Brief: Sovereign Signals, New(ish) Alliances & Reckonings", URL: https://badlands.substack.com/p/badlands-news-brief-316
 3. Badlands Brief — "Badlands News Brief: Change of Batter, Indeed …", URL: https://badlands.substack.com/p/badlands-news-brief-42e
+4. Badlands Brief — "Badlands News Brief: The Garbage Man Cometh to Take out the Trash", URL: https://badlands.substack.com/p/badlands-news-brief-aed

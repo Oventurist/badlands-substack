@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military, air-force, general, gart, badlands-media]
-sources: [raw/a-mysterious-masterclass-in-multi.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-988.md]
+sources: [raw/a-mysterious-masterclass-in-multi.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-988.md, raw/badlands-news-brief-a5d.md]
 confidence: low
 ---
 
@@ -40,9 +40,14 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] recal
 
 Kwast viewed [[codex-911|CODEX 9/11]] in August 2025 at a [[badlands-media|Badlands Media]] event in Deadwood, South Dakota, and called the documentary "a nuclear weapon in the information war."[5] Two weeks later he joined the Badlands podcast to discuss the film, in a clip circulated by [[canncon|CannCon]].[5]
 
+## Shawn Ryan Show appearance, May 2025
+
+In May 2025, podcaster [[shawn-ryan|Shawn Ryan]] posted an official preview announcing Kwast as his next guest on the Shawn Ryan Show, with the episode expected to air that Thursday.[6] The May 21, 2025 [[badlands-news-brief|Badlands News Brief]] led with the announcement, and [[jon-herold|Jon Herold]] wrote that he had been looking forward to the interview "for a while," noting that Kwast and his wife attend every Great American Restoration Tour conference and calling him "absolutely brilliant and a huge asset to our community."[6]
+
 ## References
 1. Badlands Brief — "A Mysterious Masterclass in Multi Sensory Deception", URL: https://badlands.substack.com/p/a-mysterious-masterclass-in-multi
 2. Badlands News Brief — "The Walz Cycle Consumes Itself as Tensions Pause", URL: https://badlands.substack.com/p/badlands-news-brief-0ad
 3. Badlands Brief — "Badlands News Brief: Energy EOs, Game-Changing AI, & Jewish Election Fraud", URL: https://badlands.substack.com/p/badlands-news-brief-32e
 4. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
 5. Badlands Brief — "They LOST the story. They WANT the war.", URL: https://badlands.substack.com/p/badlands-news-brief-988
+6. Badlands Brief — "Badlands News Brief: Our Boy Victim & Friends Without Benefits", URL: https://badlands.substack.com/p/badlands-news-brief-a5d

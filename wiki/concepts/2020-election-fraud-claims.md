@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [2020-election, election-fraud, standing, litigation, due-process]
-sources: [raw/are-jack-smith-and-fani-willis-in.md, raw/badlands-brief-95a.md, raw/badlands-brief-9eb.md, raw/badlands-brief-a20.md, raw/badlands-brief-b56.md, raw/badlands-brief-f87.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-8c5.md]
+sources: [raw/are-jack-smith-and-fani-willis-in.md, raw/badlands-brief-95a.md, raw/badlands-brief-9eb.md, raw/badlands-brief-a20.md, raw/badlands-brief-b56.md, raw/badlands-brief-f87.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-97e.md]
 confidence: medium
 ---
 
@@ -70,6 +70,10 @@ On February 21, 2023, the [[supreme-court-of-the-united-states|Supreme Court]] a
 
 [[badlands-media|Badlands Media]] contributor [[justin-deschamps|Justin Deschamps]] wrote that courts had consistently declined to reach the evidence, frequently on standing grounds, and that [[congress|Congress]] had refused to conduct hearings even as ordinary citizens continued to surface material casting doubt on the result.[9] He argued that the recurring dismissals pointed to a problem larger than a rigged election — a system he described as at best defunct and at worst tyrannical — and warned that if the matter were allowed to fade, future generations "won't know enough to ask for the truth."[9]
 
+## Trump's May 2025 restatement
+
+Amid the release of the [[robert-hur|Hur]] audio in May 2025, [[donald-trump|Donald Trump]] declared on [[truth-social|Truth Social]] that "the biggest crime of all is that THE 2020 PRESIDENTIAL ELECTION WAS RIGGED!"[10] Badlands writers treated the statement as vindication of their own long-running position and argued that celebrating the 2024 result while conceding the legitimacy of the 2020 count would "retroactively codif[y] the System's win in 2020."[10] Burning Bright argued that ceding the 2020 election to [[joe-biden|Joe Biden]] had itself been part of a plan that accelerated public awakening while affording space for operations that would have been impossible with Trump publicly in power, while maintaining that the election was nonetheless fraudulent.[10]
+
 ## References
 
 1. Badlands Brief — "Are Jack Smith and Fani Willis in on the Plan?", URL: https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in
@@ -81,3 +85,4 @@ On February 21, 2023, the [[supreme-court-of-the-united-states|Supreme Court]] a
 7. Badlands Brief — "The Turn on Biden Begins", URL: https://badlands.substack.com/p/badlands-news-brief-11c
 8. Badlands Brief — "Badlands News Brief: Gheyliens, Ukrainian Nazis & Post Office Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-423
 9. Badlands Brief — "Badlands News Brief: Putin Postures, Voting Matters & J6 Subpoenas", URL: https://badlands.substack.com/p/badlands-news-brief-8c5
+10. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e

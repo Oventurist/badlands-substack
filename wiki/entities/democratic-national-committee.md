@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fundraising, clinton-administration, democratic-party, 1996-campaign]
-sources: [raw/america-for-sale-part-1.md, raw/badlands-brief-245.md, raw/badlands-brief-fcb.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-8f9.md]
+sources: [raw/america-for-sale-part-1.md, raw/badlands-brief-245.md, raw/badlands-brief-fcb.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-a40.md]
 confidence: medium
 ---
 
@@ -51,6 +51,12 @@ In mid-2023 the DNC expressed its full support for President [[joe-biden|Joe Bid
 
 On Saturday, February 4, 2023, the DNC voted to make South Carolina the first state to hold a 2024 Democratic presidential primary, in order to prioritize black voters, dethroning Iowa and New Hampshire from their traditional leadoff positions.[9] South Carolina's primary was scheduled for February 3, 2024, and the decision was reported by [[just-the-news|Just the News]].[9] Badlands contributor [[justin-deschamps|Justin Deschamps]] argued the reorder was an attempt to sway black voters by appearing to serve them first, and predicted the committee would continue to pander to groups and races to induce blind loyalty rather than field candidates who genuinely represent voters' rights and interests.[9] Further detail appears at [[2024-democratic-primary-calendar-change|the 2024 Democratic primary calendar change]].[9]
 
+## 2025 financial crisis and internal turmoil
+
+By June 2025, months into the tenure of new chair [[ken-martin|Ken Martin]], the DNC's financial situation had grown so bleak that top officials discussed whether the committee might need to borrow money during the year to keep paying its bills.[10] Fundraising from major donors slowed sharply — some of whom Martin had still not spoken with — while the committee expanded financial commitments to every state party and to territories such as Guam, amounting to roughly $1 million in monthly spending.[10] The DNC's cash reserves shrank by $4 million from January through April, leaving $18 million on hand entering May against $67.4 million for the [[republican-national-committee|Republican National Committee]], and Federal Election Commission reports showed only three people had given $100,000 or more.[10] A New York event headlined by [[kamala-harris|Kamala Harris]] raised roughly $300,000, a fraction of the $1 million price for a single top-end ticket at a comparable Harris event the prior fall.[10] Amid the shortfall, the committee raised Martin's salary from $300,000 to $350,000.[10]
+
+Internally, a protracted public fight with vice chair [[david-hogg|David Hogg]] — who blindsided officials with a plan to challenge incumbent Democrats — included the leak of embarrassing audio of Martin questioning his own role and ended with Hogg's exit in June 2025.[10] Martin also declined to renew the Rules and Bylaws Committee assignments of labor leaders [[randi-weingarten|Randi Weingarten]] and [[lee-saunders|Lee Saunders]], whose unions represent a combined 3.2 million workers; both subsequently left the DNC questioning its direction.[10] Badlands writer [[ashe-in-america|Ashe in America]] argued the collapse in donor money exposed the extent to which the party's apparent popular support had been astroturfed through NGO and campaign-finance laundering channels, citing the [[usaid|USAID]] scandals and the [[actblue|ActBlue]] allegations.[10]
+
 ## References
 1. Badlands Brief — "America for Sale - Part 1", URL: https://badlands.substack.com/p/america-for-sale-part-1
 2. Badlands Brief — "Trump Roasts The Press; Teases 2028 Run", URL: https://badlands.substack.com/p/badlands-brief-245
@@ -61,3 +67,4 @@ On Saturday, February 4, 2023, the DNC voted to make South Carolina the first st
 7. Badlands Brief — "Badlands News Brief: Abercreepy Elites Versus Sovereign Alliance Alpha Chads", URL: https://badlands.substack.com/p/badlands-news-brief-27c
 8. Badlands Brief — "Badlands News Brief: Gheyliens, Ukrainian Nazis & Post Office Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-423
 9. Badlands News Brief — "Deflated Balloons, Sketchy AI & Democrat Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-8f9
+10. Badlands News Brief — "A Constellation of Corruption & A Goldilocks Galaxy", URL: https://badlands.substack.com/p/badlands-news-brief-a40

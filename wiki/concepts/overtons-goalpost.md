@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [information-war, narrative, badlands, framework]
-sources: [raw/badlands-brief-740.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-8f0.md]
+sources: [raw/badlands-brief-740.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-8f0.md, raw/badlands-news-brief-948.md]
 confidence: medium
 ---
 
@@ -36,9 +36,14 @@ In June 2023 [[burning-bright|Burning Bright]] invoked the term to describe the 
 
 Badlands contributor [[burning-bright|Burning Bright]] invoked Overton's Goalpost in September 2023 to describe establishment messaging on "COVID-23," mask mandates and lockdowns.[5] In the same week, [[anthony-fauci|Anthony Fauci]] claimed masks do not work "for the public at large" but do work on an "individual basis," while [[deborah-birx|Deborah Birx]] told [[newsmax|Newsmax]] "We don't need to mandate" and called for empowering families to decide for themselves.[5] Burning Bright treated the contradictory positioning as a managed retreat of the acceptable-opinion boundary rather than a genuine concession, summarizing it as "Retreat is Defeat in the Mind War."[5]
 
+## Application to Ukraine and Israel coverage (2023)
+
+Badlands writer [[burning-bright|Burning Bright]] argued in December 2023 that the Media Machine had taken more than 18 months to begin moving the goalposts on the Ukraine war, but under two months to do so on Israel's campaign in Gaza — an acceleration he read as evidence of lost narrative control and of mass-psychological metrics inverting in favor of the [[great-awakening|Great Awakening]].[6]
+
 ## References
 1. Badlands Brief — "Aliens. A Fake Kid Dies From Fake Measles. And the Princely Prosecution That Was Promised.", URL: https://badlands.substack.com/p/badlands-brief-740
 2. Badlands Brief — "Badlands News Brief: Narrative Shielding & Biden Bait", URL: https://badlands.substack.com/p/badlands-news-brief-204
 3. Badlands News Brief — "FBI Corruption, Kayfabe & Russia, Russia, Russia!", URL: https://badlands.substack.com/p/badlands-news-brief-38a
 4. Badlands Brief — "Badlands News Brief: Ukraine Bursts, Tucker Returns & Trump Promises", URL: https://badlands.substack.com/p/badlands-news-brief-72e
 5. Badlands Brief — "Badlands News Brief: The Turns on COVID, Ukraine & the Establishment Have Begun", URL: https://badlands.substack.com/p/badlands-news-brief-8f0
+6. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948

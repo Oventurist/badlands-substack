@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [pentagon, defense, benghazi, labor, cold-war]
-sources: [raw/a-dereliction-of-duty.md, raw/a-more-perfect-labor-union.md, raw/america-for-sale-part-1.md, raw/and-iran-iran-so-far-away.md, raw/assad-day-in-damascus.md, raw/badlands-brief-07c.md, raw/badlands-brief-165.md, raw/badlands-brief-6f0.md, raw/badlands-brief-739.md, raw/badlands-brief-774.md, raw/badlands-brief-c07.md, raw/badlands-brief-db7.md, raw/badlands-brief-e9a.md, raw/badlands-brief-f17.md, raw/badlands-brief-fcb.md, raw/badlands-news-blast.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-433.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-951.md]
+sources: [raw/a-dereliction-of-duty.md, raw/a-more-perfect-labor-union.md, raw/america-for-sale-part-1.md, raw/and-iran-iran-so-far-away.md, raw/assad-day-in-damascus.md, raw/badlands-brief-07c.md, raw/badlands-brief-165.md, raw/badlands-brief-6f0.md, raw/badlands-brief-739.md, raw/badlands-brief-774.md, raw/badlands-brief-c07.md, raw/badlands-brief-db7.md, raw/badlands-brief-e9a.md, raw/badlands-brief-f17.md, raw/badlands-brief-fcb.md, raw/badlands-news-blast.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-433.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-9de.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a12.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a5a.md, raw/badlands-news-brief-a61.md]
 confidence: medium
 ---
 
@@ -255,6 +255,42 @@ The fiscal year 2026 [[national-defense-authorization-act|National Defense Autho
 
 Despite earlier internal discussions of troop drawdowns, U.S. officials emphasized that European allies must assume greater defense responsibilities by 2027.[49] The bill further allocated $400 million for Ukrainian security assistance along with conditions governing the reclamation of military equipment.[49] Badlands contributor [[chris-paul|Chris Paul]] disputed that Congress holds the constitutional power to impose such limits on the executive's disposition of forces.[49]
 
+## Ukraine aid accounting error
+
+In May 2023 the Pentagon announced that it had mistakenly assigned a higher-than-warranted value to U.S. weaponry shipped to Kyiv, because staff had used "replacement value" instead of "depreciated value" when tabulating the billions of dollars' worth of ammunition, missiles and other equipment sent to [[ukraine|Ukraine]]; the error was later revised upward to $6.2 billion.[50] Because the mistake freed accounting headroom, it worked to Kyiv's benefit, allowing more equipment to be shipped from U.S. stocks within days or weeks under [[presidential-drawdown-authority|Presidential Drawdown Authority]].[50] Two U.S. officials told Reuters that Washington would begin doling out the recovered funds, the first $200 million tranche of which was announced by the [[state-department|State Department]] on August 14, 2023.[50]
+
+## Pentagon warning to Israel (December 2023)
+
+Badlands contributor [[burning-bright|Burning Bright]] cited a Pentagon warning to Israel that continuing down the kinetic path in Gaza was unwise and could leave it in an untenable position, pairing that caution with the collapsing consensus over Ukraine funding as evidence that Washington's war narratives were shifting far faster than they had in 2022.[51]
+
+## Rare earth equity investment (July 2025)
+
+In July 2025 the Defense Department agreed to purchase $400 million of preferred stock in [[mp-materials|MP Materials]], making the Pentagon the largest shareholder in the operator of the only working [[rare-earth-elements|rare earth]] mine in the United States, at Mountain Pass, California.[52] Proceeds were earmarked for expanding the company's rare earths processing capacity and magnet production, and the announcement sent MP Materials shares up roughly 50 percent to close at $45.23.[52]
+
+The Pentagon described rare earth magnets as key components in military weapons systems including the F-35 warplane, drones and submarines, and the deal was structured to secure that supply: the department agreed to buy 100 percent of the magnets produced at a new facility called 10X for ten years after construction, guaranteed a floor price of $110 per kilogram over ten years for neodymium-praseodymium oxide stockpiled or sold by the company, and secured 30 percent of the upside above that floor once a second magnet plant became operational.[52] [[jpmorgan-chase|JPMorgan]] and [[goldman-sachs|Goldman Sachs]] provided $1 billion in financing for the manufacturing facility.[52] Badlands contributor [[ashe-in-america|Ashe in America]] read the transaction as evidence that the [[trump-administration|Trump administration]] was restructuring the national portfolio to reduce foreign dependence in critical industries, while noting the novelty of private companies having the Pentagon as majority shareholder.[52]
+
+## Chemical weapons legacy in Iraq
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]], summarizing [[scott-horton|Scott Horton]]'s account, wrote that the chemical weapons the United States sold to [[saddam-hussein|Saddam Hussein]] in 1980 for use against Iran in the [[iran-iraq-war|Iran-Iraq War]] were the same weapons the Pentagon and the [[cia|CIA]] later invoked as justification for invading Iraq in 2003 and overthrowing him.[52]
+
+## Haiti deployment and MSS funding, March 2024
+
+On March 13, 2024, the Pentagon confirmed that it was urgently deploying an elite counter-terror task force — the Marine Fleet Anti-terrorism Security Team — to bolster the American embassy in Haiti after armed gangs took over much of Port-au-Prince and Prime Minister Ariel Henry resigned.[53] In a statement issued through US Southern Command, the Department of Defense said that it had that week doubled funding for the Multinational Security Support mission and was "working with Haitian, Kenyan, and other partners to expedite its deployment to support the Haitian National Police and to restore security in Haiti."[53]
+
+## Inspector general's "all clear" on Ukraine aid fraud (March 2023)
+
+On Tuesday, February 28, 2023, the Pentagon's inspector general said there was no evidence that any of the billions of U.S. taxpayer dollars spent on weapons and aid sent to [[ukraine|Ukraine]] had been lost to corruption or diverted into criminal hands, while adding that investigations remained at an early stage.[54] The assurance came after members of [[congress|Congress]] persistently questioned how closely the United States was tracking its aid to guard against fraud.[54]
+
+Inspector General [[robert-storch|Robert P. Storch]] was pressed several times by House members about fraud findings and said a number of tips and allegations had come into a new hotline but that there had been "limited findings" to date, with many reports pending.[54] Storch, testifying with other Pentagon leaders before the [[house-armed-services-committee|House Armed Services Committee]], repeatedly qualified his remarks by saying he did not want to discuss investigations that had not yet been completed.[54]
+
+[[badlands-media|Badlands Media]] contributor [[ryan-delarme|Ryan DeLarme]] cast the episode as "Fox Guarding the Hen House," comparing it to [[hillary-clinton|Hillary Clinton]]'s own [[state-department|State Department]] being tasked with investigating her missing emails and noting the department's history of "misplacing" trillions of dollars over three decades and of $5,200 toilet seats.[54] He speculated that there might be a great deal to hide in Ukraine, and that prolonging the war bought time to destroy evidence, establish plausible deniability and pay off holdouts, observing that the war in [[afghanistan|Afghanistan]] took twenty years for its corruption to be concluded.[54]
+
+## F-16s for Ukraine (January 2023)
+
+After President [[joe-biden|Joe Biden]] announced in late January 2023 that the United States would send 31 Abrams M1A2 tanks to [[ukraine|Ukraine]], the administration declined to rule out following with F-16 fighter jets.[55] Deputy Press Secretary [[sabrina-singh|Sabrina Singh]], pressed repeatedly at a Thursday briefing on whether the fourth-generation aircraft were under consideration, said only, "We haven't announced other packages yet."[55] An adviser to Ukraine's defence minister, [[yuriy-sak|Yuriy Sak]], had already told Reuters that "the next big hurdle will now be the fighter jets."[55]
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] argued that the escalation exposed a partisan double standard on war, contending that the Democratic Party had become the party of war and that the [[military-industrial-complex|Military Industrial Complex]] profits from the conflict irrespective of its justification.[55]
+
 ## References
 1. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
 2. Badlands Brief — "A More Perfect (Labor) Union", URL: https://badlands.substack.com/p/a-more-perfect-labor-union
@@ -305,3 +341,9 @@ Despite earlier internal discussions of troop drawdowns, U.S. officials emphasiz
 47. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
 48. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
 49. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951
+50. Badlands Brief — "Badlands News Brief: The Establishment Goes Full RICO Against Trump", URL: https://badlands.substack.com/p/badlands-news-brief-9de
+51. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
+52. Badlands News Brief — "Pentagon Portfolio Plays & Spy Court Sunlight", URL: https://badlands.substack.com/p/badlands-news-brief-a12
+53. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
+54. Badlands News Brief — "Ukrainian Backpedal, Maxwell Solitary & Local Heroes", URL: https://badlands.substack.com/p/badlands-news-brief-a5a
+55. Badlands News Brief — "Big Pharma, Big Lies and Big Boomerangs", URL: https://badlands.substack.com/p/badlands-news-brief-a61

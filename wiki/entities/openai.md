@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ai, tech, chatgpt, stargate]
-sources: [raw/a-new-hollywood.md, raw/america-has-a-cia-run-economy.md, raw/badlands-brief-02a.md, raw/badlands-brief-165.md, raw/badlands-brief-7bf.md, raw/badlands-brief-95a.md, raw/badlands-brief-a6b.md, raw/badlands-brief-cc3.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-433.md, raw/badlands-news-brief-561.md, raw/badlands-news-brief-7c9.md, raw/badlands-news-brief-8a9.md]
+sources: [raw/a-new-hollywood.md, raw/america-has-a-cia-run-economy.md, raw/badlands-brief-02a.md, raw/badlands-brief-165.md, raw/badlands-brief-7bf.md, raw/badlands-brief-95a.md, raw/badlands-brief-a6b.md, raw/badlands-brief-cc3.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-433.md, raw/badlands-news-brief-561.md, raw/badlands-news-brief-7c9.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-a50.md]
 confidence: low
 ---
 
@@ -75,6 +75,12 @@ On Tuesday, January 28, 2025, OpenAI announced [[chatgpt-gov|ChatGPT Gov]], a ta
 
 In April 2025 [[washington-post|The Washington Post]] announced an agreement with OpenAI to make its journalism accessible through ChatGPT, permitting the platform to surface summaries, quotes and links to original Post articles in response to user prompts, with financial terms undisclosed.[14] The deal placed the Post among the largest of more than a dozen news organizations that had partnered with OpenAI in the preceding months to enhance ChatGPT's capabilities.[14]
 
+## National Laboratories partnership (January 2025)
+
+On Thursday, 30 January 2025, OpenAI announced that the U.S. National Laboratories would use its latest artificial intelligence models for scientific research and nuclear weapons security.[15] Under the agreement, up to 15,000 scientists working at the National Laboratories may be able to access OpenAI's reasoning-focused o1 series, and OpenAI said it would work with Microsoft, its lead investor, to deploy one of its models on Venado, the supercomputer at Los Alamos National Laboratory, which is powered by technology from Nvidia and Hewlett-Packard Enterprise.[15] Chief executive [[sam-altman|Sam Altman]] announced the partnership at a company event in Washington, D.C. called "Building to Win: AI Economics."[15] According to OpenAI, the partnership would involve scientists using its technology to enhance cybersecurity protecting the U.S. power grid, identify new approaches to treating and preventing diseases, and deepen understanding of fundamental mathematics and physics.[15]
+
+Badlands commentary read the announcement as OpenAI putting massive resources behind a large workforce in order to outcompete developers refining DeepSeek, arguing that centralized control over AI was the aim because it was "the only way to get everyone back on the same page."[15]
+
 ## References
 1. Badlands Brief — "A New Hollywood", URL: https://badlands.substack.com/p/a-new-hollywood
 2. Badlands Brief — "America Has a CIA-Run Economy", URL: https://badlands.substack.com/p/america-has-a-cia-run-economy
@@ -90,3 +96,4 @@ In April 2025 [[washington-post|The Washington Post]] announced an agreement wit
 12. Badlands Brief — "Badlands News Brief: Pro Putin Propaganda & A Parisian Proxy President", URL: https://badlands.substack.com/p/badlands-news-brief-561
 13. Badlands Brief — "Badlands News Brief: Opposition Intensifies. So Does Winning.", URL: https://badlands.substack.com/p/badlands-news-brief-7c9
 14. Badlands Brief — "Badlands News Brief: Ongoing Judicial Coups. Newly Jailed Judges.", URL: https://badlands.substack.com/p/badlands-news-brief-8a9
+15. Badlands Brief — "Badlands News Brief: Bicameral Puppets & Dark Money Muppets", URL: https://badlands.substack.com/p/badlands-news-brief-a50

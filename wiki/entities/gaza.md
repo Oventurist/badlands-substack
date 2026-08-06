@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [middle-east, gaza, governance, israel-palestine, board-of-peace]
-sources: [raw/badlands-brief-9eb.md, raw/badlands-brief-774.md, raw/badlands-news-brief-08a.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-7bf.md]
+sources: [raw/badlands-brief-9eb.md, raw/badlands-brief-774.md, raw/badlands-news-brief-08a.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-a04.md]
 confidence: medium
 ---
 
@@ -78,6 +78,11 @@ President [[donald-trump|Donald Trump]] unveiled a 20-point plan to end the war 
 
 In May 2025, as [[israel|Israel]] intensified its offensive to take "total control" of the territory, reporting described mass starvation in the enclave and warned that allies including the United States might withdraw their support.[13] The Washington Post reported that the [[trump-administration|Trump administration]] had told [[benjamin-netanyahu|Benjamin Netanyahu]]'s government the US would "abandon" Israel if it did not end the war, an account a US official denied.[13] White House Press Secretary [[karoline-leavitt|Karoline Leavitt]] said "the president wants the war in Gaza to end," and President [[donald-trump|Donald Trump]], speaking during a Middle East tour of Arab states, said "a lot of people are starving" in Gaza, adding, "People are starving. Terrible things are happening there."[13]
 
+## Humanitarian ceasefires and the starvation dispute (July 2025)
+
+The [[israel-defense-forces|IDF]] announced "localized humanitarian ceasefires" in Gaza early on Sunday, July 27, 2025, following a decision by Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] taken without the knowledge of Finance Minister [[bezalel-smotrich|Bezalel Smotrich]], triggering a coalition crisis in [[israel|Israel]].[14] The following day, President [[donald-trump|Donald Trump]] said there was "real starvation" in Gaza, contradicting Netanyahu's claim that such assertions were a "bold-faced lie" and remarking that "those children look very hungry."[14] The UN's humanitarian chief said "vast amounts" of food were needed to stave off starvation.[14] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that "all assets are being deployed" to make the American public complicit in what he called a potential war crime, and welcomed Trump's break with those denying hunger in the territory.[14]
+
+
 ## References
 
 1. Badlands Brief — "Dems Demand a Post-Trump Strategy as Hamas Haggles for Peace", URL: https://badlands.substack.com/p/badlands-brief-9eb
@@ -93,3 +98,4 @@ In May 2025, as [[israel|Israel]] intensified its offensive to take "total contr
 11. Badlands Brief — "Badlands News Brief: Democracy Shields, Entitled Foreigners, & Epstein's Boomerang", URL: https://badlands.substack.com/p/badlands-news-brief-582
 12. Badlands Brief — "Badlands News Brief: Shutdowns, Shakedowns, & Two Sexes", URL: https://badlands.substack.com/p/badlands-news-brief-762
 13. Badlands News Brief — "The Bilateral Bromance & A Misled Grand Jury", URL: https://badlands.substack.com/p/badlands-news-brief-7bf
+14. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04

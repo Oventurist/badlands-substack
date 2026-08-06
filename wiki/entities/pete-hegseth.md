@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [defense, trump-administration, pentagon, industrial-base]
-sources: [raw/badlands-brief-311.md, raw/badlands-brief-52f.md, raw/badlands-brief-5ba.md, raw/badlands-brief-67a.md, raw/badlands-brief-686.md, raw/badlands-brief-708.md, raw/badlands-brief-774.md, raw/badlands-brief-d17.md, raw/badlands-brief-e8d.md, raw/badlands-brief-e9e.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-433.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-592.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-763.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-94b.md]
+sources: [raw/badlands-brief-311.md, raw/badlands-brief-52f.md, raw/badlands-brief-5ba.md, raw/badlands-brief-67a.md, raw/badlands-brief-686.md, raw/badlands-brief-708.md, raw/badlands-brief-774.md, raw/badlands-brief-d17.md, raw/badlands-brief-e8d.md, raw/badlands-brief-e9e.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-433.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-592.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-763.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-ac6.md]
 confidence: medium
 ---
 
@@ -152,6 +152,13 @@ Senator [[joni-ernst|Joni Ernst]] of Iowa, a veteran and sexual assault survivor
 
 On Friday, October 3, 2025, Hegseth reportedly fired [[jon-harrison|Jon Harrison]], chief of staff to the Secretary of the Navy, who had helped carry out a reshuffle of the service's bureaucracy.[30] The [[pentagon|Pentagon]] gave no reason, telling Politico only that Harrison "will no longer serve as Chief of Staff to the Secretary of the Navy" and that "we are grateful for his service to the Department."[30] The dismissal followed administration warnings of major trimming of the federal government during the [[october-2025-government-shutdown|October 2025 government shutdown]] and came the same week the [[us-senate|Senate]] confirmed Navy Undersecretary Hung Cao.[30]
 
+## National Defense Area prosecutions (2025)
+
+As Defense Secretary, Hegseth praised the establishment of the restricted National Defense Area along the U.S.-Mexico border, emphasizing its role in reducing illegal crossings and warning during a visit earlier in 2025 that "when you cross illegally, you will be prosecuted to the fullest extent of the law."[31] In May 2025 a federal judge in New Mexico, Gregory B. Wormuth, dismissed charges against 98 illegal immigrants who had entered the zone on the ground that they were unaware it was military property, among roughly 400 misdemeanor charges filed over the area.[31]
+
+## Operation Southern Spear
+
+On Thursday, November 13, 2025, Hegseth announced [[operation-southern-spear|Operation Southern Spear]] in a post on X, a military operation against "narcoterrorists" launched amid ongoing tensions with Venezuela and strikes on alleged cartel vessels.[32] He wrote that the mission, "led by Joint Task Force Southern Spear and [[southcom|SOUTHCOM]]," would defend the homeland, remove narco-terrorists from the hemisphere, and secure the United States "from the drugs that are killing our people," adding that "the Western Hemisphere is America's neighborhood – and we will protect it."[32] Hegseth did not specify whether the operation would expand on the strikes against alleged cartel vessels in international waters of the Caribbean Sea, in which the United States had destroyed at least 20 boats and killed 80 people since September 2025.[32]
 
 ## References
 
@@ -185,3 +192,5 @@ On Friday, October 3, 2025, Hegseth reportedly fired [[jon-harrison|Jon Harrison
 28. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
 29. Badlands Brief — "Badlands News Brief: Mockingbird Meltdowns & DOGE-Driven Dreams", URL: https://badlands.substack.com/p/badlands-news-brief-966
 30. Badlands Brief — "Posse Comitatus & Haggling with Hamas", URL: https://badlands.substack.com/p/badlands-news-brief-94b
+31. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
+32. Badlands Brief — "Badlands News Brief: Epsteinian Psyops, Mortgage Madness and Caribbean Chaos", URL: https://badlands.substack.com/p/badlands-news-brief-ac6

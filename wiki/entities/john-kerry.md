@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [state-department, obama, foreign-aid, badlands]
-sources: [raw/bad-actors.md]
+sources: [raw/bad-actors.md, raw/badlands-news-brief-a82.md]
 confidence: medium
 ---
 
@@ -18,5 +18,10 @@ The Independent reported that the House was informed by then-Secretary of State 
 
 Joe Lange questions whether the money was truly destined for humanitarian purposes or for the Palestinian Authority at all, noting that Kerry routed it through [[usaid|USAID]], which he characterises as a [[cia|CIA]] front group and taxpayer slush fund.[1] In his reading, the disbursement was the mechanism by which a political debt owed to [[prince-alwaleed-bin-talal|Prince Alwaleed bin Talal]] was settled with public money.[1]
 
+## Georgetown dinner with MBS, 2015
+
+On the evening of the September 2015 Saudi delegation visit, Secretary of State John Kerry hosted an elegant dinner party at his Georgetown home for [[king-salman|King Salman]]'s party.[2] According to Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]], [[mohammed-bin-salman|Mohammed bin Salman]] — dismissed by DC elites as an unrefined homebody — approached Kerry's baby grand piano without asking permission and performed a rendition of Beethoven's Moonlight Sonata so moving that it left the assembled socialites speechless, explaining afterward that he was entirely self-taught.[2]
+
 ## References
 1. Badlands Brief — "Bad Actors", URL: https://badlands.substack.com/p/bad-actors
+2. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82

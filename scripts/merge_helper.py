@@ -1,29 +1,30 @@
 import sys, re, io, os, json
-# usage: merge_helper.py <path> <rawbase> <secfile>
-# secfile contains section text with {N} placeholders for citation number
-path, rawbase, secfile = sys.argv[1], sys.argv[2], sys.argv[3]
-REFLINE = '{N}. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948'
-t = io.open(path, encoding='utf-8').read()
-nl = '\r\n' if '\r\n' in t else '\n'
-t = t.replace('\r\n', '\n')
-m = re.search(r'^sources: \[(.*?)\]$', t, re.M)
-srcs = [s.strip() for s in m.group(1).split(',') if s.strip()]
-tag = 'raw/%s.md' % rawbase
-if tag in srcs:
-    n = srcs.index(tag) + 1
-    new = False
+# usage: merge_helper.py <path> <rawbasename> <reftitle> <refurl> <sectionfile>
+path, raw, title, url, secfile = sys.argv[1:6]
+txt = open(path, encoding='utf-8').read()
+nl = '\r\n' if '\r\n' in txt else '\n'
+txt_n = txt.replace('\r\n', '\n')
+m = re.search(r'^sources: \[(.*?)\]\s*$', txt_n, re.M)
+if not m:
+    print('NO_SOURCES'); sys.exit(2)
+items = [s.strip() for s in m.group(1).split(',') if s.strip()]
+tag = 'raw/%s.md' % raw
+if tag in items:
+    n = items.index(tag)+1
 else:
-    srcs.append(tag); n = len(srcs); new = True
-    t = t[:m.start()] + 'sources: [' + ', '.join(srcs) + ']' + t[m.end():]
-t = re.sub(r'^updated:.*$', 'updated: 2026-08-06', t, count=1, flags=re.M)
-sec = io.open(secfile, encoding='utf-8').read().replace('{N}', str(n)).strip()
-if '## References' in t:
-    head, refs = t.rsplit('## References', 1)
-    refs = refs.rstrip()
-    if new:
-        refs += '\n' + REFLINE.replace('{N}', str(n))
-    t = head.rstrip() + '\n\n' + sec + '\n\n## References' + refs + '\n'
+    items.append(tag); n = len(items)
+    txt_n = txt_n[:m.start()] + 'sources: [' + ', '.join(items) + ']' + txt_n[m.end():]
+txt_n = re.sub(r'^updated: .*$', 'updated: 2026-08-06', txt_n, count=1, flags=re.M)
+sec = open(secfile, encoding='utf-8').read().replace('\r\n','\n').replace('{N}', str(n)).strip()
+refline = '%d. Badlands Brief — "%s", URL: %s' % (n, title, url)
+if '## References' in txt_n:
+    head, tail = txt_n.split('## References', 1)
+    head = head.rstrip('\n') + '\n\n' + sec + '\n\n'
+    tail = tail.rstrip('\n')
+    if refline not in tail:
+        tail = tail + '\n' + refline
+    txt_n = head + '## References' + tail + '\n'
 else:
-    t = t.rstrip() + '\n\n' + sec + '\n\n## References\n' + REFLINE.replace('{N}', str(n)) + '\n'
-io.open(path, 'w', encoding='utf-8', newline=nl).write(t)
-print('ok', path, 'cite', n)
+    txt_n = txt_n.rstrip('\n') + '\n\n' + sec + '\n\n## References\n' + refline + '\n'
+open(path, 'w', encoding='utf-8', newline=nl).write(txt_n)
+print('OK n=%d' % n)

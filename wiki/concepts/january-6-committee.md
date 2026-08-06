@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [congress, january-6, investigations, subpoenas]
-sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-07f.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-8f4.md]
+sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-07f.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-ac1.md]
 confidence: medium
 ---
 
@@ -64,6 +64,14 @@ The committee's credibility came under renewed attack in March 2023 after [[tuck
 
 Contemporary coverage also noted that the footage ran contrary to narratives advanced by the committee and by former Rep. [[liz-cheney|Liz Cheney]], who had characterized the rioters as having participated in an "insurrection."[8] Former President [[donald-trump|Donald Trump]] responded to the broadcast with the words "Free at Last."[8]
 
+## Assistance to the Fulton County prosecution
+
+In the spring of 2022, the committee provided an early boost to Georgia prosecutors investigating [[donald-trump|Donald Trump]] over his actions related to the 2020 election.[9] In mid-April of that year, committee staff quietly met with attorneys working on the Fulton County case for District Attorney [[fani-willis|Fani Willis]], around the time she was preparing to convene a special grand jury and had engaged special prosecutor [[nathan-wade|Nathan Wade]].[9] Politico reported that committee attorneys allowed the district attorney's team to review, but not retain, a "limited set of evidence" the panel had gathered.[9] [[zerohedge|ZeroHedge]] presented the arrangement as collusion, noting that Willis coordinated with both the committee and the Biden White House in building her case.[9]
+
+## Perjury allegations arising from released footage
+
+Badlands commentary connected the committee's record to later disputes over Capitol closed-circuit footage, arguing that the footage was withheld not to protect Capitol security but to prevent the public from recognizing perjury committed during the committee's proceedings and in subsequent prosecutions.[9] The January 2024 reporting by [[steve-baker|Steve Baker]] that Capitol Police Special Agent [[david-lazarus|David Lazarus]] gave false testimony in the [[oath-keepers|Oath Keepers]] trial was cited as a case in point.[9]
+
 ## References
 1. Badlands Brief — "American Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-a1a
 2. Badlands News Brief — "Trump's Trial, Archer's Animus & BRICS' Battle", URL: https://badlands.substack.com/p/badlands-news-brief-07f
@@ -73,3 +81,4 @@ Contemporary coverage also noted that the footage ran contrary to narratives adv
 6. Badlands Brief — "Red States Align While the MSM Craters", URL: https://badlands.substack.com/p/badlands-news-brief-5ff
 7. Badlands Brief — "Badlands News Brief: The Trump Train Rolls on ... Fake MAGA Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-89f
 8. Badlands Brief — "Badlands News Brief: January 6 and Nord Stream Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-8f4
+9. Badlands Brief — "The Media Melts Down as MAGA Rises Once More ...", URL: https://badlands.substack.com/p/badlands-news-brief-ac1

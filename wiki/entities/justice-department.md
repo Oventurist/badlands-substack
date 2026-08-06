@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [government, doj, law-enforcement, prosecutions, epstein, russiagate]
-sources: [raw/badlands-brief-8db.md, raw/badlands-brief-774.md, raw/badlands-brief-a84.md, raw/badlands-brief-ea5.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-824.md]
+sources: [raw/badlands-brief-8db.md, raw/badlands-brief-774.md, raw/badlands-brief-a84.md, raw/badlands-brief-ea5.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a71.md]
 confidence: medium
 ---
 
@@ -84,6 +84,18 @@ In June 2023, the Justice Department notified [[donald-trump|Donald Trump]] that
 
 In November 2025 the cases the department had brought against former FBI director [[james-comey|James Comey]] and New York Attorney General [[letitia-james|Letitia James]] were dismissed after U.S. District Judge [[cameron-mcgowan-currie|Cameron McGowan Currie]] ruled that the federal prosecutor handling them, [[lindsey-halligan|Lindsey Halligan]], had been illegally appointed by the department.[13] Currie's orders did not address the substance of the allegations, leaving open the possibility of re-indictment or appeal, and the administration announced on November 25, 2025 that the department would appeal.[13]
 
+## Review of Fani Willis's grant reporting
+
+In April 2024 the Justice Department disclosed to the Washington Free Beacon that its Office of Justice Programs had found "inconsistencies" in Fulton County district attorney [[fani-willis|Fani Willis]]'s reporting on a $488,000 federal grant.[14] The department acknowledged the discrepancies only after providing contradictory statements about awards Willis's office may have made under the grant, and declined to provide further detail on their nature.[14] The grant, intended to fund a Center for Youth Empowerment and Gang Prevention in Atlanta that never opened, was the same award a fired whistleblower had earlier alleged the office sought to misuse for "swag," computers, and travel.[14]
+
+## $50 million Maduro reward (August 2025)
+
+On August 7, 2025, Attorney General [[pam-bondi|Pam Bondi]] announced that the Justice Department, together with the [[state-department|State Department]], was offering an unprecedented $50 million reward for information leading to the arrest of Venezuelan President [[nicolas-maduro|Nicolás Maduro]], accusing him of collaborating with terrorist organizations and drug cartels to flood the United States with narcotics.[15] The department framed the escalation as part of a wider crackdown on narco-terrorism, citing [[drug-enforcement-administration|DEA]] seizures of thirty tons of cocaine tied to Maduro's network.[15]
+
+## Preparation of federal death row (October 2024)
+
+In October 2024, the Daily Mail reported that the Justice Department was "prepping" the federal government's death row for a resumption of executions in the event [[donald-trump|Donald Trump]] won the presidential election.[16] According to the report, officials made a visit the previous week to inspect the so-called "death range" at the Terre Haute penitentiary in Indiana, where the 40 prisoners serving federal death sentences are held.[16] No executions had been carried out by the US government during [[joe-biden|Joe Biden]]'s term, but Trump had indicated that lethal injections would quickly resume if he retook the White House.[16]
+
 ## References
 
 1. Badlands Brief — "Hunters Become the Hunted as Traitors Reveal Themselves", URL: https://badlands.substack.com/p/badlands-brief-8db
@@ -99,3 +111,6 @@ In November 2025 the cases the department had brought against former FBI directo
 11. Badlands Brief — "Badlands News Brief: Mostly Peaceful Riots and Billionaire Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-6db
 12. Badlands Brief — "The Wall Are Closing in Again! (And Other Stories)", URL: https://badlands.substack.com/p/badlands-news-brief-7ad
 13. Badlands Brief — "Badlands News Brief: Saudi Scoops, Slender Stabbers, & Scorned Scouts", URL: https://badlands.substack.com/p/badlands-news-brief-824
+14. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38
+15. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
+16. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cnn, media, journalism]
-sources: [raw/badlands-news-brief-148.md, raw/badlands-news-brief-243.md, raw/badlands-news-brief-322.md, raw/badlands-news-brief-6d6.md]
+sources: [raw/badlands-news-brief-148.md, raw/badlands-news-brief-243.md, raw/badlands-news-brief-322.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-97e.md]
 confidence: medium
 ---
 
@@ -34,9 +34,14 @@ Reporting aggregated by Badlands noted that JustTheNews had separately reported 
 
 In August 2023, Tapper acknowledged on air that [[joe-biden|Joe Biden]] had lied about his son [[hunter-biden|Hunter Biden]] "making a fortune in Ukraine, China, Moscow," and that [[donald-trump|Donald Trump]] had been right on the point — a clip circulated widely under the headline "Trump Was Right."[4] [[badlands-media|Badlands Media]] highlighted the segment as an instance of a mainstream anchor conceding ground previously dismissed as conspiracy theory.[4]
 
+## Book on Biden's decline (2025)
+
+A book by Tapper and Axios reporter Alex Thompson examining the extent of [[joe-biden|Joe Biden]]'s diminished faculties in office was set for release in the week the [[robert-hur|Hur]] interview audio became public in May 2025, part of what the Wall Street Journal described as a Democratic public reckoning with the subject.[5]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: FOX Fights, Trump Trolls & Twitter Turns?", URL: https://badlands.substack.com/p/badlands-news-brief-148
 2. Badlands Brief — "Badlands News Brief #243: Tariffs Back On & Trump: Best Friend of Animals", URL: https://badlands.substack.com/p/badlands-news-brief-243
 3. Badlands News Brief — "We Have the Source ... And the Sauce", URL: https://badlands.substack.com/p/badlands-news-brief-322
 4. Badlands Brief — "Con Inc. Introduces a New Candidate ... And Trump Was Right!", URL: https://badlands.substack.com/p/badlands-news-brief-6d6
+5. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e

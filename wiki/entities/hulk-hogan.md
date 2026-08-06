@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [wrestling, celebrity, senate, florida]
-sources: [raw/badlands-news-brief-1ba.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-42e.md]
+sources: [raw/badlands-news-brief-1ba.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a04.md]
 confidence: low
 ---
 
@@ -34,8 +34,20 @@ Hogan spoke on the final night of the [[2024-republican-national-convention|2024
 
 Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that scheduling Hogan and [[linda-mcmahon|Linda McMahon]] within hours of one another was a deliberate communications choice rather than a coincidence, and noted that Hogan had headlined WrestleMania IV in 1988 against Andre the Giant at Trump Plaza — the event that began Trump's relationship with the McMahon family.[4]
 
+## Speculation About a Florida Senate Seat (2024)
+
+Following the November 2024 selection of [[linda-mcmahon|Linda McMahon]] as secretary of education, Badlands commentary speculated that Terry Bollea, better known as Hulk Hogan, might be appointed to Marco Rubio's vacated Florida Senate seat, framing such an appointment as a redemption arc for [[world-wrestling-entertainment|WWE]] figures after McMahon's own 2010 Senate loss in Connecticut to [[richard-blumenthal|Richard Blumenthal]].[5]
+
+## Death and "Trumpamania" commentary (July 2025)
+
+Writing in the [[badlands-news-brief|Badlands News Brief]] of July 29, 2025, contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] referred to "the passing of the legendary Hulk Hogan" as a moment when "Trumpa-a-Mania" appeared to be winding down — before President [[donald-trump|Donald Trump]]'s new armored golf escort, [[golf-force-one|"Golf Force One"]], supplied fresh political lore.[6]
+
+
 ## References
+
 1. Badlands Brief — "Badlands News Brief: TrumpaMania Reigns ... with a Russian Twist", URL: https://badlands.substack.com/p/badlands-news-brief-1ba
 2. Badlands Brief — "A Thousand Rabbis, Failing Firewalls, & the Loss of a Legend", URL: https://badlands.substack.com/p/badlands-news-brief-321
 3. Badlands Brief — "Badlands News Brief: Sovereign Signals, New(ish) Alliances & Reckonings", URL: https://badlands.substack.com/p/badlands-news-brief-316
 4. Badlands Brief — "Badlands News Brief: Change of Batter, Indeed …", URL: https://badlands.substack.com/p/badlands-news-brief-42e
+5. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6
+6. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04

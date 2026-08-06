@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [congress, appropriations, government-shutdown, fiscal-policy]
-sources: [raw/badlands-news-brief-116.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-82f.md]
+sources: [raw/badlands-news-brief-116.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-a65.md]
 confidence: medium
 ---
 
@@ -40,8 +40,13 @@ Badlands commentary was hostile to the reflexive defense of the CR: [[chris-paul
 
 The House Republican continuing resolution offered during the [[september-2023-government-shutdown-standoff|September 2023 government shutdown standoff]] would have funded the government through October 31, held Defense and the [[department-of-veterans-affairs|Department of Veterans Affairs]] at current levels, cut all other discretionary spending by 8 percent, and incorporated the H.R. 2 border bill minus its E-Verify provision, while excluding Ukraine and disaster-relief money sought by the [[white-house|White House]].[4]
 
+## March 14, 2025 funding deadline
+
+In late February 2025, Senate Appropriations Vice Chair [[patty-murray|Patty Murray]] acknowledged that another short-term funding bill would likely be needed to extend the March 14 funding deadline and avoid a partial government shutdown, even as negotiations on a topline spending agreement for fiscal year 2025 had progressed.[5] [[congress|Congress]] was by then almost five months behind in passing a final FY25 spending agreement and had been relying on a series of continuing resolutions to keep the federal government funded.[5] At the March 14 deadline, lawmakers would need to pass a final spending bill, enact another CR, or accept a partial shutdown.[5] Badlands commentary marked the date with a joking reference to the Ides of March: "Wonder what happens on March 15th? MADNESS!"[5]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: A Splintered Establishment & Tension Tightropes", URL: https://badlands.substack.com/p/badlands-news-brief-116
 2. Badlands Brief — "Badlands News Brief: Narrative Shielding & Biden Bait", URL: https://badlands.substack.com/p/badlands-news-brief-204
 3. Badlands News Brief — "Unearthed Autopens, Inevitable Ceasefires, & 56 Human Kidneys", URL: https://badlands.substack.com/p/badlands-news-brief-541
 4. Badlands Brief - "Badlands News Brief: Missing Planes, Missing Funds & Missing Metrics", URL: https://badlands.substack.com/p/badlands-news-brief-82f
+5. Badlands Brief — "Badlands News Brief: Rug Pulled Reputations, Insubordination, & the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-a65

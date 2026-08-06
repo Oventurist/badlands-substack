@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [legislation, tiktok, national-security, china]
-sources: [raw/badlands-news-brief-120.md]
+sources: [raw/badlands-news-brief-120.md, raw/badlands-news-brief-a15.md]
 confidence: medium
 ---
 
@@ -26,5 +26,12 @@ Security experts had long warned that TikTok is a weaponized application that co
 
 Badlands writer [[simon-esler|Simon Esler]] observed that Biden had been overtly using TikTok as a campaign platform and TikTok users as a voter demographic, making a flip-flop plausible; alternatively, he suggested the effort could serve as a legal pretext for shutting down social media companies deemed dangerous by the administration, comparing the dynamic to the pretext logic of the Department of Defense's Operation Northwoods memorandum.[1]
 
+## House passage, March 13, 2024
+
+The House of Representatives passed the TikTok divestment legislation on March 13, 2024 by a vote of 352-65-1, with fifteen Republicans and fifty Democrats in opposition.[2] The bill advanced to the Senate, where Intelligence Committee Chairman Mark Warner and Vice Chairman Marco Rubio said in a joint statement that they were "encouraged by today's strong bipartisan vote" and looked forward to "working together to get this bill passed through the Senate and signed into law."[2] President Joe Biden said he would sign the measure if Congress placed it on his desk.[2]
+
+Representative Thomas Massie spoke against the bill before the vote, calling it "actually a trojan horse" whether intentionally or unintentionally, and warning of First Amendment implications on the ground that Americans have the right to view information without government protection from it.[2] Badlands writer Simon Esler read the effort as the construction of a pretext for further systems of control, while also noting Donald Trump's ambiguous positioning after meetings with ByteDance part-owner Jeffrey Yass and Elon Musk.[2]
+
 ## References
 1. Badlands Brief — "J6 Returns to Headlines as Fear Mars AI and Airplanes", URL: https://badlands.substack.com/p/badlands-news-brief-120
+2. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [government, legislature, free-speech, antisemitism, lobbying, appropriations]
-sources: [raw/a-glaring-double-standard.md, raw/a-conflict-of-interest.md, raw/americas-greatest-threat.md, raw/bad-actors.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-05f.md, raw/badlands-brief-169.md, raw/badlands-brief-1ae.md, raw/badlands-brief-1c6.md, raw/badlands-brief-311.md, raw/badlands-brief-40d.md, raw/badlands-brief-52f.md, raw/badlands-brief-733.md, raw/badlands-brief-708.md, raw/badlands-brief-8c2.md, raw/badlands-brief-9ac.md, raw/badlands-brief-9ea.md, raw/badlands-brief-e60.md, raw/badlands-brief-f62.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-951.md]
+sources: [raw/a-glaring-double-standard.md, raw/a-conflict-of-interest.md, raw/americas-greatest-threat.md, raw/bad-actors.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-05f.md, raw/badlands-brief-169.md, raw/badlands-brief-1ae.md, raw/badlands-brief-1c6.md, raw/badlands-brief-311.md, raw/badlands-brief-40d.md, raw/badlands-brief-52f.md, raw/badlands-brief-733.md, raw/badlands-brief-708.md, raw/badlands-brief-8c2.md, raw/badlands-brief-9ac.md, raw/badlands-brief-9ea.md, raw/badlands-brief-e60.md, raw/badlands-brief-f62.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-a65.md]
 confidence: medium
 ---
 
@@ -222,6 +222,10 @@ Three days before a scheduled vote on a Democratic proposal to extend expiring O
 
 Separately, President [[donald-trump|Donald Trump]] blamed Senate Republicans and the chamber's blue slip tradition — which lets home-state senators veto nominees to district courts and U.S. attorney offices — for stalled U.S. attorney nominations, after [[alina-habba|Alina Habba]] announced her resignation as New Jersey's top federal prosecutor.[36]
 
+## FY2025 appropriations and the March 14 shutdown deadline
+
+By late February 2025, Congress was almost five months behind in passing a final spending agreement for fiscal year 2025 and had been relying on a series of continuing resolutions to fund the federal government and avoid a shutdown.[37] Senate Appropriations Vice Chair [[patty-murray|Patty Murray]] acknowledged that another short-term [[continuing-resolution|continuing resolution]] would likely be needed to extend the March 14 deadline, at which point lawmakers would have to pass a final spending bill, enact a further CR, or face a partial shutdown.[37]
+
 ## References
 1. Badlands Brief — "A Glaring Double Standard", URL: https://badlands.substack.com/p/a-glaring-double-standard
 2. Badlands Brief — "A Conflict of Interest", URL: https://badlands.substack.com/p/a-conflict-of-interest
@@ -259,3 +263,4 @@ Separately, President [[donald-trump|Donald Trump]] blamed Senate Republicans an
 34. Badlands Brief — "Badlands News Brief: Shutdowns, Shakedowns, & Two Sexes", URL: https://badlands.substack.com/p/badlands-news-brief-762
 35. Badlands Brief — "Badlands News Brief: Trump Tours, Bannon Breaks Out & Israel Hesitates", URL: https://badlands.substack.com/p/badlands-news-brief-914
 36. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951
+37. Badlands Brief — "Badlands News Brief: Rug Pulled Reputations, Insubordination, & the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-a65

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [africa, sahel, burkina-faso, coup]
-sources: [raw/badlands-brief-1ce.md, raw/badlands-brief-5a2.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-860.md]
+sources: [raw/badlands-brief-1ce.md, raw/badlands-brief-5a2.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-a56.md]
 confidence: medium
 ---
 
@@ -68,6 +68,10 @@ On regional integration, Traoré said that "seeing Africans unite is not good fo
 
 Badlands contributor GhostofBasedPatrickHenry, describing Traoré as at 36 the world's youngest leader and "our favorite African leader," invoked General Steve Kwast's remark that Africa's "hero system" had been broken by colonial interests that destroyed capable leaders while elevating controllable ones.[10] He speculated that the Barsalogho attackers' knowledge of Traoré's attachment to the town implied cooperation between ISIS and prior external powers, and framed Traoré alongside Bukele, Xi and Orbán as leaders so far absent from a long list of assassinated or targeted heads of state.[10]
 
+## Talks with the Russian delegation (September 2023)
+
+In late August 2023, Traoré received a Russian delegation led by Deputy Defence Minister [[yunus-bek-yevkurov|Yunus-Bek Yevkurov]] in Ouagadougou to discuss possible military cooperation, in a meeting the [[burkina-faso|Burkina Faso]] presidency described as a follow-up to his talks with [[vladimir-putin|Vladimir Putin]] at the Russia-Africa summit in St. Petersburg in July.[11] The agenda covered military-sphere cooperation including the training of Burkinabè cadet officers and officers at all levels, pilots among them, in Russia.[11] Traoré had taken power in a September 2022 coup against Lieutenant Colonel [[paul-henri-sandaogo-damiba|Paul-Henri Sandaogo Damiba]], and relations with Moscow deepened thereafter.[11]
+
 ## References
 
 1. Badlands Brief — "African Acceleration, Powell's Replacement, & MEGA Democracy", URL: https://badlands.substack.com/p/badlands-brief-1ce
@@ -80,3 +84,4 @@ Badlands contributor GhostofBasedPatrickHenry, describing Traoré as at 36 the w
 8. Badlands Brief - "Badlands News Brief: Tracking Resignations and Treasonous Trials", URL: https://badlands.substack.com/p/badlands-news-brief-576
 9. Badlands News Brief — "Johnson's Package Goes Flaccid ... And Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-79f
 10. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
+11. Badlands Brief — "Badlands News Brief: Corruption Probes, Client Lists & Mud Pits", URL: https://badlands.substack.com/p/badlands-news-brief-a56

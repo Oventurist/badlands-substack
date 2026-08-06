@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fcc, telecommunications, regulation, internet, biden-administration]
-sources: [raw/badlands-news-brief-12b.md, raw/badlands-news-brief-1ba.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-8d6.md]
+sources: [raw/badlands-news-brief-12b.md, raw/badlands-news-brief-1ba.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-8d6.md, raw/badlands-news-brief-9c6.md]
 confidence: medium
 ---
 
@@ -40,6 +40,14 @@ When the Federal Communications Commission reaffirmed in December 2023 its refus
 
 Carr agreed to testify before a Senate panel after receiving backlash from both sides of the political aisle over his perceived role in the brief suspension of comedian [[jimmy-kimmel|Jimmy Kimmel]] from late-night television.[5] Semafor first reported, citing an unnamed source familiar with the matter, that Carr would appear before the Senate Commerce Committee in November 2025, and a committee spokesperson later confirmed the reporting to NBC News; an exact date and the subjects to be discussed had yet to be revealed.[5] Carr had drawn criticism the previous month after pressuring broadcasters to "take action" against Kimmel over comments he made in the wake of the [[assassination-of-charlie-kirk|assassination of conservative activist Charlie Kirk]]; ABC suspended Kimmel's show shortly afterwards but returned him to the air within days.[5]
 
+## Appointment as FCC Chairman and the "Censorship Cartel"
+
+On November 17, 2024, President-elect [[donald-trump|Donald Trump]] announced Carr as his pick to lead the [[federal-communications-commission|Federal Communications Commission]], calling him a "warrior for free speech" and elevating him from the agency's senior Republican commissioner to permanent chairman.[6] Days before the announcement, in letters dated November 13, Carr had demanded answers from major technology firms about their participation in what he called a "censorship cartel" to suppress disfavored speech.[6]
+
+The letters were addressed to Google's Sundar Pichai, Microsoft's Satya Nadella, Meta's Mark Zuckerberg and Apple's Tim Cook, and specifically sought information about the companies' dealings with [[newsguard|NewsGuard]], a for-profit "fact-checking" firm accused by congressional Republicans of labeling conservative outlets as riskier than liberal ones.[6] "Facebook, Google, Apple, Microsoft & others have played central roles in the censorship cartel," Carr wrote in an accompanying post on X. "The Orwellian named NewsGuard along with 'fact checking' groups & ad agencies helped enforce one-sided narratives."[6] The executives were directed to respond to the FCC by December 10 identifying which products or services partnered with NewsGuard and whether customers were required to rely on it.[6]
+
+Badlands commentary welcomed the move, noting that Carr had targeted the same organization that had threatened numerous independent media outlets, including Badlands Media itself, and that [[mike-benz|Mike Benz]] had been publicizing NewsGuard's activities for months on X — a development framed as bad news for NewsGuard co-founder-linked figure [[jules-kroll|Jules Kroll]].[6]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: The Establishment is Collapsing from Within", URL: https://badlands.substack.com/p/badlands-news-brief-12b
@@ -47,3 +55,4 @@ Carr agreed to testify before a Senate panel after receiving backlash from both 
 3. Badlands Brief — "Badlands News Brief: Non-Binding Motions & Psycho-Emotional Problems", URL: https://badlands.substack.com/p/badlands-news-brief-3ab
 4. Badlands Media — "Badlands News Brief: The Biden Crime Family Begins to Unravel ...", URL: https://badlands.substack.com/p/badlands-news-brief-505
 5. Badlands Brief — "Badlands News Brief: Inadvertent Israeli Attacks, Delightful Deep Fakes, & A Suing Shaman", URL: https://badlands.substack.com/p/badlands-news-brief-8d6
+6. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6

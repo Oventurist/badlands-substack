@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, texas, republicans, iran, israel]
-sources: [raw/badlands-brief-509.md, raw/badlands-brief-6b4.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-899.md]
+sources: [raw/badlands-brief-509.md, raw/badlands-brief-6b4.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-a40.md]
 confidence: low
 ---
 
@@ -46,6 +46,10 @@ On his podcast "The Verdict," Cruz interviewed [[house-oversight-committee|House
 
 In June 2025 Badlands commentary reported that, according to Wisconsin-based investigator Peter Bernegger — a primary investigator of donation smurfing and a frequent guest on Why We Vote — Cruz is the number one recipient of smurfed donations in the nation.[6] The claim was raised alongside calls to extend the ActBlue fraud investigation to the Republican platform WinRed.[6] Commentators recalled Cruz's dismissal of the suggestion that he was funded by AIPAC on the grounds that his money came from small independent donors, and questioned whether those nominal individuals were in fact conduits for illegal contributions washed through identities without their knowledge or consent.[6] The accompanying take insisted that party affiliation is no excuse for laundering foreign money and that every violator should be prosecuted.[6]
 
+## June 2025 Carlson interview and AIPAC defense
+
+In a newly released and visibly tense interview in June 2025, Cruz forcefully defended the role of [[aipac|the American Israel Public Affairs Committee]] in domestic politics, arguing to [[tucker-carlson|Tucker Carlson]] that the group does not operate as a "foreign agent" on behalf of the Jewish state, and accusing Carlson of antisemitism.[7] Carlson repeatedly pressed Cruz on his hawkish stance toward [[iran|Iran]], grilling him about basic facts such as Iran's population and ethnic breakdown and implying that he lacked foundational knowledge despite advocating maximum pressure on the Islamist regime.[7] When the discussion turned to US–Israel relations, Carlson questioned whether Israel's alleged spying and military actions had American backing, prompting Cruz to defend the alliance while walking back implications of direct US involvement.[7] Observers framed the exchange as underscoring growing fissures within the MAGA movement between isolationists aligned with Carlson and voices such as Cruz favoring a more robust military posture amid the intensifying Israel–Iran conflict.[7] Badlands writer [[ashe-in-america|Ashe in America]] countered that Cruz was reciting the long-standing party line and that the actual test — the value exchange of donations for foreign-policy determinations — was one he never addressed.[7]
+
 ## References
 1. Badlands Brief — "Election Exposure, Energy Angst & War Rackets", URL: https://badlands.substack.com/p/badlands-brief-509
 2. Badlands Brief — "Deliberate Discombobulation Driving Transformational Change", URL: https://badlands.substack.com/p/badlands-brief-6b4
@@ -53,3 +57,4 @@ In June 2025 Badlands commentary reported that, according to Wisconsin-based inv
 4. Badlands Brief — "Badlands News Brief: Democracy Shields, Entitled Foreigners, & Epstein's Boomerang", URL: https://badlands.substack.com/p/badlands-news-brief-582
 5.  Badlands Media — "Badlands News Brief: Biden Crime Cascade, Woke Collapse & Establishment Panic", URL: https://badlands.substack.com/p/badlands-news-brief-617
 6. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
+7. Badlands News Brief — "A Constellation of Corruption & A Goldilocks Galaxy", URL: https://badlands.substack.com/p/badlands-news-brief-a40

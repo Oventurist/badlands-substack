@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ngo, litigation, immigration, civil-rights]
-sources: [raw/badlands-news-brief-065.md, raw/badlands-news-brief-471.md]
+sources: [raw/badlands-news-brief-065.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-a04.md]
 confidence: medium
 ---
 
@@ -26,7 +26,13 @@ On the evening of Good Friday, April 18, 2025, the ACLU filed an emergency appli
 
 Badlands commentator [[ashe-in-america|Ashe in America]] argued that the ACLU had essentially skipped the [[fifth-circuit-court-of-appeals|Fifth Circuit]] by giving the court an ultimatum to rule within 42 minutes, calling that "not really a thing that parties can do in court" and suggesting the organization enjoys special privileges.[2] She wrote that the Supreme Court "inexplicably" rewarded the breach, and questioned why the ACLU could make such demands and why the Court would grant unprecedented relief in response.[2] The government's response argued the ACLU sought to deprive the courts of the critical fact-finding that due process demands, since no lower court had made findings about the notice given to detainees or the adequacy of the government's notice procedures.[2]
 
+## Badlands criticism over immigration litigation (July 2025)
+
+Commenting on [[immigration-and-customs-enforcement|ICE]]'s announcement that it had arrested 214 migrants charged with or convicted of child sex offenses in the Houston area over six months, Badlands contributor [[ashe-in-america|Ashe in America]] identified the ACLU as "the coordinating entity" behind the immigration-related legal challenges to the [[trump-administration|Trump administration]]'s removal operations.[3] The commentary framed those challenges as obstructing the deportation of convicted child sex offenders.[3]
+
+
 ## References
 
 1. Badlands Brief — "The Dye's Been Cast Out. The Round Table is Set.", URL: https://badlands.substack.com/p/badlands-news-brief-065
 2. Badlands Brief — "Badlands News Brief: Robot Runners, Prisoner Swaps, & Control of Crimea", URL: https://badlands.substack.com/p/badlands-news-brief-471
+3. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04

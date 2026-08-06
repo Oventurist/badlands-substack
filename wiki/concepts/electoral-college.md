@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [elections, us-politics, constitution, 2024-election]
-sources: [raw/badlands-news-brief-914.md]
+sources: [raw/badlands-news-brief-914.md, raw/badlands-news-brief-ac8.md]
 confidence: high
 ---
 
@@ -24,6 +24,11 @@ In the closing week of the 2024 campaign, [[politico|Politico]] published a colu
 
 [[badlands-media|Badlands Media]] commentator [[ashe-in-america|Ashe in America]] read the piece as a coordinated pre-emptive narrative, noting that MSNBC's [[joy-reid|Joy Reid]] had made similar arguments days earlier, and framed the timing as an admission that Trump was positioned to win the popular vote.[1] Her counter-argument was structural rather than partisan: without the Electoral College, the United States would cease to function as a representative republic, since presidential outcomes would be dictated by a handful of population centers. She urged readers to "hold the line" against the coming push.[1]
 
+## Walz calls for abolition (October 2024)
+
+Earlier in October 2024, Minnesota Governor [[tim-walz|Tim Walz]], the Democratic Party's vice presidential nominee, suggested at two West Coast fundraisers that the Electoral College should be abolished.[2] In Seattle he told donors that "because of our system of the Electoral College, that puts a few states in real focus," adding, "I'm a national popular vote guy, but that's not the world we live in."[2] Later the same day in Sacramento, while discussing the battleground states that would decide the election, he said plainly, "I think all of us know, the Electoral College needs to go. We need a national popular vote" — before conceding again that this was not the world he lived in and pivoting to the need to win Beaver County and York, Pennsylvania, western Wisconsin and Reno, Nevada.[2] The [[donald-trump|Trump]] campaign responded on X, suggesting Walz's remarks showed that he hates the U.S. Constitution.[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Trump Tours, Bannon Breaks Out & Israel Hesitates", URL: https://badlands.substack.com/p/badlands-news-brief-914
+2. Badlands Brief — "Storms both Real and Political Converge in October", URL: https://badlands.substack.com/p/badlands-news-brief-ac8

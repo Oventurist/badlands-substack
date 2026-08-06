@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, private-military, africa, sahel, syria]
-sources: [raw/badlands-brief-405.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-860.md]
+sources: [raw/badlands-brief-405.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-a56.md, raw/badlands-news-brief-ac7.md]
 confidence: medium
 ---
 
@@ -56,6 +56,16 @@ Badlands Media argued in September 2024 that a major obstacle to French Presiden
 
 Reporting in October 2024 on Burkina Faso's counter-terrorism campaign noted that interim president [[ibrahim-traore|Ibrahim Traoré]] and his allies in Niamey and Bamako had accused Ukraine of supporting terrorism in the Sahel, alleging that insurgents used intelligence supplied by Kyiv to carry out a July 2024 attack that killed dozens of Malian soldiers along with Wagner Group military personnel.[9] The three [[alliance-of-sahel-states|Alliance of Sahel States]] members, all under military rule, had severed defense ties with France and turned instead to Russia, which agreed to assist them with counter-terrorism.[9]
 
+## Sahel tour alongside the Russian defence delegation (2023)
+
+In late August 2023, before the Russian delegation's meeting with [[ibrahim-traore|Ibrahim Traoré]] in Ouagadougou, the group — described by [[ashe-in-america|Ashe in America]] as headlined by Wagner — was in the Malian capital Bamako, where Reuters reported that Wagner militants were helping the army fight Islamist militants.[10] The delegation subsequently landed in Bangui in the [[central-african-republic|Central African Republic]], a visit widely speculated to also concern military cooperation.[10]
+
+## June 2023 mutiny and its settlement
+
+In June 2023 Wagner chief [[yevgeny-prigozhin|Yevgeny Prigozhin]] launched a short-lived armed action against the Russian defense establishment, seizing a military command headquarters and sending a tank column toward Moscow before recalling his columns to their bases in under twenty-four hours.[11] Under the truce announced by Kremlin spokesman [[dmitry-peskov|Dmitry Peskov]], Wagner fighters were not to be persecuted in light of their service on the front lines of the Ukraine conflict; contractors who had refused to join the [[wagner-group-mutiny|mutiny]] — and whole units had refused — were permitted to sign contracts with the [[russian-ministry-of-defense|Russian Defense Ministry]], while those who took part faced no charges.[11] Prigozhin himself was to leave Russia for Belarus with criminal charges dropped.[11]
+
+Badlands commentary read the episode as military deception, noting that Wagner had staged a comparable feigned collapse at Bakhmut three weeks earlier to bait a Ukrainian counter-offensive, after which [[vladimir-putin|Putin]] publicly commended the contractor unit for its effectiveness.[11]
+
 ## References
 
 1. Badlands Brief — "Agencies Aflutter, Corporate Compacts & Discombobulated Drones", URL: https://badlands.substack.com/p/badlands-brief-405
@@ -67,3 +77,5 @@ Reporting in October 2024 on Burkina Faso's counter-terrorism campaign noted tha
 7. Badlands Brief — "'Iran Iran Iran!' Is the New 'Russia Russia Russia!'", URL: https://badlands.substack.com/p/badlands-news-brief-421
 8. Badlands Brief — "Badlands News Brief: Trump Calls for Peace as the World Heads Toward War", URL: https://badlands.substack.com/p/badlands-news-brief-69b
 9. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
+10. Badlands Brief — "Badlands News Brief: Corruption Probes, Client Lists & Mud Pits", URL: https://badlands.substack.com/p/badlands-news-brief-a56
+11. Badlands Brief — "Whose Coup Is It Anyway? ... And Other Questions", URL: https://badlands.substack.com/p/badlands-news-brief-ac7

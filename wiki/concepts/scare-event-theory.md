@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [narrative-warfare, burning-bright, awakening, psyop-theory]
-sources: [raw/badlands-news-brief-9bf.md]
+sources: [raw/badlands-news-brief-9bf.md, raw/badlands-news-brief-adc.md]
 confidence: medium
 ---
 
@@ -24,5 +24,12 @@ He argued that a long series of narrative shocks — from COVID and Big Pharma t
 
 Assessing the Israel–Gaza war and specifically the [[jabaliya-refugee-camp-strike|Israeli strike on the Jabaliya refugee camp]] of October 31, 2023, Burning Bright judged that the situation did not yet satisfy the four criteria, but wrote that it was "bringing us closer to an event that does."[1]
 
+## Summer 2024 "Crisis Cascade"
+
+In June 2024 [[burning-bright|Burning Bright]] revisited the theory against a convergence of stressors: Russian naval activity in the Caribbean, Chinese testing of the Taiwan Strait, [[donald-trump|Donald Trump]]'s legal jeopardy, an economy described as on the brink, and a US president said to be losing his mind on the world stage.[2] He noted that all major powers were planning "worldwide naval exercises" for the autumn of 2024 and that nuclear scares were again emanating from Russia, and suggested it was time to brush up on the Scare Event theory that first emerged from the Q drops.[2] He restated that the last and greatest threat — total annihilation — has always been the most likely vehicle for mass population awakening.[2]
+
+Burning Bright predicted that a "Crisis Cascade" was primed to reach a series of inflection points over that summer, which would make earlier "hot" summers look quaint, and repeated the formulation that "[Their] Scare Event will be transformed into a Mass Unification Event."[2] He closed by telling readers that their role was to enjoy the show while preparing to act as frame and support for the tens of millions who do not yet know.[2]
+
 ## References
 1. Badlands Brief — "14th Time's the Charm to 'Get Trump?'", URL: https://badlands.substack.com/p/badlands-news-brief-9bf
+2. Badlands Brief — "Badlands News Brief: Globalists Panic as Populism Takes Over the Zeitgeist", URL: https://badlands.substack.com/p/badlands-news-brief-adc

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [foreign-policy, caucasus, diplomacy, peace-deal]
-sources: [raw/badlands-brief-4ec.md, raw/badlands-brief-ec9.md, raw/badlands-news-brief-70a.md]
+sources: [raw/badlands-brief-4ec.md, raw/badlands-brief-ec9.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-a04.md]
 confidence: medium
 ---
 
@@ -28,7 +28,13 @@ In June 2024, Armenia announced that it would withdraw from the Russian-led [[co
 
 Russian Deputy Foreign Minister Mikhail Galuzin accused the European Union of using a "monitoring mission" in Armenia to spy on the neighboring government of Azerbaijan.[3] The two countries, at war since 2020, saw their ceasefire broken in September 2023 by a 24-hour kinetic engagement that ended with Russian troops deploying to restore peace, in a warzone situated less than 50 miles from the site where Iran's president was killed in a helicopter crash the following year.[3] Badlands contributor GhostofBasedPatrickHenry argued that these moves, together with parallel pressure on Georgia, amounted to a desperate attempt by the hegemony to control the Caucasus and sever the International North–South Transportation Corridor developed under the [[shanghai-cooperation-organization|Shanghai Cooperation Organization]].[3]
 
+## Digitization of ancient manuscripts (2025)
+
+In July 2025 Radio Free Europe reported that experts at the [[matenadaran|Matenadaran]], Armenia's purpose-built manuscript repository, had begun a groundbreaking project to place all accessible Armenian manuscripts — from ancient bibles to medieval cake recipes — into a free, searchable online database.[4] Many of the manuscripts held in Armenia were carried out of Ottoman territory by survivors of the mass killings that began in 1915, some hidden inside their clothing; many others remain scattered in museums and private collections worldwide.[4]
+
+
 ## References
 1. Badlands Brief — "Criminal Invader Crashouts & Honeypot Hoaxes", URL: https://badlands.substack.com/p/badlands-brief-4ec
 2. Badlands Brief — "Carefree Midterms, Space Networks, & Turned Tables", URL: https://badlands.substack.com/p/badlands-brief-ec9
 3. Badlands Brief — "Badlands News Brief: Contempt, Combat Tactics and Cuts?", URL: https://badlands.substack.com/p/badlands-news-brief-70a
+4. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04

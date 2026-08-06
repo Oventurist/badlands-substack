@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [white-house, chain-of-command, benghazi]
-sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-143.md, raw/badlands-brief-05f.md, raw/badlands-brief-169.md, raw/badlands-brief-559.md, raw/badlands-brief-6f4.md, raw/badlands-brief-6f0.md, raw/badlands-brief-708.md, raw/badlands-brief-b56.md, raw/badlands-brief-f62.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8d8.md, raw/badlands-news-brief-93d.md]
+sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-143.md, raw/badlands-brief-05f.md, raw/badlands-brief-169.md, raw/badlands-brief-559.md, raw/badlands-brief-6f4.md, raw/badlands-brief-6f0.md, raw/badlands-brief-708.md, raw/badlands-brief-b56.md, raw/badlands-brief-f62.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8d8.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a64.md]
 confidence: medium
 ---
 
@@ -164,6 +164,14 @@ In June 2023 the White House hosted a Pride Month celebration at which a rainbow
 
 The event took place days before Flag Day and one day after [[joe-biden|Joe Biden]] issued a Flag Day proclamation stating that "Old Glory stands for hope, pride, and progress."[31] At the celebration Biden said the United States is "the only nation that is founded on an idea — not geography, not religion, and not ethnicity — that all men and women are created equal, endowed by their Creator, et cetera," and closed with "Happy Pride Month. Happy Pride year. Happy Pride life."[31] He thanked [[tim-gill|Tim Gill]] of the [[gill-foundation|Gill Foundation]] and Gill's husband [[scott-miller|Scott Miller]], the administration's ambassador to Switzerland, for making the event possible; neither attended.[31]
 
+## DC law enforcement announcement (August 2025)
+
+On Thursday, August 7, 2025, the White House announced that federal law enforcement officers would patrol the streets of Washington, D.C. for seven days beginning at midnight, in marked units and under the lead of the [[united-states-park-police|U.S. Park Police]].[32] Press secretary [[karoline-leavitt|Karoline Leavitt]] said the city had "been plagued by violent crime for far too long" and that there would be "no safe harbor for violent criminals in D.C."[32] The move followed President [[donald-trump|Donald Trump]]'s statement that he was weighing a federal takeover of the D.C. police department after a violent attack on a former [[doge|DOGE]] staffer.[32]
+
+## Direction of Justice Department Policy (2025)
+
+In late February 2025 the White House hosted a conclave of Trump-allied influencers for their first visit, at which Attorney General [[pam-bondi|Pam Bondi]] distributed binders labeled "Epstein Files: Phase 1" in the Roosevelt Room — a rollout that produced "no bombshells."[33] Reporting the following May described the West Wing as the true locus of law enforcement policymaking: former pardon attorney [[elizabeth-oyer|Elizabeth Oyer]] said "the decisions are being made at the White House, and then they're being pushed down to the [[department-of-justice|Department of Justice]], which is very, very atypical."[33]
+
 ## References
 1. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
 2. Badlands Brief — "All the Classic Earmarks of Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-143
@@ -196,3 +204,5 @@ The event took place days before Flag Day and one day after [[joe-biden|Joe Bide
 29. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
 30. Badlands Brief — "Badlands News Brief: Trump Hits the Bronx as the Establishment Panics", URL: https://badlands.substack.com/p/badlands-news-brief-8d8
 31. Badlands Brief — "Badlands News Brief: Trump Trolls, Soros Slithers & Flags Fly", URL: https://badlands.substack.com/p/badlands-news-brief-93d
+32. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
+33. Badlands Brief — "Badlands News Brief: Black Hat Nightmares & A Camelback Caravan of Confirmation", URL: https://badlands.substack.com/p/badlands-news-brief-a64

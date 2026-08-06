@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [new-york-city, mayors, politics]
-sources: [raw/badlands-brief-e8d.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-502.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-99e.md]
+sources: [raw/badlands-brief-e8d.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-502.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-a31.md]
 confidence: medium
 ---
 
@@ -125,6 +125,10 @@ Speaking at a press conference on the day the indictment was unsealed, Adams ask
 
 On Monday, December 9, 2024, Adams announced at a news conference that police had arrested a suspect in the [[killing-of-brian-thompson|shooting death of UnitedHealthcare CEO Brian Thompson]] in Manhattan.[22] "We believe we have a strong person of interest," the mayor said of [[luigi-mangione|Luigi Mangione]], who had been detained in Altoona, Pennsylvania, on gun charges.[22]
 
+## New York Post endorsement appeal (August 2025)
+
+In an August 7, 2025 editorial, the [[new-york-post|New York Post]] editorial board urged President [[donald-trump|Donald Trump]], if he chose to involve himself in that year's mayoral race, to back Adams for a second term in Gracie Mansion, citing his commitment to public safety and civic pride.[23] The board credited Adams with standing up to left-wing legislators in Albany and the City Council — "the radicals who want to legalize theft, hold no one on bail and empty all the jails" — and noted that for the first half of 2025 New York recorded the lowest number of shootings since the city began keeping track.[23] The editorial warned that socialist rival [[zohran-mamdani|Zohran Mamdani]], a "defund the police" activist, would reverse that progress, hobble the [[new-york-city-police-department|NYPD]], drive away businesses and make the streets unsafe.[23]
+
 ## References
 
 1. Badlands Brief — "Miraflores New Tenant, Walz Awakens, & Kelly's Court Martial", URL: https://badlands.substack.com/p/badlands-brief-e8d
@@ -149,3 +153,4 @@ On Monday, December 9, 2024, Adams announced at a news conference that police ha
 20. Badlands News Brief — "Deflated Balloons, Sketchy AI & Democrat Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-8f9
 21. Badlands News Brief — "Embattled Mayors, Peacemakers & Signal Setters", URL: https://badlands.substack.com/p/badlands-news-brief-9b2
 22. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e
+23. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31

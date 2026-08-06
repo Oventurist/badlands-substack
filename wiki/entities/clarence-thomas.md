@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [supreme-court, judiciary, voting-rights-act]
-sources: [raw/badlands-brief-6bf.md, raw/badlands-brief-fd9.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-862.md, raw/badlands-news-brief-8ba.md]
+sources: [raw/badlands-brief-6bf.md, raw/badlands-brief-fd9.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-862.md, raw/badlands-news-brief-8ba.md, raw/badlands-news-brief-acf.md]
 confidence: medium
 ---
 
@@ -39,6 +39,10 @@ In October 2020, Thomas took issue with [[section-230|Section 230]] of the Commu
 
 During oral arguments on April 25, 2024 in the case concerning whether former President [[donald-trump|Donald Trump]] is immune from prosecution for official acts carried out during his presidency, Thomas asked Trump's attorney [[d-john-sauer|John Sauer]], "Did you, in this litigation, challenge the appointment of special counsel?" — a reference to [[jack-smith|Jack Smith]], who was appointed by Attorney General [[merrick-garland|Merrick Garland]].[6] Sauer replied that Trump's attorneys had not raised such concerns "directly" in the case before the Court, but said the question "points to a very important issue here," given the prosecution's reliance on a "presumption of regularity."[6] He argued that this "runs into the reality that we have here an extraordinary prosecutorial power being exercised by someone who was never nominated by the president or confirmed by the Senate at any time."[6] Sauer added that he agreed with the analysis of former Attorneys General [[edwin-meese-iii|Edwin Meese]] and Michael B. Mukasey, who had submitted an amicus brief on March 19, 2024 arguing that irrespective of the immunity question, Smith "does not have authority to conduct the underlying prosecution."[6]
 
+## Ethics controversy and the 2023 code of conduct
+
+Concerns about alleged ethical improprieties among the justices ignited in April 2023, after the nonprofit outlet ProPublica reported that Thomas had gone on trips paid for by Republican megadonor Harlan Crow.[7] Sustained pressure over undisclosed travel and gifts culminated on November 13, 2023, when the [[supreme-court-of-the-united-states|Supreme Court]] announced it would adopt the [[2023-supreme-court-code-of-conduct|2023 Supreme Court Code of Conduct]], a 14-page guidance document setting rules for accepting travel opportunities and reaffirming the justices' commitment to the statute governing financial disclosure.[7]
+
 ## References
 1. Badlands Brief — "SCOTUS: You Can Be Neither Racist Nor Unilaterally Murdery", URL: https://badlands.substack.com/p/badlands-brief-6bf
 2. Badlands Brief — "Bicameral Courts, Congressional Creeps & Curious Cartels", URL: https://badlands.substack.com/p/badlands-brief-fd9
@@ -46,3 +50,4 @@ During oral arguments on April 25, 2024 in the case concerning whether former Pr
 4. Badlands Brief — "Badlands News Brief: Abercreepy Elites Versus Sovereign Alliance Alpha Chads", URL: https://badlands.substack.com/p/badlands-news-brief-27c
 5. Badlands Brief — "Badlands News Brief: Kari Counters, Elites Gather & Data Talks", URL: https://badlands.substack.com/p/badlands-news-brief-862
 6. Badlands Brief — "Badlands News Brief: Netanyahu & Zelenskyy Beg Biden as Exposure Continues", URL: https://badlands.substack.com/p/badlands-news-brief-8ba
+7. Badlands Brief — "Badlands News Brief: China Joe Takes the Stage as Trump's Power Grows", URL: https://badlands.substack.com/p/badlands-news-brief-acf

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, host, founder]
-sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-8fd.md]
+sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a64.md]
 confidence: high
 ---
 
@@ -75,6 +75,18 @@ Reacting to the failure of White House shutdown talks on 29 September 2025, Hero
 
 In the December 5, 2025 Badlands News Brief, Herold commented on the Supreme Court's decision permitting Texas to use its Trump-backed congressional map in the 2026 midterms, telling readers to brace themselves because the midterms are coming, and linking to his Daily Herold episode covering 'Bombergait, Signalgate and other gayts.'[14]
 
+## Cited on Putin's March 2024 remarks
+
+In the Badlands News Brief of March 14, 2024, Burning Bright referenced Herold's extensive research into the Devolution operation while arguing that Vladimir Putin's statement that Russia was technically ready for nuclear war may have been his most Devolution-related public communication to date.[15] Burning Bright wrote that he had long argued one of the key purposes of the Devolution operation Herold researched was its implications for the globalist regime.[15]
+
+## Commentary in the August 8, 2025 brief
+
+Asked where a [[donald-trump|Trump]]–[[vladimir-putin|Putin]] summit might take place after the Kremlin confirmed the meeting, Herold said his money was on Saudi Arabia.[16]
+
+## Commentary, May 2025
+
+Herold covered [[donald-trump|Donald Trump]]'s Riyadh visit on the May 13, 2025 edition of The Daily Herold, summarizing his reaction to the president's remarks on Saudi accession to the [[abraham-accords|Abraham Accords]] with the phrase "Jimmies fully rustled."[17] [[ashe-in-america|Ashe in America]] named Herold, alongside [[burning-bright|Burning Bright]] and [[chris-paul|Chris Paul]], as having gamed out the Saudi-Israel normalization scenario as a theory of a potential future for years beforehand.[17]
+
 ## References
 1. Badlands Media — "Badlands Media Weekly Show Schedule", URL: https://badlands.substack.com/p/badlands-media-weekly-show-schedule-36d
 2. Badlands Brief — "Amplified Antagonism, Phantom Palestinians, & Hitler's Micropenis", URL: https://badlands.substack.com/p/badlands-news-brief-066
@@ -90,3 +102,6 @@ In the December 5, 2025 Badlands News Brief, Herold commented on the Supreme Cou
 12. Badlands Brief — "Brennan Decries Judge Shopping & JD Says It's Okay to Be White!", URL: https://badlands.substack.com/p/badlands-news-brief-795
 13. Badlands Brief — "Badlands News Brief: Shutdowns, Shakedowns, & Two Sexes", URL: https://badlands.substack.com/p/badlands-news-brief-762
 14. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
+15. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
+16. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
+17. Badlands Brief — "Badlands News Brief: Black Hat Nightmares & A Camelback Caravan of Confirmation", URL: https://badlands.substack.com/p/badlands-news-brief-a64

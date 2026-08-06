@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [energy, biden, executive-action, oil-and-gas]
-sources: [raw/badlands-news-brief-25f.md, raw/badlands-news-brief-59b.md]
+sources: [raw/badlands-news-brief-25f.md, raw/badlands-news-brief-59b.md, raw/badlands-news-brief-9cd.md]
 confidence: medium
 ---
 
@@ -26,6 +26,11 @@ Biden acted under Section 12(a) of the 1953 Outer Continental Shelf Lands Act (O
 
 Badlands contributor [[ashe-in-america|Ashe in America]] agreed that the congressional route was preferable but doubted Congress would prove functional despite Republicans controlling both chambers.[2] She suggested the ban could be framed either as punishment for voters rejecting Biden's party or as "our boy" teeing up a legal battle to clarify ambiguity in the law — ambiguity she argued had been intentionally preserved by those who benefit from it, whereas "clarity benefits the people."[2] She predicted that in four years the law would be less of a weapon, the United States would be a net exporter of energy, and road trips would be affordable again.[2]
 
+## Reporting on the decree (January 2025)
+
+In the days before Trump's arrival, Bloomberg reported that [[joe-biden|President Joe Biden]] was preparing to issue a decree permanently banning new offshore oil and gas development in some US coastal waters, locking in difficult-to-revoke protections during his final weeks in the White House.[3] According to people familiar with the effort, the executive order would bar the sale of new drilling rights in portions of the country's outer continental shelf.[3] The move was expected to complicate President-elect [[donald-trump|Donald Trump]]'s ambitions to drive more domestic energy production, because unlike executive actions that can be easily undone, the declaration was rooted in a 72-year-old law giving the White House wide discretion to permanently protect US waters from oil and gas leasing without explicitly empowering presidents to revoke the designations.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: City States, Sabotage, & Soliloquies On Sanctions", URL: https://badlands.substack.com/p/badlands-news-brief-25f
 2. Badlands News Brief — "A Song of Ice and Fire, Fraud, and Foreign Flashpoints", URL: https://badlands.substack.com/p/badlands-news-brief-59b
+3. Badlands Brief — "Badlands News Brief: Energy Elevates Collaboration as the Senate Steals Centerstage", URL: https://badlands.substack.com/p/badlands-news-brief-9cd

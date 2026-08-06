@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [turkey, weapons-smuggling, syria, benghazi]
-sources: [raw/a-dereliction-of-duty.md, raw/assad-day-in-damascus.md, raw/badlands-brief-0bd.md, raw/badlands-brief-625.md, raw/badlands-brief-7bf.md, raw/badlands-brief-774.md, raw/badlands-brief-990.md, raw/badlands-brief-c07.md, raw/badlands-brief-e60.md, raw/badlands-brief-e9e.md, raw/badlands-news-brief-0e0.md]
+sources: [raw/a-dereliction-of-duty.md, raw/assad-day-in-damascus.md, raw/badlands-brief-0bd.md, raw/badlands-brief-625.md, raw/badlands-brief-7bf.md, raw/badlands-brief-774.md, raw/badlands-brief-990.md, raw/badlands-brief-c07.md, raw/badlands-brief-e60.md, raw/badlands-brief-e9e.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-a65.md]
 confidence: medium
 ---
 
@@ -66,6 +66,12 @@ Badlands analysis noted that Turkey has already paid for F-35 aircraft and train
 
 In March 2023 the German newspaper Die Welt published an opinion piece by Clemens Wergin arguing that [[nato|NATO]] should treat Turkey and [[hungary|Hungary]] as partners "with reservation," citing President [[recep-tayyip-erdogan|Recep Tayyip Erdoğan]]'s continued blocking of Sweden's NATO accession and Hungary's linkage of its approval to EU funds.[11] Wergin claimed both nations had cultivated "unseemly" ties to [[russia|Russia]] and suggested NATO should stop sharing certain sensitive data with Ankara and Budapest, describing both as having turned toward authoritarianism and away from the alliance's community of values.[11] Badlands commentator [[burning-bright|Burning Bright]] characterized the article as establishment and globalist media bullying states that were staying neutral as the [[multipolar-world|multipolar world order]] took shape.[11]
 
+## Istanbul talks between US and Russian officials (February 2025)
+
+Russian and U.S. officials met for six hours in Turkey on Thursday, February 27, 2025, in an effort to restore the normal functioning of their embassies.[12] The discussions were held at the U.S. consul general's gated residence in Istanbul and focused on diplomatic matters such as staffing levels, visas, and banking.[12] No public statements followed the meeting.[12] Russian Foreign Ministry spokeswoman [[maria-zakharova|Maria Zakharova]] said the Istanbul discussions were expected to be the first in a series of meetings aimed at easing tensions and resolving long-standing diplomatic disputes.[12]
+
+Badlands commentary argued that, following the Riyadh summit that cast the Saudis and Arabs as peacemakers, the Turkish summit had the potential to bring down [[nato|NATO]] by moving Ankara out of Europe's sphere of influence and into Asia's — a shift consistent with President [[recep-tayyip-erdogan|Recep Tayyip Erdogan]]'s public comments on BRICS, the Shanghai Cooperation Organization, and Russia.[12] The analysis also held that with the IDF moving on Damascus, which the Turks also want, and with Syria described as under Turkish control, Israel could not attack Turkish forces without triggering [[article-5|Article 5]].[12]
+
 ## References
 1. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
 2. Badlands Brief — "Assad Day in Damascus", URL: https://badlands.substack.com/p/assad-day-in-damascus
@@ -78,3 +84,4 @@ In March 2023 the German newspaper Die Welt published an opinion piece by Clemen
 9. Badlands Brief — "Abrahamic Rug Pulls, Frivolous Lawfare, & False Statements Under Oath", URL: https://badlands.substack.com/p/badlands-brief-e60
 10. Badlands Brief — "Earned Deportations, Irish Knife Fights, & the Eventual "Liberation" of Jerusalem", URL: https://badlands.substack.com/p/badlands-brief-e9e
 11. Badlands Media — "Badlands News Brief: Exculpatory Trump Card & China's Moves", URL: https://badlands.substack.com/p/badlands-news-brief-0e0
+12. Badlands Brief — "Badlands News Brief: Rug Pulled Reputations, Insubordination, & the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-a65

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [globalism, great-reset, institutions]
-sources: [raw/a-look-at-recent-features-84d.md, raw/a-time-to-strike.md, raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-144.md, raw/badlands-brief-40d.md, raw/badlands-brief-a20.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-2e4.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-93d.md]
+sources: [raw/a-look-at-recent-features-84d.md, raw/a-time-to-strike.md, raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-144.md, raw/badlands-brief-40d.md, raw/badlands-brief-a20.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-2e4.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-a61.md]
 confidence: low
 ---
 
@@ -145,6 +145,10 @@ The white paper projected that by 2050 people are likely to travel twice as much
 
 Badlands contributor [[ryan-delarme|Ryan DeLarme]] responded sarcastically that everyone must be eager to "own nothing" and eat bugs, and connected the mobility target to the push for [[15-minute-cities|15-minute cities]], in which all necessities are provided within a fifteen-minute distance of one's front door.[24] He argued that whether the vehicle for it is 15-minute cities or vaccine passports, the Davos globalists persistently devise ways to make the future look bleak, and noted that in his experience even committed leftists were not enthusiastic about that vision — something he expected a sufficiently good propaganda campaign to remedy.[24] He closed by saying he was more preoccupied with "eliminating the World Economic Forum by 100% by 2030."[24]
 
+## Peterson consortium as a counter-forum
+
+In late January 2023, Canadian psychologist [[jordan-peterson|Jordan Peterson]] announced an international consortium explicitly conceived as an alternative to the "apocalyptic narrative" he associated with the WEF's Davos meeting, telling [[joe-rogan|Joe Rogan]] that roughly 2,000 people would be invited to a London gathering in late October and early November.[25] [[badlands-media|Badlands Media]] contributor [[justin-deschamps|Justin Deschamps]] treated the announcement as the beginning of a contest for the global-governance space that populists had long ceded to globalist institutions.[25]
+
 ## References
 
 1. Badlands Brief — "A Look At Recent Features", URL: https://badlands.substack.com/p/a-look-at-recent-features-84d
@@ -171,3 +175,4 @@ Badlands contributor [[ryan-delarme|Ryan DeLarme]] responded sarcastically that 
 22. Badlands Brief — "Badlands News Brief: Ongoing Judicial Coups. Newly Jailed Judges.", URL: https://badlands.substack.com/p/badlands-news-brief-8a9
 23. Badlands News Brief — "Deflated Balloons, Sketchy AI & Democrat Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-8f9
 24. Badlands Brief — "Badlands News Brief: Trump Trolls, Soros Slithers & Flags Fly", URL: https://badlands.substack.com/p/badlands-news-brief-93d
+25. Badlands News Brief — "Big Pharma, Big Lies and Big Boomerangs", URL: https://badlands.substack.com/p/badlands-news-brief-a61

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, journalism, tabloid]
-sources: [raw/badlands-news-brief-125.md, raw/badlands-news-brief-670.md]
+sources: [raw/badlands-news-brief-125.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-a31.md]
 confidence: medium
 ---
 
@@ -24,7 +24,12 @@ Badlands' use of the Post reflects its editorial practice of quoting establishme
 
 In September 2023 the New York Post obtained and published a December 18, 2015 [[european-commission|European Commission]] progress report that praised Ukrainian Prosecutor-General [[viktor-shokin|Viktor Shokin]] for anti-corruption work — dated nine days after then-Vice President Joe Biden demanded his ouster.[2] The Post presented the document as contradicting Biden's claim that the European Union had joined his demand that Shokin be removed for corruption, and it followed the paper's earlier August 2023 interview in which Shokin said he believed the Bidens had been bribed.[2]
 
+## Adams re-election editorial (August 2025)
+
+In an August 7, 2025 editorial, the New York Post editorial board urged President [[donald-trump|Donald Trump]] to back Mayor [[eric-adams|Eric Adams]] should he involve himself in that year's mayoral race, arguing that Adams's commitment to public safety and civic pride had earned him a second term in Gracie Mansion.[3] The board praised him for standing up to left-wing legislators in Albany and the City Council and credited his tenure with the lowest number of shootings on record for the first half of 2025, while warning that socialist candidate [[zohran-mamdani|Zohran Mamdani]] would hobble the [[new-york-city-police-department|NYPD]] and reverse those gains.[3]
+
 ## References
 
 1. Badlands News Brief — "Fake Polls Abound as the Sovereign Alliance Makes Moves", URL: https://badlands.substack.com/p/badlands-news-brief-125
 2. Badlands Brief — "Musk the Peacemaker, Constitutional Overreach & POTATUS", URL: https://badlands.substack.com/p/badlands-news-brief-670
+3. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31

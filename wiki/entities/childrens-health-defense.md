@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [health, pharma, vaccines, advocacy, rfk-jr]
-sources: [raw/badlands-news-brief-12b.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-617.md]
+sources: [raw/badlands-news-brief-12b.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-a61.md]
 confidence: medium
 ---
 
@@ -34,8 +34,15 @@ Hooker explained that the girl had actually been recovering from measles: her pe
 
 Robert F. Kennedy Jr., chairman on leave from Children's Health Defense, testified in July 2023 before the House [[house-weaponization-committee|Select Subcommittee on the Weaponization of the Federal Government]] on federal censorship, with the organisation's outlet The Defender reporting on the hearing and on Democratic attempts to remove him as a witness.[3]
 
+## 2023 FOIA lawsuit against the FDA
+
+On January 26, 2023, Children's Health Defense filed suit in federal court in Washington against the [[food-and-drug-administration|U.S. Food and Drug Administration]], alleging that the agency violated federal law by withholding the results of key COVID-19 vaccine safety analyses.[4] The suit sought the raw results of the FDA's analyses of reports submitted to the [[vaccine-adverse-event-reporting-system|Vaccine Adverse Event Reporting System]], the post-vaccination adverse-event reporting system the FDA operates jointly with the [[centers-for-disease-control-and-prevention|Centers for Disease Control and Prevention]].[4]
+
+[[badlands-media|Badlands Media]] contributor [[ryan-delarme|Ryan DeLarme]] argued that regulatory agencies, rather than manufacturers, were the most critical link in the pandemic chain, since the bulk of their funding comes from the companies whose products they approve, and expressed hope that a wave of litigation would reach the regulators as well as the firms.[4]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: The Establishment is Collapsing from Within", URL: https://badlands.substack.com/p/badlands-news-brief-12b
 2. Badlands Brief — "Badlands News Brief: Bengaluru Raids, Bitcoin Bangers, & A Buddhist Execution", URL: https://badlands.substack.com/p/badlands-news-brief-2dc
 3.  Badlands Media — "Badlands News Brief: Biden Crime Cascade, Woke Collapse & Establishment Panic", URL: https://badlands.substack.com/p/badlands-news-brief-617
+4. Badlands News Brief — "Big Pharma, Big Lies and Big Boomerangs", URL: https://badlands.substack.com/p/badlands-news-brief-a61

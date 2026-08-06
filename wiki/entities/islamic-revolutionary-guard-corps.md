@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [iran, military, irgc, middle-east]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-3d4.md, raw/badlands-brief-509.md, raw/badlands-brief-7b5.md, raw/badlands-brief-71c.md, raw/badlands-brief-c7b.md, raw/badlands-brief-fcb.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-73f.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-3d4.md, raw/badlands-brief-509.md, raw/badlands-brief-7b5.md, raw/badlands-brief-71c.md, raw/badlands-brief-c7b.md, raw/badlands-brief-fcb.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-a38.md]
 confidence: medium
 ---
 
@@ -66,6 +66,10 @@ In August 2024 [[google-threat-analysis-group|Google's Threat Analysis Group]] r
 
 In late October 2023, U.S. Air Force F-16s struck a weapons storage facility and an ammunition storage facility in eastern Syria used by the IRGC and its proxies, in retaliation for rocket and drone attacks on American forces in Iraq and Syria.[12] U.S. officials characterized the targeting as an escalation because it hit facilities used by Iran's own forces rather than only the militias Tehran arms, trains, and equips.[12] Defense Secretary [[lloyd-austin|Lloyd J. Austin III]] described the operation as "precision self-defense strikes" against "Iranian-backed militia groups."[12] See [[2023-us-strikes-on-iranian-linked-targets-in-syria]].
 
+## Damascus consulate strike, April 2024
+
+Seven members of the Revolutionary Guards, including two generals, were killed when [[israel|Israel]] destroyed an Iranian consulate building in Damascus on April 1, 2024.[13] Reporting also described the toll as a senior general and six other Iranian officers killed in an airstrike on the Iranian embassy compound.[13] The deaths triggered threats of reprisal from Supreme Leader [[ali-khamenei|Ali Khamenei]] and a period of acute regional escalation in which the United States pledged "ironclad" support for Israel.[13]
+
 ## References
 1. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
 2. Badlands Brief — "Canadian Separatists & Guerilla Campaigns", URL: https://badlands.substack.com/p/badlands-brief-3d4
@@ -79,3 +83,4 @@ In late October 2023, U.S. Air Force F-16s struck a weapons storage facility and
 10. Badlands Brief — "Badlands News Brief: Musical Guard Troops & Immigration Crackdowns", URL: https://badlands.substack.com/p/badlands-news-brief-540
 11. Badlands Brief — "Hacks Explain Hacks to other Hacks", URL: https://badlands.substack.com/p/badlands-news-brief-6aa
 12. Badlands Brief — "Badlands News Brief: Escalation is the Name of the Game", URL: https://badlands.substack.com/p/badlands-news-brief-73f
+13. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38

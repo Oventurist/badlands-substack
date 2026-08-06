@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [yemen, red-sea, iran-proxies, shipping]
-sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-53d.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-810.md]
+sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-53d.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-a89.md, raw/badlands-news-brief-ae1.md]
 confidence: medium
 ---
 
@@ -76,6 +76,17 @@ On Monday, July 7, 2025, at least two crew members of a Greek-owned vessel were 
 By mid-December 2023 Iran-backed Houthi attacks on commercial vessels transiting the Red Sea and Bab al-Mandab Strait had become a daily occurrence, and the group had also launched rockets and drones into southern Israel, triggering US warship intercepts.[11] In response the [[pentagon|Pentagon]] announced [[operation-prosperity-guardian|Operation Prosperity Guardian]], a multinational task force established under the [[combined-maritime-forces|Combined Maritime Forces]] umbrella and its Task Force 153 to protect shipping in the corridor.[11]
 
 
+## Eleven-nation ultimatum (January 2024)
+
+In January 2024 the United States and ten other states warned the Houthis to stop their Red Sea shipping attacks or "bear the consequences," a formulation understood to raise the prospect of military strikes on targets in Yemen.[12] U.S. deputy ambassador Christopher Lu told an emergency [[united-nations-security-council|U.N. Security Council]] meeting that the group had carried out more than 20 attacks since November 19, 2023, and the Houthis announced that same Wednesday morning that they had targeted another container ship.[12] The group has justified the campaign as support for [[hamas|Hamas]] in its war with Israel following the October 7 attacks, claiming to strike only vessels linked to Israel, and has employed missiles, drones, fast boats and helicopters.[12] The episode fed a broader debate over whether President [[joe-biden|Joe Biden]] was being tough enough and whether escalation would disrupt world trade.[12]
+
+## March 2025 U.S. strike campaign on Sanaa
+
+On March 15–16, 2025, President [[donald-trump|Donald Trump]] launched large-scale military strikes against the Iran-aligned Houthis in Yemen's rebel-occupied capital over the group's attacks on Red Sea shipping, killing at least 31 people at the start of a campaign expected to last many days.[13] Trump warned [[iran|Iran]], the group's main backer, that it needed to halt its support immediately, saying that if Iran threatened the United States, "America will hold you fully accountable and, we won't be nice about it!"[13] The commander of the [[islamic-revolutionary-guard-corps|Islamic Revolutionary Guard Corps]], [[hossein-salami|Hossein Salami]], responded that the Houthis were independent and made their own strategic and operational decisions, warning that Iran "will respond decisively and destructively" if the threats were acted upon.[13]
+
+Badlands commentator [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote that the strikes caused consternation among anti-war and anti-Israel factions of MAGA, but noted that the Houthis had attacked U.S. ships on many occasions and that Trump had previously backed Saudi Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]]'s eight-year campaign against the group, including the 2019 transfer of Patriot missile defense systems after Houthi strikes on Saudi oil refineries; the Saudis made peace with the Houthis in 2023.[13] He argued the timing of the campaign — rather than its justification, which had existed since the October 7 attack — suggested Trump was drafting off the momentum of the NeoCon/Zionist faction of the political right to keep it complacent while [[adam-boehler|Adam Boehler]] and [[steve-witkoff|Steve Witkoff]] pursued a deal with [[hamas|Hamas]].[13]
+
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: MAGA Gets Branded as Biden Bungles Everything", URL: https://badlands.substack.com/p/badlands-news-brief-07e
@@ -89,3 +100,5 @@ By mid-December 2023 Iran-backed Houthi attacks on commercial vessels transiting
 9. Badlands Brief — "Badlands News Brief: Ramaswamy Takes Stock and the War Machine Rumbles", URL: https://badlands.substack.com/p/badlands-news-brief-53d
 10. Badlands Brief — "Badlands News Brief: ICE Swarms, TikTok Pivots, & Shoes Stay On", URL: https://badlands.substack.com/p/badlands-news-brief-6af
 11. Badlands Brief — "Badlands News Brief: Trump 2024 Has the Deep State a Little Testy …", URL: https://badlands.substack.com/p/badlands-news-brief-810
+12. Badlands News Brief — "Epstein Fallout Continues as the Biden Admin Implodes", URL: https://badlands.substack.com/p/badlands-news-brief-a89
+13. Badlands News Brief — "Defiant Deportations & Canadian Freeloaders", URL: https://badlands.substack.com/p/badlands-news-brief-ae1

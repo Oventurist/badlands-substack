@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [california, democrats, politics, media]
-sources: [raw/badlands-brief-285.md, raw/badlands-brief-6a1.md, raw/badlands-brief-7bf.md, raw/badlands-brief-884.md, raw/badlands-brief-774.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-50f.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-966.md]
+sources: [raw/badlands-brief-285.md, raw/badlands-brief-6a1.md, raw/badlands-brief-7bf.md, raw/badlands-brief-884.md, raw/badlands-brief-774.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-50f.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-aac.md]
 confidence: medium
 ---
 
@@ -137,6 +137,14 @@ After a federal court blocked the federalization of the Oregon National Guard, N
 
 As California burned in January 2025, Newsom sat for a half-hour podcast interview with former Obama administration official Jon Favreau, drawing sharp criticism from The Federalist, which wrote that "if excuses were good for putting out fires" the governor could have fixed his state in a jiffy.[26] In the interview Newsom characterized every criticism leveled at him as "misinformation," described himself as just as much a victim as anyone who watched their home burn, and maintained that he was helping fix the problem even though it was not his responsibility.[26] When Favreau suggested Newsom was "ultimately responsible as the governor of the state" and that a newly announced investigation into a water shortage looked to some like an effort to pass the blame, Newsom rejected the framing, saying, "I've got that question… And I want to get the answers."[26]
 
+## Ninth Circuit ruling on the California National Guard (2025)
+
+In June 2025, a three-judge panel of the Ninth U.S. Circuit Court of Appeals ruled that President [[donald-trump|Donald Trump]] could keep control of the California National Guard members he had deployed to Los Angeles following anti-ICE protests, dealing a defeat to Newsom, who had filed the initial lawsuit against the deployment.[27] "Affording appropriate deference to the President's determination, we conclude that he likely acted within his authority in federalizing the National Guard," the panel wrote, also finding that Newsom would not have had veto power over the president even if the governor had not been notified of the deployment in advance.[27] The ruling blocked an order by U.S. District Judge [[charles-breyer|Charles Breyer]] that had found the deployment illegal absent a time of "rebellion or danger of a rebellion"; that order had been stayed by the appeals court within hours of being issued.[27]
+
+## Positioning after the 2024 debate
+
+In the days after the June 2024 [[2024-presidential-debate|presidential debate]], Newsom — California governor and a key surrogate for [[joe-biden|Joe Biden]] — defended the president immediately after his poor performance, saying he would "never turn my back" on him.[28] He was nonetheless widely seen as expressing ambiguity by adding that he was ready "to step up," and was counted among several Democratic governors reported to be subtly positioning themselves as potential late substitutes while avoiding the appearance of doing so.[28] Badlands contributor [[ashe-in-america|Ashe in America]] noted the irony that even if Biden stepped aside and the nomination were opened at the August convention, [[kamala-harris|Kamala Harris]] would be the clear front-runner, leaving the ambitious governors out of turn.[28]
+
 ## References
 1. Badlands Brief — "Tuckabee Unites The Arab World As Mexico Courts Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-285
 2. Badlands Brief — "The G7 Laments the G2", URL: https://badlands.substack.com/p/badlands-brief-6a1
@@ -164,3 +172,5 @@ As California burned in January 2025, Newsom sat for a half-hour podcast intervi
 24. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
 25. Badlands Brief — "Posse Comitatus & Haggling with Hamas", URL: https://badlands.substack.com/p/badlands-news-brief-94b
 26. Badlands Brief — "Badlands News Brief: Mockingbird Meltdowns & DOGE-Driven Dreams", URL: https://badlands.substack.com/p/badlands-news-brief-966
+27. Badlands News Brief — "A Constellation of Corruption & A Goldilocks Galaxy", URL: https://badlands.substack.com/p/badlands-news-brief-a40
+28. Badlands Brief — "Badlands News Brief: Wins at Home and Deals Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-aac

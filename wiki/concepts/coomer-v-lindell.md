@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [defamation, litigation, 2020-election, colorado, election-integrity]
-sources: [raw/badlands-news-brief-11d.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-355.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-69d.md, raw/badlands-news-brief-85c.md]
+sources: [raw/badlands-news-brief-11d.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-355.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-69d.md, raw/badlands-news-brief-85c.md, raw/badlands-news-brief-a9a.md]
 confidence: medium
 ---
 
@@ -76,6 +76,16 @@ According to sources in the courtroom, Crane admitted he was invested in the out
 
 [[joe-oltmann|Joe Oltmann]] — whose 2020 statements comprise the central defamation claims in the case — was expected to be called by Coomer the following day, with his attorney entering an appearance in the case on Wednesday evening.[7]
 
+## Lindell's pre-trial posture (June 2025)
+
+Ahead of the trial's start in early June 2025 at the federal courthouse in Denver, [[mike-lindell|Lindell]] told Rolling Stone he intended to take the stand himself: "Of course I'm gonna testify at my own trial! … I have nothing to hide. I am a former crack addict, I've always been open about that … So I have nothing to hide at this trial."[8] The magazine characterised the [[mypillow|MyPillow]] chief executive as one of the loudest promoters of the claim that [[donald-trump|Donald Trump]] won the 2020 election and of theories that voting machines were rigged against him.[8]
+
+## Badlands analysis of the defense case
+
+[[ashe-in-america|Ashe in America]] argued that because truth is an absolute defense against defamation, Lindell should be able to admit evidence that his statements were accurate, and that despite the judge's rulings on motions in limine restricting some of [[eric-coomer|Coomer]]'s writings and habits from evidence, the case was winnable.[8] She noted that the executive in charge of strategy and security at the voting machine company had been openly hostile toward a presidential candidate on social media before administering an election credibly alleged to have been rigged, and pointed to emails surfaced in another case in which Coomer wrote that "our products suck" while describing installation problems and unmitigated vulnerabilities.[8]
+
+She further stressed that the central claim — that Coomer was on an Antifa call — was Lindell repeating [[joe-oltmann|Joe Oltmann]]'s reporting rather than making an original assertion, contending that "this isn't defamation" and that "this case never should have gotten this far."[8] She previewed the trial in the [[why-we-vote|Why We Vote]] program alongside [[canncon|CannCon]] and Neil Johnson, and said she would be in the courtroom posting updates.[8]
+
 ## References
 1. Badlands News Brief — "Fake MAGA Break-ups and Based Accelerationism", URL: https://badlands.substack.com/p/badlands-news-brief-11d
 2. Badlands Brief — "Badlands News Brief: California Crossroads, Selective Insurrection, & Irian Limits", URL: https://badlands.substack.com/p/badlands-news-brief-155
@@ -84,3 +94,4 @@ According to sources in the courtroom, Crane admitted he was invested in the out
 5. Badlands Brief — "Badlands News Brief: Mandatory Deprogramming & Military Parades", URL: https://badlands.substack.com/p/badlands-news-brief-574
 6. Badlands Brief — "Badlands News Brief: Assassinations, Celebrations, & Another World War III", URL: https://badlands.substack.com/p/badlands-news-brief-69d
 7. Badlands Brief — "Sudden Independence & Legitimately Toxic Unity", URL: https://badlands.substack.com/p/badlands-news-brief-85c
+8. Badlands Brief — "Proxy Wars & The Prevention of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a9a

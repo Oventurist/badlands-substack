@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [brazil, censorship, judiciary, free-speech, first-amendment]
-sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-889.md]
+sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-a38.md]
 confidence: medium
 ---
 
@@ -39,7 +39,12 @@ In late August 2024 de Moraes moved against [[x-corp|X]] after the platform refu
 
 In late August 2024 de Moraes moved against [[x-corp|X]] after the platform refused to comply with orders it characterized as illegal demands to censor his political opponents, prompting X to warn on August 29 that its service in [[brazil|Brazil]] might be shut down imminently.[3] X said the judge had threatened its Brazilian legal representative with imprisonment and froze her bank accounts even after she resigned, and that its legal challenges were either dismissed or ignored while his Supreme Court colleagues were "either unwilling or unable to stand up to him."[3] The company announced it would publish all of his demands and the related court filings, and reporting at the time also noted his blocking of Starlink bank accounts as the confrontation with [[elon-musk|Elon Musk]] escalated.[3]
 
+## Standoff with Musk and X, April 2024
+
+In April 2024 Moraes opened an inquiry into [[elon-musk|Elon Musk]] after Musk said he would reactivate [[x-corp|X]] accounts the Brazilian Supreme Court judge had ordered blocked, and warned that failure to comply with the blocking order would bring a fine of 100,000 reais — roughly $19,736 — per day.[4] Musk subsequently said X had received an inquiry from the [[us-house-of-representatives|U.S. House of Representatives]] regarding actions taken in Brazil "that were in violation of Brazilian law," including requests to suspend the accounts of sitting members of the Brazilian parliament and numerous journalists.[4]
+
 ## References
 1. Badlands Brief — "American Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-a1a
 2. Badlands Brief — "Trump Teases Saudi Trillions; Biden Bros Embezzled Billions", URL: https://badlands.substack.com/p/badlands-news-brief-745
 3. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889
+4. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38

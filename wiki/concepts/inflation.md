@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [monetary-system, federal-reserve, ponzi-scheme, economics]
-sources: [raw/a-week-to-remember.md, raw/americas-greatest-threat.md, raw/badlands-news-brief-959.md]
+sources: [raw/a-week-to-remember.md, raw/americas-greatest-threat.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-a04.md]
 confidence: medium
 ---
 
@@ -40,7 +40,13 @@ Bloomberg's Chris Antsey wrote that the print was "obviously... very bad news fo
 
 [[joe-biden|Joe Biden]] issued a statement calling the fight against inflation his "top economic priority" and citing wages rising faster than prices, incomes higher than before the pandemic, and unemployment below four percent for the longest stretch in fifty years.[3] Badlands contributor [[ashe-in-america|Ashe in America]] mocked the framing, observing that anyone managing a household budget could already confirm the metric and that the regime feigns surprise at obvious truths.[3]
 
+## Badlands fact-check (July 2025)
+
+In the [[badlands-news-brief|Badlands News Brief]] of July 29, 2025, contributor [[canncon|CannCon]] fact-checked a Fox News appearance by Mike Nellis, stating flatly that inflation had not been above 3% since President [[donald-trump|Donald Trump]] took office.[4] The item ran alongside reporting that analysts saw a 64% chance of a [[september-2025-federal-reserve-rate-cut|September Federal Reserve rate cut]] on the strength of a weakening labor market and easing tariff-driven inflation.[4]
+
+
 ## References
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
 2. Badlands Brief — "America's Greatest Threat", URL: https://badlands.substack.com/p/americas-greatest-threat
 3. Badlands Brief — "Badlands News Brief — Fearmongering and Capitulation Rule the News Cycle", URL: https://badlands.substack.com/p/badlands-news-brief-959
+4. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04

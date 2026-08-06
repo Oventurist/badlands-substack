@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [venezuela, sanctions, terrorism-designation, maduro, narcotics]
-sources: [raw/badlands-news-brief-02f.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-824.md]
+sources: [raw/badlands-news-brief-02f.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-a31.md]
 confidence: medium
 ---
 
@@ -38,9 +38,14 @@ Following the collapse of the reported Trump–[[nicolas-maduro|Maduro]] phone n
 
 On Monday, November 24, 2025, the U.S. Treasury formally designated the Cartel of the Suns — described as a purported criminal network alleged to operate within [[venezuela|Venezuela]]'s security services — as a foreign terrorist organization, placing it in the same category as Al-Qaeda and Islamic State.[4] In announcing the step, Treasury reiterated long-standing allegations that [[nicolas-maduro|Nicolas Maduro]], whose legitimacy Washington disputes, heads the group.[4] Despite the designation, Axios reported the following day that President [[donald-trump|Donald Trump]] planned to speak directly with Maduro, with an official saying the near-term plan was to "blow up boats shipping drugs" rather than to strike Maduro personally.[4]
 
+## Named in the 2025 Maduro reward announcement
+
+Attorney General [[pam-bondi|Pam Bondi]], announcing a $50 million reward for information leading to the arrest of [[nicolas-maduro|Nicolás Maduro]] on August 7, 2025, named the Cartel of the Suns together with [[tren-de-aragua|Tren de Aragua]] and the [[sinaloa-cartel|Sinaloa Cartel]] as the foreign terrorist organizations Maduro allegedly used to flood the United States with narcotics.[5] She said the [[drug-enforcement-administration|DEA]] had seized thirty tons of cocaine tied to Maduro and his network, nearly seven tons of it directly linked to him.[5]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Lavish Courtships, Extremely Strong Relations, & Fake Election Rituals", URL: https://badlands.substack.com/p/badlands-news-brief-02f
 2. Badlands Brief — "Amplified Antagonism, Phantom Palestinians, & Hitler's Micropenis", URL: https://badlands.substack.com/p/badlands-news-brief-066
 3. Badlands Brief — "Corruption Within Corruption & A Offer of Free Elections", URL: https://badlands.substack.com/p/badlands-news-brief-7e8
 4. Badlands Brief — "Badlands News Brief: Saudi Scoops, Slender Stabbers, & Scorned Scouts", URL: https://badlands.substack.com/p/badlands-news-brief-824
+5. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31

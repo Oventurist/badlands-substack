@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [niger, coup, africa, france, sahel]
-sources: [raw/badlands-news-brief-050.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-5ec.md]
+sources: [raw/badlands-news-brief-050.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-9de.md]
 confidence: medium
 ---
 
@@ -28,8 +28,13 @@ Nearly two weeks after Bazoum was removed from office, [[niger|Niger]] remained 
 
 Even as it wound down its military commitment, France continued to refuse recognition of Niger's military authorities and insisted that Bazoum, toppled in the July 2023 coup, remained the country's only legitimate authority.[4] French President [[emmanuel-macron|Emmanuel Macron]] announced on September 24, 2023 that France would end its military presence in [[niger|Niger]] by year's end, saying Paris was "not there to deal with internal politics and be hostages of putschists."[4]
 
+## Threatened prosecution for high treason
+
+On August 13, 2023, Niger's ruling National Council for the Safeguard of the Homeland (CNSP) announced that it had gathered the evidence necessary to prosecute Bazoum and "his local and foreign accomplices" before national and international authorities for high treason and undermining the internal and external security of Niger.[5] The declaration escalated the junta's brinkmanship with West African neighbours who had vowed to restore constitutional order after the [[2023-niger-coup|July 2023 coup]] in which the presidential guard removed him from office and placed him under house arrest.[5]
+
 ## References
 1. Badlands News Brief — "Lake Lasts, Biden Slumps & Powell Blinks", URL: https://badlands.substack.com/p/badlands-news-brief-050
 2. Badlands Brief — "Badlands News Brief: Trump Indicted ... Again, and Other Stories!", URL: https://badlands.substack.com/p/badlands-news-brief-1cc
 3. Badlands Brief — "Badlands News Brief: Biden Bills, African Coups & Optics", URL: https://badlands.substack.com/p/badlands-news-brief-2d2
 4. Badlands Brief — "It's Raining Red Pills ... And We Like It", URL: https://badlands.substack.com/p/badlands-news-brief-5ec
+5. Badlands Brief — "Badlands News Brief: The Establishment Goes Full RICO Against Trump", URL: https://badlands.substack.com/p/badlands-news-brief-9de

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [niger, coup, ecowas, sahel, france, 2023]
-sources: [raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-5ec.md]
+sources: [raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-9de.md]
 confidence: medium
 ---
 
@@ -42,9 +42,14 @@ Nearly two weeks after the ousting of President [[mohamed-bazoum|Mohamed Bazoum]
 
 On September 24, 2023, French President [[emmanuel-macron|Emmanuel Macron]] announced that France would end its military presence in [[niger|Niger]] by the end of the year, the latest major development amid high tensions since the July junta takeover.[4] Macron said France was ending military cooperation with "the de facto authorities of Niger because they don't want to fight terrorism anymore," and that Paris was "not there to deal with internal politics and be hostages of putschists."[4] France continued to refuse recognition of the military authorities and maintained that ousted President [[mohamed-bazoum|Mohamed Bazoum]] remained the country's only legitimate authority; the withdrawal was to be organized over the following weeks.[4] Badlands contributor [[ashe-in-america|Ashe in America]] read the retreat as the end of French colonialism in the resource-rich country and argued that, while [[ecowas|ECOWAS]] had yet to accept defeat, the conflict was effectively finished and the West had lost.[4]
 
+## High treason case against Bazoum
+
+On Sunday, August 13, 2023, Niger's junta claimed it had gathered the evidence needed to prosecute ousted President [[mohamed-bazoum|Mohamed Bazoum]] for "high treason," raising the stakes in its brinkmanship with West African neighbours who had vowed to restore constitutional order.[6] A statement by the National Council for the Safeguard of the Homeland (CNSP) — the military council that toppled the government in July — said the Nigerien government had gathered the necessary evidence to prosecute the deposed president "and his local and foreign accomplices before the competent national and international authorities for high treason and undermining internal and external security of Niger."[6] Niger had been engulfed in political chaos since late July, when Bazoum was ousted by the presidential guard in a putsch that drew international condemnation and renewed uncertainty across a volatile region beset by coups and militant extremism.[6]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Trump Indicted ... Again, and Other Stories!", URL: https://badlands.substack.com/p/badlands-news-brief-1cc
 2. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... Or So We're Told", URL: https://badlands.substack.com/p/badlands-news-brief-208
 3. Badlands Brief — "Badlands News Brief: Biden Bills, African Coups & Optics", URL: https://badlands.substack.com/p/badlands-news-brief-2d2
 4. Badlands Brief — "It's Raining Red Pills ... And We Like It", URL: https://badlands.substack.com/p/badlands-news-brief-5ec
 5. Badlands Brief — "Federal RICO, Disaster Opportunism & Putin's Peace", URL: https://badlands.substack.com/p/badlands-news-brief-62d
+6. Badlands Brief — "Badlands News Brief: The Establishment Goes Full RICO Against Trump", URL: https://badlands.substack.com/p/badlands-news-brief-9de

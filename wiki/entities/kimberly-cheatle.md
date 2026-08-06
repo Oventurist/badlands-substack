@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [secret-service, 2024, congressional-testimony]
-sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-8ae.md]
+sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-ac3.md]
 confidence: medium
 ---
 
@@ -26,6 +26,15 @@ Cheatle, who rejected calls to resign, told ABC News in a Tuesday interview that
 
 Badlands commentary paired the Secret Service story with [[joe-biden|Joe Biden]]'s COVID-19 diagnosis and cancelled campaign appearance, arguing that both described the same underlying story: an attempt by "the powers that would be" to remove voter choice, part of a pattern of escalation running from the Trump lawfare campaign to the pressure campaign for Biden's withdrawal.[2]
 
+## July 22, 2024 House Oversight hearing
+
+Cheatle's appearance before the House on Monday, July 22, 2024 was described as a complete disaster, with both Republicans and Democrats grilling her over agency failures leading up to the July 13 assassination attempt on [[donald-trump|Donald Trump]].[3] Numerous Republican lawmakers and at least one Democrat demanded that she resign, saying the agency had fallen short of its "zero-fail mission."[3] Both the committee chair and ranking member signed a letter demanding the Director's resignation immediately following the hearing.[3]
+
+In one heated exchange, Rep. [[nancy-mace|Nancy Mace]] (R-SC) pressed Cheatle on whether the Secret Service had provided the committee a complete list of all law enforcement personnel present that day and all audio and video recordings in its possession, as requested on July 15; when Cheatle repeatedly answered that she would "have to get back to you," Mace told her, "That is a no. You're full of shit today. You're just being completely dishonest."[3] Perhaps the most stunning moment of the hearing was Cheatle's admission that the Secret Service has no recordings of radio communications from July 13.[3]
+
+Badlands commentary characterized much of the questioning as campaign theater, noting that several House Democrats attempted to reframe the Secret Service failures as a gun control matter — described as a transparent and bad look for those who made the argument.[3] Rep. [[alexandria-ocasio-cortez|Alexandria Ocasio-Cortez]] was singled out as the strongest performer, on the grounds that she avoided partisan talking points, called out colleagues seeking campaign soundbites, and invoked the shooter's AR-15 only to establish the weapon's range in relation to the security perimeter failure.[3] Contributors concluded that bureaucrats fundamentally misunderstand accountability, and that the hearing served as a "bright mirror" of what could become a dark repeat of the [[warren-commission|Warren Commission]] that followed the assassination of [[john-f-kennedy|John F. Kennedy]].[3]
+
 ## References
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
 2. Badlands Media — "Badlands News Brief: Vance Takes the Stage as Biden Takes the Basement", URL: https://badlands.substack.com/p/badlands-news-brief-8ae
+3. Badlands Brief — "Secrets of the Secret Service ... and Circling Sharks in DC", URL: https://badlands.substack.com/p/badlands-news-brief-ac3

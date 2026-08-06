@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [judiciary, executive-power, litigation, supreme-court]
-sources: [raw/badlands-news-brief-32c.md]
+sources: [raw/badlands-news-brief-32c.md, raw/badlands-news-brief-97e.md]
 confidence: medium
 ---
 
@@ -22,5 +22,10 @@ NBC News reported that what the court said about nationwide injunctions "could h
 
 The nationwide-injunction fight overlapped with the Justice Department's June 2025 suit against all 15 judges of the federal district bench in Maryland, filed in response to a standing order automatically granting temporary injunctions in immigration habeas cases — an action the administration characterized as an "egregious example of judicial overreach."[1]
 
+## May 2025 Supreme Court argument
+
+The [[supreme-court-of-the-united-states|Supreme Court]] heard argument in May 2025 on whether district courts may issue universal injunctions, in a case arising from three lower courts that had blocked [[donald-trump|Donald Trump]]'s executive order on [[birthright-citizenship|birthright citizenship]] nationwide earlier that year.[2] Justice [[elena-kagan|Elena Kagan]] grilled Solicitor General [[d-john-sauer|John Sauer]] on how the high court would manage the resulting flow of lower-court litigation if universal injunctions were abolished, and noted the administration had been "losing uniformly" below.[2] Badlands commentators pointed out that Kagan had taken the opposite position in 2022 under [[joe-biden|Joe Biden]], when she said "it CAN'T be right that one District Judge can stop a nationwide policy in its tracks," and argued that justices who shift on constitutional authority according to political calculus "effectively declare themselves illegitimate."[2]
+
 ## References
 1. Badlands Brief — "Decision Day, Disarming Deals & A Double Deportation", URL: https://badlands.substack.com/p/badlands-news-brief-32c
+2. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e

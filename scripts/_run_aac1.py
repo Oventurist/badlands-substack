@@ -1,0 +1,28 @@
+import sys
+sys.path.insert(0, r'C:/Users/14053/hermes-projects/badlands-substack/scripts')
+from _merge_aac import merge
+
+W = r'C:/Users/14053/hermes-projects/badlands-substack/wiki/'
+
+merge(W + 'entities/eric-trump.md', """## Gulf development projects (2024)
+
+Eric Trump led [[trump-organization|The Trump Organization]]'s team on [[trump-international-oman|Trump International Oman]], the $500 million resort and golf development launched with [[dar-global|Dar Global]] in Aida, Oman, with a projected opening in December 2028.[N] In March 2024 he and Dar Global released renderings of the villas planned for Phase One at a stated cost of $200 million, a figure that had grown to $500 million by the July 2024 launch announcement.[N] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] speculated that Saudi and Emirati partners would keep their dealings with Eric Trump, [[donald-trump-jr|Donald Trump Jr.]], and [[jared-kushner|Jared Kushner]] discreet out of deference to [[donald-trump|Donald Trump]]'s presidential campaign, even as Dar Global announced a second project, [[trump-tower-jeddah|Trump Tower Jeddah]].[N]
+""")
+
+merge(W + 'entities/merrick-garland.md', """## House lawsuit over the Hur interview audio (July 2024)
+
+On Monday, July 1, 2024, House Republicans filed suit against Garland seeking the audio recording of [[joe-biden|Joe Biden]]'s interview with the special counsel in his classified documents case, asking the courts to enforce their subpoena and reject the White House's effort to withhold the materials from Congress.[N] The suit, brought by the [[house-judiciary-committee|House Judiciary Committee]], followed the White House's assertion of executive privilege to block release of the recording; House Republicans had responded by voting to make Garland the third attorney general in U.S. history held in contempt of Congress, but the Justice Department declined to take up the referral, citing its longstanding practice of not prosecuting officials who withhold materials under a presidential privilege claim.[N] According to the filing, Speaker [[mike-johnson|Mike Johnson]] made a "last-ditch effort" to resolve the matter with Garland, who referred the Republicans to the White House; the White House rebuffed the attempt.[N]
+
+In a concurrence to the Supreme Court's presidential-immunity decision issued the same day, Justice [[clarence-thomas|Clarence Thomas]] questioned whether Special Counsel [[jack-smith|Jack Smith]], appointed under Garland's authority, had lawful power to prosecute [[donald-trump|Donald Trump]] — a point Badlands contributor [[ashe-in-america|Ashe in America]] characterized as Thomas "dunking on" both men.[N]
+""")
+
+merge(W + 'concepts/2024-presidential-debate.md', """## Aftermath: governors, family recriminations, and the Old Guard
+
+By July 1, 2024, several Democratic state governors were reported to be quietly positioning themselves as potential late substitutes for [[joe-biden|Joe Biden]] while publicly professing loyalty, watching for slippage in his polling and a loss of donor support over the following two weeks; one governor told Politico that "the temperature is high" among party state leaders.[N] [[gavin-newsom|Gavin Newsom]] defended the president immediately after the debate, saying he would "never turn my back" on him, but was widely read as ambiguous when he said he was ready "to step up."[N] Reporting noted that even in an open convention, [[kamala-harris|Kamala Harris]] would be the clear front-runner — a point Badlands contributor [[ashe-in-america|Ashe in America]] highlighted while observing that Harris typically polled several points behind Biden.[N]
+
+Separately, Politico reported that Biden's family privately trashed his top campaign advisers at a Camp David gathering that weekend and urged him to fire or demote members of his political high command, singling out [[anita-dunn|Anita Dunn]], her husband [[bob-bauer|Bob Bauer]] — who played [[donald-trump|Donald Trump]] in rehearsals — and former chief of staff [[ron-klain|Ron Klain]], who ran point on debate prep.[N] Complaints included insufficient preparation to go on the attack, over-emphasis on defending Biden's record instead of a second-term vision, and the president being overworked and under-rested; campaign spokesperson Kevin Munoz said Biden retained strong confidence in his aides and a senior aide denied frustration was aimed at the three.[N]
+
+[[burning-bright|Burning Bright]] offered a competing reading, noting that despite public panic, [[barack-obama|Barack Obama]] and [[hillary-clinton|Hillary Clinton]] set the narrative for the "Old Guard" by standing pat with Biden even as friendly media outlets turned on him.[N] Drawing on [[devolution]] framing and the research of [[jon-herold|Jon Herold]], and on a discussion with [[just-human|Just Human]] on the program DEFECTED, he argued that the establishment's fear was not that it might have to replace Biden but that it might be unable to.[N] Ashe in America separately relayed [[tucker-carlson|Tucker Carlson]]'s report that a reliable source said Obama was now backing an open convention, which if true would mean Democratic politicians were lying to their voters about their intentions.[N]
+
+The debate's shockwaves reached abroad as well: a Haaretz op-ed argued that Trump's dominant performance and Biden's evident weakness signaled a likely Trump victory that would be bad for [[benjamin-netanyahu|Benjamin Netanyahu]], since Trump "feeds on weakness" and regards the Israeli prime minister — unable to destroy Hamas, mired in Gaza, facing economic deterioration and a probable International Criminal Court arrest warrant — as a loser.[N]
+""")

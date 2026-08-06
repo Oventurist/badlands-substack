@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [prosecutor, new-york, manhattan-district-attorney, crime]
-sources: [raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-907.md, raw/badlands-news-brief-99e.md]
+sources: [raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-907.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-9e8.md]
 confidence: medium
 ---
 
@@ -76,6 +76,12 @@ The indictment drew supportive reactions from Republican figures, with [[ron-des
 
 After a Manhattan jury acquitted [[daniel-penny|Daniel Penny]] of criminally negligent homicide in the chokehold death of [[jordan-neely|Jordan Neely]] on December 9, 2024, Bragg said he respected the verdict.[12] "Their lengthy deliberation — and the totality of the facts and the evidence — underscored why this case was put in front of a jury of Mr. Penny's peers," he said in a statement, noting that the jury had deliberated about an hour on the criminally negligent homicide charge after roughly four days on the manslaughter count that the judge dismissed following a deadlock.[12]
 
+## March 2023 Expected Indictment and Criticism
+
+Ahead of the anticipated March 2023 indictment of [[donald-trump|Donald Trump]], legal scholars suggested Bragg's case rested on questionable legal and ethical ground.[13] Bragg's office had not publicly confirmed reports that it might indict the former president over the allegedly misclassified $130,000 hush payment made to [[stormy-daniels|Stormy Daniels]] in 2016, and had announced no specific charges, though observers expected a charge of falsifying business records under New York Penal Law Section 175.[13]
+
+House Speaker [[kevin-mccarthy|Kevin McCarthy]] publicly attacked Bragg at a press conference during the House Republican retreat on March 19, 2023, saying "it should be equal justice in America" and telling prosecutors to "stop going after people because you have political differences."[13] McCarthy noted that Bragg "brags about lowering felonies to misdemeanors as a prosecutor" while crime in New York left people "afraid to walk the streets," argued that Republican victories in New York races were driven in part by the DA's failure to protect citizens, and asserted that the statute of limitations in the Trump matter had lapsed.[13] Law professor [[jonathan-turley|Jonathan Turley]] separately described the Soros-backed DA's "made-for-TV" prosecution as "legally pathetic."[13]
+
 ## References
 
 1. Badlands Media — "Badlands News Brief: Based Bodegas, Limp Sanctions & Scared Bankers", URL: https://badlands.substack.com/p/badlands-news-brief-0cd
@@ -90,3 +96,4 @@ After a Manhattan jury acquitted [[daniel-penny|Daniel Penny]] of criminally neg
 10. Badlands Brief — "Bank of Epstein, Saudi Arabia & Trump's Reprieve?", URL: https://badlands.substack.com/p/badlands-news-brief-85a
 11. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... Or Are They?", URL: https://badlands.substack.com/p/badlands-news-brief-907
 12. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e
+13. Badlands Brief — "Badlands News Brief: Trump Arrest ... Panic or No Panic?", URL: https://badlands.substack.com/p/badlands-news-brief-9e8

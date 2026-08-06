@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [supreme-court, chief-justice, elections, judiciary]
-sources: [raw/badlands-brief-169.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-757.md]
+sources: [raw/badlands-brief-169.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-a65.md]
 confidence: medium
 ---
 
@@ -49,6 +49,10 @@ On Wednesday, February 26, 2025, Roberts paused an order by U.S. District Judge 
 
 During the December 4, 2024 oral arguments in the challenge to Tennessee's ban on gender-affirming care for minors, Roberts repeatedly suggested — as did Justice [[brett-kavanaugh]] — that the question of such treatments for minors should be left to legislatures rather than resolved by courts.[8] His skepticism toward judicial involvement was read as a particularly worrying sign for the challengers, given that he had sided with federal transgender employees in the 2020 decision finding them covered by the workplace discrimination protections of the Civil Rights Act.[8] See [[united-states-v-skrmetti]].[8]
 
+## Stay of the foreign aid payment order (February 2025)
+
+On February 26, 2025, Chief Justice Roberts paused a federal judge's order that had required President [[donald-trump|Donald Trump]]'s administration to pay foreign aid funds to contractors and grant recipients.[9] The interim order placed on hold an action by U.S. District Judge [[amir-ali|Amir Ali]] imposing an 11:59 p.m. deadline that Wednesday night.[9] Roberts provided no rationale for the administrative stay, which afforded the [[supreme-court-of-the-united-states|Supreme Court]] additional time to consider the administration's more formal request to block Ali's ruling.[9]
+
 ## References
 1. Badlands Brief — "Condemnation, Calibration, & Constitutional Boxes", URL: https://badlands.substack.com/p/badlands-brief-169
 2. Badlands Brief — "Badlands News Brief: World Wealth Whiplash & The Most Secure Memorandum in History", URL: https://badlands.substack.com/p/badlands-news-brief-02a
@@ -58,3 +62,4 @@ During the December 4, 2024 oral arguments in the challenge to Tennessee's ban o
 6. Badlands Brief — "Badlands News Brief: Robot Runners, Prisoner Swaps, & Control of Crimea", URL: https://badlands.substack.com/p/badlands-news-brief-471
 7. Badlands Brief — "Badlands News Brief: Predictable Pandemics & A Thespian's Next Steps", URL: https://badlands.substack.com/p/badlands-news-brief-4a9
 8. Badlands Brief — "Badlands News Brief: Pardon Me ... No, But Seriously. PLEASE Pardon Me.", URL: https://badlands.substack.com/p/badlands-news-brief-757
+9. Badlands Brief — "Badlands News Brief: Rug Pulled Reputations, Insubordination, & the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-a65

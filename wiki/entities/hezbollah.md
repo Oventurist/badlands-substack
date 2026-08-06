@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [lebanon, israel, militant-groups, middle-east]
-sources: [raw/badlands-brief-07c.md, raw/badlands-brief-143.md, raw/badlands-brief-0fb.md, raw/badlands-brief-1ae.md, raw/badlands-brief-2c0.md, raw/badlands-brief-625.md, raw/badlands-brief-6a1.md, raw/badlands-brief-6b4.md, raw/badlands-brief-708.md, raw/badlands-brief-8c2.md, raw/badlands-brief-774.md, raw/badlands-brief-9ac.md, raw/badlands-brief-9ea.md, raw/badlands-brief-bb1.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-67e.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-845.md]
+sources: [raw/badlands-brief-07c.md, raw/badlands-brief-143.md, raw/badlands-brief-0fb.md, raw/badlands-brief-1ae.md, raw/badlands-brief-2c0.md, raw/badlands-brief-625.md, raw/badlands-brief-6a1.md, raw/badlands-brief-6b4.md, raw/badlands-brief-708.md, raw/badlands-brief-8c2.md, raw/badlands-brief-774.md, raw/badlands-brief-9ac.md, raw/badlands-brief-9ea.md, raw/badlands-brief-bb1.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-67e.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-aac.md]
 confidence: low
 ---
 
@@ -209,6 +209,10 @@ On Monday, February 19, 2024, Israel struck for the first time near a major Leba
 
 Israeli Foreign Minister [[israel-katz|Israel Katz]] had recently repeated a warning that Lebanon would "pay a heavy price" if Hezbollah were not removed from near the border, though the Lebanese Army is widely seen as incapable of dislodging the Iran-backed Shia paramilitary group without triggering another civil war.[38] Badlands writer [[burning-bright|Burning Bright]] argued that highly charged narrative deployments lose psychological power the longer they run — even as the underlying escalation intensifies — and that the Israel–Gaza crisis was inflicting narrative damage on the establishment much as Ukraine fatigue had.[38]
 
+## Signaling ahead of a possible Lebanon invasion (2024)
+
+Badlands commentary in July 2024 noted that Hezbollah, described as perhaps Israel's greatest historic foe, was issuing very specific warnings about which targets it would attack if the IDF invaded Lebanon.[39] Contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] cited this telegraphing — alongside Arab states protecting Israel from Iran's missile barrage and keeping it provisioned — as evidence of a choreographed regional restraint he attributed to the [[abraham-accords|Abraham Accords]], remarking that it would be "very bizarre strategy, if you actually intend to fight."[39]
+
 ## References
 
 
@@ -250,3 +254,4 @@ Israeli Foreign Minister [[israel-katz|Israel Katz]] had recently repeated a war
 36. Badlands Brief — "Badlands News Brief: Trump Returns to DC as Globalists Panic", URL: https://badlands.substack.com/p/badlands-news-brief-67e
 37. Badlands Brief — "It’s Our Failed ‘Resistance’ and We Can Cry if We Want To", URL: https://badlands.substack.com/p/badlands-news-brief-656
 38. Badlands Brief — "Badlands News Brief: DemoCrabs in Biden's Bucket", URL: https://badlands.substack.com/p/badlands-news-brief-845
+39. Badlands Brief — "Badlands News Brief: Wins at Home and Deals Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-aac

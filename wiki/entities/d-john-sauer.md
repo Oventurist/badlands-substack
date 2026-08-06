@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [solicitor-general, department-of-justice, litigation, executive-power]
-sources: [raw/badlands-news-brief-02a.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-8dc.md]
+sources: [raw/badlands-news-brief-02a.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-97e.md]
 confidence: medium
 ---
 
@@ -32,9 +32,14 @@ As special assistant attorney general for Louisiana and an attorney for the plai
 
 In May 2025, as Solicitor General, Sauer asked the [[supreme-court-of-the-united-states|Supreme Court]] to end the legal [[temporary-protected-status|temporary protected status]] of more than 300,000 Venezuelan migrants, a step that would make it easier for the [[trump-administration|Trump administration]] to deport them.[5] The request followed Homeland Security Secretary [[kristi-noem|Kristi Noem]]'s earlier announcement that she would not renew the protection, which allows certain migrants to remain in the country legally when they cannot return home because of natural disasters, armed conflicts, or other extraordinary events.[5]
 
+## Birthright citizenship oral argument (May 2025)
+
+As Solicitor General, Sauer argued the Trump administration's case before the [[supreme-court-of-the-united-states|Supreme Court]] in May 2025 on the power of lower courts to issue [[nationwide-injunctions|universal injunctions]], a dispute arising from three national injunctions blocking [[donald-trump|Trump]]'s executive order on [[birthright-citizenship|birthright citizenship]].[6] Justice [[elena-kagan|Elena Kagan]] pressed him on how the high court would manage lower-court challenges without universal injunctions and told him the administration had been "losing uniformly" on the substantive question, remarking, "If I were in your shoes, there's no way I'd approach the court with this case!"[6]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: World Wealth Whiplash & The Most Secure Memorandum in History", URL: https://badlands.substack.com/p/badlands-news-brief-02a
 2. Badlands Brief — "Badlands News Brief: A President's Passing & A Prime Minister's Prostate", URL: https://badlands.substack.com/p/badlands-news-brief-08e
 3. Badlands Brief — "Badlands News Brief: Democracy Shields, Entitled Foreigners, & Epstein's Boomerang", URL: https://badlands.substack.com/p/badlands-news-brief-582
 4.  Badlands Media — "Badlands News Brief: Biden Crime Cascade, Woke Collapse & Establishment Panic", URL: https://badlands.substack.com/p/badlands-news-brief-617
 5. Badlands Brief — "Badlands News Brief: Gazan Seizures & Gay Porn Scandals", URL: https://badlands.substack.com/p/badlands-news-brief-8dc
+6. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e

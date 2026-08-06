@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, wall-street, tariffs, conflict-of-interest]
-sources: [raw/badlands-brief-959.md, raw/badlands-news-brief-030.md]
+sources: [raw/badlands-brief-959.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-9c6.md]
 confidence: medium
 ---
 
@@ -26,6 +26,12 @@ On Monday, September 8, 2025, Cantor Fitzgerald debuted the Cantor Fitzgerald Go
 
 Badlands host [[burning-bright|Burning Bright]] noted that the firm founded and long led by Commerce Secretary [[howard-lutnick|Howard Lutnick]] had launched what he called a "signal-soaked Trojan Horse into the financial world," and asked whether gold-insured Bitcoin could serve as a template for the "Global Economic Reordering" referenced by Treasury Secretary [[scott-bessent|Scott Bessent]], concluding that central banks were "on notice."[2]
 
+## Lutnick's Move to Government (2024)
+
+In November 2024 the firm's chairman and chief executive, [[howard-lutnick|Howard Lutnick]], was named President-elect [[donald-trump|Donald Trump]]'s nominee for commerce secretary.[3] Lutnick had joined Cantor Fitzgerald after graduating from college in the 1980s and rose to lead it.[3] The firm's offices occupied the North Tower of the World Trade Center on September 11, 2001, and hundreds of its employees — among them Lutnick's brother — were killed; Lutnick subsequently rebuilt the staff and established an annual September 11 charity fundraiser.[3]
+
 ## References
+
 1. Badlands Brief — "We Are the Champions of the World", URL: https://badlands.substack.com/p/badlands-brief-959
 2. Badlands Brief — "Rare Earths, Rogue Judges, & Record Downward Revisions", URL: https://badlands.substack.com/p/badlands-news-brief-030
+3. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6

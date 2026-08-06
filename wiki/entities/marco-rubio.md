@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [state-department, diplomacy, trump-administration, middle-east]
-sources: [raw/badlands-brief-07c.md, raw/badlands-brief-0a2.md, raw/badlands-brief-05f.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-245.md, raw/badlands-brief-1ce.md, raw/badlands-brief-095.md, raw/badlands-brief-2c0.md, raw/badlands-brief-1ae.md, raw/badlands-brief-4ec.md, raw/badlands-brief-509.md, raw/badlands-brief-414.md, raw/badlands-brief-52f.md, raw/badlands-brief-5ba.md, raw/badlands-brief-686.md, raw/badlands-brief-6f4.md, raw/badlands-brief-733.md, raw/badlands-brief-740.md, raw/badlands-brief-861.md, raw/badlands-brief-9ea.md, raw/badlands-brief-98d.md, raw/badlands-brief-a9f.md, raw/badlands-brief-bf7.md, raw/badlands-brief-b62.md, raw/badlands-brief-d17.md, raw/badlands-brief-c7b.md, raw/badlands-brief-dc6.md, raw/badlands-brief-e60.md, raw/badlands-brief-e3b.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-1ba.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-22b.md, raw/badlands-news-brief-243.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-951.md]
+sources: [raw/badlands-brief-07c.md, raw/badlands-brief-0a2.md, raw/badlands-brief-05f.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-245.md, raw/badlands-brief-1ce.md, raw/badlands-brief-095.md, raw/badlands-brief-2c0.md, raw/badlands-brief-1ae.md, raw/badlands-brief-4ec.md, raw/badlands-brief-509.md, raw/badlands-brief-414.md, raw/badlands-brief-52f.md, raw/badlands-brief-5ba.md, raw/badlands-brief-686.md, raw/badlands-brief-6f4.md, raw/badlands-brief-733.md, raw/badlands-brief-740.md, raw/badlands-brief-861.md, raw/badlands-brief-9ea.md, raw/badlands-brief-98d.md, raw/badlands-brief-a9f.md, raw/badlands-brief-bf7.md, raw/badlands-brief-b62.md, raw/badlands-brief-d17.md, raw/badlands-brief-c7b.md, raw/badlands-brief-dc6.md, raw/badlands-brief-e60.md, raw/badlands-brief-e3b.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-1ba.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-22b.md, raw/badlands-news-brief-243.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-ae1.md]
 confidence: medium
 ---
 
@@ -270,7 +270,27 @@ Following the [[european-commission|European Commission]]'s 120 million euro ($1
 
 Rubio was also identified as one of the three architects — with [[steve-witkoff|Steve Witkoff]] and [[jared-kushner|Jared Kushner]] — of a 28-point peace plan for [[ukraine|Ukraine]] intended to secure American interests, stabilize relations with [[russia|Russia]] and strike a new balance of power.[53] The plan offered Kiev EU membership without [[nato|NATO]] expansion while conceding eastern territories to Russia, sidelining European leaders who publicly fumed at their loss of influence over asset freezes and peace terms.[53]
 
+## Support for the 2024 TikTok divestment bill
+
+As vice chairman of the Senate Intelligence Committee, Rubio joined Chairman Mark Warner in a statement after the House passed the TikTok divestment bill 352-65-1 on March 13, 2024, saying the pair were "encouraged by today's strong bipartisan vote" and looked forward to working together to move the bill through the Senate and get it signed into law.[54]
+
+## Guyana visit and warning to Venezuela, March 2025
+
+Speaking at a news conference in Georgetown alongside Guyanese President [[irfaan-ali|Irfaan Ali]] in late March 2025, Rubio said there would be "consequences" if [[venezuela|Venezuela]] used forceful actions in asserting claims to resource-rich territories under the control of neighboring [[guyana|Guyana]].[55] He said the US government would steadfastly oppose "the regional threats based on illegitimate territorial claims by a narco-trafficking regime," adding: "There will be consequences for adventurism. There will be consequences for aggressive actions, and that's why our partnership in that regard will be important."[55]
+
+Venezuela has intensified its claims to the [[essequibo-dispute|Essequibo region]], which makes up about two-thirds of Guyana and includes oil-rich offshore waters where [[exxonmobil|ExxonMobil]] leads production.[55] Rubio declined to specify what the Trump administration would be prepared to do against Venezuela, but pointed to the power and size of the US Navy, implying possible military action.[55] Badlands commentary by [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that Rubio was serving the interests of the City of London and that Guyana functions as a proxy state within the British Commonwealth, while [[chris-paul|Chris Paul]] likened the warning to Joe Biden telling Vladimir Putin not to "invade" Ukraine too much.[55]
+
+## Rwanda–DR Congo peace agreement (2025)
+
+As Secretary of State, Rubio joined the foreign ministers of [[rwanda|Rwanda]] and the [[democratic-republic-of-the-congo|Democratic Republic of the Congo]] in Washington on June 27, 2025, to sign a [[rwanda-drc-peace-agreement-2025|peace agreement]] intended to end a decades-long conflict.[56] The deal provides for a 90-day Rwandan troop withdrawal, disarmament and reintegration measures, and a joint security mechanism, and was linked by President [[donald-trump|Donald Trump]] to U.S. rights over Congolese mineral wealth.[56]
+
+## March 2025 Venezuelan deportations
+
+On Sunday, March 16, 2025, Secretary of State Rubio said that "hundreds of violent criminals were sent out of our country" following President [[donald-trump|Donald Trump]]'s invocation of the [[alien-enemies-act|Alien Enemies Act]] the previous day to accelerate removals of alleged [[tren-de-aragua|Tren de Aragua]] members, a step taken in the face of a federal court order temporarily blocking the law's use.[57]
+
+
 ## References
+
 1. Badlands Brief — "Supreme Conflicts, Criminal Probes, & A Ceasefire", URL: https://badlands.substack.com/p/badlands-brief-07c
 2. Badlands Brief — "A Virtual Smash & Grab & Another Impeachment Hoax", URL: https://badlands.substack.com/p/badlands-brief-0a2
 3. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
@@ -324,3 +344,7 @@ Rubio was also identified as one of the three architects — with [[steve-witkof
 51. Badlands Brief — "Badlands News Brief: Ongoing Judicial Coups. Newly Jailed Judges.", URL: https://badlands.substack.com/p/badlands-news-brief-8a9
 52. Badlands Brief — "Badlands News Brief: Vigils, Vanguards, & Various Investigations", URL: https://badlands.substack.com/p/badlands-news-brief-8cd
 53. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951
+54. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
+55. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72
+56. Badlands News Brief — "Shadow Feds, Activist Courts, & Lasting Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a69
+57. Badlands News Brief — "Defiant Deportations & Canadian Freeloaders", URL: https://badlands.substack.com/p/badlands-news-brief-ae1

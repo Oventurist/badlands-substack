@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, wagner-group, mercenaries, prigozhin, plane-crash]
-sources: [raw/badlands-news-brief-050.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-2e7.md]
+sources: [raw/badlands-news-brief-050.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-ac7.md]
 confidence: medium
 ---
 
@@ -34,7 +34,14 @@ Late on Saturday, May 13, 2023, Prigozhin issued an audio statement clarifying t
 
 Prigozhin had described the regular Russian forces as "fleeing" — a characterization denied by the Kremlin — even though the defence ministry had itself acknowledged a limited pullback in northern sectors of the city the day before.[3] Russian state agency TASS separately quoted Akhmat commando commander Apty Alaudinov saying that Ukrainian activity had increased "only in some sectors" and that the situation in his sector was "completely under control," a framing at odds with claims of a broad Ukrainian surge.[3] [[burning-bright|Burning Bright]] described the affair as the "soft mutiny" of Prigozhin's mercenary group and cautioned that Western coverage of it was unreliable.[3]
 
+## June 2023 revolt and Belarus deal
+
+On June 23–24, 2023, Prigozhin launched an armed action against the Russian defense establishment, taking over a military command headquarters and sending a tank column toward Moscow before turning his fighters around less than twenty-four hours later.[4] Under the resulting deal announced by Kremlin spokesman [[dmitry-peskov|Dmitry Peskov]], Prigozhin agreed to leave Russia for Belarus and criminal charges against him were dropped, while his fighters were spared prosecution and those who had refused to join the [[wagner-group-mutiny|mutiny]] were permitted to sign contracts with the [[russian-ministry-of-defense|Russian Defense Ministry]].[4] [[zerohedge|ZeroHedge]] questioned whether the arrangement amounted to "exile" at all, given that Kremlin statements pointedly avoided the punitive term.[4]
+
+The [[washington-post|Washington Post]] reported that US intelligence agencies had detected in mid-June that Prigozhin — who had long accused the Russian defense establishment of bungling the war in Ukraine — was planning armed action, and urgently briefed the [[white-house|White House]] and other agencies so they would not be caught off guard.[4] Badlands contributors read the entire affair as probable military deception rather than a genuine coup, noting Prigozhin's earlier feigned collapse at Bakhmut.[4]
+
 ## References
 1. Badlands News Brief — "Lake Lasts, Biden Slumps & Powell Blinks", URL: https://badlands.substack.com/p/badlands-news-brief-050
 2. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... Or So We're Told", URL: https://badlands.substack.com/p/badlands-news-brief-208
 3. Badlands Brief — "Russia's Retreat, Dominion's Domain & Street 'Justice'", URL: https://badlands.substack.com/p/badlands-news-brief-2e7
+4. Badlands Brief — "Whose Coup Is It Anyway? ... And Other Questions", URL: https://badlands.substack.com/p/badlands-news-brief-ac7

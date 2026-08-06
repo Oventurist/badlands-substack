@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [geopolitics, fifth-generation-warfare, badlands-media]
-sources: [raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-3.md, raw/badlands-blitz-episode-7.md, raw/badlands-brief-174.md, raw/badlands-brief-2b2.md, raw/badlands-brief-414.md, raw/badlands-brief-311.md, raw/badlands-brief-314.md, raw/badlands-brief-5a2.md, raw/badlands-brief-618.md, raw/badlands-brief-625.md, raw/badlands-brief-739.md, raw/badlands-brief-95a.md, raw/badlands-brief-98d.md, raw/badlands-brief-990.md, raw/badlands-brief-9f2.md, raw/badlands-brief-9ea.md, raw/badlands-brief-774.md, raw/badlands-brief-ac2.md, raw/badlands-brief-a20.md, raw/badlands-brief-bce.md, raw/badlands-brief-bb1.md, raw/badlands-brief-ea5.md, raw/badlands-brief-f62.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-528.md, raw/badlands-news-brief-5b2.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-907.md, raw/badlands-news-brief-942.md]
+sources: [raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-3.md, raw/badlands-blitz-episode-7.md, raw/badlands-brief-174.md, raw/badlands-brief-2b2.md, raw/badlands-brief-414.md, raw/badlands-brief-311.md, raw/badlands-brief-314.md, raw/badlands-brief-5a2.md, raw/badlands-brief-618.md, raw/badlands-brief-625.md, raw/badlands-brief-739.md, raw/badlands-brief-95a.md, raw/badlands-brief-98d.md, raw/badlands-brief-990.md, raw/badlands-brief-9f2.md, raw/badlands-brief-9ea.md, raw/badlands-brief-774.md, raw/badlands-brief-ac2.md, raw/badlands-brief-a20.md, raw/badlands-brief-bce.md, raw/badlands-brief-bb1.md, raw/badlands-brief-ea5.md, raw/badlands-brief-f62.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-528.md, raw/badlands-news-brief-5b2.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-907.md, raw/badlands-news-brief-942.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a64.md]
 confidence: medium
 ---
 
@@ -245,6 +245,16 @@ He further noted [[brics|BRICS]] announcements of Russian [[de-dollarization|de-
 
 The same brief treated [[viktor-orban|Viktor Orbán]]'s Moscow visit — where Putin greeted him as "president of the Council of the European Union" over Brussels's objections — as his formal induction into what the writer called the JACOB Accords, placing him alongside Kim Jong Un in the Alliance's ranks after a series of surprise visits to Ukraine, Russia, China and the United States.[40]
 
+## Putin's Riyadh visit as evidence (December 2023)
+
+Badlands contributor [[burning-bright|Burning Bright]] pointed to [[vladimir-putin|Vladimir Putin]]'s warm December 2023 reception in Riyadh by [[mohammed-bin-salman|Mohammed bin Salman]] — occurring as Washington failed to secure Ukraine funding — as a sign that Russia was positioning itself at the head of an emerging multi-polar order alongside the "surging Saudis," whose "cooperative independence (also known as sovereignty)" was gaining ground.[41] "The Sovereign Alliance was always real, and was always going to win," he wrote. "The rest is a matter of timing."[41]
+
+## Riyadh as a Coming Out Party (May 2025)
+
+[[burning-bright|Burning Bright]] described [[donald-trump|Donald Trump]]'s May 2025 visit to Saudi Arabia as "the coming out party of the Sovereign Alliance," or at least the start of it, pointing to Trump's remark that "sometimes, you need enemies to do the job, and do it right. Some of the closest friends of the United States of America are nations we fought wars against in generations past. And now they're our friends and our allies."[42] He recalled an earlier feature laying out four pillars of the alliance, casting [[donald-trump|Donald Trump]] as the Main Tank, [[vladimir-putin|Vladimir Putin]] as the Warrior, [[xi-jinping|Xi Jinping]] as the Control Wizard and [[mohammed-bin-salman|Mohammed bin Salman]] as the Cleric, and argued that the multipolar world was already in good hands with "the winning cascade ... only just beginning."[42]
+
+Framing the visit in terms of the War of Stories, in which "the Optics ARE the Actuals," Burning Bright noted that Trump "doesn't roll up to the club, and he doesn't roll up to the World Economic Forum. He rolls up to the Kingdom, where he's greeted as one of their own" — and does so "with a royal retinue of oligarchs he brought to heel."[42] [[ashe-in-america|Ashe in America]] wrote that "the Sovereign Alliance is having a good week ... and we received a camelback caravan of confirmation," while [[gmoney|GMONEY]] declared that "the [[petrodollar|Petrodollar]] is TOAST!"[42] See [[2025-trump-middle-east-tour|2025 Trump Middle East tour]].
+
 ## References
 1. Badlands Brief — "Badlands Blitz Episode 11: Iran, NATO and the Invisible Enemy", URL: https://badlands.substack.com/p/badlands-blitz-episode-11
 2. Badlands Brief — "Badlands Blitz Episode 3: Donald Trump's Global Victory Tour", URL: https://badlands.substack.com/p/badlands-blitz-episode-3
@@ -287,3 +297,5 @@ The same brief treated [[viktor-orban|Viktor Orbán]]'s Moscow visit — where P
 38. Badlands Brief — "Damascus Has Fallen ... Cui Bono?", URL: https://badlands.substack.com/p/badlands-news-brief-7a5
 39. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... Or Are They?", URL: https://badlands.substack.com/p/badlands-news-brief-907
 40. Badlands Brief — "Kamala on the Media Block as Putin Makes Moves", URL: https://badlands.substack.com/p/badlands-news-brief-942
+41. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
+42. Badlands Brief — "Badlands News Brief: Black Hat Nightmares & A Camelback Caravan of Confirmation", URL: https://badlands.substack.com/p/badlands-news-brief-a64

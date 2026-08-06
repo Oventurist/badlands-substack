@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [journalism, undercover-video, election-integrity, media]
-sources: [raw/badlands-brief-6b4.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-4a6.md, raw/badlands-news-brief-6e3.md]
+sources: [raw/badlands-brief-6b4.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-4a6.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-a61.md]
 confidence: medium
 ---
 
@@ -46,9 +46,14 @@ In late March 2023 O'Keefe suggested publicly that he had insiders within Manhat
 
 [[badlands-media|Badlands Media]] contributor [[ryan-delarme|Ryan DeLarme]] wrote in the March 28, 2023 [[badlands-news-brief|Badlands News Brief]] that O'Keefe had not missed a beat since being "railroaded out of his own company," and that being hated by powerful people across the country is what a good American journalist should look like.[5] DeLarme found it unusual for O'Keefe to appear to show his hand and potentially expose sources in advance, offering two readings: a bluff designed to sow mistrust within Bragg's camp, or — in his view more likely — an indication that the operation was complete and had reached the preparation-of-information stage of the [[project-veritas|Veritas]] process.[5]
 
+## Pfizer confrontation (January 2023)
+
+O'Keefe personally conducted the on-camera confrontation that followed [[project-veritas|Project Veritas]]'s undercover recording of [[jordan-trishton-walker|Jordan Trishton Walker]], the man identified as a [[pfizer|Pfizer]] executive describing a "[[directed-evolution|directed evolution]]" plan for COVID-19.[6] Confronted, Walker recanted, described himself as a "liar … trying to impress a person on a date," invoked race in calling for police involvement, and physically attacked O'Keefe and his film crew.[6] The resulting footage drew congressional attention while being subjected to intermittent platform throttling and a partial press blackout, with the [[daily-mail|Daily Mail]] removing its article on the sting.[6]
+
 ## References
 1. Badlands Brief — "Deliberate Discombobulation Driving Transformational Change", URL: https://badlands.substack.com/p/badlands-brief-6b4
 2. Badlands Brief — "Badlands News Brief: MAGA Gets Branded as Biden Bungles Everything", URL: https://badlands.substack.com/p/badlands-news-brief-07e
 3. Badlands News Brief — "Dueling Presidents, Establishment Secrets & Info Wars", URL: https://badlands.substack.com/p/badlands-news-brief-12a
 4. Badlands Brief — "Badlands News Brief: Biden Does Ukraine, Vax Data & Veritas Shakeup", URL: https://badlands.substack.com/p/badlands-news-brief-4a6
 5. Badlands Media — "Badlands News Brief: PsyActs, Leakers & Color Revolutions", URL: https://badlands.substack.com/p/badlands-news-brief-6e3
+6. Badlands News Brief — "Big Pharma, Big Lies and Big Boomerangs", URL: https://badlands.substack.com/p/badlands-news-brief-a61

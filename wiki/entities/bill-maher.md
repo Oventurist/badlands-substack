@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, democrats, dsa, 2028-election]
-sources: [raw/badlands-brief-a84.md, raw/badlands-brief-ac2.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-83b.md]
+sources: [raw/badlands-brief-a84.md, raw/badlands-brief-ac2.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-a57.md]
 confidence: medium
 ---
 
@@ -58,6 +58,12 @@ Maher was unimpressed by the testimony of adult film actress [[stormy-daniels|St
 
 Badlands writer [[burning-bright|Burning Bright]] treated the remarks as significant, describing Maher as a "canary in the coal mine" among the "Culture Critics" subset of what he termed Mind-Movers in the Information War.[7] He argued that the truth community too often dismisses late-night figures as insufficiently "legitimate" to warrant scrutiny, and that Maher and his peers are arguably more influential over mainstream audiences than cable news hosts precisely because viewers' political filters are lowered by his softer, entertainment-framed rhetoric.[7] When such critics drift toward common-sense positions, Burning Bright wrote, it should be read not as enlightenment but as "a final attempt to re-brand ahead of the backlash he sees coming."[7]
 
+## "Quiet on Set" commentary (April 2024)
+
+On an April 2024 episode of "Real Time" on HBO, Maher devoted a "New Rule" segment titled "Kid 'n Prey" to the documentary [[quiet-on-set|"Quiet on Set: The Dark Side of Kids TV"]], which examined the exploitation of children in Nickelodeon programming.[8] He said "Nickelodeon — it wasn't a studio, it was Neverland Ranch with craft services," describing the film as clip after clip of child stars "subjected to obviously inappropriate, highly sexualized degradation," and also called out Disney.[8] Maher, who has no children, framed the issue as "every adult's job to protect them" before pivoting to skepticism of modern progressive gender politics and children's exposure to nontraditional gender identities.[8]
+
+Badlands writer Burning Bright argued that Maher, as Hollywood establishment, belonged to a class of "protectors desperately attempting to rebrand themselves as exposers," and that his public about-face had been "carefully crafted, timed, and planned" ahead of the 2024 election cycle.[8]
+
 ## References
 
 1. Badlands Brief — "You're Silly, and You Smell Like Syrup", URL: https://badlands.substack.com/p/badlands-brief-a84
@@ -67,3 +73,4 @@ Badlands writer [[burning-bright|Burning Bright]] treated the remarks as signifi
 5. Badlands Brief — "Badlands News Brief: Iranian Crashes, Israeli Maneuvers & Trumpian Rhetoric", URL: https://badlands.substack.com/p/badlands-news-brief-09d
 6. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
 7. Badlands Brief — "Badlands News Brief: Biden Baits Israel as Solar Storms Bring the Weird", URL: https://badlands.substack.com/p/badlands-news-brief-83b
+8. Badlands Brief — "Badlands News Brief: The Uniparty Celebrates as Warmongers Grow Desperate", URL: https://badlands.substack.com/p/badlands-news-brief-a57

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [nord-stream, sabotage, russia, china, energy, geopolitics]
-sources: [raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-420.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-754.md, raw/badlands-news-brief-8f4.md]
+sources: [raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-420.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-754.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-ac8.md]
 confidence: medium
 ---
 
@@ -90,6 +90,14 @@ A parallel German investigation by [[zeit-online|Zeit Online]] with the ARD-Haup
 
 Badlands contributor [[just-human|Just Human]] called the shift in the New York Times framing — from "Russia and Putin did it" to intelligence officials suggesting Ukrainians — remarkable, and noted the paper's mention of [[seymour-hersh|Seymour Hersh]]'s Substack account.[11] He highlighted several details in the reporting: that no Americans or Britons were involved, that state-actor involvement was unconfirmed, that the explosives were planted without help from a military or agency though the perpetrators may have "received specialized government training in the past," that Ukrainian involvement "could upset the delicate relationship between Ukraine and Germany," and that Western officials had "limited visibility into Ukrainian decision-making."[11] He argued that overlaying the Hersh story, the New York Times piece, the Zeit Online investigation and open-source intelligence would form a "constellation of facts, information and possibilities" pointing closer to the truth.[11]
 
+## Russian claims of US and UK involvement (October 2024)
+
+In October 2024, Russian Foreign Ministry spokeswoman [[maria-zakharova|Maria Zakharova]] said Russia possessed proof of United States and United Kingdom involvement in the sabotage of the Nord Stream gas pipelines, and that publication of the evidence would depend on how the situation around the investigation developed.[12] She was answering a question about data obtained by the Russian Foreign Intelligence Service (SVR), and said that whether Moscow published it "will also tell you what kind of evidence it is."[12] Zakharova stated that Russia had repeatedly offered cooperation both publicly and through legal channels between law enforcement agencies, supporting those requests politically and publicly, and had received "zero response."[12] She argued that while the posture of Denmark and Sweden had long been clear, Germany in particular ought to be interested in exchanging materials, and that Russia had not merely been ready for such exchange but had insisted on it.[12] Moscow had also offered to present everything it had within an investigation held under United Nations auspices, an initiative she said the West blocked; consequently Russia was conducting its own national investigation, with an evidence base referenced by officials including SVR Director Sergey Naryshkin, and would manage disclosure according to expediency and circumstances.[12]
+
+## Badlands commentary (October 2024)
+
+[[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] linked the Kremlin's Nord Stream claim to reports the previous day alleging US and UK backing of efforts by neo-Nazi terrorists in Ukraine to blow up infrastructure at the Kursk nuclear power plant, asking readers whether they were "starting to see a pattern."[12] His conclusion was that the [[state-department|State Department]] is "the largest and most sophisticated terrorist organization in the world," and that the world despises the US government at least as much as Americans do because it has habitually destroyed foreign neighborhoods, enslaved children and overthrown governments.[12]
+
 ## References
 1. Badlands Media — "Badlands News Brief: Exculpatory Trump Card & China's Moves", URL: https://badlands.substack.com/p/badlands-news-brief-0e0
 2. Badlands Brief — "Badlands News Brief: Narrative Shielding & Biden Bait", URL: https://badlands.substack.com/p/badlands-news-brief-204
@@ -102,3 +110,4 @@ Badlands contributor [[just-human|Just Human]] called the shift in the New York 
 9. Badlands Brief — "Badlands News Brief: Ukraine Bursts, Tucker Returns & Trump Promises", URL: https://badlands.substack.com/p/badlands-news-brief-72e
 10. Badlands Brief — "Badlands News Brief: PsyOps and PsyActs EVERYWHERE ...", URL: https://badlands.substack.com/p/badlands-news-brief-754
 11. Badlands Brief — "Badlands News Brief: January 6 and Nord Stream Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-8f4
+12. Badlands Brief — "Storms both Real and Political Converge in October", URL: https://badlands.substack.com/p/badlands-news-brief-ac8

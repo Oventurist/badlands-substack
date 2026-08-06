@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, diplomacy, iran]
-sources: [raw/badlands-brief-095.md, raw/badlands-brief-559.md, raw/badlands-brief-625.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-951.md]
+sources: [raw/badlands-brief-095.md, raw/badlands-brief-559.md, raw/badlands-brief-625.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-a40.md]
 confidence: low
 ---
 
@@ -54,6 +54,10 @@ In December 2025, the Israeli cabinet allocated 2.35 billion shekels (almost $72
 
 Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] connected the spending to hasbara — Hebrew for "explanation" — and to the prevalence of Israeli-developed software in American health care, national security and transportation infrastructure, citing Erez Maggor's 2021 American Affairs article on how Israeli industrial policy uses public grant conditions to restrict firms' ability to transfer intellectual property and production outside the country's borders.[9]
 
+## Response to Erdogan (June 2025)
+
+After Turkish President [[recep-tayyip-erdogan|Recep Tayyip Erdogan]] told his AK Party in Parliament in June 2025 that [[benjamin-netanyahu|Benjamin Netanyahu]] had "long surpassed the tyrant Hitler in the crime of genocide," Sa'ar responded on X: "The sultan, in his own eyes, in yet another inflammatory speech, continues to incite against Israel and against the Israeli prime minister."[10] Erdogan's remarks had condemned both Israel's conduct in Gaza and its ongoing attacks on [[iran|Iran]], and asserted that Iran had the legal right to respond.[10]
+
 ## References
 1. Badlands Brief — "Moves and Countermoves", URL: https://badlands.substack.com/p/badlands-brief-095
 2. Badlands Brief — "Narrative Warfare For Your Safety", URL: https://badlands.substack.com/p/badlands-brief-559
@@ -64,3 +68,4 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] conne
 7. Badlands Brief — "Badlands News Brief: Trump Tours, Bannon Breaks Out & Israel Hesitates", URL: https://badlands.substack.com/p/badlands-news-brief-914
 8. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
 9. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951
+10. Badlands News Brief — "A Constellation of Corruption & A Goldilocks Galaxy", URL: https://badlands.substack.com/p/badlands-news-brief-a40

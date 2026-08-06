@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, intelligence-oversight, brennan, doj]
-sources: [raw/badlands-brief-143.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-553.md]
+sources: [raw/badlands-brief-143.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-a61.md]
 confidence: medium
 ---
 
@@ -38,9 +38,14 @@ On Tuesday, June 20, 2023, the House Intelligence Committee was scheduled to hol
 
 On Wednesday, February 14, 2024, committee chairman [[mike-turner|Mike Turner]] issued a cryptic public warning of a "serious national security threat," saying all members of Congress had already been briefed on the underlying information and calling on President [[joe-biden|Joe Biden]] to declassify it so that Congress, the administration and allies could openly discuss a response.[4] Capitol Hill sources told ABC News the matter concerned the alleged [[russian-space-nuclear-weapon-program|Russian space nuclear weapon program]], and unnamed Democratic and CNN sources described it as "destabilizing."[4] The episode placed the committee at the center of a fight over the Senate's $95 billion national security supplemental, which Speaker [[mike-johnson|Mike Johnson]] was refusing to bring to a vote.[4]
 
+## Supply chain oversight (2023)
+
+In January 2023, newly seated committee member [[austin-scott|Austin Scott]], a Georgia Republican, said he expected and hoped the panel would investigate how U.S. adversaries have embedded themselves in the supply chains of basic necessities for Americans, singling out food and technology.[5] The proposal reflected a broader turn in the committee's Republican-led agenda toward economic encroachment by unfriendly foreign powers rather than conventional espionage alone.[5]
+
 ## References
 
 1. Badlands Brief — "All the Classic Earmarks of Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-143
 2. Badlands Brief — "Badlands News Brief: Pence Docs, Ukraine Corruption & Body Doubles", URL: https://badlands.substack.com/p/badlands-news-brief-1cd
 3. Badlands Brief — "Badlands News Brief: Trump's Support, Durham's Return & Xi's Threats", URL: https://badlands.substack.com/p/badlands-news-brief-1d7
 4. Badlands Brief — "Badlands News Brief: Russian Space Nukes & Uniparty Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-553
+5. Badlands News Brief — "Big Pharma, Big Lies and Big Boomerangs", URL: https://badlands.substack.com/p/badlands-news-brief-a61

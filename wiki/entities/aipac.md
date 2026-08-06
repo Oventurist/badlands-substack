@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [lobbying, israel, congress, foreign-influence]
-sources: [raw/badlands-news-brief-22b.md, raw/badlands-news-brief-384.md, raw/badlands-news-brief-951.md]
+sources: [raw/badlands-news-brief-22b.md, raw/badlands-news-brief-384.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-a40.md]
 confidence: medium
 ---
 
@@ -32,7 +32,14 @@ Badlands commentary describes AIPAC as the head of a foreign lobby that ultimate
 
 In December 2025, AIPAC released a new commercial that circulated widely online, appearing alongside [[israel|Israel]]'s announcement of a 2.35 billion shekel (roughly $729 million) public diplomacy budget and a new Public Diplomacy Division under Foreign Minister [[gideon-saar|Gideon Sa'ar]].[3] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] said his takeaway from the video was the pervasiveness of Israeli software in American health care systems, national security and transportation infrastructure, and connected it to Israeli export-control and intellectual-property restrictions that give the state leverage over technology developed with public funding.[3] He raised the question of who in the American zeitgeist receives money from the Israeli government to promote its messaging.[3]
 
+## Cruz–Carlson foreign influence dispute (2025)
+
+In a tense interview released in June 2025, Senator [[ted-cruz|Ted Cruz]] forcefully defended AIPAC's role in domestic politics, arguing to [[tucker-carlson|Tucker Carlson]] that the group does not operate as a "foreign agent" on behalf of Israel.[4] Carlson pressed Cruz on his hawkish stance toward [[iran|Iran]], grilling him on basic facts such as Iran's population and ethnic breakdown and implying that Cruz lacked foundational knowledge despite advocating maximum pressure on Tehran; the debate then shifted to US–Israel relations, with Carlson questioning whether Israel's alleged spying and military actions had US backing.[4] Coverage framed the exchange as underscoring growing fissures within the MAGA movement between isolationists aligned with Carlson and figures such as Cruz who favor a more robust military posture amid the intensifying Israel–Iran conflict.[4]
+
+Badlands writer [[ashe-in-america|Ashe in America]] responded that the real test of whether AIPAC constitutes foreign lobbying is the value exchange — donations traded for foreign policy determinations benefiting a foreign nation — and argued that the long-standing conservative line, that American and Israeli interests are simply inseparable, amounts to storytelling that carves out an unlawful but unquestioned lobbying exemption for a single foreign nation.[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Tsunamis, Bombshells, & Signed Declarations", URL: https://badlands.substack.com/p/badlands-news-brief-22b
 2. Badlands Brief — "Badlands News Brief: Debates Set, Funding Found & NGO's Defied", URL: https://badlands.substack.com/p/badlands-news-brief-384
 3. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951
+4. Badlands News Brief — "A Constellation of Corruption & A Goldilocks Galaxy", URL: https://badlands.substack.com/p/badlands-news-brief-a40

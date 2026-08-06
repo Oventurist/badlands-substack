@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [podcasting, media, 2024-election, alternative-media]
-sources: [raw/badlands-news-brief-27c.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-50a.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-914.md]
+sources: [raw/badlands-news-brief-27c.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-50a.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a71.md]
 confidence: medium
 ---
 
@@ -44,6 +44,19 @@ In October 2024, [[donald-trump|Donald Trump]] hinted during an appearance on th
 
 In the closing days of the 2024 campaign, Rogan hosted both figures on the Republican ticket at his podcast studio in Austin, Texas.[6] [[donald-trump|Donald Trump]] recorded a three-hour appearance that spanned the war in Ukraine, his health and whether there is life on Mars, and that also provided a venue for his claims of a "stolen" 2020 election.[6] Days later, a spokesperson confirmed that Senator [[jd-vance|JD Vance]] would record an interview with Rogan on Wednesday, October 30 — his first appearance on the show, though he had by then appeared on dozens of podcasts since joining the ticket, including recent sessions with Theo Von and Tim Dillon.[6] CNN first reported the scheduled Vance appearance.[6]
 
+## Epstein criticism of the Trump administration (July 2025)
+
+In late July 2025 Rogan said that the [[trump-administration|Trump administration]]'s refusal to release more information about [[jeffrey-epstein|Jeffrey Epstein]] was a "line in the sand."[7] Epstein's name was mentioned more than 40 times on the most recent episode of *The Joe Rogan Experience*, which consistently ranks as the most popular podcast in the United States.[7] CNN framed the episode as another instance of Rogan — who had endorsed [[donald-trump|Donald Trump]] on the eve of the previous fall's election — heaping criticism on his administration friends, and as an indication that the [[epstein-narrative|Epstein controversy]] was not fading, with the outrage coming largely from within Trump's normally steadfast circle of conspiracy-minded media boosters.[7]
+
+Badlands contributor [[chris-paul|Chris Paul]] rejected the premise that Rogan posed a political threat, noting there would be no Trump election for at least three and a half years and arguing that "podcasters can't harm him."[7] He described the coverage as "a scripted psychodrama meant to keep you hooked to the Central Narrative," which he defined as "literally the thing that absolutely is not happening."[7]
+
+
+## Reported Harris appearance (October 2024)
+
+In mid-October 2024, Reuters reported that [[kamala-harris|Kamala Harris]]'s campaign had discussed plans with Rogan's team for the vice president to appear on *The Joe Rogan Experience* before Election Day, though nothing was confirmed.[8] Newsweek framed the reported booking as a response to polling showing Trump outperforming Harris among male voters in a neck-and-neck race, noting that Rogan's show is the most popular podcast in the United States and regularly attracts millions of predominantly male listeners and viewers.[8] The approach came amid a Harris media blitz favoring talk shows and podcasts over traditional news outlets, including an appearance on *Call Her Daddy*, popular with young women.[8] Trump had likewise indicated he would soon be a guest on Rogan's podcast without offering specifics, having recently appeared on several shows aimed at young male audiences such as *Flagrant* with comedians Andrew Schulz and Akaash Singh.[8]
+
+Badlands contributor Ashe in America called the Harris booking "a terrible idea," arguing that the long-form, winding and often irreverent format would expose the inauthenticity of her 2024 policy repositioning, and that Rogan was unlikely to edit her responses, stick to a script, or game the interview.[8] She contended Trump would "crush" on the show because he authentically holds his positions and can follow the conversation wherever it goes.[8] She also praised the format itself as superior to rally coverage and debates for the public's "access to democracy" — equal time for candidates to undergo a full and critical examination of their ideas in long form, without MSM middlemen — adding only that it should be live.[8]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Abercreepy Elites Versus Sovereign Alliance Alpha Chads", URL: https://badlands.substack.com/p/badlands-news-brief-27c
 2. Badlands Brief — "Badlands News Brief: Global Grifters, Fleeing Fellows, and a Surprisingly Friendly Funeral", URL: https://badlands.substack.com/p/badlands-news-brief-290
@@ -51,3 +64,5 @@ In the closing days of the 2024 campaign, Rogan hosted both figures on the Repub
 4. Badlands Brief — "Badlands News Brief: Manipulated Maps, Downed Planes, & A Very Stable Genius", URL: https://badlands.substack.com/p/badlands-news-brief-50a
 5. Badlands Brief — "Badlands News Brief: The Machine Grows Desperate as Threats to Trump Increase", URL: https://badlands.substack.com/p/badlands-news-brief-55f
 6. Badlands Brief — "Badlands News Brief: Trump Tours, Bannon Breaks Out & Israel Hesitates", URL: https://badlands.substack.com/p/badlands-news-brief-914
+7. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
+8. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71

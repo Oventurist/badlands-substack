@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [big-tech, microsoft, ai, nuclear, sp-500]
-sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-739.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-8ae.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-739.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-a71.md]
 confidence: medium
 ---
 
@@ -66,6 +66,10 @@ In July 2024, Business Insider revealed that Microsoft had laid off an internal 
 
 Commentary framed the cut as part of a broader unraveling of DEI and ESG initiatives across corporate America, noting data from AlphaSense showing that first-quarter mentions of "DEI" had collapsed from their 2021 peak.[10]
 
+## Digital Defense Report (October 2024)
+
+In a report published on Tuesday, October 15, 2024, Microsoft said that Russia, China and Iran were increasingly collaborating with cybercrime networks to launch attacks against their adversaries, including the United States.[11] The attacks ranged from ransomware to phishing and were carried out for "espionage, destruction or influence," with cybercrime gangs working alongside these nations to share hacking tools and tactics; the company's Digital Defense Report examined cyber threats from July 2023 through June 2024.[11] In one influence operation, an Islamic Revolutionary Guard Corps group used cyber personas beginning in 2023 to sell stolen Israeli dating website data.[11] In another case, Russian threat actors used new malware and appeared to outsource some cyberespionage operations to criminal groups, with one June 2023 operation compromising at least 50 Ukrainian military devices in an apparent attempt to access information for the Russian government.[11] Microsoft further said the attacks included attempts to influence the US election ahead of November, with Russia continuing operations intended to undermine trust in democratic institutions and Iran and China escalating their influence campaigns over the past year.[11]
+
 ## References
 
 
@@ -79,3 +83,4 @@ Commentary framed the cut as part of a broader unraveling of DEI and ESG initiat
 8. Badlands Brief — "FEMA's Broke. Ukraine is Collapsing. The EU is Doomed.", URL: https://badlands.substack.com/p/badlands-news-brief-41f
 9. Badlands Brief — "Badlands News Brief: Grand Juries, Pressure Campaigns, & Elaborate Hoaxes", URL: https://badlands.substack.com/p/badlands-news-brief-779
 10. Badlands Media — "Badlands News Brief: Vance Takes the Stage as Biden Takes the Basement", URL: https://badlands.substack.com/p/badlands-news-brief-8ae
+11. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71

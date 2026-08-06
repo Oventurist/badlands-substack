@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [impeachment, congress, biden-family, oversight]
-sources: [raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-743.md]
+sources: [raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-743.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a29.md]
 confidence: medium
 ---
 
@@ -44,8 +44,20 @@ Democrats invited [[lev-parnas|Lev Parnas]] to testify about his Ukraine work wi
 
 Badlands Media commentary held that, given the low bar established during the 117th Congress, impeachment should have been a straightforward matter, but that "uniparty" pressure on the thin Republican majority kept the effort stuck in hearings; it further argued that "you cannot impeach an illegitimate president" and that the exposure itself benefits the American people, while the bickering left the forum with no credibility.[4]
 
+## December 2023 authorization vote and subpoenas
+
+By early December 2023 House Republicans were inching toward a floor vote to formally authorize the impeachment inquiry into President [[joe-biden|Joe Biden]], a step described as marking a new phase of the probe.[5] Chairman [[james-comer|James Comer]] of the [[house-oversight-committee|House Oversight Committee]] had subpoenaed [[hunter-biden|Hunter Biden]], the president's brother [[james-biden|James Biden]] and other relatives and business associates for depositions, scheduling Hunter for December 13 and James for December 6.[5] Hunter, through attorney [[abbe-lowell|Abbe Lowell]], insisted on testifying publicly rather than behind closed doors, while James failed to appear for his interview.[5] In parallel, the [[house-ways-and-means-committee|House Ways and Means Committee]] again interviewed IRS whistleblowers, and emails released around the same time were said to show Joe Biden using aliases to contact Hunter's business partners.[5]
+
+## James Biden's closed-door interview
+
+On February 21, 2024, [[james-biden|James Biden]] appeared before House GOP investigators from the Oversight and Judiciary Committees for an hours-long closed-door interview, testifying that his brother President [[joe-biden|Joe Biden]] had no involvement in any of his financial deals.[6] His 10-page opening statement, obtained by Politico, asserted a 50-year business career in which "Joe Biden has never had any involvement or any direct or indirect financial interest in those activities. None."[6] The inquiry to that point had focused largely on deals cut by the president's brother and his son [[hunter-biden|Hunter Biden]].[6]
+
+Badlands commentary treated the denial as implausible, noting that even Republicans conducting the inquiry appeared to struggle to press the central claim that the president was a participant rather than a bystander in the family's dealings, and pointing to the [[patrick-ho|Patrick Ho]] episode and the Hunter Biden laptop material as circumstantial corroboration.[6]
+
 ## References
 1. Badlands Media — "Badlands News Brief: A Potato is Threatened with Impeachment & Other Stories ...", URL: https://badlands.substack.com/p/badlands-news-brief-1e2
 2. Badlands Media — "Badlands News Brief: The Biden Crime Family Begins to Unravel ...", URL: https://badlands.substack.com/p/badlands-news-brief-505
 3. Badlands Brief — "Bicameral Lawfare, Trump's Gambit & the Ouroboros", URL: https://badlands.substack.com/p/badlands-news-brief-525
 4. Badlands Brief — "Badlands News Brief: Biden, Bobulinski & Barbecue", URL: https://badlands.substack.com/p/badlands-news-brief-743
+5. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
+6. Badlands Brief — "Badlands News Brief: Deadline Deals and Crime Families", URL: https://badlands.substack.com/p/badlands-news-brief-a29

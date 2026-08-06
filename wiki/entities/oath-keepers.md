@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [january-6, seditious-conspiracy, justice-department, militia]
-sources: [raw/badlands-brief-ea5.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-8f3.md]
+sources: [raw/badlands-brief-ea5.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-8f3.md, raw/badlands-news-brief-ac1.md]
 confidence: medium
 ---
 
@@ -36,8 +36,13 @@ In February 2025 the case of Oath Keeper [[jeremy-brown|Jeremy Brown]] drew atte
 
 In January 2023, four Oath Keepers members were convicted of seditious conspiracy in Washington, D.C., in proceedings overseen by Obama-appointed judge [[amit-mehta|Amit Mehta]].[4] [[the-gateway-pundit|The Gateway Pundit]] characterised the verdicts as the product of a "DC Kangaroo Court," reporting that the four had been convicted for standing outside the U.S. Capitol without weapons, marching up the steps in a stack and singing the national anthem on January 6, 2021.[4] Badlands contributor [[sean-morgan|Sean Morgan]] argued that the outcome illustrated a "two-tiered system of justice" designed to produce a chilling effect on protest against disputed election results.[4]
 
+## Perjury allegation in the trial
+
+In January 2024, Blaze Media journalist [[steve-baker|Steve Baker]] reported that newly released Capitol closed-circuit footage showed [[united-states-capitol-police|United States Capitol Police]] Special Agent [[david-lazarus|David Lazarus]] gave false testimony in the Oath Keepers trial.[5] Lazarus had testified that he saw then-officer [[harry-dunn|Harry Dunn]] interacting with Oath Keepers on January 6, 2021 — testimony that helped convict the defendants — but time-stamped video placed him elsewhere in the Capitol complex at the time.[5] Rep. [[barry-loudermilk|Barry Loudermilk]] released screenshots of Lazarus's movements, saying such an allegation "must be fully investigated," and Badlands commentary called for the convictions to be revisited and for accountability from those who testified falsely.[5]
+
 ## References
 1. Badlands Brief — "Criminal Referrals & Big, Fat Hugs", URL: https://badlands.substack.com/p/badlands-brief-ea5
 2. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... Or So We're Told", URL: https://badlands.substack.com/p/badlands-news-brief-208
 3. Badlands Brief — "Badlands News Brief: North American Trade Troubles & Unipartisan Panic", URL: https://badlands.substack.com/p/badlands-news-brief-52f
 4. Badlands Brief — "Badlands News Brief: FBI Charges, Exorcisms and ... Woke M&M's?", URL: https://badlands.substack.com/p/badlands-news-brief-8f3
+5. Badlands Brief — "The Media Melts Down as MAGA Rises Once More ...", URL: https://badlands.substack.com/p/badlands-news-brief-ac1

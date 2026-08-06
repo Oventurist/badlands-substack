@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ngo, watchdog, censorship, advertising-pressure]
-sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-966.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-a98.md]
 confidence: medium
 ---
 
@@ -34,8 +34,15 @@ Almost exactly a month after [[elon-musk|Elon Musk]] threatened to file a defama
 
 In January 2025, ADL CEO [[jonathan-greenblatt|Jonathan Greenblatt]] told the [[knesset|Knesset]]'s Committee for Immigration, Absorption and Diaspora Affairs that the organization and the wider Jewish community had failed in their efforts to combat the "inferno of antisemitism" of the previous fifteen months.[4] Speaking alongside other American Jewish leaders, he urged Israeli lawmakers to take global antisemitism seriously, said it takes confidence to express humility, and drew on Silicon Valley language about failing forward.[4] He offered no concrete recommendations but argued that neither a new Knesset task force, nor government money, nor updated IDF talking points would solve the problem, calling instead for new strategies and creative tactics across the ADL and the wider NGO sector.[4] [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] of [[badlands-media|Badlands Media]] mocked Greenblatt's invocation of the Hezbollah pager operation and Operation Deep Layer as models, arguing that the ADL's answer to accusations of Israeli war crimes was to build a new special military unit under the planners of the pager attack.[4]
 
+## Participation in the 2025 antisemitism legal network
+
+In October 2025, the ADL joined a network of more than 40 large American law firms launched to provide free legal assistance to Jewish people facing antisemitism in the wake of the October 7, 2023, attack on Israel and the war in Gaza.[5] The network, which includes firms such as [[sullivan-and-cromwell|Sullivan & Cromwell]], [[cooley|Cooley]], and [[covington-and-burling|Covington & Burling]], allows individuals to report incidents through an app; reports are reviewed by a steering committee able to connect complainants with thousands of the country's top lawyers.[5] [[gibson-dunn|Gibson Dunn]] partner [[orin-snyder|Orin Snyder]], who led the effort, said, "We are building an army of lawyers who will be a virtual law firm dealing with these problems."[5]
+
+The launch came as law firms' pro bono work faced scrutiny from the Trump administration, with many firms pulling back from representing parties challenging the government while combating antisemitism proved comparatively safe ground; nine firms that struck deals in spring 2025 to avoid punitive executive orders had agreed to perform pro bono work on issues the president supports, including fighting antisemitism.[5] Badlands contributor Chris Paul dismissed the initiative sardonically: "The big plan is to sue everyone into silence. That'll solve the problem."[5]
+
 ## References
 1. Badlands Brief — "5GW Counter-Offensive - The Censorship Regime and the Road to 2024", URL: https://badlands.substack.com/p/5gw-counter-offensive-the-censorship
 2. Badlands Brief — "Dems Demand a Post-Trump Strategy as Hamas Haggles for Peace", URL: https://badlands.substack.com/p/badlands-brief-9eb
 3. Badlands Brief — "Badlands News Brief: Speaker Trump, Proxy War Funding & Emergency Alerts", URL: https://badlands.substack.com/p/badlands-news-brief-132
 4. Badlands Brief — "Badlands News Brief: Mockingbird Meltdowns & DOGE-Driven Dreams", URL: https://badlands.substack.com/p/badlands-news-brief-966
+5. Badlands Brief — "Badlands News Brief: Asian Happy Endings, Salvadoran Favors, & American Public Corruption", raw/badlands-news-brief-a98.md

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [qatar, weapons, taliban, stingers, funding, terrorism]
-sources: [raw/a-dereliction-of-duty.md, raw/a-conflict-of-interest.md, raw/badlands-brief-169.md, raw/badlands-brief-c91.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-8cd.md]
+sources: [raw/a-dereliction-of-duty.md, raw/a-conflict-of-interest.md, raw/badlands-brief-169.md, raw/badlands-brief-c91.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-a72.md]
 confidence: medium
 ---
 
@@ -93,6 +93,10 @@ Following [[2025-israeli-strike-on-doha|Israel's attempt to kill Hamas political
 
 Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] noted that Trump had already ordered [[marco-rubio|Marco Rubio]] to draft a defense agreement with Qatar that would provide military protection in the event of another Israeli strike.[15]
 
+## Witkoff ties and Hamas funding allegations (2025)
+
+Reporting cited in Badlands coverage of the Huckabee-Witkoff divide described Qatar as the home of the [[muslim-brotherhood|Muslim Brotherhood]], host for years to the late Brotherhood leader Yusuf al-Qaradawi, and a chief sponsor of [[hamas|Hamas]].[16] The account said [[steve-witkoff|Steve Witkoff]], President Trump's chief negotiator, has business ties worth $623 million to the emirate and had praised Qatar's role to Tucker Carlson, calling claims that Qatar is "not well motivated" preposterous.[16] Hamas — the Gaza arm of the Brotherhood, which massacred over 1,200 people on October 7, 2023, including 32 Americans — has been funded with $1.8 billion by Qatar, which also hosted Hamas leaders in luxury hotels as they accrued personal fortunes exceeding $11 billion and funds the Al-Jazeera network, banned in Israel as a Hamas front.[16] Confirmation hearings for [[mike-huckabee|Mike Huckabee]] as Ambassador to Israel were framed as a counterweight to that pro-Qatar strategy.[16]
+
 ## References
 1. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
 2. Badlands Brief — "A Conflict of Interest", URL: https://badlands.substack.com/p/a-conflict-of-interest
@@ -109,3 +113,4 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] noted
 13. Badlands Brief — "Badlands News Brief: Shutdowns, Shakedowns, & Two Sexes", URL: https://badlands.substack.com/p/badlands-news-brief-762
 14. Badlands Brief — "Badlands News Brief: Trump 2024 Has the Deep State a Little Testy …", URL: https://badlands.substack.com/p/badlands-news-brief-810
 15. Badlands Brief — "Badlands News Brief: Vigils, Vanguards, & Various Investigations", URL: https://badlands.substack.com/p/badlands-news-brief-8cd
+16. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72

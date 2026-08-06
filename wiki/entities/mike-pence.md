@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [vice-president, january-6, 2020-election, republicans]
-sources: [raw/badlands-brief-e87.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-8c5.md]
+sources: [raw/badlands-brief-e87.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-af7.md]
 confidence: medium
 ---
 
@@ -51,6 +51,12 @@ In early February 2023, it was revealed that special counsel [[jack-smith|Jack S
 
 Separately, on February 21, 2023 the [[supreme-court-of-the-united-states|Supreme Court]] declined to hear a 2020 election lawsuit naming Pence alongside [[joe-biden|Joe Biden]], [[kamala-harris|Kamala Harris]], 291 House members and 94 senators, which alleged that they had violated their oaths of office by refusing to investigate [[2020-election-fraud-claims|evidence of fraud]] before accepting the electoral votes on January 6, 2021.[8]
 
+## Trump's motion to block grand jury testimony (March 2023)
+
+In a filing submitted secretly in a sealed proceeding on Friday, March 3, 2023, former President [[donald-trump|Donald Trump]] asked a federal court to block Pence from speaking to a grand jury about certain matters covered by executive privilege, as part of the criminal investigation into efforts to overturn Trump's 2020 election loss.[9] The move followed earlier indications from Trump's team to special counsel [[jack-smith|Jack Smith]], who oversees the [[department-of-justice|Justice Department]]'s criminal investigations of Trump, that the former president intended to assert privilege over Pence's testimony; the DOJ had previously asked a judge to compel Pence's grand jury appearance.[9] Observers noted it was unclear how long the sealed proceedings would take, and that the dispute might be resolved by the district court, appealed to a federal appeals court, or eventually reach the [[supreme-court-of-the-united-states|US Supreme Court]].[9]
+
+Badlands contributor [[just-human|Just Human]] described the situation as an interesting and unprecedented court battle, observing that Trump and Pence were both working to block the testimony and that Pence — arguing that his role that day as President of the Senate is protected by the Constitution's Speech or Debate Clause — had already said he was willing to take the matter to the Supreme Court.[9] Just Human said he would not be surprised if it got there.[9]
+
 ## References
 1. Badlands Brief — "Poetic Agitprop, Cold War Reruns, & Kokomo From the Ropes", URL: https://badlands.substack.com/p/badlands-brief-e87
 2. Badlands Brief — "Trans Easter Bait & A Tale of Two Presidents", URL: https://badlands.substack.com/p/badlands-news-brief-092
@@ -60,3 +66,4 @@ Separately, on February 21, 2023 the [[supreme-court-of-the-united-states|Suprem
 6. Badlands News Brief — "Mutations, Laptops & Chinese Balloons", URL: https://badlands.substack.com/p/badlands-news-brief-3ae
 7. Badlands Brief — "The Wall Are Closing in Again! (And Other Stories)", URL: https://badlands.substack.com/p/badlands-news-brief-7ad
 8. Badlands Brief — "Badlands News Brief: Putin Postures, Voting Matters & J6 Subpoenas", URL: https://badlands.substack.com/p/badlands-news-brief-8c5
+9. Badlands News Brief — "Trump on Wuhan, Flynn Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-af7

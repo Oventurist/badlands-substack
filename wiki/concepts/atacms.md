@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ukraine, weapons, military-aid, neoconservatism]
-sources: [raw/badlands-news-brief-627.md, raw/badlands-news-brief-6b1.md]
+sources: [raw/badlands-news-brief-627.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-9c6.md]
 confidence: medium
 ---
 
@@ -28,6 +28,12 @@ While MAGA-aligned members of Congress had so far resisted neoconservative influ
 
 When President [[joe-biden|Joe Biden]] approved guidance in late May 2024 allowing Ukraine to use U.S.-supplied weapons against targets inside Russia in defense of Kharkiv, officials emphasized that the change did not alter the standing policy directing Ukraine not to use American-provided ATACMS or other long-range missiles and munitions to strike offensively inside Russia.[2] Republican Senator Mike Rounds of South Dakota, a member of the [[senate-armed-services-committee|Senate Armed Services Committee]], confirmed that strikes with U.S. weapons had taken place under the narrower authorization.[2]
 
+## Reported Use Against Russian Territory (November 2024)
+
+On Tuesday, November 19, 2024, the Kremlin said Ukraine had fired six U.S.-made long-range missiles into Russian territory, of which Russia shot down five and damaged the sixth; Ukraine did not confirm that it had fired ATACMS.[3] The strikes followed President Joe Biden's decision to authorize the launch of U.S.-made missiles into Russia, a move Russian officials warned could lead to a world war.[3] Badlands commentary characterized the episode as a "budding Ukrainian Missile Crisis" and a rerun of the 1962 Cuban Missile Crisis, arguing it followed a pre-seeded narrative template and would create crisis points allowing [[donald-trump|Donald Trump]] to assume the role of peacemaker before taking office.[3]
+
 ## References
+
 1. Badlands Brief — "Badlands News Brief: Kennedy Assassins, Justice Wins & More", URL: https://badlands.substack.com/p/badlands-news-brief-627
 2. Badlands Brief — "Russia, the MSM and El Salvador Call Out Joe Biden", URL: https://badlands.substack.com/p/badlands-news-brief-6b1
+3. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6

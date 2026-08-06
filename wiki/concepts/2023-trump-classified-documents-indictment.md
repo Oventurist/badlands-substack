@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [trump, justice-department, classified-documents, special-counsel, 2023]
-sources: [raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-93d.md]
+sources: [raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-ac7.md]
 confidence: medium
 ---
 
@@ -34,6 +34,13 @@ Following the indictment of [[donald-trump|Donald Trump]] for withholding classi
 
 [[badlands-media|Badlands Media]] contributor [[burning-bright|Burning Bright]] said he used the Media Matters framing deliberately, on the grounds that the media mouthpiece is perhaps more representative of the globalist deep state machine than any other outlet.[2] He argued that Trump was seeding the idea of narrative convergence in plain sight as the interval between narrative deployment and "narrative whiplash" shrank, and that MAGA complaints about weaponization of the [[department-of-justice|Justice Department]] were causing the media industrial complex and establishment to close ranks around the DOJ — trapping them in a position from which they could not turn on it once it began prosecuting them.[2] He summarized the dynamic as "Problem. Reaction. Solution. / Exposure. Disclosure. Justice.," calling it a reverse Hegelian dialectic.[2]
 
+## Trial scheduling dispute
+
+On Friday, June 23, 2023, special counsel [[jack-smith|Jack Smith]] asked US District Judge [[aileen-cannon|Aileen Cannon]] to delay the start of the criminal trial until December, filing a series of motions late that evening.[3] Cannon had set a tentative start date of August 14.[3] Smith's team argued that pretrial proceedings — including ensuring defense counsel obtained the security clearances required to review discovery materials — would realistically take longer than the August schedule allowed.[3] [[donald-trump|Trump]] had pleaded not guilty to 37 criminal counts related to his handling of classified materials, with prosecutors alleging he repeatedly refused to return hundreds of documents containing classified information ranging from US nuclear secrets to the nation's defense capabilities.[3]
+
+Smith simultaneously moved for an order restricting Trump's public statements about the case.[3] Badlands commentator [[justin-deschamps|Justin Deschamps]] argued that the gag request was the more revealing of the two motions, contending that the legal basis of the documents case was weak enough that the [[deep-state|Deep State]] needed to prevent both Trump and the general public from examining it, and that delay would extend the window for hostile media framing before trial.[3]
+
 ## References
 1. Badlands Brief — "The Wall Are Closing in Again! (And Other Stories)", URL: https://badlands.substack.com/p/badlands-news-brief-7ad
 2. Badlands Brief — "Badlands News Brief: Trump Trolls, Soros Slithers & Flags Fly", URL: https://badlands.substack.com/p/badlands-news-brief-93d
+3. Badlands Brief — "Whose Coup Is It Anyway? ... And Other Questions", URL: https://badlands.substack.com/p/badlands-news-brief-ac7

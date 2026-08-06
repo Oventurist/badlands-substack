@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [federal-agency, trump-administration, cabinet]
-sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-860.md]
+sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-a34.md]
 confidence: medium
 ---
 
@@ -30,8 +30,15 @@ In an alert issued on January 30, 2023, the [[pandemic-response-accountability-c
 
 As [[hurricane-milton|Hurricane Milton]] approached Florida in October 2024, less than two weeks after [[hurricane-helene|Hurricane Helene]], the SBA's loan programs for stricken businesses and homeowners were identified — alongside [[fema|FEMA]]'s disaster fund and flood insurance program — as among the federal disaster programs facing financial instability and potentially within weeks of running out of cash.[4] Lawmakers of both parties urged Congress to return early to approve additional disaster funding, but Speaker [[mike-johnson|Mike Johnson]] said he had no plans to recall members before the November election.[4]
 
+## February 2025: Mass terminations under DOGE
+
+Employees at the Small Business Administration began receiving termination notices in February 2025 before the ink on President [[donald-trump|Donald Trump]]'s executive order was dry.[5] On Tuesday, February 11, Trump signed an order formally forcing federal agencies to cooperate with [[elon-musk|Elon Musk]] and the [[doge|Department of Government Efficiency]] takeover of the federal government, and just hours later a few hundred SBA employees received emails with formal termination notices.[5]
+
+People involved with the agency said employees had actually received similar notices the previous Friday, were told on Monday that the notices were a mistake, and were then officially cut on Tuesday.[5] "They seemingly jerked people around like this for the sake of EO choreography," a source familiar with the matter said.[5] Musk stood by the firings, arguing that rule by bureaucracy does not match the will of the people.[5]
+
 ## References
 1. Badlands Brief — "A Meddling Musk & Sanctions for Soros", URL: https://badlands.substack.com/p/badlands-news-brief-048
 2. Badlands Brief — "Badlands News Brief: Weaponized Governments and Embattled Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-214
 3. Badlands News Brief — "COVID Coverups, Globalist Schemes and Epstein's Shadow", URL: https://badlands.substack.com/p/badlands-news-brief-580
 4. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
+5. Badlands Brief — "Badlands News Brief: Rising Demand for DC Defenders & A Sovereign Spring Social", URL: https://badlands.substack.com/p/badlands-news-brief-a34

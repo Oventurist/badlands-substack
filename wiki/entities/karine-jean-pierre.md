@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [white-house, press-secretary, biden-administration]
-sources: [raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-384.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-85c.md]
+sources: [raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-384.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-85c.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-ac7.md]
 confidence: medium
 ---
 
@@ -59,6 +59,16 @@ In June 2025 Jean-Pierre announced that she had left the Democratic Party to bec
 
 [[badlands-media|Badlands]] contributor [[ashe-in-america|Ashe in America]] rejected the premise, writing that there is "no universe" in which Jean-Pierre was swindled by the [[white-house|White House]] into believing what she told the American people from her privileged position, and no way she missed that an unelected council was running the country.[10] As Press Secretary, Ashe argued, Jean-Pierre was Biden's voice to the press and the public, spun every scandal and strategised with the cabinet on every narrative — citing occasions when [[jake-sullivan|Jake Sullivan]] and [[john-kirby|John Kirby]] joined her in the briefing room to field questions about the president's condition and gaffes.[10] She concluded that the cabinet must have known the president was not actually running the country, that the book's "revelatory" discovery of a [[uniparty|uniparty]] was "a poorly executed Hail Mary" to persuade the public and the administration to move on, and asked whether the country can move on without accountability.[10]
 
+## Calls for testimony (May 2025)
+
+After the [[robert-hur|Hur]] recordings and [[joe-biden|Biden]]'s cancer announcement in May 2025, Badlands commentary named Jean-Pierre among the White House figures who should be compelled to testify under oath about the [[autopen-scandal|autopen]] and who was actually making presidential decisions.[11]
+
+## June 2023 Hunter Biden briefing
+
+Following revelations that the [[justice-department|Justice Department]] had buried evidence of [[hunter-biden|Hunter Biden]]'s tax crimes and that Hunter had demanded funds from a CCP-linked associate while "sitting here with my father," Jean-Pierre attempted damage control at the White House podium after National Security Communications Advisor [[john-kirby|John Kirby]] refused to answer questions and walked away.[12] "I'm just not going to get into family discussion," she said when asked why Hunter had attended a White House state dinner with Indian officials and Attorney General [[merrick-garland|Merrick Garland]] the previous Thursday night.[12]
+
+The press corps pressed her further, with one reporter noting that Kirby had declined to answer and asking whether it was unreasonable to ask if the president had been involved "in some sort of coercive conversation for a business dealing by his son."[12] Jean-Pierre repeatedly deflected and grew defensive, at one point snapping at a dissatisfied journalist: "It's not up to you how I answer the question."[12] Badlands writer [[ryan-delarme|Ryan DeLarme]] cited the exchange as evidence that the [[deep-state|Deep State]] was in panic and disarray.[12]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Trump Indicted ... Again, and Other Stories!", URL: https://badlands.substack.com/p/badlands-news-brief-1cc
 2. Badlands Brief — "Badlands News Brief: Debates Set, Funding Found & NGO's Defied", URL: https://badlands.substack.com/p/badlands-news-brief-384
@@ -70,3 +80,5 @@ In June 2025 Jean-Pierre announced that she had left the Democratic Party to bec
 8. Badlands Brief — "Biden Hemorrhages Already-Nonexistent Support", URL: https://badlands.substack.com/p/badlands-news-brief-6fc
 9. Badlands Brief — "Damascus Has Fallen ... Cui Bono?", URL: https://badlands.substack.com/p/badlands-news-brief-7a5
 10. Badlands Brief — "Sudden Independence & Legitimately Toxic Unity", URL: https://badlands.substack.com/p/badlands-news-brief-85c
+11. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
+12. Badlands Brief — "Whose Coup Is It Anyway? ... And Other Questions", URL: https://badlands.substack.com/p/badlands-news-brief-ac7

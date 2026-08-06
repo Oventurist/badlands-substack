@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [tariffs, canada, trade-war, energy, ontario]
-sources: [raw/badlands-news-brief-071.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-541.md]
+sources: [raw/badlands-news-brief-071.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-a50.md, raw/badlands-news-brief-a69.md]
 confidence: medium
 ---
 
@@ -48,9 +48,20 @@ The erratic announcements drove the "fear index" of market volatility to highs n
 
 [[ashe-in-america|Ashe in America]] wrote that after Trump raised 50 percent steel tariffs in retaliation, Ontario Premier [[doug-ford|Doug Ford]] "immediately changed course," arguing that the United States subsidizes Canada and is "holding all the cards," and that Mexico had proven "much smarter than Canada."[4] [[burning-bright|Burning Bright]] described a broader "Capitulation pattern" among collectivists worldwide, contending that in order to combat Trump's rhetoric opponents were being forced to adopt it — donning "nationalist plumage" to fight nationalism and disguising globalism as sovereignty — an untenable narrative position as the actuals diverged from the rhetoric.[4]
 
+## January 30, 2025 tariff warning
+
+Speaking to reporters in the Oval Office on Thursday, 30 January 2025, President [[donald-trump|Donald Trump]] said he planned to follow through on Saturday with his threat to impose 25 percent tariffs on goods from Mexico and Canada.[5] "We'll be announcing the tariffs on Canada and Mexico for a number of reasons," he said, citing the influx of migrants at the southern border, the flow of fentanyl into the United States, and the U.S. trade deficit with its neighbors.[5] "I'll be putting the tariff of 25 percent on Canada and Mexico, and we will really have to do that because we have very big deficits with those countries," Trump added. "Those tariffs may or may not rise with time."[5] He said he would decide that night whether to include oil among the items subject to tariffs.[5]
+
+Badlands commentary noted related headlines breaking the same day: reporting that Canada, the largest U.S. trading partner, had launched a crackdown on fentanyl crossing the U.S.-Canada border as the tariff threat loomed, and a Federalist argument that it was "time to start treating Mexico like a hostile foreign power" given the Mexican state's facilitation of illegal immigration and cartel control over large swaths of territory.[5] The commentary observed that Trump, [[kristi-noem|Kristi Noem]], [[tom-homan|Tom Homan]] and others had promised to take on the cartels.[5]
+## Termination of trade talks (June 2025)
+
+In late June 2025, President [[donald-trump|Donald Trump]] announced the termination of all trade talks with [[canada|Canada]] in light of Ottawa's tax on digital services, which he called a "direct and blatant attack on our country."[6] Relations between the neighbours had soured after Trump imposed 25% tariffs on Canadian goods in February, soon after taking office, prompting reciprocal Canadian tariffs; Trump later temporarily suspended the measures while expressing willingness to negotiate individually favourable terms for U.S. businesses.[6] Trump has long accused Canada of taking unfair advantage of the United States and has repeatedly suggested it should become the 51st state, arguing that Washington effectively subsidizes the Canadian economy.[6] Badlands commentary read the humiliation of Prime Minister [[mark-carney|Mark Carney]] as a sign of the collapse of the central banking cabal and the takedown of the City of London.[6]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Hot Wars Wind Down. Trade & Meme Wars Heat Up.", URL: https://badlands.substack.com/p/badlands-news-brief-071
 2. Badlands Brief — "Badlands News Brief: Inbound America: Terrorists, Trillions, & Diplomats", URL: https://badlands.substack.com/p/badlands-news-brief-3a5
 3. Badlands News Brief — "SCOTUS Drama and (Altered) Deals Shake Up the Week", URL: https://badlands.substack.com/p/badlands-news-brief-4e1
 4. Badlands News Brief — "Unearthed Autopens, Inevitable Ceasefires, & 56 Human Kidneys", URL: https://badlands.substack.com/p/badlands-news-brief-541
+5. Badlands Brief — "Badlands News Brief: Bicameral Puppets & Dark Money Muppets", URL: https://badlands.substack.com/p/badlands-news-brief-a50
+6. Badlands News Brief — "Shadow Feds, Activist Courts, & Lasting Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a69

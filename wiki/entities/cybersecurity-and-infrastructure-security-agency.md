@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cisa, elections, election-security, dhs]
-sources: [raw/badlands-brief-707.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-7b8.md]
+sources: [raw/badlands-brief-707.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-ae1.md]
 confidence: medium
 ---
 
@@ -30,8 +30,14 @@ The affected employees, all former state or local election officials, had been b
 
 Writing in the [[badlands-news-brief|Badlands News Brief]], [[ashe-in-america|Ashe in America]] argued the opposite: that the staff "failed in that mission by every conceivable metric," that elections are not secure — let alone immune to known hardware vulnerabilities and admitted critical software vulnerabilities — and that CISA's 2020 election narrative "was always vaporware nonsense."[4] She wrote that removing the actors who propagated what she called a technologically illiterate story was expected and welcomed.[4]
 
+## Medusa ransomware advisory (March 2025)
+
+CISA issued a joint cybersecurity advisory on March 12, 2025 with the [[fbi|Federal Bureau of Investigation]] and the Multi-State Information Sharing and Analysis Center warning about [[medusa-ransomware|Medusa]], a ransomware-as-a-service variant credited with over 300 known victims across critical infrastructure sectors as of February 2025.[5] Badlands commentator [[ashe-in-america|Ashe in America]] treated the warning skeptically, asking whether it came from "the cyber experts at CISA or from environmental lawyers cosplaying as cyber experts at CISA," and concluding that the agency had earned the scrutiny.[5]
+
+
 ## References
 1. Badlands Brief — "TACO Tuesday Reigns Supreme as the Age of Accountability Nears", URL: https://badlands.substack.com/p/badlands-brief-707
 2. Badlands Brief — "Badlands News Brief: World Wealth Whiplash & The Most Secure Memorandum in History", URL: https://badlands.substack.com/p/badlands-news-brief-02a
 3. Badlands News Brief — "Biden Melts Down as Judges Are Themselves Judged", URL: https://badlands.substack.com/p/badlands-news-brief-5fb
 4. Badlands Brief — "Badlands News Brief: MAHA, Modi, Musk, & Munich", URL: https://badlands.substack.com/p/badlands-news-brief-7b8
+5. Badlands News Brief — "Defiant Deportations & Canadian Freeloaders", URL: https://badlands.substack.com/p/badlands-news-brief-ae1

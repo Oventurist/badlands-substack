@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, switzerland, tax-evasion, clinton-foundation, teneo]
-sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-02a.md, raw/badlands-brief-314.md, raw/badlands-brief-9ac.md, raw/badlands-brief-eea.md]
+sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-02a.md, raw/badlands-brief-314.md, raw/badlands-brief-9ac.md, raw/badlands-brief-eea.md, raw/badlands-news-brief-9e8.md]
 confidence: medium
 ---
 
@@ -52,9 +52,14 @@ In August 2019 UBS received a grand jury subpoena for Maxwell's records and comp
 
 [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] linked the disclosure to the preceding week's reporting on [[credit-suisse|Credit Suisse]] Nazi-era and trafficking-linked accounts, noting that UBS was forced to purchase Credit Suisse in 2023 by the Swiss government when insolvency loomed, and remarking that "nothing about any of this feels organic."[5] He connected the banking thread to Colombian President [[gustavo-petro|Gustavo Petro]]'s statement, after meeting [[donald-trump|Donald Trump]], that the two had discussed joining forces against the bankers who are the "bosses of bosses" behind the cartels.[5]
 
+## Acquisition of Credit Suisse (March 2023)
+
+On March 19, 2023, UBS agreed to buy [[credit-suisse|Credit Suisse]] for more than $2 billion, in a price that escalated during negotiations from CHF 1 billion to CHF 2 billion and ultimately to CHF 3 billion (about US$3.25 billion), or 0.76 per share, with Credit Suisse shareholders receiving one UBS share for every 22.48 shares held.[6] The Swiss National Bank offered UBS 100 billion francs in liquidity assistance and the Swiss government granted a 9 billion-franc guarantee covering potential losses on assets UBS was taking over, an arrangement ZeroHedge described as a taxpayer-backed bailout.[6] The transaction came days after the failure of [[silicon-valley-bank|Silicon Valley Bank]] set off a cascade of banking-sector distress.[6]
+
 ## References
 1. Badlands Brief — "America for Sale - Part 2", URL: https://badlands.substack.com/p/america-for-sale-part-2
 2. Badlands Brief — "Arctic Escalation and Tropic Trouble for the Financial System", URL: https://badlands.substack.com/p/badlands-brief-02a
 3. Badlands Brief — "Nationalized Elections, Nazi Bankers & Sovereign Shielding", URL: https://badlands.substack.com/p/badlands-brief-314
 4. Badlands Brief — "Nazi-Related Cover Ups & Formerly Secret Treason", URL: https://badlands.substack.com/p/badlands-brief-9ac
 5. Badlands Brief — "Epstein Fallout & Middle East Madness", URL: https://badlands.substack.com/p/badlands-brief-eea
+6. Badlands Brief — "Badlands News Brief: Trump Arrest ... Panic or No Panic?", URL: https://badlands.substack.com/p/badlands-news-brief-9e8

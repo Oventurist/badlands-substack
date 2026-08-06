@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [iran, diplomacy, foreign-minister, nuclear]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-05f.md, raw/badlands-brief-1ae.md, raw/badlands-brief-245.md, raw/badlands-brief-1c6.md, raw/badlands-brief-52f.md, raw/badlands-brief-9f2.md, raw/badlands-brief-abf.md, raw/badlands-brief-8db.md, raw/badlands-brief-c5b.md, raw/badlands-brief-c07.md, raw/badlands-brief-cd8.md, raw/badlands-brief-eea.md, raw/badlands-news-brief-471.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-05f.md, raw/badlands-brief-1ae.md, raw/badlands-brief-245.md, raw/badlands-brief-1c6.md, raw/badlands-brief-52f.md, raw/badlands-brief-9f2.md, raw/badlands-brief-abf.md, raw/badlands-brief-8db.md, raw/badlands-brief-c5b.md, raw/badlands-brief-c07.md, raw/badlands-brief-cd8.md, raw/badlands-brief-eea.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-ac8.md]
 confidence: medium
 ---
 
@@ -92,6 +92,10 @@ In February 2026, as [[iran|Iran]] continued to defy U.S. demands over its nucle
 
 Araghchi led the Iranian delegation at the second round of U.S.-Iran nuclear talks, which wrapped up in Rome after four hours on Saturday, April 19, 2025, opposite President [[donald-trump|Trump]]'s envoy [[steve-witkoff|Steve Witkoff]].[14] The first round, held the previous weekend in Oman, had focused on setting the tone and format of the negotiations, while U.S. officials said their goal for the Rome round was to produce a framework for how talks would proceed; expert-level discussions were expected to continue on April 26 in Oman.[14] The negotiations took place amid an internal administration debate, and friction between Washington and Israel, over whether diplomacy or military strikes were more likely to prevent Tehran from obtaining a nuclear weapon.[14]
 
+## Riyadh warning to Mohammed bin Salman (October 2024)
+
+On October 9, 2024, Araghchi met Saudi Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] in Riyadh and warned him about the consequences of Israel's ongoing aggression against countries in the region, telling the Saudi royal that "the Israeli regime is dragging the entire region into a catastrophe."[15] He was referring to the war on the Gaza Strip that began in October 2023 and had by then killed nearly 42,000 Palestinians, mostly women and children, as well as escalated Israeli attacks on Lebanon that had claimed thousands more lives.[15] "Insight, wisdom, courage, and cooperation are what the region needs to overcome this challenging time," he added, describing his discussions with bin Salman as "very important" and concerning "vital issues of common concern."[15] Commenting on an earlier meeting with his Saudi counterpart Prince [[faisal-bin-farhan|Faisal bin Farhan]], Araghchi said the two countries would always be bonded by geographical contiguity and remain brothers through faith.[15]
+
 ## References
 1. Badlands Brief — "Mixed Gender Crews, Trafficking Stings, & Shadow Cabal Reruns", URL: https://badlands.substack.com/p/badlands-brief-029
 2. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
@@ -107,3 +111,4 @@ Araghchi led the Iranian delegation at the second round of U.S.-Iran nuclear tal
 12. Badlands Brief — "Shots Fired At Trump (Again)", URL: https://badlands.substack.com/p/badlands-brief-cd8
 13. Badlands Brief — "Epstein Fallout & Middle East Madness", URL: https://badlands.substack.com/p/badlands-brief-eea
 14. Badlands Brief — "Badlands News Brief: Robot Runners, Prisoner Swaps, & Control of Crimea", URL: https://badlands.substack.com/p/badlands-news-brief-471
+15. Badlands Brief — "Storms both Real and Political Converge in October", URL: https://badlands.substack.com/p/badlands-news-brief-ac8

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [state-department, censorship, disinformation, government]
-sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-890.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-890.md, raw/badlands-news-brief-948.md]
 confidence: medium
 ---
 
@@ -40,8 +40,13 @@ In 2023 the GEC was forced to cut ties with George Soros' Global Disinformation 
 
 Badlands contributor [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] identified the GEC as the organization [[mike-benz|Mike Benz]] frequently discusses, founded in 2016 to push back against the rising tide of populism, and noted that the center is connected to [[newsguard|NewsGuard]], the ratings organization that sent a threatening letter to [[jon-herold|Jon Herold]] over Badlands Media content.[4] He concluded that the shutdown "couldn't have happened to a more deserving group."[4]
 
+## Daily Wire v. State Department (2023)
+
+The Global Engagement Center was the central target of the December 2023 lawsuit brought by [[daily-wire|The Daily Wire]], [[the-federalist|The Federalist]] and the state of Texas against the [[state-department|State Department]], filed by the [[new-civil-liberties-alliance|New Civil Liberties Alliance]] in the Eastern District of Texas.[5] Plaintiffs alleged that the government had taken an office created to counter foreign terrorist propaganda and "unleashed it against Americans" accused of disinformation, funding censorship technology intended to bankrupt disfavored domestic outlets.[5] The suit sought a declaration that the effort was illegal and a permanent injunction against promoting technology to de-amplify, shadow ban or restrict lawful American speech, naming Secretary [[antony-blinken|Antony Blinken]] and five other officials.[5] [[ashe-in-america|Ashe in America]] wrote that the GEC is "a centralized control mechanism within the [[censorship-industrial-complex|censorship industrial complex]]" that independent researchers in the truth community had been exposing for over a year, and that with an election year arriving "the re-runs are in marathon mode."[5]
+
 ## References
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
 2. Badlands Brief - "Badlands News Brief: Tracking Resignations and Treasonous Trials", URL: https://badlands.substack.com/p/badlands-news-brief-576
 3. Badlands Brief — "Johnson's Package Goes Flaccid ... And Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-79f
 4. Badlands Brief — "Absurdity and MAGAMania as the Year Winds Down", URL: https://badlands.substack.com/p/badlands-news-brief-890
+5. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948

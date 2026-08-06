@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [military-doctrine, russia, blitzkrieg, world-war-ii, syria, narrative-warfare]
-sources: [raw/badlands-news-brief-99e.md]
+sources: [raw/badlands-news-brief-99e.md, raw/badlands-news-brief-adc.md]
 confidence: medium
 ---
 
@@ -24,5 +24,10 @@ On the night of December 8, 2024, Badlands contributor [[burning-bright|Burning 
 
 The commentary presented this as a "narrative ambush" set over many years by many different players, all acting in their own interest but potentially as part of a grand design to liberate the world from what the writer called a ruthless oligarchy and to restore sovereignty to nation-states — a soap opera branded [[trumpamania|TrumpaMania]] and produced, in the writer's framing, by President [[donald-trump|Donald J. Trump]].[1] The Badlands newsletter notes it has covered the history of Russian maneuver defense extensively.[1]
 
+## Application to Putin's 2024 NATO remarks
+
+In June 2024 [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] applied the concept to [[vladimir-putin|Vladimir Putin]]'s dismissal of claims that Russia planned to attack [[nato|NATO]], describing the rhetorical posture as Russian maneuver defense.[2] He recounted the doctrine's origins as the Soviet answer to the German Blitzkrieg: feign retreat, draw advancing tanks deep so that a "head" forms well past the defensive lines, then use flanking positions the Russians called the "shoulders" to envelop the point of penetration — the "neck" — and decapitate the attacking force so it can be encircled and destroyed.[2] The technique was known as "Shoulder Defense," and the commentary claims it was so successful that Hitler denied ever using the term "Blitzkrieg," calling it a silly word.[2] The conclusion drawn was that although the Germans invented maneuver warfare, the Russians became its masters.[2]
+
 ## References
 1. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e
+2. Badlands Brief — "Badlands News Brief: Globalists Panic as Populism Takes Over the Zeitgeist", URL: https://badlands.substack.com/p/badlands-news-brief-adc

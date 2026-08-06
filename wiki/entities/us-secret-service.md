@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [law-enforcement, presidential-protection, mar-a-lago, security]
-sources: [raw/badlands-brief-285.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-74a.md]
+sources: [raw/badlands-brief-285.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-74a.md, raw/badlands-news-brief-a0c.md]
 confidence: high
 ---
 
@@ -47,6 +47,14 @@ Following the [[attempted-assassination-of-donald-trump-2024|attempted assassina
 
 Biden also ordered an independent review of security at Trump's Butler County, Pennsylvania rally and of law enforcement's handling of the situation.[6] The gunman, [[thomas-matthew-crooks|Thomas Matthew Crooks]], had operated from outside the security perimeter yet fired from mere hundreds of feet from the stage, killing one spectator and critically injuring two others before a Secret Service sniper shot and killed him.[6]
 
+## January 6 after-action report disclosures (2024)
+
+In August 2024 once-redacted passages from a [[dhs-inspector-general-january-6-report|Homeland Security inspector general after-action report]] on January 6, 2021 revealed harrowing Secret Service blunders that may have put the lives of [[mike-pence|Mike Pence]] and [[kamala-harris|Kamala Harris]] in jeopardy, and that had been shared with agency brass weeks before the Butler, Pennsylvania assassination attempt.[7] The passages, obtained by *Just the News*, chronicled how Pence's escape vehicle left its post without explicit permission, stranding him at an increasingly violent scene at the Capitol.[7]
+
+They also detailed how agents lost contact with one another on radios and cell phones that dropped signals, and how a required explosives detection team was not deployed when Vice President-elect Harris was mistakenly whisked past a live pipe bomb just before the riot began.[7] The April 2024 report further revealed that the Secret Service had received intelligence from the [[fbi|FBI]] and the U.S. Postal Service Inspection Service warning of a "high potential for civil unrest" from individuals expected to be "heavily armed," yet did not adapt its security plan from the normal five-person detail used inside the Capitol for ordinary congressional visits, leaving personnel undermanned as violence surrounded them.[7]
+
+Badlands writer [[ashe-in-america|Ashe in America]] argued that the failure of protective agencies to conduct after-action reviews and remedial training in response to these shortcomings may have paved the way for the 13 July 2024 assassination attempt on [[donald-trump|Donald Trump]], and questioned why the material had been suppressed during [[anderson-v-griswold|Anderson v. Griswold]].[7]
+
 ## References
 1. Badlands Brief — "Tuckabee Unites The Arab World As Mexico Courts Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-285
 2. Badlands Brief — "Problems Litter the Game Board; But Solutions Are Coming ...", URL: https://badlands.substack.com/p/badlands-news-brief-10a
@@ -54,3 +62,4 @@ Biden also ordered an independent review of security at Trump's Butler County, P
 4. Badlands Brief — "Badlands News Brief: Change of Batter, Indeed …", URL: https://badlands.substack.com/p/badlands-news-brief-42e
 5. Badlands Brief — "Badlands News Brief: Globalist Rage, Biden Docs & Hockey Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-46e
 6. Badlands Brief — "Badlands News Brief: They're the Conspiracy Theorists, Now ...", URL: https://badlands.substack.com/p/badlands-news-brief-74a
+7. Badlands News Brief — "Transition Teams at Home and Abroad ...", URL: https://badlands.substack.com/p/badlands-news-brief-a0c

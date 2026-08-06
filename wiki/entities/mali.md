@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [sahel, africa, wagner-group, counterterrorism, russia]
-sources: [raw/badlands-news-brief-11d.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-264.md]
+sources: [raw/badlands-news-brief-11d.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-a56.md]
 confidence: medium
 ---
 
@@ -30,7 +30,12 @@ In late July 2024 a military convoy carrying [[wagner-group|Wagner Group]] contr
 
 A spokesman for Ukraine's [[main-directorate-of-intelligence|GUR]], [[andrey-yusov|Andrey Yusov]], said Ukrainian agents had helped plan the attack "against Russian war criminals" and promised more, and Ukraine's ambassador in Dakar, [[yury-pivovarov|Yury Pivovarov]], amplified the claim before the post was deleted.[3] [[burkina-faso|Burkina Faso]] condemned Ukraine for justifying terrorism and threatening the stability of the continent.[3]
 
+## Russian delegation in Bamako (2023)
+
+Ahead of the Russian defence delegation's visit to [[burkina-faso|Burkina Faso]] in late August 2023, the group — headlined by the [[wagner-group|Wagner Group]] — was in the Malian capital Bamako, where Reuters reported Wagner militants were assisting the army against Islamist militants.[4] Mali had fallen to a coup in August 2020, when a group of Malian colonels ousted President Ibrahim Boubacar Keïta following anti-government protests, corruption allegations and contested legislative elections.[4]
+
 ## References
 1. Badlands News Brief — "Fake MAGA Break-ups and Based Accelerationism", URL: https://badlands.substack.com/p/badlands-news-brief-11d
 2. Badlands Brief — "Badlands News Brief: Trump Indicted ... Again, and Other Stories!", URL: https://badlands.substack.com/p/badlands-news-brief-1cc
 3. Badlands Brief — "Badlands News Brief: Fake Candidates, Plea Deals & War Drums", URL: https://badlands.substack.com/p/badlands-news-brief-264
+4. Badlands Brief — "Badlands News Brief: Corruption Probes, Client Lists & Mud Pits", URL: https://badlands.substack.com/p/badlands-news-brief-a56

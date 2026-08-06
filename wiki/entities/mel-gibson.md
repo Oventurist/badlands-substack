@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [hollywood, actors, trump, ambassadors]
-sources: [raw/a-new-hollywood.md, raw/badlands-brief-282.md, raw/badlands-news-brief-433.md, raw/badlands-news-brief-7ed.md]
+sources: [raw/a-new-hollywood.md, raw/badlands-brief-282.md, raw/badlands-news-brief-433.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-a64.md]
 confidence: low
 ---
 
@@ -26,8 +26,13 @@ In April 2025 Gibson, a vocal supporter of [[donald-trump|Donald Trump]], urged 
 
 On January 16, 2025, President-elect Donald Trump named Gibson, alongside Sylvester Stallone and Jon Voight, as one of three [[hollywood-special-ambassadors|Hollywood special ambassadors]] who would serve as his "eyes and ears" in the entertainment capital.[4] The appointment surprised Gibson himself; in a statement distributed hours later by his publicist he said, "I got the tweet at the same time as all of you and was just as surprised. Nevertheless, I heed the call."[4] He added, "Any chance the position comes with an Ambassador's residence?" — a reference to the destruction of his Malibu, California home in the recent California wildfires.[4]
 
+## Pardon Attorney Dismissal (2025)
+
+Gibson featured indirectly in a 2025 controversy at the [[department-of-justice|Justice Department]], when [[elizabeth-oyer|Elizabeth Oyer]], the department's top pardon lawyer, was fired after refusing to grant the actor restored gun ownership rights.[5] Oyer subsequently became a prominent critic of Attorney General [[pam-bondi|Pam Bondi]], describing the department as taking direction from the [[white-house|White House]].[5]
+
 ## References
 1. Badlands Brief — "A New Hollywood", URL: https://badlands.substack.com/p/a-new-hollywood
 2. Badlands Brief — "Jesus Walks", URL: https://badlands.substack.com/p/badlands-brief-282
 3. Badlands Brief — "POTUS' 'Reverse Kissinger' & Pete's Pentagon Purge", URL: https://badlands.substack.com/p/badlands-news-brief-433
 4. Badlands Brief — "Badlands News Brief: Unlikely Ambassadors, The Ceasefire Accords, & Predatory Cartoonist", URL: https://badlands.substack.com/p/badlands-news-brief-7ed
+5. Badlands Brief — "Badlands News Brief: Black Hat Nightmares & A Camelback Caravan of Confirmation", URL: https://badlands.substack.com/p/badlands-news-brief-a64

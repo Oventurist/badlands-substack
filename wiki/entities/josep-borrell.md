@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [european-union, diplomacy, transatlantic, national-security-strategy]
-sources: [raw/badlands-news-brief-306.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-677.md]
+sources: [raw/badlands-news-brief-306.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-a21.md]
 confidence: medium
 ---
 
@@ -32,8 +32,13 @@ On Tuesday, May 21, 2024, Borrell commented on the [[international-criminal-cour
 
 Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] read Borrell's insistence on compliance as proof that globalist institutions were being weaponized against their own architects, forcing oligarchs to argue for the delegitimization of bodies such as the ICC.[3]
 
+## Rafah ultimatum (May 2024)
+
+Following the [[2024-rafah-tent-camp-strike|Israeli strike on a Rafah tent camp]] and the [[international-court-of-justice|International Court of Justice]] order demanding Israel halt its Rafah offensive, Borrell — in his capacity as the EU's High Representative and head of the Foreign Affairs Council — framed the crisis as a binary choice, saying, "We will have to choose between our support to the international institutions and the rule of law, or our support to Israel."[4] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] said the comment "resonates," but argued that what it really meant was a choice between international institutions and support for the United States, since Israel had become an extension of American power.[4] The commentary noted that Borrell and the EU were scheduled to meet Saudi Foreign Minister [[faisal-bin-farhan|Faisal bin Farhan]] and his "Team Peace" group of Arab foreign ministers and diplomats.[4]
+
 ## References
 
 1. Badlands Brief — "Truckloads of Proof, Holiday Intifada, & Europe Must Swallow", URL: https://badlands.substack.com/p/badlands-news-brief-306
 2. Badlands News Brief — "Post Mortems, Dog Fights, & Flight Risks", URL: https://badlands.substack.com/p/badlands-news-brief-721
 3. Badlands Brief — "Badlands News Brief: Globalists Threaten Their Own as Bidenomics Reigns", URL: https://badlands.substack.com/p/badlands-news-brief-677
+4. Badlands Brief — "Badlands News Brief: Trumpian Deliberations, Libertarian LARPs & Israeli Misfires", URL: https://badlands.substack.com/p/badlands-news-brief-a21

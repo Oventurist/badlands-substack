@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [globalism, world-economic-forum, technocracy]
-sources: [raw/a-look-at-recent-features-84d.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/ai-can-help-us-expose-the-nwo.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md]
+sources: [raw/a-look-at-recent-features-84d.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/ai-can-help-us-expose-the-nwo.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-news-brief-948.md]
 confidence: low
 ---
 
@@ -28,8 +28,13 @@ Joe Lange's article "Are CBDCs The Path To Fear, or Freedom?" frames the Great R
 
 In his telling the dismantling of the [[debt-slavery|global debt slavery system]] is already under way, with [[brics|BRICS]] building a parallel architecture, the world returning to a [[gold-standard|gold standard]], and [[central-bank-digital-currency|CBDCs]] serving as the transition mechanism.[4] He rejects the assumption embedded in most Great Reset commentary that the enemy controls events, arguing instead that [[donald-trump|Trump]] and the military are forcing the moves.[4]
 
+## Cited as the aim of domestic censorship (2023)
+
+Commenting on the [[daily-wire|Daily Wire]] and [[the-federalist|Federalist]] lawsuit against the [[state-department|State Department]], Badlands writer [[ashe-in-america|Ashe in America]] argued that the purpose of the government's censorship apparatus was "the managed decline of America with the intent of removing the remaining barrier obstructing the Great Reset to the New World Order," which she characterized as treason.[5]
+
 ## References
 1. Badlands Brief — "A Look At Recent Features", URL: https://badlands.substack.com/p/a-look-at-recent-features-84d
 2. Badlands Brief — "A Gateway to a New World of Cooperation", URL: https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation
 3. Badlands Brief — "AI Can Help Us Expose the NWO", URL: https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo
 4. Badlands Brief — "Are CBDCs The Path To Fear, or Freedom?", URL: https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom
+5. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948

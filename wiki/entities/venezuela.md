@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [venezuela, icc, latin-america, maduro, sovereignty]
-sources: [raw/badlands-brief-245.md, raw/badlands-brief-1ef.md, raw/badlands-brief-52f.md, raw/badlands-brief-733.md, raw/badlands-brief-861.md, raw/badlands-brief-708.md, raw/badlands-brief-a89.md, raw/badlands-brief-ac2.md, raw/badlands-brief-b56.md, raw/badlands-brief-b82.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-824.md]
+sources: [raw/badlands-brief-245.md, raw/badlands-brief-1ef.md, raw/badlands-brief-52f.md, raw/badlands-brief-733.md, raw/badlands-brief-861.md, raw/badlands-brief-708.md, raw/badlands-brief-a89.md, raw/badlands-brief-ac2.md, raw/badlands-brief-b56.md, raw/badlands-brief-b82.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-a72.md]
 confidence: medium
 ---
 
@@ -99,6 +99,12 @@ Opposition figure and 2025 Nobel Peace Prize laureate [[maria-corina-machado|Mar
 
 In late November 2025 the U.S. Treasury designated the [[cartel-de-los-soles|Cartel of the Suns]] — a purported criminal network alleged to operate within Venezuela's security services — as a foreign terrorist organization, alleging that President [[nicolas-maduro|Nicolas Maduro]] heads the group.[16] Axios nonetheless reported that President [[donald-trump|Donald Trump]] planned to speak directly with Maduro, a turn in his "gunboat diplomacy" suggesting missile strikes or ground operations were unlikely in the near term, even as U.S. forces continued striking boats alleged to be shipping drugs.[16] Separately, Trump appeared on Truth Social to endorse the discredited theory that Venezuela's leadership controls electronic voting software worldwide and caused his 2020 defeat, a claim ruled false by a judge in 2023 and central to the [[dominion-voting-systems|Dominion Voting]] defamation suit that Fox News settled for $787 million.[16]
 
+## Rubio warning over Essequibo (March 2025)
+
+In late March 2025, Secretary of State [[marco-rubio|Marco Rubio]] warned in Georgetown that there would be "consequences" if Venezuela used forceful actions to assert claims to resource-rich territories controlled by neighboring [[guyana|Guyana]], calling Caracas a "narco-trafficking regime" making "illegitimate territorial claims."[17] Venezuela has intensified its claims to the [[essequibo-dispute|Essequibo region]], which makes up about two-thirds of Guyana and contains oil-rich offshore waters where [[exxonmobil|ExxonMobil]] leads production.[17] Rubio pointed to the size and power of the US Navy without specifying what action the Trump administration might take.[17]
+
+Badlands commentary connected the standoff to high-profile arrests of oil executives worldwide in corruption probes involving Venezuela, probes launched by [[nicolas-maduro|Nicolás Maduro]] in March 2017 after he received a "laptop from hell" from the scorned ex-wife of one of his oil executives, and speculated that Maduro and President [[donald-trump|Donald Trump]] might be cooperating to squeeze the players involved in Guyana and Venezuelan oil graft.[17]
+
 ## References
 1. Badlands Brief — "Trump Roasts The Press; Teases 2028 Run", URL: https://badlands.substack.com/p/badlands-brief-245
 2. Badlands Brief — "Self Incrimination, Crime Magnets, & Gay Tourism", URL: https://badlands.substack.com/p/badlands-brief-1ef
@@ -116,3 +122,4 @@ In late November 2025 the U.S. Treasury designated the [[cartel-de-los-soles|Car
 14. Badlands Brief — "Badlands News Brief: Victim Cards, Foreign Inference, & Chessboard Stans", URL: https://badlands.substack.com/p/badlands-news-brief-448
 15. Badlands Brief — "Brennan Decries Judge Shopping & JD Says It's Okay to Be White!", URL: https://badlands.substack.com/p/badlands-news-brief-795
 16. Badlands Brief — "Badlands News Brief: Saudi Scoops, Slender Stabbers, & Scorned Scouts", URL: https://badlands.substack.com/p/badlands-news-brief-824
+17. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72

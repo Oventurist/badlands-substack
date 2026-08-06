@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cnn, polling, data-analysis, media, immigration]
-sources: [raw/badlands-brief-eed.md]
+sources: [raw/badlands-brief-eed.md, raw/badlands-news-brief-a12.md]
 confidence: medium
 ---
 
@@ -18,5 +18,12 @@ In early 2026, Enten discussed polling on the network indicating that public tru
 
 Enten's analysis was cited alongside a [[reuters|Reuters]]/Ipsos nationwide survey finding 61% of U.S. adults supported the goal of deporting unauthorized immigrants, including 92% of Republicans and 35% of Democrats, while 60% believed [[immigration-and-customs-enforcement|ICE]] agents had overstepped in their enforcement actions and 63% of Democrats favored abolishing the agency.[1] Badlands coverage treated the segment as a mainstream-media admission that Democrats were "tanking" on the immigration narrative.[1]
 
+## Climate change polling, 2025
+
+In July 2025, Enten — identified as CNN's chief data analyst — expressed surprise on "CNN News Central" that a majority of Americans are not scared of climate change.[2] "Are Americans afraid of climate change? And the answer is, Americans aren't afraid of climate change," he said, adding that "climate activists have not successfully made the case to the American people."[2] He noted that the network held data reaching back to 1989 on how worried people are about the issue.[2]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] reported that when she searched for coverage of the segment, no story existed until she queried Enten's exact quote and found an account at [[fox-news|Fox News]]; instead, search results were dominated by climate-alarm stories published the same day by outlets she characterized as propaganda organs.[2] She concluded that the CNN "narrative buster" was treated as an existential threat requiring immediate action from Google, USA Today and what she called the mockingbirds, and framed the underlying decline in climate fear as the collapse of a behavioral-change program begun with *An Inconvenient Truth* in 2006.[2]
+
 ## References
 1. Badlands Brief — "WAR!", URL: https://badlands.substack.com/p/badlands-brief-eed
+2. Badlands News Brief — "Pentagon Portfolio Plays & Spy Court Sunlight", URL: https://badlands.substack.com/p/badlands-news-brief-a12

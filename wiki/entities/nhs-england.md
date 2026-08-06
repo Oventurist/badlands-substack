@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [united-kingdom, nhs, health-administration, antisemitism, uniform-guidance]
-sources: [raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-762.md]
+sources: [raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-a15.md]
 confidence: medium
 ---
 
@@ -24,6 +24,11 @@ The measures were reported in the [[badlands-news-brief|Badlands News Brief]] un
 
 In September 2025 NHS England's Genomics Education Programme drew criticism for guidance highlighting supposed benefits of first-cousin marriage, claiming such unions offer "stronger extended family support systems and economic advantages."[2] The practice is highly prevalent among Africans, Pakistanis, and other ethnic minority groups in Britain and carries well-documented risks of birth defects.[2] Conservative MP [[richard-holden|Richard Holden]] condemned the guidance, saying "Our NHS should stop taking the knee to damaging and oppressive cultural practices," and criticised the Labour government for ignoring calls to end [[cousin-marriage|cousin marriage]] as a means of deterring chain migration — though the Conservatives did not end it during their fourteen years in office from 2010 to mid-2024 either.[2]
 
+## Policy document on puberty suppressing hormones, March 2024
+
+On Tuesday, March 12, 2024, NHS England published a policy document ending the routine prescription of puberty blockers to children.[3] The document stated that "NHS England has carefully considered the evidence review conducted by NICE (2020) and has identified and reviewed any further published evidence available to date," and concluded that "there is not enough evidence to support the safety or clinical effectiveness of PSH (puberty suppressing hormones) to make the treatment routinely available at this time."[3] The decision followed the National Institute for Health and Care Excellence's review of gonadotrophin releasing hormone analogues and drew objections from transgender advocacy organizations.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Familiar Formulas, Blue Skies, & Antisemitic Nonchalance", URL: https://badlands.substack.com/p/badlands-news-brief-6e6
 2. Badlands Brief — "Badlands News Brief: Shutdowns, Shakedowns, & Two Sexes", URL: https://badlands.substack.com/p/badlands-news-brief-762
+3. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15

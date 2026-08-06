@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [assassination, ukraine, azov, trump, deep-state]
-sources: [raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-880.md]
+sources: [raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-880.md, raw/badlands-news-brief-a12.md]
 confidence: medium
 ---
 
@@ -38,7 +38,12 @@ After the verdict was read, Routh reportedly appeared to try to stab himself in 
 
 Badlands contributor [[ashe-in-america|Ashe in America]] described the outcome as a "nice and tidy conclusion to a very strange case," noting that a courtroom sketch artist captured the self-harm attempt because no other visuals existed.[2] She argued sardonically that the apparent suicide attempt was being treated as proof of guilt while Routh's Ukrainian connections were dismissed as unimportant — so unimportant, she wrote, that the self-representing defendant was not permitted to raise them in his own criminal defense.[2]
 
+## Request for new counsel (July 2025)
+
+Ahead of trial, in July 2025, Routh asked the court to appoint a new defense team, with his motion stating in part that "Ryan Routh respectfully requests the Court set a hearing to terminate the representation of his appointed counsel and their office."[3] Contemporaneous reporting recounted that Routh was accused of staking out [[donald-trump|Trump]] for twelve hours at his Florida golf course and of writing of his desire to kill him, and that investigators said he pointed a rifle through a tree line on the course where Trump was staying.[3]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: MORE Shooter Shenanigans ... and TrumpaMania Reigns", URL: https://badlands.substack.com/p/badlands-news-brief-4cb
 2. Badlands Brief — "Lawfare Losers & Azov-Adjacent Suicide Attempts", URL: https://badlands.substack.com/p/badlands-news-brief-880
+3. Badlands News Brief — "Pentagon Portfolio Plays & Spy Court Sunlight", URL: https://badlands.substack.com/p/badlands-news-brief-a12

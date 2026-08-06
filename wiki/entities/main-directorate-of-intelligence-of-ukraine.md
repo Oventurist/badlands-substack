@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ukraine, intelligence, syria, russia]
-sources: [raw/badlands-news-brief-757.md]
+sources: [raw/badlands-news-brief-757.md, raw/badlands-news-brief-a82.md]
 confidence: medium
 ---
 
@@ -18,5 +18,10 @@ In December 2024, Russia formally accused Ukraine of supporting the al-Qaeda-lin
 
 Badlands Media commentary read the episode as evidence of a wider [[nato]] operation staged out of Turkey to overthrow Assad, expel Russia from the Middle East, and blunt [[vladimir-putin]]'s power projection.[1]
 
+## Accusation over the Il-76 shootdown
+
+In June 2024 the [[russian-investigative-committee|Russian Investigative Committee]] said it had gathered enough evidence to accuse Ukrainian military commanders and the leadership of the GUR of ordering the destruction of a Russian Il-76M transport carrying 65 Ukrainian prisoners of war to an exchange on January 24, 2024, alleging they "knew for certain" the swap was due to take place.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Pardon Me ... No, But Seriously. PLEASE Pardon Me.", URL: https://badlands.substack.com/p/badlands-news-brief-757
+2. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82

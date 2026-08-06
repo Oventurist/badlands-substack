@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [palestinian-authority, israel-palestine-conflict, diplomacy]
-sources: [raw/badlands-news-brief-030.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-9b2.md]
+sources: [raw/badlands-news-brief-030.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-adc.md]
 confidence: medium
 ---
 
@@ -63,6 +63,14 @@ Israel's UN ambassador [[danny-danon|Danny Danon]] responded by accusing Abbas o
 
 Badlands Media compiled a record of Abbas's confrontations with Hamas to argue that he has been the principal Palestinian figure attempting to curb the organization.[8] In 2007, after Hamas drove both Palestinian Authority security forces and the [[israel-defense-forces|Israel Defense Forces]] out of Gaza, Abbas stated that his government would hold no dialogue with the "murderous terrorists" of Hamas.[8] In 2017 he said he would not appoint Hamas officials to the Palestinian government unless they recognized the state of Israel.[8] In 2018, after Hamas attempted to assassinate his prime minister with a roadside bomb during a mission to negotiate the peaceful transfer of Gaza's government to the Palestinian Authority, Abbas sanctioned Hamas and cut it off financially in an effort to destroy it.[8] According to the same commentary, Hamas survived because [[benjamin-netanyahu|Benjamin Netanyahu]] devised a scheme in which Israel carried briefcases containing tens of millions of dollars in cash into Gaza for families with ties to Hamas — a plot exposed by a cabinet minister who resigned and went public.[8] The outlet further noted that in July 2024, on the night before Netanyahu addressed Congress, [[donald-trump|Donald Trump]] posted a letter Abbas had sent him expressing concern over the attempt on Trump's life, complete with a hand-written note.[8]
 
+## Trump's 2017 promise (Badlands commentary)
+
+Writing in July 2025 on the [[2025-un-two-state-solution-conference|UN two-state solution conference]], Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] said he still believed President [[donald-trump|Donald Trump]] intended to make good on a 2017 promise to Abbas to help liberate Palestine from what he described as the murderous thugs controlling [[israel|Israel]]'s government.[9] He argued Trump would first allow pro-Israel figures in and around the US government to expose themselves, so that the question of "State Capture" would be beyond reasonable doubt.[9]
+
+## Trump's characterization and the alleged kayfabe
+
+In June 2024 [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] published a video arguing that [[donald-trump|Donald Trump]] and Abbas have engaged in a form of kayfabe — staged public antagonism concealing cooperation — dating from before the Saudi "Sword Dance" summit of May 20, 2017.[10] In support he cited a December 2021 Israeli Channel 12 interview in which Trump said of Abbas, "I thought he wanted to make a deal more than Netanyahu. I had a great meeting with him... He was almost like a father," and named Abbas and [[benny-gantz|Benny Gantz]] as the two figures capable of making peace.[10] Trump added that his prior assumption that "the Palestinians were impossible, and that the Israelis would do anything to make a deal" proved false.[10]
+
 ## References
 1. Badlands Brief — "Rare Earths, Rogue Judges, & Record Downward Revisions", URL: https://badlands.substack.com/p/badlands-news-brief-030
 2. Badlands News Brief — "Jordanian Jam Sessions, Unpaused Loans, & Disbanded Brotherhoods", URL: https://badlands.substack.com/p/badlands-news-brief-079
@@ -72,3 +80,5 @@ Badlands Media compiled a record of Abbas's confrontations with Hamas to argue t
 6. Badlands News Brief — "Post Mortems, Dog Fights, & Flight Risks", URL: https://badlands.substack.com/p/badlands-news-brief-721
 7. Badlands Brief — "Palestinian Promises, Venezuelan Ventures, & Kazakh Considerations", URL: https://badlands.substack.com/p/badlands-news-brief-8ce
 8. Badlands News Brief — "Embattled Mayors, Peacemakers & Signal Setters", URL: https://badlands.substack.com/p/badlands-news-brief-9b2
+9. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
+10. Badlands Brief — "Badlands News Brief: Globalists Panic as Populism Takes Over the Zeitgeist", URL: https://badlands.substack.com/p/badlands-news-brief-adc

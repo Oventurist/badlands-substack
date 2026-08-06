@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [russia, elections, putin, ukraine-war]
-sources: [raw/badlands-news-brief-054.md]
+sources: [raw/badlands-news-brief-054.md, raw/badlands-news-brief-a15.md]
 confidence: medium
 ---
 
@@ -26,5 +26,10 @@ The result extends Putin's nearly quarter-century rule; completing the six-year 
 
 [[burning-bright|Burning Bright]] responded memetically to what he framed as a wholly unsurprising development, and used it to restate a long-running argument: that the same [[media-industrial-complex|Media Industrial Complex]] serving a centuries-old globalist cabal has probably also been lying about Putin, Russia and Orthodox Christianity.[1] He noted that his own entry into the space came through examining the story of Russia as told to the western mind, and said he was pleased that [[donald-trump|Donald Trump]] would not be the only sovereign leader remaining "a thorn in the side of the [[deep-state|Deep State]]."[1]
 
+## Putin's pre-election nuclear remarks
+
+Two days before voting opened, on March 13, 2024, President Vladimir Putin gave an interview to Rossiya-1 television and the RIA news agency in which he warned the West that Russia was technically ready for nuclear war, while adding that the scenario was not imminent and that he saw no need for nuclear use in Ukraine.[2] The election, held March 15-17, was certain to give Putin another six years in power.[2] In the same remarks he said that any deployment of American troops to Russian territory or to Ukraine would be treated as an intervention and a significant escalation.[2] Badlands commentary treated the timing of the statement, immediately ahead of the vote, as significant in itself.[2]
+
 ## References
 1. Badlands News Brief — "Fani Hunts Alone as Putin Keeps the Throne", URL: https://badlands.substack.com/p/badlands-news-brief-054
+2. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15

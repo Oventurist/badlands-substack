@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [hungary, european-union, immigration, nationalism]
-sources: [raw/badlands-brief-07c.md, raw/badlands-brief-949.md, raw/badlands-brief-9ac.md, raw/badlands-brief-a6b.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-2e8.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4b9.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-942.md]
+sources: [raw/badlands-brief-07c.md, raw/badlands-brief-949.md, raw/badlands-brief-9ac.md, raw/badlands-brief-a6b.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-2e8.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4b9.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-942.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-a56.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-aae.md]
 confidence: medium
 ---
 
@@ -96,6 +96,26 @@ Days after [[hungary|Hungary]] took over the six-month rotating presidency of th
 
 Badlands commentary by GhostofBasedPatrickHenry described the episode as vaulting Orbán up the power rankings of [[sovereign-alliance|Sovereign Alliance]] leaders, arguing that his series of surprise visits to Ukraine, Russia, China and the United States was a "legendary power move" and that Putin's greeting marked Orbán's formal induction into the JACOB Accords.[16] The writer contrasted the moment with the reaction of the [[mockingbird-media|Mockingbird]] press and urged readers not to blackpill, calling the sequence evidence that "this is winning, and we have only just begun."[16]
 
+## Proposed Ukraine-skeptic bloc with Czechia and Slovakia (October 2025)
+
+In late October 2025, a top political adviser to Orbán told POLITICO that Hungary was seeking to join forces with Czechia and Slovakia to form a Ukraine-skeptic alliance within the European Union.[19] Orbán was reported to be hoping to team up with [[andrej-babis|Andrej Babiš]], whose right-wing populist party won Czechia's recent parliamentary election, and Slovak Prime Minister [[robert-fico|Robert Fico]], aligning positions ahead of meetings of EU leaders and holding pre-summit huddles.[19] While a firm political alliance remained some way off, the grouping could significantly impede the EU's efforts to support Ukraine financially and militarily.[19]
+
+Badlands contributor Burning Bright argued that a coming fracture within NATO and the EU "will start with Slovakia, and Viktor Orban is going to support them," adding that "Orban is suing for peace in Ukraine, and the rest of the EU does not want that."[19]
+
+## Possible attendance at Trump's 2025 inauguration
+
+In December 2024, CBS News reported that Orbán, who has a warm relationship with President-elect [[donald-trump|Donald Trump]] and had visited him at Mar-a-Lago that week, was "still considering" whether to attend Trump's January 20 inauguration, according to a source familiar with his plans.[17] Trump's team had raised the possibility of hosting several foreign leaders at the Capitol, having already invited Chinese President [[xi-jinping|Xi Jinping]], though State Department records dating to 1874 show that no foreign leader has ever attended a U.S. transfer-of-power ceremony.[17]
+
+## Endorsement exchange with Trump (September 2023)
+
+Appearing on [[tucker-carlson|Tucker Carlson]]'s show on X in early September 2023, Orban endorsed [[donald-trump|Donald Trump]]'s 2024 presidential bid, saying that reelecting him was "the only way out" of the war between Russia and Ukraine and declaring: "Call back Trump. Trump is the man who can save the Western world."[18] Trump shared a graphic of Orban with the quote on Truth Social late that Friday and by Saturday reciprocated with an endorsement of the Hungarian prime minister.[18] [[badlands-media|Badlands Media]] writer [[burning-bright|Burning Bright]] read the sequence — Carlson speaking in Hungary on sovereignty, Orban warning against Russophobia, and Trump amplifying the "Peacemaker" message — as "narrative convergence," summarizing it as "Coordination = Control."[18]
+
+## November 2025 White House visit and the Putin summit question
+
+Orban was hosted by President [[donald-trump|Donald Trump]] at the [[white-house|White House]] in November 2025, and it was while receiving the Hungarian prime minister that Trump told reporters there was still a possibility he would meet Russian President [[vladimir-putin|Vladimir Putin]] after their planned Budapest summit was abruptly canceled the previous month.[20] "There is always a chance," Trump said, later explaining in the Cabinet Room that the meeting had not taken place because "the Russians don't want to stop yet," while adding that the war had taken a big toll on Russia and on both countries.[20] Asked whether Budapest would remain the preferred venue, Trump replied affirmatively: "I'd like to keep it in Hungary, in Budapest... if we have it, I'd like to do it in Budapest."[20] Trump and Putin had last met in Alaska on August 15, when they agreed to hold follow-up talks in Budapest after consultations between their top diplomats.[20]
+
+Badlands contributor [[burning-bright|Burning Bright]] treated the episode as evidence that "peace is back on the menu," restating his argument that Orban and [[hungary|Hungary]] are not merely observers or proposed mediators but the fulcrum cracking the economic hegemon of the [[european-union|EU]] and the military one of [[nato|NATO]] — two heads, in his framing, of the same Hegelian collectivist hydra fracturing under the dual pressures of the multipolar war and the peacemakers steering it.[20] With Trump, a known Orban ally, re-ascending in 2025, he wrote, the pincer tightens on both actual and narrative grounds, turning globalist escalations into exposures that seed peace in the place of strife.[20]
+
 ## References
 1. Badlands Brief — "Supreme Conflicts, Criminal Probes, & A Ceasefire", URL: https://badlands.substack.com/p/badlands-brief-07c
 2. Badlands Brief — "Tulsi Exposes Traitors; Peace Talks in Pakistan", URL: https://badlands.substack.com/p/badlands-brief-949
@@ -113,3 +133,7 @@ Badlands commentary by GhostofBasedPatrickHenry described the episode as vaultin
 14. Badlands Brief — "Dumb Questions, Pentagon Pizzas, & Zero Trust", URL: https://badlands.substack.com/p/badlands-news-brief-669
 15. Badlands Brief — "Badlands News Brief: Trump's Plan, Biden's Path & Israel's Dilemma", URL: https://badlands.substack.com/p/badlands-news-brief-786
 16. Badlands Brief — "Kamala on the Media Block as Putin Makes Moves", URL: https://badlands.substack.com/p/badlands-news-brief-942
+17. Badlands Brief — "Wray Goes to Sleep, Syria Gets Weird and Xi Gets an Invite", URL: https://badlands.substack.com/p/badlands-news-brief-960
+18. Badlands Brief — "Badlands News Brief: Corruption Probes, Client Lists & Mud Pits", URL: https://badlands.substack.com/p/badlands-news-brief-a56
+19. Badlands Brief — "Badlands News Brief: Asian Happy Endings, Salvadoran Favors, & American Public Corruption", raw/badlands-news-brief-a98.md
+20. Badlands Brief — "Badlands News Brief: Reopening Washington, Rescheduling Putin, & Revisiting De Jure", URL: https://badlands.substack.com/p/badlands-news-brief-aae

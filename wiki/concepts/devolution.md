@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [conspiracy-theory, badlands-media, continuity-of-government]
-sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-670.md]
+sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-a15.md]
 confidence: high
 ---
 
@@ -36,6 +36,12 @@ Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] cited the 
 
 Badlands contributor [[burning-bright|Burning Bright]] used the September 2023 [[arctic-national-wildlife-refuge|ANWR]] lease cancellations to illustrate the interpretive difference Devolution makes.[8] He noted that [[zerohedge|ZeroHedge]], while a capable aggregator, carries a doomer's tinge and assumes that an openly corrupt Biden administration must therefore be Deep State controlled.[8] Under the Devolution and Continuity of Government framing, the same events read instead as [[joe-biden|Biden]] being used to execute a controlled demolition of the U.S. Deep State in the public mind — with the caveat that it remains necessary to watch whether these narratives collapse into the Actual.[8]
 
+## Putin's March 2024 remarks as claimed evidence
+
+Badlands writer Burning Bright argued that Vladimir Putin's March 13, 2024 comments on Russian readiness for nuclear war may have constituted his most Devolution-related public communication to date, coming two days before Russia's presidential election.[9] Burning Bright highlighted a translation in which Putin said, "Apart from (US President Joe) Biden, there are enough other experts in the sphere of Russian-American relations and strategic restraint. So I don't think that everything is going to go head-on here, but we are ready for it."[9]
+
+He tied the remark to a long-standing argument that one key purpose of the Devolution operation researched by Jon Herold has been its implications for the globalist regime, contending that with Donald Trump out of public power the international game board has shifted away from collectivism and toward sovereignty and the multipolar concept advanced by Putin, Xi Jinping, Mohammed bin Salman and Trump.[9] He summarized the position with the formulations "The Scare Event is a Story" and "The Sovereign Alliance is real."[9]
+
 ## References
 
 1. Badlands Media — "Badlands Media Weekly Show Schedule", URL: https://badlands.substack.com/p/badlands-media-weekly-show-schedule-36d
@@ -46,3 +52,4 @@ Badlands contributor [[burning-bright|Burning Bright]] used the September 2023 [
 6. Badlands News Brief — "Mid-Transition “QAnon” Claims & A Not Quite Final Farewell", URL: https://badlands.substack.com/p/badlands-news-brief-351
 7. Badlands Brief — "Badlands News Brief: Fake Poles, HomOlympics & Deal-Making", URL: https://badlands.substack.com/p/badlands-news-brief-4c5
 8. Badlands Brief — "Musk the Peacemaker, Constitutional Overreach & POTATUS", URL: https://badlands.substack.com/p/badlands-news-brief-670
+9. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15

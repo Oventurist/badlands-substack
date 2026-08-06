@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, mainstream-media, newspapers, intelligence-community]
-sources: [raw/a-swan-song-for-the-msm.md, raw/america-has-a-cia-run-economy.md, raw/assad-day-in-damascus.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-8a9.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/america-has-a-cia-run-economy.md, raw/assad-day-in-damascus.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-a60.md, raw/badlands-news-brief-a69.md]
 confidence: medium
 ---
 
@@ -57,6 +57,14 @@ In January 2025 the paper drew attention when [[darrin-bell|Darrin Bell]], a Pul
 
 In April 2025 the Post announced an agreement with [[openai|OpenAI]] to make its journalism accessible through ChatGPT, allowing the platform to surface summaries, quotes and links to original Post articles in response to user prompts.[10] Financial terms were not disclosed.[10] Peter Elkins-Williams, the Post's head of global partnerships, said that "ensuring ChatGPT users have our impactful reporting at their fingertips builds on our commitment to provide access where, how and when our audiences want it."[10] The agreement placed the Post among the largest of more than a dozen news organizations that had partnered with OpenAI in recent months to enhance ChatGPT's capabilities.[10]
 
+## 2024 presidential non-endorsement
+
+In late October 2024 the Post announced it would not endorse a candidate in that year's presidential race, a decision attributed to owner [[jeff-bezos|Jeff Bezos]] and following a similar move days earlier by the [[los-angeles-times|Los Angeles Times]].[11] Staff reaction was severe: editorial board members resigned, liberal readers cancelled subscriptions, and editor-at-large [[robert-kagan|Robert Kagan]] quit.[11] One board member told *Semafor* that "people are shocked, furious, surprised," while another told [[brian-stelter|Brian Stelter]] that the decision was "an outrageous abdication of responsibility," inverting the paper's own slogan with the line that "Democracy doesn't die in darkness, it dies when people anticipatorily consent to a fascist's whims."[11] The paper's chief technology officer was reported to have had engineers block reader questions about the non-endorsement on an internal system.[11] Watergate alumni [[bob-woodward|Bob Woodward]] and Carl Bernstein publicly urged the press to endorse the Democratic nominee.[11] Badlands Media treated the [[2024-newspaper-non-endorsements|episode]] as a demonstration that the paper's claimed independence had been political all along.[11]
+
+## LeGro arrest (June 2025)
+
+In June 2025 Post journalist [[thomas-pham-legro|Thomas Pham LeGro]], 48, was arrested at his District of Columbia home on allegations of possessing child sexual abuse material; prosecutors said a folder on a work laptop recovered from the residence contained eleven such videos.[12] Badlands contributor [[ashe-in-america|Ashe in America]] argued the case should be devastating for the paper, which had hired LeGro and had, in her account, been dismissive of child trafficking and CSAM coverage.[12]
+
 ## References
 
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
@@ -69,3 +77,5 @@ In April 2025 the Post announced an agreement with [[openai|OpenAI]] to make its
 8. Badlands Brief — "Badlands News Brief: Predictable Pandemics & A Thespian's Next Steps", URL: https://badlands.substack.com/p/badlands-news-brief-4a9
 9. Badlands Brief — "Badlands News Brief: Unlikely Ambassadors, The Ceasefire Accords, & Predatory Cartoonist", URL: https://badlands.substack.com/p/badlands-news-brief-7ed
 10. Badlands Brief — "Badlands News Brief: Ongoing Judicial Coups. Newly Jailed Judges.", URL: https://badlands.substack.com/p/badlands-news-brief-8a9
+11. Badlands Brief — "Badlands News Brief: Trump Takes Over as the Info War Nears a Crescendo", URL: https://badlands.substack.com/p/badlands-news-brief-a60
+12. Badlands News Brief — "Shadow Feds, Activist Courts, & Lasting Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a69

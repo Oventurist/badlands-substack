@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [gaza, israel, egypt, refugees, military-operations]
-sources: [raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-83b.md]
+sources: [raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-a21.md]
 confidence: medium
 ---
 
@@ -34,7 +34,12 @@ Biden and his senior aides made such offers over several weeks in hopes of persu
 
 Badlands commentator [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that the most telling element of the story was that the [[cia|CIA]] evidently knew where Hamas leaders were and yet none were being targeted in the military operation, contrasting this with the precision strikes and leadership raids used against [[isis|ISIS]] by [[donald-trump|Donald Trump]] and [[vladimir-putin|Vladimir Putin]].[2]
 
+## May 2024 tent camp strike and border shooting
+
+In late May 2024 Rafah became the site of two incidents that sharply escalated international pressure on Israel.[3] An Israeli airstrike set fire to a camp housing displaced Palestinians in the city, killing at least 45 people according to local officials, an event Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] described on May 27 as a "tragic mistake"; it is covered in detail at [[2024-rafah-tent-camp-strike|the 2024 Rafah tent camp strike]].[3] The same day, an Egyptian soldier was killed in an exchange of fire with Israeli troops near the [[rafah-border-crossing|Rafah border crossing]], described at [[2024-rafah-border-shooting-incident|the 2024 Rafah border shooting incident]].[3] Both followed the [[international-court-of-justice|International Court of Justice]] order the previous Friday demanding that Israel halt its offensive in Rafah, and Israel's seizure of the Rafah crossing from the Gaza side earlier that month.[3]
+
 ## References
 
 1. Badlands Media — "Badlands News Brief: Biden Bungles Rafah as Trump Trials Collapse", URL: https://badlands.substack.com/p/badlands-news-brief-0c1
 2. Badlands Brief — "Badlands News Brief: Biden Baits Israel as Solar Storms Bring the Weird", URL: https://badlands.substack.com/p/badlands-news-brief-83b
+3. Badlands Brief — "Badlands News Brief: Trumpian Deliberations, Libertarian LARPs & Israeli Misfires", URL: https://badlands.substack.com/p/badlands-news-brief-a21

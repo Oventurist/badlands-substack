@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [missile-defense, trump, russia, china, arms-control]
-sources: [raw/badlands-brief-739.md, raw/badlands-brief-a20.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-762.md]
+sources: [raw/badlands-brief-739.md, raw/badlands-brief-a20.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-a5d.md]
 confidence: medium
 ---
 
@@ -26,8 +26,17 @@ In January 2026, ahead of a White House meeting with Danish and Greenlandic offi
 
 The Golden Dome initiative was named among the [[pentagon|Pentagon]]'s highest priorities in the Department of War's September 2025 [[pentagon-shutdown-contingency-guidance-2025|shutdown contingency guidance]], alongside securing the US southern border, supporting Middle East operations, and maintaining depot work, shipbuilding, and critical munitions.[4]
 
+## May 2025 formal launch
+
+Speaking in the Oval Office on Tuesday, May 20, 2025, President [[donald-trump|Donald Trump]] announced the formal launch of the Golden Dome, describing it as a space-integrated shield capable of intercepting missiles launched from anywhere in the world, with an estimated cost of $175 billion.[5] "This design for the Golden Dome will integrate with our existing defense capabilities and should be fully operational before the end of my term," Trump said, adding that once complete the system would intercept missiles "even if they are launched from other sides of the world – and even if they are launched from space."[5] He said the shield would combine current defense assets with next-generation technologies deployed across land, sea, and space, including orbital sensors and interceptors, and claimed "we're the only ones that have this – we call it 'super technology'" while offering few technical details on its operation.[5] Moscow had previously criticized the initiative as a destabilizing step toward the weaponization of space.[5]
+
+## Badlands skepticism about intent
+
+Writing in the May 21, 2025 [[badlands-news-brief|Badlands News Brief]], [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] found the desired outcome of the deployment difficult to surmise, noting that many signals pointed toward a coming "Golden Age" of peace and prosperity and an all-time-low likelihood of large-scale war, which made further allocation of resources to an array likely to become obsolete before use seem incongruous.[5] He also expressed wariness of modern missile defense after watching non-hypersonic Iranian missiles penetrate Israel's [[iron-dome|Iron Dome]] with relative ease on multiple occasions.[5] He allowed that none of these objections alone justified forgoing the system, since preparation is key to military success and Trump's "Peace Through Strength" mantra applied, but concluded that the confluence of factors suggested an ulterior motive — that "the narrative of the Golden Dome is the real value of this deployment," possibly as bait or as an old-school flex of military might, consistent with Trump's habit of extracting multiple uses from a single narrative.[5]
+
 ## References
 1. Badlands Brief — "Weapons Stockpiles & Bundt Cake Treason", URL: https://badlands.substack.com/p/badlands-brief-739
 2. Badlands Brief — "Prosecutions for Democracy & Double-Hatted Peace Panelists", URL: https://badlands.substack.com/p/badlands-brief-a20
 3. Badlands Brief — "13 Germans, A Seized Smartwatch, & An American Tithe's Worth of Fraud", URL: https://badlands.substack.com/p/badlands-brief-c07
 4. Badlands Brief — "Badlands News Brief: Shutdowns, Shakedowns, & Two Sexes", URL: https://badlands.substack.com/p/badlands-news-brief-762
+5. Badlands Brief — "Badlands News Brief: Our Boy Victim & Friends Without Benefits", URL: https://badlands.substack.com/p/badlands-news-brief-a5d

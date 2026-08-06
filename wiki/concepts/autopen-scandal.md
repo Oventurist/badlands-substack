@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [joe-biden, executive-orders, pardons, legitimacy, autopen]
-sources: [raw/badlands-brief-1ae.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-4fd.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-652.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7d4.md, raw/badlands-news-brief-97e.md]
+sources: [raw/badlands-brief-1ae.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-4fd.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-652.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7d4.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a5d.md, raw/badlands-news-brief-a9a.md]
 confidence: low
 ---
 
@@ -84,6 +84,20 @@ The May 2025 release of the [[robert-hur|Hur]] interview audio gave the autopen 
 
 The May 2025 release of the [[robert-hur|Hur]] interview audio gave the autopen question fresh momentum.[11] [[donald-trump|Donald Trump]] posted on [[truth-social|Truth Social]] that "Whoever had control of the 'AUTOPEN' is looking to be a bigger and bigger scandal by the moment."[11] Kentucky Republican Representative [[james-comer|James Comer]] told Fox News that the interview, conducted "many, many months prior to the heavy use of the autopen," showed that "Joe Biden wasn't capable of making decisions. He wasn't coherent."[11] Conservatives on social media pressed the question of who was controlling the device and whether someone else was effectively acting as president, claims The Independent noted were advanced without supporting evidence.[11] Badlands commentary went further, arguing that Biden's simultaneous cancer diagnosis meant "the criminals using the cancer-riddled dementia patient and his autopen are even more criminal than previously thought," and calling for [[jill-biden|Jill Biden]], the White House medical staff, the chief of staff, the cabinet, [[karine-jean-pierre|Karine Jean-Pierre]] and [[jake-sullivan|Jake Sullivan]] to answer questions under oath.[11]
 
+## Trump's defense of Biden (May 20, 2025)
+
+On Tuesday, May 20, 2025, [[donald-trump|Donald Trump]] used the autopen narrative to defend [[joe-biden|Joe Biden]] personally while indicting those around him, posting on [[truth-social|Truth Social]] that "Joe Biden was not for Open Borders, he never talked about Open Borders, where criminals of all kinds, shapes, and sizes, can flow into our Country at will. It wasn't his idea to Open the Border, and almost destroy our Country... It was the people that knew he was cognitively impaired, and that took over the Autopen."[12] The Post Millennial noted that the statement came after the revelation of Biden's stage-four prostate cancer diagnosis and the release of [[robert-hur|Robert Hur]] interview audio, recorded in October 2023, in which Biden displayed problems with memory and with sustaining a long conversation more than a year before he stepped aside.[12]
+
+[[burning-bright|Burning Bright]] wrote in the [[badlands-news-brief|Badlands News Brief]] that the autopen is a compelling narrative not only for its clear devolution implications regarding the "Fake Presidency," but because Trump was actively using it to ingratiate himself with genuine Biden supporters — concluding that "if this is the last act of Our Boy Blue, it's a good one."[12]
+
+## Power the Future review (June 2025)
+
+Daniel Turner, founder of the pro-American-energy watchdog group Power the Future, said his investigation into several of former President [[joe-biden|Joe Biden]]'s climate-related executive actions uncovered "criminal" and "evil" evidence that members of the [[white-house|White House]] acted without presidential authorization while Biden was in mental decline.[13] Speaking on Breitbart News Saturday, Turner described the gravity of a report his nonprofit had released the previous week finding that at least eight major actions taken by Biden were allegedly signed via autopen.[13] Those included the January 6 offshore drilling ban and the March 2023 arctic drilling ban.[13]
+
+Turner's findings paralleled a March 2025 report from the [[heritage-foundation|Heritage Foundation]]'s Oversight Project, which concluded that every document it could find bearing Biden's signature over the course of his presidency — with the sole exception of the statement announcing the end of his reelection campaign — carried the same autopen signature.[13]
+
+Badlands contributor [[canncon|CannCon]] noted that [[donald-trump|President Trump]] had discussed the autopen scandal during questions at his joint statement with [[elon-musk|Elon Musk]], summarising the stakes as "it really means you're not President," and argued that the disclosures were laying the foundation for keeping the 2020 election dispute front and centre.[13]
+
 ## References
 
 1. Badlands Brief — "DC Exposes Itself as the Middle East Gets Gloriously Strange", URL: https://badlands.substack.com/p/badlands-brief-1ae
@@ -97,3 +111,5 @@ The May 2025 release of the [[robert-hur|Hur]] interview audio gave the autopen 
 9. Badlands News Brief — "The Bilateral Bromance & A Misled Grand Jury", URL: https://badlands.substack.com/p/badlands-news-brief-7bf
 10. Badlands Brief — "Badlands News Brief: Funding Freezes, Russian Oil, & Imminent Exposes", URL: https://badlands.substack.com/p/badlands-news-brief-7d4
 11. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
+12. Badlands Brief — "Badlands News Brief: Our Boy Victim & Friends Without Benefits", URL: https://badlands.substack.com/p/badlands-news-brief-a5d
+13. Badlands Brief — "Proxy Wars & The Prevention of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a9a

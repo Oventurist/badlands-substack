@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [legal-scholar, war-powers, congress, commentary]
-sources: [raw/badlands-brief-509.md, raw/badlands-brief-6f0.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-0d4.md, raw/badlands-news-brief-12e.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-995.md, raw/badlands-news-brief-9ae.md]
+sources: [raw/badlands-brief-509.md, raw/badlands-brief-6f0.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-0d4.md, raw/badlands-news-brief-12e.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-995.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-9e8.md]
 confidence: low
 ---
 
@@ -98,6 +98,12 @@ Badlands writer [[ashe-in-america|Ashe in America]] emphasized that Turley had b
 
 On March 7, 2024, Turley published a column arguing that [[new-york-times|The New York Times]] faced claims of hypocrisy over its coverage of the deployment of troops.[17] He noted Senator [[tom-cotton|Tom Cotton]]'s observation that the paper reported matter-of-factly on Governor [[kathy-hochul|Kathy Hochul]]'s plan to send [[national-guard|National Guard]] troops into New York City's subway system, while four years earlier it had publicly denounced Cotton for an op-ed urging the same remedy against violent riots in Washington.[17] Turley, who had previously written on the affair, observed that the Cotton column was historically accurate and that critics never explained what in it was false or outside the range of permissible interpretation.[17] He described the paper's response as "a breathtaking surrender," in which it apologized, promised an investigation into how an opposing view reached its pages, and pledged to reduce the number of editorials it ran; when Democratic officials actually ordered such a deployment, he wrote, the Times offered "little more than a journalistic shrug."[17]
 
+## Commentary on the Anticipated Trump Indictment (2023)
+
+In March 2023, Turley was among the legal scholars who questioned the legal basis of Manhattan District Attorney [[alvin-bragg|Alvin Bragg]]'s expected case against [[donald-trump|Donald Trump]], predicting an indictment for falsifying business records under New York Penal Law Section 175.[18] Writing for The Hill, Turley — a George Washington University law professor and a former expert witness during Trump's first impeachment trial — called the prospective prosecution "made-for-TV," "high on ratings but short on the law," and "legally pathetic."[18]
+
+Turley wrote that the DA "is struggling to twist state laws to effectively prosecute a federal case long ago rejected by the Justice Department against Trump," recalling that he had explained in 2018 how difficult such a federal case would be under existing election laws and that the same theory was now being "shoehorned into a state claim."[18] He noted that the most-discussed charge would rest on the claim that Trump used legal expenses to conceal hush payments allegedly used to violate federal election laws, and remarked that experts insisting such concealment must be charged "were conspicuously silent when [[hillary-clinton|Hillary Clinton]] faced a not-dissimilar campaign-finance allegation."[18]
+
 ## References
 
 1. Badlands Brief — "Election Exposure, Energy Angst & War Rackets", URL: https://badlands.substack.com/p/badlands-brief-509
@@ -117,3 +123,4 @@ On March 7, 2024, Turley published a column arguing that [[new-york-times|The Ne
 15. Badlands Brief — "Badlands News Brief: Mockingbird Meltdowns & DOGE-Driven Dreams", URL: https://badlands.substack.com/p/badlands-news-brief-966
 16. Badlands Brief — "Donald Trump, Dennis Quaid and Steven Seagal Walk into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-995
 17. Badlands Brief — "Badlands News Brief: Will the One True POTUS Please Stand Up?", URL: https://badlands.substack.com/p/badlands-news-brief-9ae
+18. Badlands Brief — "Badlands News Brief: Trump Arrest ... Panic or No Panic?", URL: https://badlands.substack.com/p/badlands-news-brief-9e8

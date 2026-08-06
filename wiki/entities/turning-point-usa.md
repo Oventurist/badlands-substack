@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [conservative-movement, charlie-kirk, maga, organizations]
-sources: [raw/badlands-brief-5ba.md, raw/badlands-brief-805.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-467.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-795.md]
+sources: [raw/badlands-brief-5ba.md, raw/badlands-brief-805.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-467.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-a98.md]
 confidence: high
 ---
 
@@ -69,6 +69,10 @@ TPUSA's election-focused activism drew criticism from parts of the dissident onl
 
 Vice President [[jd-vance|JD Vance]] spoke at Turning Point USA's AmericaFest 2025 in Phoenix, Arizona in December 2025, where he declared that gutting federal [[diversity-equity-and-inclusion|diversity, equity, and inclusion]] laws was one of President [[donald-trump|Donald Trump]]'s big wins since returning to office.[11] His line that DEI had been relegated "to the dustbin of history, which is exactly where it belongs" drew a big roar from the crowd.[11]
 
+## Targeting in the Arctic Frost probe
+
+On October 29, 2025, Senator [[chuck-grassley|Chuck Grassley]] released FBI files showing that Turning Point USA, founded by the late [[charlie-kirk|Charlie Kirk]], was among the organizations that received records requests in the [[arctic-frost|Arctic Frost]] probe conducted by special counsel [[jack-smith|Jack Smith]].[12] Grassley made public 197 subpoenas issued to 34 individuals and 163 businesses, seeking records and communications related to more than 430 individuals and organizations, all of which appeared to target Republicans; alongside Turning Point USA, the [[republican-attorneys-general-association|Republican Attorneys General Association]] was named.[12] Grassley described the probe as a "fishing expedition" that became "the vehicle by which FBI agents and DOJ prosecutors could improperly investigate the entire Republican political apparatus."[12]
+
 ## References
 1. Badlands Brief — "Guardians, Shields, & Iranian House Arrest", URL: https://badlands.substack.com/p/badlands-brief-5ba
 2. Badlands Brief — "RIP Lindsey Graham", URL: https://badlands.substack.com/p/badlands-brief-805
@@ -81,3 +85,4 @@ Vice President [[jd-vance|JD Vance]] spoke at Turning Point USA's AmericaFest 20
 9. Badlands Brief — "Badlands News Brief: Manhunts, Mental Health, & the Mother of a Monster", URL: https://badlands.substack.com/p/badlands-news-brief-6e5
 10. Badlands Brief — "Badlands News Brief: Orange Friday, Election Action, & McKinsey's Gives Advice", URL: https://badlands.substack.com/p/badlands-news-brief-71f
 11. Badlands Brief — "Brennan Decries Judge Shopping & JD Says It's Okay to Be White!", URL: https://badlands.substack.com/p/badlands-news-brief-795
+12. Badlands Brief — "Badlands News Brief: Asian Happy Endings, Salvadoran Favors, & American Public Corruption", raw/badlands-news-brief-a98.md

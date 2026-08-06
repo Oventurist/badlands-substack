@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, republican, north-carolina, immigration]
-sources: [raw/badlands-brief-165.md, raw/badlands-brief-6b4.md, raw/badlands-brief-9eb.md, raw/badlands-brief-b82.md, raw/badlands-news-brief-222.md]
+sources: [raw/badlands-brief-165.md, raw/badlands-brief-6b4.md, raw/badlands-brief-9eb.md, raw/badlands-brief-b82.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a69.md]
 confidence: medium
 ---
 
@@ -39,6 +39,13 @@ In January 2026, after the [[department-of-justice|Department of Justice]] opene
 
 In May 2025 Tillis said he had informed the [[white-house|White House]] that he would oppose [[ed-martin|Ed Martin]]'s nomination as U.S. attorney for the District of Columbia, a potentially fatal blow to Martin's confirmation prospects.[5] The North Carolinian, who was seeking reelection the following year, had previously signaled concerns about Martin's comments related to the January 6, 2021 Capitol attack and his work defending those who took part in the riot.[5] "I have no tolerance for anybody that entered the building on Jan. 6, and that's probably where most of the friction was," Tillis told reporters after meeting with Martin.[5]
 
+## 2024 Gaetz Confirmation Politics
+
+Tillis was cited in November 2024 reporting as among the Republican senators facing reelection in 2026 whose calculations complicated the nomination of [[matt-gaetz|Matt Gaetz]] as attorney general: opposing the pick risked a MAGA primary challenge, while supporting it risked a general-election defeat.[6]
+
+## Retirement announcement (June 2025)
+
+On Sunday, June 29, 2025, Tillis announced he would not seek reelection, after President Donald Trump publicly badgered him for saying he could not vote for the [[one-big-beautiful-bill-act|budget reconciliation package]] because of its steep Medicaid cuts.[7] The announcement came during an all-night Senate session in which Republican leaders scrambled to meet Trump's Fourth of July deadline, having barely cleared a procedural hurdle the previous day amid a revolt by a handful of GOP holdouts that required phone calls from Trump and a visit from Vice President [[jd-vance|JD Vance]] to contain.[7]
 
 ## References
 
@@ -47,3 +54,5 @@ In May 2025 Tillis said he had informed the [[white-house|White House]] that he 
 3. Badlands Brief — "Dems Demand a Post-Trump Strategy as Hamas Haggles for Peace", URL: https://badlands.substack.com/p/badlands-brief-9eb
 4. Badlands Brief — "Powell's Probe, NATO's Negotiations, & Additional Humiliation Rituals", URL: https://badlands.substack.com/p/badlands-brief-b82
 5. Badlands Brief — "Badlands News Brief: Intelligence Narratives & Seemingly Impossible Deals", URL: https://badlands.substack.com/p/badlands-news-brief-222
+6. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6
+7. Badlands News Brief — "Shadow Feds, Activist Courts, & Lasting Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a69

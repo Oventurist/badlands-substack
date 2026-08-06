@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [us-virgin-islands, epstein, litigation, subpoena, caribbean]
-sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-47a.md, raw/badlands-news-brief-575.md]
+sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-47a.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-a56.md]
 confidence: medium
 ---
 
@@ -42,9 +42,14 @@ In July 2023 the territory stated in a Manhattan federal court filing that it wa
 
 The territory held Republican presidential caucuses on February 8, 2024, going third in the nation and using ranked-choice voting, a contest won overwhelmingly by [[donald-trump|Donald Trump]].[5] Territorial GOP Chairman Gordon Ackley promoted the format as "an unrigged caucus" giving every candidate "a fair and equal playing field" and predicted that "the Virgin Islands will decide the trajectory of the Republican nomination," a claim Badlands writers rejected while criticizing the broader push for [[ranked-choice-voting|ranked-choice voting]].[5] Turnout was minimal, with 182 votes cast for Trump in Delegate [[stacey-plaskett|Stacey Plaskett]]'s district; details appear at [[2024-us-virgin-islands-republican-caucuses|2024 US Virgin Islands Republican caucuses]].[5]
 
+## Litigation against JPMorgan (September 2023)
+
+In its lawsuit against [[jpmorgan-chase|JPMorgan]], the U.S. Virgin Islands claimed in September 2023 that the bank had flagged over $1 billion in suspicious transactions tied to [[jeffrey-epstein|Jeffrey Epstein]] and reported them to the federal government in a 2019 Treasury filing.[6] Territory attorney Mimi Liu told a federal court in Manhattan that "JPMorgan was a full-service bank for Jeffrey Epstein's sex trafficking," arguing that the sum bolstered the territory's allegation that the bank knowingly benefited from Epstein's wrongdoing.[6] Epstein had trafficked some of his victims to a private island in the USVI, and the territory had previously told the judge the bank facilitated over $1.1 million in payments from him to "girls or women," many with Eastern European surnames.[6]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Pedo Islands, Polling Panic & Cage Fights", URL: https://badlands.substack.com/p/badlands-news-brief-024
 2. Badlands Brief — "Badlands News Brief: Dueling Presidents, Establishment Secrets & Info Wars", URL: https://badlands.substack.com/p/badlands-news-brief-12a
 3. Badlands News Brief — "A Biden, a Clinton and a Trump Walk Into a SCIF", URL: https://badlands.substack.com/p/badlands-news-brief-228
 4. Badlands Brief — "Badlands News Brief: The System of Systems Fades ... and Fights", URL: https://badlands.substack.com/p/badlands-news-brief-47a
 5. Badlands Brief — "Badlands News Brief: Putin Pandemonium Competes with A Biden Blitz", URL: https://badlands.substack.com/p/badlands-news-brief-575
+6. Badlands Brief — "Badlands News Brief: Corruption Probes, Client Lists & Mud Pits", URL: https://badlands.substack.com/p/badlands-news-brief-a56

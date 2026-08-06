@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [immigration, law, deportation]
-sources: [raw/badlands-brief-9ea.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-471.md]
+sources: [raw/badlands-brief-9ea.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-ae1.md]
 confidence: medium
 ---
 
@@ -50,6 +50,13 @@ Around 1 a.m. on Saturday, April 19, 2025, the [[supreme-court-of-the-united-sta
 
 The [[american-civil-liberties-union|American Civil Liberties Union]] had filed its emergency application on the evening of Good Friday, seeking immediate protection for the detainees as a proposed class action and warning that some clients had already been loaded onto buses, presumably bound for the airport.[6] The government's 17-page response argued that the lower courts had made no findings about the timing, nature, and manner of the notice given to AEA detainees, nor about which detainees had actually tried to seek habeas relief, and urged the Court to deny the application and let the district court resolve the claims in the first instance.[6] Justices [[samuel-alito|Samuel Alito]] and [[clarence-thomas|Clarence Thomas]] dissented, with Alito writing on Easter that the Court had issued "unprecedented and legally questionable relief" in the middle of the night, without lower-court rulings, without hearing the opposing party, within eight hours of receiving the application, and without explanation.[6]
 
+## Invocation against Tren de Aragua and the March 15–16, 2025 defiance
+
+On Saturday, March 15, 2025, the [[trump-administration|Trump administration]] invoked the centuries-old wartime statute to accelerate removals of alleged members of the Venezuelan gang [[tren-de-aragua|Tren de Aragua]], and U.S. District Judge [[james-boasberg|James Boasberg]] blocked its use that evening in a suit filed by the [[american-civil-liberties-union|American Civil Liberties Union]], ordering planes already carrying migrants to turn around and setting a two-week restraining order.[7] The administration announced the following day that hundreds of people had nonetheless been deported; White House press secretary [[karoline-leavitt|Karoline Leavitt]] said the [[department-of-homeland-security|Department of Homeland Security]] had arrested almost 300 gang members over the weekend, and Secretary of State [[marco-rubio|Marco Rubio]] said "hundreds of violent criminals were sent out of our country."[7] Contemporary reporting noted that the Act had been used only three times in U.S. history and that invoking it against an alleged criminal gang rather than nationals of an adversarial state raised novel legal and constitutional questions.[7]
+
+Badlands commentator [[jon-herold|Jon Herold]] observed that he had raised the statute's significance as early as September 2023, asking whether the United States could be in a state of war without congressional approval, and called Trump's invocation "interesting no matter how you look at it."[7]
+
+
 ## References
 1. Badlands Brief — "A Politician is Swallowelled Whole as the Middle East Realigns in Real Time", URL: https://badlands.substack.com/p/badlands-brief-9ea
 2. Badlands Brief — "The Dye's Been Cast Out. The Round Table is Set.", URL: https://badlands.substack.com/p/badlands-news-brief-065
@@ -57,3 +64,4 @@ The [[american-civil-liberties-union|American Civil Liberties Union]] had filed 
 4. Badlands Brief — "Badlands News Brief: Extra-Judicial Judges & Master Manipulating Monsters", URL: https://badlands.substack.com/p/badlands-news-brief-324
 5. Badlands Brief — "Badlands News Brief: Overexposed Engagement Farmers & Maple-Flavored Monarchs", URL: https://badlands.substack.com/p/badlands-news-brief-42b
 6. Badlands Brief — "Badlands News Brief: Robot Runners, Prisoner Swaps, & Control of Crimea", URL: https://badlands.substack.com/p/badlands-news-brief-471
+7. Badlands News Brief — "Defiant Deportations & Canadian Freeloaders", URL: https://badlands.substack.com/p/badlands-news-brief-ae1

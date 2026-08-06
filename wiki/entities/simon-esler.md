@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, contributor]
-sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-491.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-a15.md]
 confidence: low
 ---
 
@@ -35,9 +35,16 @@ In the March 27, 2024 [[badlands-news-brief|Badlands News Brief]], Esler analyze
 
 In the same brief, Esler critiqued the [[toronto-rain-tax|Toronto rain tax]] proposal advanced under Mayor [[olivia-chow|Olivia Chow]], accepting the communist framing offered by conservative coverage but focusing on the city's self-congratulation over water services despite reports of pharmaceutical contamination in Toronto drinking water, and warning that drone-based assessment of private property signals a dystopian expansion of climate-linked utility billing already present in other Canadian and American cities.[5]
 
+## Commentary in the March 14, 2024 news brief
+
+In the Badlands News Brief covering March 13, 2024, Esler wrote on two items. On the House's passage of the TikTok divestment bill, he argued that the Deep State was building a pretext for further systems of control, observing that "the pattern is always pretty clear when people you know from experience to be abusive and power hungry tell you they want to protect you."[6] He noted that Donald Trump was positioning himself in a grey zone and, citing Trump's recent meetings with ByteDance part-owner Jeffrey Yass and with Elon Musk, speculated that Trump's media conglomerate might be circling TikTok; he also asked what parallel operations might be underway regarding YouTube, Instagram and Facebook, concluding "very thick fog of war. Get comfy in the doubt."[6]
+
+On the NHS decision to stop prescribing puberty blockers to children, Esler argued the drugs are dangerous even within their approved indication of precocious puberty, whose listed risks amount largely to reduced adult height and social ostracization, and described the off-label use of the drugs to halt puberty for gender-affirming care as resting on those shady foundations.[6] He argued that if the reaction constituted a moral panic it was a justified one, citing the development of a micropenis in boys placed on blockers and the consequent need for surgeons to harvest intestinal or colon tissue for later vaginoplasty.[6]
+
 ## References
 1. Badlands Brief — "AI Can Help Us Expose the NWO", URL: https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo
 2. Badlands Brief — "Badlands News Brief: Trans Easter Bait & A Tale of Two Presidents", URL: https://badlands.substack.com/p/badlands-news-brief-092
 3. Badlands News Brief — "Battle Lines Drawn in All Theaters", URL: https://badlands.substack.com/p/badlands-news-brief-169
 4. Badlands News Brief — "Trump Counters, Musk Sues & Biden Lies", URL: https://badlands.substack.com/p/badlands-news-brief-2db
 5. Badlands Brief — "Badlands News Brief: Dali, Diddy & DJT", URL: https://badlands.substack.com/p/badlands-news-brief-491
+6. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15

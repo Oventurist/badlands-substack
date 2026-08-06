@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [immigration, labor, h-1b, guest-workers, america-first]
-sources: [raw/badlands-brief-0bd.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-09b.md, raw/badlands-news-brief-817.md]
+sources: [raw/badlands-brief-0bd.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-09b.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-9cd.md]
 confidence: medium
 ---
 
@@ -40,9 +40,14 @@ Badlands contributor [[ashe-in-america|Ashe in America]] rejected the argument, 
 
 In an interview with Fox News' Laura Ingraham that aired Tuesday, November 11, 2025, President [[donald-trump|Donald Trump]] reinvigorated debate over H-1B visas by defending the program as necessary to "bring in talent" to the United States, drawing criticism from within his own [[america-first-movement|Make America Great Again]] base.[4] When Ingraham argued that the United States already has talent at home, Trump replied: "No, you don't. No, you don't. You don't have, you don't have certain talents, and people have to learn! You can't take people off an unemployment line and say I'm gonna put you into a factory where we're gonna make missiles."[4] The visas allow U.S. companies to hire highly skilled foreign workers for up to six years.[4] [[jon-herold|Jon Herold]] responded to the intra-coalition fight with the quip, "Maybe the real H-1B visa controversy was the friends we made along the way."[4]
 
+## Teamsters and Sanders criticism (January 2025)
+
+Amid renewed debate over the program at the start of 2025, Teamsters Union President [[sean-obrien|Sean O'Brien]] said the H-1B visa program "displaces" Americans from their jobs while allowing billionaires at the top of corporations to exploit foreign workers.[5] Coverage described the program as permitting companies to import hundreds of thousands of foreign workers, primarily from India, to take white-collar American jobs; Senator [[bernie-sanders|Bernie Sanders]] (I-VT) blasted it as nothing more than an outsourcing scheme, and O'Brien took to X to say he "100%" agreed with Sanders.[5]
+
 ## References
 
 1. Badlands Brief — "Mossad Bait & Labor Tackles", URL: https://badlands.substack.com/p/badlands-brief-0bd
 2. Badlands Brief — "Badlands News Brief: A President's Passing & A Prime Minister's Prostate", URL: https://badlands.substack.com/p/badlands-news-brief-08e
 3. Badlands Brief — "Russian Oil, Turkish Nukes, & American Indictments", URL: https://badlands.substack.com/p/badlands-news-brief-09b
 4. Badlands Brief — "Badlands News Brief: MAGA Cracks, Fund Funnels, & Devilish Bees", URL: https://badlands.substack.com/p/badlands-news-brief-817
+5. Badlands Brief — "Badlands News Brief: Energy Elevates Collaboration as the Senate Steals Centerstage", URL: https://badlands.substack.com/p/badlands-news-brief-9cd

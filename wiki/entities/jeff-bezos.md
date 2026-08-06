@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [amazon, washington-post, big-tech, cia, trump]
-sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-news-brief-4a9.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-a60.md]
 confidence: medium
 ---
 
@@ -28,7 +28,12 @@ In February 2025 Bezos, as owner of [[washington-post|The Washington Post]], man
 
 The announcement followed his earlier, controversial decision to kill presidential endorsements, over which the Post lost thousands of subscribers and members of the Opinion Board resigned in protest; commentators framed the sequence as evidence of how far Bezos was willing to assert his power to shape public opinion as owner of one of the country's largest newspapers.[2] Badlands writer Burning Bright argued the episode's value was that it forced the media protectorate to admit it had been playing a game all along.[2]
 
+## 2024 non-endorsement decision
+
+The endorsement decision itself came in late October 2024, when Bezos chose that The Washington Post would not endorse a presidential candidate in that year's race.[3] The choice triggered what aggregators described as a staff meltdown, mass subscription cancellations by liberal readers, and the resignation of editor-at-large [[robert-kagan|Robert Kagan]].[3] Editorial board members told outlets that colleagues were "shocked, furious, surprised" and characterized the move as "an outrageous abdication of responsibility."[3] Badlands commentator [[ashe-in-america|Ashe in America]] noted Bezos's history of allowing his companies to favor commercial interest over ideological posture, and suggested the [[2024-newspaper-non-endorsements|non-endorsement]] may simply have been sound business judgment amid declining readership and a credibility crisis.[3]
+
 ## References
 
 1. Badlands Brief — "America Has a CIA-Run Economy", URL: https://badlands.substack.com/p/america-has-a-cia-run-economy
 2. Badlands Brief — "Badlands News Brief: Predictable Pandemics & A Thespian's Next Steps", URL: https://badlands.substack.com/p/badlands-news-brief-4a9
+3. Badlands Brief — "Badlands News Brief: Trump Takes Over as the Info War Nears a Crescendo", URL: https://badlands.substack.com/p/badlands-news-brief-a60

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [transportation, biden-administration, east-palestine, cabinet]
-sources: [raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-754.md]
+sources: [raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-754.md, raw/badlands-news-brief-a21.md]
 confidence: medium
 ---
 
@@ -24,8 +24,13 @@ As Secretary of Transportation, Buttigieg received a February 9, 2023 letter fro
 
 In the first weeks after the February 2023 derailment, Badlands contributor [[absolutetruth1776|AbsoluteTruth1776]] noted that Buttigieg had made no public mention of the disaster even as reports of sickened residents, dead animals and arrested journalists accumulated.[3] The same commentary contrasted that silence with Buttigieg's public remarks about there being too many white employees working on the country's railroads.[3]
 
+## Face the Nation interview (May 2024)
+
+Buttigieg appeared on CBS's *Face the Nation* over the weekend of May 25–26, 2024, in an interview that [[zerohedge|ZeroHedge]] reported went badly for him.[4] Early in the segment, host [[margaret-brennan|Margaret Brennan]] confronted him over the state of federal electric-vehicle charging infrastructure: after more than $7 billion in spending since 2021, the nation had fewer than 10 EV chargers to show for it.[4] The Bipartisan Infrastructure Law signed by [[joe-biden|Joe Biden]] in November 2021 had allocated $7.5 billion for EV charging, of which $5 billion went to states as formula funding for the National Electric Vehicle Infrastructure program to establish a network of fast chargers along major highways; the result was seven chargers with a total of 38 parking spots.[4] When pressed for an answer, Buttigieg tried to deflect, prompting an involuntary laugh from Brennan.[4] During the same interview he suggested that increased airline turbulence was occurring as a result of climate change.[4] ZeroHedge framed the exchange as significant because criticism of the program had spread from the Washington Post to CBS.[4]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Border Bill Dead on Arrival ... Just Like Bidenomics", URL: https://badlands.substack.com/p/badlands-news-brief-1ab
 2. Badlands News Brief — "Musk Investigated, Fauci Exposed & Committees Engaged", URL: https://badlands.substack.com/p/badlands-news-brief-34a
 3. Badlands Brief — "Badlands News Brief: PsyOps and PsyActs EVERYWHERE ...", URL: https://badlands.substack.com/p/badlands-news-brief-754
+4. Badlands Brief — "Badlands News Brief: Trumpian Deliberations, Libertarian LARPs & Israeli Misfires", URL: https://badlands.substack.com/p/badlands-news-brief-a21

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, conservative, free-speech]
-sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-8f1.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-8f1.md, raw/badlands-news-brief-948.md]
 confidence: low
 ---
 
@@ -28,7 +28,12 @@ In November 2023 an escalating public feud between Daily Wire host [[candace-owe
 
 Badlands contributor [[burning-bright|Burning Bright]] read the episode as the beginning of a "[[con-inc|Con Inc.]] circular firing squad," arriving amid what he called the [[uniparty|Uniparty]]'s attempt to build domestic support for a new Forever War, and noted that Daily Wire and allied outlets had closed ranks against [[donald-trump|Donald Trump]] at key inflection points of the [[information-war|Info War]].[3]
 
+## Lawsuit against the State Department (2023)
+
+On December 5, 2023, The Daily Wire joined [[the-federalist|The Federalist]] and the state of Texas in a lawsuit against the [[state-department|State Department]] over its funding of censorship technology, filed by the [[new-civil-liberties-alliance|New Civil Liberties Alliance]] in the Eastern District of Texas.[4] The complaint alleged that the department had turned the [[global-engagement-center|Global Engagement Center]] against domestic media outlets with disfavored political opinions in what it called one of the gravest abuses of power and infringements of First Amendment rights in American history, naming Secretary [[antony-blinken|Antony Blinken]] and five other officials as defendants.[4] The plaintiffs sought a permanent bar on government development or promotion of technology to de-amplify, shadow ban or restrict lawful American speech.[4]
+
 ## References
 1. Badlands Brief — "A Glaring Double Standard", URL: https://badlands.substack.com/p/a-glaring-double-standard
 2. Badlands Brief — "Johnson's Package Goes Flaccid ... And Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-79f
 3. Badlands News Brief — "Dictators, Sovereigns and Bipartisan Peace", URL: https://badlands.substack.com/p/badlands-news-brief-8f1
+4. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948

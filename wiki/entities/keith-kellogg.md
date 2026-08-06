@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [trump-administration, ukraine, diplomacy, envoy]
-sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-688.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-9ba.md]
+sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-688.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-9ba.md, raw/badlands-news-brief-a9a.md, raw/badlands-news-brief-a82.md]
 confidence: medium
 ---
 
@@ -51,9 +51,23 @@ After the [[2025-trump-putin-alaska-summit|Anchorage summit]] between [[donald-t
 
 Badlands contributor GhostofBasedPatrickHenry described Kellogg as an example of a long-theorized archetype, the "kayfabe" double-agent.[5] In that account Kellogg ran into diplomatic trouble early in Trump's second term when the Russians claimed he was too closely aligned with Ukraine and NATO to be trusted, forcing a rebrand from Special Envoy for Russia and Ukraine to merely Special Envoy for Ukraine and allowing [[steve-witkoff|Steve Witkoff]] to step in as the envoy dealing with Moscow.[5] Kellogg has since continued to voice neoconservative war-hawk talking points in a manner some found cartoonish for a man of his rank; while many dismissed him as a Deep State shill, readers familiar with Jon Herold's [[devolution|Devolution]] series and the role Kellogg played in it were said to be more cautious about that conclusion.[5]
 
+## NATO proxy war remarks (June 2025)
+
+In a Fox News interview on Sunday, June 1, 2025, Kellogg said that Russian President [[vladimir-putin|Vladimir Putin]] was right to view the Ukraine conflict as a proxy war against Russia: "he considers this a proxy war by NATO. And frankly... in a way it is."[6] He said he believed the peace process would ultimately succeed but warned that "the escalatory issues are still there," pointing to German Chancellor [[friedrich-merz|Friedrich Merz]]'s indication that Berlin would be open to supplying Kiev with [[taurus-missile-system|Taurus cruise missiles]], which have a range of roughly 300 miles (482 km) and could allow Ukrainian strikes deep inside Russia.[6] Kellogg added that Putin had made clear Russia would regard any supplier of such weapons as a party to the conflict.[6]
+
+Kellogg made the remarks the same weekend that Ukraine struck Russian strategic aviation in [[operation-spiders-web|a coordinated drone operation]] and Secretary of State [[marco-rubio|Marco Rubio]] pressed Russian Foreign Minister [[sergey-lavrov|Sergey Lavrov]] for direct talks.[6]
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] read the remarks as the beginning of a "redemption arc" for Kellogg, who had spent months repeating what the contributor called old NeoCon talking points about Putin being "evil" - commentary that had prompted demands for Trump to narrow his portfolio, which Trump did by installing [[steve-witkoff|Steve Witkoff]] as envoy to Moscow.[6] In this reading Kellogg was now adopting Putin's perspective and "rug-pulling the Unipolar Hegemony" as the EU and [[nato|NATO]] geared up to escalate the conflict.[6]
+
+## Ukraine peace plan, June 2024
+
+In June 2024 Kellogg, a retired lieutenant general and one of [[donald-trump|Donald Trump]]'s national security advisers, co-authored with [[fred-fleitz|Fred Fleitz]] a plan to end Russia's war in Ukraine should Trump win the November 5 election.[7] Kellogg said in an interview that under the plan the United States would tell Ukraine it would receive further US weapons only if it entered peace talks, while simultaneously warning Moscow that refusal to negotiate would bring increased US support for Kyiv.[7] Both men had served as chiefs of staff in Trump's National Security Council during his 2017-2021 presidency, and their strategy — which envisioned a ceasefire along prevailing battle lines during talks — was described as the most detailed plan yet produced by Trump associates.[7]
+
 ## References
 1. Badlands Brief — "A Meddling Musk & Sanctions for Soros", URL: https://badlands.substack.com/p/badlands-news-brief-048
 2. Badlands Brief — "Preemptive Pardons, Syrian Sanctions, & Preparations for Putin", URL: https://badlands.substack.com/p/badlands-news-brief-09e
 3. Badlands Brief — "Badlands News Brief: Threats, Panic and Signal in the Engineered Noise", URL: https://badlands.substack.com/p/badlands-news-brief-688
 4. Badlands Brief — "Johnson's Package Goes Flaccid ... And Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-79f
 5. Badlands News Brief — "Russian Concessions & Criminal Referrals", URL: https://badlands.substack.com/p/badlands-news-brief-9ba
+6. Badlands Brief - "Proxy Wars & The Prevention of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a9a
+7. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82

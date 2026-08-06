@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [gaza, israel, palestine, october-7]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-08a.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-855.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-95a.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-08a.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-855.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-95a.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-a57.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-a9e.md, raw/badlands-news-brief-adc.md, raw/badlands-news-brief-a82.md]
 confidence: medium
 ---
 
@@ -228,6 +228,34 @@ On Friday, October 3, 2025, Hamas returned what Axios characterized as a "yes, b
 
 Ahead of [[benjamin-netanyahu|Benjamin Netanyahu]]'s July 2025 visit to Washington, the Israeli prime minister vowed that Hamas's military and governing capabilities would be eliminated and that the group "will not be there," rejecting any hostage deal that would leave it in power in Gaza.[39] An Israeli negotiating team travelled to Doha for indirect talks with the group at the same time.[39] Hamas was reported to have responded "positively" to recently proposed ceasefire terms, while President [[donald-trump|Donald Trump]] publicly stated that he expected to negotiate an end to the Gaza war during his meeting with Netanyahu.[39]
 
+## Abbas's record of opposition (2007–2018)
+
+Badlands Media compiled a sequence of confrontations between Hamas and [[mahmoud-abbas|Mahmoud Abbas]] to argue that Abbas has been the principal Palestinian figure attempting to curb the organization.[40] In 2007, after Hamas drove both [[palestinian-authority|Palestinian Authority]] security forces and the [[israel-defense-forces|Israel Defense Forces]] out of Gaza, Abbas declared that his government would hold no dialogue with the group's "murderous terrorists."[40] In 2017 he refused to appoint Hamas officials to the Palestinian government unless they recognized the state of Israel.[40] In 2018, Hamas attempted to assassinate his prime minister with a roadside bomb during a mission to negotiate the peaceful transfer of the Gazan government to the Palestinian Authority, after which Abbas sanctioned the organization and cut it off financially in an attempt to destroy it.[40]
+
+According to the same commentary, Hamas survived that financial squeeze because [[benjamin-netanyahu|Benjamin Netanyahu]] arranged for Israel to carry briefcases containing tens of millions of dollars in cash into Gaza and distribute them to families with ties to the organization — a scheme exposed when a cabinet minister resigned in protest and went public.[40] The outlet argued on this basis that the United States and Israeli governments had directly funded the group's rise to power.[40] In September 2024, Israel's UN ambassador [[danny-danon|Danny Danon]] accused Abbas of failing to condemn the October 7 Hamas attack that triggered the Gaza war.[40]
+
+## Calls for escalation after the April 2024 Israeli strike on Iran
+
+In April 2024, after Israel struck Iranian soil and both [[iran|Iran]] and Israel signalled that their exchange of strikes was finished, Hamas was reported as the only party pressing for a wider conflict: a Hamas official called the Israeli aggression on Iran "an escalation against the region" and called for expanding engagement against Israel over the war in Gaza.[41] Iranian Army Commander-in-Chief Abdolrahim Mousavi indicated Tehran did not feel compelled to react, and President [[ebrahim-raisi|Ebrahim Raisi]] made a planned speech that ignored the overnight attack, praising "Operation True Promise" instead.[41] ZeroHedge assessed that Hamas leadership likely believed the episode marked the start of a "big war" in Gaza's defense.[41]
+
+Badlands commentary described Hamas as throwing a "temper tantrum" on the same day that [[itamar-ben-gvir|Itamar Ben Gvir]] and allies within the Israeli cabinet did the same, arguing it was strange that two ostensible enemies shared an identical vision of kinetic escalation and questioning the media narrative that Iran controlled Hamas.[41]
+
+## Context of the April 2024 escalation
+
+By April 2024, President [[joe-biden|Joe Biden]] had publicly criticized Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] over the civilian toll of [[israel|Israel]]'s campaign against Hamas, particularly after a strike killed seven aid workers, even while pledging "ironclad" support for Israel against threatened [[iran|Iranian]] reprisals.[42] Israeli troops and warplanes began an overnight operation in central Gaza on April 11 that the military said was aimed at destroying the infrastructure of armed Palestinian groups.[42]
+
+## Hostage pressure after the December 2023 friendly-fire killings
+
+After [[israel-defense-forces|Israeli troops]] mistakenly shot and killed three Israeli hostages carrying a white flag in Gaza's Shijaiyah neighborhood on December 15, 2023, pressure mounted on Israel to negotiate a new agreement for the release of the more than 130 hostages still held by Hamas.[43] Hamas had previously claimed that some hostages were killed in Israeli airstrikes on Gaza, though the December incident marked the first IDF acknowledgment of accidentally killing hostages during its ground operation.[43]
+
+## Gantz resignation and the state of the war (June 2024)
+
+In June 2024 [[benny-gantz|Benny Gantz]] withdrew his party from Israel's emergency government, accusing Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] of preventing Israel from achieving "true victory" in the war against Hamas.[44] Contemporary reporting summarized the war's origin as the October 7, 2023 assault in which thousands of Hamas-led terrorists stormed into southern Israel, killing some 1,200 people, mostly civilians, and taking 251 hostages into the Gaza Strip.[44]
+
+## Hostage families and the Netanyahu coup claim
+
+In June 2024 [[sara-netanyahu|Sara Netanyahu]] reportedly told families of hostages taken by Hamas that [[israel-defense-forces|IDF]] leadership was "staging a coup" against her husband, prompting one bereaved father to say publicly that no hostage deal would be reached while [[benjamin-netanyahu|Netanyahu]] remained in power.[45]
+
 ## References
 1. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
 2. Badlands Brief — "Dems Demand a Post-Trump Strategy as Hamas Haggles for Peace", URL: https://badlands.substack.com/p/badlands-brief-9eb
@@ -268,3 +296,9 @@ Ahead of [[benjamin-netanyahu|Benjamin Netanyahu]]'s July 2025 visit to Washingt
 37. Badlands Brief — "Panic in DC ... And Israel ... Pretty Much Everywhere, Actually", URL: https://badlands.substack.com/p/badlands-news-brief-855
 38. Badlands Brief — "Posse Comitatus & Haggling with Hamas", URL: https://badlands.substack.com/p/badlands-news-brief-94b
 39. Badlands Brief — "Kingmakers, Rainmakers, & Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-95a
+40. Badlands News Brief — "Embattled Mayors, Peacemakers & Signal Setters", URL: https://badlands.substack.com/p/badlands-news-brief-9b2
+41. Badlands Brief — "Badlands News Brief: The Uniparty Celebrates as Warmongers Grow Desperate", URL: https://badlands.substack.com/p/badlands-news-brief-a57
+42. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38
+43. Badlands Brief — "Badlands News Brief: The Simulation Gets Very ... Very Weird", URL: https://badlands.substack.com/p/badlands-news-brief-a9e
+44. Badlands Brief — "Badlands News Brief: Globalists Panic as Populism Takes Over the Zeitgeist", URL: https://badlands.substack.com/p/badlands-news-brief-adc
+45. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82

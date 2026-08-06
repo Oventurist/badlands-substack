@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [mining, commodities, drc, critical-minerals]
-sources: [raw/badlands-brief-abf.md, raw/badlands-news-brief-06e.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1ba.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-441.md]
+sources: [raw/badlands-brief-abf.md, raw/badlands-news-brief-06e.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1ba.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-441.md, raw/badlands-news-brief-a31.md]
 confidence: medium
 ---
 
@@ -55,6 +55,10 @@ With those penalties, Glencore had paid at least $1.7 billion to resolve bribery
 
 Citing a 2018 Bloomberg feature, the commentary held that Gertler, Mistakidis, and Glasenberg worked closely together to exploit the Congolese people in their mining operations, with Mistakidis serving as a board member for [[katanga-mining|Katanga Mining]] — Gertler's company — as well as for [[mopani-mining|Mopani Copper Mines Limited]], lawfully acquired by International Resources Holding in March 2024.[6] IRH is a UAE company owned by [[mohamed-bin-zayed-al-nahyan|Mohammed bin Zayed]], a close ally of Saudi Crown Prince Mohammed bin Salman.[6] Noting that although Glasenberg is a South African citizen his father was a Jew born in Lithuania, the writer argued from his study of the Israeli Mafia and the international cartel that the link to Israeli oligarchs such as Gertler was not coincidental, and concluded that Africa was being liberated from globalist oligarchs.[6]
 
+## Cited in 2025 Venezuela commentary
+
+Badlands commentary on the August 2025 U.S. reward offer for Venezuelan President [[nicolas-maduro|Nicolás Maduro]] pointed to former Glencore oil chief [[alex-beard|Alex Beard]], arrested in Britain in 2024 on corruption charges tied to Venezuelan oil schemes run against Maduro's government, as an example of the commodity-trading interests aligned against Caracas.[7]
+
 ## References
 1. Badlands Brief — "Long-Term Legal Remedies & A Reboot of Russian Relations", URL: https://badlands.substack.com/p/badlands-brief-abf
 2. Badlands Brief — "Badlands News Brief: Fake Electionception, Sovereign Alliance Digs & Chick Fights", URL: https://badlands.substack.com/p/badlands-news-brief-06e
@@ -62,3 +66,4 @@ Citing a 2018 Bloomberg feature, the commentary held that Gertler, Mistakidis, a
 4. Badlands Brief — "Badlands News Brief: TrumpaMania Reigns ... with a Russian Twist", URL: https://badlands.substack.com/p/badlands-news-brief-1ba
 5. Badlands Brief — "Badlands News Brief: Military in Memphis & Patrols in Poland", URL: https://badlands.substack.com/p/badlands-news-brief-1ed
 6. Badlands News Brief — "Kamala Takes the Cheese as Things Get Weird Out East", URL: https://badlands.substack.com/p/badlands-news-brief-441
+7. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31

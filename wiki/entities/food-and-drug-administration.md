@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [agency, fda, medical-devices, regulation]
-sources: [raw/badlands-brief-2c5.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-58c.md, raw/badlands-news-brief-908.md]
+sources: [raw/badlands-brief-2c5.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-58c.md, raw/badlands-news-brief-908.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a61.md]
 confidence: low
 ---
 
@@ -89,7 +89,16 @@ On Wednesday, November 6, 2024, the day after [[donald-trump|Donald Trump]]'s el
 
 In early February 2023 a coalition of experts known as the [[coalition-advocating-for-adequately-labeled-medicines|Coalition Advocating for Adequately Labeled Medicines]] petitioned the FDA to update the labels of the [[pfizer|Pfizer]] and [[moderna|Moderna]] COVID-19 vaccines to acknowledge limitations of their clinical trials, including a clear statement that the phase III trials leading to clearance did not provide evidence of efficacy against death.[15] The petition was signed by [[peter-doshi|Peter Doshi]], an associate professor at the University of Maryland School of Pharmacy specializing in clinical trials, and eight other experts, who warned that "incomplete, inaccurate, or misleading labeling of any medical product can negatively impact the health and safety of Americans, with global ramifications considering the international importance of FDA decisions."[15] The agency had authorized the vaccines in late 2020 and approved them in 2021, and its own website still stated that "the scientific community does not yet know" whether the vaccines reduce transmission.[15] Badlands contributor [[burning-bright|Burning Bright]] read the petition as one more front opened against [[big-pharma|Big Pharma]] in the Exposure Phase of the [[great-awakening|Great Awakening]], to be followed by a legal Disclosure Phase and eventually justice.[15]
 
+## Novavax restriction (May 2025)
+
+Under Health and Human Services Secretary [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]], the FDA approved the [[novavax|Novavax]] COVID-19 vaccine but with strict conditions, limiting it to older people and to those over 12 with at least one high-risk medical condition.[16] The restrictions bar administration to healthy people who might seek the shot to protect others, including healthy people over 65 with immunocompromised household members.[16]
+
+## 2023 Children's Health Defense lawsuit
+
+On January 26, 2023, the nonprofit [[childrens-health-defense|Children's Health Defense]] sued the FDA in federal court in Washington, alleging that the agency was violating federal law by withholding the results of key COVID-19 vaccine safety analyses.[17] The suit sought the raw results of the FDA's analyses of reports made to the [[vaccine-adverse-event-reporting-system|Vaccine Adverse Event Reporting System]], which the agency operates jointly with the [[centers-for-disease-control-and-prevention|Centers for Disease Control and Prevention]] to collect post-vaccination adverse events.[17] Badlands contributor [[ryan-delarme|Ryan DeLarme]] argued that regulatory agencies such as the FDA were the most critical link in the pandemic chain because the majority of their funding derives from the pharmaceutical companies whose products they review.[17]
+
 ## References
+
 
 1. Badlands Brief — "Bioweapons Sneak Into the News Cycle as Israeli Shenanigans Ensue", URL: https://badlands.substack.com/p/badlands-brief-2c5
 2. Badlands Brief — "The Reckoning of Fake Elections, Fake Wars and Fake Allies", URL: https://badlands.substack.com/p/badlands-brief-b62
@@ -106,3 +115,5 @@ In early February 2023 a coalition of experts known as the [[coalition-advocatin
 13. Badlands News Brief — "COVID Coverups, Globalist Schemes and Epstein's Shadow", URL: https://badlands.substack.com/p/badlands-news-brief-580
 14. Badlands Brief — "Badlands News Brief: The Winds of Change Approach DC …", URL: https://badlands.substack.com/p/badlands-news-brief-58c
 15. Badlands Brief — "Badlands News Brief: Satanic Idols, COVID Crimes & Twitter's Sins", URL: https://badlands.substack.com/p/badlands-news-brief-908
+16. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
+17. Badlands News Brief — "Big Pharma, Big Lies and Big Boomerangs", URL: https://badlands.substack.com/p/badlands-news-brief-a61

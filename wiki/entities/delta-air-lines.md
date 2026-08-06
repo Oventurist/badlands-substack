@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [aviation, corporations, immigration]
-sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-321.md]
+sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-a3c.md]
 confidence: low
 ---
 
@@ -22,7 +22,14 @@ A Delta Air Lines pilot was detained by federal agents moments after landing at 
 
 Before anyone could leave, about ten federal agents — including officers from [[homeland-security-investigations|Homeland Security Investigations]] — boarded the full plane and, according to one passenger, "stormed the cockpit, cuffed the co-pilot, arrested him, walked him down the aisle, and ushered him off the plane."[2] The reason for the arrest remained unclear.[2] The episode was reported as an [[immigration-and-customs-enforcement|ICE]] action.[2]
 
+## CrowdStrike outage and threatened litigation (July 2024)
+
+Delta was among the companies most severely affected by the July 2024 global information technology outage caused by a faulty [[crowdstrike|CrowdStrike]] software update, cancelling more than 4,000 flights.[3] On July 31, 2024, chief executive [[ed-bastian|Ed Bastian]] said the outage had cost the airline $500 million and announced that Delta would seek damages, telling CNBC's "Squawk Box," "We have no choice."[3]
+
+Bastian argued that vendors with privileged access to Delta's technology ecosystem must test their software: "You can't come into a mission critical 24/7 operation and tell us we have a bug."[3] He cited obligations to shareholders, customers and employees, and pointed to reputational as well as direct financial damage.[3] Commentary in the Badlands News Brief treated the prospective suit as a means of keeping CrowdStrike's broader critical-infrastructure vulnerabilities in public view.[3]
+
 ## References
 
 1. Badlands Media — "Badlands News Brief: MAGA Gets Branded as Biden Bungles Everything", URL: https://badlands.substack.com/p/badlands-news-brief-07e
 2. Badlands Brief — "A Thousand Rabbis, Failing Firewalls, & the Loss of a Legend", URL: https://badlands.substack.com/p/badlands-news-brief-321
+3. Badlands Brief — "Badlands News Brief: Escalation, Litigation & Sovereign Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a3c

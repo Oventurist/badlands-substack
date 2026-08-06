@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [doj, prosecutors, new-york, corruption, rico]
-sources: [raw/badlands-news-brief-10a.md, raw/badlands-news-brief-601.md]
+sources: [raw/badlands-news-brief-10a.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-9b2.md]
 confidence: medium
 ---
 
@@ -23,6 +23,11 @@ Badlands Media commentary characterized the sequence as the opening of a "public
 
 Following the September 2024 unsealing of the federal corruption indictment against New York City Mayor [[eric-adams|Eric Adams]] by Manhattan prosecutors, Badlands writer Burning Bright argued that [[rudy-giuliani|Rudy Giuliani]]'s first public comment on the case — a Newsline appearance urging that Adams not be convicted before trial — put the spotlight firmly on the Southern District of New York, emphasizing past over present.[2] Giuliani, a former U.S. Attorney for the district, "knows where the bodies are buried in the SDNY better than anyone," Burning Bright wrote, and more importantly knows who buried them: district attorneys, commissioners, mayors, and governors.[2] In this reading, some of the most gravitational cases of the Information War have orbited the district, from Ghislaine Maxwell to Sean Combs, while the oldest such narrative emanating from the SDNY concerns Anthony Weiner, an infamous laptop, and the conduct of the NYPD.[2] Burning Bright compared the arc to The Dark Knight, in which Commissioner Gordon fakes his own death to map a criminal syndicate reaching to the governor's office, arguing that stories act as templates for mapping in the collective mind.[2]
 
+## Adams and Combs prosecutions (2024)
+
+In September 2024 the district was the venue for two high-profile prosecutions running in parallel: the bribery and fraud indictment of New York City mayor [[eric-adams|Eric Adams]], unsealed on September 26 after a months-long investigation into alleged foreign campaign donations from Turkish entities, and the federal case against [[sean-combs|Sean Combs]].[3] US Attorney [[damian-williams|Damian Williams]], asked whether other celebrities might be charged in the Combs matter, said that "nothing is off the table."[3] Badlands Media commentary drew attention to the coincidence of both cases arising in the same district and sharing a common thread of alleged corruption, describing the exposure of organized crime usurping public trust shortly before a national election as a welcome development.[3]
+
 ## References
 1. Badlands Brief — "Problems Litter the Game Board; But Solutions Are Coming ...", URL: https://badlands.substack.com/p/badlands-news-brief-10a
 2. Badlands Brief — "Badlands News Brief: Peacemakers Come in Many Forms …", URL: https://badlands.substack.com/p/badlands-news-brief-601
+3. Badlands News Brief — "Embattled Mayors, Peacemakers & Signal Setters", URL: https://badlands.substack.com/p/badlands-news-brief-9b2

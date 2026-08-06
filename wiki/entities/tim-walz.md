@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [minnesota, national-guard, immigration, ice]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-144.md, raw/badlands-brief-577.md, raw/badlands-brief-db7.md, raw/badlands-brief-e8d.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-69d.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-889.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-144.md, raw/badlands-brief-577.md, raw/badlands-brief-db7.md, raw/badlands-brief-e8d.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-69d.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-ac8.md]
 confidence: medium
 ---
 
@@ -98,6 +98,14 @@ Walz appeared beside [[kamala-harris|Kamala Harris]] for the Democratic ticket's
 
 Walz appeared beside [[kamala-harris|Kamala Harris]] for the Democratic ticket's first joint televised interview on August 29, 2024, conducted by CNN's [[dana-bash|Dana Bash]].[14] Badlands Media described him as sitting deferentially through the segment and remaining largely silent except when defending his own record, summarized in his statement, "People know who I am."[14]
 
+## Cited among 2024 ticket vulnerabilities
+
+In commentary on the [[october-surprise|October surprise]] phenomenon published on October 16, 2024, Badlands contributor Ashe in America listed Walz among the Democratic ticket's outstanding liabilities, writing that he "provably lied on his resume and is accused of stolen valor — and much worse," alongside allegations that [[kamala-harris|Kamala Harris]] plagiarized her book and faked Black relatives.[15] She contrasted these unexploited vulnerabilities with the repeated attacks on [[donald-trump|Donald Trump]], which she characterized as fabricated scandals, a weaponized justice system, and assassination attempts.[15]
+
+## Electoral College remarks (October 2024)
+
+At two West Coast fundraisers in October 2024, Walz — then the Democratic Party's vice presidential nominee — suggested that the [[electoral-college|Electoral College]] should be abolished.[16] Speaking to donors in Seattle, he said the system "puts a few states in real focus" and described himself as "a national popular vote guy," while conceding "that's not the world we live in."[16] In Sacramento later that day he was blunter: "I think all of us know, the Electoral College needs to go. We need a national popular vote," before again acknowledging the existing rules and stressing the need to win Beaver County and York in Pennsylvania, western Wisconsin and Reno, Nevada.[16] The [[donald-trump|Trump]] campaign responded on X that the remarks showed Walz hates the U.S. Constitution.[16]
+
 ## References
 
 1. Badlands Brief — "Somali Shatterpoints, Cartel Countermeasures, & Erosion of the World Order", URL: https://badlands.substack.com/p/badlands-brief-094
@@ -114,3 +122,5 @@ Walz appeared beside [[kamala-harris|Kamala Harris]] for the Democratic ticket's
 12. Badlands Brief — "Afghanis Activate, Witch Hunts End, & Hitler Launches Re-Election Campaign", URL: https://badlands.substack.com/p/badlands-news-brief-747
 13. Badlands Brief — "Badlands News Brief: “Terrifying” Trade Alliances, Pedagogue Payouts, & A Bondi Barn Burner", URL: https://badlands.substack.com/p/badlands-news-brief-7bb
 14. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889
+15. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71
+16. Badlands Brief — "Storms both Real and Political Converge in October", URL: https://badlands.substack.com/p/badlands-news-brief-ac8

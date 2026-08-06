@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [election-law, democrats, shadow-cabal, obama-administration]
-sources: [raw/badlands-brief-029.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a9a.md]
 confidence: medium
 ---
 
@@ -24,5 +24,17 @@ In June 2026 Eisen was among the experts convened by Senate Minority Leader [[ch
 
 [[ashe-in-america|Ashe in America]] wrote that "the current shadow cabal and 2020 shadow cabal are both the brain-children of Norm Eisen and his minions," treating his recurring presence as evidence that the [[shadow-cabal|2026 effort]] is a continuation rather than a coincidence.[1]
 
+## Reaction to the March 2024 Fulton County ruling
+
+After Judge Scott McAfee quashed six counts of the Georgia election interference indictment on March 13, 2024, Eisen suggested the development indicated McAfee was leaning toward keeping District Attorney Fani Willis on the case, while admitting the lean was slight and the outcome still essentially a toss-up.[2] His reading was contrasted in Badlands coverage with that of CNN analyst Elie Honig, who characterized the same ruling as an embarrassing screwup for Willis.[2]
+
+## Alleged role in litigation against the second Trump administration
+
+Reporting compiled by Joe Hoft in June 2025 held that activist judges had halted [[donald-trump|President Trump]]'s agenda at least 181 times in a four-month span, amounting to more than half of the administration's agenda being temporarily blocked.[3] The account asserted that Eisen had boasted of being behind 152 of those efforts to derail or slow the Trump agenda, and that such judicial rulings would be impossible without the underlying cases being filed.[3]
+
+Badlands contributor [[chris-paul|Chris Paul]] characterised the litigation campaign as "one big [[color-revolution|Color Revolution]]" detached from what he calls Reality Prime, arguing that the decisions should not be perceived as real in any meaningful way because "the abstraction does and will fall in the face of actual power."[3] He added that Eisen had been behind the [[january-6-committee|J6 hearings]] and the Trump indictments, describing them as fictions within a Color Revolution playbook that prosecutes media stories in hopes the public will reject Trump — a publicity campaign he judged to have failed.[3]
+
 ## References
 1. Badlands Brief — "Mixed Gender Crews, Trafficking Stings, & Shadow Cabal Reruns", URL: https://badlands.substack.com/p/badlands-brief-029
+2. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
+3. Badlands Brief — "Proxy Wars & The Prevention of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a9a

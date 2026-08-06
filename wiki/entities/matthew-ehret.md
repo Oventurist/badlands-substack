@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [journalism, badlands-media, canada, historiography]
-sources: [raw/a-re-alignment-of-world-systems.md, raw/a-new-american-renaissance.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/avoiding-wwiii.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/a-new-american-renaissance.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/avoiding-wwiii.md, raw/badlands-news-brief-a69.md]
 confidence: medium
 ---
 
@@ -36,8 +36,13 @@ The essay develops his recurring historical method of situating present events i
 
 In his 4 June 2024 Badlands essay "Avoiding WWIII: Reviving a Sane Manifest Destiny and Monroe Doctrine," Ehret argues that the origins of [[manifest-destiny|Manifest Destiny]] and the [[monroe-doctrine|Monroe Doctrine]] should not be discarded merely because "evil perverts justified evil things using them," and rejects both the reading of American history as all evil and the reading of it as all good.[4] He traces the republican strand of the doctrine from John Winthrop's 1630 "City on a Hill" speech through [[george-washington|George Washington]], [[benjamin-franklin|Benjamin Franklin]] and [[john-quincy-adams|John Quincy Adams]], and contrasts it with the southern perversion promoted by [[andrew-jackson|Andrew Jackson]], Jefferson Davis and Albert Pike.[4] He devotes substantial attention to rail development under [[abraham-lincoln|Lincoln]], to [[william-gilpin|William Gilpin]]'s *Cosmopolitan Railway*, to [[eco-colonialism|eco-colonialism]] and native reservations, and to the contemporary Eurasian revival of the doctrine through the [[belt-and-road-initiative|Belt and Road Initiative]], the [[polar-silk-road|Polar Silk Road]], the [[bering-strait-tunnel|Bering Strait Tunnel]] and the [[alaska-canada-railway|Alaska-Canada Railway]].[4]
 
+## Analysis of Canada and the central banking system
+
+Ehret, the Canadian co-host of Breaking History, has argued that [[mark-carney|Mark Carney]] is "perhaps the king of all central bankers" and was likely installed to defend Canada's surprising and largely hidden dominant position over the United States, a position rooted in Canada's high standing within the British Commonwealth.[5] He has also documented what he describes as subversive Deep State operations launched against the United States from Canada, including the plot that led John Wilkes Booth to assassinate President [[abraham-lincoln|Abraham Lincoln]].[5]
+
 ## References
 1. Badlands Brief — "A Re-Alignment of World Systems", URL: https://badlands.substack.com/p/a-re-alignment-of-world-systems
 2. Badlands Brief — "A New American Renaissance", URL: https://badlands.substack.com/p/a-new-american-renaissance
 3. Badlands Brief — "A Gateway to a New World of Cooperation", URL: https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation
 4. Badlands Brief — "Avoiding WWIII", URL: https://badlands.substack.com/p/avoiding-wwiii
+5. Badlands News Brief — "Shadow Feds, Activist Courts, & Lasting Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a69

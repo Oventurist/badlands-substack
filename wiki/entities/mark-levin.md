@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, pro-israel, first-amendment, talk-radio]
-sources: [raw/badlands-brief-095.md, raw/badlands-brief-25c.md, raw/badlands-brief-285.md, raw/badlands-brief-774.md, raw/badlands-brief-ac2.md, raw/badlands-brief-bb1.md, raw/badlands-brief-da2.md, raw/badlands-brief-f17.md, raw/badlands-brief-f87.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-763.md]
+sources: [raw/badlands-brief-095.md, raw/badlands-brief-25c.md, raw/badlands-brief-285.md, raw/badlands-brief-774.md, raw/badlands-brief-ac2.md, raw/badlands-brief-bb1.md, raw/badlands-brief-da2.md, raw/badlands-brief-f17.md, raw/badlands-brief-f87.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-763.md, raw/badlands-news-brief-a40.md]
 confidence: medium
 ---
 
@@ -72,6 +72,10 @@ At the [[white-house|White House]] Hanukkah party in December 2025, Levin appear
 
 The same commentary contended that ever since Trump's May visit to the Gulf Arab states, Levin has been engaged in subversive social media activity against the president, openly ridiculing moves to normalise relations with the Islamic world as well as with [[russia|Russia]] and [[vladimir-putin|Vladimir Putin]].[12] It cited a post Levin reposted on the Monday before appearing with Trump — insinuating that Trump is a traitor because of his relationship with [[qatar|Qatar]] — as evidence that Levin does not view the president with the reverence he publicly claims, and that Trump knows it.[12]
 
+## Role in the 2025 Carlson antisemitism dispute
+
+In June 2025, Levin amplified a *Jerusalem Post* story in which Christian Zionist leader [[laurie-cardoza-moore|Laurie Cardoza-Moore]] said [[tucker-carlson|Tucker Carlson]] had called to "beg" her for a public apology after she branded him an antisemite, posting it with what Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] described as a smug and unmemorable remark.[13] Levin was said to be gloating over Cardoza-Moore's request that President [[donald-trump|Donald Trump]] permanently ban Carlson from the [[white-house|White House]].[13] GhostofBasedPatrickHenry used the episode to argue that Levin and Cardoza-Moore exemplified an unbridled hubris among defenders of Israel that was metastasizing into totalitarianism, restating the Badlands position that "the NeoCons are Leftists, and always have been" and that they would destroy the life of anyone who defied them.[13] He closed the segment by sharing a clip of Carlson making fun of Levin.[13]
+
 ## References
 
 1. Badlands Brief — "Moves and Countermoves", URL: https://badlands.substack.com/p/badlands-brief-095
@@ -86,3 +90,4 @@ The same commentary contended that ever since Trump's May visit to the Gulf Arab
 10. Badlands Brief — "Badlands News Brief: Quantum Tunneling, Natural Conflicts, & Pirates for Gaza", URL: https://badlands.substack.com/p/badlands-news-brief-060
 11. Badlands Brief — "Badlands News Brief: Thumb Drive Theories & Early Dismissals", URL: https://badlands.substack.com/p/badlands-news-brief-168
 12. Badlands Brief — "Badlands News Brief: The Ice Maiden, A Command Overhaul, & A Thrice Jewish President", URL: https://badlands.substack.com/p/badlands-news-brief-763
+13. Badlands News Brief — "A Constellation of Corruption & A Goldilocks Galaxy", URL: https://badlands.substack.com/p/badlands-news-brief-a40

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [judiciary, new-york, trump-prosecutions, hush-money-case]
-sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-06e.md, raw/badlands-news-brief-384.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-4f8.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-808.md]
+sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-06e.md, raw/badlands-news-brief-384.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-4f8.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-adc.md]
 confidence: medium
 ---
 
@@ -64,6 +64,18 @@ As the Manhattan trial was set to open on Monday, April 15, 2024, Merchan denied
 
 Badlands writer [[burning-bright|Burning Bright]] read Trump's "Fake Biden Trial" framing as evidence of his mastery of [[narrative-warfare|narrative warfare]], arguing that those interpreting his rhetorical deployments at face value were reacting to the War of Stories in a manner consistent with the Deep State-controlled media industrial complex, and concluding that Trump was not trapped in the information war with his adversaries — "they're trapped in the Info War with him."[10]
 
+## Hush Money Sentencing After the 2024 Election
+
+Merchan postponed a sentencing hearing set for November 26, 2024, in the New York hush money case following [[donald-trump|Donald Trump]]'s reelection.[11] In a filing on November 19, 2024, prosecutors suggested they were open to postponing sentencing further, acknowledging that "consideration must be given" to pausing the case until the end of Trump's second presidential term in 2029.[11] Trump's lawyers had urged Merchan to throw the case out entirely "to facilitate the orderly transition of executive power" and had also requested a new trial, a decision on which remained pending.[11]
+
+## Loosening of the Trump gag order
+
+On June 25, 2024, Justice Merchan loosened the gag order in [[donald-trump|Donald Trump]]'s Manhattan criminal case, freeing the former president to criticize witnesses who testified against him, including [[michael-cohen|Michael Cohen]], and others involved in the seven-week trial he had presided over that spring.[12] He ruled that once Trump was sentenced on July 11 he could also publicly assail prosecutors and their relatives, while a separate order barring disclosure of juror identities or attacks on jurors by name remained in force.[12] Merchan appeared conflicted about allowing broad complaints about the jury, writing that "it would be this court's strong preference to extend those protections" but that he believed the law required him to drop the restrictions.[12]
+
+## Juror comment disclosure (June 2024)
+
+In early June 2024 Merchan provided the lawyers in the [[trump-hush-money-case|Trump hush money case]] with information about a comment posted on the court's Facebook page reading, "My cousin is a juror and says Trump is getting convicted. Thank you folks for all your hard work!!!" — a remark indicating that a juror may have disclosed a predetermined guilty verdict.[13] Conservative Treehouse called the public release "very sketchy," arguing that Merchan "doesn't have an integrity bone" and that the comment he chose to highlight was innocuous and random.[13] The outlet speculated that either something bigger was being diluted by the story, or Merchan was provoking [[donald-trump|Donald Trump]] into discussing jurors and thereby violating his gag order ahead of sentencing, or he was seeking to create a mistrial in order to exit the case or restart it with an extended gag order.[13]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Pedo Islands, Polling Panic & Cage Fights", URL: https://badlands.substack.com/p/badlands-news-brief-024
@@ -76,3 +88,6 @@ Badlands writer [[burning-bright|Burning Bright]] read Trump's "Fake Biden Trial
 8. Badlands Brief — "Trumpian Rug Pulls, Biden Whispers & NATO Panic", URL: https://badlands.substack.com/p/badlands-news-brief-6c4
 9. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
 10. Badlands News Brief — "Iranian Walk-backs, Trump Trials & Trans Truths", URL: https://badlands.substack.com/p/badlands-news-brief-808
+11. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6
+12. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
+13. Badlands Brief — "Badlands News Brief: Globalists Panic as Populism Takes Over the Zeitgeist", URL: https://badlands.substack.com/p/badlands-news-brief-adc

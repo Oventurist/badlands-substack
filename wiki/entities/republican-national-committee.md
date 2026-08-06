@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [republican-party, elections, litigation, arizona, 2022-midterms]
-sources: [raw/arizona-earthquake.md, raw/badlands-brief-169.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-4f8.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-8fd.md]
+sources: [raw/arizona-earthquake.md, raw/badlands-brief-169.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-4f8.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a57.md]
 confidence: low
 ---
 
@@ -56,6 +56,10 @@ Badlands commentary credited the committee for preparing in advance and apparent
 
 The RNC, together with the Michigan Republican Party and Chesterfield Township Clerk Cindy Berry, won a December 2025 ruling from a Michigan judge over the state's handling of absentee ballots with mismatched identification numbers.[10] The plaintiffs argued that such ballots must be rejected while voters are given a chance to cure the defect, and the court agreed that there is no legal authority to tabulate a mismatched ballot under any category.[10]
 
+## 2024 election integrity operation
+
+On April 19, 2024, [[donald-trump|Donald Trump]]'s presidential campaign and the RNC announced a massive "election integrity" operation, promising to deploy 100,000 volunteers and attorneys to battleground states to "protect the vote and ensure a big win" in November.[11] Officials said the volunteers and lawyers would monitor logic and accuracy testing, early voting, ballot tabulation, mail ballot processing and Election Day voting, as well as post-election canvasses, audits and recounts, with the release suggesting they might also recruit poll workers.[11] Trump said that "having the right people to count the ballots is just as important as turning out voters on Election Day," while RNC co-chair [[lara-trump|Lara Trump]] said the committee was hiring hundreds of election integrity staff across the map.[11]
+
 ## References
 
 1. Badlands Media — "Arizona Earthquake!", URL: https://badlands.substack.com/p/arizona-earthquake
@@ -68,3 +72,4 @@ The RNC, together with the Michigan Republican Party and Chesterfield Township C
 8. Badlands Brief — "Hacks Explain Hacks to other Hacks", URL: https://badlands.substack.com/p/badlands-news-brief-6aa
 9. Badlands Brief — "Israel Invades, MAGA Sues & Ports Close", URL: https://badlands.substack.com/p/badlands-news-brief-683
 10. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
+11. Badlands Brief — "Badlands News Brief: The Uniparty Celebrates as Warmongers Grow Desperate", URL: https://badlands.substack.com/p/badlands-news-brief-a57

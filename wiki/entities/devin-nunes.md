@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence, trump-media, congress, oversight]
-sources: [raw/badlands-brief-7c0.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-86f.md]
+sources: [raw/badlands-brief-7c0.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-a46.md]
 confidence: medium
 ---
 
@@ -36,9 +36,14 @@ In the $6 billion all-stock merger between [[trump-media-and-technology-group|Tr
 
 President-elect [[donald-trump|Donald Trump]] announced on Saturday, December 14, 2024 that Nunes would serve as chairman of the [[presidents-intelligence-advisory-board|President's Intelligence Advisory Board]], a body tasked with offering independent evaluations of the intelligence community's operations and planning.[4] Nunes, then leading Trump's social media platform [[truth-social|Truth Social]], was to continue as its chief executive while taking on the advisory position, according to Trump's post on the platform.[4] Trump wrote that Nunes would "draw on his experience as former Chairman of the House Intelligence Committee, and his key role in exposing the Russia, Russia, Russia Hoax, to provide me with independent assessments of the effectiveness and propriety of the U.S. Intelligence Community's activities."[4] As committee chair during Trump's first term, Nunes had accused the [[fbi|FBI]] of conspiring against Trump during its Russia investigation.[4] The same announcement named [[troy-edgar|Troy Edgar]] deputy secretary of homeland security and [[bill-white|Bill White]] U.S. ambassador to Belgium.[4]
 
+## Short-selling probe request (May 2024)
+
+As chief executive of [[trump-media-and-technology-group|Trump Media]], Nunes wrote to leading House committee chairmen in a letter dated Wednesday, May 1, 2024, urging them to investigate eight financial firms over concerns about potentially illicit [[short-selling|short selling]] of DJT shares, whose majority shareholder is [[donald-trump|Donald Trump]].[5] "I believe quick action is necessary to protect retail shareholders, identify wrongdoers, and determine whether any laws including [Racketeer Influenced and Corrupt Organizations Act] statutes and tax evasion laws have been violated," Nunes wrote, having first asked top House Republicans to launch a stock manipulation probe on April 24.[5] The eight firms he named were Apex Clearing, Clear Street, Cobra Trading, Cowen and Company, Curvature Securities, StoneX Securities, TradePro and Velocity Clearing, and he asked the committees to seek documents and testimony from each.[5] A spokesperson for Clear Street declined to comment on the letter.[5]
+
 ## References
 
 1. Badlands Brief — "Games of Chicken, Spirit Fails, & Rampant Satanism", URL: https://badlands.substack.com/p/badlands-brief-7c0
 2. Badlands News Brief — "Grand Conspiracies & Massive Reductions", URL: https://badlands.substack.com/p/badlands-news-brief-1e6
 3. Badlands Brief — "Fusion Mergers & Fusion-Adjacent Murders", URL: https://badlands.substack.com/p/badlands-news-brief-60c
 4. Badlands News Brief — "Media Apologies, Fake & Gay Drones and Trump Appointments", URL: https://badlands.substack.com/p/badlands-news-brief-86f
+5. Badlands Brief — "Very Fine Marxists and Chinese Finger Traps", URL: https://badlands.substack.com/p/badlands-news-brief-a46

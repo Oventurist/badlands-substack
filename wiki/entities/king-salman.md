@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [saudi-arabia, house-of-saud, monarchy]
-sources: [raw/arabian-nights.md, raw/badlands-news-brief-677.md]
+sources: [raw/arabian-nights.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-a82.md]
 confidence: low
 ---
 
@@ -26,6 +26,11 @@ Salman is the 25th son of the founder of Saudi Arabia, Abdulaziz bin Abdul Rahma
 
 Badlands commentary describes Salman as a notably strict father who made his children read one book a week and quizzed them on it, teaching diligence and punctuality; Mohammed bin Salman chose to attend school in Riyadh rather than European boarding schools in order to stay close to him.[2] The commentary anticipates that Salman's legacy will be as the great reformer who "drove out the zealots, rounded up the traitors, and liberated the people from the tyranny of radical Wahhabi Islam."[2] He is also credited as the host who gave [[donald-trump|Donald Trump]] the [[sword-dance|Sword Dance]], the seven-year anniversary of which fell in the same week.[2]
 
+## September 2015 White House visit
+
+King Salman traveled to Washington in September 2015, less than eight months into his reign, to discuss the recently signed Iran Nuclear Deal, accompanied by his son [[mohammed-bin-salman|Mohammed bin Salman]], then a 30-year-old defense minister.[3] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote that nobody expected the king's young son to play lead negotiator, but MBS spoke out of turn and clashed directly with President [[barack-obama|Barack Obama]] over the deal and over Wahhabism.[3]
+
 ## References
 1. Badlands Brief — "Arabian Nights", URL: https://badlands.substack.com/p/arabian-nights
 2. Badlands Brief — "Badlands News Brief: Globalists Threaten Their Own as Bidenomics Reigns", URL: https://badlands.substack.com/p/badlands-news-brief-677
+3. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82

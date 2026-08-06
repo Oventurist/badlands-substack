@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [energy, advocacy, nonprofit, autopen, biden-administration]
-sources: [raw/badlands-news-brief-652.md]
+sources: [raw/badlands-news-brief-652.md, raw/badlands-news-brief-a9a.md]
 confidence: medium
 ---
 
@@ -22,5 +22,10 @@ The orders identified in the review included an Arctic drilling ban issued in 20
 
 [[daniel-turner|Daniel Turner]], the group's founder and executive director, told Fox News Digital that "these are not obscure bureaucratic memos; these were foundational shifts in American energy policy, yet not once did Joe Biden speak about them publicly."[1]
 
+## June 2025 report and reaction
+
+Power the Future released a report in late May 2025 finding that at least eight major actions taken by [[joe-biden|President Biden]] were allegedly signed via autopen, covering climate and energy measures including the January 6 offshore drilling ban and the March 2023 arctic drilling ban.[2] Founder [[daniel-turner|Daniel Turner]] told Breitbart News Saturday that the findings amounted to "criminal" and "evil" evidence that members of the [[white-house|White House]] had acted without presidential authorization while Biden was in mental decline.[2] The nonprofit's conclusions were reinforced by a March 2025 report from the [[heritage-foundation|Heritage Foundation]]'s Oversight Project, which found the same autopen signature on essentially every document bearing Biden's signature during his presidency.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Cocaine & Climate Change", URL: https://badlands.substack.com/p/badlands-news-brief-652
+2. Badlands Brief — "Proxy Wars & The Prevention of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a9a

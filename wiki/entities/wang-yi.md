@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [china, diplomacy, foreign-policy, us-china-relations]
-sources: [raw/badlands-news-brief-1d7.md]
+sources: [raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-a7b.md]
 confidence: medium
 ---
 
@@ -22,5 +22,14 @@ Alongside the cooperation-or-conflict framing, Wang issued a warning on Taiwan �
 
 Badlands Media contributor [[burning-bright|Burning Bright]] argued that the public friction between Beijing and Washington masked "backend coordination" between what he called the devolved Trump administration and Xi Jinping, invoking [[jon-herold|Jon Herold]]'s [[devolution|Devolution Theory]] to explain the apparent contradiction of [[joe-biden|Joe Biden]] extending Trump-era China trade policies while Trump denounced him as "China Joe."[1] In that reading, the escalating rhetoric surrounding meetings such as Wang's with Blinken functions as managed theater for an observing public rather than as a genuine slide toward war.[1]
 
+## Response to the Israel-Hamas war (October 2023)
+
+In October 2023, Wang, as [[china|China]]'s foreign minister, urged the Israeli government to halt its military actions in [[gaza|Gaza]], saying [[israel|Israel]] had "gone beyond self-defense" in response to the surprise attack by [[hamas|Hamas]].[2] He delivered the message during a Saturday phone call with his [[saudi-arabia|Saudi Arabian]] counterpart, [[faisal-bin-farhan|Faisal bin Farhan Al Saud]], urging Israel to stop what he called the "collective punishment of civilians in Gaza," according to the readout from China's foreign ministry.[2]
+
+The conversation followed sharp criticism from the Israeli foreign ministry over Beijing's failure to condemn the Hamas attack on southern Israel, which killed over 1,000 civilians and saw up to 150 taken hostage.[2] The ministry said there had been "no clear and unequivocal condemnation of the terrible massacre," and that Israeli ambassador Rafi Harpaz had expressed "Israel's deep disappointment" to China's special envoy to the Middle East, Zhai Jun.[2]
+
+[[badlands-media|Badlands Media]] contributor [[burning-bright|Burning Bright]] argued that the alignment of Saudi Arabia, China, and [[russia|Russia]] behind de-escalation — against a Western bloc calling for escalation — was producing "narrative whiplash" in a public long told those three nations were evil.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Trump's Support, Durham's Return & Xi's Threats", URL: https://badlands.substack.com/p/badlands-news-brief-1d7
+2. Badlands Brief — "Badlands News Brief: A Potato Visits Israel; A Ukrainian Does Not ...", URL: https://badlands.substack.com/p/badlands-news-brief-a7b

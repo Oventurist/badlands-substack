@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, judiciary, conscription, haredi]
-sources: [raw/badlands-news-brief-4fd.md]
+sources: [raw/badlands-news-brief-4fd.md, raw/badlands-news-brief-a82.md]
 confidence: medium
 ---
 
@@ -18,5 +18,10 @@ In the summer of 2024 the court ruled that yeshiva students from the Haredi (ult
 
 Following the ruling, the ultra-Orthodox parties [[united-torah-judaism|United Torah Judaism]] and [[shas]] pressed Netanyahu to codify the exemption in legislation passed by the [[knesset]].[1] In the year after the decision, thousands of yeshiva students received draft letters; the Haredi parties objected that the exemption bill drafted by Netanyahu's committee excluded those students, leaving them exposed to prosecution as draft dodgers.[1] Badlands commentary identified the ruling as the origin point of the [[haredi-conscription-exemption-law]] fight, tying it to the near-collapse of Netanyahu's government in June 2025 and to the July 2025 move by IDF generals to begin drafting the 54,000 eligible yeshiva students.[1]
 
+## June 2024 ruling on ultra-Orthodox conscription
+
+On June 25, 2024, Israel's Supreme Court declared the long-held draft exemption for ultra-Orthodox men illegal and called on the government either to recruit them or to enact a law formally relieving them from conscription, a ruling that strained [[benjamin-netanyahu|Netanyahu]]'s coalition of nationalist and religious parties and left him with a host of bad options.[2] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] described the decision as reversing a decades-old practice under which rabbinic studies satisfied ultra-Orthodox men's service obligation to the Jewish state — an arrangement he said secular liberals had accepted because they did not want to share barracks with the "religious kooks" — and noted that it forced Netanyahu into a confrontation with ministers [[itamar-ben-gvir|Itamar Ben-Gvir]] and [[bezalel-smotrich|Bezalel Smotrich]], who had threatened to resign over conscription.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Autopens, AI Chips, & Astrological Assertions", URL: https://badlands.substack.com/p/badlands-news-brief-4fd
+2. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82

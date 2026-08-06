@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [taiwan, china, geopolitics, maritime-disputes, badlands-brief]
-sources: [raw/badlands-brief-25c.md, raw/badlands-brief-323.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-7d4.md, raw/badlands-news-brief-889.md]
+sources: [raw/badlands-brief-25c.md, raw/badlands-brief-323.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-7d4.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-9e7.md]
 confidence: medium
 ---
 
@@ -60,6 +60,16 @@ Taiwan was the central point of contention during US national security adviser [
 
 Taiwan was the central point of contention during US national security adviser [[jake-sullivan|Jake Sullivan]]'s August 2024 trip to Beijing.[8] Chinese Central Military Commission vice chairman [[zhang-youxia|Zhang Youxia]] told Sullivan that reunification with the mainland was the "mission and responsibility" of the [[peoples-liberation-army|People's Liberation Army]], and China's defense ministry publicly demanded that the United States "stop military collusion between the U.S. and Taiwan, stop arming Taiwan and stop spreading false narratives about Taiwan."[8]
 
+## December 2024 Chinese maritime surge
+
+In December 2024, Taiwan's Defense Ministry said China had fielded its largest regional maritime deployment in decades, as Taipei monitored a surge of Chinese military activity in the Taiwan Strait and Western Pacific.[9] Taiwan had been on high alert since Monday, December 9, bracing for expected military drills after President [[lai-ching-te|Lai Ching-te]] sparked Beijing's ire by making unofficial stops in Hawaii and the U.S. territory of Guam earlier that month.[9] Taipei reported multiple formations of Chinese naval and coast guard vessels moving in regional waters and around the strait, while Beijing neither announced drills nor acknowledged the deployment.[9]
+
+Lt. Gen. Hsieh Jih-Sheng, deputy chief of the General Staff for Intelligence, told a ministry briefing that an "astonishing" number of Chinese vessels had been deployed at a scale that "could block external forces," and said the [[peoples-liberation-army|People's Liberation Army]] deployment was not targeting Taiwan alone, with its geographic spread extending past the first island chain — the strategically significant chain encompassing Japan, Taiwan and parts of the Philippines and Indonesia that has long anchored U.S. primacy in the Pacific.[9] China's ruling Communist Party claims the self-governing democracy as its own territory despite never having controlled it, has not ruled out taking the island by force, and views unofficial interactions between Washington and Taipei as a violation of its sovereignty, while Taiwan's leadership rejects those territorial claims.[9]
+
+## $345 million U.S. military aid package (2023)
+
+In July 2023 the United States announced [[2023-us-military-aid-package-for-taiwan|$345 million in military aid for Taiwan]], the Biden administration's first major package drawn from America's own stockpiles to help the island counter [[china|China]].[10] The [[white-house|White House]] said the package would include defense, education and training, and according to two U.S. officials speaking anonymously it would provide man-portable air defense systems (MANPADS), intelligence and surveillance capabilities, firearms and missiles.[10] Taiwan's representative office in the United States called the drawdown "an important tool to support Taiwan's self-defense" and pledged to work with Washington to maintain "peace, stability and the status quo across the Taiwan Strait," while Chinese diplomats protested the move.[10]
+
 ## References
 
 1. Badlands Brief — "Elections are Fake; as is Trump's Friendship with Bibi", URL: https://badlands.substack.com/p/badlands-brief-25c
@@ -70,3 +80,5 @@ Taiwan was the central point of contention during US national security adviser [
 6. Badlands Brief — "Epstein Boomerangs & Bipartisan Bullsh*t", URL: https://badlands.substack.com/p/badlands-news-brief-6d2
 7. Badlands Brief — "Badlands News Brief: Funding Freezes, Russian Oil, & Imminent Exposes", URL: https://badlands.substack.com/p/badlands-news-brief-7d4
 8. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889
+9. Badlands Brief — "Wray Goes to Sleep, Syria Gets Weird and Xi Gets an Invite", URL: https://badlands.substack.com/p/badlands-news-brief-960
+10. Badlands Brief — "Archer's Testimony & Prussian Roulette", URL: https://badlands.substack.com/p/badlands-news-brief-9e7

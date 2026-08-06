@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [tariffs, china, trade, markets, decoupling]
-sources: [raw/badlands-news-brief-02a.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-398.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-6e6.md]
+sources: [raw/badlands-news-brief-02a.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-398.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-a9a.md]
 confidence: medium
 ---
 
@@ -66,9 +66,18 @@ On October 17, 2025, President [[donald-trump|Donald Trump]] signalled that his 
 
 Badlands contributor [[burning-bright|Burning Bright]] argued that Trump and Xi are not waging economic war against one another but against the [[deep-state|Deep State]], and that Trump is copying a playbook written by Putin.[5] On that reading, the two leaders are using the weapons of the enemy — sanctions, tariffs and supply chain chokepoints — repurposed from globalist tools of control into instruments of liberation, in a process he called the [[good-reset|Good Reset]].[5]
 
+## Bessent on a Trump–Xi call (June 2025)
+
+Treasury Secretary [[scott-bessent|Scott Bessent]] said on Sunday, June 1, 2025, that he was "confident" the U.S.–China trade dispute "will be ironed out" once [[donald-trump|President Trump]] and Chinese President [[xi-jinping|Xi Jinping]] spoke directly.[6] Asked on CBS's "Face the Nation with Margaret Brennan" about a call between the two leaders, Bessent said, "I believe we'll see something very soon."[6]
+
+The remarks followed Trump's statement the previous Friday that China was violating its trade agreement with the United States, an accusation he did not substantiate with specifics, and came weeks after the two governments agreed to a temporary easing of the tariffs imposed earlier in the year.[6] Trump said in April that he had spoken with his Chinese counterpart about tariffs, but Beijing denied that any direct conversation took place; although Trump had vowed since taking office in January to speak with Xi, no formal plans had been announced.[6]
+
+Badlands contributor [[burning-bright|Burning Bright]] grouped the episode with Trump's claim that his stance on Israel and Iran could change with "a phone call" and with a planned Trump–Putin call, arguing that backchannels already exist and that "the phone calls are vehicles for disclosure."[6]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: World Wealth Whiplash & The Most Secure Memorandum in History", URL: https://badlands.substack.com/p/badlands-news-brief-02a
 2. Badlands Brief — "Badlands News Brief: Terminations, Port Tensions, & Terrifically Terrifying Trade Wars", URL: https://badlands.substack.com/p/badlands-news-brief-364
 3. Badlands Brief — "Satellite Secrets, Spanish Sanctions, & Enslaved Scammers", URL: https://badlands.substack.com/p/badlands-news-brief-398
 4. Badlands Brief — "Badlands News Brief: Mandatory Deprogramming & Military Parades", URL: https://badlands.substack.com/p/badlands-news-brief-574
 5. Badlands Brief — "Familiar Formulas, Blue Skies, & Antisemitic Nonchalance", URL: https://badlands.substack.com/p/badlands-news-brief-6e6
+6. Badlands Brief — "Proxy Wars & The Prevention of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a9a

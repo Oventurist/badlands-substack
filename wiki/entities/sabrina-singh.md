@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [pentagon, ukraine, kursk, us-policy, spokesperson]
-sources: [raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-960.md]
+sources: [raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-a61.md]
 confidence: medium
 ---
 
@@ -32,7 +32,12 @@ The meeting had been scheduled as the United States and Israel debated how to re
 
 On Wednesday, December 11, 2024, Singh, as [[pentagon|Pentagon]] Deputy Press Secretary, publicly rejected the claim by Republican Congressman [[jefferson-van-drew|Jefferson Van Drew]] of New Jersey that Iranian drones were flying over New Jersey skies.[3] "There is not any truth to that," she told reporters, adding: "There is no Iranian ship off the coast of the United States ... and there is no so-called 'mothership' launching drones towards the United States."[3] She also stated that the objects "were not US military drones" and that "these are not drones or activities from a foreign entity or foreign adversary."[3]
 
+## January 2023 F-16 briefing
+
+At a [[pentagon|Pentagon]] press briefing in late January 2023, Singh was pressed repeatedly on whether the United States would supply F-16 fighter jets to [[ukraine|Ukraine]] and declined to rule it out, saying only "we haven't announced other packages yet."[4] The exchange followed President [[joe-biden|Joe Biden]]'s announcement of 31 Abrams M1A2 tanks and public remarks by Ukrainian defence ministry adviser [[yuriy-sak|Yuriy Sak]] that fighter jets were "the next big hurdle."[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: The Deep State has a Rough Weekend", URL: https://badlands.substack.com/p/badlands-news-brief-5aa
 2. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
 3. Badlands Brief — "Wray Goes to Sleep, Syria Gets Weird and Xi Gets an Invite", URL: https://badlands.substack.com/p/badlands-news-brief-960
+4. Badlands News Brief — "Big Pharma, Big Lies and Big Boomerangs", URL: https://badlands.substack.com/p/badlands-news-brief-a61

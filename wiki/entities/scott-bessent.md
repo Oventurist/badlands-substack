@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [treasury, bessent, sanctions, venezuela, banking]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-169.md, raw/badlands-brief-577.md, raw/badlands-brief-6bf.md, raw/badlands-brief-6f4.md, raw/badlands-brief-959.md, raw/badlands-brief-b74.md, raw/badlands-brief-a1a.md, raw/badlands-brief-bdc.md, raw/badlands-brief-c07.md, raw/badlands-brief-da2.md, raw/badlands-brief-d17.md, raw/badlands-brief-e9a.md, raw/badlands-brief-f02.md, raw/badlands-brief-f62.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-80e.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-169.md, raw/badlands-brief-577.md, raw/badlands-brief-6bf.md, raw/badlands-brief-6f4.md, raw/badlands-brief-959.md, raw/badlands-brief-b74.md, raw/badlands-brief-a1a.md, raw/badlands-brief-bdc.md, raw/badlands-brief-c07.md, raw/badlands-brief-da2.md, raw/badlands-brief-d17.md, raw/badlands-brief-e9a.md, raw/badlands-brief-f02.md, raw/badlands-brief-f62.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-a64.md]
 confidence: medium
 ---
 
@@ -193,6 +193,30 @@ Bessent had said the United States was in talks with a handful of countries incl
 
 Separately, Badlands analysis of Trump's April 2025 escalation against [[jerome-powell|Jerome Powell]] argued that Bessent, alongside [[howard-lutnick|Howard Lutnick]], appeared far less concerned about short-term economic strife than about an end game of completely reordering and resetting global trade.[37]
 
+## Response to the Moody's downgrade (May 2025)
+
+Appearing on Meet the Press after [[moodys|Moody's]] stripped the United States of its last top rating, Bessent dismissed the move: "Moody's is a lagging indicator. I think that's what everyone thinks of credit agencies."[38] He noted that [[larry-summers|Larry Summers]], with whom he said he does not agree on everything, had said the same of the 2011 downgrade, and drew an analogy to [[sean-duffy|Sean Duffy]]'s comments on the air traffic control system: "we didn't get here in the past 100 days."[38] Bessent blamed "the Biden administration and the spending that we have seen over the past four years," said the administration had inherited a 6.7% deficit-to-GDP ratio — "the highest when we weren't in a recession, not in a war" — and pledged to bring spending down and grow the economy.[38]
+
+## February 2025: Kyiv mission
+
+In February 2025 Bessent was expected to become the first senior [[donald-trump|Trump]] administration official to visit Ukraine, traveling to Kyiv a day after Russia released an American prisoner in a development Trump called a positive signal for cease-fire talks.[39] The trip came amid anxiety in Kyiv and among American allies over whether U.S. support for the Ukrainian war effort would be maintained.[39]
+
+The administration had already sought an arrangement for the United States to secure rights to Ukrainian natural resources, including rare earth minerals, as a guarantee for further assistance.[39] Trump wrote on Truth Social that he was sending Bessent because "this war must and will end soon — too much death and destruction," and that the visit would address American assistance, which he said had cost billions "with too little to show" for it.[39] Trump summarized the mission bluntly: "Treasury's Bessent is going to Ukraine to make sure we get money back."[39] Ukrainian President [[volodymyr-zelensky|Volodymyr Zelensky]] welcomed the visit, saying, "We are already prepared for meetings with representatives of the United States — negotiations will begin soon."[39]
+
+## US-Ukraine minerals deal (February 2025)
+
+As Treasury Secretary, Bessent announced in late February 2025 that the United States and Ukraine had finalized their agreement on rare earths and other natural resources, and that [[volodymyr-zelensky|Volodymyr Zelensky]] was expected to sign the final document without further negotiation during a meeting with President [[donald-trump|Donald Trump]].[40] "The deal is done. President Zelensky is coming here to sign the deal tomorrow, so there is no more negotiation, there is nothing else," Bessent told Fox Business.[40] Trump had repeatedly said the United States wanted to "get back" the money it had spent on military and financial aid to Kiev through the minerals deal, while Zelensky had previously refused to sign without concrete U.S. security guarantees.[40]
+
+Bessent had traveled to Kiev earlier that month but returned without an agreement after Zelensky reportedly lashed out at him over a U.S. demand that Ukraine hand over 50% of its critical minerals as compensation for past aid; according to Financial Times sources, Zelensky's frustration boiled over in the closed-door meeting as Bessent pressed for an immediate signature.[40] Badlands commentary praised the hard-line posture as "power moves," noting that the package appeared to extend beyond rare earth minerals to oil and gas assets.[40]
+
+## Shadow Fed chair proposal
+
+Bessent first floated the concept of a [[shadow-fed-chair|"shadow" Fed chair]] the year before he became Treasury secretary — the idea that a successor to Federal Reserve Chair [[jerome-powell|Jerome Powell]] could be named far in advance of the end of Powell's term.[41] The proposal resurfaced in June 2025 when President [[donald-trump|Donald Trump]] said he would announce his pick "very soon," an unprecedented step in the central bank's 111-year history according to CNN.[41]
+
+## Three-Legged Stool Framework (2025)
+
+Badlands commentator [[ashe-in-america|Ashe in America]] cited Bessent in May 2025 as the clearest exponent of the argument that tariffs are only one component of [[donald-trump|Donald Trump]]'s economic agenda, with the Treasury Secretary repeatedly explaining that the different levers of American profitability work in concert with one another.[42] She summarized his framing of Trump's economic reform program as a "three-legged stool": cut spending intentionally while avoiding a recession, deregulate to jump-start the private sector, and reorder international trade through tariffs and related measures to bring back manufacturing.[42] Bessent's underlying diagnosis was quoted directly: "The U.S. doesn't have a revenue problem—we have a spending problem."[42] The argument was invoked in the context of the [[2025-april-consumer-price-index-report|April 2025 Consumer Price Index report]], which showed inflation slowing to 2.3 percent despite the year's tariff increases.[42]
+
 ## References
 
 1. Badlands Brief — "Arctic Escalation and Tropic Trouble for the Financial System", URL: https://badlands.substack.com/p/badlands-brief-02a
@@ -232,3 +256,8 @@ Separately, Badlands analysis of Trump's April 2025 escalation against [[jerome-
 35. Badlands Brief — "Trump Teases Saudi Trillions; Biden Bros Embezzled Billions", URL: https://badlands.substack.com/p/badlands-news-brief-745
 36. Badlands Brief — "Corruption Within Corruption & A Offer of Free Elections", URL: https://badlands.substack.com/p/badlands-news-brief-7e8
 37. Badlands Brief — "Badlands News Brief: Musical Fed Chairs, Salvadoran Chess, & Cocktails in the Clink", URL: https://badlands.substack.com/p/badlands-news-brief-80e
+38. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
+39. Badlands Brief — "Badlands News Brief: Rising Demand for DC Defenders & A Sovereign Spring Social", URL: https://badlands.substack.com/p/badlands-news-brief-a34
+40. Badlands Brief — "Badlands News Brief: Rug Pulled Reputations, Insubordination, & the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-a65
+41. Badlands News Brief — "Shadow Feds, Activist Courts, & Lasting Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a69
+42. Badlands Brief — "Badlands News Brief: Black Hat Nightmares & A Camelback Caravan of Confirmation", URL: https://badlands.substack.com/p/badlands-news-brief-a64

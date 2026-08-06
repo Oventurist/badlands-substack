@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republican, epstein-files, oversight]
-sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-311.md, raw/badlands-brief-733.md, raw/badlands-brief-8db.md, raw/badlands-brief-98d.md, raw/badlands-brief-eea.md, raw/badlands-brief-fd9.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-215.md, raw/badlands-news-brief-38f.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-592.md, raw/badlands-news-brief-73f.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-311.md, raw/badlands-brief-733.md, raw/badlands-brief-8db.md, raw/badlands-brief-98d.md, raw/badlands-brief-eea.md, raw/badlands-brief-fd9.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-215.md, raw/badlands-news-brief-38f.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-592.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-9cd.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a15.md]
 confidence: medium
 ---
 
@@ -84,6 +84,18 @@ Badlands contributor Jon Herold urged consistency, writing that people who had a
 In September 2025, Massie publicized survivors' fear of being sued for naming [[jeffrey-epstein|Jeffrey Epstein]]'s alleged abusers and proposed instead to name the accused himself on the House floor, where the Constitution's speech and debate clause confers immunity from legal liability.[13] Badlands contributor [[ashe-in-america|Ashe in America]] sharply criticized the plan, arguing that victims naming their abusers is one of the most legally protected circumstances in America and that a lawsuit would in fact be "a gift," opening discovery and a genuine path to justice.[13]
 
 She argued that Massie — reportedly joined by [[marjorie-taylor-greene|Marjorie Taylor Greene]] — would be airing what amounts to inadmissible hearsay with complete immunity and no regard for the rights of the accused, comparing the approach to a soap opera or influencer event rather than a legal proceeding.[13] Because there are consequences for false allegations in court but none for statements made on the House floor, she contended the stunt could sow further distrust in the Epstein story, make a fair trial impossible for anyone named, and ultimately preclude justice for the survivors who had called on [[congress|Congress]] to legislate the release of the remaining files.[13]
+## Opposition to the 2025 House rules package
+
+At the opening of the 119th Congress in January 2025, Massie was the lone Republican dissenter in the extended first round of voting that reelected Speaker [[mike-johnson|Mike Johnson]], after [[ralph-norman|Ralph Norman]] (R-SC) and Keith Self (R-TX) switched their votes to Johnson at the end.[15] He and [[marjorie-taylor-greene|Marjorie Taylor Greene]] then objected to the [[2025-house-rules-package|House rules package]], which the chamber adopted 215-209 and which raised the [[motion-to-vacate|motion-to-vacate]] threshold from one member to nine Republicans.[15] Massie's specific complaint concerned language queuing up a bill to impose sanctions over any [[international-criminal-court|International Criminal Court]] action against people such as Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]], writing on social media: "How did a bill to protect Netanyahu make it into the House rules package to be voted on immediately after the speaker vote? Where are our priorities?!"[15]
+
+## Interview with Tucker Carlson on Ukraine funding (December 2023)
+
+In December 2023 Massie sat down with [[tucker-carlson|Tucker Carlson]] to discuss the [[joe-biden|Biden]] administration's $106 billion aid package for Ukraine and Israel, which the two framed as funding for a "war they cannot win."[16] Asked why establishment lawmakers pressed for more Ukraine money, Massie said the [[military-industrial-complex|military-industrial complex]] thrives on the sale of "deadly munitions," enriching shareholders "some of whom are congressmen."[16] He noted that the head of the [[office-of-management-and-budget|Office of Management and Budget]] had written to Speaker [[mike-johnson|Mike Johnson]] imploring him to spend more in Ukraine in order to "revitalize our defense industrial base," attaching a list of states — Alabama, Ohio, Texas — that would receive manufacturing money.[16] Massie concluded that officials were "saying the quiet part out loud," since federal spending routed to Ukraine is "laundered back to the military-industrial complex" and enriches districts and stockholders.[16]
+
+## Opposition to the 2024 TikTok divestment bill
+
+Ahead of the House vote on the TikTok divestment bill on March 13, 2024, Massie took to the floor to argue against the measure, saying "there's some of us who feel that — intentionally, or unintentionally, this legislation to ban TikTok is actually a trojan horse."[17] He added that "some of us are concerned that there are First Amendment implications here. Americans have the right to view information, and don't need to be protected by the government from information."[17] The bill nevertheless passed 352-65-1, with fifteen Republicans and fifty Democrats voting against it.[17]
+
 ## References
 
 1. Badlands Brief — "A Virtual Smash & Grab & Another Impeachment Hoax", URL: https://badlands.substack.com/p/badlands-brief-0a2
@@ -100,3 +112,6 @@ She argued that Massie — reportedly joined by [[marjorie-taylor-greene|Marjori
 12. Badlands News Brief — "Unearthed Autopens, Inevitable Ceasefires, & 56 Human Kidneys", URL: https://badlands.substack.com/p/badlands-news-brief-541
 13. Badlands Brief — "Annexes, Envoys, & Warmongers", URL: https://badlands.substack.com/p/badlands-news-brief-592
 14. Badlands Brief — "Badlands News Brief: Escalation is the Name of the Game", URL: https://badlands.substack.com/p/badlands-news-brief-73f
+15. Badlands Brief — "Badlands News Brief: Energy Elevates Collaboration as the Senate Steals Centerstage", URL: https://badlands.substack.com/p/badlands-news-brief-9cd
+16. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
+17. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15

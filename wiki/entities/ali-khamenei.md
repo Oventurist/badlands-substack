@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [iran, supreme-leader, iran-war, middle-east]
-sources: [raw/badlands-brief-165.md, raw/badlands-brief-52f.md, raw/badlands-brief-7ed.md, raw/badlands-brief-774.md, raw/badlands-brief-8db.md, raw/badlands-brief-d9f.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-7c6.md]
+sources: [raw/badlands-brief-165.md, raw/badlands-brief-52f.md, raw/badlands-brief-7ed.md, raw/badlands-brief-774.md, raw/badlands-brief-8db.md, raw/badlands-brief-d9f.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-a38.md]
 confidence: medium
 ---
 
@@ -64,6 +64,16 @@ After Israel struck Iranian nuclear and military sites in Tehran on June 13, 202
 
 Following the death of President [[ebrahim-raisi|Ebrahim Raisi]] in May 2024, Khamenei faced a constitutionally mandated presidential election within 50 days and two options, each carrying risk.[11] He could open the field to all candidates from hard-liners to reformists, risking a competitive contest that might take [[iran|Iran]] in a direction he did not want, or he could again disqualify reformist rivals and even moderate, loyal opposition figures, risking the embarrassment of still lower turnout interpreted as a rebuke of his increasingly authoritarian state.[11]
 
+## Order for a direct attack on Israel (July 2024)
+
+According to a report on Wednesday, July 31, 2024, Khamenei commanded [[iran|Iranian]] forces to launch a "direct" attack against [[israel|Israel]], with three Iranian officials confirming the situation to The New York Times.[12] The order came hours after the assassination of [[hamas|Hamas]] leader [[ismail-haniyeh|Ismail Haniyeh]] in Tehran.[12] The White House had been unable to independently verify Haniyeh's death as of that Wednesday afternoon, while Tehran placed the blame on the [[israel-defense-forces|Israel Defense Forces]]; Israel had struck Beirut the previous day but neither claimed responsibility for nor denied the Haniyeh killing.[12]
+
+Khamenei's English-language X account said: "The criminal, terrorist Zionist regime martyred our dear guest in our territory and has caused our grief, but it has also prepared the ground for a severe punishment."[12]
+
+## Threats of retaliation, April 2024
+
+In a speech on April 10, 2024, Khamenei warned that the "evil regime" of [[israel|Israel]] "must be punished and will be punished" for the April 1 airstrike on the Iranian embassy compound in Damascus, which killed a senior general and six other officers of the [[islamic-revolutionary-guard-corps|Revolutionary Guards]].[13] The warning prompted U.S. officials to voice alarm over an imminent strike on Israeli interests and led President [[joe-biden|Joe Biden]] to pledge "ironclad" American support for Israel, while Israeli Foreign Minister [[israel-katz|Israel Katz]] replied that if Iran attacked from its own territory, Israel would strike Iran in return.[13]
+
 ## References
 
 1. Badlands Brief — "Trump Conducts the Chaos as the Uniparty Concentrates Fire", URL: https://badlands.substack.com/p/badlands-brief-165
@@ -77,3 +87,5 @@ Following the death of President [[ebrahim-raisi|Ebrahim Raisi]] in May 2024, Kh
 9. Badlands News Brief — "The Walz Cycle Consumes Itself as Tensions Pause", URL: https://badlands.substack.com/p/badlands-news-brief-0ad
 10. Badlands Brief — "Badlands News Brief: Musical Guard Troops & Immigration Crackdowns", URL: https://badlands.substack.com/p/badlands-news-brief-540
 11. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
+12. Badlands Brief — "Badlands News Brief: Escalation, Litigation & Sovereign Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a3c
+13. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [prosecutor, department-of-justice, hunter-biden, delaware]
-sources: [raw/badlands-news-brief-090.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-82f.md]
+sources: [raw/badlands-news-brief-090.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-9de.md, raw/badlands-news-brief-a82.md]
 confidence: medium
 ---
 
@@ -44,6 +44,20 @@ On September 5, 2024, [[hunter-biden|Hunter Biden]] entered a guilty plea to all
 
 In mid-September 2023 Weiss, as special counsel, indicted [[hunter-biden|Hunter Biden]] on three felony gun charges, with the possibility of additional tax charges still open — legal exposure that formed the backdrop to Biden's lawsuit against the [[internal-revenue-service|IRS]] days later.[6]
 
+## Opposition to Hunter Biden's subpoenas (December 2023)
+
+Badlands contributor [[just-human|Just Human]] reported in December 2023 that special counsel Weiss argued to the court that [[hunter-biden|Hunter Biden]] should not be permitted to subpoena documents and records from [[donald-trump|Donald Trump]], former attorney general William Barr, and former Justice Department officials Jeffrey Rosen and Richard Donoghue.[7] The filing came during the same week that House investigators pressed Hunter for a closed-door deposition and the [[biden-impeachment-inquiry|impeachment inquiry]] moved toward a formal authorizing vote.[7]
+
+## Collapse of the Hunter Biden plea agreement
+
+In August 2023, [[hunter-biden|Hunter Biden]] told a federal judge that the Justice Department was attempting to renege on a major part of the deal he had struck with Weiss's office — enrollment in a diversion program for gun offenders that he said granted him broad immunity from future federal prosecution.[8] The filing by Biden's lawyer Christopher Clark was the latest exchange in the back-and-forth between the two sides, with Weiss described as a Trump appointee leading the long-running investigation into the president's son's conduct.[8]
+
+Shortly after Attorney General [[merrick-garland|Merrick Garland]] elevated Weiss to special counsel, government lawyers said in court papers that they and Biden were at an impasse over plea negotiations and that no agreement had been reached.[8] Under the proposed deal Biden would have pleaded guilty to two tax misdemeanors and entered the diversion program to avert prosecution on a gun charge; after the two sides expressed drastically different views of the immunity provision at a Delaware hearing in July 2023, the judge placed the matter on hold.[8]
+
+## California tax case, 2024
+
+Following the June 2024 suspension of [[hunter-biden|Hunter Biden]]'s D.C. law license, Badlands contributor [[ashe-in-america|Ashe in America]] noted that Biden would be back in court in California that September, where Special Counsel David Weiss had also brought a tax crimes case against him.[9]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Hunter Hunted, Billionaire Boxing & Snopes Nopes", URL: https://badlands.substack.com/p/badlands-news-brief-090
 2. Badlands Brief — "Badlands News Brief: Democrats in Disarray as Globalists Bend the Knee", URL: https://badlands.substack.com/p/badlands-news-brief-099
@@ -51,3 +65,6 @@ In mid-September 2023 Weiss, as special counsel, indicted [[hunter-biden|Hunter 
 4. Badlands Brief — "Badlands News Brief: Narrative Shielding & Biden Bait", URL: https://badlands.substack.com/p/badlands-news-brief-204
 5. Badlands Brief — "A Not so Brief Full of Sovereign SIGNAL", URL: https://badlands.substack.com/p/badlands-news-brief-711
 6. Badlands Brief — "Badlands News Brief: Missing Planes, Missing Funds & Missing Metrics", URL: https://badlands.substack.com/p/badlands-news-brief-82f
+7. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
+8. Badlands Brief — "Badlands News Brief: The Establishment Goes Full RICO Against Trump", URL: https://badlands.substack.com/p/badlands-news-brief-9de
+9. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82

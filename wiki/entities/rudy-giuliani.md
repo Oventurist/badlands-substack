@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [republicans, regime-change, iran, commentary]
-sources: [raw/badlands-brief-e87.md, raw/badlands-news-brief-4ee.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-6c4.md]
+sources: [raw/badlands-brief-e87.md, raw/badlands-news-brief-4ee.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-a9e.md]
 confidence: medium
 ---
 
@@ -39,8 +39,15 @@ On Tuesday, July 2, 2024, Giuliani lost his license to practice law in New York,
 
 Badlands writer Ashe in America placed the disbarment in the context of the Supreme Court's [[presidential-immunity|presidential immunity]] ruling issued a day earlier, arguing that if Trump were immune from prosecution for official acts, "the bloodthirst of the regime will come for his team."[4] The commentary grouped Giuliani with John Eastman, Jeffrey Clark "and countless others in the club of collateral damage," predicting that the asymmetrical, politically motivated application of law being established as precedent would ultimately boomerang.[4]
 
+## Georgia election workers defamation verdict (December 2023)
+
+On Friday, December 15, 2023, a federal jury ordered Giuliani to pay more than $148 million to two Georgia election workers for falsely claiming they had committed ballot fraud in the 2020 presidential election.[5] The award comprised $75 million in punitive damages, $20 million to each plaintiff for emotional distress, and more than $16 million each for defamation.[5]
+
+Giuliani was in court as a federal judge read the verdict aloud; after adjournment the plaintiffs embraced while Giuliani, standing alone, packed a bag without looking up, according to NBC News.[5] Outside the courthouse he called the damages figure "absurd" and vowed to appeal.[5] The judgment was the latest in a series of legal blows tied to his service as top campaign lawyer for [[donald-trump|Donald Trump]] in efforts to reverse the 2020 result.[5]
+
 ## References
 1. Badlands Brief — "Poetic Agitprop, Cold War Reruns, & Kokomo From the Ropes", URL: https://badlands.substack.com/p/badlands-brief-e87
 2. Badlands Brief — "Badlands News Brief: Heightened Homohysteria, AI Scabs, & A Dutch Diddler", URL: https://badlands.substack.com/p/badlands-news-brief-4ee
 3. Badlands Brief — "Badlands News Brief: Peacemakers Come in Many Forms …", URL: https://badlands.substack.com/p/badlands-news-brief-601
 4. Badlands Brief — "Trumpian Rug Pulls, Biden Whispers & NATO Panic", URL: https://badlands.substack.com/p/badlands-news-brief-6c4
+5. Badlands Brief — "Badlands News Brief: The Simulation Gets Very ... Very Weird", URL: https://badlands.substack.com/p/badlands-news-brief-a9e

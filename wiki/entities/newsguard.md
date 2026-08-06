@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, misinformation, ratings, censorship]
-sources: [raw/badlands-news-brief-110.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-890.md]
+sources: [raw/badlands-news-brief-110.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-890.md, raw/badlands-news-brief-9c6.md]
 confidence: medium
 ---
 
@@ -34,7 +34,13 @@ Contributor Burning Bright added that NewsGuard had been candid about its own na
 
 In December 2024, following the shutdown of the State Department's [[global-engagement-center|Global Engagement Center]], Badlands contributor [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] reported that the GEC is connected to NewsGuard, which he described as the censorship organization that had sent a threatening letter to [[jon-herold|Jon Herold]] over Badlands Media content.[3]
 
+## FCC Scrutiny Under Brendan Carr (2024)
+
+In letters dated November 13, 2024, incoming [[federal-communications-commission|Federal Communications Commission]] chairman [[brendan-carr|Brendan Carr]] asked Google, Microsoft, Meta and Apple to disclose which of their products or services partnered with NewsGuard and whether customers were required to rely on it while using those services, with responses due by December 10.[4] Carr described NewsGuard as "Orwellian named" and said it, along with other fact-checking groups and ad agencies, had helped enforce one-sided narratives as part of a "censorship cartel."[4] The firm had already drawn criticism from congressional Republicans for allegedly labeling conservative outlets as more "risky" than liberal ones.[4] Badlands Media, which said it had itself been threatened by the organization, welcomed the scrutiny and credited [[mike-benz|Mike Benz]] with sustained public attention to the firm.[4]
+
 ## References
+
 1. Badlands Brief — "RON! Throws in the Towel as Globalists Panic", URL: https://badlands.substack.com/p/badlands-news-brief-110
 2. Badlands News Brief — "The Free Market of Ideas Condemns the Regime", raw/badlands-news-brief-363.md
 3. Badlands Brief — "Absurdity and MAGAMania as the Year Winds Down", URL: https://badlands.substack.com/p/badlands-news-brief-890
+4. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6

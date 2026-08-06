@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, oversight, republican-party, kentucky]
-sources: [raw/badlands-brief-144.md, raw/badlands-brief-1cd.md, raw/badlands-brief-314.md, raw/badlands-brief-6f4.md, raw/badlands-brief-e9e.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-8c5.md]
+sources: [raw/badlands-brief-144.md, raw/badlands-brief-1cd.md, raw/badlands-brief-314.md, raw/badlands-brief-6f4.md, raw/badlands-brief-e9e.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-9e7.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-ae3.md]
 confidence: medium
 ---
 
@@ -91,6 +91,28 @@ Commenting for [[badlands-media|Badlands Media]], [[burning-bright|Burning Brigh
 
 On February 22, 2023, Comer and other members of the [[house-oversight-committee|House Oversight Committee]] wrote to the Biden administration demanding an accounting of the billions of dollars [[congress|Congress]] had sent to [[ukraine|Ukraine]], amid growing questions over whether aid should continue at existing levels.[17] The letter sought a detailed record of where the funding had gone and what safeguards the administration had established against wasteful spending.[17] The request coincided with the [[department-of-defense-office-of-inspector-general|DoD Office of Inspector General]]'s disclosure that it was planning five potential oversight projects related to Ukraine.[17] [[badlands-media|Badlands Media]] contributor [[just-human|Just Human]] wrote that Comer's committee was "delivering on their promises" and that the effort tracked a broader shift in Congress and among the public against further [[ukraine-aid-funding-controversy|Ukraine aid]].[17]
 
+## Media rounds on the Archer testimony (July 2023)
+
+Ahead of [[devon-archer|Devon Archer]]'s repeatedly rescheduled appearance before the [[house-oversight-committee|House Oversight Committee]] in late July 2023, Comer told Fox News that Archer had the "opportunity to be a hero" in his testimony.[18] After the [[department-of-justice|Department of Justice]] filed on a Saturday to set a surrender date in Archer's unrelated criminal case, Comer did the media rounds on Sunday, casting the filing as further evidence of a weaponized DOJ "blocking and tackling" for what he characterized as a criminal in the [[white-house|White House]].[18]
+
+## Autopen comments (May 2025)
+
+Appearing on Fox News in May 2025 after the release of the [[robert-hur|Hur]] interview audio, Comer said that the interview — conducted "many, many months prior to the heavy use of the autopen" — showed that "Joe Biden wasn't capable of making decisions. He wasn't coherent."[19] His remarks were part of a broader Republican push to identify who controlled the [[autopen-scandal|autopen]] during [[joe-biden|Biden]]'s presidency.[19]
+
+## Subpoena fight with Hunter Biden (December 2023)
+
+Comer, the Kentucky Republican chairing the [[house-oversight-committee|House Committee on Oversight and Accountability]], rejected [[hunter-biden|Hunter Biden]]'s November 28, 2023 offer to testify publicly, insisting that any testimony occur behind closed doors.[20] Biden's attorney [[abbe-lowell|Abbe Lowell]] responded in December that the public-testimony offer had been made in reply to Comer's own remarks on at least three occasions, and that the committee used closed sessions "to manipulate, even distort, the facts."[20] Comer had in November subpoenaed Hunter Biden, the president's brother [[james-biden|James Biden]] and other family members and business associates for depositions and transcribed interviews — Hunter for December 13 and James for December 6 — as House Republicans moved toward a vote to formally authorize the [[biden-impeachment-inquiry|impeachment inquiry]] into President [[joe-biden|Joe Biden]].[20]
+
+## March 2024 hearing standoff with Hunter Biden
+
+Comer scheduled a public House Oversight Committee hearing for March 20, 2024 featuring Hunter Biden alongside several of his former business associates who had been critical of him, but Biden declined to attend.[21] Biden's attorney Abbe Lowell wrote to Comer citing a California court date and arguing that the scheduling conflict was "the least of the issues," conditioning any appearance on Comer also holding a hearing with relatives of former President Donald Trump about whom Comer had said he "would ask."[21] The demand referenced Hunter Biden's closed-door deposition, in which he had raised the Trump family's financial dealings.[21]
+
+Earlier in the dispute Biden had insisted he would testify only in a public hearing while Comer proposed a closed-door session first followed by a public one; Biden relented and sat for the deposition after House Republicans began moving to hold him in contempt of Congress for defying a subpoena, and the transcript was released in February 2024.[21]
+
+## November 2023 Biden family subpoenas
+
+In November 2023 Comer, as chairman of the [[house-oversight-committee|House Oversight Committee]], signed subpoenas for [[hunter-biden|Hunter Biden]] and [[james-biden|James Biden]] after weeks of evidence concerning cash transfers among Biden family members, and requested transcribed interviews with Sara Biden, Hallie Biden, Elizabeth Secundy, Melissa Cohen and [[tony-bobulinski|Tony Bobulinski]].[22] He said the committee had "followed the money and built a record of evidence revealing how Joe Biden knew, was involved, and benefited from his family’s influence peddling schemes," and insisted that "unlike the many lies President Biden told the American people about his family’s business schemes, bank records don’t lie."[22] Comer told Just the News that family members would be interviewed first and President [[joe-biden|Joe Biden]] last, warning that anyone defying the subpoenas would be held in contempt of Congress.[22] Badlands commentary dismissed the subpoena-signing photo op as "a silly made-for-TV moment" and evidence that the federal legislative branch is "largely ceremonial and meaningless," within the broader [[biden-family-influence-peddling-investigation|Biden family influence peddling investigation]].[22]
+
 ## References
 
 1. Badlands Brief — "MLKKK Day, Peace Boards and Power Paradigms", URL: https://badlands.substack.com/p/badlands-brief-144
@@ -110,3 +132,8 @@ On February 22, 2023, Comer and other members of the [[house-oversight-committee
 15. Badlands Brief — "Badlands News Brief: MAHA, Modi, Musk, & Munich", URL: https://badlands.substack.com/p/badlands-news-brief-7b8
 16. Badlands News Brief — "The Trump Hunt & the Biden Blitz", URL: https://badlands.substack.com/p/badlands-news-brief-88b
 17. Badlands Brief — "Badlands News Brief: Putin Postures, Voting Matters & J6 Subpoenas", URL: https://badlands.substack.com/p/badlands-news-brief-8c5
+18. Badlands Brief — "Archer's Testimony & Prussian Roulette", URL: https://badlands.substack.com/p/badlands-news-brief-9e7
+19. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
+20. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
+21. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
+22. Badlands Brief — "Badlands News Brief: Debates, Rallies ... and Deep State Implosions", URL: https://badlands.substack.com/p/badlands-news-brief-ae3

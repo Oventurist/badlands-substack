@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [politician, congress, republican, house-speaker]
-sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-05f.md, raw/badlands-brief-1ae.md, raw/badlands-brief-285.md, raw/badlands-brief-314.md, raw/badlands-brief-52f.md, raw/badlands-brief-ac2.md, raw/badlands-brief-fd9.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-215.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-365.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-752.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-8a4.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-9bc.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-05f.md, raw/badlands-brief-1ae.md, raw/badlands-brief-285.md, raw/badlands-brief-314.md, raw/badlands-brief-52f.md, raw/badlands-brief-ac2.md, raw/badlands-brief-fd9.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-215.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-365.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-752.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-8a4.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-9bc.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-9cd.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-a57.md]
 confidence: low
 ---
 
@@ -220,6 +220,30 @@ On Monday, November 11, 2024, Republicans were projected to keep control of the 
 
 Republicans saved vulnerable incumbents such as Representatives Don Bacon of Nebraska and David Valadao of California while defeating several vulnerable Democrats: state Representative Ryan Mackenzie unseated Representative Susan Wild of Pennsylvania, and businessman Rob Bresnahan defeated Representative Matt Cartwright of Pennsylvania.[44] Those gains offset GOP losses, including three first-term New York Republicans — Representatives Anthony D'Esposito, Marc Molinaro and Brandon Williams — and Representative Lori Chavez-DeRemer of Oregon, all of whom lost their reelection bids.[44]
 
+## Viral McDonald's Photograph (2024)
+
+Johnson stood in the background of the widely shared November 2024 photograph of [[donald-trump|Donald Trump]], [[elon-musk|Elon Musk]], [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] and Donald Trump Jr. eating McDonald's aboard Trump's plane after a UFC event in New York City.[45]
+
+## Reelection as Speaker and the 2025 rules package
+
+Johnson was reelected Speaker on Friday, January 3, 2025, at the opening of the 119th Congress, in an extended first round of voting; in a twist at the end, [[ralph-norman|Ralph Norman]] (R-SC) and Keith Self (R-TX) changed their votes to Johnson, leaving [[thomas-massie|Thomas Massie]] (R-KY) as the lone Republican dissenter.[46] The [[2025-house-rules-package|rules package]] followed immediately, passing 215-209 and raising the [[motion-to-vacate|motion-to-vacate]] threshold from a single member to nine members of the Republican conference — the low threshold that had enabled the ouster of then-Speaker [[kevin-mccarthy|Kevin McCarthy]].[46] The package also specified that once adopted, members would consider a dozen listed bills, the eighth of which would impose sanctions over any [[international-criminal-court|International Criminal Court]] effort to investigate, arrest, detain, or prosecute protected persons of the United States and its allies — the provision Massie and [[marjorie-taylor-greene|Marjorie Taylor Greene]] objected to as "a bill to protect Netanyahu."[46]
+
+Badlands writer [[ashe-in-america|Ashe in America]] called the maneuver "sneaky" and said Johnson's first act as Speaker in the new Congress looked a lot like his first term.[46]
+
+## Pressure over Ukraine funding (December 2023)
+
+In December 2023 the [[office-of-management-and-budget|Office of Management and Budget]] director wrote to Speaker Johnson urging additional spending on Ukraine in order to "revitalize our defense industrial base," a letter Rep. [[thomas-massie|Thomas Massie]] described in an interview with [[tucker-carlson|Tucker Carlson]].[47] Carlson questioned why the newly elected Speaker's first act would be to endorse the $106 billion Ukraine and Israel package, while Massie said he hoped Johnson would not.[47]
+
+## February 2024 shutdown deadline pressure
+
+By late February 2024, Johnson was under acute pressure as a two-phased government shutdown loomed absent a budget or spending stopgap by March 1.[48] Although he had told reporters "We think we're going to meet the deadlines," Axios reported that House Republicans were privately preparing for the worst, with one GOP lawmaker saying, "People are predicting a shutdown even if it's just for a few days," and a subcommittee chair describing the talks as either "close to reaching a deal or it's about to blow up."[48] A further trigger loomed on April 30, after which failure to agree a new budget would impose a 1% across-the-board spending cut, an outcome acceptable to some House conservatives and therefore one Democrats would not sign past.[48]
+
+Commentators noted that Johnson's options mirrored the trap that destroyed his predecessor [[kevin-mccarthy|Kevin McCarthy]]: either stage a shutdown fight with Democrats or pass a stopgap with Democratic votes.[48] [[ashe-in-america|Ashe in America]] wrote that she did not envy Johnson, who was "taking criticism from all sides while he stands with a minority of Congress, and a large majority of the American people, in opposition to looting the treasury," and predicted Republicans would ultimately cave to a national security supplemental funding conflicts in Ukraine, Israel/Gaza, Taiwan, and Sudan.[48]
+
+## April 2024 foreign aid package
+
+On April 20, 2024, Johnson worked with Democrats and overcame fierce objections from within his own party to pass $61 billion in fresh aid for Ukraine on a 311 to 112 bipartisan vote, ending a six-month impasse during which Kyiv's stockpiles had dwindled.[49] Bloomberg described the outcome as a victory for Republican defense hawks over the more isolationist wing of the party led by [[donald-trump|Donald Trump]], while House Democratic leader [[hakeem-jeffries|Hakeem Jeffries]] praised "traditional House Republicans led by Speaker Mike Johnson" for having "risen to the occasion."[49] Badlands commentary held that Johnson, like Kevin McCarthy before him, had inadvertently done "a stellar job exposing the controlled opposition dynamic" of the [[uniparty|Uniparty]].[49] The measure is covered in detail at [[april-2024-foreign-aid-package|the April 2024 foreign aid package]].[49]
+
 ## References
 
 1. Badlands Brief — "A Glaring Double Standard", URL: https://badlands.substack.com/p/a-glaring-double-standard
@@ -266,3 +290,8 @@ Republicans saved vulnerable incumbents such as Representatives Don Bacon of Neb
 42. Badlands Brief — "Badlands News Brief: The Corruption of Anti-Corruption & Obama Bites Back", URL: https://badlands.substack.com/p/badlands-news-brief-91b
 43. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951
 44. Badlands News Brief — "Trump's Avengers Assemble as Globalists Tremble", URL: https://badlands.substack.com/p/badlands-news-brief-9bc
+45. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6
+46. Badlands Brief — "Badlands News Brief: Energy Elevates Collaboration as the Senate Steals Centerstage", URL: https://badlands.substack.com/p/badlands-news-brief-9cd
+47. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
+48. Badlands Brief — "Badlands News Brief: Deadline Deals and Crime Families", URL: https://badlands.substack.com/p/badlands-news-brief-a29
+49. Badlands Brief — "Badlands News Brief: The Uniparty Celebrates as Warmongers Grow Desperate", URL: https://badlands.substack.com/p/badlands-news-brief-a57

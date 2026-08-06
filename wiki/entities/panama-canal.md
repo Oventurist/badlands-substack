@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [panama, shipping, geopolitics, trade, infrastructure]
-sources: [raw/badlands-news-brief-364.md, raw/badlands-news-brief-373.md, raw/badlands-news-brief-3a5.md]
+sources: [raw/badlands-news-brief-364.md, raw/badlands-news-brief-373.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-a72.md]
 confidence: medium
 ---
 
@@ -34,7 +34,12 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] highl
 
 On March 4, 2025, the Hong Kong-based conglomerate [[ck-hutchison|CK Hutchison]] agreed to sell the units operating ports near the canal to a consortium including [[blackrock|BlackRock Inc.]] in a $23 billion transaction, after President [[donald-trump|Donald Trump]] alleged Chinese interference with the operations of the critical shipping lane.[3] The consortium — BlackRock, Global Infrastructure Partners and Terminal Investment Limited — acquired 90% interests in Panama Ports Company, which owns and operates the ports of Balboa and Cristobal, as part of a broader portfolio of 43 ports in 23 countries.[3] See [[blackrock-panama-canal-ports-deal|the BlackRock Panama Canal ports deal]].[3]
 
+## Chinese block of the ports sale (March 2025)
+
+China held up the $23 billion sale of dozens of ports worldwide — including two key ports on the canal — to a group led by [[blackrock|BlackRock]] after President [[donald-trump|Donald Trump]] expressed concern about Beijing's sway over the strategic shipping lanes.[4] On March 4, 2025, [[ck-hutchison|CK Hutchison]], controlled by [[li-ka-shing|Li Ka-shing]], had announced plans to sell 43 port facilities globally — including critical ports at both ends of the canal and near the Suez Canal — for approximately $22.8 billion, but China's State Administration for Market Regulation unexpectedly opened an anti-monopoly investigation, effectively stalling the deal.[4] [[xi-jinping|Xi Jinping]] was reportedly angry that the company had not consulted Beijing beforehand, and insiders said Chinese leadership had hoped to leverage the port issue in talks with the Trump administration before being caught off guard by the deal's sudden progress.[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Terminations, Port Tensions, & Terrifically Terrifying Trade Wars", URL: https://badlands.substack.com/p/badlands-news-brief-364
 2. Badlands News Brief — "Shutdown Show Down & British Spies for Palestine", URL: https://badlands.substack.com/p/badlands-news-brief-373
 3. Badlands Brief — "Badlands News Brief: Inbound America: Terrorists, Trillions, & Diplomats", URL: https://badlands.substack.com/p/badlands-news-brief-3a5
+4. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72

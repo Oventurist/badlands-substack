@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [legislation, appropriations, immigration, ice, congress]
-sources: [raw/badlands-brief-71c.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7e5.md, raw/badlands-news-brief-95a.md]
+sources: [raw/badlands-brief-71c.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7e5.md, raw/badlands-news-brief-95a.md, raw/badlands-news-brief-a69.md]
 confidence: low
 ---
 
@@ -60,6 +60,10 @@ The nonpartisan [[congressional-budget-office|Congressional Budget Office]] proj
 
 Badlands contributor [[jon-herold|Jon Herold]] argued on the [[devolution-power-hour|Devolution Power Hour]] that Trump could strip the objectionable spending from the bill after the fact, citing heavy signal from [[russ-vought|Russ Vought]] and [[steve-bannon|Steve Bannon]] that the administration would use impoundments to rein in wasteful spending.[8] He pointed back to a June 20, 2023 [[agenda-47|Agenda 47]] video in which Trump said that "bringing back impoundment will give us a crucial tool with which to obliterate the deep state, drain the swamp, and starve the warmongers."[8]
 
+## Senate all-night session (June 2025)
+
+Debate on the package ran through an all-night Senate session on Sunday, June 29, 2025, as Republicans wrestled the bill of tax breaks and spending cuts past mounting Democratic opposition and some brake-pumping over budget slashing from the president himself.[9] GOP leaders rushed to meet Trump's Fourth of July deadline after barely securing enough support to clear a procedural hurdle the previous day; a handful of Republican holdouts revolted, and phone calls from Trump plus a visit from Vice President [[jd-vance|JD Vance]] were required to keep the effort on track.[9] Critics warned the bill would enlarge the deficit and leave millions uninsured, and Senator [[thom-tillis|Thom Tillis]] of North Carolina announced he would not seek reelection after Trump badgered him over his opposition to the Medicaid cuts.[9] Badlands contributor [[chris-paul|Chris Paul]] quipped that the left was arguing against government spending, deficits and taxes in the hope of peeling off Trump supporters, while instead converting their own base.[9]
+
 ## References
 1. Badlands Brief — "Persian Devolution, Minnesotan Maneuvers & Chinese Checkers", URL: https://badlands.substack.com/p/badlands-brief-71c
 2. Badlands Brief — "Badlands News Brief: IC Ignitions & Double Detonations", URL: https://badlands.substack.com/p/badlands-news-brief-1a0
@@ -69,3 +73,4 @@ Badlands contributor [[jon-herold|Jon Herold]] argued on the [[devolution-power-
 6. Badlands News Brief — "The Bilateral Bromance & A Misled Grand Jury", URL: https://badlands.substack.com/p/badlands-news-brief-7bf
 7. Badlands Brief — "Badlands News Brief: Cartel Cybersnoops & Teenage Spider Hackers", URL: https://badlands.substack.com/p/badlands-news-brief-7e5
 8. Badlands Brief — "Kingmakers, Rainmakers, & Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-95a
+9. Badlands News Brief — "Shadow Feds, Activist Courts, & Lasting Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a69

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [elections, georgia, 2020-election]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-695.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-8bd.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-695.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-a15.md]
 confidence: low
 ---
 
@@ -40,9 +40,14 @@ On Election Day, November 5, 2024, Raffensperger — as Georgia secretary of sta
 
 A spokesman for Raffensperger's office, Mike Hassinger, struck a more cautious note, saying by text message that "the source of the threats is being investigated" and adding: "It's unconfirmed. Looks like Russia, but could also be somebody spoofing Russia."[5]
 
+## Phone call counts dismissed, March 2024
+
+On March 13, 2024, Fulton County Superior Court Judge Scott McAfee quashed six counts of the Georgia 2020 election interference indictment, among them the charges arising from Donald Trump's phone call to Raffensperger, along with counts related to the defendants' oaths of office.[6] Badlands writer Ashe in America observed that while the RICO charge remained in place and the case was proceeding, the phone call had been arguably the strongest part of the state's case, making its removal significant.[6]
+
 ## References
 1. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
 2. Badlands Brief — "Election Bombshells, Peace Board Bangers, & Clintons in Contempt", URL: https://badlands.substack.com/p/badlands-brief-695
 3. Badlands News Brief — "Terror at Home and Abroad ...", URL: https://badlands.substack.com/p/badlands-news-brief-1d1
 4. Badlands Brief — "Badlands News Brief: Election Fraud Starts Early While the CIA Whines", URL: https://badlands.substack.com/p/badlands-news-brief-3bc
 5. Badlands Brief — "Badlands News Brief: A New Golden Age Begins ...?", URL: https://badlands.substack.com/p/badlands-news-brief-8bd
+6. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [hush-money-case, trump-prosecutions, new-york, 2016-election]
-sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-3c1.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-83b.md]
+sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-3c1.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-9e8.md]
 confidence: medium
 ---
 
@@ -44,6 +44,10 @@ Following the close of the defense case in [[donald-trump|Donald Trump]]'s New Y
 
 Comedian [[bill-maher|Bill Maher]] was unimpressed by Daniels' testimony in the New York criminal trial of [[donald-trump|Donald Trump]], telling a "Real Time" panel that "She's a bad witness!"[7] Noting that the Georgia and classified documents prosecutions had stalled, Maher quipped, "So it's Stormy or bust."[7]
 
+## 2016 Hush-Money Payment
+
+The alleged 2016 payment of $130,000 in hush money to Stormy Daniels, made by [[donald-trump|Donald Trump]]'s then-personal attorney [[michael-cohen|Michael Cohen]] and later reimbursed by Trump, formed the basis of Manhattan District Attorney [[alvin-bragg|Alvin Bragg]]'s expected March 2023 indictment.[8] Trump has denied claims that he had an affair with Daniels in the early 2000s.[8] Trump attorney [[joe-tacopina|Joe Tacopina]] stressed that Trump never paid Daniels directly, saying "the payments were made to a lawyer, not to Stormy Daniels," while an MSNBC host countered that the money Trump paid Cohen ultimately went to Daniels.[8]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Pedo Islands, Polling Panic & Cage Fights", URL: https://badlands.substack.com/p/badlands-news-brief-024
@@ -53,3 +57,4 @@ Comedian [[bill-maher|Bill Maher]] was unimpressed by Daniels' testimony in the 
 5. Badlands Brief — "Trumpian Trials, Proxy State Shenanigans & Vax Backtracks", URL: https://badlands.substack.com/p/badlands-news-brief-6c1
 6. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
 7. Badlands Brief — "Badlands News Brief: Biden Baits Israel as Solar Storms Bring the Weird", URL: https://badlands.substack.com/p/badlands-news-brief-83b
+8. Badlands Brief — "Badlands News Brief: Trump Arrest ... Panic or No Panic?", URL: https://badlands.substack.com/p/badlands-news-brief-9e8

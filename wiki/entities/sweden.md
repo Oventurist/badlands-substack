@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [europe, nord-stream, investigations, baltic-sea]
-sources: [raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-9ae.md]
+sources: [raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-a56.md]
 confidence: medium
 ---
 
@@ -26,6 +26,13 @@ Sweden formally joined the [[nato|North Atlantic Treaty Organization]] in Washin
 
 The accessions of Sweden and Finland — the latter sharing a 1,340-kilometre (830-mile) border with Russia — were described as the alliance's most significant additions in decades and a blow to Russian President [[vladimir-putin|Vladimir Putin]], who had sought to prevent any further strengthening of NATO.[2] Sweden thereby gained the benefit of the alliance's common defence guarantee, under which an attack on one member is regarded as an attack on all.[2] Badlands commentator [[burning-bright|Burning Bright]] argued that the "security rethink" framing in Western coverage was deliberate but counterproductive, reading as provocation rather than defence to an increasingly tense public.[2]
 
+## Mandatory reporting of illegal immigrants (September 2023)
+
+In early September 2023, Sweden's government introduced a mandatory requirement for public institutions to report people in the country illegally, a crackdown that followed years of large-scale migration.[3] Commentary framed the shift as belated vindication of [[donald-trump|Donald Trump]], who had drawn ridicule in February 2017 for warning that Sweden was "having problems like they never thought possible."[3] Alongside the reporting requirements, the center-right government — supported by the Sweden Democrats — planned to extend biometric screening, including fingerprinting and facial recognition, to strengthen checks on people already living in the country.[3]
+
+[[badlands-media|Badlands Media]] contributor [[ashe-in-america|Ashe in America]] argued that Sweden had gone from a showcase of the [[nordic-model|Nordic Model]] and the open society to "a cautionary tale for the impact of open borders," and warned that the biometric remedies arriving simultaneously with official acknowledgment of the problem pointed toward a "slow and ongoing descent into digital slavery."[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Trump Trounces Haley (Again) as the Media Spins", URL: https://badlands.substack.com/p/badlands-news-brief-3c0
 2. Badlands Brief — "Badlands News Brief: Will the One True POTUS Please Stand Up?", URL: https://badlands.substack.com/p/badlands-news-brief-9ae
+3. Badlands Brief — "Badlands News Brief: Corruption Probes, Client Lists & Mud Pits", URL: https://badlands.substack.com/p/badlands-news-brief-a56

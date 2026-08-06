@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [state-department, spokesperson, diplomacy, israel]
-sources: [raw/badlands-news-brief-22b.md, raw/badlands-news-brief-8cd.md]
+sources: [raw/badlands-news-brief-22b.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-a04.md]
 confidence: medium
 ---
 
@@ -26,6 +26,12 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] calle
 
 Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] described Bruce as "now-disgraced" and reported that her July 2025 statement dismissing the Saudi-French [[new-york-declaration|New York Declaration]] as a "publicity stunt" and a "gift to Hamas" was what got her fired from the [[state-department|State Department]].[2] He noted with astonishment that US Representative to the UN [[morgan-ortagus|Morgan Ortagus]] subsequently read the same statement word-for-word in response to the [[united-nations-general-assembly|UN General Assembly]]'s endorsement of the declaration in September 2025, apparently unaware of what the move had cost Bruce.[2]
 
+## Opposition to the UN two-state conference (July 2025)
+
+As [[state-department|State Department]] spokeswoman, Bruce issued a statement condemning the [[2025-un-two-state-solution-conference|high-level United Nations conference]] convened in New York on July 28, 2025, on the peaceful settlement of the Palestinian issue, and — in the reading of Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] — the entire concept of a [[two-state-solution|two-state solution]].[3] The commentary described Bruce as "an ardent Zionist and shameless apologist" for the Israeli government, contrasting her position with earlier American diplomatic support for Palestinian statehood.[3]
+
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Tsunamis, Bombshells, & Signed Declarations", URL: https://badlands.substack.com/p/badlands-news-brief-22b
 2. Badlands Brief — "Badlands News Brief: Vigils, Vanguards, & Various Investigations", URL: https://badlands.substack.com/p/badlands-news-brief-8cd
+3. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04

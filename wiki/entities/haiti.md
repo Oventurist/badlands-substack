@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [haiti, caribbean, gang-violence, foreign-aid]
-sources: [raw/badlands-news-brief-120.md, raw/badlands-news-brief-743.md]
+sources: [raw/badlands-news-brief-120.md, raw/badlands-news-brief-743.md, raw/badlands-news-brief-a15.md]
 confidence: medium
 ---
 
@@ -32,6 +32,13 @@ Nearly 1.5 million Haitians were on the brink of famine as armed gang leader [[j
 
 Lamothe also said that "the international community promised $9 billion in aid but Haiti only received half of it, and out of the half most of it went to the US military," a claim Badlands Media commentary treated as an opening onto unexamined questions about aid flows, speculating whether the [[clinton-foundation|Clinton Foundation]] was implicated.[2]
 
+## Gang takeover and US response, March 2024
+
+By March 2024 armed gangs had taken over much of Port-au-Prince and violence was spreading, with Prime Minister Ariel Henry resigning on March 12.[3] Criminal warlords presided over what observers described as an utter state of lawlessness, and the US embassy had for months urged American citizens to leave the country; the preceding years had seen a series of kidnappings targeting Americans, including aid workers.[3] Officials warned of a potential mass migration wave that could inundate US coastal communities, particularly in Florida.[3]
+
+On March 13, 2024, at the request of the State Department, US Southern Command deployed the Marine Fleet Anti-terrorism Security Team to reinforce the embassy in Port-au-Prince and to assist in evacuating non-essential American personnel.[3] The Department of Defense simultaneously doubled funding for the Multinational Security Support mission, working with Haitian, Kenyan and other partners to expedite its deployment in support of the Haitian National Police.[3] Badlands writer Burning Bright characterized the situation as a convergence of actual and narrative developments, noting that the Clinton Foundation remained firmly entrenched in public memory regarding Haiti.[3]
+
 ## References
 1. Badlands Brief — "J6 Returns to Headlines as Fear Mars AI and Airplanes", URL: https://badlands.substack.com/p/badlands-news-brief-120
 2. Badlands Brief — "Badlands News Brief: Biden, Bobulinski & Barbecue", URL: https://badlands.substack.com/p/badlands-news-brief-743
+3. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15

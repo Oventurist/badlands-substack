@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [haiti, prime-minister, state-collapse, gangs]
-sources: [raw/badlands-news-brief-743.md]
+sources: [raw/badlands-news-brief-743.md, raw/badlands-news-brief-a15.md]
 confidence: medium
 ---
 
@@ -18,6 +18,11 @@ By March 2024, Henry was outside the country, and gang leader [[jimmy-cherizier|
 
 Former Prime Minister [[laurent-lamothe|Laurent Lamothe]] publicly called for the restoration of law and order during the same period.[1]
 
+## Resignation, March 2024
+
+Henry resigned as Haitian prime minister on Tuesday, March 12, 2024, amid a collapse of state authority in which armed gangs had taken over much of Port-au-Prince.[2] His departure came as violence spread beyond the capital and prompted an immediate American security response: the following day US Southern Command announced the deployment of the Marine Fleet Anti-terrorism Security Team to the US embassy at the State Department's request.[2] Badlands commentary described the sequence of assassinations, resignations and all-out gang war as amounting to a transfer of power in Port-au-Prince.[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Biden, Bobulinski & Barbecue", URL: https://badlands.substack.com/p/badlands-news-brief-743
+2. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15

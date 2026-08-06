@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military, middle-east, us-government]
-sources: [raw/badlands-brief-6b4.md, raw/badlands-brief-9ac.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-99e.md]
+sources: [raw/badlands-brief-6b4.md, raw/badlands-brief-9ac.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-960.md]
 confidence: medium
 ---
 
@@ -55,6 +55,10 @@ On December 8, 2024, CENTCOM forces conducted dozens of precision airstrikes aga
 
 Badlands contributor [[burning-bright|Burning Bright]] read the operation as one arm of a "Sovereign Alliance pincer move" against Deep State forces in Syria with analogues to the 2021 Kabul withdrawal, noting the coincidence of the strikes being launched amid chaos that he argued could not plausibly have gone unanticipated by the major players.[9]
 
+## Strikes on ISIS targets in Syria, December 2024
+
+Following the fall of the Assad government in December 2024, Badlands commentary reported that CENTCOM seized the opportunity to conduct 75 precision-strike air raids on [[islamic-state|ISIS]] targets across central Syria.[10] The strikes were presented as one of several narrative threads to observe alongside Israel's open support for a regime change led by Islamic extremists, [[bashar-al-assad|Assad]]'s withdrawal to Moscow without intra-Sovereign Alliance fire, and globalist coalitions praising "former al Qaeda" leadership.[10]
+
 ## References
 1. Badlands Brief — "Deliberate Discombobulation Driving Transformational Change", URL: https://badlands.substack.com/p/badlands-brief-6b4
 2. Badlands Brief — "Nazi-Related Cover Ups & Formerly Secret Treason", URL: https://badlands.substack.com/p/badlands-brief-9ac
@@ -65,3 +69,4 @@ Badlands contributor [[burning-bright|Burning Bright]] read the operation as one
 7. Badlands Brief — "New(ish) Negotiations, NATO Nazis, & Neocon Narrative Nonsense", URL: https://badlands.substack.com/p/badlands-news-brief-410
 8. Badlands Brief — "'Iran Iran Iran!' Is the New 'Russia Russia Russia!'", URL: https://badlands.substack.com/p/badlands-news-brief-421
 9. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e
+10. Badlands Brief — "Wray Goes to Sleep, Syria Gets Weird and Xi Gets an Invite", URL: https://badlands.substack.com/p/badlands-news-brief-960

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, finance, greater-israel, lebanon, syria]
-sources: [raw/badlands-brief-0fb.md, raw/badlands-brief-143.md, raw/badlands-brief-144.md, raw/badlands-brief-311.md, raw/badlands-brief-285.md, raw/badlands-brief-50d.md, raw/badlands-brief-625.md, raw/badlands-brief-708.md, raw/badlands-brief-8db.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5b2.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-7e5.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-93e.md]
+sources: [raw/badlands-brief-0fb.md, raw/badlands-brief-143.md, raw/badlands-brief-144.md, raw/badlands-brief-311.md, raw/badlands-brief-285.md, raw/badlands-brief-50d.md, raw/badlands-brief-625.md, raw/badlands-brief-708.md, raw/badlands-brief-8db.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5b2.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-7e5.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a82.md]
 confidence: medium
 ---
 
@@ -135,6 +135,17 @@ On July 22, 2025, Smotrich endorsed a "security annexation" of the northern Gaza
 
 As negotiations approached over the second phase of the Israel-Hamas hostage deal in late January 2025, Smotrich, [[benjamin-netanyahu|Benjamin Netanyahu]]'s finance minister, came under pressure from hardliners in his [[religious-zionism-party|Religious Zionism]] party and from the Israeli settler movement to resign from the government, a step that would collapse Netanyahu's coalition and force new elections.[24] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] reported that Smotrich had threatened Netanyahu with following through if the Phase Two exchange was upheld and the war was not resumed, a threat President [[donald-trump|Donald Trump]] was said to be well aware of when he dispatched envoy [[steve-witkoff|Steve Witkoff]] to [[saudi-arabia|Saudi Arabia]].[24]
 
+## Crisis with Netanyahu over Gaza humanitarian ceasefires (July 2025)
+
+An official told *The Jerusalem Post* on Monday, July 28, 2025, that Finance Minister Smotrich and Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] were in a "real" crisis, with relations between them "very, very tense and complicated," following Netanyahu's decision over the preceding weekend — taken without Smotrich's knowledge — to enact "localized humanitarian ceasefires" in [[gaza|Gaza]].[25] According to the official, who spoke on condition of anonymity, if Smotrich did not receive "real and concrete" guarantees from the prime minister regarding the defeat of [[hamas|Hamas]], his Religious Zionist Party could be "on its way out" of the government.[25] With the coalition numbering just 60 MKs after the departure of two haredi parties earlier in July, the exit of Smotrich's seven MKs would likely topple the government.[25] At press time on Monday evening the usually vocal Smotrich had not commented publicly on the tension or on the ceasefires, which the [[israel-defense-forces|IDF]] announced early Sunday morning.[25]
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] paired the episode with National Security Minister [[itamar-ben-gvir|Itamar Ben-Gvir]]'s description of Netanyahu as "morally bankrupt" for allowing food into Gaza, and reported that Smotrich was demanding guarantees that [[israel|Israel]] would begin annexing Gaza within days.[25]
+
+
+## Coalition leverage in June 2024
+
+Smotrich, alongside [[itamar-ben-gvir|Itamar Ben-Gvir]], repeatedly threatened to resign from [[benjamin-netanyahu|Netanyahu]]'s cabinet if the ultra-Orthodox were subjected to conscription after Israel's Supreme Court struck down their draft exemption in June 2024; their joint departure would legally dissolve the government and trigger new elections.[26]
+
 ## References
 1. Badlands Brief — "Time is on Trump's Side ... But Which Regime is he Fighting?", URL: https://badlands.substack.com/p/badlands-brief-0fb
 2. Badlands Brief — "All the Classic Earmarks of Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-143
@@ -160,3 +171,5 @@ As negotiations approached over the second phase of the Israel-Hamas hostage dea
 22. Badlands Brief — "Badlands News Brief: Gazan Seizures & Gay Porn Scandals", URL: https://badlands.substack.com/p/badlands-news-brief-8dc
 23. Badlands Brief — "Badlands News Brief: The Corruption of Anti-Corruption & Obama Bites Back", URL: https://badlands.substack.com/p/badlands-news-brief-91b
 24. Badlands Brief — "Badlands News Brief: A Midflight Collision, Dems Choose Division, Menendez Gets Prison", URL: https://badlands.substack.com/p/badlands-news-brief-93e
+25. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
+26. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82

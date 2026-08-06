@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [law, israel, commentary]
-sources: [raw/badlands-brief-07c.md, raw/badlands-brief-ea5.md, raw/badlands-brief-e9e.md, raw/badlands-news-blast.md]
+sources: [raw/badlands-brief-07c.md, raw/badlands-brief-ea5.md, raw/badlands-brief-e9e.md, raw/badlands-news-blast.md, raw/badlands-news-brief-9e8.md]
 confidence: low
 ---
 
@@ -26,8 +26,13 @@ In June 2026 the [[united-states-house-oversight-committee|House Oversight Commi
 
 Dershowitz, a Harvard law professor, was understood to be among the individuals mentioned in the final batch of [[epstein-court-document-unsealing|Epstein-related court documents]] set for unsealing in 2023, alongside [[prince-andrew|Prince Andrew]].[4] The batch covered allegations involving 167 associates, victims, and employees of [[jeffrey-epstein|Jeffrey Epstein]].[4]
 
+## Opposition to the 2023 Manhattan Indictment
+
+Writing in his Substack in March 2023 ahead of the expected Manhattan indictment of [[donald-trump|Donald Trump]], Dershowitz argued that the former president "should not be indicted for novel and unprecedented technical crimes for which no one else would be prosecuted."[5] Badlands Media cited the remark in support of its contention that the [[lawfare|lawfare]] campaign against Trump was destroying the credibility of the legal system.[5]
+
 ## References
 1. Badlands Brief — "Supreme Conflicts, Criminal Probes, & A Ceasefire", URL: https://badlands.substack.com/p/badlands-brief-07c
 2. Badlands Brief — "Criminal Referrals & Big, Fat Hugs", URL: https://badlands.substack.com/p/badlands-brief-ea5
 3. Badlands Brief — "Earned Deportations, Irish Knife Fights, & the Eventual "Liberation" of Jerusalem", URL: https://badlands.substack.com/p/badlands-brief-e9e
 4. Badlands Brief — "UFO's, Epstein Logs & Racist Squirrels?", URL: https://badlands.substack.com/p/badlands-news-blast
+5. Badlands Brief — "Badlands News Brief: Trump Arrest ... Panic or No Panic?", URL: https://badlands.substack.com/p/badlands-news-brief-9e8

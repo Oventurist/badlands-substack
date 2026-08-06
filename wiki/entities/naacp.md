@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [civil-rights, litigation, elections]
-sources: [raw/always-fight-back.md, raw/badlands-brief-0a2.md, raw/badlands-brief-a1a.md]
+sources: [raw/always-fight-back.md, raw/badlands-brief-0a2.md, raw/badlands-brief-a1a.md, raw/badlands-news-brief-a9e.md]
 confidence: medium
 ---
 
@@ -28,8 +28,15 @@ Badlands writer [[ashe-in-america|Ashe in America]] characterized the filing as 
 
 In the April 7, 2026 Badlands Brief, [[ashe-in-america|Ashe in America]] referred to a federal case brought against her by the NAACP, disclosing that she fired her attorneys and proceeded pro se after concluding that her lead attorney's objectives and incentives were not aligned with her own.[3] The decision followed a conversation in which the attorney described a case of his in which a criminal conviction was overturned but the innocent prisoner received nothing beyond release, which she cited as emblematic of a justice system that offers no restitution for government-caused harm.[3]
 
+## Illinois migrant remarks controversy (2023)
+
+In December 2023, Illinois NAACP president [[teresa-haley|Teresa Haley]] apologized "to anyone who may have been hurt or offended" after video recorded at a statewide meeting captured her calling migrants rapists and "like savages," remarks she made while objecting to migrants receiving shelter and clothing when Black people in need had long gone without such assistance.[4] Illinois branch presidents said they "unanimously supported" her leadership.[4] In her written apology Haley restated the organization's mission of achieving "equity, political rights, and social inclusion by advancing policies and practices that expand human and civil rights, eliminate discrimination, and accelerate the well-being, education, and economic security of Black people and all persons of color."[4]
+
+Badlands writer [[burning-bright|Burning Bright]] described the NAACP as "one of the key narrative power projection vectors of the cultural arm of the Deep State," arguing that it operates behind "a permanent shield of victimhood," and grouped the episode with the simultaneous troubles at [[harvard-university|Harvard]] as part of a broader Marxist circular firing squad visible only to observers watching multiple institutional theaters at once.[4]
+
 ## References
 
 1. Badlands Media — "Always Fight Back", URL: https://badlands.substack.com/p/always-fight-back
 2. Badlands Brief — "A Virtual Smash & Grab & Another Impeachment Hoax", URL: https://badlands.substack.com/p/badlands-brief-0a2
 3. Badlands Brief — "American Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-a1a
+4. Badlands Brief — "Badlands News Brief: The Simulation Gets Very ... Very Weird", URL: https://badlands.substack.com/p/badlands-news-brief-a9e

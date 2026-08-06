@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [arizona, elections, republican-party, election-integrity]
-sources: [raw/an-sos-from-ground-zero.md, raw/arizona-earthquake.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-862.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-899.md]
+sources: [raw/an-sos-from-ground-zero.md, raw/arizona-earthquake.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-862.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-a3c.md]
 confidence: medium
 ---
 
@@ -68,7 +68,14 @@ In January 2024 DailyMail.com published an audio recording that it said captured
 
 As a senior adviser to President Donald Trump, Lake told the House Foreign Affairs Committee in June 2025 that the U.S. Agency for Global Media, which oversees Voice of America, is "rotten to the core" and should be reshaped to align with the administration's 'America First' agenda.[8] Her testimony came the same day Trump publicly urged Republicans to back his campaign to dismantle VOA as partisan and wasteful.[8]
 
+## 2024 Arizona Republican Senate primary
+
+Lake won Arizona's Republican Senate primary on Tuesday, July 30, 2024, as projected by the Associated Press.[9] She clinched the nomination after defeating Pinal County Sheriff Mark Lamb, another Trump supporter, and neuroscientist Elizabeth Reye.[9] The victory set up a general-election contest against Democratic Rep. [[ruben-gallego|Ruben Gallego]], who ran unopposed in his primary, in the race to replace Sen. [[kyrsten-sinema|Kyrsten Sinema]] (I-Ariz.) — a contest reported as potentially decisive for control of the U.S. Senate.[9]
+
+Lake, an ally of former President [[donald-trump|Donald Trump]] who echoed his claims about the 2020 election being stolen, had outraised Gallego and attacked him on crime and immigration.[9] Arizona was described as a critical battleground state in the 2024 presidential race whose Senate outcome could tilt the balance of power in November.[9]
+
 ## References
+
 1. Badlands Brief — "An SOS From Ground Zero", URL: https://badlands.substack.com/p/an-sos-from-ground-zero
 2. Badlands Media — "Arizona Earthquake!", URL: https://badlands.substack.com/p/arizona-earthquake
 3. Badlands News Brief — "Lake Lasts, Biden Slumps & Powell Blinks", URL: https://badlands.substack.com/p/badlands-news-brief-050
@@ -77,3 +84,4 @@ As a senior adviser to President Donald Trump, Lake told the House Foreign Affai
 6. Badlands Brief — "Badlands News Brief: Kari Counters, Elites Gather & Data Talks", URL: https://badlands.substack.com/p/badlands-news-brief-862
 7. Badlands Brief — "Badlands News Brief: The Trump Train Rolls on ... Fake MAGA Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-89f
 8. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
+9. Badlands Brief — "Badlands News Brief: Escalation, Litigation & Sovereign Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a3c

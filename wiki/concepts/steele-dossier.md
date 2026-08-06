@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [russiagate, intelligence, fbi, cia, badlands-brief]
-sources: [raw/badlands-brief-a89.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-795.md]
+sources: [raw/badlands-brief-a89.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-a04.md]
 confidence: medium
 ---
 
@@ -32,8 +32,14 @@ In August 2023 commentary, [[ashe-in-america|Ashe in America]] wrote that [[hill
 
 Whistleblower disclosures released by Director of National Intelligence [[tulsi-gabbard|Tulsi Gabbard]] and [[cia|CIA]] Director [[john-ratcliffe|John Ratcliffe]] raised concerns about former CIA Director [[john-brennan|John Brennan]]'s push to include the discredited dossier in the [[2017-intelligence-assessment-on-russian-interference|2017 Intelligence Community Assessment]], prompting the two officials to refer Brennan for possible prosecution.[4] By December 2025 federal prosecutors had identified Brennan as the target of a criminal grand jury investigation in Miami examining his role in the assessment.[4]
 
+## Ratcliffe's 2025 characterization
+
+In a July 28, 2025 Fox News interview, [[cia|CIA]] Director [[john-ratcliffe|John Ratcliffe]] described the dossier as the instrument of "a Hillary Clinton campaign scheme," alleging that [[hillary-clinton|Hillary Clinton]] conspired to falsely accuse [[donald-trump|Donald Trump]] of colluding with Russia, and that Clinton, [[james-comey|James Comey]] and [[john-brennan|John Brennan]] lied under oath about their involvement.[5]
+
+
 ## References
 1. Badlands Brief — "Trump's DOJ Gets Busy as the Boss Jets to Beijing", URL: https://badlands.substack.com/p/badlands-brief-a89
 2. Badlands News Brief — "Durham's Dance, Putin's Warning and Xi's Rebuke", URL: https://badlands.substack.com/p/badlands-news-brief-01d
 3. Badlands News Brief — "A Biden, a Clinton and a Trump Walk Into a SCIF", URL: https://badlands.substack.com/p/badlands-news-brief-228
 4. Badlands Brief — "Brennan Decries Judge Shopping & JD Says It's Okay to Be White!", URL: https://badlands.substack.com/p/badlands-news-brief-795
+5. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04

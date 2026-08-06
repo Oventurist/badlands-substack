@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [epstein, courts, transparency, blackmail]
-sources: [raw/badlands-news-blast.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-484.md, raw/badlands-news-brief-7a1.md]
+sources: [raw/badlands-news-blast.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-484.md, raw/badlands-news-brief-7a1.md, raw/badlands-news-brief-a89.md]
 confidence: medium
 ---
 
@@ -34,6 +34,14 @@ The release included excerpts of depositions of [[ghislaine-maxwell|Ghislaine Ma
 
 [[burning-bright|Burning Bright]] wrote that the release confirmed a shift in public awareness — "We've known. They've known that we've known. But now, everyone else knows that they've known that we've known" — and argued that normies who ordinarily lack discernment about the preeminent conspiracy facts of the era pay attention when a world-famous athlete publicly accuses an establishment media figure of Epsteinian connections and is met with threats of legal action.[4] He closed by remarking on the timing.[4]
 
+## Trump's response to being named (January 2024)
+
+[[donald-trump|Donald Trump]]'s spokesperson [[steven-cheung|Steven Cheung]] responded after the former president was named in the release of court documents involving [[jeffrey-epstein|Jeffrey Epstein]], saying that any claims regarding Trump's relationship with Epstein had been "thoroughly debunked."[5] Among the roughly 40 previously redacted documents in the settled case released on Wednesday, January 3, 2024, was a deposition of [[johanna-sjoberg|Johanna Sjoberg]] claiming she traveled from Florida to Atlantic City with Epstein and visited one of Trump's casinos.[5] Trump and Epstein had a reported friendship, with Trump telling *New York* magazine in 2002 that he had known Epstein for 15 years and that he was a "terrific guy"; Trump also flew on Epstein's jet a number of times but distanced himself from those comments after Epstein's 2019 arrest, saying the two had not spoken in years.[5]
+
+Badlands writer [[just-human|Just Human]] argued that the renewed allegations of Trump's complicity in the Epstein–[[ghislaine-maxwell|Maxwell]] blackmail enterprise "could not possibly be more untrue," noting that Epstein and Maxwell's targeting of [[mar-a-lago|Mar-a-Lago]] and the transport of the trial witness known as "Jane" there in 1994 had already been testified to at Maxwell's trial, as had Trump's chartering of an Epstein plane from Florida to New Jersey.[5] He contended that the Atlantic City hotel had been configured as a trap for criminals from the pre-construction phase through coordination between the [[fbi|FBI]] and the [[trump-organization|Trump Organization]], that Epstein and Maxwell's targeting of Mar-a-Lago employees and guests led Trump to ban them from the property in 2008 shortly before Epstein's guilty plea, and that the attorney who helped get the documents unsealed said Trump was the only person who was eager to help investigate Epstein and Maxwell as far back as 2009.[5] Just Human further noted Epstein's 2016 attempt to re-enter Trump's orbit, including a lunch with Trump ally [[peter-thiel|Peter Thiel]], and emphasized that it was Trump's [[department-of-justice|Justice Department]] that indicted both Epstein and Maxwell.[5]
+
+[[burning-bright|Burning Bright]] framed the Trump–Epstein conflation pushed by the media as a component of a mass disclosure operation: the MAGA base already regarded Trump as innocent of criminal association while acknowledging he was a target of an influence operation, and the prospect of finally toppling Trump had induced the center and left to shift the Overton window toward mass acknowledgement that former president [[bill-clinton|Bill Clinton]] is a pedophile — an outcome he counted as a win.[5]
+
 ## Inadvertent image release and redaction order (January 2024)
 
 On Monday, January 8, 2024, U.S. District Judge [[loretta-preska|Loretta Preska]] of the Southern District of New York ordered the redaction of newly released images of [[jeffrey-epstein|Jeffrey Epstein]], [[ghislaine-maxwell|Ghislaine Maxwell]], and young girls and women on Epstein's Caribbean island, after the photographs were disclosed in a filing unsealed that day.[3] Her order directed the Clerk of the Court to strike docket entry 1332-7 "because it contains inadvertently disclosed images that should have been redacted," with counsel to re-file the stricken document as soon as practicable.[3] The 2006 images from Little St. James Island had been provided by Epstein accuser [[sarah-ransome|Sarah Ransome]] and were reported by the New York Post, alongside deposition testimony in which Ransome described girls being taken from very underprivileged families and given accommodation, food, money for transportation and private planes.[3]
@@ -45,3 +53,4 @@ On Monday, January 8, 2024, U.S. District Judge [[loretta-preska|Loretta Preska]
 2. Badlands Brief — "Badlands News Brief: Hypocrisy Roundup & Rug-pulls Galore", URL: https://badlands.substack.com/p/badlands-news-brief-378
 3. Badlands Brief — "Presidential Immunity & Rugpulls Galore", URL: https://badlands.substack.com/p/badlands-news-brief-484
 4. Badlands News Brief — "Epstein Resurfaces ... And the 'Elites' Don't Like It", URL: https://badlands.substack.com/p/badlands-news-brief-7a1
+5. Badlands News Brief — "Epstein Fallout Continues as the Biden Admin Implodes", URL: https://badlands.substack.com/p/badlands-news-brief-a89

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [air-defense, ukraine, israel, weapons-transfers, russia]
-sources: [raw/badlands-news-brief-574.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-889.md]
+sources: [raw/badlands-news-brief-574.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-a82.md]
 confidence: medium
 ---
 
@@ -42,7 +42,12 @@ Ukrainian lawmaker Maryana Bezuglaya claimed in late August 2024 that a Patriot 
 
 Ukrainian lawmaker Maryana Bezuglaya claimed in late August 2024 that a Patriot air defense battery operated by [[ukraine|Ukraine]] shot down one of the country's newly delivered US-made F-16 fighters in a friendly fire incident, killing pilot Alexey "Moonfish" Mes.[3] She attributed the loss to poor coordination between military units and accused the Air Force Command of falsely characterizing the event as a crash.[3]
 
+## Alleged use in the 2024 Il-76 shootdown
+
+The [[russian-investigative-committee|Russian Investigative Committee]] concluded in June 2024 that the Il-76M transport carrying Ukrainian prisoners of war that crashed on January 24, 2024 had been downed by a US-made Patriot interceptor missile.[4] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote that Russian authorities had recovered fragments of the aircraft and of two missiles and determined by forensic analysis that both projectiles were MIM-104 Patriots of American manufacture.[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Mandatory Deprogramming & Military Parades", URL: https://badlands.substack.com/p/badlands-news-brief-574
 2. Badlands Brief — "Badlands News Brief: Double Comey Drama & Magic Moon Soil", URL: https://badlands.substack.com/p/badlands-news-brief-5f2
 3. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889
+4. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82

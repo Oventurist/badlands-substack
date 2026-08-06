@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [trump-administration, cabinet, education, senate-confirmation]
-sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-7b8.md]
+sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-9c6.md]
 confidence: medium
 ---
 
@@ -42,10 +42,20 @@ McMahon said the administration wanted to "do this right" and that abolishing th
 
 Covering the hearing for [[badlands-media|Badlands]], [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote that McMahon "did a brilliant job" and presented herself as an impressive candidate, arguing that Democrats were caught off guard because they had expected the former World Wrestling Entertainment president to conform to their stereotypes.[6] He and [[ashe-in-america|Ashe in America]] contended that Democratic senators prioritized preserving the status quo and defending teachers and unions over students' interests.[6] He also noted that WWE superstar Triple H — McMahon's son-in-law and the company's CEO — was seated directly behind her during the hearing, closing with "TrumpaMania lives!"[6]
 
+## Nomination as Secretary of Education (2024)
+
+On November 19, 2024, President-elect [[donald-trump|Donald Trump]] selected McMahon, his transition co-chair, to serve as secretary of the [[department-of-education|Department of Education]] — an agency he and his allies had pledged to abolish.[7] Then 76, McMahon had previously led the Small Business Administration during Trump's first term and was the former chief executive of [[world-wrestling-entertainment|World Wrestling Entertainment]], the company she built with her husband [[vince-mcmahon|Vince McMahon]].[7]
+
+Trump said McMahon would use "decades of Leadership experience, and deep understanding of both Education and Business, to empower the next Generation of American Students and Workers," and indicated she would give states a larger role in education policy and pursue nationwide expansion of school choice.[7] He described her as a "fierce advocate for Parents' Rights" through her role as chairwoman of the America First Policy Institute.[7]
+
+Badlands commentary noted that McMahon had described her WWE career in a speech at the 2024 Republican National Convention, that the promotion's highest-rated storylines of all time had involved Trump himself, and that she occasionally appeared as an on-screen character in its fictional universe.[7] The commentary also recalled that the McMahons' wrestling organization had helped fund Evel Knievel's failed Snake River Canyon jump, and that Linda left WWE in 2009 to run unsuccessfully for the U.S. Senate in Connecticut against [[richard-blumenthal|Richard Blumenthal]].[7]
+
 ## References
+
 1. Badlands Brief — "A Meddling Musk & Sanctions for Soros", URL: https://badlands.substack.com/p/badlands-news-brief-048
 2. Badlands Brief — "Badlands News Brief: Overexposed Engagement Farmers & Maple-Flavored Monarchs", URL: https://badlands.substack.com/p/badlands-news-brief-42b
 3. Badlands Brief — "Badlands News Brief: Change of Batter, Indeed …", URL: https://badlands.substack.com/p/badlands-news-brief-42e
 4. Badlands Brief — "Badlands News Brief: ICE Swarms, TikTok Pivots, & Shoes Stay On", URL: https://badlands.substack.com/p/badlands-news-brief-6af
 5. Badlands Brief — "Badlands News Brief: “Terrifying” Trade Alliances, Pedagogue Payouts, & A Bondi Barn Burner", URL: https://badlands.substack.com/p/badlands-news-brief-7bb
 6. Badlands Brief — "Badlands News Brief: MAHA, Modi, Musk, & Munich", URL: https://badlands.substack.com/p/badlands-news-brief-7b8
+7. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6

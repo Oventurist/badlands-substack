@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [economy, biden, messaging, inflation, 2024-election]
-sources: [raw/badlands-news-brief-5c7.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-82f.md]
+sources: [raw/badlands-news-brief-5c7.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-a89.md]
 confidence: medium
 ---
 
@@ -32,7 +32,14 @@ Badlands contributor [[ashe-in-america|Ashe in America]] described enjoying poin
 
 During the [[2023-gasoline-price-surge|September 2023 gasoline price surge]], [[ashe-in-america|Ashe in America]] wrote that [[joe-biden|Joe Biden]] continued to tout Bidenomics and to insist the economy was good even as pump prices hit a record high for that point in the year, and dismissed his claim of being "laser-focused on cutting energy costs" through clean-energy investment as offering no scalable near-term relief.[3]
 
+## Abandonment of the message (January 2024)
+
+By January 2024 the "Bidenomics" message had deflated to the point that [[joe-biden|President Biden]]'s campaign shifted its emphasis to January 6-related attacks on [[donald-trump|Donald Trump]], framing him as a threat to democracy in a speech at Valley Forge, Pennsylvania.[4] Senior campaign officials highlighted the location's association with George Washington's willingness to relinquish power, contrasting it with Trump's alleged attempts to cling to office, while campaign manager [[julie-chavez-rodriguez|Julie Chavez Rodriguez]] said that "over the last three years, MAGA Republicans haven't shied away from the Big Lie — they've doubled down."[4]
+
+Badlands writer [[paul-fleuret|Paul Fleuret]] argued that the pivot showed the lie becoming so exposed that its perpetrators had no option but to double down, with Biden abandoning claims of an "amazing economy" in the face of what Fleuret called his administration's horrendous economic policies and returning to attacks on Trump.[4] He described the cycle of exposure and re-spun narrative as exhausting and concluded that "this Administration is a cooked goose, and they know it."[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Bidenomics Comes Home to Roost & Mayhem Marches On", URL: https://badlands.substack.com/p/badlands-news-brief-5c7
 2. Badlands Brief — "Badlands News Brief: Globalists Threaten Their Own as Bidenomics Reigns", URL: https://badlands.substack.com/p/badlands-news-brief-677
 3. Badlands Brief - "Badlands News Brief: Missing Planes, Missing Funds & Missing Metrics", URL: https://badlands.substack.com/p/badlands-news-brief-82f
+4. Badlands News Brief — "Epstein Fallout Continues as the Biden Admin Implodes", URL: https://badlands.substack.com/p/badlands-news-brief-a89

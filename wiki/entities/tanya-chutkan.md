@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [judiciary, doge, litigation, federal-courts]
-sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-656.md]
+sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-a27.md, raw/badlands-news-brief-a7b.md]
 confidence: medium
 ---
 
@@ -38,6 +38,10 @@ Chutkan granted [[donald-trump|Donald Trump]] a temporary hold in October 2023 o
 
 Days after the temporary lift, Trump publicly criticized Smith on Truth Social as "deranged" and said he would seek a change of venue, arguing there was "NO WAY" he could get a fair trial in the District of Columbia.[4]
 
+## Imposition of the limited gag order (October 16, 2023)
+
+On Monday, October 16, 2023, Chutkan imposed the [[2023-trump-gag-order|limited gag order]] itself, restricting Trump from making public statements attacking witnesses and specific prosecutors or court staff members in the federal case concerning his efforts to overturn the 2020 election.[8] She held that Trump's free speech rights did not permit him "to launch a pretrial smear campaign" against those individuals, adding, "No other defendant would be allowed to do so, and I'm not going to allow it in this case."[8] The narrowly tailored order nonetheless left Trump free to keep disparaging the Justice Department and President [[joe-biden|Joe Biden]] as he campaigned, allowed him to assert that his prosecution was politically motivated, and apparently left him leeway to attack Chutkan herself.[8] She further ruled that Trump could criticize former Vice President [[mike-pence|Mike Pence]] — simultaneously a witness and a 2024 rival — so long as the attacks did not touch on Pence's role in the criminal prosecution.[8]
+
 ## Stay of the 2020 election case pending appeal
 
 On December 13, 2023, Judge Tanya Chutkan issued a brief order largely granting Donald Trump's request to pause proceedings in the federal 2020 election case while he appealed the rejection of his presidential immunity claim.[5] She wrote that the appeal gave the D.C. Circuit jurisdiction over the case and required her to automatically stay further proceedings moving it toward trial, adding that if the case returned to her she would consider "whether to retain or continue the dates of any still-future deadlines and proceedings, including the trial scheduled for March 4."[5] The D.C. Circuit announced later that evening that it would fast-track its review of her underlying immunity decision.[5]
@@ -46,6 +50,12 @@ On December 13, 2023, Judge Tanya Chutkan issued a brief order largely granting 
 
 On November 25, 2024, special counsel [[jack-smith|Jack Smith]] filed a six-page motion with Chutkan seeking dismissal of the federal election subversion case against President-elect [[donald-trump|Donald Trump]], writing that the Justice Department's position was that the Constitution required dismissal before the defendant's inauguration and that the outcome was "not based on the merits or strength of the case against the defendant."[6] Chutkan formally dismissed the case without prejudice that same afternoon.[6]
 
+## February 2024 vacatur of the March trial date
+
+In a court order released on Friday, February 2, 2024, Chutkan wrote that [[donald-trump|Donald Trump]]'s federal election interference trial in Washington, D.C. would no longer begin on March 4.[7] It was unclear when the trial would start; the case had been on pause for nearly two months after Trump's team requested a stay on December 7 and it was granted on December 13, meaning the soonest a trial could begin was likely late April or early May.[7] A start in early May could easily push the trial's conclusion past the [[2024-republican-national-convention|Republican National Convention]], scheduled for July 15–18 in Milwaukee.[7] In a previous order Chutkan had reiterated that seven months was "sufficient time" for Trump to prepare for trial, not counting the period the case spent on pause.[7]
+
+The ruling came while the D.C. Circuit Court had yet to decide whether the former president was immune from prosecution; a panel of federal appeals judges heard oral arguments on January 9 under an expedited schedule.[7] "The court will set a new schedule if and when the mandate is returned," Chutkan's order said.[7] A lawyer for Trump and a spokesman for the special counsel both declined to comment.[7]
+
 ## References
 1. Badlands Brief — "A Meddling Musk & Sanctions for Soros", URL: https://badlands.substack.com/p/badlands-news-brief-048
 2. Badlands Brief — "Badlands News Brief: Trump Surges, COVID Flags & Ukraine Slips", URL: https://badlands.substack.com/p/badlands-news-brief-0ec
@@ -53,3 +63,5 @@ On November 25, 2024, special counsel [[jack-smith|Jack Smith]] filed a six-page
 4. Badlands News Brief — "The Free Market of Ideas Condemns the Regime", raw/badlands-news-brief-363.md
 5. Badlands Media — "Badlands News Brief: The Biden Crime Family Begins to Unravel ...", URL: https://badlands.substack.com/p/badlands-news-brief-505
 6. Badlands Brief — "It's Our Failed 'Resistance' and We Can Cry if We Want To", URL: https://badlands.substack.com/p/badlands-news-brief-656
+7. Badlands Brief — "Badlands News Brief: Bicameral Biden Presides Over a Global Minefield", URL: https://badlands.substack.com/p/badlands-news-brief-a27
+8. Badlands Brief — "Badlands News Brief: A Potato Visits Israel; A Ukrainian Does Not ...", URL: https://badlands.substack.com/p/badlands-news-brief-a7b

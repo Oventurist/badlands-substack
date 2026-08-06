@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [biden-family, congressional-investigation, suspicious-activity-reports]
-sources: [raw/badlands-news-brief-138.md]
+sources: [raw/badlands-news-brief-138.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a29.md]
 confidence: medium
 ---
 
@@ -18,5 +18,17 @@ As reported in the [[badlands-news-brief|Badlands News Brief]] covering March 14
 
 The records were expected to provide detail on the foreign business transactions of Hunter, James, and Frank Biden, and on the broader question of whether Joe Biden remained compromised by foreign governments — particularly communist China — through his family's business activity.[1]
 
+## December 2023 deposition subpoena
+
+James Biden was among the family members and business associates subpoenaed in November 2023 by [[house-oversight-committee|House Oversight]] chairman [[james-comer|James Comer]] as part of the [[biden-impeachment-inquiry|impeachment inquiry]] into his brother, President [[joe-biden|Joe Biden]], and was directed to appear for a deposition on December 6, 2023.[2] Badlands writer [[just-human|Just Human]] reported that James Biden failed to show for his interview with the House impeachment inquiry panel, the same week [[hunter-biden|Hunter Biden]] sought to avoid a closed-door transcribed deposition.[2]
+
+## Impeachment inquiry testimony (February 2024)
+
+On February 21, 2024, James Biden sat for an hours-long closed-door interview with the House Oversight and Judiciary Committees as part of the [[biden-impeachment-inquiry|impeachment inquiry]] into his brother, and told investigators that President [[joe-biden|Joe Biden]] was not involved in any of his financial deals.[3] In a 10-page opening statement obtained by Politico, he sought to draw a hard line between the president and his own decades-long business arrangements: "I have had a 50-year career in a variety of business ventures. Joe Biden has never had any involvement or any direct or indirect financial interest in those activities. None. I never asked my brother to take any official action on behalf of me, my business associates, or anyone else."[3]
+
+Badlands writer [[simon-esler|Simon Esler]] rejected the framing as implausible, arguing that the notion James Biden's ventures were sealed off from his brother's power and influence was untenable given the family's documented pattern of trading on access.[3] Esler pointed in particular to the December 2017 charging of [[hunter-biden|Hunter Biden]]'s partner [[patrick-ho|Patrick Ho]], whose first telephone call after being charged went to James Biden, a call James said he assumed was meant for Hunter, adding, "There is nothing else I have to say. I don't want to be dragged into this anymore."[3] Leaked texts later showed [[devon-archer|Devon Archer]] telling Hunter, "Nice quote from uncle jimmy," and Hunter replying, "yeah I'm delighted."[3]
+
 ## References
 1. Badlands News Brief — "Drones, Speeches ... and a Swiss Bank", URL: https://badlands.substack.com/p/badlands-news-brief-138
+2. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
+3. Badlands Brief — "Badlands News Brief: Deadline Deals and Crime Families", URL: https://badlands.substack.com/p/badlands-news-brief-a29

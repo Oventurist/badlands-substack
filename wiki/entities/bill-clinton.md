@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [presidency, bin-laden, memorandum-of-notification, china, scandals]
-sources: [raw/a-dereliction-of-duty.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/badlands-brief-314.md, raw/badlands-brief-40d.md, raw/badlands-brief-52f.md, raw/badlands-brief-b74.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-6db.md]
+sources: [raw/a-dereliction-of-duty.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/badlands-brief-314.md, raw/badlands-brief-40d.md, raw/badlands-brief-52f.md, raw/badlands-brief-b74.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-97e.md]
 confidence: medium
 ---
 
@@ -96,6 +96,10 @@ In January 2023 the New York Post reported that disgraced crypto mogul [[sam-ban
 
 [[justin-deschamps|Justin Deschamps]] of [[badlands-media|Badlands Media]] suggested the sequence illustrated how the Clinton machine operates, speculating that Clinton may have vetted Bankman-Fried in the Bahamas — a five-hour flight from [[jeffrey-epstein|Jeffrey Epstein]]'s island — as a future money-laundering conduit before the CGI invitation followed.[11] He argued that Bankman-Fried subsequently acted as a bagman for globalist interests in Ukraine, the Biden administration and the Democratic National Committee via the [[ftx|FTX]] scandal.[11]
 
+## Trump's May 2025 "body count" posts
+
+Among a series of social media posts in May 2025, [[donald-trump|Donald Trump]] revived a 2016 video implying that Clinton and former Secretary of State [[hillary-clinton|Hillary Clinton]] were tied to several deaths, an allegation known as the "Clinton body count" conspiracy theory.[12] The Washington Post reported the claims as false and long-standing.[12] Badlands writer Burning Bright framed the sitting president's amplification of the material as evidence of "the timeline war we're engaged in."[12]
+
 ## References
 1. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
 2. Badlands Brief — "America for Sale - Part 1", URL: https://badlands.substack.com/p/america-for-sale-part-1
@@ -108,3 +112,4 @@ In January 2023 the New York Post reported that disgraced crypto mogul [[sam-ban
 9. Badlands News Brief — "Pre-Dawn Raids, Russiagate Racketeering, & Real-Time Adverse Reporting", URL: https://badlands.substack.com/p/badlands-news-brief-32d
 10. Badlands Brief — "Badlands News Brief: Hypocrisy Roundup & Rug-pulls Galore", URL: https://badlands.substack.com/p/badlands-news-brief-378
 11. Badlands Brief — "Badlands News Brief: Mostly Peaceful Riots and Billionaire Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-6db
+12. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e

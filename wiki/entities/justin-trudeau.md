@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [canada, liberal-party, prime-minister]
-sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-276.md, raw/badlands-news-brief-2ca.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-397.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-7e6.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-276.md, raw/badlands-news-brief-2ca.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-397.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-a82.md]
 confidence: low
 ---
 
@@ -113,6 +113,12 @@ In April 2023, Trudeau publicly accused [[elon-musk|Elon Musk]] of "attacking fo
 
 Writing for [[badlands-media|Badlands Media]], [[ryan-delarme|Ryan DeLarme]] rejected Trudeau's framing, arguing that the vehemence of the reaction to a factually accurate label indicated an agenda dependent on public confidence in media neutrality.[18] DeLarme characterized the incident as Twitter applying to mainstream outlets the same standards the platform had long applied to non-mainstream voices.[18]
 
+## June 2024 by-election defeat and resignation pressure
+
+In late June 2024 the heat on Trudeau intensified after his party's candidate suffered a surprise defeat in a special election for Toronto—St. Paul's, an urban seat the Liberals had held since 1993.[19] The staggering loss, amid Canada's affordability crisis and a swelling desire for political change, amplified pressure on him to resign for the good of his party, placing him among a long list of sinking incumbent governments that emerged from the pandemic politically wounded.[19] Pressed by CBC host David Cochrane on whether he accepted that he was the main reason his party was struggling so badly, Trudeau replied that he had discussed the matter with other leaders at the [[g7|G7]] and at the Ukraine peace conference in Switzerland, and that "everywhere, people are struggling with high inflation, cost of living issues, interest rates, housing challenges, childcare challenges," adding that Canada was "doing better than many countries."[19]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] wrote that Trudeau was being pressured to leave by the end of summer so his party could choose a new leader before the following year's election, called his answer detached from reality, and argued that the conditions he described were the fault of the G7, Trudeau himself and their global handlers rather than an inexplicable accident.[19] She closed by saying she did not think the regime could replace [[joe-biden|Joe Biden]], and was very curious whether it could replace Trudeau.[19]
+
 ## References
 1. Badlands Brief — "A Re-Alignment of World Systems", URL: https://badlands.substack.com/p/a-re-alignment-of-world-systems
 2. Badlands Brief — "Badlands News Brief: A President's Passing & A Prime Minister's Prostate", URL: https://badlands.substack.com/p/badlands-news-brief-08e
@@ -131,3 +137,4 @@ Writing for [[badlands-media|Badlands Media]], [[ryan-delarme|Ryan DeLarme]] rej
 15. Badlands Brief — "Badlands News Brief: North American Trade Troubles & Unipartisan Panic", URL: https://badlands.substack.com/p/badlands-news-brief-52f
 16. Badlands Brief - "Badlands News Brief: Tracking Resignations and Treasonous Trials", URL: https://badlands.substack.com/p/badlands-news-brief-576
 18. Badlands Brief — "GART is Here! Plus, Exposure & Disclosure Abound", URL: https://badlands.substack.com/p/badlands-news-brief-7e6
+19. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82

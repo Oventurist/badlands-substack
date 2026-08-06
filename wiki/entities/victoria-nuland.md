@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [neoconservative, nato, ukraine, state-department]
-sources: [raw/a-bright-red-line.md, raw/a-dereliction-of-duty.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-7db.md]
+sources: [raw/a-bright-red-line.md, raw/a-dereliction-of-duty.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-7db.md, raw/badlands-news-brief-a38.md]
 confidence: medium
 ---
 
@@ -38,6 +38,10 @@ On Tuesday, March 5, 2024, Secretary of State [[antony-blinken|Antony Blinken]] 
 
 Her announced temporary replacement was career diplomat [[john-bass|John Bass]], then Under Secretary of State for Management and a former ambassador to Afghanistan who had overseen Biden's botched withdrawal from Kabul — an irony noted by commentators given that he would also oversee Ukraine policy at a juncture when Kiev was clearly against the ropes.[6] [[burning-bright|Burning Bright]] described Nuland as \"one of the most hawkish anti-Russia Deep State nodes in the west,\" pointed to her key role in the 2014 Maidan coup, and argued that she had sought further U.S. entrenchment in both Syria and Iraq; her removal, in his reading, was part of a \"Botched Boogaloo 2.0\" in which the 2021 Kabul withdrawal pattern would repeat in Syria and Iraq, consistent with [[just-human|Just Human]]'s thesis about the [[doha-agreement|Doha Agreement]] and with [[jon-herold|Jon Herold]]'s [[devolution|devolution]] framework.[6]
 
+## Ukraine biolabs remark
+
+Badlands Media commentary published in April 2024 cited Nuland — derisively called "Tori 'The War Pig' Nuland" — as the official who "let the cat out of the bag" regarding biological research facilities in [[ukraine|Ukraine]], after what the writer described as breathless media denials that such laboratories existed.[7]
+
 ## References
 
 1. Badlands Brief — "A Bright Red Line", URL: https://badlands.substack.com/p/a-bright-red-line
@@ -46,3 +50,4 @@ Her announced temporary replacement was career diplomat [[john-bass|John Bass]],
 4. Badlands Media — "Badlands News Brief: Ukraine U-Turn, Biden Bumbles & Committees Command", URL: https://badlands.substack.com/p/badlands-news-brief-152
 5. Badlands Brief — "Musk the Peacemaker, Constitutional Overreach & POTATUS", URL: https://badlands.substack.com/p/badlands-news-brief-670
 6. Badlands Brief — "Badlands News Brief: Nuland Neutered, Biden Blasted and Trump Triumphant", URL: https://badlands.substack.com/p/badlands-news-brief-7db
+7. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [canada, banking, green-finance, goldman-sachs, city-of-london]
-sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-1ce.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-314.md, raw/badlands-brief-577.md, raw/badlands-brief-a84.md, raw/badlands-brief-db7.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-719.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-1ce.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-314.md, raw/badlands-brief-577.md, raw/badlands-brief-a84.md, raw/badlands-brief-db7.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-719.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-ae1.md]
 confidence: medium
 ---
 
@@ -122,6 +122,19 @@ On 28 April 2025 Carney was elected prime minister of [[canada|Canada]] in his o
 
 Badlands contributor [[chris-paul|Chris Paul]] dismissed the result with the quip that "Canadian Ron! DeeSantis goes the way of the standard Ron! DeeSantis, minus the high heels."[18] [[burning-bright|Burning Bright]] argued that "the City on the Hill template is going to wreak havoc on the mind of the collectivist west as the Golden Age gets going," contending that as Americans go all in on sovereignty, decentralization and small government, the regime — "from Canada to the EU" — was doubling down.[18]
 
+## Trump's termination of Canada trade talks (June 2025)
+
+In late June 2025 President Donald Trump announced the termination of all trade talks with [[canada|Canada]] over Ottawa's digital services tax, which he called a "direct and blatant attack on our country."[19] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]], citing his Breaking History co-host [[matthew-ehret|Matt Ehret]], described Carney as no run-of-the-mill globalist but "perhaps the king of all central bankers," likely installed to defend Canada's hidden dominant position over the United States by virtue of its standing in the British Commonwealth.[19] He read Trump's humiliation of Carney by ending negotiations as a sign of the collapse of the central banking cabal and the takedown of the City of London and its partners.[19]
+
+## First days as prime minister (March 2025)
+
+Sworn in at Rideau Hall on Friday, March 14, 2025, Carney became the first Canadian prime minister who had never been elected to any office, and moved immediately toward a general election campaign; commentary noted that while there had been unelected prime ministers without a seat in the House of Commons before, none had entered office with no electoral record at all.[20] He named a smaller, 24-member cabinet intended to symbolize focus and action, and killed the unpopular consumer carbon levy by the end of his first day, declaring that "the moment is a moment of crisis."[20] Observers stressed that he had been "bubble-wrapped" by a soft, quick [[liberal-party-of-canada|Liberal]] leadership race and now faced hard campaigning against Conservative leader [[pierre-poilievre|Pierre Poilievre]] in the middle of a trade war with a U.S. president who alternated between tariff threats, pauses, and social-media posts about annexing [[canada|Canada]].[20]
+
+Carney made his first foreign trip to Paris and London on Monday, March 17, 2025, seeking alliances with the two countries that shaped Canada's early existence as he dealt with [[donald-trump|Donald Trump]]'s pressure on Canadian sovereignty and economy.[20] At his swearing-in he had said the country was built on the bedrock of three peoples — French, English and Indigenous — and that Canada is fundamentally different from America and will "never, ever, in any way shape or form, be part of the United States."[20] A senior government official briefing reporters said the purpose of the trip was to double down on partnerships with Canada's two founding countries and that Canada is a "good friend of the United States but we all know what is going on"; University of Toronto professor emeritus Nelson Wiseman said "the Trump factor is the reason for the trip" and "towers over everything else Carney must deal with."[20]
+
+Badlands commentator [[ashe-in-america|Ashe in America]] characterized the transition as "a bloodline banker at the helm of Maple World," recalling Trump's December Truth Social post asking why the United States subsidizes Canada "to the tune of over $100,000,000 a year" and suggesting many Canadians want statehood; she argued that removing subsidies would force change in Canada and that Canadian ideology — "collectivist elitists with a monarch on their money" — is incompatible with American liberty.[20] [[burning-bright|Burning Bright]] added that Canadians have long imagined themselves as elves superior to mortal Americans while in reality resembling hobbits, warning that "if the globalists win, there won't be a Canada."[20]
+
+
 ## References
 
 1. Badlands Brief — "A Re-Alignment of World Systems", URL: https://badlands.substack.com/p/a-re-alignment-of-world-systems
@@ -142,3 +155,5 @@ Badlands contributor [[chris-paul|Chris Paul]] dismissed the result with the qui
 16. Badlands Brief — "Badlands News Brief: Shutdown Consequences, Canadian Propaganda, & Console War Conclusions", URL: https://badlands.substack.com/p/badlands-news-brief-545
 17. Badlands Brief — "Badlands News Brief: Burn Bags, Kratom, & Insider Trading", URL: https://badlands.substack.com/p/badlands-news-brief-5a3
 18. Badlands News Brief — "Atmospheric Phenomenon & Record Deportations", URL: https://badlands.substack.com/p/badlands-news-brief-719
+19. Badlands News Brief — "Shadow Feds, Activist Courts, & Lasting Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a69
+20. Badlands News Brief — "Defiant Deportations & Canadian Freeloaders", URL: https://badlands.substack.com/p/badlands-news-brief-ae1

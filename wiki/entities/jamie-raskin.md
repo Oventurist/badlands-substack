@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, democrats, epstein-files, oversight]
-sources: [raw/badlands-brief-314.md, raw/badlands-news-brief-4d9.md]
+sources: [raw/badlands-brief-314.md, raw/badlands-news-brief-4d9.md, raw/badlands-news-brief-a34.md]
 confidence: medium
 ---
 
@@ -22,6 +22,11 @@ Raskin, a former member of the January 6 select committee, pointed to a 2022 bil
 
 Badlands commentary characterized the effort — described as a joint push with Rep. [[eric-swalwell|Eric Swalwell]] — as a coping mechanism unlikely to reach the floor under Speaker [[mike-johnson|Mike Johnson]].[2]
 
+## February 2025: Remarks on Elon Musk
+
+In February 2025 Raskin drew criticism from Badlands commentators over remarks about [[elon-musk|Elon Musk]] made amid a wave of threats and vandalism directed at [[tesla|Tesla]] owners and dealerships, including notes left on vehicles in Arcata, California by a group calling itself [[students-against-nazi-extremism|Students Against Nazi Extremism]].[3] The hosts argued that Raskin was being overtly xenophobic about a successful legal immigrant and that his rhetoric amounted to dog-whistling supporters toward further acts of violence against Tesla and possibly Musk himself; they also described him as appearing demoralized and defeated in the clip in question.[3]
+
 ## References
 1. Badlands Brief — "Nationalized Elections, Nazi Bankers & Sovereign Shielding", URL: https://badlands.substack.com/p/badlands-brief-314
 2. Badlands News Brief — "Supreme Court Backs Trump & The REEEEEE Commences", URL: https://badlands.substack.com/p/badlands-news-brief-4d9
+3. Badlands Brief — "Badlands News Brief: Rising Demand for DC Defenders & A Sovereign Spring Social", URL: https://badlands.substack.com/p/badlands-news-brief-a34

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, alternative-media, truth-community]
-sources: [raw/badlands-media-weekly-show-schedule.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-44c.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-7c5.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-8bd.md]
+sources: [raw/badlands-media-weekly-show-schedule.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-44c.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-7c5.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-a31.md]
 confidence: high
 ---
 
@@ -136,6 +136,18 @@ Badlands Media produced a live special covering the [[2024-us-general-election|2
 
 The accompanying News Brief carried takes from [[ashe-in-america|Ashe in America]] on Trump's mandate and from [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] on Israeli reactions to a second Trump term and [[benjamin-netanyahu|Benjamin Netanyahu]]'s dismissal of Defense Minister [[yoav-gallant|Yoav Gallant]].[20] The edition also promoted longtime sponsor EasyRX, which was offering 25 percent off orders of $100 or more with a Black Friday promo code.[20]
 
+## July 2025 activity
+
+Badlands Media promoted the premiere of [[codex-911|CODEX 911]], an original film by [[brad-zerbo|Brad Zerbo]], at the GART Deadwood event, offering virtual tickets for remote viewers.[21] The organization also originated reporting on the [[doge-ai-deregulation-decision-tool|DOGE AI Deregulation Decision Tool]] carried in the [[badlands-news-brief|Badlands News Brief]] of July 29, 2025, and announced the third season of Badlands Book Club, "The Fourth Turning," hosted by [[ashe-in-america|Ashe in America]] and [[canncon|CannCon]].[21]
+
+## Coverage of the April 11, 2024 news cycle
+
+In its News Brief for Thursday, April 11, 2024, the Badlands Media team hand-picked items spanning [[donald-trump|Donald Trump]]'s demand for earlier debates with [[joe-biden|Joe Biden]], Biden's "ironclad" pledge to [[israel|Israel]] amid [[iran|Iranian]] reprisal threats, the [[european-parliament|European Parliament]]'s approval of the [[eu-asylum-and-migration-pact|EU Asylum and Migration Pact]], Russia's hypersonic missile barrage against [[ukraine|Ukraine]]'s power grid, [[benjamin-netanyahu|Benjamin Netanyahu]]'s warning of scenarios beyond Gaza, and the death of [[oj-simpson|O.J. Simpson]].[22] Bonus items covered the death sentence handed to Vietnamese tycoon [[truong-my-lan|Truong My Lan]], Justice Department findings on [[fani-willis|Fani Willis]]'s grant reporting, and [[elon-musk|Elon Musk]]'s disclosure of a congressional inquiry over Brazil.[22] Commentary came from [[burning-bright|Burning Bright]], [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]], and [[ashe-in-america|Ashe in America]], consistent with the outlet's framing that "We are the news now."[22]
+
+## August 2025 events and publishing
+
+The August 8, 2025 News Brief promoted the debut of Burning Bright Publishing, whose first novel, Saving Seoul, was described as a martial arts epic about fighter Akio Prince battling a crime syndicate in a near-future Far East and the opening volume of the Sword Punk Trilogy; a Kickstarter offering a signed, leatherbound collector's edition ran through August 31 at BadlandsMedia.tv/SwordPunk under the banner "Join the War of Stories."[23] The same edition announced a new trailer from [[brad-zerbo|Brad Zerbo]] for [[codex-911|CODEX 9/11]], set to premiere the following Saturday in Deadwood alongside the GART gathering, with virtual tickets sold through the Badlands events page.[23] The brief carried its standard note that opinions expressed are those of the authors and do not necessarily reflect the positions of Badlands Media.[23]
+
 ## References
 1. Badlands Media — "Badlands Media Weekly Show Schedule", URL: https://badlands.substack.com/p/badlands-media-weekly-show-schedule
 2. Badlands Brief — "Badlands News Brief: Tracking Resignations, Scare Events & the Death of Taxes", URL: https://badlands.substack.com/p/badlands-news-brief-017
@@ -157,3 +169,6 @@ The accompanying News Brief carried takes from [[ashe-in-america|Ashe in America
 18. Badlands Brief — "Happy Independence Day!", URL: https://badlands.substack.com/p/badlands-news-brief-7c5
 19. Badlands Brief — "GART is Here! Plus, Exposure & Disclosure Abound", URL: https://badlands.substack.com/p/badlands-news-brief-7e6
 20. Badlands Brief — "Badlands News Brief: A New Golden Age Begins ...?", URL: https://badlands.substack.com/p/badlands-news-brief-8bd
+21. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
+22. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38
+23. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [arctic, geopolitics, denmark, trump, tariffs, nato]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-094.md, raw/badlands-brief-577.md, raw/badlands-brief-a20.md, raw/badlands-brief-b74.md, raw/badlands-brief-b82.md, raw/badlands-brief-c07.md, raw/badlands-brief-e87.md, raw/badlands-brief-e3b.md, raw/badlands-news-brief-290.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-094.md, raw/badlands-brief-577.md, raw/badlands-brief-a20.md, raw/badlands-brief-b74.md, raw/badlands-brief-b82.md, raw/badlands-brief-c07.md, raw/badlands-brief-e87.md, raw/badlands-brief-e3b.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-9cd.md]
 confidence: medium
 ---
 
@@ -88,6 +88,12 @@ Commentary on the island's economic value noted that if Greenland became the 51s
 
 Badlands writer GhostofBasedPatrickHenry argued that Europe's decision to dismantle its manufacturing base, energy industry and military left it without a meaningful say, concluding that "Europe can go sit in the corner while Mommy and Daddy (USA and Russia) figure out what to do with them."[10]
 
+## Egede's independence declaration (January 2025)
+
+In his New Year speech at the start of 2025, Greenland's Prime Minister [[mute-egede|Mute Egede]] emphasized his desire to pursue independence from [[denmark|Denmark]], its former colonial ruler — a shift the Wall Street Journal described as a significant change in the rhetoric surrounding the Arctic island's future.[11] The statement followed Trump's pre-Christmas reopening of discussions about purchasing the rare-earth-rich island, in which he wrote on Truth Social that "for purposes of National Security and Freedom throughout the World, the United States of America feels that the ownership and control of Greenland is an absolute necessity," while announcing Ken Howery as US ambassador to the Kingdom of Denmark.[11]
+
+Badlands writer [[ashe-in-america|Ashe in America]] argued that globalists and their media had mocked Trump over the purchase idea and tried to paint Danes and Greenlanders as potential Trump victims, a framing that took a hit when Egede spoke.[11] She read the episode as "the art of the deal on full display," with Egede recognizing his leverage and negotiating from a position of autonomy and strength, and wondered whether future generations would view a Greenland Purchase the way Americans view the Louisiana Purchase — before asking, "Now what are we going to do about Canada?"[11]
+
 ## References
 
 1. Badlands Brief — "Arctic Escalation and Tropic Trouble for the Financial System", URL: https://badlands.substack.com/p/badlands-brief-02a
@@ -100,3 +106,4 @@ Badlands writer GhostofBasedPatrickHenry argued that Europe's decision to disman
 8. Badlands Brief — "Poetic Agitprop, Cold War Reruns, & Kokomo From the Ropes", URL: https://badlands.substack.com/p/badlands-brief-e87
 9. Badlands Brief — "Mad-Lad Maduro, Media Meltdowns & Weapons of the Future", URL: https://badlands.substack.com/p/badlands-brief-e3b
 10. Badlands Brief — "Badlands News Brief: Global Grifters, Fleeing Fellows, and a Surprisingly Friendly Funeral", URL: https://badlands.substack.com/p/badlands-news-brief-290
+11. Badlands Brief — "Badlands News Brief: Energy Elevates Collaboration as the Senate Steals Centerstage", URL: https://badlands.substack.com/p/badlands-news-brief-9cd

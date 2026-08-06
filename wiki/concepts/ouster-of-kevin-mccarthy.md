@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [congress, speaker-of-the-house, motion-to-vacate, republican-party, 2023]
-sources: [raw/badlands-news-brief-11b.md, raw/badlands-news-brief-132.md]
+sources: [raw/badlands-news-brief-11b.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-948.md]
 confidence: high
 ---
 
@@ -36,6 +36,11 @@ Next steps were highly uncertain, with no obvious successor to lead the House Re
 
 The commentary argued that if McCarthy had been Trump's pick for Speaker, the purpose was not to reform Congress or improve the regime but to help expose it, and that McCarthy — wittingly, in the author's estimation — played that role to perfection.[1] The chaos widely predicted to follow was characterized not as a bug of patriot psychological operations but as a feature, consistent with the community's reading that "we were told we were watching a movie" by a military intelligence information dissemination program, and summarized in the formula "Exposure > Disclosure > Justice."[1]
 
+## Aftermath: McCarthy's resignation from Congress
+
+On December 6, 2023, roughly two months after being removed as speaker, [[kevin-mccarthy|Kevin McCarthy]] announced in a Wall Street Journal op-ed that he would resign his seat at the end of the year to "serve America in new ways," saying he would continue recruiting candidates and supporting the next generation of Republican leaders.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Congressional Chaos, Acceleration & Escalation", URL: https://badlands.substack.com/p/badlands-news-brief-11b
 2. Badlands Brief — "Badlands News Brief: Speaker Trump, Proxy War Funding & Emergency Alerts", URL: https://badlands.substack.com/p/badlands-news-brief-132
+3. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948

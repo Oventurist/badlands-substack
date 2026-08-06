@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, contributor, fifth-generation-warfare, epistemology]
-sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-blast.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-6b6.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-8c5.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-blast.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-6b6.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-9e8.md]
 confidence: medium
 ---
 
@@ -183,6 +183,14 @@ Responding to the [[supreme-court-of-the-united-states|Supreme Court]]'s Februar
 
 He concluded that the problem might be far greater than a rigged election — a system "at best defunct" in defending the rights of the people and "at worst, a total tyranny" — and asked, after petitions, lawsuits and protests had been exhausted, "if not us, then who? If not now, then when?"[28] Comparing the refusal to investigate to declining to pursue a murder over a clerical defect, he warned that if the matter faded into "the fog of history," future generations would not know enough to ask for the truth.[28]
 
+## Commentary on the Trump Arrest Announcement (March 2023)
+
+In the March 20, 2023 Badlands News Brief, Deschamps offered the team's "Our Take" on [[donald-trump|Donald Trump]]'s announcement that he expected to be arrested by Manhattan District Attorney [[alvin-bragg|Alvin Bragg]], writing that "Trump is a master of navigating optics and legal/political battles" and was using the threat of indictment to campaign and raise awareness.[29] Contrary to the spin he expected from legacy media, Deschamps called it "a brilliant move by Trump and a good step forward for the [[america-first-movement|America First]] agenda."[29]
+
+Deschamps grounded that view in a broader argument about the [[rule-of-law|rule of law]], writing that no nation can provide success for its citizenry without true rule of law, which he called "the cornerstone upon which all social enterprise must rest, such as government, justice, and business."[29] Where it is absent — a condition he said the world had arguably been in "for the past 1000 years or more" — "the law of the jungle, might is right, the color of law is the order of the day."[29] He argued that Trump must expose the fraud of the existing legal system, a project begun years earlier, by placing himself at the front of the line and standing with people harmed by the defunct system.[29]
+
+He predicted that the [[lawfare|lawfare]] machine with [[deep-state-cabal|Cabal]] actors "at the wheel" would keep destroying its own credibility by pursuing Trump in unprecedented ways, and that [[uniparty|uniparty]] deep-state actors would fail to prevent Trump's 2024 run through indictment.[29] The episode, he concluded, would produce more evidence of endemic fraud within the system, arming the public to "take up our duty to restore the rule of law once more, for the benefit of ourselves and our progeny."[29]
+
 ## References
 
 1. Badlands Brief — "AI Can Help Us Expose the NWO", URL: https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo
@@ -213,3 +221,4 @@ He concluded that the problem might be far greater than a rigged election — a 
 26. Badlands Brief — "Badlands News Brief: Trump Defiant, Biden Protected & Woke Worn", URL: https://badlands.substack.com/p/badlands-news-brief-7a7
 27. Badlands Brief - "Badlands News Brief: Missing Planes, Missing Funds & Missing Metrics", URL: https://badlands.substack.com/p/badlands-news-brief-82f
 28. Badlands Brief — "Badlands News Brief: Putin Postures, Voting Matters & J6 Subpoenas", URL: https://badlands.substack.com/p/badlands-news-brief-8c5
+29. Badlands Brief — "Badlands News Brief: Trump Arrest ... Panic or No Panic?", URL: https://badlands.substack.com/p/badlands-news-brief-9e8

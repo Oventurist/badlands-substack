@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [independent-media, uap, disclosure, 2026]
-sources: [raw/badlands-brief-835.md, raw/badlands-brief-b38.md, raw/badlands-brief-b82.md, raw/badlands-brief-d17.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-0ef.md]
+sources: [raw/badlands-brief-835.md, raw/badlands-brief-b38.md, raw/badlands-brief-b82.md, raw/badlands-brief-d17.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-a04.md]
 confidence: low
 ---
 
@@ -41,6 +41,11 @@ In December 2025 President [[donald-trump|Donald Trump]] was reported to be prep
 
 The move would not legalize or decriminalize marijuana, but it would ease barriers to research and improve the finances of legal cannabis businesses.[7] Badlands contributor [[jordan-sather|Jordan Sather]] characterized the plan as a shift from Schedule I to Schedule III and predicted it would "blow so many left wing AND right wing minds."[7]
 
+## Julian Brown commentary (July 2025)
+
+In the [[badlands-news-brief|Badlands News Brief]] of July 29, 2025, Jordan Sather covered the disappearance of the 21-year-old inventor [[julian-brown|Julian Brown]], noting that Brown's mother said he was okay but that he was in hiding.[8] He quoted Nia Brown's statement to DailyMail: "I can confirm Julian is safe but in the best interest of his security I'm not able to provide any more information."[8]
+
+
 ## References
 
 1. Badlands Brief — "Virginia Democrats Lose the Plot and Go For Tyranny", URL: https://badlands.substack.com/p/badlands-brief-835
@@ -50,3 +55,4 @@ The move would not legalize or decriminalize marijuana, but it would ease barrie
 5. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-78b
 6. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-e18
 7. Badlands News Brief — "Weed Wins, Globalist Whisking, & Lizard-Led Impeachments", URL: https://badlands.substack.com/p/badlands-news-brief-0ef
+8. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04

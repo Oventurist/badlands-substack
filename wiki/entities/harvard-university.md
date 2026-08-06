@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [academia, higher-education, plagiarism, institutions]
-sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-748.md, raw/badlands-news-brief-7d4.md, raw/badlands-news-brief-80e.md]
+sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-748.md, raw/badlands-news-brief-7d4.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-a9e.md]
 confidence: medium
 ---
 
@@ -65,6 +65,16 @@ Speaking in the Oval Office on Thursday, April 17, 2025, Trump alleged that the 
 
 The request that the IRS cancel Harvard's exemption — which allows the university to receive tax-deductible donations and avoid income taxes on net earnings — formed part of a multipronged administration battle against the institution.[9]
 
+## March 2025 federal contract review
+
+On March 31, 2025, the Trump administration announced it would initiate a review of federal contracts with Harvard, describing it as an inquiry similar to the one conducted at [[columbia-university|Columbia University]], which had $400 million in funding paused and had yet to see it restored despite agreeing to all of the administration's stated demands.[10] The Departments of Education and Health and Human Services and the US General Services Administration were to assess $255.6 million in contracts between the federal government and Harvard and its affiliates, along with more than $8.7 billion in multiyear grant commitments.[10] The review was to determine whether any funding needed to be paused and was described as part of the efforts of the [[joint-task-force-to-combat-anti-semitism|Joint Task Force to Combat Anti-Semitism]].[10]
+
+## December 2023 early-application decline
+
+In December 2023, ZeroHedge, citing new Bloomberg data, reported that Harvard College received 17 percent fewer early-admission applications from high school seniors than the prior year — 7,921 non-binding early applications versus 9,553.[11] The outlet framed the drop as blowback against president [[claudine-gay|Claudine Gay]], whom it said had done more damage to the school's reputation than anyone in its nearly 500-year history, citing her handling of campus antisemitism and a perceived shift away from educational excellence toward "toxic woke narratives and political indoctrination."[11] Applications had been due on November 1, however, more than a month before Gay's appearance before lawmakers on Capitol Hill at which she declined to state plainly whether "calling for the genocide of Jews" constitutes bullying and harassment under the school's code of conduct.[11]
+
+Badlands writer [[burning-bright|Burning Bright]] highlighted that chronology, noting that the application data predated the plagiarism and antisemitism scandals and was obscured by a sensational headline.[11] He described Harvard as the epicenter of a "social circular firing squad" pattern in academia and as the symbolic heart of what he termed the Woke Industrial Complex, arguing that American universities were being allowed to destroy themselves in full public view.[11]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: MAGA Gets Branded as Biden Bungles Everything", URL: https://badlands.substack.com/p/badlands-news-brief-07e
@@ -76,3 +86,5 @@ The request that the IRS cancel Harvard's exemption — which allows the univers
 7. Badlands Brief — "Badlands News Brief: Remembrance, Razor Blade Throat, & Ukrainian Drone Assassins", URL: https://badlands.substack.com/p/badlands-news-brief-748
 8. Badlands Brief — "Badlands News Brief: Funding Freezes, Russian Oil, & Imminent Exposes", URL: https://badlands.substack.com/p/badlands-news-brief-7d4
 9. Badlands Brief — "Badlands News Brief: Musical Fed Chairs, Salvadoran Chess, & Cocktails in the Clink", URL: https://badlands.substack.com/p/badlands-news-brief-80e
+10. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72
+11. Badlands Brief — "Badlands News Brief: The Simulation Gets Very ... Very Weird", URL: https://badlands.substack.com/p/badlands-news-brief-a9e

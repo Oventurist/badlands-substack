@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [journalism, new-york-times, mbs, biography]
-sources: [raw/arabian-nights.md]
+sources: [raw/arabian-nights.md, raw/badlands-news-brief-a82.md]
 confidence: low
 ---
 
@@ -16,5 +16,10 @@ The author draws on Hubbard's March 2020 NYT article and states that he has read
 
 The author attributes hostile framing of MBS to the perspective of mainstream media outlets he characterizes as working for the [[cia|Clowns In America]], to whom MBS would appear as a real and existential threat.[1]
 
+## Badlands characterization
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] described Hubbard as a "CIA-shill" and his biography of [[mohammed-bin-salman|Mohammed bin Salman]] as a hatchet piece, while nonetheless citing it for the account of MBS's long exposition of [[vision-2030|Vision 2030]] to President [[barack-obama|Barack Obama]] at their 2015 White House meeting.[2]
+
 ## References
 1. Badlands Brief — "Arabian Nights", URL: https://badlands.substack.com/p/arabian-nights
+2. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82

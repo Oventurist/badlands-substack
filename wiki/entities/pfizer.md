@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [big-pharma, pfizer, advertising, viagra]
-sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-2b1.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-780.md, raw/badlands-news-brief-7c9.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-899.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-2b1.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-780.md, raw/badlands-news-brief-7c9.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-a61.md]
 confidence: medium
 ---
 
@@ -85,6 +85,10 @@ In September 2023 Pfizer said only about 24 percent of eligible Americans were l
 
 Pharmaceutical companies, pharmacists, and medical associations with longstanding ties to vaccine manufacturers including Pfizer, Merck, and Sanofi joined a new private coalition in 2025 to bypass the CDC's Advisory Committee on Immunization Practices, following Secretary Robert F. Kennedy Jr.'s dismissal of all ACIP members over conflicts of interest.[16] The coalition worked with the University of Minnesota's Vaccine Integrity Project to develop a "nongovernmental vaccine system" under which vaccines would be ordered directly from manufacturers.[16]
 
+## 2023 "directed evolution" undercover video
+
+In January 2023 [[project-veritas|Project Veritas]] published undercover footage of a man identified as Pfizer executive [[jordan-trishton-walker|Jordan Trishton Walker]], who purportedly described a company "[[directed-evolution|directed evolution]]" plan to mutate COVID-19 in-house and keep the disease a "cash cow."[17] Confronted by Project Veritas founder [[james-okeefe|James O'Keefe]], Walker recanted, calling himself a "liar" who had been "trying to impress a person on a date," requested police involvement, and physically attacked O'Keefe and his film crew.[17] The video attracted congressional curiosity but also intermittent Big Tech throttling and a partial media blackout, with the [[daily-mail|Daily Mail]] removing its article on the sting; critics read the episode as an attempt to rebrand [[gain-of-function-research|gain-of-function research]] before public exposure was intended.[17]
+
 ## References
 1. Badlands Brief — "America Has a CIA-Run Economy", URL: https://badlands.substack.com/p/america-has-a-cia-run-economy
 2. Badlands Brief — "The Reckoning of Fake Elections, Fake Wars and Fake Allies", URL: https://badlands.substack.com/p/badlands-brief-b62
@@ -102,3 +106,4 @@ Pharmaceutical companies, pharmacists, and medical associations with longstandin
 14. Badlands Brief — "Badlands News Brief: Opposition Intensifies. So Does Winning.", URL: https://badlands.substack.com/p/badlands-news-brief-7c9
 15. Badlands Brief — "Badlands News Brief: Missing Planes, Missing Funds & Missing Metrics", URL: https://badlands.substack.com/p/badlands-news-brief-82f
 16. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
+17. Badlands News Brief — "Big Pharma, Big Lies and Big Boomerangs", URL: https://badlands.substack.com/p/badlands-news-brief-a61

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cartels, mexico, narcotics, latin-america]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-579.md, raw/badlands-brief-7bf.md, raw/badlands-news-brief-238.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-7e5.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-579.md, raw/badlands-brief-7bf.md, raw/badlands-news-brief-238.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-7e5.md, raw/badlands-news-brief-a31.md]
 confidence: medium
 ---
 
@@ -47,6 +47,10 @@ A Justice Department Inspector General audit published in June 2025 revealed tha
 
 The insider said the hacker was surveilling a federal official and exploiting deep-rooted access to Mexico's critical infrastructure to locate informants.[6] The mercenary cybercriminal was described as offering "a menu of services" that included "exploiting mobile phones and other devices."[6] The disclosure formed part of a broader audit of the FBI's efforts to protect its investigations from technological surveillance.[6]
 
+## Named in the 2025 Maduro reward announcement
+
+In the August 7, 2025 announcement of a $50 million reward for the arrest of [[nicolas-maduro|Nicolás Maduro]], Attorney General [[pam-bondi|Pam Bondi]] listed the Sinaloa Cartel alongside [[tren-de-aragua|Tren de Aragua]] and the [[cartel-de-los-soles|Cartel of the Suns]] among the foreign terrorist organizations she said the Venezuelan leader used to move drugs and violence into the United States.[7] Bondi described the cocaine trade as the primary funding source for cartel operations in Venezuela and Mexico.[7]
+
 ## References
 1. Badlands Brief — "Somali Shatterpoints, Cartel Countermeasures, & Erosion of the World Order", URL: https://badlands.substack.com/p/badlands-brief-094
 2. Badlands Brief — "Two Cartels, Imminent Indictments, & A French Nun", URL: https://badlands.substack.com/p/badlands-brief-579
@@ -55,3 +59,4 @@ The insider said the hacker was surveilling a federal official and exploiting de
 
 5. Badlands Brief — "Damascus Has Fallen ... Cui Bono?", URL: https://badlands.substack.com/p/badlands-news-brief-7a5
 6. Badlands Brief — "Badlands News Brief: Cartel Cybersnoops & Teenage Spider Hackers", URL: https://badlands.substack.com/p/badlands-news-brief-7e5
+7. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31

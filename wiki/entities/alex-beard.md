@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [glencore, commodities, corruption, uk]
-sources: [raw/badlands-news-brief-06e.md]
+sources: [raw/badlands-news-brief-06e.md, raw/badlands-news-brief-a31.md]
 confidence: medium
 ---
 
@@ -22,6 +22,11 @@ The SFO first opened its Glencore investigation in 2019 over allegations of brib
 
 Badlands commentary linked the Glencore prosecution to a wider web of resource-extraction corruption, including Israeli mining magnate [[dan-gertler|Dan Gertler]] — sanctioned under [[executive-order-13818|Executive Order 13818]] in December 2017 — and to Glencore's pursuit of oil rights in Venezuela.[1]
 
+## Invoked in the Maduro reward debate (2025)
+
+After Attorney General [[pam-bondi|Pam Bondi]] announced a $50 million reward for the arrest of Venezuelan President [[nicolas-maduro|Nicolás Maduro]] in August 2025, Badlands commentator [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] cited Beard's case as evidence that Maduro had been pursuing globalist figures rather than merely serving cartels.[2] He noted that the former [[glencore|Glencore]] executive had been arrested in Britain the previous year on corruption charges related to Venezuelan oil scams directed against Maduro's government.[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Fake Electionception, Sovereign Alliance Digs & Chick Fights", URL: https://badlands.substack.com/p/badlands-news-brief-06e
+2. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31

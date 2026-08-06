@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [france, europe, politics]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-1cd.md, raw/badlands-brief-7ed.md, raw/badlands-brief-cd8.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-561.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-855.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-8fd.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-1cd.md, raw/badlands-brief-7ed.md, raw/badlands-brief-cd8.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-561.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-855.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-adc.md]
 confidence: medium
 ---
 
@@ -140,6 +140,14 @@ At a summit organized by France and Saudi Arabia in New York ahead of the [[unit
 
 On Monday, December 1, 2025, Macron and German Chancellor Friedrich Merz held a phone call with Vladimir Zelensky and several other European leaders, including Finnish President Alexander Stubb and European Commission President Ursula von der Leyen, a day before Steve Witkoff and Jared Kushner traveled to Moscow for talks with Vladimir Putin.[21] According to a transcript obtained by Der Spiegel, Macron said there was 'a possibility that the US will betray Ukraine on the issue of territory without clarity regarding security guarantees,' and warned that continued peace talks could pose a 'great danger' for Zelensky personally.[21]
 
+## Recognition of a Palestinian state (July 2025)
+
+Speaking at the [[2025-un-two-state-solution-conference|United Nations conference on the two-state solution]] on July 28, 2025, Saudi Foreign Minister Prince [[faisal-bin-farhan|Faisal bin Farhan]] welcomed Macron's stated intention to formally recognize a state of Palestine in September.[22] The French position was cited in Badlands commentary as an example of European governments moving toward Palestinian statehood in response to sustained Arab diplomatic and financial engagement.[22]
+
+## June 2024 European elections
+
+Badlands commentary named Macron, alongside Germany's [[olaf-scholz|Olaf Scholz]], as the leader most clearly rattled by the [[2024-european-parliament-elections|June 2024 European Parliament elections]], noting that both were soundly rejected by double-digit deficits amid record turnout and a strong showing by right and centre-right parties.[23] The result was described as ushering in a political earthquake in France, even though the vote did not directly alter national leadership in any member state.[23]
+
 ## References
 1. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
 2. Badlands Brief — "Saving the SAVE Act, Ending the Forever War & What to Make Of Joe Kent", URL: https://badlands.substack.com/p/badlands-brief-1cd
@@ -163,3 +171,5 @@ On Monday, December 1, 2025, Macron and German Chancellor Friedrich Merz held a 
 19. Badlands Brief — "Panic in DC ... And Israel ... Pretty Much Everywhere, Actually", URL: https://badlands.substack.com/p/badlands-news-brief-855
 20. Badlands Brief — "Palestinian Promises, Venezuelan Ventures, & Kazakh Considerations", URL: https://badlands.substack.com/p/badlands-news-brief-8ce
 21. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
+22. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
+23. Badlands Brief — "Badlands News Brief: Globalists Panic as Populism Takes Over the Zeitgeist", URL: https://badlands.substack.com/p/badlands-news-brief-adc

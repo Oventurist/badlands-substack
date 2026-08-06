@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, defense-minister, gaza, netanyahu]
-sources: [raw/badlands-news-brief-09d.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-914.md]
+sources: [raw/badlands-news-brief-09d.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-a82.md]
 confidence: medium
 ---
 
@@ -104,6 +104,10 @@ He proposed four new war goals corresponding to the four arenas in which Israel 
 
 The commentary predicted that the most likely outcome would be Gallant's dismissal and replacement, a step fraught with risk for Netanyahu given competing pressures within his coalition, with [[gideon-saar|Gideon Sa'ar]] the long-rumored successor and [[itamar-ben-gvir|Itamar Ben-Gvir]] the option most likely to provoke mutiny among the [[israel-defense-forces|IDF]] brass.[13] It also noted that both Gallant and [[benny-gantz|Benny Gantz]] are retired generals who, despite a long history as political rivals, found common ground in criticizing Netanyahu and appear to speak for an IDF leadership that has soured on the lack of strategic objectives.[13]
 
+## Reported role in the June 2024 crisis
+
+During the June 2024 coalition crisis, mainstream outlets reported that Gallant was [[joe-biden|Biden]]'s "inside man" in the Israeli government, and it was widely speculated that the Biden administration was pushing him to revolt against [[benjamin-netanyahu|Netanyahu]].[14] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that if [[benny-gantz|Benny Gantz]] could convince Gallant to resign and join his protest, Gantz would stand a decent chance of unseating Netanyahu in a new election.[14]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Iranian Crashes, Israeli Maneuvers & Trumpian Rhetoric", URL: https://badlands.substack.com/p/badlands-news-brief-09d
@@ -119,3 +123,4 @@ The commentary predicted that the most likely outcome would be Gallant's dismiss
 11. Badlands Brief — "Badlands News Brief: A New Golden Age Begins ...?", URL: https://badlands.substack.com/p/badlands-news-brief-8bd
 12. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889
 13. Badlands Brief — "Badlands News Brief: Trump Tours, Bannon Breaks Out & Israel Hesitates", URL: https://badlands.substack.com/p/badlands-news-brief-914
+14. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82

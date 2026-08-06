@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [bitcoin, blockchain, cryptocurrency, badlands-media]
-sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-news-brief-280.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-67e.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-817.md]
+sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-news-brief-280.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-67e.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a31.md]
 confidence: high
 ---
 
@@ -75,6 +75,14 @@ By November 12, 2025, Bitcoin was struggling to climb out of a $330 billion hole
 
 [[gmoney|GMONEY]] remarked in the [[badlands-news-brief|Badlands News Brief]] on the abrupt reversal of sentiment in his X feed, which had shifted from relentlessly bullish all year to "pure bearish DOOM," summarizing the dynamic as "RUG ON. RUG OFF." and asking how many leveraged traders "got rekt."[12] He framed the episode as "banker panic" and argued that tokenization on Bitcoin Layer 2 ends Wall Street's rigged games.[12]
 
+## May 2025 rally and the stablecoin bill
+
+Bitcoin reclaimed the $100,000 level in May 2025 and surged to $106,000 on a Sunday, a level not seen since early February and close to its all-time high of almost $110,000.[13] Forbes reported that [[jpmorgan-chase|JPMorgan]] analysts had flipped from gold to bitcoin, predicting bitcoin would outperform gold over the remainder of 2025, even as BlackRock issued what the outlet called a stark bitcoin warning.[13] The rally coincided with a U.S. bill to regulate [[stablecoin|stablecoin]] issuers — formally introducing crypto into the established financial system — heading for debate in Congress that week, with some observers expecting it to pass the Senate.[13] Coverage tied the year's extreme price swings to [[donald-trump|Trump]]'s disruption of the global trade order and attendant predictions of dollar collapse.[13]
+
+## August 2025 surge past $117,000
+
+Having fallen below $112,000 days earlier, bitcoin returned above $117,000 late in U.S. trading on Thursday, August 7, 2025, retaking the range it had held for most of July.[14] The crypto market was first lifted overnight by news of President [[donald-trump|Donald Trump]]'s intention to sign an executive order allowing crypto and other alternative assets in 401(k) retirement plans.[14] The later push above $117,000 followed the nomination of [[stephen-miran|Stephen Miran]] to the [[federal-reserve|Federal Reserve]] Board of Governors, a figure presumed to share at least part of the president's dovish view of interest rates.[14]
+
 ## References
 
 1. Badlands Media — "Badlands Media Weekly Show Schedule", URL: https://badlands.substack.com/p/badlands-media-weekly-show-schedule-36d
@@ -89,3 +97,5 @@ By November 12, 2025, Bitcoin was struggling to climb out of a $330 billion hole
 10. Badlands Brief — "Badlands News Brief: Trump Returns to DC as Globalists Panic", URL: https://badlands.substack.com/p/badlands-news-brief-67e
 11. Badlands News Brief — "The Bilateral Bromance & A Misled Grand Jury", URL: https://badlands.substack.com/p/badlands-news-brief-7bf
 12. Badlands Brief — "Badlands News Brief: MAGA Cracks, Fund Funnels, & Devilish Bees", URL: https://badlands.substack.com/p/badlands-news-brief-817
+13. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
+14. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31

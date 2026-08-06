@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [biosecurity, nih, pandemic, congress, oversight]
-sources: [raw/badlands-news-brief-125.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-8dc.md]
+sources: [raw/badlands-news-brief-125.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-a61.md]
 confidence: medium
 ---
 
@@ -28,7 +28,12 @@ In early May 2025, President [[donald-trump|Donald Trump]] signed an executive o
 
 The stated intent was to reduce the potential for laboratory-related incidents of the kind conducted on bat coronaviruses in China by the [[ecohealth-alliance|EcoHealth Alliance]] and the [[wuhan-institute-of-virology|Wuhan Institute of Virology]], and to protect Americans from lab accidents and biosecurity incidents such as those that likely caused COVID-19 and the 1977 Russian flu.[3] The order was reported alongside comments from molecular biologist [[alina-chan|Alina Chan]], who argued that high-risk research still requires substantially stronger oversight.[3] Badlands commentary framed the coming wave of COVID-19 disclosure as a question of attribution rather than authenticity, predicting that China would be allowed to save face while the US "Deep State" absorbed the blame.[3]
 
+## The "directed evolution" rebranding controversy
+
+In January 2023 the terminology surrounding gain-of-function work became a political flashpoint when [[project-veritas|Project Veritas]] released undercover footage of a man identified as [[pfizer|Pfizer]] executive [[jordan-trishton-walker|Jordan Trishton Walker]] describing a "[[directed-evolution|directed evolution]]" programme to mutate COVID-19 and keep the disease profitable.[4] Badlands contributor [[justin-deschamps|Justin Deschamps]] argued that "directed evolution" was a euphemistic rebranding of gain-of-function research that had not been meant for public exposure, and that the resulting Big Tech throttling and partial media blackout — including the deletion of a [[daily-mail|Daily Mail]] article — showed an interrupted narrative-management effort.[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Fake Polls Abound as the Sovereign Alliance Makes Moves", URL: https://badlands.substack.com/p/badlands-news-brief-125
 2. Badlands News Brief — "Unearthed Autopens, Inevitable Ceasefires, & 56 Human Kidneys", URL: https://badlands.substack.com/p/badlands-news-brief-541
 3. Badlands Brief — "Badlands News Brief: Gazan Seizures & Gay Porn Scandals", URL: https://badlands.substack.com/p/badlands-news-brief-8dc
+4. Badlands News Brief — "Big Pharma, Big Lies and Big Boomerangs", URL: https://badlands.substack.com/p/badlands-news-brief-a61

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, democrats, michigan, state-of-the-union]
-sources: [raw/badlands-brief-40d.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-845.md]
+sources: [raw/badlands-brief-40d.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-ae3.md]
 confidence: medium
 ---
 
@@ -32,10 +32,14 @@ In February 2024, Tlaib — an outspoken critic of President [[joe-biden|Joe Bid
 
 Tlaib, a liberal firebrand representing parts of Detroit and its suburbs, had previously accused Biden of supporting a Palestinian "genocide," warning in a November 2023 video: "Mr. President, the American people are not with you on this one... We will remember in 2024."[4] Her push came as Biden faced growing intraparty discontent, with chants of "Genocide Joe" and "ceasefire now" trailing him on the campaign trail and Democrats worried that alienating Michigan's large Arab American and Muslim population could cost him a battleground state crucial to his 2020 win.[4] Badlands Media writer [[ashe-in-america|Ashe in America]] framed the effort as part of the wider [[uncommitted-movement|uncommitted movement]] and as evidence of a Democratic coalition fracturing simultaneously among unions, climate activists, and Palestinian-aligned voters.[4]
 
-## References
+## November 2023 House censure
 
+On November 7, 2023, the House passed a GOP-led resolution censuring Tlaib over comments critical of Israel and supportive of Palestinians amid Israel's war against [[hamas|Hamas]], by a vote of 234 to 188, with four Republicans opposed and 22 Democrats in favor.[5] The resolution, introduced by Georgia Republican [[rich-mccormick|Rich McCormick]], advanced after a Democratic-led effort to block it failed, and constituted a rare and significant rebuke of the Michigan Democrat.[5] Tlaib argued the effort was designed to silence her and that colleagues had "resorted to distorting my positions in resolutions filled with obvious lies."[5] In an emotional floor speech she said, "It is important to separate people and governments. No government is beyond criticism. The idea that criticizing the government of Israel is antisemitic sets a very dangerous precedent," and added, "I can't believe I have to say this, but Palestinian people are not disposable."[5] Badlands commentary held that the [[censure-of-rashida-tlaib|censure]] was a meaningless virtue signal that left her committee assignments intact and likely strengthened her among supporters.[5]
+
+## References
 
 1. Badlands Brief — "Clinton Clashes, Royal Trafficking, & Fond WEF Farewells", URL: https://badlands.substack.com/p/badlands-brief-40d
 2. Badlands Brief — "Badlands News Brief: A Splintered Establishment & Tension Tightropes", URL: https://badlands.substack.com/p/badlands-news-brief-116
 3. Badlands Brief — "Problems Litter the Game Board; But Solutions Are Coming ...", URL: https://badlands.substack.com/p/badlands-news-brief-10a
 4. Badlands Brief — "Badlands News Brief: DemoCrabs in Biden's Bucket", URL: https://badlands.substack.com/p/badlands-news-brief-845
+5. Badlands Brief — "Badlands News Brief: Debates, Rallies ... and Deep State Implosions", URL: https://badlands.substack.com/p/badlands-news-brief-ae3

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [iran, president, reformist, diplomacy]
-sources: [raw/badlands-brief-1ae.md, raw/badlands-brief-686.md, raw/badlands-brief-71c.md, raw/badlands-brief-9ac.md, raw/badlands-brief-b38.md, raw/badlands-brief-c2d.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-6af.md]
+sources: [raw/badlands-brief-1ae.md, raw/badlands-brief-686.md, raw/badlands-brief-71c.md, raw/badlands-brief-9ac.md, raw/badlands-brief-b38.md, raw/badlands-brief-c2d.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-a40.md]
 confidence: low
 ---
 
@@ -56,6 +56,10 @@ In an interview with the American journalist [[tucker-carlson|Tucker Carlson]] a
 
 Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote that the interview had triggered much of the internet into an outcry, and credited Pezeshkian with successfully challenging the official narrative that Iran is governed by unhinged and murderous sociopaths — while judging Carlson's immediately preceding interview with historian [[scott-horton|Scott Horton]] more significant in content.[8]
 
+## June 2025 diplomacy during the Israel–Iran war
+
+In the aftermath of Israel's strike on [[iran|Iran]] in June 2025, Pezeshkian spoke by phone with Russian President [[vladimir-putin|Vladimir Putin]], who subsequently briefed Chinese leader [[xi-jinping|Xi Jinping]] on the exchange and reaffirmed Moscow's readiness to mediate between Iran and Israel if necessary.[9] Both Moscow and Beijing maintained that there is no military solution to the situation or to issues related to Iran's nuclear program, and that the matter must be resolved exclusively through political and diplomatic means.[9] During the same period, Iran's deputy foreign minister warned the BBC that direct US involvement would cause "hell" in the region, saying "this is not America's war."[9]
+
 ## References
 1. Badlands Brief — "DC Exposes Itself as the Middle East Gets Gloriously Strange", URL: https://badlands.substack.com/p/badlands-brief-1ae
 2. Badlands Brief — "To Infinity & Iran!", URL: https://badlands.substack.com/p/badlands-brief-686
@@ -65,3 +69,4 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote
 6. Badlands Brief — "Fake News Propaganda Exposed, Iranian Investment Opportunities, and Talibros in Moscow", URL: https://badlands.substack.com/p/badlands-brief-c2d
 7. Badlands Brief — "Badlands News Brief: A Coming Conclave & More Musical Chairs", URL: https://badlands.substack.com/p/badlands-news-brief-5c8
 8. Badlands Brief — "Badlands News Brief: ICE Swarms, TikTok Pivots, & Shoes Stay On", URL: https://badlands.substack.com/p/badlands-news-brief-6af
+9. Badlands News Brief — "A Constellation of Corruption & A Goldilocks Galaxy", URL: https://badlands.substack.com/p/badlands-news-brief-a40

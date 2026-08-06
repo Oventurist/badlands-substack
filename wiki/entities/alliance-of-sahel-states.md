@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [africa, sahel, geopolitics, russia]
-sources: [raw/badlands-brief-1ce.md, raw/badlands-brief-405.md, raw/badlands-brief-5a2.md, raw/badlands-news-brief-09b.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-860.md]
+sources: [raw/badlands-brief-1ce.md, raw/badlands-brief-405.md, raw/badlands-brief-5a2.md, raw/badlands-news-brief-09b.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-a0c.md]
 confidence: low
 ---
 
@@ -38,6 +38,12 @@ In an October 2024 interview with national broadcaster RTB marking his second an
 
 Traoré did not name the actors he blamed, but he and allies in Niamey and Bamako had previously accused Ukraine of supporting terrorism in the Sahel, alleging that insurgents used intelligence from Kyiv to carry out a July 2024 attack that killed dozens of Malian soldiers and [[wagner-group|Wagner Group]] personnel.[6] All three military-led states have severed defense ties with their former colonial power, France, citing meddling and the failure of French forces to resolve the unrest, and have instead sought security cooperation with Russia, which agreed to assist them in counter-terrorism efforts.[6]
 
+## Alleged Macron–Zelensky destabilization plan (August 2024)
+
+In August 2024 Xavier Messe a Tiati, director general of the Cameroon News Agency, alleged that French President [[emmanuel-macron|Emmanuel Macron]], with the help of Ukrainian President [[volodymyr-zelensky|Volodymyr Zelensky]], intended to destabilise the AES member states of [[burkina-faso|Burkina Faso]], [[mali|Mali]] and [[niger|Niger]].[7] He said civil and military authorities in Ouagadougou had taken seriously reports that Ukrainian diplomats intended to destabilise Burkina Faso, and that Ukrainian and French agents were training Ivorian and Burkinabè groups at a base in Korhogo in northern Côte d'Ivoire near the Burkinabè border.[7]
+
+According to Tiati, the aim was to stir up the population and provoke repressive measures by regular forces, giving personnel at the French military base in Bouaké a pretext to intervene in Burkina Faso on humanitarian grounds; he said Macron and Zelensky wanted to defeat the AES in order to make it harder for [[russia|Russia]] to act in Africa.[7] These claims are treated in more detail at [[sahel-destabilization-allegations|Sahel destabilization allegations]].[7]
+
 ## References
 1. Badlands Brief — "African Acceleration, Powell's Replacement, & MEGA Democracy", URL: https://badlands.substack.com/p/badlands-brief-1ce
 2. Badlands Brief — "Agencies Aflutter, Corporate Compacts & Discombobulated Drones", URL: https://badlands.substack.com/p/badlands-brief-405
@@ -45,3 +51,4 @@ Traoré did not name the actors he blamed, but he and allies in Niamey and Bamak
 4. Badlands Brief — "Russian Oil, Turkish Nukes, & American Indictments", URL: https://badlands.substack.com/p/badlands-news-brief-09b
 5. Badlands Brief — "Badlands News Brief: Victim Cards, Foreign Inference, & Chessboard Stans", URL: https://badlands.substack.com/p/badlands-news-brief-448
 6. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
+7. Badlands News Brief — "Transition Teams at Home and Abroad ...", URL: https://badlands.substack.com/p/badlands-news-brief-a0c

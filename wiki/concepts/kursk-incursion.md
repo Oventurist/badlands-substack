@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [russia, ukraine, kursk, war, putin]
-sources: [raw/badlands-news-brief-109.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-711.md]
+sources: [raw/badlands-news-brief-109.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-a0c.md, raw/badlands-news-brief-a71.md]
 confidence: medium
 ---
 
@@ -62,9 +62,26 @@ In his reading, the "NATO Nazi" strategic intent was three-fold: draw Russian fo
 
 He further noted that the troops committed to the incursion left Ukraine's eastern front vulnerable, that Russians had dug massive trench lines to defend the Kurskaya plant, and that this was not the first attack on a nuclear facility, citing May drone launches at the Russian-controlled [[zaporizhzhia-nuclear-power-plant|Zaporizhzhia plant]] and allegations that NATO was threatening the families of Ukrainian plant workers to extract sensitive information.[5] He concluded that [[nato|NATO]] must be dismantled and war crime tribunals empaneled to prosecute those at the [[pentagon|Pentagon]] and [[state-department|State Department]] responsible.[5]
 
+## Role in the Ukrainian "victory plan"
+
+In late August 2024 Ukrainian President [[volodymyr-zelensky|Volodymyr Zelensky]] explicitly folded the operation into his [[ukraine-victory-plan|victory plan]], saying that "Kursk region is part of our plan—Ukraine's victory plan. It may sound overly ambitious to some, but for us, it's an important plan."[6] Badlands writer [[burning-bright|Burning Bright]] characterised the incursion as a possibly successful, possibly catastrophic operation whose real function was to set terms at a negotiating table Kyiv had refused to acknowledge existed six months earlier.[6]
+
+[[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] described Zelensky as "flexing" about the invasion of Kursk and promised a Badlands Daily deep dive on the region's historic significance, how the Russians developed the strategy that defeated blitzkrieg there, and why Kursk would likely once again become the doom of what he called the Nazi regime.[6]
+
+## October 2024 Russian breakthrough
+
+By mid-October 2024, Ukraine's Kursk offensive had visibly failed: its forces had stalled only a couple of weeks after the initial push and the Russians had been retaking pieces of territory ever since, a reality obvious to those tracking war maps and geolocation data but shocking to audiences of establishment news sources.[7] Russian troops made significant advances from the western flank of Ukrainian positions amid the heaviest fighting on Russian territory since the August cross-border incursion began, and reports indicated a threat that Ukrainian units would be encircled; The Telegraph, usually a platform for pro-Ukraine coverage, noted that sources on both sides confirmed the breakthrough.[7] Simultaneously, Ukraine evacuated the Sumy region.[7]
+
+The Ukrainian military blogger DeepState said "the enemy pushed through the left flank of the Kursk grouping of Ukrainian defense forces" and that "we are on the verge of another mess due to the repetition of mistakes," though he later characterized the front lines as "difficult but under control."[7] Because DeepState had avoided updating his war maps to reflect significant Russian gains for many weeks — likely, ZeroHedge suggested, at the urging of officials in Kyiv seeking to present a facade of success — his admission was read as a sign that the situation had become dire.[7] Russian military bloggers reported that marines from the Pacific Fleet's 155th Guards Brigade were fighting around the Glushkovsky district of Kursk, where most Ukrainian forces had allegedly been overrun.[7]
+
+Badlands contributor GhostofBasedPatrickHenry preferred the [[rt|RT]] account of the episode, which highlighted Major General [[apty-alaudinov|Apty Alaudinov]] and the [[akhmat-special-forces|Akhmat Special Forces]] from Russia's Chechen Republic, and used the occasion to disparage the [[state-department|State Department]] and adjacent corporate media as a "laughing stock" by comparison.[7] He framed the Chechen deployment as the force "crushing the NATO blitzkrieg" in Kursk, following Vladimir Putin's recent visit to Dagestan to bless the unit.[7]
+
 ## References
+
 1. Badlands Brief — "Badlands News Brief: Trump and Elon Break the Internet", URL: https://badlands.substack.com/p/badlands-news-brief-109
 2. Badlands Brief — "Badlands News Brief: Energy EOs, Game-Changing AI, & Jewish Election Fraud", URL: https://badlands.substack.com/p/badlands-news-brief-32e
 3. Badlands Brief — "FEMA's Broke. Ukraine is Collapsing. The EU is Doomed.", URL: https://badlands.substack.com/p/badlands-news-brief-41f
 4. Badlands Brief — "Badlands News Brief: The Deep State has a Rough Weekend", URL: https://badlands.substack.com/p/badlands-news-brief-5aa
 5. Badlands Brief — "A Not so Brief Full of Sovereign SIGNAL", URL: https://badlands.substack.com/p/badlands-news-brief-711
+6. Badlands News Brief — "Transition Teams at Home and Abroad ...", URL: https://badlands.substack.com/p/badlands-news-brief-a0c
+7. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71

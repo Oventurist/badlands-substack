@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [courts, new-york, judiciary, donald-trump]
-sources: [raw/badlands-news-brief-023.md, raw/badlands-news-brief-12b.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-845.md]
+sources: [raw/badlands-news-brief-023.md, raw/badlands-news-brief-12b.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-aaf.md]
 confidence: medium
 ---
 
@@ -40,6 +40,10 @@ On March 25, 2024, a New York appeals court agreed to halt collection of the mor
 
 In February 2024, following Engoron's $355 million judgment against [[donald-trump|Donald Trump]] in the New York civil fraud case, Trump's legal team announced it would challenge the judge's underlying definition of fraud.[7] Trump's principal lawyer [[chris-kise|Chris Kise]] said the matter "raises serious legal and constitutional questions regarding 'fraud' claims/findings without any actual fraud," and indicated an appeal would be filed within the court's 30-day clock.[7] Kise accused Engoron and Attorney General [[letitia-james|Letitia James]] of attempting to drive Trump out of New York, arguing the effort was damaging to the city.[7]
 
+## First Day of the 2023 Trial
+
+Engoron presided over the opening day of the New York civil fraud trial on October 2, 2023, with Donald Trump seated directly facing him in a hushed courtroom guarded by Secret Service agents.[8] During proceedings Trump largely confined himself to scoffs and eye rolls, but outside the courthouse he attacked Engoron directly, calling him "a judge that should be out of office," suggesting that "some people say" he "could be charged criminally for what he's doing," and branding him deranged while calling for his removal.[8] Badlands commentary treated the attacks as part of Trump's broader "witch hunt" messaging rather than a conventional defendant's complaint about a presiding judge.[8]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Chaos in the Middle East Overshadows That at Home", URL: https://badlands.substack.com/p/badlands-news-brief-023
 2. Badlands Brief — "Badlands News Brief: The Establishment is Collapsing from Within", URL: https://badlands.substack.com/p/badlands-news-brief-12b
@@ -48,3 +52,4 @@ In February 2024, following Engoron's $355 million judgment against [[donald-tru
 5. Badlands Brief — "Badlands News Brief: Dali, Diddy & DJT", URL: https://badlands.substack.com/p/badlands-news-brief-491
 6. Badlands News Brief — "Biden Melts Down as Judges Are Themselves Judged", URL: https://badlands.substack.com/p/badlands-news-brief-5fb
 7. Badlands Brief — "Badlands News Brief: DemoCrabs in Biden's Bucket", URL: https://badlands.substack.com/p/badlands-news-brief-845
+8. Badlands Brief — "Badlands News Brief: Supreme Court Rumblings & Witch Hunts Galore", URL: https://badlands.substack.com/p/badlands-news-brief-aaf

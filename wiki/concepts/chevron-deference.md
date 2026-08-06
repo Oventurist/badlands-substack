@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [supreme-court, administrative-state, regulation, law]
-sources: [raw/badlands-news-brief-447.md]
+sources: [raw/badlands-news-brief-447.md, raw/badlands-news-brief-aac.md]
 confidence: medium
 ---
 
@@ -24,5 +24,8 @@ On Friday, June 28, 2024, the [[supreme-court-of-the-united-states|Supreme Court
 
 Badlands Media commentators treated the decision as a decisive blow against what they call the administrative state, pairing it with a ruling the previous day in which the Court held that defendants accused of fraud by the [[securities-and-exchange-commission|Securities and Exchange Commission]] have a right to a jury trial.[1] Writing for Badlands, Burning Bright argued that while public attention was consumed by the presidential debate, "the administrative state" was being "neutered to close out the week."[1]
 
+In the following week's brief, [[burning-bright|Burning Bright]] returned to the ruling, describing the overturning of Chevron as moving the benefit of the doubt "firmly from [them] to us" and grouping it with [[sec-v-jarkesy|SEC v. Jarkesy]] as evidence that the term's most seismic decisions were structural rather than headline-grabbing, even as [[trump-v-united-states|presidential immunity]] dominated coverage.[2] He credited [[donald-trump|Donald Trump]]'s Supreme Court appointments with the shift and argued that the establishment's dread over the weekend had little to do with Trump or [[joe-biden|Joe Biden]] personally.[2]
+
 ## References
 1. Badlands Brief — "The Old Guard Braces for Impact as Panic Spreads", URL: https://badlands.substack.com/p/badlands-news-brief-447
+2. Badlands Brief — "Badlands News Brief: Wins at Home and Deals Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-aac

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [censorship, media, deep-state, information-warfare]
-sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-a1a.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-3b0.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-a1a.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-948.md]
 confidence: medium
 ---
 
@@ -40,8 +40,13 @@ Badlands contributor [[burning-bright|Burning Bright]] wrote in April 2024 that 
 
 The [[facebook-files|Facebook Files]] released by the [[house-judiciary-committee|House Judiciary Committee]] in 2023 supplied further documentary support for the thesis, showing [[joe-biden|Biden]] [[white-house|White House]] digital strategy director [[rob-flaherty|Rob Flaherty]] asking [[facebook]] whether it could change its algorithm to favor establishment outlets over right-leaning competitors.[4] [[ashe-in-america|Ashe in America]] wrote that the files, following the [[twitter-files]], proved "beyond any doubt that the government is using private companies to suppress the truth and end-run their First Amendment limitations," while noting there was "zero evidence that it's being stopped."[4] In her assessment, years of Republican rhetoric about censorship had produced good campaign sound bites but no impact on "the censorship apparatus of the system of systems," with visibility filtering continuing and unjustly banned accounts remaining banned.[4]
 
+## Daily Wire v. State Department and the GEC
+
+The December 2023 suit by [[daily-wire|The Daily Wire]], [[the-federalist|The Federalist]] and Texas against the [[state-department|State Department]] placed the [[global-engagement-center|Global Engagement Center]] at the center of the censorship debate, alleging the agency funded technology designed to bankrupt disfavored domestic media.[5] [[ashe-in-america|Ashe in America]] described the GEC as "a centralized control mechanism within the censorship industrial complex" and argued that the litigation illustrated how slowly the law moves relative to the abuses it addresses.[5] She further contended that censorship is a tactic whose intent matters more than the tactic itself, framing government collusion with corporations and nongovernmental entities as a crime aimed at the managed decline of America and the removal of the last barrier to the [[great-reset|Great Reset]] and a New World Order.[5]
+
 ## References
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
 2. Badlands Brief — "American Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-a1a
 3. Badlands News Brief — "Trump Counters, Musk Sues & Biden Lies", URL: https://badlands.substack.com/p/badlands-news-brief-2db
 4. Badlands Brief — "Badlands News Brief: The Trump Card ...", URL: https://badlands.substack.com/p/badlands-news-brief-3b0
+5. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948

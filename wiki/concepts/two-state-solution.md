@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [israel-palestine, diplomacy, united-nations, peace-process]
-sources: [raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-8cd.md]
+sources: [raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-a04.md]
 confidence: medium
 ---
 
@@ -36,9 +36,15 @@ On September 12, 2025, the [[united-nations-general-assembly|United Nations Gene
 
 The declaration condemns the October 7, 2023 attacks on Israel by [[hamas]] that triggered the war in Gaza, and also condemns Israeli attacks on civilians and civilian infrastructure in Gaza, along with siege and starvation, "which have resulted in a devastating humanitarian catastrophe and protection crisis."[4] The associated [[new-york-declaration|New York Declaration]] demanded that Hamas surrender to the [[palestinian-authority|Palestinian Authority]], disarm, release the hostages, and have its leadership leave Gaza permanently — terms that US Representative to the UN [[morgan-ortagus|Morgan Ortagus]] separately stipulated even while dismissing the declaration as a "publicity stunt."[4]
 
+## Saudi advocacy at the United Nations (July 2025)
+
+At the opening of the [[2025-un-two-state-solution-conference|high-level UN conference on the peaceful settlement of the Palestinian issue]] on July 28, 2025, Saudi Foreign Minister Prince [[faisal-bin-farhan|Faisal bin Farhan]] declared that "the Kingdom believes that the two-state solution is the key to regional stability."[5] He welcomed French President [[emmanuel-macron|Emmanuel Macron]]'s intention to recognize a state of Palestine in September, while [[state-department|State Department]] spokeswoman [[tammy-bruce|Tammy Bruce]] condemned the conference on behalf of the United States.[5] Badlands commentary read the diplomatic momentum as evidence that the [[united-nations|UN]] and the European Union had grown increasingly sympathetic to Palestinian statehood under sustained Arab financial and diplomatic pressure.[5]
+
+
 ## References
 
 1. Badlands News Brief — "Peacemakers, Fake Kennedys & Fear Mongers", URL: https://badlands.substack.com/p/badlands-news-brief-3b2
 2. Badlands Brief — "Badlands News Brief: ICE Swarms, TikTok Pivots, & Shoes Stay On", URL: https://badlands.substack.com/p/badlands-news-brief-6af
 3. Badlands Brief — "Badlands News Brief: Shutdowns, Shakedowns, & Two Sexes", URL: https://badlands.substack.com/p/badlands-news-brief-762
 4. Badlands Brief — "Badlands News Brief: Vigils, Vanguards, & Various Investigations", URL: https://badlands.substack.com/p/badlands-news-brief-8cd
+5. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04

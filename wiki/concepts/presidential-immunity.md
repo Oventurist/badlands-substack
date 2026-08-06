@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [law, executive-power, trump, courts]
-sources: [raw/badlands-news-brief-092.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-484.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-528.md, raw/badlands-news-brief-6c4.md]
+sources: [raw/badlands-news-brief-092.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-484.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-528.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-a66.md]
 confidence: medium
 ---
 
@@ -64,6 +64,12 @@ The Supreme Court's immunity decision, issued on Monday, July 1, 2024, produced 
 
 Badlands commentary described the decision as "explosive," noting that it prompted ubiquitous calls for President [[joe-biden|Joe Biden]] to unilaterally expand the Supreme Court and, in some quarters, demands that he act against Trump by "whatever means necessary."[8] Writer Ashe in America argued the reaction showed "the fascists showing their true colors" — that for what she called the uniparty, "the only way to fight Trump and MAGA's theoretical future fascism is with actual fascism right now."[8] A related consequence discussed in the same brief was the disbarment of [[rudy-giuliani|Rudy Giuliani]], on the reasoning that if Trump himself were immune for official acts, prosecutorial pressure would shift to members of his team.[8]
 
+## D.C. Circuit ruling (February 6, 2024)
+
+On Tuesday, February 6, 2024, a three-judge panel of the U.S. Court of Appeals for the District of Columbia Circuit ruled unanimously that [[donald-trump|Donald Trump]] is not immune from criminal prosecution for his efforts to reverse his loss in the 2020 presidential election, flatly rejecting his argument that he could not be charged because he was president at the time of the alleged crimes.[9] "We cannot accept that the office of the Presidency places its former occupants above the law for all time thereafter," the panel said.[9] In its 57-page opinion the court wrote: "For the purpose of this criminal case, former President Trump has become citizen Trump, with all of the defenses of any other criminal defendant. But any executive immunity that may have protected him while he served as President no longer protects him against this prosecution."[9] The decision was described as the latest major legal loss for Trump, then the front-runner for the Republican presidential nomination.[9]
+
+Badlands writer [[jon-herold|Jon Herold]] framed the ruling as the D.C. Circuit affirming Judge [[tanya-chutkan|Tanya Chutkan]]'s decision to deny Trump's immunity claims, and anticipated the appeal moving upward: "Supreme Court, here we come!"[9]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Trans Easter Bait & A Tale of Two Presidents", URL: https://badlands.substack.com/p/badlands-news-brief-092
 2. Badlands Brief — "Badlands News Brief: The Witch Hunt Hits a Few Snags as the Landscape Shifts", URL: https://badlands.substack.com/p/badlands-news-brief-2a0
@@ -73,3 +79,4 @@ Badlands commentary described the decision as "explosive," noting that it prompt
 6. Badlands Brief — "Bicameral Lawfare, Trump's Gambit & the Ouroboros", URL: https://badlands.substack.com/p/badlands-news-brief-525
 7. Badlands Brief — "Badlands News Brief: Biden Pushes Back as Peacemakers Posture", URL: https://badlands.substack.com/p/badlands-news-brief-528
 8. Badlands Brief — "Trumpian Rug Pulls, Biden Whispers & NATO Panic", URL: https://badlands.substack.com/p/badlands-news-brief-6c4
+9. Badlands Brief — "The President of Precedent & a Trapped Economy", URL: https://badlands.substack.com/p/badlands-news-brief-a66

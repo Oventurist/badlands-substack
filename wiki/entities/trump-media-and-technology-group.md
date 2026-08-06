@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, dwac, trump, sec]
-sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-7c0.md, raw/badlands-brief-e3b.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-93e.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-7c0.md, raw/badlands-brief-e3b.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-a46.md]
 confidence: low
 ---
 
@@ -65,6 +65,14 @@ On Monday, November 20, 2023, TMTG filed a lawsuit in the 12th Judicial Court of
 
 On Wednesday, January 29, 2025, Trump Media and Technology Corp., operator of President [[donald-trump|Donald Trump]]'s [[truth-social|Truth Social]] platform, said it would offer cryptocurrencies and other investments aimed at "American patriots" who have had trouble obtaining banking services, launching the effort under the name [[truth-fi|Truth.Fi]].[11] The company's stock, traded as DJT, rose more than 6% on the announcement.[11] Trump Media said it would use its cash to establish bitcoin, cryptocurrency and crypto-related securities positions, along with customized separately managed accounts and customized exchange-traded funds.[11] The move followed Trump's complaint to Bank of America chief executive Brian Moynihan that banks "don't take conservative business," and his broader claim that Big Tech companies have squashed conservative voices — a claim followed in preceding weeks by Meta Platforms' adjustment of its fact-checking approach on Facebook.[11]
 
+## April 2024 earnout shares and short-selling probe request
+
+Regulatory filings reported at the start of May 2024 showed that [[donald-trump|Donald Trump]] had added roughly $1.8 billion to his net worth after significantly increasing his stake in Trump Media & Technology Group, bringing his ownership to nearly 65 percent of the company that owns [[truth-social|Truth Social]].[12] An April 30 filing with the [[securities-and-exchange-commission|SEC]] showed Trump had secured an additional 36 million shares, raising his holding to 114.75 million shares — worth about $5.7 billion at a share price of nearly $50.[12] The additional shares were "earnout shares" granted under an April 15 filing for hitting certain performance metrics over a defined period, and Trump could not sell any of them because of a six-month lockup agreement running roughly up to the November election.[12] TMTG shares had been volatile since the company listed on [[nasdaq|Nasdaq]] the previous month through a merger with a special purpose acquisition company, drawing in Trump supporters and speculators.[12]
+
+[[burning-bright|Burning Bright]] of [[badlands-media|Badlands Media]] read the episode as Trump "betting on himself in the most literal way possible" and leading by example for supporters holding the stock through what he described as the heaviest institutional short interest of any company in 2024, buying his own dip during a flash crash rather than being shaken out of his position; he also noted the company had announced beta testing of an America First streaming service.[12]
+
+In a letter dated Wednesday, May 1, 2024, chief executive [[devin-nunes|Devin Nunes]] urged leading House committee chairmen to investigate eight financial firms over potentially illicit [[short-selling|short selling]] of the DJT stock, writing that "quick action is necessary to protect retail shareholders, identify wrongdoers, and determine whether any laws including [[racketeer-influenced-and-corrupt-organizations-act|Racketeer Influenced and Corrupt Organizations Act]] statutes and tax evasion laws have been violated."[12] Nunes, who had first asked top House Republicans to open a stock manipulation probe on April 24, named Apex Clearing, Clear Street, Cobra Trading, Cowen and Company, Curvature Securities, StoneX Securities, TradePro and Velocity Clearing, and asked the committees to seek documents and testimony from them.[12] A spokesperson for Clear Street declined to comment on the letter.[12]
+
 ## References
 
 1. Badlands Brief — "A Virus, or a Metaphor?", URL: https://badlands.substack.com/p/a-virus-or-a-metaphor
@@ -78,3 +86,4 @@ On Wednesday, January 29, 2025, Trump Media and Technology Corp., operator of Pr
 9. Badlands Brief — "Trump Teases Saudi Trillions; Biden Bros Embezzled Billions", URL: https://badlands.substack.com/p/badlands-news-brief-745
 10. Badlands Brief — "Badlands News Brief: The Deep State Death Spiral Has Only Just Begun", URL: https://badlands.substack.com/p/badlands-news-brief-7e0
 11. Badlands Brief — "Badlands News Brief: A Midflight Collision, Dems Choose Division, Menendez Gets Prison", URL: https://badlands.substack.com/p/badlands-news-brief-93e
+12. Badlands Brief — "Very Fine Marxists and Chinese Finger Traps", URL: https://badlands.substack.com/p/badlands-news-brief-a46

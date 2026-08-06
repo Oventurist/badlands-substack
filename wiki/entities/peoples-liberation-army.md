@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [china, military, pla, xi-jinping, purge]
-sources: [raw/badlands-brief-71c.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-889.md]
+sources: [raw/badlands-brief-71c.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-960.md]
 confidence: medium
 ---
 
@@ -34,7 +34,12 @@ In August 2024, Central Military Commission vice chairman [[zhang-youxia|Zhang Y
 
 In August 2024, Central Military Commission vice chairman [[zhang-youxia|Zhang Youxia]] told visiting US national security adviser [[jake-sullivan|Jake Sullivan]] in Beijing that reunification of [[taiwan|Taiwan]] with the mainland is "the mission and responsibility" of the PLA and that the military would not be deterred from pursuing it.[3] The statement accompanied Chinese defense ministry demands that Washington halt arms sales and military cooperation with Taipei.[3]
 
+## December 2024 Western Pacific deployment
+
+In December 2024, [[taiwan|Taiwan]]'s Defense Ministry described a PLA naval surge as China's largest regional maritime deployment in decades, spanning the Taiwan Strait and Western Pacific.[4] Lt. Gen. Hsieh Jih-Sheng, Taiwan's deputy chief of the General Staff for Intelligence, called the number of vessels "astonishing" and said they were deployed at a scale that "could block external forces."[4] Hsieh said the deployment was not aimed at Taiwan alone, with its geographic spread reaching past the first island chain — the strategically significant chain encompassing Japan, Taiwan and parts of the Philippines and Indonesia — and added that "the PLA's recent activities not only exerted military pressure on Taiwan," with its naval forces "significantly rais[ing] its posture around Taiwan and the Western Pacific."[4] Beijing did not announce drills or acknowledge the deployment.[4]
+
 ## References
 1. Badlands Brief — "Persian Devolution, Minnesotan Maneuvers & Chinese Checkers", URL: https://badlands.substack.com/p/badlands-brief-71c
 2. Badlands Brief — "'Iran Iran Iran!' Is the New 'Russia Russia Russia!'", URL: https://badlands.substack.com/p/badlands-news-brief-421
 3. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889
+4. Badlands Brief — "Wray Goes to Sleep, Syria Gets Weird and Xi Gets an Invite", URL: https://badlands.substack.com/p/badlands-news-brief-960

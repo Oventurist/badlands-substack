@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [epstein, narrative, information-war, badlands]
-sources: [raw/badlands-blitz-episode-5.md, raw/badlands-blitz-episode-7.md, raw/badlands-brief-0a2.md, raw/badlands-brief-05f.md, raw/badlands-brief-733.md, raw/badlands-brief-8db.md, raw/badlands-brief-eea.md]
+sources: [raw/badlands-blitz-episode-5.md, raw/badlands-blitz-episode-7.md, raw/badlands-brief-0a2.md, raw/badlands-brief-05f.md, raw/badlands-brief-733.md, raw/badlands-brief-8db.md, raw/badlands-brief-eea.md, raw/badlands-news-brief-a04.md]
 confidence: medium
 ---
 
@@ -72,6 +72,13 @@ Under the second reading the unsealed files are less revelation than confirmatio
 
 [[ashe-in-america|Ashe in America]] took the opposite emphasis, invoking the disputed [[julian-assange|Julian Assange]] line that "when all is exposed, 98% of Washington will fall," and arguing the rot extends beyond Washington into state government — citing Colorado gubernatorial candidate [[bottoms|Bottoms]]'s claim that pedophile rings run through that state's House, Senate and Governor's Office.[7]
 
+## Rogan's "line in the sand" (July 2025)
+
+In late July 2025 podcaster [[joe-rogan|Joe Rogan]] declared the [[trump-administration|Trump administration]]'s refusal to release more information about [[jeffrey-epstein|Jeffrey Epstein]] a "line in the sand," mentioning Epstein more than 40 times on a single episode of the most popular podcast in the United States.[8] CNN framed the episode as evidence that the controversy was not fading, entering a fourth week of engulfing President [[donald-trump|Donald Trump]] largely because the outrage originated inside his own circle of media boosters.[8]
+
+Badlands contributor [[chris-paul|Chris Paul]] dismissed the framing, arguing that with no Trump election for at least three and a half years "podcasters can't harm him," and that the coverage was "a scripted psychodrama meant to keep you hooked to the Central Narrative" — which he defined as "literally the thing that absolutely is not happening."[8] Separately, [[burning-bright|Burning Bright]] argued that the parallel disclosure runs on Epstein and [[russiagate-hoax|Russiagate]] gave Trump a bipartisan mandate and lasting "narrative shielding."[8]
+
+
 ## References
 1. Badlands Brief — "Badlands Blitz Episode 5: The END of the START ...", URL: https://badlands.substack.com/p/badlands-blitz-episode-5
 2. Badlands Brief — "Badlands Blitz Episode 7: Donald Trump, Deep State Burn Cards & the Return of Honor Culture", URL: https://badlands.substack.com/p/badlands-blitz-episode-7
@@ -80,3 +87,4 @@ Under the second reading the unsealed files are less revelation than confirmatio
 5. Badlands Brief — "The Boons & Blessings of Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-733
 6. Badlands Brief — "Hunters Become the Hunted as Traitors Reveal Themselves", URL: https://badlands.substack.com/p/badlands-brief-8db
 7. Badlands Brief — "Epstein Fallout & Middle East Madness", URL: https://badlands.substack.com/p/badlands-brief-eea
+8. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04

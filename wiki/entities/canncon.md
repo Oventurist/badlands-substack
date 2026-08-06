@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, host]
-sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-93d.md]
+sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a31.md]
 confidence: high
 ---
 
@@ -38,6 +38,15 @@ CannCon questioned the framing of the Signalgate report in the December 5, 2025 
 
 In June 2023 CannCon responded on Twitter to the [[white-house|White House]] Pride Month flag arrangement, in which a rainbow flag was centered between two American flags, writing: "This is a disgrace. The US flag DOES NOT FLANK *ANY* FLAG. Especially not on OUR White House."[8] The post was cited in Badlands commentary as an example of the objection raised on [[us-flag-code|Flag Code]] grounds, much of which came from active-duty military personnel and veterans.[8]
 
+## Inflation fact-check (July 2025)
+
+In the [[badlands-news-brief|Badlands News Brief]] of July 29, 2025, CannCon fact-checked a Fox News appearance by Mike Nellis, stating that [[inflation|inflation]] had not been above 3% since President [[donald-trump|Donald Trump]] took office.[9] The item accompanied reporting that analysts saw a 64% probability of a [[september-2025-federal-reserve-rate-cut|September Federal Reserve rate cut]].[9] CannCon was also referenced as co-host of the Badlands Book Club, whose third season, "The Fourth Turning," launched that evening.[9]
+
+
+## Commentary in the August 8, 2025 brief
+
+On the extension of junk-food waivers to six more states under [[snap|SNAP]], CannCon endorsed the policy with the line "You can still get soda...you just have to use YOUR money!", calling it "epic" and "100% on point."[10]
+
 ## References
 1. Badlands Media — "Badlands Media Weekly Show Schedule", URL: https://badlands.substack.com/p/badlands-media-weekly-show-schedule-36d
 2. Badlands Brief — "Rare Earths, Rogue Judges, & Record Downward Revisions", URL: https://badlands.substack.com/p/badlands-news-brief-030
@@ -47,3 +56,5 @@ In June 2023 CannCon responded on Twitter to the [[white-house|White House]] Pri
 6. Badlands Brief — "Brennan Decries Judge Shopping & JD Says It's Okay to Be White!", URL: https://badlands.substack.com/p/badlands-news-brief-795
 7. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
 8. Badlands Brief — "Badlands News Brief: Trump Trolls, Soros Slithers & Flags Fly", URL: https://badlands.substack.com/p/badlands-news-brief-93d
+9. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
+10. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [terrorism, afghanistan, isis, abbey-gate]
-sources: [raw/badlands-news-brief-46b.md, raw/badlands-news-brief-8a9.md]
+sources: [raw/badlands-news-brief-46b.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-a82.md]
 confidence: medium
 ---
 
@@ -24,7 +24,12 @@ Badlands contributor [[burning-bright|Burning Bright]] framed the killing as con
 
 Following the [[2025-kashmir-terrorist-attack|April 2025 attack]] in India-administered Kashmir that killed 26 people, Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] speculated that ISIS-K was responsible, together with what he called bad actors in the U.S. [[state-department|State Department]] and [[cia|CIA]].[2] He recalled that the group carried out the Abbey Gate bombing at Kabul Airport during the Afghanistan withdrawal, killing 13 U.S. soldiers, and was subsequently hunted down by the Taliban in keeping with commitments made to [[donald-trump|Donald Trump]] under the [[doha-agreement|Doha Agreement]].[2]
 
+## Context for the 2024 Dagestan attacks
+
+The June 2024 gun attacks on places of worship in [[dagestan|Dagestan]] came three months after ISIS-K claimed responsibility for the assault on Crocus City Hall in Moscow, which killed more than 140 people in one of Russia's deadliest terrorist atrocities in years.[3] No group claimed the Dagestan attacks, though Russian law enforcement told TASS the gunmen were "adherents of an international terrorist organization."[3]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Sudan Seized, Tucker Trashed & ISIS Eliminated", URL: https://badlands.substack.com/p/badlands-news-brief-46b
 2. Badlands Brief — "Badlands News Brief: Ongoing Judicial Coups. Newly Jailed Judges.", URL: https://badlands.substack.com/p/badlands-news-brief-8a9
+3. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82

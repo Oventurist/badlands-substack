@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [economics, white-house, iran, energy]
-sources: [raw/badlands-brief-095.md, raw/badlands-brief-1ce.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-5c8.md]
+sources: [raw/badlands-brief-095.md, raw/badlands-brief-1ce.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-a31.md]
 confidence: medium
 ---
 
@@ -33,8 +33,13 @@ As Director of the [[national-economic-council|National Economic Council]], Hass
 
 As Director of the National Economic Council, Hassett said on Friday, April 18, 2025, when asked whether removing [[jerome-powell|Jerome Powell]] was an option, that "the president and his team will continue to study that."[4] The remark was cited by traders as the trigger for a sudden collapse of the dollar index to a three-year low in illiquid early Asian trading over the Easter holiday, alongside a record gold price and a spike in [[bitcoin|Bitcoin]].[4] Hassett further argued that the [[federal-reserve|Federal Reserve]] under Powell — a Trump first-term appointee — had acted politically to benefit Democrats, raising rates immediately after Trump's first election on the theory that supply-side tax cuts would be inflationary, declining to warn about "runaway spending" under Joe Biden, and then cutting rates just before the 2024 election.[4]
 
+## Fed chair speculation (August 2025)
+
+As [[national-economic-council|National Economic Council]] Director, Hassett was among the leading contenders to chair the [[federal-reserve|Federal Reserve]] in 2025, with his implied probability on the prediction market [[kalshi|Kalshi]] standing at about 35 percent on August 7, 2025 — ahead of former Fed official [[kevin-warsh|Kevin Warsh]] at roughly 20 percent but behind Governor [[christopher-waller|Christopher Waller]], who had just crossed 50 percent.[5]
+
 ## References
 1. Badlands Brief — "Moves and Countermoves", URL: https://badlands.substack.com/p/badlands-brief-095
 2. Badlands Brief — "African Acceleration, Powell's Replacement, & MEGA Democracy", URL: https://badlands.substack.com/p/badlands-brief-1ce
 3. Badlands News Brief — "Treasury Triumphs, TikTok U-Turns, & Trade War Time-Outs", raw/badlands-news-brief-508.md
 4. Badlands Brief — "Badlands News Brief: A Coming Conclave & More Musical Chairs", URL: https://badlands.substack.com/p/badlands-news-brief-5c8
+5. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31

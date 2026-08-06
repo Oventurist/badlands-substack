@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [federal-reserve, monetary-policy, nominations]
-sources: [raw/badlands-brief-1ce.md, raw/badlands-brief-9eb.md, raw/badlands-brief-c7b.md]
+sources: [raw/badlands-brief-1ce.md, raw/badlands-brief-9eb.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-a31.md]
 confidence: medium
 ---
 
@@ -28,7 +28,12 @@ Warsh struck a cautious tone, warning against complacency: he said he did not wa
 
 Badlands contributor [[burning-bright|Burning Bright]] read Warsh's posture as the holding pattern he had predicted in his 2025 essay "Reality Wars," in which he argued the Fed had been caught in a game-theory pincer between raising rates — risking a true recession — and cutting too quickly, which would trigger another inflation wave and a faster crash.[3] He maintained that the stasis was temporary and that rate cuts were coming in 2026 despite financial media forecasts to the contrary, because the next liquidity wave was needed for a full-scale monetary transition and had to arrive only once it would benefit Main Street more than Wall Street, as Treasury Secretary [[scott-bessent|Scott Bessent]] had promised in 2025.[3]
 
+## Slipping odds for the Fed chair (August 2025)
+
+By August 7, 2025, Warsh's standing as a front-runner to chair the [[federal-reserve|Federal Reserve]] had eroded on the prediction market [[kalshi|Kalshi]], where his implied probability stood at about 20 percent — behind [[kevin-hassett|Kevin Hassett]] at roughly 35 percent and Governor [[christopher-waller|Christopher Waller]], who had just crossed 50 percent.[4]
+
 ## References
 1. Badlands Brief — "African Acceleration, Powell's Replacement, & MEGA Democracy", URL: https://badlands.substack.com/p/badlands-brief-1ce
 2. Badlands Brief — "Dems Demand a Post-Trump Strategy as Hamas Haggles for Peace", URL: https://badlands.substack.com/p/badlands-brief-9eb
 3. Badlands Brief — "TACO Tuesday Returns as the War of Stories Gets Weird", URL: https://badlands.substack.com/p/badlands-brief-c7b
+4. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31

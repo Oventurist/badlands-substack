@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, shin-bet, intelligence, netanyahu]
-sources: [raw/badlands-news-brief-298.md, raw/badlands-news-brief-373.md, raw/badlands-news-brief-4e1.md]
+sources: [raw/badlands-news-brief-298.md, raw/badlands-news-brief-373.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-ae1.md]
 confidence: medium
 ---
 
@@ -40,7 +40,15 @@ In early March 2025 the Haaretz daily reported that Bar had warned Prime Ministe
 
 The report emerged amid an escalating war of words and strategic leaks between the premier and the [[shin-bet|Shin Bet]] chief, including widespread talk that Netanyahu might fire Bar.[3] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] described the two men as engaged in a narrative war: Bar leaking that he had warned of imminent war, and Netanyahu leaking that Bar had told him at the same meeting that Hamas was subdued and not a threat.[3] Given leaked reports from Aman, Israeli military intelligence, reaching conclusions similar to the Shin Bet's, the commentary judged it more probable than not that Netanyahu was the one lying.[3]
 
+## Netanyahu's announced dismissal (March 2025)
+
+On Sunday, March 16, 2025, Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] announced his intention to dismiss Bar as head of the [[shin-bet|Shin Bet]], bringing months of growing disagreement between the two men to a head; the attorney general responded that the prime minister could not do so before a legal review.[4] Netanyahu summoned Bar to an urgent meeting at his office that evening and informed him that the cabinet would vote on his dismissal later in the week.[4] In a video statement afterward, Netanyahu said that "at all times, but especially during an existential war such as the one we face, there must be full trust between the prime minister and the head of the Shin Bet," adding that "unfortunately, the situation is the opposite — I do not have such trust," while stressing that he remained "full of appreciation for the men and women of the Shin Bet."[4]
+
+Badlands commentator [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] situated the move within a wider confrontation, noting that Bar had signaled he might further expose Netanyahu's ties to [[hamas|Hamas]] by releasing a report showing that money Netanyahu directed to the group originated in [[qatar|Qatar]], and that the dismissal followed Netanyahu's police complaint accusing former Shin Bet director [[nadav-argaman|Nadav Argaman]] of blackmail.[4]
+
+
 ## References
 1. Badlands News Brief — "Pirated Pardons & Delayed Declassifications", URL: https://badlands.substack.com/p/badlands-news-brief-298
 2. Badlands News Brief — "Shutdown Show Down & British Spies for Palestine", URL: https://badlands.substack.com/p/badlands-news-brief-373
 3. Badlands News Brief — "SCOTUS Drama and (Altered) Deals Shake Up the Week", URL: https://badlands.substack.com/p/badlands-news-brief-4e1
+4. Badlands News Brief — "Defiant Deportations & Canadian Freeloaders", URL: https://badlands.substack.com/p/badlands-news-brief-ae1

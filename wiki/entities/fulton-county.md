@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [elections, georgia, 2020-election, fbi, litigation]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-0a2.md, raw/badlands-brief-b62.md, raw/badlands-brief-bf7.md, raw/badlands-news-brief-2e4.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-8bd.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-0a2.md, raw/badlands-brief-b62.md, raw/badlands-brief-bf7.md, raw/badlands-news-brief-2e4.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-a71.md]
 confidence: medium
 ---
 
@@ -65,6 +65,10 @@ On Election Day, November 5, 2024, five bomb threats determined to be "noncredib
 
 A county spokeswoman said police had responded to multiple calls about threats against polling places: "We have investigated each of these and found no active threats. We will continue to remain vigilant."[7] County officials had promised to station a law enforcement officer at each of Fulton County's 177 polling places.[7] Georgia Secretary of State [[brad-raffensperger|Brad Raffensperger]] said officials had traced the threats to Russia, while his spokesman cautioned that the source was unconfirmed and could be someone spoofing Russia.[7]
 
+## Certification lawsuit and ruling (October 2024)
+
+On October 14, 2024, Fulton County Superior Court Judge [[robert-mcburney|Robert McBurney]] ruled that Georgia county election officials must certify election results by the statutory deadline regardless of irregularities or suspected fraud, writing that no election superintendent or member of a board of elections and registration "may refuse to certify or abstain from certifying election results under any circumstance."[8] The suit had been brought by [[julie-adams|Julie Adams]], a Republican member of the Fulton County Board of Elections and Registrations, after the county's appointed election director allegedly denied her repeated requests for access to election results and processes.[8] Georgia law requires county election superintendents to certify results by 5 p.m. on the Monday following the election, or the Tuesday when that date falls on a federal holiday, as it did in 2024.[8]
+
 ## References
 1. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
 2. Badlands Brief — "A Virtual Smash & Grab & Another Impeachment Hoax", URL: https://badlands.substack.com/p/badlands-brief-0a2
@@ -73,3 +77,4 @@ A county spokeswoman said police had responded to multiple calls about threats a
 5. Badlands News Brief — "Escalating Elections, Fragmented Forums, & Merry Murder Metrics", URL: https://badlands.substack.com/p/badlands-news-brief-2e4
 6. Badlands Brief — "Badlands News Brief: Victim Cards, Foreign Inference, & Chessboard Stans", URL: https://badlands.substack.com/p/badlands-news-brief-448
 7. Badlands Brief — "Badlands News Brief: A New Golden Age Begins ...?", URL: https://badlands.substack.com/p/badlands-news-brief-8bd
+8. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71

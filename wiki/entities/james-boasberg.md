@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [judiciary, deportation, contempt, dc-district-court]
-sources: [raw/badlands-brief-9ea.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-306.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-7ad.md]
+sources: [raw/badlands-brief-9ea.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-306.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-ae1.md]
 confidence: medium
 ---
 
@@ -72,6 +72,17 @@ In July 2025, [[the-federalist|The Federalist]] published a memorandum showing t
 
 In June 2023, Boasberg was reported to be presiding over a secret case concerning allegations of prosecutorial misconduct in the classified-documents investigation of [[donald-trump|Donald Trump]].[9] The allegation, submitted by Trump's legal team, held that a senior prosecutor working under Special Counsel [[jack-smith|Jack Smith]] had attempted to influence a key witness by discussing a federal judgeship with the witness's lawyer.[9] Reporting described Boasberg as the Chief U.S. District Judge overseeing the federal court in Washington, D.C. and the grand juries convened in that courthouse, and noted that the [[justice-department|Justice Department]] declined to delay the planned indictment while the allegation remained pending before him.[9]
 
+## Impeachment calls after the October 2025 Arctic Frost disclosures
+
+On Wednesday, October 29, 2025, Senator [[chuck-grassley|Chuck Grassley]] released 197 subpoenas issued by special counsel [[jack-smith|Jack Smith]] in the [[arctic-frost|Arctic Frost]] probe, prompting renewed calls for Boasberg's impeachment over his judicial role in the matter.[10] Senator [[mike-lee|Mike Lee]] posted publicly that day asking whether Boasberg should be impeached, a question Badlands commentator Ashe in America answered affirmatively while arguing that the district courts should be abolished altogether and the justice domain returned to citizen grand juries.[10]
+
+## Alien Enemies Act deportation order (March 2025)
+
+On the evening of Saturday, March 15, 2025, Boasberg blocked President [[donald-trump|Donald Trump]] from using the [[alien-enemies-act|Alien Enemies Act]] to deport noncitizens held in U.S. custody, in litigation brought by the [[american-civil-liberties-union|American Civil Liberties Union]] on behalf of migrants at risk of removal.[11] During the hearing, ACLU lawyer Lee Gelernt told Boasberg that two aircraft believed to be carrying Venezuelan deportees had taken off from U.S. territory that day; the judge said Justice Department lawyers had not disputed the claim and instructed that "any plane containing these folks that is going to take off or is in the air needs to be returned to the United States," adding that his order was "something we need to make sure is complied with immediately."[11] The written order that followed did not explicitly mention planes already in the air — a gap White House press secretary [[karoline-leavitt|Karoline Leavitt]] appeared to point to the next day — and the restraining order was set to remain in effect for two weeks "or until further order of the court."[11]
+
+The [[trump-administration|Trump administration]] nonetheless announced on Sunday, March 16, that it had deported hundreds of alleged members of [[tren-de-aragua|Tren de Aragua]] despite the order.[11] [[elon-musk|Elon Musk]] responded by publicly endorsing impeachment articles against Boasberg, quote-tweeting the single word "necessary" in reply to a legislator discussing such a measure.[11] Badlands commentator [[chris-paul|Chris Paul]] circulated a 2024 Newsweek item about Boasberg quoting Taylor Swift lyrics in a ruling, identifying him as "the judge whose decision attempted to delay the deportations."[11] [[ashe-in-america|Ashe in America]] argued that judicial impeachment had occurred roughly fifteen times in U.S. history and that a judge "prioritizing cartel criminals" could absolutely be removed, while further contending that because Congress created the district courts under the [[judiciary-act-of-1789|Judiciary Act of 1789]] pursuant to Article III, Section 1, it also holds the power to reorganize or abolish them.[11]
+
+
 ## References
 
 1. Badlands Brief — "A Politician is Swallowelled Whole as the Middle East Realigns in Real Time", URL: https://badlands.substack.com/p/badlands-brief-9ea
@@ -83,3 +94,5 @@ In June 2023, Boasberg was reported to be presiding over a secret case concernin
 7. Badlands Brief — "Badlands News Brief: Overexposed Engagement Farmers & Maple-Flavored Monarchs", URL: https://badlands.substack.com/p/badlands-news-brief-42b
 8. Badlands Brief — "Badlands News Brief: Double Comey Drama & Magic Moon Soil", URL: https://badlands.substack.com/p/badlands-news-brief-5f2
 9. Badlands Brief — "The Wall Are Closing in Again! (And Other Stories)", URL: https://badlands.substack.com/p/badlands-news-brief-7ad
+10. Badlands Brief — "Badlands News Brief: Asian Happy Endings, Salvadoran Favors, & American Public Corruption", raw/badlands-news-brief-a98.md
+11. Badlands News Brief — "Defiant Deportations & Canadian Freeloaders", URL: https://badlands.substack.com/p/badlands-news-brief-ae1

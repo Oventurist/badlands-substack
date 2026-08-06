@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [nypd, law-enforcement, new-york-city, corruption]
-sources: [raw/badlands-news-brief-017.md, raw/badlands-news-brief-10a.md]
+sources: [raw/badlands-news-brief-017.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-a31.md]
 confidence: medium
 ---
 
@@ -26,7 +26,12 @@ Federal scrutiny extended to alleged influence-peddling touching the department.
 
 [[thomas-donlon|Thomas Donlon]] became interim commissioner following [[edward-caban|Edward Caban]]'s abrupt resignation, and roughly ten days later, on September 20, 2024, federal authorities raided Donlon's home.[2] Donlon acknowledged the search in a brief department statement issued late the following Saturday night, saying investigators "took materials that came into my possession 20 years ago and are unrelated to my work with the New York City Police Department," and adding that the department would not comment further because it was not an NYPD matter.[2] Press speculation held that the raid was a message from federal authorities to Mayor [[eric-adams|Eric Adams]], while Badlands commentary treated the "unrelated" framing as a likely cover story.[2]
 
+## 2025 mayoral race stakes
+
+The [[new-york-post|New York Post]] editorial board's August 2025 appeal for President [[donald-trump|Donald Trump]] to endorse Mayor [[eric-adams|Eric Adams]] rested substantially on policing, citing the lowest number of shootings in the first half of 2025 since the city began keeping records and warning that "defund the police" activist [[zohran-mamdani|Zohran Mamdani]] would hobble the department.[3]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Tracking Resignations, Scare Events & the Death of Taxes", URL: https://badlands.substack.com/p/badlands-news-brief-017
 2. Badlands Brief — "Problems Litter the Game Board; But Solutions Are Coming ...", URL: https://badlands.substack.com/p/badlands-news-brief-10a
+3. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31

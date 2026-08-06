@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [meta, facebook, big-tech, free-speech, trump]
-sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-143.md, raw/badlands-brief-52b.md, raw/badlands-brief-bce.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-713.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-143.md, raw/badlands-brief-52b.md, raw/badlands-brief-bce.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-a0c.md]
 confidence: medium
 ---
 
@@ -61,6 +61,14 @@ The reversal was striking given the intervening history: Meta banned Trump from 
 
 In a December 2024 Bloomberg interview with Emily Chang at his Lake Tahoe estate, Zuckerberg denied that the roughly 4,500-square-foot underground structure on his 1,500-acre Kauai ranch was a [[zuckerberg-hawaii-bunker|doomsday bunker]], calling it a "little shelter ... basement" and saying the ranch "got blown out of proportion as if it was some kind of doomsday bunker, which is just not true."[9] Wired had reported in late 2023 that the structure included a blast-resistant door and enough food for Zuckerberg and companions to survive an apocalypse, prompting speculation about what he might anticipate regarding future world events.[9]
 
+## Letter on Biden administration censorship pressure (August 2024)
+
+In August 2024 Zuckerberg said he regretted bowing to what he called pressure from the [[joe-biden|Biden]] administration to "censor" content on Facebook and Instagram during the coronavirus pandemic.[10] In a letter sent to a U.S. House committee chair, he said some material — including humour and satire — was taken down in 2021 under pressure from senior officials, while the White House defended its actions on the grounds that it had encouraged "responsible actions to protect public health and safety."[10]
+
+Zuckerberg also said his firm briefly "demoted" content relating to [[hunter-biden|Hunter Biden]] ahead of the 2020 election after the [[fbi|FBI]] warned of "a potential Russian disinformation" operation; it later became clear the content was not part of such an operation and should not have been temporarily taken down.[10] He did not give further detail about the pandemic-era actions he regretted, but maintained that the decisions were his business's own even though "government pressure was wrong," adding: "We made some choices that, with the benefit of hindsight and new information, we wouldn't make today."[10] He said he and [[meta-platforms|Meta]] would be ready to "push back" if something similar happened in the future.[10]
+
+Badlands writer [[burning-bright|Burning Bright]] described Zuckerberg as "the most notorious of the social media censor czars" disclosing what critics already knew — that he had acted as a key vector of the globalist regime's enforcement arm — and argued that in a war defined by the dissemination, obfuscation and cultivation of information, censorship is an act of war whose practitioners should be treated as enemy combatants.[10] He contrasted the admission with France's simultaneous imprisonment of [[telegram|Telegram]] founder [[pavel-durov|Pavel Durov]] on charges he said would not look out of place in an Orwell novel, reading the convergence as a sign of enemy panic and patriot narrative control rather than enemy dominance.[10]
+
 ## References
 
 1. Badlands Brief — "America Has a CIA-Run Economy", URL: https://badlands.substack.com/p/america-has-a-cia-run-economy
@@ -72,3 +80,4 @@ In a December 2024 Bloomberg interview with Emily Chang at his Lake Tahoe estate
 7. Badlands Brief — "Badlands News Brief: Speaker Trump, Proxy War Funding & Emergency Alerts", URL: https://badlands.substack.com/p/badlands-news-brief-132
 8. Badlands Brief — "It Was the Trumpest of TIMEs ...", URL: https://badlands.substack.com/p/badlands-news-brief-61a
 9. Badlands Brief — "The Biden Era Fades Away as the World is Reshaped", URL: https://badlands.substack.com/p/badlands-news-brief-713
+10. Badlands News Brief — "Transition Teams at Home and Abroad ...", URL: https://badlands.substack.com/p/badlands-news-brief-a0c

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [public-health, cdc, vaccines, surveillance, covid-19]
-sources: [raw/badlands-news-brief-5ec.md]
+sources: [raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-a61.md]
 confidence: medium
 ---
 
@@ -22,5 +22,10 @@ When asked for the missing figures, a CDC spokesman pointed instead to a publish
 
 Badlands contributor [[paul-fleuret|Paul Fleuret]] argued that the withholding was unsurprising, framing it as the CDC protecting the "safe and effective" messaging around the shots while, in his view, evidence of cardiac harm accumulated.[1] He noted that many people had been "cancelled, dismissed, or otherwise ostracized" for raising myocarditis risk in connection with the vaccines, and characterized the agency's posture as "mental gymnastics and obfuscation."[1]
 
+## 2023 litigation over withheld safety analyses
+
+In January 2023 the nonprofit [[childrens-health-defense|Children's Health Defense]] sued the [[food-and-drug-administration|U.S. Food and Drug Administration]] in federal court in Washington, seeking the raw results of the agency's analyses of VAERS reports on COVID-19 vaccines and alleging that withholding them violated federal law.[2] The system, which the FDA runs jointly with the [[centers-for-disease-control-and-prevention|Centers for Disease Control and Prevention]], accepts reports of post-vaccination adverse events, and the dispute centred on the agency's internal signal-detection work rather than the raw report database itself.[2]
+
 ## References
 1. Badlands Brief — "It's Raining Red Pills ... And We Like It", URL: https://badlands.substack.com/p/badlands-news-brief-5ec
+2. Badlands News Brief — "Big Pharma, Big Lies and Big Boomerangs", URL: https://badlands.substack.com/p/badlands-news-brief-a61

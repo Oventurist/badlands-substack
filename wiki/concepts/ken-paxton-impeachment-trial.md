@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [texas, impeachment, lawfare, republican-party]
-sources: [raw/badlands-news-brief-627.md]
+sources: [raw/badlands-news-brief-627.md, raw/badlands-news-brief-a43.md]
 confidence: medium
 ---
 
@@ -14,7 +14,13 @@ The Ken Paxton impeachment trial was the 2023 proceeding in which Texas Attorney
 
 ## Background
 
-The impeachment campaign was leveled against Paxton by establishment Republicans who, in the account carried by The National Pulse, partnered with left-wing "impeachment managers" in an effort to remove the pro-Trump attorney general from office.[1] The effort was described as a Trump-style impeachment proceeding brought by partisan investigators.[1]
+The impeachment campaign was leveled against Paxton by establishment Republicans who, in the account carried by The National Pulse, partnered with left-wing "impeachment managers" in an effort to remove the pro-Trump attorney general from office.[1] The effort was described as a Trump-style impeachment proceeding brought by partisan investigators.[1] Paxton had been impeached on 20 articles in late May 2023 by the GOP-led Texas House of Representatives in a 121–23 vote, making him only the third sitting official impeached in the state's nearly 200-year history, the previous case having come more than a century earlier.[2] The articles included allegations of abuse of power and bribery, all of which Paxton and his lawyers said were false.[2]
+
+## Opening of the trial
+
+The trial began on Tuesday, September 5, 2023, with the [[texas-senate|Texas Senate]] chamber at the state Capitol in Austin turned into a courtroom.[2] After the 30 senators who would decide Paxton's fate were sworn in, Lt. Gov. [[dan-patrick|Dan Patrick]] began working through pretrial motions, and Republicans rejected motions to dismiss the impeachment articles before opening statements were heard.[2] Dozens of Paxton supporters in red shirts attended the proceedings.[2] The suspended attorney general, regarded as one of the most conservative officeholders in Texas, had filed more than two dozen lawsuits against the [[joe-biden|Biden]] administration since January 2021.[2]
+
+[[ashe-in-america|Ashe in America]] wrote that Paxton was the only state attorney general to seriously investigate evidence of election fraud, and was therefore being impeached; she argued the regime was pursuing not only [[donald-trump|Donald Trump]] but everyone standing for America First, and that Texas Republicans' opposition to Paxton revealed the party establishment's estrangement from the people.[2]
 
 ## Charges and verdict
 
@@ -28,3 +34,4 @@ Badlands Media commentary by [[ashe-in-america|Ashe in America]] framed the outc
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Kennedy Assassins, Justice Wins & More", URL: https://badlands.substack.com/p/badlands-news-brief-627
+2. Badlands Brief — "Badlands News Brief: Obama's Secrets, Blinken's Billions & GOP Posers", URL: https://badlands.substack.com/p/badlands-news-brief-a43

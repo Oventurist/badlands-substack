@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [covid, biolabs, public-health, censorship]
-sources: [raw/a-virus-or-a-metaphor.md, raw/anthony-fauci.md, raw/badlands-brief-414.md, raw/badlands-brief-67a.md, raw/badlands-brief-be1.md, raw/badlands-brief-d94.md, raw/badlands-brief-da2.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-238.md, raw/badlands-news-brief-276.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-8f0.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/anthony-fauci.md, raw/badlands-brief-414.md, raw/badlands-brief-67a.md, raw/badlands-brief-be1.md, raw/badlands-brief-d94.md, raw/badlands-brief-da2.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-238.md, raw/badlands-news-brief-276.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-8f0.md, raw/badlands-news-brief-af7.md]
 confidence: low
 ---
 
@@ -146,7 +146,16 @@ In August 2023 the transparency watchdog [[openthebooks|OpenTheBooks]] published
 
 In early September 2023, during a renewed COVID-19 surge, Fauci claimed that masks do not work "for the public at large" but do work on an "individual basis."[20] Badlands contributor [[burning-bright|Burning Bright]] called the formulation "patently absurd, and everyone knows it," noting that it clashed with messaging the same week from [[deborah-birx|Dr. Deborah Birx]], who said "We don't need to mandate" while calling for people to be empowered to make their own decisions.[20] Burning Bright framed the divergence as [[overtons-goalpost|Overton's Goalpost]] being deployed around "COVID-23," mask mandates and lockdowns, concluding that "Retreat is Defeat in the Mind War."[20] The same coverage recalled that in March 2020 Fauci and Birx together laid out the unprecedented lockdown and masking strategy that Birx later admitted was improvised.[20]
 
+## Allegation of prompting the "Proximal Origin" paper (March 2023)
+
+In March 2023, congressional investigators on the [[house-select-subcommittee-on-the-coronavirus-pandemic|House Select Subcommittee on the Coronavirus Pandemic]] accused Fauci of having "prompted" the fabrication of a paper by a group of scientists aimed at disproving the COVID-19 [[lab-leak-theory|lab-leak theory]].[21] Coverage described Fauci as having offshored banned [[gain-of-function-research|gain-of-function research]] to make bat coronaviruses more transmissible to humans.[21]
+
+The subcommittee memo recounted that on February 1, 2020, Fauci, [[national-institutes-of-health|NIH]] Director [[francis-collins|Dr. Francis Collins]] and at least eleven other scientists joined a conference call in which several warned that COVID-19 may have leaked from a lab in Wuhan and may have been intentionally genetically manipulated; three days later, several call participants drafted the [[proximal-origin-paper|"Proximal Origin of SARS-CoV-2"]] paper and sent it to Fauci and Collins.[21] The Washington Examiner reported that two of its authors who had voiced lab-leak concerns before changing their position, [[kristian-andersen|Kristian Andersen]] and [[robert-garry|Robert Garry]], received millions in NIH grants under Fauci.[21]
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] asked whether Fauci would walk free or whether justice would finally be served, cautioning that Fauci is only one of many participants in what he called the [[pandemic-industrial-complex|"pandemic industrial complex"]], alongside [[bill-gates|Bill Gates]], [[tedros-adhanom-ghebreyesus|Tedros Ghebreyesus]], Peter Daszak, Shi Zhengli, Rochelle Walensky, [[albert-bourla|Albert Bourla]] and others.[21] He warned against Fauci becoming a sacrificial lamb used to placate the public while the wider apparatus continued unabated, noting that [[joe-biden|Biden]] was at the same time eyeing [[who-pandemic-accord|pandemic accords]] that DeLarme said would let the [[world-health-organization|WHO]] circumvent the Constitution in the name of "global health."[21] He urged the [[house-oversight-committee|House Oversight Committee]] to also examine the promotion of Remdesivir while the efficacy of cheap drugs such as hydroxychloroquine and [[ivermectin|Ivermectin]] was downplayed, so that any fall of Fauci would vindicate those who recommended cheaper alternatives.[21]
+
 ## References
+
 
 1. Badlands Brief — "A Virus, or a Metaphor?", URL: https://badlands.substack.com/p/a-virus-or-a-metaphor
 2. Badlands Brief — "Anthony Fauci", URL: https://badlands.substack.com/p/anthony-fauci
@@ -167,3 +176,4 @@ In early September 2023, during a renewed COVID-19 surge, Fauci claimed that mas
 18. Badlands Brief — "GART is Here! Plus, Exposure & Disclosure Abound", URL: https://badlands.substack.com/p/badlands-news-brief-7e6
 19. Badlands News Brief — "The Trump Hunt & the Biden Blitz", URL: https://badlands.substack.com/p/badlands-news-brief-88b
 20. Badlands Brief — "Badlands News Brief: The Turns on COVID, Ukraine & the Establishment Have Begun", URL: https://badlands.substack.com/p/badlands-news-brief-8f0
+21. Badlands News Brief — "Trump on Wuhan, Flynn Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-af7

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [united-kingdom, european-union, referendum, sovereignty, badlands-brief]
-sources: [raw/badlands-brief-3d4.md]
+sources: [raw/badlands-brief-3d4.md, raw/badlands-news-brief-a38.md]
 confidence: medium
 ---
 
@@ -20,5 +20,10 @@ Brexit was the United Kingdom's 2016 referendum decision to leave the European U
 
 In 2026 Carney, by then Canadian prime minister, invoked Brexit directly as a warning to [[alberta-separatism|Alberta separatists]], describing the notion that separation is merely a negotiating tactic as a "dangerous bluff."[1] The intervention followed Premier [[danielle-smith|Danielle Smith]]'s announcement of an October referendum on beginning the legal process toward a binding independence vote.[1] Alberta conservatives responded by reprising the Project Fear critique, arguing that federal elites were again attempting to frighten voters away from asserting sovereignty.[1]
 
+## Invoked in the 2024 EU Migration Pact debate
+
+Following the [[european-parliament|European Parliament]]'s April 2024 approval of the [[eu-asylum-and-migration-pact|EU Asylum and Migration Pact]], Badlands Media contributor [[ashe-in-america|Ashe in America]] argued that if Europeans were smart they would "follow the path of Brexit," presenting British withdrawal as the model response to what the writer described as an [[european-union|EU]] effort to force unfettered migration on member states under threat of fines.[2]
+
 ## References
 1. Badlands Brief — "Canadian Separatists & Guerilla Campaigns", URL: https://badlands.substack.com/p/badlands-brief-3d4
+2. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38

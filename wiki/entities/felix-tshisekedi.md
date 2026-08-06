@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [democratic-republic-of-the-congo, africa, heads-of-state]
-sources: [raw/badlands-brief-e8d.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-880.md, raw/badlands-news-brief-8fd.md]
+sources: [raw/badlands-brief-e8d.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-880.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a69.md]
 confidence: medium
 ---
 
@@ -44,6 +44,10 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argue
 
 Tshisekedi joined Rwandan President Paul Kagame at the White House on December 4, 2025, where President Donald Trump brought the two leaders together to sign new deals aimed at stabilizing the war-scarred eastern Congo region and attracting Western mining investment.[6] Analysts said US diplomacy had paused escalation of the fighting but failed to resolve core issues, and days earlier the DRC military and M23 rebels had accused one another of violating the ceasefire.[6]
 
+## Survival against successive destabilization attempts
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] framed the June 2025 [[rwanda-drc-peace-agreement-2025|Rwanda–DR Congo peace agreement]] as the possible bookend of a long arc that began with Trump's [[executive-order-13818|Executive Order 13818]] sanctioning [[dan-gertler|Dan Gertler]] and continued through Tshisekedi's displacement of Gertler's business partner [[joseph-kabila|Joseph Kabila]].[7] In this account, Tshisekedi's government survived successive overthrow attempts — first by Gertler and former Mossad director [[yossi-cohen|Yossi Cohen]], then by operative [[christian-malanga|Christian Malanga]], then by Rwandan President [[paul-kagame|Paul Kagame]] through the [[m23|M23]] militia — all motivated by roughly $24 trillion in rare earth minerals.[7]
+
 ## References
 1. Badlands Brief — "Miraflores New Tenant, Walz Awakens, & Kelly's Court Martial", URL: https://badlands.substack.com/p/badlands-brief-e8d
 2. Badlands Brief — "Climbing Confidence, a Congolese Crisis, & Uncorroborated KGB Claims", URL: https://badlands.substack.com/p/badlands-news-brief-457
@@ -51,3 +55,4 @@ Tshisekedi joined Rwandan President Paul Kagame at the White House on December 4
 4. Badlands News Brief — "Indian iPhones, A Sovereign Bromance, & Allegedly Real IDs", URL: https://badlands.substack.com/p/badlands-news-brief-520
 5. Badlands Brief — "Lawfare Losers & Azov-Adjacent Suicide Attempts", URL: https://badlands.substack.com/p/badlands-news-brief-880
 6. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
+7. Badlands News Brief — "Shadow Feds, Activist Courts, & Lasting Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a69

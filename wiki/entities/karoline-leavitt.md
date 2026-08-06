@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [white-house, media, trump-administration]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-02a.md, raw/badlands-brief-559.md, raw/badlands-brief-7c0.md, raw/badlands-brief-b82.md, raw/badlands-brief-d17.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-322.md, raw/badlands-news-brief-623.md, raw/badlands-news-brief-688.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-899.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-02a.md, raw/badlands-brief-559.md, raw/badlands-brief-7c0.md, raw/badlands-brief-b82.md, raw/badlands-brief-d17.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-322.md, raw/badlands-news-brief-623.md, raw/badlands-news-brief-688.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-ae1.md]
 confidence: low
 ---
 
@@ -109,6 +109,23 @@ On Wednesday, November 12, 2025, Leavitt said the October jobs report and inflat
 
 After media outlets published a leaked low-confidence Defense Intelligence Agency assessment downplaying the effect of U.S. strikes on Iran's nuclear program, Leavitt condemned the disclosure on June 25, 2025.[23] "The leaking of this alleged assessment is a clear attempt to demean President Trump, and discredit the brave fighter pilots who conducted a perfectly executed mission to obliterate Iran's nuclear program," she said.[23] She added: "Everyone knows what happens when you drop fourteen 30,000 pound bombs perfectly on their targets: total obliteration."[23]
 
+## Statement on inauguration invitations, December 2024
+
+As spokesperson for the Trump presidential transition in December 2024, Leavitt commented on reports that President-elect [[donald-trump|Donald Trump]] had invited Chinese President [[xi-jinping|Xi Jinping]] and other foreign dignitaries to his January 20 inauguration, saying that "world leaders are lining up to meet with President Trump because they know he will soon return to power and restore peace through American strength around the globe."[24]
+
+## June 2025 briefing on the Israel–Iran decision
+
+At a [[white-house|White House]] press briefing in June 2025, Leavitt delivered a message directly from President [[donald-trump|Donald Trump]] on whether the United States would join the Israel–Iran conflict: "Based on the fact that there's a substantial chance of negotiations that may or may not take place with Iran in the near future, I will make my decision whether or not to go within the next two weeks."[25] Asked what the message was for "everyday Trump supporters" concerned about US involvement, Leavitt said to "trust in President Trump," adding that the president's top priority was ensuring that [[iran|Iran]] does not successfully construct a nuclear weapon.[25] The announcement came 24 hours after Trump said he had not made up his mind, and fit a broader administration posture of strategic ambiguity that revealed little publicly about its thinking or potential courses of action.[25] Iran's deputy foreign minister meanwhile told the BBC that US involvement would cause "hell" in the region, insisting "this is not America's war."[25]
+
+## DC federal law enforcement surge (August 2025)
+
+Announcing the seven-day federal patrol of Washington, D.C. that began at midnight on August 7, 2025, Leavitt said the capital "is an amazing city, but it has been plagued by violent crime for far too long," adding that President [[donald-trump|Donald Trump]] had directed an increased federal law enforcement presence to protect innocent citizens.[26] "Starting tonight, there will be no safe harbor for violent criminals in D.C.," she said.[26] The operation was led by the [[united-states-park-police|U.S. Park Police]] with participation from the [[fbi|FBI]], [[drug-enforcement-administration|DEA]], [[bureau-of-alcohol-tobacco-firearms-and-explosives|ATF]] and [[immigration-and-customs-enforcement|ICE]] divisions, all in marked units.[26]
+
+## Defense of the March 2025 Alien Enemies Act deportations
+
+On Sunday, March 16, 2025, Leavitt defended the removal of alleged [[tren-de-aragua|Tren de Aragua]] members carried out under the [[alien-enemies-act|Alien Enemies Act]] despite Judge [[james-boasberg|James Boasberg]]'s order blocking the law's use, appearing to point to the fact that the judge's written order did not explicitly mention planes already in the air.[27] She stated that the [[department-of-homeland-security|Department of Homeland Security]] had arrested almost 300 members of the Venezuelan gang over that weekend.[27]
+
+
 ## References
 1. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
 2. Badlands Brief — "Arctic Escalation and Tropic Trouble for the Financial System", URL: https://badlands.substack.com/p/badlands-brief-02a
@@ -133,3 +150,7 @@ After media outlets published a leaked low-confidence Defense Intelligence Agenc
 21. Badlands Brief — "Badlands News Brief: Saudi Scoops, Slender Stabbers, & Scorned Scouts", URL: https://badlands.substack.com/p/badlands-news-brief-824
 22. Badlands Brief — "Badlands News Brief: MAGA Cracks, Fund Funnels, & Devilish Bees", URL: https://badlands.substack.com/p/badlands-news-brief-817
 23. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
+24. Badlands Brief — "Wray Goes to Sleep, Syria Gets Weird and Xi Gets an Invite", URL: https://badlands.substack.com/p/badlands-news-brief-960
+25. Badlands News Brief — "A Constellation of Corruption & A Goldilocks Galaxy", URL: https://badlands.substack.com/p/badlands-news-brief-a40
+26. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
+27. Badlands News Brief — "Defiant Deportations & Canadian Freeloaders", URL: https://badlands.substack.com/p/badlands-news-brief-ae1

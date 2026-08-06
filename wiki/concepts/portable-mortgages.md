@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [housing, mortgages, affordability, fhfa, trump-administration]
-sources: [raw/badlands-news-brief-817.md]
+sources: [raw/badlands-news-brief-817.md, raw/badlands-news-brief-ac6.md]
 confidence: medium
 ---
 
@@ -20,9 +20,16 @@ Pulte's statement, made in a social media post on Wednesday, November 12, 2025, 
 
 In the model described in commentary, instead of taking out a completely new mortgage, a mover uses proceeds from the sale of the current property to pay off the existing loan and then takes out a new mortgage on the same terms with the same provider to finance the new home.[1] Advocates argue this would let borrowers avoid early repayment charges and escape lender fees of roughly three to five points charged on new mortgages and refinancings.[1]
 
+Portable mortgages would allow homeowners to transfer their existing mortgages — rates, terms, and amortization schedule — to a new residential property, in theory helping borrowers avoid penalties and possibly save on interest.[2] The option is unavailable in the United States but exists in Canada, the United Kingdom, and parts of the European Union.[2] The related concept of an assumable mortgage refers to a homebuyer taking over the seller's existing mortgage, including the interest rate, balance, and repayment terms.[2] Days before his November 12 statement, [[bill-pulte|Pulte]] had said that [[fannie-mae|Fannie Mae]] and [[freddie-mac|Freddie Mac]] were "evaluating how to do assumable or portable mortgages, in a safe and sound manner."[2]
+
+## Reception alongside the credit-score change
+
+The portable-mortgage evaluation was reported alongside the [[fannie-mae-minimum-credit-score-elimination|elimination of Fannie Mae's 620 minimum credit score]] for Desktop Underwriter loans, part of a run of mortgage-related announcements messaged as expanding access to homeownership.[2] [[ashe-in-america|Ashe in America]] observed that none of these measures claimed to make homes themselves more affordable — only mortgages cheaper and more accessible — benefiting the financial services industries at the public's expense, and said that while she took no issue with portable mortgages in principle she was skeptical they would be implemented because of their impact on those industries.[2]
+
 ## Commentary
 
 In the [[badlands-news-brief|Badlands News Brief]], [[jon-herold|Jon Herold]] responded to the proposal with the sardonic line "If you like your mortgage you can keep your mortgage," invoking the Affordable Care Act promise.[1] [[gmoney|GMONEY]] took the opposite view, calling the potential savings "YUUUUGE" and emphasizing the elimination of origination and refinance points.[1]
 
 ## References
 1. Badlands Brief — "Badlands News Brief: MAGA Cracks, Fund Funnels, & Devilish Bees", URL: https://badlands.substack.com/p/badlands-news-brief-817
+2. Badlands Brief — "Badlands News Brief: Epsteinian Psyops, Mortgage Madness and Caribbean Chaos", URL: https://badlands.substack.com/p/badlands-news-brief-ac6

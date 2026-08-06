@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [syria, congress, intelligence, media-narrative]
-sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-05f.md, raw/badlands-brief-1cd.md, raw/badlands-brief-2c5.md, raw/badlands-brief-314.md, raw/badlands-brief-707.md, raw/badlands-brief-6f4.md, raw/badlands-brief-6f0.md, raw/badlands-brief-708.md, raw/badlands-brief-70c.md, raw/badlands-brief-835.md, raw/badlands-brief-949.md, raw/badlands-brief-9ac.md, raw/badlands-brief-990.md, raw/badlands-brief-a89.md, raw/badlands-brief-ac2.md, raw/badlands-brief-d3b.md, raw/badlands-brief-da2.md, raw/badlands-brief-e15.md, raw/badlands-brief-f87.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-9ba.md]
+sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-05f.md, raw/badlands-brief-1cd.md, raw/badlands-brief-2c5.md, raw/badlands-brief-314.md, raw/badlands-brief-707.md, raw/badlands-brief-6f4.md, raw/badlands-brief-6f0.md, raw/badlands-brief-708.md, raw/badlands-brief-70c.md, raw/badlands-brief-835.md, raw/badlands-brief-949.md, raw/badlands-brief-9ac.md, raw/badlands-brief-990.md, raw/badlands-brief-a89.md, raw/badlands-brief-ac2.md, raw/badlands-brief-d3b.md, raw/badlands-brief-da2.md, raw/badlands-brief-e15.md, raw/badlands-brief-f87.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-9ba.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a50.md, raw/badlands-news-brief-a65.md]
 confidence: medium
 ---
 
@@ -187,6 +187,21 @@ Days later Gabbard announced plans to cut the staff of the [[office-of-the-direc
 
 Badlands commentary treated Gabbard as a "white hat" determined to dismantle the cartel said to have controlled the intelligence community since the assassination of JFK, while contributor [[brad-zerbo|Brad Zerbo]] argued that severing deep state intelligence agents from government was the only way forward.[34]
 
+## Codification of the "Grand Conspiracy" framing (July 2025)
+
+Badlands contributor [[burning-bright|Burning Bright]] wrote in late July 2025 that, as Director of National Intelligence, Gabbard had "codified the whole thing to end one week, and kick off the next," referring to the [[trump-administration|Trump administration]]'s allegations that [[barack-obama|Barack Obama]]-era officials manufactured [[russiagate-hoax|Russiagate]].[35] He argued that "treason" and "conspiracy" were being restored to their original legal force after decades in which US intelligence had demonized both terms, and that "Grand Conspiracy" would become the legally codified label for Disclosure across the political, legal and clandestine battlespace.[35] Her disclosures ran in parallel with [[cia|CIA]] Director [[john-ratcliffe|John Ratcliffe]]'s criminal referrals.[35]
+
+
+## Senate Intelligence Committee confirmation hearing (January 2025)
+
+Gabbard testified before the [[senate-intelligence-committee|Senate Intelligence Committee]] on Thursday, 30 January 2025, on her nomination as Director of National Intelligence, insisting she was no one's "puppet" and pushing back against senators' accusations that she supported foreign dictators and a famous U.S. whistleblower who fled to Russia.[36] She repeatedly refused to answer a question posed by several members of the committee: "Is Edward Snowden a traitor?" — asked by Senator [[michael-bennet|Michael Bennet]] (D-CO), who noted that the GOP chairman of the committee had called Snowden a traitor.[36] Gabbard did not directly answer, and Bennet grew visibly angry, demanding "Yes or no?! Is Edward Snowden a traitor to the United States of America?"[36]
+
+Badlands commentary argued that Gabbard "terrifies the regime," which it said was extremely concerned about losing warrantless searches and an unaccountable intelligence apparatus, and asserted that the senators' questions appeared to have been supplied by their intelligence-community handlers.[36] Contributor Paul Fleuret observed that Gabbard, [[kash-patel|Kash Patel]] and [[pam-bondi|Pam Bondi]] shared a common feature in their testimony: none of them would admit that Joe Biden won the 2020 election.[36]
+
+## Dismissal of intelligence officers over explicit chatrooms (February 2025)
+
+As Director of National Intelligence, Gabbard announced in late February 2025 the imminent dismissal of more than 100 intelligence community employees connected to a series of sexually explicit and graphic posts about sexual fetishes and transgenderism on an intragovernmental server.[37] The individuals were employed by the [[national-security-agency|National Security Agency]] and the [[cia|Central Intelligence Agency]] and had engaged in the discussions during work hours.[37] Gabbard characterized the matter as a serious breach with potential national security and blackmail implications: "There are over 100 people from across the intelligence community that contributed to and participated in what is really just an egregious violation of trust."[37] She added: "I put out a directive today that they will all be terminated and their security clearances will be revoked."[37] Badlands commentary noted the story had been overshadowed by the Epstein files controversy and argued that, given the NSA capabilities revealed by Edward Snowden and dramatized in [[enemy-of-the-state|Enemy of the State]], the presence of that many compromised employees inside the agency was alarming.[37]
+
 ## References
 1. Badlands Brief — "Assad Day in Damascus", URL: https://badlands.substack.com/p/assad-day-in-damascus
 2. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
@@ -222,3 +237,6 @@ Badlands commentary treated Gabbard as a "white hat" determined to dismantle the
 32. Badlands Brief — "Brennan Decries Judge Shopping & JD Says It's Okay to Be White!", URL: https://badlands.substack.com/p/badlands-news-brief-795
 33. Badlands Brief — "Badlands News Brief: The Corruption of Anti-Corruption & Obama Bites Back", URL: https://badlands.substack.com/p/badlands-news-brief-91b
 34. Badlands News Brief — "Russian Concessions & Criminal Referrals", URL: https://badlands.substack.com/p/badlands-news-brief-9ba
+35. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
+36. Badlands Brief — "Badlands News Brief: Bicameral Puppets & Dark Money Muppets", URL: https://badlands.substack.com/p/badlands-news-brief-a50
+37. Badlands Brief — "Badlands News Brief: Rug Pulled Reputations, Insubordination, & the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-a65

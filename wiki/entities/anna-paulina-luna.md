@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, house-of-representatives, counterintelligence]
-sources: [raw/badlands-brief-1ae.md, raw/badlands-brief-9ea.md, raw/badlands-brief-fd9.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-5d1.md, raw/badlands-news-brief-808.md]
+sources: [raw/badlands-brief-1ae.md, raw/badlands-brief-9ea.md, raw/badlands-brief-fd9.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-5d1.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-a72.md]
 confidence: medium
 ---
 
@@ -42,6 +42,20 @@ On Monday, February 24, 2025, Luna took to X to ask publicly why the "files" on 
 
 In April 2024, immediately after the House voted 273 to 147 to reauthorize [[section-702|Section 702]] of the Foreign Intelligence Surveillance Act through 2026, Luna objected to its passage and requested a vote on the motion to reconsider the legislation.[8] Her objection meant the bill could not be transmitted to the Senate until the House voted to table the motion to reconsider the following week, delaying the renewal of a program set to expire on April 19.[8] The maneuver came after an amendment to add a warrant requirement for searching Americans' data failed on a tied 212 to 212 vote.[8]
 
+## February 2025: DECLAS task force
+
+In February 2025 Luna, a Florida Republican and member of the [[house-freedom-caucus|House Freedom Caucus]] first elected in 2022, was tasked with revisiting "federal secrets" surrounding the assassinations of [[john-f-kennedy|John F. Kennedy]] and [[martin-luther-king-jr|Martin Luther King Jr.]], as well as [[jeffrey-epstein|Jeffrey Epstein]]'s so-called "client list."[9] She had repeatedly pushed for transparency in the federal government, including on unidentified flying objects, the origins of COVID-19, and the September 11 attacks — all of which were slated to fall within her task force's remit.[9] Press coverage placed her among a class of GOP insurgents and [[donald-trump|Trump]] loyalists who had recently floated a bill to put Trump's face on Mount Rushmore.[9]
+
+Profiles of the 35-year-old lawmaker noted six years of military service in the Air Force and Oregon Air National Guard, work as a cocktail waitress at a gentlemen's club and as a swimsuit model for publications including Liberty Belles, and a following built as an Instagram influencer before she pivoted into far-right politics.[9]
+
+Badlands host [[jon-herold|Jon Herold]] was sharply skeptical of the DECLAS committee, arguing that the movement should "stop taking steps backward for the sake of waking up the normies" and questioning whether Luna was attempting to co-opt declassification from Trump by implying the task force existed so bad actors could not block release.[9] He noted that she had never advocated for or even mentioned declassification of the JFK files before that week, apart from thanking Trump for delivering on his promise to do so.[9]
+
+## March 2025: claims of an unreleased JFK assassination video
+
+In late March 2025 Luna said she was still searching for a cover-up in the assassination of President [[john-f-kennedy|John F. Kennedy]], asserting without evidence that an allegedly previously unreleased video could reveal new details of the killing despite the recent declassification of large volumes of government files on the case.[10] In a Fox News interview with host Jesse Watters, she said she had just been told that NBC held a "never been seen before" video of the shooting, which she would request access to; according to Luna the video "allegedly" showed presumed gunman [[lee-harvey-oswald|Lee Harvey Oswald]] near Kennedy's vehicle at the moment of the assassination, which she argued would mean "he couldn't have been the shooter."[10]
+
+Luna had been elevated by House Republicans to lead the House Oversight Committee's [[task-force-on-the-declassification-of-federal-secrets|Task Force on the Declassification of Federal Secrets]], and said she would ask NBC to turn over the alleged video.[10] Her task force was set to convene a hearing on the [[jfk-files-release|JFK files]] on April 1, 2025, and she promised to travel to Dallas to interview "first-hand witnesses" to the six-decades-old assassination.[10] [[badlands-media|Badlands Media]] noted the fittingness of the first DECLAS hearing landing on April Fool's Day, with [[jon-herold|Jon Herold]] writing that it was "difficult to think of a bigger joke than this task force."[10]
+
 ## References
 1. Badlands Brief — "DC Exposes Itself as the Middle East Gets Gloriously Strange", URL: https://badlands.substack.com/p/badlands-brief-1ae
 2. Badlands Brief — "A Politician is Swallowelled Whole as the Middle East Realigns in Real Time", URL: https://badlands.substack.com/p/badlands-brief-9ea
@@ -51,3 +65,5 @@ In April 2024, immediately after the House voted 273 to 147 to reauthorize [[sec
 6. Badlands Brief — "Badlands News Brief: Predictable Pandemics & A Thespian's Next Steps", URL: https://badlands.substack.com/p/badlands-news-brief-4a9
 7. Badlands Brief — "Panicking Pundits, New Pentagon Partners, & Piecrust Promises", URL: https://badlands.substack.com/p/badlands-news-brief-5d1
 8. Badlands News Brief — "Iranian Walk-backs, Trump Trials & Trans Truths", URL: https://badlands.substack.com/p/badlands-news-brief-808
+9. Badlands Brief — "Badlands News Brief: Rising Demand for DC Defenders & A Sovereign Spring Social", URL: https://badlands.substack.com/p/badlands-news-brief-a34
+10. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72

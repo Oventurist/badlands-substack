@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, jpmorgan, debanking, litigation, finance]
-sources: [raw/badlands-brief-695.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-319.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-85a.md]
+sources: [raw/badlands-brief-695.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-319.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-ac1.md]
 confidence: medium
 ---
 
@@ -46,10 +46,16 @@ In late March 2023 Reuters reported that Dimon would be deposed under oath in co
 
 Commentary published by [[badlands-media|Badlands Media]] argued that the significance of the [[deutsche-bank|Deutsche Bank]] and JPMorgan suits lay less in their legal detail than in the spectacle of major banks appearing in headlines beside the words "Epstein victims" during a banking crisis.[6]
 
+## Meeting with Zelensky at Davos (January 2024)
+
+In January 2024, Dimon met Ukrainian president [[volodymyr-zelensky|Volodymyr Zelensky]] for the first time at the [[world-economic-forum|World Economic Forum]] in Davos, Switzerland, greeting him with "God bless you" as they shook hands ahead of a sit-down with Wall Street financiers.[7] Zelensky used the meeting to pitch Ukraine as open for business, tweeting that "attracting private capital to rebuild Ukraine is important to us" and expressing hope that [[jpmorgan-chase|JPMorgan]] would help draw global investors and corporations into the Ukrainian economy.[7] The encounter came amid continued wrangling in Washington over a proposed $61 billion package of military and financial support, and a day after Zelensky asked his Swiss hosts to organize a "high-level peace conference" on the war with Russia.[7]
+
 ## References
+
 1. Badlands Brief — "Election Bombshells, Peace Board Bangers, & Clintons in Contempt", URL: https://badlands.substack.com/p/badlands-brief-695
 2. Badlands Brief — "Badlands News Brief: Hunter Hunted, Billionaire Boxing & Snopes Nopes", URL: https://badlands.substack.com/p/badlands-news-brief-090
 3. Badlands Brief — "Badlands News Brief: Debt Deals, China Chiefs & Epstein's Banks", URL: https://badlands.substack.com/p/badlands-news-brief-319
 4. Badlands Brief — "Badlands News Brief: Devastation at Davos & the Dawn of Denuclearization", URL: https://badlands.substack.com/p/badlands-news-brief-53f
 5. Badlands News Brief — "The Bilateral Bromance & A Misled Grand Jury", URL: https://badlands.substack.com/p/badlands-news-brief-7bf
 6. Badlands Brief — "Bank of Epstein, Saudi Arabia & Trump's Reprieve?", URL: https://badlands.substack.com/p/badlands-news-brief-85a
+7. Badlands Brief — "The Media Melts Down as MAGA Rises Once More ...", URL: https://badlands.substack.com/p/badlands-news-brief-ac1

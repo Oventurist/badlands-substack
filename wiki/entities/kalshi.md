@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [prediction-markets, elections, gambling, regulation]
-sources: [raw/badlands-brief-0fb.md, raw/badlands-news-brief-7b7.md]
+sources: [raw/badlands-brief-0fb.md, raw/badlands-news-brief-7b7.md, raw/badlands-news-brief-a31.md]
 confidence: medium
 ---
 
@@ -32,6 +32,11 @@ On Friday, September 6, 2024, a federal judge cleared the way for Americans to p
 
 Kalshi co-founder Luana Lopes Lara said the company would make its congressional-control contracts — including markets on whether Democrats would retake the U.S. House of Representatives in November — available to users the following week, and would move quickly to list other kinds of political-event contracts.[2] It remained uncertain over the weekend whether the markets would go live, as regulators filed an emergency motion seeking a two-week delay while they considered an appeal.[2] The item was carried among the bonus stories in the September 10, 2024 Badlands News Brief.[2]
 
+## Fed chair market (August 2025)
+
+In August 2025 Kalshi's contracts on the identity of the next [[federal-reserve|Federal Reserve]] chairman became a closely watched barometer of Washington expectations.[3] On August 7, 2025 the platform's odds that Governor [[christopher-waller|Christopher Waller]] would be named chair crossed above 50 percent for the first time, spiking from roughly 16 percent the previous day after Bloomberg News reported that President [[donald-trump|Donald Trump]]'s advisors liked Waller's willingness to adjust policy on forecasts rather than current data.[3] Waller's price overtook those of earlier front-runners, former Fed official [[kevin-warsh|Kevin Warsh]] at about 20 percent and [[national-economic-council|National Economic Council]] Director [[kevin-hassett|Kevin Hassett]] at about 35 percent.[3]
+
 ## References
 1. Badlands Brief — "Time is on Trump's Side ... But Which Regime is he Fighting?", URL: https://badlands.substack.com/p/badlands-brief-0fb
 2. Badlands Brief — "Badlands News Brief: Harris Preps, Sovereigns Speak & ... Haitians Eat Cats?", URL: https://badlands.substack.com/p/badlands-news-brief-7b7
+3. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31

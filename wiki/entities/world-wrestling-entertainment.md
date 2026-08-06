@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [entertainment, wrestling, kayfabe, trump]
-sources: [raw/badlands-news-brief-42e.md, raw/badlands-news-brief-6ff.md]
+sources: [raw/badlands-news-brief-42e.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-9c6.md]
 confidence: medium
 ---
 
@@ -26,6 +26,12 @@ Badlands commentators argued that the scheduling of Linda McMahon and Hogan — 
 
 In April 2023, WWE agreed to merge with the [[ufc|Ultimate Fighting Championship]] to form a new publicly traded combat sports and entertainment company controlled by [[endeavor|Endeavor Group]], in what became known as the [[wwe-ufc-merger|WWE–UFC merger]].[2] Endeavor took a 51 percent stake and WWE shareholders retained 49 percent, with WWE valued at $9.3 billion and UFC at $12.1 billion.[2] [[vince-mcmahon|Vince McMahon]] became executive chairman while chief executive [[nick-khan|Nick Khan]] remained president of the wrestling business under new chief executive [[ari-emanuel|Ari Emanuel]].[2] [[badlands-media|Badlands Media]] commentator [[burning-bright|Burning Bright]] warned that WWE could be "doomed" under the same homogenizing directives applied to UFC, and more thoroughly so because its programming is scripted, leaving stories and interviews to whatever the writers determine.[2]
 
+## Alumni in the Second Trump Administration (2024)
+
+The company's former chief executive [[linda-mcmahon|Linda McMahon]] was selected in November 2024 to serve as secretary of education in [[donald-trump|Donald Trump]]'s second administration.[3] Badlands commentary observed that the promotion's highest-rated storylines of all time involved Trump, who was inducted into the WWE Hall of Fame in 2013, and that Linda McMahon occasionally portrayed herself as a character within the fictional universe built by her husband [[vince-mcmahon|Vince McMahon]].[3] The organization also helped fund Evel Knievel's failed Snake River Canyon jump, in which the daredevil's steam-powered rocket motorcycle crossed the canyon but was blown back by a prematurely deployed parachute.[3] Speculation among Badlands writers held that the McMahon appointment signaled a possible appointment of [[hulk-hogan|Terry Bollea]] to Marco Rubio's vacated Florida Senate seat.[3]
+
 ## References
+
 1. Badlands Brief — "Badlands News Brief: Change of Batter, Indeed …", URL: https://badlands.substack.com/p/badlands-news-brief-42e
 2. Badlands Brief — "Badlands News Brief: President of Precedents ...", URL: https://badlands.substack.com/p/badlands-news-brief-6ff
+3. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6

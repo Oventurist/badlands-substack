@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [2024-election, biden, trump, media, deep-state]
-sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-384.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-565.md]
+sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-384.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-a66.md, raw/badlands-news-brief-aac.md]
 confidence: medium
 ---
 
@@ -42,8 +42,26 @@ On Thursday, June 20, 2024, one week before the debate, President [[joe-biden|Jo
 
 [[donald-trump|Donald Trump]], by contrast, was reported to be approaching the debate as just another campaign appearance, dismissing the idea that he required anything resembling Biden's all-hands-on-deck preparation.[4] [[badlands-media|Badlands Media]] commentator [[ashe-in-america|Ashe in America]] argued that no amount of preparation would fix Biden's performance and recalled that his team had cancelled a remaining 2020 debate while citing COVID-19.[4] She also highlighted the format: hand-picked moderators, no live audience, and rumors that the candidates would be seated.[4]
 
+## Trump's call for "immediate debates" (February 2024)
+
+Months before the debates were scheduled, [[donald-trump|Donald Trump]] publicly demanded that he and [[joe-biden|Joe Biden]] debate as soon as possible, "for the good of the country."[5] Speaking on [[dan-bongino|Dan Bongino]]'s podcast in early February 2024, Trump urged that more Americans be made aware that Biden "can't do anything," saying: "He can't talk. He can't do anything. He's ruining our country and I don't think he's going to run," and speculating that donors or Biden's family might be behind a withdrawal.[5] "I'd like to call for immediate debates. I'd like to debate him now because we should debate. We should debate for the good of the country," Trump said, adding, "I am officially going to do that."[5] He also repeated an earlier offer to take Biden's Super Bowl interview slot, proclaiming "We'll get very good ratings."[5]
+
+Badlands writer [[burning-bright|Burning Bright]] argued that Biden actually accepting a live televised debate would be one of the most striking confirmations of the "Patriots in Control" refrain in the information war, since the attempt would be visibly futile from the establishment's perspective.[5] He noted that Trump had solidified his standing as champion of the people in his 2016 televised performances against Hillary Clinton and again ahead of 2020, and contended that allowing Biden to be savaged on air did not fit an establishment agenda that required persuading enough Americans that Biden legitimately won.[5]
+
+## Aftermath: governors, family recriminations, and the Old Guard
+
+By July 1, 2024, several Democratic state governors were reported to be quietly positioning themselves as potential late substitutes for [[joe-biden|Joe Biden]] while publicly professing loyalty, watching for slippage in his polling and a loss of donor support over the following two weeks; one governor told Politico that "the temperature is high" among party state leaders.[6] [[gavin-newsom|Gavin Newsom]] defended the president immediately after the debate, saying he would "never turn my back" on him, but was widely read as ambiguous when he said he was ready "to step up."[6] Reporting noted that even in an open convention, [[kamala-harris|Kamala Harris]] would be the clear front-runner — a point Badlands contributor [[ashe-in-america|Ashe in America]] highlighted while observing that Harris typically polled several points behind Biden.[6]
+
+Separately, Politico reported that Biden's family privately trashed his top campaign advisers at a Camp David gathering that weekend and urged him to fire or demote members of his political high command, singling out [[anita-dunn|Anita Dunn]], her husband [[bob-bauer|Bob Bauer]] — who played [[donald-trump|Donald Trump]] in rehearsals — and former chief of staff [[ron-klain|Ron Klain]], who ran point on debate prep.[6] Complaints included insufficient preparation to go on the attack, over-emphasis on defending Biden's record instead of a second-term vision, and the president being overworked and under-rested; campaign spokesperson Kevin Munoz said Biden retained strong confidence in his aides and a senior aide denied frustration was aimed at the three.[6]
+
+[[burning-bright|Burning Bright]] offered a competing reading, noting that despite public panic, [[barack-obama|Barack Obama]] and [[hillary-clinton|Hillary Clinton]] set the narrative for the "Old Guard" by standing pat with Biden even as friendly media outlets turned on him.[6] Drawing on [[devolution]] framing and the research of [[jon-herold|Jon Herold]], and on a discussion with [[just-human|Just Human]] on the program DEFECTED, he argued that the establishment's fear was not that it might have to replace Biden but that it might be unable to.[6] Ashe in America separately relayed [[tucker-carlson|Tucker Carlson]]'s report that a reliable source said Obama was now backing an open convention, which if true would mean Democratic politicians were lying to their voters about their intentions.[6]
+
+The debate's shockwaves reached abroad as well: a Haaretz op-ed argued that Trump's dominant performance and Biden's evident weakness signaled a likely Trump victory that would be bad for [[benjamin-netanyahu|Benjamin Netanyahu]], since Trump "feeds on weakness" and regards the Israeli prime minister — unable to destroy Hamas, mired in Gaza, facing economic deterioration and a probable International Criminal Court arrest warrant — as a loser.[6]
+
 ## References
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
 2. Badlands Brief — "Badlands News Brief: Debates Set, Funding Found & NGO's Defied", URL: https://badlands.substack.com/p/badlands-news-brief-384
 3. Badlands Brief — "The Old Guard Braces for Impact as Panic Spreads", URL: https://badlands.substack.com/p/badlands-news-brief-447
 4. Badlands Brief — "Polling Paradoxes, Hegelian Seeding & Putin's Gambit", URL: https://badlands.substack.com/p/badlands-news-brief-565
+5. Badlands Brief — "The President of Precedent & a Trapped Economy", URL: https://badlands.substack.com/p/badlands-news-brief-a66
+6. Badlands Brief — "Badlands News Brief: Wins at Home and Deals Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-aac

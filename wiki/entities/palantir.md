@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [defense-tech, surveillance, military-industrial-complex]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-brief-861.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-355.md, raw/badlands-news-brief-574.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-brief-861.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-355.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-ac6.md]
 confidence: low
 ---
 
@@ -40,9 +40,14 @@ Palantir Technologies Inc. (NASDAQ: PLTR) finished about 3% lower at the market 
 
 Badlands contributor [[ashe-in-america|Ashe in America]] highlighted a discussion of Palantir between [[jon-herold|Jon Herold]] and [[chris-paul|Chris Paul]] on a Saturday Devolution Power Hour, quoting the framing that "maybe the world would be better if these tools didn't exist. But they do exist. We have to figure out how to have a good world with these tools in it," while asking what such a world would actually look like.[5]
 
+## Michael Burry's put position (November 2025)
+
+In November 2025, investor [[michael-burry|Michael Burry]]'s [[scion-asset-management|Scion Asset Management]] disclosed in a 13F filing that roughly 80% of its put positions were concentrated in Palantir and [[nvidia|Nvidia]], marking the company as a central target of the most prominent bearish bet against the artificial-intelligence trade.[6] Burry later clarified on X that he had purchased 50,000 Palantir put contracts at $1.84 each — 100 shares per contract, about $9.2 million in total premium rather than the $912 million figure circulated online — giving him the right to sell Palantir shares at $50 in 2027.[6] Days afterward Scion terminated its SEC registration, and commentary in the [[badlands-media|Badlands]] brief treated the wager as a bet against "the very hype that's inflated" the era's bubble.[6]
+
 ## References
 1. Badlands Brief — "A Gateway to a New World of Cooperation", URL: https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation
 2. Badlands Brief — "Floridian Terror Boats, Venezuelan Deck Chairs, & the War on Fraud", URL: https://badlands.substack.com/p/badlands-brief-861
 3. Badlands Brief — "Badlands News Brief: IC Ignitions & Double Detonations", URL: https://badlands.substack.com/p/badlands-news-brief-1a0
 4. Badlands Brief — "Mushroom Zombies, Palantir, & Election DAY", URL: https://badlands.substack.com/p/badlands-news-brief-355
 5. Badlands Brief — "Badlands News Brief: Mandatory Deprogramming & Military Parades", URL: https://badlands.substack.com/p/badlands-news-brief-574
+6. Badlands Brief — "Badlands News Brief: Epsteinian Psyops, Mortgage Madness and Caribbean Chaos", URL: https://badlands.substack.com/p/badlands-news-brief-ac6

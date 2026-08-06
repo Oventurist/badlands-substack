@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [congress, politics, uniparty]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-blitz-episode-23.md, raw/badlands-brief-165.md, raw/badlands-brief-1ae.md, raw/badlands-brief-58d.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-553.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-blitz-episode-23.md, raw/badlands-brief-165.md, raw/badlands-brief-1ae.md, raw/badlands-brief-58d.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-a57.md]
 confidence: medium
 ---
 
@@ -60,6 +60,10 @@ Badlands contributor [[burning-bright|Burning Bright]] invoked the Uniparty in N
 
 The February 15, 2024 [[badlands-news-brief|Badlands News Brief]], subtitled "Russian Space Nukes & Uniparty Shenanigans," used the week's news as a case study in uniparty mechanics.[9] [[ashe-in-america|Ashe in America]] argued that [[mike-turner|Mike Turner]]'s vague national security warning about the alleged [[russian-space-nuclear-weapon-program|Russian space nuclear weapon program]] was timed to pressure the House into passing the Senate's $95 billion supplemental, describing it as "political theatre intended to enhance and expand the power and resources of the criminal oligarchy."[9] [[burning-bright|Burning Bright]] characterized House Democrats' [[discharge-petition|discharge petition]] maneuver as the establishment "using every trick in the book" to fund a foreign proxy war the American people had not agreed to fund, "to say nothing of whatever kickbacks they get in return."[9]
 
+## The April 2024 foreign aid vote
+
+Badlands treated the April 2024 House vote on the [[april-2024-foreign-aid-package|foreign aid package]] as a defining Uniparty spectacle, headlining its April 22, 2024 brief "The Uniparty Celebrates as Warmongers Grow Desperate."[10] Writer Burning Bright argued that while [[donald-trump|Donald Trump]] took a sledgehammer to the Democratic establishment in his first term, his "second, silent term" — mistakenly referred to as the Biden administration — has been about exposing the Uniparty, and that Speaker [[mike-johnson|Mike Johnson]] and Kevin McCarthy before him had "done a stellar job exposing the controlled opposition dynamic."[10] The same commentary held that the process conflated the "Globalist Proxy States" of Ukraine, Israel and Taiwan with broader elite interests, and framed the contest as a "Mind War" whose success is measured by the direction of the collective mind.[10]
+
 ## References
 1. Badlands Brief — "A Communist Plot to Take Over America", URL: https://badlands.substack.com/p/a-communist-plot-to-take-over-america
 2. Badlands Brief — "Badlands Blitz Episode 23", URL: https://badlands.substack.com/p/badlands-blitz-episode-23
@@ -70,3 +74,4 @@ The February 15, 2024 [[badlands-news-brief|Badlands News Brief]], subtitled "Ru
 7. Badlands Brief — "Badlands News Brief: Epstein Resurfacing, the Uniparty & Election Fraud", URL: https://badlands.substack.com/p/badlands-news-brief-252
 8. Badlands Brief — "Badlands News Brief: Narrative Shielding & Biden Bait", URL: https://badlands.substack.com/p/badlands-news-brief-204
 9. Badlands Brief — "Badlands News Brief: Russian Space Nukes & Uniparty Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-553
+10. Badlands Brief — "Badlands News Brief: The Uniparty Celebrates as Warmongers Grow Desperate", URL: https://badlands.substack.com/p/badlands-news-brief-a57

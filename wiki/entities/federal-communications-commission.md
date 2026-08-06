@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fcc, broadcast, first-amendment, media, trump]
-sources: [raw/badlands-brief-1c6.md, raw/badlands-brief-7c6.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-12b.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-481.md, raw/badlands-news-brief-505.md]
+sources: [raw/badlands-brief-1c6.md, raw/badlands-brief-7c6.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-12b.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-481.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-9c6.md]
 confidence: medium
 ---
 
@@ -52,6 +52,10 @@ On December 12, 2023, the Federal Communications Commission reaffirmed its 2022 
 
 The two Republican members of the five-member commission dissented, arguing the agency was improperly enforcing 2025 targets three years early and attributing the outcome to the Biden administration's animus toward Elon Musk.[8] Commissioner Brendan Carr accused the FCC of joining "the growing list of administrative agencies that are taking action against Elon Musk's businesses" in a decision that "certainly fits the Biden Administration's pattern of regulatory harassment."[8]
 
+## Carr Chairmanship and Big Tech Inquiry (2024)
+
+In November 2024 President-elect [[donald-trump|Donald Trump]] named senior Republican commissioner [[brendan-carr|Brendan Carr]] as permanent chairman of the commission, describing him as a "warrior for free speech."[9] Ahead of that announcement Carr used the agency's letterhead to press Google, Microsoft, Meta and Apple for information about their role in what he termed a "censorship cartel," and about their commercial relationships with the ratings firm [[newsguard|NewsGuard]], setting a December 10 deadline for responses.[9] The inquiry signaled that the commission under Carr would treat platform content moderation and third-party "fact-checking" partnerships as a central regulatory concern.[9]
+
 ## References
 
 1. Badlands Brief — "Spain Wins The [American] World Cup", URL: https://badlands.substack.com/p/badlands-brief-1c6
@@ -62,3 +66,4 @@ The two Republican members of the five-member commission dissented, arguing the 
 6. Badlands Brief — "Badlands News Brief: Non-Binding Motions & Psycho-Emotional Problems", URL: https://badlands.substack.com/p/badlands-news-brief-3ab
 7. Badlands Brief — "Badlands News Brief: Donald's Drive-Thru Goes Viral as Iran Makes Moves", URL: https://badlands.substack.com/p/badlands-news-brief-481
 8. Badlands Media — "Badlands News Brief: The Biden Crime Family Begins to Unravel ...", URL: https://badlands.substack.com/p/badlands-news-brief-505
+9. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6

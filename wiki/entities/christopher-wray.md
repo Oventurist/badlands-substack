@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fbi, arctic-frost, lawfare, january-6]
-sources: [raw/badlands-news-brief-060.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-780.md, raw/badlands-news-brief-79c.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-960.md]
+sources: [raw/badlands-news-brief-060.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-780.md, raw/badlands-news-brief-79c.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a40.md]
 confidence: medium
 ---
 
@@ -66,6 +66,16 @@ Sources said Wray had wrestled with whether to resign given Trump's stated desir
 
 Though initially seen by many lawmakers as a solid choice to stabilize a rocky ship, Wray ultimately suffered a fate similar to his predecessor's after overseeing an FBI that investigated Trump, producing two separate federal cases against him.[10] Trump was particularly unhappy with the bureau's court-approved search of his Mar-a-Lago resort in August 2022 during the investigation into his alleged mishandling of classified documents, telling NBC's "Meet the Press" that week that he was not "thrilled" with Wray: "He invaded my home. He invaded Mar-a-Lago."[10] Badlands commentary noted that anonymous reports the previous day about the director's thinking had proven accurate, and greeted the announcement with a one-word verdict: "Good."[10]
 
+## March 2024 refusal to confirm counterintelligence investigations
+
+At the House Permanent Select Committee on Intelligence's Annual Threat Assessment hearing on Tuesday, March 12, 2024, Wray declined to tell House Republican Conference Chair Elise Stefanik whether the FBI was conducting counterintelligence investigations into President Joe Biden or former President Donald Trump.[11] Stefanik prefaced her questioning by noting that former FBI Director James Comey had testified he did not follow proper protocol in notifying Congress of the opening of Crossfire Hurricane, the 2016 counterintelligence investigation into Trump, and cited the Intelligence Authorization Act's direction that the FBI inform congressional leadership of any counterintelligence investigation into a federal candidate for office.[11]
+
+After a long pause, Wray attempted to refer Stefanik to Special Counsel Robert Hur, but when she demanded an answer citing the IAA he said: "There is no investigation that I could confirm here, no."[11]
+
+## Alleged destruction of the Albany CCP memo
+
+In June 2025, Senator [[chuck-grassley|Chuck Grassley]] alleged in a letter to the [[fbi|FBI]] that the bureau under Wray's direction had ordered the destruction of an intelligence document alleging that the Chinese Communist Party plotted to interfere in the 2020 presidential election.[12] The document in question was an intelligence report from the FBI's Albany Field Office claiming China planned to interfere by creating fake mail-in ballots for Democratic candidate Joe Biden; the bureau turned it over to Grassley in response to a request based on legally protected whistleblower disclosures.[12] Grassley sought additional information about the decision to destroy the memo.[12]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Quantum Tunneling, Natural Conflicts, & Pirates for Gaza", URL: https://badlands.substack.com/p/badlands-news-brief-060
@@ -78,3 +88,5 @@ Though initially seen by many lawmakers as a solid choice to stabilize a rocky s
 8. Badlands Brief — "Badlands News Brief: Target Tumbles, Trump Tops & Feds Fabricate", URL: https://badlands.substack.com/p/badlands-news-brief-79c
 9. Badlands News Brief — "Deflated Balloons, Sketchy AI & Democrat Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-8f9
 10. Badlands Brief — "Wray Goes to Sleep, Syria Gets Weird and Xi Gets an Invite", URL: https://badlands.substack.com/p/badlands-news-brief-960
+11. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
+12. Badlands News Brief — "A Constellation of Corruption & A Goldilocks Galaxy", URL: https://badlands.substack.com/p/badlands-news-brief-a40

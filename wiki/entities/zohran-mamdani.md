@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [new-york-city, mayor, icc, netanyahu, politics]
-sources: [raw/badlands-brief-245.md, raw/badlands-brief-a89.md, raw/badlands-brief-8db.md, raw/badlands-brief-e8d.md, raw/badlands-brief.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-817.md]
+sources: [raw/badlands-brief-245.md, raw/badlands-brief-a89.md, raw/badlands-brief-8db.md, raw/badlands-brief-e8d.md, raw/badlands-brief.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-a31.md]
 confidence: medium
 ---
 
@@ -98,6 +98,10 @@ In an interview aired Tuesday, November 11, 2025, Mamdani said he intended to ho
 
 [[ashe-in-america|Ashe in America]] wrote that Mamdani would be terrible for New Yorkers but declined to blame voters "because elections are fake," arguing that if he governs the city as a Democratic Socialist he should improve national Republican midterm prospects — an outcome that likewise could not be credited to voters.[13] The underlying point was that without verifiably accurate elections no outcome can be trusted, a condition the commentary likened to a narrative return to the 1860s, closing with "Mammany Hall: Accelerate."[13]
 
+## New York Post opposition (August 2025)
+
+In an August 7, 2025 editorial urging President [[donald-trump|Donald Trump]] to endorse Mayor [[eric-adams|Eric Adams]] for re-election, the [[new-york-post|New York Post]] editorial board described Mamdani as a socialist and "defund the police" activist who would reverse the city's public-safety gains.[14] The board argued he would hobble the [[new-york-city-police-department|NYPD]], drive away businesses and make the streets unsafe, concluding that "Mamdani must be stopped."[14] The editorial cited the lowest number of shootings on record for the first half of 2025 as progress it said was at risk.[14]
+
 ## References
 
 1. Badlands Brief — "Trump Roasts The Press; Teases 2028 Run", URL: https://badlands.substack.com/p/badlands-brief-245
@@ -113,3 +117,4 @@ In an interview aired Tuesday, November 11, 2025, Mamdani said he intended to ho
 11. Badlands Brief — "Badlands News Brief: Victim Cards, Foreign Inference, & Chessboard Stans", URL: https://badlands.substack.com/p/badlands-news-brief-448
 12. Badlands Brief — "Fusion Mergers & Fusion-Adjacent Murders", URL: https://badlands.substack.com/p/badlands-news-brief-60c
 13. Badlands Brief — "Badlands News Brief: MAGA Cracks, Fund Funnels, & Devilish Bees", URL: https://badlands.substack.com/p/badlands-news-brief-817
+14. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31

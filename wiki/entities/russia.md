@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, syria, ukraine, geopolitics]
-sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-143.md, raw/badlands-brief-169.md, raw/badlands-brief-5a2.md, raw/badlands-brief-70c.md, raw/badlands-brief-708.md, raw/badlands-brief-bb1.md, raw/badlands-brief-e87.md, raw/badlands-brief-f62.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-914.md]
+sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-143.md, raw/badlands-brief-169.md, raw/badlands-brief-5a2.md, raw/badlands-brief-70c.md, raw/badlands-brief-708.md, raw/badlands-brief-bb1.md, raw/badlands-brief-e87.md, raw/badlands-brief-f62.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-a38.md]
 confidence: medium
 ---
 
@@ -99,6 +99,10 @@ In late October 2024, reporting relayed by ReMix News described Russia as experi
 
 As many Western companies left the country or suspended operations following the invasion of Ukraine, they were rapidly replaced by domestic equivalents — Stars Coffee in place of Starbucks, Maag in place of Zara, and Dobry Cola in place of Coca-Cola.[16] Dobry reported in April that its 2023 earnings were quadruple its 2022 profits.[16]
 
+## April 2024 strikes on Ukraine's energy grid
+
+On April 11, 2024, Russia launched a major missile and suicide-drone offensive against [[ukraine|Ukraine]]'s power grid and underground natural gas storage sites.[17] Bloomberg reported that Russia air-launched six hypersonic Kinzhal missiles at critical infrastructure near Kyiv and around Lviv, none of which Ukrainian air defenses intercepted; of 42 slower conventional missiles, 18 were downed, and only one of 40 drones.[17] Energy Minister [[german-galushchenko|German Galushchenko]] said power plants near Kyiv and in the Kharkiv, Zaporizhzhia and Lviv regions were damaged, and President [[volodymyr-zelensky|Volodymyr Zelensky]] reported damage to a plant in Odesa; six missiles struck the [[trypilska-power-plant|Trypilska plant]] south of Kyiv, the largest in the region.[17] Badlands commentary argued that [[vladimir-putin|Vladimir Putin]] was deliberately targeting critical infrastructure to force Ukraine to the negotiating table, and that the penetration of U.S. and [[nato|NATO]]-supplied defenses by hypersonic weapons should alarm [[israel|Israel]] given [[iran|Iran]]'s similar capabilities.[17]
+
 ## References
 1. Badlands Brief — "Assad Day in Damascus", URL: https://badlands.substack.com/p/assad-day-in-damascus
 2. Badlands Brief — "All the Classic Earmarks of Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-143
@@ -116,3 +120,4 @@ As many Western companies left the country or suspended operations following the
 14. Badlands Brief — "Brennan Decries Judge Shopping & JD Says It's Okay to Be White!", URL: https://badlands.substack.com/p/badlands-news-brief-795
 15. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
 16. Badlands Brief — "Badlands News Brief: Trump Tours, Bannon Breaks Out & Israel Hesitates", URL: https://badlands.substack.com/p/badlands-news-brief-914
+17. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38

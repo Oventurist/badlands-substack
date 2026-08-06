@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [mar-a-lago, classified-documents, doj, trump]
-sources: [raw/badlands-news-brief-208.md]
+sources: [raw/badlands-news-brief-208.md, raw/badlands-news-brief-948.md]
 confidence: medium
 ---
 
@@ -20,6 +20,11 @@ In a superseding indictment filed on Thursday, July 27, 2023, the Justice Depart
 
 The [[badlands-news-brief|Badlands News Brief]] of July 28, 2023 covered the superseding indictment under the heading "The Walls Are Closing in ... Or So We're Told," treating the new charges as part of a recurring media narrative cycle rather than a decisive legal turn.[1] [[burning-bright|Burning Bright]] wrote that the [[truth-community|Truth Community]] greeted each new indictment with anticipation rather than alarm, interpreting the prosecutions through the lens of [[devolution|devolution]] and an ongoing disclosure operation.[1]
 
+## December 2023 unsealing (co-defendant)
+
+Nauta, [[donald-trump|Donald Trump]]'s longtime aide, was named a co-defendant in the [[trump-classified-documents-case|classified documents case]] alongside Mar-a-Lago property manager [[carlos-de-oliveira|Carlos De Oliveira]]; both pleaded not guilty.[2] Judge [[aileen-cannon|Aileen Cannon]]'s December 4, 2023 order unsealing docket entries 223, 224 and 230 — over the objection of special counsel [[jack-smith|Jack Smith]] — was characterized as a win of sorts for the co-defendants amid litigation over what classified materials they could view.[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... Or So We're Told", URL: https://badlands.substack.com/p/badlands-news-brief-208
+2. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948

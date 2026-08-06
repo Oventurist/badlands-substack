@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, host, podcast, narrative-warfare]
-sources: [raw/badlands-media-show-schedule-c28.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-blast.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-6b6.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-8f4.md]
+sources: [raw/badlands-media-show-schedule-c28.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-blast.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-6b6.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-948.md]
 confidence: medium
 ---
 
@@ -89,6 +89,10 @@ Just Human provided the Badlands commentary on the March 7, 2023 [[new-york-time
 
 Among the details he flagged were that no Americans or Britons were involved, that state-actor involvement was unconfirmed, that the explosives were planted without help from a military or intelligence agency though the perpetrators may have "received specialized government training in the past," that Ukrainian involvement "could upset the delicate relationship between Ukraine and Germany," and that officials had "limited visibility into Ukrainian decision-making."[17] Turning to the parallel [[zeit-online|Zeit Online]] investigation, he observed that the German account offered "VERY specific details" — the vessel, its rental, the departure point and timing, and explosive residue left on a cabin table — while conceding it could be false.[17] His conclusion was that overlaying the Hersh story, the Times report, the Zeit Online piece and OSINT material with sound deduction would bring readers closer to the truth, forming what he described, invoking [[burning-bright|Burning Bright]]'s phrasing, as "a constellation of facts, information and possibilities."[17]
 
+## Biden-family roundup (December 2023)
+
+In the December 7, 2023 Badlands News Brief, Just Human summarized a week of Biden-family developments: [[james-biden|James Biden]] failed to appear for an interview with the [[biden-impeachment-inquiry|House impeachment inquiry]] panel; [[hunter-biden|Hunter Biden]] sought to avoid a closed-door transcribed deposition demanded by House investigators; the [[house-ways-and-means-committee|House Ways and Means Committee]] again interviewed IRS whistleblowers; special counsel [[david-weiss|David Weiss]] argued that Hunter should not be allowed to subpoena documents from Trump, Barr, Rosen and Donoghue; and newly released emails were said to show [[joe-biden|Joe Biden]] using aliases to contact Hunter's business partners.[18]
+
 ## References
 1. Badlands Media — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-c28
 2. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-e18
@@ -107,3 +111,4 @@ Among the details he flagged were that no Americans or Britons were involved, th
 15. Badlands Brief — "The Wall Are Closing in Again! (And Other Stories)", URL: https://badlands.substack.com/p/badlands-news-brief-7ad
 16. Badlands Brief — "Badlands News Brief: Putin Postures, Voting Matters & J6 Subpoenas", URL: https://badlands.substack.com/p/badlands-news-brief-8c5
 17. Badlands Brief — "Badlands News Brief: January 6 and Nord Stream Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-8f4
+18. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948

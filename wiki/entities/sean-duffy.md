@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [transportation, trump-administration, faa, drones]
-sources: [raw/badlands-brief-405.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-6e5.md]
+sources: [raw/badlands-brief-405.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-97e.md]
 confidence: medium
 ---
 
@@ -26,8 +26,18 @@ As Transportation Secretary, Duffy led a federal crackdown on [[commercial-drive
 
 As Transportation Secretary, Duffy responded to President [[donald-trump|Donald Trump]]'s suggestion that federal funding for the [[francis-scott-key-bridge-collapse|Francis Scott Key Bridge]] rebuild might be reconsidered by saying he was concerned about the federal government covering all of the bridge's rebuilding costs.[3] He explained the concern with an analogy: "if you go to dinner and someone else is buying, you might order the finest, most expensive steak on the menu."[3] The remarks came as estimates for the Baltimore rebuild rose above $5 billion.[3]
 
+## Nomination as Transportation Secretary (2024)
+
+On November 18, 2024, President-elect [[donald-trump|Donald Trump]] announced Duffy, a former congressman and recent Fox Business co-host, as his choice to lead the Department of Transportation.[4] Duffy had served in the U.S. House from 2011 to 2019 representing Wisconsin's 7th Congressional District, and most recently co-hosted Fox Business's "The Bottom Line" after joining Fox News as a contributor in 2020; his last day as a Fox News employee was the Monday of the announcement.[4] Trump praised him as a "tremendous and well-liked public servant" and "a respected voice and communicator in the Republican Conference," saying he would prioritize "Excellence, Competence, Competitiveness and Beauty" in rebuilding highways, tunnels, bridges and airports, ensure ports and dams served the economy without compromising national security, and "make our skies safe again by eliminating DEI for pilots and air traffic controllers."[4]
+
+## Cited on inherited conditions (2025)
+
+Treasury Secretary [[scott-bessent|Scott Bessent]] compared the [[moodys|Moody's]] downgrade of U.S. credit to Duffy's remarks about the air traffic control system, arguing that in both cases "we didn't get here in the past 100 days" and attributing the deterioration to the preceding four years of spending.[5]
 
 ## References
+
 1. Badlands Brief — "Agencies Aflutter, Corporate Compacts & Discombobulated Drones", URL: https://badlands.substack.com/p/badlands-brief-405
 2. Badlands News Brief — "Pedish Patricide, ISIS-Inspired Disarmament, & Trump's Love Language", URL: https://badlands.substack.com/p/badlands-news-brief-143
 3. Badlands Brief — "Badlands News Brief: Manhunts, Mental Health, & the Mother of a Monster", URL: https://badlands.substack.com/p/badlands-news-brief-6e5
+4. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6
+5. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [technology, ai, big-tech, badlands-news-brief]
-sources: [raw/badlands-news-brief-001.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-880.md]
+sources: [raw/badlands-news-brief-001.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-880.md, raw/badlands-news-brief-a29.md]
 confidence: medium
 ---
 
@@ -66,6 +66,10 @@ In September 2025, Republicans on the [[house-judiciary-committee|House Judiciar
 
 Badlands commentary was skeptical that reinstatement was sufficient. [[chris-paul|Chris Paul]] disputed the framing that the censorship was done to help Democrats, arguing instead that it was done to help the "Uniparty election system" survive, and asked how a war could be won without properly identifying the enemy.[11] [[zak-paine|Zak Paine]] observed that the limited amnesty did not cover accounts deleted late in the first Trump administration for covering the Hunter Biden laptop story — accounts he said were directly targeted by Media Matters for America and terminated under pretextual non-political "violations" that conveniently fall outside the scope of the remedy.[11]
 
+## Gemini image bias controversy (February 2024)
+
+In February 2024 Google faced sustained criticism after its [[google-gemini|Gemini]] AI image generator was documented producing historically inaccurate "diverse" outputs, including black Vikings, and appearing to exclude white people from image results.[12] [[jack-krawczyk|Jack Krawczyk]], Senior Director of Product Management for Gemini Experiences, told Fox News Digital the company was "working to improve these kinds of depictions immediately," conceding the product was "missing the mark here" while defending the broader goal of generating "a wide range of people."[12] Critics questioned whether the statement amounted to an apology at all, and treated the episode as evidence of ideological bias deliberately encoded into Google's consumer AI products.[12]
+
 ## References
 1. Badlands Media — "Badlands News Brief: FOX Guarding the Hen House?", URL: https://badlands.substack.com/p/badlands-news-brief-001
 2. Badlands News Brief — "Trump Doubles Down as Kamala Crumbles", URL: https://badlands.substack.com/p/badlands-news-brief-020
@@ -78,3 +82,4 @@ Badlands commentary was skeptical that reinstatement was sufficient. [[chris-pau
 9. Badlands Brief — "Hacks Explain Hacks to other Hacks", URL: https://badlands.substack.com/p/badlands-news-brief-6aa
 10. Badlands Brief — "Badlands News Brief: Musical Fed Chairs, Salvadoran Chess, & Cocktails in the Clink", URL: https://badlands.substack.com/p/badlands-news-brief-80e
 11. Badlands Brief — "Lawfare Losers & Azov-Adjacent Suicide Attempts", URL: https://badlands.substack.com/p/badlands-news-brief-880
+12. Badlands Brief — "Badlands News Brief: Deadline Deals and Crime Families", URL: https://badlands.substack.com/p/badlands-news-brief-a29

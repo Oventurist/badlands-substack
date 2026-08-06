@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [mar-a-lago, classified-documents, doj, trump]
-sources: [raw/badlands-news-brief-208.md]
+sources: [raw/badlands-news-brief-208.md, raw/badlands-news-brief-948.md]
 confidence: medium
 ---
 
@@ -22,6 +22,11 @@ De Oliveira's inclusion marked the first time a Mar-a-Lago facilities employee, 
 
 [[badlands-media|Badlands Media]] commentary on the superseding indictment, published in the [[badlands-news-brief|Badlands News Brief]] of July 28, 2023, focused less on the individual defendants than on the framing of the prosecution as another installment of "walls are closing in" media rhetoric.[1] Writing for Badlands, [[burning-bright|Burning Bright]] argued that the escalating indictments were being absorbed by the [[truth-community|Truth Community]] as evidence of a broader disclosure campaign rather than as a legal threat.[1]
 
+## December 2023 unsealing (co-defendant)
+
+De Oliveira, the [[mar-a-lago|Mar-a-Lago]] property manager, is a co-defendant with [[walt-nauta|Walt Nauta]] in the [[trump-classified-documents-case|classified documents case]] against [[donald-trump|Donald Trump]] and has pleaded not guilty.[2] On December 4, 2023 Judge [[aileen-cannon|Aileen Cannon]] denied special counsel [[jack-smith|Jack Smith]]'s bid to keep several filings sealed and ordered docket entries 223, 224 and 230 unsealed, a decision reported as favorable to the co-defendants in the dispute over access to classified material.[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... Or So We're Told", URL: https://badlands.substack.com/p/badlands-news-brief-208
+2. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948

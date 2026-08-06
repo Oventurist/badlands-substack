@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [journalism, npr, media-bias, resignation]
-sources: [raw/badlands-news-brief-0cd.md]
+sources: [raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-a57.md]
 confidence: medium
 ---
 
@@ -24,5 +24,10 @@ Berliner resigned on April 17, 2024, citing the response of the network's chief 
 
 Commentary in [[badlands-news-brief|Badlands News Brief]] praised Berliner for resigning and argued that NPR and allied outlets had deliberately made the story about Berliner's criticism of his employer in order to avoid addressing the substance of his article, which the commentary described as "damning and objectively true."[1] A second contributor laid out the sequence as a timeline: a veteran journalist criticized the state of mainstream media including his own outlet; the outlet responded to accusations of political bias, censorship, and social engineering by suspending him, thereby proving his point; and the outlet's CEO then went viral for remarks on the First Amendment and on truth.[1] That commentary characterized the episode as part of a "controlled demolition" of the Media Industrial Complex rather than an accidental cascade of exposure.[1]
 
+## Resignation and legislative fallout (April 2024)
+
+Berliner, an editor at [[npr|NPR]], published a piece alleging that the outlet had deep political bias and that its Washington, D.C. bureau employed 87 registered Democrats and zero registered Republicans; he resigned after NPR suspended him over the essay.[2] The episode fed directly into Republican Indiana Representative [[jim-banks|Jim Banks]]'s introduction of the [[defund-npr-act|Defund NPR Act]] on April 19, 2024, and into renewed scrutiny of NPR CEO [[katherine-maher|Katherine Maher]].[2]
+
 ## References
 1. Badlands Media — "Badlands News Brief: Based Bodegas, Limp Sanctions & Scared Bankers", URL: https://badlands.substack.com/p/badlands-news-brief-0cd
+2. Badlands Brief — "Badlands News Brief: The Uniparty Celebrates as Warmongers Grow Desperate", URL: https://badlands.substack.com/p/badlands-news-brief-a57

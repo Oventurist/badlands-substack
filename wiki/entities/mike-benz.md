@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [foreign-policy, censorship, commentary]
-sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-cfa.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-71c.md]
+sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-cfa.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-9c6.md]
 confidence: low
 ---
 
@@ -36,10 +36,16 @@ As executive director of the [[foundation-for-freedom-online|Foundation for Free
 
 In February 2025, Benz posted on X that audiences had been "living your whole [life] in a carefully constructed USAID Truman Show, where none of the institutions you meet – from the media, to public health, to universities, to NGOs, to terrorists – are the institutions you think you are."[6] [[elon-musk|Elon Musk]] quoted the post, adding, "It's More Than Just USAID, but … yes."[6] The exchange circulated as the second Trump administration moved to dismantle the [[usaid|U.S. Agency for International Development]], and Badlands contributor [[chris-paul|Chris Paul]] noted that the claim had been dismissed as conspiracy theory only weeks earlier.[6]
 
+## NewsGuard and the Deitz Nuutzen Hoax (2024)
+
+Benz spent months in 2024 publicizing the activities of [[newsguard|NewsGuard]] on X, an effort Badlands writers credited when incoming [[federal-communications-commission|FCC]] chairman [[brendan-carr|Brendan Carr]] made the firm a target of his "censorship cartel" inquiry in November 2024.[7] Benz also briefly fell for a viral hoax claiming that a 1721 painting by "Deitz Nuützen" had predicted a photograph of [[donald-trump|Donald Trump]], [[elon-musk|Elon Musk]] and [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] eating McDonald's, before pointing out that the purported artist's name was a rendering of the "deez nuts" joke.[7]
+
 ## References
+
 1. Badlands Brief — "Assad Day in Damascus", URL: https://badlands.substack.com/p/assad-day-in-damascus
 2. Badlands Brief — "Cartel & Comey Indictments Plus War Ripples & Election Fraud", URL: https://badlands.substack.com/p/badlands-brief-cfa
 3. Badlands Media — "Badlands News Brief: Irregular Warfare, Washington & So Much Winning", URL: https://badlands.substack.com/p/badlands-news-brief-18e
 4. Badlands Brief — "Badlands News Brief: Bengaluru Raids, Bitcoin Bangers, & A Buddhist Execution", URL: https://badlands.substack.com/p/badlands-news-brief-2dc
 5.  Badlands Media — "Badlands News Brief: Biden Crime Cascade, Woke Collapse & Establishment Panic", URL: https://badlands.substack.com/p/badlands-news-brief-617
 6. Badlands News Brief — "Strategy & Micro Protests", URL: https://badlands.substack.com/p/badlands-news-brief-71c
+7. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6

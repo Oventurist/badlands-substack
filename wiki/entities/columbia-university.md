@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [education, protests, israel-hamas-war, campus-activism]
-sources: [raw/badlands-news-brief-08a.md, raw/badlands-news-brief-0d4.md]
+sources: [raw/badlands-news-brief-08a.md, raw/badlands-news-brief-0d4.md, raw/badlands-news-brief-a72.md]
 confidence: medium
 ---
 
@@ -28,6 +28,11 @@ Reports also circulated that a rabbi associated with Columbia had messaged 300 J
 
 Badlands Media contributor [[burning-bright|Burning Bright]] framed the Columbia protests as part of an "Ouroboros pattern consuming college campuses," arguing that demonstrations originally framed as pro-Palestinian had shifted in a "subtle, meaningful way" into anti-Israel activism, and that establishment narrative-setters were losing control of a movement they had cultivated during the first [[donald-trump|Trump]] administration.[1]
 
+## Federal funding pause as template for Harvard
+
+Columbia had $400 million in federal funding paused by the Trump administration and had yet to see it restored despite agreeing to all of the administration's stated demands, a precedent invoked when the administration announced on March 31, 2025 that it would review federal contracts with [[harvard-university|Harvard University]] as part of the work of the [[joint-task-force-to-combat-anti-semitism|Joint Task Force to Combat Anti-Semitism]].[3]
+
 ## References
 1. Badlands News Brief — "The Communist Ouroboros Accelerates", raw/badlands-news-brief-08a.md
 2. Badlands Brief — "Badlands News Brief: Kangaroo Courts and Administrative Pedophiles", URL: https://badlands.substack.com/p/badlands-news-brief-0d4
+3. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72

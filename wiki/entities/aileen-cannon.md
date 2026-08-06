@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [judiciary, federal-courts, florida, trump]
-sources: [raw/badlands-brief-abf.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-365.md, raw/badlands-news-brief-6bc.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-855.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-9ae.md]
+sources: [raw/badlands-brief-abf.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-365.md, raw/badlands-news-brief-6bc.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-855.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-ac7.md]
 confidence: medium
 ---
 
@@ -73,6 +73,18 @@ On January 16, 2024, [[donald-trump|Donald Trump]]'s legal team filed a motion a
 
 On Thursday, March 7, 2024, Cannon accepted two amicus briefs — filed by the [[america-first-legal|America First Legal Foundation]] and by former President Ronald Reagan's Attorney General [[edwin-meese-iii|Edwin Meese]] — arguing that the federal classified documents case against [[donald-trump|Donald Trump]], in which he pleaded not guilty to 40 charges, should be thrown out.[12] Amicus briefs are submitted by people not directly involved in a case who wish to offer their view on the issues at stake.[12] In her filings Cannon wrote that the arguments "may be of considerable help" to her, a phrase that prompted legal experts to debate whether she was leaning toward dismissing the case.[12] Newsweek noted that Cannon, who was nominated to the bench by Trump, had been criticized for multiple rulings that favored the former president in the documents matter.[12]
 
+## Unsealing order (December 2023)
+
+In an order signed on December 4, 2023, Judge Cannon denied special counsel [[jack-smith|Jack Smith]]'s request to keep certain documents hidden from [[donald-trump|Donald Trump]]'s defense in the [[trump-classified-documents-case|classified documents case]], directing a court clerk to unseal multiple docket entries.[13] "In light of the Special Counsel's Response to Defendants Motion to Unseal 230, and mindful of the strong presumption in favor of public access to judicial documents, the Clerk is directed to unseal docket entries 223, 224, and 230," the order read.[13] The ruling came amid litigation between prosecutors and the defense over what portion of classified materials the defendants could view, and was described as a win of sorts for co-defendants [[walt-nauta|Walt Nauta]] and [[carlos-de-oliveira|Carlos De Oliveira]].[13]
+
+## Rejection of the Presidential Records Act motion (April 2024)
+
+On April 4, 2024, Cannon rejected [[donald-trump|Donald Trump]]'s bid to dismiss the Florida classified documents case on the basis of the [[presidential-records-act|Presidential Records Act]].[14] Trump's legal team returned on May 2, 2024 with a fresh motion to dismiss the indictment, this time arguing "selective and vindictive prosecution" and citing special counsel [[robert-hur|Robert Hur]]'s February 2024 report on the absence of precedent for prosecuting a former president over documents from his own administration.[14]
+
+## June 2023 trial scheduling
+
+Cannon had set a tentative August 14, 2023 start date for the [[2023-trump-classified-documents-indictment|classified documents trial]], prompting special counsel [[jack-smith|Jack Smith]] to file motions late on Friday, June 23, 2023 asking her to push the trial to December.[15] Smith's team told the court that pretrial proceedings, including securing the necessary clearances for defense counsel to review discovery materials, would realistically take more time than the schedule she had proposed earlier that week.[15]
+
 ## References
 
 1. Badlands Brief — "Long-Term Legal Remedies & A Reboot of Russian Relations", URL: https://badlands.substack.com/p/badlands-brief-abf
@@ -87,3 +99,6 @@ On Thursday, March 7, 2024, Cannon accepted two amicus briefs — filed by the [
 10. Badlands Brief — "Panic in DC ... And Israel ... Pretty Much Everywhere, Actually", URL: https://badlands.substack.com/p/badlands-news-brief-855
 11. Badlands Brief — "Badlands News Brief: The Trump Train Rolls on ... Fake MAGA Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-89f
 12. Badlands Brief — "Badlands News Brief: Will the One True POTUS Please Stand Up?", URL: https://badlands.substack.com/p/badlands-news-brief-9ae
+13. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
+14. Badlands Brief — "Very Fine Marxists and Chinese Finger Traps", URL: https://badlands.substack.com/p/badlands-news-brief-a46
+15. Badlands Brief — "Whose Coup Is It Anyway? ... And Other Questions", URL: https://badlands.substack.com/p/badlands-news-brief-ac7

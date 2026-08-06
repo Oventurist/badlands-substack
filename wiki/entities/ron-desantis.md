@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [politician, florida, republican, free-speech]
-sources: [raw/a-glaring-double-standard.md, raw/all-assets-deployed.md, raw/badlands-brief-095.md, raw/badlands-brief-4ec.md, raw/badlands-brief-861.md, raw/badlands-news-brief-054.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-47a.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-592.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-79c.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-959.md]
+sources: [raw/a-glaring-double-standard.md, raw/all-assets-deployed.md, raw/badlands-brief-095.md, raw/badlands-brief-4ec.md, raw/badlands-brief-861.md, raw/badlands-news-brief-054.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-47a.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-592.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-79c.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-a56.md, raw/badlands-news-brief-ae3.md]
 confidence: medium
 ---
 
@@ -188,6 +188,14 @@ Writing in [[badlands-media|Badlands Media]], [[ghostofbasedpatrickhenry|Ghostof
 
 The commentary went on to propose using the fundraising story as an offensive information operation — seeding among anti-Trump DeSantis supporters the notion that DeSantis had been working for Trump all along in order to expose disloyal media figures such as John Cardillo and [[jenna-ellis|Jenna Ellis]], invoking the teachings of [[boone-cutler|Boone Cutler]] and [[michael-flynn|General Michael Flynn]] about active participation in the battlespace.[30]
 
+## Florida neo-Nazi march commentary (September 2023)
+
+After a [[blood-tribe|Blood Tribe]] neo-Nazi demonstration in Florida in September 2023, [[badlands-media|Badlands Media]] writer [[ryan-delarme|Ryan DeLarme]] mocked progressive commentators who, in his account, sincerely believed the marchers were personal friends of DeSantis preparing a long-planned purge of nonwhites, calling the belief a product of "comic book minds" clinging to a cartoonish narrative.[31]
+
+## Loss of his largest donor
+
+In November 2023, [[robert-bigelow|Robert Bigelow]] — the Nevada real estate investor who had given more than $20 million to the DeSantis campaign, the largest donation to any 2024 candidate in federal filings at the time — said he was considering switching his support to [[donald-trump|Donald Trump]], a sharp rebuke of the Florida governor’s White House aspirations.[32] Bigelow criticized DeSantis for running a weak campaign and argued that Hamas’s attack on Israel showed the United States needed a "streetwise" leader, predicting Trump would win the primary provided he stayed out of jail: "I think Trump is too strong. I think Trump has the momentum, the inertia, to beat him."[32] He described Trump as a "bull" and DeSantis as "dinner."[32]
+
 ## References
 1. Badlands Brief — "A Glaring Double Standard", URL: https://badlands.substack.com/p/a-glaring-double-standard
 2. Badlands Brief — "All Assets Deployed", URL: https://badlands.substack.com/p/all-assets-deployed
@@ -219,3 +227,5 @@ The commentary went on to propose using the fundraising story as an offensive in
 28. Badlands Brief — "Brennan Decries Judge Shopping & JD Says It's Okay to Be White!", URL: https://badlands.substack.com/p/badlands-news-brief-795
 29. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
 30. Badlands Brief — "Badlands News Brief — Fearmongering and Capitulation Rule the News Cycle", URL: https://badlands.substack.com/p/badlands-news-brief-959
+31. Badlands Brief — "Badlands News Brief: Corruption Probes, Client Lists & Mud Pits", URL: https://badlands.substack.com/p/badlands-news-brief-a56
+32. Badlands Brief — "Badlands News Brief: Debates, Rallies ... and Deep State Implosions", URL: https://badlands.substack.com/p/badlands-news-brief-ae3

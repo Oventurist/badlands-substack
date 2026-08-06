@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [atf, law-enforcement, firearms, ohio, doj]
-sources: [raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-275.md]
+sources: [raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-275.md, raw/badlands-news-brief-a31.md]
 confidence: medium
 ---
 
@@ -28,6 +28,11 @@ In January 2023 the ATF issued a rule reclassifying pistols fitted with stabiliz
 
 The [[us-house-of-representatives|House]] voted 219–210 on June 13, 2023 to repeal the rule under a resolution sponsored by Rep. [[andrew-clyde|Andrew Clyde]].[2] Critics in the independent media, including [[ashe-in-america|Ashe in America]], argued the rule burdened disabled veterans and other lawful users who rely on braces for accuracy and recoil control while doing little to affect the small number of mass shooters it targeted.[2]
 
+## DC patrol surge (August 2025)
+
+ATF agents were among the federal personnel assigned to the seven-day patrol of Washington, D.C. announced by the [[white-house|White House]] on August 7, 2025 and led by the [[united-states-park-police|U.S. Park Police]], alongside the [[fbi|FBI]], the [[drug-enforcement-administration|DEA]] and divisions of [[immigration-and-customs-enforcement|Immigration and Customs Enforcement]].[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: International Antifa, Hezbollah Strongholds, & Nuclear Options", URL: https://badlands.substack.com/p/badlands-news-brief-1c3
 2. Badlands Brief — "Badlands News Brief: Tucker's Tour de Force, Trump Besieged & More", URL: https://badlands.substack.com/p/badlands-news-brief-275
+3. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31

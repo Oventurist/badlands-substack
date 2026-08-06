@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [clinton, donations, uranium, disclosure, corruption]
-sources: [raw/america-for-sale-part-3.md, raw/america-for-sale-part-2.md, raw/bad-actors.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-38a.md]
+sources: [raw/america-for-sale-part-3.md, raw/america-for-sale-part-2.md, raw/bad-actors.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-a15.md]
 confidence: medium
 ---
 
@@ -56,6 +56,10 @@ On the Devolution Power Hour, [[jon-herold|Jon Herold]] and [[burning-bright|Bur
 
 The [[durham-report|Durham Report]] released in May 2023 disclosed that the [[fbi|FBI]] had opened three concurrent investigations into the Clinton Foundation, all of which were shut down by senior bureau leadership during the 2016 election year.[6] Coverage of the disclosure recalled that the foundation had taken in millions of dollars in foreign donations while [[hillary-clinton|Hillary Clinton]] was widely expected to win the 2016 U.S. election, only for donations to plummet by roughly 90 percent after her defeat.[6] Attorney and commentator [[techno-fog|Techno Fog]] wrote that Durham's mandate encompassed FBI investigations "directed" at the Clinton campaign, apparently so that the favorable treatment Clinton received could be compared with the targeting of [[donald-trump|Donald Trump]].[6] Reported particulars included a confidential human source's warning that a foreign government was sending a person to contribute to Clinton's anticipated campaign to gain influence with her, a [[foreign-intelligence-surveillance-act|FISA]] request that headquarters ignored for four months because Clinton was "involved," and a $2,700 donation made by the source on behalf of a foreign insider in violation of the federal ban on foreign-national contributions.[6]
 
+## Association with Haiti in public memory
+
+Commenting on the March 2024 collapse of order in Haiti and the deployment of US Marines to protect the American embassy, Badlands writer Burning Bright argued that the chaos had been seeded during the Clinton, Bush and especially Obama administrations, and observed that "the Clinton Foundation is firmly entrenched in the Collective Mind re: Haiti."[7] He framed the episode as a convergence of actual events and narrative, closing with the question "Is it 2024 ... or 2017?"[7]
+
 ## References
 1. Badlands Brief — "America for Sale - Part 3", URL: https://badlands.substack.com/p/america-for-sale-part-3
 2. Badlands Brief — "America for Sale - Part 2", URL: https://badlands.substack.com/p/america-for-sale-part-2
@@ -63,3 +67,4 @@ The [[durham-report|Durham Report]] released in May 2023 disclosed that the [[fb
 4. Badlands News Brief — "Pedish Patricide, ISIS-Inspired Disarmament, & Trump's Love Language", URL: https://badlands.substack.com/p/badlands-news-brief-143
 5. Badlands Brief — "Cartels, Crucibles, & Convictions", URL: https://badlands.substack.com/p/badlands-news-brief-144
 6. Badlands News Brief — "FBI Corruption, Kayfabe & Russia, Russia, Russia!", URL: https://badlands.substack.com/p/badlands-news-brief-38a
+7. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15

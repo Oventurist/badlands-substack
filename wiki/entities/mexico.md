@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [mexico, cartels, north-america, security]
-sources: [raw/badlands-brief-285.md, raw/badlands-brief-7bf.md, raw/badlands-news-brief-158.md]
+sources: [raw/badlands-brief-285.md, raw/badlands-brief-7bf.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-a65.md]
 confidence: medium
 ---
 
@@ -44,7 +44,14 @@ international law," announcing the end of the relationship on Friday
 evening.[3] Mexico had granted Glas political asylum earlier that day, a
 decision Ecuador considered illegal.[3]
 
+## Cartel extraditions under tariff pressure (February 2025)
+
+In late February 2025, Mexico began extraditing dozens of high-level cartel leaders and members to the United States, among them [[rafael-caro-quintero|Rafael Caro Quintero]], a former leader of the Guadalajara cartel involved in the 1985 kidnapping and murder of [[drug-enforcement-administration|DEA]] agent Enrique "Kiki" Camarena, and the founders of [[los-zetas|Los Zetas]], Miguel and Omar Morales, known as Z-40 and Z-42.[4] Mexico's Attorney General's Office and Secretariat of Security and Citizen Protection said that 29 people held in different penitentiary centers had been transferred to the United States because of their links to criminal organizations involved in drug trafficking and other crimes, with custody, transfer and delivery carried out under institutional protocols and with respect for fundamental rights, in accordance with the Mexican Constitution and the National Security Law and at the request of the U.S. [[department-of-justice|Department of Justice]].[4]
+
+The extraditions came as President [[donald-trump|Donald Trump]]'s tariff deadline loomed, with one of his demands being that Mexico crack down on cartels and on fentanyl production and distribution.[4] Badlands commentary summarized the sequence as Trump threatening tariffs over border security, Mexico protesting and then capitulating, Trump delaying tariffs, Mexico complaining that targeting cartels threatened its sovereignty, Trump resuming tariffs, and Mexico responding with the extraditions.[4]
+
 ## References
 1. Badlands Brief — "Tuckabee Unites The Arab World As Mexico Courts Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-285
 2. Badlands Brief — "Entertaining Obstruction & Artificial Shadow Wars", URL: https://badlands.substack.com/p/badlands-brief-7bf
 3. Badlands Brief — "Badlands News Brief: Middle Eastern Powder Kegs & Crisis Cascades Abound", URL: https://badlands.substack.com/p/badlands-news-brief-158
+4. Badlands Brief — "Badlands News Brief: Rug Pulled Reputations, Insubordination, & the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-a65

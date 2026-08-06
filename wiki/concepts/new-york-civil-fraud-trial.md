@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [lawfare, donald-trump, new-york, courts]
-sources: [raw/badlands-news-brief-023.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-2e8.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-845.md]
+sources: [raw/badlands-news-brief-023.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-2e8.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-aaf.md]
 confidence: high
 ---
 
@@ -62,6 +62,16 @@ In May 2024, the case generated a new controversy when New York real estate atto
 
 Following the $355 million judgment entered by Judge [[arthur-engoron|Arthur Engoron]], [[donald-trump|Donald Trump]] moved in February 2024 to challenge the judge's underlying definition of fraud.[9] Trump's principal lawyer in the case, [[chris-kise|Chris Kise]], told Newsweek that the matter "raises serious legal and constitutional questions regarding 'fraud' claims/findings without any actual fraud," and said the appeal's timing would depend on many factors but would fall within the court's 30-day clock.[9] Kise accused Attorney General [[letitia-james|Letitia James]] and Engoron of trying to run Trump out of New York, arguing that the campaign was bad for the city.[9]
 
+## Enforcement threats after the judgment
+
+On February 20, 2024, New York Attorney General [[letitia-james|Letitia James]] said she was prepared to seize [[donald-trump|Donald Trump]]'s buildings and assets if he could not pay the nearly $355 million penalty ordered by Justice [[arthur-engoron|Arthur Engoron]], who also barred him from doing business in the state for three years.[10] James told ABC News that Trump's ability to pay was "really not my business," and that if he lacked the funds the state would "seek, you know, judgment enforcement mechanisms in court, and we will ask the judge to seize his assets," pointedly noting that she looks at 40 Wall Street, the Trump Building, "each and every day."[10] Trump's attorneys vowed to appeal, describing the case as a "political witch hunt" and the verdict as "manifest injustice," and accused Engoron of judicial malpractice throughout the trial.[10]
+
+## Opening Day, October 2023
+
+The civil fraud trial opened in Manhattan on October 2, 2023, with Donald Trump personally attending the first day of proceedings that could determine the future of his business career.[11] Inside the courtroom, seated in a navy suit and light blue tie and surrounded by Secret Service agents posted on all sides of the room, Trump was a comparatively quiet presence, hunched at times and conferring with his lawyers while attorneys for the New York attorney general outlined their case; he sat directly facing Justice [[arthur-engoron|Arthur Engoron]] and offered only occasional scoffs and eye rolls.[11]
+
+Outside the courtroom, by contrast, Trump was combative, telling reporters during the lunch break that Engoron "should be out of office" and that "some people say" the judge "could be charged criminally for what he's doing," while branding the judge deranged and dismissing the suit as a witch hunt.[11] Badlands commentator [[burning-bright|Burning Bright]] read the performance as Trump deliberately communicating with multiple audiences at once, arguing that the "Greatest Witch Hunt" framing signals that Trump himself is the one now conducting the hunt, and that the Trump trials would set both legal and mass-psychological precedent for a coming justice phase of the exposure and disclosure campaign.[11]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Chaos in the Middle East Overshadows That at Home", URL: https://badlands.substack.com/p/badlands-news-brief-023
@@ -73,3 +83,5 @@ Following the $355 million judgment entered by Judge [[arthur-engoron|Arthur Eng
 7. Badlands Brief — "Badlands News Brief: Dali, Diddy & DJT", URL: https://badlands.substack.com/p/badlands-news-brief-491
 8. Badlands News Brief — "Biden Melts Down as Judges Are Themselves Judged", URL: https://badlands.substack.com/p/badlands-news-brief-5fb
 9. Badlands Brief — "Badlands News Brief: DemoCrabs in Biden's Bucket", URL: https://badlands.substack.com/p/badlands-news-brief-845
+10. Badlands Brief — "Badlands News Brief: Deadline Deals and Crime Families", URL: https://badlands.substack.com/p/badlands-news-brief-a29
+11. Badlands Brief — "Badlands News Brief: Supreme Court Rumblings & Witch Hunts Galore", URL: https://badlands.substack.com/p/badlands-news-brief-aaf

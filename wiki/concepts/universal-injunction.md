@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [judiciary, lawfare, separation-of-powers, supreme-court]
-sources: [raw/badlands-news-brief-2d5.md]
+sources: [raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-a69.md]
 confidence: medium
 ---
 
@@ -24,5 +24,10 @@ Left-wing plaintiffs shopped hundreds of lawsuits to like-minded judges and secu
 
 [[ashe-in-america|Ashe in America]] argued that the injunctions are not merely traditionally anomalous but plainly unconstitutional, holding that a single district court judge does not have the power to impede the Commander in Chief and that nationwide injunctions exceed district court authority.[1] She framed the deeper stake as legitimacy: judicial authority depends on the people believing courts operate from a position of legitimate authority, and on the Executive faithfully following orders for the same reason.[1] If courts exceed their authority and operate in opposition to the will of the people, she wrote, those courts are illegitimate — and "for the weakest branch of government, illegitimacy is contagious."[1]
 
+## Trump v. CASA (2025)
+
+The Supreme Court addressed the practice directly in [[trump-v-casa|Trump v. CASA]], decided June 27, 2025, a case concerning the limits of district courts in issuing universal injunctions.[2] The decision moved to free the Trump administration from an onslaught of district court orders blocking the president in areas ranging from the downsizing of government to immigration, and was regarded as one of the biggest rulings of the term.[2] Badlands commentary characterized it as "a banging precedent, affirming lower court jurisdictional limitations," noting that federal courts derive their power from Congress.[2]
+
 ## References
 1. Badlands Media — "Badlands News Brief: Nuclear Negotiations, Ethics Probes, & American iPhones", URL: https://badlands.substack.com/p/badlands-news-brief-2d5
+2. Badlands News Brief — "Shadow Feds, Activist Courts, & Lasting Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a69

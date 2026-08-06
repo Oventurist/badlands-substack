@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [tariffs, trade, trump, china, markets]
-sources: [raw/badlands-news-brief-520.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-8cd.md]
+sources: [raw/badlands-news-brief-520.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-a0b.md]
 confidence: medium
 ---
 
@@ -66,7 +66,20 @@ The tariffs, effective April 5, introduced a 10% baseline tariff on nearly all i
 
 [[burning-bright|Burning Bright]] argued in his "Arc of the Peacemakers" framing that the episode reflects a "Reverse [[hegelian-dialectic|Hegelian Dialectic]]" hijacking the globalists' crisis cascades and turning illusions of endless war into exposures that cultivate a mass mandate for multipolarity, stability, prosperity and peace, as the [[sovereign-trinity|Sovereign Trinity]] of [[donald-trump|Trump]], Putin, Xi and an accelerating mesh around them dismantles the hegemon's grip without firing the shots the System requires to survive.[3] He contended that the term "Liberation Day" recurs not because it refers to each specific deployment but because it serves as a template mapping the continued unwinding of the Deep State's "Hegelian Terror Network" across the battlespace, at home and abroad simultaneously.[3]
 
+## Rose Garden announcement and rate schedule (April 2, 2025)
+
+Speaking in the [[white-house|White House]] Rose Garden against a backdrop of US flags on what he called "Liberation Day," [[donald-trump|President Donald Trump]] unveiled a raft of punishing tariffs targeting countries around the world, including some of America's closest trading partners, in a move reported as risking a ruinous trade war.[4] "For decades, our country has been looted, pillaged, raped and plundered by nations near and far, both friend and foe alike," Trump said, reserving the heaviest blows for what he called the "nations that treat us badly."[4] The announced rates included 34 percent on goods from China, 20 percent on the European Union, 24 percent on Japan, and 17 percent on Israeli products.[4]
+
+Badlands contributor [[gmoney|GMONEY]] explained the arithmetic behind the schedule: the tariff imposed on each nation was calculated by taking the current US trade deficit with that country and dividing the deficit by half, a method he called "actually quite brilliant."[4]
+
+## Israel and the intellectual property rationale
+
+Israel had sought to pre-empt the move; Finance Minister [[bezalel-smotrich|Bezalel Smotrich]] signed a directive on April 1, 2025 immediately scrapping all remaining Israeli tariffs on American imports — reported as a repeal of 33 percent tariffs — yet the United States still imposed a 17 percent reciprocal duty the following day.[4] Ahead of Trump's speech, an administration official told reporters that "Israel steals a lot of intellectual property from, for example, the pharmaceutical manufacturers in this country."[4]
+
+[[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] called the sequence "savage," noting that as far as he could tell Israel was the only country that dropped its tariffs and was still penalised, and argued that the pre-speech articulation of Israeli transgressions by an administration official demonstrated the decision was not an oversight or mistake but an intentional signal that, despite the slander against him, Trump "is nobody's puppet."[4]
+
 ## References
 1. Badlands News Brief — "Indian iPhones, A Sovereign Bromance, & Allegedly Real IDs", URL: https://badlands.substack.com/p/badlands-news-brief-520
 2. Badlands Brief — "Badlands News Brief: Orange Friday, Election Action, & McKinsey's Gives Advice", URL: https://badlands.substack.com/p/badlands-news-brief-71f
 3. Badlands Brief — "Badlands News Brief: Vigils, Vanguards, & Various Investigations", URL: https://badlands.substack.com/p/badlands-news-brief-8cd
+4. Badlands Brief — "Badlands News Brief: The Wolf of D.C. & A Portfolio of Highly Organized Crime", URL: https://badlands.substack.com/p/badlands-news-brief-a0b

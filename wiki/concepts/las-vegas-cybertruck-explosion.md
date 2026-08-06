@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [terrorism, las-vegas, tesla, cybertruck, trump-hotel, 2025]
-sources: [raw/badlands-news-brief-12c.md]
+sources: [raw/badlands-news-brief-12c.md, raw/badlands-news-brief-9cd.md]
 confidence: medium
 ---
 
@@ -24,5 +24,12 @@ Sheriff Kevin McMahill of the Las Vegas Metropolitan Police Department said at a
 
 Writing in the Badlands News Brief, Ashe in America summarized the casualty count and the containment claim, and relayed Patrick Gunnels' argument on the Devolution Power Hour (episode 315) that the only reason to use a Cybertruck in a terrorist attack was to send a message to [[donald-trump|Donald Trump]] and Elon Musk.[1] Jon Herold added that more terror events were likely before Inauguration Day.[1]
 
+## Driver and stated motive
+
+Law enforcement officials identified the driver as [[matthew-alan-livelsberger|Matthew Alan Livelsberger]], 37, of Colorado, a five-time Bronze Star recipient and new father, and said on the Friday after the blast that he had written of "political grievances," armed conflicts abroad, and domestic issues in the days before the explosion.[2] One of two letters released by police described the incident not as a "terrorist attack" but as "a wake-up call," on the reasoning that "Americans only pay attention to spectacles and violence" and that "fireworks and explosives" were the best way to make the point.[2] A second, shorter letter called for removing Democrats from the federal government and the military and floated occupying roads and federal buildings without ruling out force.[2] Investigators also recovered a ten-day "journal of activity" or surveillance log covering December 21–31 that chronicled purchases of firearms, camping equipment, and other items.[2] An ex-girlfriend said he had been depressed during their relationship, and officials familiar with his military records said he had been diagnosed with depression the previous year but had not been assessed as a violence or suicide risk.[2]
+
+Badlands contributor [[burning-bright|Burning Bright]] urged readers to stop trying to establish "what happened" and instead ask why the parties disseminating the narrative wanted the public to believe it happened, whether or not it actually did.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: A New Era of Terror & Monumental Lightning Strikes", URL: https://badlands.substack.com/p/badlands-news-brief-12c
+2. Badlands Brief — "Badlands News Brief: Energy Elevates Collaboration as the Senate Steals Centerstage", URL: https://badlands.substack.com/p/badlands-news-brief-9cd

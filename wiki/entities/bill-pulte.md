@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence, trump-administration, declassification, odni]
-sources: [raw/badlands-brief-b56.md, raw/badlands-brief-c91.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-9ba.md]
+sources: [raw/badlands-brief-b56.md, raw/badlands-brief-c91.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-9ba.md, raw/badlands-news-brief-ac6.md]
 confidence: medium
 ---
 
@@ -38,9 +38,14 @@ On Wednesday, November 12, 2025, Pulte said in a social media post that the admi
 
 In August 2025 Pulte's [[federal-housing-finance-agency|FHFA]] referred [[federal-reserve|Federal Reserve]] Governor [[lisa-cook|Lisa D. Cook]] to the [[department-of-justice|Department of Justice]] over allegations that she falsified bank documents and property records to obtain favorable mortgage terms on homes in Ann Arbor, Michigan, and Atlanta, Georgia.[5] Anticipating retaliation, Pulte posted on X: "Watch. The hit pieces will start to POUR IN because I am exposing the MORTGAGE FRAUD of the Elites," naming a reporter he said was preparing a story alleging that he was not in charge of the government-sponsored enterprises under the president.[5] He discussed the Cook investigation in a widely circulated clip in which he also attacked Representative [[adam-schiff|Adam Schiff]].[5]
 
+## Portable mortgage evaluation (November 2025)
+
+On November 12, 2025 Pulte wrote on X that "we are actively evaluating [[portable-mortgages|portable mortgages]]," providing no further details, days after suggesting that [[fannie-mae|Fannie Mae]] and [[freddie-mac|Freddie Mac]] were "evaluating how to do assumable or portable mortgages, in a safe and sound manner."[6] Portable mortgages would let homeowners transfer existing rates, terms, and amortization schedules to a new residential property — an option unavailable in the United States but present in Canada, the United Kingdom, and parts of the European Union — while assumable mortgages allow a buyer to take over a seller's existing loan.[6] The remarks were reported as the country's top housing regulator signaling another tool to address America's affordability challenges, alongside Fannie Mae's [[fannie-mae-minimum-credit-score-elimination|elimination of its 620 minimum credit score]].[6]
+
 ## References
 1. Badlands Brief — "A Communist Uprising & A Globalist Humiliation Ritual", URL: https://badlands.substack.com/p/badlands-brief-b56
 2. Badlands Brief — "Trump Rugs the Deltas with an Early MOU", URL: https://badlands.substack.com/p/badlands-brief-c91
 3. Badlands Brief — "Badlands News Brief: IC Ignitions & Double Detonations", URL: https://badlands.substack.com/p/badlands-news-brief-1a0
 4. Badlands Brief — "Badlands News Brief: MAGA Cracks, Fund Funnels, & Devilish Bees", URL: https://badlands.substack.com/p/badlands-news-brief-817
 5. Badlands News Brief — "Russian Concessions & Criminal Referrals", URL: https://badlands.substack.com/p/badlands-news-brief-9ba
+6. Badlands Brief — "Badlands News Brief: Epsteinian Psyops, Mortgage Madness and Caribbean Chaos", URL: https://badlands.substack.com/p/badlands-news-brief-ac6

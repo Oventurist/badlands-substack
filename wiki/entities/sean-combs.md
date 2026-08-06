@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [music-industry, sex-trafficking, blackmail, homeland-security, celebrity]
-sources: [raw/badlands-news-brief-158.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-9b2.md]
+sources: [raw/badlands-news-brief-158.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-ae1.md]
 confidence: medium
 ---
 
@@ -114,6 +114,11 @@ Following Combs's arrest in September 2024, the silence of his celebrity friends
 
 At the heart of the charges were the events Combs called "Freak Offs" — described by prosecutors as sexual "performances," often lasting days, that he directed between victims and male sex workers who were frequently trafficked illegally.[13] Badlands Media commentary was sceptical of the framing, characterizing the coverage as an attempt to reassure audiences that celebrity silence reflected public-relations advice rather than guilt, and noted the story's reach beyond partisan audiences by recounting a vehement negative reaction from a self-described leftist reader.[13] The outlet also observed that the [[eric-adams|Eric Adams]] indictment and the Combs prosecution were both brought in the [[southern-district-of-new-york|Southern District of New York]], sharing a common thread of alleged corruption.[13]
 
+## Arraignment on superseding indictments (March 2025)
+
+Combs appeared in Manhattan federal court on Friday, March 14, 2025, to plead not guilty to two new superseding indictments unveiled against him in January and earlier that month.[14] The 55-year-old, whose normally dark hair had turned fully grey alongside a greying cropped beard grown since his arrest the previous September, smiled at his son Christian and daughter Chance on entering the courtroom and later waved to his mother Janice, who arrived halfway through the hour-long hearing.[14] Speaking confidently to U.S. District Judge [[arun-subramanian|Arun Subramanian]], he addressed the court directly for the first time since his September arraignment on sex trafficking, racketeering conspiracy and transportation to engage in prostitution charges.[14]
+
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Middle Eastern Powder Kegs & Crisis Cascades Abound", URL: https://badlands.substack.com/p/badlands-news-brief-158
@@ -129,3 +134,4 @@ At the heart of the charges were the events Combs called "Freak Offs" — descri
 11. Badlands Brief — "Trump's Ballot Battles, Racist Mockingbirds and Dying DEI", URL: https://badlands.substack.com/p/badlands-news-brief-788
 12. Badlands Brief — "Badlands News Brief: A New Golden Age Begins ...?", URL: https://badlands.substack.com/p/badlands-news-brief-8bd
 13. Badlands News Brief — "Embattled Mayors, Peacemakers & Signal Setters", URL: https://badlands.substack.com/p/badlands-news-brief-9b2
+14. Badlands News Brief — "Defiant Deportations & Canadian Freeloaders", URL: https://badlands.substack.com/p/badlands-news-brief-ae1

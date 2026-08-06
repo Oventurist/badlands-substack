@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [red-sea, shipping, houthis, naval-deterrence, biden-administration]
-sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-53d.md, raw/badlands-news-brief-6af.md]
+sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-53d.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-a89.md]
 confidence: medium
 ---
 
@@ -64,6 +64,12 @@ Badlands writer [[burning-bright|Burning Bright]] argued that the Suez-adjacent 
 
 On Monday, July 7, 2025, at least two crew members of a Greek-owned vessel were wounded and two were missing in the Red Sea, according to Greek government officials and the vessel's owner.[8] In the second comparable attack in the Red Sea within 24 hours, the Liberian-flagged cargo ship *Eternity C* was targeted by sea drones and skiffs off Hodeidah, 50 nautical miles west of the Yemeni capital Sanaa, which is controlled by the Iran-aligned [[houthis|Houthi]] rebels.[8] No party claimed responsibility for the strikes.[8]
 
+## Multinational warning to the Houthis (January 2024)
+
+In early January 2024 the United States joined ten other countries in warning the Iranian-backed [[houthis|Houthi]] rebels that if they continued to attack shipping they would "bear the consequences," language widely read as suggesting the threat of military action against targets in Yemen.[9] U.S. deputy ambassador Christopher Lu told an emergency [[united-nations-security-council|U.N. Security Council]] meeting that the Houthis had carried out more than 20 attacks since November 19, and the rebel group announced that Wednesday morning it had targeted another container ship.[9] The warning came amid questions over whether President [[joe-biden|Joe Biden]] was being tough enough on the Yemeni group and fears that escalation in the region would disrupt world trade.[9] The Houthis, who support [[hamas|Hamas]] in its war against Israel following the October 7 attacks, used missiles, drones, fast boats and helicopters, claiming to target ships linked to Israel in revenge for its military campaign in Gaza.[9]
+
+Writing for [[badlands-media|Badlands Media]], [[paul-fleuret|Paul Fleuret]] characterized the episode as another instalment of a recurring pattern in which a world conflict escalates while Biden's response is "weak, feckless, and useless," likening anything Joe had to say on the matter to "stopping a freight train with a BB gun."[9] He argued that each day of visible weakness woke more of the American public to the state of the White House and would ultimately drive voters toward [[donald-trump|Trump]] in November.[9]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: MAGA Gets Branded as Biden Bungles Everything", URL: https://badlands.substack.com/p/badlands-news-brief-07e
@@ -74,3 +80,4 @@ On Monday, July 7, 2025, at least two crew members of a Greek-owned vessel were 
 6. Badlands News Brief — "Trump Counters, SBF Pleads & Disney Dies?", URL: https://badlands.substack.com/p/badlands-news-brief-4c3
 7. Badlands Brief — "Badlands News Brief: Ramaswamy Takes Stock and the War Machine Rumbles", URL: https://badlands.substack.com/p/badlands-news-brief-53d
 8. Badlands Brief — "Badlands News Brief: ICE Swarms, TikTok Pivots, & Shoes Stay On", URL: https://badlands.substack.com/p/badlands-news-brief-6af
+9. Badlands News Brief — "Epstein Fallout Continues as the Biden Admin Implodes", URL: https://badlands.substack.com/p/badlands-news-brief-a89

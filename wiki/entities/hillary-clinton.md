@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [state-department, benghazi, libya, weapons]
-sources: [raw/a-dereliction-of-duty.md, raw/always-fight-back.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/and-iran-iran-so-far-away.md, raw/bad-actors.md, raw/badlands-brief-314.md, raw/badlands-brief-40d.md, raw/badlands-brief-52f.md, raw/badlands-brief-b74.md, raw/badlands-brief-8db.md, raw/badlands-brief-c91.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-547.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-845.md]
+sources: [raw/a-dereliction-of-duty.md, raw/always-fight-back.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/and-iran-iran-so-far-away.md, raw/bad-actors.md, raw/badlands-brief-314.md, raw/badlands-brief-40d.md, raw/badlands-brief-52f.md, raw/badlands-brief-b74.md, raw/badlands-brief-8db.md, raw/badlands-brief-c91.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-547.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a82.md]
 confidence: medium
 ---
 
@@ -186,6 +186,21 @@ Speaking at a lunchtime panel during the February 2024 [[munich-security-confere
 
 Clinton, who lost to Trump in the 2016 presidential election, predicted he would "do everything he can to become an absolute authoritarian leader" and would "pull us out of NATO even though the Congress passed a resolution saying that he couldn't without congressional support, because he will just not fund our obligations."[29] Badlands Media writer [[burning-bright|Burning Bright]] read the remarks as an [[information-war|Info War]] convergence in which Clinton simultaneously lobbied for continued Ukraine war funding and conflated Trump with [[vladimir-putin|Vladimir Putin]], observing that many in the [[truth-community|Truth Community]] would agree with her forecast while treating it as a promise kept rather than a warning.[29]
 
+## Trump's May 2025 "body count" posts
+
+In May 2025 [[donald-trump|Donald Trump]] reshared a 2016 video captioned "THE VIDEO HILLARY CLINTON DOES NOT WANT YOU TO SEE," which rehearsed long-standing claims tying Clinton and her husband [[bill-clinton|Bill Clinton]] to a series of deaths of people who could be seen as political opponents.[30] The Washington Post described the material as false conspiracy theory and situated it within what it called thousands of false or misleading statements Trump has made about political opponents across his two terms.[30] Badlands commentary treated the amplification of the "Clinton body count" material by a sitting president as significant in itself.[30] Separately, Badlands writers asserted that Syria's readmission to the [[arab-league|Arab League]] traced back to arrangements Clinton made as Secretary of State in 2012.[30]
+
+## Ratcliffe prosecution suggestion (July 2025)
+
+On July 28, 2025, [[cia|CIA]] Director [[john-ratcliffe|John Ratcliffe]] told Fox News host Maria Bartiromo that Clinton could face indictment or prosecution as part of the administration's investigation into the origins of "Russiagate."[31] "This was a Hillary Clinton campaign scheme," Ratcliffe said, alleging that Clinton conspired to "falsely accuse" [[donald-trump|Donald Trump]] of colluding with Russia in what became the [[steele-dossier|Steele Dossier]], and that Clinton, former [[fbi|FBI]] Director [[james-comey|James Comey]] and former CIA Director [[john-brennan|John Brennan]] lied under oath about their involvement.[31] Asked whether accountability remained possible, Ratcliffe answered: "Well, that's why I've made the referrals that I have."[31] Clinton had served as [[barack-obama|Barack Obama]]'s secretary of state during his first term and was Trump's 2016 opponent.[31] See [[russiagate-hoax|Russiagate hoax]].[31]
+
+
+## June 2024 debate commentary
+
+Ahead of the June 2024 presidential debate, Hillary Clinton wrote an opinion piece in The New York Times arguing it would be a "waste of time" to try to refute [[donald-trump|Donald Trump]]'s arguments in a debate.[32] Noting that she is the only person to have debated both [[joe-biden|Joe Biden]] — as a senator during the 2008 Democratic primary — and Trump, three times in 2016, she said she knew "the excruciating pressure of walking onto that stage."[32] She wrote that "it's nearly impossible to identify what his arguments even are. He starts with nonsense and then digresses into blather," adding that she was unsurprised that several chief executives had described Trump after a recent meeting as unable to "keep a straight thought" and "all over the map," while expectations for him were so low that "if he doesn't literally light himself on fire on Thursday evening, some will say he was downright presidential."[32]
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]], writing in the same brief about the June 2024 attacks in [[dagestan|Dagestan]], characterized [[isis|ISIS]] as a mercenary group created by Clinton as secretary of state under President [[barack-obama|Barack Obama]] and destroyed in a joint effort by Trump and [[vladimir-putin|Vladimir Putin]] in 2019.[32]
+
 ## References
 1. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
 2. Badlands Media — "Always Fight Back", URL: https://badlands.substack.com/p/always-fight-back
@@ -216,3 +231,6 @@ Clinton, who lost to Trump in the 2016 presidential election, predicted he would
 27. Badlands Brief — "Israel Invades, MAGA Sues & Ports Close", URL: https://badlands.substack.com/p/badlands-news-brief-683
 28. Badlands News Brief — "Post Mortems, Dog Fights, & Flight Risks", URL: https://badlands.substack.com/p/badlands-news-brief-721
 29. Badlands Brief — "Badlands News Brief: DemoCrabs in Biden's Bucket", URL: https://badlands.substack.com/p/badlands-news-brief-845
+30. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
+31. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
+32. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82

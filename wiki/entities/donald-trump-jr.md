@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [trump-family, politics, media]
-sources: [raw/badlands-news-brief-204.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-617.md]
+sources: [raw/badlands-news-brief-204.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-aac.md]
 confidence: medium
 ---
 
@@ -24,7 +24,12 @@ Following the inauguration of Salvadoran president [[nayib-bukele|Nayib Bukele]]
 
 Trump Jr. appeared at the podium on the floor of the [[new-york-stock-exchange|New York Stock Exchange]] alongside Kim Guilfoyle and [[michael-seifert|Michael Seifert]] in July 2023 as the conservative marketplace [[public-square|Public Square]] rang the opening bell for its public listing, an event accompanied by chants of "USA!" from the floor.[3]
 
+## Middle East business travel (2024)
+
+In late June 2024, Newsweek published an article titled "Donald Trump Jr.'s Trip to Middle East Raises Eyebrows," citing his social media posts announcing a 2028 opening date for the villa community and golf course planned near Muscat, Oman under the [[trump-international-oman|Trump International]] brand.[4] The project is a joint venture between [[trump-organization|The Trump Organization]] and [[dar-global|Dar Global]], the international arm of Saudi developer [[dar-al-arkan|Dar Al Arkan]].[4] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that Gulf principals would deliberately keep dealings with Trump Jr., [[eric-trump|Eric Trump]], and [[jared-kushner|Jared Kushner]] low-key out of respect for [[donald-trump|Donald Trump]]'s presidential campaign.[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Narrative Shielding & Biden Bait", URL: https://badlands.substack.com/p/badlands-news-brief-204
 2. Badlands Brief — "Badlands News Brief: Weaponized Governments and Embattled Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-214
 3.  Badlands Media — "Badlands News Brief: Biden Crime Cascade, Woke Collapse & Establishment Panic", URL: https://badlands.substack.com/p/badlands-news-brief-617
+4. Badlands Brief — "Badlands News Brief: Wins at Home and Deals Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-aac

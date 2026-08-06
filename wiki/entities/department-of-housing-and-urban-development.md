@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [federal-agency, housing, civil-rights, minnesota, trump-administration]
-sources: [raw/badlands-brief-f02.md, raw/badlands-news-brief-71c.md]
+sources: [raw/badlands-brief-f02.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-a04.md]
 confidence: medium
 ---
 
@@ -28,6 +28,12 @@ On February 5, 2025, the Senate confirmed [[scott-turner|Scott Turner]] as Secre
 
 HUD's grant-approval process was cited in early 2025 as a reason for slow disbursement of [[hurricane-helene|Hurricane Helene]] recovery money to Western North Carolina, since states must submit spending plans to HUD and await approval before funds flow.[2] North Carolina officials quoted by Cardinal & Pine in January 2025 said money was unlikely to move "until the summer" because of that review cycle.[2] Badlands contributor [[ashe-in-america|Ashe in America]] contrasted congressional Democrats' protests over foreign aid cuts with the absence of comparable outrage over the delayed domestic disaster relief routed through HUD and FEMA.[2]
 
+## DOGE AI deregulation (July 2025)
+
+The [[doge-ai-deregulation-decision-tool|DOGE AI Deregulation Decision Tool]] was used to review more than 1,000 regulatory sections at the Department of Housing and Urban Development in under two weeks, an early deployment of [[doge|DOGE]]'s automated system for identifying obsolete federal rules.[3]
+
+
 ## References
 1. Badlands Brief — "Davos Elites Prepare ... for TRUMP-A-MANIA!", URL: https://badlands.substack.com/p/badlands-brief-f02
 2. Badlands News Brief — "Strategy & Micro Protests", URL: https://badlands.substack.com/p/badlands-news-brief-71c
+3. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04

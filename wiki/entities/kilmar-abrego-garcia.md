@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [immigration, doj, ms-13, vindictive-prosecution]
-sources: [raw/badlands-brief-6f0.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-80e.md]
+sources: [raw/badlands-brief-6f0.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-a98.md]
 confidence: medium
 ---
 
@@ -44,9 +44,18 @@ On Thursday evening, April 17, 2025, Senator [[chris-van-hollen|Chris Van Hollen
 
 Badlands commentator Ashe in America wrote that the reaction on the left was, at least in part, the point, and characterized Abrego Garcia as a confirmed gang member and wife beater whose record was only confirmed after Democrats had over-committed to championing him.[5]
 
+## October 2025 Nashville hearing and Liberia removal plan
+
+In late October 2025, new filings established that Abrego Garcia would remain in the United States through at least late November.[6] U.S. District Judge [[paula-xinis|Paula Xinis]] in Greenbelt, Maryland, approved a schedule allowing him to appear at a two-day evidentiary hearing in Nashville, Tennessee; Xinis had previously blocked his deportation in August.[6] The hearing was to examine whether prosecutors had been "selective" or "vindictive" in charging him following the 2022 traffic stop that initially led to federal immigrant smuggling charges.[6] Xinis also set a motion hearing for November 21 to consider the government's request to dissolve her injunction against his immediate removal.[6]
+
+Senior Trump administration officials told the judge they had planned to deport Abrego Garcia to [[liberia|Liberia]] as early as Friday, October 31, despite the ongoing criminal investigation in Tennessee; Department of Justice lawyer [[drew-ensign|Drew Ensign]] said, "If there were no prohibition, we would remove him on Friday."[6]
+
+Badlands commentator Ashe in America pressed the question of why Abrego Garcia commands such attention — favorable rulings from judges, an expensive public relations campaign, and visits from U.S. senators to a foreign prison.[6] She argued that "immigrant smuggling" is a softer phrasing for human trafficking, that the 2022 stop involved erratic driving with a vehicle full of people, and that Biden-era federal authorities instructed Tennessee to release those involved.[6] She speculated that he could be a valuable witness if properly incentivized, and questioned for whom he had been trafficking.[6]
+
 ## References
 1. Badlands Brief — "The Bibi Break-Up Begins, As Does The IC Purge...", URL: https://badlands.substack.com/p/badlands-brief-6f0
 2. Badlands Brief — "Decision Day, Disarming Deals & A Double Deportation", URL: https://badlands.substack.com/p/badlands-news-brief-32c
 3. Badlands News Brief — "Indian iPhones, A Sovereign Bromance, & Allegedly Real IDs", URL: https://badlands.substack.com/p/badlands-news-brief-520
 4. Badlands News Brief — "Treasury Triumphs, TikTok U-Turns, & Trade War Time-Outs", raw/badlands-news-brief-508.md
 5. Badlands Brief — "Badlands News Brief: Musical Fed Chairs, Salvadoran Chess, & Cocktails in the Clink", URL: https://badlands.substack.com/p/badlands-news-brief-80e
+6. Badlands Brief — "Badlands News Brief: Asian Happy Endings, Salvadoran Favors, & American Public Corruption", raw/badlands-news-brief-a98.md

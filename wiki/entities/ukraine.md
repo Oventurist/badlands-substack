@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ukraine, maidan, ned, solidarity-center, nato]
-sources: [raw/a-more-perfect-labor-union.md, raw/assad-day-in-damascus.md, raw/badlands-brief-07c.md, raw/badlands-brief-0bd.md, raw/badlands-brief-169.md, raw/badlands-brief-6f4.md, raw/badlands-brief-70c.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-889.md]
+sources: [raw/a-more-perfect-labor-union.md, raw/assad-day-in-damascus.md, raw/badlands-brief-07c.md, raw/badlands-brief-0bd.md, raw/badlands-brief-169.md, raw/badlands-brief-6f4.md, raw/badlands-brief-70c.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-a38.md]
 confidence: medium
 ---
 
@@ -134,6 +134,10 @@ In late August 2024 Ukrainian lawmaker Maryana Bezuglaya said that a US-made F-1
 
 In late August 2024 Ukrainian lawmaker Maryana Bezuglaya said that a US-made F-16 delivered to Ukraine earlier that year had been shot down by a Ukrainian Patriot air defense system in a friendly fire incident, writing on Telegram that the aircraft flown by pilot Alexey "Moonfish" Mes was destroyed "due to a lack of coordination between the [military] units."[21] She criticized the Ukrainian Air Force for describing the loss as a crash and denounced what she called a "culture of lies" in the Air Force Command and other senior military headquarters that she argued was degrading military decision-making, noting that no generals had been punished over the loss of the aircraft and its pilot.[21] Badlands Media used the episode to question the wisdom of rapidly training Ukrainian pilots on the F-16, citing the reported deaths of three other F-16 pilots during a training exercise, and raised the possibility that the account was itself a fiction masking diverted funds.[21]
 
+## April 2024 attacks on the power grid
+
+A large Russian missile and drone offensive on April 11, 2024 bombarded Ukraine's power grid and underground natural gas storage facilities.[22] Six hypersonic Kinzhal missiles struck critical infrastructure near Kyiv and around Lviv without being intercepted, while Ukrainian defenses downed 18 of 42 conventional missiles and one of 40 drones.[22] Energy Minister [[german-galushchenko|German Galushchenko]] reported damage to plants near Kyiv and in the Kharkiv, Zaporizhzhia and Lviv regions, and [[volodymyr-zelensky|Volodymyr Zelensky]] said a plant in Odesa was hit; the [[trypilska-power-plant|Trypilska plant]] south of Kyiv, the region's largest, was struck by six missiles.[22] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] contrasted the strikes with Ukraine's newly passed conscription measures intended to raise 500,000 additional men, argued that ending the conflict quickly would spare those lives, and attributed the war's seemingly existential character to the [[cia|CIA]] and to unresolved questions about biological research laboratories in the country.[22]
+
 ## References
 1. Badlands Brief — "A More Perfect (Labor) Union", URL: https://badlands.substack.com/p/a-more-perfect-labor-union
 2. Badlands Brief — "Assad Day in Damascus", URL: https://badlands.substack.com/p/assad-day-in-damascus
@@ -156,3 +160,4 @@ In late August 2024 Ukrainian lawmaker Maryana Bezuglaya said that a US-made F-1
 19. Badlands Brief — "Badlands News Brief: Saudi Scoops, Slender Stabbers, & Scorned Scouts", URL: https://badlands.substack.com/p/badlands-news-brief-824
 20. Badlands Brief — "Badlands News Brief: The Trump Train Rolls on ... Fake MAGA Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-89f
 21. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889
+22. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38

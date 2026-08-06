@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [south-korea, heads-of-state, alliance]
-sources: [raw/badlands-brief-fcb.md, raw/badlands-news-brief-2f5.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-6af.md]
+sources: [raw/badlands-brief-fcb.md, raw/badlands-news-brief-2f5.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-a98.md]
 confidence: medium
 ---
 
@@ -32,9 +32,18 @@ Lee was expected to host President [[donald-trump|Donald Trump]] during the thir
 
 On Monday, July 7, 2025, President [[donald-trump|Donald Trump]] imposed a 25 percent tax on goods imported from [[south-korea|South Korea]], effective August 1, notifying Lee as South Korean President through a letter posted on Truth Social.[5] Trump warned in the letters — sent also to Japanese Prime Minister [[shigeru-ishiba|Shigeru Ishiba]] — that any retaliatory tariff increase would be added on top of the 25 percent rate.[5] Badlands commentary framed the South Korea tariff as especially telling, citing Colonel [[douglas-macgregor|Douglas Macgregor]]'s characterization of the country as a CIA client state since the Korean War.[5]
 
+## October 2025 trade agreement with Trump
+
+On Wednesday, October 29, 2025, Lee and President [[donald-trump|Donald Trump]] finalized details of their long-contested trade deal at a summit in South Korea, on the sidelines of an Asia-Pacific forum.[6] "We made our deal, pretty much finalised it," Trump said at a dinner with Lee and other regional leaders, while sounding optimistic about his looming meeting with [[xi-jinping|Xi Jinping]].[6] The allies had unveiled the framework in late July, under which Seoul would avoid the worst U.S. tariffs by pumping $350 billion of new investment into the United States in exchange for lower rates, but talks over the structure of those investments had been deadlocked, and both sides had played down expectations.[6]
+
+Badlands commentary reported that $150 billion of the $350 billion would be invested in the U.S. shipbuilding industry, with the remaining $200 billion not specifically earmarked but delivered in installments capped at $20 billion annually — implying at least a decade of South Korean investment in the U.S. economy on top of the shipbuilding commitment.[6] Unclear was the status of South Korea's pledge to purchase U.S. energy, which had been described in the summer as a separate transaction from the $350 billion.[6] Badlands contributor GhostofBasedPatrickHenry wrote that Trump was welcomed as a conquering hero by Lee, and concluded that Lee "is not the problematic leader we were told that he was going to be by Fox News and ConInc," but rather "a great ally that is helping to balance the trade relationship between the US and South Korea."[6]
+
+During the same trip, Trump said that scheduling would not permit a rumored meeting with [[kim-jong-un|Kim Jong Un]]; GhostofBasedPatrickHenry expressed skepticism, recalling that Trump's May 2018 cancellation of a Kim summit was followed by the Singapore meeting anyway.[6]
+
 ## References
 1. Badlands Brief — "The Never-Ending, "Very Complete," Bicameral War", URL: https://badlands.substack.com/p/badlands-brief-fcb
 2. Badlands Brief — "Badlands News Brief: Korea Joins the Shenanigans as Drama Gives Way to Comedy", URL: https://badlands.substack.com/p/badlands-news-brief-2f5
 3. Badlands Brief — "Badlands News Brief: Musical Guard Troops & Immigration Crackdowns", URL: https://badlands.substack.com/p/badlands-news-brief-540
 4. Badlands Brief — "Badlands News Brief: Shutdown Consequences, Canadian Propaganda, & Console War Conclusions", URL: https://badlands.substack.com/p/badlands-news-brief-545
 5. Badlands Brief — "Badlands News Brief: ICE Swarms, TikTok Pivots, & Shoes Stay On", URL: https://badlands.substack.com/p/badlands-news-brief-6af
+6. Badlands Brief — "Badlands News Brief: Asian Happy Endings, Salvadoran Favors, & American Public Corruption", raw/badlands-news-brief-a98.md

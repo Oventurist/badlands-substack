@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence, israel, cabal]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/america-for-sale-part-3.md, raw/badlands-brief-029.md, raw/badlands-brief-0bd.md, raw/badlands-brief-282.md, raw/badlands-brief-5ba.md, raw/badlands-brief-6f0.md, raw/badlands-brief-805.md, raw/badlands-brief-9ac.md, raw/badlands-brief-9ea.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-810.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/america-for-sale-part-3.md, raw/badlands-brief-029.md, raw/badlands-brief-0bd.md, raw/badlands-brief-282.md, raw/badlands-brief-5ba.md, raw/badlands-brief-6f0.md, raw/badlands-brief-805.md, raw/badlands-brief-9ac.md, raw/badlands-brief-9ea.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-a38.md]
 confidence: low
 ---
 
@@ -76,6 +76,9 @@ In the hours after the [[assassination-of-charlie-kirk|assassination of Charlie 
 
 Mossad director [[david-barnea|David Barnea]] met in Poland on December 18, 2023, with [[cia|CIA]] Director [[william-burns|William Burns]] and Qatari Prime Minister [[mohammed-bin-abdulrahman-al-thani|Mohammad bin Abdulrahman al Thani]] in a renewed effort to free dozens of hostages held in Gaza.[14] The meeting followed bilateral talks between Barnea and al Thani the preceding Friday — the first attempt by either side to restart negotiations after the week-long Israel–[[hamas|Hamas]] ceasefire collapsed on December 1 — and came after two earlier rounds in Doha involving Egyptian intelligence officials.[14] Talks had stalled over the remaining female hostages, whose release Israel demanded before considering other categories; Hamas claimed the women it still held were IDF soldiers, which Israel and the United States denied.[14]
 
+## April 2024 warnings of an Iranian strike
+
+Badlands commentary in April 2024 noted that the [[cia|CIA]] and Mossad were assuring the public an [[iran|Iranian]] missile strike on [[israel|Israel]] would come at any moment, while observing that no attack had yet materialized and questioning whether any of the statements circulating during the standoff could be trusted.[15]
 
 ## References
 1. Badlands Brief — "A Journey of Ever-changing Truths", URL: https://badlands.substack.com/p/a-journey-of-ever-changing-truths
@@ -92,3 +95,4 @@ Mossad director [[david-barnea|David Barnea]] met in Poland on December 18, 2023
 12. Badlands Brief — "Badlands News Brief: Psyops Abound as the Media Landscape Shifts Rapidly", URL: https://badlands.substack.com/p/badlands-news-brief-6f7
 13. Badlands Brief — "Badlands News Brief: Manhunts, Mental Health, & the Mother of a Monster", URL: https://badlands.substack.com/p/badlands-news-brief-6e5
 14. Badlands Brief — "Badlands News Brief: Trump 2024 Has the Deep State a Little Testy …", URL: https://badlands.substack.com/p/badlands-news-brief-810
+15. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [omb, executive-office-of-the-president, budget, shutdown, federal-workforce]
-sources: [raw/badlands-news-brief-09b.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-4c3.md]
+sources: [raw/badlands-news-brief-09b.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-948.md]
 confidence: medium
 ---
 
@@ -28,7 +28,12 @@ An OMB memo also confirmed that construction of the 90,000-square-foot [[white-h
 
 On March 28, 2024, OMB announced revisions to the federal minimum categories on race and ethnicity — the [[2024-federal-race-and-ethnicity-standards-revision|first such revision in 27 years]] — combining previously separate race and ethnicity questions into a single question and adding a Middle Eastern and North African category.[3] The revisions also struck the terms "majority" and "minority" from the standards.[3] [[ashe-in-america|Ashe in America]] characterized the move as the "change management" arm of a broader narrative strategy, arguing it supports societal segmentation and creates new grievance categories, and questioned whether OMB had "just opened a massive can of worms" by removing a term embedded in decades of discrimination case law.[3]
 
+## December 2023 letter urging Ukraine spending
+
+Rep. [[thomas-massie|Thomas Massie]] disclosed in a December 2023 interview with [[tucker-carlson|Tucker Carlson]] that the [[joe-biden|Biden]] administration's OMB director had written to Speaker [[mike-johnson|Mike Johnson]] imploring him to approve additional spending for Ukraine, on the stated rationale of revitalizing the American defense industrial base.[4] According to Massie, the letter included a list of states that would receive money for manufacturing munitions, which he cited as evidence that lawmakers back such packages because the funds flow back to the [[military-industrial-complex|military-industrial complex]] and to their own districts.[4]
+
 ## References
 1. Badlands Brief — "Russian Oil, Turkish Nukes, & American Indictments", URL: https://badlands.substack.com/p/badlands-news-brief-09b
 2. Badlands Brief — "Unprecedented Opportunities & Rich Men's Tricks", URL: https://badlands.substack.com/p/badlands-news-brief-357
 3. Badlands News Brief — "Trump Counters, SBF Pleads & Disney Dies?", URL: https://badlands.substack.com/p/badlands-news-brief-4c3
+4. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military, united-states, iran, strait-of-hormuz]
-sources: [raw/badlands-brief-625.md, raw/badlands-brief-884.md, raw/badlands-brief-be1.md, raw/badlands-brief-b82.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-959.md]
+sources: [raw/badlands-brief-625.md, raw/badlands-brief-884.md, raw/badlands-brief-be1.md, raw/badlands-brief-b82.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-a21.md]
 confidence: medium
 ---
 
@@ -40,7 +40,12 @@ In April 2024 the senior U.S. military commander in charge of the Middle East �
 
 The coordination followed Iranian threats to retaliate for an Israeli strike on Damascus that killed Brig. Gen. [[mohammad-reza-zahedi|Mohammad Reza Zahedi]], and Israeli preparations for a possible unprecedented direct attack from Iranian soil involving ballistic missiles, drones and cruise missiles.[7] Badlands commentary described the public signalling around the visit as gaslighting intended to normalise a strike on Iran, and noted reports of an urgent call by Iranian Foreign Minister [[hossein-amirabdollahian|Hossein Amirabdollahian]] with leaders of Saudi Arabia, the UAE, Qatar and Iraq while the Biden administration pressed those same governments to calm Tehran.[7]
 
+## Gaza pier vessel groundings (May 2024)
+
+On May 25, 2024 CENTCOM issued a press release, titled "High Sea States Impact Army Vessels," confirming that four U.S. Army vessels supporting the maritime humanitarian aid mission in Gaza had been affected by heavy sea states.[8] The statement said the vessels broke free from their moorings, that two were then anchored on the beach near the pier, and that the third and fourth were beached on the coast of Israel near Ashkelon, with recovery efforts under way with assistance from the Israeli Navy.[8] The incident is covered at [[gaza-humanitarian-pier|the Gaza humanitarian pier]].[8]
+
 ## References
+
 1. Badlands Brief — "Mr. Nice Guy Leaves the Building (plus, Jewish Terrorism)", URL: https://badlands.substack.com/p/badlands-brief-625
 2. Badlands Brief — "War Weaves & Midterm Maxis", URL: https://badlands.substack.com/p/badlands-brief-884
 3. Badlands Brief — "The Beggar Kings Arrive Ahead of Saint Fauci's Confession", URL: https://badlands.substack.com/p/badlands-brief-be1
@@ -48,3 +53,4 @@ The coordination followed Iranian threats to retaliate for an Israeli strike on 
 5. Badlands Brief — "WAR!", URL: https://badlands.substack.com/p/badlands-brief-eed
 6. Badlands News Brief — "Battle Lines Drawn in All Theaters", URL: https://badlands.substack.com/p/badlands-news-brief-169
 7. Badlands Brief — "Badlands News Brief — Fearmongering and Capitulation Rule the News Cycle", URL: https://badlands.substack.com/p/badlands-news-brief-959
+8. Badlands Brief — "Badlands News Brief: Trumpian Deliberations, Libertarian LARPs & Israeli Misfires", URL: https://badlands.substack.com/p/badlands-news-brief-a21

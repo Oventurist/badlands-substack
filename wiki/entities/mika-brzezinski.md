@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, msnbc, journalism, morning-joe]
-sources: [raw/badlands-news-brief-19a.md, raw/badlands-news-brief-33b.md]
+sources: [raw/badlands-news-brief-19a.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-9c6.md]
 confidence: medium
 ---
 
@@ -28,6 +28,12 @@ Writing in the [[badlands-news-brief|Badlands News Brief]], [[ashe-in-america|As
 
 On July 11, 2024, Brzezinski appeared on "Morning Joe" alongside her co-host and husband [[joe-scarborough|Joe Scarborough]] as he reported that President [[joe-biden|Joe Biden]]'s campaign and many Democratic officials believed former President [[barack-obama|Barack Obama]] was quietly orchestrating calls for Biden to leave the 2024 race.[2] Brzezinski added, "I think Barack Obama has a lot of influence, and there's a lot there."[2]
 
+## Mar-a-Lago Meeting with Trump (2024)
+
+Brzezinski and co-host [[joe-scarborough|Joe Scarborough]] met President-elect [[donald-trump|Donald Trump]] at his Florida home in November 2024 to restart communications after years of hostile coverage.[3] She said it was the first time they had seen him in seven years and described him as "cheerful, upbeat" even as the three discussed points of disagreement.[3] "What we did agree on was to restart communications," she said, likening the effort to the practice of her father, the late Zbigniew Brzezinski, national security adviser in Jimmy Carter's administration, who often spoke with world leaders he disagreed with.[3]
+
 ## References
+
 1. Badlands Brief — "Badlands News Brief: Ceasefires, Olive Branches ... and Scare Events?", URL: https://badlands.substack.com/p/badlands-news-brief-19a
 2. Badlands Brief — "Badlands News Brief: The Presser Heard Round' the World", URL: https://badlands.substack.com/p/badlands-news-brief-33b
+3. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6

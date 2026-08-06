@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [election-integrity, cybersecurity, academia, dominion-voting-systems, georgia]
-sources: [raw/badlands-news-brief-3bc.md]
+sources: [raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-a40.md]
 confidence: medium
 ---
 
@@ -22,5 +22,10 @@ Badlands Media writer [[ashe-in-america|Ashe in America]] reported that she and 
 
 Halderman has also publicly criticized Georgia's response to his findings. He noted that Georgia Secretary of State [[brad-raffensperger|Brad Raffensperger]], aware of the findings for two years, announced that the state would not install Dominion's security patches until after the 2024 presidential election, a decision Halderman called "astonishing."[1] Raffensperger's office justified the delay by citing the need to update nearly 45,000 pieces of voting equipment plus subsequent acceptance testing, a process it said would require tens of thousands of man-hours, so that the statewide move to version 5.17 would "occur following the 2024 election cycle."[1]
 
+## June 2025 testimony
+
+Badlands writer [[ashe-in-america|Ashe in America]] noted that Halderman cited [[chris-krebs|Chris Krebs]] as an authority in congressional testimony in June 2025.[2] She invoked this while contrasting the [[2025-16-billion-credential-leak|leak of sixteen billion credentials]] from [[apple|Apple]], [[facebook|Facebook]], [[google|Google]] and government services with the elections industry's insistence that American elections are impenetrable — an assurance she characterized as resting on the word of "a lawyer with his undergrad in environmental science."[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Election Fraud Starts Early While the CIA Whines", URL: https://badlands.substack.com/p/badlands-news-brief-3bc
+2. Badlands News Brief — "A Constellation of Corruption & A Goldilocks Galaxy", URL: https://badlands.substack.com/p/badlands-news-brief-a40

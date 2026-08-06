@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [special-counsel, justice-department, classified-documents, joe-biden]
-sources: [raw/badlands-brief-1ae.md, raw/badlands-brief-7bf.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8f1.md, raw/badlands-news-brief-97e.md]
+sources: [raw/badlands-brief-1ae.md, raw/badlands-brief-7bf.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8f1.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a46.md]
 confidence: medium
 ---
 
@@ -70,6 +70,14 @@ In May 2025 the [[wall-street-journal|Wall Street Journal]] obtained audio recor
 
 In May 2025 the [[wall-street-journal|Wall Street Journal]] obtained audio recordings of Hur's October 2023 interviews with [[joe-biden|Joe Biden]], which the Biden administration had withheld after releasing transcripts in March 2024.[11] The interviews ran some five hours across two days and were conducted as part of Hur's investigation into whether Biden improperly retained classified information after leaving office as vice president.[11] In the audio Biden at times speaks with a frail voice, struggles for words and dates, and mixes up his Senate years with his vice presidency, while at other points joking and appearing in command of details.[11] The recordings intensified a public reckoning among Democrats over Biden's condition in office and were cited by [[donald-trump|Donald Trump]] and by Representative [[james-comer|James Comer]] as evidence bearing on the [[autopen-scandal|autopen]] question.[11]
 
+## Referenced at the March 2024 Wray hearing
+
+When Representative Elise Stefanik pressed FBI Director Christopher Wray on March 12, 2024 about whether the bureau had counterintelligence investigations open into Joe Biden or Donald Trump, Wray — after a long pause — attempted to refer her to Special Counsel Hur.[12] Stefanik rejected the deflection and demanded a direct answer citing the Intelligence Authorization Act, prompting Wray to say there was "no investigation that I could confirm here."[12]
+
+## Use of the Hur report in Trump's defense
+
+Hur's February 2024 report became a central citation in [[donald-trump|Donald Trump]]'s May 2, 2024 motion to dismiss the Florida classified documents indictment on grounds of "selective and vindictive prosecution."[13] The motion quoted the special counsel's finding that "with one exception, there is no record of the Department of Justice prosecuting a former president or vice president for mishandling classified documents from his own administration," arguing that Trump was that sole exception and that the reason was his status as President [[joe-biden|Joe Biden]]'s chief political rival.[13]
+
 ## References
 1. Badlands Brief — "DC Exposes Itself as the Middle East Gets Gloriously Strange", URL: https://badlands.substack.com/p/badlands-brief-1ae
 2. Badlands Brief — "Entertaining Obstruction & Artificial Shadow Wars", URL: https://badlands.substack.com/p/badlands-brief-7bf
@@ -82,3 +90,5 @@ In May 2025 the [[wall-street-journal|Wall Street Journal]] obtained audio recor
 9. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
 10. Badlands News Brief — "Dictators, Sovereigns and Bipartisan Peace", URL: https://badlands.substack.com/p/badlands-news-brief-8f1
 11. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
+12. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
+13. Badlands Brief — "Very Fine Marxists and Chinese Finger Traps", URL: https://badlands.substack.com/p/badlands-news-brief-a46

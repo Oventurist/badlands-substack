@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [entertainment, wrestling, kayfabe]
-sources: [raw/badlands-news-brief-42e.md, raw/badlands-news-brief-6ff.md]
+sources: [raw/badlands-news-brief-42e.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-9c6.md]
 confidence: medium
 ---
 
@@ -20,6 +20,12 @@ McMahon's promotion built a long-running on-screen relationship with [[donald-tr
 
 In April 2023, McMahon's [[world-wrestling-entertainment|World Wrestling Entertainment]] agreed to merge with the [[ufc|UFC]] to form a new publicly traded company controlled by [[endeavor|Endeavor Group]].[2] Under the announced structure, McMahon would serve as executive chairman of the new company while [[ari-emanuel|Ari Emanuel]] served as chief executive.[2] The deal valued WWE at $9.3 billion and UFC at $12.1 billion and was expected to close in the second half of 2023.[2]
 
+## Family Ties to the Trump Administration (2024)
+
+McMahon's wife [[linda-mcmahon|Linda McMahon]], with whom he built [[world-wrestling-entertainment|World Wrestling Entertainment]], was named secretary of education by President-elect [[donald-trump|Donald Trump]] in November 2024.[3] Badlands commentary noted that Linda occasionally played herself as a character inside the fictional wrestling universe her husband created, and that the couple's promotion helped fund Evel Knievel's Snake River Canyon jump.[3]
+
 ## References
+
 1. Badlands Brief — "Badlands News Brief: Change of Batter, Indeed …", URL: https://badlands.substack.com/p/badlands-news-brief-42e
 2. Badlands Brief — "Badlands News Brief: President of Precedents ...", URL: https://badlands.substack.com/p/badlands-news-brief-6ff
+3. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6

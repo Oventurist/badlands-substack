@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [clinton-administration, trade-missions, export-controls, china]
-sources: [raw/america-for-sale-part-1.md, raw/badlands-brief-db7.md, raw/badlands-news-brief-580.md]
+sources: [raw/america-for-sale-part-1.md, raw/badlands-brief-db7.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-9c6.md]
 confidence: medium
 ---
 
@@ -26,7 +26,13 @@ The package forms part of a broader effort to strengthen domestic rare-earth pro
 
 The department administers the export licences that govern American technology sales to [[huawei|Huawei]].[3] Under the [[donald-trump|Trump administration]]'s severe restrictions it nonetheless granted licences to some companies for products unrelated to high-speed 5G telecom networks.[3] In late January 2023 the Financial Times reported that the department had notified some companies it would no longer grant such licences, a step toward a total ban on sales of American technology to the Chinese telecom equipment maker, which national security officials believe assists Chinese espionage.[3]
 
+## Lutnick Nomination and the Tariff Agenda (2024)
+
+In November 2024 President-elect [[donald-trump|Donald Trump]] named [[howard-lutnick|Howard Lutnick]] as commerce secretary, with a mandate to lead a sweeping program of tariffs.[4] The department was expected to play a key role in implementing the incoming administration's trade agenda, and Lutnick had been a vocal supporter of that agenda.[4]
+
 ## References
+
 1. Badlands Brief — "America for Sale - Part 1", URL: https://badlands.substack.com/p/america-for-sale-part-1
 2. Badlands Brief — "Backpedaling Despots, Mid-East Madness, & Not So Rare Earths", URL: https://badlands.substack.com/p/badlands-brief-db7
 3. Badlands News Brief — "COVID Coverups, Globalist Schemes and Epstein's Shadow", URL: https://badlands.substack.com/p/badlands-news-brief-580
+4. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6

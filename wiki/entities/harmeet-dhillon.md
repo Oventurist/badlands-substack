@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [law, election-integrity, arizona, republican-party]
-sources: [raw/an-sos-from-ground-zero.md, raw/badlands-brief-144.md, raw/badlands-brief-323.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8dc.md]
+sources: [raw/an-sos-from-ground-zero.md, raw/badlands-brief-144.md, raw/badlands-brief-323.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-a89.md]
 confidence: low
 ---
 
@@ -48,6 +48,10 @@ As Assistant Attorney General for the Civil Rights Division, Dhillon announced a
 
 As assistant attorney general for civil rights in the [[department-of-justice|Justice Department]], Dhillon oversaw a revised mission statement under the [[trump-administration|Trump administration]] committing the division to "ensure free, fair, and honest elections unmarred by fraud, errors, or suspicion."[9] The UK Guardian reported on the change with alarm in April 2025, as the department pursued a series of voter fraud prosecutions assisted by [[doge|DOGE]].[9]
 
+## Publicizing the California ballot ruling (January 2024)
+
+As former Republican National Committee for California chairwoman, Dhillon posted online the January 3, 2024 order by U.S. District Judge [[david-carter|David O. Carter]] dismissing with prejudice the [[california-ballot-disqualification-case|California lawsuit]] seeking to keep [[donald-trump|Donald Trump]] off the state's primary ballot.[10] "The remnants of the last California case to keep President Trump off the ballot here were dismissed today by Judge David O. Carter!!" she wrote on X.[10]
+
 ## References
 1. Badlands Brief — "An SOS From Ground Zero", URL: https://badlands.substack.com/p/an-sos-from-ground-zero
 2. Badlands Brief — "MLKKK Day, Peace Boards and Power Paradigms", URL: https://badlands.substack.com/p/badlands-brief-144
@@ -58,3 +62,4 @@ As assistant attorney general for civil rights in the [[department-of-justice|Ju
 7. Badlands Brief — "Badlands News Brief: Burn Bags, Kratom, & Insider Trading", URL: https://badlands.substack.com/p/badlands-news-brief-5a3
 8. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
 9. Badlands Brief — "Badlands News Brief: Gazan Seizures & Gay Porn Scandals", URL: https://badlands.substack.com/p/badlands-news-brief-8dc
+10. Badlands News Brief — "Epstein Fallout Continues as the Biden Admin Implodes", URL: https://badlands.substack.com/p/badlands-news-brief-a89

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [doj, attorney-general, mar-a-lago, weaponization]
-sources: [raw/badlands-brief-2c5.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-59b.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-8d8.md, raw/badlands-news-brief-8f9.md]
+sources: [raw/badlands-brief-2c5.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-59b.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-8d8.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-aac.md]
 confidence: medium
 ---
 
@@ -63,6 +63,12 @@ Garland was among the recipients — alongside Secretary of State [[antony-blink
 
 Garland signed the [[doj-school-board-memo-2021|2021 school board memorandum]] in October 2021, citing a "disturbing spike in harassment, intimidation, and threats of violence against school administrators, board members, teachers, and staff" amid broader disputes over COVID-19 policies and how race and gender were addressed in schools.[9] In early February 2023 he was subpoenaed over that memo by the [[house-judiciary-committee|House Judiciary Committee]] under Chairman [[jim-jordan|Jim Jordan]], in the committee's first subpoenas of the Congress, alongside [[fbi|FBI]] Director [[christopher-wray|Christopher Wray]] and Education Secretary [[miguel-cardona|Miguel Cardona]].[9]
 
+## House lawsuit over the Hur interview audio (July 2024)
+
+On Monday, July 1, 2024, House Republicans filed suit against Garland seeking the audio recording of [[joe-biden|Joe Biden]]'s interview with the special counsel in his classified documents case, asking the courts to enforce their subpoena and reject the White House's effort to withhold the materials from Congress.[10] The suit, brought by the [[house-judiciary-committee|House Judiciary Committee]], followed the White House's assertion of executive privilege to block release of the recording; House Republicans had responded by voting to make Garland the third attorney general in U.S. history held in contempt of Congress, but the Justice Department declined to take up the referral, citing its longstanding practice of not prosecuting officials who withhold materials under a presidential privilege claim.[10] According to the filing, Speaker [[mike-johnson|Mike Johnson]] made a "last-ditch effort" to resolve the matter with Garland, who referred the Republicans to the White House; the White House rebuffed the attempt.[10]
+
+In a concurrence to the Supreme Court's presidential-immunity decision issued the same day, Justice [[clarence-thomas|Clarence Thomas]] questioned whether Special Counsel [[jack-smith|Jack Smith]], appointed under Garland's authority, had lawful power to prosecute [[donald-trump|Donald Trump]] — a point Badlands contributor [[ashe-in-america|Ashe in America]] characterized as Thomas "dunking on" both men.[10]
+
 ## References
 
 1. Badlands Brief — "Bioweapons Sneak Into the News Cycle as Israeli Shenanigans Ensue", URL: https://badlands.substack.com/p/badlands-brief-2c5
@@ -74,3 +80,4 @@ Garland signed the [[doj-school-board-memo-2021|2021 school board memorandum]] i
 7. Badlands Brief — "Badlands News Brief: Contempt, Combat Tactics and Cuts?", URL: https://badlands.substack.com/p/badlands-news-brief-70a
 8. Badlands Brief — "Badlands News Brief: Trump Hits the Bronx as the Establishment Panics", URL: https://badlands.substack.com/p/badlands-news-brief-8d8
 9. Badlands News Brief — "Deflated Balloons, Sketchy AI & Democrat Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-8f9
+10. Badlands Brief — "Badlands News Brief: Wins at Home and Deals Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-aac

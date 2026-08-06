@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [united-kingdom, health-service, antisemitism, racism, government-review]
-sources: [raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-762.md]
+sources: [raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a82.md]
 confidence: medium
 ---
 
@@ -26,6 +26,16 @@ The Badlands News Brief paired the NHS announcement with a Scotsman column argui
 
 Britain's socialised National Health Service came under fire in September 2025 over guidance from [[nhs-england|NHS England]]'s Genomics Education Programme highlighting supposed benefits of first-cousin marriage, including "stronger extended family support systems and economic advantages."[2] The practice is highly prevalent among Africans, Pakistanis, and other ethnic minority groups in Britain and carries well-documented risks of birth defects.[2] Conservative MP [[richard-holden|Richard Holden]] said "Our NHS should stop taking the knee to damaging and oppressive cultural practices," while also criticising Labour for ignoring calls to end [[cousin-marriage|cousin marriage]] as a deterrent to chain migration.[2]
 
+## March 2024 restriction on puberty blockers
+
+In March 2024 the NHS announced that children in the United Kingdom would no longer be prescribed puberty blockers, following expert conclusions that serious safety concerns existed.[3] The service had commissioned the National Institute for Health and Care Excellence to review the published evidence on gonadotrophin releasing hormone analogues (GnRHa), the drugs that prevent the body from producing sex hormones.[3] An NHS England policy document published on March 12, 2024 said the body had carefully considered the 2020 NICE evidence review together with subsequent published evidence and had concluded that "there is not enough evidence to support the safety or clinical effectiveness of PSH (puberty suppressing hormones) to make the treatment routinely available at this time."[3] Transgender lobbying organizations objected to the decision.[3]
+
+## Synnovis ransomware attack and cyber warnings
+
+In June 2024 a ransomware attack on Synnovis disrupted pathology systems at hospitals in south east London and led to thousands of appointments being cancelled.[4] Speaking at the NHS Confed Expo in Manchester on June 12, 2024, Mark Edwards, chief information security officer at Digital Health and Care Wales, predicted that cyber attacks on critical national infrastructure would increase because of global conflict, warning that they "won't be to just ransom or extort money" but would aim to cause disruption and bring systems down, and stressing the importance of supply chain security.[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Familiar Formulas, Blue Skies, & Antisemitic Nonchalance", URL: https://badlands.substack.com/p/badlands-news-brief-6e6
 2. Badlands Brief — "Badlands News Brief: Shutdowns, Shakedowns, & Two Sexes", URL: https://badlands.substack.com/p/badlands-news-brief-762
+3. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
+4. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [rnc, republican-party, 2024-election]
-sources: [raw/badlands-news-brief-119.md]
+sources: [raw/badlands-news-brief-119.md, raw/badlands-news-brief-ae3.md]
 confidence: medium
 ---
 
@@ -22,6 +22,11 @@ In her statement, McDaniel said it had been "the honor and privilege of my life 
 
 Badlands contributor [[ashe-in-america|Ashe in America]] wrote that the resignation was "long past due," arguing that McDaniel had "driven the GOP into the ground" and that the national party establishment needed "an application of round-up to destroy the roots."[1] She described the RNC establishment as "brazen, elitist, self-interested and utterly wasteful," providing "zero value to Republican voters."[1] She said she could not muster energy over who would replace McDaniel, but suggested that [[scott-presler|Scott Presler]] was "the choice if you want to finish it off," calling him "mini-Ronna with better hair" and citing his having publicly blamed voter behavior for the system issues seen in South Carolina that Saturday.[1]
 
+## Ramaswamy's 2023 resignation demand
+
+At the Republican presidential debate in Miami on November 8, 2023, candidate [[vivek-ramaswamy|Vivek Ramaswamy]] used his opening remarks to call for McDaniel's resignation as RNC chairwoman, saying, "I think there's something deeper going on in the Republican Party here, and I am upset about what happened last night," in reference to the previous day's off-year elections.[2] He said, "We've become a party of losers at the end of the day. Is it cancer in the Republican establishment?" and tallied losses under her leadership: "since Ronna McDaniel took over as chairwoman of the RNC in 2017, we have lost 2018, 2020, 2022 — no red wave, that never came. We got trounced last night in 2023."[2] He offered to yield his debate time if she would come onstage and tell GOP voters she was resigning.[2]
+
 ## References
 
 1. Badlands News Brief — "Trump Responds, a Banker Dies & a Ukrainian Tells the Truth", URL: https://badlands.substack.com/p/badlands-news-brief-119
+2. Badlands Brief — "Badlands News Brief: Debates, Rallies ... and Deep State Implosions", URL: https://badlands.substack.com/p/badlands-news-brief-ae3

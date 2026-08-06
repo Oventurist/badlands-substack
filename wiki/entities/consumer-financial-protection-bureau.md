@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [regulatory-agency, administrative-state, supreme-court, fifth-circuit]
-sources: [raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-99e.md]
+sources: [raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-a04.md]
 confidence: medium
 ---
 
@@ -26,7 +26,13 @@ Commentary in the [[badlands-news-brief|Badlands News Brief]] noted that the CFP
 
 In December 2024, an MSNBC opinion piece cited [[marc-andreessen|Marc Andreessen]]'s recent complaints about the CFPB — described as the agency created after the 2008 financial crisis to protect consumers from deceptive financial products — as evidence of hypocrisy, given reporting that Andreessen was helping identify and interview candidates for President-elect [[donald-trump|Donald Trump]]'s government spending advisory commission, [[doge|DOGE]].[3]
 
+## DOGE AI deregulation (July 2025)
+
+According to internal documents reported in July 2025, the [[doge-ai-deregulation-decision-tool|DOGE AI Deregulation Decision Tool]] had handled 100% of recent deregulation efforts at the Consumer Financial Protection Bureau, making the agency one of the first testbeds for [[doge|DOGE]]'s automated rule-cutting system.[4]
+
+
 ## References
 1. Badlands News Brief — "Congressional Kayfabe, Independent Dems & Fire Alarms", URL: https://badlands.substack.com/p/badlands-news-brief-2a9
 2. Badlands Brief — "Badlands News Brief: North American Trade Troubles & Unipartisan Panic", URL: https://badlands.substack.com/p/badlands-news-brief-52f
 3. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e
+4. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, citizen-journalism, undercover-journalism, governance]
-sources: [raw/badlands-news-brief-12a.md, raw/badlands-news-brief-2b1.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-4a6.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-959.md]
+sources: [raw/badlands-news-brief-12a.md, raw/badlands-news-brief-2b1.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-4a6.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-a61.md]
 confidence: medium
 ---
 
@@ -50,6 +50,10 @@ Project Veritas, based in New York, paid [[aimee-harris|Aimee Harris]] and [[rob
 
 No one from Project Veritas was ever charged with a crime, though the episode led to the FBI raid on [[james-okeefe|James O'Keefe]] and several of the organisation's journalists, after which Barbara S. Jones was appointed special master to review the seized materials.[6] Badlands contributor [[just-human|Just Human]] argued that Project Veritas was at the time functioning as an FBI asset and that the entire scheme was a trap intended to lure the campaign of [[donald-trump|Donald Trump]] — which had declined the diary and advised the sellers to go to the FBI — into circulating possibly forged material about [[joe-biden|Joe Biden]].[6]
 
+## Aftermath of the Pfizer sting
+
+The organisation's January 2023 undercover video identifying [[jordan-trishton-walker|Jordan Trishton Walker]] as a [[pfizer|Pfizer]] executive discussing "[[directed-evolution|directed evolution]]" produced a confrontation in which Walker recanted on camera, called himself a liar, sought police involvement, and physically attacked founder [[james-okeefe|James O'Keefe]] and the film crew.[7] Coverage of the sting drew congressional interest but was met with intermittent Big Tech throttling and a partial media blackout, including the unexplained removal of a [[daily-mail|Daily Mail]] article about it.[7] Commentators at [[badlands-media|Badlands Media]] treated the suppression pattern as evidence that the story had outrun the narrative-management apparatus rather than that it lacked substance.[7]
+
 ## References
 1. Badlands News Brief — "Dueling Presidents, Establishment Secrets & Info Wars", URL: https://badlands.substack.com/p/badlands-news-brief-12a
 2. Badlands Brief — "Badlands News Brief: Yellen 'Reassures' & Veritas Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-2b1
@@ -57,3 +61,4 @@ No one from Project Veritas was ever charged with a crime, though the episode le
 4. Badlands Brief — "Badlands News Brief: Biden Does Ukraine, Vax Data & Veritas Shakeup", URL: https://badlands.substack.com/p/badlands-news-brief-4a6
 5. Badlands Brief — "Badlands News Brief: Mostly Peaceful Riots and Billionaire Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-6db
 6. Badlands Brief — "Badlands News Brief — Fearmongering and Capitulation Rule the News Cycle", URL: https://badlands.substack.com/p/badlands-news-brief-959
+7. Badlands News Brief — "Big Pharma, Big Lies and Big Boomerangs", URL: https://badlands.substack.com/p/badlands-news-brief-a61

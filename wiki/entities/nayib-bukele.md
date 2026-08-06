@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [el-salvador, latin-america, gangs, bitcoin]
-sources: [raw/badlands-news-brief-09e.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-782.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-80e.md]
+sources: [raw/badlands-news-brief-09e.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-782.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-a0b.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-adc.md]
 confidence: medium
 ---
 
@@ -63,7 +63,30 @@ On the evening of Thursday, April 17, 2025, Senator [[chris-van-hollen|Chris Van
 
 Badlands commentator Ashe in America wrote that leftists were losing their minds over the episode and that this was, at least in part, the point, characterizing Abrego Garcia as a confirmed gang member and wife beater whose record only became confirmed after Democrats had over-committed to their position.[8]
 
+## White House invitation (April 2025)
+
+On April 1, 2025, [[donald-trump|President Donald Trump]] invited Bukele to the [[white-house|White House]] for a April 14 visit to discuss cooperation on border security, criminal repatriation, and potentially Bitcoin.[9] The invitation followed a public display of mutual admiration between the two leaders, fuelled by Bukele's aggressive crackdown on gang violence and his handling of criminals deported from the United States.[9] In an official letter shared by Bukele on X, Trump praised his efforts, writing: "Also of great importance to our partnership is your willingness to use El Salvador's new supermax prison for [[tren-de-aragua|Tren de Aragua]] and [[ms-13|MS-13]] gang members. You have shown real leadership and are a model for others seeking to work with the United States."[9]
+
+Bukele had previously responded to one of Trump's posts thanking him for taking in prisoners with, "Grateful for your words, President Trump. Onward together!"[9] Through dramatic videos of prisoners shackled and escorted into [[el-salvador|El Salvador]], Bukele built a strongman image that resonates with Trump's base.[9] Badlands contributor [[gmoney|GMONEY]] responded to the coverage — which speculated whether Bitcoin would "find a seat at the table" — with a one-word reaction: "April fools?"[9]
+
+## Bitcoin proposal for trade with Russia (2024)
+
+In late July 2024, [[el-salvador|El Salvador]] under Bukele proposed using cryptocurrency for trade with the [[brics|BRICS]] alliance, following [[russia|Russia's]] new legislation permitting crypto in international trade — a move aimed at reducing reliance on the US dollar, El Salvador's official currency.[10] Badlands commentator [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] noted that Bukele's proposal to settle payments with Russia in [[bitcoin|Bitcoin]] came a day after the Russian law passed and just days after [[donald-trump|Donald Trump]] made a speech at a major Bitcoin conference in Nashville hyping Bitcoin as the next major industrial revolution, and argued the timing was not coincidence but coordinated political theater.[10]
+
+The same commentary revisited the earlier Trump–Bukele dispute over the export of [[ms-13|MS-13]] criminals from El Salvador to the United States, reading it as a deliberate effort to draw attention to the relationship between the [[cia|CIA]] and foreign governments and to the use of organized crime for intelligence functions.[10]
+
+## Foreign Agents Bill (May 2025)
+
+In May 2025 Bukele announced that he would submit a [[foreign-agents-bill|Foreign Agents Bill]] to El Salvador's Legislative Assembly, imposing a 30 percent tax on all donations received by NGOs operating in the country.[11] He framed the measure as a response to a protest he said had been manufactured by "self-proclaimed leftist groups and globalist NGOs, whose only real goal is to attack the government," citing coordinated media presence, obvious crowding and professionally printed banners as evidence.[11] The underlying dispute concerned a case dating to 1998 and adjudicated repeatedly in favor of a creditor reportedly connected to a well-known ARENA party family, with protesters allegedly transported at night to demonstrate outside an unrelated private residence.[11]
+
+Bukele said proceeds from the tax would pay off the housing cooperative's debt affecting some 300 families, arguing that it would be unfair for Salvadorans who pay rent to finance others' land through their taxes, and that under his plan "everyone wins."[11] Badlands' [[gmoney|GMONEY]] cited the move approvingly as Bukele "going ham" on NGOs, drawing an explicit parallel to French efforts to curb NGO influence over migrant detention policy.[11]
+
+## Inauguration guest list and Badlands commentary (June 2024)
+
+Following Bukele's presidential inauguration in early June 2024, [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] pointed to the event's guest list as evidence that [[el-salvador|El Salvador]] — the smallest nation on the American mainland, and located solely on the Pacific coast of Central America rather than the Caribbean — "casts a pretty big shadow."[12] He added that Bukele's government gets along very well with [[vladimir-putin|Vladimir Putin]], placing El Salvador within a wider pattern of multipolar realignment described as moves and countermoves.[12]
+
 ## References
+
 1. Badlands Brief — "Preemptive Pardons, Syrian Sanctions, & Preparations for Putin", URL: https://badlands.substack.com/p/badlands-news-brief-09e
 2. Badlands Brief — "Badlands News Brief: Weaponized Governments and Embattled Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-214
 3. Badlands Brief — "Badlands News Brief: Robot Runners, Prisoner Swaps, & Control of Crimea", URL: https://badlands.substack.com/p/badlands-news-brief-471
@@ -72,3 +95,7 @@ Badlands commentator Ashe in America wrote that leftists were losing their minds
 6. Badlands Brief — "Haley Sucks, Biden Dips & the CIA Does PR", URL: https://badlands.substack.com/p/badlands-news-brief-782
 7. Badlands Brief — "Badlands News Brief: Grand Juries, Pressure Campaigns, & Elaborate Hoaxes", URL: https://badlands.substack.com/p/badlands-news-brief-779
 8. Badlands Brief — "Badlands News Brief: Musical Fed Chairs, Salvadoran Chess, & Cocktails in the Clink", URL: https://badlands.substack.com/p/badlands-news-brief-80e
+9. Badlands Brief — "Badlands News Brief: The Wolf of D.C. & A Portfolio of Highly Organized Crime", URL: https://badlands.substack.com/p/badlands-news-brief-a0b
+10. Badlands Brief — "Badlands News Brief: Escalation, Litigation & Sovereign Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a3c
+11. Badlands Brief — "Badlands News Brief: Black Hat Nightmares & A Camelback Caravan of Confirmation", URL: https://badlands.substack.com/p/badlands-news-brief-a64
+12. Badlands Brief — "Badlands News Brief: Globalists Panic as Populism Takes Over the Zeitgeist", URL: https://badlands.substack.com/p/badlands-news-brief-adc

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fbi, indictments, lawfare]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-52b.md, raw/badlands-brief-579.md, raw/badlands-brief-6a1.md, raw/badlands-brief-6bf.md, raw/badlands-brief-d1a.md, raw/badlands-brief-cfa.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-09b.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-824.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-52b.md, raw/badlands-brief-579.md, raw/badlands-brief-6a1.md, raw/badlands-brief-6bf.md, raw/badlands-brief-d1a.md, raw/badlands-brief-cfa.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-09b.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a5d.md]
 confidence: medium
 ---
 
@@ -127,6 +127,21 @@ In early December 2025, Politico reported that the Justice Department was quietl
 
 The federal case against Comey — in which he was initially charged with making a false statement and obstruction of a congressional proceeding relating to his 2020 Senate testimony, where he denied authorizing FBI officials to leak information to the press — was thrown out in November 2025 after U.S. District Judge [[cameron-mcgowan-currie|Cameron McGowan Currie]], a Clinton appointee, ruled that prosecutor [[lindsey-halligan|Lindsey Halligan]] had been illegally appointed.[22] President [[donald-trump|Donald Trump]] said Comey and [[letitia-james|Letitia James]] "got out on a technicality," adding that "if you look at the actual charges, I think anybody that looks at it very fairly would say, boy, are they guilty."[22] Trump emphasized that Currie's orders did not address the substance of the allegations and that prosecutors retained the option to re-bring or appeal the case; the administration announced on November 25 that the [[justice-department|Justice Department]] would appeal.[22] Badlands writer Ashe in America wrote that the pair were "not off the hook."[22]
 
+## Cited in the March 2024 Wray hearing
+
+At the House Intelligence Committee's Annual Threat Assessment hearing on March 12, 2024, Representative Elise Stefanik invoked Comey's record while pressing FBI Director Christopher Wray, emphasizing that Comey had "testified that he did not follow the proper protocol regarding the notification of Congress of the opening of the Crossfire Hurricane" — the counterintelligence investigation into Donald Trump in 2016.[23] She used the precedent to argue that the Intelligence Authorization Act obliges the bureau to inform congressional leadership of counterintelligence investigations into federal candidates for office.[23]
+
+## Ratcliffe perjury allegation (July 2025)
+
+In a July 28, 2025 Fox News interview, [[cia|CIA]] Director [[john-ratcliffe|John Ratcliffe]] claimed that Comey, former CIA Director [[john-brennan|John Brennan]] and [[hillary-clinton|Hillary Clinton]] had lied under oath about their involvement in the Russian election-interference narrative, and indicated that he had made criminal referrals accordingly.[24] Host Maria Bartiromo pressed Ratcliffe on whether indictments and prosecutions remained possible for the three; he replied, "Well, that's why I've made the referrals that I have."[24]
+
+
+## May 2025 book tour and Secret Service inquiry
+
+On Monday, May 19, 2025, Comey appeared at a Barnes & Noble in New York City, where he sat on a three-legged stool and promoted his new crime novel to a few dozen attendees at a book signing.[25] Days earlier he had provoked a firestorm on the right — and a [[united-states-secret-service|Secret Service]] investigation — by posting an Instagram photograph that [[donald-trump|Donald Trump]] and senior administration officials insisted was a call for the assassination of the president.[25] Talkative and confident, Comey brushed aside the possibility of criminal charges, calling the Secret Service agents who interviewed him "total pros" and saying of the controversy, "maybe it'll go away."[25]
+
+NBC News paired the scene with the announcement by [[alina-habba|Alina Habba]], acting U.S. attorney in New Jersey, of criminal charges against Representative [[lamonica-mciver|LaMonica McIver]].[25] In the [[badlands-news-brief|Badlands News Brief]] of May 21, 2025, [[ashe-in-america|Ashe in America]] asked what would have happened had [[kash-patel|Kash Patel]] or [[dan-bongino|Dan Bongino]] posted a death threat against the president during the Biden administration while they were media personalities and private citizens — noting that Comey now occupied exactly that role, on a book tour, while Patel and Bongino were running the [[fbi|FBI]].[25] She closed with the outlet's recurring refrain: "No one is above the law."[25]
+
 ## References
 
 1. Badlands Brief — "Somali Shatterpoints, Cartel Countermeasures, & Erosion of the World Order", URL: https://badlands.substack.com/p/badlands-brief-094
@@ -151,3 +166,6 @@ The federal case against Comey — in which he was initially charged with making
 20. Badlands Brief — "The Wall Are Closing in Again! (And Other Stories)", URL: https://badlands.substack.com/p/badlands-news-brief-7ad
 21. Badlands Brief — "Corruption Within Corruption & A Offer of Free Elections", URL: https://badlands.substack.com/p/badlands-news-brief-7e8
 22. Badlands Brief — "Badlands News Brief: Saudi Scoops, Slender Stabbers, & Scorned Scouts", URL: https://badlands.substack.com/p/badlands-news-brief-824
+23. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
+24. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
+25. Badlands Brief — "Badlands News Brief: Our Boy Victim & Friends Without Benefits", URL: https://badlands.substack.com/p/badlands-news-brief-a5d

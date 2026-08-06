@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [north-korea, hostages, bill-clinton, 2009, diplomacy]
-sources: [raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/badlands-brief-9f2.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-7bb.md]
+sources: [raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/badlands-brief-9f2.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-a71.md]
 confidence: medium
 ---
 
@@ -81,6 +81,12 @@ In early 2025, the North Korean government began allowing foreign tourists to en
 
 The reopening coincided with national birthday celebrations for the late Kim Jong Il, the former leader who died in 2011, and followed a group of Western tourists making the first such trip in February since the country closed itself off during the COVID-19 pandemic.[10] Rowan Beard, head of Young Pioneer Tours, said that "the North Koreans aren't robots. They have opinions, goals, and a sense of humor. And in our briefing we encourage people to listen to and understand them."[10] Western tourists described the trip as "extremely" controlled, escorted throughout by approved guides who ushered them into a beer factory, a school, and a pharmacy; tour leader Ben Weston stated, "You can't leave the hotel without the guides."[10] The school visit included children's dancing performances staged against animations of missiles flying through the air, and one traveler said, "The roads are awful, the pavements are wobbly, and the buildings are weirdly constructed."[10]
 
+## Demolition of inter-Korean road and rail links (October 2024)
+
+On Tuesday, October 15, 2024, North Korea blew up the northern sections of the unused road and rail routes that once linked it with [[south-korea|South Korea]], in what the Associated Press described as a symbolic display of anger.[11] The choreographed demolition came days after the North claimed the South had flown drones over its capital, Pyongyang, and amid an exchange of threats between the rivals.[11] AP framed the act as underlining North Korea's growing anger toward South Korea's conservative government, following leader [[kim-jong-un|Kim Jong Un]]'s vow to sever relations with the South and abandon the goal of peaceful Korean unification.[11] Observers judged it unlikely that Kim would launch a preemptive large-scale attack, given that near-certain massive retaliation by the superior forces of the United States and South Korea would threaten Pyongyang's survival.[11]
+
+Badlands contributor Burning Bright read the episode through [[donald-trump|Donald Trump]]'s commentary on it, arguing that in three clipped sentences Trump laid out an "ultra condensed Hegelian Dialectic": the reported Actual as the problem, a blunt summation of the reaction the Collective Mind is meant to have, and then the STORY of the solution set off in narrative quotes.[11] He concluded that "Trump the Peacemaker" is the last story, and that Kim, Vladimir Putin, and other members of what he called the Sovereign Alliance would help actualize it.[11]
+
 ## References
 1. Badlands Brief — "America for Sale - Part 2", URL: https://badlands.substack.com/p/america-for-sale-part-2
 2. Badlands Brief — "America for Sale - Part 3", URL: https://badlands.substack.com/p/america-for-sale-part-3
@@ -92,3 +98,4 @@ The reopening coincided with national birthday celebrations for the late Kim Jon
 8. Badlands Brief — "Polling Paradoxes, Hegelian Seeding & Putin's Gambit", URL: https://badlands.substack.com/p/badlands-news-brief-565
 9. Badlands Brief — "Badlands News Brief: Trump Calls for Peace as the World Heads Toward War", URL: https://badlands.substack.com/p/badlands-news-brief-69b
 10. Badlands Brief — "Badlands News Brief: “Terrifying” Trade Alliances, Pedagogue Payouts, & A Bondi Barn Burner", URL: https://badlands.substack.com/p/badlands-news-brief-7bb
+11. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71

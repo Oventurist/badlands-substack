@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, united-nations, diplomacy, free-speech]
-sources: [raw/badlands-brief-58d.md, raw/badlands-news-brief-8ce.md]
+sources: [raw/badlands-brief-58d.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-9b2.md]
 confidence: medium
 ---
 
@@ -25,6 +25,11 @@ The episode was folded into a wider argument that international opinion is turni
 
 As Israel's ambassador to the [[united-nations|United Nations]], Danon responded to the wave of recognitions of [[palestinian-statehood|Palestinian statehood]] announced in New York on September 22, 2025 by telling reporters, "We will take action."[2] He declined to say whether that would mean, as some Israeli officials had suggested, expanded settlements or outright annexations in the territory envisioned as a Palestinian state, saying Israel's response would be announced by Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]], who was to address the UN gathering and meet that week with President [[donald-trump|Donald Trump]].[2]
 
+## Response to Abbas at the United Nations (2024)
+
+As Israel's ambassador to the United Nations, Danon responded to [[mahmoud-abbas|Mahmoud Abbas]]'s September 2024 General Assembly speech with a statement accusing the Palestinian president of speaking about a peaceful solution only when addressing the United Nations, and of failing to condemn the October 7 attack by [[hamas|Hamas]] that triggered the war in the Hamas-run Gaza Strip.[3] Badlands Media disputed that characterization, noting that Abbas had publicly criticized Hamas for failing to inform the [[palestinian-authority|Palestinian Authority]] of the planned attack and had blamed the group for the destruction that followed.[3]
+
 ## References
 1. Badlands Brief — "White Knuckling Weaponized Government", URL: https://badlands.substack.com/p/badlands-brief-58d
 2. Badlands Brief — "Palestinian Promises, Venezuelan Ventures, & Kazakh Considerations", URL: https://badlands.substack.com/p/badlands-news-brief-8ce
+3. Badlands News Brief — "Embattled Mayors, Peacemakers & Signal Setters", URL: https://badlands.substack.com/p/badlands-news-brief-9b2

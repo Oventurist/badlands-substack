@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [nvidia, ai, semiconductors, big-tech, trump]
-sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-021.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-3b2.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-021.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-ac6.md]
 confidence: medium
 ---
 
@@ -40,6 +40,10 @@ In May 2025 CEO [[jensen-huang|Jensen Huang]] said China's artificial intelligen
 
 By October 2023 Nvidia's dominance in AI accelerators had prompted its largest customers to design their own silicon. [[tesla|Tesla]], which then used Nvidia AI chips to power its vehicles, developed an in-house chip known as the D1 specifically to decrease dependency on Nvidia — a motive echoed by other technology giants including [[amazon-web-services|Amazon Web Services]] and Microsoft.[5] [[elon-musk|Elon Musk]] admitted that Tesla would have stayed with Nvidia if the chipmaker could meet Tesla's growing demands, and said the company's [[dojo-supercomputer|Dojo]] supercomputer would use both Nvidia and D1 chips going forward.[5] Glenn O'Donnell, a semiconductor researcher at Forrester, summarized the shortage driving those decisions: "Everybody who is trying to do this is complaining that they can't get enough of these chips."[5]
 
+## Target of Scion's bearish bet (November 2025)
+
+A November 2025 13F filing revealed that roughly 80% of the put positions held by [[michael-burry|Michael Burry]]'s [[scion-asset-management|Scion Asset Management]] were concentrated in Nvidia and [[palantir|Palantir]], the two leading high-flyers of the artificial-intelligence trade.[6] The disclosure followed Burry's cryptic warning on X — "Sometimes, we see bubbles" — and preceded Scion's termination of its SEC registration days later.[6] Commentary in the Badlands brief framed the wager as a bet against sky-high valuations resting on narrative rather than earnings and fundamentals.[6]
+
 ## References
 
 1. Badlands Brief — "America Has a CIA-Run Economy", URL: https://badlands.substack.com/p/america-has-a-cia-run-economy
@@ -47,3 +51,4 @@ By October 2023 Nvidia's dominance in AI accelerators had prompted its largest c
 3. Badlands Brief — "Seditious Overreactions, Billion Dollar Bailouts, & NATO-Style Guarantees", URL: https://badlands.substack.com/p/badlands-news-brief-021
 4. Badlands Brief — "Badlands News Brief: Intelligence Narratives & Seemingly Impossible Deals", URL: https://badlands.substack.com/p/badlands-news-brief-222
 5. Badlands News Brief — "Peacemakers, Fake Kennedys & Fear Mongers", URL: https://badlands.substack.com/p/badlands-news-brief-3b2
+6. Badlands Brief — "Badlands News Brief: Epsteinian Psyops, Mortgage Madness and Caribbean Chaos", URL: https://badlands.substack.com/p/badlands-news-brief-ac6

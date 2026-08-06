@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [georgia, georgian-dream, european-union, elections, sovereignty]
-sources: [raw/badlands-news-brief-576.md, raw/badlands-news-brief-6c4.md]
+sources: [raw/badlands-news-brief-576.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-a0c.md]
 confidence: medium
 ---
 
@@ -28,6 +28,11 @@ Badlands Media commentary placed Kobakhidze's position within a broader pattern 
 
 Badlands commentary in July 2024 invoked Kobakhidze's treatment by Western officials as evidence of a double standard in coverage of non-governmental organizations.[2] Writing about the [[security-service-of-ukraine|SBU]]'s claim to have foiled a coup plot organized by "NGO's known for anti-Ukrainian actions," the piece noted that the same Western establishment had castigated and, it alleged, threatened the Georgian prime minister for passing foreign-agent legislation that would expose the funding of such NGOs to the public — legislation critics credited to Russian legislative inspiration.[2]
 
+## Reported EU threat
+
+Badlands coverage in August 2024 recounted that EU officials had threatened Kobakhidze "with the same fate of [Slovakian Prime Minister] [[robert-fico|Robert Fico]]," a warning delivered roughly a week after Fico was shot five times in the chest.[3] EU official [[oliver-varhelyi|Olivér Várhelyi]] subsequently said the comments had been "taken out of context," a claim [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] dismissed as implausible.[3] The episode was cited as evidence of Western pressure on [[georgia-country|Georgia]] as its government drifted away from the EU and [[nato|NATO]] orbit.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Tracking Resignations and Treasonous Trials", URL: https://badlands.substack.com/p/badlands-news-brief-576
 2. Badlands Brief — "Trumpian Rug Pulls, Biden Whispers & NATO Panic", URL: https://badlands.substack.com/p/badlands-news-brief-6c4
+3. Badlands News Brief — "Transition Teams at Home and Abroad ...", URL: https://badlands.substack.com/p/badlands-news-brief-a0c

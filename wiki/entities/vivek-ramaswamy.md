@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [politics, tech, education, culture]
-sources: [raw/a-new-hollywood.md, raw/badlands-brief-6fd.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-53d.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7ed.md]
+sources: [raw/a-new-hollywood.md, raw/badlands-brief-6fd.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-53d.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-ac1.md, raw/badlands-news-brief-ae3.md]
 confidence: low
 ---
 
@@ -46,6 +46,14 @@ In February 2024, amid intensified scrutiny of the ages of both [[joe-biden|Joe 
 
 In January 2025, President-elect Donald Trump encouraged Ramaswamy to consider filling Ohio's vacant Senate seat should the post be offered to him, according to two people with knowledge of private deliberations.[8] Ramaswamy had publicly withdrawn his name from consideration in November 2024 after Trump chose him to lead the Department of Government Efficiency panel alongside [[elon-musk|Elon Musk]], but the Ohio native reemerged as one of the leading contenders and entered advanced discussions with GOP leaders about the position.[8] The seat became vacant when [[jd-vance|JD Vance]] resigned to serve as Trump's vice president; under Ohio law Governor [[mike-dewine|Mike DeWine]] appoints a replacement for the next two years, with a special election on November 3, 2026 deciding who serves until the term expires in 2029.[8] While the decision rested with DeWine, Trump personally appealed to Ramaswamy to accept the appointment if offered.[8] Badlands contributor Chris Paul was dismissive, characterizing Ramaswamy's qualifications as saying nice things online, attending a few rallies, and being a close friend of JD Vance and his wife.[8]
 
+## 2024 campaign withdrawal and Trump endorsement
+
+Ramaswamy dropped out of the 2024 Republican presidential race on the night of the [[2024-iowa-caucus|Iowa caucuses]] and immediately endorsed [[donald-trump|Donald Trump]], urging Republican voters to put an "America First patriot" in the White House.[9] A day later he appeared with Trump at a rally in Atkinson, New Hampshire, where Trump thanked him for the endorsement and Ramaswamy told the crowd, "There is not a better choice left in this race than this man right here. And that is why I am asking you to do the right thing as New Hampshire and to vote for Donald Trump as your next president."[9] The pairing generated the hashtag #TrumpVivek2024 among conservatives on X, who floated Ramaswamy as a running mate.[9] Badlands writer [[burning-bright|Burning Bright]] argued that although Ramaswamy appeared cozy with Trump in the public narrative, he and [[ron-desantis|Ron DeSantis]] had been intended by the narrative-setters as the future of the Uniparty — an arrangement Burning Bright described as already dead.[9]
+
+## November 2023 Miami debate
+
+At the third Republican presidential debate in Miami on November 8, 2023 — held while [[donald-trump|Donald Trump]] rallied a short drive away in Hialeah — Ramaswamy used his opening remarks to demand the resignation of [[republican-national-committee|Republican National Committee]] chairwoman [[ronna-mcdaniel|Ronna McDaniel]] instead of making the case for his own nomination, also turning his ire on the debate moderators.[10] Referring to the previous day’s off-year elections, he said, "I think there’s something deeper going on in the Republican Party here, and I am upset about what happened last night. We’ve become a party of losers at the end of the day. Is it cancer in the Republican establishment?"[10] He catalogued GOP defeats since McDaniel took over in 2017 — 2018, 2020, 2022 with "no red wave," and 2023 — and offered to yield his time if she would come onstage and resign before GOP voters.[10]
+
 ## References
 1. Badlands Brief — "A New Hollywood", URL: https://badlands.substack.com/p/a-new-hollywood
 2. Badlands Brief — "Trump Rugs the Zionists; FBI Raids the Virginia Democrats", URL: https://badlands.substack.com/p/badlands-brief-6fd
@@ -55,3 +63,5 @@ In January 2025, President-elect Donald Trump encouraged Ramaswamy to consider f
 6. Badlands Brief — "Con Inc. Introduces a New Candidate ... And Trump Was Right!", URL: https://badlands.substack.com/p/badlands-news-brief-6d6
 7. Badlands Brief — "Biden Hemorrhages Already-Nonexistent Support", URL: https://badlands.substack.com/p/badlands-news-brief-6fc
 8. Badlands Brief — "Badlands News Brief: Unlikely Ambassadors, The Ceasefire Accords, & Predatory Cartoonist", URL: https://badlands.substack.com/p/badlands-news-brief-7ed
+9. Badlands Brief — "The Media Melts Down as MAGA Rises Once More ...", URL: https://badlands.substack.com/p/badlands-news-brief-ac1
+10. Badlands Brief — "Badlands News Brief: Debates, Rallies ... and Deep State Implosions", URL: https://badlands.substack.com/p/badlands-news-brief-ae3

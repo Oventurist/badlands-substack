@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [romania, elections, georgescu, lawfare, color-revolution]
-sources: [raw/badlands-news-brief-071.md]
+sources: [raw/badlands-news-brief-071.md, raw/badlands-news-brief-97e.md]
 confidence: medium
 ---
 
@@ -24,6 +24,11 @@ Georgescu said the decision had dealt "a direct blow to the heart of democracy w
 
 [[ashe-in-america|Ashe in America]] wrote that "we've seen this movie before," joking that her only question was whether there was a Romanian equivalent of the "buffalo soldier shaman" character seen in the United States and Brazil, and arguing that the Romanian episode was "a reboot of our story" that left Americans with no standing to judge Romanian elections given the state of their own.[1] She quoted [[chris-paul|Chris Paul]], who had shared a post by [[elon-musk|Elon Musk]] and written that "elections need to be fixed at the state level," which "requires people understanding that elections are fake, seeing through the illusion of 'red states,' and ignoring the widespread effort by the Uniparty Right to support the legitimacy of our elections on the basis of Trump being declared the winner of a fake election," adding that "virtually everyone has gone back to sleep when it comes to our fake elections. It's almost as though that was the plan."[1] Ashe endorsed the assessment, argued that Americans were wasting time while Romanians ran "their insurrection cycles," and demanded immediate restoration of legitimate consent in government now that approved influencers were permitted to discuss election legitimacy.[1]
 
+## The May 2025 rerun result
+
+The rerun that followed the annulment and the exclusion of the original populist winner was won by pro-EU Bucharest mayor [[nicusor-dan|Nicusor Dan]], who defeated Eurosceptic [[george-simion|George Simion]] 54% to 46% with more than 99% of ballots counted.[2] Dan credited an "unprecedented mobilization" and pledged "the reconstruction of Romania – a united and honest Romania, founded on respect for the law."[2] Badlands writers pointed to the sequence — nullified results, a cancelled follow-up vote, the arrest of the populist winner, and then the defeat of his successor — as grounds for doubting the official tally.[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Hot Wars Wind Down. Trade & Meme Wars Heat Up.", URL: https://badlands.substack.com/p/badlands-news-brief-071
+2. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e

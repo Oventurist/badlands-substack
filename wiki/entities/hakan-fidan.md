@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [turkey, diplomacy, middle-east, foreign-minister]
-sources: [raw/badlands-brief-695.md, raw/badlands-brief-be1.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-59b.md]
+sources: [raw/badlands-brief-695.md, raw/badlands-brief-be1.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-59b.md, raw/badlands-news-brief-aae.md]
 confidence: low
 ---
 
@@ -43,6 +43,12 @@ In January 2025 Fidan said that Turkey was ready to take control of the camps ho
 
 Fidan's offer came as President [[donald-trump|Donald Trump]] publicly praised President [[recep-tayyip-erdogan|Recep Tayyip Erdogan]] and Turkey's role in Syria — a pairing that Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] read as the "good cop" half of a Trump–[[vladimir-putin|Putin]] pincer against Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]].[6]
 
+## Participation in the Trump–Sharaa White House meeting (November 2025)
+
+On Monday, November 10, 2025, Fidan met his American counterpart, Secretary of State [[marco-rubio|Marco Rubio]], at the [[white-house|White House]] and joined part of Syrian President [[ahmed-al-sharaa|Ahmed al-Sharaa]]'s landmark meeting with President [[donald-trump|Donald Trump]].[7] "At a certain point in the meeting we were invited to join," Fidan told reporters afterward, describing talks that covered Turkey's stance on Syria, potential areas of cooperation with the United States, Syria's reconstruction and unity, and regional security.[7] His participation came as part of a surprise visit to Washington, after which he also met jointly with Rubio and Syrian Foreign Minister Assad al-Shibani, as well as with Vice President [[jd-vance|J.D. Vance]], to discuss steps to advance Syria's security and economic development.[7]
+
+Turkish officials kept a tight lid on the trip, an unusual approach for a high-level visit to the US capital: on Sunday the Turkish Foreign Ministry announced it in a one-sentence statement without even specifying that Fidan would travel to Washington.[7] The low-key approach aligned with Ankara's effort to present al-Sharaa as an independent leader rather than a Turkish proxy, a strategy aimed at reassuring regional powers and encouraging broader engagement with Damascus, [[turkey|Turkey]] having emerged as Damascus' closest regional ally after the fall of the Syrian regime in December.[7] Badlands commentary noted that Fidan strongly implied Syria would likely join the [[abraham-accords|Abraham Accords]] in the near future.[7]
+
 ## References
 1. Badlands Brief — "Election Bombshells, Peace Board Bangers, & Clintons in Contempt", URL: https://badlands.substack.com/p/badlands-brief-695
 2. Badlands Brief — "The Beggar Kings Arrive Ahead of Saint Fauci's Confession", URL: https://badlands.substack.com/p/badlands-brief-be1
@@ -50,3 +56,4 @@ Fidan's offer came as President [[donald-trump|Donald Trump]] publicly praised P
 4. Badlands Brief — "Badlands News Brief: Democrats in Disarray as Globalists Bend the Knee", URL: https://badlands.substack.com/p/badlands-news-brief-099
 5. Badlands Brief — "Badlands News Brief: Weaponized Governments and Embattled Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-214
 6. Badlands News Brief — "A Song of Ice and Fire, Fraud, and Foreign Flashpoints", URL: https://badlands.substack.com/p/badlands-news-brief-59b
+7. Badlands Brief — "Badlands News Brief: Reopening Washington, Rescheduling Putin, & Revisiting De Jure", URL: https://badlands.substack.com/p/badlands-news-brief-aae

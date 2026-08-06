@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [tiktok, national-security, supreme-court, divestiture, free-speech]
-sources: [raw/badlands-news-brief-08e.md, raw/badlands-news-brief-360.md, raw/badlands-news-brief-365.md, raw/badlands-news-brief-508.md]
+sources: [raw/badlands-news-brief-08e.md, raw/badlands-news-brief-360.md, raw/badlands-news-brief-365.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-a15.md]
 confidence: medium
 ---
 
@@ -30,9 +30,18 @@ The day after passage, former Treasury Secretary [[steven-mnuchin|Steven Mnuchin
 
 On 4 April 2025 President [[donald-trump|Donald Trump]] announced an executive order granting [[bytedance|ByteDance]] 75 additional days to sell its stake in [[tiktok|TikTok]] or face the U.S. ban, writing on Truth Social that "we do not want TikTok to 'go dark.'"[4] Speaking two days later, Trump said a sale had been "pretty close" before Beijing reversed course in response to his new 54 percent tariffs on Chinese goods, and claimed that "if I gave a little cut in tariffs, they'd approve that deal in 15 minutes."[4] Reporting characterized tariffs as Trump's bargaining chip to force Chinese assent to a divestiture.[4]
 
+## House passage of the divestment bill, March 2024
+
+On March 13, 2024, the House of Representatives passed the TikTok divestment bill by a vote of 352-65-1, with fifteen Republicans and fifty Democrats opposed.[5] The measure moved to the Senate, where it already had the backing of Senate Intelligence Committee Chairman Mark Warner and Vice Chairman Marco Rubio, who said in a joint statement that they were "encouraged by today's strong bipartisan vote" and looked forward to getting the bill through the Senate and signed into law.[5] President Joe Biden indicated he would sign the legislation if Congress placed it on his desk.[5]
+
+Representative Thomas Massie opposed the bill on the House floor, calling it a possible "trojan horse" and warning of First Amendment implications, arguing that Americans have the right to view information and do not need government protection from it.[5]
+
+Badlands writer Simon Esler read the episode as the Deep State building a pretext for further systems of control, observing that the pattern is clear when people known to be abusive and power-hungry announce their intention to protect the public.[5] He also noted Donald Trump's positioning in a "grey zone," speculating in light of Trump's recent meetings with ByteDance part-owner Jeffrey Yass and with Elon Musk that Trump's media conglomerate might be circling TikTok as an acquisition target, and raising the question of what parallel operations might be underway with respect to YouTube, Instagram and Facebook.[5]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: A President's Passing & A Prime Minister's Prostate", URL: https://badlands.substack.com/p/badlands-news-brief-08e
 2. Badlands Brief — "Badlands News Brief: Ethics Complaints & COVID Comeuppance", URL: https://badlands.substack.com/p/badlands-news-brief-360
 3. Badlands Brief — "Badlands News Brief: 'You Are Watching a Movie' Intensifies ...", URL: https://badlands.substack.com/p/badlands-news-brief-365
 4. Badlands News Brief — "Treasury Triumphs, TikTok U-Turns, & Trade War Time-Outs", raw/badlands-news-brief-508.md
+5. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15

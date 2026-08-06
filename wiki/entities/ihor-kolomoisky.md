@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ukraine, oligarch, privatbank, azov-battalion, maidan, money-laundering]
-sources: [raw/badlands-brief-1ef.md, raw/badlands-brief-6f4.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-58e.md]
+sources: [raw/badlands-brief-1ef.md, raw/badlands-brief-6f4.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-a56.md]
 confidence: medium
 ---
 
@@ -39,8 +39,15 @@ Badlands writer [[burning-bright|Burning Bright]] argued in July 2024 that Kolom
 
 On July 23, 2025, the [[national-anti-corruption-bureau-of-ukraine|National Anti-Corruption Bureau of Ukraine]] announced it had completed its investigation into Kolomoiskyi over the misappropriation of UAH 9.2 billion from [[privatbank|PrivatBank]].[4] The bureau said the case was the fourth episode in the wider PrivatBank embezzlement investigation but the first to directly implicate Kolomoiskyi.[4] The probe concluded one day after Prosecutor General [[ruslan-kravchenko|Ruslan Kravchenko]] publicly criticized NABU for slow progress on Kolomoisky-related cases.[4] Badlands commentary observed that completion of the investigation meant the trials of the detained billionaire could now begin, and placed the development against the backdrop of President [[volodymyr-zelensky|Volodymyr Zelensky]]'s move to subordinate Ukraine's anti-corruption bodies to the executive.[4]
 
+## Arrest and pre-trial detention (September 2023)
+
+On Saturday, September 2, 2023, a Kyiv court ordered Kolomoisky held for 60 days in pre-trial detention while authorities investigated fraud charges against him, according to Ukrinform and other state media.[5] CNN described him as one of Ukraine's most powerful oligarchs and a key supporter of President [[volodymyr-zelensky|Volodymyr Zelensky]]'s 2019 presidential campaign, whose media and banking businesses had made him one of the richest men in the country.[5] The report noted that the U.S. [[state-department|State Department]] had previously accused him of using his "political influence and power for personal benefit" and had sanctioned him in March 2021 over alleged "corrupt acts that undermined rule of law and the Ukrainian public's faith in their government's democratic institutions and public processes."[5]
+
+[[badlands-media|Badlands Media]] commentator [[burning-bright|Burning Bright]] speculated that the case might peel back layers leading to the "REAL backers" of Kolomoisky and his operations stretching back to around 2014, when he said certain U.S. intelligence agencies became highly active in the region.[5] He tied the development to questions about whether [[donald-trump|Donald Trump]]'s "perfect phone call" with Zelensky carried more significance than researchers had assumed, and whether the Deep State had already lost one of its prized puppets.[5]
+
 ## References
 1. Badlands Brief — "Self Incrimination, Crime Magnets, & Gay Tourism", URL: https://badlands.substack.com/p/badlands-brief-1ef
 2. Badlands Brief — "Illegal Psychological Warfare Campaigns & Misprision of Treason", URL: https://badlands.substack.com/p/badlands-brief-6f4
 3. Badlands Brief — "Badlands News Brief: Change of Batter, Indeed …", URL: https://badlands.substack.com/p/badlands-news-brief-42e
 4. Badlands Brief — "Badlands News Brief: Pardon Probes & Russia Gate Redux", URL: https://badlands.substack.com/p/badlands-news-brief-58e
+5. Badlands Brief — "Badlands News Brief: Corruption Probes, Client Lists & Mud Pits", URL: https://badlands.substack.com/p/badlands-news-brief-a56

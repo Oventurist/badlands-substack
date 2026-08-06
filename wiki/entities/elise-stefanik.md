@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, united-nations, trump-administration, foreign-policy]
-sources: [raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-360.md, raw/badlands-news-brief-7b1.md]
+sources: [raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-360.md, raw/badlands-news-brief-7b1.md, raw/badlands-news-brief-a15.md]
 confidence: medium
 ---
 
@@ -26,7 +26,12 @@ Badlands contributor [[ashe-in-america|Ashe in America]] observed that both wing
 
 As chair of the House Republican Conference, Stefanik questioned the presidents of [[harvard-university|Harvard University]], the [[massachusetts-institute-of-technology|Massachusetts Institute of Technology]] and the [[university-of-pennsylvania|University of Pennsylvania]] at a December 2023 House hearing, asking whether students calling for the genocide of Jews violated their schools' codes of conduct; the presidents' evasive answers went viral and drew bipartisan condemnation.[3] Exactly one week later she authored a [[2023-house-resolution-condemning-college-presidents-response-to-antisemitism|resolution condemning campus antisemitism and that testimony]], joined as lead sponsors by Majority Leader [[steve-scalise|Steve Scalise]] and Democratic representatives [[josh-gottheimer|Josh Gottheimer]] and [[jared-moskowitz|Jared Moskowitz]]; her office said it was expected to receive a floor vote that week.[3]
 
+## Questioning of FBI Director Wray, March 2024
+
+At the House Permanent Select Committee on Intelligence's Annual Threat Assessment hearing on March 12, 2024, Stefanik, the third-ranking House Republican, pressed FBI Director Christopher Wray on whether the bureau was conducting counterintelligence investigations into President Joe Biden or former President Donald Trump.[4] She first noted that former FBI Director James Comey had testified he did not follow proper protocol in notifying Congress of the opening of Crossfire Hurricane, the 2016 counterintelligence investigation into Trump, and cited the Intelligence Authorization Act, which directs the FBI to inform congressional leadership of any counterintelligence investigation into a federal candidate for office.[4] When Wray, after a long pause, tried to refer her to Special Counsel Robert Hur, Stefanik demanded a direct answer, prompting his reply that "there is no investigation that I could confirm here, no."[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Storm Shadows and the Contours of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-1f2
 2. Badlands Brief — "Badlands News Brief: Ethics Complaints & COVID Comeuppance", URL: https://badlands.substack.com/p/badlands-news-brief-360
 3. Badlands Brief — "Badlands News Brief: A Proxy President Manages His Proxy Wars", URL: https://badlands.substack.com/p/badlands-news-brief-7b1
+4. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15

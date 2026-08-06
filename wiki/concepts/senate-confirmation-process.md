@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [us-senate, nominations, cloture, trump-administration]
-sources: [raw/badlands-news-brief-426.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-7ed.md]
+sources: [raw/badlands-news-brief-426.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-9cd.md, raw/badlands-news-brief-a50.md]
 confidence: high
 ---
 
@@ -42,7 +42,20 @@ The January 2025 round of confirmation hearings for Donald Trump's second-term c
 
 A parallel controversy concerned Democratic questioning about whether Donald Trump "lost" the 2020 election.[3] The Federalist argued that the query includes an undefined term — "lost" — carrying different meanings for Trump supporters and for anti-Trump questioners: if "lost" merely meant that Joe Biden became president, the answer is straightforward, and nominee Pam Bondi repeatedly and expressly attested that Biden is the president of the United States.[3] What senators such as Dick Durbin and Richard Blumenthal sought, the argument ran, was a concession that Trump's election challenges were frivolous, unfounded, or wrong, a meaning Democrats inject into the word "lost" — as the legacy media had earlier done in hounding then-Senator [[jd-vance|J.D. Vance]].[3]
 
+## January 2025 confirmation backlog
+
+At the start of the 119th Congress, Republican sources on Capitol Hill warned that President-elect [[donald-trump|Trump]]'s nominees might be delayed by paperwork holdups and the slow start of FBI background checks, creating obstacles for speedy confirmation of his national security team.[4] Senate Republican leaders had urged colleagues to move quickly in the wake of the suspected [[new-orleans-bourbon-street-attack|New Orleans terror attack]] on New Year's Day, but those pleas ran up against procedural thickets in a chamber where even routine business can take days or weeks.[4] As of that Thursday evening, only [[pete-hegseth|Pete Hegseth]], the Defense Department nominee, had a confirmation hearing date announced, for January 14.[4] Other nominees — including two of Trump's most controversial picks, [[tulsi-gabbard|Tulsi Gabbard]] for director of national intelligence and [[kash-patel|Kash Patel]] for FBI director — remained in limbo, with Senate Republican aides and strategists saying Gabbard's nomination faced a rocky road in the upper chamber.[4]
+
+[[ashe-in-america|Ashe in America]] wrote that the [[united-states-senate|Senate]] would be sharply in focus over the following months as confirmation hearings and judicial appointments shaped Trump's first 100 days, noting that [[adam-schiff|Adam Schiff]] (D-CA) had moved to the Senate, making the period "basically eight years ago, but sillier and in the upper chamber."[4]
+
+## Status of Trump's Cabinet nominees, January 30, 2025
+
+[[robert-f-kennedy-jr|Robert F. Kennedy Jr.]], [[tulsi-gabbard|Tulsi Gabbard]] and [[kash-patel|Kash Patel]] all testified before Senate committees on Capitol Hill on Thursday, 30 January 2025, as urgency built to confirm President [[donald-trump|Donald Trump]]'s Cabinet nominations.[5] [[elise-stefanik|Elise Stefanik]], the nominee for United Nations ambassador, had testified before the Foreign Relations Committee the previous week, and the committee voted to advance her nomination to the Senate floor on Thursday.[5] Majority Leader John Thune moved to end Senate deliberations for Energy Secretary nominee Chris Wright and Veterans Affairs Secretary nominee Doug Collins, both of whom awaited a procedural vote ahead of confirmation, while Interior nominee Doug Burgum passed the cloture vote on Wednesday and awaited his confirmation vote.[5] As of that Thursday the Senate had confirmed seven of Trump's Cabinet nominations, including Secretary of State [[marco-rubio|Marco Rubio]], CIA Director [[john-ratcliffe|John Ratcliffe]], Defense Secretary [[pete-hegseth|Pete Hegseth]], Homeland Security Secretary [[kristi-noem|Kristi Noem]], Treasury Secretary [[scott-bessent|Scott Bessent]], Transportation Secretary [[sean-duffy|Sean Duffy]] and EPA Administrator [[lee-zeldin|Lee Zeldin]].[5]
+
+Badlands commentary characterized nine hours of hearings that Thursday as establishment senators panicking at the prospect of losing their secrecy, arguing that the eventual votes would be telling for Senate Republicans who were "overexposed in their defense of powerful lobbyists and the unaccountable surveillance state."[5] A dissenting Badlands contributor dismissed the entire spectacle as "political theater," arguing that elections are fake and that Congress was groveling over votes to confirm nominees to what he called unconstitutional agencies that ought to be disbanded.[5]
 ## References
 1. Badlands Brief — "The Fantasy Team & The Gaza Purchase", URL: https://badlands.substack.com/p/badlands-news-brief-426
 2. Badlands News Brief — "Strategy & Micro Protests", URL: https://badlands.substack.com/p/badlands-news-brief-71c
 3. Badlands Brief — "Badlands News Brief: Unlikely Ambassadors, The Ceasefire Accords, & Predatory Cartoonist", URL: https://badlands.substack.com/p/badlands-news-brief-7ed
+4. Badlands Brief — "Badlands News Brief: Energy Elevates Collaboration as the Senate Steals Centerstage", URL: https://badlands.substack.com/p/badlands-news-brief-9cd
+5. Badlands Brief — "Badlands News Brief: Bicameral Puppets & Dark Money Muppets", URL: https://badlands.substack.com/p/badlands-news-brief-a50

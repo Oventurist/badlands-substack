@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [elections, voting-machines, colorado, election-integrity]
-sources: [raw/badlands-brief-174.md, raw/badlands-brief-25c.md, raw/badlands-brief-b34.md, raw/badlands-news-brief-001.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-8fd.md]
+sources: [raw/badlands-brief-174.md, raw/badlands-brief-25c.md, raw/badlands-brief-b34.md, raw/badlands-news-brief-001.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-aed.md]
 confidence: medium
 ---
 
@@ -54,6 +54,12 @@ In November 2025, President [[donald-trump|Donald Trump]] appeared on Truth Soci
 
 In June 2025 a jury found that Mike Lindell had defamed a former Dominion Voting Systems employee by accusing him of treason, awarding $2.3 million in damages.[9] The verdict was among the legal disputes still hanging over Lindell as he filed paperwork signaling a possible run for governor of Minnesota.[9]
 
+## Nationwide voter assist terminal issue (October 2024)
+
+Ahead of the November 2024 general election, Michigan Secretary of State [[jocelyn-benson|Jocelyn Benson]] publicly acknowledged that Dominion ICX Voter Assist Terminals suffered from a programming defect affecting straight-party voting, describing it as "a nationwide issue with Dominion voter access terminals" in the counties that use them.[10] Only the accessible machines, used primarily by voters with disabilities to mark and print ballots for tabulation, were said to be affected.[10] Voters using such a terminal in Michigan had to either vote straight-ticket or manually split their ballot, losing the usual ability to select a straight party option and then override it for individual races.[10]
+
+Badlands writer [[ashe-in-america|Ashe in America]] argued the admission matched vote-swapping allegations in ballot-marking-device states, where selections made on accessible tablets reportedly printed incorrectly — behavior previously attributed to human error.[10] Separately, the Colorado Secretary of State's office improperly posted a spreadsheet containing partial BIOS passwords for state voting equipment, an exposure affecting both Dominion and [[clear-ballot|Clear Ballot]] devices, with explanations from Secretary of State [[jena-griswold|Jena Griswold]] contradicted by her own staff's sworn testimony.[10]
+
 ## References
 1. Badlands Brief — "Conflicts, Cartels, & Clemency", URL: https://badlands.substack.com/p/badlands-brief-174
 2. Badlands Brief — "Elections are Fake; as is Trump's Friendship with Bibi", URL: https://badlands.substack.com/p/badlands-brief-25c
@@ -64,3 +70,4 @@ In June 2025 a jury found that Mike Lindell had defamed a former Dominion Voting
 7. Badlands Brief — "Badlands News Brief: Contempt, Combat Tactics and Cuts?", URL: https://badlands.substack.com/p/badlands-news-brief-70a
 8. Badlands Brief — "Badlands News Brief: Saudi Scoops, Slender Stabbers, & Scorned Scouts", URL: https://badlands.substack.com/p/badlands-news-brief-824
 9. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
+10. Badlands Brief — "Badlands News Brief: The Garbage Man Cometh to Take out the Trash", URL: https://badlands.substack.com/p/badlands-news-brief-aed

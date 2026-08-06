@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [welfare, food-policy, public-health, federal-programs]
-sources: [raw/badlands-news-brief-03a.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-817.md]
+sources: [raw/badlands-news-brief-03a.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-a31.md]
 confidence: medium
 ---
 
@@ -40,8 +40,15 @@ The administration had previously argued that tapping the SNAP contingency fund 
 
 Following the deal that ended the [[october-2025-government-shutdown|record-long government shutdown]], the Trump administration said millions of low-income Americans should receive full food aid benefits within a day of President [[donald-trump|Donald Trump]] signing the measure into law.[4] Once the government reopened, most states would receive the funds to distribute benefits "within 24 hours," USDA spokesperson Alec Varsamis said in a statement on Wednesday, November 12, 2025.[4] The deal restored SNAP, the nation's largest anti-hunger initiative, to its original spending levels, a relief for the nearly 42 million people who had experienced major disruptions to their typical monthly benefits during the lapse.[4] Reporting at the time nonetheless cautioned that the timing of full benefit delivery would vary by state.[4]
 
+## Junk food waivers (August 2025)
+
+In August 2025, six additional states received federal waivers allowing them to bar soda, candy and other high-sugar junk foods from being purchased with SNAP benefits, a development hailed as a win for [[make-america-healthy-again|Make America Healthy Again]] advocates.[5] The waivers, which amend the statutory definition of food eligible for purchase under the federally funded but state-operated program, went to West Virginia, Florida, Colorado, Louisiana, Oklahoma and Texas, with the new restrictions due to take effect in 2026.[5]
+
+The six waivers brought to twelve the number of states that had sought to restrict SNAP junk-food purchases; the others — Nebraska, Iowa, Indiana, Arkansas, Idaho and Utah — had received waivers from the Trump administration earlier in the year.[5] Badlands commentator [[canncon|CannCon]] summarized the policy as "You can still get soda...you just have to use YOUR money!"[5]
+
 ## References
 1. Badlands Brief — "SCOTUS and Subsidies, Banker Bonuses, and Six More Years of Lindsay Graham", URL: https://badlands.substack.com/p/badlands-news-brief-03a
 2. Badlands Brief — "Badlands News Brief: Overexposed Engagement Farmers & Maple-Flavored Monarchs", URL: https://badlands.substack.com/p/badlands-news-brief-42b
 3. Badlands Brief — "Badlands News Brief: Victim Cards, Foreign Inference, & Chessboard Stans", URL: https://badlands.substack.com/p/badlands-news-brief-448
 4. Badlands Brief — "Badlands News Brief: MAGA Cracks, Fund Funnels, & Devilish Bees", URL: https://badlands.substack.com/p/badlands-news-brief-817
+5. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [watchdog, foia, litigation, clinton-administration]
-sources: [raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/badlands-brief-a20.md, raw/badlands-brief-abf.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-355.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-93d.md]
+sources: [raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/badlands-brief-a20.md, raw/badlands-brief-abf.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-355.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a3c.md]
 confidence: medium
 ---
 
@@ -52,7 +52,20 @@ Judicial Watch brought the Georgia Open Records Act lawsuit that produced an Aug
 
 In June 2023 Judicial Watch president [[tom-fitton|Tom Fitton]] publicly accused the administration of [[joe-biden|Joe Biden]] of violating the [[us-flag-code|United States Flag Code]] by centering a rainbow Pride flag between two American flags at a [[white-house|White House]] Pride Month display, saying the arrangement disrespected "every American service member buried under its colors."[9]
 
+## Role in the 2024 Deportation Debate
+
+The group's president, [[tom-fitton|Tom Fitton]], wrote on Truth Social in November 2024 that [[donald-trump|Donald Trump]] was prepared to declare a national emergency and use military assets to carry out mass deportations; Trump amplified the post with the caption "TRUE!!", effectively confirming the approach.[10]
+
+## Secret Service FOIA denials on the Trump assassination attempt (2024)
+
+Judicial Watch announced that the [[united-states-secret-service|United States Secret Service]] had completely denied multiple Freedom of Information Act requests for documents about the July 13, 2024 assassination attempt on former President [[donald-trump|Donald Trump]].[11] On July 16, 2024, the group filed three comprehensive FOIA requests seeking emails, videos, and advance survey security assessments, among other records.[11] The Secret Service refused to produce a single record, citing Title 5 U.S.C. § 552(b)(7)(A) on the grounds that any potentially responsive records, if they existed, were exempt because disclosure could reasonably be expected to interfere with enforcement proceedings, while noting that the cited exemption was not necessarily the only one available.[11]
+
+Judicial Watch said it was pursuing the next steps in preparation for litigation, and reported having more than 25 FOIA and open-records requests pending on the Trump shooting with the Biden administration and with local and state officials and agencies in Pennsylvania.[11] President [[tom-fitton|Tom Fitton]] said, "The Biden Secret Service is in cover-up mode on its inexcusable and epic failure to protect former President Trump and other innocents," adding that promising transparency to [[congress|Congress]] while hiding every possible FOIA record from the American people was "yet another indictment of this corrupt and failing agency."[11]
+
+[[ashe-in-america|Ashe in America]] praised Judicial Watch for taking on the fight but offered a reality check: the matter was a genuinely ongoing investigation less than a month old, and although the administration appeared to be engaged in a coverup — evidenced by non-responsive testimony across more than four public hearings and a failure to comply with congressional subpoenas — it had legal cover for withholding records from a private entity.[11] She argued that answers would have to come from Congress exercising its full authority in both chambers, describing the dispute as a potential graduate-level examination of the separation of powers.[11]
+
 ## References
+
 1. Badlands Brief — "America for Sale - Part 1", URL: https://badlands.substack.com/p/america-for-sale-part-1
 2. Badlands Brief — "America for Sale - Part 2", URL: https://badlands.substack.com/p/america-for-sale-part-2
 3. Badlands Brief — "Prosecutions for Democracy & Double-Hatted Peace Panelists", URL: https://badlands.substack.com/p/badlands-brief-a20
@@ -62,3 +75,5 @@ In June 2023 Judicial Watch president [[tom-fitton|Tom Fitton]] publicly accused
 7. Badlands Brief — "Mushroom Zombies, Palantir, & Election DAY", URL: https://badlands.substack.com/p/badlands-news-brief-355
 8. Badlands News Brief — "'Heroic' Nazis & Unexpectedly Flaccid Orgy Dome", URL: https://badlands.substack.com/p/badlands-news-brief-3d2
 9. Badlands Brief — "Badlands News Brief: Trump Trolls, Soros Slithers & Flags Fly", URL: https://badlands.substack.com/p/badlands-news-brief-93d
+10. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6
+11. Badlands Brief — "Badlands News Brief: Escalation, Litigation & Sovereign Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a3c

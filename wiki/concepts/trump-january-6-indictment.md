@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [jack-smith, january-6, 2020-election, lawfare, indictment]
-sources: [raw/badlands-news-brief-07f.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-88b.md]
+sources: [raw/badlands-news-brief-07f.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-a0c.md, raw/badlands-news-brief-a89.md]
 confidence: medium
 ---
 
@@ -64,6 +64,16 @@ On December 13, 2023, U.S. District Judge Tanya Chutkan largely granted Donald T
 
 Later that Wednesday evening, the D.C. Circuit issued an unsigned order fast-tracking its review and setting a briefing schedule for Trump and special counsel Jack Smith; arguments, not yet scheduled at the time, were to be heard by Judges Karen Henderson, Michelle Childs and Florence Pan.[6] Trump had been charged in August 2023 with four counts, including conspiracy to defraud the United States, over an alleged scheme to resist the peaceful transfer of power after the 2020 election, and had pleaded not guilty and denied wrongdoing.[6]
 
+## Contempt motion against the special counsel (January 2024)
+
+On Thursday, January 4, 2024, Trump's legal team told the federal judge that special counsel [[jack-smith|Jack Smith]] and prosecutors in his office should be severely sanctioned and possibly held in contempt for continuing to submit filings in the case after Judge [[tanya-chutkan|Tanya Chutkan]] issued her stay order.[9] Chutkan, overseeing the Washington, D.C. election subversion case, had stayed the proceedings after Trump appealed her ruling rejecting his claim that presidential immunity shielded him from prosecution.[9] "The Stay Order is clear, straightforward, and unambiguous. All substantive proceedings in this Court are halted," Trump's attorneys wrote, adding that "despite this clarity, the prosecutors began violating the Stay almost immediately."[9]
+
+## Superseding indictment (August 2024)
+
+On 27 August 2024 special counsel [[jack-smith|Jack Smith]] filed a superseding indictment in the election interference case against [[donald-trump|Donald Trump]], slimming down the allegations against the 2024 presidential nominee in light of the Supreme Court's immunity ruling.[8] Prosecutors did not drop any of the four charges originally brought, but the retooled indictment carved out some of Trump's alleged conduct, including allegations about attempts to use the Justice Department to promote his claims of election fraud, and adjusted how prosecutors described the remaining election subversion allegations.[8]
+
+The special counsel's office said the superseding indictment, "which was presented to a new grand jury that had not previously heard evidence in this case, reflects the Government's efforts to respect and implement the Supreme Court's holdings and remand instructions in [[trump-v-united-states|Trump v. United States]]."[8] The replacement indictment thrust the question of Trump's effort to overturn the 2020 election back into the final months of the 2024 campaign, at a time when his legal and political narratives had merged through his claims that he was the victim of a conspiracy by the [[joe-biden|Biden]] administration to weaponise justice against him.[8]
+
 ## References
 1. Badlands News Brief — "Trump's Trial, Archer's Animus & BRICS' Battle", URL: https://badlands.substack.com/p/badlands-news-brief-07f
 2. Badlands Brief — "Badlands News Brief: Trump Surges, COVID Flags & Ukraine Slips", URL: https://badlands.substack.com/p/badlands-news-brief-0ec
@@ -72,3 +82,5 @@ Later that Wednesday evening, the D.C. Circuit issued an unsigned order fast-tra
 5. Badlands Brief — "Badlands News Brief: The Trump Card ...", URL: https://badlands.substack.com/p/badlands-news-brief-3b0
 6. Badlands Media — "Badlands News Brief: The Biden Crime Family Begins to Unravel ...", URL: https://badlands.substack.com/p/badlands-news-brief-505
 7. Badlands News Brief — "The Trump Hunt & the Biden Blitz", URL: https://badlands.substack.com/p/badlands-news-brief-88b
+8. Badlands News Brief — "Transition Teams at Home and Abroad ...", URL: https://badlands.substack.com/p/badlands-news-brief-a0c
+9. Badlands News Brief — "Epstein Fallout Continues as the Biden Admin Implodes", URL: https://badlands.substack.com/p/badlands-news-brief-a89

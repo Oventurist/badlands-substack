@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [pentagon, military, combatant-commands, latin-america]
-sources: [raw/badlands-news-brief-763.md]
+sources: [raw/badlands-news-brief-763.md, raw/badlands-news-brief-a15.md]
 confidence: medium
 ---
 
@@ -18,6 +18,13 @@ Under the [[pentagon|Pentagon]] overhaul drafted in December 2025 and driven by 
 
 Badlands commentary read the emergent two-pole structure — one international, one domestic — as evidence that the US military will increasingly be directed at homeland defence and at cartels operating in the hemisphere.[1]
 
+## Marine deployment to Haiti, March 2024
+
+On Wednesday, March 13, 2024, SOUTHCOM announced that at the request of the State Department the elite Marine Fleet Anti-terrorism Security Team had been deployed to Haiti to bolster security at the US embassy in Port-au-Prince, where armed gangs had seized much of the capital following Prime Minister Ariel Henry's resignation.[2] The command stated that "U.S. Southern Command is prepared with a wide range of contingency plans to ensure the safety and security of U.S. Citizens in Haiti," and indicated the FAST element would both reinforce the existing Marine embassy guard against a possible attack and assist in evacuating non-essential American personnel.[2]
+
+In the same statement the command noted that the Department of Defense had that week doubled funding for the Multinational Security Support mission and was working with Haitian, Kenyan and other partners to expedite its deployment in support of the Haitian National Police.[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: The Ice Maiden, A Command Overhaul, & A Thrice Jewish President", URL: https://badlands.substack.com/p/badlands-news-brief-763
+2. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15

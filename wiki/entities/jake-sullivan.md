@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [foreign-policy, iran-deal, biden, clinton, deep-state]
-sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-860.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-acf.md]
 confidence: medium
 ---
 
@@ -74,6 +74,14 @@ Sullivan responded in conciliatory terms, remarking that "it is rare that we hav
 
 During a call in early October 2024, Sullivan told Israel's minister for strategic affairs [[ron-dermer|Ron Dermer]] that the United States expected "clarity and transparency" from Israel about its plans to retaliate against Iran, because those plans carried implications for U.S. forces and interests in the region.[11] The exchange came as four U.S. officials described a deepening trust crisis, one saying, "Our trust of the Israelis is very low right now and for a good reason."[11] Sullivan was also scheduled to meet Israeli Defense Minister [[yoav-gallant|Yoav Gallant]] in Washington on October 9, a trip cancelled at [[benjamin-netanyahu|Benjamin Netanyahu]]'s direction.[11] Badlands contributor GhostofBasedPatrickHenry characterized Sullivan as "present but forgotten because nobody respects him," part of an argument that the White House was sidelined in Israeli decision-making.[11]
 
+## Calls for testimony (May 2025)
+
+Badlands commentary in May 2025 listed Sullivan among the senior [[joe-biden|Biden]] officials — alongside [[jill-biden|Jill Biden]], the chief of staff, the cabinet and [[karine-jean-pierre|Karine Jean-Pierre]] — who should be questioned under oath about the [[autopen-scandal|autopen]] and the exercise of presidential authority.[12]
+
+## US–China military communications (2023)
+
+Ahead of the [[2023-biden-xi-san-francisco-summit|2023 Biden–Xi San Francisco summit]], Sullivan announced on Sunday, November 12, 2023 that President [[joe-biden|Joe Biden]] would ask Chinese President [[xi-jinping|Xi Jinping]] that Wednesday to restore military-to-military contacts severed by Beijing the previous year.[13] Sullivan said securing Chinese agreement "has been a priority for President Biden," who "believes that having military-to-military communication is necessary to manage competition responsibly, and to ensure that competition does not turn into conflict," adding that regular contacts help avoid "mistakes or miscalculations or miscommunication."[13] The request followed China's June 2023 rebuff of a similar approach by Secretary of State [[antony-blinken|Antony Blinken]], and came after Beijing formally cut regular armed forces contacts in August 2022 over then-Speaker [[nancy-pelosi|Nancy Pelosi]]'s visit to Taiwan.[13]
+
 ## References
 
 1. Badlands Brief — "And Iran, Iran So Far Away", URL: https://badlands.substack.com/p/and-iran-iran-so-far-away
@@ -87,3 +95,5 @@ During a call in early October 2024, Sullivan told Israel's minister for strateg
 9. Badlands Brief — "Badlands News Brief: Trump 2024 Has the Deep State a Little Testy …", URL: https://badlands.substack.com/p/badlands-news-brief-810
 10. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889
 11. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
+12. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
+13. Badlands Brief — "Badlands News Brief: China Joe Takes the Stage as Trump's Power Grows", URL: https://badlands.substack.com/p/badlands-news-brief-acf

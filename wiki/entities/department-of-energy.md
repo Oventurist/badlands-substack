@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [energy, nuclear, trump-administration, federal-agency]
-sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-7ce.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8ae.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-7ce.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-9b2.md]
 confidence: medium
 ---
 
@@ -40,9 +40,14 @@ The program is aimed at helping the United States achieve top capabilities in AI
 
 Badlands commentator [[burning-bright|Burning Bright]] read the announcement as a timed disclosure connected to [[operation-warp-speed|Operation Warp Speed]], "The Switch" theory, and the Q drops, noting that the reference to seventeen national laboratories was potentially a Q communication.[5]
 
+## Small modular reactors and AI power demand (2024)
+
+In September 2024, Energy Secretary [[jennifer-granholm|Jennifer Granholm]] used a CNBC appearance to indicate that [[small-modular-reactor|small modular reactors]] were all but confirmed as a future power source for data centers, responding to questions about how the electricity demands of generative artificial intelligence would be met.[6] The exchange referenced the prospect of bringing a reactor at [[three-mile-island-nuclear-power-plant|Three Mile Island]] back online and recommissioning other nuclear sites, with national power needs potentially 20% higher within a few years.[6] Badlands Media characterized the department's posture as a sharp pivot away from the wind-and-solar rhetoric of the Green New Deal era toward nuclear generation.[6]
+
 ## References
 1. Badlands Brief — "A Virtual Smash & Grab & Another Impeachment Hoax", URL: https://badlands.substack.com/p/badlands-brief-0a2
 2. Badlands Brief — "Peaceful Retaliations, Futuristic Fusions and Based Puritans", URL: https://badlands.substack.com/p/badlands-brief-bb1
 3. Badlands Brief — "The Star Spangled Banner, Bureaucrat Bleach Bit, & an Unknown Balance of Bullion", URL: https://badlands.substack.com/p/badlands-news-brief-7ce
 4. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
 5. Badlands Media — "Badlands News Brief: Vance Takes the Stage as Biden Takes the Basement", URL: https://badlands.substack.com/p/badlands-news-brief-8ae
+6. Badlands News Brief — "Embattled Mayors, Peacemakers & Signal Setters", URL: https://badlands.substack.com/p/badlands-news-brief-9b2

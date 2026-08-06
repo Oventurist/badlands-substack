@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, diplomacy, foreign-ministry, iran-war]
-sources: [raw/badlands-brief-e3f.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-808.md]
+sources: [raw/badlands-brief-e3f.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-ac8.md]
 confidence: medium
 ---
 
@@ -53,6 +53,14 @@ In April 2024, Zakharova said that [[russia|Russia]] did not feel obliged to con
 
 Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] highlighted the exchange as an example of the contradictions he treats as signals in the information war, noting that Zakharova also pointed out that the Israeli government regularly issues statements supporting actions by Ukrainian President Volodymyr Zelensky, which he framed as evidence of an odd dynamic between the two nations.[8]
 
+## Istanbul embassy talks (February 2025)
+
+As Russian Foreign Ministry spokeswoman, Zakharova said that the February 2025 discussions between Russian and U.S. officials in Istanbul were expected to be the first in a series of meetings aimed at easing tensions and resolving long-standing diplomatic disputes.[9] The six-hour meeting, held at the U.S. consul general's gated residence in [[turkey|Turkey]], focused on restoring the normal functioning of the two countries' embassies, addressing staffing levels, visas, and banking.[9]
+
+## Nord Stream evidence claim (October 2024)
+
+In October 2024, Zakharova stated that Russia had proof of United States and United Kingdom involvement in the [[nord-stream-sabotage|sabotage of the Nord Stream pipelines]], answering a question about data obtained by the Russian Foreign Intelligence Service (SVR).[10] "This evidence exists," she said, adding that whether Moscow published it — a decision that would itself reveal what kind of evidence it was — would depend on how the situation around the investigation unfolded.[10] She complained that Russia had repeatedly offered cooperation publicly and through law enforcement legal channels and received "zero response," singling out Germany as a state that ought to want to exchange materials, while describing the positions of Denmark and Sweden as long settled.[10] Zakharova further said Russia had been ready — indeed had insisted — to present its material within a United Nations-aegis investigation, but that the West blocked the initiative, leaving Moscow to pursue a national investigation whose evidence base officials such as SVR Director Sergey Naryshkin had referenced.[10]
+
 ## References
 1. Badlands Brief — "Blondie's Ouster, Peters Sentence, & Several Foreign Ops", URL: https://badlands.substack.com/p/badlands-brief-e3f
 2. Badlands Brief — "Badlands News Brief: A Splintered Establishment & Tension Tightropes", URL: https://badlands.substack.com/p/badlands-news-brief-116
@@ -62,3 +70,5 @@ Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] highlighte
 6. Badlands Brief — "Badlands News Brief: Escalation is the Name of the Game", URL: https://badlands.substack.com/p/badlands-news-brief-73f
 7. Badlands Brief — "Badlands News Brief: Pardon Me ... No, But Seriously. PLEASE Pardon Me.", URL: https://badlands.substack.com/p/badlands-news-brief-757
 8. Badlands News Brief — "Iranian Walk-backs, Trump Trials & Trans Truths", URL: https://badlands.substack.com/p/badlands-news-brief-808
+9. Badlands Brief — "Badlands News Brief: Rug Pulled Reputations, Insubordination, & the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-a65
+10. Badlands Brief — "Storms both Real and Political Converge in October", URL: https://badlands.substack.com/p/badlands-news-brief-ac8

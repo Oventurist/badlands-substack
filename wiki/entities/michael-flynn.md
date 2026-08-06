@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military, cbdc, intelligence, national-security]
-sources: [raw/are-we-entering-the-millennial-reign.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-579.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-824.md]
+sources: [raw/are-we-entering-the-millennial-reign.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-579.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-af7.md]
 confidence: low
 ---
 
@@ -72,6 +72,14 @@ In an early March 2025 appearance on Real America's Voice with Eric Bolling, Fly
 
 Responding on X to the [[seditious-six-video|"Seditious Six" video]] in November 2025, Flynn resurfaced the May 2017 [[higgins-memo|Higgins memo]], noting that its author Rich Higgins had warned that the administration was "suffering under withering information campaigns designed to first undermine, then delegitimize and ultimately remove" the president, and that [[donald-trump|Donald Trump]] — who read the memo at the time — "needs to read it again."[12] Flynn's conclusion was that "very little has changed and this is still not 'politics as usual,'" describing the environment as "a form of 'political warfare'" and asserting that the country is "clearly in the midst of a color revolution."[12]
 
+## Malicious prosecution lawsuit against the DOJ and FBI (2023)
+
+On March 3, 2023, Flynn filed a lawsuit in the U.S. District Court for the Middle District of Florida against the [[department-of-justice|Department of Justice]], the [[fbi|FBI]] and others, alleging that he had been maliciously prosecuted and demanding at least $50 million in compensation.[13] The complaint states that the defendant "maliciously investigated and prosecuted General Flynn by initiating and continuing a baseless counterintelligence investigation and by filing a criminal information lacking probable cause."[13]
+
+Coverage recounted that Flynn, a former head of the [[defense-intelligence-agency|Defense Intelligence Agency]] under the Obama administration and later national security adviser to President [[donald-trump|Donald Trump]], was investigated by the FBI beginning in August 2016 over supposed ties to Russia, and was charged in 2017 with lying to the FBI during an interview earlier that year.[13] The suit alleges that the FBI, and subsequently prosecutors from the office of special counsel [[robert-mueller|Robert Mueller]], investigated and prosecuted him for political reasons because they considered him a threat.[13]
+
+Badlands contributor [[justin-deschamps|Justin Deschamps]] argued that because the truth about [[russiagate-hoax|Russiagate]] had been exposed — namely that the use of FISA powers and other official investigative bodies against Flynn had no basis in fact or process — damages could now be pursued.[13] He judged that $50 million was unlikely to have any major impact on the intelligence community Flynn had pledged to reform, but that a court ruling validating Flynn's claims against the intelligence apparatus would itself be a major victory and would allow the [[fifth-generation-warfare|fifth-generation war]] against the [[deep-state|Deep State]] and globalists to advance public understanding of institutional corruption.[13] Deschamps added that an unfavourable outcome would not cripple those forces either, and would instead constitute a further display of corruption that fosters the disillusionment he considered necessary to erode public support for the system.[13]
+
 ## References
 1. Badlands Brief — "Are We Entering the Millennial Reign?", URL: https://badlands.substack.com/p/are-we-entering-the-millennial-reign
 2. Badlands News Brief — "The Walz Cycle Consumes Itself as Tensions Pause", URL: https://badlands.substack.com/p/badlands-news-brief-0ad
@@ -85,3 +93,4 @@ Responding on X to the [[seditious-six-video|"Seditious Six" video]] in November
 10. Badlands Brief — "Afghanis Activate, Witch Hunts End, & Hitler Launches Re-Election Campaign", URL: https://badlands.substack.com/p/badlands-news-brief-747
 11. Badlands Brief — "Badlands News Brief: “Terrifying” Trade Alliances, Pedagogue Payouts, & A Bondi Barn Burner", URL: https://badlands.substack.com/p/badlands-news-brief-7bb
 12. Badlands Brief — "Badlands News Brief: Saudi Scoops, Slender Stabbers, & Scorned Scouts", URL: https://badlands.substack.com/p/badlands-news-brief-824
+13. Badlands News Brief — "Trump on Wuhan, Flynn Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-af7

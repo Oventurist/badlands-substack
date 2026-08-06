@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, finance, bank-failure, 2023, systemic-risk]
-sources: [raw/badlands-news-brief-138.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-38f.md]
+sources: [raw/badlands-news-brief-138.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-38f.md, raw/badlands-news-brief-9e8.md]
 confidence: medium
 ---
 
@@ -42,9 +42,14 @@ On Sunday, March 12, Treasury Secretary [[janet-yellen|Janet Yellen]] appeared o
 
 Badlands commentary on the episode was divided over intent. [[justin-deschamps|Justin Deschamps]] argued the failure could trigger a collapse on the order of 2008 or 1929 and might have been an orchestrated implosion producing economic contagion, pointing to share sales by chief executive [[gregory-becker|Gregory Becker]] and two other SVB executives before the collapse, bonuses paid out before the seizure, and a [[bloomberg|Bloomberg]] report that [[jpmorgan-chase|JP Morgan]] had warned some SVB customers to move their funds on asset-safety grounds.[5] He characterised the result as an industry-driven bank run mounted by Silicon Valley venture capitalists, and suggested the eventual "bailout" could take the form of a move to [[central-bank-digital-currency|central bank digital currencies]].[5] Contributor [[burning-bright|Burning Bright]], by contrast, read [[peter-thiel|Peter Thiel]]'s withdrawals as evidence against a planned demolition of the banking system by entrenched interests.[5]
 
+## Trigger of the March 2023 Banking Crisis
+
+ZeroHedge described SVB as the first of many banks to fail when the Federal Reserve's tightening cycle ended "in disaster" in March 2023, triggering a chain of dominoes that culminated in the collapse of [[credit-suisse|Credit Suisse]] and its emergency sale to [[ubs|UBS]].[6] The cascade prompted the [[federal-reserve|Federal Reserve]] to announce coordinated daily U.S. dollar swap lines with all major central banks on March 19, 2023.[6]
+
 ## References
 1. Badlands News Brief — "Drones, Speeches ... and a Swiss Bank", URL: https://badlands.substack.com/p/badlands-news-brief-138
 2. Badlands News Brief — "More Banks! And Some Weird Stuff, Too ...", URL: https://badlands.substack.com/p/badlands-news-brief-1e0
 3. Badlands Brief — "Badlands News Brief: IC Ignitions & Double Detonations", URL: https://badlands.substack.com/p/badlands-news-brief-1a0
 4. Badlands Brief — "Badlands News Brief: So-Called Journalists & Trump's Demise?", URL: https://badlands.substack.com/p/badlands-news-brief-25e
 5. Badlands Brief — "BANKS BANKS BANKS!", URL: https://badlands.substack.com/p/badlands-news-brief-38f
+6. Badlands Brief — "Badlands News Brief: Trump Arrest ... Panic or No Panic?", URL: https://badlands.substack.com/p/badlands-news-brief-9e8

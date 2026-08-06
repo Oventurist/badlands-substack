@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [european-union, trade, tariffs, greenland, transatlantic]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-a84.md, raw/badlands-brief-b62.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-951.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-a84.md, raw/badlands-brief-b62.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-a38.md]
 confidence: medium
 ---
 
@@ -140,6 +140,10 @@ In December 2025 the [[european-commission|European Commission]] fined [[x-corp|
 
 Simultaneously, European governments were sidelined from American diplomacy on [[ukraine|Ukraine]]: a 28-point peace plan crafted with input from [[steve-witkoff|Steve Witkoff]], Rubio and [[jared-kushner|Jared Kushner]] would offer Kiev EU membership without [[nato|NATO]] expansion while conceding eastern territories to [[russia|Russia]], leaving leaders such as Emmanuel Macron, Friedrich Merz and Alexander Stubb leaking frustration over lost influence on asset freezes and peace terms.[22] Badlands contributor [[burning-bright|Burning Bright]] argued that President [[donald-trump|Donald Trump]]'s Trump Corollary to the Monroe Doctrine, integrated into the 2025 National Security Strategy, asserts US primacy in the Western Hemisphere while criticizing Europe's trajectory in terms amounting to a call for de facto regime change in Brussels.[22] Separately, [[recep-tayyip-erdogan|Recep Tayyip Erdogan]]'s guarantee of Russian gas transit to Hungary via the [[turkstream-pipeline|TurkStream pipeline]] was read as further subverting EU efforts to escalate against Russia.[22]
 
+## Migration Pact, April 2024
+
+In April 2024 the [[european-parliament|European Parliament]] approved the [[eu-asylum-and-migration-pact|EU Asylum and Migration Pact]], obliging member states to accept a share of new arrivals into the bloc or pay a fine for each migrant they refuse.[23] Parliament President [[roberta-metsola|Roberta Metsola]] said the framework had been "10 years in the making" and that the EU had kept its word, while nationalist critics such as [[marine-le-pen|Marine Le Pen]] argued the measure transfers sovereign control over migration to a centralizing Brussels.[23] Badlands commentary by [[ashe-in-america|Ashe in America]] cast the pact as part of a decades-old globalist project of mass migration justified through concepts such as "climate refugees," and urged Europeans to follow the path of [[brexit|Brexit]].[23]
+
 ## References
 
 1. Badlands Brief — "Arctic Escalation and Tropic Trouble for the Financial System", URL: https://badlands.substack.com/p/badlands-brief-02a
@@ -164,3 +168,4 @@ Simultaneously, European governments were sidelined from American diplomacy on [
 20. Badlands Brief — "Badlands News Brief: Saudi Scoops, Slender Stabbers, & Scorned Scouts", URL: https://badlands.substack.com/p/badlands-news-brief-824
 21. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
 22. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951
+23. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38

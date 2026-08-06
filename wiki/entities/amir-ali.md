@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [judiciary, federal-courts, usaid, foreign-aid, trump-administration]
-sources: [raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-4e1.md]
+sources: [raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-a65.md]
 confidence: medium
 ---
 
@@ -28,6 +28,11 @@ Chief Justice [[john-roberts|John Roberts]] paused the order on Wednesday, Febru
 
 In early 2025 Ali, sitting as a U.S. District Judge, issued a temporary restraining order forcing payment of roughly $2 billion in [[usaid|U.S. Agency for International Development]] funds that the Trump administration had sought to freeze.[2] On March 5, 2025, the [[supreme-court-of-the-united-states|Supreme Court]] denied the administration's application for a stay of that TRO by a 5–4 vote in [[department-of-state-v-aids-vaccine-advocacy-coalition|Department of State v. AIDS Vaccine Advocacy Coalition]], leaving Ali's order in place.[2] Legal commentator [[jonathan-turley|Jonathan Turley]] wrote that the administration was "down by one vote but hardly out" in its fight with the lower courts over control of the funding.[2]
 
+## Foreign aid payment order stayed (February 2025)
+
+In February 2025, Ali, a Washington-based U.S. District Judge, issued an order requiring President [[donald-trump|Donald Trump]]'s administration to pay foreign aid funds to contractors and grant recipients, imposing a deadline of 11:59 p.m. on Wednesday, February 26.[3] Chief Justice [[john-roberts|John Roberts]] paused that order the same week through an administrative stay issued without stated rationale, giving the [[supreme-court-of-the-united-states|Supreme Court]] more time to weigh the administration's formal request to block the ruling.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Predictable Pandemics & A Thespian's Next Steps", URL: https://badlands.substack.com/p/badlands-news-brief-4a9
 2. Badlands News Brief — "SCOTUS Drama and (Altered) Deals Shake Up the Week", URL: https://badlands.substack.com/p/badlands-news-brief-4e1
+3. Badlands Brief — "Badlands News Brief: Rug Pulled Reputations, Insubordination, & the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-a65

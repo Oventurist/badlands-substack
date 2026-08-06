@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, military, politics, iran, idf]
-sources: [raw/badlands-brief-52f.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-860.md]
+sources: [raw/badlands-brief-52f.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-adc.md]
 confidence: medium
 ---
 
@@ -56,6 +56,20 @@ In a December 21, 2021 interview with Israeli journalist [[barak-ravid|Barak Rav
 
 Badlands commentary published in October 2024 traced the internal collapse of [[benjamin-netanyahu|Benjamin Netanyahu]]'s wartime coalition to Gantz's resignation from the government in June 2024, after which the War Cabinet was dissolved.[7] With Gantz gone, Netanyahu became dependent on the continued participation of Defense Minister [[yoav-gallant|Yoav Gallant]], whose own relationship with the prime minister had been strained since Netanyahu fired and immediately rehired him in spring 2023 following Gallant's appearance at a rally calling for Netanyahu's resignation.[7] Netanyahu subsequently diluted that dependency by elevating [[gideon-saar|Gideon Sa'ar]] to the Security Cabinet and forming a new three-man War Cabinet.[7]
 
+## Post-resignation positioning, June 2024
+
+After resigning from Netanyahu's war cabinet — a departure that compelled the dissolution of the specially formed body — Gantz remained publicly active, appearing at a protest in downtown Tel Aviv where an estimated 100,000 Israelis demanded [[benjamin-netanyahu|Netanyahu]]'s resignation and new elections.[8] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] recalled that [[donald-trump|Donald Trump]] had publicly endorsed Gantz on Israeli media after his 2021 loss to Netanyahu, and argued that if Gantz could persuade Defense Minister [[yoav-gallant|Yoav Gallant]] to resign and join his protest he would have a decent chance of defeating Netanyahu in a new election, with Trump having telegraphed that Gantz would be the peacemaker for Israel.[8]
+
+## Withdrawal from the war cabinet (June 2024)
+
+On the evening of Sunday, June 9, 2024, Gantz announced the withdrawal of his centrist National Unity party from Israel's emergency wartime government, accusing Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] of preventing Israel from achieving "true victory" in the war against [[hamas|Hamas]] and urging new elections.[9] The move came weeks after Gantz had conditioned his continued support on the prime minister's acceptance of an agreed-upon vision for the Gaza conflict by June 8.[9] Gantz was one of three voting members of Netanyahu's war cabinet.[9]
+
+Explaining the decision, Gantz said that "after October 7, just like hundreds of thousands of patriotic Israelis, my colleagues and I mobilized as well" and joined the coalition "even though we knew it was a bad government."[9] He added that the party had done so "because we knew it was a bad government," because "the people of Israel, the fighters, the commanders, the families of the murdered, the casualties and the hostages needed unity and support like they needed air to breathe."[9] National Unity had joined the emergency government days after October 7, 2023, when Hamas-led terrorists stormed southern Israel, killing some 1,200 people, mostly civilians, and taking 251 hostages into the Gaza Strip.[9]
+
+## Badlands reading of the resignation
+
+[[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] treated the resignation as "too perfect," noting the universal consensus that Gantz was the moderate in the room — he had run against Netanyahu on a moderate platform in the most recent election — and that his departure would leave Netanyahu's security cabinet dominated by Zionist-maximalists openly calling for the conquest of Palestine.[9] The commentary tied this to a claimed December 2021 [[donald-trump|Donald Trump]] media campaign on Israel's Channel 12 in which Trump promoted Gantz and [[mahmoud-abbas|Mahmoud Abbas]] as the region's two genuine peacemakers, saying "Gantz loves Israel" and expressing puzzlement that Netanyahu remained in government, since he had expected Gantz to take over after a fixed period.[9] Trump was quoted as saying that if Gantz had won the election, peace "would be a lot easier," and that "I don't think Bibi ever wanted to make peace; never did."[9]
+
 ## References
 1. Badlands Brief — "As Expected Energy Wars, 'Life Insurance', & Crazies Keeping Their Guns (Maybe)", URL: https://badlands.substack.com/p/badlands-brief-52f
 2. Badlands Brief — "Badlands News Brief: Fake Polls Abound as the Sovereign Alliance Makes Moves", URL: https://badlands.substack.com/p/badlands-news-brief-125
@@ -64,3 +78,5 @@ Badlands commentary published in October 2024 traced the internal collapse of [[
 5. Badlands Brief — "Badlands News Brief: Contempt, Combat Tactics and Cuts?", URL: https://badlands.substack.com/p/badlands-news-brief-70a
 6. Badlands Media — "Badlands News Brief: Vance Takes the Stage as Biden Takes the Basement", URL: https://badlands.substack.com/p/badlands-news-brief-8ae
 7. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
+8. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
+9. Badlands Brief — "Badlands News Brief: Globalists Panic as Populism Takes Over the Zeitgeist", URL: https://badlands.substack.com/p/badlands-news-brief-adc

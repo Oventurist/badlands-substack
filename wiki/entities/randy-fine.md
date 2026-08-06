@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [politician, florida, israel, rhetoric]
-sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-095.md, raw/badlands-brief-509.md, raw/badlands-brief-8db.md, raw/badlands-news-brief-22b.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-095.md, raw/badlands-brief-509.md, raw/badlands-brief-8db.md, raw/badlands-news-brief-22b.md, raw/badlands-news-brief-a72.md]
 confidence: low
 ---
 
@@ -38,9 +38,14 @@ In late July 2025, the [[aipac|American Israel Public Affairs Committee]] remove
 
 Commentators framed the break as evidence that the Israel lobby had reached a crossroads, obliged to distance itself from figures whose rhetoric inflamed the mounting public perception threatening its influence.[5] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] paired the episode with [[marjorie-taylor-greene|Marjorie Taylor Greene]]'s characterization of the Gaza campaign as a "genocide" and with [[charlie-kirk|Charlie Kirk]]'s insistence that the starvation reports were Hamas propaganda.[5]
 
+## 2025 special election campaign
+
+Fine, then serving the Florida Senate's 19th District based in Brevard County, won the Republican primary for the April 2025 special election in [[florida-6th-congressional-district-special-election|Florida's 6th Congressional District]], the seat vacated by [[mike-waltz|Mike Waltz]] on his appointment as national security adviser.[6] He faced Democrat [[joshua-weil|Joshua Weil]], a public school educator from Osceola County, along with Libertarian Andrew Parrott, non-party-affiliated candidate Randall Terry, and write-in candidate Chuck Sheridan.[6] The district includes all of Putnam and Flagler counties and parts of St. Johns County.[6]
+
 ## References
 1. Badlands Brief — "A Glaring Double Standard", URL: https://badlands.substack.com/p/a-glaring-double-standard
 2. Badlands Brief — "Moves and Countermoves", URL: https://badlands.substack.com/p/badlands-brief-095
 3. Badlands Brief — "Election Exposure, Energy Angst & War Rackets", URL: https://badlands.substack.com/p/badlands-brief-509
 4. Badlands Brief — "Hunters Become the Hunted as Traitors Reveal Themselves", URL: https://badlands.substack.com/p/badlands-brief-8db
 5. Badlands Brief — "Badlands News Brief: Tsunamis, Bombshells, & Signed Declarations", URL: https://badlands.substack.com/p/badlands-news-brief-22b
+6. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72

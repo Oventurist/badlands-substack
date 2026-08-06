@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [actblue, campaign-finance, money-laundering, democrats, fundraising]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-1ef.md, raw/badlands-brief-b62.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-91b.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-1ef.md, raw/badlands-brief-b62.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-a0b.md]
 confidence: medium
 ---
 
@@ -77,7 +77,28 @@ In April 2025 President [[donald-trump|Donald Trump]] issued the [[2025-straw-do
 
 In July 2025 it was announced that ActBlue had been subpoenaed over ostensible foreign money laundering.[10] Reporting the development in the [[badlands-news-brief|Badlands News Brief]], [[ashe-in-america|Ashe in America]] highlighted that [[perkins-coie|Perkins Coie]] and later the [[elias-law-group|Elias Law Group]] had advised ActBlue on legal compliance, tying the platform's exposure to Democratic election attorney [[marc-elias|Marc Elias]], who the same week lost a federal challenge to [[wyoming-house-bill-156|Wyoming House Bill 156]].[10]
 
+## Relaxed fraud standards during the 2024 cycle (April 2025)
+
+On April 2, 2025 the New York Post reported, based on internal company documents and other records exclusively obtained by the paper, that ActBlue changed its fraud policy twice during the 2024 campaign, implementing "more lenient" standards that let foreign and other suspicious donor money flow into US campaigns.[11] The fraud-prevention standards changed in April 2024 and again that September, with the relaxed guidelines allowing between 14 and 28 more fraudulent contributions per month, and under the updated policy up to 6.4% of total ActBlue donations that should have been rejected for fraud were missed.[11] The platform had already allowed donors to give money without a card verification value (CVV) until January 2024 — roughly halfway through the election cycle — and the new standards still instructed employees to "look for reasons to accept contributions."[11] The firm's fraud-prevention specialist also shifted focus to "DEI work," while stating a goal of "not allowing more than 10% additional missed fraud" from political donations.[11]
+
+The same day, the [[house-judiciary-committee|House Judiciary Committee]] released a staff report titled "Fraud on ActBlue: How the Democrats' Top Fundraising Platform Opens the Door for Illegal Election Contributions," which drew on internal documents.[11] The report stated that it was "not the end of our investigation," with the committee also seeking transcribed interviews with current ActBlue employees — including those responsible for the fraud-prevention operation — and reviewing [[suspicious-activity-report|suspicious activity reports]] of fraud on ActBlue.[11] The committee's accompanying thread noted that "even before these policy changes, ActBlue staff were told to accept as much fraud as possible."[11]
+
+### Badlands analysis of the fraud-standard relaxation
+
+[[ashe-in-america|Ashe in America]] argued that the relaxation of fraud prevention during the primaries and before the general election was "alarming and illegal but buried and forgotten," comparing it to a Hunter Biden suspicious activity report.[11] She emphasised that loosened standards matter because they enable [[smurfing|smurfing]], a practice she and [[canncon|CannCon]] had discussed for more than a year on [[why-we-vote|Why We Vote]], and which election integrity activists had been investigating well before that show existed — citing Robin Sachs of Maryland presenting smurfing findings in March 2023.[11]
+
+Ashe traced the technique's origins to [[barack-obama|Barack Obama]]'s campaigns, noting that The New York Times debunked Obama's 2008 small-donor claims, that major outlets carried "Obama's Small Donor Myth" pieces, and that by 2012 a Campaign Finance Institute analysis reframed the story, reporting that "nearly half of the donors to Obama's reelection campaign in 2011 gave $200 or less, more than double the proportion seen in 2007," while ignoring the 2008 scandal.[11] She observed that ActBlue itself launched in 2004 as an endeavour to harness the power of grassroots small donors.[11]
+
+### Alleged federal statutory violations
+
+Citing a compilation credited to [[peter-bernegger|Peter Bernegger]], the brief listed federal statutes ActBlue potentially violated through what it called "a meeting of the minds to engage in a highly coordinated portfolio of crime": 18 U.S.C. § 1956 (money laundering); 18 U.S.C. § 1957 (monetary transactions in property derived from unlawful activity); 18 U.S.C. § 1001 (false statements to federal agencies); 52 U.S.C. § 30122 (contributions in the name of another, under FECA); 18 U.S.C. § 1343 (wire fraud); 18 U.S.C. § 1341 (mail fraud); 18 U.S.C. § 371 (conspiracy to defraud the United States); 18 U.S.C. § 1028 (identity theft and document fraud); 18 U.S.C. § 1030 (Computer Fraud and Abuse Act); 15 U.S.C. §§ 6801–6809 (Gramm-Leach-Bliley Act); and 31 U.S.C. § 5311 et seq. (Bank Secrecy Act, with 12 CFR 21.11 and 12 CFR 21.21).[11] Ashe added that state analogues of these charges could apply in the states where payments originated, passed through, or terminated, and invoked [[neil-gorsuch|Justice Neil Gorsuch]]'s *[[over-ruled-the-human-toll-of-too-much-law|Over Ruled: The Human Toll of Too Much Law]]* for the proposition that no one actually knows how much law exists.[11] She argued that people whose identities were stolen should press all possible charges, that those who relaxed the fraud-prevention measures should go to prison, and that developers in the ActBlue ecosystem likely carry liability as well.[11]
+
+### Leadership turmoil
+
+The brief connected the fraud-standards revelation to a March 5, 2025 New York Times report that ActBlue had "plunged into turmoil," with at least seven senior officials resigning in late February and a remaining lawyer suggesting he faced internal retaliation, citing whistleblower retaliation as part of the upheaval.[11] [[regina-wallace-jones|Regina Wallace-Jones]] remained CEO "at least on paper," while a letter from the ActBlue unions warned that the group was "under increasing scrutiny" and "the target of bad-faith political attacks at the hands of ill-intentioned operators."[11] Ashe asked whether action would finally come from [[jim-jordan|Jim Jordan]]'s committee, which she said had been building the record for years, and questioned who made the call to loosen fraud controls mid-cycle.[11] [[canncon|CannCon]] added a one-line response: "Next, do WinRed."[11]
+
 ## References
+
 1. Badlands Brief — "Mixed Gender Crews, Trafficking Stings, & Shadow Cabal Reruns", URL: https://badlands.substack.com/p/badlands-brief-029
 2. Badlands Brief — "Self Incrimination, Crime Magnets, & Gay Tourism", URL: https://badlands.substack.com/p/badlands-brief-1ef
 3. Badlands Brief — "The Reckoning of Fake Elections, Fake Wars and Fake Allies", URL: https://badlands.substack.com/p/badlands-brief-b62
@@ -88,3 +109,4 @@ In July 2025 it was announced that ActBlue had been subpoenaed over ostensible f
 8. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
 9. Badlands Brief — "Badlands News Brief: Ongoing Judicial Coups. Newly Jailed Judges.", URL: https://badlands.substack.com/p/badlands-news-brief-8a9
 10. Badlands Brief — "Badlands News Brief: The Corruption of Anti-Corruption & Obama Bites Back", URL: https://badlands.substack.com/p/badlands-news-brief-91b
+11. Badlands Brief — "Badlands News Brief: The Wolf of D.C. & A Portfolio of Highly Organized Crime", URL: https://badlands.substack.com/p/badlands-news-brief-a0b

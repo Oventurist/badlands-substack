@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [attorney, trump-legal-team, lawfare, 2020-election]
-sources: [raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-951.md]
+sources: [raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a5d.md]
 confidence: medium
 ---
 
@@ -36,7 +36,17 @@ Habba also argued that prosecutors across the various Trump cases should not be 
 
 On Monday, December 8, 2025, Habba announced that she would step down as New Jersey's top federal prosecutor after a panel of federal appeals court judges ruled that she was unlawfully serving in the role, having overstayed her interim term.[3] President [[donald-trump|Donald Trump]] responded by blaming members of his own party for the collapse of several U.S. attorney nominations, pointing to the [[united-states-senate|Senate]]'s blue slip tradition, which allows home-state senators to veto presidential nominees to district courts and U.S. attorney offices.[3] "The Republicans should be ashamed of themselves that they allow this to go on," Trump said, "because I can't appoint a U.S. attorney that's not a Democrat, because they put a block on it."[3]
 
+## Challenges to her authority as U.S. Attorney (July 2025)
+
+In July 2025 criminal defendants began challenging Habba's authority to act as U.S. Attorney for the District of New Jersey.[4] Habba had been designated Acting U.S. Attorney after previously serving as interim U.S. Attorney in the state; her interim term expired that week, and because the [[united-states-senate|Senate]] never voted to confirm her, the decision on extending her term fell to the state's federal judges, who declined to do so and instead appointed her deputy, Desiree Leigh Grace, to the role.[4] The [[trump-administration|Trump administration]] fired Grace from the [[department-of-justice|Department of Justice]] hours later, leaving her successor status unresolved until Habba and the DOJ confirmed she would remain in place, with Habba announcing, "I am now the Acting United States Attorney for the District of New Jersey."[4] The item, reported by *Forbes*, ran as a bonus entry in the [[badlands-news-brief|Badlands News Brief]] of July 29, 2025.[4]
+
+## Charges against Representative LaMonica McIver
+
+On Monday, May 19, 2025, while serving as acting U.S. attorney in New Jersey, Habba announced that she had filed criminal charges against Representative [[lamonica-mciver|LaMonica McIver]], a New Jersey Democrat, over her conduct during a protest outside an [[immigration-and-customs-enforcement|Immigration and Customs Enforcement]] detention facility in Newark.[5] NBC News reported the announcement in the same story that covered former FBI director [[james-comey|James Comey]] dismissing the prospect of criminal charges against himself at a New York book signing, a juxtaposition the [[badlands-news-brief|Badlands News Brief]] highlighted in its May 21, 2025 edition.[5] The Brief noted that Habba had previously served as President [[donald-trump|Donald Trump]]'s defense lawyer.[5]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: The Trump Card ...", URL: https://badlands.substack.com/p/badlands-news-brief-3b0
 2. Badlands Brief — "Con Inc. Introduces a New Candidate ... And Trump Was Right!", URL: https://badlands.substack.com/p/badlands-news-brief-6d6
 3. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951
+4. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
+5. Badlands Brief — "Badlands News Brief: Our Boy Victim & Friends Without Benefits", URL: https://badlands.substack.com/p/badlands-news-brief-a5d

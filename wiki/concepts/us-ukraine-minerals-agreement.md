@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ukraine, minerals, trump-administration, diplomacy]
-sources: [raw/badlands-brief-da2.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-4e1.md]
+sources: [raw/badlands-brief-da2.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-a65.md]
 confidence: medium
 ---
 
@@ -30,7 +30,14 @@ CBS News reported on Tuesday, March 4, 2025, citing a person familiar with the t
 
 Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that Zelensky or his handlers had never read *The Art of the Deal*, in which Trump's first offer is his best offer and walking away from the table forfeits it.[3] He cited the veiled threats Zelensky made against the United States, the allegation that he called Vance a "bitch" in Ukrainian ("supa") under his breath, and the general display of disrespect, concluding that Zelensky should be grateful to get any deal at all.[3]
 
+## Finalization and signing (February 2025)
+
+U.S. Treasury Secretary [[scott-bessent|Scott Bessent]] announced in late February 2025 that the United States and Ukraine had finalized their agreement on rare earths and other natural resources, and that [[volodymyr-zelensky|Volodymyr Zelensky]] was expected to sign the final document without further negotiation during a meeting with President [[donald-trump|Donald Trump]].[4] "The deal is done. President Zelensky is coming here to sign the deal tomorrow, so there is no more negotiation, there is nothing else," Bessent told Fox Business.[4] Trump had repeatedly said in the preceding weeks that the United States wanted to "get back" the money it had spent on military and financial aid to Kiev through the minerals deal, while Zelensky had earlier refused to sign without concrete U.S. security guarantees.[4]
+
+Bessent had traveled to Kiev earlier that month and returned empty-handed after Zelensky allegedly lashed out at him over a U.S. demand that Ukraine hand over 50% of its critical minerals as compensation for past aid; Financial Times sources reported that Zelensky's frustration boiled over in a closed-door meeting as Bessent pushed for an immediate signature.[4] Badlands commentary characterized the finalized terms as extending beyond rare earth minerals to oil and gas assets.[4]
+
 ## References
 1. Badlands Brief — "America Wins, Zionists Seethe", URL: https://badlands.substack.com/p/badlands-brief-da2
 2. Badlands Brief — "Badlands News Brief: Inbound America: Terrorists, Trillions, & Diplomats", URL: https://badlands.substack.com/p/badlands-news-brief-3a5
 3. Badlands News Brief — "SCOTUS Drama and (Altered) Deals Shake Up the Week", URL: https://badlands.substack.com/p/badlands-news-brief-4e1
+4. Badlands Brief — "Badlands News Brief: Rug Pulled Reputations, Insubordination, & the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-a65

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [constitution, reconstruction, citizenship, civil-rights]
-sources: [raw/badlands-brief-686.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-9bf.md]
+sources: [raw/badlands-brief-686.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-9bf.md, raw/badlands-news-brief-948.md]
 confidence: medium
 ---
 
@@ -48,6 +48,10 @@ Polling at the time showed a deeply divided public: a majority of Americans oppo
 
 By the end of October 2023 the Section 3 theory was being litigated simultaneously in several states.[6] A group of Colorado voters sought to keep [[donald-trump|Donald Trump]] off the 2024 ballot under what was described as the Constitution's post-Civil War "insurrectionist ban," while Trump filed a lawsuit to shut down a similar case in Michigan and a major hearing in a Minnesota candidacy challenge was scheduled for November 2.[6] Observers emphasized that although the amendment disqualifies officials who took an oath to uphold the Constitution and later "engaged in insurrection" or aided the country's enemies, the Constitution provides no enforcement mechanism, and the clause has been applied only twice since the 19th century — grounds on which many experts regarded the challenges as a legal long shot.[6]
 
+## Section 3 challenges to Trump's ballot eligibility (2023)
+
+Section 3 of the Fourteenth Amendment, which bars from federal or state office those who engaged in insurrection after swearing an oath to support the Constitution, was invoked in more than a dozen states to challenge [[donald-trump|Donald Trump]]'s 2024 candidacy over his conduct surrounding the January 6, 2021 attack on the U.S. Capitol.[7] Enacted after the Civil War and designed to exclude former Confederate civil and military officials from office, the rarely used disqualification clause was argued before the [[colorado-supreme-court|Colorado Supreme Court]] on December 6, 2023 in [[anderson-v-griswold|Anderson v. Griswold]].[7] A threshold question was whether the president is an "Officer" within the meaning of Section 3, and the Colorado argument featured extended discussion of Confederate president [[jefferson-davis|Jefferson Davis]].[7] The outcome was expected to affect 22 other Section 3 challenges around the country and to be appealed to the U.S. Supreme Court.[7]
+
 ## References
 1. Badlands Brief — "To Infinity & Iran!", URL: https://badlands.substack.com/p/badlands-brief-686
 2. Badlands Brief — "Badlands News Brief: MAGA Gets Branded as Biden Bungles Everything", URL: https://badlands.substack.com/p/badlands-news-brief-07e
@@ -55,3 +59,4 @@ By the end of October 2023 the Section 3 theory was being litigated simultaneous
 4. Badlands Brief — "Badlands News Brief: Hypocrisy Roundup & Rug-pulls Galore", URL: https://badlands.substack.com/p/badlands-news-brief-378
 5. Badlands Brief — "Epstein Boomerangs & Bipartisan Bullsh*t", URL: https://badlands.substack.com/p/badlands-news-brief-6d2
 6. Badlands Brief — "14th Time's the Charm to 'Get Trump?'", URL: https://badlands.substack.com/p/badlands-news-brief-9bf
+7. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948

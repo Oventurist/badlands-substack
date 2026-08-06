@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [declassification, jfk, transparency, executive-order]
-sources: [raw/badlands-news-brief-298.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-42b.md]
+sources: [raw/badlands-news-brief-298.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-a72.md]
 confidence: medium
 ---
 
@@ -50,8 +50,13 @@ Shortly after the release of thousands of assassination-related files, President
 
 [[badlands-media|Badlands Media]] commentary by [[burning-bright|Burning Bright]] read the remarks as Trump leaning fully into what the author called the obvious analogues between his administration and Kennedy's, arguing that on both the domestic and international level the two are nearly identical and describing the moment as a "timeline unification."[4]
 
+## Continued cover-up claims (March 2025)
+
+Despite the declassification of reams of government files on the killing, Rep. [[anna-paulina-luna|Anna Paulina Luna]] continued in late March 2025 to search for a cover-up, asserting without evidence that an allegedly previously unreleased NBC video could reveal new details of President [[john-f-kennedy|John F. Kennedy]]'s death and purportedly show [[lee-harvey-oswald|Lee Harvey Oswald]] near Kennedy's vehicle at the time of the shooting.[5] Her [[task-force-on-the-declassification-of-federal-secrets|Task Force on the Declassification of Federal Secrets]] was scheduled to hold a hearing on the JFK files on April 1, 2025, a date [[badlands-media|Badlands Media]] noted with irony.[5]
+
 ## References
 1. Badlands News Brief — "Pirated Pardons & Delayed Declassifications", URL: https://badlands.substack.com/p/badlands-news-brief-298
 2. Badlands Brief — "Badlands News Brief: Bengaluru Raids, Bitcoin Bangers, & A Buddhist Execution", URL: https://badlands.substack.com/p/badlands-news-brief-2dc
 3. Badlands Brief — "Badlands News Brief: Extra-Judicial Judges & Master Manipulating Monsters", URL: https://badlands.substack.com/p/badlands-news-brief-324
 4. Badlands Brief — "Badlands News Brief: Overexposed Engagement Farmers & Maple-Flavored Monarchs", URL: https://badlands.substack.com/p/badlands-news-brief-42b
+5. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72

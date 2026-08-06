@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ukraine, intelligence, russia, navalny]
-sources: [raw/badlands-news-brief-119.md, raw/badlands-news-brief-3d2.md]
+sources: [raw/badlands-news-brief-119.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-afb.md]
 confidence: medium
 ---
 
@@ -28,3 +28,4 @@ In August 2025 Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatri
 
 1. Badlands News Brief — "Trump Responds, a Banker Dies & a Ukrainian Tells the Truth", URL: https://badlands.substack.com/p/badlands-news-brief-119
 2. Badlands News Brief — "'Heroic' Nazis & Unexpectedly Flaccid Orgy Dome", URL: https://badlands.substack.com/p/badlands-news-brief-3d2
+3. Badlands Brief — "Badlands News Brief: Biden & Trump Enter the Lawfare Thunderdome", URL: https://badlands.substack.com/p/badlands-news-brief-afb

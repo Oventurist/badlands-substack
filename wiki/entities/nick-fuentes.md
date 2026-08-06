@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [commentator, groypers, right-wing, israel]
-sources: [raw/badlands-brief-7c6.md]
+sources: [raw/badlands-brief-7c6.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-aae.md]
 confidence: medium
 ---
 
@@ -18,5 +18,21 @@ According to [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] writing in th
 
 When [[tucker-carlson|Tucker Carlson]] later interviewed Fuentes, the decision drew significant public backlash, including calls for Carlson's censorship; Trump responded by defending the principle that people should have access to all information and make up their own minds.[1] The Badlands commentary argued that Trump had deliberately constructed this dialectic in order to force a national conversation about Israel and Zionism.[1]
 
+## October 2025 Tucker Carlson interview
+
+In late October 2025, [[tucker-carlson|Tucker Carlson]] hosted Fuentes on his online talk show, an appearance rumored for weeks and framed by Carlson as an attempt to establish what Fuentes actually believes.[2] Carlson anticipated the backlash on air, saying, "Everybody's going to be like, 'You're a Nazi, you just like Fuentes,'" while arguing that "I don't think Fuentes is going away. Ben Shapiro tried to strangle him in the crib in college, and now he's bigger than ever."[2]
+
+During the conversation, described as friendly and covering whether Jews could be blamed for everything, Fuentes was asked who in the conservative movement needed to be taken down and replied, "These Zionist Jews."[2] Coverage noted that Fuentes's platform had grown in the wake of the assassination of his conservative archrival [[charlie-kirk|Charlie Kirk]], and that the sit-down carried implications for the growing popularity of antisemitism and anti-Israel voices on the right.[2] Badlands contributor Chris Paul dismissed the exchange as "two TV Characters doing a character-building exercise together," with some good moments.[2]
+
+## 2025 resurgence and MAGA infighting
+
+By November 2025, Fuentes had returned to prominence after years of near-total deplatforming.[3] Four years earlier he had been barred from nearly every social media platform and from an array of payment processors, either for violating hate speech policies or for encouraging rioters to storm the US Capitol on January 6, 2021, and a sympathetic 2022 documentary called him "the most canceled man in America."[3] By late 2025 the 27-year-old, who had once called Adolf Hitler "awesome" and argued that immigrants and "organized Jewry" are conspiring to extinguish the white race, had more than one million followers on [[elon-musk|Elon Musk]]'s X and had recorded a cordial interview with [[tucker-carlson|Tucker Carlson]] watched by more than five million people.[3]
+
+His resurgence set off bitter infighting among conservative influencers over whether he should be tolerated or denounced, placing him at the center of an online battle over the future of the American conservative movement and posing a difficult question for [[donald-trump|Donald Trump]]'s MAGA movement, which has decried what it calls the overzealous policing of speech: whether anything can still be "too extreme."[3]
+
+Writing in the [[badlands-news-brief|Badlands News Brief]], [[burning-bright|Burning Bright]] noted the irony of figures within the Truth Community defending the new scions of alternative media under the guise of waking up the normies, thereby using a popular Q refrain to prop up "the very wolves among us," and concluded that "it's never been about the normies — it's about the truth."[3]
+
 ## References
 1. Badlands Brief — "The Democratization of Narrative Distribution. And a New War with Iran.", URL: https://badlands.substack.com/p/badlands-brief-7c6
+2. Badlands Brief — "Badlands News Brief: Asian Happy Endings, Salvadoran Favors, & American Public Corruption", raw/badlands-news-brief-a98.md
+3. Badlands Brief — "Badlands News Brief: Reopening Washington, Rescheduling Putin, & Revisiting De Jure", URL: https://badlands.substack.com/p/badlands-news-brief-aae

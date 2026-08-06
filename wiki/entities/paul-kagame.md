@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [rwanda, africa, drc, israel, m23]
-sources: [raw/badlands-news-brief-021.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-8fd.md]
+sources: [raw/badlands-news-brief-021.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a50.md, raw/badlands-news-brief-a69.md]
 confidence: low
 ---
 
@@ -34,9 +34,19 @@ Badlands commentary described Kagame as "an ardent Zionist and loyal henchman to
 
 Kagame was hosted by President Donald Trump in Washington on December 4, 2025, alongside Democratic Republic of the Congo President Felix Tshisekedi, to sign deals aimed at stabilizing eastern Congo and attracting Western mining investment.[5] The two presidents were expected to pledge commitment to an economic integration compact agreed the previous month and to a US-brokered peace deal reached in June that remained unimplemented.[5] Badlands contributor GhostofBasedPatrickHenry characterized Kagame as a 'lapdog' of what he called the Israeli Diamond Cartel, which he argued had dispatched M23 rebels out of Rwanda to seize chokepoints and recover mineral control lost through Executive Order 13818.[5]
 
+## Dispute with Ramaphosa over the 2025 DRC offensive
+
+During the [[2025-goma-offensive|2025 Goma offensive]], Kagame rejected blame for the fighting in eastern Congo and regarded South Africa's military intervention through [[samidrc|SAMIDRC]] as hostile, trading barbs with Pretoria and threatening South African president [[cyril-ramaphosa|Cyril Ramaphosa]].[6] Kagame took part in a virtual conference of eight African countries organised on 29 January 2025 by Kenyan president [[william-ruto|William Ruto]]; DRC president [[felix-tshisekedi|Felix Tshisekedi]] was absent, reportedly because of a scheduling conflict.[6] Badlands commentary described Kagame as a former rebel leader who sponsored several wars in the 1990s, one of which installed Laurent Kabila as president of the DRC, whose son [[joseph-kabila|Joseph Kabila]] later granted [[dan-gertler|Dan Gertler]] the mineral rights that produced a monopoly over Congolese precious metals.[6]
+
+## 2025 peace agreement with the DR Congo
+
+Rwanda under Kagame signed a [[rwanda-drc-peace-agreement-2025|peace agreement with the Democratic Republic of the Congo]] in Washington on June 27, 2025, alongside U.S. Secretary of State [[marco-rubio|Marco Rubio]]; the deal pledges a 90-day Rwandan troop withdrawal, disarmament and reintegration steps, and a joint security mechanism.[7] Congolese officials had long accused Kigali of backing militant groups in the mineral-rich east and smuggling resources, charges Kagame denied even as [[m23|M23]] seized the mining hubs of Goma and Bukavu.[7] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] characterized Kagame as an Israeli-loyalist whose M23 proxy formed the latest in a chain of attempts to unseat Congolese President [[felix-tshisekedi|Félix Tshisekedi]].[7]
+
 ## References
 1. Badlands Brief — "Seditious Overreactions, Billion Dollar Bailouts, & NATO-Style Guarantees", URL: https://badlands.substack.com/p/badlands-news-brief-021
 2. Badlands News Brief — "Weed Wins, Globalist Whisking, & Lizard-Led Impeachments", URL: https://badlands.substack.com/p/badlands-news-brief-0ef
 3. Badlands Brief — "Badlands News Brief: Extra-Judicial Judges & Master Manipulating Monsters", URL: https://badlands.substack.com/p/badlands-news-brief-324
 4. Badlands Brief — "Climbing Confidence, a Congolese Crisis, & Uncorroborated KGB Claims", URL: https://badlands.substack.com/p/badlands-news-brief-457
 5. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
+6. Badlands Brief — "Badlands News Brief: Bicameral Puppets & Dark Money Muppets", URL: https://badlands.substack.com/p/badlands-news-brief-a50
+7. Badlands News Brief — "Shadow Feds, Activist Courts, & Lasting Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a69

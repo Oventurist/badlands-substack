@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [national-security, spokesman, pentagon, white-house]
-sources: [raw/badlands-news-blast.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-536.md, raw/badlands-news-brief-6fc.md]
+sources: [raw/badlands-news-blast.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-536.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-ac7.md]
 confidence: medium
 ---
 
@@ -54,6 +54,12 @@ Kirby was to preside over a team separate from the National Security Council's p
 
 Days after the promotion, Badlands writer [[ashe-in-america|Ashe in America]] noted that the "recently-promoted" Kirby told the Monday White House press conference that Biden had not spoken to Defense Secretary [[lloyd-austin|Lloyd Austin]] since his hospitalization, saying he was "not aware of any conversations," and replying "not at all" when asked whether Biden was concerned about Austin's ability to serve.[7]
 
+## June 2023 Hunter Biden briefing walkout
+
+At a White House press briefing in late June 2023, amid revelations that the [[justice-department|Justice Department]] had buried evidence of [[hunter-biden|Hunter Biden]]'s tax crimes and that Hunter had demanded a CCP-linked associate wire funds while he was "sitting here with my father," Kirby refused to answer questions and stormed away from the podium.[8] "I'm not going to comment further on this," he said, after being asked whether a WhatsApp message from Hunter appearing to demand payment from a Chinese businessman contradicted [[joe-biden|Joe Biden]]'s earlier claims that he and his son had never discussed Hunter's business dealings.[8] After Kirby ducked out, press secretary [[karine-jean-pierre|Karine Jean-Pierre]] attempted damage control and was bombarded with repeat questions.[8]
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] described the briefing as "the perfect physical manifestation of the current state of panic and disarray" in the [[deep-state|Deep State]], writing that Kirby and Jean-Pierre "can barely hold it together in the face of the slightest scrutiny."[8]
+
 ## References
 1. Badlands Brief — "UFO's, Epstein Logs & Racist Squirrels?", URL: https://badlands.substack.com/p/badlands-news-blast
 2. Badlands Brief — "Badlands News Brief: Tracking Resignations, Scare Events & the Death of Taxes", URL: https://badlands.substack.com/p/badlands-news-brief-017
@@ -62,3 +68,4 @@ Days after the promotion, Badlands writer [[ashe-in-america|Ashe in America]] no
 5. Badlands Brief — "Badlands News Brief: Shenanigans Shall Continue Until Morale Improves ...", URL: https://badlands.substack.com/p/badlands-news-brief-49d
 6. Badlands Brief — "Orange Man Reruns & Scandals Galore", URL: https://badlands.substack.com/p/badlands-news-brief-536
 7. Badlands Brief — "Biden Hemorrhages Already-Nonexistent Support", URL: https://badlands.substack.com/p/badlands-news-brief-6fc
+8. Badlands Brief — "Whose Coup Is It Anyway? ... And Other Questions", URL: https://badlands.substack.com/p/badlands-news-brief-ac7

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [national-security, trump-administration, israel, first-amendment]
-sources: [raw/badlands-brief-58d.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-688.md]
+sources: [raw/badlands-brief-58d.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-688.md, raw/badlands-news-brief-a72.md]
 confidence: medium
 ---
 
@@ -41,8 +41,13 @@ Waltz also addressed the escalation of the war in [[ukraine|Ukraine]], comparing
 
 [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] treated Waltz's transition-period comments as narrative rather than policy, later summarizing that "the Mike Waltz comments on Ukraine were noise" while [[keith-kellogg|Keith Kellogg]]'s were "signal."[4] He framed the apparent contradictions between two Waltz clips recorded four days apart through a Game Theory and Sun Tzu lens, arguing that the Trump team was content to project an escalatory posture on Ukraine because it was in his view already aligned with [[vladimir-putin|Vladimir Putin]] and Russia on the other side of the battlefield.[4] The same commentary held that career diplomats such as [[amos-hochstein|Amos Hochstein]] were pressing [[benjamin-netanyahu|Benjamin Netanyahu]] toward a ceasefire, freezing Israel into a holding pattern in expectation of a more hawkish Washington after January — a maneuver the writer likened to leaving a cornered enemy a narrow path of escape.[4]
 
+## Vacated House seat
+
+Waltz resigned his seat in Florida's 6th Congressional District when he became national security adviser to President [[donald-trump|Donald Trump]], triggering an April 2025 special election contested by Republican [[randy-fine|Randy Fine]] and Democrat [[joshua-weil|Joshua Weil]].[5] See [[florida-6th-congressional-district-special-election]].
+
 ## References
 1. Badlands Brief — "White Knuckling Weaponized Government", URL: https://badlands.substack.com/p/badlands-brief-58d
 2. Badlands Brief — "Preemptive Pardons, Syrian Sanctions, & Preparations for Putin", URL: https://badlands.substack.com/p/badlands-news-brief-09e
 3. Badlands Brief — "Badlands News Brief: Non-Binding Motions & Psycho-Emotional Problems", URL: https://badlands.substack.com/p/badlands-news-brief-3ab
 4. Badlands Brief — "Badlands News Brief: Threats, Panic and Signal in the Engineered Noise", URL: https://badlands.substack.com/p/badlands-news-brief-688
+5. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72

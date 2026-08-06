@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [trump-family, real-estate, presidential-library, miami]
-sources: [raw/badlands-brief-c5b.md, raw/badlands-news-brief-32c.md]
+sources: [raw/badlands-brief-c5b.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-aac.md]
 confidence: medium
 ---
 
@@ -26,6 +26,11 @@ Badlands contributor [[ashe-in-america|Ashe in America]] remarked that "Eric Tru
 
 In spring 2025, Eric Trump met with the heads of the Israeli firm Nitsba Holdings about the [[trump-organization|Trump Organization]] investing in, branding, and managing the under-construction Sarona Hotel in Tel Aviv, expected to become Israel's tallest hotel when it opens, according to a New York Times report relayed by the [[times-of-israel|Times of Israel]].[2] The talks took place several weeks before Israel launched its preemptive strike on Iran's nuclear program, which the United States joined when President [[donald-trump|Donald Trump]] ordered strikes on the Fordo, Natanz, and Isfahan facilities.[2] Critics argued a Trump property in Israel could influence American diplomatic decisions and serve as a target for anti-American terror groups, part of broader criticism that the president was mixing national and personal interests to an unprecedented degree.[2] Badlands commentary suggested the timing of Eric's trip implied he was seeking a discount while Tel Aviv was purportedly under attack, and floated the possibility that the deal was a misdirection play within a longer strategic negotiation.[2]
 
+## Gulf development projects (2024)
+
+Eric Trump led [[trump-organization|The Trump Organization]]'s team on [[trump-international-oman|Trump International Oman]], the $500 million resort and golf development launched with [[dar-global|Dar Global]] in Aida, Oman, with a projected opening in December 2028.[3] In March 2024 he and Dar Global released renderings of the villas planned for Phase One at a stated cost of $200 million, a figure that had grown to $500 million by the July 2024 launch announcement.[3] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] speculated that Saudi and Emirati partners would keep their dealings with Eric Trump, [[donald-trump-jr|Donald Trump Jr.]], and [[jared-kushner|Jared Kushner]] discreet out of deference to [[donald-trump|Donald Trump]]'s presidential campaign, even as Dar Global announced a second project, [[trump-tower-jeddah|Trump Tower Jeddah]].[3]
+
 ## References
 1. Badlands Brief — "A Christian Court Victory, Sovereign Alliance Comms and Off-Ramps Galore?", URL: https://badlands.substack.com/p/badlands-brief-c5b
 2. Badlands Brief — "Decision Day, Disarming Deals & A Double Deportation", URL: https://badlands.substack.com/p/badlands-news-brief-32c
+3. Badlands Brief — "Badlands News Brief: Wins at Home and Deals Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-aac

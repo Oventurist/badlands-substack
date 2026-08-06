@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [politician, republican, israel, free-speech]
-sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-782.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-9ae.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-782.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-af5.md]
 confidence: medium
 ---
 
@@ -77,6 +77,14 @@ In early March 2024, following decisive losses to [[donald-trump|Donald Trump]] 
 ## References
 
 1. Badlands Brief — "A Glaring Double Standard", URL: https://badlands.substack.com/p/a-glaring-double-standard
+
+## 2024 Israel visit and "Finish Them!" inscription
+
+On a Memorial Day 2024 visit to Israel, Haley signed Israeli artillery shells with the inscription "Finish Them!", accompanied by the words "America loves Israel."[14] The former South Carolina governor made the display on a trip to Israel's northern border with Lebanon, escorted by [[danny-danon|Danny Danon]], a former Israeli ambassador to the United Nations and a hawkish [[likud|Likud]] member of the Knesset.[14] The episode came while Israel was prosecuting an offensive in Gaza that had killed more than 36,000 Palestinians, an estimated 15,000 of them children.[14]
+
+Speaking to reporters, Haley was unapologetic, criticising the [[joe-biden|Biden]] administration for temporarily withholding weapons to discourage an Israeli assault on Rafah, and attacking both the [[international-criminal-court|International Criminal Court]] — then seeking [[benjamin-netanyahu|Netanyahu]]'s arrest — and the International Court of Justice, which was weighing genocide charges against Israel.[14] "What America needs to understand is if Israel's fighting our enemies, how can we not help them," she said.[14]
+
+Badlands commentary responded by asking "Finish what, exactly?", suggesting Haley might be referring to [[fatah|Fatah]] and [[hamas|Hamas]]'s displacement of it within the [[palestinian-authority|Palestinian Authority]], and citing Colonel [[douglas-macgregor|Douglas Macgregor]]'s argument that the IDF campaign had itself become Hamas's greatest recruiting tool.[14] The same writer contrasted Haley's rhetoric unfavourably with Saudi foreign minister [[faisal-bin-farhan|Prince Faisal bin Farhan]]'s statement that Israel "doesn't get to decide whether or not the Palestinians have a right to self-determination," concluding that Haley "sounds like a bloodthirsty psychopath" beside him.[14]
 2. Badlands Brief — "Badlands News Brief: Chaos in the Middle East Overshadows That at Home", URL: https://badlands.substack.com/p/badlands-news-brief-023
 3. Badlands Brief — "Badlands News Brief: MAGA Gets Branded as Biden Bungles Everything", URL: https://badlands.substack.com/p/badlands-news-brief-07e
 4. Badlands Brief — "Badlands News Brief: Draft Dodgers, Peacemakers & Warmongers Galore!", URL: https://badlands.substack.com/p/badlands-news-brief-0db

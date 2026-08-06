@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [judiciary, california, national-guard, litigation]
-sources: [raw/badlands-news-brief-155.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-94b.md]
+sources: [raw/badlands-news-brief-155.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-a40.md]
 confidence: medium
 ---
 
@@ -28,8 +28,12 @@ Breyer, sitting in San Francisco, ruled in June 2025 that President [[donald-tru
 
 On September 2, 2025, Breyer issued a further ruling enjoining the administration from using the remaining federalized California Guard members, or any military force, for domestic law enforcement in California, citing the [[posse-comitatus-act|Posse Comitatus Act]].[3] The two orders left the administration holding federalized California troops it could not deploy within California, a situation that preceded the [[2025-portland-national-guard-deployment|2025 Portland National Guard deployment]].[3]
 
+## Reversal by the Ninth Circuit (June 2025)
+
+Breyer's order finding President [[donald-trump|Donald Trump]]'s deployment of the California National Guard to Los Angeles illegal — reasoning that such a deployment would only be lawful in a time of "rebellion or danger of a rebellion" — was stayed by the Ninth Circuit within hours of being issued and then blocked outright in June 2025.[4] A three-judge panel concluded that, affording appropriate deference to the president's determination, Trump had likely acted within his authority in federalizing the Guard, and that Governor [[gavin-newsom|Gavin Newsom]] would not have held veto power over the deployment even absent advance notification.[4]
 
 ## References
 1. Badlands Brief — "Badlands News Brief: California Crossroads, Selective Insurrection, & Irian Limits", URL: https://badlands.substack.com/p/badlands-news-brief-155
 2. Badlands Brief — "Badlands News Brief: Musical Guard Troops & Immigration Crackdowns", URL: https://badlands.substack.com/p/badlands-news-brief-540
 3. Badlands Brief — "Posse Comitatus & Haggling with Hamas", URL: https://badlands.substack.com/p/badlands-news-brief-94b
+4. Badlands News Brief — "A Constellation of Corruption & A Goldilocks Galaxy", URL: https://badlands.substack.com/p/badlands-news-brief-a40

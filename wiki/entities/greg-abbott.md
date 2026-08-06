@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [texas, governor, pardon, self-defense]
-sources: [raw/badlands-news-brief-09d.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-95a.md]
+sources: [raw/badlands-news-brief-09d.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-95a.md, raw/badlands-news-brief-a43.md]
 confidence: medium
 ---
 
@@ -38,6 +38,10 @@ House Speaker [[mike-johnson|Mike Johnson]] threw his support behind Abbott, joi
 
 During the [[2025-central-texas-floods|2025 Central Texas floods]], which killed at least 82 people over the Fourth of July weekend, Abbott warned that flash flooding continued to pose a danger for parts of Texas with more rain on the way in several areas.[5] State and local officials acting under that warning urged residents of Hunt, a community in [[kerr-county|Kerr County]], to move to higher ground because of the potential for further flooding.[5]
 
+## Opposition to renewed mask mandates (2023)
+
+After a Maryland school imposed an N-95 mask mandate in response to a small COVID-19 outbreak in September 2023, Abbott was among at least two Republican governors who publicly rejected any similar move, writing on X that it was "not going to happen in Texas."[6] Arkansas Governor [[sarah-huckabee-sanders|Sarah Huckabee Sanders]] issued a parallel statement, and ZeroHedge paired the reaction with a series of studies finding masks had little or no effect on transmission.[6] Badlands writer [[burning-bright|Burning Bright]] argued that the establishment's attempt to revive mandates and lockdowns and the grandiose opposition of [[ron-desantis|Ron DeSantis]] and what he called the "Con Inc." brigade represent two faces of the same systemic machine, adding that opposing authoritarian mandates as a political stunt "doesn't codify one as America First. It is now the bare minimum."[6]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Iranian Crashes, Israeli Maneuvers & Trumpian Rhetoric", URL: https://badlands.substack.com/p/badlands-news-brief-09d
@@ -45,3 +49,4 @@ During the [[2025-central-texas-floods|2025 Central Texas floods]], which killed
 3. Badlands Brief — "Russia's Retreat, Dominion's Domain & Street 'Justice'", URL: https://badlands.substack.com/p/badlands-news-brief-2e7
 4. Badlands Brief — "Red States Align While the MSM Craters", URL: https://badlands.substack.com/p/badlands-news-brief-5ff
 5. Badlands Brief — "Kingmakers, Rainmakers, & Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-95a
+6. Badlands Brief — "Badlands News Brief: Obama's Secrets, Blinken's Billions & GOP Posers", URL: https://badlands.substack.com/p/badlands-news-brief-a43

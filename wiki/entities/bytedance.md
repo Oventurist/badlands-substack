@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [china, technology, artificial-intelligence, intellectual-property]
-sources: [raw/badlands-brief-0a2.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-8ce.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-a15.md]
 confidence: medium
 ---
 
@@ -41,9 +41,14 @@ In July 2025, Business Insider reported that ByteDance had laid out plans to spl
 
 Under the [[tiktok-us-joint-venture-deal|TikTok US joint venture deal]] expected to be approved by President [[donald-trump|Donald Trump]] in late September 2025, ByteDance would be limited to under 20% ownership of the new US joint-venture company and permitted to appoint one of seven board seats.[5] The company would duplicate [[tiktok|TikTok]]'s recommendation algorithm and lease it to the joint venture, with the US version retrained, secured and operated entirely outside ByteDance's control under [[oracle|Oracle]]'s supervision.[5]
 
+## Ownership and the 2024 divestment bill
+
+ByteDance's ownership structure became a focus of American politics in March 2024 when the House passed a bill, by 352-65-1, that would force the divestment of its TikTok subsidiary.[6] Among ByteDance's partial owners is the American financier and Republican donor Jeffrey Yass, whose meeting with Donald Trump shortly before the vote drew attention in coverage of Trump's shifting stance on the platform.[6] Badlands writer Simon Esler cited that meeting, alongside Trump's meeting with Elon Musk, in speculating that Trump's media conglomerate might be positioning itself to acquire TikTok rather than see it banned.[6]
+
 ## References
 1. Badlands Brief — "A Virtual Smash & Grab & Another Impeachment Hoax", URL: https://badlands.substack.com/p/badlands-brief-0a2
 2. Badlands Brief — "J6 Returns to Headlines as Fear Mars AI and Airplanes", URL: https://badlands.substack.com/p/badlands-news-brief-120
 3. Badlands News Brief — "Treasury Triumphs, TikTok U-Turns, & Trade War Time-Outs", raw/badlands-news-brief-508.md
 4. Badlands Brief — "Badlands News Brief: ICE Swarms, TikTok Pivots, & Shoes Stay On", URL: https://badlands.substack.com/p/badlands-news-brief-6af
 5. Badlands Brief — "Palestinian Promises, Venezuelan Ventures, & Kazakh Considerations", URL: https://badlands.substack.com/p/badlands-news-brief-8ce
+6. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, defense, iran, military]
-sources: [raw/badlands-brief-0fb.md, raw/badlands-brief-143.md, raw/badlands-brief-625.md, raw/badlands-brief-884.md, raw/badlands-brief-e9e.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-719.md, raw/badlands-news-brief-74c.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-8bd.md]
+sources: [raw/badlands-brief-0fb.md, raw/badlands-brief-143.md, raw/badlands-brief-625.md, raw/badlands-brief-884.md, raw/badlands-brief-e9e.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-719.md, raw/badlands-news-brief-74c.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-a38.md]
 confidence: medium
 ---
 
@@ -108,6 +108,14 @@ The commentary argued that Sa'ar had been the expected pick and would have been 
 
 Katz's record of aggressive posturing toward a range of countries, including Syria — which Israel was reportedly bombing, with reports of Israeli special forces operating inside the country — was read as consistent with his rhetoric from January of that year, when he said Israel was already fighting World War III.[19] Given simultaneous conflicts with Hezbollah, Iran and Syria, all aligned with Moscow, the Badlands commentary suggested a direct Israel–Russia kinetic confrontation was not difficult to imagine.[19]
 
+## Threats against Erdogan and the Ayatollah
+
+After Turkish President [[recep-tayyip-erdogan|Recep Tayyip Erdogan]] threatened to invade Israel in 2024, Katz — then Israeli Foreign Minister — drew attention with a not-so-subtle counter-threat invoking the fate of [[saddam-hussein|Saddam Hussein]], and separately called for [[turkey|Turkey]] to be expelled from NATO.[20] In June 2025, by which time Katz had become Israeli Defense Minister, he deployed the same Saddam Hussein imagery in a threat directed at Iran's Ayatollah.[20] Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] remarked that the recurrence made it seem "as if the entire Iraq War was an Israeli scheme, and Saddam Hussein is their favorite trophy that they like to show off," and speculated that Katz's push to expel Turkey from NATO was intended to free Israel to take offensive action against Erdogan without triggering Article 5.[20]
+
+## Warning to Iran, April 2024
+
+After Iranian Supreme Leader [[ali-khamenei|Ali Khamenei]] declared in April 2024 that Israel "must be punished" for the strike on Iran's consulate in Damascus, Katz swiftly responded in a Persian-language statement on X: "If Iran attacks from its territory, Israel will respond and attack Iran."[21] The exchange came as [[joe-biden|Joe Biden]] promised "ironclad" U.S. support for [[israel|Israel]] against threatened Iranian reprisals.[21]
+
 ## References
 
 1. Badlands Brief — "Time is on Trump's Side ... But Which Regime is he Fighting?", URL: https://badlands.substack.com/p/badlands-brief-0fb
@@ -129,3 +137,5 @@ Katz's record of aggressive posturing toward a range of countries, including Syr
 17. Badlands Brief — "The Day of Days Has Arrived ...", URL: https://badlands.substack.com/p/badlands-news-brief-74c
 18. Badlands Brief — "Badlands News Brief: DemoCrabs in Biden's Bucket", URL: https://badlands.substack.com/p/badlands-news-brief-845
 19. Badlands Brief — "Badlands News Brief: A New Golden Age Begins ...?", URL: https://badlands.substack.com/p/badlands-news-brief-8bd
+20. Badlands News Brief — "A Constellation of Corruption & A Goldilocks Galaxy", URL: https://badlands.substack.com/p/badlands-news-brief-a40
+21. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38

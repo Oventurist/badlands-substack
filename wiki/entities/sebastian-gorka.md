@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [white-house, national-security-council, trump-administration]
-sources: [raw/badlands-news-brief-22b.md, raw/badlands-news-brief-2d5.md]
+sources: [raw/badlands-news-brief-22b.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-a66.md]
 confidence: medium
 ---
 
@@ -22,6 +22,11 @@ In May 2025, Gorka — described as a deputy assistant to the president — told
 
 The remarks came while Trump was touring the Middle East and had mulled travelling to [[turkey|Türkiye]] on Friday "if something happened," as Moscow's and Kiev's delegations were expected to hold discussions there following Putin's suggestion of resuming the Istanbul talks broken off three years earlier.[2] [[volodymyr-zelensky|Vladimir Zelensky]] said he would personally fly to Türkiye and demanded that Putin do the same; the Kremlin replied that the Russian president had no plan to travel, and Trump then said Putin had no reason to go since he himself had not committed to attending.[2]
 
+## Criticism of the Carlson–Putin interview (February 2024)
+
+Gorka drew attention in February 2024 for attacking [[tucker-carlson|Tucker Carlson]]'s decision to interview Russian President [[vladimir-putin|Vladimir Putin]], tweeting: "I remember when Americans didn't do PR for KGB colonels. Well, without being agents of the Kremlin."[3] Badlands writer [[ashe-in-america|Ashe in America]] cited the remark as an example of a self-proclaimed "America First" champion "losing his mind" over the [[tucker-carlson-putin-interview|Carlson–Putin interview]], arguing that a conservative should by definition value the First Amendment and independent journalism, and asking why Gorka did not want Americans to hear the Russian side of the conflict.[3] She read his position as a version of the authoritarian claim that censorship is "for your safety," and urged readers to reassess which influencers still represented their values.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Tsunamis, Bombshells, & Signed Declarations", URL: https://badlands.substack.com/p/badlands-news-brief-22b
 2. Badlands Media — "Badlands News Brief: Nuclear Negotiations, Ethics Probes, & American iPhones", URL: https://badlands.substack.com/p/badlands-news-brief-2d5
+3. Badlands Brief — "The President of Precedent & a Trapped Economy", URL: https://badlands.substack.com/p/badlands-news-brief-a66

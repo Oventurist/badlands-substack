@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [litigation, fourteenth-amendment, colorado, ballot-access, supreme-court]
-sources: [raw/badlands-news-brief-378.md, raw/badlands-news-brief-575.md]
+sources: [raw/badlands-news-brief-378.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-948.md]
 confidence: medium
 ---
 
@@ -32,6 +32,15 @@ Griswold was allotted ten minutes, argued by Colorado Solicitor General [[shanno
 
 A closed-door conference vote was expected within days, with a decision possible in days or months, and the Court was expected to move quickly because the Colorado primary fell on March 5; many similar cases in other states were held in limbo pending the ruling.[2] Ashe assessed that the high court was unlikely to uphold the lower court's ruling but that it remained unclear how far the justices would go regarding the insurrection findings.[2] [[just-human|Just Human]] summarized the argument as the Court being "absolutely frigid" toward the case for removing Trump from the ballot.[2]
 
+## December 2023 oral argument
+
+On December 6, 2023, the Colorado Supreme Court heard argument on whether former president [[donald-trump|Donald Trump]] should be kept off the state's Republican primary ballot under Section 3 of the [[fourteenth-amendment|Fourteenth Amendment]], one of a nationwide set of challenges in more than a dozen states and a case widely expected to reach the U.S. Supreme Court.[3] The first question before the court was whether Section 3 applies to the president as an "Officer" within the meaning of the text.[3] There was extensive discussion of Confederate president [[jefferson-davis|Jefferson Davis]] and of parallels between the Civil War and the chaos at the Capitol on January 6, and justices raised the possibility of unequal treatment of Colorado's Republican voters if they were denied the chance to vote for Trump.[3] Eric Olsen argued for the challengers that Trump's inclusion would dilute votes for "qualified" candidates, while [[scott-gessler|Scott Gessler]] argued for Trump that January 6 was better understood as a riot than an insurrection; Badlands writer [[ashe-in-america|Ashe in America]] judged the arguments on both sides weak.[3]
+
+## Possible outcomes and timeline
+
+Ashe outlined four possible dispositions: upholding the district court on both the Fourteenth Amendment and insurrection questions; overturning both; upholding on the amendment while overturning the insurrection finding (her preferred result); or overturning on the amendment while upholding the insurrection finding, which would remove Trump from the ballot.[3] She noted that Olsen had defended Judge Sarah Wallace's civil-court finding that Trump intentionally incited insurrection, a criminal-style determination Ashe considered improper.[3] The ruling was expected early the following week and in any event before the statutory deadline of December 29, 2023, with implications for 22 other Section 3 challenges nationwide and an appeal to the U.S. Supreme Court considered certain regardless of outcome.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Hypocrisy Roundup & Rug-pulls Galore", URL: https://badlands.substack.com/p/badlands-news-brief-378
 2. Badlands Brief — "Badlands News Brief: Putin Pandemonium Competes with A Biden Blitz", URL: https://badlands.substack.com/p/badlands-news-brief-575
+3. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948

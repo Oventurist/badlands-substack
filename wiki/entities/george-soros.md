@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [plutocrats, philanthropy, canada, green-agenda]
-sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8f3.md, raw/badlands-news-brief-93d.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8f3.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a6e.md]
 confidence: low
 ---
 
@@ -76,6 +76,14 @@ In June 2023, reporting by [[breitbart|Breitbart]] and other outlets confirmed t
 
 [[badlands-media|Badlands Media]] contributor [[ryan-delarme|Ryan DeLarme]] wrote that what had been suspected in the wake of those White House visits was now confirmed, and that the most striking feature of the handover was how public it was: Soros, he argued, is a figure who understands the value of discretion and has conducted most of his "philanthropy" quietly, so the sudden visibility of the operation was itself notable.[14] DeLarme also observed that despite Soros being an admitted atheist, merely naming him had previously been enough to attract accusations of antisemitism.[14] Contributor [[johnny-q|Johnny Q]] framed the succession as generational continuity — "like father, like son" — made more concerning by the elder Soros's endorsement, and called for influential globalists in league with what he termed the cabal to be exposed.[14]
 
+## Alleged funding of the Texas Majority Project (2025)
+
+In August 2025, Texas Attorney General [[ken-paxton|Ken Paxton]] opened an investigation into the [[texas-majority-project|Texas Majority Project]], a PAC founded by former [[beto-orourke|Beto O'Rourke]] staffers and reportedly funded by Soros, over alleged illegal support for Democratic legislators who fled the state to break quorum and block Republican redistricting legislation.[15] Paxton alleged the group may have engaged in unlawful financial coordination, bribery of the departing lawmakers, and illegal fundraising.[15]
+
+## Audacy and media consolidation (2024)
+
+In February 2024, Bloomberg reported that [[soros-fund-management|Soros Fund Management]], the investment firm Soros founded, was positioned to become the biggest shareholder of the radio and podcast company [[audacy|Audacy Inc.]] upon its emergence from bankruptcy, having accumulated more than $400 million of the company's highest-ranking debt for conversion into equity.[16] The transaction was described as the latest in a series of media investments by the fund, which had joined the lender group that bought [[vice-media|Vice Media]] out of bankruptcy in 2023 and had earlier taken a minority stake in the podcast company [[crooked-media|Crooked Media]].[16] Badlands writer [[burning-bright|Burning Bright]] argued that the debt-for-equity swap would give Soros interests direct influence over the conglomerate's business planning and narrative output across demographics ahead of the 2024 US election.[16]
+
 ## References
 1. Badlands Brief — "A Re-Alignment of World Systems", URL: https://badlands.substack.com/p/a-re-alignment-of-world-systems
 2. Badlands News Brief — "Lake Lasts, Biden Slumps & Powell Blinks", URL: https://badlands.substack.com/p/badlands-news-brief-050
@@ -91,3 +99,5 @@ In June 2023, reporting by [[breitbart|Breitbart]] and other outlets confirmed t
 12. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
 13. Badlands Brief — "Badlands News Brief: FBI Charges, Exorcisms and ... Woke M&M's?", URL: https://badlands.substack.com/p/badlands-news-brief-8f3
 14. Badlands Brief — "Badlands News Brief: Trump Trolls, Soros Slithers & Flags Fly", URL: https://badlands.substack.com/p/badlands-news-brief-93d
+15. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
+16. Badlands Brief — "Badlands News Brief: A Fiery Fani, a Plotting Putin & a Bumbling Biden Walk into a Bar", URL: https://badlands.substack.com/p/badlands-news-brief-a6e

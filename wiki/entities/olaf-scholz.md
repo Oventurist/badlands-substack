@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [germany, chancellor, migration, european-politics]
-sources: [raw/badlands-news-brief-017.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-58c.md, raw/badlands-news-brief-788.md]
+sources: [raw/badlands-news-brief-017.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-58c.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-adc.md]
 confidence: medium
 ---
 
@@ -36,6 +36,10 @@ In March 2024 Scholz promised a full inquiry after Russia published a recording 
 
 Politicians from parties in Scholz's coalition expressed concern that Russia may have eavesdropped on other sensitive conversations, and that German government communications might no longer be adequately protected.[5] The recording, posted on Telegram by [[margarita-simonyan|Margarita Simonyan]], head of Russian state broadcaster RT, captured the head of the Luftwaffe, [[ingo-gerhartz|Ingo Gerhartz]], discussing the possible deployment of German Taurus missiles in Ukraine, whether Ukraine could attack Russian targets without German soldiers' participation, and how many missiles could be delivered.[5] Scholz had to that point refused to deliver Taurus missiles to Kyiv.[5]
 
+## June 2024 European elections
+
+Scholz was identified in Badlands commentary, together with France's [[emmanuel-macron|Emmanuel Macron]], as among the leaders most clearly rattled by the [[2024-european-parliament-elections|June 2024 European Parliament elections]], in which both were rejected by double-digit deficits.[6] The commentary treated the outcome as a bellwether of European sentiment shifting toward strong borders and anti-interventionism rather than as an immediate change to German leadership.[6]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Tracking Resignations, Scare Events & the Death of Taxes", URL: https://badlands.substack.com/p/badlands-news-brief-017
@@ -43,3 +47,4 @@ Politicians from parties in Scholz's coalition expressed concern that Russia may
 3. Badlands Brief — "Theatrical Judges, Syrian Statements & Canadian Defections", URL: https://badlands.substack.com/p/badlands-news-brief-311
 4. Badlands Brief — "Badlands News Brief: The Winds of Change Approach DC …", URL: https://badlands.substack.com/p/badlands-news-brief-58c
 5. Badlands Brief — "Trump's Ballot Battles, Racist Mockingbirds and Dying DEI", URL: https://badlands.substack.com/p/badlands-news-brief-788
+6. Badlands Brief — "Badlands News Brief: Globalists Panic as Populism Takes Over the Zeitgeist", URL: https://badlands.substack.com/p/badlands-news-brief-adc

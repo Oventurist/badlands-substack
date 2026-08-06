@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [geopolitics, economics, multipolarity, sovereignty, badlands-analysis]
-sources: [raw/badlands-brief-323.md]
+sources: [raw/badlands-brief-323.md, raw/badlands-news-brief-ac6.md]
 confidence: low
 ---
 
@@ -22,6 +22,11 @@ The thesis frames apparent conflict as cover for a true disentanglement, describ
 
 A clean sovereign resolution in Taiwan would, in this reading, complete a trilogy of hard lessons: Iran demonstrated the folly of relying on distant nations for energy security, Russia the folly of relying on distant nations and their proxies for national security, and China — through an inevitable Taiwan crisis — would demonstrate the folly of relying on distant nations for logistical and technological security, spanning semiconductors, rare earths and advanced manufacturing.[1] The collapse of the just-in-time global supply chain is dated to an engineered pandemic said to have been meant to stop the Sovereign Alliance but which instead accelerated it, and the on-shoring and reshoring pursued by both Trump and Xi is cast as prophecy rather than protectionism.[1]
 
+## Burry's exit as evidence of decoupling (November 2025)
+
+[[burning-bright|Burning Bright]] invoked the Multipolar Margin Call framing in November 2025 when [[michael-burry|Michael Burry]] deregistered and liquidated [[scion-asset-management|Scion Asset Management]] after warning that "sometimes, we see bubbles."[2] He argued the stock market, once a distant mirror of the corporeal economy, had shattered that illusion and decoupled into "a hall of narrative mirrors where valuations dance to the whims of storytellers rather than actuals" — a decoupling he said he had been tracking in the Multipolar Margin Call between [[donald-trump|Donald Trump]] and [[xi-jinping|Xi Jinping]].[2] In his account the old rules of earnings and fundamentals lapsed in 1971 when [[richard-nixon|Nixon]] de-pegged the dollar from gold, and Burry's bearish [[palantir|Palantir]] and [[nvidia|Nvidia]] puts amount to calling the market's bluff from inside the funhouse.[2] He concluded that if the economy measures the real — "the sweat, the steel, the sovereign soil" — the stock market is the story that both translates and obfuscates it, that Trump is breaking markets precisely by attempting to fix them, and that the Golden Age "isn't in the charts; it's in the convergence of actuals we're building beneath the noise."[2]
+
 ## References
 
 1. Badlands Brief — "We're Winning, plus Cuban Dominoes & Weaponized Ethics", URL: https://badlands.substack.com/p/badlands-brief-323
+2. Badlands Brief — "Badlands News Brief: Epsteinian Psyops, Mortgage Madness and Caribbean Chaos", URL: https://badlands.substack.com/p/badlands-news-brief-ac6

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [attorney, hunter-biden, legal-defense]
-sources: [raw/badlands-news-brief-13b.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-711.md]
+sources: [raw/badlands-news-brief-13b.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a15.md]
 confidence: medium
 ---
 
@@ -30,8 +30,18 @@ Following the October 2025 indictment of former national security adviser [[john
 
 On September 5, 2024, Lowell told a federal court in California that his client [[hunter-biden|Hunter Biden]] intended to switch his plea and plead guilty to all nine tax charges brought by special counsel [[david-weiss|David Weiss]], having initially pleaded not guilty.[4] The announcement shocked federal prosecutors, with [[leo-wise|Leo Wise]] saying it was the first the government had heard of it.[4] The reversal came after Lowell's defense team had prepared to argue that Hunter Biden was too high or drunk to pay his taxes, and Judge [[mark-scarsi|Mark Scarsi]] set sentencing for December 16, 2024.[4]
 
+## December 2023 letters to James Comer
+
+Lowell, counsel to [[hunter-biden|Hunter Biden]], wrote to [[house-oversight-committee|House Oversight]] chairman [[james-comer|James Comer]] in December 2023 to restate that his client would testify only in a public hearing, offering the December 13, 2023 date the committee had reserved or another date that month.[5] Referring back to his November 28, 2023 letter, Lowell said Biden was prepared to answer any question pertinent to the subject matter of Comer's November 8 letter, and justified the demand for openness on the ground that the committee "uses closed-door sessions to manipulate, even distort, the facts and misinform the American public."[5]
+
+## Letter declining the March 2024 Oversight hearing
+
+In a letter to House Oversight Chairman James Comer dated Wednesday, March 13, 2024, Lowell informed the committee that neither he nor his client Hunter Biden could attend a public hearing scheduled for March 20 alongside Biden's former business associates, citing a California court date the following day.[6] Lowell added that "the scheduling conflict is the least of the issues, however," and challenged Comer to demonstrate good faith: "If you are serious about pursuing this oversight purpose in a legitimate and bipartisan fashion, you would hold a hearing with relatives of former President Trump about whom you indicated you 'would ask.' If you do, Mr. Biden would consider an invitation for that event."[6]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Hunters Hunted, Gender Confusion & the Spiritual War", URL: https://badlands.substack.com/p/badlands-news-brief-13b
 2. Badlands Brief — "Badlands News Brief: Very Productive Phone Calls & Presidential Memorandums", URL: https://badlands.substack.com/p/badlands-news-brief-153
 3. Badlands News Brief — "Mutations, Laptops & Chinese Balloons", URL: https://badlands.substack.com/p/badlands-news-brief-3ae
 4. Badlands Brief — "A Not so Brief Full of Sovereign SIGNAL", URL: https://badlands.substack.com/p/badlands-news-brief-711
+5. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
+6. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15

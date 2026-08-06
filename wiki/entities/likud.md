@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, political-party, knesset, netanyahu]
-sources: [raw/badlands-brief-559.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-95a.md]
+sources: [raw/badlands-brief-559.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-95a.md, raw/badlands-news-brief-a82.md]
 confidence: medium
 ---
 
@@ -42,9 +42,14 @@ In 2025, fifteen cabinet ministers from Likud, together with Knesset speaker [[a
 
 Badlands commentary highlighted that the demand came from Likud ministers holding smaller portfolios rather than from the hardliners of [[benjamin-netanyahu|Netanyahu]]'s Security Cabinet, the only Likud member of which was Deputy Prime Minister and Justice Minister [[yariv-levin|Yariv Levin]].[5]
 
+## Strains in June 2024
+
+By late June 2024 Likud was "beginning to crack" as [[benjamin-netanyahu|Netanyahu]]'s government showed signs of heading toward an early election, with coalition party leaders already openly campaigning, senior military and civil-service figures clashing publicly with the prime minister, and Netanyahu himself broadly unpopular despite general public support for the war.[6]
+
 ## References
 1. Badlands Brief — "Narrative Warfare For Your Safety", URL: https://badlands.substack.com/p/badlands-brief-559
 2. Badlands Brief — "Badlands News Brief: Fake Poles, HomOlympics & Deal-Making", URL: https://badlands.substack.com/p/badlands-news-brief-4c5
 3. Badlands Brief — "Badlands News Brief: ICE Swarms, TikTok Pivots, & Shoes Stay On", URL: https://badlands.substack.com/p/badlands-news-brief-6af
 4. Badlands Brief — "Badlands News Brief: MAGA Cracks, Fund Funnels, & Devilish Bees", URL: https://badlands.substack.com/p/badlands-news-brief-817
 5. Badlands Brief — "Kingmakers, Rainmakers, & Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-95a
+6. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82

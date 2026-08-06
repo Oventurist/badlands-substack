@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cia, ratcliffe, venezuela, intelligence, diplomacy]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-323.md, raw/badlands-brief-71c.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-22b.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-795.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-323.md, raw/badlands-brief-71c.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-22b.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-a04.md]
 confidence: medium
 ---
 
@@ -56,6 +56,12 @@ Following the [[2025-washington-dc-national-guard-shooting|November 26, 2025 sho
 
 Whistleblower evidence released by Ratcliffe as [[cia|CIA]] Director and by Director of National Intelligence [[tulsi-gabbard|Tulsi Gabbard]] challenged the [[2017-intelligence-assessment-on-russian-interference|2017 Intelligence Community Assessment]]'s conclusion that [[vladimir-putin|Vladimir Putin]] sought to help President [[donald-trump|Donald Trump]], showing internal dissent and questioning the report's rushed release.[10] The disclosures raised concerns about former CIA Director [[john-brennan|John Brennan]]'s push to include the discredited [[steele-dossier|Steele dossier]] in the assessment, prompting Ratcliffe and Gabbard to refer Brennan for possible prosecution; by December 2025 federal prosecutors had identified Brennan as the target of a criminal grand jury investigation in Miami.[10]
 
+## Suggestion of prosecutions for Hillary Clinton (July 2025)
+
+In a July 28, 2025 interview with Maria Bartiromo on Fox News, Ratcliffe expanded on the [[trump-administration|Trump administration]]'s allegations that former President [[barack-obama|Barack Obama]] and some of his officials fabricated "Russiagate" to undermine [[donald-trump|Donald Trump]] in 2016, and suggested that several figures — including Trump's 2016 rival [[hillary-clinton|Hillary Clinton]], who served as Obama's secretary of state — could face indictments or prosecutions.[11] "This was a Hillary Clinton campaign scheme," Ratcliffe said, alleging that Clinton conspired to "falsely accuse" Trump of colluding with Russia in what became known as the [[steele-dossier|Steele Dossier]].[11] He further claimed that Clinton, former [[fbi|FBI]] Director [[james-comey|James Comey]] and former [[cia|CIA]] Director [[john-brennan|John Brennan]] lied under oath about their involvement in the Russian election-interference narrative.[11] Asked by Bartiromo whether there remained "an opportunity for indictments, potential prosecutions, accountability," Ratcliffe replied: "Well, that's why I've made the referrals that I have."[11]
+
+Badlands contributor [[burning-bright|Burning Bright]] argued that "Grand Conspiracy" would become the legally codified label for Disclosure across the American political, legal and clandestine battlespace, noting that Director of National Intelligence [[tulsi-gabbard|Tulsi Gabbard]] had codified the framing days earlier and that the words "treason" and "conspiracy" were being restored to their original usage after decades of obfuscation by US intelligence since 1963.[11] He contended that the parallel runs of disclosure on the [[epstein-narrative|Epstein narrative]] and [[russiagate-hoax|Russiagate]] gave Trump a bipartisan public mandate and durable "narrative shielding."[11]
+
 ## References
 1. Badlands Brief — "Arctic Escalation and Tropic Trouble for the Financial System", URL: https://badlands.substack.com/p/badlands-brief-02a
 2. Badlands Brief — "We're Winning, plus Cuban Dominoes & Weaponized Ethics", URL: https://badlands.substack.com/p/badlands-brief-323
@@ -67,3 +73,4 @@ Whistleblower evidence released by Ratcliffe as [[cia|CIA]] Director and by Dire
 8. Badlands Brief — "Badlands News Brief: Devastation at Davos & the Dawn of Denuclearization", URL: https://badlands.substack.com/p/badlands-news-brief-53f
 9. Badlands Brief — "Afghanis Activate, Witch Hunts End, & Hitler Launches Re-Election Campaign", URL: https://badlands.substack.com/p/badlands-news-brief-747
 10. Badlands Brief — "Brennan Decries Judge Shopping & JD Says It's Okay to Be White!", URL: https://badlands.substack.com/p/badlands-news-brief-795
+11. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04

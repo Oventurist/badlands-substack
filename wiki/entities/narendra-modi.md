@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [india, sco, multipolar]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/and-iran-iran-so-far-away.md, raw/badlands-brief-ac2.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-942.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/and-iran-iran-so-far-away.md, raw/badlands-brief-ac2.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-942.md, raw/badlands-news-brief-a0c.md, raw/badlands-news-brief-a98.md]
 confidence: medium
 ---
 
@@ -46,6 +46,20 @@ Following the [[2025-kashmir-terrorist-attack|April 2025 terrorist attack]] in s
 
 In July 2024, President [[vladimir-putin|Vladimir Putin]] officially bestowed on Modi the [[order-of-st-andrew-the-apostle|Order of St. Andrew the Apostle]], [[russia|Russia]]'s highest civilian honour, in a ceremony recognising his "exceptional" contributions to advancing the strategic partnership between Russia and [[india|India]].[7] Modi responded, "Honoured to receive the Order of St. Andrew the Apostle. I dedicate it to the people of India."[7] Badlands commentary highlighted the interfaith symbolism of a Christian leader conferring a Christian accolade on a Hindu leader, comparing it with the [[order-of-abdulaziz-al-saud|Order of Abdulaziz Al Saud]] presented to [[donald-trump|Donald Trump]] by King Salman in 2017.[7]
 
+## Putin phone call after Kyiv visit (August 2024)
+
+On 27 August 2024, Kremlin spokesman [[dmitry-peskov|Dmitry Peskov]] announced that President [[vladimir-putin|Vladimir Putin]] had held an international telephone conversation with Modi, telling reporters that "Putin is working in the Kremlin today. Earlier, just an hour ago, Putin held an international telephone conversation; he spoke with his colleague from India, Modi."[8] Modi confirmed the call the same day, writing on X: "Spoke with President Putin today. Discussed measures to further strengthen Special and Privileged Strategic Partnership. Exchanged perspectives on the Russia-Ukraine conflict and my insights from the recent visit to Ukraine. Reiterated India's firm commitment to support an early, abiding, and peaceful resolution of the conflict."[8]
+
+The Kremlin said Modi had briefed Putin on his visit to [[ukraine|Ukraine]] and noted [[india|India]]'s interest in contributing to a possible settlement of the situation; Putin in turn gave what the Kremlin described as a fundamental assessment of "the destructive line of the Kiev authorities and their Western patrons," outlining key Russian approaches to resolving the conflict.[8] The exchange followed Modi's 8–9 July 2024 visit to [[russia|Russia]], which Badlands described as a "total love fest."[8]
+
+Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] presented the call as confirmation of his earlier speculation that Modi had been dispatched to Kyiv by the "Sovereign Alliance" to deliver a message to [[volodymyr-zelensky|Volodymyr Zelensky]], glossing the Kremlin readout as "Message delivered, Vlad" and Putin's response as "FAFO, NATO."[8]
+
+## Trump's APEC impersonation (October 2025)
+
+Speaking at an Asia-Pacific Economic Cooperation gathering in South Korea on Wednesday, October 29, 2025, President [[donald-trump|Donald Trump]] repeated his claim to have brokered peace between India and Pakistan earlier that year, called Modi "a killer," and performed an impersonation of him while recounting their conversation.[9] Trump said he had telephoned both New Delhi and Islamabad and used trade pressure to head off war between the two nuclear-armed neighbors: "I called Prime Minister Modi and said, 'We can't make a trade deal with you.' ... 'You're starting a war with Pakistan. We're not going to do it.'"[9] Imitating Modi's voice, Trump quoted him as replying, "No, we will fight," and described the Indian leader — "the nicest-looking guy" — as "tough as hell."[9]
+
+Badlands contributor GhostofBasedPatrickHenry called the exchange one of his favorite moments of the trip, reading it as a glimpse of the personal rapport Trump has cultivated with world leaders and as evidence that the India–Pakistan peace is less fragile than reported.[9] He argued Trump had preserved both countries' dignity by invoking the warrior spirit of each culture as the reason the Kashmir and Jammu dispute has never been fully resolved, and that the ability to mock Modi's "killer" instincts behind a tender public persona reflected mutual respect.[9] He also cited the episode as illustrating the theatrical dimension of world affairs, quoting the [[4th-psychological-operations-group|4th Psyop Group]]'s line that "warfare is evolving... and all the world's a stage."[9]
+
 ## References
 1. Badlands Brief — "A Gateway to a New World of Cooperation", URL: https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation
 2. Badlands Brief — "And Iran, Iran So Far Away", URL: https://badlands.substack.com/p/and-iran-iran-so-far-away
@@ -54,3 +68,5 @@ In July 2024, President [[vladimir-putin|Vladimir Putin]] officially bestowed on
 5. Badlands Brief — "Badlands News Brief: MAHA, Modi, Musk, & Munich", URL: https://badlands.substack.com/p/badlands-news-brief-7b8
 6. Badlands Brief — "Badlands News Brief: Ongoing Judicial Coups. Newly Jailed Judges.", URL: https://badlands.substack.com/p/badlands-news-brief-8a9
 7. Badlands Brief — "Kamala on the Media Block as Putin Makes Moves", URL: https://badlands.substack.com/p/badlands-news-brief-942
+8. Badlands News Brief — "Transition Teams at Home and Abroad ...", URL: https://badlands.substack.com/p/badlands-news-brief-a0c
+9. Badlands Brief — "Badlands News Brief: Asian Happy Endings, Salvadoran Favors, & American Public Corruption", raw/badlands-news-brief-a98.md

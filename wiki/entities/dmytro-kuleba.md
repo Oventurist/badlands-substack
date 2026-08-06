@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ukraine, diplomacy, foreign-minister, war]
-sources: [raw/badlands-news-brief-6f7.md]
+sources: [raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-a43.md]
 confidence: medium
 ---
 
@@ -20,5 +20,10 @@ Kuleba, 43, did not give a reason for stepping down; his resignation was to be d
 
 Kuleba was described as instrumental in lining up record-setting defense aid and foreign arms deliveries for Kyiv, including lobbying Washington to obtain Patriot missiles.[1] He was also seen as key in persuading the West to greenlight missile strikes inside Russian territory, and had latterly argued that restrictions on long-range systems should be removed.[1]
 
+## Joint news conference with Blinken (September 2023)
+
+On September 6, 2023, Kuleba appeared at a joint news conference in Kyiv with U.S. Secretary of State [[antony-blinken|Antony Blinken]], who used the occasion to announce more than $1 billion in new American aid to Ukraine.[2] Blinken said the package went beyond security assistance for the counteroffensive to include financial and humanitarian support to help rebuild "a free, resilient, thriving" country, with $300 million earmarked for Ukrainian law enforcement in liberated areas and a first delivery of MRAP vehicles to border guards and police.[2] The visit was among the highest-level U.S. trips to the Ukrainian capital since [[joe-biden|President Biden]]'s February 2023 journey.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Psyops Abound as the Media Landscape Shifts Rapidly", URL: https://badlands.substack.com/p/badlands-news-brief-6f7
+2. Badlands Brief — "Badlands News Brief: Obama's Secrets, Blinken's Billions & GOP Posers", URL: https://badlands.substack.com/p/badlands-news-brief-a43

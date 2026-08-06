@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [monetary-system, oil, dollar, brics, saudi-arabia]
-sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-62d.md]
+sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-a64.md]
 confidence: medium
 ---
 
@@ -34,7 +34,12 @@ In his account the petrodollar's value had for decades been "completely divorced
 
 In August 2023 [[india|India]] and the [[united-arab-emirates|United Arab Emirates]] settled an oil trade without converting local currencies into dollars for the first time, when [[indian-oil-corporation|Indian Oil Corp.]] paid in rupees for one million barrels bought from the [[adnoc|Abu Dhabi National Oil Company]].[3] The transaction was carried out under the [[local-currency-settlement-system|Local Currency Settlement system]] created by a July 2023 Memorandum of Understanding and facilitated by the [[reserve-bank-of-india|Reserve Bank of India]] and the Central Bank of the United Arab Emirates.[3] Commentary republished by [[badlands-media|Badlands Media]] characterized the sale as "another blow to the petrodollar" and to dollar dominance more broadly.[3]
 
+## Riyadh Deals (May 2025)
+
+Badlands contributor [[gmoney|GMONEY]] responded to the May 2025 [[saudi-us-investment-forum|Saudi-US Investment Forum]] in Riyadh — at which [[donald-trump|Donald Trump]] announced a $142 billion defense agreement and a $600 billion Saudi investment package, and Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] confirmed deals worth more than $300 billion — with a two-word verdict: "The Petrodollar is TOAST!"[4] The remark reflected a broader Badlands reading of the [[2025-trump-middle-east-tour|Middle East tour]] as a restructuring of the financial and diplomatic order underpinning US-Gulf relations.[4]
+
 ## References
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
 2. Badlands Brief — "Trump Surrenders ... Or Does He?", URL: https://badlands.substack.com/p/badlands-news-brief-4b1
 3. Badlands Brief — "Federal RICO, Disaster Opportunism & Putin's Peace", URL: https://badlands.substack.com/p/badlands-news-brief-62d
+4. Badlands Brief — "Badlands News Brief: Black Hat Nightmares & A Camelback Caravan of Confirmation", URL: https://badlands.substack.com/p/badlands-news-brief-a64

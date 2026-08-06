@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [taxation, trump, income-tax, policy, 2024-election]
-sources: [raw/a-week-to-remember.md, raw/are-we-being-distracted.md, raw/badlands-news-brief-109.md]
+sources: [raw/a-week-to-remember.md, raw/are-we-being-distracted.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-a9a.md]
 confidence: medium
 ---
 
@@ -36,7 +36,14 @@ By August 2024 the proposal had become the hottest tax topic of the presidential
 
 Economists on both the left and right warned of unintended consequences: depending on structure, the cut could add to an already unsustainable federal deficit, reduce revenue for Social Security and Medicare, and open a loophole allowing high-end earners such as financiers to recategorize income and shield it from taxation.[3] Howard Gleckman, a senior fellow at the nonpartisan Tax Policy Center, told Politico it was "one bad idea layered on top of another," adding that "there are not a lot of tax upsides."[3]
 
+## Joint Committee on Taxation testimony (May 2025)
+
+Before the House of Representatives passed [[donald-trump|President Trump]]'s "big, beautiful bill," Representative [[tom-suozzi|Tom Suozzi]] (D-NY), a member of the Ways and Means Subcommittee on Tax, questioned [[thomas-barthold|Thomas Barthold]], chief of staff of the [[joint-committee-on-taxation|Joint Committee on Taxation]], about the reconciliation package.[4] Suozzi pointed to the gap between Trump's campaign-trail promise that "your tips will be 100 percent yours" and the bill's actual provisions, asking whether the legislation continued the payroll tax on tips; Barthold replied, "Uh, yes, yes it does."[4] The bill had passed the House by a single vote and was in the hands of the [[us-senate|Senate]].[4]
+
+Badlands contributor [[burning-bright|Burning Bright]] responded that "all taxation is theft," but suggested Trump's no-tax-on-tips and [[no-tax-on-overtime|overtime]] play was wrapped in game theory and might kickstart a national argument over why those hours should be untaxable while ordinary wages are not.[4]
+
 ## References
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
 2. Badlands Brief — "Are We Being Distracted?", URL: https://badlands.substack.com/p/are-we-being-distracted
 3. Badlands Brief — "Badlands News Brief: Trump and Elon Break the Internet", URL: https://badlands.substack.com/p/badlands-news-brief-109
+4. Badlands Brief — "Proxy Wars & The Prevention of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a9a

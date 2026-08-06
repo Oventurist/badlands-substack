@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [fbi, investigation, surveillance, weaponization, congress]
-sources: [raw/badlands-brief-40d.md, raw/badlands-brief-abf.md, raw/badlands-brief-a20.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-095.md]
+sources: [raw/badlands-brief-40d.md, raw/badlands-brief-abf.md, raw/badlands-brief-a20.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-a98.md]
 confidence: medium
 ---
 
@@ -52,6 +52,14 @@ The disclosures also spotlighted former key FBI official [[timothy-thibault|Timo
 
 On November 4, 2025, [[verizon|Verizon]] acknowledged that it had secretly provided the call records of Republican lawmakers to the [[department-of-justice|Justice Department]] as part of the Arctic Frost investigation, which served as the foundation for the federal indictment of President [[donald-trump|Donald Trump]], and said it would implement new safeguards requiring top-level review before complying with subpoenas targeting members of Congress.[6] A Verizon spokesman said the company had been ordered in 2023 to turn over the records, that former special counsel [[jack-smith|Jack Smith]] and the Justice Department decided who to target, and that a court order barred the company from telling anyone.[6] Chief Judge [[james-boasberg|James Boasberg]] approved the orders preventing carriers from notifying the lawmakers, and Rep. [[brandon-gill|Brandon Gill]] introduced articles of impeachment against Boasberg over that role the same day.[6] [[ashe-in-america|Ashe in America]] framed the episode as intimidation and coercion falling squarely within the [[weaponization-of-government|weaponization of government]].[6]
 
+## October 2025 subpoena release
+
+On Wednesday, October 29, 2025, Senator [[chuck-grassley|Chuck Grassley]] released additional FBI files revealing that hundreds more Republican groups and individuals had been targeted in what he called a "fishing expedition" brought by special counsel [[jack-smith|Jack Smith]].[7] At a press conference alongside other GOP senators, Grassley made public 197 subpoenas issued as part of Arctic Frost, describing the probe as "the vehicle by which FBI agents and DOJ prosecutors could improperly investigate the entire Republican political apparatus."[7]
+
+Grassley said the material had been obtained "through legally protected whistleblower disclosures," and that the 197 subpoenas went to 34 individuals and 163 businesses, including financial institutions, requesting records and communications related to more than 430 individuals and organizations — all of which appeared aimed at Republicans.[7] Among the recipients were the late conservative figure [[charlie-kirk|Charlie Kirk]]'s [[turning-point-usa|Turning Point USA]] and the [[republican-attorneys-general-association|Republican Attorneys General Association]].[7]
+
+The disclosures fueled calls for the impeachment of Judge [[james-boasberg|James Boasberg]]; Senator [[mike-lee|Mike Lee]] posted publicly asking whether Boasberg should be impeached.[7] Badlands commentator Ashe in America answered in the affirmative but argued the more important remedy would be to abolish the district courts and return the justice domain to the people through citizen grand juries, to be proven out in the treason trials she expects.[7]
+
 ## References
 
 1. Badlands Brief — "Clinton Clashes, Royal Trafficking, & Fond WEF Farewells", URL: https://badlands.substack.com/p/badlands-brief-40d
@@ -60,3 +68,4 @@ On November 4, 2025, [[verizon|Verizon]] acknowledged that it had secretly provi
 4. Badlands Brief — "Abrahamic Rug Pulls, Frivolous Lawfare, & False Statements Under Oath", URL: https://badlands.substack.com/p/badlands-brief-e60
 5. Badlands Brief — "Badlands News Brief: Quantum Tunneling, Natural Conflicts, & Pirates for Gaza", URL: https://badlands.substack.com/p/badlands-news-brief-060
 6. Badlands Brief — "Shutdown Showcase, Attempted Tariff Takedowns, & the Launch of Mammany Hall", URL: https://badlands.substack.com/p/badlands-news-brief-095
+7. Badlands Brief — "Badlands News Brief: Asian Happy Endings, Salvadoran Favors, & American Public Corruption", raw/badlands-news-brief-a98.md

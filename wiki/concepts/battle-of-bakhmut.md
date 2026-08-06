@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ukraine, russia, bakhmut, wagner-group, donbas, war]
-sources: [raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-919.md]
+sources: [raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-919.md, raw/badlands-news-brief-a5a.md]
 confidence: medium
 ---
 
@@ -38,8 +38,15 @@ Writing on June 6, 2023, Badlands contributor [[burning-bright|Burning Bright]] 
 
 By early April 2023, with the fight for Bakhmut going poorly for Kyiv and Ukrainian casualties in the east believed to be high, talk of compromise accompanied anticipation of a spring counteroffensive.[4] President [[volodymyr-zelensky|Volodymyr Zelensky]] had voiced rare doubts about Bakhmut, appearing to prepare the Ukrainian public for a devastating defeat, and his deputy chief of staff [[andriy-sybiha|Andriy Sybiha]] then told the *Financial Times* that Kyiv was open to discussing the future of [[crimea|Crimea]] with Moscow.[4]
 
+## Talk of a "strategic pull-back" (February 2023)
+
+On Tuesday, February 28, 2023, Ukrainian presidential adviser [[alexander-rodnyansky|Alexander Rodnyansky]] told CNN that Ukrainian troops may "strategically pull back" from Bakhmut, then the focus of intense and brutal fighting for several months.[5] He said the army had not yet pulled out of the city but that Kyiv might soon decide the cost of holding it "outweighs the benefits," adding that the military would weigh all options and would not "sacrifice all of our people just for nothing."[5] Russian forces had assaulted the town for months in an attempt to capture it and gain a foothold in Ukraine's eastern Donetsk region.[5]
+
+[[burning-bright|Burning Bright]] warned against conflating a Ukrainian withdrawal with Russia's maneuver-defense doctrine of voluntarily ceding ground in order to encircle and destroy an advancing force, and read the Ukrainian messaging instead as an admission of defeat and of the failure of the [[nato|NATO]] proxy war.[5]
+
 ## References
 1. Badlands Brief — "Russia's Retreat, Dominion's Domain & Street 'Justice'", URL: https://badlands.substack.com/p/badlands-news-brief-2e7
 2. Badlands News Brief — "FBI Corruption, Kayfabe & Russia, Russia, Russia!", URL: https://badlands.substack.com/p/badlands-news-brief-38a
 3. Badlands Brief — "Badlands News Brief: Gheyliens, Ukrainian Nazis & Post Office Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-423
 4. Badlands Brief — "Badlands News Brief: Trials Galore, Ukraine Backpedal & The Gold Standard", URL: https://badlands.substack.com/p/badlands-news-brief-919
+5. Badlands News Brief — "Ukrainian Backpedal, Maxwell Solitary & Local Heroes", URL: https://badlands.substack.com/p/badlands-news-brief-a5a

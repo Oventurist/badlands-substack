@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [journalism, nord-stream, investigative-reporting]
-sources: [raw/badlands-news-brief-204.md, raw/badlands-news-brief-420.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-87b.md, raw/badlands-news-brief-8f4.md]
+sources: [raw/badlands-news-brief-204.md, raw/badlands-news-brief-420.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-87b.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-9e7.md]
 confidence: medium
 ---
 
@@ -52,6 +52,12 @@ The account was amplified by [[conservative-treehouse|Conservative Treehouse]] u
 
 When the [[new-york-times|New York Times]] reported on March 7, 2023 that new intelligence pointed toward a pro-Ukrainian group as responsible for the [[nord-stream-sabotage|Nord Stream sabotage]], its article referenced Hersh's Substack piece "How America Took Out the Nord Stream Pipeline."[6] Badlands contributor [[just-human|Just Human]] singled out that reference as notable, arguing that overlaying the Hersh account with the Times report, the parallel [[zeit-online|Zeit Online]] investigation and open-source intelligence would form a "constellation of facts, information and possibilities" bringing readers closer to the truth of the attack.[6]
 
+## "Opera Buffa in Ukraine" and the Crimean Bridge attacks (July 2023)
+
+In a Substack investigative article published in late July 2023, Hersh alleged that U.S. intelligence had helped Ukraine blow up the Kerch Strait (Crimean) Bridge earlier that month, an event that coincided with President [[vladimir-putin|Putin]]'s refusal to renew the [[black-sea-grain-initiative|Black Sea Grain Initiative]].[7] His sources further described U.S. assistance in the larger initial [[crimean-bridge-attack|Kerch Bridge explosion]] of October 2022 that temporarily disabled the span, with Hersh writing that "the Biden administration's role in both attacks was vital."[7]
+
+Badlands contributor [[burning-bright|Burning Bright]] situated the report in a sequence running from the alleged [[nord-stream-sabotage|Nord Stream 2 sabotage]] — which he described as a [[cia|CIA]] operation blamed on Russian operators and capable of pushing Europe toward kinetic war with Russia — through subsequent suspected false-flag events including the [[kakhovka-dam-destruction|Kakhovka Dam]] destruction and the bridge strikes.[7] He wrote that he had taken to calling the Biden [[state-department|State Department]] the "(Deep) State Department," observing that the Kremlin rarely addresses [[joe-biden|Joe Biden]] directly but often addresses Secretary of State [[antony-blinken|Antony Blinken]], and argued that the clandestine kinetic arm of the [[deep-state|Deep State]] is the CIA.[7]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Narrative Shielding & Biden Bait", URL: https://badlands.substack.com/p/badlands-news-brief-204
 2. Badlands News Brief — "The Hersh Report, Exposure & Disclosure", URL: https://badlands.substack.com/p/badlands-news-brief-420
@@ -59,3 +65,4 @@ When the [[new-york-times|New York Times]] reported on March 7, 2023 that new in
 4. Badlands Brief — "Con Inc. Introduces a New Candidate ... And Trump Was Right!", URL: https://badlands.substack.com/p/badlands-news-brief-6d6
 5. Badlands Brief — "Obama Leaves the Basement as Maduro Enters the Play", URL: https://badlands.substack.com/p/badlands-news-brief-87b
 6. Badlands Brief — "Badlands News Brief: January 6 and Nord Stream Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-8f4
+7. Badlands Brief — "Archer's Testimony & Prussian Roulette", URL: https://badlands.substack.com/p/badlands-news-brief-9e7

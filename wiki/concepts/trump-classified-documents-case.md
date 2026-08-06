@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [lawfare, trump, classified-documents, presidential-immunity, courts]
-sources: [raw/badlands-news-brief-092.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-6bc.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-89f.md]
+sources: [raw/badlands-news-brief-092.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-6bc.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a46.md]
 confidence: medium
 ---
 
@@ -60,6 +60,14 @@ In January 2024 [[donald-trump|Donald Trump]]'s effort to unseal documents in th
 
 Smith's team opposed the motion two days later, saying the government "supports full transparency of the record consistent with witness safety, national security, and the Court's protective order," and identifying six exhibits it wanted kept sealed, 22 that could be released to Trump's team subject to noted redactions, and others it did not object to producing or that had already been provided in discovery.[7] Trump's lawyers replied that Smith's office "made no effort to substantiate its vague claims concerning 'witness safety' and 'national security' as they relate to the requested redactions."[7] The same day, attorneys for local and national news media organizations filed a motion asking the court to confirm that the proposed redactions and withholdings were necessary, arguing the records "are presumptively public and that the Government must carry a heavy burden to justify sealing them in whole or in part."[7]
 
+## December 2023 unsealing order
+
+On December 4, 2023, Judge [[aileen-cannon|Aileen Cannon]] denied special counsel [[jack-smith|Jack Smith]]'s request to conceal documents from the defense and directed the clerk to unseal docket entries 223, 224 and 230, citing the strong presumption in favor of public access to judicial documents.[8] The case accuses former president [[donald-trump|Donald Trump]] of retaining sensitive government materials, some marked top secret, at his [[mar-a-lago|Mar-a-Lago]] home; Trump says he used presidential powers to declassify them and calls the prosecution an attempt by political foes to hamper his 2024 campaign.[8] His longtime aide [[walt-nauta|Walt Nauta]] and Mar-a-Lago property manager [[carlos-de-oliveira|Carlos De Oliveira]] are co-defendants and have pleaded not guilty; the unsealing was described as a win of sorts for them, coming amid protracted litigation over what classified material the defense may view.[8]
+
+## Vindictive prosecution motion (May 2024)
+
+On Thursday, May 2, 2024, [[donald-trump|Donald Trump]] filed a motion to dismiss the Florida classified documents indictment on the grounds of "selective and vindictive prosecution."[9] The filing followed an earlier attempt by his legal team to throw out the case under the [[presidential-records-act|Presidential Records Act]], which Judge [[aileen-cannon|Aileen Cannon]] had rejected on April 4, 2024.[9] The new motion cited special counsel [[robert-hur|Robert Hur]]'s February 2024 report, in which Hur wrote that "with one exception, there is no record of the Department of Justice prosecuting a former president or vice president for mishandling classified documents from his own administration."[9] The motion argued that "the exception is President Trump," that the basis was "his politics and status as President Biden's chief political rival," and that further discovery and a hearing were necessary before the superseding indictment was dismissed.[9]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Trans Easter Bait & A Tale of Two Presidents", URL: https://badlands.substack.com/p/badlands-news-brief-092
 2. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... Or So We're Told", URL: https://badlands.substack.com/p/badlands-news-brief-208
@@ -68,3 +76,5 @@ Smith's team opposed the motion two days later, saying the government "supports 
 5. Badlands Brief — "Biden Hemorrhages Already-Nonexistent Support", URL: https://badlands.substack.com/p/badlands-news-brief-6fc
 6. Badlands Brief — "Badlands News Brief: Trump Defiant, Biden Protected & Woke Worn", URL: https://badlands.substack.com/p/badlands-news-brief-7a7
 7. Badlands Brief — "Badlands News Brief: The Trump Train Rolls on ... Fake MAGA Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-89f
+8. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
+9. Badlands Brief — "Very Fine Marxists and Chinese Finger Traps", URL: https://badlands.substack.com/p/badlands-news-brief-a46

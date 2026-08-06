@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, info-war, commentary, badlands-brief]
-sources: [raw/badlands-brief-2c0.md, raw/badlands-brief-686.md, raw/badlands-brief-861.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-8fd.md]
+sources: [raw/badlands-brief-2c0.md, raw/badlands-brief-686.md, raw/badlands-brief-861.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a64.md]
 confidence: medium
 ---
 
@@ -90,6 +90,21 @@ Chris Paul responded to [[youtube|YouTube]]'s $24.5 million [[youtube-settlement
 
 In the December 5, 2025 Badlands News Brief, Chris Paul dismissed the FBI's pipe bomb arrest by asking when observers would accept that there were never any real pipe bombs on January 6.[18] He also mocked the Michigan absentee ballot ruling, quipping that 'a few more of these improvements and people will believe our fake elections are even more legitimate than before,' and joked about Halle Berry's appearance at the DealBook Summit.[18]
 
+## Commentary on the Rogan-Epstein story (July 2025)
+
+In the [[badlands-news-brief|Badlands News Brief]] of July 29, 2025, Chris Paul rejected CNN's framing that [[joe-rogan|Joe Rogan]]'s criticism over the [[epstein-files|Epstein files]] posed a problem for President [[donald-trump|Donald Trump]], noting that no Trump election was due for at least three and a half years and that "podcasters can't harm him."[19] He argued that "Standard-Issue Villagers" write as though Trump were uncertain about his own conduct, and characterized the whole affair as "a scripted psychodrama meant to keep you hooked to the Central Narrative," which he defined as "literally the thing that absolutely is not happening."[19]
+
+
+## Commentary in the August 8, 2025 brief
+
+Reacting to the nomination of [[stephen-miran|Stephen Miran]] to the [[federal-reserve|Federal Reserve]] Board of Governors, Chris Paul noted that "the author of the Mar-a-Lago Accords will be the next Fed governor," and floated [[michael-saylor|Michael Saylor]] as a candidate for Fed chairman.[20]
+
+## Commentary, May 2025
+
+Reacting to reporting that Attorney General [[pam-bondi|Pam Bondi]] functioned largely as a televised messenger for the administration, Paul wrote: "Whoa! Crazy! The members of the administration are just TV people? Who could've ever thought this?" — adding that he had said as much in November of the previous year and had been told he "wasn't trusting the plan hard enough by very stupid people pretending to be truthers."[21]
+
+He also criticized [[seth-dillon|Seth Dillon]] of [[babylon-bee|The Babylon Bee]] for joining what Paul described as establishment neoconservatives in labeling "conspiracy theorists" as "woke," calling the [[woke-right|woke right]] framing "a perfect new identifier and a proof of what I was showing people back in 2022."[21] Separately, [[ashe-in-america|Ashe in America]] named Paul, alongside [[burning-bright|Burning Bright]] and [[jon-herold|Jon Herold]], as having gamed out Saudi accession to the [[abraham-accords|Abraham Accords]] as a theory of a potential future for years before the May 2025 Riyadh visit.[21]
+
 ## References
 1. Badlands Brief — "Southern Hospitality Superseded Plus Cross Burning", URL: https://badlands.substack.com/p/badlands-brief-2c0
 2. Badlands Brief — "To Infinity & Iran!", URL: https://badlands.substack.com/p/badlands-brief-686
@@ -109,3 +124,6 @@ In the December 5, 2025 Badlands News Brief, Chris Paul dismissed the FBI's pipe
 16. Badlands Brief — "Brennan Decries Judge Shopping & JD Says It's Okay to Be White!", URL: https://badlands.substack.com/p/badlands-news-brief-795
 17. Badlands Brief — "Badlands News Brief: Shutdowns, Shakedowns, & Two Sexes", URL: https://badlands.substack.com/p/badlands-news-brief-762
 18. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
+19. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
+20. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
+21. Badlands Brief — "Badlands News Brief: Black Hat Nightmares & A Camelback Caravan of Confirmation", URL: https://badlands.substack.com/p/badlands-news-brief-a64

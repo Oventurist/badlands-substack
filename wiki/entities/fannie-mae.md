@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [housing, finance, government-sponsored-enterprise, fhfa]
-sources: [raw/badlands-brief-70c.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-364.md]
+sources: [raw/badlands-brief-70c.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-ac6.md]
 confidence: medium
 ---
 
@@ -32,7 +32,12 @@ On Tuesday, April 8, 2025, Fannie Mae announced it had fired more than 100 emplo
 
 Chief executive [[priscilla-almodovar|Priscilla Almodovar]] praised the move, thanking Pulte for "his empowering of Fannie Mae to root out unethical conduct, including anyone facilitating fraud."[3] Badlands contributor [[ashe-in-america|Ashe in America]] asked why it took a second Trump term to sort out fraud and abuse at the enterprise, arguing the reckoning should have come in 2008 but was deferred under "too big to fail" reasoning, and that public trust requires accountability.[3]
 
+## Elimination of the 620 minimum credit score
+
+In November 2025 Fannie Mae announced it would scrap the minimum credit score requirement of 620 for loans submitted through its Desktop Underwriter engine, effective that weekend, following a similar move made several years earlier by fellow mortgage middleman [[freddie-mac|Freddie Mac]].[4] The change potentially allows more Americans to qualify for loans from lenders who review borrower information through those underwriting systems, since credit histories are among the principal reasons property loans are denied.[4] Bankrate analyst Stephen Kates said a 619 score had previously produced automatic disqualification regardless of a borrower's broader financial profile, while Realtor.com senior economist Jake Krimmel called the change "a small positive demand shock" concentrated at the entry level and warned that a resulting jump in house values could price out the very borrowers it was meant to help.[4] Separately, [[federal-housing-finance-agency|FHFA]] director [[bill-pulte|Bill Pulte]] said Fannie Mae and Freddie Mac were evaluating how to offer assumable or [[portable-mortgages|portable mortgages]] "in a safe and sound manner."[4] Badlands commentator [[ashe-in-america|Ashe in America]] framed the measure as a procedural change to an automatic-decline trigger that benefits the financial services industries rather than making homes more affordable, recalling what happened when Fannie and Freddie last relaxed borrowing criteria: "slowly, then all at once."[4] Full detail is covered at [[fannie-mae-minimum-credit-score-elimination|the credit score elimination]].[4]
+
 ## References
 1. Badlands Brief — "Trump Taps Surprising New DNI While Media Freaks Out About Everything", URL: https://badlands.substack.com/p/badlands-brief-70c
 2. Badlands Brief — "Badlands News Brief: IC Ignitions & Double Detonations", URL: https://badlands.substack.com/p/badlands-news-brief-1a0
 3. Badlands Brief — "Badlands News Brief: Terminations, Port Tensions, & Terrifically Terrifying Trade Wars", URL: https://badlands.substack.com/p/badlands-news-brief-364
+4. Badlands Brief — "Badlands News Brief: Epsteinian Psyops, Mortgage Madness and Caribbean Chaos", URL: https://badlands.substack.com/p/badlands-news-brief-ac6

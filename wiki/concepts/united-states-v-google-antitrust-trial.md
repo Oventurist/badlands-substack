@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [antitrust, google, big-tech, justice-department, litigation]
-sources: [raw/badlands-news-brief-006.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-7b7.md, raw/badlands-news-brief-890.md]
+sources: [raw/badlands-news-brief-006.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-7b7.md, raw/badlands-news-brief-890.md, raw/badlands-news-brief-ac8.md]
 confidence: medium
 ---
 
@@ -42,8 +42,17 @@ Google regulatory vice president Lee-Anne Mulholland wrote on the company blog t
 
 Badlands writer [[ashe-in-america|Ashe in America]] argued from personal experience that the DOJ "cannot be trusted at all," citing a statement of interest and an amicus brief the department filed in her own court case that she said sided with an unconstitutional interpretation of two civil rights statutes and the First Amendment.[4] She contended that Google search is not a true monopoly because the search market is saturated and Google, while dominant, is not the only player, and that the federal government should not have authority to force Google to divest of search.[4] She considered even Google's own proposed agreement to go too far, though less offensive to the concept of free markets than the government's proposal.[4] Modern narrators, she wrote, have convinced Americans that federal oversight exists to prevent companies from rigging markets, but the federal government is itself possibly the most corrupt, wasteful, fraudulent and abusive entity in the realm, and the corrupt will never hold themselves accountable.[4] She concluded that the case should not move forward until [[pam-bondi|Pam Bondi]] takes her seat as Attorney General and a full DOJ case review has occurred, and that the lame-duck DOJ — whose interpretation of justice was roundly rejected by voters — must be refused in its final weeks.[4]
 
+## October 2024 divestiture filing
+
+In a court filing late in the second week of October 2024, the [[department-of-justice|U.S. Department of Justice]] said it was considering asking a federal judge to force [[google|Google]] to sell parts of its business in order to eliminate its online search monopoly, and that the court could additionally be asked to open to competitors the underlying data Google uses to power its search engine and artificial intelligence products.[5] "For more than a decade, Google has controlled the most popular distribution channels, leaving rivals with little-to-no incentive to compete for users," the antitrust enforcers wrote, adding that fully remedying the harms required "not only ending Google's control of distribution today, but also ensuring Google cannot control the distribution of tomorrow."[5] To that end the department said it was weighing structural changes to stop Google leveraging products such as the Chrome browser, the Android operating system, its AI products or its app store to benefit search, and signalled that any remedy proposals would seek to limit or ban Google's default search agreements.[5]
+
+## Badlands reading: antitrust as devolution
+
+[[burning-bright|Burning Bright]] placed the Google filing alongside the parallel DOJ antitrust actions against [[apple|Apple]] and Amazon, arguing that "big moves" on the game board should be read through military-intelligence and [[devolution|Devolution]]/continuity-of-government framing.[5] He cited a podcast remark by [[donald-trump|Donald Trump]] about "foreign-based apps" that "they haven't opened" mentioned in the same breath as Iran, reading it as Trump spotlighting Apple's alleged role in interfering with an investigation into the origins of two assassination plots against him.[5] That the DOJ was simultaneously moving aggressively against Apple, Amazon and Google — threatening to break up the latter — gave off, in his phrase, "EO 13818 vibes," a reference to the executive order on human rights and corruption-related asset blocking.[5]
+
 ## References
 1. Badlands Brief — "NATO Warmongers & Google Searches for a Way Out", URL: https://badlands.substack.com/p/badlands-news-brief-006
 2. Badlands News Brief — "Monkeypox ... For Real? And Other Info War Oddities", URL: https://badlands.substack.com/p/badlands-news-brief-36a
 3. Badlands Brief — "Badlands News Brief: Harris Preps, Sovereigns Speak & ... Haitians Eat Cats?", URL: https://badlands.substack.com/p/badlands-news-brief-7b7
 4. Badlands Brief — "Absurdity and MAGAMania as the Year Winds Down", URL: https://badlands.substack.com/p/badlands-news-brief-890
+5. Badlands Brief — "Storms both Real and Political Converge in October", URL: https://badlands.substack.com/p/badlands-news-brief-ac8

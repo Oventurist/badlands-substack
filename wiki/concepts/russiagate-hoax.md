@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [russiagate, intelligence, accountability, hoax, media]
-sources: [raw/badlands-blitz-episode-14.md, raw/badlands-brief-625.md, raw/badlands-news-brief-07f.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-721.md]
+sources: [raw/badlands-blitz-episode-14.md, raw/badlands-brief-625.md, raw/badlands-news-brief-07f.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-a04.md]
 confidence: medium
 ---
 
@@ -78,6 +78,13 @@ On 4 August 2025 Attorney General [[pam-bondi|Pam Bondi]] signed an order direct
 
 Badlands commentator Ashe in America argued that accountability must proceed "by the book" with defendants' rights preserved, holding that the measure of justice is accountability rather than transparency, and that for "the biggest and most treasonous conspiracy in the history of America" accountability means setting an example that still makes people think twice a century later.[9] Burning Bright added that the public dismantling of Russiagate does not merely exonerate Trump but seeds a "Russian redemption arc" in the Western mind, recasting Russia as a fellow victim of globalist subversion rather than the perennial boogeyman of Hollywood and Cold War political narrative.[9]
 
+## Ratcliffe's July 2025 prosecution comments
+
+On July 28, 2025, [[cia|CIA]] Director [[john-ratcliffe|John Ratcliffe]] told Fox News host Maria Bartiromo that former Obama-era officials had manufactured "Russiagate" to undermine [[donald-trump|Donald Trump]] in 2016, and that figures including [[hillary-clinton|Hillary Clinton]] could face indictment or prosecution.[10] "This was a Hillary Clinton campaign scheme," he said, alleging that Clinton conspired to "falsely accuse" Trump of colluding with Russia through what became the [[steele-dossier|Steele Dossier]], and that Clinton, [[james-comey|James Comey]] and [[john-brennan|John Brennan]] lied under oath about their roles.[10] Asked about accountability, Ratcliffe answered: "Well, that's why I've made the referrals that I have."[10]
+
+Badlands contributor [[burning-bright|Burning Bright]] framed the moment as the transformation of "Grand Conspiracy" from a hashtag into a legally codified label for Disclosure, noting that DNI [[tulsi-gabbard|Tulsi Gabbard]] had codified the framing days earlier and that the parallel Epstein and Russiagate disclosure tracks gave Trump bipartisan "narrative shielding."[10]
+
+
 ## References
 1. Badlands Brief — "Badlands Blitz Episode 14: The Dawning Age of American Accountability", URL: https://badlands.substack.com/p/badlands-blitz-episode-14
 2. Badlands Brief — "Mr. Nice Guy Leaves the Building (plus, Jewish Terrorism)", URL: https://badlands.substack.com/p/badlands-brief-625
@@ -88,3 +95,4 @@ Badlands commentator Ashe in America argued that accountability must proceed "by
 7. Badlands Brief — "Badlands News Brief: Archives, Shifty Schiff, PelosiGate and Durham Panic", URL: https://badlands.substack.com/p/badlands-news-brief-2a2
 8. Badlands Brief — "Badlands News Brief: FOX Trots, Montana Maintains & Congress Convenes", URL: https://badlands.substack.com/p/badlands-news-brief-49a
 9. Badlands News Brief — "Post Mortems, Dog Fights, & Flight Risks", URL: https://badlands.substack.com/p/badlands-news-brief-721
+10. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04

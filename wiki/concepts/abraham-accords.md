@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [middle-east, diplomacy, israel, iran, trump, badlands-brief]
-sources: [raw/badlands-brief-3d4.md, raw/badlands-brief-e60.md, raw/badlands-brief-f87.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8ae.md]
+sources: [raw/badlands-brief-3d4.md, raw/badlands-brief-e60.md, raw/badlands-brief-f87.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-aac.md]
 confidence: medium
 ---
 
@@ -91,6 +91,20 @@ Netanyahu nonetheless attempted to withdraw at the last moment: twenty-four hour
 
 Badlands commentary notes that after the 2020 US election, Netanyahu was the first foreign leader to call [[joe-biden|Joe Biden]] and congratulate him — a move that deteriorated his relationship with Trump and prompted years of subsequent efforts by Netanyahu's allies to repair the rift.[13]
 
+## Invoked during the April 2024 escalation
+
+As [[israel|Israel]] prepared for possible Iranian retaliation and Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] said the country was readying for "scenarios in other areas" beyond Gaza, Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] asked "What happened to the Abraham Accords?" and whether "the Sons of Abraham" would unite against wider war.[14]
+
+## Saudi Accession Push (May 2025)
+
+At the [[saudi-us-investment-forum|Saudi-US Investment Forum]] in Riyadh on May 13, 2025, [[donald-trump|Donald Trump]] said it was his "fervent hope" that Saudi Arabia would soon sign its own normalization agreement with Israel and join the Accords, while conceding, "But you'll do it in your own time."[15] He told the audience, "It will be a special day in the Middle East, with the whole world watching, when Saudi Arabia joins us, and you'll be greatly honoring me and you'll be greatly honoring all of those people that have fought so hard for the Middle East."[15] Observers noted that while arms sales and tech investment deals were likely to be concluded during the [[2025-trump-middle-east-tour|Middle East tour]], Saudi accession to the Accords remained a tougher sell.[15]
+
+Badlands hosts treated the moment as vindication of a long-running prediction: [[ashe-in-america|Ashe in America]] noted that CannCon's newsletter and [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] had raised Saudi accession at least weekly since before the election, and that [[burning-bright|Burning Bright]], [[jon-herold|Jon Herold]] and [[chris-paul|Chris Paul]] had gamed out the same outcome for years.[15] GhostofBasedPatrickHenry offered his own label for the emerging arrangement — "Welcome to the JACOB Accords. (Just A Couple Of Bros)" — and argued that "the Old Guard is done."[15]
+
+## Interpretation as a counterinsurgency instrument (2024)
+
+Writing in the July 2, 2024 Badlands News Brief, [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] restated his view that the Accords were wielded as a political weapon intended to ignite a peaceful counterinsurgency across the region and within Israel against [[benjamin-netanyahu|Benjamin Netanyahu]] and the Israeli Deep State, and argued that this was visibly happening.[16] In his account the Accords got the Arab states "all playing the same sheet of music" after decades of infighting over what to do about Israel and perceived Zionist aggression.[16] He cited as evidence Arab states working to keep Israel well-provisioned while Iran-linked proxy militias attacked Red Sea shipping, Arab participation in shielding Israel from Iran's missile barrage, and [[hezbollah|Hezbollah]] issuing specific advance warnings about which targets it would strike if the IDF invaded Lebanon — behavior he called a bizarre strategy for anyone actually intending to fight.[16] He credited Saudi foreign minister [[faisal-bin-farhan|Faisal bin Farhan]] with running the diplomacy, working every channel and speaking daily with members of the so-called Sovereign Alliance including Iran, China, and Russia, and predicted that peace would break out but only after further heat.[16]
+
 ## References
 1. Badlands Brief — "Canadian Separatists & Guerilla Campaigns", URL: https://badlands.substack.com/p/badlands-brief-3d4
 2. Badlands Brief — "Abrahamic Rug Pulls, Frivolous Lawfare, & False Statements Under Oath", URL: https://badlands.substack.com/p/badlands-brief-e60
@@ -105,3 +119,6 @@ Badlands commentary notes that after the 2020 US election, Netanyahu was the fir
 11. Badlands Brief — "Badlands News Brief: Unlikely Ambassadors, The Ceasefire Accords, & Predatory Cartoonist", URL: https://badlands.substack.com/p/badlands-news-brief-7ed
 12. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
 13. Badlands Media — "Badlands News Brief: Vance Takes the Stage as Biden Takes the Basement", URL: https://badlands.substack.com/p/badlands-news-brief-8ae
+14. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38
+15. Badlands Brief — "Badlands News Brief: Black Hat Nightmares & A Camelback Caravan of Confirmation", URL: https://badlands.substack.com/p/badlands-news-brief-a64
+16. Badlands Brief — "Badlands News Brief: Wins at Home and Deals Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-aac

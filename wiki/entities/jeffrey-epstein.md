@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [epstein, doj, trafficking, media-narrative]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-174.md, raw/badlands-brief-40d.md, raw/badlands-brief-314.md, raw/badlands-brief-4ec.md, raw/badlands-brief-52f.md, raw/badlands-brief-6f4.md, raw/badlands-brief-ac2.md, raw/badlands-brief-8db.md, raw/badlands-brief-f17.md, raw/badlands-brief-e9e.md, raw/badlands-news-blast.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-13b.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-95a.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-174.md, raw/badlands-brief-40d.md, raw/badlands-brief-314.md, raw/badlands-brief-4ec.md, raw/badlands-brief-52f.md, raw/badlands-brief-6f4.md, raw/badlands-brief-ac2.md, raw/badlands-brief-8db.md, raw/badlands-brief-f17.md, raw/badlands-brief-e9e.md, raw/badlands-news-blast.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-13b.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-95a.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a56.md, raw/badlands-news-brief-a65.md]
 confidence: medium
 ---
 
@@ -185,6 +185,25 @@ In a two-page memo obtained by Axios and reported on July 7, 2025, the [[departm
 
 Axios framed the findings as the first time the Trump administration had officially contradicted conspiracy theories about Epstein's activities and death, noting that such theories had been pushed by the FBI's top two officials — Director [[kash-patel|Kash Patel]] and Deputy Director [[dan-bongino|Dan Bongino]] — before their appointments to the bureau.[30] Both men have since said Epstein committed suicide, even as it remained an article of faith online, especially on the right, that Epstein's crimes implicated government officials, celebrities and business leaders and that he was killed to conceal them.[30] Badlands contributor [[jon-herold|Jon Herold]] responded that he and [[chris-paul|Chris Paul]] had warned of the "Epstein Rugpull" on the [[devolution-power-hour|Devolution Power Hour]] exactly one month earlier.[30]
 
+## RFK Jr.'s 2023 disclosures
+
+In December 2023 independent presidential candidate [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] publicly admitted he had flown twice on Epstein's private jet, the so-called "Lolita Express," in 1993 and on a later occasion with his family, and said he had once gone fossil hunting with Epstein in South Dakota.[31] Kennedy described Epstein as a "pedophile fixer to the global elite" era figure whose conduct was unknown at the time, and called for full public release of information about his death and "any of the high-level political people that he was involved with."[31] Flight manifests do not list Kennedy or [[donald-trump|Donald Trump]] — who flew on the jet in 1997 — as ever visiting Epstein's island.[31]
+
+## Continued political salience (July 2025)
+
+Four weeks into the July 2025 controversy over the [[epstein-files|Epstein files]], Epstein's name was mentioned more than 40 times in a single episode of *The Joe Rogan Experience*, with [[joe-rogan|Joe Rogan]] calling the [[trump-administration|Trump administration]]'s refusal to release additional material a "line in the sand."[32] Reporting emphasized that the pressure on President [[donald-trump|Donald Trump]] came from within his own coalition of media supporters rather than from political opponents.[32]
+
+
+## $1 billion in suspicious JPMorgan transfers disclosed (September 2023)
+
+In early September 2023, the [[us-virgin-islands|U.S. Virgin Islands]] disclosed in its lawsuit against [[jpmorgan-chase|JPMorgan]] that the bank had flagged over $1 billion in suspicious transactions linked to Epstein and reported them to the U.S. government in a 2019 filing to the Treasury Department, made after his death in a Manhattan jail cell a month after his arrest on sex-trafficking charges.[33] Epstein banked with the firm from the late 1990s through 2013, and the disclosure marked the first time the volume of his financial activity there across a 16-year period had been made public.[33] USVI attorney Mimi Liu argued that "JPMorgan was a full-service bank for Jeffrey Epstein's sex trafficking," while the territory had separately said the bank facilitated more than $1.1 million in payments from Epstein to "girls or women," many with Eastern European surnames.[33] Epstein notoriously trafficked some of his victims to a private island in the USVI.[33] [[badlands-media|Badlands Media]] writer [[burning-bright|Burning Bright]] described crimes-against-children narratives as the "darkest path" in the information war and urged readers not to lose sight of them amid political scandal and cultural warfare.[33]
+
+## February 2025 document release
+
+On February 27, 2025, the Justice Department released roughly 200 pages of Epstein-related material, including his contact list, flight logs, and an inventory of the evidence the government had amassed against him.[34] The release produced no major revelations, listing figures already publicly associated with him, among them Mick Jagger, Michael Jackson, Alec Baldwin, Ethel Kennedy, Andrew Cuomo, Naomi Campbell, Courtney Love, Bob Weinstein, David Koch, Ted Kennedy, Ralph Fiennes, Kerry Kennedy, Alan Dershowitz, John Kerry, Dustin Hoffman, Jon Huntsman, Ivana Trump, Ivanka Trump, and Liz Hurley; President [[donald-trump|Donald Trump]]'s name did not appear in the contact list.[34] Attorney General [[pam-bondi|Pam Bondi]] subsequently demanded that FBI Director [[kash-patel|Kash Patel]] deliver thousands of further pages she said were held by the [[fbi|FBI]] field office in New York.[34]
+
+In commentary on the deaths of actor [[gene-hackman|Gene Hackman]] and his wife [[betsy-arakawa|Betsy Arakawa]], a Badlands contributor noted that Hackman's Santa Fe home lay 39 miles from Epstein's [[zorro-ranch|Zorro Ranch]], the New Mexico property where Epstein was said to have pursued interests in eugenics and transhumanism, while stating that no direct connection between the two men could be identified.[34]
+
 ## References
 1. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
 2. Badlands Brief — "Conflicts, Cartels, & Clemency", URL: https://badlands.substack.com/p/badlands-brief-174
@@ -216,3 +235,7 @@ Axios framed the findings as the first time the Trump administration had officia
 28. Badlands Brief — "Badlands News Brief: ICE Swarms, TikTok Pivots, & Shoes Stay On", URL: https://badlands.substack.com/p/badlands-news-brief-6af
 29. Badlands Brief — "Badlands News Brief: Mostly Peaceful Riots and Billionaire Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-6db
 30. Badlands Brief — "Kingmakers, Rainmakers, & Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-95a
+31. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
+32. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
+33. Badlands Brief — "Badlands News Brief: Corruption Probes, Client Lists & Mud Pits", URL: https://badlands.substack.com/p/badlands-news-brief-a56
+34. Badlands Brief — "Badlands News Brief: Rug Pulled Reputations, Insubordination, & the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-a65

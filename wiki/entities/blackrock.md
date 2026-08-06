@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, asset-management, media-ownership]
-sources: [raw/a-swan-song-for-the-msm.md, raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-49a.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-a72.md]
 confidence: medium
 ---
 
@@ -32,8 +32,13 @@ Badlands commentary traced BlackRock's shift from aggressive ESG advocacy in 201
 
 In April 2023 [[badlands-media|Badlands Media]] contributor [[ryan-delarme|Ryan DeLarme]] pointed to BlackRock's simultaneous positions in both parties to the [[fox-dominion-defamation-settlement|Fox–Dominion defamation settlement]], citing roughly $45.7 million in [[fox-corporation|Fox]] stock and about $59 million in [[dominion-voting-systems|Dominion Voting Systems]] stock.[4] On that basis he argued the $787 million payout amounted to moving money from one BlackRock-held pocket to another, manufacturing the appearance that the injured party had been made whole and that the 2020 election had been fair.[4]
 
+## Chinese block of the Panama Canal ports deal (March 2025)
+
+China held up the $23 billion sale of dozens of ports worldwide — including two key ports on the [[panama-canal|Panama Canal]] — to a group led by BlackRock, after President [[donald-trump|Donald Trump]] expressed concern about Beijing's sway over the strategic shipping lanes.[5] [[ck-hutchison|CK Hutchison]], the Hong Kong conglomerate controlled by [[li-ka-shing|Li Ka-shing]], had announced on March 4, 2025 the sale of 43 port facilities globally for roughly $22.8 billion, but China's State Administration for Market Regulation opened an anti-monopoly investigation that effectively stalled the deal.[5] The transaction, spearheaded by BlackRock chief executive [[larry-fink|Larry Fink]], a longtime Trump confidant, was to be signed by April 2, a deadline seen as likely to slip; [[xi-jinping|Xi Jinping]] was reported to be angry that Beijing had not been consulted.[5]
+
 ## References
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
 2. Badlands Brief — "And Iran, Iran So Far Away", URL: https://badlands.substack.com/p/and-iran-iran-so-far-away
 3. Badlands Brief — "Badlands News Brief: Inbound America: Terrorists, Trillions, & Diplomats", URL: https://badlands.substack.com/p/badlands-news-brief-3a5
 4. Badlands Brief — "Badlands News Brief: FOX Trots, Montana Maintains & Congress Convenes", URL: https://badlands.substack.com/p/badlands-news-brief-49a
+5. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72

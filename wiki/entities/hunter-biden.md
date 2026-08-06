@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [biden-family, congress, subpoena, contempt-of-congress]
-sources: [raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-8ba.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-91b.md]
+sources: [raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-8ba.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-9de.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-adc.md]
 confidence: medium
 ---
 
@@ -70,6 +70,34 @@ In February 2023, Summit News reported that [[chatgpt|ChatGPT]] refused to write
 
 In July 2025 a widely circulated clip from a Hunter Biden longform interview was used by Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] as a substitute for his own commentary on Israeli annexation politics, in the [[badlands-news-brief|Badlands News Brief]] item covering [[bezalel-smotrich|Bezalel Smotrich]]'s Gaza "security annexation" remarks.[12] The Badlands writer noted approvingly that Biden appeared "smart enough to realize that the entire narrative about paragliding go-karts penetrating the [[iron-dome|Iron Dome]] was complete and total bullshit," and added: "I need moar Hunter Biden longform interviews. The more he talks the more damage he does to the establishment."[12]
 
+## Plea deal collapse, August 2023
+
+On the night of Sunday, August 13, 2023, Hunter Biden told a federal judge that the Justice Department was attempting to renege on a major part of his agreement with the government — his enrollment in a diversion program for gun offenders, which he said he had signed and which granted him broad immunity from future federal prosecution.[13] The claim came in a court filing by his lawyer, Christopher Clark, and formed the latest exchange in the back-and-forth between Biden and [[david-weiss|David C. Weiss]], the Trump-appointed prosecutor leading the long-running investigation into the president's son.[13]
+
+Shortly after Attorney General [[merrick-garland|Merrick Garland]] elevated Weiss to special counsel, government lawyers stated in court papers on the preceding Friday that they and Biden were at an impasse over plea negotiations and that no agreement had been reached.[13] Under the proposed deal, Biden would have pleaded guilty to two tax misdemeanors and entered the diversion program, allowing him to avert prosecution on a gun charge; in his Sunday filing he rebutted the prosecutors' account, saying he had signed the agreement in court the previous month and intended to abide by it.[13] The investigation had appeared to be concluding in June 2023 when both sides announced a deal, but at a Delaware hearing the following month the two sides expressed drastically different views of the immunity provision and the judge placed the matter on hold.[13]
+
+## December 2023 standoff over public testimony
+
+In a December 2023 letter to Rep. [[james-comer|James Comer]], chairman of the [[house-oversight-committee|House Committee on Oversight and Accountability]], Hunter Biden's attorney [[abbe-lowell|Abbe Lowell]] reiterated that his client would testify before Congress only in public.[14] Lowell wrote that Biden had offered to appear on December 13, 2023 — the date Comer had reserved — or another date that month, to answer any question pertinent to the subject matter of Comer's November 8 letter, and framed the choice as a response to Comer's own repeated public remarks.[14] He argued the committee "uses closed-door sessions to manipulate, even distort, the facts and misinform the American public," while a public hearing "would ensure transparency and truth."[14] Comer had rejected the November 28 offer, insisting testimony occur behind closed doors.[14]
+
+The standoff came as House Republicans neared a vote to formally authorize the [[biden-impeachment-inquiry|impeachment inquiry]] into President [[joe-biden|Joe Biden]], following subpoenas Comer issued to Hunter Biden, the president's brother [[james-biden|James Biden]] and other family members and business associates; Hunter was directed to appear for a deposition on December 13 and James on December 6.[14] Badlands writer [[just-human|Just Human]] summarized the week as James Biden failing to appear, Hunter attempting to duck the closed-door deposition, the [[house-ways-and-means-committee|House Ways and Means Committee]] again interviewing IRS whistleblowers, and special counsel [[david-weiss|David Weiss]] arguing that Hunter should not be permitted to subpoena documents from Trump, Barr, Rosen and Donoghue.[14]
+
+## Refusal to attend the March 2024 public hearing
+
+In March 2024 Hunter Biden refused to attend a public House Oversight Committee hearing scheduled for March 20 alongside several of his former business associates who had been critical of him.[15] His attorney Abbe Lowell told Oversight Chairman James Comer in a letter that neither Biden nor his counsel could attend because of a court date in California the following day, but added that "the scheduling conflict is the least of the issues."[15] Lowell wrote that "if you are serious about pursuing this oversight purpose in a legitimate and bipartisan fashion, you would hold a hearing with relatives of former President Trump about whom you indicated you 'would ask'," in which case "Mr. Biden would consider an invitation for that event."[15]
+
+The exchange followed Hunter Biden's closed-door deposition, during which he had raised the Trump family's financial dealings and Comer said he would ask the Trump family about them.[15] Biden had said in November that he would testify before the Oversight Committee only if the hearing were public, while Comer proposed a closed-door session first followed by a public one; after House Republicans moved toward holding him in contempt of Congress for defying a congressional subpoena, he agreed to the closed-door deposition, whose transcript was released the previous month.[15]
+
+## Suspension of D.C. law license
+
+On June 25, 2024, the [[dc-court-of-appeals|D.C. Court of Appeals]] suspended Hunter Biden's law license after his conviction earlier that month on three federal gun charges, ordering him "suspended immediately from the practice of law" in the District after considering the indictment and jury verdict.[16] The court directed D.C.'s Board on Professional Responsibility to institute a formal proceeding to determine the nature of the offense and whether it involved moral turpitude, following an earlier finding by the D.C. Office of Disciplinary Counsel that his offenses amounted to a "serious crime" triggering automatic suspension.[16] Reporting noted that he faced up to 25 years in prison, though as a first-time offender the maximum was considered unlikely.[16]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] rejected the framing that the trial had aired the Biden family's darkest moments, calling the case a diversion that neutralized the sex crimes, business crimes and influence peddling associated with Hunter Biden and his uncle Jim, and arguing he would face no material consequences because his father controlled the Justice Department.[16] She noted that sentencing had not been scheduled, that Biden had moved for a new trial on the argument that the federal court in Delaware lacked jurisdiction — a motion she believed should have preceded trial — and that he was due back in court in California in September in the tax case brought by Special Counsel [[david-weiss|David Weiss]].[16]
+
+## Overlap between family business and presidential aides (June 2024 reporting)
+
+Politico reporting in June 2024 found that for years [[joe-biden|Joe Biden]] shared a bookkeeper with Hunter, and that when [[jim-biden|Jim Biden]] wanted to learn more about one of Hunter's associates he hired the former head of Joe Biden's Secret Service detail to investigate.[17] House impeachment inquiry interviews, public records and emails reviewed by the outlet showed that many of the president's closest staffers and advisers doubled as his relatives' business associates, both during and after their government service, complicating efforts to distance the president from the family's ventures.[17] The report noted that several of Jim and Hunter Biden's business partners had been convicted of federal fraud and corruption crimes in recent years.[17]
+
 ## References
 1. Badlands Brief — "Epstein Boomerangs & Bipartisan Bullsh*t", URL: https://badlands.substack.com/p/badlands-news-brief-6d2
 2. Badlands Brief — "Con Inc. Introduces a New Candidate ... And Trump Was Right!", URL: https://badlands.substack.com/p/badlands-news-brief-6d6
@@ -83,3 +111,8 @@ In July 2025 a widely circulated clip from a Hunter Biden longform interview was
 10. Badlands Brief — "Badlands News Brief: Netanyahu & Zelenskyy Beg Biden as Exposure Continues", URL: https://badlands.substack.com/p/badlands-news-brief-8ba
 11. Badlands News Brief — "Deflated Balloons, Sketchy AI & Democrat Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-8f9
 12. Badlands Brief — "Badlands News Brief: The Corruption of Anti-Corruption & Obama Bites Back", URL: https://badlands.substack.com/p/badlands-news-brief-91b
+13. Badlands Brief — "Badlands News Brief: The Establishment Goes Full RICO Against Trump", URL: https://badlands.substack.com/p/badlands-news-brief-9de
+14. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
+15. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
+16. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
+17. Badlands Brief — "Badlands News Brief: Globalists Panic as Populism Takes Over the Zeitgeist", URL: https://badlands.substack.com/p/badlands-news-brief-adc

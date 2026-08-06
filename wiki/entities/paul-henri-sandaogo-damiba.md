@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [africa, burkina-faso, coup]
-sources: [raw/badlands-brief-1ce.md, raw/badlands-news-brief-860.md]
+sources: [raw/badlands-brief-1ce.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-a56.md]
 confidence: medium
 ---
 
@@ -18,6 +18,11 @@ Togo's justice ministry stated that the charges levelled at Damiba by Burkina Fa
 
 Damiba served as Burkina Faso's interim president until he was ousted in a September 2022 coup led by Capt. [[ibrahim-traore|Ibrahim Traoré]].[2] Traoré marked the second anniversary of that seizure of power in an interview with national broadcaster RTB in October 2024, in which he pledged to recapture all territory still under terrorist control by 2025 and said his government had recruited more than 30,000 people into the army.[2]
 
+## Overthrow and the Russian pivot
+
+Damiba, who had led a military uprising against President Roch Marc Christian Kaboré in January 2022, was himself ousted in the September 2022 coup led by [[ibrahim-traore|Ibrahim Traoré]].[3] Coverage of the September 2023 Russian military delegation to [[burkina-faso|Burkina Faso]] cited that sequence of coups as the point from which ties between Ouagadougou and Moscow began to deepen.[3]
+
 ## References
 1. Badlands Brief — "African Acceleration, Powell's Replacement, & MEGA Democracy", URL: https://badlands.substack.com/p/badlands-brief-1ce
 2. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
+3. Badlands Brief — "Badlands News Brief: Corruption Probes, Client Lists & Mud Pits", URL: https://badlands.substack.com/p/badlands-news-brief-a56

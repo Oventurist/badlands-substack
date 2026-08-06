@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, msnbc, journalism, 2024-election]
-sources: [raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-4b7.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-914.md]
+sources: [raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-4b7.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-ac1.md]
 confidence: medium
 ---
 
@@ -30,6 +30,10 @@ Badlands commentator [[ashe-in-america|Ashe in America]] characterized Lemon's f
 
 In March 2024, Reid hosted Baltimore mayor [[brandon-scott|Brandon Scott]] on her MSNBC program to discuss conservative critics who had labeled him the "DEI Mayor" following the [[francis-scott-key-bridge-collapse|Francis Scott Key Bridge collapse]].[3] Reid asserted that when right-wingers mock DEI they actually mean "black people," saying, "It's the reason they complained about [[critical-race-theory|Critical Race Theory]], it's not fashionable to be openly racist anymore in America."[3] Modernity News, in coverage carried by Badlands, described her as a "professional race-bator" who angrily framed opposition to DEI as inherently racist.[3]
 
+## Iowa Caucus commentary (January 2024)
+
+Following [[donald-trump|Donald Trump]]'s landslide win in the [[2024-iowa-caucus|2024 Iowa Caucus]], Reid declared on MSNBC that "White Christians" are racists who want minorities to "bow down" to them, an assertion reported by law professor [[jonathan-turley|Jonathan Turley]] and aggregated by [[zerohedge|ZeroHedge]].[5] Her remarks were presented alongside [[rachel-maddow|Rachel Maddow]]'s warnings of a "rise of fascism" as part of a broader on-air reaction to the Iowa results at MSNBC and [[cnn|CNN]].[5]
+
 ## Electoral College commentary (October 2024)
 
 In the final week of the 2024 campaign, Reid was among the first prominent voices to renew calls for abolishing the [[electoral-college|Electoral College]], preceding a [[politico|Politico]] column making the same argument by a couple of days.[4] [[ashe-in-america|Ashe in America]] cited the sequence as evidence of coordinated talking points, asking "Which radical communist is delivering the talking points today?" and arguing that the campaign was pre-emptive positioning for a [[donald-trump|Donald Trump]] popular-vote victory.[4] Her rebuttal was that without the Electoral College the United States would no longer be a representative republic.[4]
@@ -40,3 +44,4 @@ In the final week of the 2024 campaign, Reid was among the first prominent voice
 2. Badlands News Brief — "Trump Haunts Obama as Clown World Laughs", URL: https://badlands.substack.com/p/badlands-news-brief-4b7
 3. Badlands News Brief — "Trump Counters, SBF Pleads & Disney Dies?", URL: https://badlands.substack.com/p/badlands-news-brief-4c3
 4. Badlands Brief — "Badlands News Brief: Trump Tours, Bannon Breaks Out & Israel Hesitates", URL: https://badlands.substack.com/p/badlands-news-brief-914
+5. Badlands Brief — "The Media Melts Down as MAGA Rises Once More ...", URL: https://badlands.substack.com/p/badlands-news-brief-ac1

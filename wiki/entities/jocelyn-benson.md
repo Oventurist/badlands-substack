@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [michigan, election-integrity, absentee-voting, secretary-of-state]
-sources: [raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-8fd.md]
+sources: [raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-aed.md]
 confidence: medium
 ---
 
@@ -22,7 +22,16 @@ On March 28, 2024, the RNC sued Benson, alleging that she had worked to covertly
 
 In December 2025 a Michigan judge rejected the position taken by Benson and Director of Elections Jonathan Brater that absentee ballots with mismatched identification numbers could be counted as 'challenged ballots' under decades-long administrative guidance.[2] The court held that election inspectors may count absentee ballots only when the stub and envelope numbers match, and that long-standing administrative practice cannot override the Legislature's 2024 strengthening of the matching requirement.[2]
 
+## Dominion voter assist terminal admission (October 2024)
+
+Days before the 2024 general election, Benson acknowledged that split-ticket voters using [[dominion-voting-systems|Dominion]] ICX Voter Assist Terminals should be prepared for programming issues on Election Day.[3] A voter assist terminal is a device that voters with disabilities may use to mark a ballot, which the machine then prints and feeds through a tabulator.[3]
+
+"Yeah, this is a nationwide issue with Dominion voter access terminals in, in the counties that use them in the voter access terminals," Benson said. "Of course, not all the machines, just the ones that are accessible, have an issue. With the straight-party voting and a programming issue, that's again affected the machines nationwide."[3] Voters using such a terminal would have to either vote straight-ticket or manually split their ballot, rather than selecting a straight party option and then overriding it for individual races as Michigan voters normally can.[3] Benson said the problem had frustrated officials in jurisdictions using the machines.[3]
+
+Badlands writer [[ashe-in-america|Ashe in America]] argued that the admission was consistent with long-standing vote-swapping allegations in ballot-marking-device states — that selections made on accessible tablets print incorrectly — behavior previously attributed to human error but now conceded as a known defect affecting many states.[3]
+
 ## References
 
 1. Badlands News Brief — "Trump Counters, SBF Pleads & Disney Dies?", URL: https://badlands.substack.com/p/badlands-news-brief-4c3
 2. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
+3. Badlands Brief — "Badlands News Brief: The Garbage Man Cometh to Take out the Trash", URL: https://badlands.substack.com/p/badlands-news-brief-aed

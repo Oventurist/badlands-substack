@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [epstein, trafficking, clemency]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-4ec.md, raw/badlands-brief-9ac.md, raw/badlands-brief-eea.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-4a6.md, raw/badlands-news-brief-669.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-4ec.md, raw/badlands-brief-9ac.md, raw/badlands-brief-eea.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-4a6.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a5a.md]
 confidence: low
 ---
 
@@ -63,6 +63,16 @@ After the settlement was reached, the source described the then 60-year-old Maxw
 
 On Monday, October 6, 2025, the [[supreme-court-of-the-united-states|US Supreme Court]] declined to hear Ghislaine Maxwell's bid to overturn her conviction for helping [[jeffrey-epstein|Jeffrey Epstein]] sexually abuse teenage girls.[9] The same day, President [[donald-trump|Donald Trump]] left the door open to a pardon, saying he would speak to the [[department-of-justice|Department of Justice]] about setting Maxwell free.[9] Writing in the [[badlands-news-brief|Badlands News Brief]], [[canncon|CannCon]] said he was glad she would not be freed but warned the outcome raised questions about the authority of a US Attorney to make agreements with defendants and about the government's ability to renege on them; he also asked whether the close of Maxwell's litigation would finally bring movement on the [[epstein-files|Epstein Files]].[9]
 
+## Association with the Kennedy family (disclosed 2023)
+
+In a December 2023 interview, [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] said that his then-wife "had some kind of relationship with Ghislaine Maxwell," and that Maxwell and [[jeffrey-epstein|Jeffrey Epstein]] "offered us a ride to Palm Beach," which led to one of the two flights he took on Epstein's jet.[10] Kennedy's ex-wife, Mary Richardson Kennedy, died by suicide in New York in 2012.[10]
+
+## Solitary confinement over jailhouse interview (2023)
+
+In late February 2023 Maxwell was reportedly punished by authorities at [[fci-tallahassee|FCI Tallahassee]] over a recorded jailhouse interview that had aired the previous month.[11] The Daily Mail reported that the onetime British socialite, accused of procuring underage girls for [[jeffrey-epstein|Jeffrey Epstein]], "was handcuffed and slung into solitary confinement for 48 hours after prison authorities accused her of profiting from a media interview."[11] According to the report, "she protested her innocence but was marched off to the Special Housing Unit (SHU) — a 'prison within a prison' comprising tiny, grim cells where inmates are locked up for 23 hours at a time and fed through slits in the door."[11] Unnamed insiders quoted by the outlet said the inmate they know as "Max" "was just minding her own business when they came in, turned her around and handcuffed her."[11]
+
+The interview in question included Maxwell's statement, "I believe that he was murdered," referring to Epstein's death in custody — a line [[badlands-media|Badlands Media]] contributor [[justin-deschamps|Justin Deschamps]] suggested she likely wished she had never uttered.[11] Deschamps wrote that while Maxwell hardly garners sympathy and should pay her debt to society, imposing unusual suffering for crimes committed carries a poorly understood cost to society at large, and that a civilization without a genuine pathway to redemption indirectly fosters greater antisocial behavior.[11] He judged that Maxwell had not fully embraced remorse, perhaps because she was "likely just a pawn in a much bigger criminal enterprise," and framed the episode as a test of how the [[great-awakening|Great Awakening]] generation would deal with the evils of its time for the benefit of future historians.[11]
+
 ## References
 1. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
 2. Badlands Brief — "Criminal Invader Crashouts & Honeypot Hoaxes", URL: https://badlands.substack.com/p/badlands-brief-4ec
@@ -73,3 +83,5 @@ On Monday, October 6, 2025, the [[supreme-court-of-the-united-states|US Supreme 
 7. Badlands Brief — "Badlands News Brief: Non-Binding Motions & Psycho-Emotional Problems", URL: https://badlands.substack.com/p/badlands-news-brief-3ab
 8. Badlands Brief — "Badlands News Brief: Biden Does Ukraine, Vax Data & Veritas Shakeup", URL: https://badlands.substack.com/p/badlands-news-brief-4a6
 9. Badlands Brief — "Dumb Questions, Pentagon Pizzas, & Zero Trust", URL: https://badlands.substack.com/p/badlands-news-brief-669
+10. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
+11. Badlands News Brief — "Ukrainian Backpedal, Maxwell Solitary & Local Heroes", URL: https://badlands.substack.com/p/badlands-news-brief-a5a

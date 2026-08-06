@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [platform, free-speech, video, censorship, 5gw]
-sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-brief-a1a.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5b2.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7b1.md, raw/badlands-news-brief-890.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-brief-a1a.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5b2.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7b1.md, raw/badlands-news-brief-890.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-a34.md]
 confidence: medium
 ---
 
@@ -54,6 +54,18 @@ In December 2023 Rumble was hit with what was described as an "unprecedented" cy
 
 In December 2024 Rumble disclosed a $775 million strategic investment from the digital assets company [[tether|Tether]], after which the company's stock rose 76% to trade at $12.66.[9] Under the deal Tether agreed to buy 103.3 million shares of Rumble Class A common stock at $7.50 each; Rumble planned to deploy $250 million to support its balance sheet and growth objectives and to use the remainder to finance a self-tender offer for up to 70 million Class A shares, providing liquidity to existing holders.[9] CEO [[chris-pavlovski|Chris Pavlovski]] would retain his majority stake while Tether took a minority role without board participation, with closing scheduled for the first quarter of 2025 subject to regulatory clearances.[9] Both companies framed the alliance around decentralization and free expression, and Tether indicated interest in exploring cloud services, crypto payment solutions and advertising with Rumble.[9] See [[tether-investment-in-rumble|Tether Investment in Rumble]].[9]
 
+## SEC investigation closed (February 2024)
+
+In February 2024 the [[securities-and-exchange-commission|U.S. Securities and Exchange Commission]] concluded its investigation into Rumble Inc. and said it would not recommend any enforcement action against the company.[10] SEC Assistant Regional Director Sarah Mallett wrote in a letter obtained by Just the News, "We have concluded the investigation as to Rumble Inc. Based on the information we have as of this date, we do not intend to recommend an enforcement action by the Commission against Rumble Inc."[10] The notice carried the standard caveat drawn from Securities Act Release No. 5310 that it "must in no way be construed as indicating that the party has been exonerated or that no action may ultimately result from the staff's investigation."[10] The clearance followed [[truth-social|Truth Social]]'s announcement days earlier that it had cleared its final SEC hurdle to merge with [[digital-world-acquisition-corp|Digital World Acquisition Corp.]][10]
+
+CEO [[chris-pavlovski|Chris Pavlovski]] framed the outcome as vindication of defensive preparation, posting on X: "We saw the attacks coming, and we prepared for them. Prior to going public, we chose to use Google Analytics to track and report our MAUs, so we could be ready for this very moment. This is just the start, they're coming for us in 2024."[10] [[simon-esler|Simon Esler]] described the episode as "the birth pangs of the parallel economy," cautioning that the non-exoneration language suggested only a pause in lawfare rather than its end.[10]
+
+## February 2025: Official White House channel
+
+In February 2025 Rumble Inc. (NASDAQ: RUM), then a $2.73 billion market cap video platform and cloud services provider, announced the inauguration of an official [[white-house|White House]] channel by President [[donald-trump|Donald Trump]], adding the administration to the company's expanding portfolio of content providers.[11] The company's stock had returned 118% over the preceding six months, and the partnership was expected to increase Rumble's visibility and user base as it positioned itself as independent infrastructure supporting a free and open internet.[11]
+
+Rumble chief executive [[chris-pavlovski|Chris Pavlovski]] occupied the "new media seat" in the White House briefing room that Monday and was given the first question.[11] He later reported that, according to StreamsCharts, YouTube peaked at around 22,000 live viewers while Rumble peaked at around 55,000 live viewers for the White House press briefing with [[karoline-leavitt|Karoline Leavitt]].[11] [[badlands-media|Badlands Media]] carried its own special coverage of the briefing and post-briefing commentary on the platform.[11]
+
 ## References
 1. Badlands Brief — "5GW Counter-Offensive - The Censorship Regime and the Road to 2024", URL: https://badlands.substack.com/p/5gw-counter-offensive-the-censorship
 2. Badlands Brief — "American Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-a1a
@@ -64,3 +76,5 @@ In December 2024 Rumble disclosed a $775 million strategic investment from the d
 7. Badlands Brief — "Trump Teases Saudi Trillions; Biden Bros Embezzled Billions", URL: https://badlands.substack.com/p/badlands-news-brief-745
 8. Badlands Brief — "Badlands News Brief: A Proxy President Manages His Proxy Wars", URL: https://badlands.substack.com/p/badlands-news-brief-7b1
 9. Badlands Brief — "Absurdity and MAGAMania as the Year Winds Down", URL: https://badlands.substack.com/p/badlands-news-brief-890
+10. Badlands Brief — "Badlands News Brief: Deadline Deals and Crime Families", URL: https://badlands.substack.com/p/badlands-news-brief-a29
+11. Badlands Brief — "Badlands News Brief: Rising Demand for DC Defenders & A Sovereign Spring Social", URL: https://badlands.substack.com/p/badlands-news-brief-a34

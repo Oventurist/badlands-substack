@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [texas, attorney-general, investigation, media-matters]
-sources: [raw/a-cancer-on-modern-journalism.md, raw/badlands-brief-174.md, raw/badlands-brief-2c5.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-6bf.md]
+sources: [raw/a-cancer-on-modern-journalism.md, raw/badlands-brief-174.md, raw/badlands-brief-2c5.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-a43.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-adc.md]
 confidence: medium
 ---
 
@@ -54,7 +54,28 @@ Paxton was not present for the verdict, and his wife, Senator [[angela-paxton|An
 
 On November 30, 2023, Paxton announced that he was suing [[pfizer|Pfizer]], alleging the company "misrepresented" the effectiveness of its COVID-19 vaccine in violation of the [[texas-deceptive-trade-practices-act|Texas Deceptive Trade Practices Act]].[10] The suit, detailed at [[texas-v-pfizer-covid-19-vaccine-lawsuit|Texas v. Pfizer]], alleged five statutory violations and contended that Pfizer's claim of 95 percent efficacy was achieved in a "technical, and artificial way."[10] "We are pursuing justice for the people of Texas, many of whom were coerced by tyrannical vaccine mandates to take a defective product sold by lies," Paxton said, adding that the [[joe-biden|Biden]] administration "weaponized the pandemic to force illegal public health decrees on the public and enrich pharmaceutical companies."[10] Badlands writer [[justin-deschamps|Justin Deschamps]] argued the case would force a long-deferred honest assessment of the vaccine's presumed effectiveness.[10]
 
+## Opening of the impeachment trial (September 2023)
+
+The historic impeachment trial of Paxton opened on Tuesday, September 5, 2023, with the [[texas-senate|Texas Senate]] chamber at the state Capitol in Austin converted into a courtroom.[11] After the swearing-in of the 30 senators who would decide whether to remove him from office, Lt. Gov. [[dan-patrick|Dan Patrick]] worked through pretrial motions — with Republicans rejecting motions to dismiss the articles — before opening statements.[11] Paxton had been impeached on 20 articles in late May by the GOP-led Texas House of Representatives by a vote of 121–23, making him only the third sitting official impeached in the state's nearly 200-year history and the first in more than a century.[11] The articles alleged abuse of power and bribery among other counts, all of which Paxton and his lawyers maintained were false.[11]
+
+Described as one of the most conservative officeholders in Texas, the suspended attorney general had filed more than two dozen lawsuits against the [[joe-biden|Biden]] administration since January 2021, and dozens of supporters in red shirts attended the proceedings.[11] Badlands commentator [[ashe-in-america|Ashe in America]] argued that Paxton was the only state attorney general to seriously investigate evidence of election fraud and was being impeached for it, writing that the regime was targeting not only [[donald-trump|Donald Trump]] but everyone aligned with America First, and that the willingness of Texas Republicans to oppose Paxton exposed the party establishment's hostility to its own voters.[11]
+
+## Investigations of Democratic quorum-break funders (August 2025)
+
+In a news release on Thursday, August 7, 2025, Paxton announced an investigation into the [[texas-majority-project|Texas Majority Project]] (TMP), a political action committee founded by former staffers of [[beto-orourke|Beto O'Rourke]] and reportedly funded by billionaire [[george-soros|George Soros]], over allegations of illegal support for Democratic lawmakers who left Texas to block Republican-backed redistricting legislation.[12] The announcement came a day after he launched a separate probe into [[powered-by-people|Powered by People]], a PAC founded by O'Rourke himself.[12]
+
+Paxton claimed both groups may have violated state law through unlawful financial coordination, potential bribery of Democratic legislators who fled the state to break quorum, and illegal fundraising activities.[12] The walkout was aimed at stalling a redistricting bill that would have added five GOP congressional seats by denying the Texas House the members required to conduct business.[12] Badlands writer [[ashe-in-america|Ashe in America]] framed the episode around whether there are consequences for elected officials who abdicate their responsibilities, noting Texas Democrats had used the same tactic in July 2021 over voting legislation.[12]
+
+## Investigation into automaker data collection (June 2024)
+
+In June 2024 Paxton opened an investigation into several car manufacturers following widespread reporting that they had secretly been collecting mass amounts of data about drivers directly from their vehicles and then selling that data to third parties, including insurance providers.[13] The inquiry was brought under the [[texas-deceptive-trade-practices-act|Texas Deceptive Trade Practices – Consumer Protection Act]], which authorizes the Office of the Attorney General to investigate false, misleading, or deceptive acts or practices.[13] Car manufacturers and the third parties to whom they sold data were instructed to produce documents relevant to their conduct, as well as documents showing what disclosures they had made to customers about the extent of their data collection and subsequent sale.[13]
+
+Paxton said that "the technology in modern vehicles enables manufacturers to collect millions of data points about the people driving them," that consumers had "grown extremely concerned that their driving data is being reported to their insurance company without their knowledge or authorization," and that reports of "invasive and unmitigated collection and sale of data without consumer consent" merited "a thorough investigation and appropriate enforcement."[13]
+
+[[ashe-in-america|Ashe in America]] praised the action, arguing that [[data-freedom|data freedom]] is the civil rights issue of the era and that too few officials with statutory authority are willing to fight for it, ostensibly because they benefit from data harvesting; she credited Paxton with being one of the exceptions.[13]
+
 ## References
+
 1. Badlands Brief — "A Cancer on Modern Journalism", URL: https://badlands.substack.com/p/a-cancer-on-modern-journalism
 2. Badlands Brief — "Conflicts, Cartels, & Clemency", URL: https://badlands.substack.com/p/badlands-brief-174
 3. Badlands Brief — "Bioweapons Sneak Into the News Cycle as Israeli Shenanigans Ensue", URL: https://badlands.substack.com/p/badlands-brief-2c5
@@ -65,3 +86,6 @@ On November 30, 2023, Paxton announced that he was suing [[pfizer|Pfizer]], alle
 8. Badlands Brief - "Badlands News Brief: Tracking Resignations and Treasonous Trials", URL: https://badlands.substack.com/p/badlands-news-brief-576
 9. Badlands Brief — "Badlands News Brief: Kennedy Assassins, Justice Wins & More", URL: https://badlands.substack.com/p/badlands-news-brief-627
 10. Badlands Brief — "Badlands News Brief: Fake Candidates Engage in Fake Debate; Everyone Loses", URL: https://badlands.substack.com/p/badlands-news-brief-6bf
+11. Badlands Brief — "Badlands News Brief: Obama's Secrets, Blinken's Billions & GOP Posers", URL: https://badlands.substack.com/p/badlands-news-brief-a43
+12. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
+13. Badlands Brief — "Badlands News Brief: Globalists Panic as Populism Takes Over the Zeitgeist", URL: https://badlands.substack.com/p/badlands-news-brief-adc

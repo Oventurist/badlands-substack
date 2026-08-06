@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [biden-family, congressional-testimony, burisma, influence-peddling]
-sources: [raw/badlands-news-brief-07f.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-670.md]
+sources: [raw/badlands-news-brief-07f.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-9e7.md]
 confidence: medium
 ---
 
@@ -51,6 +51,14 @@ One such meeting occurred in Dubai late on the evening of Friday, December 4, 20
 
 Archer's testimony that [[burisma]] pressured the Bidens to have Ukrainian prosecutor [[viktor-shokin|Viktor Shokin]] fired gained additional support in September 2023, when the New York Post published a December 2015 [[european-commission|European Commission]] progress report praising Shokin's anti-corruption efforts nine days after then-Vice President Joe Biden demanded his ouster.[6] Badlands commentary argued the combination of Archer's account, the EU document, and [[victoria-nuland|Victoria Nuland]]'s on-the-record praise of Shokin showed that the claim of an official U.S. foreign policy rationale was false.[6]
 
+## Scheduling delays and the DOJ surrender-date filing (July 2023)
+
+Archer's appearance before the [[house-oversight-committee|House Oversight Committee]] was rescheduled four times before a fifth date was set for Monday, July 31, 2023.[7] Over the preceding weekend the [[department-of-justice|Department of Justice]] asked the judge in Archer's unrelated criminal case to set a surrender date, an unusual Saturday filing that requested a response from Archer's counsel by Wednesday.[7] Archer had lost his appeal the previous week in *US v. Devon Archer*, and the DOJ moved quickly to advance the process.[7]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] wrote that Archer was expected to testify about [[joe-biden|Joe Biden]]'s involvement in [[hunter-biden|Hunter Biden]]'s overseas business deals, with some outlets speculating he would "put Joe in the room," and that such testimony would show Joe Biden had repeatedly lied about his role in what she termed the [[biden-crime-family|Biden racketeering enterprise]].[7] She argued the timing of the DOJ filing was suspicious but, given the Wednesday deadline, might not delay the testimony.[7]
+
+The DOJ subsequently denied seeking Archer's jailing ahead of the hearing, stating in a Sunday-night filing that "the Government does not request (and has never requested) that the defendant surrender before his Congressional testimony," and asking that any surrender date ordered by the court occur after the testimony was completed.[7] Contributor [[burning-bright|Burning Bright]] cautioned that much of the MAGA reaction to the weekend's reporting had been driven by sensationalism, and argued that the net effect was favourable either way: the weaponization-of-the-DOJ narrative gained momentum and Archer still testified.[7]
+
 ## References
 1. Badlands News Brief — "Trump's Trial, Archer's Animus & BRICS' Battle", URL: https://badlands.substack.com/p/badlands-news-brief-07f
 2. Badlands Brief — "Badlands News Brief: Democrats in Disarray as Globalists Bend the Knee", URL: https://badlands.substack.com/p/badlands-news-brief-099
@@ -58,3 +66,4 @@ Archer's testimony that [[burisma]] pressured the Bidens to have Ukrainian prose
 4. Badlands Brief — "Badlands News Brief: Biden Bills, African Coups & Optics", URL: https://badlands.substack.com/p/badlands-news-brief-2d2
 5. Badlands Brief — "'X' Marks the Spot & Vineyard Mysteries Abound", URL: https://badlands.substack.com/p/badlands-news-brief-3f8
 6. Badlands Brief — "Musk the Peacemaker, Constitutional Overreach & POTATUS", URL: https://badlands.substack.com/p/badlands-news-brief-670
+7. Badlands Brief — "Archer's Testimony & Prussian Roulette", URL: https://badlands.substack.com/p/badlands-news-brief-9e7

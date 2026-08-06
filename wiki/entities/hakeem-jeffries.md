@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [democrats, congress, house, midterms]
-sources: [raw/badlands-brief-165.md, raw/badlands-brief-4ec.md, raw/badlands-brief-98d.md, raw/badlands-brief-990.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-82f.md]
+sources: [raw/badlands-brief-165.md, raw/badlands-brief-4ec.md, raw/badlands-brief-98d.md, raw/badlands-brief-990.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-a57.md]
 confidence: medium
 ---
 
@@ -56,6 +56,10 @@ Jeffries was among the four top congressional leaders who met President [[donald
 
 During the [[september-2023-government-shutdown-standoff|September 2023 government shutdown standoff]], Jeffries attacked the House GOP short-term funding bill as a "right wing wishlist that they want to jam down the throats of the American people," calling it "unreasonable, unacceptable and laughable."[11]
 
+## April 2024 Ukraine aid vote
+
+After the House passed the [[april-2024-foreign-aid-package|April 2024 foreign aid package]] on a 311 to 112 vote, Jeffries as House Democratic leader said that "traditional House Republicans led by Speaker [[mike-johnson|Mike Johnson]] have risen to the occasion" and that "we have a responsibility to push back against authoritarianism."[12]
+
 ## References
 
 1. Badlands Brief — "Trump Conducts the Chaos as the Uniparty Concentrates Fire", URL: https://badlands.substack.com/p/badlands-brief-165
@@ -69,3 +73,4 @@ During the [[september-2023-government-shutdown-standoff|September 2023 governme
 9. Badlands Brief — "Badlands News Brief: Russian Space Nukes & Uniparty Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-553
 10. Badlands Brief — "Badlands News Brief: Shutdowns, Shakedowns, & Two Sexes", URL: https://badlands.substack.com/p/badlands-news-brief-762
 11. Badlands Brief — "Badlands News Brief: Missing Planes, Missing Funds & Missing Metrics", URL: https://badlands.substack.com/p/badlands-news-brief-82f
+12. Badlands Brief — "Badlands News Brief: The Uniparty Celebrates as Warmongers Grow Desperate", URL: https://badlands.substack.com/p/badlands-news-brief-a57

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [iaea, nuclear, safeguards, nonproliferation]
-sources: [raw/badlands-brief-1c6.md, raw/badlands-brief-1ae.md, raw/badlands-brief-740.md, raw/badlands-news-brief-116.md]
+sources: [raw/badlands-brief-1c6.md, raw/badlands-brief-1ae.md, raw/badlands-brief-740.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-a21.md]
 confidence: medium
 ---
 
@@ -27,8 +27,13 @@ In February 2026, IAEA Director General [[rafael-grossi|Rafael Grossi]] stated t
 In November 2023, Russian foreign ministry spokeswoman [[maria-zakharova|Maria Zakharova]] publicly asked where the IAEA and its inspectors were after Israeli Minister of Heritage [[amihai-eliyahu|Amihai Eliyahu]] said dropping a nuclear bomb on the Gaza Strip was "one of the possibilities."[4] The question pointed to Israel's unique position among nuclear-armed states: estimates place its stockpile at between 80 and 400 warheads, deliverable by aircraft, submarine-launched cruise missiles, and Jericho-series ballistic missiles, yet the country has never openly tested a weapon, never signed the [[nuclear-non-proliferation-treaty|Nuclear Non-Proliferation Treaty]], and never been subjected to an inspection by the U.N. nuclear watchdog.[4]
 
 
+## May 2024 report on Iranian enrichment
+
+In a confidential report issued on Monday, May 27, 2024, the United Nations' nuclear watchdog said [[iran|Iran]] had further increased its stockpile of uranium enriched to near weapons-grade levels, described as the latest in Tehran's attempts to steadily exert pressure on the international community.[5] The report, seen by [[associated-press|The Associated Press]], said that as of May 11 Iran held 142.1 kilograms (313.2 pounds) of uranium enriched up to 60 percent, an increase of 20.6 kilograms (45.4 pounds) since the agency's previous quarterly report in February; uranium at 60 percent purity is a short technical step from weapons-grade levels of 90 percent.[5] Iran was seeking the lifting of economic sanctions imposed over its nuclear program in exchange for slowing that program down, an effort that — like all matters of state in Iran — remained under the guidance of supreme leader [[ali-khamenei|Ayatollah Ali Khamenei]], something unlikely to change following the helicopter crash that killed Iran's president and foreign minister the previous week.[5] The findings came against the backdrop of heightened tensions across the wider Middle East over the Israel-[[hamas|Hamas]] war, after Israel and Iran carried out direct strikes on each other's territory for the first time the previous month.[5]
+
 ## References
 1. Badlands Brief — "Spain Wins The [American] World Cup", URL: https://badlands.substack.com/p/badlands-brief-1c6
 2. Badlands Brief — "DC Exposes Itself as the Middle East Gets Gloriously Strange", URL: https://badlands.substack.com/p/badlands-brief-1ae
 3. Badlands Brief — "Aliens. A Fake Kid Dies From Fake Measles. And the Princely Prosecution That Was Promised.", URL: https://badlands.substack.com/p/badlands-brief-740
 4. Badlands Brief — "Badlands News Brief: A Splintered Establishment & Tension Tightropes", URL: https://badlands.substack.com/p/badlands-news-brief-116
+5. Badlands Brief — "Badlands News Brief: Trumpian Deliberations, Libertarian LARPs & Israeli Misfires", URL: https://badlands.substack.com/p/badlands-news-brief-a21

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, politics, knesset, middle-east]
-sources: [raw/badlands-brief-285.md, raw/badlands-brief-708.md, raw/badlands-brief-cd8.md, raw/badlands-brief-fcb.md, raw/badlands-news-brief-433.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-8a4.md]
+sources: [raw/badlands-brief-285.md, raw/badlands-brief-708.md, raw/badlands-brief-cd8.md, raw/badlands-brief-fcb.md, raw/badlands-news-brief-433.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-8a4.md, raw/badlands-news-brief-a57.md]
 confidence: medium
 ---
 
@@ -50,6 +50,10 @@ In November 2025 Lapid announced that [[yesh-atid|Yesh Atid]] would no longer ta
 
 Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] mockingly framed Lapid's criticism as "coming in HOT with the antisemitism," and used the episode to argue that the Zionist national institutions function as a self-serving patronage machine sustained by social and political incentives.[7]
 
+## Attack on Ben Gvir over the "lame" post (April 2024)
+
+As Israeli opposition leader, Lapid publicly attacked National Security Minister [[itamar-ben-gvir|Itamar Ben Gvir]] in April 2024 after Ben Gvir mocked Israel's strike on Iran with a one-word post.[8] Lapid said that "never before has a minister in the security cabinet done such heavy damage to the country's security, its image and its international status," adding that "in an unforgivable one-word tweet, Ben Gvir managed to mock and shame Israel from Tehran to Washington" and that "any other prime minister would have thrown him out of the cabinet this morning."[8]
+
 ## References
 1. Badlands Brief — "Tuckabee Unites The Arab World As Mexico Courts Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-285
 2. Badlands Brief — "AMERICA IS BACK", URL: https://badlands.substack.com/p/badlands-brief-708
@@ -58,3 +62,4 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] mocki
 5. Badlands Brief — "POTUS' 'Reverse Kissinger' & Pete's Pentagon Purge", URL: https://badlands.substack.com/p/badlands-news-brief-433
 6. Badlands Brief — "Badlands News Brief: Musical Fed Chairs, Salvadoran Chess, & Cocktails in the Clink", URL: https://badlands.substack.com/p/badlands-news-brief-80e
 7. Badlands Brief — "Embrace Disruption, Point Fingers, & Explore Any and All Options", URL: https://badlands.substack.com/p/badlands-news-brief-8a4
+8. Badlands Brief — "Badlands News Brief: The Uniparty Celebrates as Warmongers Grow Desperate", URL: https://badlands.substack.com/p/badlands-news-brief-a57

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [biden-family, influence-peddling, cefc, ireland]
-sources: [raw/badlands-news-brief-08c.md, raw/badlands-news-brief-8ba.md]
+sources: [raw/badlands-news-brief-08c.md, raw/badlands-news-brief-8ba.md, raw/badlands-news-brief-adc.md]
 confidence: medium
 ---
 
@@ -30,6 +30,11 @@ In April 2024, new details about Jim Biden's foreign fundraising efforts emerged
 
 Reporting by [[politico|Politico]] noted that if substantiated, the alleged arrangements would constitute some of the closest known financial links between a relative of President Joe Biden and a foreign government.[2] The arrangements are said to stem from an effort by Jim Biden to raise money from Qatari sources for U.S. ventures beginning in the months after his older brother left the vice presidency — a period when [[qatar|Qatar]], a small gas-rich nation, faced a financial blockade from its neighbors and was spending lavishly to shore up its political standing in the West.[2]
 
+## Politico reporting on shared advisers (June 2024)
+
+A June 2024 Politico investigation reported that [[joe-biden|Joe Biden]] shared a personal lawyer with his brother Jim, and that when Jim wanted to know more about one of [[hunter-biden|Hunter Biden]]'s associates he hired the former head of Joe Biden's Secret Service detail to investigate him.[3] The reporting described an all-in-the-family approach to business and politics dating back half a century to Joe Biden's first Senate bid, which was run primarily by his parents and siblings, with political patrons at times forging business ties with relatives who then converted business partners into campaign supporters.[3] Jim and Hunter Biden's foreign dealings, and the federal fraud and corruption convictions of several of their business partners, brought renewed scrutiny to any potential links to the president.[3]
+
 ## References
 1. Badlands Brief — "Real Leaks & Fake News", URL: https://badlands.substack.com/p/badlands-news-brief-08c
 2. Badlands Brief — "Badlands News Brief: Netanyahu & Zelenskyy Beg Biden as Exposure Continues", URL: https://badlands.substack.com/p/badlands-news-brief-8ba
+3. Badlands Brief — "Badlands News Brief: Globalists Panic as Populism Takes Over the Zeitgeist", URL: https://badlands.substack.com/p/badlands-news-brief-adc

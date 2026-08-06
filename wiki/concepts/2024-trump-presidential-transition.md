@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [presidential-transition, 2024-election, ethics, security-clearances]
-sources: [raw/badlands-news-brief-397.md, raw/badlands-news-brief-688.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-890.md]
+sources: [raw/badlands-news-brief-397.md, raw/badlands-news-brief-688.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-890.md, raw/badlands-news-brief-a0c.md]
 confidence: medium
 ---
 
@@ -56,9 +56,18 @@ Sen. [[lisa-murkowski|Lisa Murkowski]] (R-Alaska) said of Trump's impact on the 
 
 Badlands contributor [[burning-bright|Burning Bright]] read the coverage as evidence that the establishment sensed something afoot with what he called #OurBoyBlue, and that post-election reeling was turning to fear at the prospect that the Trump Revenge Tour was real and that they would be at its center.[4] He argued that the fear projected by each figure of the system was proportional to its proximity to the gravitational center of the coming justice campaign, and that as they reverse-engineered Biden's political travels they realized "the great trick they played on the American people was actually played on them."[4] By hook or by crook, he wrote, Biden did more to build the public mandate for what he called the American Restoration in four years than he had spent a lifetime working to prevent.[4]
 
+## Kennedy and Gabbard added to the transition team (August 2024)
+
+On 27 August 2024 the Trump campaign confirmed that former President [[donald-trump|Donald Trump]] had tapped [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] and former Representative [[tulsi-gabbard|Tulsi Gabbard]] of Hawaii to his transition team, bringing both aboard in formal roles on the heels of their endorsements.[5] Senior campaign adviser Brian Hughes said in a statement that "as President Trump's broad coalition of supporters and endorsers expands across partisan lines, we are proud that Robert F. Kennedy Jr. and Tulsi Gabbard have been added to the Trump/Vance Transition team," adding, "We look forward to having their powerful voices on the team as we work to restore America's greatness."[5] The New York Times first reported the appointments.[5]
+
+Kennedy had all but confirmed the role in a recent interview with former Fox News host [[tucker-carlson|Tucker Carlson]], saying: "I've been asked to go on to the transition team, you know, to help pick the people who will be running the government, and I'm looking forward to that."[5] He had suspended his independent White House bid the previous week and endorsed Trump, a move the campaign argued would boost Trump in battleground states where Kennedy had been drawing support away from him.[5] Gabbard, who left the Democratic Party in 2022 and had since become a regular presence in conservative media, endorsed Trump on 26 August and was also assisting him in preparation for a 10 September debate with Vice President [[kamala-harris|Kamala Harris]].[5]
+
+Badlands writer [[burning-bright|Burning Bright]] contrasted the appointments with what he called the Uniparty Establishment's display of "faux bipartisanism" in support of the Harris candidacy, arguing that Trump was bringing "true unity to the American electorate" by welcoming two disaffected liberals appealing to common sense as a common goal, and that from a mass-psychological perspective the sequence could hardly have been scripted better.[5]
+
 ## References
 
 1. Badlands News Brief — "Pardon Me, Blue, but Whose Team Are You Really On?", URL: https://badlands.substack.com/p/badlands-news-brief-397
 2. Badlands Brief — "Badlands News Brief: Threats, Panic and Signal in the Engineered Noise", URL: https://badlands.substack.com/p/badlands-news-brief-688
 3. Badlands Brief — "It’s Our Failed ‘Resistance’ and We Can Cry if We Want To", URL: https://badlands.substack.com/p/badlands-news-brief-656
 4. Badlands Brief — "Absurdity and MAGAMania as the Year Winds Down", URL: https://badlands.substack.com/p/badlands-news-brief-890
+5. Badlands News Brief — "Transition Teams at Home and Abroad ...", URL: https://badlands.substack.com/p/badlands-news-brief-a0c

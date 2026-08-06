@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [social-media, censorship, brazil, free-speech]
-sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-995.md]
+sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-995.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-a38.md]
 confidence: medium
 ---
 
@@ -97,6 +97,16 @@ In late May 2024, X and the cable news network NewsNation were reported by [[axi
 
 Axios framed the plan as significant because, while every other major social network in the United States was retreating from politics, X was leaning in as part of a wider push into creator video, with the live feeds to be available to all X users globally.[16] X CEO [[linda-yaccarino|Linda Yaccarino]] had said the previous week that X paid out over $50 million in ad revenue to creators since she became CEO.[16] Separately, Badlands writer [[ashe-in-america|Ashe in America]] noted that X users were complaining their feeds were overwhelmingly pro-Trump and blaming the platform's algorithm, a claim she dismissed alongside Trump's post-conviction $200 million fundraising haul and his 2 million TikTok followers against Biden's 337,000.[16]
 
+## February 2025: Settlement of the Trump deplatforming suit
+
+In February 2025 [[elon-musk|Elon Musk]]'s X agreed to pay about $10 million to settle a lawsuit that [[donald-trump|Donald Trump]] had brought against the company and its former chief executive, making X the second social-media platform to settle litigation Trump filed after being deplatformed over his role in the January 6, 2021 riot at the U.S. Capitol.[17] Trump and other plaintiffs filed the suit in 2021 against the company, then called Twitter, and its chief executive at the time, [[jack-dorsey|Jack Dorsey]].[17] Musk reinstated Trump on the platform in November 2022.[17]
+
+Trump's team considered letting the lawsuit fizzle out, citing Musk's proximity to the president and the $250 million he spent to help elect him, but ultimately moved forward with the settlement despite the two men's close relationship; a spokesman for X did not respond to requests for comment.[17]
+
+## Brazil blocking dispute and House inquiry
+
+X received an inquiry from the [[us-house-of-representatives|U.S. House of Representatives]] in April 2024 "regarding actions taken in Brazil that were in violation of Brazilian law," according to owner [[elon-musk|Elon Musk]], who said the platform had been asked to suspend the accounts of sitting Brazilian legislators and many journalists.[18] The inquiry followed Brazilian Supreme Court judge [[alexandre-de-moraes|Alexandre de Moraes]] opening a probe into Musk over his stated intention to restore blocked accounts, with a threatened penalty of 100,000 reais per day for noncompliance.[18] Neither the House nor X immediately responded to press requests for comment.[18]
+
 ## References
 1. Badlands Brief — "American Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-a1a
 2. Badlands Brief — "Lawsuits Can Be Very Effective ...", URL: https://badlands.substack.com/p/badlands-news-brief-051
@@ -114,3 +124,5 @@ Axios framed the plan as significant because, while every other major social net
 14. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889
 15. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951
 16. Badlands Brief — "Donald Trump, Dennis Quaid and Steven Seagal Walk into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-995
+17. Badlands Brief — "Badlands News Brief: Rising Demand for DC Defenders & A Sovereign Spring Social", URL: https://badlands.substack.com/p/badlands-news-brief-a34
+18. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38

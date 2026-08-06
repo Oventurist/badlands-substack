@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military, advisors, trump-administration, foreign-policy]
-sources: [raw/badlands-brief-257.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-99e.md]
+sources: [raw/badlands-brief-257.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-ac8.md]
 confidence: medium
 ---
 
@@ -40,6 +40,12 @@ For roughly six months before October 2024, Macgregor argued publicly that the [
 
 In December 2024, Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] cited Macgregor as the authority to whom skeptical readers should defer regarding events in [[south-korea|South Korea]], where President [[yoon-suk-yeol|Yoon Suk Yeol]]'s short-lived martial law declaration had led to arrests of military leaders and a travel ban on the president.[7] The commentary paired Macgregor's assessment with speculation that the [[cia|CIA]] had become nervous about developments involving Russia, China, and [[north-korea|North Korea]].[7]
 
+## Little Bighorn analogy for Israel (October 2024)
+
+In October 2024, Macgregor appeared on Judge Andrew Napolitano's program and compared [[israel|Israel]]'s regional position to the events preceding the Battle of the Little Bighorn, "Custer's Last Stand."[8] He recounted how Colonel George Custer rode into the Black Hills — the Badlands — hunting Indians and unwittingly united the Sioux and Cheyenne, tribes previously at perpetual odds, by giving them a common enemy; led by Crazy Horse and Sitting Bull they ambushed and annihilated his forces to the last man.[8] Macgregor identified Custer's fatal errors as pompous arrogance, a view of the natives as vermin to be exterminated, going out looking for trouble, and vastly underestimating an enemy he assumed existed only in small scattered pockets.[8]
+
+[[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]], who said he completely agreed with Macgregor, extended the analogy to [[benjamin-netanyahu|Benjamin Netanyahu]]'s posture toward the peoples of the Middle East, and described the alliance now materializing there as something the world had never seen — not a caliphate nor an empire, and with no formal governing body over its factions, but a coalition of sovereign Muslim nation-states cooperating against a common enemy.[8]
+
 ## References
 
 1. Badlands Brief — "Bicameral Deal-Making and Accelerationism Acknowledged", URL: https://badlands.substack.com/p/badlands-brief-257
@@ -49,3 +55,4 @@ In December 2024, Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPa
 5. Badlands Brief — "Familiar Formulas, Blue Skies, & Antisemitic Nonchalance", URL: https://badlands.substack.com/p/badlands-news-brief-6e6
 6. Badlands Brief — "Israel Invades, MAGA Sues & Ports Close", URL: https://badlands.substack.com/p/badlands-news-brief-683
 7. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e
+8. Badlands Brief — "Storms both Real and Political Converge in October", URL: https://badlands.substack.com/p/badlands-news-brief-ac8

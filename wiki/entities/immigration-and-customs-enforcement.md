@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ice, immigration, enforcement, trafficking, sanctuary-jurisdictions]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-094.md, raw/badlands-brief-165.md, raw/badlands-brief-144.md, raw/badlands-brief-b38.md, raw/badlands-brief-b82.md, raw/badlands-brief-c07.md, raw/badlands-brief-e9e.md, raw/badlands-brief-e3b.md, raw/badlands-brief-eed.md, raw/badlands-brief-fbb.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-69d.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-669.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-094.md, raw/badlands-brief-165.md, raw/badlands-brief-144.md, raw/badlands-brief-b38.md, raw/badlands-brief-b82.md, raw/badlands-brief-c07.md, raw/badlands-brief-e9e.md, raw/badlands-brief-e3b.md, raw/badlands-brief-eed.md, raw/badlands-brief-fbb.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-69d.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a31.md]
 confidence: medium
 ---
 
@@ -144,6 +144,21 @@ In September 2025 a Los Angeles street vendor originally from Mexico, who came t
 
 Illinois Governor [[jb-pritzker|JB Pritzker]] accused ICE of targeting individuals based on their "brown or black" skin color, a claim [[cnn|CNN]] anchor [[boris-sanchez|Boris Sanchez]] pressed on White House policy deputy [[stephen-miller|Stephen Miller]] on October 6, 2025; Miller dismissed the question as "dumb" and rejected the allegation.[27] The same week, White House Press Secretary [[karoline-leavitt|Karoline Leavitt]] accused protesters outside a Portland, Oregon ICE facility of "inciting violence" while defending the administration's blocked [[national-guard|National Guard]] deployment.[27]
 
+## Houston child sex offender arrests (July 2025)
+
+ICE announced on Monday, July 28, 2025, that over the preceding six months it had arrested 214 migrants without legal status in the Houston area who had been charged with or convicted of sex crimes involving minors.[28] The arrests, carried out by the agency's Enforcement and Removal Operations (ERO) Houston field office, surpassed the total for the entire 2024 fiscal year, when officers arrested 211 people in the same category.[28] All those arrested were found to have pending charges or prior convictions related to child sex offenses.[28] ERO Houston acting Field Office Director Paul McBride said that "while we still have a long way to go to truly get this crisis under control, the strides we have made in just six months to make our local communities safer are substantial," pledging to continue removing "the worst of the worst criminal aliens" from Southeast Texas.[28]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] argued that the figures vindicated President [[donald-trump|Donald Trump]]'s long-criticized focus on the border, and attributed the coordination of immigration-related legal challenges against removals to the [[american-civil-liberties-union|ACLU]].[28]
+
+## Arrest of a Jamaican national serving as a Maine police officer (July 2025)
+
+ICE reported the arrest of [[jon-luke-evans|Jon Luke Evans]], a Jamaican national employed as an armed police officer in Old Orchard Beach, Maine, after his attempt to unlawfully purchase a firearm was flagged by the Bureau of Alcohol, Tobacco, Firearms, and Explosives.[28] Evans entered the United States through Miami on September 24, 2023, and overstayed his visa after failing to board his October 1, 2023 return flight.[28]
+
+
+## DC patrol surge (August 2025)
+
+Divisions of Immigration and Customs Enforcement participated in the seven-day federal law enforcement patrol of Washington, D.C. that began at midnight on August 7, 2025, an operation led by the [[united-states-park-police|U.S. Park Police]] and joined by the [[fbi|FBI]], [[drug-enforcement-administration|DEA]] and [[bureau-of-alcohol-tobacco-firearms-and-explosives|ATF]].[29]
+
 ## References
 1. Badlands Brief — "Mixed Gender Crews, Trafficking Stings, & Shadow Cabal Reruns", URL: https://badlands.substack.com/p/badlands-brief-029
 2. Badlands Brief — "Somali Shatterpoints, Cartel Countermeasures, & Erosion of the World Order", URL: https://badlands.substack.com/p/badlands-brief-094
@@ -173,3 +188,5 @@ Illinois Governor [[jb-pritzker|JB Pritzker]] accused ICE of targeting individua
 25. Badlands Brief — "Badlands News Brief: ICE Swarms, TikTok Pivots, & Shoes Stay On", URL: https://badlands.substack.com/p/badlands-news-brief-6af
 26. Badlands Brief — "Badlands News Brief: Manhunts, Mental Health, & the Mother of a Monster", URL: https://badlands.substack.com/p/badlands-news-brief-6e5
 27. Badlands Brief — "Dumb Questions, Pentagon Pizzas, & Zero Trust", URL: https://badlands.substack.com/p/badlands-news-brief-669
+28. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
+29. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31

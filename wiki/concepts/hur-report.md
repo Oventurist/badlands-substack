@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [special-counsel, biden, classified-documents, 2024-election]
-sources: [raw/badlands-news-brief-11c.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-97e.md]
+sources: [raw/badlands-news-brief-11c.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a6e.md]
 confidence: medium
 ---
 
@@ -64,6 +64,12 @@ The [[wall-street-journal|Wall Street Journal]] obtained and published the under
 
 The [[wall-street-journal|Wall Street Journal]] obtained and published the underlying audio of the October 2023 [[robert-hur|Hur]] interviews in May 2025, more than a year after the Biden administration released transcripts in March 2024 but refused to make the recordings public.[6] The tapes captured [[joe-biden|Biden]] speaking at times with a frail voice, digressing at length, mixing up his Senate tenure with his vice presidency when asked where he kept his papers in 2017 and 2018, and struggling to recall the year his son Beau died.[6] Their release coincided with new books on Biden's decline by [[jake-tapper|Jake Tapper]] and Alex Thompson and fed directly into Republican arguments about the [[autopen-scandal|autopen]].[6]
 
+## Dispute over the Beau Biden passage
+
+One line in the report — that [[joe-biden|Joe Biden]] "did not remember, even within several years, when his son Beau died" — provoked an angry response from the president at an impromptu White House press conference, where he said, "How in the hell dare he raise that?" and added, "Frankly, when I was asked the question, I thought to myself, it wasn't any of their damn business."[7] NBC News subsequently reported, citing two people familiar with [[robert-hur|Robert Hur]]'s five-hour interview with the president conducted over two days in October 2023, that Hur never asked when [[beau-biden|Beau Biden]] died and that it was Biden himself who first raised his son's death.[7]
+
+According to those sources, Biden introduced the subject while being questioned about his workflow at a Virginia rental home he used from 2016 to 2018, a period when a ghost writer was assisting him with a memoir about losing Beau to brain cancer in 2015.[7] Investigators possessed a 2017 recording in which Biden told the ghost writer he had found "classified stuff" in that home.[7] The sources said Biden appeared confused about the year of his son's death while attempting to reconstruct the period, though he correctly recalled the date of May 30.[7]
+
 ## References
 
 1. Badlands Brief — "The Turn on Biden Begins", URL: https://badlands.substack.com/p/badlands-news-brief-11c
@@ -72,3 +78,4 @@ The [[wall-street-journal|Wall Street Journal]] obtained and published the under
 4. Badlands Brief — "Badlands News Brief: Russian Space Nukes & Uniparty Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-553
 5. Badlands Brief — "Biden Hemorrhages Already-Nonexistent Support", URL: https://badlands.substack.com/p/badlands-news-brief-6fc
 6. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
+7. Badlands Brief — "Badlands News Brief: A Fiery Fani, a Plotting Putin & a Bumbling Biden Walk into a Bar", URL: https://badlands.substack.com/p/badlands-news-brief-a6e

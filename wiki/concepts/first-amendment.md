@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [first-amendment, free-speech, constitution, law]
-sources: [raw/a-glaring-double-standard.md, raw/always-fight-back.md, raw/badlands-brief-095.md, raw/badlands-brief-9eb.md, raw/badlands-brief-a1a.md, raw/badlands-brief-c07.md, raw/badlands-brief-f83.md, raw/badlands-brief.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-46e.md]
+sources: [raw/a-glaring-double-standard.md, raw/always-fight-back.md, raw/badlands-brief-095.md, raw/badlands-brief-9eb.md, raw/badlands-brief-a1a.md, raw/badlands-brief-c07.md, raw/badlands-brief-f83.md, raw/badlands-brief.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-a15.md]
 confidence: medium
 ---
 
@@ -76,6 +76,10 @@ Writing in August 2023, [[ashe-in-america|Ashe in America]] said she had once be
 
 At the [[world-economic-forum|World Economic Forum]] in January 2023, [[european-commission|European Commission]] Vice President [[vera-jourova|Věra Jourová]] predicted that the United States would soon adopt criminal hate speech laws of the European kind.[11] Commentators noted that the Supreme Court has repeatedly and unanimously reaffirmed that there is no hate-speech exception to the First Amendment.[11] [[badlands-media|Badlands]] contributor [[ryan-delarme|Ryan DeLarme]] wrote that whatever the Davos class intended, "we have something in America called the 1st Amendment, and we are willing to defend it."[11]
 
+## Invoked against the 2024 TikTok divestment bill
+
+During floor debate before the House passed the TikTok divestment bill 352-65-1 on March 13, 2024, Representative Thomas Massie argued that the measure was "actually a trojan horse" and raised constitutional objections, saying "some of us are concerned that there are First Amendment implications here. Americans have the right to view information, and don't need to be protected by the government from information."[12] The argument framed the proposed ban as a restriction on the audience's right to receive information rather than solely on the speaker's right to publish.[12]
+
 ## References
 1. Badlands Brief — "A Glaring Double Standard", URL: https://badlands.substack.com/p/a-glaring-double-standard
 2. Badlands Media — "Always Fight Back", URL: https://badlands.substack.com/p/always-fight-back
@@ -88,3 +92,4 @@ At the [[world-economic-forum|World Economic Forum]] in January 2023, [[european
 9. Badlands Brief — "Badlands News Brief: FOX Fights, Trump Trolls & Twitter Turns?", URL: https://badlands.substack.com/p/badlands-news-brief-148
 10. Badlands News Brief — "A Biden, a Clinton and a Trump Walk Into a SCIF", URL: https://badlands.substack.com/p/badlands-news-brief-228
 11. Badlands Brief — "Badlands News Brief: Globalist Rage, Biden Docs & Hockey Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-46e
+12. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, national-security, prisons, ben-gvir]
-sources: [raw/badlands-brief-1c6.md, raw/badlands-brief-559.md, raw/badlands-brief-724.md, raw/badlands-brief-739.md, raw/badlands-brief-708.md, raw/badlands-brief-7ed.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-4bb.md, raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-7b1.md, raw/badlands-news-brief-87b.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-914.md]
+sources: [raw/badlands-brief-1c6.md, raw/badlands-brief-559.md, raw/badlands-brief-724.md, raw/badlands-brief-739.md, raw/badlands-brief-708.md, raw/badlands-brief-7ed.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-4bb.md, raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-7b1.md, raw/badlands-news-brief-87b.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a57.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-ac3.md]
 confidence: medium
 ---
 
@@ -106,6 +106,29 @@ When [[yoav-gallant|Yoav Gallant]] published his "war without a compass" letter 
 
 Beyond Ben-Gvir's stated desire to see every Arab within reach slaughtered, the commentary argued that the IDF leadership's more concrete objection was his opposition to the edict nullifying the conscription exemption that Orthodox and Hasidic Jews had enjoyed since Israel's founding.[18] The traditional rationale is that Talmudic study constitutes their service to the Jewish state, but the IDF is desperate for soldiers as tens of thousands of Israelis emigrate, and the Israeli Supreme Court has already ruled that yeshiva students must serve.[18] The analysis concluded that although empowering the zealots would invite further international rebuke, it is precisely what Netanyahu needs to secure his hold on government against eventual domestic or international accountability — men of religious conviction who cannot be deterred by secular pressures.[18]
 
+## "Morally bankrupt" attack on Netanyahu (July 2025)
+
+In late July 2025 National Security Minister Ben-Gvir called Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] "morally bankrupt" for allowing food into [[gaza|Gaza]], according to Badlands commentary on the coalition crisis triggered by Netanyahu's decision to enact localized humanitarian ceasefires.[19] The remark was reported alongside Finance Minister [[bezalel-smotrich|Bezalel Smotrich]]'s demand for guarantees that [[israel|Israel]] would begin annexing Gaza within days.[19]
+
+
+## "Lame" mockery of the Israeli strike on Iran (April 2024)
+
+In April 2024, as National Security Minister, Ben Gvir mocked an Israeli attack on Iran as "lame" after Tehran thwarted a small IDF drone strike early on Friday, April 19.[20] The incursion was the latest in a cycle of violence following Israel's destruction of Iran's consulate in Damascus and Iran's retaliatory strikes; Ben Gvir had urged Israel to "go berserk" in response.[20] He made a one-word post on X in Hebrew using a slang term the Telegraph explained literally translates as "scarecrow" but also means "lame," which Reuters rendered as "feeble."[20]
+
+The post highlighted a public rift within the government in Tel Aviv. Ben Gvir, who leads the ultranationalist Jewish Power party, is considered on the extreme end of Israel's political spectrum and is popular among the right-wing settler movement; he lives in a West Bank settlement and has called for the resettlement of Gaza by Israelis.[20] Opposition leader [[yair-lapid|Yair Lapid]] attacked him, saying "never before has a minister in the security cabinet done such heavy damage to the country's security, its image and its international status," and that "in an unforgivable one-word tweet, Ben Gvir managed to mock and shame Israel from Tehran to Washington."[20]
+
+Badlands commentary treated the episode as evidence of infighting among Israeli leadership provoked by Iranian and Arab restraint, and recalled that in 1995 Ben Gvir was filmed holding a Mercedes hood ornament he claimed to have taken from then-Prime Minister [[yitzhak-rabin|Yitzhak Rabin]]'s car as a veiled threat, two weeks before Rabin's assassination; Ben Gvir had rebuked Rabin for signing the [[oslo-accords|Oslo Accords]].[20] The writer also observed that Ben Gvir and [[hamas|Hamas]] appeared to share the same appetite for kinetic escalation.[20]
+
+## Coalition leverage in June 2024
+
+Ben-Gvir was one of the ministers who repeatedly threatened to resign if the ultra-Orthodox were conscripted following the Supreme Court ruling striking down their exemption, a resignation that together with [[bezalel-smotrich|Bezalel Smotrich]]'s would legally dissolve the government and force new elections for all positions including prime minister.[21] Badlands reporting also described recent spats between Ben-Gvir and [[benjamin-netanyahu|Netanyahu]] over his ambitions: after [[benny-gantz|Benny Gantz]] resigned and the war cabinet was dissolved, Ben-Gvir demanded a new war cabinet that included him, and Netanyahu responded by accusing him of leaking information to the press and saying he needed to prove his loyalty first.[21]
+
+## Threat to dismantle the Palestinian Authority (July 2024)
+
+In July 2024, Ben-Gvir warned that if the Biden administration imposed sanctions on Israeli government ministers, Israel would respond by "completely dismantling the [[palestinian-authority|Palestinian Authority]], including all its institutions and economy."[22] The statement, issued on a Saturday, responded to reports that Washington was considering sanctions against Ben-Gvir and Finance Minister [[bezalel-smotrich|Bezalel Smotrich]] over the expansion of Jewish settlements in the West Bank and the ministers' support for such actions.[22] Israeli journalist [[barak-ravid|Barak Ravid]], citing three senior American officials, reported that the National Security Council at the White House had held a significant meeting that week to discuss the potential sanctions, with the administration holding Smotrich and Ben-Gvir responsible for undermining security in Judea and Samaria.[22]
+
+Badlands commentary linked the sanctions push to speculation about why [[joe-biden|Joe Biden]] was being forced out of power, suggesting he was implementing [[donald-trump|Donald Trump]]'s agenda by going after radical elements in the Israeli government.[22] The Brief recalled that Ben-Gvir had served as defense lawyer for [[benzion-gopstein|Benzion Gopstein]], the [[lehava|Lehava]] leader convicted of incitement in January 2024 for calling in 2015 for the expulsion of Christians from Israel and the burning of churches, and described both Ben-Gvir and Smotrich as loyal followers of [[meir-kahane|Meir Kahane]], assassinated in New York City in 1990.[22] It further tied this network to the Israeli oligarchy including [[dan-gertler|Dan Gertler]], and concluded that [[benjamin-netanyahu|Netanyahu]] had made his bed with these figures and that they now held his leash.[22]
+
 ## References
 1. Badlands Brief — "Spain Wins The [American] World Cup", URL: https://badlands.substack.com/p/badlands-brief-1c6
 2. Badlands Brief — "Narrative Warfare For Your Safety", URL: https://badlands.substack.com/p/badlands-brief-559
@@ -125,3 +148,7 @@ Beyond Ben-Gvir's stated desire to see every Arab within reach slaughtered, the 
 16. Badlands Brief — "Obama Leaves the Basement as Maduro Enters the Play", URL: https://badlands.substack.com/p/badlands-news-brief-87b
 17. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889
 18. Badlands Brief — "Badlands News Brief: Trump Tours, Bannon Breaks Out & Israel Hesitates", URL: https://badlands.substack.com/p/badlands-news-brief-914
+19. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
+20. Badlands Brief — "Badlands News Brief: The Uniparty Celebrates as Warmongers Grow Desperate", URL: https://badlands.substack.com/p/badlands-news-brief-a57
+21. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
+22. Badlands Brief — "Secrets of the Secret Service ... and Circling Sharks in DC", URL: https://badlands.substack.com/p/badlands-news-brief-ac3
