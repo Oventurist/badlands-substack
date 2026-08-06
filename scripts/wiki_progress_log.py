@@ -13,6 +13,8 @@ from datetime import datetime
 from pathlib import Path
 
 PROJ = Path(__file__).resolve().parent.parent
+if str(PROJ) != "C:/Users/14053/hermes-projects/badlands-substack":
+    PROJ = Path("C:/Users/14053/hermes-projects/badlands-substack")
 WIKI = PROJ / "wiki"
 RAW = PROJ / "raw"
 LOG = PROJ / "logs" / "ingest-progress.log"
