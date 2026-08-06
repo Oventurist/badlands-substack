@@ -40,11 +40,16 @@ def count_pages():
 
 
 def count_workers():
-    r = subprocess.run(
-        ["wmic", "process", "where", "name='python.exe'", "get", "CommandLine"],
-        capture_output=True, text=True)
-    return sum(1 for l in r.stdout.splitlines()
-               if "spawn_main" in l or "hermes -z" in l or 'hermes.exe" -z' in l)
+    """Authoritative: parse alive=N from the driver's latest STATUS line.
+    Falls back to counting claim locks if the log isn't available."""
+    ingest_log = PROJ / "logs" / "parallel-ingest.log"
+    if ingest_log.exists():
+        for line in reversed(ingest_log.read_text(encoding="utf-8", errors="replace").splitlines()):
+            m = re.search(r"alive=(\d+)/(\d+)", line)
+            if m:
+                return int(m.group(1))
+    # fallback: claim locks held by workers
+    return len(list((WIKI).glob(".inprogress-*.md"))) if WIKI.exists() else 0
 
 
 def read_previous():
