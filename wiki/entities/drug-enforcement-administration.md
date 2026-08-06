@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [drug-policy, federal-agency, marijuana]
-sources: [raw/badlands-brief-0fb.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a65.md]
+sources: [raw/badlands-brief-0fb.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-aed.md]
 confidence: medium
 ---
 
@@ -31,8 +31,13 @@ At the August 7, 2025 announcement of a $50 million reward for the arrest of Ven
 
 The 1985 kidnapping and murder of DEA agent Enrique "Kiki" Camarena remained a central reference point in U.S.-Mexico counternarcotics relations.[4] In February 2025, [[mexico|Mexico]] began extraditing dozens of high-level cartel figures to the United States, including [[rafael-caro-quintero|Rafael Caro Quintero]], the former Guadalajara cartel leader involved in Camarena's kidnapping and murder, along with the founders of [[los-zetas|Los Zetas]].[4] Mexican authorities said 29 detainees were transferred at the request of the U.S. [[department-of-justice|Department of Justice]], as President [[donald-trump|Donald Trump]]'s tariff deadline approached and amid his demands for a crackdown on cartels and fentanyl.[4]
 
+## Asset seizure as an enforcement tool (2024)
+
+When [[donald-trump|Donald Trump]] announced on October 29, 2024 that his administration would seize "the assets of criminal gangs and drug cartels" and channel the proceeds into a compensation fund for families affected by "migrant crime," former Drug Enforcement Administration officials described asset seizure as an effective tool in the pursuit of justice.[5] The tactic has long been used by the federal government against drug trafficking organizations.[5]
+
 ## References
 1. Badlands Brief — "Time is on Trump's Side ... But Which Regime is he Fighting?", URL: https://badlands.substack.com/p/badlands-brief-0fb
 2. Badlands Brief — "Badlands News Brief: Military in Memphis & Patrols in Poland", URL: https://badlands.substack.com/p/badlands-news-brief-1ed
 3. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
 4. Badlands Brief — "Badlands News Brief: Rug Pulled Reputations, Insubordination, & the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-a65
+5. Badlands Brief — "Badlands News Brief: The Garbage Man Cometh to Take out the Trash", URL: https://badlands.substack.com/p/badlands-news-brief-aed

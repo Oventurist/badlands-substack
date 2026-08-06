@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [immigration, law, deportation]
-sources: [raw/badlands-brief-9ea.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-ae1.md]
+sources: [raw/badlands-brief-9ea.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-b0d.md]
 confidence: medium
 ---
 
@@ -57,7 +57,16 @@ On Saturday, March 15, 2025, the [[trump-administration|Trump administration]] i
 Badlands commentator [[jon-herold|Jon Herold]] observed that he had raised the statute's significance as early as September 2023, asking whether the United States could be in a state of war without congressional approval, and called Trump's invocation "interesting no matter how you look at it."[7]
 
 
+## D.C. Circuit appeal and the "Nazis got better treatment" argument (March 2025)
+
+On Monday, March 24, 2025, a three-judge panel of the District of Columbia Circuit Court of Appeals heard oral argument on the Justice Department's request to lift [[james-boasberg|U.S. District Judge James Boasberg]]'s order temporarily blocking the administration from invoking the centuries-old wartime law.[8] Circuit Judge [[patricia-millett|Patricia Millett]], an Obama appointee, tore into the administration, saying: "There were planeloads of people. There were no procedures in place to notify people. Nazis got better treatment under the Alien Enemies Act than has happened here."[8] She repeatedly questioned how the deported migrants could have exercised due process before being sent to a notorious Salvadoran prison, and imagined herself being thrown on a plane as a suspected member of [[tren-de-aragua|Tren de Aragua]] with no chance to request a hearing.[8] It remained unclear how the panel would rule.[8]
+
+Trump had invoked the Act earlier that month and within hours deported more than 200 migrants to [[el-salvador|El Salvador]] whom the administration claimed were Venezuelan gang members.[8]
+
+In a filing to Boasberg's court the same Monday, the administration declared it was done entertaining what Badlands called unconstitutional theater, arguing that the case concerns "the President's plenary authority, derived from Article II and the mandate of the electorate, and reinforced by longstanding statute, to remove from the homeland designated terrorists participating in a state-sponsored invasion of, and predatory incursion into, the United States," and that the state secrets privilege forecloses further demands for details.[8] [[ashe-in-america|Ashe in America]] argued the federal district courts were "rapidly spiraling into illegitimacy," noting they depend on the Executive Branch to enforce their own orders, and pointed to the contemporaneous Riley v. Bondi oral arguments before the [[supreme-court-of-the-united-states|Supreme Court]] as another drain on judicial resources.[8]
+
 ## References
+
 1. Badlands Brief — "A Politician is Swallowelled Whole as the Middle East Realigns in Real Time", URL: https://badlands.substack.com/p/badlands-brief-9ea
 2. Badlands Brief — "The Dye's Been Cast Out. The Round Table is Set.", URL: https://badlands.substack.com/p/badlands-news-brief-065
 3. Badlands News Brief — "Pirated Pardons & Delayed Declassifications", URL: https://badlands.substack.com/p/badlands-news-brief-298
@@ -65,3 +74,4 @@ Badlands commentator [[jon-herold|Jon Herold]] observed that he had raised the s
 5. Badlands Brief — "Badlands News Brief: Overexposed Engagement Farmers & Maple-Flavored Monarchs", URL: https://badlands.substack.com/p/badlands-news-brief-42b
 6. Badlands Brief — "Badlands News Brief: Robot Runners, Prisoner Swaps, & Control of Crimea", URL: https://badlands.substack.com/p/badlands-news-brief-471
 7. Badlands News Brief — "Defiant Deportations & Canadian Freeloaders", URL: https://badlands.substack.com/p/badlands-news-brief-ae1
+8. Badlands Brief — "Badlands News Brief: Unexpected Allies, Rogue Judges, & Stacked Envoys", URL: https://badlands.substack.com/p/badlands-news-brief-b0d

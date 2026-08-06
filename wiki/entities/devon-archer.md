@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [biden-family, congressional-testimony, burisma, influence-peddling]
-sources: [raw/badlands-news-brief-07f.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-9e7.md]
+sources: [raw/badlands-news-brief-07f.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-9e7.md, raw/badlands-news-brief-b4a.md]
 confidence: medium
 ---
 
@@ -59,6 +59,10 @@ Badlands contributor [[ashe-in-america|Ashe in America]] wrote that Archer was e
 
 The DOJ subsequently denied seeking Archer's jailing ahead of the hearing, stating in a Sunday-night filing that "the Government does not request (and has never requested) that the defendant surrender before his Congressional testimony," and asking that any surrender date ordered by the court occur after the testimony was completed.[7] Contributor [[burning-bright|Burning Bright]] cautioned that much of the MAGA reaction to the weekend's reporting had been driven by sensationalism, and argued that the net effect was favourable either way: the weaponization-of-the-DOJ narrative gained momentum and Archer still testified.[7]
 
+## Supreme Court declines his appeal (January 2024)
+
+On Monday, January 22, 2024, the [[supreme-court-of-the-united-states|Supreme Court]] turned away an appeal brought by Archer, a former business partner of [[hunter-biden]] convicted for his role in defrauding the corporate arm of a Native American tribe.[8] The court's refusal to hear the case left the conviction in place and brought Archer closer to serving a prison term; a judge had initially ruled that he should spend a year and a day in prison, a sentence he challenged while remaining out on bail.[8] Archer was convicted in 2018 in connection with a scheme led by businessman [[jason-galanis]] to defraud Wakpamni Lake Community Corp., the business arm of the South Dakota-based Wakpamni Lake Community of the Oglala Sioux Tribe.[8] Prosecutors said in court papers that Archer and others misused millions of dollars raised by the corporation through bond issues, spending the proceeds "for personal purposes, such as funding personal business ventures and buying jewelry, luxury cars and a new home" rather than investing them as agreed.[8] The development was reported by [[nbc-news|NBC News]] and carried in the [[badlands-news-brief]].[8]
+
 ## References
 1. Badlands News Brief — "Trump's Trial, Archer's Animus & BRICS' Battle", URL: https://badlands.substack.com/p/badlands-news-brief-07f
 2. Badlands Brief — "Badlands News Brief: Democrats in Disarray as Globalists Bend the Knee", URL: https://badlands.substack.com/p/badlands-news-brief-099
@@ -67,3 +71,4 @@ The DOJ subsequently denied seeking Archer's jailing ahead of the hearing, stati
 5. Badlands Brief — "'X' Marks the Spot & Vineyard Mysteries Abound", URL: https://badlands.substack.com/p/badlands-news-brief-3f8
 6. Badlands Brief — "Musk the Peacemaker, Constitutional Overreach & POTATUS", URL: https://badlands.substack.com/p/badlands-news-brief-670
 7. Badlands Brief — "Archer's Testimony & Prussian Roulette", URL: https://badlands.substack.com/p/badlands-news-brief-9e7
+8. Badlands Brief — "Badlands News Brief: Border Battles, Trump Trials & COVID Comeuppance", URL: https://badlands.substack.com/p/badlands-news-brief-b4a

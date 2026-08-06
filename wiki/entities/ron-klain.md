@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [democratic-party, white-house, biden-administration, 2024-election, debate-preparation]
-sources: [raw/badlands-news-brief-565.md]
+sources: [raw/badlands-news-brief-565.md, raw/badlands-news-brief-aac.md]
 confidence: medium
 ---
 
@@ -22,6 +22,11 @@ Klain's designation as the leader of the preparation effort underscored the camp
 
 [[badlands-media|Badlands Media]] commentators treated the scale of the Camp David preparation effort as evidence of Biden's diminished condition rather than of strategic diligence, contrasting it with Trump's stated approach of treating the debate as "just another campaign appearance" requiring no comparable all-hands mobilization.[1] Commentator [[ashe-in-america|Ashe in America]] argued that no amount of preparation would meaningfully change Biden's debate performance, and recalled that Biden's team had cancelled a remaining debate in 2020 while citing COVID-19 as the justification.[1] The same commentary noted that the June 27 event would feature what the author characterized as Biden's hand-picked moderators, no live audience, and rumors that the candidates would be seated.[1]
 
+## Blamed for 2024 debate preparation
+
+Klain, the former White House chief of staff, ran point on [[joe-biden|Joe Biden]]'s preparation for the June 2024 debate and on similar sessions in previous cycles.[2] After Biden's poor performance, his family privately criticized the campaign's high command at a Camp David gathering and urged the president to fire or demote senior staff, casting blame widely on Klain along with [[anita-dunn|Anita Dunn]] and [[bob-bauer|Bob Bauer]].[2] Complaints included that Biden had not been prepared to pivot to attack, that he dwelt on defending his record rather than a second-term vision, and that he was overworked and under-rested; a senior Biden aide called it "not true" that frustration had been directed at the three, and the campaign said the president retained strong confidence in aides who had been with him for years or decades.[2]
+
 ## References
 
 1. Badlands Brief — "Polling Paradoxes, Hegelian Seeding & Putin's Gambit", URL: https://badlands.substack.com/p/badlands-news-brief-565
+2. Badlands Brief — "Badlands News Brief: Wins at Home and Deals Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-aac

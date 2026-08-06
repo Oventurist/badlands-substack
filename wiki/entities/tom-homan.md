@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [immigration, trump-administration, border]
-sources: [raw/badlands-brief-165.md, raw/badlands-brief-733.md, raw/badlands-brief-db7.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-7ce.md, raw/badlands-news-brief-9bc.md, raw/badlands-news-brief-9c6.md]
+sources: [raw/badlands-brief-165.md, raw/badlands-brief-733.md, raw/badlands-brief-db7.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-7ce.md, raw/badlands-news-brief-9bc.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-b02.md]
 confidence: medium
 ---
 
@@ -74,6 +74,10 @@ Badlands writer [[burning-bright|Burning Bright]] grouped Homan — the "Real Bo
 
 As the expected incoming border czar, Homan said in November 2024 that states attempting to evade Immigration and Customs Enforcement would be subverted and held accountable, a warning aimed at sanctuary jurisdictions resisting [[donald-trump|Donald Trump]]'s planned mass deportation program.[11] Badlands commentary from Colorado described local leaders as caught between opposition to federal intervention and a public increasingly angry over crime, victimization of residents and more than $340 million in state costs attributed to migration.[11]
 
+## Anticipation of the border czar role (January 2025)
+
+As the [[laken-riley-act|Laken Riley Act]] advanced through the Senate in January 2025, [[badlands-media|Badlands Media]] commentator [[ashe-in-america|Ashe in America]] wrote that she looked forward to incoming border czar Tom Homan getting to work the following week and ridding American communities of vicious foreign criminals.[12]
+
 ## References
 
 1. Badlands Brief — "Trump Conducts the Chaos as the Uniparty Concentrates Fire", URL: https://badlands.substack.com/p/badlands-brief-165
@@ -87,3 +91,4 @@ As the expected incoming border czar, Homan said in November 2024 that states at
 9. Badlands Brief — "The Star Spangled Banner, Bureaucrat Bleach Bit, & an Unknown Balance of Bullion", URL: https://badlands.substack.com/p/badlands-news-brief-7ce
 10. Badlands News Brief — "Trump's Avengers Assemble as Globalists Tremble", URL: https://badlands.substack.com/p/badlands-news-brief-9bc
 11. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6
+12. Badlands News Brief — "Contentious Confirmations & Conflicted Special Counsels", URL: https://badlands.substack.com/p/badlands-news-brief-b02

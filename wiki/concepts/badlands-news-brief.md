@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [badlands-media, newsletter, citizen-journalism]
-sources: [raw/a-look-at-recent-features.md, raw/badlands-news-blast.md, raw/badlands-news-brief-001.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-70d.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-7c5.md]
+sources: [raw/a-look-at-recent-features.md, raw/badlands-news-blast.md, raw/badlands-news-brief-001.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-70d.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-7c5.md, raw/badlands-news-brief-aed.md]
 confidence: medium
 ---
 
@@ -97,6 +97,12 @@ The brief titled "Musk the Peacemaker, Constitutional Overreach & POTATUS" cover
 
 On July 4, 2025 the Brief paused its usual coverage for the holiday, restating that "the news cycle is impossible to fully track these days" and describing itself as "a uniquely curated selection of the stories dominating the info war — with context and commentary from Badlands hosts."[16] The editors said the Brief would return the following Monday and urged readers to "enjoy American Liberty and kick off America's 250th year in style."[16] In place of news items the issue reproduced the full text of the [[declaration-of-independence|Declaration of Independence]] from the National Archives, together with an image of the signers.[16] The remainder of the issue carried a sponsored placement for [[nativepath|NativePath]] collagen, a Badlands Media post on X wishing readers a happy Independence Day, and a promotion for in-person and virtual tickets to GART 9 of the [[great-american-restoration-tour|Great American Restoration Tour]] in Deadwood, South Dakota.[16] It closed with the publication's standing disclaimer, its request that readers share the brief and comment, and the note that the Brief is free but supported by paid subscribers helping its "collective of citizen journalists take back the narrative."[16]
 
+## "The Garbage Man Cometh to Take out the Trash" (October 31, 2024)
+
+The Brief published on October 31, 2024 covered news from Wednesday, October 30 and was framed around [[donald-trump|Donald Trump]]'s trash-themed press conference from a campaign-branded garbage truck.[17] Items included the garbage truck presser and the surrounding "garbage" exchange with [[joe-biden|Joe Biden]] and [[kamala-harris|Kamala Harris]]; Michigan Secretary of State [[jocelyn-benson|Jocelyn Benson]]'s admission of a nationwide programming issue with [[dominion-voting-systems|Dominion]] voter assist terminals alongside the Colorado voting system password leak under [[jena-griswold|Jena Griswold]]; Trump's plan to seize cartel assets to compensate victims of migrant crime; [[bank-of-america|Bank of America]]'s warning of possible federal enforcement action over money laundering compliance; [[volodymyr-zelensky|Volodymyr Zelenskyy]]'s complaint about the [[white-house|White House]] leaking his Tomahawk request; the [[supreme-court-of-the-united-states|Supreme Court]]'s order allowing Virginia to purge noncitizens from its voter rolls; and Riyadh's hosting of the first meeting of the [[international-alliance-to-implement-the-two-state-solution|International Alliance to Implement the Two-State Solution]].[17]
+
+Bonus items covered Harris's response to Biden's remark, the dispatch of [[amos-hochstein|Amos Hochstein]] and [[brett-mcgurk|Brett McGurk]] to Israel to pursue a Lebanon deal, and the Pennsylvania station [[wnep|WNEP]]'s accidental broadcast of test presidential election results.[17] Commentary came from [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]], [[ashe-in-america|Ashe in America]] and [[burning-bright|Burning Bright]], and the edition carried sponsorship from the pet litter company Luv Litters.[17]
+
 ## References
 1. Badlands Brief — "A Look At Recent Features", URL: https://badlands.substack.com/p/a-look-at-recent-features
 2. Badlands Brief — "UFO's, Epstein Logs & Racist Squirrels?", URL: https://badlands.substack.com/p/badlands-news-blast
@@ -114,3 +120,4 @@ On July 4, 2025 the Brief paused its usual coverage for the holiday, restating t
 14. Badlands Brief — "Badlands News Brief: Firing Squads, Purebloods and Woke's Decline", URL: https://badlands.substack.com/p/badlands-news-brief-70d
 15. Badlands Brief — "Musk the Peacemaker, Constitutional Overreach & POTATUS", URL: https://badlands.substack.com/p/badlands-news-brief-670
 16. Badlands Brief — "Happy Independence Day!", URL: https://badlands.substack.com/p/badlands-news-brief-7c5
+17. Badlands Brief — "Badlands News Brief: The Garbage Man Cometh to Take out the Trash", URL: https://badlands.substack.com/p/badlands-news-brief-aed

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence-community, pentagon, counterintelligence, israel]
-sources: [raw/badlands-brief-6f0.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-899.md]
+sources: [raw/badlands-brief-6f0.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-af7.md]
 confidence: medium
 ---
 
@@ -34,8 +34,14 @@ Defense Intelligence underwent a command change on February 2, 2024, presided ov
 
 Numerous outlets reported on June 25, 2025 on an early Defense Intelligence Agency assessment suggesting that U.S. strikes had set Iran's nuclear program back only a few months.[4] The assessment was characterized as low-confidence and preliminary.[4] The White House strongly disputed its conclusions and criticized leakers within the intelligence apparatus, with press secretary Karoline Leavitt calling the leak "a clear attempt to demean President Trump, and discredit the brave fighter pilots who conducted a perfectly executed mission to obliterate Iran's nuclear program."[4] Secretary of State Marco Rubio argued at the NATO summit that anti-Trump elements in the intelligence community had manipulated media outlets into unfavorable coverage of the operation.[4] The Iranian foreign ministry itself subsequently admitted that its nuclear facilities had been "badly damaged" by the strikes, undercutting the leaked assessment.[4]
 
+## Flynn's tenure and subsequent litigation (2023)
+
+Coverage of [[michael-flynn|Michael Flynn]]'s March 2023 malicious prosecution lawsuit identified him as the former head of the Agency under the Obama administration before he became national security adviser to President [[donald-trump|Donald Trump]].[5] The suit, filed against the [[department-of-justice|Department of Justice]] and the [[fbi|FBI]], alleges that the counterintelligence investigation opened against him in August 2016 over supposed ties to Russia was baseless and politically motivated.[5]
+
+
 ## References
 1. Badlands Brief — "The Bibi Break-Up Begins, As Does The IC Purge...", URL: https://badlands.substack.com/p/badlands-brief-6f0
 2. Badlands News Brief — "Pre-Dawn Raids, Russiagate Racketeering, & Real-Time Adverse Reporting", URL: https://badlands.substack.com/p/badlands-news-brief-32d
 3. Badlands Brief — "Biden Hemorrhages Already-Nonexistent Support", URL: https://badlands.substack.com/p/badlands-news-brief-6fc
 4. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
+5. Badlands News Brief — "Trump on Wuhan, Flynn Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-af7

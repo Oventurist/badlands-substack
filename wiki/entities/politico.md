@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, legacy-media, political-journalism, elections]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-1ae.md, raw/badlands-brief-618.md, raw/badlands-brief-6b4.md, raw/badlands-brief-a1a.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-a71.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-1ae.md, raw/badlands-brief-618.md, raw/badlands-brief-6b4.md, raw/badlands-brief-a1a.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-af5.md]
 confidence: low
 ---
 
@@ -89,6 +89,16 @@ On October 15, 2024, Politico published a magazine essay arguing that the factor
 
 Badlands contributor Ashe in America described the article as "wild" — effectively a mainstream deconstruction of decades of US political parties manipulating foreign policy and weaponizing government bureaucracy for political gain, confirming what Badlands has said while its writers are dismissed as conspiracy theorists.[13] She faulted the piece for omitting [[hunter-biden|Hunter Biden]] and mocked its closing reference to the "remarkable stability" of the 2024 race and "relatively minor movement in the polls" as inexplicable and mathematically questionable.[13]
 
+## Coverage of Trudeau's 2024 by-election defeat
+
+Politico reported in June 2024 that the heat had "cranked up" on [[justin-trudeau|Justin Trudeau]] after his party's surprise loss in a special election for Toronto—St. Paul's, a seat the Liberals had held since 1993, and placed him among sinking incumbents including [[rishi-sunak|Rishi Sunak]], [[emmanuel-macron|Emmanuel Macron]] and [[joe-biden|Joe Biden]].[14]
+
+## Coverage of the Democratic "freakout" over Biden (May 2024)
+
+Politico reported in late May 2024 that a pervasive sense of fear had settled in at the highest levels of the Democratic Party over President [[joe-biden|Joe Biden]]'s reelection prospects, even among officeholders and strategists who had previously expressed confidence about the coming battle with [[donald-trump|Donald Trump]].[15] Drawing on more than a dozen party leaders and operatives, the piece described anxiety morphing into palpable trepidation five months out, and a widening gap between what Democrats would say publicly and what they told friends privately.[15] One operative in close touch with the White House, granted anonymity, said "you don't want to be that guy who is on the record saying we're doomed," attributing the "freakout" to Biden's stubbornly poor polling and the stakes of the election.[15]
+
+Badlands contributor [[burning-bright|Burning Bright]] had argued the previous week that Politico had become "a gold mine of negative or reverse indicators coming out of the establishment," and read the article as a literal panic pattern opening the summer stretch.[15] He highlighted two embedded signals: Politico's description of Trump's campaign stops in New York, New Jersey and California as "psychological warfare" meant to destabilize the curated image of Democrat control — matching commentary by [[jon-herold|Jon Herold]], [[just-human|Just Human]] and himself on the Power Hour — and the quotation of [[eric-trump|Eric Trump]] saying "Make no mistake, there is a war happening in this country."[15] Overall he judged the piece to represent a growing divide between Biden administration strategists and the DC "expert class."[15]
+
 ## References
 1. Badlands Brief — "Mixed Gender Crews, Trafficking Stings, & Shadow Cabal Reruns", URL: https://badlands.substack.com/p/badlands-brief-029
 2. Badlands Brief — "DC Exposes Itself as the Middle East Gets Gloriously Strange", URL: https://badlands.substack.com/p/badlands-brief-1ae
@@ -103,3 +113,5 @@ Badlands contributor Ashe in America described the article as "wild" — effecti
 11. Badlands Brief — "Polling Paradoxes, Hegelian Seeding & Putin's Gambit", URL: https://badlands.substack.com/p/badlands-news-brief-565
 12. Badlands News Brief — "Strategy & Micro Protests", URL: https://badlands.substack.com/p/badlands-news-brief-71c
 13. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71
+14. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
+15. Badlands Brief — "Badlands News Brief: Deliberations Begin as Signal Spreads in the Info War", URL: https://badlands.substack.com/p/badlands-news-brief-af5

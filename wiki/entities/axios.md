@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, journalism, washington]
-sources: [raw/badlands-brief-6f0.md, raw/badlands-brief-774.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-786.md]
+sources: [raw/badlands-brief-6f0.md, raw/badlands-brief-774.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-a82.md]
 confidence: medium
 ---
 
@@ -41,6 +41,10 @@ In July 2024 Axios published a pair of pieces that Badlands Media analysed toget
 
 Badlands commentary argued that Axios had been "firmly on Team Replacement" since the debate, publishing disparagement resting solely on anonymous sources, and had pivoted once it became clear Biden was not withdrawing.[6] The critique held that Axios criticised both candidates but not symmetrically — attacking Biden's age and feebleness while recycling "convicted felon" lines and abortion warnings against Trump, in line with Democratic politicians and NGOs casting Heritage's [[project-2025|Project 2025]] as a dystopian sequel.[6] The central charge was that both articles resolved to the same takeaway, that the candidates remained "neck and neck," which the writer framed as defence of a "50/50 country" lie underpinning perceived national division and legitimising narrow governing majorities.[6]
 
+## Coverage of the Hunter Biden license suspension
+
+Axios reported on June 25, 2024 that the [[dc-court-of-appeals|D.C. Court of Appeals]] had suspended [[hunter-biden|Hunter Biden]]'s law license following his conviction on three federal gun charges, framing it as the latest fallout from a trial that "aired some of the Biden family's darkest moments."[7] Badlands contributor [[ashe-in-america|Ashe in America]] singled out that phrasing as "subtle gaslighting to reinforce the regime narrative," arguing the case had barely scratched the surface of the First Family's conduct.[7]
+
 ## References
 1. Badlands Brief — "The Bibi Break-Up Begins, As Does The IC Purge...", URL: https://badlands.substack.com/p/badlands-brief-6f0
 2. Badlands Brief — "Weaponization Woes & Bailing on the Bromance", URL: https://badlands.substack.com/p/badlands-brief-774
@@ -48,3 +52,4 @@ Badlands commentary argued that Axios had been "firmly on Team Replacement" sinc
 4. Badlands News Brief — "MAGA Gets Branded as Biden Bungles Everything", URL: https://badlands.substack.com/p/badlands-news-brief-07e
 5. Badlands Brief — "The Old Guard Braces for Impact as Panic Spreads", URL: https://badlands.substack.com/p/badlands-news-brief-447
 6. Badlands Brief — "Badlands News Brief: Trump's Plan, Biden's Path & Israel's Dilemma", URL: https://badlands.substack.com/p/badlands-news-brief-786
+7. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82

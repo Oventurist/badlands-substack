@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [judiciary, doge, litigation, federal-courts]
-sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-a27.md, raw/badlands-news-brief-a7b.md]
+sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-a27.md, raw/badlands-news-brief-a7b.md, raw/badlands-news-brief-aac.md]
 confidence: medium
 ---
 
@@ -56,6 +56,10 @@ In a court order released on Friday, February 2, 2024, Chutkan wrote that [[dona
 
 The ruling came while the D.C. Circuit Court had yet to decide whether the former president was immune from prosecution; a panel of federal appeals judges heard oral arguments on January 9 under an expedited schedule.[7] "The court will set a new schedule if and when the mandate is returned," Chutkan's order said.[7] A lawyer for Trump and a spokesman for the special counsel both declined to comment.[7]
 
+## Role after the immunity ruling (2024)
+
+When the [[supreme-court-of-the-united-states|Supreme Court]] decided [[trump-v-united-states|Trump v. United States]] on July 1, 2024, it punted to the trial court the question of whether [[donald-trump|Donald Trump]]'s alleged conduct in the January 6 case was protected, leaving Chutkan — the U.S. district judge overseeing that case — to determine which of the charged acts qualified as "official."[9] Because Chief Justice [[john-roberts|John Roberts]] held that Trump was absolutely immune for conduct involving his discussions with Justice Department officials, and because the trial had already been postponed indefinitely, the ruling all but guaranteed the case would not reach trial before the November 2024 election.[9]
+
 ## References
 1. Badlands Brief — "A Meddling Musk & Sanctions for Soros", URL: https://badlands.substack.com/p/badlands-news-brief-048
 2. Badlands Brief — "Badlands News Brief: Trump Surges, COVID Flags & Ukraine Slips", URL: https://badlands.substack.com/p/badlands-news-brief-0ec
@@ -65,3 +69,4 @@ The ruling came while the D.C. Circuit Court had yet to decide whether the forme
 6. Badlands Brief — "It's Our Failed 'Resistance' and We Can Cry if We Want To", URL: https://badlands.substack.com/p/badlands-news-brief-656
 7. Badlands Brief — "Badlands News Brief: Bicameral Biden Presides Over a Global Minefield", URL: https://badlands.substack.com/p/badlands-news-brief-a27
 8. Badlands Brief — "Badlands News Brief: A Potato Visits Israel; A Ukrainian Does Not ...", URL: https://badlands.substack.com/p/badlands-news-brief-a7b
+9. Badlands Brief — "Badlands News Brief: Wins at Home and Deals Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-aac

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [declassification, jfk, transparency, executive-order]
-sources: [raw/badlands-news-brief-298.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-a72.md]
+sources: [raw/badlands-news-brief-298.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-b0d.md]
 confidence: medium
 ---
 
@@ -54,9 +54,22 @@ Shortly after the release of thousands of assassination-related files, President
 
 Despite the declassification of reams of government files on the killing, Rep. [[anna-paulina-luna|Anna Paulina Luna]] continued in late March 2025 to search for a cover-up, asserting without evidence that an allegedly previously unreleased NBC video could reveal new details of President [[john-f-kennedy|John F. Kennedy]]'s death and purportedly show [[lee-harvey-oswald|Lee Harvey Oswald]] near Kennedy's vehicle at the time of the shooting.[5] Her [[task-force-on-the-declassification-of-federal-secrets|Task Force on the Declassification of Federal Secrets]] was scheduled to hold a hearing on the JFK files on April 1, 2025, a date [[badlands-media|Badlands Media]] noted with irony.[5]
 
+## Espionage revelations and exposed personal data (March 2025)
+
+History buffs who dove into the released records hoping for new details about President [[john-f-kennedy|John F. Kennedy]]'s assassination instead found revelations about U.S. espionage, alongside previously redacted personal information that was inadvertently exposed.[6] The [[national-archives-and-records-administration|U.S. National Archives and Records Administration]] posted more than 63,000 pages of records on its website following an executive order from President [[donald-trump|Donald Trump]]; many documents had been released previously but with redactions hiding the names of [[cia|CIA]] sources or details of its spying and covert operations in the 1960s.[6]
+
+Coverage restated the official account: Kennedy was killed on November 22, 1963 during a visit to Dallas, shots rang out from the Texas School Book Depository as his motorcade finished its downtown parade route, police arrested [[lee-harvey-oswald|Lee Harvey Oswald]] from a sniper's perch on the sixth floor, and two days later nightclub owner Jack Ruby fatally shot Oswald during a jail transfer broadcast live on television.[6] While the release pumped new energy into conspiracy theories, Kennedy scholars said they had seen nothing out of line with the conclusion that Oswald, a 24-year-old ex-Marine, was the lone gunman.[6]
+
+## Families learning of CIA ties
+
+A parallel investigation reported that the release of more than 77,000 pages had shed little new light on the killing itself but that the unmasking of many previously redacted names revealed the identities of people who had worked with the clandestine services — roles hidden for decades even from close family members.[6] One man, John Smith, learned that his grandfather E.B. Smith, a bespectacled University of Maryland professor who wrote books on pre–Civil War presidents, had been a U.S. government asset feeding Soviet-era intelligence to the CIA.[6] Other families learned for the first time how parents, grandfathers, or spouses participated in American spycraft — as a CIA informant gathering intelligence on Fidel Castro's supporters, a field agent planting bugs at a Chinese agency, or a scholar extracting morsels of intelligence from a Soviet official.[6]
+
+[[badlands-media|Badlands]] contributor [[jon-herold|Jon Herold]] argued the release was never going to identify who actually killed Kennedy, and that what emerged instead was documentation of the behavior of the [[deep-state|deep state]] and how it remains relevant and prevalent today: "It never stopped."[6]
+
 ## References
 1. Badlands News Brief — "Pirated Pardons & Delayed Declassifications", URL: https://badlands.substack.com/p/badlands-news-brief-298
 2. Badlands Brief — "Badlands News Brief: Bengaluru Raids, Bitcoin Bangers, & A Buddhist Execution", URL: https://badlands.substack.com/p/badlands-news-brief-2dc
 3. Badlands Brief — "Badlands News Brief: Extra-Judicial Judges & Master Manipulating Monsters", URL: https://badlands.substack.com/p/badlands-news-brief-324
 4. Badlands Brief — "Badlands News Brief: Overexposed Engagement Farmers & Maple-Flavored Monarchs", URL: https://badlands.substack.com/p/badlands-news-brief-42b
 5. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72
+6. Badlands Brief — "Badlands News Brief: Unexpected Allies, Rogue Judges, & Stacked Envoys", URL: https://badlands.substack.com/p/badlands-news-brief-b0d

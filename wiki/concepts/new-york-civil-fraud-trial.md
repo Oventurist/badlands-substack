@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [lawfare, donald-trump, new-york, courts]
-sources: [raw/badlands-news-brief-023.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-2e8.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-aaf.md]
+sources: [raw/badlands-news-brief-023.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-2e8.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-aaf.md, raw/badlands-news-brief-b04.md]
 confidence: high
 ---
 
@@ -72,6 +72,10 @@ The civil fraud trial opened in Manhattan on October 2, 2023, with Donald Trump 
 
 Outside the courtroom, by contrast, Trump was combative, telling reporters during the lunch break that Engoron "should be out of office" and that "some people say" the judge "could be charged criminally for what he's doing," while branding the judge deranged and dismissing the suit as a witch hunt.[11] Badlands commentator [[burning-bright|Burning Bright]] read the performance as Trump deliberately communicating with multiple audiences at once, arguing that the "Greatest Witch Hunt" framing signals that Trump himself is the one now conducting the hunt, and that the Trump trials would set both legal and mass-psychological precedent for a coming justice phase of the exposure and disclosure campaign.[11]
 
+## Mistrial motion (November 2023)
+
+On Wednesday, November 15, 2023, [[donald-trump|Donald Trump]]'s legal team filed a motion for a mistrial, claiming that purported bias on the part of the trial judge and his principal law clerk had "tainted" the case.[12] "This appearance of bias threatens both Defendants' rights and the integrity of the judiciary as an institution," Trump's counsel wrote in the 30-page motion.[12] The filing pointed to posts made by Judge [[arthur-engoron|Arthur Engoron]] to a Wheatley School alumni page that the judge appears to run, referencing the case or individuals involved in it, including Trump, his son [[eric-trump|Eric Trump]], and Trump attorney [[alina-habba|Alina Habba]].[12] The motion cited New York judicial conduct rules providing that "a judge shall not make any public comment about a pending or impending proceeding in any court within the United States or its territories."[12]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Chaos in the Middle East Overshadows That at Home", URL: https://badlands.substack.com/p/badlands-news-brief-023
@@ -85,3 +89,4 @@ Outside the courtroom, by contrast, Trump was combative, telling reporters durin
 9. Badlands Brief — "Badlands News Brief: DemoCrabs in Biden's Bucket", URL: https://badlands.substack.com/p/badlands-news-brief-845
 10. Badlands Brief — "Badlands News Brief: Deadline Deals and Crime Families", URL: https://badlands.substack.com/p/badlands-news-brief-a29
 11. Badlands Brief — "Badlands News Brief: Supreme Court Rumblings & Witch Hunts Galore", URL: https://badlands.substack.com/p/badlands-news-brief-aaf
+12. Badlands Brief — "China Joe Strikes Out & Trumpism on Trial", URL: https://badlands.substack.com/p/badlands-news-brief-b04

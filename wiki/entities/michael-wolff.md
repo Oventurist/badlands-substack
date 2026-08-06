@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [journalist, defamation, lawfare, epstein, melania-trump]
-sources: [raw/badlands-brief-e60.md]
+sources: [raw/badlands-brief-e60.md, raw/badlands-news-brief-b01.md]
 confidence: medium
 ---
 
@@ -24,5 +24,9 @@ On Tuesday, July 21, 2026, Melania Trump filed a motion for sanctions against Wo
 
 Badlands contributor [[ashe-in-america|Ashe in America]] noted that [[jon-herold|Jon Herold]] had used the case on The Daily Herold as a reference point for the future of frivolous lawfare, and suggested that the First Lady's filing may amount to a playbook for punishing those who weaponize the courts or use "litigation for improper purposes."[1]
 
+## Epstein recordings
+In August 2017, while researching his bestselling book *Fire and Fury*, Wolff recorded lengthy conversations with [[jeffrey-epstein|Jeffrey Epstein]] in which Epstein spoke at length about [[donald-trump|Donald Trump]].[2] The recordings, obtained and published by the Daily Beast days before the November 2024 election, captured Epstein describing himself as Trump's "closest friend" and claiming knowledge of Trump's private life, including the assertion that Trump first slept with [[melania-trump|Melania Trump]] aboard Epstein's plane.[2] The conversations took place two years before Epstein was found dead in his jail cell.[2]
+
 ## References
 1. Badlands Brief — "Abrahamic Rug Pulls, Frivolous Lawfare, & False Statements Under Oath", URL: https://badlands.substack.com/p/badlands-brief-e60
+2. Badlands Brief — "Badlands News Brief: Marauding, Squirrel-Murdering Psychopaths Panic Ahead of the Election", URL: https://badlands.substack.com/p/badlands-news-brief-b01

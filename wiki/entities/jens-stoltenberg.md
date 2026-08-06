@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [nato, norway, ukraine, russia, diplomacy]
-sources: [raw/badlands-news-brief-006.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-3c3.md, raw/badlands-news-brief-6bf.md]
+sources: [raw/badlands-news-brief-006.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-3c3.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-b22.md]
 confidence: medium
 ---
 
@@ -40,9 +40,27 @@ Stoltenberg had consistently declined to say what Ukraine should do to end the w
 
 At the Brussels meeting of NATO foreign ministers in late November 2023, Stoltenberg warned that Russia had amassed a large missile stockpile ahead of winter, a caution echoed by other sources and cited by Reuters.[5] His warning accompanied Secretary of State [[antony-blinken|Antony Blinken]]'s insistence that there was "no sense of fatigue" among allies over supporting Ukraine, even as the front line remained stalemated and the Israel-Gaza conflict dominated global attention.[5]
 
+## "No direct threat from Russia" remarks (January 2024)
+
+On January 23, 2024, Stoltenberg stated that he saw no direct or imminent threat from [[russia|Russia]] to any [[nato|NATO]] member state, though the Alliance had increased its vigilance to prevent an attack.[6] Speaking during the signing of agreements for the purchase of about 220,000 rounds of artillery ammunition, he said: "we don't see any direct or imminent threat against any NATO Ally. And therefore, we, of course, monitor closely what Russia does, we have increased our vigilance, our presence in the eastern part of the Alliance, but the whole idea of that is to prevent an attack on a NATO Ally."[6]
+
+He recalled that in response to Russia's full-scale invasion of Ukraine, NATO members had increased defence production both to supply Kyiv and to strengthen their own capabilities, and said a further task was preventing escalation by deploying more combat troops to the Alliance's eastern flank, increasing defence investment, and exercising more.[6]
+
+## Sweden's accession and Orbán's call
+
+The following day Stoltenberg announced a "good" phone call with Hungarian Prime Minister [[viktor-orban|Viktor Orbán]], who reaffirmed Hungarian support for [[sweden|Sweden]]'s NATO membership; Stoltenberg said on X that he looked forward to ratification as soon as the Hungarian parliament reconvened.[6]
+
+[[burning-bright|Burning Bright]] read the two storylines together as evidence that EU war hawks could not stay on message: Sweden's ascension was celebrated by half the bloc while the other half wheeled and dealt on the margins, and UK hawks ratcheted up anti-Russia doom-mongering even as NATO's own security chief prepared the European mind for capitulation and proxy defeat — a "death spiral."[6]
+
+## Succession by Mark Rutte (2024)
+
+On Wednesday, June 26, 2024, [[nato|NATO]] announced that outgoing Dutch prime minister [[mark-rutte|Mark Rutte]] had been formally selected as the next secretary general, taking office on October 1 when Stoltenberg's ten-year tenure came to an end.[7] Stoltenberg said that he "warmly welcomes" the appointment of his successor.[7]
+
 ## References
 1. Badlands Brief — "NATO Warmongers & Google Searches for a Way Out", URL: https://badlands.substack.com/p/badlands-news-brief-006
 2. Badlands News Brief — "Trump Responds, a Banker Dies & a Ukrainian Tells the Truth", URL: https://badlands.substack.com/p/badlands-news-brief-119
 3. Badlands Brief — "Badlands News Brief: The DOJ's Hypocrisy, Zelensky's Failure and DeSantis' Decline", URL: https://badlands.substack.com/p/badlands-news-brief-3f0
 4. Badlands Brief — "Badlands News Brief: From Hunter to NATO, It's All About Ukraine", URL: https://badlands.substack.com/p/badlands-news-brief-3c3
 5. Badlands Brief — "Badlands News Brief: Fake Candidates Engage in Fake Debate; Everyone Loses", URL: https://badlands.substack.com/p/badlands-news-brief-6bf
+6. Badlands Brief — "Badlands News Brief: Lake and Abbott Take a Stand as Haley Falls", URL: https://badlands.substack.com/p/badlands-news-brief-b19
+7. Badlands Brief — "The Supreme Court Looms Over the First Debate", URL: https://badlands.substack.com/p/badlands-news-brief-b22

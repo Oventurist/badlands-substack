@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [impeachment, congress, biden-family, oversight]
-sources: [raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-743.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a29.md]
+sources: [raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-743.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-b2b.md]
 confidence: medium
 ---
 
@@ -54,10 +54,20 @@ On February 21, 2024, [[james-biden|James Biden]] appeared before House GOP inve
 
 Badlands commentary treated the denial as implausible, noting that even Republicans conducting the inquiry appeared to struggle to press the central claim that the president was a participant rather than a bystander in the family's dealings, and pointing to the [[patrick-ho|Patrick Ho]] episode and the Hunter Biden laptop material as circumstantial corroboration.[6]
 
+## First Oversight Committee hearing, September 28, 2023
+
+The [[house-oversight-committee|House Oversight Committee]] held the inquiry's first hearing on Thursday, September 28, 2023, a session devoted largely to reviewing the evidence Republicans had assembled about foreign business ventures involving the president's son [[hunter-biden|Hunter Biden]], then 53, which they said showed family members selling access.[7] Republicans detailed foreign payments to members of the Biden family but did not present evidence that the president had personally benefited.[7] Chairman [[james-comer|James Comer]] declared that "the American people demand accountability for this culture of corruption," charging that Biden had lied about his relatives' business dealings and had failed to wall them off from his official duties.[7]
+
+Democrats and several independent witnesses countered that no proof existed that Biden received any of the payments or otherwise behaved improperly during his 2009-2017 vice presidency, and the [[white-house|White House]] denied wrongdoing and dismissed the probe as politically motivated.[7] The panel's ranking Democrat, [[jamie-raskin|Jamie Raskin]], told the hearing, "If Republicans had a smoking gun or even a dripping water pistol they would be presenting it today. But they've got nothing."[7] The hearing unfolded as Biden campaigned for reelection in a likely rematch with [[donald-trump|Donald Trump]], who was himself preparing for four criminal trials.[7]
+
+[[ashe-in-america|Ashe in America]] called the hearing "a surreal experience," writing that Republican members methodically laid out direct evidence of Joe Biden's knowledge of and participation in influence-peddling schemes spanning Russia, China and Ukraine while Democrats responded by shouting "No evidence! Debunked!" and pivoting to Trump.[7] She noted that all Republican witnesses agreed the inquiry should continue, and that Comer confirmed Thursday evening that investigators were moving forward with subpoenas for [[jim-biden|Jim]] and Hunter Biden's bank records.[7] [[burning-bright|Burning Bright]] read the launch as a rare combination of "Overton's Goalpost" and "Narrative Whiplash," predicting Democrats would defend an indefensible candidate on national television while their media allies quietly spun up alternative candidates, and suggesting that the [[deep-state|Deep State]] would end up "caught holding the Biden Bag" if Biden survived the drama in office.[7]
+
 ## References
+
 1. Badlands Media — "Badlands News Brief: A Potato is Threatened with Impeachment & Other Stories ...", URL: https://badlands.substack.com/p/badlands-news-brief-1e2
 2. Badlands Media — "Badlands News Brief: The Biden Crime Family Begins to Unravel ...", URL: https://badlands.substack.com/p/badlands-news-brief-505
 3. Badlands Brief — "Bicameral Lawfare, Trump's Gambit & the Ouroboros", URL: https://badlands.substack.com/p/badlands-news-brief-525
 4. Badlands Brief — "Badlands News Brief: Biden, Bobulinski & Barbecue", URL: https://badlands.substack.com/p/badlands-news-brief-743
 5. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
 6. Badlands Brief — "Badlands News Brief: Deadline Deals and Crime Families", URL: https://badlands.substack.com/p/badlands-news-brief-a29
+7. Badlands Brief — "Badlands News Brief: Biden Embattled & Trump Betrayed", URL: https://badlands.substack.com/p/badlands-news-brief-b2b

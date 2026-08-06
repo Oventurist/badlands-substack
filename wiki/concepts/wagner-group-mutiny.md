@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [russia, wagner, mildec, 2023, prigozhin]
-sources: [raw/badlands-news-brief-208.md, raw/badlands-news-brief-ac7.md]
+sources: [raw/badlands-news-brief-208.md, raw/badlands-news-brief-ac7.md, raw/badlands-news-brief-b26.md]
 confidence: medium
 ---
 
@@ -40,7 +40,20 @@ The [[washington-post|Washington Post]] reported that US spy agencies picked up 
 
 Writing for Badlands, [[ashe-in-america|Ashe in America]] noted that while no concrete reporting linked the $6.2 billion in newly "discovered" Ukrainian aid funds to the Wagner episode, the foreknowledge reporting made the theory plausible: the US government knew a coup was coming, briefed [[congress|Congress]], worried about Russia's response and potential nuclear fallout, and days before Wagner advanced "found" an extra $6.2 billion for Ukraine.[2] She called the "$6.2B coup" theory one of the least silly of the weekend, contrasting it with a twenty-four-hour Twitter Space hosted by [[mario-nawfal|Mario Nawfal]] in which, she wrote, a stage full of neocons quoted alleged Wagner-run [[telegram|Telegram]] chats and Nawfal himself predicted around 11am ET that "within the next few hours, we could see the Kremlin fall."[2] Dubbing the episode "the coup d'nah," she argued that warmongering neocons had embarrassed themselves and could not hide their disappointment when Wagner turned around.[2]
 
+## Putin's address to the nation
+
+Ahead of [[vladimir-putin|Vladimir Putin]]'s speech on the evening of Monday, June 26, 2023, the Kremlin touted several "major" announcements, but the short address largely reiterated prior Kremlin statements and did not appear especially tough.[3] Putin said "traitors will face justice" and that "we defeated a colossal threat," while simultaneously extending an olive branch: "we knew and know that the vast majority of the fighters and commanders of the [[wagner-group|Wagner]] group are also patriots of Russia, devoted to their people and the state."[3] He offered mutineers the option of signing contracts with the Ministry of Defense or other law enforcement agencies, returning to their families, or going to [[belarus|Belarus]], adding, "the choice is yours, but I am sure it will be the choice of Russian soldiers who have realized their tragic mistake."[3]
+
+Even so, the [[federal-security-service|FSB]] and the Russian Prosecutor's Office made statements implying that the treason case against [[yevgeny-prigozhin|Yevgeny Prigozhin]] — presumed by then to be in Belarus — remained open.[3] Putin claimed the mutiny had been "resolutely rejected by society," said he had directly ordered that "steps were taken to avoid a lot of bloodshed," praised Russian pilots apparently shot down by Wagner mercenaries for having "saved Russia from tragic devastating consequences," and thanked the military personnel, law enforcement officers, and special services who stood in the rebels' way.[3] Observers described him as looking very serious and angry throughout.[3]
+
+## Badlands interpretation
+
+Writing for [[badlands-media|Badlands Media]], [[burning-bright|Burning Bright]] argued that Putin's remarks did nothing to undermine the view held in the [[truth-community|Truth Community]] that the Wagner "coup" was staged, and that its net effects favored the Kremlin: it put the Western media through the narrative wringer, provoked Ukrainian forces into disadvantageous positions, and exposed who inside and outside Putin's chain of command was disloyal, as well as the extent of backing from Russia's supposed Eurasian allies.[3]
+
+He further noted that [[joe-biden|Joe Biden]] had been forced to stress that the United States was "not involved," while Putin charged that the West "wanted Russians to kill each other."[3] To what Burning Bright called the Collective Mind, the American president was being made to deny that he tried to foment rebellion against a nuclear superpower; Putin, he argued, was forwarding rhetoric parallel to [[donald-trump|Donald Trump]]'s, with both framing Biden as a warmonger and themselves as peacemakers.[3]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... Or So We're Told", URL: https://badlands.substack.com/p/badlands-news-brief-208
 2. Badlands Brief — "Whose Coup Is It Anyway? ... And Other Questions", URL: https://badlands.substack.com/p/badlands-news-brief-ac7
+3. Badlands Brief — "Badlands News Brief: Trump's Tapes, Putin's Plan & Byrne's Bio", URL: https://badlands.substack.com/p/badlands-news-brief-b26

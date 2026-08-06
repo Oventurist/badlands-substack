@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [israel, idf, haredi, conscription, religion-and-state]
-sources: [raw/badlands-news-brief-786.md]
+sources: [raw/badlands-news-brief-786.md, raw/badlands-news-brief-a82.md]
 confidence: medium
 ---
 
@@ -26,5 +26,10 @@ In this reading, the 2024 confrontation replays that dynamic inside the Jewish s
 
 The commentary paired the conscription revolt with reports of potential mutinies within the IDF, describing a senior officer corps that believed [[benjamin-netanyahu|Benjamin Netanyahu]] had placed it in an impossible position to declare military victory and that favoured a truce even if it left Hamas in power.[1] Former IDF leaders were also reported to be speaking out publicly against Netanyahu, claiming he had been baited by [[hamas|Hamas]] into invading Gaza.[1]
 
+## June 2024 Supreme Court ruling
+
+On June 25, 2024, [[israeli-supreme-court|Israel's Supreme Court]] declared the long-held draft exemption of ultra-Orthodox men illegal and called on the government either to recruit them or to enact a law formally relieving them from conscription, a ruling that strained [[benjamin-netanyahu|Netanyahu]]'s coalition of nationalist and religious parties.[2] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] noted the decision reversed a decades-old practice under which rabbinic studies satisfied service obligations — an arrangement secular liberals had accepted to avoid sharing barracks with the "religious kooks" — and that ministers [[itamar-ben-gvir|Itamar Ben-Gvir]] and [[bezalel-smotrich|Bezalel Smotrich]] had threatened to resign, which would dissolve the government, if conscription were extended.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Trump's Plan, Biden's Path & Israel's Dilemma", URL: https://badlands.substack.com/p/badlands-news-brief-786
+2. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82

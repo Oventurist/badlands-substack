@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [saudi-arabia, petrodollar, oil, media]
-sources: [raw/a-week-to-remember.md, raw/a-dereliction-of-duty.md, raw/and-iran-iran-so-far-away.md, raw/arabian-nights.md, raw/badlands-brief-05f.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1ae.md, raw/badlands-brief-323.md, raw/badlands-brief-285.md, raw/badlands-brief-5a2.md, raw/badlands-brief-52f.md, raw/badlands-brief-625.md, raw/badlands-brief-71c.md, raw/badlands-brief-9ea.md, raw/badlands-brief-ac2.md, raw/badlands-brief-b56.md, raw/badlands-brief-bb1.md, raw/badlands-brief-be1.md, raw/badlands-brief-e15.md, raw/badlands-brief-e60.md, raw/badlands-brief-ea5.md, raw/badlands-brief-eea.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-99e.md]
+sources: [raw/a-week-to-remember.md, raw/a-dereliction-of-duty.md, raw/and-iran-iran-so-far-away.md, raw/arabian-nights.md, raw/badlands-brief-05f.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1ae.md, raw/badlands-brief-323.md, raw/badlands-brief-285.md, raw/badlands-brief-5a2.md, raw/badlands-brief-52f.md, raw/badlands-brief-625.md, raw/badlands-brief-71c.md, raw/badlands-brief-9ea.md, raw/badlands-brief-ac2.md, raw/badlands-brief-b56.md, raw/badlands-brief-bb1.md, raw/badlands-brief-be1.md, raw/badlands-brief-e15.md, raw/badlands-brief-e60.md, raw/badlands-brief-ea5.md, raw/badlands-brief-eea.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-b0d.md]
 confidence: medium
 ---
 
@@ -236,6 +236,20 @@ In a statement issued by its Foreign Ministry on Monday, December 9, 2024, Saudi
 
 Badlands commentary noted that Senator [[lindsey-graham|Lindsey Graham]], who in 2018 had called Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] a "thug" and demanded his removal from power, had shifted position amid the Syrian crisis.[36] The same commentary recounted that the September 11 attacks were a catalyzing event in the young crown prince's life — he reportedly watched the second tower struck on live television and concluded the world would blame the entire Arab world for crimes committed by a few — and that he vowed revenge against those responsible, whom the writer identified as the same interests behind the toppling of Syria.[36]
 
+## Hosting the two-state solution alliance (October 2024)
+
+On Wednesday, October 30, 2024, Saudi Arabia hosted in Riyadh the first meeting of the [[international-alliance-to-implement-the-two-state-solution|International Alliance to Implement the Two-State Solution]], a grouping unveiled the previous month on the sidelines of the United Nations General Assembly that brings together nations from the Middle East, Europe and beyond to press for the establishment of a Palestinian state.[37] Foreign Minister [[faisal-bin-farhan|Prince Faisal bin Farhan]] said nearly 90 "states and international organizations" were taking part in the two-day meeting.[37]
+
+"A genocide is happening with the goal of evicting the Palestinian people from their land, which Saudi Arabia rejects," Faisal said, describing the humanitarian situation as "catastrophic" and denouncing the "complete blockade" of northern Gaza.[37] Israel rejected the accusation of genocide, saying its operation aimed to eliminate [[hamas|Hamas]] and rescue the 251 hostages kidnapped on October 7, 2023, an assault that also killed some 1,200 people.[37]
+
+Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] identified Saudi Arabia as "the tip of the spear" of a world coming together against what he called the globalist hegemony, speculated that the grouping might be renamed the [[sovereign-alliance|Sovereign Alliance]], and argued that without the rise of [[mohammed-bin-salman|Mohammed bin Salman]] to the Saudi throne the world would likely be in a violent third world war.[37]
+
+## Riyadh talks on Ukraine and Black Sea security (March 2025)
+
+Talks between senior Russian and American officials, focused on a settlement of the Ukraine conflict and maritime security in the Black Sea, concluded in Riyadh in late March 2025 after more than 12 hours, with a joint statement expected the following day according to Russian news agencies RIA Novosti and TASS.[38] The Russian Foreign Ministry released a short video showing the negotiating team leaving the talks, saying only that "the Russian-American consultations have concluded."[38] A White House source told Reuters that a "positive announcement" was expected "in the near future" following progress made in Riyadh, while Grigory Karasin, a veteran diplomat and chairman of the parliamentary International Relations Committee on the Russian delegation, described the talks as "creative" but also "technical."[38]
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] identified a pattern of narrative repetition around the US–Russia–Saudi triangle, tracing it back into the Biden administration when Saudi Crown Prince [[mohammed-bin-salman|MBS]] helped facilitate prisoner-swap negotiations between Washington and Moscow, and predicted the process would culminate the following month with [[donald-trump|President Trump]] and President [[vladimir-putin|Putin]] meeting face-to-face in Riyadh in a historic moment shifting geopolitical norms.[38]
+
 ## References
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
 2. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
@@ -273,3 +287,5 @@ Badlands commentary noted that Senator [[lindsey-graham|Lindsey Graham]], who in
 34. Badlands Brief — "Bank of Epstein, Saudi Arabia & Trump's Reprieve?", URL: https://badlands.substack.com/p/badlands-news-brief-85a
 35. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889
 36. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e
+37. Badlands Brief — "Badlands News Brief: The Garbage Man Cometh to Take out the Trash", URL: https://badlands.substack.com/p/badlands-news-brief-aed
+38. Badlands Brief — "Badlands News Brief: Unexpected Allies, Rogue Judges, & Stacked Envoys", URL: https://badlands.substack.com/p/badlands-news-brief-b0d

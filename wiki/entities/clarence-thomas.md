@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [supreme-court, judiciary, voting-rights-act]
-sources: [raw/badlands-brief-6bf.md, raw/badlands-brief-fd9.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-862.md, raw/badlands-news-brief-8ba.md, raw/badlands-news-brief-acf.md]
+sources: [raw/badlands-brief-6bf.md, raw/badlands-brief-fd9.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-862.md, raw/badlands-news-brief-8ba.md, raw/badlands-news-brief-acf.md, raw/badlands-news-brief-aac.md]
 confidence: medium
 ---
 
@@ -43,6 +43,10 @@ During oral arguments on April 25, 2024 in the case concerning whether former Pr
 
 Concerns about alleged ethical improprieties among the justices ignited in April 2023, after the nonprofit outlet ProPublica reported that Thomas had gone on trips paid for by Republican megadonor Harlan Crow.[7] Sustained pressure over undisclosed travel and gifts culminated on November 13, 2023, when the [[supreme-court-of-the-united-states|Supreme Court]] announced it would adopt the [[2023-supreme-court-code-of-conduct|2023 Supreme Court Code of Conduct]], a 14-page guidance document setting rules for accepting travel opportunities and reaffirming the justices' commitment to the statute governing financial disclosure.[7]
 
+## Concurrence in Trump v. United States (2024)
+
+In a concurring opinion to the Court's July 1, 2024 presidential-immunity decision in [[trump-v-united-states|Trump v. United States]], Thomas questioned whether Special Counsel [[jack-smith|Jack Smith]] — appointed by Attorney General [[merrick-garland|Merrick Garland]] — possessed actual authority to prosecute [[donald-trump|Donald Trump]].[8] Badlands contributor [[ashe-in-america|Ashe in America]] described the concurrence as Thomas "dunking on" Garland and Smith and judged it likely that Smith indeed lacked such authority.[8]
+
 ## References
 1. Badlands Brief — "SCOTUS: You Can Be Neither Racist Nor Unilaterally Murdery", URL: https://badlands.substack.com/p/badlands-brief-6bf
 2. Badlands Brief — "Bicameral Courts, Congressional Creeps & Curious Cartels", URL: https://badlands.substack.com/p/badlands-brief-fd9
@@ -51,3 +55,4 @@ Concerns about alleged ethical improprieties among the justices ignited in April
 5. Badlands Brief — "Badlands News Brief: Kari Counters, Elites Gather & Data Talks", URL: https://badlands.substack.com/p/badlands-news-brief-862
 6. Badlands Brief — "Badlands News Brief: Netanyahu & Zelenskyy Beg Biden as Exposure Continues", URL: https://badlands.substack.com/p/badlands-news-brief-8ba
 7. Badlands Brief — "Badlands News Brief: China Joe Takes the Stage as Trump's Power Grows", URL: https://badlands.substack.com/p/badlands-news-brief-acf
+8. Badlands Brief — "Badlands News Brief: Wins at Home and Deals Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-aac

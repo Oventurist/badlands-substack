@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [mar-a-lago, classified-documents, doj, trump]
-sources: [raw/badlands-news-brief-208.md, raw/badlands-news-brief-948.md]
+sources: [raw/badlands-news-brief-208.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-b02.md]
 confidence: medium
 ---
 
@@ -26,7 +26,12 @@ De Oliveira's inclusion marked the first time a Mar-a-Lago facilities employee, 
 
 De Oliveira, the [[mar-a-lago|Mar-a-Lago]] property manager, is a co-defendant with [[walt-nauta|Walt Nauta]] in the [[trump-classified-documents-case|classified documents case]] against [[donald-trump|Donald Trump]] and has pleaded not guilty.[2] On December 4, 2023 Judge [[aileen-cannon|Aileen Cannon]] denied special counsel [[jack-smith|Jack Smith]]'s bid to keep several filings sealed and ordered docket entries 223, 224 and 230 unsealed, a decision reported as favorable to the co-defendants in the dispute over access to classified material.[2]
 
+## Motions against the special counsel report (January 2025)
+
+In early January 2025, Carlos De Oliveira and co-defendant [[walt-nauta|Waltine Nauta]] filed two emergency motions to enjoin release of [[jack-smith|Special Counsel Jack Smith]]'s final report, beginning a week of emergency litigation in the Southern District of Florida.[3] Smith had indicted De Oliveira, Nauta, and [[donald-trump|Donald Trump]] over alleged crimes related to Trump's retention of classified documents.[3] [[aileen-cannon|Judge Aileen Cannon]] ruled on January 13, 2025 that the volume of the report concerning the election case could be released, while scheduling argument for that Friday on whether the documents-case volume could go to members of [[congress|Congress]].[3]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... Or So We're Told", URL: https://badlands.substack.com/p/badlands-news-brief-208
 2. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
+3. Badlands News Brief — "Contentious Confirmations & Conflicted Special Counsels", URL: https://badlands.substack.com/p/badlands-news-brief-b02

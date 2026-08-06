@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [prosecutor, department-of-justice, hunter-biden, delaware]
-sources: [raw/badlands-news-brief-090.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-9de.md, raw/badlands-news-brief-a82.md]
+sources: [raw/badlands-news-brief-090.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-9de.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b26.md]
 confidence: medium
 ---
 
@@ -58,6 +58,18 @@ Shortly after Attorney General [[merrick-garland|Merrick Garland]] elevated Weis
 
 Following the June 2024 suspension of [[hunter-biden|Hunter Biden]]'s D.C. law license, Badlands contributor [[ashe-in-america|Ashe in America]] noted that Biden would be back in court in California that September, where Special Counsel David Weiss had also brought a tax crimes case against him.[9]
 
+## Final report on the Hunter Biden investigation (January 2025)
+
+In January 2025, Special Counsel David Weiss issued a 280-page final report capping his multi-year investigation into [[hunter-biden|Hunter Biden]], defending his handling of the two prosecutions and rebuking President [[joe-biden|Joe Biden]]'s pardon of his son.[10] "I prosecuted the two cases against Mr. Biden because he broke the law," Weiss wrote at the top of the report, noting that a unanimous jury had found Hunter Biden guilty of gun charges and that he had pleaded guilty to tax offenses, and that as he had for twenty years he applied the Principles of Federal Prosecution and determined that prosecution was warranted.[10]
+
+Weiss also pushed back at the president's November 2024 pardon statement, which had called the cases "selective," "unfair," infected by "raw politics," and a "miscarriage of justice." Weiss replied that "this statement is gratuitous and wrong."[10] [[badlands-media|Badlands Media]] commentator [[jon-herold|Jon Herold]] observed that a section of the report which Weiss had no obligation to include suggested the special counsel had been looking into additional matters beyond the tax and gun charges.[10]
+
+## Denied charging requests and the June 2023 impeachment fight
+
+In June 2023, Republicans argued that Weiss had been blocked from charging [[hunter-biden|Hunter Biden]] outside Delaware, contradicting Attorney General [[merrick-garland|Merrick Garland]]'s March 1, 2023 sworn assurance that the U.S. attorney had "full authority" to make referrals or bring cases in other districts.[11] Representative [[jason-smith|Jason Smith]], chairman of the [[house-ways-and-means-committee|House Ways and Means Committee]], said Weiss "tried to bring charges in the District of Columbia around March of 2022 and was denied," and that Weiss "sought to bring charges in the Central District of California in the fall of 2022 and had that request denied in January 2023."[11]
+
+Weiss had charged the president's son the previous week with federal tax and gun violations after a five-year probe, and House Speaker [[kevin-mccarthy|Kevin McCarthy]] said Weiss must appear before the [[house-judiciary-committee|House Judiciary Committee]].[11] Garland reiterated that Weiss "was given complete authority to make all decisions on his own," a claim [[ashe-in-america|Ashe in America]] argued House investigators should be able to verify readily.[11]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Hunter Hunted, Billionaire Boxing & Snopes Nopes", URL: https://badlands.substack.com/p/badlands-news-brief-090
 2. Badlands Brief — "Badlands News Brief: Democrats in Disarray as Globalists Bend the Knee", URL: https://badlands.substack.com/p/badlands-news-brief-099
@@ -68,3 +80,5 @@ Following the June 2024 suspension of [[hunter-biden|Hunter Biden]]'s D.C. law l
 7. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
 8. Badlands Brief — "Badlands News Brief: The Establishment Goes Full RICO Against Trump", URL: https://badlands.substack.com/p/badlands-news-brief-9de
 9. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
+10. Badlands News Brief — "Contentious Confirmations & Conflicted Special Counsels", URL: https://badlands.substack.com/p/badlands-news-brief-b02
+11. Badlands Brief — "Badlands News Brief: Trump's Tapes, Putin's Plan & Byrne's Bio", URL: https://badlands.substack.com/p/badlands-news-brief-b26

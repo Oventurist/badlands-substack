@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [india, energy, de-dollarization, russian-oil]
-sources: [raw/badlands-brief-143.md, raw/badlands-brief-509.md, raw/badlands-brief-ac2.md, raw/badlands-brief-c7b.md, raw/badlands-brief-f62.md, raw/badlands-news-brief-2d5.md]
+sources: [raw/badlands-brief-143.md, raw/badlands-brief-509.md, raw/badlands-brief-ac2.md, raw/badlands-brief-c7b.md, raw/badlands-brief-f62.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-b0d.md]
 confidence: medium
 ---
 
@@ -44,6 +44,10 @@ In May 2025, President [[donald-trump|Donald Trump]] said he had told [[apple|Ap
 
 Badlands commentary agreed with the premise that India is no longer an emerging economy, citing a 2023 CATO Institute report noting the country's 1.4 billion people, roughly 9.7% share of global GDP and 49.4% share of global trade in GDP.[6] [[ashe-in-america|Ashe in America]] argued that India's prosperity had come at American expense as jobs were moved abroad over two decades — IT outsourcing giving way to business process outsourcing and then creative and consulting outsourcing — under the claim that access to lower-cost foreign talent pools was a "competitive imperative," following an earlier wave in which manufacturing jobs left and trades ceased being taught in American high schools.[6]
 
+## Seeking exemption from US reciprocal tariffs (March 2025)
+
+India planned to push for an exemption from US reciprocal tariffs when American officials visited the country in late March 2025 for discussions on a potential bilateral trade agreement.[7] A delegation led by Brendan Lynch, the US assistant trade representative for South and Central Asia, was in India from 25–29 March as part of ongoing trade negotiations, according to the US embassy in New Delhi.[7] Indian officials were expected to make the case for relief from tariffs set to take effect on 2 April, and the discussions were also to explore a framework for a broader trade deal paving the way for formal negotiations.[7] Lynch was also expected to meet Vikram Misri, India's foreign secretary; India's Ministry of Commerce and Industry said it looked forward to "productive and constructive discussions with the incoming US delegation to expand and deepen our bilateral trade and economic ties in a mutually beneficial manner."[7] India has one of the highest average tariff rates among major economies, making it a key target for [[donald-trump|President Donald Trump]]'s reciprocal trade policies; Trump had repeatedly criticised India's import duties as unfair to American businesses and said the country would not be spared from the new tariffs.[7]
+
 ## References
 
 1. Badlands Brief — "All the Classic Earmarks of Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-143
@@ -52,3 +56,4 @@ Badlands commentary agreed with the premise that India is no longer an emerging 
 4. Badlands Brief — "TACO Tuesday Returns as the War of Stories Gets Weird", URL: https://badlands.substack.com/p/badlands-brief-c7b
 5. Badlands Brief — "Sovereign Signals, Israeli Subversion, and the SAVE America Ultimatum", URL: https://badlands.substack.com/p/badlands-brief-f62
 6. Badlands Media — "Badlands News Brief: Nuclear Negotiations, Ethics Probes, & American iPhones", URL: https://badlands.substack.com/p/badlands-news-brief-2d5
+7. Badlands Brief — "Badlands News Brief: Unexpected Allies, Rogue Judges, & Stacked Envoys", URL: https://badlands.substack.com/p/badlands-news-brief-b0d

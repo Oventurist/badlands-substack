@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [arizona, maricopa-county, elections, vendors, 2022-midterms]
-sources: [raw/an-sos-from-ground-zero.md, raw/arizona-earthquake.md, raw/badlands-brief-509.md]
+sources: [raw/an-sos-from-ground-zero.md, raw/arizona-earthquake.md, raw/badlands-brief-509.md, raw/badlands-news-brief-b1d.md]
 confidence: low
 ---
 
@@ -28,8 +28,13 @@ The investigation followed concerns raised by House Administration Committee obs
 
 [[ashe-in-america|Ashe in America]] argued that Runbeck's status shifts according to convenience: in contexts such as county-level contract and funding approvals — she cites El Paso County, Colorado — the company is treated as so specialized that competitive bidding requirements are waived, while in contexts such as verifying ballot chain of custody or obtaining loading dock footage it is portrayed as an ordinary vendor comparable to a Staples or UPS Store.[3] She described this as the essence of public-private partnerships in elections: "plausible deniability via ever-moving goal posts," noting it cannot be both.[3] She also recalled that former Maricopa County Recorder [[stephen-richer|Stephen Richer]], interviewed in January on the program Why We Vote by Ashe and [[canncon|CannCon]], had downplayed Runbeck's role in the county's 2022 election.[3]
 
+## We The People AZ v. Runbeck (2023)
+
+In September 2023 Runbeck was the defendant in a public records suit brought by [[we-the-people-arizona-alliance|We The People Arizona Alliance]] after the company refused to comply with a lawful request for exterior and interior video of all loading dock locations showing items being delivered or picked up following Election Day.[4] The first hearing was held on Wednesday, September 20, 2023 and was covered live by [[badlands-media|Badlands Media]] on Rumble; the question before the court was whether Runbeck, acting as a government contractor, is subject to public records requests.[4] The Alliance sought two days of loading dock surveillance footage on the grounds that it was critical to ballot chain of custody, while attorneys for [[maricopa-county|Maricopa County]] and Runbeck argued the company was no different from a Staples or UPS Store and that its work product was no different from the toilet paper stocked in county bathrooms.[4] [[ashe-in-america|Ashe in America]] pointed to the sole-source nature of the county's Runbeck contract — which waives competitive bidding precisely because no other vendor can perform the service — as the smoking-gun refutation of that position, and reported that the judge committed to ruling expeditiously.[4] See [[we-the-people-az-v-runbeck|We The People AZ v. Runbeck]].[4]
+
 ## References
 
 1. Badlands Media — "An SOS From Ground Zero", URL: https://badlands.substack.com/p/an-sos-from-ground-zero
 2. Badlands Media — "Arizona Earthquake!", URL: https://badlands.substack.com/p/arizona-earthquake
 3. Badlands Brief — "Election Exposure, Energy Angst & War Rackets", URL: https://badlands.substack.com/p/badlands-brief-509
+4. Badlands Brief — "Badlands News Brief: Trump Skips Debates, FED Paralyzed & Garland Grilled", URL: https://badlands.substack.com/p/badlands-news-brief-b1d

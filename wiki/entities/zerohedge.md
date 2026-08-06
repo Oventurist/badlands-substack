@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, alternative-media, finance]
-sources: [raw/badlands-brief-095.md, raw/badlands-brief-625.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7c6.md]
+sources: [raw/badlands-brief-095.md, raw/badlands-brief-625.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b01.md]
 confidence: low
 ---
 
@@ -115,6 +115,16 @@ In June 2023, ZeroHedge published a summary of the [[wall-street-journal|Wall St
 
 In March 2024, while reading the roughly 1,050-page bill meant to avert a government shutdown — which authorized some $1.7 trillion in discretionary spending — ZeroHedge identified a provision selling off and shuttering the [[northeast-gasoline-supply-reserve|Northeast Gasoline Supply Reserve]], and wondered aloud whether the text had been inserted for the benefit of America's enemies.[22] Two months later, when the [[joe-biden|Biden]] administration announced the sale, the outlet noted it had been wrong to assume nobody would pursue such short-term gains at the expense of the nation's long-term security.[22] ZeroHedge also reported on the widening Slovak investigation into a broader conspiracy behind the assassination attempt on [[robert-fico|Robert Fico]], noting it was the first such attack on a European head of state in 20 years.[22]
 
+## Coverage of the Kenya parliament protests
+
+ZeroHedge reported in June 2024 that protesters had stormed Kenya's parliament and police had fired live rounds after lawmakers passed the Finance Bill 2024 with its eco-levy, describing the measure as an "Eco-Austerity" program that raised prices on basic goods.[23]
+
+## Coverage of media collapse and the Peanut seizure (2024)
+
+In the final days before the November 2024 election, ZeroHedge reported [[cnn|CNN]] media analyst [[brian-stelter|Brian Stelter]]'s circulation of an anonymous television executive's warning that "a Trump victory means mainstream media is dead in its current form," and endorsed the assessment.[24] The outlet argued that trust in corporate media had been sliding for decades and had imploded to record lows, and that history might record the 2020s as the decade the curtain was lifted on a "censorship blob" — a combination of legacy media, government, big tech, nonprofit fact-checkers and globalist billionaires it accused of sowing division, drawing the country into foreign wars, and engineering a news environment favorable to far-left policy.[24]
+
+ZeroHedge also drove coverage of the New York seizure and euthanasia of [[peanut-the-squirrel|Peanut the squirrel]], reporting that "the internet is ablaze with rage" after the state took the animal from Mark Luongo's home and killed it along with a raccoon, ostensibly to test for rabies.[24] The outlet separately reported [[dmitry-medvedev|Dmitry Medvedev]]'s Telegram post arguing that the U.S. election outcome was irrelevant to Russia and that [[donald-trump|Donald Trump]] "may get JFK'd" if he attempted to halt the Ukraine war.[24]
+
 ## References
 1. Badlands Brief — "Moves and Countermoves", URL: https://badlands.substack.com/p/badlands-brief-095
 2. Badlands Brief — "Mr. Nice Guy Leaves the Building (plus, Jewish Terrorism)", URL: https://badlands.substack.com/p/badlands-brief-625
@@ -138,3 +148,5 @@ In March 2024, while reading the roughly 1,050-page bill meant to avert a govern
 20. Badlands Brief — "Musk the Peacemaker, Constitutional Overreach & POTATUS", URL: https://badlands.substack.com/p/badlands-news-brief-670
 21. Badlands Brief — "The Wall Are Closing in Again! (And Other Stories)", URL: https://badlands.substack.com/p/badlands-news-brief-7ad
 22. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
+23. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
+24. Badlands Brief — "Badlands News Brief: Marauding, Squirrel-Murdering Psychopaths Panic Ahead of the Election", URL: https://badlands.substack.com/p/badlands-news-brief-b01

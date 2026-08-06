@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [eurasia, multipolar-world, infrastructure, russia, china]
-sources: [raw/badlands-news-brief-214.md, raw/badlands-news-brief-528.md, raw/badlands-news-brief-85a.md]
+sources: [raw/badlands-news-brief-214.md, raw/badlands-news-brief-528.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-b24.md]
 confidence: medium
 ---
 
@@ -32,7 +32,16 @@ On 29 March 2023 the Saudi state news agency reported that the government of [[s
 
 Analysts framed the move as part of a broader effort by Saudi Arabia and neighbouring Persian Gulf states to expand diplomatic partnerships beyond traditional Western allies amid uncertainty about Washington's long-term security commitment to the energy-rich region.[3] It followed the China-brokered restoration of Saudi–Iranian relations and Riyadh's Russia-mediated talks on resuming ties with [[syria|Syria]].[3] [[jon-herold|Jon Herold]] argued that the logical next step was Saudi accession to [[brics|BRICS]], with attendant consequences for the dollar.[3]
 
+## 2025 Tianjin summit
+
+Chinese President [[xi-jinping|Xi Jinping]] hosted the 2025 SCO leaders' summit in Tianjin, welcoming Russian President [[vladimir-putin|Vladimir Putin]] and Indian Prime Minister [[narendra-modi|Narendra Modi]] among more than 20 heads of state and representatives of ten international organizations.[4] The gathering unfolded against the backdrop of the Ukraine conflict, [[israel|Israel]]'s war in Gaza, and trade disputes sparked by U.S. President [[donald-trump|Donald Trump]]'s tariff policies, and its agenda covered regional security, economic cooperation, cultural ties, transport, energy, digitalization, AI, and green development.[4] Putin was scheduled to travel on to Beijing for talks with Xi on trade, security, Ukraine, and relations with the United States.[4]
+
+The summit was timed alongside a parade marking the 80th anniversary of the WWII victory, with China having fought on the Allied side.[4] Badlands commentator [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that Xi had parlayed the commemoration into a summit for an organization that had become "the instrument of destruction" for a unipolar hegemony he traced back to the East India Trading Company and, earlier, Venetian and London banking dynasties.[4] He also noted the anticipated arrival of North Korean leader [[kim-jong-un|Kim Jong Un]], reading Kim's western suit and slimmed appearance as signals ahead of an expected meeting with Trump.[4]
+
+In related commentary on Türkiye's severing of trade with Israel, the same author described the SCO's North–South Transportation Corridor as the trade route "breaking the back of the Unipolar Hegemony," with Baku, Azerbaijan as the key Caspian node connecting China, India and Iran to Russia, and predicted that [[turkey|Türkiye]] would eventually join the SCO, linking Asia and the Middle East to Europe.[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Weaponized Governments and Embattled Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-214
 2. Badlands Brief — "Badlands News Brief: Biden Pushes Back as Peacemakers Posture", URL: https://badlands.substack.com/p/badlands-news-brief-528
 3. Badlands Brief — "Bank of Epstein, Saudi Arabia & Trump's Reprieve?", URL: https://badlands.substack.com/p/badlands-news-brief-85a
+4. Badlands Brief — "Badlands News Brief: A Curious Car Crash, Covid Case Rates, & A Culture of Panic and Dread", URL: https://badlands.substack.com/p/badlands-news-brief-b24

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, host, commentator]
-sources: [raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md]
+sources: [raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-b02.md]
 confidence: medium
 ---
 
@@ -14,6 +14,11 @@ Alpha Warrior is a [[badlands-media|Badlands Media]] host who co-presented [[sit
 
 A second Badlands Media schedule post, published January 3, 2023 to open the 2023 broadcast year, carried the same listing and description, and reiterated that all network shows air live on the Patel Patriot Rumble channel with replays archived on the Badlands Media library channel.[2]
 
+## Dismissal of charges (January 2025)
+
+On Monday, January 13, 2025, the government dropped all charges against Alpha Warrior, a development [[badlands-media|Badlands Media]] highlighted with congratulations at the top of that day's news brief.[3]
+
 ## References
 1. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-78b
 2. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-e18
+3. Badlands News Brief — "Contentious Confirmations & Conflicted Special Counsels", URL: https://badlands.substack.com/p/badlands-news-brief-b02

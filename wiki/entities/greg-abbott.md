@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [texas, governor, pardon, self-defense]
-sources: [raw/badlands-news-brief-09d.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-95a.md, raw/badlands-news-brief-a43.md]
+sources: [raw/badlands-news-brief-09d.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-95a.md, raw/badlands-news-brief-a43.md, raw/badlands-news-brief-b19.md]
 confidence: medium
 ---
 
@@ -42,6 +42,12 @@ During the [[2025-central-texas-floods|2025 Central Texas floods]], which killed
 
 After a Maryland school imposed an N-95 mask mandate in response to a small COVID-19 outbreak in September 2023, Abbott was among at least two Republican governors who publicly rejected any similar move, writing on X that it was "not going to happen in Texas."[6] Arkansas Governor [[sarah-huckabee-sanders|Sarah Huckabee Sanders]] issued a parallel statement, and ZeroHedge paired the reaction with a series of studies finding masks had little or no effect on transmission.[6] Badlands writer [[burning-bright|Burning Bright]] argued that the establishment's attempt to revive mandates and lockdowns and the grandiose opposition of [[ron-desantis|Ron DeSantis]] and what he called the "Con Inc." brigade represent two faces of the same systemic machine, adding that opposing authoritarian mandates as a political stunt "doesn't codify one as America First. It is now the bare minimum."[6]
 
+## Invasion declaration and the Eagle Pass standoff (January 2024)
+
+In January 2024, Abbott drew what commentators called a hard line in the sand, putting the Biden administration on notice that he had declared the migrant crisis an "invasion" and invoked Texas's constitutional authority to defend and protect itself.[7] He stated that "that authority is the supreme law of the land and supersedes any federal statutes to the contrary," and that the [[texas-national-guard|Texas National Guard]], the [[texas-department-of-public-safety|Texas Department of Public Safety]], and other Texas personnel were acting on that authority and on state law to secure the border.[7]
+
+The dispute came to a boiling point at [[eagle-pass-border-standoff|Eagle Pass]], where the Texas National Guard took control of a local park used as a landing zone by illegal immigrants crossing the Rio Grande, and the state laid razor wire along miles of the river — wire the [[supreme-court-of-the-united-states|Supreme Court]] had just permitted the federal government to remove pending a lower-court ruling.[7] Badlands commentary framed the confrontation as a prime states-versus-federal legal battle, noting that Homeland Security Secretary [[alejandro-mayorkas|Alejandro Mayorkas]] faced impeachment proceedings the following week with the border case to follow on February 7.[7]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Iranian Crashes, Israeli Maneuvers & Trumpian Rhetoric", URL: https://badlands.substack.com/p/badlands-news-brief-09d
@@ -50,3 +56,4 @@ After a Maryland school imposed an N-95 mask mandate in response to a small COVI
 4. Badlands Brief — "Red States Align While the MSM Craters", URL: https://badlands.substack.com/p/badlands-news-brief-5ff
 5. Badlands Brief — "Kingmakers, Rainmakers, & Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-95a
 6. Badlands Brief — "Badlands News Brief: Obama's Secrets, Blinken's Billions & GOP Posers", URL: https://badlands.substack.com/p/badlands-news-brief-a43
+7. Badlands Brief — "Badlands News Brief: Lake and Abbott Take a Stand as Haley Falls", URL: https://badlands.substack.com/p/badlands-news-brief-b19

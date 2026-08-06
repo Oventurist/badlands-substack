@@ -18,5 +18,10 @@ The company drew scrutiny over alleged manufacturing defects on the 737 MAX. [[j
 
 Spirit fired Dean in April 2023; he subsequently filed a complaint with the [[department-of-labor|Department of Labor]] alleging retaliatory termination for raising aviation safety concerns.[1] Dean died on April 30, 2024, at age 45 after a sudden, fast-spreading infection, and Spirit spokesperson Joe Buccino called the loss "stunning news here and for his loved ones."[1]
 
+## Alaska Airlines door plug (January 2024)
+
+Spirit AeroSystems originally installed the door plug into the 737 MAX 9 fuselage in Wichita, Kansas, that later [[alaska-airlines-flight-1282-door-plug-blowout|blew out of Alaska Airlines Flight 1282]] on January 5, 2024.[2] Reporting later in January indicated the panel had been removed for repair and improperly reinstalled by [[boeing|Boeing]] mechanics on the Renton final assembly line, which — if verified by the [[national-transportation-safety-board|National Transportation Safety Board]] — would leave Boeing rather than Spirit primarily at fault for the accident.[2]
+
 ## References
 1. Badlands Brief — "Plan B for Israel & Ouroborosian Protests Consume Clown World", URL: https://badlands.substack.com/p/badlands-news-brief-0be
+2. Badlands Brief — "Badlands News Brief: Lake and Abbott Take a Stand as Haley Falls", URL: https://badlands.substack.com/p/badlands-news-brief-b19

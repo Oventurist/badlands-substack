@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [department-of-justice, 2020-election, lawfare, bar-discipline]
-sources: [raw/badlands-brief-323.md, raw/badlands-brief-7bf.md, raw/badlands-news-brief-4c3.md]
+sources: [raw/badlands-brief-323.md, raw/badlands-brief-7bf.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-b02.md]
 confidence: medium
 ---
 
@@ -40,8 +40,13 @@ Badlands covered the hearing live, with [[ashe-in-america|Ashe in America]] desc
 
 Clark serves as Vice President of Litigation at the [[oversight-project|Oversight Project]], the organization that in July 2026 published more than 70 hours of [[biden-ghostwriter-tapes|recordings of Joe Biden speaking with his memoir ghostwriter]] [[mark-zwonitzer|Mark Zwonitzer]].[2] Commenting on the release, Clark said the recordings should force a full reexamination of the decision to give [[joe-biden|Biden]] a pass for keeping and disclosing classified information.[2]
 
+## Intervention in the special counsel report litigation (January 2025)
+
+In January 2025, Jeffrey Clark joined [[donald-trump|Donald Trump]]'s motion asking [[aileen-cannon|Judge Aileen Cannon]] to enjoin the release of [[jack-smith|Special Counsel Jack Smith]]'s report in its entirety.[4] Clark argued that publication of Volume I would cause substantial due process injury to him and potentially to dozens of other Americans named in the document, a position that commentators said made it outrageous for Attorney General [[merrick-garland|Merrick Garland]] to keep pressing for its release given the [[lawfare|lawfare]] permitted under his tenure.[4]
+
 ## References
 
 1. Badlands Brief — "We're Winning, plus Cuban Dominoes & Weaponized Ethics", URL: https://badlands.substack.com/p/badlands-brief-323
 2. Badlands Brief — "Entertaining Obstruction & Artificial Shadow Wars", URL: https://badlands.substack.com/p/badlands-brief-7bf
 3. Badlands News Brief — "Trump Counters, SBF Pleads & Disney Dies?", URL: https://badlands.substack.com/p/badlands-news-brief-4c3
+4. Badlands News Brief — "Contentious Confirmations & Conflicted Special Counsels", URL: https://badlands.substack.com/p/badlands-news-brief-b02

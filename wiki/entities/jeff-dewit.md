@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [arizona, republican-party, kari-lake, 2024-senate-race, political-scandal]
-sources: [raw/badlands-news-brief-89f.md]
+sources: [raw/badlands-news-brief-89f.md, raw/badlands-news-brief-b19.md]
 confidence: medium
 ---
 
@@ -18,6 +18,12 @@ An audio recording obtained by DailyMail.com and reported on January 23, 2024 ca
 
 "There are very powerful people who want to keep you out," DeWit told Lake in the recording.[1] He further told Lake, then 54 and frequently discussed as a potential 2024 vice-presidential pick, that he believed Trump would lose and that it was time to make way for someone else.[1]
 
+## Resignation as Arizona GOP chairman
+
+DeWit resigned as [[arizona-republican-party|Arizona GOP]] chairman on Wednesday, January 24, 2024, one day after the leaked audio was published.[2] In a statement posted by the state party, he said: "This morning, I was determined to fight for my position. However, a few hours ago, I received an ultimatum from Lake's team: resign today or face the release of a new, more damaging recording."[2] He added that he was "truly unsure of its contents, but considering our numerous past open conversations as friends, I have decided not to take the risk," and said he was resigning "as Lake requested, in the hope that she will honor her commitment to cease her attacks, allowing me to return to the business sector—a field I find much more logical and prefer over politics."[2]
+
+The recording at issue was made in March 2023, and the state party had been divided over Lake's continued public insistence — and her repeated lawsuits — that she lost the [[2022-arizona-general-election|2022 governor's race]] because of election irregularities.[2]
+
 ## Commentary
 
 Writing for [[badlands-media|Badlands Media]], [[burning-bright|Burning Bright]] treated the recording as another example of the accelerating public exposure of what the Truth Community terms the [[deep-state|Deep State]], observing that "so-called conspiracy theorists are batting nearly 1.000 since the advent of the Trump era" and that theories about the organized-crime character of the permanent government were reaching the "Normie Layers" of the [[collective-mind|Collective Mind]] on a near-hourly basis.[1] Burning Bright added that the most surprising aspect of such episodes was how "cartoonish" the exposures had become, suggesting either that patriots held firmer control of the narrative than commonly believed or that the present custodians of the apparatus were of a much lesser calibre than their predecessors.[1]
@@ -25,3 +31,4 @@ Writing for [[badlands-media|Badlands Media]], [[burning-bright|Burning Bright]]
 ## References
 
 1. Badlands Brief — "Badlands News Brief: The Trump Train Rolls on ... Fake MAGA Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-89f
+2. Badlands Brief — "Badlands News Brief: Lake and Abbott Take a Stand as Haley Falls", URL: https://badlands.substack.com/p/badlands-news-brief-b19

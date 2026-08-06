@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [government, efficiency, trump-administration]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/badlands-brief-70c.md, raw/badlands-brief-861.md, raw/badlands-brief-b24.md, raw/badlands-brief-a1a.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-7ce.md, raw/badlands-news-brief-7e5.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a0b.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-a31.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/badlands-brief-70c.md, raw/badlands-brief-861.md, raw/badlands-brief-b24.md, raw/badlands-brief-a1a.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-7ce.md, raw/badlands-news-brief-7e5.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a0b.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-aff.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-b24.md]
 confidence: medium
 ---
 
@@ -222,6 +222,23 @@ Musk defended the cuts, asking, "If the bureaucracy is in charge, then what mean
 
 President [[donald-trump|Donald Trump]] said in early August 2025 that he was considering taking control of the Washington, D.C. police department in the wake of a violent attack on a former DOGE staffer, and the following day the [[white-house|White House]] announced a seven-day surge of federal law enforcement onto the capital's streets.[35]
 
+
+## Ukraine aid probe and federal workforce emails, March 2025
+
+Following the [[2025-oval-office-clash|February 2025 Oval Office clash]], a senior U.S. official said that [[elon-musk|Elon Musk]] and DOGE had already been probing potential problems with the large sums of American economic and security assistance sent to Ukraine, and that those efforts would now be expedited: "They're already finding problems," the official said without elaborating.[36]
+
+Separately, federal workers received another email on the night of Friday, February 28, 2025 asking them to document their weekly activities in five bullet points by 11:59 p.m. ET the following Monday.[36] Unlike the earlier round, the message carried no explicit threat from Musk that non-responders would lose their jobs, and mentioned no consequences at all — though Musk posted on X the next morning that "The President has made it clear that this is mandatory for the executive branch."[36] Axios framed the emails as a possible mechanism for justifying further job cuts as the Musk-led campaign to slash the federal workforce accelerated.[36] Badlands contributor Paul Fleuret counselled patience, writing that the effort "can be done right, or it can be done right now" — but not both.[36]
+
+## Pre-election origins and the Ron Paul invitation
+
+Before the November 2024 election, [[elon-musk|Elon Musk]] publicly floated the department — humorously styling it the "Department of Government Efficiency (DOGE)" in allusion to the Dogecoin cryptocurrency — and posted that he would welcome the involvement of former Texas representative [[ron-paul|Ron Paul]].[37] Paul, a long-time critic of the [[federal-reserve|Federal Reserve]], mass surveillance and the military-industrial complex, replied that he would be "happy to talk" with Musk about joining.[37] Musk had by then stated explicitly that he was willing to serve in a Trump-led administration, and [[donald-trump|Donald Trump]] had hinted at appointing him to an advisory or official role if elected.[37]
+
+Commentary at the time suggested that pairing Paul's libertarian principles with Musk's tech-driven approach could bring an unconventional dynamic to government operations, and [[badlands-media|Badlands Media]] read the exchange as the merger of the [[tea-party-movement|Tea Party movement]]'s intellectual origins with the MAGA platform.[37]
+
+## Social Security data controversy
+
+In August 2025, [[charles-borges|Charles Borges]], Chief Data Officer of the [[social-security-administration|Social Security Administration]], filed a whistleblower report alleging that DOGE had uploaded sensitive Social Security data to a "vulnerable cloud environment," and days later resigned.[38] His resignation letter to Administrator [[frank-bisignano|Frank Bisignano]] cited projects and incidents that "may constitute violations of federal statutes or regulations," possible unauthorized access to enterprise data storage, and possible unauthorized data exchange with other agencies, while describing a "culture of panic and dread" created by newly installed IT and executive leadership.[38] Badlands commentator [[ashe-in-america|Ashe in America]] countered that federal cloud environments are broadly insecure regardless of DOGE, and suggested that, given what DOGE claimed to have found in Social Security data, the Chief Data Officer had reason to dread scrutiny of his own work product.[38]
+
 ## References
 1. Badlands Brief — "A Journey of Ever-changing Truths", URL: https://badlands.substack.com/p/a-journey-of-ever-changing-truths
 2. Badlands Brief — "Trump Taps Surprising New DNI While Media Freaks Out About Everything", URL: https://badlands.substack.com/p/badlands-brief-70c
@@ -258,3 +275,6 @@ President [[donald-trump|Donald Trump]] said in early August 2025 that he was co
 33. Badlands Brief — "Badlands News Brief: The Wolf of D.C. & A Portfolio of Highly Organized Crime", URL: https://badlands.substack.com/p/badlands-news-brief-a0b
 34. Badlands Brief — "Badlands News Brief: Rising Demand for DC Defenders & A Sovereign Spring Social", URL: https://badlands.substack.com/p/badlands-news-brief-a34
 35. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
+36. Badlands Brief — "Badlands News Brief: Multipolar Power Projection & European Lamentations", URL: https://badlands.substack.com/p/badlands-news-brief-aff
+37. Badlands Brief — "Badlands News Brief: Marauding, Squirrel-Murdering Psychopaths Panic Ahead of the Election", URL: https://badlands.substack.com/p/badlands-news-brief-b01
+38. Badlands Brief — "Badlands News Brief: A Curious Car Crash, Covid Case Rates, & A Culture of Panic and Dread", URL: https://badlands.substack.com/p/badlands-news-brief-b24

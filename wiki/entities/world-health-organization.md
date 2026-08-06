@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [who, globalism, public-health, ngo]
-sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-brief-2c5.md, raw/badlands-brief-695.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-6b1.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-brief-2c5.md, raw/badlands-brief-695.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b19.md]
 confidence: low
 ---
 
@@ -64,6 +64,16 @@ The WHO also featured in the controversy over the cancelled March 2025 [[vaccine
 
 On June 5, 2024, the WHO said a death had been caused by the first laboratory-confirmed human case of infection with the A(H5N2) subtype of avian influenza.[9] The organization said a 59-year-old resident of Mexico died on April 24 after developing fever, shortness of breath, diarrhea, nausea and general discomfort.[9] It was the first laboratory-confirmed human A(H5N2) infection reported globally and the first H5 virus infection reported in a person in Mexico.[9]
 
+## US rejection of the 2024 International Health Regulations amendments
+
+One day before the deadline, on Friday, July 18, 2025, the U.S. government formally refused the WHO's 2024 amendments to the International Health Regulations, which had been adopted by the World Health Assembly and were set to become binding if not rejected by that Saturday.[10] Critics said the revisions would have granted the organization power to order global lockdowns, travel restrictions, and other measures deemed necessary to address "potential public health risks."[10]
+
+The rejection was issued jointly by the [[state-department|State Department]] and the U.S. Department of Health and Human Services, which argued that the amendments would give the WHO "undue influence on our domestic health responses."[10] Secretary of State [[marco-rubio|Marco Rubio]] said: "Terminology throughout the amendments to the 2024 International Health Regulations is vague and broad, risking WHO-coordinated international responses that focus on political issues like solidarity, rather than rapid and effective actions."[10]
+
+## Disease X warning at Davos (January 2024)
+
+At the [[world-economic-forum|World Economic Forum]] annual meeting in January 2024, the WHO warned world leaders that the world could face a pandemic twenty times worse than COVID-19.[11] WHO scientists held a session calling on leaders to work together on strategies to prevent or manage such an event, appearing on a panel titled "Preparing for Disease X."[11] [[disease-x|Disease X]] — a term the WHO coined in 2018 — is not a real disease but a placeholder for a hypothetical unknown pathogen used in preparedness planning.[11] Among the issues raised was the development of better communication strategies to reduce misinformation and conspiracy theories, even as commentators on X called the session itself a conspiracy against freedom.[11]
+
 ## References
 1. Badlands Brief — "AI Can Help Us Expose the NWO", URL: https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo
 2. Badlands Brief — "Bioweapons Sneak Into the News Cycle as Israeli Shenanigans Ensue", URL: https://badlands.substack.com/p/badlands-brief-2c5
@@ -74,3 +84,5 @@ On June 5, 2024, the WHO said a death had been caused by the first laboratory-co
 7. Badlands Brief — "Badlands News Brief: Sudan Seized, Tucker Trashed & ISIS Eliminated", URL: https://badlands.substack.com/p/badlands-news-brief-46b
 8. Badlands Brief — "Badlands News Brief: Predictable Pandemics & A Thespian's Next Steps", URL: https://badlands.substack.com/p/badlands-news-brief-4a9
 9. Badlands Brief — "Russia, the MSM and El Salvador Call Out Joe Biden", URL: https://badlands.substack.com/p/badlands-news-brief-6b1
+10. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f
+11. Badlands Brief — "Badlands News Brief: Lake and Abbott Take a Stand as Haley Falls", URL: https://badlands.substack.com/p/badlands-news-brief-b19

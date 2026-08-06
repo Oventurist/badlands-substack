@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [international-criminal-court, gaza, israel, war-crimes, prosecutor]
-sources: [raw/badlands-news-brief-356.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-7c6.md]
+sources: [raw/badlands-news-brief-356.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-af5.md]
 confidence: medium
 ---
 
@@ -26,8 +26,15 @@ Middle East Eye reported that former British Prime Minister [[david-cameron|Davi
 
 In May 2024, Khan announced that he was seeking arrest warrants in a step widely described as dramatic, prompting [[norway|Norway]] to declare it would arrest Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] and Defense Minister [[yoav-gallant|Yoav Gallant]] should warrants be issued and the two enter Norwegian territory.[3] Britain criticized Khan's decision, singling out the moral equivalence it drew between the Israeli leaders and [[hamas|Hamas]] figures [[yahya-sinwar|Yahya Sinwar]], Muhammad Deif and [[ismail-haniyeh|Ismail Haniyeh]].[3] France also came forward to support the warrants.[3]
 
+## Succession to Bensouda and the Netanyahu warrants
+
+Khan succeeded [[fatou-bensouda|Fatou Bensouda]] as chief prosecutor of the [[international-criminal-court|International Criminal Court]], inheriting the investigation into alleged war crimes and crimes against humanity in the occupied Palestinian territories that she had formally opened in 2021.[4] In May 2024 he announced that he was applying to the ICC's pre-trial chamber for arrest warrants for Israeli prime minister [[benjamin-netanyahu|Benjamin Netanyahu]] and defence minister Yoav Gallant, alongside three [[hamas|Hamas]] leaders — an outcome Israel's military and political establishment had long feared.[4]
+
+Reporting published days later revealed that former [[mossad|Mossad]] chief [[yossi-cohen|Yossi Cohen]] had allegedly threatened Bensouda in secret meetings in the years before she opened the inquiry that Khan ultimately advanced.[4]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Kash Unleashed, Zelensky Abandoned & Trump Championed", URL: https://badlands.substack.com/p/badlands-news-brief-356
 2. Badlands Brief — "Badlands News Brief: Mandatory Deprogramming & Military Parades", URL: https://badlands.substack.com/p/badlands-news-brief-574
 3. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
+4. Badlands Brief — "Badlands News Brief: Deliberations Begin as Signal Spreads in the Info War", URL: https://badlands.substack.com/p/badlands-news-brief-af5

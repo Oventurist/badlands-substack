@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [national-guard, texas, illinois, immigration, federal-protection-mission]
-sources: [raw/badlands-news-brief-060.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-5ff.md]
+sources: [raw/badlands-news-brief-060.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-b19.md]
 confidence: medium
 ---
 
@@ -38,9 +38,14 @@ In January 2024 the Guard continued making and installing razor-wire barriers al
 
 Democratic Representatives [[joaquin-castro|Joaquin Castro]] and [[greg-casar|Greg Casar]] responded by calling on President [[joe-biden|Joe Biden]] to seize the Texas Guard and place it under federal control unless it ceased installing the barriers.[4] Badlands commentary treated the standoff as the opening of a federal-versus-state lawfare contest whose greatest significance lay less in the disputed stretch of border than in the escalation it modeled for the wider public.[4]
 
+## Eagle Pass deployment (January 2024)
+
+During the January 2024 [[eagle-pass-border-standoff|Eagle Pass standoff]], the Texas National Guard took control of a local park along the Rio Grande that illegal immigrants had used as a landing zone after crossing into the United States.[5] Governor [[greg-abbott|Greg Abbott]] said the Guard, the [[texas-department-of-public-safety|Texas Department of Public Safety]], and other state personnel were acting under Texas's constitutional self-defense authority — which he argued supersedes contrary federal statutes — as well as under state law, after he declared the migrant crisis an "invasion."[5] The state also placed razor wire along miles of the river, which the [[supreme-court-of-the-united-states|Supreme Court]] had just allowed the federal government to remove while litigation continued.[5]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Quantum Tunneling, Natural Conflicts, & Pirates for Gaza", URL: https://badlands.substack.com/p/badlands-news-brief-060
 2. Badlands Brief — "Badlands News Brief: California Crossroads, Selective Insurrection, & Irian Limits", URL: https://badlands.substack.com/p/badlands-news-brief-155
 3. Badlands Media — "Badlands News Brief: Horse Paste & A Couple of Bloodbaths", URL: https://badlands.substack.com/p/badlands-news-brief-47f
 4. Badlands Brief — "Red States Align While the MSM Craters", URL: https://badlands.substack.com/p/badlands-news-brief-5ff
+5. Badlands Brief — "Badlands News Brief: Lake and Abbott Take a Stand as Haley Falls", URL: https://badlands.substack.com/p/badlands-news-brief-b19

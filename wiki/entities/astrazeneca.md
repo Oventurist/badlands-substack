@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [big-pharma, covid-19, vaccine-injury, litigation, united-kingdom]
-sources: [raw/badlands-news-brief-360.md, raw/badlands-news-brief-384.md, raw/badlands-news-brief-6c1.md]
+sources: [raw/badlands-news-brief-360.md, raw/badlands-news-brief-384.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-b04.md]
 confidence: medium
 ---
 
@@ -30,6 +30,12 @@ AstraZeneca attributed the withdrawal to commercial reasons, saying the vaccine 
 
 [[justin-deschamps|Justin Deschamps]], writing for [[badlands-media|Badlands Media]], called the withdrawal "a good first step" and argued that the world was beginning to grasp the scale on which pharmaceutical companies and vaccine manufacturers had defrauded the public, including biotech researchers and medical professionals.[3] He described the weaponization of the medical system as one of the most effective population control schemes on earth and expressed sympathy for clinicians confronting the possibility that their profession had been used against patients.[3]
 
+## Stewart lawsuit (November 2023)
+
+Australian theatre star and vaccination advocate [[melle-stewart|Melle Stewart]], 42, sued AstraZeneca after a life-threatening stroke left her unable to work following her first dose of the company's COVID-19 vaccine on May 24, 2021.[4] Two weeks after the injection she began having seizures, lost her ability to speak, and lost all movement on the right-hand side of her body; brain surgeons diagnosed Vaccine-Induced Thrombocytopenic Thrombosis (VITT), a blood-clotting condition that the manufacturer and regulators acknowledge as a "very rare side effect" of that vaccine.[4] Her treatment included a craniectomy — a three-hour operation to remove part of her skull to relieve pressure on her brain — with surgeons later replacing the removed bone with a titanium plate the size of her hand.[4]
+
+[[burning-bright|Burning Bright]] wrote that vaccine injuries remained among the most difficult subjects to broach both within and outside the [[truth-community|Truth Community]], but that there was "little doubt" many people had suffered as a direct result of what he called the severe, criminal overreach of [[big-pharma|Big Pharma]] during the COVID era.[4] With more such "rare" cases surfacing publicly and a rash of newly developing class action lawsuits against vaccine manufacturers, he suggested "something big is developing around the idea of COVID reparations."[4]
+
 ## Dressen lawsuit
 
 On May 13, 2024, [[brianne-dressen|Brianne Dressen]], a Utah preschool teacher injured after participating in AstraZeneca's COVID-19 vaccine clinical trial, sued the company in federal court, alleging it breached its contract by refusing to pay for the medical care her injury requires.[2] The consent form Dressen signed in 2020 stated that AstraZeneca would "cover the costs of research injuries" and "pay the costs of medical treatment," yet she has spent tens of thousands of dollars on drugs to treat a nervous system disorder and other conditions.[2] Her symptoms included blurred vision, tinnitus, vomiting, extreme light sensitivity, and heart rate spikes.[2] "They left us no choice," Dressen said of the decision to sue.[2]
@@ -38,3 +44,4 @@ On May 13, 2024, [[brianne-dressen|Brianne Dressen]], a Utah preschool teacher i
 1. Badlands Brief — "Badlands News Brief: Ethics Complaints & COVID Comeuppance", URL: https://badlands.substack.com/p/badlands-news-brief-360
 2. Badlands Brief — "Badlands News Brief: Debates Set, Funding Found & NGO's Defied", URL: https://badlands.substack.com/p/badlands-news-brief-384
 3. Badlands Brief — "Trumpian Trials, Proxy State Shenanigans & Vax Backtracks", URL: https://badlands.substack.com/p/badlands-news-brief-6c1
+4. Badlands Brief — "China Joe Strikes Out & Trumpism on Trial", URL: https://badlands.substack.com/p/badlands-news-brief-b04

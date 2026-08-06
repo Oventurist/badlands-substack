@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, finance, greater-israel, lebanon, syria]
-sources: [raw/badlands-brief-0fb.md, raw/badlands-brief-143.md, raw/badlands-brief-144.md, raw/badlands-brief-311.md, raw/badlands-brief-285.md, raw/badlands-brief-50d.md, raw/badlands-brief-625.md, raw/badlands-brief-708.md, raw/badlands-brief-8db.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5b2.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-7e5.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a82.md]
+sources: [raw/badlands-brief-0fb.md, raw/badlands-brief-143.md, raw/badlands-brief-144.md, raw/badlands-brief-311.md, raw/badlands-brief-285.md, raw/badlands-brief-50d.md, raw/badlands-brief-625.md, raw/badlands-brief-708.md, raw/badlands-brief-8db.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5b2.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-7e5.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b02.md]
 confidence: medium
 ---
 
@@ -146,6 +146,12 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] paire
 
 Smotrich, alongside [[itamar-ben-gvir|Itamar Ben-Gvir]], repeatedly threatened to resign from [[benjamin-netanyahu|Netanyahu]]'s cabinet if the ultra-Orthodox were subjected to conscription after Israel's Supreme Court struck down their draft exemption in June 2024; their joint departure would legally dissolve the government and trigger new elections.[26]
 
+## Reaction to the January 2025 ceasefire deal
+
+On Monday, January 13, 2025, Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] briefed Finance Minister Bezalel Smotrich and National Security Minister [[itamar-ben-gvir|Itamar Ben-Gvir]] on the emerging Gaza hostage deal.[27] Smotrich left the meeting sounding thoughtful, and those who spoke with him that day came away with the impression he considered it a good deal, but by noon he announced that it was a catastrophe Israel should not accept.[27] His statement pointedly did not address the critical question of whether he regarded the deal as grounds to quit the coalition; observers noted that if he left he would drag Ben-Gvir with him and the government would fall, whereas mere opposition would be meaningless airtime.[27]
+
+[[badlands-media|Badlands Media]] commentator [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that Smotrich and Ben-Gvir could not afford to "seek peace," because their parties form the base of the Israeli settler movement, which seeks to expand Israel's borders well beyond Palestine, and because the moment represented their best and perhaps last chance before international retribution.[27] Their support also rests heavily on Haredi voters affected by the end of the [[ultra-orthodox-conscription-in-israel|conscription exemption]].[27]
+
 ## References
 1. Badlands Brief — "Time is on Trump's Side ... But Which Regime is he Fighting?", URL: https://badlands.substack.com/p/badlands-brief-0fb
 2. Badlands Brief — "All the Classic Earmarks of Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-143
@@ -173,3 +179,4 @@ Smotrich, alongside [[itamar-ben-gvir|Itamar Ben-Gvir]], repeatedly threatened t
 24. Badlands Brief — "Badlands News Brief: A Midflight Collision, Dems Choose Division, Menendez Gets Prison", URL: https://badlands.substack.com/p/badlands-news-brief-93e
 25. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
 26. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
+27. Badlands News Brief — "Contentious Confirmations & Conflicted Special Counsels", URL: https://badlands.substack.com/p/badlands-news-brief-b02

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, mainstream-media, newspapers, intelligence-community]
-sources: [raw/a-swan-song-for-the-msm.md, raw/assad-day-in-damascus.md, raw/badlands-brief-559.md, raw/badlands-brief-6f0.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-9ae.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/assad-day-in-damascus.md, raw/badlands-brief-559.md, raw/badlands-brief-6f0.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-aed.md]
 confidence: medium
 ---
 
@@ -93,6 +93,16 @@ In March 2024 the Times faced renewed claims of hypocrisy over its coverage of d
 
 The same edition of the Badlands News Brief also faulted the Times and other mainstream outlets for "plane-fagging" — tracking the private aircraft of [[donald-trump|Donald Trump]] and [[elon-musk|Elon Musk]] to determine whether the two men were coordinating.[14]
 
+## June 2024 items
+
+The New York Times reported on June 25, 2024 that Justice [[juan-merchan|Juan M. Merchan]] had loosened the gag order in [[donald-trump|Donald Trump]]'s Manhattan criminal case, allowing him to criticize witnesses including [[michael-cohen|Michael Cohen]].[15] The paper also published [[hillary-clinton|Hillary Clinton]]'s opinion piece that same day arguing it was a "waste of time" to try to refute Trump's arguments in a debate.[15]
+
+## Reporting on Ukraine's Tomahawk request (October 2024)
+
+On October 29, 2024, The New York Times published a report revealing that Ukraine had asked the United States for Tomahawk long-range missiles, quoting an anonymous senior US official who described the request as totally unfeasible and reporting that senior officials did not think Ukrainian leadership had made a convincing case for how the weapons would turn the tide on the battlefield.[16] Ukrainian President [[volodymyr-zelensky|Volodymyr Zelenskyy]] confirmed the request the next day and accused the [[white-house|White House]] of leaking confidential information to the paper.[16]
+
+The report was described as scathing toward Zelenskyy, characterising his lobbying tour for the [[ukraine-victory-plan|Victory Plan]] as a failure while suggesting the plan had been set up to fail: the Times noted that some military analysts and diplomats believed the real audience was domestic, allowing Zelenskyy to show Ukrainians he had done all he could, prepare them for a possible deal, and hand them a convenient scapegoat in the West.[16]
+
 ## References
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
 2. Badlands Brief — "Assad Day in Damascus", URL: https://badlands.substack.com/p/assad-day-in-damascus
@@ -108,3 +118,5 @@ The same edition of the Badlands News Brief also faulted the Times and other mai
 12. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... But Not on Us", URL: https://badlands.substack.com/p/badlands-news-brief-881
 13. Badlands Brief — "Badlands News Brief: January 6 and Nord Stream Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-8f4
 14. Badlands Brief — "Badlands News Brief: Will the One True POTUS Please Stand Up?", URL: https://badlands.substack.com/p/badlands-news-brief-9ae
+15. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
+16. Badlands Brief — "Badlands News Brief: The Garbage Man Cometh to Take out the Trash", URL: https://badlands.substack.com/p/badlands-news-brief-aed

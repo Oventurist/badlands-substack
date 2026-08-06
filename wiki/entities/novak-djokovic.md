@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [tennis, covid-19, vaccine-mandates, serbia]
-sources: [raw/badlands-news-brief-644.md]
+sources: [raw/badlands-news-brief-644.md, raw/badlands-news-brief-b4a.md]
 confidence: medium
 ---
 
@@ -20,6 +20,15 @@ In March 2023, tournament officials announced that Djokovic had formally withdra
 
 Badlands contributor [[absolutetruth1776|AbsoluteTruth1776]] argued that although the vaccination requirement for entry into the United States was set to end on May 11, the [[joe-biden|Biden]] administration continued to demonstrate the absurdity of the policy by denying the world's top-ranked tennis player an exemption.[1] He contrasted the refusal with the case of two [[antifa]] attackers who had targeted an establishment in Atlanta and who, he wrote, were from abroad yet vaccinated — concluding sarcastically that it was acceptable for "vaccinated terrorists" to enter the country but not for an unvaccinated tennis champion or any other unvaccinated person.[1]
 
+## Australian Open exclusion and media treatment
+
+When Djokovic entered the Australian Open in early 2022 while unvaccinated against COVID-19, he was removed from the tournament and had his travel visa revoked, despite holding a clean bill of health at the time; his defiance of the vaccine was deemed unacceptable by Australian authorities.[2] What followed was an extended attack on his character and intelligence across social media, joined by a number of corporate journalists.[2] One of the lead instigators was British sports journalist [[mike-dickson]] of the [[daily-mail|Daily Mail]], who was relentless in his criticism and called Djokovic "arrogant and deplorable" for refusing to comply.[2] Commentary in the [[badlands-news-brief]] framed the mandates and vaccines as functioning more as a loyalty test than a public-health measure, with compliance marking devout collectivists and refusal marking a potential threat.[2]
+
+## Response to Dickson's death
+
+In January 2024, Dickson collapsed and died suddenly at age 59 while covering the Australian Open, with the cause of death kept confidential.[2] Despite the journalist's earlier campaign against him, Djokovic offered only kind words and condolences upon news of the passing — behaviour the Brief cited as evidence that those accused of villainy often display the greater character and honour.[2]
+
 ## References
 
 1. Badlands Brief — "J6 Exposure, Biden's Brain and Trump's Agenda", URL: https://badlands.substack.com/p/badlands-news-brief-644
+2. Badlands Brief — "Badlands News Brief: Border Battles, Trump Trials & COVID Comeuppance", URL: https://badlands.substack.com/p/badlands-news-brief-b4a

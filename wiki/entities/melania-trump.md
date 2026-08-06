@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [first-lady, melania-trump, artificial-intelligence]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-285.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-93e.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-285.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-b01.md]
 confidence: medium
 ---
 
@@ -42,6 +42,10 @@ In late January 2025, [[vogue|Vogue]] criticized Melania Trump's official White 
 
 Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] defended the portrait, arguing it deliberately conveys a masculine and powerful vibe and that the first lady's pose signals dominance, comparing it to marketing imagery for the [[netflix|Netflix]] series House of Cards and to poses Donald Trump himself has used.[6] He described her wardrobe choices as consistently tasteful and appropriate, read the untied tuxedo and unbuttoned shirt as implying a casual moment at a formal event, and found it ironic that Vogue would mock a supermodel and fashion icon for wearing a man's suit.[6] [[ashe-in-america|Ashe in America]] contrasted the coverage with Vogue's celebratory treatment of Dr. [[jill-biden|Jill Biden]] and noted that Vogue did not feature Melania Trump on its cover during her 2017–2021 tenure as first lady, a departure from its tradition of highlighting first ladies.[6]
 
+## Epstein tapes claim (November 2024)
+
+Days before the November 2024 election, the Daily Beast published recordings of [[jeffrey-epstein|Jeffrey Epstein]], made by author [[michael-wolff|Michael Wolff]] in August 2017, in which Epstein described himself as [[donald-trump|Donald Trump]]'s "closest friend" and claimed that "the first time he slept with her was on my plane" in reference to Melania Trump, the aircraft popularly known as the Lolita Express.[7] [[badlands-media|Badlands Media]] characterized the release as a recycled Trump–Epstein conflation campaign timed to the election rather than as new evidence.[7]
+
 ## References
 
 1. Badlands Brief — "Arctic Escalation and Tropic Trouble for the Financial System", URL: https://badlands.substack.com/p/badlands-brief-02a
@@ -50,3 +54,4 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] defen
 4. Badlands Brief — "Counterterrorism Co-Ops, Chinese Challenges, & Channels for Children", URL: https://badlands.substack.com/p/badlands-news-brief-497
 5. Badlands Brief — "Badlands News Brief: “Terrifying” Trade Alliances, Pedagogue Payouts, & A Bondi Barn Burner", URL: https://badlands.substack.com/p/badlands-news-brief-7bb
 6. Badlands Brief — "Badlands News Brief: A Midflight Collision, Dems Choose Division, Menendez Gets Prison", URL: https://badlands.substack.com/p/badlands-news-brief-93e
+7. Badlands Brief — "Badlands News Brief: Marauding, Squirrel-Murdering Psychopaths Panic Ahead of the Election", URL: https://badlands.substack.com/p/badlands-news-brief-b01

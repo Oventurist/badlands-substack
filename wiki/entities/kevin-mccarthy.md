@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, speaker-of-the-house, republican-party]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-11b.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-743.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-83d.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-948.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-11b.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-743.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-83d.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-b26.md]
 confidence: medium
 ---
 
@@ -134,6 +134,20 @@ At a press conference on March 19, 2023, as House Republicans gathered for the f
 
 On December 6, 2023, McCarthy announced in a Wall Street Journal opinion piece that he would resign his California congressional seat at the end of the year, two months after being [[ouster-of-kevin-mccarthy|ousted as House speaker]].[23] "No matter the odds, or personal cost, we did the right thing," he wrote, saying he would "depart the House at the end of this year to serve America in new ways" and that his work was "only getting started."[23] He pledged to keep recruiting candidates for elected office and to lend his experience to "the next generation of leaders," adding that "it often seems that the more Washington does, the worse America gets" and that the country's challenges "are more likely to be solved by innovation than legislation."[23]
 
+## September 2023 shutdown cornering
+
+With a shutdown looming just over a week away in late September 2023, McCarthy was described as having backed himself into a corner.[24] House Republicans were forced on Tuesday, September 19 to cancel a procedural vote on a 30-day stopgap [[continuing-resolution|continuing resolution]] intended to keep the government funded past September 30, and hours later five GOP lawmakers crossed the aisle to vote with Democrats to bring down the rule governing the [[pentagon|Pentagon]]'s spending bill.[24] Punchbowl News summarized the day as "a bad day for McCarthy and House Republicans."[24]
+
+McCarthy's difficulty was that he needed votes from the [[house-freedom-caucus|Freedom Caucus]], whose members demanded the CR be split apart so that it would not fund what Rep. [[matt-gaetz|Matt Gaetz]] called "the election interference of [[jack-smith|Jack Smith]]."[24] Gaetz also wanted McCarthy to sign a subpoena to better investigate [[hunter-biden|Hunter Biden]]'s alleged "high crimes and misdemeanors," going so far as to draft the subpoena himself for the Speaker's signature.[24] The alternative — a Hail Mary appeal to Democrats for the votes needed to pass the CR — would likely have sealed McCarthy's fate given the standing threat by Gaetz and others to move to remove him from the speakership.[24]
+
+[[burning-bright|Burning Bright]] argued that McCarthy was seen by disillusioned Democrats and Republicans alike as the embodiment of the [[uniparty|Uniparty]], and that Gaetz and the Freedom Caucus — widely read as executing [[donald-trump|Donald Trump]]'s will in the people's house — had him bent over a barrel on both the substance and the narrative of federal funding.[24] Caving to Democratic demands to fund the war in Ukraine would sharpen the line between America First and the Uniparty; caving to the Freedom Caucus would mark a shift in establishment deal-making toward sovereign nationalism and prove the movement had real power even without Trump in office.[24] Combined with the fact that Trump had de facto installed McCarthy as Speaker, Burning Bright framed the standoff as a deliberately constructed story.[24] See [[september-2023-government-shutdown-standoff|September 2023 Government Shutdown Standoff]].[24]
+
+## Garland impeachment inquiry threat (June 2023)
+
+Speaking on Fox & Friends on Monday, June 26, 2023, McCarthy said House Republicans would begin an impeachment inquiry into Attorney General [[merrick-garland|Merrick Garland]] by July 6 if IRS whistleblower [[gary-shapley|Gary Shapley]]'s testimony — alleging that Garland interfered in the criminal investigation of [[hunter-biden|Hunter Biden]] — checked out.[25] The Speaker also said U.S. Attorney [[david-weiss|David Weiss]], who had charged the president's son the previous week with federal tax and gun offenses after a five-year probe, must appear before the [[house-judiciary-committee|House Judiciary Committee]].[25]
+
+[[ashe-in-america|Ashe in America]] wrote that the impeachment tease was triggered by the implication that Garland lied under oath in March 2023, and observed that the underlying facts should be easy for House investigators to verify — noting that McCarthy would ostensibly have verified them before raising impeachment.[25]
+
 ## References
 
 1. Badlands Brief — "A Communist Plot to Take Over America", URL: https://badlands.substack.com/p/a-communist-plot-to-take-over-america
@@ -159,3 +173,5 @@ On December 6, 2023, McCarthy announced in a Wall Street Journal opinion piece t
 21. Badlands Brief — "Badlands News Brief: Kabuki Congress & Closing Walls", URL: https://badlands.substack.com/p/badlands-news-brief-83d
 22. Badlands Brief — "Badlands News Brief: Trump Arrest ... Panic or No Panic?", URL: https://badlands.substack.com/p/badlands-news-brief-9e8
 23. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
+24. Badlands Brief — "Badlands News Brief: Trump Skips Debates, FED Paralyzed & Garland Grilled", URL: https://badlands.substack.com/p/badlands-news-brief-b1d
+25. Badlands Brief — "Badlands News Brief: Trump's Tapes, Putin's Plan & Byrne's Bio", URL: https://badlands.substack.com/p/badlands-news-brief-b26

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [nih, covid-19, lab-leak, public-health]
-sources: [raw/badlands-news-brief-082.md, raw/badlands-news-brief-238.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-88b.md]
+sources: [raw/badlands-news-brief-082.md, raw/badlands-news-brief-238.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-af7.md]
 confidence: medium
 ---
 
@@ -31,9 +31,14 @@ When reporters from Racket and Public sought comment in 2023 on Slack messages r
 
 Records published in August 2023 by the watchdog [[openthebooks|OpenTheBooks]], obtained after a mostly successful Freedom of Information Act battle with the [[national-institutes-of-health|National Institutes of Health]], showed that Collins and [[anthony-fauci|Anthony Fauci]] — the longtime directors of NIH and its [[national-institute-of-allergy-and-infectious-diseases|National Institute of Allergy and Infectious Diseases]] respectively — personally received 58 royalty payments from companies licensing inventions developed with taxpayer money.[4] The unredacted disclosure ran to more than 1,500 pages and covered 56,000 transactions totaling more than $325 million across NIH scientists, although individual payment amounts were not itemized.[4]
 
+## February 2020 origins call (March 2023 disclosures)
+
+Congressional investigators on the [[house-select-subcommittee-on-the-coronavirus-pandemic|House Select Subcommittee on the Coronavirus Pandemic]] reported in March 2023 that Collins, then Director of the [[national-institutes-of-health|National Institutes of Health]], joined [[anthony-fauci|Dr. Anthony Fauci]] and at least eleven other scientists on a February 1, 2020 conference call during which several participants warned that COVID-19 may have leaked from a lab in Wuhan and may have been intentionally genetically manipulated.[5] Three days later, four of the call's participants drafted the [[proximal-origin-paper|"Proximal Origin of SARS-CoV-2"]] paper — which argued against a laboratory origin — and sent it to Fauci and Collins.[5]
+
 ## References
 
 1. Badlands Brief — "Tucker, Fauci, Biden & Biology", URL: https://badlands.substack.com/p/badlands-news-brief-082
 2. Badlands Media — "Badlands News Brief: Wuhan Leak, AZ Claims & Gender Wars", URL: https://badlands.substack.com/p/badlands-news-brief-238
 3. Badlands Brief — "Trump Trifecta, COVID Concealment & Sorosian Slime", URL: https://badlands.substack.com/p/badlands-news-brief-5a7
 4. Badlands News Brief — "The Trump Hunt & the Biden Blitz", URL: https://badlands.substack.com/p/badlands-news-brief-88b
+5. Badlands News Brief — "Trump on Wuhan, Flynn Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-af7

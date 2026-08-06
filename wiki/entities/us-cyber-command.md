@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [pentagon, cyber, censorship, information-warfare]
-sources: [raw/badlands-news-brief-363.md, raw/badlands-news-brief-6fc.md]
+sources: [raw/badlands-news-brief-363.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-aff.md]
 confidence: medium
 ---
 
@@ -22,7 +22,15 @@ Badlands commentary treated the contracting relationship as the crucial element:
 
 Cyber Command underwent a change of command on February 2, 2024, presided over by Deputy Secretary of Defense [[kathleen-hicks|Kathleen Hicks]], alongside a leadership change at the [[defense-intelligence-agency|Defense Intelligence Agency]] the same day.[2] Badlands writer [[ashe-in-america|Ashe in America]] quoted the command's stated mission to "Direct, Synchronize, and Coordinate Cyberspace Planning and Operations - to Defend and Advance National Interests - in Collaboration with Domestic and International Partners," and argued that the timing — days before Defense Secretary [[lloyd-austin|Lloyd Austin]]'s hospitalization left Hicks atop the [[pentagon|Pentagon]] — was notable amid ubiquitous discussion of cyber vulnerabilities in U.S. critical infrastructure.[2]
 
+
+## March 2025 suspension of operations against Russia
+
+Defense Secretary [[pete-hegseth|Pete Hegseth]] ordered U.S. Cyber Command to suspend offensive cyber and information operations against Russia while President [[donald-trump|Donald Trump]] pursued a settlement to the war in Ukraine on terms widely regarded as favorable to Moscow, according to a current and a former U.S. official.[3] The pause was set to last only for the duration of negotiations, and planning for potential operations against Russian networks continued.[3] Cyberespionage against Russia, led by the [[national-security-agency|National Security Agency]], also continued: "The reason you don't stop espionage is you want to know if they're lying to you," a former official explained. "The reason you don't stop planning is if the talks don't work out, you want to have options you can use against them."[3]
+
+At the [[cybersecurity-and-infrastructure-security-agency|Cybersecurity and Infrastructure Security Agency]], some cyberthreat experts were reassigned to adversaries other than Russia, and at a United Nations cyber meeting in New York, [[state-department|State Department]] official Liesyl Franz discussed foreign adversaries targeting U.S. critical infrastructure — citing Chinese hackers breaching American telecommunications networks — without mentioning Russia.[3]
+
 ## References
 
 1. Badlands News Brief — "The Free Market of Ideas Condemns the Regime", raw/badlands-news-brief-363.md
 2. Badlands Brief — "Biden Hemorrhages Already-Nonexistent Support", URL: https://badlands.substack.com/p/badlands-news-brief-6fc
+3. Badlands Brief — "Badlands News Brief: Multipolar Power Projection & European Lamentations", URL: https://badlands.substack.com/p/badlands-news-brief-aff

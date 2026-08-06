@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, geopolitics, iran-war]
-sources: [raw/badlands-brief-724.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-22b.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-3f5.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-845.md]
+sources: [raw/badlands-brief-724.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-22b.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-3f5.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-b01.md]
 confidence: medium
 ---
 
@@ -54,6 +54,14 @@ In February 2024, in his capacity as Deputy Chairman of the Russian Federation's
 
 Medvedev argued that "the collapse of Russia will have far worse consequences than the outcome of a conventional, even long-term war," and stated that any attempt to restore the 1991 borders "will only lead to one outcome: to a global war with Western countries, utilising our entire strategic arsenal," naming Kyiv, Berlin, London, and Washington among targets already included in Russia's nuclear triad attack plans.[7] Asked whether Russia would have the resolve to follow through if "a thousand-year-old country" faced extinction, he answered that "the answer is obvious."[7]
 
+## November 2024 Telegram post on the U.S. election
+
+Days after Russia conducted a sweeping readiness drill of its nuclear forces, Medvedev posted to his nearly 1.4 million Telegram followers a five-point assessment of the imminent U.S. presidential election, arguing that its outcome would not matter because both candidates share a bipartisan consensus that "Russia must be defeated."[8] He wrote that the world stood "frozen in uneasy anticipation" over the vote and that there was no reason for high expectations.[8]
+
+Medvedev characterized [[kamala-harris|Kamala Harris]] as "dumb, inexperienced, and easy to control," predicting that real decision-making would fall to a coterie of top ministers and advisors plus, indirectly, the Obamas.[8] He described a "low-energy" [[donald-trump|Donald Trump]] as someone who would be forced to comply with the system and its rules and who would not stop the war "not in one day, not in three days, not in three months" — adding that if Trump actually attempted to do so, "he could end up becoming the new JFK."[8] In Medvedev's framing, the only variable that mattered was how much cash the next president could extract from [[congress|Congress]] to finance a foreign war, money he said would feed the American military-industrial complex and line the pockets of "the Banderite scum in Ukraine," concluding that the best course on November 5 was to keep striking Kyiv.[8]
+
+Separately, Medvedev reiterated to Russian state news agency RT that adding Ukraine to [[nato|NATO]] could lead to World War III.[8]
+
 ## References
 
 1. Badlands Brief — "Cancel Culture Comes for Holy Week in Jerusalem", URL: https://badlands.substack.com/p/badlands-brief-724
@@ -63,3 +71,4 @@ Medvedev argued that "the collapse of Russia will have far worse consequences th
 5. Badlands Brief — "Badlands News Brief: Drone Strikes, Hunter Hunted & Obama Resurfaces", URL: https://badlands.substack.com/p/badlands-news-brief-3f5
 6. Badlands News Brief — "Post Mortems, Dog Fights, & Flight Risks", URL: https://badlands.substack.com/p/badlands-news-brief-721
 7. Badlands Brief — "Badlands News Brief: DemoCrabs in Biden's Bucket", URL: https://badlands.substack.com/p/badlands-news-brief-845
+8. Badlands Brief — "Badlands News Brief: Marauding, Squirrel-Murdering Psychopaths Panic Ahead of the Election", URL: https://badlands.substack.com/p/badlands-news-brief-b01

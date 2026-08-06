@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [conspiracy-theory, badlands-media, continuity-of-government]
-sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-a15.md]
+sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a82.md]
 confidence: high
 ---
 
@@ -42,6 +42,10 @@ Badlands writer Burning Bright argued that Vladimir Putin's March 13, 2024 comme
 
 He tied the remark to a long-standing argument that one key purpose of the Devolution operation researched by Jon Herold has been its implications for the globalist regime, contending that with Donald Trump out of public power the international game board has shifted away from collectivism and toward sovereignty and the multipolar concept advanced by Putin, Xi Jinping, Mohammed bin Salman and Trump.[9] He summarized the position with the formulations "The Scare Event is a Story" and "The Sovereign Alliance is real."[9]
 
+## Referenced in June 2024 cyber coverage
+
+Badlands contributor [[burning-bright|Burning Bright]] noted in June 2024 that [[kash-patel|Kash Patel]] had recently answered a Continuity of Government/Devolution question at an open panel by turning it toward the Biden administration and asking what it might attempt along that track to interfere with the 2024 election, which he read as a hint that the regime was beta testing a refusal to cede power under the guise of foreign interference.[10]
+
 ## References
 
 1. Badlands Media — "Badlands Media Weekly Show Schedule", URL: https://badlands.substack.com/p/badlands-media-weekly-show-schedule-36d
@@ -53,3 +57,4 @@ He tied the remark to a long-standing argument that one key purpose of the Devol
 7. Badlands Brief — "Badlands News Brief: Fake Poles, HomOlympics & Deal-Making", URL: https://badlands.substack.com/p/badlands-news-brief-4c5
 8. Badlands Brief — "Musk the Peacemaker, Constitutional Overreach & POTATUS", URL: https://badlands.substack.com/p/badlands-news-brief-670
 9. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
+10. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82

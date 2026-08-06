@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, contributor, fifth-generation-warfare, epistemology]
-sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-blast.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-6b6.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-9e8.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-blast.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-6b6.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-af7.md]
 confidence: medium
 ---
 
@@ -191,6 +191,13 @@ Deschamps grounded that view in a broader argument about the [[rule-of-law|rule 
 
 He predicted that the [[lawfare|lawfare]] machine with [[deep-state-cabal|Cabal]] actors "at the wheel" would keep destroying its own credibility by pursuing Trump in unprecedented ways, and that [[uniparty|uniparty]] deep-state actors would fail to prevent Trump's 2024 run through indictment.[29] The episode, he concluded, would produce more evidence of endemic fraud within the system, arming the public to "take up our duty to restore the rule of law once more, for the benefit of ourselves and our progeny."[29]
 
+## Commentary on the Flynn lawsuit and pronouns on resumes (March 2023)
+
+Writing on [[michael-flynn|Michael Flynn]]'s March 2023 malicious prosecution suit against the [[department-of-justice|DOJ]] and [[fbi|FBI]], Deschamps argued that with the truth about [[russiagate-hoax|Russiagate]] exposed — that the use of FISA powers and official investigative bodies against Flynn had no basis in fact or process — damages could now be pursued.[30] He judged that $50 million would not materially affect the intelligence community Flynn had pledged to reform, but that a favourable ruling validating Flynn's claims would be a major victory allowing the [[fifth-generation-warfare|fifth-generation war]] against the [[deep-state|Deep State]] and globalists to convince the public of the depth of corruption; an unfavourable ruling, he added, would itself display that corruption and deepen the disillusionment he considered a necessary step toward mass withdrawal of support from the system.[30]
+
+Responding to a CNBC report that resumes including "they/them" pronouns are more likely to be overlooked, Deschamps argued that stereotypes function as imperfect but useful quick assessments of character, and that listing preferred pronouns on a resume signals to employers a virtue-signalling disposition he associated with fragility and low dedication to duty.[30] He framed dedication to duty as the most essential civic skill, describing civilization as a collective of people accepting obligations in exchange for security and freedom, and warned that compassion for "victims of cultural warfare tactics" must not come at the cost of society as a whole.[30] Allowing the young to claim rewards they never earned, he wrote, toxifies a culture of excellence and replaces it with "an entitlement to mediocrity," concluding that "a beast will not be satisfied with just a pound of flesh" and must be tamed lest the village lose everything to "the monster of chaos."[30]
+
+
 ## References
 
 1. Badlands Brief — "AI Can Help Us Expose the NWO", URL: https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo
@@ -222,3 +229,4 @@ He predicted that the [[lawfare|lawfare]] machine with [[deep-state-cabal|Cabal]
 27. Badlands Brief - "Badlands News Brief: Missing Planes, Missing Funds & Missing Metrics", URL: https://badlands.substack.com/p/badlands-news-brief-82f
 28. Badlands Brief — "Badlands News Brief: Putin Postures, Voting Matters & J6 Subpoenas", URL: https://badlands.substack.com/p/badlands-news-brief-8c5
 29. Badlands Brief — "Badlands News Brief: Trump Arrest ... Panic or No Panic?", URL: https://badlands.substack.com/p/badlands-news-brief-9e8
+30. Badlands News Brief — "Trump on Wuhan, Flynn Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-af7

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republican, russiagate]
-sources: [raw/badlands-news-brief-01d.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-11b.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-9c6.md]
+sources: [raw/badlands-news-brief-01d.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-11b.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-b1d.md]
 confidence: medium
 ---
 
@@ -62,6 +62,14 @@ After the 2024 election, President-elect [[donald-trump|Donald Trump]] nominated
 
 By November 19, 2024, numerous Republican senators had told Trump and his team that they believed Gaetz had little chance of being confirmed, a message delivered to the president-elect himself, to incoming White House chief of staff [[susie-wiles|Susie Wiles]], and to Gaetz's unofficial "sherpa," Vice President-elect [[jd-vance|JD Vance]].[10] Senators worried about being tarnished by the process; those facing reelection in 2026, including [[thom-tillis|Thom Tillis]], feared a MAGA primary challenge if they opposed the nomination and a general-election liability if they backed it.[10] Others argued that Trump would waste political capital and attention on confirmation hearings better spent dismantling Joe Biden's regulatory and legislative legacy.[10] Trump reportedly acknowledged that Gaetz had "less than even odds" of confirmation but still wanted a fight, asking Republican senators to give his pick "a shot" and arguing that Gaetz was the man to fix the Justice Department, according to Sen. [[kevin-cramer|Kevin Cramer]].[10]
 
+## September 2023 shutdown leverage
+
+During the September 2023 funding fight, Gaetz was central to the [[house-freedom-caucus|Freedom Caucus]] bloc denying Speaker [[kevin-mccarthy|Kevin McCarthy]] the votes for a 30-day stopgap [[continuing-resolution|continuing resolution]].[11] He demanded the CR be spliced up so that it would not fund "the election interference of [[jack-smith|Jack Smith]]," and pressed McCarthy to sign a subpoena to investigate [[hunter-biden|Hunter Biden]]'s alleged "high crimes and misdemeanors" — going so far as to draft the subpoena himself and challenge the Speaker to sign it.[11] Gaetz's standing threat to move to remove McCarthy from the speakership meant that any attempt by the Speaker to pass the CR with Democratic votes would likely have cost him his post.[11] [[burning-bright|Burning Bright]] argued that Gaetz and the Freedom Caucus, seen as doing [[donald-trump|Donald Trump]]'s will in the people's house, had McCarthy — the perceived face of the [[uniparty|Uniparty]] — bent over a barrel on both the substance and the narrative of federal funding.[11]
+
+## Questioning of Merrick Garland
+
+At the [[september-2023-garland-house-judiciary-hearing|House Judiciary Committee hearing]] on September 20, 2023, Gaetz hammered Attorney General [[merrick-garland|Merrick Garland]] on the relationship between [[hunter-biden|Hunter Biden]] and [[joe-biden|Joe Biden]], with particular focus on the art-dealing scandal.[11] [[ashe-in-america|Ashe in America]] observed that the arrangement bore the classic earmarks of influence peddling and money laundering, yet Garland confirmed that he had neither asked questions about it nor investigated it.[11]
+
 ## References
 
 1. Badlands News Brief — "Durham's Dance, Putin's Warning and Xi's Rebuke", URL: https://badlands.substack.com/p/badlands-news-brief-01d
@@ -74,3 +82,4 @@ By November 19, 2024, numerous Republican senators had told Trump and his team t
 8. Badlands Brief — "It’s Our Failed ‘Resistance’ and We Can Cry if We Want To", URL: https://badlands.substack.com/p/badlands-news-brief-656
 9. Badlands Brief — "Badlands News Brief: Ukraine Bursts, Tucker Returns & Trump Promises", URL: https://badlands.substack.com/p/badlands-news-brief-72e
 10. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6
+11. Badlands Brief — "Badlands News Brief: Trump Skips Debates, FED Paralyzed & Garland Grilled", URL: https://badlands.substack.com/p/badlands-news-brief-b1d

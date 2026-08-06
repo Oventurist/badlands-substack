@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [covid-origins, wuhan, gain-of-function, accountability]
-sources: [raw/badlands-brief-67a.md, raw/badlands-brief-d94.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-5a7.md]
+sources: [raw/badlands-brief-67a.md, raw/badlands-brief-d94.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-af7.md]
 confidence: medium
 ---
 
@@ -50,6 +50,13 @@ Badlands commentator [[chris-paul|Chris Paul]] pushed past the origins debate to
 
 In July 2023, ZeroHedge — drawing on reporting from Racket and Public — published newly released Slack messages in which authors of the [[proximal-origin-paper|Proximal Origin]] paper privately described a Wuhan lab leak as "so friggin' likely," even as the published paper and subsequent media coverage dismissed the hypothesis.[6] Independent researcher Yuri Deigin, long derided for raising the possibility, said the messages "confirm what we long suspected."[6] Reporting stressed that the documents do not establish that the virus escaped the [[wuhan-institute-of-virology|Wuhan Institute of Virology]] or that American scientists were implicated, but that they show scientists and journalists prioritizing a "single message" over open inquiry.[6] Josh Rogin of the Washington Post was cited as one of the few mainstream journalists who continued pursuing the story.[6]
 
+## Trump op-ed and the House "Proximal Origin" memo (March 2023)
+
+In a March 2023 Daily Mail op-ed, [[donald-trump|Donald Trump]] wrote that three years earlier he had declared COVID-19 almost certainly came from the Chinese Wuhan lab and that the world was finally admitting the truth, calling the cover-up of the virus's origins one of the greatest scandals in history and putting the cost of the outbreak and the lying about it in excess of $50 trillion by some estimates.[7]
+
+Days later, the [[house-select-subcommittee-on-the-coronavirus-pandemic|House Select Subcommittee on the Coronavirus Pandemic]] alleged that [[anthony-fauci|Dr. Anthony Fauci]] had "prompted" the creation of the [[proximal-origin-paper|"Proximal Origin of SARS-CoV-2"]] paper specifically to rule out the laboratory hypothesis, after a February 1, 2020 call on which several scientists had warned the virus may have leaked from a Wuhan lab and may have been intentionally genetically manipulated.[7]
+
+
 ## References
 1. Badlands Brief — "COVIDian Comeuppance and NATOnian Neglect", URL: https://badlands.substack.com/p/badlands-brief-67a
 2. Badlands Brief — "Vagina's Mom Just Can't Get Paid", URL: https://badlands.substack.com/p/badlands-brief-d94
@@ -57,3 +64,4 @@ In July 2023, ZeroHedge — drawing on reporting from Racket and Public — publ
 4. Badlands Media — "Badlands News Brief: A Potato is Threatened with Impeachment & Other Stories ...", URL: https://badlands.substack.com/p/badlands-news-brief-1e2
 5. Badlands Brief — "Badlands News Brief: Robot Runners, Prisoner Swaps, & Control of Crimea", URL: https://badlands.substack.com/p/badlands-news-brief-471
 6. Badlands Brief — "Trump Trifecta, COVID Concealment & Sorosian Slime", URL: https://badlands.substack.com/p/badlands-news-brief-5a7
+7. Badlands News Brief — "Trump on Wuhan, Flynn Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-af7

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [virology, covid-19, lab-leak, scripps]
-sources: [raw/badlands-news-brief-082.md]
+sources: [raw/badlands-news-brief-082.md, raw/badlands-news-brief-af7.md]
 confidence: medium
 ---
 
@@ -20,6 +20,11 @@ Within three days, both scientists had publicly changed their position. At the f
 
 Commentary published in the [[badlands-news-brief]] characterized the episode as evidence of pay-for-play dynamics in biomedical research funding, arguing that grant dependence effectively functioned as a bribe shaping published scientific conclusions on the [[lab-leak-theory|lab-leak theory]].[1]
 
+## House subcommittee findings (March 2023)
+
+Investigators on the [[house-select-subcommittee-on-the-coronavirus-pandemic|House Select Subcommittee on the Coronavirus Pandemic]] reported in March 2023 that Andersen, a Scripps Research virologist, was among the participants in the February 1, 2020 conference call with [[anthony-fauci|Dr. Anthony Fauci]] and [[francis-collins|Dr. Francis Collins]] in which several scientists warned that COVID-19 might have leaked from a lab in Wuhan.[2] Three days later, Andersen and fellow participants Edward Holmes, [[robert-garry|Robert Garry]] and Andrew Rambaut, together with Columbia University virologist Ian Lipkin, drafted the [[proximal-origin-paper|"Proximal Origin of SARS-CoV-2"]] paper, which they sent to Fauci and Collins.[2] The Washington Examiner reported that Andersen and Garry — two authors who initially expressed lab-leak concerns and then changed their position — received millions in [[national-institutes-of-health|NIH]] grants under Fauci.[2]
+
 ## References
 
 1. Badlands Brief — "Tucker, Fauci, Biden & Biology", URL: https://badlands.substack.com/p/badlands-news-brief-082
+2. Badlands News Brief — "Trump on Wuhan, Flynn Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-af7

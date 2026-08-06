@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [politics, republicans, midterms, election-integrity, messaging]
-sources: [raw/badlands-brief-9eb.md]
+sources: [raw/badlands-brief-9eb.md, raw/badlands-news-brief-b01.md]
 confidence: medium
 ---
 
@@ -22,6 +22,13 @@ Other Republicans remained supportive of Trump raising election integrity concer
 
 [[ashe-in-america|Ashe in America]] characterized the Republican position as fear of losing the midterms if Trump keeps talking about 2020–2024 election fraud, satirizing the posture as "Stop saying true things! We're gonna lose the next fake election!"[1] She argued that no one wins a fake election and that the same election systems and processes are currently being exposed in Georgia and Arizona, with investigations and legal action underway in a couple dozen more states.[1] Noting that Trump himself never stopped calling elections fake, she questioned why some of his supporters and political allies insist everyone pretend elections are suddenly legitimate despite no meaningful change to the underlying systems — concluding that "incentives explain behavior" and that there can be no real elections without honesty about, and accountability for, the fake ones.[1]
 
+## Badlands critique of the Old Guard GOP
+
+[[badlands-media|Badlands Media]] commentary is sharply hostile to the establishment wing of the party, describing it as having repeatedly betrayed its own base.[2] Writing in November 2024, GhostofBasedPatrickHenry argued that the [[tea-party-movement|Tea Party movement]]'s grassroots energy was co-opted by the Koch brothers and other establishment actors, and that the resulting congressional Tea Party Caucus presided over an expanding national debt described as well over $34 trillion while becoming known for "strongly worded letters" that produced no consequence.[2] He cited the caucus's elevation of John Boehner and Paul Ryan to the speakership and Mitt Romney's 2012 presidential nomination as the emblematic failures that drove grassroots demoralization, and offered these betrayals as the reason [[ron-paul|Ron Paul]] continued to identify as a libertarian rather than a Republican.[2]
+
+The prospective inclusion of Paul in a new Trump administration through the proposed [[doge|Department of Government Efficiency]] was welcomed on the grounds that Old Guard GOP figures were simultaneously being boxed out of [[donald-trump|Donald Trump]]'s orbit.[2]
+
 ## References
 
 1. Badlands Brief — "Dems Demand a Post-Trump Strategy as Hamas Haggles for Peace", URL: https://badlands.substack.com/p/badlands-brief-9eb
+2. Badlands Brief — "Badlands News Brief: Marauding, Squirrel-Murdering Psychopaths Panic Ahead of the Election", URL: https://badlands.substack.com/p/badlands-news-brief-b01

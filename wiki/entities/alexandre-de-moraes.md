@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [brazil, censorship, judiciary, free-speech, first-amendment]
-sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-a38.md]
+sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b52.md]
 confidence: medium
 ---
 
@@ -43,8 +43,20 @@ In late August 2024 de Moraes moved against [[x-corp|X]] after the platform refu
 
 In April 2024 Moraes opened an inquiry into [[elon-musk|Elon Musk]] after Musk said he would reactivate [[x-corp|X]] accounts the Brazilian Supreme Court judge had ordered blocked, and warned that failure to comply with the blocking order would bring a fine of 100,000 reais — roughly $19,736 — per day.[4] Musk subsequently said X had received an inquiry from the [[us-house-of-representatives|U.S. House of Representatives]] regarding actions taken in Brazil "that were in violation of Brazilian law," including requests to suspend the accounts of sitting members of the Brazilian parliament and numerous journalists.[4]
 
+## US visa sanctions (July 2025)
+
+On Friday, July 18, 2025, the United States imposed visa restrictions on de Moraes, his family, and other unnamed Brazilian court officials in response to the Supreme Court's decision to issue search warrants and restraining orders targeting former President [[jair-bolsonaro|Jair Bolsonaro]], an ally of [[donald-trump|Donald Trump]].[5] The court had also ordered Bolsonaro to wear an ankle monitor and remain at home most hours, finding him a flight risk after he lobbied Trump to intervene in his case.[5] President [[luiz-inacio-lula-da-silva|Luiz Inácio Lula da Silva]] denounced the sanctions as "arbitrary" and "baseless," saying they violated principles of respect and sovereignty between nations and that foreign interference in the judiciary was "unacceptable."[5]
+
+## Ban of X in Brazil (August 30, 2024)
+
+On August 30, 2024 Brazil's top court determined the immediate suspension of [[x-corp|X]] in the country after [[elon-musk|Elon Musk]] refused to name a legal representative for the social network in Latin America's largest nation, capping a months-long feud between the two men.[6] Moraes, who has spearheaded efforts he describes as combating fake news and hate speech harming Brazilian democracy, wrote that X had contributed to "an environment of total impunity and lawlessness in Brazilian social networks, including during the 2024 local elections," and that the company had repeatedly and deliberately disrespected court orders.[6] He added that "extremist groups and digital militias" had used the platform for the "massive dissemination of Nazi, racist, fascist, hateful and anti-democratic speeches," and ruled that anyone using a VPN to access X would face daily fines of 50,000 reais, about $8,900.[6]
+
+[[badlands-media|Badlands Media]] commentary placed the ban alongside the French prosecution of [[pavel-durov|Pavel Durov]] and Donald Trump's warnings to [[mark-zuckerberg|Mark Zuckerberg]] as a single convergent narrative of the [[information-war|Information War]], drawing a line between a globalist hegemon represented by France and Brazil and the sovereignty-minded platform owners standing against it.[6]
+
 ## References
 1. Badlands Brief — "American Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-a1a
 2. Badlands Brief — "Trump Teases Saudi Trillions; Biden Bros Embezzled Billions", URL: https://badlands.substack.com/p/badlands-news-brief-745
 3. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889
 4. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38
+5. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f
+6. Badlands Brief — "Badlands News Brief: The Free Speech Battlefield Heats Up", URL: https://badlands.substack.com/p/badlands-news-brief-b52

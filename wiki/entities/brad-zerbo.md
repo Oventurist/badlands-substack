@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, filmmaker, september-11, gart]
-sources: [raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a31.md]
+sources: [raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-b0f.md]
 confidence: medium
 ---
 
@@ -47,6 +47,12 @@ Zerbo directed [[codex-911|CODEX 911]], an original film produced under the [[ba
 
 Days before the Deadwood premiere, Zerbo released a new trailer for [[codex-911|CODEX 9/11]], which the August 8, 2025 Badlands News Brief promoted alongside the GART event, exclusive streams, panels and behind-the-scenes content, with virtual tickets available through Badlands Media.[8]
 
+## "September 11th 2001" essay and CODEX 911
+
+In July 2025 the Badlands News Brief featured Zerbo's personal essay "September 11th 2001," in which he recounted being woken by his friend Sal with the news that "a bomb just went off in one of the Towers," watching a twin tower burning, and then witnessing United Flight 175 strike the second tower as the two walked into the kitchen.[9] "Everything changed," he wrote, describing the moment as an act of war and the point at which Flight 11 "became no accident, and crisis became King."[9]
+
+Badlands Media presented the essay as the filmmaker's back story and as the personal inspiration for [[codex-911|CODEX 911]], which was set to premiere at GART Deadwood, with virtual tickets available through the network's events page.[9]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Epstein Angst, Autopen Privilege, & Migrant Cash Cards", URL: https://badlands.substack.com/p/badlands-news-brief-1a7
@@ -57,3 +63,4 @@ Days before the Deadwood premiere, Zerbo released a new trailer for [[codex-911|
 6. Badlands Brief — "Badlands News Brief: The Corruption of Anti-Corruption & Obama Bites Back", URL: https://badlands.substack.com/p/badlands-news-brief-91b
 7. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
 8. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
+9. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f

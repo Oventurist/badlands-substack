@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [california, democrats, politics, media]
-sources: [raw/badlands-brief-285.md, raw/badlands-brief-6a1.md, raw/badlands-brief-7bf.md, raw/badlands-brief-884.md, raw/badlands-brief-774.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-50f.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-aac.md]
+sources: [raw/badlands-brief-285.md, raw/badlands-brief-6a1.md, raw/badlands-brief-7bf.md, raw/badlands-brief-884.md, raw/badlands-brief-774.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-50f.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b39.md]
 confidence: medium
 ---
 
@@ -145,6 +145,16 @@ In June 2025, a three-judge panel of the Ninth U.S. Circuit Court of Appeals rul
 
 In the days after the June 2024 [[2024-presidential-debate|presidential debate]], Newsom — California governor and a key surrogate for [[joe-biden|Joe Biden]] — defended the president immediately after his poor performance, saying he would "never turn my back" on him.[28] He was nonetheless widely seen as expressing ambiguity by adding that he was ready "to step up," and was counted among several Democratic governors reported to be subtly positioning themselves as potential late substitutes while avoiding the appearance of doing so.[28] Badlands contributor [[ashe-in-america|Ashe in America]] noted the irony that even if Biden stepped aside and the nomination were opened at the August convention, [[kamala-harris|Kamala Harris]] would be the clear front-runner, leaving the ambitious governors out of turn.[28]
 
+## $50 million "Trump-proofing" package (January 2025)
+
+A week before the second inauguration of [[donald-trump|Donald Trump]], Governor Gavin Newsom and California Democrats reached a $50 million agreement to shore up state and local legal defenses against the incoming administration, the first arrangement of its kind in the nation and a marker of California's intent to lead a second-term resistance.[29] The package combined $25 million Newsom had proposed for the state Department of Justice to litigate against the federal government, announced shortly after Trump's November 2024 reelection, with another $25 million proposed by state Senate leaders to defend immigrants against deportation, detention, and wage theft; half the total was earmarked for fending off any mass deportation plan.[29] Republicans criticized state Democratic leaders for prioritizing the partisan fight while Southern California burned in historically devastating fires.[29]
+
+## Executive order on homeless encampments (July 2024)
+
+On Thursday 25 July 2024, California governor Gavin Newsom ordered state agencies to begin removing homeless encampments on state land, his boldest action on the issue to that point and a response to a Supreme Court ruling allowing cities to enforce bans on sleeping outside in public spaces.[30] The executive order directed state agencies "to move urgently to address dangerous encampments while supporting and assisting the individuals living in them," and provided guidance to cities and counties that applied pressure without legally binding them.[30]
+
+California is home to roughly one-third of the nation's homeless population, a problem that had dogged Newsom since he took office, with thousands of tents and makeshift shelters lining freeways and filling parking lots and public parks.[30] Under the order, agencies including state parks and the department of transportation were required to prioritise clearing encampments posing safety risks, such as those along waterways, while giving "reasonable" advance notice, offering connections to local services, and storing belongings for at least 60 days; local governments were urged to adopt similar protocols.[30]
+
 ## References
 1. Badlands Brief — "Tuckabee Unites The Arab World As Mexico Courts Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-285
 2. Badlands Brief — "The G7 Laments the G2", URL: https://badlands.substack.com/p/badlands-brief-6a1
@@ -174,3 +184,5 @@ In the days after the June 2024 [[2024-presidential-debate|presidential debate]]
 26. Badlands Brief — "Badlands News Brief: Mockingbird Meltdowns & DOGE-Driven Dreams", URL: https://badlands.substack.com/p/badlands-news-brief-966
 27. Badlands News Brief — "A Constellation of Corruption & A Goldilocks Galaxy", URL: https://badlands.substack.com/p/badlands-news-brief-a40
 28. Badlands Brief — "Badlands News Brief: Wins at Home and Deals Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-aac
+29. Badlands News Brief — "Contentious Confirmations & Conflicted Special Counsels", URL: https://badlands.substack.com/p/badlands-news-brief-b02
+30. Badlands Brief — "Biden Says Stuff as Nazis Circle in Ukraine", URL: https://badlands.substack.com/p/badlands-news-brief-b39

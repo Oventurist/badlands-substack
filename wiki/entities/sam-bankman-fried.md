@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [crypto, fraud, litigation, badlands-news-brief]
-sources: [raw/badlands-news-brief-252.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-6db.md]
+sources: [raw/badlands-news-brief-252.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-b0f.md]
 confidence: medium
 ---
 
@@ -71,6 +71,10 @@ In January 2023 the New York Post reported, and the Daily Caller relayed, that B
 
 [[justin-deschamps|Justin Deschamps]] of [[badlands-media|Badlands Media]] argued that the sequence might reveal how the Clinton machine operates, asking whether Bill Clinton vetted Bankman-Fried as a future money-laundering stooge in the Bahamas — a short flight from [[jeffrey-epstein|Jeffrey Epstein]]'s island — before the CGI invitation followed five months later.[9] Deschamps contended that in 2022 Bankman-Fried acted as a bagman for globalist interests in Ukraine, the Biden administration and the Democratic National Committee through the [[ftx|FTX]] scandal.[9]
 
+## False pardon report (July 2025)
+
+On Saturday, July 19, 2025, [[ftx|FTX]]'s native token FTT surged roughly 43 percent to $1.30 following false reports that Bankman-Fried had received a pardon from President [[donald-trump|Donald Trump]]; no such clemency grant appeared on the Justice Department's website.[10] Bankman-Fried was actively seeking a presidential pardon with the support of his parents, Joseph Bankman and Barbara Fried, and other allies, while serving a 25-year prison sentence following his fraud conviction related to FTX's collapse.[10] Several crypto industry figures had previously received presidential pardons from Trump, including BitMEX co-founders Arthur Hayes, Benjamin Delo, and Samuel Reed, as well as Silk Road creator Ross Ulbricht.[10]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Epstein Resurfacing, the Uniparty & Election Fraud", URL: https://badlands.substack.com/p/badlands-news-brief-252
@@ -82,3 +86,4 @@ In January 2023 the New York Post reported, and the Daily Caller relayed, that B
 7. Badlands News Brief — "Tucker Returns, Trump Fights & Corruption Reigns", URL: https://badlands.substack.com/p/badlands-news-brief-3e5
 8. Badlands News Brief — "Trump Counters, SBF Pleads & Disney Dies?", URL: https://badlands.substack.com/p/badlands-news-brief-4c3
 9. Badlands Brief — "Badlands News Brief: Mostly Peaceful Riots and Billionaire Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-6db
+10. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f

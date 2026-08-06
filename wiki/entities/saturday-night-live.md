@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, nbc, comedy, 2024-election, narrative]
-sources: [raw/badlands-news-brief-55f.md]
+sources: [raw/badlands-news-brief-55f.md, raw/badlands-news-brief-b01.md]
 confidence: medium
 ---
 
@@ -28,5 +28,10 @@ Ashe in America placed the show — described as a New York institution — in t
 
 Researching Diddy's SNL appearances, she surfaced a 2006 sketch titled "Diddy Kiddies," described as three multi-ethnic middle-schoolers "solving mysteries, doing the bad thing, they out there going for the brass ring," whose central mystery was what exactly Diddy does for a living.[1] The video had been wiped and the Internet Archive was down at the time of writing, prompting a public request for copies.[1] The commentary closed by asking who is calling the shots at 30 Rock.[1]
 
+## Harris cameo and equal-time complaint (2024)
+
+Days before the November 2024 election, Vice President [[kamala-harris|Kamala Harris]] made a surprise cameo on the program, appearing in a sketch with [[maya-rudolph|Maya Rudolph]] — who portrayed her during the show's 50th season — and poking fun at [[donald-trump|Donald Trump]] after flying to New York City en route to campaign in Michigan.[2] [[brendan-carr|Brendan Carr]], a Republican commissioner on the [[federal-communications-commission|Federal Communications Commission]] who had been nominated to the five-member body by both Trump and [[joe-biden|Joe Biden]], said the appearance may have violated the agency's "equal time" rule governing candidate access to broadcast airtime.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: The Machine Grows Desperate as Threats to Trump Increase", URL: https://badlands.substack.com/p/badlands-news-brief-55f
+2. Badlands Brief — "Badlands News Brief: Marauding, Squirrel-Murdering Psychopaths Panic Ahead of the Election", URL: https://badlands.substack.com/p/badlands-news-brief-b01

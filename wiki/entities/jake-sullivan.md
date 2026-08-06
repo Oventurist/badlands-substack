@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [foreign-policy, iran-deal, biden, clinton, deep-state]
-sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-acf.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-acf.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b10.md]
 confidence: medium
 ---
 
@@ -82,6 +82,18 @@ Badlands commentary in May 2025 listed Sullivan among the senior [[joe-biden|Bid
 
 Ahead of the [[2023-biden-xi-san-francisco-summit|2023 Biden–Xi San Francisco summit]], Sullivan announced on Sunday, November 12, 2023 that President [[joe-biden|Joe Biden]] would ask Chinese President [[xi-jinping|Xi Jinping]] that Wednesday to restore military-to-military contacts severed by Beijing the previous year.[13] Sullivan said securing Chinese agreement "has been a priority for President Biden," who "believes that having military-to-military communication is necessary to manage competition responsibly, and to ensure that competition does not turn into conflict," adding that regular contacts help avoid "mistakes or miscalculations or miscommunication."[13] The request followed China's June 2023 rebuff of a similar approach by Secretary of State [[antony-blinken|Antony Blinken]], and came after Beijing formally cut regular armed forces contacts in August 2022 over then-Speaker [[nancy-pelosi|Nancy Pelosi]]'s visit to Taiwan.[13]
 
+## Ezra Cohen's July 2025 spotlight
+
+Over the weekend of July 19–20, 2025, former Senior Director for Intelligence Programs at the National Security Council under Trump [[ezra-cohen-watnick|Ezra A. Cohen]] publicly targeted Sullivan, posting a photograph captioned, "Mediocre defense industry lobbyist, Mark Yesper, chilling with a coup plotter tonight in Aspen. No big deal."[14] Badlands Media commentary read the post as a signal that Sullivan may face accountability, and compiled a list of episodes from his career in government.[14]
+
+That list included: his role, as senior adviser to [[hillary-clinton|Hillary Clinton]], in the Libya intervention and in the administration's public messaging about the Benghazi attack; his leadership of secret U.S.–Iran negotiations preceding the 2015 nuclear agreement; his handling or forwarding of classified material via Clinton's private email server, which was mentioned in the FBI review without charges; his promotion of the now-debunked Alfa Bank–Trump server theory, which he publicly called the "most direct link yet" between Trump and Russia and which was referenced in [[john-durham|John Durham]]'s investigation without charges being filed; his public endorsement of the claim that the Hunter Biden laptop story had "all the classic earmarks of a Russian information operation," referencing the letter signed by 51 former intelligence officials; his direction of policy planning for the chaotic 2021 Afghanistan withdrawal, after which he offered a resignation that Biden declined; his public defense of Biden's mental fitness; and his close involvement in national security decision-making during the period of the autopen controversy.[14]
+
+Badlands commentary described several of these episodes as already constituting overt acts in the conspiracy case publicized the prior week, and characterized Cohen's post as both a flex and a signal about the future direction of the effort it calls "RICO Grande."[14]
+
+## Saudi–Israel normalization diplomacy (April 2024)
+
+In early April 2024, Axios reported that Sullivan, then White House national security adviser, would travel to [[saudi-arabia|Saudi Arabia]] to meet Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] about a potential "mega-deal" that would include Saudi normalization with [[israel]].[15] With the war in Gaza ongoing and the US presidential election seven months away, White House officials conceded that the chances of concluding the historic agreement were slim, but the trip was read as evidence that President [[joe-biden|Joe Biden]] remained determined to pursue it.[15] Behind the scenes, according to four US and Israeli officials, the White House continued work on a draft US–Saudi defense treaty and understandings on US support for a Saudi civilian nuclear program.[15] The plan envisioned reaching a bilateral agreement with Riyadh first and then presenting it to Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]], whose side would require committing to a path toward a two-state solution — leaving him to either broker a historic peace or be exposed as a rejectionist.[15]
+
 ## References
 
 1. Badlands Brief — "And Iran, Iran So Far Away", URL: https://badlands.substack.com/p/and-iran-iran-so-far-away
@@ -97,3 +109,5 @@ Ahead of the [[2023-biden-xi-san-francisco-summit|2023 Biden–Xi San Francisco 
 11. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
 12. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
 13. Badlands Brief — "Badlands News Brief: China Joe Takes the Stage as Trump's Power Grows", URL: https://badlands.substack.com/p/badlands-news-brief-acf
+14. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f
+15. Badlands Brief — "Badlands News Brief: Middle Eastern Shenanigans & Dasting Data Dominate", URL: https://badlands.substack.com/p/badlands-news-brief-b10

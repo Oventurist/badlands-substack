@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [2024-election, ballot-access, fourteenth-amendment, courts, lawfare]
-sources: [raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-8cb.md, raw/badlands-news-brief-9bf.md]
+sources: [raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-8cb.md, raw/badlands-news-brief-9bf.md, raw/badlands-news-brief-b04.md, raw/badlands-news-brief-b19.md]
 confidence: medium
 ---
 
@@ -68,6 +68,20 @@ On the second day of the trial, an expert on right-wing extremism dissected [[do
 
 [[badlands-media|Badlands Media]] writer [[ashe-in-america|Ashe in America]], covering the proceedings, described the day as "hilarious" and dissected the testimony of the petitioners' first expert witness, sociologist [[pete-simi|Pete Simi]], who she said was destroyed on cross-examination and admitted having no direct evidence that Trump incited anything.[7] The petitioners' second witness was a self-described "Homeland Security expert" who conceded that he had never advised a state or federal executive branch and had never been in a real crisis, having only simulated them in academic settings.[7] Ashe reported that four of the petitioners' witnesses had dropped out of testifying, and characterized the case as "a highly laughable — but very dangerous — attack on [[first-amendment|First Amendment]] protected speech and activities" whose intended precedent was "Minority Report."[7] The trial was set to resume at 10 a.m. Eastern on Wednesday, with Badlands carrying live coverage following Badlands Daily.[7]
 
+## Closing arguments (November 15, 2023)
+
+A [[denver-district-court|Denver District Court]] judge heard closing arguments on Wednesday, November 15, 2023, in the trial that would determine whether [[donald-trump|Donald Trump]] could appear on Colorado's Republican presidential primary ballot the following year.[8] The case, stemming from a lawsuit filed by a liberal political nonprofit based in Washington, D.C., was widely expected to advance to the [[supreme-court-of-the-united-states|U.S. Supreme Court]]; similar suits had been brought in other states, none successful to that point.[8] The suits alleged that Trump's role in the deadly January 6, 2021 riot at the U.S. Capitol disqualified him under the [[fourteenth-amendment|Fourteenth Amendment]], which bars from federal or state office anyone who took an oath "to support the Constitution of the United States" and then "engaged in insurrection or rebellion against the same, or given aid or comfort to the enemies thereof."[8]
+
+[[ashe-in-america|Ashe in America]], covering the hearing for [[badlands-media|Badlands Media]], described the petitioners' closing as "an overt assault on the Bill of Rights," arguing that assembly, association, and speech were all on trial and that the petitioners equated Trump's supposed private thoughts with participation in insurrection.[8] She wrote that the majority of the petitioners' closing rested on sociologist [[pete-simi|Pete Simi]] — the so-called far-right extremism expert — and his claimed ability to "decode" Trump's actual meaning from seemingly innocuous statements, and on the fear expressed by inexperienced Capitol Police officer [[daniel-hodges|Daniel Hodges]], whom she noted was selling books and profiting from his January 6 experiences.[8]
+
+She judged the intervenors' hour-long closing strong, saying they exposed the flaws in the petitioners' case and invoked recent Minnesota Supreme Court precedent, but reported that the judge's body language shifted markedly: attentive and nodding during the petitioners' argument, sitting back with arms crossed and scowling through the intervenors'.[8] Sources close to the intervenors told her they expected Trump to lose at the trial court and require an appeal, an assessment she shared; the judge was required to rule by Friday, November 17.[8] Ashe also noted she had received no response from the Colorado court system regarding her bar complaint against petitioners' attorney [[eric-olson|Eric Olson]] for what she said was lying to the court and publicly doxxing her.[8]
+
+## Trump's SCOTUS brief and copycat suits (January 2024)
+
+Ahead of the February 8, 2024 argument, [[donald-trump|Donald Trump]] filed a 59-page brief at the [[supreme-court-of-the-united-states|U.S. Supreme Court]] making five distinct arguments for reversal: that he is not subject to Section 3 because the president is not an "officer of the United States"; that he did not "engage in insurrection"; that the judiciary should enforce Section 3 only through congressional implementing legislation such as 18 U.S.C. § 2383; that the Colorado ruling violates U.S. Term Limits, Inc. v. Thornton (1995), which bars states from prescribing their own presidential qualifications; and that it violates the Electors Clause.[9] The brief focused exclusively on Trump's conduct on January 6 and stopped short of asserting that J6 was not an insurrection at all, while warning that "a ruling that reverses the Colorado Supreme Court while remaining agnostic on President Trump's eligibility under section 3 will only delay the ballot-disqualification fight."[9]
+
+That warning was promptly illustrated when a bipartisan group of Massachusetts voters, represented by [[shannon-liss-riordan|Shannon Liss-Riordan]], asked the [[massachusetts-supreme-judicial-court|Massachusetts Supreme Judicial Court]] to order Secretary of State [[william-galvin|William Galvin]] to strike Trump from the March primary ballot.[9] [[ashe-in-america|Ashe in America]] argued the Massachusetts case was wholly dependent on Colorado prevailing — "both unconstitutional and unlikely" — and concluded that the real purpose of such lawsuits was election interference.[9]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: The Witch Hunt Hits a Few Snags as the Landscape Shifts", URL: https://badlands.substack.com/p/badlands-news-brief-2a0
 2. Badlands Brief — "Badlands News Brief: Kash Unleashed, Zelensky Abandoned & Trump Championed", URL: https://badlands.substack.com/p/badlands-news-brief-356
@@ -76,3 +90,5 @@ On the second day of the trial, an expert on right-wing extremism dissected [[do
 5. Badlands Brief — "Badlands News Brief: The Deep State Death Spiral Has Only Just Begun", URL: https://badlands.substack.com/p/badlands-news-brief-7e0
 6. Badlands Brief — "SCOTUS Enters the Fray as Biden Barks at MAGA Hats", URL: https://badlands.substack.com/p/badlands-news-brief-8cb
 7. Badlands Brief — "14th Time's the Charm to 'Get Trump?'", URL: https://badlands.substack.com/p/badlands-news-brief-9bf
+8. Badlands Brief — "China Joe Strikes Out & Trumpism on Trial", URL: https://badlands.substack.com/p/badlands-news-brief-b04
+9. Badlands Brief — "Badlands News Brief: Lake and Abbott Take a Stand as Haley Falls", URL: https://badlands.substack.com/p/badlands-news-brief-b19

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [government-shutdown, congress, federal-budget, appropriations, libertarianism]
-sources: [raw/badlands-news-brief-060.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-398.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-8d6.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-aae.md]
+sources: [raw/badlands-news-brief-060.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-398.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-8d6.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-aae.md, raw/badlands-news-brief-b4d.md, raw/badlands-news-brief-b53.md]
 confidence: medium
 ---
 
@@ -109,6 +109,22 @@ The deal convulsed the Democratic Party, because the moderates' support all but 
 
 Writing in the [[badlands-news-brief|Badlands News Brief]], [[ashe-in-america|Ashe in America]] observed that the democratic socialists were "big mad because they got nothing out of it," argued that Republicans had secured new provisions for themselves as legislators rather than for their constituents, and asked readers what the people actually gain by reopening the government — answering that it was "about the same as the DSA."[12]
 
+## Cloture vote and effects on arms deliveries
+
+The GOP bill to reopen the government secured 60 votes after at least eight Democrats crossed the aisle to support it, beginning what ZeroHedge described as the long and drawn-out process of Majority Leader [[john-thune|John Thune]] presenting the original House-passed continuing resolution for a vote, to which the minibus and updated CR would then be attached, followed by two more votes before the package returned to the House and, if passed, to President [[donald-trump|Donald Trump]]'s desk.[13]
+
+By the time of the November 9 breakthrough the shutdown had run 40 days, making it the longest in United States history, and it had delayed more than $5 billion in arms exports to European [[nato|NATO]] members and subsequent transfers to [[ukraine|Ukraine]], according to Axios reporting.[13] A senior [[state-department|State Department]] official said the lapse was "actually really harming both our allies and partners and US industry to actually deliver a lot of these critical capabilities overseas."[13] The affected exports included AMRAAM air-to-air missiles, HIMARS and other weapons; the delay stemmed from a lag in congressional approval, because the State Department bureau that normally briefs lawmakers on arms exports was operating with only a quarter of its usual staff.[13] The shutdown had also frozen talks between Washington and Kiev on future arms shipments.[13]
+
+Badlands host [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] read the stalled deliveries as convenient rather than accidental, noting that the shutdown was choking off weapons to NATO that Trump had pressed the alliance to buy, even as Trump sought a summit with [[vladimir-putin|Vladimir Putin]].[13] [[ashe-in-america|Ashe in America]] tied the sudden availability of Senate votes to Trump's simultaneous announcement of [[trump-tariff-dividend-proposal|tariff dividends]], calling the sequence "quite literally The Art of the Deal."[13] In a separate item, Trump proposed a compromise on health insurance payments, urging Republicans to send federal payments that would normally go to insurers under [[affordable-care-act|Obamacare]] directly to Americans in order to end the shutdown, arguing that the insurance-industrial complex aligned with the Democrats had seen stock gains between 400% and nearly 1,200% since the ACA was introduced.[13]
+
+## Midnight lapse and the failed Senate vote
+
+The federal government partially shut down at midnight on Wednesday, October 1, 2025, hours after all but three Senate Democrats voted down a short-term funding bill.[14] It was the first shutdown since December 2018, an episode that saw non-essential operations cease and tens of thousands of federal employees furloughed or forced to work without pay for 35 days.[14] A House-passed bill backed by virtually all Senate Republicans and President [[donald-trump|Donald Trump]], which would have kept the government open at current funding levels until November 21, failed to clear the 60-vote legislative filibuster in the upper chamber by five votes.[14]
+
+[[office-of-management-and-budget|Office of Management and Budget]] Director [[russ-vought|Russ Vought]] notified federal department and agency heads shortly after the failed vote to begin preparations, writing in a memo that "[a]ffected agencies should now execute their plans for an orderly shutdown."[14] Vought added that it was "unclear how long Democrats will maintain their untenable posture, making the duration of the shutdown difficult to predict."[14] In the run-up, OMB had also warned that absent a funding agreement before October 1 it would lay off some non-essential workers in addition to imposing furloughs.[14]
+
+Badlands contributor [[jon-herold|Jon Herold]] noted that Trump's first term had featured three shutdowns: January 20–22, 2018 over DACA; a hours-long lapse on February 9, 2018 arising from a Rand Paul protest; and the December 22, 2018–January 25, 2019 border-wall shutdown, the longest to that point at 35 days.[14] [[chris-paul|Chris Paul]] mocked the media framing, observing that shutdowns perpetually "loom" and that CNN was running a second-by-second countdown.[14] [[burning-bright|Burning Bright]] pointed to Trump himself posting a lighthearted image about the shutdown, arguing that the breathless panic was conspicuously not coming from the man nominally in charge of the government — a fact he said should tell readers something about what "the government" actually is.[14]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Quantum Tunneling, Natural Conflicts, & Pirates for Gaza", URL: https://badlands.substack.com/p/badlands-news-brief-060
@@ -123,3 +139,5 @@ Writing in the [[badlands-news-brief|Badlands News Brief]], [[ashe-in-america|As
 10. Badlands Brief — "Badlands News Brief: Inadvertent Israeli Attacks, Delightful Deep Fakes, & A Suing Shaman", URL: https://badlands.substack.com/p/badlands-news-brief-8d6
 11. Badlands Brief — "Posse Comitatus & Haggling with Hamas", URL: https://badlands.substack.com/p/badlands-news-brief-94b
 12. Badlands Brief — "Badlands News Brief: Reopening Washington, Rescheduling Putin, & Revisiting De Jure", URL: https://badlands.substack.com/p/badlands-news-brief-aae
+13. Badlands Brief — "Tariff Take Home, Shutdown Stalls, & Unconstitutionally Compelled Speech", URL: https://badlands.substack.com/p/badlands-news-brief-b4d
+14. Badlands Brief — "Hate Groups, Slush Funds, & Shut Downs", URL: https://badlands.substack.com/p/badlands-news-brief-b53

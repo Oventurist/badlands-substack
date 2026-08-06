@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [arctic, geopolitics, denmark, trump, tariffs, nato]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-094.md, raw/badlands-brief-577.md, raw/badlands-brief-a20.md, raw/badlands-brief-b74.md, raw/badlands-brief-b82.md, raw/badlands-brief-c07.md, raw/badlands-brief-e87.md, raw/badlands-brief-e3b.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-9cd.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-094.md, raw/badlands-brief-577.md, raw/badlands-brief-a20.md, raw/badlands-brief-b74.md, raw/badlands-brief-b82.md, raw/badlands-brief-c07.md, raw/badlands-brief-e87.md, raw/badlands-brief-e3b.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-9cd.md, raw/badlands-news-brief-b0d.md]
 confidence: medium
 ---
 
@@ -94,6 +94,10 @@ In his New Year speech at the start of 2025, Greenland's Prime Minister [[mute-e
 
 Badlands writer [[ashe-in-america|Ashe in America]] argued that globalists and their media had mocked Trump over the purchase idea and tried to paint Danes and Greenlanders as potential Trump victims, a framing that took a hit when Egede spoke.[11] She read the episode as "the art of the deal on full display," with Egede recognizing his leverage and negotiating from a position of autonomy and strength, and wondered whether future generations would view a Greenland Purchase the way Americans view the Louisiana Purchase — before asking, "Now what are we going to do about Canada?"[11]
 
+## Anger over the Vance–Waltz visit (March 2025)
+
+In March 2025, Greenland's prime minister [[mute-egede|Múte B Egede]] called for the international community to step in after it was announced that [[donald-trump|Donald Trump]]'s national security adviser and the US second lady would visit the Arctic island, accusing Washington of "foreign interference."[12] [[mike-waltz|Mike Waltz]] and [[usha-vance|Usha Vance]] were scheduled to arrive that week as part of a delegation also including US energy secretary [[chris-wright|Chris Wright]].[12] A spokesperson for the Danish police confirmed that extra personnel and sniffer dogs had been sent to Greenland as security measures were stepped up, and local media reported the arrival of four bulletproof cars in Nuuk city centre, flown in from the United States.[12] Trump told reporters after a cabinet meeting that Monday: "I think Greenland is going to be something that maybe is in our future."[12]
+
 ## References
 
 1. Badlands Brief — "Arctic Escalation and Tropic Trouble for the Financial System", URL: https://badlands.substack.com/p/badlands-brief-02a
@@ -107,3 +111,4 @@ Badlands writer [[ashe-in-america|Ashe in America]] argued that globalists and t
 9. Badlands Brief — "Mad-Lad Maduro, Media Meltdowns & Weapons of the Future", URL: https://badlands.substack.com/p/badlands-brief-e3b
 10. Badlands Brief — "Badlands News Brief: Global Grifters, Fleeing Fellows, and a Surprisingly Friendly Funeral", URL: https://badlands.substack.com/p/badlands-news-brief-290
 11. Badlands Brief — "Badlands News Brief: Energy Elevates Collaboration as the Senate Steals Centerstage", URL: https://badlands.substack.com/p/badlands-news-brief-9cd
+12. Badlands Brief — "Badlands News Brief: Unexpected Allies, Rogue Judges, & Stacked Envoys", URL: https://badlands.substack.com/p/badlands-news-brief-b0d

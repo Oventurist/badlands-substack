@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [canada, political-party, elections]
-sources: [raw/badlands-news-brief-719.md]
+sources: [raw/badlands-news-brief-719.md, raw/badlands-news-brief-a82.md]
 confidence: medium
 ---
 
@@ -20,5 +20,10 @@ The party entered the 2025 campaign as the heavy favourite, having led the polls
 
 Badlands contributor [[chris-paul|Chris Paul]] compared the collapse of the Conservative campaign to the fate of a front-runner who squanders a commanding lead, quipping that "Canadian Ron! DeeSantis goes the way of the standard Ron! DeeSantis, minus the high heels."[1]
 
+## 2024 Toronto—St. Paul's by-election win
+
+In June 2024 the Conservatives took Toronto—St. Paul's from the Liberals in a special election, capturing an urban stronghold the governing party had held since 1993 and intensifying pressure on [[justin-trudeau|Justin Trudeau]] to resign.[2]
+
 ## References
 1. Badlands News Brief — "Atmospheric Phenomenon & Record Deportations", URL: https://badlands.substack.com/p/badlands-news-brief-719
+2. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82

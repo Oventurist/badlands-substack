@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [judiciary, federal-courts, florida, trump]
-sources: [raw/badlands-brief-abf.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-365.md, raw/badlands-news-brief-6bc.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-855.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-ac7.md]
+sources: [raw/badlands-brief-abf.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-365.md, raw/badlands-news-brief-6bc.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-855.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-ac7.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b40.md]
 confidence: medium
 ---
 
@@ -85,7 +85,19 @@ On April 4, 2024, Cannon rejected [[donald-trump|Donald Trump]]'s bid to dismiss
 
 Cannon had set a tentative August 14, 2023 start date for the [[2023-trump-classified-documents-indictment|classified documents trial]], prompting special counsel [[jack-smith|Jack Smith]] to file motions late on Friday, June 23, 2023 asking her to push the trial to December.[15] Smith's team told the court that pretrial proceedings, including securing the necessary clearances for defense counsel to review discovery materials, would realistically take more time than the schedule she had proposed earlier that week.[15]
 
+## January 2025 ruling on the special counsel report
+
+On Monday, January 13, 2025, Judge Aileen M. Cannon issued a five-page order clearing the way for the [[justice-department|Justice Department]] to release a portion of [[jack-smith|Special Counsel Jack Smith]]'s report — the volume detailing his decisions in charging [[donald-trump|Donald Trump]] with plotting to overturn his loss in the 2020 election.[16] The order allowed that volume to be published as early as just after midnight Tuesday morning, while leaving open the possibility that Trump's lawyers could seek emergency relief from an appeals court or the Supreme Court.[16]
+
+At the same time, Cannon required prosecutors and defense lawyers to appear before her in court that Friday to argue whether the department could release to members of [[congress|Congress]] the part of the report dealing with the classified documents case she oversaw.[16] Her docket had become the focal point of a week of emergency filings begun by [[walt-nauta|Waltine Nauta]] and [[carlos-de-oliveira|Carlos De Oliveira]], joined by Trump and by [[jeff-clark|Jeffrey Clark]], all seeking to enjoin release of the report on due process grounds.[16]
+
 ## References
+
+## Scrutiny over the pace of the documents case (June 2024)
+
+By late June 2024, Cannon's supervision of the Mar-a-Lago documents case was drawing building criticism after she devoted three days to exploring what were described as long-shot motions from [[donald-trump|Donald Trump]]'s legal team.[17] Those motions questioned the legitimacy of special counsel [[jack-smith|Jack Smith]]'s appointment and the funding of his office, and Cannon took the highly unusual step of inviting outside groups into her Fort Pierce courtroom to weigh in.[17]
+
+The New York Times had reported days earlier that two of Cannon's judicial colleagues urged her to hand off the case, including one concerned about the optics after a higher court criticized one of her actions.[17] No trial date was set; Cannon had suspended the start date indefinitely, arguing she needed to weigh carefully a pile of pretrial motions asking her to toss the proceedings.[17] Reporting noted that although attorneys generally avoid open criticism of a judge, that norm had shifted as motions mounted in the case.[17]
 
 1. Badlands Brief — "Long-Term Legal Remedies & A Reboot of Russian Relations", URL: https://badlands.substack.com/p/badlands-brief-abf
 2. Badlands Brief — "Preemptive Pardons, Syrian Sanctions, & Preparations for Putin", URL: https://badlands.substack.com/p/badlands-news-brief-09e
@@ -102,3 +114,4 @@ Cannon had set a tentative August 14, 2023 start date for the [[2023-trump-class
 13. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
 14. Badlands Brief — "Very Fine Marxists and Chinese Finger Traps", URL: https://badlands.substack.com/p/badlands-news-brief-a46
 15. Badlands Brief — "Whose Coup Is It Anyway? ... And Other Questions", URL: https://badlands.substack.com/p/badlands-news-brief-ac7
+16. Badlands News Brief — "Contentious Confirmations & Conflicted Special Counsels", URL: https://badlands.substack.com/p/badlands-news-brief-b02

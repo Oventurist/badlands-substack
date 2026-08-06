@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [spac, dwac, trump-media, markets, truth-social]
-sources: [raw/badlands-news-brief-47f.md, raw/badlands-news-brief-a6e.md]
+sources: [raw/badlands-news-brief-47f.md, raw/badlands-news-brief-a6e.md, raw/badlands-news-brief-b4a.md]
 confidence: medium
 ---
 
@@ -30,6 +30,13 @@ DWAC chief executive [[eric-swider|Eric Swider]] said the approval "marks a sign
 
 Badlands writer [[burning-bright|Burning Bright]] noted that the merger had been in the works for a long time after repeated stops and starts, that the stock had yet to eclipse the all-time high it set shortly after launching in late 2021, and that the previous surge had followed [[donald-trump|Donald Trump]] dominating headlines over the prosecutions Badlands writers describe as a Justice Department witch hunt.[2] He argued that the merger, then expected to close in September 2024, could allow Trump supporters to directly fund the emergent media company and take part in industry disruption.[2]
 
+## January 2024 share surge
+
+Shares of Digital World Acquisition, the blank-check firm set to take [[donald-trump]]'s social-media platform public, soared to their highest level in 19 months on Monday, January 22, 2024, after Florida Governor [[ron-desantis]] ended his 2024 presidential bid.[3] The stock jumped 55% to $41, its highest since June 2022, after DeSantis suspended his campaign two days before the pivotal New Hampshire primary and endorsed Trump over rival [[nikki-haley]].[3] The shares had more than doubled over the preceding five trading sessions as Trump gained momentum in his bid for the Republican nomination; over the same session shares of [[rumble]] jumped 33% to $4.77 on news of a partnership with [[barstool-sports]].[3] The move was reported by [[reuters]].[3]
+
+Commenting in the [[badlands-news-brief]], [[burning-bright]] noted that the surge had stunned Wall Street but few on "MAGA Main Street," and that it accelerated exponentially after the DeSantis withdrawal and endorsement.[3] He argued the moves could be read simply as investors pricing in the inevitability of Trump's return to office, but might also presage a cascade of legal and narrative wins: DWAC had been in litigation for two years over its expected merger with [[trump-media-and-technology-group]], owner of [[truth-social]], with all signs pointing to a resolution in its favour during 2024, while Rumble runs the servers on which Truth Social operates and had just signed a deal with Barstool Sports and Trump ally [[dave-portnoy]].[3]
+
 ## References
 1. Badlands Media — "Badlands News Brief: Horse Paste & A Couple of Bloodbaths", URL: https://badlands.substack.com/p/badlands-news-brief-47f
 2. Badlands Brief — "Badlands News Brief: A Fiery Fani, a Plotting Putin & a Bumbling Biden Walk into a Bar", URL: https://badlands.substack.com/p/badlands-news-brief-a6e
+3. Badlands Brief — "Badlands News Brief: Border Battles, Trump Trials & COVID Comeuppance", URL: https://badlands.substack.com/p/badlands-news-brief-b4a

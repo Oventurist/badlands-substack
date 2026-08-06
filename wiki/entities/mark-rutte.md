@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [nato, diplomacy, transatlantic-alliance]
-sources: [raw/badlands-brief-282.md, raw/badlands-brief-67a.md, raw/badlands-brief-a9f.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-9bc.md]
+sources: [raw/badlands-brief-282.md, raw/badlands-brief-67a.md, raw/badlands-brief-a9f.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-9bc.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b22.md]
 confidence: low
 ---
 
@@ -85,6 +85,16 @@ In November 2024 rumors circulated online claiming that Rutte, as [[nato|NATO]] 
 
 [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] described Rutte as "a globalist stooge who will likely get NATO involved in a direct kinetic conflict with Russia," predicting the theater would be Syria rather than Ukraine.[11] He treated the likely false story as a milestone in the narrative war, arguing that anons now had the ability to make fabricated stories about real scoundrels go viral — dangerous, but a partial leveling of the playing field against the Western media apparatus and an escalation in fifth-generation warfare.[11] He cited [[badlands-media|Badlands Media]]'s own election-night demonstration, when Jon posted live that Badlands was projecting Trump as the winner and the post drew over a thousand reposts within seconds.[11]
 
+## "Learn Russian" warning to European allies (January 2025)
+
+At a January 2025 question-and-answer session closing a joint meeting of the European Parliament's Committee on Foreign Affairs (AFET) and the Subcommittee on Security and Defence (SEDE), Secretary-General Mark Rutte told European members of [[nato|NATO]] that they must drastically increase military spending or start studying Russian.[12] Rutte said that although two thirds of NATO members were then meeting the alliance's 2014 target of spending 2% of GDP on the military, that was not enough to protect them from Moscow: "We are safe now, but not in 4-5 years. So, if you don't do it, get out your Russian language courses or go to New Zealand. Or decide now to spend more."[12] He added, "I just want you to spend more money! I've not committed to a new number, just saying that 2% is not nearly enough."[12] President-elect [[donald-trump|Donald Trump]] had floated raising the benchmark to 5%, a level no NATO member, including Washington, was near at the time.[12]
+
+## Appointment as NATO Secretary General (June 2024)
+
+On Wednesday, June 26, 2024, the outgoing Dutch prime minister was formally selected as the next [[nato|NATO]] Secretary General, an announcement that came at a pivotal moment as the alliance grappled with boosting its own security while supporting [[ukraine|Ukraine]] in its war against [[russia|Russia]].[13] His appointment followed the withdrawal the previous week of his only rival, Romanian President Klaus Iohannis.[13] "It is a tremendous honour to be appointed Secretary-General of NATO. The Alliance is and will remain the cornerstone of our collective security," Rutte wrote on X, adding that the Dutch leader, then 57, was grateful to allies for their trust and that "leading this organization is a responsibility I do not take lightly."[13] He was set to take up the post on October 1, when incumbent [[jens-stoltenberg|Jens Stoltenberg]]'s ten-year tenure ended; Stoltenberg said he "warmly welcomes" the appointment of his successor.[13]
+
+[[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] called the appointment "a little concerning," noting that although Rutte and others touted his record of working well with [[donald-trump|President Trump]] during Trump's first term, Trump himself likely does not think highly of NATO.[13] He raised concerns about Rutte's conduct as Dutch premier — while conceding Rutte refrained from imposing full lockdowns in the Netherlands during COVID — and pointed to a viral clip of a young man attacking Rutte in the Dutch Parliament.[13] The commentary also flagged an ominous post on X by [[benjamin-netanyahu|Benjamin Netanyahu]], asserting that Rutte is an [[israel-defense-forces|IDF]] apologist aligned with the Zionist agenda, and speculating about how soon NATO might be fighting alongside the IDF in Lebanon amid an apparently imminent invasion.[13]
+
 ## References
 1. Badlands Brief — "Jesus Walks", URL: https://badlands.substack.com/p/badlands-brief-282
 2. Badlands Brief — "COVIDian Comeuppance and NATOnian Neglect", URL: https://badlands.substack.com/p/badlands-brief-67a
@@ -98,3 +108,5 @@ In November 2024 rumors circulated online claiming that Rutte, as [[nato|NATO]] 
 9. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
 10. Badlands Brief — "Badlands News Brief: Mockingbird Meltdowns & DOGE-Driven Dreams", URL: https://badlands.substack.com/p/badlands-news-brief-966
 11. Badlands News Brief — "Trump's Avengers Assemble as Globalists Tremble", URL: https://badlands.substack.com/p/badlands-news-brief-9bc
+12. Badlands News Brief — "Contentious Confirmations & Conflicted Special Counsels", URL: https://badlands.substack.com/p/badlands-news-brief-b02
+13. Badlands Brief — "The Supreme Court Looms Over the First Debate", URL: https://badlands.substack.com/p/badlands-news-brief-b22

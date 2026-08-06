@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [baltimore, maritime, infrastructure, disaster, salvage]
-sources: [raw/badlands-news-brief-092.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-6e5.md]
+sources: [raw/badlands-news-brief-092.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-b10.md]
 confidence: medium
 ---
 
@@ -41,7 +41,14 @@ The salvage operation appeared unlikely to proceed as smoothly as government off
 By September 2025, rebuilding Baltimore's Francis Scott Key Bridge was reported to potentially cost more than $5 billion — more than double the $1.9 billion estimate Maryland officials outlined shortly after the arterial span fell into the Patapsco River, according to two people engaged in the discussions.[3] The revised figure was expected to give fresh fuel to President [[donald-trump|Donald Trump]], who had flirted with yanking federal funding for the bridge after quarreling on social media with Democratic Maryland Governor [[wes-moore|Wes Moore]] — a potential presidential candidate — about the crime rate in Baltimore.[3] "I gave Wes Moore a lot of money to fix his demolished bridge. I will now have to rethink that decision???" Trump wrote on Truth Social.[3] Transportation Secretary [[sean-duffy|Sean Duffy]] said he was concerned about the federal government covering all of the rebuilding costs, explaining that "if you go to dinner and someone else is buying, you might order the finest, most expensive steak on the menu."[3]
 
 
+## Salvage operation and channel reopening
+
+On April 2, 2024, the Baltimore District of the [[us-army-corps-of-engineers|US Army Corps of Engineers]] published new underwater 3D images of the wreckage lying in the main shipping channel, saying the imagery showed "the sheer magnitude of the very difficult and challenging salvage operation ahead."[4] The Corps described using the CODA Octopus sonar imaging tool because visibility was clouded to one or two feet by four to five feet of mud and loose bottom in the Patapsco River, forcing divers to work in virtual darkness under verbal guidance from topside operators watching real-time imagery.[4] No local, state, or federal official had yet offered a timeline for removing the collapsed span from the channel.[4]
+
+A temporary alternate channel reopened that week, allowing trapped ships and cargo to move again, with a US Air Force fuel barge the first vessel permitted through; even so, activity at the [[port-of-baltimore|Port of Baltimore]] had crashed and was expected to remain paralyzed until the main channel reopened.[4] [[ashe-in-america|Ashe in America]] raised unresolved questions about fuel and an underground pipeline, noted emerging scrutiny of contaminated fuel aboard the Dali, and predicted "climate narratives incoming."[4] The commentary also noted that President [[joe-biden|Joe Biden]] announced he would visit the bridge site that Friday, which the writer characterised as an opportunity to exploit the disaster politically.[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Trans Easter Bait & A Tale of Two Presidents", URL: https://badlands.substack.com/p/badlands-news-brief-092
 2. Badlands Brief — "Badlands News Brief: Dali, Diddy & DJT", URL: https://badlands.substack.com/p/badlands-news-brief-491
 3. Badlands Brief — "Badlands News Brief: Manhunts, Mental Health, & the Mother of a Monster", URL: https://badlands.substack.com/p/badlands-news-brief-6e5
+4. Badlands Brief — "Badlands News Brief: Middle Eastern Shenanigans & Dasting Data Dominate", URL: https://badlands.substack.com/p/badlands-news-brief-b10

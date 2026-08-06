@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [attorney, trump-legal-team, lawfare, 2020-election]
-sources: [raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a5d.md]
+sources: [raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a5d.md, raw/badlands-news-brief-b4a.md]
 confidence: medium
 ---
 
@@ -44,9 +44,14 @@ In July 2025 criminal defendants began challenging Habba's authority to act as U
 
 On Monday, May 19, 2025, while serving as acting U.S. attorney in New Jersey, Habba announced that she had filed criminal charges against Representative [[lamonica-mciver|LaMonica McIver]], a New Jersey Democrat, over her conduct during a protest outside an [[immigration-and-customs-enforcement|Immigration and Customs Enforcement]] detention facility in Newark.[5] NBC News reported the announcement in the same story that covered former FBI director [[james-comey|James Comey]] dismissing the prospect of criminal charges against himself at a New York book signing, a juxtaposition the [[badlands-news-brief|Badlands News Brief]] highlighted in its May 21, 2025 edition.[5] The Brief noted that Habba had previously served as President [[donald-trump|Donald Trump]]'s defense lawyer.[5]
 
+## Carroll defamation trial delay (January 2024)
+
+On Monday, January 22, 2024, the trial of [[e-jean-carroll]]'s defamation suit against [[donald-trump]] was suspended because of illness among jurors and among the parents of one of Trump's lawyers.[6] Habba, who had been exposed to COVID during a visit to her parents, said she had tested negative but was still feeling symptoms, and asked Judge [[lewis-kaplan|Lewis A. Kaplan]] to postpone court for the day, telling him "I'd like to have the full panel."[6] She then asked whether the trial could be postponed until Wednesday, noting that Trump had reminded her of the New Hampshire primary scheduled for Tuesday, and stating "I would need his testimony to be Wednesday."[6] Carroll's lawyer, Roberta Kaplan, said she would prefer to continue on Tuesday because "I'd like to get this trial over with," and Judge Kaplan said he would consider Habba's request rather than deciding in the moment.[6] Commentary by [[ashe-in-america]] in the [[badlands-news-brief]] cast the scheduling as election interference, noting that the recess came only after the judge dismissed Trump's motion for a mistrial over Carroll's admission that she had deleted material evidence.[6]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: The Trump Card ...", URL: https://badlands.substack.com/p/badlands-news-brief-3b0
 2. Badlands Brief — "Con Inc. Introduces a New Candidate ... And Trump Was Right!", URL: https://badlands.substack.com/p/badlands-news-brief-6d6
 3. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951
 4. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
 5. Badlands Brief — "Badlands News Brief: Our Boy Victim & Friends Without Benefits", URL: https://badlands.substack.com/p/badlands-news-brief-a5d
+6. Badlands Brief — "Badlands News Brief: Border Battles, Trump Trials & COVID Comeuppance", URL: https://badlands.substack.com/p/badlands-news-brief-b4a

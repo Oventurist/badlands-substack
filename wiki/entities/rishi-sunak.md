@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [uk, politics, prime-minister]
-sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-news-brief-201.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-af5.md, raw/badlands-news-brief-a82.md]
 confidence: medium
 ---
 
@@ -24,6 +24,18 @@ Badlands Media notes that Brand is one of Sunak's biggest critics, and questions
 
 In July 2025 Sunak was reported to be returning to [[goldman-sachs|Goldman Sachs]] as a senior adviser, his first major role since resigning as Conservative leader following the party's election defeat the previous year.[2] The former prime minister had begun his career in financial services as a summer intern at the investment bank in 2001, leaving as a junior analyst in 2004 to work at a hedge fund.[2] The independent Advisory Committee on Business Appointments, which advises former ministers seeking private-sector roles, had recommended that Sunak not begin the role until at least twelve months after his last day in government, and further advised that for an additional year he should avoid any projects involving lobbying of the UK government or its arm's-length bodies.[2] Sunak announced that he would donate his entire Goldman Sachs salary to the Richmond Project, a charity launched by him and his wife to improve maths skills in the UK.[2]
 
+## National service pledge (May 2024)
+
+In his first major policy announcement after the start of the 2024 general election campaign, Sunak vowed to reintroduce mandatory national service for 18-year-olds if re-elected, presenting it as an effort to provide security and opportunity in "an increasingly uncertain world."[3] Under the plan, 18-year-olds would either serve a 12-month placement with the armed forces or carry out community work, reinforcing his claim to be best placed to increase UK security.[3] "Generations of young people have not had the opportunities or experience they deserve and there are forces trying to divide our society in this increasingly uncertain world," Sunak said.[3]
+
+National service had been abolished in Britain in 1960, but leading figures in the UK military had pressed for young people to be prepared for the possibility of war — notably General Sir [[patrick-sanders|Patrick Sanders]], head of the British Army, who in January 2024 spoke of the need for the UK's "prewar generation" to ready itself through a "whole of nation undertaking."[3]
+
+## Placement among sinking incumbents, June 2024
+
+June 2024 coverage of [[justin-trudeau|Justin Trudeau]]'s by-election defeat grouped the Canadian prime minister with a long list of sinking incumbent governments that left the global pandemic with one foot in the political grave, describing UK Conservative prime minister Rishi Sunak as on track to be obliterated the following week.[4]
+
 ## References
 1. Badlands Brief — "5GW Counter-Offensive - The Censorship Regime and the Road to 2024", URL: https://badlands.substack.com/p/5gw-counter-offensive-the-censorship
 2. Badlands Brief — "Sex-Based Hierarchy, Shadow Banking, & Schrödinger's List", URL: https://badlands.substack.com/p/badlands-news-brief-201
+3. Badlands Brief — "Badlands News Brief: Deliberations Begin as Signal Spreads in the Info War", URL: https://badlands.substack.com/p/badlands-news-brief-af5
+4. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82

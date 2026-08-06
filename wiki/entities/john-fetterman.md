@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, pennsylvania, democrat, government-shutdown, israel]
-sources: [raw/badlands-news-brief-497.md, raw/badlands-news-brief-50a.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-ae1.md]
+sources: [raw/badlands-news-brief-497.md, raw/badlands-news-brief-50a.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-b02.md]
 confidence: medium
 ---
 
@@ -38,6 +38,9 @@ In September 2023 Majority Leader [[chuck-schumer|Chuck Schumer]] ended enforcem
 
 After announcing that he would vote for a House-passed funding bill to avert a government shutdown, Fetterman dismissed criticism from Representative [[alexandria-ocasio-cortez|Alexandria Ocasio-Cortez]] of Senate Democrats who advanced the measure, which would fund the government through September 30.[5] He argued that House liberals calling on the Senate to block the bill had no viable exit strategy for ending a shutdown, and that it was easy for them to take potshots when members of Congress would keep drawing paychecks while tens of thousands of federal workers were furloughed without pay, possibly for weeks.[5] Asked about her claim that Senate Democrats voting to advance the bill were betraying their House colleagues, Fetterman said, "I hope you can relay how little I care about her views on this."[5]
 
+## Mar-a-Lago meeting with Trump (January 2025)
+
+In January 2025, John Fetterman became the first Democratic senator to visit President-elect [[donald-trump|Donald Trump]] at [[mar-a-lago|Mar-a-Lago]], flying to Palm Beach, Florida for an unprecedented sit-down with the incoming president.[6] Trump afterwards told the Washington Examiner's Salena Zito that it had been "a totally fascinating meeting," calling Fetterman "a fascinating man" whose wife was lovely and saying he "couldn't be more impressed."[6] Trump added that the Pennsylvania senator was "a commonsense person ... not liberal or conservative," which he called "beautiful."[6] Asked by Capitol Hill reporters why he had met the Republican president-elect, Fetterman answered flippantly: "I demand that I need to be made pope of Greenland."[6] [[badlands-media|Badlands Media]] commentator [[paul-fleuret|Paul Fleuret]] read Trump's warmth as evidence that Fetterman was "just another actor in the 'show,'" noting that the senator's embrace of the "common sense" framing in preceding months was no coincidence.[6]
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Counterterrorism Co-Ops, Chinese Challenges, & Channels for Children", URL: https://badlands.substack.com/p/badlands-news-brief-497
@@ -45,3 +48,4 @@ After announcing that he would vote for a House-passed funding bill to avert a g
 3. Badlands Brief — "Badlands News Brief: DeSantis Runs, Lake Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-5eb
 4. Badlands Brief — "Badlands News Brief: Missing Planes, Missing Funds & Missing Metrics", URL: https://badlands.substack.com/p/badlands-news-brief-82f
 5. Badlands News Brief — "Defiant Deportations & Canadian Freeloaders", URL: https://badlands.substack.com/p/badlands-news-brief-ae1
+6. Badlands News Brief — "Contentious Confirmations & Conflicted Special Counsels", URL: https://badlands.substack.com/p/badlands-news-brief-b02

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [turkey, weapons-smuggling, syria, benghazi]
-sources: [raw/a-dereliction-of-duty.md, raw/assad-day-in-damascus.md, raw/badlands-brief-0bd.md, raw/badlands-brief-625.md, raw/badlands-brief-7bf.md, raw/badlands-brief-774.md, raw/badlands-brief-990.md, raw/badlands-brief-c07.md, raw/badlands-brief-e60.md, raw/badlands-brief-e9e.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-a65.md]
+sources: [raw/a-dereliction-of-duty.md, raw/assad-day-in-damascus.md, raw/badlands-brief-0bd.md, raw/badlands-brief-625.md, raw/badlands-brief-7bf.md, raw/badlands-brief-774.md, raw/badlands-brief-990.md, raw/badlands-brief-c07.md, raw/badlands-brief-e60.md, raw/badlands-brief-e9e.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-b24.md]
 confidence: medium
 ---
 
@@ -72,6 +72,12 @@ Russian and U.S. officials met for six hours in Turkey on Thursday, February 27,
 
 Badlands commentary argued that, following the Riyadh summit that cast the Saudis and Arabs as peacemakers, the Turkish summit had the potential to bring down [[nato|NATO]] by moving Ankara out of Europe's sphere of influence and into Asia's — a shift consistent with President [[recep-tayyip-erdogan|Recep Tayyip Erdogan]]'s public comments on BRICS, the Shanghai Cooperation Organization, and Russia.[12] The analysis also held that with the IDF moving on Damascus, which the Turks also want, and with Syria described as under Turkish control, Israel could not attack Turkish forces without triggering [[article-5|Article 5]].[12]
 
+## 2025 severing of trade with Israel
+
+In August 2025, Türkiye severed all commercial and economic ties with [[israel|Israel]] and closed its airspace to some Israeli flights, as announced by Foreign Minister [[hakan-fidan|Hakan Fidan]] in an address to the national parliament.[13] The two countries had been at odds for months over Israel's military campaign in Gaza, with Türkiye accusing Israel of committing genocide.[13] Fidan said Türkiye had "completely cut off our trade with Israel" and "closed our ports to Israeli ships," adding that container ships carrying weapons and ammunition to Israel would not be allowed into Turkish ports nor aircraft into Turkish airspace.[13] Turkish-flagged ships were barred from calling at Israeli ports, and Israeli vessels barred from Turkish ports.[13]
+
+Badlands commentator [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] described Turkey as rising as "the vertebrae of the python" squeezing [[benjamin-netanyahu|Netanyahu]]'s Israel, along an axis extending from Azerbaijan through Armenia into Turkey and ultimately Syria, carrying oil and natural gas intended to revive the Syrian economy.[13] He linked the move to the concurrent [[shanghai-cooperation-organization|Shanghai Cooperation Organization]] summit in Tianjin and its North–South Transportation Corridor, predicting eventual Turkish accession to the SCO.[13] He further argued that [[donald-trump|Trump]] had elevated President [[recep-tayyip-erdogan|Erdogan]] over Israel in the December conquest of Syria, and that the IDF, worn down by years of war, could not take on the largest army in the Middle East, especially if backed by Iran.[13]
+
 ## References
 1. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
 2. Badlands Brief — "Assad Day in Damascus", URL: https://badlands.substack.com/p/assad-day-in-damascus
@@ -85,3 +91,4 @@ Badlands commentary argued that, following the Riyadh summit that cast the Saudi
 10. Badlands Brief — "Earned Deportations, Irish Knife Fights, & the Eventual "Liberation" of Jerusalem", URL: https://badlands.substack.com/p/badlands-brief-e9e
 11. Badlands Media — "Badlands News Brief: Exculpatory Trump Card & China's Moves", URL: https://badlands.substack.com/p/badlands-news-brief-0e0
 12. Badlands Brief — "Badlands News Brief: Rug Pulled Reputations, Insubordination, & the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-a65
+13. Badlands Brief — "Badlands News Brief: A Curious Car Crash, Covid Case Rates, & A Culture of Panic and Dread", URL: https://badlands.substack.com/p/badlands-news-brief-b24

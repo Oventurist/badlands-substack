@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [north-korea, russia, ukraine-war, kursk, badlands-brief]
-sources: [raw/badlands-brief-9f2.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-a0c.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-a71.md]
+sources: [raw/badlands-brief-9f2.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-a0c.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-b22.md]
 confidence: medium
 ---
 
@@ -133,6 +133,10 @@ Badlands commentary read the omission of Trump's name as a deliberate signal tha
 
 On October 15, 2024, [[north-korea|North Korea]] blew up the northern sections of the unused road and rail routes that once connected it to [[south-korea|South Korea]], days after Pyongyang claimed the South had flown drones over the capital.[19] The Associated Press described the choreographed demolition as underlining growing anger at South Korea's conservative government and as following Kim's vow to sever relations with the South and abandon the goal of peaceful Korean unification.[19] Observers considered a preemptive large-scale attack unlikely, since near-certain massive retaliation by superior US and South Korean forces would threaten Pyongyang's survival.[19] Badlands contributor Burning Bright argued that Kim, alongside Vladimir Putin and other members of what he called the Sovereign Alliance, would help [[donald-trump|Donald Trump]] actualize the story of "Trump the Peacemaker."[19]
 
+## Announcement of troops for Russia (June 2024)
+
+In late June 2024, Kim announced that he would send North Korean troops to fight alongside Russian forces in [[ukraine|Ukraine]], a move circulated via BRICS-focused accounts on X.[20] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] had joked on the program Breaking History that the gesture must be symbolic, since North Korean troops could not be more effective than battle-hardened Russian troops, but retracted the quip after seeing footage circulating on X — offering an apology to "Mr. Supreme Leader."[20] He folded the deployment into a broader speculative scenario in which [[nato|NATO]] and the [[israel-defense-forces|IDF]] confront a coalition of Arabs, Russians and North Koreans in the Middle East.[20]
+
 ## References
 1. Badlands Brief — "Rigged Maps, Russian Grain, & Maduro's Billable Hours", URL: https://badlands.substack.com/p/badlands-brief-9f2
 2. Badlands Brief — "Preemptive Pardons, Syrian Sanctions, & Preparations for Putin", URL: https://badlands.substack.com/p/badlands-news-brief-09e
@@ -153,3 +157,4 @@ On October 15, 2024, [[north-korea|North Korea]] blew up the northern sections o
 17. Badlands News Brief — "Transition Teams at Home and Abroad ...", URL: https://badlands.substack.com/p/badlands-news-brief-a0c
 18. Badlands Brief — "Badlands News Brief: Rising Demand for DC Defenders & A Sovereign Spring Social", URL: https://badlands.substack.com/p/badlands-news-brief-a34
 19. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71
+20. Badlands Brief — "The Supreme Court Looms Over the First Debate", URL: https://badlands.substack.com/p/badlands-news-brief-b22

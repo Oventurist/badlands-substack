@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [politics, left, democrats, midterms]
-sources: [raw/badlands-brief-165.md, raw/badlands-brief-a84.md, raw/badlands-brief-cc3.md, raw/badlands-news-brief-448.md]
+sources: [raw/badlands-brief-165.md, raw/badlands-brief-a84.md, raw/badlands-brief-cc3.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-b19.md]
 confidence: medium
 ---
 
@@ -42,9 +42,16 @@ The New York City chapter of the DSA organized a November 2, 2025 phone-banking 
 
 Badlands host Ashe in America described the DSA as "the absolute worst" and "the most entitled and economically illiterate political faction in the nation," arguing that the organization runs the Democratic Party in Colorado despite difficulty winning elections, with many of its officeholders obtaining their first terms through vacancy appointments.[4]
 
+## 2024 financial crisis
+
+In January 2024, Bread & Roses — a national caucus of Marxist organizers within the DSA — publicly accused the organization's top leaders of mismanaging funds, leaving the group in a "financial crisis" and facing layoffs.[5] Three caucus members wrote in a January 18 post on The Call, a Bread & Roses publication, that the DSA faced a "big deficit," "a lot of talk about what to cut," and a "seven-figure" hole that was probably "too big to fundraise our way out of."[5]
+
+Coverage noted that the DSA, the country's largest socialist organization, counts Squad members Reps. [[alexandria-ocasio-cortez|Alexandria Ocasio-Cortez]] and [[rashida-tlaib|Rashida Tlaib]] among its ranks, and that it had played a major role in pushing the [[green-new-deal|Green New Deal]] into the highest reaches of the Democratic Party.[5]
+
 ## References
 
 1. Badlands Brief — "Trump Conducts the Chaos as the Uniparty Concentrates Fire", URL: https://badlands.substack.com/p/badlands-brief-165
 2. Badlands Brief — "You're Silly, and You Smell Like Syrup", URL: https://badlands.substack.com/p/badlands-brief-a84
 3. Badlands Brief — "Heretical Garbage, Closet Commies, & Fugitive AIs", URL: https://badlands.substack.com/p/badlands-brief-cc3
 4. Badlands Brief — "Badlands News Brief: Victim Cards, Foreign Inference, & Chessboard Stans", URL: https://badlands.substack.com/p/badlands-news-brief-448
+5. Badlands Brief — "Badlands News Brief: Lake and Abbott Take a Stand as Haley Falls", URL: https://badlands.substack.com/p/badlands-news-brief-b19

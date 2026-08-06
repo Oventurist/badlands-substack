@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, south-carolina, republicans, iran, neoconservatives]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-1ae.md, raw/badlands-brief-2c5.md, raw/badlands-brief-285.md, raw/badlands-brief-509.md, raw/badlands-brief-708.md, raw/badlands-brief-71c.md, raw/badlands-brief-805.md, raw/badlands-brief-8db.md, raw/badlands-brief-b38.md, raw/badlands-brief-b56.md, raw/badlands-brief-be1.md, raw/badlands-brief-c7b.md, raw/badlands-brief-b82.md, raw/badlands-brief-d9f.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-03a.md, raw/badlands-news-brief-06e.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-502.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-98c.md, raw/badlands-news-brief-99e.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-1ae.md, raw/badlands-brief-2c5.md, raw/badlands-brief-285.md, raw/badlands-brief-509.md, raw/badlands-brief-708.md, raw/badlands-brief-71c.md, raw/badlands-brief-805.md, raw/badlands-brief-8db.md, raw/badlands-brief-b38.md, raw/badlands-brief-b56.md, raw/badlands-brief-be1.md, raw/badlands-brief-c7b.md, raw/badlands-brief-b82.md, raw/badlands-brief-d9f.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-03a.md, raw/badlands-news-brief-06e.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-502.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-98c.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-aff.md]
 confidence: low
 ---
 
@@ -152,6 +152,13 @@ Journalist [[bob-woodward|Bob Woodward]]'s book *War*, details of which were rep
 
 In December 2024, following the collapse of the [[bashar-al-assad|Assad]] government and Israel's advance into the Syrian buffer zone, Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] contrasted Graham's public statements on Syria with President [[donald-trump|Donald Trump]]'s instruction not to get involved.[31] The commentary, which referred to the senator as "Lady Lindsay," noted that Graham had in 2018 called Saudi Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] a "thug" and demanded his ouster, and alleged that Graham had helped Senator [[john-mccain|John McCain]] form [[isis|ISIS]] out of the collection of [[cia|CIA]] proxy groups operating across North Africa and the Middle East, with the assistance of [[barack-obama|Barack Obama]] and [[hillary-clinton|Hillary Clinton]].[31] These are claims advanced in Badlands commentary rather than established findings.[31]
 
+
+## March 2025 call to replace Zelensky
+
+After the [[2025-oval-office-clash|February 2025 Oval Office clash]] between President [[donald-trump|Donald Trump]] and Ukrainian President [[volodymyr-zelensky|Volodymyr Zelensky]], Graham said the Ukrainian leader would have to "fundamentally change or go."[32] Despite having been among the most outspoken congressional supporters of Ukraine, he told reporters he doubted Zelensky could recover in American public opinion: "I can't believe most Americans after what they saw today would want to be partners with Zelensky," while still calling Ukraine "an important ally."[32] He added, "They have fought like tigers. I don't want Putin to win. I want to help Ukraine, but it's hard to help people who seem unable to realize the moment they're in."[32]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] responded by cataloguing Graham's history of regime-change advocacy — Iraq from 2003, Libya in 2011, Syria from 2011, Iran from 2015, North Korea from 2017, Russia from 2022 including calls for [[vladimir-putin|Vladimir Putin]]'s assassination — and adding Ukraine in 2025 as the newest entry.[32] She noted that the pivot was a more complicated script than usual given that Graham had been "wearing Zelensky as a backpack up to the moment of the Oval Office smackdown."[32]
+
 ## References
 
 1. Badlands Brief — "Mixed Gender Crews, Trafficking Stings, & Shadow Cabal Reruns", URL: https://badlands.substack.com/p/badlands-brief-029
@@ -203,3 +210,4 @@ Graham said he would wear the warrant as a "Badge of Honor," writing that knowin
 Badlands contributor [[justin-deschamps|Justin Deschamps]] wrote that while war is inherently ugly, Graham's dehumanising posture and evident relish at Russian deaths showed a lack of grace, and argued that the warrant was an effective piece of moral narrative warfare by Moscow — positioning [[vladimir-putin|Vladimir Putin]] and Russia as a competing moral axis against Western globalism while allowing [[donald-trump|Donald Trump]] and his allies to say little.[30]
 30. Badlands Brief — "Badlands News Brief: Debt Debacle, Russia Rages & Woke Whines", URL: https://badlands.substack.com/p/badlands-news-brief-98c
 31. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e
+32. Badlands Brief — "Badlands News Brief: Multipolar Power Projection & European Lamentations", URL: https://badlands.substack.com/p/badlands-news-brief-aff

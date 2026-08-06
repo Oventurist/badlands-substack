@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [us-senate, nominations, cloture, trump-administration]
-sources: [raw/badlands-news-brief-426.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-9cd.md, raw/badlands-news-brief-a50.md]
+sources: [raw/badlands-news-brief-426.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-9cd.md, raw/badlands-news-brief-a50.md, raw/badlands-news-brief-b02.md]
 confidence: high
 ---
 
@@ -53,9 +53,17 @@ At the start of the 119th Congress, Republican sources on Capitol Hill warned th
 [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]], [[tulsi-gabbard|Tulsi Gabbard]] and [[kash-patel|Kash Patel]] all testified before Senate committees on Capitol Hill on Thursday, 30 January 2025, as urgency built to confirm President [[donald-trump|Donald Trump]]'s Cabinet nominations.[5] [[elise-stefanik|Elise Stefanik]], the nominee for United Nations ambassador, had testified before the Foreign Relations Committee the previous week, and the committee voted to advance her nomination to the Senate floor on Thursday.[5] Majority Leader John Thune moved to end Senate deliberations for Energy Secretary nominee Chris Wright and Veterans Affairs Secretary nominee Doug Collins, both of whom awaited a procedural vote ahead of confirmation, while Interior nominee Doug Burgum passed the cloture vote on Wednesday and awaited his confirmation vote.[5] As of that Thursday the Senate had confirmed seven of Trump's Cabinet nominations, including Secretary of State [[marco-rubio|Marco Rubio]], CIA Director [[john-ratcliffe|John Ratcliffe]], Defense Secretary [[pete-hegseth|Pete Hegseth]], Homeland Security Secretary [[kristi-noem|Kristi Noem]], Treasury Secretary [[scott-bessent|Scott Bessent]], Transportation Secretary [[sean-duffy|Sean Duffy]] and EPA Administrator [[lee-zeldin|Lee Zeldin]].[5]
 
 Badlands commentary characterized nine hours of hearings that Thursday as establishment senators panicking at the prospect of losing their secrecy, arguing that the eventual votes would be telling for Senate Republicans who were "overexposed in their defense of powerful lobbyists and the unaccountable surveillance state."[5] A dissenting Badlands contributor dismissed the entire spectacle as "political theater," arguing that elections are fake and that Congress was groveling over votes to confirm nominees to what he called unconstitutional agencies that ought to be disbanded.[5]
+
+## Trump's second-term nominees (January 2025)
+
+By mid-January 2025, President-elect [[donald-trump|Donald Trump]]'s nominees looked markedly safer than they had a month earlier, when [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] faced tough questions over the polio vaccine, prospective director of national intelligence [[tulsi-gabbard|Tulsi Gabbard]] was under fire for her dealings with Syrian leader Bashar al-Assad, and Pentagon nominee [[pete-hegseth|Pete Hegseth]] endured mounting questions about his personal and professional life.[6] With a whirlwind of hearings launching on Capitol Hill, Republicans expressed new confidence that Trump's personnel blitz was back on track thanks to hardball politics, appeals to GOP unity, and personal charm.[6] Senator [[john-cornyn|John Cornyn]] said most Republican senators "are predisposed to let the president have his team absent some extraordinary circumstances," and the leadership's biggest question became how long confirmations would take rather than whether they would succeed, with senators warned to prepare for Friday votes or weekend work.[6]
+
+[[badlands-media|Badlands Media]] provided special event coverage of the hearings, beginning with Hegseth's Secretary of Defense hearing at 9:30 a.m. ET, and argued that the nominees had always been safe because the electorate had given Trump a mandate that the [[us-senate|Senate]] would defy at the cost of its own authority.[6]
+
 ## References
 1. Badlands Brief — "The Fantasy Team & The Gaza Purchase", URL: https://badlands.substack.com/p/badlands-news-brief-426
 2. Badlands News Brief — "Strategy & Micro Protests", URL: https://badlands.substack.com/p/badlands-news-brief-71c
 3. Badlands Brief — "Badlands News Brief: Unlikely Ambassadors, The Ceasefire Accords, & Predatory Cartoonist", URL: https://badlands.substack.com/p/badlands-news-brief-7ed
 4. Badlands Brief — "Badlands News Brief: Energy Elevates Collaboration as the Senate Steals Centerstage", URL: https://badlands.substack.com/p/badlands-news-brief-9cd
 5. Badlands Brief — "Badlands News Brief: Bicameral Puppets & Dark Money Muppets", URL: https://badlands.substack.com/p/badlands-news-brief-a50
+6. Badlands News Brief — "Contentious Confirmations & Conflicted Special Counsels", URL: https://badlands.substack.com/p/badlands-news-brief-b02

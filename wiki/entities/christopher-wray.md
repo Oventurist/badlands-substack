@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fbi, arctic-frost, lawfare, january-6]
-sources: [raw/badlands-news-brief-060.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-780.md, raw/badlands-news-brief-79c.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a40.md]
+sources: [raw/badlands-news-brief-060.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-780.md, raw/badlands-news-brief-79c.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b39.md]
 confidence: medium
 ---
 
@@ -76,6 +76,18 @@ After a long pause, Wray attempted to refer Stefanik to Special Counsel Robert H
 
 In June 2025, Senator [[chuck-grassley|Chuck Grassley]] alleged in a letter to the [[fbi|FBI]] that the bureau under Wray's direction had ordered the destruction of an intelligence document alleging that the Chinese Communist Party plotted to interfere in the 2020 presidential election.[12] The document in question was an intelligence report from the FBI's Albany Field Office claiming China planned to interfere by creating fake mail-in ballots for Democratic candidate Joe Biden; the bureau turned it over to Grassley in response to a request based on legally protected whistleblower disclosures.[12] Grassley sought additional information about the decision to destroy the memo.[12]
 
+## Warning on Chinese infrastructure penetration (January 2025)
+
+A week before stepping down as [[fbi|FBI]] Director, Christopher Wray used a January 2025 interview on CBS's [[60-minutes|60 Minutes]] to disclose that China had penetrated American water treatment plants, the electric grid, and other critical civilian infrastructure, and was lying "in wait" for an opportunity to launch a cyberattack at a time and place of its choosing.[13] Wray said the Chinese cyber program was the largest in the world and had stolen more American personal and corporate data than every other nation combined.[13]
+
+He argued that beyond cyber theft, the "Chinese government's pre-positioning on American civilian critical infrastructure" had not received the public attention it deserved, describing adversary access designed "to wreak havoc and ... inflict real-world harm at a time and place of their choosing."[13] Wray said China had already infiltrated malware into critical American infrastructure.[13]
+
+## Testimony on the Butler shooting (July 2024)
+
+On Wednesday 24 July 2024, FBI Director Christopher Wray said it was not clear whether former president [[donald-trump|Donald Trump]] had been struck by a bullet or by shrapnel when a gunman opened fire at his rally in Butler, Pennsylvania, earlier that month.[14] The FBI was investigating the 13 July shooting, which killed one rally-goer and seriously injured two others before the 20-year-old gunman, [[thomas-matthew-crooks|Thomas Matthew Crooks]], was shot dead by the Secret Service.[14]
+
+Trump, who was rushed offstage with a bloodied ear, had said that night that he was "shot with a bullet that pierced the upper part of my right ear," describing "a whizzing sound, shots, and immediately felt the bullet ripping through the skin" in a post on Truth Social.[14] A week after the shooting his campaign released a doctor's note from Texas Rep. Ronny Jackson, a former White House physician, stating that Trump had sustained a gunshot wound to his right ear that came "less than a quarter of an inch from entering his head," and that he was "doing well… recovering as expected."[14]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Quantum Tunneling, Natural Conflicts, & Pirates for Gaza", URL: https://badlands.substack.com/p/badlands-news-brief-060
@@ -90,3 +102,5 @@ In June 2025, Senator [[chuck-grassley|Chuck Grassley]] alleged in a letter to t
 10. Badlands Brief — "Wray Goes to Sleep, Syria Gets Weird and Xi Gets an Invite", URL: https://badlands.substack.com/p/badlands-news-brief-960
 11. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
 12. Badlands News Brief — "A Constellation of Corruption & A Goldilocks Galaxy", URL: https://badlands.substack.com/p/badlands-news-brief-a40
+13. Badlands News Brief — "Contentious Confirmations & Conflicted Special Counsels", URL: https://badlands.substack.com/p/badlands-news-brief-b02
+14. Badlands Brief — "Biden Says Stuff as Nazis Circle in Ukraine", URL: https://badlands.substack.com/p/badlands-news-brief-b39

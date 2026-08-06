@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [facebook, meta, big-tech, cia, free-speech, dei]
-sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-52b.md, raw/badlands-brief-bce.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-8ce.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-52b.md, raw/badlands-brief-bce.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-b10.md]
 confidence: medium
 ---
 
@@ -65,6 +65,10 @@ In June 2023, a joint investigation by the [[wall-street-journal|Wall Street Jou
 
 In September 2025 the [[general-services-administration|General Services Administration]] added Meta's artificial intelligence system Llama to the list of AI platforms approved for United States government agencies, after determining it met federal security and legal standards.[10] The system is offered free by Meta and can process text, video, images and audio.[10] Separately, a Meta vice president was among those meeting Kazakh President [[kassym-jomart-tokayev|Kassym-Jomart Tokayev]] in New York on September 22, 2025.[10]
 
+## Netflix inbox-access allegations (2024)
+
+Court documents unsealed on March 23, 2024, as part of the [[klein-v-meta-antitrust-lawsuit|Klein v. Meta antitrust class action]] alleged that Meta's Facebook had for nearly a decade allowed [[netflix]] to view users' private direct messages so the streaming company could better tailor its content.[11] The filings claimed the two firms "enjoyed a special relationship," with Facebook granting "bespoke access" to user data and entering "custom partnerships and integrations that helped supercharge Facebook's ad targeting and ranking models" from at least 2011.[11] Lawyers tied the arrangement to the personal relationship between [[mark-zuckerberg|Mark Zuckerberg]] and Netflix co-founder [[reed-hastings|Reed Hastings]], asserting that within a month of Hastings joining Facebook's board the companies signed an "Inbox API" agreement granting Netflix programmatic access to user message inboxes.[11] [[badlands-media|Badlands Media]] treated the disclosure as another entry in a pattern of platforms breaking data-privacy promises, arguing the cycle would continue until users, not companies, own their data.[11]
+
 ## References
 
 1. Badlands Brief — "America Has a CIA-Run Economy", URL: https://badlands.substack.com/p/america-has-a-cia-run-economy
@@ -77,3 +81,4 @@ In September 2025 the [[general-services-administration|General Services Adminis
 8. Badlands Brief — "It Was the Trumpest of TIMEs ...", URL: https://badlands.substack.com/p/badlands-news-brief-61a
 9. Badlands Brief — "The Wall Are Closing in Again! (And Other Stories)", URL: https://badlands.substack.com/p/badlands-news-brief-7ad
 10. Badlands Brief — "Palestinian Promises, Venezuelan Ventures, & Kazakh Considerations", URL: https://badlands.substack.com/p/badlands-news-brief-8ce
+11. Badlands Brief — "Badlands News Brief: Middle Eastern Shenanigans & Dasting Data Dominate", URL: https://badlands.substack.com/p/badlands-news-brief-b10

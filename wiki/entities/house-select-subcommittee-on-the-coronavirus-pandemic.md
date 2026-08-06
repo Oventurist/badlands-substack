@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, oversight, covid-19, wuhan]
-sources: [raw/badlands-news-brief-238.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-3e8.md]
+sources: [raw/badlands-news-brief-238.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-af7.md]
 confidence: medium
 ---
 
@@ -34,7 +34,12 @@ The subcommittee, chaired by Ohio Republican [[brad-wenstrup|Brad Wenstrup]], in
 
 On Tuesday, September 3, 2024, the subcommittee posted a series of statements on X accusing Cuomo of showing "little remorse" and being "shockingly callous" during the closed-door session, quoting him as having said: "…let's say there's a 3,000 [deaths] differential, 2500. Who cares? What difference does it make in any dimension to anyone about anything?"[2]
 
+## "Proximal Origin" memo (March 2023)
+
+On March 5, 2023, the subcommittee released a memo presenting new evidence that [[anthony-fauci|Dr. Anthony Fauci]] had "prompted" the creation of the [[proximal-origin-paper|"Proximal Origin of SARS-CoV-2"]] paper by a cadre of scientists in order to disprove the COVID-19 [[lab-leak-theory|lab-leak theory]].[4] The memo described a February 1, 2020 conference call involving Fauci, [[national-institutes-of-health|NIH]] Director [[francis-collins|Dr. Francis Collins]] and at least eleven other scientists, several of whom warned that the virus may have leaked from a lab in Wuhan and may have been intentionally genetically manipulated, and noted that four of those participants drafted the paper three days later and sent it to Fauci and Collins.[4]
+
 ## References
 
 1. Badlands Media — "Badlands News Brief: Wuhan Leak, AZ Claims & Gender Wars", URL: https://badlands.substack.com/p/badlands-news-brief-238
 2. Badlands Brief — "Badlands News Brief: Sovereign Signals, New(ish) Alliances & Reckonings", URL: https://badlands.substack.com/p/badlands-news-brief-316
+4. Badlands News Brief — "Trump on Wuhan, Flynn Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-af7

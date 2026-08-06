@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [diplomacy, lebanon, israel, ceasefire, white-hats]
-sources: [raw/badlands-news-brief-19a.md, raw/badlands-news-brief-4b9.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-688.md, raw/badlands-news-brief-8ae.md]
+sources: [raw/badlands-news-brief-19a.md, raw/badlands-news-brief-4b9.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-688.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-aed.md]
 confidence: medium
 ---
 
@@ -56,6 +56,12 @@ Badlands commentator [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] descr
 
 The obstacle, in this reading, was [[benjamin-netanyahu|Benjamin Netanyahu]]'s dependence on the most radical elements of Israeli politics — figures associated with [[kahanism|Kahanism]] and the [[smotrich-doctrine|Smotrich Doctrine]] — who would not permit any ceasefire with [[hamas|Hamas]] or Hezbollah because their ideology demands that land.[6] The situation was framed as a showdown between Hochstein and the Jewish supremacist faction, and as part of what the author calls [[multipolar-devolution|Multipolar Devolution]], the [[sovereign-alliance|Sovereign Alliance]] campaign being waged during what he describes as Trump's second term.[6] GhostofBasedPatrickHenry concluded that the work Hochstein was doing would be finished by [[donald-trump|Donald Trump]].[6]
 
+## Lebanon mission with Brett McGurk (October 2024)
+
+In late October 2024, Hochstein and fellow senior Biden adviser [[brett-mcgurk|Brett McGurk]] were reported to be traveling to Israel on Thursday, October 31 in an effort to close a deal that would end the war in Lebanon and allow displaced civilians on both sides of the border to return to their homes.[7] Axios reported that if the pair struck a diplomatic agreement between Israel and [[hezbollah|Hezbollah]] during the visit, it would mark the first significant de-escalation of the regional war since the October 7, 2023 [[hamas|Hamas]] attacks.[7]
+
+Israeli and US officials said they believed that after the blows Hezbollah had suffered in the preceding two months — including the assassination of its leader Hassan Nasrallah — the group was finally willing to disconnect itself from Hamas in Gaza, and that an end to the fighting could be reached within a few weeks.[7] Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] convened a meeting with several ministers and senior leaders of the Israel Defense Forces and the Israeli intelligence services on the Tuesday night beforehand to discuss the potential deal.[7]
+
 ## References
 
 1. Badlands News Brief — "Ceasefires, Olive Branches ... and Scare Events?", URL: https://badlands.substack.com/p/badlands-news-brief-19a
@@ -64,3 +70,4 @@ The obstacle, in this reading, was [[benjamin-netanyahu|Benjamin Netanyahu]]'s d
 4. Badlands Brief — "Trumpian Rug Pulls, Biden Whispers & NATO Panic", URL: https://badlands.substack.com/p/badlands-news-brief-6c4
 5. Badlands Brief — "Badlands News Brief: Threats, Panic and Signal in the Engineered Noise", URL: https://badlands.substack.com/p/badlands-news-brief-688
 6. Badlands Media — "Badlands News Brief: Vance Takes the Stage as Biden Takes the Basement", URL: https://badlands.substack.com/p/badlands-news-brief-8ae
+7. Badlands Brief — "Badlands News Brief: The Garbage Man Cometh to Take out the Trash", URL: https://badlands.substack.com/p/badlands-news-brief-aed

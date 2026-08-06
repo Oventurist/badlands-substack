@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [japan, prime-minister, us-japan-relations, nippon-steel]
-sources: [raw/badlands-news-brief-545.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-94b.md]
+sources: [raw/badlands-news-brief-545.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-b0f.md]
 confidence: medium
 ---
 
@@ -30,8 +30,14 @@ On Monday, July 7, 2025, President [[donald-trump|Donald Trump]] set a 25 percen
 
 Ishiba's departure as prime minister prompted the [[2025-liberal-democratic-party-leadership-election|2025 LDP leadership election]] on October 4, 2025, in which [[sanae-takaichi|Sanae Takaichi]] was chosen to succeed him as party leader, with a parliamentary vote to select his replacement as premier expected on October 15.[3]
 
+## 2025 upper house election defeat
+
+In Japan's upper house election held on Sunday, July 20, 2025, Ishiba's Liberal Democratic Party and its coalition partner Komeito lost their majority in the chamber, leaving the government further beholden to opposition support after a lower house defeat the previous October.[4] The election's biggest surprise was the rise of the populist party [[sanseito|Sanseito]] under [[sohei-kamiya|Sohei Kamiya]], which won 14 seats on a "Japanese First" platform warning of a "silent invasion" of immigrants.[4]
+
+Badlands commentary noted that President [[donald-trump|Donald Trump]] had been engaged in heated trade negotiations with Ishiba, particularly after Trump blocked Nippon Steel's acquisition of U.S. Steel — a deal first blocked by [[joe-biden|Joe Biden]] in January 2025 — and argued that a genuine populist-nationalist movement in Japan could turn the country into a real ally rather than a postwar vassal state.[4]
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Shutdown Consequences, Canadian Propaganda, & Console War Conclusions", URL: https://badlands.substack.com/p/badlands-news-brief-545
 2. Badlands Brief — "Badlands News Brief: ICE Swarms, TikTok Pivots, & Shoes Stay On", URL: https://badlands.substack.com/p/badlands-news-brief-6af
 3. Badlands Brief — "Posse Comitatus & Haggling with Hamas", URL: https://badlands.substack.com/p/badlands-news-brief-94b
+4. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f

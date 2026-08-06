@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [virginia, republican-party, pardons, education]
-sources: [raw/badlands-news-brief-006.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-8dc.md]
+sources: [raw/badlands-news-brief-006.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-aed.md]
 confidence: medium
 ---
 
@@ -30,8 +30,15 @@ In early May 2025, Youngkin asked Republican lieutenant governor nominee [[john-
 
 Those commentators noted Youngkin's background as the former head of the Carlyle Group and characterized him as a Bush-aligned figure whose administration offered no public support for Trump's 2024 campaign, attributing the "heir" narrative to the [[lincoln-project|Lincoln Project]].[4]
 
+## Virginia voter roll purge upheld (October 2024)
+
+Youngkin announced in August 2024 a program to remove noncitizens from Virginia's voter rolls, a plan that a federal judge subsequently halted while ordering 1,600 voters restored.[5] On October 30, 2024, the [[supreme-court-of-the-united-states|Supreme Court]] blocked the lower court's ruling and allowed the program to resume days before the general election, with the court's three liberal justices dissenting.[5]
+
+"This is a victory for commonsense and election fairness," Youngkin said in a statement.[5] "Virginians can cast their ballots on Election Day knowing that Virginia's elections are fair, secure, and free from politically-motivated interference," he added.[5] Because Virginia has same-day voter registration, any eligible voter removed from the rolls remained able to vote on Election Day or during the early voting period.[5]
+
 ## References
 1. Badlands Brief — "NATO Warmongers & Google Searches for a Way Out", URL: https://badlands.substack.com/p/badlands-news-brief-006
 2. Badlands News Brief — "Trump Doubles Down as Kamala Crumbles", URL: https://badlands.substack.com/p/badlands-news-brief-020
 3. Badlands Brief — "Badlands News Brief: The Deep State has a Rough Weekend", URL: https://badlands.substack.com/p/badlands-news-brief-5aa
 4. Badlands Brief — "Badlands News Brief: Gazan Seizures & Gay Porn Scandals", URL: https://badlands.substack.com/p/badlands-news-brief-8dc
+5. Badlands Brief — "Badlands News Brief: The Garbage Man Cometh to Take out the Trash", URL: https://badlands.substack.com/p/badlands-news-brief-aed

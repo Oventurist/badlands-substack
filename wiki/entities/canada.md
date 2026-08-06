@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [canada, trade, globalism, tariffs, north-america]
-sources: [raw/badlands-brief-a84.md, raw/badlands-brief-f02.md]
+sources: [raw/badlands-brief-a84.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-ae1.md]
 confidence: medium
 ---
 
@@ -32,7 +32,15 @@ Amid heightened tensions with the Trump administration — tariff threats, the d
 
 Prime Minister [[mark-carney|Mark Carney]] used his address to the January 2026 [[world-economic-forum|World Economic Forum]] in Davos to describe a "rupture, not a transition" in the [[rules-based-international-order|rules-based international order]] and to call on "middle powers" to unite against great-power coercion.[2] Canada was among the countries publicly confirming participation in [[donald-trump|Trump]]'s [[board-of-peace|Board of Peace]], though it declined to pay the membership contribution.[2] Badlands contributor [[ashe-in-america|Ashe in America]] dismissed the war-game story as further provocation, writing that "Canada isn't real" and calling for the whole of the north to be made "red, white, and blue."[2]
 
+## Carney government and Trump pressure (March 2025)
+
+[[mark-carney|Mark Carney]] became prime minister on Friday, March 14, 2025, sworn in at Rideau Hall with a smaller 24-member cabinet and killing the unpopular consumer carbon levy on his first day, declaring that "the moment is a moment of crisis."[3] He was the first Canadian prime minister never to have been elected to office, and moved quickly toward a general election campaign against Conservative leader [[pierre-poilievre|Pierre Poilievre]] amid a trade war with a U.S. president alternating between tariff threats, pauses, and social-media posts about annexing the country.[3] Carney said at his swearing-in that Canada was built on the bedrock of three peoples — French, English and Indigenous — and is fundamentally different from America, and would "never, ever, in any way shape or form, be part of the United States."[3] His first foreign trip, to Paris and London on Monday, March 17, was designed to double down on partnerships with Canada's two founding countries; a senior official said Canada is a "good friend of the United States but we all know what is going on," while University of Toronto professor emeritus Nelson Wiseman said "the Trump factor towers over everything else Carney must deal with."[3]
+
+Badlands commentary was sharply critical of the Canadian posture. [[ashe-in-america|Ashe in America]] recalled [[donald-trump|Donald Trump]]'s December Truth Social post asking why the United States subsidizes Canada "to the tune of over $100,000,000 a year" and suggesting many Canadians want to become the 51st state to save on taxes and military protection, argued that Canadian ideology is incompatible with American liberty — "collectivist elitists with a monarch on their money" who align more with Europe — and contended that removing subsidies would force change and leave Canadians to decide whether they want to be a real nation, while allowing that the trucker-protest constituency would make suitable countrymen.[3] [[burning-bright|Burning Bright]] wrote that Canadians have always fancied themselves Rivendell elves superior to mortal American men but are in reality more like hobbits, warning that "if the globalists win, there won't be a Canada."[3] An editor's note recorded that Burning Bright was joined on The Narrative by [[matthew-ehret|Matthew Ehret]] to discuss the history of Canada and the argument that it has never been a real country.[3]
+
+
 ## References
 
 1. Badlands Brief — "You're Silly, and You Smell Like Syrup", URL: https://badlands.substack.com/p/badlands-brief-a84
 2. Badlands Brief — "Davos Elites Prepare ... for TRUMP-A-MANIA!", URL: https://badlands.substack.com/p/badlands-brief-f02
+3. Badlands News Brief — "Defiant Deportations & Canadian Freeloaders", URL: https://badlands.substack.com/p/badlands-news-brief-ae1

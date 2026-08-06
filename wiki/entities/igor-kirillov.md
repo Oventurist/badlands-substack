@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, biological-weapons, ukraine, military, briefings]
-sources: [raw/badlands-news-brief-3c3.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-79f.md]
+sources: [raw/badlands-news-brief-3c3.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-b22.md]
 confidence: medium
 ---
 
@@ -36,6 +36,12 @@ Kirillov was killed in December 2024 by a scooter bomb in Moscow, an act Badland
 
 In an October 2023 briefing cited in later coverage, Kirillov said Washington had been "forced" to move dual-use biological research to Africa because of Russian efforts to expose illegal US military biological activities and the deteriorating epidemic situation near European bio-sites.[3] He named [[pentagon|Pentagon]] contractor activity in the [[democratic-republic-of-the-congo|Democratic Republic of the Congo]], Sierra Leone, Cameroon, Uganda and South Africa, and identified the Defense Threat Reduction Agency, the National Security Agency and the [[state-department|US Department of State]] as customers on the part of the US government.[3] He also alleged that unauthorised sample gathering by employees of [[metabiota|Metabiota]] during the 2014 West African Ebola outbreak resulted in live Ebola samples reaching the US Army Medical Research Institute of Infectious Diseases, practices that he said immediately raised questions from the World Health Organisation.[3]
 
+## June 2024 claim of US bioweapons expansion in Africa
+
+On Tuesday, June 25, 2024, Kirillov — head of Russia's Nuclear, Chemical and Biological Protection Forces — claimed that the United States was expanding its biological military presence across Africa following Russia's disruption of similar programs in former Ukrainian territories.[5] "Because Russia has managed to halt the implementation of biological warfare programs in Ukraine's liberated territories, the Pentagon is forced to transfer incomplete research under Ukrainian projects to other regions," he alleged.[5] He highlighted Africa as a new zone of interest for the US Defense Department and related agencies, citing the presence of [[pentagon|Pentagon]] contractors in the [[democratic-republic-of-the-congo|Democratic Republic of the Congo]], Sierra Leone, Cameroon, Uganda and South Africa.[5]
+
+[[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] treated the disclosure as a notable development connecting several of his ongoing threads, writing that Kirillov had publicly disclosed that the [[state-department|US State Department]] and Department of Defense had shifted illegal bioweapons operations to Africa, and that tied to those operations were [[metabiota|MetaBiota]] and [[ecohealth-alliance|EcoHealth Alliance]] along with some twenty other Big Pharma companies — meaning, in his framing, that it all connects back to [[hunter-biden|Hunter Biden]] and Ukraine.[5]
+
 ## Detention of a suspect (December 2024)
 
 On December 18, 2024, Russia said it had detained an Uzbek man who confessed to planting and detonating the bomb that killed Kirillov in Moscow, acting on the instructions of Ukraine's [[security-service-of-ukraine|SBU]] security service.[4] Kirillov, chief of Russia's Nuclear, Biological and Chemical Protection Troops, was killed outside his apartment building on Tuesday, December 17, along with his assistant, when a device attached to an electric scooter detonated; he was the most senior Russian military officer assassinated inside Russia by [[ukraine|Ukraine]], which had accused him of responsibility for chemical weapons use against Ukrainian troops — a charge Moscow denies.[4]
@@ -54,3 +60,4 @@ Incoming Ukraine envoy General [[keith-kellogg|Keith Kellogg]] was asked about t
 2. Badlands Brief — "Federal RICO, Disaster Opportunism & Putin's Peace", URL: https://badlands.substack.com/p/badlands-news-brief-62d
 3. Badlands Brief — "The Biden Era Fades Away as the World is Reshaped", URL: https://badlands.substack.com/p/badlands-news-brief-713
 4. Badlands News Brief — "Johnson's Package Goes Flaccid ... And Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-79f
+5. Badlands Brief — "The Supreme Court Looms Over the First Debate", URL: https://badlands.substack.com/p/badlands-news-brief-b22

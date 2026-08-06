@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [sports, international-organization, olympics, culture-war]
-sources: [raw/are-we-being-distracted.md, raw/badlands-brief-5dc.md, raw/badlands-news-brief-06e.md, raw/badlands-news-brief-4c5.md]
+sources: [raw/are-we-being-distracted.md, raw/badlands-brief-5dc.md, raw/badlands-news-brief-06e.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-b39.md]
 confidence: medium
 ---
 
@@ -40,9 +40,14 @@ At the 2024 Paris Games, the IOC permitted Algerian boxer [[imane-khelif|Imane K
 
 The [[2024-paris-summer-olympics|2024 Paris Summer Olympics]] drew sharp criticism over an opening ceremony directed by Thomas Jolly that featured drag queens, sexualized dancing and a segment widely described as an LGBT recreation of The Last Supper.[4] [[zerohedge|ZeroHedge]] argued that the Games' stated tenets — Community, Diversity and The Collective — amounted to a woke organizing theme, and noted that drag queens and transgender activists had been selected as Olympic torchbearers despite the convention that bearers be chosen for significant community contributions.[4] Gallup polling cited in the coverage projected record-low U.S. viewership for the Paris Games, below even the 2022 Beijing Winter Olympics.[4]
 
+## Steven van de Velde controversy (2024)
+
+On the eve of the opening of the [[2024-paris-summer-olympics|2024 Paris Summer Olympics]], the IOC faced calls for an investigation into how a convicted child rapist had been allowed to compete.[5] Dutch beach volleyball player [[steven-van-de-velde|Steven van de Velde]], convicted in 2016 of raping a British 12-year-old girl, was selected for the Netherlands team, prompting warnings from advocacy groups that sporting bodies were sending a dangerous message to rapists and causing "collateral damage" to victims of sexual abuse.[5] Ciara Bergman, chief executive of [[rape-crisis-england-and-wales|Rape Crisis England & Wales]], called the inclusion "irresponsible," said it created an "enormous sense of impunity," and urged the IOC to investigate how it had been allowed to happen.[5] The IOC gave no indication it would investigate or act, on the basis that Dutch experts "had concluded that there was no risk of him reoffending."[5]
+
 ## References
 
 1. Badlands Brief — "Are We Being Distracted?", URL: https://badlands.substack.com/p/are-we-being-distracted
 2. Badlands Brief — "Gay Ayatollahs & Globalist Fragility", URL: https://badlands.substack.com/p/badlands-brief-5dc
 3. Badlands Brief — "Badlands News Brief: Fake Electionception, Sovereign Alliance Digs & Chick Fights", URL: https://badlands.substack.com/p/badlands-news-brief-06e
 4. Badlands Brief — "Badlands News Brief: Fake Poles, HomOlympics & Deal-Making", URL: https://badlands.substack.com/p/badlands-news-brief-4c5
+5. Badlands Brief — "Biden Says Stuff as Nazis Circle in Ukraine", URL: https://badlands.substack.com/p/badlands-news-brief-b39

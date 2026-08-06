@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [elections, citizenship, courts, vermont, municipal-government]
-sources: [raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-2cb.md]
+sources: [raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-2cb.md, raw/badlands-news-brief-aed.md]
 confidence: medium
 ---
 
@@ -30,7 +30,14 @@ On Monday, January 20, 2025, the [[wyoming-house-of-representatives|Wyoming Hous
 
 Badlands commentator [[ashe-in-america|Ashe in America]] framed the measures as part of a race by red states to restore accurate and verifiable elections before the midterms, contrasting Wyoming — where she said the illegality of migrant votes is "a simple fact of law" — with Colorado, where she argued making the same statement invites accusations of bigotry, civil suits, or prosecution.[2]
 
+## Virginia noncitizen voter roll purge (2024)
+
+Virginia's effort to remove noncitizens from its voter rolls became the highest-profile test of the issue in the 2024 cycle.[3] Governor [[glenn-youngkin|Glenn Youngkin]] announced the program in August 2024; a federal judge halted it and ordered 1,600 voters restored, but on October 30, 2024 the [[supreme-court-of-the-united-states|Supreme Court]] blocked that ruling and allowed the purge to proceed days before the election, with the court's three liberal justices dissenting.[3] Youngkin called the outcome "a victory for commonsense and election fairness."[3] Because Virginia offers same-day voter registration, any eligible voter wrongly removed could still register and vote on Election Day or in the early voting period.[3]
+
+Badlands commentator [[ashe-in-america|Ashe in America]] summarized the legal logic as straightforward: noncitizens do not have voting rights, so Virginia could not violate rights that do not exist.[3] She suggested that a full merits ruling would create precedent useful for blocking election-related [[lawfare|lawfare]], and predicted renewed progressive calls to expand the Supreme Court, while noting that Democratic election attorney [[marc-elias|Marc Elias]] had been enthusiastic about the challenge to the purge.[3]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Archives, Shifty Schiff, PelosiGate and Durham Panic", URL: https://badlands.substack.com/p/badlands-news-brief-2a2
 2. Badlands Brief — "Badlands News Brief: Propagandist Panic. The People Approve.", URL: https://badlands.substack.com/p/badlands-news-brief-2cb
+3. Badlands Brief — "Badlands News Brief: The Garbage Man Cometh to Take out the Trash", URL: https://badlands.substack.com/p/badlands-news-brief-aed

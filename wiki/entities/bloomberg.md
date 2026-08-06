@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, financial-press]
-sources: [raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-a71.md]
+sources: [raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-a82.md]
 confidence: medium
 ---
 
@@ -20,7 +20,12 @@ In October 2023 Bloomberg reported that the waning of the COVID-19 pandemic was 
 
 On October 15, 2024, Bloomberg Editor-in-Chief [[john-micklethwait|John Micklethwait]] interviewed [[donald-trump|Donald Trump]] in partnership with the Economic Club of Chicago, an event bracketed by standing ovations for Trump.[2] Micklethwait noted at the start that [[kamala-harris|Kamala Harris]] had refused to appear to discuss her economic vision.[2] Trump attacked Micklethwait over tariffs — "It must be hard for you to spend 25 years talking about tariffs as being negative and then have somebody explain to you that you're wrong" — and, when confronted with a Wall Street Journal estimate that his economic plan would add more than $7 trillion to the national debt, replied that the paper had "been wrong about everything. And so have you, by the way."[2] Badlands contributor Burning Bright characterized the encounter as Trump walking "into the den of vampires" and telling the financial establishment he was destroying their system, to cheers.[2]
 
+## Reporting on Saudi construction
+
+Bloomberg reported in June 2024, citing [[knight-frank|Knight Frank]] research, that Saudi Arabia was set to become the world's biggest construction market, with output value forecast to reach $181.5 billion by 2028 as part of Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]]'s [[vision-2030|Vision 2030]] diversification drive.[3]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Escalation ... Acceleration ... and Biden", URL: https://badlands.substack.com/p/badlands-news-brief-0f0
 2. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71
+3. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82

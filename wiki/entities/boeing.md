@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [aerospace, corporations, europe, deep-state]
-sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-054.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-721.md]
+sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-054.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-b19.md]
 confidence: medium
 ---
 
@@ -52,6 +52,12 @@ The St. Louis workforce also manufactures the Joint Direct Attack Munition, the 
 
 Badlands commentary questioned the strike's rationale, arguing that bargaining over workweek structure and retirement is misjudged in an industry facing accelerating automation, artificial intelligence and robotics, and connected the dispute to McKinsey's "new operating model for a new world."[7]
 
+## Attribution of the Alaska Airlines door plug blowout (January 2024)
+
+In late January 2024 an industry source told The Seattle Times that the fuselage panel that blew off an [[alaska-airlines|Alaska Airlines]] 737 MAX 9 earlier that month had been removed for repair and then reinstalled improperly by Boeing mechanics on the Renton final assembly line.[8] If verified by the [[national-transportation-safety-board|National Transportation Safety Board]], the account would leave Boeing primarily at fault rather than supplier [[spirit-aerosystems|Spirit AeroSystems]], which had originally installed the plug into the fuselage in Wichita, Kansas.[8] The [[alaska-airlines-flight-1282-door-plug-blowout|door plug blew out]] of Flight 1282 as it climbed out of Portland on January 5, drawing fresh criticism of Boeing's quality control systems and safety culture.[8]
+
+A separate anonymous whistleblower with apparent access to Boeing's manufacturing records for the specific airframe supplied extensive additional detail on an aviation website about how the plug came to be removed and mis-installed.[8] [[simon-esler|Simon Esler]] seized on the insider's line that the error "speaks volumes about the quality culture at certain portions of the business," arguing that Boeing's cultural decline — which he linked to DEI — calls for a conscious return to a culture of exceptionalism, possibly through the parallel economy.[8]
+
 ## References
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
 2. Badlands News Brief — "Fani Hunts Alone as Putin Keeps the Throne", URL: https://badlands.substack.com/p/badlands-news-brief-054
@@ -60,3 +66,4 @@ Badlands commentary questioned the strike's rationale, arguing that bargaining o
 5. Badlands Media — "Badlands News Brief: Irregular Warfare, Washington & So Much Winning", URL: https://badlands.substack.com/p/badlands-news-brief-18e
 6. Badlands Brief — "Trumpian Trials, Proxy State Shenanigans & Vax Backtracks", URL: https://badlands.substack.com/p/badlands-news-brief-6c1
 7. Badlands News Brief — "Post Mortems, Dog Fights, & Flight Risks", URL: https://badlands.substack.com/p/badlands-news-brief-721
+8. Badlands Brief — "Badlands News Brief: Lake and Abbott Take a Stand as Haley Falls", URL: https://badlands.substack.com/p/badlands-news-brief-b19

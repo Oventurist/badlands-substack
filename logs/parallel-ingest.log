@@ -799,3 +799,119 @@ Try rephrasing the request, narrowing the context, or adding a fallback provider
 [03:59:59] STATUS: done=181 failed=4 alive=12/12 finished=0
 [04:00:18] worker5: OK badlands-news-brief-ac6.md in 909s (23 pages cite it)
 [04:00:20] worker5: claimed badlands-news-brief-b01.md
+[04:00:29] STATUS: done=182 failed=4 alive=12/12 finished=0
+[04:00:59] STATUS: done=182 failed=4 alive=12/12 finished=0
+[04:01:29] STATUS: done=182 failed=4 alive=12/12 finished=0
+[04:01:59] STATUS: done=182 failed=4 alive=12/12 finished=0
+[04:02:29] STATUS: done=182 failed=4 alive=12/12 finished=0
+[04:02:59] worker0: OK badlands-news-brief-aff.md in 339s (13 pages cite it)
+[04:02:59] STATUS: done=183 failed=4 alive=12/12 finished=0
+[04:03:01] worker0: claimed badlands-news-brief-b02.md
+[04:03:19] worker4: OK badlands-news-brief-afb.md in 385s (14 pages cite it)
+[04:03:21] worker4: claimed badlands-news-brief-b04.md
+[04:03:23] worker3: OK badlands-news-brief-ac8.md in 1057s (16 pages cite it)
+[04:03:25] worker3: claimed badlands-news-brief-b0d.md
+[04:03:29] STATUS: done=185 failed=4 alive=12/12 finished=0
+[04:03:43] worker6: OK badlands-news-brief-aac.md in 1461s (38 pages cite it)
+[04:03:46] worker6: claimed badlands-news-brief-b0f.md
+[04:03:59] STATUS: done=186 failed=4 alive=12/12 finished=0
+[04:04:29] STATUS: done=186 failed=4 alive=12/12 finished=0
+[04:04:59] STATUS: done=186 failed=4 alive=12/12 finished=0
+[04:05:29] STATUS: done=186 failed=4 alive=12/12 finished=0
+[04:05:59] STATUS: done=186 failed=4 alive=12/12 finished=0
+[04:06:00] worker2: OK badlands-news-brief-a82.md in 2052s (76 pages cite it)
+[04:06:03] worker2: claimed badlands-news-brief-b10.md
+[04:06:29] STATUS: done=187 failed=4 alive=12/12 finished=0
+[04:06:59] STATUS: done=187 failed=4 alive=12/12 finished=0
+[04:07:10] worker8: OK badlands-news-brief-ac7.md in 1291s (12 pages cite it)
+[04:07:14] worker8: claimed badlands-news-brief-b19.md
+[04:07:29] STATUS: done=188 failed=4 alive=12/12 finished=0
+[04:07:59] STATUS: done=188 failed=4 alive=12/12 finished=0
+[04:08:01] worker11: OK badlands-news-brief-ae1.md in 1139s (33 pages cite it)
+[04:08:04] worker11: claimed badlands-news-brief-b1d.md
+[04:08:29] STATUS: done=189 failed=4 alive=12/12 finished=0
+[04:08:59] STATUS: done=189 failed=4 alive=12/12 finished=0
+[04:09:29] STATUS: done=189 failed=4 alive=12/12 finished=0
+[04:09:59] STATUS: done=189 failed=4 alive=12/12 finished=0
+[04:10:29] STATUS: done=189 failed=4 alive=12/12 finished=0
+[04:10:32] worker0: OK badlands-news-brief-b02.md in 443s (30 pages cite it)
+[04:10:34] worker1: OK badlands-news-brief-af5.md in 978s (21 pages cite it)
+[04:10:36] worker0: claimed badlands-news-brief-b22.md
+[04:10:37] worker1: claimed badlands-news-brief-b24.md
+[04:10:37] worker9: OK badlands-news-brief-adc.md in 1339s (34 pages cite it)
+[04:10:40] worker9: claimed badlands-news-brief-b26.md
+[04:10:59] STATUS: done=192 failed=4 alive=12/12 finished=0
+[04:11:29] STATUS: done=192 failed=4 alive=12/12 finished=0
+[04:11:59] STATUS: done=192 failed=4 alive=12/12 finished=0
+[04:12:13] worker7: OK badlands-news-brief-aed.md in 1275s (40 pages cite it)
+[04:12:15] worker7: claimed badlands-news-brief-b2b.md
+[04:12:29] STATUS: done=193 failed=4 alive=12/12 finished=0
+[04:12:59] STATUS: done=193 failed=4 alive=12/12 finished=0
+[04:13:29] STATUS: done=193 failed=4 alive=12/12 finished=0
+[04:13:59] STATUS: done=193 failed=4 alive=12/12 finished=0
+[04:14:29] STATUS: done=193 failed=4 alive=12/12 finished=0
+[04:14:59] STATUS: done=193 failed=4 alive=12/12 finished=0
+[04:15:29] STATUS: done=193 failed=4 alive=12/12 finished=0
+[04:15:59] STATUS: done=193 failed=4 alive=12/12 finished=0
+[04:16:29] STATUS: done=193 failed=4 alive=12/12 finished=0
+[04:16:59] STATUS: done=193 failed=4 alive=12/12 finished=0
+[04:17:29] STATUS: done=193 failed=4 alive=12/12 finished=0
+[04:17:59] STATUS: done=193 failed=4 alive=12/12 finished=0
+[04:18:29] STATUS: done=193 failed=4 alive=12/12 finished=0
+[04:18:59] STATUS: done=193 failed=4 alive=12/12 finished=0
+[04:19:29] STATUS: done=193 failed=4 alive=12/12 finished=0
+[04:19:38] worker10: OK badlands-news-brief-af7.md in 1427s (24 pages cite it)
+[04:19:38] worker4: OK badlands-news-brief-b04.md in 940s (14 pages cite it)
+[04:19:38] worker5: OK badlands-news-brief-b01.md in 1113s (26 pages cite it)
+[04:19:38] worker3: OK badlands-news-brief-b0d.md in 905s (16 pages cite it)
+[04:19:38] worker2: OK badlands-news-brief-b10.md in 551s (13 pages cite it)
+[04:19:38] worker11: OK badlands-news-brief-b1d.md in 530s (17 pages cite it)
+[04:19:40] worker3: claimed badlands-news-brief-b39.md
+[04:19:40] worker5: claimed badlands-news-brief-b40.md
+[04:19:40] worker10: claimed badlands-news-brief-b35.md
+[04:19:40] worker4: claimed badlands-news-brief-b4a.md
+[04:19:40] worker2: claimed badlands-news-brief-b4d.md
+[04:19:40] worker11: claimed badlands-news-brief-b52.md
+[04:19:59] STATUS: done=199 failed=4 alive=12/12 finished=0
+[04:20:30] STATUS: done=199 failed=4 alive=12/12 finished=0
+[04:20:47] worker1: OK badlands-news-brief-b24.md in 605s (21 pages cite it)
+[04:20:49] worker1: claimed badlands-news-brief-b53.md
+[04:21:00] STATUS: done=200 failed=4 alive=12/12 finished=0
+[04:21:30] STATUS: done=200 failed=5 alive=12/12 finished=0
+[04:21:32] worker10: FAIL badlands-news-brief-b35.md in 103s rc=0 report=None cited=0 rate_limit=False backoff=30s
+[04:21:32]   stderr: 
+[04:21:32]   stdout tail: uest (safety refusal — not a Hermes/gateway failure).
+
+Model's explanation: 你好，我无法给到相关内容。
+
+Try rephrasing the request, narrowing the context, or adding a fallback provider with `hermes fallback add`.
+[04:22:00] STATUS: done=200 failed=5 alive=12/12 finished=0
+[04:22:17] worker7: OK badlands-news-brief-b2b.md in 598s (11 pages cite it)
+[04:22:20] worker7: claimed badlands-news-brief-b35.md
+[04:22:24] worker10: claimed badlands-news-brief-b5a.md
+[04:22:30] STATUS: done=201 failed=5 alive=12/12 finished=0
+[04:23:00] STATUS: done=201 failed=5 alive=12/12 finished=0
+[04:23:30] STATUS: done=201 failed=5 alive=12/12 finished=0
+[04:23:47] worker0: OK badlands-news-brief-b22.md in 785s (21 pages cite it)
+[04:23:49] worker0: claimed badlands-news-brief-b5f.md
+[04:24:00] STATUS: done=202 failed=5 alive=12/12 finished=0
+[04:24:29] worker7: FAIL badlands-news-brief-b35.md in 109s rc=0 report=None cited=0 rate_limit=False backoff=30s
+[04:24:29]   stderr: 
+[04:24:29]   stdout tail: uest (safety refusal — not a Hermes/gateway failure).
+
+Model's explanation: 你好，我无法给到相关内容。
+
+Try rephrasing the request, narrowing the context, or adding a fallback provider with `hermes fallback add`.
+[04:24:30] STATUS: done=202 failed=6 alive=12/12 finished=0
+[04:24:47] worker6: OK badlands-news-brief-b0f.md in 1254s (30 pages cite it)
+[04:24:50] worker6: claimed badlands-news-brief-b35.md
+[04:25:00] STATUS: done=203 failed=6 alive=12/12 finished=0
+[04:25:02] worker7: claimed badlands-news-brief-b60.md
+[04:25:30] STATUS: done=203 failed=6 alive=12/12 finished=0
+[04:26:00] STATUS: done=203 failed=6 alive=12/12 finished=0
+[04:26:30] STATUS: done=203 failed=6 alive=12/12 finished=0
+[04:27:00] STATUS: done=203 failed=6 alive=12/12 finished=0
+[04:27:18] worker4: OK badlands-news-brief-b4a.md in 448s (14 pages cite it)
+[04:27:20] worker4: claimed badlands-news-brief-b63.md
+[04:27:30] STATUS: done=204 failed=6 alive=12/12 finished=0
+[04:28:00] STATUS: done=204 failed=6 alive=12/12 finished=0

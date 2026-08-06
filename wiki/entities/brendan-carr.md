@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fcc, telecommunications, regulation, internet, biden-administration]
-sources: [raw/badlands-news-brief-12b.md, raw/badlands-news-brief-1ba.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-8d6.md, raw/badlands-news-brief-9c6.md]
+sources: [raw/badlands-news-brief-12b.md, raw/badlands-news-brief-1ba.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-8d6.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-b01.md]
 confidence: medium
 ---
 
@@ -48,6 +48,10 @@ The letters were addressed to Google's Sundar Pichai, Microsoft's Satya Nadella,
 
 Badlands commentary welcomed the move, noting that Carr had targeted the same organization that had threatened numerous independent media outlets, including Badlands Media itself, and that [[mike-benz|Mike Benz]] had been publicizing NewsGuard's activities for months on X — a development framed as bad news for NewsGuard co-founder-linked figure [[jules-kroll|Jules Kroll]].[6]
 
+## 2024 SNL equal-time complaint
+
+Days before the November 2024 election, Carr — a Republican member of the five-member [[federal-communications-commission|Federal Communications Commission]] who had been nominated to the body by both [[donald-trump|Donald Trump]] and [[joe-biden|Joe Biden]] — said that Vice President [[kamala-harris|Kamala Harris]]'s surprise cameo on [[saturday-night-live|Saturday Night Live]] may have violated the agency's "equal time" rule governing broadcast access for political candidates.[7] Harris appeared in a sketch alongside [[maya-rudolph|Maya Rudolph]], who has portrayed her during the show's 50th season, poking fun at Trump after flying to New York City en route to campaign in Michigan.[7]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: The Establishment is Collapsing from Within", URL: https://badlands.substack.com/p/badlands-news-brief-12b
@@ -56,3 +60,4 @@ Badlands commentary welcomed the move, noting that Carr had targeted the same or
 4. Badlands Media — "Badlands News Brief: The Biden Crime Family Begins to Unravel ...", URL: https://badlands.substack.com/p/badlands-news-brief-505
 5. Badlands Brief — "Badlands News Brief: Inadvertent Israeli Attacks, Delightful Deep Fakes, & A Suing Shaman", URL: https://badlands.substack.com/p/badlands-news-brief-8d6
 6. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6
+7. Badlands Brief — "Badlands News Brief: Marauding, Squirrel-Murdering Psychopaths Panic Ahead of the Election", URL: https://badlands.substack.com/p/badlands-news-brief-b01

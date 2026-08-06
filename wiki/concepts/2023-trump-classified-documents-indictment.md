@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [trump, justice-department, classified-documents, special-counsel, 2023]
-sources: [raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-ac7.md]
+sources: [raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-ac7.md, raw/badlands-news-brief-b26.md]
 confidence: medium
 ---
 
@@ -40,7 +40,20 @@ On Friday, June 23, 2023, special counsel [[jack-smith|Jack Smith]] asked US Dis
 
 Smith simultaneously moved for an order restricting Trump's public statements about the case.[3] Badlands commentator [[justin-deschamps|Justin Deschamps]] argued that the gag request was the more revealing of the two motions, contending that the legal basis of the documents case was weak enough that the [[deep-state|Deep State]] needed to prevent both Trump and the general public from examining it, and that delay would extend the window for hostile media framing before trial.[3]
 
+## The Bedminster audio recording
+
+On June 26, 2023, [[cnn|CNN]] exclusively obtained and aired on "Anderson Cooper 360" the audio recording of the 2021 meeting in Bedminster, New Jersey at which [[donald-trump|Donald Trump]] discussed holding secret documents he had not declassified.[4] The two-minute recording, a critical piece of evidence in special counsel [[jack-smith|Jack Smith]]'s indictment, included new details — among them a moment in which Trump appeared to indicate he was holding a secret Pentagon document containing plans to attack Iran, saying "These are the papers," a quote not included in the indictment.[4]
+
+On the tape Trump and his aides also joked about [[hillary-clinton|Hillary Clinton]]'s emails after Trump described the document as "secret information": a staffer said "Hillary would print that out all the time, you know. Her private emails," and Trump replied, "No, she'd send it to [[anthony-weiner|Anthony Weiner]]," prompting laughter.[4] CNN argued that Trump's references to "these are the papers" and to something "highly confidential" he seemed to be showing others could undercut his claim to Fox News' Bret Baier the previous week that he did not have any documents with him.[4]
+
+## Badlands commentary on the recording
+
+[[justin-deschamps|Justin Deschamps]] wrote that the [[deep-state|Deep State]] media knows how to fixate on narratives, and that CNN alleged the recording was further evidence Trump revealed documents to persons without security clearances.[4] He countered that Trump's status as president allowed him to declassify documents by action rather than declaration alone, and that the legal theory denying a president unilateral declassification authority is dubious and unsupported by precedent — something he argued the media and the Deep State both know.[4] Their bet, he wrote, is that most voters do not fact-check, so a carefully crafted deception still deceives even after correction, which is why sharing the facts remains a duty.[4]
+
+[[burning-bright|Burning Bright]] noted that [[jon-herold|Jon Herold]] had pointed out on Twitter the "staged" feel of the audio, in which Trump ruffles papers so loudly that his words are sometimes hard to make out.[4] Burning Bright tied the episode to Trump's repeated invocation of the [[perfect-phone-call|"Perfect Phone Call"]] with Zelensky and to the [[mar-a-lago-raid|Mar-a-Lago Raid]] as a reverse [[wrap-up-smear|wrap-up smear]], arguing that whenever the "gotcha media" thinks it has caught Trump, "the boomerang comes back around with significantly more force than they were expecting."[4]
+
 ## References
 1. Badlands Brief — "The Wall Are Closing in Again! (And Other Stories)", URL: https://badlands.substack.com/p/badlands-news-brief-7ad
 2. Badlands Brief — "Badlands News Brief: Trump Trolls, Soros Slithers & Flags Fly", URL: https://badlands.substack.com/p/badlands-news-brief-93d
 3. Badlands Brief — "Whose Coup Is It Anyway? ... And Other Questions", URL: https://badlands.substack.com/p/badlands-news-brief-ac7
+4. Badlands Brief — "Badlands News Brief: Trump's Tapes, Putin's Plan & Byrne's Bio", URL: https://badlands.substack.com/p/badlands-news-brief-b26

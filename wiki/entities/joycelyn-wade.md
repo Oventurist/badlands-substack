@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [georgia, fulton-county, divorce-case, fani-willis, nathan-wade]
-sources: [raw/badlands-news-brief-89f.md]
+sources: [raw/badlands-news-brief-89f.md, raw/badlands-news-brief-b4a.md]
 confidence: medium
 ---
 
@@ -18,6 +18,11 @@ In a court filing reported in January 2024, Willis accused Joycelyn Wade of "int
 
 The divorce proceeding brought by Joycelyn Wade ran in parallel with Willis's RICO prosecution, and disclosures made in that case supplied much of the documentary material underlying the allegations against Willis.[1] [[ashe-in-america|Ashe in America]], writing for [[badlands-media|Badlands Media]], argued that Willis's conspiracy theory rested purely on timing and was therefore flimsy, since the pace of disclosure in the divorce case was being driven by the court rather than by Roman.[1]
 
+## January 2024 subpoena stay
+
+On January 22, 2024, Cobb County Superior Court Judge [[henry-thompson]] placed a temporary stay on a subpoena issued by Joycelyn Wade, who had been seeking to depose Fulton County District Attorney [[fani-willis]] that week.[2] Thompson ruled that [[nathan-wade]] should be deposed first, after which he would decide whether Willis possessed unique personal information requiring her to answer questions under oath from Joycelyn Wade's attorneys.[2] At the same hearing the judge unsealed the couple's divorce records, and an evidentiary hearing in the case was set for January 31.[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: The Trump Train Rolls on ... Fake MAGA Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-89f
+2. Badlands Brief — "Badlands News Brief: Border Battles, Trump Trials & COVID Comeuppance", URL: https://badlands.substack.com/p/badlands-news-brief-b4a

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [2024-election, republican-primary, new-hampshire, donald-trump, nikki-haley]
-sources: [raw/badlands-news-brief-89f.md]
+sources: [raw/badlands-news-brief-89f.md, raw/badlands-news-brief-b19.md]
 confidence: medium
 ---
 
@@ -22,6 +22,13 @@ Fox News projected Trump the winner just minutes after the final polls closed in
 
 [[burning-bright|Burning Bright]] extended that reading through a Net Effects lens, describing Trump as a cypher through which systemic patterns are exposed to the "Normie hivemind" of the [[collective-mind|Collective Mind]].[1] He argued that Trump was using the concessions of intra-GOP rivals as stepping stones toward the appearance of a mandate while [[joe-biden|Joe Biden]] continued to falter in the War of Stories, and suggested that the momentum Trump had accumulated as early as January of the cycle amounted to a bold bluff designed to provoke the System into shedding "the last vestiges of its legitimacy mask" through an even more transparent subversion of the democratic process.[1]
 
+## Crossover Democratic participation
+
+Videos circulating after the vote showed Democratic voters attempting to game the Republican contest to derail [[donald-trump|Donald Trump]]'s nomination, and New Hampshire's open rules allowed Democrats to cast Republican primary ballots in large numbers for [[nikki-haley|Nikki Haley]].[2] CNN's exit analysis found that 70 percent of Trump's voters were registered Republicans, while 70 percent of Haley's were registered undeclared voters; she took only 27 percent of registered Republicans.[2]
+
+[[burning-bright|Burning Bright]] argued that the result illustrated the concept of proxy candidates — that parties and candidates function as "shells for the systematized interests that back them" — and that Haley was being used, "by hook or by crook," to expose a [[uniparty|Uniparty]] unified against Trump.[2] In the days after the loss, billionaire donor [[reid-hoffman|Reid Hoffman]] was reported to have stopped funding her campaign.[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: The Trump Train Rolls on ... Fake MAGA Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-89f
+2. Badlands Brief — "Badlands News Brief: Lake and Abbott Take a Stand as Haley Falls", URL: https://badlands.substack.com/p/badlands-news-brief-b19

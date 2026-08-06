@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [epa, green-energy, grants, inflation-reduction-act, corruption]
-sources: [raw/badlands-brief-70c.md]
+sources: [raw/badlands-brief-70c.md, raw/badlands-news-brief-aff.md]
 confidence: medium
 ---
 
@@ -26,5 +26,13 @@ Zeldin said the money flowed to "pass-through entities" connected to former Obam
 
 [[ashe-in-america|Ashe in America]] framed the referrals as a necessary accountability sequel to [[doge|DOGE]]'s exposure of waste, fraud, and abuse, arguing that without transparency and prosecution "the next corrupt scheme will be emboldened to go even harder."[1] [[burning-bright|Burning Bright]] placed the fund within a longer arc in which climate and justice framing served to lock in lower energy densities while laundering political and financial power through the administrative state.[1]
 
+
+## FBI investigation, February 2025
+
+By late February 2025 the [[fbi|Federal Bureau of Investigation]] was reportedly probing the fund for possible fraud, with agents interviewing [[environmental-protection-agency|Environmental Protection Agency]] employees as part of an escalating investigation first reported by The Washington Post and confirmed to the Daily Caller News Foundation by EPA officials.[2] The $20 billion program had awarded billions of dollars to green groups described as loaded with Democratic donors and insiders.[2] EPA Administrator [[lee-zeldin|Lee Zeldin]] had repeatedly voiced concern that the GGRF abused taxpayer dollars to benefit friends of the Biden-era EPA, though some career federal prosecutors reportedly hesitated to advance the investigation when asked.[2]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] wrote that revelations of waste, fraud, and abuse were arriving so quickly they had become easy to gloss over, but that $20 billion remained a great deal of money and that the "green new scam" had long been about directing funds to favored left-leaning companies and charities.[2] She argued that exposure is only the first step and that those who looted the treasury must be prosecuted.[2]
+
 ## References
 1. Badlands Brief — "Trump Taps Surprising New DNI While Media Freaks Out About Everything", URL: https://badlands.substack.com/p/badlands-brief-70c
+2. Badlands Brief — "Badlands News Brief: Multipolar Power Projection & European Lamentations", URL: https://badlands.substack.com/p/badlands-news-brief-aff

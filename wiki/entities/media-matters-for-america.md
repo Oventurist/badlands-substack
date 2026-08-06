@@ -24,6 +24,11 @@ In June 2023 Media Matters published an analysis arguing that [[fox-news|Fox New
 
 [[badlands-media|Badlands Media]] contributor [[burning-bright|Burning Bright]] cited the Media Matters piece deliberately, describing the outlet as "perhaps more representative of the Globalist Deep State machine than any other" media mouthpiece and using its framing as a window into establishment narrative management.[2]
 
+## Lawsuit cleared for trial (August 2024)
+
+On August 30, 2024 a federal judge in Texas ruled that the lawsuit brought by [[elon-musk|Elon Musk]]'s [[x-corp|X]] against Media Matters could proceed to trial, denying the organization's request for dismissal.[3] Judge Reed O'Connor wrote: "Because the Court has personal jurisdiction over Defendants, venue is proper, and Plaintiff has properly pled its claims, Defendants' Motion to Dismiss is denied."[3] X had filed the suit in November 2023 after Musk threatened a "thermonuclear lawsuit" against the left-leaning nonprofit and "all those who colluded" for "completely misrepresenting" the real user experience on the platform.[3] The complaint alleged that Media Matters — founded by Democratic operative David Brock, who left the organization in 2022 — used manipulative and deceptive tactics to convince advertisers such as Apple, IBM and Disney that hateful content was being displayed beside their brands, leading them to pause their X advertising campaigns, and that the group fabricated the results.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Hunter Hunted, Swamp Exposed & Proxies Disabled", URL: https://badlands.substack.com/p/badlands-news-brief-65a
 2. Badlands Brief — "Badlands News Brief: Trump Trolls, Soros Slithers & Flags Fly", URL: https://badlands.substack.com/p/badlands-news-brief-93d
+3. Badlands Brief — "Badlands News Brief: The Free Speech Battlefield Heats Up", URL: https://badlands.substack.com/p/badlands-news-brief-b52

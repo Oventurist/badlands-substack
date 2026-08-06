@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military, advisors, trump-administration, foreign-policy]
-sources: [raw/badlands-brief-257.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-ac8.md]
+sources: [raw/badlands-brief-257.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-ac8.md, raw/badlands-news-brief-af5.md]
 confidence: medium
 ---
 
@@ -46,9 +46,18 @@ In October 2024, Macgregor appeared on Judge Andrew Napolitano's program and com
 
 [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]], who said he completely agreed with Macgregor, extended the analogy to [[benjamin-netanyahu|Benjamin Netanyahu]]'s posture toward the peoples of the Middle East, and described the alliance now materializing there as something the world had never seen — not a caliphate nor an empire, and with no formal governing body over its factions, but a coalition of sovereign Muslim nation-states cooperating against a common enemy.[8]
 
+## Assessment of the Gaza campaign (May 2024)
+
+In interviews with Judge Andrew Napolitano in late May 2024, Macgregor argued that [[hamas|Hamas]] had "made whole" all of its personnel losses sustained since October 7th, thanks to what he characterised as the IDF's clumsy military campaign, which had proven to be a major recruiting tool for the group.[9] He said there was no military plan for preventing a Hamas resurgence in areas deemed "cleared" of hostiles, resulting in the return of Hamas militants to northern Gaza.[9]
+
+Macgregor further argued that the chosen strategy — indiscriminate bombing of urban environments — is the opposite of what a discerning commander would do against guerrillas, since the ruins of a bombed-out city give an enormous advantage to defending infantry who can hide and ambush armor columns forced through limited corridors.[9] He also pointed to activity in the West Bank going unreported to Western audiences by corporate media and governments, and told Napolitano that he believed the [[abraham-accords|Abraham Accords]] are likely dead.[9]
+
+Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] cited these assessments in rebutting [[nikki-haley|Nikki Haley]]'s "Finish Them!" artillery-shell inscription, arguing that destroying an enemy and achieving victory are almost never the same thing where lasting peace is the endgame.[9]
+
 ## References
 
 1. Badlands Brief — "Bicameral Deal-Making and Accelerationism Acknowledged", URL: https://badlands.substack.com/p/badlands-brief-257
+
 2. Badlands Brief — "Badlands News Brief: Fake Candidates, Plea Deals & War Drums", URL: https://badlands.substack.com/p/badlands-news-brief-264
 3. Badlands Brief — "Counterterrorism Co-Ops, Chinese Challenges, & Channels for Children", URL: https://badlands.substack.com/p/badlands-news-brief-497
 4. Badlands Brief — "Badlands News Brief: ICE Swarms, TikTok Pivots, & Shoes Stay On", URL: https://badlands.substack.com/p/badlands-news-brief-6af
@@ -56,3 +65,4 @@ In October 2024, Macgregor appeared on Judge Andrew Napolitano's program and com
 6. Badlands Brief — "Israel Invades, MAGA Sues & Ports Close", URL: https://badlands.substack.com/p/badlands-news-brief-683
 7. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e
 8. Badlands Brief — "Storms both Real and Political Converge in October", URL: https://badlands.substack.com/p/badlands-news-brief-ac8
+9. Badlands Brief — "Badlands News Brief: Deliberations Begin as Signal Spreads in the Info War", URL: https://badlands.substack.com/p/badlands-news-brief-af5

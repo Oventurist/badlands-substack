@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [european-union, trade, institutions]
-sources: [raw/badlands-brief-e15.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-810.md]
+sources: [raw/badlands-brief-e15.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-b02.md]
 confidence: medium
 ---
 
@@ -45,6 +45,9 @@ A February 2025 Politico report described a marked centralization of authority i
 
 On December 18, 2023, the European Commission opened infringement proceedings against [[x-corp|X]] under the [[digital-services-act|Digital Services Act]], the first such probe brought under the law.[7] The Commission said it acted on the basis of its preliminary investigation, including analysis of the risk assessment report X submitted in September, the platform's transparency report published on November 3, and X's replies to a formal request for information which concerned, among other matters, the dissemination of illegal content in the context of [[hamas|Hamas]]' terrorist attacks against Israel.[7] Commissioner [[thierry-breton|Thierry Breton]] framed the action as a response to suspected breaches of X's transparency obligations, its duties to counter illegal content and disinformation, and a "deceptive" user-interface design relating to blue check marks.[7]
 
+## Response to the TurkStream drone attack (January 2025)
+
+The European Commission expressed concern in January 2025 over reports of a thwarted Ukrainian drone strike on a gas pipeline supplying several member states, after Moscow said Kiev's forces had launched nine explosives-laden drones at a section of [[turkstream|TurkStream]] in southern Russia over the preceding weekend.[8] At a Monday press briefing the commission spokesperson for energy, climate and environment, Anna-Kaisa Itkonen, said that "obviously, any attack on energy infrastructure is something that is worrying," adding that the commission had not had particular contacts with the Ukrainian side about the reporting but was monitoring security-of-supply issues in Ukraine, Moldova, and member states.[8]
 
 ## References
 
@@ -55,3 +58,4 @@ On December 18, 2023, the European Commission opened infringement proceedings ag
 5. Badlands Brief — "Musk the Peacemaker, Constitutional Overreach & POTATUS", URL: https://badlands.substack.com/p/badlands-news-brief-670
 6. Badlands Brief — "Trump Teases Saudi Trillions; Biden Bros Embezzled Billions", URL: https://badlands.substack.com/p/badlands-news-brief-745
 7. Badlands Brief — "Badlands News Brief: Trump 2024 Has the Deep State a Little Testy …", URL: https://badlands.substack.com/p/badlands-news-brief-810
+8. Badlands News Brief — "Contentious Confirmations & Conflicted Special Counsels", URL: https://badlands.substack.com/p/badlands-news-brief-b02

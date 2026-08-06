@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [supreme-court, chief-justice, elections, judiciary]
-sources: [raw/badlands-brief-169.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-a65.md]
+sources: [raw/badlands-brief-169.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-aac.md]
 confidence: medium
 ---
 
@@ -53,6 +53,10 @@ During the December 4, 2024 oral arguments in the challenge to Tennessee's ban o
 
 On February 26, 2025, Chief Justice Roberts paused a federal judge's order that had required President [[donald-trump|Donald Trump]]'s administration to pay foreign aid funds to contractors and grant recipients.[9] The interim order placed on hold an action by U.S. District Judge [[amir-ali|Amir Ali]] imposing an 11:59 p.m. deadline that Wednesday night.[9] Roberts provided no rationale for the administrative stay, which afforded the [[supreme-court-of-the-united-states|Supreme Court]] additional time to consider the administration's more formal request to block Ali's ruling.[9]
 
+## Majority opinion in Trump v. United States (2024)
+
+Chief Justice Roberts wrote the majority opinion in [[trump-v-united-states|Trump v. United States]], decided 6-3 on July 1, 2024, holding that a former president is entitled to "absolute immunity from criminal prosecution for actions within his conclusive and preclusive constitutional authority," to "presumptive immunity" for other official acts, and to "no immunity for unofficial acts."[10] He further wrote that [[donald-trump|Donald Trump]] is "absolutely immune" from prosecution for any conduct in the indictment involving his discussions with Justice Department officials, leaving to District Judge [[tanya-chutkan|Tanya Chutkan]] the task of sorting official from unofficial acts in the January 6 case.[10]
+
 ## References
 1. Badlands Brief — "Condemnation, Calibration, & Constitutional Boxes", URL: https://badlands.substack.com/p/badlands-brief-169
 2. Badlands Brief — "Badlands News Brief: World Wealth Whiplash & The Most Secure Memorandum in History", URL: https://badlands.substack.com/p/badlands-news-brief-02a
@@ -63,3 +67,4 @@ On February 26, 2025, Chief Justice Roberts paused a federal judge's order that 
 7. Badlands Brief — "Badlands News Brief: Predictable Pandemics & A Thespian's Next Steps", URL: https://badlands.substack.com/p/badlands-news-brief-4a9
 8. Badlands Brief — "Badlands News Brief: Pardon Me ... No, But Seriously. PLEASE Pardon Me.", URL: https://badlands.substack.com/p/badlands-news-brief-757
 9. Badlands Brief — "Badlands News Brief: Rug Pulled Reputations, Insubordination, & the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-a65
+10. Badlands Brief — "Badlands News Brief: Wins at Home and Deals Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-aac

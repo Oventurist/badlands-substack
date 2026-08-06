@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, cnn, disinformation, world-economic-forum]
-sources: [raw/badlands-news-brief-68f.md, raw/badlands-news-brief-6f7.md]
+sources: [raw/badlands-news-brief-68f.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-b01.md]
 confidence: low
 ---
 
@@ -26,6 +26,13 @@ Two years after being let go amid [[cnn|CNN]]'s reconstruction phase, Brian Stel
 
 Writing for Badlands, [[ashe-in-america|Ashe in America]] responded that in going out into the world to find himself, Stelter discovered that he was in fact CNN all along — appropriate, she argued, given that CNN sits consistently at the bottom of the prime-time cable news ratings.[2] She questioned the strategic aims of a network that had laid off talent and undergone a corporate restructuring only to rehire some of the worst performers and double down on a failed strategy.[2]
 
+## 2024 "MSM Is Dead" Comment
+
+Days before the November 2024 presidential election, Stelter — by then [[cnn|CNN]]'s chief media analyst — shared on X an anonymous television executive's assessment of the stakes for corporate media: "If half the country has decided that Trump is qualified to be president, that means they're not reading any of this media, and we've lost this audience completely. A Trump victory means mainstream media is dead in its current form."[3] [[zerohedge|ZeroHedge]] treated the remark as an inconvenient truth, arguing that trust in corporate media had been sliding for decades and had imploded to record lows, and that history might record the 2020s as the decade the curtain was lifted on a "censorship blob" combining legacy media, government, big tech, nonprofit fact-checkers and globalist billionaires.[3]
+
+[[badlands-media|Badlands Media]] writer [[ashe-in-america|Ashe in America]] responded that institutional change is a lagging indicator of public trust, comparing the situation to print media, which she argued effectively died in the late 1990s though *Newsweek* did not discontinue its printed magazine until 2012.[3] She traced the erosion of press credibility back to 1968, citing the Democratic convention and the Tet Offensive as inflection points at which the public began questioning the media's role in shaping narratives, and noted that media now polls below Congress in approval, with a 2023 Gallup poll finding only 16% of U.S. adults expressing a "great deal" of trust in mass media.[3] Her conclusion was that the death of legacy media had nothing to do with the coming election: like printed *Newsweek* in 2012, "they're already dead," and "the only matter remaining is the eulogy."[3]
+
 ## References
 1. Badlands News Brief — "Bidens, UFOs and Vaccines", URL: https://badlands.substack.com/p/badlands-news-brief-68f
 2. Badlands Brief — "Badlands News Brief: Psyops Abound as the Media Landscape Shifts Rapidly", URL: https://badlands.substack.com/p/badlands-news-brief-6f7
+3. Badlands Brief — "Badlands News Brief: Marauding, Squirrel-Murdering Psychopaths Panic Ahead of the Election", URL: https://badlands.substack.com/p/badlands-news-brief-b01

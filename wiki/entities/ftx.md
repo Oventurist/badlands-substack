@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [crypto, fraud, finance, badlands-news-brief]
-sources: [raw/badlands-news-brief-252.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-4c3.md]
+sources: [raw/badlands-news-brief-252.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-b0f.md]
 confidence: medium
 ---
 
@@ -26,8 +26,13 @@ In a May 8, 2023 filing in Manhattan federal court, founder [[sam-bankman-fried|
 
 On March 28, 2024, founder [[sam-bankman-fried|Sam Bankman-Fried]] was sentenced to 25 years in prison and $11 billion in forfeiture for the fraud and conspiracy that doomed the exchange and its related hedge fund [[alameda-research|Alameda Research]].[3] Badlands contributor [[just-human|Just Human]] noted that other FTX executives had been indicted and flipped against Bankman-Fried, and that FTX, Alameda and related entities were taken from him and entered into bankruptcy by new owners who began a process of securing restitution for victims — with further restitution expected as a consequence of the conviction, though victims would never be made completely whole.[3]
 
+## FTT surge on false pardon report (July 2025)
+
+On Saturday, July 19, 2025, FTX's native token FTT rose about 43 percent to $1.30 after false reports circulated that founder [[sam-bankman-fried|Sam Bankman-Fried]] had received a pardon from President [[donald-trump|Donald Trump]]; no such grant appeared on the Justice Department's clemency website.[4] Bankman-Fried was pursuing a pardon with support from his parents, Joseph Bankman and Barbara Fried, while serving a 25-year sentence for fraud connected to the exchange's collapse.[4]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Epstein Resurfacing, the Uniparty & Election Fraud", URL: https://badlands.substack.com/p/badlands-news-brief-252
 2. Badlands News Brief — "Tucker Returns, Trump Fights & Corruption Reigns", URL: https://badlands.substack.com/p/badlands-news-brief-3e5
 3. Badlands News Brief — "Trump Counters, SBF Pleads & Disney Dies?", URL: https://badlands.substack.com/p/badlands-news-brief-4c3
+4. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f

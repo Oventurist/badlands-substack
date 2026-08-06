@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, author, post-liberal, labor]
-sources: [raw/a-bright-red-line.md, raw/a-look-at-recent-features-84d.md, raw/a-look-at-recent-features.md, raw/a-more-perfect-labor-union.md, raw/a-swan-song-for-the-msm.md, raw/and-iran-iran-so-far-away.md, raw/assad-day-in-damascus.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-blast.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-8f4.md]
+sources: [raw/a-bright-red-line.md, raw/a-look-at-recent-features-84d.md, raw/a-look-at-recent-features.md, raw/a-more-perfect-labor-union.md, raw/a-swan-song-for-the-msm.md, raw/and-iran-iran-so-far-away.md, raw/assad-day-in-damascus.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-blast.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-af7.md]
 confidence: low
 ---
 
@@ -128,6 +128,13 @@ In the March 8, 2023 [[badlands-news-brief|Badlands News Brief]], DeLarme argued
 
 In the same brief he attacked [[cnn|CNN]]'s use of [[gun-violence-archive|Gun Violence Archive]] data to claim more than 100 mass shootings in early 2023, writing that CNN and allied interests would rather Americans face "busloads of fentanyl" than keep a firearm at home, and listing depopulation, launderable federal funding for [[sanctuary-cities|sanctuary cities]], an endless drug war and the prison industrial complex among the agendas served by an unabated flow of drugs and criminals across the border.[24] He added that anti-[[second-amendment|Second Amendment]] groups have always manipulated crime statistics, most cleverly by including suicides and accidents alongside homicides.[24]
 
+## Commentary on Fauci and the pandemic industrial complex (March 2023)
+
+Commenting on the March 2023 congressional allegation that [[anthony-fauci|Anthony Fauci]] prompted the [[proximal-origin-paper|"Proximal Origin"]] paper, DeLarme asked whether Fauci would walk free or whether long-awaited justice would be served, stressing that Fauci is "just one of many" in what he called the [[pandemic-industrial-complex|"pandemic industrial complex"]] — an apparatus employing legions of people across industries and nations, not all of them aware of what they were participating in.[25] He named [[bill-gates|Bill Gates]], [[tedros-adhanom-ghebreyesus|Tedros Ghebreyesus]], Peter Daszak, Shi Zhengli, Rochelle Walensky and [[albert-bourla|Albert Bourla]] among the others, and warned that Fauci must not become a sacrificial lamb offered to placate the masses while the system he helped create continued unabated.[25]
+
+DeLarme tied the moment to [[joe-biden|Biden]]'s interest in [[who-pandemic-accord|pandemic accords]] that he said would let the [[world-health-organization|WHO]] circumvent the Constitution in the name of "global health," and urged the [[house-oversight-committee|House Oversight Committee]] to also examine the promotion of Remdesivir alongside the downplaying of cheap alternatives such as hydroxychloroquine and [[ivermectin|Ivermectin]], so that any fall of Fauci would vindicate those who had staked their reputations on those treatments.[25]
+
+
 ## References
 
 1. Badlands Brief — "A Bright Red Line", URL: https://badlands.substack.com/p/a-bright-red-line
@@ -154,3 +161,4 @@ In the same brief he attacked [[cnn|CNN]]'s use of [[gun-violence-archive|Gun Vi
 22. Badlands Brief — "Badlands News Brief: Trump Defiant, Biden Protected & Woke Worn", URL: https://badlands.substack.com/p/badlands-news-brief-7a7
 23. Badlands Brief — "Badlands News Brief: Putin Postures, Voting Matters & J6 Subpoenas", URL: https://badlands.substack.com/p/badlands-news-brief-8c5
 24. Badlands Brief — "Badlands News Brief: January 6 and Nord Stream Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-8f4
+25. Badlands News Brief — "Trump on Wuhan, Flynn Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-af7

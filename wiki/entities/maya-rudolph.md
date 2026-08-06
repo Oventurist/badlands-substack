@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, comedy, saturday-night-live, 2024-election]
-sources: [raw/badlands-news-brief-55f.md, raw/badlands-news-brief-8f3.md]
+sources: [raw/badlands-news-brief-55f.md, raw/badlands-news-brief-8f3.md, raw/badlands-news-brief-b01.md]
 confidence: medium
 ---
 
@@ -22,6 +22,11 @@ Reaction to the portrayal was widely read as politically significant rather than
 
 In January 2023, [[mars-incorporated|Mars]] announced that Rudolph would replace the M&M's "spokescandies" mascots, whose inclusivity-oriented makeover had provoked a major consumer backlash.[2] The announcement, made on January 23, 2023, followed sustained criticism of the politicization of the candy brand and was reported by [[the-epoch-times|The Epoch Times]] and [[zerohedge|ZeroHedge]].[2]
 
+## 2024 Harris cameo
+
+Rudolph portrayed Vice President [[kamala-harris|Kamala Harris]] throughout the 50th season of [[saturday-night-live|Saturday Night Live]], and days before the November 2024 election she appeared in a sketch alongside Harris herself, who made a surprise cameo poking fun at [[donald-trump|Donald Trump]] while traveling to a campaign stop in Michigan.[3] The appearance drew a statement from [[federal-communications-commission|FCC]] commissioner [[brendan-carr|Brendan Carr]] that it may have violated the agency's "equal time" rule.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: The Machine Grows Desperate as Threats to Trump Increase", URL: https://badlands.substack.com/p/badlands-news-brief-55f
 2. Badlands Brief — "Badlands News Brief: FBI Charges, Exorcisms and ... Woke M&M's?", URL: https://badlands.substack.com/p/badlands-news-brief-8f3
+3. Badlands Brief — "Badlands News Brief: Marauding, Squirrel-Murdering Psychopaths Panic Ahead of the Election", URL: https://badlands.substack.com/p/badlands-news-brief-b01

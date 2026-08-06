@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [election-integrity, 2020-election, badlands-brief]
-sources: [raw/badlands-brief-2c0.md, raw/badlands-brief-5ba.md, raw/badlands-brief-b34.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-8fd.md]
+sources: [raw/badlands-brief-2c0.md, raw/badlands-brief-5ba.md, raw/badlands-brief-b34.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-b26.md]
 confidence: medium
 ---
 
@@ -38,6 +38,16 @@ Badlands contributor [[burning-bright|Burning Bright]] highlighted that Byrne fo
 
 In December 2025 Badlands host Ashe in America announced that Byrne would join her and CannCon on Why We Vote to discuss the Venezuelan election fraud story then circulating widely online.[6] She traced the thread from filings in Tina Peters' First Amendment appeal through a Lara Logan interview to reporting by Emerald Robinson, which she said placed Byrne at the center of the matter.[6]
 
+## Capitol Times Magazine disclosures (June 2023)
+
+In late June 2023 Byrne told followers that a major disclosure was imminent, and on Monday, June 26 he briefly posted an article of more than eighty pages published as the inaugural feature of [[capitol-times-magazine|Capitol Times Magazine]], with a foreword by General [[michael-flynn|Michael Flynn]] and a cover presenting Byrne as a "DHS Domestic Extremist."[7]
+
+Much of the piece recapped Byrne's prior disclosures — his affair with [[maria-butina|Maria Butina]], his role in what he describes as a blackmail scheme against [[hillary-clinton|Hillary Clinton]], and his self-description as an eager intelligence asset working in the cause of peace — while adding new color and detail.[7] He recounted, for example, that the United States government signed off on his fictional plan to rape and murder Butina, and asserted for the first time that when the FBI dropped the sting on Clinton, agents also threatened his life.[7]
+
+Two disclosures were entirely new. First, Byrne wrote that "in 2006, 300 million Americans elected a Senate, which choose a Senate Judiciary Committee, which chose a chairman, who told me their power transcended everything else within government, systemic corruption was taking over the US government, and the country needed me to disrupt it," naming a bipartisan group of senators who engaged him that included [[chuck-grassley|Chuck Grassley]].[7] Second, he claimed that in the fall of 2021 [[hunter-biden|Hunter Biden]] approached the Iranian government with an offer to unfreeze $8 billion held in a South Korean bank account in exchange for $800 million funneled into a numbered account, telling his interviewer that the characterization of the Bidens seeking an Iranian bribe — known to the U.S. government since December 2021 — was "100% correct."[7]
+
+Byrne insists he is not a spy but a patriot honorably serving his country, and [[ashe-in-america|Ashe in America]] wrote that the piece "reads like the confessions of a spy" and that "his confession should set the establishment on fire."[7] Byrne reportedly testified under oath to all of the information in the piece before the [[january-6-committee|January 6 Committee]], which apparently omitted a substantial portion from its final report.[7] He removed the article shortly after posting it on Telegram, likely because of copy errors throughout that appeared to stem from an issue with tracked changes.[7]
+
 ## References
 1. Badlands Brief — "Southern Hospitality Superseded Plus Cross Burning", URL: https://badlands.substack.com/p/badlands-brief-2c0
 2. Badlands Brief — "Guardians, Shields, & Iranian House Arrest", URL: https://badlands.substack.com/p/badlands-brief-5ba
@@ -45,3 +55,4 @@ In December 2025 Badlands host Ashe in America announced that Byrne would join h
 4. Badlands Brief — "Badlands News Brief: Victim Cards, Foreign Inference, & Chessboard Stans", URL: https://badlands.substack.com/p/badlands-news-brief-448
 5. Badlands Brief — "Badlands News Brief: A New Golden Age Begins ...?", URL: https://badlands.substack.com/p/badlands-news-brief-8bd
 6. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
+7. Badlands Brief — "Badlands News Brief: Trump's Tapes, Putin's Plan & Byrne's Bio", URL: https://badlands.substack.com/p/badlands-news-brief-b26

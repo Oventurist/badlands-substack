@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, alternative-media, truth-community]
-sources: [raw/badlands-media-weekly-show-schedule.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-44c.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-7c5.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-a31.md]
+sources: [raw/badlands-media-weekly-show-schedule.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-44c.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-7c5.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b02.md]
 confidence: high
 ---
 
@@ -148,6 +148,14 @@ In its News Brief for Thursday, April 11, 2024, the Badlands Media team hand-pic
 
 The August 8, 2025 News Brief promoted the debut of Burning Bright Publishing, whose first novel, Saving Seoul, was described as a martial arts epic about fighter Akio Prince battling a crime syndicate in a near-future Far East and the opening volume of the Sword Punk Trilogy; a Kickstarter offering a signed, leatherbound collector's edition ran through August 31 at BadlandsMedia.tv/SwordPunk under the banner "Join the War of Stories."[23] The same edition announced a new trailer from [[brad-zerbo|Brad Zerbo]] for [[codex-911|CODEX 9/11]], set to premiere the following Saturday in Deadwood alongside the GART gathering, with virtual tickets sold through the Badlands events page.[23] The brief carried its standard note that opinions expressed are those of the authors and do not necessarily reflect the positions of Badlands Media.[23]
 
+## June 26, 2024 News Brief
+
+The June 26, 2024 edition of the Badlands News Brief, headlined "Everyone's Got a Plan ... Until They Get Trump'd," covered news from Tuesday, June 25, with items on the suspension of [[hunter-biden|Hunter Biden]]'s law license, [[benjamin-netanyahu|Benjamin Netanyahu]]'s coalition crisis, a reported Trump plan for Ukraine, the [[dagestan|Dagestan]] attacks and the Il-76 shootdown investigation, [[justin-trudeau|Justin Trudeau]]'s by-election defeat, the Saudi construction boom, and warnings about cyber attacks on critical infrastructure, plus bonus items on Trump's gag order, Kenya's parliament protests and [[hillary-clinton|Hillary Clinton]]'s debate op-ed.[24] Contributions came from [[ashe-in-america|Ashe in America]], [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] and [[burning-bright|Burning Bright]].[24]
+
+## Coverage of the January 2025 confirmation hearings
+
+Badlands Media announced special event coverage of the Trump cabinet [[senate-confirmation-process|Senate confirmation hearings]] beginning at 9:30 a.m. ET, carried on Rumble, with [[pete-hegseth|Pete Hegseth]]'s Secretary of Defense hearing first up.[25] Writing in the accompanying News Brief, [[ashe-in-america|Ashe in America]] argued the nominees had always been safe and that the outlet was looking forward to getting to know them and to learning about their strategies for the coming months, rather than watching "regime puppets" attempt to tarnish them.[25] The same edition of the Badlands News Brief carried commentary from [[jon-herold|Jon Herold]] on the [[david-weiss|David Weiss]] report, [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] on the [[jack-smith|Jack Smith]] report and Israeli coalition politics, [[burning-bright|Burning Bright]] on NATO and "the convergence of reality layers," and [[paul-fleuret|Paul Fleuret]] on [[john-fetterman|John Fetterman]], and was sponsored by River Bitcoin.[25]
+
 ## References
 1. Badlands Media — "Badlands Media Weekly Show Schedule", URL: https://badlands.substack.com/p/badlands-media-weekly-show-schedule
 2. Badlands Brief — "Badlands News Brief: Tracking Resignations, Scare Events & the Death of Taxes", URL: https://badlands.substack.com/p/badlands-news-brief-017
@@ -172,3 +180,5 @@ The August 8, 2025 News Brief promoted the debut of Burning Bright Publishing, w
 21. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
 22. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38
 23. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
+24. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
+25. Badlands News Brief — "Contentious Confirmations & Conflicted Special Counsels", URL: https://badlands.substack.com/p/badlands-news-brief-b02

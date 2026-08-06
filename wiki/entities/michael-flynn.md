@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military, cbdc, intelligence, national-security]
-sources: [raw/are-we-entering-the-millennial-reign.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-579.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-af7.md]
+sources: [raw/are-we-entering-the-millennial-reign.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-579.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-b26.md]
 confidence: low
 ---
 
@@ -80,7 +80,12 @@ Coverage recounted that Flynn, a former head of the [[defense-intelligence-agenc
 
 Badlands contributor [[justin-deschamps|Justin Deschamps]] argued that because the truth about [[russiagate-hoax|Russiagate]] had been exposed — namely that the use of FISA powers and other official investigative bodies against Flynn had no basis in fact or process — damages could now be pursued.[13] He judged that $50 million was unlikely to have any major impact on the intelligence community Flynn had pledged to reform, but that a court ruling validating Flynn's claims against the intelligence apparatus would itself be a major victory and would allow the [[fifth-generation-warfare|fifth-generation war]] against the [[deep-state|Deep State]] and globalists to advance public understanding of institutional corruption.[13] Deschamps added that an unfavourable outcome would not cripple those forces either, and would instead constitute a further display of corruption that fosters the disillusionment he considered necessary to erode public support for the system.[13]
 
+## Foreword to Patrick Byrne's Capitol Times article
+
+Flynn wrote the foreword to the more-than-eighty-page article by [[patrick-byrne|Patrick Byrne]] that headlined the inaugural issue of [[capitol-times-magazine|Capitol Times Magazine]] in June 2023.[14] In it he stated unequivocally, "Patrick's story is for real; he's for real, and the corruption he's exposed is for real, and it only gets worse the further you read."[14]
+
 ## References
+
 1. Badlands Brief — "Are We Entering the Millennial Reign?", URL: https://badlands.substack.com/p/are-we-entering-the-millennial-reign
 2. Badlands News Brief — "The Walz Cycle Consumes Itself as Tensions Pause", URL: https://badlands.substack.com/p/badlands-news-brief-0ad
 3. Badlands Brief — "Badlands News Brief: Democrats in Disarray as Globalists Bend the Knee", URL: https://badlands.substack.com/p/badlands-news-brief-099
@@ -94,3 +99,4 @@ Badlands contributor [[justin-deschamps|Justin Deschamps]] argued that because t
 11. Badlands Brief — "Badlands News Brief: “Terrifying” Trade Alliances, Pedagogue Payouts, & A Bondi Barn Burner", URL: https://badlands.substack.com/p/badlands-news-brief-7bb
 12. Badlands Brief — "Badlands News Brief: Saudi Scoops, Slender Stabbers, & Scorned Scouts", URL: https://badlands.substack.com/p/badlands-news-brief-824
 13. Badlands News Brief — "Trump on Wuhan, Flynn Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-af7
+14. Badlands Brief — "Badlands News Brief: Trump's Tapes, Putin's Plan & Byrne's Bio", URL: https://badlands.substack.com/p/badlands-news-brief-b26

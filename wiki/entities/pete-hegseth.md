@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [defense, trump-administration, pentagon, industrial-base]
-sources: [raw/badlands-brief-311.md, raw/badlands-brief-52f.md, raw/badlands-brief-5ba.md, raw/badlands-brief-67a.md, raw/badlands-brief-686.md, raw/badlands-brief-708.md, raw/badlands-brief-774.md, raw/badlands-brief-d17.md, raw/badlands-brief-e8d.md, raw/badlands-brief-e9e.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-433.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-592.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-763.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-ac6.md]
+sources: [raw/badlands-brief-311.md, raw/badlands-brief-52f.md, raw/badlands-brief-5ba.md, raw/badlands-brief-67a.md, raw/badlands-brief-686.md, raw/badlands-brief-708.md, raw/badlands-brief-774.md, raw/badlands-brief-d17.md, raw/badlands-brief-e8d.md, raw/badlands-brief-e9e.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-433.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-592.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-763.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-ac6.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b24.md]
 confidence: medium
 ---
 
@@ -160,6 +160,14 @@ As Defense Secretary, Hegseth praised the establishment of the restricted Nation
 
 On Thursday, November 13, 2025, Hegseth announced [[operation-southern-spear|Operation Southern Spear]] in a post on X, a military operation against "narcoterrorists" launched amid ongoing tensions with Venezuela and strikes on alleged cartel vessels.[32] He wrote that the mission, "led by Joint Task Force Southern Spear and [[southcom|SOUTHCOM]]," would defend the homeland, remove narco-terrorists from the hemisphere, and secure the United States "from the drugs that are killing our people," adding that "the Western Hemisphere is America's neighborhood – and we will protect it."[32] Hegseth did not specify whether the operation would expand on the strikes against alleged cartel vessels in international waters of the Caribbean Sea, in which the United States had destroyed at least 20 boats and killed 80 people since September 2025.[32]
 
+## Confirmation hearing (January 2025)
+
+Pete Hegseth's hearing to become Secretary of Defense was the first of the second Trump administration's cabinet confirmation hearings, scheduled for 9:30 a.m. ET on Tuesday, January 14, 2025 and carried as a special event by [[badlands-media|Badlands Media]].[33] A month earlier the top Pentagon nominee had suffered through mounting questions about his personal and professional life, but by the eve of the hearings Republicans were more confident than ever that Trump's personnel slate was back on track.[33]
+
+## Counter-drone task force
+
+In 2025, Hegseth announced the creation of a new Department of Defense task force to counter drone threats and keep U.S. airspace safe, saying the department wanted to address a growing threat and improve protection of people and equipment at home and overseas.[34] "We're moving fast – cutting through bureaucracy, consolidating resources, and empowering this task force with the utmost authority to outpace our adversaries," he said. "We will innovate, we will lead and we will win."[34] He directed Secretary of the Army [[dan-driscoll|Dan Driscoll]] to establish [[joint-interagency-task-force-401|Joint Interagency Task Force 401]], which a [[pentagon|Pentagon]] memo said would gather top talent from across agencies to address the threat posed by unmanned aircraft systems.[34]
+
 ## References
 
 1. Badlands Brief — "Massie Faces Massive Loss as Zionists Get Twitchy", URL: https://badlands.substack.com/p/badlands-brief-311
@@ -194,3 +202,5 @@ On Thursday, November 13, 2025, Hegseth announced [[operation-southern-spear|Ope
 30. Badlands Brief — "Posse Comitatus & Haggling with Hamas", URL: https://badlands.substack.com/p/badlands-news-brief-94b
 31. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
 32. Badlands Brief — "Badlands News Brief: Epsteinian Psyops, Mortgage Madness and Caribbean Chaos", URL: https://badlands.substack.com/p/badlands-news-brief-ac6
+33. Badlands News Brief — "Contentious Confirmations & Conflicted Special Counsels", URL: https://badlands.substack.com/p/badlands-news-brief-b02
+34. Badlands Brief — "Badlands News Brief: A Curious Car Crash, Covid Case Rates, & A Culture of Panic and Dread", URL: https://badlands.substack.com/p/badlands-news-brief-b24

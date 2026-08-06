@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [elections, georgia, 2020-election]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-695.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-a15.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-695.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-b19.md]
 confidence: low
 ---
 
@@ -44,6 +44,12 @@ A spokesman for Raffensperger's office, Mike Hassinger, struck a more cautious n
 
 On March 13, 2024, Fulton County Superior Court Judge Scott McAfee quashed six counts of the Georgia 2020 election interference indictment, among them the charges arising from Donald Trump's phone call to Raffensperger, along with counts related to the defendants' oaths of office.[6] Badlands writer Ashe in America observed that while the RICO charge remained in place and the case was proceeding, the phone call had been arguably the strongest part of the state's case, making its removal significant.[6]
 
+## State Election Board oversight fight (January 2024)
+
+In January 2024 a proposed bill to remove Raffensperger from his role on the [[georgia-state-election-board|State Election Board]] passed the [[georgia-senate|Georgia Senate]] Ethics Committee, over the objections of his lawyer [[charlene-mcgowan|Charlene McGowan]].[7] McGowan argued there was no precedent for removing the secretary of state from the board or for establishing oversight over him, writing to the bill's sponsor that "giving a board of unelected bureaucrats unchecked power over the state's executive branch is a dangerous policy proposal."[7] The measure would also have permitted the board to investigate Raffensperger, who had gained national attention for defending the integrity of Georgia's 2020 election.[7] Its sponsor, Republican State Sen. [[max-burns|Max Burns]], said supporters were "trying to provide reasonable oversight of a process that affects every citizen of Georgia," and denied the proposal was unconstitutional.[7]
+
+[[ashe-in-america|Ashe in America]] wrote that the episode revealed the man: in dismissing the State Election Board as unelected bureaucrats, McGowan — speaking for the secretary — had undermined public trust in the very body meant to bestow confidence in Georgia's elections and "said the quiet part out loud."[7] She called Raffensperger "objectively corrupt" and a candidate for criminal charges over his administration of Georgia elections, argued he should be removed from office in a manner permitting prosecution, and urged that any new election legislation prioritize decentralization of oversight and administration to the counties, on the grounds that centralization creates complexity and complexity hides corruption.[7]
+
 ## References
 1. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
 2. Badlands Brief — "Election Bombshells, Peace Board Bangers, & Clintons in Contempt", URL: https://badlands.substack.com/p/badlands-brief-695
@@ -51,3 +57,4 @@ On March 13, 2024, Fulton County Superior Court Judge Scott McAfee quashed six c
 4. Badlands Brief — "Badlands News Brief: Election Fraud Starts Early While the CIA Whines", URL: https://badlands.substack.com/p/badlands-news-brief-3bc
 5. Badlands Brief — "Badlands News Brief: A New Golden Age Begins ...?", URL: https://badlands.substack.com/p/badlands-news-brief-8bd
 6. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
+7. Badlands Brief — "Badlands News Brief: Lake and Abbott Take a Stand as Haley Falls", URL: https://badlands.substack.com/p/badlands-news-brief-b19

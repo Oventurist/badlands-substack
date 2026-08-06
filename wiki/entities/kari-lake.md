@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [arizona, elections, republican-party, election-integrity]
-sources: [raw/an-sos-from-ground-zero.md, raw/arizona-earthquake.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-862.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-a3c.md]
+sources: [raw/an-sos-from-ground-zero.md, raw/arizona-earthquake.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-862.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-b19.md]
 confidence: medium
 ---
 
@@ -74,6 +74,12 @@ Lake won Arizona's Republican Senate primary on Tuesday, July 30, 2024, as proje
 
 Lake, an ally of former President [[donald-trump|Donald Trump]] who echoed his claims about the 2020 election being stolen, had outraised Gallego and attacked him on crime and immigration.[9] Arizona was described as a critical battleground state in the 2024 presidential race whose Senate outcome could tilt the balance of power in November.[9]
 
+## DeWit resignation (January 2024)
+
+On January 24, 2024, [[arizona-republican-party|Arizona GOP]] chairman [[jeff-dewit|Jeff DeWit]] resigned a day after Lake's camp released the leaked audio in which he appeared to offer her money to exit the 2024 Senate race.[10] DeWit said he had received "an ultimatum from Lake's team: resign today or face the release of a new, more damaging recording," and that he was resigning "as Lake requested," hoping she would honor a commitment to cease her attacks.[10] The recording dated from March 2023, and the state party had been split over Lake's continued insistence, pressed through repeated lawsuits, that she lost the 2022 governor's race because of election irregularities.[10]
+
+Badlands writer [[simon-esler|Simon Esler]] argued that the episode vindicated so-called conspiracy theorists, noting that the released call named "powerful people … from back east" desperate to remove Lake from politics entirely.[10] He held that Lake's record of political independence combined with her support for [[donald-trump|Donald Trump]] made her a force in exposing the [[uniparty|NWO Uniparty]], and questioned why DeWit appeared so unfazed at being exposed — asking whether his landing spot in the business world had been secured for him as payment.[10]
+
 ## References
 
 1. Badlands Brief — "An SOS From Ground Zero", URL: https://badlands.substack.com/p/an-sos-from-ground-zero
@@ -85,3 +91,4 @@ Lake, an ally of former President [[donald-trump|Donald Trump]] who echoed his c
 7. Badlands Brief — "Badlands News Brief: The Trump Train Rolls on ... Fake MAGA Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-89f
 8. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
 9. Badlands Brief — "Badlands News Brief: Escalation, Litigation & Sovereign Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a3c
+10. Badlands Brief — "Badlands News Brief: Lake and Abbott Take a Stand as Haley Falls", URL: https://badlands.substack.com/p/badlands-news-brief-b19

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [agency, fda, medical-devices, regulation]
-sources: [raw/badlands-brief-2c5.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-58c.md, raw/badlands-news-brief-908.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a61.md]
+sources: [raw/badlands-brief-2c5.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-58c.md, raw/badlands-news-brief-908.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a61.md, raw/badlands-news-brief-b10.md]
 confidence: low
 ---
 
@@ -97,6 +97,10 @@ Under Health and Human Services Secretary [[robert-f-kennedy-jr|Robert F. Kenned
 
 On January 26, 2023, the nonprofit [[childrens-health-defense|Children's Health Defense]] sued the FDA in federal court in Washington, alleging that the agency was violating federal law by withholding the results of key COVID-19 vaccine safety analyses.[17] The suit sought the raw results of the FDA's analyses of reports made to the [[vaccine-adverse-event-reporting-system|Vaccine Adverse Event Reporting System]], which the agency operates jointly with the [[centers-for-disease-control-and-prevention|Centers for Disease Control and Prevention]] to collect post-vaccination adverse events.[17] Badlands contributor [[ryan-delarme|Ryan DeLarme]] argued that regulatory agencies such as the FDA were the most critical link in the pandemic chain because the majority of their funding derives from the pharmaceutical companies whose products they review.[17]
 
+## Ivermectin settlement compliance (2024)
+
+Eleven days after a court-ordered settlement required the FDA to remove all social-media posts and directives concerning [[ivermectin]], a webpage and the agency's most infamous post advising against the drug's use remained online, The Epoch Times reported in April 2024.[18] The settlement, filed with a federal court in southern Texas and dated March 21, 2024, followed years of controversy over the drug's use against COVID-19.[18] The agency had already removed a page reading "Should I take ivermectin to prevent or treat COVID-19? No.", but its August 21, 2021 post on X — "You are not a horse. You are not a cow. Seriously y'all. Stop it" — continued to remain live, having been reposted more than 67,000 times at the time of publication.[18]
+
 ## References
 
 
@@ -117,3 +121,4 @@ On January 26, 2023, the nonprofit [[childrens-health-defense|Children's Health 
 15. Badlands Brief — "Badlands News Brief: Satanic Idols, COVID Crimes & Twitter's Sins", URL: https://badlands.substack.com/p/badlands-news-brief-908
 16. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
 17. Badlands News Brief — "Big Pharma, Big Lies and Big Boomerangs", URL: https://badlands.substack.com/p/badlands-news-brief-a61
+18. Badlands Brief — "Badlands News Brief: Middle Eastern Shenanigans & Dasting Data Dominate", URL: https://badlands.substack.com/p/badlands-news-brief-b10

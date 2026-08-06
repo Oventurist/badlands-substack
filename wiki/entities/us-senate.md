@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, legislature, crypto, sec]
-sources: [raw/badlands-news-brief-09d.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-52f.md]
+sources: [raw/badlands-news-brief-09d.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-b02.md]
 confidence: medium
 ---
 
@@ -36,9 +36,16 @@ Badlands criticized the mission as senators "doing everything they can to antago
 
 In early February 2025 President [[donald-trump|Donald Trump]] accused Democrats of "purposefully delaying virtually all of my Nominees," writing on Truth Social that no matter how well qualified a nominee might be, senators were "taking maximum time for approval — and laughing about it."[5] Just eight of Trump's more than 20 nominees had been confirmed by the Senate at that point, with many undergoing intense questioning as Democrats highlighted their concerns.[5] Trump argued the delays came at the country's expense and safety, said that "if George Washington and Abraham Lincoln were nominated for a position, the Democrats would take it out to the last moment before having to approve," and attributed the obstruction to Democrats' inability to accept their loss in the previous November's election.[5] Badlands contributor [[chris-paul|Chris Paul]] used the episode to question the claim that nominees were deliberately telling mainstream falsehoods in committee testimony on Trump's behalf.[5]
 
+## Confirmation hearings and the Laken Riley Act (January 2025)
+
+In the week before the second Trump inauguration, the Senate opened a whirlwind of cabinet confirmation hearings and began floor work on immigration legislation.[6] Senator [[john-cornyn|John Cornyn]] said most Republican senators were "predisposed to let the president have his team absent some extraordinary circumstances," and GOP leaders warned members to expect Friday votes or weekend sessions to work through the nominations; the operative question had become how long confirmations would take rather than who could be confirmed.[6]
+
+On the evening of January 13, 2025, the chamber voted 82-10 on a motion to proceed to the [[laken-riley-act|Laken Riley Act]], with 33 Democrats joining Republicans after a similar procedural vote the previous Thursday — a reversal from the prior Congress, when Majority Leader [[chuck-schumer|Chuck Schumer]] had blocked the House-passed bill from consideration.[6] Commentators warned that if the Senate attempted to thwart the mandate voters had given [[donald-trump|Donald Trump]], its authority over confirmations might itself be challenged.[6]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Iranian Crashes, Israeli Maneuvers & Trumpian Rhetoric", URL: https://badlands.substack.com/p/badlands-news-brief-09d
 2. Badlands Brief — "Badlands News Brief: A Splintered Establishment & Tension Tightropes", URL: https://badlands.substack.com/p/badlands-news-brief-116
 3. Badlands Brief — "Badlands News Brief: IC Ignitions & Double Detonations", URL: https://badlands.substack.com/p/badlands-news-brief-1a0
 4. Badlands News Brief — "The Free Market of Ideas Condemns the Regime", raw/badlands-news-brief-363.md
 5. Badlands Brief — "Badlands News Brief: North American Trade Troubles & Unipartisan Panic", URL: https://badlands.substack.com/p/badlands-news-brief-52f
+6. Badlands News Brief — "Contentious Confirmations & Conflicted Special Counsels", URL: https://badlands.substack.com/p/badlands-news-brief-b02

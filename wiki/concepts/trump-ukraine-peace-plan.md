@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ukraine, russia, nato, peace-plan, trump]
-sources: [raw/badlands-news-brief-021.md, raw/badlands-news-brief-528.md]
+sources: [raw/badlands-news-brief-021.md, raw/badlands-news-brief-528.md, raw/badlands-news-brief-a82.md]
 confidence: medium
 ---
 
@@ -32,6 +32,11 @@ In parallel, a Daily Mail report claimed [[vladimir-putin|Vladimir Putin]] had s
 
 He noted the NATO point was not something Trump was espousing publicly, but was one he was positioning to actualize by threatening withdrawal from the alliance unless European members matched US defense spending proportionally — a demand he argued EU nations were financially incapable of meeting, meaning "the US's days in NATO are numbered."[2]
 
+## June 2024 Kellogg-Fleitz plan
+
+In June 2024 Reuters reported that [[keith-kellogg|Keith Kellogg]] and [[fred-fleitz|Fred Fleitz]], both former chiefs of staff in [[donald-trump|Trump]]'s National Security Council, had presented him with a plan to end the war if he won the November 5 election: Ukraine would be told it would receive more US weapons only if it entered peace talks, while Moscow would be warned that refusing to negotiate would bring increased US support for Kyiv, with a ceasefire based on prevailing battle lines during negotiations.[3] Fleitz said Trump responded favorably without necessarily endorsing every word, and spokesman [[steven-cheung|Steven Cheung]] said only statements from Trump or authorized campaign members should be treated as official.[3] Badlands contributor [[burning-bright|Burning Bright]] argued the plan mirrored [[vladimir-putin|Putin]]'s own terms — denazification and annexation of the Donbas and a pledge that Ukraine would not join [[nato|NATO]] — and concluded "the deal is already made."[3]
+
 ## References
 1. Badlands Brief — "Seditious Overreactions, Billion Dollar Bailouts, & NATO-Style Guarantees", URL: https://badlands.substack.com/p/badlands-news-brief-021
 2. Badlands Brief — "Badlands News Brief: Biden Pushes Back as Peacemakers Posture", URL: https://badlands.substack.com/p/badlands-news-brief-528
+3. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82

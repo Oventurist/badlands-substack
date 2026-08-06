@@ -24,6 +24,10 @@ Badlands contributor [[burning-bright|Burning Bright]] framed Budanov's remarks 
 
 In August 2025 Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] described Budanov, as Ukrainian military intelligence chief, as a participant in an alleged plot to overthrow President [[volodymyr-zelensky|Volodymyr Zelensky]] said to involve US officials and top Zelensky aide [[andriy-yermak|Andrey Yermak]].[2] Citing reports attributed to Russia's Foreign Intelligence Service (SVR), the commentary held that Yermak and Budanov had negotiated with retired General [[valerii-zaluzhnyi|Valery Zaluzhny]] to secure their places in his prospective regime, and that the aim of such a coup would be to install an accomplished military leader as president in order to restore the flow of American money and weapons so the war could continue.[2]
 
+## Poisoning of Marianna Budanova (2023)
+
+In late November 2023, Budanov's wife [[marianna-budanova|Marianna Budanova]] was hospitalized after heavy metals of unknown origin were found in her system, in what Ukrainian officials treated as a suspected assassination attempt; Ukrainska Pravda cited sources saying she was "most likely poisoned through food."[3] GUR spokesperson [[andriy-yusov|Andriy Yusov]] confirmed the poisoning to Reuters and told the BBC's Ukrainian service that several other GUR officials had suffered milder symptoms, suggesting a broader plot.[3] Coverage noted that Budanov himself had reportedly survived some ten assassination attempts while leading major operations against Russian forces as head of the [[main-directorate-of-intelligence|Main Directorate of Intelligence]].[3]
+
 ## References
 
 1. Badlands News Brief — "Trump Responds, a Banker Dies & a Ukrainian Tells the Truth", URL: https://badlands.substack.com/p/badlands-news-brief-119

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence, signals-intelligence, leaks, 2026]
-sources: [raw/badlands-brief-835.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-a65.md]
+sources: [raw/badlands-brief-835.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-b02.md]
 confidence: medium
 ---
 
@@ -26,8 +26,13 @@ Director of National Intelligence [[tulsi-gabbard|Tulsi Gabbard]] directed the N
 
 In February 2025, Director of National Intelligence [[tulsi-gabbard|Tulsi Gabbard]] announced the imminent dismissal of more than 100 intelligence community employees, drawn from the NSA and the [[cia|Central Intelligence Agency]], for participating in sexually explicit and graphic discussions of sexual fetishes and transgenderism on an intragovernmental server during work hours.[3] Gabbard called the episode "an egregious violation of trust" with potential national security and blackmail implications, and stated that she had issued a directive that all those involved would be terminated and their security clearances revoked.[3] Badlands commentary observed that the story had been overshadowed by the Epstein files controversy and argued that, given the agency's surveillance capabilities as revealed by Edward Snowden and dramatized in [[enemy-of-the-state|Enemy of the State]], the presence of more than a hundred compromised employees was "the stuff of nightmares."[3]
 
+## Havana Syndrome reassessment (January 2025)
+
+Sources told The Atlantic that the National Security Agency was one of two intelligence agencies that broke with the community consensus in a [[national-intelligence-council|National Intelligence Council]] report released in January 2025, concluding there was about a 50/50 chance that foreign actors had developed the radiofrequency technology associated with [[havana-syndrome|Havana Syndrome]].[4] The agency's revised evaluation was reported to rest on "intercepted communications" linked to a foreign actor.[4]
+
 ## References
 
 1. Badlands Brief — "Virginia Democrats Lose the Plot and Go For Tyranny", URL: https://badlands.substack.com/p/badlands-brief-835
 2. Badlands Brief — "Rare Earths, Rogue Judges, & Record Downward Revisions", URL: https://badlands.substack.com/p/badlands-news-brief-030
 3. Badlands Brief — "Badlands News Brief: Rug Pulled Reputations, Insubordination, & the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-a65
+4. Badlands News Brief — "Contentious Confirmations & Conflicted Special Counsels", URL: https://badlands.substack.com/p/badlands-news-brief-b02

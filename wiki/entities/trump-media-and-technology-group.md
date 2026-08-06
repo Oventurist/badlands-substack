@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, dwac, trump, sec]
-sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-7c0.md, raw/badlands-brief-e3b.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-a46.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-7c0.md, raw/badlands-brief-e3b.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-b04.md, raw/badlands-news-brief-b0d.md]
 confidence: low
 ---
 
@@ -73,6 +73,14 @@ Regulatory filings reported at the start of May 2024 showed that [[donald-trump|
 
 In a letter dated Wednesday, May 1, 2024, chief executive [[devin-nunes|Devin Nunes]] urged leading House committee chairmen to investigate eight financial firms over potentially illicit [[short-selling|short selling]] of the DJT stock, writing that "quick action is necessary to protect retail shareholders, identify wrongdoers, and determine whether any laws including [[racketeer-influenced-and-corrupt-organizations-act|Racketeer Influenced and Corrupt Organizations Act]] statutes and tax evasion laws have been violated."[12] Nunes, who had first asked top House Republicans to open a stock manipulation probe on April 24, named Apex Clearing, Clear Street, Cobra Trading, Cowen and Company, Curvature Securities, StoneX Securities, TradePro and Velocity Clearing, and asked the committees to seek documents and testimony from them.[12] A spokesperson for Clear Street declined to comment on the letter.[12]
 
+## Merger milestone (November 2023)
+
+On November 13, 2023, TMTG and [[digital-world-acquisition-corp|Digital World Acquisition Corp.]] announced what officials called another "important milestone" in their merger.[13] A joint press release unveiled the filing of "Amendment No. 1" to the Form S-4 registration statement with the [[securities-and-exchange-commission|Securities and Exchange Commission]]; publicly traded companies are required to file an S-4 to register material information related to a merger or acquisition.[13]
+
+## Crypto.com ETF agreement (March 2025)
+
+Shares of Trump Media jumped about 9% in extended trading on Monday, March 24, 2025 after the parent of the president's social media company announced an agreement with [[crypto-com|Crypto.com]] to launch a series of exchange-traded funds and related products.[14] The company, which runs the Truth Social platform, had been hammered by investors through the year despite [[donald-trump|President Donald Trump]]'s return to the White House; prior to the after-hours gain the stock was down 38% in 2025.[14] Trump Media said the ETFs and exchange-traded products would carry a "Made in America" focus and would launch later that year, subject to regulatory approval — described as Trump's latest foray into crypto after his family introduced several Trump-branded non-fungible tokens and memecoins and announced plans to start a crypto bank of sorts.[14] Badlands contributor [[gmoney|GMONEY]] reacted that it "seems BIG" and joked about awaiting a "$TRUMP shitcoin ETF."[14]
+
 ## References
 
 1. Badlands Brief — "A Virus, or a Metaphor?", URL: https://badlands.substack.com/p/a-virus-or-a-metaphor
@@ -87,3 +95,5 @@ In a letter dated Wednesday, May 1, 2024, chief executive [[devin-nunes|Devin Nu
 10. Badlands Brief — "Badlands News Brief: The Deep State Death Spiral Has Only Just Begun", URL: https://badlands.substack.com/p/badlands-news-brief-7e0
 11. Badlands Brief — "Badlands News Brief: A Midflight Collision, Dems Choose Division, Menendez Gets Prison", URL: https://badlands.substack.com/p/badlands-news-brief-93e
 12. Badlands Brief — "Very Fine Marxists and Chinese Finger Traps", URL: https://badlands.substack.com/p/badlands-news-brief-a46
+13. Badlands Brief — "China Joe Strikes Out & Trumpism on Trial", URL: https://badlands.substack.com/p/badlands-news-brief-b04
+14. Badlands Brief — "Badlands News Brief: Unexpected Allies, Rogue Judges, & Stacked Envoys", URL: https://badlands.substack.com/p/badlands-news-brief-b0d

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [california, wildfire, los-angeles, infrastructure, corruption]
-sources: [raw/badlands-news-brief-09e.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-719.md]
+sources: [raw/badlands-news-brief-09e.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-719.md, raw/badlands-news-brief-b02.md]
 confidence: medium
 ---
 
@@ -38,7 +38,14 @@ Badlands Media contributor [[burning-bright|Burning Bright]] argued that the fir
 
 Contributor [[ashe-in-america|Ashe in America]] wrote that there was "a not insignificant chance that suing the utility leads to the government on this one," while expressing skepticism the case would reach discovery, partly because it was brought by judges whose filings carried "a baked in legal review."[3] She predicted the case would more likely settle, with "the secrets of public-private-partnership governing utilities" sealed in private action — "an unsatisfying but all too common outcome when disaster strikes."[3]
 
+## Investigation into a possible human cause (January 2025)
+
+By January 13, 2025, investigators had publicly focused on a possible human cause of the Palisades Fire, while cautioning that any such ignition might not have been intentional.[4] At the same press conference the Los Angeles district attorney announced that a total of ten people had been arrested for arson as well as looting and other crimes.[4] [[badlands-media|Badlands Media]] commentator [[ashe-in-america|Ashe in America]] mocked official reticence about arson and the reflexive attribution of the fires to climate change, arguing that authorities were losing control of the narrative and that their explanations were becoming more ridiculous as a result.[4]
+
+The fire burned amid rare, extremely critical fire weather: the National Weather Service issued a new round of fire weather warnings on January 13, 2025, advising of a "particularly dangerous situation" for parts of the Los Angeles metro region including the San Fernando and Simi valleys, Oxnard, Ventura, and portions of the Interstate 5 corridor, with red flag warnings running from north of Santa Barbara to east of San Diego and winds forecast to gust strongly through at least Wednesday as regional drought expanded.[4]
+
 ## References
 1. Badlands Brief — "Preemptive Pardons, Syrian Sanctions, & Preparations for Putin", URL: https://badlands.substack.com/p/badlands-news-brief-09e
 2. Badlands News Brief — "The Palisades Patsy, A Gazan Golden Age, & African Espionage", URL: https://badlands.substack.com/p/badlands-news-brief-42c
 3. Badlands News Brief — "Atmospheric Phenomenon & Record Deportations", URL: https://badlands.substack.com/p/badlands-news-brief-719
+4. Badlands News Brief — "Contentious Confirmations & Conflicted Special Counsels", URL: https://badlands.substack.com/p/badlands-news-brief-b02

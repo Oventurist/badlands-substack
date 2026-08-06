@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, russia, state-media, propaganda]
-sources: [raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-a71.md]
+sources: [raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-a82.md]
 confidence: medium
 ---
 
@@ -20,7 +20,12 @@ Badlands cited RT in its October 16, 2024 news brief on two fronts. Badlands con
 
 The brief also excerpted RT's report that Venezuelan President [[nicolas-maduro|Nicolás Maduro]] had accused [[elon-musk|Elon Musk]] of spending at least $1 billion to incite violence in Venezuela after the July 28 presidential election, naming [[maria-corina-machado|Maria Corina Machado]] as the alleged distributor of the funds.[2]
 
+## Reporting on the Il-76 shootdown findings
+
+RT reported in June 2024 that the [[russian-investigative-committee|Russian Investigative Committee]] had accused senior Kiev military officials of downing a Russian Il-76M carrying Ukrainian prisoners of war with a US-made [[patriot-missile-system|Patriot]] interceptor missile on January 24, killing all 74 people aboard.[3]
+
 ## References
 
 1. Badlands News Brief — "Peacemakers, Fake Kennedys & Fear Mongers", URL: https://badlands.substack.com/p/badlands-news-brief-3b2
 2. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71
+3. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82

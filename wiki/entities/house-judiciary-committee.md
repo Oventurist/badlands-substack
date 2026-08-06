@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, house, oversight, doj-slush-fund, investigations]
-sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-1ae.md, raw/badlands-brief-1ef.md, raw/badlands-brief-733.md, raw/badlands-brief-a1a.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8f9.md]
+sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-1ae.md, raw/badlands-brief-1ef.md, raw/badlands-brief-733.md, raw/badlands-brief-a1a.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-b1d.md]
 confidence: medium
 ---
 
@@ -82,6 +82,14 @@ The committee's Republican chairman joined the chairmen of House Oversight and H
 
 In early February 2023, the committee issued its first subpoenas under the leadership of Chairman [[jim-jordan|Jim Jordan]] (R-Ohio), targeting a trio of Biden administration officials: Attorney General [[merrick-garland|Merrick Garland]], [[fbi|FBI]] Director [[christopher-wray|Christopher Wray]], and Education Secretary [[miguel-cardona|Miguel Cardona]].[14] The subpoenas concerned the short-lived [[doj-school-board-memo-2021|2021 memo]] on threats against school board members, which Garland had signed in October 2021 citing a "disturbing spike in harassment, intimidation, and threats of violence against school administrators, board members, teachers, and staff" amid disputes over COVID-19 policies and the handling of race and gender in schools.[14] They followed more than 100 letters on the memo from Judiciary Republicans, and were reported by [[the-hill|The Hill]].[14] Badlands contributor [[ryan-delarme|Ryan DeLarme]] asked whether the House GOP was finally ramping up against the [[deep-state|Deep State]] and whether the officials would comply, noting that [[eric-holder|Eric Holder]] had defied a congressional subpoena for over two years and citing [[kash-patel|Kash Patel]] on the Sergeant at Arms' avenue to request military arrest of non-compliant witnesses.[14]
 
+## Lawsuit over the Biden special counsel audio (July 2024)
+
+On Monday, July 1, 2024, the committee filed a lawsuit against Attorney General [[merrick-garland|Merrick Garland]] seeking the audio recording of [[joe-biden|Joe Biden]]'s interview with the special counsel in his classified documents case, asking the courts to enforce its subpoena and reject the White House's effort to withhold the materials from Congress.[15] The action followed the White House's assertion of executive privilege weeks earlier, and the House's vote to hold Garland in contempt of Congress — making him the third attorney general in U.S. history so cited — a referral the Justice Department declined to prosecute under its longstanding practice regarding presidential privilege claims.[15] The filing stated that Speaker [[mike-johnson|Mike Johnson]] had made a "last-ditch effort" to resolve the matter with Garland, who referred Republicans to the White House; the White House rebuffed the attempt.[15] Coverage framed the suit as the latest Republican broadside against the Justice Department amid rule-of-law conflict animating the 2024 campaign.[15]
+
+## September 2023 Garland oversight hearing
+
+On Wednesday, September 20, 2023 the committee held a roughly five-hour oversight hearing with Attorney General [[merrick-garland|Merrick Garland]] in which Republican members attacked the [[department-of-justice|Justice Department]]'s handling of criminal probes into [[donald-trump|Donald Trump]], [[hunter-biden|Hunter Biden]], the events of January 6 and other high-profile investigations.[16] Chairman [[jim-jordan|Jim Jordan]] opened with the assertion that "the fix is in" even after what he called the face-saving indictment of Hunter Biden the previous week, and accused Garland of slow-walking that investigation.[16] Members including [[thomas-massie|Thomas Massie]], [[matt-gaetz|Matt Gaetz]] and [[kevin-kiley|Kevin Kiley]] generated viral exchanges over alleged perjury, the Biden family art-dealing arrangement and the origins of the [[doj-school-board-memo-2021|school board memo]] respectively.[16] Garland responded that Republican efforts to target career officials were "dangerous" and pledged that the department would not be intimidated.[16] See [[september-2023-garland-house-judiciary-hearing|September 2023 Garland House Judiciary Hearing]].[16]
+
 ## References
 1. Badlands Brief — "America for Sale - Part 2", URL: https://badlands.substack.com/p/america-for-sale-part-2
 2. Badlands Brief — "DC Exposes Itself as the Middle East Gets Gloriously Strange", URL: https://badlands.substack.com/p/badlands-brief-1ae
@@ -97,3 +105,5 @@ In early February 2023, the committee issued its first subpoenas under the leade
 12. Badlands Brief — "Badlands News Brief: The Trump Train Rolls on ... Fake MAGA Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-89f
 13. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
 14. Badlands News Brief — "Deflated Balloons, Sketchy AI & Democrat Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-8f9
+15. Badlands Brief — "Badlands News Brief: Wins at Home and Deals Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-aac
+16. Badlands Brief — "Badlands News Brief: Trump Skips Debates, FED Paralyzed & Garland Grilled", URL: https://badlands.substack.com/p/badlands-news-brief-b1d

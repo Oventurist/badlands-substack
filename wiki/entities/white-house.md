@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [white-house, chain-of-command, benghazi]
-sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-143.md, raw/badlands-brief-05f.md, raw/badlands-brief-169.md, raw/badlands-brief-559.md, raw/badlands-brief-6f4.md, raw/badlands-brief-6f0.md, raw/badlands-brief-708.md, raw/badlands-brief-b56.md, raw/badlands-brief-f62.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8d8.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a64.md]
+sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-143.md, raw/badlands-brief-05f.md, raw/badlands-brief-169.md, raw/badlands-brief-559.md, raw/badlands-brief-6f4.md, raw/badlands-brief-6f0.md, raw/badlands-brief-708.md, raw/badlands-brief-b56.md, raw/badlands-brief-f62.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8d8.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-aed.md]
 confidence: medium
 ---
 
@@ -172,6 +172,14 @@ On Thursday, August 7, 2025, the White House announced that federal law enforcem
 
 In late February 2025 the White House hosted a conclave of Trump-allied influencers for their first visit, at which Attorney General [[pam-bondi|Pam Bondi]] distributed binders labeled "Epstein Files: Phase 1" in the Roosevelt Room — a rollout that produced "no bombshells."[33] Reporting the following May described the West Wing as the true locus of law enforcement policymaking: former pardon attorney [[elizabeth-oyer|Elizabeth Oyer]] said "the decisions are being made at the White House, and then they're being pushed down to the [[department-of-justice|Department of Justice]], which is very, very atypical."[33]
 
+## Leak of Ukraine's Tomahawk request (October 2024)
+
+In late October 2024 the White House became the target of public criticism from Ukrainian President [[volodymyr-zelensky|Volodymyr Zelenskyy]], who accused it of leaking confidential communications to the American press.[34] Zelenskyy confirmed on October 30 that he had asked the United States for Tomahawk long-range missiles as part of the [[ukraine-victory-plan|Victory Plan]], and objected that the request had been disclosed to [[new-york-times|The New York Times]], where an anonymous senior US official dismissed it as totally unfeasible.[34] "And this was confidential information between Ukraine and the White House. How should we understand these messages? So, it means between partners there's nothing confidential?" he asked.[34]
+
+## Biden advisers dispatched to Israel (October 2024)
+
+Two senior advisers to President [[joe-biden|Joe Biden]], [[amos-hochstein|Amos Hochstein]] and [[brett-mcgurk|Brett McGurk]], were reported to be arriving in Israel on Thursday, October 31, 2024 to try to close a deal ending the war in Lebanon and allowing displaced civilians on both sides of the border to return home.[34] Israeli and US officials said that after the blows [[hezbollah|Hezbollah]] had suffered over the preceding two months, including the assassination of its leader Hassan Nasrallah, the group appeared finally willing to disconnect itself from [[hamas|Hamas]] in Gaza, and that a deal could be achieved within a few weeks.[34] Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] convened ministers and senior leaders of the Israel Defense Forces and Israeli intelligence services on Tuesday night to discuss the potential agreement.[34]
+
 ## References
 1. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
 2. Badlands Brief — "All the Classic Earmarks of Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-143
@@ -206,3 +214,4 @@ In late February 2025 the White House hosted a conclave of Trump-allied influenc
 31. Badlands Brief — "Badlands News Brief: Trump Trolls, Soros Slithers & Flags Fly", URL: https://badlands.substack.com/p/badlands-news-brief-93d
 32. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
 33. Badlands Brief — "Badlands News Brief: Black Hat Nightmares & A Camelback Caravan of Confirmation", URL: https://badlands.substack.com/p/badlands-news-brief-a64
+34. Badlands Brief — "Badlands News Brief: The Garbage Man Cometh to Take out the Trash", URL: https://badlands.substack.com/p/badlands-news-brief-aed

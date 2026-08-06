@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [colorado, elections, secretary-of-state, tina-peters]
-sources: [raw/badlands-brief-174.md, raw/badlands-brief-5a2.md, raw/badlands-brief-707.md, raw/badlands-brief-b56.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-8cb.md, raw/badlands-news-brief-8fd.md]
+sources: [raw/badlands-brief-174.md, raw/badlands-brief-5a2.md, raw/badlands-brief-707.md, raw/badlands-brief-b56.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-8cb.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-aed.md]
 confidence: medium
 ---
 
@@ -76,6 +76,12 @@ As the [[supreme-court-of-the-united-states|U.S. Supreme Court]] agreed to revie
 
 Badlands host Ashe in America wrote in December 2025 that Griswold, whose arbitrary COVID-era rules about who could enter county offices prompted the conduct for which Tina Peters was convicted, remained emboldened and was continuing to obstruct the Trump Justice Department on elections.[13] Griswold said in a statement that 'we will not comply with the Trump Department of Justice's request for Coloradans' sensitive voting information,' that the DOJ 'can take a hike' because it has no legal right to the information, and that Colorado 'will not help Donald Trump undermine our elections and hurt the American people.'[13] Ashe noted that Griswold had been obstructing inquiry since at least 2021, when she banned independent audits.[13]
 
+## Voting system password leak (October 2024)
+
+In late October 2024, the Colorado Secretary of State's office under Griswold "improperly" posted a spreadsheet to its public website containing passwords to some of the state's voting systems.[14] The exposure affected both [[dominion-voting-systems|Dominion]] and [[clear-ballot|Clear Ballot]] equipment, and the explanations offered by Griswold were contradicted by her own staff's sworn testimony.[14]
+
+Badlands writer [[ashe-in-america|Ashe in America]], who reported on the episode extensively for Colorado Free Press, argued she was increasingly convinced that "the regime is throwing Jena under the bus," and that the resulting saga would be used to fast-track [[ranked-choice-voting|ranked choice voting]] and promote some of the worst figures in Colorado government.[14] The leak surfaced the same week that Michigan Secretary of State [[jocelyn-benson|Jocelyn Benson]] admitted to a nationwide programming defect in Dominion voter assist terminals, reinforcing a wider argument that the election system was incapable of producing a result the public would accept as legitimate.[14]
+
 ## References
 1. Badlands Brief — "Conflicts, Cartels, & Clemency", URL: https://badlands.substack.com/p/badlands-brief-174
 2. Badlands Brief — "Tina Peters' Sentence Commuted; ISIS Killed in Africa", URL: https://badlands.substack.com/p/badlands-brief-5a2
@@ -90,3 +96,4 @@ Badlands host Ashe in America wrote in December 2025 that Griswold, whose arbitr
 11. Badlands Brief — "Badlands News Brief: “Terrifying” Trade Alliances, Pedagogue Payouts, & A Bondi Barn Burner", URL: https://badlands.substack.com/p/badlands-news-brief-7bb
 12. Badlands Brief — "SCOTUS Enters the Fray as Biden Barks at MAGA Hats", URL: https://badlands.substack.com/p/badlands-news-brief-8cb
 13. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
+14. Badlands Brief — "Badlands News Brief: The Garbage Man Cometh to Take out the Trash", URL: https://badlands.substack.com/p/badlands-news-brief-aed

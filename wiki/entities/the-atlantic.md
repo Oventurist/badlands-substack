@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, mainstream-media, magazines, layoffs]
-sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-1ef.md, raw/badlands-brief-323.md, raw/badlands-brief-414.md, raw/badlands-brief-67a.md, raw/badlands-brief-625.md, raw/badlands-brief-6b4.md, raw/badlands-brief-740.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-536.md, raw/badlands-news-brief-6e6.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-1ef.md, raw/badlands-brief-323.md, raw/badlands-brief-414.md, raw/badlands-brief-67a.md, raw/badlands-brief-625.md, raw/badlands-brief-6b4.md, raw/badlands-brief-740.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-536.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-a82.md]
 confidence: medium
 ---
 
@@ -78,6 +78,10 @@ In October 2025 The Atlantic published a national-security essay urging readers 
 
 Badlands contributor [[ashe-in-america|Ashe in America]] inverted the headline, asking "what if the others are just like the Bolton case?", predicting superseding indictments in the Comey and James matters, and questioning why The Atlantic appeared to be rewriting the Erik Siebert story relative to earlier reporting on the administration's threat to fire the prosecutor overseeing the James case.[12]
 
+## June 2024 analysis of Netanyahu's coalition
+
+An Atlantic piece in June 2024 argued that [[benjamin-netanyahu|Benjamin Netanyahu]]'s government was showing all the signs of heading for an early election, citing openly campaigning coalition leaders, cracks in [[likud|Likud]], public clashes with senior military and civil-service figures, a state commission of inquiry over a 2009-2016 submarine procurement deal, and the Supreme Court ruling against the ultra-Orthodox draft exemption.[14] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] said the article did "a fine job of framing the doomed situation" facing Netanyahu.[14]
+
 ## References
 
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
@@ -92,3 +96,4 @@ Badlands contributor [[ashe-in-america|Ashe in America]] inverted the headline, 
 10. Badlands Brief — "Badlands News Brief: Fake Polls Abound as the Sovereign Alliance Makes Moves", URL: https://badlands.substack.com/p/badlands-news-brief-125
 11. Badlands Brief — "Badlands News Brief: Kash Unleashed, Zelensky Abandoned & Trump Championed", URL: https://badlands.substack.com/p/badlands-news-brief-356
 12. Badlands Brief — "Badlands News Brief: Familiar Formulas, Blue Skies, & Antisemitic Nonchalance", URL: https://badlands.substack.com/p/badlands-news-brief-6e6
+14. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82

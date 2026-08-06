@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [technology, artificial-intelligence, semiconductors, electric-vehicles, elon-musk]
-sources: [raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-67e.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-890.md]
+sources: [raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-67e.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-890.md, raw/badlands-news-brief-b2b.md]
 confidence: medium
 ---
 
@@ -52,6 +52,10 @@ In May 2024 hundreds of demonstrators described as "anticapitalist" and "woke Ma
 
 In December 2024, Launch i/o CEO Jeff Lutz — a former executive at [[google|Google]] and Motorola — argued that one of the most significant and under-discussed developments at Tesla was occurring not in its design studios or on the road but in its factories.[7] Lutz contended that Tesla's true innovation was not the electric vehicles or robots it builds but how those products are made, describing a first-principles approach to manufacturing that departs radically from industry norms by rethinking the entire production process rather than relying on cheap labor or existing models.[7] In this account Tesla treats its factories as the product itself, designing, testing and perfecting every element just as it does with its cars, a focus on manufacturing efficiency that Lutz believed would dramatically reduce production costs — potentially toward zero — and set a new standard for the wider manufacturing world.[7]
 
+## EEOC racial harassment suit (2023)
+
+On September 28, 2023 the U.S. [[equal-employment-opportunity-commission|Equal Employment Opportunity Commission]] sued Tesla in the U.S. District Court for the Northern District of California, alleging that the company subjected Black employees to an unlawful hostile work environment and retaliated against workers who opposed the harassment.[8] The agency said it had investigated Tesla after EEOC Chair [[charlotte-burrows|Charlotte A. Burrows]] filed a commissioner's charge alleging violations of [[title-vii-of-the-civil-rights-act-of-1964|Title VII of the Civil Rights Act of 1964]].[8] Conservative outlets framed the filing as the Biden administration once again targeting [[elon-musk|Elon Musk]], and [[badlands-media|Badlands Media]] contributor [[justin-deschamps|Justin Deschamps]] argued that few concrete details of the alleged conduct had surfaced and that the case might prove insubstantial.[8] See [[eeoc-lawsuit-against-tesla-2023]].
+
 ## References
 
 1. Badlands News Brief — "Peacemakers, Fake Kennedys & Fear Mongers", URL: https://badlands.substack.com/p/badlands-news-brief-3b2
@@ -61,3 +65,4 @@ In December 2024, Launch i/o CEO Jeff Lutz — a former executive at [[google|Go
 5. Badlands Brief — "Badlands News Brief: Trump Returns to DC as Globalists Panic", URL: https://badlands.substack.com/p/badlands-news-brief-67e
 6. Badlands Brief — "Badlands News Brief: Biden Baits Israel as Solar Storms Bring the Weird", URL: https://badlands.substack.com/p/badlands-news-brief-83b
 7. Badlands Brief — "Absurdity and MAGAMania as the Year Winds Down", URL: https://badlands.substack.com/p/badlands-news-brief-890
+8. Badlands Brief — "Badlands News Brief: Biden Embattled & Trump Betrayed", URL: https://badlands.substack.com/p/badlands-news-brief-b2b

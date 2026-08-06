@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cbp, border-patrol, immigration, dhs, funding]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-959.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-409.md, raw/badlands-news-brief-6af.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-959.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-409.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-b26.md]
 confidence: medium
 ---
 
@@ -40,6 +40,12 @@ In May 2023, the Biden administration was reported to be ending [[familial-dna-t
 
 Customs and Border Protection personnel took part in the federal immigration operation at MacArthur Park in Los Angeles on Monday, July 7, 2025, in which dozens of agents in tactical gear deployed alongside members of the [[california-army-national-guard|California National Guard]].[6] Los Angeles Mayor [[karen-bass|Karen Bass]] said she went to the park and asked "an individual from the custom and border patrol" who was in charge, was put on the phone with that person, and told him the operation needed to end; she said he replied that the agents would leave within minutes and that they did so.[6] The episode is treated in detail at [[macarthur-park-immigration-operation|the MacArthur Park immigration operation]].[6]
 
+## Interceptions of Russian and Chinese nationals (2023)
+
+In June 2023, House Republicans stated that CBP had intercepted an increasing number of foreign nationals from countries outside South and Central America, including Russia, along with several high-value targets from China.[7] The disclosures came at a June 21 [[house-committee-on-homeland-security|Committee on Homeland Security]] hearing on threats posed to the homeland by nation-state actors in Latin America, where Representative [[august-pfluger|August Pfluger]] warned that anti-U.S. regimes had already exploited the chaos of the southwest border.[7]
+
+Badlands commentator [[ashe-in-america|Ashe in America]] connected the interceptions to earlier reporting by [[sara-carter|Sara Carter]] of a 393 percent increase in Chinese migrants crossing the southern border, and argued that the pattern was better understood as troop movement than as a humanitarian crisis.[7]
+
 ## References
 1. Badlands Brief — "Mixed Gender Crews, Trafficking Stings, & Shadow Cabal Reruns", URL: https://badlands.substack.com/p/badlands-brief-029
 2. Badlands Brief — "We Are the Champions of the World", URL: https://badlands.substack.com/p/badlands-brief-959
@@ -47,3 +53,4 @@ Customs and Border Protection personnel took part in the federal immigration ope
 4. Badlands News Brief — "The Free Market of Ideas Condemns the Regime", raw/badlands-news-brief-363.md
 5. Badlands Brief — "Badlands News Brief: Quid Pro Joe, Biden's Border & Train Track Conspiracies", URL: https://badlands.substack.com/p/badlands-news-brief-409
 6. Badlands Brief — "Badlands News Brief: ICE Swarms, TikTok Pivots, & Shoes Stay On", URL: https://badlands.substack.com/p/badlands-news-brief-6af
+7. Badlands Brief — "Badlands News Brief: Trump's Tapes, Putin's Plan & Byrne's Bio", URL: https://badlands.substack.com/p/badlands-news-brief-b26

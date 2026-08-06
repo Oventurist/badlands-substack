@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [democratic-party, congress, 2028-election, progressives]
-sources: [raw/badlands-brief-7bf.md, raw/badlands-brief-8db.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-7ce.md]
+sources: [raw/badlands-brief-7bf.md, raw/badlands-brief-8db.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-7ce.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-b39.md]
 confidence: medium
 ---
 
@@ -35,9 +35,21 @@ Badlands contributor [[ashe-in-america|Ashe in America]] characterized the episo
 
 In February 2025 President [[donald-trump|Donald Trump]]'s border czar [[tom-homan|Tom Homan]] said he had referred Ocasio-Cortez to the [[department-of-justice|Justice Department]] after her office produced a presentation advising illegal migrants on how to avoid U.S. Immigration and Customs Enforcement.[4] Homan, describing her as among the Democratic Party's most liberal members, said he was working with the Department to determine "where is that line that they crossed," and made the referral to the deputy attorney general.[4]
 
+## Fetterman clash over the March 2025 funding bill
+
+Ocasio-Cortez sharply criticized Senate Democrats who moved to advance a House-passed bill funding the government through September 30, saying they were betraying their Democratic House colleagues.[5] Senator [[john-fetterman|John Fetterman]], who had announced he would vote for the measure to avoid a shutdown, responded that she and other liberal lawmakers urging the Senate to block it lacked a viable exit strategy for ending a shutdown, and that it was easy for House liberals to take potshots when members of Congress keep their paychecks while tens of thousands of federal workers are furloughed without pay.[5] Asked directly about her comments, Fetterman said: "I hope you can relay how little I care about her views on this."[5]
+
+## Clash with Elon Musk over Netanyahu address (July 2024)
+
+On Wednesday 24 July 2024, Ocasio-Cortez and [[elon-musk|Elon Musk]] clashed on social media over Israeli prime minister [[benjamin-netanyahu|Benjamin Netanyahu]]'s address to a joint session of Congress, which she and several other Democrats boycotted.[6] She wrote on X: "Just so we're clear, Netanyahu has lost so many people that he is addressing just a fraction of Congress… they fill the seats with non-members, like what they do at award ceremonies, in order to project the appearance of full attendance and support."[6] Musk, who attended the address at the Capitol, replied that "the Democratic Party has become openly & boldly antisemitic."[6] Ocasio-Cortez answered, "Hmm, sometimes being quiet is free and good for you," attaching a screenshot of a Wall Street Journal article about Musk's apparent agreement with an antisemitic post in November 2023.[6]
+
+Badlands commentator [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] said that, as someone who had defected from the "R vs D" false paradigm, he agreed with her completely and joked that she had lately been fulfilling her role as a "Judas-Goat" well, adding that dialogue is always preferable to violence.[6]
+
 ## References
 
 1. Badlands Brief — "Entertaining Obstruction & Artificial Shadow Wars", URL: https://badlands.substack.com/p/badlands-brief-7bf
 2. Badlands Brief — "Hunters Become the Hunted as Traitors Reveal Themselves", URL: https://badlands.substack.com/p/badlands-brief-8db
 3. Badlands Brief — "Fusion Mergers & Fusion-Adjacent Murders", URL: https://badlands.substack.com/p/badlands-news-brief-60c
 4. Badlands Brief — "The Star Spangled Banner, Bureaucrat Bleach Bit, & an Unknown Balance of Bullion", URL: https://badlands.substack.com/p/badlands-news-brief-7ce
+5. Badlands News Brief — "Defiant Deportations & Canadian Freeloaders", URL: https://badlands.substack.com/p/badlands-news-brief-ae1
+6. Badlands Brief — "Biden Says Stuff as Nazis Circle in Ukraine", URL: https://badlands.substack.com/p/badlands-news-brief-b39

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [brazil, lawfare, elections, coup, judiciary]
-sources: [raw/badlands-news-brief-03a.md, raw/badlands-news-brief-09e.md]
+sources: [raw/badlands-news-brief-03a.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-b0f.md]
 confidence: medium
 ---
 
@@ -27,6 +27,13 @@ Badlands commentary characterized the prosecution succinctly as "Bolsonaro's ins
 
 Former Brazilian President Jair Bolsonaro was among the foreign figures invited to [[second-inauguration-of-donald-trump|Donald Trump's January 20, 2025 inauguration]], alongside El Salvador's [[nayib-bukele|Nayib Bukele]], at a time when a wide range of world leaders were vying for access to the ceremony.[2]
 
+## Ankle monitor order and the 2025 Brazil–US feud
+
+On Friday, July 18, 2025, Brazil's Supreme Court ordered former President Bolsonaro to wear an ankle monitor, remain at home during most hours, and stay away from foreign embassies, ruling that he was a flight risk after lobbying President [[donald-trump|Donald Trump]] to intervene in his legal troubles.[3] The orders marked a sharp escalation in Brazil's feud with Trump over the case against Bolsonaro, who faced possible imprisonment that year on charges that he attempted a coup after losing the 2022 election.[3]
+
+Trump threatened 50 percent tariffs on Brazilian goods starting August 1, in part to pressure Brazilian authorities to end what he called a "witch hunt" against Bolsonaro, and Washington imposed visa restrictions on Supreme Court Justice [[alexandre-de-moraes|Alexandre de Moraes]], his family, and other unnamed court officials in response to the search warrants and restraining orders targeting Bolsonaro.[3] President [[luiz-inacio-lula-da-silva|Luiz Inácio Lula da Silva]] called the visa bans "arbitrary" and "baseless," said foreign interference in the judiciary was "unacceptable," and declared that no intimidation would compromise Brazil's institutions in defending "the democratic rule of law."[3] Badlands commentary characterized the sequence as scripted rather than organic, likening Lula to "Brazil's Joe Biden" overseeing a raid on a former president's home.[3]
+
 ## References
 1. Badlands Brief — "SCOTUS and Subsidies, Banker Bonuses, and Six More Years of Lindsay Graham", URL: https://badlands.substack.com/p/badlands-news-brief-03a
 2. Badlands Brief — "Preemptive Pardons, Syrian Sanctions, & Preparations for Putin", URL: https://badlands.substack.com/p/badlands-news-brief-09e
+3. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f

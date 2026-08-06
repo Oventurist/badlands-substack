@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [georgia, elections, 2020-election, election-integrity, state-government]
-sources: [raw/badlands-brief-695.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-2e4.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-5fb.md]
+sources: [raw/badlands-brief-695.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-2e4.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-b19.md]
 confidence: medium
 ---
 
@@ -48,9 +48,16 @@ On Wednesday, May 8, 2024, the State Election Board began writing a new rule req
 
 Three Republican board members from Fulton and Gwinnett counties had voted against certifying the presidential primary results, saying they wanted more detailed documentation beyond a broad summary of votes cast, even though [[donald-trump|Donald Trump]] and [[joe-biden|Joe Biden]] had each easily won their respective primaries.[5]
 
+## January 2024 oversight bill
+
+A bill sponsored by Republican State Sen. [[max-burns|Max Burns]] to remove Secretary of State [[brad-raffensperger|Brad Raffensperger]] from his seat on the board — and to permit the board to investigate him — passed the [[georgia-senate|Georgia Senate]] Ethics Committee on January 23, 2024.[6] Raffensperger's lawyer [[charlene-mcgowan|Charlene McGowan]] objected that there was no precedent for removing the secretary of state from the board or for establishing oversight over him, and warned that "giving a board of unelected bureaucrats unchecked power over the state's executive branch is a dangerous policy proposal."[6] Supporters denied the proposal was unconstitutional, with Burns saying they were "trying to provide reasonable oversight of a process that affects every citizen of Georgia."[6]
+
+Badlands commentary observed the irony that McGowan's characterization reduced the board — the entity meant to bestow trust and confidence in Georgia's elections — to a "meaningless group of unelected bureaucrats," and urged that reform prioritize decentralizing both oversight and administration toward the counties.[6]
+
 ## References
 1. Badlands Brief — "Election Bombshells, Peace Board Bangers, & Clintons in Contempt", URL: https://badlands.substack.com/p/badlands-brief-695
 2. Badlands News Brief — "Trump Doubles Down as Kamala Crumbles", URL: https://badlands.substack.com/p/badlands-news-brief-020
 3. Badlands News Brief — "Escalating Elections, Fragmented Forums, & Merry Murder Metrics", URL: https://badlands.substack.com/p/badlands-news-brief-2e4
 4. Badlands Brief — "Badlands News Brief: Victim Cards, Foreign Inference, & Chessboard Stans", URL: https://badlands.substack.com/p/badlands-news-brief-448
 5. Badlands News Brief — "Biden Melts Down as Judges Are Themselves Judged", URL: https://badlands.substack.com/p/badlands-news-brief-5fb
+6. Badlands Brief — "Badlands News Brief: Lake and Abbott Take a Stand as Haley Falls", URL: https://badlands.substack.com/p/badlands-news-brief-b19

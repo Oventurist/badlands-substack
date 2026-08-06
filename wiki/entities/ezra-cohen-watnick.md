@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence, flynn, doj, classified, trump]
-sources: [raw/america-for-sale-part-2.md, raw/badlands-news-brief-264.md]
+sources: [raw/america-for-sale-part-2.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-b0f.md]
 confidence: low
 ---
 
@@ -18,6 +18,11 @@ A [[qanon|Q]] drop asked who briefed [[bob-goodlatte|Bob Goodlatte]] and [[trey-
 
 Badlands commentator [[burning-bright|Burning Bright]] wrote in August 2024 that [[donald-trump|Donald Trump]] and patriots such as Cohen-Watnick know exactly where the trail of evidence behind the September 11 attacks leads and how many branches it has.[2] The remark accompanied an argument that the revoked [[guantanamo-bay|Guantánamo]] plea deal for [[khalid-sheikh-mohammed|Khalid Sheikh Mohammed]] and his co-defendants was being used to cultivate a public mandate to follow that trail.[2]
 
+## July 2025 post on Jake Sullivan
+
+Over the weekend of July 19–20, 2025, Cohen — described as the former Senior Director for Intelligence Programs at the National Security Council under [[donald-trump|Donald Trump]] — directed public attention at former Biden National Security Adviser [[jake-sullivan|Jake Sullivan]], posting a photograph from Aspen with the caption: "Mediocre defense industry lobbyist, Mark Yesper, chilling with a coup plotter tonight in Aspen. No big deal."[3] Badlands Media commentary interpreted the post as a signal that Sullivan's record — spanning Benghazi messaging, the Iran nuclear negotiations, the Clinton email server, the Alfa Bank–Trump server theory, the Hunter Biden laptop letter, the 2021 Afghanistan withdrawal, defenses of Biden's mental fitness, and the autopen controversy — was headed toward accountability.[3]
+
 ## References
 1. Badlands Brief — "America for Sale - Part 2", URL: https://badlands.substack.com/p/america-for-sale-part-2
 2. Badlands Brief — "Badlands News Brief: Fake Candidates, Plea Deals & War Drums", URL: https://badlands.substack.com/p/badlands-news-brief-264
+3. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f

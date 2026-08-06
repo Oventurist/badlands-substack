@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [social-media, censorship, brazil, free-speech]
-sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-995.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-a38.md]
+sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-995.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-b22.md]
 confidence: medium
 ---
 
@@ -107,6 +107,12 @@ Trump's team considered letting the lawsuit fizzle out, citing Musk's proximity 
 
 X received an inquiry from the [[us-house-of-representatives|U.S. House of Representatives]] in April 2024 "regarding actions taken in Brazil that were in violation of Brazilian law," according to owner [[elon-musk|Elon Musk]], who said the platform had been asked to suspend the accounts of sitting Brazilian legislators and many journalists.[18] The inquiry followed Brazilian Supreme Court judge [[alexandre-de-moraes|Alexandre de Moraes]] opening a probe into Musk over his stated intention to restore blocked accounts, with a threatened penalty of 100,000 reais per day for noncompliance.[18] Neither the House nor X immediately responded to press requests for comment.[18]
 
+## Debate streaming and vendor change (June 2024)
+
+In late June 2024, X owner [[elon-musk|Elon Musk]] said the platform would not block or remove live streams and footage of the June 27 [[2024-presidential-debate|presidential debate]], rejecting [[cnn|CNN]]'s position that its debate feed could not be simulcast with commentary and stating that the DMCA does not apply.[19] CNN had told The Post Millennial that its debates were exclusive to the network and could only be embedded via its own YouTube player, and had informed podcaster [[tim-pool|Tim Pool]] that he could not legally simulcast with commentary and fact checks.[19]
+
+Separately, X replaced its identity-verification contractor [[au10tix|AU10TIX]] — whose parent was identified in Badlands coverage as the Israeli firm [[i-sec|I-SEC]] — with the payment processor [[stripe|Stripe]], after users raised concerns that the verification process, which required a government-issued photo ID and home address, was handled by a company tied to Israeli intelligence.[19]
+
 ## References
 1. Badlands Brief — "American Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-a1a
 2. Badlands Brief — "Lawsuits Can Be Very Effective ...", URL: https://badlands.substack.com/p/badlands-news-brief-051
@@ -126,3 +132,4 @@ X received an inquiry from the [[us-house-of-representatives|U.S. House of Repre
 16. Badlands Brief — "Donald Trump, Dennis Quaid and Steven Seagal Walk into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-995
 17. Badlands Brief — "Badlands News Brief: Rising Demand for DC Defenders & A Sovereign Spring Social", URL: https://badlands.substack.com/p/badlands-news-brief-a34
 18. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38
+19. Badlands Brief — "The Supreme Court Looms Over the First Debate", URL: https://badlands.substack.com/p/badlands-news-brief-b22

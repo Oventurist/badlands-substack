@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [legal-advocacy, transparency, intelligence-oversight, conservative]
-sources: [raw/badlands-brief-f83.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-2b8.md, raw/badlands-news-brief-4b7.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-9ae.md]
+sources: [raw/badlands-brief-f83.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-2b8.md, raw/badlands-news-brief-4b7.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-b0f.md]
 confidence: medium
 ---
 
@@ -48,6 +48,10 @@ In June 2024, America First Legal filed a formal complaint with the [[federal-el
 
 On March 7, 2024, Judge [[aileen-cannon|Aileen Cannon]] accepted an amicus brief filed by the America First Legal Foundation, together with one from former Attorney General [[edwin-meese-iii|Edwin Meese]], arguing that the federal classified documents case against [[donald-trump|Donald Trump]] should be thrown out.[7] Trump had pleaded not guilty to 40 charges over claims that he illegally retained classified documents after leaving office and then obstructed the federal effort to retrieve them.[7] Cannon wrote that the arguments in the briefs "may be of considerable help" to her, a remark that prompted speculation among legal experts that she might dismiss the case.[7]
 
+## Garland memo disclosures (July 2025)
+
+On Friday, July 18, 2025, America First Legal released documents it said conclusively proved that the October 4, 2021 [[garland-memo|Garland memo]] labeling concerned parents as "domestic terrorists" was a political operation of weaponized government rather than lawful execution of federal law by the [[department-of-justice|Department of Justice]].[8] The group said the never-before-seen records, obtained through three and a half years of effort, exposed the Biden [[white-house|White House]]'s involvement in pushing a weaponized DOJ as well as strong dissent from career attorneys in the Department's Civil Rights Division, who warned there was no federal authority or legal basis to target the parents because their speech was protected by the First Amendment.[8] The release allowed AFL to complete the timeline between the [[national-school-boards-association|National School Boards Association]] memo to DOJ and publication of the October 4 memo, confirming its October 7, 2021 prediction that normal process had been bypassed by political leadership disregarding DOJ lawyers' advice.[8]
+
 ## References
 1. Badlands Brief — "A Mostly Peaceful War Continues to Escalate Toward De-Escalation", URL: https://badlands.substack.com/p/badlands-brief-f83
 2. Badlands Brief — "Badlands News Brief: Intelligence Narratives & Seemingly Impossible Deals", URL: https://badlands.substack.com/p/badlands-news-brief-222
@@ -56,3 +60,4 @@ On March 7, 2024, Judge [[aileen-cannon|Aileen Cannon]] accepted an amicus brief
 5. Badlands News Brief — "Trump Counters, SBF Pleads & Disney Dies?", URL: https://badlands.substack.com/p/badlands-news-brief-4c3
 6. Badlands Brief — "Badlands News Brief: Contempt, Combat Tactics and Cuts?", URL: https://badlands.substack.com/p/badlands-news-brief-70a
 7. Badlands Brief — "Badlands News Brief: Will the One True POTUS Please Stand Up?", URL: https://badlands.substack.com/p/badlands-news-brief-9ae
+8. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f

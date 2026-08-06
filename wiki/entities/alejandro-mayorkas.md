@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [homeland-security, biden-administration, january-6, security]
-sources: [raw/badlands-news-brief-017.md, raw/badlands-news-brief-06d.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-860.md]
+sources: [raw/badlands-news-brief-017.md, raw/badlands-news-brief-06d.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-b19.md]
 confidence: medium
 ---
 
@@ -48,6 +48,10 @@ As Secretary of Homeland Security, Mayorkas announced on August 28, 2024 that th
 
 Remarks by Mayorkas, alongside those of President [[joe-biden|Joe Biden]] and insurance analysts, were cited in October 2024 as evidence that the main federal disaster programs — [[fema|FEMA]]'s disaster relief fund and flood insurance program and [[small-business-administration|Small Business Administration]] disaster loans — could be within weeks of running out of cash as [[hurricane-milton|Hurricane Milton]] bore down on Florida following [[hurricane-helene|Hurricane Helene]].[8]
 
+## Impeachment timing and the Texas border fight (January 2024)
+
+Badlands commentary on the January 2024 [[eagle-pass-border-standoff|Eagle Pass standoff]] highlighted that Mayorkas was set to undergo impeachment proceedings the week following January 24, 2024, with the Texas-federal border litigation scheduled to follow on February 7 — a convergence [[burning-bright|Burning Bright]] flagged with the remark "Such timing."[9]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Tracking Resignations, Scare Events & the Death of Taxes", URL: https://badlands.substack.com/p/badlands-news-brief-017
@@ -58,3 +62,4 @@ Remarks by Mayorkas, alongside those of President [[joe-biden|Joe Biden]] and in
 6. Badlands Brief — "Badlands News Brief: Russian Space Nukes & Uniparty Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-553
 7. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889
 8. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
+9. Badlands Brief — "Badlands News Brief: Lake and Abbott Take a Stand as Haley Falls", URL: https://badlands.substack.com/p/badlands-news-brief-b19

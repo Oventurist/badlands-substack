@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [free-speech, censorship, supreme-court, fbi]
-sources: [raw/badlands-news-brief-06e.md, raw/badlands-news-brief-5fb.md]
+sources: [raw/badlands-news-brief-06e.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-b22.md]
 confidence: medium
 ---
 
@@ -26,7 +26,16 @@ The case originated in the Fifth Circuit Court of Appeals in July 2023 and was f
 
 In May 2024, Senator [[mark-warner|Mark Warner]], chairman of the [[senate-intelligence-committee|Senate Intelligence Committee]], told reporters at the RSA Conference that key federal agencies including CISA and the [[fbi|FBI]] had resumed discussions with social media companies about removing disinformation as the November presidential election approached.[2] The move marked a stark reversal after the Biden administration had for months frozen communications with social platforms while the case was pending.[2] According to Warner, contacts resumed roughly around the time that multiple justices appeared to favor the executive branch's position during oral argument.[2]
 
+## The June 26, 2024 decision
+
+On Wednesday, June 26, 2024, the [[supreme-court-of-the-united-states|Supreme Court]] threw out the lawsuit brought by state attorneys in Missouri and Louisiana seeking to curtail the Biden administration's efforts to coerce social media companies into removing content officials deemed misinformation.[3] In a 6–3 ruling, the Court found that the group of social media users and states lacked standing to bring such claims: "We begin—and end—with standing," the majority opinion reads. "At this stage, neither the individual nor the state plaintiffs have established standing to seek an injunction against any defendant. We therefore lack jurisdiction to reach the merits of the dispute."[3]
+
+[[ashe-in-america|Ashe in America]] characterized the outcome as the Court kicking the can down the road — refusing to reach the merits and thereby allowing the conduct of the [[censorship-industrial-complex|Censorship Industrial Complex]] to continue.[3] She quoted Justice [[samuel-alito|Samuel Alito]]'s dissent: "It was blatantly unconstitutional, and the country may come to regret the courts failure to say so."[3] She paired the ruling with [[snyder-v-united-states|Snyder v. United States]], released the same day, as two opinions weighing in favor of corruption.[3]
+
+Writing shortly after the decision, she predicted a repeat of 2020-style censorship heading into the election, noting that independent journalist Sarah Fields had posted on X that she lost 1,100 followers overnight due to account suspensions rather than bot cleanup, and that Dr. Travis Morrel — who wrote a policy to ban certain surgeries performed on girls — had been suspended without warning.[3] The commentary concluded that the majority had emboldened the government to leverage private companies to silence dissenting voices in what it called a brazen violation of the Constitution.[3]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Fake Electionception, Sovereign Alliance Digs & Chick Fights", URL: https://badlands.substack.com/p/badlands-news-brief-06e
 2. Badlands News Brief — "Biden Melts Down as Judges Are Themselves Judged", URL: https://badlands.substack.com/p/badlands-news-brief-5fb
+3. Badlands Brief — "The Supreme Court Looms Over the First Debate", URL: https://badlands.substack.com/p/badlands-news-brief-b22

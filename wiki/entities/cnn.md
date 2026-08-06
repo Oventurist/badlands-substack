@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, mainstream-media, cable-news]
-sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-1c6.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-9e7.md, raw/badlands-news-brief-a15.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-1c6.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-9e7.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b01.md]
 confidence: medium
 ---
 
@@ -100,6 +100,14 @@ Badlands contributor [[ashe-in-america|Ashe in America]] wrote that defamation i
 
 On March 13, 2024, former CNN anchor Don Lemon announced that Elon Musk had cancelled his partnership with X hours after Lemon interviewed Musk for the debut of his new independent web-based show.[18] Lemon discussed the collapse in an interview with CNN's Erin Burnett that night and shared excerpts of the ninety-minute sit-down.[18] CNN had previously confirmed Musk's recent meeting with Donald Trump, one of several Trump held with donors in Palm Beach as he sought funds for a financially strained campaign.[18] Separately, CNN senior legal analyst Elie Honig characterized Judge Scott McAfee's partial dismissal of the Fulton County indictment as an embarrassing setback for District Attorney Fani Willis.[18]
 
+## Reporting on the 2024 Dagestan attacks
+
+CNN reported that gunmen opened fire on places of worship in two cities of Russia's [[dagestan|Dagestan]] province on June 23, 2024, killing at least 15 police officers and four civilians including an Orthodox priest, with at least six militants also killed, and noted the attacks came three months after [[isis-k|ISIS-K]] claimed the Crocus City Hall assault in Moscow.[19]
+
+## 2024 "MSM is dead" warning
+
+Days before the November 2024 election, CNN chief media analyst [[brian-stelter|Brian Stelter]] shared on X a comment from an anonymous television executive: "If half the country has decided that Trump is qualified to be president, that means they're not reading any of this media, and we've lost this audience completely. A Trump victory means mainstream media is dead in its current form."[20] [[zerohedge|ZeroHedge]] argued the remark was accurate, noting that trust in corporate media had slid for decades and imploded to record lows, and framing the 2020s as the decade the curtain was lifted on a "censorship blob" of legacy media, government, big tech, fact-checking nonprofits and globalist billionaires.[20] [[badlands-media|Badlands Media]] writer [[ashe-in-america|Ashe in America]] responded that legacy media's death had nothing to do with the election because, like the printed *Newsweek* discontinued in 2012, "they're already dead."[20]
+
 ## References
 
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
@@ -120,3 +128,5 @@ On March 13, 2024, former CNN anchor Don Lemon announced that Elon Musk had canc
 16. Badlands Brief — "Badlands News Brief: January 6 and Nord Stream Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-8f4
 17. Badlands Brief — "Archer's Testimony & Prussian Roulette", URL: https://badlands.substack.com/p/badlands-news-brief-9e7
 18. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
+19. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
+20. Badlands Brief — "Badlands News Brief: Marauding, Squirrel-Murdering Psychopaths Panic Ahead of the Election", URL: https://badlands.substack.com/p/badlands-news-brief-b01

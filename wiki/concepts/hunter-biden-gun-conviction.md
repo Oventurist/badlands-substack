@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [hunter-biden, second-amendment, justice-department, weaponization, info-war]
-sources: [raw/badlands-news-brief-280.md, raw/badlands-news-brief-2b8.md, raw/badlands-news-brief-553.md]
+sources: [raw/badlands-news-brief-280.md, raw/badlands-news-brief-2b8.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-a82.md]
 confidence: medium
 ---
 
@@ -40,7 +40,12 @@ In February 2024 the [[justice-department|Justice Department]] released evidence
 
 Prosecutors also said that "on October 13, 2018, and October 14, 2018 (the day after and two days after he purchased the firearm), the defendant messaged his girlfriend about meeting a drug dealer and smoking crack," and the document featured messages from October 23, 2018, the day his then-girlfriend discarded the firearm.[3]
 
+## Law license suspension
+
+On June 25, 2024, following the conviction, the [[dc-court-of-appeals|D.C. Court of Appeals]] suspended [[hunter-biden|Hunter Biden]] from the practice of law in the District after considering the indictment and the jury verdict, and directed the D.C. Board on Professional Responsibility to open a formal proceeding to determine whether the offense involved moral turpitude.[4] The D.C. Office of Disciplinary Counsel had earlier found the offenses amounted to a "serious crime," triggering automatic suspension under its rules; reporting noted Biden faced up to 25 years in prison though the maximum was unlikely for a first-time offender.[4] Sentencing had not been scheduled, and Biden moved for a new trial on the ground that the federal court in Delaware lacked jurisdiction.[4]
+
 ## References
 1. Badlands Brief — "Let's Talk About Hunter Biden ... and Bananas", URL: https://badlands.substack.com/p/badlands-news-brief-280
 2. Badlands Brief — "Badlands News Brief: Congress Limps Along as the Nation Grits Its Teeth", URL: https://badlands.substack.com/p/badlands-news-brief-2b8
 3. Badlands Brief — "Badlands News Brief: Russian Space Nukes & Uniparty Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-553
+4. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82

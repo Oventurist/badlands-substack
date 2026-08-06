@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [pharmacy, healthcare, fraud, false-claims-act, litigation]
-sources: [raw/badlands-news-brief-1a7.md]
+sources: [raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-b24.md]
 confidence: medium
 ---
 
@@ -20,6 +20,11 @@ US District Judge [[colleen-mcmahon|Colleen McMahon]], sitting in Manhattan, ord
 
 Badlands contributor [[canncon|CannCon]] argued that the scale of the fraud warranted criminal accountability rather than a corporate monetary penalty, writing that "there should be people going to prison for this" and framing the case as the defrauding of the American people of nearly $1 billion during a period when many citizens were "forced out of work and given scraps" — an allusion to the COVID-era economic shutdowns.[1] The commentary called for a consumer boycott of the chain.[1]
 
+## 2025 COVID-19 vaccine restrictions
+
+In late August 2025, CVS restricted COVID-19 vaccinations following tightened federal rules on who may receive the shot, saying the vaccine was available in only 13 states plus Washington, D.C., to people with a prescription and citing "the current regulatory environment."[2] Rival chain [[walgreens|Walgreens]] imposed similar restrictions.[2] The changes followed the firing of [[centers-for-disease-control-and-prevention|CDC]] Director [[susan-monarez|Susan Monarez]] and a wave of resignations among senior agency officials, and coincided with reported COVID-19 diagnoses rising 11.2% for the week ending August 23.[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Epstein Angst, Autopen Privilege, & Migrant Cash Cards", URL: https://badlands.substack.com/p/badlands-news-brief-1a7
+2. Badlands Brief — "Badlands News Brief: A Curious Car Crash, Covid Case Rates, & A Culture of Panic and Dread", URL: https://badlands.substack.com/p/badlands-news-brief-b24

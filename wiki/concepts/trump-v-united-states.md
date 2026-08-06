@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [scotus, presidential-immunity, precedent, accountability]
-sources: [raw/badlands-brief-b74.md, raw/badlands-news-brief-0d4.md, raw/badlands-news-brief-aac.md]
+sources: [raw/badlands-brief-b74.md, raw/badlands-news-brief-0d4.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-b22.md]
 confidence: medium
 ---
 
@@ -36,8 +36,15 @@ The precedent was invoked in January 2026 after [[bill-clinton|Bill Clinton]] an
 
 The commentary paired Trump v. United States with the contempt prosecutions of Steve Bannon and Peter Navarro, who were imprisoned for defying congressional subpoenas, arguing that equal justice would require comparable consequences for the Clintons.[1]
 
+## Anticipation ahead of the June 27 debate
+
+In the days before the ruling, the pending immunity decision loomed over the [[2024-presidential-debate|first debate]] between [[donald-trump|Donald Trump]] and [[joe-biden|Joe Biden]].[4] The Hill reported that the question of whether Trump is immune from prosecution for certain acts while president could upend his criminal trials and, more immediately, throw a wrinkle into the prime-time showdown on [[cnn|CNN]], where his legal troubles were expected to be a key point of discussion.[4] Grant Reeher, director of the Campbell Public Affairs Institute at Syracuse University, said that "if there's a decision before then, whoever that decision favors is going to be wanting to draw attention to it," and expected it to be worked into the conversation or posed as a moderator question.[4] The Court had two opportunities to release the opinion before the debate, with opinions scheduled for Wednesday and Thursday mornings, and a third and final opinion day on Friday.[4]
+
+[[ashe-in-america|Ashe in America]] wrote that the ruling might come on debate day itself, said she had no instinct which way it would go, and described the Wednesday opinions as depressing enough that she was bracing for disappointment.[4] She argued that if immunity were taken off the table, the "Biden Crime Family" would be squarely on it, and joked that if the opinion came down on debate day she hoped Justice [[clarence-thomas|Clarence Thomas]] would deliver it, "if only for the social reaction."[4]
+
 ## References
 
 1. Badlands Brief — "Epsteinian Stalling, Cartel Convergence & Pirates of the Carib-Iran", URL: https://badlands.substack.com/p/badlands-brief-b74
 2. Badlands Brief — "Badlands News Brief: Kangaroo Courts and Administrative Pedophiles", URL: https://badlands.substack.com/p/badlands-news-brief-0d4
 3. Badlands Brief — "Badlands News Brief: Wins at Home and Deals Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-aac
+4. Badlands Brief — "The Supreme Court Looms Over the First Debate", URL: https://badlands.substack.com/p/badlands-news-brief-b22

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [olympics, paris, culture-war, sports, 2024]
-sources: [raw/badlands-news-brief-4c5.md]
+sources: [raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-b39.md]
 confidence: medium
 ---
 
@@ -26,6 +26,11 @@ Badlands commentator [[ashe-in-america|Ashe in America]] wrote that Luciferian a
 
 Surfing, which debuted as an Olympic event at Tokyo 2020, was held for the Paris Games in Tahiti, French Polynesia — roughly 10,000 miles from the host city.[1] The Badlands commentary noted that the US gymnastics team was off to a strong start and that cyclist Haley Batten took silver in women's mountain biking, the best-ever American finish in that event.[1]
 
+## Steven van de Velde scandal
+
+The Games opened amid a scandal over the participation of Dutch beach volleyball player [[steven-van-de-velde|Steven van de Velde]], who was convicted in 2016 of raping a British 12-year-old girl and was nonetheless selected for the Netherlands team.[2] He had been sentenced to four years in a British prison, served about one year, was transferred to the Netherlands and released after roughly a month.[2] The [[international-olympic-committee|International Olympic Committee]] faced calls for an investigation from child-protection and sexual-violence advocacy groups, including [[rape-crisis-england-and-wales|Rape Crisis England & Wales]], whose chief executive Ciara Bergman said the decision created an "enormous sense of impunity."[2] The IOC appeared unlikely to act, on the reported basis that Dutch experts had concluded there was no risk of reoffending.[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Fake Poles, HomOlympics & Deal-Making", URL: https://badlands.substack.com/p/badlands-news-brief-4c5
+2. Badlands Brief — "Biden Says Stuff as Nazis Circle in Ukraine", URL: https://badlands.substack.com/p/badlands-news-brief-b39

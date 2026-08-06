@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [palestinian-authority, israel-palestine-conflict, diplomacy]
-sources: [raw/badlands-news-brief-030.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-adc.md]
+sources: [raw/badlands-news-brief-030.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-adc.md, raw/badlands-news-brief-b10.md, raw/badlands-news-brief-b24.md]
 confidence: medium
 ---
 
@@ -71,6 +71,18 @@ Writing in July 2025 on the [[2025-un-two-state-solution-conference|UN two-state
 
 In June 2024 [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] published a video arguing that [[donald-trump|Donald Trump]] and Abbas have engaged in a form of kayfabe — staged public antagonism concealing cooperation — dating from before the Saudi "Sword Dance" summit of May 20, 2017.[10] In support he cited a December 2021 Israeli Channel 12 interview in which Trump said of Abbas, "I thought he wanted to make a deal more than Netanyahu. I had a great meeting with him... He was almost like a father," and named Abbas and [[benny-gantz|Benny Gantz]] as the two figures capable of making peace.[10] Trump added that his prior assumption that "the Palestinians were impossible, and that the Israelis would do anything to make a deal" proved false.[10]
 
+## 2024 cabinet reshuffle and split with Hamas
+
+In the spring of 2024 the United States welcomed the formation of a new Palestinian autonomy government under Abbas, accepting the revised Cabinet lineup as a step toward political reform.[11] The [[state-department|State Department]] spokesperson [[matthew-miller|Matthew Miller]] said Washington looked forward to working with the new ministers "to deliver on credible reforms," and described a revitalized [[palestinian-authority|Palestinian Authority]] as essential to stability in the broader region.[11] Coverage noted that Abbas, who administers parts of the Israeli-occupied West Bank, had not faced an election in almost two decades, and that the authority enjoyed little popular legitimacy among Palestinians, many of whom viewed it as a subcontractor of the occupation because of its security cooperation with [[israel]].[11]
+
+[[badlands-media|Badlands Media]] commentary characterised Abbas as aligned with [[donald-trump|Donald Trump]], noting that Trump had called Abbas "a father-like figure" while Abbas told the Arab League that Trump was a "good man" and that problems with the US State Department and the [[abraham-accords|Abraham Accords]] were not Trump's fault.[11] Abbas's appointment of [[mohammad-mustafa|Mohammad Mustafa]] as prime minister drew objections from [[hamas]], which said it had not been consulted; Abbas retorted that the PA had not been consulted before Hamas conducted "the October 7th Adventure."[11] The exchange was read as a clear public break between [[fatah]] and Hamas, deepened by the memory of Hamas driving Fatah security forces out of Gaza in 2007.[11] The commentary argued that Abbas was right to note Hamas's attack had prevented the [[saudi-peace-initiative|Saudi Peace Initiative]] from being finalised.[11]
+
+## 2025 US visa ban
+
+In late August 2025, the United States announced it would not allow Abbas to travel to New York for the annual high-level [[united-nations-general-assembly|United Nations General Assembly]], where several U.S. allies were set to recognize Palestine as a state.[12] A [[state-department|State Department]] official said the visa ban on Palestinian officials would cover Abbas along with 80 other [[palestinian-authority|Palestinian Authority]] officials, an unprecedented step taken a month after the department first announced it would pursue the policy.[12] Abbas had also been due to attend a summit hosted by France and Saudi Arabia at which Britain, France, Australia and Canada planned to formally recognize a Palestinian state; his office said it was astonished by the decision and argued it violated the UN "headquarters agreement."[12]
+
+Badlands commentator [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] attributed the move to an entrenched Zionist element within the State Department, citing the earlier reassignment of spokeswoman [[tammy-bruce|Tammy Bruce]] to a deputy UN ambassadorship alongside [[mike-waltz|Mike Waltz]], and predicted [[donald-trump|Trump]] would reverse it before the General Assembly.[12] He noted that Trump had once described Abbas as a "father-like figure" in a December 2021 interview with Israeli journalist Barak Ravid, and had posted Abbas's condolence letter over the 2024 assassination attempt the night before [[benjamin-netanyahu|Netanyahu]] addressed a joint session of Congress.[12]
+
 ## References
 1. Badlands Brief — "Rare Earths, Rogue Judges, & Record Downward Revisions", URL: https://badlands.substack.com/p/badlands-news-brief-030
 2. Badlands News Brief — "Jordanian Jam Sessions, Unpaused Loans, & Disbanded Brotherhoods", URL: https://badlands.substack.com/p/badlands-news-brief-079
@@ -82,3 +94,5 @@ In June 2024 [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] published a v
 8. Badlands News Brief — "Embattled Mayors, Peacemakers & Signal Setters", URL: https://badlands.substack.com/p/badlands-news-brief-9b2
 9. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
 10. Badlands Brief — "Badlands News Brief: Globalists Panic as Populism Takes Over the Zeitgeist", URL: https://badlands.substack.com/p/badlands-news-brief-adc
+11. Badlands Brief — "Badlands News Brief: Middle Eastern Shenanigans & Dasting Data Dominate", URL: https://badlands.substack.com/p/badlands-news-brief-b10
+12. Badlands Brief — "Badlands News Brief: A Curious Car Crash, Covid Case Rates, & A Culture of Panic and Dread", URL: https://badlands.substack.com/p/badlands-news-brief-b24

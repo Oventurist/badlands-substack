@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [new-york, attorney-general, subpoenas, lawfare]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-5dc.md, raw/badlands-brief-884.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-2e8.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-579.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-a29.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-5dc.md, raw/badlands-brief-884.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-2e8.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-579.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-afb.md]
 confidence: medium
 ---
 
@@ -84,6 +84,12 @@ In February 2024, after Judge [[arthur-engoron|Arthur Engoron]] entered a $355 m
 
 On February 20, 2024, James said she was prepared to seize former President [[donald-trump|Donald Trump]]'s buildings and assets if he could not pay the nearly $355 million penalty imposed in the state's [[new-york-civil-fraud-trial|civil fraud case]], in which Justice [[arthur-engoron|Arthur Engoron]] also barred him from doing business in New York for three years.[14] In an ABC News interview she said it was "really not my business" whether Trump had the funds, adding, "If he does not have funds to pay off the judgment, then we will seek, you know, judgment enforcement mechanisms in court, and we will ask the judge to seize his assets."[14] She singled out the Trump Building at 40 Wall Street in Lower Manhattan, saying, "We are prepared to make sure that the judgment is paid to New Yorkers, and yes, I look at 40 Wall Street each and every day."[14]
 
+## Deutsche Bank testimony (November 2023)
+
+During the defense phase of the civil fraud trial in November 2023, testimony from [[deutsche-bank|Deutsche Bank]] threatened the core of James' case, which had cast the German lender as [[donald-trump|Trump]]'s biggest victim in an alleged scheme to inflate asset values to obtain favorable terms from banks and insurers.[15] Managing director [[david-williams-deutsche-bank|David Williams]] testified on November 28 that internally halving a client's stated asset values and approving the loan anyway was "atypical, but not entirely unusual."[15] Internal credit memos showed the bank had cut Trump's stated net worth in 2011 and 2012 from about $4.2 billion to $2.3 billion and lent to him regardless.[15] Trump's team called four current and former bank employees, including former private banker [[rosemary-vrablic|Rosemary Vrablic]], to flip the script on the state's narrative.[15]
+
+[[ashe-in-america|Ashe in America]] characterized James' theory of inflated asset values — including an $18 million valuation of Mar-a-Lago — as a "fever dream," argued that the testimony was devastating to the premise that Deutsche Bank was an unwilling victim, and repeated the claim that James had campaigned on prosecuting Trump and fabricated a crime to do so.[15] She framed the prosecutions as effectively campaign stops that strengthened Trump and accelerated a broader public awakening, describing a coverup spanning all three branches of government at both federal and state levels.[15]
+
 ## References
 1. Badlands Brief — "Somali Shatterpoints, Cartel Countermeasures, & Erosion of the World Order", URL: https://badlands.substack.com/p/badlands-brief-094
 2. Badlands Brief — "Gay Ayatollahs & Globalist Fragility", URL: https://badlands.substack.com/p/badlands-brief-5dc
@@ -99,3 +105,4 @@ On February 20, 2024, James said she was prepared to seize former President [[do
 12. Badlands Brief — "Badlands News Brief: Saudi Scoops, Slender Stabbers, & Scorned Scouts", URL: https://badlands.substack.com/p/badlands-news-brief-824
 13. Badlands Brief — "Badlands News Brief: DemoCrabs in Biden's Bucket", URL: https://badlands.substack.com/p/badlands-news-brief-845
 14. Badlands Brief — "Badlands News Brief: Deadline Deals and Crime Families", URL: https://badlands.substack.com/p/badlands-news-brief-a29
+15. Badlands Brief — "Badlands News Brief: Biden & Trump Enter the Lawfare Thunderdome", URL: https://badlands.substack.com/p/badlands-news-brief-afb

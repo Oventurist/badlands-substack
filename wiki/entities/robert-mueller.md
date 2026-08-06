@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fbi, special-counsel, russiagate, obituary]
-sources: [raw/badlands-brief-7b5.md, raw/badlands-news-brief-01d.md]
+sources: [raw/badlands-brief-7b5.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-b24.md]
 confidence: medium
 ---
 
@@ -34,6 +34,17 @@ After news of Mueller's death, accessible reports said Trump posted on [[truth-s
 
 During [[john-durham|John Durham]]'s June 21, 2023 testimony before the [[house-judiciary-committee|House Judiciary Committee]], Democratic members repeatedly contrasted Durham's inquiry with Mueller's, asking why Durham's investigation had cost more than $6 million while producing far fewer indictments than the Mueller probe.[2] [[adam-schiff|Adam Schiff]] continued to defend the legitimacy of the Mueller report during the hearing, a position [[justin-deschamps|Justin Deschamps]] argued was untenable given that the [[durham-report|Durham Report]] had undermined the credibility of the [[steele-dossier|Steele dossier]].[2]
 
+## Flynn lawsuit allegations (2023)
+
+The malicious prosecution lawsuit filed by [[michael-flynn|Michael Flynn]] on March 3, 2023 against the [[department-of-justice|Department of Justice]] and the [[fbi|FBI]] alleges that prosecutors from Mueller's special counsel office, following on from the FBI's counterintelligence investigation, investigated and prosecuted Flynn for political reasons because they regarded him as a threat.[3] Flynn, who had been charged in 2017 with lying to the FBI, sought at least $50 million in damages.[3]
+
+
+## Parkinson's diagnosis
+
+In 2025, Mueller's family disclosed to The New York Times that the former FBI director and special counsel, then 81, had been diagnosed with Parkinson's disease in the summer of 2021.[4] According to the family statement, he retired from the practice of law at the end of that year, taught at his law school alma mater during the fall of both 2021 and 2022, and retired at the end of 2022; the family asked that his privacy be respected.[4]
+
 ## References
 1. Badlands Brief — "Trump's Ultimatum to the Ayatollah, who is gay (allegedly)", URL: https://badlands.substack.com/p/badlands-brief-7b5
 2. Badlands News Brief — "Durham's Dance, Putin's Warning and Xi's Rebuke", URL: https://badlands.substack.com/p/badlands-news-brief-01d
+3. Badlands News Brief — "Trump on Wuhan, Flynn Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-af7
+4. Badlands Brief — "Badlands News Brief: A Curious Car Crash, Covid Case Rates, & A Culture of Panic and Dread", URL: https://badlands.substack.com/p/badlands-news-brief-b24

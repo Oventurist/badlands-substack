@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [whistleblower, internal-revenue-service, hunter-biden]
-sources: [raw/badlands-news-brief-090.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-82f.md]
+sources: [raw/badlands-news-brief-090.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-b26.md]
 confidence: medium
 ---
 
@@ -24,7 +24,14 @@ Badlands contributor [[ashe-in-america|Ashe in America]] cited disclosures from 
 
 Although not named as a defendant, Shapley's disclosures were central to [[hunter-biden-v-internal-revenue-service|Hunter Biden's September 2023 lawsuit]] against the [[internal-revenue-service|IRS]], which alleged that agents illegally released his tax return information; the complaint focused on statements made publicly, in congressional testimony, and in interviews by Shapley, fellow whistleblower [[joseph-ziegler|Joseph Ziegler]], and their lawyers.[3]
 
+## June 2023 allegations and the Garland impeachment push
+
+A fourteen-year veteran of the agency, Shapley alleged in June 2023 that Hunter Biden received preferential treatment from investigators examining his tax affairs and his alleged lying on a gun permit application.[4] He pointed to a WhatsApp message sent on July 30, 2017 by Hunter Biden to Chinese Communist Party official [[henry-zhao|Henry Zhao]], in which Biden pressed Zhao to follow his "orders" and said his father was with him; Shapley stated that he raised concerns about the message with Justice Department prosecutors, who rebuffed him.[4]
+
+Shapley's testimony was the trigger for House Speaker [[kevin-mccarthy|Kevin McCarthy]]'s announcement that Republicans would begin an impeachment inquiry into Attorney General [[merrick-garland|Merrick Garland]] by July 6, 2023 if the whistleblower claims checked out.[4] Writing for [[badlands-media|Badlands Media]], [[ashe-in-america|Ashe in America]] argued that the implication of Shapley's allegations was that Garland had lied under oath in his March 1, 2023 congressional testimony about the authority granted to U.S. Attorney [[david-weiss|David Weiss]].[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Hunter Hunted, Billionaire Boxing & Snopes Nopes", URL: https://badlands.substack.com/p/badlands-news-brief-090
 2. Badlands Brief — "Badlands News Brief: Narrative Shielding & Biden Bait", URL: https://badlands.substack.com/p/badlands-news-brief-204
 3. Badlands Brief — "Badlands News Brief: Missing Planes, Missing Funds & Missing Metrics", URL: https://badlands.substack.com/p/badlands-news-brief-82f
+4. Badlands Brief — "Badlands News Brief: Trump's Tapes, Putin's Plan & Byrne's Bio", URL: https://badlands.substack.com/p/badlands-news-brief-b26

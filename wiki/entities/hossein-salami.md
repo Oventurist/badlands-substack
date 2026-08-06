@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [iran, irgc, israel-iran-conflict, military]
-sources: [raw/badlands-news-brief-540.md]
+sources: [raw/badlands-news-brief-540.md, raw/badlands-news-brief-ae1.md]
 confidence: medium
 ---
 
@@ -22,5 +22,11 @@ Israeli Defense Minister [[israel-katz|Israel Katz]] announced the strikes and d
 
 Salami's killing came amid escalating tensions over stalled nuclear negotiations, during which Iranian Defense Minister General Aziz Nasirzadeh had warned that Iran could attack U.S. bases if talks with the [[donald-trump|Trump]] administration broke down.[1] Commentary in the [[badlands-news-brief|Badlands News Brief]] framed the escalation as an information-war event whose on-the-ground footage was largely uncorroborated, and argued that [[israel|Israel]] was the aggressor in an unprovoked attack on a sovereign state.[1]
 
+## Response to the March 2025 Yemen strikes
+
+After President [[donald-trump|Donald Trump]] launched large-scale strikes on the [[houthis|Houthis]] in Yemen on March 15, 2025 and warned [[iran|Iran]] to halt support for the group, Salami — top commander of Iran's Revolutionary Guards — reacted on Sunday local time by saying the Houthis are independent and take their own strategic and operational decisions.[2] "We warn our enemies that Iran will respond decisively and destructively if they take their threats into action," he told state media.[2]
+
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Musical Guard Troops & Immigration Crackdowns", URL: https://badlands.substack.com/p/badlands-news-brief-540
+2. Badlands News Brief — "Defiant Deportations & Canadian Freeloaders", URL: https://badlands.substack.com/p/badlands-news-brief-ae1

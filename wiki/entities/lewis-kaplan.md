@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [judiciary, federal-judge, e-jean-carroll, donald-trump]
-sources: [raw/badlands-brief-d94.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-4c3.md]
+sources: [raw/badlands-brief-d94.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-b4a.md]
 confidence: low
 ---
 
@@ -30,9 +30,14 @@ As Senior U.S. District Judge for the Southern District of New York, Kaplan pres
 
 On March 28, 2024, Kaplan sentenced [[ftx|FTX]] founder [[sam-bankman-fried|Sam Bankman-Fried]] to 25 years in prison and ordered $11 billion in forfeiture to the U.S. government for the fraud and conspiracy that destroyed the cryptocurrency exchange and the related hedge fund [[alameda-research|Alameda Research]].[4] "There is a risk that this man will be in position to do something very bad in the future," Kaplan said before imposing the sentence on the 32-year-old, adding, "And it's not a trivial risk at all."[4] He observed that he had never heard "a word of remorse for the commission of terrible crimes" from the defendant, and that in 30 years on the federal bench he had "never seen a performance" like Bankman-Fried's trial testimony, describing him as either "outright lying" or evasive under cross-examination.[4] The sentence fell well below the 40 to 50 years prosecutors sought but far above the five to six-and-a-half years proposed by the defense.[4]
 
+## January 2024 trial suspension
+
+On January 22, 2024, Kaplan suspended the trial of [[e-jean-carroll]]'s defamation suit against [[donald-trump]] after one juror called the courthouse to report flulike symptoms on his way to court, and after Trump's lawyer [[alina-habba]] — who had been exposed to COVID while visiting her parents — reported lingering symptoms despite a negative test.[5] Habba asked Kaplan to postpone court for the day and then to push proceedings to Wednesday so that Trump's testimony would not fall on the day of the New Hampshire primary; Carroll's counsel Roberta Kaplan objected, saying she would prefer to continue on Tuesday, and the judge said he would consider the request.[5] Writing in the [[badlands-news-brief]], [[ashe-in-america]] argued that Kaplan had waited to recess the court until after dismissing Trump's motion for a mistrial over Carroll's deletion of material evidence, and characterised the judge as "coloring outside the lines of Federal Civil Procedure since the inception of this case."[5]
+
 ## References
 
 1. Badlands Brief — "Vagina's Mom Just Can't Get Paid", URL: https://badlands.substack.com/p/badlands-brief-d94
 2. Badlands Brief — "Badlands News Brief: Media Panic, Elitist Advances & Dead Chickens", URL: https://badlands.substack.com/p/badlands-news-brief-2f8
 3. Badlands News Brief — "Musk Investigated, Fauci Exposed & Committees Engaged", URL: https://badlands.substack.com/p/badlands-news-brief-34a
 4. Badlands News Brief — "Trump Counters, SBF Pleads & Disney Dies?", URL: https://badlands.substack.com/p/badlands-news-brief-4c3
+5. Badlands Brief — "Badlands News Brief: Border Battles, Trump Trials & COVID Comeuppance", URL: https://badlands.substack.com/p/badlands-news-brief-b4a

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republican, missouri, ways-and-means]
-sources: [raw/badlands-news-brief-090.md]
+sources: [raw/badlands-news-brief-090.md, raw/badlands-news-brief-b26.md]
 confidence: medium
 ---
 
@@ -18,3 +18,4 @@ In June 2023, Smith stated that U.S. Attorney [[david-weiss|David Weiss]] had so
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Hunter Hunted, Billionaire Boxing & Snopes Nopes", URL: https://badlands.substack.com/p/badlands-news-brief-090
+2. Badlands Brief — "Badlands News Brief: Trump's Tapes, Putin's Plan & Byrne's Bio", URL: https://badlands.substack.com/p/badlands-news-brief-b26

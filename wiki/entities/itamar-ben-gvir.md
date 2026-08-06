@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, national-security, prisons, ben-gvir]
-sources: [raw/badlands-brief-1c6.md, raw/badlands-brief-559.md, raw/badlands-brief-724.md, raw/badlands-brief-739.md, raw/badlands-brief-708.md, raw/badlands-brief-7ed.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-4bb.md, raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-7b1.md, raw/badlands-news-brief-87b.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a57.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-ac3.md]
+sources: [raw/badlands-brief-1c6.md, raw/badlands-brief-559.md, raw/badlands-brief-724.md, raw/badlands-brief-739.md, raw/badlands-brief-708.md, raw/badlands-brief-7ed.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-4bb.md, raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-7b1.md, raw/badlands-news-brief-87b.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a57.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-ac3.md, raw/badlands-news-brief-b02.md]
 confidence: medium
 ---
 
@@ -129,6 +129,10 @@ In July 2024, Ben-Gvir warned that if the Biden administration imposed sanctions
 
 Badlands commentary linked the sanctions push to speculation about why [[joe-biden|Joe Biden]] was being forced out of power, suggesting he was implementing [[donald-trump|Donald Trump]]'s agenda by going after radical elements in the Israeli government.[22] The Brief recalled that Ben-Gvir had served as defense lawyer for [[benzion-gopstein|Benzion Gopstein]], the [[lehava|Lehava]] leader convicted of incitement in January 2024 for calling in 2015 for the expulsion of Christians from Israel and the burning of churches, and described both Ben-Gvir and Smotrich as loyal followers of [[meir-kahane|Meir Kahane]], assassinated in New York City in 1990.[22] It further tied this network to the Israeli oligarchy including [[dan-gertler|Dan Gertler]], and concluded that [[benjamin-netanyahu|Netanyahu]] had made his bed with these figures and that they now held his leash.[22]
 
+## Opposition to the January 2025 ceasefire deal
+
+Briefed by [[benjamin-netanyahu|Benjamin Netanyahu]] on January 13, 2025 alongside Finance Minister [[bezalel-smotrich|Bezalel Smotrich]], National Security Minister Itamar Ben-Gvir was described as certain to vote against any hostage deal, on the reasoning that winning populist votes in the next election outweighed saving lives in his calculations.[23] Analysts held that Ben-Gvir would follow Smotrich out of the coalition if Smotrich resigned, bringing the government down.[23] [[badlands-media|Badlands Media]] commentator [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] characterized Ben-Gvir and Smotrich as the two most hardcore radicals in the cabinet, whose settler base could not accept a ceasefire and whose Haredi supporters were newly exposed to [[ultra-orthodox-conscription-in-israel|military conscription]].[23]
+
 ## References
 1. Badlands Brief — "Spain Wins The [American] World Cup", URL: https://badlands.substack.com/p/badlands-brief-1c6
 2. Badlands Brief — "Narrative Warfare For Your Safety", URL: https://badlands.substack.com/p/badlands-brief-559
@@ -152,3 +156,4 @@ Badlands commentary linked the sanctions push to speculation about why [[joe-bid
 20. Badlands Brief — "Badlands News Brief: The Uniparty Celebrates as Warmongers Grow Desperate", URL: https://badlands.substack.com/p/badlands-news-brief-a57
 21. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
 22. Badlands Brief — "Secrets of the Secret Service ... and Circling Sharks in DC", URL: https://badlands.substack.com/p/badlands-news-brief-ac3
+23. Badlands News Brief — "Contentious Confirmations & Conflicted Special Counsels", URL: https://badlands.substack.com/p/badlands-news-brief-b02

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [supreme-court, elections, mail-in-ballots, judiciary]
-sources: [raw/badlands-brief-169.md, raw/badlands-news-brief-a69.md]
+sources: [raw/badlands-brief-169.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-aac.md]
 confidence: medium
 ---
 
@@ -22,6 +22,11 @@ Badlands contributor [[ashe-in-america|Ashe in America]] framed the ruling as co
 
 Barrett wrote for the majority in [[trump-v-casa|Trump v. CASA]], announced June 27, 2025, which curtailed the ability of federal district courts to issue [[universal-injunction|universal injunctions]] against the executive branch.[2] The opinion included a pointed rebuttal of Justice [[ketanji-brown-jackson|Ketanji Brown Jackson]]'s dissent, an exchange the New York Post likened to a "virtual cage match" by the Court's usually restrained standards.[2] Badlands commentary called the exchange the highlight of the opinion and arguably of the entire session.[2]
 
+## Partial separation in Trump v. United States (2024)
+
+In the Court's July 1, 2024 presidential-immunity decision, [[trump-v-united-states|Trump v. United States]], Barrett joined the judgment overall while joining in part the separate writing that Badlands described as the dissent's line of argument.[3] Contributor [[ashe-in-america|Ashe in America]] noted the split posture with some irritation, characterizing the dissenting material she partially joined as "melodramatic screeching."[3]
+
 ## References
 1. Badlands Brief — "Condemnation, Calibration, & Constitutional Boxes", URL: https://badlands.substack.com/p/badlands-brief-169
 2. Badlands News Brief — "Shadow Feds, Activist Courts, & Lasting Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a69
+3. Badlands Brief — "Badlands News Brief: Wins at Home and Deals Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-aac

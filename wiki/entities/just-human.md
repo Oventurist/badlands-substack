@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, host, podcast, narrative-warfare]
-sources: [raw/badlands-media-show-schedule-c28.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-blast.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-6b6.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-948.md]
+sources: [raw/badlands-media-show-schedule-c28.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-blast.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-6b6.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-af7.md]
 confidence: medium
 ---
 
@@ -93,6 +93,13 @@ Among the details he flagged were that no Americans or Britons were involved, th
 
 In the December 7, 2023 Badlands News Brief, Just Human summarized a week of Biden-family developments: [[james-biden|James Biden]] failed to appear for an interview with the [[biden-impeachment-inquiry|House impeachment inquiry]] panel; [[hunter-biden|Hunter Biden]] sought to avoid a closed-door transcribed deposition demanded by House investigators; the [[house-ways-and-means-committee|House Ways and Means Committee]] again interviewed IRS whistleblowers; special counsel [[david-weiss|David Weiss]] argued that Hunter should not be allowed to subpoena documents from Trump, Barr, Rosen and Donoghue; and newly released emails were said to show [[joe-biden|Joe Biden]] using aliases to contact Hunter's business partners.[18]
 
+## Commentary on Trump's Wuhan op-ed and the Pence privilege fight (March 2023)
+
+Just Human welcomed [[donald-trump|Donald Trump]]'s March 2023 Daily Mail op-ed on the origins of COVID-19, noting that it echoed much of what Trump had said about China and the virus in his CPAC speech, and singling out the passage: "There must now be a reckoning. The sinister censorship regimes in the United States and throughout the West must be dismantled and destroyed. This scandal is the best possible reminder of why we must have free speech."[19]
+
+On Trump's sealed request to block [[mike-pence|Mike Pence]]'s grand jury testimony, Just Human called the setup "a very interesting, and unprecedented, court battle," observing that both Trump and Pence were working to block the testimony and that Pence — arguing his role on January 6 as President of the Senate is protected by the Constitution's Speech or Debate Clause — had said he was willing to take the matter to the Supreme Court.[19] Just Human said he would not be surprised if it got there.[19]
+
+
 ## References
 1. Badlands Media — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-c28
 2. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-e18
@@ -112,3 +119,4 @@ In the December 7, 2023 Badlands News Brief, Just Human summarized a week of Bid
 16. Badlands Brief — "Badlands News Brief: Putin Postures, Voting Matters & J6 Subpoenas", URL: https://badlands.substack.com/p/badlands-news-brief-8c5
 17. Badlands Brief — "Badlands News Brief: January 6 and Nord Stream Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-8f4
 18. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
+19. Badlands News Brief — "Trump on Wuhan, Flynn Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-af7

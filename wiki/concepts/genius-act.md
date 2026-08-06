@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [stablecoins, financial-regulation, cryptocurrency, us-treasuries, banking]
-sources: [raw/badlands-news-brief-50a.md, raw/badlands-news-brief-aae.md]
+sources: [raw/badlands-news-brief-50a.md, raw/badlands-news-brief-aae.md, raw/badlands-news-brief-b0f.md]
 confidence: medium
 ---
 
@@ -32,7 +32,21 @@ The same analysis identified a paradox at the center of global finance: by empow
 
 In the [[badlands-news-brief|Badlands News Brief]], contributor [[gmoney|GMONEY]] welcomed the outcome, writing that the "Genius Act is pure Genius" and that "fractional reserve parasites are panicking."[2]
 
+## Statutory framework and July 2025 policy report
+
+Signed into law by President [[donald-trump|Donald Trump]] on July 18, 2025 after approval by the U.S. House of Representatives, the GENIUS Act establishes a regulatory framework for payment stablecoins, defined as digital assets used for payment or settlement, and requires issuers to maintain 1:1 reserve backing and to comply with public disclosure obligations.[3] The law exempts stablecoins from the definitions of securities and commodities, removing them from the jurisdiction of the Securities and Exchange Commission and the Commodity Futures Trading Commission, and instead places them under regulators including the Federal Deposit Insurance Corporation, the Office of the Comptroller of the Currency, and the [[federal-reserve|Federal Reserve]] Board.[3] Issuers face further requirements covering reserve backing, public disclosure of redemption policies, and anti-money-laundering compliance.[3]
+
+The [[white-house|White House]] was scheduled to release its first comprehensive cryptocurrency policy report on July 22, 2025, as mandated by Executive Order 14178, providing a detailed framework for regulation and oversight of digital assets in the United States.[3]
+
+## Badlands commentary
+
+Badlands contributor Burning Bright argued that the signing of the GENIUS Act was among the brightest signals of the information war, and that Trump had been amplifying it about as much as the Epstein narrative and the exposure of the Russiagate/Spygate story.[3] Because U.S. stablecoins are pegged 1:1 to the dollar and, under the act, must be fully backed by liquid assets — principally U.S. Treasuries — the commentary held that privately issued stablecoins now carry more proof of reserves than actual banks.[3]
+
+The commentary further argued that the only remaining use case for central banks is printing fiat dollars, a function it said the future ubiquity of Treasury-backed U.S. stablecoins renders obsolete, thereby both stabilizing and decentralizing the dollar.[3] It speculated about what would follow if stablecoins gained the right to be backed by Bitcoin, cited Trump's description of stablecoins as "rails," and reinterpreted Trump's long-running nickname for Fed Chair [[jerome-powell|Jerome Powell]] — "Too Late" — as a reference not to interest rates but to central bankers being too late to stop the move they never saw coming.[3] Its conclusion: "CBDC's are dead."[3]
+
 ## References
+
 
 1. Badlands Brief — "Badlands News Brief: Manipulated Maps, Downed Planes, & A Very Stable Genius", URL: https://badlands.substack.com/p/badlands-news-brief-50a
 2. Badlands Brief — "Badlands News Brief: Reopening Washington, Rescheduling Putin, & Revisiting De Jure", URL: https://badlands.substack.com/p/badlands-news-brief-aae
+3. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f

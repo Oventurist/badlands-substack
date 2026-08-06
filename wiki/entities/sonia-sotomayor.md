@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [supreme-court, judiciary, immigration]
-sources: [raw/badlands-brief-07c.md, raw/badlands-news-brief-1e6.md]
+sources: [raw/badlands-brief-07c.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-aac.md]
 confidence: medium
 ---
 
@@ -28,6 +28,11 @@ Badlands contributor [[chris-paul|Chris Paul]] dismissed the dissent bluntly, ch
 
 [[ashe-in-america|Ashe in America]] characterized the episode as a "mask slip" revealing that the Court's decorum is false decorum, and argued that Sotomayor is not an impartial arbiter of justice but an activist and an anti-constitutional radical whose disdain for Kavanaugh surprised no one.[1] She further observed that the story barely qualified as news yet was carried by every network, and noted that the reconciliation was publicized while the Court still had major merits cases pending on tariffs, independent-agency removal, Louisiana redistricting, Hawaii gun regulations, transgender sports bans, campaign-finance limits, and preemption and immigration questions.[1]
 
+## Dissent in Trump v. United States (2024)
+
+Sotomayor authored the principal dissent from the Court's July 1, 2024 ruling in [[trump-v-united-states|Trump v. United States]], warning that under the majority's reasoning a president who "uses his official powers in any way" would be insulated from criminal prosecution: "Orders the Navy's Seal Team 6 to assassinate a political rival? Immune. Organizes a military coup to hold onto power? Immune. Takes a bribe in exchange for a pardon? Immune. Immune, immune, immune."[3] Badlands contributor [[ashe-in-america|Ashe in America]] dismissed the dissent as "melodramatic screeching" and told the justice to "take a Xanax," noting that the majority had expressly preserved no immunity for unofficial acts.[3]
+
 ## References
 1. Badlands Brief — "Supreme Conflicts, Criminal Probes, & A Ceasefire", URL: https://badlands.substack.com/p/badlands-brief-07c
 2. Badlands News Brief — "Grand Conspiracies & Massive Reductions", URL: https://badlands.substack.com/p/badlands-news-brief-1e6
+3. Badlands Brief — "Badlands News Brief: Wins at Home and Deals Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-aac

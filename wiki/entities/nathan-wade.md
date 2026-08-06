@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [georgia, fulton-county, rico, 2020-election, prosecutor]
-sources: [raw/badlands-brief-990.md, raw/badlands-news-brief-054.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-484.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-782.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a27.md, raw/badlands-news-brief-a6e.md]
+sources: [raw/badlands-brief-990.md, raw/badlands-news-brief-054.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-484.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-782.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a27.md, raw/badlands-news-brief-a6e.md, raw/badlands-news-brief-b4a.md]
 confidence: medium
 ---
 
@@ -88,6 +88,10 @@ On February 2, 2024, Fulton County District Attorney [[fani-willis|Fani Willis]]
 
 At the February 15, 2024 [[fani-willis-disqualification-hearing|disqualification hearing]], District Attorney [[fani-willis|Fani Willis]] testified after a previous witness said her relationship with Wade had begun earlier than the two had claimed.[15] Willis said the off-book condominium where she spent time alone with Wade was used for her safety rather than to conceal the relationship, and that she had repaid her share of the lavish vacations Wade financed in cash, leaving no record of the reimbursements.[15] She also testified that she had not disclosed the relationship to anyone in government, saying she was a private person and did not believe she had a duty to disclose it.[15]
 
+## Unsealing of the divorce records (January 2024)
+
+On Monday, January 22, 2024, Cobb County Superior Court Judge [[henry-thompson]] unsealed Wade's divorce records, allowing the public to sift through personal information that could involve his boss and alleged romantic partner, District Attorney [[fani-willis]].[16] Thompson simultaneously stayed a subpoena from Wade's estranged wife [[joycelyn-wade]], who had sought to depose Willis that week, ruling that Nathan Wade should be deposed first before the court determined whether Willis held unique personal information warranting sworn testimony; an evidentiary hearing was set for January 31.[16] Writing in the [[badlands-news-brief]], [[ashe-in-america]] observed that the stay raised the profile of Wade's own testimony and made his divorce a matter of public interest, posing the question of whether he would implicate or protect Willis — and noting that with the bank records already public, protecting her might mean perjuring himself.[16] She added that his divorce liability was the least of his problems, since the relationship was the subject of an inquiry in the RICO case before Judge [[scott-mcafee]], with a hearing scheduled for February 15 and financial records that she said implicated collusion with the White House.[16]
+
 ## References
 
 1. Badlands Brief — "Secret Seizures, Sovereign Signals, & Unnamed Somalis Close to the Matter", URL: https://badlands.substack.com/p/badlands-brief-990
@@ -105,3 +109,4 @@ At the February 15, 2024 [[fani-willis-disqualification-hearing|disqualification
 13. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6
 14. Badlands Brief — "Badlands News Brief: Bicameral Biden Presides Over a Global Minefield", URL: https://badlands.substack.com/p/badlands-news-brief-a27
 15. Badlands Brief — "Badlands News Brief: A Fiery Fani, a Plotting Putin & a Bumbling Biden Walk into a Bar", URL: https://badlands.substack.com/p/badlands-news-brief-a6e
+16. Badlands Brief — "Badlands News Brief: Border Battles, Trump Trials & COVID Comeuppance", URL: https://badlands.substack.com/p/badlands-news-brief-b4a

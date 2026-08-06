@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [republicans, regime-change, iran, commentary]
-sources: [raw/badlands-brief-e87.md, raw/badlands-news-brief-4ee.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-a9e.md]
+sources: [raw/badlands-brief-e87.md, raw/badlands-news-brief-4ee.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-a9e.md, raw/badlands-news-brief-b24.md]
 confidence: medium
 ---
 
@@ -45,9 +45,14 @@ On Friday, December 15, 2023, a federal jury ordered Giuliani to pay more than $
 
 Giuliani was in court as a federal judge read the verdict aloud; after adjournment the plaintiffs embraced while Giuliani, standing alone, packed a bag without looking up, according to NBC News.[5] Outside the courthouse he called the damages figure "absurd" and vowed to appeal.[5] The judgment was the latest in a series of legal blows tied to his service as top campaign lawyer for [[donald-trump|Donald Trump]] in efforts to reverse the 2020 result.[5]
 
+## 2025 New Hampshire car accident
+
+On the evening of August 30, 2025, Giuliani, then 81, was severely injured in a motor vehicle accident in New Hampshire.[6] According to [[michael-ragusa|Michael Ragusa]], the head of his security detail, Giuliani had been flagged down shortly before the crash by a woman who was the victim of a domestic violence incident; he rendered assistance, contacted 911, and remained on scene until responding officers arrived to ensure her safety.[6] While subsequently traveling on the highway, Giuliani's vehicle was struck from behind at high speed.[6] He was taken to a nearby trauma center and diagnosed with a fractured thoracic vertebrae, multiple lacerations and contusions, and injuries to his left arm and lower leg.[6] Badlands host [[chris-paul|Chris Paul]] observed that while he did not know whether the crash was a targeted attack, the framing of the statements around it suggested those involved were conscious of that possibility.[6]
+
 ## References
 1. Badlands Brief — "Poetic Agitprop, Cold War Reruns, & Kokomo From the Ropes", URL: https://badlands.substack.com/p/badlands-brief-e87
 2. Badlands Brief — "Badlands News Brief: Heightened Homohysteria, AI Scabs, & A Dutch Diddler", URL: https://badlands.substack.com/p/badlands-news-brief-4ee
 3. Badlands Brief — "Badlands News Brief: Peacemakers Come in Many Forms …", URL: https://badlands.substack.com/p/badlands-news-brief-601
 4. Badlands Brief — "Trumpian Rug Pulls, Biden Whispers & NATO Panic", URL: https://badlands.substack.com/p/badlands-news-brief-6c4
 5. Badlands Brief — "Badlands News Brief: The Simulation Gets Very ... Very Weird", URL: https://badlands.substack.com/p/badlands-news-brief-a9e
+6. Badlands Brief — "Badlands News Brief: A Curious Car Crash, Covid Case Rates, & A Culture of Panic and Dread", URL: https://badlands.substack.com/p/badlands-news-brief-b24

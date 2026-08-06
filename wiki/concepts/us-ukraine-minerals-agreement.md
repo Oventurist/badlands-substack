@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ukraine, minerals, trump-administration, diplomacy]
-sources: [raw/badlands-brief-da2.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-a65.md]
+sources: [raw/badlands-brief-da2.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-aff.md]
 confidence: medium
 ---
 
@@ -36,8 +36,16 @@ U.S. Treasury Secretary [[scott-bessent|Scott Bessent]] announced in late Februa
 
 Bessent had traveled to Kiev earlier that month and returned empty-handed after Zelensky allegedly lashed out at him over a U.S. demand that Ukraine hand over 50% of its critical minerals as compensation for past aid; Financial Times sources reported that Zelensky's frustration boiled over in a closed-door meeting as Bessent pushed for an immediate signature.[4] Badlands commentary characterized the finalized terms as extending beyond rare earth minerals to oil and gas assets.[4]
 
+
+## Collapse and revival, February–March 2025
+
+The signing of the minerals agreement was the stated purpose of [[volodymyr-zelensky|Volodymyr Zelensky]]'s February 28, 2025 White House visit, and the deal fell through when that meeting devolved into the televised [[2025-oval-office-clash|Oval Office clash]] with President [[donald-trump|Donald Trump]] and Vice President [[jd-vance|JD Vance]].[5] The agreement had been framed as a step toward ending the conflict in Ukraine.[5]
+
+Two days later, speaking to British media in London after a summit there, Zelensky said he was still prepared to proceed: "The agreement that's on the table will be signed if the parties are ready."[5] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] predicted that Trump would nonetheless penalize Zelensky for failing to sign graciously during the Friday visit.[5]
+
 ## References
 1. Badlands Brief — "America Wins, Zionists Seethe", URL: https://badlands.substack.com/p/badlands-brief-da2
 2. Badlands Brief — "Badlands News Brief: Inbound America: Terrorists, Trillions, & Diplomats", URL: https://badlands.substack.com/p/badlands-news-brief-3a5
 3. Badlands News Brief — "SCOTUS Drama and (Altered) Deals Shake Up the Week", URL: https://badlands.substack.com/p/badlands-news-brief-4e1
 4. Badlands Brief — "Badlands News Brief: Rug Pulled Reputations, Insubordination, & the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-a65
+5. Badlands Brief — "Badlands News Brief: Multipolar Power Projection & European Lamentations", URL: https://badlands.substack.com/p/badlands-news-brief-aff

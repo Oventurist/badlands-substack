@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, house-judiciary, oversight, jack-smith]
-sources: [raw/badlands-brief-245.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-732.md, raw/badlands-news-brief-79c.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-a7b.md]
+sources: [raw/badlands-brief-245.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-732.md, raw/badlands-news-brief-79c.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-a7b.md, raw/badlands-news-brief-b1d.md]
 confidence: medium
 ---
 
@@ -103,6 +103,10 @@ Days after taking the Judiciary gavel in the 118th Congress, Jordan fired off th
 
 Amid the [[2023-speaker-of-the-house-election|2023 speaker of the House election]], Jordan sent out a "Dear Colleague" letter vowing to bring "all Republicans together" if elected speaker, writing: "The role of a speaker is to bring all Republicans together. That's what I intend to do. We will make sure there are more Republican voices involved in our major decision beyond the Five Families."[21] He added that his goal would be "to empower our committees and committee chairs to take the lead on the House's legislative work through regular order."[21] Reporting indicated Jordan planned to force a Tuesday floor vote with or without the 217 votes needed to win, saying: "If you don't have a speaker, so we get a speaker, we get the House open and we get to work on the resolution and supplemental for Israel. And we get back to work for the American people."[21]
 
+## September 2023 Garland hearing
+
+As chairman of the [[house-judiciary-committee|House Judiciary Committee]], Jordan opened the committee's roughly five-hour oversight hearing with Attorney General [[merrick-garland|Merrick Garland]] on September 20, 2023 by declaring, "The fix is in."[22] He added that "even with the face-saving indictment of [[hunter-biden|Hunter Biden]] last week, everyone knows the fix is in," and accused Garland several times of "slow walking" the Hunter Biden investigation to benefit President [[joe-biden|Joe Biden]].[22] The hearing, covered at [[september-2023-garland-house-judiciary-hearing|September 2023 Garland House Judiciary Hearing]], also ranged over the department's handling of probes into [[donald-trump|Donald Trump]] and the events of January 6.[22]
+
 ## References
 
 1. Badlands Brief — "Trump Roasts The Press; Teases 2028 Run", URL: https://badlands.substack.com/p/badlands-brief-245
@@ -126,3 +130,4 @@ Amid the [[2023-speaker-of-the-house-election|2023 speaker of the House election
 19. Badlands Brief — "Badlands News Brief: Target Tumbles, Trump Tops & Feds Fabricate", URL: https://badlands.substack.com/p/badlands-news-brief-79c
 20. Badlands News Brief — "Deflated Balloons, Sketchy AI & Democrat Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-8f9
 21. Badlands Brief — "Badlands News Brief: A Potato Visits Israel; A Ukrainian Does Not ...", URL: https://badlands.substack.com/p/badlands-news-brief-a7b
+22. Badlands Brief — "Badlands News Brief: Trump Skips Debates, FED Paralyzed & Garland Grilled", URL: https://badlands.substack.com/p/badlands-news-brief-b1d

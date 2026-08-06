@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [technology, democrats, donor, 2024-election]
-sources: [raw/badlands-news-brief-42e.md, raw/badlands-news-brief-688.md]
+sources: [raw/badlands-news-brief-42e.md, raw/badlands-news-brief-688.md, raw/badlands-news-brief-b19.md]
 confidence: medium
 ---
 
@@ -22,6 +22,10 @@ In late November 2024, the New York Times reported — citing three people with 
 
 Breitbart's account also noted [[elon-musk|Elon Musk]]'s October 2024 remarks to Tucker Carlson describing Hoffman as "terrified of a Trump victory," with Musk attributing the fear partly to "the Epstein situation" rather than to ideology alone.[2] Other prominent figures, including [[ellen-degeneres|Ellen DeGeneres]], had already reportedly relocated abroad after the election.[2]
 
+## Withdrawal of Nikki Haley funding (January 2024)
+
+Hoffman was also a donor to [[nikki-haley|Nikki Haley]]'s 2024 Republican presidential campaign. Following her loss to [[donald-trump|Donald Trump]] in the [[2024-new-hampshire-republican-primary|New Hampshire Republican primary]], a person familiar with the matter told CNBC that Hoffman did not plan to give any more money to the campaign.[3] He was among the first of Haley's wealthy donors to head for the exit after she said on January 23, 2024 that she would remain in the nomination contest despite failing to beat Trump in either New Hampshire or the Iowa caucuses; the source declined to be named in order to speak freely.[3]
+
 ## Badlands commentary
 
 [[ashe-in-america|Ashe in America]] observed that many of "the nation's worst people" had promised to leave the country if Trump were elected, and that DeGeneres appeared to be the only one who had followed through.[2] Describing Hoffman as another reported visitor to [[jeffrey-epstein|Jeffrey Epstein]]'s island who now feared "receiving his just deserts," she argued he had "bankrolled the worst impulses of the left" in ways likely worse than the publicly known lawfare and weaponized-government operations.[2] She closed by asking how extradition would function in a realigned, multipolar world — "Is there actually anywhere to run and hide?"[2]
@@ -29,3 +33,4 @@ Breitbart's account also noted [[elon-musk|Elon Musk]]'s October 2024 remarks to
 ## References
 1. Badlands Brief — "Badlands News Brief: Change of Batter, Indeed …", URL: https://badlands.substack.com/p/badlands-news-brief-42e
 2. Badlands Brief — "Badlands News Brief: Threats, Panic and Signal in the Engineered Noise", URL: https://badlands.substack.com/p/badlands-news-brief-688
+3. Badlands Brief — "Badlands News Brief: Lake and Abbott Take a Stand as Haley Falls", URL: https://badlands.substack.com/p/badlands-news-brief-b19

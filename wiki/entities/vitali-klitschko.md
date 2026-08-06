@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ukraine, kiev, mayor, energy-crisis]
-sources: [raw/badlands-brief-e9a.md, raw/badlands-news-brief-355.md]
+sources: [raw/badlands-brief-e9a.md, raw/badlands-news-brief-355.md, raw/badlands-news-brief-b39.md]
 confidence: medium
 ---
 
@@ -28,6 +28,13 @@ Conflicts between Klitschko and [[volodymyr-zelensky|Vladimir Zelensky]], who re
 
 Badlands contributor [[burning-bright|Burning Bright]] cited the remarks in support of his long-running "Our Boy Z" theory, arguing not that Zelensky is "good" but that Azov-allied politicians had been calling for his head all along.[2] In his framing, the Western establishment lost control of what he called the "Prussian Proxy," and Zelensky had — wittingly or unwittingly — been assisting [[vladimir-putin|Vladimir Putin]]'s stated denazification effort in the Donbas.[2]
 
+## Warning to Zelensky over territorial concessions (July 2024)
+
+In an interview with the Italian daily Corriere della Sera published on a Sunday in July 2024, Klitschko — mayor of Kyiv and a former world heavyweight boxing champion — warned that President [[volodymyr-zelensky|Volodymyr Zelensky]] risked "political suicide" if he pursued a peace deal that ceded Ukrainian territory to Russia.[3] He asked: "How can we explain to the country that we need to give up pieces of our territory that cost the lives of thousands of our fighting heroes? Whatever move he makes, our president risks political suicide."[3] He acknowledged that the coming months would be "very difficult" for Zelensky and said the Ukrainian population would want a say in the country's fate, making a referendum on any deal with Moscow a likely future scenario.[3]
+
+The statement came after a phone call between Zelensky and [[donald-trump|Donald Trump]] in which Trump signalled that peace with Russia would be a priority of his presidency.[3] Badlands writer [[burning-bright|Burning Bright]] characterised Klitschko's remarks as a public warning bordering on a threat, and noted Klitschko's own association with the [[azov-battalion|Azov battalion]], including his naming of a new Kyiv bridge "Azov Wave" after the unit in 2024.[3]
+
 ## References
 1. Badlands Brief — "Bessent's Bounty Hunters and Olympic Phallacies", URL: https://badlands.substack.com/p/badlands-brief-e9a
 2. Badlands Brief — "Mushroom Zombies, Palantir, & Election DAY", URL: https://badlands.substack.com/p/badlands-news-brief-355
+3. Badlands Brief — "Biden Says Stuff as Nazis Circle in Ukraine", URL: https://badlands.substack.com/p/badlands-news-brief-b39

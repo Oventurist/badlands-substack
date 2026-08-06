@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, banking, central-bank]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-seismic-shift.md, raw/a-week-to-remember.md, raw/americas-greatest-threat.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-094.md, raw/badlands-brief-169.md, raw/badlands-brief-9eb.md, raw/badlands-brief-bf7.md, raw/badlands-brief-b82.md, raw/badlands-brief-c7b.md, raw/badlands-brief-d9f.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-919.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-a71.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-seismic-shift.md, raw/a-week-to-remember.md, raw/americas-greatest-threat.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-094.md, raw/badlands-brief-169.md, raw/badlands-brief-9eb.md, raw/badlands-brief-bf7.md, raw/badlands-brief-b82.md, raw/badlands-brief-c7b.md, raw/badlands-brief-d9f.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-919.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-b01.md]
 confidence: medium
 ---
 
@@ -212,6 +212,10 @@ In June 2025 President Donald Trump said he would soon name a successor to Chair
 
 During his October 15, 2024 interview with Bloomberg Editor-in-Chief [[john-micklethwait|John Micklethwait]] at the Economic Club of Chicago, [[donald-trump|Donald Trump]] mocked the Federal Reserve, calling it "the greatest job in government" where "you show up to the office once a month and say, 'Hmm, let's flip a coin,' and everybody talks about you like you're a god."[36] He added that the arrangement "sets a horrible tone."[36] Badlands contributor Burning Bright treated the exchange as part of a broader information-war deployment in which Trump told the assembled financial establishment to their faces that he was dismantling their system, noting that Trump followed his attack on the Wall Street Journal and Bloomberg with an aside about "currency" and sidestepped accusations that he had helped destabilize the dollar's hegemony.[36]
 
+## Ron Paul, DOGE, and abolition advocacy (2024)
+
+Ahead of the November 2024 election, [[elon-musk|Elon Musk]] invited former Texas representative [[ron-paul|Ron Paul]] — one of the most persistent congressional critics of the Federal Reserve — to participate in a proposed [[doge|Department of Government Efficiency]], and Paul responded that he would be "happy to talk."[37] [[badlands-media|Badlands Media]] treated the prospect as significant precisely because a cornerstone of Paul's political legacy has been the call to abolish the Federal Reserve and end the income tax, themes [[donald-trump|Donald Trump]] had been raising with growing frequency.[37]
+
 ## References
 1. Badlands Brief — "A Journey of Ever-changing Truths", URL: https://badlands.substack.com/p/a-journey-of-ever-changing-truths
 2. Badlands Brief — "A Seismic Shift", URL: https://badlands.substack.com/p/a-seismic-shift
@@ -249,3 +253,4 @@ During his October 15, 2024 interview with Bloomberg Editor-in-Chief [[john-mick
 34. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
 35. Badlands News Brief — "Shadow Feds, Activist Courts, & Lasting Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a69
 36. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71
+37. Badlands Brief — "Badlands News Brief: Marauding, Squirrel-Murdering Psychopaths Panic Ahead of the Election", URL: https://badlands.substack.com/p/badlands-news-brief-b01

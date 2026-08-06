@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [globalism, great-reset, institutions]
-sources: [raw/a-look-at-recent-features-84d.md, raw/a-time-to-strike.md, raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-144.md, raw/badlands-brief-40d.md, raw/badlands-brief-a20.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-2e4.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-a61.md]
+sources: [raw/a-look-at-recent-features-84d.md, raw/a-time-to-strike.md, raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-144.md, raw/badlands-brief-40d.md, raw/badlands-brief-a20.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-2e4.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-a61.md, raw/badlands-news-brief-b19.md]
 confidence: low
 ---
 
@@ -149,6 +149,10 @@ Badlands contributor [[ryan-delarme|Ryan DeLarme]] responded sarcastically that 
 
 In late January 2023, Canadian psychologist [[jordan-peterson|Jordan Peterson]] announced an international consortium explicitly conceived as an alternative to the "apocalyptic narrative" he associated with the WEF's Davos meeting, telling [[joe-rogan|Joe Rogan]] that roughly 2,000 people would be invited to a London gathering in late October and early November.[25] [[badlands-media|Badlands Media]] contributor [[justin-deschamps|Justin Deschamps]] treated the announcement as the beginning of a contest for the global-governance space that populists had long ceded to globalist institutions.[25]
 
+## "Preparing for Disease X" panel (January 2024)
+
+At the WEF's 2024 annual meeting, the [[world-health-organization|World Health Organization]] used the forum to warn world leaders that a future pandemic could be twenty times worse than COVID-19, with global healthcare experts appearing on a WEF panel titled "Preparing for Disease X."[26] [[disease-x|Disease X]] is a WHO placeholder term, coined in 2018, for a hypothetical unknown pathogen; panelists discussed developing better communication strategies to reduce misinformation and conspiracy theories, while critics on X described the session itself as a conspiracy against freedom.[26]
+
 ## References
 
 1. Badlands Brief — "A Look At Recent Features", URL: https://badlands.substack.com/p/a-look-at-recent-features-84d
@@ -176,3 +180,4 @@ In late January 2023, Canadian psychologist [[jordan-peterson|Jordan Peterson]] 
 23. Badlands News Brief — "Deflated Balloons, Sketchy AI & Democrat Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-8f9
 24. Badlands Brief — "Badlands News Brief: Trump Trolls, Soros Slithers & Flags Fly", URL: https://badlands.substack.com/p/badlands-news-brief-93d
 25. Badlands News Brief — "Big Pharma, Big Lies and Big Boomerangs", URL: https://badlands.substack.com/p/badlands-news-brief-a61
+26. Badlands Brief — "Badlands News Brief: Lake and Abbott Take a Stand as Haley Falls", URL: https://badlands.substack.com/p/badlands-news-brief-b19

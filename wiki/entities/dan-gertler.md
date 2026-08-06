@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [drc, mining, sanctions, corruption]
-sources: [raw/badlands-brief-abf.md, raw/badlands-news-brief-021.md, raw/badlands-news-brief-03a.md, raw/badlands-news-brief-1ba.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-a69.md]
+sources: [raw/badlands-brief-abf.md, raw/badlands-news-brief-021.md, raw/badlands-news-brief-03a.md, raw/badlands-news-brief-1ba.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-b22.md]
 confidence: medium
 ---
 
@@ -66,6 +66,12 @@ Treasury Secretary [[janet-yellen|Janet Yellen]] reissued the sanctions against 
 
 Badlands commentary on the June 2025 [[rwanda-drc-peace-agreement-2025|Rwanda–DR Congo peace agreement]] positions Gertler, described as a scion of the Israeli Diamond Cartel, at the origin of the story: he was targeted by [[executive-order-13818|Executive Order 13818]], signed December 20, 2017.[9] His longtime business partner, DRC President [[joseph-kabila|Joseph Kabila]], was subsequently displaced by [[felix-tshisekedi|Félix Tshisekedi]], after which Gertler and former Mossad director [[yossi-cohen|Yossi Cohen]] were alleged to have made the first of several attempts to overthrow the new government.[9] The wider affair also encompassed arrests of high-profile figures at the world's top three commodity trading houses, including [[glencore|Glencore]], over access to an estimated $24 trillion in Congolese rare earth minerals.[9]
 
+## Reported push to lift sanctions (June 2024)
+
+In June 2024, [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] reported on a Financial Times of London story stating that the Biden [[state-department|State Department]] was seeking to lift the sanctions against Gertler, one of the original thirteen individuals targeted by [[executive-order-13818|Executive Order 13818]].[10] Doing so would free up at least $300 million worth of assets Gertler would be permitted to sell, and would also transfer highly valuable mineral rights frozen as part of the seizure and estimated to be potentially worth billions, if not trillions, of dollars.[10] Gertler would then be empowered to transfer or sell those rights to a buyer, an outcome the Biden administration argued was good for all parties involved, including the African public — prompting the rejoinder, "Why can't the State Department just sell them at auction?"[10]
+
+The commentary tied this to Lieutenant General [[igor-kirillov|Igor Kirillov]]'s claim that US bioweapons research had moved to Africa, and to a web of corruption linking [[mossad|Mossad]], the Israeli diamond cartel, [[benjamin-netanyahu|Benjamin Netanyahu]] and Israeli oligarchs to Executive Order 13818 and the [[sovereign-alliance|Sovereign Alliance]], with South Africa and the [[democratic-republic-of-the-congo|Democratic Republic of the Congo]] as the two main countries involved and Sierra Leone implicitly connected through Gertler's family.[10] Recent reported coups, most recently in Kenya, were said to make more sense in this light, framed as an [[operation-gladio|Operation Gladio]]-versus-Sovereign Alliance dynamic.[10]
+
 ## References
 1. Badlands Brief — "Long-Term Legal Remedies & A Reboot of Russian Relations", URL: https://badlands.substack.com/p/badlands-brief-abf
 2. Badlands Brief — "Seditious Overreactions, Billion Dollar Bailouts, & NATO-Style Guarantees", URL: https://badlands.substack.com/p/badlands-news-brief-021
@@ -76,3 +82,4 @@ Badlands commentary on the June 2025 [[rwanda-drc-peace-agreement-2025|Rwanda–
 7. Badlands Brief — "Climbing Confidence, a Congolese Crisis, & Uncorroborated KGB Claims", URL: https://badlands.substack.com/p/badlands-news-brief-457
 8. Badlands Brief — "Badlands News Brief: Fake Poles, HomOlympics & Deal-Making", URL: https://badlands.substack.com/p/badlands-news-brief-4c5
 9. Badlands News Brief — "Shadow Feds, Activist Courts, & Lasting Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a69
+10. Badlands Brief — "The Supreme Court Looms Over the First Debate", URL: https://badlands.substack.com/p/badlands-news-brief-b22

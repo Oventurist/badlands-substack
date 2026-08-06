@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [georgia, fulton-county, rico, 2020-election, defendant]
-sources: [raw/badlands-news-brief-054.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-6fc.md]
+sources: [raw/badlands-news-brief-054.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-af5.md]
 confidence: medium
 ---
 
@@ -33,7 +33,16 @@ join Ashe and Brian on that Friday's episode of *Why We Vote*.[2]
 
 Ahead of the February 15, 2024 hearing on [[michael-roman|Michael Roman]]'s motion to disqualify District Attorney [[fani-willis|Fani Willis]], Badlands writer [[ashe-in-america|Ashe in America]] recalled that the previous hearing on Floyd's evidentiary questions had "raised real issues for the county on the veracity of their election procedures."[3] She argued those issues might be enough to debunk the "big lie" as the alleged intent behind the defendants' actions in the [[state-of-georgia-v-trump|Georgia RICO case]] — that is, to show that their actions had legitimate, lawful cause.[3]
 
+## May 2024 ballot subpoena hearing
+
+On Tuesday, May 27, 2024, [[fulton-county|Fulton County]] Superior Court Judge [[scott-mcafee|Scott McAfee]] heard argument on Floyd's subpoena seeking to count Fulton County's 2020 election ballots.[4] Floyd, the former head of Black Voices for Trump, stated that he wanted to personally recount the 528,777 ballots cast in the county and had requested copies of all county ballots from the last presidential election to prove that election fraud cost [[donald-trump|Donald Trump]] a second term, with his legal team aiming to show Trump as the actual winner as part of his defense in the interference case.[4]
+
+Badlands coverage reported that the dispute concerned evidence first requested in November 2023 and addressed again in January, with the county continuing to obstruct and now shifting its arguments.[4] Fulton County claimed at the hearing that it had never said it did not perform [[signature-verification|signature verification]] — a change [[ashe-in-america|Ashe in America]] and [[brian-lupo|Brian Lupo]] contested by reviewing the recorded record.[4] Commentators argued the shift may have created a trap, since the county would now have to prove it conducted signature verification lawfully while simultaneously arguing that performing signature verification for discovery would take thousands of hours.[4]
+
+The county also argued that Floyd's "Trump Won" defense should be struck because the defense could not have known Trump won in 2020 and the defendant would not have had access to the records at the time of the conduct charged.[4] Badlands writers treated this as self-refuting, quoting [[patrick-gunnels|Patrick Gunnels]]: "We stole it fair and square, no backsies."[4] The second matter heard that day involved co-defendant [[trevian-kutti|Trevian Kutti]].[4]
+
 ## References
 1. Badlands News Brief — "Fani Hunts Alone as Putin Keeps the Throne", URL: https://badlands.substack.com/p/badlands-news-brief-054
 2. Badlands Brief — "Badlands News Brief: Middle Eastern Powder Kegs & Crisis Cascades Abound", URL: https://badlands.substack.com/p/badlands-news-brief-158
 3. Badlands Brief — "Biden Hemorrhages Already-Nonexistent Support", URL: https://badlands.substack.com/p/badlands-news-brief-6fc
+4. Badlands Brief — "Badlands News Brief: Deliberations Begin as Signal Spreads in the Info War", URL: https://badlands.substack.com/p/badlands-news-brief-af5

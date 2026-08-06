@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, washington, journalism]
-sources: [raw/badlands-news-brief-110.md, raw/badlands-news-brief-713.md]
+sources: [raw/badlands-news-brief-110.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-a82.md]
 confidence: medium
 ---
 
@@ -26,6 +26,11 @@ In December 2024, The Hill reported that President [[joe-biden|Joe Biden]] was r
 
 Badlands contributor [[ashe-in-america|Ashe in America]] read the piece's tone as one of disappointment and "pouting," arguing that legacy media's portrayal of the Biden presidency had been "ineffective at best, criminal at worst" and ultimately a losing strategy.[2] She wrote that the chief takeaway of the preceding four years was that the media could not be trusted, that those charged with preserving public trust had betrayed a sacred duty, and that the period would likely be remembered as "The Dumb Ages."[2] Describing Biden as ending his presidency "with a whimper," she concluded that scrutiny of his tenure would lead more Americans to feel "it's almost like he was never president at all."[2]
 
+## Coverage of Clinton's debate op-ed
+
+The Hill reported in June 2024 that former Secretary of State [[hillary-clinton|Hillary Clinton]] had written in The New York Times that it would be a "waste of time" to try to refute [[donald-trump|Donald Trump]]'s arguments in a debate, noting she is the only person to have debated both Trump and [[joe-biden|Joe Biden]].[3]
+
 ## References
 1. Badlands Brief — "RON! Throws in the Towel as Globalists Panic", URL: https://badlands.substack.com/p/badlands-news-brief-110
 2. Badlands News Brief — "The Biden Era Fades Away as the World is Reshaped", URL: https://badlands.substack.com/p/badlands-news-brief-713
+3. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82

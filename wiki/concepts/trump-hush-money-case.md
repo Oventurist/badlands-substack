@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [trump-prosecutions, new-york, lawfare, gag-order, 2023]
-sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-0d4.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-360.md, raw/badlands-news-brief-3c1.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-4f8.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-907.md, raw/badlands-news-brief-919.md, raw/badlands-news-brief-995.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-a21.md, raw/badlands-news-brief-a6e.md, raw/badlands-news-brief-adc.md]
+sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-0d4.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-360.md, raw/badlands-news-brief-3c1.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-4f8.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-907.md, raw/badlands-news-brief-919.md, raw/badlands-news-brief-995.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-a21.md, raw/badlands-news-brief-a6e.md, raw/badlands-news-brief-adc.md, raw/badlands-news-brief-af5.md, raw/badlands-news-brief-a82.md]
 confidence: medium
 ---
 
@@ -172,6 +172,22 @@ On May 30, 2024, [[donald-trump|Donald Trump]] was found guilty on 34 counts of 
 
 In the same period Judge [[juan-merchan|Juan Merchan]] disclosed to counsel a Facebook comment on the court's page claiming that a juror's cousin had said Trump was going to be convicted, prompting speculation that Merchan was either diluting a larger story, baiting Trump into a gag order violation, or laying groundwork for a mistrial.[24]
 
+## Closing arguments and the start of deliberations
+
+Jurors sat through about eight hours of closing arguments on Tuesday, May 27, 2024, as lawyers for both sides made their final cases before deliberations on whether [[donald-trump|Donald Trump]] was guilty of 34 counts of falsifying business records.[25] Trump's lead attorney [[todd-blanche|Todd Blanche]] argued that [[michael-cohen|Michael Cohen]], the prosecution's key witness, was the "greatest liar of all time" and had acted alone in paying [[stormy-daniels|Stormy Daniels]] $130,000 in 2016 for her silence about an alleged sexual encounter, telling jurors they could not convict on Cohen's testimony and that there were ample other reasons to doubt the prosecution's narrative.[25]
+
+Prosecutors alleged that Trump signed off on a scheme to falsify records to conceal the payment, designed to subvert election law, and that reimbursements for the $130,000 were falsely recorded as monthly checks for Cohen's ongoing legal services during the first year of the presidency; Trump pleaded not guilty and his defense maintained the checks and records were accurate.[25] Prosecutor [[joshua-steinglass|Joshua Steinglass]] delivered the closing for the Manhattan District Attorney's Office, defending Cohen's credibility as corroborated by a voluminous record of texts, emails and call records, and urging jurors to hold Trump accountable.[25]
+
+Badlands writer [[ashe-in-america|Ashe in America]], who had previously likened the trial to "a colonoscopy for the Trump campaign," argued that the prosecution's recasting of the evidence rested wholly on Cohen's credibility, that much of the supposed evidence was simply Cohen's testimony, and that because he was impeached multiple times the state had not proved its case beyond a reasonable doubt.[25] Court was to resume the following morning for roughly an hour of jury instructions before deliberations began.[25]
+
+## Market reaction
+
+Badlands contributor [[burning-bright|Burning Bright]] noted that shares of DJT — [[trump-media-and-technology-group|Trump Media & Technology Group]] — rose 9% even as mainstream coverage projected a likely conviction and possible jailing.[25] He attributed the inflow to retail investors backing what Trump represents rather than making a value play, observed that institutional shorts had been targeting DJT for months as [[devin-nunes|Devin Nunes]] had signalled, and argued that a jailing would only elevate Trump's standing in the "Collective Mind" ahead of the 2024 election.[25]
+
+## Gag order loosened, June 2024
+
+On June 25, 2024, Justice [[juan-merchan|Juan M. Merchan]] loosened the gag order in the Manhattan case, allowing [[donald-trump|Trump]] to criticize witnesses who testified against him, including [[michael-cohen|Michael Cohen]], and providing that after his July 11 sentencing he could also publicly assail prosecutors and their relatives.[26] A separate order barring disclosure of juror identities or attacks on jurors by name remained in effect, though Merchan permitted broad complaints about the jury, writing that "it would be this court's strong preference to extend those protections" while concluding the law required dropping them.[26]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Pedo Islands, Polling Panic & Cage Fights", URL: https://badlands.substack.com/p/badlands-news-brief-024
@@ -198,3 +214,5 @@ In the same period Judge [[juan-merchan|Juan Merchan]] disclosed to counsel a Fa
 22. Badlands Brief — "Badlands News Brief: Trumpian Deliberations, Libertarian LARPs & Israeli Misfires", URL: https://badlands.substack.com/p/badlands-news-brief-a21
 23. Badlands Brief — "Badlands News Brief: A Fiery Fani, a Plotting Putin & a Bumbling Biden Walk into a Bar", URL: https://badlands.substack.com/p/badlands-news-brief-a6e
 24. Badlands Brief — "Badlands News Brief: Globalists Panic as Populism Takes Over the Zeitgeist", URL: https://badlands.substack.com/p/badlands-news-brief-adc
+25. Badlands Brief — "Badlands News Brief: Deliberations Begin as Signal Spreads in the Info War", URL: https://badlands.substack.com/p/badlands-news-brief-af5
+26. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82

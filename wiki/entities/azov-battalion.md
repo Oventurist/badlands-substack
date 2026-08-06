@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ukraine, russia, information-war, symbolism]
-sources: [raw/badlands-brief-835.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-280.md, raw/badlands-news-brief-3c3.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-4bb.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-70a.md]
+sources: [raw/badlands-brief-835.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-280.md, raw/badlands-news-brief-3c3.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-4bb.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-b39.md]
 confidence: low
 ---
 
@@ -55,6 +55,12 @@ Following the September 2024 attempt on [[donald-trump|Donald Trump]]'s life, re
 
 In June 2024, Badlands reported that the [[pentagon|Pentagon]] had quietly lifted a 2018 [[donald-trump|Trump]]-led ban on sending American weapons to the Azov Battalion, described in the brief as a notorious Neo-Nazi group.[8] Former Pentagon official Michael Maloof characterized the reversal as "a sign of desperation."[8] The item was placed alongside remarks by Russian Foreign Minister [[sergey-lavrov|Sergey Lavrov]] that Eastern Europe had seen an explosion in Neo-Nazism ever since [[nato|NATO]] expanded into the territory, and Lavrov's broader argument that Western hegemony maintained through blackmail, sanctions, and military force was unsustainable.[8]
 
+## 3rd Assault Brigade European tour (July 2024)
+
+Ukraine's [[3rd-assault-brigade|3rd Assault Brigade]], closely linked to the neo-Nazi Azov movement, was forced to curb a European public-relations tour in July 2024 after public backlash.[9] The brigade had planned events in nine cities across Poland, Germany, the Netherlands, Belgium, the Czech Republic and Lithuania between 21 July and 2 August, intending to tell attendees "only the truth about service in the brigade" and drum up support for Ukraine.[9] A gathering went ahead in Warsaw, but the Rotterdam welfare organisation Wmo Radar withdrew as host of "the controversial event" citing "negative media attention," and in Berlin left-wing groups planned protests, with politician Ferat Kocak saying the city "does not need additional meeting points for the extreme right."[9]
+
+Kyiv mayor [[vitali-klitschko|Vitali Klitschko]] is himself associated with the Azov movement and named a new bridge in Kyiv "Azov Wave" after the battalion in 2024, according to Badlands commentary that linked Azov-aligned hardliners to domestic pressure on [[volodymyr-zelensky|Volodymyr Zelensky]] against a negotiated peace.[9]
+
 ## References
 
 1. Badlands Brief — "Virginia Democrats Lose the Plot and Go For Tyranny", URL: https://badlands.substack.com/p/badlands-brief-835
@@ -65,3 +71,4 @@ In June 2024, Badlands reported that the [[pentagon|Pentagon]] had quietly lifte
 6. Badlands Brief — "Badlands News Brief: Campaign Strategies & Ukrainian Nazis", URL: https://badlands.substack.com/p/badlands-news-brief-4bb
 7. Badlands Brief — "Badlands News Brief: MORE Shooter Shenanigans ... and TrumpaMania Reigns", URL: https://badlands.substack.com/p/badlands-news-brief-4cb
 8. Badlands Brief — "Badlands News Brief: Contempt, Combat Tactics and Cuts?", URL: https://badlands.substack.com/p/badlands-news-brief-70a
+9. Badlands Brief — "Biden Says Stuff as Nazis Circle in Ukraine", URL: https://badlands.substack.com/p/badlands-news-brief-b39

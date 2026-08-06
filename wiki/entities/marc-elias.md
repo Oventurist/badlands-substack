@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [election-law, democrats, litigation, shadow-cabal]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-618.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-91b.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-618.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-aed.md]
 confidence: medium
 ---
 
@@ -53,6 +53,10 @@ Public records cited in newly declassified material show that Elias, as general 
 
 In July 2025 Elias represented the [[equality-state-policy-center|Equality State Policy Center]] in a federal lawsuit challenging [[wyoming-house-bill-156|Wyoming House Bill 156]], the state law requiring voters to provide proof of U.S. citizenship and state residency to register.[7] U.S. District Court Judge Scott Skavdahl dismissed the case on July 22, 2025, and Secretary of State [[chuck-gray|Chuck Gray]] declared that "Marc Elias and the radical left were no match for our vigorous defense."[7] Badlands commentator [[ashe-in-america|Ashe in America]] marked the loss as "a day to toast justice" and linked Elias to the subpoena of [[actblue|ActBlue]] over alleged foreign money laundering, noting that [[perkins-coie|Perkins Coie]] and later the [[elias-law-group|Elias Law Group]] had advised ActBlue on legal compliance.[7]
 
+## Virginia noncitizen voter roll litigation (October 2024)
+
+Elias's election litigation practice was closely associated with challenges to state voter roll maintenance programs during the 2024 cycle, including the effort to block Virginia's removal of noncitizens from its rolls.[8] After the [[supreme-court-of-the-united-states|Supreme Court]] stayed a lower court ruling on October 30, 2024 and allowed Governor [[glenn-youngkin|Glenn Youngkin]]'s program to proceed, Badlands writer [[ashe-in-america|Ashe in America]] quipped, "Someone check on Marc Elias. He was really excited about noncitizens voting in Virginia."[8]
+
 ## References
 1. Badlands Brief — "Mixed Gender Crews, Trafficking Stings, & Shadow Cabal Reruns", URL: https://badlands.substack.com/p/badlands-brief-029
 2. Badlands Brief — "Triggering Summits & Allegedly Fair Elections", URL: https://badlands.substack.com/p/badlands-brief-618
@@ -61,3 +65,4 @@ In July 2025 Elias represented the [[equality-state-policy-center|Equality State
 5. Badlands News Brief — "Weed Wins, Globalist Whisking, & Lizard-Led Impeachments", URL: https://badlands.substack.com/p/badlands-news-brief-0ef
 6. Badlands News Brief — "Post Mortems, Dog Fights, & Flight Risks", URL: https://badlands.substack.com/p/badlands-news-brief-721
 7. Badlands Brief — "Badlands News Brief: The Corruption of Anti-Corruption & Obama Bites Back", URL: https://badlands.substack.com/p/badlands-news-brief-91b
+8. Badlands Brief — "Badlands News Brief: The Garbage Man Cometh to Take out the Trash", URL: https://badlands.substack.com/p/badlands-news-brief-aed

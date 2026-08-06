@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [federal-agency, doge, entitlements, fraud]
-sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-669.md]
+sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-b24.md]
 confidence: medium
 ---
 
@@ -26,7 +26,14 @@ In June 2025 the agency confirmed that [[edward-coristine|Edward Coristine]], th
 
 In October 2025, SSA head [[frank-bisignano|Frank Bisignano]] was appointed by Treasury Secretary [[scott-bessent|Scott Bessent]] to serve concurrently as the first chief executive officer of the [[internal-revenue-service|Internal Revenue Service]], announcing the move in an email to SSA employees and citing shared customer-service and technology goals across the two agencies.[3]
 
+## 2025 chief data officer resignation
+
+In late August 2025, SSA Chief Data Officer [[charles-borges|Charles Borges]] submitted a resignation letter to Administrator [[frank-bisignano|Frank Bisignano]], days after filing a whistleblower report documenting the [[doge|Department of Government Efficiency]]'s decision to upload sensitive agency data to a "vulnerable cloud environment."[4] Borges wrote that he had learned of several projects and incidents that "may constitute violations of federal statutes or regulations," that may have "provided unauthorized or inappropriate access to agency enterprise data storage solutions," and that "may involve unauthorized data exchange with other agencies."[4]
+
+He also alleged that "newly installed leadership in IT and executive offices created a culture of panic and dread, with minimal information sharing, frequent discussions on employee termination, and general organizational dysfunction," saying employees feared termination or retribution if they raised concerns.[4] The SSA did not immediately comment.[4]
+
 ## References
 1. Badlands Brief — "A Meddling Musk & Sanctions for Soros", URL: https://badlands.substack.com/p/badlands-news-brief-048
 2. Badlands Brief — "Decision Day, Disarming Deals & A Double Deportation", URL: https://badlands.substack.com/p/badlands-news-brief-32c
 3. Badlands Brief — "Dumb Questions, Pentagon Pizzas, & Zero Trust", URL: https://badlands.substack.com/p/badlands-news-brief-669
+4. Badlands Brief — "Badlands News Brief: A Curious Car Crash, Covid Case Rates, & A Culture of Panic and Dread", URL: https://badlands.substack.com/p/badlands-news-brief-b24

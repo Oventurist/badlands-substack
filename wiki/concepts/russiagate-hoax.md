@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [russiagate, intelligence, accountability, hoax, media]
-sources: [raw/badlands-blitz-episode-14.md, raw/badlands-brief-625.md, raw/badlands-news-brief-07f.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-a04.md]
+sources: [raw/badlands-blitz-episode-14.md, raw/badlands-brief-625.md, raw/badlands-news-brief-07f.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-b0f.md]
 confidence: medium
 ---
 
@@ -84,6 +84,11 @@ On July 28, 2025, [[cia|CIA]] Director [[john-ratcliffe|John Ratcliffe]] told Fo
 
 Badlands contributor [[burning-bright|Burning Bright]] framed the moment as the transformation of "Grand Conspiracy" from a hashtag into a legally codified label for Disclosure, noting that DNI [[tulsi-gabbard|Tulsi Gabbard]] had codified the framing days earlier and that the parallel Epstein and Russiagate disclosure tracks gave Trump bipartisan "narrative shielding."[10]
 
+## July 2025 declassification
+
+On Friday, July 18, 2025, Director of National Intelligence [[tulsi-gabbard|Tulsi Gabbard]] declassified documents that Fox News Digital reported as "overwhelming evidence" that the Obama administration had "manufactured and politicized intelligence" to build the narrative of Russian interference in the 2016 election, despite intelligence community assessments to the contrary.[11] The material showed that in the months before the November 2016 election the intelligence community consistently judged that Russia was "probably not trying…to influence the election by using cyber means," and that after [[donald-trump|Donald Trump]]'s victory over [[hillary-clinton|Hillary Clinton]], [[barack-obama|Barack Obama]] and his national security team laid the groundwork for the collusion probe.[11]
+
+Gabbard's team released over 100 pages of memos and emails, which she described as evidence of a "treasonous conspiracy" and a "years-long coup against President Trump," calling for former officials to be prosecuted and saying there was "no rational or logical explanation" for why the investigations run by [[robert-mueller|Robert Mueller]] and [[john-durham|John Durham]] failed to surface the same evidence.[11] Badlands commentary pointed to remarks by [[joe-biden|Joe Biden]] on January 5, 2017, the day before the Intelligence Community Assessment was released, as evidence that senior officials pushed a narrative they knew to be false.[11]
 
 ## References
 1. Badlands Brief — "Badlands Blitz Episode 14: The Dawning Age of American Accountability", URL: https://badlands.substack.com/p/badlands-blitz-episode-14
@@ -96,3 +101,4 @@ Badlands contributor [[burning-bright|Burning Bright]] framed the moment as the 
 8. Badlands Brief — "Badlands News Brief: FOX Trots, Montana Maintains & Congress Convenes", URL: https://badlands.substack.com/p/badlands-news-brief-49a
 9. Badlands News Brief — "Post Mortems, Dog Fights, & Flight Risks", URL: https://badlands.substack.com/p/badlands-news-brief-721
 10. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
+11. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f

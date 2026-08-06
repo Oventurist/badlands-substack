@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [january-6, fbi, investigations, oversight, whistleblowers]
-sources: [raw/badlands-news-brief-79c.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-951.md]
+sources: [raw/badlands-news-brief-79c.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-b4d.md]
 confidence: medium
 ---
 
@@ -34,8 +34,17 @@ In early December 2025, nearly five years after the two devices were planted out
 
 Badlands contributor [[ashe-in-america|Ashe in America]] rejected the premise of the case outright, writing that "there were never any pipe bombs" and that "the story of the pipe bombs was the point of the pipe bombs," dismissing the new prosecution as a poorly written sequel.[3]
 
+## Gait-analysis reporting on a former Capitol Police officer (November 2025)
+
+In November 2025, a Blaze News investigation confirmed by several intelligence sources reported that a forensic analysis of a female former [[united-states-capitol-police|U.S. Capitol Police]] officer's gait was a 94%–98% match to the unique stride of the long-sought January 6 pipe-bomb suspect.[4] A source close to a congressional investigation of January 6 additionally told Blaze News that evidence had recently emerged pointing toward possible law enforcement involvement in the planting of the pipe bombs.[4]
+
+A software algorithm analyzing walking parameters — flexion (knee bend), hip extension, speed, step length, cadence and variance — rated [[shauni-rae-kerkhoff|Shauni Rae Kerkhoff]], 31, of Alexandria, Virginia, as a 94% match to the suspect shown on video from January 5, 2021; the veteran analyst who ran the analysis said that, based on visual observations the program can struggle with, he personally pegged the match closer to 98%.[4] Kerkhoff served as a Capitol Police officer for four and a half years and left the department in mid-2021 for a security detail at the [[cia|Central Intelligence Agency]], sources told Blaze News; CIA spokeswoman Liz Lyons stated that the subject worked in campus security.[4] Kerkhoff's residence in Alexandria appeared to be under the watch of law enforcement officers on the Friday night before publication, and Blaze News editor in chief [[christopher-bedford|Christopher Bedford]] was pulled over by local police after stopping to observe the home before being allowed to leave.[4]
+
+Badlands host [[canncon|CannCon]] called the report "definitely huge" and framed it as another instance in which "the conspiracy theorists were right again," adding that the untold story of the 2020 election had yet to go mainstream.[4]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Target Tumbles, Trump Tops & Feds Fabricate", URL: https://badlands.substack.com/p/badlands-news-brief-79c
 2. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
 3. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951
+4. Badlands Brief — "Tariff Take Home, Shutdown Stalls, & Unconstitutionally Compelled Speech", URL: https://badlands.substack.com/p/badlands-news-brief-b4d
