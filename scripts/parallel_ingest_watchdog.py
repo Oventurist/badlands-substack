@@ -33,10 +33,14 @@ def log(msg):
 
 
 def driver_alive():
+    """True if the DRIVER (parallel_ingest.py) is running. Must match the
+    driver's module name specifically — a bare 'parallel_ingest' substring
+    would match this watchdog's own command line (parallel_ingest_watchdog.py)
+    and always report alive."""
     r = subprocess.run(
         ["wmic", "process", "where", "name='python.exe'", "get", "CommandLine"],
         capture_output=True, text=True)
-    return any("parallel_ingest" in l for l in r.stdout.splitlines())
+    return any("parallel_ingest.py" in l for l in r.stdout.splitlines())
 
 
 def queue_done():

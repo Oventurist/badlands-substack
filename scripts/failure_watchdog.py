@@ -114,7 +114,8 @@ def kill_driver():
     r = subprocess.run(["wmic", "process", "where", "name='python.exe'", "get", "ProcessId,CommandLine"],
                        capture_output=True, text=True)
     for line in r.stdout.splitlines():
-        if "parallel_ingest" in line:
+        # match the driver module specifically, not this watchdog's own name
+        if "parallel_ingest.py" in line:
             m = re.search(r"(\d+)\s*$", line.strip())
             if m:
                 subprocess.run(["taskkill", "/F", "/T", "/PID", m.group(1)],
