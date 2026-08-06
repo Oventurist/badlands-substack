@@ -48,10 +48,24 @@ jobs:
         working-directory: site
         # generates site/docs from wiki/, then renders the VitePress site.
         # NODE_OPTIONS raises the JS heap cap: the default ~4GB dies on
-        # 8K+ page builds (FATAL ERROR: JavaScript heap out of memory).
+        # 11K+ page builds. The 6GB heap is borderline on GitHub's 7GB
+        # runners (runner-to-runner variance — identical commits sometimes
+        # OOM at the final bundling phase), so retry up to 3x; a retry
+        # lands on a different runner and usually completes.
         env:
           NODE_OPTIONS: "--max-old-space-size=6144"
-        run: npm run build
+        run: |
+          for attempt in 1 2 3; do
+            echo "=== build attempt $attempt ==="
+            if npm run build; then
+              echo "build succeeded on attempt $attempt"
+              exit 0
+            fi
+            echo "build failed on attempt $attempt (exit $?) — retrying"
+            sleep 10
+          done
+          echo "build failed after 3 attempts"
+          exit 1
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
