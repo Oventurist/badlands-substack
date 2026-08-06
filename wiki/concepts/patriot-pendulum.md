@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [information-war, fifth-generation-warfare, hegelian-dialectic, badlands-media, burning-bright]
-sources: [raw/right-the-ship.md]
+sources: [raw/right-the-ship.md, raw/the-war-of-stories.md]
 confidence: medium
 ---
 
@@ -29,3 +29,11 @@ He argued that the decentralized "hivemind of citizen intelligence" of the sover
 ## References
 
 1. Badlands Brief — "Right the Ship", URL: https://badlands.substack.com/p/right-the-ship
+
+## The pendulum as succession machinery (December 2022)
+
+In "The War of Stories" (December 30, 2022), [[burning-bright|Burning Bright]] described the Patriot Pendulum as the mechanism by which entrenched interests "guide and then coast off of engineered public sentiment" only so far as the current sociopolitical push will carry them, before weaponizing the ensuing backlash in the direction of an ostensibly antagonistic successor held in the wings — one who publicly opposes the prior regime while continuing its work "in the ledgers that truly matter" upon seizing power.[2] He attributed the practice to names, organizations and collectives that have "thrived in the shadows for generations, perhaps centuries," placing their puppets in full public view.[2]
+
+He illustrated the pattern through a sequence of American successions: for every Kennedy taken, a [[lyndon-b-johnson|Lyndon Johnson]] to take his place; for every Reagan stemming the bleeding of nationalist zeal, a Bush to ride the Republican Party "like a Trojan Horse" into a zeitgeist anticipating a post-USSR world order, before handing off to the Clintons, the Bushes again and then the Obama regime — each, in his telling, groomed in succession and for succession.[2] The clearest example he offered was the transition from the Bush Jr. era to the Obama era: Bush rode nationalist zeal after the [[september-11-attacks|9/11 attacks]] into the [[war-on-terror|War on Terror]], while Obama rode the backlash to that zeal into power only to convert the War on Terror into a forever war — one, he wrote, that it took [[donald-trump|Donald Trump]] to pull the country out of.[2]
+
+2. Badlands Brief — "The War of Stories", URL: https://badlands.substack.com/p/the-war-of-stories

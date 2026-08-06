@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [federal-reserve, monetary-policy, interest-rates, 2024-election]
-sources: [raw/badlands-news-brief-2f2.md]
+sources: [raw/badlands-news-brief-2f2.md, raw/three-possible-election-outcomes.md]
 confidence: medium
 ---
 
@@ -27,3 +27,10 @@ Badlands commentator [[burning-bright|Burning Bright]] argued the move should be
 ## References
 
 1. Badlands News Brief — "Israel Strikes Again as The FED Pivots", URL: https://badlands.substack.com/p/badlands-news-brief-2f2
+2. Badlands Brief — "Three Possible Election Outcomes", URL: https://badlands.substack.com/p/three-possible-election-outcomes
+
+## Recession-timing commentary
+
+Writing on October 10, 2024, [[erik-carlson|Erik Carlson]] used the September cut as the starting point of a recession clock.[2] He described as an observed economic trend, rather than financial advice, the pattern that once the [[federal-reserve|Federal Reserve]] begins cutting interest rates a recession follows on average about eighteen months later — sometimes sooner, sometimes later.[2] Because the Fed began cutting in September and he expected further cuts in November and through 2025 and possibly 2026, he projected a likely recession roughly eighteen months out.[2]
+
+Carlson qualified the projection by arguing that a recession was not inevitable but would occur only if drastic measures were not taken, which he defined as the return of [[donald-trump|Donald Trump]] to the presidency.[2] He predicted that a Trump term would divert the recession while a [[kamala-harris|Kamala Harris]] presidency would make a massive recession all but guaranteed, though with enough delay for Americans to save money and shift their retirement accounts into lower-risk allocations.[2]

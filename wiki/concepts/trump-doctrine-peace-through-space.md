@@ -1,0 +1,52 @@
+---
+title: "Trump Doctrine: Peace Through Space"
+created: 2026-08-06
+updated: 2026-08-06
+type: concept
+tags: [space-force, bitcoin, spacex, trump, peace-through-strength, non-kinetic-warfare]
+sources: [raw/trump-doctrine-peace-through-space.md]
+confidence: medium
+---
+
+# Trump Doctrine: Peace Through Space
+
+**Trump Doctrine: Peace Through Space** is the name given by the Badlands Media contributor "PiP" (Patriots in Progress) to a hypothesis holding that the most consequential accomplishment of Donald Trump's first administration was not any of the achievements ordinarily catalogued by his supporters, but a concealed reorientation of American power toward non-kinetic warfare conducted in space, cyberspace, and monetary networks.[1] The article framing the hypothesis was published on February 11, 2024.[1]
+
+## Foundation: Peace Through Strength
+
+The author builds the argument on the older doctrine of [[peace-through-strength|Peace Through Strength]], defined as a foreign policy that maintains strong military and defense capabilities in order to avoid war, preserve peace, and deter adversaries.[1] Only a handful of American presidents are said to have adopted it, including George Washington, [[donald-trump|Trump]], and most prominently [[ronald-reagan|Ronald Reagan]], whose Reagan Doctrine rested on support for freedom worldwide and whose commitment to "peace through strength" led to the modernization of US military forces in the hope that new military initiatives "would not only contain communism but defeat it."[1]
+
+The phrase appears five times in the [[qanon|Q]] corpus, and the author regards drop #1350 as its clearest expression: a reference to a *network* of brave, united men and women whose strength is sufficient to bring about peace, closing with "Peace Through Strength" in a way the author reads as signalling a non-kinetic, non-violent solution.[1] Rather than equating that network solely with the US military, the author and [[gmoney|GMONEY]] equate it with a [[counterinsurgency|counterinsurgency]] (COIN) — "comprehensive civilian and military efforts taken to simultaneously defeat and contain INSURGENCY and address its root causes," a definition drawn from Q drop #4363.[1] Supporting this, [[michael-flynn|General Michael Flynn]] is quoted saying "We have an army of Digital Soldiers" and "This was run like an insurgency."[1] Background reading offered by the author includes the [[covfefe|COVFEFE Dig]] and the COVFEFE 2.0 Dig, which link Q, Trump, Bitcoin, Pepe, JFK, secret societies, shadow governments and non-kinetic power projection.[1]
+
+## Space Force and warfighting domains
+
+The article opens its evidentiary section with posts by the [[united-states-space-force|Space Force]] recruiting account on X drawing a sharp boundary between the service and [[nasa|NASA]]: NASA is "a civilian sector centered on astronauts, how to live in space, and exploring our galaxy and beyond," whereas the Space Force exists to "secure our nation's interests in, from, and to space."[1] A follow-up post showed a Guardian with a disgusted expression captioned "Our face when someone mistakes our Guardians for astronauts."[1] The author reads the insistence as an attempt to escape the "fake and ghey" reputational contamination attached to NASA's strange history.[1] In modern warfighting terms, "space" in the Space Force sense includes cyber-space and interfaces with air-space (Air Force), sea-space (Navy and Coast Guard) and land-space (Marines and Army).[1]
+
+Historically, Trump announced the creation of the Space Force as the sixth branch of the US military on June 18, 2018, and it was signed into law on December 21, 2019, though space as a warfighting domain traces to the 1940s, with the first [[united-states-air-force|Air Force]] space programs starting in 1945 and the Western Development Division under Gen. Bernard A. Schriever established in 1954 as the first dedicated space organization in the US armed forces.[1] Before the Space Force, military space activity sat under Air Force Space Command, established in 1982.[1]
+
+The author threads Schriever back to his commander Henry H. "Hap" Arnold, and Arnold in turn to Gen. William "[[billy-mitchell|Billy]]" Mitchell, an apostle of strategic air power.[1] [[jason-lowery|Jason Lowery]], a Space Force major, discussed Mitchell in *[[softwar|Softwar]]*, noting that Mitchell was demoted and court-martialed in the 1920s for insubordination after accusing Army, Navy and congressional leaders of "near-treasonous" incompetence for refusing to accept that airplanes would become as strategically vital as battleships.[1] Lowery's larger claim — that nations which reject new Schelling points of war decline, and that [[bitcoin|Bitcoin]] is a new Schelling point of non-kinetic warfare in cyber-space amid a path-dependent digital arms race — supplies the doctrine's theoretical spine.[1]
+
+## The three phases
+
+The hypothesis divides into three overlapping phases.[1]
+
+**Preparation phase** (January 2017 – January 2021): Trump poured more than $2.2 trillion into the US military under Peace Through Strength, created the Space Force, and elevated [[us-cyber-command|Cyber Command]] to a major warfighting command.[1] Because defense dollars are notoriously untraceable — the [[government-accountability-office|GAO]] could render no opinion on the 2010 consolidated federal financial statements owing to "serious financial management problems at the Department of Defense (DOD) that made its financial statements unauditable," and [[donald-rumsfeld|Donald Rumsfeld]] said on September 10, 2001 that "We cannot track $2.3 Trillion" — the author argues the money could have been directed to any purpose, plausibly building [[elon-musk|Elon Musk]]'s launch capability out of public view.[1]
+
+**Print phase** (COVID): The author contends Trump knew in advance that the hidden enemy would move to steal the 2020 election, possibly down to specifics because of tabletop and gain-of-function exercises focused on pandemic response — Clade X (May 15, 2018) and [[event-201|Event 201]] (October 18, 2019).[1] Insisting that responsibility rested with state and local officials, Trump allowed those officials to create enormous sums out of thin air, producing inflation.[1] Measured by the M1 money supply — the most liquid forms of currency and the best gauge of spending through currency creation — the aggregate rose by $600 million from January 2017 to February 2020 and then exploded by $14.1 trillion, a 78% increase, from March 2020 to January 2021.[1] The author frames this dollar devaluation as an enabler, noting that debasing the world's reserve currency injures weaker foreign currencies far more.[1]
+
+**Pulverize phase** (post-administration): [[spacex|SpaceX]] quadrupled its launch rate from 2020 to 2023, with [[starlink|Starlink]] comprising 55% of launches from 2020 to 2022 and 66% in 2023.[1] The author asks whether the timing was deliberate — waiting until after the dollar's devaluation to unleash SpaceX, so that rival space programs were both technologically behind and financially unable to keep pace.[1]
+
+## Launch dominance as evidence
+
+Writing as a system safety engineer with nearly fifteen years in the rocket and satellite industry, the author stresses that launching, recovering and refurbishing a 1.2-million-pound rocket every 3.8 days on average from multiple coasts is an extremely complex feat, making 96 launches in a year remarkable.[1] By contrast, [[united-launch-alliance|United Launch Alliance]] — formerly the sole Department of Defense launch provider — peaked at 16 launches in 2009 and has averaged 8.7 per year since its 2006 inception.[1] SpaceX now launches 80% of all mass to orbit worldwide.[1] [[kash-patel|Kash Patel]] has stated that Musk is the largest [[department-of-defense|DoD]] contractor, which would make him a major beneficiary of the $2.2 trillion and would make the Space Force his largest customer.[1] Access to that market required [[national-security-space-launch-certification|National Security Space Launch certification]], granted to Falcon 9 on May 26, 2015.[1]
+
+## Anomalies
+
+Three supplementary items are offered.[1] First, SpaceX's single failure against 273 successes destroyed the [[amos-6|Amos-6]] satellite owned by [[spacecom|Spacecom]] on September 1, 2016 — a spacecraft whose major user was to be [[facebook|Facebook]] under its Internet.org program to deliver internet to the developing world, i.e. a competitor to Starlink.[1] Second, Facebook's stablecoin [[diem|Diem]] (formerly Libra) was blocked after Treasury Secretary [[steven-mnuchin|Steve Mnuchin]] said on July 15, 2019 that he was "not currently comfortable" with the launch; the project's assets were eventually sold to [[silvergate-bank|Silvergate Bank]], which shut down in March 2023.[1] Third, on May 21, 2020 Trump and Mnuchin appointed Bitcoin maximalist [[brian-brooks|Brian Brooks]] to head the [[office-of-the-comptroller-of-the-currency|OCC]], and within two months banks were permitted to custody bitcoin.[1]
+
+## Conclusion and the hash-rate coda
+
+The author concedes there is no direct confirmation, only "seemingly endless circumstantial evidence," and urges readers to let the data speak and await further "future proves past" news.[1] As a closing parallel, Reagan's administration grew the Army by two active divisions and developed new weapons systems; the Bitcoin network's hash power was essentially flat until Trump's election and then exploded after the Space Force was established.[1] Citing [[michael-saylor|Michael Saylor]], the article notes that 320 exahashes per second on February 20, 2023 was equivalent to roughly twice the power consumption of the entire US Navy, and sustained spikes to 562 exahashes per second would equal about 3.51 times that consumption — prompting the question of whether Bitcoin itself is the new weapons system built under Peace Through Strength.[1] The material was developed alongside [[gmoney|GMONEY]] on *[[rugpull-radio|Rugpull Radio]]*, and a related [[badlands-media|Badlands Media]] clip features [[jon-herold|Jon Herold]] and Ret. Lt. Gen. [[steven-kwast|Steven Kwast]] discussing proven technology for capturing and transferring solar energy from space.[1]
+
+## References
+1. Badlands Brief — "Trump Doctrine: Peace Through Space", URL: https://badlands.substack.com/p/trump-doctrine-peace-through-space

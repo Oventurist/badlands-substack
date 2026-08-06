@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [medicine, gender-medicine, nhs, pediatrics]
-sources: [raw/badlands-news-brief-a15.md, raw/badlands-news-brief-eca.md, raw/gender-ideology-has-become-law.md, raw/im-not-a-biologist.md]
+sources: [raw/badlands-news-brief-a15.md, raw/badlands-news-brief-eca.md, raw/gender-ideology-has-become-law.md, raw/im-not-a-biologist.md, raw/these-3-events-expose-gender-ideology.md]
 confidence: medium
 ---
 
@@ -44,3 +44,11 @@ The article further criticized [[wpath|WPATH]]'s position that access should not
 Reviewing the documentary [[what-is-a-woman|"What Is a Woman?"]] in June 2023, Badlands contributor [[ashe-in-america|Ashe in America]] singled out the claim that pausing puberty with Lupron is completely reversible as among the central myths propagated by gender theory advocates, noting that Lupron is the same chemical castration drug known for its use with sex offenders.[4] She placed the drug within a broader pipeline in which post-operative transgender patients face a lifelong battle of medications, additional surgeries and therapies - an industry she described as booming and worth billions, with detransitioner [[scott-newgent|Scott Newgent]] quoting surgery alone at "$70,000 a pop."[4]
 
 4. Badlands Brief - "I'm Not a Biologist!", URL: https://badlands.substack.com/p/im-not-a-biologist
+
+## International restrictions cited by Badlands
+
+[[simon-esler|Simon Esler]] wrote in March 2023 that girls were seeking access to Lupron — a drug he noted is typically used to castrate sex offenders — in order to halt puberty and avoid what they were told was the trauma of becoming a woman.[5] He documented two national reversals on the practice: in the autumn of 2022 the [[nhs|NHS]] in England restricted puberty blockers to research protocol settings, as reported by the [[society-for-evidence-based-gender-medicine|Society for Evidence Based Gender Medicine]], and in May 2021 Sweden became the first country to stop prescribing puberty blockers and cross-sex hormones to children under 16.[5]
+
+The Swedish decision was announced in a letter from [[karolinska-hospital|Karolinska Hospital]] citing a December 2019 SBU review that found a lack of evidence for the long-term consequences of the treatments, and warning that they are "potentially fraught with extensive and irreversible adverse consequences such as cardiovascular disease, osteoporosis, infertility, increased cancer risk, and thrombosis."[5] The letter also cited a court ruling holding that it is "highly unlikely, if at all possible, for an individual under the age of 16 to give informed consent to this treatment," and advising court approval for 16- to 18-year-olds because the treatment should be considered experimental.[5]
+
+5. Badlands Brief — "These 3 Events Expose Gender Ideology", URL: https://badlands.substack.com/p/these-3-events-expose-gender-ideology

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [neoconservatism, pnac, military-strategy]
-sources: [raw/deep-state-spotlight-victoria-nuland.md]
+sources: [raw/deep-state-spotlight-victoria-nuland.md, raw/the-wuhan-lab-leak-hoax.md]
 confidence: medium
 ---
 
@@ -19,3 +19,11 @@ DeLarme further argues that the outcomes France and Germany warned of — region
 ## References
 
 1. Badlands Media — "Deep State Spotlight: Victoria Nuland", URL: https://badlands.substack.com/p/deep-state-spotlight-victoria-nuland
+
+2. Badlands Brief — "The Wuhan Lab Leak Hoax", URL: https://badlands.substack.com/p/the-wuhan-lab-leak-hoax
+
+## Biological warfare passage
+
+The October 2000 policy document was co-authored by [[william-kristol|William Kristol]], [[john-bolton|John Bolton]], [[richard-perle|Richard Perle]], [[dick-cheney|Dick Cheney]], [[paul-wolfowitz|Paul Wolfowitz]], [[elliott-abrams|Elliot Abrams]] and [[donald-rumsfeld|Donald Rumsfeld]].[2] It stated explicitly that in the new American Century "combat will likely take place in new dimensions: In space, cyber-space and perhaps the world of microbes," and that "advanced forms of biological warfare that can 'target' specific genotypes may transform biological warfare from the realm of terror to a politically useful tool."[2]
+
+[[matthew-ehret|Matthew Ehret]] cites this passage as part of his fourth "fact" against the [[lab-leak-theory|Wuhan lab leak hypothesis]], linking it to the [[pentagon|Pentagon's]] global bioweapons complex and to the early claim, circulated by [[zhao-lijian|Zhao Lijian]], that COVID-19 exhibited "gene targeting" effects across specific populations.[2]

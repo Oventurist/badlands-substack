@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [bolshevik-revolution, russia, permanent-revolution, communism]
-sources: [raw/shadows-sovereigns-and-civil-wars.md]
+sources: [raw/shadows-sovereigns-and-civil-wars.md, raw/who-are-the-true-puppet-masters.md]
 confidence: medium
 ---
 
@@ -32,3 +32,11 @@ Upon taking charge of the Russian economy, Trotsky and Lenin unleashed the [[new
 
 ## References
 1. Badlands Brief — "Shadows, Sovereigns and Civil Wars - Part 1", URL: https://badlands.substack.com/p/shadows-sovereigns-and-civil-wars
+
+## Cited in "Who are the True Puppet Masters?" (July 2023)
+
+[[erik-carlson|Erik Carlson]] describes Trotsky as a British-controlled asset who, alongside Lenin, led the Bolsheviks in the successful 1917 revolution that Carlson holds England funded and orchestrated.[2] He writes that Trotsky was controlled and funded by England, and repeats the claim that Trotsky carried on an affair with a cousin of [[winston-churchill|Winston Churchill]] who was a member of [[british-intelligence|British Intelligence]] — drawing a comparison to the Eric Swalwell case.[2]
+
+The episode sits within Carlson's account of a British grudge against the Russian monarchy for Russian naval support of the Union during the [[american-civil-war|American Civil War]], culminating in the murder of the Czar and his family and the creation of the [[soviet-union|Soviet Union]] after a bloody civil war.[2]
+
+2. Badlands Brief — "Who are the True Puppet Masters?", URL: https://badlands.substack.com/p/who-are-the-true-puppet-masters

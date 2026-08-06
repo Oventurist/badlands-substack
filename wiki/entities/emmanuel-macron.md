@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [france, europe, politics]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-1cd.md, raw/badlands-brief-7ed.md, raw/badlands-brief-cd8.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-561.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-855.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-adc.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-dbb.md, raw/badlands-news-brief-fbc.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-1cd.md, raw/badlands-brief-7ed.md, raw/badlands-brief-cd8.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-561.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-855.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-adc.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-dbb.md, raw/badlands-news-brief-fbc.md, raw/the-multinational-offensive-against.md]
 confidence: medium
 ---
 
@@ -207,3 +207,9 @@ As the [[2023-french-riots|2023 French riots]] entered a fifth consecutive night
 27. Badlands Brief — "Badlands News Brief: Zelensky Rages, COVID Concedes & Soros Surrounded", URL: https://badlands.substack.com/p/badlands-news-brief-d8e
 28. Badlands News Brief — "A Moscow Mission, Historic Agreements, & A New Fed Chair", URL: https://badlands.substack.com/p/badlands-news-brief-dbb
 29. Badlands Brief — "Freedom Reigns, France Burns & Biden Bluffs", URL: https://badlands.substack.com/p/badlands-news-brief-fbc
+
+## Alleged role in luring Durov to France (August 2024)
+
+According to an account relayed by Badlands contributor [[ryan-delarme|Ryan DeLarme]], Emmanuel Macron allegedly invited [[telegram|Telegram]] founder [[pavel-durov|Pavel Durov]] to dinner on the evening of August 24, 2024, the night Durov was arrested at Le Bourget Airport — leading many to believe Macron had led Durov into France under false pretenses.[30] Macron predictably denied the allegations, but DeLarme reported that many observers remained skeptical, noting how active a role the French government had taken in the multi-pronged attack on free speech.[30]
+
+30. Badlands Brief — "The Multinational Offensive Against Free Speech Online", URL: https://badlands.substack.com/p/the-multinational-offensive-against

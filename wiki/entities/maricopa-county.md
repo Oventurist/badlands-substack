@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [arizona, maricopa-county, elections, local-government]
-sources: [raw/an-sos-from-ground-zero.md, raw/badlands-brief-509.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-ca1.md, raw/q-for-dummies-chapter-13.md, raw/thats-not-signature-verification.md]
+sources: [raw/an-sos-from-ground-zero.md, raw/badlands-brief-509.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-ca1.md, raw/q-for-dummies-chapter-13.md, raw/thats-not-signature-verification.md, raw/timing-is-everything.md, raw/watch-the-water.md]
 confidence: medium
 ---
 
@@ -60,3 +60,19 @@ The Badlands Media "Q For Dummies" series observed that Maricopa County is the o
 
 6. Badlands Brief — "Q For Dummies - Chapter 13", URL: https://badlands.substack.com/p/q-for-dummies-chapter-13
 7. Badlands Brief — "That's Not Signature Verification, Your Honor", URL: https://badlands.substack.com/p/thats-not-signature-verification
+
+## Focus of the "timing" thesis (November 2022)
+
+Badlands contributor [[joe-lange|Joe Lange]] argued that Maricopa County's centrality was not accidental: the only [[qanon|Q]] post giving actual vote counts from the [[2018-midterm-elections|2018 midterms]] named Maricopa alone among all counties in the country, Arizona was the only state legislature to act on alleged 2020 fraud, and the [[maricopa-county-forensic-audit|forensic audit]] conducted there was, in his account, the only such audit ever performed on an American election.[8]
+
+That audit, commissioned by the [[arizona-state-senate|Arizona Senate]] and carried out by four out-of-state firms including [[cyber-ninjas|Cyber Ninjas]], produced a hand recount that added 360 votes to [[joe-biden|Joe Biden]]'s total in a state he had carried by 10,457 votes, alongside a ballot-level analysis identifying 49,718 questionable votes.[8] Following the [[2022-arizona-general-election|2022 general election]], the county faced simultaneous demands for evidence from the state legislature and from the [[arizona-attorney-generals-office|Attorney General's office]] Election Integrity Unit before certification, while a second Republican-controlled county delayed its own certification in protest at Maricopa's Election Day problems.[8]
+
+8. Badlands Brief — "Timing Is Everything", URL: https://badlands.substack.com/p/timing-is-everything
+
+## 2022 count delays
+
+Maricopa County, home to Phoenix and its surrounding communities and roughly 4.5 million residents, became the focus of national and international attention after the November 8, 2022 election.[9] Writing on the afternoon of November 10, [[kitty-gillespie|Kitty Gillespie]] reported that only about 62,000 ballots had been released in the two full days since polls closed, prompting a wave of memes and, in her words, making Arizona "the laughingstock" of the country and the world.[9] [[charlie-kirk|Charlie Kirk]] observed that morning that "the most committed, loyal Republican voters in Arizona have not even had their envelopes opened yet."[9]
+
+Gillespie described her own polling-place experience in the county: she completed a ballot at home for reference, was checked in and ID-verified by a poll worker who referred to the reference ballot as her "cheater ballot," had that ballot "spoiled" with a black marker, received a freshly printed ballot at a site that still had working printer paper and ink, and — with no functioning tabulator available — was made to deposit it in the "now-infamous 'Box 3'."[9]
+
+9. Badlands Media — "Watch the Water", URL: https://badlands.substack.com/p/watch-the-water

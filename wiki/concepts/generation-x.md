@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [generations, gen-x, demographics, propaganda, 2024-election]
-sources: [raw/is-generation-x-saving-america.md, raw/reagan-20.md]
+sources: [raw/is-generation-x-saving-america.md, raw/reagan-20.md, raw/the-us-department-of-re-education.md]
 confidence: low
 ---
 
@@ -42,3 +42,10 @@ Finally, the essay notes the irony that Trump, a Baby Boomer, is removing a [[de
 A February 2025 Badlands feature by [[erik-carlson|Erik Carlson]] cited election surveys showing that Generation X — the cohort that grew up with [[ronald-reagan|Ronald Reagan]] as president — is by far the most [[donald-trump|Trump]]-supporting generation, offering the finding as further evidence of continuity between the two presidencies.[2]
 
 2. Badlands Brief — "Reagan 2.0", URL: https://badlands.substack.com/p/reagan-20
+
+
+## Reagan and the Department of Education
+
+A January 2025 Badlands feature by [[erik-carlson|Erik Carlson]] linked Generation X's political character to [[ronald-reagan|Ronald Reagan]]'s eight-year effort to defund the [[department-of-education|Department of Education]], arguing that because Reagan stymied the department throughout the 1980s, Gen X youth escaped much of the propaganda and conditioning heaped on the generations before and after them.[3] Carlson presented this as an explanation for his earlier theory that Gen X was the only generation to vote in a majority for [[donald-trump|Donald Trump]] in 2024.[3] He added that a great deal of subsequent American technological innovation came from Americans schooled during the Reagan administration, a period he says encouraged creativity in the classroom and supplied the resources to realize it.[3]
+
+3. Badlands Brief — "The U.S. Department of Re-education", URL: https://badlands.substack.com/p/the-us-department-of-re-education

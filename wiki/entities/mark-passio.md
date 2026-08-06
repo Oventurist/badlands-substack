@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [occult, whistleblower, satanism, false-flags]
-sources: [raw/false-flags-and-the-occult.md]
+sources: [raw/false-flags-and-the-occult.md, raw/the-werewolf-game-hell-on.md]
 confidence: medium
 ---
 
@@ -26,5 +26,10 @@ Disgusted and disturbed by what he encountered, Passio dedicated his life to exp
 
 Passio is credited in the article with defining the forty-day [[season-of-sacrifice|season of sacrifice]] running from approximately March 19th to May 1st, derived by combining the Minor Zodiacal Cross point of the spring equinox with the Grand Cross point of Walpurgisnacht.[1] The article's author, [[justin-deschamps|Justin Deschamps]], reproduces an excerpt from his own 2015 summary of a Passio presentation laying out the [[astrotheology|astrotheological]] basis of false flags and the season.[1] Passio is cited alongside Santos Bonacci as a researcher concluding that an astrotheological basis for shaping world events remains active in the present day.[1] A 2015 appearance at the "De-Mystifying the Occult" event in Manchester, Connecticut, and a subsequent three-hour-plus presentation from 2016 are referenced as sources for his testimony.[1]
 
+## The masses as "the walking dead"
+
+Badlands Media's [[the-werewolf-game|Werewolf Game]] series cites Passio for the claim that the higher-ups in the [[church-of-satan|Church of Satan]] view the general population as the *walking dead*.[2] On this reading the term "consumers" is a form of occult mockery: to the initiated the masses are zombies who wander aimlessly about the world consuming as they go, an idea the series treats as approximated by the phrase "useless eaters."[2] [[american-hypnotist|American Hypnotist]] builds on this to propose a three-tier symbolic hierarchy in which vampires represent the cult's royalty, werewolves its mercenaries and zombies everyone else — as though an infernal hierarchy had been instantiated in this realm.[2]
+
 ## References
 1. Badlands Brief — "False Flags and the Occult", URL: https://badlands.substack.com/p/false-flags-and-the-occult
+2. Badlands Brief — "The Werewolf Game - Hell On", URL: https://badlands.substack.com/p/the-werewolf-game-hell-on

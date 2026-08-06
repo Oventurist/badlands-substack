@@ -1,10 +1,10 @@
 ---
-title: USAID
+title: "USAID"
 created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [usaid, funding, labor, regime-change]
-sources: [raw/a-more-perfect-labor-union.md, raw/and-iran-iran-so-far-away.md, raw/bad-actors.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-306.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-365.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-cb6.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-cff.md, raw/badlands-news-brief-e01.md, raw/badlands-news-brief-e10.md, raw/badlands-news-brief-fe4.md, raw/days-of-thunder.md, raw/dollars-dope-and-deception.md, raw/how-to-rent-a-riot-the-plausible.md, raw/how-to-rent-a-riot-the-history-of.md, raw/the-bridge-3c3.md, raw/the-difference-between-friend-and.md, raw/the-information-imperium.md, raw/the-language-of-control.md, raw/the-ongoing-betrayal-of-the-gop.md]
+sources: [raw/a-more-perfect-labor-union.md, raw/and-iran-iran-so-far-away.md, raw/bad-actors.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-306.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-365.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-cb6.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-cff.md, raw/badlands-news-brief-e01.md, raw/badlands-news-brief-e10.md, raw/badlands-news-brief-fe4.md, raw/days-of-thunder.md, raw/dollars-dope-and-deception.md, raw/how-to-rent-a-riot-the-plausible.md, raw/how-to-rent-a-riot-the-history-of.md, raw/the-bridge-3c3.md, raw/the-difference-between-friend-and.md, raw/the-information-imperium.md, raw/the-language-of-control.md, raw/the-ongoing-betrayal-of-the-gop.md, raw/the-venezuelan-squeeze.md, raw/transparency-and-prosecution.md, raw/two-wings-one-ugly-bird.md]
 confidence: medium
 ---
 
@@ -226,3 +226,29 @@ DeLarme also listed USAID among the institutions shaping the curated public envi
 Badlands Media identifies USAID as "the money engine that makes this whole apparatus hum," the funding mechanism beneath the [[national-endowment-for-democracy|National Endowment for Democracy]] network.[30] It is the primary funder of the [[consortium-for-elections-and-political-process-strengthening|Consortium for Elections and Political Process Strengthening]] (CEPPS), created in 1995 by the [[international-foundation-for-electoral-systems|International Foundation for Electoral Systems]], the [[international-republican-institute|International Republican Institute]] and the [[national-democratic-institute|National Democratic Institute]].[30] Reporting cited by the outlet alleges USAID funneled as much as $799 million to CEPPS for programs including global censorship platforms, and that CEPPS collaborated with USAID and the [[state-department|State Department]] to shape digital media environments in countries such as Brazil.[30] Despite this criticism, the article argues the United States still needs USAID, the NED and a swarm of satellite NGOs to conduct operations abroad, provided they are gutted, run in good faith and periodically exposed to public scrutiny.[30]
 
 30. Badlands Brief — "The Ongoing Betrayal of the GOP", URL: https://badlands.substack.com/p/the-ongoing-betrayal-of-the-gop
+
+## Venezuela operations
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] lists USAID among the "usual suspects" — alongside the [[cia|CIA]] and the [[national-endowment-for-democracy|National Endowment for Democracy]] — whose activity he traced when researching United States policy toward [[venezuela|Venezuela]].[31] The agency's most visible role came on February 23, 2019, when [[juan-guaido|Juan Guaidó]] orchestrated a televised "humanitarian aid" convoy at the Colombia–Venezuela border: U.S.-branded trucks loaded with USAID rice and medicine were blocked by Venezuelan troops and the cargo burned, with each side accusing the other of arson.[31] Declassified cables later revealed that USAID had budgeted $60 million for the operation, including payments to Colombian protesters.[31]
+
+DeLarme also groups USAID with the CIA, the NED and the [[state-department|State Department]] as the agencies that exploited the economic collapse under [[nicolas-maduro|Nicolás Maduro]], comparing the resulting protest waves to comparable operations in Ukraine, Serbia, Georgia and Lebanon.[31]
+
+31. Badlands Media — "The Venezuelan Squeeze", URL: https://badlands.substack.com/p/the-venezuelan-squeeze
+
+## The Syria wall-material allegation
+
+The Badlands Media feature "Transparency and Prosecution" reads the Q drop #1088 photographs of Senator [[john-mccain|John McCain]]'s May 2013 meeting inside Syria as containing a USAID clue.[32] Where the first image shows spider webs on the walls, the second bears a label indicating that the wall material was provided by USAID — the detail the author says Q meant by the phrase "See the spider web?"[32]
+
+Repeating a claim made in earlier Badlands work, the article describes USAID as a CIA front group run through the State Department, and treats the labelled material as demonstrating that American taxpayers' money was funding [[isis|ISIS]] in Syria.[32] "We are funding our enemies," the author writes, adding his belief that McCain promised the group a great deal more money on that trip.[32]
+
+32. Badlands Brief — "Transparency and Prosecution", URL: https://badlands.substack.com/p/transparency-and-prosecution
+
+## Aid as cover for the cut-out network
+
+"Two Wings, One Ugly Bird" describes USAID, created in 1961 to dole out aid and win hearts and minds in the Third World, as a shadow player with a substantial rap sheet.[33] During the Vietnam War it ran cover for [[central-intelligence-agency|CIA]] operations, including front companies such as [[air-america|Air America]], which shuttled supplies and agents under the guise of development work.[33] By the 1970s [[church-committee|Church Committee]] investigators had flagged the agency as a frequent collaborator channelling funds and logistics to the CIA's dirtier operations, leaving the line between humanitarian aid and covert agendas blurry at best.[33]
+
+In the 1980s USAID began co-funding "democracy promotion" projects with the newly created [[national-endowment-for-democracy|National Endowment for Democracy]] family in Eastern Europe and Latin America, and a 1988 GAO report noted millions in USAID grants flowing to NED-backed initiatives that trained activists, propped up friendly parties and shaped elections.[33] The article's examples include Nicaragua in the 1980s, where USAID funded "civic programs" aligned with the CIA's anti-Sandinista push while the [[international-republican-institute|International Republican Institute]] worked the opposition parties, and Ukraine in the 2000s, where USAID and the [[national-democratic-institute|National Democratic Institute]] tag-teamed election monitoring and youth movements ahead of the [[orange-revolution|Orange Revolution]].[33] Its verdict is that USAID supplied the cash and the do-gooder sheen while NED's outfits handled the political work — "why admit to a coup when you can call it capacity building?"[33]
+
+On March 5, 2025 the [[supreme-court-of-the-united-states|Supreme Court]] ruled 5–4, with Roberts and Barrett joining the liberal justices, to gut [[donald-trump|Donald Trump]]'s bid to freeze $2 billion in USAID payments, upholding a lower court order and forcing the administration to disburse funds for work already done.[33] The article treats the ruling as a reprieve for the USAID–NED amalgam and its CIA shadow, restoring grants and lifting furloughs at NDI and the IRI just as Trump and [[elon-musk|Elon Musk]]'s [[doge|DOGE]] were attempting to curtail the system.[33]
+
+33. Badlands Brief — "Two Wings, One Ugly Bird", URL: https://badlands.substack.com/p/two-wings-one-ugly-bird

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [war, history, oil, energy, germany, japan]
-sources: [raw/money-and-oil.md]
+sources: [raw/money-and-oil.md, raw/women-children-and-terror.md]
 confidence: low
 ---
 
@@ -28,5 +28,10 @@ The United States supplied Great Britain with the oil it needed to defend itself
 
 The war established, in this reading, that the value of oil had become as important as money itself, particularly in wartime — a lesson Lange says the "cabal puppet masters" absorbed and applied to the determination of world power structures thereafter.[1]
 
+## Framing as a Cabal project (Badlands account)
+
+[[erik-carlson|Erik Carlson]] argues that the desired end result of World War II was a unified Europe controlled by corporations and unelected, semi-secret societies, and that the war was created to achieve it, with the [[british-cabal|Cabal]] controlling and manipulating both sides on the way to a [[one-world-government|one world government]].[2] He puts the worldwide death toll at upwards of 85 million, including 418,000 Americans, and says the [[attack-on-pearl-harbor|attack on Pearl Harbor]] was allowed to proceed to bring the United States into what he calls Britain's war.[2] Following the war, he writes, creating a state of constant conflict in the Middle East became a major goal of the [[deep-state|Deep State]] Cabal.[2]
+
 ## References
 1. Badlands Brief — "Money and Oil", URL: https://badlands.substack.com/p/money-and-oil
+2. Badlands Brief — "Women, Children ... and Terror", URL: https://badlands.substack.com/p/women-children-and-terror

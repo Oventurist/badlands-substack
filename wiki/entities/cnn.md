@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, mainstream-media, cable-news]
-sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-1c6.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-9e7.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-bec.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-d45.md, raw/badlands-news-brief-d74.md, raw/badlands-news-brief-d76.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-efd.md, raw/badlands-news-brief-f25.md, raw/the-media-is-the-enemy-of-the-people.md, raw/the-president-that-never-was.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-1c6.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-9e7.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-bec.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-d45.md, raw/badlands-news-brief-d74.md, raw/badlands-news-brief-d76.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-efd.md, raw/badlands-news-brief-f25.md, raw/the-media-is-the-enemy-of-the-people.md, raw/the-president-that-never-was.md, raw/tucker-twitter-and-the-truth-community.md, raw/wilted-ivy.md]
 confidence: medium
 ---
 
@@ -215,3 +215,14 @@ On Wednesday, January 17, 2024, CNN canceled the Republican presidential debate 
 In a January 2, 2024 report on Biden campaign strategy, CNN wrote that the 2024 campaign year for [[joe-biden|Joe Biden]]'s inner circle would largely be about carefully ratcheting up the intensity of attacks against [[donald-trump|Donald Trump]], with aides wary of voters becoming dulled to the former president's rhetoric, and that younger aides on the reelection campaign had been grimly joking about when to "go full Hitler" — that is, when to abandon the softer claim that Trump had "parroted" [[adolf-hitler|Hitler]] in favor of a direct comparison.[33] Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] cited the report, together with CNN commentary asserting that Trump "poses the greatest threat to democracy that we've ever seen," as evidence that the network had become explicit about serving the Biden campaign's only available strategy.[33]
 
 33. Badlands Brief — "The President That Never Was", URL: https://badlands.substack.com/p/the-president-that-never-was
+34. Badlands Brief — "Tucker, Twitter, and the Truth Community", URL: https://badlands.substack.com/p/tucker-twitter-and-the-truth-community
+
+## Primetime decline (2023)
+
+Writing in August 2023, [[ashe-in-america|Ashe in America]] observed that CNN was by then regularly pulling fewer than a million live-plus-same-day views for its entire primetime lineup, while [[tucker-carlson|Tucker Carlson]] pulled more than ten million per show on [[tucker-on-twitter|Tucker on Twitter]].[34] She read the disparity as evidence that no one was watching mainstream media, but that audiences had not stopped consuming news — they had moved online.[34]
+
+## Cited in "Wilted Ivy"
+
+Badlands Media's May 2025 essay "Wilted Ivy" cites CNN as evidence that "the walls of media, finance, and academia are crumbling across the board," noting that the network "sheds massive audiences and staff."[35] The article groups this with [[disney|Disney]]'s layoffs and [[goldman-sachs|Goldman Sachs]]'s private equity sales as symptoms of what it calls a controlled demolition rather than a market correction.[35]
+
+35. Badlands Brief — "Wilted Ivy", URL: https://badlands.substack.com/p/wilted-ivy

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [arizona, republican-party, immigration, senate-primary]
-sources: [raw/hes-not-a-war-hero.md]
+sources: [raw/hes-not-a-war-hero.md, raw/timing-is-everything.md]
 confidence: medium
 ---
 
@@ -20,3 +20,9 @@ The Badlands account cites Ward's criticism as corroboration of [[donald-trump|D
 
 ## References
 1. Badlands Brief — "He's Not A War Hero", URL: https://badlands.substack.com/p/hes-not-a-war-hero
+
+## 2022 Arizona election dispute
+
+Following the [[2022-midterm-elections|2022 midterm elections]], Badlands Media contributor [[joe-lange|Joe Lange]] reported that Ward had "joined the fight" over the certification of Arizona's results, adding her weight to the demands that [[maricopa-county|Maricopa County]] account for Election Day irregularities before the vote was certified.[2]
+
+2. Badlands Brief — "Timing Is Everything", URL: https://badlands.substack.com/p/timing-is-everything

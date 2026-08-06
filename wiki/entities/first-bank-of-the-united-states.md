@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, american-system, us-history, hamilton, credit]
-sources: [raw/in-defense-of-alexander-hamilton.md, raw/the-battle-for-control.md, raw/the-history-of-central-banking-in.md]
+sources: [raw/in-defense-of-alexander-hamilton.md, raw/the-battle-for-control.md, raw/the-history-of-central-banking-in.md, raw/trump-knows.md]
 confidence: medium
 ---
 
@@ -42,7 +42,12 @@ Several founding fathers bitterly opposed the bank while the international money
 
 In 1811 the bank's twenty-year charter expired and was not renewed by Congress, despite a reported threat from [[nathan-rothschild|Nathan Rothschild]] that either the renewal application would be granted or the United States would find itself involved in a most disastrous war.[3] A year later the United States was at war with Britain, a conflict that ended in 1814 with America undefeated.[3] Five years after the expiration the federal government chartered its successor, the [[second-bank-of-the-united-states|Second Bank of the United States]].[3]
 
+## Badlands account of its founding and aftermath
+
+[[justin-deschamps|Justin Deschamps]] described the First Bank of the United States as an offshore central bank installed in the United States by December 1791 by the same international bankers who had previously used Britain and other nations as proxies for commercial conquest schemes.[4] Six months after its formation the [[panic-of-1792|Panic of 1792]] followed, fueled by a 1791 scheme selling shares in the bank whose price collapse obliged Treasury Secretary [[alexander-hamilton|Alexander Hamilton]] to contract with the Bank of New York to buy a sizable block of them.[4] After a sharp December 1791 rebound and a second crash, a bank run ensued, and the new institution deepened the crisis by further restricting credit.[4] The episode is presented as the first banker bailout and as the direct ancestor of the 2023 [[silicon-valley-bank|Silicon Valley Bank]] failure.[4]
+
 ## References
 1. Badlands Brief — "In Defense of Alexander Hamilton", URL: https://badlands.substack.com/p/in-defense-of-alexander-hamilton
 2. Badlands Brief — "The Battle for Control", URL: https://badlands.substack.com/p/the-battle-for-control
 3. Badlands Brief — "The History of Central Banking in America", URL: https://badlands.substack.com/p/the-history-of-central-banking-in
+4. Badlands Brief — "Trump Knows", URL: https://badlands.substack.com/p/trump-knows

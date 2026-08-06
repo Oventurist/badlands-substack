@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [culture, media, free-speech, interviews]
-sources: [raw/badlands-news-brief-5d7.md]
+sources: [raw/badlands-news-brief-5d7.md, raw/tucker-twitter-and-the-truth-community.md]
 confidence: medium
 ---
 
@@ -21,3 +21,8 @@ Commentary by [[ashe-in-america|Ashe in America]] highlighted an exchange in whi
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Biden Scandals Mount as Trump Trial Looms", URL: https://badlands.substack.com/p/badlands-news-brief-5d7
+2. Badlands Brief — "Tucker, Twitter, and the Truth Community", URL: https://badlands.substack.com/p/tucker-twitter-and-the-truth-community
+
+## Carlson interview (2023)
+
+Ice Cube appeared in a two-part interview with [[tucker-carlson|Tucker Carlson]] on [[tucker-on-twitter|Tucker on Twitter]] in July 2023, drawing a combined 18 million views — low by the program's standards but more than four times Carlson's typical audience at [[fox-news|Fox News]].[2] [[ashe-in-america|Ashe in America]] called it arguably Carlson's best interview: the first part had the host driving around with the rapper, actor and activist through Cube's old neighborhood while they discussed free thinking and resistance in what she described as the current dystopia.[2] Carlson did not shy away from third-rail questions about race, politics and corporate America, and Ice Cube did not hesitate to answer them.[2] Asked about the limits of permitted speech, Ice Cube said, "If it's true, why can't I say it?", to which Carlson replied, laughing, "Well, you can't say it because it's true," and the rapper responded, "And that's the problem with the world today."[2]

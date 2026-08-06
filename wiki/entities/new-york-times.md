@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, mainstream-media, newspapers, intelligence-community]
-sources: [raw/a-swan-song-for-the-msm.md, raw/assad-day-in-damascus.md, raw/badlands-brief-559.md, raw/badlands-brief-6f0.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-ed9.md, raw/badlands-news-brief-f1d.md, raw/missed-opportunities.md, raw/the-cia-is-being-thrown-under-the.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/assad-day-in-damascus.md, raw/badlands-brief-559.md, raw/badlands-brief-6f0.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-ed9.md, raw/badlands-news-brief-f1d.md, raw/missed-opportunities.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-multinational-offensive-against.md, raw/who-is-the-real-enemy.md]
 confidence: medium
 ---
 
@@ -171,3 +171,17 @@ Erik Carlson's "The CIA is Being Thrown Under the Bus" describes the paper as "C
 He notes that the story appeared alongside reports of an assassination attempt on [[tucker-carlson|Tucker Carlson]] in Moscow by a would-be assassin who claimed to have been recruited by Ukraine — the very country the Times said the agency had infiltrated a decade earlier — and that [[victoria-nuland|Victoria Nuland]] announced her retirement shortly afterwards.[24]
 
 24. Badlands Brief — "The CIA is Being Thrown Under the Bus", URL: https://badlands.substack.com/p/the-cia-is-being-thrown-under-the
+
+## Reporting on the Durov charges (August 2024)
+
+The New York Times reported on August 28, 2024 that [[pavel-durov|Pavel Durov]], the entrepreneur who founded the online communications tool [[telegram|Telegram]], had been charged in France with a wide range of crimes related to illicit activity on the app and barred from leaving the country.[25] The paper described it as "a rare move by legal authorities to hold a top technology executive personally liable for the behavior of users on a major messaging platform, escalating the debate over the role of technology companies in online speech and the limits of their responsibility."[25] It detailed the charges — complicity in managing an online platform to enable illegal transactions, complicity in enabling the distribution of child sexual abuse material, drug trafficking and fraud, and refusal to cooperate with law enforcement — along with Paris prosecutor [[laure-beccuau|Laure Beccuau]]'s statement on the five-million-euro bail, twice-weekly police check-ins, and potential ten-year sentence.[25] Badlands contributor [[ryan-delarme|Ryan DeLarme]] cited the coverage as an example of how the corporate media framed the prosecution.[25]
+
+25. Badlands Brief — "The Multinational Offensive Against Free Speech Online", URL: https://badlands.substack.com/p/the-multinational-offensive-against
+
+## Reporting the Andropov memo
+
+"Who Is The Real Enemy?" credits the New York Times with hinting at the [[central-intelligence-agency|CIA]]'s role in the 1979 Soviet intervention without naming the agency.[26] In a January 2019 piece the paper quoted KGB chief [[yuri-andropov|Yuri Andropov]]'s handwritten December 1979 memo to [[leonid-brezhnev|Leonid Brezhnev]] warning that [[hafizullah-amin|Hafizullah Amin]] might be reorienting to the West and was concealing his contacts with the American chargé d'affaires.[26]
+
+The Times reported that the memo became public in 1995 when ambassador Anatoly Dobrynin transcribed Russian archival documents for a Norwegian Nobel Institute project, and that at a December 8, 1979 meeting Andropov and defense minister Dmitri Ustinov cited the dangers of American missiles being deployed in [[afghanistan|Afghanistan]] — a scenario one analyst likened to Mexico becoming a base for Soviet short-range missiles.[26]
+
+26. Badlands Brief — "Who Is The Real Enemy?", URL: https://badlands.substack.com/p/who-is-the-real-enemy

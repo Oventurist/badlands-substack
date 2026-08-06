@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [2020-election, election-fraud, standing, litigation, due-process]
-sources: [raw/are-jack-smith-and-fani-willis-in.md, raw/badlands-brief-95a.md, raw/badlands-brief-9eb.md, raw/badlands-brief-a20.md, raw/badlands-brief-b56.md, raw/badlands-brief-f87.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-dd8.md]
+sources: [raw/are-jack-smith-and-fani-willis-in.md, raw/badlands-brief-95a.md, raw/badlands-brief-9eb.md, raw/badlands-brief-a20.md, raw/badlands-brief-b56.md, raw/badlands-brief-f87.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-dd8.md, raw/trump-lost-all-his-election-cases.md, raw/trials-tribulations-and-a-long-train.md]
 confidence: medium
 ---
 
@@ -81,6 +81,16 @@ In October 2025 the [[department-of-justice|Department of Justice]] formally dem
 
 Badlands commentary tied the demand to the long-running dispute over [[signature-verification|signature verification]], citing testimony that Fulton officials never scanned mail-in envelopes with their BlueCrest sorters, had no single file of voter signatures, and estimated 57,000-plus hours to produce the underlying data — which commentators argued made it impossible for signatures to have been verified in the timeframe in which Georgia was called for Biden.[11]
 
+## The litigation record
+
+A recurring rebuttal to fraud claims is the assertion that courts rejected every challenge, but a case-by-case review of the [[2020-election-lawsuits|2020 election lawsuits]] published by Badlands Media in April 2024 characterized that assertion as narrative rather than fact.[12] Drawing on research by attorney and independent journalist [[rachel-alexander|Rachel Alexander]], the [[election-integrity-info|ElectionIntegrity.Info]] report, and the Stanford–MIT [[healthy-elections-project|Healthy Elections Project]] tracker, the review counted 92 lawsuits dealing specifically with the 2020 election, of which 30 were decided on the merits and 62 were disposed of on procedural or other defects.[12] In the 30 merits decisions, Trump and other election-integrity plaintiffs prevailed in 22 — a 73 percent success rate whenever evidence was heard.[12]
+
+Wins catalogued in the review included injunctions against the Iowa and Minnesota secretaries of state, the Colorado petition-requirement ruling against Governor [[jared-polis|Jared Polis]], voter-roll consent decrees obtained by [[judicial-watch|Judicial Watch]] and the [[public-interest-legal-foundation|Public Interest Legal Foundation]] in Colorado, Michigan, and Pennsylvania, a Michigan holding that signature-matching standards were issued in violation of the Administrative Procedures Act, a partial audit of Antrim County voting machines, [[voterga|VoterGA]]'s successful request to inspect Gwinnett County ballot images, and a ruling upholding the [[arizona-state-senate|Arizona Senate]]'s subpoenas that preceded the [[maricopa-county-forensic-audit|Maricopa County audit]].[12] Dismissals on standing, jurisdiction, timeliness, [[laches|laches]], and even COVID-19 public-health grounds were summarized by attorney [[robert-barnes|Robert Barnes]] as "Not Ripe in Spring, No Standing by Summer, Laches by Fall, and Moot by Winter."[12]
+
+## Trump's January 2024 battleground report
+
+On January 2, 2024, [[donald-trump|Donald Trump]] released an anonymously authored report summarizing evidence of 2020 election fraud in five battleground states: Michigan, Wisconsin, Arizona, Pennsylvania and Georgia.[13] [[ashe-in-america|Ashe in America]] described the report as concise and fact-based, with sourcing for each state's claims detailed in footnotes, and predicted it would be submitted in many of Trump's trials.[13] She argued that the totality of the evidence and circumstances contradicted the claim by former CISA director [[chris-krebs|Chris Krebs]] that 2020 was the safest and most secure election in history.[13]
+
 ## References
 
 1. Badlands Brief — "Are Jack Smith and Fani Willis in on the Plan?", URL: https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in
@@ -94,3 +104,5 @@ Badlands commentary tied the demand to the long-running dispute over [[signature
 9. Badlands Brief — "Badlands News Brief: Putin Postures, Voting Matters & J6 Subpoenas", URL: https://badlands.substack.com/p/badlands-news-brief-8c5
 10. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
 11. Badlands Brief — "Badlands News Brief: Quick Reaction Forces, Still Unexplained Anomalies, N-Word Options", URL: https://badlands.substack.com/p/badlands-news-brief-dd8
+12. Badlands Brief — "'Trump Lost All His Election Cases!'", URL: https://badlands.substack.com/p/trump-lost-all-his-election-cases
+13. Badlands Media - "Trials, Tribulations & a Long Train of Abuses", URL: https://badlands.substack.com/p/trials-tribulations-and-a-long-train

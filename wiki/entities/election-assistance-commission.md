@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [elections, federal-agency, voting-systems, trump-administration]
-sources: [raw/badlands-brief-0bd.md, raw/badlands-brief-805.md, raw/badlands-news-brief-079.md, raw/rooting-out-election-corruption.md]
+sources: [raw/badlands-brief-0bd.md, raw/badlands-brief-805.md, raw/badlands-news-brief-079.md, raw/rooting-out-election-corruption.md, raw/us-elections-must-be-independent.md]
 confidence: medium
 ---
 
@@ -48,9 +48,16 @@ In a March 23, 2023 Badlands Media article, [[holly-at-altitude|Holly at Altitud
 
 The same article treated the resulting apparatus as a public-private partnership whose "winners" — companies, government agencies, politicians, the corporate media, NGOs, and assorted power brokers — have an interest in preserving it, and argued that citizens can loosen that chokehold through local action such as challenging election equipment budgets and contracts.[4]
 
+## Role in the Trusted Build chain
+
+In the August 2024 essay "US Elections Must Be Independent," [[ashe-in-america|Ashe in America]] places the EAC at the head of the certification chain that produces the [[trusted-build|Trusted Build]] — the master software image installed on US voting machines.[5] The commission accredits Voting Systems Testing Labs such as [[pro-v-and-v|Pro V&V]] and [[sli-compliance|SLI Compliance]], permitting them to test election technologies for certification; the labs then report compliance to a Secretary of State, who certifies the build.[5] The essay also notes that federal agencies like the EAC set the legal and regulatory standards against which state and local election authorities audit vendors, even though the vendors themselves are largely private companies not subject to [[securities-and-exchange-commission|SEC]]-style disclosure.[5]
+
+The author's broader argument is that this arrangement is not a substitute for a genuine regulator: there is no federal regulator over elections and no SEC equivalent, only a bureaucratic ecosystem mixing governmental, pseudo-governmental, non-governmental and private corporate entities in which plausible deniability reigns.[5]
+
 ## References
 
 1. Badlands Brief — "Mossad Bait & Labor Tackles", URL: https://badlands.substack.com/p/badlands-brief-0bd
 2. Badlands Brief — "RIP Lindsey Graham", URL: https://badlands.substack.com/p/badlands-brief-805
 3. Badlands News Brief — "Jordanian Jam Sessions, Unpaused Loans, & Disbanded Brotherhoods", URL: https://badlands.substack.com/p/badlands-news-brief-079
 4. Badlands Media — "Rooting Out Election Corruption", URL: https://badlands.substack.com/p/rooting-out-election-corruption
+5. Badlands Brief — "US Elections Must Be Independent", URL: https://badlands.substack.com/p/us-elections-must-be-independent

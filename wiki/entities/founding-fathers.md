@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [american-history, founding, badlands-media]
-sources: [raw/badlands-blitz-episode-10.md, raw/on-nations-and-natural-law.md]
+sources: [raw/badlands-blitz-episode-10.md, raw/on-nations-and-natural-law.md, raw/the-steering-wheel-of-civilization.md]
 confidence: medium
 ---
 
@@ -25,3 +25,11 @@ It further contends that the absence of explicit provisions for natural rights i
 ## References
 1. Badlands Brief — "Badlands Blitz Episode 10", URL: https://badlands.substack.com/p/badlands-blitz-episode-10
 2. Badlands Brief — "On Nations and Natural Law", URL: https://badlands.substack.com/p/on-nations-and-natural-law
+
+## Cited in "The Steering Wheel of Civilization"
+
+The February 24, 2023 Badlands Media essay "The Steering Wheel of Civilization" says the founding fathers went "meta" with the concept of a shared spiritual identity by forming the United States on a theistic belief system, which it calls a powerfully effective advance in the technological race of human civilization.[3] Their argument, as the essay renders it, was that all people could be united through a theistic worldview in which a Creator-God of all things is universally recognizable, so that a universal father of all things naturally and logically leads to a universal brotherhood and sisterhood of mankind.[3]
+
+The essay treats this theistic center as an instance of the [[ultimate-value|ultimate value]] — a value singularity able to incorporate all other good and true values.[3] It argues the founders' framework was so powerful that even after the British waged all-out cultural warfare following the colonists' victory in the War of Independence, it still acts as a unifying force on the world stage, and that the resulting American dream of a fair, just and free society for all to enjoy as equal citizens has reshaped the world.[3]
+
+3. Badlands Brief — "The Steering Wheel of Civilization", URL: https://badlands.substack.com/p/the-steering-wheel-of-civilization

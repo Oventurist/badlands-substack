@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [economics, multipolarity, nationalization, reshoring, badlands-framework]
-sources: [raw/badlands-news-brief-6e6.md, raw/bric-by-bric.md]
+sources: [raw/badlands-news-brief-6e6.md, raw/bric-by-bric.md, raw/the-war-of-stories.md]
 confidence: low
 ---
 
@@ -32,3 +32,11 @@ The "actuals" of the Good Reset are presented as necessary, but the accompanying
 The term predates the 2025 economic framing. In his August 2023 essay "BRIC by BRIC," [[burning-bright|Burning Bright]] used "the 'Good' Reset" to name what he described as the turning of [[hegelian-dialectic|Hegelian]] narrative techniques back against their originators, citing a longer treatment published at his own Burning Bright Substack.[2] In that usage the Good Reset is primarily a narrative and psychological inversion — the recapture of storytelling power in the [[war-of-stories|War of Stories]] — of which the economic and monetary transition away from the [[petrodollar|petrodollar]] is one expression.[2]
 
 2. Badlands Brief — "BRIC by BRIC", URL: https://badlands.substack.com/p/bric-by-bric
+
+## "The War of Stories" framing (December 2022)
+
+In "The War of Stories" (December 30, 2022), [[burning-bright|Burning Bright]] explicitly equated the [[reverse-hegelian-dialectic|Reverse Hegelian Dialectic]] with the "'Good' Reset" and stated his belief that it was "in full swing."[3] He listed as evidence a series of then-recent exposures: the unmasking of [[con-inc|Con Inc.]] and its "blue check charlatans"; the [[ftx|FTX]] money-laundering scandal and its "fallen crypto clown prince"; the [[balenciaga|Balenciaga]] saga with its celebrity endorsers and the resurfacing of crimes-against-children narratives; the funding appeals of [[volodymyr-zelensky|Ukraine's wartime leadership]] to Western nations amid the worst inflationary crisis in three generations; and the exposure of the pharmaceutical industry, corporate greed, the weaponization of biological research and the perils of government oversight embodied in [[anthony-fauci|Anthony Fauci]], whom many Americans had "unironically referred to as a 'Saint' for two years."[3]
+
+The [[system-of-systems|System of Systems]], he argued, is being exposed not through its core functions and sins but through the faces leading its various hydra heads — its "sinners" — and readers were urged to ask who injected those faces into the forefront of the [[collective-mind|Collective Mind]], and why.[3]
+
+3. Badlands Brief — "The War of Stories", URL: https://badlands.substack.com/p/the-war-of-stories

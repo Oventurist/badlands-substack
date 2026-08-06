@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [legislation, appropriations, immigration, ice, congress]
-sources: [raw/badlands-brief-71c.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7e5.md, raw/badlands-news-brief-95a.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-dbd.md, raw/badlands-news-brief-f1a.md, raw/badlands-news-brief-fcd.md]
+sources: [raw/badlands-brief-71c.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7e5.md, raw/badlands-news-brief-95a.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-dbd.md, raw/badlands-news-brief-f1a.md, raw/badlands-news-brief-fcd.md, raw/trumps-final-offensive.md]
 confidence: low
 ---
 
@@ -93,3 +93,8 @@ Technology billionaire [[elon-musk|Elon Musk]] issued a stark warning on X that 
 10. Badlands Brief — "Badlands News Brief: Destination Deportations, Alligator Alcatraz, & WWIII Gets Rugged", URL: https://badlands.substack.com/p/badlands-news-brief-dbd
 11. Badlands Brief — "Badlands News Brief: Epstein Barr, Resonant Summits, & A White House Whirlwind", URL: https://badlands.substack.com/p/badlands-news-brief-f1a
 12. Badlands Brief — "Badlands News Brief: Lifting Sanctions & Revoking Citizenship", URL: https://badlands.substack.com/p/badlands-news-brief-fcd
+## Family and savings provisions
+
+Badlands Media's "Trump's Final Offensive" highlights the bill's pro-family architecture, chief among it the [[maga-baby-accounts|MAGA Baby Accounts]] unveiled in March 2025 by White House Press Secretary [[karoline-leavitt|Karoline Leavitt]] and Senator [[jd-vance|J.D. Vance]], which would deposit $1,000 into an investment account for every child born between 2025 and 2028 and allow families to contribute up to $5,000 annually on a tax-deferred basis.[13] The bill also includes expanded child tax credits, permanent repeal of taxes on overtime and tips, and a tenfold multiplier deduction for donations to family-owned American businesses.[13] Economist William G. Gale of the [[brookings-institution|Brookings Institution]] cautioned in a May 2025 analysis that the seed deposit, absent income-targeted contributions or broader access, "risks exacerbating wealth inequality by primarily benefiting families already positioned to invest."[13]
+
+13. Badlands Brief — "Trump's Final Offensive", URL: https://badlands.substack.com/p/trumps-final-offensive

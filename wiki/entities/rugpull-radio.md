@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, broadcasting, show]
-sources: [raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule.md, raw/badlands-media-weekly-show-schedule.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-9b2.md, raw/kekistani-code-talkers.md, raw/one-of-the-most-transformative-moments.md]
+sources: [raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule.md, raw/badlands-media-weekly-show-schedule.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-9b2.md, raw/kekistani-code-talkers.md, raw/one-of-the-most-transformative-moments.md, raw/trump-doctrine-peace-through-space.md]
 confidence: medium
 ---
 
@@ -31,6 +31,10 @@ The Badlands Brief article "Kekistani Code Talkers" cites roughly seventy-five e
 
 Badlands Media's May 2023 feature on digital assets opened with remarks GMoney made during a recent episode of the show: "We're not going kinetic. This is a peaceful revolution for everybody. Everybody gets 'Digital 1776,' everybody is going to be on the same playing field."[7] The episode cited, number 27, was distributed on Rumble.[7] The program's name refers to the [[rug-pull|rug pull]], the cryptocurrency fraud pattern in which insiders dump holdings or drain liquidity on retail buyers — a subject central to the show's educational mission.[7]
 
+## Trump Doctrine: Peace Through Space
+
+"[[trump-doctrine-peace-through-space|Trump Doctrine: Peace Through Space]]" identifies *Rugpull Radio* as one of the venues, alongside the authors' Substacks, in which the author and [[gmoney|GMONEY]] developed the material underlying the hypothesis that something coordinated was occurring behind the scenes among [[donald-trump|Trump]], the US military, [[elon-musk|Elon Musk]] and [[bitcoin|Bitcoin]].[8]
+
 ## References
 1. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-78b
 2. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule
@@ -39,3 +43,4 @@ Badlands Media's May 2023 feature on digital assets opened with remarks GMoney m
 5. Badlands News Brief — "Embattled Mayors, Peacemakers & Signal Setters", URL: https://badlands.substack.com/p/badlands-news-brief-9b2
 6. Badlands Brief — "Kekistani Code Talkers", URL: https://badlands.substack.com/p/kekistani-code-talkers
 7. Badlands Brief — "One of the Most Transformative Moments in Money Since Jekyll Island", URL: https://badlands.substack.com/p/one-of-the-most-transformative-moments
+8. Badlands Brief — "Trump Doctrine: Peace Through Space", URL: https://badlands.substack.com/p/trump-doctrine-peace-through-space

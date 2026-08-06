@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [medicine, psychiatry, gender, children]
-sources: [raw/badlands-news-brief-eca.md]
+sources: [raw/badlands-news-brief-eca.md, raw/these-3-events-expose-gender-ideology.md]
 confidence: medium
 ---
 
@@ -23,3 +23,13 @@ In March 2023, Bradley publicly reversed her position, saying the field had been
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Credit Suisse, Escalation & the Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-eca
+
+## Surge in adolescent referrals
+
+Badlands contributor [[simon-esler|Simon Esler]] reported that between 2010 and 2018 the number of girls seeking gender treatment in the United Kingdom rose by 4,000%, and cited data compiled by Komodo for [[reuters|Reuters]] stating that "in 2021, about 42,000 children and teens across the United States received a diagnosis of gender dysphoria, nearly triple the number in 2017."[2] Gender clinics in Canada and around the world reported that their clientele shifted from predominantly preschool boys with clinical gender dysphoria to teenage girls with no prior history of it.[2]
+
+## Desistance research
+
+The [[toronto-desistance-study|Toronto desistance study]], begun in 1975 at the [[centre-for-addiction-and-mental-health|Centre for Addiction and Mental Health]] by Devita Singh, [[susan-bradley|Susan J. Bradley]] and [[kenneth-zucker|Kenneth J. Zucker]], followed 139 birth-assigned males clinic-referred for gender dysphoria between the ages of three and twelve.[2] It found that only 17 participants (12.2%) persisted while 122 (87.8%) desisted, with a majority of desisters turning out to be gay — a result Esler argued should have halted the spread of [[gender-affirming-care|gender affirmative care]] in North America.[2]
+
+2. Badlands Brief — "These 3 Events Expose Gender Ideology", URL: https://badlands.substack.com/p/these-3-events-expose-gender-ideology

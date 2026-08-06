@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [libya, 2011, regime-change, terrorism]
-sources: [raw/a-conflict-of-interest.md, raw/a-dereliction-of-duty.md, raw/badlands-news-brief-cba.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-f44.md, raw/the-bridge-3c3.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-dereliction-of-duty.md, raw/badlands-news-brief-cba.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-f44.md, raw/the-bridge-3c3.md, raw/what-difference-does-benghazi-make.md]
 confidence: medium
 ---
 
@@ -57,3 +57,11 @@ An April 2, 2011 email from Sidney Blumenthal, among some 3,000 released from [[
 Badlands writer Joe Lange argues that this financial independence, not any humanitarian emergency, is why Gaddafi was removed, noting that human rights organisations questioned the atrocity claims used to justify the US–NATO intervention and that a Q drop listed the Central Bank of Libya as the network's "most recent conquest."[6] Clinton's October 2011 visit was described in the press as a "victory lap," and she remarked "We came, we saw, he died!" on hearing of his capture and killing.[6] Libya's gold reserves fell from 143.82 tons in 2011 to 116.64 tons by 2014, with estimates that up to 30 tons vanished during the revolution; none has been recovered, and Lange alleges the bullion was laundered through [[moldova|Moldova]].[6]
 
 6. Badlands Brief — "The Bridge", URL: https://badlands.substack.com/p/the-bridge-3c3
+
+## Weapons stockpiles and the arms embargo
+
+"What Difference Does Benghazi Make?" stresses that Libya under Gaddafi held the largest stockpile of surface-to-air missiles of any country that did not manufacture them — roughly 20,000 portable heat-seeking missiles, mostly SA-7s, obtained from the former Eastern bloc.[7] Joe Lange argues this arsenal is a principal reason [[barack-obama|Obama]], [[hillary-clinton|Hillary Clinton]] and [[john-mccain|John McCain]] wanted the regime toppled, since control of Libya would keep [[al-qaeda|Al Qaeda]] proxies in Iraq, Afghanistan and Syria supplied for years.[7]
+
+After Gaddafi negotiated the release of [[abdelhakim-belhadj|Abdelhakim Belhadj]] and fellow LIFG prisoners as a goodwill gesture to the incoming Obama administration, the United States reduced its 2009 defense sales approvals to his government and subsequently imposed a blanket weapons ban on Libya.[7] Following his overthrow, $30 billion in U.S.-held accounts previously controlled by Gaddafi was released to the [[national-transitional-council|National Transitional Council]], and his missile stocks began appearing in Syria, where rebels used them to shoot down Syrian helicopters and fighter jets.[7]
+
+7. Badlands Brief — "What Difference Does Benghazi Make?", URL: https://badlands.substack.com/p/what-difference-does-benghazi-make

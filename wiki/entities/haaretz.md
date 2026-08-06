@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, israel, press]
-sources: [raw/badlands-brief-559.md, raw/badlands-brief-625.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-322.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-f44.md]
+sources: [raw/badlands-brief-559.md, raw/badlands-brief-625.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-322.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-f44.md, raw/women-children-and-terror.md]
 confidence: low
 ---
 
@@ -41,6 +41,10 @@ Press-freedom advocates condemned the move as part of a broader effort to silenc
 
 On Sunday, August 4, 2024, Haaretz published a column by [[zehava-galon|Zehava Galon]] headlined "If Israelis Don't Rise Up Now, We'll Have Nothing Left to Fight For," in which she argued that Israel was steadily becoming a pariah state as international sanctions on settlers and organizations turned from a trickle into a daily occurrence.[6] Galon wrote that such sanctions were a privilege and a warning signal — the equivalent of an intervention by friends no longer willing to pay Israel's bills — and that the Israeli government responded instead by crying "antisemitism!"[6] The piece named [[benzi-gopstein|Benzi Gopstein]], who comes and goes freely at the [[knesset|Knesset]] that bars relatives of the hostages, and [[tzav-9|Tzav 9]], whose members she said are protected by the [[israeli-police|police]] and by the minister responsible for them.[6] Badlands Media quoted the column at length as evidence of internal Israeli alarm at the direction of the country's politics.[6]
 
+## Cited by Badlands on Churchill and the British policy elite
+
+Badlands writer [[erik-carlson|Erik Carlson]] drew on two Haaretz op-eds in his October 2023 essay.[7] The first, from January 27, 2017 and headlined "The Truth About Churchill and the Jews," stated that "the British leader's 'special friendship' with the Jewish people is nothing more than a myth, created by Churchill himself and his official biographer, Martin Gilbert."[7] The second, from October 26, 2017, stated that "the British policy elite's views reflected deeply embedded notions of the 'Jewish race' and 'Jewish power', the 'impurity' of the Palestinian Arabs - and the incapability of both to ever rule themselves. Those tropes still reverberate today."[7] Carlson presented the Israeli paper's own reporting as evidence for his claim that the architects of the [[balfour-declaration|Balfour Declaration]] acted from imperial calculation rather than sympathy.[7]
+
 ## References
 1. Badlands Brief — "Narrative Warfare For Your Safety", URL: https://badlands.substack.com/p/badlands-brief-559
 2. Badlands Brief — "Mr. Nice Guy Leaves the Building (plus, Jewish Terrorism)", URL: https://badlands.substack.com/p/badlands-brief-625
@@ -48,3 +52,4 @@ On Sunday, August 4, 2024, Haaretz published a column by [[zehava-galon|Zehava G
 4. Badlands News Brief — "We Have the Source ... And the Sauce", URL: https://badlands.substack.com/p/badlands-news-brief-322
 5. Badlands Brief — "It's Our Failed 'Resistance' and We Can Cry if We Want To", URL: https://badlands.substack.com/p/badlands-news-brief-656
 6. Badlands Brief — "Markets Crash as Tensions Rise Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-f44
+7. Badlands Brief — "Women, Children ... and Terror", URL: https://badlands.substack.com/p/women-children-and-terror

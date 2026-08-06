@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [first-amendment, free-speech, constitution, law]
-sources: [raw/a-glaring-double-standard.md, raw/always-fight-back.md, raw/badlands-brief-095.md, raw/badlands-brief-9eb.md, raw/badlands-brief-a1a.md, raw/badlands-brief-c07.md, raw/badlands-brief-f83.md, raw/badlands-brief.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-c50.md, raw/badlands-news-brief-ed9.md, raw/badlands-news-brief-f4c.md, raw/is-the-censorship-war-over.md]
+sources: [raw/a-glaring-double-standard.md, raw/always-fight-back.md, raw/badlands-brief-095.md, raw/badlands-brief-9eb.md, raw/badlands-brief-a1a.md, raw/badlands-brief-c07.md, raw/badlands-brief-f83.md, raw/badlands-brief.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-c50.md, raw/badlands-news-brief-ed9.md, raw/badlands-news-brief-f4c.md, raw/is-the-censorship-war-over.md, raw/the-multinational-offensive-against.md]
 confidence: medium
 ---
 
@@ -120,3 +120,11 @@ Badlands Media criticized the Department of Homeland Security under [[kristi-noe
 Contributor [[ryan-delarme|Ryan DeLarme]] argued that although many campus protests were organized by establishment-funded NGOs such as [[jewish-voice-for-peace|Jewish Voice for Peace]], ordinary students critical of Israel's conduct should still be permitted to speak, because in America one is allowed to criticize foreign governments and there is no "Israel exception" to the First Amendment.[16] The article also observed that the feeling of being silenced is universal — experienced by conservatives during the first Trump term and the Biden administration, and by some liberals during the Gaza campus protests — while distinguishing between those who truly abhor censorship and those who abhor it only when it targets ideas they share.[16]
 
 16. Badlands Brief — "Is the Censorship War Over?", URL: https://badlands.substack.com/p/is-the-censorship-war-over
+
+## "The most important amendment" (DeLarme, 2024)
+
+In an October 2024 essay, Badlands contributor [[ryan-delarme|Ryan DeLarme]] wrote that after being de-platformed and demonetized on several occasions over eight years he had learned the hard way the accuracy of the idiom that freedom of speech is the First Amendment because it is the most important.[17] He offered ten justifications: it is the foundation of democracy and an informed electorate; it preserves individual autonomy and dignity; it checks government power and enables the press to report abuses; it promotes social progress and innovation; it fosters cultural diversity and exchange; it protects other rights such as protest, religion and political activity; it enables error correction in the marketplace of ideas; it drives personal development and empathy; it is philosophically intrinsic to human nature and legally a negative right placing the burden of justification on would-be restrictors; and history repeatedly shows that suppression of speech leads to authoritarianism and societal harm.[17]
+
+DeLarme emphasized that there is no First Amendment exception for [[hate-speech|hate speech]] and no universally agreed protocol for determining what qualifies as such, making the category inherently subjective and, in federal hands, a mechanism for stamping out dissent from the political establishment.[17] He described the "yelling fire in a crowded theatre" line from [[schenck-v-united-states|Schenck v. United States]] as bad law superseded by the modern corpus of First Amendment jurisprudence, and argued that every American has a primary duty to defend the First Amendment.[17]
+
+17. Badlands Brief — "The Multinational Offensive Against Free Speech Online", URL: https://badlands.substack.com/p/the-multinational-offensive-against

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [presidency, iraq-war, lebanon, cover-up]
-sources: [raw/a-conflict-of-interest.md, raw/america-for-sale-part-2.md, raw/bad-actors.md, raw/operation-cyclone-the-seeds-of-terror.md, raw/profiting-from-war.md, raw/q-for-dummies-chapter-17.md]
+sources: [raw/a-conflict-of-interest.md, raw/america-for-sale-part-2.md, raw/bad-actors.md, raw/operation-cyclone-the-seeds-of-terror.md, raw/profiting-from-war.md, raw/q-for-dummies-chapter-17.md, raw/the-steering-wheel-of-civilization.md]
 confidence: medium
 ---
 
@@ -58,3 +58,9 @@ The article further attributes to Bush the "weapons of mass destruction" rationa
 Chapter 17 of the [[q-for-dummies|Q for Dummies]] series describes [[alwaleed-bin-talal|Alwaleed bin Talal]] and both Bush presidents as connected through "a river running deep with corruption," citing frequent Saudi investment in the [[carlyle-group|Carlyle Group]], Saudi financing of Middle East wars, and Saudi investment in [[halliburton|Halliburton]].[6] It emphasizes that [[september-11-attacks|9/11]] occurred under Bush and that dozens of Saudis were permitted to leave the country in its aftermath, and reports the view of many anons that the Saudi royal family led by Alwaleed had a very big hand in funding, planning and executing the attacks.[6]
 
 The chapter traces the consequences of 9/11 to a twenty-year war in Afghanistan and the invasion of [[iraq-war|Iraq]], both justified by claims about weapons of mass destruction and terrorism, and to the [[patriot-act|Patriot Act]], which it says further eroded civil liberties under "for your safety" messaging.[6] Answering Q's question about senior officials tied to Halliburton, it names Bush and [[dick-cheney|Dick Cheney]], the latter having served on the company's board.[6] It also notes that [[christopher-wray|Christopher Wray]] served under Bush and may therefore know the truth about the Bush family, Saudi Arabia and 9/11.[6]
+
+## Cited in "The Steering Wheel of Civilization"
+
+The February 24, 2023 Badlands Media essay "The Steering Wheel of Civilization" uses the people who voted for Bush in 2000 as an illustration of [[common-purpose|common purpose]].[7] The essay argues that these voters did not perfectly agree with one another, but that on the single question of whom to vote for as President of the United States there was enough common ground that they acted as one in the act of voting.[7]
+
+7. Badlands Brief — "The Steering Wheel of Civilization", URL: https://badlands.substack.com/p/the-steering-wheel-of-civilization

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [censorship, uk, legislation, 5gw, internet-regulation]
-sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-news-brief-f94.md, raw/is-the-censorship-war-over.md, raw/the-censorship-war-counteroffensive.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-news-brief-f94.md, raw/is-the-censorship-war-over.md, raw/the-censorship-war-counteroffensive.md, raw/the-multinational-offensive-against.md]
 confidence: medium
 ---
 
@@ -49,3 +49,9 @@ Badlands Media grouped the United Kingdom's Online Safety Bill with Canada's [[o
 The Online Safety Bill received Royal Assent on October 26, 2023, becoming the [[online-safety-act-2023|Online Safety Act 2023]] and thus an operational statute rather than a bill.[4] Badlands contributor [[ryan-delarme|Ryan DeLarme]], who read the original text in 2023, wrote that Section 10 created offenses of transmitting "harmful, false and threatening communications" without defining "harmful" or the criteria for "false," that clause 156 criminalized sending a message containing false information, and that clause 157 granted immunity to every newspaper, television channel and streaming service.[4] He also flagged clause 122, empowering [[ofcom|Ofcom]] to mandate scanning of encrypted platforms, as an expansion of mass surveillance comparable in framing to the [[patriot-act|Patriot Act]].[4] See [[censorship-war|Censorship War]].[4]
 
 4. Badlands Brief — "The Censorship War - Counteroffensive", URL: https://badlands.substack.com/p/the-censorship-war-counteroffensive
+
+## Role in the multinational censorship campaign (DeLarme, 2024)
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] listed the UK's Online Safety Bill alongside Canada's C-11 [[online-streaming-act|Online Streaming Act]] and the European Union's [[digital-services-act|Digital Services Act]] as the active prongs of a multinational censorship campaign facilitated by governments and NGOs working in concert, a framework he had first outlined in his earlier article "The War on Dissent: Western Governments are Creating Legal Frameworks to Attack Alternative Media."[5] He argued that since that article was published the censorship offensive had ramped up considerably, moving from small creators to the most consequential platforms themselves.[5]
+
+5. Badlands Brief — "The Multinational Offensive Against Free Speech Online", URL: https://badlands.substack.com/p/the-multinational-offensive-against

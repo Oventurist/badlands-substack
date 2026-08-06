@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [lobbying, libya, washington]
-sources: [raw/a-conflict-of-interest.md]
+sources: [raw/a-conflict-of-interest.md, raw/transparency-and-prosecution.md]
 confidence: low
 ---
 
@@ -16,3 +16,11 @@ The Badlands account treats the LETF as the direct template for the later [[syri
 
 ## References
 1. Badlands Brief — "A Conflict of Interest", URL: https://badlands.substack.com/p/a-conflict-of-interest
+
+## The Libya template
+
+The Badlands Media feature "Transparency and Prosecution" closes by identifying the Libyan Emergency Task Force as the direct precursor of the [[syrian-emergency-task-force|Syrian Emergency Task Force]], both headed by [[mouaz-moustafa|Mouaz Moustafa]] and both operating as Washington lobbying vehicles for an armed opposition.[2] The article states that Moustafa was heavily involved in the overthrow of [[muammar-gaddafi|Muammar Gaddafi]] alongside Senator [[john-mccain|John McCain]], and describes the Libyan and Syrian operations as "the same exact playbook."[2]
+
+That template — a no-fly zone, increased military support, and a lobbying apparatus in Washington presenting the fighters as moderates — is what the author says McCain sought to replicate against [[bashar-al-assad|Bashar al-Assad]], another leader aligned with Putin, as part of the [[16-year-plan-to-destroy-america|sixteen-year plan]].[2]
+
+2. Badlands Brief — "Transparency and Prosecution", URL: https://badlands.substack.com/p/transparency-and-prosecution

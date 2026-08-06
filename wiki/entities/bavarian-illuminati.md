@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [secret-societies, occult, europe, history, cabal]
-sources: [raw/badlands-news-brief-023.md, raw/legacy-of-the-bavarian-illuminati.md, raw/legacy-of-the-bavarian-illuminati-8f0.md]
+sources: [raw/badlands-news-brief-023.md, raw/legacy-of-the-bavarian-illuminati.md, raw/legacy-of-the-bavarian-illuminati-8f0.md, raw/trump-knows.md]
 confidence: medium
 ---
 
@@ -58,7 +58,12 @@ The 1785 juridical deposition of [[joseph-utzschneider|Joseph Utzschneider]], Gr
 
 DeLarme concludes that the Illuminati was a short-lived order and but a single clandestine group in a long series operating under what [[william-stuart|William Stuart]] calls "[[red-masonry|Red Masonry]]," of which hundreds of orders were formed; modern organizations trading on the name, complete with recruitment websites and e-shops, are dismissed as grifters.[3] Stuart holds that later incarnations of the same agenda include the [[bilderberg|Bilderberg Group]] and the [[fabian-society|Fabian Society]].[3] Using the term "Illuminati" for today's subversive actors, DeLarme argues, marks the speaker as relying on pop-cultural terminology rather than accurate historic record.[3]
 
+## Populist revolution as a technique
+
+[[justin-deschamps|Justin Deschamps]] wrote that the idea of a populist revolution appears to have been developed by power brokers in Europe who wanted to use it to overthrow established power structures, and that the Bavarian Illuminati planned such an overthrow using the new technique of [[color-revolution|color revolutions]].[4] The [[french-revolution|French Revolution]] is described as a successful beta test of the method, a conclusion he attributed to the research of [[marvin-s-antelman|Marvin S. Antelman]], author of *To Eliminate the Opiate*, who unearthed letters and correspondence between key figures in the movement.[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Chaos in the Middle East Overshadows That at Home", URL: https://badlands.substack.com/p/badlands-news-brief-023
 2. Badlands Brief — "Legacy of the Bavarian Illuminati - Part 1", URL: https://badlands.substack.com/p/legacy-of-the-bavarian-illuminati
 3. Badlands Brief — "Legacy of the Bavarian Illuminati - Part 2", URL: https://badlands.substack.com/p/legacy-of-the-bavarian-illuminati-8f0
+4. Badlands Brief — "Trump Knows", URL: https://badlands.substack.com/p/trump-knows

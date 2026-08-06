@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [mar-a-lago, classified-documents, doj, trump]
-sources: [raw/badlands-news-brief-208.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-fcb.md]
+sources: [raw/badlands-news-brief-208.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-fcb.md, raw/unveiling-the-mar-a-lago-raid-1-year.md]
 confidence: medium
 ---
 
@@ -40,3 +40,9 @@ Exactly one week before January 13, 2025, Waltine Nauta and co-defendant [[carlo
 2. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
 3. Badlands News Brief — "Contentious Confirmations & Conflicted Special Counsels", URL: https://badlands.substack.com/p/badlands-news-brief-b02
 4. Badlands Brief — "Badlands News Brief: Devolution Digs, Storm Stirring & Leverage", URL: https://badlands.substack.com/p/badlands-news-brief-fcb
+
+## Superseding indictment (July 2023)
+
+Nauta was named alongside [[donald-trump|Donald Trump]] and [[carlos-de-oliveira|Carlos De Oliveira]] in the superseding indictment filed July 27, 2023 in the [[2023-trump-classified-documents-indictment|classified documents case]] arising from the [[mar-a-lago-raid|Mar-a-Lago raid]].[5] [[alpha-warrior|Alpha Warrior]]'s August 2023 retrospective cited the superseding document, *United States v. Trump, Nauta and De Oliveira*, as the vehicle by which the prosecution extended beyond the former president to those who worked around him at the estate.[5]
+
+5. Badlands Brief — "Unveiling the Mar-a-Lago Raid – 1 Year Delta", URL: https://badlands.substack.com/p/unveiling-the-mar-a-lago-raid-1-year

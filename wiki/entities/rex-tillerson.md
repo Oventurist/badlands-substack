@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [state-department, exxonmobil, venezuela, sanctions, trump-administration, deep-state]
-sources: [raw/badlands-brief-db7.md, raw/the-master-builder.md]
+sources: [raw/badlands-brief-db7.md, raw/the-master-builder.md, raw/the-sabotage-of-trumps-administration.md]
 confidence: medium
 ---
 
@@ -29,3 +29,9 @@ During Trump's first year in office, Tillerson "flexed" on [[nicolas-maduro|Nico
 Badlands Media's "The Master Builder" (February 2, 2023) cites Washington Post reporting that [[donald-trump|Donald Trump]] took possession of his own interpreter's notes after a 2017 meeting with [[vladimir-putin|Vladimir Putin]] in Hamburg that Tillerson also attended, instructing the linguist not to discuss what had transpired with other administration officials.[2] U.S. officials reportedly learned of Trump's actions when a White House adviser and a senior [[state-department|State Department]] official sought information from the interpreter beyond the readout Tillerson had shared.[2] [[joe-lange|Joe Lange]] presents the episode as evidence of deliberate back-channel statecraft rather than misconduct.[2]
 
 2. Badlands Media — "The Master Builder", URL: https://badlands.substack.com/p/the-master-builder
+
+## Dismissal and the Iran deal (Carlson, 2023)
+
+In "The Sabotage of Trump's Administration" (December 27, 2023), Erik Carlson revisits Tillerson's firing in April 2018, describing him as a former ExxonMobil executive with close ties to Russia and [[vladimir-putin|Vladimir Putin]] through his energy background.[3] Carlson argues the decisive "beef" was Tillerson's support for Obama's [[iran-nuclear-agreement|Iran Nuclear Agreement]], which [[donald-trump|Donald Trump]] and [[mike-pompeo|Mike Pompeo]] both considered a terrible deal, and that Trump viewed Pompeo as loyal by contrast.[3] Pompeo moved from the [[central-intelligence-agency|CIA]] to the [[state-department|State Department]] to replace him, with [[gina-haspel|Gina Haspel]] taking over at the CIA.[3] Carlson also speculates that [[olivia-troye|Olivia Troye]] entered the White House around the time Tillerson was removed, asking whether "one mole was replaced with another."[3]
+
+3. Badlands Brief — "The Sabotage of Trump's Administration", URL: https://badlands.substack.com/p/the-sabotage-of-trumps-administration

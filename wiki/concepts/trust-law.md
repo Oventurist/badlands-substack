@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [law, trusts, federal-reserve, jurisdiction, property]
-sources: [raw/going-off-the-federal-reservation.md]
+sources: [raw/going-off-the-federal-reservation.md, raw/trust-the-plan.md]
 confidence: medium
 ---
 
@@ -36,5 +36,14 @@ Applying the framework, the article characterizes the Federal Reserve as the tru
 
 The article recommends trust analysis as a method of rapid legal comprehension: asking who is involved, what rights or property are being used, and what beneficial purpose is sought.[1] Because trustors, trustees and beneficiaries hold different inherent rights, the author argues that habitually mapping situations onto these roles trains a reader to compute the balance of rights and to cut through legal jargon and obfuscation.[1] The essay presents this literacy as a defensive skill in what it calls [[fifth-generation-warfare|5G warfare]], and cautions that the heuristics are conceptual aids rather than literal rules applicable to every legal question.[1]
 
+## The word "trust" as compressed meaning
+
+A July 11, 2024 Badlands Media essay argued that the legal sense of a trust is only one of several meanings compressed into the word, and that the overlap is what makes the concept exploitable.[2] It enumerated five dictionary senses: a firm belief or faith in the reliability, truth, ability or strength of someone or something; acceptance of truth without evidence or investigation; responsibility for a person or duty; property held with a third party, the trustee, who has a defined duty to act for the good of a beneficiary; a company having or trying to get a monopoly; credit, as in "my master lived on trust at an alehouse"; and hope or expectation.[2]
+
+On the fiduciary sense the essay emphasised that a trust is personal, private property valuable enough to safeguard — in short, an asset.[2] On the duty sense it observed that trust is transactional and is traded through social contracts, often backed by decrees, handshakes, laws, compliance officers, judges and war, and that the phrase "rulership is a trust from God" shows that trust can be held, gifted, sent and received.[2] On the monopoly sense it noted that the dictionary marks the definition as dated even though resource centralisation remains prevalent worldwide, and cited the [[federal-trade-commission|Federal Trade Commission]]'s mandate to enforce the antitrust laws; where a monopoly exists over vital resources, populations are forced either to trust the monopoly or lose access to the market.[2] On the credit sense it argued that although the dictionary marks the usage archaic, the entire modern system is built on credit and debt, so trust can be used to borrow or steal from the future.[2]
+
+The essay's summary is that trust deals simultaneously with belief systems, faith, natural law, contracts, transactions, borrowing, integrity, responsibility, duty, property, control and sovereignty — and that its concentration in a single word is precisely what allows it to be attacked.[2] See [[trust-the-plan|"TRUST the plan"]], [[trust-but-verify|trust, but verify]] and the [[knickerbocker-trust-company|Knickerbocker Trust Company]].[2]
+
 ## References
 1. Badlands Brief — "Going off the (Federal) Reservation", URL: https://badlands.substack.com/p/going-off-the-federal-reservation
+2. Badlands Brief — "TRUST: The Plan", URL: https://badlands.substack.com/p/trust-the-plan

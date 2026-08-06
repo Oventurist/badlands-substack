@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [consciousness, epigenetics, authors, self-empowerment]
-sources: [raw/generational-dependence-syndrome.md, raw/the-bridge.md, raw/the-emergence.md]
+sources: [raw/generational-dependence-syndrome.md, raw/the-bridge.md, raw/the-emergence.md, raw/the-shift.md]
 confidence: medium
 ---
 
@@ -24,7 +24,12 @@ Dispenza appears again, as the author of *Breaking the Habit of Being Yourself*,
 
 Dispenza is cited again in the April 26, 2025 essay [[the-emergence|"The Emergence"]], where he is credited with the concept of a "quantum signature" — the vibrational fingerprint created when a person's thoughts, emotions and actions align.[3] The essay asserts that in the state it calls [[coherence|coherence]] this signature becomes "undeniable," so that the reader "no longer ha[s] to prove who you are" but simply embodies it.[3]
 
+## Cited in "The Shift" (March 2025)
+
+In the March 22, 2025 feature "The Shift," a follow-up to "The Bridge," Dispenza is quoted from *Becoming Supernatural* saying that "when we break free from conditioned reality, we step into the quantum field where all possibilities exist."[4] The essay treats this as the ultimate goal of awakening — not merely to see differently but to live differently — and frames stepping into the quantum field as crossing a bridge from the conditioned self of habits, fears and limits to "a vast expanse where you are no longer bound by time or circumstance."[4] It insists this is ownership rather than escapism, with every coherent thought and aligned action building the bridge until the reader becomes "a living signal, broadcasting possibility into a world hungry for change."[4]
+
 ## References
 1. Badlands Brief — "Generational Dependence Syndrome", URL: https://badlands.substack.com/p/generational-dependence-syndrome
 2. Badlands Brief — "The Bridge", URL: https://badlands.substack.com/p/the-bridge
 3. Badlands Media — "The Emergence", URL: https://badlands.substack.com/p/the-emergence
+4. Badlands Brief — "The Shift: Navigating Awakening, Sovereignty and Conscious Creation", URL: https://badlands.substack.com/p/the-shift

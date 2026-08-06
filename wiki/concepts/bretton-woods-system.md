@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [finance, bretton-woods, imf, world-bank, new-deal]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/tariffs-protectionism-and-avoiding.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/tariffs-protectionism-and-avoiding.md, raw/understanding-the-soul-of-china.md]
 confidence: medium
 ---
 
@@ -31,3 +31,11 @@ The productive financial architecture of China and its allies is described as ha
 ## References
 1. Badlands Brief — "A Gateway to a New World of Cooperation", URL: https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation
 2. Badlands Brief — "Tariffs, Protectionism and Avoiding the Risk of Total Failure", URL: https://badlands.substack.com/p/tariffs-protectionism-and-avoiding
+
+## Wallace and the internationalized New Deal
+
+[[matthew-ehret|Matthew Ehret]] writes that [[henry-wallace|Henry A. Wallace]] worked closely with [[franklin-d-roosevelt|FDR]] and other New Deal Democrats to shape both the 1942 [[atlantic-charter|Atlantic Charter]] and the Bretton Woods System, with the aim of internationalizing the success of the New Deal in the post-war world.[3] Against Wall Street monetarists who argued that vast spending on poor colonial countries would be inflationary waste, Wallace held that investments directed to large-scale agro-industrial endeavours on sufficiently long repayment horizons carried no risk.[3]
+
+Wallace anticipated that "more than one mechanism" would be needed to gear together the capitalism of America and Britain, the socialism of Russia and the mixed state and private enterprise expected in countries like China, suggesting an international government bank with guarantees for both government and private funds.[3] Ehret argues Wallace would have liked the [[imf|IMF]] and [[world-bank|World Bank]] to serve this purpose, but that FDR's death in April 1945 prevented it.[3]
+
+3. Badlands Brief — "Understanding the Soul of China", URL: https://badlands.substack.com/p/understanding-the-soul-of-china

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [lebanon, prime-minister, saudi-purge, hezbollah, hariri]
-sources: [raw/badlands-news-brief-290.md]
+sources: [raw/badlands-news-brief-290.md, raw/trump-cuts-the-head-off-the-snake.md]
 confidence: medium
 ---
 
@@ -24,3 +24,11 @@ Badlands commentary situates the Hariri affair within the chain of events culmin
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Global Grifters, Fleeing Fellows, and a Surprisingly Friendly Funeral", URL: https://badlands.substack.com/p/badlands-news-brief-290
+
+## The November 2017 resignation in Riyadh
+
+Joe Lange's account emphasises that Hariri's abrupt resignation, announced in a televised broadcast from [[saudi-arabia|Saudi Arabia]], came the day before the mass arrests of [[alwaleed-bin-talal|Alwaleed bin Talal]] and hundreds of other Saudis.[2] In the broadcast Hariri accused [[iran|Iran]] of sowing "fear and destruction" in several countries including [[lebanon|Lebanon]] and said he was stepping down because he feared for his life; his father, former Prime Minister Rafik al-Hariri, had been assassinated in 2005.[2] Iranian officials denounced the move as a plot to stoke regional tension, with Hussein Sheikh al-Islam, adviser to Supreme Leader Ayatollah Ali Khamenei, asserting that the resignation "was done with planning by [US President] Donald Trump and Mohammed bin Salman," and foreign ministry spokesman Bahram Qasemi calling it an attempt to create tension in Lebanon and the region.[2]
+
+Lange notes that Hariri had been summoned to Riyadh and dropped everything to go, that the televised resignation shocked the Middle East and angered Hezbollah-backed President [[michel-aoun|Michel Aoun]], and that Saudi Arabia was accused of holding him hostage; after roughly a week and a half he returned to Lebanon and eventually rescinded the resignation.[2] In this reading the episode was Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] putting [[hezbollah|Hezbollah]] on notice that it would no longer enjoy free rein in the region or support from anyone in Saudi Arabia.[2] Within hours of the resignation, Saudi Arabia said it had intercepted a ballistic missile fired from [[yemen|Yemen]] over Riyadh, with fragments landing near King Khalid International Airport.[2]
+
+2. Badlands Brief — "Trump Cuts the Head off the Snake", URL: https://badlands.substack.com/p/trump-cuts-the-head-off-the-snake

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, wall-street, fascism, nazi-finance]
-sources: [raw/real-patriots-dont-think-like-hitler-196.md, raw/the-men-behind-the-curtain-part-8.md]
+sources: [raw/real-patriots-dont-think-like-hitler-196.md, raw/the-men-behind-the-curtain-part-8.md, raw/why-america-needs-to-break-wall-streets.md]
 confidence: medium
 ---
 
@@ -25,6 +25,11 @@ Norman, the bank's co-progenitor, simultaneously served as Governor of the [[ban
 ## References
 1. Badlands Brief — "Real Patriots Don't Think Like Hitler – Part 2: How Western Bankers Created the Nazis", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-196
 2. Badlands Brief — "The Men Behind the Curtain - Part 8", URL: https://badlands.substack.com/p/the-men-behind-the-curtain-part-8
+3. Badlands Brief — "Why America Needs to Break Wall Street's Kneecaps", URL: https://badlands.substack.com/p/why-america-needs-to-break-wall-streets
+
+## The 1929 crash and the Pecora hearings
+
+[[matthew-ehret|Matthew Ehret]] identifies [[prescott-bush|Prescott Bush]] of Brown Brothers Harriman as a notable figure who made his fortune by selling before the [[stock-market-crash-of-1929|1929 crash]] and buying America's physical assets for pennies on the dollar, before bailing out the bankrupt Nazi party in 1932.[3] Brown Brothers Harriman was among the firms, alongside Kuhn Loeb and Chase Bank, whose leadership had displays of corruption extracted from them during the [[pecora-commission|Pecora Commission]] hearings.[3]
 
 ## Skull and Bones domination
 

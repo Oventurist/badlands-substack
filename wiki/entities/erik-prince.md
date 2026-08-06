@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [erik-prince, blackwater, private-military-contractors, venezuela]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-257.md, raw/badlands-brief-52f.md, raw/badlands-brief-eed.md, raw/purple-revolution.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-257.md, raw/badlands-brief-52f.md, raw/badlands-brief-eed.md, raw/purple-revolution.md, raw/transparency-and-prosecution.md]
 confidence: medium
 ---
 
@@ -48,3 +48,13 @@ Badlands Media's [[purple-revolution|Purple Revolution]] analysis raises Prince,
 It further notes that Trump appointed Prince's sister [[betsy-devos|Betsy DeVos]] as Secretary of Education and pardoned four former Blackwater employees convicted over a 2007 shooting in Iraq that killed 17 people, while observing that Blackwater's US government contracts declined sharply after Barack Obama took office.[5]
 
 5. Badlands Brief — "Purple Revolution", URL: https://badlands.substack.com/p/purple-revolution
+
+## CIA asset, Syria, and the "think double" reading
+
+The Badlands Media feature "Transparency and Prosecution" identifies Prince and [[blackwater|Blackwater]] as the "special contractors" that Q described as having shadowed Senator [[john-mccain|John McCain]] during his May 2013 trip into Syria, providing his security and escorting him into and out of the country at a time when the United States had no diplomatic relations with Damascus.[6]
+
+Quoting Politico and a January 2010 Vanity Fair profile, the article recounts that Prince had for six years led what the magazine called a "double life": publicly serving as Blackwater's CEO and chairman while privately doing the CIA's bidding, helping craft, fund and execute operations ranging from inserting personnel into "denied areas" to assembling hit teams targeting al-Qaeda members and their allies.[6] Blackwater gleaned more than $1.5 billion in government contracts between 2001 and 2009, acting among other things as an overseas Praetorian guard for CIA and State Department officials.[6] Prince said afterward that he was "thrown under the bus," faced charges, and was targeted with lawsuits intended to bankrupt him — a pattern the author compares to the treatment of General Michael Flynn.[6]
+
+Author [[joe-lange|Joe Lange]] rejects the Vanity Fair "double life" as the meaning of Q's instruction to "think double," arguing instead that Prince had flipped: no longer working for the CIA, he had become a double agent handing over evidence of McCain's treason and one of [[donald-trump|Trump]]'s biggest supporters.[6] Because Blackwater shadowed McCain everywhere, the article treats Prince as a witness who knows the identity of every person in the disputed Syria photographs, including the man it identifies as [[abu-bakr-al-baghdadi|Abu Bakr al-Baghdadi]].[6]
+
+6. Badlands Brief — "Transparency and Prosecution", URL: https://badlands.substack.com/p/transparency-and-prosecution

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [journalism, independent-media, commentary]
-sources: [raw/a-cancer-on-modern-journalism.md, raw/the-censorship-war-counteroffensive.md, raw/the-danger-to-their-democracy.md, raw/the-msm-melts-down-amidst-americas.md]
+sources: [raw/a-cancer-on-modern-journalism.md, raw/the-censorship-war-counteroffensive.md, raw/the-danger-to-their-democracy.md, raw/the-msm-melts-down-amidst-americas.md, raw/the-multinational-offensive-against.md]
 confidence: low
 ---
 
@@ -33,3 +33,9 @@ More than a decade before the Colorado ballot litigation, Greenwald served on th
 Greenwald has drawn on his long residence in Brazil to criticise the United States' inability to count votes on election night.[4] He described Brazil as "the anti-Germany," a country with great difficulty making anything work efficiently, yet one that holds elections on a Sunday to maximise participation, requires voting, requires identification, and extends the franchise to citizens aged 16 and over — producing a vote total roughly comparable to the American one despite a smaller population.[4] Polls open at 8 a.m. and close at 5 or 6 p.m., and by 9 to 11 p.m. at the latest the full count for presidential, gubernatorial and state legislative races is complete and certified.[4] Badlands contributor [[ryan-delarme|Ryan DeLarme]] cited the comparison as evidence that [[us-election-vote-counting-delays|American counting delays]] reflect deliberate choices rather than unavoidable scale.[4]
 
 4. Badlands Brief — "The MSM Melts Down Amidst America's Electoral Ineptitude", URL: https://badlands.substack.com/p/the-msm-melts-down-amidst-americas
+
+## On the Durov prosecution (2024)
+
+Investigative journalist Glenn Greenwald characterized the French prosecution of [[telegram|Telegram]] founder [[pavel-durov|Pavel Durov]] as resting on the theory that the operator of a social media platform can be criminally liable for the criminal acts of anybody who uses that platform, saying that arresting Durov was "akin to arresting AT&T executives and charging them with the crimes of allowing people who use the telephone to commit and plan criminal acts."[5] Badlands contributor [[ryan-delarme|Ryan DeLarme]] quoted the comparison in arguing that if such complicity charges stick, nothing would stop the same treatment of [[elon-musk|Elon Musk]] or [[mark-zuckerberg|Mark Zuckerberg]].[5]
+
+5. Badlands Brief — "The Multinational Offensive Against Free Speech Online", URL: https://badlands.substack.com/p/the-multinational-offensive-against

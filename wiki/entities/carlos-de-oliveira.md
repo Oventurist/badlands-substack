@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [mar-a-lago, classified-documents, doj, trump]
-sources: [raw/badlands-news-brief-208.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-b02.md]
+sources: [raw/badlands-news-brief-208.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-b02.md, raw/unveiling-the-mar-a-lago-raid-1-year.md]
 confidence: medium
 ---
 
@@ -35,3 +35,9 @@ In early January 2025, Carlos De Oliveira and co-defendant [[walt-nauta|Waltine 
 1. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... Or So We're Told", URL: https://badlands.substack.com/p/badlands-news-brief-208
 2. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
 3. Badlands News Brief — "Contentious Confirmations & Conflicted Special Counsels", URL: https://badlands.substack.com/p/badlands-news-brief-b02
+
+## Superseding indictment (July 2023)
+
+De Oliveira was charged alongside [[donald-trump|Donald Trump]] and [[walt-nauta|Walt Nauta]] in the superseding indictment filed July 27, 2023 in the [[2023-trump-classified-documents-indictment|classified documents case]] stemming from the [[mar-a-lago-raid|Mar-a-Lago raid]].[4] [[alpha-warrior|Alpha Warrior]] referenced the filing, *United States v. Trump, Nauta and De Oliveira*, in his one-year retrospective on the search of the [[mar-a-lago|Mar-a-Lago]] estate.[4]
+
+4. Badlands Brief — "Unveiling the Mar-a-Lago Raid – 1 Year Delta", URL: https://badlands.substack.com/p/unveiling-the-mar-a-lago-raid-1-year

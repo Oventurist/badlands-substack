@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [podcasting, media, 2024-election, alternative-media]
-sources: [raw/badlands-news-brief-27c.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-50a.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-e01.md, raw/badlands-news-brief-f7d.md]
+sources: [raw/badlands-news-brief-27c.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-50a.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-e01.md, raw/badlands-news-brief-f7d.md, raw/triggering-mass-psychosis.md]
 confidence: medium
 ---
 
@@ -88,3 +88,9 @@ Rogan also condemned the double standard he saw in coverage of the [[hunter-bide
 9. Badlands Brief — "Biden Baffles, Kennedy Debates & Pride Falls", URL: https://badlands.substack.com/p/badlands-news-brief-da3
 10. Badlands Brief — "Badlands News Brief: Cis-Privileged Sports & The Sum of All Sundays", URL: https://badlands.substack.com/p/badlands-news-brief-e01
 11. Badlands Brief — "Badlands News Brief: The All-Out Biden Blitz Boomerang ... And More", URL: https://badlands.substack.com/p/badlands-news-brief-f7d
+
+## Platforming of mass formation psychosis (February 2022)
+
+A January 20, 2023 Badlands Media essay noted that Dr. [[robert-malone|Robert Malone]] used the phrase [[mass-formation-psychosis|mass formation psychosis]] during a February 2022 appearance on Rogan's podcast, after which the mainstream media propaganda machine worked tirelessly to discredit the idea.[12] The essay treated the podcast appearance as the moment the term entered mass circulation, arguing that the concept accurately described the effect globalist propagandists had on populations recruited into the COVID policy machine and was therefore a threat to the pandemic industrial complex.[12]
+
+12. Badlands Brief — "Triggering Mass Psychosis", URL: https://badlands.substack.com/p/triggering-mass-psychosis

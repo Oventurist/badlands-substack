@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, muslim-brotherhood, national-security, minnesota]
-sources: [raw/infiltration-not-invasion.md, raw/q-for-dummies-chapter-7.md]
+sources: [raw/infiltration-not-invasion.md, raw/q-for-dummies-chapter-7.md, raw/two-wings-one-ugly-bird.md]
 confidence: medium
 ---
 
@@ -31,3 +31,9 @@ The chapter further reads drop #58, in which Q reposted the Bachmann material co
 ## References
 1. Badlands Brief — "Infiltration, Not Invasion", URL: https://badlands.substack.com/p/infiltration-not-invasion
 2. Badlands Brief — "Q for Dummies - Chapter 7", URL: https://badlands.substack.com/p/q-for-dummies-chapter-7
+
+## The Tea Party's redirection
+
+"Two Wings, One Ugly Bird" names Michele Bachmann among the [[tea-party-movement|Tea Party]] firebrands who, in the article's account, "got the memo" as the [[international-republican-institute|International Republican Institute]] turned its regime-change toolkit inward after 2009 — "less Ron Paul, more [[marco-rubio|Marco Rubio]]."[3] The article argues that by 2012 the movement's anti-war, small-government platform had been swapped for neoconservative priorities under IRI training and [[national-endowment-for-democracy|NED]] funding.[3]
+
+3. Badlands Brief — "Two Wings, One Ugly Bird", URL: https://badlands.substack.com/p/two-wings-one-ugly-bird

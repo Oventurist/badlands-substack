@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [fifth-generation-warfare, narrative-warfare, psyops, collective-mind, burning-bright]
-sources: [raw/death-blossom.md, raw/menticide-the-rape-of-the-mind.md]
+sources: [raw/death-blossom.md, raw/menticide-the-rape-of-the-mind.md, raw/triggering-mass-psychosis.md]
 confidence: medium
 ---
 
@@ -36,3 +36,25 @@ A January 27, 2023 Badlands Media essay presented mass psychosis as the object o
 The essay noted that religions are themselves frequent sites of mass psychosis, citing at least two dozen cultures that practiced religious child sacrifice in antiquity, and concluded that the real safeguard is a consciously defined and namable set of principles rather than any institution.[2] All social institutions are vulnerable to social contagion and mass psychosis when the group's [[value-immune-system|value immune system]] stops working.[2] The mechanism by which mass psychosis is induced and exploited is described as [[menticide]], and the essay was published as the second installment of a two-part series.[2]
 
 2. Badlands Brief — "Menticide: The Rape of the Mind", URL: https://badlands.substack.com/p/menticide-the-rape-of-the-mind
+
+## Triggering mass psychosis (January 2023)
+
+The first installment of the same two-part series, published January 20, 2023 by [[justin-deschamps|Justin Deschamps]] with contributions from [[ryan-delarme|Ryan DeLarme]], set out the ingredients required to trigger mass psychosis and how individuals and groups might combat it.[3] It opened from the premise that, as of February 2021, it is a medical fact that fear-inducing information repetitively spread through mass media can adversely affect the general public's mental health in the form of [[nocebo-effect|nocebo effects]] and mass hysteria.[3]
+
+### Media and the authoritative source
+
+A key ingredient identified is self-reinforcing negative information arriving from a presumably authoritative source: the authority effectively renders permission for violence, normalizing and even encouraging participation in the hysteria.[3] The essay cited the belief that [[george-floyd|George Floyd]] died because of systemic racism, reinforced by agreeable social media and echoed uniformly by CNN, NBC and the New York Times, as producing all but guaranteed public outrage.[3] Whatever order exists in a social group persists, it argued, unless degraded through media using [[fifth-generation-warfare|fifth-generational warfare]] tactics or [[color-revolution|color revolution]] methodologies.[3] The [[bolshevik-revolution|Bolshevik revolution]] of 1917, China's Cultural Revolution of 1966 and Ukraine's 2014 Revolution of Dignity were all described as fueled by mass media and self-reinforcing negative information, capitalizing on public discontent through populist ideologues, and most color-style revolutions were said to involve government- or intelligence-agency sponsorship.[3]
+
+### The minimal state and property rights
+
+Drawing on a study by Philipp Bagus, José Antonio Peña-Ramos and Antonio Sánchez-Bayón, the essay argued that mass and digital media in connection with the state may have had adverse consequences during the COVID-19 crisis, with collective hysteria contributing to government policy errors despite the insistence of the corporate press and privately funded institutions such as the [[world-health-organization|WHO]] and the [[centers-for-disease-control-and-prevention|CDC]].[3] In a society with a minimal state, self-corrective mechanisms and sacrosanct private property rights limit the harm inflicted; respect for inalienable rights restrains mob mentality, rioting and property destruction.[3] The essay pointed to the [[2020-george-floyd-riots|2020 riots]], noting that damage concentrated in large cities such as New York, Chicago, Atlanta and Los Angeles while small towns and rural areas saw significantly less property damage.[3]
+
+### Psychogenesis
+
+Because drugs, brain injury and illness affect individuals rather than groups, the essay located the causes of mass psychosis in psychogenic triggers, chiefly a flood of negative emotions — fear and anxiety driving people into panic — that are easily shared and magnified in group settings.[3] It suggested that a false-flag event such as 9/11 can stage a grand trauma spectacle accompanied by a plea to authorities to solve the problem.[3] Following the schizophrenia authority Silvano Arieti, it described a first stage of panic in which the individual perceives things differently, is frightened by the change, and lacks the knowledge to explain it — the critical element, since the uncomprehending psyche recoils into flight or freeze and becomes open to manipulators offering a "way out."[3] Arieti's second stage, "psychotic insight," is the pathological reinterpretation of reality that explains away experience regardless of validity, as when the Nazis dehumanized the Jews and adopted a superior-race doctrine.[3]
+
+### Ruling-class delusion
+
+Mass psychosis results when a population of disempowered and vulnerable individuals is driven into panic from all angles by threats real, imagined or partly fabricated, such as the exaggeration of COVID deaths by pharmaceutical-funded news organizations.[3] The psychosis of [[totalitarianism]] almost always begins within the society's ruling class — bankers, CEOs, politicians and old-money patriarchs prone to the delusion that they alone should control society.[3] The essay cited the papal bull [[unam-sanctam|Unam Sanctam]], which declared subjection to the Roman Pontiff necessary for salvation and helped inaugurate conquest under the Doctrine of Discovery, as an early example.[3] For COVID, the authoritarian instantiation was the WHO, the [[national-institutes-of-health|NIH]] and the CDC with a "devout priesthood" of [[bill-gates|Bill Gates]], [[anthony-fauci|Anthony Fauci]] and [[tedros-adhanom-ghebreyesus|Tedros Adhanom Ghebreyesus]].[3] The article closed by previewing the second installment on objective morality, the founders' anchoring of inalienable rights to a Creator, and [[menticide]].[3]
+
+3. Badlands Brief — "Triggering Mass Psychosis", URL: https://badlands.substack.com/p/triggering-mass-psychosis

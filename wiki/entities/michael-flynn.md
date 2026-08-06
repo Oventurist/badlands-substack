@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military, cbdc, intelligence, national-security]
-sources: [raw/are-we-entering-the-millennial-reign.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-579.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-ee6.md, raw/badlands-news-brief-f44.md, raw/clowns-in-america.md, raw/child-sacrifice-as-a-pillar-of-deep.md, raw/dont-bring-shiny-rocks-to-digital.md, raw/how-your-western-brain-exposes-you.md, raw/moves-and-countermoves.md, raw/q-for-dummies-chapter-13.md, raw/q-for-dummies-chapter-2.md, raw/setting-the-stage.md, raw/the-biggest-boomerang-in-history.md, raw/the-hybridization-of-asymmetric-and.md]
+sources: [raw/are-we-entering-the-millennial-reign.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-579.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-ee6.md, raw/badlands-news-brief-f44.md, raw/clowns-in-america.md, raw/child-sacrifice-as-a-pillar-of-deep.md, raw/dont-bring-shiny-rocks-to-digital.md, raw/how-your-western-brain-exposes-you.md, raw/moves-and-countermoves.md, raw/q-for-dummies-chapter-13.md, raw/q-for-dummies-chapter-2.md, raw/setting-the-stage.md, raw/the-biggest-boomerang-in-history.md, raw/the-hybridization-of-asymmetric-and.md, raw/the-real-fight-begins.md, raw/trump-doctrine-peace-through-space.md, raw/whats-taking-so-long.md]
 confidence: low
 ---
 
@@ -98,6 +98,10 @@ Flynn separately framed his current activity as service in another form: "I'm se
 ## Comments on unrest in Britain (August 2024)
 
 Over the weekend of August 3–4, 2024, Flynn responded to Elon Musk on social media by saying that civil war in Britain was already underway, a remark cited by Badlands Media in its coverage of the riots that prompted Prime Minister [[keir-starmer|Keir Starmer]] to announce a "standing army" of specialist police.[17] The outlet placed Flynn's assessment alongside its argument that the unrest was the product of a decade of migration from Africa and Syria facilitated by the [[open-society-foundations|Open Society Foundations]] and other non-governmental organizations.[17] See [[southport-riots|the Southport riots]].[17]
+
+## Trump Doctrine: Peace Through Space
+
+In "[[trump-doctrine-peace-through-space|Trump Doctrine: Peace Through Space]]" Flynn is quoted for two statements used to support reading the [[qanon|Q]] "network" as a [[counterinsurgency|counterinsurgency]] rather than simply the US military: "We have an army of Digital Soldiers" and "This was run like an insurgency."[29]
 
 ## References
 1. Badlands Brief — "Are We Entering the Millennial Reign?", URL: https://badlands.substack.com/p/are-we-entering-the-millennial-reign
@@ -201,3 +205,16 @@ Deschamps treated the remark as a clear illustration of narrative warfare and bu
 
 26. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history
 27. Badlands Brief — "The Hybridization of Asymmetric & Political Warfare", URL: https://badlands.substack.com/p/the-hybridization-of-asymmetric-and
+
+## Post-2024 election guidance to the War Room
+
+In a call with the War Room shortly after the November 2024 election, Flynn declared that "Job number one is for Trump to stay alive," a priority [[ryan-delarme|Ryan DeLarme]] called a no-brainer given that at least two assassination attempts had already failed; DeLarme suggested Trump would ideally hunker down at Mar-a-Lago and strategize with minimal public appearances.[28] Flynn identified former CIA director-turned-CNN commentator [[john-brennan|John Brennan]] as the opposition's "tactical commander," a designation DeLarme found fitting given Brennan's standing among the most qualified liars and strategists on the deep political roster.[28] Flynn also named [[barack-obama|Obama]] — and in previous interviews [[susan-rice|Susan Rice]] as another shot caller in the Biden White House — while alluding to "some of these globalist characters," which DeLarme read as an acknowledgment of the international think tank class.[28]
+
+28. Badlands Brief — "The Real Fight Begins", URL: https://badlands.substack.com/p/the-real-fight-begins
+29. Badlands Brief — "Trump Doctrine: Peace Through Space", URL: https://badlands.substack.com/p/trump-doctrine-peace-through-space
+
+## "Digital army of truth tellers"
+
+In "What's Taking So Long?" (December 28, 2022), [[joe-lange|Joe Lange]] wrote that the whole purpose of [[qanon|Q]] was to create what Flynn described as a digital army of truth tellers, in order to combat a media that had spread enemy propaganda for generations.[30] Lange treated this as the information component of the [[counterinsurgency-guide|Counterinsurgency Guide]]'s framework, and judged it an incredible success, arguing the media's lies were by then being exposed within hours.[30]
+
+30. Badlands Brief — "What's Taking So Long?", URL: https://badlands.substack.com/p/whats-taking-so-long

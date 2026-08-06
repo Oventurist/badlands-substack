@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [2020, blm, race-riots]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-311.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-311.md, raw/triggering-mass-psychosis.md]
 confidence: medium
 ---
 
@@ -30,3 +30,9 @@ On Monday, December 16, 2024, a judge ruled that lawyers for [[derek-chauvin|Der
 1. Badlands Brief — "A Journey of Ever-changing Truths", URL: https://badlands.substack.com/p/a-journey-of-ever-changing-truths
 2. Badlands Brief — "Badlands News Brief: Escalation ... Acceleration ... and Biden", URL: https://badlands.substack.com/p/badlands-news-brief-0f0
 3. Badlands Brief — "Theatrical Judges, Syrian Statements & Canadian Defections", URL: https://badlands.substack.com/p/badlands-news-brief-311
+
+## Invoked in Badlands mass-psychosis analysis (January 2023)
+
+[[justin-deschamps|Justin Deschamps]]'s January 20, 2023 essay used Floyd's May 2020 death as its central illustration of how [[mass-psychosis]] is triggered, arguing that the media-fueled public rage that followed produced little harm in smaller towns and rural areas while concentrating destruction in large cities.[4] The essay described the claim that Floyd died due to systemic racism as self-reinforcing negative information, reinforced through agreeable social media and echoed uniformly by CNN, NBC and the New York Times, which all but guaranteed public outrage.[4] It further argued that the collective rage toward "the system" and police felt by those who accepted the [[black-lives-matter|BLM]] version of events was "relieved" by protests and rioting, a response actively promoted in the media and by social media influencers.[4]
+
+4. Badlands Brief — "Triggering Mass Psychosis", URL: https://badlands.substack.com/p/triggering-mass-psychosis

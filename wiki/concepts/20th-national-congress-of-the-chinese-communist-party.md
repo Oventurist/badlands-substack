@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [china, ccp, politics, xi-jinping]
-sources: [raw/the-master-builder.md]
+sources: [raw/the-master-builder.md, raw/the-two-chinas.md]
 confidence: medium
 ---
 
@@ -22,3 +22,9 @@ The article treats the episode as the most visible public moment in a long-runni
 
 ## References
 1. Badlands Media — "The Master Builder", URL: https://badlands.substack.com/p/the-master-builder
+
+## Aftermath as read by Badlands Media (2022)
+
+In "The Two Chinas" (November 10, 2022), Badlands Media described the Congress and its fallout as solidifying [[xi-jinping|Xi Jinping]]'s position as leader "not just of the China of today, but that of tomorrow," and as the venue at which his crystalizing and unifying vision of China emerged.[2] The article stressed that [[hu-jintao|Hu Jintao]] was led away from the chamber in very public and very humiliating fashion, presenting the episode as a break with the Hu-era accommodation of Western oligarchic interests.[2] It further noted that legacy outlets from [[the-hill|The Hill]] to the [[bbc|BBC]] and [[associated-press|AP News]] covered Xi's unprecedented third term with breathless alarm, and that [[george-soros|George Soros]] had criticized Xi in the months beforehand.[2]
+
+2. Badlands Media — "The Two Chinas", URL: https://badlands.substack.com/p/the-two-chinas

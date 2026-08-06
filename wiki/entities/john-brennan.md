@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cia, benghazi, drones, counterterrorism]
-sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-07c.md, raw/badlands-brief-143.md, raw/badlands-brief-1ef.md, raw/badlands-brief-625.md, raw/badlands-brief-8db.md, raw/badlands-brief-a89.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-ffa.md, raw/everything-is-connected.md, raw/panic-in-dc.md, raw/setting-the-stage.md, raw/the-biggest-boomerang-in-history.md]
+sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-07c.md, raw/badlands-brief-143.md, raw/badlands-brief-1ef.md, raw/badlands-brief-625.md, raw/badlands-brief-8db.md, raw/badlands-brief-a89.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-ffa.md, raw/everything-is-connected.md, raw/panic-in-dc.md, raw/setting-the-stage.md, raw/the-biggest-boomerang-in-history.md, raw/the-real-fight-begins.md, raw/tulsi-gabbard-runs-the-gauntlet.md]
 confidence: medium
 ---
 
@@ -137,3 +137,16 @@ Brennan also appears on the declassified list, released by acting Director of Na
 "[[the-biggest-boomerang-in-history|The Biggest Boomerang In History]]" names Brennan, with [[james-clapper|James Clapper]], as leading the Intelligence Community arm of the conspiracy [[joe-lange|Joe Lange]] describes.[19] Lange asserts that [[barack-obama|Obama]] gave the order for Brennan's [[central-intelligence-agency|CIA]] to use [[five-eyes|FVEY]] intelligence agencies to spy on the Trump campaign, in parallel with the order to [[james-comey|Comey]]'s [[fbi|FBI]] to open a counterintelligence investigation into Russian collusion — an arrangement chosen, he argues, because counterintelligence material could be kept classified.[19] Brennan is also listed among the media keywords collected in Q drop 4012 of April 30, 2020.[19] These claims reflect Badlands Media interpretation rather than established fact.
 
 19. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history
+
+## Named "tactical commander" of the post-2024 opposition
+
+In a War Room call after the November 2024 election, General [[michael-flynn|Michael Flynn]] identified Brennan — the former [[central-intelligence-agency|CIA]] director turned CNN commentator — as the "tactical commander" of the effort against President-elect [[donald-trump|Donald Trump]].[20] Badlands contributor [[ryan-delarme|Ryan DeLarme]] said the designation made sense given that Brennan is "among the most qualified liars and strategists on the deep political roster."[20] DeLarme also observed that Brennan, along with [[marc-elias|Marc Elias]] and [[norm-eisen|Norm Eisen]], had gone conspicuously radio silent after the election, warning that it would be foolish to mistake their silence for inactivity.[20]
+
+20. Badlands Brief — "The Real Fight Begins", URL: https://badlands.substack.com/p/the-real-fight-begins
+
+## Attacks on the Gabbard nomination
+
+Brennan was the first prominent figure to attack [[tulsi-gabbard|Tulsi Gabbard]] after her nomination as [[director-of-national-intelligence|Director of National Intelligence]], appearing on MSNBC as part of what Badlands Media described as an intensifying smear campaign built on lies and intentional misrepresentation.[21] Contributor [[ryan-delarme|Ryan DeLarme]] called the attack good publicity for Gabbard, describing Brennan as a trained serial liar and a primary strategist working in the shadows to undermine the will of the people on behalf of the deep political establishment.[21] He noted that Brennan had his security clearance revoked and was banned from entering federal buildings after signing the letter dismissing the Hunter Biden laptop story as Russian disinformation.[21]
+
+The article highlighted the irony of the Snowden connection: [[edward-snowden|Edward Snowden]] featured heavily in the smears against Gabbard, yet it was Snowden's disclosures that revealed both [[james-clapper|James Clapper]] and Brennan had lied before the [[senate-intelligence-committee|Senate Intelligence Committee]] in 2014.[21] Brennan's MSNBC attack ran in parallel with criticism from the Bush-era neoconservative [[national-review|National Review]], a convergence Badlands Media read as a sign that Gabbard threatened the [[washington-consensus|Washington consensus]].[21]
+21. Badlands Brief — "Tulsi Gabbard Runs the Gauntlet", URL: https://badlands.substack.com/p/tulsi-gabbard-runs-the-gauntlet

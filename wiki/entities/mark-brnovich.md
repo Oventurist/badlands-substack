@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [arizona, attorney-general, elections, republican-party]
-sources: [raw/an-sos-from-ground-zero.md]
+sources: [raw/an-sos-from-ground-zero.md, raw/timing-is-everything.md]
 confidence: medium
 ---
 
@@ -24,6 +24,13 @@ In November 2022 Brnovich was described as "acting governor," a designation Gill
 
 Despite Gillespie's criticism of Brnovich personally, his office's Election Integrity Unit produced the November 19, 2022 demand letter to [[maricopa-county|Maricopa County]] written by Assistant Attorney General [[jennifer-wright|Jennifer Wright]], which she called "a hint of governmental sanity."[[1]](https://badlands.substack.com/p/an-sos-from-ground-zero)
 
+## Alternative reading of the Election Integrity Unit
+
+A more favourable assessment appeared in Badlands contributor [[joe-lange|Joe Lange]]'s November 25, 2022 essay "Timing Is Everything." Lange wrote that while "everyone ignored this investigative unit and assumed Brnovich was part of the swamp," the Election Integrity Unit had been doing its work out of the spotlight on purpose, and had been examining not only the 2020 election but actively preparing for the [[2022-midterm-elections|2022 midterms]] in the expectation that fraud in [[maricopa-county|Maricopa County]] would have to be even more blatant in order to defeat [[kari-lake|Kari Lake]].[2] He noted that the unit, through Assistant Attorney General [[jennifer-wright|Jennifer Wright]], was demanding evidence of the county's failure to follow Arizona election law before certification of the 2022 results.[2]
+
+Lange suggested that Brnovich and the Election Integrity Unit exposing fraud and prosecuting those responsible, while Kari Lake used her communication skills as "a bullhorn for the public on election fraud," made for a natural division of labour.[2]
+
 ## References
 
 1. Badlands Brief — "An SOS From Ground Zero", URL: https://badlands.substack.com/p/an-sos-from-ground-zero
+2. Badlands Brief — "Timing Is Everything", URL: https://badlands.substack.com/p/timing-is-everything

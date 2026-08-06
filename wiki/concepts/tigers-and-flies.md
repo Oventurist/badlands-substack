@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [china, anti-corruption, badlands-media, sovereignty]
-sources: [raw/mirror-mirror.md]
+sources: [raw/mirror-mirror.md, raw/the-two-chinas.md]
 confidence: medium
 ---
 
@@ -16,3 +16,9 @@ Badlands Media conceded that it is difficult or impossible to verify whether the
 
 ## References
 1. Badlands Brief — "Mirror, Mirror", URL: https://badlands.substack.com/p/mirror-mirror
+
+## Place in the Badlands China series
+
+"The Two Chinas" (November 10, 2022) identifies itself as the third entry in the ongoing [[badlands-media|Badlands Media]] China series, which began with "Taiwan Tipping" and continued with "Tigers and Flies," and states that it is best read following those features.[2] The subsequent installment in the sequence is "Empire's Enigma," billed as a deeper dive into the record of [[xi-jinping|Xi Jinping]]'s first two terms and the stated intentions of his third.[2]
+
+2. Badlands Media — "The Two Chinas", URL: https://badlands.substack.com/p/the-two-chinas

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, 1929-crash, national-city-bank, pecora-commission]
-sources: [raw/friends-in-high-places.md]
+sources: [raw/friends-in-high-places.md, raw/why-america-needs-to-break-wall-streets.md]
 confidence: low
 ---
 
@@ -18,3 +18,8 @@ Mitchell made more than $1 million in bonuses in 1929, as the market was about t
 
 ## References
 1. Badlands Brief — "Friends in High Places", URL: https://badlands.substack.com/p/friends-in-high-places
+2. Badlands Brief — "Why America Needs to Break Wall Street's Kneecaps", URL: https://badlands.substack.com/p/why-america-needs-to-break-wall-streets
+
+## Testimony before Pecora
+
+[[matthew-ehret|Matthew Ehret]] describes Mitchell as a pro-fascist financier who was preparing to advise [[benito-mussolini|Benito Mussolini]] when [[ferdinand-pecora|Ferdinand Pecora]] hauled him before the [[senate-committee-on-banking-and-currency|Senate Committee on Banking and Currency]] in Pecora's first two weeks as chief counsel.[2] Within days, Mitchell's team of expensive defense attorneys could do nothing but watch as the [[national-city-bank|National City Bank]] president admitted to short-selling his own bank's stock during the depression, scamming depositors with purchases of Cuban junk debt, and avoiding taxes for years.[2] He was forced to resign in shame, and [[new-york-stock-exchange|New York Stock Exchange]] chairman [[richard-whitney|Dick Whitney]] fell days later.[2]

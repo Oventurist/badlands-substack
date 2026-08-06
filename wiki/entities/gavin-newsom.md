@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [california, democrats, politics, media]
-sources: [raw/badlands-brief-285.md, raw/badlands-brief-6a1.md, raw/badlands-brief-7bf.md, raw/badlands-brief-884.md, raw/badlands-brief-774.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-50f.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b39.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-d95.md, raw/badlands-news-brief-df1.md, raw/badlands-news-brief-e01.md, raw/badlands-news-brief-f25.md, raw/badlands-news-brief-f8a.md, raw/deep-state-spotlight-gavin-newsom.md, raw/energy-consolidation.md]
+sources: [raw/badlands-brief-285.md, raw/badlands-brief-6a1.md, raw/badlands-brief-7bf.md, raw/badlands-brief-884.md, raw/badlands-brief-774.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-50f.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b39.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-d95.md, raw/badlands-news-brief-df1.md, raw/badlands-news-brief-e01.md, raw/badlands-news-brief-f25.md, raw/badlands-news-brief-f8a.md, raw/deep-state-spotlight-gavin-newsom.md, raw/energy-consolidation.md, raw/the-rising-scourge-of-eco-terrorism.md, raw/will-trump-thwart-the-coming-water.md]
 confidence: medium
 ---
 
@@ -226,6 +226,11 @@ The profile treats Newsom's [[california-reparations-task-force|reparations comm
 
 Newsom denied throughout the debate that he was waging a covert campaign for the nomination, claiming he was there to defend the nation against the far right — denials DeLarme read as exposing an aspiration he has voiced since his second year on the San Francisco board of supervisors: "If you're in politics and you want to make an impact," Newsom told reporters in 1998, "you should be as successful as possible, and the most influential position is President."[40]
 
+## Dam demolitions
+
+[[matthew-ehret|Matthew Ehret]] wrote in October 2025 that Newsom "recently demonstrated that he could dance with the best eco-terrorists" by spending over $500 million in taxpayer money to destroy four hydroelectric dams, in what Ehret characterized as a bid to reduce California's population, liberate the deserts and grant rivers inalienable rights.[42] He placed the action in a wider pattern in which 1,951 dams were demolished across the United States over a decade, including 57 in 2021, arguing that while onlookers champion the restoration of nature, the reduction of food production and affordable electricity is devastating.[42] Ehret grouped Newsom's dam removals with the "above grounder" activity of [[mark-carney|Mark Carney]] and other Davos figures as the institutional counterpart to underground [[eco-terrorism|eco-terrorism]].[42]
+
+
 ## References
 
 1. Badlands Brief — "Tuckabee Unites The Arab World As Mexico Courts Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-285
@@ -274,3 +279,10 @@ Newsom denied throughout the debate that he was waging a covert campaign for the
 In a May 15, 2023 Badlands Media essay on [[energy-consolidation|energy consolidation]], contributor [[erik-carlson|Erik Carlson]] cited Newsom's proclamation that all new cars sold in California must be electric by 2035 as an example of a mandate whose pace he called ridiculous and unachievable, arguing that the power grids cannot accommodate the proposed changes.[41] Carlson wrote that literally the day Newsom made the proclamation California experienced a brownout and Californians were told not to charge their electric cars in the evening.[41] He offered the coincidence as evidence that events are scripted, writing that the timing and absurdity "could not happen organically."[41]
 
 41. Badlands Brief — "Energy Consolidation", URL: https://badlands.substack.com/p/energy-consolidation
+42. Badlands Brief — "The Rising Scourge of Eco-Terrorism", URL: https://badlands.substack.com/p/the-rising-scourge-of-eco-terrorism
+
+## Klamath dam demolitions
+
+Matthew Ehret writes that in California alone half a billion dollars was spent by Newsom in 2023–2024 to destroy four strategically important dams on the Klamath, in what he characterises as an effort to save nature from humans.[43] He places the demolitions within a broader campaign of [[hydroelectric-dam-removal|hydroelectric dam removal]] — including the 56 dams funded under a 2021 Democratic Party allocation and hundreds more across Europe — that he argues has deepened the [[north-american-water-crisis|North American water crisis]] by stripping the state of water storage, flood control and hydroelectric power.[43]
+
+43. Badlands Brief — "Will Trump Thwart the Coming Water Wars?", URL: https://badlands.substack.com/p/will-trump-thwart-the-coming-water

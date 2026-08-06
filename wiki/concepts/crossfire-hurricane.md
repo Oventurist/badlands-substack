@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [fbi, russiagate, counterintelligence, 2016-election]
-sources: [raw/badlands-brief-195.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-c6a.md, raw/durham-continues-to-reveal-previously.md, raw/disinformation-is-necessary.md, raw/setting-the-stage.md, raw/the-biggest-boomerang-in-history.md]
+sources: [raw/badlands-brief-195.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-c6a.md, raw/durham-continues-to-reveal-previously.md, raw/disinformation-is-necessary.md, raw/setting-the-stage.md, raw/the-biggest-boomerang-in-history.md, raw/the-trial-of-igor-danchenko-day-one.md, raw/the-trial-of-igor-danchenko-day-three.md]
 confidence: medium
 ---
 
@@ -77,3 +77,19 @@ Bowdich was among the senior colleagues [[james-comey|James Comey]] said he had 
 The declassified [[peter-strzok|Strzok]]–[[lisa-page|Page]] text messages, in his account, shifted media coverage from Trump–Russia collusion to bias inside the Crossfire Hurricane investigation.[9] The Inspector General's report into the investigation is also cited as the document that revealed Comey's private Gmail account, linking the probe to the [[gmail-draft-communications|Gmail draft communications]] thread.[9] These claims reflect Badlands Media interpretation rather than established fact.
 
 9. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history
+
+## Structure described in Auten's Danchenko trial testimony
+
+On the first day of the 2022 trial of [[igor-danchenko|Igor Danchenko]], FBI Supervisory Intelligence Analyst [[brian-auten|Brian Auten]] described Crossfire Hurricane's internal organisation for the jury under questioning by [[john-durham|John Durham]].[10] On the analytical side Auten reported to Jonathan Moffa and Moffa to Bill Priestap; Auten's operational counterpart was Joe Pientka, who reported to [[peter-strzok|Peter Strzok]], who also reported to Priestap; Priestap reported to [[andrew-mccabe|Andrew McCabe]], and McCabe to Director [[james-comey|James Comey]], with Auten's understanding being that everything was reported up to Comey.[10]
+
+Auten testified that the investigation was opened as a full investigation on the basis of a "suggestion" from a friendly foreign government, and that four further full investigations were opened inside it — a posture that gave the team access to more powerful investigative tools including [[fisagate|FISA]] surveillance.[10] He helped lead the analysts across the umbrella case and all four sub-investigations.[10] A [[carter-page-fisa-warrants|FISA warrant on Carter Page]] was sought very early; the team also attempted but failed to obtain one on [[george-papadopoulos|George Papadopoulos]], and Auten did not recall any discussion of seeking warrants on [[paul-manafort|Paul Manafort]] or [[michael-flynn|Michael Flynn]].[10] Auten divided the operation into three phases — 1.0 up to November 2016, 2.0 from December 2016 to March 2017, and 3.0 from March 2017 onward — with Danchenko brought on as a Confidential Human Source of the Washington Field Office during phase 2.0.[10]
+
+10. Badlands Brief — "The Trial of Igor Danchenko: Day One", URL: https://badlands.substack.com/p/the-trial-of-igor-danchenko-day-one
+
+## Compartmentalisation revealed at the Danchenko trial
+
+Testimony on the third day of the [[igor-danchenko|Danchenko]] trial exposed how tightly Crossfire Hurricane compartmentalised information even from the agent handling its most important source.[11] FBI Special Agent [[kevin-helson|Kevin Helson]], a twenty-year veteran of the Washington Field Office assigned to a Russia squad, received the assignment to handle Danchenko from the Crossfire Hurricane team but was never brought onto the team itself; on cross-examination he confirmed that he had been asked to join and had declined.[11] The Badlands author treated this arrangement as possible evidence of parallel investigations running during [[spygate|Spygate]] — one public, one not.[11]
+
+Helson was not briefed on Crossfire Hurricane but relayed questions from the team to Danchenko, including questions about [[charles-h-dolan-jr|Charles Dolan]] supplied by [[brian-auten|Brian Auten]] and [[amy-anderson|Amy Anderson]] for the recorded June 15, 2017 meeting.[11] Yet the team never showed him the Danchenko–Dolan emails, the [[olga-galkina|Galkina]] messages or Danchenko's Facebook records, and never asked for basic access to Danchenko's accounts or communications — even though Helson had been tasked with extracting precisely that material.[11] Helson also testified that he was not informed of a prior relationship between the FBI and [[sergei-millian|Sergei Millian]], and did not know whether the team ever sought the records Danchenko claimed to keep of his source communications.[11] The pattern of agents being kept in the dark about Millian, Dolan and the emails, combined with an unwillingness among several agents to investigate for themselves, was described as a recurring theme of the trial.[11]
+
+11. Badlands Brief — "The Trial of Igor Danchenko: Day Three", URL: https://badlands.substack.com/p/the-trial-of-igor-danchenko-day-three

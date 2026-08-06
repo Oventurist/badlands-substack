@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [information-war, narrative-warfare, psyops, disinformation, discernment]
-sources: [raw/poisoning-the-well.md]
+sources: [raw/poisoning-the-well.md, raw/the-road-without-struggle.md]
 confidence: low
 ---
 
@@ -52,5 +52,16 @@ Carlson worked three examples. A hypothetical [[truth-social|Truth Social]] post
 
 He also warned against the opposite failure, in which discernment curdles into reflexive suspicion: "We tend to rightfully believe that, where there's smoke, there's fire. But what happens when the Deep State sets up a smoke machine?"[1]
 
+## Worked examples in "The Road Without Struggle"
+
+Carlson's February 28, 2023 essay treated poisoning the well as the [[deep-state|Deep State]]'s standard fallback whenever a truth becomes too large to conceal, defining the sequence as: deny first, and when denial fails, make the truth appear ridiculous.[2] He noted a structural consolation — that once the public has found the well, adversaries can no longer pretend it does not exist, so their only remaining move is contamination.[2]
+
+His central case was [[damar-hamlin|Damar Hamlin]], the NFL player who suffered cardiac arrest on the field during a Monday Night Football game.[2] Carlson believed the collapse itself was genuine and unwanted by the Cabal, but that once much of the public privately connected it to the [[covid-19-vaccines|COVID-19 vaccines]], the response was two-track: media explanations attributing it to a direct blow to the chest, followed — when a second episode undercut that story — by a staged-looking stadium appearance in which Hamlin wore sunglasses, a hood and a mask, gave no interviews, and was never clearly filmed.[2] Carlson read this as a deliberate set-up to seduce skeptics into declaring Hamlin dead or replaced by a double, an error he admits falling for himself; the subsequent Super Bowl appearance then discredited everyone who had taken the bait and returned wavering vaccine skeptics to the fold.[2]
+
+He applied the same template to several other episodes. With [[jeffrey-epstein|Jeffrey Epstein]]'s arrest and [[ghislaine-maxwell|Ghislaine Maxwell]]'s conviction making elite sex trafficking undeniable, he predicted the circulation of fake client lists engineered to collapse under scrutiny and thereby discredit any authentic list.[2] The [[metoo-movement|Me Too movement]], in his reading, allowed Hollywood to sacrifice figures such as [[harvey-weinstein|Harvey Weinstein]] and perform shock, after which escalating and increasingly absurd allegations made the serious ones easier to dismiss.[2] Mass and school shootings recognized as narrative operations are followed, he argued, by injected claims that nobody died and all participants were paid actors.[2] Questions about the [[september-11-attacks|Twin Towers]] were met with the claim that the planes were CGI, contradicting eyewitnesses and thereby tainting the broader inquiry.[2] The [[east-palestine-train-derailment|East Palestine derailment]], first ignored and downplayed, was next met with exaggerated claims that let media outlets treat the entire disaster as overblown.[2]
+
+Carlson's general warning was that the public will infer from a few exaggerated details that a whole situation is exaggerated, and that the countermeasure is patience — the [[48-hour-rule|48-hour rule]] — rather than immediate reaction to material designed to make skeptics overplay their hand.[2]
+
 ## References
 1. Badlands Brief — "Poisoning the Well", URL: https://badlands.substack.com/p/poisoning-the-well
+2. Badlands Brief — "The Road Without Struggle", URL: https://badlands.substack.com/p/the-road-without-struggle

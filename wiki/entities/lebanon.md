@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [middle-east, ceasefire, diplomacy, hezbollah]
-sources: [raw/badlands-brief-07c.md, raw/badlands-brief-0fb.md, raw/badlands-brief-143.md, raw/badlands-brief-1ae.md, raw/badlands-brief-50d.md, raw/badlands-brief-625.md, raw/badlands-brief-6f0.md, raw/badlands-brief-6b4.md, raw/badlands-brief-774.md, raw/badlands-brief-9ac.md, raw/badlands-brief-9ea.md, raw/badlands-brief-bb1.md, raw/badlands-brief-e9e.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-69b.md]
+sources: [raw/badlands-brief-07c.md, raw/badlands-brief-0fb.md, raw/badlands-brief-143.md, raw/badlands-brief-1ae.md, raw/badlands-brief-50d.md, raw/badlands-brief-625.md, raw/badlands-brief-6f0.md, raw/badlands-brief-6b4.md, raw/badlands-brief-774.md, raw/badlands-brief-9ac.md, raw/badlands-brief-9ea.md, raw/badlands-brief-bb1.md, raw/badlands-brief-e9e.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-69b.md, raw/trump-cuts-the-head-off-the-snake.md]
 confidence: medium
 ---
 
@@ -128,3 +128,11 @@ In September 2024, Israeli forces conducted preemptive strikes on targets deep i
 15. Badlands Brief — "Badlands News Brief: New Gotham City, Iranian Mysteries & Wars Galore", URL: https://badlands.substack.com/p/badlands-news-brief-2ad
 16. Badlands Brief — "The Old Guard Braces for Impact as Panic Spreads", URL: https://badlands.substack.com/p/badlands-news-brief-447
 17. Badlands Brief — "Badlands News Brief: Trump Calls for Peace as the World Heads Toward War", URL: https://badlands.substack.com/p/badlands-news-brief-69b
+
+## In "Trump Cuts the Head off the Snake"
+
+Joe Lange describes Lebanon as controlled by [[hezbollah|Hezbollah]], which is in turn controlled by [[iran|Iran]].[18] He treats the abrupt resignation of Prime Minister [[saad-hariri|Saad al-Hariri]] — announced in a televised broadcast from [[saudi-arabia|Saudi Arabia]] the day before the [[saudi-purge|November 2017 mass arrests]] — as a major and largely forgotten event.[18] Hariri accused Iran of sowing "fear and destruction" in several countries including Lebanon and said he feared for his life; correspondents wrote that his departure plunged Lebanon into a new political crisis and raised fears it would sit at the forefront of the rivalry between Shia power Iran and Sunni stronghold Saudi Arabia.[18]
+
+The resignation angered Hezbollah-backed President [[michel-aoun|Michel Aoun]], and Saudi Arabia was accused of holding Hariri hostage; after about a week and a half he returned home and eventually rescinded the resignation.[18] Lange reads the episode as Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] serving notice on Hezbollah that it would no longer have free rein in the region.[18] The [[quds-force|Quds Force]] under [[qasem-soleimani|Qasem Soleimani]] funded Hezbollah in Lebanon as part of the network Lange says was decapitated by the [[assassination-of-qasem-soleimani|January 2020 strike]].[18]
+
+18. Badlands Brief — "Trump Cuts the Head off the Snake", URL: https://badlands.substack.com/p/trump-cuts-the-head-off-the-snake

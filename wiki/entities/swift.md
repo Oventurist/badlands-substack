@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, banking, cbdc, payments]
-sources: [raw/badlands-news-brief-b60.md, raw/badlands-news-brief-e40.md, raw/control-the-financial-system-control.md, raw/shared-interests.md, raw/the-covfefe-dig.md]
+sources: [raw/badlands-news-brief-b60.md, raw/badlands-news-brief-e40.md, raw/control-the-financial-system-control.md, raw/shared-interests.md, raw/the-covfefe-dig.md, raw/wilted-ivy.md]
 confidence: medium
 ---
 
@@ -45,3 +45,9 @@ Lange argued the move was anticipated: the Central Bank of Russia had built the 
 
 4. Badlands Brief — "Shared Interests", URL: https://badlands.substack.com/p/shared-interests
 5. Badlands Brief — "The COVFEFE Dig", URL: https://badlands.substack.com/p/the-covfefe-dig
+
+## Cited in "Wilted Ivy"
+
+Badlands Media's May 2025 essay "Wilted Ivy" lists "the slow dismantling of SWIFT banking hegemony" among the infrastructure changes it says are already underway behind the scenes, alongside tokenized assets for fractional ownership and the rising legitimacy of sovereign digital assets as alternative currency foundations.[6] These developments are presented as the technical groundwork for the [[sovereign-wealth-fund|sovereign wealth fund]] model the article advocates.[6]
+
+6. Badlands Brief — "Wilted Ivy", URL: https://badlands.substack.com/p/wilted-ivy

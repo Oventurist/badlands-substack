@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [media, fox-news, tucker-carlson, censorship, 2023]
-sources: [raw/badlands-news-brief-49a.md]
+sources: [raw/badlands-news-brief-49a.md, raw/tucker-twitter-and-the-truth-community.md]
 confidence: medium
 ---
 
@@ -24,5 +24,12 @@ Former U.S. Army psychological warfare officer [[scott-bennett|Scott Bennett]] a
 
 [[ryan-delarme|Ryan DeLarme]] read the episode as confirmation that Fox's priority was narrative rather than profit, and linked the Dominion settlement to overlapping [[blackrock|BlackRock]] holdings in both companies, describing the payout as Kabuki theater intended to certify the 2020 election as fair.[1] [[burning-bright|Burning Bright]] wrote that although he had long viewed Carlson skeptically as part of the [[media-industrial-complex|Media Industrial Complex]], the host's segments had grown increasingly poignant and anti-establishment, pushing the [[overton-window|Overton window]] toward truth and justice — and that the firing, alongside CNN's ratings decline, left alternative media more comfortable than the legacy outlets.[1]
 
+## Later reporting on the reason for the firing
+
+Writing in August 2023, [[ashe-in-america|Ashe in America]] noted that Carlson's firing was announced on April 24, 2023, and that his subsequent interview with former Capitol Police Chief [[steven-sund|Steven Sund]] supplied additional information about why.[2] Carlson disclosed that he had previously interviewed Sund for Fox and that the segment had been scheduled to air on April 24 but never did, allowing observers to imagine Carlson battling over the preceding weekend to get his content on air and ultimately failing; before the Sund interview no information about that show content had ever been officially released.[2] Leftist outlets such as [[vanity-fair|Vanity Fair]] framed the departure as the result of racist text messages, while more centrist narrators including [[cnbc|CNBC]] attributed it to sealed conditions of Fox's defamation settlement with [[dominion-voting-systems|Dominion]].[2] Ashe argued all of these could be true, but that the Sund interview made clear why a network she characterized as globalist-controlled propaganda refused to air a piece that wholly debunked the mainstream account of January 6.[2]
+
+After the firing, [[fox-news|Fox News]] ratings fell sharply, with the network often landing second in primetime behind [[msnbc|MSNBC]] — an outcome that would have been unthinkable while Carlson led its evening lineup.[2] Carlson launched the online program [[tucker-on-twitter|Tucker on Twitter]], where his audience vastly exceeded his cable reach.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: FOX Trots, Montana Maintains & Congress Convenes", URL: https://badlands.substack.com/p/badlands-news-brief-49a
+2. Badlands Brief — "Tucker, Twitter, and the Truth Community", URL: https://badlands.substack.com/p/tucker-twitter-and-the-truth-community

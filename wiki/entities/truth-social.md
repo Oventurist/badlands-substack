@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [social-media, trump, platform]
-sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-625.md, raw/badlands-brief-774.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-df8.md, raw/badlands-news-brief-f0e.md, raw/control-through-language.md, raw/has-trumps-whole-life-been-a-sting.md, raw/power-to-the-people.md, raw/project-trump-card.md, raw/the-censorship-war-counteroffensive.md, raw/the-digital-services-act.md, raw/the-media-is-the-enemy-of-the-people.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-625.md, raw/badlands-brief-774.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-df8.md, raw/badlands-news-brief-f0e.md, raw/control-through-language.md, raw/has-trumps-whole-life-been-a-sting.md, raw/power-to-the-people.md, raw/project-trump-card.md, raw/the-censorship-war-counteroffensive.md, raw/the-digital-services-act.md, raw/the-media-is-the-enemy-of-the-people.md, raw/the-tiktok-ban.md, raw/unveiling-the-mar-a-lago-raid-1-year.md]
 confidence: low
 ---
 
@@ -127,3 +127,16 @@ Carlson acknowledged that Truth Social was at the time an echo chamber with limi
 Trump's all-capitals post "I HATE TAYLOR SWIFT!" on Truth Social, published shortly before the second assassination attempt against him in 2024, became the framing device for [[erik-carlson|Erik Carlson]]'s September 17, 2024 Badlands Media essay on media control.[18] Carlson read the post as deliberate misdirection aimed at the system behind [[taylor-swift|Taylor Swift]] rather than at the singer.[18]
 
 18. Badlands Brief — "The Media is the Enemy of the People", URL: https://badlands.substack.com/p/the-media-is-the-enemy-of-the-people
+19. Badlands Brief — "The TikTok Ban", URL: https://badlands.substack.com/p/the-tiktok-ban
+
+## Assessment as an echo chamber and a fallback platform (April 2024)
+
+In his April 2024 essay on the [[tiktok-ban|TikTok ban]], [[erik-carlson|Erik Carlson]] wrote that he was unsure how concerned the [[deep-state|Deep State]] was about Truth Social or about forcing [[donald-trump|Donald Trump]] to sell his interest in it, because the platform was not changing minds: its non-bot users were already Trump supporters.[19] He allowed that Truth Social remained a good place to obtain accurate information, and that users there were learning to distinguish RINOs and neoconservatives from genuine America First figures, but saw no evidence anyone was switching from voting for [[joe-biden|Joe Biden]] to voting for Trump because of it.[19]
+
+Carlson added that this calculus could change if other platforms were shut down, since people might be driven onto Truth Social for real news — at which point he expected a push to force Trump to distance himself from the company.[19] He grouped Truth Social with [[tiktok|TikTok]], [[telegram|Telegram]] and [[twitter|X]] as platforms that might be banned or forcibly sold in what he characterized as an attempt to impose an information blackout before the 2024 elections.[19]
+
+## Trump's response to the classified documents indictment
+
+Trump used Truth Social to answer the [[2023-trump-classified-documents-indictment|37-count classified documents indictment]], posting that he had "been indicted, seemingly over the Boxes Hoax" and declaring "I AM AN INNOCENT MAN!"[20] The post, quoted at length in [[alpha-warrior|Alpha Warrior]]'s August 2023 retrospective on the [[mar-a-lago-raid|Mar-a-Lago raid]], also asserted that he led all candidates of both parties in polling for the 2024 presidential election.[20]
+
+20. Badlands Brief — "Unveiling the Mar-a-Lago Raid – 1 Year Delta", URL: https://badlands.substack.com/p/unveiling-the-mar-a-lago-raid-1-year

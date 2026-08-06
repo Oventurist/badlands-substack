@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [climate, collectivism, sovereignty, esg]
-sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-brief-1c6.md, raw/badlands-news-brief-362.md, raw/death-to-dei.md, raw/energy-consolidation.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-brief-1c6.md, raw/badlands-news-brief-362.md, raw/death-to-dei.md, raw/energy-consolidation.md, raw/whos-the-u-boat-commander.md]
 confidence: low
 ---
 
@@ -42,3 +42,9 @@ Carlson offered the collapse of electric-vehicle and solar share prices under [[
 3. Badlands Brief — "Based Oklahoma, An African Ambush, & An Allegedly Big Beautiful Bill", URL: https://badlands.substack.com/p/badlands-news-brief-362
 4. Badlands Brief — "Death to DEI", URL: https://badlands.substack.com/p/death-to-dei
 5. Badlands Brief — "Energy Consolidation", URL: https://badlands.substack.com/p/energy-consolidation
+
+## Alleged link to the Epstein blackmail operation (January 2024)
+
+A January 2024 Badlands feature by [[erik-carlson|Erik Carlson]] argued that scientists were among the targets of the blackmail operation fronted by [[jeffrey-epstein|Jeffrey Epstein]], on the reasoning that controlling scientists means controlling science, and controlling science means controlling what Carlson calls the climate change hoax.[6] He asked whether it was coincidental that climate change went into high gear as a concept around the time he dates the beginning of the Epstein operation, and noted that its public face at the time was [[al-gore|Al Gore]], vice president to [[bill-clinton|Bill Clinton]] — both, in Carlson's account, allegedly connected to Epstein.[6]
+
+6. Badlands Brief — "Who's the U-Boat Commander?", URL: https://badlands.substack.com/p/whos-the-u-boat-commander

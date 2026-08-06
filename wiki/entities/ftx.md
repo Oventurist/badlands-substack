@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [crypto, fraud, finance, badlands-news-brief]
-sources: [raw/badlands-news-brief-252.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-b0f.md, raw/biden-inc-flips.md, raw/one-of-the-most-transformative-moments.md]
+sources: [raw/badlands-news-brief-252.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-b0f.md, raw/biden-inc-flips.md, raw/one-of-the-most-transformative-moments.md, raw/the-war-of-stories.md]
 confidence: medium
 ---
 
@@ -49,3 +49,9 @@ The article tied FTX to alleged election manipulation in 2020 through the financ
 Badlands Media's May 2023 feature on digital assets cited FTX and [[alameda-research|Alameda]] as having swindled an estimated $8 billion from investors, a scandal still being covered in the mainstream press at the time.[6] The article characterized that coverage as crafted narrative and mockingbird talking points, arguing that "authorities" pretend they will hold people accountable, nothing happens, and investors are then scolded about informed investing and personal responsibility.[6] It described [[sam-bankman-fried|Sam Bankman-Fried]] as a scapegoat while "the whales, shadow players, and broader networks escape unscathed," and grouped FTX with what it called large, government-sanctioned scams whose perpetrators have been getting away with it.[6]
 
 6. Badlands Brief — "One of the Most Transformative Moments in Money Since Jekyll Island", URL: https://badlands.substack.com/p/one-of-the-most-transformative-moments
+
+## Cited as an exposure of the System of Systems (December 2022)
+
+In "The War of Stories" (December 30, 2022), [[burning-bright|Burning Bright]] listed "the FTX money laundering scandal and its fallen crypto clown prince" among the exposures he took as evidence that the [[good-reset|'Good' Reset]] was in full swing — cases in which the [[system-of-systems|System of Systems]] is revealed through the public faces leading its hydra heads rather than through its core functions.[7]
+
+7. Badlands Brief — "The War of Stories", URL: https://badlands.substack.com/p/the-war-of-stories

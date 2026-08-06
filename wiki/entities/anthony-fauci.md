@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [covid, biolabs, public-health, censorship]
-sources: [raw/a-virus-or-a-metaphor.md, raw/anthony-fauci.md, raw/badlands-brief-414.md, raw/badlands-brief-67a.md, raw/badlands-brief-be1.md, raw/badlands-brief-d94.md, raw/badlands-brief-da2.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-238.md, raw/badlands-news-brief-276.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-8f0.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-b6c.md, raw/badlands-news-brief-bad.md, raw/badlands-news-brief-c9b.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-d32.md, raw/badlands-news-brief-da5.md, raw/badlands-news-brief-da3.md, raw/behold-a-trojan-horse.md, raw/reagan-20.md, raw/q-for-dummies-chapter-4.md, raw/soul-governance.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/anthony-fauci.md, raw/badlands-brief-414.md, raw/badlands-brief-67a.md, raw/badlands-brief-be1.md, raw/badlands-brief-d94.md, raw/badlands-brief-da2.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-238.md, raw/badlands-news-brief-276.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-8f0.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-b6c.md, raw/badlands-news-brief-bad.md, raw/badlands-news-brief-c9b.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-d32.md, raw/badlands-news-brief-da5.md, raw/badlands-news-brief-da3.md, raw/behold-a-trojan-horse.md, raw/reagan-20.md, raw/q-for-dummies-chapter-4.md, raw/soul-governance.md, raw/the-war-of-stories.md, raw/the-whos-last-stand.md, raw/the-wuhan-lab-leak-hoax.md, raw/triggering-mass-psychosis.md, raw/tucker-twitter-and-the-truth-community.md, raw/where-the-art-of-the-deal-meets-the.md, raw/you-are-a-horrible-person.md, raw/why-do-we-know-what-we-know.md]
 confidence: low
 ---
 
@@ -255,3 +255,60 @@ Chapter 4 of the [[q-for-dummies|Q for Dummies]] series uses Fauci as its worked
 Badlands contributor [[erik-carlson|Erik Carlson]] presented Fauci as the final and most striking commonality between [[ronald-reagan|Ronald Reagan]] and [[donald-trump|Donald Trump]].[33] The AIDS epidemic began in 1981, the same year Reagan became president, and Fauci was put in charge of researching, treating and eradicating the disease; Carlson argues that the treatment, specifically [[azt|AZT]] — a harsh chemotherapy drug pulled from the market in the 1960s for killing too many people — caused most of the deaths.[33] Roughly seven and a half months before the 2020 election, Carlson notes, the United States was locked down for Covid, and he again attributes most deaths to the treatments (Remdesivir and ventilators), later tainted vaccine batches, official demonization of cheap effective remedies, and the fear and anxiety created.[33] From this he asks whether Fauci was used twice to derail an America First president and remove a chief executive who was an enemy of the [[deep-state|Deep State]], adding that he does not recall Fauci being deployed to propagandize epidemics under presidents he regards as Deep State puppets.[33]
 
 33. Badlands Brief — "Reagan 2.0", URL: https://badlands.substack.com/p/reagan-20
+
+## The public face of institutional exposure (December 2022)
+
+In "The War of Stories" (December 30, 2022), [[burning-bright|Burning Bright]] presented Fauci as the human face through which several of the [[system-of-systems|System of Systems]]' "hydra heads" were being exposed: the evils of the pharmaceutical industry, corporate greed, the weaponization of biological research and the perils of government oversight.[34] He noted pointedly that many Americans had "unironically referred to" Fauci as a "Saint" for two years, and argued that such figures — the "sinners" of the system — are exposed not through the system's core functions but through the faces leading it, prompting readers to ask who injected those faces into the [[collective-mind|Collective Mind]], and why.[34]
+
+34. Badlands Brief — "The War of Stories", URL: https://badlands.substack.com/p/the-war-of-stories
+
+## Pandemic warnings cited in "The WHO's Last Stand"
+
+In August 2023, Badlands Media cited an April 2023 clip in which Fauci stated there would "absolutely" be an outbreak of another pandemic, presenting it as part of a coordinated pattern of warnings from figures who stood to gain from a new global health emergency, alongside [[tedros-adhanom-ghebreyesus|Tedros Adhanom Ghebreyesus]] and [[bill-gates|Bill Gates]].[35] The article argued that such statements served to condition the public ahead of the ratification of the [[who-pandemic-accord|WHO CA+]] and the amendments to the [[international-health-regulations|International Health Regulations]].[35]
+
+35. Badlands Brief — "The WHO's Last Stand", URL: https://badlands.substack.com/p/the-whos-last-stand
+
+## Role in the "Wuhan Lab Leak Hoax" critique (November 2025)
+
+[[matthew-ehret|Matthew Ehret's]] November 2025 essay "The Wuhan Lab Leak Hoax" states that the [[lab-leak-theory|Wuhan lab leak hypothesis]] began making headlines by February 2020 on the strength of evidence that Fauci had exported certain [[gain-of-function-research|gain-of-function]] coronavirus experiments from US bioweapons laboratories to the [[wuhan-institute-of-virology|Wuhan Institute of Virology]].[36]
+
+Ehret notes that scanned receipts documenting the transfer of funds from Fauci's [[national-institutes-of-health|NIH]] to coronavirus research in China via the [[ecohealth-alliance|EcoHealth Alliance]] — some $600,000 reaching Wuhan — had been publicly available since February 2021, and asks why the material was being pushed across the perception landscape four years later, most recently by [[steve-bannon|Steve Bannon]].[36] The [[white-house|White House]] "lab leak" fact page is described as focusing public attention on the crimes of the Chinese government in colluding with Fauci and using the [[world-health-organization|WHO]] to shut down western nations.[36]
+
+Ehret's argument is not that Fauci is innocent but that his corruption is being used as bait: the theory implicating both Fauci and [[bill-gates|Bill Gates]] simultaneously ties them to a Chinese government western audiences have been conditioned to fear, and thereby diverts scrutiny from the [[pentagon|Pentagon's]] global bioweapons complex.[36]
+
+36. Badlands Brief — "The Wuhan Lab Leak Hoax", URL: https://badlands.substack.com/p/the-wuhan-lab-leak-hoax
+
+## COVID priesthood framing (January 2023)
+
+[[justin-deschamps|Justin Deschamps]]'s January 20, 2023 essay on [[mass-psychosis]] listed Fauci with [[bill-gates|Bill Gates]] and [[tedros-adhanom-ghebreyesus|Tedros Adhanom Ghebreyesus]] as the "devout priesthood" of the authoritarianism exercised during COVID-19 through the [[world-health-organization|WHO]], the [[national-institutes-of-health|NIH]] and the [[centers-for-disease-control-and-prevention|CDC]].[37]
+
+In the essay's account, this priesthood articulated the authoritarian claim that those in power must know both the nature of the problem and the best solution, and that anyone obstructing them is an enemy of the party and a threat to the promised utopia.[37] Dissenting physicians and scientists who operated from knowledge were silenced, humiliated and in many cases stripped of medical licenses or research grants.[37]
+
+37. Badlands Brief — "Triggering Mass Psychosis", URL: https://badlands.substack.com/p/triggering-mass-psychosis
+38. Badlands Brief — "Tucker, Twitter, and the Truth Community", URL: https://badlands.substack.com/p/tucker-twitter-and-the-truth-community
+
+## Criticism by Robert F. Kennedy, Jr. (2023)
+
+In his August 2023 [[tucker-on-twitter|Tucker on Twitter]] interview, [[robert-f-kennedy-jr|Robert F. Kennedy, Jr.]] was particularly hard on Fauci alongside [[victoria-nuland|Victoria Nuland]], according to [[ashe-in-america|Ashe in America]], who described the nearly ninety-minute conversation as explosive and as a demolition of the neocon establishment's record of wartime deception.[38]
+
+## The "spotlight" thesis (Carlson, December 2024)
+
+In "Where the Art of the Deal Meets the Spotlight" (December 3, 2024), Badlands contributor [[erik-carlson|Erik Carlson]] opened his discussion of public exposure by asking how many people knew who Fauci was before the Covid pandemic.[39]
+
+Carlson argued that [[donald-trump|Trump]] deliberately rolled Fauci out early in the pandemic and placed him "front and center under the spotlight every day," and that a public which initially trusted his authority and expertise quickly began to see through him.[39] Within months, he wrote, many were calling for Fauci to be arrested for crimes against humanity — an outcome that in his view would not have occurred had Trump not kept him under daily public scrutiny.[39] Carlson extended the same logic to Trump's 2024 cabinet nominations, arguing that some picks existed to shine a spotlight on a person or an office so the public could judge whether either should survive.[39]
+
+39. Badlands Brief — "Where the Art of the Deal Meets the Spotlight", URL: https://badlands.substack.com/p/where-the-art-of-the-deal-meets-the
+
+## The promised "Fauci Files" (January 2023)
+
+In "You Are a Horrible Person" (January 4, 2023), [[erik-carlson|Erik Carlson]] wrote that [[elon-musk|Elon Musk]] had in the preceding weeks made clear his disdain for Fauci and had said he would release further [[twitter-files|Twitter Files]] exposing him that week.[40] The expected files, in Carlson's description, would show that Fauci and the people and organizations around him knew of the dangers of [[covid-19-vaccines|vaccines]], exaggerated the severity of [[covid-19-narrative|COVID]] in general, and chose to keep the American public from facts that would have greatly affected their decisions about both.[40]
+
+Carlson argued that if the [[twitter-files|Files]] could not be released, or if the public could not openly question vaccines because doing so was framed as insensitive in the wake of [[damar-hamlin|Damar Hamlin]]'s cardiac arrest, the beneficiaries would be Fauci, the makers and distributors of the vaccines, and those who promoted them.[40] He predicted a further narrative turn in which merely reading or accepting the Fauci Files would mark a person as a horrible human being.[40]
+
+40. Badlands Brief — "You Are a Horrible Person", URL: https://badlands.substack.com/p/you-are-a-horrible-person
+
+## As a designated scapegoat (Carlson, May 2023)
+
+In "Why Do We Know What We Know?" [[erik-carlson|Erik Carlson]] wrote that "there is a reason China and Fauci are being thrown under the bus for COVID," treating the pair as sacrificial figures offered to the public in place of the wider [[deep-state|Deep State cabal]].[41] On his account the elite cabal is content to surrender Fauci and China over Covid if doing so protects the vast majority of its members, because it understands that some occasionally have to be sacrificed for the rest.[41] Carlson placed the episode alongside the imprisonment of [[ghislaine-maxwell|Ghislaine Maxwell]] as evidence that the truly dangerous disclosures — elite pedophilia and the release of a bioweapon in 2020 — remain protected.[41]
+
+41. Badlands Brief — "Why Do We Know What We Know?", URL: https://badlands.substack.com/p/why-do-we-know-what-we-know

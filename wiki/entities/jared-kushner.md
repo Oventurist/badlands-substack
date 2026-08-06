@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [trump-administration, cbdc, crypto, white-house]
-sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-169.md, raw/badlands-brief-7c6.md, raw/badlands-brief-8db.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-623.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-e8f.md, raw/q-for-dummies-chapter-9.md, raw/setting-the-stage.md, raw/the-master-builder.md]
+sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-169.md, raw/badlands-brief-7c6.md, raw/badlands-brief-8db.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-623.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-e8f.md, raw/q-for-dummies-chapter-9.md, raw/setting-the-stage.md, raw/the-master-builder.md, raw/the-transition-integrity-project.md, raw/trump-takes-out-the-king.md, raw/trump-cuts-the-head-off-the-snake.md]
 confidence: medium
 ---
 
@@ -91,6 +91,52 @@ On Tuesday, December 2, 2025, Kushner — described as President [[donald-trump|
 
 Trump's son-in-law was expected to join special envoy [[steve-witkoff|Steve Witkoff]] in representing the United States at talks with Russian officials in Miami in mid-December 2025, part of the administration's push to end nearly four years of war between Kyiv and Moscow.[15] The Russian delegation was expected to include sovereign wealth fund head [[kirill-dmitriev|Kirill Dmitriev]], and both sides' plans remained in flux as Moscow held to its demands.[15]
 
+## Intervention for Mohammed Ibrahim (2025)
+
+In late 2025, [[israel|Israel]] agreed to release [[mohammed-ibrahim|Mohammed Ibrahim]], a Palestinian-American teenager detained for over nine months, after Kushner intervened on the boy's behalf, according to a U.S. official and a second source cited by [[times-of-israel|The Times of Israel]].[16] Ibrahim, a Florida resident, had been held under [[administrative-detention|administrative detention]] without charge since February over allegations he threw stones at Israeli troops in the West Bank; his family lobbied U.S. lawmakers, and the case eventually reached Kushner, who contacted senior Israeli officials demanding his release.[16] Washington took particular issue with a U.S. citizen being held without charge by an allied country.[16] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote that Kushner "seems like a good man who takes a lot of flak from various segments of the MAGA coalition," and that the episode — likely a favor requested by Palestinian President Mahmoud Abbas — showed both his clout among Israelis and his willingness to use it for good.[16] Kushner was also named as a contributor, alongside Steve Witkoff and Marco Rubio, to Trump's 28-point Ukraine peace plan.[16]
+
+16. Badlands News Brief — "Turkish Delight, Somali Expansion, & The Racist History of Jingle Bells", URL: https://badlands.substack.com/p/badlands-news-brief-e8f
+
+## The 2017 Saudi trip in Q commentary
+
+Chapter 9 of the Badlands series [[q-for-dummies|Q for Dummies]] revisits Q drop #67's question about why Kushner had recently travelled to [[saudi-arabia|Saudi Arabia]], and reports that he made an unannounced trip there accompanied by the Deputy National Security Advisor and the Middle East Envoy just days before what the chapter calls the crumbling of the Saudi royal kingdom.[17] The author treats the timing as pointed rather than incidental, remarking sardonically that he is "sure it's nothing."[17]
+
+The chapter further states that Kushner and [[mohammed-bin-salman|Mohammed bin Salman]] are fairly close, and that bin Salman was the figure who ultimately ordered the [[saudi-purge|purge]] that entangled prominent and long-entrenched figures within the Saudi government and royal family.[17]
+
+
+## Contacts with Sergey Kislyak and the Russia back channel
+
+In "Setting the Stage," Joe Lange examines reporting by The Independent that Kushner had at least three previously undisclosed contacts with Russian ambassador [[sergey-kislyak|Sergey Kislyak]] during and after the 2016 campaign, including two phone calls between April and November of that year, and that he had become a focus of the FBI's collusion inquiry after investigators began scrutinising [[michael-flynn|Michael Flynn]]'s Russian contacts.[18] Crucially, the same reporting stated that Kushner was not a target of the investigation — a detail Lange stresses as evidence that [[james-comey|Comey]]'s FBI had nothing on either man despite extensive surveillance.[18]
+
+Before the election, Kislyak's undisclosed discussions with Kushner and Flynn reportedly focused on counterterrorism and improving U.S.–Russian economic relations; after the November 8 election, the two discussed with Kislyak creating a back channel between [[donald-trump|Trump]] and [[vladimir-putin|Vladimir Putin]] that would bypass diplomats and intelligence agencies.[18] Lange treats this as evidence of a [[sovereign-alliance|sovereign alliance]] against the cabal and its personnel in the State Department and intelligence community, and compares it to Kushner's earlier back channel with Chinese President Xi Jinping, which he argues allowed both leaders to circumvent the deep state in their own countries.[18]
+
+On this reading the leak of Kushner's Kislyak communications to the press was not counterintelligence but an attempt to shut the channel down, and Lange raises the possibility that Kushner or Trump himself asked Kislyak to call Flynn about the new Obama sanctions in order to bait the trap that forced Comey to move.[18] Lange describes Kushner as Trump's most trusted aide, routinely tasked with important work behind the scenes.[18]
+
+
+## The Xi back channel and the Abraham Accords (Lange, 2023)
+
+In "The Master Builder" (February 2, 2023), [[joe-lange|Joe Lange]] presented Kushner as the private channel through which Beijing chose to communicate with [[donald-trump|Donald Trump]], citing NPR reporting that ambassador [[cui-tiankai|Cui Tiankai]] said China had to "find a channel through which to communicate with Trump" and found one in Trump's son-in-law, who helped arrange the April 2017 summit between [[xi-jinping|Xi Jinping]] and Trump at [[mar-a-lago|Mar-a-Lago]].[19] Lange stressed that Mar-a-Lago is outfitted with a [[sensitive-compartmented-information-facility|SCIF]], allowing the two leaders to speak in private and, in his reading, beyond the reach of the [[deep-state|Deep State]].[19]
+
+The article treats concealed effectiveness as the defining pattern of Kushner's career, noting that his role running the 2016 campaign only became public after the election.[19] It quotes Forbes reporting in which Peter Thiel said that "if Trump was the CEO, Jared was effectively the chief operating officer," and Eric Schmidt, the former Google chief executive who helped design the Clinton campaign's technology system, called Kushner "the biggest surprise of the 2016 election" and said that as best he could tell Kushner "actually ran the campaign and did it with essentially no resources."[19] Forbes credited Kushner with running the campaign's secret data operation like a Silicon Valley startup and tipping the states that decided the election.[19]
+
+Lange extends the same pattern to the [[abraham-accords|Abraham Accords]], which Kushner spearheaded and which surprised the world when announced.[19] Quoting [[aryeh-lightstone|Aryeh Lightstone]] in Newsweek, the article notes that there were no public negotiations and no strategic leaks; everyone involved held a high-level security clearance so that discretion was mandatory, and the participants preferred that discretion to selective leaking — a factor Lightstone considered crucial to success.[19] Kushner was subsequently nominated for a Nobel Peace Prize for his role as negotiator.[19]
+
+19. Badlands Media — "The Master Builder", URL: https://badlands.substack.com/p/the-master-builder
+
+## Transition Integrity Project prediction
+
+The [[transition-integrity-project|Transition Integrity Project]]'s 2020 war games predicted that if [[donald-trump|Donald Trump]] conceded electoral defeat, he would — before leaving office — launch a venture called "MAGA TV" from the White House, possibly headed by his son-in-law Kushner.[20] The same scenario had Trump maximising the flow of federal money into Trump businesses, negotiating business deals with foreign countries, and purging documents that might incriminate foreign governments and business partners.[20]
+
+
+
+## Middle East policy and the 2017 Saudi realignment
+
+[[joe-lange|Joe Lange]]'s article "Trump Takes Out the King" places Kushner at the center of the Trump administration's early Middle East strategy.[21] Quoting the [[new-yorker|New Yorker]], it records that a few days after the inauguration Kushner sat down to decide how to reshape the region, and that [[steve-bannon|Steve Bannon]] described the plan as annihilating the physical caliphate of [[isis|ISIS]] in Iraq and Syria — "not attrition, annihilation" — rolling back the Persians, and forcing the Gulf states to stop funding radical Islam.[21] Bannon called the Middle East initiative one of the few points of agreement in an otherwise fractious White House.[21] Kushner, Trump's son-in-law, was put in charge of policy for the region.[21]
+
+In a White House conference room with National Security Council aides, Kushner's team concluded that the northern tier of the region had been lost to [[iran|Iran]] — Hezbollah controlling Lebanon's government, Tehran propping up Bashar al-Assad in Syria, and Baghdad under Iranian sway — and that the American anchors would instead be Israel and [[saudi-arabia|Saudi Arabia]].[21] This meant reversing [[barack-obama|Barack Obama]]'s attempt to balance Riyadh against Tehran, and above all forming a new alliance with deputy crown prince [[mohammed-bin-salman|Mohammed bin Salman]].[21] Kushner and M.B.S. began a relationship by telephone and e-mail and became close very quickly, a former American official telling the New Yorker they "see themselves as being in the tech-savvy money world"; Kushner followed up with the first of three visits to [[riyadh|Riyadh]], where the two men stayed up nearly until dawn discussing the future of their countries.[21]
+
+Kushner championed the [[arab-islamic-american-summit|Arab Islamic American Summit]] of May 21, 2017 over the objections of the State Department, the Defense Department and the Treasury, telling colleagues that the United States would not know whether the Saudis would deliver unless it tested them.[21] Lange also notes that Kushner traveled to Saudi Arabia just days before the November 2017 mass arrests — a trip that drew little attention at the time — having been tasked by Trump with spearheading the change in the Kingdom, and links the visit to Q post #67 of November 3, 2017.[21]
+
 ## References
 1. Badlands Brief — "Are CBDCs The Path To Fear, or Freedom?", URL: https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom
 2. Badlands Brief — "Condemnation, Calibration, & Constitutional Boxes", URL: https://badlands.substack.com/p/badlands-brief-169
@@ -107,37 +153,13 @@ Trump's son-in-law was expected to join special envoy [[steve-witkoff|Steve Witk
 13. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
 14. Badlands Brief — "Bogus Visas, Brazilian Sanctions, and Foreign Boat Battles", URL: https://badlands.substack.com/p/badlands-news-brief-bd7
 15. Badlands Brief — "A Christmas Bonus, War “With” Venezuela, & Prime Time Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-cad
-
-## Intervention for Mohammed Ibrahim (2025)
-
-In late 2025, [[israel|Israel]] agreed to release [[mohammed-ibrahim|Mohammed Ibrahim]], a Palestinian-American teenager detained for over nine months, after Kushner intervened on the boy's behalf, according to a U.S. official and a second source cited by [[times-of-israel|The Times of Israel]].[16] Ibrahim, a Florida resident, had been held under [[administrative-detention|administrative detention]] without charge since February over allegations he threw stones at Israeli troops in the West Bank; his family lobbied U.S. lawmakers, and the case eventually reached Kushner, who contacted senior Israeli officials demanding his release.[16] Washington took particular issue with a U.S. citizen being held without charge by an allied country.[16] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote that Kushner "seems like a good man who takes a lot of flak from various segments of the MAGA coalition," and that the episode — likely a favor requested by Palestinian President Mahmoud Abbas — showed both his clout among Israelis and his willingness to use it for good.[16] Kushner was also named as a contributor, alongside Steve Witkoff and Marco Rubio, to Trump's 28-point Ukraine peace plan.[16]
-
-16. Badlands News Brief — "Turkish Delight, Somali Expansion, & The Racist History of Jingle Bells", URL: https://badlands.substack.com/p/badlands-news-brief-e8f
-
-## The 2017 Saudi trip in Q commentary
-
-Chapter 9 of the Badlands series [[q-for-dummies|Q for Dummies]] revisits Q drop #67's question about why Kushner had recently travelled to [[saudi-arabia|Saudi Arabia]], and reports that he made an unannounced trip there accompanied by the Deputy National Security Advisor and the Middle East Envoy just days before what the chapter calls the crumbling of the Saudi royal kingdom.[17] The author treats the timing as pointed rather than incidental, remarking sardonically that he is "sure it's nothing."[17]
-
-The chapter further states that Kushner and [[mohammed-bin-salman|Mohammed bin Salman]] are fairly close, and that bin Salman was the figure who ultimately ordered the [[saudi-purge|purge]] that entangled prominent and long-entrenched figures within the Saudi government and royal family.[17]
-
 17. Badlands Brief — "Q for Dummies - Chapter 9", URL: https://badlands.substack.com/p/q-for-dummies-chapter-9
-
-## Contacts with Sergey Kislyak and the Russia back channel
-
-In "Setting the Stage," Joe Lange examines reporting by The Independent that Kushner had at least three previously undisclosed contacts with Russian ambassador [[sergey-kislyak|Sergey Kislyak]] during and after the 2016 campaign, including two phone calls between April and November of that year, and that he had become a focus of the FBI's collusion inquiry after investigators began scrutinising [[michael-flynn|Michael Flynn]]'s Russian contacts.[18] Crucially, the same reporting stated that Kushner was not a target of the investigation — a detail Lange stresses as evidence that [[james-comey|Comey]]'s FBI had nothing on either man despite extensive surveillance.[18]
-
-Before the election, Kislyak's undisclosed discussions with Kushner and Flynn reportedly focused on counterterrorism and improving U.S.–Russian economic relations; after the November 8 election, the two discussed with Kislyak creating a back channel between [[donald-trump|Trump]] and [[vladimir-putin|Vladimir Putin]] that would bypass diplomats and intelligence agencies.[18] Lange treats this as evidence of a [[sovereign-alliance|sovereign alliance]] against the cabal and its personnel in the State Department and intelligence community, and compares it to Kushner's earlier back channel with Chinese President Xi Jinping, which he argues allowed both leaders to circumvent the deep state in their own countries.[18]
-
-On this reading the leak of Kushner's Kislyak communications to the press was not counterintelligence but an attempt to shut the channel down, and Lange raises the possibility that Kushner or Trump himself asked Kislyak to call Flynn about the new Obama sanctions in order to bait the trap that forced Comey to move.[18] Lange describes Kushner as Trump's most trusted aide, routinely tasked with important work behind the scenes.[18]
-
 18. Badlands Brief — "Setting the Stage", URL: https://badlands.substack.com/p/setting-the-stage
+20. Badlands Brief — "The Transition Integrity Project", URL: https://badlands.substack.com/p/the-transition-integrity-project
+21. Badlands Brief — "Trump Takes Out the King", URL: https://badlands.substack.com/p/trump-takes-out-the-king
 
-## The Xi back channel and the Abraham Accords (Lange, 2023)
+## Middle East planning
 
-In "The Master Builder" (February 2, 2023), [[joe-lange|Joe Lange]] presented Kushner as the private channel through which Beijing chose to communicate with [[donald-trump|Donald Trump]], citing NPR reporting that ambassador [[cui-tiankai|Cui Tiankai]] said China had to "find a channel through which to communicate with Trump" and found one in Trump's son-in-law, who helped arrange the April 2017 summit between [[xi-jinping|Xi Jinping]] and Trump at [[mar-a-lago|Mar-a-Lago]].[19] Lange stressed that Mar-a-Lago is outfitted with a [[sensitive-compartmented-information-facility|SCIF]], allowing the two leaders to speak in private and, in his reading, beyond the reach of the [[deep-state|Deep State]].[19]
+Joe Lange writes that from the first day of the administration, [[donald-trump|Trump]] and Kushner began planning the transformation of the Middle East, a campaign Lange traces through the [[saudi-purge|November 2017 Saudi purge]] and the [[assassination-of-qasem-soleimani|January 2020 killing of Qasem Soleimani]] to the [[2023-china-brokered-saudi-iran-normalization|China-brokered Saudi-Iran normalization]] of March 2023.[22]
 
-The article treats concealed effectiveness as the defining pattern of Kushner's career, noting that his role running the 2016 campaign only became public after the election.[19] It quotes Forbes reporting in which Peter Thiel said that "if Trump was the CEO, Jared was effectively the chief operating officer," and Eric Schmidt, the former Google chief executive who helped design the Clinton campaign's technology system, called Kushner "the biggest surprise of the 2016 election" and said that as best he could tell Kushner "actually ran the campaign and did it with essentially no resources."[19] Forbes credited Kushner with running the campaign's secret data operation like a Silicon Valley startup and tipping the states that decided the election.[19]
-
-Lange extends the same pattern to the [[abraham-accords|Abraham Accords]], which Kushner spearheaded and which surprised the world when announced.[19] Quoting [[aryeh-lightstone|Aryeh Lightstone]] in Newsweek, the article notes that there were no public negotiations and no strategic leaks; everyone involved held a high-level security clearance so that discretion was mandatory, and the participants preferred that discretion to selective leaking — a factor Lightstone considered crucial to success.[19] Kushner was subsequently nominated for a Nobel Peace Prize for his role as negotiator.[19]
-
-19. Badlands Media — "The Master Builder", URL: https://badlands.substack.com/p/the-master-builder
+22. Badlands Brief — "Trump Cuts the Head off the Snake", URL: https://badlands.substack.com/p/trump-cuts-the-head-off-the-snake

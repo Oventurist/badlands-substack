@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [retail, corporations, tariffs, trade]
-sources: [raw/badlands-news-brief-065.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-8f1.md, raw/badlands-news-brief-d50.md]
+sources: [raw/badlands-news-brief-065.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-8f1.md, raw/badlands-news-brief-d50.md, raw/the-stock-market-isnt-the-economy.md]
 confidence: medium
 ---
 
@@ -37,3 +37,9 @@ Walmart's retreat from [[diversity-equity-and-inclusion|DEI]] followed a broader
 2. Badlands Brief — "Badlands News Brief: Globalists Threaten Their Own as Bidenomics Reigns", URL: https://badlands.substack.com/p/badlands-news-brief-677
 3. Badlands News Brief — "Dictators, Sovereigns and Bipartisan Peace", URL: https://badlands.substack.com/p/badlands-news-brief-8f1
 4. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50
+
+## Lockdown "essential retailer" advantage
+
+In a February 2023 Badlands Media commentary, [[erik-carlson|Erik Carlson]] listed Walmart with [[target|Target]] and [[costco|Costco]] as big corporate chains that could remain open during the [[covid-19-lockdowns|COVID lockdowns]] because they sold groceries, while most purely retail stores were shut.[5] Carlson noted that a customer barred from a small sporting goods store could still buy a basketball at Walmart, illustrating how the publicly traded 0.1% of American firms absorbed sales from the 99.9% that are [[small-business-in-the-united-states|small businesses]].[5]
+
+5. Badlands Brief — "The Stock Market Isn't the Economy", URL: https://badlands.substack.com/p/the-stock-market-isnt-the-economy

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [pediatrics, united-kingdom, nhs, gender-medicine]
-sources: [raw/badlands-news-brief-0d4.md, raw/badlands-news-brief-808.md]
+sources: [raw/badlands-news-brief-0d4.md, raw/badlands-news-brief-808.md, raw/these-3-events-expose-gender-ideology.md]
 confidence: medium
 ---
 
@@ -24,3 +24,9 @@ Coverage of the review's April 2024 release described Cass as a British pediatri
 
 1. Badlands Brief — "Badlands News Brief: Kangaroo Courts and Administrative Pedophiles", URL: https://badlands.substack.com/p/badlands-news-brief-0d4
 2. Badlands News Brief — "Iranian Walk-backs, Trump Trials & Trans Truths", URL: https://badlands.substack.com/p/badlands-news-brief-808
+
+## Review of the Tavistock gender clinic
+
+Badlands contributor [[simon-esler|Simon Esler]] wrote that when Dr. Hilary Cass carried out a review of the practices of the United Kingdom's largest children's gender clinic, the result was the clinic's closure.[3] The clinic maintained that its Gender Identity Development Service was closing only because the review recommended a regional model rather than a single national service, but Esler argued the ensuing changes to [[nhs|NHS]] protocols indicated genuine safety concerns.[3] He emphasised that the [[cass-review|Cass Review]]'s interim report defined the "affirmative model" as "a model of gender healthcare that originated in the USA," identifying the United Kingdom's adoption of the American approach as the underlying problem.[3]
+
+3. Badlands Brief — "These 3 Events Expose Gender Ideology", URL: https://badlands.substack.com/p/these-3-events-expose-gender-ideology

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [israel, gaza-war, congress, 2024, protests]
-sources: [raw/badlands-news-brief-bcc.md]
+sources: [raw/badlands-news-brief-bcc.md, raw/who-controls-whom.md]
 confidence: medium
 ---
 
@@ -28,6 +28,13 @@ The Badlands analysis held that Netanyahu had effectively called for war with Ir
 
 Thousands of Palestinian supporters and critics of the Israel–Gaza war descended on Washington before and during the address, marching around the city and drawing a massive police response.[1] Most demonstrators were peaceful, but there were clashes with law enforcement: D.C. police and Capitol Police arrested fifteen people in total and the U.S. Park Police arrested eight more.[1] Outside Union Station protesters set an American flag ablaze along with an effigy of Netanyahu, and spray-painted the Christopher Columbus fountain and an adjacent Liberty Bell reproduction with messages including "Free Gaza," "All zionists are bastards" and "Free Palestine."[1] Police struck some demonstrators with a chemical irritant at multiple points during the day.[1] Badlands urged readers to observe and distill rather than react, warning that powerful forces sought to exploit the moment to foment division and to psyop the public into supporting another foreign war, and that division — civil war — was "the enemy's only remaining play."[1]
 
+## Attendance boycott and the "who controls whom" reading
+
+Reporting cited by Badlands contributor [[erik-carlson|Erik Carlson]] recorded that roughly 100 members of the House and 28 senators skipped the speech, according to Axios, while his office counted 44 standing ovations from those who did attend.[2] [[kamala-harris|Kamala Harris]] managed to be out of town for the event, which would otherwise have placed her directly behind [[benjamin-netanyahu|Netanyahu]], presiding over the joint session as vice president while he tacitly chided the administration for slow-walking weapons deliveries to Israel.[2] Former House speaker [[nancy-pelosi|Nancy Pelosi]] called the address "by far the worst presentation of any foreign dignitary invited and honored with the privilege of addressing the Congress of the United States."[2] The speech nonetheless played well in Israel, where even opposition party chief [[benny-gantz|Benny Gantz]] praised the performance and said Netanyahu had represented the country well.[2]
+
+Carlson used the split reception as a counterargument to the claim that Israel controls the whole of the U.S. government: Harris seemed comfortable disrespecting Netanyahu, Pelosi outright insulted him, and the mass absence of legislators was itself a snub.[2] He read the division within [[congress|Congress]] and the [[us-senate|Senate]] as evidence not of a party-line dispute but of competing factional loyalties, raising the question of whether the ovation-givers or the absentees answer to the [[israeli-deep-state|Israeli Deep State]].[2]
+
 ## References
 
 1. Badlands Brief — "BiBi Goes to DC, Wray Responds & Biden Concedes", URL: https://badlands.substack.com/p/badlands-news-brief-bcc
+2. Badlands Brief — "Who Controls Whom?", URL: https://badlands.substack.com/p/who-controls-whom

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [minnesota, national-guard, immigration, ice]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-144.md, raw/badlands-brief-577.md, raw/badlands-brief-db7.md, raw/badlands-brief-e8d.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-69d.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-ac8.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-ca1.md, raw/badlands-news-brief-ccd.md, raw/badlands-news-brief-e8f.md, raw/stay-focused-on-the-big-picture.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-144.md, raw/badlands-brief-577.md, raw/badlands-brief-db7.md, raw/badlands-brief-e8d.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-69d.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-ac8.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-ca1.md, raw/badlands-news-brief-ccd.md, raw/badlands-news-brief-e8f.md, raw/stay-focused-on-the-big-picture.md, raw/the-multinational-offensive-against.md, raw/three-possible-election-outcomes.md]
 confidence: medium
 ---
 
@@ -160,3 +160,17 @@ In an October 15, 2024 Badlands feature, [[erik-carlson|Erik Carlson]] wrote tha
 Carlson also addressed the abuse rumors then circulating about Walz, stressing that the claims were unproven and should be treated as such while arguing that even the narrative alone damages a campaign, and suggesting that fake accusers were being seeded so that genuine ones could later be dismissed as election interference by the Trump team.[21] He acknowledged that his own reaction to the pick was based on "vibes" and proved nothing.[21] In the article's conclusion, Carlson argued that Walz and [[kamala-harris|Kamala Harris]] matter only insofar as they stand in the way of Trump returning to power.[21]
 
 21. Badlands Brief — "Stay Focused on the Big Picture", URL: https://badlands.substack.com/p/stay-focused-on-the-big-picture
+
+## Speech restrictions advocacy (2024)
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] singled out Tim Walz as an exemplar of what he saw as the modern Democratic Party's pursuit of political censorship, noting Walz's use of the "threat to democracy" framing during the [[2024-vice-presidential-debate|2024 vice presidential debate]] and his immediate resort to the "yelling fire in a crowded theatre" trope after a rebuttal from [[jd-vance|J.D. Vance]].[22] DeLarme countered that the trope has nothing to do with political expression and derives from [[schenck-v-united-states|Schenck v. United States]], a case rooted in the prosecution of people circulating leaflets against the World War One draft and now widely regarded as bad law.[22]
+
+He also cited Walz's earlier appearance on [[msnbc|MSNBC]] with [[joy-reid|Joy Reid]], where Walz said: "I think we need to push back on this. There's no guarantee of free speech on misinformation or hate speech and especially around our democracy."[22] DeLarme called the statement completely false and argued that if hate speech or misinformation were illegal, reporters covering the [[hunter-biden-laptop|Hunter Biden laptop]] story in 2020 could have been charged, as could anyone questioning social distancing, child masking, or the lab-origin hypothesis for COVID-19 — all once labeled misinformation and later treated as acceptable.[22] He added that there is no [[first-amendment|First Amendment]] exception for [[hate-speech|hate speech]] and no universally agreed protocol for defining it, making the category a tool for stamping out dissent.[22]
+
+22. Badlands Brief — "The Multinational Offensive Against Free Speech Online", URL: https://badlands.substack.com/p/the-multinational-offensive-against
+
+## CCP control allegation (Carlson, October 2024)
+
+In his October 10, 2024 essay "Three Possible Election Outcomes," [[erik-carlson|Erik Carlson]] asserted flatly that both [[black-lives-matter|BLM]] and Walz are controlled by the [[chinese-communist-party|CCP]].[23] He dated the relationship to Walz's first trip to China in 1989 and described him as having been "strangely connected to them ever since."[23] Carlson further claimed that the CCP decided to unleash the [[2020-george-floyd-riots|2020 George Floyd riots]] in Minneapolis, Minnesota — the state in which Walz was then governor — and recounted that Walz's wife spoke of opening the windows of their house during the riots so that she could smell the burning of tires.[23] He argued that Walz was placed on the [[kamala-harris|Harris]] ticket after "CCP puppet" [[joe-biden|Biden]] was forced to step down, in order to replace some of the control the CCP lost with Biden's removal.[23]
+
+23. Badlands Brief — "Three Possible Election Outcomes", URL: https://badlands.substack.com/p/three-possible-election-outcomes

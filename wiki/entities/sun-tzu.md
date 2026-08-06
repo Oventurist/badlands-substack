@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military-strategy, history, deception]
-sources: [raw/kekistani-code-talkers.md, raw/on-golden-bridges-and-the-art-of.md, raw/q-for-dummies-chapter-13.md]
+sources: [raw/kekistani-code-talkers.md, raw/on-golden-bridges-and-the-art-of.md, raw/q-for-dummies-chapter-13.md, raw/understanding-the-art-of-war-part.md]
 confidence: high
 ---
 
@@ -28,3 +28,11 @@ Sun Tzu's *Art of War* also supplied the organising metaphor for the January 28,
 The Badlands Media "Q For Dummies" series invoked Sun Tzu and The Art of War while explaining Q's Drop #97 request that readers define [[game-theory-strategy|game theory]], naming both [[donald-trump|President Trump]] and [[michael-flynn|General Michael Flynn]] as proponents of the text.[3] Two maxims were quoted: "Let your plans be dark and impenetrable as night, and when you move — fall like a thunderbolt," and "Appear weak when strong."[3] The author used them to argue that direct confrontation with the [[deep-state|deep state]] would fail and that deception, patience, and exploitation of an adversary's ego are the viable path — the same logic he applied to the Second World War [[ghost-army|Ghost Army]] and to modern psychological operations.[3]
 
 3. Badlands Brief — "Q For Dummies - Chapter 13", URL: https://badlands.substack.com/p/q-for-dummies-chapter-13
+
+## Biography and the "Understanding the Art of War" series
+
+A February 13, 2023 Badlands Media article by [[absolutetruth1776|AbsoluteTruth1776]], the first installment of a planned thirteen-part series taking one chapter of [[the-art-of-war|*The Art Of War*]] at a time, describes Sun Tzu as a Chinese military general, philosopher, strategist and writer who lived from 544 to 496 BC during the Eastern Zhou period, and whose vision for the battlefield the author calls unmatched by almost any military leader in ancient or modern history.[4] The article states that *The Art Of War* has been hailed by military leaders and scholars throughout history, is widely accepted as a masterpiece on strategy, and is still cited as an influence by many of the world's most successful people, including [[donald-trump|Donald J. Trump]].[4]
+
+The series treats Sun Tzu's Chapter 1, "Laying Plans," as the foundation of his system: the art of war is of vital importance to the State, a matter of life and death and a road either to safety or to ruin, and is governed by five constant factors — the Moral Law, Heaven, Earth, the Commander, and Method and Discipline.[4] Later commentators are quoted alongside him, including Wang Tzu on the necessity of constant practice and on the good tactician who "plays with his adversary as a cat plays with a mouse," Wang Hsi on the "general economy of Heaven," and Chang Yu's warning against pinning one's faith to abstract principles rather than being guided by the actions of the enemy.[4] The author treats the maxim "all warfare is based on deception" as the most simple, direct and accurate passage in the entire manual.[4]
+
+4. Badlands Brief — "Understanding the Art of War - Part 1", URL: https://badlands.substack.com/p/understanding-the-art-of-war-part

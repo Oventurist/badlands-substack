@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [badlands-media, consciousness, coherence, healing, observing-consciousness]
-sources: [raw/the-emergence.md]
+sources: [raw/the-emergence.md, raw/the-remembering.md]
 confidence: low
 ---
 
@@ -26,6 +26,11 @@ Coherence in the essay is contagious as well as personal. [[shamini-jain|Shamini
 
 Crucially, the essay maintains that coherence does not mean the absence of disturbance. Doubt still "whispers through your nervous system," but the practitioner pauses, feels, and recalibrates rather than fleeing — "coherence doesn't mean you never feel chaos again, it means you know how to stay steady in its presence."[1] Nor does it mean uniformity: "coherence doesn't mean sameness—it means harmony," a shared song "sung in millions of unique tones."[1]
 
+## Coherence in "The Remembering"
+
+The same formulation appears in the earlier April 19, 2025 feature "The Remembering: Fractured Selves and the Path Beyond Ego," where the author writes that "coherence is not sameness. It is synchronized diversity, a harmony made from difference."[2] There coherence is the endpoint of [[psychological-integration|integration]]: the inner mosaic "becomes radiant" not because all parts are alike but "because they have learned to sing in harmony."[2] Quoting [[gabor-mate|Gabor Maté]] that "safety is not the absence of threat, but the presence of connection," the essay describes inner coherence as an unshakeable felt connection to the self in which a person becomes "your own safe haven."[2]
+
 ## References
 
 1. Badlands Media — "The Emergence", URL: https://badlands.substack.com/p/the-emergence
+2. Badlands Brief — "The Remembering: Fractured Selves and the Path Beyond Ego", URL: https://badlands.substack.com/p/the-remembering

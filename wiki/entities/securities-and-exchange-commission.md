@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [regulator, sec, trump-media, dwac]
-sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-d73.md, raw/badlands-news-brief-e79.md, raw/badlands-news-brief-f94.md, raw/control-through-language.md, raw/did-israel-possess-foreknowledge.md, raw/is-jamie-dimon-directing-the-priorities.md, raw/no-honor-among-thieves.md, raw/one-of-the-most-transformative-moments.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-d73.md, raw/badlands-news-brief-e79.md, raw/badlands-news-brief-f94.md, raw/control-through-language.md, raw/did-israel-possess-foreknowledge.md, raw/is-jamie-dimon-directing-the-priorities.md, raw/no-honor-among-thieves.md, raw/one-of-the-most-transformative-moments.md, raw/us-elections-must-be-independent.md, raw/wilted-ivy.md, raw/why-america-needs-to-break-wall-streets.md]
 confidence: low
 ---
 
@@ -119,3 +119,25 @@ Badlands contributor [[erik-carlson|Erik Carlson]] argued in May 2024 that the S
 Badlands Media's May 2023 examination of cryptocurrency fraud invoked the SEC's enforcement framework, noting that in financial services deliberately misleading investors violates [[securities-exchange-act-of-1934|Section 10(b) of the Securities Exchange Act of 1934]] and citing the commission's statement that "victims in these cases have the right to recover their investment losses they suffered as a result of the fraud."[18] The article applied that standard to the [[saitama-token|Saitama Token]] affair, in which developers advertised a [[fair-launch|fair launch]] while reserving undisclosed team tokens, and observed that as of publication no accountability or recovery had followed.[18] It also framed reliance on the SEC as a dilemma for the [[decentralized-finance|DeFi]] community, since enforcement necessarily means government intervention in a sector premised on decentralization.[18]
 
 18. Badlands Brief — "One of the Most Transformative Moments in Money Since Jekyll Island", URL: https://badlands.substack.com/p/one-of-the-most-transformative-moments
+
+## The SEC audit regime as a model for elections
+
+Badlands contributor [[ashe-in-america|Ashe in America]], who worked from October 2003 to March 2017 for a Big Four SEC audit firm, used the SEC audit world as the benchmark in her essay "US Elections Must Be Independent."[19] She noted that the government's independence requirement applied to every employee of an SEC audit firm, not only to auditors, because public trust demands that the institution be above reproach given its immense power over capital markets.[19] Employees underwent annual independence training and examination — including modules on bribery, anti-trust and money laundering in countries the State Department regards as corrupt — and signed a yearly attestation not to violate independence in fact or appearance as a condition of employment.[19]
+
+SEC auditors are governed by the [[public-company-accounting-oversight-board|Public Company Accounting Oversight Board]], whose Auditing Standards define [[auditor-independence|auditor independence]].[19] In this system, safeguarding public trust is largely outsourced to the audit firm, whose attestation to the truth and accuracy of a company's financial statements the regulator relies upon unless contrary evidence emerges.[19] Public companies must disclose financial information and business operations to the SEC, while private entities — including most US election technology vendors — need not.[19]
+
+The essay's central contrast is that no publicly traded company would be permitted to audit itself, and the SEC would never allow a public company to conduct itself as election officials and their vendors have for years; the [[enron|Enron]] and [[arthur-andersen|Arthur Andersen]] collapse is offered as proof that the capital markets, unlike elections, enforce accountability when independence fails.[19]
+
+19. Badlands Brief — "US Elections Must Be Independent", URL: https://badlands.substack.com/p/us-elections-must-be-independent
+
+## Cited in "Wilted Ivy"
+
+Badlands Media's May 2025 essay "Wilted Ivy" reports that dissent against [[esg|ESG]] enforcement emerged from within the SEC itself, noting that Commissioner [[hester-peirce|Hester Peirce]] "began openly criticizing ESG enforcement," calling it "a form of backdoor regulation inconsistent with democratic accountability."[20] The article treats this internal criticism as one of several signs that the regulatory consensus underwriting ESG mandates was collapsing.[20]
+
+20. Badlands Brief — "Wilted Ivy", URL: https://badlands.substack.com/p/wilted-ivy
+
+## Founding in 1933–34
+
+The SEC was created in [[franklin-d-roosevelt|Franklin Roosevelt]]'s first hundred days to provide oversight of Wall Street's activities, one of the reforms made possible by the [[pecora-commission|Pecora Commission]]'s exposure of banking fraud.[21] [[ferdinand-pecora|Ferdinand Pecora]], who had led the investigation as chief counsel, was appointed a commissioner of the new body in 1934.[21]
+
+21. Badlands Brief — "Why America Needs to Break Wall Street's Kneecaps", URL: https://badlands.substack.com/p/why-america-needs-to-break-wall-streets

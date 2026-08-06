@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [saudi-arabia, donald-trump, 2017, qanon, symbolism]
-sources: [raw/arabian-nights.md, raw/badlands-news-brief-ba8.md, raw/badlands-news-brief-f6f.md, raw/q-for-dummies-chapter-9.md]
+sources: [raw/arabian-nights.md, raw/badlands-news-brief-ba8.md, raw/badlands-news-brief-f6f.md, raw/q-for-dummies-chapter-9.md, raw/trump-takes-out-the-king.md]
 confidence: medium
 ---
 
@@ -26,12 +26,20 @@ Months later, when an anonymous poster appeared on 4chan following the Las Vegas
 
 During the [[2025-trump-gulf-tour|2025 Trump Gulf tour]], commentators described a second Ardah — this time in Qatar — accompanying the signing of major defense and trade agreements in Doha.[3] Badlands host GhostofBasedPatrickHenry characterized the 2017 Saudi Ardah as an act of open defiance in which Trump could have benefited strategically by concealing his close relationship with Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] but instead declared war on the Deep State in a literal ceremony.[3] He read the 2025 Qatari Ardah as a mirror event in which the Qataris, under Trump's longtime friend Sheikh [[tamim-bin-hamad-al-thani|Tamim Al-Thani]], publicly pledged their allegiance to Trump and the [[sovereign-alliance|Sovereign Alliance]] — an outcome he called an enormous milestone in Arab diplomacy given Qatar's long relationship with the Five Eyes intelligence community and the military-industrial complex.[3] Another host framed the pairing of the two tours as "2017 was a declaration of war; 2025 is a declaration of victory."[3]
 
+
+## Treatment in "Q for Dummies" Chapter 9
+
+Chapter 9 of the Badlands series [[q-for-dummies|Q for Dummies]] raises the sword dance while working through Q drop #71, noting that [[donald-trump|Trump]] was greeted in [[saudi-arabia|Saudi Arabia]] with a red carpet and a sword dance.[4] The chapter calls the tradition highly regarded in the Kingdom and draws a contrast with earlier American leaders, observing that Obama, Biden and Clinton never received a sword dance and that Trump was also given a red carpet none of the others received.[4] The passage sits within the chapter's wider argument that the Saudi leadership emerging from the 2017 [[saudi-purge|purge]] was signalling a new alignment with the United States.[4]
+
+## Treatment in "Trump Takes Out the King"
+
+[[joe-lange|Joe Lange]]'s article "Trump Takes Out the King" describes the sword dance as the first of the big events preceding the November 2017 [[saudi-purge|Saudi purge]].[5] Quoting the Daily Beast, it records that [[donald-trump|Trump]] joined the traditional Saudi sword dance after signing a $110 billion arms deal with King [[salman-bin-abdulaziz|Salman]], that the all-male ceremonial dance was described as "the war dance" by one Saudi royal, and that it took place outside the King Abdulaziz Historical Center in [[riyadh|Riyadh]] before a lavish state dinner in Trump's honor.[5] Video showed First Lady [[melania-trump|Melania Trump]] looking on as Trump swayed to the drums brandishing a sword alongside the king and other royals, afterward calling the dance "so beautiful."[5]
+
+Lange notes the dance originated as a rite performed by Saudi men before going to war, argues it was no coincidence, and observes that he does not recall Obama, Clinton or the Bushes receiving the honor.[5] In his reading the Saudis were publicly joining Trump in a war against a global cabal that had been supporting terrorism in order to start Middle Eastern wars, with the Kingdom positioned to become the driving force for peace in the region.[5]
+
 ## References
 1. Badlands Brief — "Arabian Nights", URL: https://badlands.substack.com/p/arabian-nights
 2. Badlands Brief — "Badlands News Brief: Hopium for Health AI, Hulk on Hunter, & A Happy WHO Adieu", URL: https://badlands.substack.com/p/badlands-news-brief-ba8
 3. Badlands Brief — "Another Ardah, Optimus Prance, & the Right Deal Arms", URL: https://badlands.substack.com/p/badlands-news-brief-f6f
 4. Badlands Brief — "Q for Dummies - Chapter 9", URL: https://badlands.substack.com/p/q-for-dummies-chapter-9
-
-## Treatment in "Q for Dummies" Chapter 9
-
-Chapter 9 of the Badlands series [[q-for-dummies|Q for Dummies]] raises the sword dance while working through Q drop #71, noting that [[donald-trump|Trump]] was greeted in [[saudi-arabia|Saudi Arabia]] with a red carpet and a sword dance.[4] The chapter calls the tradition highly regarded in the Kingdom and draws a contrast with earlier American leaders, observing that Obama, Biden and Clinton never received a sword dance and that Trump was also given a red carpet none of the others received.[4] The passage sits within the chapter's wider argument that the Saudi leadership emerging from the 2017 [[saudi-purge|purge]] was signalling a new alignment with the United States.[4]
+5. Badlands Brief — "Trump Takes Out the King", URL: https://badlands.substack.com/p/trump-takes-out-the-king

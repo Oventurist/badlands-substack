@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [limits-to-growth, mit, club-of-rome, systems-dynamics, depopulation]
-sources: [raw/defeating-the-depopulation-agenda.md]
+sources: [raw/defeating-the-depopulation-agenda.md, raw/the-rising-scourge-of-eco-terrorism.md]
 confidence: medium
 ---
 
@@ -24,5 +24,12 @@ The book became the bible and blueprint of the anti-humanist movement that, in [
 
 Ehret notes that while Forrester died in 2016, Meadows is still alive, and recently shared what Ehret calls a sick vision of a future in which at most one to two billion people will be granted permission to exist by a ruling oligarchy.[1]
 
+## February 2022 population remarks
+
+In a February 2022 interview cited by [[matthew-ehret|Matthew Ehret]], Meadows — described as a [[world-economic-forum|World Economic Forum]] member and co-architect of the [[club-of-rome|Club of Rome]]'s 1972 *Limits to Growth* report, itself co-sponsored by [[maurice-strong|Maurice Strong]] — said: "I hope this occurs in a civilized approach… So there are 7 billion folks proper now, however, we're going to have 1 billion folks. We now have to return down. I hope it occurs slowly and evenly."[2]
+
+Ehret argues that Meadows' preference for a "slow and even" reduction may sound more ethical than the impatient eco-terrorist pathway chosen by [[ted-kaczynski|Ted Kaczynski]], but that from a rationally objective standpoint the difference between the two men is purely cosmetic.[2] He observes that one billion is the recurring "magic number" for computer-modelling oligarchs, presumably the level at which a limited amount of freedom would be granted to the surviving population in a "green" Brave New World.[2]
+
 ## References
 1. Badlands Brief — "Defeating the Depopulation Agenda", URL: https://badlands.substack.com/p/defeating-the-depopulation-agenda
+2. Badlands Brief — "The Rising Scourge of Eco-Terrorism", URL: https://badlands.substack.com/p/the-rising-scourge-of-eco-terrorism

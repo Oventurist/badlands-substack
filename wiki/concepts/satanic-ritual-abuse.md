@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [satanic-ritual-abuse, occult, child-abuse, dissociation, psychological-operations]
-sources: [raw/child-sacrifice-as-a-pillar-of-deep.md, raw/gazing-into-the-abyss.md]
+sources: [raw/child-sacrifice-as-a-pillar-of-deep.md, raw/gazing-into-the-abyss.md, raw/the-werewolf-game-hell-is-organized.md]
 confidence: medium
 ---
 
@@ -34,6 +34,12 @@ Clinical psychologist [[alison-miller|Alison Miller]] reported that at an early 
 
 The group is described as actively working to counteract therapy through [[mind-control-programming|programming]] and abduction, and as threatening the lives of both clients and the therapist.[2] Related [[ritual-abuse|ritual abuse]] material cited by the article includes a Ted Gunderson presentation on FBI files concerning alleged CIA involvement in satanic ritual abuse, a [[60-minutes|60 Minutes]] special, and Miller's 2017 Survivorship Conference talk.[2]
 
+## Corroboration claimed in the Werewolf Game series
+
+In "The Werewolf Game - Hell is Organized," [[american-hypnotist|American Hypnotist]] writes that he raised his thesis about sacrifice rituals being used to manufacture controllable ghosts with an acquaintance who works with victims of satanic ritual abuse, and that this person independently confirmed it.[3] He notes that scant official sources exist on such topics because of what he characterizes as widespread suppression, so that much of his information comes from personally knowing individuals born into elite families or who worked directly with the trafficked and tortured.[3] The article warns that exposure to this material can wear out the nervous system and states that it is unsuitable for children or those prone to anxiety.[3]
+
 ## References
+
 1. Badlands Brief — "Child Sacrifice as a Pillar of Deep State Control", URL: https://badlands.substack.com/p/child-sacrifice-as-a-pillar-of-deep
 2. Badlands Brief — "Gazing Into the Abyss pt.2: a Therapist's Tale", URL: https://badlands.substack.com/p/gazing-into-the-abyss
+3. Badlands Brief — "The Werewolf Game - Hell is Organized", URL: https://badlands.substack.com/p/the-werewolf-game-hell-is-organized

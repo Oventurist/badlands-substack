@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [law, philosophy, sovereignty, constitution, federal-reserve]
-sources: [raw/do-we-have-a-contract-with-the-federal.md, raw/god-and-the-declaration-of-independence.md, raw/on-nations-and-natural-law.md, raw/signal-collapse.md]
+sources: [raw/do-we-have-a-contract-with-the-federal.md, raw/god-and-the-declaration-of-independence.md, raw/on-nations-and-natural-law.md, raw/signal-collapse.md, raw/trump-knows.md]
 confidence: medium
 ---
 
@@ -46,6 +46,10 @@ The same essay presents Spooner's retroductive argument — the method [[cs-lewi
 
 The essay's American framing holds that appeals to Natural Law were common in Colonial political conversation — as imagined at the [[green-dragon-tavern|Green Dragon Tavern]] — and were preserved in the founding documents' references to "the Laws of Nature and of Nature's God" and "certain inalienable rights endowed by our Creator."[3] The lack of explicit provision for natural rights in the original Constitution is said to have prompted the amendments that delineated free speech, the bearing of arms and the free exercise of religion as logical conclusions drawn from Natural Law.[3] The author, host of [[no-treason-podcast|The No Treason Podcast]], attributes the degradation of American liberty in part to a lost understanding of the principle and makes its restoration to political debate his stated goal.[3]
 
+## Law versus the legal system
+
+In "Trump Knows," [[justin-deschamps|Justin Deschamps]] defined the law as the rules governing all of reality, splitting them into natural laws — gravity, electromagnetism, the shape of an apple — and moral laws governing fairness, ethics and social relationships.[5] These laws existed before mankind and will exist after it; when man aligns himself with them he gains wisdom and the practical knowledge to act effectively, as in needing aerodynamics and thermodynamics to build a flying machine.[5] Social life is governed in the same way by the laws of contracts, agreements, trust, duty and stewardship, and groups that fail to embrace them suffer strife, disorder, corruption and poverty.[5] Because man lives beneath the law and cannot invent it, the man-made [[legal-system|legal system]] is a categorically different thing, and the founding fathers are credited with recognizing this in building the nation.[5]
+
 ## References
 1. Badlands Brief — "Do We Have a Contract With the Federal Reserve?", URL: https://badlands.substack.com/p/do-we-have-a-contract-with-the-federal
 2. Badlands Brief — "God and the Declaration of Independence", URL: https://badlands.substack.com/p/god-and-the-declaration-of-independence
@@ -58,3 +62,4 @@ The June 26, 2025 Badlands essay "Signal Collapse" by [[observing-consciousness|
 In this framing natural law "does not negotiate — it corrects": when coherence rises, incoherence collapses, and when enough people remember, the system unravels — a process the author labelled "field mechanics" rather than ideology.[4] The practical corollary offered is that a system already out of alignment need not be fought, only outgrown, with truth-resonance alone sufficient to precipitate what the essay called "a harmonic rupture from within."[4] The essay closes by describing natural law as "silent, vast, and final."[4]
 
 4. Badlands Brief — "Signal Collapse", URL: https://badlands.substack.com/p/signal-collapse
+5. Badlands Brief — "Trump Knows", URL: https://badlands.substack.com/p/trump-knows

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [economics, trump, biden, national-security, tariffs]
-sources: [raw/badlands-news-brief-f14.md, raw/the-harvard-control-grid.md]
+sources: [raw/badlands-news-brief-f14.md, raw/the-harvard-control-grid.md, raw/wilted-ivy.md]
 confidence: medium
 ---
 
@@ -33,3 +33,11 @@ The Badlands brief presented the sequence as another instance of the [[kamala-ha
 ## References
 1. Badlands Brief — "Badlands News Brief: Delays in Fake Justice & Signs of the Real Thing", URL: https://badlands.substack.com/p/badlands-news-brief-f14
 2. Badlands Brief — "The Harvard Control Grid", URL: https://badlands.substack.com/p/the-harvard-control-grid
+
+## "Wilted Ivy" proposal
+
+Badlands Media's May 2025 essay "Wilted Ivy" argues that the distressed assets shed by [[harvard-university|Harvard]] and its peer institutions should not be "snapped up by the same billionaire funds and foreign state actors who rigged the old system" but reclaimed through a sovereign wealth fund "owned by We The People."[3] Profits, the article proposes, would be reinvested into American communities, distributed as dividends to American citizens, and used to rebuild the real economy "not an abstract digital economy for Wall Street gamblers."[3]
+
+The essay frames this as "buying back the system with their own collapse," using the elites' exit strategies to build an ownership class rooted in national sovereignty rather than globalist collusion, and calls Harvard's asset sale "an opening salvo" and "an invitation."[3] It links the proposal to infrastructure it says is already emerging: tokenized assets enabling fractional ownership, the slow dismantling of [[swift|SWIFT]] banking hegemony, and the growing legitimacy of sovereign digital assets as alternative currency foundations.[3]
+
+3. Badlands Brief — "Wilted Ivy", URL: https://badlands.substack.com/p/wilted-ivy

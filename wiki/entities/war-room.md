@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, steve-bannon, podcast, populist-right]
-sources: [raw/badlands-news-brief-7e6.md]
+sources: [raw/badlands-news-brief-7e6.md, raw/we-are-the-plan.md]
 confidence: low
 ---
 
@@ -19,3 +19,11 @@ In April 2023, *War Room* hosted attorney [[elizabeth-yore|Elizabeth Yore]], who
 ## References
 
 1. Badlands Brief — "GART is Here! Plus, Exposure & Disclosure Abound", URL: https://badlands.substack.com/p/badlands-news-brief-7e6
+
+## "Never says trust the plan"
+
+Badlands Media contributor [[kitty-gillespie|Kitty Gillespie]]'s December 2022 essay "We Are 'The Plan'" quoted a Telegram post by Politick_Rick praising the program for the clarity of its call to action: "Bannon isn't quiet at all about what they're going to do once Trump is back in the White House. Bannon never says 'trust the plan.' He says we need to get off our asses and take back U.S. politics at the local level."[2] The same post argued that most pundits — including [[tucker-carlson|Tucker Carlson]] — dwell on diagnoses rather than solutions, a habit it described as a "shiny object" that breeds inaction and serves globalist interests.[2]
+
+Gillespie, a regular listener, wrote that [[steve-bannon|Steve Bannon]] is "really close to the action" and occasionally drops "a crumb to follow," describing him as a Field General or "combatant commander" for what she called the Revolution, who barks orders each show for listeners to find a way to get involved.[2] She credited the program with driving tens of thousands — perhaps hundreds of thousands — of patriots into election work ahead of the [[2022-midterm-elections|2022 midterms]], each of them supplying another push to the [[flywheel-of-freedom|Flywheel of Freedom]].[2] She also noted that she dated her own political awakening to December 2019, while listening to the program in its WarRoom: Impeachment incarnation.[2]
+
+2. Badlands Brief — "We Are 'The Plan'", URL: https://badlands.substack.com/p/we-are-the-plan

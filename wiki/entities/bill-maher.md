@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, democrats, dsa, 2028-election]
-sources: [raw/badlands-brief-a84.md, raw/badlands-brief-ac2.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-a57.md, raw/badlands-news-brief-b52.md]
+sources: [raw/badlands-brief-a84.md, raw/badlands-brief-ac2.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-a57.md, raw/badlands-news-brief-b52.md, raw/the-werewolf-game-a-new-class-of.md]]
 confidence: medium
 ---
 
@@ -79,3 +79,9 @@ On Friday, August 30, 2024, [[nancy-pelosi|Nancy Pelosi]] appeared on Maher's "R
 7. Badlands Brief — "Badlands News Brief: Biden Baits Israel as Solar Storms Bring the Weird", URL: https://badlands.substack.com/p/badlands-news-brief-83b
 8. Badlands Brief — "Badlands News Brief: The Uniparty Celebrates as Warmongers Grow Desperate", URL: https://badlands.substack.com/p/badlands-news-brief-a57
 9. Badlands Brief — "Badlands News Brief: The Free Speech Battlefield Heats Up", URL: https://badlands.substack.com/p/badlands-news-brief-b52
+
+## The Werewolf Game series
+
+[[american-hypnotist|American Hypnotist]]'s [[the-werewolf-game|Werewolf Game]] series cites the look of horror on Maher's face on election night in 2016 as evidence that establishment figures were genuinely terrified of [[donald-trump|Donald Trump]].[10] The author argues that facial expressions are powerfully suggestive at a subconscious level, that humans readily detect genuine fear in others, and that Maher's visible reaction therefore hypnotically communicated to his audience that Trump really was the monster they believed him to be.[10] On this reading the fear was contagious and spread to millions of mainstream-media viewers, indicating that Trump posed an existential threat to the [[deep-state|Deep State]].[10]
+
+10. Badlands Media — "The Werewolf Game - A New Class of Elites", URL: https://badlands.substack.com/p/the-werewolf-game-a-new-class-of

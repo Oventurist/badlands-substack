@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [geopolitics, world-order, badlands-media, sovereignty]
-sources: [raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-21.md, raw/badlands-brief-5a2.md, raw/badlands-brief-739.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-c93.md]
+sources: [raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-21.md, raw/badlands-brief-5a2.md, raw/badlands-brief-739.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-c93.md, raw/trump-putin-alaska-and-the-future.md]
 confidence: medium
 ---
 
@@ -53,3 +53,8 @@ Commenting on expanding [[russia-china-joint-air-patrols|Russia-China joint bomb
 4. Badlands Brief — "Weapons Stockpiles & Bundt Cake Treason", URL: https://badlands.substack.com/p/badlands-brief-739
 5. Badlands Media — "Badlands News Brief: Exculpatory Trump Card & China's Moves", URL: https://badlands.substack.com/p/badlands-news-brief-0e0
 6. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93
+7. Badlands Brief — "Trump, Putin, Alaska and the Future of Multipolarity", URL: https://badlands.substack.com/p/trump-putin-alaska-and-the-future
+
+## Arctic development as multipolar strategy
+
+In "Trump, Putin, Alaska and the Future of Multipolarity," [[matthew-ehret|Matthew Ehret]] argues that any chance the west has to avoid a total meltdown under an emerging economic blowout and civil war is premised on tying its economic destiny to the pro-growth, win-win model of the east.[7] He presents the [[bering-strait-tunnel|Bering Strait Rail Tunnel]] and the [[alaska-canada-railway|Alaska-Canada Railway]] as the means to break out of what he calls British geopolitics, rebuild industrial cities ravaged by globalized outsourcing and construct new permanent cities.[7] He contrasts this with the aftermath of the 1971 floating of the U.S. dollar, which he describes as a 45-year slide into consumerism, speculation and zero-technological growth that halted the frontier projects of post-war statesmen such as [[wac-bennett|W.A.C. Bennett]], [[john-f-kennedy|John F. Kennedy]] and [[john-diefenbaker|John Diefenbaker]].[7]

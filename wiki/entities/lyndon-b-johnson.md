@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [lyndon-johnson, affirmative-action, civil-rights, jfk-assassination]
-sources: [raw/death-to-dei.md]
+sources: [raw/death-to-dei.md, raw/the-war-of-stories.md]
 confidence: low
 ---
 
@@ -22,3 +22,9 @@ Carlson wrote that, according to some accounts, Johnson and Texas oil tycoon [[h
 
 ## References
 1. Badlands Brief — "Death to DEI", URL: https://badlands.substack.com/p/death-to-dei
+
+## Cited as a successor puppet (December 2022)
+
+In "The War of Stories" (December 30, 2022), [[burning-bright|Burning Bright]] invoked Johnson in his summary of the [[patriot-pendulum|Patriot Pendulum]]: "For every Kennedy that was taken from us, we had a Lyndon Johnson to take his place."[2] The line introduced a broader account of American presidential successions — Reagan to Bush, then the Clintons, the Bushes again and Obama — which he described as figures "groomed in succession and for succession" on behalf of interests operating behind them.[2]
+
+2. Badlands Brief — "The War of Stories", URL: https://badlands.substack.com/p/the-war-of-stories

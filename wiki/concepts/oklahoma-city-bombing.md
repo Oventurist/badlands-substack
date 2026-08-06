@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [terrorism, ammonium-nitrate, history, domestic-attacks]
-sources: [raw/badlands-news-brief-409.md, raw/false-flags-and-the-occult.md, raw/the-media-is-the-enemy-of-the-people.md]
+sources: [raw/badlands-news-brief-409.md, raw/false-flags-and-the-occult.md, raw/the-media-is-the-enemy-of-the-people.md, raw/the-multinational-offensive-against.md]
 confidence: medium
 ---
 
@@ -36,3 +36,9 @@ The Badlands Media essay "False Flags and the Occult" argues that both the media
 [[erik-carlson|Erik Carlson]]'s September 17, 2024 essay places the mid-1990s Oklahoma City Bombing alongside [[ruby-ridge|Ruby Ridge]] and [[waco-siege|Waco]] as part of a pattern he says was designed to discredit and deter anti-government sentiment just as the internet went public.[3]
 
 3. Badlands Brief — "The Media is the Enemy of the People", URL: https://badlands.substack.com/p/the-media-is-the-enemy-of-the-people
+
+## Cited in the encryption backdoor debate
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] traced modern government demands for backdoors into encrypted communications at least as far back as the Clinton administration's response to the Oklahoma City bombing.[4] In his account, officials argued at the time that there were dangerous domestic elements that could not be allowed to use the internet while hiding behind encryption, and that monitoring therefore required a government backdoor into the internet.[4] DeLarme summarized the pattern as "Ordo ab Chao" and connected it directly to the 2024 French charges against [[pavel-durov|Pavel Durov]] over providing [[end-to-end-encryption|cryptology services]] without declaration.[4]
+
+4. Badlands Brief — "The Multinational Offensive Against Free Speech Online", URL: https://badlands.substack.com/p/the-multinational-offensive-against

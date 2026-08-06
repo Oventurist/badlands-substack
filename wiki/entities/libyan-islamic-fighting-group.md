@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [libya, al-qaeda, terrorism, benghazi, lifg]
-sources: [raw/a-conflict-of-interest.md]
+sources: [raw/a-conflict-of-interest.md, raw/what-difference-does-benghazi-make.md]
 confidence: medium
 ---
 
@@ -30,3 +30,9 @@ Despite these designations, [[john-mccain|Senator John McCain]] travelled to [[b
 
 ## References
 1. Badlands Brief — "A Conflict of Interest", URL: https://badlands.substack.com/p/a-conflict-of-interest
+
+## Liaison with the United States and the Syria pipeline
+
+"What Difference Does Benghazi Make?" states that the LIFG, led by [[abdelhakim-belhadj|Abdelhakim Belhadj]], had joined [[al-qaeda|Al Qaeda]] in 2007, and that in March 2011 [[christopher-stevens|Christopher Stevens]] became the official U.S. liaison to the al-Qaeda-linked Libyan opposition, working directly with Belhadj.[2] Some LIFG fighters reportedly participated in the 2012 attack that killed Stevens.[2] The group later disbanded, with Belhadj heading the Tripoli Military Council and the February 17th Martyrs Brigade — a formation named for the day the anti-Gaddafi uprisings began, which was nominally tasked with securing the [[benghazi-attack|Benghazi compound]] but, in Joe Lange's account, was actually engaged in transporting weapons to Syria.[2] Prior to the 2011 uprising, [[muammar-gaddafi|Gaddafi]] had negotiated the release of Belhadj and fellow LIFG prisoners through a member of the Muslim Brotherhood as a goodwill gesture to the incoming Obama administration.[2]
+
+2. Badlands Brief — "What Difference Does Benghazi Make?", URL: https://badlands.substack.com/p/what-difference-does-benghazi-make

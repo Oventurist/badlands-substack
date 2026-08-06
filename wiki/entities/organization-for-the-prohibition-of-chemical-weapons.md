@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [chemical-weapons, international-organizations, ukraine, russia, the-hague]
-sources: [raw/badlands-news-brief-a12.md]
+sources: [raw/badlands-news-brief-a12.md, raw/unmasking-the-military-industrial.md]
 confidence: medium
 ---
 
@@ -24,3 +24,11 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] calle
 
 ## References
 1. Badlands News Brief — "Pentagon Portfolio Plays & Spy Court Sunlight", URL: https://badlands.substack.com/p/badlands-news-brief-a12
+
+## Whistleblowers on Syrian chemical attacks
+
+A December 2024 Badlands Media analysis credited OPCW whistleblowers with undermining two of the central justifications for Western intervention in Syria.[2] Following the 2017 [[khan-shaykhun-chemical-attack|Khan Shaykhun attack]], which prompted U.S. airstrikes under the Trump administration, insiders revealed that evidence had been manipulated to support the intervention narrative.[2] The 2018 [[douma-chemical-attack|Douma incident]], initially used to justify potential Western military action, was likewise reported by OPCW insiders to have been manipulated, casting doubt on the narrative that blamed the government of [[bashar-al-assad|Bashar al-Assad]].[2]
+
+In the article's framing, these disclosures made the OPCW an unintended instrument of the [[white-hats|White Hat]] counteroffensive, exposing the [[military-industrial-complex|Military-Industrial Complex]]'s tactic of manufacturing consent through false flag operations.[2]
+
+2. Badlands Media — "Unmasking the Military Industrial Complex", URL: https://badlands.substack.com/p/unmasking-the-military-industrial

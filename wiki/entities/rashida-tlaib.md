@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, democrats, michigan, state-of-the-union]
-sources: [raw/badlands-brief-40d.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-ae3.md, raw/badlands-news-brief-c07.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-db1.md, raw/badlands-news-brief-f6f.md]
+sources: [raw/badlands-brief-40d.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-ae3.md, raw/badlands-news-brief-c07.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-db1.md, raw/badlands-news-brief-f6f.md, raw/war-pigs.md]
 confidence: medium
 ---
 
@@ -44,6 +44,10 @@ In October 2023, Tlaib repeatedly alleged that Israel was responsible for the [[
 
 Tlaib championed the [[listen-to-michigan|Listen to Michigan]] effort, allied with the nationwide [[abandon-biden|Abandon Biden]] campaign, which urged Democrats angered by President [[joe-biden|Joe Biden]]'s support for Israel to vote "uncommitted" in the [[2024-michigan-democratic-primary|2024 Michigan Democratic primary]].[7] More than 100,000 Michigan Democrats did so, accounting for 13.3% of the statewide total.[7]
 
+## Cited as an outlier in the 2023 Israel consensus
+
+"War Pigs" acknowledged Tlaib and "the squad" as obvious outliers amid the near-complete unison of elected officials in supporting Israel after October 2023.[10] Badlands Media argued, however, that their apparently adversarial position ultimately fuelled the same goal as the pro-Israel consensus — building public support for another war — consistent with the essay's thesis that the establishment cares only that citizens pick a side.[10]
+
 ## References
 
 1. Badlands Brief — "Clinton Clashes, Royal Trafficking, & Fond WEF Farewells", URL: https://badlands.substack.com/p/badlands-brief-40d
@@ -62,3 +66,4 @@ Badlands coverage of [[2024-super-tuesday|Super Tuesday]] 2024 described the [[u
 On May 14, 2025, Tlaib appeared at a pro-Palestinian press conference outside the US Capitol alongside Ben & Jerry's co-founder [[ben-cohen|Ben Cohen]], hours before Cohen was removed by Capitol Police from a Senate HELP Committee hearing with HHS Secretary [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]].[9]
 
 9. Badlands Brief — "Another Ardah, Optimus Prance, & the Right Deal Arms", URL: https://badlands.substack.com/p/badlands-news-brief-f6f
+10. Badlands Brief — "War Pigs", URL: https://badlands.substack.com/p/war-pigs

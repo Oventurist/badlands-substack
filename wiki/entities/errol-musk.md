@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [musk-family, commentary, russia]
-sources: [raw/badlands-news-brief-155.md, raw/badlands-news-brief-8f0.md, raw/badlands-news-brief-bd2.md]
+sources: [raw/badlands-news-brief-155.md, raw/badlands-news-brief-8f0.md, raw/badlands-news-brief-bd2.md, raw/why-i-just-dont-trust-elon-musk.md]
 confidence: medium
 ---
 
@@ -28,7 +28,12 @@ Reacting to [[ronan-farrow|Ronan Farrow]]'s [[new-yorker|New Yorker]] piece "Elo
 
 In September 2025 Errol Musk, then 79, was accused of sexually abusing five of his children and stepchildren since 1993, including one he allegedly touched when she was four years old and with whom he later had a child.[3] The allegations were reported as the reason his son, [[elon-musk|Elon Musk]], had kept his distance from him over the years; despite being outspoken on social media, the 54-year-old had rarely discussed the strained relationship.[3] Errol had previously made headlines for having a baby with his own stepdaughter, who was 40 years his junior.[3] The New York Times reported the accusations after reviewing more than 50 personal letters and emails and conducting interviews with relatives.[3]
 
+## South African background
+
+Errol Musk, the father of [[elon-musk|Elon Musk]], married [[maye-musk|Maye Musk]], the daughter of the Canadian Technocracy organizer [[joshua-haldeman|Joshua Haldeman]].[4] Badlands Media contributor [[matthew-ehret|Matthew Ehret]] writes that the [[apartheid|apartheid]] South Africa which Haldeman embraced on arriving in 1949 "awarded him with riches, his daughter with national beauty queen status, his son-in-law with an emerald mine," identifying Errol Musk as the emerald mine-owning father of Elon.[4] Ehret notes that despite the injustices the family lived through, no member — from Joshua Haldeman to Maye Musk to Errol Musk to Elon Musk himself — has ever offered a single critical word about the apartheid regime in any of their writings or interviews.[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: California Crossroads, Selective Insurrection, & Irian Limits", URL: https://badlands.substack.com/p/badlands-news-brief-155
 2. Badlands Brief — "Badlands News Brief: The Turns on COVID, Ukraine & the Establishment Have Begun", URL: https://badlands.substack.com/p/badlands-news-brief-8f0
 3. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2
+4. Badlands Brief — "Why I Just Don't Trust Elon Musk", URL: https://badlands.substack.com/p/why-i-just-dont-trust-elon-musk

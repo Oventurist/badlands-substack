@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [who, public-health, ebola, pandemic]
-sources: [raw/badlands-brief-2c5.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-b83.md, raw/the-dystopia-will-be-televised.md]
+sources: [raw/badlands-brief-2c5.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-b83.md, raw/the-dystopia-will-be-televised.md, raw/the-whos-last-stand.md, raw/triggering-mass-psychosis.md]
 confidence: low
 ---
 
@@ -31,3 +31,17 @@ In connection with the June 2023 [[world-health-organization|WHO]]–[[european-
 Announcing the [[world-health-organization|WHO]]'s adoption of the [[european-union|EU]] digital COVID-19 certification system in June 2023, Tedros said: "Building on the EU's highly successful digital certification network, WHO aims to offer all WHO Member States access to an open-source digital health tool, which is based on the principles of equity, innovation, transparency and data protection and privacy."[4] He added that "new digital health products in development aim to help people everywhere receive quality health services quickly and more effectively."[4] The initiative became the first building block of the [[global-digital-health-certification-network|Global Digital Health Certification Network]], which Badlands Media framed as part of a broader [[digital-identification|digital identification]] agenda.[4]
 
 4. Badlands Brief — "The Dystopia Will Be Televised", URL: https://badlands.substack.com/p/the-dystopia-will-be-televised
+
+## Warnings of a next pandemic (2023)
+
+Badlands Media's "The WHO's Last Stand" cited Tedros among figures issuing repeated public warnings about a coming pandemic, alongside [[anthony-fauci|Anthony Fauci]] and [[bill-gates|Bill Gates]], and characterized these statements as fear-mongering intended to prepare the ground for the [[who-pandemic-accord|WHO CA+]] and the amendments to the [[international-health-regulations|International Health Regulations]].[5] The article emphasized that the powers sought under both instruments could only be triggered in the event of another declared global health emergency, and noted that the [[world-health-organization|WHO]] director-general would personally hold much of the resulting decision-making authority.[5]
+
+5. Badlands Brief — "The WHO's Last Stand", URL: https://badlands.substack.com/p/the-whos-last-stand
+
+## COVID priesthood framing (January 2023)
+
+[[justin-deschamps|Justin Deschamps]]'s January 20, 2023 essay on [[mass-psychosis]] named Tedros, Director-General of the [[world-health-organization|World Health Organization]], as one of three figures composing the "devout priesthood" of COVID-era authoritarianism, together with [[bill-gates|Bill Gates]] and [[anthony-fauci|Anthony Fauci]].[6]
+
+The essay described the WHO — along with the [[national-institutes-of-health|NIH]] and the [[centers-for-disease-control-and-prevention|CDC]] — as a privately funded institution widely mistaken for a governing entity, whose insistence on pandemic guidance was amplified by the corporate press and contributed to policy errors driven by collective hysteria.[6]
+
+6. Badlands Brief — "Triggering Mass Psychosis", URL: https://badlands.substack.com/p/triggering-mass-psychosis

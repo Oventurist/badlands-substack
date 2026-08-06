@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [hollywood, film, media, culture, propaganda]
-sources: [raw/a-new-hollywood.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-dbd.md, raw/does-the-cia-still-control-iran.md, raw/the-decade-we-all-became-slaves.md, raw/the-media-is-the-enemy-of-the-people.md]
+sources: [raw/a-new-hollywood.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-dbd.md, raw/does-the-cia-still-control-iran.md, raw/the-decade-we-all-became-slaves.md, raw/the-media-is-the-enemy-of-the-people.md, raw/the-world-is-a-vampire-final-draft.md, raw/the-white-pill-emporium-part-4.md, raw/we-are-watching-a-movie.md]
 confidence: medium
 ---
 
@@ -79,3 +79,32 @@ Carlson listed *The Titanic*, *Schindler's List*, *Pearl Harbor*, *All the Presi
 [[erik-carlson|Erik Carlson]]'s September 17, 2024 essay argues that Hollywood was built in Southern California only after the [[federal-reserve|Federal Reserve]] created an endless supply of free money, and that the pairing was not coincidental.[8] Writing in 2024, he predicted the year would be among the worst ever for movie ticket sales without the excuse of the 2020 theater shutdowns, blaming "woke" product and asserting that Hollywood "isn't allowed to make the movies people want to see."[8] He contrasted a summer with one or two blockbusters against earlier eras when one or two arrived weekly, and asked how theaters remain in business at all.[8]
 
 8. Badlands Brief — "The Media is the Enemy of the People", URL: https://badlands.substack.com/p/the-media-is-the-enemy-of-the-people
+
+## The vampire thesis (Carlson, 2023)
+
+In "The World is a Vampire" (January 24, 2023), Carlson wrote that Hollywood is a largely evil place and has been since its conception.[9] He argued it was no coincidence that Hollywood began in the same decade as the [[federal-reserve|Federal Reserve]], the [[internal-revenue-service|IRS]], the federal income tax, Big Pharma and the Rockefeller medical institutions, describing the 1910s as the decade in which the [[cabal|Cabal]] put in place most of the institutions of control that persist to this day.[9]
+
+Carlson wrote that films, television and music produced in the decade to 2023 had suffered a considerable drop in quality, attributing this to Hollywood either not understanding or refusing to create the content people want while forcing agendas on audiences.[9] He held that the "Me Too" and "political correctness" movements had killed comedy, and that the need to push narratives, the ultra-sensitivity of audiences and the fear of causing offence had produced an environment suppressing creativity.[9] While conceding the claim that the decade was the worst in Hollywood's roughly hundred-year history might be an exaggeration, he maintained it was impossible to call it one of the industry's best.[9]
+
+Rewatching films he had seen before what he calls his awakening, Carlson found some devoid of messaging, others obvious in their delivery and some more subtle, concluding the practice had been going on a very long time.[9] Invoking the "boil a frog" analogy, he argued Hollywood had slowly turned up the heat on the public over the course of generations, using movies and television to prepare audiences for future events and to explain how the Cabal controls and uses them — the mechanism known as [[predictive-programming|predictive programming]].[9] He nonetheless closed by insisting that storytelling is not inherently evil, that there is a reason people are drawn to it, and expressed the hope that Hollywood would someday become what it can be rather than what it has become.[9]
+
+9. Badlands Brief — "The World is a Vampire", URL: https://badlands.substack.com/p/the-world-is-a-vampire-final-draft
+10. Badlands Brief — "The White Pill Emporium - Part 4: Q, Trump, Anons and a Battle of Memeplexes", URL: https://badlands.substack.com/p/the-white-pill-emporium-part-4
+
+## Movies as a discreditation weapon
+
+Part 4 of [[the-white-pill-emporium|The White Pill Emporium]] (15 February 2025) advances an interpretation of Hollywood's role that departs from the common "revelation of the method" reading.[10] The author rejects the widely held view that the cabal places truth in movies because showing people your plans without objection constitutes consent, calling it nonsensical that a work intended to be viewed as fiction could serve as valid notice, and suggesting that this idea is itself a psyop designed to make conspiracy researchers look insane — a belief he says he once held himself.[10]
+
+In its place he proposes a two-fold purpose: that "spilling the beans" in movies facilitates communication between elites, and that it makes conspiracy researchers appear incapable of discerning fact from fiction to the average person.[10] Turning real cabal plots into films, on this account, makes anyone who discusses them look like a crazy person; a listener told that programs exist to drug and torture people into responding to cues embedded in pop culture may simply reply "that sounds like Zoolander" and stop listening.[10] The author reports that the most common criticism he receives from normies is "you watch too many movies," which he notes is ironic given that he almost never watches films or television and is at least fifteen years behind popular culture.[10]
+
+The conclusion drawn is that, far from informing the public, movies "blind people to the truth by virtue of resembling it too strongly, thus making fact and fiction indistinguishable."[10] Hollywood is thus cast as the cabal's targeted answer to the intuitively gifted minority, whom simple misdirection cannot hold — see [[intuition|intuition]] — a strategy said to work brilliantly until the [[q-proofs|Q proofs]] supplied logical and mathematical demonstration of the staged character of current events.[10]
+
+## CIA capture via the Fleiss network
+
+In "We Are Watching a Movie," [[joe-lange|Joe Lange]] asks how the [[central-intelligence-agency|CIA]] gained control of Hollywood and answers that it did so the same way it gained control over many powerful people: sexual compromise.[11] He points to the "little black book" of the former "Hollywood Madam" [[heidi-fleiss|Heidi Fleiss]], reported by the *New York Daily News* to have been listed for sale on eBay in 2015 and to contain the names of celebrities, politicians, sports figures and musicians, including the actor [[charlie-sheen|Charlie Sheen]] - a story that circulated long before Jeffrey Epstein's address book entered the news.[11] Fleiss, in his account, helped the CIA control Hollywood, which is why a figure such as [[harvey-weinstein|Harvey Weinstein]] could become one of the industry's biggest producers and remain above the law for decades; Lange treats Weinstein's conviction and imprisonment during [[donald-trump|Donald Trump]]'s presidency as a deliberate message that things have changed.[11]
+
+## Movies as narrative control
+
+Lange reads Q drop #632 of January 27, 2018 - with its questions "Who controls Hollywood?" and "Who really controls Hollywood?" - as pointing to the CIA, on the principle that when [[qanon|Q]] asks who really controls something the answer is almost always the agency.[11] Q's question about why movies are made to glorify past "true events," with "true" emphasised, is explained by Lange as a signal that recorded history has been twisted to protect a hidden enemy, with films serving as one more instrument of population control in an ongoing narrative war.[11] He extends the argument to [[operation-mockingbird|Operation Mockingbird]], which he says never ended, and to specific films: *Snow White* as a reference to the [[snow-white-supercomputers|seven CIA supercomputers]] and to [[alwaleed-bin-talal|Prince Alwaleed bin Talal]], and *[[the-sum-of-all-fears|The Sum of All Fears]]* as a Russia-demonising vehicle written by [[tom-clancy|Tom Clancy]].[11] These claims reflect Badlands Media interpretation rather than established fact.
+
+11. Badlands Brief - "We Are Watching a Movie", URL: https://badlands.substack.com/p/we-are-watching-a-movie

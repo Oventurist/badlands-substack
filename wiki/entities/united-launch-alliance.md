@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [space, aerospace, launch-provider, atlas-v]
-sources: [raw/badlands-news-brief-8a4.md]
+sources: [raw/badlands-news-brief-8a4.md, raw/trump-doctrine-peace-through-space.md]
 confidence: medium
 ---
 
@@ -22,5 +22,10 @@ The scrub was reported by Space Flight Now, and subsequent local reporting confi
 
 Badlands contributor [[ashe-in-america|Ashe in America]], reporting from Cocoa Beach during the tenth stop of the [[great-american-restoration-tour|Great American Restoration Tour]], described watching the scrubbed launch from the beach and speaking with satellite personnel staying at the same hotel.[1] Individuals identifying themselves as Viasat employees told her the satellite would provide high-speed internet for U.S. domestic flights, far faster than existing service, and that Viasat satellites already supplied the Delta fleet.[1]
 
+## Trump Doctrine: Peace Through Space
+
+"[[trump-doctrine-peace-through-space|Trump Doctrine: Peace Through Space]]" cites United Launch Alliance as the baseline against which [[spacex|SpaceX]]'s dominance is measured.[2] Before SpaceX, ULA was the sole provider of space launch for the [[department-of-defense|Department of Defense]]; its best year was 2009 with 16 launches, and since its 2006 inception it has averaged 8.7 launches per year.[2] The article charts ULA launches from 2016 onward against a y-axis capped at 100 specifically to make the comparison with SpaceX legible.[2]
+
 ## References
 1. Badlands Brief — "Embrace Disruption, Point Fingers, & Explore Any and All Options", URL: https://badlands.substack.com/p/badlands-news-brief-8a4
+2. Badlands Brief — "Trump Doctrine: Peace Through Space", URL: https://badlands.substack.com/p/trump-doctrine-peace-through-space

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [child-trafficking, qanon, conspiracy, media]
-sources: [raw/badlands-news-brief-d32.md]
+sources: [raw/badlands-news-brief-d32.md, raw/the-werewolf-game-what-is-clown-world.md]
 confidence: medium
 ---
 
@@ -20,3 +20,9 @@ Badlands commentators treated the adrenochrome framing as a rhetorical device: b
 
 ## References
 1. Badlands Brief — "It Was Always About the Children", URL: https://badlands.substack.com/p/badlands-news-brief-d32
+
+## Werewolf Game reference
+
+The Werewolf Game installment "What is Clown World?" invokes adrenochrome in passing while recounting Maori traditions of a race of red-haired albino giants who ate children, speculating that they may have done so to get high on adrenochrome.[2]
+
+2. Badlands Brief — "The Werewolf Game - What is Clown World?", URL: https://badlands.substack.com/p/the-werewolf-game-what-is-clown-world

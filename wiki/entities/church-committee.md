@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, cia, oversight, mockingbird, 1975]
-sources: [raw/america-has-a-cia-run-economy.md, raw/clowns-in-america.md, raw/four-pillars-of-government-control.md, raw/how-to-rent-a-riot-the-plausible.md, raw/poisoning-the-well.md, raw/the-church-committee-for-dummies.md, raw/the-information-imperium.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/clowns-in-america.md, raw/four-pillars-of-government-control.md, raw/how-to-rent-a-riot-the-plausible.md, raw/poisoning-the-well.md, raw/the-church-committee-for-dummies.md, raw/the-information-imperium.md, raw/two-wings-one-ugly-bird.md, raw/why-the-deep-state-cant-allow-government.md]
 confidence: medium
 ---
 
@@ -83,3 +83,19 @@ The report contained more than 90 legislative and regulatory recommendations des
 Badlands Media's "The Information Imperium" cites the Church Committee twice: as the investigation whose exposure of [[central-intelligence-agency|CIA]] media manipulation destroyed the agency's credibility by the 1970s and created the need for a successor vehicle in the [[national-endowment-for-democracy|National Endowment for Democracy]], and as the body that flagged [[usaid|USAID]] as a CIA front used for Vietnam-era intelligence work.[7] Both references anchor the article's claim that today's overt "democracy promotion" funding is the institutional descendant of operations the committee once exposed.[7]
 
 7. Badlands Brief — "The Information Imperium", URL: https://badlands.substack.com/p/the-information-imperium
+
+## Aftermath: the pivot to cut-outs
+
+"Two Wings, One Ugly Bird" recounts that the committee, formally the Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities and chaired by Idaho senator [[frank-church|Frank Church]], was formed in January 1975 amid public fury over Watergate, Vietnam and revelations of assassination plots, illegal wiretapping and mind-control experiments.[8] Over nine months it held 126 hearings, interviewed hundreds of witnesses and produced a six-volume report documenting attempts to kill foreign leaders, domestic spying, a "heart attack gun" and the opening of civilians' mail, with Church calling the [[central-intelligence-agency|CIA]] a "rogue elephant."[8] The 1974 New York Times exposé on domestic surveillance is identified as the fuse, and the committee's work led to the Foreign Intelligence Surveillance Act and permanent oversight committees.[8]
+
+The article's central claim is that the CIA did not simply submit to the new restrictions but pivoted: with direct operations too risky, it turned to cut-outs — organisations able to do its bidding while keeping its fingerprints off the gun.[8] The [[national-endowment-for-democracy|National Endowment for Democracy]], founded in 1983, and its partisan offshoots the [[national-democratic-institute|National Democratic Institute]] and [[international-republican-institute|International Republican Institute]] are presented as the direct products of that pivot, with [[usaid|USAID]] — flagged by Church Committee investigators as a frequent CIA collaborator — supplying much of the money.[8]
+
+8. Badlands Brief — "Two Wings, One Ugly Bird", URL: https://badlands.substack.com/p/two-wings-one-ugly-bird
+
+## As the occasion for a limited hangout (Carlson, 2025)
+
+Badlands contributor [[erik-carlson|Erik Carlson]] uses the committee's investigation as his paradigm case of managed disclosure.[9] In his January 2025 account, the [[central-intelligence-agency|CIA]] recognised during the 1970s inquiry that it could not entirely avoid exposure, and therefore had "their puppet," [[carl-bernstein|Carl Bernstein]], investigate and publish on how the agency manipulates the media.[9] Carlson argues this deliberately shifted public focus away from the CIA's alleged staging of [[false-flag-operation|false flag]] mass casualty events, assassination of world leaders, and control and overthrow of governments, and toward the lesser story that a favourite talking head might be receiving kickbacks for going easy on the agency.[9]
+
+He generalises the episode into a rule for reading present-day disclosures: when damaging information is going to emerge regardless, the network prefers that one of its own assets break it first, because the credibility earned can later be spent misleading the public.[9]
+
+9. Badlands Brief — "Why the Deep State Can't Allow Government Shutdowns", URL: https://badlands.substack.com/p/why-the-deep-state-cant-allow-government

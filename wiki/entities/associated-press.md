@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, wire-service, legacy-media]
-sources: [raw/badlands-news-brief-040.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-67e.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-e99.md, raw/behold-a-trojan-horse.md, raw/is-the-censorship-war-over.md]
+sources: [raw/badlands-news-brief-040.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-67e.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-e99.md, raw/behold-a-trojan-horse.md, raw/is-the-censorship-war-over.md, raw/the-whos-last-stand.md]
 confidence: medium
 ---
 
@@ -63,3 +63,11 @@ In February 2025 the AP was banned from covering White House events and travelli
 Badlands Media reported that the second Trump administration denied The Associated Press access to events after the wire service refused to adopt the administration's renaming of the Gulf of Mexico as the "Gulf of America."[9] Contributor [[ryan-delarme|Ryan DeLarme]] listed the episode among the administration's shortcomings on free speech, writing that regardless of the legalities — and despite admitting to "significant schadenfreude" at the AP's treatment — the action was "trending in a certain direction."[9] He offered the counterfactual of Joe Biden removing Fox News from a press event for refusing to acknowledge gender pronouns, arguing conservatives would have been up in arms, and warned that the right was increasingly embracing the behaviours it had spent four years criticizing.[9] For details see [[gulf-of-america-renaming|Gulf of America renaming]].[9]
 
 9. Badlands Brief — "Is the Censorship War Over?", URL: https://badlands.substack.com/p/is-the-censorship-war-over
+
+## Pandemic Treaty fact-check (2023)
+
+In the wake of scrutiny from the public and alternative media, the Associated Press ran a "fact-check" claiming that the [[who-pandemic-accord|Pandemic Treaty]] would not threaten national sovereignty.[10] Badlands Media disputed the assurance, arguing that under the proposed convention the [[world-health-organization|WHO]]'s dictates would supersede and overrule local, state and federal laws, and that its power would extend well beyond pandemic responses.[10]
+
+The article grounded its skepticism in the outlet's earlier COVID-19 coverage, contending that the AP had pushed claims that masks were effective against viruses, that [[hydroxychloroquine|Hydroxychloroquine]] and [[ivermectin|Ivermectin]] were "sham cures," that the vaccines were safe and effective, and that the Wuhan lab leak theory was Russian disinformation.[10] It grouped the AP with the [[international-fact-checking-network|International Fact-Checking Network]] as "damage control experts" presenting the WHO's intentions as purely altruistic.[10]
+
+10. Badlands Brief — "The WHO's Last Stand", URL: https://badlands.substack.com/p/the-whos-last-stand

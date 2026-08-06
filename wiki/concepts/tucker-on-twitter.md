@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [media, independent-media, tucker-carlson, twitter, censorship]
-sources: [raw/badlands-news-brief-275.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-f61.md]
+sources: [raw/badlands-news-brief-275.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-f61.md, raw/tucker-twitter-and-the-truth-community.md]
 confidence: medium
 ---
 
@@ -42,9 +42,20 @@ The platform's reach peaked with Carlson's interview of [[donald-trump|Donald Tr
 
 Episode 15 of the program featured former Capitol Police Chief [[steven-sund|Steven Sund]] describing what he said really happened on January 6.[4] [[ashe-in-america|Ashe in America]] wrote that the episode was lost amid an insane news week but was of major significance, since Sund's account had previously been suppressed — [[fox-news|Fox News]] refused to air Carlson's earlier interview with him, and [[60-minutes|60 Minutes]] used less than ten minutes of his side of the story.[4]
 
+## Viewership compared with cable
+
+Writing in August 2023, [[ashe-in-america|Ashe in America]] contrasted the program's reach with Carlson's former cable numbers: his best-rated [[fox-news|Fox News]] shows drew a tail of roughly four million live-plus-same-day views, and two to three million on average, while on Twitter — a platform Carlson pointedly refused to call X — he regularly drew tens of millions.[5] His first episode gained 121 million views, and his second and third drew 61 million and 105 million respectively, all in a short ten-to-twenty-minute format.[5] Around the ninth episode he shifted to long-form interviews.[5] The two-part [[andrew-tate|Andrew Tate]] interview received a combined 154 million views, the two-part [[devon-archer|Devon Archer]] interview 55.7 million, and the [[ice-cube|Ice Cube]] interview 18 million — low by the program's standards but more than four times his Fox audience.[5] The Sund interview stood at nearly 12 million views as of press time, three times what it would have drawn on Fox.[5] Carlson's interview with [[robert-f-kennedy-jr|Robert F. Kennedy, Jr.]], released in mid-August 2023, gained over one million views within an hour of posting.[5]
+
+By comparison, [[cnn|CNN]] was by then regularly pulling fewer than a million live-plus-same-day views for its entire primetime lineup, while Carlson pulled more than ten million per show on the low side — evidence, Ashe argued, that audiences had not stopped consuming news but had moved online.[5] She framed the program as a gateway: normie viewers arriving for Carlson would encounter other independent creators such as [[badlands-media|Badlands Media]] and be drawn further into the [[truth-community|truth community]].[5]
+
+## Editorial freedom
+
+Ashe in America argued that Carlson had been "handcuffed" at Fox, where his coverage was watered down — he had downplayed the stolen election after 2020, which caused some viewers, including her, to stop watching.[5] On Twitter he both expanded his audience and broadened the topics and level of detail he was willing to cover, openly stating that the election was stolen.[5]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Tucker's Tour de Force, Trump Besieged & More", URL: https://badlands.substack.com/p/badlands-news-brief-275
 2. Badlands Brief — "Trump Surrenders ... Or Does He?", URL: https://badlands.substack.com/p/badlands-news-brief-4b1
 3. Badlands Brief — "Badlands News Brief: Ukraine Bursts, Tucker Returns & Trump Promises", URL: https://badlands.substack.com/p/badlands-news-brief-72e
 4. Badlands Brief — "Badlands News Brief: Special Counsels, Island Fires & White Pills", URL: https://badlands.substack.com/p/badlands-news-brief-f61
+5. Badlands Brief — "Tucker, Twitter, and the Truth Community", URL: https://badlands.substack.com/p/tucker-twitter-and-the-truth-community

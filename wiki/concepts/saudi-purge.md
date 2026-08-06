@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [saudi-arabia, mbs, q, anti-corruption, golden-age]
-sources: [raw/badlands-news-brief-02f.md, raw/q-for-dummies-chapter-12.md, raw/q-for-dummies-chapter-14.md, raw/q-for-dummies-chapter-18.md, raw/q-for-dummies-chapter-10.md, raw/q-for-dummies-chapter-16.md, raw/q-for-dummies-chapter-15.md, raw/q-for-dummies-chapter-20.md, raw/q-for-dummies-chapter-21.md, raw/q-for-dummies-chapter-9.md, raw/q-for-dummies-chapter-22.md, raw/the-bridge-3c3.md]
+sources: [raw/badlands-news-brief-02f.md, raw/q-for-dummies-chapter-12.md, raw/q-for-dummies-chapter-14.md, raw/q-for-dummies-chapter-18.md, raw/q-for-dummies-chapter-10.md, raw/q-for-dummies-chapter-16.md, raw/q-for-dummies-chapter-15.md, raw/q-for-dummies-chapter-20.md, raw/q-for-dummies-chapter-21.md, raw/q-for-dummies-chapter-9.md, raw/q-for-dummies-chapter-22.md, raw/the-bridge-3c3.md, raw/trump-takes-out-the-king.md, raw/trump-cuts-the-head-off-the-snake.md]
 confidence: low
 ---
 
@@ -54,13 +54,8 @@ Chapter 10 of the [[q-for-dummies|Q for Dummies]] series, covering drops #72 thr
 
 Drop #73 asks what Trump's last tweet prior to the purge was; the answer given is a tweet concerning [[saudi-aramco|ARAMCO]], read superficially as a signal of American willingness to work with the Saudis and, on the deeper reading, as approval for the operation about to take place.[5] Drops #76 through #78 are reposts of earlier Saudi material, which the chapter interprets as Q signalling that anons had still not fully grasped the situation.[5] The chapter treats Mohammed bin Salman as having cleared out the corruption within the Royal Family, and argues on that basis that Saudi Arabia has since played a vital role in restraining escalation in the Middle East.[5] Q's [[alice-and-wonderland|"Alice & Wonderland"]] cipher, resolved in drop #80, identifies the Kingdom as the "Bloody Wonderland" of the sequence.[5]
 
-## References
 
-1. Badlands Brief — "Badlands News Brief: Lavish Courtships, Extremely Strong Relations, & Fake Election Rituals", URL: https://badlands.substack.com/p/badlands-news-brief-02f
 2. Badlands Media — "Q for Dummies - Chapter 12", URL: https://badlands.substack.com/p/q-for-dummies-chapter-12
-3. Badlands Brief — "Q for Dummies - Chapter 14", URL: https://badlands.substack.com/p/q-for-dummies-chapter-14
-4. Badlands Brief — "Q for Dummies - Chapter 18", URL: https://badlands.substack.com/p/q-for-dummies-chapter-18
-5. Badlands Brief — "Q for Dummies - Chapter 10", URL: https://badlands.substack.com/p/q-for-dummies-chapter-10
 6. Badlands Media — "Q for Dummies - Chapter 16", URL: https://badlands.substack.com/p/q-for-dummies-chapter-16
 
 ## "SA cut the strings" (Chapter 15)
@@ -71,14 +66,11 @@ The chapter advances the further claim that the [[2017-trump-twitter-account-dea
 
 The chapter places the purge within a wider set of pressures on the [[deep-state|Deep State]] in late 2017 — Jeff Sessions' moves against leakers, the initiation of John Durham's work, and Q's arrival — that together, in the author's account, produced visible fear among targeted actors.[7]
 
-7. Badlands Brief — "Q for Dummies - Chapter 15", URL: https://badlands.substack.com/p/q-for-dummies-chapter-15
 
 ## The "+++" proof (Chapter 20)
 
 Chapter 20 of the [[q-for-dummies|Q for Dummies]] series, covering drops #122–127, treats the purge as the referent of the [[q-plus-symbols|"+++" marker]] that Q posted in drop #123 on November 6, 2017.[8] The chapter reconstructs a same-day sequence in which [[donald-trump|President Trump]] tweeted "+++" at 4:15 p.m., Q posted drop #123 with the same marker at 5:07 p.m., and Trump tweeted in reference to the Saudi Arabian purge at 6:03 p.m.[8] Because drop #133 later identified "+++" as the [[house-of-saud|House of Saud]], the author concludes that Q Team had signalled that this player had been removed from the playing field, and counts the sequence among the [[q-proofs|Q proofs]].[8]
 
-8. Badlands Brief — "Q for Dummies - Chapter 20", URL: https://badlands.substack.com/p/q-for-dummies-chapter-20
-9. Badlands Brief — "Q for Dummies - Chapter 21", URL: https://badlands.substack.com/p/q-for-dummies-chapter-21
 
 ## Chapter 21 and the National Guard disinfo
 
@@ -94,7 +86,6 @@ The chapter stresses the personal channel behind the operation, noting that [[ja
 
 Order during the crackdown was maintained by the [[saudi-arabian-national-guard|Saudi Republican Guard]], which the chapter likens to the American [[national-guard|National Guard]], and it reads Q as having given anons a crash course in how the U.S. Guard could work alongside the Marines during comparable periods of national unrest.[10] A ballistic missile launched from [[yemen|Yemen]] toward Riyadh during the purge and intercepted is interpreted as a [[deep-state|Deep State]] attempt to eliminate patriot assets that was quickly shut down.[10] Asked which U.S. operators were then in the Kingdom, the chapter answers [[blackwater|Blackwater]].[10]
 
-10. Badlands Brief — "Q for Dummies - Chapter 9", URL: https://badlands.substack.com/p/q-for-dummies-chapter-9
 
 ## Drop #134 and the toppled side of the pyramid (Chapter 22)
 
@@ -102,7 +93,6 @@ Chapter 22 of the series reads Q Drop #134, posted November 11, 2017, as opening
 
 The chapter treats Q as stating outright that Saudi control over the United States had just been toppled, and reconstructs the dynastic groundwork: [[salman-bin-abdulaziz|King Salman bin Abdulaziz Al Saud]] became king in January 2015, and his son [[mohammed-bin-salman|Mohammed bin Salman]] — described as a friend of [[donald-trump|Trump]]'s — pulled the plug on the previous Saudi regime, with Salman's installation understood to have paved the way for the purge.[11] Q then reiterates that one side of the pyramid had been removed while the toppling of the others, the [[rothschild-family|Rothschilds]] and [[george-soros|George Soros]], was well underway.[11]
 
-11. Badlands Brief — "Q for Dummies - Chapter 22", URL: https://badlands.substack.com/p/q-for-dummies-chapter-22
 
 ## The Podesta connection ("The Bridge")
 
@@ -110,4 +100,30 @@ Joe Lange's report "The Bridge" reconstructs the arrest list published by Forbes
 
 Lange emphasizes Tuwaijri's role as head of the Saudi Royal Court, which housed the Center for Studies and Media Affairs that reportedly paid the [[podesta-group|Podesta Group]] $140,000 a month, and Waleed Al Ibrahim's ownership of the Middle East Broadcasting Corporation, which he says the mogul partly surrendered — some 60% of the company — to secure his release.[12] On this reading the Podesta Group functioned as a bridge between Alwaleed and both the American and Saudi media, and the arrests cut the puppet strings of officials in Washington: Q drop 93 stated that Hillary Clinton "was a puppet but her STRINGS were recently cut," while drop 275 asserted that "Saudi Arabia CONTROLS elected people."[12] Q drop 94, posted the same day, reported that Bill Clinton wanted a deal and that Hillary was "not currently in Saudi Arabia."[12] Lange argues the [[john-podesta|Podesta]] brothers were attempting to flee to the Kingdom two days before Alwaleed's arrest, and that the firm filed its Saudi FARA paperwork and shuttered shortly afterward.[12]
 
+
+## "Trump Takes Out the King"
+
+[[joe-lange|Joe Lange]]'s article "Trump Takes Out the King" presents the November 5, 2017 arrests as the decisive opening move of Trump's war, describing [[alwaleed-bin-talal|Alwaleed bin Talal]] as the "king" on the chessboard and the arrests as a deliberate inversion of chess convention in which the most powerful piece is removed first.[13] Quoting [[vanity-fair|Vanity Fair]], the piece records that Alwaleed was detained along with ten other princes, four ministers and many former ministers, hours after King [[salman-bin-abdulaziz|Salman]] declared his anti-corruption initiative, on charges of money laundering, bribery and extortion.[13] Lange claims American special forces assisted in the arrests and points to Q posts issued the same day, including post 106, which he reads as describing the puppets scrambling for cover once Saudi Arabia cut the strings.[13]
+
+The article situates the purge at the end of a planned sequence: the [[sword-dance|sword dance]] and $110 billion arms deal of May 2017, the dedication of the [[global-center-for-combating-extremist-ideology|center to combat Islamic extremism]], the [[arab-islamic-american-summit|Arab Islamic American Summit]], the [[qatar-diplomatic-crisis-2017|blockade of Qatar]], the June 21 elevation of [[mohammed-bin-salman|Mohammed bin Salman]] over [[mohammed-bin-nayef|Mohammed bin Nayef]], and a low-profile trip to the Kingdom by [[jared-kushner|Jared Kushner]] days before the arrests.[13]
+
+## References
+1. Badlands Brief — "Badlands News Brief: Lavish Courtships, Extremely Strong Relations, & Fake Election Rituals", URL: https://badlands.substack.com/p/badlands-news-brief-02f
+3. Badlands Brief — "Q for Dummies - Chapter 14", URL: https://badlands.substack.com/p/q-for-dummies-chapter-14
+4. Badlands Brief — "Q for Dummies - Chapter 18", URL: https://badlands.substack.com/p/q-for-dummies-chapter-18
+5. Badlands Brief — "Q for Dummies - Chapter 10", URL: https://badlands.substack.com/p/q-for-dummies-chapter-10
+7. Badlands Brief — "Q for Dummies - Chapter 15", URL: https://badlands.substack.com/p/q-for-dummies-chapter-15
+8. Badlands Brief — "Q for Dummies - Chapter 20", URL: https://badlands.substack.com/p/q-for-dummies-chapter-20
+9. Badlands Brief — "Q for Dummies - Chapter 21", URL: https://badlands.substack.com/p/q-for-dummies-chapter-21
+10. Badlands Brief — "Q for Dummies - Chapter 9", URL: https://badlands.substack.com/p/q-for-dummies-chapter-9
+11. Badlands Brief — "Q for Dummies - Chapter 22", URL: https://badlands.substack.com/p/q-for-dummies-chapter-22
 12. Badlands Brief — "The Bridge", URL: https://badlands.substack.com/p/the-bridge-3c3
+13. Badlands Brief — "Trump Takes Out the King", URL: https://badlands.substack.com/p/trump-takes-out-the-king
+
+## In "Trump Cuts the Head off the Snake"
+
+Joe Lange's follow-up article frames the purge as only half the story, arguing that surrounding events expose what he calls the cabal's manufactured Sunni–Shia division.[14] The day before [[alwaleed-bin-talal|Alwaleed bin Talal]] and hundreds of Saudis were arrested, Lebanese Prime Minister [[saad-hariri|Saad al-Hariri]] abruptly resigned while in Riyadh, and within hours Saudi Arabia reported intercepting a ballistic missile fired from [[yemen|Yemen]] over the capital.[14]
+
+On the day of the arrests themselves, Prince [[mansour-bin-muqrin|Mansour bin Muqrin]], deputy governor of Asir province, was killed with seven other officials when his helicopter came down near Abha, close to the Yemeni border, hours after the anti-corruption body led by 32-year-old Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] ordered the detention of dozens of people including 11 princes, four ministers and dozens of ex-ministers.[14] Reports cited by Lange claimed the helicopter was shot down by a Saudi warplane and that bin Muqrin had written to over a thousand princes urging them not to support bin Salman's succession.[14] Lange argues the prince was fleeing to Yemen and that his death was not coincidental.[14]
+
+14. Badlands Brief — "Trump Cuts the Head off the Snake", URL: https://badlands.substack.com/p/trump-cuts-the-head-off-the-snake

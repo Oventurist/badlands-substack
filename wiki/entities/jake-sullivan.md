@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [foreign-policy, iran-deal, biden, clinton, deep-state]
-sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-acf.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b10.md, raw/badlands-news-brief-bed.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-d21.md, raw/quid-pro-joe.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-acf.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b10.md, raw/badlands-news-brief-bed.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-d21.md, raw/quid-pro-joe.md, raw/we-wont-forget.md]
 confidence: medium
 ---
 
@@ -142,3 +142,9 @@ He said consensus could be achieved "if all of us approach it in good faith," an
 ## Truman National Security Project board
 
 Reporting in 2023 revealed that Sullivan had served on a national security advisory board — the [[truman-national-security-project|Truman National Security Project]] — alongside [[hunter-biden|Hunter Biden]].[20] Badlands writer [[jon-herold|Jon Herold]] noted that the same board also included [[sally-painter|Sally Painter]] of [[blue-star-strategies|Blue Star Strategies]], the firm retained by [[burisma|Burisma]] in 2015 while Hunter Biden sat on its board.[20] Sullivan did not join the Truman board until roughly 2017, after he had left the [[state-department|State Department]].[20]
+
+## Alleged role in the Benghazi document session
+
+Whistleblower [[raymond-maxwell|Raymond Maxwell]], then a Deputy Assistant Secretary in the [[state-department|State Department]]'s Bureau of Near Eastern Affairs, testified that Sullivan and [[cheryl-mills|Cheryl Mills]] — two of [[hillary-clinton|Hillary Clinton]]'s closest aides at the department — oversaw an after-hours weekend session in a basement operations-type center at department headquarters to "separate" damaging documents before they were turned over to the [[accountability-review-board|Accountability Review Board]] investigating the [[benghazi-attack|Benghazi attack]].[21] Maxwell said he was not invited but heard about the gathering and showed up on a Sunday afternoon to see it for himself.[21] [[joe-lange|Joe Lange]] treats the episode as direct evidence that the Benghazi reviews were a cover-up rather than genuine accountability exercises.[21] These claims reflect Badlands Media interpretation rather than established fact.
+
+21. Badlands Brief — "We Won't Forget", URL: https://badlands.substack.com/p/we-wont-forget

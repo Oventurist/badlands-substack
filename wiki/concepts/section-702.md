@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [surveillance, fisa, civil-liberties, congress, intelligence]
-sources: [raw/badlands-brief-07c.md, raw/badlands-brief-579.md, raw/badlands-brief-c91.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-cce.md]
+sources: [raw/badlands-brief-07c.md, raw/badlands-brief-579.md, raw/badlands-brief-c91.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-cce.md, raw/tulsi-gabbard-runs-the-gauntlet.md]
 confidence: medium
 ---
 
@@ -52,3 +52,10 @@ Badlands contributor [[ashe-in-america|Ashe in America]] wrote that "this is how
 4. Badlands Brief — "Badlands News Brief: Devastation at Davos & the Dawn of Denuclearization", URL: https://badlands.substack.com/p/badlands-news-brief-53f
 5. Badlands News Brief — "Iranian Walk-backs, Trump Trials & Trans Truths", URL: https://badlands.substack.com/p/badlands-news-brief-808
 6. Badlands Brief — "Badlands News Brief: The System of Systems is a House of Cards", URL: https://badlands.substack.com/p/badlands-news-brief-cce
+
+## Role in the 2025 Gabbard confirmation hearing
+
+Section 702 of the Foreign Intelligence Surveillance Act became one of the central lines of attack against [[tulsi-gabbard|Tulsi Gabbard]] during her February 2025 confirmation hearing for [[director-of-national-intelligence|Director of National Intelligence]], where senators of both parties pressed her to declare her support for the authority.[7] Badlands Media described Section 702 as a law passed in 2008 that gives the U.S. government the ability to spy on the communications of ordinary Americans without a warrant, and argued that evidence of abuse has been mounting for years while Congress renews the authority every three years without reform despite bipartisan promises to curb it.[7]
+
+The publication framed the dispute in terms of the central taboo on which the U.S. security state was built — that its unchecked powers must never be turned inward against the American people — and invoked [[frank-church|Frank Church]], the Idaho senator behind the [[church-committee|Church Committee]], whose investigations exposed COINTELPRO, MKULTRA and CIA assassination plots.[7] Church warned that the surveillance capability "at any time could be turned around on the American people," leaving no place to hide, and that if a dictator ever took over, the [[national-security-agency|NSA]] could enable total tyranny with no way to fight back.[7]
+7. Badlands Brief — "Tulsi Gabbard Runs the Gauntlet", URL: https://badlands.substack.com/p/tulsi-gabbard-runs-the-gauntlet

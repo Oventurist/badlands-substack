@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [qanon, truth-community, deep-state, memetics]
-sources: [raw/badlands-news-brief-fcb.md, raw/countering-an-ocean-of-deceit.md, raw/in-defense-of-q-we-were-never-told.md, raw/q-for-dummies-chapter-6.md, raw/q-is-our-best-fren.md]
+sources: [raw/badlands-news-brief-fcb.md, raw/countering-an-ocean-of-deceit.md, raw/in-defense-of-q-we-were-never-told.md, raw/q-for-dummies-chapter-6.md, raw/q-is-our-best-fren.md, raw/the-white-pill-emporium-part-2.md]
 confidence: medium
 ---
 
@@ -46,3 +46,9 @@ Chapter 6 of Badlands' [[q-for-dummies|Q for Dummies]] series argues that [[qano
 In "Q is Our Best Fren" (March 25, 2025), [[american-hypnotist|American Hypnotist]] speculated that the [[cabal]] retains at least one further system-wide attack of the kind he attributes to the Covid pandemic, and that the fabled Storm will occur either in response to such an attack or as a means of goading the cabal into launching it.[5] He presented this explicitly as speculation set aside from the essay's main argument.[5]
 
 The essay assigns [[anons]] a preparatory role, describing their accumulated research as work that would one day prove crucial in helping mankind identify the parasites in its midst and weather the Storm.[5] It closes with the author's statement that he believes the Storm will arrive very soon, and with an appeal for readers to keep their nerves in check and become as "un-triggerable" as possible while the battle continues.[5]
+
+## 2024 timing prediction
+
+Writing on 2 November 2024 in Part 2 of [[the-white-pill-emporium|The White Pill Emporium]], [[american-hypnotist|American Hypnotist]] warned readers that he expected the Storm promised by [[q-operation|Q]] to arrive somewhere in the middle of 2025.[6] He reckoned that events would continue to get "darker and crazier" until the operation was complete, allowed that he might be wrong, and argued that if he was right then readers would need all the white pills they could get.[6]
+
+6. Badlands Brief — "The White Pill Emporium - Part 2: Divine Intervention, Q and the CTMU", URL: https://badlands.substack.com/p/the-white-pill-emporium-part-2

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, benghazi, investigation, gowdy]
-sources: [raw/a-dereliction-of-duty.md]
+sources: [raw/a-dereliction-of-duty.md, raw/we-wont-forget.md]
 confidence: medium
 ---
 
@@ -20,3 +20,10 @@ Separately, the House Permanent Select Committee on Intelligence — where Rep. 
 
 ## References
 1. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
+2. Badlands Brief — "We Won't Forget", URL: https://badlands.substack.com/p/we-wont-forget
+
+## Origins and the tenth investigation
+
+"We Won't Forget" states that the select committee was created only because the Obama administration repeatedly stonewalled requests for information, prompting a few key members of Congress to demand a new inquiry after earlier reviews had gone nowhere.[2] Ten investigations in total were conducted into the 2012 attack, six of them by Republican-controlled House committees; the official record identified problems with security measures at the Benghazi facilities attributable to decisions by employees of the State Department's Bureau of Diplomatic Security and specifically its director Eric Boswell, who resigned under pressure in December 2012.[2] Despite numerous allegations of scandal, cover-up and lying against Obama administration officials, none of the ten investigations found evidence supporting those allegations, and the last committee issued its final report and shut down in December 2016, one month after the [[2016-united-states-presidential-election|2016 presidential election]].[2]
+
+[[joe-lange|Joe Lange]] disputes that conclusion, arguing the committee under [[trey-gowdy|Trey Gowdy]] produced the only real bombshells of any Benghazi inquiry — including the exposure of [[hillary-clinton|Hillary Clinton]]'s [[hillary-clinton-private-email-server|private email server]] and the whistleblower testimony of [[raymond-maxwell|Raymond Maxwell]] about a weekend document-separation session in the State Department basement before materials reached the [[accountability-review-board|Accountability Review Board]].[2] The article also notes that [[mike-pompeo|Mike Pompeo]] sat on the committee behind Gowdy, and reads the December 2016 shutdown as a deliberate handoff of the committee's evidence to military investigators rather than an admission of failure.[2] These characterizations reflect Badlands Media interpretation rather than established fact.

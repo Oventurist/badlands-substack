@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [bitcoin, space-force, military, softwar, power-projection]
-sources: [raw/are-we-entering-the-millennial-reign.md, raw/celebrating-15-years-of-indictments.md, raw/dont-bring-shiny-rocks-to-digital.md, raw/kekistani-code-talkers.md]
+sources: [raw/are-we-entering-the-millennial-reign.md, raw/celebrating-15-years-of-indictments.md, raw/dont-bring-shiny-rocks-to-digital.md, raw/kekistani-code-talkers.md, raw/trump-doctrine-peace-through-space.md]
 confidence: medium
 ---
 
@@ -34,9 +34,13 @@ Lowery was also cited in the same essay for the argument that the decisive count
 
 The Badlands Brief article "Kekistani Code Talkers" cites Major Jason Lowery for his discussion of a transition to a new war-fighting domain in space and of the national strategic significance of [[bitcoin|Bitcoin]], as set out in [[softwar|Softwar]].[4] The author links this thesis to Q's definition of the "stone" as the capability of projecting power.[4]
 
+## Trump Doctrine: Peace Through Space
+
+"[[trump-doctrine-peace-through-space|Trump Doctrine: Peace Through Space]]" draws on Lowery, a [[united-states-space-force|Space Force]] major, and his book *[[softwar|Softwar]]*, which discusses General [[billy-mitchell|Billy Mitchell]]'s 1920s court-martial for insubordination after he accused Army, Navy and congressional leaders of "near-treasonous" incompetence for refusing to accept that airplanes would become as strategically vital as battleships.[5] Lowery documents points in history where the hubris of powerful nations caused rejection of new Schelling points of war, often resulting in their demise, and concludes that [[bitcoin|Bitcoin]] is a new Schelling point of non-kinetic warfare in cyber-space and that a digital, path-dependent arms race is underway in the space warfighting domain.[5]
 
 ## References
 1. Badlands Brief — "Are We Entering the Millennial Reign?", URL: https://badlands.substack.com/p/are-we-entering-the-millennial-reign
 2. Badlands Brief — "Celebrating 15 Years of Indictments and Justice!", URL: https://badlands.substack.com/p/celebrating-15-years-of-indictments
 3. Badlands Brief — "Don't Bring Shiny Rocks to Digital Gunfights", URL: https://badlands.substack.com/p/dont-bring-shiny-rocks-to-digital
 4. Badlands Brief — "Kekistani Code Talkers", URL: https://badlands.substack.com/p/kekistani-code-talkers
+5. Badlands Brief — "Trump Doctrine: Peace Through Space", URL: https://badlands.substack.com/p/trump-doctrine-peace-through-space

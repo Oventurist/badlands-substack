@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [american-system, political-economy, tariffs, national-banking, industrialization]
-sources: [raw/the-enduring-legacy-of-the-entente.md]
+sources: [raw/the-enduring-legacy-of-the-entente.md, raw/which-foreign-policy-play-for-the.md]
 confidence: medium
 ---
 
@@ -24,3 +24,11 @@ Inside the United States, nationalists sometimes dubbed the "American System Cau
 
 ## References
 1. Badlands Brief — "The Enduring Legacy of the Entente Cordiale", URL: https://badlands.substack.com/p/the-enduring-legacy-of-the-entente
+
+## McKinley, Gilpin and the internationalization of the system
+
+President [[william-mckinley|William McKinley]] is described by [[matthew-ehret|Matthew Ehret]] as a defender of [[abraham-lincoln|Lincoln]]'s American System of protectionism, internal improvements, productive credit and African-American suffrage, paired externally with the [[monroe-doctrine|Monroe Doctrine]].[2] In an 1898 speech McKinley attacked British free trade and Adam Smith's doctrine of buying low and selling dear, declaring that "cheap merchandise means cheap men, and cheap men mean a cheap country" and that "we want labor to be well paid."[2]
+
+After the Civil War, [[william-gilpin|William Gilpin]] became a leading advocate of internationalizing the American System, citing Lincoln's success and writing that "to rely upon herself, to develop her own resources, to manufacture everything that can possibly be manufactured within her territory — this is and has been the policy of the USA from the time of Alexander Hamilton to that of Henry Clay and thence to our own days."[2] Russia's [[sergei-witte|Sergei Witte]] is identified as an American System follower, having said in 1890 that "the railroad is like a leaven, which creates a cultural fermentation among the population."[2] Ehret asks whether President [[donald-trump|Donald Trump]], the first president in decades to invoke restoring American System tariff policy, can secure a Russia–US–China alliance capable of reviving McKinley's system.[2]
+
+2. Badlands Brief — "Which Foreign Policy Play for the USA?", URL: https://badlands.substack.com/p/which-foreign-policy-play-for-the

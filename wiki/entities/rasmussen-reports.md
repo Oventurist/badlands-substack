@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [polling, media-trust, survey]
-sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/badlands-brief-5a2.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-2cb.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-e3e.md, raw/thats-not-signature-verification.md]
+sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/badlands-brief-5a2.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-2cb.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-e3e.md, raw/thats-not-signature-verification.md, raw/tucker-twitter-and-the-truth-community.md]
 confidence: medium
 ---
 
@@ -64,3 +64,8 @@ Rasmussen polling conducted in April 2023 found that 62 percent of Americans had
 7. Badlands Brief — "Trump Trifecta, COVID Concealment & Sorosian Slime", URL: https://badlands.substack.com/p/badlands-news-brief-5a7
 8. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e
 9. Badlands Brief — "That's Not Signature Verification, Your Honor", URL: https://badlands.substack.com/p/thats-not-signature-verification
+10. Badlands Brief — "Tucker, Twitter, and the Truth Community", URL: https://badlands.substack.com/p/tucker-twitter-and-the-truth-community
+
+## January 6 polling (2023)
+
+Rasmussen polling cited by [[ashe-in-america|Ashe in America]] in August 2023 found that 65% of likely US voters — roughly two-thirds — believed the feds provoked the January 6 Capitol riot.[10] She attributed the shift at least in part to [[tucker-carlson|Tucker Carlson]]'s disclosures on the fake insurrection, and noted the survey predated his later episodes and disclosures on [[tucker-on-twitter|Tucker on Twitter]].[10]

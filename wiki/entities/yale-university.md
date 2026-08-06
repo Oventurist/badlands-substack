@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [universities, protests, endowments, israel-palestine]
-sources: [raw/badlands-news-brief-065.md, raw/scholars-and-spooks.md, raw/the-ivy-dominion.md, raw/the-men-behind-the-curtain-part-8.md]
+sources: [raw/badlands-news-brief-065.md, raw/scholars-and-spooks.md, raw/the-ivy-dominion.md, raw/the-men-behind-the-curtain-part-8.md, raw/throne-of-the-ivy-grid.md, raw/wilted-ivy.md]
 confidence: medium
 ---
 
@@ -44,9 +44,23 @@ In the essay's collapse narrative, Yale is described as more insulated than its 
 
 The article presents Yale as the best-documented site of the deep state's recruitment and grooming process, noting that as of 2020 the university had graduated five U.S. presidents, ten Founding Fathers, nineteen Supreme Court justices, thirty-one living billionaires and fifty-four college founders and presidents, along with hundreds of members of Congress, many heads of state, cabinet members, governors and diplomats, 78 MacArthur Fellows, 263 Rhodes Scholars, 123 Marshall Scholars, 102 Guggenheim Fellows and nine Mitchell Scholars.[4] DeLarme adds a disclaimer that graduating from Yale is not itself a damning indictment, while maintaining that a subversive recruitment and grooming process takes place behind closed doors and that the names involved have been implicated in everything from war crimes to depopulation.[4] Yale's three pre-eminent senior societies are named as [[wolfs-head|Wolf's Head]], [[scroll-and-key|Scroll and Key]] and [[skull-and-bones|Skull and Bones]], the last incorporated in 1856 as the [[russell-trust-association|Russell Trust Association]] and, according to the article, funded from the Far East opium trade.[4]
 
+
+## In "Throne of the Ivy Grid"
+
+The Badlands Media essay *Throne of the Ivy Grid* describes Yale, founded in 1701 and shaped by colonial clergy, as an institution "soon embedded with Masonic blueprinting" whose ultimate legacy was not theology but secrecy.[5] It recalls the earlier essay *Wilted Ivy* in arguing that Yale's 19th-century adoption of Prussian death-rite modeling through [[skull-and-bones|Skull & Bones]] became "the ritual forge of managerial duplication," and extends that thread into what it calls bloodline enforcement.[5]
+
+Presidents, spymasters, and central bankers are said to trace their lineage through this "chapel of controlled opposition," with [[george-hw-bush|George H. W. Bush]], William F. Buckley, and John Kerry presented not as coincidental classmates but as "operatives carved from ritual allegiance" whose power came from blood oaths and sealed vaults beneath New Haven.[5] The essay summarizes: "Yale did not produce leaders. It cloned them."[5] [[hillary-clinton|Hillary Clinton]] is likewise described as "consecrated by Yale" and raised through its "legalist forge."[5]
+
 ## References
 
 1. Badlands Brief — "The Dye's Been Cast Out. The Round Table is Set.", URL: https://badlands.substack.com/p/badlands-news-brief-065
 2. Badlands Brief — "Scholars and Spooks", URL: https://badlands.substack.com/p/scholars-and-spooks
 3. Badlands Brief — "The Ivy Dominion", URL: https://badlands.substack.com/p/the-ivy-dominion
 4. Badlands Brief — "The Men Behind the Curtain - Part 8", URL: https://badlands.substack.com/p/the-men-behind-the-curtain-part-8
+5. Badlands Brief — "Throne of the Ivy Grid", URL: https://badlands.substack.com/p/throne-of-the-ivy-grid
+
+## Cited in "Wilted Ivy"
+
+Badlands Media's May 2025 essay "Wilted Ivy" cites Yale as a leading example of how the [[ivy-league|Ivy League]] functioned as a pipeline into political and intelligence leadership, noting that Yale "fostered [[skull-and-bones|Skull and Bones]], a society tied to generations of political and intelligence leadership."[6] The reference is used to support the article's broader claim that Ivy League institutions cultivated a managerial class rather than merely educating students.[6]
+
+6. Badlands Brief — "Wilted Ivy", URL: https://badlands.substack.com/p/wilted-ivy

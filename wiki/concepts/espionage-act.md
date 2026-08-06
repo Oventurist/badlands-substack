@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [law, classified-documents, national-security, prosecution]
-sources: [raw/badlands-news-brief-208.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-ea0.md, raw/rainbow-color-revolution.md, raw/smoke-and-mirrors.md]
+sources: [raw/badlands-news-brief-208.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-ea0.md, raw/rainbow-color-revolution.md, raw/smoke-and-mirrors.md, raw/unveiling-the-mar-a-lago-raid-1-year.md]
 confidence: medium
 ---
 
@@ -66,3 +66,9 @@ DeLarme stressed two features of the Act that he considered decisive. First, it 
 DeLarme identified a significant uptick in the Act's use during the administration of [[barack-obama|Barack Obama]], describing it as that administration's "weapon of choice" against national security leakers and whistleblowers.[7] He quoted [[cnn|CNN]]'s [[jake-tapper|Jake Tapper]]: "The Obama administration has used the Espionage Act to go after whistleblowers who leaked to journalists ... more than all previous administrations combined."[7] Named targets included [[julian-assange|Julian Assange]], [[edward-snowden|Edward Snowden]], CIA officer [[john-kiriakou|John Kiriakou]] — sentenced to 30 months in federal prison — and Army private [[chelsea-manning|Chelsea Manning]], sentenced to 35 years, of which she served seven before Obama commuted the sentence.[7] Against that record DeLarme asked how the charges against [[donald-trump|Donald Trump]] could arrive at a theoretical exposure of 400 years, attributing the disparity to the absence of ordinary checks and balances once the [[deep-state|Deep State]] has resolved to remove a target at all costs.[7]
 
 7. Badlands Brief — "Smoke and Mirrors", URL: https://badlands.substack.com/p/smoke-and-mirrors
+
+## Application in the Mar-a-Lago documents case
+
+The Espionage Act supplied the statutory backbone of the investigation opened by the August 8, 2022 [[mar-a-lago-raid|search of Mar-a-Lago]]: the unsealed warrant listed potential violations of the Act together with the unauthorised retention of national defense information.[8] [[alpha-warrior|Alpha Warrior]], writing in August 2023, noted that the Espionage Act counts in the resulting [[2023-trump-classified-documents-indictment|37-count indictment]] each carried a potential decade-long prison sentence.[8] He cautioned that the political character of the accusations should not obscure the nuances of the law, arguing that the charges did not necessarily reflect a genuine threat to national security and instead served a larger narrative aimed at tarnishing [[donald-trump|Donald Trump]]'s legacy.[8] Trump's defenders countered that the [[presidential-records-act|Presidential Records Act]] of 1978, not the Espionage Act, governed his handling of the materials.[8]
+
+8. Badlands Brief — "Unveiling the Mar-a-Lago Raid – 1 Year Delta", URL: https://badlands.substack.com/p/unveiling-the-mar-a-lago-raid-1-year

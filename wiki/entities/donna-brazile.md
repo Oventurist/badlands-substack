@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [democratic-party, dnc, political-commentary]
-sources: [raw/bernie-sanders-establishment-tool.md, raw/q-for-dummies-chapter-6.md]
+sources: [raw/bernie-sanders-establishment-tool.md, raw/q-for-dummies-chapter-6.md, raw/two-wings-one-ugly-bird.md]
 confidence: medium
 ---
 
@@ -26,3 +26,9 @@ The chapter also notes that Q asked whether the target of interest was Brazile h
 
 1. Badlands Media — "Bernie Sanders: Establishment Tool", URL: https://badlands.substack.com/p/bernie-sanders-establishment-tool
 2. Badlands Brief — "Q for Dummies - Chapter 6", URL: https://badlands.substack.com/p/q-for-dummies-chapter-6
+
+## National Democratic Institute board
+
+"Two Wings, One Ugly Bird" identifies Donna Brazile as a longtime Democratic strategist and former DNC chair who sits on the board of the [[national-democratic-institute|National Democratic Institute]], linking decades of party strategy — including her management of Al Gore's 2000 campaign — to the institute's work.[3] The article places her, together with [[derek-mitchell|Derek Mitchell]], in the NDI orbit during [[barack-obama|Barack Obama]]'s 2008 rise, when it argues the institute's overseas "voter education" and community organising methods were mirrored in the campaign's grassroots machine.[3]
+
+3. Badlands Brief — "Two Wings, One Ugly Bird", URL: https://badlands.substack.com/p/two-wings-one-ugly-bird

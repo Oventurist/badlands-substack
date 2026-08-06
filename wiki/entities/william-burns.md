@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cia, diplomacy, russia, wikileaks, cable]
-sources: [raw/a-bright-red-line.md, raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-13b.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-855.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-ee7.md, raw/badlands-news-brief-f99.md, raw/cataclysmic-silence.md]
+sources: [raw/a-bright-red-line.md, raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-13b.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-855.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-ee7.md, raw/badlands-news-brief-f99.md, raw/cataclysmic-silence.md, raw/trump-cuts-the-head-off-the-snake.md]
 confidence: medium
 ---
 
@@ -112,3 +112,9 @@ In a July 2023 CNN interview, host [[erin-burnett|Erin Burnett]] told Ukrainian 
 On the Sunday before the [[assassination-of-ismail-haniyeh|assassination of Ismail Haniyeh]], Burns was in Rome meeting negotiators from Qatar and Egypt to discuss a ceasefire between [[israel|Israel]] and [[hamas|Hamas]], and officials were hopeful an agreement was about to happen.[14] Within a few hours of the meeting, Hamas released a statement saying the Israelis were going back on their promises, and the conversations began to fall apart; days later Haniyeh, described by Fox News correspondent [[trey-yingst|Trey Yingst]] as Hamas's head negotiator, was killed in Tehran.[14] Badlands contributor [[ryan-delarme|Ryan DeLarme]] noted Burns's memberships in the World Economic Forum, Bilderberg, and the Munich Security Conference circles in describing him as Biden's CIA director.[14]
 
 14. Badlands Brief — "Cataclysmic Silence", URL: https://badlands.substack.com/p/cataclysmic-silence
+
+## Reaction to Saudi outreach to Iran
+
+Following the [[2023-china-brokered-saudi-iran-normalization|March 2023 China-brokered restoration of Saudi-Iranian ties]], CIA director Bill Burns told Saudi Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] that the United States felt "blindsided" by Riyadh's moves to restore relations with [[iran|Iran]] and Syria as part of the kingdom's increasingly independent foreign policy streak.[15] Joe Lange cites the episode as evidence that the [[cia|CIA]] was particularly panicked by the collapse of what he describes as cabal control over the Middle East following the [[assassination-of-qasem-soleimani|killing of Qasem Soleimani]].[15]
+
+15. Badlands Brief — "Trump Cuts the Head off the Snake", URL: https://badlands.substack.com/p/trump-cuts-the-head-off-the-snake

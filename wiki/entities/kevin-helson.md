@@ -1,0 +1,46 @@
+---
+title: "Kevin Helson"
+created: 2026-08-06
+updated: 2026-08-06
+type: entity
+tags: [fbi, confidential-human-source, danchenko-trial, steele-dossier]
+sources: [raw/the-trial-of-igor-danchenko-day-four.md, raw/the-trial-of-igor-danchenko-day-three.md, raw/the-trial-of-igor-danchenko-day-one.md]
+confidence: medium
+---
+
+# Kevin Helson
+
+Kevin Helson is an FBI Special Agent who served as the handler for [[igor-danchenko|Igor Danchenko]] during Danchenko's roughly three and a half years as a confidential human source, and who testified at Danchenko's 2022 trial.[1]
+
+## Testimony on day four
+
+Special Counsel [[john-durham|John Durham]] recalled Helson to the stand on the morning of the trial's fourth day for further redirect examination.[1] Helson testified that in his initial discussions with Danchenko the name of [[charles-h-dolan-jr|Charles "Chuck" Dolan Jr.]] had never come up and that he himself was not aware of Dolan.[1] Special Agent [[amy-anderson|Amy Anderson]] and analyst [[brittany-hertzog|Brittany Hertzog]], both working the [[mueller-special-counsel-investigation|Mueller]] investigation out of FBI Headquarters, were "working on some project or some report that involved Mr. Peskov and Dolan," and Anderson gave Helson specific questions to put to Danchenko about Dolan.[1] Helson posed those questions in a recorded interview on June 15, 2017 and got nothing; Danchenko disclosed neither his messages and meetings with Dolan nor that Dolan-derived information had entered the [[steele-dossier|Steele Dossier]].[1]
+
+Durham then turned to the three days of January 2017 interviews with Danchenko and to whether [[brian-auten|Brian Auten]] had discussed with Danchenko dossier report 105 and a section titled "Election Related Reporting About Paul Manafort," an area the defense had opened on cross examination.[1] Defense counsel initiated a sidebar, and the resulting line of questioning was, in the Badlands author's assessment, convoluted and largely ineffective, though the final sequence of questions was judged a strong close to the witness.[1]
+
+## Assessment and consequences
+
+The author argued that had Helson been better informed by Auten and others, he might have asked narrower and more effective questions of Danchenko, making a conviction more likely — while acknowledging that Helson also made many errors of his own in handling Danchenko.[1] Helson was forced at trial to admit failures in his handling of the source, though he also pointed to intelligence successes.[1] He is described as a subject of an [[fbi|FBI]] Office of the Inspector General investigation.[1] Exhibits tied to Helson's interviews featured in jury deliberations: Defense Exhibit 103 (notes from his June 2017 interview of Danchenko) was in evidence, while the jury's later request appeared to be for Government Exhibit 103, notes from a November 2017 interview that was not in evidence.[1]
+
+## Testimony on day three
+
+Helson took the stand on the afternoon of the trial's third day, following [[charles-h-dolan-jr|Charles Dolan]], with Special Counsel [[john-durham|John Durham]] conducting the direct examination.[2] Helson testified that he had been with the FBI for twenty years, worked out of the Washington Field Office, and was assigned to a squad focused on Russia matters; some readers recalled his name from the Maria Butina case, for which he wrote the affidavit.[2] Notably, he was never assigned to [[crossfire-hurricane|Crossfire Hurricane]] — he received the assignment to handle [[igor-danchenko|Danchenko]] from that team without being brought into it, and testified on cross that he had been asked to join and declined.[2]
+
+His first meeting with Danchenko took place at the Washington Field Office in the February–March 2017 time frame, with Special Agents Jason Ruehle and Steve Somma present; it lasted under an hour, Danchenko had no lawyer and spoke fluent English, and no payment was made.[2] At the next meeting Danchenko was paid roughly $3,000 in cash.[2] Follow-up meetings were held offsite; Helson was not briefed on Crossfire Hurricane but relayed that team's questions to Danchenko.[2] Helson said that although he was unaware of Danchenko's immunity agreement, Danchenko as a confidential human source was obligated to tell the truth and not to withhold or give false information.[2]
+
+Durham introduced a partial recording of the first substantive meeting, dated March 16, 2017, along with roughly a dozen further recordings and transcripts.[2] Helson recognized an exhibit recording Danchenko's claim to have produced "80 percent of the raw intelligence and half the analysis in the dossier," saying he had encountered the 80 percent figure before seeing the message.[2] The recordings captured Danchenko boasting that he kept records of communications with his sources, though what he produced to investigators about the dossier proved slim, and Helson did not know whether Crossfire Hurricane ever tried to obtain those records.[2] A later recorded meeting followed on May 18, 2017, by which point Danchenko was supplying material through an electronic drop box, and a third on June 15, 2017; thereafter Helson stopped recording and memorialized meetings in notes.[2]
+
+A recurring theme of the examination was information Helson never received. Durham took him through emails between Danchenko and Dolan and messages with [[olga-galkina|Olga Galkina]] — including Facebook records — none of which Danchenko had provided and which Helson first saw during trial preparation, despite the Crossfire Hurricane team having tasked him with extracting exactly that material.[2] Helson testified such documents would have been very useful and would have changed the course of the investigation.[2] He first raised Dolan with Danchenko on June 15, 2017 at the request of [[brian-auten|Brian Auten]] and Special Supervisory Agent [[amy-anderson|Amy Anderson]]; the recording captured odd pauses that agents noted at the time.[2] Agents also repeatedly pressed Danchenko about [[sergei-millian|Sergei Millian]]: at an unrecorded October 2017 meeting, tasked again by Auten, Helson was told by Danchenko that he had never met Millian face-to-face in the United States, and the question was raised once more on November 2, 2017.[2]
+
+On cross-examination, [[stuart-sears|Stuart Sears]] elicited that the Crossfire Hurricane team never sought basic access to Danchenko's accounts or communications, that Helson had advised Danchenko to scrub his phone of anything that could lead back to [[christopher-steele|Christopher Steele]], and that the Bureau worked Danchenko and Steele against each other — an apparent effort to flip Danchenko against Steele.[2] Sears also drew out Helson's favourable assessments: Field Office Annual Source Reports of April 2, 2019 and March 2020 calling inconsistencies "minor" and Danchenko's Millian account unchanged, a report justifying a $10,000 payment covering at least twenty-five useful reports in his first year, and documentation that Danchenko's stated motivation was patriotism toward the United States.[2] Helson confirmed he had been interviewed by the Office of the Inspector General, including in October 2018.[2] A hard-hitting exchange shortly after the afternoon break, in which Sears probed Helson's handling of the Millian questioning, was credited with contributing to Count One's later dismissal.[2]
+
+On re-redirect Durham revealed that a member of the FBI's human validation unit — a woman with nineteen years' experience as an army counterintelligence officer in Europe — had told Helson she believed Danchenko was a GRU officer and wanted him polygraphed and closed as a source; Helson did not act on it and she lacked authority to compel him.[2] Durham closed by drawing out that Danchenko's solicitation of people at the [[brookings-institution|Brookings Institution]] who were moving into the Obama administration in 2009 for classified information he could sell had never been looked into again.[2]
+
+## References
+1. Badlands Brief — "The Trial of Igor Danchenko: Day Four + Verdict", URL: https://badlands.substack.com/p/the-trial-of-igor-danchenko-day-four
+2. Badlands Brief — "The Trial of Igor Danchenko: Day Three", URL: https://badlands.substack.com/p/the-trial-of-igor-danchenko-day-three
+3. Badlands Brief — "The Trial of Igor Danchenko: Day One", URL: https://badlands.substack.com/p/the-trial-of-igor-danchenko-day-one
+
+## Introduction of Helson on day one
+
+Helson's role was outlined for the jury on the trial's opening day, before he took the stand.[3] Supervisory Intelligence Analyst [[brian-auten|Brian Auten]] testified that [[igor-danchenko|Danchenko]] became a Confidential Human Source for the Washington Field Office during what Auten called "Crossfire Hurricane 2.0," originally handled by Agent [[steve-somma|Steve Somma]] and handed to Helson after Somma was moved to New York, Helson's specialty being Russian counterintelligence.[3] In its opening statement the prosecution told the jury that Helson had wanted to interview [[charles-h-dolan-jr|Charles Dolan]] but that the [[fbi|FBI]] never did so, and that had Danchenko not lied about Dolan the Bureau might have taken steps to interview him.[3]

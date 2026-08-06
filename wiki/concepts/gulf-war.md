@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [middle-east, war, bush-family, iraq, kuwait, war-profiteering]
-sources: [raw/nothing-is-as-it-appears.md, raw/profiting-from-war.md, raw/shifting-the-narrative.md, raw/the-bank-of-crooks-and-criminals.md]
+sources: [raw/nothing-is-as-it-appears.md, raw/profiting-from-war.md, raw/shifting-the-narrative.md, raw/the-bank-of-crooks-and-criminals.md, raw/war-pigs.md, raw/women-children-and-terror.md]
 confidence: low
 ---
 
@@ -29,6 +29,14 @@ The article links the Gulf War to the later [[george-w-bush|George W. Bush]] inv
 
 "Profiting From War" advances the claim that [[george-hw-bush|George H.W. Bush]] deliberately started the Gulf War as a distraction from the [[bank-of-credit-and-commerce-international|BCCI]] scandal, after congressional and criminal investigations had begun and the [[bush-family|Bush family]] had become vulnerable to exposure.[2] [[joe-lange|Joe Lange]] argues that Bush wanted [[saddam-hussein|Saddam Hussein]] to invade [[kuwait|Kuwait]] because the invasion would destroy evidence of the family's Kuwaiti dealings while shifting the public narrative to war.[2] Reconstruction afterwards is said to have enriched [[halliburton]] and the [[carlyle-group|Carlyle Group]].[2] Quoting ABC's Ted Koppel in a June 1992 *Nightline* broadcast after the war, the article notes the assessment that Bush, operating largely behind the scenes through the 1980s, initiated and supported much of the financing, intelligence and military help that built Saddam's Iraq into the aggressive power the United States ultimately had to destroy.[2]
 
+## Corporate media and defence contracting overlap
+
+"War Pigs" uses the Gulf War to illustrate the [[military-industrial-media-complex|military-industrial-media complex]].[5] [[general-electric|General Electric]], which for years owned 49% of [[nbc|NBC]], was a subcontractor for the Tomahawk cruise missiles and Patriot II missiles used extensively during the conflict, and manufactured components for the B-2 stealth bomber, B-52 bomber and E-3 AWACS aircraft also used extensively there.[5] GE received roughly $2 billion in defence contracts related to weapons used in the Gulf War and the 2003 invasion and occupation of Iraq.[5]
+
+## The Kuwaiti incubator claim as precedent
+
+Badlands writer [[erik-carlson|Erik Carlson]] cited the first Gulf War as a documented case of atrocity propaganda: "I know there were eyewitness claims of babies being killed in Kuwait by the Iraqis during the first Gulf War, and that turned out to be completely fake."[6] He used the example to justify withholding judgment on reporting from the October 2023 [[hamas|Hamas]] attack on [[israel|Israel]], arguing that he could accept not knowing what was real while still knowing the conflict was manipulated.[6]
+
 ## References
 1. Badlands Brief — "Nothing Is as It Appears", URL: https://badlands.substack.com/p/nothing-is-as-it-appears
 2. Badlands Brief — "Profiting From War", URL: https://badlands.substack.com/p/profiting-from-war
@@ -50,3 +58,5 @@ The Gulf War was an armed conflict between Iraq and a 42-country coalition led b
 In "The Bank of Crooks And Criminals," [[joe-lange|Joe Lange]] argues the war's principal domestic function was narrative control. The [[bank-of-credit-and-commerce-international|BCCI]] scandal became the focus of a massive regulatory battle in 1991, with regulators in seven countries raiding branch offices on 5 July, and testimony placing [[central-intelligence-agency|CIA]] and [[national-security-council|National Security Council]] accounts inside the bank.[4] Desert Shield dominated headlines for months and Desert Storm, he writes, "completely wipe[d] away the thought of the BCCI scandal from the media narrative" — "mission accomplished."[4] Citing the Q line "Public truths of some events force WARS," Lange concludes that [[george-hw-bush|George H.W. Bush]] started the war to bury the scandal and that it turned into a massive money laundering operation.[4]
 
 4. Badlands Brief — "The Bank of Crooks And Criminals", URL: https://badlands.substack.com/p/the-bank-of-crooks-and-criminals
+5. Badlands Brief — "War Pigs", URL: https://badlands.substack.com/p/war-pigs
+6. Badlands Brief — "Women, Children ... and Terror", URL: https://badlands.substack.com/p/women-children-and-terror

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [foreign-policy, censorship, commentary]
-sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-cfa.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-b01.md, raw/days-of-thunder.md, raw/how-to-rent-a-riot-the-plausible.md, raw/is-the-censorship-war-over.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-information-imperium.md]
+sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-cfa.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-b01.md, raw/days-of-thunder.md, raw/how-to-rent-a-riot-the-plausible.md, raw/is-the-censorship-war-over.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-information-imperium.md, raw/two-wings-one-ugly-bird.md]
 confidence: low
 ---
 
@@ -88,3 +88,9 @@ Carlson connects this to his own claim that [[mark-zuckerberg|Mark Zuckerberg]] 
 Badlands Media's "The Information Imperium" credits Mike Benz, together with [[elon-musk|Elon Musk]]'s [[department-of-government-efficiency|Department of Government Efficiency]], with bringing [[usaid|USAID]]'s role in funding the global propaganda apparatus under scrutiny.[13] The article adopts Benz's coinage the "USAID Truman Show" to describe a system that has for years set the international narrative and convinced audiences not to trust their own eyes.[13]
 
 13. Badlands Brief — "The Information Imperium", URL: https://badlands.substack.com/p/the-information-imperium
+
+## On the Solidarity Center and domestic creep
+
+In "Two Wings, One Ugly Bird" Mike Benz is cited as reading the [[solidarity-center|Solidarity Center]] as a textbook case of the [[central-intelligence-agency|CIA]]'s domestic creep, noting that by some counts over 90% of its funding comes from the [[national-endowment-for-democracy|National Endowment for Democracy]] and [[usaid|USAID]], which in his view makes it less about solidarity than about control.[14] He argues the Center's global work doubles as a backdoor into United States unions, ensuring they do not rock the boat when the uniparty needs stability.[14] The article credits Benz's work with drawing much of the public scrutiny that [[donald-trump|Donald Trump]] and [[elon-musk|Elon Musk]]'s [[doge|DOGE]] have directed at the USAID–NED apparatus.[14]
+
+14. Badlands Brief — "Two Wings, One Ugly Bird", URL: https://badlands.substack.com/p/two-wings-one-ugly-bird

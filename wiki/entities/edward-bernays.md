@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [propaganda, public-relations, consent, media]
-sources: [raw/badlands-news-brief-7c6.md, raw/the-decade-we-all-became-slaves.md, raw/the-media-is-the-enemy-of-the-people.md]
+sources: [raw/badlands-news-brief-7c6.md, raw/the-decade-we-all-became-slaves.md, raw/the-media-is-the-enemy-of-the-people.md, raw/the-smith-mundt-act.md]
 confidence: medium
 ---
 
@@ -28,3 +28,11 @@ Badlands Media commentary identifies Edward Bernays as the American nephew of [[
 [[erik-carlson|Erik Carlson]]'s September 17, 2024 Badlands Media essay names Bernays — nephew of [[sigmund-freud|Sigmund Freud]] — alongside Freud and [[carl-jung|Carl Jung]] as the figures who "developed and perfected" techniques capable not merely of keeping people from thinking but of changing how they think, supplying the psychological toolkit that modernized the Roman formula of [[bread-and-circuses|bread and circuses]].[3]
 
 3. Badlands Brief — "The Media is the Enemy of the People", URL: https://badlands.substack.com/p/the-media-is-the-enemy-of-the-people
+
+## Cited in "The Smith-Mundt Act" (2025)
+
+In his March 2025 essay on the [[smith-mundt-act|Smith-Mundt Act]], [[erik-carlson|Erik Carlson]] again identifies Bernays as the nephew of [[sigmund-freud|Sigmund Freud]] and as the father of public relations and modern advertising, describing how he took what he learned about the human brain from his uncle and applied it to the influence and manipulation of individuals and societies.[4] Carlson notes that Bernays's 1928 book *Propaganda* describes how propaganda can be used to control whole societies, and goes further in arguing that it is not merely a useful tool of control but completely necessary to maintaining a healthy society.[4]
+
+Carlson adds the claim that Bernays had a nephew who became a founding executive of the streaming service [[netflix|Netflix]], presenting the lineage as evidence that contemporary information control "started generations ago, and is a family business" — a pattern he says also applies to the families of Bill Gates, Mark Zuckerberg and Jeff Bezos.[4]
+
+4. Badlands Brief — "The Smith-Mundt Act", URL: https://badlands.substack.com/p/the-smith-mundt-act

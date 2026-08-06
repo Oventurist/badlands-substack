@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, nuclear-policy, defense, republican]
-sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-c7b.md, raw/badlands-brief-e87.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-69d.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-ea0.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-c7b.md, raw/badlands-brief-e87.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-69d.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-ea0.md, raw/two-wings-one-ugly-bird.md]
 confidence: medium
 ---
 
@@ -72,3 +72,9 @@ As ranking member of the Senate Judiciary Subcommittee on Criminal Justice and C
 8. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46
 9. Badlands Brief — "Hunter Hunted as Metrics Turn Sharply on Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-d8f
 10. Badlands Brief — "Badlands News Brief: Trump's Trap, Putin's Play & Woke's Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-ea0
+
+## IRI directorship
+
+"Two Wings, One Ugly Bird" lists the Arkansas senator as a director of the [[international-republican-institute|International Republican Institute]], noting that Steve Bannon has called him the "king of the Neocons," that he has requested the prosecution of journalists, and that he is largely backed by [[aipac|AIPAC]].[11] He appears in the article's roster of sitting senators it describes as the institute's most active operatives.[11]
+
+11. Badlands Brief — "Two Wings, One Ugly Bird", URL: https://badlands.substack.com/p/two-wings-one-ugly-bird

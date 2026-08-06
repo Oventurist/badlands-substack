@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [eurasia, multipolar-world, infrastructure, russia, china]
-sources: [raw/badlands-news-brief-214.md, raw/badlands-news-brief-528.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-b24.md]
+sources: [raw/badlands-news-brief-214.md, raw/badlands-news-brief-528.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-b24.md, raw/the-sco-vs-nato.md]
 confidence: medium
 ---
 
@@ -45,3 +45,17 @@ In related commentary on Türkiye's severing of trade with Israel, the same auth
 2. Badlands Brief — "Badlands News Brief: Biden Pushes Back as Peacemakers Posture", URL: https://badlands.substack.com/p/badlands-news-brief-528
 3. Badlands Brief — "Bank of Epstein, Saudi Arabia & Trump's Reprieve?", URL: https://badlands.substack.com/p/badlands-news-brief-85a
 4. Badlands Brief — "Badlands News Brief: A Curious Car Crash, Covid Case Rates, & A Culture of Panic and Dread", URL: https://badlands.substack.com/p/badlands-news-brief-b24
+
+## Origins and founding (Ehret, 2024)
+
+In "The SCO vs. NATO" (April 17, 2024), [[matthew-ehret|Matthew Ehret]] traced the organization's founding in 2001 to the earlier [[shanghai-five|Shanghai Five]] compact of 1996 — China, Kazakhstan, Kyrgyzstan, Russia and Tajikistan — created to secure China's borders amid an anticipated age of radical Islamist warfare across Eurasia.[5] The decisive move was made by Russian grand strategist [[yevgeny-primakov|Yevgeny Primakov]], who brought Russia into alliance with the Chinese-led compact and spearheaded a Eurasian security and cooperation doctrine of multipolarity built on a Russian–Chinese–Iranian core.[5] The SCO's official birth was announced together with the first Russian-Chinese Joint Declaration on a Multipolar World, adopted in Moscow on 23 April 1997, which explicitly rejected unipolarism.[5] Ehret linked the timing to then-Senator [[joe-biden|Joe Biden]]'s 1997 dismissal of Russian warnings that indefinite [[nato|NATO]] expansion would push Moscow toward Beijing.[5]
+
+## Membership and reach
+
+As of April 2024 the SCO's membership comprised Russia, China, Iran, Pakistan, India, Kazakhstan, Kyrgyzstan and Tajikistan.[5] An additional fourteen nations were dialogue partners, including Saudi Arabia, the UAE, Egypt, Turkey, Mongolia and Sri Lanka, and ten nations had submitted formal requests for full membership — a bloc representing 80 percent of the land area of Eurasia, 40 percent of world population and over 33 percent of world GDP.[5]
+
+## A broader mandate than military security
+
+Unlike NATO, the SCO has no collective defense pact obliging members to enter hostilities, though bilateral defense and mutual security treaties among members would be difficult to bypass in a hot war.[5] Its mandate extends well beyond military considerations into economic, energy, transport, cultural and industrial activity, which Ehret argued makes its operating philosophy intrinsically superior to Western "power politics".[5] Zero Hedge reported in November 2023 that the organization had undertaken more than twenty large-scale transportation, energy and telecommunications projects, with China's [[belt-and-road-initiative|Belt and Road Initiative]] a notable component.[5] Related programs include the [[china-pakistan-economic-corridor|China-Pakistan Economic Corridor]], the [[eurasian-economic-union|Eurasian Economic Union]] and its pending treaty with China outlined by Putin advisor [[sergey-glazyev|Sergey Glazyev]], the [[international-north-south-transport-corridor|International North-South Transportation Corridor]], and the [[polar-silk-road|Polar Silk Road]].[5] Ehret contrasted the SCO with both the Cold War [[warsaw-pact|Warsaw Pact]] and the weaker [[collective-security-treaty-organization|Collective Security Treaty Organization]], and argued that only a combined multipolar configuration — the SCO together with [[brics|BRICS]] — can effectively contest the oligarchical order, something no single member could do alone.[5]
+
+5. Badlands Brief — "The SCO vs. NATO", URL: https://badlands.substack.com/p/the-sco-vs-nato

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, asset-management, media-ownership]
-sources: [raw/a-swan-song-for-the-msm.md, raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-c74.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-f4c.md, raw/blackrock-inc-and-the-vanguard-group.md, raw/dont-bring-shiny-rocks-to-digital.md, raw/get-woke-go-broke.md, raw/no-honor-among-thieves.md, raw/open-borders-finally-make-sense.md, raw/spear-of-justice.md, raw/stay-focused-on-the-big-picture.md, raw/soul-governance.md, raw/super-computers-in-the-info-war.md, raw/the-deep-state-has-already-lost.md, raw/the-covfefe-dig.md, raw/the-harvard-control-grid.md, raw/the-ivy-dominion.md, raw/the-ivy-web.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-c74.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-f4c.md, raw/blackrock-inc-and-the-vanguard-group.md, raw/dont-bring-shiny-rocks-to-digital.md, raw/get-woke-go-broke.md, raw/no-honor-among-thieves.md, raw/open-borders-finally-make-sense.md, raw/spear-of-justice.md, raw/stay-focused-on-the-big-picture.md, raw/soul-governance.md, raw/super-computers-in-the-info-war.md, raw/the-deep-state-has-already-lost.md, raw/the-covfefe-dig.md, raw/the-harvard-control-grid.md, raw/the-ivy-dominion.md, raw/the-ivy-web.md, raw/wilted-ivy.md]
 confidence: medium
 ---
 
@@ -168,3 +168,11 @@ The article further claims the [[wharton-school|Wharton School]] and the fratern
 Badlands Media's "The Ivy Web" cites January 2024 Business Insider reporting that [[harvard-university|Harvard]]'s sale of illiquid private equity holdings was mirrored by major institutional partners including [[goldman-sachs|Goldman Sachs]] and BlackRock itself.[23] The article treats these as a coordinated exit rather than isolated decisions, arguing that they signalled a fundamental shift in the financial and ideological infrastructure beneath the Ivy League.[23]
 
 23. Badlands Brief — "The Ivy Web", URL: https://badlands.substack.com/p/the-ivy-web
+
+## "Wilted Ivy" (2025)
+
+Badlands Media's May 2025 essay "Wilted Ivy" groups BlackRock with [[vanguard|Vanguard]] and [[state-street|State Street]] as a "triangle of influence" whose collective control over trillions of dollars made them "the unofficial enforcement arm of the globalist order."[24] Beyond stock ownership, the article says, the three firms embedded themselves through endowment management into the funding structures of America's most influential institutions, particularly the [[ivy-league|Ivy League]], enforcing [[esg|ESG]] compliance, [[diversity-equity-and-inclusion|DEI]] orthodoxy, climate pledges and ideological hiring mandates.[24]
+
+The essay dates the first visible cracks to 2023, when [[larry-fink|Larry Fink]] retreated from his ESG advocacy, and reports that by early 2024 BlackRock's annual reports had "quietly scrubbed explicit references to DEI and ESG initiatives," replacing them with language about "connectivity" and "inclusive opportunities."[24] Quoting January 2024 [[business-insider|Business Insider]] reporting, it states that the $11 trillion asset manager cut mentions of its "three pillar DEI strategy" and its breakout of employee demographics by race and gender, and amended the metrics determining borrowing costs on a $4.4 billion credit facility previously tied to internal DEI targets.[24] The article argues the Big Three were "losing their stranglehold over culture, not by choice, but by exposure," and that as they were neutralized or redirected under [[white-hats|White Hat]] influence, [[harvard-university|Harvard]] lost the invisible financial safety nets it had relied upon.[24]
+
+24. Badlands Brief — "Wilted Ivy", URL: https://badlands.substack.com/p/wilted-ivy

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [journalism, january-6, prisoners]
-sources: [raw/reprehensible-representation.md]
+sources: [raw/reprehensible-representation.md, raw/tucker-twitter-and-the-truth-community.md]
 confidence: medium
 ---
 
@@ -25,3 +25,8 @@ In a September 7, 2023 piece on vindictive prosecution, Hawley wrote that "we ar
 ## References
 
 1. Badlands Brief — "Reprehensible Representation", URL: https://badlands.substack.com/p/reprehensible-representation
+2. Badlands Brief — "Tucker, Twitter, and the Truth Community", URL: https://badlands.substack.com/p/tucker-twitter-and-the-truth-community
+
+## Analysis of the Sund interview (August 2023)
+
+Hawley appeared on [[culture-of-change|Culture of Change]] with [[ashe-in-america|Ashe in America]] on a Sunday in August 2023 to break down [[tucker-carlson|Tucker Carlson]]'s [[tucker-on-twitter|Tucker on Twitter]] interview with former Capitol Police Chief [[steven-sund|Steven Sund]].[2] Described as an independent investigative journalist who exclusively covers January 6 truth, Hawley raised what Ashe called an excellent question needing investigation by House Republicans: whether the inconsistencies between the official narrative and the official record were the reason the [[january-6-committee|January 6 Committee]] destroyed all of its records.[2]

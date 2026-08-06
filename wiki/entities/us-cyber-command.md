@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [pentagon, cyber, censorship, information-warfare]
-sources: [raw/badlands-news-brief-363.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-aff.md, raw/badlands-news-brief-e79.md, raw/badlands-news-brief-f26.md]
+sources: [raw/badlands-news-brief-363.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-aff.md, raw/badlands-news-brief-e79.md, raw/badlands-news-brief-f26.md, raw/trump-doctrine-peace-through-space.md]
 confidence: medium
 ---
 
@@ -34,6 +34,10 @@ At the [[cybersecurity-and-infrastructure-security-agency|Cybersecurity and Infr
 
 In a December 2024 Badlands News Brief, GhostofBasedPatrickHenry observed that CYBERCOM is a combatant command based at [[fort-meade|Fort Meade]], Maryland — the same installation that hosted [[project-stargate|Project Stargate]] and houses the [[national-security-agency|NSA]] — and noted that CYBERCOM "plays a starring role in Jon Herold's Devolution series."[4]
 
+## Trump Doctrine: Peace Through Space
+
+"[[trump-doctrine-peace-through-space|Trump Doctrine: Peace Through Space]]" lists the elevation of Cyber Command to a major warfighting command as one of three signature [[donald-trump|Trump]] actions, alongside the more than $2.2 trillion poured into the military and the creation of the [[united-states-space-force|Space Force]].[6] The article asks whether these steps were really meant to prolong the nearly eighty-year stalemate of mutually assured destruction through kinetic arms, or were instead an attempt to end it by shifting to a non-kinetic domain — a reading grounded in [[jason-lowery|Jason Lowery]]'s argument in *[[softwar|Softwar]]* that [[bitcoin|Bitcoin]] is a new Schelling point of non-kinetic warfare in cyber-space.[6]
+
 ## References
 
 1. Badlands News Brief — "The Free Market of Ideas Condemns the Regime", raw/badlands-news-brief-363.md
@@ -46,3 +50,4 @@ In a December 2024 Badlands News Brief, GhostofBasedPatrickHenry observed that C
 At the RSA Conference in April 2023, senior officials revealed a little-known partnership between the country's military cyber forces and homeland defenders that had stymied the impact of two state-linked attacks.[5] Axios reported that the disclosures were among the first clear examples of how the [[pentagon|Pentagon]]-based Cyber Command and the [[department-of-homeland-security|Department of Homeland Security]]'s [[cisa|Cybersecurity and Infrastructure Security Agency]] cooperate during an active event, a division of labour rarely legible to observers outside government.[5] [[eric-goldstein|Eric Goldstein]], CISA's executive assistant director for cybersecurity, and Maj. Gen. [[william-hartman|William Hartman]], chief of the command's Cyber National Mission Force, detailed the two previously unknown incidents during a panel talk.[5] Badlands contributor [[just-human|Just Human]] read the disclosure as "more confirmation that elections systems, including those systems used to report the results of an election, are online and vulnerable to attacks by foreign nations."[5]
 
 5. Badlands Brief — "Badlands News Brief: Debt Limits, Counter Offensives & Winning Signs", URL: https://badlands.substack.com/p/badlands-news-brief-f26
+6. Badlands Brief — "Trump Doctrine: Peace Through Space", URL: https://badlands.substack.com/p/trump-doctrine-peace-through-space

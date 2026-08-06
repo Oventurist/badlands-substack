@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [free-speech, censorship, law, culture-war]
-sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-ed9.md, raw/the-exploitation-of-charlie-kirk.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-ed9.md, raw/the-exploitation-of-charlie-kirk.md, raw/the-multinational-offensive-against.md]
 confidence: medium
 ---
 
@@ -54,3 +54,11 @@ In "The Exploitation of Charlie Kirk," [[ryan-delarme|Ryan DeLarme]] traced how 
 DeLarme catalogued the resulting enforcement wave after the death of [[charlie-kirk|Charlie Kirk]]: [[state-department|State Department]] visa revocations, [[pentagon|Pentagon]] tracking of service members, Attorney General [[pam-bondi|Pam Bondi]]'s pledge to target and shut down "hate speech," a reported [[white-house|White House]] executive order, more than 36 professors, teachers, and public employees fired or investigated, and Vice President [[jd-vance|JD Vance]]'s call to report critics to their employers.[5] He urged readers who agreed with the measures to consider how the same rationale had been, and would again be, used against conservatives.[5]
 
 5. Badlands Brief — "The Exploitation of Charlie Kirk", URL: https://badlands.substack.com/p/the-exploitation-of-charlie-kirk
+
+## No First Amendment exception (DeLarme, 2024)
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] wrote in October 2024 that there is no [[first-amendment|First Amendment]] exception for hate speech and no universally agreed-upon protocol for determining what qualifies as hate speech.[6] Because the category is subjective, he argued, in the hands of the federal government it will be used to stamp out dissent from the political establishment.[6] He noted that the same government that knowingly allows carcinogens and toxins into the food supply is not genuinely concerned about how words make people feel, but sees an opportunity to expand its already rampant powers over the public.[6]
+
+DeLarme cited [[tim-walz|Tim Walz]]'s statement on [[msnbc|MSNBC]] that "There's no guarantee of free speech on misinformation or hate speech and especially around our democracy" as an example of the claim being asserted as settled law when it is not.[6]
+
+6. Badlands Brief — "The Multinational Offensive Against Free Speech Online", URL: https://badlands.substack.com/p/the-multinational-offensive-against

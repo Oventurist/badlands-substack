@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [space, defense, technology, elon-musk, contracts]
-sources: [raw/badlands-brief-ec9.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-b40.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-e48.md, raw/badlands-news-brief-e38.md]
+sources: [raw/badlands-brief-ec9.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-b40.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-e48.md, raw/badlands-news-brief-e38.md, raw/the-multinational-offensive-against.md, raw/trump-doctrine-peace-through-space.md]
 confidence: medium
 ---
 
@@ -64,6 +64,10 @@ In December 2023 the [[federal-communications-commission|Federal Communications 
 
 By September 2025 SpaceX was accelerating efforts to transform America's launch sites into high-frequency, multi-user spaceports, with Falcon rockets on pace for more than 100 launches from Florida during the year and the Starship program advancing.[10] In March 2025 astronauts on the Fram2 mission observed a Falcon 9 lifting off while en route to their own launch, a moment taken to symbolize a future in which rocket launches become as routine as airline departures.[10] Founded in 2002, the company had grown into the world's leading launch services provider, flying astronauts, satellites and other payloads while stating a long-term objective of making life multiplanetary.[10] To support that vision SpaceX worked with [[nasa|NASA]], the [[united-states-space-force|U.S. Space Force]], the [[federal-aviation-administration|FAA]] and other federal partners to modernize American launch capabilities.[10] Badlands contributor [[burning-bright|Burning Bright]] framed the buildout as part of a set of major [[donald-trump|Trump]] initiatives in energy, space and the future that continue "unabated" beneath the noise of the information war, quoting the prediction that "300 years from now, they will write that the decision to create a Space Force was the wedge in history that protected America."[10]
 
+## Trump Doctrine: Peace Through Space
+
+"[[trump-doctrine-peace-through-space|Trump Doctrine: Peace Through Space]]" uses SpaceX launch data as its principal evidence.[13] Falcon 9 received [[national-security-space-launch-certification|National Security Space Launch certification]] on May 26, 2015, announced by Lieutenant General Samuel Greaves of the Air Force Space and Missile Systems Center, a process encompassing 125 certification criteria, more than 2,800 discrete tasks, three certification flight demonstrations, 160 payload interface requirements, 21 major subsystem reviews and 700 audits.[13] Before SpaceX, [[united-launch-alliance|United Launch Alliance]] was the sole Department of Defense launch provider, peaking at 16 launches in 2009 and averaging 8.7 per year since 2006; SpaceX reached 96 launches in a single year and 80% of all mass to orbit worldwide.[13] Its launch rate quadrupled between 2020 and 2023, with [[starlink|Starlink]] accounting for 55% of launches from 2020 to 2022 and 66% in 2023.[13] The company's one failure against 273 successes was the September 1, 2016 pad explosion that destroyed the [[amos-6|Amos-6]] satellite.[13]
+
 ## References
 1. Badlands Brief — "Carefree Midterms, Space Networks, & Turned Tables", URL: https://badlands.substack.com/p/badlands-brief-ec9
 2. Badlands News Brief — "New York Insurrection, A Rapturous Reception, & Lying Tools", URL: https://badlands.substack.com/p/badlands-news-brief-0b0
@@ -81,3 +85,10 @@ By September 2025 SpaceX was accelerating efforts to transform America's launch 
 SpaceX was named in June 2025 as the [[united-states-space-force|U.S. Space Force]]'s partner for [[milnet|MILNET]], a government-owned, contractor-operated satellite communications constellation in low Earth orbit consisting of more than 480 SpaceX-operated satellites.[11] The satellites use SpaceX's [[starshield|Starshield]] terminals, featuring enhanced encryption and interoperability with the commercial Starlink network, and support the military's hybrid mesh network integrating commercial and Defense Department satellites.[11]
 
 11. Badlands Brief — "Badlands News Brief: War Time Presidents & The Brink of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-e38
+
+## Freezing of Starlink accounts (2024)
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] noted that Justice [[alexandre-de-moraes|Alexandre de Moraes]] froze the Brazilian bank accounts of [[starlink|Starlink]] during the dispute over [[x-corp|X]], despite Starlink existing under SpaceX — a completely separate entity from X, incorporated differently and with different shareholders, even though [[elon-musk|Elon Musk]] is the major shareholder of both.[12] DeLarme wrote that SpaceX investors were unwilling to risk their assets or have their bank accounts seized to fund a political cause attached to a company in which they had never invested, adding to the pressure that ultimately produced Musk's capitulation in [[brazil|Brazil]].[12]
+
+12. Badlands Brief — "The Multinational Offensive Against Free Speech Online", URL: https://badlands.substack.com/p/the-multinational-offensive-against
+13. Badlands Brief — "Trump Doctrine: Peace Through Space", URL: https://badlands.substack.com/p/trump-doctrine-peace-through-space

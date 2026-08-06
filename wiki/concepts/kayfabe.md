@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [narrative-warfare, trump, media, information-war]
-sources: [raw/badlands-brief-0a2.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-f1f.md, raw/badlands-news-brief-f6e.md, raw/balance-necessary-for-control.md, raw/jd-vance-sidley-austin-and-q-post.md, raw/right-the-ship.md, raw/smoke-and-mirrors.md, raw/the-fake-and-the-gaetz.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-f1f.md, raw/badlands-news-brief-f6e.md, raw/balance-necessary-for-control.md, raw/jd-vance-sidley-austin-and-q-post.md, raw/right-the-ship.md, raw/smoke-and-mirrors.md, raw/the-fake-and-the-gaetz.md, raw/the-sting.md, raw/vivek-desantis-and-trumps-master.md]
 confidence: medium
 ---
 
@@ -101,3 +101,17 @@ DeLarme nonetheless returned to the kayfabe possibility repeatedly, calling it a
 In "The Fake and the Gaetz," [[ryan-delarme|Ryan DeLarme]] applied the concept to the interval between the 2024 election and inauguration, writing that much of what was unfolding was "a fine blend of feints, misdirection, and straight-up kayfabe."[14] He placed the [[matt-gaetz|Matt Gaetz]] attorney general nomination and the rapidly building war drama in this category, arguing that [[donald-trump|Trump]] had shown "two can play that game" against the [[deep-state|deep state]] and its press allies.[14]
 
 14. Badlands Brief — "The Fake and the Gaetz", URL: https://badlands.substack.com/p/the-fake-and-the-gaetz
+
+## Kayfabe and the DeSantis run (Carlson, May 2023)
+
+In "The Sting" (May 30, 2023), [[erik-carlson|Erik Carlson]] glossed kayfabe parenthetically as "false feud" while considering whether [[ron-desantis|Ron DeSantis]]'s presidential announcement and campaign were kayfabe or genuine.[15] Carlson declined to decide, writing that he did not know whether [[elon-musk|Elon Musk]] was "in on it" with [[donald-trump|Trump]], whether Musk had handlers compelling him to support DeSantis, or whether Trump's inner circle was attacking Musk to manufacture the appearance of separation.[15] He held that in any of these cases the outcome would be the same: more exposure of the [[deep-state-cabal|Deep State Cabal]] and "a clean, uncluttered workspace" for Trump.[15]
+
+15. Badlands Brief — "The Sting", URL: https://badlands.substack.com/p/the-sting
+
+## Application to Mike Pence (Deschamps, 2023)
+
+[[justin-deschamps|Justin Deschamps]] invoked kayfabe explicitly in his December 20, 2023 essay when discussing [[mike-pence|Mike Pence]], whom he called on the surface the most disappointing of the 2024 candidates while arguing that "what appears on the surface here is not the whole story."[16] Having noted that [[just-human|Just Human]] and [[burning-bright|Burning Bright]], among others, had presented compelling evidence that Pence worked with [[donald-trump|Trump]] to dismantle the [[deep-state|Deep State]] during the administration, Deschamps asked "Why the empty chair routine, Mike?" and answered with the single line "Kayfabe anyone?"[16]
+
+More broadly, Deschamps applied the same logic to the entire visible field, writing that what audiences see and hear from all the players on the board — MAGA/America First and Deep State/Establishment alike — is "a well-crafted act with a much bigger agenda."[16] On that reading the 2024 primary debates, including [[ron-desantis|Ron DeSantis]]'s apparent rivalry with Trump and [[vivek-ramaswamy|Vivek Ramaswamy]]'s insurgency, were staged performances rather than genuine contests.[16]
+
+16. Badlands Brief — "Vivek, DeSantis, and Trump's Master Move", URL: https://badlands.substack.com/p/vivek-desantis-and-trumps-master

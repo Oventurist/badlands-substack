@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [clinton, donations, uranium, disclosure, corruption]
-sources: [raw/america-for-sale-part-3.md, raw/america-for-sale-part-2.md, raw/bad-actors.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-a15.md, raw/infiltration-not-invasion.md, raw/q-for-dummies-chapter-11.md, raw/q-for-dummies-chapter-12.md, raw/q-for-dummies-chapter-2.md, raw/q-for-dummies-chapter-9.md, raw/the-biggest-boomerang-in-history.md, raw/the-bridge-3c3.md, raw/the-biggest-cover-up-in-american.md]
+sources: [raw/america-for-sale-part-3.md, raw/america-for-sale-part-2.md, raw/bad-actors.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-a15.md, raw/infiltration-not-invasion.md, raw/q-for-dummies-chapter-11.md, raw/q-for-dummies-chapter-12.md, raw/q-for-dummies-chapter-2.md, raw/q-for-dummies-chapter-9.md, raw/the-biggest-boomerang-in-history.md, raw/the-bridge-3c3.md, raw/the-biggest-cover-up-in-american.md, raw/what-difference-does-benghazi-make.md]
 confidence: medium
 ---
 
@@ -125,3 +125,9 @@ Senator [[chuck-grassley|Chuck Grassley]]'s October 2017 release stated that the
 [[joe-lange|Joe Lange]] also names [[alwaleed-bin-talal|Prince Alwaleed bin Talal]] as the foundation's largest contributor, and argues that the foundation investigation, the [[uranium-one-deal|Uranium One]] investigation and the [[steele-dossier|Dossier]] investigation are a single interconnected [[racketeer-influenced-and-corrupt-organizations-act|RICO]] case assigned to [[john-huber|John Huber]].[15]
 
 15. Badlands Brief — "The Biggest Cover-up in American History", URL: https://badlands.substack.com/p/the-biggest-cover-up-in-american
+
+## Libya arms brokering allegations
+
+"What Difference Does Benghazi Make?" places the foundation at the center of the Libyan weapons story.[16] It notes that [[sidney-blumenthal|Sidney Blumenthal]], a longtime Clinton confidant, worked for the foundation rather than the [[state-department|State Department]], and that his role there was securing deals in exchange for finder's fees.[16] In July 2011 Blumenthal urged [[hillary-clinton|Hillary Clinton]] to back a $114 million contract for [[osprey-global-solutions|Osprey Global Solutions]] to deliver equipment to anti-Gadhafi forces, and told the FBI he had ties to Osprey and stood to receive a finder's fee if the deal closed.[16] One day after that email the administration recognized the [[national-transitional-council|National Transitional Council]] and unlocked $30 billion in Libyan funds.[16] [[joe-lange|Joe Lange]] argues that Clinton cut [[marc-turi|Marc Turi]] and [[john-mccain|John McCain]] out of the arms business in order to route the proceeds through the foundation.[16]
+
+16. Badlands Brief — "What Difference Does Benghazi Make?", URL: https://badlands.substack.com/p/what-difference-does-benghazi-make

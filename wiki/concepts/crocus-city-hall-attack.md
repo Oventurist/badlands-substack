@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [terrorism, russia, intelligence, us-russia-relations]
-sources: [raw/badlands-news-brief-092.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-b60.md]
+sources: [raw/badlands-news-brief-092.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-b60.md, raw/the-tiktok-ban.md]
 confidence: medium
 ---
 
@@ -69,3 +69,10 @@ Russian Foreign Ministry spokeswoman [[maria-zakharova|Maria Zakharova]] said in
 3. Badlands Media — "Badlands News Brief: Irregular Warfare, Washington & So Much Winning", URL: https://badlands.substack.com/p/badlands-news-brief-18e
 4. Badlands Media — "Badlands News Brief: Horse Paste & A Couple of Bloodbaths", URL: https://badlands.substack.com/p/badlands-news-brief-47f
 5. Badlands Brief — "Badlands News Brief: Baltimore Fallout Continues as Nickelodeon Exposes Itself", URL: https://badlands.substack.com/p/badlands-news-brief-b60
+6. Badlands Brief — "The TikTok Ban", URL: https://badlands.substack.com/p/the-tiktok-ban
+
+## Carlson's "322" and Telegram reading (April 2024)
+
+Writing on April 8, 2024, Badlands Media contributor [[erik-carlson|Erik Carlson]] noted that terrorists allegedly attacked and killed dozens of Russians at a Moscow concert hall on 3/22, and that 322 is "Skull and Bones Day," Skull and Bones being what he described as a [[central-intelligence-agency|CIA]] fraternity at Yale.[6] He wrote that the attackers were reported to be [[isis|ISIS]], an organization he said the CIA created using its assets [[barack-obama|Barack Obama]] and John "no name" [[john-mccain|McCain]], and suggested Ukraine — which he said the CIA took control of in 2014 — might also be involved.[6]
+
+Carlson highlighted reports that the attackers received their orders on [[telegram|Telegram]], a platform owned by a Russian, and treated that detail as a possible pretext for extending the [[tiktok-ban|TikTok ban]] precedent to other platforms outside establishment control.[6] He also connected the attack to his earlier hypothesis that the CIA was being thrown under the bus while [[deep-state|Deep State]] power shifted toward the UN, NATO and the EU, and said he was not convinced the attack had happened as reported, allowing for the possibility that a planned attack was stopped in advance and a staged version played out instead.[6]

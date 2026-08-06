@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [cia, laos, opium, vietnam-war, covert-operations]
-sources: [raw/clowns-in-america.md]
+sources: [raw/clowns-in-america.md, raw/who-is-the-real-enemy.md]
 confidence: low
 ---
 
@@ -28,3 +28,11 @@ Badlands links the Laos campaign to the broader growth of a [[shadow-government|
 
 ## References
 1. Badlands Brief — "Clowns in America", URL: https://badlands.substack.com/p/clowns-in-america
+
+## Opium escalation under CIA operations
+
+"Who Is The Real Enemy?" identifies the Secret War in Laos, together with the later wars in [[afghanistan|Afghanistan]], as the basis for the claim that the [[central-intelligence-agency|CIA]] came to control roughly 98 percent of worldwide heroin trafficking.[2]
+
+When the CIA airline CAT began its covert flights to Burma in the 1950s, the area produced about 80 tons of opium a year; within a decade production had perhaps quadrupled, and at one point during the Vietnam War output from the [[golden-triangle|Golden Triangle]] reached 1,200 tons annually.[2] By 1971 there were at least seven heroin labs in the region, one of them close to the CIA base at Ban Houei Sai in Laos, producing an estimated 3.6 tons of heroin a year.[2] The article's summary judgment is that when the CIA got involved, drug trafficking massively increased because money mattered more than human lives.[2]
+
+2. Badlands Brief — "Who Is The Real Enemy?", URL: https://badlands.substack.com/p/who-is-the-real-enemy

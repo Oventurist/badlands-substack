@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [doj, lawfare, maga, narrative]
-sources: [raw/badlands-brief-314.md, raw/badlands-brief-6f0.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-a0b.md, raw/badlands-news-brief-df1.md, raw/badlands-news-brief-f6f.md]
+sources: [raw/badlands-brief-314.md, raw/badlands-brief-6f0.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-a0b.md, raw/badlands-news-brief-df1.md, raw/badlands-news-brief-f6f.md, raw/trumps-final-offensive.md]
 confidence: low
 ---
 
@@ -86,3 +86,8 @@ Badlands host Ashe in America, drawing on a reading of [[kash-patel|Kash Patel]]
 9. Badlands Brief — "Badlands News Brief: The Wolf of D.C. & A Portfolio of Highly Organized Crime", URL: https://badlands.substack.com/p/badlands-news-brief-a0b
 10. Badlands Brief — "Surprise Grand Juries, Side Bar Sanctions, & the Emir's First Time", URL: https://badlands.substack.com/p/badlands-news-brief-df1
 11. Badlands Brief — "Another Ardah, Optimus Prance, & the Right Deal Arms", URL: https://badlands.substack.com/p/badlands-news-brief-f6f
+## Autopen investigation
+
+Martin has publicly discussed his investigations into the use of autopen signatures for executive orders and pardons during the [[joe-biden|Biden]] administration, a matter covered more fully at [[autopen-scandal|the autopen scandal]].[12] In an interview with journalist Mark Halperin on "2WAY Tonight," Martin said: "I had a whistleblower in my office 10 day ago - senior, senior Democrat - saying, 'Look, it was these three people that controlled access, and they were making money off of it'."[12] Badlands Media commentary connects the inquiry to the Racketeer Influenced and Corrupt Organizations Act, under which executive actions taken as part of, or to conceal, a criminal conspiracy reset the statute of limitations; sources within the [[department-of-justice|Department of Justice]] were said to have confirmed that at least four executive orders issued between 2021 and 2023 were being retroactively examined for RICO triggers.[12]
+
+12. Badlands Brief — "Trump's Final Offensive", URL: https://badlands.substack.com/p/trumps-final-offensive

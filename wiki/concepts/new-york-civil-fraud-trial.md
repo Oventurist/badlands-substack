@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [lawfare, donald-trump, new-york, courts]
-sources: [raw/badlands-news-brief-023.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-2e8.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-aaf.md, raw/badlands-news-brief-b04.md, raw/badlands-news-brief-bd6.md, raw/badlands-news-brief-ee7.md]
+sources: [raw/badlands-news-brief-023.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-2e8.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-aaf.md, raw/badlands-news-brief-b04.md, raw/badlands-news-brief-bd6.md, raw/badlands-news-brief-ee7.md, raw/trials-tribulations-and-a-long-train.md]
 confidence: high
 ---
 
@@ -90,6 +90,10 @@ On the substance, Trump testified that banks had not treated his statements of f
 
 Commentary from [[burning-bright|Burning Bright]] argued that despite the camera ban the trial generated headlines rivalling Trump's rallies and public appearances, and that the proliferation of simultaneous prosecutions had made it "almost comically difficult to keep track of WHICH Trump Trial we're discussing."[14] In that reading the litigation was not an interruption of the 2024 campaign but its central vehicle: "The Trial(s) of Donald Trump isn't interfering with his campaign. It IS his campaign."[14]
 
+## January 2024 closing arguments
+
+In the New York civil fraud case before Judge [[arthur-engoron|Arthur Engoron]] (NY Case No. 2023-05088), final post-trial briefs were due to the court on Friday, January 5, 2024, with closing arguments anticipated for Thursday, January 11.[15] Engoron had already ruled in favor of the top claim, and was expected to issue a ruling and decide monetary damages on the remaining claims of conspiracy, insurance fraud and falsifying business records by January 31, 2024.[15] [[ashe-in-america|Ashe in America]] listed the case among the parallel [[lawfare|lawfare]] proceedings she argued amounted to election interference against [[donald-trump|Donald Trump]] during the primary calendar.[15]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Chaos in the Middle East Overshadows That at Home", URL: https://badlands.substack.com/p/badlands-news-brief-023
@@ -106,3 +110,4 @@ Commentary from [[burning-bright|Burning Bright]] argued that despite the camera
 12. Badlands Brief — "China Joe Strikes Out & Trumpism on Trial", URL: https://badlands.substack.com/p/badlands-news-brief-b04
 13. Badlands Brief — "Badlands News Brief: Houthi's War is it, Anyway?", URL: https://badlands.substack.com/p/badlands-news-brief-bd6
 14. Badlands Brief — "Badlands News Brief: Trump Trials, Peacemakers & Narrative Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-ee7
+15. Badlands Media - "Trials, Tribulations & a Long Train of Abuses", URL: https://badlands.substack.com/p/trials-tribulations-and-a-long-train

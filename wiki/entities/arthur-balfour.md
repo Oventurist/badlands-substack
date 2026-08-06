@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [british-empire, zionism, round-table, balfour-declaration, history]
-sources: [raw/real-patriots-dont-think-like-hitler-6fc.md]
+sources: [raw/real-patriots-dont-think-like-hitler-6fc.md, raw/women-children-and-terror.md]
 confidence: medium
 ---
 
@@ -22,5 +22,12 @@ The article states that, like [[winston-churchill]], Balfour was a devoted white
 
 From this the article concludes that Balfour saw the creation of Israel as "one stone that could kill two birds": providing an excuse to purge the Jews from Europe, and creating "a perfect weapon for destabilization" at the geopolitical pivot of Halford Mackinder's Heartland — the cross-section of the world's major civilizational forces.[1] Prime Minister Lloyd George, who oversaw the project at that time, is described as an ardent social imperialist who openly praised Nazism alongside the pro-Nazi King Edward VIII.[1]
 
+## The 1917 letter and its critics (Badlands account)
+
+[[erik-carlson|Erik Carlson]] describes the [[balfour-declaration|Balfour Declaration]] as a public statement issued by the British government in 1917 promising to establish a "national home for the Jewish people" in Palestine, with Lord Arthur Balfour issuing the letter on behalf of the cabinet and addressing it to Lord Rothschild, a British Jew whom Carlson considers a member of the British Cabal elite.[2] He presents the letter as the fulfillment of a bargain struck by Prime Minister [[david-lloyd-george|David Lloyd George]] with Jewish leaders in England to bring the United States into [[world-war-i|World War I]].[2]
+
+Carlson cites a November 1, 2017 article in the Institute for Palestine Studies headlined "It's time to admit that Arthur Balfour was a white supremacist," alongside [[haaretz]] material on British policy-elite attitudes toward the "Jewish race" and the "impurity" of the Palestinian Arabs, in support of the claim that many British elites vital to creating [[israel|Israel]] were themselves antisemites.[2]
+
 ## References
 1. Badlands Brief — "Real Patriots Don't Think Like Hitler - Part 6: 'Greater Israel' as a British Imperial Project", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-6fc
+2. Badlands Brief — "Women, Children ... and Terror", URL: https://badlands.substack.com/p/women-children-and-terror

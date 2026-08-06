@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ngo, litigation, immigration, civil-rights]
-sources: [raw/badlands-news-brief-065.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-da3.md, raw/the-language-of-control.md]
+sources: [raw/badlands-news-brief-065.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-da3.md, raw/the-language-of-control.md, raw/trump-20-and-the-opposition-plot.md]
 confidence: medium
 ---
 
@@ -49,3 +49,10 @@ In "The Language of Control," Badlands Media contributor [[ryan-delarme|Ryan DeL
 DeLarme read the segment as legal expertise deployed in tandem with [[color-revolution|color revolution]] tactics to block [[donald-trump|Donald Trump]] from carrying out mass deportations, a policy he described as overwhelmingly endorsed by voters.[5] He also noted Romero's earlier career at the [[rockefeller-foundation|Rockefeller Foundation]] and the [[ford-foundation|Ford Foundation]], and grouped him with [[marc-elias|Marc Elias]] and [[david-brock|David Brock]] as lawyers fitting the mold of a [[rule-of-law|"rule of law"]] operative.[5]
 
 5. Badlands Media — "The Language of Control", URL: https://badlands.substack.com/p/the-language-of-control
+6. Badlands Brief — "Trump 2.0 and the 'Opposition' Plot", URL: https://badlands.substack.com/p/trump-20-and-the-opposition-plot
+
+## Position within "the Opposition"
+
+DeLarme later listed the ACLU alongside [[media-matters-for-america|Media Matters]], the [[anti-defamation-league|ADL]] and the [[southern-poverty-law-center|SPLC]] as one of the most notable and effective NGOs comprising the engine of [[the-opposition|the Opposition]], the durable successor to [[the-resistance|the Resistance]] formed after the 2024 election.[6] In his framing, the ACLU belongs to the same tax-exempt NGO network as the [[heritage-foundation|Heritage Foundation]], with international think tanks acting as the head of the apparatus and NGOs as its arms and legs.[6]
+
+In the Maddow segment, executive director [[anthony-romero|Anthony Romero]] said the organization had dedicated "thousands of staff hours studying [[project-2025|Project 2025]]" and that, while the old playbook could not simply be rerun, "litigation is going to be key" — a statement DeLarme read as confirmation that [[lawfare|lawfare]] would be the ACLU's principal instrument against a second Trump administration.[6]

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [civil-rights, litigation, elections]
-sources: [raw/always-fight-back.md, raw/badlands-brief-0a2.md, raw/badlands-brief-a1a.md, raw/badlands-news-brief-a9e.md]
+sources: [raw/always-fight-back.md, raw/badlands-brief-0a2.md, raw/badlands-brief-a1a.md, raw/badlands-news-brief-a9e.md, raw/the-multinational-offensive-against.md]
 confidence: medium
 ---
 
@@ -40,3 +40,9 @@ Badlands writer [[burning-bright|Burning Bright]] described the NAACP as "one of
 2. Badlands Brief — "A Virtual Smash & Grab & Another Impeachment Hoax", URL: https://badlands.substack.com/p/badlands-brief-0a2
 3. Badlands Brief — "American Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-a1a
 4. Badlands Brief — "Badlands News Brief: The Simulation Gets Very ... Very Weird", URL: https://badlands.substack.com/p/badlands-news-brief-a9e
+
+## Harris speech on speech regulation
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] wrote that [[kamala-harris|Kamala Harris]] made remarks similar to [[tim-walz|Tim Walz]]'s claims about limits on free speech during a speech to the NAACP in the previous election cycle.[5] DeLarme used the example to argue that the impulse toward regulating misinformation and hate speech is characteristic of the modern Democratic Party rather than the position of a single candidate.[5]
+
+5. Badlands Brief — "The Multinational Offensive Against Free Speech Online", URL: https://badlands.substack.com/p/the-multinational-offensive-against

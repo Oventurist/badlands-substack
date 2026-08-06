@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [politics, republican-party, foreign-policy, america-first]
-sources: [raw/badlands-brief-c91.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-cfa.md, raw/donald-trump-and-george-washington.md, raw/schisms-in-maga.md, raw/the-deep-politics-of-the-12-day-war.md]
+sources: [raw/badlands-brief-c91.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-cfa.md, raw/donald-trump-and-george-washington.md, raw/schisms-in-maga.md, raw/the-deep-politics-of-the-12-day-war.md, raw/where-the-art-of-the-deal-meets-the.md]
 confidence: medium
 ---
 
@@ -60,3 +60,11 @@ DeLarme observed many of these camps viciously attacking one another without rec
 4. Badlands Brief — "Donald Trump and George Washington", URL: https://badlands.substack.com/p/donald-trump-and-george-washington
 5. Badlands Brief — "The MAGA Schism", URL: https://badlands.substack.com/p/schisms-in-maga
 6. Badlands Media — "The Deep Politics of the '12-Day War'", URL: https://badlands.substack.com/p/the-deep-politics-of-the-12-day-war
+
+## Base reaction to the 2024 cabinet picks
+
+Within weeks of [[donald-trump|Trump]]'s November 2024 victory, a visible portion of the MAGA base turned on his announced cabinet nominations, objecting that individual picks had promoted Covid vaccines and mask mandates or were [[rino|RINO]] and [[neoconservatives|NeoCon]] figures.[7] Badlands contributor [[erik-carlson|Erik Carlson]] described supporters on X and Truth Social concluding that Trump was being misled by advisers posing as MAGA but serving the [[deep-state|Deep State]], and that nothing would change.[7]
+
+Carlson argued the movement had been psychologically conditioned into hopelessness, likening it to an abused spouse, and that some of those amplifying the despair were deliberately working to fracture the coalition's confidence.[7] He urged the base to extend trust while still holding Trump accountable.[7] See [[2024-trump-cabinet-selection-controversy]].[7]
+
+7. Badlands Brief — "Where the Art of the Deal Meets the Spotlight", URL: https://badlands.substack.com/p/where-the-art-of-the-deal-meets-the

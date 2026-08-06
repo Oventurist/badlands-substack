@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [republican-party, uniparty, political-terminology, maga]
-sources: [raw/badlands-news-brief-132.md, raw/badlands-news-brief-960.md, raw/balance-necessary-for-control.md, raw/president-trumps-call-to-arms.md, raw/the-deep-state-needs-trump-to-win.md]
+sources: [raw/badlands-news-brief-132.md, raw/badlands-news-brief-960.md, raw/balance-necessary-for-control.md, raw/president-trumps-call-to-arms.md, raw/the-deep-state-needs-trump-to-win.md, raw/where-the-art-of-the-deal-meets-the.md]
 confidence: medium
 ---
 
@@ -45,3 +45,11 @@ In "The Deep State Needs Trump to Win" (April 15, 2024), [[erik-carlson|Erik Car
 By 2024, Carlson argued, the Deep State looking to that side of the pendulum sees only "a bunch of RINOs and Neocons who have lost their power, held captive by MAGA and America First" — leaving the network caught between a rock and a hard place, choosing between letting its host die and taking its chances with [[america-first-movement|America First]].[5] He offered the same point as evidence that the Deep State no longer commands the machinery of war, since otherwise young Americans would already have been drafted into a foreign conflict.[5]
 
 5. Badlands Brief — "The Deep State Needs Trump to Win", URL: https://badlands.substack.com/p/the-deep-state-needs-trump-to-win
+
+## Concessions in the 2024 cabinet debate
+
+In "Where the Art of the Deal Meets the Spotlight" (December 3, 2024), [[erik-carlson|Erik Carlson]] argued that many [[maga-coalition|MAGA]] objections to [[donald-trump|Trump's]] cabinet picks centred on nominees seen as RINO or [[neoconservatives|NeoCon]] stooges.[6] He contended that Trump held these legislators "over a barrel" but that punishing them would push them to vote with Democrats and stall his agenda during the two years his congressional majorities were secure.[6]
+
+On this reading, granting RINOs and NeoCons a satisfactory — if not optimal — deal, potentially including a concession on one or two cabinet appointments, was the price of a working majority.[6] Carlson expected them to be primaried out of the Republican Party two years later, but held that America could not wait that long for reform.[6] He also suggested that the rejection of certain nominees might itself be the concession RINOs, NeoCons and Democrats required, and that such picks were likely never intended to be confirmed.[6] See [[2024-trump-cabinet-selection-controversy]] and [[the-art-of-the-deal]].[6]
+
+6. Badlands Brief — "Where the Art of the Deal Meets the Spotlight", URL: https://badlands.substack.com/p/where-the-art-of-the-deal-meets-the

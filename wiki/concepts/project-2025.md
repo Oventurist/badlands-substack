@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [policy, deep-state, conservatism, administrative-state]
-sources: [raw/badlands-news-brief-020.md, raw/badlands-news-brief-280.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-d50.md]
+sources: [raw/badlands-news-brief-020.md, raw/badlands-news-brief-280.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-d50.md, raw/the-real-fight-begins.md]
 confidence: medium
 ---
 
@@ -45,3 +45,9 @@ Democrats repeatedly invoked Project 2025 from the stage of the August 2024 [[20
 2. Badlands Brief — "Let's Talk About Hunter Biden ... and Bananas", URL: https://badlands.substack.com/p/badlands-news-brief-280
 3. Badlands Brief — "Posse Comitatus & Haggling with Hamas", URL: https://badlands.substack.com/p/badlands-news-brief-94b
 4. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50
+
+## Use as a rallying point for Resistance 2.0
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] argued that when the progressive coalition organizing against a second [[donald-trump|Trump]] term is pressed to name what it is fighting, it can point only to "the now-comical Project 2025," an initiative penned by the [[heritage-foundation|Heritage Foundation]] that he contends has nothing to do with Trump himself.[5] Reading between the lines, he concluded there was no specific policy the groups felt morally compelled to oppose and that they were instead functioning as establishment attack dogs against a populist candidate.[5] See [[resistance-2-0|Resistance 2.0]].
+
+5. Badlands Brief — "The Real Fight Begins", URL: https://badlands.substack.com/p/the-real-fight-begins

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [watchdog, foia, litigation, clinton-administration]
-sources: [raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/badlands-brief-a20.md, raw/badlands-brief-abf.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-355.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-b63.md, raw/badlands-news-brief-b68.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-e8f.md, raw/q-for-dummies-chapter-18.md]
+sources: [raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/badlands-brief-a20.md, raw/badlands-brief-abf.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-355.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-b63.md, raw/badlands-news-brief-b68.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-e8f.md, raw/q-for-dummies-chapter-18.md, raw/trump-lost-all-his-election-cases.md]
 confidence: medium
 ---
 
@@ -107,3 +107,11 @@ In December 2025, Judicial Watch filed a Freedom of Information Act lawsuit agai
 
 15. Badlands News Brief — "Turkish Delight, Somali Expansion, & The Racist History of Jingle Bells", URL: https://badlands.substack.com/p/badlands-news-brief-e8f
 16. Badlands Brief — "Q for Dummies - Chapter 18", URL: https://badlands.substack.com/p/q-for-dummies-chapter-18
+
+## Colorado voter roll consent decree
+
+Among the merits victories catalogued in Badlands Media's review of the [[2020-election-lawsuits|2020 election lawsuits]], Judicial Watch challenged the voter-roll hygiene maintained by Colorado Secretary of State [[jena-griswold|Jena Griswold]], and the secretary entered a consent decree resolving the case.[17] Under the settlement terms Judicial Watch could not state that Griswold had admitted fault, though the group observed it was hard to imagine another circumstance in which a secretary of state would agree to supply a conservative legal organization with annual voter-roll data updates for five years.[17]
+
+Badlands paired the Colorado decree with comparable [[voter-roll-maintenance|voter roll]] agreements secured against Michigan Secretary of State [[jocelyn-benson|Jocelyn Benson]] and Pennsylvania Secretary [[kathy-boockvar|Kathy Boockvar]], arguing that officials could have used the litigation to demonstrate their rolls were pristine and chose not to.[17]
+
+17. Badlands Brief — "'Trump Lost All His Election Cases!'", URL: https://badlands.substack.com/p/trump-lost-all-his-election-cases

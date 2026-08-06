@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [big-tech, amazon, cia, aws, covid]
-sources: [raw/america-has-a-cia-run-economy.md, raw/a-time-to-strike.md, raw/a-week-to-remember.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-cc9.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/a-time-to-strike.md, raw/a-week-to-remember.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-cc9.md, raw/the-stock-market-isnt-the-economy.md, raw/why-do-we-know-what-we-know.md]
 confidence: medium
 ---
 
@@ -61,3 +61,19 @@ Amazon-owned robotaxi maker [[zoox|Zoox]] initiated a recall in May 2025 to upda
 On 26 September 2023, the United States government and 17 states sued Amazon in a landmark monopolization case, reflecting years of allegations that the company had abused its economic dominance and harmed fair competition.[7] The suit, brought by the [[federal-trade-commission|Federal Trade Commission]] and 17 state attorneys general, was the government's sharpest attack yet on a company that began by selling books online and became "the everything store," building a globe-spanning logistics network and a major cloud computing business.[7] The 172-page complaint alleges Amazon unfairly promotes its own platform and services at the expense of third-party sellers, requires sellers to buy its in-house logistics services to obtain "Prime" eligibility, and forces sellers to list products on Amazon at the lowest prices available anywhere online — a practice already challenged in a separate suit by California's attorney general.[7] Badlands writer [[burning-bright|Burning Bright]] linked the case to the [[justice-department|Department of Justice]]'s parallel antitrust action against [[google|Google]] and argued that monopolistic market-makers had to be curtailed for a genuine free market to return.[7] See [[ftc-v-amazon-antitrust-lawsuit|FTC v. Amazon Antitrust Lawsuit]].[7]
 
 7. Badlands Brief — "Badlands News Brief: Hunter Sues, Ukraine Backpedals & Big Mike Preps", URL: https://badlands.substack.com/p/badlands-news-brief-cc9
+
+## Lockdown market-share gains
+
+Badlands contributor [[erik-carlson|Erik Carlson]] wrote in February 2023 that businesses with an online presence not only survived the [[covid-19-lockdowns|COVID lockdowns]] but thrived, and that even after the lockdowns — with people still afraid to be in public — Amazon took huge market share from its small brick-and-mortar competitors.[8] In his account those competitors were essentially put out of business and their sales were "sucked up by the online retail conglomerate," part of a wider consolidation in which the 0.1% of American firms that are publicly traded absorbed the 99.9% that are [[small-business-in-the-united-states|small businesses]].[8]
+
+8. Badlands Brief — "The Stock Market Isn't the Economy", URL: https://badlands.substack.com/p/the-stock-market-isnt-the-economy
+
+## Alleged CIA origins and data collection
+
+In a May 2023 essay, [[erik-carlson|Erik Carlson]] recorded the belief held by many that Amazon was started and funded by the [[central-intelligence-agency|CIA]], with [[jeff-bezos|Jeff Bezos]] put in place to run what he described as a CIA information-gathering company.[9] The same account holds that Amazon received a large CIA contract and that the proceeds funded Bezos's purchase of the [[washington-post|Washington Post]], a newspaper Carlson described as rumoured to be CIA-run.[9] He treated the public's awareness of these connections as itself evidence that the information cannot damage the [[deep-state|Deep State cabal]].[9]
+
+Carlson argued that the Echo Dot with Alexa was priced inexpensively so that it would reach as many homes as possible, and that while Alexa does listen to household conversations, surveillance framed as catching dissenters is a distraction.[9] The real objective, in his reading, is the accumulation of behavioural data — what people buy, browse, are interested in and fear — because supercomputers supplied with enough information can predict probable outcomes and, ultimately, control future behaviour.[9]
+
+Carlson also cited the Amazon Prime series *The Hunters*, starring Al Pacino, in which a 1970s Nazi-hunting group and an FBI agent uncover [[operation-paperclip|Operation Paperclip]], as an example of the entertainment industry preoccupying audiences with a secret whose exposure poses no threat to the cabal — in contrast to [[unit-731|Unit 731]], which he said receives no such treatment.[9]
+
+9. Badlands Brief — "Why Do We Know What We Know?", URL: https://badlands.substack.com/p/why-do-we-know-what-we-know

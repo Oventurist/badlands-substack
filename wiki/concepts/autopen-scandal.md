@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [joe-biden, executive-orders, pardons, legitimacy, autopen]
-sources: [raw/badlands-brief-1ae.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-4fd.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-652.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7d4.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a5d.md, raw/badlands-news-brief-a9a.md, raw/badlands-news-brief-bc7.md, raw/badlands-news-brief-bd2.md]
+sources: [raw/badlands-brief-1ae.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-4fd.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-652.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7d4.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a5d.md, raw/badlands-news-brief-a9a.md, raw/badlands-news-brief-bc7.md, raw/badlands-news-brief-bd2.md, raw/trumps-final-offensive.md]
 confidence: low
 ---
 
@@ -124,3 +124,10 @@ In September 2025 the [[white-house|White House]] unveiled a "Presidential Walk 
 13. Badlands Brief — "Proxy Wars & The Prevention of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a9a
 14. Badlands Brief — "Badlands News Brief: Duplicitous Dependence, Precarious Pardons, & A State Sanctioned Kidnapping", URL: https://badlands.substack.com/p/badlands-news-brief-bc7
 15. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2
+## RICO exposure and the Martin investigation
+
+"Trump's Final Offensive" frames the autopen question as a legal boomerang: under the Racketeer Influenced and Corrupt Organizations Act, any executive action taken as part of a criminal conspiracy, or used to conceal one, resets the statute of limitations.[16] Because orders were allegedly signed without [[joe-biden|Joe Biden]]'s awareness or consent as questions about his mental fitness intensified, the article argues, the autopen practice exposes the surrounding staff to racketeering liability rather than merely raising questions of propriety.[16]
+
+[[ed-martin|Ed Martin]] publicly discussed his investigations into the use of autopen signatures for executive orders and pardons during the Biden administration, telling journalist Mark Halperin on "2WAY Tonight": "I had a whistleblower in my office 10 day ago - senior, senior Democrat - saying, 'Look, it was these three people that controlled access, and they were making money off of it'."[16] Several of Biden's top staffers were reported to be under closed-door inquiry, and sources within the [[department-of-justice|Department of Justice]] confirmed that at least four executive orders issued between 2021 and 2023 were being retroactively investigated for RICO triggers.[16]
+
+16. Badlands Brief — "Trump's Final Offensive", URL: https://badlands.substack.com/p/trumps-final-offensive

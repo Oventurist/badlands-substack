@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [platform, free-speech, video, censorship, 5gw]
-sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-brief-a1a.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5b2.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7b1.md, raw/badlands-news-brief-890.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-ca1.md, raw/badlands-news-brief-e99.md, raw/badlands-news-brief-f94.md, raw/control-through-language.md, raw/jd-vance-sidley-austin-and-q-post.md, raw/the-censorship-war-counteroffensive.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-brief-a1a.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5b2.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7b1.md, raw/badlands-news-brief-890.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-ca1.md, raw/badlands-news-brief-e99.md, raw/badlands-news-brief-f94.md, raw/control-through-language.md, raw/jd-vance-sidley-austin-and-q-post.md, raw/the-censorship-war-counteroffensive.md, raw/the-multinational-offensive-against.md]
 confidence: medium
 ---
 
@@ -113,3 +113,9 @@ In December 2023 Rumble departed [[brazil|Brazil]] over what it deemed a plethor
 Service was later restored in Brazil after Moraes withdrew an order blocking the account of the podcaster Monark, though the judge immediately instructed Rumble's Brazilian lawyers to resume representing the company so they could receive his orders.[17] A subsequent Moraes order requiring Rumble to ban the journalist [[allan-dos-santos|Allan dos Santos]] worldwide — not merely inside Brazil — within two hours triggered the February 19, 2025 joint federal complaint with [[trump-media-and-technology-group|Trump Media and Technology Group]], which relies on Rumble for the cloud services behind [[truth-social|Truth Social]].[17] The suit asked the court to bar [[apple|Apple]] and [[google|Google]] from complying with any Moraes order to remove either platform from their app stores and requested a jury trial.[17] See [[rumble-and-trump-media-v-moraes|Rumble and Trump Media v. Moraes]] and [[censorship-war|Censorship War]].[17]
 
 17. Badlands Brief — "The Censorship War - Counteroffensive", URL: https://badlands.substack.com/p/the-censorship-war-counteroffensive
+
+## As a target of the multinational censorship offensive (2024)
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] identified Rumble, alongside [[twitter|Twitter (X)]] and [[telegram|Telegram]], as one of the most consequential platforms targeted in the 2024 phase of the international censorship campaign — a shift from the 2018 and 2020 waves that wiped out smaller YouTube channels, streamers and online publications.[18] He described Rumble as the premier free speech alternative to YouTube.[18] Rumble's founder [[chris-pavlovski|Chris Pavlovski]] was in Europe when [[pavel-durov|Pavel Durov]] was arrested in France and immediately left the continent, apparently fearing he could be detained as well.[18]
+
+18. Badlands Brief — "The Multinational Offensive Against Free Speech Online", URL: https://badlands.substack.com/p/the-multinational-offensive-against

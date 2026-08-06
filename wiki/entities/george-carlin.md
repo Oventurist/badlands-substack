@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [comedian, cultural-criticism, deep-state, quotes]
-sources: [raw/get-woke-go-broke.md]
+sources: [raw/get-woke-go-broke.md, raw/the-war-of-stories.md]
 confidence: low
 ---
 
@@ -22,3 +22,9 @@ Carlson stated that he sides with the second interpretation: narratives are push
 
 ## References
 1. Badlands Brief — "Get Woke, Go Broke", URL: https://badlands.substack.com/p/get-woke-go-broke
+
+## Invoked in "The War of Stories" (December 2022)
+
+In "The War of Stories" (December 30, 2022), [[burning-bright|Burning Bright]] quoted Carlin's remark that "it's a big club, and you ain't in it" while surveying the succession of American presidencies from Kennedy through Johnson, Reagan, the Bushes, the Clintons and Obama.[2] He argued that although the truism had long resonated with the Badlands community and likely with a majority of even unawakened Americans, Carlin was not referring to those named public figures but to "those pulling their strings" — the shadowed names, organizations and collectives being documented for [[badlands-media|Badlands Media]] by [[ryan-delarme|Ryan DeLarme]].[2]
+
+2. Badlands Brief — "The War of Stories", URL: https://badlands.substack.com/p/the-war-of-stories

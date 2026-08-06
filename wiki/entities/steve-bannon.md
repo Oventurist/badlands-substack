@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [maga, media, war-room, epstein-files, kayfabe]
-sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-7c6.md, raw/badlands-brief-a1a.md, raw/badlands-brief-c7b.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-b63.md, raw/badlands-news-brief-c05.md, raw/badlands-news-brief-c9b.md, raw/badlands-news-brief-d1d.md, raw/days-of-thunder.md, raw/project-trump-card.md, raw/q-for-dummies-chapter-13.md, raw/shadows-sovereigns-and-civil-wars-e41.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-7c6.md, raw/badlands-brief-a1a.md, raw/badlands-brief-c7b.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-b63.md, raw/badlands-news-brief-c05.md, raw/badlands-news-brief-c9b.md, raw/badlands-news-brief-d1d.md, raw/days-of-thunder.md, raw/project-trump-card.md, raw/q-for-dummies-chapter-13.md, raw/shadows-sovereigns-and-civil-wars-e41.md, raw/the-wuhan-lab-leak-hoax.md, raw/we-are-the-plan.md]
 confidence: medium
 ---
 
@@ -190,3 +190,19 @@ Ehret characterizes Bannon's Christianity as chauvinistic rather than pluralist,
 The article notes the irony that the frontman of an originally anti-Bolshevik Catholic project models his tactics on Lenin: journalist Ronald Radosh reported Bannon telling him "I'm a Leninist," explaining that "Lenin wanted to destroy the state, and that's my goal too. I want to bring everything crashing down and destroy all of today's establishment."[26] On October 21, 2021, Bannon called for "20,000 shock troops to take over the government."[26]
 
 26. Badlands Brief — "Shadows, Sovereigns and Civil Wars - Part 2", URL: https://badlands.substack.com/p/shadows-sovereigns-and-civil-wars-e41
+
+27. Badlands Brief — "The Wuhan Lab Leak Hoax", URL: https://badlands.substack.com/p/the-wuhan-lab-leak-hoax
+
+## Campaigning on the Wuhan lab leak
+
+[[matthew-ehret|Matthew Ehret]] writes that Bannon has relentlessly campaigned on the [[lab-leak-theory|Wuhan lab leak]] topic over the years, and most recently has hammered at the revelations of "scanned receipts" said to prove [[anthony-fauci|Anthony Fauci's]] connection to the [[wuhan-institute-of-virology|Wuhan lab]].[27]
+
+Ehret's objection is one of timing rather than authenticity: the receipts documenting transfers from Fauci's [[national-institutes-of-health|NIH]] to Chinese coronavirus research via the [[ecohealth-alliance|EcoHealth Alliance]] had been available since February 2021, and he asks why the material was being spread across the perception landscape more than four years later.[27] He groups Bannon's advocacy with that of [[tucker-carlson|Tucker Carlson]] and [[christopher-wray|Christopher Wray]] as part of a bipartisan, cross-media push blaming China for the pandemic.[27]
+
+## "Field General" of the grassroots
+
+Badlands Media contributor [[kitty-gillespie|Kitty Gillespie]], in her December 2022 essay "We Are 'The Plan'," described Bannon as having taken on a critical role in what she called the Revolution to save America, calling him "a Field General, a Commander, a 'combatant commander'" who barks out orders on every show for listeners to find a way to get involved.[28] She wrote that he is "really close to the 'action'" and that it is thrilling to hear him "drop a crumb to follow" from time to time.[28]
+
+Gillespie amplified a Telegram post by Politick_Rick contrasting Bannon with other commentators: "Bannon never says 'trust the plan.' He says we need to get off our asses and take back U.S. politics at the local level. I'd say you can trust him 100% when he says that."[28] The post called for "MAGA Soldiers willing to do the grunt work" and criticised the pundit class — naming [[tucker-carlson|Tucker Carlson]] as an example — for never discussing solutions.[28] Gillespie credited Bannon's [[war-room|Warroom]] battle cry with pushing tens or hundreds of thousands of patriots into election work ahead of the [[2022-midterm-elections|2022 midterms]], each of them adding a push to what she called the [[flywheel-of-freedom|Flywheel of Freedom]].[28]
+
+28. Badlands Brief — "We Are 'The Plan'", URL: https://badlands.substack.com/p/we-are-the-plan

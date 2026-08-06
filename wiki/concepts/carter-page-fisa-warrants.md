@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [fisa, surveillance, russiagate, spygate, declassification]
-sources: [raw/do-you-believe-in-coincidences.md]
+sources: [raw/do-you-believe-in-coincidences.md, raw/the-trial-of-igor-danchenko-day-one.md]
 confidence: low
 ---
 
@@ -24,5 +24,12 @@ Rosenstein was scheduled to testify before the House in June 2018 and had, accor
 
 The applications rested on the [[steele-dossier|Steele dossier]], funded by [[hillary-clinton|Hillary Clinton]] and compiled by [[christopher-steele|Christopher Steele]].[1] Rosenstein claimed under congressional testimony that he had not fully read the application.[1] Badlands further asserts that Page was a CIA asset rather than a Russian one and that FBI attorney [[kevin-clinesmith|Kevin Clinesmith]] admitted altering an email to insert the phrase "and not a source," a falsification exposed by the [[john-durham|Durham]] investigation.[1] Page was never indicted despite being the nominal target of the surveillance.[1]
 
+## Evidence at the Danchenko trial
+
+On the opening day of the 2022 trial of [[igor-danchenko|Igor Danchenko]], Special Counsel [[john-durham|John Durham]] entered a redacted version of the original Page warrant as Exhibit 1205 and the three renewals as Government Exhibits 1206, 1207 and 1208, using them to fix the dates in the record and to have FBI Supervisory Intelligence Analyst [[brian-auten|Brian Auten]] confirm that uncorroborated [[steele-dossier|dossier]] material was carried into each and every application.[2] Auten testified that a warrant on Page had been sought very early in [[crossfire-hurricane|Crossfire Hurricane]], that a parallel attempt on [[george-papadopoulos|George Papadopoulos]] failed, and that he recalled no discussion of seeking warrants on [[paul-manafort|Paul Manafort]] or [[michael-flynn|Michael Flynn]].[2]
+
+Under Durham's questioning Auten conceded that the [[fbi|FBI]] had searched its own systems and conferred with other agencies but had been unable to corroborate the allegations placed into the applications.[2] The Bureau interviewed [[christopher-steele|Christopher Steele]] in early October 2016, offered him up to $1,000,000 to substantiate his reporting and obtained nothing, and had not yet identified his primary sub-source; the application was nonetheless taken to the surveillance court weeks later, and the source was not identified as Danchenko until December 2016.[2] Badlands contributor Just Human characterised these exchanges as FISA abuse admitted on the stand.[2]
+
 ## References
 1. Badlands Brief — "Do You Believe in Coincidences?", URL: https://badlands.substack.com/p/do-you-believe-in-coincidences
+2. Badlands Brief — "The Trial of Igor Danchenko: Day One", URL: https://badlands.substack.com/p/the-trial-of-igor-danchenko-day-one

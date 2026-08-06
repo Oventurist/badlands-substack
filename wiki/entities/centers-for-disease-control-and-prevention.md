@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [public-health, federal-agencies, 2026]
-sources: [raw/badlands-brief-835.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-2b1.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-d00.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-f1d.md, raw/badlands-news-brief-efd.md, raw/badlands-news-brief-fcb.md, raw/the-dystopia-will-be-televised.md]
+sources: [raw/badlands-brief-835.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-2b1.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-d00.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-f1d.md, raw/badlands-news-brief-efd.md, raw/badlands-news-brief-fcb.md, raw/the-dystopia-will-be-televised.md, raw/triggering-mass-psychosis.md]
 confidence: medium
 ---
 
@@ -142,3 +142,11 @@ Badlands commentator [[ashe-in-america|Ashe in America]] responded with "good ri
 Badlands Media reported that mass surveillance ratcheted up significantly during the COVID-19 pandemic, with the CDC buying private data from tens of millions of cell phones to check obedience to lockdown and curfew decrees.[22] The purchase was cited as an example of federal agencies acquiring [[commercially-available-information|commercially available information]] from data brokers rather than seeking legal compulsion, a practice central to contemporary [[mass-surveillance|mass surveillance]].[22]
 
 22. Badlands Brief — "The Dystopia Will Be Televised", URL: https://badlands.substack.com/p/the-dystopia-will-be-televised
+
+## COVID-era authority and mass psychosis (January 2023)
+
+[[justin-deschamps|Justin Deschamps]]'s January 20, 2023 essay on [[mass-psychosis]] characterized the CDC, along with the [[world-health-organization|WHO]], as a privately funded institution that many people wrongly believe to be an actual governing entity.[23] The essay drew on a study by Philipp Bagus, José Antonio Peña-Ramos and Antonio Sánchez-Bayón contending that mass and digital media in connection with the state may have had adverse consequences during the COVID-19 crisis, and that the resulting collective hysteria may have contributed to government policy errors not in line with health recommendations, despite the insistence of the corporate press and of institutions such as the CDC.[23]
+
+Deschamps listed the CDC with the WHO and the [[national-institutes-of-health|NIH]] as the institutional face of COVID-era authoritarianism, staffed by a "devout priesthood" of [[bill-gates|Bill Gates]], [[anthony-fauci|Anthony Fauci]] and [[tedros-adhanom-ghebreyesus|Tedros Adhanom Ghebreyesus]].[23] He argued that under this regime the public was asked to isolate, halt their lives, cripple their businesses and blindly accept decrees that a vaccine was safe and effective without testing, while considering themselves virtuous for complying.[23]
+
+23. Badlands Brief — "Triggering Mass Psychosis", URL: https://badlands.substack.com/p/triggering-mass-psychosis

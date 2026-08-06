@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [canada, banking, green-finance, goldman-sachs, city-of-london]
-sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-1ce.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-314.md, raw/badlands-brief-577.md, raw/badlands-brief-a84.md, raw/badlands-brief-db7.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-719.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-dca.md, raw/canadas-transition-to-collectivist.md, raw/defeating-the-depopulation-agenda.md, raw/the-deep-state-empire-strikes-back.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-1ce.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-314.md, raw/badlands-brief-577.md, raw/badlands-brief-a84.md, raw/badlands-brief-db7.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-719.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-dca.md, raw/canadas-transition-to-collectivist.md, raw/defeating-the-depopulation-agenda.md, raw/the-deep-state-empire-strikes-back.md, raw/the-rising-scourge-of-eco-terrorism.md]
 confidence: medium
 ---
 
@@ -181,6 +181,11 @@ As an Oxford-trained former president of the Royal Institute of International Af
 
 Ehret concludes that Carney offers no policies shaped by democratic input but rather frameworks, tools, and scorecards, speaking the language of sustainability, equity, and modernization while pursuing "rule without consent. Rule by expertise. Rule by empire."[25] His pledge of allegiance, Ehret contends, was not to the people of Canada but to the Crown and the heirs of King Charles, and his re-branding from cold central banker to champion of freedom against "American imperialism" left his core identity unchanged.[25] Carney's mission is framed as fulfillment of Rhodes' dream of "a church for the extension of the British Empire" and the re-acquisition of the American colonies.[25]
 
+## Named as an "above grounder"
+
+In "The Rising Scourge of Eco-Terrorism," [[matthew-ehret|Matthew Ehret]] names Carney among the "above grounders" — Davos figures who, in his framing, do to the support systems of humanity from within the corridors of power what underground [[eco-terrorism|eco-terrorists]] attempt through sabotage.[26] He cites Carney's role in forcing through central banker climate compacts to choke off hydrocarbon energy, alongside moratoria on nuclear power across Europe and the collapse of agro-industrial farms under draconian fertilizer quotas.[26]
+
+
 ## References
 
 1. Badlands Brief — "A Re-Alignment of World Systems", URL: https://badlands.substack.com/p/a-re-alignment-of-world-systems
@@ -208,3 +213,4 @@ Ehret concludes that Carney offers no policies shaped by democratic input but ra
 23. Badlands Brief — "Canada's Transition to Collectivist Green Dystopia", URL: https://badlands.substack.com/p/canadas-transition-to-collectivist
 24. Badlands Brief — "Defeating the Depopulation Agenda", URL: https://badlands.substack.com/p/defeating-the-depopulation-agenda
 25. Badlands Brief — "The Deep State Empire Strikes Back", URL: https://badlands.substack.com/p/the-deep-state-empire-strikes-back
+26. Badlands Brief — "The Rising Scourge of Eco-Terrorism", URL: https://badlands.substack.com/p/the-rising-scourge-of-eco-terrorism

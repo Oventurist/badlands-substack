@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [wwii, wwi, britain, history, revisionism]
-sources: [raw/badlands-news-brief-6f7.md, raw/operation-gladio-a-primer.md, raw/real-patriots-dont-think-like-hitler-196.md, raw/real-patriots-dont-think-like-hitler-6fc.md]
+sources: [raw/badlands-news-brief-6f7.md, raw/operation-gladio-a-primer.md, raw/real-patriots-dont-think-like-hitler-196.md, raw/real-patriots-dont-think-like-hitler-6fc.md, raw/women-children-and-terror.md]
 confidence: medium
 ---
 
@@ -36,6 +36,10 @@ The campaign Churchill covered is also where, in her telling, the Boers demonstr
 
 [[matthew-ehret|Matthew Ehret]] presents Churchill's 1940 accession as part of a deliberate course correction by London and Wall Street once [[adolf-hitler|Hitler]] proved unwilling to serve as junior partner in an Anglo-led New World Order.[3] A scandal was concocted to justify the 1936 abdication of the pro-Nazi [[edward-viii|Edward VIII]], and the appeasing Prime Minister Neville Chamberlain was replaced with Churchill in 1940.[3] Ehret describes Churchill as a lifelong racist, eugenicist and even Mussolini admirer, but above all a devout British imperialist who would fight tooth and nail to save the prestige of the Empire when it was threatened — "which he did."[3]
 
+## The "special friendship" myth (Badlands citation)
+
+In "Women, Children ... and Terror," [[erik-carlson|Erik Carlson]] quoted a [[haaretz]] op-ed of January 27, 2017 titled "The Truth About Churchill and the Jews," which states that "the British leader's 'special friendship' with the Jewish people is nothing more than a myth, created by Churchill himself and his official biographer, Martin Gilbert."[5] He paired it with a Middle East Monitor headline of June 24, 2020: "Churchill was an anti-Semite who embraced Zionism as a colonial tool."[5] Carlson used both to support his broader claim that many of the British elites vital to creating the State of [[israel|Israel]] were antisemites who acted from calculation rather than sympathy.[5]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Psyops Abound as the Media Landscape Shifts Rapidly", URL: https://badlands.substack.com/p/badlands-news-brief-6f7
 2. Badlands Brief — "Operation Gladio - A Primer", URL: https://badlands.substack.com/p/operation-gladio-a-primer
@@ -48,3 +52,4 @@ Part 6 of the "Real Patriots Don't Think Like Hitler" series states that the hid
 While the article grants that Churchill could not be called a supporter of Hitler's National Socialism, it notes that up until 1935 he loudly proclaimed his admiration for Hitler and spoke fondly of Mussolini's Black Shirts.[4] It further describes him as a rampant racist who presided over the mass extermination of "lower races," pointing to the 1943 Bengal famine that killed three million Indians, and classes him — like most other dominant Round Table leaders of Britain at the time — as an "imperial socialist," a disposition the article places at the heart of 20th-century fascism.[4] Churchill is listed alongside Lord Shaftesbury and [[arthur-balfour|Lord Balfour]] as figures who believed the British Empire had created political Zionism as an instrument of the Great Game.[4]
 
 4. Badlands Brief — "Real Patriots Don't Think Like Hitler - Part 6: 'Greater Israel' as a British Imperial Project", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-6fc
+5. Badlands Brief — "Women, Children ... and Terror", URL: https://badlands.substack.com/p/women-children-and-terror

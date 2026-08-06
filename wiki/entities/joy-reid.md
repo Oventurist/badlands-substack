@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, msnbc, journalism, 2024-election]
-sources: [raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-4b7.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-ac1.md, raw/badlands-news-brief-e8f.md]
+sources: [raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-4b7.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-ac1.md, raw/badlands-news-brief-e8f.md, raw/the-multinational-offensive-against.md]
 confidence: medium
 ---
 
@@ -51,3 +51,9 @@ In the final week of the 2024 campaign, Reid was among the first prominent voice
 In December 2025, the former MSNBC host shared on Instagram a viral video claiming that the Christmas song "Jingle Bells" is rooted in racism and was written "as a mockery of Black people."[6] In the video, a man criticized a plaque in Medford, Massachusetts honoring the site where James Lord Pierpont is believed to have written the song in 1850, with a caption reading, "This is where a racist Confederate soldier wrote 'Jingle Bells' to make fun of Black people," and asserting that the plaque "ignores its origins in blackface minstrelsy."[6] The video further claimed that the original title, "The One Horse Open Sleigh," was intended for racist blackface performances and that the "laughing all the way" theme likely referenced a routine known as the "Laughing Darkie."[6] The episode was reported by One America News and carried as a bonus item in the Badlands News Brief.[6]
 
 6. Badlands News Brief — "Turkish Delight, Somali Expansion, & The Racist History of Jingle Bells", URL: https://badlands.substack.com/p/badlands-news-brief-e8f
+
+## Walz interview on free speech limits
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] cited an appearance by [[tim-walz|Tim Walz]] on Joy Reid's [[msnbc|MSNBC]] program — which he mockingly called "highly prestigious," hosted by "intellectual juggernaut" Joy Reid — in which Walz said: "I think we need to push back on this. There's no guarantee of free speech on misinformation or hate speech and especially around our democracy."[7] DeLarme called the statement completely false and used the exchange to argue that mainstream cable venues normalize the idea that speech categories such as [[hate-speech|hate speech]] fall outside [[first-amendment|First Amendment]] protection.[7]
+
+7. Badlands Brief — "The Multinational Offensive Against Free Speech Online", URL: https://badlands.substack.com/p/the-multinational-offensive-against

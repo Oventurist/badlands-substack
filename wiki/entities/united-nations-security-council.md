@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [united-nations, diplomacy, russia, ukraine, nuclear]
-sources: [raw/badlands-brief-fbb.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-d6a.md, raw/the-enduring-legacy-of-the-entente.md]
+sources: [raw/badlands-brief-fbb.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-d6a.md, raw/the-enduring-legacy-of-the-entente.md, raw/war-pigs.md]
 confidence: medium
 ---
 
@@ -58,6 +58,10 @@ On February 20, 2024, the United States cast the lone veto against a Security Co
 
 Badlands contributor [[burning-bright|Burning Bright]] described the veto as part of an "Ouroborosian death spiral" of the System of Systems and the Central Narrative, noting that Washington publicly refused a Gaza ceasefire days after stumping for more taxpayer funding for its proxy war in the Donbas.[10] He argued that the awakening public increasingly perceives that the [[uniparty|Uniparty]] establishment will stop at nothing to perpetuate its endless war machine, and asked, in light of [[devolution|Devolution]] theory, which globalist-aligned proxies were threatened by events in Gaza sufficiently to make the entire EU bloc call for a cessation of violence there while demanding more of it to the east.[10]
 
+## US veto of the 2023 Gaza humanitarian pause resolution
+
+"War Pigs" notes that in October 2023 the United States was the only nation on the Security Council to veto a resolution calling for "humanitarian pauses" to deliver lifesaving aid to millions in Gaza.[12] Badlands Media observed this was not the first such veto — the pattern had held regularly for several decades — and argued it had produced a perception throughout the Muslim world that the US is Israel's partner and enabler.[12] Mass protests in Lebanon, Turkey, Yemen, Saudi Arabia and Iran, all countries the article describes as having formidable militaries, blamed the United States as much as Israel.[12]
+
 ## References
 
 1. Badlands Brief — "Unity, Patricide, & Political Violence", URL: https://badlands.substack.com/p/badlands-brief-fbb
@@ -78,3 +82,4 @@ Badlands contributor [[burning-bright|Burning Bright]] described the veto as par
 Against this, [[mark-malloch-brown|Lord Mark Malloch Brown]] — who integrated the [[responsibility-to-protect|Responsibility to Protect]] doctrine into the UN while serving as Undersecretary General — has spent recent years calling for the dissolution of the Security Council in order to remove "authoritarian nations" such as Russia and China from any role in global war-making decisions.[11]
 
 11. Badlands Brief — "The Enduring Legacy of the Entente Cordiale", URL: https://badlands.substack.com/p/the-enduring-legacy-of-the-entente
+12. Badlands Brief — "War Pigs", URL: https://badlands.substack.com/p/war-pigs

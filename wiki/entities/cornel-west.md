@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [politics, 2024-election, third-party, green-party]
-sources: [raw/badlands-news-brief-bbb.md, raw/badlands-news-brief-dfa.md, raw/bernie-sanders-establishment-tool.md]
+sources: [raw/badlands-news-brief-bbb.md, raw/badlands-news-brief-dfa.md, raw/bernie-sanders-establishment-tool.md, raw/war-pigs.md]
 confidence: medium
 ---
 
@@ -26,8 +26,13 @@ West has described himself as a "non-Marxist socialist," saying he does not view
 
 The essay argued that as supporters of Sanders and [[alexandria-ocasio-cortez|Alexandria Ocasio-Cortez]] grow disillusioned with a Democratic Party that no longer contains a genuine oppositional faction, West should be the natural candidate to win them over — and that the powers within and behind the party, aware of this, deployed Sanders as an "attack dog" against him.[3] It also pointed to mainstream commentary treating third-party runs as a "threat to democracy," including remarks by Anderson Cooper and [[james-carville|James Carville]], the latter suggesting Jill Stein was an agent of the Kremlin, as part of a broader effort to delegitimize candidates outside the two-party structure.[3] The Hill's morning program Rising was cited as having covered the Sanders–West conflict comparatively fairly.[3]
 
+## Cited in the Briahna Joy Gray coverage
+
+"War Pigs" recalls that [[briahna-joy-gray|Briahna Joy Gray]] criticised [[bernie-sanders|Bernie Sanders]] on [[rising|Rising]] over his attacks against West, an episode Badlands Media had previously covered in its Substack devoted to Sanders.[4] The reference is used to establish Gray's credentials as an anti-establishment voice on the left willing to break with Democratic Party orthodoxy.[4]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: The Info War is Getting Stranger ...", URL: https://badlands.substack.com/p/badlands-news-brief-bbb
 2. Badlands Brief — "Hunter's Plea, Powell's Plight & Trump's Plan", URL: https://badlands.substack.com/p/badlands-news-brief-dfa
 3. Badlands Media — "Bernie Sanders: Establishment Tool", URL: https://badlands.substack.com/p/bernie-sanders-establishment-tool
+4. Badlands Brief — "War Pigs", URL: https://badlands.substack.com/p/war-pigs

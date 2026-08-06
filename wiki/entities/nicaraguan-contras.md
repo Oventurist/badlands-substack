@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [nicaragua, contras, cia, cocaine, cold-war]
-sources: [raw/dollars-dope-and-deception.md, raw/operation-gladio-a-primer.md, raw/school-of-assassins-and-dictators.md]
+sources: [raw/dollars-dope-and-deception.md, raw/operation-gladio-a-primer.md, raw/school-of-assassins-and-dictators.md, raw/the-shadow-game.md]
 confidence: medium
 ---
 
@@ -40,3 +40,11 @@ The resupply corridor ran through neighbouring states: a secret 7,000-foot airst
 1. Badlands Brief — "Dollars, Dope, and Deception", URL: https://badlands.substack.com/p/dollars-dope-and-deception
 2. Badlands Brief — "Operation Gladio - A Primer", URL: https://badlands.substack.com/p/operation-gladio-a-primer
 3. Badlands Brief — "School of Assassins and Dictators", URL: https://badlands.substack.com/p/school-of-assassins-and-dictators
+
+## The cocaine trail and the Boland cutoff
+
+In "The Shadow Game," [[joe-lange|Joe Lange]] argues that the public rationale for arming the Contras — fighting communism in Nicaragua — was a red herring, and that the real motive was Nicaragua's importance as a stop along the cocaine trail from Colombia to the United States, a flow disrupted when the [[sandinista-national-liberation-front|Sandinistas]] removed the CIA-controlled [[anastasio-somoza-debayle|Somoza]] regime.[4] The [[cia|CIA]] raised an army of rebels to overthrow the Sandinista government in another "secret war," comparable to Laos.[4]
+
+[[congress|Congress]], fearing escalation into another Vietnam, outlawed the use of taxpayer money to arm the Contras through the [[boland-amendment|Boland Amendment]], and after discovering that the CIA had mined Nicaraguan harbors passed a second amendment cutting off all funding and forbidding any government agency, including the CIA, from aiding the Contras in any way.[4] Lange states that [[george-hw-bush|George H.W. Bush]] and the [[shadow-government|shadow government]] were already arming and training the rebels in 1981 without congressional consent, and that the 1984 funding cutoff prompted the diversion of money from arms sales to Iran that became the [[iran-contra-affair|Iran-Contra]] scandal.[4]
+
+4. Badlands Brief — "The Shadow Game", URL: https://badlands.substack.com/p/the-shadow-game

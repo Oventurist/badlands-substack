@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [first-lady, melania-trump, artificial-intelligence]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-285.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-d74.md, raw/project-trump-card.md, raw/the-covfefe-dig.md, raw/the-master-builder.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-285.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-d74.md, raw/project-trump-card.md, raw/the-covfefe-dig.md, raw/the-master-builder.md, raw/the-werewolf-game-agents-from-russia.md]
 confidence: medium
 ---
 
@@ -92,3 +92,9 @@ In December 2021 Melania Trump announced an NFT titled "Melania's Vision," sold 
 Badlands Media's "The Master Builder" (February 2, 2023) records that when [[donald-trump|Donald Trump]] and Melania Trump landed in the Chinese capital in November 2017, they joined [[xi-jinping|Xi Jinping]] and his wife Peng Liyuan for a tour of the [[forbidden-city|Forbidden City]], the palace that housed Chinese emperors for almost five hundred years.[13] The accompanying official dinner inside the palace was, according to CNN, an honor not granted to any U.S. president since the founding of the People's Republic of China, and formed part of what ambassador [[cui-tiankai|Cui Tiankai]] had promised would be a "state visit-plus."[13]
 
 13. Badlands Media — "The Master Builder", URL: https://badlands.substack.com/p/the-master-builder
+
+## Family origins and the Tartaria thesis (2024)
+
+The March 27, 2024 installment of [[american-hypnotist|American Hypnotist]]'s [[the-werewolf-game|Werewolf Game]] series notes that Melania Trump's family comes from the same general region of Eastern Europe as [[nikola-tesla|Nikola Tesla]]'s family — the area the author associates with both the [[koryos|wolf cult]] and [[tartaria|Tartaria]].[14] The observation is offered as one of four recapped points supporting the essay's claim that the Trump family is connected to a lost, positive civilization.[14]
+
+14. Badlands Brief — "The Werewolf Game - Agents from Russia", URL: https://badlands.substack.com/p/the-werewolf-game-agents-from-russia

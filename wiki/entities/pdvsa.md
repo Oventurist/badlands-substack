@@ -1,10 +1,10 @@
 ---
-title: PDVSA
+title: "PDVSA"
 created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [pdvsa, venezuela, oil, embezzlement, money-laundering]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-95a.md, raw/badlands-brief-d17.md, raw/badlands-brief-d9f.md, raw/badlands-brief-e8d.md, raw/badlands-news-brief-cad.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-95a.md, raw/badlands-brief-d17.md, raw/badlands-brief-d9f.md, raw/badlands-brief-e8d.md, raw/badlands-news-brief-cad.md, raw/the-venezuelan-squeeze.md]
 confidence: low
 ---
 
@@ -43,6 +43,16 @@ Badlands reporting in December 2025 described [[citgo|Citgo]] — the holder of 
 
 An exemption granted by President [[donald-trump|Donald Trump]] to Citgo from the 2019 Venezuela sanctions forbids the company from paying taxes or fees to the Venezuelan government for the oil, but does permit Citgo to give PDVSA crude oil, which PDVSA can then sell for money — an arrangement Badlands contributors flagged as evidence that the public narrative around the standoff is incomplete.[6]
 
+## The Chávez purge and the long decline
+
+Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] describes PDVSA as "the ultimate prize" in Washington's decades-long contest with [[venezuela|Venezuela]], noting that under [[hugo-chavez|Hugo Chávez]] it ranked among the world's top five crude exporters, pumping 3.5 million barrels a day.[7] Chávez believed the old elite inside PDVSA had spent decades siphoning profits into Miami condominiums and Zurich accounts while the slums of Caracas festered.[7] In 2002–2003, after surviving the [[2002-venezuelan-coup-attempt|April 2002 coup]] and the business elite's "owners' strike" that paralyzed petroleum production and cut GDP by an estimated 27 percent, Chávez fired 19,000 PDVSA managers, replaced them with loyalists, and redirected the resulting petrodollars into health, education, and housing programs.[7]
+
+Under sanctions, Venezuelan oil production fell from 3.5 million barrels per day under Chávez to a low of 300,000 in 2020; PDVSA's rigs rusted and skilled engineers fled to Guyana and Trinidad.[7] The [[us-department-of-the-treasury|Treasury Department]]'s freezing of $7 billion in [[citgo|Citgo]] assets in 2019 and the transfer of control to [[juan-guaido|Juan Guaidó]]'s parallel government intensified the cash-flow squeeze.[7]
+
+## Chinese and Russian lifelines
+
+[[china|China]] restructured $60 billion in loans across 2016–2019, converting maturing obligations into long-term, oil-backed commitments under which Venezuela pledged future crude shipments, often at below-market rates, to service the debt.[7] By 2020 Chinese firms such as CNPC were operating joint ventures in the [[orinoco-mining-arc|Orinoco Belt]], extracting oil that doubled as debt repayment, and when sanctions choked PDVSA's cash flow Beijing's state banks quietly extended grace periods and rolled over principal to prevent default.[7] [[rosneft|Rosneft]], the Kremlin-linked oil giant, prepaid for Venezuelan crude and injected billions into PDVSA's coffers, while [[russia|Russia]] refinanced $17 billion in military contracts, accepting oil and gold as payment.[7]
+
 ## References
 
 1. Badlands Brief — "Arctic Escalation and Tropic Trouble for the Financial System", URL: https://badlands.substack.com/p/badlands-brief-02a
@@ -51,3 +61,4 @@ An exemption granted by President [[donald-trump|Donald Trump]] to Citgo from th
 4. Badlands Brief — "Dueling Color Revolutions, Economic Escalation, & Superseding Somali Scams", URL: https://badlands.substack.com/p/badlands-brief-d9f
 5. Badlands Brief — "Miraflores New Tenant, Walz Awakens, & Kelly's Court Martial", URL: https://badlands.substack.com/p/badlands-brief-e8d
 6. Badlands Brief — "A Christmas Bonus, War “With” Venezuela, & Prime Time Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-cad
+7. Badlands Media — "The Venezuelan Squeeze", URL: https://badlands.substack.com/p/the-venezuelan-squeeze

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [vatican, canon-law, sovereignty, papacy]
-sources: [raw/soul-governance.md]
+sources: [raw/soul-governance.md, raw/triggering-mass-psychosis.md]
 confidence: low
 ---
 
@@ -22,3 +22,9 @@ These readings of Unam Sanctam are characteristic of sovereign-citizen and relat
 
 ## References
 1. Badlands Brief — "Soul Governance", URL: https://badlands.substack.com/p/soul-governance
+
+## Cited as ruling-class delusion (January 2023)
+
+[[justin-deschamps|Justin Deschamps]]'s January 20, 2023 essay on [[mass-psychosis]] quotes the papal bull's declaration: "Furthermore, we declare, we proclaim, we define that it is absolutely necessary for salvation that every human creature be subject to the Roman Pontiff."[2] He presented the bull as an example of the delusion, attractive to the power-hungry, that a ruling elite can and should control and dominate an entire society, and stated that it helped inaugurate the conquest of foreign lands under the [[doctrine-of-discovery|Doctrine of Discovery]].[2]
+
+2. Badlands Brief — "Triggering Mass Psychosis", URL: https://badlands.substack.com/p/triggering-mass-psychosis

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senator, crime-bill, 1994]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-time-to-strike.md, raw/a-week-to-remember.md, raw/and-iran-iran-so-far-away.md, raw/are-we-being-distracted.md, raw/assad-day-in-damascus.md, raw/badlands-brief-1ae.md, raw/badlands-brief-7bf.md, raw/badlands-brief-c91.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-384.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-433.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-4a6.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-4b9.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-533.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-67e.md, raw/badlands-news-brief-782.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-7b1.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-942.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-a9e.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-ac8.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-adc.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b39.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-b9c.md, raw/badlands-news-brief-b9e.md, raw/badlands-news-brief-bcc.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-be1.md, raw/badlands-news-brief-c07.md, raw/badlands-news-brief-c05.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c14.md, raw/badlands-news-brief-c18.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-c9d.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-d36.md, raw/badlands-news-brief-d45.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-d50.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-dae.md, raw/badlands-news-brief-dcb.md, raw/badlands-news-brief-db1.md, raw/badlands-news-brief-df8.md, raw/badlands-news-brief-e0a.md, raw/badlands-news-brief-e37.md, raw/badlands-news-brief-e1e.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-e79.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-e7c.md, raw/badlands-news-brief-eff.md, raw/badlands-news-brief-ee8.md, raw/badlands-news-brief-efd.md, raw/badlands-news-brief-f18.md, raw/badlands-news-brief-f25.md, raw/badlands-news-brief-f46.md, raw/badlands-news-brief-f7d.md, raw/badlands-news-brief-f8a.md, raw/badlands-news-brief-fe3.md, raw/badlands-news-brief-fbc.md, raw/badlands-news-brief-fde.md, raw/badlands-news-brief-ff6.md, raw/biden-inc-flips.md, raw/chips-and-dips.md, raw/cataclysmic-silence.md, raw/dear-america-are-you-ready-to-do.md, raw/energy-consolidation.md, raw/money-and-oil.md, raw/quid-pro-joe.md, raw/stay-focused-on-the-big-picture.md, raw/the-accomplishments-of-president-a2b.md, raw/stuck-in-a-groove-of-negativity-and.md, raw/the-chosen-one.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-deep-state-has-already-lost.md, raw/the-fake-and-the-gaetz.md, raw/the-president-that-never-was.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-time-to-strike.md, raw/a-week-to-remember.md, raw/and-iran-iran-so-far-away.md, raw/are-we-being-distracted.md, raw/assad-day-in-damascus.md, raw/badlands-brief-1ae.md, raw/badlands-brief-7bf.md, raw/badlands-brief-c91.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-384.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-433.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-4a6.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-4b9.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-533.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-67e.md, raw/badlands-news-brief-782.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-7b1.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-942.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-a9e.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-ac8.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-adc.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b39.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-b9c.md, raw/badlands-news-brief-b9e.md, raw/badlands-news-brief-bcc.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-be1.md, raw/badlands-news-brief-c07.md, raw/badlands-news-brief-c05.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c14.md, raw/badlands-news-brief-c18.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-c9d.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-d36.md, raw/badlands-news-brief-d45.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-d50.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-dae.md, raw/badlands-news-brief-dcb.md, raw/badlands-news-brief-db1.md, raw/badlands-news-brief-df8.md, raw/badlands-news-brief-e0a.md, raw/badlands-news-brief-e37.md, raw/badlands-news-brief-e1e.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-e79.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-e7c.md, raw/badlands-news-brief-eff.md, raw/badlands-news-brief-ee8.md, raw/badlands-news-brief-efd.md, raw/badlands-news-brief-f18.md, raw/badlands-news-brief-f25.md, raw/badlands-news-brief-f46.md, raw/badlands-news-brief-f7d.md, raw/badlands-news-brief-f8a.md, raw/badlands-news-brief-fe3.md, raw/badlands-news-brief-fbc.md, raw/badlands-news-brief-fde.md, raw/badlands-news-brief-ff6.md, raw/biden-inc-flips.md, raw/chips-and-dips.md, raw/cataclysmic-silence.md, raw/dear-america-are-you-ready-to-do.md, raw/energy-consolidation.md, raw/money-and-oil.md, raw/quid-pro-joe.md, raw/stay-focused-on-the-big-picture.md, raw/the-accomplishments-of-president-a2b.md, raw/stuck-in-a-groove-of-negativity-and.md, raw/the-chosen-one.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-deep-state-has-already-lost.md, raw/the-fake-and-the-gaetz.md, raw/the-president-that-never-was.md, raw/the-stock-market-isnt-the-economy.md, raw/the-transition-integrity-project.md, raw/trump-secures-uneasy-peace-in-gaza.md, raw/tucker-twitter-and-the-truth-community.md, raw/whos-the-u-boat-commander.md, raw/who-controls-whom.md, raw/whats-taking-so-long.md, raw/women-children-and-terror.md]
 confidence: medium
 ---
 
@@ -1031,128 +1031,6 @@ The same article framed his [[hunter-biden-pardon|pardon of Hunter Biden]] as a 
 
 Badlands Media's April 2023 compilation of Donald Trump's economic accomplishments was explicitly structured as a contrast piece, with the author stating that the state of the economy at the time of writing would "shine a light on the stark contrast between President Trump's economy, and Resident Biden's 'economy'" — using the derisive honorific common in the outlet's commentary to dispute the legitimacy of Biden's presidency.[172]
 
-## References
-1. Badlands Brief — "A Journey of Ever-changing Truths", URL: https://badlands.substack.com/p/a-journey-of-ever-changing-truths
-2. Badlands Brief — "A Time to Strike", URL: https://badlands.substack.com/p/a-time-to-strike
-3. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
-4. Badlands Brief — "And Iran, Iran So Far Away", URL: https://badlands.substack.com/p/and-iran-iran-so-far-away
-5. Badlands Brief — "Are We Being Distracted?", URL: https://badlands.substack.com/p/are-we-being-distracted
-6. Badlands Brief — "Assad Day in Damascus", URL: https://badlands.substack.com/p/assad-day-in-damascus
-7. Badlands Brief — "DC Exposes Itself as the Middle East Gets Gloriously Strange", URL: https://badlands.substack.com/p/badlands-brief-1ae
-8. Badlands Brief — "Entertaining Obstruction & Artificial Shadow Wars", URL: https://badlands.substack.com/p/badlands-brief-7bf
-9. Badlands Brief — "Trump Rugs the Deltas with an Early MOU", URL: https://badlands.substack.com/p/badlands-brief-c91
-10. Badlands Brief — "Badlands News Brief: Tracking Resignations, Scare Events & the Death of Taxes", URL: https://badlands.substack.com/p/badlands-news-brief-017
-11. Badlands News Brief — "Lake Lasts, Biden Slumps & Powell Blinks", URL: https://badlands.substack.com/p/badlands-news-brief-050
-12. Badlands Brief — "Badlands News Brief: Pedo Islands, Polling Panic & Cage Fights", URL: https://badlands.substack.com/p/badlands-news-brief-024
-13. Badlands Brief — "Badlands News Brief: Sudan Spirals, Epstein Entraps & Banks Bail", URL: https://badlands.substack.com/p/badlands-news-brief-070
-14. Badlands News Brief — "Durham's Dance, Putin's Warning and Xi's Rebuke", URL: https://badlands.substack.com/p/badlands-news-brief-01d
-15. Badlands Brief — "Real Leaks & Fake News", URL: https://badlands.substack.com/p/badlands-news-brief-08c
-16. Badlands Brief — "Tucker, Fauci, Biden & Biology", URL: https://badlands.substack.com/p/badlands-news-brief-082
-17. Badlands Brief — "Badlands News Brief: Trans Easter Bait & A Tale of Two Presidents", URL: https://badlands.substack.com/p/badlands-news-brief-092
-18. Badlands Brief — "Badlands News Brief: Hot Wars Wind Down. Trade & Meme Wars Heat Up.", URL: https://badlands.substack.com/p/badlands-news-brief-071
-19. Badlands News Brief — "MAGA Gets Branded as Biden Bungles Everything", URL: https://badlands.substack.com/p/badlands-news-brief-07e
-20. Badlands Brief — "Badlands News Brief: Democrats in Disarray as Globalists Bend the Knee", URL: https://badlands.substack.com/p/badlands-news-brief-099
-21. Badlands Brief — "Preemptive Pardons, Syrian Sanctions, & Preparations for Putin", URL: https://badlands.substack.com/p/badlands-news-brief-09e
-22. Badlands Brief — "Badlands News Brief: Draft Dodgers, Peacemakers & Warmongers Galore!", URL: https://badlands.substack.com/p/badlands-news-brief-0db
-23. Badlands Media — "Badlands News Brief: Biden Bungles Rafah as Trump Trials Collapse", URL: https://badlands.substack.com/p/badlands-news-brief-0c1
-24. Badlands Brief — "Lawsuits Can Be Very Effective ...", URL: https://badlands.substack.com/p/badlands-news-brief-051
-25. Badlands Brief — "Badlands News Brief: Escalation ... Acceleration ... and Biden", URL: https://badlands.substack.com/p/badlands-news-brief-0f0
-26. Badlands News Brief — "The Walz Cycle Consumes Itself as Tensions Pause", URL: https://badlands.substack.com/p/badlands-news-brief-0ad
-27. Badlands Brief — "Problems Litter the Game Board; But Solutions Are Coming ...", URL: https://badlands.substack.com/p/badlands-news-brief-10a
-28. Badlands Brief — "The Turn on Biden Begins", URL: https://badlands.substack.com/p/badlands-news-brief-11c
-29. Badlands Brief — "Badlands News Brief: A Splintered Establishment & Tension Tightropes", URL: https://badlands.substack.com/p/badlands-news-brief-116
-30. Badlands Brief — "Badlands News Brief: Fake Polls Abound as the Sovereign Alliance Makes Moves", URL: https://badlands.substack.com/p/badlands-news-brief-125
-31. Badlands Brief — "J6 Returns to Headlines as Fear Mars AI and Airplanes", URL: https://badlands.substack.com/p/badlands-news-brief-120
-32. Badlands Brief — "Fake News Attempts to Provoke Real Wars", URL: https://badlands.substack.com/p/badlands-news-brief-13f
-33. Badlands Brief — "Badlands News Brief: Dueling Presidents, Establishment Secrets & Info Wars", URL: https://badlands.substack.com/p/badlands-news-brief-12a
-34. Badlands News Brief — "Drones, Speeches ... and a Swiss Bank", URL: https://badlands.substack.com/p/badlands-news-brief-138
-35. Badlands Brief — "Badlands News Brief: FOX Fights, Trump Trolls & Twitter Turns?", URL: https://badlands.substack.com/p/badlands-news-brief-148
-36. Badlands News Brief — "Battle Lines Drawn in All Theaters", URL: https://badlands.substack.com/p/badlands-news-brief-169
-37. Badlands Brief — "Trump Transforms as Biden Goes Into Hiding", URL: https://badlands.substack.com/p/badlands-news-brief-19b
-38. Badlands Media — "Badlands News Brief: Irregular Warfare, Washington & So Much Winning", URL: https://badlands.substack.com/p/badlands-news-brief-18e
-39. Badlands Brief — "Badlands News Brief: International Antifa, Hezbollah Strongholds, & Nuclear Options", URL: https://badlands.substack.com/p/badlands-news-brief-1c3
-40. Badlands Media — "Badlands News Brief: A Potato is Threatened with Impeachment & Other Stories ...", URL: https://badlands.substack.com/p/badlands-news-brief-1e2
-41. Badlands Brief — "Badlands News Brief: Epstein Angst, Autopen Privilege, & Migrant Cash Cards", URL: https://badlands.substack.com/p/badlands-news-brief-1a7
-42. Badlands News Brief — "Terror at Home and Abroad ...", URL: https://badlands.substack.com/p/badlands-news-brief-1d1
-43. Badlands Brief — "Badlands News Brief: Trump Indicted ... Again, and Other Stories!", URL: https://badlands.substack.com/p/badlands-news-brief-1cc
-44. Badlands Brief — "Badlands News Brief: Narrative Shielding & Biden Bait", URL: https://badlands.substack.com/p/badlands-news-brief-204
-45. Badlands Brief — "Badlands News Brief: Weaponized Governments and Embattled Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-214
-46. Badlands Brief — "Badlands News Brief: City States, Sabotage, & Soliloquies On Sanctions", URL: https://badlands.substack.com/p/badlands-news-brief-25f
-47. Badlands Brief — "Badlands News Brief: Russia Collusion is Back ... Unlike Biden's Memories", URL: https://badlands.substack.com/p/badlands-news-brief-26c
-48. Badlands Brief — "Badlands News Brief: Fake Candidates, Plea Deals & War Drums", URL: https://badlands.substack.com/p/badlands-news-brief-264
-49. Badlands News Brief — "The Week of Rage Continues ... Biden to the Rescue?", URL: https://badlands.substack.com/p/badlands-news-brief-28e
-50. Badlands News Brief — "Shutdown Looms as Game Theory Plays Out", URL: https://badlands.substack.com/p/badlands-news-brief-24e
-51. Badlands Brief — "Badlands News Brief: New Gotham City, Iranian Mysteries & Wars Galore", URL: https://badlands.substack.com/p/badlands-news-brief-2ad
-52. Badlands News Brief — "Trump Counters, Musk Sues & Biden Lies", URL: https://badlands.substack.com/p/badlands-news-brief-2db
-53. Badlands Brief — "Badlands News Brief: Biden Bills, African Coups & Optics", URL: https://badlands.substack.com/p/badlands-news-brief-2d2
-54. Badlands Brief — "Badlands News Brief: The Presser Heard Round' the World", URL: https://badlands.substack.com/p/badlands-news-brief-33b
-55. Badlands News Brief — "Mid-Transition “QAnon” Claims & A Not Quite Final Farewell", URL: https://badlands.substack.com/p/badlands-news-brief-351
-56. Badlands News Brief — "The Free Market of Ideas Condemns the Regime", raw/badlands-news-brief-363.md
-57. Badlands Brief — "Badlands News Brief: Debates Set, Funding Found & NGO's Defied", URL: https://badlands.substack.com/p/badlands-news-brief-384
-58. Badlands News Brief — "Mutations, Laptops & Chinese Balloons", URL: https://badlands.substack.com/p/badlands-news-brief-3ae
-59. Badlands Brief — "Badlands News Brief: The DOJ's Hypocrisy, Zelensky's Failure and DeSantis' Decline", URL: https://badlands.substack.com/p/badlands-news-brief-3f0
-60. Badlands Brief — "Badlands News Brief: Gheyliens, Ukrainian Nazis & Post Office Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-423
-61. Badlands Brief — "POTUS' 'Reverse Kissinger' & Pete's Pentagon Purge", URL: https://badlands.substack.com/p/badlands-news-brief-433
-62. Badlands Brief — "Badlands News Brief: Change of Batter, Indeed …", URL: https://badlands.substack.com/p/badlands-news-brief-42e
-63. Badlands Brief — "The Old Guard Braces for Impact as Panic Spreads", URL: https://badlands.substack.com/p/badlands-news-brief-447
-64. Badlands Brief — "Badlands News Brief: Globalist Rage, Biden Docs & Hockey Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-46e
-65. Badlands Brief — "Badlands News Brief: Biden Does Ukraine, Vax Data & Veritas Shakeup", URL: https://badlands.substack.com/p/badlands-news-brief-4a6
-66. Badlands Brief — "Israel Goes Hot (or Not?) as the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-4b3
-67. Badlands Brief — "Badlands News Brief: The Shot Heard Around the World", URL: https://badlands.substack.com/p/badlands-news-brief-4b9
-68. Badlands Media — "Badlands News Brief: The Biden Crime Family Begins to Unravel ...", URL: https://badlands.substack.com/p/badlands-news-brief-505
-69. Badlands Brief — "Badlands News Brief: Fake Poles, HomOlympics & Deal-Making", URL: https://badlands.substack.com/p/badlands-news-brief-4c5
-70. Badlands News Brief - "A Presidential Border Bash and Russophobia End the News Week", URL: https://badlands.substack.com/p/badlands-news-brief-533
-71. Badlands Brief — "Polling Paradoxes, Hegelian Seeding & Putin's Gambit", URL: https://badlands.substack.com/p/badlands-news-brief-565
-72. Badlands Brief — "Trump Trifecta, COVID Concealment & Sorosian Slime", URL: https://badlands.substack.com/p/badlands-news-brief-5a7
-73.  Badlands Media — "Badlands News Brief: Biden Crime Cascade, Woke Collapse & Establishment Panic", URL: https://badlands.substack.com/p/badlands-news-brief-617
-74. Badlands News Brief — "Biden Melts Down as Judges Are Themselves Judged", URL: https://badlands.substack.com/p/badlands-news-brief-5fb
-75. Badlands Brief — "It Was the Trumpest of TIMEs ...", URL: https://badlands.substack.com/p/badlands-news-brief-61a
-76. Badlands Brief — "Russia, the MSM and El Salvador Call Out Joe Biden", URL: https://badlands.substack.com/p/badlands-news-brief-6b1
-77. Badlands Brief — "Trumpian Rug Pulls, Biden Whispers & NATO Panic", URL: https://badlands.substack.com/p/badlands-news-brief-6c4
-78. Badlands Brief — "Badlands News Brief: Trump Calls for Peace as the World Heads Toward War", URL: https://badlands.substack.com/p/badlands-news-brief-69b
-79. Badlands News Brief — "Biden Bumbles & Narrative Whiplash Abounds", URL: https://badlands.substack.com/p/badlands-news-brief-6f0
-80. Badlands Brief — "Biden Hemorrhages Already-Nonexistent Support", URL: https://badlands.substack.com/p/badlands-news-brief-6fc
-81. Badlands Brief — "J6 Exposure, Biden's Brain and Trump's Agenda", URL: https://badlands.substack.com/p/badlands-news-brief-644
-82. Badlands Brief — "A Not so Brief Full of Sovereign SIGNAL", URL: https://badlands.substack.com/p/badlands-news-brief-711
-83. Badlands Brief — "Badlands News Brief: Globalists Threaten Their Own as Bidenomics Reigns", URL: https://badlands.substack.com/p/badlands-news-brief-677
-84. Badlands Brief — "Musk the Peacemaker, Constitutional Overreach & POTATUS", URL: https://badlands.substack.com/p/badlands-news-brief-670
-85. Badlands Brief — "Dumb Questions, Pentagon Pizzas, & Zero Trust", URL: https://badlands.substack.com/p/badlands-news-brief-669
-86. Badlands Brief — "Badlands News Brief: Trump Returns to DC as Globalists Panic", URL: https://badlands.substack.com/p/badlands-news-brief-67e
-87. Badlands Brief — "Haley Sucks, Biden Dips & the CIA Does PR", URL: https://badlands.substack.com/p/badlands-news-brief-782
-88. Badlands Brief — "Badlands News Brief: Trump's Plan, Biden's Path & Israel's Dilemma", URL: https://badlands.substack.com/p/badlands-news-brief-786
-89. Badlands Brief — "Badlands News Brief: A Proxy President Manages His Proxy Wars", URL: https://badlands.substack.com/p/badlands-news-brief-7b1
-90. Badlands Brief — "The Wall Are Closing in Again! (And Other Stories)", URL: https://badlands.substack.com/p/badlands-news-brief-7ad
-91. Badlands Brief — "Badlands News Brief: Trump Defiant, Biden Protected & Woke Worn", URL: https://badlands.substack.com/p/badlands-news-brief-7a7
-92. Badlands News Brief — "The Bilateral Bromance & A Misled Grand Jury", URL: https://badlands.substack.com/p/badlands-news-brief-7bf
-93. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
-94. Badlands Brief — "Badlands News Brief: DemoCrabs in Biden's Bucket", URL: https://badlands.substack.com/p/badlands-news-brief-845
-95. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... But Not on Us", URL: https://badlands.substack.com/p/badlands-news-brief-881
-96. Badlands Media — "Badlands News Brief: Vance Takes the Stage as Biden Takes the Basement", URL: https://badlands.substack.com/p/badlands-news-brief-8ae
-97. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
-98. Badlands Brief — "Kamala on the Media Block as Putin Makes Moves", URL: https://badlands.substack.com/p/badlands-news-brief-942
-99. Badlands Brief — "Badlands News Brief — Fearmongering and Capitulation Rule the News Cycle", URL: https://badlands.substack.com/p/badlands-news-brief-959
-100. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
-101. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
-102. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
-103. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38
-104. Badlands Brief — "Badlands News Brief: Black Hat Nightmares & A Camelback Caravan of Confirmation", URL: https://badlands.substack.com/p/badlands-news-brief-a64
-105. Badlands Brief — "Badlands News Brief: The Simulation Gets Very ... Very Weird", URL: https://badlands.substack.com/p/badlands-news-brief-a9e
-106. Badlands Brief — "Badlands News Brief: Wins at Home and Deals Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-aac
-107. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
-108. Badlands Brief — "Storms both Real and Political Converge in October", URL: https://badlands.substack.com/p/badlands-news-brief-ac8
-109. Badlands Brief — "Badlands News Brief: The Garbage Man Cometh to Take out the Trash", URL: https://badlands.substack.com/p/badlands-news-brief-aed
-110. Badlands Brief — "Badlands News Brief: Globalists Panic as Populism Takes Over the Zeitgeist", URL: https://badlands.substack.com/p/badlands-news-brief-adc
-111. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f
-112. Badlands Brief — "Biden Says Stuff as Nazis Circle in Ukraine", URL: https://badlands.substack.com/p/badlands-news-brief-b39
-113. Badlands Brief — "Badlands News Brief: Trump's Tapes, Putin's Plan & Byrne's Bio", URL: https://badlands.substack.com/p/badlands-news-brief-b26
-114. Badlands Brief — "Badlands News Brief: Tucker Does Moscow as the News Cycle Goes Ballistic", URL: https://badlands.substack.com/p/badlands-news-brief-b9c
-115. Badlands Brief — "Badlands News Brief: Trump Roasts the Deep State While Kamala Hides", URL: https://badlands.substack.com/p/badlands-news-brief-b9e
-116. Badlands Brief — "BiBi Goes to DC, Wray Responds & Biden Concedes", URL: https://badlands.substack.com/p/badlands-news-brief-bcc
-117. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2
-118. Badlands Brief — "Badlands News Brief: Trump's Slings and Arrows ... Hunter's Threats", URL: https://badlands.substack.com/p/badlands-news-brief-ba4
-119. Badlands Brief — "Badlands News Brief: Obamas Resurface as the Establishment Hedges", URL: https://badlands.substack.com/p/badlands-news-brief-be1
-120. Badlands Brief — "Badlands News Brief: Proxy Presidents & Proxy Wars", URL: https://badlands.substack.com/p/badlands-news-brief-c07
-
 ## Reaction to the Prigozhin plane crash (2023)
 
 Biden was quick to point the finger at [[vladimir-putin|Vladimir Putin]] after the August 2023 crash that killed [[yevgeny-prigozhin|Yevgeny Prigozhin]], saying while on vacation that he was "not surprised" because "there's not much that happens in Russia that Putin's not behind."[137] Briefed soon after reports of the crash emerged, he nonetheless conceded, "I don't know enough to know the answer. I've been working out for the last hour and a half."[137] The Kremlin, through spokesman [[dmitry-peskov|Dmitry Peskov]], dismissed the allegation as an "absolute lie."[137] In the same period, former Ukrainian prosecutor [[viktor-shokin|Viktor Shokin]] told Fox News that it was his "firm personal conviction" that the Bidens had been bribed, asking whether Biden's withholding of $1 billion in U.S. loan guarantees in exchange for his firing was not itself corruption.[137]
@@ -1373,3 +1251,188 @@ In a January 2024 essay titled "The President That Never Was," [[ryan-delarme|Ry
 The essay centered on [[biden-valley-forge-speech|Biden's Valley Forge campaign address]] of early January 2024, in which the 81-year-old president cast himself and his party as the exclusive protectors of democracy and likened [[donald-trump|Donald Trump]] to [[adolf-hitler|Adolf Hitler]] and his supporters to Nazis.[178] DeLarme contended that the address omitted the economy and the Middle East entirely, praised the [[department-of-justice|Justice Department]]'s January 6 prosecutions before an approving crowd, and relied on dehumanizing rhetoric while the administration simultaneously sought to jail or disqualify its leading opponent and blocked Democratic primary challengers [[dean-phillips|Dean Phillips]] and [[marianne-williamson|Marianne Williamson]] from debates and ballots.[178] He further argued that a president whose administration had been found by four federal judges to have committed a grave First Amendment violation by using the [[central-intelligence-agency|CIA]], [[fbi|FBI]] and [[centers-for-disease-control-and-prevention|CDC]] to pressure Big Tech into censorship could not credibly present himself as democracy's savior, and that supporting the [[azov-battalion|Azov Battalion]] in Ukraine and Israel's Gaza campaign undercut his anti-Nazi framing.[178]
 
 178. Badlands Brief — "The President That Never Was", URL: https://badlands.substack.com/p/the-president-that-never-was
+
+## Economic messaging criticism (February 2023)
+
+Badlands contributor [[erik-carlson|Erik Carlson]] argued in February 2023 that Biden's claims of economic success were built on manipulated statistics.[179] After [[inflation|inflation]] ran at 9.1% year over year in the summer of 2022 and 8.5% the following month, Biden claimed he had eliminated inflation — which Carlson likened to a runaway train slowing from 91mph to 85mph.[179] Carlson maintained that the decline reflected a change in reporting: gasoline prices eased as Biden tapped the [[strategic-petroleum-reserve|strategic oil reserves]] Trump had built and drivers cut back, and fuel was then folded into the aggregated inflation figures after having been excluded while fuel prices rose.[179]
+
+Carlson also disputed the administration's labor-market claims, pointing to mass layoffs of highly paid corporate employees against reported record-low [[unemployment-statistics|unemployment]], and asked of Biden's assertion that the economy was doing great: "great for who?"[179] He predicted some Americans would lose jobs and homes because of the current administration's policies, while saying he remained optimistic about the country's longer-term future.[179]
+
+179. Badlands Brief — "The Stock Market Isn't the Economy", URL: https://badlands.substack.com/p/the-stock-market-isnt-the-economy
+
+## Transition Integrity Project scenarios
+
+The 2020 election war games run by the [[transition-integrity-project|Transition Integrity Project]] modelled four outcomes — a close Trump win, a Trump blowout, a close Biden win and a Biden blowout — and in every case portrayed Biden and his supporters as working within the law and remaining peaceful while Trump and his supporters subverted the legal system and turned violent.[180] In the Trump-loss branch the group expected [[mitt-romney|Mitt Romney]], backed by [[mitch-mcconnell|Mitch McConnell]], to persuade moderate Senate Republicans to recognise Biden as the legitimate president-elect, and concluded that after a chaotic transition Biden would begin uniting the country in early 2021.[180] In the Biden-loss branch the group predicted the Biden campaign would encourage California, Oregon and Washington to secede as [[cascadia-secession-scenario|Cascadia]].[180]
+
+Badlands Media contributor [[erik-carlson|Erik Carlson]] argues that almost everything TIP predicted Trump would do was in fact done by the Biden administration: weaponising the [[department-of-justice|Department of Justice]], enriching the Biden family through illegal foreign business dealings, turning peaceful protests violent by posing as the opposition, and suppressing free speech.[180] He also notes TIP's forecast that Trump's people would claim Biden had suffered a heart attack and was unfit to serve.[180]
+
+## Failure to end the Gaza war
+
+Badlands Media argued that [[joe-biden|Joe Biden]] possessed, but declined to use, the leverage needed to end the war in Gaza, since the absence of U.S. funds, arms and diplomatic protection would effectively neutralize Israel's ability to prosecute the campaign.[181] Corporate media and Democratic officials had mocked the notion, insisting there was "no special button in the Oval Office that could magically end the hostilities in Gaza."[181]
+
+According to the article, Biden's team, aware that much of the Democratic voter base was outraged by scenes from Gaza, staged toughness toward [[benjamin-netanyahu|Benjamin Netanyahu]] through vague statements and "red lines" that carried no consequences.[181] Biden warned Israel not to invade Rafah, where displaced Palestinians had been directed; Netanyahu laughed off the threat, went in anyway and leveled the area, and Biden responded with nothing — arms and funding continued to flow unimpeded.[181]
+
+Three former administration officials who resigned over the war — Josh Paul, Annelle Sheline and Tariq Habash — publicly said the January 2025 [[gaza-ceasefire|ceasefire]] had been available for months and that Biden simply never used his leverage.[181] The article concluded that Biden and the surrounding political establishment wished the conflict to persist.[181]
+
+## Attempt to claim credit for the ceasefire
+
+After flying to [[qatar|Qatar]] with [[kamala-harris|Kamala Harris]] and [[antony-blinken|Antony Blinken]], Biden sought to claim credit for the deal at a press conference, and his office issued a written statement to the same effect before he spoke.[181] Badlands Media called the claim audacious given that his administration had facilitated the war from start to finish while its decrees were ignored and ridiculed, and noted the statement could not be attributed to cognitive decline because Biden had not written it.[181] The article observed that international audiences were unpersuaded and openly furious with Biden and the Democrats.[181]
+
+## Cited actions preceding the October 2023 attack
+
+In "Women, Children ... and Terror," [[erik-carlson|Erik Carlson]] listed a series of Biden-era actions he refuses to treat as coincidence: that on September 11, 2023 Biden freed up $6 billion to [[iran|Iran]]; that he reportedly gave Palestine $360 million in 2021; and that he allowed the [[taliban]] to take $83 billion in US military equipment.[186] Carlson argued that these facts, arriving alongside the [[hamas|Hamas]] attack on [[israel|Israel]], were forcing previously unaware Americans to connect dots.[186] He also invoked the claim that Biden was voted in with 81 million votes as a rhetorical counter to the argument that Palestinians who elected Hamas deserve collective punishment.[186]
+
+## References
+1. Badlands Brief — "A Journey of Ever-changing Truths", URL: https://badlands.substack.com/p/a-journey-of-ever-changing-truths
+2. Badlands Brief — "A Time to Strike", URL: https://badlands.substack.com/p/a-time-to-strike
+3. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
+4. Badlands Brief — "And Iran, Iran So Far Away", URL: https://badlands.substack.com/p/and-iran-iran-so-far-away
+5. Badlands Brief — "Are We Being Distracted?", URL: https://badlands.substack.com/p/are-we-being-distracted
+6. Badlands Brief — "Assad Day in Damascus", URL: https://badlands.substack.com/p/assad-day-in-damascus
+7. Badlands Brief — "DC Exposes Itself as the Middle East Gets Gloriously Strange", URL: https://badlands.substack.com/p/badlands-brief-1ae
+8. Badlands Brief — "Entertaining Obstruction & Artificial Shadow Wars", URL: https://badlands.substack.com/p/badlands-brief-7bf
+9. Badlands Brief — "Trump Rugs the Deltas with an Early MOU", URL: https://badlands.substack.com/p/badlands-brief-c91
+10. Badlands Brief — "Badlands News Brief: Tracking Resignations, Scare Events & the Death of Taxes", URL: https://badlands.substack.com/p/badlands-news-brief-017
+11. Badlands News Brief — "Lake Lasts, Biden Slumps & Powell Blinks", URL: https://badlands.substack.com/p/badlands-news-brief-050
+12. Badlands Brief — "Badlands News Brief: Pedo Islands, Polling Panic & Cage Fights", URL: https://badlands.substack.com/p/badlands-news-brief-024
+13. Badlands Brief — "Badlands News Brief: Sudan Spirals, Epstein Entraps & Banks Bail", URL: https://badlands.substack.com/p/badlands-news-brief-070
+14. Badlands News Brief — "Durham's Dance, Putin's Warning and Xi's Rebuke", URL: https://badlands.substack.com/p/badlands-news-brief-01d
+15. Badlands Brief — "Real Leaks & Fake News", URL: https://badlands.substack.com/p/badlands-news-brief-08c
+16. Badlands Brief — "Tucker, Fauci, Biden & Biology", URL: https://badlands.substack.com/p/badlands-news-brief-082
+17. Badlands Brief — "Badlands News Brief: Trans Easter Bait & A Tale of Two Presidents", URL: https://badlands.substack.com/p/badlands-news-brief-092
+18. Badlands Brief — "Badlands News Brief: Hot Wars Wind Down. Trade & Meme Wars Heat Up.", URL: https://badlands.substack.com/p/badlands-news-brief-071
+19. Badlands News Brief — "MAGA Gets Branded as Biden Bungles Everything", URL: https://badlands.substack.com/p/badlands-news-brief-07e
+20. Badlands Brief — "Badlands News Brief: Democrats in Disarray as Globalists Bend the Knee", URL: https://badlands.substack.com/p/badlands-news-brief-099
+21. Badlands Brief — "Preemptive Pardons, Syrian Sanctions, & Preparations for Putin", URL: https://badlands.substack.com/p/badlands-news-brief-09e
+22. Badlands Brief — "Badlands News Brief: Draft Dodgers, Peacemakers & Warmongers Galore!", URL: https://badlands.substack.com/p/badlands-news-brief-0db
+23. Badlands Media — "Badlands News Brief: Biden Bungles Rafah as Trump Trials Collapse", URL: https://badlands.substack.com/p/badlands-news-brief-0c1
+24. Badlands Brief — "Lawsuits Can Be Very Effective ...", URL: https://badlands.substack.com/p/badlands-news-brief-051
+25. Badlands Brief — "Badlands News Brief: Escalation ... Acceleration ... and Biden", URL: https://badlands.substack.com/p/badlands-news-brief-0f0
+26. Badlands News Brief — "The Walz Cycle Consumes Itself as Tensions Pause", URL: https://badlands.substack.com/p/badlands-news-brief-0ad
+27. Badlands Brief — "Problems Litter the Game Board; But Solutions Are Coming ...", URL: https://badlands.substack.com/p/badlands-news-brief-10a
+28. Badlands Brief — "The Turn on Biden Begins", URL: https://badlands.substack.com/p/badlands-news-brief-11c
+29. Badlands Brief — "Badlands News Brief: A Splintered Establishment & Tension Tightropes", URL: https://badlands.substack.com/p/badlands-news-brief-116
+30. Badlands Brief — "Badlands News Brief: Fake Polls Abound as the Sovereign Alliance Makes Moves", URL: https://badlands.substack.com/p/badlands-news-brief-125
+31. Badlands Brief — "J6 Returns to Headlines as Fear Mars AI and Airplanes", URL: https://badlands.substack.com/p/badlands-news-brief-120
+32. Badlands Brief — "Fake News Attempts to Provoke Real Wars", URL: https://badlands.substack.com/p/badlands-news-brief-13f
+33. Badlands Brief — "Badlands News Brief: Dueling Presidents, Establishment Secrets & Info Wars", URL: https://badlands.substack.com/p/badlands-news-brief-12a
+34. Badlands News Brief — "Drones, Speeches ... and a Swiss Bank", URL: https://badlands.substack.com/p/badlands-news-brief-138
+35. Badlands Brief — "Badlands News Brief: FOX Fights, Trump Trolls & Twitter Turns?", URL: https://badlands.substack.com/p/badlands-news-brief-148
+36. Badlands News Brief — "Battle Lines Drawn in All Theaters", URL: https://badlands.substack.com/p/badlands-news-brief-169
+37. Badlands Brief — "Trump Transforms as Biden Goes Into Hiding", URL: https://badlands.substack.com/p/badlands-news-brief-19b
+38. Badlands Media — "Badlands News Brief: Irregular Warfare, Washington & So Much Winning", URL: https://badlands.substack.com/p/badlands-news-brief-18e
+39. Badlands Brief — "Badlands News Brief: International Antifa, Hezbollah Strongholds, & Nuclear Options", URL: https://badlands.substack.com/p/badlands-news-brief-1c3
+40. Badlands Media — "Badlands News Brief: A Potato is Threatened with Impeachment & Other Stories ...", URL: https://badlands.substack.com/p/badlands-news-brief-1e2
+41. Badlands Brief — "Badlands News Brief: Epstein Angst, Autopen Privilege, & Migrant Cash Cards", URL: https://badlands.substack.com/p/badlands-news-brief-1a7
+42. Badlands News Brief — "Terror at Home and Abroad ...", URL: https://badlands.substack.com/p/badlands-news-brief-1d1
+43. Badlands Brief — "Badlands News Brief: Trump Indicted ... Again, and Other Stories!", URL: https://badlands.substack.com/p/badlands-news-brief-1cc
+44. Badlands Brief — "Badlands News Brief: Narrative Shielding & Biden Bait", URL: https://badlands.substack.com/p/badlands-news-brief-204
+45. Badlands Brief — "Badlands News Brief: Weaponized Governments and Embattled Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-214
+46. Badlands Brief — "Badlands News Brief: City States, Sabotage, & Soliloquies On Sanctions", URL: https://badlands.substack.com/p/badlands-news-brief-25f
+47. Badlands Brief — "Badlands News Brief: Russia Collusion is Back ... Unlike Biden's Memories", URL: https://badlands.substack.com/p/badlands-news-brief-26c
+48. Badlands Brief — "Badlands News Brief: Fake Candidates, Plea Deals & War Drums", URL: https://badlands.substack.com/p/badlands-news-brief-264
+49. Badlands News Brief — "The Week of Rage Continues ... Biden to the Rescue?", URL: https://badlands.substack.com/p/badlands-news-brief-28e
+50. Badlands News Brief — "Shutdown Looms as Game Theory Plays Out", URL: https://badlands.substack.com/p/badlands-news-brief-24e
+51. Badlands Brief — "Badlands News Brief: New Gotham City, Iranian Mysteries & Wars Galore", URL: https://badlands.substack.com/p/badlands-news-brief-2ad
+52. Badlands News Brief — "Trump Counters, Musk Sues & Biden Lies", URL: https://badlands.substack.com/p/badlands-news-brief-2db
+53. Badlands Brief — "Badlands News Brief: Biden Bills, African Coups & Optics", URL: https://badlands.substack.com/p/badlands-news-brief-2d2
+54. Badlands Brief — "Badlands News Brief: The Presser Heard Round' the World", URL: https://badlands.substack.com/p/badlands-news-brief-33b
+55. Badlands News Brief — "Mid-Transition “QAnon” Claims & A Not Quite Final Farewell", URL: https://badlands.substack.com/p/badlands-news-brief-351
+56. Badlands News Brief — "The Free Market of Ideas Condemns the Regime", raw/badlands-news-brief-363.md
+57. Badlands Brief — "Badlands News Brief: Debates Set, Funding Found & NGO's Defied", URL: https://badlands.substack.com/p/badlands-news-brief-384
+58. Badlands News Brief — "Mutations, Laptops & Chinese Balloons", URL: https://badlands.substack.com/p/badlands-news-brief-3ae
+59. Badlands Brief — "Badlands News Brief: The DOJ's Hypocrisy, Zelensky's Failure and DeSantis' Decline", URL: https://badlands.substack.com/p/badlands-news-brief-3f0
+60. Badlands Brief — "Badlands News Brief: Gheyliens, Ukrainian Nazis & Post Office Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-423
+61. Badlands Brief — "POTUS' 'Reverse Kissinger' & Pete's Pentagon Purge", URL: https://badlands.substack.com/p/badlands-news-brief-433
+62. Badlands Brief — "Badlands News Brief: Change of Batter, Indeed …", URL: https://badlands.substack.com/p/badlands-news-brief-42e
+63. Badlands Brief — "The Old Guard Braces for Impact as Panic Spreads", URL: https://badlands.substack.com/p/badlands-news-brief-447
+64. Badlands Brief — "Badlands News Brief: Globalist Rage, Biden Docs & Hockey Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-46e
+65. Badlands Brief — "Badlands News Brief: Biden Does Ukraine, Vax Data & Veritas Shakeup", URL: https://badlands.substack.com/p/badlands-news-brief-4a6
+66. Badlands Brief — "Israel Goes Hot (or Not?) as the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-4b3
+67. Badlands Brief — "Badlands News Brief: The Shot Heard Around the World", URL: https://badlands.substack.com/p/badlands-news-brief-4b9
+68. Badlands Media — "Badlands News Brief: The Biden Crime Family Begins to Unravel ...", URL: https://badlands.substack.com/p/badlands-news-brief-505
+69. Badlands Brief — "Badlands News Brief: Fake Poles, HomOlympics & Deal-Making", URL: https://badlands.substack.com/p/badlands-news-brief-4c5
+70. Badlands News Brief - "A Presidential Border Bash and Russophobia End the News Week", URL: https://badlands.substack.com/p/badlands-news-brief-533
+71. Badlands Brief — "Polling Paradoxes, Hegelian Seeding & Putin's Gambit", URL: https://badlands.substack.com/p/badlands-news-brief-565
+72. Badlands Brief — "Trump Trifecta, COVID Concealment & Sorosian Slime", URL: https://badlands.substack.com/p/badlands-news-brief-5a7
+73.  Badlands Media — "Badlands News Brief: Biden Crime Cascade, Woke Collapse & Establishment Panic", URL: https://badlands.substack.com/p/badlands-news-brief-617
+74. Badlands News Brief — "Biden Melts Down as Judges Are Themselves Judged", URL: https://badlands.substack.com/p/badlands-news-brief-5fb
+75. Badlands Brief — "It Was the Trumpest of TIMEs ...", URL: https://badlands.substack.com/p/badlands-news-brief-61a
+76. Badlands Brief — "Russia, the MSM and El Salvador Call Out Joe Biden", URL: https://badlands.substack.com/p/badlands-news-brief-6b1
+77. Badlands Brief — "Trumpian Rug Pulls, Biden Whispers & NATO Panic", URL: https://badlands.substack.com/p/badlands-news-brief-6c4
+78. Badlands Brief — "Badlands News Brief: Trump Calls for Peace as the World Heads Toward War", URL: https://badlands.substack.com/p/badlands-news-brief-69b
+79. Badlands News Brief — "Biden Bumbles & Narrative Whiplash Abounds", URL: https://badlands.substack.com/p/badlands-news-brief-6f0
+80. Badlands Brief — "Biden Hemorrhages Already-Nonexistent Support", URL: https://badlands.substack.com/p/badlands-news-brief-6fc
+81. Badlands Brief — "J6 Exposure, Biden's Brain and Trump's Agenda", URL: https://badlands.substack.com/p/badlands-news-brief-644
+82. Badlands Brief — "A Not so Brief Full of Sovereign SIGNAL", URL: https://badlands.substack.com/p/badlands-news-brief-711
+83. Badlands Brief — "Badlands News Brief: Globalists Threaten Their Own as Bidenomics Reigns", URL: https://badlands.substack.com/p/badlands-news-brief-677
+84. Badlands Brief — "Musk the Peacemaker, Constitutional Overreach & POTATUS", URL: https://badlands.substack.com/p/badlands-news-brief-670
+85. Badlands Brief — "Dumb Questions, Pentagon Pizzas, & Zero Trust", URL: https://badlands.substack.com/p/badlands-news-brief-669
+86. Badlands Brief — "Badlands News Brief: Trump Returns to DC as Globalists Panic", URL: https://badlands.substack.com/p/badlands-news-brief-67e
+87. Badlands Brief — "Haley Sucks, Biden Dips & the CIA Does PR", URL: https://badlands.substack.com/p/badlands-news-brief-782
+88. Badlands Brief — "Badlands News Brief: Trump's Plan, Biden's Path & Israel's Dilemma", URL: https://badlands.substack.com/p/badlands-news-brief-786
+89. Badlands Brief — "Badlands News Brief: A Proxy President Manages His Proxy Wars", URL: https://badlands.substack.com/p/badlands-news-brief-7b1
+90. Badlands Brief — "The Wall Are Closing in Again! (And Other Stories)", URL: https://badlands.substack.com/p/badlands-news-brief-7ad
+91. Badlands Brief — "Badlands News Brief: Trump Defiant, Biden Protected & Woke Worn", URL: https://badlands.substack.com/p/badlands-news-brief-7a7
+92. Badlands News Brief — "The Bilateral Bromance & A Misled Grand Jury", URL: https://badlands.substack.com/p/badlands-news-brief-7bf
+93. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
+94. Badlands Brief — "Badlands News Brief: DemoCrabs in Biden's Bucket", URL: https://badlands.substack.com/p/badlands-news-brief-845
+95. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... But Not on Us", URL: https://badlands.substack.com/p/badlands-news-brief-881
+96. Badlands Media — "Badlands News Brief: Vance Takes the Stage as Biden Takes the Basement", URL: https://badlands.substack.com/p/badlands-news-brief-8ae
+97. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
+98. Badlands Brief — "Kamala on the Media Block as Putin Makes Moves", URL: https://badlands.substack.com/p/badlands-news-brief-942
+99. Badlands Brief — "Badlands News Brief — Fearmongering and Capitulation Rule the News Cycle", URL: https://badlands.substack.com/p/badlands-news-brief-959
+100. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
+101. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
+102. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
+103. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38
+104. Badlands Brief — "Badlands News Brief: Black Hat Nightmares & A Camelback Caravan of Confirmation", URL: https://badlands.substack.com/p/badlands-news-brief-a64
+105. Badlands Brief — "Badlands News Brief: The Simulation Gets Very ... Very Weird", URL: https://badlands.substack.com/p/badlands-news-brief-a9e
+106. Badlands Brief — "Badlands News Brief: Wins at Home and Deals Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-aac
+107. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
+108. Badlands Brief — "Storms both Real and Political Converge in October", URL: https://badlands.substack.com/p/badlands-news-brief-ac8
+109. Badlands Brief — "Badlands News Brief: The Garbage Man Cometh to Take out the Trash", URL: https://badlands.substack.com/p/badlands-news-brief-aed
+110. Badlands Brief — "Badlands News Brief: Globalists Panic as Populism Takes Over the Zeitgeist", URL: https://badlands.substack.com/p/badlands-news-brief-adc
+111. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f
+112. Badlands Brief — "Biden Says Stuff as Nazis Circle in Ukraine", URL: https://badlands.substack.com/p/badlands-news-brief-b39
+113. Badlands Brief — "Badlands News Brief: Trump's Tapes, Putin's Plan & Byrne's Bio", URL: https://badlands.substack.com/p/badlands-news-brief-b26
+114. Badlands Brief — "Badlands News Brief: Tucker Does Moscow as the News Cycle Goes Ballistic", URL: https://badlands.substack.com/p/badlands-news-brief-b9c
+115. Badlands Brief — "Badlands News Brief: Trump Roasts the Deep State While Kamala Hides", URL: https://badlands.substack.com/p/badlands-news-brief-b9e
+116. Badlands Brief — "BiBi Goes to DC, Wray Responds & Biden Concedes", URL: https://badlands.substack.com/p/badlands-news-brief-bcc
+117. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2
+118. Badlands Brief — "Badlands News Brief: Trump's Slings and Arrows ... Hunter's Threats", URL: https://badlands.substack.com/p/badlands-news-brief-ba4
+119. Badlands Brief — "Badlands News Brief: Obamas Resurface as the Establishment Hedges", URL: https://badlands.substack.com/p/badlands-news-brief-be1
+120. Badlands Brief — "Badlands News Brief: Proxy Presidents & Proxy Wars", URL: https://badlands.substack.com/p/badlands-news-brief-c07
+
+180. Badlands Brief — "The Transition Integrity Project", URL: https://badlands.substack.com/p/the-transition-integrity-project
+181. Badlands Brief — "Trump Secures Uneasy Peace in Gaza", URL: https://badlands.substack.com/p/trump-secures-uneasy-peace-in-gaza
+182. Badlands Brief — "Tucker, Twitter, and the Truth Community", URL: https://badlands.substack.com/p/tucker-twitter-and-the-truth-community
+
+## The "son of a bitch" quote and Archer's testimony (2023)
+
+At a 2018 [[council-on-foreign-relations|Council on Foreign Relations]] event, Biden recounted telling Ukrainian officials, "I said, 'You're not getting the billion.' I'm going to be leaving here in, I think it was about six hours. I looked at them and said: 'I'm leaving in six hours. If the prosecutor is not fired, you're not getting the money.' Well, son of a bitch, he got fired."[182] The prosecutor was [[viktor-shokin|Viktor Shokin]], who was investigating [[burisma|Burisma]].[182] In an August 2023 [[tucker-on-twitter|Tucker on Twitter]] interview, [[devon-archer|Devon Archer]] said Burisma had been pressuring the Bidens to have Shokin fired, contradicting the position — maintained by the Biden camp and mainstream media — that the removal was a strategic US foreign policy decision unrelated to [[hunter-biden|Hunter Biden]]'s $83,000-per-month position with the Ukrainian gas company.[182] [[ashe-in-america|Ashe in America]] also noted in the same essay that Harvard CAPS/Harris polling still showed Biden defeating [[robert-f-kennedy-jr|Robert F. Kennedy, Jr.]] in a straight Democratic primary.[182]
+
+## Water Island property and Epstein-proximity speculation (January 2024)
+
+A January 2024 Badlands feature by [[erik-carlson|Erik Carlson]], drawing on a 2020 [[politico|Politico]] report, examined Biden's connection to a Virgin Islands land deal in which his brother [[james-biden|James Biden]] bought an acre on [[water-island|Water Island]] in 2005 and sold a parcel the next year to lobbyist [[scott-green|Scott Green]], who then extended James Biden a private mortgage.[183] Green had worked for Biden on the [[senate-judiciary-committee|Senate Judiciary Committee]] in the early 1980s before co-founding the [[lafayette-group|Lafayette Group]], which won more than $10 million in contracts tied to FirstNet, a program Biden championed, and whose specialties — interoperable communications and fusion centers — matched appropriations Biden proposed as a senator.[183] Another Green client, the D.A.R.E. program, benefited from Biden's inclusion of it in the [[crime-bill-1994|1994 Crime Bill]].[183]
+
+Politico reported that after the land deal Biden vacationed elsewhere on Water Island on at least three occasions, that he and his family traveled there over the winter holidays between election night 2008 and Barack Obama's inauguration and for the two following holiday seasons as vice president, and that the family later shifted its annual Virgin Islands vacations to St. Croix for logistical reasons involving Secret Service travel.[183] Carlson noted that St. Croix is still about 40 miles from [[little-st-james|Little St. James]] — a 15 to 20 minute helicopter flight — and argued that regular vacations in the area during the years [[jeffrey-epstein|Jeffrey Epstein]]'s operation was in full swing would provide convenient cover, including a way to avoid appearing on the [[lolita-express|Lolita Express]] flight logs.[183]
+
+Carlson explicitly labeled the argument speculation, stating he has no proof that Joe Biden or any Biden ever set foot on an Epstein property, while noting that Biden has been branded a "child-sniffer" in mainstream coverage and subjected to rumors arising from the [[ashley-biden|Ashley Biden]] diary scandal.[183]
+
+183. Badlands Brief — "Who's the U-Boat Commander?", URL: https://badlands.substack.com/p/whos-the-u-boat-commander
+
+## Badlands commentary on the July 2024 Netanyahu meeting
+
+Biden's July 2024 meeting with [[benjamin-netanyahu|Benjamin Netanyahu]] went smoothly and the two were all smiles before the media, despite relations between them having been widely reported as rocky in preceding months over the handling of the Gaza war; a senior Israeli official later described the Biden sit-down as "positive" in contrast with Netanyahu's meeting with [[kamala-harris|Kamala Harris]].[183]
+
+Badlands contributor [[erik-carlson|Erik Carlson]] read the cordiality as a sign of Biden's irrelevance, writing that Biden "has been removed from the game board" and was probably just glad of a visitor at "the assisted living facility we call the White House."[183] Extending a metaphor in which politicians resemble NASCAR cars carrying one dominant sponsor decal, Carlson argued that Biden's largest sponsor is the Chinese Deep State, which would explain the lack of tension in a conversation about a Middle Eastern conflict that does not much involve that sponsor.[183] He also contended that [[donald-trump|Trump]] had benefited from jettisoning Biden from the presidential race, forcing the [[deep-state|Deep State]] to substitute Harris.[183]
+
+183. Badlands Brief — "Who Controls Whom?", URL: https://badlands.substack.com/p/who-controls-whom
+
+## In Lange's counterinsurgency account (December 2022)
+
+In "What's Taking So Long?" (December 28, 2022), [[joe-lange|Joe Lange]] argued that [[donald-trump|Donald Trump]] set up [[devolution|Devolution]] and [[continuity-of-government|continuity of government]] shortly before leaving office so that his plan would continue under Biden, and that Trump had deliberately walked away and allowed the 2020 election to be taken as part of that strategy.[184] Lange contrasted the two administrations on leadership, the economy and energy prices, describing the Biden period as one of inflation and recession, and referred to the Biden administration as an illegitimate government whose election he expected the [[supreme-court-of-the-united-states|Supreme Court]] eventually to throw out.[184]
+
+184. Badlands Brief — "What's Taking So Long?", URL: https://badlands.substack.com/p/whats-taking-so-long
+186. Badlands Brief — "Women, Children ... and Terror", URL: https://badlands.substack.com/p/women-children-and-terror

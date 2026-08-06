@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, democrats, washington, progressive-caucus]
-sources: [raw/badlands-news-brief-31b.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-df8.md]
+sources: [raw/badlands-news-brief-31b.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-df8.md, raw/the-real-fight-begins.md]
 confidence: medium
 ---
 
@@ -31,3 +31,9 @@ Jayapal said in a statement that as the CBP Office of Professional Responsibilit
 During a five-hour [[house-judiciary-committee|House Judiciary Committee]] hearing on March 12, 2024, Jayapal — described as the influential chairwoman of the Congressional Progressive Caucus — was corrected by former special counsel [[robert-hur|Robert Hur]] when he stated, "I did not exonerate him and that word does not appear in the report," referring to his findings on President [[joe-biden|Joe Biden]]'s handling of classified documents.[3] Jayapal spoke over Hur as he made the correction and then cut him off, saying, "Mr. Hur, it's my time. Thank you."[3]
 
 3. Badlands Brief — "Badlands News Brief: Hur Provokes Reactions as the Trump-Musk Pincer Continues", URL: https://badlands.substack.com/p/badlands-news-brief-df8
+
+## Alignment with the post-2024 progressive coalition
+
+Jayapal was named by organizers as the Democratic member of Congress aligned with the coalition of more than 100 progressive groups that convened after the November 2024 election to oppose a second [[donald-trump|Trump]] term.[4] Sponsor organizations included the [[working-families-party|Working Families Party]], [[moveon-org|MoveOn]], the [[indivisible|Indivisible Project]], [[public-citizen|Public Citizen]] and the [[american-civil-liberties-union|American Civil Liberties Union]], and the coalition scheduled eight roughly weekly "Mass Calls" from 8 to 9 p.m. EST beginning November 7, 2024.[4] See [[resistance-2-0|Resistance 2.0]].
+
+4. Badlands Brief — "The Real Fight Begins", URL: https://badlands.substack.com/p/the-real-fight-begins

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [neoconservative, nato, ukraine, state-department]
-sources: [raw/a-bright-red-line.md, raw/a-dereliction-of-duty.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-7db.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-db1.md, raw/deep-state-spotlight-victoria-nuland.md, raw/oligarchism-and-the-great-game.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-end-of-history-delusion.md]
+sources: [raw/a-bright-red-line.md, raw/a-dereliction-of-duty.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-7db.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-db1.md, raw/deep-state-spotlight-victoria-nuland.md, raw/oligarchism-and-the-great-game.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-end-of-history-delusion.md, raw/war-pigs-21c.md, raw/tucker-twitter-and-the-truth-community.md]
 confidence: medium
 ---
 
@@ -102,3 +102,16 @@ Carlson treated the timing as part of a wider pattern in which the agency and it
 
 12. Badlands Brief — "The CIA is Being Thrown Under the Bus", URL: https://badlands.substack.com/p/the-cia-is-being-thrown-under-the
 13. Badlands Brief — "The End of History Delusion", URL: https://badlands.substack.com/p/the-end-of-history-delusion
+
+## Continuity across administrations
+
+In the January 2024 Badlands essay "War Pigs," [[ryan-delarme|Ryan DeLarme]] offers Nuland's career as the clearest single proof that the [[neoconservatives|neoconservative]] network and the Democratic establishment never truly parted ways.[14] He notes that she was one of [[dick-cheney|Dick Cheney]]'s foremost foreign policy advisers during the Bush administration, that she is married to the influential neoconservative [[robert-kagan|Robert Kagan]], and that she transitioned without difficulty from the Bush White House to [[barack-obama|Barack Obama]]'s [[state-department|State Department]], then to the [[hillary-clinton|Clinton]] campaign as its chief foreign policy adviser, and finally to the number-two position in [[joe-biden|Joe Biden]]'s State Department.[14]
+
+DeLarme also places her among the figures escalating tensions with Russia during the Obama years, arguing that a confrontation with Moscow had been in preparation for a long time and would never have materialized had the neoconservatives actually been reined in.[14] In his telling, that groundwork made [[vladimir-putin|Vladimir Putin]] the West's designated new villain and set the stage for the [[russiagate-hoax|Russia-collusion hoax]] against [[donald-trump|Donald Trump]].[14]
+
+14. Badlands Brief — "War Pigs", URL: https://badlands.substack.com/p/war-pigs-21c
+15. Badlands Brief — "Tucker, Twitter, and the Truth Community", URL: https://badlands.substack.com/p/tucker-twitter-and-the-truth-community
+
+## Criticism by Robert F. Kennedy, Jr. (2023)
+
+In his August 2023 [[tucker-on-twitter|Tucker on Twitter]] interview, [[robert-f-kennedy-jr|Robert F. Kennedy, Jr.]] was particularly hard on Nuland as he detailed the government lies he said had preceded nearly every modern war, from Iraq and weapons of mass destruction to Ukrainian biolabs.[15] [[ashe-in-america|Ashe in America]] described the interview as a masterclass in US foreign policy reaching back to the 1960s and as a demolition of the neocons who, in her framing, comprise the [[uniparty|uniparty]] establishment.[15]

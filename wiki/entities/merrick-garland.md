@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [doj, attorney-general, mar-a-lago, weaponization]
-sources: [raw/badlands-brief-2c5.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-59b.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-8d8.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-c9d.md, raw/badlands-news-brief-d32.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-d50.md, raw/badlands-news-brief-db1.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-f14.md, raw/badlands-news-brief-f46.md, raw/badlands-news-brief-f61.md, raw/badlands-news-brief-efd.md]
+sources: [raw/badlands-brief-2c5.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-59b.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-8d8.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-c9d.md, raw/badlands-news-brief-d32.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-d50.md, raw/badlands-news-brief-db1.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-f14.md, raw/badlands-news-brief-f46.md, raw/badlands-news-brief-f61.md, raw/badlands-news-brief-efd.md, raw/unveiling-the-mar-a-lago-raid-1-year.md]
 confidence: medium
 ---
 
@@ -163,3 +163,9 @@ On Friday, August 11, 2023, Garland appointed a special counsel in the [[hunter-
 
 25. Badlands Brief — "Badlands News Brief: Special Counsels, Island Fires & White Pills", URL: https://badlands.substack.com/p/badlands-news-brief-f61
 26. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd
+
+## Authorisation of the Mar-a-Lago search warrant
+
+As Attorney General, Garland authorised the search warrant executed by the [[fbi|FBI]] at [[donald-trump|Donald Trump]]'s [[mar-a-lago|Mar-a-Lago]] estate in [[palm-beach-florida|Palm Beach, Florida]] on August 8, 2022, a warrant subsequently approved by Magistrate Judge [[bruce-reinhart|Bruce Reinhart]].[27] Writing one year later, [[alpha-warrior|Alpha Warrior]] described the operation as following a referral from the [[national-archives-and-records-administration|National Archives and Records Administration]] that was "tinged with political maneuvering," and characterised Garland's authorisation as the opening move in what he regarded as a politically motivated assault on an opposing political leader.[27] The unsealed warrant covered suspected violations of the [[espionage-act|Espionage Act]], unauthorised retention of national defense information, concealment or destruction of records, and illegal removal of federal government records.[27]
+
+27. Badlands Brief — "Unveiling the Mar-a-Lago Raid – 1 Year Delta", URL: https://badlands.substack.com/p/unveiling-the-mar-a-lago-raid-1-year

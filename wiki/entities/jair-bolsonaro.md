@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [brazil, lawfare, elections, coup, judiciary]
-sources: [raw/badlands-news-brief-03a.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b65.md, raw/badlands-news-brief-f14.md, raw/brazil-breaking.md]
+sources: [raw/badlands-news-brief-03a.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b65.md, raw/badlands-news-brief-f14.md, raw/brazil-breaking.md, raw/the-war-of-stories.md]
 confidence: medium
 ---
 
@@ -57,3 +57,9 @@ Badlands Media's November 1, 2022 essay "Brazil Breaking" examined Bolsonaro's d
 In the same interview Bolsonaro described breaking with the practice by which presidents accepted top-down impositions from political parties in staffing their cabinets, saying he personally appointed his ministers, one third of them members of the military and another third civilian professionals keenly aware of their responsibilities.[6] The essay treated this pattern as linking Bolsonaro to [[donald-trump|Donald Trump]], [[vladimir-putin|Vladimir Putin]] and possibly [[xi-jinping|Xi Jinping]] as populist leaders installing mixed military-civilian leadership and, in at least two cases, publicly disputing contentious election results — evidence, perhaps, of an emerging [[sovereign-alliance|Sovereign Alliance]].[6] It also noted [[jon-herold|Jon Herold]]'s observation that Bolsonaro's alliance with the military on the eve of the election recalled draft executive orders prepared but never actioned by Trump, suggesting Brazil could serve as a legal and narrative template for later American operations.[6]
 
 6. Badlands Brief — "Brazil Breaking", URL: https://badlands.substack.com/p/brazil-breaking
+
+## Named in "The War of Stories" (December 2022)
+
+In "The War of Stories" (December 30, 2022), [[burning-bright|Burning Bright]] included Bolsonaro among the figures subjected to false [[media-industrial-complex|Media Industrial Complex]] [[narrative-deployment|Narrative Deployments]] because they do not fit the framework globalist interests seek to impose, grouping him with [[donald-trump|Donald Trump]], [[elon-musk|Elon Musk]], [[kari-lake|Kari Lake]], [[vladimir-putin|Vladimir Putin]] and [[viktor-orban|Viktor Orbán]].[7]
+
+7. Badlands Brief — "The War of Stories", URL: https://badlands.substack.com/p/the-war-of-stories

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [founding-documents, natural-rights, law, united-states]
-sources: [raw/a-startling-contradiction-at-the.md, raw/badlands-news-brief-7c5.md, raw/combating-the-transhumanist-religion.md, raw/do-we-have-a-contract-with-the-federal.md, raw/god-and-the-declaration-of-independence.md, raw/revolution-founded-at-the-crossroads.md, raw/the-illusion-of-democracy.md]
+sources: [raw/a-startling-contradiction-at-the.md, raw/badlands-news-brief-7c5.md, raw/combating-the-transhumanist-religion.md, raw/do-we-have-a-contract-with-the-federal.md, raw/god-and-the-declaration-of-independence.md, raw/revolution-founded-at-the-crossroads.md, raw/the-illusion-of-democracy.md, raw/the-werewolf-game-modern-day-cyber.md]
 confidence: medium
 ---
 
@@ -81,3 +81,9 @@ The essay "Revolution Founded at the Crossroads" reads [[donald-trump|Donald Tru
 The essay also argues that the founders' "certain unalienable rights" are given by God, that the American revolution was inspired by His Truth and His Word, and that "America wouldn't be America without Jesus" — placing the Declaration in continuity with the spiritual revolution the author describes.[6]
 
 6. Badlands Brief — "Revolution Founded at the Crossroads", URL: https://badlands.substack.com/p/revolution-founded-at-the-crossroads
+
+## Invoked against mass zombification
+
+Part 8 of [[the-werewolf-game|The Werewolf Game]] series invokes the Declaration in its closing argument against what its author calls mass [[zombification|zombification]], writing that the outcome dark occultists least want is for people to learn to discern things for themselves and then link up with others of like mind "to create new and better societies truly founded on the principles outlined in the Declaration of Independence."[8]
+
+8. Badlands Media — "The Werewolf Game - Modern Day Cyber-Necromancy", URL: https://badlands.substack.com/p/the-werewolf-game-modern-day-cyber

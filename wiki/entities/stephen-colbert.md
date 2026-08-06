@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, television, cbs, fcc, late-night]
-sources: [raw/badlands-brief-7c6.md]
+sources: [raw/badlands-brief-7c6.md, raw/the-werewolf-game-a-new-class-of.md]]
 confidence: medium
 ---
 
@@ -24,3 +24,9 @@ Writing in the [[badlands-brief|Badlands Brief]], [[ashe-in-america|Ashe in Amer
 
 ## References
 1. Badlands Brief — "The Democratization of Narrative Distribution. And a New War with Iran.", URL: https://badlands.substack.com/p/badlands-brief-7c6
+
+## The Werewolf Game series
+
+[[american-hypnotist|American Hypnotist]]'s [[the-werewolf-game|Werewolf Game]] series names Colbert, alongside [[bill-maher|Bill Maher]], as a television host whose visible horror at [[donald-trump|Donald Trump]]'s [[2016-united-states-presidential-election|2016 victory]] transmitted genuine fear to his audience.[2] The author treats such reactions as hypnotic suggestion by facial expression and as evidence that the [[deep-state|Deep State]] was caught off guard, arguing that the establishment would not have lost composure so completely over a merely minor threat.[2]
+
+2. Badlands Media — "The Werewolf Game - A New Class of Elites", URL: https://badlands.substack.com/p/the-werewolf-game-a-new-class-of

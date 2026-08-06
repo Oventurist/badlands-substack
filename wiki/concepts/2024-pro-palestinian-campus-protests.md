@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [protests, campus-activism, israel-hamas-war, free-speech]
-sources: [raw/badlands-news-brief-08a.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-f0e.md]
+sources: [raw/badlands-news-brief-08a.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-f0e.md, raw/the-post-secondary-psyop.md]
 confidence: medium
 ---
 
@@ -52,3 +52,12 @@ The writer attributed this to the implantation of what the filmmakers call the T
 
 
 3. Badlands Brief — "Badlands News Brief: Trump 2.0, FBI Enablers & Collegiate Idiots", URL: https://badlands.substack.com/p/badlands-news-brief-f0e
+4. Badlands Brief — "The Post Secondary PSYOP", URL: https://badlands.substack.com/p/the-post-secondary-psyop
+
+## Colour-revolution framing and the mind-control thesis
+
+Writing in May 2024, [[simon-esler|Simon Esler]] described the protests as verging on riots and terrorism, led by students captured by neo-Marxist philosophy applied to the "current thing" — the Israel-Palestine conflict — even as participants admitted they did not know why they were protesting.[4] He characterised the campuses being overrun as another [[color-revolution|colour-revolution]]-style event across the United States, noting pointedly that an election was approaching.[4]
+
+Esler cited a widely circulated video in which a student at a campus pro-Palestine protest openly admitted having no idea why she was there, saying she had received propaganda telling her to come to the university to support local students standing up for Palestine and knowing nothing about what [[new-york-university|New York University]] had done wrong, only that she had been called to attend and chant the correct slogans.[4] He offered this as a demonstration of mind control in its modern form, arguing that [[ideological-subversion|ideological subversion]] — slow, multi-generational conditioning of the kind described by [[yuri-bezmenov|Yuri Bezmenov]] — produces the same result as the overt programming associated with [[mk-ultra|MK Ultra]] survivor [[cathy-obrien|Cathy O'Brien]], without requiring trauma rituals or neurological technology.[4] On this reading the protesters' behaviours "are not entirely their own" but the output of a centralised system directing them.[4]
+
+He linked the protests to the wider penetration of the [[woke-mind-virus|Woke Mind Virus]] into academia documented at a Toronto screening of [[the-coddling-of-the-american-mind|The Coddling of the American Mind]] organised by the [[heterodox-academy|Heterodox Academy]], and argued that professors watching students march past them was itself an opportunity to build post-secondary institutions aware of and impervious to [[fifth-generation-warfare|fifth-generation warfare]].[4]

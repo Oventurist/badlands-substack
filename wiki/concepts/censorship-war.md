@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [censorship, free-speech, information-warfare, globalism, populism]
-sources: [raw/the-censorship-war-counteroffensive.md]
+sources: [raw/the-censorship-war-counteroffensive.md, raw/the-multinational-offensive-against.md]
 confidence: medium
 ---
 
@@ -28,3 +28,11 @@ DeLarme cautions that a win against Moraes would not be an endgame, since "censo
 
 ## References
 1. Badlands Brief — "The Censorship War - Counteroffensive", URL: https://badlands.substack.com/p/the-censorship-war-counteroffensive
+
+## The 2024 multinational offensive (DeLarme)
+
+In October 2024 Badlands contributor [[ryan-delarme|Ryan DeLarme]] characterized the censorship war as a multinational offensive conducted on multiple fronts by governments and NGOs working in concert, built on legal frameworks including Canada's [[online-streaming-act|Online Streaming Act]], the UK's [[online-safety-bill|Online Safety Bill]], and the EU's [[digital-services-act|Digital Services Act]].[2] He argued the campaign had shifted from de-platforming small creators, as in the 2018 and 2020 waves, to attacking the most consequential platforms themselves — [[twitter|X]], [[rumble|Rumble]] and [[telegram|Telegram]].[2]
+
+The escalation's defining events were the French arrest of [[pavel-durov|Pavel Durov]], the [[supremo-tribunal-federal|Supremo Tribunal Federal]]'s ban of X in [[brazil|Brazil]] under Justice [[alexandre-de-moraes|Alexandre de Moraes]], and the subsequent bans of [[discord|Discord]] in [[turkey|Turkey]] and [[russia|Russia]] alongside [[ukraine|Ukraine]]'s restrictions on Telegram.[2] DeLarme concluded that governments had grown tired of pressuring social media platforms to censor and now rely on force, and that the capitulations of both Durov and [[elon-musk|Elon Musk]] would embolden the international censorship regime to encroach further.[2]
+
+2. Badlands Brief — "The Multinational Offensive Against Free Speech Online", URL: https://badlands.substack.com/p/the-multinational-offensive-against

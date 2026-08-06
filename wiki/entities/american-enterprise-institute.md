@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [think-tank, neoconservatism, foreign-policy]
-sources: [raw/assad-day-in-damascus.md]
+sources: [raw/assad-day-in-damascus.md, raw/trumps-2025-vision.md]
 confidence: medium
 ---
 
@@ -16,3 +16,9 @@ In the article's account of the intellectual lineage behind U.S. regime-change p
 
 ## References
 1. Badlands Brief — "Assad Day in Damascus", URL: https://badlands.substack.com/p/assad-day-in-damascus
+
+## Commentary on Trump's 2025 agenda
+
+Emeritus scholar [[norman-ornstein|Norman Ornstein]] was quoted by [[axios|Axios]] describing [[donald-trump|Donald Trump]]'s proposals for a second term as "the trappings of a democracy" that amounted to "a Potemkin village."[2] Badlands Media contributor [[justin-deschamps|Justin Deschamps]] cited the remark as an example of establishment think-tank commentary deployed against Trump, noting the irony that the Potemkin-village metaphor originated in Soviet efforts to stage fake prosperity for visiting dignitaries.[2]
+
+2. Badlands Brief — "Trump's 2025 Vision [Updated]", URL: https://badlands.substack.com/p/trumps-2025-vision

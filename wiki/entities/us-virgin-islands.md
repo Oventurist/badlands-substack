@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [us-virgin-islands, epstein, litigation, subpoena, caribbean]
-sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-47a.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-a56.md, raw/badlands-news-brief-ea7.md, raw/badlands-news-brief-fde.md]
+sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-47a.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-a56.md, raw/badlands-news-brief-ea7.md, raw/badlands-news-brief-fde.md, raw/whos-the-u-boat-commander.md]
 confidence: medium
 ---
 
@@ -64,3 +64,11 @@ The territory filed suit against [[jpmorgan-chase|JPMorgan Chase & Co.]] in Dece
 In May 2023 the territorial government sought to subpoena [[elon-musk|Elon Musk]] for documents in its lawsuit against [[jpmorgan-chase|JPMorgan Chase]], which alleges the bank was liable for sex trafficking committed by [[jeffrey-epstein|Jeffrey Epstein]], who kept an estate in the islands.[8] The suit, filed in 2022, contended that JPMorgan enabled Epstein's recruiters to pay victims and was "indispensable to the operation and concealment of the Epstein trafficking enterprise."[8] In its filing the territory said it believed Epstein may have referred or tried to refer Musk to JPMorgan as a potential client; Musk has never been publicly accused of wrongdoing connected to Epstein and his spokespeople have denied reports that Epstein advised him on business matters.[8]
 
 8. Badlands Brief — "Badlands News Brief: The Durham Report, Epstein Suit & Border Bags", URL: https://badlands.substack.com/p/badlands-news-brief-fde
+
+## Biden family property and vacations
+
+A January 2024 Badlands feature by [[erik-carlson|Erik Carlson]], citing a 2020 [[politico|Politico]] report, described [[james-biden|James Biden]]'s 2005 purchase of an acre on [[water-island|Water Island]] and its partial resale to lobbyist [[scott-green|Scott Green]], after which the Virgin Islands became a favored destination for the Biden clan.[9] [[joe-biden|Joe Biden]] and his family vacationed on Water Island over the 2008–09 winter holidays and the two following seasons as vice president, later shifting to St. Croix for the practicality of traveling with a Secret Service entourage, and returning to St. Croix over the holiday season before his presidential campaign launch, where he was spotted on New Year's Day 2019.[9]
+
+Carlson emphasized the territory's geography: [[little-st-james|Little St. James]] lies about a mile and a half from [[st-thomas|St. Thomas]], roughly 10 miles from that island's airport and about 8 miles from a submarine base sheltered by Water Island, while St. Croix is some 40 miles away — a 15 to 20 minute helicopter flight.[9]
+
+9. Badlands Brief — "Who's the U-Boat Commander?", URL: https://badlands.substack.com/p/whos-the-u-boat-commander

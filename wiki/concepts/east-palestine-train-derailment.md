@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [disaster, ohio, environment, rail-safety]
-sources: [raw/badlands-brief-740.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-4a6.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-754.md]
+sources: [raw/badlands-brief-740.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-4a6.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-754.md, raw/the-road-without-struggle.md]
 confidence: medium
 ---
 
@@ -69,6 +69,12 @@ Within ten days of the February 3, 2023 derailment, [[badlands-media|Badlands Me
 
 Badlands contributor [[absolutetruth1776|AbsoluteTruth1776]] echoed the "Chernobyl-sized disaster" characterisation, arguing that the public was being distracted by objects in the sky, talk of world war and the Super Bowl while no major outlet covered the spill, and that reports of journalists arrested for asking questions suggested "a cover-up of epic proportions."[7] He also criticised Secretary of Transportation [[pete-buttigieg|Pete Buttigieg]] for making no mention of the disaster while commenting publicly on the racial composition of the rail workforce.[7]
 
+## Narrative management analysis
+
+In "The Road Without Struggle" (February 28, 2023), [[erik-carlson|Erik Carlson]] used the derailment and its toxic aftermath as a live example of [[poisoning-the-well|poisoning the well]].[8] He described a three-stage sequence: government and media first tried to ignore the disaster as though it had not happened, then attempted to downplay its severity, and — having failed to hide it from the public — moved to push exaggerated claims about it.[8]
+
+Carlson's concern was the downstream effect of those injected exaggerations: when members of the public latch on to deliberately overstated claims, the media then attacks all claims as false and ridiculous, leading the general public to conclude that because a couple of details were exaggerated, the whole situation must have been.[8]
+
 ## References
 1. Badlands Brief — "Aliens. A Fake Kid Dies From Fake Measles. And the Princely Prosecution That Was Promised.", URL: https://badlands.substack.com/p/badlands-brief-740
 2. Badlands Media — "Badlands News Brief: Ukraine U-Turn, Biden Bumbles & Committees Command", URL: https://badlands.substack.com/p/badlands-news-brief-152
@@ -77,3 +83,4 @@ Badlands contributor [[absolutetruth1776|AbsoluteTruth1776]] echoed the "Chernob
 5. Badlands Brief — "Badlands News Brief: Biden Does Ukraine, Vax Data & Veritas Shakeup", URL: https://badlands.substack.com/p/badlands-news-brief-4a6
 6. Badlands Brief — "Badlands News Brief: Orange Friday, Election Action, & McKinsey's Gives Advice", URL: https://badlands.substack.com/p/badlands-news-brief-71f
 7. Badlands Brief — "Badlands News Brief: PsyOps and PsyActs EVERYWHERE ...", URL: https://badlands.substack.com/p/badlands-news-brief-754
+8. Badlands Brief — "The Road Without Struggle", URL: https://badlands.substack.com/p/the-road-without-struggle

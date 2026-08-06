@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [info-war, narrative-warfare, badlands-media, truth-community]
-sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d50.md, raw/last-call-for-gart-2.md]
+sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d50.md, raw/last-call-for-gart-2.md, raw/the-two-chinas.md, raw/the-war-of-stories.md]
 confidence: high
 ---
 
@@ -32,3 +32,15 @@ Badlands Media has framed its live [[great-american-restoration-tour|Great Ameri
 3. Badlands Brief — "Badlands News Brief: The France Dance, Crime & J6 Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-c9a
 4. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50
 5. Badlands Brief — "Last Call for GART 2!", URL: https://badlands.substack.com/p/last-call-for-gart-2
+
+## Usage in the Badlands China series (2022)
+
+"The Two Chinas" (November 10, 2022) describes the Information War as the colloquial name many in the [[truth-community|Truth Community]] give to the present era, and characterizes its readers as a growing collective of self-informed minds who engage open-source information actively and pass all [[media-industrial-complex|Media Industrial Complex]] narratives through a cognitive filter developed under those harsh, obfuscating conditions.[6] The article treats the term as one of several — alongside "[[shadow-war|Shadow War]]" and "Strange War" — for the ongoing conflict between [[globalism|Globalism]] and sovereignty, and situates Western coverage of [[xi-jinping|Xi Jinping]] squarely within it.[6]
+
+6. Badlands Media — "The Two Chinas", URL: https://badlands.substack.com/p/the-two-chinas
+
+## Reframed as a War of Stories (December 2022)
+
+In "The War of Stories" (December 30, 2022), [[burning-bright|Burning Bright]] argued that what the community calls the Information War is more akin to a [[war-of-stories|War of Stories]], since its central mechanism is the [[narrative-deployment|Narrative Deployment]] rather than the raw datum.[7] He characterised it as a [[fifth-generation-warfare|Fifth-Generation War]] in which both the [[media-industrial-complex|Media Industrial Complex]] and the awakened decentralized citizen intelligence network employ many of the same psychological and informational tactics, and in which the contested territory is the [[collective-mind|Collective Mind]].[7] He described [[elon-musk|Elon Musk]]'s takeover of "the largest civilian communications platform in the world" as one of the most direct and obvious disclosure operations observed since Badlands began tracking the moves and counter-moves of this "evolving and escalating Fifth-Generation Information War."[7]
+
+7. Badlands Media — "The War of Stories", URL: https://badlands.substack.com/p/the-war-of-stories

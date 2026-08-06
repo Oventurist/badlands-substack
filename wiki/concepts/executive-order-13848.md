@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [executive-orders, election-integrity, national-emergency, foreign-interference, devolution]
-sources: [raw/badlands-news-brief-030.md, raw/biden-inc-flips.md, raw/soul-governance.md, raw/the-harvard-control-grid.md, raw/the-ivy-web.md, raw/the-ivy-dominion.md]
+sources: [raw/badlands-news-brief-030.md, raw/biden-inc-flips.md, raw/soul-governance.md, raw/the-harvard-control-grid.md, raw/the-ivy-web.md, raw/the-ivy-dominion.md, raw/trumps-final-offensive.md, raw/wilted-ivy.md]
 confidence: medium
 ---
 
@@ -49,3 +49,14 @@ Applied to [[harvard-university|Harvard University]], the order is said to reach
 The June 2025 essay "The Ivy Dominion" pairs EO 13848 with [[executive-order-13818|EO 13818]] as legal instruments that "do not target the surface, they target the structure," authorizing the freezing and seizure of assets tied to corruption, election interference and foreign collusion.[6] The article says these orders, long dismissed by corporate media as symbolic, became fully active and left universities, NGOs, foundations and investment firms vulnerable, driving what it describes as a coordinated liquidation cascade across elite finance.[6] It further argues that the orders empower the [[us-department-of-the-treasury|Treasury Department]] to act against institutions such as [[harvard-university|Harvard]] or the [[university-of-pennsylvania|University of Pennsylvania]] if they concealed foreign gifts, and that seized assets could be redirected into the [[united-states-sovereign-wealth-fund|United States Sovereign Wealth Fund]].[6]
 
 6. Badlands Brief — "The Ivy Dominion", URL: https://badlands.substack.com/p/the-ivy-dominion
+## Role in the 2025 counteroffensive
+
+Badlands Media's "Trump's Final Offensive" describes EO 13848, signed in September 2018 to impose sanctions in the event of foreign interference in a United States election, as still active and as the constitutional basis permitting military intelligence to monitor election activity from 2020 through 2024 even under the [[joe-biden|Biden]] administration.[7] It is grouped with [[executive-order-13818|EO 13818]], [[executive-order-13912|EO 13912]], and [[executive-order-14151|EO 14151]] as the orders that collectively dismantled the legal scaffolding of the entrenched bureaucracy and returned jurisdiction to constitutional actors.[7]
+
+7. Badlands Brief — "Trump's Final Offensive", URL: https://badlands.substack.com/p/trumps-final-offensive
+
+## Cited in "Wilted Ivy"
+
+Badlands Media's May 2025 essay "Wilted Ivy" states that EO 13848, signed in September 2018, expanded the powers of [[executive-order-13818|EO 13818]] to include the seizure of assets tied to election interference, foreign and domestic.[8] The article treats the two orders together as the legal seizure infrastructure that [[donald-trump|Donald Trump]] put in place in 2017-2018 and later activated, arguing that they made [[blackrock|BlackRock]], [[vanguard|Vanguard]] and [[state-street|State Street]] "surgically neutralized" and left institutions such as [[harvard-university|Harvard]] without financial protection.[8]
+
+8. Badlands Brief — "Wilted Ivy", URL: https://badlands.substack.com/p/wilted-ivy

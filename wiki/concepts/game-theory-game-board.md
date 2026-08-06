@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [game-theory, information-war, fifth-generation-warfare, badlands-media, burning-bright]
-sources: [raw/right-the-ship.md]
+sources: [raw/right-the-ship.md, raw/the-war-of-stories.md]
 confidence: medium
 ---
 
@@ -27,3 +27,9 @@ He holds that patriots operate both in and behind the public levers of political
 ## References
 
 1. Badlands Brief — "Right the Ship", URL: https://badlands.substack.com/p/right-the-ship
+
+## Reading the board in the War of Stories (December 2022)
+
+In "The War of Stories" (December 30, 2022), [[burning-bright|Burning Bright]] wrote that much of the national and international news cycle — from [[potential-events|Potential and Narrative Events]] through to Actual Events — is obfuscated by all sides on the Game Theory Game Board.[2] Recontextualizing outsized public personalities as vehicles for paradigm-shifting narratives, he argued, renders the board "more clearly than before."[2] He predicted that readers who assess figures by the net effects of their deployments would come away sensing that "the winds of change are only blowing in one direction," and that the decentralized patriots of the [[sovereign-alliance|Sovereign Alliance]] were taking more of the board with each of their own [[narrative-deployment|deployments]] and with each of the enemy's.[2]
+
+2. Badlands Brief — "The War of Stories", URL: https://badlands.substack.com/p/the-war-of-stories

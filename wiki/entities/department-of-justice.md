@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [doj, law-enforcement, slush-fund, settlements, corruption]
-sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-0a2.md, raw/badlands-brief-143.md, raw/badlands-brief-05f.md, raw/badlands-brief-144.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ae.md, raw/badlands-brief-1ef.md, raw/badlands-brief-2c0.md, raw/badlands-brief-2c5.md, raw/badlands-brief-323.md, raw/badlands-brief-40d.md, raw/badlands-brief-509.md, raw/badlands-brief-625.md, raw/badlands-brief-707.md, raw/badlands-brief-739.md, raw/badlands-brief-7bf.md, raw/badlands-brief-70c.md, raw/badlands-brief-774.md, raw/badlands-brief-8c2.md, raw/badlands-brief-a6b.md, raw/badlands-brief-b62.md, raw/badlands-brief-c91.md, raw/badlands-brief-b82.md, raw/badlands-brief-d3b.md, raw/badlands-brief-e15.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8d8.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-9e7.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-b63.md, raw/badlands-news-brief-b68.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-c50.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-d50.md, raw/badlands-news-brief-dd8.md, raw/badlands-news-brief-df1.md, raw/badlands-news-brief-e37.md, raw/badlands-news-brief-f6e.md, raw/badlands-news-brief-fcd.md, raw/death-blossom.md, raw/is-jamie-dimon-directing-the-priorities.md, raw/smart-goal-setting-in-the-age-of.md, raw/the-biggest-boomerang-in-history.md, raw/the-biggest-cover-up-in-american.md, raw/the-ivy-web.md]
+sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-0a2.md, raw/badlands-brief-143.md, raw/badlands-brief-05f.md, raw/badlands-brief-144.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ae.md, raw/badlands-brief-1ef.md, raw/badlands-brief-2c0.md, raw/badlands-brief-2c5.md, raw/badlands-brief-323.md, raw/badlands-brief-40d.md, raw/badlands-brief-509.md, raw/badlands-brief-625.md, raw/badlands-brief-707.md, raw/badlands-brief-739.md, raw/badlands-brief-7bf.md, raw/badlands-brief-70c.md, raw/badlands-brief-774.md, raw/badlands-brief-8c2.md, raw/badlands-brief-a6b.md, raw/badlands-brief-b62.md, raw/badlands-brief-c91.md, raw/badlands-brief-b82.md, raw/badlands-brief-d3b.md, raw/badlands-brief-e15.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8d8.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-9e7.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-b63.md, raw/badlands-news-brief-b68.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-c50.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-d50.md, raw/badlands-news-brief-dd8.md, raw/badlands-news-brief-df1.md, raw/badlands-news-brief-e37.md, raw/badlands-news-brief-f6e.md, raw/badlands-news-brief-fcd.md, raw/death-blossom.md, raw/is-jamie-dimon-directing-the-priorities.md, raw/smart-goal-setting-in-the-age-of.md, raw/the-biggest-boomerang-in-history.md, raw/the-biggest-cover-up-in-american.md, raw/the-ivy-web.md, raw/the-transition-integrity-project.md, raw/unveiling-the-mar-a-lago-raid-1-year.md]
 confidence: medium
 ---
 
@@ -400,6 +400,54 @@ In June 2025 the Department issued a memo directing attorneys to prioritize [[de
 
 On June 30, 2025 the Department also announced it had seized hundreds of computers and charged 13 people in a [[north-korean-it-worker-scheme|scheme]] that tricked more than 100 U.S. companies into paying remote-worker salaries that were funneled to North Korea.[77]
 
+## Trump's November 18, 2022 counter-deployment
+
+[[burning-bright|Burning Bright]] listed [[donald-trump|Donald Trump]]'s November 18, 2022 move to "counter" the weaponization of the Department of Justice as the third element of a three-part narrative sequence, following the November 7 announcement of an announcement and the November 15 declaration of his 2024 candidacy.[78] He treated the DOJ deployment as part of a single coordinated operation intended to expose controlled opposition, force the premature expenditure of hostile media narratives, and reshape the [[fifth-generation-warfare|Fifth-Generation War]] game board.[78]
+
+78. Badlands Brief — "Death Blossom", URL: https://badlands.substack.com/p/death-blossom
+
+## Signalled action against short sellers (May 2023)
+
+On May 24, 2023 Reuters reported that a top Justice Department official said short selling was "a key focus for U.S. prosecutors" and that there would be more department activity in the coming months.[79] The report noted that the rout in shares of U.S. regional banks during the [[2023-banking-crisis|2023 banking crisis]] had drawn fresh scrutiny from criminal prosecutors and regulators toward [[short-selling|short sellers]], who had previously come under review after the 2021 "meme stock" episode.[79]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] observed that the announcement came less than two weeks after [[jpmorgan-chase|JPMorgan Chase]] chief executive [[jamie-dimon|Jamie Dimon]] publicly urged the [[securities-and-exchange-commission|SEC]] to pursue short sellers, and asked whether Dimon was now moving the investigative priorities of the Department of Justice.[79] The piece contrasted that prosecutorial appetite with the absence of any equivalent scrutiny of Dimon's own portfolio against his public statements, and noted that he was simultaneously scheduled for a private deposition in the [[us-virgin-islands|U.S. Virgin Islands]] [[jeffrey-epstein|Epstein]] litigation against his bank.[79] Attorney General [[merrick-garland|Merrick Garland]] was named as the official who would not conduct such an inquiry.[79]
+
+79. Badlands Brief — "Is Jamie Dimon a Prophet?", URL: https://badlands.substack.com/p/is-jamie-dimon-directing-the-priorities
+
+## Proposed role in election reform
+
+In a February 13, 2025 [[badlands-media|Badlands Media]] guest essay, election analyst [[seth-keshel|Seth Keshel]] placed the Department of Justice at the center of his proposed election-reform program.[80] His formal goal statement called for evaluating each state's system of elections for laws and conduct that disenfranchise voters, enacting laws and procedures providing transparency and fairness, and legally challenging all laws facilitating disenfranchising behavior "with the full strength of the Department of Justice."[80] He repeated the formulation verbatim under the relevance criterion of his [[smart-goal-setting|SMART goal-setting]] framework, tying it to the second Trump administration's broader campaign against entrenched corruption.[80]
+
+80. Badlands Brief — "SMART Goal Setting in the Age of Election Corruption", URL: https://badlands.substack.com/p/smart-goal-setting-in-the-age-of
+
+## The DOJ in the boomerang narrative
+
+"[[the-biggest-boomerang-in-history|The Biggest Boomerang In History]]" names the Department of Justice under [[loretta-lynch|Loretta Lynch]] and [[sally-yates|Sally Yates]] as one of the three institutional arms of the alleged [[barack-obama|Obama]]-era conspiracy, alongside the Intelligence Community and the [[fbi|FBI]].[81] [[joe-lange|Joe Lange]] writes that the opposing network believed it had regained control of Trump's DOJ once [[jeff-sessions|Jeff Sessions]] recused himself from the Russia investigation.[81]
+
+The department is also described as the principal habitat of what Lange calls an enemy insurgency embedded within government, against which an irregular war is being fought.[81] Under Attorney General [[william-barr|William Barr]] the same department is said to have reversed course: releasing declassified documents that its new leadership held to show [[michael-flynn|Flynn]] had been set up, dropping the Flynn prosecution, coordinating [[declas|DECLAS]] for multiple [[racketeer-influenced-and-corrupt-organizations-act|RICO]] investigations, and supplying material to select members of Congress.[81] These claims reflect Badlands Media interpretation rather than established fact.
+
+81. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history
+
+## Handling of the Uranium One case
+
+"The Biggest Cover-up in American History" describes the Justice Department as both the instrument of the [[uranium-one-deal|Uranium One]] cover-up and, later, of the response to it.[82] Under Attorney General [[eric-holder|Eric Holder]] the department prosecuted [[vadim-mikerin|Vadim Mikerin]] on a single narrowed money-laundering charge, publicising the plea deals only in a little-noticed August 2015 release, and reportedly imposed a non-disclosure agreement on the FBI's confidential informant while threatening to prosecute him if he spoke to [[congress|Congress]].[82] Senator [[chuck-grassley|Chuck Grassley]] called on the department to lift that gag order.[82]
+
+Under [[jeff-sessions|Jeff Sessions]] the department declined to appoint a special counsel and instead assigned [[john-huber|John Huber]], working with Inspector General [[michael-horowitz|Michael Horowitz]] and 470 investigators, to conduct the [[huber-investigation|Huber investigation]] into the same matters.[82] [[joe-lange|Joe Lange]] argues that this structure evaded the compromised District of Columbia court system and generated [[sealed-indictments|sealed indictments]] under a [[racketeer-influenced-and-corrupt-organizations-act|RICO]] theory.[82]
+
+82. Badlands Brief — "The Biggest Cover-up in American History", URL: https://badlands.substack.com/p/the-biggest-cover-up-in-american
+
+## The Lieber prosecution in "The Ivy Web"
+
+Badlands Media's "The Ivy Web" recounts the Department's prosecution of [[charles-lieber|Charles Lieber]], the former Chair of Harvard's Chemistry and Chemical Biology Department, who was convicted in December 2021 on six felony counts including lying to federal investigators and failing to report foreign bank accounts.[83] A DOJ press release dated December 21, 2021 stated that "there is now no question that Charles Lieber lied to federal investigators and to Harvard in an attempt to hide his participation in the Chinese [[thousand-talents-program|Thousand Talents Program]]... He exploited the openness of our academic system."[83] An April 26, 2023 DOJ update recorded a sentence of time served — two days — plus six months of home confinement and a $50,000 fine, an outcome the article derided as a slap on the wrist.[83]
+
+The article further argues that the Department has demonstrated willingness to prosecute and seize assets under [[executive-order-13818|Executive Order 13818]], and predicts DOJ scrutiny of media outlets complicit in narrative laundering under Section 951 foreign agent registration provisions.[83]
+
+83. Badlands Brief — "The Ivy Web", URL: https://badlands.substack.com/p/the-ivy-web
+
+## Transition Integrity Project scenarios
+
+The [[transition-integrity-project|Transition Integrity Project]]'s 2020 war games predicted that a defeated [[donald-trump|Donald Trump]] would use Attorney General [[william-barr|Bill Barr]] to subvert the legal system, deploying the Department of Justice and its resources to remain in office, with the department providing legal cover for federalizing the [[national-guard|National Guard]] or invoking the [[insurrection-act|Insurrection Act]].[84] Badlands Media contributor [[erik-carlson|Erik Carlson]] argues that the weaponisation of the DOJ that TIP attributed to Trump was instead carried out by the [[joe-biden|Biden]] administration.[84]
+
 ## References
 1. Badlands Brief — "America for Sale - Part 2", URL: https://badlands.substack.com/p/america-for-sale-part-2
 2. Badlands Brief — "A Virtual Smash & Grab & Another Impeachment Hoax", URL: https://badlands.substack.com/p/badlands-brief-0a2
@@ -486,46 +534,10 @@ The [[hunter-biden-plea-agreement|Hunter Biden plea agreement]] announced on 20 
 76. Badlands Brief — "Badlands News Brief: Ghost Puppeteers, Sudanese Solutions, & Pam Bondi's Desk", URL: https://badlands.substack.com/p/badlands-news-brief-f6e
 77. Badlands Brief — "Badlands News Brief: Lifting Sanctions & Revoking Citizenship", URL: https://badlands.substack.com/p/badlands-news-brief-fcd
 
-## Trump's November 18, 2022 counter-deployment
+84. Badlands Brief — "The Transition Integrity Project", URL: https://badlands.substack.com/p/the-transition-integrity-project
 
-[[burning-bright|Burning Bright]] listed [[donald-trump|Donald Trump]]'s November 18, 2022 move to "counter" the weaponization of the Department of Justice as the third element of a three-part narrative sequence, following the November 7 announcement of an announcement and the November 15 declaration of his 2024 candidacy.[78] He treated the DOJ deployment as part of a single coordinated operation intended to expose controlled opposition, force the premature expenditure of hostile media narratives, and reshape the [[fifth-generation-warfare|Fifth-Generation War]] game board.[78]
+## Role in the Mar-a-Lago documents case
 
-78. Badlands Brief — "Death Blossom", URL: https://badlands.substack.com/p/death-blossom
+The Department authorised and directed the August 8, 2022 [[mar-a-lago-raid|search of Mar-a-Lago]], with Attorney General [[merrick-garland|Merrick Garland]] approving the warrant that Magistrate Judge [[bruce-reinhart|Bruce Reinhart]] signed after a referral from the [[national-archives-and-records-administration|National Archives and Records Administration]].[85] The redacted affidavit described the Department observing "hawk-like" as boxes moved in and out of the estate during 2021 and 2022.[85] [[alpha-warrior|Alpha Warrior]] wrote that for [[donald-trump|Trump]]'s supporters the Department appears to be wielded against him and his followers, making the episode a reminder that political bias can seep into the realms of law and order and distort accountability.[85]
 
-## Signalled action against short sellers (May 2023)
-
-On May 24, 2023 Reuters reported that a top Justice Department official said short selling was "a key focus for U.S. prosecutors" and that there would be more department activity in the coming months.[79] The report noted that the rout in shares of U.S. regional banks during the [[2023-banking-crisis|2023 banking crisis]] had drawn fresh scrutiny from criminal prosecutors and regulators toward [[short-selling|short sellers]], who had previously come under review after the 2021 "meme stock" episode.[79]
-
-Badlands contributor [[ashe-in-america|Ashe in America]] observed that the announcement came less than two weeks after [[jpmorgan-chase|JPMorgan Chase]] chief executive [[jamie-dimon|Jamie Dimon]] publicly urged the [[securities-and-exchange-commission|SEC]] to pursue short sellers, and asked whether Dimon was now moving the investigative priorities of the Department of Justice.[79] The piece contrasted that prosecutorial appetite with the absence of any equivalent scrutiny of Dimon's own portfolio against his public statements, and noted that he was simultaneously scheduled for a private deposition in the [[us-virgin-islands|U.S. Virgin Islands]] [[jeffrey-epstein|Epstein]] litigation against his bank.[79] Attorney General [[merrick-garland|Merrick Garland]] was named as the official who would not conduct such an inquiry.[79]
-
-79. Badlands Brief — "Is Jamie Dimon a Prophet?", URL: https://badlands.substack.com/p/is-jamie-dimon-directing-the-priorities
-
-## Proposed role in election reform
-
-In a February 13, 2025 [[badlands-media|Badlands Media]] guest essay, election analyst [[seth-keshel|Seth Keshel]] placed the Department of Justice at the center of his proposed election-reform program.[80] His formal goal statement called for evaluating each state's system of elections for laws and conduct that disenfranchise voters, enacting laws and procedures providing transparency and fairness, and legally challenging all laws facilitating disenfranchising behavior "with the full strength of the Department of Justice."[80] He repeated the formulation verbatim under the relevance criterion of his [[smart-goal-setting|SMART goal-setting]] framework, tying it to the second Trump administration's broader campaign against entrenched corruption.[80]
-
-80. Badlands Brief — "SMART Goal Setting in the Age of Election Corruption", URL: https://badlands.substack.com/p/smart-goal-setting-in-the-age-of
-
-## The DOJ in the boomerang narrative
-
-"[[the-biggest-boomerang-in-history|The Biggest Boomerang In History]]" names the Department of Justice under [[loretta-lynch|Loretta Lynch]] and [[sally-yates|Sally Yates]] as one of the three institutional arms of the alleged [[barack-obama|Obama]]-era conspiracy, alongside the Intelligence Community and the [[fbi|FBI]].[81] [[joe-lange|Joe Lange]] writes that the opposing network believed it had regained control of Trump's DOJ once [[jeff-sessions|Jeff Sessions]] recused himself from the Russia investigation.[81]
-
-The department is also described as the principal habitat of what Lange calls an enemy insurgency embedded within government, against which an irregular war is being fought.[81] Under Attorney General [[william-barr|William Barr]] the same department is said to have reversed course: releasing declassified documents that its new leadership held to show [[michael-flynn|Flynn]] had been set up, dropping the Flynn prosecution, coordinating [[declas|DECLAS]] for multiple [[racketeer-influenced-and-corrupt-organizations-act|RICO]] investigations, and supplying material to select members of Congress.[81] These claims reflect Badlands Media interpretation rather than established fact.
-
-81. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history
-
-## Handling of the Uranium One case
-
-"The Biggest Cover-up in American History" describes the Justice Department as both the instrument of the [[uranium-one-deal|Uranium One]] cover-up and, later, of the response to it.[82] Under Attorney General [[eric-holder|Eric Holder]] the department prosecuted [[vadim-mikerin|Vadim Mikerin]] on a single narrowed money-laundering charge, publicising the plea deals only in a little-noticed August 2015 release, and reportedly imposed a non-disclosure agreement on the FBI's confidential informant while threatening to prosecute him if he spoke to [[congress|Congress]].[82] Senator [[chuck-grassley|Chuck Grassley]] called on the department to lift that gag order.[82]
-
-Under [[jeff-sessions|Jeff Sessions]] the department declined to appoint a special counsel and instead assigned [[john-huber|John Huber]], working with Inspector General [[michael-horowitz|Michael Horowitz]] and 470 investigators, to conduct the [[huber-investigation|Huber investigation]] into the same matters.[82] [[joe-lange|Joe Lange]] argues that this structure evaded the compromised District of Columbia court system and generated [[sealed-indictments|sealed indictments]] under a [[racketeer-influenced-and-corrupt-organizations-act|RICO]] theory.[82]
-
-82. Badlands Brief — "The Biggest Cover-up in American History", URL: https://badlands.substack.com/p/the-biggest-cover-up-in-american
-
-## The Lieber prosecution in "The Ivy Web"
-
-Badlands Media's "The Ivy Web" recounts the Department's prosecution of [[charles-lieber|Charles Lieber]], the former Chair of Harvard's Chemistry and Chemical Biology Department, who was convicted in December 2021 on six felony counts including lying to federal investigators and failing to report foreign bank accounts.[83] A DOJ press release dated December 21, 2021 stated that "there is now no question that Charles Lieber lied to federal investigators and to Harvard in an attempt to hide his participation in the Chinese [[thousand-talents-program|Thousand Talents Program]]... He exploited the openness of our academic system."[83] An April 26, 2023 DOJ update recorded a sentence of time served — two days — plus six months of home confinement and a $50,000 fine, an outcome the article derided as a slap on the wrist.[83]
-
-The article further argues that the Department has demonstrated willingness to prosecute and seize assets under [[executive-order-13818|Executive Order 13818]], and predicts DOJ scrutiny of media outlets complicit in narrative laundering under Section 951 foreign agent registration provisions.[83]
-
-83. Badlands Brief — "The Ivy Web", URL: https://badlands.substack.com/p/the-ivy-web
+85. Badlands Brief — "Unveiling the Mar-a-Lago Raid – 1 Year Delta", URL: https://badlands.substack.com/p/unveiling-the-mar-a-lago-raid-1-year

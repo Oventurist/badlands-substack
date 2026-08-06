@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [cryptography, qanon, trump, information-warfare]
-sources: [raw/kekistani-code-talkers.md, raw/pepe-the-trump-train-and-hillarys.md, raw/the-covfefe-dig.md]
+sources: [raw/kekistani-code-talkers.md, raw/pepe-the-trump-train-and-hillarys.md, raw/the-covfefe-dig.md, raw/trump-doctrine-peace-through-space.md]
 confidence: medium
 ---
 
@@ -42,8 +42,13 @@ Two later Trump posts are cited as evidence of intent: a November 2019 reply ask
 
 The dig applies a simple A=1 substitution to produce C=3, O=15, V=22, F=6, E=5, F=6, E=5, treating "COV" as 3-15-22 and the trailing "FE FE" as 11 11.[3] Any combination of the digits 3, 1 and 5 is then read as a signal: the 5/31 posting date, [[andrew-jackson|Andrew Jackson]]'s 3/15 birthday, the [[ides-of-march|Ides of March]] as the Roman deadline for settling debts, 3 × 15 = 45 pointing to the 45th president, and 11/11 as the 315th day of the year.[3] The article identifies the essential components of the puzzle as Trump, [[qanon|Q]], [[john-f-kennedy|JFK]] and [[executive-order-11110|EO 11110]], [[pepe-the-frog|Pepe]], and [[bitcoin|Bitcoin]], culminating in the end of the central bankers.[3] It closes by warning that central bank digital currencies are coming and arguing that Bitcoin is the one available defence.[3]
 
+## Trump Doctrine: Peace Through Space
+
+"[[trump-doctrine-peace-through-space|Trump Doctrine: Peace Through Space]]" invokes the COVFEFE signal in connection with [[qanon|Q]] drop #1350 and points readers to the COVFEFE Dig by [[gmoney|GMONEY]], which provides a high-level overview of the connections between Q, [[donald-trump|Trump]], [[bitcoin|Bitcoin]], Pepe and JFK.[4] A sequel, the COVFEFE 2.0 Dig co-authored by GMONEY and the article's author, extends the analysis to Trump, insurgency, [[counterinsurgency|counterinsurgency]], legitimacy, JFK, secret societies, shadow governments, Bitcoin and non-kinetic power projection.[4]
+
 ## References
 
 1. Badlands Brief — "Kekistani Code Talkers", URL: https://badlands.substack.com/p/kekistani-code-talkers
 2. Badlands Brief — "Pepe, the Trump Train, and Hillary's Automobile", URL: https://badlands.substack.com/p/pepe-the-trump-train-and-hillarys
 3. Badlands Brief — "The COVFEFE Dig", URL: https://badlands.substack.com/p/the-covfefe-dig
+4. Badlands Brief — "Trump Doctrine: Peace Through Space", URL: https://badlands.substack.com/p/trump-doctrine-peace-through-space

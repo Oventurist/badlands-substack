@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [hungary, european-union, immigration, nationalism]
-sources: [raw/badlands-brief-07c.md, raw/badlands-brief-949.md, raw/badlands-brief-9ac.md, raw/badlands-brief-a6b.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-2e8.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4b9.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-942.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-a56.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-aae.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-fa7.md]
+sources: [raw/badlands-brief-07c.md, raw/badlands-brief-949.md, raw/badlands-brief-9ac.md, raw/badlands-brief-a6b.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-2e8.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4b9.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-942.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-a56.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-aae.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-fa7.md, raw/the-war-of-stories.md]
 confidence: medium
 ---
 
@@ -161,3 +161,9 @@ The shift came a day after [[turkey|Turkey]]'s parliament, following nearly two 
 Orban's government confirmed Hungary's withdrawal from the [[international-criminal-court|International Criminal Court]] hours after Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]], sought under an ICC arrest warrant, arrived in [[hungary|Hungary]] for a state visit.[23] Orban had invited Netanyahu as soon as the warrant was issued the previous November, declaring that the ruling would have "no effect" in his country.[23] ICC judges had found "reasonable grounds" that Netanyahu bore "criminal responsibility" for alleged war crimes and crimes against humanity during the war between Israel and Hamas.[23] The withdrawal made Hungary — a founding member of the court — the first European Union state to leave it.[23]
 
 23. Badlands Brief — "Badlands News Brief: Bush-Era Bombshells & MAGA Morale", URL: https://badlands.substack.com/p/badlands-news-brief-fa7
+
+## Named in "The War of Stories" (December 2022)
+
+In "The War of Stories" (December 30, 2022), [[burning-bright|Burning Bright]] listed Orbán among the leaders targeted by false [[media-industrial-complex|Media Industrial Complex]] [[narrative-deployment|Narrative Deployments]] for failing to fit the framework globalist interests would impose on the world, alongside [[donald-trump|Donald Trump]], [[elon-musk|Elon Musk]], [[kari-lake|Kari Lake]], [[vladimir-putin|Vladimir Putin]] and [[jair-bolsonaro|Jair Bolsonaro]].[24]
+
+24. Badlands Brief — "The War of Stories", URL: https://badlands.substack.com/p/the-war-of-stories

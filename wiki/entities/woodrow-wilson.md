@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [president, 1913, income-tax, central-banking]
-sources: [raw/1913.md, raw/going-off-the-federal-reservation.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-history-of-central-banking-in.md, raw/the-overdrive-timeline.md]
+sources: [raw/1913.md, raw/going-off-the-federal-reservation.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-history-of-central-banking-in.md, raw/the-overdrive-timeline.md, raw/who-are-the-true-puppet-masters.md]
 confidence: medium
 ---
 
@@ -50,3 +50,11 @@ On this account the formation of the [[federal-reserve|Federal Reserve]] and Ame
 In "The Overdrive Timeline," Erik Carlson wrote that the term "America First" was first coined by Wilson — whom he calls a Deep State puppet — during his campaign for re-election, on a promise to keep the United States out of the First World War.[5] Carlson notes that immediately after his victory Wilson brought the country into the war, and contrasts this with the [[america-first-committee|America First Committee]] formed in 1940 to keep the United States out of the Second World War.[5]
 
 5. Badlands Brief — "The Overdrive Timeline", URL: https://badlands.substack.com/p/the-overdrive-timeline
+
+## Cited in "Who are the True Puppet Masters?" (July 2023)
+
+[[erik-carlson|Erik Carlson]] presents Woodrow Wilson as a president operated by a handler rather than an independent actor, writing that Colonel [[edward-house|Edward House]] — a wealthy Texan from a wealthy British family and, in Carlson's characterisation, a British asset — got Wilson elected President in 1912.[6] The [[federal-reserve|Federal Reserve]], described as very unpopular, was then created in 1913 under Wilson.[6]
+
+Carlson notes that Wilson was re-elected in 1916 on a promise to keep America out of the First World War, and that as soon as he was re-elected he brought the United States into what Carlson calls England's war, where America bailed out England against Germany.[6] The episode is offered as an illustration of the [[british-cabal|British Cabal]]'s method of controlling nations through apparently domestic figures.[6]
+
+6. Badlands Brief — "Who are the True Puppet Masters?", URL: https://badlands.substack.com/p/who-are-the-true-puppet-masters

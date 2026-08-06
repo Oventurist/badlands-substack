@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [economics, dollar, reserve-currency, geopolitics, sanctions]
-sources: [raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-528.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-bec.md, raw/badlands-news-brief-c40.md, raw/shared-interests.md]
+sources: [raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-528.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-bec.md, raw/badlands-news-brief-c40.md, raw/shared-interests.md, raw/trumps-final-offensive.md]
 confidence: medium
 ---
 
@@ -85,3 +85,10 @@ Writing in February 2023, [[joe-lange|Joe Lange]] itemized seven dimensions of t
 On this reading de-dollarization is the central objective of [[brics|BRICS]], pursued through Russia's [[spfs|SPFS]] and [[mir-payment-system|MIR]] systems, China's [[cips|CIPS]] clearing network and yuan oil futures convertible into gold, the [[new-development-bank|New Development Bank]]'s local-currency lending, and the [[belt-and-road-initiative|Belt and Road Initiative]].[8] Lange cited IMF forecasts reported by the Toronto Star showing the Russian economy expected to grow faster than Germany and the U.K. and to outpace all G-7 economies the following year — 2.1 percent Russian GDP growth in 2024 against 1.5 percent for Canada and 1.0 percent for the United States — as evidence that the sanctions blitz had failed and that BRICS states were successfully bypassing the system.[8]
 
 8. Badlands Brief — "Shared Interests", URL: https://badlands.substack.com/p/shared-interests
+## AurumNet and the 2025 acceleration
+
+"Trump's Final Offensive" reports that in March 2025 Brazil, Russia, India, China, and South Africa announced a joint gold-backed trade settlement ledger called [[aurumnet|AurumNet]].[9] Saudi Arabia, Egypt, and Iran joined BRICS+ in the same period, which the article reads as signalling the end of the petrodollar, with oil traded in gold-backed yuan and rubles, while the African Union discussed a continental clearing system linked to BRICS commodity baskets.[9]
+
+Rather than confronting the bloc, [[donald-trump|Trump]]'s foreign policy is described as pivoting toward engagement, quietly aligning trade corridors with BRICS-friendly nations such as Brazil, Hungary, and the UAE to permit multipolar finance without a dollar collapse — a managed decoupling.[9] Inside the United States a parallel economy is described as growing alongside it, with Florida and Texas expanding gold-backed in-state transaction systems, federal pilot programs testing blockchain-based health vouchers and decentralised education credits, and Trump's "Build for America" infrastructure program offering tax shelters to citizen-owned microbanks and co-ops.[9]
+
+9. Badlands Brief — "Trump's Final Offensive", URL: https://badlands.substack.com/p/trumps-final-offensive

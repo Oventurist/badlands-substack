@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [regime-change, propaganda, communism, elections]
-sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-blitz-episode-4.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-579.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-fbc.md, raw/how-to-rent-a-riot-the-history-of.md, raw/how-to-rent-a-riot-the-plausible.md, raw/is-the-censorship-war-over.md, raw/purple-revolution.md, raw/rainbow-color-revolution.md, raw/the-language-of-control.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-blitz-episode-4.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-579.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-fbc.md, raw/how-to-rent-a-riot-the-history-of.md, raw/how-to-rent-a-riot-the-plausible.md, raw/is-the-censorship-war-over.md, raw/purple-revolution.md, raw/rainbow-color-revolution.md, raw/the-language-of-control.md, raw/the-steering-wheel-of-civilization.md, raw/triggering-mass-psychosis.md, raw/trump-knows.md]
 confidence: low
 ---
 
@@ -57,6 +57,10 @@ In September 2025 Badlands contributor [[ryan-delarme|Ryan DeLarme]] devoted the
 DeLarme identifies a recurring funding and training network behind the uprisings — NED, [[usaid|USAID]], the [[united-states-institute-of-peace|United States Institute of Peace]], the [[international-republican-institute|International Republican Institute]], the [[national-democratic-institute|National Democratic Institute]], [[freedom-house|Freedom House]], the [[solidarity-center|Solidarity Center]], the [[eurasia-foundation|Eurasia Foundation]] and [[internews|Internews]] — describing it as the apparatus erected to perform functions once ascribed openly to the [[cia|CIA]].[9] The canonical cases he examines are the [[arab-spring|Arab Spring]], the Serbian movement [[otpor|Otpor!]] and its [[bulldozer-revolution|Bulldozer Revolution]] against [[slobodan-milosevic|Slobodan Milosevic]], and Ukraine's [[orange-revolution|Orange Revolution]] and subsequent Maidan uprising.[9] He lists Georgia's Rose Revolution, Kyrgyzstan's Tulip Revolution, Lebanon's Cedar Revolution, Tunisia's Jasmine Revolution and Armenia's Velvet Revolution as further instances of the same template.[9]
 
 The article also documents the professionalization of the model: Otpor veterans founded consulting bodies including the Center for Nonviolent Resistance and [[canvas|CANVAS]], and trained Ukrainian [[pora|Pora]] organizers, with scholar [[mark-r-beissinger|Mark R. Beissinger]] describing revolution export as "an international business."[9]
+
+## Historical origin claimed by Badlands
+
+[[justin-deschamps|Justin Deschamps]] argued that history shows that when the people regain power — often through color revolution-style campaigns orchestrated by intelligence agencies — elites regain control in short order, with the history of the United States among the best examples.[17] He traced the technique back to European power brokers and the [[bavarian-illuminati|Bavarian Illuminati]], describing the [[french-revolution|French Revolution]] as its successful beta test on the authority of research by [[marvin-s-antelman|Marvin S. Antelman]].[17]
 
 ## References
 1. Badlands Brief — "A Virus, or a Metaphor?", URL: https://badlands.substack.com/p/a-virus-or-a-metaphor
@@ -112,3 +116,16 @@ DeLarme traced the doctrine to [[gene-sharp|Gene Sharp]], who developed at Harva
 Within this framework [[norm-eisen|Norm Eisen]] is presented as the contemporary practitioner: author of a regime-change manual titled The Playbook, chair of the [[brookings-institution|Brookings Institution]]'s color revolution planning arm, and editor of the annually updated domestic guide The Democracy Playbook.[14] DeLarme also cited the December 2024 MSNBC appearance of ACLU director [[anthony-romero|Anthony Romero]] — outlining a "firewall for freedom" of local officials against federal deportation operations — as textbook color revolution tactics applied domestically.[14] Named recent foreign examples included the Euromaidan events in Ukraine and the ousting of Evo Morales in Bolivia, which he said were largely funded and orchestrated by the [[state-department|U.S. State Department]], the CIA-linked [[national-endowment-for-democracy|National Endowment for Democracy]], and [[usaid|USAID]].[14]
 
 14. Badlands Media — "The Language of Control", URL: https://badlands.substack.com/p/the-language-of-control
+
+## Cited in "The Steering Wheel of Civilization"
+
+The February 24, 2023 Badlands Media essay "The Steering Wheel of Civilization" describes color revolution-style propaganda tactics as extremely useful for generating common identities in social groups.[15] [[justin-deschamps|Justin Deschamps]] writes that for the most part these methods are used insidiously by the [[parasitic-elite|parasitic elite]] for their own benefit, but argues they can also be used for good when a population is lost in self-deception and cabal delusion.[15]
+
+15. Badlands Brief — "The Steering Wheel of Civilization", URL: https://badlands.substack.com/p/the-steering-wheel-of-civilization
+
+## Color revolution methodology as a psychosis trigger (January 2023)
+
+[[justin-deschamps|Justin Deschamps]]'s January 20, 2023 essay treated color revolution methodologies, alongside [[fifth-generation-warfare|fifth-generational warfare]] tactics, as the means by which the existing order of a city or nation is degraded through the media.[16] He cited the [[bolshevik-revolution|Bolshevik revolution]] of 1917, China's Cultural Revolution of 1966 and Ukraine's 2014 Revolution of Dignity as movements fueled and supported by mass media and the spread of self-reinforcing negative information, capitalizing on public discontent with the existing order through populist ideologues who encouraged dissent against the establishment.[16] As a sidebar, he noted that most if not all color-style revolutions involved government- or internationally-sponsored intelligence agency support.[16]
+
+16. Badlands Brief — "Triggering Mass Psychosis", URL: https://badlands.substack.com/p/triggering-mass-psychosis
+17. Badlands Brief — "Trump Knows", URL: https://badlands.substack.com/p/trump-knows

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [domestic-terrorism, protest, doj, texas]
-sources: [raw/badlands-brief-095.md, raw/badlands-brief-abf.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-732.md, raw/badlands-news-brief-c9a.md, raw/q-for-dummies-chapter-2.md, raw/stay-focused-on-the-big-picture.md, raw/the-deep-state-has-already-lost.md, raw/the-hybridization-of-asymmetric-and.md]
+sources: [raw/badlands-brief-095.md, raw/badlands-brief-abf.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-732.md, raw/badlands-news-brief-c9a.md, raw/q-for-dummies-chapter-2.md, raw/stay-focused-on-the-big-picture.md, raw/the-deep-state-has-already-lost.md, raw/the-hybridization-of-asymmetric-and.md, raw/the-transition-integrity-project.md, raw/whats-taking-so-long.md]
 confidence: medium
 ---
 
@@ -88,21 +88,6 @@ On September 17, 2025, President [[donald-trump|Donald Trump]] announced he woul
 
 In April 2023 commentary on the [[fedsurrection|"Fedsurrection"]] disclosures, Badlands writer [[ryan-delarme|Ryan DeLarme]] speculated that local chapters of militant left-wing groups such as ANTIFA or Insurrection USA might each host an agent or informant capable of influencing a dozen additional "oblivious, non-fed anarchists or socialists" to participate on January 6, which would push the total number of assets involved well past one hundred.[11] He stated his belief that "ANTIFA mapping began long ago" and that modern intelligence-gathering capabilities made the task of untangling it feasible.[11] In separate commentary, DeLarme criticized [[jerrold-nadler|Jerrold Nadler]] as "the same guy who claimed that ANTIFA was a myth while small businesses were burning to the ground."[11]
 
-## References
-
-1. Badlands Brief — "Moves and Countermoves", URL: https://badlands.substack.com/p/badlands-brief-095
-2. Badlands Brief — "Long-Term Legal Remedies & A Reboot of Russian Relations", URL: https://badlands.substack.com/p/badlands-brief-abf
-3. Badlands Brief — "Situation Rooms & Terror Taskforces", URL: https://badlands.substack.com/p/badlands-brief-d3b
-4. Badlands Brief — "Badlands News Brief: Trump Surges, COVID Flags & Ukraine Slips", URL: https://badlands.substack.com/p/badlands-news-brief-0ec
-5. Badlands Brief — "Badlands News Brief: International Antifa, Hezbollah Strongholds, & Nuclear Options", URL: https://badlands.substack.com/p/badlands-news-brief-1c3
-6. Badlands Brief — "Badlands News Brief: Military in Memphis & Patrols in Poland", URL: https://badlands.substack.com/p/badlands-news-brief-1ed
-7. Badlands News Brief — "The Palisades Patsy, A Gazan Golden Age, & African Espionage", URL: https://badlands.substack.com/p/badlands-news-brief-42c
-8. Badlands Brief — "Badlands News Brief: Globalist Rage, Biden Docs & Hockey Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-46e
-9. Badlands Brief — "Badlands News Brief: Mostly Peaceful Riots and Billionaire Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-6db
-10. Badlands Brief — "A Terror Designation & A Breath of Fresh Air", URL: https://badlands.substack.com/p/badlands-news-brief-732
-11. Badlands Brief — "Badlands News Brief: The France Dance, Crime & J6 Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-c9a
-12. Badlands Brief — "Q for Dummies - Chapter 2", URL: https://badlands.substack.com/p/q-for-dummies-chapter-2
-
 ## Q drop #12 in "Q for Dummies" Chapter 2
 
 Badlands' "Q for Dummies" Chapter 2 reads Q drop #12 (October 30, 2017) as indicating that Antifa "is being allowed to operate for a reason" — namely that its members and networks are being mapped and followed, and that friendly infiltrators had probably been placed inside the movement.[12] The author generalizes the point: "infiltration is a two-way street. There is nothing that says 'only black hats can infiltrate.'"[12]
@@ -125,3 +110,30 @@ Carlson anticipated "Antifa types burning, looting and assaulting," especially i
 
 14. Badlands Brief — "The Deep State Has Already Lost", URL: https://badlands.substack.com/p/the-deep-state-has-already-lost
 15. Badlands Brief — "The Hybridization of Asymmetric & Political Warfare", URL: https://badlands.substack.com/p/the-hybridization-of-asymmetric-and
+
+## Portland deployment and the TIP report
+
+The [[transition-integrity-project|Transition Integrity Project]] stated in its 2020 report that [[donald-trump|Donald Trump]] had deployed agents from Homeland Security to Portland to suppress "racial justice protestors."[16] Badlands Media contributor [[erik-carlson|Erik Carlson]] cites this line as an illustration of the group's bias, translating it as Trump sending federal agents to stop Antifa from terrorising Portland.[16]
+
+## References
+
+1. Badlands Brief — "Moves and Countermoves", URL: https://badlands.substack.com/p/badlands-brief-095
+2. Badlands Brief — "Long-Term Legal Remedies & A Reboot of Russian Relations", URL: https://badlands.substack.com/p/badlands-brief-abf
+3. Badlands Brief — "Situation Rooms & Terror Taskforces", URL: https://badlands.substack.com/p/badlands-brief-d3b
+4. Badlands Brief — "Badlands News Brief: Trump Surges, COVID Flags & Ukraine Slips", URL: https://badlands.substack.com/p/badlands-news-brief-0ec
+5. Badlands Brief — "Badlands News Brief: International Antifa, Hezbollah Strongholds, & Nuclear Options", URL: https://badlands.substack.com/p/badlands-news-brief-1c3
+6. Badlands Brief — "Badlands News Brief: Military in Memphis & Patrols in Poland", URL: https://badlands.substack.com/p/badlands-news-brief-1ed
+7. Badlands News Brief — "The Palisades Patsy, A Gazan Golden Age, & African Espionage", URL: https://badlands.substack.com/p/badlands-news-brief-42c
+8. Badlands Brief — "Badlands News Brief: Globalist Rage, Biden Docs & Hockey Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-46e
+9. Badlands Brief — "Badlands News Brief: Mostly Peaceful Riots and Billionaire Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-6db
+10. Badlands Brief — "A Terror Designation & A Breath of Fresh Air", URL: https://badlands.substack.com/p/badlands-news-brief-732
+11. Badlands Brief — "Badlands News Brief: The France Dance, Crime & J6 Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-c9a
+12. Badlands Brief — "Q for Dummies - Chapter 2", URL: https://badlands.substack.com/p/q-for-dummies-chapter-2
+
+16. Badlands Brief — "The Transition Integrity Project", URL: https://badlands.substack.com/p/the-transition-integrity-project
+
+## Alleged military infiltration (December 2022)
+
+In "What's Taking So Long?" (December 28, 2022), [[joe-lange|Joe Lange]] wrote that [[qanon|Q]] had told followers the military was working behind the scenes to protect the public from violence by infiltrating, mapping and hollowing out the [[insurgency|insurgency]]'s foot soldiers in Antifa and [[black-lives-matter|BLM]].[17] He offered as evidence their inability to mount any resistance to the overturning of [[roe-v-wade|Roe v. Wade]], even though the decision had been leaked ahead of time.[17]
+
+17. Badlands Brief — "What's Taking So Long?", URL: https://badlands.substack.com/p/whats-taking-so-long

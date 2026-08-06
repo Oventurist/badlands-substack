@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [lsd, psilocybin, harvard, mk-ultra, counterculture]
-sources: [raw/on-ted-kaczynski-and-false-prophets.md]
+sources: [raw/on-ted-kaczynski-and-false-prophets.md, raw/the-werewolf-game-hell-on.md, raw/the-werewolf-game-what-is-clown-world.md]
 confidence: low
 ---
 
@@ -28,5 +28,17 @@ Leary was recruited to the project of retooling humanity under what the article 
 
 Leary, like [[gregory-bateson|Gregory Bateson]], is described as a devotee of [[cybernetics|cybernetics]], the science of control developed by acolytes of Bertrand Russell and led by his disciple [[norbert-wiener|Norbert Wiener]].[1] In this reading the psychedelic movement and the cybernetic management of populations were two faces of the same social-engineering project, supplying the cultural conditioning that a [[transhumanism|transhumanist]] order would require.[1]
 
+## Role in the Werewolf Game series
+
+Badlands Media's [[the-werewolf-game|Werewolf Game]] series describes Leary as a [[cia|CIA]] asset who urged people to abandon civilized society altogether in favour of "dropping out," taking drugs and sleeping around indiscriminately in pursuit of "enlightenment."[2] The series treats the cultural changes of the 1960s that Leary vociferously championed as the product of deliberate social engineering rather than spontaneous generational change.[2] It draws a parallel between that milieu and the [[koryos|Koryos]] werewolf cult, which is said to have produced nothing of value while consuming drugs between raids on neighbouring villages — both, in the author's framing, sharing a hatred of traditional family values.[2]
+
+Leary's close colleague [[robert-anton-wilson|Robert Anton Wilson]], chief editor of [[playboy|Playboy]] from 1960 to 1969, provides the series' bridge from 1960s counterculture to the occult material at the heart of the [[illuminatus-trilogy|Illuminatus Trilogy]].[2]
+
+## Grooming and jester entities
+
+The Werewolf Game installment "What is Clown World?" describes Leary as one of the famous CIA-backed "hippies" whose grooming efforts drove the explosion in hard psychedelic use during the 1960s.[3] The article connects that popularization to widespread reports of encounters with jester-like beings on such substances, which it treats as contact with real entities of the [[astral-plane|astral realm]] rather than hallucinations.[3]
+
 ## References
 1. Badlands Brief — "On Ted Kaczynski and False Prophets", URL: https://badlands.substack.com/p/on-ted-kaczynski-and-false-prophets
+2. Badlands Brief — "The Werewolf Game - Hell On", URL: https://badlands.substack.com/p/the-werewolf-game-hell-on
+3. Badlands Brief — "The Werewolf Game - What is Clown World?", URL: https://badlands.substack.com/p/the-werewolf-game-what-is-clown-world

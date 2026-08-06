@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [medicine, physicians, h-1b, immigration, healthcare-workforce]
-sources: [raw/badlands-news-brief-09b.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-df1.md, raw/four-pillars-of-government-control.md, raw/the-decade-we-all-became-slaves.md, raw/the-inversion-of-health.md, raw/the-men-behind-the-curtain-part-4-2a8.md]
+sources: [raw/badlands-news-brief-09b.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-df1.md, raw/four-pillars-of-government-control.md, raw/the-decade-we-all-became-slaves.md, raw/the-inversion-of-health.md, raw/the-men-behind-the-curtain-part-4-2a8.md, raw/the-weaponization-of-our-food-supply.md]
 confidence: medium
 ---
 
@@ -61,3 +61,9 @@ In 1904 Simmons established the AMA's Council on Medical Education, ostensibly t
 The article argues the outcome created the pharmaceutical industry as it exists today, biasing M.D.s toward synthetic drug therapy and leaving them taught almost nothing about nutrition, wellness or disease prevention — studying disease rather than health.[7] It further contends the arrangement served [[eugenics|eugenic]] ends, with population control an unspoken element.[7]
 
 7. Badlands Brief — "The Men Behind the Curtain - Part 5", URL: https://badlands.substack.com/p/the-men-behind-the-curtain-part-4-2a8
+
+## Named among institutional gatekeepers on food chemistry
+
+In "The Weaponization of Our Food Supply," [[ryan-delarme|Ryan DeLarme]] grouped the AMA with the [[food-and-drug-administration|FDA]] and the chemical and pharmaceutical companies — along with the colleges and media outlets they fund — as institutions "all too willing" to provide the public a comfortable numbing of reality when confronted with inconvenient findings about additives such as [[fluoride]].[8] He urged readers to cross-reference claims themselves and to observe how divided the medical and scientific communities actually are on such topics.[8]
+
+8. Badlands Brief — "The Weaponization of Our Food Supply", URL: https://badlands.substack.com/p/the-weaponization-of-our-food-supply

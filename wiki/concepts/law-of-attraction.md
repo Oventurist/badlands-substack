@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [metaphysics, occultism, consciousness, badlands-media]
-sources: [raw/the-extraordinary-power-of-digital.md]
+sources: [raw/the-extraordinary-power-of-digital.md, raw/the-white-pill-emporium-part-2.md]
 confidence: low
 ---
 
@@ -32,3 +32,9 @@ The essay also uses the CTMU's distinction between physical proximity and lingui
 
 ## References
 1. Badlands Brief — "The Extraordinary Power of Digital Soldiers", URL: https://badlands.substack.com/p/the-extraordinary-power-of-digital
+
+## Explanation offered in the White Pill Emporium
+
+Part 2 of [[the-white-pill-emporium|The White Pill Emporium]] (2 November 2024) argues that the law of attraction, together with synchronicity, is a real phenomenon whose true source is that the universe is alive and "hears you" when a person gets close enough to it.[2] [[american-hypnotist|American Hypnotist]] rests the claim on personal experience, the testimony of dozens of people, and what he describes as logical support from the [[cognitive-theoretic-model-of-the-universe|CTMU]], the most advanced formulation of metaphysics available.[2] The essay presents academic [[materialism|materialism]] as having cut people off from this source of power, asserting that one will never master the material realm by looking for power only in matter.[2]
+
+2. Badlands Brief — "The White Pill Emporium - Part 2: Divine Intervention, Q and the CTMU", URL: https://badlands.substack.com/p/the-white-pill-emporium-part-2

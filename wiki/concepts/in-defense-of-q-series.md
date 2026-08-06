@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [qanon, badlands-media, american-hypnotist, commentary]
-sources: [raw/in-defense-of-q-we-were-never-told.md]
+sources: [raw/in-defense-of-q-we-were-never-told.md, raw/the-white-pill-emporium-part-1.md]
 confidence: high
 ---
 
@@ -45,3 +45,8 @@ The author recommended ['Q for Dummies'](https://badlands.substack.com/p/q-for-d
 ## References
 
 1. Badlands Brief — "In Defense of Q - We Were Never Told to Sit Still", URL: https://badlands.substack.com/p/in-defense-of-q-we-were-never-told
+2. Badlands Brief — "The White Pill Emporium - Part 1: The Artificial Confusion of the Modern World", URL: https://badlands.substack.com/p/the-white-pill-emporium-part-1
+
+## Succession by The White Pill Emporium
+
+In Part 1 of [[the-white-pill-emporium|The White Pill Emporium]], published 22 October 2024, the author reported that much of the material for the In Defense of Q series had undergone dramatic change in recent months owing to the mind-boggling pace of the news, and that he tries not to waste readers' time by publishing anything that is not timely and practical.[2] He presented the Emporium as "something new and improved," a successor series intended primarily for anons familiar with [[q-operation|Q]] and [[devolution|Devolution]] but containing something for anyone willing to read and listen in good faith.[2] He noted that several themes from the earlier work would be deliberately reiterated, on the reasoning that repeated exposure to certain ideas helps train the subconscious mind to recognise patterns.[2]

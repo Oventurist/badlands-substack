@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [foreign-policy, doctrine, deterrence, trump, reagan]
-sources: [raw/badlands-news-brief-c9b.md]
+sources: [raw/badlands-news-brief-c9b.md, raw/trump-doctrine-peace-through-space.md]
 confidence: high
 ---
 
@@ -26,5 +26,10 @@ On the same day, [[kristi-noem|Kristi Noem]] deployed the identical framing in *
 
 Badlands writer [[burning-bright|Burning Bright]] read the simultaneous publication of the O'Brien and Noem essays as evidence of deliberate narrative coordination rather than coincidence, describing two "cameos" pushing aside the usual pundits to launch parallel and intersecting narratives carrying peacemaker themes the Truth Community had forwarded for years. In this reading the audience has reached "the assisted reading point of the narrative," and coordination equals control.[1] The underlying logic is stated plainly: in order to make peace, one must first have the threat of war — "not far-off, not hypothetical," but direct, immediate and seemingly inevitable — and the only thing warmongers hate more than peace itself is those with the strength and foresight to bring it about.[1]
 
+## Trump Doctrine: Peace Through Space
+
+"[[trump-doctrine-peace-through-space|Trump Doctrine: Peace Through Space]]" defines Peace Through Strength as a foreign policy focused on maintaining strong military and defense capabilities to avoid war, preserve peace and deter enemies, adopted by only a handful of American presidents including Washington, [[donald-trump|Trump]] and most notably [[ronald-reagan|Reagan]].[2] The Reagan Doctrine rested on support of freedom for all people, and Reagan's commitment to peace through strength led to the modernization of US military forces in the hope that new military initiatives "would not only contain communism but defeat it."[2] The phrase appears five unique times in the [[qanon|Q]] corpus and is best illustrated, in the author's view, by drop #1350, whose closing use of the phrase after a reference to a network of united men and women signals a non-kinetic, non-violent solution — better understood as a [[counterinsurgency|counterinsurgency]] than as the military alone.[2] The article asks whether Trump's $2.2 trillion military spending, the Space Force and the elevation of Cyber Command were really meant to prolong the eighty-year kinetic stalemate or to end it altogether.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Korean Borders, Warmongers & Peacemakers", URL: https://badlands.substack.com/p/badlands-news-brief-c9b
+2. Badlands Brief — "Trump Doctrine: Peace Through Space", URL: https://badlands.substack.com/p/trump-doctrine-peace-through-space

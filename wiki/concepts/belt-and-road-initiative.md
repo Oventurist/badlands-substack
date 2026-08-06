@@ -1,10 +1,10 @@
 ---
-title: Belt and Road Initiative
+title: "Belt and Road Initiative"
 created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [china, infrastructure, bri, development, multipolar]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-re-alignment-of-world-systems.md, raw/and-iran-iran-so-far-away.md, raw/avoiding-wwiii.md, raw/badlands-news-brief-6f0.md, raw/brics-vs-the-wef.md, raw/defeating-the-depopulation-agenda.md, raw/shared-interests.md, raw/the-battle-over-closed-vs-open-systems.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-re-alignment-of-world-systems.md, raw/and-iran-iran-so-far-away.md, raw/avoiding-wwiii.md, raw/badlands-news-brief-6f0.md, raw/brics-vs-the-wef.md, raw/defeating-the-depopulation-agenda.md, raw/shared-interests.md, raw/the-battle-over-closed-vs-open-systems.md, raw/understanding-the-soul-of-china.md, raw/which-foreign-policy-play-for-the.md]
 confidence: medium
 ---
 
@@ -86,3 +86,17 @@ Lange also identified Belt and Road as the reason China's [[cips|CIPS]] payment 
 He further notes that China and Russia have increasingly merged the Belt and Road Initiative with the [[eurasian-economic-union|Eurasian Economic Union]], and that the [[polar-silk-road|Polar Silk Road]] has extended the traditionally east-west development corridor into the Arctic.[9] Although tensions have been inflamed to schism China and India from cooperating directly on the BRI, India's embrace of [[russian-far-east-development-plan|Russian Far East development]] investments is described as a non-linear flank capable of bringing the two Asian giants into harmony.[9]
 
 9. Badlands Brief — "The Battle over Closed vs. Open Systems", URL: https://badlands.substack.com/p/the-battle-over-closed-vs-open-systems
+
+## Claimed origins in Sun Yat-sen's design
+
+[[matthew-ehret|Matthew Ehret]] argues that the Belt and Road Initiative realizes the grand design set out by [[sun-yat-sen|Sun Yat-sen]] in [[the-international-development-of-china|The International Development of China]], whose detailed map of proposed rail corridors he says "has finally come to life" as the New Silk Road.[10] He writes that programs taken directly from that work have become reality under [[xi-jinping|Xi Jinping]], and that the initiative, tied to large-scale public works, has increased the standards of living of over a billion people.[10]
+
+Ehret presents this as a living example of the same principle of national economic planning that made [[abraham-lincoln|Lincoln]], Sun Yat-sen and [[franklin-d-roosevelt|FDR]] threats to what he calls the international cabal of oligarchs.[10]
+
+10. Badlands Brief — "Understanding the Soul of China", URL: https://badlands.substack.com/p/understanding-the-soul-of-china
+
+## Nineteenth-century antecedents
+
+[[matthew-ehret|Matthew Ehret]] presents the Belt and Road Initiative as the revival of [[william-gilpin|William Gilpin]]'s 1890 vision in [[cosmopolitan-railway|The Cosmopolitan Railway]] of a world of cooperating sovereign nation states linked by development corridors.[11] He argues that contemporary critics of the initiative reproduce the error of [[alfred-thayer-mahan|Alfred Thayer Mahan]], who insisted that "a railway competes in vain with a river" and could not comprehend that the returns on rail investment are qualitative rather than merely monetary — uniting divided peoples, expanding manufacturing and industrial corridors and raising national productive powers.[11] Ehret writes that the initiative, together with the strategic friendship established between Russia and China, has re-awakened Gilpin's forgotten vision and offers the framework for the Multipolar Alliance now taking shape.[11]
+
+11. Badlands Brief — "Which Foreign Policy Play for the USA?", URL: https://badlands.substack.com/p/which-foreign-policy-play-for-the

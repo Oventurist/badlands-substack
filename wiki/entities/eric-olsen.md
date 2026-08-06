@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [litigation, colorado, fourteenth-amendment, ballot-access]
-sources: [raw/badlands-news-brief-948.md, raw/beyond-absurdity.md]
+sources: [raw/badlands-news-brief-948.md, raw/beyond-absurdity.md, raw/trials-tribulations-and-a-long-train.md]
 confidence: low
 ---
 
@@ -22,6 +22,11 @@ Olsen appeared alongside [[jason-murray|Jason Murray]] for the petitioners at th
 
 One justice told Olsen he was placing too much weight on a single statutory reference to "qualified candidate," and several justices picked apart his arguments while others appeared sympathetic.[2] On the insurrection question he maintained that Wallace's civil-court criminal-style finding of intentional incitement must stand.[2] Closing, Olsen declared, "The Constitution, as we've discussed, is just a document," a remark [[ashe-in-america|Ashe in America]] read as revealing disdain for the will of the people.[2]
 
+## Doxxing allegation
+
+Badlands writer [[ashe-in-america|Ashe in America]], a Colorado voter who followed the state's ballot-access litigation closely, wrote in January 2024 that she had been doxxed by petitioners' counsel Eric Olsen, a former senior solicitor in the Colorado Attorney General's office, during the trial court proceedings in [[anderson-v-griswold|Anderson v. Griswold]].[3]
+
 ## References
 1. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
 2. Badlands Media — "Beyond Absurdity", URL: https://badlands.substack.com/p/beyond-absurdity
+3. Badlands Media - "Trials, Tribulations & a Long Train of Abuses", URL: https://badlands.substack.com/p/trials-tribulations-and-a-long-train

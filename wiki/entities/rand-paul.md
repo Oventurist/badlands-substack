@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, republican-party, kentucky, oversight]
-sources: [raw/badlands-brief-144.md, raw/badlands-brief-414.md, raw/badlands-brief-67a.md, raw/badlands-brief-be1.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-7ce.md, raw/badlands-news-brief-8f1.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-dd8.md]
+sources: [raw/badlands-brief-144.md, raw/badlands-brief-414.md, raw/badlands-brief-67a.md, raw/badlands-brief-be1.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-7ce.md, raw/badlands-news-brief-8f1.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-dd8.md, raw/transparency-and-prosecution.md]
 confidence: medium
 ---
 
@@ -83,3 +83,11 @@ Paul was the Republican sponsor of a bipartisan Senate joint resolution to repea
 10. Badlands News Brief — "Dictators, Sovereigns and Bipartisan Peace", URL: https://badlands.substack.com/p/badlands-news-brief-8f1
 11. Badlands Brief — "Bogus Visas, Brazilian Sanctions, and Foreign Boat Battles", URL: https://badlands.substack.com/p/badlands-news-brief-bd7
 12. Badlands Brief — "Badlands News Brief: Quick Reaction Forces, Still Unexplained Anomalies, N-Word Options", URL: https://badlands.substack.com/p/badlands-news-brief-dd8
+
+## Opposition to arming the Syrian rebels
+
+The Badlands Media feature "Transparency and Prosecution" credits Paul with publicly taking on Senator [[john-mccain|John McCain]] over the funding of Syrian fighters, refusing to accept the claim that the armed opposition consisted of moderates.[13] Paul's argument, as summarized in the article by way of Reason, was that arming the Syrian rebels is not categorically different from arming [[isis|ISIS]], because those weapons eventually reach ISIS hands anyway.[13]
+
+McCain, unaccustomed to being challenged, was visibly flustered; while criticizing Paul on Sean Hannity's program he slipped and implied that he had met with ISIS, when he had meant to vouch for the [[free-syrian-army|Free Syrian Army]].[13] The author treats the gaffe as an unintended admission.[13]
+
+13. Badlands Brief — "Transparency and Prosecution", URL: https://badlands.substack.com/p/transparency-and-prosecution

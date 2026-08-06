@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [iraq, iran, militia, terrorism, badlands-brief]
-sources: [raw/badlands-brief-3d4.md, raw/badlands-news-brief-53d.md]
+sources: [raw/badlands-brief-3d4.md, raw/badlands-news-brief-53d.md, raw/trump-cuts-the-head-off-the-snake.md]
 confidence: low
 ---
 
@@ -23,3 +23,9 @@ On 25 December 2023, Kataib Hezbollah and affiliated groups operating under an u
 ## References
 1. Badlands Brief — "Canadian Separatists & Guerilla Campaigns", URL: https://badlands.substack.com/p/badlands-brief-3d4
 2. Badlands Brief — "Badlands News Brief: Ramaswamy Takes Stock and the War Machine Rumbles", URL: https://badlands.substack.com/p/badlands-news-brief-53d
+
+## December 2019 confrontation with the United States
+
+On December 29, 2019 the United States carried out five airstrikes in [[iraq|Iraq]] and Syria on facilities controlled by Kataib Hezbollah, killing at least 25 people and wounding 51, in the first significant American military response to weeks of deadly rocket attacks by the Iran-backed group on US-Iraqi targets.[3] Two days later demonstrators — mostly from the [[popular-mobilization-forces|Popular Mobilization Units]] — attacked the [[2019-baghdad-embassy-attack|US embassy in Baghdad]], with Kataib Hezbollah leader [[abu-mahdi-al-muhandis|Abu Mahdi al-Muhandis]] among three militia leaders seen at the protest.[3] Although the militia formally sits under the control of Iraq's prime minister, most observers regard it as maintaining strong links to [[iran|Iran]] and its security forces, from which it receives funding, support and direction.[3] Al-Muhandis was killed alongside [[qasem-soleimani|Qasem Soleimani]] in the American drone strike near Baghdad International Airport on 3 January 2020.[3]
+
+3. Badlands Brief — "Trump Cuts the Head off the Snake", URL: https://badlands.substack.com/p/trump-cuts-the-head-off-the-snake

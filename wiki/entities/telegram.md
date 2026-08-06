@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [social-media, encryption, censorship, free-speech, europe]
-sources: [raw/badlands-news-brief-7b7.md, raw/badlands-news-brief-b5f.md, raw/reset-the-space-reset-society.md, raw/the-deep-state-has-already-lost.md, raw/the-great-american-restoration-tour-1af.md]
+sources: [raw/badlands-news-brief-7b7.md, raw/badlands-news-brief-b5f.md, raw/reset-the-space-reset-society.md, raw/the-deep-state-has-already-lost.md, raw/the-great-american-restoration-tour-1af.md, raw/the-tiktok-ban.md, raw/the-multinational-offensive-against.md]
 confidence: medium
 ---
 
@@ -44,3 +44,14 @@ Carlson argued the geographic distribution of the platform explains the target: 
 [[badlands-media|Badlands Media]] used Telegram as the community layer for its [[great-american-restoration-tour|Great American Restoration Tour]] events: purchasers of virtual tickets to [[gart-6-myrtle-beach|GART 6]] in Myrtle Beach received a direct invitation to an exclusive "GART: Myrtle" Telegram chat where they could interact with other virtual and in-person attendees and with speakers both before and after the November 2024 event.[5] The network said the chat would go live closer to the event dates and that invitations would be emailed automatically alongside stream links.[5]
 
 5. Badlands Brief — "The Great American Restoration Tour Continues!", URL: https://badlands.substack.com/p/the-great-american-restoration-tour-1af
+6. Badlands Brief — "The TikTok Ban", URL: https://badlands.substack.com/p/the-tiktok-ban
+
+## Named in the Moscow attack narrative (March 2024)
+
+Writing in April 2024, [[erik-carlson|Erik Carlson]] noted that the terrorists blamed for the March 22, 2024 [[crocus-city-hall-attack|attack on a Moscow concert hall]] were reported to have received their orders on Telegram, "a social media site owned by a Russian."[6] He treated that reporting as a possible pretext-in-the-making, arguing that the campaign to ban or force the sale of [[tiktok|TikTok]] was setting a precedent that could next be applied to Telegram, [[twitter|X]] and even [[truth-social|Truth Social]], producing an information blackout ahead of the 2024 elections.[6] Carlson placed Telegram in a pattern of platforms outside American establishment control — TikTok owned by the Chinese, Telegram by a Russian, and X by [[elon-musk|Elon Musk]] — arguing that [[vladimir-putin|Vladimir Putin]], [[xi-jinping|Xi Jinping]], Musk and [[donald-trump|Donald Trump]] were now aligned against the [[deep-state|Deep State]].[6]
+
+## A bastion for alternative media and the 2024 crackdown
+
+[[ryan-delarme|Ryan DeLarme]] wrote that Telegram had become a bastion for many of the most effective voices in the alternative and independent media space to communicate with their audiences and with each other, adding from personal experience that much of alt-media networking takes place on the platform — making it little wonder it would be targeted.[7] The arrest of founder [[pavel-durov|Pavel Durov]] in France on August 24, 2024 rested on a theory that the operator of a social media platform can be criminally liable for the criminal acts of anybody who uses it, and included counts over [[end-to-end-encryption|cryptology services]] provided without certified declaration.[7] In the wake of the arrest Durov announced that Telegram would radically change all of its rules, bolster content moderation, and comply with all government orders.[7] DeLarme also noted that [[ukraine|Ukraine]] moved to limit Telegram's use within the country during the same period in which [[turkey|Turkey]] and [[russia|Russia]] banned [[discord|Discord]].[7]
+
+7. Badlands Brief — "The Multinational Offensive Against Free Speech Online", URL: https://badlands.substack.com/p/the-multinational-offensive-against

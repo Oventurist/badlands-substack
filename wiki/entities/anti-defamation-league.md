@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ngo, watchdog, censorship, advertising-pressure]
-sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-b53.md, raw/badlands-news-brief-b7b.md, raw/badlands-news-brief-f0b.md, raw/from-ye-to-oy-vey.md, raw/the-anti-dissent-league.md, raw/the-deep-states-attempt-to-destroy.md, raw/the-covfefe-dig.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-b53.md, raw/badlands-news-brief-b7b.md, raw/badlands-news-brief-f0b.md, raw/from-ye-to-oy-vey.md, raw/the-anti-dissent-league.md, raw/the-deep-states-attempt-to-destroy.md, raw/the-covfefe-dig.md, raw/the-multinational-offensive-against.md]
 confidence: medium
 ---
 
@@ -120,3 +120,9 @@ Musk separately accused the ADL of "strong-arming" companies out of advertising 
 10. Badlands Brief — "The Anti-Dissent League", URL: https://badlands.substack.com/p/the-anti-dissent-league
 11. Badlands Brief — "The Deep State's Attempt to Destroy Elon Musk", URL: https://badlands.substack.com/p/the-deep-states-attempt-to-destroy
 12. Badlands Brief — "The COVFEFE Dig", URL: https://badlands.substack.com/p/the-covfefe-dig
+
+## Advertiser flight from X (2024)
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] attributed part of the sharp decline in [[x-corp|X]]'s valuation after [[elon-musk|Elon Musk]]'s $44 billion acquisition to the exodus of corporate advertisers, writing that many fled the platform out of fear of the ADL and similar organizations that have been targeting X.[13] In his account, that advertiser flight — combined with the loss of the Brazilian market during the [[supremo-tribunal-federal|Supremo Tribunal Federal]]'s ban — created the financial pressure that ultimately forced Musk to comply with Justice [[alexandre-de-moraes|Alexandre de Moraes]]'s censorship orders.[13]
+
+13. Badlands Brief — "The Multinational Offensive Against Free Speech Online", URL: https://badlands.substack.com/p/the-multinational-offensive-against

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [trump, florida, 2024-election, venue]
-sources: [raw/all-assets-deployed.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-news-brief-228.md, raw/the-master-builder.md]
+sources: [raw/all-assets-deployed.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-news-brief-228.md, raw/the-master-builder.md, raw/unveiling-the-mar-a-lago-raid-1-year.md]
 confidence: medium
 ---
 
@@ -50,3 +50,9 @@ Badlands commentary on the August 2023 SCIF dispute stressed that special counse
 Badlands Media's "The Master Builder" (February 2, 2023) reports that [[jared-kushner|Jared Kushner]] was credited with arranging an April 2017 summit between [[xi-jinping|Xi Jinping]] and [[donald-trump|Donald Trump]] at Mar-a-Lago.[5] [[joe-lange|Joe Lange]] emphasizes that the property is outfitted with a [[sensitive-compartmented-information-facility|Sensitive Compartmented Information Facility]], meaning the two leaders would have had no difficulty communicating in private — a point central to the article's claim that Beijing sought a channel to Trump beyond the reach of the [[deep-state|Deep State]].[5]
 
 5. Badlands Media — "The Master Builder", URL: https://badlands.substack.com/p/the-master-builder
+
+## The August 2022 FBI search
+
+On August 8, 2022, the [[fbi|Federal Bureau of Investigation]] descended on the Mar-a-Lago estate to execute a search warrant authorised by Attorney General [[merrick-garland|Merrick Garland]] and approved by Magistrate Judge [[bruce-reinhart|Bruce Reinhart]], following a referral from the [[national-archives-and-records-administration|National Archives and Records Administration]].[6] The redacted affidavit later described boxes shuffling in and out of the property's halls while the [[department-of-justice|Justice Department]] observed, and concluded that classified documents had been deliberately concealed and removed there.[6] The estate subsequently became the factual centre of the [[2023-trump-classified-documents-indictment|37-count indictment]] of [[donald-trump|Donald Trump]] and, through the July 27, 2023 superseding indictment, of estate staff [[walt-nauta|Walt Nauta]] and [[carlos-de-oliveira|Carlos De Oliveira]].[6] [[alpha-warrior|Alpha Warrior]]'s one-year retrospective on the [[mar-a-lago-raid|raid]] treated it as a defining episode in what he called the erosion of America.[6]
+
+6. Badlands Brief — "Unveiling the Mar-a-Lago Raid – 1 Year Delta", URL: https://badlands.substack.com/p/unveiling-the-mar-a-lago-raid-1-year

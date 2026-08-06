@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [iraq, middle-east, militias, sovereignty, iran]
-sources: [raw/badlands-brief-414.md, raw/badlands-brief-5a2.md, raw/badlands-brief-98d.md, raw/badlands-brief-dc6.md, raw/badlands-brief-db7.md, raw/badlands-brief-ea5.md]
+sources: [raw/badlands-brief-414.md, raw/badlands-brief-5a2.md, raw/badlands-brief-98d.md, raw/badlands-brief-dc6.md, raw/badlands-brief-db7.md, raw/badlands-brief-ea5.md, raw/trump-cuts-the-head-off-the-snake.md]
 confidence: medium
 ---
 
@@ -53,3 +53,11 @@ In April 2026 Iraq was reported to be seeking to revive the long-idled [[iraq-sa
 4. Badlands Brief — "Iraqi Purge and Iranian Conspiracy", URL: https://badlands.substack.com/p/badlands-brief-dc6
 5. Badlands Brief — "Backpedaling Despots, Mid-East Madness, & Not So Rare Earths", URL: https://badlands.substack.com/p/badlands-brief-db7
 6. Badlands Brief — "Criminal Referrals & Big, Fat Hugs", URL: https://badlands.substack.com/p/badlands-brief-ea5
+
+## In "Trump Cuts the Head off the Snake"
+
+Joe Lange's account of the transformation of the Middle East treats Iraq as the arena in which the confrontation between [[donald-trump|Trump]] and [[iran|Iran]] came to a head, stressing a chain of connections running Iraq–Iran–[[hezbollah|Hezbollah]].[7] After American airstrikes on 29 December 2019 against [[kataib-hizballah|Kataib Hezbollah]] facilities in Iraq and Syria, Baghdad warned that its relations with Washington were at risk, with officials accusing the United States of acting without sufficient evidence, violating Iraqi sovereignty and threatening the country's security.[7] Demonstrators drawn mostly from the [[popular-mobilization-forces|Popular Mobilization Units]] then carried out the [[2019-baghdad-embassy-attack|attack on the US embassy in Baghdad]], and questions were raised as to whether Iraqi forces had allowed them to reach the heavily restricted compound.[7]
+
+Trump emphasised to Prime Minister [[adil-abdul-mahdi|Adil Abdul-Mahdi]] that Iraq bore responsibility for protecting the embassy and its personnel.[7] On 3 January 2020 the United States killed [[qasem-soleimani|Qasem Soleimani]] and [[abu-mahdi-al-muhandis|Abu Mahdi al-Muhandis]] near Baghdad International Airport, where Soleimani had arrived to meet the same prime minister.[7] The article notes that around 5,000 American troops were based in Iraq at the time and that the [[quds-force|Quds Force]] had trained Iraqi militants in the use of explosively formed penetrators that killed 196 US troops over the preceding decade.[7]
+
+7. Badlands Brief — "Trump Cuts the Head off the Snake", URL: https://badlands.substack.com/p/trump-cuts-the-head-off-the-snake

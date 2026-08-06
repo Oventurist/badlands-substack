@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [supreme-court, abortion, federalism, states-rights]
-sources: [raw/badlands-news-brief-670.md, raw/badlands-news-brief-f53.md, raw/power-to-the-people.md, raw/the-accomplishments-of-president.md]
+sources: [raw/badlands-news-brief-670.md, raw/badlands-news-brief-f53.md, raw/power-to-the-people.md, raw/the-accomplishments-of-president.md, raw/whats-taking-so-long.md]
 confidence: medium
 ---
 
@@ -37,3 +37,9 @@ Badlands Media's 2023 survey of [[donald-trump|President Donald Trump]]'s accomp
 In an April 8, 2024 video posted to Truth Social, former President [[donald-trump|Donald Trump]] said he was "proudly the person responsible" for the Supreme Court's overturning of Roe, which he said took abortion "out of the federal hands and brought it into the hearts, minds, and vote of the people in each state."[2] He used the reversal as the basis for declining to endorse a federal ban, arguing the states should determine policy by vote or legislation — a position denounced by a major anti-abortion rights organization as insufficient.[2] Badlands commentators treated the episode as a test of federalism: [[burning-bright|Burning Bright]] argued Trump had not solved the problem but returned it to "the free market battlefield," removing the ability of activists to default to "Muh Roe v. Wade."[2] See [[2024-trump-abortion-states-position|2024 Trump abortion position statement]].[2]
 3. Badlands Brief — "Power to the People", URL: https://badlands.substack.com/p/power-to-the-people
 4. Badlands Brief — "The Accomplishments of President Trump - Part 1", URL: https://badlands.substack.com/p/the-accomplishments-of-president
+
+## Cited in Lange's counterinsurgency argument (December 2022)
+
+[[joe-lange|Joe Lange]] listed the overturning of Roe v. Wade among a run of court victories he described as monumental, presenting them as evidence that popular support was being built for the judiciary as guardian of the rule of law.[5] He further argued that the absence of any organized resistance to the decision — despite its being leaked ahead of time — showed that the military had already infiltrated and hollowed out [[antifa|Antifa]] and [[black-lives-matter|BLM]].[5]
+
+5. Badlands Brief — "What's Taking So Long?", URL: https://badlands.substack.com/p/whats-taking-so-long

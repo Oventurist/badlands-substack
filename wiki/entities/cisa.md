@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cisa, dhs, cybersecurity, personnel, government]
-sources: [raw/badlands-brief-7ed.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-cba.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-ddb.md, raw/badlands-news-brief-f26.md, raw/badlands-news-brief-f54.md, raw/the-adulation-of-the-disinformation.md]
+sources: [raw/badlands-brief-7ed.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-cba.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-ddb.md, raw/badlands-news-brief-f26.md, raw/badlands-news-brief-f54.md, raw/the-adulation-of-the-disinformation.md, raw/watch-the-water-see-the-storm.md]
 confidence: medium
 ---
 
@@ -74,3 +74,11 @@ At the RSA Conference in April 2023, CISA and [[us-cyber-command|Cyber Command]]
 An April 2024 Badlands article by [[ryan-delarme|Ryan DeLarme]] identified the misinformation researcher [[kate-starbird|Kate Starbird]] as a member of CISA, presenting her as a leading example of the newly minted profession of [[disinformation-expert|"disinformation expert"]].[10] The article placed CISA within the broader [[censorship-industrial-complex|censorship industrial complex]], a network of organizations said to work directly with the federal government to stifle dissent deemed dangerous to the objectives of the U.S. security state, and noted that its personnel often first emerge from the government and typically from [[department-of-homeland-security|Homeland Security]], CISA's parent department.[10] Starbird's featured appearance on [[60-minutes|60 Minutes]], and the disclosure that [[twitter|Twitter]] honoured only about 30 percent of her content-removal requests, were cited as evidence of the agency-adjacent research apparatus's reach into platform moderation.[10]
 
 10. Badlands Brief — "The Adulation of the 'Disinformation Expert'", URL: https://badlands.substack.com/p/the-adulation-of-the-disinformation
+
+## Authority over water and other critical infrastructure sectors
+
+CISA's coordinating authority extends across all designated [[critical-infrastructure|critical infrastructure]] sectors, including water and wastewater systems, and the agency absorbed the functions of the Department of Homeland Security's [[ics-cert|Industrial Control Systems Cyber Emergency Response Team]].[11] [[mitre-corporation|MITRE]] personnel provide technical support to CISA alongside the National Institute of Standards and Technology and [[us-cyber-command|U.S. Cyber Command]].[11]
+
+At the February 6, 2024 hearing of the [[house-committee-on-homeland-security|House Homeland Security Committee]]'s Cybersecurity and Infrastructure Protection Subcommittee on [[operational-technology|operational technology]] in the water sector, [[kevin-morley|Kevin Morley]] named CISA as one of the agencies — with the [[environmental-protection-agency|EPA]] and the Army Corps of Engineers — whose collaboration would be needed to evaluate alternative water supply options.[11] Badlands contributor [[ashe-in-america|Ashe in America]] argued that because CISA is "in charge of all of it" — water, energy, banking, communications, and elections — the structural vulnerabilities described at the hearing invite the question of whether they are "a bug … or a feature."[11]
+
+11. Badlands Brief — "Watch the Water, See the Storm", URL: https://badlands.substack.com/p/watch-the-water-see-the-storm

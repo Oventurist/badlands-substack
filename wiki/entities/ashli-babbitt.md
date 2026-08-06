@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [january-6, capitol, badlands-news-brief]
-sources: [raw/badlands-news-brief-d06.md]
+sources: [raw/badlands-news-brief-d06.md, raw/the-president-that-never-was.md]
 confidence: medium
 ---
 
@@ -20,3 +20,10 @@ Babbitt's death is treated in that commentary as part of a broader indictment of
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Hunter Hunted, Wray Relents & Wokeness Weakens", URL: https://badlands.substack.com/p/badlands-news-brief-d06
+
+
+## Cited in rebuttals to Biden's Valley Forge speech
+
+Responding to [[joe-biden|Joe Biden]]'s January 2024 [[biden-valley-forge-speech|Valley Forge speech]] and its account of [[united-states-capitol-police|Capitol Police]] testimony describing January 6 as a "medieval battle," [[ryan-delarme|Ryan DeLarme]] argued that no protester wielded a weapon inside the Capitol and that the only people to discharge a firearm that day were Capitol Police, who shot [[donald-trump|Trump]] supporter Ashli Babbitt.[2]
+
+2. Badlands Brief — "The President That Never Was", URL: https://badlands.substack.com/p/the-president-that-never-was

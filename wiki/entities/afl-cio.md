@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [labor, afl-cio, cold-war, cia, democracy-promotion]
-sources: [raw/a-more-perfect-labor-union.md]
+sources: [raw/a-more-perfect-labor-union.md, raw/two-wings-one-ugly-bird.md]
 confidence: medium
 ---
 
@@ -36,3 +36,9 @@ Scandals in the 1960s — exposed by Ramparts magazine and a 1967 New York Times
 
 ## References
 1. Badlands Brief — "A More Perfect (Labor) Union", URL: https://badlands.substack.com/p/a-more-perfect-labor-union
+
+## Solidarity Center connection
+
+"Two Wings, One Ugly Bird" notes that the [[solidarity-center|Solidarity Center]], officially the American Center for International Labor Solidarity, was launched in 1997 under the AFL-CIO banner and became another spoke in the [[usaid|USAID]]–[[national-endowment-for-democracy|NED]] wheel.[2] The article says the Center trained AFL-CIO rank-and-file leaders in organising techniques that aligned with Democratic Party priorities or Republican-friendly trade deals depending on the funder, keeping labour a loyal foot soldier of the two-party machine rather than a wild card.[2]
+
+2. Badlands Brief — "Two Wings, One Ugly Bird", URL: https://badlands.substack.com/p/two-wings-one-ugly-bird

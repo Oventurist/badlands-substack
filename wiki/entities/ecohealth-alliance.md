@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [covid-19, gain-of-function, funding, accountability]
-sources: [raw/badlands-news-brief-384.md, raw/badlands-news-brief-b6c.md, raw/behold-a-trojan-horse.md]
+sources: [raw/badlands-news-brief-384.md, raw/badlands-news-brief-b6c.md, raw/behold-a-trojan-horse.md, raw/the-whos-last-stand.md, raw/the-wuhan-lab-leak-hoax.md]
 confidence: medium
 ---
 
@@ -33,3 +33,17 @@ A May 2023 Badlands Media article, "Behold, a Trojan Horse," noted that EcoHealt
 1. Badlands Brief — "Badlands News Brief: Debates Set, Funding Found & NGO's Defied", URL: https://badlands.substack.com/p/badlands-news-brief-384
 2. Badlands Brief — "Manhatt-Insanity, Biden Gorillas & Muskian Moves", URL: https://badlands.substack.com/p/badlands-news-brief-b6c
 3. Badlands Brief — "Behold, a Trojan Horse", URL: https://badlands.substack.com/p/behold-a-trojan-horse
+
+## Origin of the "One Health" concept
+
+Badlands Media's "The WHO's Last Stand" reported that the term [[one-health|One Health]] — formally adopted by the [[world-health-organization|World Health Organization]] and the G20 health ministers in 2017 — was first coined by the executive vice president of EcoHealth Alliance.[4] The article underscored that this was the same firm that "appears to have had a hand in the creation of SARS-CoV-2," treating the overlap as evidence that the same names and institutions recur across both the origin of the pandemic and the governance framework built in its aftermath.[4]
+
+4. Badlands Brief — "The WHO's Last Stand", URL: https://badlands.substack.com/p/the-whos-last-stand
+
+5. Badlands Brief — "The Wuhan Lab Leak Hoax", URL: https://badlands.substack.com/p/the-wuhan-lab-leak-hoax
+
+## The "scanned receipts" controversy
+
+In "The Wuhan Lab Leak Hoax," [[matthew-ehret|Matthew Ehret]] notes that scanned receipts documenting the transfer of funds from [[anthony-fauci|Anthony Fauci's]] [[national-institutes-of-health|NIH]] to coronavirus research in China via EcoHealth Alliance — roughly $600,000 of which reached the [[wuhan-institute-of-virology|Wuhan Institute of Virology]] — had been publicly available since February 2021.[5]
+
+He argues that the delayed saturation of this material across the perception landscape more than four years later, driven by figures such as [[steve-bannon|Steve Bannon]], indicates a coordinated narrative push rather than fresh discovery, and that the receipts functioned as a "smoking gun" in the public mind precisely because no comparable documentary evidence surfaced for an alternative laboratory origin.[5]

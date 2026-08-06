@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [bitcoin, national-security, power-projection, space-force]
-sources: [raw/celebrating-15-years-of-indictments.md, raw/dont-bring-shiny-rocks-to-digital.md, raw/kekistani-code-talkers.md]
+sources: [raw/celebrating-15-years-of-indictments.md, raw/dont-bring-shiny-rocks-to-digital.md, raw/kekistani-code-talkers.md, raw/trust-the-plan.md, raw/trump-doctrine-peace-through-space.md]
 confidence: medium
 ---
 
@@ -35,7 +35,19 @@ The same essay extended Lowery's framework to the hazard of AI-generated text, a
 In the Badlands Brief article "Kekistani Code Talkers," the author connects Q's definition of the "stone" as the capability of projecting power directly to Softwar, remarking on the resonance between the two framings.[3] The thesis is invoked again in the conclusion, where Major [[jason-lowery|Jason Lowery]] is cited for the transition to a new war-fighting domain in space and for the national strategic significance of [[bitcoin|Bitcoin]].[3]
 
 
+## Trust-based law versus trust-less proof-of-work
+
+A July 11, 2024 Badlands Media essay on the exploitation of trust drew heavily on Softwar's treatment of the word, noting that the 400-page thesis, released February 18, 2023, contains the term "trust" 288 times.[4] It quoted Lowery's argument that law-based societies are inherently inegalitarian, creating a ruling class and a ruled class, and are "trust-based": they function only when the ruling class can be trusted not to exploit the ruled class, when people can be trusted to follow the rules, and when neighbouring societies can be trusted to sympathise with their neighbour's rules.[4] Because humans are the world's apex predator, Lowery contends, trusting a predator not to attack is not a good security strategy regardless of how energy-efficient and non-destructive it looks, so law-based structures are systemically insecure — "hence every corrupt or oppressive government to have ever existed" — and 5,000 years of written testimony shows they become dysfunctional over time.[4]
+
+The essay characterised Softwar as describing a new Schelling point in warfare produced by a peaceful, non-kinetic power projection technology ([[proof-of-work|proof-of-work]], [[bitcoin|Bitcoin]], "Bitpower") and the transition to space as the next warfighting domain, with the book supplying many examples of how this weapon can defend against different exploitations of trust.[4] Bitcoin is presented there as an electro-cyber security technology, a "macro-chip" whose implications reach far beyond money, and Softwar contends that its path-dependent nature and the risks of apathy or hostility make it a matter of national strategic significance — a book, in the essay's phrasing, on national security and on "digital 1776."[4]
+
+## Trump Doctrine: Peace Through Space
+
+*Softwar* is cited throughout "[[trump-doctrine-peace-through-space|Trump Doctrine: Peace Through Space]]" for its account of General [[billy-mitchell|Billy Mitchell]], demoted and court-martialed in the 1920s for insubordination after lambasting US Army, Navy and congressional leaders whose refusal to accept emerging theories of air power he called "near-treasonous" incompetence.[5] [[jason-lowery|Lowery]]'s broader argument — that nations which reject new Schelling points of war decline, that [[bitcoin|Bitcoin]] is a new Schelling point of non-kinetic warfare in cyber-space, and that an adapt-or-die arms race is underway in the space domain — supplies the theoretical spine of the article's hypothesis.[5]
+
 ## References
 1. Badlands Brief — "Celebrating 15 Years of Indictments and Justice!", URL: https://badlands.substack.com/p/celebrating-15-years-of-indictments
 2. Badlands Brief — "Don't Bring Shiny Rocks to Digital Gunfights", URL: https://badlands.substack.com/p/dont-bring-shiny-rocks-to-digital
 3. Badlands Brief — "Kekistani Code Talkers", URL: https://badlands.substack.com/p/kekistani-code-talkers
+4. Badlands Brief — "TRUST: The Plan", URL: https://badlands.substack.com/p/trust-the-plan
+5. Badlands Brief — "Trump Doctrine: Peace Through Space", URL: https://badlands.substack.com/p/trump-doctrine-peace-through-space

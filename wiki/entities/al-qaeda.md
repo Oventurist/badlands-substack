@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [al-qaeda, terrorism, afghanistan, libya, qatar]
-sources: [raw/a-conflict-of-interest.md, raw/a-dereliction-of-duty.md, raw/assad-day-in-damascus.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-dae.md, raw/badlands-news-brief-e44.md, raw/operation-cyclone-the-seeds-of-terror.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-dereliction-of-duty.md, raw/assad-day-in-damascus.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-dae.md, raw/badlands-news-brief-e44.md, raw/operation-cyclone-the-seeds-of-terror.md, raw/war-pigs.md, raw/who-is-the-real-enemy.md]
 confidence: medium
 ---
 
@@ -56,6 +56,10 @@ Al-Qaeda was formed in 1988; before its founding, [[osama-bin-laden|Osama bin La
 
 Badlands Media's account of [[operation-cyclone|Operation Cyclone]] holds that bin Laden's divisions were trained, armed and funded by the CIA with Pakistan's [[inter-services-intelligence|ISI]] acting as middleman, and that the Egyptian double agent [[ali-mohamed|Ali Mohamed]] — called "bin Laden's first trainer" by FBI agent Jack Cloonan — trained both bin Laden and Ayman al-Zawahiri, the organization's future leaders.8 On the night of [[september-11-attacks|September 11, 2001]], CIA Director [[george-tenet|George Tenet]] told President [[george-w-bush|George W. Bush]] at 9:30 PM that the agency's Counterterrorism Center had determined bin Laden and al-Qaeda were responsible — hours after Israeli official [[ehud-barak|Ehud Barak]] had already publicly attributed the attacks to "a kind of bin Laden organization."8
 
+## Motive suppression after 9/11
+
+In "War Pigs," Badlands Media argues that the federal order barring legacy news networks from airing interviews with [[osama-bin-laden|Osama bin Laden]] after the [[september-11-attacks|September 11 attacks]] was intended to prevent the public from discovering why groups such as al-Qaeda and the [[taliban|Taliban]] hate America so intensely.[9] The stated rationale — that bin Laden might signal sleeper cells — is dismissed by the publication in favour of the view that renewed scrutiny would have exposed decades of US-instigated violence in the Middle East as the driver of that hostility.[9]
+
 ## References
 1. Badlands Brief — "A Conflict of Interest", URL: https://badlands.substack.com/p/a-conflict-of-interest
 2. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
@@ -67,3 +71,12 @@ Badlands Media's account of [[operation-cyclone|Operation Cyclone]] holds that b
 7. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44
 
 8. Badlands Brief — "Operation Cyclone - The Seeds of Terror", URL: https://badlands.substack.com/p/operation-cyclone-the-seeds-of-terror
+9. Badlands Brief — "War Pigs", URL: https://badlands.substack.com/p/war-pigs
+
+## Origins in the CIA-funded Afghan mujahideen
+
+"Who Is The Real Enemy?" states that the [[bank-of-credit-and-commerce-international|BCCI]] was used to fund the [[mujahideen|Mujahideen]] in [[afghanistan|Afghanistan]], which would morph into Al Qaeda — the organization [[george-w-bush|George W. Bush]] would later declare public enemy number one.[10] The article treats this loop as evidence that "everything is connected": the same [[central-intelligence-agency|CIA]] money spigot that armed the fighters also produced the enemy used to justify the [[war-on-terror|war on terror]].[10]
+
+The WhoWhatWhy material quoted in the piece is drawn from a study titled "Creating an International Islamist Army: Casey, BCCI, and the Creation of al-Qaeda," linking [[william-casey|William Casey]]'s off-the-books Afghan campaign through [[pakistan|Pakistan]] to the network's emergence.[10] Badlands Media promises a further article on the connections between Pakistan, the CIA and Saudi Arabia that led to Al Qaeda's creation.[10]
+
+10. Badlands Brief — "Who Is The Real Enemy?", URL: https://badlands.substack.com/p/who-is-the-real-enemy

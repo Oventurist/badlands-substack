@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [globalism, world-economic-forum, technocracy]
-sources: [raw/a-look-at-recent-features-84d.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/ai-can-help-us-expose-the-nwo.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-news-brief-948.md, raw/dark-equation.md, raw/oppenheimer-and-the-central-narrative.md, raw/poison-fruit-of-the-decision-tree.md, raw/the-harvard-control-grid.md, raw/the-midas-touch.md]
+sources: [raw/a-look-at-recent-features-84d.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/ai-can-help-us-expose-the-nwo.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-news-brief-948.md, raw/dark-equation.md, raw/oppenheimer-and-the-central-narrative.md, raw/poison-fruit-of-the-decision-tree.md, raw/the-harvard-control-grid.md, raw/the-midas-touch.md, raw/trumps-2025-vision.md]
 confidence: low
 ---
 
@@ -67,3 +67,13 @@ In "Poison Fruit of the Decision Tree," [[justin-deschamps|Justin Deschamps]] de
 In "The Midas Touch," Joe Lange frames the Great Reset as the central front in a war over who controls real assets, arguing that whoever controls the assets will control the coming global reset.[10] He cites a [[world-economic-forum|World Economic Forum]] prediction, reported by *The Independent*, that within 13 years the culture of ownership will have changed dramatically and that by 2030 people will rent rather than own "stuff."[10] The "shared economy" branding, he writes, conceals the real mechanism: people will be unable to afford to buy anything and so will be forced to rent, while the planners own the assets and ordinary money loses its value.[10]
 
 Against this, Lange posits a rival "Trump's Great Reset" that would give power back to the people by restoring the [[gold-standard|gold standard]] and decentralizing the global debt system, replacing [[fiat-currency|fiat currency]] with money whose value cannot be inflated away.[10] He points to [[gold-repatriation|gold repatriation]], record [[central-bank-gold-buying|central bank gold buying]] and the [[bank-for-international-settlements|Bank for International Settlements]]' 2019 tier 1 reclassification of gold as evidence that a monetary reset of some kind is universally expected.[10]
+
+## Deschamps's long-arc account (June 2023)
+
+In "Trump's 2025 Vision," [[justin-deschamps|Justin Deschamps]] presented the Great Reset not as a recent initiative but as the terminal phase of a settlement-engineering program he dated to before the first industrial revolution.[11] On his account, planners worked systematically to drain rural, church-centered communities into large cities functioning as neo-feudal estates, expanded the pattern into centrally dependent suburbs during the twentieth century, and intend under the Great Reset to compact all of these forms into the [[15-minute-cities|15-minute city]] model.[11]
+
+Deschamps folded several other developments into the same program: mandatory mass vaccination policies and industrialist public-health philanthropy, the world's-fair and exposition tradition used to sell technological futures, and the [[green-revolution|Green Revolution]] of the 1940s onward, which he said supplied the low-cost labor pool underpinning free-trade [[globalism|globalism]].[11] He argued that the resulting destruction of traditional communities cleared the way for hypersexualized media producing a "soft" eugenics in which people self-select out of the gene pool.[11]
+
+He identified [[donald-trump|Donald Trump]]'s [[agenda-47|Agenda 47]], his ten proposed [[freedom-cities|Freedom Cities]], and his announced year-long celebration of the 250th anniversary of American independence — including a "Great American State Fair" — as a deliberate counter-programming effort, a "white-hat America First World Fair" designed to make the Great Reset's transhumanist vision appear self-evidently absurd.[11]
+
+11. Badlands Brief — "Trump's 2025 Vision [Updated]", URL: https://badlands.substack.com/p/trumps-2025-vision

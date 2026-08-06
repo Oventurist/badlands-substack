@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [congress, gop, maga, speaker, mike-johnson]
-sources: [raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-254.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-c07.md, raw/badlands-news-brief-d73.md, raw/badlands-news-brief-e96.md, raw/badlands-news-brief-ff6.md, raw/right-the-ship.md, raw/the-chosen-one.md, raw/the-overdrive-timeline.md]
+sources: [raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-254.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-c07.md, raw/badlands-news-brief-d73.md, raw/badlands-news-brief-e96.md, raw/badlands-news-brief-ff6.md, raw/right-the-ship.md, raw/the-chosen-one.md, raw/the-overdrive-timeline.md, raw/the-schedule-f-imperative-part-1.md]
 confidence: high
 ---
 
@@ -124,3 +124,11 @@ He argued that the vote was purposely delayed so that McCarthy's election came j
 Badlands Media contributor Erik Carlson wrote in March 2023 that the decisive moment of the contest was not [[kevin-mccarthy|Kevin McCarthy]]'s victory but his agreement on Saturday 7 January 2023 to the concessions that won him the gavel on the fifteenth round of voting.[14] He treated that date as the point at which events "went into overdrive," explicitly rejecting earlier candidate turning points such as [[elon-musk|Elon Musk]]'s Twitter bid, the Mar-a-Lago raid, the November 2022 midterms and the first release of the [[twitter-files|Twitter Files]].[14] Carlson also noted a [[qanon|Q]] post dated 1/7/18 containing "win" and "15" in brackets, leaving readers to interpret the correspondence with the fifteen-ballot outcome.[14] The substance of the agreement is catalogued in the [[january-2023-mccarthy-concessions|January 2023 McCarthy concessions]].[14]
 
 14. Badlands Brief — "The Overdrive Timeline", URL: https://badlands.substack.com/p/the-overdrive-timeline
+
+## White: the Speaker fight as an application of Schedule F
+
+Badlands contributor [[j-b-white|J.B. White]] argued in March 2023 that a discerning eye could see "the dramatic application of [[schedule-f|Schedule F]]" in the fight over the speakership.[15] Immediately after [[kevin-mccarthy|Kevin McCarthy]]'s selection, White tweeted that [[donald-trump|Trump]] "won this for McCarthy and in doing so empowered the [[house-freedom-caucus|Freedom Caucus]]," tagging the post #MAGA and [[nothing-can-stop-what-is-coming|#NCSWIC]].[15] Commentator Pasquale "Pat" Scopelliti replied that the tweet had solved a "YUGE problem" for him by finally explaining why Trump had backed McCarthy; White noted that Scopelliti had since died.[15]
+
+White contrasted his reading with the account offered by [[american-conservative-union|American Conservative Union]] chairman [[matt-schlapp|Matt Schlapp]], quoted in an NPR article titled "Recent infighting raises the question: How conservative is the GOP?", which attributed the twenty-member holdout to fiscal conservatives rejecting the [[mitch-mcconnell|Mitch McConnell]] Senate strategy and to Republicans lacking "the stomach to reduce federal spending."[15] White dismissed that as conventional wisdom, arguing the members were controlled opposition within the [[uniparty|UniParty]].[15]
+
+15. Badlands Brief — "The Schedule F Imperative - Part 1", URL: https://badlands.substack.com/p/the-schedule-f-imperative-part-1

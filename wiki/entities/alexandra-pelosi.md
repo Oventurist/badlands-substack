@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [documentary-filmmaker, pelosi-family, media]
-sources: [raw/badlands-news-brief-8f3.md]
+sources: [raw/badlands-news-brief-8f3.md, raw/tucker-twitter-and-the-truth-community.md]
 confidence: medium
 ---
 
@@ -18,3 +18,8 @@ The claim was subsequently contradicted by the [[archdiocese-of-san-francisco|Ar
 
 ## References
 1. Badlands Brief — "Badlands News Brief: FBI Charges, Exorcisms and ... Woke M&M's?", URL: https://badlands.substack.com/p/badlands-news-brief-8f3
+2. Badlands Brief — "Tucker, Twitter, and the Truth Community", URL: https://badlands.substack.com/p/tucker-twitter-and-the-truth-community
+
+## Unreleased January 6 footage
+
+[[ashe-in-america|Ashe in America]] wrote in August 2023 that Pelosi, the filmmaker daughter of Speaker [[nancy-pelosi|Nancy Pelosi]], was present and rolling throughout January 6, but that the raw footage — along with her phone records and any other documentation — has never been released.[2] The only material her mother produced in response to questions about the day, Ashe noted, was the edited documentary Alexandra Pelosi made, in contrast to former Capitol Police Chief [[steven-sund|Steven Sund]], who provided all of his phone records and other documentation.[2]

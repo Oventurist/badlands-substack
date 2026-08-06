@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, contributor, opinion, rattlergator]
-sources: [raw/anthony-fauci.md, raw/badlands-media-show-schedule-78b.md]
+sources: [raw/anthony-fauci.md, raw/badlands-media-show-schedule-78b.md, raw/the-schedule-f-imperative-part-1.md]
 confidence: medium
 ---
 
@@ -34,6 +34,13 @@ White closed the column with the valediction he said he once used to end most em
 
 The January 2023 [[badlands-media|Badlands Media]] schedule listed JB White on two programs: [[sports-talk-badlands|Sports Talk]] on Mondays and Fridays with [[absolute-1776|Absolute 1776]], and [[trash-talk|Trash Talk]] on Tuesday, Wednesday and Thursday afternoons with [[patrick-gunnels|Patrick Gunnels]].[2]
 
+## The Schedule F Imperative (2023)
+
+On March 6, 2023 White published "The Schedule F Imperative - Part 1," subtitled "The Broader Application of 'Operation Warp Speed'," in which he argued that [[schedule-f|Schedule F]] functions as the "Tip of the Spear" of a covert whole-of-government campaign he identified as the true [[operation-warp-speed|Operation Warp Speed]].[3] He opened by declaring that "prudence rules my world," explaining that this disposition underpins his healthy skepticism, his willingness to leave speculation about the Rothschilds to others, and his refusal to knowingly ingest what appears to him to be Russian-inspired propaganda.[3]
+
+White argued that Team Trump was triangulating Russia, China, the nation-states they influence, and [[deep-state|Deep State]] globalists, all of whom he described as manipulated by a Corporatist Industrial Complex with no allegiance to any nation-state — the [[invisible-enemy|Invisible Enemy]].[3] He named recapturing Congress as "job number one," and framed his argument around the MAGA mantra [[nothing-can-stop-what-is-coming|Nothing Can Stop What Is Coming]].[3] He urged readers to research both Schedule F and the Soviet-era defector [[yuri-bezmenov|Yuri Bezmenov]], and disclosed that he made casual use of ChatGPT research throughout the column and hoped to publish a book on the subject shortly before the 2024 presidential election.[3] The piece closed by noting the death of online interlocutor Pasquale "Pat" Scopelliti, who had amplified White's January 2023 tweet on the [[2023-speaker-of-the-house-election|Speaker fight]].[3]
+
 ## References
 1. Badlands Brief — "Anthony Fauci", URL: https://badlands.substack.com/p/anthony-fauci
 2. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-78b
+3. Badlands Brief — "The Schedule F Imperative - Part 1", URL: https://badlands.substack.com/p/the-schedule-f-imperative-part-1

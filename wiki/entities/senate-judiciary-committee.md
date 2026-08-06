@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, senate, oversight, judiciary]
-sources: [raw/badlands-news-brief-ed9.md]
+sources: [raw/badlands-news-brief-ed9.md, raw/whos-the-u-boat-commander.md]
 confidence: medium
 ---
 
@@ -25,3 +25,9 @@ Badlands contributor [[ashe-in-america|Ashe in America]] described the hearing a
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Israeli Arms, Bondi's Back Peddle, & Assassins' Creeds", URL: https://badlands.substack.com/p/badlands-news-brief-ed9
+
+## Scott Green's tenure
+
+A January 2024 Badlands feature by [[erik-carlson|Erik Carlson]], citing a 2020 [[politico|Politico]] report, noted that lobbyist [[scott-green|Scott Green]] accepted an offer from [[joe-biden|Joe Biden]] in the early 1980s for a job on the Senate Judiciary Committee, where he worked for a decade in roles including staff assistant and senior advisor before moving to the private sector and co-founding the [[lafayette-group|Lafayette Group]].[2]
+
+2. Badlands Brief — "Who's the U-Boat Commander?", URL: https://badlands.substack.com/p/whos-the-u-boat-commander

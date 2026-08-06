@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, citizen-journalism, commentary, substack]
-sources: [raw/badlands-news-brief-38f.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-8c5.md, raw/happy-thanksgiving.md, raw/q-for-dummies-chapter-13.md, raw/q-for-dummies-chapter-14.md, raw/q-for-dummies-chapter-15.md, raw/q-for-dummies-chapter-10.md, raw/q-for-dummies-chapter-2.md, raw/q-for-dummies-chapter-19.md, raw/q-for-dummies-chapter-5.md, raw/q-for-dummies-chapter-6.md, raw/q-for-dummies-chapter-3.md, raw/q-for-dummies-chapter-9.md, raw/the-accomplishments-of-president-a2b.md]
+sources: [raw/badlands-news-brief-38f.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-8c5.md, raw/happy-thanksgiving.md, raw/q-for-dummies-chapter-13.md, raw/q-for-dummies-chapter-14.md, raw/q-for-dummies-chapter-15.md, raw/q-for-dummies-chapter-10.md, raw/q-for-dummies-chapter-2.md, raw/q-for-dummies-chapter-19.md, raw/q-for-dummies-chapter-5.md, raw/q-for-dummies-chapter-6.md, raw/q-for-dummies-chapter-3.md, raw/q-for-dummies-chapter-9.md, raw/the-accomplishments-of-president-a2b.md, raw/understanding-the-art-of-war-part.md]
 confidence: medium
 ---
 
@@ -115,3 +115,11 @@ Chapter 6 of the series, published February 16, 2024 and covering drops #41–50
 
 Writing early in the 2024 election year, he says he feels "a slow burn coming to a point of full-blown combustion" and flip-flops between expecting an election and expecting some prior event to halt it.[12] He again relies on the [[future-proves-past|"future proves past"]] category — reading drop #44 as pointing to the still-future "the storm is upon us" message — and allows that Q's references to the military may be misinformation designed to keep the [[deep-state|Deep State]] guessing.[12] The instalment closes with his customary encouragement that "God wins," the Badlands contributor disclaimer, and a pointer to his own Substack, Beyond the Veil.[12]
 15. Badlands Brief — "The Accomplishments of President Trump - Part 2", URL: https://badlands.substack.com/p/the-accomplishments-of-president-a2b
+
+## "Understanding the Art of War" series
+
+AbsoluteTruth1776 is also the author of the Badlands Media series "Understanding the Art of War," whose first installment, subtitled "Present Times and Present Plans," was published February 13, 2023 and drew 136 likes.[16] He announced it as a thirteen-part series, each article breaking down one chapter of [[sun-tzu|Sun Tzu]]'s [[the-art-of-war|*The Art Of War*]], with the stated goal of showing that the book is "incredibly relevant to current times" — not merely because it is [[donald-trump|President Trump]]'s favourite book, but because its tactics are apparent on what he calls today's multi-dimensional battlefield.[16]
+
+The installment argues that to understand the book is to understand how Trump has gone about draining the Swamp, which the author holds will lead to the eventual defeat of the [[deep-state|Deep State]].[16] It reads Trump's apparent support of the [[covid-19-vaccines|COVID-19 vaccines]] as psychological warfare that deprived the enemy of a valuable weapon, treats [[congress|Congress]]'s actions against the [[joe-biden|Biden]] administration and the [[twitter-files|Twitter Files]] as attacks launched while the adversary had grown comfortable, and offers a personal aside that he believes [[vladimir-putin|Vladimir Putin]] is "taking out some trash" in [[ukraine|Ukraine]].[16] He repeats his recurring methodological maxim that "operators never divulge," insisting that no genuine military plan is ever disclosed in advance.[16] The article closes with his customary sign-off, "God bless, patriots," the Badlands contributor disclaimer, and a pointer to his own Substack, Beyond the Veil.[16]
+
+16. Badlands Brief — "Understanding the Art of War - Part 1", URL: https://badlands.substack.com/p/understanding-the-art-of-war-part

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, washington, journalism]
-sources: [raw/badlands-news-brief-110.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-bf6.md]
+sources: [raw/badlands-news-brief-110.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-bf6.md, raw/the-two-chinas.md, raw/war-pigs.md]
 confidence: medium
 ---
 
@@ -34,8 +34,21 @@ The Hill reported in June 2024 that former Secretary of State [[hillary-clinton|
 
 The Hill's report "Trump 'shocked' to hear of Tucker Carlson's departure from Fox News" was excerpted in the Badlands News Brief of April 25, 2023, carrying [[donald-trump|Donald Trump]]'s [[newsmax|Newsmax]] remarks on [[tucker-carlson|Tucker Carlson]] and noting that Trump had urged [[rupert-murdoch|Rupert Murdoch]] to embrace his voter-fraud theories ahead of the [[dominion-voting-systems|Dominion Voting Systems]] trial.[4]
 
+## Rising and the 2023 Israel exchange
+
+"War Pigs" identifies The Hill as the publisher of the web series [[rising|Rising]], co-hosted by [[briahna-joy-gray|Briahna Joy Gray]] and [[robby-soave|Robby Soave]].[6] In October 2023 the programme hosted a heated exchange between the two over Gray's criticism of the Israeli government, an episode Badlands Media cited as evidence of alternative media fracturing over the [[israel-hamas-war|Israel–Hamas war]].[6]
+
 ## References
 1. Badlands Brief — "RON! Throws in the Towel as Globalists Panic", URL: https://badlands.substack.com/p/badlands-news-brief-110
 2. Badlands News Brief — "The Biden Era Fades Away as the World is Reshaped", URL: https://badlands.substack.com/p/badlands-news-brief-713
 3. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
 4. Badlands Media — "Badlands News Brief: A Tucker, a Lemon and a Trump Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-bf6
+
+## Coverage of Xi Jinping's third term (2022)
+
+In "The Two Chinas" (November 10, 2022), Badlands Media cited The Hill as "one of the most 'prestigious' of MSM backwaters" for running an opinion piece headlined to the effect that Western analysts got [[xi-jinping|Xi Jinping]] wrong ten years earlier at his coronation and should reflect on why.[5] The article quoted the piece's admission that "little was known about Xi the man before his accession to the leadership" and that, in hindsight, virtually all assessments of the incoming Xi administration yielded essentially the same wrong conclusions.[5]
+
+Those conclusions, as enumerated by The Hill and reproduced by Badlands, were that Xi was more likely to be a liberal than a conservative, that more pro-market economic reforms were coming, that foreign businesses would increasingly be allowed to participate in the China market, and that while liberal political reform was unlikely, retrenchment was equally unlikely.[5] Badlands read this list as a [[globalism|Globalist]] wish list, arguing that the same [[media-industrial-complex|Media Industrial Complex]] would apply identical framing to America First candidates, to [[vladimir-putin|Vladimir Putin]] and to [[jair-bolsonaro|Jair Bolsonaro]], and noted that The Hill was not alone — outlets from the [[bbc|BBC]] to [[associated-press|AP News]] covered Xi's unprecedented third term with comparable alarm.[5]
+
+5. Badlands Media — "The Two Chinas", URL: https://badlands.substack.com/p/the-two-chinas
+6. Badlands Brief — "War Pigs", URL: https://badlands.substack.com/p/war-pigs

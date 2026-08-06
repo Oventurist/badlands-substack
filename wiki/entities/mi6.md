@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence, united-kingdom, cabal]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-f44.md, raw/does-the-cia-still-control-iran.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-media-is-the-enemy-of-the-people.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-f44.md, raw/does-the-cia-still-control-iran.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-media-is-the-enemy-of-the-people.md, raw/the-tavistock-institute.md, raw/who-are-the-true-puppet-masters.md, raw/women-children-and-terror.md]
 confidence: low
 ---
 
@@ -37,6 +37,10 @@ In February 2024, *Declassified UK* — republished by [[consortium-news|Consort
 
 Badlands Media advances the claim that [[british-east-india-company|the British East India Company]], formally dissolved by an act of Parliament in 1873, transformed itself into MI6 rather than simply ceasing to exist, noting that the War Office created the body that would become British Intelligence in the same year.[6] The reasoning offered is that the company had already mastered espionage, proxy warfare and color revolution over centuries — techniques cultivated in its 1730s contest with the French East India Company for influence in India — at a time when the concept of a state intelligence agency was still novel.[6] The outlet treats this continuity as part of its contention that the British Empire never truly ended.[6]
 
+## The 1953 Iran coup and the Middle East tinderbox (October 2023)
+
+[[erik-carlson|Erik Carlson]] wrote that British MI6 and America's [[cia|CIA]] created a coup to take control of [[iran|Iran]] in [[1953-iranian-coup|1953]], which would help create constant unrest in the Middle East for decades to come.[12] Because the British elite were also integral to the creation of [[israel|Israel]] and controlled Saudi Arabia, Egypt and many other Arab and Muslim countries, he concluded that the tension produced by placing Israel among them was fully intended.[12] Discussing the October 7 attack, he grouped MI6 with the CIA and [[mossad]] and said he could not accept that all three agencies were simultaneously and unintentionally blind to what was brewing.[12]
+
 ## References
 1. Badlands Brief — "A Journey of Ever-changing Truths", URL: https://badlands.substack.com/p/a-journey-of-ever-changing-truths
 2. Badlands News Brief — "Pre-Dawn Raids, Russiagate Racketeering, & Real-Time Adverse Reporting", URL: https://badlands.substack.com/p/badlands-news-brief-32d
@@ -63,3 +67,20 @@ Carlson claimed that MI6 created the [[office-of-strategic-services|OSS]] in 194
 [[erik-carlson|Erik Carlson]]'s September 17, 2024 Badlands Media essay asserts that "God created [[elvis-presley|Elvis Presley]]" while "the MI6/[[central-intelligence-agency|CIA]] created [[the-beatles|the Beatles]] and [[the-rolling-stones|Rolling Stones]]," framing the British bands as imitations engineered for cultural influence rather than organic phenomena.[9]
 
 9. Badlands Brief — "The Media is the Enemy of the People", URL: https://badlands.substack.com/p/the-media-is-the-enemy-of-the-people
+
+## Origins and the propaganda lineage (Carlson, 2024)
+
+The Secret Intelligence Service (SIS), commonly known as MI6, is the foreign intelligence service of the United Kingdom, tasked mainly with the covert overseas collection and analysis of human intelligence in support of its Five Eyes partners; its Chief ("C") is directly accountable to the Foreign Secretary.[10] It was formed in 1909 as the foreign section of the Secret Service Bureau and grew greatly during the First World War.[10]
+
+[[arthur-balfour|Arthur Balfour]] became Foreign Secretary in 1916, and [[erik-carlson|Erik Carlson]] observes that the author of the [[balfour-declaration|Balfour Declaration]] — a promise to Lord Rothschild that England would create the State of Israel — was thereby also in charge of the world’s greatest spy service at the time.[10] Carlson argues that America has been overseen by British intelligence agencies since the founding of MI6, [[wellington-house|Britain’s War Propaganda Bureau]], and eventually the [[tavistock-institute|Tavistock Institute]], and points to released documents showing Obama worked with England and the [[five-eyes|Five Eyes]] nations to spy on Trump going back to 2016.[10] Former MI6 agent [[john-coleman|John Coleman]] is cited as the insider who exposed Tavistock’s manipulation of American culture.[10]
+
+10. Badlands Brief — "The Tavistock Institute", URL: https://badlands.substack.com/p/the-tavistock-institute
+
+## Cited in "Who are the True Puppet Masters?" (July 2023)
+
+[[erik-carlson|Erik Carlson]] wrote that MI6, described as Britain's equivalent of the [[cia|CIA]], is "the gold standard of clandestine operators," and that the MI6 trained the CIA for decades before the CIA was officially formed.[11] Following the Second World War, he wrote, England used the CIA and MI6 together to overthrow Iran.[11]
+
+Carlson contrasted the James Bond image with what he takes to be real MI6 tradecraft: an actual officer would be an unremarkable middle-aged man in ordinary clothes driving an ordinary car, someone nobody notices, because the service's method is to draw attention to others and operate in the shadows on behalf of the [[british-cabal|British Cabal]].[11]
+
+11. Badlands Brief — "Who are the True Puppet Masters?", URL: https://badlands.substack.com/p/who-are-the-true-puppet-masters
+12. Badlands Brief — "Women, Children ... and Terror", URL: https://badlands.substack.com/p/women-children-and-terror

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [canada, energy, autonomy, sovereignty]
-sources: [raw/badlands-brief-577.md]
+sources: [raw/badlands-brief-577.md, raw/trump-putin-alaska-and-the-future.md]
 confidence: medium
 ---
 
@@ -23,3 +23,8 @@ Badlands contributor [[ashe-in-america|Ashe in America]] cited Alberta as one of
 ## References
 
 1. Badlands Brief — "ICE Getting Boiled, Chinese Coup Chaos, & Carney Bends The Knee", URL: https://badlands.substack.com/p/badlands-brief-577
+2. Badlands Brief — "Trump, Putin, Alaska and the Future of Multipolarity", URL: https://badlands.substack.com/p/trump-putin-alaska-and-the-future
+
+## Alaska–Alberta rail advocacy
+
+[[matthew-ehret|Matthew Ehret]] writes that the 2,570 km [[alaska-canada-railway|Alaska–Canada rail connection]] would move freight, oil, grains and other goods from Anchorage to the Yukon, the Northwest Territories and northern Alberta.[2] In 2015 the Province of Alberta funded a feasibility study while, in his description, the province sat on the edge of total economic despair under the weight of decarbonization initiatives being pushed into law by Ottawa technocrats.[2] That same year the [[alaska-alberta-railway-development-corporation|Alaska-Alberta Railway Development Corporation]] (A2A) was created as a private initiative to advance the plan.[2]

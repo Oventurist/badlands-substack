@@ -1,10 +1,10 @@
 ---
-title: Venezuela
+title: "Venezuela"
 created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [venezuela, icc, latin-america, maduro, sovereignty]
-sources: [raw/badlands-brief-245.md, raw/badlands-brief-1ef.md, raw/badlands-brief-52f.md, raw/badlands-brief-733.md, raw/badlands-brief-861.md, raw/badlands-brief-708.md, raw/badlands-brief-a89.md, raw/badlands-brief-ac2.md, raw/badlands-brief-b56.md, raw/badlands-brief-b82.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-cf8.md, raw/badlands-news-brief-e3e.md]
+sources: [raw/badlands-brief-245.md, raw/badlands-brief-1ef.md, raw/badlands-brief-52f.md, raw/badlands-brief-733.md, raw/badlands-brief-861.md, raw/badlands-brief-708.md, raw/badlands-brief-a89.md, raw/badlands-brief-ac2.md, raw/badlands-brief-b56.md, raw/badlands-brief-b82.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-cf8.md, raw/badlands-news-brief-e3e.md, raw/the-venezuelan-squeeze.md]
 confidence: medium
 ---
 
@@ -127,6 +127,20 @@ Venezuela's July 2024 presidential election produced an immediate legitimacy cri
 
 Newsweek framed the disputed result as trouble for U.S. Vice President [[kamala-harris|Kamala Harris]], predicting a surge in migration from Venezuelans fleeing the regime and renewed scrutiny of Biden-Harris policy toward a country that had been an important oil supplier to the United States before sanctions as well as a source of rare earth elements.[20]
 
+## Strategic significance and the long regime-change campaign
+
+Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] argues that the United States has pursued regime change in Venezuela since at least the early 2000s, targeting the socialist governments of [[hugo-chavez|Hugo Chávez]] (1999–2013) and his successor [[nicolas-maduro|Nicolás Maduro]], with efforts intensifying after Chávez's nationalization of oil assets and alignment with [[russia|Russia]], [[china|China]], and Iran.[21] He describes Venezuela as the "Iran of Latin America," a treasure chest lying only 1,300 miles from the United States as the crow flies.[21]
+
+The interest, in his account, derives from both geostrategic location and vast resources. As of 2023, estimates place Venezuela's oil reserves at 303 billion barrels — roughly 17 percent of the world's proven reserves, surpassing Saudi Arabia's 259 billion and more than five times the United States' 68 billion.[21] China buys approximately 90 percent of Venezuela's oil exports, providing Maduro with economic lifelines and expanding Beijing's footprint in Latin America through loans and infrastructure deals; U.S. dominance would redirect these flows while curbing Russian military aid.[21]
+
+Venezuela borders [[colombia|Colombia]], which DeLarme calls the "Pakistan of Latin America" — a clearinghouse for covert U.S. operations, hosting forward operating bases, serving as a training center for local proxies, and providing pipelines for covert funding pass-throughs such as Plan Colombia and the Mérida Initiative.[21] He situates the whole arrangement within what [[carroll-quigley|Carroll Quigley]] called the [[anglo-american-establishment|Anglo-American Establishment]], which spreads through the [[imf|IMF]], the [[world-bank|World Bank]], and middleman consulting firms.[21]
+
+## The sanctions economy
+
+Following [[executive-order-13692|Executive Order 13692]] in 2015, which declared Venezuela an "unusual and extraordinary threat" to U.S. national security, the machinery for asset seizures and financial isolation was unlocked.[21] The [[center-for-economic-and-policy-research|Center for Economic and Policy Research]] estimates 40,000 excess deaths between 2017 and 2019 due to sanctions, figures the [[state-department|State Department]] disputes but has never independently refuted.[21] [[pdvsa|PDVSA]] output, once 3.5 million barrels per day, bottomed at 300,000 in 2020, with rigs rusting and skilled engineers fleeing to Guyana and Trinidad.[21]
+
+In October 2025, the announcement that the [[cia|CIA]] had been authorized for "covert operations" in Venezuela struck DeLarme as perplexing, since one does not typically broadcast covert operations to the world.[21] He closes by asking whether regime change is simply a tool whose value is determined not by its nature but by the purpose and intent behind its use.[21]
+
 ## References
 1. Badlands Brief — "Trump Roasts The Press; Teases 2028 Run", URL: https://badlands.substack.com/p/badlands-brief-245
 2. Badlands Brief — "Self Incrimination, Crime Magnets, & Gay Tourism", URL: https://badlands.substack.com/p/badlands-brief-1ef
@@ -148,3 +162,4 @@ Newsweek framed the disputed result as trouble for U.S. Vice President [[kamala-
 18. Badlands Brief — "A Christmas Bonus, War “With” Venezuela, & Prime Time Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-cad
 19. Badlands Brief — "Badlands News Brief: B-Ball Bets, Bomber Busts, & 'Bipartisan' Bill Blockage", URL: https://badlands.substack.com/p/badlands-news-brief-cf8
 20. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e
+21. Badlands Media — "The Venezuelan Squeeze", URL: https://badlands.substack.com/p/the-venezuelan-squeeze

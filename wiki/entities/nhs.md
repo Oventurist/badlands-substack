@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [united-kingdom, health-service, antisemitism, racism, government-review]
-sources: [raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a82.md, raw/gender-ideology-has-become-law.md]
+sources: [raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a82.md, raw/gender-ideology-has-become-law.md, raw/these-3-events-expose-gender-ideology.md]
 confidence: medium
 ---
 
@@ -40,9 +40,16 @@ In June 2024 a ransomware attack on Synnovis disrupted pathology systems at hosp
 3. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
 4. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
 5. Badlands Brief — "Gender Ideology Has Become Law", URL: https://badlands.substack.com/p/gender-ideology-has-become-law
+6. Badlands Brief — "These 3 Events Expose Gender Ideology", URL: https://badlands.substack.com/p/these-3-events-expose-gender-ideology
 
 ## Restrictions on youth gender services (2022)
 
 An October 14, 2022 Reuters report cited by Badlands Media stated that "England's National Health Service has drafted new guidelines for treating transgender youth that would call for local authorities to be alerted in some cases where young people have obtained puberty blockers and hormone therapies on the private market."[5] The interim service specification released by the NHS in October 2022 required that providers delivering the service "must be an established specialist tertiary paediatric unit with a strong partnership with mental health services; be an established academic centre with a strong track record of research in children and young people; and have robust safeguarding frameworks in place."[5]
 
 A February 2024 essay by [[justin-deschamps|Justin Deschamps]] described this as a radical departure from the [[gender-affirming-care|gender affirmative]] model advocated globally by [[wpath|WPATH]], and noted that radical trans activists and WPATH called the NHS action transphobic and claimed it would "kill trans kids" merely because it limited access to [[puberty-blockers|puberty blockers]] and sought an evidence base for the therapies.[5] The essay argued the NHS decision was appropriate given that blockers were authorized only for precocious puberty, and stated that the approach in use in [[canada|Canada]] would be prohibited under the NHS rules.[5]
+
+## 2022 protocol overhaul and gender-affirmative care
+
+In the fall of 2022 the NHS released an entirely new set of protocols for treating gender dysphoric youth, a change reported by the [[society-for-evidence-based-gender-medicine|Society for Evidence Based Gender Medicine]] on October 24, 2022 as supplanting the presumption that gender dysphoric youths under 18 need specialty "transgender healthcare" with the position that most need psychoeducation and psychotherapy.[6] Eligibility for medical interventions was centralised and [[puberty-blockers|puberty blockers]] were to be delivered only in research protocol settings.[6] The new guidance also recognised social transition as a form of psychosocial intervention rather than a neutral act, strongly discouraged it in children, and specified that in adolescents it should be pursued only to alleviate clinically significant distress or impairment in social functioning and following an explicit informed consent process.[6]
+
+[[simon-esler|Simon Esler]] noted that these changes followed 35 resignations over three years at the United Kingdom's largest children's transgender clinic — reported by The Telegraph in December 2019 — with departing staff warning of massive over-diagnosis of gender dysphoria in children, and the subsequent [[cass-review|Cass Review]] that led to the [[tavistock-institute|Tavistock]] clinic's closure.[6] The letter from [[karolinska-hospital|Karolinska Hospital]] announcing Sweden's own reversal cited the NHS changes as supporting evidence.[6]

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [lusitania, world-war-i, false-flag, propaganda, united-states]
-sources: [raw/the-enduring-legacy-of-the-entente.md]
+sources: [raw/the-enduring-legacy-of-the-entente.md, raw/women-children-and-terror.md]
 confidence: low
 ---
 
@@ -16,3 +16,11 @@ The article situates the event within the struggle inside the United States over
 
 ## References
 1. Badlands Brief — "The Enduring Legacy of the Entente Cordiale", URL: https://badlands.substack.com/p/the-enduring-legacy-of-the-entente
+
+## Role in the Balfour bargain narrative
+
+Badlands writer [[erik-carlson|Erik Carlson]] places the sinking at the end of a deliberate sequence intended to bring the United States into [[world-war-i|World War I]].[2] On his account, after Prime Minister [[david-lloyd-george|David Lloyd George]] promised Jewish leaders in England a homeland in exchange for American entry into the war, Jewish-American bankers began lending to the British war effort, anti-German propaganda casting Germans as "baby killers" was pushed in the media, and German goods were pulled from American retail shelves; then "the Lusitania was sunk (false flag) and the US was now in the war."[2] The promise was kept in the [[balfour-declaration|Balfour Declaration]] of 1917.[2]
+
+Carlson groups the sinking with the [[attack-on-pearl-harbor|attack on Pearl Harbor]] and the [[september-11-attacks|September 11 attacks]] as instances of the same [[false-flag-operation|false flag]] mechanism used across a century to move a reluctant American public into war.[2]
+
+2. Badlands Brief — "Women, Children ... and Terror", URL: https://badlands.substack.com/p/women-children-and-terror

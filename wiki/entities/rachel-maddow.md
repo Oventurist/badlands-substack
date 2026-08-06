@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, msnbc, russiagate, election-denial, narrative]
-sources: [raw/badlands-news-brief-228.md, raw/badlands-news-brief-ac1.md]
+sources: [raw/badlands-news-brief-228.md, raw/badlands-news-brief-ac1.md, raw/trump-20-and-the-opposition-plot.md]
 confidence: medium
 ---
 
@@ -28,3 +28,10 @@ After [[donald-trump|Donald Trump]] won the [[2024-iowa-caucus|2024 Iowa Caucus]
 
 1. Badlands News Brief — "A Biden, a Clinton and a Trump Walk Into a SCIF", URL: https://badlands.substack.com/p/badlands-news-brief-228
 2. Badlands Brief — "The Media Melts Down as MAGA Rises Once More ...", URL: https://badlands.substack.com/p/badlands-news-brief-ac1
+3. Badlands Brief — "Trump 2.0 and the 'Opposition' Plot", URL: https://badlands.substack.com/p/trump-20-and-the-opposition-plot
+
+## Platform for "the Opposition"
+
+Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] named Maddow and Chris Hayes as the primary pundits championing the NGO institutions of [[the-opposition|the Opposition]] and sustaining its morale after the 2024 election.[3] He said he watched their programs to learn what the Opposition was plotting, since they dropped hints and hosted guests deeply involved in that world.[3]
+
+He cited in particular a Maddow interview with [[american-civil-liberties-union|ACLU]] executive director [[anthony-romero|Anthony Romero]], in which Romero described the ACLU's study of [[project-2025|Project 2025]], declared that "litigation is going to be key," and outlined the [[firewall-for-freedom|firewall for freedom]] plan to enlist state and local officials against federal immigration enforcement.[3] Maddow raised the absence of large-scale protests comparable to 2016, and both she and Romero indicated that resources were being marshaled for the most opportune moment, the onset of mass deportations.[3]

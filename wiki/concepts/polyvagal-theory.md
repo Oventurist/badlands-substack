@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [badlands-media, nervous-system, trauma, healing, consciousness]
-sources: [raw/the-emergence.md]
+sources: [raw/the-emergence.md, raw/the-remembering.md]
 confidence: low
 ---
 
@@ -16,6 +16,11 @@ The article describes Porges as the "architect of the Polyvagal Theory" and summ
 
 The theory is used to support the essay's larger claim that [[coherence|coherence]] is a bodily rather than intellectual achievement — that safety is "not a place you visit" but "the frequency you inhabit," so that breathing on waking is an expression of being already centered rather than a technique for becoming so.[1] Within the same section the essay places Polyvagal Theory alongside [[mae-wan-ho|Mae-Wan Ho]]'s quantum coherence in living systems and [[bruce-lipton|Bruce Lipton]]'s claims about perception rewriting biology.[1]
 
+## Polyvagal-informed therapy in "The Remembering"
+
+The framework recurs in the April 19, 2025 Badlands Media feature "The Remembering: Fractured Selves and the Path Beyond Ego," which cites trauma specialist [[deb-dana|Deb Dana]] as the developer of polyvagal-informed therapy.[2] Dana is quoted that "the most powerful healing comes when all parts of us feel welcomed and safe. Regulation is the new safety, and safety is the beginning of connection."[2] The essay applies the principle to [[parts-work|parts work]], arguing that exiled parts transform when welcomed rather than corrected and that the nervous system softens as [[psychological-integration|integration]] proceeds.[2]
+
 ## References
 
 1. Badlands Media — "The Emergence", URL: https://badlands.substack.com/p/the-emergence
+2. Badlands Brief — "The Remembering: Fractured Selves and the Path Beyond Ego", URL: https://badlands.substack.com/p/the-remembering

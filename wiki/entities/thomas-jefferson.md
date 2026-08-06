@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [history, founding-fathers, democratic-party, france]
-sources: [raw/cultural-warfare-and-the-american.md, raw/do-we-have-a-contract-with-the-federal.md, raw/god-and-the-declaration-of-independence.md, raw/is-the-federal-reserve-a-british.md, raw/the-battle-for-control.md, raw/the-master-builder.md]
+sources: [raw/cultural-warfare-and-the-american.md, raw/do-we-have-a-contract-with-the-federal.md, raw/god-and-the-declaration-of-independence.md, raw/is-the-federal-reserve-a-british.md, raw/the-battle-for-control.md, raw/the-master-builder.md, raw/trump-knows.md]
 confidence: low
 ---
 
@@ -15,6 +15,10 @@ Thomas Jefferson was the third president of the United States and, in Badlands M
 ## Role in the article's argument
 
 [[robert-livingston|Robert Livingston]] served as US ambassador to France during Jefferson's first term while acting as a leader of the Federalist Party.[1] Ehret argues in his book *The Clash of the Two Americas: The Unfinished Symphony* that the Anglophile Federalist faction and the Jeffersonian Democratic Party functioned as a controlled gang-counter-gang operation: both shared anti-constitutional views, both denied the proposition that "All Men Are Created Equal," and both were used by British intelligence to undermine the better interests of the young nation.[1]
+
+## Quoted on private banks
+
+[[justin-deschamps|Justin Deschamps]] opened the section of "Trump Knows" asking whose interests the country serves with Jefferson's warning that if the American people ever allow private banks to control the issue of their currency, first by inflation and then by deflation, the banks and the corporations growing up around them "will deprive the people of all property until their children wake up homeless on the continent their Fathers conquered."[7] The quotation continues that banking institutions are more dangerous to liberty than standing armies and that the issuing power should be taken from the banks and restored to the people, to whom it properly belongs.[7] The passage is used to introduce the essay's argument that the people are made to serve a government that serves others, supported by the [[gilens-and-page-study|Gilens and Page study]] of 2014.[7]
 
 ## References
 1. Badlands Brief — "Cultural Warfare and the American Revolution", URL: https://badlands.substack.com/p/cultural-warfare-and-the-american
@@ -60,3 +64,4 @@ Lange argues that Jefferson was right, answering yes to each of the questions of
 Badlands Media's "The Master Builder" (February 2, 2023) quotes Jefferson's declaration that "I sincerely believe that banking establishments are more dangerous than standing armies, and that the principle of spending money to be paid by posterity under the name of funding is but swindling futurity on a large scale."[6] [[joe-lange|Joe Lange]] presents the remark as evidence that some of the American founders identified the hidden financial enemy as more dangerous than the armies the colonies defeated to win independence, and argues that these interests have since used the United States — through the [[federal-reserve|Federal Reserve]] and the U.S. military — to control the world since the Second World War.[6] Jefferson is paired in the article with [[andrew-jackson|Andrew Jackson]] as a precursor to what it casts as [[donald-trump|Donald Trump]]'s campaign against central banking.[6]
 
 6. Badlands Media — "The Master Builder", URL: https://badlands.substack.com/p/the-master-builder
+7. Badlands Brief — "Trump Knows", URL: https://badlands.substack.com/p/trump-knows

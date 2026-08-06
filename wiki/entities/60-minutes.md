@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, news, cbs, editing, election]
-sources: [raw/a-new-hollywood.md, raw/badlands-brief-835.md, raw/badlands-news-brief-860.md, raw/the-adulation-of-the-disinformation.md]
+sources: [raw/a-new-hollywood.md, raw/badlands-brief-835.md, raw/badlands-news-brief-860.md, raw/the-adulation-of-the-disinformation.md, raw/tucker-twitter-and-the-truth-community.md]
 confidence: medium
 ---
 
@@ -33,3 +33,8 @@ The article argued that the broadcast presented Starbird as a victimized heroine
 2. Badlands Brief — "Virginia Democrats Lose the Plot and Go For Tyranny", URL: https://badlands.substack.com/p/badlands-brief-835
 3. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
 4. Badlands Brief — "The Adulation of the 'Disinformation Expert'", URL: https://badlands.substack.com/p/the-adulation-of-the-disinformation
+5. Badlands Brief — "Tucker, Twitter, and the Truth Community", URL: https://badlands.substack.com/p/tucker-twitter-and-the-truth-community
+
+## Suppression of the Sund interview
+
+Former Capitol Police Chief [[steven-sund|Steven Sund]] gave an account of January 6 to 60 Minutes, but the program used less than ten minutes of his story.[5] [[ashe-in-america|Ashe in America]] cited that treatment, alongside [[fox-news|Fox News]]'s refusal to air [[tucker-carlson|Tucker Carlson]]'s earlier interview with Sund and the withholding of his official interviews with the Department of Defense and the Senate, as evidence that off-narrative January 6 accounts were being systematically suppressed.[5]

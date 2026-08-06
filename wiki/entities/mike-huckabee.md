@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [diplomacy, israel, united-states, middle-east, ambassador]
-sources: [raw/badlands-brief-285.md, raw/badlands-brief-579.md, raw/badlands-brief-695.md, raw/badlands-brief-625.md, raw/badlands-brief-724.md, raw/badlands-brief-7c6.md, raw/badlands-brief-959.md, raw/badlands-brief-da2.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-c44.md, raw/badlands-news-brief-d95.md]
+sources: [raw/badlands-brief-285.md, raw/badlands-brief-579.md, raw/badlands-brief-695.md, raw/badlands-brief-625.md, raw/badlands-brief-724.md, raw/badlands-brief-7c6.md, raw/badlands-brief-959.md, raw/badlands-brief-da2.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-c44.md, raw/badlands-news-brief-d95.md, raw/the-real-fight-begins.md]
 confidence: medium
 ---
 
@@ -98,3 +98,9 @@ Huckabee threatened reciprocal steps, warning that the embassy would be forced t
 11. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72
 12. Badlands Brief — "Badlands News Brief: A British TERF Triumph & A Senator Snubbed in El Salvador", URL: https://badlands.substack.com/p/badlands-news-brief-c44
 13. Badlands Brief — "Badlands News Brief: Trump's New Lawsuit & Israel's New War", URL: https://badlands.substack.com/p/badlands-news-brief-d95
+
+## Nomination as Ambassador to Israel (November 2024)
+
+Huckabee was named Ambassador to Israel during the November 2024 [[donald-trump|Trump]] transition, an announcement Badlands contributor [[ryan-delarme|Ryan DeLarme]] noted came almost immediately — remarking sardonically that Israel is "clearly more important than any other nation on the planet in the context of American politics."[14] DeLarme wrote that while he agrees with Huckabee on many things, Huckabee "sounds like an unhinged religious fanatic when he speaks about Israel" and is clearly willing to extend the endless go-ahead Israel has grown accustomed to receiving from the United States, in his view enabling grave crimes against humanity.[14]
+
+14. Badlands Brief — "The Real Fight Begins", URL: https://badlands.substack.com/p/the-real-fight-begins

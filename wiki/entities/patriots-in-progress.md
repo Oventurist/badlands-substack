@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [substack, badlands-media, citizen-journalism, bitcoin, prophecy]
-sources: [raw/are-we-entering-the-millennial-reign.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-e40.md, raw/celebrating-15-years-of-indictments.md, raw/dont-bring-shiny-rocks-to-digital.md, raw/happy-thanksgiving.md, raw/kekistani-code-talkers.md, raw/q-for-dummies-chapter-12.md, raw/q-for-dummies-chapter-15.md, raw/q-for-dummies-chapter-1.md, raw/q-for-dummies-chapter-9.md, raw/revolution-founded-at-the-crossroads.md]
+sources: [raw/are-we-entering-the-millennial-reign.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-e40.md, raw/celebrating-15-years-of-indictments.md, raw/dont-bring-shiny-rocks-to-digital.md, raw/happy-thanksgiving.md, raw/kekistani-code-talkers.md, raw/q-for-dummies-chapter-12.md, raw/q-for-dummies-chapter-15.md, raw/q-for-dummies-chapter-1.md, raw/q-for-dummies-chapter-9.md, raw/revolution-founded-at-the-crossroads.md, raw/trump-doctrine-peace-through-space.md, raw/trust-the-plan.md]
 confidence: medium
 ---
 
@@ -58,6 +58,10 @@ Chapter 12 of the [[q-for-dummies|Q for Dummies]] series departs from its usual 
 
 The material reproduced consists of two data graphics.[9] The first sets out the parameters of the attack — roughly 600 seconds in duration, about 1,100 rounds discharged from 23 weapons at a 78 percent hit rate, with multiple reloads — which the author presents as evidence that the official account of a single shooter is untenable.[9] The second tabulates the individual weapons with their capacities, optics, accessories, rates of fire and assessments, noting that five of the firearms carried no optics at all.[9]
 
+## Trump Doctrine: Peace Through Space
+
+"[[trump-doctrine-peace-through-space|Trump Doctrine: Peace Through Space]]", published by [[badlands-media|Badlands Media]] on February 11, 2024, was written by PiP of Patriots in Progress, who describes himself as a system safety engineer with almost fifteen years in the rocket and satellite industry.[14] The piece directs readers to more of PiP's work free on Substack and was developed in collaboration with [[gmoney|GMONEY]] on *[[rugpull-radio|Rugpull Radio]]*.[14]
+
 ## References
 1. Badlands Brief — "Are We Entering the Millennial Reign?", URL: https://badlands.substack.com/p/are-we-entering-the-millennial-reign
 2. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-78b
@@ -99,3 +103,12 @@ In an October 31, 2024 essay, the author, writing as PiP, argued that revolution
 The piece drew heavily on statements he made on the "Individual Sovereignty" panel at [[badlands-media|Badlands Media]]'s Great American Restoration Tour 5 in Deadwood, South Dakota, where he identified [[jesus|Jesus Christ]] as a decentralizing force and compared His revolution to [[bitcoin]].[13] It also used the 2016 [[donald-trump|Donald Trump]] video "This Video Will Get Donald Trump Elected" as its political text, reading Trump's "crossroads" and "new Government" language against the [[declaration-of-independence|Declaration of Independence]].[13] The essay closed with the injunctions "Repent for the Kingdom of God is at hand," "Burn the ships. There's no going back," and "Shadilay!"[13]
 
 13. Badlands Brief — "Revolution Founded at the Crossroads", URL: https://badlands.substack.com/p/revolution-founded-at-the-crossroads
+14. Badlands Brief — "Trump Doctrine: Peace Through Space", URL: https://badlands.substack.com/p/trump-doctrine-peace-through-space
+
+## "TRUST: The Plan" (July 2024)
+
+On July 11, 2024 the author published "TRUST: The Plan," subtitled "Incremental, Widespread, Intentional, Endless Exploitation at All Levels," a long essay built around the question "who or what do you TRUST?"[15] Opening with Michael Hopf's cycle — hard times create strong men, strong men create good times, good times create weak men, weak men create hard times — he argued that as separation from pain increases the importance of hard-won lessons decreases until they are forgotten and the enemy is able to pervert the truth.[15]
+
+The piece dissected the dictionary definitions of trust, surveyed the 182 Q drops mentioning the word, and contrasted "trust, don't verify" with Reagan's "[[trust-but-verify|trust, but verify]]" and the cybersecurity maxim "never trust, always verify."[15] It then read the [[bitcoin|Bitcoin]] whitepaper and Major Jason Lowery's [[softwar|Softwar]] as offering trust-less alternatives to trust-based law and money, concluded that "money is trust" and that fiat currencies exploit trust to the benefit of the "Cantillionaires," and reinterpreted Q's slogan as "[[trust-the-plan|TRUST was the plan]]."[15] Historical examples included [[operation-trust|Operation Trust]] and the [[knickerbocker-trust-company|Knickerbocker Trust Company]]'s role in the [[panic-of-1907|Panic of 1907]], the latter credited to GMONEY.[15] The essay closed by asking, "Will you take your TRUST back?"[15]
+
+15. Badlands Brief — "TRUST: The Plan", URL: https://badlands.substack.com/p/trust-the-plan

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [performance-art, spirit-cooking, ukraine, elites]
-sources: [raw/badlands-news-brief-2ca.md, raw/soul-governance.md]
+sources: [raw/badlands-news-brief-2ca.md, raw/soul-governance.md, raw/throne-of-the-ivy-grid.md]
 confidence: medium
 ---
 
@@ -26,7 +26,15 @@ The prospect of Abramovic overseeing protections for displaced Ukrainian childre
 
 The Badlands Media essay [[soul-governance|Soul Governance]] refers to Marina Abramović as "channeling blood rites into gallery performances," listing her alongside [[john-podesta|Podesta]]'s blending of art with alleged ritual and the [[spirit-cooking|spirit cooking]] episode as examples of what it calls mockeries of the soul.[2] The essay treats these as hollow imitations of genuine communion, arguing that the actors involved "don't create, they pervert" and "don't command, they mimic."[2]
 
+
+## In "Throne of the Ivy Grid"
+
+The Badlands Media essay *Throne of the Ivy Grid* calls Marina Abramović one of "the artists of inversion" who "signal the rites in plain sight," describing her as an avant-garde priestess channeling elite appetite for blood, pain, and mimicry of divine essence.[3] It asserts that her "spirit cooking" rituals "aren't metaphor" but pantomimes of soul harvesting encased in gallery aesthetics to normalize trauma-as-art, and names her "the ceremonial artist of the grid, adored by monarchs, tech billionaires, and political puppets alike."[3]
+
+The essay pairs her with [[john-podesta|John Podesta]] — described as a DNC figure, Vatican emissary, and dinner guest of Abramović — whose leaked emails it reads as revealing "a theater of code" bridging policy and ritual.[3] Both are situated within the essay's wider account of [[luciferian-rites|Luciferian rites]] and inversion theology surfacing through cultural and bureaucratic channels.[3]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Ukrainian Nazis, Spirit Cooks & Potato Presidents", URL: https://badlands.substack.com/p/badlands-news-brief-2ca
 2. Badlands Brief — "Soul Governance", URL: https://badlands.substack.com/p/soul-governance
+3. Badlands Brief — "Throne of the Ivy Grid", URL: https://badlands.substack.com/p/throne-of-the-ivy-grid

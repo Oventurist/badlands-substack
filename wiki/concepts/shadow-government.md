@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [cia, deep-state, qanon, oversight, intelligence]
-sources: [raw/clowns-in-america.md, raw/follow-the-money.md, raw/shadow-government-exposed.md, raw/school-of-assassins-and-dictators.md, raw/the-illusion-of-democracy.md]
+sources: [raw/clowns-in-america.md, raw/follow-the-money.md, raw/shadow-government-exposed.md, raw/school-of-assassins-and-dictators.md, raw/the-illusion-of-democracy.md, raw/the-shadow-game.md, raw/who-is-the-real-enemy.md]
 confidence: low
 ---
 
@@ -64,3 +64,23 @@ The mechanism of capture, on this account, was personnel: after Reagan lost the 
 In his January 2024 article "Illusions of Democracy," [[joe-lange|Joe Lange]] recapitulates his series thesis: a shadow government was set up by [[george-hw-bush|George H.W. Bush]] in order to control the entire executive branch, including the president.[5] He gives two examples of what that corrupt apparatus did with its control — using "free trade" as the excuse to increase drug trafficking across the southern border, and using "deregulation" of the banking system to rob the treasury and launder money through the [[savings-and-loan-crisis|Savings and Loan crisis]].[5]
 
 Lange argues the shadow government also maintains a [[two-tier-justice-system|two tier justice system]] that shields insiders engaged in [[taxpayer-theft|taxpayer theft]], and that it remained embedded within [[donald-trump|Donald Trump]]'s own administration even as Trump carried out what Lange calls a government reset.[5] Internationally, he identifies the [[central-intelligence-agency|CIA]] shadow government as the force that installed dictators across Central and South America via the [[school-of-the-americas|School of the Americas]], and argues its failure to install one in [[costa-rica|Costa Rica]] is explained by that country's abolition of its armed forces under [[jose-figueres-ferrer|José "Pepe" Figueres Ferrer]].[5] His prescription is a set of durable **safeguards** — constitutional term limits, a citizenship voter ID, and a [[public-banking-option|public banking option]] — to prevent another such insurgency after Trump is gone.[5]
+
+## The "shadow game"
+
+In "The Shadow Game," [[joe-lange|Joe Lange]] describes the [[cia|CIA]] — referred to by Q as the "shadow agency" — as having conducted a "shadow game" of war to create a shadow government that controls the entire country in order to control the world, all outside constitutional restrictions, with [[george-hw-bush|George H.W. Bush]] at the center of it.[6] Self-preservation is presented as the agency's paramount concern: it will do whatever it takes to prevent public exposure of the truth, including resisting declassification, and will not tolerate any attempt to "buck the system" it has built.[6] To the global cabal of elites, Lange writes, everything is a game in which human life has no value and only wealth and power matter.[6]
+
+[[jimmy-carter|Jimmy Carter]] is cast as the president who tried to buck that system — refusing to retain Bush as CIA director on the advice of [[walter-mondale|Walter Mondale]] and the [[church-committee|Church Committee]] reform agenda, ending the [[school-of-the-americas|School of the Americas]] torture manuals, and defunding the [[anastasio-somoza-debayle|Somoza]] regime — and was removed from office through the [[october-surprise|October Surprise]] arrangement with Iran.[6]
+
+Lange also traces the shadow government's consolidation of information control: after Bush placed the CIA in charge of the [[presidents-daily-brief|Presidential Daily Brief]], [[john-poindexter|John Poindexter]] used the [[1983-beirut-barracks-bombings|Beirut barracks bombing]] as the catalyst for a reorganization that routed intelligence from the [[state-department|State Department]], the [[national-security-agency|NSA]], the Defense Intelligence Agency and the [[national-security-council|NSC]] through a CIA-run hotline, extending agency control to the entire executive branch and seeding the surveillance apparatus that became [[total-information-awareness|Total Information Awareness]].[6] In this framing, American troops were pawns meant to be sacrificed for the enrichment of a global cabal, and the [[war-on-terror|war on terror]] was manufactured as the successor threat to communism because, as Q put it, peace does not sell but war and fear do.[6]
+
+6. Badlands Brief — "The Shadow Game", URL: https://badlands.substack.com/p/the-shadow-game
+
+## Afghanistan, BCCI and the money spigot
+
+"Who Is The Real Enemy?" describes the [[central-intelligence-agency|CIA]]/shadow government set up by [[george-hw-bush|George H.W. Bush]] as controlling the worldwide drug trade and starting wars both to protect that trafficking and to take taxpayers' money — a constant money spigot purposely centered on the Middle East, which was configured as a permanent war zone.[7]
+
+Within that structure [[william-casey|William Casey]] worked outside normal government channels, meeting secretly with foreign counterparts including [[agha-hasan-abedi|Agha Hasan Abedi]] of [[bank-of-credit-and-commerce-international|BCCI]] and General [[muhammad-zia-ul-haq|Zia]] of [[pakistan|Pakistan]].[7] The article argues the shadow government created a private army under [[gulbuddin-hekmatyar|Gulbuddin Hekmatyar]] to protect its Afghan heroin operation, paid Pakistan for the use of ports and roads to supply it, and increased funding to the Pakistani military even after [[hamid-karzai|Hamid Karzai]] identified Pakistan as the sanctuary organizing [[taliban|Taliban]] attacks.[7]
+
+In this account it was the shadow government, not the [[soviet-union|Soviet Union]], that was expanding worldwide, and its penetration of [[afghanistan|Afghanistan]] triggered the 1979 Soviet intervention just as, the article argues, its activity in Ukraine later triggered the [[russian-invasion-of-ukraine|Russian invasion]].[7] Perpetual war since World War II is said to have brought the United States to the brink of bankruptcy, survivable only because the dollar is the world's reserve currency.[7] [[donald-trump|Donald Trump]]'s counter-strategy is framed as money flow disruption — cutting off the spigots that give the enemy power.[7]
+
+7. Badlands Brief — "Who Is The Real Enemy?", URL: https://badlands.substack.com/p/who-is-the-real-enemy

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [public-health, biosecurity, federal-agency, badlands-brief]
-sources: [raw/badlands-brief-2c0.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-409.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-efd.md, raw/biden-inc-flips.md, raw/the-ivy-web.md]
+sources: [raw/badlands-brief-2c0.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-409.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-efd.md, raw/biden-inc-flips.md, raw/the-ivy-web.md, raw/triggering-mass-psychosis.md]
 confidence: medium
 ---
 
@@ -70,3 +70,11 @@ A December 2024 Badlands feature alleged that Ukrainian laboratories conducting 
 Badlands Media's "The Ivy Web" notes that [[charles-lieber|Charles Lieber]] held NIH and Department of Defense research grants totaling more than $15 million during the same period in which he was secretly receiving roughly $50,000 per month from the [[wuhan-university-of-technology|Wuhan University of Technology]] and over $1.5 million to establish a laboratory in China.[9] The article presents this overlap of federal funding and concealed Chinese compensation as the core of the national security breach at [[harvard-university|Harvard University]].[9]
 
 9. Badlands Brief — "The Ivy Web", URL: https://badlands.substack.com/p/the-ivy-web
+
+## COVID-era authoritarianism (January 2023)
+
+In [[justin-deschamps|Justin Deschamps]]'s January 20, 2023 essay on [[mass-psychosis]], the NIH is named as one of three institutions — with the [[world-health-organization|WHO]] and the [[centers-for-disease-control-and-prevention|CDC]] — through which the authoritarianism of the COVID era was exercised.[10] Deschamps described these bodies as populated by a "devout priesthood" consisting of [[bill-gates|Bill Gates]], [[anthony-fauci|Anthony Fauci]] and [[tedros-adhanom-ghebreyesus|Tedros Adhanom Ghebreyesus]].[10]
+
+The essay placed this arrangement within a general account of how a ruling elite possessed by an ideology — religion, communism, fascism or technocracy — induces a population to accept its rule by infecting it with the mass psychosis of authoritarianism, which is never branded as such to the masses.[10] It also noted that dissenting scientists who operated from a place of knowledge were swiftly silenced and humiliated, in many cases losing their scientific grants, while physicians lost their ability to practice medicine.[10]
+
+10. Badlands Brief — "Triggering Mass Psychosis", URL: https://badlands.substack.com/p/triggering-mass-psychosis

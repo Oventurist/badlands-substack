@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [middle-east, diplomacy, israel, iran, trump, badlands-brief]
-sources: [raw/badlands-brief-3d4.md, raw/badlands-brief-e60.md, raw/badlands-brief-f87.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-e54.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-f14.md, raw/the-master-builder.md]
+sources: [raw/badlands-brief-3d4.md, raw/badlands-brief-e60.md, raw/badlands-brief-f87.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-e54.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-f14.md, raw/the-master-builder.md, raw/trump-secures-uneasy-peace-in-gaza.md]
 confidence: medium
 ---
 
@@ -121,6 +121,12 @@ Badlands commentary on the April 2024 Iranian attack held that the Arab nations 
 
 Badlands' July 2024 commentary alleged that the day before the Abraham Accords were scheduled to be signed in 2020, Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] dispatched ambassador [[ron-dermer|Ron Dermer]] to inform the White House that Israel would be backing out of the deal.[19] According to the account, [[donald-trump|Donald Trump]] telephoned Netanyahu directly and pressured him into proceeding, after which the Israelis signed.[19] The episode was presented as part of an alleged pattern of Netanyahu subverting U.S.-led Middle East peace efforts.[19]
 
+## Proposed revival under Trump's second term
+
+Ahead of his second inauguration, [[donald-trump|Donald Trump]] indicated that he wanted to forge agreements involving Saudi Arabia, [[qatar|Qatar]], the United Arab Emirates and Israel in what Badlands Media described as a reinvigoration of the [[abraham-accords|Abraham Accords]].[23] The outlet observed that such expansion would be difficult while Israel continued bombing Gaza, which is why Trump was adamant about ending the conflict as quickly as possible.[23]
+
+The article speculated that a Saudi agreement would help Israel's regional position after 15 months of war had largely alienated it from its neighbors, and that Trump may have offered [[benjamin-netanyahu|Benjamin Netanyahu]] concessions — possibly including annexation of the West Bank — in exchange for accepting the [[gaza-ceasefire|ceasefire]].[23]
+
 ## References
 1. Badlands Brief — "Canadian Separatists & Guerilla Campaigns", URL: https://badlands.substack.com/p/badlands-brief-3d4
 2. Badlands Brief — "Abrahamic Rug Pulls, Frivolous Lawfare, & False Statements Under Oath", URL: https://badlands.substack.com/p/badlands-brief-e60
@@ -158,3 +164,4 @@ Badlands Media's "The Master Builder" (February 2, 2023) presents the Abraham Ac
 [[joe-lange|Joe Lange]] uses this record to argue that world-historic arrangements can in fact be concluded in secret, supporting his broader claim that [[donald-trump|Donald Trump]] is assembling a hidden international coalition against the global central-bank debt system.[22]
 
 22. Badlands Media — "The Master Builder", URL: https://badlands.substack.com/p/the-master-builder
+23. Badlands Brief — "Trump Secures Uneasy Peace in Gaza", URL: https://badlands.substack.com/p/trump-secures-uneasy-peace-in-gaza

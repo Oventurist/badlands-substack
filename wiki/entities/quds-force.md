@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [iran, irgc, middle-east, paramilitary, intelligence]
-sources: [raw/badlands-news-brief-2db.md, raw/everything-is-connected.md, raw/panic-in-dc.md]
+sources: [raw/badlands-news-brief-2db.md, raw/everything-is-connected.md, raw/panic-in-dc.md, raw/trump-cuts-the-head-off-the-snake.md]
 confidence: medium
 ---
 
@@ -29,3 +29,9 @@ Citing the Jerusalem Post, Badlands contributor Joe Lange notes that in March 20
 "Panic in DC" places the Quds Force among the designated entities that made dollar transactions illegal for banks, alongside [[qasem-soleimani|Qasem Soleimani]], the [[islamic-revolutionary-guard-corps|Islamic Revolutionary Guard]], [[hezbollah|Hezbollah]] and Hamas — the reason, [[joe-lange|Joe Lange]] argues, that value was moved to [[iran|Iran]] in physical foreign banknotes rather than by wire.[3] Washington Times reporting quoted in the article states that the U.S. government traced portions of the $1.7 billion released to Iran under the [[barack-obama|Obama]] administration to the Quds Force, described as Iran's main foreign intelligence and covert action arm and an element of the Islamic Revolutionary Guard Corps, as well as to Hezbollah and Houthi rebels in Yemen.[3] The article also alleges that the [[us-department-of-justice|Justice Department]] declined a [[project-cassandra|Project Cassandra]] request to charge a central player in a U.S.-based Quds Force cell.[3]
 
 3. Badlands Brief — "Panic in DC", URL: https://badlands.substack.com/p/panic-in-dc
+
+## Regional network and the death of Soleimani
+
+"Trump Cuts the Head off the Snake" describes the Quds Force as the driving force of war in the Middle East under [[qasem-soleimani|Qasem Soleimani]]'s command.[4] One method the force used to destabilise the region was military aid and funding, and it was found to have financed numerous organisations designated as terrorist groups by the United States, including [[hezbollah|Hezbollah]] in [[lebanon|Lebanon]] and Hamas in Gaza.[4] Within [[iraq|Iraq]] the Quds Force trained militant groups that attacked American forces with sophisticated explosives, notably the explosively formed penetrator, whose metal projectile shattered even armoured vehicles; roughly 861 US troops were wounded and 196 killed by Iranian-made EFPs over the preceding decade according to a Military Times report citing the US military.[4] The United States designated the Quds Force a state sponsor of terrorism in 2007.[4] Joe Lange argues that the [[assassination-of-qasem-soleimani|January 2020 strike]] that killed Soleimani and [[abu-mahdi-al-muhandis|Abu Mahdi al-Muhandis]] decapitated this structure and freed [[iran|Iran]] from control by [[alwaleed-bin-talal|Alwaleed bin Talal]] and the [[cia|CIA]].[4]
+
+4. Badlands Brief — "Trump Cuts the Head off the Snake", URL: https://badlands.substack.com/p/trump-cuts-the-head-off-the-snake

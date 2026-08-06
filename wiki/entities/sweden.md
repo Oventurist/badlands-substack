@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [europe, nord-stream, investigations, baltic-sea]
-sources: [raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-a56.md, raw/obamas-legacy-to-destroy-america.md]
+sources: [raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-a56.md, raw/obamas-legacy-to-destroy-america.md, raw/the-whos-last-stand.md]
 confidence: medium
 ---
 
@@ -45,3 +45,9 @@ He attributed to this policy the emergence since the mid-2010s of [[swedish-no-g
 2. Badlands Brief — "Badlands News Brief: Will the One True POTUS Please Stand Up?", URL: https://badlands.substack.com/p/badlands-news-brief-9ae
 3. Badlands Brief — "Badlands News Brief: Corruption Probes, Client Lists & Mud Pits", URL: https://badlands.substack.com/p/badlands-news-brief-a56
 4. Badlands Brief — "Obama's Legacy to Destroy America", URL: https://badlands.substack.com/p/obamas-legacy-to-destroy-america
+
+## COVID-19 non-compliance
+
+Badlands Media's "The WHO's Last Stand" cited Sweden as an example of successful non-compliance with pandemic guidance, stating that the country never locked down and that there were no significant consequences, with people living in Stockholm carrying on as if nothing had changed.[5] The example appeared alongside Florida and [[uttar-pradesh|Uttar Pradesh]] in an argument that even ratified [[world-health-organization|WHO]] edicts confer no real control if populations decline to comply.[5]
+
+5. Badlands Brief — "The WHO's Last Stand", URL: https://badlands.substack.com/p/the-whos-last-stand

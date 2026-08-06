@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, democrats, january-6, mississippi]
-sources: [raw/badlands-news-brief-07f.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-e44.md]
+sources: [raw/badlands-news-brief-07f.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-e44.md, raw/tucker-twitter-and-the-truth-community.md]
 confidence: medium
 ---
 
@@ -43,3 +43,8 @@ Thompson served as Ranking Member of the [[house-homeland-security-committee|Hou
 2. Badlands Brief — "J6 Returns to Headlines as Fear Mars AI and Airplanes", URL: https://badlands.substack.com/p/badlands-news-brief-120
 3. Badlands Brief — "Badlands News Brief: The Trump Train Rolls on ... Fake MAGA Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-89f
 4. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44
+5. Badlands Brief — "Tucker, Twitter, and the Truth Community", URL: https://badlands.substack.com/p/tucker-twitter-and-the-truth-community
+
+## Shielding of Pelosi records
+
+According to former Capitol Police Chief [[steven-sund|Steven Sund]], recounted in [[tucker-carlson|Tucker Carlson]]'s August 2023 [[tucker-on-twitter|Tucker on Twitter]] interview, Thompson — the Democrat who chaired the [[january-6-committee|January 6 Committee]] during the last Congress — told the committee that Speaker [[nancy-pelosi|Nancy Pelosi]] and all of her records were "off limits."[5] [[ashe-in-america|Ashe in America]] highlighted the instruction as evidence of a cover-up, since Pelosi sat at the top of the chain of command on January 6.[5]

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [pandemic, public-health, biosecurity, critique]
-sources: [raw/badlands-news-brief-4a3.md]
+sources: [raw/badlands-news-brief-4a3.md, raw/the-whos-last-stand.md]
 confidence: low
 ---
 
@@ -25,3 +25,11 @@ Commentators in the same brief linked renewed pandemic warnings to electoral con
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Fauci Returns, the Dollar Falls & Stormy Struts", URL: https://badlands.substack.com/p/badlands-news-brief-4a3
+
+## "The WHO's Last Stand" (2023)
+
+Badlands Media argued that because none of the errors of the COVID-19 pandemic were sufficiently addressed and virtually no accountability followed, the machinations of the Pandemic Industrial Complex would be able to proceed unimpeded under the banner of "global health" when the next emergency arrives.[2] The article observed that outrage dissipates over time as public attention shifts to a war in Eastern Europe, a culture war at home, the persecution of former presidents and a looming financial collapse — leaving the complex's incentives intact.[2]
+
+It characterized the [[who-pandemic-accord|WHO CA+]] and the proposed amendments to the [[international-health-regulations|International Health Regulations]] as the next phase of a long-planned global coup d'etat, advanced by globalist institutions including the [[united-nations|United Nations]], the [[world-economic-forum|World Economic Forum]] and especially the [[world-health-organization|World Health Organization]].[2]
+
+2. Badlands Brief — "The WHO's Last Stand", URL: https://badlands.substack.com/p/the-whos-last-stand

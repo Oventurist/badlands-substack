@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [doge, federal-workforce, executive-order, government-reform, technology]
-sources: [raw/badlands-news-brief-ba8.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-cb6.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-dca.md, raw/badlands-news-brief-e01.md, raw/badlands-news-brief-dae.md, raw/badlands-news-brief-e31.md, raw/the-information-imperium.md]
+sources: [raw/badlands-news-brief-ba8.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-cb6.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-dca.md, raw/badlands-news-brief-e01.md, raw/badlands-news-brief-dae.md, raw/badlands-news-brief-e31.md, raw/the-information-imperium.md, raw/the-real-fight-begins.md]
 confidence: medium
 ---
 
@@ -84,3 +84,9 @@ On February 18, 2025, US District Judge [[tanya-chutkan|Tanya Chutkan]] declined
 In February 2025 the Department of Government Efficiency slashed funding to the [[national-endowment-for-democracy|National Endowment for Democracy]] by blocking Treasury disbursements, gutting staffing at the [[national-democratic-institute|NDI]] and [[international-republican-institute|IRI]] by roughly two-thirds; the NED responded by suing the Trump administration over the withheld overseas aid.[9] [[elon-musk|Elon Musk]] called the endowment "rife with corruption" and pushed to dissolve it.[9] [[internews|Internews]], funded chiefly through [[usaid|USAID]] rather than NED grants, nonetheless felt the ripple effects in the form of furloughs and scaled-back projects.[9] Badlands Media's "The Information Imperium" credits DOGE, alongside [[mike-benz|Mike Benz]], with bringing USAID's role in global information operations under sustained public scrutiny.[9]
 
 9. Badlands Brief — "The Information Imperium", URL: https://badlands.substack.com/p/the-information-imperium
+
+## Announcement during the 2024 transition
+
+The Department of Government Efficiency was announced in November 2024 with [[elon-musk|Elon Musk]] and [[vivek-ramaswamy|Vivek Ramaswamy]] named to head it, appearing on Badlands Media's running list of [[donald-trump|Trump]] transition appointments.[10] Contributor [[ryan-delarme|Ryan DeLarme]] called the pairing "hopeful," listing it among the picks he regarded as promising alongside [[tulsi-gabbard|Tulsi Gabbard]] as Director of National Intelligence, [[matt-gaetz|Matt Gaetz]] as Attorney General and [[tom-homan|Tom Homan]] as border czar.[10]
+
+10. Badlands Brief — "The Real Fight Begins", URL: https://badlands.substack.com/p/the-real-fight-begins

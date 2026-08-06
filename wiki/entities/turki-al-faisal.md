@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [saudi-arabia, diplomacy, israel, intelligence]
-sources: [raw/badlands-news-brief-311.md, raw/the-harvard-control-grid.md]
+sources: [raw/badlands-news-brief-311.md, raw/the-harvard-control-grid.md, raw/who-is-the-real-enemy.md]
 confidence: medium
 ---
 
@@ -32,3 +32,11 @@ Turki's father, King Faisal, met secretly with President [[john-f-kennedy|John F
 
 1. Badlands Brief — "Theatrical Judges, Syrian Statements & Canadian Defections", URL: https://badlands.substack.com/p/badlands-news-brief-311
 2. Badlands Brief — "The Harvard Control Grid", URL: https://badlands.substack.com/p/the-harvard-control-grid
+
+## Funding the Afghan mujahideen through BCCI
+
+"Who Is The Real Enemy?" identifies Prince Turki al-Faisal, alongside [[kamal-adham|Kamal Adham]], as one of the Saudi intelligence chiefs who met repeatedly with [[central-intelligence-agency|CIA]] Director [[william-casey|William Casey]] and General [[muhammad-zia-ul-haq|Zia]] in [[pakistan|Pakistan]], in meetings arranged by [[bank-of-credit-and-commerce-international|BCCI]] head [[agha-hasan-abedi|Agha Hasan Abedi]]; both Saudi officials were BCCI shareholders.[3]
+
+As a result of those conclaves, Prince Turki distributed more than $1 billion in cash to Afghan guerrillas, an amount matched by another billion from the CIA.[3] Because the Saudis provided funding, the administration was able to bypass Congress.[3] The money reached the field through Pakistani channels: bags of dollar bills flown into Pakistan and banked by [[inter-services-intelligence|ISI]] director [[akhtar-abdur-rahman|Akhtar Abdur Rahman]] in accounts at the National Bank of Pakistan, BCCI and the Bank of Oman.[3]
+
+3. Badlands Brief — "Who Is The Real Enemy?", URL: https://badlands.substack.com/p/who-is-the-real-enemy

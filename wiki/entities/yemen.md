@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [middle-east, yemen, houthis, red-sea, geopolitics]
-sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-378.md]
+sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-378.md, raw/trump-cuts-the-head-off-the-snake.md, raw/war-pigs-21c.md]
 confidence: medium
 ---
 
@@ -25,3 +25,19 @@ In the final days of 2023, forces of the Yemeni [[houthis|Houthi]] movement atta
 ## References
 1. Badlands News Brief — "MAGA Gets Branded as Biden Bungles Everything", URL: https://badlands.substack.com/p/badlands-news-brief-07e
 2. Badlands Brief — "Badlands News Brief: Hypocrisy Roundup & Rug-pulls Galore", URL: https://badlands.substack.com/p/badlands-news-brief-378
+
+## In "Trump Cuts the Head off the Snake"
+
+Joe Lange presents Yemen as the theatre of a proxy war between [[saudi-arabia|Saudi Arabia]] under Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] and [[iran|Iran]], with Yemeni rebels supplied by Iran and [[hezbollah|Hezbollah]].[3] In November 2017, hours after the resignation of Lebanese Prime Minister [[saad-hariri|Saad al-Hariri]] in Riyadh, Saudi Arabia said it had intercepted a ballistic missile fired from Yemen and destroyed over the capital, with fragments landing in the area of King Khalid International Airport; a channel linked to [[houthis|Houthi]] rebels said the missile had been aimed at the airport.[3] Lange argues the missile was provided by Hezbollah and Iran and reads Q's questions about its true origin as pointing to the distinction between puppets and puppet masters.[3]
+
+On September 14, 2019 the war reached deep into Saudi territory with the [[2019-abqaiq-and-khurais-drone-attacks|Houthi drone strikes]] on the Abqaiq and Khurais refineries, some 500 miles from Yemeni territory.[3] Prince [[mansour-bin-muqrin|Mansour bin Muqrin]] died in a helicopter crash near the Yemeni border hours after the November 2017 mass arrests, prompting Lange to speculate he had been fleeing toward Yemen.[3] The eight-year Houthi–Saudi conflict was wound down by the [[2023-china-brokered-saudi-iran-normalization|March 2023 normalization]], which rested on an Iranian commitment to curtail support for militant groups targeting the kingdom.[3]
+
+3. Badlands Brief — "Trump Cuts the Head off the Snake", URL: https://badlands.substack.com/p/trump-cuts-the-head-off-the-snake
+
+## The January 2024 US bombing
+
+After roughly a year without American bombardment, the [[joe-biden|Biden administration]] struck sixteen sites in Yemen in January 2024, ending an informal ceasefire that had held between the [[houthis|Houthis]] and [[saudi-arabia|Saudi Arabia]].[4] [[ryan-delarme|Ryan DeLarme]] noted that the underlying war had begun under [[barack-obama|Barack Obama]], who extensively assisted the Saudis in a campaign that decimated Yemen and produced one of the worst humanitarian crises in recent history, surpassed only by the later bombardment and deprivation in Gaza.[4]
+
+DeLarme argued the strikes were an escalation by definition, were planned weeks in advance yet executed without congressional approval or debate, and drew objections from members of [[congress|Congress]] who called them illegal and unconstitutional.[4] He also observed that the operation was publicly telegraphed before it was carried out, compromising whatever strategic effect it might have had.[4]
+
+4. Badlands Brief — "War Pigs", URL: https://badlands.substack.com/p/war-pigs-21c

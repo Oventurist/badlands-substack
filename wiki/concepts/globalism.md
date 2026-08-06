@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [globalism, imperialism, british-cabal, colonialism]
-sources: [raw/the-british-cabal.md]
+sources: [raw/the-british-cabal.md, raw/trumps-2025-vision.md]
 confidence: low
 ---
 
@@ -31,3 +31,13 @@ Carlson listed the wider apparatus he associates with the [[british-cabal|Britis
 ## References
 
 1. Badlands Brief — "The British Cabal", URL: https://badlands.substack.com/p/the-british-cabal
+
+## The suppression-of-alternatives thesis (Deschamps, June 2023)
+
+[[justin-deschamps|Justin Deschamps]] argued in June 2023 that the globalist program is objectively unpalatable to anyone who wants genuine freedom, and therefore depends on extinguishing every visible alternative rather than on persuasion.[2] He summarized the mechanism with the line, "How do you know you're eating a crap sandwich? You won't know if all you've ever eaten was shite."[2] Citing the [[asch-conformity-experiments|Asch conformity experiments]] and Philip Zimbardo's account of them, he contended that conformity pressure is powerful enough to override individual perception, but only when contradictory influences have been removed — making censorship the tool of choice, with China cited as the extreme case.[2]
+
+Deschamps traced the program through the industrial revolutions, the [[green-revolution|Green Revolution]], IMF lending to poor countries, and the eventual [[15-minute-cities|15-minute city]] endpoint of the [[great-reset|Great Reset]], describing the whole as a 150-year campaign to purge the transcendent values of truth, beauty, and goodness in favor of false truth, ugly beauty, and faux goodness.[2] He contrasted Soviet-era concrete architecture with gilded-age splendor to illustrate why the American example had to be degraded before socialism could be sold.[2]
+
+He also argued that gender ideology serves the agenda by decoupling people from objective truth and value, producing populations incapable of navigating reality and therefore wholly dependent on a globalist nanny state, and that the manufacture of insecurity explains globalist hostility to an armed citizenry.[2] Against all this he set [[donald-trump|Donald Trump]]'s [[agenda-47|Agenda 47]] and [[freedom-cities|Freedom Cities]] as a competing vision.[2]
+
+2. Badlands Brief — "Trump's 2025 Vision [Updated]", URL: https://badlands.substack.com/p/trumps-2025-vision

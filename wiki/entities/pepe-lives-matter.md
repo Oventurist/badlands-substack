@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, citizen-journalism, commentary, great-awakening]
-sources: [raw/badlands-news-brief-644.md, raw/power-to-the-people.md]
+sources: [raw/badlands-news-brief-644.md, raw/power-to-the-people.md, raw/thrive-in-the-transition.md]
 confidence: medium
 ---
 
@@ -28,7 +28,16 @@ Pepe Lives Matter attributed the doubt he saw among readers to the same failure 
 
 Naming [[hillary-clinton|Clinton]], [[barack-obama|Obama]] and [[george-soros|Soros]] among high-level players he considered complicit in treason, he wrote that "sometimes you sacrifice a pawn to go after the King and Queen," and that winning the game mattered more than charging every player.[2] He called the prevailing order "the Babylon system," invoked [[qanon|Q]]'s claim that crimes against children would unite the world, and pointed to [[donald-trump|Donald Trump]]'s recent re-posting of an overtly Q-themed video on [[truth-social|Truth Social]] as deliberate affirmation of the anon movement.[2] The piece closed with the assurance that the end of "this movie" had a happy ending, that history would remember the part played by independent journalists and anons, and that credit belonged ultimately to God.[2]
 
+## "Thrive in the Transition" (2022)
+
+In a December 7, 2022 essay for Badlands Media titled "Thrive in the Transition," subtitled "An Appeal to Calm in the Chaos," Pepe Lives Matter argued that the awakened mind needs encouragement and faith more than ever, lest the black pill, the "Doomer's Refrain" and defeatism embed themselves permanently in the psyche.[3] He advocated a "Macro Viewpoint" or eagle-eyed perspective over the daily news cycle, holding that precipice narratives are written for the normie and the half-awake rather than for the patriot already awake.[3]
+
+The essay framed the present as a transitional barren season — leaving one thing behind to reach another — and prescribed a change of mentality and expectation as the way to [[thriving-in-the-transition|thrive in that transition]] without surrendering hope.[3] Citing [[donald-trump|Donald Trump]]'s 2024 announcement speech as saying plainly that the precipice had not yet been reached and that unity and breakthrough would follow a mass awakening, he concluded that this season is less about digging into information than about digging deeper into God and faith.[3] He affirmed that a plan exists and read the blatancy of the corruption as an unveiling that is a prerequisite to that plan's implementation.[3]
+
+He argued that Trump's World War III warnings were aimed at unconvinced spectators rather than at anons, and that the 2020 "Plandemic" backfired by driving isolated citizens to research for themselves.[3] Likening the moment of awakening to Neo opening his real eyes in *The Matrix*, he held that once a mind awakens it never returns to sleep, and that guarding hope is an art form requiring practice.[3] The piece closed by telling readers that their old selves would not be present at the end, that they were being reborn from the ashes by the heat of each trial, and that a simple change of perspective on the meaning of that trial might itself be "the plan."[3]
+
 ## References
 
 1. Badlands Brief — "J6 Exposure, Biden's Brain and Trump's Agenda", URL: https://badlands.substack.com/p/badlands-news-brief-644
 2. Badlands Brief — "Power to the People", URL: https://badlands.substack.com/p/power-to-the-people
+3. Badlands Brief — "Thrive in the Transition", URL: https://badlands.substack.com/p/thrive-in-the-transition

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [tiktok, national-security, supreme-court, divestiture, free-speech]
-sources: [raw/badlands-news-brief-08e.md, raw/badlands-news-brief-360.md, raw/badlands-news-brief-365.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-eff.md]
+sources: [raw/badlands-news-brief-08e.md, raw/badlands-news-brief-360.md, raw/badlands-news-brief-365.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-eff.md, raw/the-tiktok-ban.md, raw/the-multinational-offensive-against.md]
 confidence: medium
 ---
 
@@ -46,6 +46,16 @@ TikTok restored service in the United States on Sunday, just hours after going d
 
 Separately, [[perplexity-ai|Perplexity AI]] submitted a bid to ByteDance on Saturday, January 18, to create a new merged entity combining Perplexity, TikTok U.S. and new capital partners.[6]
 
+## Dissenting analysis: the ban as precedent (April 2024)
+
+In an April 8, 2024 Badlands Media commentary, contributor [[erik-carlson|Erik Carlson]] argued that the near-unanimous bipartisan enthusiasm for banning or forcing the sale of [[tiktok|TikTok]] was itself the strongest reason for suspicion, describing it as a "flashing red light" that the [[uniparty|Uniparty]] of Democrats, RINOs and neocons had aligned on a measure unlikely to serve the country.[7] He noted that the Chinese Communist Party's ability to harvest American data through TikTok had been known for years, and asked why Congress had chosen this moment to act while ignoring comparable data collection by other sites and apps.[7]
+
+Carlson recalled the earlier attempt at prohibition, quoting an NPR report of August 6, 2020 that President [[donald-trump|Donald Trump]] had invoked emergency economic powers to impose broad sanctions on TikTok, outlawing transactions between [[bytedance|ByteDance]] and U.S. citizens after 45 days, a step experts said would strip the app of American advertising, remove it from the Apple and Google app stores, and eventually leave the more than 100 million American users without software updates.[7] He contrasted that order with Trump's later reversal, in which Trump argued a ban would make [[mark-zuckerberg|Mark Zuckerberg]] twice as powerful and give him more "Zuckerbucks" to spend influencing the 2024 election as he had in 2020.[7] Carlson read the shift as Trump treating an empowered Meta as a greater threat than TikTok itself, comparable to his judgment that the COVID lockdowns were more dangerous than the virus.[7]
+
+The core of the argument was precedent: if Washington could ban TikTok or compel its sale, the same mechanism could later be aimed at [[twitter|Twitter (X)]] and [[elon-musk|Elon Musk]], justified by Musk's government contracts through SpaceX, Starlink and Tesla, or at [[telegram|Telegram]], and eventually at [[truth-social|Truth Social]].[7] Carlson described X as "valuable high ground" the [[deep-state|Deep State]] needed to retake because it was one of the few venues where minds were still being changed ahead of the election, and argued that the ultimate aim was a complete information blackout before November 2024.[7] He also contended that published polls are manipulated instruments used to shape behavior and pre-launder election fraud, whereas uncontrolled platform polls make fraudulent results harder to sell.[7]
+
+Supporting arguments included the sudden rise of the Chinese shopping app [[temu|Temu]] in the same period — raising the question of whether one data-collection operation was simply replacing another — and the Uniparty's inaction on the Chinese spy balloon, military-age Chinese nationals crossing the southern border, and Chinese purchases of American farmland.[7] Carlson tied the campaign to the March 22, 2024 [[crocus-city-hall-attack|Moscow concert hall attack]], noting that the attackers were reported to have received orders on Telegram, and to his broader hypothesis that Deep State power was being shifted away from the [[central-intelligence-agency|CIA]] toward the UN, NATO and the EU.[7]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: A President's Passing & A Prime Minister's Prostate", URL: https://badlands.substack.com/p/badlands-news-brief-08e
@@ -54,3 +64,10 @@ Separately, [[perplexity-ai|Perplexity AI]] submitted a bid to ByteDance on Satu
 4. Badlands News Brief — "Treasury Triumphs, TikTok U-Turns, & Trade War Time-Outs", raw/badlands-news-brief-508.md
 5. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
 6. Badlands Brief — "From This Day Forward, It's Going to Be Only America First.", URL: https://badlands.substack.com/p/badlands-news-brief-eff
+7. Badlands Brief — "The TikTok Ban", URL: https://badlands.substack.com/p/the-tiktok-ban
+
+## Cited as Republican censorship (DeLarme, 2024)
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] cited the TikTok ban as evidence that conservatives are also guilty of attempting to stamp out ideas they disagree with, listing it alongside the [[antisemitism-awareness-act|Antisemitism Awareness Act]] and campus crackdowns.[8] He nonetheless maintained that no one has pursued censorship as voraciously as the modern Democratic Party.[8]
+
+8. Badlands Brief — "The Multinational Offensive Against Free Speech Online", URL: https://badlands.substack.com/p/the-multinational-offensive-against

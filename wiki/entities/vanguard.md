@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, asset-management, index-funds, esg]
-sources: [raw/the-ivy-dominion.md]
+sources: [raw/the-ivy-dominion.md, raw/wilted-ivy.md]
 confidence: low
 ---
 
@@ -18,3 +18,9 @@ In the article's collapse narrative, Vanguard is grouped with BlackRock and Stat
 
 ## References
 1. Badlands Brief — "The Ivy Dominion", URL: https://badlands.substack.com/p/the-ivy-dominion
+
+## "Wilted Ivy" (2025)
+
+Badlands Media's May 2025 essay "Wilted Ivy" names Vanguard alongside [[blackrock|BlackRock]] and [[state-street|State Street]] as one of three asset managers that "didn't merely participate in corporate governance, they dominated it," describing their combined trillions as the financial enforcement arm of the globalist order.[2] The article says the trio used endowment management to embed themselves in the funding of [[ivy-league|Ivy League]] institutions and used capital flows to enforce [[esg|ESG]] compliance and [[diversity-equity-and-inclusion|DEI]] orthodoxy.[2] In its account of 2023-2024, the essay reports the Big Three being "neutralized or redirected under White Hat influence," severing the financial arteries on which institutions such as [[harvard-university|Harvard]] depended.[2]
+
+2. Badlands Brief — "Wilted Ivy", URL: https://badlands.substack.com/p/wilted-ivy

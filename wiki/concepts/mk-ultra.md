@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [mk-ultra, cia, mind-control, trauma, declassified-documents]
-sources: [raw/child-sacrifice-as-a-pillar-of-deep.md, raw/four-pillars-of-government-control.md, raw/john-bobby-and-marilyn.md, raw/on-ted-kaczynski-and-false-prophets.md, raw/patsies-of-the-cia-and-fbi.md, raw/real-patriots-dont-think-like-hitler-111.md, raw/scholars-and-spooks.md, raw/structures-of-control-part-3.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-inversion-of-health.md]
+sources: [raw/child-sacrifice-as-a-pillar-of-deep.md, raw/four-pillars-of-government-control.md, raw/john-bobby-and-marilyn.md, raw/on-ted-kaczynski-and-false-prophets.md, raw/patsies-of-the-cia-and-fbi.md, raw/real-patriots-dont-think-like-hitler-111.md, raw/scholars-and-spooks.md, raw/structures-of-control-part-3.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-inversion-of-health.md, raw/the-werewolf-game-hell-is-organized.md, raw/who-are-the-true-puppet-masters.md]
 confidence: medium
 ---
 
@@ -91,3 +91,15 @@ For Carlson the near-simultaneity of these operations refutes the idea that the 
 In "The Inversion of Health," [[ryan-delarme|Ryan DeLarme]] notes that Dr. [[ewen-cameron|Ewen Cameron]], the CIA-funded mind control doctor who ran the MKULTRA program, was among the intimates of the Rockefeller-funded sex researcher [[alfred-kinsey|Alfred Kinsey]].[10]
 
 10. Badlands Brief — "The Inversion of Health", URL: https://badlands.substack.com/p/the-inversion-of-health
+
+## Claimed occult ancestry
+
+In "The Werewolf Game - Hell is Organized," [[american-hypnotist|American Hypnotist]] argues that MK Ultra should be read as the modern inheritor of a far older tradition of ritual mind control.[11] He describes the [[koryos|Koryos]] werewolf cult as having run what he calls a "proto MK Ultra program for kids," recruiting and grooming children into killers through drug-induced ritual, and writes that it "would not surprise me in the slightest if the progenitors of the MK Ultra program are themselves direct inheritors of the werewolf tradition."[11] The common ingredients he identifies across both are torture, hypnosis and occultism, producing split personalities and, in the cult's own framing, controllable spirits.[11] He also draws an analogy between the [[central-intelligence-agency|CIA]]'s use of handlers to maintain programming in human subjects and the "handler" spirits said to enforce programming within a demonic hierarchy.[11]
+
+11. Badlands Brief — "The Werewolf Game - Hell is Organized", URL: https://badlands.substack.com/p/the-werewolf-game-hell-is-organized
+
+## Cited in "Who are the True Puppet Masters?" (July 2023)
+
+[[erik-carlson|Erik Carlson]] describes the [[tavistock-institute|Tavistock Institute]] in England as the predecessor to the [[cia|CIA]]'s MKULTRA program.[12] Propaganda and mind control, in his account, began at Tavistock, which produced both the techniques for manipulating the masses through the media and the individual-level methods using drugs, torture and psychiatry that MKULTRA later employed.[12] The claim supports his broader argument that [[british-intelligence|British intelligence]] trained both the CIA and the KGB.[12]
+
+12. Badlands Brief — "Who are the True Puppet Masters?", URL: https://badlands.substack.com/p/who-are-the-true-puppet-masters

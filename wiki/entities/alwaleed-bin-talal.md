@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [saudi-arabia, finance, xai, kingdom-holding, saudi-purge]
-sources: [raw/badlands-news-brief-af5.md, raw/badlands-news-brief-d50.md, raw/everything-is-connected.md, raw/hes-not-a-war-hero.md, raw/irregular-warfare.md, raw/moves-and-countermoves.md, raw/panic-in-dc.md, raw/q-for-dummies-chapter-14.md, raw/q-for-dummies-chapter-12.md, raw/q-for-dummies-chapter-15.md, raw/q-for-dummies-chapter-17.md, raw/q-for-dummies-chapter-16.md, raw/the-bank-of-crooks-and-criminals.md, raw/the-bridge-3c3.md, raw/the-battle-for-control.md, raw/the-biggest-cover-up-in-american.md]
+sources: [raw/badlands-news-brief-af5.md, raw/badlands-news-brief-d50.md, raw/everything-is-connected.md, raw/hes-not-a-war-hero.md, raw/irregular-warfare.md, raw/moves-and-countermoves.md, raw/panic-in-dc.md, raw/q-for-dummies-chapter-14.md, raw/q-for-dummies-chapter-12.md, raw/q-for-dummies-chapter-15.md, raw/q-for-dummies-chapter-17.md, raw/q-for-dummies-chapter-16.md, raw/the-bank-of-crooks-and-criminals.md, raw/the-bridge-3c3.md, raw/the-battle-for-control.md, raw/the-biggest-cover-up-in-american.md, raw/trump-cuts-the-head-off-the-snake.md, raw/trump-takes-out-the-king.md, raw/we-are-watching-a-movie.md]
 confidence: medium
 ---
 
@@ -48,13 +48,6 @@ Chapter 12 of the [[q-for-dummies|Q for Dummies]] series answers Q's questions a
 
 The chapter adds that Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] was reportedly staying at the hotel Alwaleed owned before relocating to the Tropicana shortly before the shooting, and notes that Alwaleed was among those arrested weeks later in the [[saudi-purge|Saudi purge]].[9]
 
-## References
-1. Badlands Brief — "Badlands News Brief: Deliberations Begin as Signal Spreads in the Info War", URL: https://badlands.substack.com/p/badlands-news-brief-af5
-2. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50
-3. Badlands Brief — "Everything Is Connected", URL: https://badlands.substack.com/p/everything-is-connected
-4. Badlands Brief — "He's Not A War Hero", URL: https://badlands.substack.com/p/hes-not-a-war-hero
-5. Badlands Brief — "Irregular Warfare", URL: https://badlands.substack.com/p/irregular-warfare
-6. Badlands Brief — "Moves and Countermoves", URL: https://badlands.substack.com/p/moves-and-countermoves
 
 ## Redirected funding after 2016
 
@@ -68,8 +61,6 @@ In "Panic in DC," [[joe-lange|Joe Lange]] argues that war has always been one of
 
 Chapter 14 of the [[q-for-dummies|Q for Dummies]] series places Alwaleed at the top of the list of royals detained in the November 2017 [[saudi-purge|Saudi purge]] and calls him vastly important to understanding the drops.[8] The chapter identifies him as the figure Trump and Q refer to as "Dopey," notes that he was at one point the largest shareholder of [[twitter|Twitter]], and states that he helped fund Barack Obama's rise to power.[8] His arrest is presented as part of a wider round-up that reached the military, business and media sectors and swept up well over 300 people, all of whom held power over the direction and rule of the kingdom.[8]
 
-7. Badlands Brief — "Panic in DC", URL: https://badlands.substack.com/p/panic-in-dc
-8. Badlands Brief — "Q for Dummies - Chapter 14", URL: https://badlands.substack.com/p/q-for-dummies-chapter-14
 9. Badlands Media — "Q for Dummies - Chapter 12", URL: https://badlands.substack.com/p/q-for-dummies-chapter-12
 
 ## Chapter 15: Twitter ownership and the severed strings
@@ -78,8 +69,6 @@ Chapter 15 of the [[q-for-dummies|Q for Dummies]] series returns to Alwaleed's o
 
 Reading Q drop #106's line "SA cut the strings," the author contends that the [[saudi-purge|Saudi purge]] was not merely a domestic anti-corruption operation but the instrument that severed the financial leverage of those who had been "selling our country out to the [[muslim-brotherhood|Muslim Brotherhood]]."[10]
 
-10. Badlands Brief — "Q for Dummies - Chapter 15", URL: https://badlands.substack.com/p/q-for-dummies-chapter-15
-11. Badlands Brief — "Q for Dummies - Chapter 17", URL: https://badlands.substack.com/p/q-for-dummies-chapter-17
 
 ## Chapter 17: cutting the strings, HUMA, and the Bush connection
 
@@ -117,14 +106,11 @@ Lange distinguishes kings and prime ministers, whose power is bounded, from a sm
 
 Alwaleed did not act alone: the New York Times reported in March 1991 that he bought his stake in Citicorp "on the recommendation of American advisers" — the [[carlyle-group|Carlyle Group]], a relatively new Washington-based firm led by people with little investment experience but strong political connections.[13] Those advisers included founding partner [[david-rubenstein|David M. Rubenstein]], vice chairman [[frank-carlucci|Frank C. Carlucci]] and adviser [[fred-malek|Frederick V. Malek]], all of whom had long histories with George H.W. Bush.[13]
 
-13. Badlands Brief — "The Bank of Crooks And Criminals", URL: https://badlands.substack.com/p/the-bank-of-crooks-and-criminals
-14. Badlands Brief — "The Bridge", URL: https://badlands.substack.com/p/the-bridge-3c3
 
 ## Citibank and "The Battle for Control"
 
 [[joe-lange|Joe Lange]] opened his February 2024 banking series by stating that he began with Prince Alwaleed and how [[donald-trump|Donald Trump]] "took him off the chessboard," calling him the biggest threat to Trump on the day he was inaugurated and promising to prove it in subsequent articles.[15] Lange writes that one bank sits at the center of both the [[cia|CIA]] shadow government and Alwaleed's power and control: [[citibank|Citibank]], which he calls possibly the most corrupt bank in the world and one of the "keys" that opens all doors.[15] Having devoted "The Battle for Control" to Citibank's early history, he announced that his next article would connect the bank directly to Alwaleed in order to explain how the prince became so powerful.[15] He also drew an explicit parallel between Alwaleed and [[john-jacob-astor|John Jacob Astor]], the nineteenth-century financier who took control of Citibank through a bailout.[15]
 
-15. Badlands Brief — "The Battle for Control", URL: https://badlands.substack.com/p/the-battle-for-control
 
 ## Alleged patronage of the Podestas
 
@@ -138,4 +124,60 @@ Answering [[qanon|Q]]'s questions about who paid for [[barack-obama|Barack Obama
 
 Lange connects Alwaleed to the [[uranium-one-deal|Uranium One deal]] through [[qanon|Q]] drop #49 of November 2, 2017, which said of the matter "It's a name recognized around the world" and invoked "[[alice-and-wonderland|Alice & Wonderland]]" three days before Alwaleed's arrest in [[saudi-arabia|Saudi Arabia]] along with hundreds of his allies.[16] He describes Alwaleed as a puppet master who controlled the Obama administration, politicians around the world, large corporations, media, banks and the [[cia|CIA]], and argues that removing him from the board threw the enemy into chaos.[16] Q had nicknamed him "Snow White."[16]
 
+
+## In "Trump Cuts the Head off the Snake"
+
+Joe Lange argues that Alwaleed grew very wealthy off the wars in the Middle East, funding and controlling the terrorist groups the United States was fighting while simultaneously laundering money from the military industrial complex.[17] Lange cites Q post 133, issued after the arrest, which stated that public wealth disclosures were false and that many governments of the world feed the "EYE" through slush funds, war and environmental pacts.[17] On this reading, Alwaleed's public recognition as one of the wealthiest men in the world understated the wealth he actually controlled, which was distributed globally through proxy puppets.[17]
+
+The article contends that Alwaleed controlled the leaders of both [[saudi-arabia|Saudi Arabia]] and [[iran|Iran]], making the apparent Sunni–Shia rivalry a manufactured division, and that [[qasem-soleimani|Qasem Soleimani]] was among his biggest puppets — the reason, Lange claims, that four previous presidents never acted against Soleimani.[17] Lange further argues that [[donald-trump|Trump]] removed Alwaleed from the chess board first, leaving his puppets weaker and more vulnerable, and that the subsequent [[assassination-of-qasem-soleimani|killing of Soleimani]] freed Iran from Alwaleed's control and from that of the [[cia|CIA]].[17]
+
+
+## "Trump Takes Out the King"
+
+In a companion Badlands piece, [[joe-lange|Joe Lange]] frames Alwaleed as "the King" of the chessboard metaphor drawn from Q's question, "Do you ATTACK THE KING at the beginning of the game?", arguing that [[donald-trump|Trump]] inverted normal chess strategy by removing the most powerful piece first rather than working through the pawns.[18] Citing [[vanity-fair|Vanity Fair]], the article records that Saudi Arabia announced on the night of Saturday, November 4–5, 2017 that Alwaleed had been arrested along with ten other princes, four ministers and many former ministers, in what appeared to be the first major action of [[salman-bin-abdulaziz|King Salman]]'s anti-corruption initiative — an initiative the king had declared only hours before the arrests.[18] The charges given were money laundering, bribery and extortion.[18]
+
+Vanity Fair noted that the sweep also consolidated the power of Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]], and that the arrest of a man holding major stakes in News Corp, Citigroup, Apple, Twitter and other large businesses would send a shockwave through the kingdom and the world's financial centers.[18] Lange describes Alwaleed as more than a shareholder — called the "Warren Buffett of the Middle East" but wielding far more power than was publicly understood — and names him the single biggest threat Trump faced on the day he was sworn in.[18]
+
+Lange further asserts that American special forces assisted in the arrests, pointing to several Q posts issued the same day as evidence of U.S. military involvement in taking down the "puppet master," and argues that the operation was planned and coordinated by Trump.[18] Citing Q post 106, he contends that once Saudi Arabia "cut the strings," all the puppets Alwaleed controlled were left scrambling for cover, their protection gone.[18] The article also claims Alwaleed funded and controlled Middle Eastern terror networks going back decades while profiting from America's war on terror, and previews a follow-up argument that he was the man behind Islamic extremism in Saudi Arabia and controlled puppets in both [[iran|Iran]] and the [[cia|CIA]].[18]
+
+## References
+1. Badlands Brief — "Badlands News Brief: Deliberations Begin as Signal Spreads in the Info War", URL: https://badlands.substack.com/p/badlands-news-brief-af5
+2. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50
+3. Badlands Brief — "Everything Is Connected", URL: https://badlands.substack.com/p/everything-is-connected
+4. Badlands Brief — "He's Not A War Hero", URL: https://badlands.substack.com/p/hes-not-a-war-hero
+5. Badlands Brief — "Irregular Warfare", URL: https://badlands.substack.com/p/irregular-warfare
+6. Badlands Brief — "Moves and Countermoves", URL: https://badlands.substack.com/p/moves-and-countermoves
+7. Badlands Brief — "Panic in DC", URL: https://badlands.substack.com/p/panic-in-dc
+8. Badlands Brief — "Q for Dummies - Chapter 14", URL: https://badlands.substack.com/p/q-for-dummies-chapter-14
+10. Badlands Brief — "Q for Dummies - Chapter 15", URL: https://badlands.substack.com/p/q-for-dummies-chapter-15
+11. Badlands Brief — "Q for Dummies - Chapter 17", URL: https://badlands.substack.com/p/q-for-dummies-chapter-17
+13. Badlands Brief — "The Bank of Crooks And Criminals", URL: https://badlands.substack.com/p/the-bank-of-crooks-and-criminals
+14. Badlands Brief — "The Bridge", URL: https://badlands.substack.com/p/the-bridge-3c3
+15. Badlands Brief — "The Battle for Control", URL: https://badlands.substack.com/p/the-battle-for-control
 16. Badlands Brief — "The Biggest Cover-up in American History", URL: https://badlands.substack.com/p/the-biggest-cover-up-in-american
+17. Badlands Brief — "Trump Cuts the Head off the Snake", URL: https://badlands.substack.com/p/trump-cuts-the-head-off-the-snake
+18. Badlands Brief — "Trump Takes Out the King", URL: https://badlands.substack.com/p/trump-takes-out-the-king
+
+## The 2015 Twitter feud with Trump and the "Dopey" nickname
+
+In "We Are Watching a Movie," [[joe-lange|Joe Lange]] presents the December 2015 exchange between Alwaleed and [[donald-trump|Donald Trump]] as the opening of an existential struggle between the two men.[19] The BBC, quoted in the article, reported that the Saudi prince described Trump — then a candidate for the Republican presidential nomination — as a "disgrace to America," said on Twitter that Trump should abandon his presidential ambitions because "he would never win," and made the remarks in response to Trump's call for Muslims to be barred from entering the United States for security reasons.[19] Lange characterises Trump's position as a ban on immigration from countries designated as terror threats, and says Alwaleed's confidence that Trump could never win reflected the same assumption that [[hillary-clinton|Hillary Clinton]] and [[barack-obama|Barack Obama]] made — that Clinton was not supposed to lose.[19]
+
+Trump replied by giving Alwaleed the nickname "Dopey" and describing what the prince was doing with his money.[19] Lange offers two readings of the nickname: it invoked the [[snow-white-supercomputers|CIA supercomputers]] named after the seven dwarfs, and it mocked reporting that Alwaleed engaged in dwarf-tossing.[19] He argues Alwaleed controlled not only American politicians through his wealth but the [[central-intelligence-agency|CIA]] itself, and that Trump understood from the outset that Alwaleed was "the most dangerous man in the world" for him and his family.[19]
+
+## Vanity Fair profile and the dwarf-tossing allegations
+
+The article quotes a 2013 *Vanity Fair* profile, "The Stockholder in the Sand," describing Alwaleed as worth an estimated $27 billion, the second-largest voting shareholder in [[news-corp|News Corporation]], owner of Paris's George V hotel and part of New York City's Plaza hotel, a stockholder in Apple, and the future owner of the world's tallest building — while noting that the private origins and exact size of his fortune remained disputed.[19] The same piece described him as "a calorie-counting cell-phone addict who loves texting James Murdoch" and asked whether he really spent his free time throwing dwarves.[19]
+
+*Business Insider* broke the dwarf-tossing story in January 2012, sourced to a former American employee of Alwaleed's who was also a friend of the prince's 35-year-old son, Khaled.[19] The prince's defenders, per *Vanity Fair*, sought to contextualise the practice: dwarves are outcasts in Saudi Arabia, and Alwaleed hired begging dwarves as a roving band of court jesters, instilling in them "a work ethic"; when pressed into service as human projectiles there were pillows to catch them, though pillows were moot when the dwarves were made to dive for $100 bills in bonfires.[19] Alwaleed told the magazine emphatically, at their first meeting at the Plaza hotel in February 2012, "It's all lies."[19] Lange counters that if it were all lies his defenders would not have tried to supply context, and asks why a close friend of Alwaleed's only son, who had worked for and lived with the family for years, would fabricate the story.[19] The profile adds that after the stories became public the 58-year-old mogul stopped inviting journalists to his $130 million, 460,000-square-foot Riyadh complex with 371 rooms, an 80-foot-high entrance hall, 500 televisions and a staff of 100, since "slinging dwarves" around would not go down well with a First World audience.[19] Lange concludes that Alwaleed cared intensely about his image and that Trump knew exactly how to troll him.[19]
+
+## Media and banking holdings as instruments of control
+
+*Vanity Fair* identified Alwaleed as one of the largest shareholders in [[citigroup|Citigroup]] and the second-largest voting shareholder in News Corporation after the Murdoch family, with major stakes in dozens of other Western companies.[19] The ties to [[rupert-murdoch|Murdoch]] ran deep: Alwaleed owned 56.2 million shares of News Corporation, while News Corporation in turn owned a 19.9 percent stake, worth around $150 million, in Rotana, Alwaleed's privately held pan-Arab media conglomerate based in Bahrain.[19] Lange argues that Alwaleed did not merely have influence over the corporations he invested in but control over them, and that controlling the CIA conferred far more power than shareholdings alone.[19] Because News Corp controls [[fox-news|FOX News]] and Citigroup is, in his description, the most corrupt bank in America, the prince held two of the most politically connected companies in the country — and his Middle Eastern media holdings extended that narrative control worldwide.[19]
+
+As part of the Twitter spat Trump reposted a meme highlighting Alwaleed's connection to FOX News, deliberately provoking him to draw attention to the fight.[19] Alwaleed responded to Trump's tweet about [[megyn-kelly|Megyn Kelly]] — who was hosting one of the debates at the time and had been particularly hostile to Trump — reminding Trump that he had purchased Trump's yacht and a controlling stake in the Plaza Hotel in the early nineties.[19]
+
+## "He needs bailing out"
+
+Asked by DailyMail.com aboard his Boeing 757 on the tarmac in Des Moines about Alwaleed's claim to have rescued him financially, Trump answered: "No, no. He didn't bail me out. Let me tell you – he needs bailing out right now, if you look at where he's going. He needs bailing out. He needs big bailouts."[19] He added, "Nope. Never been a fan of his. Never been a fan. Never liked him," and, when asked whether he had ever met the prince, paused before saying, "No. Never liked him. Never met him."[19] Lange reads the phrase "where he's going" as a prediction of Alwaleed's later arrest in Saudi Arabia, and speculates that the plan was always to take Alwaleed down early in order to weaken his puppets worldwide.[19] He also identifies Alwaleed as the "one specific individual" behind Q's Snow White references, arguing that the Snow White motif was centred on both Alwaleed and the CIA.[19] These claims reflect Badlands Media interpretation rather than established fact.
+
+19. Badlands Brief — "We Are Watching a Movie", URL: https://badlands.substack.com/p/we-are-watching-a-movie

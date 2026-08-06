@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [biodefense, pentagon-contractor, ebola, africa, hunter-biden]
-sources: [raw/badlands-news-brief-713.md, raw/badlands-news-brief-f39.md]
+sources: [raw/badlands-news-brief-713.md, raw/badlands-news-brief-f39.md, raw/unmasking-the-military-industrial.md]
 confidence: medium
 ---
 
@@ -33,3 +33,11 @@ Emails obtained from [[hunter-biden|Hunter Biden]]'s abandoned laptop showed tha
 Badlands contributor [[ryan-delarme|Ryan DeLarme]] wrote sardonically that the story amounted to a man with no scientific background being connected to a bioweapons laboratory in a war zone where money laundering also occurred, and speculated that [[donald-trump|Donald Trump]]'s first impeachment — arising from a phone call about Ukraine — reflected an attempt to expose that corruption.[2]
 
 2. Badlands News Brief — "Hunter Hunted, Biden's Bane & Ukraine Fatigue", URL: https://badlands.substack.com/p/badlands-news-brief-f39
+
+## Ukrainian biolabs and the 2023 disclosures
+
+A December 2024 Badlands Media analysis placed Metabiota at the center of the 2023 phase of the [[white-hats|White Hat]] campaign in Ukraine, when attention shifted from biological research itself to financial and political corruption.[3] Investigations were said to reveal that [[hunter-biden|Hunter Biden]]'s investment firm [[rosemont-seneca|Rosemont Seneca]] had invested in Metabiota, a company directly involved with Ukrainian biolabs conducting research under U.S. government contracts administered through the [[defense-threat-reduction-agency|Defense Threat Reduction Agency]].[3]
+
+The article describes the resulting narrative as one of a corrupt nexus involving U.S. elites, the [[military-industrial-complex|Military-Industrial Complex]], and potentially illegal biological research.[3] Public outcry and legal scrutiny followed, with congressional hearings demanded though progress was slow due to political resistance; the episode nonetheless forced public discussion of the ethics of bioresearch, the transparency of U.S. foreign policy, and the extent to which private interests can dictate national security priorities.[3] The exposés also had international ripple effects, prompting other nations to question similar U.S. engagements on their own soil.[3]
+
+3. Badlands Media — "Unmasking the Military Industrial Complex", URL: https://badlands.substack.com/p/unmasking-the-military-industrial

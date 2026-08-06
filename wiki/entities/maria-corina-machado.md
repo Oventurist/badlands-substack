@@ -1,10 +1,10 @@
 ---
-title: María Corina Machado
+title: "María Corina Machado"
 created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [venezuela, opposition, machado, white-house]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-577.md, raw/badlands-brief-861.md, raw/badlands-brief-a9f.md, raw/badlands-brief-b38.md, raw/badlands-brief-b56.md, raw/badlands-brief-e87.md, raw/badlands-brief-d9f.md, raw/badlands-brief-e8d.md, raw/badlands-news-brief-040.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-306.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-e3e.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-577.md, raw/badlands-brief-861.md, raw/badlands-brief-a9f.md, raw/badlands-brief-b38.md, raw/badlands-brief-b56.md, raw/badlands-brief-e87.md, raw/badlands-brief-d9f.md, raw/badlands-brief-e8d.md, raw/badlands-news-brief-040.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-306.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-e3e.md, raw/the-venezuelan-squeeze.md]
 confidence: low
 ---
 
@@ -126,6 +126,14 @@ In October 2024, Venezuelan President [[nicolas-maduro|Nicolás Maduro]] accused
 
 Speaking to The Guardian after Venezuela's disputed July 2024 election, Machado urged [[nicolas-maduro|Nicolás Maduro]] to accept that his exit from power was inevitable and to come to terms with the end of his 11-year rule, during which Venezuela fell into a devastating economic and humanitarian crisis that forced millions to flee abroad.[18] She and candidate [[edmundo-gonzalez-urrutia|Edmundo González Urrutia]] said they could prove their victory, having obtained 73.2% of the polling-station voting tallies.[18] Their statements came as thousands of protesters took to the streets to repudiate Maduro's disputed claim to a third term.[18]
 
+## The 2025 Nobel Peace Prize and the "Venezuelan squeeze"
+
+Badlands Media contributor [[ryan-delarme|Ryan DeLarme]], writing in October 2025, placed Machado at the center of the endgame in [[venezuela|Venezuela]], describing her as another engineer-turned-dissident whose 2025 Nobel Peace Prize cast her not merely as a national icon but as the West's anointed spearhead in the final push against [[chavismo|Chavismo]].[19] Critics lambasted the award as the Nobel Committee's latest endorsement of regime change, exposing the prize itself as a hollow farce.[19]
+
+Detractors argue Machado is no unifier, contending that her free-market zeal and U.S. ties — decades of [[national-endowment-for-democracy|NED]] funding and whispers of [[cia|CIA]] briefings — alienate the Chavista base, the slum-dwellers [[hugo-chavez|Hugo Chávez]] once lifted with petrodollar largesse.[19] [[nicolas-maduro|Maduro]]'s camp erupted, with state media branding her "La Sayona," a vengeful specter from Venezuelan folklore, while loyalist rallies torched her effigies.[19]
+
+DeLarme writes that the Nobel gave Machado leverage: she used her acceptance speech, delivered by video from hiding, to thank the Venezuelan people and to call on the United States and its allies for support.[19] The second Trump administration responded with tighter sanctions on Russian and Chinese firms operating in Venezuela and increased pressure on Maduro's inner circle.[19] DeLarme characterizes Machado as "clearly the spiritual successor" to [[juan-guaido|Juan Guaidó]], and notes the [[white-house|White House]] justification for renewed pressure — alleged prisoner releases into the United States and drug smuggling — is widely regarded as a pretense for foreign policy objectives decades in the making.[19] Machado refuses dialogue with Maduro unless he agrees to a verified transition.[19]
+
 ## References
 
 1. Badlands Brief — "Arctic Escalation and Tropic Trouble for the Financial System", URL: https://badlands.substack.com/p/badlands-brief-02a
@@ -146,3 +154,4 @@ Speaking to The Guardian after Venezuela's disputed July 2024 election, Machado 
 16. Badlands Brief — "Fusion Mergers & Fusion-Adjacent Murders", URL: https://badlands.substack.com/p/badlands-news-brief-60c
 17. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71
 18. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e
+19. Badlands Media — "The Venezuelan Squeeze", URL: https://badlands.substack.com/p/the-venezuelan-squeeze

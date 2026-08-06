@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [president, democrat, obituary, nobel-peace-prize, georgia]
-sources: [raw/badlands-news-brief-08e.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-d36.md, raw/badlands-news-brief-dcb.md, raw/operation-cyclone-the-seeds-of-terror.md, raw/reagan-20.md, raw/the-men-behind-the-curtain-part-2.md]
+sources: [raw/badlands-news-brief-08e.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-d36.md, raw/badlands-news-brief-dcb.md, raw/operation-cyclone-the-seeds-of-terror.md, raw/reagan-20.md, raw/the-men-behind-the-curtain-part-2.md, raw/the-shadow-game.md, raw/the-us-department-of-re-education.md]
 confidence: high
 ---
 
@@ -72,3 +72,23 @@ A February 2025 Badlands feature by [[erik-carlson|Erik Carlson]] noted that [[r
 
 7. Badlands Brief — "Reagan 2.0", URL: https://badlands.substack.com/p/reagan-20
 8. Badlands Brief — "The Men Behind the Curtain - Part 2", URL: https://badlands.substack.com/p/the-men-behind-the-curtain-part-2
+
+## Attempts to "buck the system" (1977–1980)
+
+In "The Shadow Game," [[joe-lange|Joe Lange]] casts Carter as the president who tried to "buck the system" that [[george-hw-bush|George H.W. Bush]] had been building at the [[cia|CIA]] since 1976.[9] After defeating [[gerald-ford|Gerald Ford]] in the 1976 election, Carter refused Bush's request to be kept on as Director of Central Intelligence — a decision attributed to Vice President [[walter-mondale|Walter Mondale]], a leading member of the [[church-committee|Church Committee]], who had won a commitment from Carter to implement many of the committee's intelligence-reform recommendations; Bush lasted only a year as CIA director.[9]
+
+Lange lists two further Carter actions against the emerging [[shadow-government|shadow government]]: ending the use of the CIA training manuals at the [[school-of-the-americas|School of the Americas]] that taught assassination and torture of civilians on human-rights grounds, and cutting off funding for the Somoza regime in Nicaragua over its human rights violations.[9] The latter is described as helping topple the CIA-controlled [[anastasio-somoza-debayle|Somoza]] dictatorship and enabling the [[sandinista-national-liberation-front|Sandinistas]] to take power, which in turn led to the [[iran-contra-affair|Iran-Contra]] operation to fund and arm a rebel army to take back power.[9]
+
+## The 1980 election and the hostages
+
+According to Lange, Bush could not allow Carter a second term without derailing the shadow government and its global drug-trafficking operations, so Bush ran for president himself, lost the nomination to [[ronald-reagan|Ronald Reagan]], and was placed on the ticket as running mate.[9] The [[iranian-revolution|Iranian Revolution]] and the seizure of American hostages made Carter look weak on the world stage, a narrative amplified daily by the media's running count of days in captivity.[9] Carter was meanwhile negotiating a release that he hoped would carry him to re-election, and Bush knew of the negotiations.[9]
+
+Reporting later summarized by Lange holds that [[william-casey|William Casey]], Reagan's campaign chairman, met Iranian representatives in Madrid in July and August 1980, leading to a deal finalized in Paris in October under which a future Reagan administration would ship arms to Tehran through Israel in exchange for the hostages being held until after the election — the [[october-surprise|October Surprise]].[9] A rescue mission had failed in the Iranian desert in April 1980, and the 52 hostages were finally released on the day of Reagan's inauguration, minutes after he concluded his inaugural address.[9] [[ben-barnes|Ben Barnes]] and [[gary-sick|Gary Sick]] are cited as the principal witnesses to the arrangement.[9]
+
+9. Badlands Brief — "The Shadow Game", URL: https://badlands.substack.com/p/the-shadow-game
+
+## Creation of the Department of Education
+
+Carter signed the [[department-of-education-organization-act|Department of Education Organization Act]] into law on October 17, 1979, splitting the Department of Health, Education, and Welfare into the [[department-of-education|Department of Education]] and the Department of Health and Human Services; the new cabinet-level agency began operating on May 4, 1980.[10] A January 2025 Badlands feature by [[erik-carlson|Erik Carlson]] summarized this as Carter establishing the Department of Education as a cabinet-level position "on his way out the door," a move opposed by many Republicans who considered it unconstitutional because the Constitution does not mention education.[10] In Carlson's account [[ronald-reagan|Ronald Reagan]] then campaigned on abolishing the department but succeeded only in curtailing its funding.[10]
+
+10. Badlands Brief — "The U.S. Department of Re-education", URL: https://badlands.substack.com/p/the-us-department-of-re-education

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [covid-19, china, lab-leak, virology]
-sources: [raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-f2b.md, raw/behold-a-trojan-horse.md]
+sources: [raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-f2b.md, raw/behold-a-trojan-horse.md, raw/the-wuhan-lab-leak-hoax.md]
 confidence: medium
 ---
 
@@ -43,3 +43,12 @@ A May 2023 Badlands Media article, "Behold, a Trojan Horse," noted that the [[ec
 3. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9
 4. Badlands Brief — "Badlands News Brief: Trump Trolls, Biden Snaps & Ukraine Fails", URL: https://badlands.substack.com/p/badlands-news-brief-f2b
 5. Badlands Brief — "Behold, a Trojan Horse", URL: https://badlands.substack.com/p/behold-a-trojan-horse
+6. Badlands Brief — "The Wuhan Lab Leak Hoax", URL: https://badlands.substack.com/p/the-wuhan-lab-leak-hoax
+
+## Framing as a scapegoat (2025 Ehret critique)
+
+In "The Wuhan Lab Leak Hoax," published November 28, 2025, [[matthew-ehret|Matthew Ehret]] argues that the institute is being set up to carry blame for the pandemic as part of a wider push toward war with China.[6] He notes that the [[lab-leak-theory|Wuhan lab leak hypothesis]] began making headlines by February 2020, fed by evidence that [[anthony-fauci|Anthony Fauci]] had exported certain [[gain-of-function-research|gain-of-function]] coronavirus experiments from US bioweapons laboratories to the institute, one of only two BSL-4 laboratories in China equipped to conduct such research.[6]
+
+Ehret accepts that receipts documenting roughly $600,000 in transfers from Fauci's [[national-institutes-of-health|NIH]] to Chinese coronavirus research via the [[ecohealth-alliance|EcoHealth Alliance]] functioned as a smoking gun in the public mind, but observes that this material had been available since February 2021 and asks why it saturated the information landscape four years later.[6] He contrasts China's two domestically sited BSL-4 facilities with the dozens of [[pentagon|Pentagon]]-run bioweapons laboratories abroad documented by [[dilyana-gaytandzhieva|Dilyana Gaytandzhieva]] and [[alexei-mukhin|Alexei Mukhin]].[6]
+
+Chinese officials rejected the attribution while conceding a possible laboratory origin: CDC epidemiologist [[zeng-guang|Zeng Guang]] denied the institute was the source but urged that a lab origin not be discounted, and Foreign Ministry spokesperson [[hua-chunying|Hua Chunying]] called for [[fort-detrick|Fort Detrick]] and America's 200-plus overseas labs to be opened to [[world-health-organization|WHO]] origin-tracing.[6]

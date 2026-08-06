@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [soviet-union, communism, british-cabal, cold-war, world-war-ii]
-sources: [raw/the-british-cabal.md]
+sources: [raw/the-british-cabal.md, raw/who-are-the-true-puppet-masters.md, raw/who-is-the-real-enemy.md]
 confidence: low
 ---
 
@@ -31,3 +31,21 @@ Carlson framed the fall of the Soviet Union and China's simultaneous emergence a
 ## References
 
 1. Badlands Brief — "The British Cabal", URL: https://badlands.substack.com/p/the-british-cabal
+
+## Cited in "Who are the True Puppet Masters?" (July 2023)
+
+[[erik-carlson|Erik Carlson]] presents the Soviet Union as a British creation.[2] After England funded and orchestrated the successful 1917 revolution, he writes, a bloody civil war produced the Soviet Union, which would be used first as an ally and then later as an adversary to England and the West.[2] In the Second World War, he adds, England's own English-created Soviet allies took the bulk of the casualties.[2]
+
+Carlson further argues that England was behind the fall of the Soviet Union and the immediate and epic rise of China as a world power — in other words, that the [[british-cabal|British Cabal]] transitioned away from controlling the Soviet Union to controlling China.[2] The Soviets also appear in his list of groups substitutable as the Cabal's public scapegoat, alongside the [[chinese-communist-party|CCP]], Muslims, the Germans and the United States.[2]
+
+2. Badlands Brief — "Who are the True Puppet Masters?", URL: https://badlands.substack.com/p/who-are-the-true-puppet-masters
+
+## The 1979 intervention and the bankruptcy thesis
+
+"Who Is The Real Enemy?" disputes the standard account that the Soviet Union invaded [[afghanistan|Afghanistan]] in December 1979 to expand communism.[3] Drawing on Jonathan Steele's work with declassified Soviet documents, it holds that Moscow acted to protect the security of its southern frontier against Islamic unrest and American intrigue, after senior generals had warned against entanglement in an Afghan civil war on the precedent of Vietnam.[3]
+
+KGB chief [[yuri-andropov|Yuri Andropov]] warned [[leonid-brezhnev|Leonid Brezhnev]] in December 1979 that [[hafizullah-amin|Hafizullah Amin]] might be reorienting toward the West and was concealing contacts with the American chargé d'affaires, and Andropov and defense minister Dmitri Ustinov cited the danger of American missiles in Afghanistan — a prospect one analyst compared to Mexico hosting Soviet short-range missiles.[3] Soviet special forces killed Amin and seized Kabul as the invasion began.[3]
+
+The article argues the decade-long war drained Soviet resources and drove the state into debt, that the union dissolved in 1991 not long after withdrawal, and that [[donald-trump|Donald Trump]] was right to link the two despite media insistence that correlation is not causation.[3] It further contends that both the 1979 intervention and the later [[russian-invasion-of-ukraine|Russian invasion of Ukraine]] were defensive responses to a [[central-intelligence-agency|CIA]]-controlled [[shadow-government|shadow government]] destabilizing neighbors and threatening missile deployments, and that the [[cold-war|Cold War]] framing was an excuse for proxy wars.[3]
+
+3. Badlands Brief — "Who Is The Real Enemy?", URL: https://badlands.substack.com/p/who-is-the-real-enemy

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cia, airline, laos, opium, vietnam-war]
-sources: [raw/dollars-dope-and-deception.md]
+sources: [raw/dollars-dope-and-deception.md, raw/two-wings-one-ugly-bird.md]
 confidence: medium
 ---
 
@@ -18,3 +18,9 @@ Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] situates Air America wi
 
 ## References
 1. Badlands Brief — "Dollars, Dope, and Deception", URL: https://badlands.substack.com/p/dollars-dope-and-deception
+
+## USAID cover during Vietnam
+
+"Two Wings, One Ugly Bird" cites Air America as an example of the front companies through which [[usaid|USAID]] ran cover for [[central-intelligence-agency|CIA]] operations during the Vietnam War, shuttling supplies and agents under the guise of development work.[2] The article uses the episode to argue that the line between humanitarian aid and covert agendas was blurry long before [[church-committee|Church Committee]] investigators flagged USAID in the 1970s as a frequent collaborator channelling funds and logistics to the agency.[2]
+
+2. Badlands Brief — "Two Wings, One Ugly Bird", URL: https://badlands.substack.com/p/two-wings-one-ugly-bird

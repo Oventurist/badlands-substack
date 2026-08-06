@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, citizen-journalism, newsletter, substack]
-sources: [raw/coming-soon.md, raw/last-call-for-gart-cocoa-beach.md, raw/death-blossom.md, raw/gart-myrtle-beach-is-almost-here.md, raw/get-woke-go-broke.md, raw/happy-new-year.md, raw/happy-thanksgiving-badlands.md, raw/happy-thanksgiving.md, raw/introducing-badlandsmediatv.md, raw/join-us-again-at-gart-deadwood.md, raw/join-us-in-nashville-for-gart-11.md, raw/last-call-for-gart-2.md, raw/last-call-for-gart-3-irvine.md, raw/kekistani-code-talkers.md, raw/last-call-for-gart-4-dallas.md, raw/last-call-for-gart-az.md, raw/last-call-for-gart-las-vegas.md, raw/join-us-in-deadwood-for-gart-12.md, raw/join-us-in-cocoa-beach-for-gart-10.md, raw/lt-general-steve-kwast-usaf-ret-on.md, raw/last-call-for-gart-plymouth.md, raw/project-trump-card.md, raw/q-for-dummies-chapter-1.md, raw/reset-the-space-reset-society.md, raw/soul-governance.md, raw/structures-of-control-part-3.md, raw/thats-not-signature-verification.md, raw/the-covfefe-dig.md, raw/the-great-american-restoration-tour-1af.md, raw/the-great-american-restoration-tour-b1a.md, raw/the-emergence.md, raw/the-great-american-restoration-tour.md, raw/the-great-american-restoration-tour-eb2.md]
+sources: [raw/coming-soon.md, raw/last-call-for-gart-cocoa-beach.md, raw/death-blossom.md, raw/gart-myrtle-beach-is-almost-here.md, raw/get-woke-go-broke.md, raw/happy-new-year.md, raw/happy-thanksgiving-badlands.md, raw/happy-thanksgiving.md, raw/introducing-badlandsmediatv.md, raw/join-us-again-at-gart-deadwood.md, raw/join-us-in-nashville-for-gart-11.md, raw/last-call-for-gart-2.md, raw/last-call-for-gart-3-irvine.md, raw/kekistani-code-talkers.md, raw/last-call-for-gart-4-dallas.md, raw/last-call-for-gart-az.md, raw/last-call-for-gart-las-vegas.md, raw/join-us-in-deadwood-for-gart-12.md, raw/join-us-in-cocoa-beach-for-gart-10.md, raw/lt-general-steve-kwast-usaf-ret-on.md, raw/last-call-for-gart-plymouth.md, raw/project-trump-card.md, raw/q-for-dummies-chapter-1.md, raw/reset-the-space-reset-society.md, raw/soul-governance.md, raw/structures-of-control-part-3.md, raw/thats-not-signature-verification.md, raw/the-covfefe-dig.md, raw/the-great-american-restoration-tour-1af.md, raw/the-great-american-restoration-tour-b1a.md, raw/the-emergence.md, raw/the-great-american-restoration-tour.md, raw/the-great-american-restoration-tour-eb2.md, raw/the-steering-wheel-of-civilization.md, raw/the-multinational-offensive-against.md, raw/the-war-of-stories.md, raw/the-werewolf-game-modern-day-cyber.md, raw/trump-knows.md, raw/trump-doctrine-peace-through-space.md, raw/war-pigs.md, raw/tucker-twitter-and-the-truth-community.md]
 confidence: medium
 ---
 
@@ -62,6 +62,20 @@ Badlands Media covered every second of the May 2023 remanded Count III proceedin
 ## The COVFEFE Dig (2023)
 
 "The COVFEFE Dig," published on 15 March 2023 under the standing head "Death of the Petrodollar," is [[gmoney|GMONEY]]'s open-source intelligence analysis of the true meaning of [[donald-trump|Donald Trump]]'s [[covfefe|covfefe]] Tweet.[28] The piece argues that the Tweet encodes a coordinated plan involving Trump, [[qanon|Q]], [[john-f-kennedy|JFK]]'s [[executive-order-11110|Executive Order 11110]], [[pepe-the-frog|Pepe]] and [[bitcoin|Bitcoin]] to end the rule of the central bankers and the [[petrodollar|petrodollar]].[28] It carries the network's standard disclaimer that Badlands Media articles represent the opinions of contributing authors and do not necessarily represent the views of Badlands Media itself, and directs readers to GMONEY's personal Substack for further deep dives.[28]
+
+## "Trump Knows" series
+
+On March 30, 2023 Badlands Media published "Trump Knows: What Is the Secret Weapon?" by [[justin-deschamps|Justin Deschamps]], the first installment of a series on law, power and the [[rule-of-law|rule of law]], which drew 214 likes.[38] The piece carried the outlet's standard notice that Badlands Media articles and features represent the opinions of contributing authors and do not necessarily represent the views of Badlands Media itself, along with its appeal for readers to support its collective of citizen journalists in taking back the narrative from the mainstream media.[38]
+
+## Trump Doctrine: Peace Through Space
+
+"[[trump-doctrine-peace-through-space|Trump Doctrine: Peace Through Space]]" was published by Badlands Media on February 11, 2024, written by the contributor PiP of [[patriots-in-progress|Patriots in Progress]].[39] The article cites a Badlands Media clip in which [[jon-herold|Jon Herold]] and Ret. Lt. Gen. [[steven-kwast|Steven Kwast]] discuss proven technology for capturing and transferring solar energy from space, and carries the standard disclaimer that Badlands Media articles and features represent the opinions of contributing authors and do not necessarily represent the views of Badlands Media itself.[39]
+
+## "War Pigs" (October 2023)
+
+Badlands Media published "War Pigs" on 30 October 2023, a contributor essay by [[ryan-delarme|Ryan DeLarme]] arguing that the Israel–Palestine conflict was serving multiple strategic purposes: fuelling the war economy, dividing America, and providing a pretext to bolster the Western censorship regime.[40] The piece contended that establishment forces "might not even care which side you are on so long as you do pick a side," and proposed an alternative the deep political establishment does not want considered — the side of peace.[40]
+
+As with other contributor pieces, the article carried the standard disclaimer that Badlands Media articles and features represent the opinions of the contributing authors and do not necessarily represent the views of Badlands Media itself.[40]
 
 ## References
 1. Badlands Brief — "Coming soon", URL: https://badlands.substack.com/p/coming-soon
@@ -197,3 +211,37 @@ On June 29, 2023 Badlands Media announced that tickets were on sale for [[gart-2
 The announcement promised live in-person versions of Badlands shows, live Q&A sessions with Badlands panels and meet-and-greets with hosts all weekend, with in-person tickets bundling a Friday night Welcome Reception, breakfast and lunch throughout the weekend and open time among fellow Badlanders to "level up in the [[information-war|Information War]] together," plus an optional VIP dinner and meet-and-greet.[33] Badlands said tickets were already moving fast on the strength of the first Arizona event, that speakers and the itinerary were still to come, and that virtual tickets to stream the entirety of GART 2 would go on sale Monday, July 3, 2023.[33]
 
 33. Badlands Brief — "The Great American Restoration Tour Continues!", URL: https://badlands.substack.com/p/the-great-american-restoration-tour-eb2
+
+## "The Steering Wheel of Civilization"
+
+Badlands Media published [[justin-deschamps|Justin Deschamps]]'s feature "The Steering Wheel of Civilization" on February 24, 2023, the first installment of a series on the [[nature-of-civilizations|Nature of Civilizations]].[34] The article carried the outlet's standard appeal that Badlands Media will always put out its content for free while inviting paid subscriptions to help its collective of citizen journalists take back the narrative from the mainstream media, under the slogan "We are the news now."[34] It also carried the standard disclaimer that Badlands Media articles and features represent the opinions of contributing authors and do not necessarily represent the views of Badlands Media itself.[34]
+
+34. Badlands Brief — "The Steering Wheel of Civilization", URL: https://badlands.substack.com/p/the-steering-wheel-of-civilization
+
+## Publication of "The Multinational Offensive Against Free Speech Online" (October 2024)
+
+On October 29, 2024, Badlands Media published [[ryan-delarme|Ryan DeLarme]]'s feature "The Multinational Offensive Against Free Speech Online," arguing that the multifaceted attack on free expression in the digital realm is the most pressing concern facing the Western world.[35] The piece surveyed the French prosecution of [[pavel-durov|Pavel Durov]], the Brazilian ban on [[x-corp|X]] under Justice [[alexandre-de-moraes|Alexandre de Moraes]], the bans on [[discord|Discord]] in [[turkey|Turkey]] and [[russia|Russia]], and the speech-restriction rhetoric of [[tim-walz|Tim Walz]] and [[kamala-harris|Kamala Harris]].[35]
+
+As with other contributor features, the network appended its standard notice that Badlands Media articles and features represent the opinions of the contributing authors and do not necessarily represent the views of Badlands Media itself, and encouraged readers to follow more of DeLarme's work at his own Substack, the Post-Liberal.[35] The article closed with the network's customary statement that Badlands Media will always put out its content for free while inviting paid subscriptions to help its collective of citizen journalists take back the narrative from the mainstream media.[35]
+
+35. Badlands Brief — "The Multinational Offensive Against Free Speech Online", URL: https://badlands.substack.com/p/the-multinational-offensive-against
+
+## "The War of Stories" (December 2022)
+
+On December 30, 2022, Badlands Media published [[burning-bright|Burning Bright]]'s essay "The War of Stories," subtitled "The News is Fake. The War is Real," which framed the [[information-war|Information War]] as a contest of narratives for control of the [[collective-mind|Collective Mind]].[36] The piece described the Badlands readership as an "increasingly-engaged and awakened decentralized citizen intelligence network" countering [[narrative-deployment|Narrative Deployments]] by the [[media-industrial-complex|Media Industrial Complex]], and cross-referenced other Badlands work including [[ryan-delarme|Ryan DeLarme]]'s "The Men Behind the Curtain" series and the Badlands China series.[36] As with all Badlands features, the article carried the outlet's standard disclaimer that contributions represent the opinions of the contributing authors and not necessarily the views of Badlands Media itself, alongside its recurring appeal for paid subscriptions to support "our collective of citizen journalists."[36]
+
+36. Badlands Brief — "The War of Stories", URL: https://badlands.substack.com/p/the-war-of-stories
+
+## Publication of "Modern Day Cyber-Necromancy"
+
+On August 20, 2024, Badlands Media published Part 8 of [[the-werewolf-game|The Werewolf Game]] series by [[american-hypnotist|American Hypnotist]], subtitled "Zombification is a REAL Phenomenon," which introduced the author's concept of [[cyber-necromancy|cyber-necromancy]].[37] The article carries the standard notice that Badlands Media articles and features represent the opinions of the contributing authors and do not necessarily represent the views of Badlands Media itself, together with the outlet's standing statement that its content will always be put out for free while readers may support it by becoming paid subscribers, helping "our collective of citizen journalists take back the narrative from the MSM."[37]
+
+37. Badlands Media — "The Werewolf Game - Modern Day Cyber-Necromancy", URL: https://badlands.substack.com/p/the-werewolf-game-modern-day-cyber
+38. Badlands Brief — "Trump Knows", URL: https://badlands.substack.com/p/trump-knows
+39. Badlands Brief — "Trump Doctrine: Peace Through Space", URL: https://badlands.substack.com/p/trump-doctrine-peace-through-space
+40. Badlands Brief — "War Pigs", URL: https://badlands.substack.com/p/war-pigs
+41. Badlands Brief — "Tucker, Twitter, and the Truth Community", URL: https://badlands.substack.com/p/tucker-twitter-and-the-truth-community
+
+## As a destination for new online news consumers (2023)
+
+[[ashe-in-america|Ashe in America]] argued in August 2023 that as normie viewers came online for [[tucker-carlson|Tucker Carlson]]'s [[tucker-on-twitter|Tucker on Twitter]] program, they became more likely to be exposed to other creators such as Badlands Media, and through them to further truth.[41] Badlands newsletters state that the outlet will always put out its content for free, invite readers to support it through paid subscriptions, and describe the operation as a collective of citizen journalists taking back the narrative from the mainstream media, closing with the declaration "[[we-are-the-news-now|We are the news now]]."[41] Articles and features are noted as representing the opinions of contributing authors rather than the views of Badlands Media itself, and Ashe hosts [[culture-of-change|Culture of Change]] on the network on Sundays at 6:00 p.m. ET.[41]

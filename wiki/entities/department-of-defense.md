@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [pentagon, darpa, defense, technology, surveillance]
-sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-07c.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-e96.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-07c.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-e96.md, raw/trump-doctrine-peace-through-space.md]
 confidence: medium
 ---
 
@@ -44,6 +44,10 @@ On Thursday, February 2, 2023, the Department of Defense publicly confirmed that
 
 In July 2023 the outlet The Dossier published a previously unavailable 34-page Department of Defense memo on the "care of service members who identify as transgender," detailing benefits granted to that cohort including deployment waivers and indefinite waivers of physical fitness standards.[5] The memo circulated after President [[joe-biden|Joe Biden]] reversed the [[transgender-military-ban|transgender military ban]] instituted under [[donald-trump|Donald Trump]].[5] Critics argued the policies undermined [[military-readiness|military readiness]] at a time when the armed forces faced their worst recruiting environment since the end of conscription in 1973, and that the department was functioning "more of a social welfare and social justice program than an entity purposed with defeating an aggressing army."[5]
 
+## Trump Doctrine: Peace Through Space
+
+"[[trump-doctrine-peace-through-space|Trump Doctrine: Peace Through Space]]" emphasises the untraceability of Defense Department money, quoting the [[government-accountability-office|GAO]] finding that it could render no opinion on the 2010 consolidated financial statements of the federal government partly because of serious financial management problems at the DoD that made its financial statements unauditable, and recalling [[donald-rumsfeld|Donald Rumsfeld]]'s September 10, 2001 statement that "We cannot track $2.3 Trillion."[7] From this the author concludes that the more than $2.2 trillion [[donald-trump|Trump]] poured into the military could have been used for any purpose, perhaps to build up [[elon-musk|Elon Musk]]'s launch capability behind the scenes.[7] The article also notes that DoD payloads are worth billions and require providers to hold [[national-security-space-launch-certification|NSSL certification]], and cites [[kash-patel|Kash Patel]]'s claim that Musk is the department's largest contractor.[7]
+
 ## References
 1. Badlands Brief — "America Has a CIA-Run Economy", URL: https://badlands.substack.com/p/america-has-a-cia-run-economy
 2. Badlands Brief — "Supreme Conflicts, Criminal Probes, & A Ceasefire", URL: https://badlands.substack.com/p/badlands-brief-07c
@@ -60,3 +64,4 @@ The department had first acknowledged in January 2023 that, to supply Ukraine wi
 Badlands contributor [[ashe-in-america|Ashe in America]] wrote that the United States relocated much of that stockpile to [[volodymyr-zelensky|Zelenskyy]] during the "Slava Ukraine! psyop" and was now sending it back, remarking that "it's almost as if the US has no standards in who they support," and noting that Republicans in [[us-congress|Congress]] were pushing to separate additional Ukraine funding from Israel aid — a move Senator [[john-fetterman|John Fetterman]] answered on X with "F*ck that."[6] She added that everything the Biden administration and the 118th Congress did appeared to be an escalation, and asked, "What's the carbon footprint of World War III?"[6]
 
 6. Badlands Brief — "Badlands News Brief: Blinken Drones & Congress Stalls", URL: https://badlands.substack.com/p/badlands-news-brief-e96
+7. Badlands Brief — "Trump Doctrine: Peace Through Space", URL: https://badlands.substack.com/p/trump-doctrine-peace-through-space

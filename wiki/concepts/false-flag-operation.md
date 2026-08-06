@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [information-war, psychological-operations, media]
-sources: [raw/badlands-news-brief-096.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-c50.md, raw/death-blossom.md, raw/false-flags-and-the-occult.md, raw/q-for-dummies-chapter-17.md, raw/q-for-dummies-chapter-6.md, raw/the-deep-state-needs-trump-to-win.md]
+sources: [raw/badlands-news-brief-096.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-c50.md, raw/death-blossom.md, raw/false-flags-and-the-occult.md, raw/q-for-dummies-chapter-17.md, raw/q-for-dummies-chapter-6.md, raw/the-deep-state-needs-trump-to-win.md, raw/women-children-and-terror.md]
 confidence: medium
 ---
 
@@ -81,3 +81,13 @@ In "The Deep State Needs Trump to Win," published April 15, 2024, [[erik-carlson
 His specific examples were maritime: whether the [[francis-scott-key-bridge-collapse|Baltimore bridge collapse]] occurred at 1:30 a.m. in order to avoid mass casualties, and whether a second bridge collapse was averted in New York Harbor when another cargo ship lost power.[8] Carlson also treated the absence of American troop deaths abroad during the [[biden-administration|Biden administration]] as part of the same pattern, attributing it to a [[devolution|Devolution]] safety net that permitted reversible harms while blocking irreversible ones.[8]
 
 8. Badlands Brief — "The Deep State Needs Trump to Win", URL: https://badlands.substack.com/p/the-deep-state-needs-trump-to-win
+
+## Definition offered in "Women, Children ... and Terror" (October 2023)
+
+[[erik-carlson|Erik Carlson]] supplied a working definition of the term while arguing that the October 2023 [[hamas|Hamas]] assault on [[israel|Israel]] was one: "A false flag doesn't mean that no one died, and that horrific things didn't take place; it just means the situation is coordinated or manipulated."[9] On that basis he wrote that both sides appeared to have been manipulated and coerced into their actions, with factions in Israel and Hamas wittingly or unwittingly doing the bidding of Deep State overlords whose purpose is a wider world war.[9]
+
+Carlson placed the episode in a lineage of American precedents: the [[attack-on-pearl-harbor|attack on Pearl Harbor]], where he says foreknowledge existed because the Japanese codes had been broken; the [[september-11-attacks|September 11 attacks]]; the [[sinking-of-the-lusitania|sinking of the Lusitania]] that helped bring the United States into [[world-war-i|World War I]]; and the fabricated eyewitness claims of babies killed in Kuwait during the [[gulf-war|first Gulf War]].[9] He argued that if the US was willing to sacrifice almost 2,500 Americans in 1941 and almost 3,000 in 2001, there is no reason to assume 2023 is different, and that someone in [[mossad|Mossad]] plausibly knew the attack was coming and said nothing.[9]
+
+Supporting details he offered include the question of how paragliders and trucks crossed one of the most heavily fortified and monitored borders in the world, why the Israeli military was absent, and how Israel could locate and destroy Hamas buildings immediately afterwards.[9] He also noted that the character of the attack — rape, torture and the kidnapping of women, children and the elderly — is not how one wins a war but how one enrages the world into a bigger one.[9]
+
+9. Badlands Brief — "Women, Children ... and Terror", URL: https://badlands.substack.com/p/women-children-and-terror

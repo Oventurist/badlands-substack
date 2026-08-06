@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [plutocrats, philanthropy, canada, green-agenda]
-sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8f3.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a6e.md, raw/badlands-news-brief-d36.md, raw/badlands-news-brief-d68.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-e86.md, raw/badlands-news-brief-f44.md, raw/badlands-news-brief-fde.md, raw/get-woke-go-broke.md, raw/george-soros-shadow-network.md, raw/george-soros-a-british-creation.md, raw/is-the-censorship-war-over.md, raw/power-to-the-people.md, raw/q-for-dummies-chapter-12.md, raw/q-for-dummies-chapter-1.md, raw/q-for-dummies-chapter-19.md, raw/q-for-dummies-chapter-2.md, raw/q-for-dummies-chapter-5.md, raw/q-for-dummies-chapter-3.md, raw/stuck-in-a-groove-of-negativity-and.md, raw/the-master-builder.md, raw/the-inversion-of-health.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8f3.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a6e.md, raw/badlands-news-brief-d36.md, raw/badlands-news-brief-d68.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-e86.md, raw/badlands-news-brief-f44.md, raw/badlands-news-brief-fde.md, raw/get-woke-go-broke.md, raw/george-soros-shadow-network.md, raw/george-soros-a-british-creation.md, raw/is-the-censorship-war-over.md, raw/power-to-the-people.md, raw/q-for-dummies-chapter-12.md, raw/q-for-dummies-chapter-1.md, raw/q-for-dummies-chapter-19.md, raw/q-for-dummies-chapter-2.md, raw/q-for-dummies-chapter-5.md, raw/q-for-dummies-chapter-3.md, raw/stuck-in-a-groove-of-negativity-and.md, raw/the-master-builder.md, raw/the-inversion-of-health.md, raw/the-two-chinas.md, raw/the-transition-integrity-project.md, raw/the-wuhan-lab-leak-hoax.md, raw/two-wings-one-ugly-bird.md, raw/who-are-the-true-puppet-masters.md, raw/why-do-we-know-what-we-know.md]
 confidence: low
 ---
 
@@ -137,25 +137,6 @@ Chapter 12 of the [[q-for-dummies|Q for Dummies]] series notes that in drop #94 
 
 Chapter 3 of [[q-for-dummies|Q for Dummies]] notes that [[qanon|Q]] drop #15 of October 31, 2017 closes by letting readers know that "a certain Soros is indeed targeted."[36] The mention sits alongside the drop's references to the toppling of the [[house-of-saud|House of Saud]] and to alleged plants within the Trump campaign.[36]
 
-## References
-1. Badlands Brief — "A Re-Alignment of World Systems", URL: https://badlands.substack.com/p/a-re-alignment-of-world-systems
-2. Badlands News Brief — "Lake Lasts, Biden Slumps & Powell Blinks", URL: https://badlands.substack.com/p/badlands-news-brief-050
-3. Badlands Brief — "A Meddling Musk & Sanctions for Soros", URL: https://badlands.substack.com/p/badlands-news-brief-048
-4. Badlands Media — "Badlands News Brief: Exculpatory Trump Card & China's Moves", URL: https://badlands.substack.com/p/badlands-news-brief-0e0
-5. Badlands News Brief — "Battle Lines Drawn in All Theaters", URL: https://badlands.substack.com/p/badlands-news-brief-169
-6. Badlands Brief — "Badlands News Brief: International Antifa, Hezbollah Strongholds, & Nuclear Options", URL: https://badlands.substack.com/p/badlands-news-brief-1c3
-7. Badlands News Brief — "A Biden, a Clinton and a Trump Walk Into a SCIF", URL: https://badlands.substack.com/p/badlands-news-brief-228
-8. Badlands Brief — "Badlands News Brief: Bengaluru Raids, Bitcoin Bangers, & A Buddhist Execution", URL: https://badlands.substack.com/p/badlands-news-brief-2dc
-9. Badlands Brief — "Badlands News Brief: North American Trade Troubles & Unipartisan Panic", URL: https://badlands.substack.com/p/badlands-news-brief-52f
-10. Badlands Brief — "Trump Trifecta, COVID Concealment & Sorosian Slime", URL: https://badlands.substack.com/p/badlands-news-brief-5a7
-11. Badlands Brief — "Dumb Questions, Pentagon Pizzas, & Zero Trust", URL: https://badlands.substack.com/p/badlands-news-brief-669
-12. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
-13. Badlands Brief — "Badlands News Brief: FBI Charges, Exorcisms and ... Woke M&M's?", URL: https://badlands.substack.com/p/badlands-news-brief-8f3
-14. Badlands Brief — "Badlands News Brief: Trump Trolls, Soros Slithers & Flags Fly", URL: https://badlands.substack.com/p/badlands-news-brief-93d
-15. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
-16. Badlands Brief — "Badlands News Brief: A Fiery Fani, a Plotting Putin & a Bumbling Biden Walk into a Bar", URL: https://badlands.substack.com/p/badlands-news-brief-a6e
-34. Badlands Brief — "Q for Dummies - Chapter 2", URL: https://badlands.substack.com/p/q-for-dummies-chapter-2
-
 ## Funding of the 2024 campus anti-Israel protests
 
 In April 2024 the New York Post reported that Soros and his hard-left acolytes were paying agitators fuelling the nationwide explosion of radical anti-Israel protests at American colleges.[22] The protests began when students took over [[columbia-university|Columbia University]]'s Morningside Heights campus lawn, and copycat tent cities followed at [[harvard-university|Harvard]], [[yale-university|Yale]], Berkeley, the Ohio State University and Emory in Georgia — all of them, per the Post, organized by branches of the Soros-funded Students for Justice in Palestine, with students clashing with police at some campuses.[22] The [[national-students-for-justice-in-palestine|SJP]] parent organization was said to be funded by a network of nonprofits ultimately financed by Soros among others.[22]
@@ -278,3 +259,62 @@ Lange read the speech as evidence of panic, arguing that Soros was simultaneousl
 In "The Inversion of Health," [[ryan-delarme|Ryan DeLarme]] observes that [[john-d-rockefeller|John D. Rockefeller]] is credited with creating the structure of modern philanthropy that men like [[bill-gates|Bill Gates]] and George Soros employ today, and disputes the accompanying claim that such figures have worked diligently to benefit all mankind.[39]
 
 39. Badlands Brief — "The Inversion of Health", URL: https://badlands.substack.com/p/the-inversion-of-health
+
+## Criticism of Xi Jinping ahead of the 20th Party Congress (2022)
+
+Badlands Media's "The Two Chinas" (November 10, 2022) noted that Soros joined in criticism of [[xi-jinping|Xi Jinping]] in the months before the [[20th-national-congress-of-the-chinese-communist-party|20th National Congress]] solidified Xi's position as leader "not just of the China of today, but that of tomorrow."[40] The article treated the timing as significant — "almost as if he knew something was coming" — and observed that Xi thereby joined [[vladimir-putin|Vladimir Putin]] and [[donald-trump|Donald Trump]] as the only world leaders Soros has labeled a threat to democracy in recent years.[40]
+
+40. Badlands Media — "The Two Chinas", URL: https://badlands.substack.com/p/the-two-chinas
+
+## Transition Integrity Project connections
+
+Soros-funded organisations feature twice in Badlands Media's account of the [[transition-integrity-project|Transition Integrity Project]].[41] TIP founder [[rosa-brooks|Rosa Brooks]] served on the board of the [[open-society-foundations|Open Society Foundations]] US Programs Fund and consulted at the Open Society Institute.[41] Separately, TIP's 2020 war games predicted that in the event of a Trump loss, [[infowars|Infowars]] would dox electors pledged to vote for Biden — publishing their names, phone numbers and addresses — and connect those electors to Soros and to child sex-trafficking.[41]
+
+## References
+1. Badlands Brief — "A Re-Alignment of World Systems", URL: https://badlands.substack.com/p/a-re-alignment-of-world-systems
+2. Badlands News Brief — "Lake Lasts, Biden Slumps & Powell Blinks", URL: https://badlands.substack.com/p/badlands-news-brief-050
+3. Badlands Brief — "A Meddling Musk & Sanctions for Soros", URL: https://badlands.substack.com/p/badlands-news-brief-048
+4. Badlands Media — "Badlands News Brief: Exculpatory Trump Card & China's Moves", URL: https://badlands.substack.com/p/badlands-news-brief-0e0
+5. Badlands News Brief — "Battle Lines Drawn in All Theaters", URL: https://badlands.substack.com/p/badlands-news-brief-169
+6. Badlands Brief — "Badlands News Brief: International Antifa, Hezbollah Strongholds, & Nuclear Options", URL: https://badlands.substack.com/p/badlands-news-brief-1c3
+7. Badlands News Brief — "A Biden, a Clinton and a Trump Walk Into a SCIF", URL: https://badlands.substack.com/p/badlands-news-brief-228
+8. Badlands Brief — "Badlands News Brief: Bengaluru Raids, Bitcoin Bangers, & A Buddhist Execution", URL: https://badlands.substack.com/p/badlands-news-brief-2dc
+9. Badlands Brief — "Badlands News Brief: North American Trade Troubles & Unipartisan Panic", URL: https://badlands.substack.com/p/badlands-news-brief-52f
+10. Badlands Brief — "Trump Trifecta, COVID Concealment & Sorosian Slime", URL: https://badlands.substack.com/p/badlands-news-brief-5a7
+11. Badlands Brief — "Dumb Questions, Pentagon Pizzas, & Zero Trust", URL: https://badlands.substack.com/p/badlands-news-brief-669
+12. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
+13. Badlands Brief — "Badlands News Brief: FBI Charges, Exorcisms and ... Woke M&M's?", URL: https://badlands.substack.com/p/badlands-news-brief-8f3
+14. Badlands Brief — "Badlands News Brief: Trump Trolls, Soros Slithers & Flags Fly", URL: https://badlands.substack.com/p/badlands-news-brief-93d
+15. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
+16. Badlands Brief — "Badlands News Brief: A Fiery Fani, a Plotting Putin & a Bumbling Biden Walk into a Bar", URL: https://badlands.substack.com/p/badlands-news-brief-a6e
+34. Badlands Brief — "Q for Dummies - Chapter 2", URL: https://badlands.substack.com/p/q-for-dummies-chapter-2
+
+41. Badlands Brief — "The Transition Integrity Project", URL: https://badlands.substack.com/p/the-transition-integrity-project
+
+42. Badlands Brief — "The Wuhan Lab Leak Hoax", URL: https://badlands.substack.com/p/the-wuhan-lab-leak-hoax
+
+## Davos 2020 and the targeting of Trump and Xi
+
+In his January 2020 Davos speech, Soros took aim at [[donald-trump|Donald Trump]] and [[xi-jinping|Xi Jinping]] as the two greatest threats to his Open Society, who in his view had to be stopped at all costs.[42] In September 2019, as [[event-201|Event 201]] was taking place, he wrote in the Wall Street Journal that "as founder of the [[open-society-foundations|Open Society Foundations]], my interest in defeating Xi Jinping's China goes beyond U.S. national interests," warning that the social-credit system Beijing was building "could sound the death knell of open societies not only in China, but also around the globe."[42]
+
+[[matthew-ehret|Matthew Ehret]] treats this dual designation as the third of five facts arguing that China is being framed for the COVID-19 pandemic rather than being its author.[42] He notes that before becoming mired in the "China virus" narrative, Trump had worked to build good relations with Beijing and had moved a major trade deal into phase one during the same week Soros spoke at Davos, and that Soros-linked color-revolutionary operations had failed to divide China in Hong Kong, Tibet and Xinjiang while succeeding in the United States.[42]
+
+## Otpor and the NDI circle
+
+"Two Wings, One Ugly Bird" says Soros' [[open-society-foundations|Open Society]] network helped the [[international-republican-institute|International Republican Institute]] support the Serbian youth movement [[otpor|Otpor]] that ousted [[slobodan-milosevic|Slobodan Milosevic]].[43] The article also places [[madeleine-albright|Madeleine Albright]], longtime chair of the [[national-democratic-institute|National Democratic Institute]], as a regular fixture in the Soros and Clinton circle.[43]
+
+43. Badlands Brief — "Two Wings, One Ugly Bird", URL: https://badlands.substack.com/p/two-wings-one-ugly-bird
+
+## Cited in "Who are the True Puppet Masters?" (July 2023)
+
+[[erik-carlson|Erik Carlson]] asks where George Soros went in 1947 when the Nazis took over his home country of Hungary, and answers: England.[44] He notes that Soros made his fortune by allegedly "breaking the British pound" in 1992, and argues that Soros is a [[british-cabal|British Cabal]] puppet through which the Cabal controls and manipulates — an investment genius, he writes sarcastically, in the same way Bill Gates is a tech genius or Mark Zuckerberg created social media in one night of coding fuelled by Red Bull and pizza.[44]
+
+Carlson highlights the timing: Soros made his fortune around the same time money began flowing into China, making it a new economic superpower, and in the same year that former Arkansas governor [[bill-clinton|Bill Clinton]] became president.[44] He links this to [[walmart|Walmart]]'s 1990s conquest of American retail through cheap Chinese imports, and to the broader claim that England transitioned from controlling the [[soviet-union|Soviet Union]] to controlling China.[44]
+
+44. Badlands Brief — "Who are the True Puppet Masters?", URL: https://badlands.substack.com/p/who-are-the-true-puppet-masters
+
+## As permitted knowledge (Carlson, May 2023)
+
+[[erik-carlson|Erik Carlson]] argued in May 2023 that if knowing that Soros funds the media, politicians and political races were sufficient to bring down the [[deep-state|Deep State cabal]], the public would not know about it.[45] The openness of Soros's political funding therefore served, in Carlson's framework, as evidence that this information is tolerated rather than suppressed — in the same category as [[bill-gates|Bill Gates]]'s farmland and vaccine activities and the published attendee lists of the [[world-economic-forum|World Economic Forum]].[45]
+
+45. Badlands Brief — "Why Do We Know What We Know?", URL: https://badlands.substack.com/p/why-do-we-know-what-we-know

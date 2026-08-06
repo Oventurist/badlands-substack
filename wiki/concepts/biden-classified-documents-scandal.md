@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [classified-records, joe-biden, national-archives, special-counsel]
-sources: [raw/badlands-news-brief-082.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-8f1.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-f39.md, raw/badlands-news-brief-f4c.md, raw/how-do-you-remove-a-potus.md, raw/the-chosen-one.md]
+sources: [raw/badlands-news-brief-082.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-8f1.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-f39.md, raw/badlands-news-brief-f4c.md, raw/how-do-you-remove-a-potus.md, raw/the-chosen-one.md, raw/when-did-speculation-become-a-dirty.md]
 confidence: medium
 ---
 
@@ -98,3 +98,9 @@ Writing days after the first disclosures, [[badlands-media|Badlands Media]] cont
 Lange noted that Biden had just had a Special Counsel assigned by his own Attorney General and predicted that he would also be impeached, while doubting that [[chuck-schumer|Chuck Schumer]]'s Senate would remove him — an outcome he argued [[donald-trump|Donald Trump]] preferred, since Trump had Biden "leveraged" rather than wanting him gone.[10] He framed the whole sequence with the phrase "Think Mirror," arguing that what had been done to Trump was now being done to Biden because "turnabout is fair play."[10]
 
 10. Badlands Brief — "The Chosen One", URL: https://badlands.substack.com/p/the-chosen-one
+
+## Carlson on the improbability of "random" discoveries (February 2023)
+
+In a February 7, 2023 essay on [[speculation|speculation]], [[erik-carlson|Erik Carlson]] recounted a face-to-face conversation in which he argued that one "would have to be a fool" to believe the classified documents discovered in [[joe-biden|Joe Biden]]'s possession were random rather than part of a larger plan, and said his interlocutor agreed.[12] Carlson's reasoning was custodial: when documents are stolen someone knows they are missing, and missing documents do not go unnoticed unless someone chooses to look the other way.[12] Whether Biden's documents had been stolen or checked out, he concluded, someone had known about it all along and had actively chosen to do nothing.[12]
+
+12. Badlands Brief — "When Did 'Speculation' Become a Dirty Word?", URL: https://badlands.substack.com/p/when-did-speculation-become-a-dirty

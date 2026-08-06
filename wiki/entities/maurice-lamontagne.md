@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [canada, club-of-rome, science-policy, privy-council, environment-canada]
-sources: [raw/defeating-the-depopulation-agenda.md]
+sources: [raw/defeating-the-depopulation-agenda.md, raw/time-to-revive-the-spirit-of-jfk.md]
 confidence: medium
 ---
 
@@ -28,5 +28,12 @@ Lamontagne collaborated on the Senate Report with fellow Club of Rome member [[o
 
 Lamontagne also belonged to the network of Rhodes Scholars and Privy Councillors — centred around [[alexander-king|Alexander King]], [[maurice-strong|Maurice Strong]], Michael Pitfield and Governor General Roland Michener — that presided over the 1971 Montebello, Quebec meeting at which Trudeau allocated taxpayer money to begin the study that became [[limits-to-growth|*Limits to Growth*]].[1]
 
+## Science policy and the war on creativity
+
+In "Time to Revive the Spirit of JFK," [[matthew-ehret|Matthew Ehret]] identifies Lamontagne as one of the founders of the Canadian branch of the [[club-of-rome|Club of Rome]] and a former President of the Privy Council Office, who in his 1968–1972 Science Policy Senate Reports "called out the problem of creativity itself."[2] Lamontagne wrote that "nature imposes definite constraints on technology itself, and if man persists in ignoring them, the net effect of his action in the long run can be to reduce rather than to increase nature's potential as a provider of resources and habitable space… But then, an obvious question arises: How can we stop man's creativeness?"[2]
+
+He further prescribed that "the additional R&D effort be devoted to the life sciences and social sciences rather than the physical sciences… to economic and social objectives rather than curiosity and discovery," a formulation Ehret treats as a defining statement of [[neo-malthusianism|neo-Malthusian]] science policy and of the redirection of funding away from discoveries that increase humanity's power over nature.[2]
+
 ## References
 1. Badlands Brief — "Defeating the Depopulation Agenda", URL: https://badlands.substack.com/p/defeating-the-depopulation-agenda
+2. Badlands Brief — "Time to Revive the Spirit of JFK", URL: https://badlands.substack.com/p/time-to-revive-the-spirit-of-jfk

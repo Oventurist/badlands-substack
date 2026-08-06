@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [marshall-plan, europe, labor, cold-war, aid-conditionality, eurodollar, globalism]
-sources: [raw/a-more-perfect-labor-union.md, raw/the-new-marshall-plan.md]
+sources: [raw/a-more-perfect-labor-union.md, raw/the-new-marshall-plan.md, raw/women-children-and-terror.md]
 confidence: medium
 ---
 
@@ -32,6 +32,11 @@ Carlson concludes that the Marshall Plan was not humanitarian relief but the con
 
 Carlson believes the Cabal attempted to run another Marshall Plan on the world when the Ukraine Conflict began, but that it is not working out because one side is acting against the Deep State rather than cooperating with it.[2] Without full cooperation the plan can only be strung along while funds are shifted into offshore accounts; it will ultimately fall apart, but in the meantime mainstream media claims about the war's progress and politicians' insistence on funding it are moving billions of dollars into the same Eurodollar system the original Marshall Plan created.[2]
 
+## Referenced in "Women, Children ... and Terror"
+
+[[erik-carlson|Erik Carlson]] pointed back to his essay "The New Marshall Plan," published the day before the October 2023 attack on [[israel|Israel]], summarizing its thesis: that the end result wanted from [[world-war-ii|World War II]] was a unified Europe, a continent controlled by corporations and unelected, semi-secret societies, and that the war was created to achieve it with both sides controlled by the [[british-cabal|Cabal]].[3] The ultimate goal, he wrote, is a [[one-world-government|one world government]], reached in steps that require constant conflict — after 1945, principally in the Middle East.[3]
+
 ## References
 1. Badlands Brief — "A More Perfect (Labor) Union", URL: https://badlands.substack.com/p/a-more-perfect-labor-union
 2. Badlands Brief — "The 'New' Marshall Plan", URL: https://badlands.substack.com/p/the-new-marshall-plan
+3. Badlands Brief — "Women, Children ... and Terror", URL: https://badlands.substack.com/p/women-children-and-terror

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [agencies, food-policy, snap, federal-government]
-sources: [raw/badlands-news-brief-03a.md, raw/badlands-news-brief-fbd.md, raw/the-accomplishments-of-president-a2b.md]
+sources: [raw/badlands-news-brief-03a.md, raw/badlands-news-brief-fbd.md, raw/the-accomplishments-of-president-a2b.md, raw/the-weaponization-of-our-food-supply.md]
 confidence: medium
 ---
 
@@ -26,3 +26,9 @@ Data from the U.S. Department of Agriculture showed that participation in the Wo
 1. Badlands Brief — "SCOTUS and Subsidies, Banker Bonuses, and Six More Years of Lindsay Graham", URL: https://badlands.substack.com/p/badlands-news-brief-03a
 2. Badlands Brief - "Badlands News Brief: Covid, Kickbacks, & Credible Intelligence", URL: https://badlands.substack.com/p/badlands-news-brief-fbd
 3. Badlands Brief — "The Accomplishments of President Trump - Part 2", URL: https://badlands.substack.com/p/the-accomplishments-of-president-a2b
+
+## Attempted ban on sodium nitrite
+
+Badlands Media reports that the USDA tried to ban [[sodium-nitrate-and-sodium-nitrite|sodium nitrite]] as a food additive in the 1970s, but was vetoed by influential food manufacturers who complained they had "no alternative" for preserving packaged meat products.[4] The episode is presented as an illustration of industry power overriding regulatory judgment on a compound the article describes as widely regarded as toxic and highly carcinogenic once digested.[4]
+
+4. Badlands Brief — "The Weaponization of Our Food Supply", URL: https://badlands.substack.com/p/the-weaponization-of-our-food-supply

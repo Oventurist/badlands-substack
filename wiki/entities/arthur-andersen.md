@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [enron, accounting, prosecution, supreme-court]
-sources: [raw/enjoy-the-show.md]
+sources: [raw/enjoy-the-show.md, raw/us-elections-must-be-independent.md]
 confidence: medium
 ---
 
@@ -22,5 +22,14 @@ Commentary in *The Hill*, quoted in the article, notes that courts repeatedly re
 
 Badlands author [[joe-lange|Joe Lange]] presents the Andersen case as the defining exhibit in Weissmann's record of "scorched earth" and unethical prosecution — behavior for which, in Lange's view, he should have been disbarred and charged, but which instead made him an "untouchable" architect of the [[two-tier-justice-system|two-tier justice system]].[1] The article also asks whether that same history is why [[robert-mueller|Robert Mueller]] tapped Weissmann to target Paul Manafort.[1]
 
+## Role in the Enron audit failure
+
+A separate Badlands essay, [[ashe-in-america|Ashe in America]]'s "US Elections Must Be Independent," analyzes Andersen's conduct as the archetypal breakdown of [[auditor-independence|auditor independence]].[2] As [[enron|Enron]]'s audit firm, Andersen was responsible for reviewing and attesting to the truth and accuracy of the company's financial statements; instead it helped Enron conceal its financial problems and advised on the complex accounting techniques used to hide massive debts and inflated profits.[2]
+
+The essay identifies all three classic independence threats in the relationship. Familiarity was foundational: Andersen had been Enron's auditor since the company's founding in 1985, and a revolving door ran between them, with executives including Chief Accounting Officer Richard Causey having previously worked at the firm.[2] Self-interest followed from Enron being one of Andersen's largest clients, generating $52 million in fees in 2000, and from the firm's stake in preserving its "Big Five" status and global brand; complicity in the first concealment then incentivized continued cover-up.[2] Self-review arose because roughly $27 million of those fees came from consulting work — strategy, technology, performance management and executive compensation, structured finance, tax, risk management and derivatives — meaning that Andersen was in effect auditing its own work.[2]
+
+As the scandal unraveled, Andersen shredded "a literal ton" of documents, deleted digital files and proactively obstructed justice, prompting public oversight entities to demand accountability on the ground that markets cannot function without public trust.[2] The firm's dissolution is why the industry has been the "Big Four" rather than the "Big Five" ever since.[2]
+
 ## References
 1. Badlands Brief — "Enjoy the Show", URL: https://badlands.substack.com/p/enjoy-the-show
+2. Badlands Brief — "US Elections Must Be Independent", URL: https://badlands.substack.com/p/us-elections-must-be-independent

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, confirmations, republican-leadership]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-6b4.md, raw/badlands-brief-625.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-c14.md, raw/badlands-news-brief-dbd.md, raw/badlands-news-brief-df2.md, raw/badlands-news-brief-e31.md, raw/badlands-news-brief-e48.md, raw/badlands-news-brief-f46.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-6b4.md, raw/badlands-brief-625.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-c14.md, raw/badlands-news-brief-dbd.md, raw/badlands-news-brief-df2.md, raw/badlands-news-brief-e31.md, raw/badlands-news-brief-e48.md, raw/badlands-news-brief-f46.md, raw/the-real-fight-begins.md]
 confidence: medium
 ---
 
@@ -89,3 +89,9 @@ After the [[united-states-senate|Senate]] voted 48-45 on February 18, 2025 to mo
 On November 13, 2024, Thune was elected Senate majority leader, positioning him to replace the retiring [[mitch-mcconnell|Mitch McConnell]], who had held the top Senate GOP leadership post for eighteen years.[13] Thune had served as Senate Republican whip, the number two leadership position, since 2019, and had largely managed operation of the Senate floor after McConnell suffered a concussion from a fall in 2023.[13] He defeated [[john-cornyn|John Cornyn]] of Texas by a vote of 29 to 24 in the decisive round, having led the first ballot with 25 votes to Cornyn's 15 and 13 for [[rick-scott|Rick Scott]] of Florida.[13] In a statement after the vote Thune said he was "extremely honored to have earned the support of my colleagues to lead the Senate in the 119th Congress," adding that the Republican team was "united behind President Trump's agenda."[13] Reporting described him as well liked within the conference for an affable, humble management style; he had announced his candidacy shortly after McConnell said in February 2024 that he would step down from leadership at year's end.[13]
 
 13. Badlands Brief — "Badlands News Brief: A 'Smooth Transition' Into the Second Trump Administration", URL: https://badlands.substack.com/p/badlands-news-brief-f46
+
+## Election as Senate majority leader (November 2024)
+
+Thune was elected [[us-senate|Senate]] majority leader on November 13, 2024, in a closed-door Republican conference vote, setting the stage for him to replace the retiring [[mitch-mcconnell|Mitch McConnell]].[14] Ahead of the vote, [[peter-navarro|Peter Navarro]] had warned in the Washington Times that either Thune or [[john-cornyn|John Cornyn]] would function as "Mr. McConnell's pope and Mr. Trump's nemesis," strangling [[donald-trump|Trump]]'s Cabinet appointees in their cribs and setting the agenda back by months.[14] Navarro urged that the leadership vote be held in open session and that any candidate pledge a 30-day recess within the first month of the new administration, a demand also voiced by Trump and [[elon-musk|Elon Musk]].[14] Badlands contributor [[ryan-delarme|Ryan DeLarme]] read Thune's victory as McConnell's rearguard action to retain leverage on his way out.[14]
+
+14. Badlands Brief — "The Real Fight Begins", URL: https://badlands.substack.com/p/the-real-fight-begins

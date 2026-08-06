@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [epstein, trafficking, clemency]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-4ec.md, raw/badlands-brief-9ac.md, raw/badlands-brief-eea.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-4a6.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a5a.md, raw/badlands-news-brief-c0a.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-ed9.md, raw/badlands-news-brief-f6e.md, raw/george-soros-a-british-creation.md, raw/the-maxwells-mossad-and-a-digital.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-4ec.md, raw/badlands-brief-9ac.md, raw/badlands-brief-eea.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-4a6.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a5a.md, raw/badlands-news-brief-c0a.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-ed9.md, raw/badlands-news-brief-f6e.md, raw/george-soros-a-british-creation.md, raw/the-maxwells-mossad-and-a-digital.md, raw/the-road-without-struggle.md, raw/whos-the-u-boat-commander.md, raw/why-do-we-know-what-we-know.md]
 confidence: low
 ---
 
@@ -91,6 +91,12 @@ Badlands contributor [[burning-bright|Burning Bright]] noted that the ruling cam
 
 The [[epstein-files-transparency-act|Epstein Files Transparency Act]], passed by both chambers of Congress in November 2025 and signed by President [[donald-trump|Donald Trump]] on November 19, expressly requires Attorney General [[pam-bondi|Pam Bondi]] to release all files — including internal communications and investigative materials — related to [[jeffrey-epstein|Jeffrey Epstein]] and his co-conspirator Maxwell within 30 days of enactment.[16] The statute's redaction provision, which permits withholding records that would jeopardize an active federal investigation or ongoing prosecution, drew scrutiny as a possible limit on what would ultimately be disclosed about Maxwell.[16]
 
+## In Badlands commentary on fake client lists
+
+In "The Road Without Struggle" (February 28, 2023), [[erik-carlson|Erik Carlson]] argued that with [[jeffrey-epstein|Jeffrey Epstein]]'s arrest and Maxwell's conviction, the [[deep-state|Deep State]] can no longer persuade the public that elites are not involved in sex trafficking, and must therefore resort to [[poisoning-the-well|poisoning the well]].[19] He predicted that, with information on Epstein and Maxwell's clients likely to emerge, operatives would circulate fake lists that seem legitimate but are unfounded, so that when those lists are exposed as fraudulent the genuine lists would not be taken seriously.[19]
+
+In an aside, Carlson asked why no one seems to know or care that Maxwell and Steve Jobs's wife, [[laurene-powell-jobs|Laurene Powell Jobs]], were best friends, wondering whether [[apple]] is too big and important to tie to the scandal.[19]
+
 ## References
 1. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
 2. Badlands Brief — "Criminal Invader Crashouts & Honeypot Hoaxes", URL: https://badlands.substack.com/p/badlands-brief-4ec
@@ -124,3 +130,20 @@ Ryan DeLarme's May 2024 feature argues that the most consequential aspect of Max
 After establishing herself in New York at her father's urging to support his efforts to extend his empire into Manhattan, Ghislaine and Epstein seemingly initiated a sexual extortion operation on behalf of Israeli intelligence.[18] She is one of seven surviving siblings, and the article notes she became involved in the post-PROMIS ventures pursued by her twin sisters [[christine-maxwell|Christine]] and [[isabel-maxwell|Isabel Maxwell]], senior figures at [[inslaw|Inslaw]], as did Epstein following his first arrest.[18]
 
 18. Badlands Brief - "The Maxwells, Mossad and a Digital Panopticon", URL: https://badlands.substack.com/p/the-maxwells-mossad-and-a-digital
+19. Badlands Brief — "The Road Without Struggle", URL: https://badlands.substack.com/p/the-road-without-struggle
+
+## Helicopter and submarine licensing (January 2024 feature)
+
+In a January 2024 Badlands piece titled "Who's the U-Boat Commander?", [[erik-carlson|Erik Carlson]] returned to the handler thesis, writing that he does not regard Maxwell as [[jeffrey-epstein|Epstein]]'s sidekick but as his handler, with Epstein serving as the "face" of a blackmail operation that lured in US politicians, CEOs, media figures and scientists.[20] Carlson argues that Maxwell, like her father [[robert-maxwell|Robert Maxwell]] — a former British MP and military man believed to have worked with [[mossad|Mossad]] — operated in an intelligence role, while Epstein was an over-sexed pervert who wanted wealth, importance and unimpeded access to his perversions, making the arrangement a perfect fit.[20]
+
+The article dwells on Maxwell's licensing as both a helicopter and a submarine pilot, which Carlson calls out of place for a socialite and "party girl" who hobnobbed with the global elite.[20] He notes that Maxwell obtained her helicopter pilot's license around the time of Epstein's 2008 Florida conviction and that Epstein paid for it, inferring that the operation could no longer work freely out of Florida and New York and needed discreet air transport from [[st-thomas|St. Thomas]] to [[little-st-james|Little St. James]].[20] The submarine license, by contrast, he treats as inexplicable by convenience, speculating that a submarine could move cargo or passengers undetected by satellite surveillance into an underwater approach to the island.[20]
+
+Carlson also links the operation to the broader control of institutions, arguing that blackmailing politicians controls government policy and the flow of tax dollars, that CEOs supply money and the media supplies narrative, and that controlling scientists means controlling science — and thus, in his framing, the climate change narrative fronted at the time by [[al-gore|Al Gore]], vice president to [[bill-clinton|Bill Clinton]], both of whom he describes as allegedly connected to Epstein.[20] He adds that the volume of connections between Epstein, Israeli leaders and Jewish billionaire businessmen justifies exploring whether the operation worked with Mossad and other intelligence services, and asks whether blackmail explains sustained US support for Israel.[20] Anticipating the release of the "Epstein list," Carlson warned that it would mix known material, new names and disinformation, and that the [[48-hour-rule|48-hour rule]] would be in effect.[20]
+
+20. Badlands Brief — "Who's the U-Boat Commander?", URL: https://badlands.substack.com/p/whos-the-u-boat-commander
+
+## "Trafficking to no one" (Carlson, May 2023)
+
+[[erik-carlson|Erik Carlson]] pointed to Maxwell's imprisonment as an anomaly revealing what the [[deep-state|Deep State cabal]] is protecting, writing that "there is a reason Ghislaine Maxwell is in prison for sex trafficking … to no one" — that is, that she was convicted while the clients she allegedly supplied were never named or charged.[21] Carlson recalled that after reading the early [[q-drops|Q drops]] about [[jeffrey-epstein|Epstein]] Island he predicted that Epstein's handler was likely Maxwell, and that she was subsequently arrested, as he had also predicted Epstein would be killed in jail.[21] He argued that elite pedophilia is one of only two disclosures capable of destroying the cabal, and that the number of unpunished and unrecognized elites far exceeds those arrested, convicted or "suicided."[21]
+
+21. Badlands Brief — "Why Do We Know What We Know?", URL: https://badlands.substack.com/p/why-do-we-know-what-we-know

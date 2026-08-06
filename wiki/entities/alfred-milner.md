@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [british-empire, round-table, bolsheviks, deep-state]
-sources: [raw/henry-kissinger-british-cabal-puppet.md, raw/shadows-sovereigns-and-civil-wars.md, raw/the-deep-state-empire-strikes-back.md]
+sources: [raw/henry-kissinger-british-cabal-puppet.md, raw/shadows-sovereigns-and-civil-wars.md, raw/the-deep-state-empire-strikes-back.md, raw/who-are-the-true-puppet-masters.md]
 confidence: low
 ---
 
@@ -36,3 +36,9 @@ Historian Arsene de Goulevitch, who experienced the events of 1917 firsthand, wr
 1. Badlands Brief — "Henry Kissinger: British Cabal Puppet", URL: https://badlands.substack.com/p/henry-kissinger-british-cabal-puppet
 2. Badlands Brief — "Shadows, Sovereigns and Civil Wars - Part 1", URL: https://badlands.substack.com/p/shadows-sovereigns-and-civil-wars
 3. Badlands Brief — "The Deep State Empire Strikes Back", URL: https://badlands.substack.com/p/the-deep-state-empire-strikes-back
+
+## Cited in "Who are the True Puppet Masters?" (July 2023)
+
+[[erik-carlson|Erik Carlson]] names Lord Alfred Milner, Secretary of War, as one of the British figures who openly preferred [[communism|Communism]] to the Russian monarch during the revolutionary period, describing him as a "Marx fanboy" alongside King George and Prime Minister Lloyd George.[4] The grouping appears in Carlson's account of the 1917 revolution as a British-funded and British-orchestrated operation, in which England openly expressed support for the Bolsheviks and the Czar and his family were murdered.[4]
+
+4. Badlands Brief — "Who are the True Puppet Masters?", URL: https://badlands.substack.com/p/who-are-the-true-puppet-masters

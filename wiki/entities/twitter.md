@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [social-media, free-speech, elon-musk, big-tech]
-sources: [raw/badlands-news-brief-090.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-908.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-d50.md, raw/has-trumps-whole-life-been-a-sting.md, raw/q-for-dummies-chapter-18.md, raw/reset-the-space-reset-society.md, raw/the-banking-revolution-is-underway.md, raw/the-media-is-the-enemy-of-the-people.md]
+sources: [raw/badlands-news-brief-090.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-908.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-d50.md, raw/has-trumps-whole-life-been-a-sting.md, raw/q-for-dummies-chapter-18.md, raw/reset-the-space-reset-society.md, raw/the-banking-revolution-is-underway.md, raw/the-media-is-the-enemy-of-the-people.md, raw/the-sting.md, raw/the-multinational-offensive-against.md, raw/whats-taking-so-long.md]
 confidence: medium
 ---
 
@@ -110,3 +110,23 @@ A June 15, 2024 Badlands feature by [[erik-carlson|Erik Carlson]] argued that [[
 [[erik-carlson|Erik Carlson]]'s September 17, 2024 essay recounts that [[elon-musk|Elon Musk]] lost roughly 60% of Twitter's advertising immediately after buying the platform, and that subsequent disclosures showed how involved the [[fbi|FBI]] and [[central-intelligence-agency|CIA]] had been in controlling speech, shadow banning users and removing others.[15] Carlson treats the coincidence of the agencies' expulsion and the advertising collapse as support for his claim that advertising functions as a CIA laundering and control mechanism.[15]
 
 15. Badlands Brief — "The Media is the Enemy of the People", URL: https://badlands.substack.com/p/the-media-is-the-enemy-of-the-people
+
+## The DeSantis Twitter Spaces announcement (May 2023)
+
+[[ron-desantis|Ron DeSantis]] announced his presidential candidacy in a Twitter Spaces event hosted with [[elon-musk|Elon Musk]] in May 2023. [[badlands-media|Badlands Media]] contributor [[erik-carlson|Erik Carlson]] described the event as "a bit of a flop" — "technology wise, it was a mess, content wise, it was boring."[16]
+
+Carlson raised the possibility that the widely shared satirical video mocking the failed launch had been produced before the event took place, reasoning that a video of that production quality would require planning yet "just popped up right after the Twitter Spaces debacle."[16] He observed that this would only be possible if the outcome were known in advance, which in turn would require Twitter itself to have been "in on it," while stressing that he was asking the question rather than asserting an answer.[16]
+
+16. Badlands Brief — "The Sting", URL: https://badlands.substack.com/p/the-sting
+
+## Targeted in the 2024 platform offensive
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] named Twitter, rebranded as X, as one of the three most consequential platforms targeted in the 2024 escalation of the multinational censorship offensive, alongside [[rumble|Rumble]] and [[telegram|Telegram]].[17] Under [[elon-musk|Elon Musk]]'s ownership the platform was banned outright in [[brazil|Brazil]] by the [[supremo-tribunal-federal|Supremo Tribunal Federal]] before Musk capitulated to Justice [[alexandre-de-moraes|Alexandre de Moraes]]'s censorship orders, and DeLarme warned that EU authorities could pursue the same logic under the [[digital-services-act|Digital Services Act]].[17] Despite his criticism of Musk's capitulation, DeLarme described the platform as an indispensable tool where the bulk of online debate, activism and journalism take place.[17]
+
+17. Badlands Brief — "The Multinational Offensive Against Free Speech Online", URL: https://badlands.substack.com/p/the-multinational-offensive-against
+
+## In Lange's counterinsurgency reading (December 2022)
+
+[[joe-lange|Joe Lange]] characterised Twitter in "What's Taking So Long?" (December 28, 2022) as the largest and most effective propaganda tool the enemy possessed, and argued that the [[qanon|Q]] operation's encouragement of anons to dig and share findings on the platform forced the enemy to ban them along with [[donald-trump|Donald Trump]] and to censor a wide range of subjects.[18] He read [[elon-musk|Elon Musk]]'s purchase of the company and its move into private ownership as the enemy's loss of one of its most powerful weapons.[18]
+
+18. Badlands Brief — "What's Taking So Long?", URL: https://badlands.substack.com/p/whats-taking-so-long

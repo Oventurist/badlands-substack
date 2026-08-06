@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [trump-administration, ukraine, diplomacy, envoy]
-sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-688.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-9ba.md, raw/badlands-news-brief-a9a.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-c44.md, raw/q-for-dummies-chapter-18.md]
+sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-688.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-9ba.md, raw/badlands-news-brief-a9a.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-c44.md, raw/q-for-dummies-chapter-18.md, raw/the-sabotage-of-trumps-administration.md, raw/trump-20-and-the-opposition-plot.md]
 confidence: medium
 ---
 
@@ -84,3 +84,17 @@ Chapter 18 of the [[q-for-dummies|Q for Dummies]] series notes that Kellogg had 
 7. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
 8. Badlands Brief — "Badlands News Brief: A British TERF Triumph & A Senator Snubbed in El Salvador", URL: https://badlands.substack.com/p/badlands-news-brief-c44
 9. Badlands Brief — "Q for Dummies - Chapter 18", URL: https://badlands.substack.com/p/q-for-dummies-chapter-18
+
+## Dispute over Olivia Troye's departure
+
+Erik Carlson's "The Sabotage of Trump's Administration" (December 27, 2023) cites Kellogg's account of the departure of [[olivia-troye|Olivia Troye]], the homeland security and counterterrorism adviser to Vice President [[mike-pence|Mike Pence]].[10] While Troye says she resigned in August 2020, Kellogg — Pence's national security adviser — says he fired her and "escorted her off the compound," and has more generally accused her of lying about her time in the Trump–Pence administration; Troye denies the allegations.[10] Carlson treats Kellogg's version as the more credible one, arguing it indicates Troye was caught sabotaging the administration and removed months before the 2020 election.[10]
+
+10. Badlands Brief — "The Sabotage of Trump's Administration", URL: https://badlands.substack.com/p/the-sabotage-of-trumps-administration
+
+## Divergence from Trump on Ukraine escalation (December 2024)
+
+In "Trump 2.0 and the 'Opposition' Plot," Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] cited a Fox News appearance by Kellogg made a couple of weeks before publication in which he defended the use of American long-range missiles against targets inside Russia.[11] DeLarme presented this as the perspective of the establishment wing of the Republican Party, shared by [[marco-rubio|Marco Rubio]], [[elise-stefanik|Elise Stefanik]] and other Trump selections, whose objection to [[joe-biden|Joe Biden]]'s Ukraine policy was that the United States had not done enough rather than that it had escalated too far.[11]
+
+This placed Kellogg in direct tension with [[donald-trump|Trump]]'s own statement to [[time-magazine|TIME]] that he disagreed "very vehemently" with sending missiles hundreds of miles into Russia because it escalated the war.[11] DeLarme argued the split was reason to judge the incoming administration by its eventual policies rather than by its personnel, since Trump appeared determined that his views, not his appointees', would prevail.[11]
+
+11. Badlands Brief - "Trump 2.0 and the 'Opposition' Plot", URL: https://badlands.substack.com/p/trump-20-and-the-opposition-plot

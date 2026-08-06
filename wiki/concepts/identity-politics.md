@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [politics, media, culture-war, democrats]
-sources: [raw/deep-state-spotlight-gavin-newsom.md]
+sources: [raw/deep-state-spotlight-gavin-newsom.md, raw/the-steering-wheel-of-civilization.md]
 confidence: medium
 ---
 
@@ -26,3 +26,9 @@ The article situated identity politics alongside the [[culture-war|culture war]]
 
 ## References
 1. Badlands Brief — "Deep State Spotlight: Gavin Newsom", URL: https://badlands.substack.com/p/deep-state-spotlight-gavin-newsom
+
+## Cited in "The Steering Wheel of Civilization"
+
+The February 24, 2023 Badlands Media essay "The Steering Wheel of Civilization" treats identity politics as an application of social inclusion psychology.[2] It argues that members of a properly formed social group share a group identity that produces a sense of belonging so important that most people are driven to preserve it whether or not they are aware of doing so, and that this psychology is powerful enough to be wielded by good and bad actors alike over groups that feel a common identity.[2] For this reason the essay calls identity politics one of the more reliable methods for maintaining in-group preference, which can then be exploited by politicians and influencers of all sorts.[2]
+
+2. Badlands Brief — "The Steering Wheel of Civilization", URL: https://badlands.substack.com/p/the-steering-wheel-of-civilization

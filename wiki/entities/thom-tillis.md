@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, republican, north-carolina, immigration]
-sources: [raw/badlands-brief-165.md, raw/badlands-brief-6b4.md, raw/badlands-brief-9eb.md, raw/badlands-brief-b82.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a69.md]
+sources: [raw/badlands-brief-165.md, raw/badlands-brief-6b4.md, raw/badlands-brief-9eb.md, raw/badlands-brief-b82.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a69.md, raw/trump-secures-uneasy-peace-in-gaza.md]
 confidence: medium
 ---
 
@@ -47,8 +47,13 @@ Tillis was cited in November 2024 reporting as among the Republican senators fac
 
 On Sunday, June 29, 2025, Tillis announced he would not seek reelection, after President Donald Trump publicly badgered him for saying he could not vote for the [[one-big-beautiful-bill-act|budget reconciliation package]] because of its steep Medicaid cuts.[7] The announcement came during an all-night Senate session in which Republican leaders scrambled to meet Trump's Fourth of July deadline, having barely cleared a procedural hurdle the previous day amid a revolt by a handful of GOP holdouts that required phone calls from Trump and a visit from Vice President [[jd-vance|JD Vance]] to contain.[7]
 
-## References
+## Skepticism of the January 2025 Gaza ceasefire
 
+Senator Thom Tillis (R-NC) was among the few congressional Republicans willing to voice public skepticism about the [[gaza-ceasefire|Gaza ceasefire]] pushed by [[donald-trump|Donald Trump]] before his second inauguration.[8] He told Jewish Insider that he was "really in the skeptical column for anything related to [[hamas|Hamas]]," expressing concern that the organization had been included in the negotiations at all.[8]
+
+Tillis added that Hamas figures were "the wrong people to be brokering the deal because, in some respects, that means you're a part of the future of Gaza. That's a bad thing."[8] Badlands Media responded that a deal cannot be brokered without engaging both parties, and framed the refusal to negotiate with an adversary as a hallmark of security-state practice in sustaining forever wars.[8] The article placed Tillis within a chorus of Republicans who had opposed substantially the same terms under [[joe-biden|Joe Biden]] and who now could not criticize the agreement without contradicting themselves.[8]
+
+## References
 1. Badlands Brief — "Trump Conducts the Chaos as the Uniparty Concentrates Fire", URL: https://badlands.substack.com/p/badlands-brief-165
 2. Badlands Brief — "Deliberate Discombobulation Driving Transformational Change", URL: https://badlands.substack.com/p/badlands-brief-6b4
 3. Badlands Brief — "Dems Demand a Post-Trump Strategy as Hamas Haggles for Peace", URL: https://badlands.substack.com/p/badlands-brief-9eb
@@ -56,3 +61,4 @@ On Sunday, June 29, 2025, Tillis announced he would not seek reelection, after P
 5. Badlands Brief — "Badlands News Brief: Intelligence Narratives & Seemingly Impossible Deals", URL: https://badlands.substack.com/p/badlands-news-brief-222
 6. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6
 7. Badlands News Brief — "Shadow Feds, Activist Courts, & Lasting Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a69
+8. Badlands Brief — "Trump Secures Uneasy Peace in Gaza", URL: https://badlands.substack.com/p/trump-secures-uneasy-peace-in-gaza

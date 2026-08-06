@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [authors, occult, mind-control]
-sources: [raw/false-flags-and-the-occult.md, raw/god-and-the-declaration-of-independence.md, raw/is-the-united-states-a-nation.md, raw/q-is-our-best-fren.md]
+sources: [raw/false-flags-and-the-occult.md, raw/god-and-the-declaration-of-independence.md, raw/is-the-united-states-a-nation.md, raw/q-is-our-best-fren.md, raw/the-steering-wheel-of-civilization.md, raw/the-werewolf-game.md]
 confidence: medium
 ---
 
@@ -37,3 +37,15 @@ In the November 1, 2023 Badlands Media essay "Is the United States a Nation?", [
 The March 25, 2025 essay "Q is Our Best Fren" describes Napoleon as an accomplished clinical psychologist and plastic surgeon whose professional practice served many [[cabal]] elites as clientele, and treats that access as what makes [[shadow-men|Shadow Men]] worth reading.[4] The essay cites his claim that such elites see themselves as "gods" above the rest of humanity, and reports his account that some of them will not consume food unless it has been subjected to torture, such as the meat of a tortured animal.[4] Napoleon's testimony is used there in support of a broader framework treating [[psychopathy-and-parasitism|psychopathy as an advanced form of parasitism]].[4]
 
 4. Badlands Brief — "Q is Our Best Fren", URL: https://badlands.substack.com/p/q-is-our-best-fren
+
+## Credited with coining "Shadow Men"
+
+The February 24, 2023 essay "The Steering Wheel of Civilization" by [[justin-deschamps|Justin Deschamps]] credits Napoleon with coining the term [[shadow-men|Shadow Men]] in his book *Shadow Men: An Encyclopedia of Mind Control*.[5] That essay describes Napoleon as a clinically and medically trained psychologist, forensic analyst and lawyer who claims to have worked directly with cabal types in Hollywood and elsewhere during his career.[5] Deschamps notes that a full treatment of the Shadow Men psychological profile drawn from Napoleon's work was planned for a future installment of the Nature of Civilizations series.[5]
+
+5. Badlands Brief — "The Steering Wheel of Civilization", URL: https://badlands.substack.com/p/the-steering-wheel-of-civilization
+
+## Cited in The Werewolf Game
+
+The opening installment of [[the-werewolf-game|The Werewolf Game]] series, published March 18, 2024, describes Napoleon as a clinical psychologist who worked as a plastic surgeon for the wealthy elite and whose personal encounters with them are well worth reading.[6] It reports his finding in [[shadow-men|*Shadow Men*]] that the rulers of this world essentially see themselves as "Gods" in a Darwinist universe, and that the dark occultists of the world regard themselves as "apex predators" in a Darwinian struggle for supremacy over the Earth.[6] The essay uses this testimony alongside [[andrew-lobaczewski|Andrew Lobaczewski]]'s work to support its claim that the [[deep-state|Deep State]] amounts to organized psychopathy.[6]
+
+6. Badlands Media — "The Werewolf Game", URL: https://badlands.substack.com/p/the-werewolf-game

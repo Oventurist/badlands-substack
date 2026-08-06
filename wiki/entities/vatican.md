@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [catholic-church, religion, italy]
-sources: [raw/badlands-news-brief-09e.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-7bf.md, raw/is-jerome-powell-a-patriot.md, raw/soul-governance.md, raw/the-darwinian-perversion-of-christianity.md]
+sources: [raw/badlands-news-brief-09e.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-7bf.md, raw/is-jerome-powell-a-patriot.md, raw/soul-governance.md, raw/the-darwinian-perversion-of-christianity.md, raw/throne-of-the-ivy-grid.md]
 confidence: medium
 ---
 
@@ -45,6 +45,17 @@ That claim, the essay says, was implemented through [[cestui-que-vie-trust|Cestu
 
 Ehret argues that Chardin's followers nevertheless shaped the [[second-vatican-council|Second Vatican Council]] launched by Pope John XXIII in 1962 and the subsequent rise of [[liberation-theology|Liberation Theology]], and that while Popes John Paul I and II tried to resist this deconstruction of Christianity, "a touch of poison and a couple of assassin's bullets" brought the Holy See back into line.[6]
 
+
+## In "Throne of the Ivy Grid"
+
+The Badlands Media essay *Throne of the Ivy Grid* describes the Vatican as "more than a church" — a sovereign trinity of legal empire, financial citadel, and "metaphysical landlord of the soul," built in silence as a legal empire hidden inside a religious robe and designed to outlive popes, kings, and empires.[7] What it rules, the essay argues, "is not your religion - but your estate."[7]
+
+The essay grounds this claim in the 1302 papal bull [[unam-sanctam|Unam Sanctam]] issued by Pope Boniface VIII, which it says remains legally active through the [[cestui-que-vie-trust|Cestui Que Vie]] trust system: absent proof of spiritual sovereignty and biological life, the Vatican is said to presume ownership of a person's soul estate through silence, birth certificates, and maritime law — "You are the cargo. The Vatican is the port."[7] This system is described as fusing with the [[crown-temple|Crown Temple]] in the City of London and the Inner and Middle Temple bars, where legal double-meanings are said to weaponize language itself.[7]
+
+Financially, the essay identifies the [[vatican-bank|Institute for the Works of Religion]] as having held accounts for dictators, mafias, and covert intelligence networks, calling it "the spiritual cloaking device of the global black market," and states that concordats with more than 180 nations grant the Vatican extrajudicial power in exchange for ritual legitimacy.[7] It alleges laundering corridors threading through the [[bank-for-international-settlements|BIS]], the [[international-monetary-fund|IMF]], and [[swift|SWIFT]], with Jesuit-embedded legal operatives ensuring Vatican transactions pass with sovereign impunity, and describes the Vatican Bank, BIS and IMF as a "trinity of laundering power" beyond the reach of audit.[7]
+
+The essay names living agents it associates with this apparatus, including [[nancy-pelosi|Nancy Pelosi]] — described as Jesuit-educated and shielded by legal concordats, operating as "an ecclesiastical enforcer" whose role was "sacred theater… legislative camouflage for canon law laundering" — and [[hillary-clinton|Hillary Clinton]], cast as a ceremonial figure serving Vatican interests through statecraft cloaked as diplomacy.[7] It further alleges that the Vatican's deep halls conceal [[luciferian-rites|Luciferian rites]] and black-cube Saturnian ritual encoded with planetary talismans, and that [[lucis-trust|Lucis Trust]] channels the same inverted doctrine into United Nations compacts.[7]
+
 ## References
 1. Badlands Brief — "Preemptive Pardons, Syrian Sanctions, & Preparations for Putin", URL: https://badlands.substack.com/p/badlands-news-brief-09e
 2. Badlands Brief — "Badlands News Brief: A Coming Conclave & More Musical Chairs", URL: https://badlands.substack.com/p/badlands-news-brief-5c8
@@ -52,3 +63,4 @@ Ehret argues that Chardin's followers nevertheless shaped the [[second-vatican-c
 4. Badlands Brief — "Is Jerome Powell a Patriot?", URL: https://badlands.substack.com/p/is-jerome-powell-a-patriot
 5. Badlands Brief — "Soul Governance", URL: https://badlands.substack.com/p/soul-governance
 6. Badlands Brief — "The Darwinian Perversion of Christianity", URL: https://badlands.substack.com/p/the-darwinian-perversion-of-christianity
+7. Badlands Brief — "Throne of the Ivy Grid", URL: https://badlands.substack.com/p/throne-of-the-ivy-grid

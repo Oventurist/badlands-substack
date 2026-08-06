@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [bretton-woods, imf, new-deal, finance]
-sources: [raw/real-patriots-dont-think-like-hitler-196.md]
+sources: [raw/real-patriots-dont-think-like-hitler-196.md, raw/understanding-the-soul-of-china.md]
 confidence: medium
 ---
 
@@ -22,3 +22,9 @@ After 1945, an anti-communist witch hunt turned America into what Ehret calls a 
 
 ## References
 1. Badlands Brief — "Real Patriots Don't Think Like Hitler – Part 2: How Western Bankers Created the Nazis", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-196
+
+## Removal and death
+
+[[matthew-ehret|Matthew Ehret]] describes White as the [[imf|IMF]]'s founder and first president, who was brought before the House of Un-American Activities and lost his position to Wall Street lawyer John J. McCloy.[2] He died of a heart attack in 1948 while campaigning for [[henry-wallace|Henry A. Wallace]] as a third-party presidential candidate.[2] Ehret presents this as part of the broader postwar purge of New Deal Democrats loyal to [[franklin-d-roosevelt|FDR]]'s vision, who were labelled communist sympathizers for resisting the emerging Cold War consensus.[2]
+
+2. Badlands Brief — "Understanding the Soul of China", URL: https://badlands.substack.com/p/understanding-the-soul-of-china

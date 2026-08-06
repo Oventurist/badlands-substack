@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [paleoconservatism, america-first, republican-party, non-interventionism]
-sources: [raw/schisms-in-maga.md, raw/the-exploitation-of-charlie-kirk.md]
+sources: [raw/schisms-in-maga.md, raw/the-exploitation-of-charlie-kirk.md, raw/two-wings-one-ugly-bird.md]
 confidence: medium
 ---
 
@@ -29,3 +29,9 @@ Buchanan also appears in DeLarme's argument about the conditional nature of pro-
 In "The Exploitation of Charlie Kirk," [[ryan-delarme|Ryan DeLarme]] named Buchanan, with [[ron-paul|Ron Paul]] and [[john-hostettler|John Hostettler]], as one of the rare American political figures who openly criticized U.S.-[[israel|Israel]] policy despite the professional expectation of unwavering support.[2] DeLarme contrasted them with [[earl-hilliard|Earl Hilliard]], [[cori-bush|Cori Bush]], and [[jamaal-bowman|Jamaal Bowman]], each of whom lost a seat after backlash from pro-Israel groups, and argued that the same policing operates in the media space.[2]
 
 2. Badlands Brief — "The Exploitation of Charlie Kirk", URL: https://badlands.substack.com/p/the-exploitation-of-charlie-kirk
+
+## Sidelined by the IRI
+
+"Two Wings, One Ugly Bird" cites Pat Buchanan as an example of the isolationist Republicans the [[international-republican-institute|International Republican Institute]] is said to have pushed aside in favour of neoconservative hawks while coaching Republican hopefuls in the 1990s.[3] The article treats this as part of a broader pattern by which the [[national-endowment-for-democracy|NED]]-funded institutes narrowed the acceptable range of candidates in both parties, leaving them lockstep on endless wars and corporate handouts by the 2000s.[3]
+
+3. Badlands Brief — "Two Wings, One Ugly Bird", URL: https://badlands.substack.com/p/two-wings-one-ugly-bird

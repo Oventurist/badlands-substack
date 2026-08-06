@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [diplomacy, petrodollar, globalism, nixon-administration]
-sources: [raw/badlands-news-brief-24e.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-a3b.md, raw/dark-equation.md, raw/henry-kissinger-british-cabal-puppet.md, raw/the-british-are-leaving-the-british.md, raw/the-men-behind-the-curtain-part-3.md, raw/the-men-behind-the-curtain-part-2.md]
+sources: [raw/badlands-news-brief-24e.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-a3b.md, raw/dark-equation.md, raw/henry-kissinger-british-cabal-puppet.md, raw/the-british-are-leaving-the-british.md, raw/the-men-behind-the-curtain-part-3.md, raw/the-men-behind-the-curtain-part-2.md, raw/the-wuhan-lab-leak-hoax.md]
 confidence: medium
 ---
 
@@ -86,3 +86,12 @@ A December 1966 event is presented as a prototype for the semi-public discussion
 
 As executive director of Harvard's International Seminar in 1967 — a program reported that same year to have received $135,000 in [[central-intelligence-agency|CIA]] funding, which Kissinger said he was unaware of — Kissinger recruited [[klaus-schwab|Klaus Schwab]] into his circle of [[round-table-movement|Round Table]] imperialists, giving the young Schwab access to the American policymakers who would help him build the World Economic Forum.[7] Kissinger subsequently introduced Schwab to Galbraith, who helped make the Forum a reality.[7]
 8. Badlands Brief — "The Men Behind the Curtain - Part 2", URL: https://badlands.substack.com/p/the-men-behind-the-curtain-part-2
+9. Badlands Brief — "The Wuhan Lab Leak Hoax", URL: https://badlands.substack.com/p/the-wuhan-lab-leak-hoax
+
+## NSSM-200 and the "master-slave" global society
+
+In "The Wuhan Lab Leak Hoax," [[matthew-ehret|Matthew Ehret]] presents Kissinger's 1974 [[nssm-200|NSSM-200]] report, *Implications of Worldwide Population Growth for U.S. Security and Overseas Interests*, as the document that transformed US foreign policy from a pro-development philosophy into a paradigm of population control.[9] The declassified report warned that measures to reduce fertility had to be started and made effective in the 1970s and 1980s, tied financial, food and agricultural assistance to recipients' population programmes, and contemplated that "mandatory programs may be needed."[9]
+
+Ehret characterizes Kissinger as a thoroughgoing Malthusian who held that helping poor nations stand on their own feet would produce global disequilibrium, since new middle classes would consume more and use the strategic resources beneath their own soil.[9] On his ascent to Secretary of State under Nixon, a grand strategy was unleashed to create a "master-slave" dependency between developed and undeveloped sectors, with special emphasis on the thirteen nations targeted by NSSM-200 plus China.[9] China was permitted western technology only on condition that Rockefeller–World Bank demands for [[one-child-policy|one-child policy]] programmes were met.[9]
+
+The resulting design envisaged a "Have" class of post-industrial consumers, a stagnant "Have-Not" labouring class unable to buy what it produced, and darker-skinned regions — largely Sub-Saharan Africa — left with neither production nor consumption while their resource-rich lands were exploited by corporate middlemen operating above the "obsolete order" of nation states.[9] Ehret notes that Kissinger called [[nafta|NAFTA]] "the most creative step toward a new world order taken by any group of countries since the end of the Cold War," a treaty [[donald-trump|Donald Trump]] later renegotiated.[9] He groups Kissinger with [[bill-gates|Gates]], [[mark-carney|Carney]] and [[klaus-schwab|Schwab]] as figures who fear China's record on development, poverty reduction and population growth, and he contrasts the static Kissinger model with the [[four-modernizations|Four Modernizations]] launched by [[zhou-enlai|Zhou Enlai]] and [[deng-xiaoping|Deng Xiaoping]].[9]

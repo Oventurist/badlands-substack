@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ideology, politics, collectivism, information-war]
-sources: [raw/badlands-brief-2b2.md, raw/glimpses-into-hell.md, raw/oppenheimer-and-the-central-narrative.md, raw/the-british-cabal.md]
+sources: [raw/badlands-brief-2b2.md, raw/glimpses-into-hell.md, raw/oppenheimer-and-the-central-narrative.md, raw/the-british-cabal.md, raw/who-are-the-true-puppet-masters.md]
 confidence: medium
 ---
 
@@ -50,3 +50,11 @@ He treated the American Communists as one of the "circus acts" of the [[deep-sta
 2. Badlands Brief — "Glimpses into Hell - Part 1", URL: https://badlands.substack.com/p/glimpses-into-hell
 3. Badlands Brief — "'Oppenheimer' & The Central Narrative", URL: https://badlands.substack.com/p/oppenheimer-and-the-central-narrative
 4. Badlands Brief — "The British Cabal", URL: https://badlands.substack.com/p/the-british-cabal
+
+## Cited in "Who are the True Puppet Masters?" (July 2023)
+
+[[erik-carlson|Erik Carlson]] argues that Communism is an English creation rather than a spontaneous workers' movement.[5] He notes that [[karl-marx|Karl Marx]] found refuge in England in 1849, married into British aristocracy and lived out his life there, and that the *Communist Manifesto* was funded and first published in England.[5] The motive he assigns is demographic: the Industrial Revolution created a middle class, which meant the [[british-cabal|British Cabal]] could no longer govern through a two-tier system of elites and working poor, so Communism was deployed as a "middle-class killer."[5]
+
+Carlson maintains there is little real difference between the Communists and the Nazis, since both systems are run through fascism, and repeats a claim that many early Nazi Party members fled from Russia to Germany after the failed 1905 revolution.[5] He adds a warning to American liberals that once Communism is in place it has no further need of them, citing the reported purge of homosexuals from the early Nazi Party as precedent.[5] Asked who really pulled the strings of Communism, he answers: England.[5]
+
+5. Badlands Brief — "Who are the True Puppet Masters?", URL: https://badlands.substack.com/p/who-are-the-true-puppet-masters

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [british-empire, education, elite-recruitment, oxford]
-sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-adc.md, raw/canadas-transition-to-collectivist.md, raw/the-british-are-leaving-the-british.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-adc.md, raw/canadas-transition-to-collectivist.md, raw/the-british-are-leaving-the-british.md, raw/who-are-the-true-puppet-masters.md]
 confidence: medium
 ---
 
@@ -37,3 +37,11 @@ Ehret argues it is no exaggeration to say that many important Cold War events in
 2. Badlands Brief — "Badlands News Brief: Globalists Panic as Populism Takes Over the Zeitgeist", URL: https://badlands.substack.com/p/badlands-news-brief-adc
 3. Badlands Brief — "Canada's Transition to Collectivist Green Dystopia", URL: https://badlands.substack.com/p/canadas-transition-to-collectivist
 4. Badlands Brief — "The British Are Leaving! The British Are Leaving!", URL: https://badlands.substack.com/p/the-british-are-leaving-the-british
+
+## Cited in "Who are the True Puppet Masters?" (July 2023)
+
+[[erik-carlson|Erik Carlson]] writes that many people believe Rhodes Scholarships are an indoctrination process used to create foreign assets for England, and advises that a good way to identify likely British assets in the United States is to look at who was a Rhodes Scholar and later attained a position of power in media or politics.[5] He states that more than 25% of world leaders studied abroad in England.[5]
+
+Carlson notes that [[bill-clinton|Bill Clinton]] received a Rhodes Scholarship in 1968 to attend University College, Oxford, and lists among other scholars George Stephanopoulos, Susan Rice, Rachel Maddow, Cory Booker, Pete Buttigieg and the writer Ronan Farrow.[5]
+
+5. Badlands Brief — "Who are the True Puppet Masters?", URL: https://badlands.substack.com/p/who-are-the-true-puppet-masters

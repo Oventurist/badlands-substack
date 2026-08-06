@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, endowment, harvard, asset-management]
-sources: [raw/the-ivy-dominion.md, raw/the-ivy-web.md]
+sources: [raw/the-ivy-dominion.md, raw/the-ivy-web.md, raw/wilted-ivy.md]
 confidence: low
 ---
 
@@ -40,3 +40,11 @@ The article reports that HMC's disposal of more than $1 billion in illiquid hold
 ## References
 1. Badlands Brief — "The Ivy Dominion", URL: https://badlands.substack.com/p/the-ivy-dominion
 2. Badlands Brief — "The Ivy Web", URL: https://badlands.substack.com/p/the-ivy-web
+
+## "Wilted Ivy" account
+
+Badlands Media's May 2025 essay "Wilted Ivy" calls the Harvard Management Company, overseer of the university's $53 billion endowment, "not just a collection of skilled investors" but "a conduit of influence, populated by individuals deeply embedded in Wall Street, globalist think tanks, elite policy circles, and philanthropic networks tied to historical centers of power."[3]
+
+The article states that the people entrusted with Harvard's finances are also board members of [[goldman-sachs|Goldman Sachs]], [[blackstone|Blackstone]] and [[t-rowe-price|T. Rowe Price]]; partners with the [[rothschild-family|Rothschilds]] and Rockefellers; members of the [[council-on-foreign-relations|Council on Foreign Relations]] and [[trilateral-commission|Trilateral Commission]]; regulars at [[world-economic-forum|Davos]] and in some cases [[bilderberg-group|Bilderberg]]; and funders or advisors to the [[ford-foundation|Ford]] and [[rockefeller-foundation|Rockefeller]] foundations, which it describes as historically tied to intelligence soft power.[3] This convergence, the essay argues, creates "what intelligence analysts call a single point of failure," so that destabilizing Harvard ripples pressure through the financial, political and cultural layers of the old order.[3] The liquidation of more than $1 billion in illiquid private equity stakes is read as a distress signal rather than rebalancing.[3]
+
+3. Badlands Brief — "Wilted Ivy", URL: https://badlands.substack.com/p/wilted-ivy

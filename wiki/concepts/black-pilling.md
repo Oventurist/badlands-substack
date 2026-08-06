@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [information-warfare, demoralization, psychology, narrative, online-culture]
-sources: [raw/gaslighting-from-all-sides.md, raw/poisoning-the-well.md, raw/stuck-in-a-groove-of-negativity-and.md]
+sources: [raw/gaslighting-from-all-sides.md, raw/poisoning-the-well.md, raw/stuck-in-a-groove-of-negativity-and.md, raw/thrive-in-the-transition.md]
 confidence: medium
 ---
 
@@ -59,3 +59,11 @@ Carlson argued that because the small minority of active truth seekers cannot si
 He identified two concrete symptoms within his own community: people so convinced the American economy would be destroyed by the [[joe-biden|Biden]] administration's policies that they were rooting for the collapse in order to validate their belief, and people who insisted [[donald-trump|Trump]] could not win in 2024 because elections are too rigged and no protective systems exist.[3] Such readers, he wrote, seek only validation for their hopelessness and refuse messages of hope even when backed by evidence.[3] Against this he set an explicitly religious claim — that human beings are not designed by God to feel hopeless or defeated, and that despair originates with Satan and functions to remove a person from the fight.[3]
 
 3. Badlands Brief — "Stuck in a Groove of Negativity and Hopelessness", URL: https://badlands.substack.com/p/stuck-in-a-groove-of-negativity-and
+
+## The "Doomer's Refrain" and the barren season
+
+In "Thrive in the Transition" (December 7, 2022), [[pepe-lives-matter|Pepe Lives Matter]] paired the black pill with what he called the "Doomer's Refrain" and plain defeatism, warning that without encouragement and faith these can embed themselves deep in the psyche and, once lodged, often refuse to let go.[4] He argued that the countermeasure is a "Macro Viewpoint" — an eagle-eyed perspective above the daily news cycle — because the noise of day-to-day reporting can otherwise drown out hope until emotional well-being becomes indefensible.[4]
+
+That essay located the source of black-pilling partly in an audience mismatch: the constant "precipice" narratives are, on his account, designed to bring the normie and the half-awake to their own [[red-pilling|red pill]] moment and are not what the already-awakened patriot should consume daily.[4] A reader who is continually swept up emotionally by narratives aimed at other people's awakenings is described as "living on the precipice incorrectly," and inhabiting that emotional state permanently is called a recipe for disaster and heartbreak.[4] The prescribed remedy is a change of mentality and expectation during the transitional "barren season," with hope treated as an art form to be guarded and practised until mastered.[4] See [[thriving-in-the-transition|Thriving in the Transition]].[4]
+
+4. Badlands Brief — "Thrive in the Transition", URL: https://badlands.substack.com/p/thrive-in-the-transition

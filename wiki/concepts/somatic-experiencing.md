@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [trauma, healing, nervous-system, psychology]
-sources: [raw/the-bridge.md]
+sources: [raw/the-bridge.md, raw/transcending-ego.md]
 confidence: medium
 ---
 
@@ -24,5 +24,10 @@ Unresolved tension stored in the nervous system is said to reveal itself in how 
 
 Within the essay's programme, Somatic Experiencing sits alongside gentler entry points — walking, music, attentive cooking, drawing, writing, playing an instrument, learning a new skill — and deeper regulatory practices including breathwork to stimulate the vagus nerve, time in nature, cold therapy and fasting.[1] The stated outcome of sustained practice is a stabilised nervous system in which emotions become manageable, intuition sharpens and discernment strengthens, a sequence the essay ties to its broader account of [[spiritual-awakening|spiritual awakening]].[1]
 
+## In "Transcending Ego"
+
+The April 12, 2025 Badlands Media feature "Transcending Ego: Meeting the Mirror at the Threshold," by the same author, lists somatic experiencing alongside breathwork, grounding and conscious movement as practices "through which the ego learns safety."[2] That essay argues that although "the ego lives in thought, it roots in the body," manifesting as a tight throat when one speaks the truth, a coiled belly under judgment, or a contracted chest when love enters — sensations it treats as messages rather than mere reactions.[2] Integration is defined there as listening with breath, presence and patience: when the body's responses are honoured rather than shamed, frozen parts thaw, the breath becomes "a rhythm of trust," and the ego loosens because it feels safe.[2] The stated outcome is that a person begins to feel their way through life rather than only think their way, so that "embodiment becomes intelligence."[2] See [[ego-transcendence|ego transcendence]].
+
 ## References
 1. Badlands Brief — "The Bridge", URL: https://badlands.substack.com/p/the-bridge
+2. Badlands Brief — "Transcending Ego: Meeting the Mirror at the Threshold", URL: https://badlands.substack.com/p/transcending-ego

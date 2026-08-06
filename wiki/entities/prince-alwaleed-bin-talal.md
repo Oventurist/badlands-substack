@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [saudi-arabia, lebanon, jeddah, finance, cia]
-sources: [raw/a-conflict-of-interest.md, raw/a-dereliction-of-duty.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-1.md, raw/arabian-nights.md, raw/bad-actors.md, raw/badlands-news-brief-a82.md, raw/profiting-from-war.md, raw/q-for-dummies-chapter-18.md, raw/q-for-dummies-chapter-9.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-dereliction-of-duty.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-1.md, raw/arabian-nights.md, raw/bad-actors.md, raw/badlands-news-brief-a82.md, raw/profiting-from-war.md, raw/q-for-dummies-chapter-18.md, raw/q-for-dummies-chapter-9.md, raw/transparency-and-prosecution.md]
 confidence: low
 ---
 
@@ -76,3 +76,11 @@ Chapter 18 of the [[q-for-dummies|Q for Dummies]] series recalls that "Prince Do
 Chapter 9 of the [[q-for-dummies|Q for Dummies]] series introduces Alwaleed at the point where Q's "Follow HUMA" instruction is first unpacked.[10] Asked who HUMA is connected to, the chapter answers "Prince Al Waleed Bin Talal, to start," and tells readers that this connection is "gonna become REALLY relevant over the next 2-3 chapters of this series" — a forward reference to the series' later treatment of [[huma-harvard-university-muslim-alumni|the Harvard University Muslim Alumni]], [[barack-obama|Barack Obama]]'s schooling and the prince's November 5, 2017 arrest.[10]
 
 The mention is brief and functions mainly as a signpost; Chapter 9 itself concentrates on the [[saudi-purge|Saudi purge]] as it was unfolding and on the flow of Saudi money into American institutions rather than on Alwaleed's individual role.[10]
+
+## Georgetown and the O'Bagy connection
+
+The Badlands Media feature "Transparency and Prosecution" adds an academic dimension to Alwaleed's alleged influence network in the United States.[11] In December 2005 he gave $20 million to [[georgetown-university|Georgetown University]]'s Center for Muslim-Christian Understanding, which was renamed the Prince Alwaleed Bin Talal Center for Muslim-Christian Understanding — the second largest single gift in the university's history.[11] The center's director, [[john-esposito|John Esposito]], described in the article as a [[muslim-brotherhood|Muslim Brotherhood]] apologist, also sits on the faculty of the Department of Arabic and Islamic Studies.[11]
+
+That department granted the Master's in Arab Studies held by [[elizabeth-obagy|Elizabeth O'Bagy]], the [[syrian-emergency-task-force|Syrian Emergency Task Force]] political director whose Wall Street Journal op-ed Senator [[john-mccain|John McCain]] used in a Senate hearing to press for funding the Syrian rebels.[11] On that basis the article concludes that both McCain and O'Bagy were Alwaleed puppets pushing for war in Syria to remove [[bashar-al-assad|Bashar al-Assad]] while lobbying for money that would fund [[isis|ISIS]], as part of the [[16-year-plan-to-destroy-america|sixteen-year plan]].[11]
+
+11. Badlands Brief — "Transparency and Prosecution", URL: https://badlands.substack.com/p/transparency-and-prosecution

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [iran, revolution, cia, islamism, oil]
-sources: [raw/badlands-news-brief-24e.md, raw/does-the-cia-still-control-iran.md, raw/signal-collapse.md]
+sources: [raw/badlands-news-brief-24e.md, raw/does-the-cia-still-control-iran.md, raw/signal-collapse.md, raw/the-shadow-game.md]
 confidence: medium
 ---
 
@@ -43,3 +43,11 @@ The June 26, 2025 Badlands essay "Signal Collapse" treated the 1979 revolution n
 On this reading 1979 belongs to a recurring template of [[cultural-severance|cultural severance]] alongside [[euromaidan|Ukraine's Maidan]] and what the essay calls America's 2020 color revolution — each publicly justified, each televised, each designed to dislodge a collective identity.[3] The essay framed the [[2025-iran-protests|2025 unrest]] as the reversal of that event: a "cultural soul retrieval" and remembering of "the pre-1979 field… before the hijack, before the trance, before the severance," described as re-inhabitation rather than revolution.[3]
 
 3. Badlands Brief — "Signal Collapse", URL: https://badlands.substack.com/p/signal-collapse
+
+## The forgotten dictator
+
+In "The Shadow Game," [[joe-lange|Joe Lange]] argues that the revolutionary government which overthrew [[mohammad-reza-pahlavi|the Shah]] was immediately portrayed as a "new enemy," while nobody discusses the dictator the revolution removed — the same omission he identifies in the Nicaraguan case.[4] The Shah had been installed by the [[cia|CIA]] after the [[1953-iranian-coup|1953 coup]] against [[mohammad-mosaddegh|Mohammad Mosaddeq]], and his [[savak|SAVAK]] service, trained by the CIA, terrorized the population to maintain control of the oil supply.[4]
+
+When the revolution's followers of Ayatollah [[ruhollah-khomeini|Ruhollah Khomeini]] seized the United States Embassy in Teheran in November 1979 and took hostages, the resulting crisis made President [[jimmy-carter|Jimmy Carter]] appear weak on the international stage — a narrative Lange says [[george-hw-bush|George H.W. Bush]] and the CIA exploited to prevent Carter's re-election through the [[october-surprise|October Surprise]].[4] Lange treats the revolution's removal of a CIA client as the forgotten backdrop of the [[iran-contra-affair|Iran-Contra]] scandal.[4]
+
+4. Badlands Brief — "The Shadow Game", URL: https://badlands.substack.com/p/the-shadow-game

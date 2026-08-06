@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, mainstream-media, magazines, layoffs]
-sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-029.md, raw/badlands-brief-95a.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-5ff.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-029.md, raw/badlands-brief-95a.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-5ff.md, raw/trump-20-and-the-opposition-plot.md]
 confidence: medium
 ---
 
@@ -45,3 +45,11 @@ Time Magazine laid off 30 people in the week of January 22, 2024, part of a broa
 3. Badlands Brief — "Sorry for using state power to unlawfully punish your wrong think. Friends?", URL: https://badlands.substack.com/p/badlands-brief-95a
 4. Badlands Brief — "It Was the Trumpest of TIMEs ...", URL: https://badlands.substack.com/p/badlands-news-brief-61a
 5. Badlands Brief — "Red States Align While the MSM Craters", URL: https://badlands.substack.com/p/badlands-news-brief-5ff
+
+## 2024 Person of the Year interview
+
+TIME named [[donald-trump|Donald Trump]] its 2024 Person of the Year, introducing the selection by noting that for 97 years its editors had chosen the individual who, "for better or for worse," did the most to shape the world and the headlines, and that while the choice is often difficult, "in 2024, it was not."[6] The accompanying transcript, published December 12, 2024, was analyzed at length by Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] as evidence of a more focused and unrestricted Trump.[6]
+
+In the interview Trump declined to engage the transgender bathroom dispute, agreed with incoming representative [[sarah-mcbride|Sarah McBride]] that Congress should focus on weightier matters, condemned the use of long-range missiles against Russia as escalatory, declined to commit to a two-state solution while saying he supported "whatever is necessary to get not just peace, but a lasting peace," confirmed he had previously stopped [[benjamin-netanyahu|Netanyahu]] from annexing the West Bank, and answered a question about trusting Netanyahu with "I don't trust anybody."[6] DeLarme suggested the interview may have been designed to elicit statements usable by [[the-opposition|the Opposition]].[6]
+
+6. Badlands Brief - "Trump 2.0 and the 'Opposition' Plot", URL: https://badlands.substack.com/p/trump-20-and-the-opposition-plot

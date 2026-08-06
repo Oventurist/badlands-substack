@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ukraine, russia, diplomacy, summit, 2025]
-sources: [raw/badlands-news-brief-50f.md, raw/badlands-news-brief-d1c.md, raw/badlands-news-brief-f1a.md, raw/badlands-news-brief-f00.md]
+sources: [raw/badlands-news-brief-50f.md, raw/badlands-news-brief-d1c.md, raw/badlands-news-brief-f1a.md, raw/badlands-news-brief-f00.md, raw/trump-putin-alaska-and-the-future.md]
 confidence: medium
 ---
 
@@ -65,3 +65,11 @@ On August 12, 2025, White House press secretary [[karoline-leavitt|Karoline Leav
 2. Badlands Brief — "Badlands News Brief: New Whistleblowers, Cartel Hitlists, & Extended Tariffs", URL: https://badlands.substack.com/p/badlands-news-brief-d1c
 3. Badlands Brief — "Badlands News Brief: Epstein Barr, Resonant Summits, & A White House Whirlwind", URL: https://badlands.substack.com/p/badlands-news-brief-f1a
 4. Badlands Media — "Badlands News Brief: Intel Leaks, Cartel Extraditions, & Terror Designations", URL: https://badlands.substack.com/p/badlands-news-brief-f00
+
+## Infrastructure reading of the venue
+
+[[matthew-ehret|Matthew Ehret]] wrote before the meeting that what would be discussed between the two men, and what arrangements had already been decided, remained shrouded in mystery.[5] He cited Russian presidential aide [[yuri-ushakov|Yuri Ushakov]]'s statement that "a deal amenable to Moscow" had already been proposed, and noted public messaging inferring that territorial "swapping" had been negotiated, possibly involving Russia returning all or part of Sumy and Kharkov to Kiev.[5] He also raised the possibility that security guarantees pertaining to the [[golden-dome|Golden Dome]] were involved, a system both Moscow and Beijing regard as an existential threat to their security.[5]
+
+Ehret's central argument was that something more positive might be coming to life: the reactivation of an Arctic economic strategy centred on the [[bering-strait-tunnel|Bering Strait Tunnel]] development corridor first proposed by [[abraham-lincoln|Abraham Lincoln]] in his 1864 State of the Union address.[5] In this reading the choice of Alaska carried symbolic weight because Russia's 1867 sale of Alaska to the USA grew out of the US–Russia relationship that had helped save the Union during the Civil War, in a period that nearly saw America's transcontinental railway extended across British Columbia and Alaska to the new [[trans-siberian-railway|Trans-Siberian Railway]].[5]
+
+5. Badlands Brief — "Trump, Putin, Alaska and the Future of Multipolarity", URL: https://badlands.substack.com/p/trump-putin-alaska-and-the-future

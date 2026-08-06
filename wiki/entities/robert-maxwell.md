@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [mossad, promis, money-laundering, credit-suisse, publishing]
-sources: [raw/badlands-brief-9ac.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-071.md, raw/george-soros-a-british-creation.md, raw/the-maxwells-mossad-and-a-digital.md]
+sources: [raw/badlands-brief-9ac.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-071.md, raw/george-soros-a-british-creation.md, raw/the-maxwells-mossad-and-a-digital.md, raw/who-are-the-true-puppet-masters.md, raw/whos-the-u-boat-commander.md]
 confidence: low
 ---
 
@@ -53,3 +53,17 @@ After [[rafi-eitan|Rafi Eitan]]'s first attempt to market the bugged [[promis-so
 In the biography *ROBERT MAXWELL, ISRAEL'S SUPERSPY: The Life and Murder of a Media Mogul*, authors Martin Dillon and [[gordon-thomas|Gordon Thomas]] suggest that Maxwell died at the hands of the spy agency he worked for, Mossad, portraying him as a vain, obese man of many excesses who helped Mossad steal intelligence-gathering software from the United States before selling it around the world.[5] His close ties to Israeli intelligence have also been documented by [[seymour-hersh|Seymour Hersh]], among others.[5] Following his death — which numerous biographers attribute to an assassination carried out by Israeli intelligence — five of his seven surviving children assumed distinct responsibilities within his extensive portfolio: Kevin and Ian Maxwell largely acquired his enigmatic web of interconnected foundations, trusts and corporations along with the accompanying debt; [[ghislaine-maxwell|Ghislaine]], established in New York at her father's urging, went on with [[jeffrey-epstein|Jeffrey Epstein]] to run what the article describes as a sexual extortion operation on behalf of Israeli intelligence; and [[christine-maxwell|Christine]] and [[isabel-maxwell|Isabel]] carried the family's espionage business into the Internet era.[5]
 
 5. Badlands Brief — "The Maxwells, Mossad and a Digital Panopticon", URL: https://badlands.substack.com/p/the-maxwells-mossad-and-a-digital
+
+## Cited in "Who are the True Puppet Masters?" (July 2023)
+
+[[erik-carlson|Erik Carlson]] cites Robert Maxwell — father of [[ghislaine-maxwell|Ghislaine Maxwell]] — as a case in which researchers have been steered toward the wrong allegiance.[6] Maxwell fled his country when the Nazis invaded, joined the British Army and became a British citizen in 1946.[6] Carlson writes that as Anons, "we are led to focus on the fact that he was a Jew and worked for the [[mossad|Mossad]], but he was first loyal to England."[6]
+
+The example supports his broader argument that the [[british-cabal|British Cabal]] tolerates blame falling on the [[cia|CIA]] and [[israel|Israel]] because doing so preserves British anonymity, and that Mossad itself is British-controlled.[6]
+
+6. Badlands Brief — "Who are the True Puppet Masters?", URL: https://badlands.substack.com/p/who-are-the-true-puppet-masters
+
+## Intelligence background in Carlson's handler thesis (January 2024)
+
+In a January 2024 Badlands feature, [[erik-carlson|Erik Carlson]] described Robert Maxwell as a former member of the British Parliament and military who is believed to have worked with [[mossad|Mossad]], described as Israel's version of the CIA.[7] Carlson used that background as the basis for arguing that his daughter [[ghislaine-maxwell|Ghislaine Maxwell]], also British, worked in a similar intelligence role, and was therefore [[jeffrey-epstein|Jeffrey Epstein]]'s handler rather than his sidekick in the blackmail operation.[7]
+
+7. Badlands Brief — "Who's the U-Boat Commander?", URL: https://badlands.substack.com/p/whos-the-u-boat-commander

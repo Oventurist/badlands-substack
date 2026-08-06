@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [united-nations, gaza, israel, diplomacy, veto]
-sources: [raw/badlands-news-brief-6f0.md]
+sources: [raw/badlands-news-brief-6f0.md, raw/war-pigs.md]
 confidence: medium
 ---
 
@@ -18,5 +18,12 @@ The vote on the Brazilian-drafted text had been delayed twice over the preceding
 
 US Ambassador to the United Nations [[linda-thomas-greenfield|Linda Thomas-Greenfield]] told the council after the vote, "We are on the ground doing the hard work of diplomacy. We believe we need to let that diplomacy play out."[1] She added that while "resolutions are important" and "this council must speak out," the actions taken "must be informed by the facts on the ground and support direct diplomacy efforts," saying "the council needs to get this right."[1] Reuters noted that Washington traditionally shields its ally Israel from any Security Council action.[1]
 
+## Framing in "War Pigs"
+
+Badlands Media reported that the United States was the only nation on the [[united-nations-security-council|UN Security Council]] to veto the resolution calling for "humanitarian pauses" to deliver lifesaving aid to millions in Gaza.[2] The article placed the veto in a decades-long pattern of US vetoes of resolutions designed to provide support to Gaza and the West Bank, which it said had produced a perception throughout the Muslim world that the United States is Israel's partner and enabler.[2]
+
+Massive protests followed in Lebanon, Turkey, Yemen, Saudi Arabia and Iran — all countries the article describes as having formidable militaries — with demonstrators blaming the United States as much as Israel for events in Palestine.[2] Badlands Media argued the episode showed that the safety and welfare of the American people were not the primary factor in US foreign policy decisions.[2]
+
 ## References
 1. Badlands News Brief — "Biden Bumbles & Narrative Whiplash Abounds", URL: https://badlands.substack.com/p/badlands-news-brief-6f0
+2. Badlands Brief — "War Pigs", URL: https://badlands.substack.com/p/war-pigs

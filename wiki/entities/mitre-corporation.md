@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [defense-contractors, surveillance, public-health, research]
-sources: [raw/the-ivy-web.md]
+sources: [raw/the-ivy-web.md, raw/watch-the-water-see-the-storm.md]
 confidence: low
 ---
 
@@ -20,3 +20,11 @@ A 2021 MITRE–Harvard collaborative paper is cited as evidence that the resulti
 
 ## References
 1. Badlands Brief — "The Ivy Web", URL: https://badlands.substack.com/p/the-ivy-web
+
+## Role in critical infrastructure cybersecurity
+
+MITRE describes itself as "a non-profit, non-partisan research institution that operates Federally Funded Research and Development Centers (FFRDCs) on behalf of the U.S. Government," and its professionals "provide deep expertise across the executive branch," including support to the [[cisa|Cybersecurity and Infrastructure Security Agency]], the National Institute of Standards and Technology, and [[us-cyber-command|U.S. Cyber Command]].[2] Badlands contributor [[ashe-in-america|Ashe in America]] characterized MITRE as "the nonprofit glue that holds the public private partnerships together" in the governance of [[critical-infrastructure|critical infrastructure]].[2]
+
+[[charles-clancy|Charles Clancy]], a senior vice president and chief technology officer at MITRE and a former [[national-security-agency|NSA]] research leader, represented the organization at the February 6, 2024 [[house-committee-on-homeland-security|House Homeland Security Committee]] hearing "Securing Operational Technology: A Deep Dive into the Water Sector."[2] There he argued that the sanctions-based U.S. response to the Iranian-linked intrusion at the [[aliquippa-municipal-authority|Aliquippa Municipal Authority]] "does not scale to the strategic threat that we face," and that such attacks should be treated like major natural disasters requiring "procedures and people" rather than "technology band aids."[2]
+
+2. Badlands Brief — "Watch the Water, See the Storm", URL: https://badlands.substack.com/p/watch-the-water-see-the-storm

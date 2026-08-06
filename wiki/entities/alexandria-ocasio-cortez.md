@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [democratic-party, congress, 2028-election, progressives]
-sources: [raw/badlands-brief-7bf.md, raw/badlands-brief-8db.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-7ce.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-b39.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-efd.md, raw/badlands-news-brief-fbc.md, raw/the-candidate-who-isnt-there.md]
+sources: [raw/badlands-brief-7bf.md, raw/badlands-brief-8db.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-7ce.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-b39.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-efd.md, raw/badlands-news-brief-fbc.md, raw/the-candidate-who-isnt-there.md, raw/war-pigs.md]
 confidence: medium
 ---
 
@@ -63,6 +63,10 @@ Badlands Media contributor [[ryan-delarme|Ryan DeLarme]], writing in "The Candid
 
 DeLarme's principal objection concerned a claim at the center of the speech: that [[kamala-harris|Kamala Harris]] was "working tirelessly to secure a cease-fire in Gaza and bringing hostages home."[10] He called this a complete falsehood with no supporting evidence, arguing that nothing Harris had done in four years suggested she had ever worked tirelessly on anything, least of all something as incendiary to her campaign as opposing the Israel Lobby.[10] In his account, Harris had been focused on one thing since a "shadowy cabal of Democrat elites" forced [[joe-biden|Joe Biden]]'s ouster five weeks earlier: winning the election.[10]
 
+## Role in the disillusionment of the populist left
+
+"War Pigs" names Ocasio-Cortez alongside [[bernie-sanders|Bernie Sanders]] as a figure whose perceived betrayals gave rise to a contingent of left-leaning journalists who became sharply anti-establishment.[11] Badlands Media argued that those who were "given hope and then duped" by the pair were thereby molded into the perfect critics of establishment Democrats — critics the populist left will listen to rather than reflexively denounce.[11]
+
 ## References
 
 1. Badlands Brief — "Entertaining Obstruction & Artificial Shadow Wars", URL: https://badlands.substack.com/p/badlands-brief-7bf
@@ -75,3 +79,4 @@ DeLarme's principal objection concerned a claim at the center of the speech: tha
 8. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd
 9. Badlands Brief — "Freedom Reigns, France Burns & Biden Bluffs", URL: https://badlands.substack.com/p/badlands-news-brief-fbc
 10. Badlands Brief — "The Candidate Who Isn't There", URL: https://badlands.substack.com/p/the-candidate-who-isnt-there
+11. Badlands Brief — "War Pigs", URL: https://badlands.substack.com/p/war-pigs

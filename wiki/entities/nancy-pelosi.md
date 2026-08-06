@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, democratic-party, california, swalwell]
-sources: [raw/badlands-brief-949.md, raw/badlands-brief-9ac.md, raw/badlands-brief-98d.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-441.md, raw/badlands-news-brief-8f3.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-d1c.md, raw/badlands-news-brief-d73.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-e7c.md, raw/badlands-news-brief-f61.md, raw/everything-is-connected.md, raw/moves-and-countermoves.md, raw/q-for-dummies-chapter-2.md, raw/q-for-dummies-chapter-3.md, raw/q-for-dummies-chapter-4.md]
+sources: [raw/badlands-brief-949.md, raw/badlands-brief-9ac.md, raw/badlands-brief-98d.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-441.md, raw/badlands-news-brief-8f3.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-d1c.md, raw/badlands-news-brief-d73.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-e7c.md, raw/badlands-news-brief-f61.md, raw/everything-is-connected.md, raw/moves-and-countermoves.md, raw/q-for-dummies-chapter-2.md, raw/q-for-dummies-chapter-3.md, raw/q-for-dummies-chapter-4.md, raw/tucker-twitter-and-the-truth-community.md, raw/who-controls-whom.md]
 confidence: medium
 ---
 
@@ -159,3 +159,16 @@ Chapter 4 of the [[q-for-dummies|Q for Dummies]] series reads drop #25 of Novemb
 
 22. Badlands Media — "Q for Dummies - Chapter 4", URL: https://badlands.substack.com/p/q-for-dummies-chapter-4
 23. Badlands Brief — "Q for Dummies - Chapter 3", URL: https://badlands.substack.com/p/q-for-dummies-chapter-3
+24. Badlands Brief — "Tucker, Twitter, and the Truth Community", URL: https://badlands.substack.com/p/tucker-twitter-and-the-truth-community
+
+## Role in the January 6 chain of command
+
+In August 2023, [[ashe-in-america|Ashe in America]] described Pelosi as the "Top Boss" on January 6 — the top of the chain of command that day — in an essay analyzing [[tucker-carlson|Tucker Carlson]]'s interview with former Capitol Police Chief [[steven-sund|Steven Sund]].[24] She contrasted the documentary records of the two figures: Sund provided all of his phone records and other documentation, while Pelosi provided nothing but an edited documentary produced by her daughter, filmmaker [[alexandra-pelosi|Alexandra Pelosi]].[24] Alexandra Pelosi was present and rolling throughout the day, but the raw footage, along with her phone records and any other documentation, has never been released.[24] Ashe also noted that Pelosi's public description of the day's events differs from Sund's, pointing to a supercut assembled by The Guardian whose time stamps do not align with Sund's account.[24] According to Sund, Representative [[bennie-thompson|Bennie Thompson]] told the [[january-6-committee|January 6 Committee]] that Pelosi and all of her records were "off limits."[24] Ashe summarized the pattern as "Tell me it's a cover up without telling me it's a cover up."[24]
+
+## Criticism of Netanyahu (July 2024)
+
+Following [[benjamin-netanyahu|Benjamin Netanyahu]]'s [[2024-netanyahu-address-to-congress|July 2024 address to a joint session of Congress]], Pelosi — still one of the most influential members of the Democratic Party — called the speech "by far the worst presentation of any foreign dignitary invited and honored with the privilege of addressing the Congress of the United States."[25] Commentators treated the willingness of so prominent a Democrat to level such a biting critique at the Israeli leader as a telling measure of the state of relations between Israel and the party then coalescing around [[kamala-harris|Kamala Harris]].[25]
+
+Badlands contributor [[erik-carlson|Erik Carlson]] cited the remark as evidence that Israel does not control the whole of the U.S. government, while describing Pelosi herself as "firmly entrenched in the American [[deep-state|Deep State]]" — raising for him the open question of whether Netanyahu's congressional critics or his admirers are the faction answerable to the [[israeli-deep-state|Israeli Deep State]].[25]
+
+25. Badlands Brief — "Who Controls Whom?", URL: https://badlands.substack.com/p/who-controls-whom

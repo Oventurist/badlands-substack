@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military, pentagon, domestic-deployment, los-angeles]
-sources: [raw/badlands-news-brief-11d.md, raw/badlands-news-brief-82f.md, raw/irregular-warfare.md, raw/kekistani-code-talkers.md, raw/q-for-dummies-chapter-3.md]
+sources: [raw/badlands-news-brief-11d.md, raw/badlands-news-brief-82f.md, raw/irregular-warfare.md, raw/kekistani-code-talkers.md, raw/q-for-dummies-chapter-3.md, raw/we-wont-forget.md]
 confidence: medium
 ---
 
@@ -44,3 +44,14 @@ The Corps is paired in the same analysis with [[military-intelligence|military i
 3. Badlands Brief — "Irregular Warfare", URL: https://badlands.substack.com/p/irregular-warfare
 4. Badlands Brief — "Kekistani Code Talkers", URL: https://badlands.substack.com/p/kekistani-code-talkers
 5. Badlands Brief — "Q for Dummies - Chapter 3", URL: https://badlands.substack.com/p/q-for-dummies-chapter-3
+6. Badlands Brief — "We Won't Forget", URL: https://badlands.substack.com/p/we-wont-forget
+
+## "As the President may direct"
+
+"We Won't Forget" devotes an extended section to the statutory phrase that sets the Corps apart from the other services.[6] Citing the U.S. Naval Institute, it notes that in 1798, when describing the original functions of the Marines, Congress provided that the Corps should serve not only in the ships, garrisons and forts of the United States but also should be prepared "for any other duty on shore that the President may direct"; an 1836 law gave further force to that authority by empowering the President to order Marines to duty with the Army.[6] The 1947 National Security Act repeated the same formula, assigning the Corps service with the fleet in the seizure and defense of advanced naval bases, service on armed vessels, protection of naval property, "and such other duties as the President may direct."[6]
+
+The Naval Institute concluded that this phrasing came about by design rather than chance, reflecting the early architects' recognition of the need for a small military force-in-being responsive directly to Presidential authority, and that Congress set the Marines squarely apart from the other services by giving the President a measure of direct authority over the Corps that he does not legally exercise over the Army, Navy or Air Force.[6] The practical effect has been to require that the Corps be ready at any time for any form of expeditionary employment to meet a short-notice Presidential call, their special responsibility to the President making continual readiness for any form of action the defining feature of the service.[6]
+
+Historical examples cited include Marines in New York in 1863 helping to control draft rioters, Marines protecting public and private property during major fires in Portland, Maine and Boston, Marines enforcing revenue laws in New York, Marines called out in 1890 to represent federal authority during railroad strikes and labor riots, and an 1891 expedition by chartered steamer to the Bering Sea to conduct operations against seal poachers.[6]
+
+[[joe-lange|Joe Lange]] draws from this that the [[posse-comitatus-act|Posse Comitatus Act]] does not constrain the Marines, that [[donald-trump|Trump]] would not need governors' permission to deploy them domestically against rioters, and that they could arrest enemy combatants — making them one of many "Trump cards."[6] He further speculates that if a nationwide election fraud conspiracy were exposed, the fastest route to a clean vote would be to direct the Marines to oversee a new election with one-day voting, voter ID, paper ballots, no machines and cleaned voter rolls, consistent with the oath both the President and the Corps take to defend the Constitution.[6] These characterizations reflect Badlands Media interpretation rather than established fact.

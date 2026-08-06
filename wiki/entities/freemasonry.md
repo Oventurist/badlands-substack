@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [secret-societies, syria, middle-east, conspiracy]
-sources: [raw/badlands-news-brief-53f.md, raw/badlands-news-brief-f18.md, raw/false-flags-and-the-occult.md, raw/legacy-of-the-bavarian-illuminati-8f0.md]
+sources: [raw/badlands-news-brief-53f.md, raw/badlands-news-brief-f18.md, raw/false-flags-and-the-occult.md, raw/legacy-of-the-bavarian-illuminati-8f0.md, raw/the-werewolf-game-what-is-clown-world.md]
 confidence: medium
 ---
 
@@ -52,3 +52,9 @@ The March 2023 Badlands essay "False Flags and the Occult" places Freemasonry in
 [[adam-weishaupt|Adam Weishaupt]] was initiated into Freemasonry at the Lodge Theodore of Good Counsel in Munich in 1776, and by the middle of 1779 his "Insinuators" had completely wrested control of that lodge, which was thereafter regarded as part of the Order of the Illuminati.[4] At the [[congress-of-wilhelmsbad|Congress of Wilhelmsbad]] of July 1782 — convoked by Ferdinand, Duke of Brunswick, Grand Master of the Order of Strict Observance, with delegates from Upper and Lower Germany, Holland, Russia, Italy, France and Austria — the Illuminati were represented by [[baron-von-knigge|Baron von Knigge]], and Nesta H. Webster held that it was there that "the alliance between Illuminism and Freemasonry was finally sealed."[4]
 
 [[carl-theodore|Duke Carl Theodore]]'s second Bavarian edict of March 2, 1785 named both the Illuminati and Freemasonry explicitly, and forbade members of the order to assemble as lodges under any name or circumstance.[4]
+
+## Clowns and compartmentalization
+
+The Werewolf Game installment "What is Clown World?" places Freemasonry alongside the [[independent-order-of-odd-fellows|Odd Fellows Society]] and the [[shriners|Shriners]] as fraternal bodies implicated in the spread of clown imagery, reporting the claim of author [[paul-stobbs|Paul Stobbs]] that the performer [[joseph-grimaldi|Joseph Grimaldi]] was made to dress as a clown by a Freemason named Charles Dibden.[5] The Badlands author cautions, however, that these groups are often compartmentalized to a degree that makes it unfair to accuse every member of full awareness, adding that several Freemasons he has known were so inarticulate about deep occultism as to suggest genuine rather than feigned ignorance.[5]
+
+5. Badlands Brief — "The Werewolf Game - What is Clown World?", URL: https://badlands.substack.com/p/the-werewolf-game-what-is-clown-world

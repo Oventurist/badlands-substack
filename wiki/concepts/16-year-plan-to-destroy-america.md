@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [qanon, deep-state, elections, conspiracy]
-sources: [raw/q-for-dummies-chapter-3.md]
+sources: [raw/q-for-dummies-chapter-3.md, raw/we-are-watching-a-movie.md]
 confidence: low
 ---
 
@@ -20,3 +20,11 @@ The author further connects the drop to the wave of congressmen and women who re
 
 ## References
 1. Badlands Brief — "Q for Dummies - Chapter 3", URL: https://badlands.substack.com/p/q-for-dummies-chapter-3
+
+## The nuclear-war endgame
+
+In "We Are Watching a Movie," [[joe-lange|Joe Lange]] restates the plan in its starkest form, drawing on Q drop #570 of January 21, 2018: eight years of [[barack-obama|Barack Obama]] as president meant to degrade the country and the constitution, in preparation for eight years of [[hillary-clinton|Hillary Clinton]] and World War III.[2] The plan, he argues, was not only to destroy America but also Russia.[2]
+
+Lange contends the war would have been a controlled nuclear exchange eliminating millions of people in order to make the world's remaining population more governable by the puppet masters, after which neither the United States nor Russia would remain a superpower.[2] Eight years of Obama was bad enough, he writes, but the country would not have survived eight years of Clinton - which in his account is why the military was prepared to do the unthinkable to prevent her becoming president.[2] He identifies the [[uranium-one-deal|Uranium One deal]] and the [[joint-comprehensive-plan-of-action|Iran nuclear deal]] as the operational mechanism, and credits [[donald-trump|Donald Trump]] with preventing the war via the [[2018-us-strikes-on-syria|April 2018 strikes on Syria]].[2] These claims reflect Badlands Media interpretation rather than established fact.
+
+2. Badlands Brief - "We Are Watching a Movie", URL: https://badlands.substack.com/p/we-are-watching-a-movie

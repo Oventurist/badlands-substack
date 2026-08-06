@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [taxation, 1913, federal-agency]
-sources: [raw/1913.md, raw/a-startling-contradiction-at-the.md, raw/americas-greatest-threat.md, raw/a-week-to-remember.md, raw/badlands-brief-95a.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-319.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-b26.md, raw/four-pillars-of-government-control.md, raw/going-off-the-federal-reservation.md, raw/the-church-committee-for-dummies.md, raw/the-decade-we-all-became-slaves.md, raw/the-illusion-of-democracy.md]
+sources: [raw/1913.md, raw/a-startling-contradiction-at-the.md, raw/americas-greatest-threat.md, raw/a-week-to-remember.md, raw/badlands-brief-95a.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-319.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-b26.md, raw/four-pillars-of-government-control.md, raw/going-off-the-federal-reservation.md, raw/the-church-committee-for-dummies.md, raw/the-decade-we-all-became-slaves.md, raw/the-illusion-of-democracy.md, raw/trump-knows.md, raw/why-the-deep-state-cant-allow-government.md]
 confidence: medium
 ---
 
@@ -109,6 +109,10 @@ IRS criminal supervisory special agent [[gary-shapley|Gary Shapley]], a fourteen
 
 Badlands Media commentary notes that the IRS had existed since 1862, formed to collect money for the [[american-civil-war|Civil War]], and largely faded afterward once there was no longer a real need for it.[24] The agency was reformed on 2/25/1913 — a few weeks after ratification of the [[sixteenth-amendment|16th Amendment]] on 2/3/1913 and ten months before the [[federal-reserve|Federal Reserve]] was created.[24] The article argues the new income tax existed to pay interest to the bankers running the Federal Reserve, and that because Americans balked at the idea the tax began at one percent and rose gradually, boiling-frog fashion, to modern rates; had it begun at 15 or 20 percent, it contends, there would have been another revolution.[24] It calls 1913 a worse year than 2020, as it produced the IRS, the income tax and the Federal Reserve together.[24]
 
+## Cited as a rigged system by design
+
+[[justin-deschamps|Justin Deschamps]] used the IRS as his worked example of a captured [[legal-system|legal system]], writing that the agency produces extremely complex and hard-to-navigate tax codes so that only those who understand the system can use it to pay very little in taxes.[26] In his phrasing, that is the point: the system is designed to be rigged *ab initio*, from the beginning, benefiting the elite and the initiated at the expense of a public that never participated in making the rules.[26]
+
 ## References
 1. Badlands Brief — "1913: The Year the Cabal Enslaved America", URL: https://badlands.substack.com/p/1913
 2. Badlands Brief — "A Startling Contradiction at the Heart of 'Our' Legal System", URL: https://badlands.substack.com/p/a-startling-contradiction-at-the
@@ -159,3 +163,10 @@ In his January 2024 article "Illusions of Democracy," [[joe-lange|Joe Lange]] de
 Lange pairs the claim with a call for safeguards protecting citizens' savings from being stolen through inflation and taxation, arguing that a protected personal savings account is a vital structural protection and that the government must be prevented from draining it.[25]
 
 25. Badlands Brief — "Illusions of Democracy", URL: https://badlands.substack.com/p/the-illusion-of-democracy
+26. Badlands Brief — "Trump Knows", URL: https://badlands.substack.com/p/trump-knows
+
+## The Mafia analogy (Carlson, January 2025)
+
+In "Why the Deep State Can't Allow Government Shutdowns," [[erik-carlson|Erik Carlson]] casts the IRS as the enforcement arm of what he describes as a protection racket run against the American public.[27] Asking how the government differs from the Mob and organized crime, he notes that the Mafia extorts protection money from businesses under the same pretext, and argues that it is no coincidence that 1913 saw the creation of the [[federal-reserve|Federal Reserve]], the federal income tax, and the IRS in the same year.[27] If a citizen fails to pay what he calls the extortion money, the IRS will ruin the family's lives — an act he equates directly with the Mob burning down a business.[27]
+
+27. Badlands Brief — "Why the Deep State Can't Allow Government Shutdowns", URL: https://badlands.substack.com/p/why-the-deep-state-cant-allow-government

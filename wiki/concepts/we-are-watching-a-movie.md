@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [q-movement, badlands-media, deep-state, narrative]
-sources: [raw/how-do-you-remove-a-potus.md, raw/on-golden-bridges-and-the-art-of.md]
+sources: [raw/how-do-you-remove-a-potus.md, raw/on-golden-bridges-and-the-art-of.md, raw/the-sting.md]
 confidence: low
 ---
 
@@ -34,3 +34,13 @@ The framing was applied to the apparent abandonment by Trump and [[elon-musk|Elo
 
 1. Badlands Brief — "How Do You Remove a POTUS?", URL: https://badlands.substack.com/p/how-do-you-remove-a-potus
 2. Badlands Brief — "On Golden Bridges and the Art of War", URL: https://badlands.substack.com/p/on-golden-bridges-and-the-art-of
+
+## Carlson's reframing: reality TV rather than a movie (May 2023)
+
+In "The Sting" (May 30, 2023), [[erik-carlson|Erik Carlson]] addressed the objection that the phrase "we are watching a movie" tells people to sit back and do nothing, or implies that everyone is on the same team following a script to the word with no adlibbing or rewrites allowed.[3] That, he wrote, is not what it means; the phrase means only "that there is some manipulation occurring," and that while the [[deep-state|Deep State]] puts forth its narratives and agendas, the Patriots are turning those agendas against them.[3]
+
+Carlson likened the dynamic to counter-punching — taking advantage of an opponent who overextends or leaves himself open — and to a judo fighter using an opponent's weight to throw him to the ground.[3] He suggested that a better metaphor than "movie" would be a reality TV show or [[the-truman-show|The Truman Show]]: in programs such as MTV's *The Real World* the scenes are not fully scripted but are completely manipulated, with the cast chosen for maximum drama and told where to go and what to do.[3]
+
+He acknowledged that the framework is difficult for many to accept, since some ask how the good guys can be in control while children are still abused, women trafficked and drugs still cross the border.[3] Carlson answered by analogy to Jesus, who spent his three-year mission chiefly teaching and preaching rather than setting up a "healing booth," and who did not arrest or strike down the religious leaders whose hypocrisy he exposed.[3] That Jesus did not heal and feed everyone, he argued, was never evidence of lacking control but of executing a plan; likewise, the persistence of crime is not evidence that the Patriots have no control.[3]
+
+3. Badlands Brief — "The Sting", URL: https://badlands.substack.com/p/the-sting

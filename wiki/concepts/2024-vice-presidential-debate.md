@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [2024-election, debate, jd-vance, tim-walz, media]
-sources: [raw/badlands-news-brief-189.md, raw/badlands-news-brief-502.md, raw/badlands-news-brief-6aa.md]
+sources: [raw/badlands-news-brief-189.md, raw/badlands-news-brief-502.md, raw/badlands-news-brief-6aa.md, raw/the-multinational-offensive-against.md]
 confidence: medium
 ---
 
@@ -43,3 +43,9 @@ Writing in the [[badlands-news-brief|Badlands News Brief]], [[burning-bright|Bur
 1. Badlands Media — "Badlands News Brief: It's a Big Club. And It's Going Down.", URL: https://badlands.substack.com/p/badlands-news-brief-189
 2. Badlands Brief — "Badlands News Brief: Sidecar Debates at Home, Missile Barrages Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-502
 3. Badlands Brief — "Hacks Explain Hacks to other Hacks", URL: https://badlands.substack.com/p/badlands-news-brief-6aa
+
+## Free speech exchange between Vance and Walz (DeLarme account)
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] highlighted the debate as an instance of the Democratic Party's "ever-imminent 'threat to democracy'" framing being deployed to justify political censorship, in this case by [[tim-walz|Tim Walz]].[4] [[jd-vance|J.D. Vance]] rebutted the claim, after which Walz immediately reached for the "yelling fire in a crowded theatre" trope.[4] DeLarme responded that the trope has nothing to do with political expression, that the act itself is not necessarily illegal, and that the decision it comes from — [[schenck-v-united-states|Schenck v. United States]] — is considered bad law, having originated in the prosecution of leafleters opposing the World War One draft under Woodrow Wilson.[4]
+
+4. Badlands Brief — "The Multinational Offensive Against Free Speech Online", URL: https://badlands.substack.com/p/the-multinational-offensive-against

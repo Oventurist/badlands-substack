@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [royalty, environmentalism, depopulation, world-wildlife-fund]
-sources: [raw/canadas-transition-to-collectivist.md, raw/defeating-the-depopulation-agenda.md, raw/real-patriots-dont-think-like-hitler-196.md]
+sources: [raw/canadas-transition-to-collectivist.md, raw/defeating-the-depopulation-agenda.md, raw/real-patriots-dont-think-like-hitler-196.md, raw/the-rising-scourge-of-eco-terrorism.md]
 confidence: low
 ---
 
@@ -28,8 +28,14 @@ Ehret also documents Philip's Nazi family network as part of a broader argument 
 
 Philip himself was educated under a Nazi curriculum centered on eugenics in the 1930s before co-founding the [[world-wildlife-fund|World Wildlife Fund]] in 1961 with one-time Nazi Party member [[prince-bernhard-of-the-netherlands|Prince Bernhard of the Netherlands]] and Sir [[julian-huxley|Julian Huxley]], then president of the Eugenics Society of Britain.[3] In an August 1988 interview with Deutsche Press Agentur he proclaimed his desire to return in the next life as a deadly virus to help "solve overpopulation," and elsewhere mused that "conservation may involve culling in order to keep a balance," since "you cannot keep a bigger flock of sheep than you are capable of feeding."[3]
 
+## 1981 People magazine interview
+
+In a 1981 interview with *People* magazine, Philip Mountbatten — then president of the [[world-wildlife-fund|World Wildlife Fund]] — said: "Human population growth is probably the single most serious long-term threat to survival… The more people there are, the more resources they'll consume, the more pollution they'll create, the more fighting they'll do. We have no option. If it isn't controlled voluntarily, it will be controlled involuntarily."[4] [[matthew-ehret|Matthew Ehret]] presents the statement as strikingly similar to [[ted-kaczynski|Ted Kaczynski]]'s remarks on overpopulation, arguing that the Unabomber and the Davos oligarchs are of one mind on the question.[4] At the time Philip worked closely with WWF vice president and [[world-economic-forum|WEF]] co-founder [[maurice-strong|Maurice Strong]], who mused in 1990 about deliberately bringing about the collapse of industrialized civilization.[4]
+
+
 ## References
 
 1. Badlands Brief — "Canada's Transition to Collectivist Green Dystopia", URL: https://badlands.substack.com/p/canadas-transition-to-collectivist
 2. Badlands Brief — "Defeating the Depopulation Agenda", URL: https://badlands.substack.com/p/defeating-the-depopulation-agenda
 3. Badlands Brief — "Real Patriots Don't Think Like Hitler – Part 2: How Western Bankers Created the Nazis", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-196
+4. Badlands Brief — "The Rising Scourge of Eco-Terrorism", URL: https://badlands.substack.com/p/the-rising-scourge-of-eco-terrorism

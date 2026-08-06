@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military-medicine, pentagon, lloyd-austin, transparency]
-sources: [raw/badlands-news-brief-49d.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-644.md]
+sources: [raw/badlands-news-brief-49d.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-644.md, raw/trump-jfk-patton-and-mccarthy.md]
 confidence: medium
 ---
 
@@ -26,8 +26,13 @@ On Sunday, February 11, 2024, Defense Secretary [[lloyd-austin|Lloyd Austin]] wa
 
 Speaking at the International Association of Fire Fighters Legislative Conference in March 2023, [[joe-biden|President Joe Biden]] recounted that he had suffered a cranial aneurysm requiring immediate surgery, and said the operation took place "down at Walter Reed" because the surgeon there "had operated on so many folks."[3] Biden described being diagnosed after returning from a trip with severe headaches during a snowstorm, and joked that doctors "had to take the top of my head off a couple times, see if I had a brain."[3]
 
+## Cold War deaths and the Kennedy autopsy
+
+A Badlands Media essay on anti-communist figures treats the Bethesda hospital as the common setting for a cluster of suspicious deaths.[4] Senator [[joseph-mccarthy|Joseph McCarthy]] died there mysteriously on 2 May 1957.[4] Eight years earlier, on 22 May 1949, another anti-communist — Secretary of Defense [[james-forrestal|James Forrestal]], mentor to the future president [[john-f-kennedy|John F. Kennedy]] — allegedly jumped from the sixteenth floor of the same military hospital.[4] The article further notes that Kennedy's body was examined at the same Maryland facility after his assassination, and that his corpse was thought by some to have been altered and tampered with while there.[4] These coincidences of place are offered as evidence for the article's thesis that Americans who fought [[communism|communism]] were systematically eliminated.[4]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Shenanigans Shall Continue Until Morale Improves ...", URL: https://badlands.substack.com/p/badlands-news-brief-49d
 2. Badlands Brief — "Biden Hemorrhages Already-Nonexistent Support", URL: https://badlands.substack.com/p/badlands-news-brief-6fc
 3. Badlands Brief — "J6 Exposure, Biden's Brain and Trump's Agenda", URL: https://badlands.substack.com/p/badlands-news-brief-644
+4. Badlands Brief — "Trump, JFK, Patton & McCarthy", URL: https://badlands.substack.com/p/trump-jfk-patton-and-mccarthy

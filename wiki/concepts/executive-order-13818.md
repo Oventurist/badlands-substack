@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [sanctions, human-rights, corruption, trump]
-sources: [raw/badlands-brief-abf.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-ee8.md, raw/biden-inc-flips.md, raw/does-the-cia-still-control-iran.md, raw/spear-of-justice.md, raw/soul-governance.md, raw/the-harvard-control-grid.md, raw/the-ivy-web.md, raw/the-ivy-dominion.md]
+sources: [raw/badlands-brief-abf.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-ee8.md, raw/biden-inc-flips.md, raw/does-the-cia-still-control-iran.md, raw/spear-of-justice.md, raw/soul-governance.md, raw/the-harvard-control-grid.md, raw/the-ivy-web.md, raw/the-ivy-dominion.md, raw/trumps-final-offensive.md, raw/wilted-ivy.md]
 confidence: medium
 ---
 
@@ -91,3 +91,14 @@ Under the order the article says precedent exists to seize bank accounts, real e
 The June 2025 sequel essay "The Ivy Dominion" argues that EO 13818, together with [[executive-order-13848|EO 13848]], targets structure rather than surface, allowing assets linked to corruption, election interference or transnational subversion to be frozen and seized.[14] On that reading, [[ivy-league|Ivy League]] endowments with alleged links to sanctioned foreign actors, concealed Chinese funding and "dark NGO pipelines" are described as exposed, and [[harvard-university|Harvard]]'s billion-dollar asset sale as panic rather than strategy.[14] The article extends the exposure to universities, NGOs, foundations and investment firms alike, and proposes that the [[united-states-sovereign-wealth-fund|United States Sovereign Wealth Fund]] intercept and redeploy seized holdings for public benefit rather than allowing courts to dismantle them piecemeal.[14]
 
 14. Badlands Brief — "The Ivy Dominion", URL: https://badlands.substack.com/p/the-ivy-dominion
+## Role in the 2025 counteroffensive
+
+Badlands Media's "Trump's Final Offensive" describes EO 13818, signed in December 2017 to block property of persons involved in serious human rights abuse or corruption, as the foundational order enabling asset seizures against anyone linked to trafficking, money laundering, or transnational crime.[15] The article calls it the silent engine behind ongoing investigations into figures such as [[jeffrey-epstein|Jeffrey Epstein]], [[harvey-weinstein|Harvey Weinstein]], and [[sean-combs|Sean "Diddy" Combs]].[15] It is grouped with [[executive-order-13848|EO 13848]], [[executive-order-13912|EO 13912]], and [[executive-order-14151|EO 14151]] as the executive instruments that dismantled the legal scaffolding of the old guard and transferred jurisdiction back to constitutional actors.[15]
+
+15. Badlands Brief — "Trump's Final Offensive", URL: https://badlands.substack.com/p/trumps-final-offensive
+
+## Cited in "Wilted Ivy"
+
+Badlands Media's May 2025 essay "Wilted Ivy" describes EO 13818, signed in December 2017, as an "invisible trigger" that authorized the freezing and seizure of assets linked to global human rights abuses and corruption.[16] Paired with [[executive-order-13848|EO 13848]], the article argues it created a legal mechanism to dismantle foreign criminal networks, domestic collaborators embedded in finance, academia and media, and "foundations, funds, trusts, and endowments laundering influence behind public facades."[16] The essay calls the orders "pre-positioned weapons - silent, legal, and devastating," signed "quietly while the world was distracted," and contends they left the capital flows insulating the [[ivy-league|Ivy League]] exposed and endowment managers vulnerable.[16]
+
+16. Badlands Brief — "Wilted Ivy", URL: https://badlands.substack.com/p/wilted-ivy

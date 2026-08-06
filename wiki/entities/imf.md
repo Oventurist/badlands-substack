@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [imf, washington-consensus, venezuela, debt, bretton-woods]
-sources: [raw/a-family-affair.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-news-brief-4b3.md, raw/the-men-behind-the-curtain-part-2.md]
+sources: [raw/a-family-affair.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-news-brief-4b3.md, raw/the-men-behind-the-curtain-part-2.md, raw/understanding-the-soul-of-china.md]
 confidence: medium
 ---
 
@@ -31,3 +31,9 @@ Badlands Media's "The Men Behind the Curtain – Part 2" cites the IMF's disposa
 2. Badlands Brief — "A Gateway to a New World of Cooperation", URL: https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation
 3. Badlands Brief — "Israel Goes Hot (or Not?) as the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-4b3
 4. Badlands Brief — "The Men Behind the Curtain - Part 2", URL: https://badlands.substack.com/p/the-men-behind-the-curtain-part-2
+
+## Wallace's intended role and the purge of its founder
+
+[[matthew-ehret|Matthew Ehret]] writes that [[henry-wallace|Henry A. Wallace]] would have liked the IMF and the [[world-bank|World Bank]] to act as instruments for a post-war age of large-scale development lending to former colonies, but that with [[franklin-d-roosevelt|FDR]]'s death in April 1945 that plan did not unfold.[5] The IMF's founder and first president, [[harry-dexter-white|Harry Dexter White]], was brought before the House of Un-American Activities and lost his position to Wall Street lawyer John J. McCloy, dying of a heart attack in 1948 while campaigning for Wallace as a third-party candidate.[5]
+
+5. Badlands Brief — "Understanding the Soul of China", URL: https://badlands.substack.com/p/understanding-the-soul-of-china

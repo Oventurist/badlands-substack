@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [colorado, republican-party, elections, ballot-access]
-sources: [raw/badlands-news-brief-8cb.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-d5c.md, raw/reprehensible-representation.md]
+sources: [raw/badlands-news-brief-8cb.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-d5c.md, raw/reprehensible-representation.md, raw/the-people-the-party-and-political.md]
 confidence: medium
 ---
 
@@ -34,9 +34,16 @@ Badlands writer [[ashe-in-america|Ashe in America]] described the announcement a
 
 On August 21, 2023, [[todd-watkins|Todd Watkins]], vice chairman of the [[el-paso-county-gop|El Paso County GOP]], sent a letter to the state party urging assistance in contacting legislators regarding the treatment and handling of Americans arrested or charged in connection with the January 6, 2021 incident at the US Capitol; more than 200 Coloradans, many of them Republican officials, signed on in support.[4] Congressman [[ken-buck|Ken Buck]] replied on September 1, 2023 with a letter disputing the claims and telling state party leaders it was "sad that Republican leaders are misdirecting the energy and resources of Republican activists" away from the failures of the Biden administration.[4] Badlands contributor [[ashe-in-america|Ashe in America]] published a detailed rebuttal of Buck's assertions using reporting from J6 journalist [[mel-hawley|Mel Hawley]].[4]
 
+## 2022 assembly and convention
+
+Badlands Media contributor [[ashe-in-america|Ashe in America]] covered the party's [[2022-colorado-republican-state-assembly|2022 State Assembly and Convention]] in April 2022, the event at which the party's voting members determine which candidates reach the primary ballot.[5] Under chairwoman [[kristi-burton-brown|Kristi Burton Brown]], who had been elected in 2021 with last-minute grassroots support, the party used discontinued [[edivote100-clickers|Infowhyse EdiVote100 electronic clickers]] to tally delegate votes and refused to allow debate on a motion to substitute hand-marked paper ballots.[5] Delegates reported clicker malfunctions, shortages, inconsistent tracking between counties, and an absence of any security controls over the devices.[5]
+
+[[america-first-movement|America First]] activists organized under the [[precinct-strategy|precinct strategy]] had filled enough vacant party positions by 2022 to shape outcomes, and their candidates won most races at assembly, though gubernatorial contender [[danielle-neuschwanger|Danielle Neuschwanger]] fell roughly 112 votes short of the 30% ballot-access threshold on the first clicker vote.[5] Candidates who bypassed the assembly by petitioning onto the ballot — including [[joe-odea|Joe O'Dea]], [[pam-anderson|Pam Anderson]] and Representative [[doug-lamborn|Doug Lamborn]] — went on to win their primaries and, in the statewide races, lose the general election.[5] Ashe in America presented the episode as the Colorado front of what she called the GOP establishment's local war on America First, and warned that the same playbook was exercised in many states in 2022 and would likely recur in the 2024 candidate-selection cycle.[5]
+
 ## References
 
 1. Badlands Brief — "SCOTUS Enters the Fray as Biden Barks at MAGA Hats", URL: https://badlands.substack.com/p/badlands-news-brief-8cb
 2. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb
 3. Badlands Media — "Badlands News Brief: Colorado Fallout (and Exposure) Continues", URL: https://badlands.substack.com/p/badlands-news-brief-d5c
 4. Badlands Brief — "Reprehensible Representation", URL: https://badlands.substack.com/p/reprehensible-representation
+5. Badlands Media — "The People, The Party & Political Distractions", URL: https://badlands.substack.com/p/the-people-the-party-and-political

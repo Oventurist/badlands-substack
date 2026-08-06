@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military, space, defense, procurement]
-sources: [raw/badlands-brief-ec9.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-e38.md, raw/badlands-news-brief-f1d.md, raw/dont-bring-shiny-rocks-to-digital.md, raw/the-accomplishments-of-president.md]
+sources: [raw/badlands-brief-ec9.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-e38.md, raw/badlands-news-brief-f1d.md, raw/dont-bring-shiny-rocks-to-digital.md, raw/the-accomplishments-of-president.md, raw/trump-doctrine-peace-through-space.md]
 confidence: medium
 ---
 
@@ -34,6 +34,10 @@ In October 2025 the Space Force announced a contract with commercial weather sat
 
 Badlands Media's 2023 retrospective listed the establishment of the Space Force as the sixth branch of the armed forces among [[donald-trump|President Donald Trump]]'s principal governmental accomplishments, describing it as mirroring the space ambitions of one of Trump's idols, John F. Kennedy.[6] The author argued that the significance of the Space Force remained underappreciated, noting that all military communications now route through the branch and speculating that it plays a deeper role in national defense than is publicly understood.[6]
 
+## Trump Doctrine: Peace Through Space
+
+"[[trump-doctrine-peace-through-space|Trump Doctrine: Peace Through Space]]" examines Space Force recruiting posts on X that drew a boundary between the service and [[nasa|NASA]]: NASA is "a civilian sector centered on astronauts, how to live in space, and exploring our galaxy and beyond," while the Space Force exists to "secure our nation's interests in, from, and to space."[7] A follow-up post showed a Guardian with a disgusted expression captioned "Our face when someone mistakes our Guardians for astronauts," which the author reads as an effort to escape reputational contamination from NASA's history.[7] The article stresses that space in the Space Force sense includes cyber-space and interfaces with air-space, sea-space and land-space.[7] Announced by [[donald-trump|Trump]] on June 18, 2018 and signed into law on December 21, 2019, the service inherited a lineage running through [[air-force-space-command|Air Force Space Command]] (1982), the Western Development Division under [[bernard-a-schriever|Bernard A. Schriever]] (1954), and the first Air Force space programs of 1945.[7] The Space Force later awarded [[spacex|SpaceX]] the [[starshield|Starshield]] contract.[7]
+
 ## References
 1. Badlands Brief — "Carefree Midterms, Space Networks, & Turned Tables", URL: https://badlands.substack.com/p/badlands-brief-ec9
 2. Badlands Brief — "Biden Baffles, Kennedy Debates & Pride Falls", URL: https://badlands.substack.com/p/badlands-news-brief-da3
@@ -51,3 +55,4 @@ A Space Force major, Jason P. Lowery, was the author of the thesis published as 
 
 5. Badlands Brief — "Don't Bring Shiny Rocks to Digital Gunfights", URL: https://badlands.substack.com/p/dont-bring-shiny-rocks-to-digital
 6. Badlands Brief — "The Accomplishments of President Trump - Part 1", URL: https://badlands.substack.com/p/the-accomplishments-of-president
+7. Badlands Brief — "Trump Doctrine: Peace Through Space", URL: https://badlands.substack.com/p/trump-doctrine-peace-through-space

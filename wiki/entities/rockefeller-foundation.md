@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [philanthropy, social-engineering, eugenics, mk-ultra]
-sources: [raw/on-ted-kaczynski-and-false-prophets.md, raw/the-darwinian-perversion-of-christianity.md, raw/the-inversion-of-health.md, raw/the-harvard-control-grid.md, raw/the-information-imperium.md, raw/the-ivy-web.md]
+sources: [raw/on-ted-kaczynski-and-false-prophets.md, raw/the-darwinian-perversion-of-christianity.md, raw/the-inversion-of-health.md, raw/the-harvard-control-grid.md, raw/the-information-imperium.md, raw/the-ivy-web.md, raw/the-transition-integrity-project.md]
 confidence: low
 ---
 
@@ -30,6 +30,11 @@ In its 1968 annual report the foundation acknowledged funding the development of
 
 "The Harvard Control Grid" places the Rockefeller Foundation, with the [[ford-foundation|Ford Foundation]], among legacy philanthropies that "historically served as conduits for soft power" rather than as purely charitable bodies, crediting it with funding early UN programs, transhumanist research and "the architecture of post-war liberal globalism."[4] [[rick-slocum|Rick Slocum]], chief investment officer of the [[harvard-management-company|Harvard Management Company]], sits on the foundation's investment committee, which the article says places him "inside a historic philanthropic engine long tied to covert influence and population control initiatives."[4] Through that role, it adds, Slocum interacts with UN and global health agencies "many of which share analytic data with Western intelligence."[4]
 
+
+## Transition Integrity Project connection
+
+[[nils-gilman|Nils Gilman]], co-founder of the [[transition-integrity-project|Transition Integrity Project]] and Senior Vice President of Programs at the [[berggruen-institute|Berggruen Institute]], is described by Badlands Media contributor [[erik-carlson|Erik Carlson]] as having ties to the Rockefeller Foundation as well as to Noema Magazine, a publication partnered with the Washington Post.[7]
+
 ## References
 1. Badlands Brief — "On Ted Kaczynski and False Prophets", URL: https://badlands.substack.com/p/on-ted-kaczynski-and-false-prophets
 2. Badlands Brief — "The Darwinian Perversion of Christianity", URL: https://badlands.substack.com/p/the-darwinian-perversion-of-christianity
@@ -47,3 +52,5 @@ The Rockefeller Foundation appears in Badlands Media's "The Information Imperium
 "The Ivy Web" states that the Rockefeller Foundation has funded [[harvard-university|Harvard]] research centers since the early twentieth century, with its influence most visible in public health policy channelled through the [[harvard-th-chan-school-of-public-health|T.H. Chan School of Public Health]].[6] The Foundation is grouped with the [[rothschild-family|Rothschild family]] as an entity that heavily shaped the formation of the [[world-bank|World Bank]], WHO-aligned public health agencies, and digital health certificate and biometric tracking pilot programs — initiatives the article traces to white papers developed in Harvard research labs working in behavioral psychology, systems modeling and epidemiology.[6] Rockefeller ties are also listed among the affiliations of [[harvard-management-company|Harvard Management Company]] board members.[6]
 
 6. Badlands Brief — "The Ivy Web", URL: https://badlands.substack.com/p/the-ivy-web
+
+7. Badlands Brief — "The Transition Integrity Project", URL: https://badlands.substack.com/p/the-transition-integrity-project

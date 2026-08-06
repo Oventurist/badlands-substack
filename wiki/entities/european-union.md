@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [european-union, trade, tariffs, greenland, transatlantic]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-a84.md, raw/badlands-brief-b62.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-b7b.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-e8f.md, raw/money-and-oil.md, raw/rattling-a-broken-saber.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-dystopia-will-be-televised.md, raw/the-new-marshall-plan.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-a84.md, raw/badlands-brief-b62.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-b7b.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-e8f.md, raw/money-and-oil.md, raw/rattling-a-broken-saber.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-dystopia-will-be-televised.md, raw/the-new-marshall-plan.md, raw/the-multinational-offensive-against.md, raw/women-children-and-terror.md]
 confidence: medium
 ---
 
@@ -158,6 +158,10 @@ In the same week the Trump administration concluded the [[2025-us-uk-trade-deal|
 
 Analysis published in April 2023 during the [[2023-macron-state-visit-to-china|2023 Macron state visit to China]] described the European Union as internally divided over China policy: France, Germany, and Spain sought to deepen relations with Beijing, while member states east of Austria and north of Germany, along with the Dutch, looked to the United States.[26] Michael Every of [[rabobank|Rabobank]] warned this could threaten a schism as national-security concerns came to transcend economics, and argued that Europe was already in a structurally weak, emerging-market-like position in a raw geopolitical world.[26] European Commission President Ursula von der Leyen, who travelled to Beijing alongside [[emmanuel-macron|Emmanuel Macron]], was reported to have been ushered in "via the tradesman's entrance," and her call for supply-chain "de-risking" from China was snubbed by Macron.[26]
 
+## Predicted censorship demand on X (October 2023)
+
+[[erik-carlson|Erik Carlson]] predicted in October 2023 that the Israel-Hamas conflict would lead the European Union to invoke the [[digital-services-act|Digital Services Act]] and ask [[elon-musk|Elon Musk]] to censor content on X, requiring him either to shadow ban or remove accounts questioning specific details of the official narrative, or to face fines and possible loss of access to all of Europe.[34]
+
 ## References
 
 1. Badlands Brief — "Arctic Escalation and Tropic Trouble for the Financial System", URL: https://badlands.substack.com/p/badlands-brief-02a
@@ -233,3 +237,12 @@ Under [[eidas-2-0|eIDAS 2.0]], effective September 2023, the European Union mand
 
 31. Badlands Brief — "The Dystopia Will Be Televised", URL: https://badlands.substack.com/p/the-dystopia-will-be-televised
 32. Badlands Brief — "The 'New' Marshall Plan", URL: https://badlands.substack.com/p/the-new-marshall-plan
+
+## Digital speech regulation (DeLarme critique, 2024)
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] argued that the European Union's [[digital-services-act|Digital Services Act]] establishes a regime in which only information and opinions deemed appropriate by what he called the International Corpo-Government amalgam will be allowed to see the light of day.[33] He pointed to clauses criminalizing "harmful, false and threatening communications" without defining those terms, and to a clause granting immunity to every newspaper, television channel and streaming service.[33]
+
+DeLarme warned that if EU officials or Brussels bureaucrats concluded that views permitted on [[x-corp|X]] constituted criminal disinformation, [[elon-musk|Elon Musk]] and the platform itself could be held criminally liable — precisely the precedent he believed the French indictment of [[pavel-durov|Pavel Durov]] was intended to create.[33]
+
+33. Badlands Brief — "The Multinational Offensive Against Free Speech Online", URL: https://badlands.substack.com/p/the-multinational-offensive-against
+34. Badlands Brief — "Women, Children ... and Terror", URL: https://badlands.substack.com/p/women-children-and-terror

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, alternative-media, veterans]
-sources: [raw/badlands-news-brief-6b1.md]
+sources: [raw/badlands-news-brief-6b1.md, raw/the-werewolf-game-agents-from-russia.md]
 confidence: low
 ---
 
@@ -16,3 +16,9 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] cited
 
 ## References
 1. Badlands Brief — "Russia, the MSM and El Salvador Call Out Joe Biden", URL: https://badlands.substack.com/p/badlands-news-brief-6b1
+
+## Role in popularizing the "Khazarian mafia" (American Hypnotist, 2024)
+
+The March 27, 2024 installment of [[american-hypnotist|American Hypnotist]]'s [[the-werewolf-game|Werewolf Game]] series states that Veterans Today, together with the writer [[benjamin-fulford|Ben Fulford]], has put a spotlight on the "[[khazarian-mafia|Khazarian mafia]]" since at least 2015, and credits the two with introducing that phrase into common conspiracy parlance.[2] The author writes that he does not personally trust either outlet, but argues that their role in disseminating the term is significant, suggesting that a great deal of conspiracy literature may have been circulated to guide public awareness of the historical importance of the [[khazaria|Khazarian]] region — adding the caveat that "all professional-grade disinfo contains some truth."[2]
+
+2. Badlands Brief — "The Werewolf Game - Agents from Russia", URL: https://badlands.substack.com/p/the-werewolf-game-agents-from-russia

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [detransition, gender-medicine, litigation, social-media]
-sources: [raw/badlands-news-brief-c1e.md]
+sources: [raw/badlands-news-brief-c1e.md, raw/these-3-events-expose-gender-ideology.md]
 confidence: medium
 ---
 
@@ -20,3 +20,9 @@ Cole has sued Kaiser Permanente for medical malpractice over the treatment she r
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Weaponization, Willis, and World War III", URL: https://badlands.substack.com/p/badlands-news-brief-c1e
+
+## Gabbard interview cited by Badlands
+
+Badlands contributor [[simon-esler|Simon Esler]] cited [[tulsi-gabbard|Tulsi Gabbard]]'s departure from the DNC and her subsequent interview with Chloe Cole as an apolitical event in the fight over [[gender-ideology|gender ideology]], alongside the work of [[gays-against-groomers|Gays Against Groomers]] and the activist [[billboard-chris|Billboard Chris]].[2] Esler placed Cole within the broader category of [[detransitioners|detransitioners]] whom he described as an exception to [[yuri-bezmenov|Yuri Bezmenov]]'s account of irreversible ideological subversion, having been awakened to authentic information by the trauma of their own medical transitions.[2]
+
+2. Badlands Brief — "These 3 Events Expose Gender Ideology", URL: https://badlands.substack.com/p/these-3-events-expose-gender-ideology

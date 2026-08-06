@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [uranium, russia, clinton-foundation, corruption, qanon]
-sources: [raw/america-for-sale-part-3.md, raw/badlands-news-brief-49a.md, raw/disinformation-is-necessary.md, raw/everything-is-connected.md, raw/irregular-warfare.md, raw/q-for-dummies-chapter-6.md, raw/the-biggest-cover-up-in-american.md, raw/the-biggest-boomerang-in-history.md]
+sources: [raw/america-for-sale-part-3.md, raw/badlands-news-brief-49a.md, raw/disinformation-is-necessary.md, raw/everything-is-connected.md, raw/irregular-warfare.md, raw/q-for-dummies-chapter-6.md, raw/the-biggest-cover-up-in-american.md, raw/the-biggest-boomerang-in-history.md, raw/we-are-watching-a-movie.md]
 confidence: medium
 ---
 
@@ -89,3 +89,13 @@ Reporting by [[john-solomon|John Solomon]] in The Hill first revealed the existe
 The deal also appears among the subjects Lange says [[hillary-clinton|Hillary Clinton]] concealed on her [[hillary-clinton-private-email-server|private server]], alongside Benghazi and the spy operation against the Trump campaign, and is listed in Q drop 4845 of October 9, 2020 among the matters tied to the [[clinton-foundation|Clinton Foundation]].[8] These claims reflect Badlands Media interpretation rather than established fact.
 
 8. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history
+
+## The "Sum of All Fears" reading
+
+In "We Are Watching a Movie," [[joe-lange|Joe Lange]] argues that the true purpose of the deal has been almost entirely missed.[9] Reading a Q drop that traces the route "Uranium 1 - Canada - Europe - Asia - Iran/North Korea," he accepts that uranium was indeed heading to [[iran|Iran]] and [[north-korea|North Korea]] - both, in his account, CIA-controlled states being helped to develop nuclear missiles - but insists these were not the final destination.[9] The common thread of the drop, he writes, is the proliferation of nuclear weapons by American politicians arming their own enemies, centred on one controlling person.[9]
+
+Lange's synthesis is that the deal, approved by [[barack-obama|Barack Obama]] and Secretary of State [[hillary-clinton|Hillary Clinton]], supplied weapons-grade uranium to Iran, while the [[joint-comprehensive-plan-of-action|Iran nuclear deal]] supplied the cash - classified at the highest level to keep [[congress|Congress]] from seeing the details, with billions flown to Iran by the [[central-intelligence-agency|CIA]] at night.[9] One plane, he claims, did not land in Iran but in [[syria|Syria]], funding the construction of a bomb at the satellite Iranian nuclear facility Q said existed there.[9] Because [[bashar-al-assad|Bashar al-Assad]]'s Syria is allied with Russia, traceable U1 material detonated on American soil would have been blamed on Moscow and triggered nuclear war - the plot of *[[the-sum-of-all-fears|The Sum of All Fears]]*.[9] He ties this to the cabal's [[16-year-plan-to-destroy-america|sixteen-year plan]]: eight years of Obama to degrade the country and constitution, followed by eight years of Clinton and World War III, a controlled nuclear war intended to eliminate millions and end both American and Russian superpower status.[9]
+
+He credits the [[2018-us-strikes-on-syria|April 2018 strikes on Syria]], nominally a response to chemical weapons, with destroying the facility and preventing the war.[9] He also cites Q drop #237 of November 30, 2017, which pairs "U1 - CA - EU - ASIA/NK," the "Iran deal" and the "[[russian-reset|Russian reset]]" under the heading "Biggest cover up in our history," and Q drop #2180 of September 16, 2018, which defines "traitor" and notes that the USSS codename for Obama was RENEGADE.[9] These claims reflect Badlands Media interpretation rather than established fact.
+
+9. Badlands Brief - "We Are Watching a Movie", URL: https://badlands.substack.com/p/we-are-watching-a-movie

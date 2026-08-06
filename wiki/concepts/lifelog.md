@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [darpa, surveillance, data, facebook, privacy]
-sources: [raw/america-has-a-cia-run-economy.md, raw/fake-news-until-proven-real.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/fake-news-until-proven-real.md, raw/why-do-we-know-what-we-know.md]
 confidence: medium
 ---
 
@@ -30,3 +30,8 @@ In a May 2024 essay, [[erik-carlson|Erik Carlson]] used LifeLog as his primary i
 
 1. Badlands Brief — "America Has a CIA-Run Economy", URL: https://badlands.substack.com/p/america-has-a-cia-run-economy
 2. Badlands Brief — "Fake News Until Proven Real ...", URL: https://badlands.substack.com/p/fake-news-until-proven-real
+3. Badlands Brief — "Why Do We Know What We Know?", URL: https://badlands.substack.com/p/why-do-we-know-what-we-know
+
+## Cited in "Why Do We Know What We Know?"
+
+In his May 2023 essay, [[erik-carlson|Erik Carlson]] described LifeLog as a [[central-intelligence-agency|CIA]] citizen-information gathering program and noted that it was shut down the same day [[facebook|Facebook]] started, adding that a lot of the early money behind Facebook is tied to the agency.[3] He offered the coincidence as one of several widely circulated facts about CIA penetration of technology and media companies whose very availability, in his framework, shows they cannot damage the [[deep-state|Deep State cabal]].[3]

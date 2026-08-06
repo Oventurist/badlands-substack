@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [dei, corporate-policy, florida, disney]
-sources: [raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-bed.md, raw/badlands-news-brief-d50.md, raw/death-to-dei.md, raw/no-honor-among-thieves.md, raw/signal-collapse.md]
+sources: [raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-bed.md, raw/badlands-news-brief-d50.md, raw/death-to-dei.md, raw/no-honor-among-thieves.md, raw/signal-collapse.md, raw/wilted-ivy.md]
 confidence: medium
 ---
 
@@ -91,3 +91,9 @@ The June 26, 2025 essay "Signal Collapse" by [[observing-consciousness|Observing
 DEI is also listed among the domains — alongside Iran, Ukraine, elections and censorship — in which the essay claims a common pattern becomes visible to the public, at which point "the program collapses," since "what is recognized can no longer control."[10] The framing forms part of the essay's broader account of [[cultural-severance|cultural severance]] and [[fifth-generation-warfare|fifth-generation warfare]].[10]
 
 10. Badlands Brief — "Signal Collapse", URL: https://badlands.substack.com/p/signal-collapse
+
+## Cited in "Wilted Ivy"
+
+Badlands Media's May 2025 essay "Wilted Ivy" pairs DEI with [[esg|ESG]] as the twin instruments of what it calls institutional narrative enforcement during 2020-2022, imposed through the endowment and governance influence of [[blackrock|BlackRock]], [[vanguard|Vanguard]] and [[state-street|State Street]].[11] Quoting January 2024 [[business-insider|Business Insider]] reporting, the article notes that BlackRock cut mentions of its "three pillar DEI strategy" from its annual report, dropped its breakout of employee demographics by race and gender, and amended borrowing-cost metrics on a $4.4 billion credit facility previously tied to internal DEI targets.[11] It cites [[bud-light|Bud Light]]'s "DEI-driven marketing catastrophe" and [[disney|Disney]]'s "cultural unraveling under DEI entrenchment" as public failures of the model, and calls for a successor system with "no more DEI boards" but transparent, decentralized and accountable governance.[11]
+
+11. Badlands Brief — "Wilted Ivy", URL: https://badlands.substack.com/p/wilted-ivy

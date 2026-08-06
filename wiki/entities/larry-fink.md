@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, blackrock, davos, artificial-intelligence]
-sources: [raw/badlands-brief-a20.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-f4c.md, raw/blackrock-inc-and-the-vanguard-group.md, raw/get-woke-go-broke.md, raw/no-honor-among-thieves.md, raw/the-harvard-control-grid.md, raw/the-ivy-dominion.md]
+sources: [raw/badlands-brief-a20.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-f4c.md, raw/blackrock-inc-and-the-vanguard-group.md, raw/get-woke-go-broke.md, raw/no-honor-among-thieves.md, raw/the-harvard-control-grid.md, raw/the-ivy-dominion.md, raw/wilted-ivy.md]
 confidence: medium
 ---
 
@@ -79,3 +79,9 @@ In a May 2024 essay, Badlands contributor [[erik-carlson|Erik Carlson]] restated
 The June 2025 essay "The Ivy Dominion" cites Fink's "deep association with Wharton and Penn alumni" as evidence that academic grooming at the [[wharton-school|Wharton School]] and the [[university-of-pennsylvania|University of Pennsylvania]] "leads to economic enforcement - not by accident, but by design."[10] It describes Wharton and the fraternity [[zeta-psi|Zeta Psi]] as staging grounds for [[blackrock|BlackRock]]-trained executives later embedded in ESG compliance, central bank digital currency strategy and [[world-economic-forum|World Economic Forum]] think tanks.[10] The article also reports that Wharton's association with Fink and ESG enforcement came under attack from within its own alumni base, with donors issuing ultimatums to abandon the ideology or forfeit legacy capital.[10]
 
 10. Badlands Brief — "The Ivy Dominion", URL: https://badlands.substack.com/p/the-ivy-dominion
+
+## Cited in "Wilted Ivy"
+
+Badlands Media's May 2025 essay "Wilted Ivy" treats Fink's reversal on [[esg|ESG]] as the first visible crack in the system of capital-driven ideological conformity, noting that "once ESG's loudest champion," he "suddenly retreated under public pressure."[11] It quotes his remark at the 2023 Aspen Ideas Festival that he was "ashamed of being part of this debate."[11] The article's timeline dates the retreat to 2023, when "the Big Three begin showing cracks," and reports that by early 2024 [[blackrock|BlackRock]]'s annual reports had scrubbed explicit ESG and [[diversity-equity-and-inclusion|DEI]] references in favor of neutral language.[11]
+
+11. Badlands Brief — "Wilted Ivy", URL: https://badlands.substack.com/p/wilted-ivy

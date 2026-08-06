@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [urban-planning, control, technology, isolation]
-sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-d45.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-d45.md, raw/trumps-2025-vision.md]
 confidence: low
 ---
 
@@ -28,8 +28,15 @@ On Saturday, February 18, 2023, thousands of protesters marched in Oxford, Engla
 
 [[ryan-delarme|Ryan DeLarme]] described the concept as "a totalitarian nightmare" rooted in a modern socialist agenda, arguing it strengthened the case for leaving major cities in favour of self-reliant rural communities. He contended that the Davos elite assume ordinary people are dependent enough on modern conveniences to accept any edict, dismissed the climate justification as an insult to public intelligence given the absence of comparable restrictions on private jets and yachts, and linked the scheme to United Nations-aligned programmes such as [[agenda-2030|Agenda 2030]], America 2050, and the Wildlands Project.[3]
 
+## Historical framing by Justin Deschamps
+
+In *Trump's 2025 Vision*, [[justin-deschamps|Justin Deschamps]] placed the 15-minute city at the end of a long arc of deliberate settlement engineering, arguing that planners had worked since before the first industrial revolution to drain rural, church-centered communities into large cities functioning as neo-feudal estates, later extending the pattern to centrally dependent suburbs.[4] Under the [[great-reset|Great Reset]], he wrote, all of these forms would be compacted into the 15-minute city model.[4]
+
+Deschamps contrasted this trajectory with [[donald-trump|Donald Trump]]'s proposal for ten new [[freedom-cities|Freedom Cities]] and accompanying baby bonuses, which he argued cut directly against the 15-minute megacity agenda and its supporting narrative of manmade climate change driven by overpopulation.[4] He treated the existence of a visibly superior alternative as the decisive threat to the model, invoking the [[asch-conformity-experiments|Asch conformity experiments]] to argue that conformity to an unattractive vision requires the removal of all contradictory examples.[4]
+
 ## References
 
 1. Badlands Brief — "America Has a CIA-Run Economy", URL: https://badlands.substack.com/p/america-has-a-cia-run-economy
 2. Badlands Brief — "Badlands News Brief: Trump Trolls, Soros Slithers & Flags Fly", URL: https://badlands.substack.com/p/badlands-news-brief-93d
 3. Badlands Media — "Badlands News Brief: Biden's Health, J6 Justice & Balloon Brigades", URL: https://badlands.substack.com/p/badlands-news-brief-d45
+4. Badlands Brief — "Trump's 2025 Vision [Updated]", URL: https://badlands.substack.com/p/trumps-2025-vision

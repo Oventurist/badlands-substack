@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [taiwan, china, operation-gladio, political-party, opium]
-sources: [raw/operation-gladio-a-primer.md, raw/operation-gladio-how-its-funded.md]
+sources: [raw/operation-gladio-a-primer.md, raw/operation-gladio-how-its-funded.md, raw/understanding-the-soul-of-china.md]
 confidence: low
 ---
 
@@ -22,6 +22,11 @@ Watkins invokes the KMT as evidence that the [[operation-gladio|Operation Gladio
 
 Taiwan itself, formerly Formosa, appears in the same article among the states Watkins lists as "fake" or made-up countries created by the postwar rearrangement of borders — alongside Iran (formerly Persia), Pakistan and Ukraine — a rearrangement she says set up [[nato|NATO]], the [[united-nations|UN]] and [[world-bank|World Bank]] structures and necessitated the paramilitary activity of Gladio.[1]
 
+## Founding and post-Sun collapse
+
+The party was founded by [[sun-yat-sen|Sun Yat-sen]], first president of the [[republic-of-china|Republic of China]].[3] [[matthew-ehret|Matthew Ehret]] writes that Sun's early death in 1924 created a leadership vacuum which none among his allies within the Kuomintang were even moderately qualified to fill.[3] Comparing the party to the elitist Federalist party of [[alexander-hamilton|Alexander Hamilton]], Ehret argues that corruption and strategic incompetence among the KMT's leadership resulted in its ultimate inability to preserve the mandate of heaven.[3]
+
 ## References
 1. Badlands Brief — "Operation Gladio - A Primer", URL: https://badlands.substack.com/p/operation-gladio-a-primer
 2. Badlands Brief — "Operation Gladio - How It's Funded", URL: https://badlands.substack.com/p/operation-gladio-how-its-funded
+3. Badlands Brief — "Understanding the Soul of China", URL: https://badlands.substack.com/p/understanding-the-soul-of-china

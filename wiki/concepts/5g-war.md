@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [information-war, q-movement, propaganda, badlands-media]
-sources: [raw/expand-your-thinking.md, raw/mental-fortitude-for-5g-warriors.md, raw/q-is-real-because-math-says-so.md, raw/q-is-our-best-fren.md, raw/the-extraordinary-power-of-digital.md, raw/the-metaphysics-of-5g-war.md]
+sources: [raw/expand-your-thinking.md, raw/mental-fortitude-for-5g-warriors.md, raw/q-is-real-because-math-says-so.md, raw/q-is-our-best-fren.md, raw/the-extraordinary-power-of-digital.md, raw/the-metaphysics-of-5g-war.md, raw/the-white-pill-emporium-part-2.md]
 confidence: low
 ---
 
@@ -64,3 +64,9 @@ The essay attributes the apparent speed of lies to captured institutions, notabl
 The article's stated unifying goal is to "restore America to Greatness," understood as a return to the true Rule of Law grounded in the elemental foundations set out in the [[declaration-of-independence|Declaration of Independence]] — that is, a God-centric view of law and its purpose.[6] It calls for a renaissance in civic situational awareness achieved by countering the controlled media, and argues that the collapse of mainstream media prestige has made the present an unusually favourable moment for [[citizen-journalism|citizen journalists]], anonymous or otherwise.[6]
 
 6. Badlands Brief — "The Metaphysics of 5G War", URL: https://badlands.substack.com/p/the-metaphysics-of-5g-war
+
+## As a spiritual war
+
+Part 2 of [[the-white-pill-emporium|The White Pill Emporium]] (2 November 2024) characterises the 5G war as not merely an information war but also a science war and, among other things, a spiritual war.[7] [[american-hypnotist|American Hypnotist]] argues that the intelligence required to fight effectively at each of these levels often comes from surprising places, so that those who prematurely discount the importance of hardcore philosophy and metaphysics are, without realising it, shooting themselves square in the foot.[7] He concedes that not everyone need study such topics and that many are not inclined toward them, but maintains they are extremely important nonetheless, and treats contemplation of humanity's relationship to God as part and parcel of life as a [[digital-soldiers|Digital Soldier]].[7]
+
+7. Badlands Brief — "The White Pill Emporium - Part 2: Divine Intervention, Q and the CTMU", URL: https://badlands.substack.com/p/the-white-pill-emporium-part-2

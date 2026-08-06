@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, cabal, deep-state, globalism]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-re-alignment-of-world-systems.md, raw/control-the-financial-system-control.md, raw/control-through-language.md, raw/does-the-cia-still-control-iran.md, raw/in-defense-of-abraham-lincoln-and.md, raw/is-jerome-powell-a-patriot.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-new-marshall-plan.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-re-alignment-of-world-systems.md, raw/control-the-financial-system-control.md, raw/control-through-language.md, raw/does-the-cia-still-control-iran.md, raw/in-defense-of-abraham-lincoln-and.md, raw/is-jerome-powell-a-patriot.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-new-marshall-plan.md, raw/who-are-the-true-puppet-masters.md]
 confidence: low
 ---
 
@@ -94,3 +94,11 @@ He presents this as one of several ways in which the Deep State tools used to co
 
 8. Badlands Brief — "The CIA is Being Thrown Under the Bus", URL: https://badlands.substack.com/p/the-cia-is-being-thrown-under-the
 9. Badlands Brief — "The 'New' Marshall Plan", URL: https://badlands.substack.com/p/the-new-marshall-plan
+
+## Cited in "Who are the True Puppet Masters?" (July 2023)
+
+[[erik-carlson|Erik Carlson]] describes the City of London as a one-square-mile plot of land in London packed with international banks and organizations, operating by its own set of rules entirely separate from the rest of London and from England.[10] He has repeatedly written that the United States is the puppet of the City of London, which he says has controlled the American financial system for at least a century.[10]
+
+In the same essay Carlson argued that [[jerome-powell|Jerome Powell]] is in the process of cutting those strings by raising interest rates and reducing the [[federal-reserve|Federal Reserve]]'s balance sheet, and that while [[donald-trump|Trump]] severs England's control of the American financial system, [[vladimir-putin|Putin]] is building a gold-backed currency with the [[brics|BRICS]] nations.[10]
+
+10. Badlands Brief — "Who are the True Puppet Masters?", URL: https://badlands.substack.com/p/who-are-the-true-puppet-masters

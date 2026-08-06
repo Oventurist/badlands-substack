@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [trump, ukraine, impeachment, narrative-warfare]
-sources: [raw/badlands-news-brief-b26.md]
+sources: [raw/badlands-news-brief-b26.md, raw/the-unreality-paradox.md]
 confidence: medium
 ---
 
@@ -21,3 +21,9 @@ Burning Bright drew an explicit parallel between this pattern and the [[mar-a-la
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Trump's Tapes, Putin's Plan & Byrne's Bio", URL: https://badlands.substack.com/p/badlands-news-brief-b26
+
+## Treatment as a narrative seed (November 2022)
+
+In "The Unreality Paradox," [[burning-bright|Burning Bright]] urged readers to apply his [[narrative-seeding|narrative seeding]] framework to the Perfect Phone Call with [[volodymyr-zelensky|Volodymyr Zelenskyy]], describing the timing of the media's attempts to frame the conversation as laden with quid pro quo as auspicious — "some might say, planned" — in light of what he called the current Pretender's actual version of "that little movie."[2] In his reading the episode functioned, like the [[russiagate-hoax|Russia Collusion narrative]], as an educational template his audience could later apply to better-evidenced allegations against [[donald-trump|Trump]]'s opponents.[2]
+
+2. Badlands Brief — "The Unreality Paradox", URL: https://badlands.substack.com/p/the-unreality-paradox

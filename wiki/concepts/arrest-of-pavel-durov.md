@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [free-speech, france, telegram, censorship, 2024]
-sources: [raw/badlands-news-brief-b5f.md]
+sources: [raw/badlands-news-brief-b5f.md, raw/the-multinational-offensive-against.md]
 confidence: medium
 ---
 
@@ -33,3 +33,13 @@ The episode also drew commentary from Alexander Vindman, who defended the shutdo
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Debates About Debates, RINO Country & Building BRICS", URL: https://badlands.substack.com/p/badlands-news-brief-b5f
+
+## DeLarme account of the arrest and charges (October 2024)
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] wrote that [[pavel-durov|Pavel Durov]] was arrested on August 24, 2024 at Le Bourget Airport in France on a warrant issued by the French judicial police as part of a preliminary investigation into twelve suspected violations regarding crime on the [[telegram|Telegram]] platform.[2] Immediately afterward there was speculation about the actual charges, with only a vague prosecutorial press release, until the Paris prosecutor [[laure-beccuau|Laure Beccuau]] released a document detailing six counts.[2]
+
+The charges included complicity in managing an online platform to enable illegal transactions in an organized group, complicity in enabling the distribution of child sexual abuse material, drug trafficking and fraud, refusal to cooperate with law enforcement, and two counts concerning the provision of [[end-to-end-encryption|cryptology services and tools]] without prior or certified declaration.[2] Durov was placed under formal investigation, barred from leaving France, ordered to post five million euros in bail, required to report to a police station twice weekly, and faced up to ten years in prison.[2]
+
+[[glenn-greenwald|Glenn Greenwald]] likened the prosecution to arresting AT&T executives for crimes planned over the telephone, and Durov's lawyer David-Olivier Kaminski called it absurd that the head of a social network was being charged.[2] DeLarme argued the indictment's purpose was to create a precedent under which [[elon-musk|Elon Musk]] and [[x-corp|X]] could be held criminally liable for political opinions the [[european-union|EU]] does not want to proliferate, and called the arrest the most significant escalation yet — a signal to other countries, notably [[brazil|Brazil]], that "if France can do it, so can you."[2] Three days after the arrest, Brazil ordered X banned; Durov meanwhile announced Telegram would radically change its rules and comply with government orders.[2]
+
+2. Badlands Brief — "The Multinational Offensive Against Free Speech Online", URL: https://badlands.substack.com/p/the-multinational-offensive-against

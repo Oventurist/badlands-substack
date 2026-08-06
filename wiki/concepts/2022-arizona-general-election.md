@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [arizona, elections, maricopa-county, election-integrity, 2022-midterms]
-sources: [raw/an-sos-from-ground-zero.md, raw/arizona-earthquake.md, raw/thats-not-signature-verification.md]
+sources: [raw/an-sos-from-ground-zero.md, raw/arizona-earthquake.md, raw/thats-not-signature-verification.md, raw/timing-is-everything.md, raw/watch-the-water.md]
 confidence: medium
 ---
 
@@ -45,3 +45,19 @@ The county's [[maricopa-county-2022-ballot-on-demand-printer-investigation|subse
 1. Badlands Brief — "An SOS From Ground Zero", URL: https://badlands.substack.com/p/an-sos-from-ground-zero
 2. Badlands Media — "Arizona Earthquake!", URL: https://badlands.substack.com/p/arizona-earthquake
 3. Badlands Brief — "That's Not Signature Verification, Your Honor", URL: https://badlands.substack.com/p/thats-not-signature-verification
+
+## Certification delays and the "timing" argument
+
+Writing on November 25, 2022, Badlands contributor [[joe-lange|Joe Lange]] reported that a second Republican-controlled Arizona county had delayed certifying the results of the election as a protest against voting problems in [[maricopa-county|Maricopa County]] that some GOP officials blamed for their losses in top races, including the contest for governor.[4] The delay came as Maricopa, the state's most populous county, finished counting its last remaining ballots and the state attorney general demanded that officials explain the Election Day problems some voters had experienced.[4] The [[arizona-state-senate|state legislature]] separately demanded evidence from the county, requiring a response by the Friday before the certification date, and [[kelli-ward|Kelli Ward]] joined the effort.[4]
+
+Lange argued that the fraud in this cycle had to be more blatant than in 2020 because [[kari-lake|Kari Lake]] had promised, if elected governor, to expose election fraud in Arizona and would have gained prosecutorial power to do so — obliging her opponents to "go all in on the steal."[4] He predicted that the evidence would reach a courtroom through criminal indictment or lawsuit and enter the public record permanently, and that the [[arizona-attorney-generals-office|Arizona Attorney General's office]] Election Integrity Unit under [[mark-brnovich|Mark Brnovich]], acting through Assistant Attorney General [[jennifer-wright|Jennifer Wright]], had been preparing for exactly this eventuality.[4]
+
+4. Badlands Brief — "Timing Is Everything", URL: https://badlands.substack.com/p/timing-is-everything
+
+## Contemporary account of the count
+
+Two days after polls closed on November 8, 2022, only about 62,000 ballots had been released in [[maricopa-county|Maricopa County]], a jurisdiction of roughly 4.5 million residents, drawing national and international media to Arizona.[5] [[charlie-kirk|Charlie Kirk]] said on the morning of November 10 that the envelopes of the most committed Republican voters in the state had not yet been opened.[5]
+
+[[kitty-gillespie|Kitty Gillespie]] attributed the pattern to Arizona's longstanding reliance on [[mail-in-voting|mail-in voting]], which she said most Arizonans had embraced for its convenience until 2020 convinced conservatives it was "fraught with corruption."[5] She credited the [[arizona-republican-party|AZ GOP]] and Republican candidates with persuading conservative voters not to mail their ballots, a shift she said produced a flood of Election Day voting in the August 2 primary and again in November, when most conservatives either dropped mailed ballots off at the polls or voted in person.[5] Her own polling place had no working tabulator, forcing her to use the "Box 3" receptacle.[5]
+
+5. Badlands Media — "Watch the Water", URL: https://badlands.substack.com/p/watch-the-water

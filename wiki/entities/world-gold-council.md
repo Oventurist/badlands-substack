@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [gold, industry-association, data, markets]
-sources: [raw/badlands-news-brief-4a3.md]
+sources: [raw/badlands-news-brief-4a3.md, raw/the-midas-touch.md]
 confidence: medium
 ---
 
@@ -17,3 +17,8 @@ Its reserve statistics are the standard reference for tracking [[central-bank-go
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Fauci Returns, the Dollar Falls & Stormy Struts", URL: https://badlands.substack.com/p/badlands-news-brief-4a3
+2. Badlands Brief — "The Midas Touch", URL: https://badlands.substack.com/p/the-midas-touch
+
+## 2023 record purchase data
+
+A report by the council's Krishan Gopaul found that central banks accumulated gold at the fastest pace on record in the first two months of 2023, buying a net 125 tonnes in January and February — the highest year-to-date total since banks became net buyers in 2010.[2] Badlands Media cited the figures as evidence that [[central-bank-gold-buying|central bank gold buying]] reflects anticipation of a monetary reset and a coming return to a [[gold-standard|gold standard]].[2]

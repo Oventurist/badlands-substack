@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [france, europe, africa, sahel, colonialism, foreign-policy]
-sources: [raw/badlands-brief-405.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-69b.md]
+sources: [raw/badlands-brief-405.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-69b.md, raw/the-multinational-offensive-against.md]
 confidence: medium
 ---
 
@@ -41,3 +41,11 @@ In September 2024, Badlands Media reported that the Prime Minister of [[chad|Cha
 2. Badlands Brief — "Badlands News Brief: A New Era of Terror & Monumental Lightning Strikes", URL: https://badlands.substack.com/p/badlands-news-brief-12c
 3. Badlands Brief — "Badlands News Brief: Trump Indicted ... Again, and Other Stories!", URL: https://badlands.substack.com/p/badlands-news-brief-1cc
 4. Badlands Brief — "Badlands News Brief: Trump Calls for Peace as the World Heads Toward War", URL: https://badlands.substack.com/p/badlands-news-brief-69b
+
+## Prosecution of Pavel Durov (2024)
+
+France took what Badlands contributor [[ryan-delarme|Ryan DeLarme]] described as an unusually active role in the multinational attack on free speech, culminating in the arrest of [[telegram|Telegram]] founder [[pavel-durov|Pavel Durov]] at Le Bourget Airport on August 24, 2024 under a warrant issued by the French judicial police.[5] Paris prosecutor [[laure-beccuau|Laure Beccuau]] indicted Durov on six counts including complicity in illegal transactions, complicity in the distribution of child sexual abuse material, drug trafficking and fraud, refusal to cooperate with law enforcement, and two counts relating to [[end-to-end-encryption|cryptology services]] provided without declaration.[5]
+
+DeLarme relayed the claim that President [[emmanuel-macron|Emmanuel Macron]] had invited Durov to dinner on the night of the arrest, which led many to suspect Durov was lured into the country under false pretenses — an allegation Macron denied.[5] DeLarme judged the French action the most significant escalation in the global censorship campaign to date, and a signal to other governments, notably [[brazil|Brazil]], that they could act similarly.[5]
+
+5. Badlands Brief — "The Multinational Offensive Against Free Speech Online", URL: https://badlands.substack.com/p/the-multinational-offensive-against

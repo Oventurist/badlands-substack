@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [occult, secret-societies, philosophy]
-sources: [raw/legacy-of-the-bavarian-illuminati-8f0.md, raw/real-patriots-dont-think-like-hitler-111.md, raw/real-patriots-dont-think-like-hitler-6fc.md, raw/real-patriots-dont-think-like-hitler-d42.md, raw/real-patriots-dont-think-like-hitler.md, raw/the-inversion-of-health.md]
+sources: [raw/legacy-of-the-bavarian-illuminati-8f0.md, raw/real-patriots-dont-think-like-hitler-111.md, raw/real-patriots-dont-think-like-hitler-6fc.md, raw/real-patriots-dont-think-like-hitler-d42.md, raw/real-patriots-dont-think-like-hitler.md, raw/the-inversion-of-health.md, raw/why-i-just-dont-trust-elon-musk.md]
 confidence: low
 ---
 
@@ -19,6 +19,12 @@ Discussing the Shakespearean line "There is nothing either good or bad, but thin
 ## Nazi and Setian connections
 
 In "Real Patriots Don't Think Like Hitler - Part 4," William Ramsay is quoted describing Crowley and [[adolf-hitler|Adolf Hitler]] as "the great black magicians of the 20th century," sharing worldviews shaped by European occultism, Freemasonry and Theosophy and endorsing the survival of the fittest, the primacy of the human will and a feudal slave state.[2] German [[new-templar-order|New Templars]] were closely associated with Crowley and with Dr. Franz Hartmann of the German Theosophical Society.[2] By 1915 the [[ordo-templi-orientis|Ordo Templi Orientis]] co-founded by Theodor Reuss had become a conduit of Crowley, who took control of the worldwide order after Reuss's death, extending it into New York, Los Angeles, Canada, Mexico and Germany.[2] Crowley's 1904 Cairo working, in which he encountered Aiwass, was later reinterpreted by [[michael-aquino|Michael Aquino]] as the opening of the Aeon of Horus preceding his own Aeon of Set; Aquino came to believe he was Crowley's reincarnation, imitating his appearance and promoting the Thelemic maxim "Do What Thou Wilt Shall be the Whole of the Law."[2]
+
+## Orage, the New Age and 1912
+
+Badlands Media contributor [[matthew-ehret|Matthew Ehret]] situates Crowley within the network around [[alfred-richard-orage|A. R. Orage]]'s New Age magazine, in which Crowley published regularly.[7] Ehret writes that both men advanced the same pseudo-anarchist thesis that a global revolution was needed to overthrow corrupt national governments on the grounds that these were run by evil Jewish bankers, as advanced in the [[protocols-of-the-elders-of-zion|Protocols of the Elders of Zion]] promoted by virtually every fascist of the early twentieth century, Orage and Crowley included.[7]
+
+He identifies 1912 as a year of deliberate schisms among occult organizations into rival agencies pushing "right hand" and "left hand" paths to steer social debate dialectically: Rudolf Steiner's Anthroposophists split from Annie Besant's Theosophists, and Crowley's British branch of the Ordo Templi Orientis split from other European branches.[7] In Crowley's view, Ehret writes, the New Age of Horus would be ushered in through purgative violence and mass sacrifice, from which a New World Order would rise phoenix-like and a thousand-year peace would establish a post-Christian era based on revived mystery religions, depopulation, superstition and magic.[7] Ehret says this alchemical transformation required a prolonged war of each against all, beginning with the British-orchestrated Balkan Wars of 1912, the outbreak of the First World War in 1914 and American entry in 1917, and that Crowley and [[nikola-tesla|Nikola Tesla]] played direct roles in the operation.[7]
 
 ## References
 1. Badlands Brief — "Legacy of the Bavarian Illuminati - Part 2", URL: https://badlands.substack.com/p/legacy-of-the-bavarian-illuminati-8f0
@@ -57,3 +63,4 @@ Part 1 of the series names Crowley among the occultists — with [[nesta-webster
 In "The Inversion of Health," [[ryan-delarme|Ryan DeLarme]] names Crowley — "the Great Beast," known in the press as "the wickedest man alive" — as an apparent influence on the sex researcher [[alfred-kinsey|Alfred Kinsey]], describing him as an occultist and overt hedonist.[6]
 
 6. Badlands Brief — "The Inversion of Health", URL: https://badlands.substack.com/p/the-inversion-of-health
+7. Badlands Brief — "Why I Just Don't Trust Elon Musk", URL: https://badlands.substack.com/p/why-i-just-dont-trust-elon-musk

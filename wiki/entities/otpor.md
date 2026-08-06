@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [serbia, yugoslavia, color-revolution, regime-change, youth-movement]
-sources: [raw/how-to-rent-a-riot-the-history-of.md]
+sources: [raw/how-to-rent-a-riot-the-history-of.md, raw/two-wings-one-ugly-bird.md]
 confidence: medium
 ---
 
@@ -36,3 +36,9 @@ Today, the article notes, the countries of the former Yugoslavia — which enjoy
 
 ## References
 1. Badlands Media — "How to Rent a Riot - The History of 'Nonviolence'", URL: https://badlands.substack.com/p/how-to-rent-a-riot-the-history-of
+
+## IRI and NDI backing
+
+"Two Wings, One Ugly Bird" describes Otpor as the Serbian youth movement that ousted [[slobodan-milosevic|Slobodan Milosevic]] in the 1990s with funding funnelled by the [[international-republican-institute|International Republican Institute]] and additional help from [[george-soros|George Soros]]' [[open-society-foundations|Open Society]] network.[2] Training camps, cash and strategy sessions are said to have turned a ragtag resistance into a polished battering ram branded as "people power," with the [[national-democratic-institute|National Democratic Institute]] shaping the opposition coalition that took power afterwards and producing a government friendlier to NATO and United States interests.[2]
+
+2. Badlands Brief — "Two Wings, One Ugly Bird", URL: https://badlands.substack.com/p/two-wings-one-ugly-bird

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [law, classified-documents, presidency, records]
-sources: [raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-d24.md, raw/nothing-is-as-it-appears.md, raw/smoke-and-mirrors.md]
+sources: [raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-d24.md, raw/nothing-is-as-it-appears.md, raw/smoke-and-mirrors.md, raw/unveiling-the-mar-a-lago-raid-1-year.md]
 confidence: medium
 ---
 
@@ -64,3 +64,9 @@ In "Smoke and Mirrors," published June 16, 2023, [[ryan-delarme|Ryan DeLarme]] t
 DeLarme cited [[kash-patel|Kash Patel]] for the statutory-construction argument that if [[congress|Congress]] had wanted the Espionage Act to supersede the Presidential Records Act it would have written the law differently: the later law supersedes the earlier unless Congress says otherwise, which it has not.[5] He concluded that if the case were handed to an unbiased artificial intelligence reviewing the evidence against the entire database of U.S. court records, it would never reach a jury.[5]
 
 5. Badlands Brief — "Smoke and Mirrors", URL: https://badlands.substack.com/p/smoke-and-mirrors
+
+## Invoked in the Mar-a-Lago defense (August 2023)
+
+In his one-year retrospective on the [[mar-a-lago-raid|Mar-a-Lago raid]], [[alpha-warrior|Alpha Warrior]] described the Presidential Records Act of 1978 as a cornerstone of preserving leaders' legacies, governing the ownership, custody and management of presidential records through an intricate web of regulations.[6] Supporters of [[donald-trump|Donald Trump]] and the former president himself argued loudly across social media that he had acted within the Act's boundaries when he retained materials after leaving office.[6] Alpha Warrior observed that even this well-crafted statute now appeared susceptible to manipulation, with Trump's legal rights under the PRA thrust into a contest of legal interpretation and political posturing rather than settled administrative law.[6]
+
+6. Badlands Brief — "Unveiling the Mar-a-Lago Raid – 1 Year Delta", URL: https://badlands.substack.com/p/unveiling-the-mar-a-lago-raid-1-year

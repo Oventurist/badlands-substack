@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [aclu, civil-liberties, litigation, immigration]
-sources: [raw/badlands-news-brief-a6c.md, raw/the-language-of-control.md]
+sources: [raw/badlands-news-brief-a6c.md, raw/the-language-of-control.md, raw/trump-20-and-the-opposition-plot.md]
 confidence: medium
 ---
 
@@ -32,3 +32,10 @@ DeLarme treated the segment as a paradigmatic example of legal knowledge combine
 DeLarme noted that Romero's career began at the [[rockefeller-foundation|Rockefeller Foundation]], which he called a "deep political proving ground," and that Romero also had a tenure at the [[ford-foundation|Ford Foundation]], described as a similarly CIA-adjacent institution.[2]
 
 2. Badlands Media — "The Language of Control", URL: https://badlands.substack.com/p/the-language-of-control
+3. Badlands Brief — "Trump 2.0 and the 'Opposition' Plot", URL: https://badlands.substack.com/p/trump-20-and-the-opposition-plot
+
+## Role in "the Opposition"
+
+A separate Badlands piece by DeLarme placed the same Maddow interview within the emergence of [[the-opposition|the Opposition]], the post-2024 successor to [[the-resistance|the Resistance]].[3] In that account Romero opened the segment by noting that the ACLU had dedicated "thousands of staff hours studying [[project-2025|Project 2025]]," a document DeLarme argued has nothing to do with a second Trump term and was produced by the [[heritage-foundation|Heritage Foundation]], itself part of the same NGO network as the ACLU.[3] Romero conceded that "clearly we can't run the same playbook" but stated that "litigation is going to be key," which DeLarme read as an explicit commitment to [[lawfare|lawfare]] against the incoming administration.[3]
+
+DeLarme also highlighted Romero's suggestion that mass protests were still on the table and were being reserved for an opportune moment, namely the start of mass deportations, and that the ACLU was encouraging officials to make prisons and jails off limits and to devise ways to "pardon illegal immigrants."[3] Citing Romero's progression from the Rockefeller Foundation to the Ford Foundation to the ACLU, DeLarme described him as possessing intense deep-state credentials whose strategic pronouncements merited close attention.[3]

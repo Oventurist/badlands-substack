@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [education, protests, israel-hamas-war, campus-activism]
-sources: [raw/badlands-news-brief-08a.md, raw/badlands-news-brief-0d4.md, raw/badlands-news-brief-a72.md, raw/scholars-and-spooks.md, raw/the-ivy-dominion.md, raw/the-men-behind-the-curtain-part-2.md]
+sources: [raw/badlands-news-brief-08a.md, raw/badlands-news-brief-0d4.md, raw/badlands-news-brief-a72.md, raw/scholars-and-spooks.md, raw/the-ivy-dominion.md, raw/the-men-behind-the-curtain-part-2.md, raw/why-i-just-dont-trust-elon-musk.md]
 confidence: medium
 ---
 
@@ -52,6 +52,10 @@ In the essay's collapse narrative, Columbia is described as struggling with fall
 
 Badlands Media's "The Men Behind the Curtain – Part 2" notes that [[zbigniew-brzezinski|Zbigniew Brzezinski]] was head of Columbia University's Russian Studies Department when he originated the idea for the [[trilateral-commission|Trilateral Commission]].[6] Researchers Anthony C. Sutton and Patrick M. Wood described him in *Trilaterals Over Washington* as "a brilliant prognosticator of one-world idealism" who "has been a professor at Columbia University and the author of several books that have served as 'policy guidelines' for the CFR."[6]
 
+## Technocracy Inc. and the 1933 task force
+
+Badlands Media contributor [[matthew-ehret|Matthew Ehret]] records that members of the [[technical-alliance|Technical Alliance]] were photographed at Columbia University around 1930, and that pressure on university president [[nicholas-murray-butler|Nicholas Murray Butler]] led to the expulsion of [[howard-scott|Howard Scott]]'s [[technocracy-inc|Technocracy Inc.]] committee from the campus on 18 January 1933.[7] In the same month, Butler announced a special task force to examine technological progress in the nation, which included Edmund Day of the [[rockefeller-foundation|Rockefeller Foundation]], [[walter-lippmann|Walter Lippmann]], Alvin Johnson of the [[new-school-for-social-research|New School for Social Research]] and Benjamin Anderson of Chase National Bank, together with professors from Yale, Harvard and the University of Chicago.[7] Ehret reads the inquiry — directed at the price-based economy and its adequacy for "social welfare" — as technocracy rebranded under respectable sponsorship.[7]
+
 ## References
 1. Badlands News Brief — "The Communist Ouroboros Accelerates", raw/badlands-news-brief-08a.md
 2. Badlands Brief — "Badlands News Brief: Kangaroo Courts and Administrative Pedophiles", URL: https://badlands.substack.com/p/badlands-news-brief-0d4
@@ -59,3 +63,4 @@ Badlands Media's "The Men Behind the Curtain – Part 2" notes that [[zbigniew-b
 4. Badlands Brief — "Scholars and Spooks", URL: https://badlands.substack.com/p/scholars-and-spooks
 5. Badlands Brief — "The Ivy Dominion", URL: https://badlands.substack.com/p/the-ivy-dominion
 6. Badlands Brief — "The Men Behind the Curtain - Part 2", URL: https://badlands.substack.com/p/the-men-behind-the-curtain-part-2
+7. Badlands Brief — "Why I Just Don't Trust Elon Musk", URL: https://badlands.substack.com/p/why-i-just-dont-trust-elon-musk

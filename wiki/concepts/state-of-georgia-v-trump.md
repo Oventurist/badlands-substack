@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [georgia, rico, 2020-election, lawfare, fulton-county]
-sources: [raw/badlands-brief-990.md, raw/badlands-news-brief-040.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-9de.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-c05.md, raw/badlands-news-brief-d00.md, raw/badlands-news-brief-ee8.md, raw/grand-jury-testimony-from-senator.md]
+sources: [raw/badlands-brief-990.md, raw/badlands-news-brief-040.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-9de.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-c05.md, raw/badlands-news-brief-d00.md, raw/badlands-news-brief-ee8.md, raw/grand-jury-testimony-from-senator.md, raw/trials-tribulations-and-a-long-train.md]
 confidence: medium
 ---
 
@@ -110,6 +110,10 @@ On Thursday, April 4, 2024, Fulton County Superior Court Judge [[scott-mcafee|Sc
 
 In May 2024, Fulton County Superior Court began transmitting thousands of pages of records to the Georgia Court of Appeals for the second round of litigation over District Attorney [[fani-willis|Fani Willis]]'s continued leadership of the election interference prosecution of [[donald-trump|Donald Trump]] and his co-defendants.[18] Clerk Ché Alexander's office sent transcripts and records relating to three of the nine defendants seeking Willis's removal — [[michael-roman|Michael Roman]], [[david-shafer|David Shafer]] and Cathy Latham — with Bob Cheeley's documents apparently in transit; the records were needed for the appeals court to docket the case and assign judges.[18]
 
+## January 2024 scheduling
+
+In the Superior Court of Fulton County, Georgia (Indictment No. 23SC188947), all motions except motions in limine were due for most defendants on Monday, January 8, 2024.[20] Judge [[scott-mcafee|Scott McAfee]] was scheduled to hear opening arguments on August 5, 2024 in the trial, in which [[donald-trump|Donald Trump]] is charged with 13 counts and 18 other defendants are implicated.[20] [[ashe-in-america|Ashe in America]] included the Georgia prosecution in her January 2024 survey of the parallel [[lawfare|lawfare]] calendar she argued amounted to interference with the presidential election.[20]
+
 ## References
 
 1. Badlands Brief — "Secret Seizures, Sovereign Signals, & Unnamed Somalis Close to the Matter", URL: https://badlands.substack.com/p/badlands-brief-990
@@ -145,3 +149,4 @@ Badlands Media characterized the case as having been manufactured by Fulton Coun
 In January 2026, Judge [[scott-mcafee|Scott McAfee]] lifted the protective order over the special grand jury transcripts, releasing material that continued to shape public understanding of the 2020 election in Georgia even after the case's dismissal.[19] Among the released records was the September 6, 2022 transcribed interview of former U.S. Senator [[david-perdue|David Perdue]], in which he alleged that [[georgia-bureau-of-investigation|GBI]] Director [[vic-reynolds|Vic Reynolds]] declined to investigate [[ballot-harvesting|ballot harvesting]] evidence at the direction of Governor [[brian-kemp|Brian Kemp]].[19]
 
 19. Badlands Brief — "Grand Jury Testimony From Senator David Perdue Suggests Gov. Brian Kemp Halted Investigation Into 2020 Election", URL: https://badlands.substack.com/p/grand-jury-testimony-from-senator
+20. Badlands Media - "Trials, Tribulations & a Long Train of Abuses", URL: https://badlands.substack.com/p/trials-tribulations-and-a-long-train

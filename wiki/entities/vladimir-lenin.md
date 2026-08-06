@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [bolshevik, russia, language-warfare, communism, propaganda]
-sources: [raw/badlands-news-brief-743.md, raw/rainbow-color-revolution.md, raw/shadows-sovereigns-and-civil-wars.md]
+sources: [raw/badlands-news-brief-743.md, raw/rainbow-color-revolution.md, raw/shadows-sovereigns-and-civil-wars.md, raw/the-us-department-of-re-education.md]
 confidence: medium
 ---
 
@@ -45,3 +45,9 @@ A further conflict concerned Russia's participation in the First World War: Leni
 Upon taking charge of the economy, Lenin and Trotsky unleashed the [[new-economic-policy|New Economic Policy]], a wave of liberalization under which Western corporate powers bought up former national utilities for pennies on the dollar.[3] [[armand-hammer|Armand Hammer]] later recalled Lenin telling him, "We do not need doctors, we need businessmen… communism is not working, and we must change to a New Economic Policy."[3]
 
 3. Badlands Brief — "Shadows, Sovereigns and Civil Wars - Part 1", URL: https://badlands.substack.com/p/shadows-sovereigns-and-civil-wars
+
+## "One generation of youth"
+
+Badlands contributor [[erik-carlson|Erik Carlson]] quotes Lenin's remark, "Give me just one generation of youth, and I'll transform the whole world," in a January 2025 essay on the [[department-of-education|Department of Education]].[4] Carlson argues that although Lenin gave the line a positive twist, its real meaning is that capturing the minds of a single generation allows an adversary to destroy that generation without firing a weapon or dropping a bomb — the mechanism he attributes to the American federal education system and to [[critical-theory|Critical Theory]].[4]
+
+4. Badlands Brief — "The U.S. Department of Re-education", URL: https://badlands.substack.com/p/the-us-department-of-re-education

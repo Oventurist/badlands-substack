@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [middle-east, israel, iran, hamas, assassination, gaza-war]
-sources: [raw/cataclysmic-silence.md]
+sources: [raw/cataclysmic-silence.md, raw/who-controls-whom.md]
 confidence: medium
 ---
 
@@ -30,6 +30,13 @@ Israel did not publicly claim credit for the strike, though it did not deny it e
 
 DeLarme situated the assassination within a sequence of escalations following October 7: Israel's sustained response in Gaza, the deployment of American carrier strike groups into the Eastern Mediterranean to provide tactical support and deter Iran and its proxies, the outbreak of war in the Red Sea with the [[houthis|Houthis]], and [[hezbollah|Hezbollah]]'s readiness to strike Tel Aviv.[1] He warned that characterizations of Hezbollah as an insignificant force are highly misleading, as the group holds tens of thousands — if not hundreds of thousands — of missiles aimed at Israeli cities.[1]
 
+## Relation to the Mar-a-Lago meeting
+
+Badlands contributor [[erik-carlson|Erik Carlson]] noted that Israeli forces killed the Hamas leader in Iran five days after [[benjamin-netanyahu|Netanyahu]] met [[donald-trump|Donald Trump]] at [[mar-a-lago|Mar-a-Lago]], and asked whether the visit involved obtaining Trump's permission for the strike, whether Trump directed it, or whether it was a courtesy notification allowing Trump to prepare for the aftermath.[2] For Carlson the sequence supported his broader contention that Trump, not Netanyahu, was the dominant party in the relationship.[2]
+
+Carlson also questioned the standard justification for the killing — that it answered the [[majdal-shams-rocket-attack|Hezbollah rocket strike]] that killed twelve young people on an Israeli soccer field — observing that few readers witnessed the attack firsthand and that mass-casualty events have been staged before to justify subsequent action.[2] He declined to assert that the rocket attack did not happen, arguing only that the public lacks the facts to determine what occurred.[2]
+
 ## References
 
 1. Badlands Brief — "Cataclysmic Silence", URL: https://badlands.substack.com/p/cataclysmic-silence
+2. Badlands Brief — "Who Controls Whom?", URL: https://badlands.substack.com/p/who-controls-whom

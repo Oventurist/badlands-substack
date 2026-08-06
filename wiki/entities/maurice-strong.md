@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [environmentalism, canada, ontario-hydro, depopulation, green-agenda]
-sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-52f.md, raw/brics-vs-the-wef.md, raw/canadas-transition-to-collectivist.md, raw/defeating-the-depopulation-agenda.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-52f.md, raw/brics-vs-the-wef.md, raw/canadas-transition-to-collectivist.md, raw/defeating-the-depopulation-agenda.md, raw/the-rising-scourge-of-eco-terrorism.md]
 confidence: low
 ---
 
@@ -42,9 +42,16 @@ Strong also mentored a young [[klaus-schwab|Klaus Schwab]], co-founded the [[wor
 
 Strong was among the prominent members of the [[1001-nature-trust|1001 Club]] who were also members of the [[club-of-rome|Club of Rome]], and later became Vice President of the [[world-wildlife-fund|World Wildlife Fund]] under [[prince-philip|Prince Philip]]'s presidency.[5] In that post he replaced [[louis-mortimer-bloomfield|Louis Mortimer Bloomfield]], another 1001 Club member whom New Orleans District Attorney Jim Garrison identified as central to the Montreal-based assassination of [[john-f-kennedy|John F. Kennedy]] in 1963.[5] Strong also belonged to the network of Rhodes Scholars and Privy Councillors around [[alexander-king|Alexander King]], [[maurice-lamontagne|Maurice Lamontagne]], Michael Pitfield and Governor General Roland Michener that presided over the 1971 Montebello meeting launching the [[limits-to-growth|*Limits to Growth*]] project.[5]
 
+## Collapse of industrial civilization musings
+
+In a 1990 discussion of a novel he said he would like to write, Strong — then vice president of the [[world-wildlife-fund|World Wildlife Fund]] under [[prince-philip|Prince Philip]] and a co-founder of the [[world-economic-forum|World Economic Forum]] — mused: "What if a small group of world leaders were to conclude that the principal risk to the Earth comes from the actions of the rich countries?… So, in order to save the planet, the group decides: Isn't the only hope for the planet that the industrialized civilizations collapse? Isn't it our responsibility to bring that about?"[6]
+
+[[matthew-ehret|Matthew Ehret]] presents this alongside Prince Philip's 1981 remarks on population control and [[dennis-meadows|Dennis Meadows]]' 2022 comments as evidence that the Davos milieu shares the anti-industrial premises of [[eco-terrorism|eco-terrorists]] such as [[ted-kaczynski|Ted Kaczynski]].[6] Strong also created the [[united-nations-environment-programme|United Nations Environment Programme]], which in 1984 joined with the WWF-UK to create Television for the Environment, and founded the Earth Council Alliance in 1992 — bodies connected to [[extinction-rebellion|Extinction Rebellion]] patron [[anthony-st-john|Lord Anthony St John]].[6] He co-sponsored the [[club-of-rome|Club of Rome]]'s 1972 *Limits to Growth* report.[6]
+
 ## References
 1. Badlands Brief — "A Re-Alignment of World Systems", URL: https://badlands.substack.com/p/a-re-alignment-of-world-systems
 2. Badlands Brief — "Badlands News Brief: North American Trade Troubles & Unipartisan Panic", URL: https://badlands.substack.com/p/badlands-news-brief-52f
 3. Badlands Brief — "BRICS vs. The WEF", URL: https://badlands.substack.com/p/brics-vs-the-wef
 4. Badlands Brief — "Canada's Transition to Collectivist Green Dystopia", URL: https://badlands.substack.com/p/canadas-transition-to-collectivist
 5. Badlands Brief — "Defeating the Depopulation Agenda", URL: https://badlands.substack.com/p/defeating-the-depopulation-agenda
+6. Badlands Brief — "The Rising Scourge of Eco-Terrorism", URL: https://badlands.substack.com/p/the-rising-scourge-of-eco-terrorism

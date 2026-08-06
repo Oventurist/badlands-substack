@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, oversight, auditing, ukraine-aid]
-sources: [raw/badlands-news-brief-5b2.md, raw/badlands-news-brief-f18.md]
+sources: [raw/badlands-news-brief-5b2.md, raw/badlands-news-brief-f18.md, raw/trump-doctrine-peace-through-space.md]
 confidence: medium
 ---
 
@@ -26,6 +26,11 @@ In January 2025, as [[elon-musk|Elon Musk]]'s [[doge|Department of Government Ef
 
 Badlands commentator [[ashe-in-america|Ashe in America]] quoted the office's self-description as "an independent, non-partisan agency within the legislative branch that works for Congress" whose core mission is "to help Congress and federal agencies ensure that taxpayer dollars are spent effectively and efficiently," then asked how its staff still had jobs.[2] She argued that the GAO, established in 1921, had for 103 years done the exact opposite of that mission and, given its failure to achieve the objectives for which it was created, should sit the modernization effort out — "Actually, they should have been fired first."[2]
 
+## Trump Doctrine: Peace Through Space
+
+"[[trump-doctrine-peace-through-space|Trump Doctrine: Peace Through Space]]" quotes GAO audit language stating that it could not render an opinion on the 2010 consolidated financial statements of the federal government because of widespread material internal control weaknesses, significant uncertainties and other limitations, with the first noted obstacle being serious financial management problems at the [[department-of-defense|Department of Defense]] that made its financial statements unauditable.[3] The article uses this to argue that dollars flowing into the defense budget are extremely hard to track and that the more than $2.2 trillion [[donald-trump|Trump]] directed into the military could therefore have served undisclosed purposes.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Sovereign Alliance Comms and Tapwater Goblins", URL: https://badlands.substack.com/p/badlands-news-brief-5b2
 2. Badlands Brief — "Corruption, Mad Science & Colombian Defiance", URL: https://badlands.substack.com/p/badlands-news-brief-f18
+3. Badlands Brief — "Trump Doctrine: Peace Through Space", URL: https://badlands.substack.com/p/trump-doctrine-peace-through-space

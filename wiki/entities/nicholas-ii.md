@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, monarchy, bolshevik-revolution, history]
-sources: [raw/rainbow-color-revolution.md, raw/real-patriots-dont-think-like-hitler.md, raw/shadows-sovereigns-and-civil-wars.md]
+sources: [raw/rainbow-color-revolution.md, raw/real-patriots-dont-think-like-hitler.md, raw/shadows-sovereigns-and-civil-wars.md, raw/trump-putin-alaska-and-the-future.md]
 confidence: low
 ---
 
@@ -35,3 +35,8 @@ In 1905, following the sage advice of [[sergei-witte|Sergey Witte]], Czar Nichol
 That same year, however, Wall Street financier [[jacob-schiff|Jacob Schiff]] financed Japan's victory over Russia in the [[russo-japanese-war|Russo-Japanese War]], crippling the Russian state and military and opening the way to revolution.[3]
 
 3. Badlands Brief — "Shadows, Sovereigns and Civil Wars - Part 1", URL: https://badlands.substack.com/p/shadows-sovereigns-and-civil-wars
+4. Badlands Brief — "Trump, Putin, Alaska and the Future of Multipolarity", URL: https://badlands.substack.com/p/trump-putin-alaska-and-the-future
+
+## Bering Strait tunnel patronage
+
+In 1902 Nicholas II employed the French engineer [[loicq-de-lobel|Loicq de Lobel]], who predicted that through trains across the [[bering-strait-tunnel|Bering Strait]] would run within five or six years, promising "a fast trip in palace cars with every convenience."[4] In 1906 the czar, with Prime Minister [[sergei-witte|Sergei Witte]], sponsored American engineering surveys for the tunnel; [[matthew-ehret|Matthew Ehret]] writes that two early color revolutions and the murder of the czar put a stop to that trajectory.[4]

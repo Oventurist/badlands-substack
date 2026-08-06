@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [conspiracy, elites, banking]
-sources: [raw/1913.md, raw/ai-can-help-us-expose-the-nwo.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-we-being-distracted.md, raw/balance-necessary-for-control.md, raw/expand-your-thinking.md, raw/money-and-oil.md, raw/power-to-the-people.md, raw/q-is-our-best-fren.md, raw/the-great-purge-of-the-cabal-has.md, raw/the-media-is-the-enemy-of-the-people.md, raw/the-new-marshall-plan.md]
+sources: [raw/1913.md, raw/ai-can-help-us-expose-the-nwo.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-we-being-distracted.md, raw/balance-necessary-for-control.md, raw/expand-your-thinking.md, raw/money-and-oil.md, raw/power-to-the-people.md, raw/q-is-our-best-fren.md, raw/the-great-purge-of-the-cabal-has.md, raw/the-media-is-the-enemy-of-the-people.md, raw/the-new-marshall-plan.md, raw/the-road-without-struggle.md, raw/where-we-go-one-we-go-all.md]
 confidence: low
 ---
 
@@ -60,14 +60,6 @@ Writing in October 2022, Badlands Media contributor [[pepe-lives-matter|Pepe Liv
 
 Carlson holds that the [[marshall-plan|Marshall Plan]] served this project by consolidating power, creating NATO and filling offshore accounts with [[eurodollar|Eurodollars]], and that the Cabal attempted to run the same play again in Ukraine.[12] That attempt, he argues, is failing because too many people are awake, leaving the Cabal only able to shift funds offshore while the plan disintegrates.[12]
 
-## References
-1. Badlands Brief — "1913: The Year the Cabal Enslaved America", URL: https://badlands.substack.com/p/1913
-2. Badlands Brief — "AI Can Help Us Expose the NWO", URL: https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo
-3. Badlands Brief — "Are CBDCs The Path To Fear, or Freedom?", URL: https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom
-4. Badlands Brief — "Are We Being Distracted?", URL: https://badlands.substack.com/p/are-we-being-distracted
-5. Badlands Brief — "Balance, Necessary for Control", URL: https://badlands.substack.com/p/balance-necessary-for-control
-6. Badlands Brief — "Expand Your Thinking", URL: https://badlands.substack.com/p/expand-your-thinking
-
 ## Money and oil as the cabal's two weapons (November 2022)
 
 Joe Lange's essay "Money and Oil" frames the cabal as the true adversary in an unconventional global war, arguing that American Democrats are merely puppets and that the real fight is against their puppet masters, with the entire world at stake.[7] On this account the cabal has controlled most of the world for longer than most people realise by controlling the money supply, beginning with the [[rothschild-family|Rothschilds]], who are said to have controlled banks, then kings, and then most governments.[7]
@@ -105,3 +97,25 @@ Carlson presented the arrest of [[sean-combs|Sean "P Diddy" Combs]] as the begin
 
 11. Badlands Brief — "The Media is the Enemy of the People", URL: https://badlands.substack.com/p/the-media-is-the-enemy-of-the-people
 12. Badlands Brief — "The 'New' Marshall Plan", URL: https://badlands.substack.com/p/the-new-marshall-plan
+
+## Engineered exhaustion and manufactured division
+
+In "The Road Without Struggle" (February 28, 2023), [[erik-carlson|Erik Carlson]] characterised the Cabal as a system that conditions people to desire ease by making their lives deliberately exhausting, confusing and busy, so that they will accept the broad, paved road described in [[matthew-7-13|Matthew 7:13]] rather than the narrow one.[13] He argued that despite refrigerators, supermarkets, computers and high-speed internet, Americans have less free time and more stress than at any point in history, and that exhausted people neither push back against the system nor notice that they are enslaved by it.[13]
+
+Carlson described the Cabal as working both ends of the economic spectrum: a welfare state keeps those it regards as "human waste" occupied and content, while the working and middle classes are so consumed by the act of surviving that they cannot afford any drama in their lives.[13] Division is manufactured for the same purpose — he asserted that the system funded the [[black-panther-party|Black Panthers]] and the [[ku-klux-klan|Ku Klux Klan]] simultaneously and funds [[black-lives-matter|BLM]] and white supremacist groups today, because a populace full of fear and anger toward one another will not recognise the real enemy.[13]
+
+Alongside exhaustion and division, Carlson placed information control: propaganda and lies are made easy to access while truth is hidden, hard to find, and in some cases scrubbed from the records, with [[poisoning-the-well|poisoning the well]] deployed whenever suppression fails.[13] His conclusion was that the only hope is to destroy the system by refusing it — declining the easy paths, refusing to avoid confrontation, and pushing back wherever possible — since "when the 99.9% refuses to be ruled by the 0.1%, the game is over."[13]
+
+## Division as a control mechanism
+
+A February 2024 essay by [[erik-carlson|Erik Carlson]] argues that in order to maintain control the Cabal requires division between the people it considers peasants, and that fear is the greatest mind-control tool in its toolbox.[14] Carlson likens American polarisation to a Chinese finger trap: the harder the Left and Right pull in opposite directions, the tighter they are locked, which is exactly what the Cabal wants.[14] On this reading the Cabal elites who run the world — described as globalist, satanist elites who believe they know better than ordinary people how the world should be run — are the true enemy, rather than the sincerely misled vocal Left or the disengaged "lukewarm" on either side.[14] The Cabal exerts this influence largely through the [[mainstream-media|mainstream media]], which Carlson says is slowly killing the people who continue to defend it.[14] Refusing to fight one another and joining together, he concludes, is how the Cabal is defeated — the sentiment behind [[wwg1wga|"Where we go one, we go all"]].[14]
+
+## References
+1. Badlands Brief — "1913: The Year the Cabal Enslaved America", URL: https://badlands.substack.com/p/1913
+2. Badlands Brief — "AI Can Help Us Expose the NWO", URL: https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo
+3. Badlands Brief — "Are CBDCs The Path To Fear, or Freedom?", URL: https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom
+4. Badlands Brief — "Are We Being Distracted?", URL: https://badlands.substack.com/p/are-we-being-distracted
+5. Badlands Brief — "Balance, Necessary for Control", URL: https://badlands.substack.com/p/balance-necessary-for-control
+6. Badlands Brief — "Expand Your Thinking", URL: https://badlands.substack.com/p/expand-your-thinking
+13. Badlands Brief — "The Road Without Struggle", URL: https://badlands.substack.com/p/the-road-without-struggle
+14. Badlands Brief — "Where We Go One, We Go All", URL: https://badlands.substack.com/p/where-we-go-one-we-go-all

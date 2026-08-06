@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, wall-street, haiti, 1929-crash]
-sources: [raw/friends-in-high-places.md]
+sources: [raw/friends-in-high-places.md, raw/why-america-needs-to-break-wall-streets.md]
 confidence: low
 ---
 
@@ -18,3 +18,8 @@ The bank's securities practices under chairman [[charles-e-mitchell|Charles E. M
 
 ## References
 1. Badlands Brief — "Friends in High Places", URL: https://badlands.substack.com/p/friends-in-high-places
+2. Badlands Brief — "Why America Needs to Break Wall Street's Kneecaps", URL: https://badlands.substack.com/p/why-america-needs-to-break-wall-streets
+
+## Exposure by the Pecora Commission
+
+In his first two weeks as chief counsel, [[ferdinand-pecora|Ferdinand Pecora]] audited the books of major Wall Street banks and summoned National City's president [[charles-e-mitchell|Charles Mitchell]], described as pro-fascist and then preparing to advise [[benito-mussolini|Benito Mussolini]].[2] Mitchell admitted to short-selling his own bank's stock during the depression, scamming depositors with purchases of Cuban junk debt and avoiding taxes for years, and was forced to resign in shame.[2]

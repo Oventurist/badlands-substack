@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cia, oss, operation-gladio, intelligence]
-sources: [raw/operation-gladio-how-its-funded.md]
+sources: [raw/operation-gladio-how-its-funded.md, raw/war-pigs.md]
 confidence: medium
 ---
 
@@ -16,5 +16,12 @@ Dulles worked with [[claire-chennault]] and [[william-pawley]] to establish [[ch
 
 President Truman appointed Dulles as director of the [[cia]] while his brother [[john-foster-dulles]] served as Secretary of State, forging a tie between the agency and the [[state-department]] that the article argues still exists today.[1] A third sibling, [[eleanor-lansing-dulles]], worked in the State Department's Bureau of Intelligence and Research.[1] Dulles's role in the [[bay-of-pigs]] operation led Secretary of State [[dean-rusk]] to ask Eleanor to resign.[1]
 
+## Iran, the Kennedy assassination and the RFK Jr. critique
+
+"War Pigs" identifies Dulles as the CIA Director who initiated the Western-led military coup that destroyed Iranian democracy, arguing that much of Iran's aggression over the following half century flowed from that intervention.[2] The article adds that Dulles is widely believed to have had a hand in the 1963 assassination of President John F. Kennedy.[2]
+
+Badlands Media raised both points as a criticism of [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]], noting that despite being the assassinated president's nephew, Kennedy had failed to outwardly comprehend the origins of Iranian hostility while opposing renewal of the Iran nuclear deal.[2]
+
 ## References
 1. Badlands Brief — "Operation Gladio - How It's Funded", URL: https://badlands.substack.com/p/operation-gladio-how-its-funded
+2. Badlands Brief — "War Pigs", URL: https://badlands.substack.com/p/war-pigs

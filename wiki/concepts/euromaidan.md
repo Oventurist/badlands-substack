@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ukraine, 2014, coup, russia, donbass]
-sources: [raw/badlands-news-brief-561.md, raw/how-to-rent-a-riot-the-history-of.md, raw/rainbow-color-revolution.md, raw/signal-collapse.md]
+sources: [raw/badlands-news-brief-561.md, raw/how-to-rent-a-riot-the-history-of.md, raw/rainbow-color-revolution.md, raw/signal-collapse.md, raw/unmasking-the-military-industrial.md]
 confidence: medium
 ---
 
@@ -47,3 +47,13 @@ The June 26, 2025 Badlands essay "Signal Collapse" placed the Maidan events with
 The essay claimed that 46 biolabs in Ukraine were "mapped nodes" and "frequency cages" whose removal by Russia constituted "field realignment" rather than invasion or conquest, and that the targets were "symbols… codes… weapons hidden not in missile silos, but in research campuses and AI hubs and underground tunnels."[4] The ensuing global silence was interpreted as the marker of a completed maneuver in [[fifth-generation-warfare|fifth-generation warfare]], with the June 2025 strikes on Iran described as the mirror of the same operation.[4]
 
 4. Badlands Brief — "Signal Collapse", URL: https://badlands.substack.com/p/signal-collapse
+
+## Engineered revolution thesis (December 2024)
+
+A December 2024 Badlands Media analysis characterized the 2013–2014 Euromaidan protests as far from organic, arguing that Western-backed organizations exploited genuine public discontent to overthrow President [[viktor-yanukovych|Viktor Yanukovych]].[5] Yanukovych's refusal to sign an EU association agreement on 21 November 2013 provided the spark, but the fuel had been laid long before by NGOs including the [[national-endowment-for-democracy|National Endowment for Democracy]] and George Soros' [[open-society-foundations|Open Society Foundations]], which poured millions into "civil society" programs that trained activists, funded opposition media, and organized protests.[5]
+
+Two dates are singled out. Between 18 and 20 February 2014, the "sniper's massacre" on Kyiv's Maidan Square killed more than 50 people; initially blamed on Yanukovych's forces, leaked calls between Estonian Foreign Minister Urmas Paet and the EU's Catherine Ashton pointed instead toward opposition groups orchestrating the violence to delegitimize the government.[5] On 22 February 2014 Yanukovych fled Kyiv as his government collapsed, the culmination of what the article calls a coup, with [[victoria-nuland|Victoria Nuland]] caught on tape discussing plans to install [[arseniy-yatsenyuk|Arseniy Yatsenyuk]] as prime minister.[5]
+
+U.S. senators are described as architects of the chaos: in December 2013 [[john-mccain|John McCain]] stood alongside opposition leaders including [[vitali-klitschko|Vitali Klitschko]] in Kyiv to declare American support for regime change while meeting privately with groups linked to paramilitary factions, and in 2016 [[lindsey-graham|Lindsey Graham]] advocated lethal military aid to Ukraine on an anti-Russian premise that ignored [[nato]]'s eastward expansion as a provocation.[5]
+
+5. Badlands Media — "Unmasking the Military Industrial Complex", URL: https://badlands.substack.com/p/unmasking-the-military-industrial

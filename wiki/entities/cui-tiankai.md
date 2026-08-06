@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [china, diplomacy, us-china-relations, ambassador]
-sources: [raw/the-master-builder.md]
+sources: [raw/the-master-builder.md, raw/which-foreign-policy-play-for-the.md]
 confidence: medium
 ---
 
@@ -26,3 +26,9 @@ Joe Lange's article "The Master Builder" treats Cui's stated need for a private 
 
 ## References
 1. Badlands Media — "The Master Builder", URL: https://badlands.substack.com/p/the-master-builder
+
+## Call for renewed US–China cooperation
+
+[[matthew-ehret|Matthew Ehret]] cites Cui, China's former Ambassador to Washington, as having acknowledged the threat of a world war between China and the United States while taking the high road and calling for reasonable dialogue: "China and the USA need to recapture the spirit of cooperation from WWII and join hands to confront our common enemies in the new era."[2] In the same speech Cui echoed [[donald-trump|Trump]]'s references to [[abraham-lincoln|Abraham Lincoln]] by quoting the martyred president's line that "the best way to predict the future is to create it."[2]
+
+2. Badlands Brief — "Which Foreign Policy Play for the USA?", URL: https://badlands.substack.com/p/which-foreign-policy-play-for-the

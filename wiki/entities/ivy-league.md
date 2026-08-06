@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [education, universities, elite-institutions]
-sources: [raw/the-ivy-dominion.md]
+sources: [raw/the-ivy-dominion.md, raw/wilted-ivy.md]
 confidence: low
 ---
 
@@ -28,3 +28,11 @@ By 2025 the article describes the Ivy League as losing not only prestige but leg
 
 ## References
 1. Badlands Brief — "The Ivy Dominion", URL: https://badlands.substack.com/p/the-ivy-dominion
+
+## "Wilted Ivy" (2025)
+
+Badlands Media's May 2025 essay "Wilted Ivy" characterizes the Ivy League as "more than a network of educational institutions," describing it instead as a training ground for a managerial class "loyal not necessarily to truth, but to the continuity of a particular global framework of power."[2] The article points to alumni concentrations among Wall Street executives, media figures, pharmaceutical leaders and intelligence operatives as evidence that these were "not accidental patterns" but a cultivated system.[2]
+
+Citing [[carroll-quigley|Carroll Quigley]]'s [[tragedy-and-hope|Tragedy and Hope]], the essay argues the Ivy League reinforced an orthodoxy of narratives, institutions and credentialed experts, so that graduation functioned as "credentialing for access into the upper tiers of an increasingly globalized control system" rather than as evidence of critical thinking.[2] It notes [[yale-university|Yale]]'s fostering of [[skull-and-bones|Skull and Bones]] and [[harvard-university|Harvard]]'s production of policymakers and lawyers as illustrations.[2] The article further contends that the [[blackrock|Big Three]] asset managers embedded themselves in the core funding structures of Ivy League endowments, so that "the same firms controlling Wall Street also controlled the liquidity of the universities producing the next generation of leaders."[2] By 2023-2024 it reports Ivy League universities hemorrhaging donors alongside Harvard's leadership collapse, and predicts the same blueprint of legal entrapment, public exposure, financial isolation and controlled asset recovery will be deployed against other universities, think tanks, foundations, legacy media networks and NGOs.[2]
+
+2. Badlands Brief — "Wilted Ivy", URL: https://badlands.substack.com/p/wilted-ivy

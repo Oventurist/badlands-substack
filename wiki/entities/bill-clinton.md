@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [presidency, bin-laden, memorandum-of-notification, china, scandals]
-sources: [raw/a-dereliction-of-duty.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/badlands-brief-314.md, raw/badlands-brief-40d.md, raw/badlands-brief-52f.md, raw/badlands-brief-b74.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-f54.md, raw/q-for-dummies-chapter-12.md, raw/q-for-dummies-chapter-5.md, raw/the-biggest-cover-up-in-american.md, raw/the-biggest-boomerang-in-history.md]
+sources: [raw/a-dereliction-of-duty.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/badlands-brief-314.md, raw/badlands-brief-40d.md, raw/badlands-brief-52f.md, raw/badlands-brief-b74.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-f54.md, raw/q-for-dummies-chapter-12.md, raw/q-for-dummies-chapter-5.md, raw/the-biggest-cover-up-in-american.md, raw/the-biggest-boomerang-in-history.md, raw/whos-the-u-boat-commander.md]
 confidence: medium
 ---
 
@@ -151,3 +151,9 @@ In "The Biggest Cover-up in American History," [[joe-lange|Joe Lange]] restates 
 Separately, Breitbart reporting cited in the article records that the American Chamber of Commerce in Egypt, of which [[lockheed-martin|Lockheed Martin]] is a member, paid Clinton $250,000 for a speech in 2010 — the same year Lockheed joined the Clinton Global Initiative and won 17 contract approvals from Hillary Clinton's [[state-department|State Department]].[18] These claims reflect Badlands Media interpretation rather than established fact.
 
 18. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history
+
+## Mentions in the U-Boat Commander feature (January 2024)
+
+A January 2024 Badlands feature by [[erik-carlson|Erik Carlson]] described Clinton and his vice president [[al-gore|Al Gore]] as both allegedly connected to [[jeffrey-epstein|Jeffrey Epstein]], and pointed to Gore's role as the face of climate change advocacy during the period Carlson dates the Epstein blackmail operation.[19] Carlson separately noted how closely [[joe-biden|Joe Biden]] worked with Clinton in pushing forward the [[crime-bill-1994|1994 Crime Bill]], the same year Biden associate [[scott-green|Scott Green]] founded the [[lafayette-group|Lafayette Group]], a firm positioned to benefit from the legislation.[19]
+
+19. Badlands Brief — "Who's the U-Boat Commander?", URL: https://badlands.substack.com/p/whos-the-u-boat-commander

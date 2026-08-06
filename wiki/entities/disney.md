@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [corporations, media, americana, boycotts]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-brief-0a2.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-3c1.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-a3b.md, raw/has-trumps-whole-life-been-a-sting.md, raw/no-honor-among-thieves.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-brief-0a2.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-3c1.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-a3b.md, raw/has-trumps-whole-life-been-a-sting.md, raw/no-honor-among-thieves.md, raw/the-stock-market-isnt-the-economy.md, raw/wilted-ivy.md]
 confidence: medium
 ---
 
@@ -97,3 +97,15 @@ A June 15, 2024 Badlands feature by [[erik-carlson|Erik Carlson]] noted that bil
 Badlands contributor [[erik-carlson|Erik Carlson]] cited Disney as the leading example of shareholders using the annual [[shareholder-proxy-voting|proxy vote]] to push back against woke corporate policy.[12] Investors attempted what he called a mutiny, seeking to seat directors focused on growing the share price and potentially to remove chief executive [[bob-iger|Bob Iger]].[12] Carlson attributed Disney's performance to its [[diversity-equity-and-inclusion|DEI]]-driven policies, noting the stock was down 15% from its level five years earlier while the S&P 500 had risen 74% over the same period.[12]
 
 12. Badlands Brief — "No Honor Among Thieves", URL: https://badlands.substack.com/p/no-honor-among-thieves
+
+## 2023 layoffs and the stock reaction
+
+In February 2023, Badlands contributor [[erik-carlson|Erik Carlson]] cited Disney's announcement that it was laying off 7,000 employees, after which its stock rose 6% in after-hours trading.[13] Carlson argued the market's positive reaction was not a sign of an improving economy but evidence that the company was cutting costs in anticipation of a rougher economic period, and he used the episode as a case study in why headline [[unemployment-statistics|unemployment statistics]] and share-price moves can diverge from real economic conditions.[13]
+
+13. Badlands Brief — "The Stock Market Isn't the Economy", URL: https://badlands.substack.com/p/the-stock-market-isnt-the-economy
+
+## Cited in "Wilted Ivy"
+
+Badlands Media's May 2025 essay "Wilted Ivy" cites Disney twice: as an empire facing "collapse-level layoffs and revenue losses," and as an example of "cultural unraveling under DEI entrenchment."[14] The article places Disney alongside [[bud-light|Bud Light]]'s marketing catastrophe and [[target|Target]]'s ESG-driven backlash as public failures signaling that the [[blackrock|Big Three]] asset managers were losing their grip over culture "not by choice, but by exposure."[14]
+
+14. Badlands Brief — "Wilted Ivy", URL: https://badlands.substack.com/p/wilted-ivy

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [propaganda, information-warfare, state-department, media, legislation]
-sources: [raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-c4f.md, raw/four-pillars-of-government-control.md, raw/q-for-dummies-chapter-21.md, raw/the-hitler-or-obama-youth.md]
+sources: [raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-c4f.md, raw/four-pillars-of-government-control.md, raw/q-for-dummies-chapter-21.md, raw/the-hitler-or-obama-youth.md, raw/the-smith-mundt-act.md, raw/the-tavistock-institute.md]
 confidence: medium
 ---
 
@@ -75,3 +75,23 @@ Badlands contributor [[erik-carlson|Erik Carlson]] framed the repeal as the pivo
 He noted that the Act was put in place in 1948 because the government had seen during the war how effective propaganda could be — to the point that people still believe US military-created wartime propaganda to be true — and feared that in the hands of the "wrong" people the same tool could mislead and control Americans at home.[8] Carlson cited a 2023 [[gallup|Gallup]] poll finding 20.8% of Generation Z identifying as LGBTQ+ against 2.6% of Boomers, and 2.1% of Gen Z as transgender against 0.1% of Boomers, as evidence of change too rapid to be organic and therefore attributable to the post-repeal information environment.[8] The argument forms the legal predicate of his broader [[obama-youth|Obama Youth]] thesis, which likens the resulting indoctrination of American young people to that of the [[hitler-youth|Hitler Youth]].[8]
 
 8. Badlands Brief — "The Hitler ... or Obama Youth", URL: https://badlands.substack.com/p/the-hitler-or-obama-youth
+
+## Carlson's dedicated treatment (March 2025)
+
+In a March 11, 2025 essay titled "The Smith-Mundt Act," subtitled "Psyops Go Both Ways," Badlands contributor [[erik-carlson|Erik Carlson]] set out the statute's history in detail.[9] He cited the formal description of the U.S. Information and Educational Exchange Act of 1948 (Public Law 80-402), first introduced by Congressman [[karl-mundt|Karl E. Mundt]] (R-SD) in January 1945 in the 79th Congress, passed by the 80th Congress and signed into law by President [[harry-truman|Harry S. Truman]] on January 27, 1948.[9] The Act regulated broadcasting of programs for foreign audiences produced under the guidance of the [[state-department|State Department]] and prohibited domestic dissemination of materials produced by such programs.[9]
+
+Carlson traced the law's origin to the Second World War, when the United States operated an open domestic propaganda agency, the [[office-of-war-information|Office of War Information]], and a military [[psychological-operations|psychological operations]] capability.[9] After the war it was determined that such tools should continue to be used against foreign enemies or potential enemies but never on the American people themselves.[9] He noted that for the 64 years between 1948 and 2012 it was illegal for the government to propagandise its own citizens, while adding that this did not mean it stopped happening — through [[operation-mockingbird|Operation Mockingbird]] the [[cia|CIA]] never ceased controlling and propagandising Americans through all forms of media.[9] The restriction was lifted by the [[smith-mundt-modernization-act-of-2012|Smith-Mundt Modernization Act of 2012]].[9]
+
+### "Psyops go both ways"
+
+Carlson's central puzzle is why [[donald-trump|Donald Trump]] did not reinstate the 1948 restrictions on January 20, 2017, during his four years in office, or in the first month of his second term.[9] His answer is that Trump wanted propaganda available — in this case to break the media's hold on the public and to take down the [[deep-state|Deep State]].[9] Allowing propaganda, he wrote, painted the media and the Deep State into a corner and amounted to giving an enemy enough rope to hang itself; had the Act been restored in 2017, the media's lies would have become subtler and more believable.[9] He also argued that a [[devolution|Continuity of Government]] arrangement overseeing the [[joe-biden|Biden]] administration required propaganda to be legal so that the administration could masquerade as being in control.[9]
+
+Carlson predicted that the Smith-Mundt Act will not be re-enacted until the mission is complete and propaganda is no longer needed, and that its restoration will be the signal that most Americans are awake and "the game is over."[9]
+
+9. Badlands Brief — "The Smith-Mundt Act", URL: https://badlands.substack.com/p/the-smith-mundt-act
+
+## Repeal and the transgender narrative (Carlson, 2024)
+
+In "The Tavistock Institute," [[erik-carlson|Erik Carlson]] notes that at the end of 2012 Obama repealed the Smith-Mundt Act of 1948, allowing propaganda against Americans to become legal again.[10] He argues that immediately following the repeal, transgender bathrooms became a hot topic in the United States, and that it was at this moment that the transgender narrative was dropped on America to divide and confuse it.[10] He connects the timing to the [[gender-and-identity-development-service|Gender and Identity Development Service]] at [[tavistock-clinic|Tavistock]], where almost all of the 19,000 child gender cases occurred between 2012 and the clinic’s closure in 2022.[10]
+
+10. Badlands Brief — "The Tavistock Institute", URL: https://badlands.substack.com/p/the-tavistock-institute

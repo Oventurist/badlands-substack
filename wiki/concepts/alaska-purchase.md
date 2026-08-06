@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [alaska, russia, united-states, 1867, diplomacy]
-sources: [raw/how-canada-was-created-to-block-us.md]
+sources: [raw/how-canada-was-created-to-block-us.md, raw/trump-putin-alaska-and-the-future.md]
 confidence: medium
 ---
 
@@ -26,3 +26,8 @@ The purchase made the isolated colony of [[british-columbia|British Columbia]] s
 
 ## References
 1. Badlands Brief — "How Canada Was Created to Block US-Russian Cooperation", URL: https://badlands.substack.com/p/how-canada-was-created-to-block-us
+2. Badlands Brief — "Trump, Putin, Alaska and the Future of Multipolarity", URL: https://badlands.substack.com/p/trump-putin-alaska-and-the-future
+
+## Symbolism at the 2025 Alaska summit
+
+In August 2025 [[matthew-ehret|Matthew Ehret]] argued that the choice of Alaska as the venue for the [[2025-trump-putin-alaska-summit|Trump–Putin meeting]] carried major symbolic value for those who know their history, since Russia's 1867 sale of Alaska to the USA "had everything to do with a special US-Russia relationship that saved the Union during the Civil War."[2] He described the same period as one that nearly saw America's new transcontinental railway extended across [[british-columbia|British Columbia]], Alaska and onward to the new [[trans-siberian-railway|Trans-Siberian Railway]], a trajectory he links to the [[bering-strait-tunnel|Bering Strait Tunnel]] corridor first proposed by [[abraham-lincoln|Abraham Lincoln]] in 1864.[2]

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [jfk-jr, new-york, senate, 1999]
-sources: [raw/a-conflict-of-interest.md, raw/a-mysterious-masterclass-in-multi.md, raw/has-trumps-whole-life-been-a-sting.md, raw/heroes-of-the-great-awakening.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-mysterious-masterclass-in-multi.md, raw/has-trumps-whole-life-been-a-sting.md, raw/heroes-of-the-great-awakening.md, raw/the-werewolf-game-a-new-class-of.md]
 confidence: low
 ---
 
@@ -39,3 +39,9 @@ A June 15, 2024 feature by [[erik-carlson|Erik Carlson]] set the crash against t
 
 3. Badlands Brief — "Has Trump's Whole Life Been a Sting Operation?", URL: https://badlands.substack.com/p/has-trumps-whole-life-been-a-sting
 4. Badlands Brief — "Heroes of the Great Awakening", URL: https://badlands.substack.com/p/heroes-of-the-great-awakening
+
+## The Werewolf Game series
+
+[[american-hypnotist|American Hypnotist]]'s [[the-werewolf-game|Werewolf Game]] series lists the 1999 crash that killed JFK Jr. and Carolyn Kennedy in the ocean among the deaths comprising the [[kennedy-curse|"Kennedy Curse"]].[5] The same article states that JFK Jr. and [[donald-trump|Donald Trump]] were famous friends and that JFK Jr. is reported to have told Trump to run for office, a claim it uses as part of the broader [[trump-kennedy-connection|Trump-Kennedy connection]].[5]
+
+5. Badlands Media — "The Werewolf Game - A New Class of Elites", URL: https://badlands.substack.com/p/the-werewolf-game-a-new-class-of

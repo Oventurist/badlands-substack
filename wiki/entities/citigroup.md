@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, finance, argentina, wall-street, haiti, bailouts]
-sources: [raw/badlands-news-brief-021.md, raw/friends-in-high-places.md, raw/follow-the-money.md, raw/the-bank-of-crooks-and-criminals.md]
+sources: [raw/badlands-news-brief-021.md, raw/friends-in-high-places.md, raw/follow-the-money.md, raw/the-bank-of-crooks-and-criminals.md, raw/we-are-watching-a-movie.md]
 confidence: low
 ---
 
@@ -35,3 +35,9 @@ Reporting by the media watchdog FAIR, cited by Badlands contributor Joe Lange, s
 2. Badlands Brief — "Friends in High Places", URL: https://badlands.substack.com/p/friends-in-high-places
 3. Badlands Brief — "Follow The Money: The CIA is the World's Filthiest Laundromat", URL: https://badlands.substack.com/p/follow-the-money
 4. Badlands Brief — "The Bank of Crooks And Criminals", URL: https://badlands.substack.com/p/the-bank-of-crooks-and-criminals
+
+## Alwaleed's stake
+
+"We Are Watching a Movie" identifies [[alwaleed-bin-talal|Prince Alwaleed bin Talal]] as one of the largest shareholders in Citigroup, citing a 2013 *Vanity Fair* profile that placed the holding alongside his position as second-largest voting shareholder in [[news-corp|News Corporation]] and major stakes in dozens of other Western companies.[5] [[joe-lange|Joe Lange]] describes Citigroup as "the most corrupt bank in America" and pairs it with News Corp as the two most politically connected companies in the country, both of which he says the prince effectively controlled.[5] He refers readers to his earlier articles "The Battle For Control" and "Friends In High Places" for the bank's history, maintaining that it has always been the most corrupt and politically connected bank in America.[5] These claims reflect Badlands Media interpretation rather than established fact.
+
+5. Badlands Brief - "We Are Watching a Movie", URL: https://badlands.substack.com/p/we-are-watching-a-movie

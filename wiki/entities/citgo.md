@@ -1,10 +1,10 @@
 ---
-title: Citgo
+title: "Citgo"
 created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [energy, oil, venezuela, sanctions]
-sources: [raw/badlands-news-brief-763.md, raw/badlands-news-brief-cad.md]
+sources: [raw/badlands-news-brief-763.md, raw/badlands-news-brief-cad.md, raw/the-venezuelan-squeeze.md]
 confidence: medium
 ---
 
@@ -34,3 +34,10 @@ Citgo is owned by [[pdvsa|PDVSA]], the Venezuelan state oil company — or was, 
 
 1. Badlands Brief — "Badlands News Brief: The Ice Maiden, A Command Overhaul, & A Thrice Jewish President", URL: https://badlands.substack.com/p/badlands-news-brief-763
 2. Badlands Brief — "A Christmas Bonus, War “With” Venezuela, & Prime Time Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-cad
+3. Badlands Media — "The Venezuelan Squeeze", URL: https://badlands.substack.com/p/the-venezuelan-squeeze
+
+## The 2019 asset freeze
+
+Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] identifies Citgo as the pivot of the 2019 sanctions escalation: the [[us-department-of-the-treasury|Treasury Department]] froze $7 billion in Citgo assets — the U.S. refining subsidiary of [[pdvsa|PDVSA]] — and handed control to the shadow government of [[juan-guaido|Juan Guaidó]].[3] He describes the freeze as one act in a broader campaign that also included the burned "humanitarian aid" convoy of February 2019 and the failed [[operation-gideon|Operation Gideon]] landing of May 2020.[3]
+
+While Guaidó's interim government controlled diplomatic recognition and the frozen Citgo revenues, [[nicolas-maduro|Maduro]] retained control of the guns, gold and gas inside [[venezuela|Venezuela]], insulated by Chinese debt restructuring and Russian military refinancing.[3]

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [elections, congress, senate, russiagate, q]
-sources: [raw/shall-we-play-a-game.md]
+sources: [raw/shall-we-play-a-game.md, raw/timing-is-everything.md]
 confidence: medium
 ---
 
@@ -24,3 +24,11 @@ The article repeatedly returns to a device it labels "GAME THEORY," a series of 
 
 ## References
 1. Badlands Brief — "Shall We Play a Game?", URL: https://badlands.substack.com/p/shall-we-play-a-game
+
+## Military election-security role
+
+Badlands Media contributor [[joe-lange|Joe Lange]] cited the 2018 cycle as the point at which the United States military became publicly involved in safeguarding American elections. He quoted a Foreign Affairs report stating that an effort to undermine the 2018 midterms had been disrupted, according to [[paul-nakasone|Paul Nakasone]], director of the [[national-security-agency|National Security Agency]], and Michael Sulmeyer, senior adviser to the commander of [[us-cyber-command|U.S. Cyber Command]], who said the two organisations had worked together "to protect against meddling in the 2018 midterm elections."[2]
+
+Lange also noted that a [[qanon|Q]] post giving actual vote counts from the 2018 midterms did so for only a single county in the entire country — [[maricopa-county|Maricopa County]], Arizona — with exact vote totals, which he treated as an early signal that Arizona would be the focus of the eventual exposure of election fraud.[2]
+
+2. Badlands Brief — "Timing Is Everything", URL: https://badlands.substack.com/p/timing-is-everything

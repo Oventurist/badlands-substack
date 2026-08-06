@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [canada, british-empire, annexation, confederation, railroads]
-sources: [raw/how-canada-was-created-to-block-us.md]
+sources: [raw/how-canada-was-created-to-block-us.md, raw/trump-putin-alaska-and-the-future.md]
 confidence: medium
 ---
 
@@ -28,3 +28,8 @@ Ottawa negotiations began on 7 June 1870 and settled nearly all clauses within w
 
 ## References
 1. Badlands Brief — "How Canada Was Created to Block US-Russian Cooperation", URL: https://badlands.substack.com/p/how-canada-was-created-to-block-us
+2. Badlands Brief — "Trump, Putin, Alaska and the Future of Multipolarity", URL: https://badlands.substack.com/p/trump-putin-alaska-and-the-future
+
+## Rail development and the northern gap
+
+[[matthew-ehret|Matthew Ehret]] writes that anyone travelling by rail north from the United States can reach only as far as British Columbia, since a 1,000 km gap separates all existing track from Alaska, with the northernmost line ending at Dease Lake — built over fifty years ago under Premier [[wac-bennett|W.A.C. Bennett]] and long derided as "the railway to nowhere."[2] Bennett, premier from 1952 to 1972, fought to make the province more than the colonial underdeveloped region its British rulers had condemned it to be, nationalizing BC Power Corporation and creating the Bank of British Columbia after clashes with Ottawa technocrats over the [[columbia-river-treaty|Columbia River Treaty]].[2] Alaska–British Columbia–Yukon conferences in the 1960s advanced his plan to link the provincial rail system to Alaska's, a connection Ehret ties to the [[alaska-canada-railway|Alaska-Canada Railway]] and the [[bering-strait-tunnel|Bering Strait]] corridor.[2]

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, talk-radio, conservative-commentary]
-sources: [raw/irregular-warfare.md]
+sources: [raw/irregular-warfare.md, raw/the-transition-integrity-project.md]
 confidence: medium
 ---
 
@@ -18,5 +18,11 @@ The article quotes a March 2018 segment in which Limbaugh explains that Justice 
 
 In a second quoted segment, Limbaugh lays out Rosenstein's Clinton entanglements: his service on the [[whitewater-controversy|Whitewater]] prosecution team, his role in the White House travel office FBI files case, and his wife [[lisa-barsoomian|Lisa Barsoomian]]'s representation of [[bill-clinton|Bill Clinton]] in a 1998–99 federal civil case shortly after Rosenstein cleared [[hillary-clinton|Hillary Clinton]].[1] Lange describes Limbaugh as "right" on both points and uses the commentary as the backbone of his argument that the Special Counsel appointment was a planned "witch hunt."[1]
 
+## Transition Integrity Project scenario
+
+Among the predictions produced by the [[transition-integrity-project|Transition Integrity Project]]'s 2020 election war games was that, in the event of a Trump loss, conservative commentators such as Limbaugh would attempt to tie [[joe-biden|Joe Biden]] to China.[2] Badlands Media contributor [[erik-carlson|Erik Carlson]] notes that essentially none of TIP's detailed forecasts about how Trump and his media allies would behave came to pass.[2]
+
 ## References
 1. Badlands Brief — "Irregular Warfare", URL: https://badlands.substack.com/p/irregular-warfare
+
+2. Badlands Brief — "The Transition Integrity Project", URL: https://badlands.substack.com/p/the-transition-integrity-project

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [arizona, elections, republican-party, election-integrity]
-sources: [raw/an-sos-from-ground-zero.md, raw/arizona-earthquake.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-862.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-e86.md, raw/inside-the-modern-elections-casino.md, raw/operation-wake-up-america-20.md, raw/thats-not-signature-verification.md]
+sources: [raw/an-sos-from-ground-zero.md, raw/arizona-earthquake.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-862.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-e86.md, raw/inside-the-modern-elections-casino.md, raw/operation-wake-up-america-20.md, raw/thats-not-signature-verification.md, raw/the-war-of-stories.md, raw/timing-is-everything.md, raw/watch-the-water.md, raw/whats-taking-so-long.md]
 confidence: medium
 ---
 
@@ -127,3 +127,37 @@ Gillespie predicted that Lake would contest the 2022 election but that a corrupt
 
 14. Badlands Media — "Operation Wake Up America 2.0", URL: https://badlands.substack.com/p/operation-wake-up-america-20
 15. Badlands Brief — "That's Not Signature Verification, Your Honor", URL: https://badlands.substack.com/p/thats-not-signature-verification
+
+## Target of narrative deployments (December 2022)
+
+In "The War of Stories" (December 30, 2022), [[burning-bright|Burning Bright]] named Lake among the public figures — alongside [[donald-trump|Donald Trump]], [[elon-musk|Elon Musk]], [[vladimir-putin|Vladimir Putin]], [[viktor-orban|Viktor Orbán]] and [[jair-bolsonaro|Jair Bolsonaro]] — against whom the [[media-industrial-complex|Media Industrial Complex]] had launched false and misleading [[narrative-deployment|Narrative Deployments]] because they "don't quite 'fit in'" to the framework globalist interests would impose on the world.[16] He argued that patriots counter such deployments with evidence-based exposures, an asymmetry he termed the [[reverse-hegelian-dialectic|Reverse Hegelian Dialectic]].[16]
+
+16. Badlands Brief — "The War of Stories", URL: https://badlands.substack.com/p/the-war-of-stories
+
+## "Timing Is Everything" (November 2022)
+
+In a November 25, 2022 Badlands Media essay, contributor [[joe-lange|Joe Lange]] cast Lake as the pivotal figure in what he described as a deliberately timed exposure of election fraud centred on Arizona, asking whether a better candidate could have been chosen to run for governor "in the one state that could be the catalyst and the first domino to expose it all."[17] He praised her as "absolutely fearless" and argued that her years working in the media meant she understood exactly how the press operated and was fully prepared for its treatment of her.[17]
+
+Lange contended that, other than [[donald-trump|Donald Trump]], no one in the country had been more vocal about fraud in the 2020 election, and that Lake refused to back away from the subject even as she was labelled an "election denier" — a label she "wore like a badge of honor" while vowing to get to the bottom of election fraud in Arizona and especially in [[maricopa-county|Maricopa County]] if elected.[17] Because she had promised to expose the fraud and, as governor, would have gained the added power to prosecute, Lange argued that her opponents could not allow her to win and were therefore "forced to go all in on the steal, which is exactly what we wanted them to do."[17]
+
+He predicted Lake would not concede, describing her as "a major chess piece on the board" who was now making her move, and envisioned a division of labour in which Attorney General [[mark-brnovich|Mark Brnovich]] and the Election Integrity Unit prosecuted while Lake acted as "a bullhorn for the public on election fraud."[17]
+
+17. Badlands Brief — "Timing Is Everything", URL: https://badlands.substack.com/p/timing-is-everything
+
+## Stated Day One priorities (2022)
+
+During the 2022 campaign Lake said repeatedly that her first act as governor would be to "declare an invasion" at Arizona's border with Mexico.[18] Appearing on CBS's *Face the Nation* in early October 2022, she argued that Article 4, Section 4 of the Constitution obliges the federal government to protect states from invasion, that under [[joe-biden|Joe Biden]] it was not doing so, and that Arizona would therefore invoke its Article 1, Section 10 authority to defend its own border.[18] She said the cartels and "narco-terrorist groups" had operational control of the border and were using Arizona to smuggle people, traffic children and traffic [[fentanyl-crisis|fentanyl]], asserted that all three constitutional criteria — invasion, imminent danger and urgency — were met, and said a couple of other governors had already offered help.[18]
+
+After the chaos of the [[2022-arizona-general-election|2022 general election]], election reform joined the border as a Day One priority.[18] Interviewed by [[tucker-carlson|Tucker Carlson]] on the night of November 9, 2022, Lake said she was "not shocked at all" by the breakdown in [[maricopa-county|Maricopa County]], noting that she had been labelled an "election denier" for raising alarms about the November 3, 2020 election and that the same problems had recurred in the August 2 primary.[18] She pledged that on Day One she would take her hand off the Bible, issue a declaration of invasion, and convene the legislature in special session to make Arizona elections "fair, honest, and transparent," get rid of unreliable machines, and replace an extended "election season" with a single election day using paper ballots counted in the precinct.[18]
+
+Writing on November 11, 2022, [[kitty-gillespie|Kitty Gillespie]] argued that Lake would win — "It's not IF; IT'S WHEN" — citing Lake's statement that she was already meeting with her transition team, and claimed Arizonans had backed her at roughly a 3-to-1 rate.[18] Gillespie proposed that Lake's "unspoken top priority" was to be "the key that will unlock the fraud of the 2020 election," predicting that soon after being sworn in in January she would use her megaphone to reopen and reframe the debate over the 2020 result, with Arizona "the first of MANY dominoes to fall."[18] Gillespie also read the Q phrase "[[watch-the-water|watch the water]]" as a reference to Lake's surname.[18] Gillespie noted that neither Lake nor [[donald-trump|Donald J. Trump]] had given up on reconciling the 2020 election, mentioning it in almost every speech.[18]
+
+18. Badlands Media — "Watch the Water", URL: https://badlands.substack.com/p/watch-the-water
+
+## Lange's reassessment of the lawsuit (December 2022)
+
+A month after casting Lake as the likely catalyst, [[joe-lange|Joe Lange]] revised his view in "What's Taking So Long?" (December 28, 2022), writing that although he had thought her lawsuit would be the vehicle to expose and overturn the election, he might be wrong.[19] He said he had read the judge's ruling and found it sound, and that unless Lake's appeal restored the other eight counts and produced more evidence, he did not expect the election to be overturned.[19] He added that the burden of proof to overturn an election is purposely set extraordinarily high, "as it should be," citing a federal district court case making the same point.[19]
+
+In Lange's assessment Lake did not possess the evidence required, because the evidence he believed necessary — relating to voting machines and national security — was held only by the military.[19] He therefore returned to his pre-midterm position that the matter was not an election challenge but a question of prosecutions, with [[eugene-yu|Eugene Yu]] as the keystone.[19]
+
+19. Badlands Brief — "What's Taking So Long?", URL: https://badlands.substack.com/p/whats-taking-so-long

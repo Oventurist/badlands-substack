@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, wall-street, council-on-foreign-relations, history]
-sources: [raw/the-men-behind-the-curtain-part-1.md]
+sources: [raw/the-men-behind-the-curtain-part-1.md, raw/why-america-needs-to-break-wall-streets.md]
 confidence: medium
 ---
 
@@ -18,3 +18,8 @@ The same financial circle is described as having been intimately involved with b
 
 ## References
 1. Badlands Brief — "The Men Behind the Curtain - Part 1", URL: https://badlands.substack.com/p/the-men-behind-the-curtain-part-1
+2. Badlands Brief — "Why America Needs to Break Wall Street's Kneecaps", URL: https://badlands.substack.com/p/why-america-needs-to-break-wall-streets
+
+## Target of the Pecora hearings
+
+[[franklin-d-roosevelt|Franklin Roosevelt]] encouraged [[ferdinand-pecora|Ferdinand Pecora]] to take on John Pierpont Morgan Jr. before the [[senate-committee-on-banking-and-currency|Senate Committee on Banking and Currency]].[2] [[matthew-ehret|Matthew Ehret]] argues that, rather than controlling a purely American institution as many believed, Morgan Jr. was running an operation created in the mid-19th century as part of a British infiltration of America — the [[house-of-morgan|House of Morgan]], which by 1933 had grown into "a multi-headed hydra, controlling utilities, holding companies, banks and countless other subsidiaries."[2] Ehret groups him with the "financial gremlins" whose exposure allowed the American population to make sense of the injustices that befell them after 1929.[2]

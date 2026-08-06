@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [literature, culture-war, censorship]
-sources: [raw/badlands-news-brief-d45.md]
+sources: [raw/badlands-news-brief-d45.md, raw/who-are-the-true-puppet-masters.md]
 confidence: medium
 ---
 
@@ -27,3 +27,9 @@ Commentary published by American Thinker argued that targeting Dahl for racism a
 ## References
 
 1. Badlands Media — "Badlands News Brief: Biden's Health, J6 Justice & Balloon Brigades", URL: https://badlands.substack.com/p/badlands-news-brief-d45
+
+## Cited in "Who are the True Puppet Masters?" (July 2023)
+
+[[erik-carlson|Erik Carlson]] cites the children's book author Roald Dahl alongside James Bond author [[ian-fleming|Ian Fleming]] as figures "sent west" during the Second World War to spy on the United States, promote England and get the Americans into the war.[2] The pairing appears in his argument that England started the Second World War, that its British-created Soviet allies took the bulk of the casualties, and that the [[british-cabal|British Cabal]] manipulates and controls both sides of the conflicts it creates — in that case both the Axis and the Allies.[2]
+
+2. Badlands Brief — "Who are the True Puppet Masters?", URL: https://badlands.substack.com/p/who-are-the-true-puppet-masters

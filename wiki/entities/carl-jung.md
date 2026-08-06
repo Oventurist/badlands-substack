@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [psychology, consciousness, shadow]
-sources: [raw/generational-dependence-syndrome.md, raw/menticide-the-rape-of-the-mind.md, raw/the-media-is-the-enemy-of-the-people.md]
+sources: [raw/generational-dependence-syndrome.md, raw/menticide-the-rape-of-the-mind.md, raw/the-media-is-the-enemy-of-the-people.md, raw/triggering-mass-psychosis.md, raw/walking-the-path.md]
 confidence: medium
 ---
 
@@ -28,3 +28,17 @@ A January 27, 2023 Badlands Media essay on [[menticide]] cited Jung for the prop
 [[erik-carlson|Erik Carlson]]'s September 17, 2024 essay lists Jung with [[sigmund-freud|Sigmund Freud]] and [[edward-bernays|Edward Bernays]] as architects of techniques for changing how populations think, which Carlson argues were operationalized once the [[federal-reserve|Federal Reserve]] and later the [[central-intelligence-agency|CIA]] provided funding and distribution.[3]
 
 3. Badlands Brief — "The Media is the Enemy of the People", URL: https://badlands.substack.com/p/the-media-is-the-enemy-of-the-people
+
+## Cited on the psyche and mass madness (January 2023)
+
+[[justin-deschamps|Justin Deschamps]]'s January 20, 2023 essay quotes Jung's *The Symbolic Life* to the effect that "the greatest threat to mankind lies not with the forces of nature nor with any physical disease, but our inability to deal with forces of our own psyche."[4] The line is used alongside [[gustave-le-bon|Gustave Le Bon]] to establish that collective madness is an internal rather than external hazard.[4]
+
+Deschamps further cites Jung, described as a prolific Swiss psychiatrist who studied the phenomenon, as writing that individuals in an infected society become "morally and spiritually inferior" and "sink unconsciously to a lower intellectual level," becoming "more unreasonable, irresponsible, emotional, erratic, and unreliable," such that "crimes the individual alone could never stand are freely committed by a group smitten by madness."[4] These passages supply the essay's account of what happens to persons caught up in [[mass-psychosis]].[4]
+
+4. Badlands Brief — "Triggering Mass Psychosis", URL: https://badlands.substack.com/p/triggering-mass-psychosis
+
+## Cited in "Walking the Path" (March 2025)
+
+Jung supplies the closing authority of the March 29, 2025 [[badlands-media|Badlands Media]] feature "Walking the Path: From Awakening to Integration" by [[observing-consciousness|Observing Consciousness]], which quotes his maxim that "Until you make the unconscious conscious, it will direct your life and you will call it fate."[5] The line introduces the essay's call to action, where the author argues that a reader's path unfolds with every choice and that [[psychological-integration|integration]] is "the art of claiming it."[5] Unlike the political essays that cite Jung on collective madness, this use is individual and practical, framing the conscious retrieval of unconscious material as the mechanism by which an [[spiritual-awakening|awakening]] becomes a remade life.[5]
+
+5. Badlands Brief — "Walking the Path", URL: https://badlands.substack.com/p/walking-the-path

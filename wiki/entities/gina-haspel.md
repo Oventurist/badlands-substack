@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cia, intelligence, deep-state, london, bae-systems]
-sources: [raw/purple-revolution.md, raw/the-cia-is-being-thrown-under-the.md]
+sources: [raw/purple-revolution.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-sabotage-of-trumps-administration.md]
 confidence: medium
 ---
 
@@ -32,3 +32,9 @@ In the March 2024 article "The CIA is Being Thrown Under the Bus," Erik Carlson 
 Carlson presented this as evidence that a president can contain the agency without formally dismantling it, noting that despite the CIA working against him, Trump was drawn into zero new wars during his term.[2] He suggested a returning Trump could go further and follow through on [[john-f-kennedy|John F. Kennedy]]'s stated desire to splinter the agency into a thousand pieces.[2]
 
 2. Badlands Brief — "The CIA is Being Thrown Under the Bus", URL: https://badlands.substack.com/p/the-cia-is-being-thrown-under-the
+
+## Appointment as a containment move (Carlson, 2023)
+
+In "The Sabotage of Trump's Administration" (December 27, 2023), Erik Carlson revisits Haspel's 2018 promotion to Director of the [[central-intelligence-agency|CIA]] following [[mike-pompeo|Mike Pompeo]]'s move to the [[state-department|State Department]] after the firing of [[rex-tillerson|Rex Tillerson]].[3] He asks whether the appointment marked the moment [[donald-trump|Donald Trump]] concluded he could no longer trust or use the agency, and therefore deliberately installed what Carlson calls a Deep State puppet at its head while routing his own intelligence needs through the State Department instead.[3] Carlson likens the choice to declining to drive a four-wheel-drive truck in a snowstorm in favour of a rear-wheel-drive sedan — sensible only if one understands the CIA to be working against the president.[3]
+
+3. Badlands Brief — "The Sabotage of Trump's Administration", URL: https://badlands.substack.com/p/the-sabotage-of-trumps-administration

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [white-house, trump-administration, arctic-frost, fbi, surveillance]
-sources: [raw/badlands-brief-40d.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-58c.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-763.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-dcb.md]
+sources: [raw/badlands-brief-40d.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-58c.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-763.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-dcb.md, raw/the-real-fight-begins.md]
 confidence: medium
 ---
 
@@ -75,3 +75,9 @@ On Sunday, December 29, 2024, Wiles sent a memo ordering all intended nominees o
 Badlands commentary read the timing as a signal to MAGA supporters that President Trump did not share [[elon-musk|Elon Musk]]'s enthusiasm for the [[h-1b-visa-program|H-1B visa program]], while observing that Musk continued tweeting excessively after the story posted, suggesting the memo was not aimed at stopping his use of X.[8] The item was characterized as a deliberate narrative deployment by Wiles, with the message that nobody speaks for "The Boss" and nothing said before January 20 should be taken as gospel.[8]
 
 8. Badlands Brief — "Badlands News Brief: AI Energy Solutions & Turning Water Into White Gold", URL: https://badlands.substack.com/p/badlands-news-brief-dcb
+
+## Appointment as White House Chief of Staff (November 2024)
+
+Wiles was named White House Chief of Staff in the incoming second [[donald-trump|Trump]] administration, one of roughly twenty transition announcements catalogued by Badlands Media in mid-November 2024.[9] Her selection was listed alongside deputy chiefs of staff [[dan-scavino|Dan Scavino]], [[james-blair|James Blair]] and [[taylor-budowich|Taylor Budowich]], and White House Counsel [[william-mcginley|William McGinley]].[9]
+
+9. Badlands Brief — "The Real Fight Begins", URL: https://badlands.substack.com/p/the-real-fight-begins

@@ -1,10 +1,10 @@
 ---
-title: Colombia
+title: "Colombia"
 created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [latin-america, counternarcotics, cartels, us-foreign-policy]
-sources: [raw/badlands-brief-314.md, raw/badlands-brief-5ba.md]
+sources: [raw/badlands-brief-314.md, raw/badlands-brief-5ba.md, raw/the-venezuelan-squeeze.md]
 confidence: medium
 ---
 
@@ -28,6 +28,13 @@ Badlands commentary notes that a Treasury sanctions document referenced Colombia
 
 Colombia held a presidential election on June 21, 2026, which was won by [[abelardo-de-la-espriella|Abelardo de la Espriella]] according to the country's certified results.[2] President [[gustavo-petro|Gustavo Petro]] challenged the outcome, reportedly claiming the real winner was [[ivan-cepeda|Iván Cepeda]] and alleging the result was manipulated using technology from California.[2] On July 10, 2026 the United States and twelve regional partners issued a joint statement through the [[shield-of-the-americas|Shield of the Americas]] coalition urging Colombian officials to respect the certified results and to ensure a peaceful, orderly and transparent institutional transition.[2]
 
+## Role in U.S. operations against Venezuela
+
+Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] characterizes Colombia, which borders [[venezuela|Venezuela]], as "the Pakistan of Latin America" — a clearinghouse for covert U.S. operations in the region.[3] It serves as a frontline partner in U.S. security and counter-narcotics operations, but with significant trade-offs: internal instability, powerful non-state actors including cartels and guerrillas, human rights concerns, and a history of leveraging U.S. aid for domestic political survival.[3]
+
+DeLarme draws the parallel with Pakistan in three respects: both host U.S. forward operating bases, both have served as training centers for local proxies, and both provide pipelines for covert funding pass-throughs — the CIA-to-ISI black budget in Pakistan's case, and Plan Colombia and the Mérida Initiative in Colombia's.[3] Colombia was also the staging ground for the February 23, 2019 "humanitarian aid" convoy organized by [[juan-guaido|Juan Guaidó]], for which [[usaid|USAID]] had budgeted $60 million including payments to Colombian protesters.[3]
+
 ## References
 1. Badlands Brief — "Nationalized Elections, Nazi Bankers & Sovereign Shielding", URL: https://badlands.substack.com/p/badlands-brief-314
 2. Badlands Brief — "Guardians, Shields, & Iranian House Arrest", URL: https://badlands.substack.com/p/badlands-brief-5ba
+3. Badlands Media — "The Venezuelan Squeeze", URL: https://badlands.substack.com/p/the-venezuelan-squeeze

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [cia, media, propaganda, church-committee]
-sources: [raw/america-has-a-cia-run-economy.md, raw/assad-day-in-damascus.md, raw/badlands-news-brief-d8f.md, raw/four-pillars-of-government-control.md, raw/operation-gladio-a-primer.md, raw/q-for-dummies-chapter-1.md, raw/q-for-dummies-chapter-14.md, raw/q-for-dummies-chapter-15.md, raw/q-for-dummies-chapter-19.md, raw/q-for-dummies-chapter-17.md, raw/q-for-dummies-chapter-21.md, raw/q-for-dummies-chapter-6.md, raw/q-is-real-because-math-says-so.md, raw/q-for-dummies-chapter-3.md, raw/structures-of-control-part-3.md, raw/the-media-is-the-enemy-of-the-people.md, raw/the-information-imperium.md, raw/the-ivy-dominion.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/assad-day-in-damascus.md, raw/badlands-news-brief-d8f.md, raw/four-pillars-of-government-control.md, raw/operation-gladio-a-primer.md, raw/q-for-dummies-chapter-1.md, raw/q-for-dummies-chapter-14.md, raw/q-for-dummies-chapter-15.md, raw/q-for-dummies-chapter-19.md, raw/q-for-dummies-chapter-17.md, raw/q-for-dummies-chapter-21.md, raw/q-for-dummies-chapter-6.md, raw/q-is-real-because-math-says-so.md, raw/q-for-dummies-chapter-3.md, raw/structures-of-control-part-3.md, raw/the-media-is-the-enemy-of-the-people.md, raw/the-information-imperium.md, raw/the-ivy-dominion.md, raw/the-smith-mundt-act.md, raw/war-pigs.md, raw/we-are-watching-a-movie.md]
 confidence: medium
 ---
 
@@ -62,6 +62,12 @@ Chapter 3 of [[q-for-dummies|Q for Dummies]] treats the use of celebrity status 
 ## Cited in Structures of Control
 
 Part 3 of Badlands Media's *Structures of Control* series lists Operation Mockingbird as a government program illustrating how mass media is weaponized to shape perception, grouping it with the suppression of [[nikola-tesla|Nikola Tesla]]'s wireless energy research and with classified consciousness studies such as the [[project-stargate|Stargate Project]] and the [[gateway-process|Gateway Process]] under the heading of technological suppression and weaponization.[15] In that argument the program is one component of the [[manufactured-5d|manufactured 5D]], the [[deep-state|Deep State]]'s counterfeit of higher consciousness sustained through controlled information flows.[15]
+
+## Role in suppressing the Eisenhower warning
+
+"War Pigs" argues that [[dwight-eisenhower|Dwight Eisenhower]]'s January 1961 farewell warning about the [[military-industrial-complex|military-industrial-congressional complex]] received little attention at the time, presumably because Operation Mockingbird had already given the Deep State a high degree of control over the corporate media — the primary tool used to drum up support for war.[20]
+
+Badlands Media adds that even disregarding known CIA projects such as Mockingbird, the case for Deep State control of the corporate press and its wedding to the interests of the [[permanent-war-economy|permanent war economy]] remains compelling, pointing to the [[military-industrial-media-complex|military-industrial-media complex]] and the [[general-electric|General Electric]]–[[nbc|NBC]] ownership overlap as structural evidence.[20]
 
 ## References
 
@@ -131,3 +137,18 @@ Badlands Media's "The Information Imperium" invokes Operation Mockingbird togeth
 The June 2025 Badlands Media essay "The Ivy Dominion" claims that Operation Mockingbird "found fertile ground" at [[columbia-university|Columbia University]] and that many early media assets were Columbia-trained.[18] It asserts that legacy Mockingbird links remain active through alumni who now dominate newsrooms, and that Columbia's journalism school together with the [[philolexian-society|Philolexian Society]] produces "the gatekeepers of acceptable narrative" tracing their lineage to the Mockingbird era.[18] In the article's framing, this makes Columbia the narrative enforcement arm of the alleged [[ivy-dominion|Ivy Dominion]], exporting Mockingbird-era media control into contemporary mainstream outlets such as the [[new-york-times|New York Times]] and the Washington Post.[18]
 
 18. Badlands Brief — "The Ivy Dominion", URL: https://badlands.substack.com/p/the-ivy-dominion
+
+## Cited as evidence the 1948 firewall failed
+
+In his March 2025 essay on the [[smith-mundt-act|Smith-Mundt Act]], [[erik-carlson|Erik Carlson]] argues that although it was illegal for the US government to propagandise its own citizens for the 64 years between 1948 and 2012, this did not mean it stopped: through Operation Mockingbird the [[cia|CIA]] "has never stopped controlling and propagandizing the American people using all forms of media."[19]
+
+19. Badlands Brief — "The Smith-Mundt Act", URL: https://badlands.substack.com/p/the-smith-mundt-act
+20. Badlands Brief — "War Pigs", URL: https://badlands.substack.com/p/war-pigs
+
+## "It never stopped"
+
+In "We Are Watching a Movie," [[joe-lange|Joe Lange]] writes that the famous [[central-intelligence-agency|CIA]] program called "Mockingbird" never stopped, despite the agency's claim to have ended it decades ago, and that the effort to control the media narrative has only grown larger and more dangerous.[21] He describes a public bombarded daily with lies and hidden messages from every controlled media source, all pushing the same narrative and conclusions, which makes dissenters look like kooks to their own families and friends.[21] The system, in his account, depended on the fact that most people are too busy to research for themselves and will instead rely on supposedly trusted news outlets.[21]
+
+Lange argues the [[qanon|Q]] operation broke this by giving breadcrumbs to a small band of anons who dug and shared, sparking the [[great-awakening|Great Awakening]]; in response the controlled media complex ran a coordinated campaign to brand anons "conspiracy theorists," a label he says they wore as a badge of honour before the platforms resorted to outright censorship.[21] These claims reflect Badlands Media interpretation rather than established fact.
+
+21. Badlands Brief - "We Are Watching a Movie", URL: https://badlands.substack.com/p/we-are-watching-a-movie

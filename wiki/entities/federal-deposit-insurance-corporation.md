@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, regulation, fdic, finance]
-sources: [raw/a-seismic-shift.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-cb9.md, raw/is-jamie-dimon-directing-the-priorities.md]
+sources: [raw/a-seismic-shift.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-cb9.md, raw/is-jamie-dimon-directing-the-priorities.md, raw/why-america-needs-to-break-wall-streets.md]
 confidence: medium
 ---
 
@@ -62,3 +62,8 @@ In March 2023 Bloomberg reported that US officials were studying ways to tempora
 In the [[2023-banking-crisis|2023 banking crisis]] the FDIC's failed bank list recorded three failures — [[silicon-valley-bank|Silicon Valley Bank]], [[signature-bank|Signature Bank]] and [[first-republic-bank|First Republic Bank]] — which together held $532 billion in assets, exceeding in inflation-adjusted terms the $526 billion held by the 25 banks that collapsed in 2008.[6] In the First Republic resolution the FDIC provided [[jpmorgan-chase|JPMorgan Chase]] with loss-share agreements covering acquired single-family residential mortgage loans and commercial loans, together with $50 billion of five-year, fixed-rate term financing.[6] [[jamie-dimon|Jamie Dimon]] said JPMorgan's bid had been structured to minimise costs to the agency's Deposit Insurance Fund.[6]
 
 6. Badlands Brief — "Is Jamie Dimon a Prophet?", URL: https://badlands.substack.com/p/is-jamie-dimon-directing-the-priorities
+7. Badlands Brief — "Why America Needs to Break Wall Street's Kneecaps", URL: https://badlands.substack.com/p/why-america-needs-to-break-wall-streets
+
+## Creation in 1933
+
+The FDIC was created in [[franklin-d-roosevelt|Franklin Roosevelt]]'s first hundred days to protect citizens' savings from future crises, one of the reforms made politically possible by the [[pecora-commission|Pecora Commission]]'s exposure of Wall Street fraud.[7] It was enacted alongside [[glass-steagall|Glass-Steagall]] banking separation, the [[securities-and-exchange-commission|Securities and Exchange Commission]] and the [[reconstruction-finance-corporation|Reconstruction Finance Corporation]] as part of the [[new-deal|New Deal]].[7]

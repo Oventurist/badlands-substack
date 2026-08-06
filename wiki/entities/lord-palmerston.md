@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [british-empire, zionism, foreign-office, ottoman-empire, history]
-sources: [raw/real-patriots-dont-think-like-hitler-6fc.md]
+sources: [raw/real-patriots-dont-think-like-hitler-6fc.md, raw/understanding-the-soul-of-china.md]
 confidence: medium
 ---
 
@@ -22,3 +22,9 @@ Palmerston worked with Cooper and the Prince of Wales (later King Edward VII) to
 
 ## References
 1. Badlands Brief — "Real Patriots Don't Think Like Hitler - Part 6: 'Greater Israel' as a British Imperial Project", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-6fc
+
+## Cited in Sun Yat-sen's analysis of British policy
+
+[[matthew-ehret|Matthew Ehret]] invokes Palmerston's famous assertion that the "empire has no permanent friends, but rather only permanent interests" to summarize the pattern [[sun-yat-sen|Sun Yat-sen]] described in his 1917 [[vital-problems-of-china|Vital Problems of China]].[2] Sun argued that when a nation is on the ascent, Britain allies with weaker declining powers to undermine it, then reverses the policy once those allies grow strong, so that "the friend who has become strong" is turned into an enemy while England "always remains in a commanding position."[2]
+
+2. Badlands Brief — "Understanding the Soul of China", URL: https://badlands.substack.com/p/understanding-the-soul-of-china

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [who, public-health, sovereignty, international-law]
-sources: [raw/badlands-news-brief-b04.md, raw/badlands-news-brief-c50.md, raw/behold-a-trojan-horse.md]
+sources: [raw/badlands-news-brief-b04.md, raw/badlands-news-brief-c50.md, raw/behold-a-trojan-horse.md, raw/the-whos-last-stand.md]
 confidence: medium
 ---
 
@@ -34,3 +34,13 @@ A May 2023 Badlands Media article, "Behold, a Trojan Horse," argued the IHR amen
 1. Badlands Brief — "China Joe Strikes Out & Trumpism on Trial", URL: https://badlands.substack.com/p/badlands-news-brief-b04
 2. Badlands Brief — "Badlands News Brief: The Cocaine White House, False Flags & Free Speech", URL: https://badlands.substack.com/p/badlands-news-brief-c50
 3. Badlands Brief — "Behold, a Trojan Horse", URL: https://badlands.substack.com/p/behold-a-trojan-horse
+
+## Proposed amendments and "The WHO's Last Stand" (2023)
+
+Badlands Media described the IHR as legally binding rules applying to the [[world-health-organization|WHO]] as an instrument of international collaboration "to prevent, protect against, control, and provide a public health response to the international spread of disease in ways that are commensurate with and restricted to public health risks and that avoid unnecessary interference with international traffic and trade."[4] In May 2022, while media attention was focused on the Russo-Ukrainian War and the overturning of [[roe-v-wade|Roe v. Wade]], the WHO's 2022 [[world-health-assembly|World Health Assembly]] adopted amendments to the regulations.[4]
+
+According to research by [[james-roguski|James Roguski]] cited in the article, a total of 307 amendments had been proposed.[4] The most troubling among them would change the WHO "from an advisory organization ... to a governing body whose proclamations would be legally binding" (Articles 1 and 42); remove language preserving "respect for dignity, human rights and fundamental freedoms of people" (Article 3); give the WHO "authority to require medical examinations, proof of prophylaxis, proof of vaccine and to implement contact tracing, quarantine, and treatment" (Article 18); institute [[digital-health-certificates|a system of global health certificates in digital or paper format]] across multiple articles and annexes; and empower the WHO's Emergency Committee "to override decisions made by sovereign nations regarding health measures" (Article 43).[4]
+
+The amendments were submitted on 30 September 2022 and no updated negotiated draft had been released publicly as of August 2023, leaving the process, in the article's words, "cloaked in secrecy."[4] Badlands Media characterized the amendment route as the more subversive of the WHO's two avenues, since unlike a treaty it bypasses conventional ratification, and noted a deadline of 1 December 2023 for the 194 member nations to reject the amendments.[4]
+
+4. Badlands Brief — "The WHO's Last Stand", URL: https://badlands.substack.com/p/the-whos-last-stand

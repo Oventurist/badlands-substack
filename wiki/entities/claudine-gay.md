@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [academia, harvard, plagiarism, higher-education]
-sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-a9e.md, raw/badlands-news-brief-cce.md, raw/the-harvard-control-grid.md, raw/the-ivy-dominion.md]
+sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-a9e.md, raw/badlands-news-brief-cce.md, raw/the-harvard-control-grid.md, raw/the-ivy-dominion.md, raw/wilted-ivy.md]
 confidence: medium
 ---
 
@@ -56,3 +56,11 @@ The June 2025 Badlands Media essay "The Ivy Dominion" treats Gay's resignation a
 4. Badlands Brief — "Badlands News Brief: The System of Systems is a House of Cards", URL: https://badlands.substack.com/p/badlands-news-brief-cce
 5. Badlands Brief — "The Harvard Control Grid", URL: https://badlands.substack.com/p/the-harvard-control-grid
 6. Badlands Brief — "The Ivy Dominion", URL: https://badlands.substack.com/p/the-ivy-dominion
+
+## "Wilted Ivy" account
+
+Badlands Media's May 2025 essay "Wilted Ivy" presents Gay's downfall as "the first visible breach" in Harvard's prestige.[7] It recounts her December 2023 congressional testimony on campus antisemitism, in which, asked whether calls for genocide against Jews violated [[harvard-university|Harvard]]'s code of conduct, she answered "it can be, depending on the context" — a reply the article says provoked immediate and overwhelming outrage.[7] The essay adds that her position became untenable not only because of the evasive answers but because whistleblowers and researchers unearthed credible allegations of academic plagiarism spanning her career, and that despite efforts by Harvard's governing body to shield her, political and donor pressure forced her out.[7]
+
+Gay resigned on January 2, 2024, which the article describes as the shortest presidency in Harvard's 388-year history.[7] It reads the episode symbolically: Harvard's once-invincible leadership had fallen, the "citadel of globalist influence" appeared vulnerable, and the resignation was "the public explosion of a pressure system that had been collapsing silently behind the scenes for years," followed within weeks by the university's $1 billion private equity liquidation.[7]
+
+7. Badlands Brief — "Wilted Ivy", URL: https://badlands.substack.com/p/wilted-ivy

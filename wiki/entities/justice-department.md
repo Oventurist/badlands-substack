@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [government, doj, law-enforcement, prosecutions, epstein, russiagate]
-sources: [raw/badlands-brief-8db.md, raw/badlands-brief-774.md, raw/badlands-brief-a84.md, raw/badlands-brief-ea5.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-e40.md]
+sources: [raw/badlands-brief-8db.md, raw/badlands-brief-774.md, raw/badlands-brief-a84.md, raw/badlands-brief-ea5.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-e40.md, raw/whats-taking-so-long.md]
 confidence: medium
 ---
 
@@ -123,3 +123,9 @@ Justice Department officials negotiated in writing with lawyers for President [[
 16. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71
 17. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93
 18. Badlands News Brief — "Trump Lawsuits, Media Amnesty and Biden's Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-e40
+
+## In Lange's counterinsurgency account (December 2022)
+
+In "What's Taking So Long?" (December 28, 2022), [[joe-lange|Joe Lange]] counted the department among the justice institutions whose corruption he said the preceding years were needed to expose, invoking the [[counterinsurgency-guide|Counterinsurgency Guide]]'s treatment of security sector reform and noting that oversight belongs to [[congress|Congress]].[19] He also argued that [[donald-trump|Trump]]'s public framing of the [[mar-a-lago-raid|Mar-a-Lago raid]] as the act of a corrupt DOJ was a deliberate optical choice rather than a straightforward account of events.[19]
+
+19. Badlands Brief — "What's Taking So Long?", URL: https://badlands.substack.com/p/whats-taking-so-long

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [cia, iran, regime-change, oil, britain]
-sources: [raw/badlands-news-brief-24e.md, raw/does-the-cia-still-control-iran.md, raw/how-to-rent-a-riot-the-plausible.md, raw/rainbow-color-revolution.md]
+sources: [raw/badlands-news-brief-24e.md, raw/does-the-cia-still-control-iran.md, raw/how-to-rent-a-riot-the-plausible.md, raw/rainbow-color-revolution.md, raw/war-pigs.md, raw/women-children-and-terror.md]
 confidence: medium
 ---
 
@@ -15,6 +15,14 @@ The 1953 Iranian coup was the CIA-orchestrated overthrow of Iranian leader [[moh
 Mosaddegh had won election in 1950 on a promise to nationalize the oil industry and reclaim Iran's resources from Britain, displacing the [[anglo-iranian-oil-company|Anglo-Iranian Oil Company]] with the [[national-iranian-oil-company|National Iranian Oil Company]]. Britain withdrew its personnel and sued Iran in international court, but the case was dismissed. A worldwide embargo was then launched against Iran, and in 1953 President [[dwight-eisenhower|Dwight Eisenhower]] authorized the [[cia|CIA]] to orchestrate a coup to overthrow Mosaddegh and install [[mohammad-reza-pahlavi|Mohammad Reza Shah]] as the new ruler.[1]
 
 The Shah ratified the Consortium Agreement of 1954, restoring Britain's ownership of the oil fields in exchange for lifting the sanctions crippling the Iranian people; the Anglo-Iranian Oil Company was renamed British Petroleum. In the Badlands account, this sequence is the foundation of a century-long project of radicalizing the region for profit, and the necessary context for Secretary of State [[antony-blinken|Antony Blinken]]'s 2024 admission of failed U.S. regime-change experiments in Iran.[1]
+
+## Cited as the root of Iranian hostility
+
+"War Pigs" argues that much of Iran's aggression over the last half century is a result of the Western-led destruction of Iranian democracy via the military coup initiated by then-CIA Director [[allen-dulles|Allen Dulles]].[5] Badlands Media raised the point as a criticism of [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]], who opposed renewal of the Iran nuclear deal while, in the publication's view, failing to comprehend the coup's role in shaping Iranian behaviour.[5] The article noted in the same aside that Dulles is widely believed to have had a hand in the 1963 assassination of Kennedy's uncle.[5]
+
+## Framing as the origin of permanent Middle East unrest
+
+[[erik-carlson|Erik Carlson]] wrote in October 2023 that "the British MI6 and America's CIA created a coup to take control over Iran in 1953," and that this would help create constant unrest in the Middle East for decades to come.[6] He treats the coup as one leg of a tripod — alongside British authorship of the [[balfour-declaration|Balfour Declaration]] and British control of Saudi Arabia, Egypt and other Arab and Muslim states — demonstrating that the [[british-cabal|British Cabal]] knew exactly what it was doing when it placed [[israel|Israel]] in the middle of the region.[6] He predicted that the same people who took [[iran|Iran]] by coup would be exposed as the instigators of the 2023 crisis.[6]
 
 ## References
 1. Badlands News Brief — "Shutdown Looms as Game Theory Plays Out", URL: https://badlands.substack.com/p/badlands-news-brief-24e
@@ -39,3 +47,5 @@ In "Rainbow Color Revolution," [[erik-carlson|Erik Carlson]] recounted that Iran
 As a favor to Britain, Carlson wrote, the [[central-intelligence-agency|CIA]] launched a coup to remove Mosaddegh and install a US- and Britain-friendly leader, the Shah, using propaganda, rigging Iran's election, and paying and busing in thugs to create chaos in Tehran; pro-Shah riots caused 200 to 300 deaths.[4] After Mosaddegh's removal and replacement by [[mohammad-reza-pahlavi|the Shah]], he was convicted of treason in court.[4] Carlson drew an explicit parallel to what he called the Rainbow Color Revolution in the United States, noting that [[donald-trump|Donald Trump]] — whom he said the CIA helped remove from office through propaganda, election rigging and paid rioting — had just been indicted under the [[espionage-act|Espionage Act]].[4] He further observed that the CIA was formed in 1947 after World War II out of the wartime [[office-of-strategic-services|OSS]], and that by 1953 it was covertly overthrowing the Iranian government at the same time Joseph McCarthy was pursuing Communists in the United States.[4]
 
 4. Badlands Brief — "Rainbow Color Revolution", URL: https://badlands.substack.com/p/rainbow-color-revolution
+5. Badlands Brief — "War Pigs", URL: https://badlands.substack.com/p/war-pigs
+6. Badlands Brief — "Women, Children ... and Terror", URL: https://badlands.substack.com/p/women-children-and-terror

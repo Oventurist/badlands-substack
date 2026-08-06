@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [gregg-phillips, fema, true-the-vote, election-integrity, disaster-response]
-sources: [raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-7a1.md]
+sources: [raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-7a1.md, raw/timing-is-everything.md]
 confidence: medium
 ---
 
@@ -28,7 +28,12 @@ Senior FEMA officials characterized the role Phillips assumed as the agency's "s
 
 Phillips was a named defendant alongside [[catherine-engelbrecht|Catherine Engelbrecht]] in the suit brought by [[fair-fight|Fair Fight]] over [[true-the-vote|True the Vote]]'s mass challenges to voter eligibility in Georgia's early-2021 U.S. Senate runoffs.[2] On January 2, 2024, Judge Steve C. Jones of the Northern District of Georgia found no violation of Section 11(b) of the [[voting-rights-act-of-1965|Voting Rights Act]] by any named defendant and directed judgment for the defense, though the 145-page opinion retained "prior concerns" about how the challenges were conducted.[2] [[ashe-in-america|Ashe in America]] observed that while the court appeared to dislike both Phillips and Engelbrecht, their conduct was lawful and the First Amendment had "survived another attack."[2]
 
+## Konnech investigation
+
+Phillips and fellow researchers at the Professional Intelligence Team (PIT) were credited in Badlands Media's November 2022 coverage with exposing [[konnech|Konnech]], the Michigan election software company alleged to have stored United States election-worker data on servers in China.[3] After the [[los-angeles-county-district-attorney|Los Angeles County District Attorney's office]] dropped its charges against Konnech chief executive [[eugene-yu|Eugene Yu]], Phillips said publicly that the last had not been heard of the matter, a view contributor [[joe-lange|Joe Lange]] endorsed on the grounds that the case involved national security.[3]
+
 ## References
 
 1. Badlands News Brief — "Weed Wins, Globalist Whisking, & Lizard-Led Impeachments", URL: https://badlands.substack.com/p/badlands-news-brief-0ef
 2. Badlands News Brief — "Epstein Resurfaces ... And the 'Elites' Don't Like It", URL: https://badlands.substack.com/p/badlands-news-brief-7a1
+3. Badlands Brief — "Timing Is Everything", URL: https://badlands.substack.com/p/timing-is-everything

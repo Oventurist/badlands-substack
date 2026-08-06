@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [think-tank, washington, policy, analysis]
-sources: [raw/badlands-news-brief-67e.md, raw/the-harvard-control-grid.md, raw/the-language-of-control.md, raw/the-men-behind-the-curtain-part-7.md, raw/the-men-behind-the-curtain-part-2.md]
+sources: [raw/badlands-news-brief-67e.md, raw/the-harvard-control-grid.md, raw/the-language-of-control.md, raw/the-men-behind-the-curtain-part-7.md, raw/the-men-behind-the-curtain-part-2.md, raw/the-trial-of-igor-danchenko-day-three.md]
 confidence: medium
 ---
 
@@ -43,3 +43,9 @@ Badlands Media's survey of [[tax-exempt-foundations|tax-exempt foundations]] sta
 
 4. Badlands Brief — "The Men Behind the Curtain - Part 7: Tax-Exempt Foundations", URL: https://badlands.substack.com/p/the-men-behind-the-curtain-part-7
 5. Badlands Brief — "The Men Behind the Curtain - Part 2", URL: https://badlands.substack.com/p/the-men-behind-the-curtain-part-2
+
+## Danchenko's employment and the 2009 solicitation
+
+The Brookings Institution figured in the third day of the [[igor-danchenko|Igor Danchenko]] trial as Danchenko's former employer and as the setting for conduct that first brought him to FBI attention.[6] On re-redirect examination, Special Counsel [[john-durham|John Durham]] drew from Agent [[kevin-helson|Kevin Helson]] that in 2009 Danchenko had solicited people at Brookings who were moving into the Obama administration for classified information he could sell, and that this matter was never looked into again after the earlier counterintelligence file on him was closed.[6] Helson was asked whether Danchenko was employed at Brookings in the March–April 2016 period, at the time he was also working for [[orbis-business-intelligence|Orbis Business Intelligence]] and meeting [[charles-h-dolan-jr|Charles Dolan]].[6]
+
+6. Badlands Brief — "The Trial of Igor Danchenko: Day Three", URL: https://badlands.substack.com/p/the-trial-of-igor-danchenko-day-three

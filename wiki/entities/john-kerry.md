@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [state-department, obama, foreign-aid, badlands]
-sources: [raw/bad-actors.md, raw/badlands-news-brief-a82.md, raw/follow-the-money.md]
+sources: [raw/bad-actors.md, raw/badlands-news-brief-a82.md, raw/follow-the-money.md, raw/transparency-and-prosecution.md]
 confidence: medium
 ---
 
@@ -30,3 +30,11 @@ Badlands contributor Joe Lange credits Kerry with leading the Senate hearings th
 1. Badlands Brief — "Bad Actors", URL: https://badlands.substack.com/p/bad-actors
 2. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
 3. Badlands Brief — "Follow The Money: The CIA is the World's Filthiest Laundromat", URL: https://badlands.substack.com/p/follow-the-money
+
+## Citing the O'Bagy op-ed on Syria
+
+The Badlands Media feature "Transparency and Prosecution" places Kerry, then Secretary of State, among the officials who cited [[elizabeth-obagy|Elizabeth O'Bagy]]'s August 30, 2013 Wall Street Journal op-ed in congressional hearings on possible U.S. military action in Syria.[4] Days later the [[institute-for-the-study-of-war|Institute for the Study of War]] fired O'Bagy after confirming she did not hold the doctorate she had claimed.[4]
+
+The article groups Kerry with Senator [[john-mccain|John McCain]] and O'Bagy as promoters of what it calls a lie: that "moderate" rebel fighters were entirely separate from terrorist extremists and did not commingle — a claim the author says is refuted by photographs showing McCain with both [[salem-idris|General Salem Idris]] and figures identified as [[isis|ISIS]] leaders.[4]
+
+4. Badlands Brief — "Transparency and Prosecution", URL: https://badlands.substack.com/p/transparency-and-prosecution

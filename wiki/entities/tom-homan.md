@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [immigration, trump-administration, border]
-sources: [raw/badlands-brief-165.md, raw/badlands-brief-733.md, raw/badlands-brief-db7.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-7ce.md, raw/badlands-news-brief-9bc.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-e01.md, raw/badlands-news-brief-eff.md, raw/days-of-thunder.md]
+sources: [raw/badlands-brief-165.md, raw/badlands-brief-733.md, raw/badlands-brief-db7.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-7ce.md, raw/badlands-news-brief-9bc.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-e01.md, raw/badlands-news-brief-eff.md, raw/days-of-thunder.md, raw/the-real-fight-begins.md]
 confidence: medium
 ---
 
@@ -110,3 +110,9 @@ Speaking on Fox News on Friday, January 17, 2025, incoming "border czar" Homan s
 Writing one month into [[donald-trump|Donald Trump]]'s second term, Badlands contributor [[ryan-delarme|Ryan DeLarme]] assessed that mass deportation efforts were going well but that the hardest phase lay ahead for Homan in his role as border czar.[15] At some point, DeLarme argued, Homan would have to change gears — moving from a focus on criminal aliens to the deportation of ordinary illegal residents — and that this was the moment Democratic operatives would strike.[15] He predicted that television news, digital publications, and social media would be saturated with what he called "deportation porn": clips and photo-ops of crying children separated from their parents, likely coinciding with organized riots in major cities.[15] The broader enforcement package Homan operated under included a declared national emergency at the southern border, the shutdown of the [[cbp-one|CBP One app]], the reinstatement of [[remain-in-mexico|Remain in Mexico]], and moves to end [[birthright-citizenship|birthright citizenship]] for the children of undocumented immigrants.[15]
 
 15. Badlands Brief — "Days of Thunder", URL: https://badlands.substack.com/p/days-of-thunder
+
+## Appointment as Border Czar (November 2024)
+
+Homan was named "Border Czar" during the November 2024 [[donald-trump|Trump]] transition.[16] Badlands contributor [[ryan-delarme|Ryan DeLarme]] called him "a good fit" for the role, grouping the pick with those he considered promising on a slate he otherwise described as an odd mix of duds and dynamite.[16]
+
+16. Badlands Brief — "The Real Fight Begins", URL: https://badlands.substack.com/p/the-real-fight-begins

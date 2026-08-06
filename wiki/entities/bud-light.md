@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [brands, brewing, boycott, marketing, culture-war]
-sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-13b.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-b9c.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-e54.md, raw/badlands-news-brief-e86.md, raw/control-through-language.md, raw/get-woke-go-broke.md]
+sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-13b.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-b9c.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-e54.md, raw/badlands-news-brief-e86.md, raw/control-through-language.md, raw/get-woke-go-broke.md, raw/wilted-ivy.md]
 confidence: medium
 ---
 
@@ -92,3 +92,9 @@ Badlands contributor [[justin-deschamps|Justin Deschamps]] argued that the conta
 10. Badlands Brief — "Badlands News Brief: Lake Round 2, Woke Brokeness & the Soros Slug", URL: https://badlands.substack.com/p/badlands-news-brief-e86
 11. Badlands Brief — "Control Through Language", URL: https://badlands.substack.com/p/control-through-language
 12. Badlands Brief — "Get Woke, Go Broke", URL: https://badlands.substack.com/p/get-woke-go-broke
+
+## Cited in "Wilted Ivy"
+
+Badlands Media's May 2025 essay "Wilted Ivy" cites Bud Light's "DEI-driven marketing catastrophe" as one of the public failures marking the collapse of corporate ideological conformity.[13] The article groups it with [[target|Target]]'s ESG-driven backlash and [[disney|Disney]]'s cultural unraveling as evidence that the [[blackrock|Big Three]] asset managers were losing their cultural stranglehold "not by choice, but by exposure."[13]
+
+13. Badlands Brief — "Wilted Ivy", URL: https://badlands.substack.com/p/wilted-ivy

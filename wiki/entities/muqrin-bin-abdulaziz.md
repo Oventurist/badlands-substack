@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [saudi-arabia, house-of-saud, saudi-purge, q-drops]
-sources: [raw/q-for-dummies-chapter-14.md]
+sources: [raw/q-for-dummies-chapter-14.md, raw/trump-cuts-the-head-off-the-snake.md]
 confidence: low
 ---
 
@@ -25,3 +25,9 @@ The article situates the death within a short chain of incidents: the Las Vegas 
 ## References
 
 1. Badlands Brief — "Q for Dummies - Chapter 14", URL: https://badlands.substack.com/p/q-for-dummies-chapter-14
+
+## Family and the 2017 purge
+
+Muqrin bin Abdulaziz Al Saud was the father of Prince [[mansour-bin-muqrin|Mansour bin Muqrin]], the deputy governor of Asir province killed in a helicopter crash near the Yemeni border on the day of the [[saudi-purge|November 2017 Saudi purge]].[2] Joe Lange's account describes Muqrin bin Abdulaziz as the powerful former Saudi intelligence chief, a lineage that made his son's death — and reports that the son had lobbied more than a thousand princes against [[mohammed-bin-salman|Mohammed bin Salman]]'s succession — politically significant.[2]
+
+2. Badlands Brief — "Trump Cuts the Head off the Snake", URL: https://badlands.substack.com/p/trump-cuts-the-head-off-the-snake

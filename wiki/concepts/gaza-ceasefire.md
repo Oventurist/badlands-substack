@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [gaza, israel, hamas, diplomacy]
-sources: [raw/badlands-brief-05f.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-623.md, raw/badlands-news-brief-7e5.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-995.md, raw/badlands-news-brief-c0b.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-eff.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-623.md, raw/badlands-news-brief-7e5.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-995.md, raw/badlands-news-brief-c0b.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-eff.md, raw/trump-secures-uneasy-peace-in-gaza.md]
 confidence: medium
 ---
 
@@ -96,6 +96,26 @@ Hours before the ceasefire was due to take effect at 08:30 local time on Sunday,
 
 The agreement fractured Netanyahu's coalition: [[itamar-ben-gvir|Itamar Ben Gvir]]'s [[otzma-yehudit|Otzma Yehudit]] party quit that morning, denouncing the deal as a "victory for terrorism," with its three cabinet ministers submitting resignation letters.[14] Badlands commentary held that the episode revealed that previous hostage deals had been blocked by hardliners inside the Israeli government rather than by Hamas, and predicted that Phase 2 would not transpire because a further exit by [[bezalel-smotrich|Bezalel Smotrich]]'s [[religious-zionism-party|Religious Zionism]] party would collapse the government and expose Netanyahu to pending corruption charges.[14]
 
+## January 2025 ceasefire and the Trump transition
+
+Badlands Media characterized the January 2025 Gaza ceasefire as a deal that [[donald-trump|Donald Trump]] accomplished before even being sworn into office, after 15 months of war and what the outlet described as an effectively unlimited green light from Washington under [[joe-biden|Joe Biden]].[15] According to Haaretz reporting reproduced in the article, the first phase provided for the release of 33 hostages, with negotiations over the remaining hostages to begin sixteen days after signature; the [[israel-defense-forces|IDF]] was not expected to withdraw from Gaza until all hostages were returned but would permit residents to move from southern Gaza back to the north.[15]
+
+The Wall Street Journal, also quoted in the article, reported that the first stage would pause the fighting and exchange Palestinian prisoners held in Israel for 33 hostages — women, children, the severely injured, and those over 50 — with [[hamas|Hamas]] also handing over bodies of the dead.[15] The real test, the paper said, would come after the first 16 days, when the parties would debate extending the pause into a permanent end to the fighting across a second and third stage that would include release of all remaining hostages and a plan to rebuild Gaza.[15]
+
+Critically, the Journal noted that the terms were "not substantially different from those that were available months ago," when more Israeli hostages remained alive and before thousands more Palestinians had died, and that both sides had been galvanized by Trump's imminent return to office after he warned that "all hell will break out in the Middle East" if hostages were not released by his January 20 inauguration.[15]
+
+## Opposition and fragility
+
+Badlands Media argued the peace was far from stable. Figures within [[benjamin-netanyahu|Benjamin Netanyahu]]'s government contended the agreement was bad for Israel because it compelled a halt to bombing without achieving objectives the article listed as annexing northern Gaza, stopping humanitarian aid, and expelling Arabs and Palestinians from the territory.[15] Hamas had not been destroyed despite that being the stated purpose of the campaign, and was described as regrouping and recruiting newly radicalized young men enraged by Israel's conduct — a dynamic the article called a boon for Israeli hawks, since "you can't have military conquest without an enemy or threat."[15]
+
+Opposition also came from the American side: pro-Israel members of Trump's own party objected, and Israeli hardliners including [[itamar-ben-gvir|Itamar Ben-Gvir]] and the commentator [[erel-segal|Erel Segal]] publicly blamed Trump for the deal.[15] The article nonetheless concluded that for the first time in months civilians in Gaza could sleep without fear of bombardment, and attributed that outcome to Trump's intervention.[15]
+
+## Risk of collapse (February 2025)
+
+In February 2025 a senior [[hamas|Hamas]] official warned that the fragile ceasefire was at risk of "collapse," with the group accusing Israel of failing to uphold its commitments under a truce that had halted intense fighting nearly three weeks earlier.[13] The agreement, brokered by Qatar, Egypt and the United States, was designed in three phases; the first required Hamas to release 33 hostages, including children, female soldiers, the wounded and the sick, in exchange for 1,904 Palestinians imprisoned by Israeli authorities.[13] On Saturday, February 8, 2025, 183 Palestinian detainees were released while Hamas freed three Israeli captives, whose emaciated appearance West Jerusalem called "shocking."[13]
+
+Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] subsequently altered the terms of the deal, demanding that Hamas leadership leave Gaza forever; Badlands commentary argued that the timing, in the midst of Phase Two and just after a hostage release, endangered the arrangement President [[donald-trump|Donald Trump]] had brokered to stave off a wider war.[13]
+
 ## References
 1. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
 2. Badlands News Brief — "New York Insurrection, A Rapturous Reception, & Lying Tools", URL: https://badlands.substack.com/p/badlands-news-brief-0b0
@@ -110,11 +130,7 @@ The agreement fractured Netanyahu's coalition: [[itamar-ben-gvir|Itamar Ben Gvir
 11. Badlands Brief — "Donald Trump, Dennis Quaid and Steven Seagal Walk into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-995
 12. Badlands Brief — "Badlands News Brief: Jurors Judged, Faces Saved & Memes Made", URL: https://badlands.substack.com/p/badlands-news-brief-c0b
 
-## Risk of collapse (February 2025)
-
-In February 2025 a senior [[hamas|Hamas]] official warned that the fragile ceasefire was at risk of "collapse," with the group accusing Israel of failing to uphold its commitments under a truce that had halted intense fighting nearly three weeks earlier.[13] The agreement, brokered by Qatar, Egypt and the United States, was designed in three phases; the first required Hamas to release 33 hostages, including children, female soldiers, the wounded and the sick, in exchange for 1,904 Palestinians imprisoned by Israeli authorities.[13] On Saturday, February 8, 2025, 183 Palestinian detainees were released while Hamas freed three Israeli captives, whose emaciated appearance West Jerusalem called "shocking."[13]
-
-Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] subsequently altered the terms of the deal, demanding that Hamas leadership leave Gaza forever; Badlands commentary argued that the timing, in the midst of Phase Two and just after a hostage release, endangered the arrangement President [[donald-trump|Donald Trump]] had brokered to stave off a wider war.[13]
 
 13. Badlands Brief — "Badlands News Brief: Soaring Eagles & Terminal USAIDs", URL: https://badlands.substack.com/p/badlands-news-brief-cf3
 14. Badlands Brief — "From This Day Forward, It's Going to Be Only America First.", URL: https://badlands.substack.com/p/badlands-news-brief-eff
+15. Badlands Brief — "Trump Secures Uneasy Peace in Gaza", URL: https://badlands.substack.com/p/trump-secures-uneasy-peace-in-gaza

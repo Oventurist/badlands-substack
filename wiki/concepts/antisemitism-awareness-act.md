@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [legislation, antisemitism, free-speech, congress]
-sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-0be.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-0be.md, raw/the-multinational-offensive-against.md]
 confidence: medium
 ---
 
@@ -31,3 +31,9 @@ DeLarme notes that several of the bill's most prominent supporters had intellige
 ## References
 1. Badlands Brief — "A Glaring Double Standard", URL: https://badlands.substack.com/p/a-glaring-double-standard
 2. Badlands Brief — "Plan B for Israel & Ouroborosian Protests Consume Clown World", URL: https://badlands.substack.com/p/badlands-news-brief-0be
+
+## Cited as conservative censorship (DeLarme, 2024)
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] listed the Antisemitism Awareness Act among examples showing that Republicans and conservatives, not only liberals, have sought to suppress ideas they disagree with — grouping it with the [[tiktok-ban|TikTok ban]] and campus crackdowns.[3] He argued nonetheless that the modern Democratic Party has pursued censorship more voraciously than any other faction, chiefly by inventing new legal theories to justify political censorship.[3]
+
+3. Badlands Brief — "The Multinational Offensive Against Free Speech Online", URL: https://badlands.substack.com/p/the-multinational-offensive-against

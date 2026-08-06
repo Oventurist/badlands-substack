@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [elections, voting, election-integrity, congress]
-sources: [raw/badlands-brief-7c6.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-f1a.md, raw/biden-inc-flips.md, raw/inside-the-modern-elections-casino.md, raw/smart-goal-setting-in-the-age-of.md, raw/stuck-in-a-groove-of-negativity-and.md, raw/thats-not-signature-verification.md]
+sources: [raw/badlands-brief-7c6.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-f1a.md, raw/biden-inc-flips.md, raw/inside-the-modern-elections-casino.md, raw/smart-goal-setting-in-the-age-of.md, raw/stuck-in-a-groove-of-negativity-and.md, raw/thats-not-signature-verification.md, raw/the-transition-integrity-project.md]
 confidence: medium
 ---
 
@@ -68,6 +68,13 @@ Signature verification is the single control on mail-in balloting, and Americans
 
 The May 2023 [[lake-v-hobbs|Lake v. Hobbs]] Count III trial was, in the view of Badlands contributor [[ashe-in-america|Ashe in America]], the first occasion on which millions of Americans watched the electoral negligence of mail-in balloting described in open court, as [[maricopa-county|Maricopa County]] elections director [[ray-valenzuela|Rey Valenzuela]] defended approving signatures in one to two seconds.[10] She noted that the defendants repeatedly objected to the public watching the evidence, and cited [[rasmussen-reports|Rasmussen]] polling from April 2023 showing 62 percent of Americans had lost trust in US elections, a figure rising steadily since November 2020.[10]
 
+
+## The Transition Integrity Project and universal counting
+
+The [[transition-integrity-project|Transition Integrity Project]]'s 2020 report insisted that all mail-in ballots be counted even if the process took months and ran well beyond January 20, 2021.[11] The group also predicted that [[donald-trump|Donald Trump]] would declare himself the winner on election night and refuse to allow mail-in ballots to be counted, while asserting that voter fraud was virtually non-existent and that Trump would lie about it to mobilise his base.[11]
+
+Badlands Media contributor [[erik-carlson|Erik Carlson]] argues that ensuring every mail-in ballot was counted was TIP's real purpose, noting the group formed in late 2019 — months before Covid-19 made mail-in voting a mass phenomenon — and asking why in-person and mail-in totals should diverge at all.[11] He describes a TIP scenario in which Democrats would encourage corporate CEOs to mount a universal strike, shutting the country down until every mail-in ballot was counted, and concludes that Trump faced a choice between halting the count and triggering economic collapse or allowing the election to be stolen.[11]
+
 ## References
 
 1. Badlands Brief — "The Democratization of Narrative Distribution. And a New War with Iran.", URL: https://badlands.substack.com/p/badlands-brief-7c6
@@ -86,3 +93,5 @@ In "Stuck in a Groove of Negativity and Hopelessness" (May 4, 2023), [[erik-carl
 
 Carlson argued the same shortfall recurred in 2020, but that this time a contingency existed: counting could be halted in the middle of the night and fake ballots "trucked in" to make up the difference, producing [[joe-biden|Joe Biden]]'s 81 million votes despite a candidate who barely campaigned.[9] He added that in their haste the operators failed to notice how implausible the result appeared, but could not risk Trump returning to the White House.[9]
 10. Badlands Brief — "That's Not Signature Verification, Your Honor", URL: https://badlands.substack.com/p/thats-not-signature-verification
+
+11. Badlands Brief — "The Transition Integrity Project", URL: https://badlands.substack.com/p/the-transition-integrity-project

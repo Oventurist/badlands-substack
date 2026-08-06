@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [alaska, us-senate, republicans, national-security, military]
-sources: [raw/badlands-news-brief-6bc.md]
+sources: [raw/badlands-news-brief-6bc.md, raw/two-wings-one-ugly-bird.md]
 confidence: medium
 ---
 
@@ -24,3 +24,9 @@ Badlands contributor [[ashe-in-america|Ashe in America]] highlighted that the Am
 
 ## References
 1. Badlands Brief — "Smith Slips, China Encroaches & Trump Preps", URL: https://badlands.substack.com/p/badlands-news-brief-6bc
+
+## IRI chairmanship
+
+"Two Wings, One Ugly Bird" identifies the Alaska senator as the current chairman of the [[international-republican-institute|International Republican Institute]], continuing the institute's Republican alignment after the long chairmanship of [[john-mccain|John McCain]].[2] The article treats the IRI's board of sitting senators as its most active operatives and as evidence that the [[national-endowment-for-democracy|NED]]-funded institute functions as a channel of influence over the Republican Party.[2]
+
+2. Badlands Brief — "Two Wings, One Ugly Bird", URL: https://badlands.substack.com/p/two-wings-one-ugly-bird

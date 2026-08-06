@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [information-war, narrative, media, psychology]
-sources: [raw/badlands-brief-774.md, raw/badlands-news-brief-3c3.md, raw/open-borders-finally-make-sense.md]
+sources: [raw/badlands-brief-774.md, raw/badlands-news-brief-3c3.md, raw/open-borders-finally-make-sense.md, raw/the-war-of-stories.md, raw/these-3-events-expose-gender-ideology.md]
 confidence: medium
 ---
 
@@ -38,3 +38,15 @@ He also used the frame to explain an asymmetry in his own readership. His July 2
 1. Badlands Brief — "Weaponization Woes & Bailing on the Bromance", URL: https://badlands.substack.com/p/badlands-brief-774
 2. Badlands Brief — "Badlands News Brief: From Hunter to NATO, It's All About Ukraine", URL: https://badlands.substack.com/p/badlands-news-brief-3c3
 3. Badlands Brief — "Open Borders Finally Make Sense", URL: https://badlands.substack.com/p/open-borders-finally-make-sense
+
+## The Window and the archetypal public figure (December 2022)
+
+In "The War of Stories" (December 30, 2022), [[burning-bright|Burning Bright]] referenced his earlier exploration of the Overton Window's effect on the American and worldwide zeitgeist, in which he argued that public figures on the world stage had over recent decades increasingly taken on the likeness of archetypal characters rather than sovereign actors pursuing their own agendas.[4] He held that the [[sovereign-alliance|Sovereign Alliance]] represented by [[donald-trump|Donald Trump]] and other America First figures was pushing the Overton Window "back in the direction of freedom, one deployment at a time."[4]
+
+4. Badlands Brief — "The War of Stories", URL: https://badlands.substack.com/p/the-war-of-stories
+
+## Application to gender medicine policy
+
+Badlands contributor [[simon-esler|Simon Esler]] wrote in March 2023 that a recent shift in the Overton Window had led to particularly successful policy changes in a growing number of US states restricting paediatric [[gender-affirming-care|gender affirmative care]].[5] He nonetheless asked how the model had been kept alive for so long in the United States given that the reversal in the United Kingdom began as early as 2020, and how Canada maintained momentum despite being the source of the [[toronto-desistance-study|Toronto desistance study]].[5]
+
+5. Badlands Brief — "These 3 Events Expose Gender Ideology", URL: https://badlands.substack.com/p/these-3-events-expose-gender-ideology

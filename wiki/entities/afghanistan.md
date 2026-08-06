@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [afghanistan, taliban, state-department, detention, counterterrorism]
-sources: [raw/badlands-brief-509.md, raw/badlands-news-brief-f61.md, raw/everything-is-connected.md, raw/operation-cyclone-the-seeds-of-terror.md]
+sources: [raw/badlands-brief-509.md, raw/badlands-news-brief-f61.md, raw/everything-is-connected.md, raw/operation-cyclone-the-seeds-of-terror.md, raw/who-is-the-real-enemy.md]
 confidence: low
 ---
 
@@ -43,3 +43,13 @@ Afghanistan, which until recently produced 90% of the world's heroin, saw opium 
 2. Badlands Brief — "Badlands News Brief: Special Counsels, Island Fires & White Pills", URL: https://badlands.substack.com/p/badlands-news-brief-f61
 3. Badlands Brief — "Everything Is Connected", URL: https://badlands.substack.com/p/everything-is-connected
 4. Badlands Brief — "Operation Cyclone - The Seeds of Terror", URL: https://badlands.substack.com/p/operation-cyclone-the-seeds-of-terror
+
+## Pivot from Cold War to war on terror
+
+"Who Is The Real Enemy?" treats Afghanistan as the hinge of late twentieth-century covert history.[5] A communist government took power in 1978 under the [[peoples-democratic-party-of-afghanistan|PDPA]]; the radical Khalq figure [[hafizullah-amin|Hafizullah Amin]] then murdered [[nur-mohammad-taraki|Nur Mohammad Taraki]] in October 1979 and, according to KGB reporting to [[leonid-brezhnev|Leonid Brezhnev]], maintained secret contacts with the American chargé d'affaires — prompting the [[soviet-union|Soviet Union]] to send special forces into Kabul and invade.[5]
+
+The article argues the intervention was defensive, aimed at protecting the Soviet southern frontier against Islamic unrest and American intrigue, and that the [[central-intelligence-agency|CIA]] forced Moscow's hand at a cost of millions of lives.[5] The [[soviet-afghan-war|war]] marked the end of the [[cold-war|Cold War]] narrative and the start of the never-ending [[war-on-terror|war on terror]].[5]
+
+Through [[pakistan|Pakistan]] and [[bank-of-credit-and-commerce-international|BCCI]], the CIA armed [[gulbuddin-hekmatyar|Gulbuddin Hekmatyar]]'s [[hezb-e-islami|Hezb-e Islami]] more heavily than any other faction, creating what the article calls a private army to protect a heroin operation sold to Americans as freedom fighters.[5] Afghan opium output rose from 200 metric tons in 1980 to 1,980 metric tons in 1991, and Afghan heroin went from roughly zero to 60 percent of U.S. consumption by 1980.[5] When the Soviets withdrew, a bloody civil war over control of the heroin trade killed hundreds of thousands.[5] Former president [[hamid-karzai|Hamid Karzai]] later charged that the post-2001 violence was organized by Pakistani intelligence and executed by the [[taliban|Taliban]] while Washington funded Pakistan's military.[5]
+
+5. Badlands Brief — "Who Is The Real Enemy?", URL: https://badlands.substack.com/p/who-is-the-real-enemy

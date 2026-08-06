@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [information-war, narrative, manipulation, censorship]
-sources: [raw/badlands-brief-9eb.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-d6a.md, raw/bric-by-bric.md, raw/right-the-ship.md]
+sources: [raw/badlands-brief-9eb.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-d6a.md, raw/bric-by-bric.md, raw/right-the-ship.md, raw/the-war-of-stories.md]
 confidence: medium
 ---
 
@@ -45,3 +45,11 @@ In his August 2023 essay "BRIC by BRIC," [[burning-bright|Burning Bright]] gave 
 In "Right the Ship" (January 12, 2023), [[burning-bright|Burning Bright]] described what he calls the [[patriot-pendulum|Patriot Pendulum]] as "an offshoot of the Hegelian Dialectic strategy that I believe the Deep State 'Controllers' have wielded against the American people for generations."[5] The mechanism, in his account, alternates which ideological pole is used to move the public: twenty years earlier it was unthinking adherence to the Right, dressed in patriotism, nationalism and "unity," that manufactured the mandate for the Middle East [[forever-wars|Forever War]]; in 2023 he judged the Left to be inflicting the greater damage on the collective psyche.[5] The dialectical point is that the identity of the pole is incidental — the swing itself is the instrument of control.[5]
 
 5. Badlands Brief — "Right the Ship", URL: https://badlands.substack.com/p/right-the-ship
+
+## Problem–Reaction–Solution and its reverse engineering (December 2022)
+
+In "The War of Stories" (December 30, 2022), [[burning-bright|Burning Bright]] identified the Hegelian Dialectic with the "Problem-Reaction-Solution theorem" and described it as the technique behind [[narrative-deployment|Narrative Deployments]] that have produced everything from U.S. involvement in foreign wars to the alleged participation of U.S. intelligence agencies in some of the most tragic inflection points in American and world history.[6] While the minds behind those deployments may never be known, he wrote, "the public faces are all too familiar to us."[6]
+
+He held the dialectic to have been a powerful tool for the capture and tacit control of American society for decades and of foreign societies for longer, but argued that the very genius of the technique means it can be — and has been — reverse engineered by patriots into what he calls the [[reverse-hegelian-dialectic|Reverse Hegelian Dialectic]], whose distinguishing foundation is the truth.[6] Narratives seeded through the dialectic he described as "Potential Events" whose damage becomes Actual when absorbed, regurgitated and actioned by complexes more literal in their deployments than the media — above all the [[military-industrial-complex|Military Industrial Complex]], whose deployments across much of the last century were approved only under the guise of preceding narratives.[6]
+
+6. Badlands Brief — "The War of Stories", URL: https://badlands.substack.com/p/the-war-of-stories

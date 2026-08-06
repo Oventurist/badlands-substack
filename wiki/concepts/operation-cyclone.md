@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [cia, afghanistan, cold-war, covert-action]
-sources: [raw/badlands-news-brief-1ae.md, raw/badlands-news-brief-e44.md, raw/dollars-dope-and-deception.md, raw/operation-cyclone-the-seeds-of-terror.md]
+sources: [raw/badlands-news-brief-1ae.md, raw/badlands-news-brief-e44.md, raw/dollars-dope-and-deception.md, raw/operation-cyclone-the-seeds-of-terror.md, raw/valediction-revisited-25-years-after.md]
 confidence: medium
 ---
 
@@ -48,8 +48,17 @@ Bin Laden's precursor organization [[maktab-al-khidamat|Maktab al-Khidamat]] rec
 
 Funding was supplemented by Britain's MI6, Saudi Arabia and China, and the war became the "Vietnamese quagmire" Brzezinski had predicted, with Soviet withdrawal beginning in 1987 and completing in early 1989.[4] Asked in 1998 whether he regretted an operation that had led to the creation of the Taliban, Brzezinski replied: "What is more important in world history? The Taliban or the collapse of the Soviet empire?"[4] Badlands Media frames Cyclone as the bridge the CIA, the security state and the [[military-industrial-complex|Military-Industrial Complex]] used to move from endlessly fighting the Cold War to endlessly fighting the [[war-on-terror|War on Terror]], and links it to the transformation of Afghanistan into the source of roughly 80% of the world's [[opium-production-in-afghanistan|opium]].[4] [[israel]] also played a role, with Israeli military instructors training thousands of mujahideen fighters and selling them weapons seized from the Soviets during the Yom Kippur War.[4]
 
+## Team B origins and the narcotics dimension
+
+[[paul-fitzgerald|Paul Fitzgerald]] and [[elizabeth-gould|Elizabeth Gould]] argue in [[valediction-three-nights-of-desmond|Valediction: Three Nights of Desmond]] that the clandestine Operation Cyclone was premised on the lies of [[zbigniew-brzezinski|Zbigniew Brzezinski]]'s [[team-b|Team B]] analysis of Soviet ambitions to dominate the world, which justified a programme using billions of dollars in taxpayer money to fund the growth of mujahideen terrorist cells and narcotics in a bid to light a fire under Russia's soft underbelly and suck the unsuspecting Soviets into a bloodletting that would be sold to a western population as "Russia's Vietnam."[5] In their account the money pit that Cyclone became sponsored the terrorist movements that soon morphed into [[al-qaeda|Al-Qaeda]] and produced the world's largest heroin production zone in the heart of Mackinder's World Island.[5]
+
+The programme's antecedent, on this reading, was the February 1979 killing of Ambassador [[adolph-dubs|Adolph Dubs]], whose covert diplomacy with President [[hafizullah-amin|Hafizullah Amin]] threatened to keep the Soviets out of the Afghan trap altogether.[5] Over forty years later, the results are well known: the Soviet Union was bled, leading to its dissolution under Gorbachev, and the world was given Islamic terrorism funded, armed and trained by CIA, MI6 and ISI operatives.[5]
+
+Organised crime syndicates also grew their influence in leaps and bounds as the world centre of opium production moved from Cambodia, Vietnam, Laos and Myanmar to more fertile soil in Afghanistan, providing both the funding to light the region on fire for decades and a new opium war against all of civilisation.[5] The article adds that the conspicuous integration of the [[drug-enforcement-administration|DEA]] and [[cia|CIA]] during this period, coinciding with the heroin boom and with the flooding of crack cocaine into American ghettos under CIA director [[george-hw-bush|George H. W. Bush]] — himself a defender of the Team B takeover of U.S. intelligence estimates — cannot be ignored.[5]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Playing the Opposite Game with Deep State Propaganda", URL: https://badlands.substack.com/p/badlands-news-brief-1ae
 2. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44
 3. Badlands Brief — "Dollars, Dope, and Deception", URL: https://badlands.substack.com/p/dollars-dope-and-deception
 4. Badlands Brief — "Operation Cyclone - The Seeds of Terror", URL: https://badlands.substack.com/p/operation-cyclone-the-seeds-of-terror
+5. Badlands Brief — "Valediction Revisited - 25 Years After 9-11", URL: https://badlands.substack.com/p/valediction-revisited-25-years-after

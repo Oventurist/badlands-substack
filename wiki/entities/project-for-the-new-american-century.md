@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [neoconservatism, foreign-policy, regime-change, think-tank]
-sources: [raw/assad-day-in-damascus.md, raw/deep-state-spotlight-victoria-nuland.md, raw/operation-cyclone-the-seeds-of-terror.md, raw/schisms-in-maga.md]
+sources: [raw/assad-day-in-damascus.md, raw/deep-state-spotlight-victoria-nuland.md, raw/operation-cyclone-the-seeds-of-terror.md, raw/schisms-in-maga.md, raw/war-pigs-21c.md]
 confidence: medium
 ---
 
@@ -42,8 +42,13 @@ In his November 2025 essay [[maga-schism|"The MAGA Schism"]], Badlands contribut
 
 His profile of key members described [[william-kristol|William Kristol]] as chairman and co-founder, son of neocon pioneer Irving Kristol, who shaped PNAC's vision through *The Weekly Standard* and tied Israel's security explicitly to U.S. interests via the 1996 "Clean Break" paper; [[robert-kagan|Robert Kagan]] as co-founder of PNAC's core documents emphasizing U.S. hegemony and Israel as a democratic ally, and husband of [[victoria-nuland|Victoria Nuland]], then [[dick-cheney|Dick Cheney]]'s deputy national security advisor; [[paul-wolfowitz|Paul Wolfowitz]] as a signatory and architect of the Iraq War; [[richard-perle|Richard Perle]] as co-author of the "Clean Break" paper and of PNAC letters advocating regime change in Iraq; [[john-bolton|John Bolton]] as a founding signatory and one of the most hard-line pro-Israel voices in the neoconservative orbit; and Cheney as the vice president who, with Rumsfeld, Wolfowitz and other alumni, turned PNAC's blueprint into U.S. policy through the 2003 Iraq invasion.[4] Lesser-known members named were [[elliott-abrams|Elliott Abrams]] and [[norman-podhoretz|Norman Podhoretz]].[4] DeLarme concluded that [[neoconservatives|neoconservatism]] and [[zionism|Zionism]] are deeply intertwined with little to no meaningful separation between them.[4]
 
+## The 1998 Iraq strike
+
+In the Badlands essay "War Pigs," [[ryan-delarme|Ryan DeLarme]] identifies the Project for a New American Century as the source of the December 1998 air strike on Iraq ordered by [[bill-clinton|Bill Clinton]] on the same day Monica Lewinsky was testifying before a grand jury, describing the operation as the brainchild of [[william-kristol|Bill Kristol]], [[robert-kagan|Robert Kagan]] and their fellow [[neoconservatives|neoconservatives]] in PNAC.[5] He uses the episode to argue that the same network was already shaping American war policy under Democratic administrations long before the Bush years, undercutting the claim that the later Democrat–neocon alliance was a mere marriage of convenience against [[donald-trump|Donald Trump]].[5]
+
 ## References
 1. Badlands Brief — "Assad Day in Damascus", URL: https://badlands.substack.com/p/assad-day-in-damascus
 2. Badlands Media — "Deep State Spotlight: Victoria Nuland", URL: https://badlands.substack.com/p/deep-state-spotlight-victoria-nuland
 3. Badlands Brief — "Operation Cyclone - The Seeds of Terror", URL: https://badlands.substack.com/p/operation-cyclone-the-seeds-of-terror
 4. Badlands Brief — "The MAGA Schism", URL: https://badlands.substack.com/p/schisms-in-maga
+5. Badlands Brief — "War Pigs", URL: https://badlands.substack.com/p/war-pigs-21c

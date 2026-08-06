@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [metoo, sexual-misconduct, hollywood, culture, law]
-sources: [raw/badlands-news-brief-bad.md, raw/badlands-news-brief-dae.md]
+sources: [raw/badlands-news-brief-bad.md, raw/badlands-news-brief-dae.md, raw/the-road-without-struggle.md]
 confidence: medium
 ---
 
@@ -24,6 +24,13 @@ Badlands Media commentary questioned the framing that the ruling "reopens" a pai
 
 Badlands Media framed the November 2024 [[hegseth-sexual-assault-allegation|sexual assault allegation]] against defense secretary nominee [[pete-hegseth|Pete Hegseth]] as a Me Too deployment, noting that the underlying 2017 incident occurred at the height of the movement, when numerous high-profile men in media faced allegations of assault and harassment.[2] The outlet argued that opponents turning to a Me Too attack so early in the confirmation process indicated they lacked substantive grounds to defeat the nomination.[2]
 
+## As a limited hangout
+
+[[erik-carlson|Erik Carlson]] treated Me Too as a textbook case of [[poisoning-the-well|poisoning the well]] in his February 28, 2023 essay "The Road Without Struggle."[3] In his account, Hollywood and the media could no longer conceal pervasive, ongoing sexual abuse by executives, so they threw a small number of figures such as [[harvey-weinstein|Harvey Weinstein]] under the bus and expressed shock and dismay, shielding the wider industry from scrutiny in the process.[3]
+
+Carlson argued that once the media felt compelled to expose the abuse, a parallel campaign began to make the claims appear ridiculous, with women and men encouraged toward increasingly absurd allegations.[3] The more outlandish the accusations the Hollywood machine could surface, he wrote, the more likely the public would dismiss the legitimate and serious allegations obscured beneath them.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Trump Immunity, FED Panic & #MeToo Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-bad
 2. Badlands Brief — "Last Chance at WW3 as the MAGAvengers Assemble", URL: https://badlands.substack.com/p/badlands-news-brief-dae
+3. Badlands Brief — "The Road Without Struggle", URL: https://badlands.substack.com/p/the-road-without-struggle

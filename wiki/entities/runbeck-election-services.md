@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [arizona, maricopa-county, elections, vendors, 2022-midterms]
-sources: [raw/an-sos-from-ground-zero.md, raw/arizona-earthquake.md, raw/badlands-brief-509.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-e38.md, raw/red-dawn-iii.md, raw/thats-not-signature-verification.md]
+sources: [raw/an-sos-from-ground-zero.md, raw/arizona-earthquake.md, raw/badlands-brief-509.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-e38.md, raw/red-dawn-iii.md, raw/thats-not-signature-verification.md, raw/timing-is-everything.md]
 confidence: low
 ---
 
@@ -53,3 +53,9 @@ Commentary from [[ashe-in-america|Ashe in America]] tied the referral to earlier
 ## Sole source contracting comparison (October 2023)
 An October 2023 investigation by [[ashe-in-america|Ashe in America]] cited Runbeck as an example of the risks of non-competitive procurement, noting that many counties contract with the company for ballot printing on a [[sole-source-contracting|sole source]] basis.[6] The article used the comparison to argue that government sometimes builds a process around a specific vendor and then justifies avoiding competitive bidding by asserting that only that vendor can perform the work — the same justification used for the Department of Defense project [[red-dawn-iii|Red Dawn III]].[6]
 7. Badlands Brief — "That's Not Signature Verification, Your Honor", URL: https://badlands.substack.com/p/thats-not-signature-verification
+
+## Emergence as a public target (November 2022)
+
+Badlands Media contributor [[joe-lange|Joe Lange]] wrote on November 25, 2022 that a [[qanon|Q]] post focused on election fraud had introduced followers to "the company that controls the ballots printed in Arizona" — Runbeck — and that researchers were now digging up information on the company and spreading it across social media in much the same way they had with the Michigan election software firm [[konnech|Konnech]].[8] He asserted that Runbeck produced the ballots used in Arizona and had purposely produced far more than were needed, and treated the near-simultaneous public exposure of both Runbeck and Konnech as more than coincidence, predicting further indictments and revelations concerning the two companies.[8]
+
+8. Badlands Brief — "Timing Is Everything", URL: https://badlands.substack.com/p/timing-is-everything

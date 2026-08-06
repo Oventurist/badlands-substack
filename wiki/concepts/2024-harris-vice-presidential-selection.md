@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [2024-election, democrats, kamala-harris, tim-walz, campaign]
-sources: [raw/badlands-news-brief-0ad.md]
+sources: [raw/badlands-news-brief-0ad.md, raw/who-controls-whom.md]
 confidence: medium
 ---
 
@@ -26,5 +26,8 @@ On their first full day campaigning together, Harris and Walz toured the Midwest
 
 Badlands writer [[ashe-in-america|Ashe in America]] argued that Walz was now under the microscope and more radical than the left wanted voters to believe, and that Trump's enthusiasm for the pick "has to have Harris rethinking the choice."[1] The commentary contended that a running mate credibly comparable to Sanders was problematic for a nominee who had herself been rated the most radical senator during her Senate tenure, potentially alarming middle-of-the-road voters.[1] It concluded that policy, not appearance, was the decisive matter, citing Walz's school menstrual-products policy and his handling of the 2020 Minneapolis unrest.[1]
 
+Badlands contributor [[erik-carlson|Erik Carlson]] treated the announcement as an engineered distraction, writing that the "no-balls-Walz" and "tampon-Tim" narrative shift had been "teed up for us to feast on" and that Walz had been set up to serve as a punching bag for [[jd-vance|JD Vance]].[2] He likened the spectacle to "a morbidly obese person being dropped into a pit full of hungry zombies" and used it to illustrate his broader argument that the public is intentionally yanked between narratives to keep attention away from events under the surface.[2] Carlson further argued that the [[deep-state|Deep State]] had not chosen to run [[kamala-harris|Harris]] this late by preference — having spent three and a half years hiding her and installing her as border czar, the administration's most glaringly obvious disaster — but because it had no other option, which he read as evidence it had lost control.[2]
+
 ## References
 1. Badlands News Brief — "The Walz Cycle Consumes Itself as Tensions Pause", URL: https://badlands.substack.com/p/badlands-news-brief-0ad
+2. Badlands Brief — "Who Controls Whom?", URL: https://badlands.substack.com/p/who-controls-whom

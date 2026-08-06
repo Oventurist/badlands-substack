@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [globalism, world-government, cabal, new-world-order]
-sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-blitz-episode-9.md, raw/badlands-brief-95a.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-d68.md, raw/oppenheimer-and-the-central-narrative.md, raw/the-master-builder.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-blitz-episode-9.md, raw/badlands-brief-95a.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-d68.md, raw/oppenheimer-and-the-central-narrative.md, raw/the-master-builder.md, raw/the-steering-wheel-of-civilization.md]
 confidence: low
 ---
 
@@ -69,3 +69,9 @@ Badlands Media's "The Master Builder" (February 2, 2023) asks whether China is c
 The article marshals the [[forbidden-city|Forbidden City]] state dinner, Beijing's search for a private channel through [[jared-kushner|Jared Kushner]], Trump's undocumented meetings with [[vladimir-putin|Vladimir Putin]], and the emergence of the [[brics|BRICS]] coalition as evidence of that alignment.[7] It reads [[george-soros|George Soros]]'s simultaneous attacks on Xi, Putin and Trump at the 2019 [[world-economic-forum|World Economic Forum]] as a sign of panic that the coalition was real.[7]
 
 7. Badlands Media — "The Master Builder", URL: https://badlands.substack.com/p/the-master-builder
+
+## Cited in "The Steering Wheel of Civilization"
+
+The February 24, 2023 Badlands Media essay "The Steering Wheel of Civilization" groups New World Order-types together with the so-called Illuminati, cabal and globalists as labels for what it calls the [[parasitic-elite|parasitic elite]].[8] The essay contends that the ends this class desires — including mass genocide and population control, human experimentation and abuse of children — are not palatable to most sane and normal people, which creates the problem that drives their reliance on mass mind control techniques developed in the distant past by the [[shadow-men|Shadow Men]].[8]
+
+8. Badlands Brief — "The Steering Wheel of Civilization", URL: https://badlands.substack.com/p/the-steering-wheel-of-civilization

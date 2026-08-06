@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [gender-ideology, canada, lawfare, human-rights-law, culture-war]
-sources: [raw/gender-ideology-has-become-law.md, raw/im-not-a-biologist.md]
+sources: [raw/gender-ideology-has-become-law.md, raw/im-not-a-biologist.md, raw/these-3-events-expose-gender-ideology.md]
 confidence: medium
 ---
 
@@ -48,3 +48,12 @@ She identified specific claims of gender theory as myths: that pronoun changes a
 Ashe argued that the phenomenon is not an organic social contagion but "a change program, being commissioned and propagated by the most powerful entities on earth," pointing to the United Nations' [[sustainable-development-goals|Sustainable Development Goal #5]] as explicitly enshrining gender theory as a global imperative, and to the appearance of the UN SDGs in American classrooms.[2] She described the "rainbow terrorist coalition" as having successfully reframed any pushback as the claim that transgender people have no right to exist, a framing she said had become the debate itself and had killed nuance.[2] Her concluding position was that "biology isn't just reality, it's actuality," and that truth remains true even if the entire global establishment disputes it.[2]
 
 2. Badlands Brief - "I'm Not a Biologist!", URL: https://badlands.substack.com/p/im-not-a-biologist
+## Gender ideology as fifth-generation warfare
+
+In a March 2023 Badlands feature, filmmaker [[simon-esler|Simon Esler]] framed gender ideology as one of the primary operations of [[fifth-generation-warfare|fifth-generation warfare]] targeting children, arguing that it ideologically infiltrated the family, divided child from parent, stripped away parental rights, dissolved the idea that children cannot consent, and empowered the state to take custody of children more easily than ever before.[3] He described its implementation in the West as a massive success story for the enemy in a battle of perceptions and information, whose single most successfully attacked target was adolescent girls.[3]
+
+Esler cited data showing that between 2010 and 2018 the number of girls seeking gender treatment in the United Kingdom rose by 4,000%, and figures compiled by Komodo for [[reuters|Reuters]] stating that "in 2021, about 42,000 children and teens across the United States received a diagnosis of gender dysphoria, nearly triple the number in 2017."[3] Gender clinics in Canada and elsewhere reported that their caseload shifted from predominantly preschool boys with clinical [[gender-dysphoria|gender dysphoria]] to teenage girls with no prior history of it.[3] He described girls suddenly asking to be called new names, seeking [[puberty-blockers|Lupron]] — a drug typically used to castrate sex offenders — and requesting mastectomies and testosterone, with an ideologically captured population of parents, therapists and surgeons ready to accommodate them without question.[3]
+
+He further argued that the issue is deliberately kept politically polarised — inflaming the left over rising "right wing transphobia" and the right over the left transitioning children — so that the two sides cannot network effectively against "an enemy who uses politics but is not inherently political."[3] Esler pointed to [[gays-against-groomers|Gays Against Groomers]], [[billboard-chris|Billboard Chris]] and [[tulsi-gabbard|Tulsi Gabbard]]'s interview with [[chloe-cole|Chloe Cole]] as apolitical developments that undercut the enemy's need for the issue to appear political.[3]
+
+3. Badlands Brief — "These 3 Events Expose Gender Ideology", URL: https://badlands.substack.com/p/these-3-events-expose-gender-ideology

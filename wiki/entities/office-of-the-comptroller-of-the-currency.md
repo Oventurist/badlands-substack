@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, regulation, treasury, deregulation]
-sources: [raw/badlands-news-brief-86f.md, raw/never-let-a-crisis-go-to-waste.md]
+sources: [raw/badlands-news-brief-86f.md, raw/never-let-a-crisis-go-to-waste.md, raw/trump-doctrine-peace-through-space.md]
 confidence: medium
 ---
 
@@ -22,7 +22,12 @@ The OCC is an independent bureau within the [[us-department-of-the-treasury|Unit
 
 With [[deregulation|deregulation]] having swept away most of the safeguards in place since the Great Depression, the Comptroller was the one official who could have blown the whistle early and stopped the scandal from becoming a major crisis.[2] The man [[ronald-reagan|Reagan]] appointed to the post was [[robert-l-clarke|Robert L. Clarke]], a [[george-hw-bush|Bush]] colleague whom journalist Jonathan Kwitny reported had once helped organise a bank that laundered thrift money into an overseas account; Lange says he was installed to turn a blind eye and then manage the taxpayer bailout.[2] The office also compiled the record of [[herman-k-beebe|Herman K. Beebe]]'s network, listing 55 state banks and 29 thrifts controlled at various times by Beebe and his associates.[2]
 
+## Trump Doctrine: Peace Through Space
+
+"[[trump-doctrine-peace-through-space|Trump Doctrine: Peace Through Space]]" notes that on May 21, 2020 [[donald-trump|Trump]] and Treasury Secretary [[steven-mnuchin|Steve Mnuchin]] appointed Bitcoin maximalist [[brian-brooks|Brian Brooks]] as head of the OCC, and that within two months, by July 22, 2020, Mnuchin and Brooks had made it legal for banks to custody [[bitcoin|bitcoin]].[3] The article treats the appointment as evidence that Trump quietly created access for Americans to buy and sell Bitcoin despite his public scepticism.[3]
+
 ## References
 
 1. Badlands News Brief — "Media Apologies, Fake & Gay Drones and Trump Appointments", URL: https://badlands.substack.com/p/badlands-news-brief-86f
 2. Badlands Brief — "Never Let a Crisis Go to Waste", URL: https://badlands.substack.com/p/never-let-a-crisis-go-to-waste
+3. Badlands Brief — "Trump Doctrine: Peace Through Space", URL: https://badlands.substack.com/p/trump-doctrine-peace-through-space

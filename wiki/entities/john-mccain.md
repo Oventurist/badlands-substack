@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, libya, syria, weapons, lobbying, benghazi, immigration, obamacare]
-sources: [raw/a-dereliction-of-duty.md, raw/a-conflict-of-interest.md, raw/bad-actors.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-204.md, raw/hes-not-a-war-hero.md, raw/infiltration-not-invasion.md, raw/moves-and-countermoves.md, raw/money-and-oil.md, raw/q-for-dummies-chapter-1.md, raw/q-for-dummies-chapter-7.md, raw/q-for-dummies-chapter-3.md, raw/q-for-dummies-chapter-4.md, raw/the-ongoing-betrayal-of-the-gop.md]
+sources: [raw/a-dereliction-of-duty.md, raw/a-conflict-of-interest.md, raw/bad-actors.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-204.md, raw/hes-not-a-war-hero.md, raw/infiltration-not-invasion.md, raw/moves-and-countermoves.md, raw/money-and-oil.md, raw/q-for-dummies-chapter-1.md, raw/q-for-dummies-chapter-7.md, raw/q-for-dummies-chapter-3.md, raw/q-for-dummies-chapter-4.md, raw/the-ongoing-betrayal-of-the-gop.md, raw/transparency-and-prosecution.md, raw/two-wings-one-ugly-bird.md, raw/what-difference-does-benghazi-make.md]
 confidence: medium
 ---
 
@@ -137,3 +137,29 @@ Chapter 4 of the [[q-for-dummies|Q for Dummies]] series treats drop #25 of Novem
 Badlands Media reports that John McCain ran the [[international-republican-institute|International Republican Institute]], the Republican arm of the [[national-endowment-for-democracy|National Endowment for Democracy]], for 25 years.[14] The outlet uses "the John McCain wing of the Republican Party" as shorthand for the traditional, Chamber-of-Commerce Republicans who remain committed to the NED apparatus and, in the article's view, are unwilling to let go of a weapon that serves so many of their interests — a faction it blames for the 2025 vote to renew full NED funding over [[donald-trump|Donald Trump]]'s objection.[14]
 
 14. Badlands Brief — "The Ongoing Betrayal of the GOP", URL: https://badlands.substack.com/p/the-ongoing-betrayal-of-the-gop
+
+## The May 2013 Syria trip and the case for treason
+
+The Badlands Media feature "Transparency and Prosecution" builds a detailed case that McCain committed treason and [[seditious-conspiracy|seditious conspiracy]] through his May 28, 2013 trip into Syria to meet self-described rebel leaders.[15] The article states that [[erik-prince|Erik Prince]] and [[blackwater|Blackwater]] served as the "special contractors" who escorted McCain into and out of Syria and shadowed his every move, despite the absence of diplomatic relations with Damascus at the time.[15]
+
+Photographs from the meeting show McCain beside [[salem-idris|General Salem Idris]] of the [[free-syrian-army|Free Syrian Army]]'s Supreme Military Council, whom the article says McCain wanted presented as the moderate face of the "freedom fighters."[15] Also present, per the Q drops the article reproduces, were [[abu-bakr-al-baghdadi|Abu Bakr al-Baghdadi]], the ISIS press officer Abu Mosa, and Muahmmad Noor, a wanted Syrian terrorist affiliated with the [[northern-storm-brigade|Northern Storm Brigade]] who specialized in kidnapping American journalists.[15] The article notes that walls in one photograph bore [[usaid|USAID]] labelling, which it presents as evidence that American taxpayer money was funding [[isis|ISIS]] in Syria.[15] It further observes that the meeting took place on Memorial Day and that McCain's lapel pin was a Syrian rebel flag rather than an American flag.[15]
+
+The trip was organized by [[mouaz-moustafa|Mouaz Moustafa]] of the [[syrian-emergency-task-force|Syrian Emergency Task Force]], who also led Representative [[adam-kinzinger|Adam Kinzinger]] on comparable delegations.[15] Back in Washington, McCain cited a Wall Street Journal op-ed by [[elizabeth-obagy|Elizabeth O'Bagy]] — referring to her as "Doctor" — during a Senate hearing to press Congress to fund the rebels, an effort that collapsed days later when O'Bagy's claimed doctorate was exposed as false.[15] Senator [[rand-paul|Rand Paul]] publicly challenged McCain over arming the Syrian opposition, and McCain made a televised slip on Sean Hannity's program that implied he had met with ISIS.[15]
+
+The article concludes that McCain "knowingly" committed treason and sedition by aiding and funding ISIS, adds his promotion of the Steele dossier against [[donald-trump|Donald Trump]] as a second count, and reads a sequence of Q drops — including one posted on July 25, 2018 at 7:28 pm showing McCain with his hands raised — as signalling that his death on August 25, 2018, thirty days later, was the delivery of justice rather than a natural end.[15] It also cites the U.S. Navy's acknowledgement that a request was made to keep the USS John S. McCain out of sight during Trump's 2019 state visit to Japan.[15]
+
+15. Badlands Brief — "Transparency and Prosecution", URL: https://badlands.substack.com/p/transparency-and-prosecution
+
+## IRI chairmanship and the Tea Party
+
+"Two Wings, One Ugly Bird" describes the late Arizona senator as chairman of the [[international-republican-institute|International Republican Institute]] from 1993 until his death in 2018, a neoconservative icon who drove the institute's hawkish democracy agenda in Eastern Europe and the Middle East, and a member of the Council on Foreign Relations.[16] The article credits him and fellow IRI strategist [[randy-scheunemann|Randy Scheunemann]] with turning the institute's regime-change toolkit inward on the [[tea-party-movement|Tea Party]] after 2009, using candidate training, strategy briefs and [[national-endowment-for-democracy|NED]] money to redirect the movement toward neoconservative priorities by 2012.[16]
+
+16. Badlands Brief — "Two Wings, One Ugly Bird", URL: https://badlands.substack.com/p/two-wings-one-ugly-bird
+
+## Benghazi hearings and the Turi connection
+
+"What Difference Does Benghazi Make?" argues McCain played a substantial part in the political theater of the [[benghazi-attack|Benghazi]] hearings, framing the cover-up around a red herring so the public would not examine why the consulate was attacked.[17] In this account his role was to keep the focus on the lack of security and the failure to respond, helping [[hillary-clinton|Hillary Clinton]] avoid discussing [[al-qaeda|Al Qaeda]]'s involvement, in contrast to the sharper exchange between Clinton and Senator [[ron-johnson|Ron Johnson]].[17]
+
+The article also connects McCain to Arizona arms dealer [[marc-turi|Marc Turi]]. A May 2016 defense presentation in Turi's federal case noted that he had contacted McCain's office for support, and included a March 2011 message from Turi to a McCain staffer describing [[turi-defense-group|Turi Defense Group]] as "the single largest private supplier of weapons and ammunition into Afghanistan" and seeking State Department licenses to begin delivery to Libyan fighters immediately.[17] Within weeks of that message McCain became a leading voice for arming Libya's anti-Gadhafi forces, arguing that Western powers needed to do more to "facilitate" the delivery of weapons and training to the rebels.[17] Lange further links McCain to the [[national-transitional-council|National Transitional Council]], which he pressed allies to recognize, and to [[david-petraeus|David Petraeus]], then CIA director and a co-founder of the McCain Institute.[17] He concludes that McCain and Turi expected to profit from arming the Libyan rebels until Clinton redirected the arrangement toward the [[clinton-foundation|Clinton Foundation]].[17]
+
+17. Badlands Brief — "What Difference Does Benghazi Make?", URL: https://badlands.substack.com/p/what-difference-does-benghazi-make

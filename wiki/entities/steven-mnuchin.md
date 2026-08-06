@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [treasury, trump-administration, crypto, foia]
-sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-news-brief-365.md, raw/badlands-news-brief-b35.md, raw/the-covfefe-dig.md, raw/the-midas-touch.md]
+sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-news-brief-365.md, raw/badlands-news-brief-b35.md, raw/the-covfefe-dig.md, raw/the-midas-touch.md, raw/trump-doctrine-peace-through-space.md]
 confidence: medium
 ---
 
@@ -36,6 +36,10 @@ In March 2024, Mnuchin's investment firm [[liberty-strategic-capital|Liberty Str
 
 "The COVFEFE Dig" (March 2023) names Mnuchin as Treasury Secretary during the COVID-19 financial turmoil of 2020 and places him at the centre of what it calls the merger of the [[federal-reserve|Federal Reserve]] and the [[us-department-of-the-treasury|Treasury]].[4] Working with [[donald-trump|Trump]] and the Fed, he is said to have overseen approval of a raft of new programs alongside unlimited quantitative easing and roughly $1 trillion a day in repurchase agreements, with the Treasury using the [[exchange-stabilization-fund|Exchange Stabilization Fund]] to take equity stakes in the special purpose vehicles created for each lending facility.[4] [[gmoney|GMONEY]] argues the effect was that the Treasury, not the Fed, bought the securities and backstopped the loans, achieving what [[john-f-kennedy|John F. Kennedy]] had sought with [[executive-order-11110|Executive Order 11110]].[4]
 
+## Trump Doctrine: Peace Through Space
+
+"[[trump-doctrine-peace-through-space|Trump Doctrine: Peace Through Space]]" credits Mnuchin, as [[donald-trump|Trump]]'s Treasury Secretary, with two decisive monetary interventions.[6] On July 15, 2019 he stated that he was "not currently comfortable with Facebook launching its Libra cryptocurrency platform" and that the administration had held multiple meetings with regulators and [[facebook|Facebook]] representatives at which the US government expressed its concerns, an intervention that ultimately stopped the [[diem|Diem]] project.[6] On May 21, 2020 he and Trump appointed Bitcoin maximalist [[brian-brooks|Brian Brooks]] to head the OCC, and within two months the pair had made it legal for banks to custody [[bitcoin|bitcoin]].[6]
+
 ## References
 1. Badlands Brief — "Are CBDCs The Path To Fear, or Freedom?", URL: https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom
 2. Badlands Brief — "Badlands News Brief: 'You Are Watching a Movie' Intensifies ...", URL: https://badlands.substack.com/p/badlands-news-brief-365
@@ -46,3 +50,4 @@ In March 2024, Mnuchin's investment firm [[liberty-strategic-capital|Liberty Str
 ## Fort Knox visit (2017)
 
 In August 2017, during [[donald-trump|Donald Trump]]'s first year in office, Mnuchin became only the third treasury secretary ever to visit the United States Bullion Depository at [[fort-knox|Fort Knox]], Kentucky — an event without precedent since 1948 that caught many observers by surprise.[5] Visits to the classified facility, built in 1936, are extremely rare for security reasons.[5] Mnuchin noted that although the depository's contents were valued at roughly $200 billion, the gold had last been counted in 1953.[5] Badlands contributor [[joe-lange|Joe Lange]] reads the visit as confirmation that the gold exists, a precondition for any return to a [[gold-standard|gold standard]].[5]
+6. Badlands Brief — "Trump Doctrine: Peace Through Space", URL: https://badlands.substack.com/p/trump-doctrine-peace-through-space

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [q, qanon, decoding, information-war]
-sources: [raw/q-for-dummies-chapter-1.md, raw/q-for-dummies-chapter-15.md, raw/q-for-dummies-chapter-5.md]
+sources: [raw/q-for-dummies-chapter-1.md, raw/q-for-dummies-chapter-15.md, raw/q-for-dummies-chapter-5.md, raw/the-white-pill-emporium-part-2.md]
 confidence: low
 ---
 
@@ -37,3 +37,9 @@ Drops #37 and #38 receive the same treatment: the call to "LET JUSTICE BE SERVED
 1. Badlands Brief — "Q for Dummies - Chapter 1", URL: https://badlands.substack.com/p/q-for-dummies-chapter-1
 2. Badlands Brief — "Q for Dummies - Chapter 15", URL: https://badlands.substack.com/p/q-for-dummies-chapter-15
 3. Badlands Brief — "Q for Dummies - Chapter 5", URL: https://badlands.substack.com/p/q-for-dummies-chapter-5
+
+## Metaphysical reading
+
+Part 2 of [[the-white-pill-emporium|The White Pill Emporium]] (2 November 2024) offers a metaphysical gloss on the maxim, invoking it parenthetically after arguing that God's perception of time reconciles "eternity" and "now," so that from a human perspective God can alter the present or the past from the future.[4] [[american-hypnotist|American Hypnotist]] claims that human beings can do the same to a degree he describes as scientifically provable, and that a person's ability to influence reality increases the closer they come to God and need not be time-bound in any conventional sense.[4] He extends the reading to suggest that [[donald-trump|Trump]], Q and the [[white-hats|white hats]] stay ahead of the [[cabal|cabal]] by accessing intelligence across potential timelines, and treats the popularity of the "4D chess" meme as a deliberate communication rather than a coincidence.[4]
+
+4. Badlands Brief — "The White Pill Emporium - Part 2: Divine Intervention, Q and the CTMU", URL: https://badlands.substack.com/p/the-white-pill-emporium-part-2

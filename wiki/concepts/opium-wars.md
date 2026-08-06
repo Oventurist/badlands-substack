@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [opium-wars, china, british-empire, opium, hong-kong]
-sources: [raw/dope-inc.md]
+sources: [raw/dope-inc.md, raw/understanding-the-soul-of-china.md, raw/who-are-the-true-puppet-masters.md]
 confidence: medium
 ---
 
@@ -34,3 +34,17 @@ By the mid-1800s London opium traffickers began diversifying into the cotton tra
 
 ## References
 1. Badlands Brief — "Dope, Inc.", URL: https://badlands.substack.com/p/dope-inc
+
+## In Sun Yat-sen's critique of free trade
+
+[[matthew-ehret|Matthew Ehret]] writes that [[sun-yat-sen|Sun Yat-sen]] rallied against the lies of British Free Trade that had been used to justify the two opium wars during China's "century of humiliation."[2] The memory of the wars remained painful when Sun attacked the capitalist systems promoted by the [[british-empire|British Empire]], contrasting a system in which "capitalism makes profit its sole aim" with his Principle of Livelihood, which "makes the nurture of the people its aim."[2]
+
+2. Badlands Brief — "Understanding the Soul of China", URL: https://badlands.substack.com/p/understanding-the-soul-of-china
+
+## Cited in "Who are the True Puppet Masters?" (July 2023)
+
+[[erik-carlson|Erik Carlson]] treats the first Opium War of 1839 as the starting point of a British role in the international drug trade that he argues continues to the present, alongside human trafficking.[3] England, he writes, had been trafficking drugs into China and creating a massive number of Chinese drug addicts — the origin of the Chinese opium den, which he calls a pre-crack house.[3] When China stopped allowing British ships to bring in their drugs, the Chinese were attacked by the British and the drug trafficking resumed.[3]
+
+The episode is presented as an early, still-open instance of British imperial coercion later concealed beneath the shadow methods of the [[british-cabal|British Cabal]].[3]
+
+3. Badlands Brief — "Who are the True Puppet Masters?", URL: https://badlands.substack.com/p/who-are-the-true-puppet-masters

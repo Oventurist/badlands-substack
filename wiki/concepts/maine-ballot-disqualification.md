@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ballot-access, fourteenth-amendment, 2024-election, lawfare, maine]
-sources: [raw/badlands-news-brief-378.md, raw/badlands-news-brief-5ff.md]
+sources: [raw/badlands-news-brief-378.md, raw/badlands-news-brief-5ff.md, raw/trials-tribulations-and-a-long-train.md]
 confidence: medium
 ---
 
@@ -28,6 +28,8 @@ For that reason the argument was made that the [[supreme-court-of-the-united-sta
 
 Trump's campaign announced an immediate appeal to the Maine Superior Court, with statute requiring a decision by January 17, 2024 to affirm or overturn the disqualification — a date treated by Badlands commentators as significant.[1]
 
+Writing on January 10, 2024, [[ashe-in-america|Ashe in America]] summarized the end-of-month calendar as "a flurry of deadlines in Maine": January 17 was the last day for the Maine Superior Court to issue a written decision on any specific motion, any such decision could be appealed by January 20, and January 31 was the deadline for the court's final decision on Trump's ballot access in the Pine Tree State.[3] She placed the Maine schedule alongside the parallel Oregon Section 3 challenge, in which parties had that week filed supplemental briefing on plaintiffs' standing and on the Oregon Secretary of State's authority to remove Trump from the ballot, and characterized the multistate ballot challenges as "overt, direct election interference by uniparty government officials and progressive lawfare NGOs."[3]
+
 ## Judicial deferral and dismissal of the appeal (January 2024)
 
 In January 2024, Maine Superior Court Justice [[michaela-murphy|Michaela Murphy]] deferred judgment on review of Secretary of State [[shenna-bellows|Shenna Bellows]]'s disqualification decision, citing the [[supreme-court-of-the-united-states|Supreme Court]]'s upcoming February 8 argument over the Colorado case.[2] Bellows appealed the deferral, but the Maine Supreme Court declined to take the matter, observing that Murphy had only deferred and had not ruled, and holding that "because the appeal is not from a final judgment, we dismiss the appeal as interlocutory and not justiciable."[2]
@@ -37,3 +39,4 @@ Legal scholar [[jonathan-turley|Jonathan Turley]] summarized the outcome as "the
 ## References
 1. Badlands Brief — "Badlands News Brief: Hypocrisy Roundup & Rug-pulls Galore", URL: https://badlands.substack.com/p/badlands-news-brief-378
 2. Badlands Brief — "Red States Align While the MSM Craters", URL: https://badlands.substack.com/p/badlands-news-brief-5ff
+3. Badlands Media — "Trials, Tribulations & a Long Train of Abuses", URL: https://badlands.substack.com/p/trials-tribulations-and-a-long-train

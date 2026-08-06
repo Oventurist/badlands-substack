@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [congress, january-6, investigations, subpoenas]
-sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-07f.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-ac1.md, raw/badlands-news-brief-bfb.md]
+sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-07f.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-ac1.md, raw/badlands-news-brief-bfb.md, raw/tucker-twitter-and-the-truth-community.md]
 confidence: medium
 ---
 
@@ -87,3 +87,8 @@ The committee's report supplied the evidentiary backdrop for the state ballot-di
 8. Badlands Brief — "Badlands News Brief: January 6 and Nord Stream Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-8f4
 9. Badlands Brief — "The Media Melts Down as MAGA Rises Once More ...", URL: https://badlands.substack.com/p/badlands-news-brief-ac1
 10. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb
+11. Badlands Brief — "Tucker, Twitter, and the Truth Community", URL: https://badlands.substack.com/p/tucker-twitter-and-the-truth-community
+
+## Records destruction and the Sund account
+
+In August 2023, following [[tucker-carlson|Tucker Carlson]]'s [[tucker-on-twitter|Tucker on Twitter]] interview with former Capitol Police Chief [[steven-sund|Steven Sund]], independent investigative journalist [[mel-hawley|Mel Hawley]] asked on [[culture-of-change|Culture of Change]] whether inconsistencies between the official narrative and the official record were the reason the committee destroyed all of its records.[11] [[ashe-in-america|Ashe in America]], who characterized the panel as the sham J6 Committee of the last Congress, called it a question House Republicans needed to investigate.[11] Sund said that the committee's chairman, Representative [[bennie-thompson|Bennie Thompson]], told the committee that [[nancy-pelosi|Nancy Pelosi]] and all of her records were "off limits," despite Pelosi being, in Ashe's phrase, the "Top Boss" atop the chain of command on January 6.[11]

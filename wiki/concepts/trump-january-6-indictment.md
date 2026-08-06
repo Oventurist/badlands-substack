@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [jack-smith, january-6, 2020-election, lawfare, indictment]
-sources: [raw/badlands-news-brief-07f.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-a0c.md, raw/badlands-news-brief-a89.md]
+sources: [raw/badlands-news-brief-07f.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-a0c.md, raw/badlands-news-brief-a89.md, raw/trials-tribulations-and-a-long-train.md]
 confidence: medium
 ---
 
@@ -74,6 +74,14 @@ On 27 August 2024 special counsel [[jack-smith|Jack Smith]] filed a superseding 
 
 The special counsel's office said the superseding indictment, "which was presented to a new grand jury that had not previously heard evidence in this case, reflects the Government's efforts to respect and implement the Supreme Court's holdings and remand instructions in [[trump-v-united-states|Trump v. United States]]."[8] The replacement indictment thrust the question of Trump's effort to overturn the 2020 election back into the final months of the 2024 campaign, at a time when his legal and political narratives had merged through his claims that he was the victim of a conspiracy by the [[joe-biden|Biden]] administration to weaponise justice against him.[8]
 
+## D.C. Circuit immunity appeal (January 2024)
+
+Oral argument on Trump's appeal of Judge [[tanya-chutkan|Tanya Chutkan]]'s ruling rejecting his "presidential immunity" defense was heard on Tuesday, January 9, 2024 before a three-judge panel of the United States Court of Appeals for the District of Columbia Circuit, in the criminal proceeding docketed 1:23-cr-00257-TSC-1.[10] Trump's lawyers argued that the federal election-subversion indictment should be dismissed because he is immune from prosecution, and the panel questioned whether that theory would allow presidents to sell pardons or assassinate political opponents.[10]
+
+In the exchange most widely reported, Judge [[florence-pan|Florence Pan]] asked whether a president could order SEAL Team Six to assassinate a political rival as an official act; counsel John Sauer replied that such a president "would have to be, and would speedily be impeached and convicted before the criminal prosecution," and, pressed for a yes-or-no answer, maintained that the "political process" of impeachment "would have to occur" before any prosecution could be initiated.[10] Chutkan's ruling was held in abeyance - what [[ashe-in-america|Ashe in America]] called "legal purgatory" - until the appeal was adjudicated.[10]
+
+The hearing came as Chutkan and Special Counsel [[jack-smith|Jack Smith]] were reported to have been [[swatting|swatted]] in the preceding days, incidents the press attributed to "election denial."[10] Ashe placed the appeal within a broader calendar of [[lawfare|lawfare]] proceedings against Trump running in parallel with the 2024 primary season, noting that [[just-security|Just Security]] had published a clearinghouse calendar of "the busy legal schedule of cases in which Trump is a criminal or civil defendant."[10]
+
 ## References
 1. Badlands News Brief — "Trump's Trial, Archer's Animus & BRICS' Battle", URL: https://badlands.substack.com/p/badlands-news-brief-07f
 2. Badlands Brief — "Badlands News Brief: Trump Surges, COVID Flags & Ukraine Slips", URL: https://badlands.substack.com/p/badlands-news-brief-0ec
@@ -84,3 +92,4 @@ The special counsel's office said the superseding indictment, "which was present
 7. Badlands News Brief — "The Trump Hunt & the Biden Blitz", URL: https://badlands.substack.com/p/badlands-news-brief-88b
 8. Badlands News Brief — "Transition Teams at Home and Abroad ...", URL: https://badlands.substack.com/p/badlands-news-brief-a0c
 9. Badlands News Brief — "Epstein Fallout Continues as the Biden Admin Implodes", URL: https://badlands.substack.com/p/badlands-news-brief-a89
+10. Badlands Media - "Trials, Tribulations & a Long Train of Abuses", URL: https://badlands.substack.com/p/trials-tribulations-and-a-long-train

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, epigenetics, consciousness, hijacked-consciousness]
-sources: [raw/hijacked-consciousness-field-builders.md, raw/the-bridge.md, raw/the-emergence.md]
+sources: [raw/hijacked-consciousness-field-builders.md, raw/the-bridge.md, raw/the-emergence.md, raw/walking-the-path.md]
 confidence: low
 ---
 
@@ -22,7 +22,12 @@ The same quotation — that the moment we change our perception we also rewrite 
 
 A closely related formulation — "Your perception rewrites the biology of your body" — is attributed to Lipton in the April 26, 2025 essay [[the-emergence|"The Emergence"]].[3] There the quotation supports the claim that in the state the author calls [[coherence|coherence]], perception is "no longer hijacked by trauma loops," so that the reader stops scanning the horizon for danger and listens within for direction.[3] The essay adds that coherence does not eliminate chaos but confers the ability "to stay steady in its presence."[3]
 
+## Cited in "Walking the Path" (March 2025)
+
+Lipton, again credited as a biologist and the author of *The Biology of Belief*, opens the argument of the March 29, 2025 essay "Walking the Path: From Awakening to Integration" with a different quotation: "We are not victims of our genes, but masters of our minds, capable of rewiring the subconscious to align with our conscious intent."[4] The line marks the essay's transition from the spark of [[spiritual-awakening|awakening]] to what the author calls "the fire of [[psychological-integration|integration]]," and supports the piece's premise that the path does not end at realization but begins there.[4]
+
 ## References
 1. Badlands Brief — "Hijacked Consciousness - Field Builders", URL: https://badlands.substack.com/p/hijacked-consciousness-field-builders
 2. Badlands Brief — "The Bridge", URL: https://badlands.substack.com/p/the-bridge
 3. Badlands Media — "The Emergence", URL: https://badlands.substack.com/p/the-emergence
+4. Badlands Brief — "Walking the Path", URL: https://badlands.substack.com/p/walking-the-path

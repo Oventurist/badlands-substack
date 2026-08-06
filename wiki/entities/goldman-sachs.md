@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, philanthropy, wall-street, investigations]
-sources: [raw/badlands-brief-169.md, raw/badlands-brief-6f4.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-276.md, raw/energy-consolidation.md, raw/structures-of-control-part-3.md, raw/the-harvard-control-grid.md, raw/the-ivy-web.md]
+sources: [raw/badlands-brief-169.md, raw/badlands-brief-6f4.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-276.md, raw/energy-consolidation.md, raw/structures-of-control-part-3.md, raw/the-harvard-control-grid.md, raw/the-ivy-web.md, raw/wilted-ivy.md]
 confidence: medium
 ---
 
@@ -64,3 +64,9 @@ Part 3 of Badlands Media's *Structures of Control* series names Goldman Sachs as
 "The Ivy Web" lists Goldman Sachs among the institutions to which former and current [[harvard-management-company|Harvard Management Company]] board members had ties as of 2024, alongside [[morgan-stanley|Morgan Stanley]], [[blackstone|Blackstone]], [[kkr|KKR]], the [[council-on-foreign-relations|Council on Foreign Relations]] and the [[trilateral-commission|Trilateral Commission]].[9] The article also cites January 2024 reporting that Goldman Sachs and [[blackrock|BlackRock]] mirrored Harvard's liquidation of illiquid holdings, which it interprets as evidence of a coordinated institutional exit.[9]
 
 9. Badlands Brief — "The Ivy Web", URL: https://badlands.substack.com/p/the-ivy-web
+
+## Cited in "Wilted Ivy"
+
+Badlands Media's May 2025 essay "Wilted Ivy" lists Goldman Sachs among the institutions showing signs of structural stress, stating that the firm "quietly sells off private equity holdings, echoing Harvard's moves."[10] The article also names Goldman Sachs among the boards on which [[harvard-management-company|Harvard Management Company]] figures sit, alongside [[blackstone|Blackstone]] and [[t-rowe-price|T. Rowe Price]], and describes [[harvard-university|Harvard]] in its conclusion as "a funnel for BlackRock, Goldman, and State Street capital."[10]
+
+10. Badlands Brief — "Wilted Ivy", URL: https://badlands.substack.com/p/wilted-ivy

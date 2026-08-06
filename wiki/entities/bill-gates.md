@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [microsoft, philanthropy, gates-foundation, ai, nuclear]
-sources: [raw/america-has-a-cia-run-economy.md, raw/artificial-intelligence.md, raw/badlands-brief-e9e.md, raw/badlands-news-blast.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-68f.md, raw/q-for-dummies-chapter-12.md, raw/soul-governance.md, raw/the-latest-in-technocratic-nightmares.md, raw/the-inversion-of-health.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/artificial-intelligence.md, raw/badlands-brief-e9e.md, raw/badlands-news-blast.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-68f.md, raw/q-for-dummies-chapter-12.md, raw/soul-governance.md, raw/the-latest-in-technocratic-nightmares.md, raw/the-inversion-of-health.md, raw/the-whos-last-stand.md, raw/triggering-mass-psychosis.md, raw/why-do-we-know-what-we-know.md]
 confidence: medium
 ---
 
@@ -95,3 +95,25 @@ The article argued that whenever a "freakishly tyrannical western-sponsored prog
 ## Malthusian rhetoric
 
 In "The Inversion of Health," [[ryan-delarme|Ryan DeLarme]] situates Gates in the lineage of modern philanthropy that [[john-d-rockefeller|John D. Rockefeller]] is said to have created, and notes that the [[thomas-malthus|Malthusian]] argument — too many people, not enough food — "has been echoed by the likes of Bill Gates and other extremely wealthy and influential individuals."[12] DeLarme questions whether the resulting "Malthusian catastrophe" is a genuine threat or a pretext for keeping the population smaller and more manageable, and treats the idea as one basis of the modern [[eugenics]] movement.[12]
+
+## WHO funding and the pandemic instruments
+
+Badlands Media's "The WHO's Last Stand" identified Gates as the largest funder of the [[world-health-organization|World Health Organization]] when donations from the [[gates-foundation|Gates Foundation]] and his other organizations, such as [[gavi|GAVI the Vaccine Alliance]], are added together.[13] Because a majority of WHO funding is "specified" — earmarked for particular programs rather than allocated where need is greatest — the article argued that such funders exert massive influence over what the WHO does and how it does it.[13]
+
+The article listed Gates alongside [[anthony-fauci|Anthony Fauci]] and [[tedros-adhanom-ghebreyesus|Tedros Adhanom Ghebreyesus]] among figures engaged in what it called rampant fear-mongering about the inevitability of a next pandemic, observing that all of the individuals who stand to gain the most from another pandemic appeared "almost giddy" at the prospect.[13] It concluded that if the Pandemic Treaty were signed and the WHO elevated to a de facto world governing body, men like Gates would wield unprecedented influence over global affairs.[13]
+
+13. Badlands Brief — "The WHO's Last Stand", URL: https://badlands.substack.com/p/the-whos-last-stand
+
+## COVID priesthood framing (January 2023)
+
+[[justin-deschamps|Justin Deschamps]]'s January 20, 2023 essay on [[mass-psychosis]] named Gates as one of three figures forming what it called the "devout priesthood" of COVID-era authoritarianism, alongside [[anthony-fauci|Anthony Fauci]] and [[tedros-adhanom-ghebreyesus|Tedros Adhanom Ghebreyesus]], serving the institutional authority of the [[world-health-organization|WHO]], the [[national-institutes-of-health|NIH]] and the [[centers-for-disease-control-and-prevention|CDC]].[14]
+
+The essay situated such figures within its broader claim that the psychosis of [[totalitarianism]] almost always begins within a society's ruling class, among bankers, CEOs, politicians and old-money patriarchs who are prone to the delusion that they alone possess the knowledge, wisdom and acumen to control society from the top down.[14]
+
+14. Badlands Brief — "Triggering Mass Psychosis", URL: https://badlands.substack.com/p/triggering-mass-psychosis
+
+## As permitted knowledge (Carlson, May 2023)
+
+[[erik-carlson|Erik Carlson]] cited Gates in May 2023 as an illustration of his rule that the public only learns what the [[deep-state|Deep State cabal]] can afford to have known: if knowing that Gates is the biggest private farmland owner in the United States, that he funds vaccines and that he seeks population control were enough to take down the cabal, Carlson wrote, the public would not know it.[15] He grouped the observation with the equally public activities of [[george-soros|George Soros]] and with the openly reported attendee lists of the [[world-economic-forum|World Economic Forum]] at Davos.[15]
+
+15. Badlands Brief — "Why Do We Know What We Know?", URL: https://badlands.substack.com/p/why-do-we-know-what-we-know

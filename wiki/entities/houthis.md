@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [yemen, red-sea, iran-proxies, shipping]
-sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-53d.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-a89.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-bd6.md, raw/badlands-news-brief-d36.md, raw/badlands-news-brief-d5c.md, raw/badlands-news-brief-e37.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-f6f.md, raw/q-for-dummies-chapter-10.md]
+sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-53d.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-a89.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-bd6.md, raw/badlands-news-brief-d36.md, raw/badlands-news-brief-d5c.md, raw/badlands-news-brief-e37.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-f6f.md, raw/q-for-dummies-chapter-10.md, raw/trump-cuts-the-head-off-the-snake.md, raw/war-pigs-21c.md]
 confidence: medium
 ---
 
@@ -141,3 +141,17 @@ In May 2025 the Houthis continued launching ballistic missiles at Israel despite
 Chapter 10 of the [[q-for-dummies|Q for Dummies]] series identifies the "flying object" referenced in [[qanon|Q]] drop #73 of November 4, 2017 as a missile fired by Houthi rebels toward Riyadh and shot down shortly before the drop.[20] Q's follow-up question about the precision of non-civilian geo-tracking is read by the series as a hint tied to a later alleged attempt on [[air-force-one|Air Force One]], with the interception treated as part of the backdrop to the [[saudi-purge|Saudi purge]].[20]
 
 20. Badlands Brief — "Q for Dummies - Chapter 10", URL: https://badlands.substack.com/p/q-for-dummies-chapter-10
+
+## Abqaiq and Khurais drone attacks
+
+On September 14, 2019 the Houthis claimed responsibility for drone strikes on two major Saudi oil refineries, with spokesman Brig. Gen. Yahya Sare'e announcing "a massive offensive operation of ten drones targeting Abqaiq and Khurais refineries" — one of the largest operations the faction had mounted inside [[saudi-arabia|Saudi Arabia]] and one that reached some 500 miles beyond Yemeni territory.[21] Joe Lange treats the [[2019-abqaiq-and-khurais-drone-attacks|attack]] as the first of two events that triggered a wholesale change in the Middle East, the second being the [[2019-baghdad-embassy-attack|Baghdad embassy attack]] and the [[assassination-of-qasem-soleimani|killing of Qasem Soleimani]].[21] Lange argues that the November 2017 missile fired at Riyadh was supplied by [[hezbollah|Hezbollah]] and [[iran|Iran]], casting the Houthis as puppets and Tehran as the puppet master in a proxy war against Saudi Arabia.[21] The March 2023 [[2023-china-brokered-saudi-iran-normalization|China-brokered normalization]] rested on an Iranian commitment to curtail support for militant groups targeting the kingdom after eight years of Houthi–Saudi fighting.[21]
+
+21. Badlands Brief — "Trump Cuts the Head off the Snake", URL: https://badlands.substack.com/p/trump-cuts-the-head-off-the-snake
+
+## The January 2024 bombing campaign
+
+In "War Pigs," [[ryan-delarme|Ryan DeLarme]] wrote that the United States had ceased bombing [[yemen|Yemen]] for roughly a year until the [[joe-biden|Biden administration]] struck sixteen sites in the country in January 2024.[22] He noted that an informal ceasefire had held between the Houthis and [[saudi-arabia|Saudi Arabia]] for about a year prior, ending a war that began under [[barack-obama|Barack Obama]], who extensively assisted the Saudis in a campaign that decimated Yemen and produced one of the worst humanitarian crises in recent history.[22]
+
+DeLarme observed that, as of his writing, the Houthis had to his knowledge not actually killed anyone in their shipping "harassment campaign," while the mainstream media and the [[pentagon|Pentagon]] were already advancing a "Hollywoodesque narrative" — centered on two Navy SEALs presumed dead in a raid on a ship carrying Iranian-supplied weapons — designed to build support for the bombing.[22] He argued that the strikes were planned weeks in advance yet carried out without congressional approval or debate, were broadcast to the world beforehand in a way that compromised any strategic effect, and constituted an escalation by definition: "We weren't bombing Yemen, and now we are."[22]
+
+22. Badlands Brief — "War Pigs", URL: https://badlands.substack.com/p/war-pigs-21c

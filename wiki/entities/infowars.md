@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, censorship, alex-jones, x]
-sources: [raw/badlands-news-brief-220.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-4ee.md, raw/badlands-news-brief-6e5.md]
+sources: [raw/badlands-news-brief-220.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-4ee.md, raw/badlands-news-brief-6e5.md, raw/the-transition-integrity-project.md]
 confidence: medium
 ---
 
@@ -32,8 +32,14 @@ On August 31, 2025, [[owen-schroyer|Owen Schroyer]] abruptly announced his immed
 
 Following the September 2025 [[assassination-of-charlie-kirk|assassination of Charlie Kirk]], a widely shared August 13 post by [[harrison-smith|Harrison Smith]], a Texan who posts on Infowars, resurfaced; in it Smith wrote, "I'm not gonna name names, but I was told by someone close to Charlie Kirk that Charlie thinks Israel will kill him if he turns against them."[4] Smith stood by the comments after the shooting, and the post circulated alongside a wave of online allegations attributing the killing to Israel or [[mossad|Mossad]].[4]
 
+## Transition Integrity Project prediction
+
+The [[transition-integrity-project|Transition Integrity Project]]'s 2020 election war games forecast that, in the event of a Trump loss, Infowars would "dox" electors pledged to vote for [[joe-biden|Joe Biden]] — publishing their names, phone numbers and addresses — and connect those electors to [[george-soros|George Soros]] and child sex-trafficking.[5] Badlands Media contributor [[erik-carlson|Erik Carlson]] cites this among the dozens of TIP predictions that never came true.[5]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Tracking Trump & Rootin' for Putin?", URL: https://badlands.substack.com/p/badlands-news-brief-220
 2. Badlands Brief — "Badlands News Brief: MAHA Begins as ESG Dies", URL: https://badlands.substack.com/p/badlands-news-brief-299
 3. Badlands Brief — "Badlands News Brief: Heightened Homohysteria, AI Scabs, & A Dutch Diddler", URL: https://badlands.substack.com/p/badlands-news-brief-4ee
 4. Badlands Brief — "Manhunts, Mental Health, & the Mother of a Monster", URL: https://badlands.substack.com/p/badlands-news-brief-6e5
+
+5. Badlands Brief — "The Transition Integrity Project", URL: https://badlands.substack.com/p/the-transition-integrity-project

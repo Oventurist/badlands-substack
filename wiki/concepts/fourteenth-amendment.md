@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [constitution, reconstruction, citizenship, civil-rights]
-sources: [raw/badlands-brief-686.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-9bf.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-bfb.md, raw/do-we-have-a-contract-with-the-federal.md]
+sources: [raw/badlands-brief-686.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-9bf.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-bfb.md, raw/do-we-have-a-contract-with-the-federal.md, raw/trials-tribulations-and-a-long-train.md, raw/vivek-desantis-and-trumps-master.md]
 confidence: medium
 ---
 
@@ -56,6 +56,12 @@ Section 3 of the Fourteenth Amendment, which bars from federal or state office t
 
 The [[supreme-court-of-the-united-states|U.S. Supreme Court]] had never ruled on Section 3 of the Fourteenth Amendment, which was added after the Civil War to prevent former Confederates from returning to government and provides that anyone who swore an oath to "support" the Constitution and then "engaged in insurrection" against it cannot hold government office.[8] In December 2023 the [[colorado-supreme-court|Colorado Supreme Court]] held that the provision applied to [[donald-trump|Donald Trump]] over his role in the January 6, 2021 attack on the U.S. Capitol — the first time in history it was used to block a presidential contender — while the [[michigan-supreme-court|Michigan Supreme Court]] declined to reach the question and kept him on the ballot.[8]
 
+## Section 3 challenges in January 2024
+
+By January 2024 the Section 3 challenges had spread beyond Colorado and Maine: in Oregon, parties filed supplemental briefing on plaintiffs' standing and on the Oregon Secretary of State's authority to strike [[donald-trump|Donald Trump]] from that state's ballot, while a sequence of Maine Superior Court deadlines ran from January 17 to January 31.[10] On January 5, 2024, the [[supreme-court-of-the-united-states|U.S. Supreme Court]] granted review in No. 23-719, Trump v. Anderson, setting oral argument for February 8 during the primary season, a month before Super Tuesday on March 5, 2024.[10]
+
+Badlands writer [[ashe-in-america|Ashe in America]] argued that the significance of Section 3 litigation lay in the insurrection finding rather than ballot access, contending that if the high court failed to correct the state courts' error the finding could bar military-veteran January 6 attendees such as [[ron-hanks|Ron Hanks]] from office and "green light the uniparty's next phase of lawfare-as-election-interference."[10] She noted that advocacy group [[mi-familia-vota|Mi Familia Vota]] had already released a video demanding courts prevent "Trump and his fellow insurrectionists" from accessing the ballot, evidence in her view that the theory was being generalized to [[america-first-movement|America First]] candidates.[10]
+
 ## References
 1. Badlands Brief — "To Infinity & Iran!", URL: https://badlands.substack.com/p/badlands-brief-686
 2. Badlands Brief — "Badlands News Brief: MAGA Gets Branded as Biden Bungles Everything", URL: https://badlands.substack.com/p/badlands-news-brief-07e
@@ -65,6 +71,7 @@ The [[supreme-court-of-the-united-states|U.S. Supreme Court]] had never ruled on
 6. Badlands Brief — "14th Time's the Charm to 'Get Trump?'", URL: https://badlands.substack.com/p/badlands-news-brief-9bf
 7. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
 8. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb
+10. Badlands Media - "Trials, Tribulations & a Long Train of Abuses", URL: https://badlands.substack.com/p/trials-tribulations-and-a-long-train
 
 ## Dual citizenship and the Federal Reserve
 
@@ -73,3 +80,11 @@ A March 2023 Badlands Media legal analysis built an argument about the reach of 
 From that premise the article argued that the federal government acts as the individual's [[agency-law|agent]] only in his capacity as a federal citizen, since it was the federal [[us-congress|Congress]] — not the legislature of New York or Massachusetts — that passed the Federal Reserve Act.[9] The [[jurisdiction]] of the Fed's corporate code therefore does not automatically extend to a person as a state citizen, but does apply to him as a federal citizen.[9] See [[state-citizenship]].
 
 9. Badlands Brief — "Do We Have a Contract With the Federal Reserve?", URL: https://badlands.substack.com/p/do-we-have-a-contract-with-the-federal
+
+## Ramaswamy's Section 3 objections (December 2023)
+
+In posts on X quoted at length by [[justin-deschamps|Justin Deschamps]] in December 2023, [[vivek-ramaswamy|Vivek Ramaswamy]] argued that the Fourteenth Amendment was part of the Reconstruction Amendments ratified following the Civil War and was passed to prohibit former Confederate military and political leaders — men who had clearly taken part in a rebellion against the United States — from holding high federal or state office, which in his view made it "all the more absurd" for a left-wing group in Colorado to seek disqualification of the 45th President on the same grounds by equating his speech with rebellion.[10]
+
+Ramaswamy raised a second, structural objection: that Trump is not a former "officer of the United States" as that term is used in the Constitution, so Section 3 does not apply to him.[10] He cited the Supreme Court's explanation in Free Enterprise Fund v. Public Company Accounting Oversight Board (2010) that an "officer of the United States" is someone appointed by the President to aid him in his duties under Article II, Section 2, a term that does not extend to elected officials and certainly not to the President himself.[10] Deschamps endorsed both arguments, adding that he expected the Cabal to respond by redefining constitutional terms as he said it had done for decades, and concluding that there is no legal basis for removing [[donald-trump|Trump]] from the ballot.[10]
+
+10. Badlands Brief — "Vivek, DeSantis, and Trump's Master Move", URL: https://badlands.substack.com/p/vivek-desantis-and-trumps-master

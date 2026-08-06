@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [conservatism, libertarianism, republican-party, fiscal-policy, maga]
-sources: [raw/badlands-news-brief-b01.md]
+sources: [raw/badlands-news-brief-b01.md, raw/two-wings-one-ugly-bird.md, raw/we-are-the-plan.md]
 confidence: medium
 ---
 
@@ -30,3 +30,15 @@ The 2024 prospect of Ron Paul joining a new Trump administration through Elon Mu
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Marauding, Squirrel-Murdering Psychopaths Panic Ahead of the Election", URL: https://badlands.substack.com/p/badlands-news-brief-b01
+
+## Alleged IRI co-optation
+
+"Two Wings, One Ugly Bird" argues the Tea Party began in 2009 as a grassroots revolt against bailouts and big government but was co-opted by the [[international-republican-institute|International Republican Institute]] between 2010 and 2012.[2] IRI figures such as [[john-mccain|John McCain]] and [[randy-scheunemann|Randy Scheunemann]], experienced at steering "people power" abroad, are said to have turned the institute's toolkit inward with training sessions for GOP candidates, strategy briefs for activists and a flood of [[national-endowment-for-democracy|NED]] cash to "modernize" the Republican Party.[2] The article claims firebrands such as [[michele-bachmann|Michele Bachmann]] took the hint — "less Ron Paul, more [[marco-rubio|Marco Rubio]]" — and that by 2012 the movement's anti-war, small-government spine had been replaced by neoconservative priorities of endless wars, surveillance and corporate tax cuts, with IRI board senators such as [[lindsey-graham|Lindsey Graham]] cheering as its anger was redirected at Iran and Russia rather than Wall Street.[2]
+
+2. Badlands Brief — "Two Wings, One Ugly Bird", URL: https://badlands.substack.com/p/two-wings-one-ugly-bird
+
+## As a model for grassroots momentum
+
+Badlands Media contributor [[kitty-gillespie|Kitty Gillespie]] invoked the movement in her December 2022 essay "We Are 'The Plan'" as evidence that spontaneous grassroots organizing works, recalling that it launched in 2009 and had a major impact on conservative political issues.[3] She argued that a small group of dedicated people all working in the same direction was able to create enough momentum to alter the composition of the legislative branch, and wrote that "the Tea Party made HISTORY."[3] The example was paired with a Telegram post she quoted from Politick_Rick, who suggested that assembling "a movement like the Tea Party" would attract press coverage and supply the momentum needed to succeed.[3] Gillespie folded the episode into her broader [[flywheel-of-freedom|Flywheel of Freedom]] metaphor, in which accumulated small efforts compound into breakthrough.[3]
+
+3. Badlands Brief — "We Are 'The Plan'", URL: https://badlands.substack.com/p/we-are-the-plan

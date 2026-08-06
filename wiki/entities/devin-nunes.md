@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence, trump-media, congress, oversight]
-sources: [raw/badlands-brief-7c0.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-d04.md, raw/badlands-news-brief-f0e.md, raw/do-you-believe-in-coincidences.md, raw/setting-the-stage.md, raw/the-censorship-war-counteroffensive.md, raw/the-covfefe-dig.md]
+sources: [raw/badlands-brief-7c0.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-d04.md, raw/badlands-news-brief-f0e.md, raw/do-you-believe-in-coincidences.md, raw/setting-the-stage.md, raw/the-censorship-war-counteroffensive.md, raw/the-covfefe-dig.md, raw/whats-taking-so-long.md]
 confidence: medium
 ---
 
@@ -84,3 +84,9 @@ As chief executive of [[trump-media-and-technology-group|Trump Media and Technol
 
 10. Badlands Brief — "The Censorship War - Counteroffensive", URL: https://badlands.substack.com/p/the-censorship-war-counteroffensive
 11. Badlands Brief — "The COVFEFE Dig", URL: https://badlands.substack.com/p/the-covfefe-dig
+
+## Cited on justice-sector exposure (December 2022)
+
+In "What's Taking So Long?" (December 28, 2022), [[joe-lange|Joe Lange]] credited Nunes with first publicly exposing the Russian collusion framing of [[donald-trump|Donald Trump]], presenting this as part of the security sector reform component of the [[counterinsurgency-guide|Counterinsurgency Guide]]'s framework — the exposure of corruption in America's justice institutions.[12] Lange added that oversight of the [[fbi|FBI]] and [[justice-department|DOJ]] is [[congress|Congress]]'s responsibility, and that a new Congress seated in 2023 was preparing to relaunch investigations with far more evidence available to amplify to the public.[12]
+
+12. Badlands Brief — "What's Taking So Long?", URL: https://badlands.substack.com/p/whats-taking-so-long

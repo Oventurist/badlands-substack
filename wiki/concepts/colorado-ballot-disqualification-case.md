@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [2024-election, ballot-access, fourteenth-amendment, courts, lawfare]
-sources: [raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-8cb.md, raw/badlands-news-brief-9bf.md, raw/badlands-news-brief-b04.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c19.md, raw/badlands-news-brief-c74.md, raw/the-danger-to-their-democracy.md]
+sources: [raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-8cb.md, raw/badlands-news-brief-9bf.md, raw/badlands-news-brief-b04.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c19.md, raw/badlands-news-brief-c74.md, raw/the-danger-to-their-democracy.md, raw/vivek-desantis-and-trumps-master.md]
 confidence: medium
 ---
 
@@ -120,6 +120,16 @@ He further argued that criminalizing Trump's January 6 speech would require tram
 
 DeLarme also noted that the same liberal advocacy groups that spearheaded the Colorado case had filed in at least 14 other states, and that the ruling was stayed until January 4 to give the [[supreme-court-of-the-united-states|U.S. Supreme Court]] time to decide whether to take the case.[13] He drew a parallel to [[vladimir-putin|Vladimir Putin]]'s imprisonment of [[alexei-navalny|Alexei Navalny]], arguing that the American establishment's tactic of removing its chief political opponent from the ballot is the same form of election interference Western commentators condemn abroad.[13]
 
+## Ramaswamy's pledge and Deschamps's reading
+
+Writing on December 20, 2023, [[justin-deschamps|Justin Deschamps]] recorded that on the same day the [[colorado-supreme-court|Colorado Supreme Court]] moved to strip [[donald-trump|Trump]] from the ballot, [[vivek-ramaswamy|Vivek Ramaswamy]] published two viral posts on X pledging to withdraw from the Colorado GOP primary ballot until Trump was restored, and demanding that [[ron-desantis|Ron DeSantis]], [[chris-christie|Chris Christie]] and [[nikki-haley|Nikki Haley]] do the same or stand as tacitly endorsing what he called an illegal maneuver with disastrous consequences for the country.[14] Deschamps described Trump's disqualification as a non-crime consisting of addressing the crowd on January 6, and noted that Colorado was at that stage the only state to have managed the removal.[14]
+
+Ramaswamy's legal objections, quoted at length by Deschamps, were twofold: that the [[fourteenth-amendment|Fourteenth Amendment]] belonged to the Reconstruction Amendments and was written to bar former Confederate leaders who had plainly participated in the Civil War, making its application to presidential speech absurd; and that Trump is not a former "officer of the United States," since the Supreme Court in Free Enterprise Fund v. Public Company Accounting Oversight Board (2010) defined that term as covering persons appointed by the President to aid him under Article II, Section 2, not elected officials and not the President.[14]
+
+Deschamps argued more broadly that the disqualification effort had no legal basis and an even weaker lawful one, distinguishing between a legal system — rules men create, like the house rules of a sports venue — and the law itself, which he treated as objective and prior to human agreement.[14] On his account the people's God-given free-will choice of a representative is sacred, so a court purporting to void that choice attempts to place a "lien" on the rights of the people; a government that violates the will of the people expressed through a valid lawful process is, in his words, "defunct, dead, lacking in all true standing, power and authority," a condition the [[declaration-of-independence|Declaration of Independence]] answers with the right of the people to alter or abolish it.[14] He predicted the [[deep-state|Deep State]] would respond by redefining constitutional terms, as he argued it had done for decades in areas such as gun control, abortion and immigration policy.[14]
+
+Deschamps also treated the whole episode as anticipated and even necessary within what he called Trump's plan, writing that Trump knew the January 6 "nonsense" would be pursued and wanted it pursued in order to expose the hijacking of the law and the legal system; the release of J6 footage on [[rumble|Rumble]], he noted, had provoked such alarm that a series of cyber attacks followed.[14] He maintained that no crime beyond some property damage occurred on January 6, and that Trump had to exhaust every legal avenue — "pay to Caesar what is owed to Caesar" — before actions outside the system could legitimately be pursued.[14]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: The Witch Hunt Hits a Few Snags as the Landscape Shifts", URL: https://badlands.substack.com/p/badlands-news-brief-2a0
 2. Badlands Brief — "Badlands News Brief: Kash Unleashed, Zelensky Abandoned & Trump Championed", URL: https://badlands.substack.com/p/badlands-news-brief-356
@@ -134,3 +144,4 @@ DeLarme also noted that the same liberal advocacy groups that spearheaded the Co
 11. Badlands Brief — "Another Trump Trial Begins ... Regime Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-c19
 12. Badlands Brief — "Badlands News Brief: The Mask Comes off as the Nation Watches", URL: https://badlands.substack.com/p/badlands-news-brief-c74
 13. Badlands Brief — "The 'Danger to Their Democracy'", URL: https://badlands.substack.com/p/the-danger-to-their-democracy
+14. Badlands Brief — "Vivek, DeSantis, and Trump's Master Move", URL: https://badlands.substack.com/p/vivek-desantis-and-trumps-master

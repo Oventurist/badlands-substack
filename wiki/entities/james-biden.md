@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [biden-family, congressional-investigation, suspicious-activity-reports]
-sources: [raw/badlands-news-brief-138.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a29.md]
+sources: [raw/badlands-news-brief-138.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a29.md, raw/whos-the-u-boat-commander.md]
 confidence: medium
 ---
 
@@ -32,3 +32,11 @@ Badlands writer [[simon-esler|Simon Esler]] rejected the framing as implausible,
 1. Badlands News Brief — "Drones, Speeches ... and a Swiss Bank", URL: https://badlands.substack.com/p/badlands-news-brief-138
 2. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
 3. Badlands Brief — "Badlands News Brief: Deadline Deals and Crime Families", URL: https://badlands.substack.com/p/badlands-news-brief-a29
+
+## Water Island land deal (2005–2006)
+
+A January 2024 Badlands feature by [[erik-carlson|Erik Carlson]], drawing on a 2020 [[politico|Politico]] report, describes a Virgin Islands property transaction involving James Biden.[4] In 2005 he bought an acre of land with excellent ocean views on [[water-island|Water Island]] for $150,000, divided it into three parcels, and the following year sold one parcel to lobbyist [[scott-green|Scott Green]] — a longtime associate of his brother — for what the entire property had cost.[4] Green later gave James Biden a mortgage loan on the remaining parcels rather than the loan coming from a bank, and the terms were not disclosed in property records.[4] The parcel remained vacant and undeveloped, and an easement James Biden obtained granting road access before the sale may have increased its value, though it is unclear whether the higher price reflected true value.[4] Politico characterized the deal as furthering a pattern in which Biden family members engaged in financial dealings with people who had an interest in influencing the future vice president.[4]
+
+Carlson adds that the deal placed Biden-family property and repeated family vacations within 10 to 40 miles of [[little-st-james|Little St. James]] during the years [[jeffrey-epstein|Jeffrey Epstein]]'s operation was most active, and speculates — while conceding he has no proof of any Biden visiting an Epstein property — that the purchase could have served purposes of money laundering and of providing cover for presence in the area.[4]
+
+4. Badlands Brief — "Who's the U-Boat Commander?", URL: https://badlands.substack.com/p/whos-the-u-boat-commander

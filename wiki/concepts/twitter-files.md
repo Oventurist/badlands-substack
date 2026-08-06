@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [censorship, twitter, intelligence-agencies, disclosure]
-sources: [raw/a-cancer-on-modern-journalism.md, raw/anthony-fauci.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-862.md, raw/badlands-news-brief-d5d.md, raw/the-men-behind-the-curtain-part-2.md]
+sources: [raw/a-cancer-on-modern-journalism.md, raw/anthony-fauci.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-862.md, raw/badlands-news-brief-d5d.md, raw/the-men-behind-the-curtain-part-2.md, raw/understanding-the-art-of-war-part.md, raw/you-are-a-horrible-person.md]
 confidence: low
 ---
 
@@ -56,3 +56,17 @@ During [[christopher-wray|Christopher Wray]]'s [[2023-wray-house-judiciary-testi
 
 7. Badlands Brief — "Wray Flayed, Zelensky Zapped & Trump Targeted", URL: https://badlands.substack.com/p/badlands-news-brief-d5d
 8. Badlands Brief — "The Men Behind the Curtain - Part 2", URL: https://badlands.substack.com/p/the-men-behind-the-curtain-part-2
+
+## Framing in the "Understanding the Art of War" series
+
+A February 13, 2023 Badlands Media essay by [[absolutetruth1776|AbsoluteTruth1776]] cited the Twitter Files as an illustration of [[sun-tzu|Sun Tzu]]'s precept in [[the-art-of-war|*The Art Of War*]] that an enemy taking his ease should be given no rest.[9] The author wrote that if one believes, as he does, that the Twitter Files are an operation launched by the good guys, then the releases can be understood as attacks by patriots timed for a moment when the [[joe-biden|Biden]] administration had settled in and grown comfortable — placing them alongside [[congress|Congress]]'s investigative actions as pressure applied at the point of maximum complacency.[9]
+
+9. Badlands Brief — "Understanding the Art of War - Part 1", URL: https://badlands.substack.com/p/understanding-the-art-of-war-part
+
+## The anticipated "Fauci Files" and the Hamlin collapse (January 2023)
+
+Writing on January 4, 2023, [[erik-carlson|Erik Carlson]] recorded that [[elon-musk|Elon Musk]] had over the preceding weeks made his disdain for [[anthony-fauci|Dr. Anthony Fauci]] clear and had stated he would release further Twitter Files exposing Fauci within days.[10] Carlson characterized the expected material — commonly called the Fauci Files — as showing that Fauci and the people and organizations around him knew of the dangers of [[covid-19-vaccines|vaccines]], exaggerated the severity of [[covid-19-narrative|COVID]] generally, and withheld from the American public facts that would have greatly affected their decisions.[10]
+
+Carlson placed the promised release alongside the January 2, 2023 on-field cardiac arrest of [[damar-hamlin|Damar Hamlin]], asking what the odds were that the only such collapse he had ever heard of occurred on the Monday night of the week Musk said he would publish evidence of COVID and vaccine information manipulation by [[twitter|Twitter]].[10] He predicted that the emerging taboo on questioning vaccines would be extended to the Files themselves, so that anyone who accepted the disclosures as truthful — or who merely read them — would be branded a horrible person.[10] He advised readers to discuss both the Hamlin affair and the eventual Fauci Files in an extremely sensitive manner, since bluntness could cause listeners to shut down on grounds of perceived insensitivity engineered by the [[media-industrial-complex|Media Industrial Complex]].[10]
+
+10. Badlands Brief — "You Are a Horrible Person", URL: https://badlands.substack.com/p/you-are-a-horrible-person

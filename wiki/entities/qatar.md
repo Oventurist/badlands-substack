@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [qatar, weapons, taliban, stingers, funding, terrorism]
-sources: [raw/a-dereliction-of-duty.md, raw/a-conflict-of-interest.md, raw/badlands-brief-169.md, raw/badlands-brief-c91.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-c14.md, raw/badlands-news-brief-df1.md, raw/badlands-news-brief-e31.md, raw/badlands-news-brief-ed9.md, raw/badlands-news-brief-f6f.md]
+sources: [raw/a-dereliction-of-duty.md, raw/a-conflict-of-interest.md, raw/badlands-brief-169.md, raw/badlands-brief-c91.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-c14.md, raw/badlands-news-brief-df1.md, raw/badlands-news-brief-e31.md, raw/badlands-news-brief-ed9.md, raw/badlands-news-brief-f6f.md, raw/trump-secures-uneasy-peace-in-gaza.md, raw/what-difference-does-benghazi-make.md]
 confidence: medium
 ---
 
@@ -114,6 +114,12 @@ Trump called the Emir "one of the great rulers of the world, not just the Middle
 
 Qatar also appeared in the brief as a venue for Colombian conflict diplomacy: delegates of [[gustavo-petro|President Gustavo Petro]] traveled to Doha to open surrender-and-disbandment negotiations with the [[gulf-clan|Gulf Clan]] cartel.[18]
 
+## Role in the January 2025 Gaza ceasefire
+
+[[qatar|Qatar]] served as the operational base for the shuttle diplomacy that produced the January 2025 [[gaza-ceasefire|Gaza ceasefire]]: [[donald-trump|Donald Trump]]'s envoy [[steve-witkoff|Steve Witkoff]] telephoned [[benjamin-netanyahu|Benjamin Netanyahu]]'s aides from Doha to demand an immediate meeting, then returned to Qatar to seal the agreement.[22] The Qatari channel Al-Araby Al-Jadeed carried a senior [[hamas|Hamas]] source's confirmation that a meeting on the draft hostage deal was planned.[22]
+
+Qatar's prime minister publicly acknowledged that momentum toward a deal picked up once Trump secured the White House.[22] [[joe-biden|Joe Biden]], [[kamala-harris|Kamala Harris]] and [[antony-blinken|Antony Blinken]] also flew to Qatar around the announcement, after which Biden attempted to claim credit for the outcome.[22]
+
 ## References
 1. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
 2. Badlands Brief — "A Conflict of Interest", URL: https://badlands.substack.com/p/a-conflict-of-interest
@@ -155,3 +161,12 @@ In May 2025 Qatar hosted the first state visit by a US president when [[donald-t
 Badlands commentators described the accompanying ceremonial [[sword-dance|Ardah]] as a Qatari echo of the 2017 Saudi sword dance, arguing that Qatar — long an enigma in the region alongside Turkey and Iran because of its relationship with the Five Eyes intelligence community and the military-industrial complex — had publicly aligned itself with Trump and the [[sovereign-alliance|Sovereign Alliance]].[21]
 
 21. Badlands Brief — "Another Ardah, Optimus Prance, & the Right Deal Arms", URL: https://badlands.substack.com/p/badlands-news-brief-f6f
+22. Badlands Brief — "Trump Secures Uneasy Peace in Gaza", URL: https://badlands.substack.com/p/trump-secures-uneasy-peace-in-gaza
+
+## Role in the Libya arms pipeline
+
+"What Difference Does Benghazi Make?" describes Qatar as the transshipment route used to circumvent the 2011 arms embargo on Libya.[23] After the [[state-department|State Department]] denied [[turi-defense-group|Turi Defense Group]]'s application to ship $195 million in Eastern European weapons to Libya on March 22, 2011, [[marc-turi|Marc Turi]] submitted an identical weapons list naming Qatar as the recipient, and that application was approved.[23] The article notes the [[central-intelligence-agency|CIA]] already had close ties to Qatar, which would in turn forward the arms to Libya.[23] Federal prosecutors later charged Turi on the theory that "Turi's deal with Qatar ultimately was intended to get around the Libyan embargo."[23]
+
+In December 2012 the *New York Times* reported that the [[barack-obama|Obama]] administration "secretly gave its blessing to arms shipments to Libyan rebels from Qatar," but that American officials grew alarmed as evidence mounted that Qatar was passing some of the weapons to Islamic militants.[23] Turi told the paper that his own proposed pipeline was shut down "because he was getting in the way of the Obama administration's dealings with Qatar."[23]
+
+23. Badlands Brief — "What Difference Does Benghazi Make?", URL: https://badlands.substack.com/p/what-difference-does-benghazi-make

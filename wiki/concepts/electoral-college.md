@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [elections, us-politics, constitution, 2024-election]
-sources: [raw/badlands-news-brief-914.md, raw/badlands-news-brief-ac8.md, raw/inside-the-modern-elections-casino.md]
+sources: [raw/badlands-news-brief-914.md, raw/badlands-news-brief-ac8.md, raw/inside-the-modern-elections-casino.md, raw/the-transition-integrity-project.md]
 confidence: high
 ---
 
@@ -32,8 +32,14 @@ Earlier in October 2024, Minnesota Governor [[tim-walz|Tim Walz]], the Democrati
 
 Election analyst [[seth-keshel|Seth Keshel]] argued in April 2025 that media messaging shortly before the [[2024-us-general-election|2024 election]] — that [[kamala-harris|Kamala Harris]] would lose the popular vote but win the Electoral College — was "teasing the plan" to let safe red and blue states behave normally while battleground states were manipulated.[3] Had that outcome materialized, he wrote, it would have carried the additional effect of driving conservatives to curse the Electoral College and demand a national popular vote, an outcome he called "antithetical to the wellbeing of the Republic" and "another safety measure for the casino to have in the rulebook."[3] Keshel calculated that subtracting Georgia, Nevada, Wisconsin and North Carolina from [[donald-trump|Donald Trump]]'s column would have left him at 264 electoral votes, short of the 270 required.[3]
 
+## Transition Integrity Project
+
+The founders of the [[transition-integrity-project|Transition Integrity Project]] were described as adamant advocates of eliminating the Electoral College, and abolition featured among the outcomes modelled in the group's 2020 election war games.[4] Related scenarios in the same exercises included statehood for the District of Columbia and Puerto Rico and the splitting of California into five separate states to gain greater control of the Senate.[4]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Trump Tours, Bannon Breaks Out & Israel Hesitates", URL: https://badlands.substack.com/p/badlands-news-brief-914
 2. Badlands Brief — "Storms both Real and Political Converge in October", URL: https://badlands.substack.com/p/badlands-news-brief-ac8
 3. Badlands Brief — "Inside the Modern Elections Casino", URL: https://badlands.substack.com/p/inside-the-modern-elections-casino
+
+4. Badlands Brief — "The Transition Integrity Project", URL: https://badlands.substack.com/p/the-transition-integrity-project

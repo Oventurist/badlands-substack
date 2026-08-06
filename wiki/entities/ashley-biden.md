@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [biden-family, diary, justice-department]
-sources: [raw/badlands-news-brief-158.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-8dc.md]
+sources: [raw/badlands-news-brief-158.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-8dc.md, raw/whos-the-u-boat-commander.md]
 confidence: medium
 ---
 
@@ -39,3 +39,9 @@ Ashley Biden founded the Women's Wellness Spa(ce), a tax-exempt nonprofit organi
 1. Badlands Brief — "Badlands News Brief: Middle Eastern Powder Kegs & Crisis Cascades Abound", URL: https://badlands.substack.com/p/badlands-news-brief-158
 2. Badlands News Brief — "Pirated Pardons & Delayed Declassifications", URL: https://badlands.substack.com/p/badlands-news-brief-298
 3. Badlands Brief — "Badlands News Brief: Gazan Seizures & Gay Porn Scandals", URL: https://badlands.substack.com/p/badlands-news-brief-8dc
+
+## Reference in the U-Boat Commander feature (January 2024)
+
+A January 2024 Badlands feature by [[erik-carlson|Erik Carlson]] cited rumors stemming from the Ashley Biden diary scandal in the course of describing how [[joe-biden|Joe Biden]] has been publicly characterized, ranging from a "child-sniffer" in mainstream coverage to allegations of an inappropriate relationship with his own daughter.[4] Carlson presented these as reputational context rather than established fact within a piece he described as speculation.[4]
+
+4. Badlands Brief — "Who's the U-Boat Commander?", URL: https://badlands.substack.com/p/whos-the-u-boat-commander

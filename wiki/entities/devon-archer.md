@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [biden-family, congressional-testimony, burisma, influence-peddling]
-sources: [raw/badlands-news-brief-07f.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-9e7.md, raw/badlands-news-brief-b4a.md, raw/badlands-news-brief-da5.md, raw/quid-pro-joe.md]
+sources: [raw/badlands-news-brief-07f.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-9e7.md, raw/badlands-news-brief-b4a.md, raw/badlands-news-brief-da5.md, raw/quid-pro-joe.md, raw/tucker-twitter-and-the-truth-community.md]
 confidence: medium
 ---
 
@@ -80,8 +80,13 @@ In the closed-door interview conducted on Monday, July 31, 2023, Archer told the
 8. Badlands Brief — "Badlands News Brief: Border Battles, Trump Trials & COVID Comeuppance", URL: https://badlands.substack.com/p/badlands-news-brief-b4a
 9. Badlands News Brief — "Archer Spills, Musk Targets & Fauci Squirms", URL: https://badlands.substack.com/p/badlands-news-brief-da5
 10. Badlands Brief — "Quid Pro Joe", URL: https://badlands.substack.com/p/quid-pro-joe
+11. Badlands Brief — "Tucker, Twitter, and the Truth Community", URL: https://badlands.substack.com/p/tucker-twitter-and-the-truth-community
 
 ## Role in the Blue Star Strategies contract
 
 Archer appears throughout the October–November 2015 emails documenting [[burisma|Burisma]]'s engagement of [[blue-star-strategies|Blue Star Strategies]], recovered from [[hunter-biden-laptop|Hunter Biden's abandoned laptop]].[10] A 23 October 2015 scheduling email showed a meeting on hold between Archer, [[hunter-biden|Hunter Biden]], [[vadym-pozharskyi|Vadym Pozharskyi]] and [[sally-painter|Sally Painter]].[10] When Pozharskyi objected that Blue Star's proposal named no "top US officials in Ukraine," [[eric-schwerin|Eric Schwerin]] wrote to Archer and Hunter Biden confirming the omission was deliberate and that "Sally and company understand the scope and deliverables," after which Archer asked Hunter to relay the assurance to Pozharskyi.[10] On 7 December 2015, while Vice President [[joe-biden|Joe Biden]] was in [[ukraine|Ukraine]], Archer requested a call between "the Blue Star and Burisma teams."[10]
 
+
+## Carlson interview
+
+Days after testifying in a closed House committee hearing — which he had rescheduled four times — Archer sat for a two-part interview with [[tucker-carlson|Tucker Carlson]] on [[tucker-on-twitter|Tucker on Twitter]] that drew a combined 55.7 million views.[11] [[ashe-in-america|Ashe in America]] called the interview a stroke of brilliance in both substance and timing: the public had been forced to rely on politicians for competing partisan readouts of the closed testimony, and Democrats who took a victory lap claiming the testimony vindicated the Bidens were humiliated when Hunter Biden's former business partner appeared with the former Fox host.[11] In the interview Archer said [[burisma|Burisma]] had been pressuring the Bidens to have prosecutor [[viktor-shokin|Viktor Shokin]] — who was investigating Burisma — fired, prior to [[joe-biden|Joe Biden]]'s "son of a bitch" remarks at a 2018 [[council-on-foreign-relations|Council on Foreign Relations]] event.[11] Until then the Biden camp and mainstream media had maintained that Shokin's removal was a strategic US foreign policy decision unrelated to Hunter's dealings with the Ukrainian gas company paying him $83,000 per month.[11] Archer further testified that the purpose of [[hunter-biden|Hunter Biden]]'s board seat was "the brand," whose value appeared to consist of favorable US foreign policy decisions and paid favors to foreign oligarchs.[11]

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [politics, tyranny, communism, propaganda]
-sources: [raw/menticide-the-rape-of-the-mind.md]
+sources: [raw/menticide-the-rape-of-the-mind.md, raw/triggering-mass-psychosis.md]
 confidence: medium
 ---
 
@@ -26,3 +26,11 @@ Countermeasures identified include ordering one's own mind after the manner urge
 
 ## References
 1. Badlands Brief — "Menticide: The Rape of the Mind", URL: https://badlands.substack.com/p/menticide-the-rape-of-the-mind
+
+## Totalitarian mass psychosis (January 2023)
+
+In the companion essay "Triggering Mass Psychosis," totalitarianism is identified as the specific form that [[mass-psychosis]] takes in the modern era and as the greatest present threat.[2] Professor Arthur Versluis, in *The New Inquisitions: Heretic-Hunting and the Intellectual Origins of Modern Totalitarianism*, is quoted defining totalitarianism as "the modern phenomenon of total centralized state power coupled with the complete obliteration of basic, individual human rights," in which there are those in power and objectified masses transformed into dependent subjects of pathological rulers who take on a psychologically regressed, child-like status.[2] Hannah Arendt is quoted calling totalitarianism "an attempted transformation of human nature itself," which the essay matched to the cult-like features of Nazi Germany, Soviet Russia and modern radical-left movements.[2]
+
+The sequence described begins with a trigger event such as COVID or another tragedy, after which the general population hands control of their lives to a priest class, ideologues, politicians or bureaucrats who are themselves deluded — since only a deluded ruling class would believe it alone possesses the knowledge and acumen to control society top-down.[2] Once a ruling elite is possessed by an ideology, whether religion, communism, fascism or technocracy, it induces the population to accept its rule by infecting it with the mass psychosis of authoritarianism, unbranded as such: authority claims that because it holds power it must know the problem and the solution, and that anyone in the way is an enemy of the party and a threat to utopia.[2]
+
+2. Badlands Brief — "Triggering Mass Psychosis", URL: https://badlands.substack.com/p/triggering-mass-psychosis

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, church-committee, cia-oversight, idaho, democrats]
-sources: [raw/four-pillars-of-government-control.md, raw/the-church-committee-for-dummies.md]
+sources: [raw/four-pillars-of-government-control.md, raw/the-church-committee-for-dummies.md, raw/two-wings-one-ugly-bird.md]
 confidence: medium
 ---
 
@@ -34,3 +34,9 @@ Church was a Democratic Senator from Idaho and, by 1975, a 16-year member of the
 ## Public advocacy and criticism
 
 On Meet the Press in 1975 Church warned that the United States had "perfected a technological capability that allows us to monitor the messages that go through the air," that "that capability, at any time, could be turned around on the American people," and that "there would be no place left to hide if this government ever turned to tyranny."[2] Critics dismissed the inquiry as a vehicle for his presidential ambitions — he declared his candidacy in March 1976 — but Church remained resolute in his belief in "the right of the public to know what the instrumentalities of their government have done."[2] The [[church-committee|committee]] he led published its final report on April 29, 1976 after 126 full committee meetings, 40 subcommittee hearings, some 800 witness interviews and 110,000 documents.[2]
+
+## Chairing the Church Committee
+
+"Two Wings, One Ugly Bird" recounts that the Idaho senator chaired the Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities — the [[church-committee|Church Committee]] — formed in January 1975 to investigate decades of abuses by the [[central-intelligence-agency|CIA]], FBI and NSA.[3] Over nine months the committee held 126 hearings and produced a six-volume report, and Church famously called the agency a "rogue elephant" that had run wild beyond oversight or accountability.[3] The article argues that the reforms his committee produced pushed the CIA into using deniable proxies such as the [[national-endowment-for-democracy|National Endowment for Democracy]] rather than ending its political operations.[3]
+
+3. Badlands Brief — "Two Wings, One Ugly Bird", URL: https://badlands.substack.com/p/two-wings-one-ugly-bird

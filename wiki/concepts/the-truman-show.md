@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [film, media-criticism, predictive-programming, badlands-media]
-sources: [raw/the-aftermath-of-a-trump-victory.md]
+sources: [raw/the-aftermath-of-a-trump-victory.md, raw/the-sting.md, raw/the-world-is-a-vampire-final-draft.md]
 confidence: medium
 ---
 
@@ -26,3 +26,15 @@ Carlson uses the metaphor to pose the essay's central question — how a person 
 
 ## References
 1. Badlands Brief — "The Aftermath of a Trump Victory", URL: https://badlands.substack.com/p/the-aftermath-of-a-trump-victory
+
+## Invoked as a model for manipulated reality (Carlson, 2023)
+
+In "The Sting" (May 30, 2023), [[erik-carlson|Erik Carlson]] proposed *The Truman Show* as a more accurate metaphor than "[[we-are-watching-a-movie|we are watching a movie]]" for the political manipulation he described.[2] Summarising the 1998 film, he wrote that Truman lives a life he thinks is real while everything in it is contrived and controlled and everyone around him — his parents, friends, wife, neighbours and coworkers — is an actor.[2] Truman's reactions might be real, Carlson noted, but they are all based on everything else being fake.[2] He paired the film with reality television such as MTV's *The Real World*, where scenes are not fully scripted but are entirely manipulated.[2]
+
+2. Badlands Brief — "The Sting", URL: https://badlands.substack.com/p/the-sting
+
+## Cited as early predictive programming (2023)
+
+In "The World is a Vampire" (January 24, 2023), [[erik-carlson|Erik Carlson]] listed *The Truman Show* among the films that demonstrate [[predictive-programming|predictive programming]], writing that in 1998 it showed audiences how their lives are completely controlled and orchestrated without their knowing.[3] He summarised the premise as following a boy who grows into a man while living a life entirely orchestrated by television producers for the world to watch.[3] Carlson placed the film within a broader argument that entertainment manipulates thought, that people care about or fear things because the entertainment media tells them to, and that no one is exempt from the manipulation — with some finding it too hard to accept that their lives have been a lie and so choosing to accept the lies instead.[3]
+
+3. Badlands Brief — "The World is a Vampire", URL: https://badlands.substack.com/p/the-world-is-a-vampire-final-draft

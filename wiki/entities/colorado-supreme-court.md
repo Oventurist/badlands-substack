@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [courts, colorado, trump-disqualification, fourteenth-amendment]
-sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c74.md, raw/badlands-news-brief-d5c.md, raw/badlands-news-brief-ff6.md]
+sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c74.md, raw/badlands-news-brief-d5c.md, raw/badlands-news-brief-ff6.md, raw/vivek-desantis-and-trumps-master.md]
 confidence: medium
 ---
 
@@ -72,3 +72,11 @@ The court's holdings were sweeping: that the district court did not abuse its di
 In October 2023 the court agreed to hear the case brought against Christian baker [[jack-phillips|Jack Phillips]] over his refusal to create a cake celebrating a gender transition, a suit filed in 2018 by a transgender lawyer.[10] Phillips, who had already prevailed at the US Supreme Court in a separate 2012 dispute, called the court's decision to take the case "the light at the end of the tunnel" after more than eleven years of litigation and said the state court "turned us down in our first case, but I think they realize now that I serve everybody."[10] See [[masterpiece-cakeshop-litigation]].[10]
 
 10. Badlands News Brief — "Escalation Abroad, Subversion at Home ...", URL: https://badlands.substack.com/p/badlands-news-brief-ff6
+
+## Deschamps's critique of the ballot ruling
+
+Writing on December 20, 2023, [[justin-deschamps|Justin Deschamps]] described the court's action as disqualifying [[donald-trump|Trump]] from the Colorado GOP primary "for the non-crime of addressing the crowd on January 6th," and noted that Colorado was at that point the only state to have succeeded in removing him.[11] The same day, [[vivek-ramaswamy|Vivek Ramaswamy]] pledged on X to withdraw from the Colorado primary ballot until Trump was restored and demanded that [[ron-desantis|Ron DeSantis]], [[chris-christie|Chris Christie]] and [[nikki-haley|Nikki Haley]] do likewise.[11]
+
+Deschamps argued that the court's claim of authority to remove a candidate amounted to placing a "lien" on the rights of the people, since in his framework the right to create government and elect representatives comes from God rather than from the founding fathers, the constitution, the government, the media, or the Supreme Court.[11] He maintained the court could not in truth do this, but could use forms of trickery to persuade people they had no choice; and he concluded that the moment a government or a supreme court seeks to violate the will of the people expressed through a valid lawful process, that government becomes "defunct, dead, lacking in all true standing, power and authority," inviting the remedy set out in the [[declaration-of-independence|Declaration of Independence]].[11]
+
+11. Badlands Brief — "Vivek, DeSantis, and Trump's Master Move", URL: https://badlands.substack.com/p/vivek-desantis-and-trumps-master

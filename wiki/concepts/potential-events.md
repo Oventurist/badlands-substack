@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [fifth-generation-warfare, narrative, badlands-media, information-war]
-sources: [raw/chips-and-dips.md, raw/death-blossom.md]
+sources: [raw/chips-and-dips.md, raw/death-blossom.md, raw/the-war-of-stories.md]
 confidence: low
 ---
 
@@ -37,3 +37,9 @@ In "Death Blossom" (November 23, 2022), [[burning-bright|Burning Bright]] refine
 By his account the Actual Event succeeded in provoking the reactions it was designed to provoke, but the Potential Event layered on top of it — the framing of Russia as responsible — collapsed within roughly twelve hours, owing to the ruthless logic, attention to detail and decentralized hivemind coordination of the Badlands-adjacent research community.[2] Had the twin Actual-Potential deployment held, he wrote, the world might have changed "on a dime," spilling into a pre-planned cascade of dominoes en route to a forced global reset under cover of world war.[2] He also applied the framework to [[donald-trump|Donald Trump]], arguing that Trump's deployments are "almost always Potential in nature" — rarely kinetic even when he was public Commander-in-Chief, and rarely Actual even in the political realm, with his best and most frequent moves existing in the realm of the Narrative.[2]
 
 2. Badlands Brief — "Death Blossom", URL: https://badlands.substack.com/p/death-blossom
+
+## Potential damage made Actual (December 2022)
+
+In "The War of Stories" (December 30, 2022), [[burning-bright|Burning Bright]] restated the distinction while cautioning against reading "Potential" as harmless: although he often refers to Narratives as Potential Events, "there is nothing potential about the very real 'Actual' damage they can inflict" once absorbed, regurgitated and ultimately actioned by industry complexes far more literal in their deployments than the media, such as the [[military-industrial-complex|Military Industrial Complex]].[3] He also observed that much of the national and international news cycle, from Potential and Narrative Events through to Actual Events, is obfuscated by all sides on the [[game-theory-game-board|Game Theory Game Board]].[3]
+
+3. Badlands Brief — "The War of Stories", URL: https://badlands.substack.com/p/the-war-of-stories

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [journalism, israel, middle-east]
-sources: [raw/badlands-brief-6b4.md, raw/badlands-brief-708.md, raw/badlands-brief-774.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-ce5.md, raw/badlands-news-brief-e01.md, raw/badlands-news-brief-e37.md]
+sources: [raw/badlands-brief-6b4.md, raw/badlands-brief-708.md, raw/badlands-brief-774.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-ce5.md, raw/badlands-news-brief-e01.md, raw/badlands-news-brief-e37.md, raw/trump-secures-uneasy-peace-in-gaza.md]
 confidence: low
 ---
 
@@ -58,8 +58,13 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] obser
 
 In November 2024, Ravid reported for Axios that the United States and Saudi Arabia were discussing a possible security agreement that would not involve a broader deal with Israel — a step back from the full defense treaty previously under negotiation, but one that Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] and the White House hoped to conclude before [[joe-biden|Joe Biden]] left office in January 2025.[9] Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] noted that [[donald-trump|Donald Trump]] regularly uses Ravid for interviews and to deploy his own narratives inside Israel, and treated the report as a narrative that had been "cooking for quite some time" without thawing.[9]
 
-## References
+## Commentary on the January 2025 Gaza ceasefire
 
+Badlands Media characterized [[barak-ravid|Barak Ravid]] as effectively Israel's spokesperson in the U.S. media, noting his service in the [[israel-defense-forces|IDF]], his background in the Israeli signals intelligence outfit [[unit-8200|Unit 8200]], and his dual role as a CNN analyst and Axios reporter conveying Israel's message in terms palatable to Western audiences.[10]
+
+Appearing on [[cnn|CNN]] after the [[gaza-ceasefire|Gaza ceasefire]] was announced, Ravid conceded the important role that [[donald-trump|Donald Trump]] had played in getting the deal done — an admission the article treated as notable precisely because of Ravid's alignment with Israeli messaging.[10]
+
+## References
 1. Badlands Brief — "Deliberate Discombobulation Driving Transformational Change", URL: https://badlands.substack.com/p/badlands-brief-6b4
 2. Badlands Brief — "AMERICA IS BACK", URL: https://badlands.substack.com/p/badlands-brief-708
 3. Badlands Brief — "Weaponization Woes & Bailing on the Bromance", URL: https://badlands.substack.com/p/badlands-brief-774
@@ -74,3 +79,4 @@ Ravid confirmed the involvement of Trump hostage envoy [[adam-boehler|Adam Boehl
 7. Badlands Brief — "Badlands News Brief: Calibrating Education, Recalculating Commands, & Countering Currency Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-ce5
 8. Badlands Brief — "Badlands News Brief: Cis-Privileged Sports & The Sum of All Sundays", URL: https://badlands.substack.com/p/badlands-news-brief-e01
 9. Badlands Media — "The King Is Back ... Like He Never Left", URL: https://badlands.substack.com/p/badlands-news-brief-e37
+10. Badlands Brief — "Trump Secures Uneasy Peace in Gaza", URL: https://badlands.substack.com/p/trump-secures-uneasy-peace-in-gaza

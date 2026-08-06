@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [litigation, fourteenth-amendment, colorado, ballot-access, supreme-court]
-sources: [raw/badlands-news-brief-378.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-b92.md, raw/badlands-news-brief-d5c.md, raw/beyond-absurdity.md]
+sources: [raw/badlands-news-brief-378.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-b92.md, raw/badlands-news-brief-d5c.md, raw/beyond-absurdity.md, raw/trials-tribulations-and-a-long-train.md]
 confidence: medium
 ---
 
@@ -52,6 +52,12 @@ On Friday evening, 17 November 2023, Judge [[sarah-wallace|Sarah Wallace]] issue
 
 [[ashe-in-america|Ashe in America]] argued that the significance of the case lay not in ballot access — which lawyers regarded as settled in Trump's favour absent an attempt by [[jack-smith|Jack Smith]] or [[fani-willis|Fani Willis]] to build upon it — but in [[lawfare|lawfare]], since the first 95 pages of the opinion affirmed the January 6 committee narrative, "the pseudo-science of far right extremism, thought crimes, speech crimes, and the Fourteenth Amendment being superior to the First."[4] Because the outcome was technically a win, she expected no appeal, while hoping that a motion to intervene filed by [[treniss-evans|Treniss Evans]] might be granted if the petitioners did appeal.[4] She also noted the timing of the [[january-6-capitol-security-footage-release|release of January 6 Capitol security footage]] hours before the ruling, arguing the videos directly undercut the court's insurrection conclusions.[4]
 
+## Grant of certiorari (January 2024)
+
+On Friday, January 5, 2024, the [[supreme-court-of-the-united-states|U.S. Supreme Court]] agreed to take up the Colorado challenge, docketed as 23-719, Trump v. Anderson, announcing that it would hear argument in early February — notably during the primary season — with oral arguments set for February 8, 2024.[7] The question presented was whether the [[colorado-supreme-court|Colorado Supreme Court]] erred in ordering Trump excluded from the 2024 presidential primary ballot.[7] The petition was filed on behalf of the [[colorado-republican-party|Colorado Republican Party]] by attorney [[chris-murray|Chris Murray]] of [[brownstein-hyatt-farber-schreck|Brownstein Hyatt Farber Schreck]], a firm that is also the registered lobbyist for [[dominion-voting-systems|Dominion Voting Systems]]; [[ashe-in-america|Ashe in America]] described the petition as unusually well written and a marked improvement on [[scott-gessler|Scott Gessler]]'s two prior failures to contest the petitioners' insurrection claims.[7]
+
+Ashe reiterated that the Court must rule on the underlying findings rather than the Fourteenth Amendment question alone, because a bare Section 3 ruling would leave the insurrection finding standing and expose [[america-first-movement|America First]] candidates such as [[ron-hanks|Ron Hanks]] to copycat challenges.[7] She also noted that she was herself a Colorado voter in the case's orbit and had been doxxed during the trial court proceedings by petitioners' counsel [[eric-olsen|Eric Olsen]], a former senior solicitor in the Colorado Attorney General's office.[7]
+
 ## Aftermath of the Colorado Supreme Court ruling
 
 Following the Colorado Supreme Court's 4–3 decision of December 19, 2023, the case was cited immediately in other states: California Lieutenant Governor [[eleni-kounalakis|Eleni Kounalakis]] wrote to Secretary of State [[shirley-weber|Shirley Weber]] on December 20 asking her to "explore every legal option" to remove Trump from California's ballot, citing the holding in Anderson v. Griswold (2023 CO 63) that Trump's insurrection disqualifies him under Section 3 of the Fourteenth Amendment.[5]
@@ -66,3 +72,4 @@ Badlands writer [[ashe-in-america|Ashe in America]] argued that the intervenors'
 4. Badlands News Brief — URL: https://badlands.substack.com/p/badlands-news-brief-b92
 5. Badlands Media — "Badlands News Brief: Colorado Fallout (and Exposure) Continues", URL: https://badlands.substack.com/p/badlands-news-brief-d5c
 6. Badlands Media — "Beyond Absurdity", URL: https://badlands.substack.com/p/beyond-absurdity
+7. Badlands Media — "Trials, Tribulations & a Long Train of Abuses", URL: https://badlands.substack.com/p/trials-tribulations-and-a-long-train

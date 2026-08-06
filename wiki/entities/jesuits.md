@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [history, religion, intelligence-operations, native-americans, colonial-america]
-sources: [raw/a-new-american-renaissance.md, raw/legacy-of-the-bavarian-illuminati-8f0.md, raw/soul-governance.md, raw/the-darwinian-perversion-of-christianity.md]
+sources: [raw/a-new-american-renaissance.md, raw/legacy-of-the-bavarian-illuminati-8f0.md, raw/soul-governance.md, raw/the-darwinian-perversion-of-christianity.md, raw/throne-of-the-ivy-grid.md]
 confidence: low
 ---
 
@@ -36,8 +36,18 @@ In that account the order turned courts into temples and judges into priests, an
 
 [[matthew-ehret|Matthew Ehret]] describes a Jesuit perversion of Christianity stretching back four centuries, shaped by a higher oligarchist-Venetian priesthood, and identifies [[pierre-teilhard-de-chardin|Pierre Teilhard de Chardin]] as one of the most influential and destructive Jesuit forces in modern history.[4] Chardin's neo-Darwinian theology became extremely popular among wide groupings of his fellow Jesuits even as it alarmed bishops and cardinals in Rome, who stripped him of the right to teach or publish.[4] Ehret writes that Chardin's followers went on to shape the [[second-vatican-council|Second Vatican Council]] and to innovate [[liberation-theology|Liberation Theology]] in Ibero-America, culminating in what he calls a full Jesuit takeover of the Church and the integration of Christianity into a [[eugenics|eugenics]]-driven religion.[4]
 
+
+## In "Throne of the Ivy Grid"
+
+The Badlands Media essay *Throne of the Ivy Grid* presents the Jesuits as the technical architects of what it calls the Vatican's legal alchemy, founded by [[ignatius-of-loyola|Ignatius of Loyola]] and operating "not just as missionaries, but as deep-code social engineers."[5] Under Superior Generals including Hans Kolvenbach and Adolfo Nicolás, the essay claims, the order forged silent influence over world leaders, academic institutions, and intelligence agencies.[5]
+
+The essay attributes to the Jesuit oath of obedience the practice of "mental reservation," described as concealed truth cloaked in selective silence, and concludes that the Society "is not a brotherhood of God. It is an order of architects."[5] Jesuit-embedded legal operatives are said to staff the laundering corridors linking the [[vatican-bank|Vatican Bank]] to the [[bank-for-international-settlements|BIS]], the [[international-monetary-fund|IMF]] and [[swift|SWIFT]], merging with [[crown-temple|Crown Temple]] legal technicians so that alleged spiritual theft remains untouchable by secular courts.[5]
+
+Figures the essay links to Jesuit formation or alignment include [[nancy-pelosi|Nancy Pelosi]], [[christine-lagarde|Christine Lagarde]], [[mario-draghi|Mario Draghi]], [[mario-monti|Mario Monti]] and Giuseppe Conte, [[hillary-clinton|Hillary Clinton]], [[justin-trudeau|Justin Trudeau]], and [[barack-obama|Barack Obama]], whose Harvard Law training the essay characterizes as passage through "a Jesuit-aligned node."[5]
+
 ## References
 1. Badlands Brief — "A New American Renaissance", URL: https://badlands.substack.com/p/a-new-american-renaissance
 2. Badlands Brief — "Legacy of the Bavarian Illuminati - Part 2", URL: https://badlands.substack.com/p/legacy-of-the-bavarian-illuminati-8f0
 3. Badlands Brief — "Soul Governance", URL: https://badlands.substack.com/p/soul-governance
 4. Badlands Brief — "The Darwinian Perversion of Christianity", URL: https://badlands.substack.com/p/the-darwinian-perversion-of-christianity
+5. Badlands Brief — "Throne of the Ivy Grid", URL: https://badlands.substack.com/p/throne-of-the-ivy-grid

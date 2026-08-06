@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, armenia, geopolitics, alliance, nato]
-sources: [raw/badlands-news-brief-70a.md]
+sources: [raw/badlands-news-brief-70a.md, raw/the-sco-vs-nato.md]
 confidence: medium
 ---
 
@@ -23,3 +23,10 @@ The brief situated Armenia's departure within a broader contest for the Caucasus
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Contempt, Combat Tactics and Cuts?", URL: https://badlands.substack.com/p/badlands-news-brief-70a
+## Founding and strategic weight (Ehret, 2024)
+
+[[matthew-ehret|Matthew Ehret]] wrote in April 2024 that the CSTO was created in 2002 as one of two Eurasian-led counterparts to [[nato|NATO]] to emerge since 2001, the other being the [[shanghai-cooperation-organization|Shanghai Cooperation Organization]].[2] Unlike the SCO, the CSTO does possess a collective security pact, contained in its Article 4.[2]
+
+Ehret nonetheless judged the organization to be of limited strategic weight in "the great game," citing the general weakness of its members — only Russia wields a significant military force — and the near-insignificance of its peacekeeping missions and annual exercises when compared with the scope of NATO.[2] Besides Russia, he listed its members as Armenia, Belarus, Kazakhstan, Kyrgyzstan and Tajikistan.[2] He treated it as the lesser successor to the Cold War [[warsaw-pact|Warsaw Pact]] and as much less relevant than the SCO, which is poorly understood by many Westerners.[2]
+
+2. Badlands Brief — "The SCO vs. NATO", URL: https://badlands.substack.com/p/the-sco-vs-nato

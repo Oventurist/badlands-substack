@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [narrative, information-war, psychology, badlands]
-sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-82f.md, raw/death-blossom.md, raw/inflection-point.md, raw/right-the-ship.md]
+sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-82f.md, raw/death-blossom.md, raw/inflection-point.md, raw/right-the-ship.md, raw/the-unreality-paradox.md, raw/the-war-of-stories.md]
 confidence: medium
 ---
 
@@ -63,3 +63,19 @@ In "Right the Ship" (January 12, 2023), [[burning-bright|Burning Bright]] stress
 He credited the decentralized "hivemind of citizen intelligence" with growing collective discernment, making it less likely by the day to be swept up in costly emotional narratives, while cautioning that even that community remains susceptible to emotional manipulation by all sides on the Game Theory Game Board.[6] Potential Events, he added, retain real power in shaping the directional thinking and therefore the directional momentum of the Collective Mind, whether or not they ever become Actual.[6]
 
 6. Badlands Brief — "Right the Ship", URL: https://badlands.substack.com/p/right-the-ship
+
+## Trump's manipulation of the Collective Mind (November 2022)
+
+In "The Unreality Paradox," [[burning-bright|Burning Bright]] argued that [[donald-trump|Donald Trump]] wields control of the public narrative with such vigor and surety that he can induce large swaths of his own voter base to criticise him in line with the [[media-industrial-complex|Fake News Media Complex]] he is provoking, thereby compelling that complex to engage with, promote and ultimately highlight the very stories he wants at the forefront of the Collective Mind of American Society.[7]
+
+The essay described this practice as planting seeds of topics within the Collective Mind that are later germinated by Actual Events, and warned more broadly that the demonstrated possibility of engineering [[mass-formation-psychosis|Mass Formation Psychosis]] shows the shared human psyche can be controlled, guided and influenced by powers operating beneath conscious understanding.[7] Burning Bright's stated aim was to determine how the enemy plans to "warp the Collective Mind into their latest mass psychological deployment," and thereby how best to thwart it.[7]
+
+7. Badlands Brief — "The Unreality Paradox", URL: https://badlands.substack.com/p/the-unreality-paradox
+
+## The Collective Mind as the prize of the War of Stories (December 2022)
+
+In "The War of Stories" (December 30, 2022), [[burning-bright|Burning Bright]] framed the [[information-war|Information War]] as "really a war for control of the Collective Mind" of American — and world — society.[8] He argued that the opposing camp has long weaponized the Collective Mind's pull toward the trauma and catharsis of dramatic storytelling, using the cult of personality to push publics toward strife, conflict and ultimately collectivism as the proffered solution to engineered problems.[8]
+
+The essay presented public figures as cognitive cyphers through which [[narrative-deployment|Narrative Deployments]] reach the Collective Mind, naming [[elon-musk|Elon Musk]] as having recently taken on that role for scandals breaking daily in a way the "Trump character" could not at that stage.[8] Burning Bright called the Collective Mind "the cognitive keystone to the ultimate salvation of humanity," holding that without the tacit or direct mandate of a great plurality of it, any long-term stable vision for sovereign nations amounts to a pyrrhic victory — "good enough for one generation, maybe more, but not built to last."[8] He closed by telling readers that their own minds form part of that keystone, "the ultimate prize in this war to end all wars," and to guard them well.[8]
+
+8. Badlands Brief — "The War of Stories", URL: https://badlands.substack.com/p/the-war-of-stories

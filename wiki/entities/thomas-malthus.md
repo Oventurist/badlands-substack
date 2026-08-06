@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [economics, malthusianism, climate, population, history]
-sources: [raw/badlands-news-brief-52f.md, raw/combating-the-transhumanist-religion.md, raw/defeating-the-depopulation-agenda.md, raw/the-inversion-of-health.md]
+sources: [raw/badlands-news-brief-52f.md, raw/combating-the-transhumanist-religion.md, raw/defeating-the-depopulation-agenda.md, raw/the-inversion-of-health.md, raw/the-rising-scourge-of-eco-terrorism.md]
 confidence: medium
 ---
 
@@ -36,8 +36,14 @@ Rather than permit populations to develop their minds and make the discoveries a
 
 In "The Inversion of Health," [[ryan-delarme|Ryan DeLarme]] writes that a significant amount of [[charles-darwin|Charles Darwin]]'s thinking came from Malthus, whose *Essay on the Principle of Population* claimed that human population grows exponentially while agricultural capacity grows arithmetically — implying a massive "survival of the fittest" food crisis in which the poor and weak die off and only the well-to-do survive.[4] DeLarme asks whether this "Malthusian catastrophe" is a real threat or a pretext for keeping the population smaller and more manageable, noting that the argument has been echoed by [[bill-gates|Bill Gates]] and other wealthy and influential figures, and identifies it as one of the bases of the modern [[eugenics]] movement.[4]
 
+## Cited as the source of eco-terrorist population thinking
+
+In "The Rising Scourge of Eco-Terrorism," [[matthew-ehret|Matthew Ehret]] identifies [[ted-kaczynski|Ted Kaczynski]] as a follower of Malthus and quotes the 1799 *Essay on Population*: "We should facilitate, instead of foolishly and vainly endeavoring to impede, the operations of nature in producing this mortality; and if we dread the too frequent visitation of the horrid form of famine, we should sedulously encourage the other forms of destruction, which we compel nature to use. In our towns, we should make the streets narrower, crowd more people into the houses, and court the return of the plague."[5] Ehret uses the passage to connect Kaczynski's insistence that the human race "should be subject to the same law" of population collapse with the depopulation rhetoric of [[prince-philip|Prince Philip]], [[maurice-strong|Maurice Strong]] and [[dennis-meadows|Dennis Meadows]].[5]
+
+
 ## References
 1. Badlands Brief — "Badlands News Brief: North American Trade Troubles & Unipartisan Panic", URL: https://badlands.substack.com/p/badlands-news-brief-52f
 2. Badlands Brief — "Combating the Transhumanist Religion", URL: https://badlands.substack.com/p/combating-the-transhumanist-religion
 3. Badlands Brief — "Defeating the Depopulation Agenda", URL: https://badlands.substack.com/p/defeating-the-depopulation-agenda
 4. Badlands Brief — "The Inversion of Health", URL: https://badlands.substack.com/p/the-inversion-of-health
+5. Badlands Brief — "The Rising Scourge of Eco-Terrorism", URL: https://badlands.substack.com/p/the-rising-scourge-of-eco-terrorism

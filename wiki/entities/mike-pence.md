@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [vice-president, january-6, 2020-election, republicans]
-sources: [raw/badlands-brief-e87.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-c5c.md, raw/badlands-news-brief-fcb.md, raw/jd-vance-sidley-austin-and-q-post.md]
+sources: [raw/badlands-brief-e87.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-c5c.md, raw/badlands-news-brief-fcb.md, raw/jd-vance-sidley-austin-and-q-post.md, raw/the-sabotage-of-trumps-administration.md, raw/vivek-desantis-and-trumps-master.md, raw/whats-taking-so-long.md]
 confidence: medium
 ---
 
@@ -79,6 +79,13 @@ Badlands contributor [[erik-carlson|Erik Carlson]] traced the surname Pence to t
 
 Declining to argue whether Pence is good or bad, and noting that Pence is neither part of Trump's second term nor endorsing him, Carlson maintained that Pence was used by Trump for a purpose — plausibly to give the [[deep-state|Deep State]] a false sense of security and to pass on disinformation.[12] Responding to claims that the pick showed a lack of discernment, he compared it to Jesus Christ selecting Judas as a disciple.[12]
 
+## Alleged Deep State infiltration through Pence's staff
+
+Erik Carlson's December 27, 2023 article "The Sabotage of Trump's Administration" argues that the [[deep-state|Deep State]] infiltrated the Trump White House through Pence's staff, pointing to [[olivia-troye|Olivia Troye]], Pence's homeland security and counterterrorism adviser and his top aide to the [[white-house-coronavirus-task-force|White House Coronavirus Task Force]].[13] Carlson writes that he does not know what to make of Pence himself, and leaves open the question of whether the vice president was complicit in the alleged sabotage or merely surrounded by moles who were jettisoned once they were no longer useful.[13]
+
+Carlson also cites Troye's own May 2021 account in [[the-bulwark|The Bulwark]], in which she wrote that Pence and his chief of staff repeatedly pressed the intelligence community during late January and February 2020 about a [[washington-times|Washington Times]] article linking the [[wuhan-institute-of-virology|Wuhan Institute]] to Beijing's covert bio-weapons program, and about the [[lab-leak-theory|lab leak theory]] more generally.[13] Troye conceded the questioning itself was normal for senior intelligence consumers but questioned Pence's motives; Carlson instead reads it as evidence that Pence, [[mike-pompeo|Mike Pompeo]] and [[donald-trump|Donald Trump]] were sincerely trying to establish COVID-19's origin while the [[central-intelligence-agency|CIA]] declined to.[13] Another Pence aide, national security staffer Jennifer Williams, testified in the December 2019 impeachment proceedings and worked in the office next to Troye's.[13]
+
+
 ## References
 1. Badlands Brief — "Poetic Agitprop, Cold War Reruns, & Kokomo From the Ropes", URL: https://badlands.substack.com/p/badlands-brief-e87
 2. Badlands Brief — "Trans Easter Bait & A Tale of Two Presidents", URL: https://badlands.substack.com/p/badlands-news-brief-092
@@ -92,3 +99,18 @@ Declining to argue whether Pence is good or bad, and noting that Pence is neithe
 10. Badlands Brief — "Hollywood Crumbles While the Uniparty Is Exposed", URL: https://badlands.substack.com/p/badlands-news-brief-c5c
 11. Badlands Brief — "Badlands News Brief: Devolution Digs, Storm Stirring & Leverage", URL: https://badlands.substack.com/p/badlands-news-brief-fcb
 12. Badlands Brief — "JD Vance, Sidley Austin, & Q Post #238", URL: https://badlands.substack.com/p/jd-vance-sidley-austin-and-q-post
+13. Badlands Brief — "The Sabotage of Trump's Administration", URL: https://badlands.substack.com/p/the-sabotage-of-trumps-administration
+
+## Deschamps on Pence's role in the "kayfabe" theory (December 2023)
+
+In his December 20, 2023 essay [[justin-deschamps|Justin Deschamps]] singled Pence out as, on the surface, "the biggest turd in the punchbowl" among the candidates who had disappointed, while insisting that the surface is not the whole story and that the conduct of every player — MAGA and establishment alike — amounts to a well-crafted act serving a larger agenda.[14] Deschamps nonetheless rated Pence as possibly the only 2024 rival more sincere and informed on the issues than [[vivek-ramaswamy|Vivek Ramaswamy]].[14]
+
+Entertaining the argument, made by Badlands contributors [[just-human|Just Human]] and [[burning-bright|Burning Bright]] among others, that Pence had worked with [[donald-trump|Trump]] to dismantle the [[deep-state|Deep State]] during the administration, Deschamps posed the question "Why the empty chair routine, Mike?" and answered it with a single word: [[kayfabe|kayfabe]].[14] He declined to rule the possibility out, arguing that it would explain Pence's about-face during the January 6 election-certification proceedings, and stated that he was placing his chips on Pence, Trump and likely many others having orchestrated a carefully worked-out plan to win hearts and minds globally — a plan that included exposing Deep State assets, the weakness of the justice system and media, and what he called the near-complete facade of the geopolitical field over the eighty years since the Second World War.[14]
+
+14. Badlands Brief — "Vivek, DeSantis, and Trump's Master Move", URL: https://badlands.substack.com/p/vivek-desantis-and-trumps-master
+
+## Cited in Lange's counterinsurgency thesis (December 2022)
+
+In "What's Taking So Long?" (December 28, 2022), [[joe-lange|Joe Lange]] recalled [[christopher-miller|Chris Miller]] praising Pence for helping him during what Miller called some of the most complicated military operations in American history, and argued that Miller was referring specifically to the [[counterinsurgency|counterinsurgency]] strategy Lange believes has been running since 2016.[15]
+
+15. Badlands Brief — "What's Taking So Long?", URL: https://badlands.substack.com/p/whats-taking-so-long

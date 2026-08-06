@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [science, tesla, history, trump-family]
-sources: [raw/badlands-brief-fa4.md, raw/has-trumps-whole-life-been-a-sting.md]
+sources: [raw/badlands-brief-fa4.md, raw/has-trumps-whole-life-been-a-sting.md, raw/the-werewolf-game-agents-from-russia.md, raw/the-white-pill-emporium-part-3.md]
 confidence: medium
 ---
 
@@ -35,3 +35,15 @@ Carlson emphasised that in early 1943, two days after [[nikola-tesla|Nikola Tesl
 Because the seizure review was FBI-directed, Carlson stressed that John G. Trump was working with the Bureau while [[j-edgar-hoover|J. Edgar Hoover]] was its director, though he allowed that Trump may have been working with others inside the Bureau rather than with Hoover himself.[2] He speculated that Donald Trump learned from his uncle about advanced medical procedures, cheap or free energy and powerful weapons, and that he avoids discussing his uncle's achievements to keep the [[deep-state|Deep State]] from knowing what those materials contained.[2]
 
 2. Badlands Brief — "Has Trump's Whole Life Been a Sting Operation?", URL: https://badlands.substack.com/p/has-trumps-whole-life-been-a-sting
+
+## The Tartaria thesis (American Hypnotist, 2024)
+
+The March 27, 2024 installment of [[american-hypnotist|American Hypnotist]]'s [[the-werewolf-game|Werewolf Game]] series makes John G. Trump the hypothesized conduit through which the knowledge of [[nikola-tesla|Nikola Tesla]] entered the Trump family.[3] The author reasons that if [[tartaria|Tartaria]] was the advanced civilization its proponents claim, Tesla — raised in the same region and educated on his father's large library — would plausibly have acquired knowledge of Tartarian technology, and that much of it "probably ended up in the hands of [[donald-trump|Donald Trump]]'s uncle, John Trump."[3] As an aside the author remarks that he resembles [[julian-assange|Julian Assange]].[3] The essay adds that the Trump family displays an affinity for architecture resembling the Tartarian style and points to Donald Trump's Atlantic City property "Trump World's Fair" as reinforcing the link to the [[worlds-fairs|World's Fairs]].[3]
+
+3. Badlands Brief — "The Werewolf Game - Agents from Russia", URL: https://badlands.substack.com/p/the-werewolf-game-agents-from-russia
+
+## The time-travel theory
+
+Part 3 of [[the-white-pill-emporium|The White Pill Emporium]] (24 December 2024) records that many people believe the Trump family knows how to time travel, owing to the fact that John Trump received [[nikola-tesla|Tesla]]'s papers after Tesla's death, with the theory holding that those papers contained instructions for time travel or something to that effect.[4] The essay cites the 1890s novels of [[ingersoll-lockwood|Ingersoll Lockwood]] as further circumstantial support for the claim.[4]
+
+4. Badlands Brief — "The White Pill Emporium - Part 3: Can Trump Alter Time?", URL: https://badlands.substack.com/p/the-white-pill-emporium-part-3

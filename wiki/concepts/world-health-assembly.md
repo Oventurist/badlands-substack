@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [world-health-organization, global-governance, geneva, pandemic-treaty]
-sources: [raw/badlands-news-brief-de8.md]
+sources: [raw/badlands-news-brief-de8.md, raw/the-whos-last-stand.md]
 confidence: medium
 ---
 
@@ -24,3 +24,9 @@ Fact-checkers and establishment health journals argued that the accord would not
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Trump's Town Hall, Comer's Committee & Biden's Bribes", URL: https://badlands.substack.com/p/badlands-news-brief-de8
+
+## Role in the pandemic instruments
+
+At a special session in December 2021, the World Health Assembly decided to establish the [[intergovernmental-negotiating-body|Intergovernmental Negotiating Body]], representing all regions of the world, to draft and negotiate "a WHO convention, agreement, or other international instrument on pandemic prevention, preparedness, and response."[2] In May 2022 the Assembly's annual meeting adopted a set of amendments to the [[international-health-regulations|International Health Regulations]], a development Badlands Media noted passed with little public attention while coverage focused on the Russo-Ukrainian War and the overturning of [[roe-v-wade|Roe v. Wade]].[2]
+
+2. Badlands Brief — "The WHO's Last Stand", URL: https://badlands.substack.com/p/the-whos-last-stand

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [british-empire, socialism, canada, ndp, technocracy]
-sources: [raw/a-re-alignment-of-world-systems.md, raw/legacy-of-the-bavarian-illuminati-8f0.md, raw/operation-gladio-a-primer.md, raw/the-inversion-of-health.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/legacy-of-the-bavarian-illuminati-8f0.md, raw/operation-gladio-a-primer.md, raw/the-inversion-of-health.md, raw/the-werewolf-game-agents-from-russia.md, raw/why-i-just-dont-trust-elon-musk.md]
 confidence: low
 ---
 
@@ -34,6 +34,14 @@ According to the primer, the Society's dilemma was how to reorder the world unno
 
 The Fabian concept of manufacturing chaos to impose control is, in Watkins's framing, the [[strategy-of-tension|Strategy of Tension]] at the core of [[operation-gladio|Operation Gladio]], and many Society members were involved in colonizing Africa for its gold, diamonds and other resources.[3]
 
+## The Canadian and American branches
+
+Badlands Media contributor [[matthew-ehret|Matthew Ehret]] identifies the [[league-for-social-reconstruction|League for Social Reconstruction]] as the Fabian Society of Canada, and the [[new-school-for-social-research|New School for Social Research]] in New York as the American equivalent, an entry point for Oxford ideologues and London School of Economics Fabians into the United States.[6] The League created the [[cooperative-commonwealth-federation|Cooperative Commonwealth Federation]] in 1933, whose Saskatchewan branch was built by [[joshua-haldeman|Joshua Haldeman]], grandfather of [[elon-musk|Elon Musk]]; Ehret argues that the Canadian Fabian apparatus was "part of the exact same agency" that managed [[howard-scott|Howard Scott]] in New York from 1919 onward.[6]
+
+## The manufactured split with guild socialism
+
+Ehret argues that when [[alfred-richard-orage|A. R. Orage]] broke with his Fabian allies in 1912 and began promoting [[guild-socialism|guild socialism]] and anarcho-syndicalism, the dispute was staged.[6] The London Fabian Society answered by founding The New Statesman in 1913 to promote its top-down technocratic planning model against Orage's bottom-up New Age, and [[walter-lippmann|Walter Lippmann]] set up the American counterpart, The New Republic, in 1914.[6] Yet the leading guild-socialist theorists working alongside Orage — George Douglas Howard Cole, Samuel George Hobson and Arthur Joseph Penty — were themselves Fabians, as was [[bertrand-russell|Bertrand Russell]], who publicly championed guild socialism while also endorsing a League of Nations world security order.[6] Ehret likewise describes the economist John Maynard Keynes, who cited [[c-h-douglas|Major C. H. Douglas]] in his General Theory, as a Fabian Society controller.[6]
+
 ## References
 1. Badlands Brief — "A Re-Alignment of World Systems", URL: https://badlands.substack.com/p/a-re-alignment-of-world-systems
 2. Badlands Brief — "Legacy of the Bavarian Illuminati - Part 2", URL: https://badlands.substack.com/p/legacy-of-the-bavarian-illuminati-8f0
@@ -43,3 +51,10 @@ The Fabian concept of manufacturing chaos to impose control is, in Watkins's fra
 ## Literary membership
 
 Badlands contributor [[ryan-delarme|Ryan DeLarme]] lists [[aldous-huxley|Aldous Huxley]], [[george-orwell|George Orwell]] and [[h-g-wells|H.G. Wells]] as members of the Fabian Society, and notes the belief among many that *1984* was an exposé of what Orwell learned through it.[4]
+
+## Wolf symbolism in the coat of arms (American Hypnotist, 2024)
+
+The March 27, 2024 installment of [[american-hypnotist|American Hypnotist]]'s [[the-werewolf-game|Werewolf Game]] series cites the Fabian Society's coat of arms — depicting a wolf in sheep's clothing — as among the clearest surviving traces of the ancient [[koryos|wolf cult]]'s symbolism, calling it "rather blatant."[5] The essay describes the Society as a prominent British socialist organization that officially formed in 1900 and that had a hand in the formation of the [[league-of-nations|League of Nations]] in 1919.[5] It identifies [[walter-lippmann|Walter Lippmann]] as a member, whose 1927 book *Public Opinion* is said to detail elite plans to use "democracy" as a smokescreen for mentally controlling the masses while convincing them they are free.[5] The author reads the imagery as fitting the psychopath's "two-faced" nature: a mask worn to blend into normal society while an "inner monster" and ritual cult violence are concealed.[5]
+
+5. Badlands Brief — "The Werewolf Game - Agents from Russia", URL: https://badlands.substack.com/p/the-werewolf-game-agents-from-russia
+6. Badlands Brief — "Why I Just Don't Trust Elon Musk", URL: https://badlands.substack.com/p/why-i-just-dont-trust-elon-musk

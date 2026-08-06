@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence, israel, cabal]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/america-for-sale-part-3.md, raw/badlands-brief-029.md, raw/badlands-brief-0bd.md, raw/badlands-brief-282.md, raw/badlands-brief-5ba.md, raw/badlands-brief-6f0.md, raw/badlands-brief-805.md, raw/badlands-brief-9ac.md, raw/badlands-brief-9ea.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-cf2.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-e79.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-ee8.md, raw/on-infiltration-and-israel.md, raw/our-greatest-ally.md, raw/operation-cyclone-the-seeds-of-terror.md, raw/the-hitler-or-obama-youth.md, raw/the-maxwells-mossad-and-a-digital.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/america-for-sale-part-3.md, raw/badlands-brief-029.md, raw/badlands-brief-0bd.md, raw/badlands-brief-282.md, raw/badlands-brief-5ba.md, raw/badlands-brief-6f0.md, raw/badlands-brief-805.md, raw/badlands-brief-9ac.md, raw/badlands-brief-9ea.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-cf2.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-e79.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-ee8.md, raw/on-infiltration-and-israel.md, raw/our-greatest-ally.md, raw/operation-cyclone-the-seeds-of-terror.md, raw/the-hitler-or-obama-youth.md, raw/the-maxwells-mossad-and-a-digital.md, raw/unmasking-the-military-industrial.md, raw/who-are-the-true-puppet-masters.md, raw/whos-the-u-boat-commander.md, raw/women-children-and-terror.md]
 confidence: low
 ---
 
@@ -169,3 +169,33 @@ Badlands contributor [[erik-carlson|Erik Carlson]] wrote in November 2023 that f
 Ryan DeLarme's May 2024 feature "The Maxwells, Mossad and a Digital Panopticon" argues that Israel won the digital surveillance war largely through the [[promis-software|PROMIS software]] operation, in which [[rafi-eitan|Rafi Eitan]] of Lekem recruited the media mogul [[robert-maxwell|Robert Maxwell]] to distribute a backdoored database product worldwide.[27] Numerous biographers, including [[gordon-thomas|Gordon Thomas]], attribute Maxwell's 1991 death at sea to an assassination carried out by Israeli intelligence, and Maxwell's Israeli holdings - among them [[degem-systems|Degem Systems]] - are described as official "service providers" for Mossad.[27] The article further presents the alleged blackmail operation run by [[jeffrey-epstein|Jeffrey Epstein]] and [[ghislaine-maxwell|Ghislaine Maxwell]] as a continuation of the same intelligence relationship, and closes by asking whether Israeli intelligence, given its extensive surveillance network and willingness to use blackmail and violence, holds leverage over many of those in power.[27]
 
 27. Badlands Brief - "The Maxwells, Mossad and a Digital Panopticon", URL: https://badlands.substack.com/p/the-maxwells-mossad-and-a-digital
+
+## Role in the MIC framework (December 2024)
+
+A December 2024 Badlands Media analysis argued that Mossad operates as more than a national defense organization, having long been accused of executing blackmail operations, false flags, and global manipulation on behalf of the [[military-industrial-complex|Military-Industrial Complex]].[28] [[jeffrey-epstein|Jeffrey Epstein]]'s alleged connections to the agency are described as revealing a network used to compromise global elites and ensure their compliance with MIC agendas.[28] The 1954 [[lavon-affair|Lavon Affair]], in which Israeli operatives bombed U.S. and British targets in Egypt to frame Arabs, is cited as the exemplary case of the agency's covert tactics, with the article suggesting similar patterns in narratives surrounding 9/11 and subsequent Middle Eastern wars.[28]
+
+The same piece described a [[white-hats|White Hat]] effort to hold the agency accountable by publishing exposés linking it to blackmail and historical false flag operations, thereby dismantling its aura of invincibility and ethical superiority and pressing for international investigations into past operations including the Lavon Affair.[28]
+
+28. Badlands Media — "Unmasking the Military Industrial Complex", URL: https://badlands.substack.com/p/unmasking-the-military-industrial
+
+## Cited in "Who are the True Puppet Masters?" (July 2023)
+
+[[erik-carlson|Erik Carlson]] writes that he is not claiming Mossad was uninvolved in [[september-11-attacks|9/11]], only that the British control Mossad as well.[29] The [[british-cabal|British Cabal]], in his account, is content for researchers to blame the [[cia|CIA]] and [[israel|Israel]], since doing so preserves British anonymity.[29]
+
+He offers [[robert-maxwell|Robert Maxwell]], father of [[ghislaine-maxwell|Ghislaine Maxwell]], as the illustrative case: Maxwell worked for Mossad but had fled the Nazi invasion of his country, joined the British Army and become a British citizen in 1946, and was, Carlson argues, loyal to England first.[29]
+
+29. Badlands Brief — "Who are the True Puppet Masters?", URL: https://badlands.substack.com/p/who-are-the-true-puppet-masters
+
+## Alleged role in the Epstein operation (January 2024)
+
+A January 2024 Badlands feature by [[erik-carlson|Erik Carlson]] described Mossad as Israel's version of the CIA and asserted that [[robert-maxwell|Robert Maxwell]], a former British MP and military man, is believed to have worked with the service.[30] Carlson argued that his daughter [[ghislaine-maxwell|Ghislaine Maxwell]] operated in a similar role, acting as handler to [[jeffrey-epstein|Jeffrey Epstein]], who served as the public face of a blackmail operation aimed at US politicians, CEOs, media figures and scientists.[30] Carlson wrote that the number of connections between Epstein, Israeli leaders and Jewish billionaire businessmen was too great to refuse exploring whether the operation worked with Mossad and other intelligence agencies, and asked whether blackmail helped secure sustained US financial and military support for Israel.[30]
+
+30. Badlands Brief — "Who's the U-Boat Commander?", URL: https://badlands.substack.com/p/whos-the-u-boat-commander
+
+## Foreknowledge question after October 7 (October 2023)
+
+Writing days after the [[hamas|Hamas]] attack, [[erik-carlson|Erik Carlson]] said readers must be willing to entertain the idea that someone in the Mossad at least knew the attacks were going to take place and chose not to act or report it — a position he framed as neither justifying the violence nor minimizing Israeli losses, but as the inference history supports.[31] He wrote that he found it impossible to believe Mossad was caught completely off guard and could not "squint hard enough" to see the event the way the official narrative requires.[31]
+
+His supporting arguments were operational: how the Israeli military failed to see the paragliders, how trucks carrying kidnapped people were driven back into [[gaza]], and why what should be the most heavily fortified and monitored area in the world was unguarded.[31] He also noted the contrast between that supposed blindness and Israel's ability to find and destroy Hamas buildings immediately afterwards.[31] Carlson grouped Mossad with the [[cia]] and [[mi6]] in asking whether all three agencies could plausibly have missed the same plot at once, comparing the situation to the CIA's tolerance of Mexican drug cartels it allegedly runs.[31]
+
+31. Badlands Brief — "Women, Children ... and Terror", URL: https://badlands.substack.com/p/women-children-and-terror

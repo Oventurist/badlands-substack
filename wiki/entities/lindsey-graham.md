@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, south-carolina, republicans, iran, neoconservatives]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-1ae.md, raw/badlands-brief-2c5.md, raw/badlands-brief-285.md, raw/badlands-brief-509.md, raw/badlands-brief-708.md, raw/badlands-brief-71c.md, raw/badlands-brief-805.md, raw/badlands-brief-8db.md, raw/badlands-brief-b38.md, raw/badlands-brief-b56.md, raw/badlands-brief-be1.md, raw/badlands-brief-c7b.md, raw/badlands-brief-b82.md, raw/badlands-brief-d9f.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-03a.md, raw/badlands-news-brief-06e.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-502.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-98c.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-aff.md, raw/badlands-news-brief-bb3.md, raw/badlands-news-brief-bfe.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-cff.md, raw/badlands-news-brief-d5c.md, raw/badlands-news-brief-db6.md, raw/badlands-news-brief-e8f.md, raw/badlands-news-brief-f6f.md, raw/badlands-news-brief-ff6.md, raw/did-israel-possess-foreknowledge.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-1ae.md, raw/badlands-brief-2c5.md, raw/badlands-brief-285.md, raw/badlands-brief-509.md, raw/badlands-brief-708.md, raw/badlands-brief-71c.md, raw/badlands-brief-805.md, raw/badlands-brief-8db.md, raw/badlands-brief-b38.md, raw/badlands-brief-b56.md, raw/badlands-brief-be1.md, raw/badlands-brief-c7b.md, raw/badlands-brief-b82.md, raw/badlands-brief-d9f.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-03a.md, raw/badlands-news-brief-06e.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-502.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-98c.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-aff.md, raw/badlands-news-brief-bb3.md, raw/badlands-news-brief-bfe.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-cff.md, raw/badlands-news-brief-d5c.md, raw/badlands-news-brief-db6.md, raw/badlands-news-brief-e8f.md, raw/badlands-news-brief-f6f.md, raw/badlands-news-brief-ff6.md, raw/did-israel-possess-foreknowledge.md, raw/two-wings-one-ugly-bird.md, raw/war-pigs.md]
 confidence: low
 ---
 
@@ -175,6 +175,12 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] said 
 
 Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] identified Graham, alongside [[nikki-haley|Nikki Haley]], as a United States neoconservative whose calls to "flatten Gaza" and to "finish them" after the [[october-7-attacks|October 7 attack]] inflamed longstanding hostilities and furnished [[israel|Israel]] a pretext for regional expansion.[42] DeLarme contrasted this with the strong Republican opposition seen at the start of the conflict in Ukraine, expressing disappointment that the Right had not learned from the War on Terror.[42]
 
+## Calls to bomb Iran's refineries (October 2023)
+
+"War Pigs" presents Graham as the archetypal congressional shill for the [[military-industrial-complex|military-industrial complex]], noting that his pro-war super PAC had been bankrolled by defence contractors.[44] In a clip played during a [[tucker-carlson|Tucker Carlson]] monologue after the October 2023 attacks, Graham — described as unfazed by the prospect of collateral damage — proposed starting an entirely new war with Iran by bombing its four major oil refineries.[44]
+
+Badlands Media contrasted this with the United States' existing financial commitments in Ukraine, its eagerness for involvement in Gaza, and China's posture toward Taiwan, judging Graham's proposal a reckless addition to an already overstretched set of conflicts.[44] He was grouped with [[nikki-haley|Nikki Haley]] as an establishment neocon whose reaction typified the pro-war consensus over the [[israel-hamas-war|Israel–Hamas war]].[44]
+
 ## References
 
 1. Badlands Brief — "Mixed Gender Crews, Trafficking Stings, & Shadow Cabal Reruns", URL: https://badlands.substack.com/p/badlands-brief-029
@@ -283,3 +289,10 @@ As senators discussed passing a single large Ukraine aid package to cover an ent
 
 41. Badlands News Brief — "Escalation Abroad, Subversion at Home ...", URL: https://badlands.substack.com/p/badlands-news-brief-ff6
 42. Badlands Brief — "Did Israel Possess Foreknowledge of Recent Attacks?", URL: https://badlands.substack.com/p/did-israel-possess-foreknowledge
+
+## IRI board membership
+
+"Two Wings, One Ugly Bird" describes the South Carolina senator as a board member of the [[international-republican-institute|International Republican Institute]] and a quintessential neoconservative foreign policy hawk whose role reinforces the institute's interventionist streak, noting his attendance at Munich, the World Economic Forum and Bilderberg.[43] The article says Graham and other IRI board senators cheered as the [[tea-party-movement|Tea Party]]'s anger was redirected at Iran and Russia rather than Wall Street.[43]
+
+43. Badlands Brief — "Two Wings, One Ugly Bird", URL: https://badlands.substack.com/p/two-wings-one-ugly-bird
+44. Badlands Brief — "War Pigs", URL: https://badlands.substack.com/p/war-pigs

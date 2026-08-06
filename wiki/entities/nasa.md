@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [space, government-agency, artemis, moon]
-sources: [raw/badlands-brief-282.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-9bc.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-b40.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-e98.md, raw/the-fraud-of-global-warming.md]
+sources: [raw/badlands-brief-282.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-9bc.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-b40.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-e98.md, raw/the-fraud-of-global-warming.md, raw/time-to-revive-the-spirit-of-jfk.md, raw/trump-doctrine-peace-through-space.md]
 confidence: medium
 ---
 
@@ -69,6 +69,20 @@ NASA's Earth Observatory and its Moderate Resolution Imaging Spectroradiometer (
 
 The essay also draws on NASA planetary science, citing the agency's 2003 report that ice caps on Mars melt periodically and have been melting at faster rates in recent years, which Ehret uses to raise the possibility that solar coronal mass ejections, solar wind and electromagnetic fields drive climate change across the solar system as a single unifying process — the core claim of [[astroclimatology]].[11]
 
+## Decline of the American space program (Ehret critique)
+
+Badlands Media contributor [[matthew-ehret|Matthew Ehret]] argues that NASA's budget peaked in 1964 at 4% of GDP before being drained into the war in Vietnam, never to rise again, and that the agency's most ambitious programs — the [[apollo-program|Apollo Program]], dissolved by 1973 with advanced Saturn rockets retired into museums, and the [[nerva-program|NERVA]] nuclear rocket effort, dismantled in 1972 — were killed despite technical success.[12] He attributes this to the rise of [[neo-malthusianism|neo-Malthusian]] statecraft in Western science policy.[12]
+
+Ehret writes that the technocrats managing U.S. science policy ensured that when the current [[international-space-station|International Space Station]] is retired there will be no replacement, and that instead of using the power of the sovereign nation state, private military contractors such as [[boeing|Boeing]] and [[spacex|SpaceX]] have been used by NASA to carry out space missions — resulting in vast cutting of safety standards, a profits-first logic ill-suited to advanced and dangerous space programs, and NASA astronauts stranded in space.[12]
+
+## Cooperation and exclusion
+
+NASA and [[roscosmos|Roscosmos]] signed a joint statement on deep space exploration on September 27, 2017, endorsing the [[lunar-gateway-project|Lunar Gateway]] as a strategic component of human exploration architecture.[12] NASA administrator [[jim-bridenstine|Jim Bridenstine]] unveiled the [[artemis-accords|Artemis Accords]] in 2019, and NASA spokesman Michael Gold publicly expected "a great deal" of Russian cooperation on Artemis.[12] By contrast, China was banned from participating in space science with NASA in 2011 under the [[wolf-act|Wolf Act]], a prohibition Ehret says merely forced China to advance on its own.[12]
+
+## Trump Doctrine: Peace Through Space
+
+In "[[trump-doctrine-peace-through-space|Trump Doctrine: Peace Through Space]]" NASA appears as the civilian counterpoint against which the [[united-states-space-force|Space Force]] defined itself, with Space Force recruiting posts describing NASA as "a civilian sector centered on astronauts, how to live in space, and exploring our galaxy and beyond."[13] The author suggests the distinction was drawn because some invoke NASA and its strange history to label the entirety of space as "fake and ghey," a perception that risks contaminating how the Space Force is viewed.[13]
+
 ## References
 1. Badlands Brief — "Jesus Walks", URL: https://badlands.substack.com/p/badlands-brief-282
 2. Badlands News Brief — "New York Insurrection, A Rapturous Reception, & Lying Tools", URL: https://badlands.substack.com/p/badlands-news-brief-0b0
@@ -81,3 +95,5 @@ The essay also draws on NASA planetary science, citing the agency's 2003 report 
 9. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93
 10. Badlands Brief — "Badlands News Brief: The Media Machine Panics as Battle Lines Are Drawn", URL: https://badlands.substack.com/p/badlands-news-brief-e98
 11. Badlands Brief — "The Fraud of 'Global Warming'", URL: https://badlands.substack.com/p/the-fraud-of-global-warming
+12. Badlands Brief — "Time to Revive the Spirit of JFK", URL: https://badlands.substack.com/p/time-to-revive-the-spirit-of-jfk
+13. Badlands Brief — "Trump Doctrine: Peace Through Space", URL: https://badlands.substack.com/p/trump-doctrine-peace-through-space

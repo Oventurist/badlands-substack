@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [elections, narrative-warfare, information-war, 2024-election]
-sources: [raw/badlands-news-brief-a71.md, raw/the-biggest-boomerang-in-history.md]
+sources: [raw/badlands-news-brief-a71.md, raw/the-biggest-boomerang-in-history.md, raw/the-shadow-game.md]
 confidence: medium
 ---
 
@@ -38,3 +38,13 @@ She faulted the piece for omitting [[hunter-biden|Hunter Biden]], a scandal she 
 Lange calls the resulting reopening the biggest October Surprise in history and holds that it cost Clinton the election, framing it as [[donald-trump|Trump]] using Clinton's own instrument against her.[2] These claims reflect Badlands Media interpretation rather than established fact.
 
 2. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history
+
+## The original 1980 October Surprise
+
+"The Shadow Game" traces the term to its origin: it was used first by the [[ronald-reagan|Reagan]] camp to describe its fear that [[jimmy-carter|Jimmy Carter]] would manipulate the Iranian hostage crisis to secure a release just before the 1980 election.[3] To forestall that scenario, [[william-casey|William Casey]] was alleged to have met representatives of Iran in Madrid in July and August 1980, leading to a deal supposedly finalized in Paris that October under which a future Reagan administration would ship arms to Tehran through Israel in exchange for the hostages being held until after the election.[3]
+
+The allegation of meetings between Casey and Hojatolislam [[mehdi-karrubi|Mehdi Karrubi]], a representative of Ayatollah [[ruhollah-khomeini|Ruhollah Khomeini]], was first reported by [[gary-sick|Gary Sick]], a Middle East specialist and Carter White House staffer whose 1991 book *October Surprise* set out the evidence; his principal source was the Iranian arms dealer Jamshid Hashemi.[3] Decades later [[ben-barnes|Ben Barnes]] described accompanying [[john-connally|John Connally]] on a summer 1980 tour of Middle Eastern capitals to pass Iran the message not to release the hostages before the election, a trip corroborated by an itinerary in Connally's files at the Lyndon Baines Johnson Library.[3]
+
+The 52 hostages were released on the day of Reagan's inauguration, minutes after he concluded his inaugural address.[3] [[joe-lange|Joe Lange]] emphasizes that this first arms arrangement with Iran was not to free hostages but to delay freeing them, and that it gave [[george-hw-bush|George H.W. Bush]] and Casey the working relationship with Tehran that later produced the [[iran-contra-affair|Iran-Contra]] scandal.[3]
+
+3. Badlands Brief — "The Shadow Game", URL: https://badlands.substack.com/p/the-shadow-game

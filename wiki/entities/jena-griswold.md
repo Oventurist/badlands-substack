@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [colorado, elections, secretary-of-state, tina-peters]
-sources: [raw/badlands-brief-174.md, raw/badlands-brief-5a2.md, raw/badlands-brief-707.md, raw/badlands-brief-b56.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-8cb.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-cba.md, raw/q-for-dummies-chapter-19.md]
+sources: [raw/badlands-brief-174.md, raw/badlands-brief-5a2.md, raw/badlands-brief-707.md, raw/badlands-brief-b56.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-8cb.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-cba.md, raw/q-for-dummies-chapter-19.md, raw/the-people-the-party-and-political.md, raw/trials-tribulations-and-a-long-train.md, raw/us-elections-must-be-independent.md]
 confidence: medium
 ---
 
@@ -88,6 +88,20 @@ Badlands commentary returned to the episode on 1 November 2024 to contrast it wi
 
 Chapter 19 of the [[q-for-dummies|Q for Dummies]] series takes up Q's question of who decides which voting machines are used in each state, answering that the choice belongs to each state's secretary of state.[16] The author urges readers to research how many secretaries of state are Democrats and, more pointedly, how many were funded by or are affiliated with [[george-soros|George Soros]], naming Griswold as a good example.[16] The same passage identifies Soros as the answer to Q's question about who exerts outsized influence over American elections, and notes that some counties still hand-count ballots because they are controlled by patriots and therefore run clean elections.[16]
 
+## 2022 primary recounts
+
+As Colorado Secretary of State, Griswold oversaw the 2022 primary recounts requested by [[tina-peters|Tina Peters]] — a statewide recount covering all 64 counties — and by State Senate candidate Lynda Zamora Wilson.[17] Recounts for the other two requesting candidates, El Paso County Clerk and Recorder candidate Peter Lupia and Coroner candidate Dr. Rae Ann Weber, fell to El Paso County Clerk and Recorder Chuck Broerman.[17] The [[2022-el-paso-county-recount|El Paso County recount]] was marked by a roughly 57% ballot adjudication rate during Logic and Accuracy Testing, reported alteration of original primary batch totals to match recount figures, and ballot boxes found with broken seals — none of which prevented officials from declaring the process a success.[17]
+
+## Write-in hysteria and Colorado qualification law (January 2024)
+
+In early January 2024, viral claims promoted by prominent conservative accounts asserted that Griswold had said she would not count votes cast for [[donald-trump|Donald Trump]].[18] [[ashe-in-america|Ashe in America]], a frequent critic of Griswold, wrote that she had said no such thing and that she hated having to defend her: what Griswold actually said was that if the [[supreme-court-of-the-united-states|U.S. Supreme Court]] upheld the [[colorado-supreme-court|Colorado Supreme Court]]'s decision removing Trump from the ballot, he would be disqualified and his votes would not count.[18]
+
+Ashe explained that this outcome follows from Colorado law rather than from the Secretary's discretion. Colorado Revised Statute 1-4-501(1) provides that no person is eligible to be a designee or candidate for office "unless that person fully meets the qualifications of that office as stated in the constitution and statutes of this state on or before the date the term of that office begins," while 1-4-501(3) sets out the procedure by which an eligible elector may challenge a candidate's qualification by verified petition in district court, with a hearing held five to ten days after the certifying statement and a determination within forty-eight hours of its close.[18] Because only ballots for "qualified" candidates may be counted, Ashe concluded that if the Supreme Court upheld the Colorado ruling it would be against the law for Griswold to count votes for Trump, and that a Colorado write-in campaign for him would be "dead on arrival."[18] She framed the situation as evidence that "the communists are way ahead of us in the Centennial state," while acknowledging that Griswold was in this instance simply following the law.[18]
+
+## Opposition to independent election audits
+
+In "US Elections Must Be Independent," Badlands contributor [[ashe-in-america|Ashe in America]] identified a June 17, 2021 tweet by Griswold as one of the biggest red flags about elections independence, in which the Colorado Secretary of State announced that she had prohibited independent election audits in the state and labeled them "Fraudits."[19] The statement was made in response to the Arizona-ordered [[maricopa-county-forensic-audit|Senate audit]] in that state, and while that audit was still underway.[19] The author characterized it as the chief elections officer of a Democrat-controlled state inferring that the legitimate action of a Republican-controlled state senate was fraudulent — "not a good look for public trust."[19] Within the essay's framework, an elected Secretary of State's personal and party stake in election outcomes is itself a self-interest conflict of the sort that [[auditor-independence|auditor independence]] rules exist to prevent.[19]
+
 ## References
 1. Badlands Brief — "Conflicts, Cartels, & Clemency", URL: https://badlands.substack.com/p/badlands-brief-174
 2. Badlands Brief — "Tina Peters' Sentence Commuted; ISIS Killed in Africa", URL: https://badlands.substack.com/p/badlands-brief-5a2
@@ -105,3 +119,6 @@ Chapter 19 of the [[q-for-dummies|Q for Dummies]] series takes up Q's question o
 14. Badlands Brief — "Badlands News Brief: The Garbage Man Cometh to Take out the Trash", URL: https://badlands.substack.com/p/badlands-news-brief-aed
 15. Badlands Brief — "Badlands News Brief: Election-Mongering and Electioneering as Shenanigans Abound", URL: https://badlands.substack.com/p/badlands-news-brief-cba
 16. Badlands Brief — "Q for Dummies - Chapter 19", URL: https://badlands.substack.com/p/q-for-dummies-chapter-19
+17. Badlands Media — "The People, The Party & Political Distractions", URL: https://badlands.substack.com/p/the-people-the-party-and-political
+18. Badlands Media - "Trials, Tribulations & a Long Train of Abuses", URL: https://badlands.substack.com/p/trials-tribulations-and-a-long-train
+19. Badlands Brief — "US Elections Must Be Independent", URL: https://badlands.substack.com/p/us-elections-must-be-independent

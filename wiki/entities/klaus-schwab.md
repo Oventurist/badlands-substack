@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [world-economic-forum, great-reset, globalism]
-sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-f4c.md, raw/combating-the-transhumanist-religion.md, raw/is-the-censorship-war-over.md, raw/soul-governance.md, raw/the-men-behind-the-curtain-part-3.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-f4c.md, raw/combating-the-transhumanist-religion.md, raw/is-the-censorship-war-over.md, raw/soul-governance.md, raw/the-men-behind-the-curtain-part-3.md, raw/throne-of-the-ivy-grid.md]
 confidence: low
 ---
 
@@ -60,6 +60,13 @@ In January 2023 The Guardian reported that the future of Schwab — "Mr Davos" f
 
 The Badlands Media essay [[soul-governance|Soul Governance]] names Schwab among the figures it treats as "echoes, masks, handlers" of a control system rather than its authors, alongside Fauci and Gates.[13] It says he "preached the gospel of stakeholder governance" and quotes the slogan "you will own nothing," adding an unstated completion of its own: "because we already own you."[13] In the essay's scheme the [[world-economic-forum|World Economic Forum]] he founded serves as the Vatican of a digital church with [[yuval-noah-harari|Yuval Harari]] as its high priest.[13]
 
+
+## In "Throne of the Ivy Grid"
+
+The Badlands Media essay *Throne of the Ivy Grid* names Klaus Schwab among "the priests" of what it calls the digital pulpit, describing the [[world-economic-forum|World Economic Forum]] founder and herald of the Great Reset as operating "not as a strategist, but as a spiritual midwife of synthetic governance."[15] The essay reads his rhetoric — from "you will own nothing" to "the fusion of our physical, digital, and biological identity" — as encoding the grid's final aim of "self-erasure by consent."[15]
+
+Backed, in the essay's account, by global technocrats, monarchs, and bankers, Schwab's forum is characterized as "not a forum" at all but "the synod of the post-human priesthood."[15] He appears alongside [[eric-schmidt|Eric Schmidt]] and [[yuval-noah-harari|Yuval Noah Harari]] in the essay's closing chapter on [[soul-capture|soul capture]], and WEF "stewardship" doctrine is grouped with UN sustainability language as a modern expression of the [[sabbateanism|Sabbatean-Frankist]] inversion theology the essay traces.[15]
+
 ## References
 
 1. Badlands Brief — "AI Can Help Us Expose the NWO", URL: https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo
@@ -101,3 +108,4 @@ Schwab founded the European Management Forum in 1971, inviting 450 executives fr
 In 1973 Schwab invited [[club-of-rome|Club of Rome]] founder [[aurelio-peccei|Aurelio Peccei]], author of *[[limits-to-growth|The Limits to Growth]]*, to give the keynote at that year's meeting — a risqué public relations strategy that DeLarme says paid dividends and seeded the language of "sustainability" and "population control" now standard at Davos.[14] In the decades that followed Schwab came to resemble less a technocrat than a herald of [[transhumanism|transhumanism]], having been vocal about his intention to fuse physical, digital and biological identity with future technology, with [[yuval-noah-harari|Yuval Noah Harari]] serving as his advisor on the subject.[14] DeLarme lists the [[esg|ESG]] score, the "net-zero" emissions push, the [[metaverse|Metaverse]] bet on [[mark-zuckerberg|Mark Zuckerberg]]'s venture, and [[central-bank-digital-currency|central bank digital currencies]] as the fruits of this long-term planning, and predicts that patriotic populations will ultimately resist globalist rule.[14]
 
 14. Badlands Brief — "The Men Behind the Curtain - Part 3", URL: https://badlands.substack.com/p/the-men-behind-the-curtain-part-3
+15. Badlands Brief — "Throne of the Ivy Grid", URL: https://badlands.substack.com/p/throne-of-the-ivy-grid

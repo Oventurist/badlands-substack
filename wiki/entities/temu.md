@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [china, e-commerce, tariffs, trade, retail]
-sources: [raw/badlands-news-brief-719.md]
+sources: [raw/badlands-news-brief-719.md, raw/the-tiktok-ban.md]
 confidence: medium
 ---
 
@@ -18,5 +18,10 @@ In late April 2025, Temu appeared to be passing on nearly all of Trump's new imp
 
 A review of 14 shipped-from-China items on Temu's bestsellers list showed taxes exceeding the value of the product itself.[1] A US$19.49 power strip, for example, attracted US$27.56 in import charges as of Monday, 28 April — 1.41 times the price of the product.[1] There were no import surcharges on items already available in U.S. warehouses, keeping the prices of such goods generally stable.[1] The rival Chinese retailer [[shein|Shein]] also raised prices over the same period.[1]
 
+## Alleged CCP ties and the TikTok question
+
+Temu, described as an Amazon-like online store selling inexpensive goods, emerged suddenly in the autumn of 2023 and was rapidly adopted by American consumers.[2] Badlands Media contributor [[erik-carlson|Erik Carlson]] wrote in April 2024 that Temu had likewise been connected to the Chinese Communist Party, and questioned whether it was coincidental that [[tiktok|TikTok]] was being demonized just as Temu became popular — asking whether one data-collection operation was simply replacing another, and whether the CCP had lost control of TikTok.[2]
+
 ## References
 1. Badlands News Brief — "Atmospheric Phenomenon & Record Deportations", URL: https://badlands.substack.com/p/badlands-news-brief-719
+2. Badlands Brief — "The TikTok Ban", URL: https://badlands.substack.com/p/the-tiktok-ban

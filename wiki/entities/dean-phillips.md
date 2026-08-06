@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [democrats, 2024-election, congress, minnesota]
-sources: [raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-d8f.md]
+sources: [raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-d8f.md, raw/the-president-that-never-was.md]
 confidence: medium
 ---
 
@@ -26,3 +26,10 @@ In the [[2024-michigan-democratic-primary|Michigan Democratic primary]] of Febru
 
 1. Badlands Brief — "Red States Align While the MSM Craters", URL: https://badlands.substack.com/p/badlands-news-brief-5ff
 2. Badlands Brief — "Hunter Hunted as Metrics Turn Sharply on Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-d8f
+
+
+## Exclusion from the 2024 Democratic primary
+
+Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] wrote in January 2024 that the Democratic establishment was successfully suppressing primary challenges from within its own party, naming Phillips and [[marianne-williamson|Marianne Williamson]] as candidates barred from mounting an effective challenge to [[joe-biden|Joe Biden]] through the party's refusal to permit debates, and adding that the party was acting to strike such challengers from the ballot so that Biden would be the only Democrat voters could select.[3]
+
+3. Badlands Brief — "The President That Never Was", URL: https://badlands.substack.com/p/the-president-that-never-was

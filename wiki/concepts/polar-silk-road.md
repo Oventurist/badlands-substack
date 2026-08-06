@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [arctic, infrastructure, china, russia, belt-and-road]
-sources: [raw/avoiding-wwiii.md, raw/the-battle-over-closed-vs-open-systems.md]
+sources: [raw/avoiding-wwiii.md, raw/the-battle-over-closed-vs-open-systems.md, raw/trump-putin-alaska-and-the-future.md]
 confidence: medium
 ---
 
@@ -30,3 +30,8 @@ Rail expansion is tied to Russia's Development Plan for the Northern Sea Route, 
 [[matthew-ehret|Matthew Ehret]] writes that China's Polar Silk Road has extended the traditionally east-west development corridor into the Arctic, and that China and Russia have increasingly merged the [[belt-and-road-initiative|Belt and Road Initiative]] with the [[eurasian-economic-union|Eurasian Economic Union]].[2] Combined with Russia's revival of the [[bering-strait-tunnel|Bering Strait crossing]] and [[donald-trump|Donald Trump]]'s executive order reviving the [[alaska-canada-railway|Alaska-Canada Railway]], he argues this development dynamic offers economic opportunity to all Arctic nations and an escape from military confrontation, in opposition to closed-system warhawks promoting a militaristic program against Russia and China in the Arctic.[2]
 
 2. Badlands Brief — "The Battle over Closed vs. Open Systems", URL: https://badlands.substack.com/p/the-battle-over-closed-vs-open-systems
+3. Badlands Brief — "Trump, Putin, Alaska and the Future of Multipolarity", URL: https://badlands.substack.com/p/trump-putin-alaska-and-the-future
+
+## Announcement and Arctic integration
+
+[[matthew-ehret|Matthew Ehret]] dates the Polar Silk Road to 2018, when it was announced as the Arctic extension of the [[belt-and-road-initiative|Belt and Road Initiative]], following Chinese state media promotion of the [[bering-strait-tunnel|Bering Strait Tunnel]] beginning in 2014.[3] He argues that [[vladimir-putin|Vladimir Putin]]'s 2018 proposal that the USA join Russia's Far East development would link western businesses into the Asia-Pacific development process shaped by the Belt and Road Initiative and especially the Polar Silk Road, and notes that India's embrace of Russian Far East investment has created a non-linear flank capable of harmonizing the two Asian giants.[3] By contrast, he writes, the North American Arctic remains an underdeveloped, barren tundra where no roads, rail or other development have been permitted to extend northward for decades.[3]

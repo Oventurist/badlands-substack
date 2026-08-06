@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [judiciary, immigration, new-york]
-sources: [raw/badlands-news-brief-065.md]
+sources: [raw/badlands-news-brief-065.md, raw/trials-tribulations-and-a-long-train.md]
 confidence: medium
 ---
 
@@ -16,6 +16,11 @@ Hellerstein appeared inclined to require the [[donald-trump|Trump]] administrati
 
 His hearing ran in parallel with a ruling the same day by Denver-based Judge [[charlotte-sweeney|Charlotte Sweeney]], who imposed a 21-day notice requirement for migrants detained in Colorado; together the two decisions signaled that the wartime-law removal mechanism might not survive judicial review.[1] The litigation was brought with the involvement of the [[american-civil-liberties-union|American Civil Liberties Union]].[1]
 
+## Remand of the New York election-interference case
+
+In November 2023 Judge Hellerstein granted the People's motion to remand a New York civil case concerning election interference from the Southern District of New York to the New York Supreme Court, New York County, holding that "Trump has failed to show that the conduct charged by the Indictment is for or relating to any act performed by or for the President under color of the official acts of a President" and that he had also failed to show "a colorable federal defense to the Indictment."[2] The remanded case (1:23-cv-03773) was scheduled to begin March 25, 2024, with a hearing on motions including dismissal set for February 1, 2024.[2]
+
 ## References
 
 1. Badlands Brief — "The Dye's Been Cast Out. The Round Table is Set.", URL: https://badlands.substack.com/p/badlands-news-brief-065
+2. Badlands Media - "Trials, Tribulations & a Long Train of Abuses", URL: https://badlands.substack.com/p/trials-tribulations-and-a-long-train

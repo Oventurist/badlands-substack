@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, journalism, washington]
-sources: [raw/badlands-brief-6f0.md, raw/badlands-brief-774.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-e98.md]
+sources: [raw/badlands-brief-6f0.md, raw/badlands-brief-774.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-e98.md, raw/trumps-2025-vision.md]
 confidence: medium
 ---
 
@@ -67,3 +67,11 @@ A separate Axios piece covered the fires set in ballot drop boxes in Washington 
 6. Badlands Brief — "Badlands News Brief: Trump's Plan, Biden's Path & Israel's Dilemma", URL: https://badlands.substack.com/p/badlands-news-brief-786
 7. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
 8. Badlands Brief — "Badlands News Brief: The Media Machine Panics as Battle Lines Are Drawn", URL: https://badlands.substack.com/p/badlands-news-brief-e98
+
+## Coverage of Trump's 2025 plans
+
+Axios published a survey of [[donald-trump|Donald Trump]]'s plans for a hypothetical second term, which Badlands Media contributor [[justin-deschamps|Justin Deschamps]] responded to at length in June 2023 and characterized as a Trump-targeted hit piece.[9] Deschamps described Axios as a left-wing outlet founded by former Politico journalists and argued that it works hand-in-glove with establishment media to propagandize American audiences.[9]
+
+The Axios reporting catalogued Trump's proposals on the federal workforce, education, law enforcement and intelligence, gender issues, crime, housing, cities, and guns, quoting [[norman-ornstein|Norman Ornstein]] of the [[american-enterprise-institute|American Enterprise Institute]] describing the program as "the trappings of a democracy" but in substance "a Potemkin village."[9] Deschamps treated the article as inadvertently useful, arguing that each item Axios framed as alarming identified an institution already captured by [[globalism|globalist]] interests, and that the hostility of the framing was itself evidence the agenda ran against those interests.[9]
+
+9. Badlands Brief — "Trump's 2025 Vision [Updated]", URL: https://badlands.substack.com/p/trumps-2025-vision

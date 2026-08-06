@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [al-qaeda, cia, 9-11, stand-down]
-sources: [raw/a-dereliction-of-duty.md, raw/badlands-news-brief-e44.md, raw/from-ye-to-oy-vey.md, raw/operation-cyclone-the-seeds-of-terror.md, raw/q-for-dummies-chapter-18.md]
+sources: [raw/a-dereliction-of-duty.md, raw/badlands-news-brief-e44.md, raw/from-ye-to-oy-vey.md, raw/operation-cyclone-the-seeds-of-terror.md, raw/q-for-dummies-chapter-18.md, raw/war-pigs.md]
 confidence: medium
 ---
 
@@ -41,9 +41,16 @@ In a 1995 interview bin Laden himself stated: "To counter these atheist Russians
 
 Chapter 18 of the [[q-for-dummies|Q for Dummies]] series answers Q drop #118's question about the source of bin Laden's wealth by pointing to his father and the family construction fortune.[5] It reminds readers that bin Laden fought with the [[mujahideen]] in Afghanistan, calling this another case of the United States funding, arming and equipping a future enemy, and describes the subject as a very deep rabbit hole beyond the scope of that chapter.[5] The chapter also confirms Q's implication that members of the [[bin-laden-family|Bin Laden family]] were inside the United States at the time of the [[september-11-attacks|September 11 attacks]] and were among those flown out afterwards.[5]
 
+## The post-9/11 interview ban
+
+"War Pigs" recalls that in the wake of the [[september-11-attacks|September 11 attacks]], the federal government ordered the legacy news networks not to air any interviews, past or present, with bin Laden.[6] The official rationale was that a hypothetical interview might allow him to signal sleeper cells embedded within America to carry out further attacks.[6]
+
+Badlands Media argues the real reason was different: the government, and by extension the [[military-industrial-complex|military-industrial complex]], feared that renewed interest in bin Laden as the supposed grand architect of the attacks could lead people to uncover why groups such as [[al-qaeda|al-Qaeda]] and the [[taliban|Taliban]] hate America so intensely.[6] The article notes that bin Laden never claimed the animosity arose because women could walk down the street without burkas; his stated argument had historically been that he wanted to bring violence to America because America had a long history of instigating and carrying out violence in the Middle East for decades.[6] The publication stresses this is not a justification of jihadi actions, nor an endorsement of the mainstream 9/11 narrative, but an argument that US foreign intervention has consequences.[6]
+
 ## References
 1. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
 2. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44
 3. Badlands Brief — "From Ye to Oy Vey!", URL: https://badlands.substack.com/p/from-ye-to-oy-vey
 4. Badlands Brief — "Operation Cyclone - The Seeds of Terror", URL: https://badlands.substack.com/p/operation-cyclone-the-seeds-of-terror
 5. Badlands Brief — "Q for Dummies - Chapter 18", URL: https://badlands.substack.com/p/q-for-dummies-chapter-18
+6. Badlands Brief — "War Pigs", URL: https://badlands.substack.com/p/war-pigs

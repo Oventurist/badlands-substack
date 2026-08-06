@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, host, founder]
-sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-dbd.md, raw/badlands-news-brief-e07.md, raw/badlands-news-brief-fcb.md, raw/brazil-breaking.md]
+sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-dbd.md, raw/badlands-news-brief-e07.md, raw/badlands-news-brief-fcb.md, raw/brazil-breaking.md, raw/trump-doctrine-peace-through-space.md]
 confidence: high
 ---
 
@@ -115,6 +115,10 @@ Jon Herold joined [[burning-bright|Burning Bright]] and [[just-human|Just Human]
 
 Commenting in the June 24, 2025 Badlands News Brief on the Iranian strike against the American [[al-udeid-air-base|Al Udeid Air Base]] in Qatar and the ensuing Israel–Iran ceasefire, Herold described the episode as "6th generation warfare."[24] He defined the layering as follows: both sides conduct fourth-generation warfare by publicly admitting to privately giving each other advance notice of their third-generation warfare bombings, which are carried out only to appease the warmongers in their respective countries, who are themselves conducting fifth-generation warfare on the public.[24] The formulation became a compact statement of the Badlands reading of the [[twelve-day-war|Twelve Day War]] as a managed narrative conflict rather than a genuine march toward world war.[24]
 
+## Trump Doctrine: Peace Through Space
+
+"[[trump-doctrine-peace-through-space|Trump Doctrine: Peace Through Space]]" cites a [[badlands-media|Badlands Media]] clip in which Herold and Ret. Lt. Gen. [[steven-kwast|Steven Kwast]] discuss proven technology for capturing and transferring solar energy both around space and to Earth, offered as support for the claim that [[starlink|Starlink]] and orbital infrastructure may have capabilities beyond those publicly acknowledged.[28]
+
 ## References
 
 1. Badlands Media — "Badlands Media Weekly Show Schedule", URL: https://badlands.substack.com/p/badlands-media-weekly-show-schedule-36d
@@ -158,3 +162,4 @@ In May 2023 Herold published the twenty-fourth installment of his [[devolution|D
 Herold featured in Badlands Media's November 2022 analysis of the [[2022-brazilian-general-election|Brazilian election]], which described his [[devolution|Devolution]] series as perhaps the most enlightening and encouraging body of open-source intelligence research compiled in service of the patriot side of the Fifth-Generation War, and as the route by which many Badlands readers had arrived.[27] The essay noted that Herold had pointed out that day that [[jair-bolsonaro|Jair Bolsonaro]]'s alliance with the [[brazilian-armed-forces|Brazilian military]] on the eve of his nation's election recalled draft executive orders that had been prepared but not actioned by [[donald-trump|Donald Trump]].[27] Devolution served as the legal, administrative and "Actual" backdrop against which the author read Brazil's disputed result.[27]
 
 27. Badlands Brief — "Brazil Breaking", URL: https://badlands.substack.com/p/brazil-breaking
+28. Badlands Brief — "Trump Doctrine: Peace Through Space", URL: https://badlands.substack.com/p/trump-doctrine-peace-through-space

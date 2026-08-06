@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [international-law, bioweapons, world-health-organization, sovereignty]
-sources: [raw/badlands-news-brief-de8.md, raw/behold-a-trojan-horse.md]
+sources: [raw/badlands-news-brief-de8.md, raw/behold-a-trojan-horse.md, raw/the-wuhan-lab-leak-hoax.md]
 confidence: medium
 ---
 
@@ -25,3 +25,11 @@ In a May 2023 Badlands Media article, "Behold, a Trojan Horse," Boyle was quoted
 ## References
 1. Badlands Brief — "Badlands News Brief: Trump's Town Hall, Comer's Committee & Biden's Bribes", URL: https://badlands.substack.com/p/badlands-news-brief-de8
 2. Badlands Brief — "Behold, a Trojan Horse", URL: https://badlands.substack.com/p/behold-a-trojan-horse
+
+3. Badlands Brief — "The Wuhan Lab Leak Hoax", URL: https://badlands.substack.com/p/the-wuhan-lab-leak-hoax
+
+## Early questioning of COVID-19's natural origin
+
+Boyle is named as one of the earliest bioweapons experts to support the view that SARS-CoV-2 was not a naturally occurring evolutionary phenomenon, joining Chinese Foreign Ministry spokesman [[zhao-lijian|Zhao Lijian]] shortly after Zhao's March 2020 intervention.[3] He was followed by virologists [[luc-montagnier|Luc Montagnier]] and [[judy-mikovits|Judy Mikovits]] and by a growing array of scholars and scientists who assessed that the virus's apparent gene sequencing implied human handiwork.[3]
+
+While this group agreed on a laboratory origin, [[matthew-ehret|Matthew Ehret]] notes that it remained unclear whether the laboratory in question was Chinese or controlled by the United States, and whether any release was accidental or consciously deployed.[3]

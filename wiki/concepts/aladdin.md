@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [blackrock, artificial-intelligence, finance, risk-management]
-sources: [raw/dont-bring-shiny-rocks-to-digital.md, raw/open-borders-finally-make-sense.md, raw/stay-focused-on-the-big-picture.md, raw/super-computers-in-the-info-war.md]
+sources: [raw/dont-bring-shiny-rocks-to-digital.md, raw/open-borders-finally-make-sense.md, raw/stay-focused-on-the-big-picture.md, raw/super-computers-in-the-info-war.md, raw/the-systematic-dismantling-of-the.md]
 confidence: low
 ---
 
@@ -43,3 +43,11 @@ Carlson described a widening range of licensees. Insurance companies used Aladdi
 In Carlson's telling this worked for a period — markets grew substantially — until [[2008-financial-crisis|2008]], when many investment banking firms were left holding risky portfolios as everything collapsed.[4] He compared the dynamic to modern weather forecasting: accuracy breeds overconfidence, so that a forecast of no rain leaves people without a jacket or umbrella when a storm arrives.[4] Over-reliance on artificial intelligence, he argued, is what caught the firms "with their pants down," compounded by [[too-big-to-fail|"too big to fail"]] expectations of a government bailout and by bankers' growing conviction that caution merely ate away at profits.[4]
 
 4. Badlands Brief — "Super Computers in the Info War", URL: https://badlands.substack.com/p/super-computers-in-the-info-war
+
+## Aladdin as evidence of long-standing Deep State AI (Carlson, November 2023)
+
+In November 2023 [[erik-carlson|Erik Carlson]] cited Aladdin against the idea that artificial intelligence was a novelty discovered after the launch of [[chatgpt|ChatGPT]] in November 2022.[5] He dated the [[blackrock|BlackRock]] supercomputer behind Aladdin to 1988 and described it as a system used to predict future behaviour in markets and in humans alike, arguing the [[deep-state|Deep State]] had been using AI on the public for some thirty years while pretending to have just stumbled upon it.[5]
+
+Carlson treated the system as the explanation for BlackRock's rise to become the world's largest asset owner despite existing only since the late 1980s — the firm can predict future market movement, and is controlled by the [[cabal|Cabal]].[5] He argued that blue-blood families who have passed down wealth for thousands of years have not simply been outpaced, but are laundering their money through companies like BlackRock.[5]
+
+5. Badlands Brief — "The Systematic Dismantling of the Deep State", URL: https://badlands.substack.com/p/the-systematic-dismantling-of-the

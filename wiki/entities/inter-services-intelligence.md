@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [pakistan, intelligence, cia, operation-cyclone]
-sources: [raw/and-iran-iran-so-far-away.md, raw/operation-cyclone-the-seeds-of-terror.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/operation-cyclone-the-seeds-of-terror.md, raw/who-is-the-real-enemy.md]
 confidence: medium
 ---
 
@@ -30,3 +30,13 @@ Routing aid through the ISI produced massive misappropriation, with many weapons
 
 1. Badlands Brief — "And Iran, Iran So Far Away", URL: https://badlands.substack.com/p/and-iran-iran-so-far-away
 2. Badlands Brief — "Operation Cyclone - The Seeds of Terror", URL: https://badlands.substack.com/p/operation-cyclone-the-seeds-of-terror
+
+## Conduit for CIA money in the Soviet-Afghan War
+
+"Who Is The Real Enemy?" describes the ISI as directly connected to the [[central-intelligence-agency|CIA]], a relationship it identifies as one reason the [[bank-of-credit-and-commerce-international|BCCI]] scheme survived as long as it did — the bank being run jointly, in the article's account, by the intelligence services of the United States, Saudi Arabia and [[pakistan|Pakistan]].[3]
+
+The CIA funded [[gulbuddin-hekmatyar|Gulbuddin Hekmatyar]]'s [[hezb-e-islami|Hezb-e Islami]] [[mujahideen|mujahideen]] organization through the ISI from the start of the [[soviet-afghan-war|Soviet–Afghan War]] in 1979.[3] Bags of dollar bills were flown into Pakistan and handed over to ISI director Lieutenant General [[akhtar-abdur-rahman|Akhtar Abdur Rahman]], who banked the cash in ISI accounts held at the National Bank of Pakistan, BCCI and the Bank of Oman.[3]
+
+Former Afghan president [[hamid-karzai|Hamid Karzai]] later told Der Spiegel that the extremist attacks in [[afghanistan|Afghanistan]] from about 2005 onward were organized by intelligence in Pakistan and carried out by the [[taliban|Taliban]], with the Taliban's sanctuaries located there — a finding he said the United States confirmed independently before choosing to fund Pakistan's military instead of acting on it.[3]
+
+3. Badlands Brief — "Who Is The Real Enemy?", URL: https://badlands.substack.com/p/who-is-the-real-enemy

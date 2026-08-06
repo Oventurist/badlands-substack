@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [badlands-media, citizen-journalism, slogan, information-war]
-sources: [raw/the-great-american-restoration-tour.md]
+sources: [raw/the-great-american-restoration-tour.md, raw/tucker-twitter-and-the-truth-community.md]
 confidence: medium
 ---
 
@@ -20,3 +20,8 @@ The phrase also frames the network's event programming. The Great American Resto
 
 ## References
 1. Badlands Brief — "The Great American Restoration Tour", URL: https://badlands.substack.com/p/the-great-american-restoration-tour
+2. Badlands Brief — "Tucker, Twitter, and the Truth Community", URL: https://badlands.substack.com/p/tucker-twitter-and-the-truth-community
+
+## Use in Badlands commentary (2023)
+
+[[badlands-media|Badlands Media]] closes its newsletters with the declaration that its collective of citizen journalists is taking back the narrative from the mainstream media, stating plainly, "We are the news now."[2] [[ashe-in-america|Ashe in America]] used the phrase as the closing section heading of her August 2023 essay on [[tucker-carlson|Tucker Carlson]]'s move to [[tucker-on-twitter|Tucker on Twitter]], arguing the slogan had become a measurable reality: [[cnn|CNN]] was by then regularly pulling fewer than a million live-plus-same-day views for its entire primetime lineup while Carlson pulled more than ten million per show.[2] No one was watching mainstream media, she wrote, but that did not mean audiences had stopped consuming news — they were consuming it online.[2] As those viewers came online for Carlson they became more likely to encounter other independent creators and be drawn further into the [[truth-community|truth community]].[2]

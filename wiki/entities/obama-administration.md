@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [obama, big-tech, monopoly, government, faang]
-sources: [raw/big-tech-climbing-aboard-the-trump.md, raw/obamas-legacy-to-destroy-america.md]
+sources: [raw/big-tech-climbing-aboard-the-trump.md, raw/obamas-legacy-to-destroy-america.md, raw/trump-cuts-the-head-off-the-snake.md]
 confidence: medium
 ---
 
@@ -32,3 +32,9 @@ Citing [[cnn|CNN]], Carlson reported that in 2016 — [[barack-obama|Obama]]'s l
 
 1. Badlands Brief — "Big Tech Climbing Aboard the Trump Train", URL: https://badlands.substack.com/p/big-tech-climbing-aboard-the-trump
 2. Badlands Brief — "Obama's Legacy to Destroy America", URL: https://badlands.substack.com/p/obamas-legacy-to-destroy-america
+
+## In "Trump Cuts the Head off the Snake"
+
+Joe Lange argues that officials of the Obama administration and their allies in the media reacted with panic rather than approval to the [[assassination-of-qasem-soleimani|January 2020 killing of Qasem Soleimani]], and attributes this to two issues in particular: the Iran nuclear deal and the pallets of cash sent to [[iran|Iran]].[3] The Federalist published a piece headlined "Ben Rhodes Attacks Trump To Obscure Obama's Complicity In Iran's Forever War," describing Soleimani as an Obama administration partner; [[ben-rhodes|Ben Rhodes]] had published an editorial in The Atlantic criticising [[donald-trump|Trump]]'s dealings with Iran.[3] Former UN Ambassador [[samantha-power|Samantha Power]], who served on the National Security Council from January 2009 to February 2013 and was a key figure in persuading the president to intervene militarily in Libya, complained that Trump had purged Iran specialists and abolished NSC contingency review processes.[3] Lange contends the underlying fear was exposure of a money-laundering operation, shared with the [[cia|CIA]].[3]
+
+3. Badlands Brief — "Trump Cuts the Head off the Snake", URL: https://badlands.substack.com/p/trump-cuts-the-head-off-the-snake

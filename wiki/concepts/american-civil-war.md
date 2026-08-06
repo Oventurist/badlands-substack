@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [united-states, confederacy, british-empire, russia, lincoln]
-sources: [raw/how-canada-was-created-to-block-us.md, raw/in-defense-of-abraham-lincoln-and.md, raw/shadows-sovereigns-and-civil-wars.md, raw/the-decade-we-all-became-slaves.md]
+sources: [raw/how-canada-was-created-to-block-us.md, raw/in-defense-of-abraham-lincoln-and.md, raw/shadows-sovereigns-and-civil-wars.md, raw/the-decade-we-all-became-slaves.md, raw/who-are-the-true-puppet-masters.md]
 confidence: medium
 ---
 
@@ -52,3 +52,11 @@ In the wake of the Union victory, a potential alliance of sovereign nation state
 
 3. Badlands Brief — "Shadows, Sovereigns and Civil Wars - Part 1", URL: https://badlands.substack.com/p/shadows-sovereigns-and-civil-wars
 4. Badlands Brief — "The Decade We All Became Slaves", URL: https://badlands.substack.com/p/the-decade-we-all-became-slaves
+
+## Cited in "Who are the True Puppet Masters?" (July 2023)
+
+[[erik-carlson|Erik Carlson]] argues that roughly fifty years after the [[war-of-1812|War of 1812]], England — seeing how powerful the United States was becoming economically — tried to instigate a civil war in America.[5] He repeats his position from earlier writings that the Civil War was not about slavery but about money, and describes England as having created a color revolution within the States, pitting brother against brother.[5]
+
+He adds that Russian fleets stood guard on the American coasts during the war, keeping England from getting involved, and treats this as the origin of a lasting British grudge against Russia that he says was settled by the British-orchestrated revolutions of 1905 and 1917.[5]
+
+5. Badlands Brief — "Who are the True Puppet Masters?", URL: https://badlands.substack.com/p/who-are-the-true-puppet-masters

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [corporations, retail, boycotts]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-b92.md, raw/badlands-news-brief-cc9.md, raw/badlands-news-brief-db9.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-b92.md, raw/badlands-news-brief-cc9.md, raw/badlands-news-brief-db9.md, raw/the-stock-market-isnt-the-economy.md, raw/wilted-ivy.md]
 confidence: medium
 ---
 
@@ -56,3 +56,15 @@ One week after chief executive [[brian-cornell|Brian Cornell]] said that "woke" 
 Writing for [[badlands-media|Badlands Media]], [[justin-deschamps|Justin Deschamps]] coined the verb "Budlighted" for what happens to a company that pushes ideological messaging onto a largely ambivalent customer base, argued that the corruption of institutions and private enterprise ran far deeper than "a few pride flags," and criticised leadership for panicking over a handful of activist employees at the expense of a business employing thousands — likening the decision to "sorting chairs on the Titanic."[7] See also [[target-pride-collection-boycott]] and the [[2023-bud-light-boycott]].
 
 7. Badlands Brief — "Badlands News Brief: DeSimps Assemble, Committees Convene & Target Tantrums", URL: https://badlands.substack.com/p/badlands-news-brief-db9
+
+## Lockdown "essential retailer" advantage
+
+Badlands contributor [[erik-carlson|Erik Carlson]] cited Target in February 2023 as an example of a large corporate retailer permitted to stay open through the [[covid-19-lockdowns|COVID lockdowns]] because it sold groceries alongside general merchandise, unlike the small boutiques that were closed.[8] A shopper could not buy a pair of pants at a small boutique but could buy them at Target, a dynamic Carlson used to explain the transfer of market share from [[small-business-in-the-united-states|small businesses]] to publicly traded chains such as [[walmart|Walmart]] and [[costco|Costco]].[8]
+
+8. Badlands Brief — "The Stock Market Isn't the Economy", URL: https://badlands.substack.com/p/the-stock-market-isnt-the-economy
+
+## Cited in "Wilted Ivy"
+
+Badlands Media's May 2025 essay "Wilted Ivy" cites "Target's ESG-driven backlash collapse" among the consumer revolts that exposed the limits of corporate [[esg|ESG]] and [[diversity-equity-and-inclusion|DEI]] enforcement.[9] It appears alongside [[bud-light|Bud Light]] and [[disney|Disney]] in the article's list of public failures signaling that capital-driven ideological conformity had begun to cannibalize itself.[9]
+
+9. Badlands Brief — "Wilted Ivy", URL: https://badlands.substack.com/p/wilted-ivy

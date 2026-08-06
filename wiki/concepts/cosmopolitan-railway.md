@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [railroads, infrastructure, bering-strait, 1890]
-sources: [raw/how-canada-was-created-to-block-us.md, raw/shadows-sovereigns-and-civil-wars.md]
+sources: [raw/how-canada-was-created-to-block-us.md, raw/shadows-sovereigns-and-civil-wars.md, raw/trump-putin-alaska-and-the-future.md]
 confidence: medium
 ---
 
@@ -24,3 +24,9 @@ In 1890 [[william-gilpin|William Gilpin]], friend of [[abraham-lincoln|Abraham L
 Gilpin observed the common cultural and geographic properties of American and Russian societies, with Russia's Manifest Destiny calling forth a pioneering spirit to "go east" and America's a westward expansion, and argued that both nations could "add a hundredfold to their wealth and power and influence" by spending two or three hundred millions apiece on a highway of the nations through their waste places.[2]
 
 2. Badlands Brief — "Shadows, Sovereigns and Civil Wars - Part 1", URL: https://badlands.substack.com/p/shadows-sovereigns-and-civil-wars
+
+## Community of principle
+
+[[matthew-ehret|Matthew Ehret]] describes *The Cosmopolitan Railway* as Gilpin's 1890 magnum opus, featuring designs for development corridors across all continents united by a "community of principle."[3] He presents Gilpin as Lincoln's personal friend, bodyguard and the first governor of Colorado, who fought against what Ehret calls the Anglo-American Deep State and recognized earlier than most the strategic value of a US–Russia alliance to build the [[bering-strait-tunnel|Bering Strait tunnel]].[3] Ehret quotes Gilpin's argument that Russia and the United States, "each having broad, uninhabited areas and limitless undeveloped resources," would by spending two or three hundred millions apiece on "a highway of the nations" through their waste places "add a hundredfold to their wealth and power and influence."[3] He echoes the same design in [[xi-jinping|Xi Jinping]]'s New Silk Road.[3]
+
+3. Badlands Brief — "Trump, Putin, Alaska and the Future of Multipolarity", URL: https://badlands.substack.com/p/trump-putin-alaska-and-the-future

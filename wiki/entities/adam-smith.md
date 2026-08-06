@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, house-armed-services-committee, democrats, elon-musk]
-sources: [raw/badlands-news-brief-e98.md]
+sources: [raw/badlands-news-brief-e98.md, raw/understanding-the-soul-of-china.md]
 confidence: medium
 ---
 
@@ -18,3 +18,9 @@ On October 25, 2024, following a [[wall-street-journal|Wall Street Journal]] rep
 
 ## References
 1. Badlands Media — "Badlands News Brief: The Media Machine Panics as Battle Lines Are Drawn", URL: https://badlands.substack.com/p/badlands-news-brief-e98
+
+## Rejected by Sun Yat-sen
+
+[[matthew-ehret|Matthew Ehret]] notes that [[sun-yat-sen|Sun Yat-sen]] was no proponent of the liberal theories of Adam Smith, Malthus, Ricardo or [[john-stuart-mill|John Stuart Mill]], and rallied against the lies of British Free Trade that had been used to justify the [[opium-wars|two opium wars]].[2] Sun instead grounded himself in the moral philosophy of [[abraham-lincoln|Lincoln]]'s America, advocating protective tariffs and internal improvements over free-trade doctrine.[2]
+
+2. Badlands Brief — "Understanding the Soul of China", URL: https://badlands.substack.com/p/understanding-the-soul-of-china

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [conspiracy-theory, badlands-media, continuity-of-government]
-sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-fcb.md, raw/bric-by-bric.md, raw/chips-and-dips.md, raw/q-for-dummies-chapter-4.md, raw/the-deep-state-needs-trump-to-win.md, raw/the-master-builder.md]
+sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-fcb.md, raw/bric-by-bric.md, raw/chips-and-dips.md, raw/q-for-dummies-chapter-4.md, raw/the-deep-state-needs-trump-to-win.md, raw/the-master-builder.md, raw/was-the-israel-hamas-conflict-de.md, raw/whats-taking-so-long.md, raw/why-did-q-stop-posting.md]
 confidence: high
 ---
 
@@ -101,3 +101,27 @@ Carlson treated the absence of American combat deaths as an evidentiary problem 
 Badlands Media's "The Master Builder" (February 2, 2023) invokes devolution as one of two preconditions for its central thesis, stating that the military has been devolved so that [[joe-biden|Joe Biden]] does not have control of the main functions of the U.S. military, alongside [[donald-trump|Donald Trump]]'s claimed control of the [[federal-reserve|Federal Reserve]].[17] [[joe-lange|Joe Lange]] directs readers to [[patel-patriot|Patel Patriot]]'s devolution series as the fullest treatment of the subject.[17]
 
 17. Badlands Media — "The Master Builder", URL: https://badlands.substack.com/p/the-master-builder
+
+## Devolution on multiple fronts (Carlson, October 2023)
+
+In "Was the Israel-Hamas Conflict De-escalated?" (October 18, 2023), [[erik-carlson|Erik Carlson]] described devolution as operating simultaneously on several fronts while [[joe-biden|Biden]] and his handlers worked to usher in a Marxist government and eventually a one-world globalist order, with [[donald-trump|Trump]] and the Patriots working behind the scenes to minimise the damage.[18]
+
+One front he identified was the [[federal-reserve|Federal Reserve]], where he cast Chair [[jerome-powell|Jerome Powell]] as a Trump ally working to keep the economy from imploding while Treasury Secretary [[janet-yellen|Janet Yellen]] and her handlers worked to undo that effort.[18] Carlson argued that the [[deep-state|Deep State]] can create drag on the American economy but cannot kill it, and that the economy staying afloat despite everything is itself evidence that the "good guys" are reversing some of what the "bad guys" do.[18]
+
+A second front was foreign policy, where he presented the public release of the [[iran-6-billion-fund-release|$6 billion Iran fund]] as a Patriot-forced disclosure that defused a wider war.[18] Carlson closed by listing what he regarded as accumulated evidence of devolutionary control over the preceding two and a half years: [[roe-v-wade|Roe v. Wade]] being overturned with little violence, Trump's executive orders being re-upped by Biden, Powell being reappointed, and Ukraine never escalating into a world war.[18] "'The Patriots are in control' doesn't mean every atrocity can be avoided," he wrote — what it means is that far worse scenarios are being de-escalated.[18]
+
+18. Badlands Brief — "Was the Israel-Hamas Conflict De-escalated?", URL: https://badlands.substack.com/p/was-the-israel-hamas-conflict-de
+
+## Cited by Joe Lange (December 2022)
+
+In "What's Taking So Long?" (December 28, 2022), [[joe-lange|Joe Lange]] wrote that [[donald-trump|Donald Trump]] set up Devolution and [[continuity-of-government|continuity of government]] arrangements immediately before leaving office so that the plan would continue under [[joe-biden|Joe Biden]].[19] In his framing the arrangement supports the [[counterinsurgency-guide|Counterinsurgency Guide]]'s requirement of simultaneous civilian and military effort, with civilian operations playing out publicly in the courts and the media while military operations remain clandestine.[19]
+
+19. Badlands Brief — "What's Taking So Long?", URL: https://badlands.substack.com/p/whats-taking-so-long
+
+## The invisible safety net
+
+[[erik-carlson|Erik Carlson]] identifies Devolution with [[executive-order-13961|Executive Order 13961]], the continuity-of-government order signed on December 7, 2020, which he says gave [[donald-trump|Trump]] the power to assemble a small group to oversee and preserve the national essential functions of government if evidence of election interference emerged.[20] He treats the timing as significant because [[qanon|Q]] stopped posting the following day, December 8, 2020.[20]
+
+Carlson characterises the three and a half years that followed as a tightrope walk conducted with an invisible safety net underneath — that net being the small group Trump enacted to oversee the succeeding administration.[20] On his account, however bad conditions became, that group has not permitted and will not permit the [[deep-state|Deep State]] running the US government to destroy the country completely.[20]
+
+20. Badlands Brief — "Why Did Q Stop Posting?", URL: https://badlands.substack.com/p/why-did-q-stop-posting

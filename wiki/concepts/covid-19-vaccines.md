@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [covid, vaccines, operation-warp-speed, big-pharma]
-sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-d24.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-d24.md, raw/you-are-a-horrible-person.md]
 confidence: low
 ---
 
@@ -53,3 +53,13 @@ Badlands contributor [[paul-fleuret|Paul Fleuret]] argued that the pattern of yo
 A study published on 13 June 2023 in *JAMA Network Open*, a journal of the [[american-medical-association|American Medical Association]], found that all 109 attendees of a Berlin health conference known to have tested positive for COVID-19 afterward had received at least two vaccine doses; among those testing negative, 98 percent were vaccinated.[5] [[justin-deschamps|Justin Deschamps]] cited the paper as confirming that "the pandemic is of the vaccinated," argued that mRNA vaccines direct cells to manufacture spike proteins that disperse and cause health problems, and predicted that heavily propagandized populations would accept further interventions in a future pandemic.[5] See [[2023-berlin-health-conference-covid-19-outbreak-study|2023 Berlin health conference COVID-19 outbreak study]].[5]
 
 5. Badlands Brief — "Badlands News Brief: Hunter's Slap & Trump's Trap", URL: https://badlands.substack.com/p/badlands-news-brief-d24
+
+## Suppression of questioning after the Hamlin collapse (January 2023)
+
+In "You Are a Horrible Person" (January 4, 2023), [[erik-carlson|Erik Carlson]] wrote that many in the "truther" movement not only distrust vaccines, big pharma and the medical community but believe vaccines are intentionally engineered to harm humans — a statement he said he did not disagree with, while declining to argue the safety question in that essay.[6] His subject was instead the speed with which anyone suggesting that vaccines might have contributed to [[damar-hamlin|Damar Hamlin]]'s cardiac arrest was demonized as an insensitive, uncaring, horrible human being.[6]
+
+Carlson argued that it was incoherent to treat speculation about an extremely rare blunt-force chest trauma as sensitive while treating speculation about vaccines as beyond the pale, and asked why the question could not be posed at all — noting that understanding what killed a young, fit person is ordinarily considered important so that future deaths might be avoided.[6] He cited the many recent cases of athletes collapsing on international soccer pitches and other sporting fields as context that he and many others found too much to ignore.[6] He allowed that even if blunt force trauma were the proximate cause of Hamlin's arrest, that would not establish that vaccines had not contributed to the net effects.[6]
+
+He also anticipated a narrative in which every vaccine-related condition would be explained away as a rare but real phenomenon, and predicted the taboo would extend to [[elon-musk|Elon Musk]]'s promised [[twitter-files|Twitter Files]] on [[anthony-fauci|Anthony Fauci]].[6]
+
+6. Badlands Brief — "You Are a Horrible Person", URL: https://badlands.substack.com/p/you-are-a-horrible-person

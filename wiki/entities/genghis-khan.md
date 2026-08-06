@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [mongolia, history, mongol-empire, russia, china]
-sources: [raw/badlands-news-brief-316.md]
+sources: [raw/badlands-news-brief-316.md, raw/the-werewolf-game-what-is-clown-world.md]
 confidence: medium
 ---
 
@@ -26,3 +26,9 @@ Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] invoked Ge
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Sovereign Signals, New(ish) Alliances & Reckonings", URL: https://badlands.substack.com/p/badlands-news-brief-316
+
+## Red-haired albino claim
+
+The Werewolf Game installment "What is Clown World?" states that there is some evidence to suggest Genghis Khan was a red-haired albino, as was Montezuma, offering this as support for the series' claim that the ancient [[koryos|Koryos]] cult was described as giant red-haired albinos.[2]
+
+2. Badlands Brief — "The Werewolf Game - What is Clown World?", URL: https://badlands.substack.com/p/the-werewolf-game-what-is-clown-world

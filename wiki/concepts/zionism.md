@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [israel, ideology, religion, middle-east, history]
-sources: [raw/badlands-news-brief-023.md, raw/badlands-news-brief-467.md, raw/badlands-news-brief-95a.md, raw/real-patriots-dont-think-like-hitler-1b1.md, raw/real-patriots-dont-think-like-hitler.md]
+sources: [raw/badlands-news-brief-023.md, raw/badlands-news-brief-467.md, raw/badlands-news-brief-95a.md, raw/real-patriots-dont-think-like-hitler-1b1.md, raw/real-patriots-dont-think-like-hitler.md, raw/unmasking-the-military-industrial.md, raw/who-are-the-true-puppet-masters.md, raw/women-children-and-terror.md]
 confidence: medium
 ---
 
@@ -44,6 +44,12 @@ Matthew Ehret's third installment of "Real Patriots Don't Think Like Hitler" arg
 
 Ehret contends that [[adolf-hitler|Hitler]]'s simultaneous alliance with Grand Mufti Haj Amin al-Husseini, whom he describes as a Muslim Brotherhood asset installed by the British Empire, was not contradictory to this pro-Zionist policy: the Mufti's demands to kill all the Jews and the fascist-admiring networks of Zeev Jabotinsky's [[irgun|Irgun]] Greater Israel fanatics were, in his reading, part of the same formula of geopolitical control through managed chaos in a region where all major civilizations intersect.[4]
 
+## Zionism as a colonial tool (October 2023 argument)
+
+[[erik-carlson|Erik Carlson]] assembled press citations to argue that British sponsorship of Zionism was instrumental rather than sympathetic.[8] He quoted a [[haaretz]] op-ed of January 27, 2017 stating that [[winston-churchill|Churchill]]'s "special friendship" with the Jewish people "is nothing more than a myth, created by Churchill himself and his official biographer, Martin Gilbert," and a further Haaretz piece of October 26, 2017 on how "the British policy elite's views reflected deeply embedded notions of the 'Jewish race' and 'Jewish power', the 'impurity' of the Palestinian Arabs - and the incapability of both to ever rule themselves."[8] He also cited a November 1, 2017 Institute for Palestine Studies article declaring "It's time to admit that Arthur Balfour was a white supremacist," and a Middle East Monitor headline of June 24, 2020: "Churchill was an anti-Semite who embraced Zionism as a colonial tool."[8]
+
+Carlson wrote that in 1948 the Palestinians were kicked off the land they occupied to make room for the Zionists, in some cases with houses bulldozed while families were inside, and declined to argue whether the Zionists had a right to the land or England the right to give it.[8]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Chaos in the Middle East Overshadows That at Home", URL: https://badlands.substack.com/p/badlands-news-brief-023
 2. Badlands Brief — "Somali Scams, Munchausen Moms, & Another Perfect Phone Call", URL: https://badlands.substack.com/p/badlands-news-brief-467
@@ -55,3 +61,20 @@ Ehret contends that [[adolf-hitler|Hitler]]'s simultaneous alliance with Grand M
 Part 1 of "Real Patriots Don't Think Like Hitler" locates an occult and Masonic origin for modern Zionism in the career of Sir [[charles-warren|Charles Warren]].[5] [[matthew-ehret|Matthew Ehret]] writes that Warren was a leading champion of a movement designed solely to convince the Jews of Russia and Europe to go live in the desert, and that his leadership of the [[palestine-exploration-fund|Palestine Exploration Fund]] shaped modern Zionism, as did his Grand Mastership of the [[quatuor-coronati-lodge|Quatuor Coronati lodge]], which set the stage for reviving [[solomons-temple|Solomon's Temple]].[5] Ehret adds that Warren's simultaneous service as Chief of London's Metropolitan Police during the [[whitechapel-murders|Whitechapel Murders]] of 1888 was closely connected to the same operation, since those killings accompanied an anti-Jewish propaganda campaign intended to terrorize the Jews of England into leaving Europe for the desert.[5] Elsewhere in the article Ehret criticizes the "incredibly evil behavior from Israel's own Likudnik elite obsessed with a Greater Israel program involving ethnic cleansing of much of the Middle East," which he says has driven many people toward blaming Jews for all the world's problems.[5]
 
 5. Badlands Brief — "Real Patriots Don't Think Like Hitler - Part 1", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler
+
+## As an instrument of control (December 2024 analysis)
+
+A December 2024 Badlands Media analysis described Zionism, the political movement advocating a Jewish homeland, as having been co-opted by globalist interests to secure a foothold in the resource-rich Middle East, with religious narratives weaponized to rally Christian support for Israel's establishment, particularly in the United States.[6] The 1909 Scofield Reference Bible, produced by [[cyrus-scofield|Cyrus Ingerson Scofield]] and edited again in 1917, is identified as the key vehicle: financed by influential elites including figures connected to the lawyer and Zionist Samuel Untermeyer, its dispensationalist theology separated Israel's role from that of the Church and convinced generations of Christians that supporting Israel was a divine mandate.[6]
+
+The article further argued that Israel's territorial expansion — from the occupation of the Golan Heights in 1967 to settlements in the West Bank — has been framed as self-defense while aligning more closely with resource acquisition and regional dominance than with Biblical promise.[6] [[white-hats|White Hats]] are said to counter this by emphasizing the distinction between the spiritual Israel of scripture and the political and nationalist ideology of modern Zionism, and by debunking theological interpretations that generate uncritical support for Israeli state policy in service of the [[military-industrial-complex|Military-Industrial Complex]] agenda.[6]
+
+6. Badlands Media — "Unmasking the Military Industrial Complex", URL: https://badlands.substack.com/p/unmasking-the-military-industrial
+
+## Cited in "Who are the True Puppet Masters?" (July 2023)
+
+In "Who are the True Puppet Masters?", [[erik-carlson|Erik Carlson]] assigns Zionists the role of designated fall guy within his [[british-cabal|British Cabal]] framework.[7] Any clandestine operation living in the shadows needs a fall guy, he writes, and this is where in many cases Zionists come into play — not to say there are no Zionists willingly participating, but that in his view they are strategically placed into presumed positions of power by the British Cabal so as to appear to be the ones manipulating the strings.[7]
+
+His governing metaphor is that "the British Cabal is the puppeteer, the Zionists in many cases are the strings, and the common people are the dummy," with the [[chinese-communist-party|CCP]], Muslims, the Soviets, the Germans or the United States equally substitutable into the role.[7] Carlson argues the Cabal deliberately overwhelms American positions of power and influence with Jewish people so that researchers discover the overrepresentation and mistake it for evidence of control, and he describes his own former belief that Jews ran everything as a conclusion he was led to intentionally.[7] He asks why, if Jews were the puppet masters, they would let millions of their own die in concentration camps or surround [[israel|Israel]] with its enemies — concluding instead that England created the State of Israel and uses this propaganda to serve its own ends.[7]
+
+7. Badlands Brief — "Who are the True Puppet Masters?", URL: https://badlands.substack.com/p/who-are-the-true-puppet-masters
+8. Badlands Brief — "Women, Children ... and Terror", URL: https://badlands.substack.com/p/women-children-and-terror

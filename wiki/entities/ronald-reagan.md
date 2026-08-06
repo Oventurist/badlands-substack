@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [presidents, hollywood, cold-war, military]
-sources: [raw/a-new-hollywood.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-cf8.md, raw/dope-inc.md, raw/has-trumps-whole-life-been-a-sting.md, raw/is-generation-x-saving-america.md, raw/operation-cyclone-the-seeds-of-terror.md, raw/reagan-20.md, raw/school-of-assassins-and-dictators.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-covfefe-dig.md, raw/the-men-behind-the-curtain-part-2.md]
+sources: [raw/a-new-hollywood.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-cf8.md, raw/dope-inc.md, raw/has-trumps-whole-life-been-a-sting.md, raw/is-generation-x-saving-america.md, raw/operation-cyclone-the-seeds-of-terror.md, raw/reagan-20.md, raw/school-of-assassins-and-dictators.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-covfefe-dig.md, raw/the-men-behind-the-curtain-part-2.md, raw/the-us-department-of-re-education.md, raw/trump-doctrine-peace-through-space.md]
 confidence: medium
 ---
 
@@ -49,6 +49,10 @@ At the Republican national convention, however, pundits began promoting a "dream
 According to historian Jim Marrs, Reagan's fifty-nine-member transition team comprised twenty-eight CFR members, ten members of the [[bilderberg-group|Bilderberg group]] and at least ten Trilaterals, and he appointed CFR members Alexander Haig, Casper Weinberger and Donald Regan as secretaries of State, Defense and the Treasury.[12] He also named Bush's campaign manager James A. Baker III — a fourth-generation member of a family long connected to Rockefeller oil interests — as his chief of staff.[12] [[alan-greenspan|Alan Greenspan]], likewise a member of the Trilateral Commission, the CFR and the Bilderbergers, replaced [[paul-volcker|Paul Volcker]] at the [[federal-reserve|Federal Reserve]] during Reagan's presidency.[12]
 
 Months after his inauguration Reagan was struck by an assassin's bullet that, but for a quarter of an inch, would have placed Trilateralist George H. W. Bush in the Oval Office seven years early; the article notes that the brother of would-be assassin [[john-hinckley-jr|John W. Hinckley]] had dinner scheduled with Bush's son [[neil-bush|Neil]] the very night Reagan was shot.[12]
+
+## Trump Doctrine: Peace Through Space
+
+"[[trump-doctrine-peace-through-space|Trump Doctrine: Peace Through Space]]" treats Reagan as the most notable American practitioner of [[peace-through-strength|Peace Through Strength]], noting that the foundation of his foreign policy, the Reagan Doctrine, was support of freedom for all people around the world and that his commitment to peace through strength led to the modernization of US military forces, which he hoped would not only contain communism but defeat it.[14] The article also observes that during Reagan's administration the US Army grew by two active divisions and new weapons systems were developed, and asks by analogy whether [[donald-trump|Trump]] likewise developed new weapons systems — implicitly [[bitcoin|Bitcoin]] and space capability — under the same doctrine.[14]
 
 ## References
 1. Badlands Brief — "A New Hollywood", URL: https://badlands.substack.com/p/a-new-hollywood
@@ -107,3 +111,18 @@ In Carlson's summary of their fates, Kennedy was killed, Nixon was set up and fo
 10. Badlands Brief — "The CIA is Being Thrown Under the Bus", URL: https://badlands.substack.com/p/the-cia-is-being-thrown-under-the
 11. Badlands Brief — "The COVFEFE Dig", URL: https://badlands.substack.com/p/the-covfefe-dig
 12. Badlands Brief — "The Men Behind the Curtain - Part 2", URL: https://badlands.substack.com/p/the-men-behind-the-curtain-part-2
+
+## Education policy
+
+A January 2025 Badlands feature by [[erik-carlson|Erik Carlson]] examined Reagan's record on the [[department-of-education|Department of Education]], created under [[jimmy-carter|Jimmy Carter]] by the [[department-of-education-organization-act|Department of Education Organization Act]].[13] During the 1980 presidential campaign Reagan called for the department's total elimination, for severe curtailment of bilingual education, and for massive cutbacks in the federal role in education, and in his 1982 State of the Union Address he pledged that his budget would "realize major savings by dismantling the Department of Education."[13] A Democratic House of Representatives blocked abolition, and Carlson argues that Reagan compromised: he fought the department's funding, greatly reducing its influence, but left it standing.[13]
+
+Carlson stresses that Reagan wanted education reformed rather than neglected, but at the state and local level rather than the federal.[13] Citing a March 1987 *Education Week* assessment, he notes that American public schools after 1983 experienced the most sustained and far-reaching reform effort in modern times, galvanized by Reagan administration leadership yet achieved with minimal federal expenditure and no direct intervention in state and local educational affairs.[13] In a spring 1983 address at Seton Hall University Reagan said the answer to school problems lay in demanding excellence and improving teaching quality, chiefly through merit pay — a proposal opposed principally by the teachers' unions.[13]
+
+The article credits Reagan's administration with prioritizing technology and computer science education in order to compete with economic rivals such as Japan, contrasting this with the later proliferation of degrees Carlson considers useless, and attributes much subsequent American technological innovation to Americans schooled during the Reagan years.[13] Carlson also defends Reagan's opposition to bilingual education as motivated by concern that it would produce division and impede immigrant assimilation rather than by racism.[13]
+
+## "Trump 1.0"
+
+Carlson describes Reagan as "Trump 1.0," or [[donald-trump|Trump]] as "Reagan 2.0," arguing that Trump learned from Reagan's mistake of compromising with the [[deep-state|Deep State]] — though he may have repeated it in his first term by trusting [[rino|RINOs]] and Neocons.[13] In this reading Reagan was setting the table for what Trump is doing today, or was trying to save America and Trump is finishing what Reagan could not.[13] Carlson also connects Reagan's eight-year suppression of the Department of Education to his theory that [[generation-x|Generation X]], schooled during those years, escaped much of the conditioning imposed on other generations.[13]
+
+13. Badlands Brief — "The U.S. Department of Re-education", URL: https://badlands.substack.com/p/the-us-department-of-re-education
+14. Badlands Brief — "Trump Doctrine: Peace Through Space", URL: https://badlands.substack.com/p/trump-doctrine-peace-through-space

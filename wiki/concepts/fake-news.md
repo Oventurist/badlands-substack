@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [media, narrative-control, badlands-media]
-sources: [raw/the-aftermath-of-a-trump-victory.md, raw/the-media-is-the-enemy-of-the-people.md]
+sources: [raw/the-aftermath-of-a-trump-victory.md, raw/the-media-is-the-enemy-of-the-people.md, raw/the-unreality-paradox.md]
 confidence: medium
 ---
 
@@ -30,3 +30,11 @@ He linked the label to the treatment of dissenters more broadly, placing media o
 [[erik-carlson|Erik Carlson]]'s September 17, 2024 essay credits Trump's use of the phrase "fake news" with being the point at which most Americans first considered that what they saw on television might not be the truth, calling it a stark realization to accept lifelong manipulation.[2]
 
 2. Badlands Brief — "The Media is the Enemy of the People", URL: https://badlands.substack.com/p/the-media-is-the-enemy-of-the-people
+
+## "Fake News" as part of the real war (November 2022)
+
+[[burning-bright|Burning Bright]]'s essay "The Unreality Paradox" argued that the term is double-edged: the [[media-industrial-complex|Media Industrial Complex]], dubbed the "Fake News" at turns affectionately and venomously by [[donald-trump|Donald Trump]], genuinely does spin webs of lies, but the label also invites a dismissal that is itself strategically costly.[3] In his formulation of the [[unreality-paradox|Unreality Paradox]], the fake news is a component of the real war, so treating it as unworthy of respect, attention, time or intellectual capacity forfeits any understanding of the intentions behind the narrative weaponization it carries.[3]
+
+He wrote that the concept of "Fake News" suggests and even reveals the Men Behind the Curtain, and that rather than disengaging from their paradigm entirely the correct response is to "tear that curtain down" and read the scripts they type, so as to anticipate the next mass psychological deployment and work out how to thwart it.[3] The essay closes by restating the refrain in amended form: "The News is Fake, but [their] War on US is very real."[3]
+
+3. Badlands Brief — "The Unreality Paradox", URL: https://badlands.substack.com/p/the-unreality-paradox

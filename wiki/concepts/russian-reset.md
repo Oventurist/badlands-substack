@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [russia, obama, hillary-clinton, uranium, narrative]
-sources: [raw/america-for-sale-part-3.md, raw/the-biggest-cover-up-in-american.md]
+sources: [raw/america-for-sale-part-3.md, raw/the-biggest-cover-up-in-american.md, raw/we-are-watching-a-movie.md]
 confidence: medium
 ---
 
@@ -30,3 +30,11 @@ The article's summarizing complaint is that the reset allowed Russia to control 
 [[qanon|Q]] drop #48 of November 2, 2017 recalled [[barack-obama|Obama]]'s May 2010 statement that "Russia should be viewed as a friendly partner under Section 123 the Atomic Energy Act of 1954" following a nuclear weapons reduction deal, and asked what the Russia reset really provided — answering with the question "Clearance/pathway to complete the U1 deal?"[2] [[joe-lange|Joe Lange]] argues that [[hillary-clinton|Hillary Clinton]] and Obama used the reset narrative to create a clear path for the [[uranium-one-deal|Uranium One deal]], and that it functioned as a cover story to fool the American public while the administration worked to hide the FBI's undercover investigation from [[congress|Congress]].[2]
 
 2. Badlands Brief — "The Biggest Cover-up in American History", URL: https://badlands.substack.com/p/the-biggest-cover-up-in-american
+
+## Listed among the "biggest cover up"
+
+In "We Are Watching a Movie," [[joe-lange|Joe Lange]] cites Q drop #237 of November 30, 2017, which lists "U1 - CA - EU - ASIA/NK," the "Iran deal" and the "Russian reset" together under the heading "Biggest cover up in our history."[3] He calls the reset "phony" and asks why it failed.[3]
+
+His answer, drawn from Russia Matters, is that Moscow complained of a bait and switch over [[libya|Libya]]: Russia's willingness to abstain on a UN resolution calling for a no-fly zone after the anti-Gaddafi rebellion began in 2011 rested on its understanding that the United States and Western powers would create safe areas for civilian refugees, not become co-belligerents alongside the rebels to overthrow [[muammar-gaddafi|Gaddafi]].[3] Moscow subsequently used its Security Council veto to prevent any repetition of the Libya scenario in [[syria|Syria]], where Russia had concrete interests tied to the survival of the [[bashar-al-assad|Assad]] regime - read in Washington as intransigence in support of a brutal dictator.[3] Lange concludes that [[vladimir-putin|Putin]] was angry because [[barack-obama|Obama]] and [[hillary-clinton|Hillary Clinton]] had broken promises made about Libya, and that had Putin known their plan was to kill and remove Gaddafi he would have vetoed the no-fly zone resolution, which in the event stripped Gaddafi of his defences and strengthened rebels the [[central-intelligence-agency|CIA]] had trained and funded.[3] These claims reflect Badlands Media interpretation rather than established fact.
+
+3. Badlands Brief - "We Are Watching a Movie", URL: https://badlands.substack.com/p/we-are-watching-a-movie

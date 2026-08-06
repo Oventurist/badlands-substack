@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [baltimore, maritime, infrastructure, disaster, salvage]
-sources: [raw/badlands-news-brief-092.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-b10.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-e54.md, raw/badlands-news-brief-efd.md, raw/the-deep-state-needs-trump-to-win.md]
+sources: [raw/badlands-news-brief-092.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-b10.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-e54.md, raw/badlands-news-brief-efd.md, raw/the-deep-state-needs-trump-to-win.md, raw/the-tiktok-ban.md]
 confidence: medium
 ---
 
@@ -79,3 +79,8 @@ In "The Deep State Needs Trump to Win," published April 15, 2024, [[erik-carlson
 Carlson paired the question with a second incident, asking whether another bridge collapse had been diverted later in New York Harbor when a cargo ship lost power there, and whether that too reflected cooperation from Deep State members cutting deals.[8] He explicitly conceded that "there is no way for you or me to know at this time."[8]
 
 8. Badlands Brief — "The Deep State Needs Trump to Win", URL: https://badlands.substack.com/p/the-deep-state-needs-trump-to-win
+9. Badlands Brief — "The TikTok Ban", URL: https://badlands.substack.com/p/the-tiktok-ban
+
+## Carlson's White Hat timing hypothesis (April 2024)
+
+In "The TikTok Ban," published April 8, 2024, [[erik-carlson|Erik Carlson]] wrote that he was not convinced the bridge collapse had happened the way it was reported.[9] He allowed that a cyber attack on a cargo ship may have been prepared to take out the bridge, but raised the possibility that [[white-hats|White Hats]] caused the collapse to occur at 1:30 a.m., when almost no cars were on the span, pre-empting a [[deep-state|Deep State]] plan to bring it down the following morning during rush hour.[9] He questioned whether actual people were in the vehicles that went into the river, asked what the container ship was carrying — speculating about children, weapons or nuclear material — and wondered whether the ship had been crashed into the bridge to prevent it from leaving the harbor.[9] Carlson explicitly labelled the passage "pure and utter speculation," presenting it as an exercise in thinking outside the box in a media environment he regarded as wholly unreliable.[9]

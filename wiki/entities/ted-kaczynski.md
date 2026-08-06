@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [unabomber, anti-industrialism, terrorism]
-sources: [raw/a-look-at-recent-features-84d.md, raw/badlands-news-brief-2f2.md, raw/on-ted-kaczynski-and-false-prophets.md]
+sources: [raw/a-look-at-recent-features-84d.md, raw/badlands-news-brief-2f2.md, raw/on-ted-kaczynski-and-false-prophets.md, raw/the-rising-scourge-of-eco-terrorism.md]
 confidence: low
 ---
 
@@ -28,7 +28,22 @@ Ehret notes that Kaczynski's years as a subject coincide with the [[harvard-psil
 
 Ehret isolates Kaczynski's core assumption: "The system does not and cannot exist to satisfy human needs. Instead, it is human behavior that has to be modified to fit the needs of the system. It is the fault of technology, because the system is guided not by ideology but by technical necessity."[3] In that statement, he argues, Kaczynski denies both free will and the causal role of ideas — right and wrong — in shaping history.[3] The fundamental assumptions of eco-terrorists such as the Unabomber, Andreas Malm, David Skribina, Roger Hallam and Derrick Jensen are therefore, in his reading, identical with those of death cultists like [[prince-philip|Prince Philip]], [[yuval-noah-harari|Yuval Noah Harari]] and [[maurice-strong|Maurice Strong]]: one side adapts to the supposed consequences of technological progress and becomes an alpha in the emergent [[brave-new-world|Brave New World]], while the other goes maximum John Savage and burns it all down.[3] Ehret treats this as a [[double-bind-theory|double bind]] and a false dichotomy leading to the same techno-feudal dystopia.[3]
 
+## Rebranding as prophet of the anti-technology movement
+
+In "The Rising Scourge of Eco-Terrorism," Ehret describes how Kaczynski, who died in 2023, was transformed from a supermax inmate convicted over a 25-year campaign of mailing elaborate bombs to "agents of industrial progress" — killing three and injuring dozens — into a modern prophet cited by activist-intellectuals.[4] Despite his imprisonment following his 1996 arrest, Kaczynski maintained a network of pen pals numbering in the thousands across the western landscape.[4] Philosophy professor [[david-skrbina|David Skrbina]] corresponded with him between 2003 and 2023, taught his theories for over a decade, wrote the foreword to Kaczynski's 2010 book *Technological Slavery*, and in 2016 described him as a "prophet" and potentially "a kind of savior of humanity and the planet."[4]
+
+Ehret attributes the rebranding largely to the publication of the 35,000-word manifesto *Industrial Society and Its Future* in *[[washington-post|The Washington Post]]* and *[[new-york-times|The New York Times]]* in 1995, an apparent condition of Kaczynski's pledge to stop killing.[4] Although some Washington Post executives were uneasy, the head of the [[fbi|FBI]] directly intervened to ensure the manifesto was published.[4] Skrbina described the strategy approvingly, noting that the Post sold roughly 1.2 million copies that day.[4]
+
+## The axiom and its critics
+
+Ehret summarizes Kaczynski's grand theory as resting on the axiom that technology equals "evil cancer."[4] The empirical premise — that civilization and population growth could not have occurred without technological progress — is unobjectionable, but Kaczynski then assumed a priori that all technological advance occurs at the expense of human freedom and of nature.[4] No allowance is made for the misuse of technology through folly, corruption or evil agendas, and adherents rely on Rousseau's noble savage doctrine despite evidence of inter-tribal warfare, cannibalism and pre-industrial environmental decay.[4] Evidence that industrial and hydrocarbon energy have driven improvements in quality of life, and that industrial activity has coincided with healthy ecosystems, is likewise ignored.[4]
+
+## Malthusian convictions
+
+In a 1998 letter to his pen pal [[derrick-jensen|Derrick Jensen]], Kaczynski wrote that civilization "is a curse and should be eliminated — if possible," rejecting Jensen's priority of minimizing human cost and warning that "if we pull our punches, we are sure to lose."[4] In the same letter he stated: "The human race will have to pass through fire. When a species becomes too numerous, typically it reaches a point where it suffers a sudden population collapse, through starvation, epidemic, or whatever. The human race should be subject to the same law."[4] Ehret links this directly to [[thomas-malthus|Thomas Malthus]]' 1799 *Essay on Population*, and further to [[prince-philip|Prince Philip]]'s 1981 statement that population growth would be controlled "involuntarily" if not voluntarily, and to [[dennis-meadows|Dennis Meadows]]' 2022 hope for a reduction from seven billion to one billion people — arguing that the difference between Kaczynski and the Davos oligarchs is purely cosmetic.[4]
+
 ## References
 1. Badlands Brief — "A Look At Recent Features", URL: https://badlands.substack.com/p/a-look-at-recent-features-84d
 2. Badlands News Brief — "Israel Strikes Again as The FED Pivots", URL: https://badlands.substack.com/p/badlands-news-brief-2f2
 3. Badlands Brief — "On Ted Kaczynski and False Prophets", URL: https://badlands.substack.com/p/on-ted-kaczynski-and-false-prophets
+4. Badlands Brief — "The Rising Scourge of Eco-Terrorism", URL: https://badlands.substack.com/p/the-rising-scourge-of-eco-terrorism

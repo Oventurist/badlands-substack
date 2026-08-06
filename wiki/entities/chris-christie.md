@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [republican-party, new-jersey, trump-transition]
-sources: [raw/badlands-news-brief-110.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-b83.md, raw/believe-half-of-what-you-see.md]
+sources: [raw/badlands-news-brief-110.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-b83.md, raw/believe-half-of-what-you-see.md, raw/vivek-desantis-and-trumps-master.md]
 confidence: medium
 ---
 
@@ -37,3 +37,11 @@ In the November 2023 essay "Believe Half of What You See," Badlands Media contri
 2. Badlands Brief — "Badlands News Brief: Shenanigans Shall Continue Until Morale Improves ...", URL: https://badlands.substack.com/p/badlands-news-brief-49d
 3. Badlands Brief — "Trump Indicted ... AGAIN! ... & Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-b83
 4. Badlands Brief — "Believe Half of What You See", URL: https://badlands.substack.com/p/believe-half-of-what-you-see
+
+## Deschamps's assessment of the 2024 primary role
+
+In his December 20, 2023 essay, [[justin-deschamps|Justin Deschamps]] wrote that Christie "never had a chance" and had been placed in the race as a prop — alongside [[tim-scott|Tim Scott]], [[ron-desantis|Ron DeSantis]] and others — to make [[nikki-haley|Nikki Haley]] look strong and presidential.[5] He grouped Christie with Haley and DeSantis as figures who behaved as though they were the "Varsity Team" of establishment politics, treating [[vivek-ramaswamy|Vivek Ramaswamy]] as an intruding punk kid, a posture visible in their body language, tone and eye-rolling during the debates.[5]
+
+Deschamps also noted that Ramaswamy's December 2023 pledge to withdraw from the Colorado GOP primary ballot until [[donald-trump|Trump]] was restored explicitly demanded that Christie, DeSantis and Haley do the same immediately, on pain of tacitly endorsing what Ramaswamy called an illegal maneuver.[5] In Deschamps's view the demand stripped whatever credibility the old guard retained as patriots.[5]
+
+5. Badlands Brief — "Vivek, DeSantis, and Trump's Master Move", URL: https://badlands.substack.com/p/vivek-desantis-and-trumps-master

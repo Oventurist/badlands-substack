@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [georgia, fulton-county, judiciary, 2020-election]
-sources: [raw/badlands-brief-990.md, raw/badlands-news-brief-054.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-b5a.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-d00.md, raw/badlands-news-brief-df8.md, raw/grand-jury-testimony-from-senator.md]
+sources: [raw/badlands-brief-990.md, raw/badlands-news-brief-054.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-b5a.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-d00.md, raw/badlands-news-brief-df8.md, raw/grand-jury-testimony-from-senator.md, raw/trials-tribulations-and-a-long-train.md]
 confidence: medium
 ---
 
@@ -70,6 +70,10 @@ Observers noted that in a separate recent ruling dismissing some counts of the i
 
 On April 4, 2024, McAfee, a Fulton County Superior Court judge, rejected [[donald-trump|Donald Trump]]'s bid to dismiss the criminal charges in Georgia's 2020 election interference case on free speech grounds.[12] He found that the indictment alleges statements by Trump and 14 co-defendants were made "in furtherance of criminal activity" and are not protected by the [[first-amendment|First Amendment]].[12] Trump's lead counsel in the case, [[steve-sadow|Steve Sadow]], said the defendants respectfully disagreed with the order and would continue evaluating their options regarding the First Amendment challenges.[12]
 
+## Georgia trial schedule (2024)
+
+McAfee, described as a lifelong Georgian and former inspector general, was scheduled to hear opening arguments on August 5, 2024 in the Fulton County racketeering trial in which [[donald-trump|Donald Trump]] faces 13 counts alongside 18 other implicated defendants.[15] Motions other than motions in limine were due for most defendants on January 8, 2024.[15]
+
 ## References
 
 1. Badlands Brief — "Secret Seizures, Sovereign Signals, & Unnamed Somalis Close to the Matter", URL: https://badlands.substack.com/p/badlands-brief-990
@@ -98,3 +102,4 @@ Before his judicial career, McAfee served as Georgia's Inspector General.[14] Ge
 McAfee's January 2026 order lifting the protective order over the special grand jury transcripts in [[state-of-georgia-v-trump|State of Georgia v. Trump, et al.]] made public the testimony of former Senator [[david-perdue|David Perdue]] describing the alleged suppression of a GBI inquiry.[14]
 
 14. Badlands Brief — "Grand Jury Testimony From Senator David Perdue Suggests Gov. Brian Kemp Halted Investigation Into 2020 Election", URL: https://badlands.substack.com/p/grand-jury-testimony-from-senator
+15. Badlands Media - "Trials, Tribulations & a Long Train of Abuses", URL: https://badlands.substack.com/p/trials-tribulations-and-a-long-train

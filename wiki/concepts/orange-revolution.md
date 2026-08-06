@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ukraine, color-revolution, regime-change, elections, ngo]
-sources: [raw/how-to-rent-a-riot-the-history-of.md, raw/the-information-imperium.md]
+sources: [raw/how-to-rent-a-riot-the-history-of.md, raw/the-information-imperium.md, raw/two-wings-one-ugly-bird.md]
 confidence: medium
 ---
 
@@ -40,3 +40,9 @@ The article calls the revolution's success pyrrhic: Yushchenko's government frac
 Badlands Media's "The Information Imperium" argues that the 2004 uprising was preceded by years of Western media investment in Ukraine: by 2001 [[internews|Internews]] had reportedly trained 1,900 journalists and supported 203 television stations and 126 radio outlets reaching 50 million viewers and 18 million listeners, though the article concedes these figures are hard to verify.[2] This activity is described as synchronised with the [[national-endowment-for-democracy|National Endowment for Democracy]]'s push to orient Ukraine westward, with the [[national-democratic-institute|NDI]] and [[international-republican-institute|IRI]] coaching the "spontaneous" uprising while Internews amplified pro-U.S. voices.[2]
 
 2. Badlands Brief — "The Information Imperium", URL: https://badlands.substack.com/p/the-information-imperium
+
+## Cut-out involvement per Badlands Media
+
+"Two Wings, One Ugly Bird" presents the 2004 Orange Revolution as a showcase of the [[central-intelligence-agency|CIA]] cut-out model: the [[national-democratic-institute|National Democratic Institute]] poured cash into "voter education" and trained opposition groups while the [[international-republican-institute|International Republican Institute]] coached pro-Western parties including [[viktor-yushchenko|Viktor Yushchenko]]'s bloc.[3] When protests erupted over a rigged election, the article says, their fingerprints were all over the ostensibly spontaneous uprising that shifted Ukraine into the United States orbit, a result inseparable from millions in [[national-endowment-for-democracy|NED]] grants and close ties to State Department goals.[3] It adds that [[usaid|USAID]] and the NDI tag-teamed election monitoring and youth movements ahead of the revolution, and that the organising techniques refined there were later mirrored in [[barack-obama|Barack Obama]]'s 2008 domestic campaign machine.[3]
+
+3. Badlands Brief — "Two Wings, One Ugly Bird", URL: https://badlands.substack.com/p/two-wings-one-ugly-bird

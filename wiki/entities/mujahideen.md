@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cia, proxy-war, al-qaeda, cold-war]
-sources: [raw/assad-day-in-damascus.md, raw/operation-cyclone-the-seeds-of-terror.md]
+sources: [raw/assad-day-in-damascus.md, raw/operation-cyclone-the-seeds-of-terror.md, raw/who-is-the-real-enemy.md]
 confidence: medium
 ---
 
@@ -25,3 +25,13 @@ Under [[operation-cyclone|Operation Cyclone]] the [[central-intelligence-agency|
 ## References
 1. Badlands Brief — "Assad Day in Damascus", URL: https://badlands.substack.com/p/assad-day-in-damascus
 2. Badlands Brief — "Operation Cyclone - The Seeds of Terror", URL: https://badlands.substack.com/p/operation-cyclone-the-seeds-of-terror
+
+## CIA funding through Pakistan and BCCI
+
+"Who Is The Real Enemy?" describes the funding and arming of the Mujahideen in [[afghanistan|Afghanistan]] as one of the most important [[central-intelligence-agency|CIA]] operations running out of [[pakistan|Pakistan]], financed through the [[bank-of-credit-and-commerce-international|BCCI]] and destined, in the article's account, to morph into [[al-qaeda|Al Qaeda]].[3]
+
+More than $1 billion in Saudi cash distributed by [[turki-al-faisal|Prince Turki al-Faisal]] was matched by another billion from the CIA, an arrangement that allowed the administration to bypass Congress; the money reached the field as bags of dollar bills flown into Pakistan and banked by [[inter-services-intelligence|ISI]] director [[akhtar-abdur-rahman|Akhtar Abdur Rahman]].[3] Fifteen jihadist groups fought the Soviets, but [[gulbuddin-hekmatyar|Gulbuddin Hekmatyar]]'s [[hezb-e-islami|Hezb-e Islami]] leveraged more money and guns from the Americans and Saudis than any other.[3]
+
+Badlands Media argues the resulting force was effectively a private army created to protect the CIA's heroin operation while being marketed to the American public as freedom fighters in the [[cold-war|Cold War]].[3]
+
+3. Badlands Brief — "Who Is The Real Enemy?", URL: https://badlands.substack.com/p/who-is-the-real-enemy

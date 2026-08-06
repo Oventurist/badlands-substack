@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [supreme-court, judiciary, memoir, partisanship]
-sources: [raw/badlands-news-brief-42c.md]
+sources: [raw/badlands-news-brief-42c.md, raw/the-werewolf-game-a-new-class-of.md]
 confidence: medium
 ---
 
@@ -24,6 +24,11 @@ Kennedy emphasized that the tone of recent opinions bothered him more than the o
 
 The [[badlands-news-brief|Badlands News Brief]] used Kennedy's lament as a springboard for a broader argument about narrative control rather than engaging his institutional concerns directly.[1] Contributor [[burning-bright|Burning Bright]] wrote that "The [[hegelian-dialectic|Hegelian Dialectic]] is not an invention that provokes nature within human beings. It is a pattern. Your desire to have something make sense to you is a vulnerability."[1] Burning Bright added that the information war is a war of stories, that stories are patterns, and that patterns can be learned and ultimately inverted.[1]
 
+## In the Werewolf Game series
+
+[[american-hypnotist|American Hypnotist]]'s [[the-werewolf-game|Werewolf Game]] series refers to him by his full name, Anthony MacLeod Kennedy, and notes that the [[donald-trump|Trump]] children were known to be friends with his children — a coincidence the author cites, alongside the MacLeod surname, as part of the claimed [[trump-kennedy-connection|Trump-Kennedy connection]].[2]
+
 ## References
 
 1. Badlands News Brief — "The Palisades Patsy, A Gazan Golden Age, & African Espionage", URL: https://badlands.substack.com/p/badlands-news-brief-42c
+2. Badlands Media — "The Werewolf Game - A New Class of Elites", URL: https://badlands.substack.com/p/the-werewolf-game-a-new-class-of

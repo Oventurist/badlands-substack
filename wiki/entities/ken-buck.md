@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republican-party, colorado]
-sources: [raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-365.md, raw/reprehensible-representation.md]
+sources: [raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-365.md, raw/reprehensible-representation.md, raw/the-people-the-party-and-political.md]
 confidence: medium
 ---
 
@@ -40,8 +40,13 @@ Buck, who had already announced that he would not seek reelection in 2024, resig
 
 The departure left the GOP-controlled House with 218 members against 213 Democrats, narrowing the majority so that Republicans could afford to lose only two members on any party-line vote with all members present.[2] Badlands analyst [[just-human|Just Human]] read the resignation as part of a possible [[uniparty]] effort to hand the House back to Democrats before the 2024 election in order to end ongoing investigations, hearings and impeachment efforts, and potentially to obstruct certification of [[donald-trump|Trump]] electors — while noting that reforms to the Electoral Count Act pushed after January 6, 2021 had made such obstruction harder.[2]
 
+## 2022 assembly challenge
+
+At the [[2022-colorado-republican-state-assembly|2022 Colorado Republican State Assembly]], Buck was challenged in the fourth congressional district by Bob Lewis, a candidate essentially unknown to CD4 delegates who was nominated from the floor and took 62% of the vote, appearing ahead of Buck on the primary ballot.[4] Badlands Media contributor [[ashe-in-america|Ashe in America]], a constituent of Buck's, characterized him as an incumbent who dissents from the establishment only when the establishment has enough votes to win without him.[4] Buck nonetheless won both his primary and the general election, an outcome she grouped with those of [[lauren-boebert|Lauren Boebert]] and [[doug-lamborn|Doug Lamborn]] as preserving the status quo in Colorado's congressional delegation.[4]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Escalation ... Acceleration ... and Biden", URL: https://badlands.substack.com/p/badlands-news-brief-0f0
 2. Badlands Brief — "Badlands News Brief: 'You Are Watching a Movie' Intensifies ...", URL: https://badlands.substack.com/p/badlands-news-brief-365
 3. Badlands Brief — "Reprehensible Representation", URL: https://badlands.substack.com/p/reprehensible-representation
+4. Badlands Media — "The People, The Party & Political Distractions", URL: https://badlands.substack.com/p/the-people-the-party-and-political

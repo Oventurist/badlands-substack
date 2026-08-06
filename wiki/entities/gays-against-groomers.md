@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [advocacy, gender-ideology, lgbt, culture-war]
-sources: [raw/the-hybridization-of-asymmetric-and.md]
+sources: [raw/the-hybridization-of-asymmetric-and.md, raw/these-3-events-expose-gender-ideology.md]
 confidence: medium
 ---
 
@@ -20,3 +20,9 @@ Deschamps grouped Gays Against Groomers with [[lesbians-united|Lesbians United]]
 
 ## References
 1. Badlands Brief — "The Hybridization of Asymmetric & Political Warfare", URL: https://badlands.substack.com/p/the-hybridization-of-asymmetric-and
+
+## Cited as an apolitical actor
+
+In a March 2023 Badlands feature, [[simon-esler|Simon Esler]] cited Gays Against Groomers as a group operating outside what he called the false narrative that the medical transitioning of children is a gay-versus-straight issue.[2] He grouped the organisation with the activist [[billboard-chris|Billboard Chris]], who he said had received support from many left-wing citizens, and with [[tulsi-gabbard|Tulsi Gabbard]]'s departure from the DNC and her interview with detransitioner [[chloe-cole|Chloe Cole]], as apolitical developments in the fight over [[gender-ideology|gender ideology]].[2] Esler argued that the adversary behind the issue needs it to appear political to maintain situational control, so that uncovering apolitical elements enables cross-partisan networks that undermine those operations.[2]
+
+2. Badlands Brief — "These 3 Events Expose Gender Ideology", URL: https://badlands.substack.com/p/these-3-events-expose-gender-ideology

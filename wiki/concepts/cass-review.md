@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [gender-medicine, united-kingdom, nhs, medical-evidence, children]
-sources: [raw/badlands-news-brief-0d4.md, raw/badlands-news-brief-808.md]
+sources: [raw/badlands-news-brief-0d4.md, raw/badlands-news-brief-808.md, raw/these-3-events-expose-gender-ideology.md]
 confidence: medium
 ---
 
@@ -32,7 +32,14 @@ The review's release in April 2024 was covered in the United States as a landmar
 
 Writing in the [[badlands-news-brief|Badlands News Brief]], [[ashe-in-america|Ashe in America]] predicted that "the pendulum will swing back drastically on this season of gender affirming care," and that history would judge the medical industry most profoundly for crimes against humanity, especially against children.[2] She argued that gender dysphoria is a complex mental illness co-indicated with other complex mental illnesses such as major depressive disorder and bipolar disorders, and often with early childhood abuse and other nonconsensual sexual traumas.[2] She characterized the contemporary medical establishment as embracing eugenics and widespread medical experimentation out of a profit motivation, noting that "transgender patients are patients for life" and that gender-affirming care constitutes a major revenue stream, while cautioning readers not to abandon empathy altogether because "evil uses vulnerable people as props all the time."[2]
 
+## Role in the Tavistock closure
+
+Badlands contributor [[simon-esler|Simon Esler]] wrote that when a review of the [[tavistock-institute|Tavistock]] gender clinic's practices was carried out by Dr. [[hilary-cass|Hilary Cass]], the result was the clinic being shut down, even though the clinic claimed its Gender Identity Development Service was closing only because the review recommended a regional rather than a single national service and not because of safety concerns.[3] He argued the subsequent changes told a different story.[3]
+
+Esler emphasised that the review's interim report defined the "affirmative model" as "a model of gender healthcare that originated in the USA," overtly identifying the United Kingdom's copying of the American model as the problem.[3] The concerns cited by the review included a significant and sharp rise in referrals, poorly understood marked changes in the types of patients referred, scarce and inconclusive evidence to support clinical decision-making, and operational failures of the single gender clinic model as evidenced by long wait times for initial assessment.[3]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Kangaroo Courts and Administrative Pedophiles", URL: https://badlands.substack.com/p/badlands-news-brief-0d4
 2. Badlands News Brief — "Iranian Walk-backs, Trump Trials & Trans Truths", URL: https://badlands.substack.com/p/badlands-news-brief-808
+3. Badlands Brief — "These 3 Events Expose Gender Ideology", URL: https://badlands.substack.com/p/these-3-events-expose-gender-ideology

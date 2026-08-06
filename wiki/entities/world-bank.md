@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [bretton-woods, finance, development, deep-state]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-news-brief-4cf.md, raw/real-patriots-dont-think-like-hitler-196.md, raw/the-ivy-web.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-news-brief-4cf.md, raw/real-patriots-dont-think-like-hitler-196.md, raw/the-ivy-web.md, raw/understanding-the-soul-of-china.md]
 confidence: medium
 ---
 
@@ -46,3 +46,9 @@ Badlands contributor Chris Paul read the piece through the lens of a shift to a 
 Badlands Media's "The Ivy Web" asserts that the [[rockefeller-foundation|Rockefeller Foundation]] and the [[rothschild-family|Rothschild family]] heavily influenced the formation of the World Bank, alongside WHO-aligned public health agencies and digital health certificate and biometric tracking pilot programs.[4] The article also notes that [[harvard-university|Harvard]]'s board members include former World Bank officials, offered as evidence that the university functions as a financial conduit and trust hub rather than a purely academic institution.[4]
 
 4. Badlands Brief — "The Ivy Web", URL: https://badlands.substack.com/p/the-ivy-web
+
+## Intended role in the post-war New Deal
+
+[[matthew-ehret|Matthew Ehret]] writes that [[henry-wallace|Henry A. Wallace]] intended the World Bank and the [[imf|IMF]] to serve as instruments for internationalizing the New Deal, financing large-scale agro-industrial development in former colonies on long repayment horizons so they could achieve genuine economic independence.[5] With [[franklin-d-roosevelt|FDR]]'s death in April 1945 and the purge of New Deal Democrats as alleged communist sympathizers, Ehret argues that plan was abandoned in favour of the [[truman-doctrine|Truman Doctrine]] and Cold War containment.[5]
+
+5. Badlands Brief — "Understanding the Soul of China", URL: https://badlands.substack.com/p/understanding-the-soul-of-china

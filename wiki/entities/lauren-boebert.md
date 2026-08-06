@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [republican-party, colorado, congress, primary-elections]
-sources: [raw/badlands-brief-311.md, raw/badlands-brief-52f.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-bed.md, raw/badlands-news-brief-d45.md, raw/the-overdrive-timeline.md]
+sources: [raw/badlands-brief-311.md, raw/badlands-brief-52f.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-bed.md, raw/badlands-news-brief-d45.md, raw/the-overdrive-timeline.md, raw/the-people-the-party-and-political.md]
 confidence: low
 ---
 
@@ -42,6 +42,10 @@ The episode landed while Boebert was seeking to move from Colorado's third congr
 
 In February 2023 Boebert introduced the [[elon-act|ELON Act]], described as House Republicans' first legislative response to evidence of federal pressure on social media companies to censor Americans' speech.[7] Backed by nine cosponsors, the bill would impose a one-year moratorium on payments from the [[department-of-justice|Department of Justice]] to social media firms and require an audit of money that had passed between the DOJ and Big Tech since the start of 2015; it followed the disclosure that the [[fbi|FBI]] had paid [[twitter|Twitter]] more than $3 million for handling censorship requests dating to the 2020 election.[7]
 
+## 2022 assembly and primary
+
+Boebert swept Colorado's third congressional district at the [[2022-colorado-republican-state-assembly|2022 Colorado Republican State Assembly]], one of the clearest [[america-first-movement|America First]] results of the convention.[9] She went on to win both her primary and the general election, though her narrow margin in the general triggered a recount that Badlands Media contributor [[ashe-in-america|Ashe in America]] described as an extensive public shaming.[9]
+
 ## References
 1. Badlands Brief — "Massie Faces Massive Loss as Zionists Get Twitchy", URL: https://badlands.substack.com/p/badlands-brief-311
 2. Badlands Brief — "As Expected Energy Wars, 'Life Insurance', & Crazies Keeping Their Guns (Maybe)", URL: https://badlands.substack.com/p/badlands-brief-52f
@@ -56,3 +60,4 @@ In February 2023 Boebert introduced the [[elon-act|ELON Act]], described as Hous
 As one of the January 2023 holdouts, Boebert was awarded a seat on the [[house-oversight-committee|Oversight and Accountability Committee]], which planned to launch numerous investigations into the [[joe-biden|Biden]] administration, and continued to serve on the Natural Resources panel.[8] Erik Carlson counted her among the America First members positioned by the [[january-2023-mccarthy-concessions|McCarthy concessions]] to investigate the [[deep-state|Deep State]].[8]
 
 8. Badlands Brief — "The Overdrive Timeline", URL: https://badlands.substack.com/p/the-overdrive-timeline
+9. Badlands Media — "The People, The Party & Political Distractions", URL: https://badlands.substack.com/p/the-people-the-party-and-political

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [music-industry, sex-trafficking, blackmail, homeland-security, celebrity]
-sources: [raw/badlands-news-brief-158.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-d50.md, raw/child-sacrifice-as-a-pillar-of-deep.md, raw/from-ye-to-oy-vey.md, raw/the-great-purge-of-the-cabal-has.md]
+sources: [raw/badlands-news-brief-158.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-d50.md, raw/child-sacrifice-as-a-pillar-of-deep.md, raw/from-ye-to-oy-vey.md, raw/the-great-purge-of-the-cabal-has.md, raw/trumps-final-offensive.md]
 confidence: medium
 ---
 
@@ -179,3 +179,10 @@ Carlson emphasized that attendees of Combs's "freak off" and "all white" parties
 18. Badlands Brief — "Child Sacrifice as a Pillar of Deep State Control", URL: https://badlands.substack.com/p/child-sacrifice-as-a-pillar-of-deep
 19. Badlands Brief — "From Ye to Oy Vey!", URL: https://badlands.substack.com/p/from-ye-to-oy-vey
 20. Badlands Brief — "The Great Purge of the Cabal Has Begun", URL: https://badlands.substack.com/p/the-great-purge-of-the-cabal-has
+## 2025 federal trial as institutional microcosm
+
+Badlands Media's "Trump's Final Offensive" treats the implosion of Combs's reputation in 2025 not as an isolated scandal but as a doorway into an entire system of power, protection, and perversion.[21] The federal charges against him include sex trafficking, racketeering, coercion, drug distribution, and criminal conspiracy, with over a dozen witnesses testifying about "freak-off" parties, blackmail videos, and CIA-linked handlers.[21] Raids on properties in Los Angeles and Miami in March and April 2025 reportedly uncovered firearms with serial numbers removed, fentanyl and MDMA caches, and surveillance footage of high-profile political figures at underground events.[21]
+
+Former girlfriend and pop artist [[cassie-ventura|Cassie Ventura]] detailed a decade of abuse and forced sexual encounters involving political and corporate elites; the trial, still ongoing as of May 2025, had begun to implicate talent agencies, label executives, and retired intelligence officers in cover-ups.[21] The article also names [[executive-order-13818|EO 13818]] as the silent engine behind investigations into figures including [[jeffrey-epstein|Jeffrey Epstein]], [[harvey-weinstein|Harvey Weinstein]], and Combs, since it enables asset seizures for anyone linked to trafficking, money laundering, or transnational crime.[21]
+
+21. Badlands Brief — "Trump's Final Offensive", URL: https://badlands.substack.com/p/trumps-final-offensive

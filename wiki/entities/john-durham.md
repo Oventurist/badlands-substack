@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [special-counsel, russiagate, department-of-justice]
-sources: [raw/badlands-brief-195.md, raw/badlands-brief-a20.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-6b6.md, raw/durham-continues-to-reveal-previously.md, raw/power-to-the-people.md, raw/the-biggest-boomerang-in-history.md, raw/the-biggest-cover-up-in-american.md]
+sources: [raw/badlands-brief-195.md, raw/badlands-brief-a20.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-6b6.md, raw/durham-continues-to-reveal-previously.md, raw/power-to-the-people.md, raw/the-biggest-boomerang-in-history.md, raw/the-biggest-cover-up-in-american.md, raw/the-trial-of-igor-danchenko-day-one.md, raw/the-trial-of-igor-danchenko-day-three.md]
 confidence: medium
 ---
 
@@ -95,3 +95,23 @@ Writing days after the Alexandria verdict, [[pepe-lives-matter|Pepe Lives Matter
 [[joe-lange|Joe Lange]] cites Durham's difficulty securing convictions against lower-level participants in the framing of [[donald-trump|Trump]] for Russian collusion as proof that the District of Columbia's courts make conviction of protected figures nearly impossible.[12] He argues this is why Durham prosecuted only minor players on minimal charges, and contends that Durham deliberately reserved the conspiracy charges for [[john-huber|John Huber]], whose [[huber-investigation|investigation]] can empanel grand juries outside Washington.[12]
 
 12. Badlands Brief — "The Biggest Cover-up in American History", URL: https://badlands.substack.com/p/the-biggest-cover-up-in-american
+
+## Conduct of the Danchenko trial, day one
+
+Durham personally led the prosecution of [[igor-danchenko|Igor Danchenko]] in the Eastern District of Virginia, joined by Assistant Special Counsel [[michael-keilty|Michael T. Keilty]] and Department of Justice trial attorney Brittain Shaw, with paralegal specialist Kori Arsenault and FBI case agent Ryan James at the rear table.[13] Danchenko was the third person Durham indicted in his examination of the origins of [[crossfire-hurricane|Crossfire Hurricane]] and the [[robert-mueller|Mueller]] Special Counsel.[13]
+
+On the opening day Durham moved to unseal the witness list and raised four outstanding matters before [[anthony-trenga|Judge Trenga]]: the defence's failure to produce certain documents, the permissible scope of testimony about the earlier counterespionage investigation of Danchenko, translations of Russian-language emails delivered to the government only hours before trial, and how much of [[dossier-report-2016-95|dossier report 2016/95]] — the report attributing material to "Source E," identified as [[sergei-millian|Sergei Millian]] — should be admitted.[13] Against a defence argument that the government was "backdoor[ing] a concealment theory" where no duty to disclose existed, Durham countered by pointing to Danchenko's [[danchenko-immunity-agreement|immunity agreement]], which obliged him to make full and complete disclosure.[13]
+
+Durham called FBI Supervisory Intelligence Analyst [[brian-auten|Brian Auten]] as his first witness and used him to place on the record the command structure of Crossfire Hurricane, the failure to corroborate the [[steele-dossier|Steele reporting]], the $1 million offer to [[christopher-steele|Christopher Steele]], and the fact that the [[carter-page-fisa-warrants|FISA warrant on Carter Page]] was obtained and renewed without the Bureau knowing who the source was.[13] Badlands contributor Just Human characterised this as Durham driving FISA abuse into the trial record piece by piece.[13]
+
+13. Badlands Brief — "The Trial of Igor Danchenko: Day One", URL: https://badlands.substack.com/p/the-trial-of-igor-danchenko-day-one
+
+## Day three of the Danchenko trial
+
+Durham personally conducted the direct examination of FBI Special Agent [[kevin-helson|Kevin Helson]], [[igor-danchenko|Igor Danchenko]]'s handling agent, on the third day of the trial, while Assistant Special Counsel [[michael-keilty|Michael Keilty]] handled the earlier witness [[charles-h-dolan-jr|Charles Dolan]].[14] Over the first two days Durham had treated FBI analyst [[brian-auten|Brian Auten]] as a hostile witness, as had the defense.[14]
+
+With Helson, Durham built a record of information Danchenko withheld: recordings and transcripts of meetings on March 16, May 18 and June 15, 2017; Facebook records; the Danchenko–Dolan emails; and a June 14, 2016 photograph from Danchenko's Facebook account — most of which Helson had never seen before trial preparation.[14] Durham also established that Danchenko had claimed responsibility for "80 percent of the raw intelligence and half the analysis" in the [[steele-dossier|dossier]], and that when Danchenko wanted to be contacted through an application he said so explicitly, undercutting the defense theory about untraceable app calls from [[sergei-millian|Millian]].[14] Cross-examination revealed that it was Durham's Special Counsel's Office, not the FBI, that had subpoenaed the Amtrak and flight records at issue in the case.[14]
+
+On re-redirect Durham elicited that a member of the FBI's human validation unit — a woman with nineteen years as an army counterintelligence officer in Europe before joining the Bureau — had told Helson she believed Danchenko was a GRU officer, and had wanted him polygraphed and closed as a source, but Helson did not act and she lacked the authority to compel him.[14] Durham closed the day by drawing out that Danchenko's 2009 solicitation of [[brookings-institution|Brookings Institution]] figures moving into the Obama administration for classified information he could sell was never looked into again.[14]
+
+14. Badlands Brief — "The Trial of Igor Danchenko: Day Three", URL: https://badlands.substack.com/p/the-trial-of-igor-danchenko-day-three

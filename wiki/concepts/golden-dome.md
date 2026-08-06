@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [missile-defense, trump, russia, china, arms-control]
-sources: [raw/badlands-brief-739.md, raw/badlands-brief-a20.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-a5d.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-e10.md]
+sources: [raw/badlands-brief-739.md, raw/badlands-brief-a20.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-a5d.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-e10.md, raw/trump-putin-alaska-and-the-future.md]
 confidence: medium
 ---
 
@@ -50,3 +50,8 @@ In May 2025, President [[donald-trump|Donald Trump]] claimed that Canada was "co
 5. Badlands Brief — "Badlands News Brief: Our Boy Victim & Friends Without Benefits", URL: https://badlands.substack.com/p/badlands-news-brief-a5d
 6. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93
 7. Badlands Brief — "Badlands News Brief: Bitcoin Bulls, Word Wars, & Patience With Putin", URL: https://badlands.substack.com/p/badlands-news-brief-e10
+8. Badlands Brief — "Trump, Putin, Alaska and the Future of Multipolarity", URL: https://badlands.substack.com/p/trump-putin-alaska-and-the-future
+
+## Ehret's critique
+
+[[matthew-ehret|Matthew Ehret]] wrote that security guarantees pertaining to the Golden Dome may have formed part of the negotiations around the [[2025-trump-putin-alaska-summit|2025 Trump–Putin Alaska summit]], noting that both Moscow and Beijing regard the system as an existential threat to their security.[8] He argued that too many neoconservative war hawks and "[[palantir|Palantir]] Transhumanists" obsessed with the military encirclement of Russia and China had shaped strategic thinking on the programme, which [[vladimir-putin|Vladimir Putin]] and [[xi-jinping|Xi Jinping]] have jointly condemned as an effort to weaponize space.[8] He contrasted this militarized Arctic trajectory — including Canada's April 2024 Arctic defence doctrine and [[aukus|AUKUS]] participation — with the win-win development paradigm of the [[bering-strait-tunnel|Bering Strait Tunnel]].[8]

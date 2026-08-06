@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [cbdc, digital-currency, blockchain, monetary-policy, federal-reserve]
-sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-we-entering-the-millennial-reign.md, raw/badlands-brief-579.md, raw/badlands-news-brief-2b8.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-f4c.md, raw/badlands-news-brief-fbc.md, raw/badlands-news-brief-fcb.md, raw/dark-equation.md, raw/one-of-the-most-transformative-moments.md, raw/project-trump-card.md, raw/the-covfefe-dig.md, raw/the-dystopia-will-be-televised.md]
+sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-we-entering-the-millennial-reign.md, raw/badlands-brief-579.md, raw/badlands-news-brief-2b8.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-f4c.md, raw/badlands-news-brief-fbc.md, raw/badlands-news-brief-fcb.md, raw/dark-equation.md, raw/one-of-the-most-transformative-moments.md, raw/project-trump-card.md, raw/the-covfefe-dig.md, raw/the-dystopia-will-be-televised.md, raw/the-midas-touch.md]
 confidence: medium
 ---
 
@@ -120,3 +120,8 @@ In the United States, House Republicans warned that a CBDC could amount to an "a
 DeLarme resists a purely condemnatory reading, suggesting that central banks themselves might not be the problem so much as how they have been used: "the medium of exchange isn't what causes the suffering; it's the rules of the game."[13] He cites fellow Badlands author [[joe-lang|Joe Lang]], who argues that CBDCs are an inevitable medium and that whether the world sees a [[great-reset|Great Reset]] or a [[great-awakening|Great Awakening]], some form of CBDC will likely become the global currency — an explanation, in Lang's view, for why [[donald-trump|Donald Trump]] has not openly bashed them.[13] [[gmoney|Gmoney]] of Rugpull Radio counters that the perfect coin already exists in [[bitcoin|Bitcoin]].[13] DeLarme concludes that he cannot say conclusively how CBDCs should be viewed, only that they could polarize very negatively if left unchecked.[13]
 
 13. Badlands Brief — "The Dystopia Will Be Televised", URL: https://badlands.substack.com/p/the-dystopia-will-be-televised
+14. Badlands Brief — "The Midas Touch", URL: https://badlands.substack.com/p/the-midas-touch
+
+## Preview in "The Midas Touch"
+
+Closing his May 2023 essay on gold, [[joe-lange|Joe Lange]] announced that his next article would focus on CBDCs, what the plan for them is, and why he does not fear them at all.[14] The gold essay itself frames the coming monetary reset as a contest over real assets in which a restored [[gold-standard|gold standard]] would decentralize the financial system, providing the backdrop against which he intended to assess digital currencies.[14]

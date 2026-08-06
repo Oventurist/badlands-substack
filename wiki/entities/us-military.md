@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [us-military, recruitment, ukraine, conscription]
-sources: [raw/a-bright-red-line.md, raw/a-dereliction-of-duty.md, raw/bad-actors.md]
+sources: [raw/a-bright-red-line.md, raw/a-dereliction-of-duty.md, raw/bad-actors.md, raw/whats-taking-so-long.md]
 confidence: low
 ---
 
@@ -30,3 +30,11 @@ Lange draws a deliberate contrast with 2020. The military acted behind the scene
 1. Badlands Brief — "A Bright Red Line", URL: https://badlands.substack.com/p/a-bright-red-line
 2. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
 3. Badlands Brief — "Bad Actors", URL: https://badlands.substack.com/p/bad-actors
+
+## In Lange's counterinsurgency account (December 2022)
+
+In "What's Taking So Long?" (December 28, 2022), [[joe-lange|Joe Lange]] argued that a military plan predated [[donald-trump|Donald Trump]]'s candidacy, that the entire operation since 2016 has been a military one, and that the military side of the campaign is clandestine while the civilian side plays out publicly in the courts and the media.[4] He claimed the military had been infiltrating, mapping and hollowing out [[antifa|Antifa]] and [[black-lives-matter|BLM]], and that it alone possesses the evidence of a nationwide voting-machine conspiracy because the matter falls under national security.[4]
+
+On Lange's account the military is monitoring public sentiment closely and timing disclosures accordingly, and will publicly take control only when a constitutional crisis arises from the courts — after which it would hold authority temporarily until a new election is ordered, then hand power back to the elected civilian government, in line with the transition phase described in the [[counterinsurgency-guide|Counterinsurgency Guide]].[4] He credited Trump with rebuilding the armed forces and with destroying ISIS by "taking the gloves off."[4]
+
+4. Badlands Brief — "What's Taking So Long?", URL: https://badlands.substack.com/p/whats-taking-so-long

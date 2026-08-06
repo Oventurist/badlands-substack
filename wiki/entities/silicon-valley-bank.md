@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, finance, bank-failure, 2023, systemic-risk]
-sources: [raw/badlands-news-brief-138.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-38f.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-ea7.md]
+sources: [raw/badlands-news-brief-138.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-38f.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-ea7.md, raw/the-schedule-f-imperative-part-2.md, raw/trump-knows.md]
 confidence: medium
 ---
 
@@ -58,6 +58,10 @@ The downfall of Silicon Valley Bank and [[first-republic-bank|First Republic Ban
 
 Bloomberg reporting relayed by [[zerohedge|ZeroHedge]] in March 2023 found that SVB's loans to "insiders" — officers, directors and principal shareholders, and their related interests — more than tripled from the third quarter of 2022 to $219 million in the final three months of that year, a record dollar amount going back over 20 years.[8] ZeroHedge argued that insiders had not only been dumping shares at speed but simultaneously loading up on loans from the bank at a scale that "makes a mockery of any regulatory oversight," while noting that the terms, recipients and collateral of the loans would likely never be disclosed.[8] It also observed that if the loans had been collateralized by SVB shares, those shares were now worthless, leaving the loan-heavy C-suite obliged to find cash to repay debts that do not disappear with the bank's liquidation.[8]
 
+## Compared to the Panic of 1792
+
+[[justin-deschamps|Justin Deschamps]] used the Silicon Valley Bank debacle of early 2023 as the modern term in a historical comparison, arguing that the 1791–1792 financial events surrounding the [[first-bank-of-the-united-states|First Bank of the United States]] were "a carbon copy" of what happened to SVB.[10] In that account, share-price collapse, securities manipulation, a bank run and a credit contraction by the central bank produced the [[panic-of-1792|Panic of 1792]], the first American banker bailout, through mechanisms he likened to modern hedge fund practice.[10] The point of the comparison is that the same core problem — a financial and [[legal-system|legal system]] rigged for an elite — has recurred continuously since the founding era.[10]
+
 ## References
 1. Badlands News Brief — "Drones, Speeches ... and a Swiss Bank", URL: https://badlands.substack.com/p/badlands-news-brief-138
 2. Badlands News Brief — "More Banks! And Some Weird Stuff, Too ...", URL: https://badlands.substack.com/p/badlands-news-brief-1e0
@@ -67,3 +71,10 @@ Bloomberg reporting relayed by [[zerohedge|ZeroHedge]] in March 2023 found that 
 6. Badlands Brief — "Badlands News Brief: Trump Arrest ... Panic or No Panic?", URL: https://badlands.substack.com/p/badlands-news-brief-9e8
 7. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9
 8. Badlands Brief — "Badlands News Brief: Trump Mania, Insider Banking & ... Poop?", URL: https://badlands.substack.com/p/badlands-news-brief-ea7
+
+## J.B. White on the collapse
+
+In "The Schedule F Imperative - Part 2" (March 13, 2023), Badlands Media contributor [[jb-white|J.B. White]] wrote that the bank's collapse within the previous week "sent shock waves around the globe" and invited speculation on Twitter that the failure formed part of a plan dubbed [[operation-choke-point|Operation Choke Point]].[9] He noted that Silicon Valley Bank was unlike most large American banks in that almost all of its business involved technology startups and venture capital speculators, and asserted that close inspection revealed curious connections between figures in Silicon Valley and the Chinese Communist Party, and Russians, running through the institution.[9] Citing reports that at least 90% and perhaps upwards of 97% of deposits exceeded the FDIC insured limit of $250,000, White argued the bank was "most definitely not a 'regular' bank" but a unique — and possibly knowing — tool of what he called the Corporatist Industrial Complex.[9] He asked whether the true [[operation-warp-speed|Operation Warp Speed]] includes a "controlled demolition of certain corporate sectors" that turns the alleged plan back on its authors.[9]
+
+9. Badlands Brief — "The Schedule F Imperative - Part 2", URL: https://badlands.substack.com/p/the-schedule-f-imperative-part-2
+10. Badlands Brief — "Trump Knows", URL: https://badlands.substack.com/p/trump-knows

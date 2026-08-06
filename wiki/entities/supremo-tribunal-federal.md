@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [brazil, judiciary, censorship, courts]
-sources: [raw/the-censorship-war-counteroffensive.md]
+sources: [raw/the-censorship-war-counteroffensive.md, raw/the-multinational-offensive-against.md]
 confidence: medium
 ---
 
@@ -18,3 +18,11 @@ Criticism of the STF itself has been treated by Brazilian authorities as actiona
 
 ## References
 1. Badlands Brief — "The Censorship War - Counteroffensive", URL: https://badlands.substack.com/p/the-censorship-war-counteroffensive
+
+## Ban on X and the criminalization of VPN access (2024)
+
+In August 2024, Justice [[alexandre-de-moraes|Alexandre de Moraes]] persuaded four of his fellow justices on the court to vote with him to ban [[x-corp|X]] from operating in [[brazil|Brazil]] entirely, an outcome Badlands contributor [[ryan-delarme|Ryan DeLarme]] said proceeded with no regard for Brazilian citizens.[2] The court went further, criminalizing use of the platform and charging citizens who accessed it through VPNs fines of $8,900 per day — a sum exceeding the median annual income for a majority of the Brazilian population.[2]
+
+The court also ordered X to eliminate its physical presence in the country and stated that it would arrest the platform's Brazilian executives, officials and lawyers if they failed to censor content or comply with its requests.[2] Moraes separately imposed millions of dollars in fines on X and froze the bank accounts of [[starlink|Starlink]], despite the service operating under [[spacex|SpaceX]] as a legally distinct entity.[2] Within weeks [[elon-musk|Elon Musk]] capitulated, complying with the court's demands so that X could be restored.[2]
+
+2. Badlands Brief — "The Multinational Offensive Against Free Speech Online", URL: https://badlands.substack.com/p/the-multinational-offensive-against

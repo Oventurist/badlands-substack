@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [censorship, european-union, regulation, free-speech]
-sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-254.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-e8f.md, raw/is-the-censorship-war-over.md, raw/the-censorship-war-counteroffensive.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-digital-services-act.md, raw/the-deep-state-has-already-lost.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-254.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-e8f.md, raw/is-the-censorship-war-over.md, raw/the-censorship-war-counteroffensive.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-digital-services-act.md, raw/the-deep-state-has-already-lost.md, raw/the-multinational-offensive-against.md, raw/women-children-and-terror.md]
 confidence: low
 ---
 
@@ -43,6 +43,10 @@ The [[european-commission|European Commission]] said it acted on the basis of it
 On Friday, December 5, 2025, the [[european-commission|European Commission]] fined [[x-corp|X]] 120 million euros (about $140 million) following a two-year investigation under the Digital Services Act, citing the platform's "deceptive" blue checkmark and a lack of transparency in its advertising repository.[6] [[elon-musk|Elon Musk]] responded dismissively on X and the following day escalated, calling for the [[european-union|European Union]] to be abolished "and sovereignty returned to individual countries, so that governments can better represent their people."[6]
 
 Senior U.S. officials joined the criticism: Secretary of State [[marco-rubio|Marco Rubio]] called the fine "an attack on all American tech platforms and the American people by foreign governments."[6] Badlands contributor [[burning-bright|Burning Bright]] framed the episode as part of a broader Trump–Musk effort to identify the EU explicitly as the adversary and to challenge its model of narrative control, censorship, and economic interdependence.[6]
+
+## Application to the Israel-Hamas conflict (October 2023)
+
+[[erik-carlson|Erik Carlson]] returned to the Digital Services Act days after the October 7 attack, writing that the Israel situation would likely lead the [[european-union|European Union]] to demand that [[elon-musk|Elon Musk]] censor speech on X.[14] Musk, he wrote, would either comply — shadow banning or removing accounts that question the specific details of the official narrative — or face fines and possibly lose access to all of Europe, a test of whether he is "a hero or a zero."[14]
 
 ## References
 1. Badlands Brief — "A Glaring Double Standard", URL: https://badlands.substack.com/p/a-glaring-double-standard
@@ -121,3 +125,12 @@ He grouped the arrest of the [[telegram|Telegram]] CEO in France with the DSA re
 Carlson's conclusion was that England and Europe are using the Act to insulate the continent and create a safe space where the [[deep-state|Deep State]] can exist after Trump retakes power in the United States, and he predicted the next big push would be to make extradition from Europe far more difficult so that the network can avoid prosecution elsewhere.[12]
 
 12. Badlands Brief — "The Deep State Has Already Lost", URL: https://badlands.substack.com/p/the-deep-state-has-already-lost
+
+## Aggressive clauses and the campaign against X (DeLarme analysis, 2024)
+
+Writing in October 2024, [[ryan-delarme|Ryan DeLarme]] described the Digital Services Act as the legal framework used by EU official [[thierry-breton|Thierry Breton]] to target [[elon-musk|Elon Musk]] and [[x-corp|X]] over the preceding year.[13] He characterized several of its clauses as deliberately aggressive: Section 10 detailing the crimes of transmitting "harmful, false and threatening communications" while refusing to define clearly what counts as "harmful" or by what criteria something is judged "false," and clause 156 making it a crime to send a message containing false information.[13] In the next breath, he wrote, clause 157 grants immunity to every newspaper, television channel and streaming service.[13]
+
+DeLarme concluded that under such a regime only information and opinions deemed appropriate by what he called the International Corpo-Government amalgam would be allowed to see the light of day, and that this is plainly stated in print for anyone willing to make a modicum of effort to understand what the [[european-union|EU]] is foisting upon them.[13] He grouped the DSA with Canada's C-11 [[online-streaming-act|Online Streaming Act]] and the UK's [[online-safety-bill|Online Safety Bill]] as prongs of a single multinational censorship campaign, and warned that if the EU concluded views permitted on X constituted criminal disinformation, Musk and X itself could be held criminally liable — the precedent the [[pavel-durov|Durov]] indictment was designed to establish.[13]
+
+13. Badlands Brief — "The Multinational Offensive Against Free Speech Online", URL: https://badlands.substack.com/p/the-multinational-offensive-against
+14. Badlands Brief — "Women, Children ... and Terror", URL: https://badlands.substack.com/p/women-children-and-terror

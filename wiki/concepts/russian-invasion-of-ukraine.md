@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ukraine, russia, war, 2022, nato]
-sources: [raw/a-bright-red-line.md]
+sources: [raw/a-bright-red-line.md, raw/who-is-the-real-enemy.md]
 confidence: medium
 ---
 
@@ -30,3 +30,11 @@ The author offers two lenses. The first holds that all current and brewing confl
 
 ## References
 1. Badlands Brief — "A Bright Red Line", URL: https://badlands.substack.com/p/a-bright-red-line
+
+## Compared to the 1979 Afghan intervention
+
+"Who Is The Real Enemy?" argues that what happened in [[afghanistan|Afghanistan]] in 1979 was not much different from the later Russian invasion of Ukraine.[2] In both cases, the article contends, Russia was being threatened by a [[central-intelligence-agency|CIA]]-controlled [[shadow-government|shadow government]] that was not seeking peace but was instead trying to destabilize a neighboring country and threaten Russia with missiles.[2]
+
+On this reading both invasions were defensive rather than wars of conquest, and the media have continued to lie about both.[2] The parallel is drawn from declassified Soviet material in which KGB chief [[yuri-andropov|Yuri Andropov]] and defense minister Dmitri Ustinov cited the danger of American missiles being deployed in Afghanistan on the [[soviet-union|Soviet Union]]'s southern border.[2]
+
+2. Badlands Brief — "Who Is The Real Enemy?", URL: https://badlands.substack.com/p/who-is-the-real-enemy

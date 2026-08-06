@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [information-war, badlands-media, narrative, media]
-sources: [raw/badlands-blitz-episode-12.md, raw/badlands-news-brief-d1d.md, raw/the-hybridization-of-asymmetric-and.md]
+sources: [raw/badlands-blitz-episode-12.md, raw/badlands-news-brief-d1d.md, raw/the-hybridization-of-asymmetric-and.md, raw/the-unreality-paradox.md, raw/the-war-of-stories.md]
 confidence: medium
 ---
 
@@ -44,3 +44,17 @@ Deschamps presented [[justin-trudeau|Justin Trudeau]]'s government as a model of
 1. Badlands Brief — "Badlands Blitz Episode 12", URL: https://badlands.substack.com/p/badlands-blitz-episode-12
 2. Badlands News Brief — "N-Words, F-Bombs, & Big Balls' Future", URL: https://badlands.substack.com/p/badlands-news-brief-d1d
 3. Badlands Brief — "The Hybridization of Asymmetric & Political Warfare", URL: https://badlands.substack.com/p/the-hybridization-of-asymmetric-and
+
+## The War of Stories (November 2022)
+
+In "The Unreality Paradox" (November 30, 2022), [[burning-bright|Burning Bright]] described himself as "borderline obsessed" with the concept of Narrative Warfare, attributing part of that obsession to a long-formed passion for the written word but the greater part to his belief that the present conflict is a war of stories.[4] Those stories, he wrote, cover history unfolding in real time, culture as depicted in both real and fictional mass media, and politics, war and society in all their permutations.[4] Whether true, false or a mixture of the two, they provoke reactions in their target audiences that in turn change thought processes and force examinations of underlying value systems and deep-rooted beliefs.[4]
+
+He argued that the source of a narrative matters more than its content, and criticised the binary practice of dismissing anything sourced to the "Fake News" matrix while embracing anything spun by recognised patriots — a black-and-white approach he considered as damaging to understanding the Mind War as the "White Hat–Black Hat" ciphers applied without adequate context within the [[truth-community|Truth Community]].[4] The essay's central claim, developed as the [[unreality-paradox|Unreality Paradox]], is that the fake news is itself part of the real war, so that refusing to engage with enemy narrative forfeits any understanding of its short-, medium- and long-term intentions.[4] Because [[donald-trump|Donald Trump]] and his Anons had, in his reading, turned the War of Stories back on its originators through narrative vehicles, templates and sensationalism, he concluded that "while we are indeed in a War of Stories, we have better writers."[4]
+
+4. Badlands Brief — "The Unreality Paradox", URL: https://badlands.substack.com/p/the-unreality-paradox
+
+## Trump as vanguard practitioner (December 2022)
+
+In "The War of Stories" (December 30, 2022), [[burning-bright|Burning Bright]] addressed the question of skill in Narrative Warfare directly, writing that [[donald-trump|Donald Trump]]'s success owed less to his being "better" at it than the globalist operators arrayed against him — though he maintained Trump is far better — and more to the fact that "he simply speaks the truth," which time ultimately exposes along with the lies buried atop it.[5] He characterised Trump's role as that of the vanguard in narrative combat and [[elon-musk|Elon Musk]] as a newly prominent cypher, and argued that engaging in narrative warfare requires first understanding the techniques in effect, the patterns on display and the characters on the stage — while accepting that both sides use many of the same tactics.[5]
+
+5. Badlands Brief — "The War of Stories", URL: https://badlands.substack.com/p/the-war-of-stories

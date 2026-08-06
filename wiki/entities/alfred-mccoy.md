@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [historian, heroin, cia, laos, author]
-sources: [raw/dollars-dope-and-deception.md]
+sources: [raw/dollars-dope-and-deception.md, raw/who-is-the-real-enemy.md]
 confidence: medium
 ---
 
@@ -18,3 +18,11 @@ McCoy has argued that during the Vietnam War the [[central-intelligence-agency|C
 
 ## References
 1. Badlands Brief — "Dollars, Dope, and Deception", URL: https://badlands.substack.com/p/dollars-dope-and-deception
+
+## On BCCI and Pakistani heroin money
+
+"Who Is The Real Enemy?" quotes McCoy, via WhoWhatWhy, on the financial scale of the Afghan-Pakistani drug trade: the [[bank-of-credit-and-commerce-international|BCCI]] "played a critical role in facilitating the movement of Pakistani heroin money that reached $4 billion by 1989, more than the country's legal exports."[2]
+
+His research also underpins the article's account of how [[central-intelligence-agency|CIA]] operations expanded opium output — from about 80 tons a year in Burma when the agency's airline CAT began covert flights in the 1950s, to as much as 1,200 tons a year from the [[golden-triangle|Golden Triangle]] during the Vietnam War, and from 200 metric tons in [[afghanistan|Afghanistan]] in 1980 to 1,980 metric tons in 1991.[2]
+
+2. Badlands Brief — "Who Is The Real Enemy?", URL: https://badlands.substack.com/p/who-is-the-real-enemy

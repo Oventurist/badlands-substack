@@ -1,10 +1,10 @@
 ---
-title: Rosneft
+title: "Rosneft"
 created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, energy, nuclear, sovereign-alliance]
-sources: [raw/badlands-brief-9ea.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-df1.md, raw/badlands-news-brief-e5c.md]
+sources: [raw/badlands-brief-9ea.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-df1.md, raw/badlands-news-brief-e5c.md, raw/the-venezuelan-squeeze.md]
 confidence: low
 ---
 
@@ -38,6 +38,11 @@ In late October 2025 the Trump administration sanctioned Rosneft, described as o
 4. Badlands Brief — "Familiar Formulas, Blue Skies, & Antisemitic Nonchalance", URL: https://badlands.substack.com/p/badlands-news-brief-6e6
 5. Badlands Brief — "Surprise Grand Juries, Side Bar Sanctions, & the Emir's First Time", URL: https://badlands.substack.com/p/badlands-news-brief-df1
 6. Badlands Brief — "Badlands News Brief: Sorosian Strings, Kayfabian Comms & the Woke House", URL: https://badlands.substack.com/p/badlands-news-brief-e5c
+7. Badlands Media — "The Venezuelan Squeeze", URL: https://badlands.substack.com/p/the-venezuelan-squeeze
+
+## Venezuelan crude prepayments
+
+Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] describes Rosneft, "the Kremlin-linked oil giant," as a central instrument of Moscow's support for [[nicolas-maduro|Nicolás Maduro]], prepaying for Venezuelan crude and injecting billions of dollars into the coffers of [[pdvsa|PDVSA]] while U.S. sanctions choked the company's cash flow.[7] He frames this alongside [[russia|Russia]]'s refinancing of $17 billion in Venezuelan military contracts, under which Moscow accepted oil and gold as payment rather than cash while stationing "technical advisors" in Caracas.[7] In DeLarme's summary of the arrangement that kept [[venezuela|Venezuela]] solvent, Beijing bought time with oil while Moscow bought loyalty with gold and guns.[7]
 
 ## Losses in the April 2024 Ukrainian drone campaign
 

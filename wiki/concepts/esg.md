@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [esg, corporatocracy, finance, woke-capital]
-sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-70d.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-b9c.md, raw/badlands-news-brief-c74.md, raw/badlands-news-brief-f4c.md, raw/get-woke-go-broke.md, raw/oppenheimer-and-the-central-narrative.md, raw/spear-of-justice.md, raw/soul-governance.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-70d.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-b9c.md, raw/badlands-news-brief-c74.md, raw/badlands-news-brief-f4c.md, raw/get-woke-go-broke.md, raw/oppenheimer-and-the-central-narrative.md, raw/spear-of-justice.md, raw/soul-governance.md, raw/wilted-ivy.md]
 confidence: low
 ---
 
@@ -91,3 +91,11 @@ The Badlands Media essay [[soul-governance|Soul Governance]] describes ESG as "t
 9. Badlands Brief — "'Oppenheimer' & The Central Narrative", URL: https://badlands.substack.com/p/oppenheimer-and-the-central-narrative
 10. Badlands Brief — "Spear of Justice: Ken Paxton and the Bleeding Edge", URL: https://badlands.substack.com/p/spear-of-justice
 11. Badlands Brief — "Soul Governance", URL: https://badlands.substack.com/p/soul-governance
+
+## "Wilted Ivy" (2025)
+
+Badlands Media's May 2025 essay "Wilted Ivy" treats ESG as one of the principal mechanisms by which [[blackrock|BlackRock]], [[vanguard|Vanguard]] and [[state-street|State Street]] converted capital flows into ideological compliance across corporations and university endowments.[12] The article's timeline dates "institutional narrative enforcement" through ESG and [[diversity-equity-and-inclusion|DEI]] to 2020-2022, with the first cracks appearing in 2023 when [[larry-fink|Larry Fink]] retreated from ESG rhetoric at the Aspen Ideas Festival, telling the audience he was "ashamed of being part of this debate."[12]
+
+The essay documents the subsequent retreat: BlackRock's early-2024 annual reports scrubbed explicit ESG and DEI references and amended metrics tied to a $4.4 billion credit facility previously linked to DEI targets; SEC Commissioner [[hester-peirce|Hester Peirce]] called ESG enforcement "a form of backdoor regulation inconsistent with democratic accountability"; and [[vivek-ramaswamy|Vivek Ramaswamy]] described it as "a cancer on capitalism, a Trojan horse designed to smuggle ideology into market mechanisms."[12] Consumer backlashes at [[bud-light|Bud Light]], [[target|Target]] and [[disney|Disney]] are cited as public evidence that the system "began to cannibalize itself."[12]
+
+12. Badlands Brief — "Wilted Ivy", URL: https://badlands.substack.com/p/wilted-ivy

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [gender, ideological-subversion, testimony, information-war]
-sources: [raw/the-post-secondary-psyop.md]
+sources: [raw/the-post-secondary-psyop.md, raw/these-3-events-expose-gender-ideology.md]
 confidence: medium
 ---
 
@@ -25,3 +25,11 @@ The students profiled in *The Coddling of the American Mind* are presented as oc
 ## References
 
 1. Badlands Brief — "The Post Secondary PSYOP", URL: https://badlands.substack.com/p/the-post-secondary-psyop
+
+## Detransitioners as an exception to ideological subversion
+
+In a March 2023 essay, [[simon-esler|Simon Esler]] presented detransitioners as an exception to the phenomenon that KGB defector [[yuri-bezmenov|Yuri Bezmenov]] described as [[ideological-subversion|ideological subversion]], under which the demoralised cannot be reached even by authentic information.[2] Esler wrote that detransitioners emerging from the nightmare of having maimed and potentially sterilised themselves were contaminated to that extent during their years as "trans youth," yet the sheer trauma of their mistakes changed their basic perception and awakened them to authentic information.[2] He described them as sharing the experience of waking up out of mind control from an unusually poignant and authentic perspective.[2]
+
+Esler stressed that "these detransitioners didn't emerge into political conservatism; they emerged into free thought," drawing a parallel with conservatives who had been ruled by mainstream media propaganda leading into wars based on false narratives and who emerged not into leftism but into the ability to think freely.[2] His documentary [[cut-daughters-of-the-west|CUT: Daughters of the West]] pairs detransitioner testimony with data on rising rates of breast augmentation and labiaplasty among teenage girls, as an invitation to both left- and right-wing parents.[2] He cited [[tulsi-gabbard|Tulsi Gabbard]]'s interview with detransitioner [[chloe-cole|Chloe Cole]] as an example of the issue's apolitical character.[2]
+
+2. Badlands Brief — "These 3 Events Expose Gender Ideology", URL: https://badlands.substack.com/p/these-3-events-expose-gender-ideology

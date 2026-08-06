@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [technology, satellite-internet, spacex, iran, israel, covert-operations]
-sources: [raw/badlands-brief-b34.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-aaf.md, raw/badlands-news-brief-a72.md, raw/the-banking-revolution-is-underway.md, raw/the-deep-states-attempt-to-destroy.md]
+sources: [raw/badlands-brief-b34.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-aaf.md, raw/badlands-news-brief-a72.md, raw/the-banking-revolution-is-underway.md, raw/the-deep-states-attempt-to-destroy.md, raw/the-multinational-offensive-against.md, raw/trump-doctrine-peace-through-space.md]
 confidence: medium
 ---
 
@@ -70,6 +70,10 @@ The original August 2022 rescission had been based on speed-test data, after Sta
 
 Badlands Media commentary framed the denial as one element of a coordinated campaign against Musk, noting the paradox that U.S. Homeland Security and the military rely on Starlink for surveillance and communications even as federal agencies withdrew its funding.[10] The same commentary recounted Musk's provision of Starlink service to Ukraine after the 2022 Russian invasion and his subsequent refusal to extend coverage for cross-border drone operations out of concern that doing so could precipitate nuclear war.[10]
 
+## Trump Doctrine: Peace Through Space
+
+"[[trump-doctrine-peace-through-space|Trump Doctrine: Peace Through Space]]" describes Starlink as a distributed network of nearly 5,000 satellites providing high-speed internet virtually anywhere on Earth, and notes it has launched the first satellites with direct-to-cell capability.[12] The article's central claim is that this worldwide connectivity, particularly cellular, will let billions of unbanked people — roughly 20% of the world — download a [[bitcoin|Bitcoin]] wallet and store their life's energy.[12] Other unconfirmed capabilities are floated, including Bitcoin mining and the capture and transfer of solar energy in space and to Earth, a technology discussed by [[jon-herold|Jon Herold]] and Ret. Lt. Gen. [[steven-kwast|Steven Kwast]] in a [[badlands-media|Badlands Media]] clip.[12] Militarily, the US Air Force tested Starlink as early as 2020, and the [[united-states-space-force|Space Force]] awarded [[spacex|SpaceX]] a contract for [[starshield|Starshield]], which leverages Starlink technology and launch capability for national security purposes.[12]
+
 ## References
 1. Badlands Brief — "The Old Guard Is Very Confused About What's Happening to Them", URL: https://badlands.substack.com/p/badlands-brief-b34
 2. Badlands Brief — "Badlands News Brief: Hunter Hunted, Billionaire Boxing & Snopes Nopes", URL: https://badlands.substack.com/p/badlands-news-brief-090
@@ -81,3 +85,12 @@ Badlands Media commentary framed the denial as one element of a coordinated camp
 8. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72
 9. Badlands Brief — "The Banking Revolution Is Underway", URL: https://badlands.substack.com/p/the-banking-revolution-is-underway
 10. Badlands Brief — "The Deep State's Attempt to Destroy Elon Musk", URL: https://badlands.substack.com/p/the-deep-states-attempt-to-destroy
+
+## Freezing of Brazilian accounts (August 2024)
+
+During the [[supremo-tribunal-federal|Supremo Tribunal Federal]]'s confrontation with [[x-corp|X]], Justice [[alexandre-de-moraes|Alexandre de Moraes]] froze Starlink's Brazilian bank accounts and seized millions of dollars into Brazilian state coffers.[11] Badlands contributor [[ryan-delarme|Ryan DeLarme]] stressed the significance of the move: Starlink exists under [[spacex|SpaceX]], a completely separate entity from X with different shareholders and separate incorporation, even though [[elon-musk|Elon Musk]] is the major shareholder of both.[11]
+
+DeLarme noted that Starlink is beloved by many in [[brazil|Brazil]] because it provides free internet services to people in the Amazon and other places previously without access, and that Musk had received awards and homage for what many see as a genuinely beneficial philanthropic endeavor.[11] The seizure added pressure from SpaceX investors, who were unwilling to risk their assets and have their bank accounts frozen over a political cause tied to a company in which they had never invested.[11]
+
+11. Badlands Brief — "The Multinational Offensive Against Free Speech Online", URL: https://badlands.substack.com/p/the-multinational-offensive-against
+12. Badlands Brief — "Trump Doctrine: Peace Through Space", URL: https://badlands.substack.com/p/trump-doctrine-peace-through-space

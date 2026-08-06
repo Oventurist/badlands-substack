@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [labor, solidarity-center, ned, usaid, regime-change]
-sources: [raw/a-more-perfect-labor-union.md, raw/how-to-rent-a-riot-the-plausible.md, raw/how-to-rent-a-riot-the-history-of.md, raw/the-information-imperium.md]
+sources: [raw/a-more-perfect-labor-union.md, raw/how-to-rent-a-riot-the-plausible.md, raw/how-to-rent-a-riot-the-history-of.md, raw/the-information-imperium.md, raw/two-wings-one-ugly-bird.md]
 confidence: medium
 ---
 
@@ -55,3 +55,11 @@ The Solidarity Center is listed by Badlands Media among the U.S. organizations s
 Badlands Media's "The Information Imperium" lists the Solidarity Center as the labour-focused member of the [[national-endowment-for-democracy|National Endowment for Democracy]]'s four core grantees, alongside the [[national-democratic-institute|NDI]], the [[international-republican-institute|IRI]] and the [[center-for-international-private-enterprise|Center for International Private Enterprise]].[4] In the article's division of labour, the Solidarity Center "corrals the workers" while CIPE services business interests and [[internews|Internews]] manages the media narrative.[4]
 
 4. Badlands Brief — "The Information Imperium", URL: https://badlands.substack.com/p/the-information-imperium
+
+## Domestic labour discipline
+
+"Two Wings, One Ugly Bird" describes the Solidarity Center, officially the American Center for International Labor Solidarity, as launched in 1997 under the [[afl-cio|AFL-CIO]] banner and functioning as another spoke in the [[usaid|USAID]]–[[national-endowment-for-democracy|NED]] wheel, bankrolled by the same funders as the [[international-republican-institute|IRI]] and the [[national-democratic-institute|NDI]].[5] By the late 1990s NED grants sourced from USAID coffers were flowing into its "worker empowerment" projects from Poland to Peru, and the article argues the tell is its habit of appearing wherever United States interests need a nudge.[5]
+
+In Venezuela the Center poured money into labour groups opposing [[hugo-chavez|Hugo Chávez]] in the early 2000s, and declassified cables from 2002 show NED funnelling $154,000 through it to anti-Chávez unions in synchrony with a failed coup attempt.[5] Domestically the article says the Center has trained American union leaders in organising techniques that align with Democratic Party priorities or GOP-friendly trade deals depending on who is cutting the checks, rigging the working class rather than the ballot.[5] [[mike-benz|Mike Benz]] is cited as treating this as textbook CIA domestic creep, pointing to the Center drawing over 90% of its funding from NED and USAID as evidence it is less about solidarity than about control, ensuring unions do not rock the boat when the uniparty needs stability.[5] By 2025, with unions toeing the line on everything from NAFTA 2.0 to overseas wars, the article asks whose solidarity the organisation actually serves.[5]
+
+5. Badlands Brief — "Two Wings, One Ugly Bird", URL: https://badlands.substack.com/p/two-wings-one-ugly-bird

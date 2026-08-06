@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cia, state-department, iran, neoconservatism]
-sources: [raw/badlands-brief-d9f.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-275.md, raw/everything-is-connected.md, raw/profiting-from-war.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-difference-between-friend-and.md, raw/the-mystery-of-julian-assange.md]
+sources: [raw/badlands-brief-d9f.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-275.md, raw/everything-is-connected.md, raw/profiting-from-war.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-difference-between-friend-and.md, raw/the-mystery-of-julian-assange.md, raw/the-sabotage-of-trumps-administration.md]
 confidence: medium
 ---
 
@@ -75,3 +75,13 @@ In "The Mystery of Julian Assange" (March 4, 2024), [[erik-carlson|Erik Carlson]
 Erik Carlson draws a distinction Tucker's framing elides: while not defending Pompeo, he argues there is a significant difference between attempting to kill someone and merely game-planning a scenario in which the agency might need to do so, and suspects the latter is what actually occurred.[8] He also flags the contradiction that Reuters reporting from February 20, 2024 quoted Assange's counsel saying Trump himself requested "detailed options" to kill Assange, meaning Tucker — a Trump supporter — was spotlighting a plot the underlying reporting attributes to Trump rather than to Pompeo alone.[8] The episode forms part of the [[assange-extradition-case|Assange extradition case]] record, where the alleged plan targeted Assange inside the [[ecuadorian-embassy-in-london|Ecuadorian Embassy in London]].[8]
 
 8. Badlands Brief — "The Mystery of Julian Assange", URL: https://badlands.substack.com/p/the-mystery-of-julian-assange
+
+## Role in the COVID origin dispute and the Tillerson succession
+
+Erik Carlson's "The Sabotage of Trump's Administration" (December 27, 2023) recounts [[olivia-troye|Olivia Troye]]'s claim in [[the-bulwark|The Bulwark]] that in March 2020 Pompeo publicly declared he had seen "enormous evidence" for the [[lab-leak-theory|lab leak theory]], contradicting the intelligence community without disclosing his sources, and that [[donald-trump|Donald Trump]] followed the next month by asserting a "high degree of confidence" that the Wuhan lab was the origin of the virus.[9] Troye also wrote that the administration appeared to attempt through the [[state-department|State Department]] what the intelligence community would not.[9] Carlson takes this as evidence that Pompeo, Trump and [[mike-pence|Mike Pence]] were genuinely pursuing COVID's origin while the [[central-intelligence-agency|CIA]] took a position of neither confirming nor denying.[9]
+
+Carlson notes [[tucker-carlson|Tucker Carlson]]'s claim on a Roseanne Barr podcast that Pompeo as CIA Director tried to have [[julian-assange|Julian Assange]] assassinated in 2017 by poisoning his food at the [[ecuadorian-embassy-in-london|Ecuadorian Embassy in London]], but observes that press reporting says only that the agency "discussed" kidnapping or killing Assange — a war-gaming exercise he considers materially different from an attempt — and declines to say whether Tucker or the mainstream press is correct.[9] Tucker also told Trump personally that Pompeo was not a good person and was a "flatterer."[9]
+
+On the succession, Carlson writes that Trump fired Secretary of State [[rex-tillerson|Rex Tillerson]] in April 2018 primarily over Tillerson's support for Obama's [[iran-nuclear-agreement|Iran Nuclear Agreement]], which both Trump and Pompeo regarded as a bad deal, and that Trump valued Pompeo as loyal.[9] Pompeo moved from the CIA to State and [[gina-haspel|Gina Haspel]] replaced him at Langley, after which — in Carlson's reading — Trump increasingly used the State Department rather than the CIA for intelligence.[9]
+
+9. Badlands Brief — "The Sabotage of Trump's Administration", URL: https://badlands.substack.com/p/the-sabotage-of-trumps-administration

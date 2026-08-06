@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [bush-family, cia, venezuela, florida, banking, money-laundering]
-sources: [raw/a-family-affair.md, raw/never-let-a-crisis-go-to-waste.md, raw/nothing-is-as-it-appears.md, raw/president-trumps-call-to-arms.md, raw/profiting-from-war.md, raw/the-legacy-of-george-hw-bush.md]
+sources: [raw/a-family-affair.md, raw/never-let-a-crisis-go-to-waste.md, raw/nothing-is-as-it-appears.md, raw/president-trumps-call-to-arms.md, raw/profiting-from-war.md, raw/the-legacy-of-george-hw-bush.md, raw/what-difference-does-benghazi-make.md]
 confidence: medium
 ---
 
@@ -71,3 +71,9 @@ Jeb Bush publicly struck out to defend his late father, [[george-hw-bush|George 
 Before becoming governor of Florida, Jeb Bush was a close personal friend of [[raul-salinas-de-gortari|Raúl Salinas de Gortari]], the brother of Mexican president [[carlos-salinas-de-gortari|Carlos Salinas de Gortari]] and the man Swiss federal prosecutor Carla del Ponte identified as a "drug kingpin" and one of the main figures of the Mexican drug cartel in the 1990s.[5] Global Research reported that the two families spent vacations together for many years — the Salinases at Jeb Bush's home in Miami, the Bushes at Raúl's ranch, Las Mendocinas, in Puebla.[5] [[joe-lange|Joe Lange]] writes that the friendship originated with their fathers, [[george-hw-bush|George H.W. Bush]] and [[raul-salinas-lozano|Raúl Salinas Lozano]], who were "íntimo amigos," and questions whether Jeb could have been unaware of the family's cartel ties.[5] Lange announces that his following article will focus on Jeb Bush as his father's bagman.[5]
 
 5. Badlands Brief — "The Legacy Of George H.W. Bush", URL: https://badlands.substack.com/p/the-legacy-of-george-hw-bush
+
+## Award to Hillary Clinton
+
+"What Difference Does Benghazi Make?" highlights that Bush presented a public service award to [[hillary-clinton|Hillary Clinton]] on September 10, 2013, one day short of the first anniversary of the [[benghazi-attack|Benghazi attacks]] that killed four Americans.[6] A conservative group produced an online advertisement branding Bush "unelectable" over the medal.[6] [[donald-trump|Donald Trump]], the article argues, deliberately tied Bush and Clinton together to Benghazi years before announcing his own candidacy, treating both as the establishment front-runners for 2016 and as evidence that partisan competition is theater.[6] Joe Lange restates his earlier claim that Bush is a CIA asset and acted as a bagman for his father.[6]
+
+6. Badlands Brief — "What Difference Does Benghazi Make?", URL: https://badlands.substack.com/p/what-difference-does-benghazi-make

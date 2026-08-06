@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [justice, doj, hunter-biden, donald-trump, narrative]
-sources: [raw/badlands-news-brief-d24.md, raw/celebrating-15-years-of-indictments.md, raw/the-biggest-boomerang-in-history.md, raw/the-biggest-cover-up-in-american.md, raw/the-illusion-of-democracy.md]
+sources: [raw/badlands-news-brief-d24.md, raw/celebrating-15-years-of-indictments.md, raw/the-biggest-boomerang-in-history.md, raw/the-biggest-cover-up-in-american.md, raw/the-illusion-of-democracy.md, raw/trump-knows.md, raw/whats-taking-so-long.md]
 confidence: medium
 ---
 
@@ -29,6 +29,10 @@ Polling was cited in support: a Harvard/Harris survey finding 55% of likely vote
 A January 2024 Badlands Brief essay by [[patriots-in-progress|Patriots in Progress]] posed the two-tier system as a set of open questions: why so-called justice is administered disproportionately in favor of the protected tier, why it is sometimes administered against people who committed no wrongdoing, how the system can pursue the 45th President of the United States absent proof of wrongdoing, and how it avoids acting against the 46th where the author asserts proof exists.[2] The author summarized the condition as a "banana republic."[2]
 
 Rather than treating lies and selective prosecution as the problem itself, the essay applied causal-analysis techniques — cause-and-effect diagrams, fishbone analysis and the five-why method — to argue that exposure of wrongdoing addresses only symptoms, while the root cause is the incentive structure created by the ability to create currency.[2] Citing 1 Timothy 6:10 on the love of money as a root of all kinds of evil, it argued that unlimited purchasing power is what allows the protected tier to conceal corruption and evade accountability, and that removing that capacity through [[bitcoin|Bitcoin]] constitutes the only durable remedy.[2]
+
+## Deschamps on rules for rulers
+
+[[justin-deschamps|Justin Deschamps]] wrote that [[donald-trump|Trump]]'s [[first-inaugural-address-of-donald-trump|2017 inaugural address]] spoke to something everyone has felt: that there are rules for average citizens and rules for those in power — the so-called establishment — and that the United States therefore has a two-tiered justice system.[6] The evidence he assembled included officials caught violating their own COVID rules, pandemic-era [[2020-congressional-insider-trading-scandal|congressional insider trading]], and the contrast between a trillion dollars in corporate market-cap gains and the $2,000 in [[covid-19-stimulus-checks|stimulus]] paid to citizens against real inflation he cited at 32% for 2022.[6]
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Hunter's Slap & Trump's Trap", URL: https://badlands.substack.com/p/badlands-news-brief-d24
@@ -55,3 +59,10 @@ In "Illusions of Democracy," [[joe-lange|Joe Lange]] locates the two tier justic
 On this reading the underlying issue is control: the question of whether the people or the government hold it, with a global cabal of elites having held it through politicians who served as their personal puppets.[5] Lange casts [[donald-trump|Donald Trump]] as an outsider doing everything he can to transform the system of government and restore the constitution, and argues that the absence of honest control, checks and balances or [[public-banking-option|safeguards]] is precisely what allowed [[taxpayer-theft|taxpayer theft]] to persist unpunished.[5]
 
 5. Badlands Brief — "Illusions of Democracy", URL: https://badlands.substack.com/p/the-illusion-of-democracy
+6. Badlands Brief — "Trump Knows", URL: https://badlands.substack.com/p/trump-knows
+
+## Lange's judicial-appointments argument (December 2022)
+
+In "What's Taking So Long?" (December 28, 2022), [[joe-lange|Joe Lange]] argued that removing the two-tier justice system is "the most important part of the plan," and that it can only happen with judges who follow the law and treat everyone equally.[7] On his account this is why [[donald-trump|Donald Trump]] made it a priority to fill the record number of judicial vacancies left after the [[barack-obama|Obama]] administration, and why the main public push of the wider strategy was always to run through the courts.[7] Citing the [[counterinsurgency-guide|Counterinsurgency Guide]]'s passage on security sector reform, Lange held that reform of the justice sector may address many of the grievances that initially fueled an [[insurgency|insurgency]], and that it was vital the Constitution and rule of law be restored not by Trump personally but by the justice sector itself.[7]
+
+7. Badlands Brief — "What's Taking So Long?", URL: https://badlands.substack.com/p/whats-taking-so-long

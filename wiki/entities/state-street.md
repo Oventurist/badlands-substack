@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, asset-management, media-ownership]
-sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-news-brief-d46.md, raw/get-woke-go-broke.md, raw/spear-of-justice.md, raw/the-harvard-control-grid.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-news-brief-d46.md, raw/get-woke-go-broke.md, raw/spear-of-justice.md, raw/the-harvard-control-grid.md, raw/wilted-ivy.md]
 confidence: medium
 ---
 
@@ -37,3 +37,9 @@ An August 2025 Badlands Media essay identified State Street as part of the "Big 
 3. Badlands Brief — "Get Woke, Go Broke", URL: https://badlands.substack.com/p/get-woke-go-broke
 4. Badlands Brief — "Spear of Justice: Ken Paxton and the Bleeding Edge", URL: https://badlands.substack.com/p/spear-of-justice
 5. Badlands Brief — "The Harvard Control Grid", URL: https://badlands.substack.com/p/the-harvard-control-grid
+
+## "Wilted Ivy" (2025)
+
+Badlands Media's May 2025 essay "Wilted Ivy" identifies State Street, with [[blackrock|BlackRock]] and [[vanguard|Vanguard]], as part of a "triangle of influence" that shaped markets as decisively as the [[ivy-league|Ivy League]] shaped minds.[6] The article argues the three firms enforced [[esg|ESG]] compliance and [[diversity-equity-and-inclusion|DEI]] orthodoxy through both corporate governance and endowment management, financing the enforcement carried out by Ivy-trained personnel.[6] In its closing summary the essay describes [[harvard-university|Harvard]] as "a funnel for BlackRock, Goldman, and State Street capital."[6]
+
+6. Badlands Brief — "Wilted Ivy", URL: https://badlands.substack.com/p/wilted-ivy

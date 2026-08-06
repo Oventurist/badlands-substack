@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [litigation, defamation, donald-trump, appeals, lawfare]
-sources: [raw/badlands-brief-d94.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-aae.md]
+sources: [raw/badlands-brief-d94.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-aae.md, raw/trials-tribulations-and-a-long-train.md]
 confidence: medium
 ---
 
@@ -34,8 +34,13 @@ The litigation's first verdict came on May 9, 2023, when a New York City jury in
 
 On Monday, November 10, 2025, President [[donald-trump|Donald Trump]] asked the [[supreme-court-of-the-united-states|Supreme Court]] to throw out the jury verdict finding him liable for sexually abusing the writer [[e-jean-carroll|E. Jean Carroll]] in the mid-1990s, according to his personal legal team.[3] Carroll had taken Trump to trial twice and won a total of $88.3 million in damages, and the petition marked the first time the long-running litigation reached the justices.[3] In 2023 the first jury had found Trump liable for sexually abusing Carroll in a Manhattan department store dressing room in the mid-1990s and for defaming her by denying her account when she came forward during his first presidency, ordering him to pay $5 million.[3] Trump's 33-page petition characterized Carroll's sexual assault claims as "facially implausible, politically motivated allegations" and urged the justices to intervene to reverse several evidentiary rulings that it said tainted the trial.[3]
 
+## January 2024 damages trial
+
+The damages-only trial in [[e-jean-carroll|E. Jean Carroll]]'s suit against [[donald-trump|Donald Trump]] in the Southern District of New York (1:20-cv-07311), before Judge [[lewis-kaplan|Lewis Kaplan]], was scheduled to begin on January 16, 2024 - the day after the [[2024-iowa-caucus|Iowa Caucuses]] on January 15.[4] [[ashe-in-america|Ashe in America]] cited the juxtaposition of the trial calendar with the primary calendar as evidence that the proceedings functioned as [[lawfare|lawfare]] entangled with the 2024 election.[4]
+
 ## References
 
 1. Badlands Brief — "Vagina's Mom Just Can't Get Paid", URL: https://badlands.substack.com/p/badlands-brief-d94
 2. Badlands News Brief — "Tucker Returns, Trump Fights & Corruption Reigns", URL: https://badlands.substack.com/p/badlands-news-brief-3e5
 3. Badlands Brief — "Badlands News Brief: Reopening Washington, Rescheduling Putin, & Revisiting De Jure", URL: https://badlands.substack.com/p/badlands-news-brief-aae
+4. Badlands Media - "Trials, Tribulations & a Long Train of Abuses", URL: https://badlands.substack.com/p/trials-tribulations-and-a-long-train

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, syria, ukraine, geopolitics]
-sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-143.md, raw/badlands-brief-169.md, raw/badlands-brief-5a2.md, raw/badlands-brief-70c.md, raw/badlands-brief-708.md, raw/badlands-brief-bb1.md, raw/badlands-brief-e87.md, raw/badlands-brief-f62.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-e40.md, raw/death-blossom.md, raw/money-and-oil.md]
+sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-143.md, raw/badlands-brief-169.md, raw/badlands-brief-5a2.md, raw/badlands-brief-70c.md, raw/badlands-brief-708.md, raw/badlands-brief-bb1.md, raw/badlands-brief-e87.md, raw/badlands-brief-f62.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-e40.md, raw/death-blossom.md, raw/money-and-oil.md, raw/the-multinational-offensive-against.md]
 confidence: medium
 ---
 
@@ -142,3 +142,9 @@ Joe Lange's November 2022 essay "Money and Oil" describes [[vladimir-putin|Vladi
 The essay treats the resulting sanctions as self-defeating for Europe, which depends on Russian energy: prices spiked, inflation rose, and the [[european-union|European Union]]'s economy was crushed while Russia was little affected.[20] When central banks attempted to destroy the ruble, Putin demanded payment for Russian oil and gas in rubles or gold, which strengthened it, while [[china|China]] and [[india|India]] increased their purchases of Russian oil and [[japan|Japan]] decided to proceed with a Russian pipeline.[20] Lange concludes that Putin is winning the economic war against the cabal in Europe, with European public sentiment turning against the war because of high energy prices and European countries entering recession.[20]
 
 20. Badlands Brief — "Money and Oil", URL: https://badlands.substack.com/p/money-and-oil
+
+## Ban on Discord (October 2024)
+
+Russia moved to ban [[discord|Discord]] in October 2024, a step Badlands contributor [[ryan-delarme|Ryan DeLarme]] cited alongside [[turkey|Turkey]]'s access-ban decision as part of a broader trend of states blocking communications platforms they cannot readily surveil.[21] DeLarme grouped the Russian action with [[ukraine|Ukraine]]'s move to limit [[telegram|Telegram]] use and with France's prosecution of [[pavel-durov|Pavel Durov]], arguing that governments had grown tired of pressuring social media platforms to censor and now rely on force.[21]
+
+21. Badlands Brief — "The Multinational Offensive Against Free Speech Online", URL: https://badlands.substack.com/p/the-multinational-offensive-against

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ned, ngo, business, regime-change, cut-out]
-sources: [raw/how-to-rent-a-riot-the-plausible.md, raw/the-information-imperium.md, raw/the-ongoing-betrayal-of-the-gop.md]
+sources: [raw/how-to-rent-a-riot-the-plausible.md, raw/the-information-imperium.md, raw/the-ongoing-betrayal-of-the-gop.md, raw/two-wings-one-ugly-bird.md]
 confidence: medium
 ---
 
@@ -34,3 +34,11 @@ CIPE is identified in Badlands Media's "The Information Imperium" as the busines
 Badlands Media describes the Center for International Private Enterprise as the [[national-endowment-for-democracy|NED]]'s Chamber of Commerce arm, the channel of [[cia|CIA]] influence over the private sector.[3] The article argues that Chamber-of-Commerce Republicans are "doctored into" the [[international-republican-institute|IRI]] and CIPE web housed on the conservative side of the NED network, and that these politicians and affiliated companies rely on the endowment's heavy hand to create markets, secure favorable foreign legislation and regulation, harvest natural resources and win contracts.[3]
 
 3. Badlands Brief — "The Ongoing Betrayal of the GOP", URL: https://badlands.substack.com/p/the-ongoing-betrayal-of-the-gop
+
+## Business arm of the NED family
+
+"Two Wings, One Ugly Bird" describes CIPE as launched in 1983 as a [[national-endowment-for-democracy|NED]] offshoot tasked with promoting free enterprise worldwide, standing in relation to the chambers of commerce as the [[solidarity-center|Solidarity Center]] does to the unions: training CEOs, lobbying for deregulation and pushing United States–friendly capitalism from Bangkok to Budapest.[4] Like its siblings the [[international-republican-institute|IRI]] and the [[national-democratic-institute|NDI]], its lifeblood is NED grants traceable to [[usaid|USAID]]'s budget, and by the 1990s it was raking in money to "strengthen private sector institutions."[4]
+
+Abroad, the article says CIPE funnelled NED funds — $3 million by 1995 alone — into Russian "entrepreneur" networks after the Soviet collapse, greasing the wheels for oligarchs friendly to United States interests while the [[central-intelligence-agency|CIA]] watched the chaos unfold.[4] Closer to home it is said to have partnered with the [[us-chamber-of-commerce|U.S. Chamber of Commerce]] and trade groups to shape tax cuts and trade pacts such as TPP and NAFTA 2.0 that both parties cheer despite populist objections, with its "market education" programmes training corporate players who bankroll Republican and Democratic campaigns alike.[4]
+
+4. Badlands Brief — "Two Wings, One Ugly Bird", URL: https://badlands.substack.com/p/two-wings-one-ugly-bird

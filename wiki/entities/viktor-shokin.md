@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ukraine, prosecutor, corruption, biden-family, burisma]
-sources: [raw/badlands-news-brief-670.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-da5.md, raw/quid-pro-joe.md]
+sources: [raw/badlands-news-brief-670.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-da5.md, raw/quid-pro-joe.md, raw/tucker-twitter-and-the-truth-community.md]
 confidence: medium
 ---
 
@@ -45,7 +45,12 @@ In August 2023 Shokin spoke publicly for the first time since 2019, telling Fox 
 
 4. Badlands News Brief — "Archer Spills, Musk Targets & Fauci Squirms", URL: https://badlands.substack.com/p/badlands-news-brief-da5
 5. Badlands Brief — "Quid Pro Joe", URL: https://badlands.substack.com/p/quid-pro-joe
+6. Badlands Brief — "Tucker, Twitter, and the Truth Community", URL: https://badlands.substack.com/p/tucker-twitter-and-the-truth-community
 
 ## The Blue Star lobbying campaign
 
 Shokin's investigation of [[mykola-zlochevsky|Mykola Zlochevsky]] for corruption was the trigger for [[burisma|Burisma]]'s late-2015 engagement of the consultancy [[blue-star-strategies|Blue Star Strategies]], according to emails from [[hunter-biden-laptop|Hunter Biden's abandoned laptop]].[5] Burisma executive [[vadym-pozharskyi|Vadym Pozharskyi]] wrote that the contract's "ultimate purpose" was to bring influential current and former US policy-makers to Ukraine to press Ukraine's president, chief of staff and prosecutor general and "close down for any cases/pursuits against Nikolay in Ukraine."[5] Weeks later Blue Star joined a White House conference call about Vice President [[joe-biden|Joe Biden]]'s December 2015 Kyiv trip, during which Biden threatened to withhold $1 billion in loan guarantees unless Shokin was fired.[5]
+
+## Archer's account of the firing (2023)
+
+[[devon-archer|Devon Archer]]'s August 2023 [[tucker-on-twitter|Tucker on Twitter]] interview revealed that [[burisma|Burisma]] had been pressuring the Bidens to have Shokin removed while he was investigating the company, prior to [[joe-biden|Joe Biden]]'s "son of a bitch" remarks at a 2018 [[council-on-foreign-relations|Council on Foreign Relations]] event in which Biden recounted threatening to withhold a billion dollars in loan guarantees unless the prosecutor was fired within six hours.[6] [[ashe-in-america|Ashe in America]] wrote that the disclosure undercut the long-standing claim by the Biden camp and mainstream media that the firing was a strategic US foreign policy decision with no connection to [[hunter-biden|Hunter Biden]]'s business dealings.[6]

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [turkey, weapons-smuggling, syria, benghazi]
-sources: [raw/a-dereliction-of-duty.md, raw/assad-day-in-damascus.md, raw/badlands-brief-0bd.md, raw/badlands-brief-625.md, raw/badlands-brief-7bf.md, raw/badlands-brief-774.md, raw/badlands-brief-990.md, raw/badlands-brief-c07.md, raw/badlands-brief-e60.md, raw/badlands-brief-e9e.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-b24.md, raw/badlands-news-brief-e8f.md, raw/badlands-news-brief-f44.md]
+sources: [raw/a-dereliction-of-duty.md, raw/assad-day-in-damascus.md, raw/badlands-brief-0bd.md, raw/badlands-brief-625.md, raw/badlands-brief-7bf.md, raw/badlands-brief-774.md, raw/badlands-brief-990.md, raw/badlands-brief-c07.md, raw/badlands-brief-e60.md, raw/badlands-brief-e9e.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-b24.md, raw/badlands-news-brief-e8f.md, raw/badlands-news-brief-f44.md, raw/the-multinational-offensive-against.md]
 confidence: medium
 ---
 
@@ -104,3 +104,9 @@ In December 2025, Turkish security sources cited across Turkish media said the T
 
 14. Badlands News Brief — "Turkish Delight, Somali Expansion, & The Racist History of Jingle Bells", URL: https://badlands.substack.com/p/badlands-news-brief-e8f
 15. Badlands Brief — "Markets Crash as Tensions Rise Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-f44
+
+## Discord access ban (October 2024)
+
+Turkey's Information Technologies and Communication Authority published an access-ban decision against [[discord|Discord]] on its website in October 2024.[16] Transport and infrastructure minister Abdulkadir Uraloglu said the nature of the platform made it difficult for authorities to monitor and intervene when illegal or criminal content is shared: "Security personnel cannot go through the content. We can only intervene when users complain to us about content shared there."[16] He added that "Since Discord refuses to share its own information, including IP addresses and content, with our security units, we were forced to block access."[16] Badlands contributor [[ryan-delarme|Ryan DeLarme]] cited the Turkish ban, reported by Reuters on October 9, 2024, as evidence that governments had moved from pressuring platforms to censor toward outright force.[16]
+
+16. Badlands Brief — "The Multinational Offensive Against Free Speech Online", URL: https://badlands.substack.com/p/the-multinational-offensive-against

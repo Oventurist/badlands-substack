@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, journalism, british-press, legacy-media]
-sources: [raw/badlands-news-brief-19a.md, raw/badlands-news-brief-322.md, raw/badlands-news-brief-4c5.md]
+sources: [raw/badlands-news-brief-19a.md, raw/badlands-news-brief-322.md, raw/badlands-news-brief-4c5.md, raw/who-is-the-real-enemy.md]
 confidence: medium
 ---
 
@@ -34,3 +34,11 @@ The Guardian reported on July 27, 2024 that [[donald-trump|Donald Trump]] had ig
 1. Badlands Brief — "Badlands News Brief: Ceasefires, Olive Branches ... and Scare Events?", URL: https://badlands.substack.com/p/badlands-news-brief-19a
 2. Badlands News Brief — "We Have the Source ... And the Sauce", URL: https://badlands.substack.com/p/badlands-news-brief-322
 3. Badlands Brief — "Badlands News Brief: Fake Poles, HomOlympics & Deal-Making", URL: https://badlands.substack.com/p/badlands-news-brief-4c5
+
+## Review of Ghosts of Afghanistan
+
+"Who Is The Real Enemy?" cites a Guardian review of [[jonathan-steele|Jonathan Steele]]'s *Ghosts of Afghanistan: Hard Truths and Foreign Myths* as evidence against the standard account of the 1979 Soviet intervention.[4] The review states that the Russians invaded in December 1979 not as part of a plan for the world victory of communism, as Western propaganda had it, but to protect the security of their southern frontier against Islamic unrest and American intrigue.[4]
+
+It further records that senior Soviet generals and officials warned against getting mixed up in an Afghan civil war, citing the precedent of Vietnam, but that the leadership proceeded for lack of a better alternative and was soon sucked into a quagmire and looking for a way out.[4]
+
+4. Badlands Brief — "Who Is The Real Enemy?", URL: https://badlands.substack.com/p/who-is-the-real-enemy

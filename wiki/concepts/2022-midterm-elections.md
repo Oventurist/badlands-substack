@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [elections, red-wave, election-fraud, congress, 2022]
-sources: [raw/all-assets-deployed.md]
+sources: [raw/all-assets-deployed.md, raw/timing-is-everything.md]
 confidence: medium
 ---
 
@@ -33,3 +33,11 @@ The post-election period saw what Badlands described as the activation of "asset
 ## References
 
 1. Badlands Brief — "All Assets Deployed", URL: https://badlands.substack.com/p/all-assets-deployed
+
+## "Timing Is Everything" interpretation
+
+In a November 25, 2022 essay, Badlands Media contributor [[joe-lange|Joe Lange]] addressed the question of why alleged fraud in the 2020 election had not been exposed before the midterms and why, in his framing, the same actors were allowed to "get away with cheating again."[2] His answer was that the exposure had been deliberately timed to capture both cycles, reading the "2020+" formulation in a [[qanon|Q]] post as referring to the 2020 election plus the midterms.[2]
+
+Lange argued that the two intervening years under [[joe-biden|Joe Biden]] had been worthwhile because they gave [[donald-trump|Donald Trump]] time to "plant the seeds and set the table" for the narrative going into the midterms, citing a Rasmussen survey in which almost 60 percent of respondents believed some races in the 2022 midterms would be affected by fraud.[2] He pointed to post-election certification delays in Republican-controlled Arizona counties, legislative demands for evidence from [[maricopa-county|Maricopa County]], and the public exposure of the election vendors [[runbeck-election-services|Runbeck]] and [[konnech|Konnech]] as converging signs that the matter would reach the courts.[2]
+
+2. Badlands Brief — "Timing Is Everything", URL: https://badlands.substack.com/p/timing-is-everything

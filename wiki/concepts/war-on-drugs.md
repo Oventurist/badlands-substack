@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [drugs, cia, covert-operations, narcotics, us-foreign-policy]
-sources: [raw/dollars-dope-and-deception.md, raw/dope-inc.md, raw/operation-gladio-how-its-funded.md, raw/school-of-assassins-and-dictators.md]
+sources: [raw/dollars-dope-and-deception.md, raw/dope-inc.md, raw/operation-gladio-how-its-funded.md, raw/school-of-assassins-and-dictators.md, raw/who-is-the-real-enemy.md]
 confidence: medium
 ---
 
@@ -49,3 +49,13 @@ The contradiction Lange presses is geographic: every country linking Colombia, t
 2. Badlands Brief — "Dope, Inc.", URL: https://badlands.substack.com/p/dope-inc
 3. Badlands Brief — "Operation Gladio - How It's Funded", URL: https://badlands.substack.com/p/operation-gladio-how-its-funded
 4. Badlands Brief — "School of Assassins and Dictators", URL: https://badlands.substack.com/p/school-of-assassins-and-dictators
+
+## The Afghan heroin contradiction
+
+"Who Is The Real Enemy?" presents the war on drugs as a scam run concurrently with the [[central-intelligence-agency|CIA]]'s own heroin operations.[5] Citing Fair.org, it notes that despite revelations that [[bank-of-credit-and-commerce-international|BCCI]] was a major channel for drug money laundered by corrupt Pakistani military officers who administered the CIA's arms pipeline to the Afghan rebels while supplying much of the heroin that inundated the United States and Europe during the 1980s, U.S. news media continued to promote the Reagan and Bush administrations' so-called war on drugs.[5]
+
+Throughout those administrations, the article argues, Americans were told a war on drugs was underway while untold millions were spent supposedly stemming the flow of CIA drugs into the country — another war waged to steal taxpayers' money, with taxpayer funds flowing to the very groups causing the heroin epidemic.[5] The CIA's heroin operation in [[afghanistan|Afghanistan]] was disguised as a battle in the [[cold-war|Cold War]] and as support for freedom fighters.[5]
+
+The scale claimed is near-total: in 2003 the [[golden-triangle|Golden Triangle]] and [[golden-crescent|Golden Crescent]] accounted for 91 percent of illicit opium growing area and 95 percent of production, and adding Colombia and Mexico brought the four CIA-linked areas to 96.6 percent of growing area and 97.8 percent of product.[5] Afghan opium rose from 200 metric tons in 1980, the first full year of U.S. support for [[gulbuddin-hekmatyar|Gulbuddin Hekmatyar]], to 1,980 metric tons in 1991, and Afghan heroin went from roughly zero to 60 percent of U.S. consumption by 1980.[5]
+
+5. Badlands Brief — "Who Is The Real Enemy?", URL: https://badlands.substack.com/p/who-is-the-real-enemy

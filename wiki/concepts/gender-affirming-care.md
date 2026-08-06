@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [gender-affirming-care, wpath, medicine, minors, canada, nhs]
-sources: [raw/gender-ideology-has-become-law.md]
+sources: [raw/gender-ideology-has-become-law.md, raw/these-3-events-expose-gender-ideology.md]
 confidence: medium
 ---
 
@@ -32,5 +32,15 @@ Finland, Norway, the United Kingdom, and Sweden are described as resisting the p
 
 In [[canada|Canada]] the model is described as fully adopted by legislators, politicians, and medical professionals who accepted it at face value.[1] In the United States, WPATH's influence is illustrated in the essay by [[planned-parenthood|Planned Parenthood]], which the author says permits young girls who self-diagnose gender dysphoria same-day access to testosterone without a prescription or parental permission.[1] Both countries are accused of using gender ideology and affirmative care to endanger children and strip [[parental-rights|parental rights]].[1]
 
+## International rejection of the model
+
+In a March 2023 feature, [[simon-esler|Simon Esler]] argued that three international developments should have destroyed the evidentiary basis for the gender affirmative model: the shutting down of the [[tavistock-institute|Tavistock]] gender clinic in the United Kingdom, Sweden's change of approach to gender dysphoria, and the [[toronto-desistance-study|Toronto study]] on gender dysphoria in youth.[2]
+In England, the [[nhs|NHS]] released an entirely new set of protocols in the autumn of 2022, and the [[society-for-evidence-based-gender-medicine|Society for Evidence Based Gender Medicine]] reported on October 24, 2022 that most gender dysphoric youths under 18 were now held to need psychoeducation and psychotherapy rather than specialty "transgender healthcare," with [[puberty-blockers|puberty blockers]] delivered only in research protocol settings.[2] The interim report of the [[cass-review|Cass Review]] defined the affirmative model as "a model of gender healthcare that originated in the USA," a point Esler emphasised as an explicit rejection of the American approach.[2] New NHS guidance also recognised social transition as a psychosocial intervention rather than a neutral act and strongly discouraged it in children.[2]
+
+In May 2021 Sweden became the first country to stop prescribing puberty blockers and cross-sex hormones to children under 16, announced in a letter from [[karolinska-hospital|Karolinska Hospital]] citing the SBU's finding of a lack of evidence and the risk of irreversible harms including cardiovascular disease, osteoporosis, infertility, increased cancer risk and thrombosis.[2]
+
+Esler contended that despite these reversals, Canada remained steadfast in ramping up large-scale implementation of the model, while a shift in the [[overton-window|Overton Window]] produced policy changes in a growing number of US states.[2] He attributed the model's survival in North America to the omission of internationally recognised evidence against it, arguing that in a world of global information such a localised phenomenon "has to be curated," and describing the model as a fifth-generation warfare operation camouflaged by a veneer of scientific and academic authority.[2] He also faulted [[scientific-american|Scientific American]] for relying almost entirely on American citations in its defence of the model.[2]
+
 ## References
 1. Badlands Brief — "Gender Ideology Has Become Law", URL: https://badlands.substack.com/p/gender-ideology-has-become-law
+2. Badlands Brief — "These 3 Events Expose Gender Ideology", URL: https://badlands.substack.com/p/these-3-events-expose-gender-ideology

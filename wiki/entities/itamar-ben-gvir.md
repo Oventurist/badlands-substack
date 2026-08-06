@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, national-security, prisons, ben-gvir]
-sources: [raw/badlands-brief-1c6.md, raw/badlands-brief-559.md, raw/badlands-brief-724.md, raw/badlands-brief-739.md, raw/badlands-brief-708.md, raw/badlands-brief-7ed.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-4bb.md, raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-7b1.md, raw/badlands-news-brief-87b.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a57.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-ac3.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-d56.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-f1d.md, raw/badlands-news-brief-f44.md, raw/badlands-news-brief-efd.md]
+sources: [raw/badlands-brief-1c6.md, raw/badlands-brief-559.md, raw/badlands-brief-724.md, raw/badlands-brief-739.md, raw/badlands-brief-708.md, raw/badlands-brief-7ed.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-4bb.md, raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-7b1.md, raw/badlands-news-brief-87b.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a57.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-ac3.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-d56.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-f1d.md, raw/badlands-news-brief-f44.md, raw/badlands-news-brief-efd.md, raw/trump-secures-uneasy-peace-in-gaza.md]
 confidence: medium
 ---
 
@@ -156,6 +156,10 @@ Badlands Media reports that Ben-Gvir, as National Security Minister, proudly dis
 
 At the [[international-court-of-justice|ICJ]] hearing of May 16, 2024, [[south-africa|South Africa]]'s counsel played video of Ben-Gvir speaking at a "Gaza March" rally beneath a podium sign reading "Colonization of Gaza will bring security. Returning home!", language taken to imply that Gaza is home to the Israeli people.[28] In the speech Ben-Gvir declared: "The solution you talk about here is THE solution and there's no other. We, in the cabinet, demand: WAR NOW! Demand to enter [[rafah|Rafah]]! Demand targeted assassinations! But we must tell the truth. Without liberating Gaza, there will be no solution!"[28] South Africa used the footage as evidence of openly stated genocidal intent within the Israeli government.[28]
 
+## Reaction to the January 2025 Gaza ceasefire
+
+Badlands Media described [[itamar-ben-gvir|Itamar Ben-Gvir]] as one of the most extremist members of [[benjamin-netanyahu|Benjamin Netanyahu]]'s government and reported that he was clearly bitter about the [[gaza-ceasefire|ceasefire]] brokered by [[donald-trump|Donald Trump]]'s envoy [[steve-witkoff|Steve Witkoff]].[29] His reaction was cited alongside that of the commentator [[erel-segal|Erel Segal]] as evidence that a significant portion of the Israeli right blamed Trump personally for forcing an end to the bombardment of Gaza before [[hamas|Hamas]] had been uprooted.[29]
+
 ## References
 1. Badlands Brief — "Spain Wins The [American] World Cup", URL: https://badlands.substack.com/p/badlands-brief-1c6
 2. Badlands Brief — "Narrative Warfare For Your Safety", URL: https://badlands.substack.com/p/badlands-brief-559
@@ -185,3 +189,4 @@ At the [[international-court-of-justice|ICJ]] hearing of May 16, 2024, [[south-a
 26. Badlands Brief — "Badlands News Brief: Illegal Abortionists, Vendor Rebrands, & The End of War", URL: https://badlands.substack.com/p/badlands-news-brief-f1d
 27. Badlands Brief — "Markets Crash as Tensions Rise Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-f44
 28. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd
+29. Badlands Brief — "Trump Secures Uneasy Peace in Gaza", URL: https://badlands.substack.com/p/trump-secures-uneasy-peace-in-gaza

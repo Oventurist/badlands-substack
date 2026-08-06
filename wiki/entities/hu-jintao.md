@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [china, ccp, politics]
-sources: [raw/empires-enigma.md, raw/the-master-builder.md]
+sources: [raw/empires-enigma.md, raw/the-master-builder.md, raw/the-two-chinas.md]
 confidence: medium
 ---
 
@@ -32,3 +32,9 @@ The piece argues that the great majority of the China-emboldening and United Sta
 Badlands Media's "The Master Builder" (February 2, 2023) describes Hu's removal during the [[20th-national-congress-of-the-chinese-communist-party|20th Party Congress]] as an event witnessed live by the world, in which [[xi-jinping|Xi Jinping]]'s predecessor was taken from the hall publicly and in humiliating fashion.[2] Asking why the removal was ordered, the article quotes Foreign Policy's assessment that during Hu's tenure corruption rose — and, more dangerously for the party, so did public coverage of corruption, freedom of speech online and, to a limited extent, civil society groups and NGOs.[2] [[joe-lange|Joe Lange]] uses the NGO element to draw a link to [[george-soros|George Soros]], presenting the removal as one moment in a wider [[anti-corruption-campaign-in-china|anti-corruption campaign]] against officials he associates with foreign-funded networks.[2]
 
 2. Badlands Media — "The Master Builder", URL: https://badlands.substack.com/p/the-master-builder
+
+## Assessment in "The Two Chinas" (2022)
+
+Badlands Media's "The Two Chinas" (November 10, 2022) characterizes the Hu era as one of "opening up" to the Western world that, in the author's telling, enriched only the top 0.1% of both countries.[3] The article describes Hu as a friend and ally to [[barack-obama|Barack Obama]], [[george-w-bush|George W. Bush]] and [[bill-clinton|Bill Clinton]], and attributes to his administration the expansionist, economy-subverting, oligarchy-friendly and labor-crushing policies that Western media assumed [[xi-jinping|Xi Jinping]] would continue after 2013.[3] It notes that Hu was the very man led away from the chamber of the [[20th-national-congress-of-the-chinese-communist-party|20th National Congress]] in public and humiliating fashion, and observes that the same Western outlets that cheered the Hu-era trade imbalance now express alarm at Xi.[3]
+
+3. Badlands Media — "The Two Chinas", URL: https://badlands.substack.com/p/the-two-chinas

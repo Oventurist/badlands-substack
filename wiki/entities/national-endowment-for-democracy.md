@@ -1,10 +1,10 @@
 ---
-title: National Endowment for Democracy
+title: "National Endowment for Democracy"
 created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ned, cia, democracy-promotion, grantmaking]
-sources: [raw/a-more-perfect-labor-union.md, raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-747.md, raw/how-to-rent-a-riot-the-plausible.md, raw/how-to-rent-a-riot-the-history-of.md, raw/killing-the-peace.md, raw/oligarchism-and-the-great-game.md, raw/the-information-imperium.md, raw/the-ongoing-betrayal-of-the-gop.md]
+sources: [raw/a-more-perfect-labor-union.md, raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-747.md, raw/how-to-rent-a-riot-the-plausible.md, raw/how-to-rent-a-riot-the-history-of.md, raw/killing-the-peace.md, raw/oligarchism-and-the-great-game.md, raw/the-information-imperium.md, raw/the-ongoing-betrayal-of-the-gop.md, raw/the-venezuelan-squeeze.md, raw/two-wings-one-ugly-bird.md]
 confidence: medium
 ---
 
@@ -94,3 +94,21 @@ The same coverage argues the NED became increasingly partisan after 2016, citing
 ## Path to reform
 
 Badlands contributor Ryan DeLarme argues that soft-power projection remains necessary and that the NED, [[usaid|USAID]] and their satellite NGOs should be reformed rather than abolished — gutted, run in good faith, and periodically exposed to public scrutiny to ensure they neither interfere with democratic processes abroad nor turn their powers inward against Americans.[10] He points to [[darren-beattie|Darren Beattie]]'s appointment atop the [[united-states-institute-of-peace|United States Institute of Peace]] as a model for installing an NED critic to lead its reformation.[10]
+
+## Venezuela operations
+
+In "The Venezuelan Squeeze," Ryan DeLarme names the NED — together with the [[cia|CIA]], [[usaid|USAID]], and the various NGOs and GONGOs falling under the NED umbrella — as one of the "usual suspects" whose activity in [[venezuela|Venezuela]] he traced.[11] After [[hugo-chavez|Hugo Chávez]] survived the [[2002-venezuelan-coup-attempt|2002 coup attempt]] and crushed the business elite's owners' strike, the endowment quadrupled its Venezuela budget, funneling millions to opposition NGOs with bland names such as [[sumate|Súmate]] and [[primero-justicia|Primero Justicia]].[11]
+
+During the "nonviolent" protest waves of 2014, 2017, and 2019 under [[nicolas-maduro|Nicolás Maduro]], NED grantees including [[foro-penal|Foro Penal]] documented "systematic repression" and trained local journalists to livestream the confrontations, a pattern DeLarme likens to NED and USAID activity in Ukraine, Serbia, Georgia, and Lebanon.[11] Critics of [[maria-corina-machado|María Corina Machado]] cite her decades of NED funding as evidence that she is Washington's chosen instrument rather than a national unifier.[11] DeLarme argues that the GOP's recent refunding of the endowment makes more sense in light of this continuity of operations.[11]
+
+11. Badlands Media — "The Venezuelan Squeeze", URL: https://badlands.substack.com/p/the-venezuelan-squeeze
+
+## Hub of the cut-out empire
+
+"Two Wings, One Ugly Bird" presents the NED, founded in 1983, as the pivot of the [[central-intelligence-agency|CIA]]'s post-[[church-committee|Church Committee]] turn from direct action to deniable proxies: a body billed as a private NGO but bankrolled by government funds and aligned with United States interests.[12] Its partisan offshoots, the [[national-democratic-institute|National Democratic Institute]] and the [[international-republican-institute|International Republican Institute]], were created in the same year and receive tens of millions of dollars annually from the endowment, tying both American parties to a single taxpayer-funded spigot.[12] The article extends the family to the [[solidarity-center|Solidarity Center]], covering organised labour, and the [[center-for-international-private-enterprise|Center for International Private Enterprise]], covering business.[12]
+
+The article traces NED money into Ukraine's 2004 [[orange-revolution|Orange Revolution]], the Serbian campaign against [[slobodan-milosevic|Slobodan Milosevic]], $154,000 channelled through the Solidarity Center to anti-[[hugo-chavez|Chavez]] unions in Venezuela around the 2002 coup attempt, and $3 million routed by CIPE to Russian "entrepreneur" networks by 1995.[12] It notes that [[usaid|USAID]] began co-funding NED "democracy promotion" projects in the 1980s, with a 1988 GAO report documenting millions in USAID grants flowing to NED-backed initiatives.[12] The author advises readers to search NED annual reports by year to trace its foreign grant-making.[12]
+
+Following the [[supreme-court-of-the-united-states|Supreme Court]]'s 5-4 ruling of March 5, 2025 blocking [[donald-trump|Donald Trump]]'s attempt to freeze $2 billion in USAID payments, the article reports that the NED network's furloughs were lifted and grants resumed, a decision it calls a lifeline to the beast and a setback to hopes of removing the endowment's leash on the parties.[12]
+
+12. Badlands Brief — "Two Wings, One Ugly Bird", URL: https://badlands.substack.com/p/two-wings-one-ugly-bird

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [terrorism, 9-11, deep-state, history]
-sources: [raw/badlands-news-brief-433.md, raw/badlands-news-brief-988.md, raw/badlands-news-brief-c40.md, raw/operation-cyclone-the-seeds-of-terror.md, raw/q-for-dummies-chapter-18.md, raw/the-exploitation-of-charlie-kirk.md]
+sources: [raw/badlands-news-brief-433.md, raw/badlands-news-brief-988.md, raw/badlands-news-brief-c40.md, raw/operation-cyclone-the-seeds-of-terror.md, raw/q-for-dummies-chapter-18.md, raw/the-exploitation-of-charlie-kirk.md, raw/the-road-without-struggle.md, raw/the-war-of-stories.md, raw/women-children-and-terror.md]
 confidence: medium
 ---
 
@@ -46,6 +46,12 @@ Chapter 18 of the [[q-for-dummies|Q for Dummies]] series reads Q drop #118, post
 
 The chapter stresses that most of the flights were private charters, to which the usual security checks do not necessarily apply, meaning anything — or anyone — could be transported; it reads Q's adjacent references to a private plane and Iran as invoking [[barack-obama|Obama]]'s cash shipments to Tehran to make the same point.[5] Asked whether any members of the [[bin-laden-family|Bin Laden family]] were in the United States at the time of the attacks, the author answers yes and rejects coincidence.[5] The decisive question, he argues, is who signed off on allowing them to leave — a decision he places within the [[george-w-bush|Bush]] administration, without asserting that Bush himself gave the order.[5] The chapter also links [[osama-bin-laden|Osama bin Laden]]'s wealth to his father's construction fortune and recalls that bin Laden fought with the [[mujahideen]] in Afghanistan, calling it another case of the United States funding, arming and equipping a future enemy.[5] Q's related question about the relevance of the [[saudi-purge|Saudi purge]] is answered with the suggestion that some of those detained had a hand in 9/11 and that the record may be revealed in a future [[donald-trump|Trump]] administration.[5]
 
+## CGI-plane claims as narrative contamination
+
+[[erik-carlson|Erik Carlson]] cited the attacks as an early instance of [[poisoning-the-well|poisoning the well]] in his February 28, 2023 essay "The Road Without Struggle."[7] He wrote that after the US government took down the Twin Towers, people began questioning the motives, rationale and mechanisms behind the event with what he called worrying persistence and possible accuracy.[7]
+
+In response, according to Carlson, the [[deep-state|Deep State]] pushed the idea that the planes that struck the towers were actually CGI.[7] Because witnesses had actually seen planes hit the buildings, he argued, this poisoning PsyOp created doubt about the broader claim of US government involvement in the towers' destruction — discrediting the original line of inquiry by association.[7]
+
 ## References
 
 1. Badlands Brief — "POTUS' 'Reverse Kissinger' & Pete's Pentagon Purge", URL: https://badlands.substack.com/p/badlands-news-brief-433
@@ -61,3 +67,20 @@ In "The Exploitation of Charlie Kirk," [[ryan-delarme|Ryan DeLarme]] wrote that 
 Because the 2025 anniversary fell days after the assassination of [[charlie-kirk|Charlie Kirk]], DeLarme reconsidered his stance, concluding it was more important than ever to preserve the memory of that day and the weeks that followed, since the same emotional tactics were being deployed again in real time.[6] He also cited [[benjamin-netanyahu|Benjamin Netanyahu]]'s post-9/11 redirection of American anger toward [[saddam-hussein|Saddam Hussein]], who had no involvement in the attacks.[6]
 
 6. Badlands Brief — "The Exploitation of Charlie Kirk", URL: https://badlands.substack.com/p/the-exploitation-of-charlie-kirk
+7. Badlands Brief — "The Road Without Struggle", URL: https://badlands.substack.com/p/the-road-without-struggle
+
+## Characterised as engineered (December 2022)
+
+In "The War of Stories" (December 30, 2022), [[burning-bright|Burning Bright]] referred in passing to "the (also engineered) 9/11 attacks" as the event whose nationalist aftermath the Bush Jr. administration rode into the [[war-on-terror|War on Terror]], presenting the sequence as a textbook instance of the [[patriot-pendulum|Patriot Pendulum]] and the [[hegelian-dialectic|Hegelian Dialectic]] in American politics.[8]
+
+8. Badlands Brief — "The War of Stories", URL: https://badlands.substack.com/p/the-war-of-stories
+
+## "Women, Children ... and Terror" (October 2023)
+
+[[erik-carlson|Erik Carlson]] wrote that he did not need to go into any detail about the attacks, hoping readers were at least extremely critical of the official story.[9] He recalled watching the towers fall repeatedly on television, hearing that a group of Saudis with box cutters had flown planes into the buildings and the Pentagon, and believing it — being fully on board with attacking Iraq and Afghanistan even though neither appeared connected in any way.[9]
+
+Twenty years later, he wrote, he holds a 180-degree different view: that the US government and intelligence agencies willingly sacrificed or allowed the sacrifice of 2,977 Americans in order to get the country into wars.[9] He counted 7,000 US service members killed in the Iraq and Afghanistan wars, plus countless others who died as a result, and described those wars as supporting the [[cia|CIA]]'s drug running operation, profiting the [[military-industrial-complex|military industrial complex]], and enabling US government agencies to spy on American citizens thereafter.[9]
+
+Carlson used 9/11, alongside the [[attack-on-pearl-harbor|attack on Pearl Harbor]], as the precedent for treating the October 2023 [[hamas|Hamas]] assault on [[israel|Israel]] as a [[false-flag-operation|false flag]], and warned readers not to let the [[deep-state|Deep State]] manipulate them "right back into the 9/11 days."[9]
+
+9. Badlands Brief — "Women, Children ... and Terror", URL: https://badlands.substack.com/p/women-children-and-terror

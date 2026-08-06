@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [who, globalism, public-health, sovereignty, treaty]
-sources: [raw/badlands-news-brief-152.md, raw/badlands-news-brief-a21.md, raw/badlands-news-brief-b04.md, raw/badlands-news-brief-af7.md]
+sources: [raw/badlands-news-brief-152.md, raw/badlands-news-brief-a21.md, raw/badlands-news-brief-b04.md, raw/badlands-news-brief-af7.md, raw/the-whos-last-stand.md]
 confidence: medium
 ---
 
@@ -43,3 +43,13 @@ In March 2023, Badlands contributor [[ryan-delarme|Ryan DeLarme]] noted that [[j
 2. Badlands Brief — "Badlands News Brief: Trumpian Deliberations, Libertarian LARPs & Israeli Misfires", URL: https://badlands.substack.com/p/badlands-news-brief-a21
 3. Badlands Brief — "China Joe Strikes Out & Trumpism on Trial", URL: https://badlands.substack.com/p/badlands-news-brief-b04
 4. Badlands News Brief — "Trump on Wuhan, Flynn Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-af7
+
+## "The WHO's Last Stand" analysis (2023)
+
+Badlands Media emphasized that the instrument is not formally a treaty at all but a "convention agreement," and as such is not subject to the usual ratification requirements — notably a vote in the U.S. Senate.[5] Its proper name is the WHO CA+, and it was drafted by the [[intergovernmental-negotiating-body|Intergovernmental Negotiating Body]] established at a December 2021 special session of the [[world-health-assembly|World Health Assembly]].[5] On 22 May 2023 the drafting group released an unedited text titled "The Bureau's Text of the WHO CA+."[5]
+
+Article 20 of that draft establishes a [[conference-of-the-parties|Conference of the Parties]], described by the article as a new bureaucracy beyond Congressional or Parliamentary oversight, whose membership would extend to representatives of the United Nations and its specialized agencies and to any body or organization — national or international, governmental or nongovernmental, private or public sector — qualified in matters covered by the instrument.[5] Article 34 would allow those members to add protocols to the agreement without the consent of the public.[5]
+
+Other proposals in the draft include establishing an international supply network overseen by the [[world-health-organization|WHO]], requiring at least 5% of national health budgets to be dedicated to health emergencies, creating a governing body to oversee the entire health emergency process, and implementing the [[one-health|One Health]] agenda.[5] The Associated Press published a fact-check asserting the treaty would not threaten national sovereignty; Badlands Media rejected this, arguing the WHO's dictates would supersede local, state and federal law and would reach far beyond pandemic response.[5]
+
+5. Badlands Brief — "The WHO's Last Stand", URL: https://badlands.substack.com/p/the-whos-last-stand

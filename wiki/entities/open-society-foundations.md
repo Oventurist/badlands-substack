@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ngo, soros, funding, clinton-email-investigation]
-sources: [raw/badlands-news-brief-168.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-f54.md, raw/badlands-news-brief-f44.md, raw/george-soros-shadow-network.md, raw/george-soros-a-british-creation.md, raw/is-the-censorship-war-over.md, raw/structures-of-control-part-2.md, raw/structures-of-control-part-1.md, raw/the-information-imperium.md]
+sources: [raw/badlands-news-brief-168.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-f54.md, raw/badlands-news-brief-f44.md, raw/george-soros-shadow-network.md, raw/george-soros-a-british-creation.md, raw/is-the-censorship-war-over.md, raw/structures-of-control-part-2.md, raw/structures-of-control-part-1.md, raw/the-information-imperium.md, raw/the-transition-integrity-project.md, raw/two-wings-one-ugly-bird.md]
 confidence: low
 ---
 
@@ -54,6 +54,11 @@ By July 2023 [[alex-soros|Alex Soros]], son of founder [[george-soros|George Sor
 ## Alleged role in British migration
 
 Badlands Media's coverage of the August 2024 disorder in Britain names the Open Society Foundations of [[george-soros|George Soros]], together with other non-governmental organizations, as having imported migrants from Africa and Syria over the preceding decade, and casts this as a principal cause of the violence.[9] The outlet frames the pattern as part of a plan to destroy Western civilization, following from the displacement produced by NATO's 2011 killing of [[muammar-gaddafi|Muammar Gaddafi]] and the ensuing war in Syria.[9] See [[southport-riots|the Southport riots]].[9]
+
+
+## Link to the Transition Integrity Project
+
+[[rosa-brooks|Rosa Brooks]], founder and leader of the [[transition-integrity-project|Transition Integrity Project]], served on the board of the Open Society Foundations US Programs Fund and worked as a consultant at the Open Society Institute.[16] Badlands Media contributor [[erik-carlson|Erik Carlson]] cites these affiliations, alongside Brooks's Harvard, Yale and Oxford education, as evidence of the [[george-soros|Soros]]-funded network standing behind TIP's 2020 election war games.[16]
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Thumb Drive Theories & Early Dismissals", URL: https://badlands.substack.com/p/badlands-news-brief-168
@@ -113,3 +118,11 @@ In Part 1 of the Badlands Media [[structures-of-control-part-1-series|Structures
 Badlands Media's "The Information Imperium" lists Open Society among the donors financing [[internews|Internews]], grouping it with the [[ford-foundation|Ford Foundation]] and the [[rockefeller-foundation|Rockefeller Foundation]] as part of what the article calls the CIA cut-out NGO blob operating alongside [[usaid|USAID]] and [[national-endowment-for-democracy|NED]] money.[15] The article adds an author's note that [[nato|NATO]] is a significant part of the same structure and that the Soros-NATO connection deserves separate treatment.[15]
 
 15. Badlands Brief — "The Information Imperium", URL: https://badlands.substack.com/p/the-information-imperium
+
+16. Badlands Brief — "The Transition Integrity Project", URL: https://badlands.substack.com/p/the-transition-integrity-project
+
+## Support for Otpor
+
+"Two Wings, One Ugly Bird" credits [[george-soros|George Soros]]' Open Society network with assisting the [[international-republican-institute|International Republican Institute]] in backing [[otpor|Otpor]], the Serbian youth movement that ousted [[slobodan-milosevic|Slobodan Milosevic]] in the 1990s.[17] The article treats this as one instance of a broader pattern in which nominally private foundations and [[national-endowment-for-democracy|NED]]-funded institutes jointly manufactured what was presented as spontaneous people power.[17]
+
+17. Badlands Brief — "Two Wings, One Ugly Bird", URL: https://badlands.substack.com/p/two-wings-one-ugly-bird

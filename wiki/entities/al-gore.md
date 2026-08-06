@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [politics, climate, democrats]
-sources: [raw/badlands-news-brief-065.md, raw/badlands-news-brief-46e.md, raw/on-golden-bridges-and-the-art-of.md]
+sources: [raw/badlands-news-brief-065.md, raw/badlands-news-brief-46e.md, raw/on-golden-bridges-and-the-art-of.md, raw/whos-the-u-boat-commander.md]
 confidence: medium
 ---
 
@@ -36,3 +36,9 @@ At the [[world-economic-forum|World Economic Forum]]'s January 2023 meeting in D
 In the January 28, 2025 Badlands Media feature "On Golden Bridges and the Art of War," [[american-hypnotist|American Hypnotist]] used Gore's film *An Inconvenient Truth* as a rhetorical foil, writing that the doomsday predictions made about global warming — "nowadays called 'climate change'" — could by then be said with certainty to have been completely bogus.[3] The author described Gore as a "climate grifter" and argued that the real inconvenient truth was that anyone on Earth had listened to him, before pivoting to what he called a far less convenient truth: the presence of tens of millions of hostile "invaders" in America and Europe, many of them holding legal immigration status.[3]
 
 3. Badlands Brief — "On Golden Bridges and the Art of War", URL: https://badlands.substack.com/p/on-golden-bridges-and-the-art-of
+
+## Climate advocacy in Badlands commentary (January 2024)
+
+In a January 2024 feature, [[erik-carlson|Erik Carlson]] identified Gore, vice president under [[bill-clinton|Bill Clinton]], as "the face of climate change" during the period he alleges [[jeffrey-epstein|Jeffrey Epstein]]'s blackmail operation began, and described both Gore and Clinton as allegedly connected to Epstein.[4] Carlson's argument holds that blackmailing scientists allows control of science, and that control of science in turn enables what he calls the climate change hoax — asking whether the timing of climate change's rise as a concept was coincidental.[4]
+
+4. Badlands Brief — "Who's the U-Boat Commander?", URL: https://badlands.substack.com/p/whos-the-u-boat-commander

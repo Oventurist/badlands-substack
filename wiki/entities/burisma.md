@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ukraine, energy, corruption, biden-family]
-sources: [raw/badlands-news-brief-099.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-409.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-da5.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-d7d.md, raw/biden-inc-flips.md, raw/quid-pro-joe.md]
+sources: [raw/badlands-news-brief-099.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-409.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-da5.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-d7d.md, raw/biden-inc-flips.md, raw/quid-pro-joe.md, raw/tucker-twitter-and-the-truth-community.md]
 confidence: medium
 ---
 
@@ -109,3 +109,8 @@ In August 2023 [[viktor-shokin|Viktor Shokin]], the Ukrainian prosecutor fired w
 14. Badlands Brief — "Badlands News Brief: Trump's Trap, Musk's Decree & Obama's Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-d7d
 15. Badlands Brief — "Biden, Inc. Flips", URL: https://badlands.substack.com/p/biden-inc-flips
 16. Badlands Brief — "Quid Pro Joe", URL: https://badlands.substack.com/p/quid-pro-joe
+17. Badlands Brief — "Tucker, Twitter, and the Truth Community", URL: https://badlands.substack.com/p/tucker-twitter-and-the-truth-community
+
+## Archer's Carlson interview (August 2023)
+
+In a two-part [[tucker-on-twitter|Tucker on Twitter]] interview released days after his closed-door House testimony, [[devon-archer|Devon Archer]] said Burisma had been pressuring the Bidens to have prosecutor [[viktor-shokin|Viktor Shokin]] — who was investigating the company — fired.[17] [[ashe-in-america|Ashe in America]] noted that until then the Biden camp and mainstream media had maintained that Shokin's removal was a strategic US foreign policy decision unrelated to [[hunter-biden|Hunter Biden]]'s dealings with the Ukrainian gas company, which was paying him $83,000 per month.[17] Archer testified that the purpose of Hunter Biden's board position was "the brand," whose value, in Ashe's reading, consisted of favorable US foreign policy decisions and paid favors to foreign oligarchs.[17]

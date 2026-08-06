@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [iran, hostages, 1979, carter, reagan, cia]
-sources: [raw/does-the-cia-still-control-iran.md]
+sources: [raw/does-the-cia-still-control-iran.md, raw/the-shadow-game.md]
 confidence: medium
 ---
 
@@ -24,3 +24,11 @@ Carlson noted that younger readers are likely to know the hostage crisis primari
 
 ## References
 1. Badlands Brief — "Does the CIA Still Control Iran?", URL: https://badlands.substack.com/p/does-the-cia-still-control-iran
+
+## The 1980 election and the alleged delay
+
+"The Shadow Game" recounts that the hostages were taken when followers of Ayatollah [[ruhollah-khomeini|Ruhollah Khomeini]], the founder of Iran's revolutionary government, seized the United States Embassy in Teheran in November 1979 after the overthrow of [[mohammad-reza-pahlavi|the Shah]].[2] Their fate became a pivotal issue in the 1980 election: a military rescue operation failed in the Iranian desert in April 1980, the [[jimmy-carter|Carter]] administration hoped to obtain the release of the 52 captives through negotiations or a second rescue before Election Day, and [[ronald-reagan|Reagan]] campaign officials feared their return could swing the election to Carter.[2] CIA-influenced media, in [[joe-lange|Joe Lange's]] account, kept a running public count of the days of captivity, reinforcing the impression that Carter was weak.[2]
+
+Lange writes that Carter was in fact negotiating a release he expected to carry him to victory, and that [[george-hw-bush|George H.W. Bush]] knew of the negotiations and could not allow them to succeed.[2] The alleged [[october-surprise|October Surprise]] arrangement — [[william-casey|William Casey's]] Madrid meetings with [[mehdi-karrubi|Mehdi Karrubi]] and the [[john-connally|Connally]]–[[ben-barnes|Barnes]] Middle East tour — is described as securing Iranian agreement to hold the hostages in exchange for arms shipped through Israel by a future Reagan administration.[2] The hostages were released on the day of Reagan's inauguration, minutes after he concluded his inaugural address.[2]
+
+2. Badlands Brief — "The Shadow Game", URL: https://badlands.substack.com/p/the-shadow-game

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, mainstream-media, cable-news]
-sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-ba4.md, raw/the-media-is-the-enemy-of-the-people.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-ba4.md, raw/the-media-is-the-enemy-of-the-people.md, raw/the-multinational-offensive-against.md, raw/tucker-twitter-and-the-truth-community.md]
 confidence: medium
 ---
 
@@ -61,3 +61,14 @@ On August 21, 2023, MSNBC host [[alicia-menendez|Alicia Menendez]] asked guest [
 In "The Media is the Enemy of the People" (September 17, 2024), [[erik-carlson|Erik Carlson]] cited MSNBC with [[cnn|CNN]] and [[fox-news|Fox News]] as networks whose survival despite collapsing ratings demonstrates that they are instruments of manipulation rather than commercial enterprises.[8]
 
 8. Badlands Brief — "The Media is the Enemy of the People", URL: https://badlands.substack.com/p/the-media-is-the-enemy-of-the-people
+
+## Walz remarks on free speech limits
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] cited an MSNBC appearance by [[tim-walz|Tim Walz]] on the program hosted by [[joy-reid|Joy Reid]], in which Walz said: "I think we need to push back on this. There's no guarantee of free speech on misinformation or hate speech and especially around our democracy."[9] DeLarme called the claim completely false and treated its uncontested airing on the network as an example of mainstream media normalizing the idea that [[hate-speech|hate speech]] and misinformation fall outside [[first-amendment|First Amendment]] protection.[9]
+
+9. Badlands Brief — "The Multinational Offensive Against Free Speech Online", URL: https://badlands.substack.com/p/the-multinational-offensive-against
+10. Badlands Brief — "Tucker, Twitter, and the Truth Community", URL: https://badlands.substack.com/p/tucker-twitter-and-the-truth-community
+
+## Primetime standing after Carlson's exit (2023)
+
+Following [[tucker-carlson|Tucker Carlson]]'s April 2023 firing from [[fox-news|Fox News]], [[ashe-in-america|Ashe in America]] observed that Fox's ratings tanked and the network often landed in second place in primetime news coverage, running behind MSNBC — an outcome she called unthinkable while Carlson led the Fox evening lineup.[10]

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [intelligence, classified, biden, gabbard, security-clearances]
-sources: [raw/badlands-news-brief-071.md, raw/clowns-in-america.md]
+sources: [raw/badlands-news-brief-071.md, raw/clowns-in-america.md, raw/the-shadow-game.md]
 confidence: medium
 ---
 
@@ -38,3 +38,9 @@ A related claim concerns FBI text messages: PJ Media reported that [[peter-strzo
 
 1. Badlands Brief — "Badlands News Brief: Hot Wars Wind Down. Trade & Meme Wars Heat Up.", URL: https://badlands.substack.com/p/badlands-news-brief-071
 2. Badlands Brief — "Clowns in America", URL: https://badlands.substack.com/p/clowns-in-america
+
+## Extension beyond the president
+
+"The Shadow Game" recalls that [[george-hw-bush|George H.W. Bush]] put the [[cia|CIA]] in control of the Presidential Daily Brief, elevating the agency inside the executive branch and giving it control of the information flow to the president — but presents this as only the beginning.[3] [[john-poindexter|John Poindexter]], through the post-[[1983-beirut-barracks-bombings|Beirut]] reorganization of crisis management and the CIA-run secure hotline linking the [[state-department|State Department]], the [[national-security-agency|NSA]], the Defense Intelligence Agency and the [[national-security-council|NSC]], is said to have extended that control to all information flowing to the entire executive branch, not just to the president.[3]
+
+3. Badlands Brief — "The Shadow Game", URL: https://badlands.substack.com/p/the-shadow-game

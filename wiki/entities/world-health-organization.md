@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [who, globalism, public-health, ngo]
-sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-brief-2c5.md, raw/badlands-brief-695.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-ba8.md, raw/badlands-news-brief-c50.md, raw/badlands-news-brief-e10.md, raw/badlands-news-brief-e40.md, raw/behold-a-trojan-horse.md, raw/the-dystopia-will-be-televised.md, raw/the-ivy-web.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-brief-2c5.md, raw/badlands-brief-695.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-ba8.md, raw/badlands-news-brief-c50.md, raw/badlands-news-brief-e10.md, raw/badlands-news-brief-e40.md, raw/behold-a-trojan-horse.md, raw/the-dystopia-will-be-televised.md, raw/the-ivy-web.md, raw/the-whos-last-stand.md, raw/the-wuhan-lab-leak-hoax.md, raw/triggering-mass-psychosis.md]
 confidence: low
 ---
 
@@ -131,3 +131,29 @@ According to Badlands Media's "The Ivy Web," the [[harvard-global-health-institu
 The article also names the WHO among the organizations with which [[harvard-university|Harvard]] maintained high-level partnerships prior to the pandemic, alongside the [[mitre-corporation|MITRE Corporation]] and [[palantir|Palantir]], and links WHO-aligned public health agencies to the influence of the [[rockefeller-foundation|Rockefeller Foundation]] and the [[rothschild-family|Rothschild family]].[19]
 
 19. Badlands Brief — "The Ivy Web", URL: https://badlands.substack.com/p/the-ivy-web
+
+## "The WHO's Last Stand" (2023)
+
+In August 2023, Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] argued that the WHO was pursuing at least two instruments to complete what he called the next phase of a global coup: the [[who-pandemic-accord|WHO CA+]], popularly known as the Pandemic Treaty, and a package of amendments to the [[international-health-regulations|International Health Regulations]].[20] Analysts quoted in the piece cautioned that ratification of either instrument — let alone both — would devastate or completely strip away sovereignty from nation-states and place public health decision-making power in the hands of the WHO and its director-general.[20]
+
+The article contended that private interests wield immense power over the organization because a majority of its funding is "specified," meaning it is earmarked for particular programs and cannot be reallocated where it is needed most, giving funders massive influence over what the WHO does and how it does it.[20] It named [[bill-gates|Bill Gates]] as the largest single funder when donations from the [[gates-foundation|Gates Foundation]] and organizations such as [[gavi|GAVI the Vaccine Alliance]] are combined.[20] [[david-bell|Dr. David Bell]] of the [[brownstone-institute|Brownstone Institute]] was cited for the claim that the COVID lockdown strategy did not originate with the WHO itself but with external influences.[20]
+
+DeLarme further noted that the WHO and G20 health ministers formally adopted the [[one-health|One Health]] concept in 2017, that the term was first coined by an executive vice president of the [[ecohealth-alliance|EcoHealth Alliance]], and that under One Health the WHO would be empowered to make decisions on diet, agriculture and livestock farming, environmental pollution, and the movement of populations.[20] Between 9 and 16 September 2022, the WHO — presumably attempting to repair damaged public relations — requested that the public submit 90-second videos describing what the organization could do better in the event of another pandemic; the response, according to the article, was overwhelmingly critical.[20] A deadline of 1 December 2023 was set for the 194 member nations to reject the IHR amendments.[20]
+
+20. Badlands Brief — "The WHO's Last Stand", URL: https://badlands.substack.com/p/the-whos-last-stand
+
+21. Badlands Brief — "The Wuhan Lab Leak Hoax", URL: https://badlands.substack.com/p/the-wuhan-lab-leak-hoax
+
+## Role in the COVID-19 origins dispute
+
+[[matthew-ehret|Matthew Ehret]] identifies the WHO, alongside Nature Magazine and the editors of [[the-lancet|The Lancet]], as the institutions that asserted SARS-CoV-2 was a naturally occurring evolutionary phenomenon, a claim contested from the earliest days of the pandemic.[21] He further argues that the [[lab-leak-theory|Wuhan lab leak]] framing promoted on the [[white-house|White House]] fact site is designed to focus attention on the Chinese government's alleged collusion with [[anthony-fauci|Anthony Fauci]] and its use of the WHO to shut down western nations.[21]
+
+Chinese officials invoked the organization in the opposite direction: Foreign Ministry spokesperson [[hua-chunying|Hua Chunying]] demanded that Washington invite WHO experts to conduct origin-tracing inside the United States and open [[fort-detrick|Fort Detrick]] and its 200-plus overseas bio-labs.[21] Ehret also cites [[denis-rancourt|Denis Rancourt's]] finding that death spikes during the pandemic stemmed from lockdowns, the isolation of the fragile elderly and unnatural medical interventions such as unnecessary intubations mandated by the WHO onto nations of the western world.[21]
+
+## COVID-era authority and mass psychosis (January 2023)
+
+In [[justin-deschamps|Justin Deschamps]]'s January 20, 2023 essay on [[mass-psychosis]], the WHO is described — alongside the [[centers-for-disease-control-and-prevention|CDC]] — as a privately funded institution that many people mistakenly believe to be an actual governing entity.[22] The essay cited research by Philipp Bagus, José Antonio Peña-Ramos and Antonio Sánchez-Bayón arguing that mass and digital media in connection with the state may have had adverse consequences during the COVID-19 crisis, with collective hysteria contributing to government policy errors that were not in line with health recommendations, despite the insistence of the corporate press and of institutions such as the WHO.[22]
+
+Deschamps further named the WHO, together with the [[national-institutes-of-health|NIH]] and the CDC, as the authoritarian apparatus of the COVID era, populated by what he called a devout priesthood of [[bill-gates|Bill Gates]], [[anthony-fauci|Anthony Fauci]] and [[tedros-adhanom-ghebreyesus|Tedros Adhanom Ghebreyesus]].[22] Authoritarianism in this framing tells the public that those in power must know both the problem and the best solution, and that anyone who gets in the way is an enemy of the party and a threat to the promised utopia.[22]
+
+22. Badlands Brief — "Triggering Mass Psychosis", URL: https://badlands.substack.com/p/triggering-mass-psychosis

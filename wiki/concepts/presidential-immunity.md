@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [law, executive-power, trump, courts]
-sources: [raw/badlands-news-brief-092.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-484.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-528.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-a66.md, raw/badlands-news-brief-bad.md, raw/q-for-dummies-chapter-15.md]
+sources: [raw/badlands-news-brief-092.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-484.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-528.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-a66.md, raw/badlands-news-brief-bad.md, raw/q-for-dummies-chapter-15.md, raw/trials-tribulations-and-a-long-train.md]
 confidence: medium
 ---
 
@@ -78,6 +78,10 @@ Reporting on the argument concluded that the already-slim likelihood of a crimin
 
 [[d-john-sauer|D. John Sauer]] argued for Trump and [[michael-dreeben|Michael Dreeben]] argued for the Department of Justice, with much of the exchange focused on official versus private acts; the consensus among justices and attorneys alike was that a president has no immunity for private criminal acts, leaving the treatment of official acts as the open question.[10] Badlands Media commentary characterized the case law and binding precedent as sparse, attributing that to an immunity long understood and respected until, in the writer's telling, the Biden regime chose to blow it up to interfere with the coming election.[10] Justice [[ketanji-brown-jackson|Ketanji Brown Jackson]] warned that complete presidential immunity could turn "the Oval Office into the seat of criminal activity in this country" and embolden future presidents to commit crimes in office, while Sauer replied that her fears were unwarranted because Trump was merely asking the court to follow the law as understood for 234 years.[10] Justice [[samuel-alito|Samuel Alito]] observed that "what we decide will apply to all future presidents," a point the Badlands writer turned into a symmetry argument: if Trump is immune, so is [[joe-biden|Biden]], and if Trump can be criminally prosecuted for official acts, then so can Biden.[10]
 
+## The D.C. Circuit appeal of Chutkan's ruling (January 2024)
+
+Oral argument on [[donald-trump|Donald Trump]]'s appeal of Judge [[tanya-chutkan|Tanya Chutkan]]'s ruling rejecting the presidential immunity defense took place on January 9, 2024 before the U.S. Court of Appeals for the District of Columbia Circuit in case 1:23-cr-00257-TSC-1.[12] Trump's lawyers argued that the federal election-subversion indictment should be dismissed because he is immune from prosecution, while the three-judge panel questioned whether the theory would permit presidents to sell pardons or assassinate political opponents.[12] Judge [[florence-pan|Florence Pan]] asked whether a president could order SEAL Team Six to assassinate a political rival, and counsel John Sauer answered that impeachment and conviction would have to precede any criminal prosecution.[12] Chutkan's ruling was held in abeyance pending adjudication of the appeal.[12]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Trans Easter Bait & A Tale of Two Presidents", URL: https://badlands.substack.com/p/badlands-news-brief-092
 2. Badlands Brief — "Badlands News Brief: The Witch Hunt Hits a Few Snags as the Landscape Shifts", URL: https://badlands.substack.com/p/badlands-news-brief-2a0
@@ -95,3 +99,4 @@ Reporting on the argument concluded that the already-slim likelihood of a crimin
 Writing in July 2024, the author of Chapter 15 of the [[q-for-dummies|Q for Dummies]] series listed the Supreme Court's presidential immunity ruling alongside the reversal of [[chevron-deference|Chevron deference]] as "monumental" decisions that struck a major blow to the [[deep-state|deep state]], and argued that the pair of rulings — combined with the fallout from the June presidential debate — had left the establishment in "full blown panic mode."[11]
 
 11. Badlands Brief — "Q for Dummies - Chapter 15", URL: https://badlands.substack.com/p/q-for-dummies-chapter-15
+12. Badlands Media - "Trials, Tribulations & a Long Train of Abuses", URL: https://badlands.substack.com/p/trials-tribulations-and-a-long-train

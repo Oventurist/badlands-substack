@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [renaissance, design, engineering, biomimicry, invention]
-sources: [raw/badlands-news-brief-ba8.md]
+sources: [raw/badlands-news-brief-ba8.md, raw/the-steering-wheel-of-civilization.md]
 confidence: medium
 ---
 
@@ -22,3 +22,9 @@ Da Vinci made detailed and obsessive comparisons between the human body and natu
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Hopium for Health AI, Hulk on Hunter, & A Happy WHO Adieu", URL: https://badlands.substack.com/p/badlands-news-brief-ba8
+
+## Cited in "The Steering Wheel of Civilization"
+
+The February 24, 2023 Badlands Media essay "The Steering Wheel of Civilization" presents da Vinci as the archetype of a person whose values work together like a well-oiled machine, describing him as singular of mind and purpose and as having coordinated his ambitions so that, at the very least, they did not conflict with one another.[2] He is cited alongside [[elon-musk|Elon Musk]] and [[donald-trump|Donald Trump]] to illustrate the claim that a harmonized value system enables almost superhuman achievement, whereas a conflicting one squanders potential.[2]
+
+2. Badlands Brief — "The Steering Wheel of Civilization", URL: https://badlands.substack.com/p/the-steering-wheel-of-civilization

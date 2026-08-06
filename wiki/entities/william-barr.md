@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [doj, attorney-general, durham, sdny]
-sources: [raw/disinformation-is-necessary.md, raw/do-you-believe-in-coincidences.md, raw/q-for-dummies-chapter-13.md, raw/the-biggest-boomerang-in-history.md]
+sources: [raw/disinformation-is-necessary.md, raw/do-you-believe-in-coincidences.md, raw/q-for-dummies-chapter-13.md, raw/the-biggest-boomerang-in-history.md, raw/the-transition-integrity-project.md]
 confidence: low
 ---
 
@@ -34,10 +34,6 @@ According to the article, Barr deliberately withheld the full 448-page report an
 
 Democrats demanded Barr testify, and the article reports he defended Trump vigorously, saying the president had been "falsely accused" of colluding with Russia and that "the evidence is now that was without a basis."[2] [[adam-schiff|Adam Schiff]] accused him of shaping public perception of the report, and Senator Chris Coons complained the summary had given Trump three weeks to claim exoneration.[2] Badlands also credits Barr with launching the [[john-durham|John Durham]] investigation into the conspiracy to frame Trump with Russian collusion, and cites the article's author as regarding him as a patriot.[2]
 
-## References
-1. Badlands Brief — "Disinformation is Necessary", URL: https://badlands.substack.com/p/disinformation-is-necessary
-2. Badlands Brief — "Do You Believe in Coincidences?", URL: https://badlands.substack.com/p/do-you-believe-in-coincidences
-
 ## Prediction that the Trump conviction would not stand
 
 Following [[donald-trump|Donald Trump]]'s New York conviction, Barr publicly stated that the verdict would not stick, a remark cited by the Badlands Media "Q For Dummies" series as corroboration of its argument that the prosecution was legally baseless.[3] The series linked to reporting by The Hill on Barr's assessment that the hush-money case would be overturned, and used it alongside the sentencing of [[steve-bannon|Steve Bannon]] and the trial of [[hunter-biden|Hunter Biden]] to argue that the episode had exposed a weaponized justice system.[3]
@@ -53,3 +49,13 @@ Fox News reporting quoted in the article records that Trump issued a memo granti
 Barr is credited with launching the investigation into the [[barack-obama|Obama]] administration's spy campaign and with coordinating DECLAS for multiple [[racketeer-influenced-and-corrupt-organizations-act|RICO]] investigations.[4] He released the declassified [[peter-strzok|Strzok]]–[[lisa-page|Page]] emails showing that [[james-comey|Comey]]'s [[fbi|FBI]] had planned to trap [[michael-flynn|Michael Flynn]] into a false statement in order to have him fired, gave them to Flynn's new defence counsel [[sidney-powell|Sidney Powell]], and used them as the basis for dropping the criminal case as evidence of bias and entrapment.[4] Lange also states Barr handed declassified documents to select members of Congress investigating the conspiracy, making them public and driving the narrative war on a "slow drip > flood" cadence.[4] These claims reflect Badlands Media interpretation rather than established fact.
 
 4. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history
+
+## Transition Integrity Project predictions
+
+The [[transition-integrity-project|Transition Integrity Project]]'s 2020 election war games speculated that if [[donald-trump|Donald Trump]] lost, he would use Barr to subvert the legal system and deploy the [[department-of-justice|Department of Justice]] and its resources to remain in office.[5] Under this scenario the DOJ would provide legal cover as Trump federalized the [[national-guard|National Guard]] or invoked the [[insurrection-act|Insurrection Act]] to deploy active-duty military domestically, and forced the Postmaster General to seize ballots in transit through the mail.[5] Badlands Media contributor [[erik-carlson|Erik Carlson]] observes that none of these predictions materialised.[5]
+
+## References
+1. Badlands Brief — "Disinformation is Necessary", URL: https://badlands.substack.com/p/disinformation-is-necessary
+2. Badlands Brief — "Do You Believe in Coincidences?", URL: https://badlands.substack.com/p/do-you-believe-in-coincidences
+
+5. Badlands Brief — "The Transition Integrity Project", URL: https://badlands.substack.com/p/the-transition-integrity-project

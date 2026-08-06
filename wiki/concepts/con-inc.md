@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [controlled-opposition, conservatism, maga, media, information-war]
-sources: [raw/all-assets-deployed.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-6d6.md, raw/death-blossom.md, raw/im-not-a-biologist.md]
+sources: [raw/all-assets-deployed.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-6d6.md, raw/death-blossom.md, raw/im-not-a-biologist.md, raw/the-sting.md, raw/the-war-of-stories.md]
 confidence: medium
 ---
 
@@ -69,3 +69,17 @@ Badlands contributor [[ashe-in-america|Ashe in America]] used the fuller phrase 
 Her structural criticism was that the outlet stops short of indicting the global order: its documentary on gender ideology explored neither the international network propagating the ideology nor the financial establishment recruiting patients for life, omitting for instance the United Nations' [[sustainable-development-goals|Sustainable Development Goal #5]].[7] She described this reticence as a recurring theme and "a classic earmark of their reporting."[7]
 
 7. Badlands Brief - "I'm Not a Biologist!", URL: https://badlands.substack.com/p/im-not-a-biologist
+
+## Con Inc. and the DeSantis candidacy (Carlson, May 2023)
+
+[[erik-carlson|Erik Carlson]]'s May 30, 2023 essay "The Sting" argued that [[ron-desantis|Ron DeSantis]]'s presidential run would be fatal to Con Inc.[8] Because no public figure could remain neutral between DeSantis and [[donald-trump|Trump]], Carlson wrote, Con Inc. would be compelled to declare itself, and "once they show their support for DeSantis, their ratings will tank."[8] He cited [[fox-news|FOX News]] as the precedent: the network drew huge ratings while pretending to support Trump, then fired [[tucker-carlson|Tucker Carlson]] and saw its ratings collapse.[8] Openly backing DeSantis, he concluded, would finish it — "It's over."[8]
+
+Carlson grouped Con Inc. with the [[rino|RINOs]] and [[neoconservatives|NeoCons]] as the class of actors who had "been riding the coattails of Trump" and who would, one after another over the coming weeks and months, be forced to show their true colors and reveal who funds and controls them.[8]
+
+8. Badlands Brief — "The Sting", URL: https://badlands.substack.com/p/the-sting
+
+## Cited in "The War of Stories" (December 2022)
+
+In "The War of Stories" (December 30, 2022), [[burning-bright|Burning Bright]] opened his catalogue of ongoing exposures with "the exposure of Con Inc. and its blue check charlatans," presenting it as one instance of the [[system-of-systems|System of Systems]] being revealed through the individuals fronting it — part of the process he termed the [[good-reset|'Good' Reset]].[9]
+
+9. Badlands Brief — "The War of Stories", URL: https://badlands.substack.com/p/the-war-of-stories

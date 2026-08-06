@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [television, drag, entertainment]
-sources: [raw/badlands-news-brief-c1e.md]
+sources: [raw/badlands-news-brief-c1e.md, raw/the-world-is-a-vampire-final-draft.md]
 confidence: medium
 ---
 
@@ -18,3 +18,10 @@ The show launched the career of [[shangela|Shangela]], the persona of Darius Jer
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Weaponization, Willis, and World War III", URL: https://badlands.substack.com/p/badlands-news-brief-c1e
+
+## Cited as predictive programming (2023)
+
+In "The World is a Vampire" (January 24, 2023), [[erik-carlson|Erik Carlson]] cited *RuPaul's Drag Race* as an instance of [[predictive-programming|predictive programming]], noting that the series debuted in 2009, well before what he called the transgender hysteria.[2] He argued that this hysteria began a few years later with the national public bathroom controversy and escalated to drag queen story hours in public libraries.[2]
+
+### References (continued)
+2. Badlands Brief — "The World is a Vampire", URL: https://badlands.substack.com/p/the-world-is-a-vampire-final-draft

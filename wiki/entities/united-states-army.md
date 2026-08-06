@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military, pentagon, defense-budget, force-structure]
-sources: [raw/badlands-news-brief-508.md, raw/badlands-news-brief-810.md]
+sources: [raw/badlands-news-brief-508.md, raw/badlands-news-brief-810.md, raw/why-trump-pushed-the-vax.md]
 confidence: medium
 ---
 
@@ -33,3 +33,11 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argue
 ## References
 1. Badlands News Brief — "Treasury Triumphs, TikTok U-Turns, & Trade War Time-Outs", raw/badlands-news-brief-508.md
 2. Badlands Brief — "Badlands News Brief: Trump 2024 Has the Deep State a Little Testy …", URL: https://badlands.substack.com/p/badlands-news-brief-810
+
+## Vaccine manufacturing and the SpFN candidate
+
+The Army maintains its own vaccine manufacturing capability through the [[walter-reed-army-institute-of-research|Walter Reed Army Institute of Research]] and its Pilot Bioproduction Facility, described by the service as the Department of Defense's unique small-scale manufacturing facility for vaccines and biologics.[3] The facility was offline in early 2020, emerging from a multi-year reconstruction, and staff worked to complete renovations and qualify equipment to FDA current good manufacturing practice standards in order to produce the institute's COVID-19 vaccine candidate.[3]
+
+On December 21, 2021 [[defense-one|Defense One]] reported that Army scientists expected within weeks to announce that they had developed the [[spike-ferritin-nanoparticle-vaccine|Spike Ferritin Nanoparticle]] vaccine, effective against COVID-19 and all its variants including Omicron as well as earlier SARS-origin viruses.[3] Badlands contributor [[kitty-gillespie|Kitty Gillespie]] characterises this as a "supervax" and speculates that it may have been distributed covertly, including to service members subject to vaccine mandates — a possibility she frames as foiling an enemy plan to weaken the American military.[3] Such claims are speculative and are presented by the author as such.[3]
+
+3. Badlands Brief — "Why Trump Pushed the Vax", URL: https://badlands.substack.com/p/why-trump-pushed-the-vax

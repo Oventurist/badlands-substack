@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [spygate, russiagate, special-counsel, doj, fbi]
-sources: [raw/durham-continues-to-reveal-previously.md, raw/spear-of-justice.md]
+sources: [raw/durham-continues-to-reveal-previously.md, raw/spear-of-justice.md, raw/the-trial-of-igor-danchenko-day-four.md]
 confidence: medium
 ---
 
@@ -36,7 +36,14 @@ Cates concluded that, on the public record alone, Durham could charge Clinton ca
 
 An August 2025 Badlands Media essay compared Texas Attorney General [[ken-paxton|Ken Paxton]]'s litigation sequencing to the Durham investigation, arguing that both were long-game efforts rather than attempts at a single dramatic reveal.[2] The author wrote that Durham's indictments, depositions, and final report amounted to "laying stone after stone" until the foundation could bear the weight of full exposure, constructing an evidentiary record that later state and federal cases could stand on without collapsing.[2] In this reading, both campaigns aim to ensure that when the existing structure of control finally falls, a lawful framework already exists to keep the republic standing.[2]
 
+## The Danchenko verdict and the long game
+
+The [[trial-of-igor-danchenko|trial of Igor Danchenko]] ended in October 2022 with Judge [[anthony-trenga|Anthony Trenga]] dismissing Count One and the jury acquitting on Counts Two through Five, but the Badlands account argued that a conviction was never the true measure of the case's value.[3] By its reckoning, the prosecution placed the [[fbi|FBI]] itself on trial: [[brian-auten|Brian Auten]] endured two days of hostile questioning and was revealed to be under Office of the Inspector General investigation and recommended for suspension over the [[carter-page|Carter Page]] FISA applications, while Danchenko's handler [[kevin-helson|Kevin Helson]] was likewise identified as an OIG subject.[3] The case also generated an extensive evidentiary record — interviews and testimony from Spygate figures major and minor, plus phone, email, social media and travel records — that the Special Counsel could carry into future prosecutions.[3]
+
+The investigation of [[charles-h-dolan-jr|Charles "Chuck" Dolan Jr.]], opened on the strength of information Danchenko gave the FBI and pursued through search warrants for Dolan's email, phone and social media records, was later transferred to the Durham Special Counsel, where Dolan remains a subject.[3] Special Agent [[ryan-james|Ryan James]], pulled into the Durham team in May 2021, assembled the records evidence used at trial.[3] The author likened Durham's approach to a mob prosecution — working upward through grand juries, witness stands and court filings — and argued that dismantling a criminal syndicate requires many investigations and trials, of which Danchenko was only one.[3]
+
 ## References
 
 1. Badlands Brief — "Durham Continues To Reveal Previously Undisclosed SpyGate Evidence", URL: https://badlands.substack.com/p/durham-continues-to-reveal-previously
 2. Badlands Brief — "Spear of Justice: Ken Paxton and the Bleeding Edge", URL: https://badlands.substack.com/p/spear-of-justice
+3. Badlands Brief — "The Trial of Igor Danchenko: Day Four + Verdict", URL: https://badlands.substack.com/p/the-trial-of-igor-danchenko-day-four

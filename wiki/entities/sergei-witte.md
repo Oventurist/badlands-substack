@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, american-system, railroads, political-economy]
-sources: [raw/in-defense-of-alexander-hamilton.md, raw/shadows-sovereigns-and-civil-wars.md, raw/the-enduring-legacy-of-the-entente.md]
+sources: [raw/in-defense-of-alexander-hamilton.md, raw/shadows-sovereigns-and-civil-wars.md, raw/the-enduring-legacy-of-the-entente.md, raw/trump-putin-alaska-and-the-future.md, raw/which-foreign-policy-play-for-the.md]
 confidence: medium
 ---
 
@@ -36,3 +36,16 @@ As Transport Minister and close advisor to the Czar, Witte revolutionized the Ru
 Witte named the Russian-German-French alliance for progress "The Continental League," and explained its importance to Kaiser [[wilhelm-ii|Wilhelm II]] in 1897: "we must first make all haste toward the establishment of solid united relations between Russia, Germany, and France," after which the other continental countries would join to "free Europe from the burden which she imposes on herself on account of reciprocal rivalry."[3] [[matthew-ehret|Matthew Ehret]] presents this project as the alternative order that [[edward-vii|Edward VII]] and the [[british-empire|British Empire]] destroyed through the [[entente-cordiale|Entente Cordiale]].[3]
 
 3. Badlands Brief — "The Enduring Legacy of the Entente Cordiale", URL: https://badlands.substack.com/p/the-enduring-legacy-of-the-entente
+4. Badlands Brief — "Trump, Putin, Alaska and the Future of Multipolarity", URL: https://badlands.substack.com/p/trump-putin-alaska-and-the-future
+
+## Bering Strait tunnel sponsorship
+
+[[matthew-ehret|Matthew Ehret]] writes that Witte, as Russian Prime Minister, joined Czar [[nicholas-ii|Nicholas II]] in reviving the [[bering-strait-tunnel|Bering Strait Tunnel]] project in 1906, sponsoring teams of American engineers to conduct surveys for the tunnel's construction.[4] A March 23, 1906 New York Times headline reported: "For Bering Strait Tunnel — Czar Approves Recommendation for All-Rail Route to America."[4]
+
+## The Boxer crisis and the fall of a career
+
+As Transport Minister, Witte spearheaded the development of the [[trans-siberian-railway|Trans-Siberian rail line]] between 1890 and 1905 and, during the [[boxer-rebellion|Boxer Rebellion]] of 1899–1901, tried to avoid military entanglement in China much as [[william-mckinley|William McKinley]] did in Washington.[5] When the Boxers attacked the Manchurian rail line connecting Russia to China by land, Witte succumbed to pressure and sent in troops.[5] British fears that a US–Russia alliance led by McKinley and Witte was imminent form part of [[matthew-ehret|Matthew Ehret]]'s account of the period.[5]
+
+Ehret credits Witte with articulating the qualitative case for rail development against [[alfred-thayer-mahan|Alfred Thayer Mahan]]'s naval doctrine, quoting his 1890 statement that "the railroad is like a leaven, which creates a cultural fermentation among the population. Even if it passed through an absolutely wild people along its way, it would raise them in a short time to the level requisite for its operation."[5] The 1902 Anglo-Japan Treaty led to the disastrous [[russo-japanese-war|Japan-Russo war]] of 1905, which devastated the Russian navy, ended Witte's political career and threw Russia into the chaos that led to the fall of the Romanovs.[5]
+
+5. Badlands Brief — "Which Foreign Policy Play for the USA?", URL: https://badlands.substack.com/p/which-foreign-policy-play-for-the

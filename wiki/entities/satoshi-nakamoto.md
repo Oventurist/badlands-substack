@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [bitcoin, satoshi, anonymity, cryptocurrency]
-sources: [raw/are-we-entering-the-millennial-reign.md, raw/revolution-founded-at-the-crossroads.md, raw/the-covfefe-dig.md]
+sources: [raw/are-we-entering-the-millennial-reign.md, raw/revolution-founded-at-the-crossroads.md, raw/the-covfefe-dig.md, raw/trust-the-plan.md]
 confidence: medium
 ---
 
@@ -34,7 +34,14 @@ Satoshi is credited with knowing that his mission — revealing the discovery, s
 
 It further recounts that Nakamoto created the genesis block on 3 January 2009 in a closed environment before releasing the software publicly on 9 January 2009 via SourceForge, and that the Bitcoin white paper had appeared on 10/31/2008.[3] [[melania-trump|Melania Trump]] is quoted marking the thirteenth anniversary of the genesis block in January 2022 with the hashtag #SatoshiNakamoto.[3] The dig groups Nakamoto with [[qanon|Q]] and the RAREPEPE creator "Mike" as anonymous figures central to the story.[3]
 
+## On trust in the whitepaper
+
+A July 11, 2024 Badlands Media essay on the exploitation of trust observed that *Bitcoin: A Peer-to-Peer Electronic Cash System*, released October 31, 2008, uses the term "trust" fourteen times across its nine pages, of which two to three are references, equations and graphics.[4] It quoted Satoshi's diagnosis that "commerce on the Internet has come to rely almost exclusively on financial institutions serving as trusted third parties to process electronic payments," a system that "works well enough for most transactions" but "still suffers from the inherent weaknesses of the trust based model."[4]
+
+The essay treated Satoshi's proposed remedy as the decisive move: "what is needed is an electronic payment system based on cryptographic proof instead of trust, allowing any two willing parties to transact directly with each other without the need for a trusted third party," with irreversible transactions protecting sellers from fraud and routine escrow mechanisms protecting buyers, solving the double-spending problem through a peer-to-peer distributed timestamp server.[4] In the author's summary, Bitcoin removes the need to trust — it is trust-less.[4] He also noted that on November 6, 2008 at 3:15 PM Satoshi referred to winning a major battle in the arms race to gain new territory for freedom.[4] See [[bitcoin|Bitcoin]] and [[softwar|Softwar]].[4]
+
 ## References
 1. Badlands Brief — "Are We Entering the Millennial Reign?", URL: https://badlands.substack.com/p/are-we-entering-the-millennial-reign
 2. Badlands Brief — "Revolution Founded at the Crossroads", URL: https://badlands.substack.com/p/revolution-founded-at-the-crossroads
 3. Badlands Brief — "The COVFEFE Dig", URL: https://badlands.substack.com/p/the-covfefe-dig
+4. Badlands Brief — "TRUST: The Plan", URL: https://badlands.substack.com/p/trust-the-plan

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [philanthropy, dark-money, ngos, bill-gates]
-sources: [raw/badlands-news-brief-5d5.md, raw/child-sacrifice-as-a-pillar-of-deep.md, raw/structures-of-control-part-2.md, raw/the-latest-in-technocratic-nightmares.md, raw/the-ivy-web.md]
+sources: [raw/badlands-news-brief-5d5.md, raw/child-sacrifice-as-a-pillar-of-deep.md, raw/structures-of-control-part-2.md, raw/the-latest-in-technocratic-nightmares.md, raw/the-ivy-web.md, raw/the-whos-last-stand.md]
 confidence: medium
 ---
 
@@ -43,3 +43,9 @@ Badlands Media reported that the Gates Foundation boosted Kenya's [[maisha-namba
 Badlands Media's "The Ivy Web" argues that the researchers who framed pandemic recommendations to the [[world-health-organization|World Health Organization]] through [[harvard-university|Harvard]]'s public health institutions "were not neutral scientists," noting that many were under contract with Gates Foundation initiatives, [[gavi|GAVI]], or consulting arms such as the McKinsey Global Institute.[5] The recommendations in question included behavioral nudging frameworks to increase vaccine uptake, justification models for quarantine extension, and algorithmic impact assessments for misinformation response.[5]
 
 5. Badlands Brief — "The Ivy Web", URL: https://badlands.substack.com/p/the-ivy-web
+
+## WHO funding influence
+
+Badlands Media's "The WHO's Last Stand" argued that combined donations from the Gates Foundation and [[bill-gates|Bill Gates]]'s other organizations, including [[gavi|GAVI the Vaccine Alliance]], make Gates the largest funder of the [[world-health-organization|World Health Organization]].[6] Because a majority of WHO funding is "specified" and cannot be redirected to where it is most needed, the article contended that such funders effectively determine what the organization does and how it does it.[6]
+
+6. Badlands Brief — "The WHO's Last Stand", URL: https://badlands.substack.com/p/the-whos-last-stand

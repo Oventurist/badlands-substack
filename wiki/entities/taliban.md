@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [afghanistan, terrorism, weapons-trafficking]
-sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-509.md, raw/badlands-brief-c2d.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-b40.md, raw/badlands-news-brief-b6c.md, raw/badlands-news-brief-bbb.md, raw/badlands-news-brief-e48.md, raw/badlands-news-brief-f18.md, raw/badlands-news-brief-f61.md, raw/operation-cyclone-the-seeds-of-terror.md]
+sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-509.md, raw/badlands-brief-c2d.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-b40.md, raw/badlands-news-brief-b6c.md, raw/badlands-news-brief-bbb.md, raw/badlands-news-brief-e48.md, raw/badlands-news-brief-f18.md, raw/badlands-news-brief-f61.md, raw/operation-cyclone-the-seeds-of-terror.md, raw/war-pigs.md, raw/who-is-the-real-enemy.md, raw/women-children-and-terror.md]
 confidence: medium
 ---
 
@@ -123,6 +123,14 @@ Badlands Media traces the Taliban directly to [[operation-cyclone|Operation Cycl
 
 The movement also inherited the American-produced Afghan school primers filled with talk of jihad and drawings of guns, bullets, soldiers and mines; the Taliban used the U.S.-funded textbooks, scratching out human faces in keeping with its strict fundamentalist code.19 Asked in 1998 whether he regretted an operation that had indisputably led to the creation of the Taliban, [[zbigniew-brzezinski|Zbigniew Brzezinski]] responded: "What is more important in world history? The Taliban or the collapse of the Soviet empire?"19 The article closes that thread by asking why the Biden administration was still funneling taxpayer dollars to Taliban-controlled [[afghanistan|Afghanistan]].19
 
+## Cited in the War Pigs blowback argument
+
+"War Pigs" groups the Taliban with [[al-qaeda|al-Qaeda]] as organisations whose intense hostility toward the United States, Badlands Media argues, was rooted in decades of American violence in the Middle East rather than in objections to Western social freedoms.[20] The publication contends that the post-9/11 federal order barring broadcasts of [[osama-bin-laden|Osama bin Laden]] interviews served to keep that explanation out of public view.[20]
+
+## The $83 billion equipment claim (October 2023)
+
+In "Women, Children ... and Terror," [[erik-carlson|Erik Carlson]] cited as one of the facts newly awakening Americans that [[joe-biden|Biden]] "allowed the Taliban to take $83 billion in US military equipment," placing it alongside the $6 billion freed to [[iran|Iran]] a month before the October 2023 [[hamas|Hamas]] attack on [[israel|Israel]].[22]
+
 ## References
 
 
@@ -145,3 +153,13 @@ The movement also inherited the American-produced Afghan school primers filled w
 17. Badlands Brief — "Corruption, Mad Science & Colombian Defiance", URL: https://badlands.substack.com/p/badlands-news-brief-f18
 18. Badlands Brief — "Badlands News Brief: Special Counsels, Island Fires & White Pills", URL: https://badlands.substack.com/p/badlands-news-brief-f61
 19. Badlands Brief — "Operation Cyclone - The Seeds of Terror", URL: https://badlands.substack.com/p/operation-cyclone-the-seeds-of-terror
+20. Badlands Brief — "War Pigs", URL: https://badlands.substack.com/p/war-pigs
+
+## Pakistani sanctuary and CIA sponsorship
+
+"Who Is The Real Enemy?" argues that the Taliban was funded, trained and protected in [[pakistan|Pakistan]] by the [[central-intelligence-agency|CIA]].[21] Former Afghan president [[hamid-karzai|Hamid Karzai]] told Der Spiegel that when extremist attacks began in [[afghanistan|Afghanistan]] around 2005 and 2006, his government told the United States that the attacks were being organized by intelligence in Pakistan and carried out by the Taliban, and that Washington independently confirmed both that the violence came from Pakistan and that the Taliban's sanctuaries were there.[21]
+
+Rather than address that root cause, Karzai said, Washington began funding Pakistan's military — the same military the article identifies as facilitating the CIA drug trafficking operation.[21] Karzai described the resulting policy as supporting both sides of the conflict simultaneously: dropping bombs on Afghan villages to fight the Taliban while funding the country accused of organizing Taliban terror campaigns, at a cost of thousands of Afghan lives.[21] Asked whether Pakistan's intelligence service or the Taliban would decide on war or peace, Karzai replied that the Taliban are also Afghans and expressed hope they would stand up to foreign influences.[21]
+
+21. Badlands Brief — "Who Is The Real Enemy?", URL: https://badlands.substack.com/p/who-is-the-real-enemy
+22. Badlands Brief — "Women, Children ... and Terror", URL: https://badlands.substack.com/p/women-children-and-terror

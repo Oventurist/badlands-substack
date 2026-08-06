@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fbi, arctic-frost, lawfare, january-6]
-sources: [raw/badlands-news-brief-060.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-780.md, raw/badlands-news-brief-79c.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b39.md, raw/badlands-news-brief-bcc.md, raw/badlands-news-brief-c44.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-d06.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-f0e.md, raw/badlands-news-brief-f32.md, raw/irregular-warfare.md, raw/purple-revolution.md, raw/q-for-dummies-chapter-17.md, raw/setting-the-stage.md]
+sources: [raw/badlands-news-brief-060.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-780.md, raw/badlands-news-brief-79c.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b39.md, raw/badlands-news-brief-bcc.md, raw/badlands-news-brief-c44.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-d06.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-f0e.md, raw/badlands-news-brief-f32.md, raw/irregular-warfare.md, raw/purple-revolution.md, raw/q-for-dummies-chapter-17.md, raw/setting-the-stage.md, raw/the-wuhan-lab-leak-hoax.md, raw/trump-cuts-the-head-off-the-snake.md]
 confidence: medium
 ---
 
@@ -178,3 +178,17 @@ The author offers three readings of Wray: that he was wholly ignorant of what hi
 Chapter 17 of the [[q-for-dummies|Q for Dummies]] series notes that Wray also served under [[george-w-bush|George W. Bush]], and argues it is very possible that he knows the truth about the Bush family, [[saudi-arabia|Saudi Arabia]] and [[september-11-attacks|9/11]].[24] The chapter recalls Q's instruction to "Trust Wray" and leaves the question of whether that instruction will prove justified explicitly open, saying only that time will tell.[24]
 
 The same drop's reference to FOIA releases is read as concerning documents relating to the investigation of [[hillary-clinton|Hillary Clinton]] and her emails; the chapter judges that nothing huge was contained in those releases but suggests the release itself may have prevented the documents from remaining permanently hidden.[24]
+
+26. Badlands Brief — "The Wuhan Lab Leak Hoax", URL: https://badlands.substack.com/p/the-wuhan-lab-leak-hoax
+
+## Advocacy of the Wuhan lab leak hypothesis
+
+Under [[joe-biden|Joe Biden]], Wray as FBI Director "crusaded to 'educate'" Americans about the [[lab-leak-theory|Wuhan lab leak]], according to [[matthew-ehret|Matthew Ehret]].[26] Ehret lists him alongside [[tucker-carlson|Tucker Carlson]] and [[steve-bannon|Steve Bannon]] as figures whose sustained promotion of the theory helped make it a bipartisan consensus across mainstream and alternative media in the western world.[26]
+
+In Ehret's reading this convergence is itself evidence of a coordinated perception-management campaign directing blame toward China and away from the [[pentagon|Pentagon's]] internationally extended bioweapons laboratories.[26]
+
+## In "Trump Cuts the Head off the Snake"
+
+Joe Lange presents Wray as significant to the Middle East campaign because he specialises in money-laundering investigations, and cites Q drop 2555 as evidence of his role in what Lange calls the war against the cabal.[27] Lange states his opinion that Wray "is a patriot and doing exactly what Trump needs him to do," a reading tied to his broader claim that the wars in the Middle East functioned as a laundering vehicle for the military industrial complex and for [[alwaleed-bin-talal|Alwaleed bin Talal]].[27]
+
+27. Badlands Brief — "Trump Cuts the Head off the Snake", URL: https://badlands.substack.com/p/trump-cuts-the-head-off-the-snake

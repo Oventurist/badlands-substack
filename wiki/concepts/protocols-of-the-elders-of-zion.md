@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [forgery, antisemitism, occultism, propaganda, russia, theosophy]
-sources: [raw/real-patriots-dont-think-like-hitler.md, raw/real-patriots-dont-think-like-hitler-d42.md]
+sources: [raw/real-patriots-dont-think-like-hitler.md, raw/real-patriots-dont-think-like-hitler-d42.md, raw/why-i-just-dont-trust-elon-musk.md]
 confidence: medium
 ---
 
@@ -28,6 +28,10 @@ Livingstone next cites *Warrant for Genocide*, which dissected the forgery in de
 
 Ehret argues that many pro-Nazi narratives now dominating parts of the alternative media rely on the Protocols as their evidentiary keystone, citing the ten-part neo-Nazi series [[europa-the-last-battle|*Europa: The Last Battle*]] and the film *Occupied* produced by [[stew-peters|Stew Peters]].[1] He contends that this simplistic equation — that Jews are the source of all evil — logically rehabilitates every historically anti-Jewish movement, from the Crusader Knights to the Nazi movement of the 20th century, and is amplified by heavy propaganda, historical revisionism, and the genuinely destructive conduct of Israel's Likudnik elite pursuing a Greater Israel program.[1] Similar narratives of "Jewish bankers undermining the noble honest royal families of Europe" were advanced, he writes, by occultists such as [[nesta-webster|Nesta Webster]], Papus, [[winston-churchill|Winston Churchill]], [[aleister-crowley|Aleister Crowley]], [[alice-bailey|Alice Bailey]], and [[george-sylvester-viereck|George Sylvester Viereck]].[1]
 
+## Distribution by the Social Credit Party
+
+Badlands Media contributor [[matthew-ehret|Matthew Ehret]] writes that the [[social-credit-party-of-canada|Social Credit Party]] of [[joshua-haldeman|Joshua Haldeman]] was the first and only Canadian political party to publish and widely distribute the Protocols, and that in Quebec its leadership issued the text in French and collaborated for a time with the Nazi leader [[adrien-arcand|Adrien Arcand]].[3] He argues that under the lead of [[c-h-douglas|Major C. H. Douglas]] the party took control of the conspiracy narratives circulating between the 1920s and 1950s and redirected attention away from royal bloodlines and esoteric mystery cults toward a blanket blame on "Jew Bankers running the world."[3] Ehret describes the document as a forgery and characterizes its origin as an Okhrana-Theosophy operation to destroy Russia, noting that it was promoted by virtually every fascist of the early twentieth century, including [[alfred-richard-orage|A. R. Orage]] and [[aleister-crowley|Aleister Crowley]].[3]
+
 ## References
 
 1. Badlands Brief — "Real Patriots Don't Think Like Hitler - Part 1", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler
@@ -37,3 +41,4 @@ Ehret argues that many pro-Nazi narratives now dominating parts of the alternati
 ## Circulation in the United States
 
 Part 5 of the series states that [[william-dudley-pelley|William Dudley Pelley]] of the [[silver-shirts|Silver Shirts]] reproduced Protocols of Zion leaflets that were mailed out through Congressional offices under the direction of [[george-sylvester-viereck|George Sylvester Viereck]] during World War II.[2] [[matthew-ehret|Matthew Ehret]] further argues that Viereck's 1932 book The Strangest Friendship in History popularized the forgery within American conspiracy research, shaping the field for the following ninety years while diverting attention from the British imperial agencies and occultists Ehret holds responsible for the American deep state.[2]
+3. Badlands Brief — "Why I Just Don't Trust Elon Musk", URL: https://badlands.substack.com/p/why-i-just-dont-trust-elon-musk

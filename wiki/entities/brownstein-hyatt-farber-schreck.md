@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [law-firms, lobbying, elections, colorado]
-sources: [raw/badlands-news-brief-8cb.md]
+sources: [raw/badlands-news-brief-8cb.md, raw/trials-tribulations-and-a-long-train.md]
 confidence: low
 ---
 
@@ -16,6 +16,11 @@ Brownstein, Hyatt, Farber and Schreck (BHFS) is a law and lobbying firm identifi
 
 BHFS is the registered lobbyist for [[dominion-voting-systems|Dominion Voting Systems]], the voting equipment vendor at the center of disputes over the 2020 election.[1] Writing in January 2024, [[ashe-in-america|Ashe in America]] pointed to the firm's simultaneous representation of the state Republican Party in ballot-access litigation and its lobbying work for Dominion as an illustration that "things are weirdly incestuous in our elections industry," arguing for stripping special interests and profit motivations out of election administration in favor of locally controlled precinct-level elections.[1]
 
+## Role in the Colorado ballot appeal
+
+The firm, through attorney [[chris-murray|Chris Murray]], represented the [[colorado-republican-party|Colorado Republican Party]] in its successful petition for [[supreme-court-of-the-united-states|Supreme Court]] review of the state's ballot-disqualification ruling, granted January 5, 2024.[2] [[ashe-in-america|Ashe in America]] noted that the firm is the registered lobbyist for [[dominion-voting-systems|Dominion Voting Systems]], calling the overlap evidence that "things are weirdly incestuous in our elections industry" and saying she remained surprised the firm was fighting the case at all.[2]
+
 ## References
 
 1. Badlands Brief — "SCOTUS Enters the Fray as Biden Barks at MAGA Hats", URL: https://badlands.substack.com/p/badlands-news-brief-8cb
+2. Badlands Media - "Trials, Tribulations & a Long Train of Abuses", URL: https://badlands.substack.com/p/trials-tribulations-and-a-long-train

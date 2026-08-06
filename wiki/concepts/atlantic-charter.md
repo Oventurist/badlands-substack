@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [fdr, international-law, four-freedoms, world-war-ii]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/understanding-the-soul-of-china.md]
 confidence: medium
 ---
 
@@ -22,3 +22,9 @@ In Ehret's telling these same universal freedoms were restated in the [[universa
 
 ## References
 1. Badlands Brief — "A Gateway to a New World of Cooperation", URL: https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation
+
+## Wallace and the post-war design
+
+[[matthew-ehret|Matthew Ehret]] writes that [[henry-wallace|Henry A. Wallace]] worked closely with [[franklin-d-roosevelt|FDR]] and other New Deal Democrats to shape the 1942 Atlantic Charter — enshrining principles of global peace and cooperation into a sort of constitution — alongside the [[bretton-woods-system|Bretton Woods System]], in order to internationalize the success of the New Deal in the post-war world.[2] With FDR's death in April 1945 that plan did not unfold, and the United States instead adopted the [[truman-doctrine|Truman Doctrine]], containment and proxy wars.[2]
+
+2. Badlands Brief — "Understanding the Soul of China", URL: https://badlands.substack.com/p/understanding-the-soul-of-china

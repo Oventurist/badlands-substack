@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [psychiatry, gender-dysphoria, canada, medicine]
-sources: [raw/badlands-news-brief-eca.md]
+sources: [raw/badlands-news-brief-eca.md, raw/these-3-events-expose-gender-ideology.md]
 confidence: medium
 ---
 
@@ -27,3 +27,9 @@ Writing for [[badlands-media|Badlands Media]], contributor [[absolutetruth1776|A
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Credit Suisse, Escalation & the Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-eca
+
+## Toronto desistance study
+
+Susan J. Bradley is identified in Badlands Media coverage as one of three researchers — with Devita Singh and [[kenneth-zucker|Kenneth J. Zucker]] — who conducted the [[toronto-desistance-study|Toronto desistance study]] out of the [[centre-for-addiction-and-mental-health|Centre for Addiction and Mental Health]], beginning in Toronto in 1975.[2] The study followed 139 birth-assigned males referred for [[gender-dysphoria|gender dysphoria]] between the ages of three and twelve, and reported follow-up data described by the authors as the largest sample to date of boys clinic-referred for gender dysphoria.[2] Its published results classified 17 participants (12.2%) as persisters and the remaining 122 (87.8%) as desisters.[2]
+
+2. Badlands Brief — "These 3 Events Expose Gender Ideology", URL: https://badlands.substack.com/p/these-3-events-expose-gender-ideology

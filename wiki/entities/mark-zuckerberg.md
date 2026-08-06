@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [meta, facebook, big-tech, free-speech, trump]
-sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-143.md, raw/badlands-brief-52b.md, raw/badlands-brief-bce.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-a0c.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-f54.md, raw/badlands-news-brief-f61.md, raw/big-tech-climbing-aboard-the-trump.md, raw/the-censorship-war-counteroffensive.md, raw/the-cia-is-being-thrown-under-the.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-143.md, raw/badlands-brief-52b.md, raw/badlands-brief-bce.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-a0c.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-f54.md, raw/badlands-news-brief-f61.md, raw/big-tech-climbing-aboard-the-trump.md, raw/the-censorship-war-counteroffensive.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-multinational-offensive-against.md, raw/the-tiktok-ban.md]
 confidence: medium
 ---
 
@@ -151,3 +151,15 @@ In "The CIA is Being Thrown Under the Bus," Erik Carlson notes [[donald-trump|Do
 Carlson asserts that both Facebook and Google are [[darpa|DARPA]] creations used by the agency to monitor and control people, linking the claim to [[mike-benz|Mike Benz]]'s account — given in an interview with [[tucker-carlson|Tucker Carlson]] — of how the agency created and uses the two platforms to censor Americans.[22]
 
 22. Badlands Brief — "The CIA is Being Thrown Under the Bus", URL: https://badlands.substack.com/p/the-cia-is-being-thrown-under-the
+
+## Named as a potential target of platform-liability prosecutions (2024)
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] asked what would stop authorities from applying the complicity theory used against [[pavel-durov|Pavel Durov]] to Mark Zuckerberg or [[elon-musk|Elon Musk]] if the French charges were allowed to stick.[23] Under that theory, the operator of a social media platform can be held criminally liable for the criminal acts of anybody who uses the platform — a precedent DeLarme said the indictment was designed to establish.[23]
+
+23. Badlands Brief — "The Multinational Offensive Against Free Speech Online", URL: https://badlands.substack.com/p/the-multinational-offensive-against
+
+24. Badlands Brief — "The TikTok Ban", URL: https://badlands.substack.com/p/the-tiktok-ban
+
+## Cited in Trump's opposition to the TikTok ban (2024)
+
+In April 2024, [[donald-trump|Donald Trump]] explained his reversal on the [[tiktok-ban|TikTok ban]] by arguing that prohibiting the app would make Zuckerberg twice as powerful and hand him more "Zuckerbucks" to spend on stealing the 2024 election, as Trump said Zuckerberg had done with millions of dollars in 2020.[24] Badlands Media contributor [[erik-carlson|Erik Carlson]] endorsed the reasoning, presenting it as evidence that Trump now regarded an enlarged [[meta-platforms|Meta]] — through expanded use of Facebook and Instagram — as a greater threat than [[tiktok|TikTok]] itself.[24] Carlson added, as a point of comparison, that Meta stock had risen 56 percent since [[joe-biden|Joe Biden]] took office while Tesla had fallen 40 percent over the same period.[24]

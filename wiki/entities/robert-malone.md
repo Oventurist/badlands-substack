@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [mrna, covid-19-vaccines, big-pharma, clinical-trials]
-sources: [raw/badlands-news-brief-68f.md]
+sources: [raw/badlands-news-brief-68f.md, raw/the-unreality-paradox.md, raw/triggering-mass-psychosis.md]
 confidence: low
 ---
 
@@ -22,3 +22,17 @@ In a January 2023 Substack essay on what happens to vaccine clinical trial parti
 
 ## References
 1. Badlands News Brief — "Bidens, UFOs and Vaccines", URL: https://badlands.substack.com/p/badlands-news-brief-68f
+
+## Credited with Mass Formation Psychosis
+
+[[burning-bright|Burning Bright]]'s November 30, 2022 essay "The Unreality Paradox" credited Dr. Malone with the concept of [[mass-formation-psychosis|Mass Formation Psychosis]], invoking it as the mechanism by which the [[media-industrial-complex|Media Industrial Complex]] has programmed generations of Americans into successive paradigms ranging from pro-war jingoism to guided socialist backlashes.[2]
+
+2. Badlands Brief — "The Unreality Paradox", URL: https://badlands.substack.com/p/the-unreality-paradox
+
+## Joe Rogan appearance and mass formation psychosis (February 2022)
+
+A January 20, 2023 Badlands Media essay by [[justin-deschamps|Justin Deschamps]] recorded that after Malone's February 2022 appearance on the [[joe-rogan|Joe Rogan]] podcast, the mainstream media propaganda machine worked tirelessly to discredit the idea of [[mass-formation-psychosis|mass formation psychosis]].[3] The essay argued that the effort was motivated by the accuracy of the phrase in describing the effect globalist propagandists had on unwitting masses recruited as pawns for the COVID policy machine.[3]
+
+Deschamps read Malone's usage as implying two things: that the people had been weaponized, and that those who caused it were as bad as the Nazis — an implication he judged accurate and therefore a major threat to the pandemic industrial complex.[3] He also noted Malone's suggestion that the public had been effectively hypnotized by propaganda, a framing that highlights the hypnotist as the perpetrator rather than blaming the hypnotized.[3] Taken together with the ideas associated with the term, Malone's comparison amounted to a damning indictment of the media, government, COVID policy and everyone who supported it.[3]
+
+3. Badlands Brief — "Triggering Mass Psychosis", URL: https://badlands.substack.com/p/triggering-mass-psychosis

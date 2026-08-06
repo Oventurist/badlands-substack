@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, january-6, investigations, republican]
-sources: [raw/badlands-brief-9ac.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-d56.md]
+sources: [raw/badlands-brief-9ac.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-d56.md, raw/transparency-and-prosecution.md]
 confidence: low
 ---
 
@@ -38,3 +38,11 @@ Kinzinger appeared on the June 2024 episode of *Real Time With Bill Maher* on wh
 3. Badlands Brief — "Trump Trifecta, COVID Concealment & Sorosian Slime", URL: https://badlands.substack.com/p/badlands-news-brief-5a7
 4. Badlands Brief — "Badlands News Brief: Trump's Slings and Arrows ... Hunter's Threats", URL: https://badlands.substack.com/p/badlands-news-brief-ba4
 5. Badlands Brief — "Badlands News Brief: DHS Dogma, Israeli Escalation and an OG's Return", URL: https://badlands.substack.com/p/badlands-news-brief-d56
+
+## Syria delegations and the treason allegation
+
+The Badlands Media feature "Transparency and Prosecution" names Kinzinger as the second congressman implicated alongside [[john-mccain|John McCain]] in the Syria trips organized by [[mouaz-moustafa|Mouaz Moustafa]].[6] Citing a World Bank biography of Moustafa, the article records that while directing the [[syrian-emergency-task-force|Syrian Emergency Task Force]] he led lawmakers to the Syrian border, including a 2014 visit by Kinzinger and Representative Holding with various [[free-syrian-army|Free Syrian Army]] commanders in Antakya, Turkey.[6]
+
+The author, [[joe-lange|Joe Lange]], describes Kinzinger as "another backstabbing Republican traitor, just like John McCain," notes that he had never heard of him before Trump's election and that Kinzinger rapidly became one of [[donald-trump|Trump]]'s loudest critics, and asserts as a general rule that Trump's loudest critics are the biggest traitors.[6] The article frames both men's conduct through the federal offence of [[seditious-conspiracy|seditious conspiracy]] under 18 U.S.C. § 2384, dwelling on the statutory word "knowingly."[6]
+
+6. Badlands Brief — "Transparency and Prosecution", URL: https://badlands.substack.com/p/transparency-and-prosecution

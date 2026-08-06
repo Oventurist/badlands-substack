@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, wire-service, journalism, legacy-media]
-sources: [raw/badlands-brief-6b4.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-e44.md]
+sources: [raw/badlands-brief-6b4.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-e44.md, raw/the-multinational-offensive-against.md, raw/these-3-events-expose-gender-ideology.md]
 confidence: medium
 ---
 
@@ -50,3 +50,15 @@ Reuters reported on July 23, 2024 that [[donald-trump|Donald Trump]] would host 
 5. Badlands News Brief — "Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f
 6. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93
 7. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44
+
+## Reporting on the Turkish Discord ban (October 2024)
+
+Reuters reported on October 9, 2024 that [[turkey|Turkey]]'s Information Technologies and Communication Authority had published an access-ban decision against [[discord|Discord]] on its website, quoting transport and infrastructure minister Abdulkadir Uraloglu's statement that authorities were forced to block access because the platform refused to share its information, including IP addresses and content, with Turkish security units.[8] Badlands contributor [[ryan-delarme|Ryan DeLarme]] excerpted the report as evidence of the accelerating trend of state action against communications platforms.[8] Reuters had likewise reported the arrest of [[telegram|Telegram]] chief executive [[pavel-durov|Pavel Durov]] in France on August 24, 2024.[8]
+
+8. Badlands Brief — "The Multinational Offensive Against Free Speech Online", URL: https://badlands.substack.com/p/the-multinational-offensive-against
+
+## Gender dysphoria data reporting
+
+A Reuters special report on transgender youth cited by Badlands contributor [[simon-esler|Simon Esler]] presented data compiled by the health-analytics firm Komodo stating that "in 2021, about 42,000 children and teens across the United States received a diagnosis of gender dysphoria, nearly triple the number in 2017."[9] Esler used the figure, alongside a reported 4,000% rise between 2010 and 2018 in girls seeking gender treatment in the United Kingdom, as evidence of a sudden and massive change in the psychological landscape of girls in the Western world.[9]
+
+9. Badlands Brief — "These 3 Events Expose Gender Ideology", URL: https://badlands.substack.com/p/these-3-events-expose-gender-ideology

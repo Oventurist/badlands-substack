@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [russia, communism, history, cabal]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-virus-or-a-metaphor.md, raw/rainbow-color-revolution.md, raw/shadows-sovereigns-and-civil-wars.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-virus-or-a-metaphor.md, raw/rainbow-color-revolution.md, raw/shadows-sovereigns-and-civil-wars.md, raw/triggering-mass-psychosis.md, raw/who-are-the-true-puppet-masters.md]
 confidence: low
 ---
 
@@ -45,3 +45,17 @@ Badlands Media coverage attributes much of the revolution's financing to Western
 Journalist [[george-kennan|George Kennan]] acted as perception manager, distributing revolutionary propaganda to Russian prisoners of war in Japan and claiming that 50,000 officers and men returned home as "ardent revolutionists."[4] New York Federal Reserve director [[william-boyce-thompson|William Boyce Thompson]], installed as head of the [[american-red-cross|American Red Cross]] in Petrograd, gave one million rubles to the Social Revolutionaries and $1,000,000 to the Bolsheviks for propaganda in Germany and Austria while reporting directly to President Wilson.[4] Historian Arsene de Goulevitch recorded that over 21 million rubles were spent by [[alfred-milner|Lord Alfred Milner]] in financing the revolution.[4] [[leon-trotsky|Leon Trotsky]], arrested in Canada with Wall Street funds while returning to Russia, was freed through the direct intervention of [[claude-dansey|Claude Dansey]].[4]
 
 4. Badlands Brief — "Shadows, Sovereigns and Civil Wars - Part 1", URL: https://badlands.substack.com/p/shadows-sovereigns-and-civil-wars
+
+## Cited as a media-fueled mass psychosis (January 2023)
+
+[[justin-deschamps|Justin Deschamps]]'s January 20, 2023 essay grouped the 1917 Bolshevik revolution with China's 1966 Cultural Revolution and Ukraine's 2014 Revolution of Dignity as movements fueled and supported by mass media and the spread of self-reinforcing negative information.[5] Each, he wrote, capitalized on public discontent with the existing order using populist ideologues who encouraged dissent against the establishment, and most such [[color-revolution|color-style revolutions]] involved government- or internationally-sponsored intelligence agency support.[5]
+
+5. Badlands Brief — "Triggering Mass Psychosis", URL: https://badlands.substack.com/p/triggering-mass-psychosis
+
+## Cited in "Who are the True Puppet Masters?" (July 2023)
+
+[[erik-carlson|Erik Carlson]] presents both Russian revolutions as British operations.[6] In 1905 England funded Japan to go to war against Russia, destroying the majority of the Russian navy, and then funded and orchestrated the first Russian Revolution; it failed, and many of the communist revolutionaries fled to Germany where, some believe, they began the slow process of creating the Nazi Party.[6]
+
+In 1917 England funded and orchestrated a second revolution that succeeded.[6] Carlson writes that the King of England essentially had his first cousin, the Czar of Russia, and his family murdered, and that England openly expressed support for the Bolsheviks — King George, Prime Minister Lloyd George and "Marx fanboy" Secretary of War Lord [[alfred-milner|Alfred Milner]] preferring [[communism|Communism]] to the Russian monarch.[6] The Bolsheviks were led by Lenin and by the British-controlled asset [[leon-trotsky|Trotsky]], and after a bloody civil war the [[soviet-union|Soviet Union]] was created, to be used first as an ally and later as an adversary of England and the West.[6] Carlson attributes the motive to a British grudge against the Russian monarchy for its intervention during the [[american-civil-war|American Civil War]].[6]
+
+6. Badlands Brief — "Who are the True Puppet Masters?", URL: https://badlands.substack.com/p/who-are-the-true-puppet-masters

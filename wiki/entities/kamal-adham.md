@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [saudi-arabia, intelligence, bcci, cia]
-sources: [raw/profiting-from-war.md, raw/shifting-the-narrative.md]
+sources: [raw/profiting-from-war.md, raw/shifting-the-narrative.md, raw/who-is-the-real-enemy.md]
 confidence: low
 ---
 
@@ -32,3 +32,11 @@ In July 1992, New York City prosecutors told Adham's lawyers that their client w
 Badlands contributor [[joe-lange|Joe Lange]] treats the settlement as a de facto admission of guilt, and notes that beyond money laundering Adham served as one of the wealthy Arab front men BCCI used to purchase [[first-american-bankshares|First American Bank]], the largest bank in Washington, D.C.[2] He also emphasizes Adham's residence in Jidda — also rendered Jeddah — as a significant data point connected to many other threads.[2] Because Adham was the CIA's Middle East liaison and a Bush associate, Lange concludes that "BCCI was a George H.W. Bush operation" in which all the major players had ties to Bush and the agency.[2]
 
 2. Badlands Brief — "Shifting the Narrative", URL: https://badlands.substack.com/p/shifting-the-narrative
+
+## BCCI shareholder and Casey's Saudi counterpart
+
+"Who Is The Real Enemy?" names Kamal Adham, alongside [[turki-al-faisal|Prince Turki al-Faisal]], as one of the Saudi intelligence chiefs who met with [[central-intelligence-agency|CIA]] Director [[william-casey|William Casey]] and General [[muhammad-zia-ul-haq|Zia]] in [[pakistan|Pakistan]], in meetings arranged by [[bank-of-credit-and-commerce-international|BCCI]] head [[agha-hasan-abedi|Agha Hasan Abedi]].[3] Both Adham and Turki were BCCI shareholders.[3]
+
+The article identifies three intelligence services as jointly running the BCCI operation: the CIA and the services of Saudi Arabia and Pakistan.[3]
+
+3. Badlands Brief — "Who Is The Real Enemy?", URL: https://badlands.substack.com/p/who-is-the-real-enemy

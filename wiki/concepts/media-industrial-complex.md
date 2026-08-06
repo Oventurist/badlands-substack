@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [media, narrative, censorship, information-war, maga]
-sources: [raw/all-assets-deployed.md, raw/badlands-blitz-episode-19.md, raw/badlands-brief-257.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-e7c.md, raw/death-blossom.md, raw/empires-enigma.md]
+sources: [raw/all-assets-deployed.md, raw/badlands-blitz-episode-19.md, raw/badlands-brief-257.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-e7c.md, raw/death-blossom.md, raw/empires-enigma.md, raw/the-unreality-paradox.md, raw/the-two-chinas.md, raw/the-war-of-stories.md, raw/you-are-a-horrible-person.md]
 confidence: medium
 ---
 
@@ -80,3 +80,33 @@ In "Empire's Enigma," [[burning-bright|Burning Bright]] observed that the same m
 The essay also urged readers to examine the narratives the internationally aligned complex advances about every player on the game board rather than the rhetoric of leaders themselves, arguing that actual events must map onto narratives for the latter to hold weight.[8] Burning Bright noted that the complex's "threat to our Democracy" refrain is applied to Trump, [[vladimir-putin|Putin]], [[jair-bolsonaro|Jair Bolsonaro]] and Xi alike, and suggested that in each case the accusation may be accurate with respect to the accusers' own designs.[8]
 
 8. Badlands Brief — "Empire's Enigma", URL: https://badlands.substack.com/p/empires-enigma
+
+## Decades of narrative programming (November 2022)
+
+In "The Unreality Paradox," [[burning-bright|Burning Bright]] wrote that the complex — dubbed the "Fake News" at turns affectionately and venomously by [[donald-trump|Donald Trump]] — had been weaving a complex, obfuscating web of lies for decades while wielding the considerable might of [[mass-formation-psychosis|Mass Formation Psychosis]] to program generations of Americans into successive paradigms, from pro-war jingoism to the heavily guided socialist backlashes against it.[9]
+
+The essay nonetheless cautioned against simply writing the complex off, arguing under its [[unreality-paradox|Unreality Paradox]] thesis that the fake news is a functioning part of the real war and that its output must be read closely to anticipate the next mass psychological deployment.[9] Burning Bright also described Trump as capable of turning the complex's own vectors against it, forcing outlets to engage with, promote and highlight the very stories he wants placed before the [[collective-mind|Collective Mind]], and cited the [[russiagate-hoax|Russia Collusion narrative]], the "[[perfect-phone-call|Perfect Phone Call]]" quid pro quo framing, and the reversal on election-fraud claims as cases where the complex's own narrative deployments were weaponized against it.[9]
+
+9. Badlands Brief — "The Unreality Paradox", URL: https://badlands.substack.com/p/the-unreality-paradox
+
+## Narrative management of the China file (2022)
+
+Badlands Media's "The Two Chinas" (November 10, 2022) presented the Media Industrial Complex as the source of the Western paradigm about China, spun up by narrative-setters and "cast over the population like spells."[10] The article argued that both left- and right-wing Americans who take their news unironically from these outlets arrive at the same reflexive verdict on [[xi-jinping|Xi Jinping]] without examining the claim's implications.[10] It observed that legacy institutions from [[the-hill|The Hill]] to the [[bbc|BBC]] and [[associated-press|AP News]] covered Xi's unprecedented third term with breathless, dramatic flare, and invoked the author's maxim that to learn whom the enemy fears one should "look to the whip and lash of their words, their headlines and their glowing chyrons."[10]
+
+The piece also noted that the same apparatus had for years championed China trade deals, the offshoring of American production and deepening economic ties, only changing its tune after [[donald-trump|Donald Trump]]'s exposure of the merged oligarchic systems underlying the erosion of American sovereignty.[10] Readers were urged to pass all such narratives through a cognitive filter, seeking contradictions and weighing the intent of the source — a discipline the author explicitly invited readers to apply to his own writing as well.[10]
+
+10. Badlands Media — "The Two Chinas", URL: https://badlands.substack.com/p/the-two-chinas
+
+## Counter-deployments and decline (December 2022)
+
+In "The War of Stories" (December 30, 2022), [[burning-bright|Burning Bright]] described the Media Industrial Complex as the originator of [[narrative-deployment|Narrative Deployments]] used "to program and (mis)guide societies toward self-defeating ends in the service of unseen Globalist masters," now countered by an increasingly engaged and awakened decentralized citizen intelligence network.[11] He argued that the complex's chosen cyphers and figureheads had undergone a steady and, in hindsight, rapid decline in standing within their own populaces, while truth-telling figures took larger slices of the psychological pie.[11] Readers were urged to observe the complex's counter-deployments and the "waning, shrinking and seemingly culturally dissolving" characters to which the globalist [[system-of-systems|System of Systems]] gives its shrill voices.[11]
+
+11. Badlands Brief — "The War of Stories", URL: https://badlands.substack.com/p/the-war-of-stories
+
+## Engineered insensitivity (January 2023)
+
+In "You Are a Horrible Person" (January 4, 2023), [[erik-carlson|Erik Carlson]] attributed to the Media Industrial Complex the engineering of a perception of insensitivity around the [[damar-hamlin|Damar Hamlin]] cardiac arrest, such that any suggestion that [[covid-19-vaccines|vaccines]] might have contributed was met with the charge of being an uncaring, horrible human being.[12] He argued the complex was constructing a narrative in which all push-back would appear to come from a place of hate, so that audiences would reject it reflexively — and speculated that operators might go so far as to create fake social media accounts making vaccine-questioners appear to wish death on the vaccinated.[12]
+
+Carlson expected the same mechanism to be extended to [[elon-musk|Elon Musk]]'s promised [[twitter-files|Twitter Files]] release on [[anthony-fauci|Anthony Fauci]], with acceptance or even mere reading of the files coded as evidence of a person's bad character, alongside a parallel narrative explaining away every vaccine-related condition as a rare but real phenomenon.[12] He described the resulting dynamic as a social and cultural trap and urged readers not to let narrative managers define who they are.[12]
+
+12. Badlands Brief — "You Are a Horrible Person", URL: https://badlands.substack.com/p/you-are-a-horrible-person

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [democrats, georgia, nonprofits, green-energy, grants]
-sources: [raw/badlands-brief-70c.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-b92.md, raw/dark-equation.md]
+sources: [raw/badlands-brief-70c.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-b92.md, raw/dark-equation.md, raw/two-wings-one-ugly-bird.md]
 confidence: medium
 ---
 
@@ -37,3 +37,9 @@ In November 2023 Abrams's brother-in-law [[jimmie-gardner|Jimmie Gardner]] was a
 Stacey Abrams attended the [[2023-bilderberg-meeting|2023 Bilderberg meeting]] in Lisbon, Portugal, where artificial intelligence was the primary topic.[4] Badlands Media contributor [[ryan-delarme|Ryan DeLarme]], who described her as a "failed US politician," listed her among the globalist players present at the gathering.[4]
 
 4. Badlands Brief — "Dark Equation", URL: https://badlands.substack.com/p/dark-equation
+
+## National Democratic Institute board
+
+"Two Wings, One Ugly Bird" lists Stacey Abrams as a member of the board of the [[national-democratic-institute|National Democratic Institute]], describing her as a Georgia political boss known for her voting rights work in the state and a rising Democratic star.[5] The article also places her on the Bilderberg Steering Committee and in the Council on Foreign Relations, which it characterises as two of the most exclusive institutions of the deep-state milieu.[5] Alongside [[madeleine-albright|Madeleine Albright]], she is presented as representative of NDI's progressive and electoral framing, in contrast to the militaristic line of [[international-republican-institute|IRI]] figures.[5]
+
+5. Badlands Brief — "Two Wings, One Ugly Bird", URL: https://badlands.substack.com/p/two-wings-one-ugly-bird

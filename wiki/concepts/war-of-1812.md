@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [war-of-1812, central-banking, great-britain, debt, citibank]
-sources: [raw/the-battle-for-control.md]
+sources: [raw/the-battle-for-control.md, raw/who-are-the-true-puppet-masters.md]
 confidence: medium
 ---
 
@@ -32,3 +32,11 @@ After the war the United States was in massive debt and the government chartered
 
 ## References
 1. Badlands Brief — "The Battle for Control", URL: https://badlands.substack.com/p/the-battle-for-control
+
+## Cited in "Who are the True Puppet Masters?" (July 2023)
+
+[[erik-carlson|Erik Carlson]] describes the War of 1812 — fought some thirty years after American independence — as an attempt by England to forcibly regain control of the States.[2] He writes that the British also tried to gain control internally around this time and later, but that their attempts to create a centralised banking system in America failed.[2]
+
+Carlson uses the war as a rhetorical marker for American subservience since, asking when the United States last failed to support and defend England and its interests and answering: 1812, "you know, that time the Brits burned down the White House."[2]
+
+2. Badlands Brief — "Who are the True Puppet Masters?", URL: https://badlands.substack.com/p/who-are-the-true-puppet-masters

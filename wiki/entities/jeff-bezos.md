@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [amazon, washington-post, big-tech, cia, trump]
-sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-a60.md, raw/badlands-news-brief-db6.md, raw/badlands-news-brief-e98.md, raw/badlands-news-brief-fcd.md, raw/the-msm-melts-down-amidst-americas.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-a60.md, raw/badlands-news-brief-db6.md, raw/badlands-news-brief-e98.md, raw/badlands-news-brief-fcd.md, raw/the-msm-melts-down-amidst-americas.md, raw/why-do-we-know-what-we-know.md]
 confidence: medium
 ---
 
@@ -68,3 +68,9 @@ Reporting summarised by Badlands contributor [[ryan-delarme|Ryan DeLarme]] held 
 Critics read the decision instead as capitulation. Former editor [[marty-baron|Marty Baron]] warned that [[donald-trump|Donald Trump]] "will see this as an invitation to further intimidate owner @jeffbezos (and others)," and [[brian-stelter|Brian Stelter]] relayed a staff claim that the paper had "anticipatorily consent[ed] to a fascist's whims."[7] DeLarme dismissed the resulting storyline — that Bezos feared Trump-era concentration camps — as comical, and treated the episode as emblematic of the [[2024-newspaper-non-endorsements|2024 newspaper non-endorsements]].[7]
 
 7. Badlands Brief — "The MSM Melts Down Amidst America's Electoral Ineptitude", URL: https://badlands.substack.com/p/the-msm-melts-down-amidst-americas
+
+## Alleged CIA placement (Carlson, May 2023)
+
+[[erik-carlson|Erik Carlson]] wrote in May 2023 that many hold [[amazon|Amazon]] to have been started and funded by the [[central-intelligence-agency|CIA]], with Bezos put in place to run what he called a CIA information-gathering company.[8] On the same account, Amazon received a large CIA contract and Bezos used the money to buy the [[washington-post|Washington Post]], a newspaper Carlson described as rumoured to be CIA-run.[8] Carlson argued that the free circulation of such claims shows they are not dangerous to the [[deep-state|Deep State cabal]], and that the deeper purpose of Bezos's platforms — including the deliberately cheap Echo Dot with Alexa — is bulk behavioural data collection enabling prediction and control of future behaviour rather than surveillance for law enforcement.[8]
+
+8. Badlands Brief — "Why Do We Know What We Know?", URL: https://badlands.substack.com/p/why-do-we-know-what-we-know

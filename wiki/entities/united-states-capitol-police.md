@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [law-enforcement, congress, state-of-the-union, january-6, litigation]
-sources: [raw/badlands-brief-40d.md, raw/badlands-brief-bdc.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-ea7.md]
+sources: [raw/badlands-brief-40d.md, raw/badlands-brief-bdc.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-ea7.md, raw/the-president-that-never-was.md]
 confidence: low
 ---
 
@@ -42,3 +42,10 @@ In a statement released on the night of Monday, March 20, 2023, the [[senate-ser
 4. Badlands Brief — "J6 Exposure, Biden's Brain and Trump's Agenda", URL: https://badlands.substack.com/p/badlands-news-brief-644
 5. Badlands Brief — "The Wall Are Closing in Again! (And Other Stories)", URL: https://badlands.substack.com/p/badlands-news-brief-7ad
 6. Badlands Brief — "Badlands News Brief: Trump Mania, Insider Banking & ... Poop?", URL: https://badlands.substack.com/p/badlands-news-brief-ea7
+
+
+## Portrayal in the 2024 campaign debate
+
+In his January 2024 [[biden-valley-forge-speech|Valley Forge speech]], [[joe-biden|Joe Biden]] recounted a Capitol Police officer's description of January 6 as a "medieval battle," his being called vile and racist names, and his claim that he was more afraid inside the halls of Congress than while fighting as a soldier in the Iraq War.[7] [[ryan-delarme|Ryan DeLarme]] disputed the implications of the account, writing that no protester carried a weapon inside the Capitol, that the only weapon discharged that day was fired by the USCP at [[ashli-babbitt|Ashli Babbitt]], and questioning the comparison to combat in Iraq.[7]
+
+7. Badlands Brief — "The President That Never Was", URL: https://badlands.substack.com/p/the-president-that-never-was

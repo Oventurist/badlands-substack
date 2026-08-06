@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ngos, democracy-promotion, regime-change, bangladesh]
-sources: [raw/badlands-news-brief-b4d.md, raw/infiltration-not-invasion.md, raw/how-to-rent-a-riot-the-plausible.md, raw/how-to-rent-a-riot-the-history-of.md, raw/the-information-imperium.md, raw/the-ongoing-betrayal-of-the-gop.md]
+sources: [raw/badlands-news-brief-b4d.md, raw/infiltration-not-invasion.md, raw/how-to-rent-a-riot-the-plausible.md, raw/how-to-rent-a-riot-the-history-of.md, raw/the-information-imperium.md, raw/the-ongoing-betrayal-of-the-gop.md, raw/two-wings-one-ugly-bird.md]
 confidence: medium
 ---
 
@@ -61,3 +61,13 @@ Badlands Media describes the IRI as the [[national-endowment-for-democracy|NED]]
 The IRI is also one of the three founding members, alongside the [[national-democratic-institute|National Democratic Institute]] and the [[international-foundation-for-electoral-systems|International Foundation for Electoral Systems]], of the 1995 [[consortium-for-elections-and-political-process-strengthening|Consortium for Elections and Political Process Strengthening]], a USAID-funded joint venture later linked to global counter-disinformation and censorship programming.[6]
 
 6. Badlands Brief — "The Ongoing Betrayal of the GOP", URL: https://badlands.substack.com/p/the-ongoing-betrayal-of-the-gop
+
+## Board roster and the Tea Party co-optation
+
+"Two Wings, One Ugly Bird" describes the IRI, founded in 1983 under the [[national-endowment-for-democracy|NED]] umbrella at the same time as the [[national-democratic-institute|National Democratic Institute]], as the Republican half of a two-party control mechanism built after the [[church-committee|Church Committee]] forced the [[central-intelligence-agency|CIA]] to abandon direct action for deniable proxies.[7] Abroad the article credits the IRI with coaching pro-Western parties during Ukraine's 2004 [[orange-revolution|Orange Revolution]] and with funnelling support to the Serbian youth movement [[otpor|Otpor]] that ousted [[slobodan-milosevic|Slobodan Milosevic]], with help from [[george-soros|George Soros]]' [[open-society-foundations|Open Society]] network.[7] In Nicaragua during the 1980s it says the IRI worked the opposition parties while [[usaid|USAID]] funded "civic programs" aligned with the CIA's anti-Sandinista push.[7]
+
+Domestically the article accuses the institute of steering the Republican Party toward neoconservative hawks and away from isolationist figures such as [[pat-buchanan|Pat Buchanan]].[7] Its central case study is the [[tea-party-movement|Tea Party]]: beginning as a 2009 grassroots revolt against bailouts and big government, the movement was, in the article's account, redirected by IRI figures including [[john-mccain|John McCain]] and [[randy-scheunemann|Randy Scheunemann]] through candidate training sessions, activist strategy briefs and NED money to "modernize" the party, so that by 2012 its anti-war, small-government spine had been replaced by endless wars, surveillance and corporate tax cuts, with figures like [[michele-bachmann|Michele Bachmann]] moving from Ron Paul toward [[marco-rubio|Marco Rubio]].[7]
+
+The article lists the institute's roster as including chairman McCain (1993–2018), current chairman and Alaska senator [[dan-sullivan|Dan Sullivan]], board member [[mitt-romney|Mitt Romney]], director Rubio, board member [[lindsey-graham|Lindsey Graham]] and director [[tom-cotton|Tom Cotton]], as well as former figures Richard S. Williamson and Scheunemann.[7] It asserts that prior to [[donald-trump|Donald Trump]], a Republican seeking the presidency had effectively to be of the IRI or at least IRI-approved.[7] After the [[supreme-court-of-the-united-states|Supreme Court]]'s 5–4 ruling of March 5, 2025 against Trump's freeze on $2 billion in USAID funds, the article reports the IRI and its sister cut-outs saw furloughs lifted and grants resume.[7]
+
+7. Badlands Brief — "Two Wings, One Ugly Bird", URL: https://badlands.substack.com/p/two-wings-one-ugly-bird

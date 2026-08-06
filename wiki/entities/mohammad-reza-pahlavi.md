@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [iran, monarchy, oil, cia, revolution]
-sources: [raw/badlands-news-brief-24e.md, raw/does-the-cia-still-control-iran.md, raw/rainbow-color-revolution.md]
+sources: [raw/badlands-news-brief-24e.md, raw/does-the-cia-still-control-iran.md, raw/rainbow-color-revolution.md, raw/the-shadow-game.md]
 confidence: medium
 ---
 
@@ -35,3 +35,9 @@ According to [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]], the Shah had
 [[erik-carlson|Erik Carlson]] described the Shah as the US- and Britain-friendly leader installed by the [[central-intelligence-agency|CIA]] in place of [[mohammad-mosaddegh|Mohammad Mosaddegh]] in 1953, characterizing him plainly as "their puppet."[3] The operation that brought him to power used propaganda, rigged elections and paid thugs bused into Tehran, and the resulting pro-Shah riots caused between 200 and 300 deaths.[3]
 
 3. Badlands Brief — "Rainbow Color Revolution", URL: https://badlands.substack.com/p/rainbow-color-revolution
+
+## SAVAK and CIA sponsorship
+
+"The Shadow Game" describes the Shah as a puppet installed by the [[cia|CIA]] after the [[1953-iranian-coup|1953 coup]] that removed [[mohammad-mosaddegh|Mohammad Mosaddeq]], whose focus on nationalizing Iran's oil industry made him a threat to cabal-controlled corporations holding the country's resources.[4] The CIA then helped train [[savak|SAVAK]], the Shah's intelligence and security force, which became known for widespread torture and which arrested, tortured and killed untold thousands of Iranians perceived as threats to his one-party rule.[4] [[joe-lange|Joe Lange]] compares this pattern to the [[phoenix-program|Phoenix Program]] in Vietnam and the training given to Latin American officers at the [[school-of-the-americas|School of the Americas]], and notes that the [[iranian-revolution|Iranian Revolution]] removed the CIA's dictator just as the Sandinistas had ousted Somoza in Nicaragua.[4]
+
+4. Badlands Brief — "The Shadow Game", URL: https://badlands.substack.com/p/the-shadow-game

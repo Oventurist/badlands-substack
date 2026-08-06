@@ -1,10 +1,10 @@
 ---
-title: John Quincy Adams
+title: "John Quincy Adams"
 created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [president, american-history, foreign-policy, whig-party]
-sources: [raw/avoiding-wwiii.md]
+sources: [raw/avoiding-wwiii.md, raw/which-foreign-policy-play-for-the.md]
 confidence: medium
 ---
 
@@ -26,3 +26,13 @@ Ehret concludes his essay by observing that, viewed against Russia's Far Eastern
 
 ## References
 1. Badlands Brief — "Avoiding WWIII", URL: https://badlands.substack.com/p/avoiding-wwiii
+
+## The 1821 anti-imperial address
+
+In an address delivered on July 4, 1821, Adams set out the principle underlying the [[monroe-doctrine|Monroe Doctrine]], stating that the United States in its first fifty years had "without a single exception, respected the independence of other nations while asserting and maintaining her own," and that "she goes not abroad, in search of monsters to destroy."[2] He warned that by involving itself in the internal affairs of other nations the United States would destroy its own reason of existence and become "no longer the ruler of itself, but the dictator of the world," adding that "America's march is the march of mind, not of conquest" and that "colonial establishments are engines of wrong."[2]
+
+## Collaboration with Lincoln and the community of principle
+
+[[matthew-ehret|Matthew Ehret]] records that an aging Adams collaborated with a young [[abraham-lincoln|Abraham Lincoln]] in ending the Mexican-American War under President James Polk in 1846, and that when Adams died in 1848 Lincoln picked up the torch he left behind as what Ehret calls the London-directed "proto deep state" worked to dissolve the republic from within.[2] Adams' term "a community of principle" described a system in which each nation held sovereign banking controls over private finance and issued productive credit tied to internal improvements, continental rail and road development and full-spectrum economies — a program whose adherents included Russia's [[sergei-witte|Sergei Witte]] and [[alexander-ii|Alexander II]], Germany's [[otto-von-bismarck|Otto von Bismarck]], France's Sadi Carnot and Gabriel Hanotaux, and leading figures of Japan's Meiji Restoration.[2] Adams' doctrine was defended into the twentieth century by [[william-mckinley|William McKinley]] and attacked by [[alfred-thayer-mahan|Alfred Thayer Mahan]].[2]
+
+2. Badlands Brief — "Which Foreign Policy Play for the USA?", URL: https://badlands.substack.com/p/which-foreign-policy-play-for-the

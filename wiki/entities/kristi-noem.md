@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [dhs, immigration, trump-administration, congress]
-sources: [raw/badlands-brief-165.md, raw/badlands-brief-4ec.md, raw/badlands-brief-7ed.md, raw/badlands-brief-9ea.md, raw/badlands-brief-990.md, raw/badlands-brief-a20.md, raw/badlands-brief-b74.md, raw/badlands-brief-d17.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-b63.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-c14.md, raw/badlands-news-brief-c9b.md, raw/badlands-news-brief-cf3.md, raw/is-the-censorship-war-over.md]
+sources: [raw/badlands-brief-165.md, raw/badlands-brief-4ec.md, raw/badlands-brief-7ed.md, raw/badlands-brief-9ea.md, raw/badlands-brief-990.md, raw/badlands-brief-a20.md, raw/badlands-brief-b74.md, raw/badlands-brief-d17.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-b63.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-c14.md, raw/badlands-news-brief-c9b.md, raw/badlands-news-brief-cf3.md, raw/is-the-censorship-war-over.md, raw/the-real-fight-begins.md]
 confidence: medium
 ---
 
@@ -177,3 +177,9 @@ Badlands Media criticized the Department of Homeland Security under Noem for usi
 [[mike-benz|Mike Benz]] responded that a federal government agency should never use the phrase "hide behind the First Amendment," an assessment the article endorsed.[26] While Badlands contributor [[ryan-delarme|Ryan DeLarme]] argued that many campus protests were funded and coordinated by NGOs such as [[jewish-voice-for-peace|Jewish Voice for Peace]] operating with establishment backing, he maintained that ordinary students critical of Israel's conduct should still be allowed a voice, since there is no "Israel exception" to the First Amendment.[26] The episode was grouped with the denial of press access to [[associated-press|The Associated Press]] over the [[gulf-of-america-renaming|Gulf of America renaming]] as evidence that the administration's application of free speech protections was selective.[26]
 
 26. Badlands Brief — "Is the Censorship War Over?", URL: https://badlands.substack.com/p/is-the-censorship-war-over
+
+## Nomination as Homeland Security Secretary (November 2024)
+
+Noem's selection to lead the [[department-of-homeland-security|Department of Homeland Security]] drew a caustic response from Badlands contributor [[ryan-delarme|Ryan DeLarme]], who wrote that he hoped she would "execute the department in a gravel pit like her puppy Cricket," adding that in his opinion DHS should not exist at all.[27] The remark referenced the widely reported account from Noem's memoir of shooting her dog.[27] DeLarme presented the criticism as part of a deliberate devil's-advocate posture toward [[donald-trump|Trump]]'s appointment slate, which he described overall as "an odd mix of duds and dynamite."[27]
+
+27. Badlands Brief — "The Real Fight Begins", URL: https://badlands.substack.com/p/the-real-fight-begins

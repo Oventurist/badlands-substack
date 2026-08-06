@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [european-union, censorship, elections, france]
-sources: [raw/badlands-news-brief-09e.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-b83.md, raw/the-censorship-war-counteroffensive.md, raw/the-digital-services-act.md]
+sources: [raw/badlands-news-brief-09e.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-b83.md, raw/the-censorship-war-counteroffensive.md, raw/the-digital-services-act.md, raw/the-multinational-offensive-against.md]
 confidence: medium
 ---
 
@@ -58,3 +58,9 @@ As the internal market commissioner responsible for enforcing the [[digital-serv
 Following the visit, Breton said the EU would be extremely vigilant heading into the following year's European elections, stating: "I told Elon Musk and Linda Yaccarino [Twitter's chief executive] that Twitter should be very diligent in preparing to tackle illegal content in the European Union," and that "fighting disinformation, including pro-Russian propaganda, will also be a focus area in particular as we are entering a period of elections in Europe."[7] Badlands contributor [[erik-carlson|Erik Carlson]] treated this warning as evidence that the DSA's enforcement machinery was aimed at political speech ahead of the 2024 election cycle.[7]
 
 7. Badlands Brief — "The Digital Services Act", URL: https://badlands.substack.com/p/the-digital-services-act
+
+## Enforcement of the Digital Services Act against X (2024)
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] identified Thierry Breton as the EU official who used the [[digital-services-act|Digital Services Act]] to target [[elon-musk|Elon Musk]] and [[x-corp|X]] during 2024.[8] DeLarme argued that the Act's vague definitions of "harmful" and "false" communications, combined with its grant of immunity to newspapers, television channels and streaming services, mean that only information approved by what he called the International Corpo-Government amalgam would be allowed to circulate.[8]
+
+8. Badlands Brief — "The Multinational Offensive Against Free Speech Online", URL: https://badlands.substack.com/p/the-multinational-offensive-against

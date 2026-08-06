@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [uk, prime-minister, ukraine, russia, peace-negotiations]
-sources: [raw/badlands-news-brief-11c.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-b4a.md, raw/badlands-news-brief-e99.md]
+sources: [raw/badlands-news-brief-11c.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-b4a.md, raw/badlands-news-brief-e99.md, raw/who-are-the-true-puppet-masters.md]
 confidence: medium
 ---
 
@@ -40,3 +40,11 @@ Badlands contributor GhostofBasedPatrickHenry attacked the intervention, asking 
 2. Badlands News Brief — "Israel Strikes Again as The FED Pivots", URL: https://badlands.substack.com/p/badlands-news-brief-2f2
 3. Badlands Brief — "Badlands News Brief: Border Battles, Trump Trials & COVID Comeuppance", URL: https://badlands.substack.com/p/badlands-news-brief-b4a
 4. Badlands Brief — "Ukrainian Whiplash & NatSec Fetishes", URL: https://badlands.substack.com/p/badlands-news-brief-e99
+
+## Cited in "Who are the True Puppet Masters?" (July 2023)
+
+[[erik-carlson|Erik Carlson]] writes that it is said Boris Johnson nixed a peace deal between Russia and Ukraine early in the conflict, in April 2022, and asks why he would do so.[5] His answer is that the "Evil Empire" — the [[british-cabal|British Cabal]] — needs a war between [[nato|NATO]] and Russia, and that a peace treaty would prevent it.[5] Carlson notes that Johnson stepped down three months later.[5]
+
+The episode appears in a passage that also treats the 2016 Brexit vote as the English people standing up to the Cabal, for which Carlson says they have been punished with massive immigration by their leaders ever since.[5]
+
+5. Badlands Brief — "Who are the True Puppet Masters?", URL: https://badlands.substack.com/p/who-are-the-true-puppet-masters

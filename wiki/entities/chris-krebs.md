@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cisa, elections, 2020-election, election-security]
-sources: [raw/badlands-brief-707.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-d21.md]
+sources: [raw/badlands-brief-707.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-d21.md, raw/trials-tribulations-and-a-long-train.md]
 confidence: medium
 ---
 
@@ -40,6 +40,10 @@ Badlands commentator Ashe in America described Krebs as "patient zero in the 202
 
 Writing in early 2024, [[badlands-media|Badlands Media]] contributor [[ashe-in-america|Ashe in America]] singled out Krebs — whom she described as a lawyer with an undergraduate degree in environmental science — as the source of the official assurance that American elections are safe from cyberattack.[6] She juxtaposed that assurance against [[fbi|FBI]] Director [[christopher-wray|Christopher Wray]]'s testimony about the [[volt-typhoon|Volt Typhoon]] intrusion into critical infrastructure, arguing that elections run on the same technology stack and are therefore no more secure than the sectors the government admits are under attack.[6]
 
+## "Safest and most secure election" claim contested
+
+Badlands writer [[ashe-in-america|Ashe in America]], describing Krebs as an "environmental scientist-turned-lawyer," argued in January 2024 that the report [[donald-trump|Donald Trump]] released on January 2 documenting alleged 2020 fraud in Michigan, Wisconsin, Arizona, Pennsylvania and Georgia undercut Krebs' well-known claim that 2020 was the safest and most secure election in American history.[7]
+
 ## References
 1. Badlands Brief — "TACO Tuesday Reigns Supreme as the Age of Accountability Nears", URL: https://badlands.substack.com/p/badlands-brief-707
 2. Badlands Brief — "Badlands News Brief: World Wealth Whiplash & The Most Secure Memorandum in History", URL: https://badlands.substack.com/p/badlands-news-brief-02a
@@ -47,3 +51,4 @@ Writing in early 2024, [[badlands-media|Badlands Media]] contributor [[ashe-in-a
 4. Badlands News Brief — "Indian iPhones, A Sovereign Bromance, & Allegedly Real IDs", URL: https://badlands.substack.com/p/badlands-news-brief-520
 5. Badlands Brief — "Badlands News Brief: Musical Fed Chairs, Salvadoran Chess, & Cocktails in the Clink", URL: https://badlands.substack.com/p/badlands-news-brief-80e
 6. Badlands Brief — "Badlands News Brief: Chinese Interference and Narrative Seeding", URL: https://badlands.substack.com/p/badlands-news-brief-d21
+7. Badlands Media - "Trials, Tribulations & a Long Train of Abuses", URL: https://badlands.substack.com/p/trials-tribulations-and-a-long-train

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [pakistan, isi, regime-change, nuclear, geopolitics]
-sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-625.md, raw/badlands-brief-707.md, raw/badlands-brief-9ea.md, raw/badlands-brief-bb1.md, raw/everything-is-connected.md, raw/operation-cyclone-the-seeds-of-terror.md, raw/the-difference-between-friend-and.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-625.md, raw/badlands-brief-707.md, raw/badlands-brief-9ea.md, raw/badlands-brief-bb1.md, raw/everything-is-connected.md, raw/operation-cyclone-the-seeds-of-terror.md, raw/the-difference-between-friend-and.md, raw/who-is-the-real-enemy.md]
 confidence: medium
 ---
 
@@ -79,3 +79,13 @@ Pakistan's military intelligence agency, the [[inter-services-intelligence|ISI]]
 6. Badlands Brief — "Everything Is Connected", URL: https://badlands.substack.com/p/everything-is-connected
 7. Badlands Brief — "Operation Cyclone - The Seeds of Terror", URL: https://badlands.substack.com/p/operation-cyclone-the-seeds-of-terror
 8. Badlands Media — "The Difference Between Friend and Foe", URL: https://badlands.substack.com/p/the-difference-between-friend-and
+
+## Hub of the CIA's Afghan and heroin operations
+
+"Who Is The Real Enemy?" argues that Pakistan was the key that opens several doors in the story of the [[central-intelligence-agency|CIA]]'s Middle East operations.[9] The [[bank-of-credit-and-commerce-international|BCCI]] began there rather than elsewhere because Pakistan had some of the most lax banking standards in the world and because its intelligence service, the [[inter-services-intelligence|ISI]], was directly connected to the CIA.[9] The country was also at the center of the proliferation of nuclear weapons around the world, and it hosted the CIA's operation funding and arming the [[mujahideen|Mujahideen]] fighting the Soviet Union in [[afghanistan|Afghanistan]].[9]
+
+Money for that operation moved physically through the Pakistani state: bags of dollar bills were flown in and handed to ISI director Lieutenant General [[akhtar-abdur-rahman|Akhtar Abdur Rahman]], who banked the cash in ISI accounts at the National Bank of Pakistan, BCCI and the Bank of Oman.[9] More than $1 billion in Saudi cash distributed by [[turki-al-faisal|Prince Turki al-Faisal]] was matched by another billion from the CIA, allowing the administration to bypass Congress.[9] Fair.org is quoted describing BCCI as a major channel for drug money laundered by corrupt Pakistani military officers who administered the CIA's arms pipeline to the Afghan rebels while supplying much of the heroin that inundated the United States and Europe during the 1980s.[9] Whereas Pakistan had hardly any drug addicts in 1979, the number had risen to over 800,000 by 1992.[9]
+
+Former Afghan president [[hamid-karzai|Hamid Karzai]] told Der Spiegel that the attacks beginning around 2005–2006 were organized by intelligence in Pakistan and carried out by the [[taliban|Taliban]], that Washington independently confirmed both the source of the violence and the presence of Taliban sanctuaries there, and that the United States nonetheless responded by funding Pakistan's military.[9] Karzai noted [[donald-trump|Donald Trump]]'s statement that America paid $35 billion to Pakistan over nineteen years, and argued this contradictory policy — bombing Afghan villages while funding the country accused of organizing Taliban terror — cost thousands of Afghan lives.[9] Badlands Media concludes that Pakistan was a purposeful safe haven for radical terrorists and that the CIA and the [[shadow-government|shadow government]] were behind it.[9]
+
+9. Badlands Brief — "Who Is The Real Enemy?", URL: https://badlands.substack.com/p/who-is-the-real-enemy

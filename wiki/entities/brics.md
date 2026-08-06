@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [brics, gold, dollar, international-finance]
-sources: [raw/a-week-to-remember.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-07f.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-175.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-f4c.md, raw/bric-by-bric.md, raw/brics-vs-the-wef.md, raw/chips-and-dips.md, raw/empires-enigma.md, raw/is-jerome-powell-a-patriot.md, raw/project-trump-card.md, raw/shared-interests.md, raw/stuck-in-a-groove-of-negativity-and.md, raw/the-covfefe-dig.md, raw/the-fake-and-the-gaetz.md, raw/the-master-builder.md]
+sources: [raw/a-week-to-remember.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-07f.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-175.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-f4c.md, raw/bric-by-bric.md, raw/brics-vs-the-wef.md, raw/chips-and-dips.md, raw/empires-enigma.md, raw/is-jerome-powell-a-patriot.md, raw/project-trump-card.md, raw/shared-interests.md, raw/stuck-in-a-groove-of-negativity-and.md, raw/the-covfefe-dig.md, raw/the-fake-and-the-gaetz.md, raw/the-master-builder.md, raw/who-are-the-true-puppet-masters.md]
 confidence: medium
 ---
 
@@ -240,3 +240,9 @@ In "The Master Builder" (February 2, 2023), [[joe-lange|Joe Lange]] wrote that t
 The article situates BRICS at the end of a sequence it describes as a [[controlled-demolition-of-the-global-debt-system|controlled demolition]]: sanctions on Russian energy after the start of the [[russia-ukraine-war|special military operation]] boomeranged onto European economies dependent on that energy, while [[vladimir-putin|Vladimir Putin]] and [[xi-jinping|Xi Jinping]] had long prepared for exactly that moment.[32] Lange closed by promising a follow-up deep dive into the coalition and declaring that "the BRICS are being laid for financial freedom."[32]
 
 32. Badlands Media — "The Master Builder", URL: https://badlands.substack.com/p/the-master-builder
+
+## Cited in "Who are the True Puppet Masters?" (July 2023)
+
+[[erik-carlson|Erik Carlson]] argues that the BRICS nations are aligning with [[donald-trump|Donald Trump]] and [[vladimir-putin|Vladimir Putin]] against their British masters, having been inspired by the refusal of those two leaders to be controlled by the [[british-cabal|British Cabal]].[33] He writes that while Trump severs England's control over the American financial system, Putin is creating a new gold-backed currency with the BRICS nations — one strand of the evidence he offers that the Cabal is "on the ropes."[33]
+
+33. Badlands Brief — "Who are the True Puppet Masters?", URL: https://badlands.substack.com/p/who-are-the-true-puppet-masters

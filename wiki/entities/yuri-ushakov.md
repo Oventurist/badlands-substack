@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, kremlin, diplomacy, ukraine-war]
-sources: [raw/badlands-news-brief-747.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-bd7.md]
+sources: [raw/badlands-news-brief-747.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-bd7.md, raw/trump-putin-alaska-and-the-future.md]
 confidence: medium
 ---
 
@@ -42,3 +42,8 @@ Speaking after five hours of talks on Tuesday, December 2, 2025, between Preside
 3. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
 4. Badlands News Brief — "A Constellation of Corruption & A Goldilocks Galaxy", URL: https://badlands.substack.com/p/badlands-news-brief-a40
 5. Badlands Brief — "Bogus Visas, Brazilian Sanctions, and Foreign Boat Battles", URL: https://badlands.substack.com/p/badlands-news-brief-bd7
+6. Badlands Brief — "Trump, Putin, Alaska and the Future of Multipolarity", URL: https://badlands.substack.com/p/trump-putin-alaska-and-the-future
+
+## Pre-summit signalling on an acceptable deal
+
+Ahead of the [[2025-trump-putin-alaska-summit|August 2025 Alaska summit]], Ushakov indicated that "a deal amenable to Moscow" had already been proposed by the United States.[6] [[matthew-ehret|Matthew Ehret]] cited the remark alongside public messaging inferring that territorial "swapping" had been negotiated, potentially involving Russia returning all or part of Sumy and Kharkov to Kiev, and speculated that security guarantees relating to the [[golden-dome|Golden Dome]] might also form part of the negotiation.[6]

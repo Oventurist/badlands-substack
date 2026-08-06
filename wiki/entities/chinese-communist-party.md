@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [china, ccp, communism, infiltration]
-sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-news-brief-efd.md, raw/biden-inc-flips.md, raw/empires-enigma.md, raw/glimpses-into-hell-part-2.md, raw/stay-focused-on-the-big-picture.md, raw/the-master-builder.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-news-brief-efd.md, raw/biden-inc-flips.md, raw/empires-enigma.md, raw/glimpses-into-hell-part-2.md, raw/stay-focused-on-the-big-picture.md, raw/the-master-builder.md, raw/the-two-chinas.md, raw/understanding-the-soul-of-china.md]
 confidence: low
 ---
 
@@ -58,3 +58,17 @@ Badlands Media's "The Master Builder" (February 2, 2023) documents the financial
 [[joe-lange|Joe Lange]] argues from these cases that [[xi-jinping|Xi Jinping]] is waging a real war against corruption inside the party — one under-reported in Western media — and that this constitutes Xi battling his own version of the [[deep-state|Deep State]] in parallel with [[donald-trump|Donald Trump]]'s alleged campaign against the global central-bank system.[7]
 
 7. Badlands Media — "The Master Builder", URL: https://badlands.substack.com/p/the-master-builder
+
+## Framing in "The Two Chinas" (2022)
+
+Badlands Media's "The Two Chinas" (November 10, 2022) argued that both left- and right-wing American media consumers reflexively treat [[xi-jinping|Xi Jinping]] as the de facto and philosophical leader of a hated Chinese Communist Party, parroting the storyline without examining its implications or contradictions.[8] While conceding that Xi is undoubtedly the party's leader, the article maintained that the CCP under Xi should be distinguished from the party of his predecessor [[hu-jintao|Hu Jintao]], which it associates with generations of communist oppression and economic subservience to the West.[8] The piece described Xi as waging war on a Chinese oligarchy that mirrored the American one, and characterized the party's [[20th-national-congress-of-the-chinese-communist-party|20th National Congress]] as the moment his unifying vision of China crystalized.[8]
+
+8. Badlands Media — "The Two Chinas", URL: https://badlands.substack.com/p/the-two-chinas
+
+## Sun Yat-sen as claimed forebearer
+
+[[matthew-ehret|Matthew Ehret]] emphasizes that the man revered by the Chinese Communist Party today as the forebearer of its revolutionary legacy — [[sun-yat-sen|Sun Yat-sen]] — took direct aim at [[karl-marx|Karl Marx]], writing in [[three-principles-of-the-people|Three Principles of the People]] that "class war is not the cause of social progress, it is a disease developed in the course of social progress."[8] Sun was neither a Marxist nor a Bolshevik, though he had no qualms about central planning and held a disdain for imperialism.[8]
+
+Ehret argues that the party's present formula of "socialism with Chinese characteristics" is better understood through this older lineage of American-system political economy than through conventional definitions of socialism or capitalism, and that [[xi-jinping|Xi Jinping]]'s public commemorations of Sun affirm that inheritance.[8]
+
+8. Badlands Brief — "Understanding the Soul of China", URL: https://badlands.substack.com/p/understanding-the-soul-of-china

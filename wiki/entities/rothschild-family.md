@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, central-banking, debt-system, cabal]
-sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-fbb.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-547.md, raw/cracks-in-the-curtain.md, raw/master-and-commander.md, raw/money-and-oil.md, raw/on-infiltration-and-israel.md, raw/q-for-dummies-chapter-18.md, raw/the-battle-for-control.md, raw/the-decade-we-all-became-slaves.md, raw/the-covfefe-dig.md, raw/the-harvard-control-grid.md, raw/the-illusion-of-democracy.md, raw/the-men-behind-the-curtain-part-5.md, raw/the-ivy-web.md, raw/the-master-builder.md]
+sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-fbb.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-547.md, raw/cracks-in-the-curtain.md, raw/master-and-commander.md, raw/money-and-oil.md, raw/on-infiltration-and-israel.md, raw/q-for-dummies-chapter-18.md, raw/the-battle-for-control.md, raw/the-decade-we-all-became-slaves.md, raw/the-covfefe-dig.md, raw/the-harvard-control-grid.md, raw/the-illusion-of-democracy.md, raw/the-men-behind-the-curtain-part-5.md, raw/the-ivy-web.md, raw/the-master-builder.md, raw/who-are-the-true-puppet-masters.md]
 confidence: low
 ---
 
@@ -146,3 +146,11 @@ Badlands Media's "The Master Builder" (February 2, 2023) asserts that the Rothsc
 On this account the American subsidy of European defense through [[nato|NATO]] existed to benefit the European central banks the article attributes to the Rothschilds, and Trump ended it by forcing allies — [[germany|Germany]] above all — to pay their own way.[17] With rapid interest-rate increases from Trump's Federal Reserve, high inflation and a looming recession, and the boomerang effect of [[sanctions|sanctions]] on Russian energy, Lange contends that European central banks are being squeezed into requesting bailouts while the [[brics|BRICS]] coalition prepares an alternative system.[17]
 
 17. Badlands Media — "The Master Builder", URL: https://badlands.substack.com/p/the-master-builder
+
+## Cited in "Who are the True Puppet Masters?" (July 2023)
+
+[[erik-carlson|Erik Carlson]] asks rhetorically where the Rothschild banking system took hold and answers: England, and London to be exact.[18] The family appears in his argument as evidence that the [[british-cabal|British Cabal]] is not the ethnic conspiracy many researchers take it for — most people see the Rothschilds as Jewish, he writes, but how many see them as British? "The Satanic Cabal takes from all walks of life."[18]
+
+He also cites the Rothschilds alongside the Royal [[house-of-windsor|Family]] when questioning published lists of the world's richest people, arguing that the genuinely wealthiest figures go unseen on such lists and that their fortunes are greatly understated.[18]
+
+18. Badlands Brief — "Who are the True Puppet Masters?", URL: https://badlands.substack.com/p/who-are-the-true-puppet-masters

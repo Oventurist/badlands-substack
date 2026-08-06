@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [syria, regime-change, isis, russia]
-sources: [raw/a-conflict-of-interest.md, raw/a-dereliction-of-duty.md, raw/arabian-nights.md, raw/assad-day-in-damascus.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-ea6.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-dereliction-of-duty.md, raw/arabian-nights.md, raw/assad-day-in-damascus.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-ea6.md, raw/unmasking-the-military-industrial.md]
 confidence: low
 ---
 
@@ -103,3 +103,13 @@ On Monday, September 9, 2024, the embassy of [[saudi-arabia|Saudi Arabia]] reope
 11. Badlands Brief — "Badlands News Brief: Black Hat Nightmares & A Camelback Caravan of Confirmation", URL: https://badlands.substack.com/p/badlands-news-brief-a64
 12. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44
 13. Badlands Brief — "Badlands News Brief: Trump-a-Mania Rages On, Brother!", raw/badlands-news-brief-ea6.md
+
+## Strategic resistance and asylum (December 2024 analysis)
+
+A December 2024 Badlands Media analysis portrayed Assad's refusal to capitulate to Western demands as making him a prime target of the [[military-industrial-complex|Military-Industrial Complex]], which it said engineered the Syrian conflict beginning with the 2011 protests to destabilize the region, secure resources, and counter Russian and Iranian influence.[14] Central to the economic motive was pipeline politics: Assad opposed the proposed [[qatar-turkey-pipeline|Qatar-Turkey pipeline]] in favor of a rival route with Iran and Russia, a decision the article identifies as a major factor in the war.[14] Alleged chemical attacks attributed to his government, including the 2013 [[ghouta-chemical-attack|Ghouta attack]], the 2017 [[khan-shaykhun-chemical-attack|Khan Shaykhun attack]], and the 2018 [[douma-chemical-attack|Douma incident]], are presented as staged or exaggerated pretexts for intervention.[14]
+
+Assad survived through strategic alliances and covert operations, most decisively the Russian air campaign launched at his request in 2015, which the article calls a turning point that allowed the Syrian government to regain lost territory.[14] Iran's support added military advisors, funding, and logistical aid that further complicated MIC plans for regime change.[14] Periods of what the article terms "temporary relocation" — Assad's strategic absence during heightened assassination threats — are said to have let Syrian and Russian forces concentrate on dismantling opposition strongholds.[14]
+
+Following the collapse of his government and his flight to Moscow, where Vladimir Putin personally approved his asylum, Badlands Media interpreted the move not as a defeat but as a disruption of MIC plans and a realignment of regional power dynamics.[14]
+
+14. Badlands Media — "Unmasking the Military Industrial Complex", URL: https://badlands.substack.com/p/unmasking-the-military-industrial

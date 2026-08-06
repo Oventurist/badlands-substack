@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [cia, qanon, surveillance, narrative-war, armenia, north-korea]
-sources: [raw/everything-is-connected.md, raw/q-for-dummies-chapter-11.md]
+sources: [raw/everything-is-connected.md, raw/q-for-dummies-chapter-11.md, raw/we-are-watching-a-movie.md]
 confidence: low
 ---
 
@@ -40,3 +40,9 @@ The four Armenian supercomputers were all taken offline on the same day, August 
 Chapter 11 of the [[q-for-dummies|Q for Dummies]] series notes that "Snow White" recurs throughout the November 5, 2017 drops, closing drop #81 alongside the unexplained signature "[[wizards-and-warlocks|Wizards & Warlocks]]."[2] The chapter's author states that, at that point in the drops, he believes Snow White refers to CIA programs and operations.[2]
 
 Snow White appears again in drop #84, in the context of Q's statement that events in [[saudi-arabia|Saudi Arabia]] were already under control and that what the public was seeing amounted to a staged rollout; the author speculates that the tables may have been turned and the CIA's supercomputers used against their operators.[2] It recurs once more in drop #87, which the author reads together with Q's assertion that his closing signatures were nods toward incoming events — a claim tied to the [[future-proves-past|future proves past]] refrain.[2]
+
+## Identified with Prince Alwaleed
+
+In his follow-up article "We Are Watching a Movie," [[joe-lange|Joe Lange]] returns to the point deferred earlier and names the "one specific individual" behind the Snow White motif as [[alwaleed-bin-talal|Prince Alwaleed bin Talal]].[3] He argues that [[donald-trump|Donald Trump]] flagged the prince in a December 2015 Twitter post as a breadcrumb for anons to dig on, nicknaming him "Dopey" - a reference both to the seven-dwarf naming of the [[central-intelligence-agency|CIA]] supercomputers and to reporting that Alwaleed engaged in dwarf-tossing at his desert encampments.[3] On this reading the Snow White references were centred on Alwaleed and the CIA together, consistent with Q's rule that a term can carry multiple meanings.[3] These claims reflect Badlands Media interpretation rather than established fact.
+
+3. Badlands Brief - "We Are Watching a Movie", URL: https://badlands.substack.com/p/we-are-watching-a-movie

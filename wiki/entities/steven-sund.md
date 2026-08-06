@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [january-6, us-capitol-police, congressional-testimony, security]
-sources: [raw/badlands-news-brief-e7c.md, raw/badlands-news-brief-f61.md]
+sources: [raw/badlands-news-brief-e7c.md, raw/badlands-news-brief-f61.md, raw/tucker-twitter-and-the-truth-community.md]
 confidence: medium
 ---
 
@@ -32,6 +32,17 @@ In episode 15 of [[tucker-on-twitter|Tucker on Twitter]], released in August 202
 
 According to that account, Sund was set up to be a patsy: multiple agencies withheld intelligence from him and denied him support for 71 minutes while the U.S. Capitol was under siege.[2] His attempts to tell the story had been repeatedly suppressed — Carlson had interviewed him while still at [[fox-news|Fox News]] and the network refused to air the discussion, [[60-minutes|60 Minutes]] used less than ten minutes of his side, and although he was interviewed by the Department of Defense and the Senate, his account was withheld from the public until the X release.[2] Ashe in America called for truth and reconciliation and accountability for the agencies that designed and carried out the operation, arguing that "we were gassed and then gaslit" and that ultimately "the buck stops with [[nancy-pelosi|Nancy Pelosi]]."[2]
 
+## Carlson interview and account of January 6
+
+In August 2023 Sund gave an hour-long interview to [[tucker-carlson|Tucker Carlson]] on [[tucker-on-twitter|Tucker on Twitter]].[3] In his opening remarks Carlson revealed that he had interviewed Sund earlier while still at [[fox-news|Fox News]], that the segment was scheduled to air on April 24, 2023 — the day Carlson's firing was announced — and that Fox never ran it.[3] [[ashe-in-america|Ashe in America]] argued that watching the interview made plain why the network declined to air it: the account wholly debunks the mainstream narrative of a "very violent" insurrection.[3]
+
+By Sund's telling, he was set up by certain members of the [[uniparty|uniparty]] establishment to take the fall for the "intelligence failure" that allowed the Capitol to be overrun.[3] He said multiple agencies withheld intelligence in the days before January 6, and described the briefing and information-sharing processes as entirely different from those preceding the MAGA rallies of November and December 2020, and unlike every other major First Amendment protest he had worked in thirty years of Washington law enforcement.[3] Although the [[government-accountability-office|GAO]] and Senate reports issued after the event described high threat levels, Sund said he never received that intelligence.[3] On the day itself, he said, the chain of command denied him support for 71 minutes while the Capitol and his officers were being overwhelmed.[3]
+
+Ashe in America contrasted Sund's documentation with that of [[nancy-pelosi|Nancy Pelosi]], whom she described as the "Top Boss" atop the chain of command that day: Sund provided his phone records and other documentation, while Pelosi produced only an edited documentary made by her daughter, [[alexandra-pelosi|Alexandra Pelosi]], whose raw footage, phone records and other materials have never been released.[3] According to Sund, Representative [[bennie-thompson|Bennie Thompson]], the Democrat who chaired the [[january-6-committee|January 6 Committee]], told the committee that Pelosi and all of her records were "off limits."[3]
+
+Sund has sought to tell his story to anyone who would listen, but like most off-narrative January 6 accounts it has been suppressed — Fox refused to air his interview, [[60-minutes|60 Minutes]] used less than ten minutes of it, and his official interviews with federal bodies including the Department of Defense and the Senate never reached the public.[3] The Twitter interview had drawn nearly 12 million views as of press time, roughly three times what it would have received on Fox.[3] Independent investigative journalist [[mel-hawley|Mel Hawley]], appearing on [[culture-of-change|Culture of Change]] to break down the interview, asked whether the inconsistencies between the official narrative and the official record were the reason the January 6 Committee destroyed its records.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: A Fed, a Ukrainian & a DeSimp Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-e7c
 2. Badlands Brief — "Badlands News Brief: Special Counsels, Island Fires & White Pills", URL: https://badlands.substack.com/p/badlands-news-brief-f61
+3. Badlands Brief — "Tucker, Twitter, and the Truth Community", URL: https://badlands.substack.com/p/tucker-twitter-and-the-truth-community

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [trump, policy, america-first, globalism, 2024-campaign]
-sources: [raw/badlands-news-brief-644.md, raw/badlands-news-brief-72e.md, raw/the-candidate-who-isnt-there.md]
+sources: [raw/badlands-news-brief-644.md, raw/badlands-news-brief-72e.md, raw/the-candidate-who-isnt-there.md, raw/trumps-2025-vision.md]
 confidence: medium
 ---
 
@@ -38,8 +38,15 @@ In "The Candidate Who Isn't There," published August 24, 2024, Badlands Media co
 
 DeLarme noted that Agenda 47 contains what he called "some pretty remarkable and almost fantastical ideas," singling out its proposal for "promoting the development of 'vertical takeoff-and-landing vehicles'" — a phrase whose meaning he professed not to understand.[3] He returned to it at the close of the article, writing that Trump needed to win in 2024 not merely because he wanted to see vertical take-off and landing craft, but because "America will fall if he doesn't."[3]
 
+## Policy planks catalogued in "Trump's 2025 Vision"
+
+Deschamps returned to Agenda 47 in a June 2023 essay built around an [[axios|Axios]] survey of Trump's second-term plans, treating each plank the outlet framed as alarming as a window onto a captured institution.[4] On the federal workforce, he defended Trump's proposal to hire and fire federal employees at will as a remedy for entrenched [[deep-state|Deep State]] holdovers who, in his account, sabotaged the first term.[4] On education, he cited Agenda 47 pledges to reward schools that abolish tenure, remove diversity, equity and inclusion programs, and dismiss accreditation officials, arguing that tenure functions as an irrevocable license for universities to indoctrinate.[4]
+
+He also catalogued the plan's law-enforcement provisions — an auditing system to ensure intelligence agencies are not spying on citizens and the removal of "Marxist prosecutors" — as a direct attack on [[lawfare|lawfare]].[4] Further planks he discussed include Justice Department investigation of pharmaceutical companies and hospital networks over "sex transitions," exclusion of gender-affirming care providers from Medicaid and Medicare, use of the military against drug cartels and street crime, repeal of an Obama-era fair-housing rule tied to federal grants, national concealed-carry reciprocity, baby bonuses, and the ten [[freedom-cities|Freedom Cities]].[4]
+
 ## References
 
 1. Badlands Brief — "J6 Exposure, Biden's Brain and Trump's Agenda", URL: https://badlands.substack.com/p/badlands-news-brief-644
 2. Badlands Brief — "Badlands News Brief: Ukraine Bursts, Tucker Returns & Trump Promises", URL: https://badlands.substack.com/p/badlands-news-brief-72e
 3. Badlands Brief — "The Candidate Who Isn't There", URL: https://badlands.substack.com/p/the-candidate-who-isnt-there
+4. Badlands Brief — "Trump's 2025 Vision [Updated]", URL: https://badlands.substack.com/p/trumps-2025-vision

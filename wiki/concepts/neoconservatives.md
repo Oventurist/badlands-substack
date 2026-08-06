@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [politics, republican-party, neocons]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-brief-165.md, raw/badlands-news-brief-dbd.md, raw/deep-state-spotlight-victoria-nuland.md, raw/president-trumps-call-to-arms.md, raw/schisms-in-maga.md, raw/shadows-sovereigns-and-civil-wars-e41.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-brief-165.md, raw/badlands-news-brief-dbd.md, raw/deep-state-spotlight-victoria-nuland.md, raw/president-trumps-call-to-arms.md, raw/schisms-in-maga.md, raw/shadows-sovereigns-and-civil-wars-e41.md, raw/war-pigs-21c.md, raw/where-the-art-of-the-deal-meets-the.md]
 confidence: medium
 ---
 
@@ -59,3 +59,19 @@ Matthew Ehret traces neo-conservatism directly to American Trotskyism: after [[l
 Burnham, whom Christopher Hitchens called "the intellectual founder of the neoconservative movement," saw the resolution to the Manichean problem of class struggle and Cold War in a one-world fascist government, and shortly before Trotsky's death renounced dialectical materialism in favor of Lord [[bertrand-russell|Bertrand Russell]]'s philosophy.[7] Ehret argues that the neoconservative commitment to a Darwinian survival-of-the-fittest ethic merged with a gnostic Christian end-times doctrine produces effects largely identical to Trotsky's fusion of Darwinism and dialectical materialism: global chaos with a supposed point of synthesis to resolve it.[7] Wohlstetter carried the same paradigm into the [[rand-corporation|RAND Corporation]], while Hook, Kristol and Burnham helped organize the [[congress-for-cultural-freedom|Congress for Cultural Freedom]].[7]
 
 7. Badlands Brief — "Shadows, Sovereigns and Civil Wars - Part 2", URL: https://badlands.substack.com/p/shadows-sovereigns-and-civil-wars-e41
+
+## Rebranding within the Democratic Party
+
+In the January 2024 essay "War Pigs," [[ryan-delarme|Ryan DeLarme]] describes the neoconservatives as the political representatives of the [[military-industrial-complex|Military Industrial Complex]] and argues that their apparent merger with establishment Democrats — seemingly consummated after [[hillary-clinton|Hillary Clinton]]'s 2016 defeat by [[donald-trump|Donald Trump]] — was in fact a reunion of factions that had never truly separated.[8] Democrats and establishment Republicans opposed Trump as their first real opposition after years of uncontested uniparty rule, while the neocons loathed him because his non-interventionism threatened to neuter the MIC entirely.[8]
+
+DeLarme contends that the liberal media's post-Iraq turn against Bush, [[dick-cheney|Cheney]] and the neocons — with [[barack-obama|Barack Obama]] marketed as the solution — was "kabuki theater," since the left had been in bed with the neocons the whole time.[8] Under Obama, he writes, drone bombing continued at an average of 72 bombs per day in 2016 while [[victoria-nuland|Victoria Nuland]] escalated tensions with Russia, illustrating the practice of priming conditions for future wars while prosecuting present ones.[8] Once-disgraced figures such as [[william-kristol|Bill Kristol]], [[robert-kagan|Robert Kagan]], Nuland, [[mike-rogers|Mike Rogers]] and Jamie Fly soon appeared on [[cnn|CNN]] and [[msnbc|MSNBC]] warning of the danger Trump posed to democracy.[8]
+
+He rejects the rationalization that the alliance was a transitory union of convenience against Trump, calling it a patent pretext: the reunification predated any belief that Trump could win and rests on shared objectives, perspectives and policies.[8] The same network had been at work under [[bill-clinton|Bill Clinton]], whose 1998 air strike on Iraq — launched the day Monica Lewinsky testified before a grand jury — DeLarme attributes to Kristol, Kagan and their colleagues at the [[project-for-the-new-american-century|Project for a New American Century]].[8] By his assessment, neocons have caused more harm to the United States and the world than any other single group, having masterminded the Iraq invasion and its accompanying deceit, the post-9/11 global torture regime, and the political atmosphere that stigmatized dissent.[8]
+
+8. Badlands Brief — "War Pigs", URL: https://badlands.substack.com/p/war-pigs-21c
+
+## Role in the 2024 cabinet negotiations
+
+[[erik-carlson|Erik Carlson]]'s December 3, 2024 essay treated NeoCons, alongside [[rino|RINOs]], as the bloc in [[congress|Congress]] and the [[united-states-senate|Senate]] whose cooperation [[donald-trump|Trump]] needed during the first two years of his second term.[9] Carlson argued that unless they felt the deal on offer was adequate, they would vote with Democrats and bring legislative progress to a halt, and that securing their cooperation might require concessions on cabinet appointments unpopular with the base.[9] He also floated the possibility that keeping Trump's most loyal supporters out of the cabinet was itself such a concession.[9] See [[2024-trump-cabinet-selection-controversy]].[9]
+
+9. Badlands Brief — "Where the Art of the Deal Meets the Spotlight", URL: https://badlands.substack.com/p/where-the-art-of-the-deal-meets-the

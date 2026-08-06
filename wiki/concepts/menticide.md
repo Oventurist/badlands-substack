@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [psychology, propaganda, totalitarianism, mind-control, mass-psychosis]
-sources: [raw/menticide-the-rape-of-the-mind.md]
+sources: [raw/menticide-the-rape-of-the-mind.md, raw/triggering-mass-psychosis.md]
 confidence: medium
 ---
 
@@ -50,3 +50,9 @@ Menticide is presented as the second installment of a two-part series following 
 
 ## References
 1. Badlands Brief — "Menticide: The Rape of the Mind", URL: https://badlands.substack.com/p/menticide-the-rape-of-the-mind
+
+## Announced in part one of the series (January 2023)
+
+Menticide was previewed in the first installment of the two-part series, "Triggering Mass Psychosis," published January 20, 2023 by [[justin-deschamps|Justin Deschamps]] with contributions from [[ryan-delarme|Ryan DeLarme]].[2] Closing that article, Deschamps promised that the sequel would show that the psychosis used by the elite requires a break from objective morality to be effective, would explain why the American founding fathers anchored inalienable rights to a Creator — a major problem for the power-hungry elite of their time — and would break down how the globalists used menticide, "the rape of the mind," to effect their plans, ending with steps readers can take to escape the mental imprisonment system.[2]
+
+2. Badlands Brief — "Triggering Mass Psychosis", URL: https://badlands.substack.com/p/triggering-mass-psychosis

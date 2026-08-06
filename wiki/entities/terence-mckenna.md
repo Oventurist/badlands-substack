@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, prediction, counterculture]
-sources: [raw/a-swan-song-for-the-msm.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/the-werewolf-game-what-is-clown-world.md]
 confidence: low
 ---
 
@@ -14,5 +14,10 @@ Terence McKenna (rendered "Terrance McKenna" in the source) was an author, mysti
 
 McKenna forecast the inevitable demise of "office culture" and of the mainstream media in particular, declaring: "Mass media is finished… mass media is one-to-many communication, and what the internet offers is any-to-any."[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm) Badlands judges that "his prediction is proving to be right on the money," using it as the structural explanation for the simultaneous collapse of the [[centralized-media|centralized media]] and the rise of [[citizen-journalism|citizen journalism]] and the [[decentralized-media|decentralized media]].[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
+## Machine elves
+
+A separate Badlands Media essay, the Werewolf Game installment "What is Clown World?", cites McKenna for his famous descriptions of the "machine elves" he encountered on DMT, and reports that machine elves and "trickster jesters" are among the most commonly reported entities on such substances.[2] The article argues that perhaps millions of people have since sought contact with those beings after hearing his stories, and treats the consistency of such reports across continents and decades as grounds for doubting the conventional hallucination explanation in favor of a real [[astral-plane|astral realm]].[2]
+
 ## References
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
+2. Badlands Brief — "The Werewolf Game - What is Clown World?", URL: https://badlands.substack.com/p/the-werewolf-game-what-is-clown-world

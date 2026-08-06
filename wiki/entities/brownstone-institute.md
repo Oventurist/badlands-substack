@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [think-tank, covid-19, civil-liberties, media]
-sources: [raw/badlands-news-brief-092.md, raw/badlands-news-brief-f18.md, raw/behold-a-trojan-horse.md]
+sources: [raw/badlands-news-brief-092.md, raw/badlands-news-brief-f18.md, raw/behold-a-trojan-horse.md, raw/the-whos-last-stand.md]
 confidence: medium
 ---
 
@@ -27,3 +27,9 @@ A May 2023 Badlands Media article, "Behold, a Trojan Horse," cited the Brownston
 1. Badlands Brief — "Badlands News Brief: Trans Easter Bait & A Tale of Two Presidents", URL: https://badlands.substack.com/p/badlands-news-brief-092
 2. Badlands Brief — "Corruption, Mad Science & Colombian Defiance", URL: https://badlands.substack.com/p/badlands-news-brief-f18
 3. Badlands Brief — "Behold, a Trojan Horse", URL: https://badlands.substack.com/p/behold-a-trojan-horse
+
+## Critique of WHO pandemic proposals
+
+Badlands Media's "The WHO's Last Stand" cited [[david-bell|Dr. David Bell]], a Senior Scholar at the Brownstone Institute, public health physician and biotech consultant in global health, as a leading technical critic of the [[world-health-organization|WHO]]'s pandemic preparedness and response proposals.[4] Bell was quoted arguing that the COVID lockdown strategy did not originate with the WHO itself: "The idea of lockdowns didn't come from the WHO, it came from these external influences."[4]
+
+4. Badlands Brief — "The WHO's Last Stand", URL: https://badlands.substack.com/p/the-whos-last-stand

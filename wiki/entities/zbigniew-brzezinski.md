@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [national-security, cold-war, deep-state, foreign-policy]
-sources: [raw/badlands-news-brief-1ae.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-f14.md, raw/defeating-the-depopulation-agenda.md, raw/operation-cyclone-the-seeds-of-terror.md, raw/the-latest-in-technocratic-nightmares.md, raw/the-men-behind-the-curtain-part-2.md]
+sources: [raw/badlands-news-brief-1ae.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-f14.md, raw/defeating-the-depopulation-agenda.md, raw/operation-cyclone-the-seeds-of-terror.md, raw/the-latest-in-technocratic-nightmares.md, raw/the-men-behind-the-curtain-part-2.md, raw/valediction-revisited-25-years-after.md]
 confidence: medium
 ---
 
@@ -74,6 +74,18 @@ Brzezinski personally recruited Georgia governor [[jimmy-carter|Jimmy Carter]] i
 
 His conduct in office drew direct criticism: Secretary of State Edmund Muskie charged that Brzezinski was making foreign policy rather than coordinating it, and William Sullivan, the U.S. ambassador to Iran, accused him of sabotaging efforts to ease relations with Tehran after the Shah's departure, complaining that "by November 1978, Brzezinski began to make his own policy and establish his own embassy in Iran."[9] Author Patrick Wood later claimed that [[barack-obama|Barack Obama]] was groomed by Brzezinski, who served as his principal foreign policy advisor.[9]
 
+## The Valediction account
+
+[[paul-fitzgerald|Paul Fitzgerald]] and [[elizabeth-gould|Elizabeth Gould]], writing in [[valediction-three-nights-of-desmond|Valediction: Three Nights of Desmond]], place Brzezinski at the centre of the hardline faction — alongside [[paul-nitze|Paul Nitze]], [[paul-wolfowitz|Paul Wolfowitz]], [[richard-pipes|Richard Pipes]], [[richard-perle|Richard Perle]] and [[george-hw-bush|George H. W. Bush]] — that resolved to stop the détente-era push toward trust and cooperation with Moscow.[10] The vehicle was the 1976 think tank [[team-b|Team B]], and by 1978 the Trilateral-run coup of U.S. intelligence was nearly complete, after which a newly reorganised system of international clandestine operations was launched to wage asymmetric warfare against Russia and against any force, east or west, that did not fit Brzezinski's emerging "technetronic age."[10]
+
+In this account the February 1979 assassination of Ambassador [[adolph-dubs|Adolph Dubs]] in Kabul was necessary because Dubs was negotiating a settlement that would keep the Soviets out of the Afghan trap while still enriching President [[hafizullah-amin|Hafizullah Amin]] — an outcome that threatened to disrupt all of Brzezinski's designs for the region.[10] The murder supplied the propaganda needed to fuel anti-Russian hysteria and to justify a new clandestine asymmetric warfare policy, at the cost of a diplomat who wanted to avoid a world war and of a highly placed CIA asset who would play the role of an Afghan Lee Harvey Oswald.[10]
+
+The resulting money pit, [[operation-cyclone|Operation Cyclone]], poured billions of taxpayer dollars into sponsoring terrorist movements that soon morphed into [[al-qaeda|Al-Qaeda]] and into the emergence of the world's largest heroin production zone in the heart of Mackinder's World Island.[10] It also justified Brzezinski's push for the "flexible response" limited nuclear war doctrine of 1980, which shaped the [[full-spectrum-dominance|Full Spectrum Dominance]] programme now encircling Russia and China.[10]
+
+Asked in a 1998 interview whether he regretted his driving role in the creation of Al Qaeda, Brzezinski answered: "Regret what? That secret operation was an excellent idea. It had the effect of drawing the Russians into the Afghan trap and you want me to regret it? The day that the Soviets officially crossed the border, I wrote to President Carter: We now have the opportunity of giving to the USSR its Vietnam war. Indeed, for almost 10 years, Moscow had to carry on a war unsupportable by the government, a conflict that brought about the demoralization and finally the breakup of the Soviet empire."[10]
+
+A year before that interview he published [[the-grand-chessboard|The Grand Chessboard]], which became the guiding light for the neoconservative Project for a New American Century led by the same men who had risen under his sponsorship in the 1970s — [[donald-rumsfeld|Donald Rumsfeld]], Richard Perle, Paul Wolfowitz, [[richard-helms|Richard Helms]] and [[dick-cheney|Dick Cheney]].[10] In it he wrote that "the three grand imperatives of imperial geostrategy are to prevent collusion and maintain security dependence among the vassals, to keep tributaries pliant and protected, and to keep the barbarians from coming together," and warned that "the most dangerous scenario would be a grand coalition of China, Russia, and perhaps Iran, an 'anti-hegemonic' coalition united not by ideology but by complementary grievances."[10] The article observes that the chief difference between 2025 and 1981 is that a multipolar alliance led by Russia and China has now built exactly the coherent alternative security, cultural and financial architecture Brzezinski feared.[10]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Playing the Opposite Game with Deep State Propaganda", URL: https://badlands.substack.com/p/badlands-news-brief-1ae
 2. Badlands Brief — "Badlands News Brief: North American Trade Troubles & Unipartisan Panic", URL: https://badlands.substack.com/p/badlands-news-brief-52f
@@ -84,3 +96,4 @@ His conduct in office drew direct criticism: Secretary of State Edmund Muskie ch
 7. Badlands Brief — "Operation Cyclone - The Seeds of Terror", URL: https://badlands.substack.com/p/operation-cyclone-the-seeds-of-terror
 8. Badlands Brief — "The Latest in Technocratic Nightmares", URL: https://badlands.substack.com/p/the-latest-in-technocratic-nightmares
 9. Badlands Brief — "The Men Behind the Curtain - Part 2", URL: https://badlands.substack.com/p/the-men-behind-the-curtain-part-2
+10. Badlands Brief — "Valediction Revisited - 25 Years After 9-11", URL: https://badlands.substack.com/p/valediction-revisited-25-years-after

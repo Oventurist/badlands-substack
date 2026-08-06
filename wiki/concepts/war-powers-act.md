@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [war-powers, congress, commander-in-chief, national-emergency, military]
-sources: [raw/irregular-warfare.md]
+sources: [raw/irregular-warfare.md, raw/war-pigs-21c.md]
 confidence: medium
 ---
 
@@ -24,3 +24,12 @@ This framing supports the article's broader thesis that domestic disorder attrib
 
 ## References
 1. Badlands Brief — "Irregular Warfare", URL: https://badlands.substack.com/p/irregular-warfare
+2. Badlands Brief — "War Pigs", URL: https://badlands.substack.com/p/war-pigs-21c
+
+## The Yemen strikes debate
+
+The resolution returned to prominence in January 2024, when it was offered as the primary justification for [[joe-biden|Joe Biden]]'s bombing of sixteen sites in [[yemen|Yemen]] without congressional approval.[2] In the Badlands essay "War Pigs," [[ryan-delarme|Ryan DeLarme]] argues that none of the three scenarios enumerated in Section 1541(c) permits a president to take unilateral offensive military action without the consent of [[congress|Congress]], and that several members of Congress objected to the strikes as illegal and unconstitutional.[2]
+
+DeLarme quotes former Michigan congressman [[justin-amash|Justin Amash]] at length: the first two prongs allow offensive action only with Congress's express approval, since Article I grants Congress the exclusive power to declare war, while the third allows defensive action without approval only in response to a sudden unforeseen attack occurring too quickly for Congress to convene.[2] It is for that circumstance, Amash notes, that the resolution provides the 48-hour report under § 1543 and the 60-day (extendable to 90-day) clock under § 1544.[2] The Framers, at the 1787 federal convention, agreed the president should have the "power to repel sudden attacks" but not otherwise to introduce forces into hostilities without congressional approval, and the resolution therefore confers no new authority — it checks the president.[2]
+
+DeLarme attributes the contrary belief that presidents face no limits on their war-making to the Bush–Cheney era, when 9/11 was exploited to advance radical theories of executive power under Article Two of the Constitution, and to the [[authorization-for-use-of-military-force-of-2001|2001 AUMF]], which he calls a [[neoconservatives|neoconservative]] workaround for endless war.[2]

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [labor, ports, supply-chain, ila, panic-buying]
-sources: [raw/badlands-news-brief-189.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-502.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-683.md]
+sources: [raw/badlands-news-brief-189.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-502.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-683.md, raw/q-for-dummies-chapter-20.md, raw/three-possible-election-outcomes.md]
 confidence: medium
 ---
 
@@ -63,3 +63,13 @@ Badlands commentary framed the strike as a potential turning point that could de
 Chapter 20 of the [[q-for-dummies|Q for Dummies]] series describes the walkout as "a very short-lived port strike" that had, for the moment, been averted and suspended until January 15.[6] The author frames the episode as a set of Q communications rather than an ordinary labour dispute, citing [[harold-daggett|Harold Daggett]]'s prior meeting with [[donald-trump|President Trump]] at Mar-a-Lago and a cluster of numbers — a $1.7 million home of 7,163 square feet, a 76-foot yacht, 17 port deaths in three months, and 45,000 striking workers — as evidence of hidden significance.[6] The chapter closes the passage by recalling the Q instruction to [[watch-the-water|watch the water]].[6]
 
 6. Badlands Brief — "Q for Dummies - Chapter 20", URL: https://badlands.substack.com/p/q-for-dummies-chapter-20
+
+## Carlson's white-hat interpretation
+
+In "Three Possible Election Outcomes," published October 10, 2024, [[erik-carlson|Erik Carlson]] treated the strike's timing as suspicious, writing that it seemed "too coincidental" that the walkout was set to occur immediately before the election.[7] He noted that the closures temporarily locked down the ports of the East and South, drastically reducing what moved in and out of the country.[7]
+
+Carlson's central speculation is that the shutdown would have crippled drug running, gun running and human trafficking had it continued, and he asked whether containers were inspected during the stoppage — or would have been had the strike lasted longer.[7] He also weighed the opposite reading, that a longer strike was intended to disrupt the supply chain, cause shortages and price increases and a temporary stock market drop, none of which would have reflected well on the incumbent administration.[7]
+
+Explicitly labelling the section as speculation, he proposed that the strike may have been a [[white-hats|white hat]] operation meant to run far longer and shut down trafficking networks, but forced to end prematurely.[7] In the same passage he suggested that Deep State actors may have manipulated the weather to intensify the hurricane that struck North Carolina and neighbouring states, and then withheld assistance, in order to create pressure to reopen the ports and restore trafficking operations.[7]
+
+7. Badlands Brief — "Three Possible Election Outcomes", URL: https://badlands.substack.com/p/three-possible-election-outcomes

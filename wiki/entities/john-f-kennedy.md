@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [jfk, us-president, bretton-woods, deep-state]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-4ab.md, raw/badlands-news-brief-cba.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-dae.md, raw/badlands-news-brief-fcb.md, raw/combating-the-transhumanist-religion.md, raw/four-pillars-of-government-control.md, raw/heroes-of-the-great-awakening.md, raw/john-bobby-and-marilyn.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-covfefe-dig.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-4ab.md, raw/badlands-news-brief-cba.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-dae.md, raw/badlands-news-brief-fcb.md, raw/combating-the-transhumanist-religion.md, raw/four-pillars-of-government-control.md, raw/heroes-of-the-great-awakening.md, raw/john-bobby-and-marilyn.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-covfefe-dig.md, raw/the-werewolf-game-a-new-class-of.md, raw/time-to-revive-the-spirit-of-jfk.md, raw/will-trump-thwart-the-coming-water.md]
 confidence: low
 ---
 
@@ -61,6 +61,12 @@ Badlands Media's March 2023 feature "The COVFEFE Dig" presents Kennedy as a prec
 
 The author argues Kennedy's aim was to merge the Treasury with the Fed rather than simply strip the Fed's power, reasoning that a corrupt system can only be brought down once its parts are tied together.[13] The order was later revoked in full by [[ronald-reagan|Ronald Reagan]] through [[executive-order-12608|Executive Order 12608]].[13] The dig also incorporates 11/22, the date of Kennedy's assassination, into its pattern of repeating numbers alongside 11/11.[13]
 
+## Space policy and open-system economics
+
+In "Time to Revive the Spirit of JFK," [[matthew-ehret|Matthew Ehret]] presents Kennedy as the author of an open-system conception of economics rooted in space exploration.[15] Kennedy's September 20, 1963 United Nations speech championed the establishment of a joint U.S.–Russian space program, and in his Rice University address he made clear that space exploration generated long-term goals and intentions that would "serve to organize and measure the best of our energies and skills."[15] Ehret argues that the stochastic idea of economics as "hedonistic beasts with money seeking to maximize their pleasure and reduce their pain while buying low and selling dear," advocated by free marketeers and libertarians, could never stand up to this higher conception of capitalism as outlined by Kennedy and the best American System traditions.[15]
+
+Kennedy also led the drafting and passage of UN resolution 1962, which became the 1967 [[outer-space-treaty|Outer Space Treaty]], and unveiled the [[nerva-program|NERVA]] nuclear rocket program and Project Rover, which promised flight to the Moon, Mars and the furthest reaches of the solar system.[15] Ehret notes that Kennedy's cooperation offers to the Soviet Union were dropped upon his death despite [[nikita-khrushchev|Khrushchev]] having written of his desire that they proceed, and that [[nasa|NASA]]'s budget peaked in 1964 before being drained into the war in Vietnam.[15] He counts Kennedy among the pro-development leaders — with [[enrico-mattei|Enrico Mattei]], Dag Hammarskjöld, Daniel Johnson Sr., [[robert-f-kennedy|Bobby Kennedy]] and [[martin-luther-king-jr|Martin Luther King Jr.]] — over whose dead bodies [[neo-malthusianism|neo-Malthusian]] statecraft took the levers of Western policy.[15] Ehret's central argument is that the original design of the [[artemis-accords|Artemis Accords]] must be revived so that the United States can again work with Russia and China in the spirit of Kennedy's call "to go beyond the limits of knowledge."[15]
+
 ## References
 1. Badlands Brief — "A Gateway to a New World of Cooperation", URL: https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation
 2. Badlands Brief — "The Reckoning of Fake Elections, Fake Wars and Fake Allies", URL: https://badlands.substack.com/p/badlands-brief-b62
@@ -101,3 +107,22 @@ Carlson states that it is no longer controversial to say the agency was heavily 
 
 12. Badlands Brief — "The CIA is Being Thrown Under the Bus", URL: https://badlands.substack.com/p/the-cia-is-being-thrown-under-the
 13. Badlands Brief — "The COVFEFE Dig", URL: https://badlands.substack.com/p/the-covfefe-dig
+
+## The Werewolf Game series
+
+[[american-hypnotist|American Hypnotist]]'s [[the-werewolf-game|Werewolf Game]] series argues that the [[kennedy-family|Kennedy family]] has been under attack since before Kennedy attempted to wrest the power of money creation from the [[federal-reserve|Federal Reserve]] and put it back in the hands of the people — described as an unambiguously positive act for the country and an unambiguous rebuke to the cabal.[14] The series treats the subsequent run of untimely family deaths as the [[kennedy-curse|"Kennedy Curse"]], evidence of sustained [[deep-state|Deep State]] hostility.[14]
+
+The same article notes that [[donald-trump|Donald Trump]] possesses Kennedy's rocking chair, which the author reads as suggestive of a "throne" passed from one "king" to the next within a broader [[trump-kennedy-connection|Trump-Kennedy connection]].[14]
+
+14. Badlands Media — "The Werewolf Game - A New Class of Elites", URL: https://badlands.substack.com/p/the-werewolf-game-a-new-class-of
+15. Badlands Brief — "Time to Revive the Spirit of JFK", URL: https://badlands.substack.com/p/time-to-revive-the-spirit-of-jfk
+
+## Water and power development
+
+Kennedy is credited by [[matthew-ehret|Matthew Ehret]] with opening a new era of large-scale water projects in the 1960s, when continental water management and non-zero-sum thinking were far less taboo than they later became.[16] On taking office he reversed Eisenhower's "No New Builds" agenda and supported bills accelerating federal funding for water, hydroelectric and irrigation projects across the nation.[16]
+
+At an August 17, 1962 dedication ceremony for the Trans Mountain tunnel system connecting the Atlantic and Pacific watersheds, Kennedy called the works "an investment in the future of this country, an investment that will repay large dividends," urging Americans not to regard projects aiding cities as inimical to Colorado or projects helping farmers as taking from the cities.[16] Elsewhere he distinguished the traditional concept of conservation — protecting and setting aside land and water for the future — from a newer conservation that uses science and technology "to achieve significant breakthroughs" and thereby conserve resources that had been wholly unknown decades earlier.[16]
+
+Kennedy's death is said to have derailed many of the projects he and close collaborators such as Senator [[frank-moss|Frank Moss]] and [[robert-f-kennedy|Robert Kennedy]] were pushing, as a Malthusian anti-development paradigm became infused into national policy making.[16] Among the casualties was the [[north-american-water-and-power-alliance|North American Water and Power Alliance]], which became federal legislation in 1965 before fading under the fog of the Vietnam War.[16]
+
+16. Badlands Brief — "Will Trump Thwart the Coming Water Wars?", URL: https://badlands.substack.com/p/will-trump-thwart-the-coming-water

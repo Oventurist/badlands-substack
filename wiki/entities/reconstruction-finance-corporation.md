@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [rfc, new-deal, infrastructure, credit, fdr]
-sources: [raw/the-enduring-legacy-of-the-entente.md]
+sources: [raw/the-enduring-legacy-of-the-entente.md, raw/why-america-needs-to-break-wall-streets.md]
 confidence: medium
 ---
 
@@ -18,3 +18,8 @@ From 1933 to 1939, 45,000 infrastructure projects were built under a grand desig
 
 ## References
 1. Badlands Brief — "The Enduring Legacy of the Entente Cordiale", URL: https://badlands.substack.com/p/the-enduring-legacy-of-the-entente
+2. Badlands Brief — "Why America Needs to Break Wall Street's Kneecaps", URL: https://badlands.substack.com/p/why-america-needs-to-break-wall-streets
+
+## Role in the New Deal
+
+In [[matthew-ehret|Matthew Ehret]]'s account of [[franklin-d-roosevelt|Franklin Roosevelt]]'s first hundred days, the RFC was unleashed to provide broad credit, acting as a national bank that bypassed the private [[federal-reserve|Federal Reserve]] and channeling $33 billion into the real economy by 1945 — more than all private commercial banks combined.[2] It stood alongside [[glass-steagall|Glass-Steagall]], the [[federal-deposit-insurance-corporation|FDIC]] and the [[securities-and-exchange-commission|SEC]] as pillars of the [[new-deal|New Deal]] response to the depression.[2]

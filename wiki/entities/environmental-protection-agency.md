@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [climate, regulation, deregulation, trump-administration]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-70c.md, raw/badlands-news-brief-384.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-c44.md, raw/badlands-news-brief-d6a.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-70c.md, raw/badlands-news-brief-384.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-c44.md, raw/badlands-news-brief-d6a.md, raw/the-weaponization-of-our-food-supply.md]
 confidence: medium
 ---
 
@@ -65,3 +65,9 @@ Badlands contributor [[ashe-in-america|Ashe in America]] argued the second annou
 5. Badlands Brief — "Trump Teases Saudi Trillions; Biden Bros Embezzled Billions", URL: https://badlands.substack.com/p/badlands-news-brief-745
 6. Badlands Brief — "Badlands News Brief: A British TERF Triumph & A Senator Snubbed in El Salvador", URL: https://badlands.substack.com/p/badlands-news-brief-c44
 7. Badlands Brief — "Badlands News Brief: Toothless Sanctions and Ouroboros Patterns", URL: https://badlands.substack.com/p/badlands-news-brief-d6a
+
+## Cited in food-additive criticism
+
+Badlands Media's survey of food and water additives repeatedly invokes the EPA as a reference point.[8] Dr. [[robert-carton|Robert Carton]], described as a former EPA scientist, is quoted saying that "Fluoridation is the greatest case of scientific fraud of this century, if not all time," in support of the claim that [[fluoride]] has never been proven to prevent tooth decay.[8] The agency's recommended consumption limit for methanol is also used as a benchmark by Dr. [[woodrow-monte|Woodrow Monte]], who calculated that [[aspartame]]-sweetened drinks consumed during exertion in hot climates can deliver methanol intakes 32 times that limit.[8] Contributor [[ryan-delarme|Ryan DeLarme]] presented former EPA scientists as a category of professional willing to risk their careers to warn the public about approved chemicals.[8]
+
+8. Badlands Brief — "The Weaponization of Our Food Supply", URL: https://badlands.substack.com/p/the-weaponization-of-our-food-supply

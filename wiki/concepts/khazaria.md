@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [history, russia, jewish-history]
-sources: [raw/badlands-news-brief-e79.md, raw/real-patriots-dont-think-like-hitler-ebe.md]
+sources: [raw/badlands-news-brief-e79.md, raw/real-patriots-dont-think-like-hitler-ebe.md, raw/the-werewolf-game-agents-from-russia.md]
 confidence: low
 ---
 
@@ -44,3 +44,9 @@ Ehret writes that whatever caused the weakening and ultimate collapse of Khazari
 
 1. Badlands Brief — "Badlands News Brief: Biden Commutations and Mossad Confessions", URL: https://badlands.substack.com/p/badlands-news-brief-e79
 2. Badlands Brief — "Real Patriots Don't Think Like Hitler - Part 7: The Truth About Khazaria", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-ebe
+
+## Khazaria and the wolf cult (American Hypnotist, 2024)
+
+In the March 27, 2024 installment of the [[the-werewolf-game|Werewolf Game]] series, [[american-hypnotist|American Hypnotist]] writes that the ancient kingdom of Khazaria hailed from the same Eastern European region — including the Carpathian mountains — as the [[koryos|Koryos]] wolf cult, and asserts that there is "a tremendous amount of evidence" that Khazaria and the werewolf cult are deeply connected.[3] Khazaria is described there as having pioneered horseback warfare, traveling in nomadic tribes and marauding nearby villages.[3] The essay observes that the phoneme "-aria" recurs in TartARIA, KhazARIA and BulgARIA, and asks whether an "Are-an" wolf cult forced its language on nearby peoples.[3] It further suggests that if the wolf cult and Khazaria are closely related, this might explain the resemblance among the titles *Caesar*, *Kaiser* and *Khazar*.[3] The author credits [[veterans-today|Veterans Today]] and [[benjamin-fulford|Ben Fulford]] with introducing the phrase "[[khazarian-mafia|Khazarian mafia]]" into common conspiracy parlance from at least 2015, while stating that he does not personally trust either source.[3]
+
+3. Badlands Brief — "The Werewolf Game - Agents from Russia", URL: https://badlands.substack.com/p/the-werewolf-game-agents-from-russia

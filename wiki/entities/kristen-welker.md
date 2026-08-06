@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, nbc, meet-the-press, election-integrity]
-sources: [raw/badlands-brief-6f0.md, raw/badlands-news-brief-99e.md]
+sources: [raw/badlands-brief-6f0.md, raw/badlands-news-brief-99e.md, raw/trump-20-and-the-opposition-plot.md]
 confidence: medium
 ---
 
@@ -27,3 +27,9 @@ Welker asked Trump about [[kash-patel|Kash Patel]], his choice to lead the [[fbi
 ## References
 1. Badlands Brief — "The Bibi Break-Up Begins, As Does The IC Purge...", URL: https://badlands.substack.com/p/badlands-brief-6f0
 2. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e
+
+## Post-election Meet the Press interview (December 2024)
+
+Welker conducted an hour-long post-election sit-down with [[donald-trump|Donald Trump]] on [[meet-the-press|Meet the Press]], one of two major interviews he gave after his 2024 victory alongside a printed interview with [[time-magazine|TIME]].[3] Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] cited the program's questioning on whether Trump would permit [[robert-f-kennedy-jr|RFK Jr.]] to ban pediatric vaccines or endorse a vaccine-autism link, describing Trump's reply as reasonable and nondogmatic rather than provocative.[3] Trump was also pressed on mass deportations and said he would like to make a deal with Democrats regarding the Dreamers.[3]
+
+3. Badlands Brief - "Trump 2.0 and the 'Opposition' Plot", URL: https://badlands.substack.com/p/trump-20-and-the-opposition-plot

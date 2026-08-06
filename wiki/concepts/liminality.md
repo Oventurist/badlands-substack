@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [consciousness, awakening, liminality, badlands-media, psychology]
-sources: [raw/the-liminal.md]
+sources: [raw/the-liminal.md, raw/transcending-ego.md]
 confidence: medium
 ---
 
@@ -58,5 +58,12 @@ The essay's closing sections promise no dramatic arrival: no trumpets, but a new
 
 The final passage tells the reader they are "in between identities, timelines, lives" but not lost, "being rewritten by Light," and describes them as "the pause in God's inhale. The whisper between universes. The tuning fork for a better world" — an ending that is instead a starting again.[1] An author's note dedicates the piece to those who sense "an undercurrent beneath reality," and the article carries the standard Badlands disclaimer that contributors' views are their own, along with a pointer to more of the author's free work at Observing Consciousness.[1]
 
+## Follow-up: the threshold as the site of ego work
+
+The author's April 12, 2025 follow-up feature, "Transcending Ego: Meeting the Mirror at the Threshold," explicitly builds on "The Liminal," treating the threshold state as the setting in which the work of [[ego-transcendence|transcending the ego]] properly begins.[2] It restates the liminal as the moment when a person is "not quite who you were, and not yet who you are becoming," with the comforting scripts of identity — roles, habits and beliefs — stretched thin behind them and something wider and wordless calling ahead.[2] In that hush, the essay says, the ego speaks as a long-time guardian: "Be careful. Stay safe. Remember who you are."[2]
+
+The follow-up argues that the ego can only be met compassionately in this in-between, because in the noise of the world one becomes entangled in its defenses, whereas in liminal stillness "identities soften and the soul speaks," allowing the ego to be witnessed "not as an enemy, but as a child shaped by fear."[2] The threshold is accordingly described as "the sacred pause before the becoming," a portal and "a soft ending before a radiant beginning," and crossing it is framed not as building another identity but as embodying "a truth longing to be embodied."[2]
+
 ## References
 1. Badlands Brief — "The Liminal", URL: https://badlands.substack.com/p/the-liminal
+2. Badlands Brief — "Transcending Ego: Meeting the Mirror at the Threshold", URL: https://badlands.substack.com/p/transcending-ego

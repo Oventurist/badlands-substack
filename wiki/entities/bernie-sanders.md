@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, socialism, economic-policy]
-sources: [raw/badlands-brief-a9f.md, raw/badlands-news-brief-08a.md, raw/badlands-news-brief-f25.md, raw/bernie-sanders-establishment-tool.md]
+sources: [raw/badlands-brief-a9f.md, raw/badlands-news-brief-08a.md, raw/badlands-news-brief-f25.md, raw/bernie-sanders-establishment-tool.md, raw/war-pigs.md]
 confidence: medium
 ---
 
@@ -46,9 +46,16 @@ Sanders had campaigned on the slogan "Burlington is not for sale!", aimed at Pom
 
 The Badlands essay also charged Sanders with hypocrisy on militarism, noting that he rails against defense corporations at rallies while omitting his own history with the [[military-industrial-complex|military-industrial complex]].[4] After the bond referendum defeat, Sanders remained popular thanks to a booming Burlington economy propped up in part by a [[general-electric|General Electric]] plant — GE was then among the nation's largest defense contractors — and by the very military spending Sanders campaigned against.[4] Though he pledged to "challenge Reaganism and imperialism in its every manifestation," the plant employed three thousand workers and had nearly doubled its defense contracts by 1986, producing Vulcan Gatling guns mounted on attack helicopters and fighter jets — weapons used, the essay notes, to kill socialists in Central America.[4] When progressive protesters, many of them his own supporters, picketed the plant, Sanders sided with GE executives, denounced the protests, and had some demonstrators arrested.[4] He later persuaded [[lockheed-martin|Lockheed Martin]] to place a research center in Burlington and secured the stationing of 18 Lockheed Martin [[f-35|F-35]] fighter jets at the city's airport for the Vermont National Guard.[4] The World Socialist Web Site called Sanders a "silent partner of American militarism," and the left-wing magazine Counterpunch has repeatedly criticized him as insufficiently pacifist.[4]
 
+## Legacy on the anti-establishment left
+
+"War Pigs" argues that a growing contingent of left-leaning pundits and journalists became increasingly anti-establishment after being "given hope and then duped" by figures such as Sanders and [[alexandria-ocasio-cortez|Alexandria Ocasio-Cortez]], and that those betrayals molded them into effective critics of establishment Democrats whom the populist left will actually listen to.[5]
+
+The article cites [[briahna-joy-gray|Briahna Joy Gray]], Sanders' former National Press Secretary, as the prime example of this type of journalist, recalling her criticism on [[rising|Rising]] of Sanders' attacks against [[cornel-west|Cornel West]].[5]
+
 ## References
 
 1. Badlands Brief — "FaKKKe Racists Plead Not Guilty & You Can Expect More Dugans", URL: https://badlands.substack.com/p/badlands-brief-a9f
 2. Badlands News Brief — "The Communist Ouroboros Accelerates", raw/badlands-news-brief-08a.md
 3. Badlands Brief — "Badlands News Brief: House Passes Gas & Country Refuses to Rejoice", URL: https://badlands.substack.com/p/badlands-news-brief-f25
 4. Badlands Media — "Bernie Sanders: Establishment Tool", URL: https://badlands.substack.com/p/bernie-sanders-establishment-tool
+5. Badlands Brief — "War Pigs", URL: https://badlands.substack.com/p/war-pigs

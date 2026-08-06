@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [lobbying, syria, libya, isis, washington]
-sources: [raw/a-conflict-of-interest.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-960.md]
+sources: [raw/a-conflict-of-interest.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-960.md, raw/transparency-and-prosecution.md]
 confidence: medium
 ---
 
@@ -38,3 +38,13 @@ In the days after [[hayat-tahrir-al-sham|HTS]] took Damascus, Moustafa appeared 
 1. Badlands Brief — "A Conflict of Interest", URL: https://badlands.substack.com/p/a-conflict-of-interest
 2. Badlands Brief — "Badlands News Brief: Pardon Me ... No, But Seriously. PLEASE Pardon Me.", URL: https://badlands.substack.com/p/badlands-news-brief-757
 3. Badlands Brief — "Wray Goes to Sleep, Syria Gets Weird and Xi Gets an Invite", URL: https://badlands.substack.com/p/badlands-news-brief-960
+
+## Congressional background and the McCain delegation
+
+The Badlands Media feature "Transparency and Prosecution" identifies Moustafa as the man seated beside Senator [[john-mccain|John McCain]] in a white t-shirt and scarf during the May 2013 Syria meeting, and as the person who set the whole meeting up.[4] Q described him as standing in "trusted" close proximity to McCain and instructed anons to dig into his background, comparing his significance to that of the [[awan-brothers|Awan brothers]].[4]
+
+Citing a World Bank biography, the article records that Moustafa was Executive Director of the [[syrian-emergency-task-force|Syrian Emergency Task Force]], Political Director of United for a Free Syria, and a member of the Government Relations Committee of the Coalition for a Democratic Syria.[4] He had previously spent four and a half years as a congressional staffer for U.S. Congressman Vic Snyder and U.S. Senator Blanche Lincoln before leaving to work briefly with Egypt's U.S.-based opposition — a phrase the author reads as a reference to the [[muslim-brotherhood|Muslim Brotherhood]].[4]
+
+The same biography states that while at SETF he led delegations to the Syrian border for journalists and lawmakers, including McCain's visit with the [[northern-storm-brigade|Northern Storm Brigade]] inside Syria and the 2014 visit by Representatives [[adam-kinzinger|Adam Kinzinger]] and Holding with [[free-syrian-army|Free Syrian Army]] commanders in Antakya, Turkey.[4] The article characterizes SETF, headquartered in Washington, D.C., as in effect a lobbying firm for [[isis|ISIS]] terrorists, and closes by noting that Moustafa was also heavily involved in the overthrow of [[muammar-gaddafi|Gaddafi]] alongside McCain and headed an analogous group called the [[libyan-emergency-task-force|Libyan Emergency Task Force]] — described as the same exact playbook.[4]
+
+4. Badlands Brief — "Transparency and Prosecution", URL: https://badlands.substack.com/p/transparency-and-prosecution

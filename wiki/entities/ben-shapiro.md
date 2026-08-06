@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [commentator, conservative, daily-wire, free-speech]
-sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-c91.md, raw/badlands-news-brief-254.md, raw/badlands-news-brief-60c.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-c91.md, raw/badlands-news-brief-254.md, raw/badlands-news-brief-60c.md, raw/war-pigs.md]
 confidence: medium
 ---
 
@@ -38,9 +38,16 @@ On Wednesday, December 17, 2025, Shapiro walked onto a [[heritage-foundation|Her
 
 The speech was notable for its venue, having been hosted by Heritage president [[kevin-roberts|Kevin Roberts]], who had come under fire for publicly defending Carlson after Carlson interviewed [[nick-fuentes|Nick Fuentes]].[4] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] dismissed the exchange as a bad wrestling promo, arguing that Shapiro was speaking on behalf of special interests — certainly Israeli and most likely [[benjamin-netanyahu|Benjamin Netanyahu]] himself — and that understanding the motives of such "handlers" helps anticipate their next move.[4]
 
+## Reaction to Tucker Carlson, October 2023
+
+In "War Pigs," Badlands Media reported that [[tucker-carlson|Tucker Carlson]]'s suggestion — made during an interview with [[vivek-ramaswamy|Vivek Ramaswamy]] — that the crisis at the southern border deserved more immediate federal attention than a crisis in a far away land sent Shapiro into what the article called a full-blown psychobilly freak-out.[5]
+
+The publication also used Shapiro as a stylistic benchmark for the dramatic on-air performances that characterised the debate over the [[israel-hamas-war|Israel–Hamas war]], writing that [[robby-soave|Robby Soave]] had "taken a page" from him during a clash with [[briahna-joy-gray|Briahna Joy Gray]].[5] Badlands Media argued that neither man, however intelligent their admirers believe them to be, was displaying the mindset appropriate to decisions with extreme consequences.[5] Shapiro was grouped with [[nikki-haley|Nikki Haley]], [[lindsey-graham|Lindsey Graham]] and [[dan-crenshaw|Dan Crenshaw]] among those holding that events in Israel and Palestine have no bearing on Americans.[5]
+
 ## References
 
 1. Badlands Brief — "A Glaring Double Standard", URL: https://badlands.substack.com/p/a-glaring-double-standard
 2. Badlands Brief — "Trump Rugs the Deltas with an Early MOU", URL: https://badlands.substack.com/p/badlands-brief-c91
 3. Badlands News Brief — "Emotional Programming, Congressional Paralysis & Censorship Reign", URL: https://badlands.substack.com/p/badlands-news-brief-254
 4. Badlands Brief — "Fusion Mergers & Fusion-Adjacent Murders", URL: https://badlands.substack.com/p/badlands-news-brief-60c
+5. Badlands Brief — "War Pigs", URL: https://badlands.substack.com/p/war-pigs

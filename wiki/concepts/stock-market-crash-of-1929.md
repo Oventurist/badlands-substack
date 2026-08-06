@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [1929, great-depression, wall-street, banking]
-sources: [raw/friends-in-high-places.md]
+sources: [raw/friends-in-high-places.md, raw/why-america-needs-to-break-wall-streets.md]
 confidence: low
 ---
 
@@ -18,3 +18,10 @@ Lange presents the crash as the origin of a recurring "template" by which Wall S
 
 ## References
 1. Badlands Brief — "Friends in High Places", URL: https://badlands.substack.com/p/friends-in-high-places
+2. Badlands Brief — "Why America Needs to Break Wall Street's Kneecaps", URL: https://badlands.substack.com/p/why-america-needs-to-break-wall-streets
+
+## Ehret's "controlled blowout" thesis
+
+[[matthew-ehret|Matthew Ehret]] argues that the 1929 crash was not inevitable but "a controlled blowout."[2] In his account the bubbles of the 1920s were unleashed with the early death of President [[warren-harding|William Harding]] in 1923 and grew under the guidance of "JP Morgan's President Coolidge" and Treasury Secretary [[andrew-mellon|Andrew Mellon]], who deregulated the banks, imposed austerity and devised a broker-loan scheme allowing speculators to borrow 90 percent against their stock.[2]
+
+Broker loans totaled $1.5 billion in 1925, $2.6 billion in 1926 and $5.7 billion by the end of 1927, and by 1928 the stock market was overvalued fourfold.[2] When the bubble was sufficiently inflated, a moment was chosen to coordinate a mass "calling in" of the broker loans; no one could pay, and the markets collapsed.[2] Those "in the know," including [[house-of-morgan|J.P. Morgan]]'s preferred clients and figures such as [[prescott-bush|Prescott Bush]] of [[brown-brothers-harriman|Brown Brothers Harriman]], sold before the crash and bought up America's physical assets for pennies on the dollar.[2] Much of the bubble built up during the "easy-money days" of the roaring twenties was centered in the housing market.[2] The ensuing depression left unemployment at 25 percent, over 40 percent of banks bankrupt, thousands of "Hooverville" tent cities across the country, and more than half of American industrial capacity shut down.[2]

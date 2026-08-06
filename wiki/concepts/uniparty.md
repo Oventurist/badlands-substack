@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [congress, politics, uniparty]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-blitz-episode-23.md, raw/badlands-brief-165.md, raw/badlands-brief-1ae.md, raw/badlands-brief-58d.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-a57.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-d6a.md, raw/believe-half-of-what-you-see.md, raw/bernie-sanders-establishment-tool.md, raw/fake-news-until-proven-real.md, raw/from-ye-to-oy-vey.md, raw/nikki-haley-establishment-gops-last.md, raw/stay-focused-on-the-big-picture.md, raw/the-deep-state-needs-trump-to-win.md, raw/the-ongoing-betrayal-of-the-gop.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-blitz-episode-23.md, raw/badlands-brief-165.md, raw/badlands-brief-1ae.md, raw/badlands-brief-58d.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-a57.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-d6a.md, raw/believe-half-of-what-you-see.md, raw/bernie-sanders-establishment-tool.md, raw/fake-news-until-proven-real.md, raw/from-ye-to-oy-vey.md, raw/nikki-haley-establishment-gops-last.md, raw/stay-focused-on-the-big-picture.md, raw/the-deep-state-needs-trump-to-win.md, raw/the-ongoing-betrayal-of-the-gop.md, raw/the-schedule-f-imperative-part-1.md, raw/the-tiktok-ban.md, raw/the-us-department-of-re-education.md, raw/was-the-israel-hamas-conflict-de.md, raw/tucker-twitter-and-the-truth-community.md, raw/why-did-the-deep-state-concede-so.md, raw/women-children-and-terror.md]
 confidence: medium
 ---
 
@@ -94,6 +94,10 @@ A December 2023 Badlands Media essay by Erik Carlson argued that the Uniparty, w
 
 Carlson described the progressive coalition of climate activists, pro-abortion feminists, Jews, Muslims and trans rights activists as now at each other's throats, with shared hatred of [[donald-trump|Donald Trump]] no longer a strong enough adhesive to hold them together.[17] He read the split as an act of desperation: in order to manufacture support for both sides of a war, the Cabal had exposed too much, and the resulting incoherence would drive more people to peel back layers and recognize the puppet strings.[17] Americans, he argued, were being forced to pick a side, with neutrality or advocacy of coexistence risking accusations of antisemitism from one camp and Islamophobia from the other.[17]
 
+## Unanimity as a warning sign (October 2023)
+
+[[erik-carlson|Erik Carlson]] offered a compact rule in "Women, Children ... and Terror": "Every time the Uniparty unanimously agrees on anything, it's a bad thing."[28] His examples were [[world-war-ii|World War II]], 9/11, Covid, Ukraine, and now [[israel|Israel]] — where, he wrote, they all agree the United States must send whatever Israel asks for.[28] Against that consensus he urged staying out of the conflict for now, not escalating, not inviting terrorist attacks in America, closing the border and searching the country for possible terrorists.[28] He added that liberal progressives unable to denounce [[hamas|Hamas]] and Neocons calling for a world war were both being exposed, showing who owns and controls them.[28]
+
 ## References
 
 1. Badlands Brief — "A Communist Plot to Take Over America", URL: https://badlands.substack.com/p/a-communist-plot-to-take-over-america
@@ -147,3 +151,44 @@ Carlson's related "pendulum" formulation held that a fully Uniparty system let t
 In August 2025 Badlands Media framed the House Republican vote to renew full funding for the [[national-endowment-for-democracy|National Endowment for Democracy]] as a "Uniparty coalition" act, subtitling the piece "The Uniparty Coalition Funds an Anti-MAGA, CIA-Adjacent NGO."[21] Republicans on the [[house-appropriations-committee|House Appropriations Committee]] voted out of session to renew funding for an organization the article describes as central to sabotaging Trump's first term and undermining his second, with the fiscal 2026 bill allocating $315 million despite President [[donald-trump|Donald Trump]] requesting $0.[21] The episode is presented as evidence of the divide between traditional, [[john-mccain|McCain]]-wing Republicans — many of them tied to the [[international-republican-institute|IRI]] and [[center-for-international-private-enterprise|CIPE]] business networks — and Trump-aligned populists such as Rep. [[eli-crane|Eli Crane]], who moved to defund the endowment.[21]
 
 21. Badlands Brief — "The Ongoing Betrayal of the GOP", URL: https://badlands.substack.com/p/the-ongoing-betrayal-of-the-gop
+
+## White: the UniParty as controlled opposition (2023)
+
+In "The Schedule F Imperative - Part 1," [[j-b-white|J.B. White]] rejected the standard explanation of Republican fiscal behavior offered by [[american-conservative-union|American Conservative Union]] chairman [[matt-schlapp|Matt Schlapp]] — that congressional Republicans "don't have the stomach to reduce federal spending."[22] White argued instead that Republicans are "merely the controlled opposition of the UniParty," that "the Democrats run the UniParty but are merely the controlled proponents of the [[deep-state|Deep State]]," and that the Deep State in turn consists of foot soldiers secretly employed by the [[invisible-enemy|Invisible Enemy]] of humanity.[22] He characterized the UniParty's national refusal to reduce federal spending as a failure of an imperative — a policy critical, urgent and necessary for the national interest — because limiting spending is the means of reducing the power of "the leviathan" to bulldoze the rights of individual sovereign citizens.[22]
+
+22. Badlands Brief — "The Schedule F Imperative - Part 1", URL: https://badlands.substack.com/p/the-schedule-f-imperative-part-1
+23. Badlands Brief — "The TikTok Ban", URL: https://badlands.substack.com/p/the-tiktok-ban
+
+## Carlson: unanimity as a warning sign (April 2024)
+
+[[erik-carlson|Erik Carlson]] used the [[tiktok-ban|TikTok ban]] as a case study in Uniparty behavior in April 2024, writing that the "biggest flashing red light" was that so many RINOs, neoconservatives and Democrats supported banning the app or forcing its sale, and asking when the same coalition had last agreed on anything good for the country.[23] He noted that Congress could not agree on the border or on funding Ukraine, yet had reached near-unanimity that [[tiktok|TikTok]] was the country's greatest threat.[23]
+
+Testing the Uniparty's stated rationale against its conduct, Carlson asked where its members had been when the Chinese spy balloon crossed the United States, why military-age Chinese men were being allowed across the southern border, whether the focus on the southern border served to distract from the Canadian border, and why China was permitted to buy American farmland.[23] His conclusion was that the stated justification "doesn't add up," and that the true purpose was to establish a precedent for banning or forcing the sale of other platforms — [[telegram|Telegram]], [[twitter|X]] and possibly [[truth-social|Truth Social]] — ahead of the 2024 election.[23]
+
+## Education policy as Uniparty case study
+
+In a January 2025 essay on the [[department-of-education|Department of Education]], [[erik-carlson|Erik Carlson]] presented federal education policy as a demonstration of the Uniparty thesis, writing that his research would not have made sense to him while he still believed Republicans and Democrats genuinely oppose one another.[24] He described the [[neoconservatives|Neocons]], [[rino|RINOs]] and liberals as working together to advance the [[deep-state|Deep State]] Cabal's agenda, with displayed partisan conflict amounting to professional wrestling [[kayfabe|kayfabe]] — pretending to be at odds while serving the same masters.[24] Carlson named Bush Sr., Bush Jr., McCain, Romney, [[newt-gingrich|Gingrich]] and Paul Ryan as figures who were never America First but always Cabal first, and argued that before [[donald-trump|Trump]]'s 2016 election very few America First politicians remained in Washington.[24]
+
+As evidence he cited the pattern after [[george-hw-bush|George H. W. Bush]]'s 1988 election, when Uniparty Republicans publicly opposed federal control of local school systems while walking in lockstep with Democrats in funding the Department of Education, and the fact that federal education spending soared after the Gingrich-led 1994 congressional takeover despite abolition being a cornerstone of the 1996 Republican platform.[24]
+
+24. Badlands Brief — "The U.S. Department of Re-education", URL: https://badlands.substack.com/p/the-us-department-of-re-education
+
+## The October 2023 war consensus
+
+Writing on October 18, 2023, [[erik-carlson|Erik Carlson]] argued that the Uniparty's apparent unanimity in favour of war following the [[october-7-attacks|Hamas attacks]] was itself the tell, observing that "every time the Uniparty agrees on anything, it's a bad thing."[25] He noted that the same coalition of [[rino|RINOs]], [[neoconservatives|Neocons]] and liberals had agreed on war against Iraq and Afghanistan and on passing the [[patriot-act|Patriot Act]] after 9/11, and on draconian measures to stop the spread of Covid.[25] He judged it no coincidence that the Israeli situation erupted a week after Ukraine appeared to be losing its funding.[25]
+
+Carlson held that the crisis was exposing the Uniparty as [[deep-state|Deep State]] puppets, with a spotlight on each faction.[25] The RINOs and Neocons whom Trump and MAGA had long accused of being war hawks were now openly calling for war, while progressive liberals had been painted into a corner in which they could neither support Israel nor condemn Hamas, with some liberal organisations openly backing Hamas and Palestine.[25] Every available move, he wrote, was a losing move, and the positioning was not accidental: "They have been set up. The Patriots have set them up."[25]
+
+25. Badlands Brief — "Was the Israel-Hamas Conflict De-escalated?", URL: https://badlands.substack.com/p/was-the-israel-hamas-conflict-de
+26. Badlands Brief — "Tucker, Twitter, and the Truth Community", URL: https://badlands.substack.com/p/tucker-twitter-and-the-truth-community
+
+## January 6 and the Sund scapegoating (2023)
+
+In August 2023, [[ashe-in-america|Ashe in America]] wrote that former Capitol Police Chief [[steven-sund|Steven Sund]] had been set up by certain members of the uniparty establishment to take the fall for the "intelligence failure" that led to the Capitol being overrun on January 6.[26] In the same essay she reported that [[robert-f-kennedy-jr|Robert F. Kennedy, Jr.]], in his [[tucker-on-twitter|Tucker on Twitter]] interview, demolished the neocons who, she wrote, effectively comprise the uniparty establishment, detailing the government lies behind nearly every modern war from Iraqi weapons of mass destruction to Ukrainian biolabs.[26]
+
+## Rotation as camouflage (2024)
+
+In a November 2024 essay, [[erik-carlson|Erik Carlson]] described the uniparty as the mechanism that makes a rigged election system look legitimate, arguing that periodic shifts of power between the two parties are required precisely because both sides are controlled and therefore no genuine risk attaches to the outcome.[27] He traced this rotation through [[ronald-reagan|Reagan]]'s eight years, the single term of [[george-hw-bush|George H. W. Bush]], whom he called [[cia|CIA]]-controlled, the passing of the torch to [[bill-clinton|Bill Clinton]] for eight more, then [[george-w-bush|Bush Jr.]] and [[barack-obama|Obama]] for eight each, arguing that Americans believe the system cannot be rigged because control keeps alternating between parties they perceive as opponents.[27] Carlson pointed to the shared and publicly expressed disdain for [[donald-trump|Trump]] among the Bushes, Obamas, Clintons and [[jimmy-carter|Jimmy Carter]] as evidence that the supposed rivals are "as close as peas in a pod," while noting that Bush Jr. was less public in his contempt in 2024.[27] He identified Trump's 2016 win as the moment a non-uniparty figure took the executive office and became an immediate threat to the arrangement.[27]
+
+27. Badlands Brief — "Why Did the Deep State Concede So Quickly?", URL: https://badlands.substack.com/p/why-did-the-deep-state-concede-so
+28. Badlands Brief — "Women, Children ... and Terror", URL: https://badlands.substack.com/p/women-children-and-terror

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [brazil, censorship, judiciary, foreign-policy, free-speech]
-sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-889.md, raw/brazil-breaking.md, raw/the-censorship-war-counteroffensive.md]
+sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-889.md, raw/brazil-breaking.md, raw/the-censorship-war-counteroffensive.md, raw/the-multinational-offensive-against.md]
 confidence: medium
 ---
 
@@ -48,3 +48,11 @@ Brazil drew intense attention from the American alternative-media community in l
 Badlands contributor [[ryan-delarme|Ryan DeLarme]] identified Brazil as the country where the pro-censorship camp has enjoyed its most unprecedented success in the global [[censorship-war|censorship war]], chiefly through Justice [[alexandre-de-moraes|Alexandre de Moraes]] of the [[supremo-tribunal-federal|Supremo Tribunal Federal]].[4] Moraes's orders drove [[rumble|Rumble]] out of the country in December 2023, closed [[x-corp|X]], and froze [[starlink|Starlink]]'s Brazilian bank accounts in August 2024.[4]
 
 Brazil also sought the extradition of the journalist [[allan-dos-santos|Allan dos Santos]] over alleged disinformation about the court and the [[2022-brazilian-general-election|2022 general election]], a request Washington refused because the alleged conduct is protected speech in the United States.[4] DeLarme wrote that the second [[donald-trump|Trump]] administration had until then largely refrained from applying to Brazil the punitive tariffs and demands used against other nations, but predicted the [[rumble-and-trump-media-v-moraes|lawsuit against Moraes]] would exacerbate dormant tensions between the two governments.[4]
+
+## Brazil as a censorship testing ground (2024)
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] described Brazil as a very consequential nation of vital geostrategic importance — the second-largest country in the hemisphere, the sixth-largest nation worldwide, with a very large, very young and very online population — and part of what is somewhat misleadingly called the "democratic world."[5] More importantly, in his account, Brazil is the testing ground for a very aggressive new approach to censorship, taking matters further than most Western governments while being watched closely by the United States and its European allies as a stress test of what can and cannot be gotten away with.[5]
+
+In August 2024 Justice [[alexandre-de-moraes|Alexandre de Moraes]] of the [[supremo-tribunal-federal|Supremo Tribunal Federal]], joined by four fellow justices, banned [[x-corp|X]] from the country and criminalized its use, fining citizens who accessed the platform via VPN $8,900 per day — a sum exceeding the median annual income for most Brazilians.[5] The court also ordered X to eliminate its physical presence in Brazil and threatened to arrest its executives, officials and lawyers, while Moraes froze the Brazilian bank accounts of [[starlink|Starlink]], a service popular for delivering free internet to the Amazon and other unconnected regions.[5] DeLarme argued that the reason to cover censorship in Brazil is that once a country has some success with it, the same practices spread everywhere.[5]
+
+5. Badlands Brief — "The Multinational Offensive Against Free Speech Online", URL: https://badlands.substack.com/p/the-multinational-offensive-against

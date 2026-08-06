@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [iran, irgc, quds-force, assassination, middle-east]
-sources: [raw/badlands-news-brief-f14.md, raw/panic-in-dc.md]
+sources: [raw/badlands-news-brief-f14.md, raw/panic-in-dc.md, raw/trump-cuts-the-head-off-the-snake.md]
 confidence: medium
 ---
 
@@ -32,3 +32,11 @@ Badlands Media contributor Burning Bright argued that disclosures of this kind s
 Badlands contributor [[joe-lange|Joe Lange]] describes Soleimani as the biggest puppet of [[alwaleed-bin-talal|Alwaleed bin Talal]] in the Middle East, and argues that [[donald-trump|Trump]] removed Alwaleed from the chessboard first and only afterward killed Soleimani.[2] The article notes that Soleimani, his [[quds-force|Quds Force]] and the [[islamic-revolutionary-guard-corps|Islamic Revolutionary Guard]] were all designated as terrorists and sanctioned, which made it illegal for banks to transact with them and — in Lange's argument — explains why the [[barack-obama|Obama]] administration allegedly delivered [[pallets-of-cash-to-iran|value to Iran in physical foreign banknotes]] instead.[2] Lange frames the question of how Soleimani's network could fund the terrorists it controlled while under sanctions as the central puzzle of the piece.[2]
 
 2. Badlands Brief — "Panic in DC", URL: https://badlands.substack.com/p/panic-in-dc
+
+## In "Trump Cuts the Head off the Snake"
+
+Joe Lange's account of the transformation of the Middle East describes Soleimani as the one man connected to all Islamic terrorism in the region going back several decades, and as one of Alwaleed bin Talal's biggest puppets rather than a subordinate of Iran's supreme leader, whom the article characterises as a figurehead.[3] Soleimani's task, in this reading, was to keep fomenting terror and the perceived need for war as a mechanism for laundering money, with the entire [[war-on-terror|war on terror]] described as a massive money-laundering operation.[3]
+
+Soleimani was killed on 3 January 2020 by a United States drone strike near Baghdad International Airport while on his way to meet Iraqi Prime Minister [[adil-abdul-mahdi|Adil Abdul-Mahdi]], three days after the [[2019-baghdad-embassy-attack|attack on the US embassy in Baghdad]].[3] A Hellfire missile destroyed his convoy, killing him and nine others, including [[abu-mahdi-al-muhandis|Abu Mahdi al-Muhandis]], commander of [[kataib-hizballah|Kataib Hezbollah]] and a head of the [[popular-mobilization-forces|Popular Mobilization Forces]], to whom Soleimani had delegated a campaign of rocket strikes against American troops in [[iraq|Iraq]].[3] His Quds Force funded [[hezbollah|Hezbollah]] in [[lebanon|Lebanon]] and Hamas in Gaza and trained Iraqi militants in the use of explosively formed penetrators, which wounded roughly 861 and killed 196 US troops over the preceding decade.[3] Lange argues that killing him "cut the head off the snake," freeing Iran from control by Alwaleed, Soleimani and the [[cia|CIA]] and paving the way for the [[2023-china-brokered-saudi-iran-normalization|2023 China-brokered Saudi-Iran normalization]].[3] See [[assassination-of-qasem-soleimani|Assassination of Qasem Soleimani]].[3]
+
+3. Badlands Brief — "Trump Cuts the Head off the Snake", URL: https://badlands.substack.com/p/trump-cuts-the-head-off-the-snake

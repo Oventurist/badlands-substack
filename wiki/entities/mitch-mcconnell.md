@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [us-senate, republican-party, neoconservatism, death-rumors, kentucky]
-sources: [raw/badlands-brief-805.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-2e8.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-b35.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-f0b.md, raw/badlands-news-brief-f23.md, raw/badlands-news-brief-f46.md, raw/badlands-news-brief-ff6.md, raw/exploiting-the-dead.md]
+sources: [raw/badlands-brief-805.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-2e8.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-b35.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-f0b.md, raw/badlands-news-brief-f23.md, raw/badlands-news-brief-f46.md, raw/badlands-news-brief-ff6.md, raw/exploiting-the-dead.md, raw/the-real-fight-begins.md, raw/the-transition-integrity-project.md]
 confidence: medium
 ---
 
@@ -72,20 +72,6 @@ On Thursday, February 20, 2025, McConnell announced the impending close of his f
 
 Badlands contributor [[ryan-delarme|Ryan DeLarme]] identified McConnell as the sponsor of the [[bipartisan-border-bill-2024|bipartisan border bill]] whose text, once revealed, dashed Republican hopes of securing the border; the America First wing of the party judged that it did literally nothing on the border and treated it as dead on arrival.[16] DeLarme reported that McConnell confessed to the New York Times that he had never truly prioritised border security, describing it as a hollow gesture toward his constituents while ensuring the security state got what it wanted.[16] Twenty Republican senators joined every Democrat in voting to pass the resulting package, which sent $60 billion to Ukraine, $17 billion to Israel, and further funds to Taiwan and for strikes on Yemen.[16] DeLarme grouped McConnell with [[chuck-schumer|Chuck Schumer]] as [[uniparty|uniparty]] representatives who had dropped any pretense of addressing the border before aiding Ukraine and Israel, and noted that the coordinated messaging around [[alexei-navalny|Alexei Navalny]]'s death produced the rare spectacle of McConnell's statements mirroring those of [[hakeem-jeffries|Hakeem Jeffries]].[16]
 
-## References
-1. Badlands Brief — "RIP Lindsey Graham", URL: https://badlands.substack.com/p/badlands-brief-805
-2. Badlands Brief — "TACO Tuesday Returns as the War of Stories Gets Weird", URL: https://badlands.substack.com/p/badlands-brief-c7b
-3. Badlands Brief — "Tucker, Fauci, Biden & Biology", URL: https://badlands.substack.com/p/badlands-news-brief-082
-4. Badlands Brief — "J6 Returns to Headlines as Fear Mars AI and Airplanes", URL: https://badlands.substack.com/p/badlands-news-brief-120
-5. Badlands Brief — "Badlands News Brief: Border Bill Dead on Arrival ... Just Like Bidenomics", URL: https://badlands.substack.com/p/badlands-news-brief-1ab
-6. Badlands Brief — "Badlands News Brief: Rise and Fall of the Warmongers ... And More", URL: https://badlands.substack.com/p/badlands-news-brief-2e8
-7. Badlands Brief — "Badlands News Brief: MAHA, Modi, Musk, & Munich", URL: https://badlands.substack.com/p/badlands-news-brief-7b8
-8. Badlands Brief — "Badlands News Brief: January 6 and Nord Stream Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-8f4
-9. Badlands Brief — "Badlands News Brief: Trump & Musk Meet as RINOs Run for the Hills", URL: https://badlands.substack.com/p/badlands-news-brief-b35
-10. Badlands Brief — "Hunter Hunted as Metrics Turn Sharply on Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-d8f
-11. Badlands Brief — "Badlands News Brief: Globalists Cry, Trump Plots and the Saudis Hold Court", URL: https://badlands.substack.com/p/badlands-news-brief-e6c
-12. Badlands Brief — "Badlands News Brief: Musk vs. the ADL, Truth Social's Future & More", URL: https://badlands.substack.com/p/badlands-news-brief-f0b
-
 ## Resistance to Trump's retribution agenda (June 2024)
 
 In June 2024, some Senate Republicans expressed concern over [[donald-trump|Donald Trump]]'s calls for political vengeance after the election, warning that retaliatory prosecutions would lead the country down a bad road.[11] As Senate GOP leader, McConnell — alongside Whip [[john-thune|John Thune]] — showed no desire to embrace Trump's calls to prosecute senior [[joe-biden|Biden]] administration officials or [[hillary-clinton|Hillary Clinton]].[11] Other Republican senators pushed back against conservative colleagues seeking to freeze Justice Department funding or defund special counsel [[jack-smith|Jack Smith]]'s prosecutions of Trump, wary of stumbling into a government shutdown over the department's budget.[11] Senator [[mike-rounds|Mike Rounds]] of South Dakota, while calling Manhattan District Attorney [[alvin-bragg|Alvin Bragg]]'s case against Trump "an unjust prosecution," said of politically motivated retaliation that "this is not the direction we want this country to go."[11]
@@ -109,3 +95,29 @@ After the ouster of Speaker [[kevin-mccarthy|Kevin McCarthy]], McConnell express
 
 15. Badlands News Brief — "Escalation Abroad, Subversion at Home ...", URL: https://badlands.substack.com/p/badlands-news-brief-ff6
 16. Badlands Media — "Exploiting the Dead", URL: https://badlands.substack.com/p/exploiting-the-dead
+
+## Obstruction of the 2024 transition (Badlands account)
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] described McConnell as "the most lamentable, shambling ghoul" among those who jammed up [[donald-trump|Trump]] during his first term and blamed him for the lack of swamp drainage in Trump 1.0.[17] Citing [[peter-navarro|Peter Navarro]]'s Washington Times op-ed, DeLarme relayed the warning that if McConnell had his way he would saddle the president-elect with one of two "Never Trump, anti-tariff, open border Republicans in name only" — [[john-cornyn|John Cornyn]] of Texas or [[john-thune|John Thune]] of South Dakota — who as majority leader would "strangle Mr. Trump's Cabinet appointees in their cribs."[17] After Thune was elected majority leader to replace the retiring McConnell, DeLarme characterized the outcome as McConnell "performing a rearguard action so that he can keep his dead, withered hand on a lever of power."[17] See [[recess-appointments|recess appointments]].
+
+17. Badlands Brief — "The Real Fight Begins", URL: https://badlands.substack.com/p/the-real-fight-begins
+
+## Transition Integrity Project scenario
+
+In the [[transition-integrity-project|Transition Integrity Project]]'s 2020 election war games, participants predicted that if [[donald-trump|Donald Trump]] lost, McConnell would back [[mitt-romney|Mitt Romney]]'s effort to bring moderate Senate Republicans around to recognising [[joe-biden|Joe Biden]] as the legitimate president-elect, calculating that doing so would be more beneficial for the 2022 midterm elections.[18]
+
+## References
+1. Badlands Brief — "RIP Lindsey Graham", URL: https://badlands.substack.com/p/badlands-brief-805
+2. Badlands Brief — "TACO Tuesday Returns as the War of Stories Gets Weird", URL: https://badlands.substack.com/p/badlands-brief-c7b
+3. Badlands Brief — "Tucker, Fauci, Biden & Biology", URL: https://badlands.substack.com/p/badlands-news-brief-082
+4. Badlands Brief — "J6 Returns to Headlines as Fear Mars AI and Airplanes", URL: https://badlands.substack.com/p/badlands-news-brief-120
+5. Badlands Brief — "Badlands News Brief: Border Bill Dead on Arrival ... Just Like Bidenomics", URL: https://badlands.substack.com/p/badlands-news-brief-1ab
+6. Badlands Brief — "Badlands News Brief: Rise and Fall of the Warmongers ... And More", URL: https://badlands.substack.com/p/badlands-news-brief-2e8
+7. Badlands Brief — "Badlands News Brief: MAHA, Modi, Musk, & Munich", URL: https://badlands.substack.com/p/badlands-news-brief-7b8
+8. Badlands Brief — "Badlands News Brief: January 6 and Nord Stream Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-8f4
+9. Badlands Brief — "Badlands News Brief: Trump & Musk Meet as RINOs Run for the Hills", URL: https://badlands.substack.com/p/badlands-news-brief-b35
+10. Badlands Brief — "Hunter Hunted as Metrics Turn Sharply on Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-d8f
+11. Badlands Brief — "Badlands News Brief: Globalists Cry, Trump Plots and the Saudis Hold Court", URL: https://badlands.substack.com/p/badlands-news-brief-e6c
+12. Badlands Brief — "Badlands News Brief: Musk vs. the ADL, Truth Social's Future & More", URL: https://badlands.substack.com/p/badlands-news-brief-f0b
+
+18. Badlands Brief — "The Transition Integrity Project", URL: https://badlands.substack.com/p/the-transition-integrity-project

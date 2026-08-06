@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [serbia, yugoslavia, regime-change, nato, balkans]
-sources: [raw/how-to-rent-a-riot-the-history-of.md]
+sources: [raw/how-to-rent-a-riot-the-history-of.md, raw/two-wings-one-ugly-bird.md]
 confidence: medium
 ---
 
@@ -32,3 +32,9 @@ Milosevic was removed from office in September 2000 and apprehended in 2001 for 
 
 ## References
 1. Badlands Media — "How to Rent a Riot - The History of 'Nonviolence'", URL: https://badlands.substack.com/p/how-to-rent-a-riot-the-history-of
+
+## Otpor and the NED institutes
+
+"Two Wings, One Ugly Bird" describes Milosevic's removal in the 1990s as the work of the youth movement [[otpor|Otpor]], funded by the [[international-republican-institute|International Republican Institute]] with help from [[george-soros|George Soros]]' [[open-society-foundations|Open Society]] network.[2] Training camps, cash and strategy sessions are said to have converted a ragtag resistance into a polished battering ram branded as "people power," while the [[national-democratic-institute|National Democratic Institute]] shaped the opposition coalition that took over, producing a government friendlier to NATO and United States interests.[2]
+
+2. Badlands Brief — "Two Wings, One Ugly Bird", URL: https://badlands.substack.com/p/two-wings-one-ugly-bird

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, mainstream-media, newspapers, intelligence-community]
-sources: [raw/a-swan-song-for-the-msm.md, raw/america-has-a-cia-run-economy.md, raw/assad-day-in-damascus.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-a60.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-d5c.md, raw/four-pillars-of-government-control.md, raw/the-msm-melts-down-amidst-americas.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/america-has-a-cia-run-economy.md, raw/assad-day-in-damascus.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-a60.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-d5c.md, raw/four-pillars-of-government-control.md, raw/the-msm-melts-down-amidst-americas.md, raw/who-is-the-real-enemy.md, raw/why-do-we-know-what-we-know.md]
 confidence: medium
 ---
 
@@ -100,3 +100,19 @@ The Post has not endorsed a Republican presidential candidate in more than two d
 The Post's own newsroom reported that an endorsement of [[kamala-harris|Kamala Harris]] had been drafted by editorial page staffers but never published, and that the decision belonged to owner [[jeff-bezos|Jeff Bezos]]; chief communications officer Kathy Baird declined to elaborate beyond referring reporters to the publisher's statement.[15] Editorial board members learned of the decision from opinion editor [[david-shipley|David Shipley]] at a tense meeting, and about 2,000 subscribers cancelled within 24 hours.[15] DeLarme argued that the move, while defensible in principle, was partly disingenuous given that virtually no pro-Trump representation existed at the paper apart from columnist Marc Thiessen, and that no informed observer doubted the institution's preference for a Harris victory.[15]
 
 15. Badlands Brief — "The MSM Melts Down Amidst America's Electoral Ineptitude", URL: https://badlands.substack.com/p/the-msm-melts-down-amidst-americas
+
+## Coverage of Trump's Afghanistan remarks
+
+"Who Is The Real Enemy?" uses the Washington Post as its principal example of press hostility to [[donald-trump|Donald Trump]]'s January 2019 comments on the [[soviet-union|Soviet Union]] and [[afghanistan|Afghanistan]].[16] The paper published "Trump's bizarre history lesson on the Soviet Union, Russia and Afghanistan," describing his account of why the USSR collapsed as his own version and noting he had no formal training on the subject.[16]
+
+The Post acknowledged the obvious overlap between the fall of the Soviet Union and its Afghan campaign — invasion in 1979, withdrawal in 1989, dissolution in 1991 — but argued that correlation is not causation and that Trump, who was using the anecdote to argue for withdrawal from Afghanistan and Syria, was straining for causation.[16] It also flatly rejected his claim that Russia went in because terrorists were entering Russia, stating the Soviets acted to prop up communism abroad.[16]
+
+Badlands Media responds that the paper was parroting what the [[central-intelligence-agency|CIA]] claims is true, and cites declassified Soviet documents and Jonathan Steele's research as contradicting the Post's assertion.[16]
+
+16. Badlands Brief — "Who Is The Real Enemy?", URL: https://badlands.substack.com/p/who-is-the-real-enemy
+
+## Alleged CIA ownership chain (Carlson, May 2023)
+
+[[erik-carlson|Erik Carlson]] wrote in May 2023 that many believe [[amazon|Amazon]] was granted a large [[central-intelligence-agency|CIA]] contract and that [[jeff-bezos|Jeff Bezos]] used the proceeds to buy the Washington Post, which Carlson described as a newspaper rumoured to be CIA-run.[17] He cited the claim as an example of information the public is permitted to hold, on the reasoning that knowledge capable of destroying the [[deep-state|Deep State cabal]] would never have reached the public at all.[17]
+
+17. Badlands Brief — "Why Do We Know What We Know?", URL: https://badlands.substack.com/p/why-do-we-know-what-we-know

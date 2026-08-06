@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [science, inventor, history, suppressed-technology]
-sources: [raw/badlands-brief-fa4.md, raw/has-trumps-whole-life-been-a-sting.md, raw/real-patriots-dont-think-like-hitler-d42.md, raw/soul-governance.md, raw/structures-of-control-part-1.md, raw/structures-of-control-part-3.md]
+sources: [raw/badlands-brief-fa4.md, raw/has-trumps-whole-life-been-a-sting.md, raw/real-patriots-dont-think-like-hitler-d42.md, raw/soul-governance.md, raw/structures-of-control-part-1.md, raw/structures-of-control-part-3.md, raw/the-werewolf-game-agents-from-russia.md, raw/why-i-just-dont-trust-elon-musk.md]
 confidence: medium
 ---
 
@@ -48,3 +48,17 @@ Tesla's aphorism — "If you only knew the magnificence of the numbers 3, 6, and
 
 5. Badlands Brief — "Structures of Control - Part 1", URL: https://badlands.substack.com/p/structures-of-control-part-1
 6. Badlands Brief — "Structures of Control - Part 3", URL: https://badlands.substack.com/p/structures-of-control-part-3
+
+## Tartaria and the World's Fairs (American Hypnotist, 2024)
+
+The March 27, 2024 installment of [[american-hypnotist|American Hypnotist]]'s [[the-werewolf-game|Werewolf Game]] series places Tesla at the centre of its lost-civilization thesis, reporting that Tesla provided the electricity that illuminated the 690-acre 1893 Chicago [[worlds-fairs|World's Fair]] at night.[7] The essay notes that Tesla's family hailed from the same part of the world where the [[koryos|wolf cult]] and [[tartaria|Tartaria]] were said to be located, and that his maternal grandfather was a priest of the Eastern Orthodox church at a time when that region was called Tartaria.[7] Because Tesla's father reportedly kept a massive library in which Tesla spent much of his childhood reading, the author reasons that Tesla could have acquired knowledge of Tartarian technology, and that much of it probably passed to [[john-g-trump|John G. Trump]].[7]
+
+7. Badlands Brief — "The Werewolf Game - Agents from Russia", URL: https://badlands.substack.com/p/the-werewolf-game-agents-from-russia
+
+## Tesla and the technocratic worldview
+
+In "Why I Just Don't Trust Elon Musk," Badlands contributor [[matthew-ehret|Matthew Ehret]] argues that [[elon-musk|Elon Musk]] "appears to be filling the same shoes as those worn by Nikola Tesla nearly a century ago."[8] Ehret describes Tesla as a eugenics-loving technician then living in the lap of luxury in New York, whose materialist view of human nature placed him in the same worldview as [[technocracy-inc|Technocracy Inc.]], whose 1934 Study Course denied the existence of mind, conscience or will.[8] While noting that no evidence survives of Tesla having directly contacted the founders of the [[new-school-for-social-research|New School for Social Research]], Ehret maintains that their identical views on governance, human nature and utopian technocratic management by experts cannot be ignored.[8]
+
+Ehret quotes Tesla's vision of a future in which "eugenics [is] universally established," arguing that man's "new sense of pity" had interfered with the ruthless workings of nature so that society continued "to breed the unfit," and that the only method compatible with civilization was "to prevent the breeding of the unfit by sterilization and the deliberate guidance of the mating instinct."[8] Tesla added that existing sterilization of the criminal and the insane in European countries and American states was "not sufficient," and predicted that "a century from now it will no more occur to a normal person to mate with a person eugenically unfit than to marry a habitual criminal."[8] Ehret places this beside the "scientific breeding" advocated by Technocracy's [[harold-loeb|Harold Loeb]], and elsewhere in the same article notes that [[aleister-crowley|Aleister Crowley]] and Tesla played a direct role in the occult operation he describes in his Occult Tesla series.[8]
+
+8. Badlands Brief — "Why I Just Don't Trust Elon Musk", URL: https://badlands.substack.com/p/why-i-just-dont-trust-elon-musk

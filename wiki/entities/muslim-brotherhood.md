@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [muslim-brotherhood, syria, smuggling, libya, obama]
-sources: [raw/a-dereliction-of-duty.md, raw/a-conflict-of-interest.md, raw/america-for-sale-part-2.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-dd8.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-f00.md, raw/infiltration-not-invasion.md, raw/q-for-dummies-chapter-19.md, raw/q-for-dummies-chapter-2.md, raw/q-for-dummies-chapter-9.md, raw/q-for-dummies-chapter-5.md]
+sources: [raw/a-dereliction-of-duty.md, raw/a-conflict-of-interest.md, raw/america-for-sale-part-2.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-dd8.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-f00.md, raw/infiltration-not-invasion.md, raw/q-for-dummies-chapter-19.md, raw/q-for-dummies-chapter-2.md, raw/q-for-dummies-chapter-9.md, raw/q-for-dummies-chapter-5.md, raw/trump-secures-uneasy-peace-in-gaza.md]
 confidence: medium
 ---
 
@@ -59,6 +59,10 @@ Badlands commentary holds that "the Muslim Brotherhood is a creation of British 
 
 On August 12, 2025, Secretary of State [[marco-rubio|Marco Rubio]] said the United States was "in the process" of designating the Muslim Brotherhood a terrorist organization, telling radio host Sid Rosenberg that such a step, along with possible action against the [[council-on-american-islamic-relations|Council on American-Islamic Relations]], was "in the works."[9] Rosenberg had raised the support he said both organizations were giving to New York mayoral candidate [[zohran-mamdani|Zohran Mamdani]].[9] Badlands contributor GhostofBasedPatrickHenry responded that the Brotherhood should be understood as an arm of [[mi6|MI6]], and recalled that the previous congressional designation push in 2017 prompted the recruitment of former [[cia|CIA]] officer [[kevin-chalker|Kevin Chalker]] and his company Global Risk Strategies to run a psychological warfare campaign, [[operation-endgame|Operation Endgame]], to subvert the effort.[9] That project, revealed in documents leaked in January 2024, targeted UAE Ambassador to the United States [[youssef-al-otaiba|Yousef Al Otaiba]], likely for his role brokering ties between [[jared-kushner|Jared Kushner]] and Saudi Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] and for advancing the [[abraham-accords|Abraham Accords]].[9] Al Otaiba had published an op-ed in Israeli newspapers in the summer of 2020 warning that factions within Israel sought to derail the Accords and expand settlements in Palestine, a step he said would foreclose Arab-Israeli peace.[9] The Badlands commentary argued it was "past time" to examine what roles figures such as [[john-brennan|John Brennan]], [[john-mccain|John McCain]], and [[lindsey-graham|Lindsey Graham]] played in cultivating the spread of radical Islamic terrorism.[9]
 
+## Alleged intelligence connections
+
+In coverage of the January 2025 [[gaza-ceasefire|Gaza ceasefire]], Badlands Media referred to a "long and interesting—albeit rather obscured—relationship" between the [[muslim-brotherhood|Muslim Brotherhood]] and the Western intelligence community, naming the CIA, MI6 and Mossad, and asserting that even the Nazi party had plans for the organization.[15] The outlet said the subject deserved a dedicated investigation and recommended the book *A Mosque in Munich* to readers.[15] The claim was raised in the context of the argument that [[hamas|Hamas]] as it exists today would not have emerged without the Israeli government's own earlier involvement.[15]
+
 ## References
 1. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
 2. Badlands Brief — "A Conflict of Interest", URL: https://badlands.substack.com/p/a-conflict-of-interest
@@ -110,3 +114,4 @@ The chapter states the Brotherhood's stated goal is the destruction of Western c
 Chapter 5 of [[q-for-dummies|Q for Dummies]], analysing Q drop #36, asserts that [[iran|Iran]] "has big ties to The Muslim Brotherhood," raising the connection in the course of discussing [[barack-obama|Barack Obama]]'s [[pallets-of-cash-to-iran|cash shipments to Tehran]] as he left office.[14] The chapter presents the association as part of a wider pattern in which Obama, [[hillary-clinton|Clinton]] and their associates were, in the author's words, selling America out for personal enrichment.[14]
 
 14. Badlands Brief — "Q for Dummies - Chapter 5", URL: https://badlands.substack.com/p/q-for-dummies-chapter-5
+15. Badlands Brief — "Trump Secures Uneasy Peace in Gaza", URL: https://badlands.substack.com/p/trump-secures-uneasy-peace-in-gaza

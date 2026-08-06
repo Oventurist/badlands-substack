@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fdr, us-president, new-deal, four-freedoms, anti-colonialism]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/cracks-in-the-curtain.md, raw/real-patriots-dont-think-like-hitler-196.md, raw/real-patriots-dont-think-like-hitler-d42.md, raw/the-enduring-legacy-of-the-entente.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/cracks-in-the-curtain.md, raw/real-patriots-dont-think-like-hitler-196.md, raw/real-patriots-dont-think-like-hitler-d42.md, raw/the-enduring-legacy-of-the-entente.md, raw/understanding-the-soul-of-china.md, raw/why-america-needs-to-break-wall-streets.md]
 confidence: medium
 ---
 
@@ -61,3 +61,19 @@ In his March 4, 1933 inaugural address Roosevelt declared that "the money-change
 Within 31 days of the bank holiday 75% of banks were operational and the FDIC was created to insure deposits; four million people were given immediate work and hundreds of libraries, schools and hospitals were built, all funded through the RFC.[5] From 1933 to 1939, 45,000 infrastructure projects were built under a grand design FDR termed the "Four Quarters," comprising the [[tennessee-valley-authority|Tennessee Valley Authority]] area, the Columbia River Treaty zone, the St. Lawrence Seaway zone and the Hoover Dam/Colorado zone.[5] Ehret maintains that, contrary to popular belief, FDR was not a Keynesian, even though hives of Rhodes Scholars and Fabians penetrating his administration certainly were.[5] After his early death, Bretton Woods institutions such as the [[world-bank|World Bank]] and [[imf|IMF]] were turned into instruments of usurious re-colonization rather than long-term productive credit generators under an international New Deal.[5]
 
 5. Badlands Brief — "The Enduring Legacy of the Entente Cordiale", URL: https://badlands.substack.com/p/the-enduring-legacy-of-the-entente
+
+## Revival of Sun Yat-sen's vision
+
+[[matthew-ehret|Matthew Ehret]] writes that by the end of World War II, [[sun-yat-sen|Sun Yat-sen]]'s vision for a world of win-win cooperation was revived by Franklin Roosevelt, who had fought tirelessly against the [[british-empire|British imperial]] forces of the [[city-of-london|City of London]] before and during the war.[6] Among the figures who shared Roosevelt's passion for internationalizing New Deal projects so that former colonies could achieve genuine economic independence was his vice president from 1941 to 1945, [[henry-wallace|Henry A. Wallace]], who worked with FDR and other New Deal Democrats to shape the 1942 [[atlantic-charter|Atlantic Charter]] and the [[bretton-woods-system|Bretton Woods System]].[6]
+
+FDR's death in April 1945 ended the plan: Wallace and other New Deal Democrats loyal to his vision were labelled communist sympathizers, and instead of a cooperative internationalized New Deal the United States got the [[truman-doctrine|Truman Doctrine]], containment and proxy wars between the supposedly "free and capitalist west" and "totalitarian evil east."[6] Ehret places FDR alongside [[abraham-lincoln|Lincoln]] and Sun Yat-sen as exponents of national economic planning who became threats to what he calls the international cabal of oligarchs.[6]
+
+6. Badlands Brief — "Understanding the Soul of China", URL: https://badlands.substack.com/p/understanding-the-soul-of-china
+
+## Draining the swamp in 1933
+
+Roosevelt backed the [[pecora-commission|Pecora Commission]]'s exposures of Wall Street; when told that supporting them would hurt the economy, he replied, "they should have thought of that when they did the things that are being exposed now," and he encouraged [[ferdinand-pecora|Ferdinand Pecora]] to take on [[jp-morgan-jr|J.P. Morgan Jr.]][7] The resulting public support allowed him to impose sweeping reforms in his first hundred days: [[glass-steagall|Glass-Steagall]] banking separation, the [[federal-deposit-insurance-corporation|FDIC]], the [[securities-and-exchange-commission|Securities and Exchange Commission]], the [[reconstruction-finance-corporation|Reconstruction Finance Corporation]] channeling $33 billion into the real economy by 1945, protective tariffs on agriculture, metals and industrial goods, and the vast public works of the [[new-deal|New Deal]] including the [[tennessee-valley-authority|Tennessee Valley Authority]] and the Grand Coulee and Hoover dams.[7]
+
+A fascist coup against Roosevelt using General [[smedley-butler|Smedley Butler]] and the [[american-legion|American Legion]] came undone before it could succeed, and [[matthew-ehret|Matthew Ehret]] credits Butler's whistleblowing with amplifying the president's popular support.[7] Ehret laments that Roosevelt died before this new political economy could be internationalized abroad as an anti-colonial program.[7]
+
+7. Badlands Brief — "Why America Needs to Break Wall Street's Kneecaps", URL: https://badlands.substack.com/p/why-america-needs-to-break-wall-streets

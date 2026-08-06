@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [election-integrity, colorado, clerk, commutation]
-sources: [raw/badlands-blitz-episode-18.md, raw/badlands-brief-174.md, raw/badlands-brief-5a2.md, raw/badlands-brief-774.md, raw/badlands-brief-a9f.md, raw/badlands-brief-b38.md, raw/badlands-brief-c07.md, raw/badlands-brief-e3f.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-8a4.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-d5c.md, raw/badlands-news-brief-f76.md, raw/reset-the-space-reset-society.md]
+sources: [raw/badlands-blitz-episode-18.md, raw/badlands-brief-174.md, raw/badlands-brief-5a2.md, raw/badlands-brief-774.md, raw/badlands-brief-a9f.md, raw/badlands-brief-b38.md, raw/badlands-brief-c07.md, raw/badlands-brief-e3f.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-8a4.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-d5c.md, raw/badlands-news-brief-f76.md, raw/reset-the-space-reset-society.md, raw/the-people-the-party-and-political.md, raw/trials-tribulations-and-a-long-train.md]
 confidence: medium
 ---
 
@@ -155,6 +155,16 @@ Badlands host [[ashe-in-america|Ashe in America]] linked President [[donald-trum
 
 Peters appeared with [[mike-lindell|Mike Lindell]] on the first [[twitter-spaces|Twitter Spaces]] event hosted by [[ashe-in-america|Ashe in America]], who had covered her case extensively.[23] The discussion addressed the RNC chair election, the Maricopa audit, the [[mesa-county|Mesa County]] election reports, and Peters' then-upcoming trials.[23]
 
+## 2022 Secretary of State campaign
+
+At the [[2022-colorado-republican-state-assembly|2022 Colorado Republican State Assembly]], Peters took a 61% majority of the assembled delegates in the Secretary of State contest, with lesser-known candidate Mike O'Donnell taking the remainder and also qualifying for the ballot; she therefore faced both O'Donnell and [[pam-anderson|Pam Anderson]] in the June primary.[24] Anderson, the former Executive Director of [[mark-zuckerberg|Mark Zuckerberg]]'s [[center-for-tech-and-civic-life|Center for Tech and Civic Life]], had petitioned onto the ballot rather than face assembly delegates, and won the primary before losing the general election.[24]
+
+Peters was one of four candidates who paid what [[ashe-in-america|Ashe in America]] described as extortion-level fees to obtain a machine recount of the 2022 primary; because her race was statewide, the recount covered all 64 Colorado counties and was overseen by Secretary of State [[jena-griswold|Jena Griswold]].[24] The [[2022-el-paso-county-recount|El Paso County portion of that recount]] produced a roughly 57% ballot adjudication rate in Logic and Accuracy Testing, and observers reported an election worker altering original primary batch totals to match recount figures as well as ballot boxes with broken seals.[24]
+
+## Trial timing relative to the Supreme Court argument (2024)
+
+Writing on January 10, 2024, [[ashe-in-america|Ashe in America]] noted that Peters' trial was set to begin the day before oral arguments at the [[supreme-court-of-the-united-states|Supreme Court]] in [[anderson-v-griswold|Anderson v. Griswold]], and cited the coincidence as evidence that [[colorado|Colorado]] would remain a battlefield in the election [[lawfare|lawfare]] domain beyond the ballot-access case.[25] She directed readers to [[badlands-media|Badlands Media]] for continuing coverage, and disclosed that her own trial was scheduled for the same week pending a continuance, comparing it to the [[true-the-vote|True the Vote]] case recently decided in favor of the "election deniers" by an Obama-appointed judge in Georgia.[25]
+
 ## References
 1. Badlands Brief — "Badlands Blitz Episode 18", URL: https://badlands.substack.com/p/badlands-blitz-episode-18
 2. Badlands Brief — "Conflicts, Cartels, & Clemency", URL: https://badlands.substack.com/p/badlands-brief-174
@@ -179,3 +189,5 @@ Peters appeared with [[mike-lindell|Mike Lindell]] on the first [[twitter-spaces
 21. Badlands Media — "Badlands News Brief: Colorado Fallout (and Exposure) Continues", URL: https://badlands.substack.com/p/badlands-news-brief-d5c
 22. Badlands Brief — "Badlands News Brief: Sinking Confidence & A Loss Of Command", URL: https://badlands.substack.com/p/badlands-news-brief-f76
 23. Badlands Media — "The Great Reset the Space: A New Frontier for American Community", raw/reset-the-space-reset-society.md
+24. Badlands Media — "The People, The Party & Political Distractions", URL: https://badlands.substack.com/p/the-people-the-party-and-political
+25. Badlands Media - "Trials, Tribulations & a Long Train of Abuses", URL: https://badlands.substack.com/p/trials-tribulations-and-a-long-train

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [bitcoin, finance, markets, strategy]
-sources: [raw/badlands-news-brief-298.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-a31.md]
+sources: [raw/badlands-news-brief-298.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-a31.md, raw/trump-doctrine-peace-through-space.md, raw/trust-the-plan.md]
 confidence: medium
 ---
 
@@ -39,9 +39,20 @@ Saylor appeared as the special guest on episode 94 of [[rugpull-radio|Rugpull Ra
 
 After President [[donald-trump|Donald Trump]] nominated [[stephen-miran|Stephen Miran]] to the [[federal-reserve|Federal Reserve]] Board in August 2025, Badlands contributor [[chris-paul|Chris Paul]] half-jokingly proposed Saylor — the bitcoin-maximalist executive — as a candidate for Fed chairman, a quip that landed as [[bitcoin|bitcoin]] surged back above $117,000 on the nomination news.[5]
 
+## Trump Doctrine: Peace Through Space
+
+"[[trump-doctrine-peace-through-space|Trump Doctrine: Peace Through Space]]" cites Saylor's analysis that the [[bitcoin|Bitcoin]] network's hash power of 320 exahashes per second on February 20, 2023 was equivalent to roughly twice the power consumption of the entire US Navy, and notes that subsequent sustained spikes to 562 exahashes per second would be equivalent to about 3.51 times that consumption.[6] The figures anchor the article's closing suggestion that the Bitcoin network functions as a new weapons system developed under [[peace-through-strength|Peace Through Strength]].[6]
+
 ## References
 1. Badlands News Brief — "Pirated Pardons & Delayed Declassifications", URL: https://badlands.substack.com/p/badlands-news-brief-298
 2. Badlands Brief — "Badlands News Brief: A Coming Conclave & More Musical Chairs", URL: https://badlands.substack.com/p/badlands-news-brief-5c8
 3. Badlands News Brief — "Strategy & Micro Protests", URL: https://badlands.substack.com/p/badlands-news-brief-71c
 4. Badlands News Brief — "Embattled Mayors, Peacemakers & Signal Setters", URL: https://badlands.substack.com/p/badlands-news-brief-9b2
 5. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
+6. Badlands Brief — "Trump Doctrine: Peace Through Space", URL: https://badlands.substack.com/p/trump-doctrine-peace-through-space
+
+## "Need to know" remark on Bitcoin insight
+
+A July 11, 2024 Badlands Media essay on the exploitation of trust quoted a recent Saylor remark that "Bitcoin insight is limited to those with a [need] to know. It's like you look at it, it's right in front of your face."[7] The essay glossed the line as referring to individuals who reach a personal "mortality event," investigate political, economic or psychological solutions to prevent injury or death, and discover [[bitcoin|Bitcoin]] in the process — a pattern the author likened to Q's notion of the precipice.[7] The remark was used to support the essay's broader claim that trust-less systems become legible to people only once trust-based ones have visibly failed them.[7] See [[trust-the-plan|"TRUST the plan"]].[7]
+
+7. Badlands Brief — "TRUST: The Plan", URL: https://badlands.substack.com/p/trust-the-plan

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republican, russiagate]
-sources: [raw/badlands-news-brief-01d.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-11b.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-b65.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-d22.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-dae.md, raw/badlands-news-brief-e1a.md, raw/badlands-news-brief-e79.md, raw/badlands-news-brief-f46.md, raw/badlands-news-brief-f94.md, raw/badlands-news-brief-ff6.md, raw/the-chosen-one.md, raw/the-fake-and-the-gaetz.md, raw/the-information-imperium.md, raw/the-overdrive-timeline.md]
+sources: [raw/badlands-news-brief-01d.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-11b.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-b65.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-d22.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-dae.md, raw/badlands-news-brief-e1a.md, raw/badlands-news-brief-e79.md, raw/badlands-news-brief-f46.md, raw/badlands-news-brief-f94.md, raw/badlands-news-brief-ff6.md, raw/the-chosen-one.md, raw/the-fake-and-the-gaetz.md, raw/the-information-imperium.md, raw/the-overdrive-timeline.md, raw/the-real-fight-begins.md]
 confidence: medium
 ---
 
@@ -189,3 +189,9 @@ During the 2023 Weaponization of the Federal Government hearings, Gaetz asked jo
 Gaetz was among the twenty-one holdouts in the January 2023 speakership fight that produced the [[january-2023-mccarthy-concessions|January 2023 McCarthy concessions]].[27] He continued to serve on the [[house-judiciary-committee|Judiciary]] panel and was appointed by [[kevin-mccarthy|Kevin McCarthy]] to the new [[select-subcommittee-on-the-weaponization-of-the-federal-government|weaponization subcommittee]].[27]
 
 27. Badlands Brief — "The Overdrive Timeline", URL: https://badlands.substack.com/p/the-overdrive-timeline
+
+## Attorney General nomination (November 2024)
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] welcomed Gaetz's nomination as Attorney General in the second [[donald-trump|Trump]] administration, calling it "both hilarious and a great fit," while noting the difficulty of actually getting him confirmed.[28] DeLarme argued there was only one thing to consider about the RINOs in Congress who would vote against Gaetz: most of them had voted for [[merrick-garland|Merrick Garland]], and anyone who voted against Gaetz after backing Garland could not be trusted and should be voted out of office.[28]
+
+28. Badlands Brief — "The Real Fight Begins", URL: https://badlands.substack.com/p/the-real-fight-begins

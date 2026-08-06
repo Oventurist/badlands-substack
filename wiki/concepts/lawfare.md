@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [litigation, politics, speech-suppression]
-sources: [raw/always-fight-back.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-88b.md, raw/the-language-of-control.md]
+sources: [raw/always-fight-back.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-88b.md, raw/the-language-of-control.md, raw/trials-tribulations-and-a-long-train.md, raw/trumps-2025-vision.md]
 confidence: medium
 ---
 
@@ -43,6 +43,14 @@ Badlands treated the August 2023 fight over [[donald-trump|Donald Trump]]'s requ
 
 Commenting in August 2023 on the secret subpoena of Twitter in the [[trump-twitter-search-warrant|Trump Twitter search warrant]] episode, Badlands contributor [[justin-deschamps|Justin Deschamps]] offered a working definition of lawfare as "the use of the legal process to retard, hinder, or otherwise prevent justice, in principle; or in a practical sense, to starve out and waste the resources of your opponent so you can win outside of merit."[6] He argued that an outcome produced by manipulation and coercion cannot be fair or reflect truth and justice, because cheating was required to obtain it.[6] Applying the frame to the prosecutions of [[donald-trump|Donald Trump]], he contended that with every public action the globalists take they "might legally win but then lawfully lose" — that even a successful effort to rig Trump out of the 2024 race would be widely seen as bogus and would consume what little social capital the [[cabal|Cabal]] retained.[6]
 
+## The 2024 trial calendar as campaign
+
+Writing on January 10, 2024, [[ashe-in-america|Ashe in America]] described the coming year as "full election mode on steroids," with the volume of legal cases against [[donald-trump|Donald Trump]] and his supporters unfolding in parallel with a presidential election year - a situation she called unprecedented and evidence of "communism currently embedded in and resurfacing within our nation."[8] She catalogued the parallel proceedings using a calendar published by [[just-security|Just Security]] of cases in which Trump was a criminal or civil defendant: the D.C. Circuit immunity appeal before Judge [[tanya-chutkan|Tanya Chutkan]]; the New York civil fraud case before Judge [[arthur-engoron|Arthur Engoron]]; the Fulton County racketeering case before Judge [[scott-mcafee|Scott McAfee]], in which Trump faces 13 counts alongside 18 co-defendants and opening arguments were set for August 5; the classified documents case before Judge [[aileen-cannon|Aileen Cannon]]; the [[e-jean-carroll|E. Jean Carroll]] damages trial before Judge [[lewis-kaplan|Lewis Kaplan]]; and a lesser-known New York civil election-interference case remanded to state court by Judge [[alvin-hellerstein|Alvin Hellerstein]].[8]
+
+Hellerstein's remand order held that "Trump has failed to show that the conduct charged by the Indictment is for or relating to any act performed by or for the President under color of the official acts of a President," and that he had likewise failed to show "a colorable federal defense to the Indictment."[8] That case was set to begin March 25, 2024, with a hearing on motions including dismissal on February 1.[8]
+
+Ashe argued that these cases, together with the ballot challenges proceeding in Colorado, Maine and Oregon, constituted "overt, direct election interference by uniparty government officials and progressive lawfare NGOs," and that novel criminal and civil lawfare had become "the new normal."[8] She noted her own pending trial, which she compared to the [[true-the-vote|True the Vote]] case decided in favor of the "election deniers" by an Obama-appointed judge in Georgia, and cited [[tina-peters|Tina Peters]]' trial - set to begin the day before Supreme Court arguments in [[anderson-v-griswold|Anderson v. Griswold]] - as further evidence that [[colorado|Colorado]] remained a battlefield in the election lawfare domain.[8] Quoting [[burning-bright|Burning Bright]]'s observation that "the trials are Trump's campaign," she concluded that the trials needed to become "all of our collective campaign."[8]
+
 ## References
 1. Badlands Media — "Always Fight Back", URL: https://badlands.substack.com/p/always-fight-back
 2. Badlands Brief — "The Reckoning of Fake Elections, Fake Wars and Fake Allies", URL: https://badlands.substack.com/p/badlands-brief-b62
@@ -60,3 +68,12 @@ DeLarme named [[marc-elias|Marc Elias]] as a practitioner who used legal tactics
 The article argued that lawfare operates in tandem with [[color-revolution|color revolution]] tactics, and that the notion of a "legal mafia" impeding a democratically elected president is repugnant to the democratic ideals its practitioners profess.[7]
 
 7. Badlands Media — "The Language of Control", URL: https://badlands.substack.com/p/the-language-of-control
+8. Badlands Media - "Trials, Tribulations & a Long Train of Abuses", URL: https://badlands.substack.com/p/trials-tribulations-and-a-long-train
+
+## Deschamps on lawfare as the anti-rule-of-law (June 2023)
+
+In "Trump's 2025 Vision," [[justin-deschamps|Justin Deschamps]] defined lawfare as the component of the [[deep-state|Deep State]] system that exists to counter law and order as thoroughly as possible, the mirror image of a functioning [[rule-of-law|rule of law]].[9] He argued that weaponized legal and justice systems perform three functions: they help criminals escape consequences at both high and low levels, they deepen public dependency on globalist "solutions," and they allow prosecutors to ignore crimes against ordinary people while pursuing opponents of the [[globalism|globalist]] agenda.[9] The benefit to its practitioners he described as effectively limitless, amounting to extortion at every level of society.[9]
+
+Deschamps read [[donald-trump|Donald Trump]]'s proposals to audit U.S. intelligence agencies for domestic spying and to remove "Marxist prosecutors" as a direct assault on this apparatus, predicting that such reforms would transform the legal landscape of the country and, by extension, the world.[9] He made the same argument about Trump's tough-on-crime and anti-cartel proposals, contending that permissive crime policy is itself an arm of the lawfare system.[9]
+
+9. Badlands Brief — "Trump's 2025 Vision [Updated]", URL: https://badlands.substack.com/p/trumps-2025-vision

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military, joint-chiefs, ukraine, negotiations, pentagon]
-sources: [raw/badlands-news-brief-324.md, raw/badlands-news-brief-b24.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-e7c.md, raw/purple-revolution.md]
+sources: [raw/badlands-news-brief-324.md, raw/badlands-news-brief-b24.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-e7c.md, raw/purple-revolution.md, raw/women-children-and-terror.md]
 confidence: medium
 ---
 
@@ -30,6 +30,10 @@ Reporting published in 2025 alleged that Milley, as Chairman of the Joint Chiefs
 
 In late May 2023 Milley, as Chairman of the Joint Chiefs of Staff, was reported alongside Secretary of Defense [[lloyd-austin|Lloyd Austin]] to have ordered [[nellis-air-force-base|Nellis Air Force Base]] in Nevada to cancel an on-base "family friendly" drag show marking the start of Pride month, or else move it off base.[3] Two months earlier, at a congressional hearing, Milley and Austin had told Rep. [[matt-gaetz|Matt Gaetz]] that they did not approve of drag queen story hours on military installations; Gaetz publicly called both men out when a "cry for help" about the Nellis event surfaced.[3] Badlands commentary observed that the show was in its third consecutive year and that neither officer had intervened previously.[3]
 
+## Departure read as a signal (October 2023)
+
+[[erik-carlson|Erik Carlson]] noted that Joint Chiefs of Staff General Milley stepped down on September 27, 2023, and characterized it with the phrase "the rats are fleeing the Ukraine ship."[6] The remark came in an argument that the Ukraine war had essentially been abandoned because it could not be escalated into a world war — the [[british-cabal|Cabal]] not controlling Russia — and that the Middle East was being opened as a replacement theater and money-laundering venue.[6]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Extra-Judicial Judges & Master Manipulating Monsters", URL: https://badlands.substack.com/p/badlands-news-brief-324
@@ -51,3 +55,4 @@ In Badlands Media's [[purple-revolution|Purple Revolution]] analysis, Milley is 
 Milley was not among the officials Trump dismissed after the election, alongside [[christopher-wray|Christopher Wray]] and CIA Director [[gina-haspel|Gina Haspel]], though the author cautions that non-removal does not establish loyalty since some officials were merely left out of the loop or fed misinformation.[5] The article floats the contrary possibility that Milley's conduct under Biden — his back-channel communications with China, "woke" military inclusion policy, the Taliban's capture of some $850 billion in US military equipment, the Chinese spy balloon overflight, and the Russian pipeline demolition — was so consistently damaging that it may have been deliberate sabotage of the Biden administration by a double agent working with Trump.[5] On this reading, Milley's activity during Trump's final month in office served to convince Biden's handlers that he could be trusted to protect the Deep State.[5] The article notes his retirement at the end of September 2023 and asks whether the Israel-Hamas conflict beginning a week later carried any significance.[5]
 
 5. Badlands Brief — "Purple Revolution", URL: https://badlands.substack.com/p/purple-revolution
+6. Badlands Brief — "Women, Children ... and Terror", URL: https://badlands.substack.com/p/women-children-and-terror

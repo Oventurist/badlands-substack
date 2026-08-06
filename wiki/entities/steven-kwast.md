@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military, air-force, psychological-warfare, badlands]
-sources: [raw/badlands-news-brief-c44.md, raw/badlands-news-brief-ff1.md, raw/kekistani-code-talkers.md]
+sources: [raw/badlands-news-brief-c44.md, raw/badlands-news-brief-ff1.md, raw/kekistani-code-talkers.md, raw/trump-doctrine-peace-through-space.md]
 confidence: low
 ---
 
@@ -22,6 +22,9 @@ Burning Bright argued in the same segment that the tariff episode functioned as 
 
 On [[rugpull-radio|Rugpull Radio]], Lt. General Steven Kwast described humanity as standing at a point in history marking the transition from the Industrial Age to the Network Age.[3] The Badlands Brief article "Kekistani Code Talkers" cites this framing when introducing the [[enigma-machine|Enigma machine]] and [[alan-turing|Alan Turing]]'s work as the building blocks that made such a transition possible.[3]
 
+## Trump Doctrine: Peace Through Space
+
+"[[trump-doctrine-peace-through-space|Trump Doctrine: Peace Through Space]]" cites a [[badlands-media|Badlands Media]] clip in which [[jon-herold|Jon Herold]] and Kwast discuss the proven technology for capturing and transferring solar energy around space and to Earth, raised in the context of unconfirmed [[starlink|Starlink]] capabilities such as orbital [[bitcoin|Bitcoin]] mining and energy transfer.[4]
 
 ## References
 1. Badlands Brief — "Badlands News Brief: A British TERF Triumph & A Senator Snubbed in El Salvador", URL: https://badlands.substack.com/p/badlands-news-brief-c44
@@ -29,3 +32,4 @@ On [[rugpull-radio|Rugpull Radio]], Lt. General Steven Kwast described humanity 
 On the day in June 2025 that Russia and Burkina Faso signed their nuclear energy agreement, Kwast was interviewed by [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] of [[badlands-media|Badlands Media]] on the subject of what he called the broken "hero system" in Africa.[2] The case study used in the discussion was [[burkina-faso|Burkina Faso]] and the rise of Captain [[ibrahim-traore|Ibrahim Traoré]], presented as the best available indication that Africa's hero system can be revived.[2] The host described the timing as serendipitous and urged listeners to hear the conversation, praising Kwast's calibre and character.[2] See [[2025-russia-burkina-faso-nuclear-energy-agreement]].[2]
 2. Badlands Brief — "Badlands News Brief: Military Might, MoronGPT, & A Mutiny of The Men", URL: https://badlands.substack.com/p/badlands-news-brief-ff1
 3. Badlands Brief — "Kekistani Code Talkers", URL: https://badlands.substack.com/p/kekistani-code-talkers
+4. Badlands Brief — "Trump Doctrine: Peace Through Space", URL: https://badlands.substack.com/p/trump-doctrine-peace-through-space

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, homeland-security, border, oversight]
-sources: [raw/badlands-news-brief-b26.md]
+sources: [raw/badlands-news-brief-b26.md, raw/watch-the-water-see-the-storm.md]
 confidence: medium
 ---
 
@@ -23,3 +23,11 @@ Commenting on the hearing for [[badlands-media|Badlands Media]], [[ashe-in-ameri
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Trump's Tapes, Putin's Plan & Byrne's Bio", URL: https://badlands.substack.com/p/badlands-news-brief-b26
+
+## Cybersecurity and Infrastructure Protection Subcommittee
+
+The committee's Cybersecurity and Infrastructure Protection Subcommittee, chaired by Representative [[andrew-garbarino|Andrew Garbarino]] (R-NY) with ranking member [[eric-swalwell|Eric Swalwell]] (D-CA), holds jurisdiction over federal policy for protecting [[critical-infrastructure|critical infrastructure]].[2] On February 6, 2024 it held a roughly 90-minute hearing entitled "Securing Operational Technology: A Deep Dive into the Water Sector," one of more than half a dozen House hearings running largely concurrently that day.[2]
+
+Witnesses were [[robert-m-lee|Robert M. Lee]] of [[dragos|Dragos]], [[charles-clancy|Charles Clancy]] of [[mitre-corporation|MITRE]], [[kevin-morley|Kevin Morley]] of the [[american-water-works-association|American Water Works Association]], and [[marty-edwards|Marty Edwards]] of [[tenable|Tenable]]; questioning members included [[rob-menendez|Rob Menendez]], [[august-pfluger|August Pfluger]], [[carlos-gimenez|Carlos Gimenez]], and [[troy-carter|Troy Carter]].[2] The session covered the November 2023 Iranian-linked intrusion at the [[aliquippa-municipal-authority|Aliquippa Municipal Authority]], [[operational-technology|operational technology]] and [[internet-of-things|IoT]] vulnerability, sector interdependency, and whether digitized infrastructure can retain manual fallback capability.[2]
+
+2. Badlands Brief — "Watch the Water, See the Storm", URL: https://badlands.substack.com/p/watch-the-water-see-the-storm

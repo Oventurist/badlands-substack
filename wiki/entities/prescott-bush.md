@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [bush-family, infiltration, neoconservatives, banking]
-sources: [raw/president-trumps-call-to-arms.md, raw/real-patriots-dont-think-like-hitler-196.md, raw/the-men-behind-the-curtain-part-8.md]
+sources: [raw/president-trumps-call-to-arms.md, raw/real-patriots-dont-think-like-hitler-196.md, raw/the-men-behind-the-curtain-part-8.md, raw/why-america-needs-to-break-wall-streets.md]
 confidence: low
 ---
 
@@ -26,6 +26,11 @@ Acting as a director of [[brown-brothers-harriman|Brown Brothers Harriman]], Bus
 1. Badlands Brief — "President Trump's Call to Arms", URL: https://badlands.substack.com/p/president-trumps-call-to-arms
 2. Badlands Brief — "Real Patriots Don't Think Like Hitler – Part 2: How Western Bankers Created the Nazis", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-196
 3. Badlands Brief — "The Men Behind the Curtain - Part 8", URL: https://badlands.substack.com/p/the-men-behind-the-curtain-part-8
+4. Badlands Brief — "Why America Needs to Break Wall Street's Kneecaps", URL: https://badlands.substack.com/p/why-america-needs-to-break-wall-streets
+
+## Profiting from the 1929 crash
+
+[[matthew-ehret|Matthew Ehret]] names Prescott Bush of [[brown-brothers-harriman|Brown Brothers Harriman]] as a notable figure who made his fortune by selling before the [[stock-market-crash-of-1929|1929 crash]] and then buying up the physical assets of America for pennies on the dollar.[4] Ehret writes that Bush went on to bail out a bankrupt Nazi party in 1932, providing millions in loans to [[adolf-hitler|Hitler]]'s movement and continuing to do business with the party through 1942, having stopped only after being found guilty of "trading with the enemy."[4] He places Bush among the financiers with a tight allegiance to the [[city-of-london|City of London]] who coordinated operations through the private central banking system of the [[federal-reserve|Federal Reserve]] and the [[bank-for-international-settlements|Bank of International Settlements]].[4]
 
 ## Skull and Bones and the Union Banking seizure
 

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [monetary-system, federal-reserve, ponzi-scheme, economics]
-sources: [raw/a-week-to-remember.md, raw/americas-greatest-threat.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-dfa.md, raw/badlands-news-brief-e40.md, raw/celebrating-15-years-of-indictments.md, raw/the-covfefe-dig.md, raw/the-history-of-central-banking-in-57e.md]
+sources: [raw/a-week-to-remember.md, raw/americas-greatest-threat.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-dfa.md, raw/badlands-news-brief-e40.md, raw/celebrating-15-years-of-indictments.md, raw/the-covfefe-dig.md, raw/the-history-of-central-banking-in-57e.md, raw/the-stock-market-isnt-the-economy.md]
 confidence: medium
 ---
 
@@ -80,3 +80,12 @@ The article describes the system as inherently inflationary: expanding the money
 7. Badlands Brief — "Celebrating 15 Years of Indictments and Justice!", URL: https://badlands.substack.com/p/celebrating-15-years-of-indictments
 8. Badlands Brief — "The COVFEFE Dig", URL: https://badlands.substack.com/p/the-covfefe-dig
 9. Badlands Brief — "The History of Fractional Reserve Banking in America", URL: https://badlands.substack.com/p/the-history-of-central-banking-in-57e
+10. Badlands Brief — "The Stock Market Isn't the Economy", URL: https://badlands.substack.com/p/the-stock-market-isnt-the-economy
+
+## Reported figures and their manipulation (2021–2023)
+
+Badlands Media contributor [[erik-carlson|Erik Carlson]] argued in February 2023 that inflation is both a monetary phenomenon and a statistical one, produced by the [[federal-reserve|Federal Reserve]] printing money out of nothing to fund [[covid-19-stimulus-checks|COVID-19 stimulus checks]] and then reported in ways designed to flatter the government.[10] Inflation rose from 1.4% when [[donald-trump|Donald Trump]] left office to 5.3% six months later, yet in July 2021 the Federal Reserve said it was not a problem and was likely "transitory"; it was not, and instead got much worse.[10]
+
+During the summer of 2022 inflation came in at 9.1% year over year, and the following month at 8.5%, at which point [[joe-biden|Joe Biden]] claimed he had eliminated inflation — a claim Carlson likened to a runaway train slowing from 91mph to 85mph.[10] Carlson contended that inflation did not actually fall: the reporting method was changed.[10] Gasoline prices had eased somewhat because Biden was tapping the [[strategic-petroleum-reserve|strategic oil reserves]] and drivers were adjusting their habits, and with fuel prices falling the authorities began including fuel in the aggregated inflation figures, which they had not done in prior months while fuel prices were rising.[10] In his account the entire move from 9.1% to 8.5% was attributable to that inclusion, while everything else continued to rise.[10]
+
+To combat out-of-control inflation the Federal Reserve raises interest rates, whose sole purpose, Carlson wrote, is to kill the economy — causing higher unemployment, curbing business expansion and profits, and forcing companies to shrink.[10] His summary maxim was to believe none of what you hear from media and government and only half of what you see, because figures as well as narratives are manipulated.[10]

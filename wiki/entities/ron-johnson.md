@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, oversight, republican]
-sources: [raw/badlands-brief-c7b.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-cf8.md, raw/badlands-news-brief-e3e.md]
+sources: [raw/badlands-brief-c7b.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-cf8.md, raw/badlands-news-brief-e3e.md, raw/what-difference-does-benghazi-make.md]
 confidence: medium
 ---
 
@@ -40,3 +40,9 @@ At the July 30, 2024 Senate hearing into the Butler, Pennsylvania assassination 
 3. Badlands Brief — "Posse Comitatus & Haggling with Hamas", URL: https://badlands.substack.com/p/badlands-news-brief-94b
 4. Badlands Brief — "Badlands News Brief: B-Ball Bets, Bomber Busts, & 'Bipartisan' Bill Blockage", URL: https://badlands.substack.com/p/badlands-news-brief-cf8
 5. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e
+
+## Benghazi questioning
+
+"What Difference Does Benghazi Make?" contrasts [[hillary-clinton|Hillary Clinton]]'s relaxed demeanor while [[john-mccain|John McCain]] questioned her about the [[benghazi-attack|Benghazi attack]] with her sharper reaction to Johnson, who pressed her on whether she knew that terrorists had attacked the consulate and killed Ambassador [[christopher-stevens|Christopher Stevens]].[6] Joe Lange treats Johnson's line of questioning as the one that genuinely threatened the official narrative, while McCain's focus on security failures served as a distraction from [[al-qaeda|Al Qaeda]]'s role.[6]
+
+6. Badlands Brief — "What Difference Does Benghazi Make?", URL: https://badlands.substack.com/p/what-difference-does-benghazi-make

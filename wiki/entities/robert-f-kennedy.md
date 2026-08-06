@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [kennedy-administration, attorney-general, cold-war]
-sources: [raw/badlands-news-brief-dae.md, raw/how-to-stop-civil-war-20.md, raw/john-bobby-and-marilyn.md]
+sources: [raw/badlands-news-brief-dae.md, raw/how-to-stop-civil-war-20.md, raw/john-bobby-and-marilyn.md, raw/the-werewolf-game-a-new-class-of.md]]
 confidence: medium
 ---
 
@@ -40,3 +40,9 @@ Ehret noted that Kennedy did communicate with Monroe during the period when [[20
 1. Badlands Brief — "Last Chance at WW3 as the MAGAvengers Assemble", URL: https://badlands.substack.com/p/badlands-news-brief-dae
 2. Badlands Brief — "How to Stop Civil War 2.0", URL: https://badlands.substack.com/p/how-to-stop-civil-war-20
 3. Badlands Brief — "John, Bobby ... and Marilyn", URL: https://badlands.substack.com/p/john-bobby-and-marilyn
+
+## The Werewolf Game series
+
+[[american-hypnotist|American Hypnotist]]'s [[the-werewolf-game|Werewolf Game]] series lists Kennedy's 1968 assassination among the deaths comprising the [[kennedy-curse|"Kennedy Curse"]], which the author presents as evidence of sustained [[deep-state|Deep State]] hostility toward the [[kennedy-family|Kennedy family]] rather than as coincidence.[4]
+
+4. Badlands Media — "The Werewolf Game - A New Class of Elites", URL: https://badlands.substack.com/p/the-werewolf-game-a-new-class-of

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fashion, child-exploitation, advertising, scandal]
-sources: [raw/badlands-news-brief-5b3.md, raw/child-sacrifice-as-a-pillar-of-deep.md]
+sources: [raw/badlands-news-brief-5b3.md, raw/child-sacrifice-as-a-pillar-of-deep.md, raw/the-war-of-stories.md]
 confidence: medium
 ---
 
@@ -29,3 +29,9 @@ Esler treats this as more than generic transgression: he argues the brand echoed
 ## References
 1. Badlands Brief — "Badlands News Brief: Election Laws & Justice for the Exploited", URL: https://badlands.substack.com/p/badlands-news-brief-5b3
 2. Badlands Brief — "Child Sacrifice as a Pillar of Deep State Control", URL: https://badlands.substack.com/p/child-sacrifice-as-a-pillar-of-deep
+
+## Cited in "The War of Stories" (December 2022)
+
+In "The War of Stories" (December 30, 2022), [[burning-bright|Burning Bright]] referred to "the Balenciaga Saga and its demonic celebrity endorsers" alongside the resurfacing of crimes-against-children narratives as one of the exposures demonstrating that the [[system-of-systems|System of Systems]] was being unmasked through the faces of its leading figures, part of what he called the [[good-reset|'Good' Reset]].[3]
+
+3. Badlands Brief — "The War of Stories", URL: https://badlands.substack.com/p/the-war-of-stories

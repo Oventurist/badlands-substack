@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [brazil, censorship, judiciary, free-speech, first-amendment]
-sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-ea6.md, raw/badlands-news-brief-e99.md, raw/badlands-news-brief-f14.md, raw/badlands-news-brief-f53.md, raw/the-censorship-war-counteroffensive.md]
+sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-ea6.md, raw/badlands-news-brief-e99.md, raw/badlands-news-brief-f14.md, raw/badlands-news-brief-f53.md, raw/the-censorship-war-counteroffensive.md, raw/the-multinational-offensive-against.md]
 confidence: medium
 ---
 
@@ -99,3 +99,13 @@ Moraes then ordered Rumble to close the account of [[allan-dos-santos|Allan dos 
 [[elon-musk|Elon Musk]] attacked Moraes repeatedly during X's conflict with the [[supremo-tribunal-federal|Supremo Tribunal Federal]], calling him "a tyrannical dictator masquerading as a judge" and a "criminal," and in August 2024 posted an AI-generated image of Moraes behind prison bars with the caption: "One day, @Alexandre, this picture of you in prison will be real. Mark my words."[11] DeLarme placed Moraes among the leading figures of the global [[censorship-war|censorship war]], alongside European proponents such as [[thierry-breton|Thierry Breton]].[11]
 
 11. Badlands Brief — "The Censorship War - Counteroffensive", URL: https://badlands.substack.com/p/the-censorship-war-counteroffensive
+
+## The 2024 ban on X (DeLarme account)
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] described Alexandre de Moraes as a Brazilian Supreme Court judge who "looks like a Sith Lord" and has essentially anointed himself Brazil's foremost authority on objective reality, calling him quite possibly one of the most overtly authoritarian judges in the so-called democratic world.[12] In August 2024 Moraes issued censorship orders to [[x-corp|X]] backed by the threat of arresting the platform's Brazilian executives, lawyers and officials, prompting [[elon-musk|Elon Musk]] to shutter X's offices in the country because their safety could not be guaranteed.[12]
+
+Moraes then persuaded four fellow justices of the [[supremo-tribunal-federal|Supremo Tribunal Federal]] to ban X from Brazil outright and to criminalize its use, imposing fines of $8,900 per day on citizens who accessed the site through VPNs — more than the median annual income for a majority of the Brazilian population.[12] He further levied millions of dollars in fines on X and froze the bank accounts of [[starlink|Starlink]], a [[spacex|SpaceX]] subsidiary with distinct shareholders, transferring seized funds into Brazilian coffers even though Starlink was widely admired for providing free internet access in the Amazon and other underserved areas.[12] Musk publicly attacked Moraes and suggested he deserved prison, but capitulated within weeks, censoring every account the judge had ordered banned, including elected officials.[12]
+
+DeLarme argued that Brazil functions as a testing ground for an especially aggressive approach to censorship, watched closely by the United States and its European allies as a stress test of what governments can get away with — and that Moraes's ban came just three days after France arrested [[pavel-durov|Pavel Durov]].[12]
+
+12. Badlands Brief — "The Multinational Offensive Against Free Speech Online", URL: https://badlands.substack.com/p/the-multinational-offensive-against

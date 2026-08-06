@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, mainstream-media, cable-news]
-sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-169.md, raw/badlands-brief-c2d.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-001.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-f39.md, raw/badlands-news-brief-f18.md, raw/badlands-news-brief-f94.md, raw/badlands-news-brief-fcb.md, raw/hysteria-and-error.md, raw/poisoning-the-well.md, raw/the-exploitation-of-charlie-kirk.md, raw/the-media-is-the-enemy-of-the-people.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-169.md, raw/badlands-brief-c2d.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-001.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-f39.md, raw/badlands-news-brief-f18.md, raw/badlands-news-brief-f94.md, raw/badlands-news-brief-fcb.md, raw/hysteria-and-error.md, raw/poisoning-the-well.md, raw/the-exploitation-of-charlie-kirk.md, raw/the-media-is-the-enemy-of-the-people.md, raw/the-sting.md, raw/tucker-twitter-and-the-truth-community.md]
 confidence: medium
 ---
 
@@ -192,3 +192,16 @@ In "The Exploitation of Charlie Kirk," [[ryan-delarme|Ryan DeLarme]] wrote that 
 [[erik-carlson|Erik Carlson]]'s September 17, 2024 essay pointedly includes Fox News — "and even FOX News" — among the outlets that keep broadcasting what he calls disinformation while their ratings fall, which he offers as evidence of external subsidy rather than market discipline.[30]
 
 30. Badlands Brief — "The Media is the Enemy of the People", URL: https://badlands.substack.com/p/the-media-is-the-enemy-of-the-people
+
+## The Tucker Carlson firing and the ratings collapse (Carlson, May 2023)
+
+In "The Sting" (May 30, 2023), [[erik-carlson|Erik Carlson]] cited Fox News as evidence that a conservative outlet cannot survive breaking with [[donald-trump|Donald Trump]]: the network "got huge ratings while pretending to support Trump, then they fired [[tucker-carlson|Tucker Carlson]] and their ratings collapsed."[31] He used the episode to predict what would happen to [[con-inc|Con Inc.]] outlets if they openly backed [[ron-desantis|Ron DeSantis]]'s presidential candidacy, concluding simply: "It's over."[31]
+
+31. Badlands Brief — "The Sting", URL: https://badlands.substack.com/p/the-sting
+32. Badlands Brief — "Tucker, Twitter, and the Truth Community", URL: https://badlands.substack.com/p/tucker-twitter-and-the-truth-community
+
+## Post-Carlson ratings collapse
+
+After [[tucker-carlson|Tucker Carlson]]'s firing was announced on April 24, 2023, Fox's ratings tanked and the network often landed in second place in primetime news coverage, running behind [[msnbc|MSNBC]] — an outcome [[ashe-in-america|Ashe in America]] called unthinkable while Carlson led the evening lineup.[32] Carlson's best-rated Fox shows had drawn a tail of roughly four million live-plus-same-day views, averaging two to three million, figures dwarfed by the tens of millions per episode he drew on [[tucker-on-twitter|Tucker on Twitter]].[32]
+
+Ashe argued the network had shown itself to be globalist-controlled propaganda, pointing to its refusal to air Carlson's interview with former Capitol Police Chief [[steven-sund|Steven Sund]], which had been scheduled for April 24, 2023 and which wholly debunks the mainstream narrative of a "very violent" fake insurrection.[32] Competing explanations for Carlson's exit — racist text messages, as [[vanity-fair|Vanity Fair]] reported, or sealed conditions of the network's defamation settlement with [[dominion-voting-systems|Dominion]], as [[cnbc|CNBC]] reported — could all be true, she wrote, but the Sund episode made the network's editorial motive plain.[32] She also noted that Carlson had been handcuffed at Fox, where his news was watered down and where he downplayed the stolen election after 2020.[32]

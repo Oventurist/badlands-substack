@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, investigation, money-trust, 1913]
-sources: [raw/1913.md, raw/badlands-news-brief-2e7.md, raw/the-economy-weaponized.md, raw/the-history-of-central-banking-in.md]
+sources: [raw/1913.md, raw/badlands-news-brief-2e7.md, raw/the-economy-weaponized.md, raw/the-history-of-central-banking-in.md, raw/why-america-needs-to-break-wall-streets.md]
 confidence: medium
 ---
 
@@ -39,3 +39,8 @@ The Committee's report found that Morgan and others, including Rockefeller, [[pa
 2. Badlands Brief — "Russia's Retreat, Dominion's Domain & Street 'Justice'", URL: https://badlands.substack.com/p/badlands-news-brief-2e7
 3. Badlands Brief — "The Economy: Weaponized", URL: https://badlands.substack.com/p/the-economy-weaponized
 4. Badlands Brief — "The History of Central Banking in America", URL: https://badlands.substack.com/p/the-history-of-central-banking-in
+5. Badlands Brief — "Why America Needs to Break Wall Street's Kneecaps", URL: https://badlands.substack.com/p/why-america-needs-to-break-wall-streets
+
+## Comparison with the Pecora Commission
+
+[[matthew-ehret|Matthew Ehret]] contrasts the 1911 Pujo Commission with the later [[pecora-commission|Pecora Commission]]: although Pujo also exposed Wall Street's abuses of power, the Pecora inquiry was supported by a president, [[franklin-d-roosevelt|Franklin Roosevelt]], "who actually cared about the Constitution and amplified Pecora's powers even further."[5]

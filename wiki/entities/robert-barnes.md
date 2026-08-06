@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [law, elections, lawfare, commentary]
-sources: [raw/badlands-news-brief-683.md]
+sources: [raw/badlands-news-brief-683.md, raw/trump-lost-all-his-election-cases.md]
 confidence: medium
 ---
 
@@ -20,3 +20,8 @@ Badlands commentary built on the formulation to argue that in election [[lawfare
 
 ## References
 1. Badlands Brief — "Israel Invades, MAGA Sues & Ports Close", URL: https://badlands.substack.com/p/badlands-news-brief-683
+2. Badlands Brief — "'Trump Lost All His Election Cases!'", URL: https://badlands.substack.com/p/trump-lost-all-his-election-cases
+
+## Citation in the 2020 case index
+
+Attorney and independent journalist [[rachel-alexander|Rachel Alexander]] quoted the same formulation in her index of 2020 election cases, where it served to explain why 62 of the 92 lawsuits specifically concerning the 2020 election were disposed of on procedural grounds rather than on their facts.[2] [[badlands-media|Badlands Media]] wrote that Barnes "effectively summarizes the courts' positions on 2020 election challenges," while arguing that the pre-election challenges brought by Donald Trump and allied plaintiffs were proven prescient by the later state of American elections.[2] The publication paired the quote with its finding that, among the 30 cases decided on the merits, election-integrity plaintiffs prevailed 22 times — a 73 percent win rate.[2] See [[2020-election-lawsuits|2020 election lawsuits]] and [[laches|laches]].[2]

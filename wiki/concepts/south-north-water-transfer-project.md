@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [china, infrastructure, water, megaprojects, yangtze, yellow-river]
-sources: [raw/brics-vs-the-wef.md]
+sources: [raw/brics-vs-the-wef.md, raw/will-trump-thwart-the-coming-water.md]
 confidence: medium
 ---
 
@@ -34,5 +34,10 @@ The article uses the project as the central illustration of China's "anti-zero-s
 
 China has additionally built four of the ten largest hydroelectric dams in the world over the past 25 years, and on 14 June 2022 Power China unveiled plans for 200 new pumped hydro stations generating 270 GW by 2025.[1] The source cites a NASA finding that global biomass has increased by over 5%, driven in large measure by Indian and Chinese economic activity, as evidence that growth and ecological health are not in conflict.[1]
 
+## As a model for North America
+
+In a December 2024 follow-up, [[matthew-ehret|Matthew Ehret]] returned to the project — which he renders as the "Move South Water North Project" — as the working proof that open-system planning can resolve the [[north-american-water-crisis|North American water crisis]].[2] He reiterated the $64 billion cost, the 2001 start date, the 44.8 billion cubic meter annual target, the Eastern Route's 2013 completion, and the Western Route's scheduled completion in 2050, when it will carry Yangtze water across the Tibetan plateaus into the Yellow River.[2] Ehret argues that North America's hydrology mirrors China's problem — abundant runoff in the empty north, scarcity in the populous south — and that the same non-zero-sum reasoning points toward reviving the [[north-american-water-and-power-alliance|North American Water and Power Alliance]].[2]
+
 ## References
 1. Badlands Brief — "BRICS vs. The WEF", URL: https://badlands.substack.com/p/brics-vs-the-wef
+2. Badlands Brief — "Will Trump Thwart the Coming Water Wars?", URL: https://badlands.substack.com/p/will-trump-thwart-the-coming-water

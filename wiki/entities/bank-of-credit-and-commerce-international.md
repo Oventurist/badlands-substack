@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [bcci, cia, money-laundering, drug-trade, iran-contra, banking]
-sources: [raw/killing-the-peace.md, raw/missed-opportunities.md, raw/profiting-from-war.md, raw/shifting-the-narrative.md, raw/the-bank-of-crooks-and-criminals.md]
+sources: [raw/killing-the-peace.md, raw/missed-opportunities.md, raw/profiting-from-war.md, raw/shifting-the-narrative.md, raw/the-bank-of-crooks-and-criminals.md, raw/who-is-the-real-enemy.md]
 confidence: medium
 ---
 
@@ -78,3 +78,15 @@ Former U.S. Commissioner of Customs William von Raab told the Kerry Committee th
 Badlands contributor [[joe-lange|Joe Lange]] argues the reason few people remember the biggest banking scandal in history is that "the cabal changed the narrative."[5] With [[george-hw-bush|George H.W. Bush]] president and feeling the heat, the [[iraqi-invasion-of-kuwait|Iraqi invasion of Kuwait]] on 2 August 1990 seized the headlines; Operation Desert Shield filled the news for months and Operation Desert Storm, beginning 17 January 1991, wiped BCCI from the media narrative entirely.[5] In Lange's reading — anchored on the Q line "Public truths of some events force WARS" — the [[gulf-war|Gulf War]] was a coverup that itself became a massive money laundering operation.[5] The same timing, he argues, explains why Bush wanted [[alwaleed-bin-talal|Prince Alwaleed]] to take control of Citicorp in 1991, as the shadow government's dark money funding sources were in danger.[5]
 
 5. Badlands Brief — "The Bank of Crooks And Criminals", URL: https://badlands.substack.com/p/the-bank-of-crooks-and-criminals
+
+## The Afghan pipeline and the money spigot
+
+"Who Is The Real Enemy?" describes BCCI as a massive money spigot for the [[central-intelligence-agency|CIA]], the Bush family and [[alwaleed-bin-talal|Prince Alwaleed]], through which billions of dollars were stolen from depositors in over 70 countries and used to fund terrorist groups and start wars in order to take trillions in taxpayers' money.[6] The bank funded both sides of the [[iran-iraq-war|Iran/Iraq war]], [[iran-contra-affair|Iran-Contra]] and drug cartels, and financed the [[mujahideen|Mujahideen]] in [[afghanistan|Afghanistan]] who would later morph into [[al-qaeda|Al Qaeda]].[6]
+
+BCCI began as a bank in [[pakistan|Pakistan]], a placement the article argues was no coincidence: Pakistan had some of the most lax banking laws in the world and its intelligence service, the [[inter-services-intelligence|ISI]], was directly connected to the CIA.[6] The BCCI Ponzi scheme is said to have lasted as long as it did because three intelligence services — the CIA and the services of Saudi Arabia and Pakistan — were running it together.[6]
+
+CIA Director [[william-casey|William Casey]] dealt directly with BCCI head [[agha-hasan-abedi|Agha Hasan Abedi]], a close adviser to General [[muhammad-zia-ul-haq|Zia]], in secret meetings outside regular channels; Abedi also arranged Casey's meetings with Zia and with Saudi intelligence chiefs [[kamal-adham|Kamal Adham]] and [[turki-al-faisal|Prince Turki al-Faisal]], both BCCI shareholders.[6] Prince Turki distributed more than $1 billion in cash to Afghan guerrillas, matched by another billion from the CIA, an arrangement that allowed the administration to bypass Congress; bags of dollar bills were flown into Pakistan and handed to ISI director [[akhtar-abdur-rahman|Akhtar Abdur Rahman]], who banked the cash in ISI accounts at the National Bank of Pakistan, BCCI, and the Bank of Oman, one-third owned by BCCI.[6]
+
+Citing Fair.org, the article notes that the transfer of money allegedly destined for the Afghan rebels to various CIA-backed counterrevolutionary groups was only one of the scandals lurking behind the BCCI scandal, and that the bank was a major channel for drug money laundered by corrupt Pakistani military officers who administered the CIA's arms pipeline while supplying much of the heroin that inundated the United States and Europe during the 1980s.[6] Among the lasting consequences of Casey's decision to work with BCCI was the emergence of the bank's drug clients in Pakistan and Afghanistan — notably [[gulbuddin-hekmatyar|Gulbuddin Hekmatyar]] — as dominant figures in an expanded Afghan heroin traffic; historian [[alfred-mccoy|Alfred McCoy]] is quoted saying BCCI facilitated Pakistani heroin money that reached $4 billion by 1989, more than the country's legal exports.[6]
+
+6. Badlands Brief — "Who Is The Real Enemy?", URL: https://badlands.substack.com/p/who-is-the-real-enemy

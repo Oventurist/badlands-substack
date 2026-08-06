@@ -1,10 +1,10 @@
 ---
-title: Igor Kirillov
+title: "Igor Kirillov"
 created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, biological-weapons, ukraine, military, briefings]
-sources: [raw/badlands-news-brief-3c3.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-b22.md, raw/badlands-news-brief-d76.md]
+sources: [raw/badlands-news-brief-3c3.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-b22.md, raw/badlands-news-brief-d76.md, raw/the-venezuelan-squeeze.md]
 confidence: medium
 ---
 
@@ -70,3 +70,8 @@ The day after the killing, Russian foreign ministry spokeswoman [[maria-zakharov
 4. Badlands News Brief — "Johnson's Package Goes Flaccid ... And Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-79f
 5. Badlands Brief — "The Supreme Court Looms Over the First Debate", URL: https://badlands.substack.com/p/badlands-news-brief-b22
 6. Badlands News Brief — "Russia Responds as the Fake News Gets Even Faker", URL: https://badlands.substack.com/p/badlands-news-brief-d76
+7. Badlands Media — "The Venezuelan Squeeze", URL: https://badlands.substack.com/p/the-venezuelan-squeeze
+
+## Claims about the death of Hugo Chávez
+
+Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] cites Kirillov, described as commander of the radiological, chemical and biological defense forces of the Russian Armed Forces, among those suspicious of the circumstances of [[hugo-chavez|Hugo Chávez]]'s death in 2013.[7] In 2022 Kirillov claimed that Chávez had been poisoned to death by Claudia Díaz, his nurse from 2003 until 2011, who allegedly collaborated with U.S. special services and later ended up in the United States herself.[7] Kirillov said Russian doctors and forensic examination had found an atypical course to Chávez's illness.[7] Kirillov was himself assassinated in 2024.[7]

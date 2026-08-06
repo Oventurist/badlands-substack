@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [federal-agency, records, investigations]
-sources: [raw/badlands-brief-c7b.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-08a.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-c18.md, raw/badlands-news-brief-cf3.md, raw/nothing-is-as-it-appears.md]
+sources: [raw/badlands-brief-c7b.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-08a.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-c18.md, raw/badlands-news-brief-cf3.md, raw/nothing-is-as-it-appears.md, raw/unveiling-the-mar-a-lago-raid-1-year.md]
 confidence: low
 ---
 
@@ -69,3 +69,9 @@ Lange also recounts the agency's later posture under [[david-ferriero|David Ferr
 8. Badlands Brief — "Badlands News Brief: Crisis Cascades, Nordstream 3 & Bidenomics", URL: https://badlands.substack.com/p/badlands-news-brief-c18
 9. Badlands Brief — "Badlands News Brief: Soaring Eagles & Terminal USAIDs", URL: https://badlands.substack.com/p/badlands-news-brief-cf3
 10. Badlands Brief — "Nothing Is as It Appears", URL: https://badlands.substack.com/p/nothing-is-as-it-appears
+
+## Referral preceding the Mar-a-Lago search
+
+NARA's referral to the [[department-of-justice|Justice Department]] was the proximate trigger for the [[fbi|FBI]]'s August 8, 2022 [[mar-a-lago-raid|search of Mar-a-Lago]], a referral that [[alpha-warrior|Alpha Warrior]] characterised as "tinged with political maneuvering."[11] The redacted affidavit supporting the warrant recounted the agency's attempts through 2021 to recover presidential materials from [[donald-trump|Donald Trump]], efforts met by what the government described as boxes shuffling in and out of the estate.[11] Trump's defenders responded that the [[presidential-records-act|Presidential Records Act]] of 1978 — the statute NARA administers, governing the ownership, custody and management of presidential records — placed his handling of the materials within the law.[11]
+
+11. Badlands Brief — "Unveiling the Mar-a-Lago Raid – 1 Year Delta", URL: https://badlands.substack.com/p/unveiling-the-mar-a-lago-raid-1-year

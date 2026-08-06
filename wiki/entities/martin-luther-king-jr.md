@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [civil-rights, assassination, ballistics, history]
-sources: [raw/badlands-brief-282.md, raw/how-to-stop-civil-war-20.md, raw/the-accomplishments-of-president.md, raw/the-british-cabal.md]
+sources: [raw/badlands-brief-282.md, raw/how-to-stop-civil-war-20.md, raw/the-accomplishments-of-president.md, raw/the-british-cabal.md, raw/unveiling-the-mar-a-lago-raid-1-year.md]
 confidence: medium
 ---
 
@@ -45,9 +45,14 @@ That plan is said to have collapsed when King began to campaign for racial unity
 
 Carlson explicitly refused a verdict of wholly good or wholly bad, laying out the competing readings — that King united the country, that he was Communist-backed and unfaithful, that he was killed by the FBI, that as a Christian pastor he denied the virgin birth, the resurrection and the divinity of Jesus, and that he preached Jesus as an example to live by — before concluding "it's complicated" and that he believes God can use anyone or anything to do his will.[4]
 
+## Legacy and quotation
+
+King's words have continued to be invoked in later American political controversy. In an August 2023 retrospective marking one year since the [[mar-a-lago-raid|Mar-a-Lago raid]], Badlands Media contributor [[alpha-warrior|Alpha Warrior]] closed his argument about politically motivated prosecution by quoting King as "an American Icon": "The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at the times of challenge and controversy."[5]
+
 ## References
 
 1. Badlands Brief — "Jesus Walks", URL: https://badlands.substack.com/p/badlands-brief-282
 2. Badlands Brief — "How to Stop Civil War 2.0", URL: https://badlands.substack.com/p/how-to-stop-civil-war-20
 3. Badlands Brief — "The Accomplishments of President Trump - Part 1", URL: https://badlands.substack.com/p/the-accomplishments-of-president
 4. Badlands Brief — "The British Cabal", URL: https://badlands.substack.com/p/the-british-cabal
+5. Badlands Brief — "Unveiling the Mar-a-Lago Raid – 1 Year Delta", URL: https://badlands.substack.com/p/unveiling-the-mar-a-lago-raid-1-year

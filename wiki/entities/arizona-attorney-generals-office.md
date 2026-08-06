@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [arizona, law-enforcement, elections, 2022-midterms, election-integrity]
-sources: [raw/an-sos-from-ground-zero.md]
+sources: [raw/an-sos-from-ground-zero.md, raw/timing-is-everything.md]
 confidence: medium
 ---
 
@@ -25,3 +25,11 @@ On November 19, 2022, the Unit, through Wright, sent a four-page letter to [[tom
 ## References
 
 1. Badlands Media — "An SOS From Ground Zero", URL: https://badlands.substack.com/p/an-sos-from-ground-zero
+
+## Election Integrity Unit and the 2022 certification fight
+
+Badlands contributor [[joe-lange|Joe Lange]] wrote that the Elections Integrity Unit which Attorney General [[mark-brnovich|Mark Brnovich]] had tasked with examining election fraud was, by late November 2022, demanding to see evidence that [[maricopa-county|Maricopa County]] had failed to follow Arizona election law during the [[2022-midterm-elections|2022 midterms]] — and demanding it before the election was certified.[2] The demand was conveyed in a letter from Assistant Attorney General [[jennifer-wright|Jennifer Wright]].[2]
+
+Lange argued that although outside observers had ignored the unit and assumed Brnovich was part of the political establishment, it had been working out of the spotlight deliberately, examining not only the 2020 election but preparing in advance for the 2022 midterms on the expectation that fraud in Maricopa County would have to be more blatant in order to defeat [[kari-lake|Kari Lake]].[2] He also noted that the [[maricopa-county-forensic-audit|Maricopa County forensic audit]] draft report had asked the attorney general to investigate its findings.[2]
+
+2. Badlands Brief — "Timing Is Everything", URL: https://badlands.substack.com/p/timing-is-everything

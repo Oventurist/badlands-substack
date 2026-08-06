@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [election-law, democrats, litigation, shadow-cabal]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-618.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-bcd.md, raw/badlands-news-brief-f6e.md, raw/the-language-of-control.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-618.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-bcd.md, raw/badlands-news-brief-f6e.md, raw/the-language-of-control.md, raw/trump-20-and-the-opposition-plot.md]
 confidence: medium
 ---
 
@@ -86,3 +86,12 @@ In "The Language of Control," Badlands Media contributor [[ryan-delarme|Ryan DeL
 The article placed such lawyers within a broader argument that the true rulers under a system governed by law are those who write, interpret or change it — legislators, judges, prosecutors and their financiers — making control of the courts and of legal frameworks a central object of political struggle.[11]
 
 11. Badlands Media — "The Language of Control", URL: https://badlands.substack.com/p/the-language-of-control
+12. Badlands Brief — "Trump 2.0 and the 'Opposition' Plot", URL: https://badlands.substack.com/p/trump-20-and-the-opposition-plot
+
+## "Building the Opposition" (2024)
+
+After the November 2024 election, Elias published an essay at [[democracy-docket|Democracy Docket]] titled "Building the Opposition," which became the founding manifesto of [[the-opposition|the Opposition]].[12] He recounted that [[the-resistance|the resistance]] had emerged after 2016 on the hope that if [[donald-trump|Donald Trump]] "could simply be held back — resisted — for four years, politics would go back to normal," with a Democrat retaking the White House and Trump remembered as an unfortunate aberration.[12] He acknowledged that since Election Day it had become fashionable to view that effort as a failure, but defended the grassroots energy behind it against cynics.[12]
+
+Elias argued that "hoping that Trump fails is not a plan" and called for developing new movements, structures, tactics, platforms and leaders to oppose Trump while articulating a positive vision.[12] He described the opposition as "more comprehensive and durable" than a resistance because "there are no time limits to the effort," and noted that "in some systems the opposition entails an entire shadow government."[12]
+
+Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] grouped Elias with [[norm-eisen|Norm Eisen]] and [[david-brock|David Brock]] as operatives who, unlike casual participants, could not simply walk away from politics after Trump's victory and instead reactivated an NGO machine including [[media-matters-for-america|Media Matters]], the [[anti-defamation-league|ADL]], the [[southern-poverty-law-center|SPLC]] and the [[american-civil-liberties-union|ACLU]].[12]

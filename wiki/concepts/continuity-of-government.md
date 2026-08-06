@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [continuity-of-government, devolution, national-security, badlands-media]
-sources: [raw/all-assets-deployed.md, raw/badlands-brief-d17.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-148.md, raw/biden-inc-flips.md, raw/spear-of-justice.md, raw/the-ivy-web.md]
+sources: [raw/all-assets-deployed.md, raw/badlands-brief-d17.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-148.md, raw/biden-inc-flips.md, raw/spear-of-justice.md, raw/the-ivy-web.md, raw/trumps-final-offensive.md, raw/whats-taking-so-long.md]
 confidence: medium
 ---
 
@@ -71,3 +71,18 @@ An August 2025 Badlands Media essay, "Spear of Justice," argued that Continuity 
 Badlands Media's "The Ivy Web" invokes continuity of government as the framework under which captured institutions may be reclaimed.[8] It groups [[executive-order-13818|EO 13818]], [[executive-order-13848|EO 13848]] and [[presidential-policy-directive-40|Presidential Policy Directive 40]] as instruments activated and extended after the 2020 election and the rollout of COVID-19 emergency powers, arguing that together they "unlock operational authority to restructure governance under military continuity protocols if national security is compromised."[8] The compromise alleged consists of foreign-backed disinformation, election interference through institutional capture, and coercive public-private censorship, with [[harvard-university|Harvard University]] cast as a central participant and therefore a target.[8]
 
 8. Badlands Brief — "The Ivy Web", URL: https://badlands.substack.com/p/the-ivy-web
+## COG in "Trump's Final Offensive"
+
+Badlands Media's "Trump's Final Offensive" argues that COG was quietly activated in March 2020 through [[executive-order-13912|Executive Order 13912]], which authorised National Guard activation under 10 U.S. Code §12302, and was never deactivated.[9] Title 10 orders layered with Presidential Emergency Action Documents (PEADs) are said to have permitted sealed indictments to be managed through military channels, emergency oversight of classified material misuse, and military intelligence operating above traditional federal investigative agencies such as the DOJ and FBI.[9]
+
+In this account the combination of Supreme Court rulings and shadow COG enforcement creates a legal vise grip around [[deep-state|Deep State]] networks, with one side constraining bureaucratic overreach and the other targeting corruption and concealment directly.[9] A COG-authorised task force operating under FISA-secured oversight was activated as part of [[pam-bondi|Pam Bondi]]'s restructuring of the [[public-integrity-section|Public Integrity Section]], and COG-backed prosecutors were credited with sealed indictments against sitting federal judges, eroding the doctrine of judicial immunity where criminal conspiracy is proven.[9]
+
+Legal scholars from the [[brennan-center-for-justice|Brennan Center]] and the [[american-civil-liberties-union|ACLU]] objected that COG mechanisms are classified and lack civilian transparency, that the use of military intelligence in domestic investigations could violate Posse Comitatus, and that the Supreme Court risks being viewed as compliant rather than independent.[9] The article nonetheless insists the arrangement is not martial law but constitutional continuity, designed to protect the republic when other avenues were compromised.[9]
+
+9. Badlands Brief — "Trump's Final Offensive", URL: https://badlands.substack.com/p/trumps-final-offensive
+
+## Cited by Joe Lange (December 2022)
+
+[[joe-lange|Joe Lange]] wrote in "What's Taking So Long?" (December 28, 2022) that [[donald-trump|Donald Trump]] established [[devolution|Devolution]] and continuity of government arrangements shortly before leaving office, so that the [[counterinsurgency|counterinsurgency]] plan would continue during the [[joe-biden|Biden]] administration.[10]
+
+10. Badlands Brief — "What's Taking So Long?", URL: https://badlands.substack.com/p/whats-taking-so-long

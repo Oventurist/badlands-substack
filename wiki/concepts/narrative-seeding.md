@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [information-war, media, narrative, badlands]
-sources: [raw/badlands-news-brief-d5c.md]
+sources: [raw/badlands-news-brief-d5c.md, raw/the-unreality-paradox.md]
 confidence: medium
 ---
 
@@ -19,3 +19,11 @@ His central observation was that narrative seeding — once a term unique to ano
 ## References
 
 1. Badlands Media — "Badlands News Brief: Colorado Fallout (and Exposure) Continues", URL: https://badlands.substack.com/p/badlands-news-brief-d5c
+
+## Early formulation (November 2022)
+
+[[burning-bright|Burning Bright]]'s essay "The Unreality Paradox" described the practice of planting "seeds of topics within the [[collective-mind|Collective Mind]] that are later germinated by Actual Events."[2] His examples were [[donald-trump|Donald Trump]]'s presumed innocence in the [[russiagate-hoax|Russia Collusion narrative]], which he said later served as both an exoneration and an educational model his base could apply to better-evidenced foreign collusion allegations against opponents, and the "[[perfect-phone-call|Perfect Phone Call]]" with [[volodymyr-zelensky|Volodymyr Zelenskyy]], whose quid pro quo framing he called auspiciously — some might say deliberately — timed.[2]
+
+He noted that Trump's narrative deployments often appear one way when first actioned before evolving and turning en route to suggesting far more consequential revelations in hindsight, and said the mechanics of how narrative seeding works, for both nefarious and altruistic ends, might be explored in a future entry.[2]
+
+2. Badlands Brief — "The Unreality Paradox", URL: https://badlands.substack.com/p/the-unreality-paradox

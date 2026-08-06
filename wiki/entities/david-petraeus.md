@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cia, military, mccain-institute, intelligence]
-sources: [raw/hes-not-a-war-hero.md, raw/the-biggest-boomerang-in-history.md]
+sources: [raw/hes-not-a-war-hero.md, raw/the-biggest-boomerang-in-history.md, raw/what-difference-does-benghazi-make.md]
 confidence: medium
 ---
 
@@ -30,3 +30,9 @@ The Badlands article highlights the presence of the sitting head of the CIA at t
 [[joe-lange|Joe Lange]] treats the episode as the moment the public first learned of [[gmail-draft-communications|Gmail drafts]], and argues it is no coincidence that a CIA director knew the technique — suggesting the agency most likely taught it to Al Qaeda.[2] These claims reflect Badlands Media interpretation rather than established fact.
 
 2. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history
+
+## CIA directorship during the Libya operation
+
+"What Difference Does Benghazi Make?" notes that Petraeus was director of the [[central-intelligence-agency|CIA]] in the spring of 2011, when the Libyan opposition was not yet formally recognized and the direct supply of arms was not authorized, yet weapons were reportedly flowing to the [[national-transitional-council|Libyan Transitional National Council]].[3] The article also identifies him as one of the close associates [[john-mccain|John McCain]] gathered to found the McCain Institute, placing him within the network the author links to the [[benghazi-attack|Benghazi]] arms pipeline.[3]
+
+3. Badlands Brief — "What Difference Does Benghazi Make?", URL: https://badlands.substack.com/p/what-difference-does-benghazi-make

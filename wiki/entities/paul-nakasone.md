@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [nsa, military-intelligence, 2020-election]
-sources: [raw/purple-revolution.md]
+sources: [raw/purple-revolution.md, raw/timing-is-everything.md]
 confidence: medium
 ---
 
@@ -20,3 +20,11 @@ The ambiguity is framed by the author's broader argument that Trump did not obta
 
 ## References
 1. Badlands Brief — "Purple Revolution", URL: https://badlands.substack.com/p/purple-revolution
+
+## Election security statements
+
+Nakasone is cited in Badlands Media's election-integrity commentary as evidence that the United States military was already monitoring American elections before 2020. Contributor [[joe-lange|Joe Lange]] quoted a Foreign Affairs report in which Nakasone, as director of the [[national-security-agency|National Security Agency]], and Michael Sulmeyer, senior adviser to the commander of [[us-cyber-command|U.S. Cyber Command]], stated that an effort to undermine the [[2018-midterm-elections|2018 midterm elections]] had been disrupted, and that Cyber Command and the NSA had worked together "to protect against meddling in the 2018 midterm elections."[2]
+
+Lange used the statement to argue that the military's role in safeguarding elections as critical infrastructure long predated the disputes of 2020 and 2022.[2]
+
+2. Badlands Brief — "Timing Is Everything", URL: https://badlands.substack.com/p/timing-is-everything

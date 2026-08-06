@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [cia, reagan, iran, nicaragua, covert-operations]
-sources: [raw/badlands-news-brief-50f.md, raw/dollars-dope-and-deception.md, raw/missed-opportunities.md, raw/profiting-from-war.md, raw/shadow-government-exposed.md, raw/school-of-assassins-and-dictators.md]
+sources: [raw/badlands-news-brief-50f.md, raw/dollars-dope-and-deception.md, raw/missed-opportunities.md, raw/profiting-from-war.md, raw/shadow-government-exposed.md, raw/school-of-assassins-and-dictators.md, raw/the-shadow-game.md, raw/who-is-the-real-enemy.md]
 confidence: low
 ---
 
@@ -65,3 +65,27 @@ Joe Lange's September 2023 article traces the affair's physical infrastructure t
 Lange argues this is why [[manuel-noriega|Manuel Noriega]] — a paid CIA asset who had provided airfields for flying weapons to the [[nicaraguan-contras|Contras]] and drugs into the United States — had to be removed and silenced once Congress began investigating the scandal: his knowledge of U.S. operations in Central America was detailed and highly compromising.[6] He also notes the recurring pattern that many of Central America's corrupt governments had some connection to Iran-Contra, and promised a follow-up article tracing the affair into money laundering and Hezbollah.[6]
 
 6. Badlands Brief — "School of Assassins and Dictators", URL: https://badlands.substack.com/p/school-of-assassins-and-dictators
+
+## Origins in the Carter years and the 1980 Iran deal
+
+"The Shadow Game" argues that the roots of Iran-Contra lie in [[jimmy-carter|Jimmy Carter's]] decision to cut off funding for the Somoza regime in Nicaragua over human rights violations, which weakened and helped topple the CIA-controlled [[anastasio-somoza-debayle|Somoza]] dictatorship and allowed the [[sandinista-national-liberation-front|Sandinistas]] to take power — creating the conditions for an operation to fund and arm a rebel army to take it back.[7] The parallel Iranian backdrop was the [[iranian-revolution|Iranian Revolution]], which removed the CIA's client [[mohammad-reza-pahlavi|Shah]] and his [[savak|SAVAK]] secret police, just as the Sandinistas had ousted Somoza.[7]
+
+[[joe-lange|Joe Lange]] stresses that the first arms deal with Iran, brokered in 1980 through [[william-casey|William Casey]] as part of the [[october-surprise|October Surprise]], was a separate matter from Iran-Contra: it was made not to free hostages but to delay their release until after the election, and it left [[george-hw-bush|George H.W. Bush]] and Casey with a working relationship with Tehran.[7]
+
+## The drug-trade motive
+
+On Lange's account the public framing of Iran-Contra as an operation to combat communism in Nicaragua was a red herring pushed by the CIA-controlled [[shadow-government|shadow government]], while the media argued only over whether arming the Contras was legal.[7] The real reason, he writes, was that Nicaragua was an important stop along the cocaine trail from Colombia to the United States, and the Sandinistas' removal of the Somoza regime disrupted a drug flow the [[cia|CIA]] could not let lapse.[7]
+
+The CIA therefore raised an army of rebels to overthrow the Sandinista government — another "secret war," similar to Laos.[7] [[congress|Congress]], fearing another Vietnam, outlawed the use of taxpayer money to arm the [[nicaraguan-contras|Contras]] through the [[boland-amendment|Boland Amendment]], and after learning that the CIA had mined Nicaraguan harbors passed a second Boland Amendment cutting off all funding and forbidding any government agency, including the CIA, from aiding the Contras in any way.[7] Lange asserts that Bush and the shadow government were already arming and training the Contras as early as 1981 without congressional consent, and that the 1984 funding cutoff triggered the search for alternative money.[7]
+
+That is where Iran came in: Iran was at war with Iraq, which the CIA was assisting with intelligence and weapons, so the agency was helping both sides; Iran needed advanced weapons and Bush was willing to sell them.[7] Selling arms to the Contras was illegal, and so was selling arms to Iran, which was under an arms embargo as a designated terrorist state.[7] Lange asks why, if the [[national-security-agency|NSA]] intercept proved Iran was behind the [[1983-beirut-barracks-bombings|Beirut barracks bombing]] that killed 241 Marines, the United States would negotiate arms sales to Tehran a year later — concluding that Iran was a partner rather than an enemy to the shadow government, and that "hostages" became a CIA template for justifying the funding of enemies.[7]
+
+7. Badlands Brief — "The Shadow Game", URL: https://badlands.substack.com/p/the-shadow-game
+
+## BCCI as the off-books channel
+
+"Who Is The Real Enemy?" lists Iran-Contra among the operations funded through the [[bank-of-credit-and-commerce-international|Bank of Credit and Commerce International]], alongside both sides of the [[iran-iraq-war|Iran/Iraq war]], the drug cartels and the Afghan [[mujahideen|Mujahideen]].[8] Citing WhoWhatWhy, the article states that BCCI offered [[central-intelligence-agency|CIA]] Director [[william-casey|William Casey]] an opportunity to conduct off-the-books operations such as the Iran-Contra arms deal, in which the bank was intimately involved — though the largest such operation by far was support to the Afghan resistance.[8]
+
+The article also traces the sequence back to [[george-hw-bush|George H.W. Bush]]'s deal to sell weapons to Iran, which it presents as the beginning of CIA sponsorship of terrorism throughout the Middle East.[8]
+
+8. Badlands Brief — "Who Is The Real Enemy?", URL: https://badlands.substack.com/p/who-is-the-real-enemy

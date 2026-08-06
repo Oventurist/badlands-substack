@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ivermectin, covid-19, fda, censorship, early-treatment]
-sources: [raw/badlands-news-brief-47f.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-f61.md]
+sources: [raw/badlands-news-brief-47f.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-f61.md, raw/the-whos-last-stand.md]
 confidence: medium
 ---
 
@@ -53,3 +53,9 @@ During oral arguments on August 8, 2023 before the [[us-court-of-appeals-for-the
 2. Badlands News Brief — "Biden Melts Down as Judges Are Themselves Judged", URL: https://badlands.substack.com/p/badlands-news-brief-5fb
 3. Badlands Brief — "Badlands News Brief: The System of Systems is a House of Cards", URL: https://badlands.substack.com/p/badlands-news-brief-cce
 4. Badlands Brief — "Badlands News Brief: Special Counsels, Island Fires & White Pills", URL: https://badlands.substack.com/p/badlands-news-brief-f61
+
+## Uttar Pradesh distribution
+
+Badlands Media's "The WHO's Last Stand" reported that the government of [[uttar-pradesh|Uttar Pradesh]], an Indian state with over 200 million residents, distributed Ivermectin and "squashed the Delta Wave," arguing this would never have happened had the state complied with [[world-health-organization|WHO]] guidelines.[5] The article also criticized the [[associated-press|Associated Press]] for having characterized Ivermectin and [[hydroxychloroquine|Hydroxychloroquine]] as "sham cures" during the pandemic.[5]
+
+5. Badlands Brief — "The WHO's Last Stand", URL: https://badlands.substack.com/p/the-whos-last-stand

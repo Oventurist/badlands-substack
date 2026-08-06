@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [pentagon, military, air-force, china, reorganization]
-sources: [raw/badlands-news-brief-26c.md, raw/badlands-news-brief-378.md]
+sources: [raw/badlands-news-brief-26c.md, raw/badlands-news-brief-378.md, raw/trump-doctrine-peace-through-space.md]
 confidence: medium
 ---
 
@@ -22,6 +22,11 @@ Air Force Secretary [[frank-kendall|Frank Kendall]] said the goal was to prove t
 
 U.S. Air Force veteran and former Colorado state representative [[ron-hanks|Ron Hanks]], who swore the oath in two official capacities, announced a 2024 run for [[lauren-boebert|Lauren Boebert]]'s abandoned Colorado seat.[2] Badlands writer [[ashe-in-america|Ashe in America]] cited his candidacy as a test of whether the [[colorado-supreme-court|Colorado Supreme Court]]'s insurrection finding would be used under the [[fourteenth-amendment|Fourteenth Amendment]] to bar military-veteran January 6 attendees from office.[2]
 
+## Trump Doctrine: Peace Through Space
+
+"[[trump-doctrine-peace-through-space|Trump Doctrine: Peace Through Space]]" traces the military space lineage through the Air Force, noting that the first Air Force space programs started in 1945, that the Western Development Division under General [[bernard-a-schriever|Bernard A. Schriever]] was established in 1954 as the first dedicated space organization within the US armed forces, and that military space programs sat under [[air-force-space-command|Air Force Space Command]] from 1982 until the creation of the [[united-states-space-force|Space Force]].[3] The Air Force's Space and Missile Systems Center, under Lieutenant General Samuel Greaves, announced [[national-security-space-launch-certification|NSSL certification]] of Falcon 9 on May 26, 2015, a process meant to give the Air Force confidence that national security satellites would safely achieve their intended orbits.[3] The service also tested [[starlink|Starlink]] for military purposes as early as 2020.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Russia Collusion is Back ... Unlike Biden's Memories", URL: https://badlands.substack.com/p/badlands-news-brief-26c
 2. Badlands Brief — "Badlands News Brief: Hypocrisy Roundup & Rug-pulls Galore", URL: https://badlands.substack.com/p/badlands-news-brief-378
+3. Badlands Brief — "Trump Doctrine: Peace Through Space", URL: https://badlands.substack.com/p/trump-doctrine-peace-through-space

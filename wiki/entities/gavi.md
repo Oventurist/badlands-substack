@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [vaccines, global-health, philanthropy, public-private-partnership]
-sources: [raw/the-ivy-web.md]
+sources: [raw/the-ivy-web.md, raw/the-whos-last-stand.md]
 confidence: low
 ---
 
@@ -18,3 +18,9 @@ The article states that researchers framing the recommendations delivered to the
 
 ## References
 1. Badlands Brief — "The Ivy Web", URL: https://badlands.substack.com/p/the-ivy-web
+
+## Role in WHO funding critiques
+
+Badlands Media's "The WHO's Last Stand" counted GAVI the Vaccine Alliance among the organizations whose contributions must be aggregated in order to identify [[bill-gates|Bill Gates]] as the largest funder of the [[world-health-organization|World Health Organization]], alongside the [[gates-foundation|Gates Foundation]].[2] The article used this aggregation to argue that private interests wield immense power over the WHO because most of its funding is earmarked for specific programs.[2]
+
+2. Badlands Brief — "The WHO's Last Stand", URL: https://badlands.substack.com/p/the-whos-last-stand

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, podcast, media]
-sources: [raw/artificial-intelligence.md, raw/badlands-brief-405.md]
+sources: [raw/artificial-intelligence.md, raw/badlands-brief-405.md, raw/tucker-twitter-and-the-truth-community.md]
 confidence: medium
 ---
 
@@ -23,3 +23,8 @@ Episode 138 of Culture of Change, streamed on Rumble and aired Monday, February 
 ## References
 1. Badlands Brief — "Artificial Intelligence", URL: https://badlands.substack.com/p/artificial-intelligence
 2. Badlands Brief — "Agencies Aflutter, Corporate Compacts & Discombobulated Drones", URL: https://badlands.substack.com/p/badlands-brief-405
+3. Badlands Brief — "Tucker, Twitter, and the Truth Community", URL: https://badlands.substack.com/p/tucker-twitter-and-the-truth-community
+
+## August 2023 episode on the Sund interview
+
+On a Sunday in August 2023, host [[ashe-in-america|Ashe in America]] was joined on the program by independent investigative journalist [[mel-hawley|Mel Hawley]], who exclusively covers January 6 truth, to break down [[tucker-carlson|Tucker Carlson]]'s [[tucker-on-twitter|Tucker on Twitter]] interview with former Capitol Police Chief [[steven-sund|Steven Sund]].[3] During the discussion Hawley asked whether the inconsistencies between the official January 6 narrative and the official record were the reason the [[january-6-committee|January 6 Committee]] destroyed all of its records — a question Ashe said House Republicans needed to investigate.[3] The episode aired on Rumble as part of the show's regular Sunday 6:00 p.m. ET slot on [[badlands-media|Badlands Media]].[3]

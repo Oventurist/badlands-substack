@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [president, american-history, civil-war, american-system]
-sources: [raw/avoiding-wwiii.md, raw/combating-the-transhumanist-religion.md, raw/in-defense-of-abraham-lincoln-and.md, raw/q-for-dummies-chapter-3.md, raw/shadows-sovereigns-and-civil-wars.md]
+sources: [raw/avoiding-wwiii.md, raw/combating-the-transhumanist-religion.md, raw/in-defense-of-abraham-lincoln-and.md, raw/q-for-dummies-chapter-3.md, raw/shadows-sovereigns-and-civil-wars.md, raw/trump-putin-alaska-and-the-future.md, raw/understanding-the-soul-of-china.md]
 confidence: medium
 ---
 
@@ -62,3 +62,16 @@ In December 1864 Lincoln delivered a State of the Nation address to Congress out
 Having just endured the [[american-civil-war|Civil War]], the United States had much reason to trust [[alexander-ii|Czar Alexander II]]'s Russia, which had intervened to protect the Union against aggressive intervention by English and French imperial powers supporting secession.[5] In 1863 Alexander II sent Russian battleships to New York and San Francisco as a message of solidarity with Lincoln and a threat to the imperial forces of Europe.[5] The article states this fact has been erased from American history books but remains better understood in Russia, where a statue in Moscow depicts Alexander II and Lincoln — described as two martyred patriots and great emancipators — holding hands.[5]
 
 Lincoln's friend [[william-gilpin|William Gilpin]], the first governor of Colorado, later carried this vision forward in his 1890 book [[cosmopolitan-railway|The Cosmopolitan Railway]].[5]
+6. Badlands Brief — "Trump, Putin, Alaska and the Future of Multipolarity", URL: https://badlands.substack.com/p/trump-putin-alaska-and-the-future
+
+## The 1864 Bering Strait corridor proposal
+
+[[matthew-ehret|Matthew Ehret]] traces the [[bering-strait-tunnel|Bering Strait Tunnel]] development corridor to Lincoln's 1864 State of the Union address to Congress, and argues that Russia's 1867 [[alaska-purchase|sale of Alaska]] to the United States flowed from the special US–Russia relationship that had saved the Union during the Civil War.[6] He writes that in the wake of Lincoln's murder an era of geopolitical destabilizations, assassinations and coups was launched, halting the trans-continental rail program that Lincoln's friend and bodyguard [[william-gilpin|William Gilpin]] had championed.[6] Ehret also cites the Greenback system of Lincoln and [[alexander-hamilton|Alexander Hamilton]] as the model for [[john-diefenbaker|John Diefenbaker]]'s national credit financing of Canada's Northern Vision.[6]
+
+## Influence on Sun Yat-sen and China
+
+Lincoln's [[gettysburg-address|Gettysburg Address]] of November 19, 1863 memorialized the Union dead with the exhortation that "government of the people, by the people, for the people, shall not perish from the earth," a tricolon that became the direct inspiration for [[sun-yat-sen|Sun Yat-sen]]'s 1924 tract [[three-principles-of-the-people|Three Principles of the People]].[7] Asked once to describe his political principles, Lincoln replied: "My politics are short and sweet, like the old woman's dance. I am in favor of the internal improvement system and a high Protective Tariff. These are my sentiments and political principles."[7]
+
+[[matthew-ehret|Matthew Ehret]] writes that during his American studies from 1879 to 1883 the young Sun Yat-sen recognized in this aspect of Lincoln's thought the practical political-economic practices China needed to overcome outdated dynastic traditions within and imperial manipulation from without.[7] Sun, who was neither a Marxist nor a follower of [[adam-smith|Adam Smith]] and the British free-trade school, instead grounded himself in the moral philosophy of Lincoln's USA.[7] Ehret argues the same principle of national economic planning that animated Lincoln, Sun and [[franklin-d-roosevelt|FDR]] survives today in China's [[belt-and-road-initiative|Belt and Road Initiative]].[7]
+
+7. Badlands Brief — "Understanding the Soul of China", URL: https://badlands.substack.com/p/understanding-the-soul-of-china

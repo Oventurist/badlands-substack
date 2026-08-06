@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [founding-fathers, federalists, executive-power, united-states, history]
-sources: [raw/badlands-news-brief-b52.md, raw/in-defense-of-alexander-hamilton.md, raw/the-birth-of-americas-deep-state.md, raw/the-battle-for-control.md]
+sources: [raw/badlands-news-brief-b52.md, raw/in-defense-of-alexander-hamilton.md, raw/the-birth-of-americas-deep-state.md, raw/the-battle-for-control.md, raw/trump-knows.md]
 confidence: medium
 ---
 
@@ -46,6 +46,10 @@ During the 1800 presidential election Hamilton set aside his feud with [[thomas-
 
 Hamilton had worked to build the Bank of New York and then a national bank to keep the young USA — bankrupt, without industry, and suffering runaway inflation — from falling apart.[3] Ehret rejects the label of a "Rothschild run proto-Federal Reserve," noting that the dominant owner of Hamilton's bank was always meant to be the US government, that all directors had to live in the USA, and that 70% of state branch directors were obliged to reside in their respective states, unlike the JP Morgan-owned [[federal-reserve|Federal Reserve]] created as an independent entity in 1913.[3] The "sick joke" in the narrative of a heroic [[andrew-jackson|Andrew Jackson]] defeating the Bank, he writes, is that those who killed Hamilton and then killed the national bank in 1836 were the true agents of the British Empire.[3] Burr's [[manhattan-company|Manhattan Company]] water-utility scheme, converted into a speculative bank, gave rise to Wall Street as it is known today.[3]
 
+## Role in the Panic of 1792
+
+In Badlands Media's account of early American finance, Hamilton as Treasury Secretary was required to enter into a contract with the Bank of New York to purchase a sizable portion of the shares of the [[first-bank-of-the-united-states|First Bank of the United States]] after a price collapse triggered market upset, an intervention that forms part of the [[panic-of-1792|Panic of 1792]] narrative.[5] [[justin-deschamps|Justin Deschamps]] framed the episode as the first American banker bailout and as evidence that the newly installed central bank served international banking interests rather than the public.[5]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: The Free Speech Battlefield Heats Up", URL: https://badlands.substack.com/p/badlands-news-brief-b52
 2. Badlands Brief — "In Defense of Alexander Hamilton", URL: https://badlands.substack.com/p/in-defense-of-alexander-hamilton
@@ -58,3 +62,4 @@ In "The Battle for Control," Badlands Media contributor [[joe-lange|Joe Lange]] 
 Hamilton's constitutional argument was that a national bank was permissible because the Constitution did not specifically deny it, a position [[thomas-jefferson|Thomas Jefferson]] contested on the ground that the government had no authority to establish corporations.[4] Lange frames the resulting dispute as the start of the long struggle over the limits of federal power and, in his view, the beginning of the corruption of the Constitution.[4]
 
 4. Badlands Brief — "The Battle for Control", URL: https://badlands.substack.com/p/the-battle-for-control
+5. Badlands Brief — "Trump Knows", URL: https://badlands.substack.com/p/trump-knows

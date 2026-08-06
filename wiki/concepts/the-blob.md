@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [foreign-policy, national-security, deep-state]
-sources: [raw/assad-day-in-damascus.md]
+sources: [raw/assad-day-in-damascus.md, raw/the-real-fight-begins.md]
 confidence: low
 ---
 
@@ -16,3 +16,9 @@ The article invokes the Blob to describe the institutional continuity linking th
 
 ## References
 1. Badlands Brief — "Assad Day in Damascus", URL: https://badlands.substack.com/p/assad-day-in-damascus
+
+## Post-2024 election silence
+
+Writing after the November 2024 election, [[ryan-delarme|Ryan DeLarme]] argued that the spooks and operatives of intelligence and NGO world — what [[mike-benz|Mike Benz]] "affectionately refers to as 'the Blob'" — had to have known [[donald-trump|Trump]]'s victory was coming, unlike the corporate media, and therefore had yet to show their hand.[2] He pointed to the conspicuous quiet of figures such as [[marc-elias|Marc Elias]], [[norm-eisen|Norm Eisen]] and [[john-brennan|John Brennan]], cautioning that their silence should not be mistaken for inactivity.[2]
+
+2. Badlands Brief — "The Real Fight Begins", URL: https://badlands.substack.com/p/the-real-fight-begins

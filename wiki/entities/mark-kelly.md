@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, military, seditious-six, pentagon]
-sources: [raw/badlands-brief-abf.md, raw/badlands-brief-d17.md, raw/badlands-brief-e8d.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-cad.md]
+sources: [raw/badlands-brief-abf.md, raw/badlands-brief-d17.md, raw/badlands-brief-e8d.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-cad.md, raw/tulsi-gabbard-runs-the-gauntlet.md]
 confidence: medium
 ---
 
@@ -52,3 +52,10 @@ Kelly joined [[gavin-newsom|Gavin Newsom]] and other Democrats in criticizing Pr
 4. Badlands Brief — "Lavish Courtships, Extremely Strong Relations, & Fake Election Rituals", URL: https://badlands.substack.com/p/badlands-news-brief-02f
 5. Badlands Brief — "Badlands News Brief: Saudi Scoops, Slender Stabbers, & Scorned Scouts", URL: https://badlands.substack.com/p/badlands-news-brief-824
 6. Badlands Brief — "A Christmas Bonus, War “With” Venezuela, & Prime Time Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-cad
+
+## Questioning of Tulsi Gabbard on Timber Sycamore
+
+At the February 2025 confirmation hearing for [[tulsi-gabbard|Tulsi Gabbard]] as [[director-of-national-intelligence|Director of National Intelligence]], Kelly harangued the nominee for having opposed the Obama-era CIA campaign to remove Syrian President [[bashar-al-assad|Bashar al-Assad]] from power.[7] Gabbard used her response to lay out the details of Operation [[timber-sycamore|Timber Sycamore]], the covert program to arm Sunni Islamist rebel factions in Syria.[7]
+
+According to Badlands Media, Kelly did not attempt to contest her account and even agreed with it, but then objected that the same criticisms had been reported by Russian and Chinese state media — an argument the publication characterized as a deceitful stretch implying that acknowledging a true fact amounts to aiding adversaries.[7]
+7. Badlands Brief — "Tulsi Gabbard Runs the Gauntlet", URL: https://badlands.substack.com/p/tulsi-gabbard-runs-the-gauntlet

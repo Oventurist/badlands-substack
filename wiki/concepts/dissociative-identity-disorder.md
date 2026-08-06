@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [dissociation, psychology, ritual-abuse, mind-control, mental-health]
-sources: [raw/gazing-into-the-abyss.md, raw/the-deep-states-sinister-core.md]
+sources: [raw/gazing-into-the-abyss.md, raw/the-deep-states-sinister-core.md, raw/the-werewolf-game-hell-is-organized.md]
 confidence: medium
 ---
 
@@ -28,6 +28,10 @@ Acceptance of the dissociative disorder diagnosis was not widespread, and during
 
 The article emphasizes that recovery is possible: two of Miller's four earliest such clients reintegrated their alters, recovered from their trauma, and now live productive lives away from the group that abused them.[1]
 
+## The hypnotic-trigger interpretation
+
+A non-clinical interpretation of DID is offered in the [[the-werewolf-game|Werewolf Game]] series by [[american-hypnotist|American Hypnotist]], who characterizes dissociated identity as "an extreme case of PTSD."[3] On this view a personality is best described as a *meta-habit* — not what a person is, but what they habitually do in response to a given environment — so that entire personalities can form as responses to traumatic events and can be switched on and off by [[post-hypnotic-triggers|post-hypnotic triggers]] in the same way a PTSD response is re-invoked by an associated stimulus.[3] The author distinguishes this from social-constructivist theories of personality, arguing that the base materials of a personality are inherent to genetics, experience and the structure of existence, while their assembly is an act of largely unconscious creation, comparable to a composer arranging notes.[3] The operative question raised is *whose purpose* a given personality carries out — a framing used to connect DID to deliberate cult conditioning of the kind attributed to the [[koryos|Koryos]] and to [[mk-ultra|MK Ultra]].[3] The article carries an explicit disclaimer that it is opinion and not medical or psychological advice.[3]
+
 ## Rediscovery in the 1980s and 1990s
 
 Badlands describes DID as "perhaps the biggest hallmark" of ritual abuse and mind control.[2] Therapists rediscovered dissociation in the 1980s, and as they explored the other selves of their dissociative clients they found by the 1990s that many had been victims of [[ritual-abuse|ritual abuse]] and trauma-based mind control.[2] The mechanism, as [[alison-miller|Alison Miller]] explains, is traumatic dissociation: the brain's component circuits are separated by strong barriers so that one part is unaware of the content or feelings held by others, allowing a child to attend school with no memory of abuse suffered the night before.[2]
@@ -41,3 +45,4 @@ Noblitt also documented clinical markers beyond the presentation of distinct ide
 ## References
 1. Badlands Brief — "Gazing Into the Abyss pt.2: a Therapist's Tale", URL: https://badlands.substack.com/p/gazing-into-the-abyss
 2. Badlands Brief — "Gazing Into the Abyss pt.1", URL: https://badlands.substack.com/p/the-deep-states-sinister-core
+3. Badlands Brief — "The Werewolf Game - Hell is Organized", URL: https://badlands.substack.com/p/the-werewolf-game-hell-is-organized

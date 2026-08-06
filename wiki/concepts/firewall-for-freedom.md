@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [aclu, immigration, lawfare, sanctuary-jurisdictions]
-sources: [raw/the-language-of-control.md]
+sources: [raw/the-language-of-control.md, raw/trump-20-and-the-opposition-plot.md]
 confidence: medium
 ---
 
@@ -25,3 +25,10 @@ DeLarme treated the segment as a clear illustration of his thesis: knowledge of 
 ## References
 
 1. Badlands Media — "The Language of Control", URL: https://badlands.substack.com/p/the-language-of-control
+2. Badlands Brief — "Trump 2.0 and the 'Opposition' Plot", URL: https://badlands.substack.com/p/trump-20-and-the-opposition-plot
+
+## Relation to "the Opposition"
+
+A second Badlands article situated the firewall for freedom as a central tactic of [[the-opposition|the Opposition]], the post-2024 successor to [[the-resistance|the Resistance]].[2] In that telling, Romero paired the firewall with a commitment that "litigation is going to be key" while conceding the movement "can't run the same playbook," indicating a combination of [[lawfare|lawfare]] and sub-federal obstruction.[2] Romero was also described as encouraging local officials to place prisons and jails off limits to federal immigration enforcement and to devise means of pardoning illegal immigrants.[2]
+
+The same account emphasized that both Romero and [[rachel-maddow|Rachel Maddow]] told viewers that the absence of large post-election street protests reflected the marshaling of resources for the most opportune moment — the launch of mass deportations — implying that protest infrastructure comparable to 2016 and 2020 had already been prepared.[2]

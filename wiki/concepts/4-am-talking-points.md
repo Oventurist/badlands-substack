@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [media, propaganda, operation-mockingbird, q, qanon]
-sources: [raw/q-for-dummies-chapter-1.md]
+sources: [raw/q-for-dummies-chapter-1.md, raw/when-did-speculation-become-a-dirty.md]
 confidence: low
 ---
 
@@ -18,6 +18,11 @@ Fleuret frames the practice as one component of a broader mechanism of narrative
 
 Anticipating the objection that the persistence of Operation Mockingbird undercuts claims that patriots are in control, Fleuret says such questions are fair and should be encouraged, but defers answering them so that the series can unveil information in the order the drops present it.[1]
 
+## Usage in Badlands commentary
+
+[[erik-carlson|Erik Carlson]] invoked the term in his February 2023 essay on [[speculation|speculation]], noting that repeated complaints that [[donald-trump|Donald Trump]] should "keep his mouth shut" reminded him of local news casts reciting the same message with the same words and inflection, from a script he said some refer to as the "4am talking points."[2] Carlson used the observation to argue that scripted messaging conditions audiences on the Right as well as the Left — in the Right's case, conditioning them to lose hope.[2]
+
 ## References
 
 1. Badlands Brief — "Q for Dummies - Chapter 1", URL: https://badlands.substack.com/p/q-for-dummies-chapter-1
+2. Badlands Brief — "When Did 'Speculation' Become a Dirty Word?", URL: https://badlands.substack.com/p/when-did-speculation-become-a-dirty

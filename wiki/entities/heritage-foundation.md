@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [think-tank, foia, oversight, hur-investigation]
-sources: [raw/badlands-brief-1ae.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8a4.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-d50.md, raw/badlands-news-brief-dd8.md]
+sources: [raw/badlands-brief-1ae.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8a4.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-d50.md, raw/badlands-news-brief-dd8.md, raw/trump-20-and-the-opposition-plot.md]
 confidence: medium
 ---
 
@@ -59,3 +59,11 @@ Roberts added that "I disagree with and even abhor things that Nick Fuentes says
 7. Badlands Brief — "Badlands News Brief: The Trump Train Rolls on ... Fake MAGA Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-89f
 8. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50
 9. Badlands Brief — "Badlands News Brief: Quick Reaction Forces, Still Unexplained Anomalies, N-Word Options", URL: https://badlands.substack.com/p/badlands-news-brief-dd8
+
+## Invoked against "Trump 2.0"
+
+In "Trump 2.0 and the 'Opposition' Plot," Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] noted that [[american-civil-liberties-union|ACLU]] executive director [[anthony-romero|Anthony Romero]] told [[rachel-maddow|Rachel Maddow]] his organization had dedicated "thousands of staff hours studying [[project-2025|Project 2025]]."[10] DeLarme argued that Project 2025 has nothing to do with a second Trump term and was concocted by the Heritage Foundation, which he characterized as a deep state think tank whose name is nonetheless invoked by media "mockingbirds" as though it were the roadmap for the administration.[10]
+
+He further argued that Heritage belongs to the same spook-infested, tax-exempt NGO network as the ACLU itself, with large international think tanks serving as the head of the apparatus and NGOs as its arms and legs - a framework he had developed in earlier pieces on the tax-exempt dimension of the [[deep-state|deep state]].[10]
+
+10. Badlands Brief - "Trump 2.0 and the 'Opposition' Plot", URL: https://badlands.substack.com/p/trump-20-and-the-opposition-plot

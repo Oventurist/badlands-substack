@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [depopulation, malthusianism, green-new-deal, eugenics, new-world-order]
-sources: [raw/defeating-the-depopulation-agenda.md]
+sources: [raw/defeating-the-depopulation-agenda.md, raw/the-wuhan-lab-leak-hoax.md]
 confidence: medium
 ---
 
@@ -30,3 +30,12 @@ Ehret argues the agenda cracked in 2013, when China and Russia asserted sovereig
 
 ## References
 1. Badlands Brief — "Defeating the Depopulation Agenda", URL: https://badlands.substack.com/p/defeating-the-depopulation-agenda
+2. Badlands Brief — "The Wuhan Lab Leak Hoax", URL: https://badlands.substack.com/p/the-wuhan-lab-leak-hoax
+
+## Depopulation and COVID-19 origins
+
+In "The Wuhan Lab Leak Hoax," [[matthew-ehret|Matthew Ehret]] makes depopulation the first of five facts weighing against the [[lab-leak-theory|Wuhan lab leak hypothesis]], describing it as a driving factor behind unipolar policy today just as it was during the Second World War era, when the [[rockefeller-foundation|Rockefeller Foundation]], the Macy Foundation, the City of London and Wall Street backed both the rise of fascism as an economic solution to the Depression and [[eugenics|eugenics]] as the governing religion of a new scientific priesthood.[2]
+
+He argues the agenda now masquerades behind a [[transhumanism|transhumanist]] vocabulary of "[[fourth-industrial-revolution|Fourth Industrial Revolution]]," "decarbonized economies" and "[[great-reset|Great Resets]]," with two primary targets: the institution of the sovereign nation state, and the world's "overpopulated zones," a category that has included both China and the USA for decades.[2] The doctrinal pivot is located in [[henry-kissinger|Henry Kissinger's]] 1974 [[nssm-200|NSSM-200]] report, which conditioned development, food and financial assistance on recipient states' fertility-reduction measures and contemplated mandatory programmes.[2]
+
+On this reading China is an implausible author of a depopulation-aligned pandemic, since it has reversed course — raising the [[one-child-policy|one-child]] limit to two in 2015, with Bank of China economists urging total elimination of birth limits — while extending long-term investment and advanced technology at home and abroad through the [[belt-and-road-initiative|Belt and Road Initiative]].[2]

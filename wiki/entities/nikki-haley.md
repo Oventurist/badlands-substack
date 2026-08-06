@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [politician, republican, israel, free-speech]
-sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-782.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-af5.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-b35.md, raw/badlands-news-brief-b9c.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c18.md, raw/badlands-news-brief-d45.md, raw/badlands-news-brief-d68.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-db1.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-f1d.md, raw/believe-half-of-what-you-see.md, raw/did-israel-possess-foreknowledge.md, raw/nikki-haley-establishment-gops-last.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-782.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-af5.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-b35.md, raw/badlands-news-brief-b9c.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c18.md, raw/badlands-news-brief-d45.md, raw/badlands-news-brief-d68.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-db1.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-f1d.md, raw/believe-half-of-what-you-see.md, raw/did-israel-possess-foreknowledge.md, raw/nikki-haley-establishment-gops-last.md, raw/vivek-desantis-and-trumps-master.md, raw/war-pigs.md]
 confidence: medium
 ---
 
@@ -134,6 +134,12 @@ In the November 2023 essay "Believe Half of What You See," [[erik-carlson|Erik C
 
 Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] grouped Haley with [[lindsey-graham|Lindsey Graham]] as United States neoconservatives whose calls to "flatten Gaza" and to "finish them" in the days after the [[october-7-attacks|October 7 attack]] stoked age-old animosity between [[israel|Israel]] and Palestine.[28] He argued that such rhetoric gave Israel a pretext to pursue long-planned expansion throughout the Middle East and echoed the crazed zeal that followed 9/11.[28]
 
+## "Finish them" and the 2023 right-wing fracture
+
+In "War Pigs," Badlands Media grouped Haley with [[lindsey-graham|Lindsey Graham]] as a notorious establishment neocon whose reaction to the October 2023 attacks was showcased in a [[tucker-carlson|Tucker Carlson]] monologue.[31] Haley urged Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] to "finish them," a phrase the article — noting its Mortal Kombat provenance — read as evidence that she did not care about collateral damage or the loss of innocent life.[31]
+
+The article placed Haley alongside Graham, [[dan-crenshaw|Dan Crenshaw]] and [[ben-shapiro|Ben Shapiro]] as voices arguing that events in Israel and Palestine carry no consequences for Americans, and invited readers who agreed with them to consider whether US involvement might in fact make Americans less safe.[31]
+
 ## References
 
 1. Badlands Brief — "A Glaring Double Standard", URL: https://badlands.substack.com/p/a-glaring-double-standard
@@ -195,3 +201,12 @@ Appearing on [[fox-news|Fox News]] in November 2023, Haley called for social med
 DeLarme argued that Haley's rhetoric targets a shrinking bloc — the Republicans of [[george-w-bush|George Bush]], [[dick-cheney|Dick Cheney]], McCain and Romney who favored perpetual warfare — while the party's base, along with disillusioned and post-liberal voters, has moved toward populist and non-interventionist figures such as Trump and [[robert-f-kennedy-jr|RFK Jr.]], prioritizing immigration, trade, nationalism and domestic economic issues over the security of Ukraine or Israel.[29] He noted that Haley's polling, while notable relative to [[chris-christie|Chris Christie]] and Ramaswamy and closing on DeSantis as that campaign faltered, remained minuscule against Trump's, and suggested the donor push might reflect either habit or a wager on removing Trump from ballots.[29] DeLarme concluded with the personal judgment that Haley is "nothing short of monstrous" and would be "a disaster for America," making her in his view the perfect candidate for the GOP establishment to rally behind.[29]
 
 29. Badlands Brief — "Nikki Haley: The Establishment GOP's Last Hope", URL: https://badlands.substack.com/p/nikki-haley-establishment-gops-last
+
+## Deschamps's December 2023 critique
+
+In "Vivek, DeSantis, and Trump's Master Move," [[justin-deschamps|Justin Deschamps]] wrote that when the 2024 primaries opened it seemed clear to him that Haley, "with all her grooming," was not prepared to handle [[vivek-ramaswamy|Vivek Ramaswamy]]'s accurate and well-timed blows on the debate stage.[30] He characterised her as the [[military-industrial-complex|military industrial complex]] stooge whose bank account the [[deep-state|Deep State]] was padding, and likened her to a candidate fabricated in a laboratory in the manner of the 1985 film Weird Science.[30]
+
+On Deschamps's reading of the primary field, [[chris-christie|Chris Christie]], [[tim-scott|Tim Scott]] and [[ron-desantis|Ron DeSantis]] were props positioned to make Haley look "strong" and "presidential," with the emphasis on look; the intended endgame was to sacrifice DeSantis at the right moment so that his supporters, by then resentful of [[donald-trump|Trump]], would have nowhere to go but Haley.[30] He argued that Ramaswamy entered the race to expose Haley and the rest of the old-guard puppets, and that Ramaswamy's pledge to withdraw from the Colorado GOP primary ballot explicitly demanded Haley, DeSantis and Christie do the same or be seen as tacitly endorsing an illegal maneuver.[30]
+
+30. Badlands Brief — "Vivek, DeSantis, and Trump's Master Move", URL: https://badlands.substack.com/p/vivek-desantis-and-trumps-master
+31. Badlands Brief — "War Pigs", URL: https://badlands.substack.com/p/war-pigs

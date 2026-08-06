@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [banking, regulation, derivatives, 1933, clinton, citibank]
-sources: [raw/a-re-alignment-of-world-systems.md, raw/friends-in-high-places.md, raw/tariffs-protectionism-and-avoiding.md, raw/the-bank-of-crooks-and-criminals.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/friends-in-high-places.md, raw/tariffs-protectionism-and-avoiding.md, raw/the-bank-of-crooks-and-criminals.md, raw/the-strategic-importance-of-the-alaska.md, raw/trump-putin-alaska-and-the-future.md, raw/why-america-needs-to-break-wall-streets.md]
 confidence: medium
 ---
 
@@ -45,3 +45,21 @@ Documents released from the Clinton presidential library revealed two separate a
 2. Badlands Brief — "Friends in High Places", URL: https://badlands.substack.com/p/friends-in-high-places
 3. Badlands Brief — "Tariffs, Protectionism and Avoiding the Risk of Total Failure", URL: https://badlands.substack.com/p/tariffs-protectionism-and-avoiding
 4. Badlands Brief — "The Bank of Crooks And Criminals", URL: https://badlands.substack.com/p/the-bank-of-crooks-and-criminals
+5. Badlands Brief — "The Strategic Importance of the Alaska-Canada Railway", URL: https://badlands.substack.com/p/the-strategic-importance-of-the-alaska
+
+## The Canadian "Four Pillars"
+
+Writing on Arctic development, [[matthew-ehret|Matthew Ehret]] identifies Glass-Steagall's Canadian equivalent as the "Four Pillars," and presents its restoration as one of two indispensable preconditions for the systemic change needed to finance projects such as the [[alaska-canada-railway|Alaska-Canada Railway]] and the [[bering-strait-tunnel|Bering Strait Tunnel]].[5] Its function would be to separate commercial banking assets fully from high-risk banking assets such as [[derivatives|derivatives]], the American exposure to which he places at approximately $1.2 quadrillion of nominal assets ready to explode at any moment.[5] The complementary measure is the revival of a genuine national banking system — as opposed to a private central banking system — as an issuer of productive credit for the sovereign needs of the people, on the model of [[john-diefenbaker|John Diefenbaker]]'s re-chartered [[bank-of-canada|Bank of Canada]] proposal.[5]
+6. Badlands Brief — "Trump, Putin, Alaska and the Future of Multipolarity", URL: https://badlands.substack.com/p/trump-putin-alaska-and-the-future
+
+## Alaska summit essay
+
+Ehret restated the same twofold prescription in "Trump, Putin, Alaska and the Future of Multipolarity," arguing that the colonial resource-exploitation policy dominant in Canada and the USA since [[nafta|NAFTA]] must end, that [[donald-trump|Donald Trump]]'s flushing of NAFTA was a vital precondition for restoring the power of sovereign nation states over private corporations, and that only the restoration of Glass-Steagall together with a genuine national banking system could produce systemic change.[6]
+
+## Call for a 21st-century Glass-Steagall
+
+In "Why America Needs to Break Wall Street's Kneecaps," Ehret argues that avoiding both systemic meltdown and world war requires a renewal of Glass-Steagall, which was repealed by [[bill-clinton|Bill Clinton]] in 1999.[7] He notes that at the very beginning of [[donald-trump|Donald Trump]]'s first term the new president called for a 21st-century Glass-Steagall, saying, "We support reinstating the Glass-Steagall Act of 1933, which prohibits commercial banks from engaging in high-risk investment," but that the deep state of the time crushed further discussion and the program never advanced beyond words.[7]
+
+Ehret's proposed split would divide bankrupt Wall Street banking activity into two categories: speculative trash and illegitimate usury, which must be "deleted" under a debt jubilee; and legitimate savings and other useful commercial banking activities tied to "real" values, without which society could not sustain itself.[7] He grounds the proposal in the precedent of 1933, when the law was imposed in [[franklin-d-roosevelt|Franklin Roosevelt]]'s first hundred days on the strength of the [[pecora-commission|Pecora Commission]] exposures, forcing Wall Street banks to break up their functions and preventing speculators from gambling with productive assets.[7]
+
+7. Badlands Brief — "Why America Needs to Break Wall Street's Kneecaps", URL: https://badlands.substack.com/p/why-america-needs-to-break-wall-streets

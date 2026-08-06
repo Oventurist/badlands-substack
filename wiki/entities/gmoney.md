@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, host, bitcoin, central-banking]
-sources: [raw/badlands-media-show-schedule-c28.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-d1d.md, raw/kekistani-code-talkers.md, raw/one-of-the-most-transformative-moments.md, raw/the-covfefe-dig.md, raw/the-dystopia-will-be-televised.md]
+sources: [raw/badlands-media-show-schedule-c28.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-d1d.md, raw/kekistani-code-talkers.md, raw/one-of-the-most-transformative-moments.md, raw/the-covfefe-dig.md, raw/the-dystopia-will-be-televised.md, raw/trump-doctrine-peace-through-space.md]
 confidence: medium
 ---
 
@@ -59,6 +59,10 @@ The method is explicitly numerological: an A=1 letter substitution yields 3-15-2
 
 Writing in a conversational voice that repeatedly stages objections from a sceptical reader addressing him as "GMONEY," he argues that the [[federal-reserve|Federal Reserve]] and [[us-department-of-the-treasury|Treasury]] were effectively merged during the 2020 COVID interventions, completing what Kennedy attempted and [[ronald-reagan|Reagan]] reversed.[11] He concludes that central bank digital currencies are coming regardless of public consent, that Bitcoin is the only available defence against them, and that "if we lose the fight against the state monopoly of fiat money, we lose for the next 10,000 years."[11] He notes he has covered the Bitcoin thesis at length in a sourced article and on an episode of [[rugpull-radio|Rugpull Radio]], and invites feedback "even from the haters."[11]
 
+## Trump Doctrine: Peace Through Space
+
+"[[trump-doctrine-peace-through-space|Trump Doctrine: Peace Through Space]]" builds directly on GMONEY's work, recommending the [[covfefe|COVFEFE Dig]] for its overview of the connections between Q, [[donald-trump|Trump]], [[bitcoin|Bitcoin]], Pepe and JFK, and the jointly authored COVFEFE 2.0 Dig for its treatment of Trump, insurgency, [[counterinsurgency|counterinsurgency]], legitimacy, JFK, secret societies, shadow governments, Bitcoin and non-kinetic power projection.[13] GMONEY and the article's author jointly hold that the network described in Q drop #1350 is more correctly equated with a counterinsurgency than with the US military alone, and the two also collaborate on *[[rugpull-radio|Rugpull Radio]]*.[13] A separate GMONEY Substack post on Trump's appointment of a Bitcoin maximalist to the OCC is cited for details of the [[brian-brooks|Brian Brooks]] appointment.[13]
+
 ## References
 1. Badlands Media — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-c28
 2. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-e18
@@ -77,3 +81,4 @@ Writing in a conversational voice that repeatedly stages objections from a scept
 In "The Dystopia Will Be Televised," [[ryan-delarme|Ryan DeLarme]] noted that Gmoney of Rugpull Radio holds that "the perfect coin already exists," urging readers to look into his work and discover the merits of [[bitcoin|Bitcoin]].[12] The reference was offered as a counterpoint to [[joe-lang|Joe Lang]]'s argument that some form of [[central-bank-digital-currency|CBDC]] will inevitably become the global currency.[12]
 
 12. Badlands Brief — "The Dystopia Will Be Televised", URL: https://badlands.substack.com/p/the-dystopia-will-be-televised
+13. Badlands Brief — "Trump Doctrine: Peace Through Space", URL: https://badlands.substack.com/p/trump-doctrine-peace-through-space

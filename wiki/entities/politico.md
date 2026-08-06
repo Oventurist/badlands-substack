@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, legacy-media, political-journalism, elections]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-1ae.md, raw/badlands-brief-618.md, raw/badlands-brief-6b4.md, raw/badlands-brief-a1a.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-af5.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-e01.md, raw/badlands-news-brief-f25.md, raw/the-chosen-one.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-1ae.md, raw/badlands-brief-618.md, raw/badlands-brief-6b4.md, raw/badlands-brief-a1a.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-af5.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-e01.md, raw/badlands-news-brief-f25.md, raw/the-chosen-one.md, raw/the-multinational-offensive-against.md, raw/whos-the-u-boat-commander.md]
 confidence: low
 ---
 
@@ -145,3 +145,15 @@ Politico published the [[stack-data-strategy|Stack Data Strategy]] survey of 15,
 [[badlands-media|Badlands Media]] contributor [[joe-lange|Joe Lange]] quoted an April 2019 Politico report holding that [[donald-trump|Donald Trump]]'s insults toward [[joe-biden|Joe Biden]] masked respect and genuine concern about Biden's chances.[20] Politico reported, via a Republican strategist with direct knowledge of the conversations, that Trump had asked aides as early as the previous fall "How are we gonna beat Biden?" and pushed back on reassurance with "But what if he does?", reflecting an assessment that Biden posed the biggest threat to reelection because of his potential appeal in Wisconsin, Michigan and Pennsylvania.[20] Lange treated the report not as evidence of authentic fear but as part of a pattern of leaks that functioned as free advertising elevating Biden within the [[2020-democratic-presidential-primary|Democratic primary field]].[20]
 
 20. Badlands Brief — "The Chosen One", URL: https://badlands.substack.com/p/the-chosen-one
+
+## Coverage of the Durov indictment (August 2024)
+
+The European arm of Politico reported on August 28, 2024 that French authorities had indicted [[telegram|Telegram]] CEO [[pavel-durov|Pavel Durov]] on six charges related to illicit activity on the app, including complicity in managing an online platform "in order to enable an illegal transaction in organized group" and refusal to cooperate with law enforcement authorities, according to a press release from the Paris prosecutor's office.[21] The outlet quoted Durov's lawyer David-Olivier Kaminski: "The only statement I'd wish to make is that Telegram is in conformity with every aspect of European norms on digital matters. It is absurd to think that the head of a social network is being charged."[21] Badlands contributor [[ryan-delarme|Ryan DeLarme]] drew on the Politico account to argue the precedent was dangerous for internet freedom.[21]
+
+21. Badlands Brief — "The Multinational Offensive Against Free Speech Online", URL: https://badlands.substack.com/p/the-multinational-offensive-against
+
+## 2020 report on the Biden Virgin Islands land deal
+
+A January 2020 Politico investigation, quoted extensively in a Badlands feature by [[erik-carlson|Erik Carlson]], reported that lobbyist [[scott-green|Scott Green]] purchased Virgin Islands property from [[james-biden|James Biden]] and then extended him a private mortgage.[22] The outlet reported the [[water-island|Water Island]] land deal for the first time and framed it as furthering a pattern in which members of the Biden family engaged in financial dealings with people who had an interest in influencing the former vice president.[22] The same report documented the [[lafayette-group|Lafayette Group]]'s federal contracting, the D.A.R.E. program's inclusion in the [[crime-bill-1994|1994 Crime Bill]], and the Biden family's repeated vacations in the [[us-virgin-islands|U.S. Virgin Islands]].[22]
+
+22. Badlands Brief — "Who's the U-Boat Commander?", URL: https://badlands.substack.com/p/whos-the-u-boat-commander

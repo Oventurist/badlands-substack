@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [who, sovereignty, public-health, researchers, international-health-regulations]
-sources: [raw/badlands-news-brief-b04.md, raw/behold-a-trojan-horse.md]
+sources: [raw/badlands-news-brief-b04.md, raw/behold-a-trojan-horse.md, raw/the-whos-last-stand.md]
 confidence: medium
 ---
 
@@ -29,3 +29,11 @@ Roguski's research has been cited in [[badlands-media|Badlands Media]] coverage 
 ## References
 1. Badlands Brief — "China Joe Strikes Out & Trumpism on Trial", URL: https://badlands.substack.com/p/badlands-news-brief-b04
 2. Badlands Brief — "Behold, a Trojan Horse", URL: https://badlands.substack.com/p/behold-a-trojan-horse
+
+## "The WHO's Last Stand" (2023)
+
+Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] described Roguski as an activist, author and researcher who "has been the leading voice on SubStack raising awareness of the WHOs lightly veiled machinations," and interviewed him for Vigilant News ahead of the December 2023 deadline.[3] Roguski's tracking of the amendment process is the source for the figure of 307 proposed amendments to the [[international-health-regulations|International Health Regulations]] cited in the article.[3]
+
+In June 2023, Roguski attended an Office of Global Affairs listening session at which the public was given an opportunity to speak directly to the delegates appointed to represent them in the negotiations, and voiced concerns and criticisms held by the greater public.[3] DeLarme cautioned that the listening session created the appearance of public input while most of what was being planned and discussed occurred in secret.[3]
+
+3. Badlands Brief — "The WHO's Last Stand", URL: https://badlands.substack.com/p/the-whos-last-stand

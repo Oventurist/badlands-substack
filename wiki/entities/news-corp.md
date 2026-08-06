@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, murdoch-family, publishing, fox-corporation]
-sources: [raw/badlands-news-brief-f94.md]
+sources: [raw/badlands-news-brief-f94.md, raw/we-are-watching-a-movie.md]
 confidence: medium
 ---
 
@@ -22,3 +22,11 @@ Commentary published by [[badlands-media|Badlands Media]] treated the reorganiza
 
 ## References
 1. Badlands Brief — "Badlands News Brief: The Proof is in the Proxy ...", URL: https://badlands.substack.com/p/badlands-news-brief-f94
+
+## Alwaleed's stake and claimed control
+
+In "We Are Watching a Movie," [[joe-lange|Joe Lange]] treats News Corporation as a principal instrument of foreign narrative control in the United States.[2] Quoting a 2013 *Vanity Fair* profile, he notes that [[alwaleed-bin-talal|Prince Alwaleed bin Talal]] was the second-largest voting shareholder in News Corporation after the Murdoch family, holding 56.2 million shares, while News Corporation in turn owned a 19.9 percent stake, worth around $150 million, in Rotana, Alwaleed's privately held pan-Arab media conglomerate based in Bahrain.[2] The magazine also described the prince as a frequent texter of James Murdoch, evidence Lange cites for the depth of the relationship with the [[rupert-murdoch|Murdoch]] family.[2]
+
+Lange's contention is that Alwaleed did not merely have influence over the corporations in which he invested but control over them, and that owning shares is not the only route to controlling a corporation — controlling the [[central-intelligence-agency|CIA]], he argues, confers far more power.[2] Because News Corp controls [[fox-news|FOX News]], he ranks it with [[citigroup|Citigroup]] as one of the two most politically connected companies in America, and describes Alwaleed's grip on it as "a huge deal in this narrative war."[2] During Alwaleed's December 2015 Twitter exchange with [[donald-trump|Donald Trump]], Trump reposted a meme highlighting the prince's connection to FOX News, and Alwaleed replied to Trump's tweet about the debate host [[megyn-kelly|Megyn Kelly]].[2] These claims reflect Badlands Media interpretation rather than established fact.
+
+2. Badlands Brief — "We Are Watching a Movie", URL: https://badlands.substack.com/p/we-are-watching-a-movie

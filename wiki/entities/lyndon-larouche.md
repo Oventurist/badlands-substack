@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [economics, physical-economy, anti-malthusian, history]
-sources: [raw/combating-the-transhumanist-religion.md, raw/defeating-the-depopulation-agenda.md, raw/dope-inc.md, raw/tariffs-protectionism-and-avoiding.md]
+sources: [raw/combating-the-transhumanist-religion.md, raw/defeating-the-depopulation-agenda.md, raw/dope-inc.md, raw/tariffs-protectionism-and-avoiding.md, raw/trump-putin-alaska-and-the-future.md]
 confidence: medium
 ---
 
@@ -49,3 +49,8 @@ Ehret describes LaRouche (1922–2019) as one of the very few western figures wh
 2. Badlands Brief — "Defeating the Depopulation Agenda", URL: https://badlands.substack.com/p/defeating-the-depopulation-agenda
 3. Badlands Brief — "Dope, Inc.", URL: https://badlands.substack.com/p/dope-inc
 4. Badlands Brief — "Tariffs, Protectionism and Avoiding the Risk of Total Failure", URL: https://badlands.substack.com/p/tariffs-protectionism-and-avoiding
+5. Badlands Brief — "Trump, Putin, Alaska and the Future of Multipolarity", URL: https://badlands.substack.com/p/trump-putin-alaska-and-the-future
+
+## Bering Strait advocacy
+
+[[matthew-ehret|Matthew Ehret]] credits LaRouche with reviving the [[bering-strait-tunnel|Bering Strait Tunnel]] proposal after the Cold War had derailed it, writing that the late American economist began promoting the project through hundreds of conferences and white papers starting in 1993.[5] Ehret also identifies LaRouche as the founder of the science of [[physical-economy|physical economy]], a system distinct from all monetarist-statistical economic theories in that it does not assume all monetary claims within a system to be equally valuable.[5]

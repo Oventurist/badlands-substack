@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [law, sovereignty, trusts, vatican, maritime-law]
-sources: [raw/soul-governance.md]
+sources: [raw/soul-governance.md, raw/trump-knows.md]
 confidence: low
 ---
 
@@ -20,5 +20,10 @@ The essay's remedy is not litigation but withdrawal of consent: it holds that no
 
 Mainstream legal scholarship treats Cestui Que Vie as an ordinary and largely obsolete feature of English trust and property law, most notably the Cestui Que Vie Act 1666, and courts have consistently rejected claims built on the interpretation described above.[1]
 
+## The 1707 Act in Badlands' argument
+
+[[justin-deschamps|Justin Deschamps]] cited the [[cestui-que-vie-act-1707|Cestui Que Vie Act 1707]] (1707 CHAPTER 72, 6 Ann) for the proposition that within the secret law system underlying the visible one, people are considered spiritually dead lunatics unable to manage their own affairs in harmony with God's will and are therefore treated as contemptible wards of the state.[2] The claim anchors his broader argument that Americans lack meaningful self-government from a rule-of-law perspective and that, per the Declaration of Independence, a form of government destructive of its ends may lawfully be altered or abolished.[2]
+
 ## References
 1. Badlands Brief — "Soul Governance", URL: https://badlands.substack.com/p/soul-governance
+2. Badlands Brief — "Trump Knows", URL: https://badlands.substack.com/p/trump-knows

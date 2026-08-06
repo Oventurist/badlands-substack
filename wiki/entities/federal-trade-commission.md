@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [regulator, antitrust, us-government]
-sources: [raw/badlands-news-brief-040.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-b68.md, raw/badlands-news-brief-f0e.md]
+sources: [raw/badlands-news-brief-040.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-b68.md, raw/badlands-news-brief-f0e.md, raw/trust-the-plan.md]
 confidence: medium
 ---
 
@@ -51,3 +51,11 @@ Badlands commentary largely agreed that noncompetes should be rendered unenforce
 
 
 6. Badlands Brief — "Badlands News Brief: Trump 2.0, FBI Enablers & Collegiate Idiots", URL: https://badlands.substack.com/p/badlands-news-brief-f0e
+
+## Antitrust mission and the meaning of "trust"
+
+A July 11, 2024 Badlands Media essay on the exploitation of trust cited the Commission in its analysis of the word's monopoly sense, quoting the agency's own statement that "the FTC's competition mission is to enforce the rules of the competitive marketplace — the antitrust laws," in order to "promote vigorous competition and protect consumers from anticompetitive mergers and business practices."[7] The author remarked on the irony that a dictionary would mark the "company having or trying to get a monopoly" definition of trust as dated when resource centralisation remains a prevalent and relevant topic worldwide.[7]
+
+The point served the essay's larger argument that trust can be centralised: where a monopoly exists, especially over vital resources, populations are forced either to trust the monopoly to do the right thing or to lose access to the market altogether.[7] See [[trust-law|trust law]] and [[trust-the-plan|"TRUST the plan"]].[7]
+
+7. Badlands Brief — "TRUST: The Plan", URL: https://badlands.substack.com/p/trust-the-plan

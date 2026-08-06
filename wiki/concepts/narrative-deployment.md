@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [information-war, narrative-warfare, fifth-generation-warfare, badlands-media, burning-bright]
-sources: [raw/right-the-ship.md]
+sources: [raw/right-the-ship.md, raw/the-war-of-stories.md]
 confidence: medium
 ---
 
@@ -29,3 +29,11 @@ He regards patriots' own use of narrative framing as "a necessary evil" — the 
 ## References
 
 1. Badlands Brief — "Right the Ship", URL: https://badlands.substack.com/p/right-the-ship
+
+## Narratives as vehicles for regimes (December 2022)
+
+In "The War of Stories" (December 30, 2022), [[burning-bright|Burning Bright]] described the [[patriot-pendulum|pendulum swing]] practice as being carried out "largely through the deployment of Narratives, which regimes ride into the public levers of power."[2] Although he customarily refers to Narratives as [[potential-events|Potential Events]], he stressed that there is nothing potential about the "Actual" damage they inflict once absorbed, regurgitated and actioned by industry complexes more literal than the media — chief among them the [[military-industrial-complex|Military Industrial Complex]].[2]
+
+He also argued that Narrative Deployments are delivered through public cyphers, larger-than-life personalities functioning as vehicles for paradigm-shifting stories, and that recognising this renders the [[game-theory-game-board|Game Theory Game Board]] more legible.[2] His closing appeal to readers was to judge such figures by the net effects of their deployments — not only on the sovereign agenda but on the opposing one — and to observe the counter-deployments of the [[media-industrial-complex|Media Industrial Complex]] and the shrinking cultural presence of the cyphers it amplifies.[2]
+
+2. Badlands Brief — "The War of Stories", URL: https://badlands.substack.com/p/the-war-of-stories

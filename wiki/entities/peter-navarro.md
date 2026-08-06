@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [trump-administration, contempt-of-congress, trade]
-sources: [raw/badlands-brief-c7b.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-c0a.md]
+sources: [raw/badlands-brief-c7b.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-c0a.md, raw/the-real-fight-begins.md]
 confidence: low
 ---
 
@@ -52,3 +52,9 @@ A jury was seated on September 5, 2023, for Navarro's federal criminal trial on 
 5. Badlands Brief — "Red States Align While the MSM Craters", URL: https://badlands.substack.com/p/badlands-news-brief-5ff
 6. Badlands Brief — "Trump Takes on Big Pharma and GART Kicks Off!", URL: https://badlands.substack.com/p/badlands-news-brief-62c
 7. Badlands Brief — "Badlands News Brief: White Collar Prisons & Confounding Court Decisions", URL: https://badlands.substack.com/p/badlands-news-brief-c0a
+
+## Washington Times op-ed on Senate recess (November 2024)
+
+In a November 11, 2024 op-ed for the Washington Times, Navarro urged [[us-senate|Senate]] Republicans to elect their new majority leader in open session and to require any candidate for the post to pledge at least a 30-day recess by the end of the first month of the new administration.[8] He warned that if [[mitch-mcconnell|Mitch McConnell]] succeeded in installing [[john-cornyn|John Cornyn]] or [[john-thune|John Thune]], the new leader would "strangle Mr. Trump's Cabinet appointees in their cribs" and set back an agenda "endorsed by a landslide of the American people" by months.[8] Navarro noted that both [[donald-trump|Trump]] and [[elon-musk|Elon Musk]] had already called for the open-session vote.[8] See [[recess-appointments|recess appointments]].
+
+8. Badlands Brief — "The Real Fight Begins", URL: https://badlands.substack.com/p/the-real-fight-begins

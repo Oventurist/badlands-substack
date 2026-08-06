@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republicans, spending, america-first]
-sources: [raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-dcb.md, raw/the-overdrive-timeline.md]
+sources: [raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-dcb.md, raw/the-overdrive-timeline.md, raw/the-schedule-f-imperative-part-2.md, raw/the-schedule-f-imperative-part-1.md]
 confidence: medium
 ---
 
@@ -54,3 +54,19 @@ Badlands Media contributor Erik Carlson described the House Freedom Caucus as th
 The twenty-one members who held up McCarthy's election were all part of the Caucus, joined by others Carlson says only pretended to fight alongside them as a ploy to extract the concessions [[donald-trump|Donald Trump]] wanted.[5] Caucus chairman [[scott-perry|Scott Perry]] brokered the deal with McCarthy alongside [[chip-roy|Chip Roy]], and the resulting [[january-2023-mccarthy-concessions|January 2023 McCarthy concessions]] included expanded Freedom Caucus representation on committees such as the [[house-rules-committee|House Rules Committee]].[5] Carlson concluded that the agreement unleashed "49 real Americans" led by Trump to take down the cabal.[5]
 
 5. Badlands Brief — "The Overdrive Timeline", URL: https://badlands.substack.com/p/the-overdrive-timeline
+
+## Advocacy for Schedule F
+
+In "The Schedule F Imperative - Part 2" (March 13, 2023), Badlands Media contributor [[jb-white|J.B. White]] described the Freedom Caucus as a group of conservative House members advocating limited government and fiscal responsibility who are not a formal part of the Republican Party, though many members belong to it.[6] He identified the caucus as the leading congressional champion of [[schedule-f|Schedule F]], which it viewed as a crucial civil service reform needed if the federal government were ever to be responsive to "We The People."[6] Some members wrote to President [[donald-trump|Donald Trump]] in August 2020 urging him to "drain the swamp" and implement the reform to reduce the size and influence of the federal bureaucracy, arguing it would remove [[deep-state|Deep State]] bureaucrats impeding the president's agenda.[6] White said he had been unable to locate a copy of that letter but that the point about the caucus stood.[6]
+
+## Controlling position in the 118th Congress
+
+White argued that through the stealthy application of leverage to congressional rules during the organization of the [[118th-congress|118th Congress]], the caucus came to occupy a controlling position in the House of Representatives — which he called the "action chamber" of the legislative branch — and was thereby positioned to force the [[united-states-senate|Senate]], the deliberative chamber, to take up matters of importance to the MAGA movement, Schedule F foremost among them.[6] In his account the fifteen-ballot [[2023-speaker-of-the-house-election|Speaker election]] that produced [[kevin-mccarthy|Kevin McCarthy]]'s victory was a hidden win achieved through "legitimate compromise," and Schedule F's near-universal support among Republicans would function as a durable litmus test through the 2024, 2026 and 2028 cycles.[6]
+
+6. Badlands Brief — "The Schedule F Imperative - Part 2", URL: https://badlands.substack.com/p/the-schedule-f-imperative-part-2
+
+## Empowerment through the McCarthy speakership
+
+In the earlier installment of the same series, [[j-b-white|J.B. White]] recalled the tweet he had posted immediately after [[kevin-mccarthy|Kevin McCarthy]]'s selection as Speaker: "Trump won this for McCarthy and in doing so empowered the Freedom Caucus."[7] He presented the outcome as a dramatic application of [[schedule-f|Schedule F]] rather than as a simple concession fight, and noted that the twenty-member holdout bloc had demanded, among other things, that the House not raise the debt ceiling without deep spending cuts.[7] Commentator Pasquale "Pat" Scopelliti credited the tweet with explaining why [[donald-trump|Trump]] had backed McCarthy at all.[7]
+
+7. Badlands Brief — "The Schedule F Imperative - Part 1", URL: https://badlands.substack.com/p/the-schedule-f-imperative-part-1

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [conspiracy, clinton, epstein, congressional-testimony]
-sources: [raw/badlands-brief-52f.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-7ad.md, raw/child-sacrifice-as-a-pillar-of-deep.md, raw/from-ye-to-oy-vey.md, raw/q-for-dummies-chapter-4.md, raw/symbolism-will-be-their-downfall.md]
+sources: [raw/badlands-brief-52f.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-7ad.md, raw/child-sacrifice-as-a-pillar-of-deep.md, raw/from-ye-to-oy-vey.md, raw/q-for-dummies-chapter-4.md, raw/symbolism-will-be-their-downfall.md, raw/why-did-q-stop-posting.md]
 confidence: low
 ---
 
@@ -69,3 +69,9 @@ A March 2024 essay by [[erik-carlson|Erik Carlson]] revisited the episode as a c
 Carlson emphasised that the single round fired into [[comet-ping-pong|Comet Ping Pong]] by an unstable gunman destroyed the restaurant's computer server, calling it a "magic bullet."[8] He argued that the media then closed the matter by reporting that Comet Ping Pong has no basement, and that people still cite the absence of a basement as proof that elite child trafficking is not real — a state of affairs he described as "total and complete mind control."[8] He contrasted the notoriety of Comet Ping Pong with the little-known [[standard-hotel|Standard Hotel]] in Los Angeles, which also had a ping pong bar.[8]
 
 8. Badlands Brief — "Symbolism Will Be Their Downfall", URL: https://badlands.substack.com/p/symbolism-will-be-their-downfall
+
+## As a template for the "QAnon conspiracy" label
+
+[[erik-carlson|Erik Carlson]]'s "Why Did Q Stop Posting?" treats Pizzagate as the clearest case of the media's success in folding real allegations into the "QAnon conspiracy" category.[9] He argues the media convinced many people that Pizzagate was a QAnon conspiracy theory and that children were not really being trafficked and abused — not only in that case but anywhere.[9] The result, on his account, is that some members of the public have come to believe child trafficking in general is not real, or at least not widespread, on the grounds that the whole subject was a QAnon claim that had been proven false.[9]
+
+9. Badlands Brief — "Why Did Q Stop Posting?", URL: https://badlands.substack.com/p/why-did-q-stop-posting

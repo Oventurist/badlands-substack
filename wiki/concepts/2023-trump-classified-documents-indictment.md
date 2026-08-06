@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [trump, justice-department, classified-documents, special-counsel, 2023]
-sources: [raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-ac7.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-ea0.md, raw/badlands-news-brief-f2b.md, raw/smoke-and-mirrors.md]
+sources: [raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-ac7.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-ea0.md, raw/badlands-news-brief-f2b.md, raw/smoke-and-mirrors.md, raw/unveiling-the-mar-a-lago-raid-1-year.md]
 confidence: medium
 ---
 
@@ -105,3 +105,13 @@ Under that heading DeLarme argued the [[department-of-justice|Department of Just
 DeLarme concluded that even if Trump were again found innocent, the [[deep-state|Deep State]] had already obtained what it needed: a story to keep the Biden bribery scandal out of the news cycle and out of the consciousness of left-of-center voters, and a talking point for the 2024 presidential race about Trump being "the only president in history" to be indicted.[9] He doubted anyone genuinely expected Trump to be imprisoned for 400 years, and suggested that if the affair were kayfabe an actual arrest could form part of the production.[9]
 
 9. Badlands Brief — "Smoke and Mirrors", URL: https://badlands.substack.com/p/smoke-and-mirrors
+
+## Alpha Warrior's one-year assessment (August 2023)
+
+Writing on August 11, 2023, [[alpha-warrior|Alpha Warrior]] described the 37-count indictment as centred on allegations of mishandling records at the [[mar-a-lago|Mar-a-Lago]] estate, noting that the unsealed document alleged Trump had retained sensitive records after his presidency, shared the material with unauthorised individuals, and attempted to obstruct efforts to recover it.[10] The accusations, he wrote, stem from Trump's alleged attempts to prevent the return of the documents following a 2022 subpoena, including an instruction to his attorney to "hide or destroy" the materials.[10]
+
+A superseding indictment in *United States v. Trump, Nauta and De Oliveira*, filed July 27, 2023, extended the case to Trump's aide [[walt-nauta|Walt Nauta]] and property manager [[carlos-de-oliveira|Carlos De Oliveira]].[10] Alpha Warrior reported that the documents at issue reportedly covered defense capabilities, U.S. nuclear programs and military attack contingency plans, but argued on behalf of Trump's supporters that such information, regardless of classification, could be legitimate knowledge for a former president without jeopardising national security.[10]
+
+He gave particular weight to the [[espionage-act|Espionage Act]] counts, which carry a potential decade-long prison sentence, warning that the political nature of the accusations should not be allowed to overshadow the nuances of the law and suggesting the charges formed part of a larger narrative aiming to tarnish Trump's legacy rather than reflecting a genuine threat to national security.[10] Special counsel [[jack-smith|Jack Smith]]'s public urging that Americans understand the "scope and gravity of the crimes charged" was treated with suspicion as an attempt to shape public perception.[10] Trump, who denied wrongdoing and remains the only former president ever charged with a crime, posted on [[truth-social|Truth Social]]: "I have been indicted, seemingly over the Boxes Hoax ... I AM AN INNOCENT MAN!"[10]
+
+10. Badlands Brief — "Unveiling the Mar-a-Lago Raid – 1 Year Delta", URL: https://badlands.substack.com/p/unveiling-the-mar-a-lago-raid-1-year
