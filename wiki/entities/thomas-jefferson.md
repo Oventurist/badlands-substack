@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [history, founding-fathers, democratic-party, france]
-sources: [raw/cultural-warfare-and-the-american.md, raw/do-we-have-a-contract-with-the-federal.md, raw/god-and-the-declaration-of-independence.md, raw/is-the-federal-reserve-a-british.md, raw/the-battle-for-control.md]
+sources: [raw/cultural-warfare-and-the-american.md, raw/do-we-have-a-contract-with-the-federal.md, raw/god-and-the-declaration-of-independence.md, raw/is-the-federal-reserve-a-british.md, raw/the-battle-for-control.md, raw/the-master-builder.md]
 confidence: low
 ---
 
@@ -54,3 +54,9 @@ Jefferson also feared that a national bank would create a financial monopoly tha
 Lange argues that Jefferson was right, answering yes to each of the questions of whether the [[federal-reserve|Federal Reserve]] has become a financial monopoly, undermines local banks in favor of Wall Street, and caters to creditors over debtors.[5] He predicts a future Supreme Court case in which Jefferson's constitutional argument becomes the winning argument and the Federal Reserve is declared unconstitutional.[5] In Lange's reading Jefferson clearly saw the difference between the two classes of people and feared the federal government siding with the elite over the majority.[5] When the First Bank's charter came up for renewal in 1811, the Jefferson side won the vote and the bank was dissolved.[5]
 
 5. Badlands Brief — "The Battle for Control", URL: https://badlands.substack.com/p/the-battle-for-control
+
+## "More dangerous than standing armies" (Lange, 2023)
+
+Badlands Media's "The Master Builder" (February 2, 2023) quotes Jefferson's declaration that "I sincerely believe that banking establishments are more dangerous than standing armies, and that the principle of spending money to be paid by posterity under the name of funding is but swindling futurity on a large scale."[6] [[joe-lange|Joe Lange]] presents the remark as evidence that some of the American founders identified the hidden financial enemy as more dangerous than the armies the colonies defeated to win independence, and argues that these interests have since used the United States — through the [[federal-reserve|Federal Reserve]] and the U.S. military — to control the world since the Second World War.[6] Jefferson is paired in the article with [[andrew-jackson|Andrew Jackson]] as a precursor to what it casts as [[donald-trump|Donald Trump]]'s campaign against central banking.[6]
+
+6. Badlands Media — "The Master Builder", URL: https://badlands.substack.com/p/the-master-builder

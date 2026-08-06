@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [us-presidency, pardons, watergate]
-sources: [raw/badlands-news-brief-099.md, raw/clowns-in-america.md, raw/henry-kissinger-british-cabal-puppet.md, raw/the-church-committee-for-dummies.md]
+sources: [raw/badlands-news-brief-099.md, raw/clowns-in-america.md, raw/henry-kissinger-british-cabal-puppet.md, raw/the-church-committee-for-dummies.md, raw/the-men-behind-the-curtain-part-2.md]
 confidence: medium
 ---
 
@@ -15,6 +15,10 @@ Gerald Ford was the President of the United States who in 1974 granted a blanket
 ## Relevance to the Hunter Biden pardon
 
 Reporting summarized in the [[badlands-news-brief|Badlands News Brief]] noted that experts on executive clemency could think of only one other person in generations who had received a presidential pardon as sweeping as Hunter Biden's: Nixon, pardoned by Ford in 1974.[1] Margaret Love, who served as U.S. pardon attorney from 1990 to 1997, said she had "never seen language like this in a pardon document that purports to pardon offenses that have not apparently even been charged, with the exception of the Nixon pardon."[1] The comparison framed commentary that the Biden clemency, like Ford's, insulated its recipient from federal charges for conduct that had never been formally alleged.[1]
+
+## The 1980 "dream ticket"
+
+Badlands Media's "The Men Behind the Curtain – Part 2" describes the strange sequence at the 1980 Republican national convention in which mainstream pundits suddenly began promoting a "dream ticket" of [[ronald-reagan|Ronald Reagan]] as president with Ford, a former president, as vice president.[5] The concept would have created a shared presidency and divided power, and it was even suggested that Ford should choose half of the Reagan cabinet.[5] Faced with the prospect of presiding over half a government, Reagan went to the convention floor late at night to end the speculation and recommend George Bush for the vice presidency instead.[5]
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Democrats in Disarray as Globalists Bend the Knee", URL: https://badlands.substack.com/p/badlands-news-brief-099
@@ -39,3 +43,4 @@ Carlson also noted that Ford had headed the government committee — the [[warre
 ## Cooperation with the Church Committee
 
 As president during the 1975 "Year of Intelligence," Ford met with [[church-committee|Church Committee]] chairman [[frank-church|Frank Church]] and vice-chairman [[john-tower|John Tower]], together with his top national security advisors, and pledged that the [[white-house|White House]] would cooperate with Senate investigators.[4] Although the committee's investigative staff did not always receive documents in a timely fashion, they enjoyed what Badlands Media describes as seemingly unprecedented access to materials that had never before been made public — while noting it is unknown whether those materials were strategically selected before being handed over.[4] Among the abuses the committee later aired publicly was a White House "domestic surveillance program."[4]
+5. Badlands Brief — "The Men Behind the Curtain - Part 2", URL: https://badlands.substack.com/p/the-men-behind-the-curtain-part-2

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [neoconservatism, pnac, foreign-policy]
-sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-257.md, raw/badlands-brief-52f.md, raw/badlands-brief-58d.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-ba8.md]
+sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-257.md, raw/badlands-brief-52f.md, raw/badlands-brief-58d.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-ba8.md, raw/the-immediate-benefits-of-jd-vance.md]
 confidence: medium
 ---
 
@@ -73,3 +73,13 @@ Bolton confirmed to Newsweek on Tuesday, January 21, 2025 that President [[donal
 6. Badlands News Brief — "Pre-Dawn Raids, Russiagate Racketeering, & Real-Time Adverse Reporting", URL: https://badlands.substack.com/p/badlands-news-brief-32d
 7. Badlands Brief — "Badlands News Brief: Familiar Formulas, Blue Skies, & Antisemitic Nonchalance", URL: https://badlands.substack.com/p/badlands-news-brief-6e6
 8. Badlands Brief — "Badlands News Brief: Hopium for Health AI, Hulk on Hunter, & A Happy WHO Adieu", URL: https://badlands.substack.com/p/badlands-news-brief-ba8
+
+## Opposition to JD Vance (July 2024)
+
+After Donald Trump named [[jd-vance|JD Vance]] as his 2024 running mate, Bolton appeared on [[msnbc|MSNBC]] with [[katy-tur|Katy Tur]] to assess the implications for American foreign policy.[9] Badlands Media described Bolton as one of the most unabashed warmongers in modern American politics, a Doctor Strangelove-like figure of the Bush/Cheney era who had been an unexplained Trump hire, resigned, and then become a favored critic of Trump on liberal networks that had once treated him as an adversary.[9]
+
+Asked about Vance's view that Ukraine should negotiate a settlement with Russia and cede territory if necessary, Bolton said the outcome would be "very bad for Ukraine" and that Vance was "wrong in many material respects," failing to appreciate the American national security interest in protecting Ukraine against what he called unprovoked Russian aggression.[9] Bolton argued that American involvement served interests in European peace and security rather than charity, rejected Vance's argument that Europe should shoulder more of the burden so the United States could focus on China, and warned that Russia and China were forming an axis linking the conflicts.[9] He also criticized Trump's Bloomberg News remark that Taiwan, 9,000 miles from the United States and 100 miles from China, was not worth the effort, concluding that neither candidate understood that a strong American presence abroad benefits the country at home.[9]
+
+Badlands treated Bolton's dismay as an endorsement in reverse, arguing that his worldview equates any avoidance of war with weakened national security while ignoring the monetary cost and the radicalization produced by decades of intervention.[9]
+
+9. Badlands Media — "The Immediate Benefits of JD Vance as Trump's VP", URL: https://badlands.substack.com/p/the-immediate-benefits-of-jd-vance

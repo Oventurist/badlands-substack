@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [journalism, independent-media, commentary]
-sources: [raw/a-cancer-on-modern-journalism.md, raw/the-censorship-war-counteroffensive.md]
+sources: [raw/a-cancer-on-modern-journalism.md, raw/the-censorship-war-counteroffensive.md, raw/the-danger-to-their-democracy.md, raw/the-msm-melts-down-amidst-americas.md]
 confidence: low
 ---
 
@@ -21,3 +21,15 @@ Greenwald is quoted as saying: "I don't know what happened to David Brock, I don
 ## Coverage of the Brazilian censorship dispute
 
 Greenwald, whose reporting is widely read by Brazilian audiences, analyzed [[rumble|Rumble]]'s December 2023 withdrawal from [[brazil|Brazil]] and the underlying censorship orders of Justice [[alexandre-de-moraes|Alexandre de Moraes]] on his program System Update, which is carried on Rumble.[2] See [[censorship-war|Censorship War]].[2]
+
+## Resignation from the CREW board (2010)
+
+More than a decade before the Colorado ballot litigation, Greenwald served on the board of [[citizens-for-responsibility-and-ethics-in-washington|Citizens for Responsibility and Ethics in Washington]], and in 2010 he quit the board publicly after the group's president condemned [[julian-assange|Julian Assange]].[3] In his own account, quoted in a January 2024 [[badlands-media|Badlands Media]] essay: "It was supposed to be a group that defends transparency, that was its purpose, transparency and clean government and the president of the group came out and condemned Julian Assange after he had published secrets showing that the U.S. had committed war crimes under President Bush and then President Obama. And so, I quit in protest over their condemnation of [[wikileaks|WikiLeaks]]. I thought it was joining the board of a nonpartisan group that favored transparency."[3]
+
+3. Badlands Brief — "The 'Danger to Their Democracy'", URL: https://badlands.substack.com/p/the-danger-to-their-democracy
+
+## Commentary on US vote-counting delays
+
+Greenwald has drawn on his long residence in Brazil to criticise the United States' inability to count votes on election night.[4] He described Brazil as "the anti-Germany," a country with great difficulty making anything work efficiently, yet one that holds elections on a Sunday to maximise participation, requires voting, requires identification, and extends the franchise to citizens aged 16 and over — producing a vote total roughly comparable to the American one despite a smaller population.[4] Polls open at 8 a.m. and close at 5 or 6 p.m., and by 9 to 11 p.m. at the latest the full count for presidential, gubernatorial and state legislative races is complete and certified.[4] Badlands contributor [[ryan-delarme|Ryan DeLarme]] cited the comparison as evidence that [[us-election-vote-counting-delays|American counting delays]] reflect deliberate choices rather than unavoidable scale.[4]
+
+4. Badlands Brief — "The MSM Melts Down Amidst America's Electoral Ineptitude", URL: https://badlands.substack.com/p/the-msm-melts-down-amidst-americas

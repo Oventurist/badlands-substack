@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republican, arizona, sound-money]
-sources: [raw/badlands-news-brief-12e.md, raw/badlands-news-brief-919.md, raw/badlands-news-brief-f4c.md]
+sources: [raw/badlands-news-brief-12e.md, raw/badlands-news-brief-919.md, raw/badlands-news-brief-f4c.md, raw/the-overdrive-timeline.md]
 confidence: low
 ---
 
@@ -26,3 +26,9 @@ In January 2023 the [[white-house|White House]] criticized the appointment of Go
 1. Badlands Brief — "Badlands News Brief: Trans Mayhem, WW3 & Trump's Travels", URL: https://badlands.substack.com/p/badlands-news-brief-12e
 2. Badlands Brief — "Badlands News Brief: Trials Galore, Ukraine Backpedal & The Gold Standard", URL: https://badlands.substack.com/p/badlands-news-brief-919
 3. Badlands Brief — "Badlands News Brief: Dollars, Saudis and Globalist Elites", URL: https://badlands.substack.com/p/badlands-news-brief-f4c
+
+## January 2023 speakership concessions
+
+After the [[january-2023-mccarthy-concessions|January 2023 McCarthy concessions]], Gosar was named chairman of the Natural Resources subcommittee on Oversight and Investigations.[4]
+
+4. Badlands Brief — "The Overdrive Timeline", URL: https://badlands.substack.com/p/the-overdrive-timeline

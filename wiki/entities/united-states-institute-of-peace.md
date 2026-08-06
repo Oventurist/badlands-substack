@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [usip, doge, federal-agency, foreign-policy, budget-cuts]
-sources: [raw/badlands-news-brief-1c8.md, raw/dollars-dope-and-deception.md, raw/how-to-rent-a-riot-the-plausible.md, raw/how-to-rent-a-riot-the-history-of.md, raw/killing-the-peace.md]
+sources: [raw/badlands-news-brief-1c8.md, raw/dollars-dope-and-deception.md, raw/how-to-rent-a-riot-the-plausible.md, raw/how-to-rent-a-riot-the-history-of.md, raw/killing-the-peace.md, raw/the-language-of-control.md, raw/the-ongoing-betrayal-of-the-gop.md]
 confidence: low
 ---
 
@@ -62,3 +62,17 @@ Judge [[beryl-howell|Beryl Howell]] ruled in May 2025 that the board firings, le
 3. Badlands Brief — "How to Rent a Riot - The Plausible Deniability Network", URL: https://badlands.substack.com/p/how-to-rent-a-riot-the-plausible
 4. Badlands Media — "How to Rent a Riot - The History of 'Nonviolence'", URL: https://badlands.substack.com/p/how-to-rent-a-riot-the-history-of
 5. Badlands Brief — "Killing the Peace", URL: https://badlands.substack.com/p/killing-the-peace
+
+## Role in "rule of law programs" (DeLarme, 2025)
+
+In "The Language of Control," Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] named the U.S. Institute of Peace, together with [[usaid|USAID]] and the [[state-department|U.S. State Department]], as one of the vehicles through which so-called "rule of law programs" are administered.[6] He characterized such programs not as technical assistance but as the exercise of control over a vast network of judges and prosecutors around the world.[6]
+
+This placed the Institute within what DeLarme called the [[whole-of-society-approach|whole-of-society]] system, in which the judiciary is among the most important sectors and legal personnel invoke [[rule-of-law|"the rule of law"]] while using the courts to suppress populist movements.[6]
+
+6. Badlands Media — "The Language of Control", URL: https://badlands.substack.com/p/the-language-of-control
+
+## Beattie appointment as a reform template (2025)
+
+Badlands Media, while calling the institute "equally odious and Orwellian," points to [[darren-beattie|Darren Beattie]]'s installation as its head in July 2025 as a model for reforming the [[national-endowment-for-democracy|National Endowment for Democracy]] — that is, placing a vocal critic in charge of an entrenched democracy-promotion body and letting them lead its reformation.[7]
+
+7. Badlands Brief — "The Ongoing Betrayal of the GOP", URL: https://badlands.substack.com/p/the-ongoing-betrayal-of-the-gop

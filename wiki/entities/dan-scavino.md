@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [trump-world, communications, comms, devolution]
-sources: [raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-c14.md, raw/pepe-the-trump-train-and-hillarys.md, raw/revolution-founded-at-the-crossroads.md]
+sources: [raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-c14.md, raw/pepe-the-trump-train-and-hillarys.md, raw/revolution-founded-at-the-crossroads.md, raw/the-covfefe-dig.md]
 confidence: medium
 ---
 
@@ -36,6 +36,10 @@ Scavino's posts of 5/13/24, which classified images of oranges with rocket-ship 
 
 The article's Pepe connection rests on a Scavino Tweet of 10/9/16 that mentions the Trump Train, quotes Trump's response to [[hillary-clinton|Hillary Clinton]]'s [[basket-of-deplorables|"basket of deplorables"]] remark, and declares "WE LOVE OUR DEPLORABLES!!!" — posted, the author observes, exactly thirty days after the [[rarepepe|RAREPEPE]] token was minted on [[counterparty|Counterparty]].[3]
 
+## The COVFEFE Dig
+
+"The COVFEFE Dig" (March 2023) credits Scavino with two images central to its argument.[5] The first is the picture of [[donald-trump|Trump]] as Nero fiddling while Rome burned, which Trump retweeted and which the dig pairs with a Federal Reserve Bank of St. Louis lesson on inflation and the fall of the Roman Empire.[5] The second is content Scavino posted that Trump reposted in March 2020 with the caption "Who knows what this means, but it sounds good to me!" — offered as evidence that Trump treated [[covfefe|covfefe]] as carrying an undisclosed meaning years after the original Tweet.[5]
+
 ## References
 1. Badlands News Brief — "The Walz Cycle Consumes Itself as Tensions Pause", URL: https://badlands.substack.com/p/badlands-news-brief-0ad
 2. Badlands Brief — "Badlands News Brief: Overreach, Obstruction, & Our Boy Blue", URL: https://badlands.substack.com/p/badlands-news-brief-c14
@@ -45,3 +49,4 @@ The article's Pepe connection rests on a Scavino Tweet of 10/9/16 that mentions 
 ## The "#BTC for the #Trump Train" tweet
 
 The October 2024 essay "Revolution Founded at the Crossroads" highlights a Scavino tweet from March 21, 2016 reading "#BTC for the #Trump Train," posted roughly seven months before the "This Video Will Get Donald Trump Elected" compilation.[4] The author presents the post as an early, deliberate signal linking the Trump movement to [[bitcoin|Bitcoin]], and asks readers to reconsider it in light of the essay's argument that the choice facing humanity is "Bitcoin or slavery."[4]
+5. Badlands Brief — "The COVFEFE Dig", URL: https://badlands.substack.com/p/the-covfefe-dig

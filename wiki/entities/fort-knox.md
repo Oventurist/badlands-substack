@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [gold, treasury, doge, audit, monetary-policy]
-sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-7ce.md]
+sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-7ce.md, raw/the-midas-touch.md]
 confidence: medium
 ---
 
@@ -33,3 +33,10 @@ In February 2025, [[zerohedge|ZeroHedge]] suggested that [[elon-musk|Elon Musk]]
 ## References
 1. Badlands Brief — "A Meddling Musk & Sanctions for Soros", URL: https://badlands.substack.com/p/badlands-news-brief-048
 2. Badlands Brief — "The Star Spangled Banner, Bureaucrat Bleach Bit, & an Unknown Balance of Bullion", URL: https://badlands.substack.com/p/badlands-news-brief-7ce
+3. Badlands Brief — "The Midas Touch", URL: https://badlands.substack.com/p/the-midas-touch
+
+## Mnuchin's 2017 visit
+
+In August 2017, during [[donald-trump|Donald Trump]]'s first year in office, Treasury Secretary [[steven-mnuchin|Steven Mnuchin]] became only the third treasury secretary to visit the United States Bullion Depository at Fort Knox, Kentucky — an event that caught many observers by surprise because nothing comparable had happened since 1948.[3] Visits to the classified facility, built in 1936, are extremely rare for security reasons; in 1974 the Mint gave a tour to select members of Congress to quell rumors that there was no gold in the facility.[3] The total value of the depository's contents was put at approximately $200 billion, though Mnuchin noted the last count was in 1953.[3]
+
+Badlands contributor [[joe-lange|Joe Lange]] treats the visit as a deliberate signal, pairing it with a Q post in which the question "Do we have the gold?" was answered "Yes," and arguing that any return to a [[gold-standard|gold standard]] must begin with confirming the gold is there.[3]

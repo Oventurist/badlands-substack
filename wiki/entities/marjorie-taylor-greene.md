@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republicans, georgia, iran, america-first]
-sources: [raw/badlands-brief-509.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-533.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-752.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-b65.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-b9e.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-c78.md, raw/badlands-news-brief-d00.md, raw/badlands-news-brief-f4c.md, raw/badlands-news-brief-efd.md, raw/badlands-news-brief-fc2.md, raw/the-chosen-one.md]
+sources: [raw/badlands-brief-509.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-533.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-752.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-b65.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-b9e.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-c78.md, raw/badlands-news-brief-d00.md, raw/badlands-news-brief-f4c.md, raw/badlands-news-brief-efd.md, raw/badlands-news-brief-fc2.md, raw/the-chosen-one.md, raw/the-overdrive-timeline.md]
 confidence: low
 ---
 
@@ -151,3 +151,9 @@ Badlands commentator [[burning-bright|Burning Bright]] read the episode as part 
 [[badlands-media|Badlands Media]] contributor [[joe-lange|Joe Lange]] named Greene among the participants he believed were performing scripted roles during the fifteen-ballot [[2023-speaker-of-the-house-election|January 2023 Speaker of the House contest]], writing that she, [[matt-gaetz|Matt Gaetz]], [[kevin-mccarthy|Kevin McCarthy]] and [[donald-trump|Donald Trump]] all "did an awesome job of acting."[24] Lange's reading held that the prolonged standoff was staged in order to expose how the chamber had been run under [[nancy-pelosi|Nancy Pelosi]] and to force rules changes returning power to individual members.[24]
 
 24. Badlands Brief — "The Chosen One", URL: https://badlands.substack.com/p/the-chosen-one
+
+## January 2023 speakership concessions
+
+Although not one of the twenty-one holdouts, Greene supported [[donald-trump|Donald Trump]] throughout the January 2023 speakership fight and was placed on the [[house-homeland-security-committee|Homeland Security Committee]] in the assignments that followed the [[january-2023-mccarthy-concessions|McCarthy concessions]], while [[adam-schiff|Adam Schiff]] and [[eric-swalwell|Eric Swalwell]] were removed from important committees.[25]
+
+25. Badlands Brief — "The Overdrive Timeline", URL: https://badlands.substack.com/p/the-overdrive-timeline

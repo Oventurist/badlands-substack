@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [china, military, pla, xi-jinping, purge]
-sources: [raw/badlands-brief-71c.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-ee9.md, raw/empires-enigma.md]
+sources: [raw/badlands-brief-71c.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-ee9.md, raw/empires-enigma.md, raw/the-fake-and-the-gaetz.md]
 confidence: medium
 ---
 
@@ -57,3 +57,9 @@ The December 2022 Badlands Media feature "Empire's Enigma" identifies the PLA's 
 According to the article, Xi created for the first time a commander-in-chief position in the PLA Joint Battle Command, a designation typically split among generals.[6] Because the [[peoples-armed-police|People's Armed Police]] was simultaneously moved from the [[central-military-commission|Central Military Commission]] and the [[state-council-of-china|State Council]] to report to Xi personally, he came to hold sole authority over both the regular army and the paramilitary police for the first time in the history of the [[chinese-communist-party|Chinese Communist Party]].[6] The piece also records that his 2013–17 anti-corruption drive punished more than 100 generals and admirals, and that generals [[xu-caihou|Xu Caihou]], [[guo-boxiong|Guo Boxiong]] and [[sun-zhengcai|Sun Zhengcai]] were among six leaders removed over alleged coup attempts.[6]
 
 6. Badlands Brief — "Empire's Enigma", URL: https://badlands.substack.com/p/empires-enigma
+
+## Scarborough Shoal patrols (November 2024)
+
+On November 28, 2024, the PLA Southern Theater Command conducted combat readiness patrols in the sea and airspace over the territorial waters of China's Huangyan Dao (Scarborough Shoal), described in Chinese state media as part of an effort to strengthen control and management and to safeguard national sovereignty and security in the region.[7] [[badlands-media|Badlands Media]] contributor [[ryan-delarme|Ryan DeLarme]] noted that not everyone was convinced by the stated rationale, reading the patrols alongside new carrier activity in the Bohai Sea as evidence that [[china|China]] might insert itself militarily into the NATO-Russia confrontation.[7]
+
+7. Badlands Brief — "The Fake and the Gaetz", URL: https://badlands.substack.com/p/the-fake-and-the-gaetz

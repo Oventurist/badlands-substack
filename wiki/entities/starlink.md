@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [technology, satellite-internet, spacex, iran, israel, covert-operations]
-sources: [raw/badlands-brief-b34.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-aaf.md, raw/badlands-news-brief-a72.md, raw/the-banking-revolution-is-underway.md]
+sources: [raw/badlands-brief-b34.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-aaf.md, raw/badlands-news-brief-a72.md, raw/the-banking-revolution-is-underway.md, raw/the-deep-states-attempt-to-destroy.md]
 confidence: medium
 ---
 
@@ -62,6 +62,14 @@ In a March 2023 Badlands Media article on the coming banking revolution, [[joe-l
 
 By offering high-speed internet to remote and rural locations, Starlink is described as the opposite of a centralizing agenda that would herd populations into large cities where they can be controlled.[9] Lange argued that the way to lift a large portion of the global population out of poverty is to give people the ability to control their own financial destiny through internet access, letting them participate in the global economy no matter where they live as the entire world goes digital.[9] A platform that is maximally trusted and inclusive, he added, sounds like a bank accessible almost anywhere in the world via Starlink — connecting the satellite network to Musk's ambition to turn [[twitter|Twitter]] into "the people's financial institution."[9]
 
+## December 2023 FCC Subsidy Denial
+
+On December 12, 2023, the [[federal-communications-commission|Federal Communications Commission]] reaffirmed its 2022 decision denying Starlink $885.5 million in rural broadband subsidies under the federal rural internet program, rejecting [[spacex]]'s challenge.[10] The FCC held that Starlink had failed to meet basic program requirements and could not demonstrate it would deliver the promised service; Chair [[jessica-rosenworcel|Jessica Rosenworcel]] said the agency had "followed a careful legal, technical and policy review to determine that this applicant had failed to meet its burden."[10] Among its reasons the Commission cited SpaceX's failure to successfully launch Starship, warning that "the uncertain nature of Starship's future launches could impact Starlink's ability to meet" its obligations.[10]
+
+The original August 2022 rescission had been based on speed-test data, after Starlink committed to serving 642,000 rural homes and businesses across 35 states.[10] SpaceX called itself "deeply disappointed and perplexed," maintaining Starlink "is demonstrably one of the best options — likely the best option" for the program's goals.[10] The FCC's two Republican commissioners dissented, arguing the agency was improperly holding SpaceX to 2025 performance targets three years early and suggesting hostility toward [[elon-musk|Elon Musk]] from the Biden administration was a factor.[10]
+
+Badlands Media commentary framed the denial as one element of a coordinated campaign against Musk, noting the paradox that U.S. Homeland Security and the military rely on Starlink for surveillance and communications even as federal agencies withdrew its funding.[10] The same commentary recounted Musk's provision of Starlink service to Ukraine after the 2022 Russian invasion and his subsequent refusal to extend coverage for cross-border drone operations out of concern that doing so could precipitate nuclear war.[10]
+
 ## References
 1. Badlands Brief — "The Old Guard Is Very Confused About What's Happening to Them", URL: https://badlands.substack.com/p/badlands-brief-b34
 2. Badlands Brief — "Badlands News Brief: Hunter Hunted, Billionaire Boxing & Snopes Nopes", URL: https://badlands.substack.com/p/badlands-news-brief-090
@@ -72,3 +80,4 @@ By offering high-speed internet to remote and rural locations, Starlink is descr
 7. Badlands Brief — "Badlands News Brief: Supreme Court Rumblings & Witch Hunts Galore", URL: https://badlands.substack.com/p/badlands-news-brief-aaf
 8. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72
 9. Badlands Brief — "The Banking Revolution Is Underway", URL: https://badlands.substack.com/p/the-banking-revolution-is-underway
+10. Badlands Brief — "The Deep State's Attempt to Destroy Elon Musk", URL: https://badlands.substack.com/p/the-deep-states-attempt-to-destroy

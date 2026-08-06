@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [canada, rhodes-scholars, ukraine, oligarchs, liberal-party, green-agenda]
-sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-brief-e8d.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-d36.md, raw/badlands-news-brief-d76.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-brief-e8d.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-d36.md, raw/badlands-news-brief-d76.md, raw/the-deep-state-empire-strikes-back.md]
 confidence: medium
 ---
 
@@ -66,6 +66,11 @@ Badlands framed the episode as part of the "Trump-Canada B plot," arguing that T
 
 On January 23, 2024, the day Federal Court Justice [[richard-mosley|Richard Mosley]] ruled that the Liberal government's invocation of the [[emergencies-act|Emergencies Act]] against the 2022 [[freedom-convoy|Freedom Convoy]] was unreasonable, unjustified and in violation of the Charter, Freeland — then Deputy Prime Minister — stated that the government did not agree with the decision and promised to appeal it.[5]
 
+
+## Entry into politics and the Rhodes network
+
+Badlands contributor Matthew Ehret writes that Rhodes Scholar [[bob-rae|Bob Rae]] gave up his seat in Parliament to Freeland, herself a Rhodes Scholar, who was being set up to manage the incoming [[justin-trudeau|Justin Trudeau]] while equipping Canada to prepare to go to war with Russia.[8] Now Deputy Prime Minister, Freeland is said to operate in the same imperial tradition as [[mark-carney|Mark Carney]], descending from the [[round-table-movement|Round Table]] networks founded by [[cecil-rhodes|Cecil Rhodes]].[8]
+
 ## References
 1. Badlands Brief — "A Re-Alignment of World Systems", URL: https://badlands.substack.com/p/a-re-alignment-of-world-systems
 2. Badlands Brief — "Miraflores New Tenant, Walz Awakens, & Kelly's Court Martial", URL: https://badlands.substack.com/p/badlands-brief-e8d
@@ -84,3 +89,4 @@ Freeland's abrupt departure in December 2024 — quitting on a Monday as head of
 Freeland's Monday, December 16, 2024 resignation letter was characterized as "scorched earth," leaving Prime Minister [[justin-trudeau|Justin Trudeau]] in an even more precarious position as his administration teetered on the verge of collapse.[7] She had publicly opposed Trudeau's plan for short-term spending on voter-pleasing measures such as tax breaks that would worsen the country's budget deficit.[7] "Our country today faces a grave challenge," Freeland, then 56, wrote, referring to President-elect [[donald-trump|Donald Trump]]'s threat of tariffs; "that means keeping our fiscal powder dry today, so we have the reserves we may need for a coming tariff war. That means eschewing costly political gimmicks, which we can ill afford and which make Canadians doubt that we recognize the gravity of the moment."[7] Badlands writer Burning Bright described her as a "globalist stalwart" whose very public resignation fed rumours that Trudeau himself was set to resign as prime minister.[7]
 
 7. Badlands News Brief — "Russia Responds as the Fake News Gets Even Faker", URL: https://badlands.substack.com/p/badlands-news-brief-d76
+8. Badlands Brief — "The Deep State Empire Strikes Back", URL: https://badlands.substack.com/p/the-deep-state-empire-strikes-back

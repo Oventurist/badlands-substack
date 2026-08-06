@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [polling, media, morality, culture]
-sources: [raw/badlands-brief-bb1.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-782.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-e96.md]
+sources: [raw/badlands-brief-bb1.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-782.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-e96.md, raw/the-hitler-or-obama-youth.md]
 confidence: medium
 ---
 
@@ -61,3 +61,9 @@ Gallup's annual survey of trust in U.S. institutions, conducted September 1–23
 Badlands contributor [[burning-bright|Burning Bright]] read the collapse as a precondition for narrative change, writing that before the American public can be told a new story "buoyed by the truth," they must first disengage from the current story and its storytellers — and that the data showed they were doing so.[7] He closed by asking readers to recall what happened in 2016, the last time public trust in the Central Narrative was this low.[7]
 
 7. Badlands Brief — "Badlands News Brief: Blinken Drones & Congress Stalls", URL: https://badlands.substack.com/p/badlands-news-brief-e96
+
+## 2023 poll on LGBTQ+ identification
+
+A 2023 Gallup poll found that 20.8% of Generation Z considers itself LGBTQ+, against only 2.6% of Baby Boomers, and that 2.1% of Gen Z identifies as transgender against 0.1% of Boomers.[8] Badlands contributor [[erik-carlson|Erik Carlson]] cited these figures as evidence that the shift could not have occurred organically, arguing that such change at "break-neck speeds" followed the repeal of the [[smith-mundt-act|Smith-Mundt Act]] and the resulting legalisation of domestic propaganda against US citizens.[8] He paired the statistic with a sardonic gloss on the slogan "trust the science," suggesting the caveat "except for when it clearly goes against our narrative."[8]
+
+8. Badlands Brief — "The Hitler ... or Obama Youth", URL: https://badlands.substack.com/p/the-hitler-or-obama-youth

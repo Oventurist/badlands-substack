@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ritual-abuse, mind-control, dissociation, cults, child-abuse]
-sources: [raw/gazing-into-the-abyss.md]
+sources: [raw/gazing-into-the-abyss.md, raw/the-deep-states-sinister-core.md]
 confidence: medium
 ---
 
@@ -34,5 +34,22 @@ Therapists in this field face direct danger and professional isolation.[1] The f
 
 The article stresses that outcomes are not uniformly fatal: two of Miller's "first four" clients reintegrated their alters, recovered, and now live productive lives far from the cult's grasp.[1] It argues this shows humans can heal from virtually any psychological wound given determination and compassion, and that recovered survivors often become effective advocates and helpers for those still suffering.[1] Related material cited by the article includes a [[60-minutes|60 Minutes]] special on ritual abuse, a Mary Knight interview, a 2009 presentation featuring Randy Noblitt, Miller's 2017 Survivorship Conference talk, and a Ted Gunderson presentation on FBI files concerning CIA involvement in satanic ritual abuse.[1]
 
+## Definitions
+
+The introductory installment of the series, "Gazing Into the Abyss pt.1," acknowledges that a sufficient definition of this murky and complex practice is hard to find, and assembles several.[2] The APA Dictionary of Psychology defines ritual abuse as "organized, repetitive, and highly sadistic abuse of a physical, sexual, or emotional nature, perpetrated principally on children," reported as using rituals and symbols drawn from religion, the occult or secret societies, and as potentially including the creation of pornography or the selling of sexual access to children, with victims forced into heinous acts such as killing animals as a means of coercing participation and silence.[2] Ellen Lacter, on her website devoted to the issue, defines it as "conditioning and torture carried out in a ceremonial or calculated manner for the purpose of effecting control over a victim's mind and behavior," international in scope with similarities and variations across cultures.[2] A parallel definition of the mind-control component describes a broad range of psychological tactics able to subvert an individual's control of their own thinking, behavior, emotions or decisions, involving physical, sexual and emotional torture, drugs, and in some cases technologies that directly affect brain function.[2]
+
+## Purpose: fracturing the personality
+
+Over centuries, organized perpetrator groups are said to have observed and studied how extreme childhood traumas — accidents, bereavement, war, natural disasters, repeated hospitalizations and surgeries, and most commonly sexual, physical and emotional child abuse — cause a child's mind to split into compartments.[2] This fracturing of the personality and compartmentalization of lived experience is described as the primary objective of ritual abuse, because it provides the conditions required for [[mind-control-programming|mind control]].[2] [[alison-miller|Alison Miller]] explains in *Becoming Yourself* (2014) that in traumatic dissociation the brain's component circuits are held apart by strong barriers, so that the child who attends school does not remember the abuse that happens at home, and the adult may not consciously remember it while still experiencing flashbacks and related symptoms.[2]
+
+## Emergence of the allegations
+
+The article argues it is difficult to date when ritualized abuse for the purpose of mind control entered public consciousness — one could call the practice as old as humanity — but that a highly sophisticated and particularly cruel form of mind control emerged within the last century or so.[2] Survivor testimony suggests the abuse is not confined to small pockets of backwoods religious fanatics but may be carried out on an industrial scale by corporate, political, military and intelligence personnel.[2] First accounts of patients presenting what would later be termed ritual abuse began emerging in the 1980s, with one instance dating to 1979, and it was not until the early 1990s that enough clinicians worldwide had been exposed to the allegations for them to be taken seriously.[2] The 1991 report of the [[los-angeles-county-commission-for-women-ritual-abuse-task-force|Los Angeles County Commission for Women's Ritual Abuse Task Force]] declared mind control to be "the cornerstone of ritual abuse."[2] Dr. [[james-randall-noblitt|James Randall Noblitt]] records that the initial professional response was incredulity, which eroded as a remarkable number of similar reports arrived from patients with very similar symptoms — multiple inner identities, powerful trance reactions and psychogenic amnesia.[2]
+
+## Sources of the Badlands series
+
+Most of the material in the series derives from the written works of accomplished psychotherapists, written survivor testimony, and the [[stop-mind-control-and-ritual-abuse-today|Stop Mind Control and Ritual Abuse Today (S.M.A.R.T.)]] database, with Noblitt and Miller treated as the two modern authorities.[2] Additional cited contributors include Lynne Moss-Sharman, Hal Pepinsky, Neil Brick, Adah Sachs, Wendy Hoffman, Carol Rutz, Wanda Karriker, Thorsten Becker, Laurie Matthews and Dr. Stephen Kent.[2] The author, [[ryan-delarme|Ryan DeLarme]], framed the timing around the box-office success of [[sound-of-freedom|Sound of Freedom]] and stressed that the subject transcends partisan politics, favoring "neither Marxist nor capitalist."[2]
+
 ## References
 1. Badlands Brief — "Gazing Into the Abyss pt.2: a Therapist's Tale", URL: https://badlands.substack.com/p/gazing-into-the-abyss
+2. Badlands Brief — "Gazing Into the Abyss pt.1", URL: https://badlands.substack.com/p/the-deep-states-sinister-core

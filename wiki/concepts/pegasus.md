@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [surveillance, spyware, cia, iran, psyop]
-sources: [raw/badlands-brief-949.md, raw/badlands-news-brief-e3e.md]
+sources: [raw/badlands-brief-949.md, raw/badlands-news-brief-e3e.md, raw/the-maxwells-mossad-and-a-digital.md]
 confidence: medium
 ---
 
@@ -23,3 +23,9 @@ Pegasus allows NSO clients to infect smartphones with hidden software that can e
 ## References
 1. Badlands Brief — "Tulsi Exposes Traitors; Peace Talks in Pakistan", URL: https://badlands.substack.com/p/badlands-brief-949
 2. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e
+
+## Placement in the Israeli surveillance ecosystem
+
+Badlands Media's May 2024 feature "The Maxwells, Mossad and a Digital Panopticon" identifies [[nso-group|NSO Group]] and its Pegasus software as particularly relevant to its argument that Israel won the digital surveillance war, listing NSO among the firms founded or staffed by veterans of [[unit-8200|Unit 8200]].[3] The article contends that such companies, many of them focused on cybersecurity, have access to vast amounts of data and frequently maintain ties to Israeli intelligence.[3]
+
+3. Badlands Brief - "The Maxwells, Mossad and a Digital Panopticon", URL: https://badlands.substack.com/p/the-maxwells-mossad-and-a-digital

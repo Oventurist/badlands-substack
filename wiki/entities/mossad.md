@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence, israel, cabal]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/america-for-sale-part-3.md, raw/badlands-brief-029.md, raw/badlands-brief-0bd.md, raw/badlands-brief-282.md, raw/badlands-brief-5ba.md, raw/badlands-brief-6f0.md, raw/badlands-brief-805.md, raw/badlands-brief-9ac.md, raw/badlands-brief-9ea.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-cf2.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-e79.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-ee8.md, raw/on-infiltration-and-israel.md, raw/our-greatest-ally.md, raw/operation-cyclone-the-seeds-of-terror.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/america-for-sale-part-3.md, raw/badlands-brief-029.md, raw/badlands-brief-0bd.md, raw/badlands-brief-282.md, raw/badlands-brief-5ba.md, raw/badlands-brief-6f0.md, raw/badlands-brief-805.md, raw/badlands-brief-9ac.md, raw/badlands-brief-9ea.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-cf2.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-e79.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-ee8.md, raw/on-infiltration-and-israel.md, raw/our-greatest-ally.md, raw/operation-cyclone-the-seeds-of-terror.md, raw/the-hitler-or-obama-youth.md, raw/the-maxwells-mossad-and-a-digital.md]
 confidence: low
 ---
 
@@ -153,3 +153,19 @@ The article further identifies [[urban-moving-systems|Urban Moving Systems]] —
 22. Badlands Media — "Badlands News Brief: Cohen Clown Show Continues as the Iranian Blame Game Begins", URL: https://badlands.substack.com/p/badlands-news-brief-ee8
 23. Badlands Brief — "On Infiltration and Israel", URL: https://badlands.substack.com/p/on-infiltration-and-israel
 25. Badlands Brief — "Operation Cyclone - The Seeds of Terror", URL: https://badlands.substack.com/p/operation-cyclone-the-seeds-of-terror
+
+## Alleged role in the creation of Hamas
+
+Badlands contributor [[erik-carlson|Erik Carlson]] wrote in November 2023 that few people understand that the Israeli government and MOSSAD — which he described as Israel's equivalent of the CIA — actually helped to create [[hamas|Hamas]] in the late 1980s to counter the [[palestine-liberation-organization|Palestine Liberation Organization]], then viewed as the greater threat.[26] Carlson said he could not determine whether Hamas eventually went rogue, whether MOSSAD and the Israeli government still control it completely, or whether it is now independent, but stated his belief that MOSSAD retains factions within Hamas that it controls and uses to create conflict.[26] He argued that the vast majority of people taking either side in the 2023 conflict are unaware of this history.[26]
+
+26. Badlands Brief — "The Hitler ... or Obama Youth", URL: https://badlands.substack.com/p/the-hitler-or-obama-youth
+
+## Structure of the Israeli intelligence community
+
+"Mossad" (Hebrew for Institute) is an abbreviation for ha-Mossad le-Modiin ule-Tafkidim Meyuhadim, the Institute for Intelligence and Special Tasks, the state agency responsible for external intelligence and covert operations; it has been described as "the world's most efficient killing machine."[27] Alongside Mossad the Israeli intelligence community includes Aman, the military intelligence directorate, and Shabak or [[shin-bet|Shin Bet]], responsible for internal security.[27] A further agency, [[lekem|Lekem]] - the Israeli Bureau of Scientific Relations - dealt mainly in scientific and technical intelligence for Israel's nuclear program before being disbanded in 1986 following the arrest of [[jonathan-pollard|Jonathan Pollard]].[27] The most consequential but lesser-known division of the [[israel-defense-forces|IDF]] is [[unit-8200|Unit 8200]], nominally a signals intelligence and code-deciphering formation and the largest unit in the IDF.[27]
+
+## Alleged links to the Maxwells and PROMIS (2024 essay)
+
+Ryan DeLarme's May 2024 feature "The Maxwells, Mossad and a Digital Panopticon" argues that Israel won the digital surveillance war largely through the [[promis-software|PROMIS software]] operation, in which [[rafi-eitan|Rafi Eitan]] of Lekem recruited the media mogul [[robert-maxwell|Robert Maxwell]] to distribute a backdoored database product worldwide.[27] Numerous biographers, including [[gordon-thomas|Gordon Thomas]], attribute Maxwell's 1991 death at sea to an assassination carried out by Israeli intelligence, and Maxwell's Israeli holdings - among them [[degem-systems|Degem Systems]] - are described as official "service providers" for Mossad.[27] The article further presents the alleged blackmail operation run by [[jeffrey-epstein|Jeffrey Epstein]] and [[ghislaine-maxwell|Ghislaine Maxwell]] as a continuation of the same intelligence relationship, and closes by asking whether Israeli intelligence, given its extensive surveillance network and willingness to use blackmail and violence, holds leverage over many of those in power.[27]
+
+27. Badlands Brief - "The Maxwells, Mossad and a Digital Panopticon", URL: https://badlands.substack.com/p/the-maxwells-mossad-and-a-digital

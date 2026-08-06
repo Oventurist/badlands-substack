@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, gart, events, south-dakota]
-sources: [raw/join-us-again-at-gart-deadwood.md, raw/last-call-for-gart-deadwood.md, raw/last-call-for-gart-deadwood-1d3.md, raw/join-us-in-deadwood-for-gart-12.md]
+sources: [raw/join-us-again-at-gart-deadwood.md, raw/last-call-for-gart-deadwood.md, raw/last-call-for-gart-deadwood-1d3.md, raw/join-us-in-deadwood-for-gart-12.md, raw/the-great-american-restoration-tour-acc.md]
 confidence: medium
 ---
 
@@ -22,6 +22,8 @@ The 2025 event was scheduled to run across a full weekend, with a welcome recept
 
 The first Deadwood stop was the fifth event of the Great American Restoration Tour, held in August 2024.[2] In an August 11, 2024 "last call" post, [[burning-bright|Burning Bright]] wrote that he and his fellow Badlands hosts would travel to Deadwood the following week, and that VIP tickets for the event had already sold out, leaving only a limited number of single-day tickets for locals wishing to attend part of the Friday or Saturday festivities.[2] Virtual tickets were also sold, granting streaming access to the full slate of Friday, Saturday and Sunday panels, long-term DVR access to replays after the weekend, and entry to an exclusive GART [[telegram|Telegram]] chat with behind-the-scenes photos and video.[2] Announced panel topics ranged from coming "Full Circle on the Q Drops" to "Futurism and Freedom Cities."[2]
 
+Tickets for that first Deadwood stop had gone on sale a month earlier, in a July 6, 2024 announcement that fixed the dates as August 15–18, 2024 and named the Holiday Inn Resort Deadwood Mountain Grand as the conference venue.[5] Because the area offers limited lodging, the host hotel was already sold out when tickets launched, and buyers were told to arrange their own accommodation at nearby hotels or short-term rentals and to cover their own travel.[5] In-person tickets bundled a Friday-night Welcome Reception with breakfast and lunch across the weekend, while the Thursday-night VIP dinner had sold out before the announcement was published.[5]
+
 ## GART 12 (June 2026)
 
 Deadwood hosted the twelfth stop of the [[great-american-restoration-tour|Great American Restoration Tour]] in late June 2026, the town's third time receiving the tour.[3] In a June 25, 2026 "last call" post, [[burning-bright|Burning Bright]] wrote that Badlands had "developed a habit of taking the town over" in Deadwood, and framed the event as the sixth GART of what the network calls the new American Golden Age.[3] A limited number of in-person tickets remained available at the time of the announcement, alongside virtual tickets covering the full Friday, Saturday and Sunday panel programme with long-term DVR replay access and entry to the event's exclusive GART [[telegram|Telegram]] chat.[3]
@@ -36,3 +38,4 @@ Deadwood was chosen again for [[gart-12-deadwood|GART 12]], announced on April 2
 2. Badlands Brief — "Last Call for GART: Deadwood", URL: https://badlands.substack.com/p/last-call-for-gart-deadwood
 3. Badlands Brief — "Last Call for GART: Deadwood!", URL: https://badlands.substack.com/p/last-call-for-gart-deadwood-1d3
 4. Badlands Brief — "Join us in Deadwood for GART 12!", URL: https://badlands.substack.com/p/join-us-in-deadwood-for-gart-12
+5. Badlands Brief — "The Great American Restoration Tour Continues!", URL: https://badlands.substack.com/p/the-great-american-restoration-tour-acc

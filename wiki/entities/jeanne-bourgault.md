@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, ngo, usaid, internews]
-sources: [raw/badlands-news-brief-7b8.md]
+sources: [raw/badlands-news-brief-7b8.md, raw/the-information-imperium.md]
 confidence: medium
 ---
 
@@ -20,3 +20,9 @@ WikiLeaks said the marriage appears to have only a single obscure reference onli
 
 ## References
 1. Badlands Brief — "Badlands News Brief: MAHA, Modi, Musk, & Munich", URL: https://badlands.substack.com/p/badlands-news-brief-7b8
+
+## Leadership of Internews
+
+Jeanne Bourgault became president of [[internews|Internews]] in 2011, described as a veteran of global media operations who steered the organisation deeper into "information integrity" work — a term Badlands Media characterises as censorship with extra steps.[2] "The Information Imperium" notes that no direct tie to the [[central-intelligence-agency|CIA]] has been established for her personally, but argues the pattern is clear: Internews thrives in the orbit of the [[national-endowment-for-democracy|National Endowment for Democracy]] and is funded through the same [[usaid|USAID]] spigot, with its board historically featuring ex-State Department figures and media veterans with NED-adjacent pedigrees.[2]
+
+2. Badlands Brief — "The Information Imperium", URL: https://badlands.substack.com/p/the-information-imperium

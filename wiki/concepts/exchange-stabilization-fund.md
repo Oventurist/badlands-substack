@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [treasury, monetary-policy, bailouts]
-sources: [raw/master-and-commander.md]
+sources: [raw/master-and-commander.md, raw/the-covfefe-dig.md]
 confidence: medium
 ---
 
@@ -24,5 +24,10 @@ In March 2020 the [[federal-reserve|Federal Reserve]] financed a special purpose
 
 [[joe-lange|Joe Lange]] argued that [[donald-trump|Donald Trump]] used the fund not to bail out foreign central banks, as had become customary, but to bail out American companies struggling during the pandemic, forcing the Federal Reserve to finance the effort.[1] In his reading, this made the Fed and the Treasury servants of the American people rather than of the [[rothschild-family|Rothschild]]-aligned central banking network, and marked the point at which the [[global-debt-system|global debt system]] lost its grip on the dollar.[1]
 
+## The COVFEFE Dig
+
+"The COVFEFE Dig" (March 2023) describes the Treasury's use of the Exchange Stabilization Fund during the 2020 COVID-19 market crisis to make an equity investment in each special purpose vehicle financed by the [[federal-reserve|Federal Reserve]].[2] The facilities named are the Commercial Paper Funding Facility, the Primary Market Corporate Credit Facility, the Term Asset-Backed Securities Loan Facility, the Secondary Market Corporate Credit Facility, and the Main Street Business Lending Program.[2] [[gmoney|GMONEY]] treats the arrangement as the mechanism by which the [[us-department-of-the-treasury|Treasury]] and the Fed were effectively merged into a single organization.[2]
+
 ## References
 1. Badlands Brief — "Master and Commander", URL: https://badlands.substack.com/p/master-and-commander
+2. Badlands Brief — "The COVFEFE Dig", URL: https://badlands.substack.com/p/the-covfefe-dig

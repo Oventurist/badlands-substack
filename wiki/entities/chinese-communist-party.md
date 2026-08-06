@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [china, ccp, communism, infiltration]
-sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-news-brief-efd.md, raw/biden-inc-flips.md, raw/empires-enigma.md, raw/glimpses-into-hell-part-2.md, raw/stay-focused-on-the-big-picture.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-news-brief-efd.md, raw/biden-inc-flips.md, raw/empires-enigma.md, raw/glimpses-into-hell-part-2.md, raw/stay-focused-on-the-big-picture.md, raw/the-master-builder.md]
 confidence: low
 ---
 
@@ -50,3 +50,11 @@ The [[journal-of-democracy|Journal of Democracy]] is quoted contrasting this wit
 In an October 15, 2024 Badlands feature, [[erik-carlson|Erik Carlson]] argued that [[joe-biden|Joe Biden]] has been a CCP puppet for some time, citing the Biden family's business dealings with China.[6] He wrote that [[tim-walz|Tim Walz]] likewise appeared to have been a CCP asset for decades, having first visited China in 1989 and returned many times since, and asserted there was strong evidence the CCP controlled and funded the 2020 [[black-lives-matter|BLM]] and [[antifa|ANTIFA]] riots that began in Minnesota under Walz's governorship.[6] Carlson asked whether the CCP had forced the [[deep-state|Deep State]] to add Walz to the 2024 Democratic ticket to replace one controlled asset with another after Biden's removal, before offering the alternative theory that [[xi-jinping|Xi Jinping]], allegedly allied with [[donald-trump|Donald Trump]], arranged the pick so that Walz's past would be exposed too late in the campaign to be undone.[6]
 
 6. Badlands Brief — "Stay Focused on the Big Picture", URL: https://badlands.substack.com/p/stay-focused-on-the-big-picture
+
+## Banking prosecutions under the anti-corruption campaign (Lange, 2023)
+
+Badlands Media's "The Master Builder" (February 2, 2023) documents the financial dimension of the party's internal purge, reporting that [[hu-huaibang|Hu Huaibang]], former party secretary and chairman of the [[china-development-bank|China Development Bank]], pleaded guilty in 2020 to illegally receiving 85.5 million yuan between 2009 and 2019, and that [[lai-xiaomin|Lai Xiaomin]], chairman and internal party chief of [[china-huarong-asset-management|China Huarong Asset Management]], confessed on state television to taking more than 200 million yuan in cash bribes stored in his apartment cabinets.[7] Citing the [[central-commission-for-discipline-inspection|Central Commission for Discipline Inspection]], the article notes that more than 500,000 officials and party members were punished for corrupt behavior in 2019 alone, and that more than one million officials have been punished overall, with corrupt cadres increasingly fleeing to Western countries as the crackdown intensified.[7]
+
+[[joe-lange|Joe Lange]] argues from these cases that [[xi-jinping|Xi Jinping]] is waging a real war against corruption inside the party — one under-reported in Western media — and that this constitutes Xi battling his own version of the [[deep-state|Deep State]] in parallel with [[donald-trump|Donald Trump]]'s alleged campaign against the global central-bank system.[7]
+
+7. Badlands Media — "The Master Builder", URL: https://badlands.substack.com/p/the-master-builder

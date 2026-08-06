@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, fbi, arctic-frost, pennsylvania, surveillance]
-sources: [raw/badlands-news-brief-b53.md]
+sources: [raw/badlands-news-brief-b53.md, raw/the-overdrive-timeline.md]
 confidence: medium
 ---
 
@@ -25,3 +25,9 @@ Badlands contributor [[ashe-in-america|Ashe in America]] wrote that her first re
 ## References
 
 1. Badlands Brief — "Hate Groups, Slush Funds, & Shut Downs", URL: https://badlands.substack.com/p/badlands-news-brief-b53
+
+## January 2023 speakership concessions
+
+As chairman of the [[house-freedom-caucus|House Freedom Caucus]], Perry brokered the deal between conservatives and [[kevin-mccarthy|Kevin McCarthy]] that produced the [[january-2023-mccarthy-concessions|January 2023 McCarthy concessions]] and made McCarthy Speaker on the fifteenth ballot.[2] In the resulting assignments Perry remained on the [[house-foreign-affairs-committee|Foreign Affairs Committee]] and, despite being a subject of the January 6th investigation, won a new seat on the Oversight committee.[2]
+
+2. Badlands Brief — "The Overdrive Timeline", URL: https://badlands.substack.com/p/the-overdrive-timeline

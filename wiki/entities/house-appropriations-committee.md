@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, budget, ukraine, pentagon]
-sources: [raw/badlands-news-brief-155.md]
+sources: [raw/badlands-news-brief-155.md, raw/the-ongoing-betrayal-of-the-gop.md]
 confidence: medium
 ---
 
@@ -20,3 +20,9 @@ The testimony placed the committee at the center of the administration's "Americ
 
 ## References
 1. Badlands Brief — "Badlands News Brief: California Crossroads, Selective Insurrection, & Irian Limits", URL: https://badlands.substack.com/p/badlands-news-brief-155
+
+## Renewal of NED funding (2025)
+
+In August 2025 Badlands Media reported that Republicans on the House Appropriations Committee had voted out of session to renew full funding for the [[national-endowment-for-democracy|National Endowment for Democracy]], an organization the outlet describes as deeply involved in undermining both Trump administrations.[2] The relevant vehicle was the National Security, Department of State, and Related Programs Appropriations Bill for fiscal year 2026, under which the House GOP proposed $315 million for the endowment despite President [[donald-trump|Donald Trump]]'s request that it receive nothing.[2] Rep. [[eli-crane|Eli Crane]] subsequently introduced an amendment to defund the NED, highlighting a split between traditional Republicans and Trump-aligned populists on the committee.[2]
+
+2. Badlands Brief — "The Ongoing Betrayal of the GOP", URL: https://badlands.substack.com/p/the-ongoing-betrayal-of-the-gop

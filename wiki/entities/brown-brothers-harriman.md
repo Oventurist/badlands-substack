@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, wall-street, fascism, nazi-finance]
-sources: [raw/real-patriots-dont-think-like-hitler-196.md]
+sources: [raw/real-patriots-dont-think-like-hitler-196.md, raw/the-men-behind-the-curtain-part-8.md]
 confidence: medium
 ---
 
@@ -24,3 +24,8 @@ Norman, the bank's co-progenitor, simultaneously served as Governor of the [[ban
 
 ## References
 1. Badlands Brief — "Real Patriots Don't Think Like Hitler – Part 2: How Western Bankers Created the Nazis", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-196
+2. Badlands Brief — "The Men Behind the Curtain - Part 8", URL: https://badlands.substack.com/p/the-men-behind-the-curtain-part-8
+
+## Skull and Bones domination
+
+"The Men Behind the Curtain - Part 8" states that since the turn of the twentieth century two investment banking firms — Brown Brothers Harriman and [[guaranty-trust-company|Guaranty Trust]] — were both dominated by members of [[skull-and-bones|Skull and Bones]], and that the two houses were heavily involved in financing Communism and [[adolf-hitler|Hitler]]'s regime.[2] Four Bonesmen from the Yale class of 1917, including [[prescott-bush|Prescott Bush]], served as directors of the firm alongside [[roland-harriman|Roland Harriman]]; [[averell-harriman|Averell Harriman]] and [[robert-lovett|Robert Lovett]] were likewise partners before entering senior government service.[2]

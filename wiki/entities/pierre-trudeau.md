@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [canada, liberal-party, fabian-society, politics]
-sources: [raw/canadas-transition-to-collectivist.md, raw/defeating-the-depopulation-agenda.md]
+sources: [raw/canadas-transition-to-collectivist.md, raw/defeating-the-depopulation-agenda.md, raw/the-deep-state-empire-strikes-back.md]
 confidence: low
 ---
 
@@ -22,7 +22,18 @@ Ehret writes that the [[club-of-rome|Club of Rome]]–MIT study that became [[li
 
 Lamontagne, whom Ehret describes as a long-time London-trained asset and close collaborator of Trudeau, used his Senate Committee Reports of 1968–1972 to reform Canadian science policy along zero-growth lines.[2] Dalhousie professor [[ronald-hayes|Ronald Hayes]] attacked the resulting program as an attempt to destroy the National Research Council, calling it "a fault of the Trudeau administration which Lamontagne echoes."[2]
 
+## Cybernetic restructuring of the Canadian state
+
+Badlands contributor Matthew Ehret writes that Trudeau was trained by Rhodes Scholars such as William Yandell Elliott and initiated into the [[fabian-society|Fabian Society]] under the tutelage of the London School of Economics' Harold Laski, while F.R. Scott — a member of the Rhodes-founded Canadian Fabian branch — managed him at the Privy Council Office in Ottawa during the 1950s.[3] During the 1960s [[quiet-revolution|Quiet Revolution]], Quebec Rhodes Scholars including Jean Beetz and Paul Gérin-Lajoie, creator of the Quebec Ministry of Education, worked closely with Trudeau at the Université Laval to oversee the transformation of Quebec governance and culture.[3]
+
+Upon becoming Prime Minister, Trudeau unleashed a wave of cybernetic restructuring throughout the federal government, including the creation of the Canadian Club of Rome in 1970, which set the stage for reforming Canadian governance around a logic of "adapting to limits."[3] Co-founders alongside Trudeau included Rhodes Scholar Roland Michener (Governor General of Canada), [[maurice-strong|Maurice Strong]], Rhodes Scholar Alistair Gillespie, and Oxford-trained Marc Lalonde.[3] Ehret holds this network directly responsible for the creation of [[environment-canada|Environment Canada]], which applied systems analysis to shift national water and energy development policy toward "ecosystems management."[3]
+
+## Relationship with the Club of Rome
+
+Although Trudeau was an enthusiastic participant at [[club-of-rome|Club of Rome]] meetings — even sponsoring the 1971 conference in Montebello, Quebec that gave birth to *[[limits-to-growth|The Limits to Growth]]* the following year — he did not become an officially registered member until he was out of office.[3] He remained close friends with [[alexander-king|Alexander King]], and according to former U.S. Ambassador Thomas Enders, Trudeau referred "frequently to Club of Rome thinking on the need for new political and moral approaches."[3] After Aurelio Peccei's death in 1984, Rhodes Scholar J. Gordon King revealed that Trudeau had been asked to become Peccei's replacement, a post he turned down for political reasons at the time.[3]
+
 ## References
 
 1. Badlands Brief — "Canada's Transition to Collectivist Green Dystopia", URL: https://badlands.substack.com/p/canadas-transition-to-collectivist
 2. Badlands Brief — "Defeating the Depopulation Agenda", URL: https://badlands.substack.com/p/defeating-the-depopulation-agenda
+3. Badlands Brief — "The Deep State Empire Strikes Back", URL: https://badlands.substack.com/p/the-deep-state-empire-strikes-back

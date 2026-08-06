@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence, cia, national-security, 2024-election]
-sources: [raw/badlands-news-brief-2f2.md]
+sources: [raw/badlands-news-brief-2f2.md, raw/the-information-imperium.md]
 confidence: low
 ---
 
@@ -19,3 +19,9 @@ In September 2024, Hayden signed the open letter in which more than 100 Republic
 ## References
 
 1. Badlands News Brief — "Israel Strikes Again as The FED Pivots", URL: https://badlands.substack.com/p/badlands-news-brief-2f2
+
+## NewsGuard advisory board
+
+Badlands Media's "The Information Imperium" names Hayden as a member of the advisory board of [[newsguard|NewsGuard]], listing his affiliations with the Council on Foreign Relations, LIGNET and the Atlantic Council.[2] The article groups him with former Education Secretary [[arne-duncan|Arne Duncan]], former Homeland Security Secretary [[tom-ridge|Tom Ridge]] and former State Department official [[richard-stengel|Richard Stengel]], arguing that a board of this composition turns a nominally private news-rating service into an extension of the security establishment.[2]
+
+2. Badlands Brief — "The Information Imperium", URL: https://badlands.substack.com/p/the-information-imperium

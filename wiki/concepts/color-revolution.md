@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [regime-change, propaganda, communism, elections]
-sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-blitz-episode-4.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-579.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-fbc.md, raw/how-to-rent-a-riot-the-history-of.md, raw/how-to-rent-a-riot-the-plausible.md, raw/is-the-censorship-war-over.md, raw/purple-revolution.md, raw/rainbow-color-revolution.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-blitz-episode-4.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-579.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-fbc.md, raw/how-to-rent-a-riot-the-history-of.md, raw/how-to-rent-a-riot-the-plausible.md, raw/is-the-censorship-war-over.md, raw/purple-revolution.md, raw/rainbow-color-revolution.md, raw/the-language-of-control.md]
 confidence: low
 ---
 
@@ -102,3 +102,13 @@ On his account the CIA "found their groove" with the fall of the Soviet Union, i
 Carlson also set out what he called the CIA's template: identify the target, launch psychological war, find or create political activists and supply them with information and funding, organize them into political protests with NGO and media support, and provide financial backing to the country's opposition parties.[13] The result, he argued, is not democracy or prosperity but chaos and instability, with participants convinced they are doing right while being manipulated.[13]
 
 13. Badlands Brief — "Rainbow Color Revolution", URL: https://badlands.substack.com/p/rainbow-color-revolution
+
+## The color revolution framework in "The Language of Control" (2025)
+
+Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] stressed that "color revolution" is not a synonym for revolution in general: one of the framework's chief benefits, he argued, is that it supplies a precise and tangible heuristic for understanding operations against populism, more specific than the accurate but ambiguous term "coup."[14] Quoting Revolver News, he defined a color revolution as a coordinated attack the U.S. government has deployed against foreign regimes — particularly in Eastern Europe — deemed authoritarian and hostile to American interests: rather than direct military intervention as in Iraq, the method contests a regime's electoral legitimacy, organizes mass protests and civil disobedience, and leverages media contacts to secure favorable Western coverage.[14]
+
+DeLarme traced the doctrine to [[gene-sharp|Gene Sharp]], who developed at Harvard's Center for International Affairs — with Department of Defense funding — a theory of nonviolent action as a form of warfare capable of collapsing states through theatrical social movements that dissolve the common will supporting a government.[14] He argued these methods, perfected abroad, had over the previous decade been turned inward against Americans, and that the same playbook would be used against any anti-establishment figure, a hypothetical [[bernie-sanders|Bernie Sanders]] as readily as [[donald-trump|Donald Trump]].[14]
+
+Within this framework [[norm-eisen|Norm Eisen]] is presented as the contemporary practitioner: author of a regime-change manual titled The Playbook, chair of the [[brookings-institution|Brookings Institution]]'s color revolution planning arm, and editor of the annually updated domestic guide The Democracy Playbook.[14] DeLarme also cited the December 2024 MSNBC appearance of ACLU director [[anthony-romero|Anthony Romero]] — outlining a "firewall for freedom" of local officials against federal deportation operations — as textbook color revolution tactics applied domestically.[14] Named recent foreign examples included the Euromaidan events in Ukraine and the ousting of Evo Morales in Bolivia, which he said were largely funded and orchestrated by the [[state-department|U.S. State Department]], the CIA-linked [[national-endowment-for-democracy|National Endowment for Democracy]], and [[usaid|USAID]].[14]
+
+14. Badlands Media — "The Language of Control", URL: https://badlands.substack.com/p/the-language-of-control

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [executive-orders, election-integrity, national-emergency, foreign-interference, devolution]
-sources: [raw/badlands-news-brief-030.md, raw/biden-inc-flips.md, raw/soul-governance.md]
+sources: [raw/badlands-news-brief-030.md, raw/biden-inc-flips.md, raw/soul-governance.md, raw/the-harvard-control-grid.md, raw/the-ivy-web.md, raw/the-ivy-dominion.md]
 confidence: medium
 ---
 
@@ -26,7 +26,26 @@ The article noted that the order has quietly remained active under [[joe-biden|J
 
 The Badlands Media essay [[soul-governance|Soul Governance]] characterizes EO 13848 in shorthand as authority to "intercept networks that subvert sovereignty," pairing it with [[executive-order-13818|EO 13818]] as the legal counterpart of a spiritual reclamation.[3] In the essay's parallel, the sovereign individual intercepts fear signals, shame conditioning, and "synthetic gods" much as the order is said to intercept subversive networks.[3]
 
+## Application to Harvard in Badlands commentary
+
+"The Harvard Control Grid" pairs EO 13848 with [[executive-order-13818|EO 13818]] as "direct authorizations to seize assets connected to global corruption and subversion," rather than abstract policy instruments.[4] The article argues these levers could legally collapse a domestic control node such as the [[harvard-management-company|Harvard Management Company]], whose board it describes as populated by private equity titans, global banking houses and foreign policy think tanks.[4] Read through this lens, it presents Trump's America First strategy as pointing toward citizen-owned [[sovereign-wealth-fund|sovereign wealth funds]] buying up distressed elite assets.[4]
+
 ## References
 1. Badlands Brief — "Rare Earths, Rogue Judges, & Record Downward Revisions", URL: https://badlands.substack.com/p/badlands-news-brief-030
 2. Badlands Brief — "Biden, Inc. Flips", URL: https://badlands.substack.com/p/biden-inc-flips
 3. Badlands Brief — "Soul Governance", URL: https://badlands.substack.com/p/soul-governance
+4. Badlands Brief — "The Harvard Control Grid", URL: https://badlands.substack.com/p/the-harvard-control-grid
+
+## Application to academia in "The Ivy Web"
+
+In "The Ivy Web" (May 29, 2025), EO 13848 is paired with [[executive-order-13818|EO 13818]] as the legal framework created by [[donald-trump|President Trump]] in 2017 and 2018 that made possible the seizure of assets connected to corruption, election interference and foreign subversion.[5] The article insists these were "not symbolic gestures" but "trapdoors."[5]
+
+Applied to [[harvard-university|Harvard University]], the order is said to reach entities that enabled or profited from censorship, coercion or collaboration with sanctioned foreign actors.[5] Together with [[presidential-policy-directive-40|Presidential Policy Directive 40]], the article argues, these instruments do more than freeze assets: they "unlock operational authority to restructure governance under military continuity protocols if national security is compromised," a compromise it attributes to foreign-backed disinformation, election interference through institutional capture, and coercive public-private censorship.[5]
+
+5. Badlands Brief — "The Ivy Web", URL: https://badlands.substack.com/p/the-ivy-web
+
+## Cited in the Ivy Dominion essay
+
+The June 2025 essay "The Ivy Dominion" pairs EO 13848 with [[executive-order-13818|EO 13818]] as legal instruments that "do not target the surface, they target the structure," authorizing the freezing and seizure of assets tied to corruption, election interference and foreign collusion.[6] The article says these orders, long dismissed by corporate media as symbolic, became fully active and left universities, NGOs, foundations and investment firms vulnerable, driving what it describes as a coordinated liquidation cascade across elite finance.[6] It further argues that the orders empower the [[us-department-of-the-treasury|Treasury Department]] to act against institutions such as [[harvard-university|Harvard]] or the [[university-of-pennsylvania|University of Pennsylvania]] if they concealed foreign gifts, and that seized assets could be redirected into the [[united-states-sovereign-wealth-fund|United States Sovereign Wealth Fund]].[6]
+
+6. Badlands Brief — "The Ivy Dominion", URL: https://badlands.substack.com/p/the-ivy-dominion

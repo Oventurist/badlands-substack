@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [technology, artificial-intelligence, semiconductors, electric-vehicles, elon-musk]
-sources: [raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-67e.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-890.md, raw/badlands-news-brief-b2b.md, raw/badlands-news-brief-bd6.md, raw/badlands-news-brief-ce5.md, raw/badlands-news-brief-d5c.md, raw/badlands-news-brief-db1.md, raw/badlands-news-brief-ddb.md, raw/badlands-news-brief-e86.md, raw/badlands-news-brief-f6e.md, raw/energy-consolidation.md, raw/stay-focused-on-the-big-picture.md]
+sources: [raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-67e.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-890.md, raw/badlands-news-brief-b2b.md, raw/badlands-news-brief-bd6.md, raw/badlands-news-brief-ce5.md, raw/badlands-news-brief-d5c.md, raw/badlands-news-brief-db1.md, raw/badlands-news-brief-ddb.md, raw/badlands-news-brief-e86.md, raw/badlands-news-brief-f6e.md, raw/energy-consolidation.md, raw/stay-focused-on-the-big-picture.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-deep-states-attempt-to-destroy.md, raw/the-overdrive-timeline.md]
 confidence: medium
 ---
 
@@ -76,6 +76,16 @@ In December 2023, as a Wall Street Journal analysis documented the [[2023-electr
 
 Tesla began selling vehicles in Saudi Arabia in 2025 as [[elon-musk|Elon Musk]]'s businesses increasingly courted deals in the kingdom.[15] At the November 2025 [[saudi-us-investment-forum|US-Saudi Investment Forum]], Musk said Tesla would not be the only company to make AI humanoid robots but would pioneer the technology, claiming such robots would "eliminate poverty" and make work "optional."[15]
 
+## December 2023 Autopilot Recall and the Model Y Tax-Credit Episode
+
+In December 2023, Tesla agreed to a recall covering approximately two million vehicles over regulators' finding that Autopilot contained "insufficient" driver-engagement safeguards, a development headlined prominently by the [[washington-post|Washington Post]].[19] Badlands Media contributor [[erik-carlson|Erik Carlson]] argued the word "recall" was deliberately misleading, since the remedy was an over-the-air software update analogous to a routine smartphone update rather than a workshop visit, and that the framing was intended to depress Tesla's share price and deter prospective buyers.[19]
+
+Carlson described the underlying dispute as one Tesla did not concede on the merits but complied with to close the matter, comparing it to settling out of court to avoid litigation costs.[19] Autopilot already required hands on the wheel and forward-directed eyes, enforced by steering-wheel sensors and driver-facing cameras, disabling the feature for a period when the driver disengaged; regulators concluded these checks could be circumvented, and Tesla shipped an update making circumvention harder.[19] The article also cited a viral video of a Tesla running a red light during an Autopilot demonstration, asserting the drivers had switched Autopilot off shortly before the intersection.[19]
+
+The piece linked Tesla's share performance to [[elon-musk|Musk]]'s political trajectory: the stock traded around $328 when Musk announced his intention to buy [[twitter|Twitter]] on April 14, 2022, fell to roughly $108 by year-end 2022 despite strong quarterly sales, and had recovered to about $250 during 2023.[19]
+
+Carlson additionally recounted a 2023 reclassification of the Tesla Model Y from SUV to sedan for purposes of the federal clean-vehicle tax credit, which threatened its eligibility for the $7,500 credit. Musk responded by cutting the Model Y's price by $15,000 and ultimately $18,000 — more than required — bringing it under the sedan price cap and allowing buyers to add options; the Model Y went on to become the best-selling car in America in the first quarter of 2023.[19]
+
 ## References
 1. Badlands News Brief — "Peacemakers, Fake Kennedys & Fear Mongers", URL: https://badlands.substack.com/p/badlands-news-brief-3b2
 2. Badlands News Brief — "Treasury Triumphs, TikTok U-Turns, & Trade War Time-Outs", raw/badlands-news-brief-508.md
@@ -109,3 +119,18 @@ In a May 15, 2023 Badlands Media essay on [[energy-consolidation|energy consolid
 Tesla held a showcase of technologies under development — the Robovan, the [[cybercab|cybercab]] and AI robots — after which Wall Street drove the company's stock price down 8%, with analysts saying the presentation had not impressed.[17] Badlands contributor [[erik-carlson|Erik Carlson]] found the reaction indefensible, asking whether self-driving cabs and robots able to perform mundane tasks could really be judged unimpressive at a moment when AI is universally described as the future.[17] He also observed that the event caused many in the "truth community" to turn against [[elon-musk|Elon Musk]] out of fear of the AI-driven future they believed he was constructing, and argued instead that Musk was merely revealing technology that already existed.[17]
 
 17. Badlands Brief — "Stay Focused on the Big Picture", URL: https://badlands.substack.com/p/stay-focused-on-the-big-picture
+
+## German plant arson fire (March 2024)
+
+Erik Carlson's "The CIA is Being Thrown Under the Bus" cites an arson fire that broke out near the Tesla plant in Germany as a recent example of Deep State pressure on [[elon-musk|Elon Musk]].[18] The plant was evacuated, production was halted and Tesla's stock dropped considerably.[18]
+
+Carlson describes the incident as part of a two-year campaign of "literally anything and everything to put the hurt on Musk," asking who had an arson fire near a Tesla plant on their bingo card of what the Deep State would pull next.[18]
+
+18. Badlands Brief — "The CIA is Being Thrown Under the Bus", URL: https://badlands.substack.com/p/the-cia-is-being-thrown-under-the
+19. Badlands Brief — "The Deep State's Attempt to Destroy Elon Musk", URL: https://badlands.substack.com/p/the-deep-states-attempt-to-destroy
+
+## The 666 observation
+
+In "The Overdrive Timeline," Erik Carlson noted that from 14 April 2022, when [[elon-musk|Elon Musk]] stated his intention to buy [[twitter|Twitter]], to 7 January 2023, the day of the [[january-2023-mccarthy-concessions|McCarthy concessions]], Tesla's stock price fell about 66.6% in value, and that it had risen roughly 86% in the two months after that date.[20] He paired this with the observation that the S&P 500 bottomed at 666 in March 2009, which he read as the Satanic Cabal signalling who controlled events, and interpreted Tesla's rapid recovery as a sign the cabal no longer had as much control.[20]
+
+20. Badlands Brief — "The Overdrive Timeline", URL: https://badlands.substack.com/p/the-overdrive-timeline

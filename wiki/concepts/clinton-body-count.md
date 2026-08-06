@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [clintons, conspiracy-theory, trump, media]
-sources: [raw/badlands-news-brief-97e.md, raw/has-trumps-whole-life-been-a-sting.md]
+sources: [raw/badlands-news-brief-97e.md, raw/has-trumps-whole-life-been-a-sting.md, raw/the-overdrive-timeline.md]
 confidence: low
 ---
 
@@ -29,3 +29,9 @@ Badlands writer Burning Bright treated the episode as significant precisely beca
 A June 15, 2024 Badlands feature by [[erik-carlson|Erik Carlson]] invoked the Clinton Body Count in discussing [[rudy-giuliani|Rudy Giuliani]]'s withdrawal from the 2000 New York Senate race against [[hillary-clinton|Hillary Clinton]].[2] Having led by nine points in January 2000, Giuliani dropped out in May following a prostate cancer diagnosis; Carlson wrote that he was open both to the diagnosis being real and debilitating and to the possibility that Giuliani wished to avoid becoming another member of the Clinton Body Count.[2] The same feature noted that [[jfk-jr|JFK Jr.]] died in a plane crash nine days after Clinton entered the race.[2]
 
 2. Badlands Brief — "Has Trump's Whole Life Been a Sting Operation?", URL: https://badlands.substack.com/p/has-trumps-whole-life-been-a-sting
+
+## Deaths cited in early 2023
+
+Writing in March 2023, [[erik-carlson|Erik Carlson]] said the Clinton Body Count had climbed in the weeks following the [[january-2023-mccarthy-concessions|January 2023 McCarthy concessions]].[3] He cited people tied to the Clintons who had reportedly shot themselves in the chest and hanged themselves while somehow disposing of the gun, and a billionaire connected to the Clintons who decided "life isn't worth living anymore."[3] He also pointed to the deaths of five members of an environmental consulting firm in a plane crash after taking off from Clinton National Airport in Little Rock, Arkansas, having just investigated a toxic spill in Ohio.[3]
+
+3. Badlands Brief — "The Overdrive Timeline", URL: https://badlands.substack.com/p/the-overdrive-timeline

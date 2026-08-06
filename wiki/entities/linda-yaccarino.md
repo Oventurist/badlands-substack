@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [twitter, advertising, world-economic-forum, media]
-sources: [raw/badlands-news-brief-148.md, raw/badlands-news-brief-b68.md]
+sources: [raw/badlands-news-brief-148.md, raw/badlands-news-brief-b68.md, raw/the-digital-services-act.md]
 confidence: high
 ---
 
@@ -34,3 +34,11 @@ The timing coincided with the [[grok-mechahitler-incident|antisemitic Grok posts
 
 1. Badlands Brief — "Badlands News Brief: FOX Fights, Trump Trolls & Twitter Turns?", URL: https://badlands.substack.com/p/badlands-news-brief-148
 2. Badlands Brief — "Badlands News Brief: Free Money & Clean Voter Rolls", URL: https://badlands.substack.com/p/badlands-news-brief-b68
+
+## Appointment in the context of the Digital Services Act
+
+Badlands contributor [[erik-carlson|Erik Carlson]] linked Yaccarino's arrival as chief executive of [[x-corp|X]] to European regulatory pressure, noting that she took over in June 2023, the same month a [[european-commission|European Commission]] delegation visited the company's California headquarters to warn [[elon-musk|Elon Musk]] about fraud, hate speech and disinformation — specifically pro-Russian propaganda — on the platform.[3] Carlson wrote that he did not know what to make of her, asking whether she represented a compromise with the Commission comparable to Ronald Reagan's acceptance of George H. W. Bush as vice president.[3]
+
+He observed that Yaccarino was a former [[donald-trump|Trump]] appointee, having served on the President's Council on Sports, Fitness and Nutrition from 2018 to 2020, while also having worked with the [[world-economic-forum|World Economic Forum]].[3] Commissioner [[thierry-breton|Thierry Breton]] publicly stated that he had told both Musk and Yaccarino that Twitter "should be very diligent in preparing to tackle illegal content in the European Union."[3]
+
+3. Badlands Brief — "The Digital Services Act", URL: https://badlands.substack.com/p/the-digital-services-act

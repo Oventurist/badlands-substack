@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [president, gold-standard, petrodollar, 1970s]
-sources: [raw/a-week-to-remember.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-099.md, raw/dope-inc.md, raw/four-pillars-of-government-control.md, raw/patsies-of-the-cia-and-fbi.md]
+sources: [raw/a-week-to-remember.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-099.md, raw/dope-inc.md, raw/four-pillars-of-government-control.md, raw/patsies-of-the-cia-and-fbi.md, raw/the-cia-is-being-thrown-under-the.md]
 confidence: medium
 ---
 
@@ -61,3 +61,11 @@ The Badlands essay "Patsies of the CIA and FBI" argues that Nixon was taken out 
 Nixon's removal is presented as a variant of the essay's central pattern: where figures such as [[lee-harvey-oswald|Lee Harvey Oswald]] and [[sirhan-sirhan|Sirhan Sirhan]] were allegedly used to eliminate leaders who opposed the agency by violence, Nixon was eliminated by scandal.[6] See also [[intelligence-patsy|intelligence patsy]].[6]
 
 6. Badlands Brief — "Patsies of the CIA and FBI", URL: https://badlands.substack.com/p/patsies-of-the-cia-and-fbi
+
+## Named among presidents targeted by the CIA (Carlson, 2024)
+
+Erik Carlson's "The CIA is Being Thrown Under the Bus" names Nixon as one of four presidents — with [[john-f-kennedy|Kennedy]], [[ronald-reagan|Reagan]] and [[donald-trump|Trump]] — who were, in his account, deeply concerned about the [[central-intelligence-agency|CIA]]'s unchecked power.[7]
+
+Where Kennedy was killed and Reagan shot, Carlson writes that Nixon was set up by the agency and forced out of office.[7]
+
+7. Badlands Brief — "The CIA is Being Thrown Under the Bus", URL: https://badlands.substack.com/p/the-cia-is-being-thrown-under-the

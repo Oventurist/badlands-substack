@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [china, energy, oil, geopolitics, sovereign-alliance]
-sources: [raw/badlands-brief-414.md, raw/badlands-brief-5a2.md, raw/badlands-brief-884.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-c14.md, raw/badlands-news-brief-ea6.md, raw/brightlands-taiwan-tipping.md, raw/the-accomplishments-of-president-a2b.md]
+sources: [raw/badlands-brief-414.md, raw/badlands-brief-5a2.md, raw/badlands-brief-884.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-c14.md, raw/badlands-news-brief-ea6.md, raw/brightlands-taiwan-tipping.md, raw/the-accomplishments-of-president-a2b.md, raw/the-fake-and-the-gaetz.md]
 confidence: medium
 ---
 
@@ -125,3 +125,11 @@ The author stated a belief that "there are two Chinas," paralleling his view tha
 
 14. Badlands Brief — "Taiwan Tipping: The Curious Case of Intermittent Escalation", URL: https://badlands.substack.com/p/taiwan-tipping
 15. Badlands Brief — "The Accomplishments of President Trump - Part 2", URL: https://badlands.substack.com/p/the-accomplishments-of-president-a2b
+
+## Military posturing in late 2024
+
+On November 28, 2024, the [[peoples-liberation-army|PLA]] Southern Theater Command conducted combat readiness patrols in the sea and airspace over the territorial waters of Huangyan Dao (Scarborough Shoal), described officially as an effort to strengthen control and management and to safeguard national sovereignty and security in the region.[16] Around the same period, satellite imagery — including a NASA Landsat 8 capture — showed a new Chinese carrier reported at roughly $9 billion docked in the Bohai Sea ahead of sea trials.[16] The Chinese cargo carrier [[yi-peng-3|Yi Peng 3]] was also implicated in the severing of two fiber-optic telecommunication cables in the Baltic Sea, an episode Western officials characterized as part of hybrid attacks on [[ukraine|Ukraine]]'s allies.[16]
+
+Writing for [[badlands-media|Badlands Media]], [[ryan-delarme|Ryan DeLarme]] invoked Napoleon Bonaparte's description of China as a "Sleeping Giant" now stirring, and argued that if NATO-Russia tensions escalated into total war, China would have its best opportunity to become the next world superpower by supporting [[russia|Russia]] completely.[16] He noted the "no limits" partnership declared between Beijing and Moscow, reports of covert Chinese supply of dual-use technology, increased trade offsetting Western sanctions, joint military exercises, and intelligence sharing — all framed as fronts in a broader [[hegemonic-war|hegemonic war]] between [[nato|NATO]] and [[brics|BRICS]].[16]
+
+16. Badlands Brief — "The Fake and the Gaetz", URL: https://badlands.substack.com/p/the-fake-and-the-gaetz

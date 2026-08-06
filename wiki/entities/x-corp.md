@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [social-media, censorship, brazil, free-speech]
-sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-995.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-b22.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-b68.md, raw/badlands-news-brief-b9c.md, raw/badlands-news-brief-ca1.md, raw/badlands-news-brief-d50.md, raw/badlands-news-brief-e38.md, raw/badlands-news-brief-f8a.md]
+sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-995.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-b22.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-b68.md, raw/badlands-news-brief-b9c.md, raw/badlands-news-brief-ca1.md, raw/badlands-news-brief-d50.md, raw/badlands-news-brief-e38.md, raw/badlands-news-brief-f8a.md, raw/the-digital-services-act.md]
 confidence: medium
 ---
 
@@ -172,3 +172,11 @@ In June 2025 X Corp filed a federal lawsuit challenging the constitutionality of
 
 25. Badlands Brief — "Badlands News Brief: War Time Presidents & The Brink of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-e38
 26. Badlands Brief — "Badlands News Brief: Economic Strife Prompts a Squeeze on the Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-f8a
+
+## Compliance with the Digital Services Act (2023)
+
+X was among the first platforms designated a very large online company under the [[european-union|European Union]]'s [[digital-services-act|Digital Services Act]], with the [[european-commission|European Commission]] setting the threshold at reaching 10 percent of Europeans, then some 45 million users; designations were made on April 25, 2023 and regulation of designated firms began on August 25, 2023.[27] Having withdrawn from the EU's voluntary code of practice early on, the company said in June 2023 that it would comply with the rules after a delegation led by internal market commissioner [[thierry-breton|Thierry Breton]] visited its California headquarters to "stress test" its moderation and compliance systems.[27]
+
+Badlands contributor [[erik-carlson|Erik Carlson]] calculated that with X on track for $3 billion in global revenue in 2023, the DSA's 6 percent penalty would amount to a fine of roughly $180 million, with a repeat violation triggering a ban from the European market.[27] He argued that this exposure helped explain the platform's drift, reporting complaints from the "truth community" about renewed shadow banning, algorithmic manipulation and the removal of the blocking feature, and suggesting that X might agree to throttle rather than remove dissenting content as a compromise with Brussels.[27] He advised users who relied on X to monitor their reach and prepare a backup plan.[27]
+
+27. Badlands Brief — "The Digital Services Act", URL: https://badlands.substack.com/p/the-digital-services-act

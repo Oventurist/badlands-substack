@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [dissociation, psychology, ritual-abuse, mind-control, mental-health]
-sources: [raw/gazing-into-the-abyss.md]
+sources: [raw/gazing-into-the-abyss.md, raw/the-deep-states-sinister-core.md]
 confidence: medium
 ---
 
@@ -28,5 +28,16 @@ Acceptance of the dissociative disorder diagnosis was not widespread, and during
 
 The article emphasizes that recovery is possible: two of Miller's four earliest such clients reintegrated their alters, recovered from their trauma, and now live productive lives away from the group that abused them.[1]
 
+## Rediscovery in the 1980s and 1990s
+
+Badlands describes DID as "perhaps the biggest hallmark" of ritual abuse and mind control.[2] Therapists rediscovered dissociation in the 1980s, and as they explored the other selves of their dissociative clients they found by the 1990s that many had been victims of [[ritual-abuse|ritual abuse]] and trauma-based mind control.[2] The mechanism, as [[alison-miller|Alison Miller]] explains, is traumatic dissociation: the brain's component circuits are separated by strong barriers so that one part is unaware of the content or feelings held by others, allowing a child to attend school with no memory of abuse suffered the night before.[2]
+
+## Noblitt's conversion
+
+Dr. [[james-randall-noblitt|James Randall Noblitt]] was initially skeptical that multiple personality disorder was a legitimate diagnosis rather than clinical error or outdated terminology.[2] That skepticism collapsed when a hospitalized patient he called "Susie," being guided through a visualization exercise, opened her eyes and greeted him in a childlike voice as "Little Susie," aged four — after which the adult patient had no recollection of the exchange.[2] Noblitt described leaving the room "puzzled and confused" at having witnessed what appeared to be a textbook case of a disorder he did not believe in.[2] Further [[alter-personalities|alters]] followed over roughly two years of therapy, eventually producing accounts of ritual abuse in a satanic cult.[2]
+
+Noblitt also documented clinical markers beyond the presentation of distinct identities: handwriting styles that changed dramatically between alters in patients' daily journals, a tendency to scribble geometric and occult designs, and trance states induced in one dissociative patient by viewing another's artwork — later recognized as programmed responses to [[psychogenic-triggers|psychogenic triggers]].[2] Such patients frequently arrive with other labels first; both "Susie" and a later patient, "Sharon," initially tested or presented as cases of borderline personality disorder.[2]
+
 ## References
 1. Badlands Brief — "Gazing Into the Abyss pt.2: a Therapist's Tale", URL: https://badlands.substack.com/p/gazing-into-the-abyss
+2. Badlands Brief — "Gazing Into the Abyss pt.1", URL: https://badlands.substack.com/p/the-deep-states-sinister-core

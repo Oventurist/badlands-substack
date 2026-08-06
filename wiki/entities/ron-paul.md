@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [libertarian, central-banking, congress, texas]
-sources: [raw/badlands-news-brief-120.md, raw/badlands-news-brief-b01.md]
+sources: [raw/badlands-news-brief-120.md, raw/badlands-news-brief-b01.md, raw/the-exploitation-of-charlie-kirk.md]
 confidence: medium
 ---
 
@@ -31,3 +31,9 @@ Badlands writer GhostofBasedPatrickHenry called the development "a very big deal
 ## References
 1. Badlands Brief — "J6 Returns to Headlines as Fear Mars AI and Airplanes", URL: https://badlands.substack.com/p/badlands-news-brief-120
 2. Badlands Brief — "Badlands News Brief: Marauding, Squirrel-Murdering Psychopaths Panic Ahead of the Election", URL: https://badlands.substack.com/p/badlands-news-brief-b01
+
+## Cited as an exception on U.S.-Israel policy
+
+In "The Exploitation of Charlie Kirk," [[ryan-delarme|Ryan DeLarme]] listed Paul among the figures — with [[pat-buchanan|Pat Buchanan]] and [[john-hostettler|John Hostettler]] — who defied the expectation that a career in American media or politics requires outspoken support for [[israel|Israel]], openly criticizing U.S.-Israel policy.[3] DeLarme noted that such a stance is fraught with risk, citing [[earl-hilliard|Earl Hilliard]], [[cori-bush|Cori Bush]], and [[jamaal-bowman|Jamaal Bowman]] as members who lost their seats after pro-Israel backlash.[3]
+
+3. Badlands Brief — "The Exploitation of Charlie Kirk", URL: https://badlands.substack.com/p/the-exploitation-of-charlie-kirk

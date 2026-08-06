@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [brics, gold, dollar, international-finance]
-sources: [raw/a-week-to-remember.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-07f.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-175.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-f4c.md, raw/bric-by-bric.md, raw/brics-vs-the-wef.md, raw/chips-and-dips.md, raw/empires-enigma.md, raw/is-jerome-powell-a-patriot.md, raw/project-trump-card.md, raw/shared-interests.md, raw/stuck-in-a-groove-of-negativity-and.md]
+sources: [raw/a-week-to-remember.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-07f.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-175.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-f4c.md, raw/bric-by-bric.md, raw/brics-vs-the-wef.md, raw/chips-and-dips.md, raw/empires-enigma.md, raw/is-jerome-powell-a-patriot.md, raw/project-trump-card.md, raw/shared-interests.md, raw/stuck-in-a-groove-of-negativity-and.md, raw/the-covfefe-dig.md, raw/the-fake-and-the-gaetz.md, raw/the-master-builder.md]
 confidence: medium
 ---
 
@@ -123,6 +123,10 @@ The January 2023 [[iran-russia-banking-integration|integration of Iranian and Ru
 
 Badlands commentary in January 2023 linked the formation of the BRICS alliance to Saudi finance minister [[mohammed-al-jadaan|Mohammed Al-Jadaan]]'s statement that [[saudi-arabia|Saudi Arabia]] was open to settling trade in currencies other than the U.S. dollar, arguing that with the kingdom's continued flirtation with joining BRICS the time of [[petrodollar|petrodollar]] and Deep State hegemony appeared to be on the verge of ending.[21]
 
+## The COVFEFE Dig
+
+"The COVFEFE Dig" (March 2023) cites the BRICS alliance as the vehicle through which Russia, China and other nations are seeking to establish their own basket of currencies to compete against the [[petrodollar|petrodollar]].[30] [[gmoney|GMONEY]] pairs this with a [[qanon|Q]] drop dated 11/11 referencing China, Russia and others coordinating to eliminate the New World Order, and with Russia's exclusion from systems such as [[swift|SWIFT]].[30]
+
 ## References
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
 2. Badlands Brief — "Are CBDCs The Path To Fear, or Freedom?", URL: https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom
@@ -221,3 +225,18 @@ He further framed the Ukraine war as a proxy conflict between the central bank s
 In "Stuck in a Groove of Negativity and Hopelessness" (May 4, 2023), [[erik-carlson|Erik Carlson]] cited the common claim within his own community — "The BRICS nations are coming together to destroy the US dollar and in turn, destroy America" — as an example of reflexively negative interpretation.[29] His counter-reading was that the bloc is creating more options and, in the process, "just so happen[s] to be freeing the US from its European controllers."[29] He pointed readers to [[donald-trump|Trump]]'s 2017 foreign trip, invoking the glowing orb, the soccer ball and the sword dance as episodes whose significance he believed the pessimistic reading ignores.[29]
 
 29. Badlands Brief — "Stuck in a Groove of Negativity and Hopelessness", URL: https://badlands.substack.com/p/stuck-in-a-groove-of-negativity-and
+30. Badlands Brief — "The COVFEFE Dig", URL: https://badlands.substack.com/p/the-covfefe-dig
+
+## The NATO-BRICS hegemonic war (November 2024)
+
+[[ryan-delarme|Ryan DeLarme]] argued in November 2024 that the real threat to the world order was the [[hegemonic-war|hegemonic war]] between [[nato|NATO]] and BRICS, to that point waged in the economic, technological and information spaces rather than by open arms.[31] In this framing the Ukraine-Russia proxy conflict was one front of a wider contest, with [[china|China]] and [[russia|Russia]] — bound by a declared "no limits" partnership involving dual-use technology transfers, expanded trade under sanctions, joint exercises and intelligence sharing — positioned to reshape the international order should escalation continue.[31]
+
+31. Badlands Brief — "The Fake and the Gaetz", URL: https://badlands.substack.com/p/the-fake-and-the-gaetz
+
+## As the alternative to the sanctions system (Lange, 2023)
+
+In "The Master Builder" (February 2, 2023), [[joe-lange|Joe Lange]] wrote that the whole reason for the emergence of the BRICS coalition is to counter [[sanctions|sanctions]] imposed through the global central-bank system, and that its members have worked for years to create an alternative to what he called a global debt system enslaving the world.[32] He argued that the world had reached the point where an alternative now exists that is not under the enemy's control and that offers a path to financial freedom.[32]
+
+The article situates BRICS at the end of a sequence it describes as a [[controlled-demolition-of-the-global-debt-system|controlled demolition]]: sanctions on Russian energy after the start of the [[russia-ukraine-war|special military operation]] boomeranged onto European economies dependent on that energy, while [[vladimir-putin|Vladimir Putin]] and [[xi-jinping|Xi Jinping]] had long prepared for exactly that moment.[32] Lange closed by promising a follow-up deep dive into the coalition and declaring that "the BRICS are being laid for financial freedom."[32]
+
+32. Badlands Media — "The Master Builder", URL: https://badlands.substack.com/p/the-master-builder

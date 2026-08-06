@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republican-party, minnesota, oversight]
-sources: [raw/badlands-brief-144.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-8d8.md, raw/badlands-news-brief-c07.md, raw/badlands-news-brief-e96.md]
+sources: [raw/badlands-brief-144.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-8d8.md, raw/badlands-news-brief-c07.md, raw/badlands-news-brief-e96.md, raw/the-dystopia-will-be-televised.md]
 confidence: medium
 ---
 
@@ -44,3 +44,9 @@ On Thursday, October 19, 2023, after [[jim-jordan|Jim Jordan]] proposed letting 
 Emmer won the House Republican conference's speaker nomination after five rounds of voting on Tuesday, October 24, 2023, but withdrew hours later once it became clear the Minnesota lawmaker would face too many opponents to reach 217 votes on the House floor.[6] Republicans that evening turned to [[mike-johnson|Mike Johnson]] as their fourth nominee, who won 128 conference votes.[6] Badlands contributor [[ashe-in-america|Ashe in America]] called the day "a rollercoaster," noting that no floor vote was held and that rumors on the Hill had [[kevin-mccarthy|Kevin McCarthy]] returning for another vote.[6]
 
 6. Badlands Brief — "Badlands News Brief: Blinken Drones & Congress Stalls", URL: https://badlands.substack.com/p/badlands-news-brief-e96
+
+## Opposition to a digital dollar (2023)
+
+As House Majority Whip, Emmer (R-Minn.) led the introduction of the [[cbdc-anti-surveillance-state-act|CBDC Anti-Surveillance State Act]], legislation that would restrict "unelected bureaucrats" from establishing and issuing a [[central-bank-digital-currency|central bank digital currency]] that Republicans said would threaten the financial privacy of the American people.[7] In a statement he said, "Any digital version of the dollar must uphold our American values of privacy, individual sovereignty, and free-market competitiveness," warning that "anything less opens the door to the development of a dangerous surveillance tool."[7]
+
+7. Badlands Brief — "The Dystopia Will Be Televised", URL: https://badlands.substack.com/p/the-dystopia-will-be-televised

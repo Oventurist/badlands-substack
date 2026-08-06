@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, asset-management, media-ownership]
-sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-news-brief-d46.md, raw/get-woke-go-broke.md, raw/spear-of-justice.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-news-brief-d46.md, raw/get-woke-go-broke.md, raw/spear-of-justice.md, raw/the-harvard-control-grid.md]
 confidence: medium
 ---
 
@@ -26,9 +26,14 @@ In "Get Woke, Go Broke," [[erik-carlson|Erik Carlson]] listed State Street with 
 
 An August 2025 Badlands Media essay identified State Street as part of the "Big Three" [[esg|ESG]] investment bloc with [[blackrock|BlackRock]] and [[vanguard-group|Vanguard]], describing the group as a de facto steering committee for global corporate behavior.[4] The piece characterized Texas Attorney General [[ken-paxton|Ken Paxton]]'s surviving antitrust suit as an attack on a critical supply chain for influence operations, reasoning that without synchronized capital the ability to enforce ideological compliance on corporations collapses.[4] The author likened the litigation to prying the keystone out of a vault, after which "the weight of the structure itself will do the rest of the work."[4]
 
+## Harvard control grid narrative
+
+"The Harvard Control Grid" lists State Street with [[blackrock|BlackRock]] and the [[vanguard-group|Vanguard Group]] among the asset managers it says [[white-hats|White Hats]] "flipped," an event the article credits with cutting off the capital flows sustaining Harvard's influence network.[5] Their seizure or neutralization is described as the moment "the mask is slipping" for the interests behind the [[harvard-management-company|Harvard Management Company]].[5]
+
 ## References
 
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
 2. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46
 3. Badlands Brief — "Get Woke, Go Broke", URL: https://badlands.substack.com/p/get-woke-go-broke
 4. Badlands Brief — "Spear of Justice: Ken Paxton and the Bleeding Edge", URL: https://badlands.substack.com/p/spear-of-justice
+5. Badlands Brief — "The Harvard Control Grid", URL: https://badlands.substack.com/p/the-harvard-control-grid

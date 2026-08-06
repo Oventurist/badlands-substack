@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, asset-management, media-ownership]
-sources: [raw/a-swan-song-for-the-msm.md, raw/and-iran-iran-so-far-away.md, raw/badlands-brief-579.md, raw/badlands-news-brief-d46.md, raw/blackrock-inc-and-the-vanguard-group.md, raw/get-woke-go-broke.md, raw/spear-of-justice.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/and-iran-iran-so-far-away.md, raw/badlands-brief-579.md, raw/badlands-news-brief-d46.md, raw/blackrock-inc-and-the-vanguard-group.md, raw/get-woke-go-broke.md, raw/spear-of-justice.md, raw/the-harvard-control-grid.md]
 confidence: medium
 ---
 
@@ -42,6 +42,10 @@ Asked who owns the largest shares of Vanguard and BlackRock themselves, the arti
 
 An August 2025 Badlands Media essay named Vanguard, alongside [[blackrock|BlackRock]] and [[state-street|State Street]], as one of the "Big Three" asset managers whose coordinated [[esg|ESG]] voting power the author described as a cartel capable of dictating corporate behavior without legislation.[7] It reported that Texas Attorney General [[ken-paxton|Ken Paxton]]'s antitrust case against the trio had survived most dismissal attempts, opening the door to discovery of stewardship minutes, alliance communications, and proxy playbooks.[7] The author argued that because the same firms are embedded in pharmaceuticals, big technology, insurance, and ratings, cracking their coordination loop would ripple through the funding structures supporting other centers of control, shifting bargaining power back toward states, markets, and individuals.[7]
 
+## Harvard control grid narrative
+
+"The Harvard Control Grid" names Vanguard, with [[blackrock|BlackRock]] and [[state-street|State Street]], among the asset managers said to have been "flipped" by [[white-hats|White Hats]], after which "the funding arteries that kept Harvard's control grid alive began to hemorrhage."[8] The article treats the trio as the financial controllers whose neutralization exposed the network surrounding the [[harvard-management-company|Harvard Management Company]].[8]
+
 ## References
 
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
@@ -51,3 +55,4 @@ An August 2025 Badlands Media essay named Vanguard, alongside [[blackrock|BlackR
 5. Badlands Brief — "BlackRock, Inc. And the Vanguard Group", URL: https://badlands.substack.com/p/blackrock-inc-and-the-vanguard-group
 6. Badlands Brief — "Get Woke, Go Broke", URL: https://badlands.substack.com/p/get-woke-go-broke
 7. Badlands Brief — "Spear of Justice: Ken Paxton and the Bleeding Edge", URL: https://badlands.substack.com/p/spear-of-justice
+8. Badlands Brief — "The Harvard Control Grid", URL: https://badlands.substack.com/p/the-harvard-control-grid

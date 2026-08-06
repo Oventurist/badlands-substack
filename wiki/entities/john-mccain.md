@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, libya, syria, weapons, lobbying, benghazi, immigration, obamacare]
-sources: [raw/a-dereliction-of-duty.md, raw/a-conflict-of-interest.md, raw/bad-actors.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-204.md, raw/hes-not-a-war-hero.md, raw/infiltration-not-invasion.md, raw/moves-and-countermoves.md, raw/money-and-oil.md, raw/q-for-dummies-chapter-1.md, raw/q-for-dummies-chapter-7.md, raw/q-for-dummies-chapter-3.md, raw/q-for-dummies-chapter-4.md]
+sources: [raw/a-dereliction-of-duty.md, raw/a-conflict-of-interest.md, raw/bad-actors.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-204.md, raw/hes-not-a-war-hero.md, raw/infiltration-not-invasion.md, raw/moves-and-countermoves.md, raw/money-and-oil.md, raw/q-for-dummies-chapter-1.md, raw/q-for-dummies-chapter-7.md, raw/q-for-dummies-chapter-3.md, raw/q-for-dummies-chapter-4.md, raw/the-ongoing-betrayal-of-the-gop.md]
 confidence: medium
 ---
 
@@ -131,3 +131,9 @@ Chapter 4 of the [[q-for-dummies|Q for Dummies]] series treats drop #25 of Novem
 
 12. Badlands Media — "Q for Dummies - Chapter 4", URL: https://badlands.substack.com/p/q-for-dummies-chapter-4
 13. Badlands Brief — "Q for Dummies - Chapter 3", URL: https://badlands.substack.com/p/q-for-dummies-chapter-3
+
+## Chairmanship of the IRI and the NED wing of the GOP
+
+Badlands Media reports that John McCain ran the [[international-republican-institute|International Republican Institute]], the Republican arm of the [[national-endowment-for-democracy|National Endowment for Democracy]], for 25 years.[14] The outlet uses "the John McCain wing of the Republican Party" as shorthand for the traditional, Chamber-of-Commerce Republicans who remain committed to the NED apparatus and, in the article's view, are unwilling to let go of a weapon that serves so many of their interests — a faction it blames for the 2025 vote to renew full NED funding over [[donald-trump|Donald Trump]]'s objection.[14]
+
+14. Badlands Brief — "The Ongoing Betrayal of the GOP", URL: https://badlands.substack.com/p/the-ongoing-betrayal-of-the-gop

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [diplomacy, petrodollar, globalism, nixon-administration]
-sources: [raw/badlands-news-brief-24e.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-a3b.md, raw/dark-equation.md, raw/henry-kissinger-british-cabal-puppet.md, raw/the-british-are-leaving-the-british.md]
+sources: [raw/badlands-news-brief-24e.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-a3b.md, raw/dark-equation.md, raw/henry-kissinger-british-cabal-puppet.md, raw/the-british-are-leaving-the-british.md, raw/the-men-behind-the-curtain-part-3.md, raw/the-men-behind-the-curtain-part-2.md]
 confidence: medium
 ---
 
@@ -64,6 +64,10 @@ Carlson also rejected the idea that Kissinger's death at age 100 was unremarkabl
 
 Describing his time as Secretary of State, Kissinger said the British "were so matter-of-factly helpful that they became a participant in internal American deliberations, to a degree probably never practiced between sovereign nations," and that "in my White House incarnation then, I kept the [[british-foreign-office|British Foreign Office]] better informed and more closely engaged than I did the American [[state-department|State Department]]," adding: "It was symptomatic."[6] Ehret notes that as Kissinger spoke those words another anglophile he regarded as a traitor, [[george-hw-bush|George Bush Sr.]], was being installed as Vice President — the son of a Nazi-funding Wall Street figure, a former CIA director, and later a Knight of the Grand Cross and Order of Bath conferred by [[queen-elizabeth-ii|Queen Elizabeth]] in 1993.[6] The most disastrous foreign policies enacted under [[ronald-reagan|Reagan]] in the 1980s, he argues, trace directly back to these two figures.[6]
 
+## Trilateral Commission membership
+
+Badlands Media's "The Men Behind the Curtain – Part 2" lists Kissinger among the prominent Republicans who filled the ranks of the [[trilateral-commission|Trilateral Commission]], countering the impression that the group functioned as an unspoken executive arm of the Democratic party.[8]
+
 ## References
 
 1. Badlands News Brief — "Shutdown Looms as Game Theory Plays Out", URL: https://badlands.substack.com/p/badlands-news-brief-24e
@@ -72,3 +76,13 @@ Describing his time as Secretary of State, Kissinger said the British "were so m
 4. Badlands Brief — "Dark Equation", URL: https://badlands.substack.com/p/dark-equation
 5. Badlands Brief — "Henry Kissinger: British Cabal Puppet", URL: https://badlands.substack.com/p/henry-kissinger-british-cabal-puppet
 6. Badlands Brief — "The British Are Leaving! The British Are Leaving!", URL: https://badlands.substack.com/p/the-british-are-leaving-the-british
+7. Badlands Brief — "The Men Behind the Curtain - Part 3", URL: https://badlands.substack.com/p/the-men-behind-the-curtain-part-3
+
+## Role in creating the World Economic Forum
+
+Badlands Media's "The Men Behind the Curtain" series names Kissinger as the foremost of three progenitors of the Davos group, alongside [[john-kenneth-galbraith|John Kenneth Galbraith]] and [[herman-kahn|Herman Kahn]].[7] In the mid-1950s Kissinger was recommended to the [[council-on-foreign-relations|Council on Foreign Relations]] by Harvard dean [[mcgeorge-bundy|McGeorge Bundy]], and at the CFR he began managing a study group on nuclear weapons.[7] From 1956 to 1958 he served as Director of Special Studies for the [[rockefeller-brothers-fund|Rockefeller Brothers Fund]] — [[david-rockefeller|David Rockefeller]] was vice president of the CFR during this period — directing panels that produced internationally noticed reports on national defense, and in 1957 he secured his standing as a leading establishment authority on thermonuclear war with *Nuclear Weapons and Foreign Policy*, published for the CFR by Harper & Brothers.[7]
+
+A December 1966 event is presented as a prototype for the semi-public discussion panels the [[world-economic-forum|World Economic Forum]] employs today: announced by Assistant Secretary of State for European Affairs John M. Leddy, it convened a 22-man panel of advisors to help "shape European policy," whose five most prominent members were Kissinger of Harvard, Robert Osgood of the Washington Center for Foreign Policy Research, Melvin Conant of Rockefeller's [[standard-oil|Standard Oil]], Warner R. Schilling of [[columbia-university|Columbia University]], and Raymond Vernon, also of Harvard.[7] Other attendees included CFR members, the [[ford-foundation|Ford Foundation]], and representatives of leading American universities; the panel has been described as laying the foundation for the WEF.[7] Kissinger also joined twenty-nine "American authorities on Germany" in signing a statement that West German state election results did not indicate a rebirth of Nazism — a signal, in the article's reading, that a new era of trustworthy, sophisticated European elites had dawned, eventually producing the figure known as "Davos man."[7]
+
+As executive director of Harvard's International Seminar in 1967 — a program reported that same year to have received $135,000 in [[central-intelligence-agency|CIA]] funding, which Kissinger said he was unaware of — Kissinger recruited [[klaus-schwab|Klaus Schwab]] into his circle of [[round-table-movement|Round Table]] imperialists, giving the young Schwab access to the American policymakers who would help him build the World Economic Forum.[7] Kissinger subsequently introduced Schwab to Galbraith, who helped make the Forum a reality.[7]
+8. Badlands Brief — "The Men Behind the Curtain - Part 2", URL: https://badlands.substack.com/p/the-men-behind-the-curtain-part-2

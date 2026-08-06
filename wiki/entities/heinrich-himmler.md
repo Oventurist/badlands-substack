@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [nazism, occultism, ss, germany, world-war-ii]
-sources: [raw/real-patriots-dont-think-like-hitler-111.md, raw/real-patriots-dont-think-like-hitler-1b1.md]
+sources: [raw/real-patriots-dont-think-like-hitler-111.md, raw/real-patriots-dont-think-like-hitler-1b1.md, raw/the-inversion-of-health.md]
 confidence: medium
 ---
 
@@ -37,3 +37,8 @@ Himmler is also named by the historian William Laurence Shirer, alongside Alfred
 ## References
 1. Badlands Brief — "Real Patriots Don't Think Like Hitler - Part 4", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-111
 2. Badlands Brief — "Real Patriots Don't Think Like Hitler - Part 3: Hitler's Aryan Christ and the Reichs Bible", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-1b1
+3. Badlands Brief — "The Inversion of Health", URL: https://badlands.substack.com/p/the-inversion-of-health
+
+## Task Force of Heredity Experts
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] reports that Himmler, as chief of Hitler's private army the SS, chaired the "Task Force of Heredity Experts" within which the Rockefeller-funded psychiatrist [[ernst-rudin|Ernst Rudin]] and his staff crafted Germany's sterilization law.[3] Described as an "American model law," it was implemented in July 1933 and proudly reprinted in the United States in the September 1933 *Eugenical News* over [[adolf-hitler|Hitler]]'s signature.[3]

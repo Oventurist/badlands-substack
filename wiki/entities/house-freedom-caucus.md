@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republicans, spending, america-first]
-sources: [raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-dcb.md]
+sources: [raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-dcb.md, raw/the-overdrive-timeline.md]
 confidence: medium
 ---
 
@@ -46,3 +46,11 @@ On Tuesday, December 2, 2025, a handful of Freedom Caucus members delayed action
 
 Ahead of the House vote to elect a Speaker at the start of the 119th Congress, Rep. [[mike-lawler|Mike Lawler]] said on ABC's "This Week" on December 29, 2024 that [[mike-johnson|Mike Johnson]] would be reelected because no member of the Freedom Caucus could assemble the 218 votes needed.[4] Lawler argued that members pushing for Johnson's removal were "playing with fire" and were "kidding themselves" if they believed a more conservative Speaker was available, recalling that the [[ouster-of-kevin-mccarthy|removal of Kevin McCarthy]] by [[matt-gaetz|Matt Gaetz]] and colleagues alongside 208 Democrats was "the single stupidest thing I've ever seen in politics."[4] President-elect [[donald-trump|Donald Trump]] subsequently gave Johnson his "complete and total endorsement" on Truth Social, a move seen as key given Johnson could afford only a handful of GOP defections.[4]
 4. Badlands Brief — "Badlands News Brief: AI Energy Solutions & Turning Water Into White Gold", URL: https://badlands.substack.com/p/badlands-news-brief-dcb
+
+## Composition and the January 2023 concessions
+
+Badlands Media contributor Erik Carlson described the House Freedom Caucus as the conservative, non-RINO, America First and pro-Trump bloc of the House, noting that 40 members belonged to it after the 2020 election and that 38 of those refused to acknowledge that [[joe-biden|Joe Biden]] had won that election fairly.[5] By March 2023 he counted 49 members out of 435 in the House, meaning that even with a Republican majority only 49 members were America First in agenda.[5] Carlson argued that when Republicans took the House in November 2022 the [[deep-state|Deep State]] expected [[kevin-mccarthy|Kevin McCarthy]] to side with the other 386, but that McCarthy instead submitted to Trump and his supporters.[5]
+
+The twenty-one members who held up McCarthy's election were all part of the Caucus, joined by others Carlson says only pretended to fight alongside them as a ploy to extract the concessions [[donald-trump|Donald Trump]] wanted.[5] Caucus chairman [[scott-perry|Scott Perry]] brokered the deal with McCarthy alongside [[chip-roy|Chip Roy]], and the resulting [[january-2023-mccarthy-concessions|January 2023 McCarthy concessions]] included expanded Freedom Caucus representation on committees such as the [[house-rules-committee|House Rules Committee]].[5] Carlson concluded that the agreement unleashed "49 real Americans" led by Trump to take down the cabal.[5]
+
+5. Badlands Brief — "The Overdrive Timeline", URL: https://badlands.substack.com/p/the-overdrive-timeline

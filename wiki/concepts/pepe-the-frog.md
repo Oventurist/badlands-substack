@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [memes, internet-culture, trump, kekistan, 2016-election]
-sources: [raw/pepe-the-trump-train-and-hillarys.md]
+sources: [raw/pepe-the-trump-train-and-hillarys.md, raw/the-covfefe-dig.md]
 confidence: low
 ---
 
@@ -26,5 +26,14 @@ The article's central claim is that the [[trump-train|Trump Train]] and Pepe the
 
 The piece is written in the idiom of Pepe-adjacent internet culture, addressing readers as residents of Kekistan requiring a "PEPEPASSPORT," signing off with "Shadilay," and inviting VIPs to "scream PEPE at the top of your lungs" for another cup of Covfefe.[1] It describes the exploration of interconnections between Q, Trump, Bitcoin, Pepe, John F. Kennedy, and Covfefe as "infinitely deep."[1]
 
+## The COVFEFE Dig
+
+In "The COVFEFE Dig" (March 2023), [[gmoney|GMONEY]] devotes a full section to Pepe, opening with [[hillary-clinton|Hillary Clinton]]'s remark that "that cartoon frog is more sinister than you might realize."[2] The article states that [[donald-trump|Trump]] tweeted himself as Pepe on 10/13/2015 — another 3-1-5 combination in the author's scheme — and that the image no longer appears in the post because the referenced tweet was deleted.[2]
+
+The dig then moves to the blockchain, noting that the first Pepe minted on the Bitcoin blockchain, [[rarepepe|RAREPEPE]], was issued on 9/9/2016 via the [[counterparty|Counterparty]] protocol, the same day Clinton delivered her "basket of deplorables" speech.[2] Days later the Clinton campaign published an "explainer" on Pepe on its website and the [[anti-defamation-league|ADL]] labelled the frog a hate symbol.[2] The [[rare-pepe-directory|Rare Pepe Directory]] is described as a collection of 1,774 cards created to protect Pepe's image by an anonymous person called "Mike."[2]
+
+Further cards are read as signals: PEPERARE is the 315th card and the mirror of RAREPEPE, while Series 3 Card 15 is PUTINPEPE, which the author says wears the same smug expression as the Pepe Trump posted.[2] The Russian Embassy's 2017 tweet of a smug Pepe, still online, is presented as landing on the delta of the Bitcoin open-source software release.[2] Finally, [[qanon|Q]] drop 2712 features a Pepe alongside discussion of secure communications, which the dig connects to [[steganography|steganography]] and the possibility of hiding data inside a Pepe image.[2]
+
 ## References
 1. Badlands Brief — "Pepe, the Trump Train, and Hillary's Automobile", URL: https://badlands.substack.com/p/pepe-the-trump-train-and-hillarys
+2. Badlands Brief — "The COVFEFE Dig", URL: https://badlands.substack.com/p/the-covfefe-dig

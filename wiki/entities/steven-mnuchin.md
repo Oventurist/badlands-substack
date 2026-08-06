@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [treasury, trump-administration, crypto, foia]
-sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-news-brief-365.md, raw/badlands-news-brief-b35.md]
+sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-news-brief-365.md, raw/badlands-news-brief-b35.md, raw/the-covfefe-dig.md, raw/the-midas-touch.md]
 confidence: medium
 ---
 
@@ -32,7 +32,17 @@ In March 2024, Mnuchin's investment firm [[liberty-strategic-capital|Liberty Str
 
 [[burning-bright|Burning Bright]] of [[badlands-media|Badlands Media]] read the transaction as a significant signal of a civilian-military alliance extending into the U.S. financial sector, placing it alongside [[stephen-miller|Stephen Miller]]'s [[america-first-legal|America First Legal]] as instruments used against entrenched interests, and contrasting it with the 2023 collapses of [[silicon-valley-bank|Silicon Valley Bank]] and [[first-republic-bank|First Republic Bank]].[3]
 
+## The COVFEFE Dig
+
+"The COVFEFE Dig" (March 2023) names Mnuchin as Treasury Secretary during the COVID-19 financial turmoil of 2020 and places him at the centre of what it calls the merger of the [[federal-reserve|Federal Reserve]] and the [[us-department-of-the-treasury|Treasury]].[4] Working with [[donald-trump|Trump]] and the Fed, he is said to have overseen approval of a raft of new programs alongside unlimited quantitative easing and roughly $1 trillion a day in repurchase agreements, with the Treasury using the [[exchange-stabilization-fund|Exchange Stabilization Fund]] to take equity stakes in the special purpose vehicles created for each lending facility.[4] [[gmoney|GMONEY]] argues the effect was that the Treasury, not the Fed, bought the securities and backstopped the loans, achieving what [[john-f-kennedy|John F. Kennedy]] had sought with [[executive-order-11110|Executive Order 11110]].[4]
+
 ## References
 1. Badlands Brief — "Are CBDCs The Path To Fear, or Freedom?", URL: https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom
 2. Badlands Brief — "Badlands News Brief: 'You Are Watching a Movie' Intensifies ...", URL: https://badlands.substack.com/p/badlands-news-brief-365
 3. Badlands Brief — "Badlands News Brief: Trump & Musk Meet as RINOs Run for the Hills", URL: https://badlands.substack.com/p/badlands-news-brief-b35
+4. Badlands Brief — "The COVFEFE Dig", URL: https://badlands.substack.com/p/the-covfefe-dig
+5. Badlands Brief — "The Midas Touch", URL: https://badlands.substack.com/p/the-midas-touch
+
+## Fort Knox visit (2017)
+
+In August 2017, during [[donald-trump|Donald Trump]]'s first year in office, Mnuchin became only the third treasury secretary ever to visit the United States Bullion Depository at [[fort-knox|Fort Knox]], Kentucky — an event without precedent since 1948 that caught many observers by surprise.[5] Visits to the classified facility, built in 1936, are extremely rare for security reasons.[5] Mnuchin noted that although the depository's contents were valued at roughly $200 billion, the gold had last been counted in 1953.[5] Badlands contributor [[joe-lange|Joe Lange]] reads the visit as confirmation that the gold exists, a precondition for any return to a [[gold-standard|gold standard]].[5]

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republican, tennessee, impeachment]
-sources: [raw/badlands-news-brief-e44.md, raw/badlands-news-brief-f7d.md]
+sources: [raw/badlands-news-brief-e44.md, raw/badlands-news-brief-f7d.md, raw/the-overdrive-timeline.md]
 confidence: medium
 ---
 
@@ -33,3 +33,9 @@ Ogles told Fox News that "Joe Biden has repeatedly abused his position of power,
 ## References
 1. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44
 2. Badlands Brief — "Badlands News Brief: The All-Out Biden Blitz Boomerang ... And More", URL: https://badlands.substack.com/p/badlands-news-brief-f7d
+
+## January 2023 speakership concessions
+
+Ogles, one of the January 2023 holdouts, won a seat on the [[house-financial-services-committee|Financial Services Committee]] under the [[january-2023-mccarthy-concessions|January 2023 McCarthy concessions]].[3]
+
+3. Badlands Brief — "The Overdrive Timeline", URL: https://badlands.substack.com/p/the-overdrive-timeline

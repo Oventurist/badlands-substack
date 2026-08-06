@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [grooming-gangs, trafficking, united-kingdom, badlands-media]
-sources: [raw/on-golden-bridges-and-the-art-of.md]
+sources: [raw/on-golden-bridges-and-the-art-of.md, raw/the-great-awakening-and-the-end-of.md]
 confidence: low
 ---
 
@@ -22,6 +22,13 @@ The article stated that a "VERY famous so-called 'right wing' influencer" stood 
 
 The article further suggested that the influencer was connected to a broader network of popular "right wing" figures, and that this network was being targeted for demolition by way of making its members and their tactics famous.[1] The author asserted that many people on the political right were implicated in activities of the same kind as those of the UK gangs.[1]
 
+## Mechanics of the method
+
+In a March 13, 2025 article, American Hypnotist described the Loverboy Method as the broad term for a family of psychological manipulation tactics used by groomers and traffickers to place people in compromising situations leading to enslavement, prostitution and exploitation — techniques that "often leave no bruises," leaving much of the public unaware and often inclined to blame the victims.[2] Under the method, traffickers deliberately target vulnerable young girls by first appearing to be the friend, family member or lover they never had, causing the girls to bond with the pimp, which grants him further access until they are manipulated into situations from which they cannot escape.[2]
+
+The author added that grooming victims are frequently manipulated so deeply that they lose the ability to recognise their treatment as exploitative, and that where escape appears impossible the subconscious mind may "reframe" the abuse as acceptable or even good in order to survive — a dynamic that greatly complicates efforts by law enforcement and others to hold traffickers and pimps to account.[2] He again referenced the unnamed "VERY famous 'right wing' influencer" who had taught courses on using the method to pimp young girls.[2] He observed that these non-physical forms of coercion are precisely what the [[trafficking-victims-protection-act|Trafficking Victims Protection Act]] was drafted to capture.[2]
+
 ## References
 
 1. Badlands Brief — "On Golden Bridges and the Art of War", URL: https://badlands.substack.com/p/on-golden-bridges-and-the-art-of
+2. Badlands Brief — "The Great Awakening and the End of Human Trafficking", URL: https://badlands.substack.com/p/the-great-awakening-and-the-end-of

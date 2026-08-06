@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military, cbdc, intelligence, national-security]
-sources: [raw/are-we-entering-the-millennial-reign.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-579.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-ee6.md, raw/badlands-news-brief-f44.md, raw/clowns-in-america.md, raw/child-sacrifice-as-a-pillar-of-deep.md, raw/dont-bring-shiny-rocks-to-digital.md, raw/how-your-western-brain-exposes-you.md, raw/moves-and-countermoves.md, raw/q-for-dummies-chapter-13.md, raw/q-for-dummies-chapter-2.md, raw/setting-the-stage.md, raw/the-biggest-boomerang-in-history.md]
+sources: [raw/are-we-entering-the-millennial-reign.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-579.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-ee6.md, raw/badlands-news-brief-f44.md, raw/clowns-in-america.md, raw/child-sacrifice-as-a-pillar-of-deep.md, raw/dont-bring-shiny-rocks-to-digital.md, raw/how-your-western-brain-exposes-you.md, raw/moves-and-countermoves.md, raw/q-for-dummies-chapter-13.md, raw/q-for-dummies-chapter-2.md, raw/setting-the-stage.md, raw/the-biggest-boomerang-in-history.md, raw/the-hybridization-of-asymmetric-and.md]
 confidence: low
 ---
 
@@ -193,4 +193,11 @@ Boston Herald reporting quoted in the article notes Flynn holds the record for s
 
 Lange treats these emails, declassified and given to [[sidney-powell|Sidney Powell]] by Attorney General [[william-barr|William Barr]], as proof of a conspiracy to commit and as the basis on which the case was dropped.[26] He further argues that Comey could only have known Flynn was lying because the [[barack-obama|Obama]] administration was already spying on him and had the call transcripts in hand before the interview — so the trap set for Flynn instead exposed [[spygate|SPYGATE]].[26] Q drop 4231 of May 13, 2020 asked whether FISA unmasking requests preceded the [[sergey-kislyak|Kislyak]] call and who asked the ambassador to telephone Flynn.[26] Lange also credits Flynn's case with opening the door to the [[gmail-draft-communications|Gmail draft communications]] thread pursued by Congress.[26]
 
+## On narrative assassination (Mel K interview)
+
+In an interview on the Mel K show cited by [[justin-deschamps|Justin Deschamps]], Flynn said there are ongoing attempts to assassinate [[donald-trump|Donald Trump]] not by physically killing him, as with JFK, but by means of [[narrative-warfare|narrative warfare]].[27] According to Flynn, carrying out a real assassination has become too difficult in the context of the present conflict, whereas using the conditions and tools of [[fifth-generation-warfare|fifth-generation warfare]] to kill someone's character is significantly more straightforward and efficient.[27]
+
+Deschamps treated the remark as a clear illustration of narrative warfare and built his January 2024 essay around it, tracing a chain of anti-Trump narratives constructed since 2016 that he argued has failed to reduce Trump's support while still serving an [[asymmetric-warfare|asymmetric]] purpose.[27]
+
 26. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history
+27. Badlands Brief — "The Hybridization of Asymmetric & Political Warfare", URL: https://badlands.substack.com/p/the-hybridization-of-asymmetric-and

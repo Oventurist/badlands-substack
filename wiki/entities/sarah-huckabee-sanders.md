@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [arkansas, governor, republican, antisemitism, israel]
-sources: [raw/badlands-news-brief-0be.md, raw/badlands-news-brief-a43.md]
+sources: [raw/badlands-news-brief-0be.md, raw/badlands-news-brief-a43.md, raw/the-midas-touch.md]
 confidence: medium
 ---
 
@@ -23,3 +23,8 @@ In September 2023, after a Maryland school reinstated an N-95 mask mandate follo
 ## References
 1. Badlands Brief — "Plan B for Israel & Ouroborosian Protests Consume Clown World", URL: https://badlands.substack.com/p/badlands-news-brief-0be
 2. Badlands Brief — "Badlands News Brief: Obama's Secrets, Blinken's Billions & GOP Posers", URL: https://badlands.substack.com/p/badlands-news-brief-a43
+3. Badlands Brief — "The Midas Touch", URL: https://badlands.substack.com/p/the-midas-touch
+
+## Arkansas Legal Tender Act
+
+On April 11, 2023, Huckabee Sanders signed the [[arkansas-legal-tender-act|Arkansas Legal Tender Act]], making gold and silver "specie" usable to pay debts within the state and exempting purchases, sales and exchanges of specie from tax liability.[3] The signing made Arkansas the fourth state — after Utah, Wyoming and Oklahoma — to give gold and silver coins legal tender status, part of what Badlands contributor [[joe-lange|Joe Lange]] describes as an accelerating movement to restore a [[gold-standard|gold standard]] and challenge the [[federal-reserve|Federal Reserve]]'s monopoly on money.[3]

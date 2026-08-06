@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [cryptography, qanon, trump, information-warfare]
-sources: [raw/kekistani-code-talkers.md, raw/pepe-the-trump-train-and-hillarys.md]
+sources: [raw/kekistani-code-talkers.md, raw/pepe-the-trump-train-and-hillarys.md, raw/the-covfefe-dig.md]
 confidence: medium
 ---
 
@@ -34,7 +34,16 @@ In the Badlands Brief article "Pepe, the Trump Train, and Hillary's Automobile,"
 
 The same framework is applied to blockchain artifacts on [[counterparty|Counterparty]]: the [[rarepepe|RAREPEPE]] and PEPETRAIN tokens are said to carry Covfefe in their series, supply and issuance data.[2] The article situates Covfefe alongside [[qanon|Q]], [[bitcoin|Bitcoin]] and [[pepe-the-frog|Pepe the Frog]] as one of the "major elements" whose interconnection the [[trump-train|Trump Train]] supposedly unlocks, and asks whether Scavino's 2016 Periscope Tweet was a clue toward discovering another cryptographic key of the same kind.[2]
 
+## The COVFEFE Dig (2023)
+
+In "The COVFEFE Dig," published by Badlands Media on 15 March 2023, [[gmoney|GMONEY]] presents an open-source intelligence analysis arguing that the covfefe Tweet encodes a plan to end central banking.[3] The article recounts that the post went viral on the morning of 31 May 2017, was retweeted more than 105,000 times, drew more than 148,000 likes, and that the hashtag #covfefe was used 1.4 million times within twenty-four hours.[3] Trump also retweeted a [[dan-scavino|Dan Scavino]] image depicting him as Nero fiddling while Rome burned, which the dig pairs with a Federal Reserve Bank of St. Louis lesson on how currency debasement contributed to the fall of the Roman Empire.[3]
+
+Two later Trump posts are cited as evidence of intent: a November 2019 reply asking "how do you know it was a 'mistweet?' May be something with deep meaning!", and a March 2020 repost of Scavino content captioned "Who knows what this means, but it sounds good to me!"[3] The first of these responded to a Daily Caller item about a racehorse named Covfefe winning.[3]
+
+The dig applies a simple A=1 substitution to produce C=3, O=15, V=22, F=6, E=5, F=6, E=5, treating "COV" as 3-15-22 and the trailing "FE FE" as 11 11.[3] Any combination of the digits 3, 1 and 5 is then read as a signal: the 5/31 posting date, [[andrew-jackson|Andrew Jackson]]'s 3/15 birthday, the [[ides-of-march|Ides of March]] as the Roman deadline for settling debts, 3 × 15 = 45 pointing to the 45th president, and 11/11 as the 315th day of the year.[3] The article identifies the essential components of the puzzle as Trump, [[qanon|Q]], [[john-f-kennedy|JFK]] and [[executive-order-11110|EO 11110]], [[pepe-the-frog|Pepe]], and [[bitcoin|Bitcoin]], culminating in the end of the central bankers.[3] It closes by warning that central bank digital currencies are coming and arguing that Bitcoin is the one available defence.[3]
+
 ## References
 
 1. Badlands Brief — "Kekistani Code Talkers", URL: https://badlands.substack.com/p/kekistani-code-talkers
 2. Badlands Brief — "Pepe, the Trump Train, and Hillary's Automobile", URL: https://badlands.substack.com/p/pepe-the-trump-train-and-hillarys
+3. Badlands Brief — "The COVFEFE Dig", URL: https://badlands.substack.com/p/the-covfefe-dig

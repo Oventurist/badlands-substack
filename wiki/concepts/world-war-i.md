@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [war, history, central-banking, debt, germany]
-sources: [raw/money-and-oil.md]
+sources: [raw/money-and-oil.md, raw/the-decade-we-all-became-slaves.md]
 confidence: low
 ---
 
@@ -20,5 +20,10 @@ Lange summarises the post-war settlement as "all the same playbook": Germany los
 
 The war is credited in the essay with the rise of a commodity that remains as valuable as gold — one for which countries willingly trade gold.[1] That commodity is [[oil|oil]], whose military and economic centrality Lange treats as the second of the two levers, alongside money, by which the world is controlled.[1]
 
+## 1914 and the banker-warlord system
+
+Badlands Media commentary states that 1914 gave the world its first global war and a war-like system that still dominates today, in which wars are used to take control of civilizations while enriching the financial backers of those wars.[2] It alleges that the same Wall Street and [[federal-reserve|Federal Reserve]] bankers have financed both sides of every major war for more than a century — including the Nazis and the Allies, the operators of WWII concentration camps, those who intentionally starved millions of Soviet Ukrainians in the 1930s, and those in charge of the killing fields in Cambodia.[2] WWI, in this framing, was the start of the perfect marriage between bankers who control the money and warlords who create wars to take over civilizations and economies.[2]
+
 ## References
 1. Badlands Brief — "Money and Oil", URL: https://badlands.substack.com/p/money-and-oil
+2. Badlands Brief — "The Decade We All Became Slaves", URL: https://badlands.substack.com/p/the-decade-we-all-became-slaves

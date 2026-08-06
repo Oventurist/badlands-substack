@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [election-integrity, dominion-voting-systems, georgia, cybersecurity]
-sources: [raw/badlands-news-brief-3bc.md, raw/previously-sealed-report-on-dominion.md]
+sources: [raw/badlands-news-brief-3bc.md, raw/previously-sealed-report-on-dominion.md, raw/the-devil-is-still-in-georgia.md]
 confidence: medium
 ---
 
@@ -33,3 +33,9 @@ Halderman observed that Georgia Secretary of State [[brad-raffensperger|Brad Raf
 ## References
 1. Badlands Brief — "Badlands News Brief: Election Fraud Starts Early While the CIA Whines", URL: https://badlands.substack.com/p/badlands-news-brief-3bc
 2. Badlands Brief — "Previously *SEALED* Report on Dominion Voting Machines in Georgia Shows Critical Vulnerabilities", URL: https://badlands.substack.com/p/previously-sealed-report-on-dominion
+
+## State inaction after unsealing
+
+The report's findings were released in June 2023 after having remained under seal since July 2021, and as of November 2023 Georgia election officials had refused to address or patch the identified vulnerabilities in advance of the 2024 election.[3] [[j-alex-halderman|Halderman]] is on record that patching would not, in any case, repair the underlying weaknesses.[3] The devices covered by the report are used statewide, including in [[fulton-county|Fulton]] and [[spalding-county|Spalding]] counties, where the [[2023-georgia-municipal-election-discrepancies|2023 municipal election discrepancies]] were reported, and they remained at issue in [[curling-v-raffensperger|*Curling et al v. Raffensperger et al*]], set for trial on January 9, 2024.[3]
+
+3. Badlands Brief — "The Devil is Still in Georgia", URL: https://badlands.substack.com/p/the-devil-is-still-in-georgia

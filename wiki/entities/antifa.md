@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [domestic-terrorism, protest, doj, texas]
-sources: [raw/badlands-brief-095.md, raw/badlands-brief-abf.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-732.md, raw/badlands-news-brief-c9a.md, raw/q-for-dummies-chapter-2.md, raw/stay-focused-on-the-big-picture.md]
+sources: [raw/badlands-brief-095.md, raw/badlands-brief-abf.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-732.md, raw/badlands-news-brief-c9a.md, raw/q-for-dummies-chapter-2.md, raw/stay-focused-on-the-big-picture.md, raw/the-deep-state-has-already-lost.md, raw/the-hybridization-of-asymmetric-and.md]
 confidence: medium
 ---
 
@@ -112,3 +112,16 @@ Badlands' "Q for Dummies" Chapter 2 reads Q drop #12 (October 30, 2017) as indic
 Badlands contributor [[erik-carlson|Erik Carlson]] wrote in October 2024 that there is strong evidence the [[chinese-communist-party|CCP]] controlled and funded the 2020 [[black-lives-matter|BLM]] and ANTIFA riots, which began in Minnesota under the governorship of [[tim-walz|Tim Walz]].[13] The claim formed part of Carlson's argument that Walz had long been a CCP-controlled asset and that his placement on the 2024 Democratic ticket was engineered.[13]
 
 13. Badlands Brief — "Stay Focused on the Big Picture", URL: https://badlands.substack.com/p/stay-focused-on-the-big-picture
+
+## The Joker films and the 2024 election
+
+In September 2024, [[erik-carlson|Erik Carlson]] read the [[joker-film-series|Joker films]] as [[predictive-programming|predictive programming]] aimed at Antifa, describing [[joaquin-phoenix|Joaquin Phoenix]]'s emaciated, emotionally disturbed lead — a character who spurs rioting and revolt among others like himself — as "the posterchild for Antifa."[14] He argued the 2019 release gave the target audience advance permission to riot at a future point, and asked whether the fall 2024 release of *Joker II*, less than a month before the election, was a second round of the same conditioning.[14]
+
+Carlson anticipated "Antifa types burning, looting and assaulting," especially in liberal-run cities, in an attempt to persuade the public that chaos was what they would face under [[donald-trump|Trump]] and what they got for voting for him.[14] He also outlined an alternative scenario in which the election passes quietly, creating a false sense of security, after which cells established in America over the preceding years are activated to commit acts of terror for several years.[14]
+
+## Ties to the Canadian Anti-Hate Network
+
+[[justin-deschamps|Justin Deschamps]] wrote that the [[canadian-anti-hate-network|Canadian Anti-Hate Network]] — funded by the [[justin-trudeau|Trudeau]] government to produce "Anti-Hate Kits" — operates in collaboration with groups like ANTIFA.[15] He reported that CAHN attempted to sue [[jonathan-kay|Jonathan]] and [[barbara-kay|Barbara Kay]] for defamation after they exposed that support, and that an Ontario judge upheld the Kays' characterization, which Deschamps said disproved CAHN's claim to independence.[15] He described ANTIFA in this context as a far-left extremist organization functioning within a hybridized [[asymmetric-warfare|asymmetric]] and [[narrative-warfare|narrative warfare]] operation.[15]
+
+14. Badlands Brief — "The Deep State Has Already Lost", URL: https://badlands.substack.com/p/the-deep-state-has-already-lost
+15. Badlands Brief — "The Hybridization of Asymmetric & Political Warfare", URL: https://badlands.substack.com/p/the-hybridization-of-asymmetric-and

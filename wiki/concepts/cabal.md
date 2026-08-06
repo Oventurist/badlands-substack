@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [conspiracy, elites, banking]
-sources: [raw/1913.md, raw/ai-can-help-us-expose-the-nwo.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-we-being-distracted.md, raw/balance-necessary-for-control.md, raw/expand-your-thinking.md, raw/money-and-oil.md, raw/power-to-the-people.md, raw/q-is-our-best-fren.md]
+sources: [raw/1913.md, raw/ai-can-help-us-expose-the-nwo.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-we-being-distracted.md, raw/balance-necessary-for-control.md, raw/expand-your-thinking.md, raw/money-and-oil.md, raw/power-to-the-people.md, raw/q-is-our-best-fren.md, raw/the-great-purge-of-the-cabal-has.md, raw/the-media-is-the-enemy-of-the-people.md, raw/the-new-marshall-plan.md]
 confidence: low
 ---
 
@@ -54,6 +54,12 @@ On this view, right-brained associative and linguistic thinking is described as 
 
 Writing in October 2022, Badlands Media contributor [[pepe-lives-matter|Pepe Lives Matter]] described the prevailing order as "the Babylon system" and cast the cabal as modern Pharaohs holding a population in a slavery it had grown comfortable with.[8] In this account the cabal's overreach was self-defeating: "the harder they push, the greater the awakening," and its blatant targeting of children was said to be "startling a sleeping giant" with a hubris unseen in the modern era.[8] The essay named [[hillary-clinton|Clinton]], [[barack-obama|Obama]] and [[george-soros|Soros]] among the high-level players it considered complicit in treason, and argued that the movement's purpose was to replace a failed political establishment and return power to the people.[8] It cited the fall of the [[georgia-guidestones|Georgia Guidestones]] — read as a monument to depopulation and slavery — and the overturning of [[roe-v-wade|Roe v. Wade]] as losses the cabal would never have permitted had it retained control, and predicted the cabal would "soon be a distant memory."[8]
 
+## Endgame and regionalization (Carlson)
+
+[[erik-carlson|Erik Carlson]] describes the ultimate end goal of what he calls the British Cabal as a one world, globalist society governed by a single government, enforced by a single military in [[nato|NATO]] and living under a single religion, which he identifies as Satanism.[12] Such a society, he writes, requires the elimination of the middle class so that the poor serve the elite and own nothing.[12] Because one cannot move directly from hundreds of sovereign nations to a [[one-world-government|one world government]], the transition proceeds in steps: as in the novel 1984, the world is broken into perpetually warring regions, with [[nafta|NAFTA]] consolidating North America and the [[european-union|European Union]] consolidating Europe.[12]
+
+Carlson holds that the [[marshall-plan|Marshall Plan]] served this project by consolidating power, creating NATO and filling offshore accounts with [[eurodollar|Eurodollars]], and that the Cabal attempted to run the same play again in Ukraine.[12] That attempt, he argues, is failing because too many people are awake, leaving the Cabal only able to shift funds offshore while the plan disintegrates.[12]
+
 ## References
 1. Badlands Brief — "1913: The Year the Cabal Enslaved America", URL: https://badlands.substack.com/p/1913
 2. Badlands Brief — "AI Can Help Us Expose the NWO", URL: https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo
@@ -80,3 +86,22 @@ Drawing on [[anthony-napoleon|Anthony Napoleon]]'s [[shadow-men|Shadow Men]], th
 The essay likens the cabal's operational mode to the [[strongyloides-stercoralis|*Strongyloides stercoralis*]] parasite, which colonises a host undetected for decades before triggering deadly complications when the immune system finally responds; in the same way the cabal is said to have infiltrated nearly all the organs of society and to be able to mount a system-wide response whenever a local branch of its network is threatened.[9] The Covid pandemic is presented as exactly such a system-wide counterstrike — originally intended as an endgame of total enslavement, repurposed against the threat posed by [[donald-trump|Donald Trump]] and an awakening public — which inadvertently exposed the cabal by showing supposedly independent governments acting in lockstep.[9] The remedy proposed is an orchestrated [[societal-immune-response|societal immune response]] that extracts the parasite without killing the patient.[9]
 
 9. Badlands Brief — "Q is Our Best Fren", URL: https://badlands.substack.com/p/q-is-our-best-fren
+
+## Control of the entertainment industry (October 2024)
+
+In "The Great Purge of the Cabal Has Begun," Badlands Media contributor [[erik-carlson|Erik Carlson]] argued that a Satanic Cabal runs the entertainment industry and that recognising this fact explains otherwise inexplicable career patterns — why talented artists never break through, and why mediocre performers sustain fame, power and influence for decades.[10] He described a standard mechanism: after a breakout role or hit record, an artist is approached by executives and offered a choice between submission and lasting success or refusal and permanent obscurity, with some choosing to degrade themselves through acts of shame or "even more horrific offenses against the innocent."[10]
+
+Carlson maintained that the same model operates in politics, where rising local politicians are offered publicity and funding sufficient to reach [[congress|Congress]] or the presidency in exchange for selling their souls.[10] He drew a distinction in enforcement: politicians require sparkling public reputations and so can be removed by character assassination, whereas entertainers "usually need to be killed," which he offered as the reason far fewer politicians than entertainers die mysteriously.[10] Where blackmail material involves evidence of child abuse, however, he wrote that no one survives public exposure.[10]
+
+The essay treated the "one-hit wonder" as an artefact of this system rather than a natural phenomenon, reasoning that creativity and talent, like intelligence, do not simply vanish after a single moment of genius.[10] Its case studies included the Canadian band [[the-tragically-hip|The Tragically Hip]] and American musician [[chris-whitley|Chris Whitley]], both said to have been shut out of American radio after strong debuts because they declined the bargain, and a series of deaths — [[kurt-cobain|Kurt Cobain]], [[jeff-buckley|Jeff Buckley]], [[chris-cornell|Chris Cornell]], [[chester-bennington|Chester Bennington]] and [[avicii|Avicii]] — presented as reprisals.[10] Carlson asserted that a red scarf used in staged hangings is the Cabal's signature, meaning "this is what happens when you turn on the Cabal."[10] Quoting comedian [[george-carlin|George Carlin]], he summarised the arrangement as a club — "and you ain't in it."[10]
+
+Carlson presented the arrest of [[sean-combs|Sean "P Diddy" Combs]] as the beginning of the end for this structure, arguing that it connects with the public in a way the [[jeffrey-epstein|Jeffrey Epstein]] case never did and that it primes the country for [[mass-arrests|mass arrests]].[10]
+
+10. Badlands Brief — "The Great Purge of the Cabal Has Begun", URL: https://badlands.substack.com/p/the-great-purge-of-the-cabal-has
+
+## Bread and circuses in the modern era (Carlson, 2024)
+
+[[erik-carlson|Erik Carlson]]'s September 17, 2024 essay describes the Cabal as still using the Roman tactic of [[bread-and-circuses|bread and circuses]]: welfare, food stamps and financial assistance calibrated to keep the poor dependent and quiescent, while the working and middle classes are absorbed by television, movies, video games, music and sports.[11] Carlson adds that modern distraction extends into manipulation and mind control, and observes that polling shows elites consume far less media than lower- and middle-income Americans.[11] He concludes that unless a reader is over a hundred years old, their entire life has been lived under Cabal media manipulation, and that Trump's hatred of [[taylor-swift|Taylor Swift]] is really hatred of "the Cabal who runs the world."[11]
+
+11. Badlands Brief — "The Media is the Enemy of the People", URL: https://badlands.substack.com/p/the-media-is-the-enemy-of-the-people
+12. Badlands Brief — "The 'New' Marshall Plan", URL: https://badlands.substack.com/p/the-new-marshall-plan

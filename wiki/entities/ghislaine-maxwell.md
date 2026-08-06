@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [epstein, trafficking, clemency]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-4ec.md, raw/badlands-brief-9ac.md, raw/badlands-brief-eea.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-4a6.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a5a.md, raw/badlands-news-brief-c0a.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-ed9.md, raw/badlands-news-brief-f6e.md, raw/george-soros-a-british-creation.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-4ec.md, raw/badlands-brief-9ac.md, raw/badlands-brief-eea.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-4a6.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a5a.md, raw/badlands-news-brief-c0a.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-ed9.md, raw/badlands-news-brief-f6e.md, raw/george-soros-a-british-creation.md, raw/the-maxwells-mossad-and-a-digital.md]
 confidence: low
 ---
 
@@ -116,3 +116,11 @@ Maxwell's transfer to a lower-security prison facility became the subject of a h
 Badlands contributor [[erik-carlson|Erik Carlson]] wrote that at the time of [[jeffrey-epstein|Jeffrey Epstein]]'s 2019 arrest most observers viewed Maxwell as his sidekick — a former girlfriend who procured underage girls for him — but that after her own arrest some, himself included, began to consider that she was in fact Epstein's handler, with the British Maxwell controlling Epstein rather than the reverse.[17] He emphasises that Maxwell is a British citizen, tying her to his thesis of a British Satanic Cabal.[17] Carlson also observes that being Jewish did not keep Epstein from being "whacked," nor Maxwell out of prison, nor her father [[robert-maxwell|Robert Maxwell]] from being murdered in 1991.[17]
 
 17. Badlands Brief — "George Soros, A British Creation", URL: https://badlands.substack.com/p/george-soros-a-british-creation
+
+## Israeli intelligence allegations (2024 feature)
+
+Ryan DeLarme's May 2024 feature argues that the most consequential aspect of Maxwell's partnership with [[jeffrey-epstein|Jeffrey Epstein]] - their alleged ties to Israeli intelligence - is routinely omitted from mainstream coverage.[18] The circulating but unverified account holds that Epstein was not the main person of interest in the alleged blackmail operation, and that he was financed by foreign entities to gather blackmail material on elected politicians, dignitaries, royalty, Hollywood influencers, Wall Street personnel and other high-profile figures.[18] The most visible connection to Israeli intelligence, the article states, runs through Maxwell's father, the media mogul [[robert-maxwell|Robert Maxwell]], whose distribution of the backdoored [[promis-software|PROMIS software]] for [[mossad|Mossad]] is presented as the family's foundational act of espionage.[18]
+
+After establishing herself in New York at her father's urging to support his efforts to extend his empire into Manhattan, Ghislaine and Epstein seemingly initiated a sexual extortion operation on behalf of Israeli intelligence.[18] She is one of seven surviving siblings, and the article notes she became involved in the post-PROMIS ventures pursued by her twin sisters [[christine-maxwell|Christine]] and [[isabel-maxwell|Isabel Maxwell]], senior figures at [[inslaw|Inslaw]], as did Epstein following his first arrest.[18]
+
+18. Badlands Brief - "The Maxwells, Mossad and a Digital Panopticon", URL: https://badlands.substack.com/p/the-maxwells-mossad-and-a-digital

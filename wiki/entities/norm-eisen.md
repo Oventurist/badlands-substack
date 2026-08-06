@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [election-law, democrats, shadow-cabal, obama-administration]
-sources: [raw/badlands-brief-029.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a9a.md, raw/badlands-news-brief-e01.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a9a.md, raw/badlands-news-brief-e01.md, raw/the-language-of-control.md]
 confidence: medium
 ---
 
@@ -43,3 +43,19 @@ Badlands contributor [[jon-herold|Jon Herold]] identified Norm Eisen as involved
 2. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
 3. Badlands Brief — "Proxy Wars & The Prevention of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a9a
 4. Badlands Brief — "Badlands News Brief: Cis-Privileged Sports & The Sum of All Sundays", URL: https://badlands.substack.com/p/badlands-news-brief-e01
+
+## "The Language of Control" (DeLarme, May 2025)
+
+In "The Language of Control," Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] presented Norm Eisen as the archetypal "rule of law" operative — a lawyer whose public respectability disguises a career spent using judicial and legal instruments to preserve establishment power.[5] DeLarme wrote that Eisen "flew beneath much of the public's radar for many years," well known in Washington but obscure to the wider public, until [[darren-beattie|Darren Beattie]] and [[mike-benz|Mike Benz]] brought his name forward and shaped much of the narrative around his "rule of law" work.[5]
+
+The article dated Eisen's public emergence to a September 2020 Revolver News piece titled "Meet Norm Eisen: Legal Hatchet Man and Central Operative in the 'Color Revolution' Against President Trump."[5] Among what DeLarme called "Eisen's greatest hits" were amplifying the Russiagate allegations; drafting ten articles of impeachment for Democrats over the Ukrainian call a month before that call took place; serving as special counsel litigating the Ukraine impeachment; and creating a template for internet censorship of populist world leaders together with a handbook for mass-mobilizing racial-justice protesters to overturn election results.[5] DeLarme identified him as one of the key figures leading the [[lawfare|lawfare]] campaign against [[donald-trump|Donald Trump]]'s second administration, citing a clip in which Eisen invokes "rule of law" and then encourages [[color-revolution|color revolution]] tactics against "autocracy" within two minutes.[5]
+
+### The Playbook and Brookings
+
+DeLarme wrote that Eisen authored a color revolution regime-change manual "conveniently titled" The Playbook, and that these techniques — perfected abroad — had been turned inward against the American public over the preceding decade.[5] Eisen is described as chairing the color revolution planning arm of the [[brookings-institution|Brookings Institution]], which published the 300-page volume Overcoming Trumpery with Eisen as editor and issues his annually updated domestic planning guide, The Democracy Playbook.[5]
+
+### Prague and the Czech "rule of law" programs
+
+Eisen served as United States Ambassador to the Czech Republic from 28 January 2011 to December 2014, residing in Prague's Petschek Palace, and claimed to have worked on several "rule of law programs" during that posting.[5] DeLarme highlighted Eisen's admission that Chief Justice [[john-roberts|John Roberts]] visited him in Prague, where the two "worked together on rule-of-law issues."[5] The conclusion drawn is that Eisen "isn't just some pro-Democrat lawyer" but a deep political operative adept at using the law to advantage, still working to preserve the old order.[5]
+
+5. Badlands Media — "The Language of Control", URL: https://badlands.substack.com/p/the-language-of-control

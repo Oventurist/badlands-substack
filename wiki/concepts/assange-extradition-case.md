@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [press-freedom, extradition, espionage-act, uk-courts, wikileaks]
-sources: [raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-ee8.md]
+sources: [raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-ee8.md, raw/the-mystery-of-julian-assange.md]
 confidence: medium
 ---
 
@@ -32,7 +32,14 @@ On February 20, 2024, lawyers for [[julian-assange|Julian Assange]] opened his f
 
 On May 20, 2024, London's High Court ruled that [[julian-assange|Julian Assange]] could appeal in his final challenge against extradition to the United States.[3] His lawyers argued that judges Victoria Sharp and Jeremy Johnson should not accept US prosecutors' assurances that Assange could rely on the protections of the US First Amendment, and that he risked discrimination as an Australian-born foreign national.[3] The judges held the US submissions insufficient and granted permission for a full appeal on the freedom-of-speech and nationality points, without setting a date for the next hearing.[3] The charges arise from [[wikileaks|WikiLeaks]]'s publication of thousands of classified documents and diplomatic cables in 2010 and 2011, and carry the prospect of life imprisonment.[3]
 
+## Reuters reporting on kidnap and murder plans (February 2024)
+
+A Reuters report dated February 20, 2024, quoted at length in the Badlands essay "The Mystery of Julian Assange," recorded defence counsel Mark Summers telling the High Court that there was evidence of a "truly breathtaking plan" to kidnap or murder Assange while he sheltered in the [[ecuadorian-embassy-in-london|Ecuadorian Embassy in London]], and that former President [[donald-trump|Donald Trump]] had asked for "detailed options" to kill him.[4] The account referred back to 2021 Yahoo News reporting that [[central-intelligence-agency|CIA]] officials had drawn up options for the Trump administration for dealing with Assange; Summers said senior CIA officials requested plans, that the president himself asked to be provided with options on how to do it, and that sketches were even drawn up.[4]
+
+The same report noted the sharply divergent sentencing estimates in the case: Assange's lawyers said he could receive as much as 175 years, and likely at least 30 to 40, while U.S. prosecutors said the sentence would be no more than 63 months.[4] If Assange won, a full appeal hearing would follow; if he lost, his only remaining option would be the [[european-court-of-human-rights|European Court of Human Rights]], to which his wife [[stella-assange|Stella Assange]] said his lawyers would apply for an injunction if necessary.[4] Assange neither appeared in court nor watched the proceedings remotely, reportedly because he was too ill.[4] Badlands contributor [[erik-carlson|Erik Carlson]] highlighted the apparent contradiction in [[tucker-carlson|Tucker Carlson]] spotlighting [[mike-pompeo|Mike Pompeo]]'s assassination planning while the same reporting attributed the request to Trump, and noted that the Trump administration had added 17 new charges against Assange.[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: The Witch Hunt Hits a Few Snags as the Landscape Shifts", URL: https://badlands.substack.com/p/badlands-news-brief-2a0
 2. Badlands Brief — "Badlands News Brief: DemoCrabs in Biden's Bucket", URL: https://badlands.substack.com/p/badlands-news-brief-845
 3. Badlands Media — "Badlands News Brief: Cohen Clown Show Continues as the Iranian Blame Game Begins", URL: https://badlands.substack.com/p/badlands-news-brief-ee8
+4. Badlands Brief — "The Mystery of Julian Assange", URL: https://badlands.substack.com/p/the-mystery-of-julian-assange

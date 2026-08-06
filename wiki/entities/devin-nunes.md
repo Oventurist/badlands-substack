@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence, trump-media, congress, oversight]
-sources: [raw/badlands-brief-7c0.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-d04.md, raw/badlands-news-brief-f0e.md, raw/do-you-believe-in-coincidences.md, raw/setting-the-stage.md, raw/the-censorship-war-counteroffensive.md]
+sources: [raw/badlands-brief-7c0.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-d04.md, raw/badlands-news-brief-f0e.md, raw/do-you-believe-in-coincidences.md, raw/setting-the-stage.md, raw/the-censorship-war-counteroffensive.md, raw/the-covfefe-dig.md]
 confidence: medium
 ---
 
@@ -57,6 +57,10 @@ The concern followed the company's Nasdaq listing in late March 2024, its flagsh
 
 Badlands Media's "Do You Believe in Coincidences?" names Nunes, alongside [[trey-gowdy|Trey Gowdy]] and [[bob-goodlatte|Bob Goodlatte]], as one of the House members to whom [[donald-trump|Donald Trump]] purposely "leaked" declassified information while they investigated the Russian collusion hoax.[8] Those inquiries are credited with introducing the American public to the claim that the Trump campaign had been spied on and framed by the Obama administration, which in turn is said to have forced the opposing party to prioritise retaking the House in the 2018 midterms in order to shut the investigations down.[8]
 
+## The COVFEFE Dig
+
+Nunes is cited in "The COVFEFE Dig" (March 2023) for a #COVFEFE post published on Truth Social on 3/15/22.[11] [[gmoney|GMONEY]] reads the post on two levels: because "covfefe" sounds like coffee, its "Good Morning" framing is natural, but "GM" is also a ubiquitous greeting in the cryptocurrency community, where thousands of users post "gm" daily.[11] The decisive detail for the author is the date, since 3/15 matches the A=1 decoding of C-O-V as 3-15-22.[11]
+
 ## References
 
 1. Badlands Brief — "Games of Chicken, Spirit Fails, & Rampant Satanism", URL: https://badlands.substack.com/p/badlands-brief-7c0
@@ -79,3 +83,4 @@ Badlands Media's "Do You Believe in Coincidences?" names Nunes, alongside [[trey
 As chief executive of [[trump-media-and-technology-group|Trump Media and Technology Group]], Nunes welcomed the February 25, 2025 federal ruling that his company and [[rumble|Rumble]] need not comply with orders from Brazilian Supreme Court Justice [[alexandre-de-moraes|Alexandre de Moraes]], calling it "a major victory for free speech and free expression online."[10] He said the decision "confirms that would-be dictators in any country can't force Trump Media or Rumble to censor their opponents," and congratulated Rumble on "its principled stand for freedom."[10] See [[rumble-and-trump-media-v-moraes|Rumble and Trump Media v. Moraes]].[10]
 
 10. Badlands Brief — "The Censorship War - Counteroffensive", URL: https://badlands.substack.com/p/the-censorship-war-counteroffensive
+11. Badlands Brief — "The COVFEFE Dig", URL: https://badlands.substack.com/p/the-covfefe-dig

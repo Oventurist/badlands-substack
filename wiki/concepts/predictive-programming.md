@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [media, propaganda, conditioning, hollywood]
-sources: [raw/a-new-hollywood.md, raw/badlands-news-brief-423.md, raw/structures-of-control-part-3.md]
+sources: [raw/a-new-hollywood.md, raw/badlands-news-brief-423.md, raw/structures-of-control-part-3.md, raw/the-deep-state-has-already-lost.md]
 confidence: medium
 ---
 
@@ -24,7 +24,12 @@ He also frames the reverse case: conditioning can be benign. The heroic films of
 
 Part 3 of Badlands Media's *Structures of Control* series lists predictive programming among the tools by which the [[deep-state|Deep State]] "weaponized the lower-dimensional planes," alongside manufactured synchronicities and AI-driven mass consciousness manipulation, to keep humanity in cycles of fear, division and programmed limitation.[3] The essay places it within a broader account of narrative control in which Hollywood storytelling and corporate news cycles craft hero-villain dichotomies that reinforce authority structures.[3]
 
+## The Joker films
+
+Carlson's September 2024 essay "The Deep State Has Already Lost" offers the [[joker-film-series|Joker films]] as his clearest case, defining predictive programming as "giving the target audience the permission to riot at a future point" — a kind of blueprint.[4] He notes the first film was released in the fall of 2019, before the Covid lockdowns and the BLM and [[antifa|Antifa]] riots, and argues it had to be released then rather than closer to the 2020 unrest because movie theaters were closed in 2020.[4] He reads [[joaquin-phoenix|Joaquin Phoenix]]'s emaciated, violent lead — a character who spurs rioting and revolt among others like himself — as the posterchild for Antifa.[4] The scheduled release of *Joker II* in the fall of 2024, less than a month before the presidential election, prompts him to ask whether Antifa-types were again being given a go-ahead to riot, disrupt the election or interfere with the transition of power.[4]
+
 ## References
 1. Badlands Brief — "A New Hollywood", URL: https://badlands.substack.com/p/a-new-hollywood
 2. Badlands Brief — "Badlands News Brief: Gheyliens, Ukrainian Nazis & Post Office Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-423
 3. Badlands Brief — "Structures of Control - Part 3", URL: https://badlands.substack.com/p/structures-of-control-part-3
+4. Badlands Brief — "The Deep State Has Already Lost", URL: https://badlands.substack.com/p/the-deep-state-has-already-lost

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [obama-administration, biden-administration, national-security, domestic-policy-council]
-sources: [raw/badlands-news-brief-26c.md, raw/infiltration-not-invasion.md]
+sources: [raw/badlands-news-brief-26c.md, raw/infiltration-not-invasion.md, raw/the-msm-melts-down-amidst-americas.md]
 confidence: low
 ---
 
@@ -28,3 +28,9 @@ In the [[badlands-news-brief|Badlands News Brief]], [[ashe-in-america|Ashe in Am
 As President [[barack-obama|Barack Obama]]'s ambassador to the United Nations and national security adviser, Rice made the rounds of all the Sunday news shows following the September 11, 2012 [[benghazi-attack|attack in Benghazi]] to push the claim that the assault was a protest that got out of hand, triggered by an [[innocence-of-muslims|online video]] besmirching the Muslim religion.[2] Badlands contributor Joe Lange argues she was clearly in the loop on events in Benghazi and questions whether she knew she was promoting a complete falsehood in the media.[2] CIA security contractor [[kris-paronto|Kris "Tanto" Paronto]], recovering in Germany, said he first heard the film blamed when he saw Rice cite it as the cause, and thought immediately that the administration was spinning the truth.[2] Lange notes that Obama dispatched his national security adviser to repeat the same story [[hillary-clinton|Hillary Clinton]] had originated, treating this as evidence the narrative was coordinated in advance rather than improvised.[2]
 
 2. Badlands Brief — "Infiltration, Not Invasion", URL: https://badlands.substack.com/p/infiltration-not-invasion
+
+## Reaction to the 2024 Washington Post non-endorsement
+
+In late October 2024, while serving as a Biden White House staffer and after previously serving as national security adviser to Barack Obama, Rice publicly attacked [[washington-post|The Washington Post]] for declining to endorse a presidential candidate.[3] Invoking the paper's masthead slogan, she wrote: "So much for 'Democracy Dies in Darkness'. This is the most hypocritical, chicken shit move from a publication that is supposed to hold people to account."[3] Badlands contributor [[ryan-delarme|Ryan DeLarme]] cited her statement as a representative example of serving government officials treating a newspaper's abstention from partisan endorsement as a betrayal, part of the wider elite reaction to the [[2024-newspaper-non-endorsements|2024 newspaper non-endorsements]].[3]
+
+3. Badlands Brief — "The MSM Melts Down Amidst America's Electoral Ineptitude", URL: https://badlands.substack.com/p/the-msm-melts-down-amidst-americas

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [bitcoin, blockchain, cryptocurrency, badlands-media]
-sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-news-brief-280.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-67e.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-d8f.md, raw/celebrating-15-years-of-indictments.md, raw/dont-bring-shiny-rocks-to-digital.md, raw/kekistani-code-talkers.md, raw/one-of-the-most-transformative-moments.md, raw/revolution-founded-at-the-crossroads.md, raw/the-banking-revolution-is-underway.md]
+sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-news-brief-280.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-67e.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-d8f.md, raw/celebrating-15-years-of-indictments.md, raw/dont-bring-shiny-rocks-to-digital.md, raw/kekistani-code-talkers.md, raw/one-of-the-most-transformative-moments.md, raw/revolution-founded-at-the-crossroads.md, raw/the-banking-revolution-is-underway.md, raw/the-covfefe-dig.md, raw/the-economy-weaponized.md]
 confidence: high
 ---
 
@@ -103,6 +103,14 @@ Badlands Media contributor [[joe-lange|Joe Lange]] described Bitcoin as a centra
 
 Within [[block-inc|Block]], Bitcoin work spans a hardware wallet, a mining business, the open-source developer effort TBD, and an independent Bitcoin-focused business called Spiral; on Twitter and Square, Lange wrote, "Bitcoin is the engine" allowing anyone on the planet to earn money for their art through NFTs.[21] Dorsey's [[web5|Web5]] proposal is built entirely on Bitcoin infrastructure, leveraging the Lightning Network to create a peer-to-peer infrastructure of personal servers that restores ownership of digital identity to users.[21]
 
+## The COVFEFE Dig
+
+In "The COVFEFE Dig" (March 2023), [[gmoney|GMONEY]] treats Bitcoin as the endpoint of the whole [[covfefe|covfefe]] puzzle — the instrument by which the central bankers' [[petrodollar|petrodollar]] system is to be ended.[22] The article recounts that the Bitcoin white paper was released on 10/31/2008, that the genesis block was created by [[satoshi-nakamoto|Satoshi Nakamoto]] on 3 January 2009 in a closed environment and released publicly via SourceForge on 9 January 2009, and that [[melania-trump|Melania Trump]] marked the thirteenth anniversary of the genesis block in a January 2022 post noting Bitcoin's market capitalisation had exceeded $1 trillion.[22]
+
+Numerological correspondences are stacked: Satoshi's stated birthday of 4/5/1975 gives 4/5, matching [[donald-trump|Trump]] as the 45th president and the "D5" reading of the fourth letter plus five; Trump is the Orange Man and Bitcoin the "orangecoin."[22] The dig also treats Bitcoin as a secure communications network — arguing that messages can be passed through it, and through [[steganography|steganography]] hidden in images such as a [[pepe-the-frog|Pepe]] — which it links to the [[covfefe-act-of-2017|COVFEFE Act of 2017]] and to [[qanon|Q]] drop 2712.[22] The [[counterparty|Counterparty]] second-layer protocol, operating through the OP_RETURN code, is cited as the mechanism by which [[rarepepe|RAREPEPE]] and the other [[rare-pepe-directory|Rare Pepe Directory]] cards were inscribed onto the chain.[22]
+
+GMONEY addresses Trump's July 2019 statement that he was "not a fan of Bitcoin," arguing that announcing the plan openly would have destroyed it.[22] The article closes with the warning that central bank digital currencies will grant authoritarians complete control and surveillance, that Bitcoin is the one shot at fighting back, and that "you can't stop BITCOIN … in fact, Nothing Can."[22]
+
 ## References
 1. Badlands Media — "Badlands Media Weekly Show Schedule", URL: https://badlands.substack.com/p/badlands-media-weekly-show-schedule-36d
 2. Badlands Brief — "Let's Talk About Hunter Biden ... and Bananas", URL: https://badlands.substack.com/p/badlands-news-brief-280
@@ -146,3 +154,10 @@ Politically, the piece noted that [[donald-trump|Donald Trump]] had spoken about
 
 20. Badlands Brief — "Revolution Founded at the Crossroads", URL: https://badlands.substack.com/p/revolution-founded-at-the-crossroads
 21. Badlands Brief — "The Banking Revolution Is Underway", URL: https://badlands.substack.com/p/the-banking-revolution-is-underway
+22. Badlands Brief — "The COVFEFE Dig", URL: https://badlands.substack.com/p/the-covfefe-dig
+
+## Bitcoin as a target of banker sabotage
+
+In his April 27, 2023 [[badlands-media|Badlands Media]] essay "The Economy: Weaponized," [[justin-deschamps|Justin Deschamps]] cited the relentless assault against citizen-led currency systems such as Bitcoin as a contemporary example of how bankers destroy monetary competition rather than compete with it.[23] Within an extended analogy about monopolizing a tomato market, he described bankers partnering with media and cultural influencers to aggrandize their own methods and brands while decrying competitors, and partnering with the mob and mafia to contract out the sabotage side of their operations — a form of corporate espionage extending well beyond the theft of trade secrets.[23] The alternative methods he listed were outright acquisition, documented by the [[pujo-committee|Pujo Committee]] of 1912–1913, and the long-term capture of the next generation so that the knowledge of monetary self-governance is lost.[23]
+
+23. Badlands Brief — "The Economy: Weaponized", URL: https://badlands.substack.com/p/the-economy-weaponized

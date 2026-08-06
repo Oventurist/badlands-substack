@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, citibank, panic-of-1837, opium, new-york, monopoly]
-sources: [raw/the-battle-for-control.md, raw/the-birth-of-americas-deep-state.md]
+sources: [raw/the-battle-for-control.md, raw/the-birth-of-americas-deep-state.md, raw/the-decade-we-all-became-slaves.md]
 confidence: medium
 ---
 
@@ -36,6 +36,11 @@ Astor died in 1848 hailed as a titan of trade and a philanthropist, but part of 
 
 In a separate Badlands article, [[matthew-ehret|Matthew Ehret]] records that after [[aaron-burr|Aaron Burr]]'s 1807 acquittal on treason charges, popular rage towards the former vice president made life within the republic impossible, and Burr used a $40,000 "gift" from Astor to make his way in disguise to Canada.[2] From there Burr's nephew George Prevost, then Governor General, supplied letters of introduction to Lord Castlereagh, and Burr sailed from Nova Scotia to London to lodge with [[jeremy-bentham|Jeremy Bentham]].[2]
 
+## Titanic and the Federal Reserve theory
+
+Badlands Media commentary names John Jacob Astor as one of three wealthy businessmen aboard the [[rms-titanic|Titanic]] in 1912 — with [[benjamin-guggenheim|Benjamin Guggenheim]] and [[isidor-straus|Isa Strauss]] — who are said to have opposed the formation of a [[federal-reserve|Federal Reserve]].[3] The article recounts the theory that the ship was sunk to eliminate their opposition and to send a message to others who spoke against the plan drawn up at the [[jekyll-island-club|Jekyll Island Club]], while presenting it explicitly as a theory.[3]
+
 ## References
 1. Badlands Brief — "The Battle for Control", URL: https://badlands.substack.com/p/the-battle-for-control
 2. Badlands Brief — "The Birth of America's Deep State", URL: https://badlands.substack.com/p/the-birth-of-americas-deep-state
+3. Badlands Brief — "The Decade We All Became Slaves", URL: https://badlands.substack.com/p/the-decade-we-all-became-slaves

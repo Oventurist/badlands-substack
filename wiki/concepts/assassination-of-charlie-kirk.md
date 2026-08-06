@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [assassination, utah, charlie-kirk, manhunt, information-war]
-sources: [raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-732.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-988.md, raw/how-to-stop-civil-war-20.md]
+sources: [raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-732.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-988.md, raw/how-to-stop-civil-war-20.md, raw/the-exploitation-of-charlie-kirk.md]
 confidence: medium
 ---
 
@@ -93,3 +93,13 @@ He cited three responses in the days after the killing as evidence of reactionar
 4. Badlands Brief — "Palestinian Promises, Venezuelan Ventures, & Kazakh Considerations", URL: https://badlands.substack.com/p/badlands-news-brief-8ce
 5. Badlands Brief — "They LOST the story. They WANT the war.", URL: https://badlands.substack.com/p/badlands-news-brief-988
 6. Badlands Brief — "How to Stop Civil War 2.0", URL: https://badlands.substack.com/p/how-to-stop-civil-war-20
+
+## Exploitation of the aftermath
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] devoted an essay, "The Exploitation of Charlie Kirk," to cataloguing the forms of exploitation he observed in the two weeks after the killing, arguing that the exploitation came from many directions at once: Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] and the State of [[israel|Israel]], leftist entertainers and organizations, the GOP, and elements within the [[donald-trump|Trump]] administration.[7] He framed the killing as a mass-trauma event, noting that video of Kirk's blood spilling from his jugular circulated from multiple angles across Twitter feeds.[7]
+
+DeLarme drew a direct parallel to the [[september-11-attacks|September 11 attacks]], writing that the emotional tactics used in 2001 to manufacture consent for the [[patriot-act|Patriot Act]], warrantless surveillance, and the wars in Iraq and Afghanistan were being redeployed in real time.[7] He catalogued post-assassination measures including the [[state-department|State Department]]'s announced revocation of visas for non-citizens whose social media posts celebrated the death; the [[pentagon|Pentagon]] tracking federal employees and service members who mocked the killing, with Defense Secretary [[pete-hegseth|Pete Hegseth]] calling such speech "unacceptable"; Attorney General [[pam-bondi|Pam Bondi]]'s pledge to target and shut down "hate speech" related to Kirk; reports that the [[white-house|White House]] was drafting an executive order to combat political violence and hate speech; more than 36 professors, teachers, and public employees fired or investigated; and Vice President [[jd-vance|JD Vance]]'s call for Americans to report critics to their employers, alongside a now-defunct doxxing site that received some 40,000 submissions.[7]
+
+Badlands writer GhostofBasedPatrickHenry was quoted arguing that Kirk "was executed in order to push The Patriot Act 2.0," and that "if we fall for it this time, we deserve to be subjugated."[7] DeLarme concluded that, given the public's unwillingness to confront what really happened on 9/11, he doubted meaningful clarity about the Kirk assassination would ever emerge.[7]
+
+7. Badlands Brief — "The Exploitation of Charlie Kirk", URL: https://badlands.substack.com/p/the-exploitation-of-charlie-kirk

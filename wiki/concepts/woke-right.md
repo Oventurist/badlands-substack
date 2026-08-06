@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ideology, politics, discourse, right-wing, media-criticism]
-sources: [raw/badlands-news-brief-a64.md]
+sources: [raw/badlands-news-brief-a64.md, raw/the-exploitation-of-charlie-kirk.md]
 confidence: medium
 ---
 
@@ -22,3 +22,9 @@ The term is itself disputed. Badlands' [[chris-paul|Chris Paul]] reacted sharply
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Black Hat Nightmares & A Camelback Caravan of Confirmation", URL: https://badlands.substack.com/p/badlands-news-brief-a64
+
+## Use as an Israel-discourse epithet
+
+In "The Exploitation of Charlie Kirk," [[ryan-delarme|Ryan DeLarme]] described "woke right" as a term used to demarcate and dehumanize anyone who does not faithfully follow the script on [[israel|Israel]].[2] He noted that [[dave-smith|Dave Smith]] and [[tucker-carlson|Tucker Carlson]] — figures with sharply different views across a wide range of topics — had both been branded with the label after criticizing the current configuration of Israeli-American relations at [[turning-point-usa|Turning Point USA]]'s July 2025 Student Action Summit and elsewhere.[2] DeLarme added that similar sentiments were common among the young men filling Turning Point's ranks, one of whom argued that calling everyone an antisemite for declining to take "a puritanical view of the Netanyahu Government" was "bad for everybody."[2]
+
+2. Badlands Brief — "The Exploitation of Charlie Kirk", URL: https://badlands.substack.com/p/the-exploitation-of-charlie-kirk

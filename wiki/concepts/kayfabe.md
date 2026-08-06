@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [narrative-warfare, trump, media, information-war]
-sources: [raw/badlands-brief-0a2.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-f1f.md, raw/badlands-news-brief-f6e.md, raw/balance-necessary-for-control.md, raw/jd-vance-sidley-austin-and-q-post.md, raw/right-the-ship.md, raw/smoke-and-mirrors.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-f1f.md, raw/badlands-news-brief-f6e.md, raw/balance-necessary-for-control.md, raw/jd-vance-sidley-austin-and-q-post.md, raw/right-the-ship.md, raw/smoke-and-mirrors.md, raw/the-fake-and-the-gaetz.md]
 confidence: medium
 ---
 
@@ -95,3 +95,9 @@ In "Smoke and Mirrors" (June 16, 2023), [[ryan-delarme|Ryan DeLarme]] used kayfa
 DeLarme nonetheless returned to the kayfabe possibility repeatedly, calling it at one point "the most logical conclusion" and later writing that it "honestly feels like the only possibility that makes sense anymore."[13] He observed that if the affair were kayfabe he could see [[donald-trump|Donald Trump]] actually being arrested as part of the production, whereas if it were real he saw no coherent outcome the Deep State could be aiming for.[13]
 
 13. Badlands Brief — "Smoke and Mirrors", URL: https://badlands.substack.com/p/smoke-and-mirrors
+
+## Application to the 2024 transition period
+
+In "The Fake and the Gaetz," [[ryan-delarme|Ryan DeLarme]] applied the concept to the interval between the 2024 election and inauguration, writing that much of what was unfolding was "a fine blend of feints, misdirection, and straight-up kayfabe."[14] He placed the [[matt-gaetz|Matt Gaetz]] attorney general nomination and the rapidly building war drama in this category, arguing that [[donald-trump|Trump]] had shown "two can play that game" against the [[deep-state|deep state]] and its press allies.[14]
+
+14. Badlands Brief — "The Fake and the Gaetz", URL: https://badlands.substack.com/p/the-fake-and-the-gaetz

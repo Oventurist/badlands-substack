@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ngo, watchdog, censorship, advertising-pressure]
-sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-b53.md, raw/badlands-news-brief-b7b.md, raw/badlands-news-brief-f0b.md, raw/from-ye-to-oy-vey.md, raw/the-anti-dissent-league.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-b53.md, raw/badlands-news-brief-b7b.md, raw/badlands-news-brief-f0b.md, raw/from-ye-to-oy-vey.md, raw/the-anti-dissent-league.md, raw/the-deep-states-attempt-to-destroy.md, raw/the-covfefe-dig.md]
 confidence: medium
 ---
 
@@ -96,6 +96,16 @@ The ADL's leverage extends beyond boycotts and character assassination to financ
 
 The article contends that the current ADL leadership has undone the work of preceding generations by trivialising the term "anti-Semitic," citing the claim that merely acknowledging George Soros risks the label while direct criticism of the right-wing Jewish donor [[sheldon-adelson|Sheldon Adelson]] draws no comparable response.[10] Visible antisemitism, it argues, is largely confined to fringe message boards such as the Daily Stormer, bot-infested comment sections, and proxy groups like [[blood-tribe|Blood Tribe]], all amplified to justify the ADL's power; it cites an [[npr|NPR]] report from 2018 that roughly 30 percent of anti-Semitic online "attacks" came from bot accounts.[10] The piece places the ADL alongside the ACLU, the NAACP, the [[human-rights-campaign|Human Rights Campaign]] and the [[southern-poverty-law-center|SPLC]] as politically weaponised institutions, and anticipates that [[media-matters|Media Matters]] would brand such criticism anti-Semitic.[10]
 
+## Musk Litigation and Advertiser Pressure (2023)
+
+By late 2023 the ADL was the target of litigation by [[elon-musk|Elon Musk]], who alleged that the organization had manipulated the [[twitter|Twitter (X)]] platform to intentionally and fraudulently generate antisemitic content there, and claimed to possess documentation of the practice.[11] Badlands Media commentary reported Musk's allegation that comparable tactics had been used against other platforms, including [[rumble]].[11] The ADL had accused Musk of permitting antisemitic messaging on the platform and, at points, of antisemitism himself.[11]
+
+Musk separately accused the ADL of "strong-arming" companies out of advertising on the platform, estimating that the organization's actions had cost Twitter roughly 60% of its advertising revenue.[11] Commentators sympathetic to Musk characterized the campaign — alongside claims of rising "hate speech" and declining user numbers following his acquisition — as an effort to prevent him from operating a free-speech platform.[11]
+
+## The COVFEFE Dig
+
+"The COVFEFE Dig" (March 2023) notes the ADL's designation of [[pepe-the-frog|Pepe the Frog]] as a hate symbol, placing it days after [[hillary-clinton|Hillary Clinton]]'s campaign posted an "explainer" attacking the meme in September 2016.[12] [[gmoney|GMONEY]] frames the designation as part of an all-out assault on Pepe that followed the minting of the first [[rarepepe|RAREPEPE]] token on 9/9/2016.[12]
+
 ## References
 
 1. Badlands Brief — "5GW Counter-Offensive - The Censorship Regime and the Road to 2024", URL: https://badlands.substack.com/p/5gw-counter-offensive-the-censorship
@@ -108,3 +118,5 @@ The article contends that the current ADL leadership has undone the work of prec
 8. Badlands Brief — "Badlands News Brief: Musk vs. the ADL, Truth Social's Future & More", URL: https://badlands.substack.com/p/badlands-news-brief-f0b
 9. Badlands Brief — "From Ye to Oy Vey!", URL: https://badlands.substack.com/p/from-ye-to-oy-vey
 10. Badlands Brief — "The Anti-Dissent League", URL: https://badlands.substack.com/p/the-anti-dissent-league
+11. Badlands Brief — "The Deep State's Attempt to Destroy Elon Musk", URL: https://badlands.substack.com/p/the-deep-states-attempt-to-destroy
+12. Badlands Brief — "The COVFEFE Dig", URL: https://badlands.substack.com/p/the-covfefe-dig

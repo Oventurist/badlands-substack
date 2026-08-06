@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [trump, putin, diplomacy, russia]
-sources: [raw/shared-interests.md]
+sources: [raw/shared-interests.md, raw/the-master-builder.md]
 confidence: low
 ---
 
@@ -26,3 +26,11 @@ Badlands Media contributor [[joe-lange|Joe Lange]] reads the Helsinki language a
 
 ## References
 1. Badlands Brief — "Shared Interests", URL: https://badlands.substack.com/p/shared-interests
+
+## "The ball is in your court" (Lange, 2023)
+
+Badlands Media's "The Master Builder" (February 2, 2023) treats the Helsinki summit of June 2018 as a symbolic turning point in what it describes as a coordinated campaign against the global central-bank debt system.[2] [[joe-lange|Joe Lange]] notes that [[donald-trump|Donald Trump]] and [[vladimir-putin|Vladimir Putin]] met privately as well as publicly at Helsinki and appeared to get along well during the press conference, and singles out the moment when Putin handed Trump a World Cup soccer ball and announced that the ball was now in Trump's court.[2] In Lange's reading, that gesture marked the point at which the ball began to roll on the takedown of the central-bank system: Putin was willing to play his part later, but needed Trump to act first.[2]
+
+The article also notes that a Daily Caller commentary by retired Lt. Col. [[tony-shaffer|Tony Shaffer]], defending Trump's pressure on [[nato|NATO]] allies to meet their defense commitments, appeared the day after the summit.[2]
+
+2. Badlands Media — "The Master Builder", URL: https://badlands.substack.com/p/the-master-builder

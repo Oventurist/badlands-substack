@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [state-department, exxonmobil, venezuela, sanctions, trump-administration, deep-state]
-sources: [raw/badlands-brief-db7.md]
+sources: [raw/badlands-brief-db7.md, raw/the-master-builder.md]
 confidence: medium
 ---
 
@@ -23,3 +23,9 @@ During Trump's first year in office, Tillerson "flexed" on [[nicolas-maduro|Nico
 ## References
 
 1. Badlands Brief — "Backpedaling Despots, Mid-East Madness, & Not So Rare Earths", URL: https://badlands.substack.com/p/badlands-brief-db7
+
+## The Hamburg interpreter incident (Lange, 2023)
+
+Badlands Media's "The Master Builder" (February 2, 2023) cites Washington Post reporting that [[donald-trump|Donald Trump]] took possession of his own interpreter's notes after a 2017 meeting with [[vladimir-putin|Vladimir Putin]] in Hamburg that Tillerson also attended, instructing the linguist not to discuss what had transpired with other administration officials.[2] U.S. officials reportedly learned of Trump's actions when a White House adviser and a senior [[state-department|State Department]] official sought information from the interpreter beyond the readout Tillerson had shared.[2] [[joe-lange|Joe Lange]] presents the episode as evidence of deliberate back-channel statecraft rather than misconduct.[2]
+
+2. Badlands Media — "The Master Builder", URL: https://badlands.substack.com/p/the-master-builder

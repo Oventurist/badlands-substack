@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, msnbc, journalism, morning-joe]
-sources: [raw/badlands-news-brief-19a.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-9c6.md]
+sources: [raw/badlands-news-brief-19a.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-9c6.md, raw/the-men-behind-the-curtain-part-2.md]
 confidence: medium
 ---
 
@@ -32,8 +32,13 @@ On July 11, 2024, Brzezinski appeared on "Morning Joe" alongside her co-host and
 
 Brzezinski and co-host [[joe-scarborough|Joe Scarborough]] met President-elect [[donald-trump|Donald Trump]] at his Florida home in November 2024 to restart communications after years of hostile coverage.[3] She said it was the first time they had seen him in seven years and described him as "cheerful, upbeat" even as the three discussed points of disagreement.[3] "What we did agree on was to restart communications," she said, likening the effort to the practice of her father, the late Zbigniew Brzezinski, national security adviser in Jimmy Carter's administration, who often spoke with world leaders he disagreed with.[3]
 
+## Family background
+
+Badlands Media's "The Men Behind the Curtain – Part 2" identifies the political commentator as the daughter of [[zbigniew-brzezinski|Zbigniew Brzezinski]], the Columbia University Russian Studies chairman who conceived the [[trilateral-commission|Trilateral Commission]] and later served as [[jimmy-carter|Jimmy Carter]]'s national security advisor.[4]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Ceasefires, Olive Branches ... and Scare Events?", URL: https://badlands.substack.com/p/badlands-news-brief-19a
 2. Badlands Brief — "Badlands News Brief: The Presser Heard Round' the World", URL: https://badlands.substack.com/p/badlands-news-brief-33b
 3. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6
+4. Badlands Brief — "The Men Behind the Curtain - Part 2", URL: https://badlands.substack.com/p/the-men-behind-the-curtain-part-2

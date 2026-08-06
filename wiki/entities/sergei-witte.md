@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, american-system, railroads, political-economy]
-sources: [raw/in-defense-of-alexander-hamilton.md, raw/shadows-sovereigns-and-civil-wars.md]
+sources: [raw/in-defense-of-alexander-hamilton.md, raw/shadows-sovereigns-and-civil-wars.md, raw/the-enduring-legacy-of-the-entente.md]
 confidence: medium
 ---
 
@@ -28,3 +28,11 @@ Witte appears in Ehret's list of world leaders outside the United States who led
 In 1905, acting on Witte's advice, Czar [[nicholas-ii|Nicholas II]] gave national support to the [[bering-strait-tunnel|Bering Strait tunnel]] and funded a team of American engineers to carry out feasibility studies.[2] The proposal followed the completion of the [[trans-siberian-railway|Trans-Siberian Railway]] between 1890 and 1905, a project that had drawn heavily on Baldwin Locomotives made in Philadelphia and on hundreds of American technicians and engineers.[2]
 
 2. Badlands Brief — "Shadows, Sovereigns and Civil Wars - Part 1", URL: https://badlands.substack.com/p/shadows-sovereigns-and-civil-wars
+
+## The Continental League
+
+As Transport Minister and close advisor to the Czar, Witte revolutionized the Russian economy with American-made trains rolling across the [[trans-siberian-railway|Trans-Siberian Railway]], applying the [[american-system|American System]] of political economy.[3] He led the effort to keep China's territory intact by forcing Japan away from territorial concessions after the Sino-Japanese war of 1894, in the same period that Russia signed a mutual defense treaty with China and joined France in creating a Russo-Chinese Bank to fund rail development from the Trans-Siberian line into China.[3]
+
+Witte named the Russian-German-French alliance for progress "The Continental League," and explained its importance to Kaiser [[wilhelm-ii|Wilhelm II]] in 1897: "we must first make all haste toward the establishment of solid united relations between Russia, Germany, and France," after which the other continental countries would join to "free Europe from the burden which she imposes on herself on account of reciprocal rivalry."[3] [[matthew-ehret|Matthew Ehret]] presents this project as the alternative order that [[edward-vii|Edward VII]] and the [[british-empire|British Empire]] destroyed through the [[entente-cordiale|Entente Cordiale]].[3]
+
+3. Badlands Brief — "The Enduring Legacy of the Entente Cordiale", URL: https://badlands.substack.com/p/the-enduring-legacy-of-the-entente

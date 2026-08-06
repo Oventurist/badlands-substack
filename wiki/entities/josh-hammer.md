@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, commentary, israel-lobby, charlie-kirk]
-sources: [raw/badlands-news-brief-060.md, raw/badlands-news-brief-d8e.md]
+sources: [raw/badlands-news-brief-060.md, raw/badlands-news-brief-d8e.md, raw/the-exploitation-of-charlie-kirk.md]
 confidence: low
 ---
 
@@ -26,3 +26,9 @@ In June 2023 Hammer, described as a writer working for [[newsweek|Newsweek]], jo
 
 1. Badlands Brief — "Badlands News Brief: Quantum Tunneling, Natural Conflicts, & Pirates for Gaza", URL: https://badlands.substack.com/p/badlands-news-brief-060
 2. Badlands Brief — "Badlands News Brief: Zelensky Rages, COVID Concedes & Soros Surrounded", URL: https://badlands.substack.com/p/badlands-news-brief-d8e
+
+## 2025 Student Action Summit debate with Dave Smith
+
+In "The Exploitation of Charlie Kirk," [[ryan-delarme|Ryan DeLarme]] noted that [[turning-point-usa|Turning Point USA]]'s July 2025 Student Action Summit hosted a debate between Hammer and libertarian comedian [[dave-smith|Dave Smith]], and that [[charlie-kirk|Charlie Kirk]] and TPUSA drew criticism for staging it.[3] DeLarme presented the debate as evidence that Turning Point had become the primary venue where the American right's fracture over U.S.-[[israel|Israel]] policy was playing out.[3]
+
+3. Badlands Brief — "The Exploitation of Charlie Kirk", URL: https://badlands.substack.com/p/the-exploitation-of-charlie-kirk

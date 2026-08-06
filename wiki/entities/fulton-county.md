@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [elections, georgia, 2020-election, fbi, litigation]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-0a2.md, raw/badlands-brief-b62.md, raw/badlands-brief-bf7.md, raw/badlands-news-brief-2e4.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-dd8.md, raw/badlands-news-brief-e31.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-0a2.md, raw/badlands-brief-b62.md, raw/badlands-brief-bf7.md, raw/badlands-news-brief-2e4.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-dd8.md, raw/badlands-news-brief-e31.md, raw/the-devil-is-still-in-georgia.md]
 confidence: medium
 ---
 
@@ -94,3 +94,11 @@ In February 2025 Fulton County refused to reveal its ballots from the 2020 elect
 [[garland-favorito|Garland Favorito]], cofounder of [[voterga|VoterGA]], which has sought access to the ballots through two pending lawsuits, said "Fulton obviously has something to hide" and that the refusal proved "there was something seriously wrong about the 2020 election in Fulton County."[10] Multiple investigations have countered allegations of widespread fraud in the county, and three vote counts showed [[donald-trump|Donald Trump]] lost Georgia to Joe Biden by about 12,000 votes.[10] Badlands commentary framed the refusal as confirmation that Trump had known all along and had offered Secretary of State [[brad-raffensperger|Brad Raffensperger]] an "out" during their well-known phone call.[10]
 
 10. Badlands News Brief — "Disagreements Among Allies & Pausing Kash for Cash", URL: https://badlands.substack.com/p/badlands-news-brief-e31
+
+## November 2023 municipal election recount and certification delay
+
+Fulton County reported multiple problems with the November 7, 2023 municipal elections, including voters in East Point and Atlanta receiving incorrect ballots and failures in East Point and South Fulton to upload voter information into the state's electronic registration system, prompting the county to announce a recount "to confirm the accuracy of the election results before election certification."[11] On the Tuesday scheduled for certification, the county delayed after three successive counts produced irreconcilable totals for advance voting ballots.[11]
+
+[[patrise-perkins-hooker|Patrise Perkins-Hooker]] of the county's "Administrative Partner" law firm [[johnson-and-freeman|Johnson & Freeman, LLC]] emailed county commissioners that a discrepancy had been discovered, that staff suspected a box of advance voting ballots had not been scanned, and that a full retabulation of advance voting ballots meant the Board of Registration and Elections could not certify at 11 a.m.[11] Sources observing the counts reported that the totals fell across the three counts — 13,705, then 13,690, then 13,330 — a decline of 375 votes from the first total, contradicting the explanation that additional unscanned ballots had been found.[11] Perkins-Hooker told [[just-the-news|Just the News]] the count was "only 300 ballots off"; the county certified late that Tuesday without publishing final numbers to its elections website.[11] As with [[spalding-county|Spalding County]], the discrepancies were confined to advance voting.[11] Commentators noted the irony that the county whose District Attorney [[fani-willis|Fani Willis]] was prosecuting [[donald-trump|Donald Trump]] and others for not trusting elections was itself unable to reconcile its counts.[11] See [[2023-georgia-municipal-election-discrepancies]].[11]
+
+11. Badlands Brief — "The Devil is Still in Georgia", URL: https://badlands.substack.com/p/the-devil-is-still-in-georgia

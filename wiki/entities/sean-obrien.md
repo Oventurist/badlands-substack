@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [labor, teamsters, 2024-election, unions]
-sources: [raw/badlands-news-brief-421.md, raw/badlands-news-brief-9cd.md, raw/badlands-news-brief-f25.md]
+sources: [raw/badlands-news-brief-421.md, raw/badlands-news-brief-9cd.md, raw/badlands-news-brief-f25.md, raw/the-immediate-benefits-of-jd-vance.md]
 confidence: medium
 ---
 
@@ -33,3 +33,11 @@ When Mullin, a former mixed martial arts fighter, said "we can finish it here," 
 1. Badlands Brief — "'Iran Iran Iran!' Is the New 'Russia Russia Russia!'", URL: https://badlands.substack.com/p/badlands-news-brief-421
 2. Badlands Brief — "Badlands News Brief: Energy Elevates Collaboration as the Senate Steals Centerstage", URL: https://badlands.substack.com/p/badlands-news-brief-9cd
 3. Badlands Brief — "Badlands News Brief: House Passes Gas & Country Refuses to Rejoice", URL: https://badlands.substack.com/p/badlands-news-brief-f25
+
+## Praise for JD Vance and the 2024 RNC appearance
+
+Hours after Donald Trump named [[jd-vance|JD Vance]] his running mate in July 2024, O'Brien appeared on Fox News to explain why the [[teamsters|Teamsters]] regarded Vance as an ally of the working class, pointing to his cosponsorship of legislation addressing the outsourcing of critical airline maintenance to China, his support for paid sick leave for railroad workers, and his stance against employers using the independent contractor DSP model to skirt obligations.[4] He added that having a U.S. Marine on a national ticket was itself a welcome development.[4]
+
+The next day O'Brien became the first Teamsters president to speak at a Republican National Convention, telling delegates that Trump was "unafraid to hear from new, loud and often critical voices" and was "making lasting inroads with union leaders and broadening the Republican tent in a historic way."[4] Badlands Media described the appearance as jeopardizing decades of the union's Democratic support and as an unexpected dividend of the Vance selection.[4]
+
+4. Badlands Media — "The Immediate Benefits of JD Vance as Trump's VP", URL: https://badlands.substack.com/p/the-immediate-benefits-of-jd-vance

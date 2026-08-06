@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [world-economic-forum, great-reset, globalism]
-sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-f4c.md, raw/combating-the-transhumanist-religion.md, raw/is-the-censorship-war-over.md, raw/soul-governance.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-f4c.md, raw/combating-the-transhumanist-religion.md, raw/is-the-censorship-war-over.md, raw/soul-governance.md, raw/the-men-behind-the-curtain-part-3.md]
 confidence: low
 ---
 
@@ -87,3 +87,17 @@ His announced successor was [[peter-brabeck-letmathe|Peter Brabeck-Letmathe]], t
 
 12. Badlands Brief — "Is the Censorship War Over?", URL: https://badlands.substack.com/p/is-the-censorship-war-over
 13. Badlands Brief — "Soul Governance", URL: https://badlands.substack.com/p/soul-governance
+
+## Biography, family history and the founding of the WEF
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] describes Schwab as the owner, chairman and creator of the [[world-economic-forum|World Economic Forum]], a man who has been called "the most dangerous man in the world."[14] Billed as a German engineer and economist, he earned a doctorate in engineering from the Swiss Federal Institute of Technology in Zurich, a doctorate in economics from the University of Fribourg, and a Master of Public Administration from the John F. Kennedy School of Government at [[harvard-university|Harvard University]].[14] DeLarme portrays him as an instantly recognizable figure with a permanent scowl and the voice of a cartoon supervillain, and quotes Schwab's own self-assessment: "I'm not a marketing man in my own right, but - if you like - an antisocial figure."[14] Journalist Jurgen Dunsch has said that "Schwab is not a buddy type. He rarely laughs."[14]
+
+His father, [[eugen-schwab|Eugen Schwab]], managed the [[escher-wyss|Escher-Wyss]] factory in Ravensburg in the 1930s and was the town's largest employer; the Nazi party awarded the branch the title of "National Socialist Model Company" while he was at the helm, and the plant used forced labor and produced components for the German war effort, including work connected to the Nazi atom-bomb project.[14]
+
+Schwab founded the European Management Forum in 1971, inviting 450 executives from Western European firms to the first European Management Symposium at the Davos Congress Centre under the patronage of the [[european-commission|European Commission]], and renamed the body the World Economic Forum in 1987.[14] DeLarme argues that the conventional, Wikipedia-derived account omits the decisive American element: while attending Harvard in the 1960s Schwab became close to then-professor and [[council-on-foreign-relations|Council on Foreign Relations]] member [[henry-kissinger|Henry Kissinger]], who guided him thereafter and was as instrumental in creating the Forum as Schwab himself.[14] Kissinger is said to have recruited Schwab at Harvard's International Seminar, a program funded by the [[central-intelligence-agency|CIA]], and to have introduced him to [[john-kenneth-galbraith|John Kenneth Galbraith]] and [[herman-kahn|Herman Kahn]], the other two men DeLarme names as true progenitors of the Davos group.[14]
+
+## Later agendas
+
+In 1973 Schwab invited [[club-of-rome|Club of Rome]] founder [[aurelio-peccei|Aurelio Peccei]], author of *[[limits-to-growth|The Limits to Growth]]*, to give the keynote at that year's meeting — a risqué public relations strategy that DeLarme says paid dividends and seeded the language of "sustainability" and "population control" now standard at Davos.[14] In the decades that followed Schwab came to resemble less a technocrat than a herald of [[transhumanism|transhumanism]], having been vocal about his intention to fuse physical, digital and biological identity with future technology, with [[yuval-noah-harari|Yuval Noah Harari]] serving as his advisor on the subject.[14] DeLarme lists the [[esg|ESG]] score, the "net-zero" emissions push, the [[metaverse|Metaverse]] bet on [[mark-zuckerberg|Mark Zuckerberg]]'s venture, and [[central-bank-digital-currency|central bank digital currencies]] as the fruits of this long-term planning, and predicts that patriotic populations will ultimately resist globalist rule.[14]
+
+14. Badlands Brief — "The Men Behind the Curtain - Part 3", URL: https://badlands.substack.com/p/the-men-behind-the-curtain-part-3

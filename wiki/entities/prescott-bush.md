@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [bush-family, infiltration, neoconservatives, banking]
-sources: [raw/president-trumps-call-to-arms.md, raw/real-patriots-dont-think-like-hitler-196.md]
+sources: [raw/president-trumps-call-to-arms.md, raw/real-patriots-dont-think-like-hitler-196.md, raw/the-men-behind-the-curtain-part-8.md]
 confidence: low
 ---
 
@@ -25,3 +25,10 @@ Acting as a director of [[brown-brothers-harriman|Brown Brothers Harriman]], Bus
 ## References
 1. Badlands Brief — "President Trump's Call to Arms", URL: https://badlands.substack.com/p/president-trumps-call-to-arms
 2. Badlands Brief — "Real Patriots Don't Think Like Hitler – Part 2: How Western Bankers Created the Nazis", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-196
+3. Badlands Brief — "The Men Behind the Curtain - Part 8", URL: https://badlands.substack.com/p/the-men-behind-the-curtain-part-8
+
+## Skull and Bones and the Union Banking seizure
+
+"The Men Behind the Curtain - Part 8" lists Prescott Bush (Yale class of 1917) among the most notable members of [[skull-and-bones|Skull and Bones]], describing him as an investment banker and partner in [[brown-brothers-harriman|Brown Brothers Harriman]], United States Senator from Connecticut, and father of [[george-hw-bush|George Herbert Walker Bush]].[3] Four Bonesmen from the 1917 cell, Bush among them, served as directors of Brown Brothers Harriman, and in 1932 the [[union-banking-corporation|Union Banking Corporation]] of New York enlisted four directors from that cell together with two Nazi bankers associated with [[fritz-thyssen|Fritz Thyssen]], who had been financing [[adolf-hitler|Hitler]] since 1924.[3]
+
+Quoting *George Bush: The Unauthorized Biography*, the article recounts that Alien Property Custodian [[leo-t-crowley|Leo T. Crowley]] signed Vesting Order Number 248 on 17 November 1942, seizing Bush's property under the Trading with the Enemy Act; the order was published in obscure record books and kept out of the news, explaining only that Union Banking was run for the "Thyssen family" of "Germany and/or Hungary."[3] By ruling that Bush and his fellow directors were legally "front men for the Nazis," the government avoided the larger question of how Hitler's Nazis had themselves been hired, armed and instructed by the New York and London clique of which Bush was an executive manager.[3] After the war Bush became a U.S. Senator and a favorite golfing partner of President [[dwight-eisenhower|Eisenhower]], claiming responsibility for bringing [[richard-nixon|Richard Nixon]] into politics and taking personal credit for installing him as Eisenhower's running mate in 1952.[3]

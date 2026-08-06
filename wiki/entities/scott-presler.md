@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [election-integrity, voter-registration, republican-party, save-america-act, pennsylvania]
-sources: [raw/badlands-brief-f62.md, raw/badlands-news-brief-119.md]
+sources: [raw/badlands-brief-f62.md, raw/badlands-news-brief-119.md, raw/the-devil-is-still-in-georgia.md]
 confidence: medium
 ---
 
@@ -33,3 +33,9 @@ Following [[ronna-mcdaniel|Ronna McDaniel]]'s February 2024 announcement that sh
 ## References
 1. Badlands Brief — "Sovereign Signals, Israeli Subversion, and the SAVE America Ultimatum", URL: https://badlands.substack.com/p/badlands-brief-f62
 2. Badlands News Brief — "Trump Responds, a Banker Dies & a Ukrainian Tells the Truth", URL: https://badlands.substack.com/p/badlands-news-brief-119
+
+## Criticism over early-voting advocacy (2023)
+
+Presler's promotion of early voting to Republican voters drew criticism from within the election-integrity movement after the November 2023 Georgia municipal elections.[3] Writing for [[badlands-media|Badlands Media]], [[ashe-in-america|Ashe in America]] noted that the hand-count variances in [[spalding-county|Spalding County]] and the irreconcilable tabulations in [[fulton-county|Fulton County]] arose exclusively from advance (early) voting rather than Election Day or absentee ballots — an outcome she argued "should generate heartburn" for Presler and others on the right pushing early voting.[3] See [[2023-georgia-municipal-election-discrepancies]].[3]
+
+3. Badlands Brief — "The Devil is Still in Georgia", URL: https://badlands.substack.com/p/the-devil-is-still-in-georgia

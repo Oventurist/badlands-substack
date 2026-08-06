@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [january-6, justice-department, prosecutions, pardons]
-sources: [raw/badlands-news-brief-25f.md, raw/badlands-news-brief-505.md]
+sources: [raw/badlands-news-brief-25f.md, raw/badlands-news-brief-505.md, raw/the-president-that-never-was.md]
 confidence: medium
 ---
 
@@ -31,3 +31,10 @@ A substantial share of the January 6 prosecutions rested on the obstruction-of-a
 ## References
 1. Badlands Brief — "Badlands News Brief: City States, Sabotage, & Soliloquies On Sanctions", URL: https://badlands.substack.com/p/badlands-news-brief-25f
 2. Badlands Media — "Badlands News Brief: The Biden Crime Family Begins to Unravel ...", URL: https://badlands.substack.com/p/badlands-news-brief-505
+
+
+## Invoked in the 2024 Biden campaign
+
+During his January 2024 [[biden-valley-forge-speech|Valley Forge campaign speech]], [[joe-biden|Joe Biden]] cited the prosecutions as an accomplishment, stating that more than 1,200 people had been charged with assault in the Capitol, that nearly 900 had been convicted or pleaded guilty, and that collectively they had been sentenced to more than 840 years in prison — remarks that drew cheers from the crowd.[3] He contrasted this with [[donald-trump|Donald Trump]]'s description of the defendants as patriots and his promise to pardon them.[3] [[ryan-delarme|Ryan DeLarme]] responded that the vast majority of those convicted and imprisoned in connection with January 6 were not even alleged to have engaged in violence, that no protester wielded a weapon inside the Capitol, and that the only shot fired that day was by a [[united-states-capitol-police|Capitol Police]] officer who killed [[ashli-babbitt|Ashli Babbitt]].[3]
+
+3. Badlands Brief — "The President That Never Was", URL: https://badlands.substack.com/p/the-president-that-never-was

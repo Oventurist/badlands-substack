@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [plutocrats, philanthropy, canada, green-agenda]
-sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8f3.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a6e.md, raw/badlands-news-brief-d36.md, raw/badlands-news-brief-d68.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-e86.md, raw/badlands-news-brief-f44.md, raw/badlands-news-brief-fde.md, raw/get-woke-go-broke.md, raw/george-soros-shadow-network.md, raw/george-soros-a-british-creation.md, raw/is-the-censorship-war-over.md, raw/power-to-the-people.md, raw/q-for-dummies-chapter-12.md, raw/q-for-dummies-chapter-1.md, raw/q-for-dummies-chapter-19.md, raw/q-for-dummies-chapter-2.md, raw/q-for-dummies-chapter-5.md, raw/q-for-dummies-chapter-3.md, raw/stuck-in-a-groove-of-negativity-and.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8f3.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a6e.md, raw/badlands-news-brief-d36.md, raw/badlands-news-brief-d68.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-e86.md, raw/badlands-news-brief-f44.md, raw/badlands-news-brief-fde.md, raw/get-woke-go-broke.md, raw/george-soros-shadow-network.md, raw/george-soros-a-british-creation.md, raw/is-the-censorship-war-over.md, raw/power-to-the-people.md, raw/q-for-dummies-chapter-12.md, raw/q-for-dummies-chapter-1.md, raw/q-for-dummies-chapter-19.md, raw/q-for-dummies-chapter-2.md, raw/q-for-dummies-chapter-5.md, raw/q-for-dummies-chapter-3.md, raw/stuck-in-a-groove-of-negativity-and.md, raw/the-master-builder.md, raw/the-inversion-of-health.md]
 confidence: low
 ---
 
@@ -264,3 +264,17 @@ Chapter 5 of [[q-for-dummies|Q for Dummies]] notes that Q drop #36 of November 2
 ## China's denunciation as evidence of a shift
 
 In "Stuck in a Groove of Negativity and Hopelessness" (May 4, 2023), [[erik-carlson|Erik Carlson]] cited a report that China had declared Soros a "global terrorist" and called him "the son of Satan."[37] Carlson presented the denunciation as "pretty good evidence that things are happening behind the scenes," using it to support his broader argument that the [[deep-state|Deep State]] was fragmenting rather than consolidating its power after 2021.[37]
+
+## 2019 World Economic Forum attack on Xi (Lange, 2023)
+
+In "The Master Builder" (February 2, 2023), [[joe-lange|Joe Lange]] cited BBC coverage of Soros's remarks at the 2019 [[world-economic-forum|World Economic Forum]] in Davos, where Soros said that "China is not the only authoritarian regime in the world but it is the wealthiest, strongest and technologically most advanced," and concluded that "this makes [[xi-jinping|Xi Jinping]] the most dangerous opponent of open societies."[38] Soros, described by the BBC as a prominent donor to the Democratic Party, also criticized the Trump administration's China policy, arguing that instead of waging a trade war with practically the whole world the United States should focus on China.[38]
+
+Lange read the speech as evidence of panic, arguing that Soros was simultaneously attacking [[xi-jinping|Xi]], [[vladimir-putin|Putin]] and [[donald-trump|Trump]] at the moment Trump was negotiating a trade deal with Beijing.[38] The article connects Soros's hostility to Xi's [[anti-corruption-campaign-in-china|anti-corruption campaign]], suggesting that some of the purged officials were tied to Soros and his network of nongovernmental organizations, and noting Foreign Policy's observation that NGOs and online speech expanded under [[hu-jintao|Hu Jintao]].[38]
+
+38. Badlands Media — "The Master Builder", URL: https://badlands.substack.com/p/the-master-builder
+
+## Place in the Rockefeller philanthropic lineage
+
+In "The Inversion of Health," [[ryan-delarme|Ryan DeLarme]] observes that [[john-d-rockefeller|John D. Rockefeller]] is credited with creating the structure of modern philanthropy that men like [[bill-gates|Bill Gates]] and George Soros employ today, and disputes the accompanying claim that such figures have worked diligently to benefit all mankind.[39]
+
+39. Badlands Brief — "The Inversion of Health", URL: https://badlands.substack.com/p/the-inversion-of-health

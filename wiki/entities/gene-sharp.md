@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [nonviolent-action, regime-change, cia, cold-war, color-revolution]
-sources: [raw/how-to-rent-a-riot-the-history-of.md, raw/is-the-censorship-war-over.md]
+sources: [raw/how-to-rent-a-riot-the-history-of.md, raw/is-the-censorship-war-over.md, raw/the-language-of-control.md]
 confidence: medium
 ---
 
@@ -48,3 +48,15 @@ The [[arab-spring|Arab Spring]] is characterized as one of Sharp's "greatest hit
 Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] cited the "Gene Sharp color revolution playbook" — with the Arab Spring given as the reference case — in arguing that the pro-Palestine campus protests of 2024 and 2025 were not organic but a domestic application of established regime-change methodology.[2] He wrote that NGOs including [[jewish-voice-for-peace|Jewish Voice for Peace]], funded through tax-exempt vehicles such as [[george-soros|George Soros]]' [[open-society-foundations|Open Society Foundations]], the [[tides-foundation|Tides Foundation]] and the [[rockefeller-brothers-fund|Rockefeller Brothers Fund]], were building a "rent-a-riot mob" for future use rather than seeking to halt events in Palestine.[2]
 
 2. Badlands Brief — "Is the Censorship War Over?", URL: https://badlands.substack.com/p/is-the-censorship-war-over
+
+## Gene Sharp in "The Language of Control" (2025)
+
+Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] presented Gene Sharp as the intellectual forerunner of the modern lawfare-and-protest apparatus, writing that "long before the advent of [[norm-eisen|Norm Eisen]], there was a man named Gene Sharp," sometimes called the "Guru of nonviolent resistance."[3] Sharp is identified as the author of The Politics of Nonviolent Action and is frequently credited as one of the masterminds behind the [[arab-spring|Arab Spring]].[3]
+
+Quoting a biographical account, the article described Sharp — the "Machiavelli of nonviolence" — as "the most influential American political figure you've never heard of," an intellectual giant of nonviolent protest movements who died in January 2018 after writing more than twenty books on nonviolent action and social movements.[3] His how-to pamphlet [[from-dictatorship-to-democracy|From Dictatorship to Democracy]] has been translated into more than thirty languages, is cited by protest movements worldwide, and his ideas have been used by nearly every major American protest movement of the last forty years.[3] He was praised by progressive figures including Howard Zinn and Noam Chomsky, nominated four times for the Nobel Peace Prize, and cast as a friend of the left.[3]
+
+The passage DeLarme emphasized argues Sharp is better understood as one of the most important U.S. defense intellectuals of the Cold War — an early neoliberal theorist preoccupied with the supposed inherent violence of the "centralized State" and a counselor to anti-communist forces in the socialist world from the 1980s onward.[3] In the mid-1960s the Nobel-winning nuclear theorist [[thomas-schelling|Thomas Schelling]] recruited the 29-year-old Sharp to Harvard's Center for International Affairs, described as the "CIA at Harvard" and led by [[henry-kissinger|Henry Kissinger]], future National Security Advisor McGeorge Bundy and future [[cia|CIA]] chief Robert Bowie.[3] Sharp held the appointment for thirty years, developing with Department of Defense funding his core theory of nonviolent action: a method of warfare capable of collapsing states through theatrical social movements designed to dissolve the common will that supports governments, without a shot being fired.[3] From that post he urged U.S. and NATO defense leadership to deploy his methods against the Soviet Union.[3]
+
+DeLarme concluded that these were cloak-and-dagger tools perfected abroad which, over the previous ten years, had been turned inward against a largely unwitting American public.[3]
+
+3. Badlands Media — "The Language of Control", URL: https://badlands.substack.com/p/the-language-of-control

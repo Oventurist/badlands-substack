@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, philanthropy, wall-street, investigations]
-sources: [raw/badlands-brief-169.md, raw/badlands-brief-6f4.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-276.md, raw/energy-consolidation.md, raw/structures-of-control-part-3.md]
+sources: [raw/badlands-brief-169.md, raw/badlands-brief-6f4.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-276.md, raw/energy-consolidation.md, raw/structures-of-control-part-3.md, raw/the-harvard-control-grid.md, raw/the-ivy-web.md]
 confidence: medium
 ---
 
@@ -45,6 +45,10 @@ Carlson connected these appointments to the subsequent flow of public money to F
 
 Part 3 of Badlands Media's *Structures of Control* series names Goldman Sachs as one of the financial "supernodes" it credits with orchestrating the [[2008-financial-crisis|2008 financial crisis]], arguing the episode showed how such networks consolidate power under the guise of stability.[7] The claim is offered as an instance of the [[deep-state|Deep State]]'s broader pattern of manufacturing crises to justify centralized solutions.[7]
 
+## Harvard ties
+
+"The Harvard Control Grid" reports that former Harvard president [[drew-gilpin-faust|Drew Gilpin Faust]] was placed on Goldman Sachs's board after her presidency, "bringing Harvard's presidential seal into direct partnership with one of the most powerful banks in the world."[8] It notes that Goldman's then-CEO [[lloyd-blankfein|Lloyd Blankfein]], himself a Harvard alumnus, called the relationship "symbiotic."[8] The article folds "Goldman market strategy" into what it describes as the globalist operating layer surrounding the [[harvard-management-company|Harvard Management Company]].[8]
+
 ## References
 1. Badlands Brief — "Condemnation, Calibration, & Constitutional Boxes", URL: https://badlands.substack.com/p/badlands-brief-169
 2. Badlands Brief — "Illegal Psychological Warfare Campaigns & Misprision of Treason", URL: https://badlands.substack.com/p/badlands-brief-6f4
@@ -53,3 +57,10 @@ Part 3 of Badlands Media's *Structures of Control* series names Goldman Sachs as
 5. Badlands Media — "Badlands News Brief: Fauci, Trudeau and the Bidens Under the Microscope", URL: https://badlands.substack.com/p/badlands-news-brief-276
 6. Badlands Brief — "Energy Consolidation", URL: https://badlands.substack.com/p/energy-consolidation
 7. Badlands Brief — "Structures of Control - Part 3", URL: https://badlands.substack.com/p/structures-of-control-part-3
+8. Badlands Brief — "The Harvard Control Grid", URL: https://badlands.substack.com/p/the-harvard-control-grid
+
+## Harvard ties in "The Ivy Web"
+
+"The Ivy Web" lists Goldman Sachs among the institutions to which former and current [[harvard-management-company|Harvard Management Company]] board members had ties as of 2024, alongside [[morgan-stanley|Morgan Stanley]], [[blackstone|Blackstone]], [[kkr|KKR]], the [[council-on-foreign-relations|Council on Foreign Relations]] and the [[trilateral-commission|Trilateral Commission]].[9] The article also cites January 2024 reporting that Goldman Sachs and [[blackrock|BlackRock]] mirrored Harvard's liquidation of illiquid holdings, which it interprets as evidence of a coordinated institutional exit.[9]
+
+9. Badlands Brief — "The Ivy Web", URL: https://badlands.substack.com/p/the-ivy-web

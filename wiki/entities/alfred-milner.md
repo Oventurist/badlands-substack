@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [british-empire, round-table, bolsheviks, deep-state]
-sources: [raw/henry-kissinger-british-cabal-puppet.md, raw/shadows-sovereigns-and-civil-wars.md]
+sources: [raw/henry-kissinger-british-cabal-puppet.md, raw/shadows-sovereigns-and-civil-wars.md, raw/the-deep-state-empire-strikes-back.md]
 confidence: low
 ---
 
@@ -22,10 +22,17 @@ Carlson further recounted that [[cecil-rhodes|Cecil Rhodes]] left his entire est
 
 Carlson drew a direct line from Milner's Round Table project to the modern [[five-eyes|Five Eyes]] intelligence-sharing arrangement among Britain and its former colonies.[1]
 
-## References
-1. Badlands Brief — "Henry Kissinger: British Cabal Puppet", URL: https://badlands.substack.com/p/henry-kissinger-british-cabal-puppet
-2. Badlands Brief — "Shadows, Sovereigns and Civil Wars - Part 1", URL: https://badlands.substack.com/p/shadows-sovereigns-and-civil-wars
+## Canada and the 1911 sabotage of Laurier
+
+Badlands contributor Matthew Ehret credits Milner with continuing the [[round-table-movement|Round Table]] network after [[cecil-rhodes|Cecil Rhodes]]' death, alongside Philip Kerr, George Parkin, Leo Amery and Lionel Curtis, and with birthing in 1920 both [[chatham-house|Chatham House]] in London and the [[council-on-foreign-relations|Council on Foreign Relations]] in the United States.[3]
+
+In 1909 Milner warned his fellow conspirators that the real danger to British power was not Canadian nationalism but Canadian union with the United States, writing that Canadians "are wonderfully immature in political reflection on the big issues, and hardly realise how powerful the influences are."[3] To forestall that outcome the network cultivated a synthetic Canadian nationalism, loudly "not-American" yet quietly subordinate to London.[3] Prime Minister [[wilfrid-laurier|Wilfrid Laurier]]'s dream of a North American customs union built on industrial cooperation and protective tariffs was sabotaged in 1911 by Milner's forces; a soft coup removed Laurier and Canada was dragged into World War I as a pawn of British interests.[3]
 
 ## Financing of the Russian Revolution
 
 Historian Arsene de Goulevitch, who experienced the events of 1917 firsthand, wrote in 1962 that "in private interviews, I have been told that over 21 million rubles were spent by Lord Alfred Milner in financing the Russian Revolution," adding that the financier was by no means alone among the British in supporting the revolution with large financial donations.[2] Milner is grouped with [[jacob-schiff|Jacob Schiff]] and [[paul-warburg|Paul Warburg]] as backers who always intended [[leon-trotsky|Leon Trotsky]] to lead the movement that would take control over the dead bodies of the Romanovs.[2]
+
+## References
+1. Badlands Brief — "Henry Kissinger: British Cabal Puppet", URL: https://badlands.substack.com/p/henry-kissinger-british-cabal-puppet
+2. Badlands Brief — "Shadows, Sovereigns and Civil Wars - Part 1", URL: https://badlands.substack.com/p/shadows-sovereigns-and-civil-wars
+3. Badlands Brief — "The Deep State Empire Strikes Back", URL: https://badlands.substack.com/p/the-deep-state-empire-strikes-back

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ngo, litigation, immigration, civil-rights]
-sources: [raw/badlands-news-brief-065.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-da3.md]
+sources: [raw/badlands-news-brief-065.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-da3.md, raw/the-language-of-control.md]
 confidence: medium
 ---
 
@@ -41,3 +41,11 @@ In June 2023 the ACLU drew widespread mockery and scorn after complaining that F
 2. Badlands Brief — "Badlands News Brief: Robot Runners, Prisoner Swaps, & Control of Crimea", URL: https://badlands.substack.com/p/badlands-news-brief-471
 3. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
 4. Badlands Brief — "Biden Baffles, Kennedy Debates & Pride Falls", URL: https://badlands.substack.com/p/badlands-news-brief-da3
+
+## The "firewall for freedom" (2024–2025)
+
+In "The Language of Control," Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] characterized the ACLU as an NGO "deeply tied to the college of deep political institutions" and accused it of working to undermine the democratic process after the 2024 election.[5] His evidence was a December 2024 appearance by executive director [[anthony-romero|Anthony Romero]] on [[rachel-maddow|Rachel Maddow]]'s [[msnbc|MSNBC]] program, in which Romero described a plan called a "firewall for freedom" enlisting state attorneys general, governors, mayors and city councils to withhold police, jail and logistical cooperation from federal immigration enforcement.[5] Romero added that the organization was preparing executive orders and "organizing our folks to put pressure on these elected officials."[5]
+
+DeLarme read the segment as legal expertise deployed in tandem with [[color-revolution|color revolution]] tactics to block [[donald-trump|Donald Trump]] from carrying out mass deportations, a policy he described as overwhelmingly endorsed by voters.[5] He also noted Romero's earlier career at the [[rockefeller-foundation|Rockefeller Foundation]] and the [[ford-foundation|Ford Foundation]], and grouped him with [[marc-elias|Marc Elias]] and [[david-brock|David Brock]] as lawyers fitting the mold of a [[rule-of-law|"rule of law"]] operative.[5]
+
+5. Badlands Media — "The Language of Control", URL: https://badlands.substack.com/p/the-language-of-control

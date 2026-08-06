@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [music-industry, sex-trafficking, blackmail, homeland-security, celebrity]
-sources: [raw/badlands-news-brief-158.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-d50.md, raw/child-sacrifice-as-a-pillar-of-deep.md, raw/from-ye-to-oy-vey.md]
+sources: [raw/badlands-news-brief-158.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-d50.md, raw/child-sacrifice-as-a-pillar-of-deep.md, raw/from-ye-to-oy-vey.md, raw/the-great-purge-of-the-cabal-has.md]
 confidence: medium
 ---
 
@@ -150,6 +150,14 @@ He then sought a face-to-face meeting with West, which the essay's author interp
 
 The essay noted that on November 16, 2023, a former girlfriend filed a lawsuit against Combs alleging sex trafficking, rape and long-term sexual abuse, with further similar allegations emerging shortly afterward, and drew a connection between those accusations and what the author described as [[deep-state|Deep State]] Cabal patterns.[19]
 
+## Arrest as the start of a wider purge
+
+An October 2024 Badlands Media essay by [[erik-carlson|Erik Carlson]] argued that the Combs arrest is "not simply a distraction" but "the beginning of the end for the Cabal," predicting that widely recognized names would be implicated and in many cases arrested.[20] Carlson contended that the case reaches ordinary Americans in a way the [[jeffrey-epstein|Jeffrey Epstein]] and [[ghislaine-maxwell|Ghislaine Maxwell]] prosecutions never did, recalling that his teenage son reported Combs had become "a giant meme" at school over the quantity of baby oil the [[fbi|FBI]] seized from his home — whereas no high schooler discussed Epstein in 2019.[20]
+
+The essay stated that celebrities alleged to have taken part in the [[cabal|Cabal]]'s rituals were panicking and distancing themselves: [[kevin-hart|Kevin Hart]] closed four vegan restaurants he co-owned with Combs, celebrities scrubbed social media accounts, and music executives resigned.[20] It relayed a rumor, attributed to [[50-cent|50 Cent]], that [[ben-affleck|Ben Affleck]] left [[jennifer-lopez|Jennifer Lopez]] over her involvement in Combs's parties, noting the March 25, 2024 FBI raid and the couple's August 20, 2024 divorce filing five months later.[20] Radio host [[howard-stern|Howard Stern]], said to have been photographed at one of Combs's "all white" parties, was cited as another figure whose conduct shifted after the arrest.[20]
+
+Carlson emphasized that attendees of Combs's "freak off" and "all white" parties included CEOs and politicians as well as entertainers, so that the case would "take down many outside of the entertainment industry as well."[20] He listed the Obamas, [[kamala-harris|Kamala Harris]], and [[oprah-winfrey|Oprah Winfrey]] among those he claimed had ties to Combs, and speculated that Combs may have turned state's witness.[20] The arrest is framed as "the priming of the pump" for [[mass-arrests|mass arrests]], with the [[southern-district-of-new-york|Southern District of New York]] identified as the likely venue and the recent arrest of [[eric-adams|Eric Adams]] as an early sign.[20] Carlson also noted the timing: the arrest came the day after the [[2024-trump-golf-course-assassination-attempt|assassination attempt on Donald Trump at his golf course]], itself shortly after Trump posted "I HATE TAYLOR SWIFT," and roughly six weeks before the 2024 election.[20]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Middle Eastern Powder Kegs & Crisis Cascades Abound", URL: https://badlands.substack.com/p/badlands-news-brief-158
 2. Badlands Media — "Badlands News Brief: It's a Big Club. And It's Going Down.", URL: https://badlands.substack.com/p/badlands-news-brief-189
@@ -170,3 +178,4 @@ The essay noted that on November 16, 2023, a former girlfriend filed a lawsuit a
 17. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50
 18. Badlands Brief — "Child Sacrifice as a Pillar of Deep State Control", URL: https://badlands.substack.com/p/child-sacrifice-as-a-pillar-of-deep
 19. Badlands Brief — "From Ye to Oy Vey!", URL: https://badlands.substack.com/p/from-ye-to-oy-vey
+20. Badlands Brief — "The Great Purge of the Cabal Has Begun", URL: https://badlands.substack.com/p/the-great-purge-of-the-cabal-has

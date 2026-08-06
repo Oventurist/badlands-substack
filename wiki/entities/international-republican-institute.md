@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ngos, democracy-promotion, regime-change, bangladesh]
-sources: [raw/badlands-news-brief-b4d.md, raw/infiltration-not-invasion.md, raw/how-to-rent-a-riot-the-plausible.md, raw/how-to-rent-a-riot-the-history-of.md]
+sources: [raw/badlands-news-brief-b4d.md, raw/infiltration-not-invasion.md, raw/how-to-rent-a-riot-the-plausible.md, raw/how-to-rent-a-riot-the-history-of.md, raw/the-information-imperium.md, raw/the-ongoing-betrayal-of-the-gop.md]
 confidence: medium
 ---
 
@@ -47,3 +47,17 @@ The follow-up article in the same series identifies the IRI as one of the Republ
 A 2011 New York Times investigation cited by Badlands found that participants in the [[arab-spring|Arab Spring]], including Egypt's April 6 Youth Movement, the Bahrain Center for Human Rights and Yemeni youth leader Entsar Qadhi, received training and financing from the IRI, the [[national-democratic-institute|National Democratic Institute]] and [[freedom-house|Freedom House]].[4] The IRI was likewise among the U.S. organizations sponsored by [[usaid|USAID]] and NED during Ukraine's [[orange-revolution|Orange Revolution]].[4] Contributor [[ryan-delarme|Ryan DeLarme]] summarizes the institute as "the CIA's right-wing NGO," a major node in the NATO/CIA/Pentagon proxy network.[4]
 
 4. Badlands Media — "How to Rent a Riot - The History of 'Nonviolence'", URL: https://badlands.substack.com/p/how-to-rent-a-riot-the-history-of
+
+## Role in the information imperium
+
+The IRI is described in Badlands Media's "The Information Imperium" as one of the [[national-endowment-for-democracy|National Endowment for Democracy]]'s four core grantees, working in tandem with the [[national-democratic-institute|National Democratic Institute]].[5] The article says the two institutes coached the 2004 [[orange-revolution|Orange Revolution]] in Ukraine while [[internews|Internews]] shaped the accompanying media environment, and that at home they have groomed party operatives on both sides of the aisle.[5] The [[department-of-government-efficiency|Department of Government Efficiency]]'s February 2025 freeze on NED disbursements cut IRI staffing by about two-thirds.[5]
+
+5. Badlands Brief — "The Information Imperium", URL: https://badlands.substack.com/p/the-information-imperium
+
+## McCain's chairmanship and the GOP funding fight (2025)
+
+Badlands Media describes the IRI as the [[national-endowment-for-democracy|NED]]'s Republican arm — that is, the channel of [[cia|CIA]] influence over the Republican Party.[6] Senator [[john-mccain|John McCain]] ran the institute for 25 years, and the article identifies the "John McCain wing" of the GOP, together with Chamber-of-Commerce Republicans drawn into the IRI and [[center-for-international-private-enterprise|CIPE]] web, as unwilling to relinquish a weapon that serves their interests.[6] Those politicians and affiliated companies are said to rely on the NED apparatus to create markets, secure favorable foreign legislation and regulation, harvest natural resources and win contracts.[6]
+
+The IRI is also one of the three founding members, alongside the [[national-democratic-institute|National Democratic Institute]] and the [[international-foundation-for-electoral-systems|International Foundation for Electoral Systems]], of the 1995 [[consortium-for-elections-and-political-process-strengthening|Consortium for Elections and Political Process Strengthening]], a USAID-funded joint venture later linked to global counter-disinformation and censorship programming.[6]
+
+6. Badlands Brief — "The Ongoing Betrayal of the GOP", URL: https://badlands.substack.com/p/the-ongoing-betrayal-of-the-gop

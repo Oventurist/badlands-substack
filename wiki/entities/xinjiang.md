@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [china, xinjiang, development, belt-and-road, minorities]
-sources: [raw/avoiding-wwiii.md]
+sources: [raw/avoiding-wwiii.md, raw/the-ivy-web.md]
 confidence: low
 ---
 
@@ -22,3 +22,9 @@ A high-speed line running from Lanzhou to Urumqi totals 1,776 km and runs parall
 
 ## References
 1. Badlands Brief — "Avoiding WWIII", URL: https://badlands.substack.com/p/avoiding-wwiii
+
+## Harvard and the XPCC
+
+Badlands Media's "The Ivy Web" focuses on the [[xinjiang-production-and-construction-corps|Xinjiang Production and Construction Corps]], a paramilitary corporate entity sanctioned by the United States in 2020 for its role in the Uyghur genocide in the region.[2] The article reports that [[harvard-university|Harvard University]] trained XPCC officials as late as October 2023, and notes that the [[uyghur-forced-labor-prevention-act|Uyghur Forced Labor Prevention Act]] of 2022 explicitly bans dealings with the XPCC and other entities tied to human rights abuses in Xinjiang.[2]
+
+2. Badlands Brief — "The Ivy Web", URL: https://badlands.substack.com/p/the-ivy-web

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [censorship, twitter, intelligence-agencies, disclosure]
-sources: [raw/a-cancer-on-modern-journalism.md, raw/anthony-fauci.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-862.md, raw/badlands-news-brief-d5d.md]
+sources: [raw/a-cancer-on-modern-journalism.md, raw/anthony-fauci.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-862.md, raw/badlands-news-brief-d5d.md, raw/the-men-behind-the-curtain-part-2.md]
 confidence: low
 ---
 
@@ -38,6 +38,10 @@ In May 2023 The DisInformation Chronicle published Twitter Files material report
 
 One account she pushed to ban, @fearthefloof, had researched her background and family connections before being removed.[6] Badlands contributor [[justin-deschamps|Justin Deschamps]] argued the disclosures showed manipulation "far more insidious and pervasive than we ever imagined," and that platforms' deliberately vague content rules prevent any objective, repeatable standard for who is banned.[6]
 
+## Trilateral antecedents
+
+Badlands Media's "The Men Behind the Curtain – Part 2" suggests that the [[trilateral-commission|Trilateral Commission]] "may very well have laid the groundwork for the union between Big Tech and the intelligence community that the Twitter Files are exposing today."[8] The article also connects the two threads through James Baker IV, son of [[ronald-reagan|Reagan]] chief of staff James A. Baker III: the younger Baker figured in the Trump-era Russiagate scandal and was later the lawyer fired by Elon Musk after the Twitter Files were released.[8]
+
 ## References
 1. Badlands Brief — "A Cancer on Modern Journalism", URL: https://badlands.substack.com/p/a-cancer-on-modern-journalism
 2. Badlands Brief — "Anthony Fauci", URL: https://badlands.substack.com/p/anthony-fauci
@@ -51,3 +55,4 @@ One account she pushed to ban, @fearthefloof, had researched her background and 
 During [[christopher-wray|Christopher Wray]]'s [[2023-wray-house-judiciary-testimony|July 2023 House Judiciary testimony]], Badlands commentary argued that the Twitter Files — together with the judge's preliminary findings in [[missouri-v-biden|Missouri v. Biden]] — made provably false Wray's statement that the [[fbi|FBI]] was not engaged in censorship or content suppression.[7]
 
 7. Badlands Brief — "Wray Flayed, Zelensky Zapped & Trump Targeted", URL: https://badlands.substack.com/p/badlands-news-brief-d5d
+8. Badlands Brief — "The Men Behind the Curtain - Part 2", URL: https://badlands.substack.com/p/the-men-behind-the-curtain-part-2

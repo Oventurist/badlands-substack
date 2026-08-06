@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [social-media, trump, platform]
-sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-625.md, raw/badlands-brief-774.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-df8.md, raw/badlands-news-brief-f0e.md, raw/control-through-language.md, raw/has-trumps-whole-life-been-a-sting.md, raw/power-to-the-people.md, raw/project-trump-card.md, raw/the-censorship-war-counteroffensive.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-625.md, raw/badlands-brief-774.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-df8.md, raw/badlands-news-brief-f0e.md, raw/control-through-language.md, raw/has-trumps-whole-life-been-a-sting.md, raw/power-to-the-people.md, raw/project-trump-card.md, raw/the-censorship-war-counteroffensive.md, raw/the-digital-services-act.md, raw/the-media-is-the-enemy-of-the-people.md]
 confidence: low
 ---
 
@@ -113,3 +113,17 @@ On December 14, 2022, [[donald-trump|Donald Trump]] used Truth Social to release
 Truth Social's cloud services are provided by [[rumble|Rumble]], a dependency that [[trump-media-and-technology-group|Trump Media]] cited as the legal foundation for joining Rumble's February 2025 federal lawsuit against Brazilian Supreme Court Justice [[alexandre-de-moraes|Alexandre de Moraes]]: interference with Rumble, its lawyers argued, would necessarily undermine Truth Social.[16] The complaint asked the court to bar [[apple|Apple]] and [[google|Google]] from removing Truth Social or Rumble from their app stores at Moraes's instruction.[16] See [[rumble-and-trump-media-v-moraes|Rumble and Trump Media v. Moraes]].[16]
 
 16. Badlands Brief — "The Censorship War - Counteroffensive", URL: https://badlands.substack.com/p/the-censorship-war-counteroffensive
+
+## Position outside the Digital Services Act (2023)
+
+Badlands contributor [[erik-carlson|Erik Carlson]] argued in September 2023 that Truth Social's small size placed it outside the initial scope of the [[european-union|EU]]'s [[digital-services-act|Digital Services Act]], which applied first to platforms reaching at least 10 percent of Europeans — roughly 45 million users — before extending to all companies on February 17, 2024.[17] Three days after DSA regulation of large platforms took effect, [[donald-trump|Donald Trump]] wrote in all caps that "I believe Truth Social is the greatest & 'hottest' form, system & platform of communication in America, & indeed the world, today," a statement Carlson interpreted as a deliberate signal.[17]
+
+Carlson acknowledged that Truth Social was at the time an echo chamber with limited reach and a bot and troll problem, but predicted it would play a major role during an anticipated communications blackout.[17] He emphasized that Truth Social and [[rumble|Rumble]] operate their own cloud platform, meaning that if [[x-corp|X]] and [[amazon|Amazon]] were pressured into removing dissenting voices — the latter potentially expelling them from [[amazon-web-services|AWS]] — the two would remain outside the [[deep-state|Deep State]]'s reach.[17] He also noted that Truth Social had been in the works since at least November 18, 2011, five years before Trump became president, which he took as evidence of long-range planning.[17]
+
+17. Badlands Brief — "The Digital Services Act", URL: https://badlands.substack.com/p/the-digital-services-act
+
+## The "I HATE TAYLOR SWIFT" post (September 2024)
+
+Trump's all-capitals post "I HATE TAYLOR SWIFT!" on Truth Social, published shortly before the second assassination attempt against him in 2024, became the framing device for [[erik-carlson|Erik Carlson]]'s September 17, 2024 Badlands Media essay on media control.[18] Carlson read the post as deliberate misdirection aimed at the system behind [[taylor-swift|Taylor Swift]] rather than at the singer.[18]
+
+18. Badlands Brief — "The Media is the Enemy of the People", URL: https://badlands.substack.com/p/the-media-is-the-enemy-of-the-people

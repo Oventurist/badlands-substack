@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fema, dhs, disaster-response, federal-agency, gregg-phillips]
-sources: [raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-b78.md, raw/badlands-news-brief-cb6.md, raw/badlands-news-brief-ddb.md, raw/badlands-news-brief-fe4.md]
+sources: [raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-b78.md, raw/badlands-news-brief-cb6.md, raw/badlands-news-brief-ddb.md, raw/badlands-news-brief-fe4.md, raw/the-men-behind-the-curtain-part-2.md]
 confidence: medium
 ---
 
@@ -60,6 +60,12 @@ Badlands commentary observed that new stories of FEMA failing at its core missio
 
 In February 2025 the [[department-of-homeland-security|Department of Homeland Security]] told Fox News that "four employees are being fired today for circumventing leadership and unilaterally making the egregious payment for hotels for migrants in New York City."[9] The dismissals followed a post by [[elon-musk|Elon Musk]] on X stating that the [[department-of-government-efficiency|DOGE]] team had discovered FEMA sent $59 million the previous week to luxury hotels in New York City to house illegal migrants.[9] DHS said the firings included FEMA's chief financial officer, two program analysts and a grant specialist, and that under President [[donald-trump|Trump]] and Secretary [[kristi-noem|Noem]]'s leadership the department would "not sit idly and allow deep state activists to undermine the will and safety of the American people."[9] Musk said the money was meant for American disaster relief rather than "high end hotels for illegals" and that a clawback demand would be made to recoup the funds.[9] Badlands commentary singled out the episode as a rare public instance of the government disciplining insubordination — an order was given, defied, and the responsible parties immediately terminated.[9]
 
+## Trilateral Commission origins
+
+Badlands Media's "The Men Behind the Curtain – Part 2" traces FEMA's creation to the [[trilateral-commission|Trilateral Commission]].[12] The Commission's 1975 Triangle Paper *[[the-crisis-of-democracy|The Crisis of Democracy]]*, written by [[samuel-p-huntington|Samuel P. Huntington]], argued that democratic institutions could not act promptly against crises and that leaders with "expertise, seniority, experience, and special talents" were needed to "override the claims of democracy."[12] Huntington was subsequently named coordinator of security planning for [[jimmy-carter|Jimmy Carter]]'s National Security Council, where he prepared Presidential Review Memorandum 32, which led to the 1979 presidential order creating FEMA.[12]
+
+The article describes the resulting agency as a civilian organization with the power to take totalitarian control of government functions in the event of a national "emergency," and cites the five-year path from commission paper to federal agency as evidence of how quickly Trilateralist proposals became policy.[12] It also notes FEMA's standing as a storied organization in conspiracy circles.[12]
+
 ## References
 
 1. Badlands News Brief — "Weed Wins, Globalist Whisking, & Lizard-Led Impeachments", URL: https://badlands.substack.com/p/badlands-news-brief-0ef
@@ -86,3 +92,4 @@ On February 10, 2025, [[elon-musk|Elon Musk]] threatened to claw back $59 millio
 
 10. Badlands Brief — "Badlands News Brief: Capricious Ceasefires & Reunited Spy Chiefs", URL: https://badlands.substack.com/p/badlands-news-brief-ddb
 11. Badlands Brief — "Badlands News Brief: International Dealmaking & Collectible Pennies", URL: https://badlands.substack.com/p/badlands-news-brief-fe4
+12. Badlands Brief — "The Men Behind the Curtain - Part 2", URL: https://badlands.substack.com/p/the-men-behind-the-curtain-part-2

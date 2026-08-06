@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [education, protests, israel-hamas-war, campus-activism]
-sources: [raw/badlands-news-brief-08a.md, raw/badlands-news-brief-0d4.md, raw/badlands-news-brief-a72.md, raw/scholars-and-spooks.md]
+sources: [raw/badlands-news-brief-08a.md, raw/badlands-news-brief-0d4.md, raw/badlands-news-brief-a72.md, raw/scholars-and-spooks.md, raw/the-ivy-dominion.md, raw/the-men-behind-the-curtain-part-2.md]
 confidence: medium
 ---
 
@@ -40,8 +40,22 @@ In the 1960s, Columbia's School of International Affairs — now the School of I
 
 Columbia is also the academic home of [[jeffrey-sachs|Jeffrey Sachs]], director of its Center for Sustainable Development.[4]
 
+## Role in the Ivy Dominion thesis
+
+The Badlands Media essay "The Ivy Dominion" designates Columbia the media nerve center and "syndicate of narrative" of an alleged [[ivy-league|Ivy League]] control network, claiming that narrative manufacturing and psychological conditioning are trained and deployed there through partnerships with outlets including the [[new-york-times|New York Times]] and CNN and with operatives descended from [[operation-mockingbird|Mockingbird]]-legacy programs.[5] Its journalism school and media studies arms are said to produce "the ideological enforcers of the global media," with [[george-soros|Soros]]-backed initiatives and [[open-society-foundations|Open Society]] projects finding fertile ground on campus.[5]
+
+The article adds the [[philolexian-society|Philolexian Society]] to the journalism school as the pairing through which Columbia "embeds media control," together producing "the gatekeepers of acceptable narrative."[5] It traces a recursive loop from Columbia to the New York Times, from the Times to global wire services and back into intelligence-funded NGOs, describing the university as "a narrative override hub — global in scope, weaponized in strategy."[5] Columbia is further characterized as an ideological transmission node spanning the Cold War to contemporary identity programming, and as the training ground for reporters at the Times, the Washington Post and global NGOs.[5]
+
+In the essay's collapse narrative, Columbia is described as struggling with fallout from its ties to Chinese military research and as having quietly begun decommissioning long-standing exchange partnerships and unwinding foreign-tied research hubs.[5]
+
+## Brzezinski and the origins of trilateralism
+
+Badlands Media's "The Men Behind the Curtain – Part 2" notes that [[zbigniew-brzezinski|Zbigniew Brzezinski]] was head of Columbia University's Russian Studies Department when he originated the idea for the [[trilateral-commission|Trilateral Commission]].[6] Researchers Anthony C. Sutton and Patrick M. Wood described him in *Trilaterals Over Washington* as "a brilliant prognosticator of one-world idealism" who "has been a professor at Columbia University and the author of several books that have served as 'policy guidelines' for the CFR."[6]
+
 ## References
 1. Badlands News Brief — "The Communist Ouroboros Accelerates", raw/badlands-news-brief-08a.md
 2. Badlands Brief — "Badlands News Brief: Kangaroo Courts and Administrative Pedophiles", URL: https://badlands.substack.com/p/badlands-news-brief-0d4
 3. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72
 4. Badlands Brief — "Scholars and Spooks", URL: https://badlands.substack.com/p/scholars-and-spooks
+5. Badlands Brief — "The Ivy Dominion", URL: https://badlands.substack.com/p/the-ivy-dominion
+6. Badlands Brief — "The Men Behind the Curtain - Part 2", URL: https://badlands.substack.com/p/the-men-behind-the-curtain-part-2

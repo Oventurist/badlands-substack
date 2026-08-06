@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [taxation, trump, income-tax, policy, 2024-election]
-sources: [raw/a-week-to-remember.md, raw/are-we-being-distracted.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-a9a.md]
+sources: [raw/a-week-to-remember.md, raw/are-we-being-distracted.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-a9a.md, raw/the-deep-state-has-already-lost.md]
 confidence: medium
 ---
 
@@ -47,3 +47,10 @@ Badlands contributor [[burning-bright|Burning Bright]] responded that "all taxat
 2. Badlands Brief — "Are We Being Distracted?", URL: https://badlands.substack.com/p/are-we-being-distracted
 3. Badlands Brief — "Badlands News Brief: Trump and Elon Break the Internet", URL: https://badlands.substack.com/p/badlands-news-brief-109
 4. Badlands Brief — "Proxy Wars & The Prevention of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a9a
+5. Badlands Brief — "The Deep State Has Already Lost", URL: https://badlands.substack.com/p/the-deep-state-has-already-lost
+
+## As a shot across the bow (Carlson, September 2024)
+
+[[erik-carlson|Erik Carlson]] cited his own early writing on tax-free tips as a case of accurate prediction, noting he had covered the issue a month and a half before it was on anyone else's radar.[5] His argument was that [[donald-trump|Trump]]'s emphasis on tax-free tips was a shot across the bow to the [[deep-state|Deep State]], signalling that he would dismantle the entire financial system on returning to office and eliminate income tax altogether.[5]
+
+Carlson observed that since Trump first began talking about tax-free tips, [[joe-biden|Biden]] had announced he would not run again, an assassination attempt had been made on Trump's life, and [[robert-f-kennedy-jr|RFK Jr.]] had endorsed Trump.[5] He also noted that [[kamala-harris|Kamala Harris]] had begun talking about tax-free tips herself, backtracking on everything she had done to ensure such income was taxed more heavily.[5]

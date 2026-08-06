@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, mainstream-media, cable-news]
-sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-169.md, raw/badlands-brief-c2d.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-001.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-f39.md, raw/badlands-news-brief-f18.md, raw/badlands-news-brief-f94.md, raw/badlands-news-brief-fcb.md, raw/hysteria-and-error.md, raw/poisoning-the-well.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-169.md, raw/badlands-brief-c2d.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-001.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-f39.md, raw/badlands-news-brief-f18.md, raw/badlands-news-brief-f94.md, raw/badlands-news-brief-fcb.md, raw/hysteria-and-error.md, raw/poisoning-the-well.md, raw/the-exploitation-of-charlie-kirk.md, raw/the-media-is-the-enemy-of-the-people.md]
 confidence: medium
 ---
 
@@ -180,3 +180,15 @@ DeLarme further wrote that on January 1, hours after the attack, Louisiana attor
 In his January 26, 2024 [[badlands-media|Badlands Media]] essay "Poisoning the Well," [[erik-carlson|Erik Carlson]] cited Fox News, together with [[alex-jones|Alex Jones]], as a possible example of [[controlled-opposition|controlled opposition]] — a source that appears to oppose the prevailing narrative while being managed by the same interests that produce it.[28] Carlson's operative test was proportion and omission: such an outlet may broadcast roughly 80% truth while pushing 20% lies, or may report accurately on most matters while staying silent on the subjects it is paid not to raise, and may at a future date be "activated to turn on the people who trust them."[28]
 
 28. Badlands Brief — "Poisoning the Well", URL: https://badlands.substack.com/p/poisoning-the-well
+
+## Platforming Netanyahu after the Kirk assassination (September 2025)
+
+In "The Exploitation of Charlie Kirk," [[ryan-delarme|Ryan DeLarme]] wrote that Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] went on Fox News — a network whose audience DeLarme described as particularly susceptible to Netanyahu's brand of emotional appeal — to graft himself and his goals onto the memory of [[charlie-kirk|Charlie Kirk]].[29] The segment was led by [[harris-faulkner|Harris Faulkner]], and DeLarme criticized it for the absence of probing questions or pushback.[29] He noted the irony that Fox News, the network that most fueled support for the [[war-on-terror|War on Terror]], had also given [[condoleezza-rice|Condoleezza Rice]] a platform to discuss war crimes following Russia's invasion of Ukraine.[29]
+
+29. Badlands Brief — "The Exploitation of Charlie Kirk", URL: https://badlands.substack.com/p/the-exploitation-of-charlie-kirk
+
+## Cited as a non-business media outlet (Carlson, 2024)
+
+[[erik-carlson|Erik Carlson]]'s September 17, 2024 essay pointedly includes Fox News — "and even FOX News" — among the outlets that keep broadcasting what he calls disinformation while their ratings fall, which he offers as evidence of external subsidy rather than market discipline.[30]
+
+30. Badlands Brief — "The Media is the Enemy of the People", URL: https://badlands.substack.com/p/the-media-is-the-enemy-of-the-people

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, asset-management, media-ownership]
-sources: [raw/a-swan-song-for-the-msm.md, raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-c74.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-f4c.md, raw/blackrock-inc-and-the-vanguard-group.md, raw/dont-bring-shiny-rocks-to-digital.md, raw/get-woke-go-broke.md, raw/no-honor-among-thieves.md, raw/open-borders-finally-make-sense.md, raw/spear-of-justice.md, raw/stay-focused-on-the-big-picture.md, raw/soul-governance.md, raw/super-computers-in-the-info-war.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-c74.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-f4c.md, raw/blackrock-inc-and-the-vanguard-group.md, raw/dont-bring-shiny-rocks-to-digital.md, raw/get-woke-go-broke.md, raw/no-honor-among-thieves.md, raw/open-borders-finally-make-sense.md, raw/spear-of-justice.md, raw/stay-focused-on-the-big-picture.md, raw/soul-governance.md, raw/super-computers-in-the-info-war.md, raw/the-deep-state-has-already-lost.md, raw/the-covfefe-dig.md, raw/the-harvard-control-grid.md, raw/the-ivy-dominion.md, raw/the-ivy-web.md]
 confidence: medium
 ---
 
@@ -77,6 +77,14 @@ An August 2025 Badlands Media essay described [[esg|ESG]] investing, anchored by
 
 The Badlands Media essay [[soul-governance|Soul Governance]] asserts that "BlackRock funded the social liturgies," placing the asset manager within a quasi-religious framing in which [[harvard-university|Harvard]] trained enforcers and [[klaus-schwab|Klaus Schwab]] preached the gospel of stakeholder governance.[17] The essay associates this apparatus with [[esg|ESG]], which it calls the tithing system of a digital church centered on the [[world-economic-forum|World Economic Forum]].[17]
 
+## The COVFEFE Dig
+
+"The COVFEFE Dig" (March 2023) identifies BlackRock as the firm the [[federal-reserve|Federal Reserve]] hired during the 2020 COVID interventions to purchase securities and to handle the administration of the special purpose vehicles on behalf of their owner, the [[us-department-of-the-treasury|Treasury]].[20] [[gmoney|GMONEY]] presents this arrangement as part of a broader nationalization of large swaths of US financial markets funded by the Fed.[20]
+
+## Role in the Harvard control grid narrative
+
+"The Harvard Control Grid" argues that the neutralization of the large asset managers preceded Harvard's decline: once [[white-hats|White Hats]] "flipped BlackRock, Vanguard, and State Street, the funding arteries that kept Harvard's control grid alive began to hemorrhage."[21] The article cites [[larry-fink|Larry Fink]]'s retreat from ESG and DEI as evidence, and names BlackRock among the "financial controllers" whose seizure or neutralization it says exposed the dynastic overlaps behind the [[harvard-management-company|Harvard Management Company]].[21]
+
 ## References
 
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
@@ -136,3 +144,27 @@ In an April 12, 2023 essay, [[erik-carlson|Erik Carlson]] returned to BlackRock 
 Carlson emphasised that BlackRock has existed only since the late 1980s and yet overtook the blue-blood investment firms and asset collectors in about thirty years — growth he considered explicable for a technology company but not for an asset owner.[18] He attributed the ascent to the [[aladdin|Aladdin]] system, built on a supercomputer the firm constructed in the 1990s in [[wenatchee-washington|Wenatchee, Washington]], and argued that a firm able to predict future outcomes with high accuracy does not need to obey conventional investment logic.[18]
 
 18. Badlands Brief — "Super Computers in the Info War", URL: https://badlands.substack.com/p/super-computers-in-the-info-war
+
+## Residential buying spree and the rent thesis (September 2024)
+
+Returning to the theme in September 2024, [[erik-carlson|Erik Carlson]] wrote that a few years earlier BlackRock had gone around America buying up residential properties to rent out, doing so at a time when the housing market could be considered over-valued.[19] In hindsight he believed the firm was privy to information allowing it to know interest rates would skyrocket within a year or two, at which point people would no longer be able to afford to buy a home — meaning BlackRock could raise rents with no recourse available to renters.[19] He linked the strategy directly to the slogan "You will own nothing and be happy."[19]
+
+Carlson raised the possibility that the arrangement could backfire, suggesting it would be poetic justice if BlackRock-owned houses were trashed by tenants who could no longer pay the rent — an image he used as the entry point to his larger argument about the [[deep-state|Deep State]] destroying what it must vacate.[19]
+
+19. Badlands Brief — "The Deep State Has Already Lost", URL: https://badlands.substack.com/p/the-deep-state-has-already-lost
+20. Badlands Brief — "The COVFEFE Dig", URL: https://badlands.substack.com/p/the-covfefe-dig
+21. Badlands Brief — "The Harvard Control Grid", URL: https://badlands.substack.com/p/the-harvard-control-grid
+
+## Cited in the Ivy Dominion essay
+
+The June 2025 essay "The Ivy Dominion" places BlackRock at the center of the alleged financial architecture of the [[ivy-dominion|Ivy Dominion]], describing [[ivy-league|Ivy League]] endowments as interlocked with BlackRock, [[vanguard|Vanguard]] and [[state-street|State Street]] portfolios and as acting as "anchor clients" for BlackRock and State Street investment vehicles.[22] It says BlackRock holds large stakes in education-aligned portfolios and that all three managers feed back into policy bodies such as the [[council-on-foreign-relations|Council on Foreign Relations]], the [[brookings-institution|Brookings Institution]], the [[trilateral-commission|Trilateral Commission]] and the [[group-of-thirty|Group of Thirty]].[22]
+
+The article further claims the [[wharton-school|Wharton School]] and the fraternity [[zeta-psi|Zeta Psi]] serve as staging grounds for BlackRock-trained executives later embedded in ESG compliance, central bank digital currency strategy and [[world-economic-forum|World Economic Forum]] think tanks, citing CEO [[larry-fink|Larry Fink]]'s Penn ties.[22] In its collapse narrative, BlackRock is described as having altered its credit and ESG disclosure structures, erased ESG language and rewritten DEI-linked credit clauses — a movement the author frames as retreat rather than innovation.[22]
+
+22. Badlands Brief — "The Ivy Dominion", URL: https://badlands.substack.com/p/the-ivy-dominion
+
+## The Ivy Web liquidation cascade
+
+Badlands Media's "The Ivy Web" cites January 2024 Business Insider reporting that [[harvard-university|Harvard]]'s sale of illiquid private equity holdings was mirrored by major institutional partners including [[goldman-sachs|Goldman Sachs]] and BlackRock itself.[23] The article treats these as a coordinated exit rather than isolated decisions, arguing that they signalled a fundamental shift in the financial and ideological infrastructure beneath the Ivy League.[23]
+
+23. Badlands Brief — "The Ivy Web", URL: https://badlands.substack.com/p/the-ivy-web

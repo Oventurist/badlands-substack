@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republican, maryland, house-freedom-caucus]
-sources: [raw/badlands-brief-fd9.md]
+sources: [raw/badlands-brief-fd9.md, raw/the-overdrive-timeline.md]
 confidence: medium
 ---
 
@@ -21,3 +21,9 @@ The rebels' demands ranged from a promised vote on the House-passed immigration 
 ## References
 
 1. Badlands Brief — "Bicameral Courts, Congressional Creeps & Curious Cartels", URL: https://badlands.substack.com/p/badlands-brief-fd9
+
+## January 2023 speakership concessions
+
+Harris, a physician, continued to serve on the [[house-appropriations-committee|Appropriations]] panel after the [[january-2023-mccarthy-concessions|January 2023 McCarthy concessions]] and became chairman of the Agriculture, Rural Development, Food and Drug Administration subcommittee.[2]
+
+2. Badlands Brief — "The Overdrive Timeline", URL: https://badlands.substack.com/p/the-overdrive-timeline

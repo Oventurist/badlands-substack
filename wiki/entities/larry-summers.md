@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [epstein, treasury, economics, democratic-party]
-sources: [raw/badlands-news-brief-321.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-97e.md]
+sources: [raw/badlands-news-brief-321.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-97e.md, raw/the-harvard-control-grid.md]
 confidence: medium
 ---
 
@@ -30,7 +30,12 @@ On November 17, 2025, Summers announced plans to step back from public commitmen
 
 Treasury Secretary [[scott-bessent|Scott Bessent]] invoked Summers on Meet the Press in May 2025 while dismissing the [[moodys|Moody's]] downgrade of U.S. debt, saying that although the two do not agree on everything, Summers had characterized the 2011 U.S. downgrade as the product of a lagging indicator.[3]
 
+## Harvard control grid
+
+"The Harvard Control Grid" names Summers as an active participant in the [[council-on-foreign-relations|Council on Foreign Relations]], alongside [[michael-chae|Michael Chae]] and [[glenn-hutchins|Glenn Hutchins]], helping shape white papers and task forces that drive bipartisan U.S. foreign engagement.[4] The article also identifies him as a longtime participant in the [[trilateral-commission|Trilateral Commission]], the body founded by [[david-rockefeller|David Rockefeller]] whose objectives it summarizes as preserving global economic interdependence, managing democratic instability and containing populist uprisings through technocratic oversight.[4]
+
 ## References
 1. Badlands Brief — "A Thousand Rabbis, Failing Firewalls, & the Loss of a Legend", URL: https://badlands.substack.com/p/badlands-news-brief-321
 2. Badlands Brief — "Badlands News Brief: Democracy Shields, Entitled Foreigners, & Epstein's Boomerang", URL: https://badlands.substack.com/p/badlands-news-brief-582
 3. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
+4. Badlands Brief — "The Harvard Control Grid", URL: https://badlands.substack.com/p/the-harvard-control-grid

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [foreign-policy, censorship, commentary]
-sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-cfa.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-b01.md, raw/days-of-thunder.md, raw/how-to-rent-a-riot-the-plausible.md, raw/is-the-censorship-war-over.md, raw/the-cia-is-being-thrown-under-the.md]
+sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-cfa.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-b01.md, raw/days-of-thunder.md, raw/how-to-rent-a-riot-the-plausible.md, raw/is-the-censorship-war-over.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-information-imperium.md]
 confidence: low
 ---
 
@@ -82,3 +82,9 @@ In "The CIA is Being Thrown Under the Bus," Erik Carlson cites Benz's interview 
 Carlson connects this to his own claim that [[mark-zuckerberg|Mark Zuckerberg]] is a CIA cut-out and that both Facebook and Google are [[darpa|DARPA]] creations used by the agency to monitor and control people.[12]
 
 12. Badlands Brief — "The CIA is Being Thrown Under the Bus", URL: https://badlands.substack.com/p/the-cia-is-being-thrown-under-the
+
+## The "USAID Truman Show"
+
+Badlands Media's "The Information Imperium" credits Mike Benz, together with [[elon-musk|Elon Musk]]'s [[department-of-government-efficiency|Department of Government Efficiency]], with bringing [[usaid|USAID]]'s role in funding the global propaganda apparatus under scrutiny.[13] The article adopts Benz's coinage the "USAID Truman Show" to describe a system that has for years set the international narrative and convinced audiences not to trust their own eyes.[13]
+
+13. Badlands Brief — "The Information Imperium", URL: https://badlands.substack.com/p/the-information-imperium

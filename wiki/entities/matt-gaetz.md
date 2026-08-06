@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republican, russiagate]
-sources: [raw/badlands-news-brief-01d.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-11b.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-b65.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-d22.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-dae.md, raw/badlands-news-brief-e1a.md, raw/badlands-news-brief-e79.md, raw/badlands-news-brief-f46.md, raw/badlands-news-brief-f94.md, raw/badlands-news-brief-ff6.md, raw/the-chosen-one.md]
+sources: [raw/badlands-news-brief-01d.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-11b.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-b65.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-d22.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-dae.md, raw/badlands-news-brief-e1a.md, raw/badlands-news-brief-e79.md, raw/badlands-news-brief-f46.md, raw/badlands-news-brief-f94.md, raw/badlands-news-brief-ff6.md, raw/the-chosen-one.md, raw/the-fake-and-the-gaetz.md, raw/the-information-imperium.md, raw/the-overdrive-timeline.md]
 confidence: medium
 ---
 
@@ -169,3 +169,23 @@ Gaetz launched the effort to remove Speaker [[kevin-mccarthy|Kevin McCarthy]] af
 [[badlands-media|Badlands Media]] contributor [[joe-lange|Joe Lange]] wrote in January 2023 that he had initially misread Gaetz's role in the fifteen-ballot [[2023-speaker-of-the-house-election|Speaker of the House contest]], believing he was "grandstanding for personal political gain" and expressing displeasure with him at the time.[24] Lange subsequently concluded he had been wrong, writing "Boy was I wrong" and praising Gaetz for doing "an awesome job of acting" alongside [[marjorie-taylor-greene|Marjorie Taylor Greene]], [[kevin-mccarthy|Kevin McCarthy]] and [[donald-trump|Donald Trump]].[24] In his reading the standoff was scripted theatre — signalled by Trump's "GOOD" and "GREAT" posts and a matching [[qanon|Q]] post reading "Good movie. Great actors." — whose real function was to expose how the House had operated under [[nancy-pelosi|Nancy Pelosi]] and to renegotiate the chamber's rules in favour of rank-and-file members.[24]
 
 24. Badlands Brief — "The Chosen One", URL: https://badlands.substack.com/p/the-chosen-one
+
+## The nomination as an opening gambit (November 2024 analysis)
+
+In "The Fake and the Gaetz," [[ryan-delarme|Ryan DeLarme]] argued that the Gaetz attorney general nomination — like the placement of [[tulsi-gabbard|Tulsi Gabbard]] as Director of National Intelligence — sent a powerful signal across the gameboard, and that regardless of whether the appointment was ever intended as a serious selection it caused individuals with something to hide to out themselves publicly, whether on X or on mainstream news programs featuring figures such as [[john-brennan|John Brennan]] and [[andrew-mccabe|Andrew McCabe]] warning about Gaetz, Gabbard and [[robert-f-kennedy-jr|Kennedy]].[25] The practical result, in his reading, was that it became obvious which members of the [[united-states-senate|Senate]] would play ball with Team Trump's more radical and populist endeavors, with any Republican senator who had voted to confirm [[merrick-garland|Merrick Garland]] but not Gaetz earning a red flag.[25] DeLarme allowed that Gaetz may have been put forward in earnest, but judged the episode an opening gambit rather than an unexpected failure.[25]
+
+He also assessed the widespread X speculation that Gaetz would be named [[special-counsel|Special Counsel]], concluding that [[pam-bondi|Pamela Bondi]], if confirmed as Attorney General, could at least attempt such an appointment under the inferior-officer designation discussed in [[morrison-v-olson|Morrison v. Olson]], while cautioning that entrenched interests would not extend Gaetz the procedural latitude given to [[jack-smith|Jack Smith]].[25] Noting talk of Gaetz challenging for [[ron-desantis|Ron DeSantis]]'s job in Florida, DeLarme observed that Gaetz had officially relinquished his seat and said he would not rejoin Congress.[25] He rejected media framing of the affair as proof of Trump's "vetting weakness," describing it instead as a feint drawing on the same fakeness that had become the modus operandi of the [[deep-state|deep state]] and its press allies.[25]
+
+25. Badlands Brief — "The Fake and the Gaetz", URL: https://badlands.substack.com/p/the-fake-and-the-gaetz
+
+## Questioning on NewsGuard (2023)
+
+During the 2023 Weaponization of the Federal Government hearings, Gaetz asked journalist [[michael-shellenberger|Michael Shellenberger]] "Who is NewsGuard?", prompting Shellenberger's answer that [[newsguard|NewsGuard]] and the [[global-disinformation-index|Global Disinformation Index]] are U.S. government-funded entities working to steer advertising revenue away from disfavoured publications.[26] Badlands Media's "The Information Imperium" treats the exchange as one of the few moments in which the ratings industry's funding model was aired publicly in Congress.[26]
+
+26. Badlands Brief — "The Information Imperium", URL: https://badlands.substack.com/p/the-information-imperium
+
+## January 2023 speakership concessions
+
+Gaetz was among the twenty-one holdouts in the January 2023 speakership fight that produced the [[january-2023-mccarthy-concessions|January 2023 McCarthy concessions]].[27] He continued to serve on the [[house-judiciary-committee|Judiciary]] panel and was appointed by [[kevin-mccarthy|Kevin McCarthy]] to the new [[select-subcommittee-on-the-weaponization-of-the-federal-government|weaponization subcommittee]].[27]
+
+27. Badlands Brief — "The Overdrive Timeline", URL: https://badlands.substack.com/p/the-overdrive-timeline

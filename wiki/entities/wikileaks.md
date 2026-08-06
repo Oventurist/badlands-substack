@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [wikileaks, leaks, cables, transparency]
-sources: [raw/a-bright-red-line.md, raw/america-for-sale-part-3.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-dbd.md, raw/badlands-news-brief-ee8.md]
+sources: [raw/a-bright-red-line.md, raw/america-for-sale-part-3.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-dbd.md, raw/badlands-news-brief-ee8.md, raw/the-mystery-of-julian-assange.md]
 confidence: medium
 ---
 
@@ -58,3 +58,9 @@ On May 20, 2024, London's High Court granted WikiLeaks founder [[julian-assange|
 7. Badlands Brief — "Badlands News Brief: Toothless Sanctions and Ouroboros Patterns", URL: https://badlands.substack.com/p/badlands-news-brief-d6a
 8. Badlands Brief — "Badlands News Brief: Destination Deportations, Alligator Alcatraz, & WWIII Gets Rugged", URL: https://badlands.substack.com/p/badlands-news-brief-dbd
 9. Badlands Media — "Badlands News Brief: Cohen Clown Show Continues as the Iranian Blame Game Begins", URL: https://badlands.substack.com/p/badlands-news-brief-ee8
+
+## Publication record as summarised in March 2024
+
+A March 2024 Badlands essay by [[erik-carlson|Erik Carlson]] compiles the organisation's principal releases as a timeline.[10] In 2010 WikiLeaks published [[chelsea-manning|Chelsea Manning]]'s footage of a 2007 US airstrike in Baghdad, prompting [[julian-assange|Julian Assange]] to seek asylum at the [[ecuadorian-embassy-in-london|Ecuadorian Embassy in London]] in 2012.[10] In 2013 Assange and other WikiLeaks figures tried to help [[edward-snowden|Edward Snowden]] escape US law enforcement, creating a distraction to assist his departure from Russia before advising him to remain there.[10] July 2016 brought the [[dnc-email-leak|DNC emails]], later in 2016 the [[podesta-emails|Podesta emails]], and March 2017 [[vault-7|Vault 7]], the largest leak of [[central-intelligence-agency|CIA]] documents in history, detailing the agency's tools for breaking into smartphones, computers and other connected devices.[10]
+
+10. Badlands Brief — "The Mystery of Julian Assange", URL: https://badlands.substack.com/p/the-mystery-of-julian-assange

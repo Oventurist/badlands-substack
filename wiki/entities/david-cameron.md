@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [united-kingdom, icc, israel, diplomacy, foreign-secretary]
-sources: [raw/badlands-news-brief-574.md, raw/badlands-news-brief-808.md]
+sources: [raw/badlands-news-brief-574.md, raw/badlands-news-brief-808.md, raw/the-enduring-legacy-of-the-entente.md]
 confidence: medium
 ---
 
@@ -31,3 +31,9 @@ The trip was widely reported as a snub. Two of Cameron's planned meetings were c
 ## References
 1. Badlands Brief — "Badlands News Brief: Mandatory Deprogramming & Military Parades", URL: https://badlands.substack.com/p/badlands-news-brief-574
 2. Badlands News Brief — "Iranian Walk-backs, Trump Trials & Trans Truths", URL: https://badlands.substack.com/p/badlands-news-brief-808
+
+## Entente Cordiale 120th anniversary op-ed (2024)
+
+On April 8, 2024, as UK Foreign Secretary, Cameron co-wrote an op-ed in the *Daily Telegraph* with French Foreign Minister [[stephane-sejourne|Stéphane Séjourné]] celebrating the 120th anniversary of the [[entente-cordiale|Entente Cordiale]].[3] The pair framed the twenty-first-century entente around defeating Russia, writing that "together, we can rally others to join us in overcoming them… We must do even more to ensure we defeat Russia. The world is watching – and will judge us if we fail."[3] [[matthew-ehret|Matthew Ehret]] argues that in championing the 1904 pact as a bedrock of world peace, Cameron and [[king-charles-iii|King Charles III]] are championing the program that made the world wars a reality.[3]
+
+3. Badlands Brief — "The Enduring Legacy of the Entente Cordiale", URL: https://badlands.substack.com/p/the-enduring-legacy-of-the-entente

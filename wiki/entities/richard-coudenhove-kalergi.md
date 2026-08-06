@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [pan-europeanism, europe, immigration, kalergi-plan, badlands-media]
-sources: [raw/on-infiltration-and-israel.md, raw/shadows-sovereigns-and-civil-wars-e41.md]
+sources: [raw/on-infiltration-and-israel.md, raw/shadows-sovereigns-and-civil-wars-e41.md, raw/the-enduring-legacy-of-the-entente.md]
 confidence: medium
 ---
 
@@ -38,3 +38,9 @@ The young Count found himself out of a job once the Austro-Hungarian empire was 
 The very design for the European Union, including the use of Beethoven's Ninth Symphony as its anthem, was first outlined in detail by Kalergi himself, and Ehret suggests it may also have inspired [[miles-guo|Miles Guo]]'s [[new-federal-state-of-china|New Federal State of China]] a century later.[2] In a 1932 speech Kalergi argued that "this eternal war can end only with the constitution of a world republic," to be secured by "a politic of peaceful strength, on the model of the Roman Empire."[2] In 1954 he described the Pan European Union as "a kind of open conspiracy as H.G. Wells described in one of his books."[2] Ehret argues the true religion of this projected elite was a retooled [[eugenics|eugenics]], quoting Kalergi's statement that eugenics "will soon be associated with Nietzsche's world outlook and, through it, gain the striking power of a religion," teaching "the higher breeding of human beings, the exclusion of the less desirable from further reproduction."[2] The organization was later run for over thirty years by [[otto-von-habsburg|Otto von Habsburg]].[2]
 
 2. Badlands Brief — "Shadows, Sovereigns and Civil Wars - Part 2", URL: https://badlands.substack.com/p/shadows-sovereigns-and-civil-wars-e41
+
+## Influence on the United Nations Charter
+
+[[matthew-ehret|Matthew Ehret]] names Coudenhove-Kalergi as the principal agent of destruction at the 1945 San Francisco Conference that drafted the final [[united-nations|United Nations]] Charter, held two weeks after the death of [[franklin-d-roosevelt|Franklin Roosevelt]].[3] The Count exerted vast influence over the conference and gloated over his introduction of Articles 52–54, which allowed for the creation of "regional blocks."[3] These articles, devised with the [[council-on-foreign-relations|Council on Foreign Relations]] with whom he collaborated, made possible what Ehret calls the monstrosities of [[nato|NATO]] and the [[european-union|European Union]].[3]
+
+3. Badlands Brief — "The Enduring Legacy of the Entente Cordiale", URL: https://badlands.substack.com/p/the-enduring-legacy-of-the-entente

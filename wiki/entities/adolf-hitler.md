@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [nazi-germany, genetics, history, world-war-ii]
-sources: [raw/badlands-news-brief-066.md, raw/operation-gladio-a-primer.md, raw/real-patriots-dont-think-like-hitler-111.md, raw/real-patriots-dont-think-like-hitler-196.md, raw/real-patriots-dont-think-like-hitler-1b1.md]
+sources: [raw/badlands-news-brief-066.md, raw/operation-gladio-a-primer.md, raw/real-patriots-dont-think-like-hitler-111.md, raw/real-patriots-dont-think-like-hitler-196.md, raw/real-patriots-dont-think-like-hitler-1b1.md, raw/the-hitler-or-obama-youth.md, raw/the-inversion-of-health.md]
 confidence: medium
 ---
 
@@ -60,3 +60,17 @@ Despite attacking both Christianity and Judaism, Hitler and his fellow Ariosophi
 3. Badlands Brief — "Real Patriots Don't Think Like Hitler - Part 4", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-111
 4. Badlands Brief — "Real Patriots Don't Think Like Hitler – Part 2: How Western Bankers Created the Nazis", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-196
 5. Badlands Brief — "Real Patriots Don't Think Like Hitler - Part 3: Hitler's Aryan Christ and the Reichs Bible", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-1b1
+
+## Statements on youth indoctrination
+
+Hitler spoke openly of the regime's capacity to manufacture Nazis from German children, declaring in 1938 that boys and girls entered the party's organisations at ten years of age and "often for the first time get a little fresh air," passed four years in the Young Folk and four more in the [[hitler-youth|Hitler Youth]], were then "smoothed out" for six or seven months in the Labor Service, and finally had any residual class consciousness or social status removed by the Wehrmacht.[6] Badlands contributor [[erik-carlson|Erik Carlson]] cited the quotation in a November 2023 essay comparing that pipeline to what he termed the [[obama-youth|Obama Youth]], noting that Hitler Youth membership passed five million by December 1936 and eight million by 1940.[6]
+
+6. Badlands Brief — "The Hitler ... or Obama Youth", URL: https://badlands.substack.com/p/the-hitler-or-obama-youth
+
+## Debt to the American eugenics movement
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] emphasizes how closely Hitler tracked American [[eugenics]] practice, quoting him telling a fellow Nazi: "I have studied with great interest the laws of several American states concerning prevention of reproduction by people whose progeny would, in all probability, be of no value or be injurious to the racial stock."[7] Germany's own sterilization law, drafted by [[ernst-rudin|Ernst Rudin]]'s staff under [[heinrich-himmler|Heinrich Himmler]]'s Task Force of Heredity Experts, was described as an "American model law," implemented in July 1933 and reprinted in the September 1933 *Eugenical News* in the United States bearing Hitler's signature.[7]
+
+The article further reports that [[thomas-watson|Thomas Watson]], founder of [[ibm|IBM]], supplied punch card computers to Hitler and the Nazis for use in the death camps, and that Dr. [[alexis-carrel|Alexis Carrel]] of the [[rockefeller-institute|Rockefeller Institute]] publicly applauded Hitler for advocating the mass murder of mental patients and prisoners.[7]
+
+7. Badlands Brief — "The Inversion of Health", URL: https://badlands.substack.com/p/the-inversion-of-health

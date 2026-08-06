@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [fbi, informants, siege, randy-weaver, entrapment]
-sources: [raw/patsies-of-the-cia-and-fbi.md]
+sources: [raw/patsies-of-the-cia-and-fbi.md, raw/the-media-is-the-enemy-of-the-people.md]
 confidence: medium
 ---
 
@@ -25,3 +25,9 @@ Ruby Ridge thus functions in the essay as the historical precedent for its readi
 ## References
 
 1. Badlands Brief — "Patsies of the CIA and FBI", URL: https://badlands.substack.com/p/patsies-of-the-cia-and-fbi
+
+## Cited in Carlson's 1990s crackdown sequence (2024)
+
+[[erik-carlson|Erik Carlson]]'s September 17, 2024 essay lists Ruby Ridge with [[waco-siege|Waco]] and the [[oklahoma-city-bombing|Oklahoma City Bombing]] as events he says were not coincidentally clustered in the early-to-mid 1990s, when the internet went public and citizens began challenging the government — serving, in his reading, to make examples of dissenters and to paint anti-government groups as crazy, hateful and violent.[2]
+
+2. Badlands Brief — "The Media is the Enemy of the People", URL: https://badlands.substack.com/p/the-media-is-the-enemy-of-the-people

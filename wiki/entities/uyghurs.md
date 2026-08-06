@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [china, xinjiang, minorities, human-rights]
-sources: [raw/badlands-brief-884.md]
+sources: [raw/badlands-brief-884.md, raw/the-ivy-web.md]
 confidence: medium
 ---
 
@@ -18,3 +18,9 @@ When China's [[national-peoples-congress|National People's Congress]] moved in M
 
 ## References
 1. Badlands Brief — "War Weaves & Midterm Maxis", URL: https://badlands.substack.com/p/badlands-brief-884
+
+## The XPCC and Harvard
+
+In Badlands Media's "The Ivy Web," the [[xinjiang-production-and-construction-corps|Xinjiang Production and Construction Corps]] is described as a Chinese paramilitary corporate entity sanctioned by the United States in 2020 for its role in the Uyghur genocide, and as a force that suppresses the Uyghurs through land seizures and armed control.[2] The article criticises [[harvard-university|Harvard University]] for training XPCC officials as late as October 2023 despite those sanctions and the protections of the [[uyghur-forced-labor-prevention-act|Uyghur Forced Labor Prevention Act]] of 2022.[2]
+
+2. Badlands Brief — "The Ivy Web", URL: https://badlands.substack.com/p/the-ivy-web

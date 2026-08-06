@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [youtube, google, censorship, big-tech, deplatforming]
-sources: [raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-d7d.md]
+sources: [raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-d7d.md, raw/the-media-is-the-enemy-of-the-people.md]
 confidence: medium
 ---
 
@@ -38,3 +38,9 @@ In late January 2024 a video posted by [[justin-mohn|Justin Mohn]] showing the s
 Google and its subsidiary YouTube removed multiple videos of presidential candidate [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] during 2023 on the grounds that they allegedly contained medical misinformation.[4] Kennedy's lawyers argued in an unsuccessful motion for a temporary restraining order that the removals violated the First Amendment because they were spurred by government policy, noting that YouTube's policy is to censor information contradicting [[centers-for-disease-control-and-prevention|Centers for Disease Control and Prevention]] guidance.[4] [[google|Google]] responded that it is separate from the government and had exercised its own editorial discretion.[4]
 
 4. Badlands Brief — "Badlands News Brief: Trump's Trap, Musk's Decree & Obama's Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-d7d
+
+## Alleged laundering function (Carlson, 2024)
+
+[[erik-carlson|Erik Carlson]]'s September 17, 2024 essay asks how YouTube stars are able to earn so much money, and answers that the platform serves both to preoccupy audiences and to launder [[central-intelligence-agency|CIA]] money.[5]
+
+5. Badlands Brief — "The Media is the Enemy of the People", URL: https://badlands.substack.com/p/the-media-is-the-enemy-of-the-people

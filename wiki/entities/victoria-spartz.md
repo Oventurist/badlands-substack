@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republican, indiana]
-sources: [raw/badlands-brief-fd9.md, raw/badlands-news-brief-d5d.md]
+sources: [raw/badlands-brief-fd9.md, raw/badlands-news-brief-d5d.md, raw/the-overdrive-timeline.md]
 confidence: medium
 ---
 
@@ -26,3 +26,9 @@ Faced with the rebellion, Speaker [[mike-johnson|Mike Johnson]] and Majority Lea
 ## July 2023 Wray hearing
 
 At the [[2023-wray-house-judiciary-testimony|July 2023 House Judiciary Committee hearing]], Spartz grilled [[fbi|FBI]] Director [[christopher-wray|Christopher Wray]] on the bureau's intelligence sharing with compromised foreign agencies, alleging that the existing process involves actioning that compromised intelligence against American citizens.[2]
+
+## January 2023 speakership concessions
+
+Spartz, among the twenty-one holdouts in the January 2023 speakership fight, continued to serve on the [[house-judiciary-committee|Judiciary]] panel after the [[january-2023-mccarthy-concessions|January 2023 McCarthy concessions]].[3]
+
+3. Badlands Brief — "The Overdrive Timeline", URL: https://badlands.substack.com/p/the-overdrive-timeline

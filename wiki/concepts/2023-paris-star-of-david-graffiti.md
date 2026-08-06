@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [france, antisemitism, russia, information-warfare, paris]
-sources: [raw/badlands-news-brief-ae3.md]
+sources: [raw/badlands-news-brief-ae3.md, raw/the-hitler-or-obama-youth.md]
 confidence: medium
 ---
 
@@ -27,3 +27,9 @@ Badlands contributor Burning Bright treated the episode as an instance of "Narra
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Debates, Rallies ... and Deep State Implosions", URL: https://badlands.substack.com/p/badlands-news-brief-ae3
+
+## Historical comparison
+
+Badlands contributor [[erik-carlson|Erik Carlson]] cited the Paris incidents in a November 3, 2023 essay, noting that in Nazi Germany the Star of David was painted on the homes of Jews so that everyone would know who lived there, and that he had seen that same day reports of the practice recurring in Paris.[2] He posed the rhetorical question of whether anything had been learned from the evils of the Second World War, and used the episode to close an argument comparing contemporary American conformity to the [[hitler-youth|Hitler Youth]] era.[2]
+
+2. Badlands Brief — "The Hitler ... or Obama Youth", URL: https://badlands.substack.com/p/the-hitler-or-obama-youth

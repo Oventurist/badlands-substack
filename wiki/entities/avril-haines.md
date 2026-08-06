@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence, surveillance, odni, biden-administration]
-sources: [raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-cb9.md]
+sources: [raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-cb9.md, raw/the-dystopia-will-be-televised.md]
 confidence: medium
 ---
 
@@ -24,7 +24,12 @@ Because the review was commissioned by Haines herself, coverage in alternative m
 
 Under the [[covid-19-origin-act-of-2023|COVID-19 Origin Act of 2023]], signed by President [[joe-biden|Joe Biden]] on March 20, 2023, Director of National Intelligence Avril Haines was given 90 days to declassify all information on possible links between the [[wuhan-institute-of-virology|Wuhan Institute of Virology]] and the origins of Covid-19.[2] The mandate followed unanimous passage of the bill in both chambers of [[us-congress|Congress]] and the Energy Department's low-confidence assessment favouring an accidental laboratory leak.[2]
 
+## The commercially available information report (2023)
+
+A report issued under Haines as Director of National Intelligence documented federal agencies' bulk purchase of Americans' personal data from data brokers — material designated [[commercially-available-information|commercially available information]] (CAI).[3] The [[office-of-the-director-of-national-intelligence|ODNI]] report warned that "CAI Increases the Power of the Government," observing that "the government would never have been permitted to compel billions of people to carry location tracking devices on their persons at all times, to log and track most of their social interactions, or to keep flawless records of all their reading habits."[3] Badlands Media presented the findings as confirmation that federal agencies are buying their way around constitutional limits on [[mass-surveillance|mass surveillance]].[3]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Trump Defiant, Biden Protected & Woke Worn", URL: https://badlands.substack.com/p/badlands-news-brief-7a7
 2. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9
+3. Badlands Brief — "The Dystopia Will Be Televised", URL: https://badlands.substack.com/p/the-dystopia-will-be-televised

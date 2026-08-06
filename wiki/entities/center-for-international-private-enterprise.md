@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ned, ngo, business, regime-change, cut-out]
-sources: [raw/how-to-rent-a-riot-the-plausible.md]
+sources: [raw/how-to-rent-a-riot-the-plausible.md, raw/the-information-imperium.md, raw/the-ongoing-betrayal-of-the-gop.md]
 confidence: medium
 ---
 
@@ -22,3 +22,15 @@ The article situates CIPE within the [[plausible-deniability-network|plausible d
 
 ## References
 1. Badlands Brief — "How to Rent a Riot - The Plausible Deniability Network", URL: https://badlands.substack.com/p/how-to-rent-a-riot-the-plausible
+
+## Role in the information imperium
+
+CIPE is identified in Badlands Media's "The Information Imperium" as the business-facing arm of the [[national-endowment-for-democracy|National Endowment for Democracy]]'s four core grantees, described in the article's shorthand as the grantee "for the suits."[2] Where the [[national-democratic-institute|NDI]] and [[international-republican-institute|IRI]] work on parties and the [[solidarity-center|Solidarity Center]] on unions, CIPE is said to shape market conditions in line with what the article calls uniparty interests.[2]
+
+2. Badlands Brief — "The Information Imperium", URL: https://badlands.substack.com/p/the-information-imperium
+
+## The Chamber of Commerce arm
+
+Badlands Media describes the Center for International Private Enterprise as the [[national-endowment-for-democracy|NED]]'s Chamber of Commerce arm, the channel of [[cia|CIA]] influence over the private sector.[3] The article argues that Chamber-of-Commerce Republicans are "doctored into" the [[international-republican-institute|IRI]] and CIPE web housed on the conservative side of the NED network, and that these politicians and affiliated companies rely on the endowment's heavy hand to create markets, secure favorable foreign legislation and regulation, harvest natural resources and win contracts.[3]
+
+3. Badlands Brief — "The Ongoing Betrayal of the GOP", URL: https://badlands.substack.com/p/the-ongoing-betrayal-of-the-gop

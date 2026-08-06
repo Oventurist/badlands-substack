@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [jfk, us-president, bretton-woods, deep-state]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-4ab.md, raw/badlands-news-brief-cba.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-dae.md, raw/badlands-news-brief-fcb.md, raw/combating-the-transhumanist-religion.md, raw/four-pillars-of-government-control.md, raw/heroes-of-the-great-awakening.md, raw/john-bobby-and-marilyn.md, raw/the-cia-is-being-thrown-under-the.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-4ab.md, raw/badlands-news-brief-cba.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-dae.md, raw/badlands-news-brief-fcb.md, raw/combating-the-transhumanist-religion.md, raw/four-pillars-of-government-control.md, raw/heroes-of-the-great-awakening.md, raw/john-bobby-and-marilyn.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-covfefe-dig.md]
 confidence: low
 ---
 
@@ -55,6 +55,12 @@ The essay argues that Kennedy's assassination followed from his having crossed t
 
 A large body of popular media has promoted the claim that Kennedy and his brother [[robert-f-kennedy|Robert]] conspired to murder the actress [[marilyn-monroe|Marilyn Monroe]], whose body was found on August 4, 1962.[11] Writing for Badlands Media, [[matthew-ehret|Matthew Ehret]] rejected the thesis, arguing that its supposed evidence consists of anecdotal testimony, an unseen secret diary held only by anonymous sources, and wiretap recordings that only [[fred-otash|Fred Otash]] claims to possess.[11] Ehret noted the irony of claims that Kennedy sought to topple Fidel Castro, escalate in Vietnam and stage a false flag, when Kennedy in fact worked to subvert the [[bay-of-pigs|Bay of Pigs]] operation, issued [[nsam-263|NSAM 263]] in October 1963 to begin a full withdrawal from Southeast Asia, and rejected [[operation-northwoods|Operation Northwoods]] before firing its author, General [[lyman-lemnitzer|Lyman Lemnitzer]].[11] Kennedy's June 10, 1963 speech "What Kind of Peace Do We Seek?" set out his opposition to a new forever war.[11] He was reportedly furious when President [[ngo-dinh-diem|Ngo Dinh Diem]] was murdered on November 2, 1963, three weeks before his own assassination.[11] Ehret also documented Kennedy's engagement in the fight over Hollywood, including granting director John Frankenheimer access to White House grounds to film Seven Days in May, and his association with Judy Garland.[11] Ehret concluded that both Kennedy brothers suffered a second wave of character assassination after their deaths, tied to the [[fbi|FBI]], [[cia|CIA]] and British intelligence.[11]
 
+## Executive Order 11110 in the COVFEFE Dig
+
+Badlands Media's March 2023 feature "The COVFEFE Dig" presents Kennedy as a precursor to [[donald-trump|Donald Trump]] in a long campaign against central banking.[13] The article states that Kennedy "had a plan of his own" and attempted to remove the evils of the central bankers by authorizing [[executive-order-11110|Executive Order 11110]], an effort to transfer power from the [[federal-reserve|Federal Reserve]] to the [[us-department-of-the-treasury|Treasury Department]] by replacing Federal Reserve Notes with silver certificates.[13] The distinction drawn is that a United States Note carries no interest while a Federal Reserve Note does.[13]
+
+The author argues Kennedy's aim was to merge the Treasury with the Fed rather than simply strip the Fed's power, reasoning that a corrupt system can only be brought down once its parts are tied together.[13] The order was later revoked in full by [[ronald-reagan|Ronald Reagan]] through [[executive-order-12608|Executive Order 12608]].[13] The dig also incorporates 11/22, the date of Kennedy's assassination, into its pattern of repeating numbers alongside 11/11.[13]
+
 ## References
 1. Badlands Brief — "A Gateway to a New World of Cooperation", URL: https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation
 2. Badlands Brief — "The Reckoning of Fake Elections, Fake Wars and Fake Allies", URL: https://badlands.substack.com/p/badlands-brief-b62
@@ -94,3 +100,4 @@ Erik Carlson's "The CIA is Being Thrown Under the Bus" builds its argument aroun
 Carlson states that it is no longer controversial to say the agency was heavily involved in Kennedy's assassination, and lists him alongside [[richard-nixon|Richard Nixon]], [[ronald-reagan|Ronald Reagan]] and [[donald-trump|Donald Trump]] as the four presidents most concerned about the agency's unchecked power — with Kennedy killed, Nixon set up and forced from office, Reagan shot, and Trump attacked by every other means.[12] He speculates that had Kennedy succeeded in splintering the agency, America would look very different today.[12]
 
 12. Badlands Brief — "The CIA is Being Thrown Under the Bus", URL: https://badlands.substack.com/p/the-cia-is-being-thrown-under-the
+13. Badlands Brief — "The COVFEFE Dig", URL: https://badlands.substack.com/p/the-covfefe-dig

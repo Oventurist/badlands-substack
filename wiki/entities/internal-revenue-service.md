@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [taxation, 1913, federal-agency]
-sources: [raw/1913.md, raw/a-startling-contradiction-at-the.md, raw/americas-greatest-threat.md, raw/a-week-to-remember.md, raw/badlands-brief-95a.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-319.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-b26.md, raw/four-pillars-of-government-control.md, raw/going-off-the-federal-reservation.md, raw/the-church-committee-for-dummies.md]
+sources: [raw/1913.md, raw/a-startling-contradiction-at-the.md, raw/americas-greatest-threat.md, raw/a-week-to-remember.md, raw/badlands-brief-95a.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-319.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-b26.md, raw/four-pillars-of-government-control.md, raw/going-off-the-federal-reservation.md, raw/the-church-committee-for-dummies.md, raw/the-decade-we-all-became-slaves.md, raw/the-illusion-of-democracy.md]
 confidence: medium
 ---
 
@@ -105,6 +105,10 @@ In September 2023 the agency was sued by [[hunter-biden|Hunter Biden]], who alle
 
 IRS criminal supervisory special agent [[gary-shapley|Gary Shapley]], a fourteen-year veteran of the agency, alleged in June 2023 that [[hunter-biden|Hunter Biden]] had received preferential treatment from investigators examining his tax affairs and his alleged false statements on a gun permit application.[20] Shapley's testimony, released through congressional Republicans, became the proximate trigger for House Speaker [[kevin-mccarthy|Kevin McCarthy]]'s threat to open an impeachment inquiry into Attorney General [[merrick-garland|Merrick Garland]] by July 6, 2023.[20]
 
+## Civil War origins and 1913 revival
+
+Badlands Media commentary notes that the IRS had existed since 1862, formed to collect money for the [[american-civil-war|Civil War]], and largely faded afterward once there was no longer a real need for it.[24] The agency was reformed on 2/25/1913 — a few weeks after ratification of the [[sixteenth-amendment|16th Amendment]] on 2/3/1913 and ten months before the [[federal-reserve|Federal Reserve]] was created.[24] The article argues the new income tax existed to pay interest to the bankers running the Federal Reserve, and that because Americans balked at the idea the tax began at one percent and rose gradually, boiling-frog fashion, to modern rates; had it begun at 15 or 20 percent, it contends, there would have been another revolution.[24] It calls 1913 a worse year than 2020, as it produced the IRS, the income tax and the Federal Reserve together.[24]
+
 ## References
 1. Badlands Brief — "1913: The Year the Cabal Enslaved America", URL: https://badlands.substack.com/p/1913
 2. Badlands Brief — "A Startling Contradiction at the Heart of 'Our' Legal System", URL: https://badlands.substack.com/p/a-startling-contradiction-at-the
@@ -146,3 +150,12 @@ The point served the essay's broader conclusion that new arrangements outside th
 IRS intelligence activities were among the small set of abuses the 1975 [[church-committee|Church Committee]] chose to present in its September and October 1975 public hearings, alongside a [[central-intelligence-agency|CIA]] "biological agents program," a [[white-house|White House]] "domestic surveillance program" and the [[fbi|FBI]]'s disruption of the civil rights and anti-Vietnam War movements.[23] The agency was also named among the federal bodies — with the CIA, FBI and [[national-security-agency|NSA]] — whose intelligence abuses the committee successfully identified over the course of its 16-month investigation.[23]
 
 23. Badlands Brief — "The Church Committee, for Dummies", URL: https://badlands.substack.com/p/the-church-committee-for-dummies
+24. Badlands Brief — "The Decade We All Became Slaves", URL: https://badlands.substack.com/p/the-decade-we-all-became-slaves
+
+## Predicted abolition in "Illusions of Democracy"
+
+In his January 2024 article "Illusions of Democracy," [[joe-lange|Joe Lange]] describes the IRS as the collection arm of a debt-based monetary system.[25] He argues Americans are trapped in an arrangement in which money does not belong to them but is a debt instrument on which interest is paid continuously, purposely devalued each year by a system that creates inflation by printing more debt — and that the IRS was created to collect those debt payments from the American people.[25] On that basis he states plainly: "I don't believe the IRS will even exist when we win this war."[25]
+
+Lange pairs the claim with a call for safeguards protecting citizens' savings from being stolen through inflation and taxation, arguing that a protected personal savings account is a vital structural protection and that the government must be prevented from draining it.[25]
+
+25. Badlands Brief — "Illusions of Democracy", URL: https://badlands.substack.com/p/the-illusion-of-democracy

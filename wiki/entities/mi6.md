@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence, united-kingdom, cabal]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-f44.md, raw/does-the-cia-still-control-iran.md, raw/the-cia-is-being-thrown-under-the.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-f44.md, raw/does-the-cia-still-control-iran.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-media-is-the-enemy-of-the-people.md]
 confidence: low
 ---
 
@@ -57,3 +57,9 @@ In "The CIA is Being Thrown Under the Bus," Erik Carlson described MI6 as the UK
 Carlson claimed that MI6 created the [[office-of-strategic-services|OSS]] in 1942, shortly after the United States entered the Second World War, expressly in order to control the US during the conflict, and that when the OSS morphed into the [[central-intelligence-agency|CIA]] in 1947 the new agency remained fully controlled by the British elites.[8] In this account MI6 and the London think tanks, rather than any American impulse, brought the United States into both world wars and presided over the creation of the [[federal-reserve|Federal Reserve]].[8]
 
 8. Badlands Brief — "The CIA is Being Thrown Under the Bus", URL: https://badlands.substack.com/p/the-cia-is-being-thrown-under-the
+
+## Alleged role in manufacturing British rock acts (Carlson, 2024)
+
+[[erik-carlson|Erik Carlson]]'s September 17, 2024 Badlands Media essay asserts that "God created [[elvis-presley|Elvis Presley]]" while "the MI6/[[central-intelligence-agency|CIA]] created [[the-beatles|the Beatles]] and [[the-rolling-stones|Rolling Stones]]," framing the British bands as imitations engineered for cultural influence rather than organic phenomena.[9]
+
+9. Badlands Brief — "The Media is the Enemy of the People", URL: https://badlands.substack.com/p/the-media-is-the-enemy-of-the-people

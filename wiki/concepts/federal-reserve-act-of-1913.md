@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [legislation, 1913, central-banking]
-sources: [raw/1913.md, raw/do-we-have-a-contract-with-the-federal.md, raw/going-off-the-federal-reservation.md, raw/is-the-federal-reserve-a-british.md]
+sources: [raw/1913.md, raw/do-we-have-a-contract-with-the-federal.md, raw/going-off-the-federal-reservation.md, raw/is-the-federal-reserve-a-british.md, raw/the-economy-weaponized.md]
 confidence: medium
 ---
 
@@ -50,3 +50,9 @@ A February 16, 2023 Badlands Media essay cited Point 4 in Section 4 of the Act, 
 The article paired this reading of the statute with the Ninth Circuit's decision in [[lewis-v-united-states|Lewis v. United States]] (1982), which held the Reserve Banks to be independent, privately owned and locally controlled corporations rather than federal instrumentalities, concluding that federal case law and congressional records together attest that the Federal Reserve system is a corporate banking system.[4]
 
 4. Badlands Brief — "Is the Federal Reserve a British Institution?", URL: https://badlands.substack.com/p/is-the-federal-reserve-a-british
+
+## Acquiescence to the dollar
+
+In the April 27, 2023 Badlands Media essay "The Economy: Weaponized," [[justin-deschamps|Justin Deschamps]] described the Act as the mechanism by which Americans technically acquiesced to the United States dollar as their currency, through legislators who made the decision on their behalf.[5] He characterized the public's failure to reject and reverse that decision as tacit or implied agreement — acquiescence — and argued that the ability to print money, which he called a God-given right, was unceremoniously handed to international bankers in 1913.[5] In his account the bankers then charged the people of the world exorbitant interest for the privilege of using their paper notes and clearing houses, while centuries of societal conditioning had already stripped away popular knowledge of sound [[money|money]].[5]
+
+5. Badlands Brief — "The Economy: Weaponized", URL: https://badlands.substack.com/p/the-economy-weaponized

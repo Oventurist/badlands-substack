@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, commentary, conservative-movement]
-sources: [raw/badlands-brief-5ba.md, raw/badlands-news-brief-09b.md]
+sources: [raw/badlands-brief-5ba.md, raw/badlands-news-brief-09b.md, raw/the-exploitation-of-charlie-kirk.md]
 confidence: medium
 ---
 
@@ -24,3 +24,9 @@ Badlands contributor Burning Bright used the episode to discuss what he calls "T
 
 1. Badlands Brief — "Guardians, Shields, & Iranian House Arrest", URL: https://badlands.substack.com/p/badlands-brief-5ba
 2. Badlands Brief — "Russian Oil, Turkish Nukes, & American Indictments", URL: https://badlands.substack.com/p/badlands-news-brief-09b
+
+## Kirk interviews and the policing of Israel discourse
+
+In "The Exploitation of Charlie Kirk," [[ryan-delarme|Ryan DeLarme]] recounted a 2025 appearance by [[charlie-kirk|Charlie Kirk]] on Kelly's show in which the two voiced shared frustration over the heavily policed discourse surrounding [[israel|Israel]] in America.[3] Kirk warned that a hostile reaction casting "Megyn and Charlie" as enemies of Israel would "weaken... two of your strongest advocates if that continues."[3] After Kirk's assassination, [[tucker-carlson|Tucker Carlson]] appeared on Kelly's program to describe the intense pressure Kirk had faced from [[turning-point-usa|Turning Point USA]] donors over his moderate stance on Israel.[3]
+
+3. Badlands Brief — "The Exploitation of Charlie Kirk", URL: https://badlands.substack.com/p/the-exploitation-of-charlie-kirk

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [academia, harvard, plagiarism, higher-education]
-sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-a9e.md, raw/badlands-news-brief-cce.md]
+sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-a9e.md, raw/badlands-news-brief-cce.md, raw/the-harvard-control-grid.md, raw/the-ivy-dominion.md]
 confidence: medium
 ---
 
@@ -40,9 +40,19 @@ On December 12, 2023, [[harvard-university|Harvard]]'s governing board released 
 
 Badlands contributor [[ashe-in-america|Ashe in America]] wrote that while Gay's statements providing cover for genocidal speech on campus had drawn fire, the plagiarism allegations were "much more damning," and that the establishment's decision to protect her came at the expense of institutional credibility — reading the defense as "a deviation" and "panic."[4]
 
+## Cited in the Harvard control grid essay
+
+"The Harvard Control Grid" lists Gay's resignation under pressure among the signs it reads as the collapse of Harvard's influence apparatus, alongside donor withdrawal, alumni defections, [[larry-fink|Larry Fink]]'s retreat from ESG and DEI, and Harvard "scrubbing woke mandates from its investment language."[5] The article frames these events not as ordinary institutional turbulence but as the visible surface of pressure applied to the [[harvard-management-company|Harvard Management Company]] as a control node.[5]
+
+## Cited in the Ivy Dominion essay
+
+The June 2025 Badlands Media essay "The Ivy Dominion" treats Gay's resignation as more than an isolated scandal, calling it "a breach in the prestige firewall" of the alleged [[ivy-dominion|Ivy Dominion]].[6] It argues that her congressional performance, "marred by evasion and ideological confusion," triggered not only a donor revolt but a broader alumni reexamination of [[harvard-university|Harvard]].[6] In the weeks that followed, the article claims, Harvard's leadership board entered freefall, internal documents leaked, endowment portfolios were suddenly liquidated and ESG, DEI and Net Zero language began disappearing from official reports, websites and grant disclosures.[6]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: MAGA Gets Branded as Biden Bungles Everything", URL: https://badlands.substack.com/p/badlands-news-brief-07e
 2. Badlands Brief — "Bicameral Lawfare, Trump's Gambit & the Ouroboros", URL: https://badlands.substack.com/p/badlands-news-brief-525
 3. Badlands Brief — "Badlands News Brief: The Simulation Gets Very ... Very Weird", URL: https://badlands.substack.com/p/badlands-news-brief-a9e
 4. Badlands Brief — "Badlands News Brief: The System of Systems is a House of Cards", URL: https://badlands.substack.com/p/badlands-news-brief-cce
+5. Badlands Brief — "The Harvard Control Grid", URL: https://badlands.substack.com/p/the-harvard-control-grid
+6. Badlands Brief — "The Ivy Dominion", URL: https://badlands.substack.com/p/the-ivy-dominion

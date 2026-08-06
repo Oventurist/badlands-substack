@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [state-department, public-diplomacy, trump-administration, foreign-policy]
-sources: [raw/badlands-news-brief-52f.md, raw/is-the-censorship-war-over.md, raw/killing-the-peace.md]
+sources: [raw/badlands-news-brief-52f.md, raw/is-the-censorship-war-over.md, raw/killing-the-peace.md, raw/the-ongoing-betrayal-of-the-gop.md]
 confidence: medium
 ---
 
@@ -38,3 +38,9 @@ Beattie — identified as the founder of Revolver News and a former speechwriter
 1. Badlands Brief — "Badlands News Brief: North American Trade Troubles & Unipartisan Panic", URL: https://badlands.substack.com/p/badlands-news-brief-52f
 2. Badlands Brief — "Is the Censorship War Over?", URL: https://badlands.substack.com/p/is-the-censorship-war-over
 3. Badlands Brief — "Killing the Peace", URL: https://badlands.substack.com/p/killing-the-peace
+
+## USIP appointment as a reform model (2025)
+
+In July 2025 Darren Beattie, a State Department official, was named to the top post at the [[united-states-institute-of-peace|United States Institute of Peace]].[4] Badlands Media cited the appointment as a template for reforming the [[national-endowment-for-democracy|National Endowment for Democracy]]: installing someone who has been vocal about the institution's abuses to take the reins and lead its reformation, rather than abolishing soft-power projection altogether.[4]
+
+4. Badlands Brief — "The Ongoing Betrayal of the GOP", URL: https://badlands.substack.com/p/the-ongoing-betrayal-of-the-gop

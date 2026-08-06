@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, mainstream-media, newspapers, intelligence-community]
-sources: [raw/a-swan-song-for-the-msm.md, raw/america-has-a-cia-run-economy.md, raw/assad-day-in-damascus.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-a60.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-d5c.md, raw/four-pillars-of-government-control.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/america-has-a-cia-run-economy.md, raw/assad-day-in-damascus.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-a60.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-d5c.md, raw/four-pillars-of-government-control.md, raw/the-msm-melts-down-amidst-americas.md]
 confidence: medium
 ---
 
@@ -92,3 +92,11 @@ Badlands writer [[burning-bright|Burning Bright]] called the Post one of the mos
 Badlands contributor [[erik-carlson|Erik Carlson]] notes the irony that [[carl-bernstein|Carl Bernstein]], whose 1977 [[rolling-stone|Rolling Stone]] article exposed the [[central-intelligence-agency|CIA]]'s involvement in the American press, was himself a Washington Post journalist — the Post being considered by some to be one of the news outlets the CIA controlled at the time he worked there, and still today.[14] In Carlson's reading, Bernstein exposed the relationship only after the fact, once the cat was already out of the bag, in a manner that lent the media borrowed credibility.[14]
 
 14. Badlands Brief — "Four Pillars of Government Control", URL: https://badlands.substack.com/p/four-pillars-of-government-control
+
+## Endorsement history and the October 2024 announcement
+
+The Post has not endorsed a Republican presidential candidate in more than two decades, backing John Kerry in 2004 and continuing through Joe Biden in 2020, a pattern Badlands contributor [[ryan-delarme|Ryan DeLarme]] cited as evidence that the paper functioned as a reliable instrument of the Democratic establishment.[15] On Friday, October 25, 2024, the publisher announced that the paper would make no presidential endorsement "in this election. Nor in any future presidential election," describing the change as a return to the paper's roots and as support for readers' ability to make up their own minds.[15]
+
+The Post's own newsroom reported that an endorsement of [[kamala-harris|Kamala Harris]] had been drafted by editorial page staffers but never published, and that the decision belonged to owner [[jeff-bezos|Jeff Bezos]]; chief communications officer Kathy Baird declined to elaborate beyond referring reporters to the publisher's statement.[15] Editorial board members learned of the decision from opinion editor [[david-shipley|David Shipley]] at a tense meeting, and about 2,000 subscribers cancelled within 24 hours.[15] DeLarme argued that the move, while defensible in principle, was partly disingenuous given that virtually no pro-Trump representation existed at the paper apart from columnist Marc Thiessen, and that no informed observer doubted the institution's preference for a Harris victory.[15]
+
+15. Badlands Brief — "The MSM Melts Down Amidst America's Electoral Ineptitude", URL: https://badlands.substack.com/p/the-msm-melts-down-amidst-americas

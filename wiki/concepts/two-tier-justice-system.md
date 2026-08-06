@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [justice, doj, hunter-biden, donald-trump, narrative]
-sources: [raw/badlands-news-brief-d24.md, raw/celebrating-15-years-of-indictments.md, raw/the-biggest-boomerang-in-history.md, raw/the-biggest-cover-up-in-american.md]
+sources: [raw/badlands-news-brief-d24.md, raw/celebrating-15-years-of-indictments.md, raw/the-biggest-boomerang-in-history.md, raw/the-biggest-cover-up-in-american.md, raw/the-illusion-of-democracy.md]
 confidence: medium
 ---
 
@@ -47,3 +47,11 @@ Rather than treating lies and selective prosecution as the problem itself, the e
 [[joe-lange|Joe Lange]] presents the disposition of the [[uranium-one-deal|Uranium One]] criminal case as an illustration of the two-tier system: [[vadim-mikerin|Vadim Mikerin]] received a plea deal on a single narrowed money-laundering charge with no mention of the funds that reached [[bill-clinton|Bill Clinton]]'s foundation, while the [[department-of-justice|Justice Department]] publicised the outcome only through a release issued days before a holiday weekend.[4] He argues that the [[barack-obama|Obama]] administration's two-tier justice system swept the scandal under the rug while allied media branded those who questioned it conspiracy theorists, and that the District of Columbia courts are structured so that conviction of protected figures is nearly impossible — the reason [[john-durham|John Durham]] obtained only minimal convictions and why [[john-huber|John Huber]] was directed to empanel grand juries elsewhere.[4]
 
 4. Badlands Brief — "The Biggest Cover-up in American History", URL: https://badlands.substack.com/p/the-biggest-cover-up-in-american
+
+## Insiders, outsiders and taxpayer theft
+
+In "Illusions of Democracy," [[joe-lange|Joe Lange]] locates the two tier justice system at the centre of the [[shadow-government|shadow government]]'s durability, writing that the insiders stealing taxpayers' money "have been protected by a two tier justice system set up by a shadow government" and that the arrangement has been operating for many generations.[5] He draws the framework from [[q-post-2807|Q drop #2807]], which contrasts insiders with outsiders and notes that [[john-f-kennedy|Kennedy]] was an outsider who was assassinated and Reagan an outsider who survived an assassination attempt.[5]
+
+On this reading the underlying issue is control: the question of whether the people or the government hold it, with a global cabal of elites having held it through politicians who served as their personal puppets.[5] Lange casts [[donald-trump|Donald Trump]] as an outsider doing everything he can to transform the system of government and restore the constitution, and argues that the absence of honest control, checks and balances or [[public-banking-option|safeguards]] is precisely what allowed [[taxpayer-theft|taxpayer theft]] to persist unpunished.[5]
+
+5. Badlands Brief — "Illusions of Democracy", URL: https://badlands.substack.com/p/the-illusion-of-democracy

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [free-speech, censorship, law, culture-war]
-sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-ed9.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-ed9.md, raw/the-exploitation-of-charlie-kirk.md]
 confidence: medium
 ---
 
@@ -46,3 +46,11 @@ The concept of "hate speech" became the subject of an acute American controversy
 Critics reposted Kirk's own formulation in rebuttal: "Hate speech does not exist legally in America. There's ugly speech. There's gross speech. There's evil speech. And of it is protected by the [[first-amendment|First Amendment]]. Keep America free."[4] Supreme Court Justice [[sonia-sotomayor|Sonia Sotomayor]] appeared to allude to the episode at New York Law School, saying that whenever she hears a lawyer-trained representative propose criminalizing free speech "I think to myself, that law school failed."[4] Badlands contributor [[burning-bright|Burning Bright]] framed the affair as a case study in the weaponization of emotion, urging readers to identify manipulation while it is occurring rather than afterward.[4]
 
 4. Badlands Brief — "Badlands News Brief: Israeli Arms, Bondi's Back Peddle, & Assassins' Creeds", URL: https://badlands.substack.com/p/badlands-news-brief-ed9
+
+## Conservative adoption after the Kirk assassination (2025)
+
+In "The Exploitation of Charlie Kirk," [[ryan-delarme|Ryan DeLarme]] traced how the term "hate speech" became popularized in the political establishment and modern liberal vernacular on the premise that words cause psychological damage and government should protect the public from certain speech and opinions — and observed that conservatives who once scoffed at the concept were now openly embracing and advocating for it.[5] He argued the idea that villainizing political opponents makes one responsible for violence against them is the same sentiment the establishment left has used across the West to justify censoring conservatives, noting that the right also demonizes opponents as "Marxist," "Communist," or "demonically possessed."[5]
+
+DeLarme catalogued the resulting enforcement wave after the death of [[charlie-kirk|Charlie Kirk]]: [[state-department|State Department]] visa revocations, [[pentagon|Pentagon]] tracking of service members, Attorney General [[pam-bondi|Pam Bondi]]'s pledge to target and shut down "hate speech," a reported [[white-house|White House]] executive order, more than 36 professors, teachers, and public employees fired or investigated, and Vice President [[jd-vance|JD Vance]]'s call to report critics to their employers.[5] He urged readers who agreed with the measures to consider how the same rationale had been, and would again be, used against conservatives.[5]
+
+5. Badlands Brief — "The Exploitation of Charlie Kirk", URL: https://badlands.substack.com/p/the-exploitation-of-charlie-kirk

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, surveillance, spyware, cia, iran]
-sources: [raw/badlands-brief-949.md, raw/badlands-news-brief-e3e.md]
+sources: [raw/badlands-brief-949.md, raw/badlands-news-brief-e3e.md, raw/the-maxwells-mossad-and-a-digital.md]
 confidence: medium
 ---
 
@@ -23,3 +23,9 @@ Badlands commentary noted that the firm was founded in 2010 by a group that incl
 ## References
 1. Badlands Brief — "Tulsi Exposes Traitors; Peace Talks in Pakistan", URL: https://badlands.substack.com/p/badlands-brief-949
 2. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e
+
+## Unit 8200 lineage
+
+Badlands Media's May 2024 feature on Israeli digital surveillance lists NSO Group among the many companies with ties to [[unit-8200|Unit 8200]], the [[israel-defense-forces|IDF]]'s signals intelligence formation, and singles out the firm and its [[pegasus|Pegasus]] software as particularly relevant to the question of Israeli surveillance reach.[3] The article situates NSO within a broader pattern in which cyber and intelligence projects previously handled in-house by Israeli military and intelligence bodies were transferred after 2012 to private companies, in some cases created for that exact purpose, whose personnel continue to blur the line between state service and commercial activity.[3]
+
+3. Badlands Brief - "The Maxwells, Mossad and a Digital Panopticon", URL: https://badlands.substack.com/p/the-maxwells-mossad-and-a-digital

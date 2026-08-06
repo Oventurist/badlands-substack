@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, contributor, consciousness, psychological-operations]
-sources: [raw/a-look-at-recent-features.md, raw/generational-dependence-syndrome.md, raw/hijacked-consciousness-field-builders.md, raw/hijacked-consciousness-sacred-origins.md, raw/signal-collapse.md, raw/soul-governance.md, raw/structures-of-control-part-3.md, raw/the-bridge.md]
+sources: [raw/a-look-at-recent-features.md, raw/generational-dependence-syndrome.md, raw/hijacked-consciousness-field-builders.md, raw/hijacked-consciousness-sacred-origins.md, raw/signal-collapse.md, raw/soul-governance.md, raw/structures-of-control-part-3.md, raw/the-bridge.md, raw/the-emergence.md, raw/the-liminal.md, raw/the-ivy-web.md]
 confidence: medium
 ---
 
@@ -77,3 +77,29 @@ On March 1, 2025 Observing Consciousness published "The Bridge: Awakening, Heali
 The piece argues that governments, corporations and "bad actors" have worked to keep people fragmented and fearful, and that when people feel unsafe they seek external authority, deepening the control structures.[8] It grounds this claim in psychology and neurobiology, citing [[bessel-van-der-kolk|Bessel van der Kolk]], [[peter-levine|Peter Levine]], [[joe-dispenza|Joe Dispenza]], [[bruce-lipton|Bruce Lipton]] and [[david-hawkins|David Hawkins]], and presents [[somatic-experiencing|Somatic Experiencing]], breathwork, time in nature, cold therapy and fasting as routes back to nervous-system regulation.[8] In an author's note the writer says the article "was written for all of us, for anyone who has ever felt that something is not quite right," and offers it as something to share with people beginning to see beyond the surface.[8] As with the author's other contributions, it closes by directing readers to more of "OC's" free work at the Observing Consciousness Substack and carries the standard Badlands disclaimer.[8]
 
 8. Badlands Brief — "The Bridge", URL: https://badlands.substack.com/p/the-bridge
+
+## "The Emergence" (April 2025)
+
+On April 26, 2025 Observing Consciousness published [[the-emergence|"The Emergence: Living as the Coherence"]], which drew 87 likes and was presented as a follow-up to the author's earlier essay "The Remembering."[9] The piece argues that after the work of remembering, the recovered fragments of the self begin to harmonize and [[coherence|coherence]] becomes a default state rather than a peak moment.[9]
+
+Written in the same second-person register as "The Bridge," the essay grounds its claims in citations to [[andrew-newberg|Andrew Newberg]], [[carlo-rovelli|Carlo Rovelli]], [[stephen-porges|Stephen Porges]] and [[polyvagal-theory|Polyvagal Theory]], [[mae-wan-ho|Mae-Wan Ho]], [[shamini-jain|Shamini Jain]], [[bruce-lipton|Bruce Lipton]], [[rachel-naomi-remen|Rachel Naomi Remen]], [[vienna-pharaon|Vienna Pharaon]], [[sue-johnson|Sue Johnson]], [[joe-dispenza|Joe Dispenza]], [[bruce-greyson|Bruce Greyson]], [[candace-pert|Candace Pert]], [[rollin-mccraty|Rollin McCraty]] of the [[heartmath-institute|HeartMath Institute]], [[clare-graves|Clare Graves]], [[dean-radin|Dean Radin]], [[dan-siegel|Dan Siegel]] and [[jean-houston|Jean Houston]].[9]
+
+An afterword identifies the article as the final movement in a seven-part arc — "The Bridge," "The Shift," "Walking the Path," "The Liminal," "Transcending Ego," "The Remembering" and "The Emergence" — described as a spiral staircase rather than a linear ascent.[9] In the author's note the writer states that the series "was never meant to be a map" but "a mirror," composed while living its stages rather than after resolving them, and signs off "With love, Observing Consciousness."[9] As with the author's other contributions, the piece closes by directing readers to more of "OC's" free work at the Observing Consciousness Substack and carries the standard Badlands disclaimer.[9]
+
+9. Badlands Media — "The Emergence", URL: https://badlands.substack.com/p/the-emergence
+
+## "The Liminal" (April 2025)
+
+On April 5, 2025 Observing Consciousness published [[liminality|"The Liminal: Navigating the Emerging Space Between Selves"]], which drew 156 likes and was presented as a follow-up to the author's earlier feature "Walking the Path."[10] The essay addresses readers who have passed through initial awakening and emotional unraveling only to find themselves in an interval that is "not peaceful, necessarily, but eerily still."[10]
+
+Written in the author's characteristic second person, the piece defines the liminal as "the pregnant pause between breaths" and supports the framing with citations to [[victor-turner|Victor Turner]] on sacred disorientation, [[andrew-newberg|Andrew Newberg]] on the deactivation of ego and spatial orientation, [[shamini-jain|Shamini Jain]] on energetic recalibration, [[lisa-miller|Lisa Miller]] on the "spiritual lull," [[dan-siegel|Dan Siegel]] on differentiation, [[lynne-mctaggart|Lynne McTaggart]] on [[morphic-resonance|morphic resonance]], [[konstantin-korotkov|Konstantin Korotkov]] on [[biofield-imaging|biofield imaging]], [[nora-bateson|Nora Bateson]] on dissolving connections in transforming systems, and the poet [[david-whyte|David Whyte]] on solitude.[10] It also grounds the experience mythically in [[joseph-campbell|Joseph Campbell]]'s [[heros-journey|Hero's Journey]] and in the Inanna, Buddha, Isis–Osiris and Odin narratives.[10]
+
+The article's extended case study follows "Crystal," a VP of Sales who left a 17-year corporate career for a cabin at the edge of a wooded town and found not liberation but invisibility — a state the author reads as gestation rather than death.[10] As with the author's other contributions, the piece closes with an author's note addressed to those who sense "an undercurrent beneath reality," a pointer to more of "OC's" free work at the Observing Consciousness Substack, and the standard Badlands disclaimer.[10]
+
+10. Badlands Brief — "The Liminal", URL: https://badlands.substack.com/p/the-liminal
+
+## "The Ivy Web" (2025)
+
+"The Ivy Web," published on May 29, 2025, is an Observing Consciousness contribution to Badlands Media completing a trilogy with "Wilted Ivy" and "The Harvard Control Grid."[11] It argues that [[harvard-university|Harvard University]] operated as a global command node of soft power rather than a school, documenting its endowment liquidation, its training of sanctioned Chinese paramilitary officials, the conviction of [[charles-lieber|Charles Lieber]], and federal scrutiny of its undisclosed foreign funding.[11] Consistent with the author's wider body of work, the closing sections shift from institutional analysis to a spiritual register, describing the exposure as "not just political" but "biological" and "spiritual," and calling for decentralized education, ethical research networks, open source governance and "spiritual literacy" in place of the fallen academic order.[11]
+
+11. Badlands Brief — "The Ivy Web", URL: https://badlands.substack.com/p/the-ivy-web

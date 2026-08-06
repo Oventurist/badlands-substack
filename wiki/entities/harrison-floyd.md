@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [georgia, fulton-county, rico, 2020-election, defendant]
-sources: [raw/badlands-news-brief-054.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-af5.md]
+sources: [raw/badlands-news-brief-054.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-af5.md, raw/the-devil-is-still-in-georgia.md]
 confidence: medium
 ---
 
@@ -41,8 +41,15 @@ Badlands coverage reported that the dispute concerned evidence first requested i
 
 The county also argued that Floyd's "Trump Won" defense should be struck because the defense could not have known Trump won in 2020 and the defendant would not have had access to the records at the time of the conduct charged.[4] Badlands writers treated this as self-refuting, quoting [[patrick-gunnels|Patrick Gunnels]]: "We stole it fair and square, no backsies."[4] The second matter heard that day involved co-defendant [[trevian-kutti|Trevian Kutti]].[4]
 
+## November 2023 interview and bond treatment
+
+In November 2023 Floyd appeared as a guest on the [[badlands-media|Badlands Media]] program [[why-we-vote|Why We Vote]], interviewed by [[canncon|CannCon]] and [[ashe-in-america|Ashe in America]], in his capacity as a defendant in the [[fulton-county|Fulton County]] criminal proceeding against [[donald-trump|Donald Trump]] and co-defendants.[5] As former executive director of [[black-voices-for-trump|Black Voices for Trump]], he was credited with expanding Trump's support among Black voters to unprecedented levels in 2020.[5] Floyd said his inclusion in the case originated with a mainstream news article that misrepresented his involvement in Georgia's elections, on which District Attorney [[fani-willis|Fani Willis]] relied in looping him into the indictment.[5] Alone among the defendants, Floyd was denied bond and held on the stated ground that he was "a flight risk," without explanation of what made him one.[5]
+
+At a November 3, 2023 hearing on the state's motion to quash subpoenas, Floyd's attorney argued that evidence bearing on the actual election outcome was relevant to his client's state of mind, asking the court, "What happens if we show that Trump won?"[5] The Secretary of State subsequently withdrew the motion, leaving Willis exposed.[5] After the proffer videos of [[jenna-ellis|Jenna Ellis]] and [[sidney-powell|Sidney Powell]] were leaked to [[abc-news|ABC News]] that month, Willis blamed Floyd's team for the leaks and sought a protective order over evidence in the case; Floyd denied the allegations, and his attorneys argued the state resisted disclosure because "a lot of the stuff we've asked for, they simply don't have."[5] Floyd vowed to fight the case to the Supreme Court if necessary, saying, "We're going to hold these bastards accountable."[5]
+
 ## References
 1. Badlands News Brief — "Fani Hunts Alone as Putin Keeps the Throne", URL: https://badlands.substack.com/p/badlands-news-brief-054
 2. Badlands Brief — "Badlands News Brief: Middle Eastern Powder Kegs & Crisis Cascades Abound", URL: https://badlands.substack.com/p/badlands-news-brief-158
 3. Badlands Brief — "Biden Hemorrhages Already-Nonexistent Support", URL: https://badlands.substack.com/p/badlands-news-brief-6fc
 4. Badlands Brief — "Badlands News Brief: Deliberations Begin as Signal Spreads in the Info War", URL: https://badlands.substack.com/p/badlands-news-brief-af5
+5. Badlands Brief — "The Devil is Still in Georgia", URL: https://badlands.substack.com/p/the-devil-is-still-in-georgia

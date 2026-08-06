@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [catholic-church, religion, italy]
-sources: [raw/badlands-news-brief-09e.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-7bf.md, raw/is-jerome-powell-a-patriot.md, raw/soul-governance.md]
+sources: [raw/badlands-news-brief-09e.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-7bf.md, raw/is-jerome-powell-a-patriot.md, raw/soul-governance.md, raw/the-darwinian-perversion-of-christianity.md]
 confidence: medium
 ---
 
@@ -39,9 +39,16 @@ The Badlands Media essay [[soul-governance|Soul Governance]] presents the Vatica
 
 That claim, the essay says, was implemented through [[cestui-que-vie-trust|Cestui Que Vie trusts]], which presumed anyone unable to prove spiritual sovereignty to be lost at sea; under the resulting maritime framing the person became cargo and the Vatican became the port.[5] The [[jesuits|Jesuits]] are described as the operators of this machinery, conquering "by simulation" rather than by sword and producing a contractual, guilt-laden counterfeit of God.[5] The essay traces a lineage from Vatican law through scientific authority to the [[world-economic-forum|World Economic Forum]], which it calls the Vatican of the digital grid.[5]
 
+## The Chardin heresy and Vatican II
+
+[[matthew-ehret|Matthew Ehret]] writes that the Vatican banned the works of the Jesuit [[pierre-teilhard-de-chardin|Pierre Teilhard de Chardin]] as heresy, influential bishops and cardinals in Rome having been troubled by theories that challenged fundamental dogma including the divinity of Christ and the nature of sin, forgiveness and the mass.[6] Chardin was deprived of the right to teach or publish and directed toward missionary work instead, and his writings were still largely banned when he died in 1955, circulating thereafter as a kind of samizdat.[6]
+
+Ehret argues that Chardin's followers nevertheless shaped the [[second-vatican-council|Second Vatican Council]] launched by Pope John XXIII in 1962 and the subsequent rise of [[liberation-theology|Liberation Theology]], and that while Popes John Paul I and II tried to resist this deconstruction of Christianity, "a touch of poison and a couple of assassin's bullets" brought the Holy See back into line.[6]
+
 ## References
 1. Badlands Brief — "Preemptive Pardons, Syrian Sanctions, & Preparations for Putin", URL: https://badlands.substack.com/p/badlands-news-brief-09e
 2. Badlands Brief — "Badlands News Brief: A Coming Conclave & More Musical Chairs", URL: https://badlands.substack.com/p/badlands-news-brief-5c8
 3. Badlands News Brief — "The Bilateral Bromance & A Misled Grand Jury", URL: https://badlands.substack.com/p/badlands-news-brief-7bf
 4. Badlands Brief — "Is Jerome Powell a Patriot?", URL: https://badlands.substack.com/p/is-jerome-powell-a-patriot
 5. Badlands Brief — "Soul Governance", URL: https://badlands.substack.com/p/soul-governance
+6. Badlands Brief — "The Darwinian Perversion of Christianity", URL: https://badlands.substack.com/p/the-darwinian-perversion-of-christianity

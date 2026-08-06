@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [cia, cuba, covert-operations, 1961]
-sources: [raw/a-family-affair.md, raw/four-pillars-of-government-control.md]
+sources: [raw/a-family-affair.md, raw/four-pillars-of-government-control.md, raw/the-cia-is-being-thrown-under-the.md]
 confidence: medium
 ---
 
@@ -23,3 +23,11 @@ The operation is also presented as the origin point of the Cuban exile force the
 ## Nixon's blocked file request
 
 When [[richard-nixon|Richard Nixon]] took office in 1968, one of the first things he wanted to do was review the [[central-intelligence-agency|CIA]]'s documents on the Bay of Pigs and the assassination of [[john-f-kennedy|John F. Kennedy]].[2] Director [[richard-helms|Richard Helms]] was very reluctant and essentially refused to allow the standing president access, despite Nixon's clear right to it — an episode Badlands contributor [[erik-carlson|Erik Carlson]] reads as evidence that the agency understood Nixon was not its friend, and as the motive for the [[watergate|Watergate]] break-in that removed him from power.[2]
+
+## Kennedy's response in Carlson's account (2024)
+
+Erik Carlson's "The CIA is Being Thrown Under the Bus" builds on the famous remark [[john-f-kennedy|John F. Kennedy]] made about the [[central-intelligence-agency|CIA]] after the 1961 Bay of Pigs debacle: "I will splinter the CIA into a thousand pieces and scatter it into the winds."[3]
+
+Carlson reads this as evidence that less than a decade and a half after the agency's creation a sitting president considered it beyond saving — that no part of its foundation or structure could be salvaged and a total teardown was necessary.[3]
+
+3. Badlands Brief — "The CIA is Being Thrown Under the Bus", URL: https://badlands.substack.com/p/the-cia-is-being-thrown-under-the

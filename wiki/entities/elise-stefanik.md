@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, united-nations, trump-administration, foreign-policy]
-sources: [raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-360.md, raw/badlands-news-brief-7b1.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-dca.md]
+sources: [raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-360.md, raw/badlands-news-brief-7b1.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-dca.md, raw/the-ongoing-betrayal-of-the-gop.md]
 confidence: medium
 ---
 
@@ -47,3 +47,9 @@ On Thursday, March 27, 2025, President [[donald-trump|Donald Trump]] withdrew St
 4. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
 5. Badlands Brief — "Bogus Visas, Brazilian Sanctions, and Foreign Boat Battles", URL: https://badlands.substack.com/p/badlands-news-brief-bd7
 6. Badlands Brief — "Elise UNnominated, 41% Frauds, & Escalating Canadian Conflicts", URL: https://badlands.substack.com/p/badlands-news-brief-dca
+
+## Defense of the NED
+
+Badlands Media names Elise Stefanik, a former board member of the [[national-endowment-for-democracy|National Endowment for Democracy]], among the Republican figures who defend the endowment on the grounds that its work advances U.S. interests by countering authoritarian regimes.[7] That position placed her, alongside Secretary of State [[marco-rubio|Marco Rubio]], on the traditional-Republican side of the 2025 funding fight, opposite Trump-aligned populists seeking to defund the organization.[7]
+
+7. Badlands Brief — "The Ongoing Betrayal of the GOP", URL: https://badlands.substack.com/p/the-ongoing-betrayal-of-the-gop

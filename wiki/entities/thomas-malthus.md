@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [economics, malthusianism, climate, population, history]
-sources: [raw/badlands-news-brief-52f.md, raw/combating-the-transhumanist-religion.md, raw/defeating-the-depopulation-agenda.md]
+sources: [raw/badlands-news-brief-52f.md, raw/combating-the-transhumanist-religion.md, raw/defeating-the-depopulation-agenda.md, raw/the-inversion-of-health.md]
 confidence: medium
 ---
 
@@ -32,7 +32,12 @@ Carey demonstrated instead that technological progress made unproductive lands m
 
 Rather than permit populations to develop their minds and make the discoveries and inventions that would offset that crisis point, Ehret writes, Malthus and his heirs knew the British Empire which employed him could never exist were that creative power unleashed, and so he coldly advocated the elimination of the "unfit to make way for the more fit."[3] Not adept at the subtleties of modern newspeak, Malthus went so far as to propose that all children born beyond what would be required to keep the population at a desired level "must necessarily perish, unless room be made for them by the deaths of grown persons," and that society should facilitate rather than impede the operations of nature in producing this mortality.[3]
 
+## Influence on Darwin and eugenics
+
+In "The Inversion of Health," [[ryan-delarme|Ryan DeLarme]] writes that a significant amount of [[charles-darwin|Charles Darwin]]'s thinking came from Malthus, whose *Essay on the Principle of Population* claimed that human population grows exponentially while agricultural capacity grows arithmetically — implying a massive "survival of the fittest" food crisis in which the poor and weak die off and only the well-to-do survive.[4] DeLarme asks whether this "Malthusian catastrophe" is a real threat or a pretext for keeping the population smaller and more manageable, noting that the argument has been echoed by [[bill-gates|Bill Gates]] and other wealthy and influential figures, and identifies it as one of the bases of the modern [[eugenics]] movement.[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: North American Trade Troubles & Unipartisan Panic", URL: https://badlands.substack.com/p/badlands-news-brief-52f
 2. Badlands Brief — "Combating the Transhumanist Religion", URL: https://badlands.substack.com/p/combating-the-transhumanist-religion
 3. Badlands Brief — "Defeating the Depopulation Agenda", URL: https://badlands.substack.com/p/defeating-the-depopulation-agenda
+4. Badlands Brief — "The Inversion of Health", URL: https://badlands.substack.com/p/the-inversion-of-health

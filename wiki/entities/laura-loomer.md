@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [activist, pro-israel, first-amendment, fara]
-sources: [raw/badlands-brief-095.md, raw/badlands-brief-245.md, raw/badlands-brief-2b2.md, raw/badlands-brief-285.md, raw/badlands-brief-708.md, raw/badlands-brief-774.md, raw/badlands-brief-be1.md, raw/badlands-brief-cc3.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-243.md, raw/badlands-news-brief-a56.md, raw/how-to-stop-civil-war-20.md]
+sources: [raw/badlands-brief-095.md, raw/badlands-brief-245.md, raw/badlands-brief-2b2.md, raw/badlands-brief-285.md, raw/badlands-brief-708.md, raw/badlands-brief-774.md, raw/badlands-brief-be1.md, raw/badlands-brief-cc3.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-243.md, raw/badlands-news-brief-a56.md, raw/how-to-stop-civil-war-20.md, raw/the-exploitation-of-charlie-kirk.md]
 confidence: medium
 ---
 
@@ -84,3 +84,9 @@ On September 13, 2025, days after the [[assassination-of-charlie-kirk|assassinat
 10. Badlands Brief — "Badlands News Brief #243: Tariffs Back On & Trump: Best Friend of Animals", URL: https://badlands.substack.com/p/badlands-news-brief-243
 11. Badlands Brief — "Badlands News Brief: Corruption Probes, Client Lists & Mud Pits", URL: https://badlands.substack.com/p/badlands-news-brief-a56
 12. Badlands Brief — "How to Stop Civil War 2.0", URL: https://badlands.substack.com/p/how-to-stop-civil-war-20
+
+## Backlash against Tucker Carlson's 2025 Turning Point speech
+
+In "The Exploitation of Charlie Kirk," [[ryan-delarme|Ryan DeLarme]] identified Loomer among the figures who reacted with fierce backlash to [[tucker-carlson|Tucker Carlson]]'s July 2025 speech at [[turning-point-usa|Turning Point USA]]'s Student Action Summit in Tampa, in which Carlson suggested a link between [[jeffrey-epstein|Jeffrey Epstein]] and Israeli intelligence and questioned American citizens serving in the [[israel-defense-forces|IDF]].[13] Loomer and organizations such as [[stopantisemitism|StopAntisemitism]] accused Carlson of promoting antisemitic tropes; [[charlie-kirk|Charlie Kirk]] defended him.[13] DeLarme described such figures as "the usual suspects who police all conservative opinion" regarding [[israel|Israel]].[13]
+
+13. Badlands Brief — "The Exploitation of Charlie Kirk", URL: https://badlands.substack.com/p/the-exploitation-of-charlie-kirk

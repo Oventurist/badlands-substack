@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, wall-street, haiti, federal-reserve, citigroup]
-sources: [raw/friends-in-high-places.md, raw/the-bank-of-crooks-and-criminals.md, raw/the-battle-for-control.md]
+sources: [raw/friends-in-high-places.md, raw/the-bank-of-crooks-and-criminals.md, raw/the-battle-for-control.md, raw/the-legacy-of-george-hw-bush.md]
 confidence: low
 ---
 
@@ -68,7 +68,14 @@ Control passed to the Stillman family: the cotton broker [[charles-stillman|Char
 
 Lange argues from this history that Citibank sits at the centre of both the CIA shadow government and the power of [[alwaleed-bin-talal|Prince Alwaleed bin Talal Al Saud]], and may be "one of the keys that opens all doors."[3]
 
+## Mexico and the Raúl Salinas accounts
+
+For most of its 67 years in Mexico, Citibank was the country's only foreign-based bank, with long-standing close ties to the Mexican elite; rich Mexicans wanting to turn pesos into dollars and shield them overseas looked to it.[4] [[joe-lange|Joe Lange]] argues that the bank effectively held "a money laundering monopoly" in Mexico, remaining in place even when the banking system was nationalized, and that it laundered money for drug traffickers, criminals and politicians throughout its history.[4] When [[carlos-salinas-de-gortari|Carlos Salinas de Gortari]]'s [[privatization-in-mexico|privatization program]] reopened the banking sector and the [[nafta|NAFTA]] rules being written in spring 1993 required Mexico to admit other foreign banks, the Salinas administration granted the newcomers only limited access, preserving as much of Citibank's special status as possible.[4]
+
+The New York Times documented that throughout 1993 a courier delivered cashier's checks worth $3 million to $5 million to Citibank's Mexico City office, where clerks acting on New York instructions to "ask no questions" converted them to dollars and wired the proceeds to New York and on to Switzerland — more than $80 million belonging to [[raul-salinas-de-gortari|Raúl Salinas de Gortari]], the president's brother.[4] Once Salinas entered the bank's private banking world in 1993, Citibank officers in New York "came up with a whole strategy" replacing his aliases with untraceable Cayman Islands shell corporations set up with the bank's help; his relationship manager was [[amy-g-elliott|Amy G. Elliott]].[4] Lange presents the episode as proof that money laundering laws are a charade and that Citibank's successive renamings to Citicorp and Citigroup changed nothing about its conduct.[4]
+
 ## References
 1. Badlands Brief — "Friends in High Places", URL: https://badlands.substack.com/p/friends-in-high-places
 2. Badlands Brief — "The Bank of Crooks And Criminals", URL: https://badlands.substack.com/p/the-bank-of-crooks-and-criminals
 3. Badlands Brief — "The Battle for Control", URL: https://badlands.substack.com/p/the-battle-for-control
+4. Badlands Brief — "The Legacy Of George H.W. Bush", URL: https://badlands.substack.com/p/the-legacy-of-george-hw-bush

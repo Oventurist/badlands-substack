@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [entertainment, music, 2024-election, psyop, narrative]
-sources: [raw/badlands-news-brief-06d.md, raw/badlands-news-brief-4b7.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-8d8.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-bd6.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-e14.md, raw/badlands-news-brief-ea6.md, raw/badlands-news-brief-fe3.md, raw/q-for-dummies-chapter-3.md]
+sources: [raw/badlands-news-brief-06d.md, raw/badlands-news-brief-4b7.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-8d8.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-bd6.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-e14.md, raw/badlands-news-brief-ea6.md, raw/badlands-news-brief-fe3.md, raw/q-for-dummies-chapter-3.md, raw/the-great-purge-of-the-cabal-has.md, raw/the-media-is-the-enemy-of-the-people.md]
 confidence: medium
 ---
 
@@ -80,3 +80,17 @@ Late on Tuesday, September 10, 2024, shortly after the presidential debate ended
 Badlands contributor [[ashe-in-america|Ashe in America]] noted that the outlet had reported the previous day on the regime pressuring Swift to endorse Harris, and characterized the eventual endorsement as a lukewarm statement accompanied by a picture of her cat.[10] The commentary argued it was "fascinating" that working people who pay bills and buy groceries would care about the political opinions of a wealthy entertainer, and contrasted Swift's protected station with that of ordinary citizens.[10]
 10. Badlands Brief — "Kamalaflation, Sovereign Meetings & MAGA Joe?", URL: https://badlands.substack.com/p/badlands-news-brief-fe3
 11. Badlands Brief — "Q for Dummies - Chapter 3", URL: https://badlands.substack.com/p/q-for-dummies-chapter-3
+
+## Trump's "I HATE TAYLOR SWIFT" post and the Combs arrest
+
+An October 2024 Badlands Media essay by [[erik-carlson|Erik Carlson]] placed Swift in the timeline surrounding the arrest of [[sean-combs|Sean "P Diddy" Combs]], noting that the arrest occurred the day after the [[2024-trump-golf-course-assassination-attempt|attempt on Donald Trump's life at his golf course]], which itself came shortly after Trump posted "I HATE TAYLOR SWIFT."[12] Carlson described Swift as "yet another low-talent entertainment billionaire endorsing Harris," and folded her into his argument that celebrity endorsements of [[kamala-harris|Kamala Harris]] served the [[cabal|Cabal]]'s interest in keeping Trump out of office ahead of anticipated [[mass-arrests|mass arrests]].[12] Badlands Media notes that its articles represent the opinions of contributing authors.[12]
+
+12. Badlands Brief — "The Great Purge of the Cabal Has Begun", URL: https://badlands.substack.com/p/the-great-purge-of-the-cabal-has
+
+## Carlson's "enemy of the people" essay (September 2024)
+
+In "The Media is the Enemy of the People" (September 17, 2024), [[erik-carlson|Erik Carlson]] described Swift as "an American intelligence agency creation" built to influence and, in his phrasing, brainwash young girls and effeminate men.[13] He predicted that many lifelong Swifties would reach middle age unmarried and childless, and argued that the contemporaneous cultural discourse about "childless cat ladies" was not coincidental.[13]
+
+Carlson placed Swift in a lineage of manufactured acts, writing that "God created [[elvis-presley|Elvis Presley]]" while "[[mi6|MI6]]/[[central-intelligence-agency|CIA]] created [[the-beatles|the Beatles]] and [[the-rolling-stones|Rolling Stones]]," and calling Swift "Gen Z's Beatles" — not musically comparable, but created in a similar fashion, for similar reasons, by similar people.[13] He asked whether genres such as pop and hip hop, and artists like Swift and [[beyonce|Beyonce]], were being actively promoted while rock was left "to rot on the vine."[13]
+
+13. Badlands Brief — "The Media is the Enemy of the People", URL: https://badlands.substack.com/p/the-media-is-the-enemy-of-the-people

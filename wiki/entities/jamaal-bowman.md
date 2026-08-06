@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, progressives, democrats, aipac, primaries]
-sources: [raw/badlands-news-brief-040.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-d56.md]
+sources: [raw/badlands-news-brief-040.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-d56.md, raw/the-exploitation-of-charlie-kirk.md]
 confidence: medium
 ---
 
@@ -44,3 +44,9 @@ At a rally on Saturday, June 22, 2024, Bowman gave a fiery, profanity-filled add
 3. Badlands Brief — "Badlands News Brief: Escalation is the Name of the Game", URL: https://badlands.substack.com/p/badlands-news-brief-73f
 4. Badlands Brief — "Badlands News Brief: DHS Dogma, Israeli Escalation and an OG's Return", URL: https://badlands.substack.com/p/badlands-news-brief-d56
 
+
+## Cited as a casualty of pro-Israel electoral pressure
+
+In "The Exploitation of Charlie Kirk," [[ryan-delarme|Ryan DeLarme]] listed Bowman (D-NY) with [[earl-hilliard|Earl Hilliard]] (D-AL) and [[cori-bush|Cori Bush]] (D-MO) as lawmakers who lost their seats following significant backlash from pro-[[israel|Israel]] groups.[5] The examples supported DeLarme's argument that challenging Israel and its lobby can derail a political or media career, an expectation defied only by figures such as [[pat-buchanan|Pat Buchanan]], [[ron-paul|Ron Paul]], and [[john-hostettler|John Hostettler]].[5]
+
+5. Badlands Brief — "The Exploitation of Charlie Kirk", URL: https://badlands.substack.com/p/the-exploitation-of-charlie-kirk

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cia, intelligence, disinformation, reagan-administration]
-sources: [raw/badlands-news-brief-ac7.md, raw/how-to-rent-a-riot-the-plausible.md, raw/school-of-assassins-and-dictators.md]
+sources: [raw/badlands-news-brief-ac7.md, raw/how-to-rent-a-riot-the-plausible.md, raw/school-of-assassins-and-dictators.md, raw/the-ongoing-betrayal-of-the-gop.md]
 confidence: low
 
 ---
@@ -36,3 +36,9 @@ Casey took over as manager of [[ronald-reagan|Ronald Reagan]]'s 1980 presidentia
 Joe Lange presents this sequence as a deliberate cabal manoeuvre: an OSS intelligence veteran installed atop the campaign who steered Bush onto the ticket and then took the agency's directorship, placing the [[central-intelligence-agency|CIA]] in control of the Reagan administration and cementing [[shadow-government|shadow government]] influence over the executive branch.[3] In his phrasing, Reagan was "surrounded by a den of vipers, and I don't think he realized it."[3]
 
 3. Badlands Brief — "School of Assassins and Dictators", URL: https://badlands.substack.com/p/school-of-assassins-and-dictators
+
+## Creation of the NED
+
+Badlands Media argues that although the [[national-endowment-for-democracy|National Endowment for Democracy]] was technically created in 1983 by President [[ronald-reagan|Ronald Reagan]], it was "really birthed" in the office of then-CIA director William Casey.[4] Casey's aim was to shift covert [[cia|CIA]] operations, such as funding anti-communist movements, to an overt organization that would escape the scrutiny the agency faced after the intelligence scandals of the 1970s.[4] When Congress inserted language barring current or former CIA officials from the endowment, the agency's congressional liaison delivered Casey's demand that the provision be struck to Rep. [[dante-fascell|Dante Fascell]] late in the 1983 session; Fascell consented.[4]
+
+4. Badlands Brief — "The Ongoing Betrayal of the GOP", URL: https://badlands.substack.com/p/the-ongoing-betrayal-of-the-gop

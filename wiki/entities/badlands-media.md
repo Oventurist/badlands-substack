@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, citizen-journalism, newsletter, substack]
-sources: [raw/coming-soon.md, raw/last-call-for-gart-cocoa-beach.md, raw/death-blossom.md, raw/gart-myrtle-beach-is-almost-here.md, raw/get-woke-go-broke.md, raw/happy-new-year.md, raw/happy-thanksgiving-badlands.md, raw/happy-thanksgiving.md, raw/introducing-badlandsmediatv.md, raw/join-us-again-at-gart-deadwood.md, raw/join-us-in-nashville-for-gart-11.md, raw/last-call-for-gart-2.md, raw/last-call-for-gart-3-irvine.md, raw/kekistani-code-talkers.md, raw/last-call-for-gart-4-dallas.md, raw/last-call-for-gart-az.md, raw/last-call-for-gart-las-vegas.md, raw/join-us-in-deadwood-for-gart-12.md, raw/join-us-in-cocoa-beach-for-gart-10.md, raw/lt-general-steve-kwast-usaf-ret-on.md, raw/last-call-for-gart-plymouth.md, raw/project-trump-card.md, raw/q-for-dummies-chapter-1.md, raw/reset-the-space-reset-society.md, raw/soul-governance.md, raw/structures-of-control-part-3.md, raw/thats-not-signature-verification.md]
+sources: [raw/coming-soon.md, raw/last-call-for-gart-cocoa-beach.md, raw/death-blossom.md, raw/gart-myrtle-beach-is-almost-here.md, raw/get-woke-go-broke.md, raw/happy-new-year.md, raw/happy-thanksgiving-badlands.md, raw/happy-thanksgiving.md, raw/introducing-badlandsmediatv.md, raw/join-us-again-at-gart-deadwood.md, raw/join-us-in-nashville-for-gart-11.md, raw/last-call-for-gart-2.md, raw/last-call-for-gart-3-irvine.md, raw/kekistani-code-talkers.md, raw/last-call-for-gart-4-dallas.md, raw/last-call-for-gart-az.md, raw/last-call-for-gart-las-vegas.md, raw/join-us-in-deadwood-for-gart-12.md, raw/join-us-in-cocoa-beach-for-gart-10.md, raw/lt-general-steve-kwast-usaf-ret-on.md, raw/last-call-for-gart-plymouth.md, raw/project-trump-card.md, raw/q-for-dummies-chapter-1.md, raw/reset-the-space-reset-society.md, raw/soul-governance.md, raw/structures-of-control-part-3.md, raw/thats-not-signature-verification.md, raw/the-covfefe-dig.md, raw/the-great-american-restoration-tour-1af.md, raw/the-great-american-restoration-tour-b1a.md, raw/the-emergence.md, raw/the-great-american-restoration-tour.md, raw/the-great-american-restoration-tour-eb2.md]
 confidence: medium
 ---
 
@@ -58,6 +58,10 @@ Badlands Media published Part 3 of the *Structures of Control* series on Februar
 ## Coverage of the Lake v. Hobbs Count III trial
 
 Badlands Media covered every second of the May 2023 remanded Count III proceedings in [[lake-v-hobbs|Lake v. Hobbs et al.]], with contributor [[ashe-in-america|Ashe in America]] providing analysis of the trial and of Judge [[peter-thompson|Peter Thompson]]'s dismissal of [[kari-lake|Kari Lake]]'s [[signature-verification|signature verification]] claim.[27] The outlet states that its content is always free while inviting paid subscriptions to support its collective of citizen journalists, and notes that its articles and features represent the opinions of the contributing authors rather than of Badlands Media itself.[27]
+
+## The COVFEFE Dig (2023)
+
+"The COVFEFE Dig," published on 15 March 2023 under the standing head "Death of the Petrodollar," is [[gmoney|GMONEY]]'s open-source intelligence analysis of the true meaning of [[donald-trump|Donald Trump]]'s [[covfefe|covfefe]] Tweet.[28] The piece argues that the Tweet encodes a coordinated plan involving Trump, [[qanon|Q]], [[john-f-kennedy|JFK]]'s [[executive-order-11110|Executive Order 11110]], [[pepe-the-frog|Pepe]] and [[bitcoin|Bitcoin]] to end the rule of the central bankers and the [[petrodollar|petrodollar]].[28] It carries the network's standard disclaimer that Badlands Media articles represent the opinions of contributing authors and do not necessarily represent the views of Badlands Media itself, and directs readers to GMONEY's personal Substack for further deep dives.[28]
 
 ## References
 1. Badlands Brief — "Coming soon", URL: https://badlands.substack.com/p/coming-soon
@@ -157,3 +161,39 @@ Each installment carries the network's standard disclaimer that Badlands Media a
 25. Badlands Brief — "Soul Governance", URL: https://badlands.substack.com/p/soul-governance
 26. Badlands Brief — "Structures of Control - Part 3", URL: https://badlands.substack.com/p/structures-of-control-part-3
 27. Badlands Brief — "That's Not Signature Verification, Your Honor", URL: https://badlands.substack.com/p/thats-not-signature-verification
+28. Badlands Brief — "The COVFEFE Dig", URL: https://badlands.substack.com/p/the-covfefe-dig
+29. Badlands Brief — "The Great American Restoration Tour Continues!", URL: https://badlands.substack.com/p/the-great-american-restoration-tour-1af
+
+## GART 6 announcement (July 2024)
+
+On July 26, 2024 Badlands Media announced ticket sales for [[gart-6-myrtle-beach|GART 6]], a stop of the [[great-american-restoration-tour|Great American Restoration Tour]] set for November 14–17, 2024 in Myrtle Beach, South Carolina.[29] The post restated the slogan "We are the news, now," which the network described as defining a growing movement within the Truth and America First communities, and credited reader support with its growth into one of the most-watched independent networks online, carrying dozens of citizen journalists, podcasters and personalities across its shows.[29] It offered in-person tickets bundling a Friday Welcome Reception with weekend meals, a VIP package adding a Thursday dinner and meet-and-greet, and virtual tickets streaming three days of panels with months of replay access and entry to an exclusive GART [[telegram|Telegram]] chat.[29]
+
+## GART 3 announcement (November 2023)
+
+On November 24, 2023 Badlands Media announced that tickets were on sale for [[gart-3|GART 3]], the third stop of the [[great-american-restoration-tour|Great American Restoration Tour]], to be held January 11–14, 2024 at the [[marriott-irvine-spectrum|Marriott Irvine Spectrum]] in Irvine, California.[30] The post opened with the network's slogan "We are the news, now," describing it as a saying that had come to define a growing movement within the Truth and America First communities, and credited reader support with the outlet's growth into one of the most-watched independent networks online, carrying dozens of citizen journalists, podcasters and personalities across its shows.[30]
+
+The announcement promised live in-person versions of Badlands Media shows, live Q&A sessions with Badlands panels, and meet-and-greets with hosts, joking that attendees might "trap" hosts including [[burning-bright|Burning Bright]], [[just-human|Just Human]], [[chris-paul|Chris Paul]], [[jaytriot|Jaytriot]] and [[ghost-of-bph|Ghost]] into unofficial lobby or bar socials lasting until 3am given a supply of whisky.[30] In-person tickets bundled a Friday night Welcome Reception, breakfast and lunch throughout the weekend and time among fellow Badlanders as the community sought to "level up in the Information War together," while a VIP package added a dinner and meet-and-greet to open the weekend.[30] A room block was arranged at the Marriott, tickets were sold through TicketSpice, and virtual tickets streaming the entirety of GART 3 were offered to those unable to attend in person.[30]
+
+30. Badlands Brief — "The Great American Restoration Tour Continues!", URL: https://badlands.substack.com/p/the-great-american-restoration-tour-b1a
+
+## "The Emergence" (April 2025)
+
+On April 26, 2025 Badlands Media published [[the-emergence|"The Emergence: Living as the Coherence"]] by the contributor [[observing-consciousness|Observing Consciousness]], a feature on healing, integration and [[coherence|coherence]] that drew 87 likes and was billed as the final installment of a seven-part arc.[31] The piece carried the network's standing editorial disclaimer that "Badlands Media articles and features represent the opinions of the contributing authors and do not necessarily represent the views of Badlands Media itself," and directed readers to more of the author's free work at the Observing Consciousness Substack.[31] Its closing appeal restated the outlet's funding model — that Badlands Media "will always put out our content for free" while inviting paid subscriptions to help "our collective of citizen journalists take back the narrative from the MSM," signed with the slogan "We are the news now."[31]
+
+31. Badlands Media — "The Emergence", URL: https://badlands.substack.com/p/the-emergence
+
+## Launch of the Great American Restoration Tour (February 2023)
+
+On February 25, 2023 Badlands Media announced the [[great-american-restoration-tour|Great American Restoration Tour]], its first venture into live, ticketed in-person events, with an inaugural conference in [[chandler-arizona|Chandler, Arizona]] from April 20 to 23, 2023 at the [[hilton-phoenix-chandler|Hilton Phoenix Chandler]].[32] The announcement opened with the slogan "We are the news, now," which the outlet said had come to define a growing movement within the Truth and [[america-first-movement|America First]] communities and which Badlands had been "doing our best to make a reality."[32] It credited reader support for the network's rapid growth into one of the most-watched independent networks online, with dozens of citizen journalists, podcasters and personalities across its shows.[32]
+
+Badlands described the tour as "taking Badlands to the next level," promising live in-person versions of its shows, Q&A sessions with Badlands panels, host meet-and-greets, a Friday-night Welcome Reception and meals through the weekend so attendees could "level up in the [[information-war|Information War]] together."[32] VIP tickets, which included a private dinner the day before the conference, had sold out by the announcement, while General Admission remained on sale via TicketSpice and a discounted room block was offered through the host hotel.[32] Remote supporters were offered a pre-orderable exclusive live stream, and the event was sponsored by [[firman-power-equipment|FIRMAN]], which extended a 17% discount code to Badlands readers.[32]
+
+32. Badlands Brief — "The Great American Restoration Tour", URL: https://badlands.substack.com/p/the-great-american-restoration-tour
+
+## GART 2 announcement (June 2023)
+
+On June 29, 2023 Badlands Media announced that tickets were on sale for [[gart-2-cocoa-beach|GART 2]], the second stop of the [[great-american-restoration-tour|Great American Restoration Tour]], scheduled for September 7–10, 2023 in Cocoa Beach, Florida with the conference at the [[hilton-cocoa-beach-oceanfront|Hilton Cocoa Beach Oceanfront]].[33] The post again led with the network's slogan "We are the news, now," describing it as a saying that had come to define a growing movement within the Truth and [[america-first-movement|America First]] communities, and credited reader support with the outlet's growth into one of the most-watched independent networks online with dozens of citizen journalists, podcasters and personalities across its shows.[33]
+
+The announcement promised live in-person versions of Badlands shows, live Q&A sessions with Badlands panels and meet-and-greets with hosts all weekend, with in-person tickets bundling a Friday night Welcome Reception, breakfast and lunch throughout the weekend and open time among fellow Badlanders to "level up in the [[information-war|Information War]] together," plus an optional VIP dinner and meet-and-greet.[33] Badlands said tickets were already moving fast on the strength of the first Arizona event, that speakers and the itinerary were still to come, and that virtual tickets to stream the entirety of GART 2 would go on sale Monday, July 3, 2023.[33]
+
+33. Badlands Brief — "The Great American Restoration Tour Continues!", URL: https://badlands.substack.com/p/the-great-american-restoration-tour-eb2

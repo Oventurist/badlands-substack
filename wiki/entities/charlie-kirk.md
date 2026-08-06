@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [commentator, conservative, campus-politics]
-sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-282.md, raw/badlands-brief-774.md, raw/badlands-brief-c5b.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-4fd.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-b53.md, raw/badlands-news-brief-e48.md, raw/badlands-news-brief-ed9.md, raw/how-to-stop-civil-war-20.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-282.md, raw/badlands-brief-774.md, raw/badlands-brief-c5b.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-4fd.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-b53.md, raw/badlands-news-brief-e48.md, raw/badlands-news-brief-ed9.md, raw/how-to-stop-civil-war-20.md, raw/the-exploitation-of-charlie-kirk.md]
 confidence: low
 ---
 
@@ -111,3 +111,15 @@ Kirk's killing became the immediate backdrop for a national argument over speech
 
 15. Badlands Brief — "Badlands News Brief: Israeli Arms, Bondi's Back Peddle, & Assassins' Creeds", URL: https://badlands.substack.com/p/badlands-news-brief-ed9
 16. Badlands Brief — "How to Stop Civil War 2.0", URL: https://badlands.substack.com/p/how-to-stop-civil-war-20
+
+## Posthumous exploitation of Kirk's memory (September 2025)
+
+In "The Exploitation of Charlie Kirk," Badlands contributor [[ryan-delarme|Ryan DeLarme]] argued that the emotional aftermath of Kirk's public execution was being harvested by multiple actors at once — Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] and the State of [[israel|Israel]], leftist entertainers and organizations, GOP regulars, and elements within the [[donald-trump|Trump]] administration itself.[17] DeLarme compared the moment to the weeks after the [[september-11-attacks|September 11 attacks]], when public grief and rage were channelled into the [[patriot-act|Patriot Act]], warrantless FISA surveillance, and the wars in Iraq and Afghanistan.[17]
+
+DeLarme characterized Kirk as a lover of [[israel|Israel]] who nonetheless refused to follow the script, providing a platform at [[turning-point-usa|Turning Point USA]] for respectful dissent on U.S.-Israel policy.[17] Kirk platformed [[tucker-carlson|Tucker Carlson]] at the July 2025 Student Action Summit in Tampa — where Carlson suggested a link between [[jeffrey-epstein|Jeffrey Epstein]] and Israeli intelligence and questioned American citizens serving in the [[israel-defense-forces|IDF]] — and defended him against the ensuing backlash from figures such as [[laura-loomer|Laura Loomer]] and organizations such as [[stopantisemitism|StopAntisemitism]].[17] The same event hosted a debate between libertarian comedian [[dave-smith|Dave Smith]] and [[josh-hammer|Josh Hammer]], for which Kirk and TPUSA also caught criticism.[17] Kirk's comments opposing U.S. involvement in a potential war with [[iran|Iran]] drew pressure from pro-Israel influencers and donors.[17]
+
+On [[megyn-kelly|Megyn Kelly]]'s show earlier in 2025, Kirk voiced frustration at the heavily policed discourse around Israel in America, warning that treating him and Kelly as enemies of Israel would "weaken" two of its strongest advocates.[17] After Kirk's death, Carlson returned to Kelly's program to describe the "MASSIVE abuse" Kirk had taken from his own donors over his moderate stance, saying Kirk had shown him the messages.[17]
+
+DeLarme assessed Kirk as the single most influential and effective figure in the coalition that returned Trump to office — more consequential than [[elon-musk|Elon Musk]]'s purchase of Twitter or Scott Pressler's voter registration drives — because of what he did with the youth vote, and speculated that Kirk had been on track to become president one day.[17] He concluded that Kirk was "a prime target for the enemies of populism" and doubted the public would ever obtain clarity about what happened behind the scenes of the killing.[17]
+
+17. Badlands Brief — "The Exploitation of Charlie Kirk", URL: https://badlands.substack.com/p/the-exploitation-of-charlie-kirk

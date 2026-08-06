@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [middle-east, diplomacy, israel, iran, trump, badlands-brief]
-sources: [raw/badlands-brief-3d4.md, raw/badlands-brief-e60.md, raw/badlands-brief-f87.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-e54.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-f14.md]
+sources: [raw/badlands-brief-3d4.md, raw/badlands-brief-e60.md, raw/badlands-brief-f87.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-e54.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-f14.md, raw/the-master-builder.md]
 confidence: medium
 ---
 
@@ -150,3 +150,11 @@ Badlands contributor GhostofBasedPatrickHenry recalled speculating two years ear
 On this account Shia Islam comprises only 10–15% of Muslims worldwide, concentrated in Iran and surrounding areas including half of Iraq, parts of Syria and Yemen, most of Lebanon, and pockets of Turkey and Saudi Arabia.[20] The alleged plan — traced to [[zbigniew-brzezinski|Zbigniew Brzezinski]]'s [[grand-chessboard|The Grand Chessboard]] — was to build Iran into a legitimate military power, rally the Sunni Arab states around Israel, escalate Israel–Iran tensions into kinetic conflict, and draw in the United States, NATO, and eventually Russia, producing a world war.[20] The commentary credits [[mohammed-bin-salman|Mohammed bin Salman]] and Trump with derailing that design, and holds that the [[council-on-foreign-relations|Council on Foreign Relations]] will not get the Sunni–Shia war it had forecast.[20]
 
 20. Badlands Brief — "Badlands News Brief: Delays in Fake Justice & Signs of the Real Thing", URL: https://badlands.substack.com/p/badlands-news-brief-f14
+
+## Secrecy as the key to success (Lange, 2023)
+
+Badlands Media's "The Master Builder" (February 2, 2023) presents the Abraham Accords as the paradigm case of [[jared-kushner|Jared Kushner]] delivering a major initiative entirely below the radar, describing them as the greatest peace deal ever in the Middle East and noting that their announcement came as a complete surprise to the world.[22] Quoting [[aryeh-lightstone|Aryeh Lightstone]] in Newsweek, the article attributes that surprise to a deliberate discipline: there were no public negotiations and no strategic leaks through the press, and the Accords were to be announced only once completed.[22] While the media speculated, fished and occasionally invented details, there were never any consequential leaks; everyone involved held a high-level security clearance, making discretion mandatory, and the participants preferred discretion to backstabbing colleagues or damaging the prospects for peace.[22] Kushner was later nominated for a Nobel Peace Prize for his role as negotiator.[22]
+
+[[joe-lange|Joe Lange]] uses this record to argue that world-historic arrangements can in fact be concluded in secret, supporting his broader claim that [[donald-trump|Donald Trump]] is assembling a hidden international coalition against the global central-bank debt system.[22]
+
+22. Badlands Media — "The Master Builder", URL: https://badlands.substack.com/p/the-master-builder

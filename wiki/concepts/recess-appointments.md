@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [congress, senate, executive-power, trump-transition]
-sources: [raw/badlands-news-brief-9bc.md]
+sources: [raw/badlands-news-brief-9bc.md, raw/the-real-fight-begins.md]
 confidence: medium
 ---
 
@@ -22,5 +22,14 @@ Trump took to social media to issue orders to Senate Republicans running in that
 
 She also noted that while the public square argued about recess appointments and efforts to obstruct the incoming administration's agenda, Trump was moving quickly to place personnel able to execute on day one — pointing to border czar [[tom-homan|Tom Homan]], who reportedly would not require Senate confirmation because his role sat within the [[white-house|White House]] rather than at the head of a department.[1]
 
+## The Senate leadership fight
+
+The recess question was tightly bound to the November 13, 2024 election of a new Senate Republican leader, held behind closed doors.[2] In a Washington Times op-ed, [[peter-navarro|Peter Navarro]] argued that if [[mitch-mcconnell|Mitch McConnell]] prevailed in installing either [[john-cornyn|John Cornyn]] of Texas or [[john-thune|John Thune]] of South Dakota, the new majority leader would "strangle Mr. Trump's Cabinet appointees in their cribs" and delay the Trump agenda by months.[2] Navarro proposed a two-part remedy already urged by Trump and [[elon-musk|Elon Musk]]: the Senate should choose its leader in open session, and any candidate for the post should pledge to hold at least a 30-day recess by the end of the first month of the new administration.[2] An open ballot, the argument ran, would bind senators who had pledged support for Trump to vote accordingly, since they could not deceive their base when the record was public.[2] Thune was ultimately elected majority leader, succeeding the retiring McConnell.[2]
+
+## Scope of the confirmation power at stake
+
+The [[us-senate|Senate]] confirms not only all 22 Cabinet appointees but hundreds of deputy secretaries and undersecretaries, many assistant and deputy undersecretary positions, and critical West Wing posts including the head of the Office of Management and Budget and the Council of Economic Advisers.[2] It also confirms the heads of the Environmental Protection Agency, Federal Communications Commission, Federal Trade Commission and Securities and Exchange Commission, appointees to the Federal Reserve Board of Governors, Nuclear Regulatory Commission and National Labor Relations Board, and U.S. ambassadors to foreign countries and organizations such as the United Nations.[2] Badlands Media argued the most consequential confirmations were those of the heads of the FBI, [[central-intelligence-agency|CIA]], National Security Agency and Defense Intelligence Agency, along with the director of national intelligence and the director of the Secret Service — the institutions it considers most important for the deep political establishment to retain control over.[2]
+
 ## References
 1. Badlands News Brief — "Trump's Avengers Assemble as Globalists Tremble", URL: https://badlands.substack.com/p/badlands-news-brief-9bc
+2. Badlands Brief — "The Real Fight Begins", URL: https://badlands.substack.com/p/the-real-fight-begins

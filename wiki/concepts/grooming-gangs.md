@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [united-kingdom, child-trafficking, scandal, institutional-failure]
-sources: [raw/badlands-brief-b56.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-59b.md, raw/badlands-news-brief-93e.md, raw/on-golden-bridges-and-the-art-of.md, raw/on-predators-and-prey-exploring-the.md]
+sources: [raw/badlands-brief-b56.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-59b.md, raw/badlands-news-brief-93e.md, raw/on-golden-bridges-and-the-art-of.md, raw/on-predators-and-prey-exploring-the.md, raw/the-great-awakening-and-the-end-of.md]
 confidence: medium
 ---
 
@@ -56,6 +56,14 @@ The article characterised [[political-correctness|political correctness]] as a f
 
 In an August 2025 essay on the left-right paradigm, [[american-hypnotist|American Hypnotist]] wrote that the rape gangs currently operating in the UK often *begin* grooming young British girls by playing on their "White guilt," and then "alleviating" them of that guilt with feigned affection and gifts.[6] He argued that many of those girls had received an education comparable to the one he received in America — one that taught children to hate their own ancestry — and that countless victims could have been spared had they not been taught to hate themselves for the color of their skin.[6] The claim forms part of his broader argument that [[leftism]] functions as a mass grooming operation and that [[critical-race-theory|Critical Race Theory]] is itself a form of child grooming.[6]
 
+## Criminalisation of victims
+
+In a March 13, 2025 article, [[american-hypnotist|American Hypnotist]] wrote that police in the United Kingdom have a history of arresting underage girls for "public drunkenness" after they were kidnapped and forced to consume large quantities of alcohol by groomers and rapists, while the rapists themselves for the most part faced no consequences.[7] He argued that the children and their families were the parties subjected to punitive measures for vocally opposing what was happening in their communities, citing the book *Easy Meat* as documentation, and generalised that Western societies often punish people more for being trafficked than for being a trafficker.[7] He presented this pattern as precisely the defect that the [[trafficking-victims-protection-act|Trafficking Victims Protection Act]] was written to remedy, and predicted that when the international community pursued traffickers with sufficient rigour the greater part of the UK government would be destroyed, since the situation could only have arisen through massive collusion between officials and traffickers.[7]
+
+## Alleged narrative counter-programming
+
+The same article argued that the fame achieved by the OnlyFans performers [[lily-phillips|Lily Phillips]] and [[bonnie-blue|Bonnie Blue]] coincided deliberately with the period in which the grooming gangs were gaining international exposure.[7] The author contended that the pair were made famous in order to reinforce a stereotype of British girls as sexually loose, muddying the waters and reinforcing the long-standing apologist claim that the girls consent to and enjoy what is done to them - a line, he said, that media and popular culture had used about UK grooming and rape victims for decades.[7]
+
 ## References
 1. Badlands Brief — "A Communist Uprising & A Globalist Humiliation Ritual", URL: https://badlands.substack.com/p/badlands-brief-b56
 2. Badlands Brief — "Badlands News Brief: City States, Sabotage, & Soliloquies On Sanctions", URL: https://badlands.substack.com/p/badlands-news-brief-25f
@@ -63,3 +71,4 @@ In an August 2025 essay on the left-right paradigm, [[american-hypnotist|America
 4. Badlands Brief — "Badlands News Brief: A Midflight Collision, Dems Choose Division, Menendez Gets Prison", URL: https://badlands.substack.com/p/badlands-news-brief-93e
 5. Badlands Brief — "On Golden Bridges and the Art of War", URL: https://badlands.substack.com/p/on-golden-bridges-and-the-art-of
 6. Badlands Brief — "On Predators and Prey - Exploring the Left-Right Paradigm", URL: https://badlands.substack.com/p/on-predators-and-prey-exploring-the
+7. Badlands Brief — "The Great Awakening and the End of Human Trafficking", URL: https://badlands.substack.com/p/the-great-awakening-and-the-end-of

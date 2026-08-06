@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [business, donald-trump, new-york, lawfare]
-sources: [raw/badlands-news-brief-023.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-d74.md]
+sources: [raw/badlands-news-brief-023.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-d74.md, raw/the-master-builder.md]
 confidence: high
 ---
 
@@ -40,3 +40,9 @@ Under the Oman arrangement the company and [[donald-trump|Donald Trump]] earn br
 ## Gulf partnerships (2024–2025)
 
 During 2024, [[dar-global|Dar Global]] announced plans to build two Trump Towers in the Middle East — one in Jeddah, Saudi Arabia and one in Dubai, UAE — and in January 2025 said it would expand into the United States and Greece following those partnerships, including a real estate project in Oman.[5] Separately, [[damac-properties|DAMAC]], the company of Emirati billionaire [[hussain-sajwani|Hussain Sajwani]], has worked with the Trump Organization to develop golf courses in the UAE and Oman, with further regional projects planned.[5] Badlands commentary observed that these construction plans would be at risk if the war in the Middle East were not brought to an end.[5]
+
+## Origins and the "master builder" framing (Lange, 2023)
+
+Badlands Media's "The Master Builder" (February 2, 2023) recounts that [[donald-trump|Donald Trump]] took over his father's real-estate business in 1971 and renamed it The Trump Organization, and that under his direction the company constructed or restored some of the most iconic buildings around the world.[6] [[joe-lange|Joe Lange]] cites the timeline of builds published on the Trump Organization's own website as documentation of that record.[6] The article uses the company's construction history as the governing metaphor for its central claim — that Trump has moved from erecting buildings to building a new global financial system, beginning with a [[controlled-demolition-of-the-global-debt-system|controlled demolition]] of the existing central-bank debt structure.[6]
+
+6. Badlands Media — "The Master Builder", URL: https://badlands.substack.com/p/the-master-builder

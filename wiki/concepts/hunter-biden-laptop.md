@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [hunter-biden, emails, ukraine, burisma, evidence]
-sources: [raw/quid-pro-joe.md]
+sources: [raw/quid-pro-joe.md, raw/the-information-imperium.md]
 confidence: medium
 ---
 
@@ -18,3 +18,9 @@ Further messages in the collection document [[eric-schwerin|Eric Schwerin]]'s co
 
 ## References
 1. Badlands Brief — "Quid Pro Joe", URL: https://badlands.substack.com/p/quid-pro-joe
+
+## NewsGuard's handling of the story
+
+When the [[new-york-post|New York Post]] published its October 2020 report on the laptop, [[newsguard|NewsGuard]] cast immediate doubt on it, with co-CEO [[steven-brill|Steven Brill]] calling the story a "hoax" in interviews and echoing the establishment framing that it was Russian disinformation.[2] After the New York Times and other outlets confirmed the laptop's authenticity in 2022, NewsGuard downgraded [[the-daily-beast|The Daily Beast]] from 87.5/100 to 57/100 while Axios, BuzzFeed News, USA Today and the Washington Post kept perfect 100/100 scores despite peddling the same skepticism - an asymmetry Badlands Media's "The Information Imperium" presents as selective credibility enforcement.[2]
+
+2. Badlands Brief — "The Information Imperium", URL: https://badlands.substack.com/p/the-information-imperium

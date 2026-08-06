@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [globalism, world-government, cabal, new-world-order]
-sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-blitz-episode-9.md, raw/badlands-brief-95a.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-d68.md, raw/oppenheimer-and-the-central-narrative.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-blitz-episode-9.md, raw/badlands-brief-95a.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-d68.md, raw/oppenheimer-and-the-central-narrative.md, raw/the-master-builder.md]
 confidence: low
 ---
 
@@ -61,3 +61,11 @@ In her July 2023 review of Christopher Nolan's *Oppenheimer*, Badlands contribut
 4. Badlands Brief — "Badlands News Brief: Dali, Diddy & DJT", URL: https://badlands.substack.com/p/badlands-news-brief-491
 5. Badlands Brief — "Globalists Are Having a Bad Time ...", URL: https://badlands.substack.com/p/badlands-news-brief-d68
 6. Badlands Brief — "'Oppenheimer' & The Central Narrative", URL: https://badlands.substack.com/p/oppenheimer-and-the-central-narrative
+
+## The alleged Trump–Xi–Putin coalition against the NWO (Lange, 2023)
+
+Badlands Media's "The Master Builder" (February 2, 2023) asks whether China is coordinating with [[donald-trump|Donald Trump]] to eliminate the New World Order, glossing the abbreviation NWO explicitly.[7] Citing an early [[qanon|Q]] post of November 11, 2017, [[joe-lange|Joe Lange]] asks whether a coalition of China, Russia and others working with Trump against the NWO was planned in advance, and states his belief that [[xi-jinping|Xi Jinping]] is allied with Trump.[7]
+
+The article marshals the [[forbidden-city|Forbidden City]] state dinner, Beijing's search for a private channel through [[jared-kushner|Jared Kushner]], Trump's undocumented meetings with [[vladimir-putin|Vladimir Putin]], and the emergence of the [[brics|BRICS]] coalition as evidence of that alignment.[7] It reads [[george-soros|George Soros]]'s simultaneous attacks on Xi, Putin and Trump at the 2019 [[world-economic-forum|World Economic Forum]] as a sign of panic that the coalition was real.[7]
+
+7. Badlands Media — "The Master Builder", URL: https://badlands.substack.com/p/the-master-builder

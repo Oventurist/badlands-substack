@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [history, american-revolution, patriot-chronicles]
-sources: [raw/introducing-the-patriot-chronicles.md]
+sources: [raw/introducing-the-patriot-chronicles.md, raw/the-patriot-chronicles-francis-marion.md]
 confidence: medium
 ---
 
@@ -24,6 +24,13 @@ The essay quoted at length from [[thomas-jefferson|Thomas Jefferson]]'s [[declar
 
 The introduction was illustrated with Don Troiani's "Lexington Common, 19th of April 1775" and Luis Arcas Brauner's "The Boston Tea Party," and held that while the term "patriot" has existed in various forms since ancient times, it was American ancestors who came to personify and define it in the modern lexicon, making "patriot" and "freedom" synonymous with the United States.[1] A teaser for the first installment described [[francis-marion|Francis Marion]] and his veterans stopping the most powerful global empire of the age at the most critical moment of the Revolution.[1]
 
+## The southern campaign and the first American civil war
+
+After five years of virtual stalemate with [[george-washington|George Washington]] in the north, the British crafted a new plan to subdue the rebellion by invading South Carolina, where they believed the loyalties of colonial families of noble birth ran deepest and could be summoned against the peasant insurrection.[2] The plan miscarried in the lowlands between the Santee and Pee Dee Rivers, home to Scotch-Irish settlers who were sworn enemies of the English Crown — a rivalry the article compares in age and bloodshed to that between Shia and Sunni Muslims.[2] The [[siege-of-charleston|fall of Charleston]] and the [[battle-of-camden|Battle of Camden]] destroyed two [[continental-army|Continental]] armies in 1780 and left the colony without organized American forces.[2]
+
+What followed, in the article's telling, was a full-blown civil war: Tory militias went door to door hunting patriot sympathizers to hang, seizing food and supplies, burning homes and murdering unarmed women, while patriot militias reciprocated with equal brutality and fewer prisoners were taken on either side.[2] Because many men serving in units such as [[banastre-tarleton|Tarleton]]'s were colonial loyalists, most of the violence in South Carolina was committed by the colonists' own neighbors.[2] More than two hundred battles were fought in the colony — more than in any other — most of them after the 1780 invasion.[2] The counterweight was the guerrilla campaign of [[francis-marion|Francis Marion]], whose [[fabian-strategy|Fabian]] harassment tied down [[charles-cornwallis|Cornwallis]] long enough for the French fleet to reinforce Washington in Virginia and set up the Yorktown surrender.[2]
+
 ## References
 
 1. Badlands Brief — "Introducing 'The Patriot Chronicles'", URL: https://badlands.substack.com/p/introducing-the-patriot-chronicles
+2. Badlands Brief — "The Patriot Chronicles - Francis Marion", URL: https://badlands.substack.com/p/the-patriot-chronicles-francis-marion

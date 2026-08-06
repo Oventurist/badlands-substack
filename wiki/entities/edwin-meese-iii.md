@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [conservatism, doj, capital-research-center, medal-of-freedom]
-sources: [raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-9ae.md]
+sources: [raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-9ae.md, raw/the-maxwells-mossad-and-a-digital.md]
 confidence: medium
 ---
 
@@ -27,3 +27,9 @@ Meese, who served as Attorney General under President Ronald Reagan, was one of 
 ## References
 1. Badlands Brief — "Badlands News Brief: International Antifa, Hezbollah Strongholds, & Nuclear Options", URL: https://badlands.substack.com/p/badlands-news-brief-1c3
 2. Badlands Brief — "Badlands News Brief: Will the One True POTUS Please Stand Up?", URL: https://badlands.substack.com/p/badlands-news-brief-9ae
+
+## The Inslaw and PROMIS affair
+
+In 1982, while Meese headed the U.S. Justice Department, [[inslaw|Inslaw]] leased its [[promis-software|PROMIS software]] to the department; Badlands Media describes Meese in this period as an "arch neocon."[3] The former CIA covert operations officer [[earl-brian|Earl Brian]], who introduced the software to the Israeli spymaster [[rafi-eitan|Rafi Eitan]], was then building a business empire in which Meese's wife was a major investor.[3] The Eitan-Brian-Meese collaboration ultimately went badly and led to Inslaw's bankruptcy, after which Eitan turned to [[robert-maxwell|Robert Maxwell]] to market the backdoored software worldwide.[3]
+
+3. Badlands Brief - "The Maxwells, Mossad and a Digital Panopticon", URL: https://badlands.substack.com/p/the-maxwells-mossad-and-a-digital

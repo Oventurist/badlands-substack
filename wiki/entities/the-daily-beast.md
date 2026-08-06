@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, journalism, layoffs, press]
-sources: [raw/badlands-news-brief-c9b.md]
+sources: [raw/badlands-news-brief-c9b.md, raw/the-information-imperium.md]
 confidence: medium
 ---
 
@@ -28,3 +28,9 @@ Badlands commentator [[ashe-in-america|Ashe in America]] summarized the outlet's
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Korean Borders, Warmongers & Peacemakers", URL: https://badlands.substack.com/p/badlands-news-brief-c9b
+
+## NewsGuard downgrade
+
+After the authenticity of the [[hunter-biden-laptop|Hunter Biden laptop]] was conceded in 2022, [[newsguard|NewsGuard]] downgraded The Daily Beast from 87.5/100 to 57/100 over its coverage of the story.[2] Badlands Media's "The Information Imperium" contrasts this with Axios, BuzzFeed News, USA Today and the Washington Post, which retained perfect scores despite advancing the same skepticism, presenting the discrepancy as evidence that the ratings system protects favoured outlets.[2]
+
+2. Badlands Brief — "The Information Imperium", URL: https://badlands.substack.com/p/the-information-imperium

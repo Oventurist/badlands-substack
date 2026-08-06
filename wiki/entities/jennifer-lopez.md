@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [entertainment, celebrity, diddy, 2024-election]
-sources: [raw/badlands-news-brief-8bd.md]
+sources: [raw/badlands-news-brief-8bd.md, raw/the-great-purge-of-the-cabal-has.md]
 confidence: medium
 ---
 
@@ -25,3 +25,11 @@ Badlands Media commentary framed the exchange as significant less for what it sa
 ## References
 
 1. Badlands Brief — "Badlands News Brief: A New Golden Age Begins ...?", URL: https://badlands.substack.com/p/badlands-news-brief-8bd
+
+## Combs allegations and 2024 divorce
+
+An October 2024 Badlands Media essay by [[erik-carlson|Erik Carlson]] relayed a rumor that [[ben-affleck|Ben Affleck]] left Lopez because of her alleged involvement in the [[sean-combs|Sean "P Diddy" Combs]] scandal.[2] Carlson laid out a timeline in which Combs's home was raided by the [[fbi|FBI]] on March 25, 2024, and Affleck and Lopez filed for divorce five months later on August 20, 2024.[2] Citing rapper [[50-cent|50 Cent]], the essay claimed Affleck acted after learning of Lopez's participation in Combs's parties, describing it as something "even a celebrity in the Hollywood cesspool can't come back from."[2]
+
+Carlson also used Lopez as an example of what he called mediocre talent sustaining a long career of fame and fortune, asking rhetorically whether she has ever made a good movie or song, and noting her recent endorsement of [[kamala-harris|Kamala Harris]].[2] Badlands Media states that its articles represent the opinions of contributing authors.[2]
+
+2. Badlands Brief — "The Great Purge of the Cabal Has Begun", URL: https://badlands.substack.com/p/the-great-purge-of-the-cabal-has

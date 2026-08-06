@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, mainstream-media, cable-news]
-sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-1c6.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-9e7.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-bec.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-d45.md, raw/badlands-news-brief-d74.md, raw/badlands-news-brief-d76.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-efd.md, raw/badlands-news-brief-f25.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-1c6.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-9e7.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-bec.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-d45.md, raw/badlands-news-brief-d74.md, raw/badlands-news-brief-d76.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-efd.md, raw/badlands-news-brief-f25.md, raw/the-media-is-the-enemy-of-the-people.md, raw/the-president-that-never-was.md]
 confidence: medium
 ---
 
@@ -202,3 +202,16 @@ ZeroHedge described the episode as a new chapter in the long history of major me
 On Wednesday, January 17, 2024, CNN canceled the Republican presidential debate it had been scheduled to host in New Hampshire that Sunday, saying only one candidate had agreed to participate — a day after [[abc-news|ABC News]] canceled its own WMUR co-hosted debate planned for Thursday.[29] Only [[ron-desantis|Ron DeSantis]], the second-place finisher in the Iowa caucuses, had committed to debating; [[donald-trump|Donald Trump]], who won Iowa overwhelmingly, had skipped every debate of the campaign, and [[nikki-haley|Nikki Haley]] said she would not appear in any further debate unless Trump participated.[29] CNN said it would instead host a town hall with Haley on Thursday, following one it had held with DeSantis on Tuesday.[29]
 30. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd
 31. Badlands Brief — "Badlands News Brief: House Passes Gas & Country Refuses to Rejoice", URL: https://badlands.substack.com/p/badlands-news-brief-f25
+
+## Cited as a non-business media outlet (Carlson, 2024)
+
+[[erik-carlson|Erik Carlson]]'s September 17, 2024 essay names CNN, alongside [[msnbc|MSNBC]] and [[fox-news|Fox News]], as proof that media companies are not real businesses: ratings plummet, audiences reject the product, and yet the outlets continue operating and pushing the same messaging — behavior he says would bankrupt any firm not underwritten by government money.[32]
+
+32. Badlands Brief — "The Media is the Enemy of the People", URL: https://badlands.substack.com/p/the-media-is-the-enemy-of-the-people
+
+
+## 2024 Biden campaign coverage
+
+In a January 2, 2024 report on Biden campaign strategy, CNN wrote that the 2024 campaign year for [[joe-biden|Joe Biden]]'s inner circle would largely be about carefully ratcheting up the intensity of attacks against [[donald-trump|Donald Trump]], with aides wary of voters becoming dulled to the former president's rhetoric, and that younger aides on the reelection campaign had been grimly joking about when to "go full Hitler" — that is, when to abandon the softer claim that Trump had "parroted" [[adolf-hitler|Hitler]] in favor of a direct comparison.[33] Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] cited the report, together with CNN commentary asserting that Trump "poses the greatest threat to democracy that we've ever seen," as evidence that the network had become explicit about serving the Biden campaign's only available strategy.[33]
+
+33. Badlands Brief — "The President That Never Was", URL: https://badlands.substack.com/p/the-president-that-never-was

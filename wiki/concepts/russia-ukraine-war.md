@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ukraine, russia, nato, war, foreign-policy]
-sources: [raw/badlands-news-brief-185.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-4a6.md, raw/badlands-news-brief-7bf.md, raw/dear-america-are-you-ready-to-do.md]
+sources: [raw/badlands-news-brief-185.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-4a6.md, raw/badlands-news-brief-7bf.md, raw/dear-america-are-you-ready-to-do.md, raw/the-new-marshall-plan.md]
 confidence: medium
 ---
 
@@ -48,6 +48,12 @@ President [[donald-trump|Donald Trump]] and Russian President [[vladimir-putin|V
 
 "Russia and Ukraine will immediately start negotiations toward a Ceasefire and, more importantly, an END to the War," Trump stated. "The conditions for that will be negotiated between the two parties, as it can only be, because they know details of a negotiation that nobody else would be aware of."[4] Badlands commentary noted that the [[vatican|Vatican]], as represented by the Pope, had said it would be very interested in hosting the negotiations, with contributor GhostofBasedPatrickHenry writing that Trump had chosen the Vatican as the stage for a meeting with Putin.[4]
 
+## As a "new Marshall Plan"
+
+[[erik-carlson|Erik Carlson]] frames the Ukraine conflict as an attempted repeat of the [[marshall-plan|Marshall Plan]]: American taxpayers funding an overseas rebuild whose money is largely laundered back to the [[deep-state|Deep State]] and into offshore [[eurodollar|Eurodollar]] accounts, while corporations profit from reconstruction.[6] He estimates the eventual US outlay to Ukraine will be comparable to the $13.3 billion of 1948, roughly $169 billion in present terms.[6] In his account the conflict was the perfect storm for the [[cabal|Cabal]] — an enemy Americans and Europeans have been conditioned to fear their whole lives, in a country already saturated with Deep State corruption — providing the war they could not create under [[donald-trump|Donald Trump]].[6]
+
+Carlson argues the plan is failing because one side is acting against the Deep State rather than cooperating, so the operation can only be strung along while funds move offshore.[6] He attributes the absence of US and NATO boots on the ground to [[devolution|Devolution]], contending that the Deep State lacks the power to commit ground forces and that this is what prevents the global banking system from executing its reset.[6] What has been sent instead, he says, is out-of-date American weapons and ammunition that sat on shelves during Trump's presidency, whose disposal allows the [[military-industrial-complex|military industrial complex]] to produce replacements.[6] He also observes a collapse in American support: within two years the majority of the country went from displaying the blue and yellow flag to not thinking about Ukraine at all, which he treats as evidence that exposure to the corruption is waking people up.[6]
+
 ## References
 1. Badlands News Brief — "A Biden, a Schwab and a Ukrainian Dwarf Walk into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-185
 2. Badlands Brief — "Badlands News Brief: The Witch Hunt Hits a Few Snags as the Landscape Shifts", URL: https://badlands.substack.com/p/badlands-news-brief-2a0
@@ -59,3 +65,4 @@ President [[donald-trump|Donald Trump]] and Russian President [[vladimir-putin|V
 By late October 2022 the conflict had, in the view of [[badlands-media|Badlands Media]] commentary, moved toward direct confrontation between the United States and the [[russia|Russian Federation]] following the deployment of the [[101st-airborne-division|101st Airborne Division]] to the border of Russia's newly annexed Ukrainian territories.[5] [[brian-cates|Brian Cates]] warned that inserting US troops into a ground campaign against a Russian military already "blooded" in the Eastern European theater differed fundamentally from earlier campaigns in [[iraq|Iraq]] and [[afghanistan|Afghanistan]], because it risked a direct shooting war with a nuclear power.[5] See [[us-ground-war-over-ukraine-debate|the debate over a US ground war over Ukraine]].[5]
 
 5. Badlands Brief — "Dear America: Are You Ready To Do Your Global Duty And Send Your Child To Die For Ukraine?", URL: https://badlands.substack.com/p/dear-america-are-you-ready-to-do
+6. Badlands Brief — "The 'New' Marshall Plan", URL: https://badlands.substack.com/p/the-new-marshall-plan

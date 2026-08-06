@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [advocacy-group, antisemitism, doxxing, employment]
-sources: [raw/a-glaring-double-standard.md]
+sources: [raw/a-glaring-double-standard.md, raw/the-exploitation-of-charlie-kirk.md]
 confidence: medium
 ---
 
@@ -18,3 +18,9 @@ Cases DeLarme attributes to this pressure campaign include [[maura-finkelstein|M
 
 ## References
 1. Badlands Brief — "A Glaring Double Standard", URL: https://badlands.substack.com/p/a-glaring-double-standard
+
+## Response to Tucker Carlson's 2025 Turning Point speech
+
+In "The Exploitation of Charlie Kirk," [[ryan-delarme|Ryan DeLarme]] named StopAntisemitism among the organizations that accused [[tucker-carlson|Tucker Carlson]] of promoting antisemitic tropes after his July 2025 speech at [[turning-point-usa|Turning Point USA]]'s Student Action Summit, where Carlson linked [[jeffrey-epstein|Jeffrey Epstein]] to Israeli intelligence and raised concerns about Americans serving in the [[israel-defense-forces|IDF]].[2] DeLarme placed the group within a wider apparatus he described as policing conservative opinion on [[israel|Israel]], and noted that [[charlie-kirk|Charlie Kirk]] defended Carlson against the criticism.[2]
+
+2. Badlands Brief — "The Exploitation of Charlie Kirk", URL: https://badlands.substack.com/p/the-exploitation-of-charlie-kirk

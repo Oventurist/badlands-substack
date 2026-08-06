@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [china, ccp, politics]
-sources: [raw/empires-enigma.md]
+sources: [raw/empires-enigma.md, raw/the-master-builder.md]
 confidence: medium
 ---
 
@@ -26,3 +26,9 @@ The piece argues that the great majority of the China-emboldening and United Sta
 
 ## References
 1. Badlands Brief — "Empire's Enigma", URL: https://badlands.substack.com/p/empires-enigma
+
+## Removal at the 20th Party Congress (Lange, 2023)
+
+Badlands Media's "The Master Builder" (February 2, 2023) describes Hu's removal during the [[20th-national-congress-of-the-chinese-communist-party|20th Party Congress]] as an event witnessed live by the world, in which [[xi-jinping|Xi Jinping]]'s predecessor was taken from the hall publicly and in humiliating fashion.[2] Asking why the removal was ordered, the article quotes Foreign Policy's assessment that during Hu's tenure corruption rose — and, more dangerously for the party, so did public coverage of corruption, freedom of speech online and, to a limited extent, civil society groups and NGOs.[2] [[joe-lange|Joe Lange]] uses the NGO element to draw a link to [[george-soros|George Soros]], presenting the removal as one moment in a wider [[anti-corruption-campaign-in-china|anti-corruption campaign]] against officials he associates with foreign-funded networks.[2]
+
+2. Badlands Media — "The Master Builder", URL: https://badlands.substack.com/p/the-master-builder

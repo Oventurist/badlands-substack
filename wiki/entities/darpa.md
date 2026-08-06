@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [darpa, pentagon, technology, surveillance, big-tech]
-sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-news-brief-2a2.md, raw/soul-governance.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-news-brief-2a2.md, raw/soul-governance.md, raw/the-cia-is-being-thrown-under-the.md]
 confidence: medium
 ---
 
@@ -39,3 +39,11 @@ The Badlands Media essay [[soul-governance|Soul Governance]] claims that DARPA "
 1. Badlands Brief — "America Has a CIA-Run Economy", URL: https://badlands.substack.com/p/america-has-a-cia-run-economy
 2. Badlands Brief — "Badlands News Brief: Archives, Shifty Schiff, PelosiGate and Durham Panic", URL: https://badlands.substack.com/p/badlands-news-brief-2a2
 3. Badlands Brief — "Soul Governance", URL: https://badlands.substack.com/p/soul-governance
+
+## Alleged parentage of Facebook and Google (Carlson, 2024)
+
+Erik Carlson's "The CIA is Being Thrown Under the Bus" asserts that both Facebook and Google are DARPA creations used by the [[central-intelligence-agency|CIA]] to monitor and control people, and that [[mark-zuckerberg|Mark Zuckerberg]] is a CIA cut-out.[4]
+
+The claim is presented alongside [[mike-benz|Mike Benz]]'s account, given in an interview with [[tucker-carlson|Tucker Carlson]], of how the agency created and uses the two platforms to censor Americans.[4]
+
+4. Badlands Brief — "The CIA is Being Thrown Under the Bus", URL: https://badlands.substack.com/p/the-cia-is-being-thrown-under-the

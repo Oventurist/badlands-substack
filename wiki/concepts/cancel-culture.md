@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [free-speech, media, culture-war, employment]
-sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-46e.md, raw/from-ye-to-oy-vey.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-46e.md, raw/from-ye-to-oy-vey.md, raw/the-exploitation-of-charlie-kirk.md]
 confidence: medium
 ---
 
@@ -45,3 +45,9 @@ The essay observed that by early December 2022 essentially every individual and 
 2. Badlands Brief — "Badlands News Brief: Debt Ceiling, Cancel Culture & Incorruptibility", URL: https://badlands.substack.com/p/badlands-news-brief-096
 3. Badlands Brief — "Badlands News Brief: Globalist Rage, Biden Docs & Hockey Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-46e
 4. Badlands Brief — "From Ye to Oy Vey!", URL: https://badlands.substack.com/p/from-ye-to-oy-vey
+
+## The right's post-Kirk turn (September 2025)
+
+In "The Exploitation of Charlie Kirk," [[ryan-delarme|Ryan DeLarme]] argued that President [[donald-trump|Donald Trump]]'s remarks after the killing of [[charlie-kirk|Charlie Kirk]] — which began as a tribute before shifting midway — set the tone for what spiraled into the right's own brand of cancel culture and calls for repressive measures.[5] DeLarme counted more than 36 professors, teachers, and public employees fired or investigated over social media posts disparaging Kirk or celebrating his death, including an employee dismissed by Ball State University and multiple Indiana teachers removed.[5] He also described doxxing efforts by right-wing groups, including a now-defunct site called "Expose Charlie Murderers" that collected around 40,000 submissions of names and workplaces after Vice President [[jd-vance|JD Vance]] urged Americans to report critics to their employers.[5] DeLarme declined to comment on the legality, noting private employers' broad leeway over at-will employees' off-duty speech, but warned the same rationale would return against conservatives.[5]
+
+5. Badlands Brief — "The Exploitation of Charlie Kirk", URL: https://badlands.substack.com/p/the-exploitation-of-charlie-kirk

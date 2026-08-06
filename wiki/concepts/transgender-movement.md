@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [transgender, tavistock, wokeism, population-control]
-sources: [raw/death-to-dei.md, raw/is-generation-x-saving-america.md]
+sources: [raw/death-to-dei.md, raw/is-generation-x-saving-america.md, raw/the-hitler-or-obama-youth.md]
 confidence: low
 ---
 
@@ -31,3 +31,11 @@ Carlson argued that a near-doubling between Millennials and Gen Z, only one gene
 ## References
 1. Badlands Brief — "Death to DEI", URL: https://badlands.substack.com/p/death-to-dei
 2. Badlands Brief — "Is Generation X Saving America?", URL: https://badlands.substack.com/p/is-generation-x-saving-america
+
+## Post-Smith-Mundt growth argument
+
+Badlands contributor [[erik-carlson|Erik Carlson]] argued in November 2023 that transgender and LGBTQ+ identification surged after the repeal of the [[smith-mundt-act|Smith-Mundt Act]] and America became, in his phrase, "Transgender crazy."[3] He cited a 2023 [[gallup|Gallup]] poll finding 20.8% of Generation Z identifying as LGBTQ+ against 2.6% of Boomers, and 2.1% of Gen Z as transgender against 0.1% of Boomers, and contrasted the speed of that change with the millions of years attributed to evolutionary change.[3]
+
+Carlson further likened social pressure to accept transgender and LGBTQ+ narratives to the coercion used by the [[hitler-youth|Hitler Youth]], suggesting that "join the Hitler Youth" could be substituted with "accept the Trans and LGBTQ+ narrative," and argued that many young people comply outwardly without believing.[3]
+
+3. Badlands Brief — "The Hitler ... or Obama Youth", URL: https://badlands.substack.com/p/the-hitler-or-obama-youth

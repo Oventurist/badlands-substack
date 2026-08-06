@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [united-states, confederacy, british-empire, russia, lincoln]
-sources: [raw/how-canada-was-created-to-block-us.md, raw/in-defense-of-abraham-lincoln-and.md, raw/shadows-sovereigns-and-civil-wars.md]
+sources: [raw/how-canada-was-created-to-block-us.md, raw/in-defense-of-abraham-lincoln-and.md, raw/shadows-sovereigns-and-civil-wars.md, raw/the-decade-we-all-became-slaves.md]
 confidence: medium
 ---
 
@@ -32,6 +32,14 @@ The war's northern dimension shaped what followed: the [[british-north-america-a
 
 Lincoln's response was the revival of the [[american-system-of-political-economy|American System]] through the Banking and Currency Acts of 1862 and 1863, the [[national-bank-act-of-1863|Bank Act of 1863]], the issuance of [[greenbacks|greenbacks]] under the [[legal-tender-act-of-1862|Legal Tender Act of 1862]], and the sale of [[five-twenty-bonds|5:20 bonds]] organized by [[jay-cooke|Jay Cooke]].[2] These instruments financed soldiers' pay and supply as well as the [[first-transcontinental-railroad|transcontinental railway]] begun in 1863.[2] Contemplating the war's international scope in 1862, Lincoln told Congress that "we cannot escape history" and that in giving freedom to the slave "we assure freedom to the free," saving or meanly losing "the last, best hope of earth."[2]
 
+## A war over money, not slavery
+
+Badlands Media commentary argues that although Americans are taught the war of the 1860s was fought to free the slaves, it was fought over money like every other war.[4] The article accepts as true the observation that the North was overwhelmingly Republican and the South overwhelmingly Democrat, but rejects the moral framing built on it.[4] It describes the South as an agricultural juggernaut without real competition and the North as an industrial region facing stiff European competition: the South could afford to leave the United States and start its own country, but the North could not afford to lose the South.[4] The North had more people and the South more money, allowing the North to vote in laws that eventually required the South to pay 90 percent of the country's taxes.[4]
+
+## Aftermath
+
+The article disputes the idea that abolition immediately enriched former slaves, arguing that for most in the South life became harder and more cruel, as chattel ownership gave way to [[sharecropping]], which stripped landowners of any responsibility for the workers they employed.[4] It notes that at the start of the war 12 percent of Americans were slaves owned by other individuals, while today, in the author's framing, 99 percent are slaves owned by the American system.[4]
+
 ## References
 1. Badlands Brief — "How Canada Was Created to Block US-Russian Cooperation", URL: https://badlands.substack.com/p/how-canada-was-created-to-block-us
 2. Badlands Brief — "In Defense of Abraham Lincoln and the Greenbacks", URL: https://badlands.substack.com/p/in-defense-of-abraham-lincoln-and
@@ -43,3 +51,4 @@ Russia under Czar [[alexander-ii|Alexander II]] intervened to protect the Union 
 In the wake of the Union victory, a potential alliance of sovereign nation states was emerging globally, expressed in Lincoln's 1864 support for a Bering Strait telegraph, the 1867 Alaska purchase and [[william-gilpin|William Gilpin]]'s [[cosmopolitan-railway|Cosmopolitan Railway]] vision.[3] The article frames the subsequent age of bankers' wars, anarchist assassinations and economic turmoil as the deliberate destruction of that emerging cooperation, and warns that a similar formula is being applied today to set the stage for new civil wars.[3]
 
 3. Badlands Brief — "Shadows, Sovereigns and Civil Wars - Part 1", URL: https://badlands.substack.com/p/shadows-sovereigns-and-civil-wars
+4. Badlands Brief — "The Decade We All Became Slaves", URL: https://badlands.substack.com/p/the-decade-we-all-became-slaves

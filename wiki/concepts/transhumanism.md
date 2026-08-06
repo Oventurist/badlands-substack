@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [transhumanism, technocracy, ideology]
-sources: [raw/a-look-at-recent-features-84d.md, raw/badlands-news-brief-b5a.md, raw/combating-the-transhumanist-religion.md, raw/the-battle-over-closed-vs-open-systems.md]
+sources: [raw/a-look-at-recent-features-84d.md, raw/badlands-news-brief-b5a.md, raw/combating-the-transhumanist-religion.md, raw/the-battle-over-closed-vs-open-systems.md, raw/the-darwinian-perversion-of-christianity.md, raw/the-inversion-of-health.md]
 confidence: low
 ---
 
@@ -44,3 +44,16 @@ Ehret's counter-argument holds that the thesis survives only if consideration is
 [[matthew-ehret|Matthew Ehret]] frames transhumanism as the oligarchical closed system against which the emerging Russia/China-led Multipolar Alliance defines itself.[4] In his account, a closed or bounded system inevitably requires fascism as its governing mechanism, because population will always tend to consume more energy than a finite system generates, forcing an elite to decide who receives diminishing resources and who are the "useless eaters" sacrificed for the greater good.[4] He associates this outlook with [[thomas-malthus|Thomas Malthus]], T.H. Huxley, [[henry-kissinger|Henry Kissinger]] and [[al-gore|Al Gore]], and contrasts it with [[open-systems-vs-closed-systems|open-system]] thinking premised on unbounded creative and technological progress.[4]
 
 4. Badlands Brief — "The Battle over Closed vs. Open Systems", URL: https://badlands.substack.com/p/the-battle-over-closed-vs-open-systems
+
+## Jesuit and eugenic origins
+
+[[matthew-ehret|Matthew Ehret]] traces the religious core of transhumanism to the friendship between [[julian-huxley|Sir Julian Huxley]], founder of transhumanism and a leading eugenicist, and the Jesuit [[pierre-teilhard-de-chardin|Pierre Teilhard de Chardin]].[5] Huxley declared in his 1957 *New Bottles for New Wine*: "I believe in transhumanism: once there are enough people who can truly say that, the human species will be on the threshold of a new kind of existence, as different from ours as ours is from that of [[peking-man|Peking man]]."[5] Chardin supplied the theological counterpart, writing in *The Future of Man* that his [[omega-point|Omega Point]] "represents our passage, by translation or dematerialization, to another sphere of the Universe: not an ending of the Ultra-Human, but its accession to some sort of Trans-Human at the ultimate heart of things."[5]
+
+Chardin also anticipated the human–machine merger, asking how one could "fail to see the machine as playing a constructive part in the creation of a truly collective consciousness" and describing radio, television and electronic computers as manifestations of "a kind of super-Brain."[5] Ehret argues that beneath the veneer of "Christ consciousness" and "global love" lies the misanthropic [[eugenics|eugenical]] fanaticism of a scientific dictatorship.[5]
+
+5. Badlands Brief — "The Darwinian Perversion of Christianity", URL: https://badlands.substack.com/p/the-darwinian-perversion-of-christianity
+6. Badlands Brief — "The Inversion of Health", URL: https://badlands.substack.com/p/the-inversion-of-health
+
+## Coinage by Julian Huxley
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] identifies [[julian-huxley|Julian Huxley]] — brother of [[aldous-huxley|Aldous Huxley]] and a member of the British Eugenics Society — as the first person to use the term "trans-humanism," and states flatly that [[eugenics]] is the foundation of trans-humanism.[6]

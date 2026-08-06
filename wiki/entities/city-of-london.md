@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, cabal, deep-state, globalism]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-re-alignment-of-world-systems.md, raw/control-the-financial-system-control.md, raw/control-through-language.md, raw/does-the-cia-still-control-iran.md, raw/in-defense-of-abraham-lincoln-and.md, raw/is-jerome-powell-a-patriot.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-re-alignment-of-world-systems.md, raw/control-the-financial-system-control.md, raw/control-through-language.md, raw/does-the-cia-still-control-iran.md, raw/in-defense-of-abraham-lincoln-and.md, raw/is-jerome-powell-a-patriot.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-new-marshall-plan.md]
 confidence: low
 ---
 
@@ -73,6 +73,10 @@ Carlson elaborates that British Parliament does not apply to the City of London,
 
 Carlson argues that the June 30, 2023 replacement of [[libor|LIBOR]] by [[sofr|SOFR]] moved control of benchmark interest rates from the City of London to the US [[federal-reserve|Federal Reserve]], with [[donald-trump|Trump]]'s appointees [[jerome-powell|Jerome Powell]] and [[john-c-williams|John C. Williams]] as the instruments.[7] He frames the broader thesis that the US financial system has been controlled by foreign powers since the nation's founding, citing Wall Street's funding of both the Nazis and the Soviet Union and American entry into both World Wars against overwhelming public opposition as symptoms of that control.[7]
 
+## The square mile and the Ukraine war
+
+[[erik-carlson|Erik Carlson]] repeats his contention that it is not the British people who control the world through [[globalism|globalism]] but the elites who call England home, specifically the one square mile City of London.[9] He argues that British citizens have themselves been punished for the [[brexit|Brexit]] vote through mass immigration and "woke" policies.[9] Because running the world from a single square mile on a small island in the North Atlantic leaves one without natural resources, he says, the forced colonization of the world became necessary.[9] He describes the [[military-industrial-complex|military industrial complex]] arming Ukraine as City of London-controlled, sending out-of-date American weapons abroad so that replacements must be manufactured.[9]
+
 ## References
 1. Badlands Brief — "A Journey of Ever-changing Truths", URL: https://badlands.substack.com/p/a-journey-of-ever-changing-truths
 2. Badlands Brief — "A Re-Alignment of World Systems", URL: https://badlands.substack.com/p/a-re-alignment-of-world-systems
@@ -81,3 +85,12 @@ Carlson argues that the June 30, 2023 replacement of [[libor|LIBOR]] by [[sofr|S
 5. Badlands Brief — "Does the CIA Still Control Iran?", URL: https://badlands.substack.com/p/does-the-cia-still-control-iran
 6. Badlands Brief — "In Defense of Abraham Lincoln and the Greenbacks", URL: https://badlands.substack.com/p/in-defense-of-abraham-lincoln-and
 7. Badlands Brief — "Is Jerome Powell a Patriot?", URL: https://badlands.substack.com/p/is-jerome-powell-a-patriot
+
+## Loss of control over American banking (Carlson, 2024)
+
+In "The CIA is Being Thrown Under the Bus," Erik Carlson writes that [[donald-trump|Donald Trump]] has already shifted control of America's banking system away from the City of London to the [[federal-reserve|Federal Reserve]] by switching the benchmark rate from [[libor|LIBOR]] to [[sofr|SOFR]].[8]
+
+He presents this as one of several ways in which the Deep State tools used to control the world over the past century are losing effectiveness, alongside the prospect that the [[central-intelligence-agency|CIA]] will no longer serve as the Cabal's instrument for strong-arming countries or controlling world media.[8]
+
+8. Badlands Brief — "The CIA is Being Thrown Under the Bus", URL: https://badlands.substack.com/p/the-cia-is-being-thrown-under-the
+9. Badlands Brief — "The 'New' Marshall Plan", URL: https://badlands.substack.com/p/the-new-marshall-plan

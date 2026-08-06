@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, cia, oversight, mockingbird, 1975]
-sources: [raw/america-has-a-cia-run-economy.md, raw/clowns-in-america.md, raw/four-pillars-of-government-control.md, raw/how-to-rent-a-riot-the-plausible.md, raw/poisoning-the-well.md, raw/the-church-committee-for-dummies.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/clowns-in-america.md, raw/four-pillars-of-government-control.md, raw/how-to-rent-a-riot-the-plausible.md, raw/poisoning-the-well.md, raw/the-church-committee-for-dummies.md, raw/the-information-imperium.md]
 confidence: medium
 ---
 
@@ -77,3 +77,9 @@ After 126 full committee meetings, 40 subcommittee hearings, roughly 800 witness
 The report contained more than 90 legislative and regulatory recommendations designed to "place intelligence activities within the constitutional scheme for controlling government power," observing that "there is no inherent constitutional authority for the President or any intelligence agency to violate the law."[6] Badlands Media argues the resulting reforms were far from comprehensive, and that nearly 50 years later the intelligence community has taken its misconduct to new levels — the reason alternative media and conservative commentators called for a new "Church-style" body, realized in the [[select-subcommittee-on-the-weaponization-of-the-federal-government|Select Subcommittee on the Weaponization of the Federal Government]] chaired by [[jim-jordan|Jim Jordan]].[6]
 
 6. Badlands Brief — "The Church Committee, for Dummies", URL: https://badlands.substack.com/p/the-church-committee-for-dummies
+
+## Legacy in the information-operations debate
+
+Badlands Media's "The Information Imperium" cites the Church Committee twice: as the investigation whose exposure of [[central-intelligence-agency|CIA]] media manipulation destroyed the agency's credibility by the 1970s and created the need for a successor vehicle in the [[national-endowment-for-democracy|National Endowment for Democracy]], and as the body that flagged [[usaid|USAID]] as a CIA front used for Vietnam-era intelligence work.[7] Both references anchor the article's claim that today's overt "democracy promotion" funding is the institutional descendant of operations the committee once exposed.[7]
+
+7. Badlands Brief — "The Information Imperium", URL: https://badlands.substack.com/p/the-information-imperium

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [law, governance, civics, liberty]
-sources: [raw/a-startling-contradiction-at-the.md]
+sources: [raw/a-startling-contradiction-at-the.md, raw/the-language-of-control.md]
 confidence: medium
 ---
 
@@ -32,3 +32,15 @@ The essay calls for "a renaissance in civic awareness," warning that when law is
 
 ## References
 1. Badlands Brief — "A Startling Contradiction at the Heart of 'Our' Legal System", URL: https://badlands.substack.com/p/a-startling-contradiction-at-the
+
+## "Rule of law" as a mechanism of control (DeLarme, 2025)
+
+Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] analyzed "the rule of law" as a phrase with a surface definition that disarms the public and an unspoken operational meaning.[2] He contrasted the conventional account — quoted from Google's Gemini, that the rule of law ensures all individuals, institutions and entities are accountable to laws publicly promulgated, equally enforced and independently adjudicated, with no one above the law — against what he called the real meaning: the use of judicial systems at home and abroad to retain control of the levers of power.[2]
+
+His reasoning was that if law rather than a monarch or oligarchy governs, then the true rulers are those able to write, interpret or change the law — legislators, judges, prosecutors, and the financiers to whom they are indebted.[2] He pointed to [[george-soros|Soros]]-funded district attorneys and prosecutors including [[alvin-bragg|Alvin Bragg]] in Manhattan, George Gascón in Los Angeles and Kim Foxx in Cook County as illustrations, describing a race to control court systems, judges and prosecutors.[2]
+
+Beyond prosecutors, DeLarme identified operatives who build legal frameworks, run "rule of law programs" and organize [[lawfare|lawfare]] campaigns.[2] He characterized these programs as control over a vast international network of judges and prosecutors, administered through [[usaid|USAID]], the [[state-department|U.S. State Department]] and the [[united-states-institute-of-peace|U.S. Institute of Peace]].[2] Figures he named as fitting the mold included elections lawyer [[marc-elias|Marc Elias]], Media Matters founder [[david-brock|David Brock]], ACLU executive director [[anthony-romero|Anthony Romero]], and above all [[norm-eisen|Norm Eisen]], whose "rule of law" work as U.S. Ambassador to the Czech Republic — including collaboration in Prague with Chief Justice [[john-roberts|John Roberts]] on "rule-of-law issues" — he presented as evidence of the term's operational sense.[2]
+
+The article placed "rule of law" alongside [[democracy-promotion|democracy promotion]] and "democracy" itself as part of a whole-of-society system hidden in plain sight, urging readers confronted with the phrase to ask: whose law?[2]
+
+2. Badlands Media — "The Language of Control", URL: https://badlands.substack.com/p/the-language-of-control

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [litigation, election-integrity, georgia, dominion-voting-systems]
-sources: [raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-4ab.md, raw/badlands-news-brief-dc1.md, raw/previously-sealed-report-on-dominion.md]
+sources: [raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-4ab.md, raw/badlands-news-brief-dc1.md, raw/previously-sealed-report-on-dominion.md, raw/the-devil-is-still-in-georgia.md]
 confidence: medium
 ---
 
@@ -44,3 +44,11 @@ U.S. District Judge [[amy-totenberg|Amy Totenberg]] dismissed the case in a ruli
 The suit was filed in 2017, during [[brian-kemp|Brian Kemp]]'s tenure as Georgia Secretary of State, over concerns with the [[diebold-election-systems|Diebold]] paperless touchscreen voting machines then in use.[4] In 2020, Judge [[amy-totenberg|Amy Totenberg]] ordered Georgia to replace those machines, and the state adopted the [[dominion-imagecast-x|Dominion ICX]] [[ballot-marking-device|ballot marking devices]] against the advice of election security experts, including the lone cybersecurity expert on the governor's commission to recommend a new voting system.[4] The [[halderman-report|Halderman Report]] prepared for the case by [[j-alex-halderman|Dr. J. Alex Halderman]] and [[drew-springall|Prof. Drew Springall]] was unsealed in June 2023, almost two years after submission.[4] Also in the litigation, Halderman testified regarding an October 2020 order permitting a "de minimis" software change to fix a ballot display problem, criticizing [[pro-v-and-v|Pro V&V]] for having performed "only cursory testing" of the new software.[4]
 
 4. Badlands Brief — "Previously *SEALED* Report on Dominion Voting Machines in Georgia Shows Critical Vulnerabilities", URL: https://badlands.substack.com/p/previously-sealed-report-on-dominion
+
+## Trial date and state posture (November 2023)
+
+In mid-November 2023 it was reported that Judge [[amy-totenberg|Amy Totenberg]] had scheduled the trial to begin on January 9, 2024, in a case originally brought by Democrats in 2017 over the state's use of voting technologies.[5] Totenberg wrote that "the Court cannot wave a magic wand in this case to address the varied challenges to our democracy and election system in recent years," while suggesting that "reasonable, timely discussion and compromise in this case, coupled with prompt, informed legislative action, might certainly make a difference that benefits the parties and the public."[5]
+
+Georgia officials remained resistant. Deputy Secretary of State [[jordan-fuchs|Jordan Fuchs]] said the plaintiffs had never offered a security solution that did not involve hand-marked paper ballots, adding, "We don't negotiate with election deniers. If they have an idea that wouldn't take Georgia back to the days of hanging chads and stuffed ballot boxes, they should offer it."[5] Critics noted that hanging chads were the 2000 Bush v. Gore controversy that produced the [[help-america-vote-act|Help America Vote Act]] and, with it, the multi-billion-dollar election industry and black-box voting equipment.[5] Findings by [[j-alex-halderman|J. Alex Halderman]], released in June 2023 after being sealed since July 2021, remained unpatched ahead of the 2024 election, and Halderman has stated that patching would not repair the vulnerabilities.[5] The devices at issue are used statewide, including in [[fulton-county|Fulton]] and [[spalding-county|Spalding]] counties, where the [[2023-georgia-municipal-election-discrepancies|2023 municipal election discrepancies]] were reported.[5]
+
+5. Badlands Brief — "The Devil is Still in Georgia", URL: https://badlands.substack.com/p/the-devil-is-still-in-georgia

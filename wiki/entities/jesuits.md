@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [history, religion, intelligence-operations, native-americans, colonial-america]
-sources: [raw/a-new-american-renaissance.md, raw/legacy-of-the-bavarian-illuminati-8f0.md, raw/soul-governance.md]
+sources: [raw/a-new-american-renaissance.md, raw/legacy-of-the-bavarian-illuminati-8f0.md, raw/soul-governance.md, raw/the-darwinian-perversion-of-christianity.md]
 confidence: low
 ---
 
@@ -32,7 +32,12 @@ The Badlands Media essay [[soul-governance|Soul Governance]] casts the Jesuits a
 
 In that account the order turned courts into temples and judges into priests, and reframed "understanding" as "standing under," thereby administering the jurisdictional claim asserted in [[unam-sanctam|Unam Sanctam]] and executed through [[cestui-que-vie-trust|Cestui Que Vie trusts]].[3] The essay summarizes the alleged outcome by saying the Jesuits "did not remove God — they replaced Him with a contract," producing a conception of the divine so contractual and laced with guilt, confession, and penance that the soul recoiled from it.[3]
 
+## The Chardin current and the modern Church
+
+[[matthew-ehret|Matthew Ehret]] describes a Jesuit perversion of Christianity stretching back four centuries, shaped by a higher oligarchist-Venetian priesthood, and identifies [[pierre-teilhard-de-chardin|Pierre Teilhard de Chardin]] as one of the most influential and destructive Jesuit forces in modern history.[4] Chardin's neo-Darwinian theology became extremely popular among wide groupings of his fellow Jesuits even as it alarmed bishops and cardinals in Rome, who stripped him of the right to teach or publish.[4] Ehret writes that Chardin's followers went on to shape the [[second-vatican-council|Second Vatican Council]] and to innovate [[liberation-theology|Liberation Theology]] in Ibero-America, culminating in what he calls a full Jesuit takeover of the Church and the integration of Christianity into a [[eugenics|eugenics]]-driven religion.[4]
+
 ## References
 1. Badlands Brief — "A New American Renaissance", URL: https://badlands.substack.com/p/a-new-american-renaissance
 2. Badlands Brief — "Legacy of the Bavarian Illuminati - Part 2", URL: https://badlands.substack.com/p/legacy-of-the-bavarian-illuminati-8f0
 3. Badlands Brief — "Soul Governance", URL: https://badlands.substack.com/p/soul-governance
+4. Badlands Brief — "The Darwinian Perversion of Christianity", URL: https://badlands.substack.com/p/the-darwinian-perversion-of-christianity

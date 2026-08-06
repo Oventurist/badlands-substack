@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [propaganda, information-warfare, state-department, media, legislation]
-sources: [raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-c4f.md, raw/four-pillars-of-government-control.md, raw/q-for-dummies-chapter-21.md]
+sources: [raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-c4f.md, raw/four-pillars-of-government-control.md, raw/q-for-dummies-chapter-21.md, raw/the-hitler-or-obama-youth.md]
 confidence: medium
 ---
 
@@ -67,3 +67,11 @@ Badlands contributor [[erik-carlson|Erik Carlson]] cites [[barack-obama|Barack O
 ## Chapter 21 argument against repeal
 
 Chapter 21 of [[q-for-dummies|Q for Dummies]] offers an unusual defence of the Act's continued operation.[7] Reading Q drop #128's question "Who controls the narrative," [[paul-fleuret|Paul Fleuret]] concludes that patriots do, and argues that this is precisely why [[donald-trump|Trump]] did not repeal Smith–Mundt: [[white-hats|white hats]] also have to be able to use propaganda.[7] The claim is embedded in a broader argument that undoing the "spell" cast on the public by the [[operation-mockingbird|Mockingbird]] media required using the same media apparatus to circulate stories absurd enough to make people take notice.[7]
+
+## Carlson's account of the repeal's cultural effects
+
+Badlands contributor [[erik-carlson|Erik Carlson]] framed the repeal as the pivot point of a decade of domestic propaganda, writing that [[barack-obama|Obama]] "made propaganda against Americans basically legal again" by repealing an act that had made propaganda against US citizens illegal following World War II.[8] Carlson placed the repeal immediately after Obama's re-election and observed that transgender bathroom policy entered mainstream conversation at essentially the same moment.[8]
+
+He noted that the Act was put in place in 1948 because the government had seen during the war how effective propaganda could be — to the point that people still believe US military-created wartime propaganda to be true — and feared that in the hands of the "wrong" people the same tool could mislead and control Americans at home.[8] Carlson cited a 2023 [[gallup|Gallup]] poll finding 20.8% of Generation Z identifying as LGBTQ+ against 2.6% of Boomers, and 2.1% of Gen Z as transgender against 0.1% of Boomers, as evidence of change too rapid to be organic and therefore attributable to the post-repeal information environment.[8] The argument forms the legal predicate of his broader [[obama-youth|Obama Youth]] thesis, which likens the resulting indoctrination of American young people to that of the [[hitler-youth|Hitler Youth]].[8]
+
+8. Badlands Brief — "The Hitler ... or Obama Youth", URL: https://badlands.substack.com/p/the-hitler-or-obama-youth

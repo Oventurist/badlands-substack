@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, events, citizen-journalism, arizona]
-sources: [raw/badlands-news-brief-c40.md, raw/badlands-news-brief-e38.md, raw/badlands-news-brief-f46.md, raw/join-us-in-nashville-for-gart-11.md, raw/join-us-in-deadwood-for-gart-12.md, raw/last-call-for-gart-az.md, raw/last-call-for-gart-cocoa-beach.md, raw/last-call-for-gart-deadwood.md, raw/last-call-for-gart-deadwood-1d3.md, raw/last-call-for-gart-4-dallas.md, raw/last-call-for-gart-nashville.md, raw/last-call-for-gart-plymouth.md]
+sources: [raw/badlands-news-brief-c40.md, raw/badlands-news-brief-e38.md, raw/badlands-news-brief-f46.md, raw/join-us-in-nashville-for-gart-11.md, raw/join-us-in-deadwood-for-gart-12.md, raw/last-call-for-gart-az.md, raw/last-call-for-gart-cocoa-beach.md, raw/last-call-for-gart-deadwood.md, raw/last-call-for-gart-deadwood-1d3.md, raw/last-call-for-gart-4-dallas.md, raw/last-call-for-gart-nashville.md, raw/last-call-for-gart-plymouth.md, raw/the-great-american-restoration-tour-1af.md, raw/the-great-american-restoration-tour-eb2.md]
 confidence: medium
 ---
 
@@ -103,4 +103,22 @@ VIP tickets were expected to be sold out by the time the mailer reached readers,
 The eighth stop on the tour was held in Plymouth, Massachusetts, a city Badlands writers nicknamed "the Bright Lands," and was billed as the second GART of the new American Golden Age.[12] A "last call" notice published on April 30, 2025 by [[burning-bright|Burning Bright]] reported that VIP and full weekend general admission passes remained available and that a limited number of single-day tickets had been released for locals attending only Friday, Saturday or Sunday, with in-person sales handled through TicketSpice.[12] Virtual tickets streamed the entire Friday-to-Sunday panel slate, carried long-term DVR access to replays, and granted entry to the exclusive GART [[telegram|Telegram]] chat where hundreds of audience members and Badlands hosts shared behind-the-scenes photos and video.[12] The notice restated the tour's purpose as a networking opportunity among patriots and "an awakening pressure cooker" producing a natural sifting toward sovereignty, nationalism and community-building, and observed that every GART to date had drawn many first-time attendees.[12] See [[gart-8-plymouth|GART 8 Plymouth]].[12]
 
 12. Badlands Brief — "Last Call for GART: Plymouth", URL: https://badlands.substack.com/p/last-call-for-gart-plymouth
+
+## GART 6 announcement: Myrtle Beach (July 2024)
+
+Tickets for the tour's sixth stop went on sale on July 26, 2024 for an event running November 14–17, 2024 in Myrtle Beach, South Carolina.[13] The announcement restated the movement slogan "We are the news, now" and credited reader support with [[badlands-media|Badlands Media]]'s growth into what it called one of the most-watched independent networks online, with dozens of citizen journalists, podcasters and personalities across its shows.[13] It framed the November dates around the presidential election, telling readers that "whatever happens on November 5, you're going to want to be among like-minded patriots in the aftermath," and carried only a placeholder heading where the speaker list would later appear.[13]
+
+In-person tickets covered a Friday night Welcome Reception, breakfast and lunch all weekend and open access to hosts, with an optional VIP package adding a Thursday night dinner and meet-and-greet to open the festivities; virtual tickets streamed all three days of panels with months of post-event replay access and a direct invite to an exclusive "GART: Myrtle" [[telegram|Telegram]] chat delivered by email.[13] See [[gart-6-myrtle-beach|GART 6: Myrtle Beach]].[13]
+
+13. Badlands Brief — "The Great American Restoration Tour Continues!", URL: https://badlands.substack.com/p/the-great-american-restoration-tour-1af
+
+## GART 2 announcement: Cocoa Beach (June 2023)
+
+Tickets for the tour's second stop went on sale on June 29, 2023 for an event running September 7–10, 2023 in Cocoa Beach, Florida, with the conference itself at the Hilton Cocoa Beach Oceanfront.[14] The announcement said tickets were already moving fast owing to the success of the first event in Arizona, and noted that speakers and the itinerary were still to come.[14] See [[gart-2-cocoa-beach|GART 2: Cocoa Beach]].[14]
+
+The post again opened with the movement slogan "We are the news, now," describing it as a saying that had come to define a growing movement within the Truth and America First communities and one [[badlands-media|Badlands Media]] had been working to make a reality.[14] It credited reader support with the network's growth into one of the most-watched independent networks online, carrying dozens of citizen journalists, podcasters and personalities across its shows, and invited readers along for the ride as Badlands took things "to the next level."[14]
+
+Programming was billed as live, in-person versions of favourite Badlands shows, live Q&A sessions with Badlands panels and meet-and-greets with hosts all weekend.[14] In-person tickets included a Friday night Welcome Reception, breakfast and lunch throughout the weekend and open time among fellow Badlanders and hosts as attendees sought to "level up in the Information War together," while an optional VIP package added a dinner and meet-and-greet with hosts and personalities to open the weekend.[14] Sales were handled through the network's TicketSpice page, and virtual tickets to stream the entirety of GART 2 were announced as going on sale Monday, July 3, 2023.[14]
+
+14. Badlands Brief — "The Great American Restoration Tour Continues!", URL: https://badlands.substack.com/p/the-great-american-restoration-tour-eb2
 

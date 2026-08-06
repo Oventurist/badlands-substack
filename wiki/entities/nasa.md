@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [space, government-agency, artemis, moon]
-sources: [raw/badlands-brief-282.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-9bc.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-b40.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-e98.md]
+sources: [raw/badlands-brief-282.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-9bc.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-b40.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-e98.md, raw/the-fraud-of-global-warming.md]
 confidence: medium
 ---
 
@@ -63,6 +63,12 @@ In late October 2024, NASA was drawn into the dispute over reported contacts bet
 Administrator [[bill-nelson|Bill Nelson]] told Semafor that such calls "would be concerning" if true, particularly for NASA and the [[department-of-defense|Department of Defense]], and said the Wall Street Journal report warranted investigation without naming an agency to conduct it.[10]
 Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] used the episode to restate the outlet's position that NASA is a "limited hangout psyop," asserting that the agency has misrepresented the loss of Apollo-era capability and that 1969 spacewalk footage was a Cold War propaganda product — claims presented as Badlands opinion rather than established fact.[10]
 
+## Earth observation and the greening debate
+
+NASA's Earth Observatory and its Moderate Resolution Imaging Spectroradiometer (MODIS) instruments aboard the Terra and Aqua satellites feature in [[matthew-ehret|Matthew Ehret]]'s June 5, 2025 Badlands Media essay on climate science.[11] Ehret cites the agency's description of research published February 11, 2019 in Nature Sustainability, which reported that global green leaf area had increased by 5 percent since the early 2000s — an area equivalent to all of the Amazon rainforests — with at least 25 percent of that gain occurring in China.[11] He argues that the 2000–2017 greening was driven by Chinese and Indian poverty-eradication programs and that the underlying mechanism is atmospheric [[carbon-dioxide|carbon dioxide]].[11]
+
+The essay also draws on NASA planetary science, citing the agency's 2003 report that ice caps on Mars melt periodically and have been melting at faster rates in recent years, which Ehret uses to raise the possibility that solar coronal mass ejections, solar wind and electromagnetic fields drive climate change across the solar system as a single unifying process — the core claim of [[astroclimatology]].[11]
+
 ## References
 1. Badlands Brief — "Jesus Walks", URL: https://badlands.substack.com/p/badlands-brief-282
 2. Badlands News Brief — "New York Insurrection, A Rapturous Reception, & Lying Tools", URL: https://badlands.substack.com/p/badlands-news-brief-0b0
@@ -74,3 +80,4 @@ Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] used the e
 8. Badlands Brief — "Badlands News Brief: Debates, Decisions and Disasters for the Deep State", URL: https://badlands.substack.com/p/badlands-news-brief-b40
 9. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93
 10. Badlands Brief — "Badlands News Brief: The Media Machine Panics as Battle Lines Are Drawn", URL: https://badlands.substack.com/p/badlands-news-brief-e98
+11. Badlands Brief — "The Fraud of 'Global Warming'", URL: https://badlands.substack.com/p/the-fraud-of-global-warming

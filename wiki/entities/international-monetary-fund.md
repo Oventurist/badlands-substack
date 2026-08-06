@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, international-institutions, debt, middle-east]
-sources: [raw/badlands-brief-bf7.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-f8a.md, raw/one-of-the-most-transformative-moments.md, raw/real-patriots-dont-think-like-hitler-196.md]
+sources: [raw/badlands-brief-bf7.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-f8a.md, raw/one-of-the-most-transformative-moments.md, raw/real-patriots-dont-think-like-hitler-196.md, raw/the-economy-weaponized.md, raw/the-dystopia-will-be-televised.md]
 confidence: low
 ---
 
@@ -52,6 +52,12 @@ In January 2022 the IMF Executive Board "urged" [[el-salvador|El Salvador]] to a
 
 [[matthew-ehret|Matthew Ehret]] writes that [[harry-dexter-white|Harry Dexter White]], the IMF's first head, defended [[franklin-d-roosevelt|FDR]]'s program to create a new anti-imperial system of finance, and had led the fight at [[bretton-woods-conference|Bretton Woods]] in July 1944 to dissolve the [[bank-for-international-settlements|Bank for International Settlements]].[6] White's 1948 death, while campaigning for [[henry-wallace|Henry Wallace]]'s presidential bid, put an end to anti-colonialists running the IMF.[6] In the decades after the war the same financiers who had brought the world fascism went back to work infiltrating the Bretton Woods institutions, turning the IMF and the [[world-bank|World Bank]] from tools of development into tools of enslavement — a process documented in [[john-perkins|John Perkins]]'s 2004 book *Confessions of an Economic Hit Man*.[6]
 
+## Role in the "economic hit man" model
+
+In the April 27, 2023 Badlands Media essay "The Economy: Weaponized," [[justin-deschamps|Justin Deschamps]] placed the IMF at the center of a seven-stage model of modern financial conquest.[7] In that account, bankers working through local front organizations and industry leaders push "modernization" on a developing population — offering the latest gadgets, technology, methods and access to "first world" products and services — with the price being exorbitant loans owed to the IMF, structured so as to be nearly impossible to repay.[7] Land and resource rights are taken as collateral, alongside promises of austerity under which the people and their resources service loans that inevitably default.[7]
+
+Once default occurs, Deschamps wrote, austerity measures drain the nation of its resources, prevent independent business from thriving, and reorient the economy toward export while it pays far more for imports than it earns from exports.[7] Restructuring then diverts labor and resources into whatever industries generate the profits needed to service the IMF loans, with rainforests burned and cartel-like entities displacing middle-class businesses, culminating in lawlessness, unregulated labor exploitation and eventual totalitarian rule.[7] Deschamps cited [[john-perkins|John Perkins]] and *[[confessions-of-an-economic-hit-man|Confessions of an Economic Hit Man]]* as confirmation of the pattern, which he said had been applied to dozens of nations since the late 19th century.[7]
+
 ## References
 
 1. Badlands Brief — "Border Battles & Diplomatic Duets", URL: https://badlands.substack.com/p/badlands-brief-bf7
@@ -60,3 +66,10 @@ In January 2022 the IMF Executive Board "urged" [[el-salvador|El Salvador]] to a
 4. Badlands Brief — "Badlands News Brief: Economic Strife Prompts a Squeeze on the Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-f8a
 5. Badlands Brief — "One of the Most Transformative Moments in Money Since Jekyll Island", URL: https://badlands.substack.com/p/one-of-the-most-transformative-moments
 6. Badlands Brief — "Real Patriots Don't Think Like Hitler – Part 2: How Western Bankers Created the Nazis", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-196
+7. Badlands Brief — "The Economy: Weaponized", URL: https://badlands.substack.com/p/the-economy-weaponized
+
+## Global CBDC platform (2023)
+
+At a conference in Morocco, IMF managing director [[kristalina-georgieva|Kristalina Georgieva]] announced that the fund is "working hard on the concept of a global CBDC platform."[8] Badlands Media cited the statement as evidence that [[central-bank-digital-currency|central bank digital currencies]] are being coordinated supranationally, placing the IMF alongside the [[united-nations|United Nations]], the [[european-union|European Union]] and the Davos crowd among institutions promoting the elimination of paper money in favour of a cashless society in which every transaction can be tracked.[8]
+
+8. Badlands Brief — "The Dystopia Will Be Televised", URL: https://badlands.substack.com/p/the-dystopia-will-be-televised

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [media, narrative-control, badlands-media]
-sources: [raw/the-aftermath-of-a-trump-victory.md]
+sources: [raw/the-aftermath-of-a-trump-victory.md, raw/the-media-is-the-enemy-of-the-people.md]
 confidence: medium
 ---
 
@@ -24,3 +24,9 @@ He linked the label to the treatment of dissenters more broadly, placing media o
 
 ## References
 1. Badlands Brief — "The Aftermath of a Trump Victory", URL: https://badlands.substack.com/p/the-aftermath-of-a-trump-victory
+
+## Origin of mass skepticism (Carlson, 2024)
+
+[[erik-carlson|Erik Carlson]]'s September 17, 2024 essay credits Trump's use of the phrase "fake news" with being the point at which most Americans first considered that what they saw on television might not be the truth, calling it a stark realization to accept lifelong manipulation.[2]
+
+2. Badlands Brief — "The Media is the Enemy of the People", URL: https://badlands.substack.com/p/the-media-is-the-enemy-of-the-people

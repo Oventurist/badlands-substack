@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [who, globalism, public-health, ngo]
-sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-brief-2c5.md, raw/badlands-brief-695.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-ba8.md, raw/badlands-news-brief-c50.md, raw/badlands-news-brief-e10.md, raw/badlands-news-brief-e40.md, raw/behold-a-trojan-horse.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-brief-2c5.md, raw/badlands-brief-695.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-ba8.md, raw/badlands-news-brief-c50.md, raw/badlands-news-brief-e10.md, raw/badlands-news-brief-e40.md, raw/behold-a-trojan-horse.md, raw/the-dystopia-will-be-televised.md, raw/the-ivy-web.md]
 confidence: low
 ---
 
@@ -117,3 +117,17 @@ A January 2023 [[newsweek|Newsweek]] opinion essay grouped the WHO with the [[ce
 15. Badlands Brief — "Badlands News Brief: Bitcoin Bulls, Word Wars, & Patience With Putin", URL: https://badlands.substack.com/p/badlands-news-brief-e10
 16. Badlands News Brief — "Trump Lawsuits, Media Amnesty and Biden's Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-e40
 17. Badlands Brief — "Behold, a Trojan Horse", URL: https://badlands.substack.com/p/behold-a-trojan-horse
+
+## Global Digital Health Certification Network (2023)
+
+In June 2023 the World Health Organization announced it would take up the [[european-union|European Union]] system of digital COVID-19 certification to establish a global system intended to facilitate global mobility and protect citizens worldwide from ongoing and future health threats, including pandemics — the first building block of the [[global-digital-health-certification-network|WHO Global Digital Health Certification Network]].[18] Director-General [[tedros-adhanom-ghebreyesus|Tedros Adhanom Ghebreyesus]] said the WHO aimed to offer all Member States access to an open-source digital health tool based on principles of equity, innovation, transparency and data protection and privacy.[18] Badlands Media treated the move as the third leg of a globalist [[digital-identification|digital identification]] push alongside the EU and the [[united-nations|United Nations]].[18]
+
+18. Badlands Brief — "The Dystopia Will Be Televised", URL: https://badlands.substack.com/p/the-dystopia-will-be-televised
+
+## Harvard collaboration in "The Ivy Web"
+
+According to Badlands Media's "The Ivy Web," the [[harvard-global-health-institute|Harvard Global Health Institute]] and the [[harvard-th-chan-school-of-public-health|T.H. Chan School of Public Health]] supplied advisors and operational models to the WHO during the COVID-19 crisis, with documents published under the WHO Strategic Preparedness and Response Plan citing Harvard-originated risk algorithms and response models.[19] These included behavioral nudging frameworks to increase vaccine uptake, justification models for quarantine extension, and algorithmic impact assessments for misinformation response.[19]
+
+The article also names the WHO among the organizations with which [[harvard-university|Harvard]] maintained high-level partnerships prior to the pandemic, alongside the [[mitre-corporation|MITRE Corporation]] and [[palantir|Palantir]], and links WHO-aligned public health agencies to the influence of the [[rockefeller-foundation|Rockefeller Foundation]] and the [[rothschild-family|Rothschild family]].[19]
+
+19. Badlands Brief — "The Ivy Web", URL: https://badlands.substack.com/p/the-ivy-web

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [trump-administration, cabinet, education, senate-confirmation]
-sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-ce5.md, raw/badlands-news-brief-f23.md, raw/reagan-20.md]
+sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-ce5.md, raw/badlands-news-brief-f23.md, raw/reagan-20.md, raw/the-ivy-web.md]
 confidence: medium
 ---
 
@@ -79,3 +79,9 @@ McMahon's nomination to lead the [[department-of-education|Education Department]
 A February 2025 Badlands feature by [[erik-carlson|Erik Carlson]] cited McMahon as an example of a practice shared by [[ronald-reagan|Ronald Reagan]] and [[donald-trump|Donald Trump]]: staffing administration positions with officials who oppose the agencies they head.[10] Carlson described McMahon as having been put in place with the sole purpose of eliminating the department she heads, alongside [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]], whom he described as installed to completely gut and transform his own department.[10]
 
 10. Badlands Brief — "Reagan 2.0", URL: https://badlands.substack.com/p/reagan-20
+
+## Action against Harvard (2025)
+
+As Secretary of Education, McMahon issued a scathing press release on April 18, 2025 initiating a records request against [[harvard-university|Harvard University]] over inaccurate foreign financial disclosures, stating that "Harvard has not been fully transparent or complete in its disclosures, which is both unacceptable and unlawful."[11] The [[department-of-education|Department of Education]] under her leadership invoked [[section-117-higher-education-act|Section 117 of the Higher Education Act]] to demand a forensic accounting of all foreign gifts and contracts exceeding $250,000.[11] Badlands Media treated the move as a decisive turn in the unravelling of what it called the Ivy Web.[11]
+
+11. Badlands Brief — "The Ivy Web", URL: https://badlands.substack.com/p/the-ivy-web

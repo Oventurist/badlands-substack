@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [monetary-system, federal-reserve, ponzi-scheme, economics]
-sources: [raw/a-week-to-remember.md, raw/americas-greatest-threat.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-dfa.md, raw/badlands-news-brief-e40.md, raw/celebrating-15-years-of-indictments.md]
+sources: [raw/a-week-to-remember.md, raw/americas-greatest-threat.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-dfa.md, raw/badlands-news-brief-e40.md, raw/celebrating-15-years-of-indictments.md, raw/the-covfefe-dig.md, raw/the-history-of-central-banking-in-57e.md]
 confidence: medium
 ---
 
@@ -59,6 +59,17 @@ A January 2024 Badlands Brief essay described inflation as a "hidden tax" throug
 
 The essay quantified the effect: at 2 percent annual debasement a dollar is worth 50 cents after 35 years and roughly 25 cents after 70 years, meaning a lifetime of stored labor can be expropriated implicitly — before accounting for the explicit federal, state and local taxes layered on top.[7] It framed the resulting unlimited purchasing power as the mechanism by which corruption is concealed and justice avoided, and presented [[bitcoin|Bitcoin]]'s fixed supply as the elimination of that root-cause incentive.[7]
 
+## The COVFEFE Dig
+
+"The COVFEFE Dig" (March 2023) treats inflation as the hidden subject of the entire [[covfefe|covfefe]] puzzle.[8] It cites a Federal Reserve Bank of St. Louis educational lesson describing how increasing the money supply — Romans devalued their currency by removing the silver content from their coinage — ultimately contributed to the fall of the Roman Empire, and pairs it with a [[dan-scavino|Dan Scavino]] image of [[donald-trump|Trump]] as Nero.[8] An 11/11 [[qanon|Q]] post is quoted characterizing inflation as the work of "silent thieves" and as taxation without representation, while Q drop 4545 is read as naming the "Invisible Enemy" as inflation, the [[petrodollar|petrodollar]] and the money printers.[8] The article notes that United States debt had just passed $31.5 trillion.[8]
+
+## Inflation as a structural feature of fractional reserve banking
+
+A February 2023 Badlands Media feature located the primary mechanism of inflation in [[fractional-reserve-banking|fractional reserve banking]] itself.[9] Because every newly created dollar siphons value from dollars already in circulation, and because the total pool of money expands irrespective of demand for goods and services, prices rise and the purchasing power of the dollar falls as supply and demand reach a new equilibrium.[9]
+
+The article describes the system as inherently inflationary: expanding the money supply without a proportional expansion of goods and services will always debase the currency.[9] It further argues that inflation is a permanent condition because new money must continually be created to service the interest built into the system, since only the principal ever enters the money supply.[9]
+
+
 ## References
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
 2. Badlands Brief — "America's Greatest Threat", URL: https://badlands.substack.com/p/americas-greatest-threat
@@ -67,3 +78,5 @@ The essay quantified the effect: at 2 percent annual debasement a dollar is wort
 5. Badlands Brief — "Hunter's Plea, Powell's Plight & Trump's Plan", URL: https://badlands.substack.com/p/badlands-news-brief-dfa
 6. Badlands News Brief — "Trump Lawsuits, Media Amnesty and Biden's Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-e40
 7. Badlands Brief — "Celebrating 15 Years of Indictments and Justice!", URL: https://badlands.substack.com/p/celebrating-15-years-of-indictments
+8. Badlands Brief — "The COVFEFE Dig", URL: https://badlands.substack.com/p/the-covfefe-dig
+9. Badlands Brief — "The History of Fractional Reserve Banking in America", URL: https://badlands.substack.com/p/the-history-of-central-banking-in-57e

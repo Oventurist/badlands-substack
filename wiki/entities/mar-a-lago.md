@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [trump, florida, 2024-election, venue]
-sources: [raw/all-assets-deployed.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-news-brief-228.md]
+sources: [raw/all-assets-deployed.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-news-brief-228.md, raw/the-master-builder.md]
 confidence: medium
 ---
 
@@ -44,3 +44,9 @@ Badlands commentary on the August 2023 SCIF dispute stressed that special counse
 2. Badlands Brief — "Tuckabee Unites The Arab World As Mexico Courts Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-285
 3. Badlands Brief — "Bioweapons Sneak Into the News Cycle as Israeli Shenanigans Ensue", URL: https://badlands.substack.com/p/badlands-brief-2c5
 4. Badlands News Brief — "A Biden, a Clinton and a Trump Walk Into a SCIF", URL: https://badlands.substack.com/p/badlands-news-brief-228
+
+## Venue of the 2017 Xi summit (Lange, 2023)
+
+Badlands Media's "The Master Builder" (February 2, 2023) reports that [[jared-kushner|Jared Kushner]] was credited with arranging an April 2017 summit between [[xi-jinping|Xi Jinping]] and [[donald-trump|Donald Trump]] at Mar-a-Lago.[5] [[joe-lange|Joe Lange]] emphasizes that the property is outfitted with a [[sensitive-compartmented-information-facility|Sensitive Compartmented Information Facility]], meaning the two leaders would have had no difficulty communicating in private — a point central to the article's claim that Beijing sought a channel to Trump beyond the reach of the [[deep-state|Deep State]].[5]
+
+5. Badlands Media — "The Master Builder", URL: https://badlands.substack.com/p/the-master-builder

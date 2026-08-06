@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [labor-union, strike, waste-management]
-sources: [raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-f25.md, raw/four-pillars-of-government-control.md]
+sources: [raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-f25.md, raw/four-pillars-of-government-control.md, raw/the-immediate-benefits-of-jd-vance.md]
 confidence: medium
 ---
 
@@ -42,3 +42,11 @@ Teamsters president [[sean-obrien|Sean O'Brien]] was challenged to a physical fi
 In [[erik-carlson|Erik Carlson]]'s account of the capture of the American election system, the Mafia — which some believe still wields influence over the Teamsters — is said to have steered the largest union in America to vote for [[john-f-kennedy|John F. Kennedy]] on a national level in 1960.[5] The claim forms part of a broader argument that the Chicago Mob bargained with [[joseph-p-kennedy|Joseph Kennedy]] to deliver the [[1960-united-states-presidential-election|1960 election]] in exchange for lenient Justice Department treatment.[5]
 
 5. Badlands Brief — "Four Pillars of Government Control", URL: https://badlands.substack.com/p/four-pillars-of-government-control
+
+## Endorsement of the 2024 Republican ticket
+
+In July 2024 the Teamsters broke with a long history of hardline support for Democratic candidates when president [[sean-obrien|Sean O'Brien]] publicly praised Donald Trump's selection of [[jd-vance|JD Vance]] as running mate.[6] Speaking on Fox News within hours of the announcement, O'Brien said Vance had "been great on teamster issues," citing his cosponsorship of an airline manufacturing bill targeting the outsourcing of critical airline maintenance to China, his support for paid sick leave for railroad workers, and his willingness to hold employers accountable for evading obligations through the independent contractor model known as DSP.[6]
+
+The following day O'Brien addressed the Republican National Convention, a historic first for the union, telling the audience that Trump was "a candidate who's unafraid to hear from new, loud and often critical voices" and was making lasting inroads with union leaders.[6] Badlands Media characterized the appearance as an immediate strategic benefit of the Vance pick and as a threat to decades of Democratic reliance on organized labor.[6]
+
+6. Badlands Media — "The Immediate Benefits of JD Vance as Trump's VP", URL: https://badlands.substack.com/p/the-immediate-benefits-of-jd-vance

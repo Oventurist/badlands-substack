@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [author, literature, eugenics, badlands-media]
-sources: [raw/control-through-language.md, raw/on-ted-kaczynski-and-false-prophets.md]
+sources: [raw/control-through-language.md, raw/on-ted-kaczynski-and-false-prophets.md, raw/the-inversion-of-health.md]
 confidence: low
 ---
 
@@ -23,3 +23,8 @@ Ehret treats [[brave-new-world|*Brave New World*]] as a transparent statement of
 ## References
 1. Badlands Brief — "Control Through Language", URL: https://badlands.substack.com/p/control-through-language
 2. Badlands Brief — "On Ted Kaczynski and False Prophets", URL: https://badlands.substack.com/p/on-ted-kaczynski-and-false-prophets
+3. Badlands Brief — "The Inversion of Health", URL: https://badlands.substack.com/p/the-inversion-of-health
+
+## Family and the Fabian circle
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] notes that Aldous Huxley, author of *Brave New World*, was the brother of [[julian-huxley|Julian Huxley]], the first man to use the term "trans-humanism" and a member of the British Eugenics Society.[3] He places Aldous, along with [[george-orwell|George Orwell]] and [[h-g-wells|H.G. Wells]], among the members of the [[fabian-society|Fabian Society]], adding that many believe *1984* was an exposé of what Orwell learned through that society.[3] The Huxley family was also one of the four lines — with [[francis-galton|Galton]], [[charles-darwin|Darwin]] and Wedgwood — used in Galton's failed selective-breeding experiment.[3]

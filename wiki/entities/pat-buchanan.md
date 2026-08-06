@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [paleoconservatism, america-first, republican-party, non-interventionism]
-sources: [raw/schisms-in-maga.md]
+sources: [raw/schisms-in-maga.md, raw/the-exploitation-of-charlie-kirk.md]
 confidence: medium
 ---
 
@@ -23,3 +23,9 @@ Buchanan also appears in DeLarme's argument about the conditional nature of pro-
 ## References
 
 1. Badlands Brief — "The MAGA Schism", URL: https://badlands.substack.com/p/schisms-in-maga
+
+## Cited as an exception on U.S.-Israel policy
+
+In "The Exploitation of Charlie Kirk," [[ryan-delarme|Ryan DeLarme]] named Buchanan, with [[ron-paul|Ron Paul]] and [[john-hostettler|John Hostettler]], as one of the rare American political figures who openly criticized U.S.-[[israel|Israel]] policy despite the professional expectation of unwavering support.[2] DeLarme contrasted them with [[earl-hilliard|Earl Hilliard]], [[cori-bush|Cori Bush]], and [[jamaal-bowman|Jamaal Bowman]], each of whom lost a seat after backlash from pro-Israel groups, and argued that the same policing operates in the media space.[2]
+
+2. Badlands Brief — "The Exploitation of Charlie Kirk", URL: https://badlands.substack.com/p/the-exploitation-of-charlie-kirk

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [bretton-woods, finance, development, deep-state]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-news-brief-4cf.md, raw/real-patriots-dont-think-like-hitler-196.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-news-brief-4cf.md, raw/real-patriots-dont-think-like-hitler-196.md, raw/the-ivy-web.md]
 confidence: medium
 ---
 
@@ -40,3 +40,9 @@ Badlands contributor Chris Paul read the piece through the lens of a shift to a 
 1. Badlands Brief — "A Gateway to a New World of Cooperation", URL: https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation
 2. Badlands Brief — "Badlands News Brief: Price Floors, Curveballs, & Benevolent Discrimination", URL: https://badlands.substack.com/p/badlands-news-brief-4cf
 3. Badlands Brief — "Real Patriots Don't Think Like Hitler – Part 2: How Western Bankers Created the Nazis", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-196
+
+## Origins claim in "The Ivy Web"
+
+Badlands Media's "The Ivy Web" asserts that the [[rockefeller-foundation|Rockefeller Foundation]] and the [[rothschild-family|Rothschild family]] heavily influenced the formation of the World Bank, alongside WHO-aligned public health agencies and digital health certificate and biometric tracking pilot programs.[4] The article also notes that [[harvard-university|Harvard]]'s board members include former World Bank officials, offered as evidence that the university functions as a financial conduit and trust hub rather than a purely academic institution.[4]
+
+4. Badlands Brief — "The Ivy Web", URL: https://badlands.substack.com/p/the-ivy-web

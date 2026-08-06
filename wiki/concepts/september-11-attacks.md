@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [terrorism, 9-11, deep-state, history]
-sources: [raw/badlands-news-brief-433.md, raw/badlands-news-brief-988.md, raw/badlands-news-brief-c40.md, raw/operation-cyclone-the-seeds-of-terror.md, raw/q-for-dummies-chapter-18.md]
+sources: [raw/badlands-news-brief-433.md, raw/badlands-news-brief-988.md, raw/badlands-news-brief-c40.md, raw/operation-cyclone-the-seeds-of-terror.md, raw/q-for-dummies-chapter-18.md, raw/the-exploitation-of-charlie-kirk.md]
 confidence: medium
 ---
 
@@ -53,3 +53,11 @@ The chapter stresses that most of the flights were private charters, to which th
 3. Badlands Brief — "Badlands News Brief: GART, 9/11 & Deep State Billionaires", URL: https://badlands.substack.com/p/badlands-news-brief-c40
 4. Badlands Brief — "Operation Cyclone - The Seeds of Terror", URL: https://badlands.substack.com/p/operation-cyclone-the-seeds-of-terror
 5. Badlands Brief — "Q for Dummies - Chapter 18", URL: https://badlands.substack.com/p/q-for-dummies-chapter-18
+
+## Commemoration and the Kirk assassination (2025)
+
+In "The Exploitation of Charlie Kirk," [[ryan-delarme|Ryan DeLarme]] wrote that September 11th has evolved into an unofficial American holiday with its own traditions, solemn commemorations, recycled memes, and catchphrases such as "America will never forget."[6] DeLarme said the pageantry stirred disappointment and irritation in him rather than reverence, and asked what exactly the public is meant to never forget: the low-effort lies used to advance the foreign policy establishment's goals, or how easily grief and rage were politicized into support for policies eroding rights and privacy.[6] He argued nothing beneficial came of the federal response, which produced the [[patriot-act|Patriot Act]], warrantless surveillance, and the wars in Iraq and Afghanistan.[6]
+
+Because the 2025 anniversary fell days after the assassination of [[charlie-kirk|Charlie Kirk]], DeLarme reconsidered his stance, concluding it was more important than ever to preserve the memory of that day and the weeks that followed, since the same emotional tactics were being deployed again in real time.[6] He also cited [[benjamin-netanyahu|Benjamin Netanyahu]]'s post-9/11 redirection of American anger toward [[saddam-hussein|Saddam Hussein]], who had no involvement in the attacks.[6]
+
+6. Badlands Brief — "The Exploitation of Charlie Kirk", URL: https://badlands.substack.com/p/the-exploitation-of-charlie-kirk

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [information-war, psychological-operations, media]
-sources: [raw/badlands-news-brief-096.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-c50.md, raw/death-blossom.md, raw/false-flags-and-the-occult.md, raw/q-for-dummies-chapter-17.md, raw/q-for-dummies-chapter-6.md]
+sources: [raw/badlands-news-brief-096.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-c50.md, raw/death-blossom.md, raw/false-flags-and-the-occult.md, raw/q-for-dummies-chapter-17.md, raw/q-for-dummies-chapter-6.md, raw/the-deep-state-needs-trump-to-win.md]
 confidence: medium
 ---
 
@@ -73,3 +73,11 @@ Chapter 6 of the [[q-for-dummies|Q for Dummies]] series, published February 16, 
 The case study offered is the [[kansas-city-super-bowl-parade-shooting|Kansas City Super Bowl parade shooting]], which followed within days of Special Counsel [[robert-hur|Robert Hur]]'s report on [[joe-biden|Joe Biden]]'s mental decline, the House vote to impeach DHS Secretary [[alejandro-mayorkas|Alejandro Mayorkas]], and Speaker [[mike-johnson|Mike Johnson]]'s rejection of the Ukraine spending bill.[7] The chapter also notes that the shooting fell on the anniversary of the Parkland shooting and produced identical immediate calls for gun control.[7] Separately, it forecasts that the [[deep-state|Deep State]]'s reaction to [[donald-trump|Trump]]'s campaign against [[isis|ISIS]] was a commitment to further false flags in Syria.[7]
 
 7. Badlands Brief — "Q for Dummies - Chapter 6", URL: https://badlands.substack.com/p/q-for-dummies-chapter-6
+
+## Diverted false flags (Carlson, April 2024)
+
+In "The Deep State Needs Trump to Win," published April 15, 2024, [[erik-carlson|Erik Carlson]] proposed the inverse of the usual false-flag analysis: that some planned operations may have been prevented rather than executed, because [[deep-state|Deep State]] players cutting deals for themselves sold out their partners and passed intelligence to the [[white-hats|White Hats]].[8] He asked how many such events had been diverted over the preceding three years, allowing that no one outside could know.[8]
+
+His specific examples were maritime: whether the [[francis-scott-key-bridge-collapse|Baltimore bridge collapse]] occurred at 1:30 a.m. in order to avoid mass casualties, and whether a second bridge collapse was averted in New York Harbor when another cargo ship lost power.[8] Carlson also treated the absence of American troop deaths abroad during the [[biden-administration|Biden administration]] as part of the same pattern, attributing it to a [[devolution|Devolution]] safety net that permitted reversible harms while blocking irreversible ones.[8]
+
+8. Badlands Brief — "The Deep State Needs Trump to Win", URL: https://badlands.substack.com/p/the-deep-state-needs-trump-to-win

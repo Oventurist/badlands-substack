@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [pakistan, isi, regime-change, nuclear, geopolitics]
-sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-625.md, raw/badlands-brief-707.md, raw/badlands-brief-9ea.md, raw/badlands-brief-bb1.md, raw/everything-is-connected.md, raw/operation-cyclone-the-seeds-of-terror.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-625.md, raw/badlands-brief-707.md, raw/badlands-brief-9ea.md, raw/badlands-brief-bb1.md, raw/everything-is-connected.md, raw/operation-cyclone-the-seeds-of-terror.md, raw/the-difference-between-friend-and.md]
 confidence: medium
 ---
 
@@ -53,6 +53,22 @@ Pakistan was the indispensable channel for American and Saudi support to the Afg
 
 The decision to route U.S. aid through Pakistan's [[inter-services-intelligence|ISI]] led to massive misappropriation of funds, with many weapons ending up sold in markets in Karachi rather than delivered to Afghan rebels; Karachi soon "became one of the most violent cities in the world."7 Of the seven mujahideen groups supported by the Pakistani government, the four espousing Islamic fundamentalist beliefs received most of the funding, weapons and training, and those factions later formed the [[taliban]].7 Refugee camps along the Pakistani border, sustained by millions in U.S. aid, became the setting for the radicalization campaign conducted by Saudi-sent clerics including [[osama-bin-laden|Osama bin Laden]].7
 
+## Trump's 2018 aid cutoff
+
+In one of his first tweets of 2018, [[donald-trump|President Donald Trump]] turned on a country long painted as one of America's biggest allies in the [[war-on-terror|War on Terror]], writing that "the United States has foolishly given Pakistan more than 33 billion dollars in aid over the last 15 years, and they have given us nothing but lies & deceit, thinking of our leaders as fools," and that Pakistan gives "safe haven to the terrorists we hunt in Afghanistan, with little help. No More!"[8] The tweet followed a *New York Times* report that Washington might scrap $255 million in aid because Islamabad had not done enough to confront terrorist networks within its borders, citing Pakistan's refusal of a U.S. demand for access to a captured militant of the Taliban-linked [[haqqani-network|Haqqani network]].[8] Badlands contributor Joe Lange reads the tweet as also a rebuke of the two previous presidents for funneling $33 billion of taxpayers' money to Pakistan for almost nothing in return.[8]
+
+The U.S. military subsequently made a final decision to cancel $300 million in aid, accusing Islamabad of not doing enough to root out militants from its border region with [[afghanistan|Afghanistan]]; the cut was attributed to "a lack of Pakistani decisive actions in support of the South Asia Strategy," and followed $500 million in Coalition Support Funds already stripped by Congress that year, bringing the total withheld to $800 million.[8] Lange characterizes the sequence as "money flow disruption" and as Trump drawing a dividing line that let Pakistan choose between being a friend or a foe.[8]
+
+## Why Pakistan was never invaded
+
+Lange asks why, if harboring terrorists justified the wars in Afghanistan and Iraq after 9/11, the United States never went to war against Pakistan, and answers that Pakistan is a nuclear power and therefore far more dangerous — the official position being that diplomacy was preferable to military confrontation.[8] He calls this a lie that allowed what he terms the shadow government to funnel billions of taxpayer dollars to Pakistan to fund the very terrorists America was fighting and to protect the [[cia|CIA]]'s heroin trade.[8]
+
+## Acquisition of nuclear weapons
+
+Drawing on the account of former CIA WMD expert [[rich-barlow|Rich Barlow]], the article argues Pakistan did not steal the bomb but was given it.[8] Barlow found in the late 1980s that senior U.S. officials were breaking non-proliferation protocols to shelter Pakistan's ambitions and even sell it banned WMD technology, and that the Pentagon was preparing to sell Pakistan jet fighters capable of delivering a nuclear weapon.[8] Pakistan's strategic value lay in providing a springboard into Afghanistan and a route for passing U.S. weapons and cash to the [[mujahideen|mujahideen]] fighting the Soviets.[8] Once armed, Pakistan was positioned to pass the technology onward, and British and American intelligence acknowledge the [[nuclear-proliferation|weapons programs]] of Iran, Libya and [[north-korea|North Korea]] were all secretly enabled by Pakistan.[8] Lange adds that nuclear weapons then defended both shadow-government operations in Pakistan: the terrorist safe haven and the laundering of drug money through the BCCI bank.[8]
+
+Pakistan's military intelligence agency, the [[inter-services-intelligence|ISI]], also helped smuggle into Afghanistan the jihadist-themed schoolbooks — including "The Alphabet for Jihad Literacy" — produced under [[usaid|USAID]] auspices by the University of Nebraska at Omaha through networks built by the CIA.[8]
+
 ## References
 
 1. Badlands Brief — "And Iran, Iran So Far Away", URL: https://badlands.substack.com/p/and-iran-iran-so-far-away
@@ -62,3 +78,4 @@ The decision to route U.S. aid through Pakistan's [[inter-services-intelligence|
 5. Badlands Brief — "Peaceful Retaliations, Futuristic Fusions and Based Puritans", URL: https://badlands.substack.com/p/badlands-brief-bb1
 6. Badlands Brief — "Everything Is Connected", URL: https://badlands.substack.com/p/everything-is-connected
 7. Badlands Brief — "Operation Cyclone - The Seeds of Terror", URL: https://badlands.substack.com/p/operation-cyclone-the-seeds-of-terror
+8. Badlands Media — "The Difference Between Friend and Foe", URL: https://badlands.substack.com/p/the-difference-between-friend-and

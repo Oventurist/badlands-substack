@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [gaza, israel, hamas, media, protests]
-sources: [raw/badlands-news-brief-28e.md, raw/badlands-news-brief-c07.md]
+sources: [raw/badlands-news-brief-28e.md, raw/badlands-news-brief-c07.md, raw/the-hitler-or-obama-youth.md]
 confidence: medium
 ---
 
@@ -41,3 +41,9 @@ The drive was sparked in large part by angry Democratic progressives who had bee
 ## References
 1. Badlands News Brief — "The Week of Rage Continues ... Biden to the Rescue?", URL: https://badlands.substack.com/p/badlands-news-brief-28e
 2. Badlands Brief — "Badlands News Brief: Proxy Presidents & Proxy Wars", URL: https://badlands.substack.com/p/badlands-news-brief-c07
+
+## Effect on public opinion
+
+The explosion's contested attribution became a case study in generational information divergence. Badlands contributor [[erik-carlson|Erik Carlson]] recounted that earlier in the day on October 17 the media pushed the claim that Israel had bombed the hospital and reported it as verified fact; that by the evening it was becoming clearer that a Hamas rocket had gone off course; and that by the next morning it was clearer still that a rocket had struck a parking lot outside the hospital.[3] A [[harvard-harris-poll|Harvard/Harris]] survey taken October 18–19, one to two days after the event, nonetheless found 45% of respondents aged 18–24 attributing the blast to an Israeli airstrike against 13% of those aged 65 and over — 3.5 times as many, despite both cohorts having access to the same corrected information.[3] Carlson used the gap to argue that the youngest cohort had been targeted by propaganda, the core of his [[obama-youth|Obama Youth]] thesis.[3]
+
+3. Badlands Brief — "The Hitler ... or Obama Youth", URL: https://badlands.substack.com/p/the-hitler-or-obama-youth

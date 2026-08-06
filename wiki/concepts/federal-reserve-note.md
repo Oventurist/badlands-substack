@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [currency, federal-reserve, credit, debt]
-sources: [raw/do-we-have-a-contract-with-the-federal.md, raw/going-off-the-federal-reservation.md]
+sources: [raw/do-we-have-a-contract-with-the-federal.md, raw/going-off-the-federal-reservation.md, raw/the-history-of-central-banking-in-57e.md]
 confidence: medium
 ---
 
@@ -33,3 +33,10 @@ The article situates the paper note within [[thomas-jefferson]]'s warning that C
 A March 2023 Badlands Media essay analyzed Federal Reserve Notes within the framework of [[trust-law|trust law]], treating them as the instruments through which the American people ostensibly receive the benefit of a credit trust administered by the [[federal-reserve|Federal Reserve]] as trustee.[2] Because the notes are said to service the public's economy, the public is cast as the nominal beneficiary of the arrangement, while the credit underlying them belongs to the people as trustor.[2]
 
 The essay listed knowing how a Federal Reserve Note comes into existence, and what obligations and rules attach to its use, among the basic questions a citizen must be able to answer to possess genuine situational awareness in what it called [[fifth-generation-warfare|5G warfare]].[2] It argued that in practice the true beneficiaries of the note-issuing system are private international interests rather than the people who use the notes.[2]
+
+## Role in the money-creation exchange
+
+A February 2023 Badlands Media feature described Federal Reserve Notes as one half of the transaction that brings new money into existence.[3] When the United States government requests funds, the [[federal-reserve|Federal Reserve]] issues notes and exchanges them for [[treasury-bond|Treasury bonds]] of equal face value; once the government deposits the notes, they become legal tender and the money supply expands accordingly.[3] The article treats this exchange as the practical demonstration that money is created as debt, and notes that in practice the notes, bonds and resulting loans exist electronically rather than as paper.[3]
+
+## References
+3. Badlands Brief — "The History of Fractional Reserve Banking in America", URL: https://badlands.substack.com/p/the-history-of-central-banking-in-57e

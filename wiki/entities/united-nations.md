@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [united-nations, un-charter, international-law, fdr]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-094.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-be1.md, raw/badlands-news-brief-c50.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-ed9.md, raw/badlands-news-brief-f8a.md, raw/oppenheimer-and-the-central-narrative.md, raw/the-cia-is-being-thrown-under-the.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-094.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-be1.md, raw/badlands-news-brief-c50.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-ed9.md, raw/badlands-news-brief-f8a.md, raw/oppenheimer-and-the-central-narrative.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-enduring-legacy-of-the-entente.md, raw/the-dystopia-will-be-televised.md]
 confidence: medium
 ---
 
@@ -141,3 +141,23 @@ Erik Carlson's "The CIA is Being Thrown Under the Bus" argues that power is bein
 Carlson further asserts that the United Nations is the body behind mass illegal immigration into the United States, and speculates that some of the money sent to Ukraine may be funding terrorists crossing the American southern border.[18] He frames the Biden years as a project of weakening America through illegal immigration while strengthening NATO, the UN and the EU, so that Trump and his supporters can be fought from outside the American government once internal moles have been removed.[18]
 
 18. Badlands Brief — "The CIA is Being Thrown Under the Bus", URL: https://badlands.substack.com/p/the-cia-is-being-thrown-under-the
+
+## Contrast with the League of Nations
+
+[[matthew-ehret|Matthew Ehret]] argues that the United Nations is not a continuation of the [[league-of-nations|League of Nations]], despite the two organizations' overlapping dissolution and founding.[19] Where the League demanded the abolition of national sovereignty, the UN made the defense of national sovereignty and non-interventionism guiding principles of its founding charter, especially the first points of Article 1 on maintaining international peace, developing friendly relations based on equal rights and self-determination, achieving international cooperation on economic, social, cultural and humanitarian problems, and serving as a centre for harmonizing the actions of nations.[19] Article 2 states plainly that "the organization is based on the principle of the sovereign equality of all its Members."[19] Unlike the technocratic League Covenant, the UN Charter is guided by a mandate for large-scale economic development and win-win cooperation, and unlike the League it featured no collective security pact — a burning desire that instead drove the creation of [[nato|NATO]] in 1949.[19]
+
+## Coudenhove-Kalergi and the regional bloc articles
+
+The article calls it tragic that [[franklin-d-roosevelt|Franklin Roosevelt]] died two weeks before the 1945 San Francisco Conference that drafted the final Charter, allowing his enemies to sweep into power.[19] Ehret identifies Count [[richard-coudenhove-kalergi|Richard Coudenhove-Kalergi]] as the principal agent of destruction in that process, exerting vast influence over the conference and gloating over his introduction of Articles 52–54 permitting "regional blocks" — articles which, created with the [[council-on-foreign-relations|Council on Foreign Relations]], made NATO and the [[european-union|European Union]] possible.[19]
+
+## Present condition
+
+Today the UN is described as a largely corrupt and confused organization whose 52 attempts to criticize Israel since 1973 have been blocked by the United States, though the [[united-nations-security-council|Security Council]] has nonetheless saved millions of lives.[19] The [[responsibility-to-protect|Responsibility to Protect]] doctrine was integrated into the organization by [[mark-malloch-brown|Lord Mark Malloch Brown]] as Undersecretary General.[19] Ehret concludes that when Putin or Xi call for defending the UN Charter or warn against a new League of Nations, their words deserve full seriousness.[19]
+
+19. Badlands Brief — "The Enduring Legacy of the Entente Cordiale", URL: https://badlands.substack.com/p/the-enduring-legacy-of-the-entente
+
+## Global digital identity proposal (2023)
+
+A United Nations policy brief tied to the Global Digital Compact proposed a global system of [[digital-identification|digital identification]] linked to bank accounts, arguing that "digital IDs linked with bank or mobile money accounts can improve the delivery of social protection coverage and serve to better reach eligible beneficiaries," and that digital technologies "may help to reduce leakage, errors and costs in the design of social protection programmes."[20] Badlands Media characterised the UN as being "in lockstep" with the [[european-union|European Union]] on digital ID, forming with the [[world-health-organization|World Health Organization]] a trifecta of globalist institutions advancing the same infrastructure.[20] The UN has also been grouped with the EU and the Davos crowd among bodies calling for the elimination of paper money in favour of a trackable digital currency.[20]
+
+20. Badlands Brief — "The Dystopia Will Be Televised", URL: https://badlands.substack.com/p/the-dystopia-will-be-televised

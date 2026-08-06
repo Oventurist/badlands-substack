@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [fbi, informants, domestic-terrorism, security-state]
-sources: [raw/badlands-news-brief-07f.md, raw/badlands-news-brief-862.md, raw/hysteria-and-error.md, raw/operation-cyclone-the-seeds-of-terror.md]
+sources: [raw/badlands-news-brief-07f.md, raw/badlands-news-brief-862.md, raw/hysteria-and-error.md, raw/operation-cyclone-the-seeds-of-terror.md, raw/the-exploitation-of-charlie-kirk.md]
 confidence: medium
 ---
 
@@ -45,3 +45,9 @@ DeLarme wrote that watching conservative media in the week after the [[new-orlea
 
 He contended that Islamist terror was itself a United States-sponsored creation, with [[al-qaeda|al-Qaeda]] and [[isis|ISIS]] emerging from intelligence-community grooming during the Soviet-Afghan war with Saudi and Pakistani support, a history he said figures in the movement should acknowledge rather than memory-hole — pointing to Badlands' own [[operation-cyclone|Operation Cyclone]] treatment of the subject.[3] Data he cited showed extremist Muslim plots trending toward nil in recent years, which he offered against the claim that Muslims lie in wait around every corner.[3]
 4. Badlands Brief — "Operation Cyclone - The Seeds of Terror", URL: https://badlands.substack.com/p/operation-cyclone-the-seeds-of-terror
+
+## Cited as the template for post-Kirk speech enforcement (2025)
+
+In "The Exploitation of Charlie Kirk," [[ryan-delarme|Ryan DeLarme]] wrote that [[fox-news|Fox News]] was the network that most fueled support for the War on Terror, and that the establishment harnessed post-9/11 grief to manufacture consent for the [[patriot-act|Patriot Act]], warrantless surveillance, and the wars in Iraq and Afghanistan — policies he said corroded public trust in Washington.[5] He cautioned against assuming that everyone who initially supported the War on Terror was a willing shill for the military-industrial complex, arguing instead that when emotions run high, mistakes are made — and drew the parallel to enforcement measures adopted after the assassination of [[charlie-kirk|Charlie Kirk]].[5]
+
+5. Badlands Brief — "The Exploitation of Charlie Kirk", URL: https://badlands.substack.com/p/the-exploitation-of-charlie-kirk

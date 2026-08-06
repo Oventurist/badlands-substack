@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, public-banking, north-dakota, finance]
-sources: [raw/a-seismic-shift.md]
+sources: [raw/a-seismic-shift.md, raw/the-illusion-of-democracy.md]
 confidence: medium
 ---
 
@@ -32,3 +32,8 @@ Ellen Brown, chair of the Public Banking Institute, is quoted in the source argu
 
 ## References
 1. Badlands Brief — "A Seismic Shift", URL: https://badlands.substack.com/p/a-seismic-shift
+2. Badlands Brief — "Illusions of Democracy", URL: https://badlands.substack.com/p/the-illusion-of-democracy
+
+## Comparison with Costa Rica
+
+Badlands contributor [[joe-lange|Joe Lange]] cites the Bank of North Dakota as the sole American counterpart to the four state-owned banks of [[costa-rica|Costa Rica]].[2] Quoting the [[world-business-academy|World Business Academy]], he notes that publicly-owned banks have been available in Costa Rica for so long and work so well that citizens there take for granted that any country which knows how to run an economy has a [[public-banking-option|public banking option]] — and that "Costa Ricans are amazed to hear there is only one public depository bank in the United States (the Bank of North Dakota), and few people have private access to it."[2] Lange stresses that limited access as the key shortcoming, asking whether that is about to change and promising a following article arguing that [[donald-trump|Donald Trump]] intends to create a nationwide American public banking option as a safeguard against bankers controlling the government again.[2]

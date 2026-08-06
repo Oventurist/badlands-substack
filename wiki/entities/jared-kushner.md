@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [trump-administration, cbdc, crypto, white-house]
-sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-169.md, raw/badlands-brief-7c6.md, raw/badlands-brief-8db.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-623.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-e8f.md, raw/q-for-dummies-chapter-9.md, raw/setting-the-stage.md]
+sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-169.md, raw/badlands-brief-7c6.md, raw/badlands-brief-8db.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-623.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-e8f.md, raw/q-for-dummies-chapter-9.md, raw/setting-the-stage.md, raw/the-master-builder.md]
 confidence: medium
 ---
 
@@ -131,3 +131,13 @@ Before the election, Kislyak's undisclosed discussions with Kushner and Flynn re
 On this reading the leak of Kushner's Kislyak communications to the press was not counterintelligence but an attempt to shut the channel down, and Lange raises the possibility that Kushner or Trump himself asked Kislyak to call Flynn about the new Obama sanctions in order to bait the trap that forced Comey to move.[18] Lange describes Kushner as Trump's most trusted aide, routinely tasked with important work behind the scenes.[18]
 
 18. Badlands Brief — "Setting the Stage", URL: https://badlands.substack.com/p/setting-the-stage
+
+## The Xi back channel and the Abraham Accords (Lange, 2023)
+
+In "The Master Builder" (February 2, 2023), [[joe-lange|Joe Lange]] presented Kushner as the private channel through which Beijing chose to communicate with [[donald-trump|Donald Trump]], citing NPR reporting that ambassador [[cui-tiankai|Cui Tiankai]] said China had to "find a channel through which to communicate with Trump" and found one in Trump's son-in-law, who helped arrange the April 2017 summit between [[xi-jinping|Xi Jinping]] and Trump at [[mar-a-lago|Mar-a-Lago]].[19] Lange stressed that Mar-a-Lago is outfitted with a [[sensitive-compartmented-information-facility|SCIF]], allowing the two leaders to speak in private and, in his reading, beyond the reach of the [[deep-state|Deep State]].[19]
+
+The article treats concealed effectiveness as the defining pattern of Kushner's career, noting that his role running the 2016 campaign only became public after the election.[19] It quotes Forbes reporting in which Peter Thiel said that "if Trump was the CEO, Jared was effectively the chief operating officer," and Eric Schmidt, the former Google chief executive who helped design the Clinton campaign's technology system, called Kushner "the biggest surprise of the 2016 election" and said that as best he could tell Kushner "actually ran the campaign and did it with essentially no resources."[19] Forbes credited Kushner with running the campaign's secret data operation like a Silicon Valley startup and tipping the states that decided the election.[19]
+
+Lange extends the same pattern to the [[abraham-accords|Abraham Accords]], which Kushner spearheaded and which surprised the world when announced.[19] Quoting [[aryeh-lightstone|Aryeh Lightstone]] in Newsweek, the article notes that there were no public negotiations and no strategic leaks; everyone involved held a high-level security clearance so that discretion was mandatory, and the participants preferred that discretion to selective leaking — a factor Lightstone considered crucial to success.[19] Kushner was subsequently nominated for a Nobel Peace Prize for his role as negotiator.[19]
+
+19. Badlands Media — "The Master Builder", URL: https://badlands.substack.com/p/the-master-builder

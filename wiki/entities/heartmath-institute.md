@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, coherence, frequency, structures-of-control]
-sources: [raw/structures-of-control-part-4.md]
+sources: [raw/structures-of-control-part-4.md, raw/the-emergence.md]
 confidence: low
 ---
 
@@ -20,5 +20,10 @@ The essay states that HeartMath has proven that the electromagnetic coherence ge
 
 The reference appears in a section that otherwise catalogues alleged offensive uses of frequency, including the shift in musical tuning from 432 Hz to 440 Hz, engagement loops on platforms such as [[tiktok|TikTok]], and programs including [[haarp|HAARP]] and [[darpa|DARPA]] neurocognitive research.[1] HeartMath's findings function in the argument as the defensive or restorative counterpart, supporting the series' broader thesis that the control matrix "dissolves in the presence of systemic coherence" rather than requiring dismantling through conflict.[1]
 
+## Cited in "The Emergence" (April 2025)
+
+The institute appears again in the April 26, 2025 essay [[the-emergence|"The Emergence"]] through its researcher [[rollin-mccraty|Dr. Rollin McCraty]], described there as having shown "that a regulated heart field can stabilize others within its range."[2] The essay treats this as evidence that individual [[coherence|coherence]] becomes "an environmental offering" affecting others "not because you try, but because you are."[2]
+
 ## References
 1. Badlands Brief — "Structures of Control - Part 4", URL: https://badlands.substack.com/p/structures-of-control-part-4
+2. Badlands Media — "The Emergence", URL: https://badlands.substack.com/p/the-emergence

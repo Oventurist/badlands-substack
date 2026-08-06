@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [taxation, debt, inflation, control, economics]
-sources: [raw/americas-greatest-threat.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md]
+sources: [raw/americas-greatest-threat.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/the-decade-we-all-became-slaves.md]
 confidence: medium
 ---
 
@@ -36,6 +36,15 @@ In "Are CBDCs The Path To Fear, or Freedom?", Joe Lange describes what he calls 
 
 The dollar, he writes, was the Keystone: established as the world's reserve currency and welded to oil through an agreement with Saudi Arabia, it forced central banks to hold dollars and let the cabal dictate foreign policy and punish non-compliant countries.[2] He predicts the coming crash will exceed the 2008 credit crisis and even the Depression because the world carries far more debt and the system is centralized around the dollar, and presents [[central-bank-digital-currency|CBDCs]] as the tool for moving quickly out of debt slavery into honest money while limiting the duration of suffering.[2]
 
+## The 1913 architecture
+
+Badlands Media commentary presents debt slavery as the largest of the control systems installed in the 1910s, following the [[fbi|FBI]], [[hollywood]] and [[big-pharma|Big Pharma]].[3] Its machinery was assembled in a single year: ratification of the [[sixteenth-amendment|16th Amendment]] on 2/3/1913, the reforming of the [[internal-revenue-service|IRS]] on 2/25/1913, and the surprise holiday-season congressional vote of 12/23/1913 that created the [[federal-reserve|Federal Reserve]].[3] Money printed from nothing and lent at interest created enduring inflation — a 1913 dollar now buys about two cents' worth — and the income tax exists, in this account, to service the interest owed to the bankers.[3]
+
+## Modern shackles
+
+The article concludes that where antebellum slaves could not leave the plantation, modern Americans are shackled by debt, mortgages, taxes and the necessity of participating in the system to survive, convinced they are free while having nowhere to run.[3] It urges readers to reset their expectations, hold institutions accountable, and direct their time and money away from companies they regard as abusive, arguing that the Cabal's ultimate goal is for people to have nothing and be satisfied with it.[3]
+
 ## References
 1. Badlands Brief — "America's Greatest Threat", URL: https://badlands.substack.com/p/americas-greatest-threat
 2. Badlands Brief — "Are CBDCs The Path To Fear, or Freedom?", URL: https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom
+3. Badlands Brief — "The Decade We All Became Slaves", URL: https://badlands.substack.com/p/the-decade-we-all-became-slaves

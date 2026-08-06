@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [hollywood, film, media, culture, propaganda]
-sources: [raw/a-new-hollywood.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-dbd.md, raw/does-the-cia-still-control-iran.md, raw/the-decade-we-all-became-slaves.md]
+sources: [raw/a-new-hollywood.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-dbd.md, raw/does-the-cia-still-control-iran.md, raw/the-decade-we-all-became-slaves.md, raw/the-media-is-the-enemy-of-the-people.md]
 confidence: medium
 ---
 
@@ -73,3 +73,9 @@ In "Does the CIA Still Control Iran?", [[erik-carlson|Erik Carlson]] wrote that 
 Carlson listed *The Titanic*, *Schindler's List*, *Pearl Harbor*, *All the President's Men*, *Snowden*, *The Social Network* and [[argo-film|*Argo*]] as films produced to put out a CIA-preferred version of history, sometimes telling that history to audiences for the first time.[6] He noted that *Pearl Harbor* was released three months before 9/11, in his reading preparing minds to accept the propaganda that followed, and that *Argo* appeared just before the CIA admitted its involvement in the [[1953-iranian-coup|1953 Iranian coup]].[6] He explicitly disclaimed any Holocaust denial, saying only that "if your understanding of anything comes from a Hollywood movie, you are deceived."[6]
 6. Badlands Brief — "Does the CIA Still Control Iran?", URL: https://badlands.substack.com/p/does-the-cia-still-control-iran
 7. Badlands Brief — "The Decade We All Became Slaves", URL: https://badlands.substack.com/p/the-decade-we-all-became-slaves
+
+## Decline and the Carlson thesis (2024)
+
+[[erik-carlson|Erik Carlson]]'s September 17, 2024 essay argues that Hollywood was built in Southern California only after the [[federal-reserve|Federal Reserve]] created an endless supply of free money, and that the pairing was not coincidental.[8] Writing in 2024, he predicted the year would be among the worst ever for movie ticket sales without the excuse of the 2020 theater shutdowns, blaming "woke" product and asserting that Hollywood "isn't allowed to make the movies people want to see."[8] He contrasted a summer with one or two blockbusters against earlier eras when one or two arrived weekly, and asked how theaters remain in business at all.[8]
+
+8. Badlands Brief — "The Media is the Enemy of the People", URL: https://badlands.substack.com/p/the-media-is-the-enemy-of-the-people

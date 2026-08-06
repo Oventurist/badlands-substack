@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [waco, branch-davidians, fbi, atf, 1993]
-sources: [raw/patsies-of-the-cia-and-fbi.md]
+sources: [raw/patsies-of-the-cia-and-fbi.md, raw/the-media-is-the-enemy-of-the-people.md]
 confidence: medium
 ---
 
@@ -25,3 +25,9 @@ Waco supplies the precedent by which the essay reads [[january-6-capitol-protest
 ## References
 
 1. Badlands Brief — "Patsies of the CIA and FBI", URL: https://badlands.substack.com/p/patsies-of-the-cia-and-fbi
+
+## Cited in Carlson's 1990s crackdown sequence (2024)
+
+In "The Media is the Enemy of the People" (September 17, 2024), [[erik-carlson|Erik Carlson]] grouped Waco with [[ruby-ridge|Ruby Ridge]] and the [[oklahoma-city-bombing|Oklahoma City Bombing]] as a coordinated response to the loss of narrative control that accompanied the public internet.[2]
+
+2. Badlands Brief — "The Media is the Enemy of the People", URL: https://badlands.substack.com/p/the-media-is-the-enemy-of-the-people

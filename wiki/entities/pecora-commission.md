@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, investigation, banking, 1933, great-depression]
-sources: [raw/friends-in-high-places.md]
+sources: [raw/friends-in-high-places.md, raw/the-enduring-legacy-of-the-entente.md]
 confidence: low
 ---
 
@@ -18,3 +18,9 @@ The hearings captivated an increasingly disgusted American public, which began t
 
 ## References
 1. Badlands Brief — "Friends in High Places", URL: https://badlands.substack.com/p/friends-in-high-places
+
+## Role in FDR's war on Wall Street
+
+[[franklin-d-roosevelt|Franklin Roosevelt]] supported the Pecora Commission as the opening move in his war on Wall Street; according to [[matthew-ehret|Matthew Ehret]] it sent thousands of bankers to prison and exposed the criminal activities of the top tier of Wall Street's power structure, which had manipulated the depression by buying political offices and pushing fascism.[2] Ferdinand Pecora, who ran the commission, said that "this small group of highly placed financiers, controlling the very springs of economic activity, holds more real power than any similar group in the United States."[2] The commission's highly publicized success empowered Roosevelt to impose sweeping regulation in the form of [[glass-steagall|Glass-Steagall]] bank separation, bankruptcy reorganization, and the creation of the [[securities-and-exchange-commission|Securities and Exchange Commission]].[2]
+
+2. Badlands Brief — "The Enduring Legacy of the Entente Cordiale", URL: https://badlands.substack.com/p/the-enduring-legacy-of-the-entente

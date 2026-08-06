@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [occult, secret-societies, philosophy]
-sources: [raw/legacy-of-the-bavarian-illuminati-8f0.md, raw/real-patriots-dont-think-like-hitler-111.md, raw/real-patriots-dont-think-like-hitler-6fc.md, raw/real-patriots-dont-think-like-hitler-d42.md, raw/real-patriots-dont-think-like-hitler.md]
+sources: [raw/legacy-of-the-bavarian-illuminati-8f0.md, raw/real-patriots-dont-think-like-hitler-111.md, raw/real-patriots-dont-think-like-hitler-6fc.md, raw/real-patriots-dont-think-like-hitler-d42.md, raw/real-patriots-dont-think-like-hitler.md, raw/the-inversion-of-health.md]
 confidence: low
 ---
 
@@ -51,3 +51,9 @@ Spence's research is corroborated, in [[matthew-ehret|Matthew Ehret]]'s account,
 Part 1 of the series names Crowley among the occultists — with [[nesta-webster|Nesta Webster]], [[gerard-encausse|Papus]], [[winston-churchill|Winston Churchill]], [[alice-bailey|Alice Bailey]] and [[george-sylvester-viereck|George Sylvester Viereck]] — who advanced narratives of "Jewish bankers' conspiracies undermining the noble honest royal families of Europe," a theme now revived by the pro-Nazi film series [[europa-the-last-battle|*Europa: The Last Battle*]].[5] [[matthew-ehret|Matthew Ehret]] announces there that the next installment will examine a nest of pro-Nazi occultists in the United States operating under the influence of Viereck and Crowley.[5]
 
 5. Badlands Brief — "Real Patriots Don't Think Like Hitler - Part 1", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler
+
+## Influence on Alfred Kinsey
+
+In "The Inversion of Health," [[ryan-delarme|Ryan DeLarme]] names Crowley — "the Great Beast," known in the press as "the wickedest man alive" — as an apparent influence on the sex researcher [[alfred-kinsey|Alfred Kinsey]], describing him as an occultist and overt hedonist.[6]
+
+6. Badlands Brief — "The Inversion of Health", URL: https://badlands.substack.com/p/the-inversion-of-health

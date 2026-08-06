@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [big-tech, social-media, censorship, meta]
-sources: [raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-db1.md, raw/badlands-news-brief-e3e.md]
+sources: [raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-db1.md, raw/badlands-news-brief-e3e.md, raw/the-media-is-the-enemy-of-the-people.md]
 confidence: medium
 ---
 
@@ -44,3 +44,9 @@ Facebook wrongly censored a photograph of former President [[donald-trump|Donald
 Facebook was knocked offline on March 5, 2024 in a [[2024-meta-global-outage|global outage]] of [[meta-platforms|Meta]] services that lasted more than two hours.[4] At the peak of the disruption, the tracking site Downdetector recorded more than 550,000 reports for Facebook alone, with users complaining on X that they had been booted from their accounts and could not log back in.[4] Meta attributed the incident to a technical issue, and the White House National Security Council said it saw no evidence of malicious cyber activity.[4]
 4. Badlands Brief — "Badlands News Brief: Super Tuesday Goes as Planned & the Deep State Loses a Player", URL: https://badlands.substack.com/p/badlands-news-brief-db1
 5. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e
+
+## Alleged CIA origins and funding (Carlson, 2024)
+
+In "The Media is the Enemy of the People" (September 17, 2024), [[erik-carlson|Erik Carlson]] wrote that Facebook, like [[google|Google]], was created and funded by the [[central-intelligence-agency|CIA]] as a response to the loss of narrative control caused by the public internet, tasked with policing what is said online and passing user data to the agency.[6] He described social media advertising revenue as "a farce" masking government money.[6]
+
+6. Badlands Brief — "The Media is the Enemy of the People", URL: https://badlands.substack.com/p/the-media-is-the-enemy-of-the-people

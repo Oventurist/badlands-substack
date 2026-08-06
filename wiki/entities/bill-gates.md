@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [microsoft, philanthropy, gates-foundation, ai, nuclear]
-sources: [raw/america-has-a-cia-run-economy.md, raw/artificial-intelligence.md, raw/badlands-brief-e9e.md, raw/badlands-news-blast.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-68f.md, raw/q-for-dummies-chapter-12.md, raw/soul-governance.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/artificial-intelligence.md, raw/badlands-brief-e9e.md, raw/badlands-news-blast.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-68f.md, raw/q-for-dummies-chapter-12.md, raw/soul-governance.md, raw/the-latest-in-technocratic-nightmares.md, raw/the-inversion-of-health.md]
 confidence: medium
 ---
 
@@ -69,6 +69,14 @@ Chapter 12 of the [[q-for-dummies|Q for Dummies]] series names Gates, alongside 
 
 The Badlands Media essay [[soul-governance|Soul Governance]] names Gates alongside [[klaus-schwab|Klaus Schwab]] and [[anthony-fauci|Anthony Fauci]] as figures it declines to treat as prime movers, describing them instead as "echoes, masks, handlers of a system that only worked because we, the sovereigns, agreed to believe it."[10] The essay's stated point is that focusing on such individuals mistakes the surface of the problem for its root, which it locates in the reader's own forgotten sovereignty.[10]
 
+## Kenya digital ID and biometric newborn tracking (2023)
+
+Badlands Media reported in November 2023 that Gates's latest pet project was a government-backed digital ID program announced in Kenya after a series of "closed-door meetings" with President [[william-ruto|William Ruto]], intended to give every Kenyan citizen a unique identification number for government services and transactions.[11] Gates said the initiative would "improve efficiency, transparency, and accountability in the country's governance system, ultimately benefiting the citizens," though the article noted little explanation was offered of how citizens would actually benefit.[11]
+
+The program, [[maisha-namba|Maisha Namba]], includes a [[biometric-vaccination-system-for-newborns|biometric vaccination system for newborns]] designed to replace birth certificates while tracking children from birth to age five to ensure they receive their vaccines.[11] The *Kenyan Daily Post* reported that Gates, known for championing genetically modified foods, had met Ruto repeatedly since Ruto came to power, with most engagements shrouded in secrecy, and that the deal would connect the government to technical experts and partners to guarantee a smooth rollout.[11]
+
+The article argued that whenever a "freakishly tyrannical western-sponsored program" is adopted in Africa, Gates always seems to be involved, and that his track record on the continent — described as marked by failures and human rights violations — invites suspicion about hidden agendas behind his philanthropy.[11] It further placed him, alongside [[klaus-schwab|Klaus Schwab]] and [[yuval-noah-harari|Yuval Noah Harari]], as an heir to the [[technocracy|technocratic]] tradition articulated by [[zbigniew-brzezinski|Zbigniew Brzezinski]].[11]
+
 ## References
 
 1. Badlands Brief — "America Has a CIA-Run Economy", URL: https://badlands.substack.com/p/america-has-a-cia-run-economy
@@ -81,3 +89,9 @@ The Badlands Media essay [[soul-governance|Soul Governance]] names Gates alongsi
 8. Badlands News Brief — "Bidens, UFOs and Vaccines", URL: https://badlands.substack.com/p/badlands-news-brief-68f
 9. Badlands Media — "Q for Dummies - Chapter 12", URL: https://badlands.substack.com/p/q-for-dummies-chapter-12
 10. Badlands Brief — "Soul Governance", URL: https://badlands.substack.com/p/soul-governance
+11. Badlands Brief — "The Latest in Technocratic Nightmares", URL: https://badlands.substack.com/p/the-latest-in-technocratic-nightmares
+12. Badlands Brief — "The Inversion of Health", URL: https://badlands.substack.com/p/the-inversion-of-health
+
+## Malthusian rhetoric
+
+In "The Inversion of Health," [[ryan-delarme|Ryan DeLarme]] situates Gates in the lineage of modern philanthropy that [[john-d-rockefeller|John D. Rockefeller]] is said to have created, and notes that the [[thomas-malthus|Malthusian]] argument — too many people, not enough food — "has been echoed by the likes of Bill Gates and other extremely wealthy and influential individuals."[12] DeLarme questions whether the resulting "Malthusian catastrophe" is a genuine threat or a pretext for keeping the population smaller and more manageable, and treats the idea as one basis of the modern [[eugenics]] movement.[12]

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, host, rumble]
-sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-news-brief-8f4.md]
+sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-news-brief-8f4.md, raw/the-master-builder.md]
 confidence: high
 ---
 
@@ -20,3 +20,9 @@ He also framed the bipartisan objections of [[mitch-mcconnell|Mitch McConnell]] 
 
 1. Badlands Media — "Badlands Media Weekly Show Schedule", URL: https://badlands.substack.com/p/badlands-media-weekly-show-schedule-36d
 2. Badlands Brief — "Badlands News Brief: January 6 and Nord Stream Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-8f4
+
+## Cited in "The Master Builder" (2023)
+
+Badlands Media's "The Master Builder" (February 2, 2023) refers readers to Patel Patriot's devolution series as the authoritative treatment of the claim that the U.S. military has been devolved, leaving [[joe-biden|Joe Biden]] without control of its main functions.[3] [[joe-lange|Joe Lange]] uses that claim, together with [[donald-trump|Donald Trump]]'s asserted control of the [[federal-reserve|Federal Reserve]], as the two preconditions for his thesis about the dismantling of the global central-bank debt system.[3]
+
+3. Badlands Media — "The Master Builder", URL: https://badlands.substack.com/p/the-master-builder

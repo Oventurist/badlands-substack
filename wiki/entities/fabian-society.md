@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [british-empire, socialism, canada, ndp, technocracy]
-sources: [raw/a-re-alignment-of-world-systems.md, raw/legacy-of-the-bavarian-illuminati-8f0.md, raw/operation-gladio-a-primer.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/legacy-of-the-bavarian-illuminati-8f0.md, raw/operation-gladio-a-primer.md, raw/the-inversion-of-health.md]
 confidence: low
 ---
 
@@ -38,3 +38,8 @@ The Fabian concept of manufacturing chaos to impose control is, in Watkins's fra
 1. Badlands Brief — "A Re-Alignment of World Systems", URL: https://badlands.substack.com/p/a-re-alignment-of-world-systems
 2. Badlands Brief — "Legacy of the Bavarian Illuminati - Part 2", URL: https://badlands.substack.com/p/legacy-of-the-bavarian-illuminati-8f0
 3. Badlands Brief — "Operation Gladio - A Primer", URL: https://badlands.substack.com/p/operation-gladio-a-primer
+4. Badlands Brief — "The Inversion of Health", URL: https://badlands.substack.com/p/the-inversion-of-health
+
+## Literary membership
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] lists [[aldous-huxley|Aldous Huxley]], [[george-orwell|George Orwell]] and [[h-g-wells|H.G. Wells]] as members of the Fabian Society, and notes the belief among many that *1984* was an exposé of what Orwell learned through it.[4]

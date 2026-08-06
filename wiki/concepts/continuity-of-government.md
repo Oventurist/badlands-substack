@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [continuity-of-government, devolution, national-security, badlands-media]
-sources: [raw/all-assets-deployed.md, raw/badlands-brief-d17.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-148.md, raw/biden-inc-flips.md, raw/spear-of-justice.md]
+sources: [raw/all-assets-deployed.md, raw/badlands-brief-d17.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-148.md, raw/biden-inc-flips.md, raw/spear-of-justice.md, raw/the-ivy-web.md]
 confidence: medium
 ---
 
@@ -65,3 +65,9 @@ An August 2025 Badlands Media essay, "Spear of Justice," argued that Continuity 
 5. Badlands Brief — "Badlands News Brief: FOX Fights, Trump Trolls & Twitter Turns?", URL: https://badlands.substack.com/p/badlands-news-brief-148
 6. Badlands Brief — "Biden, Inc. Flips", URL: https://badlands.substack.com/p/biden-inc-flips
 7. Badlands Brief — "Spear of Justice: Ken Paxton and the Bleeding Edge", URL: https://badlands.substack.com/p/spear-of-justice
+
+## COG in "The Ivy Web"
+
+Badlands Media's "The Ivy Web" invokes continuity of government as the framework under which captured institutions may be reclaimed.[8] It groups [[executive-order-13818|EO 13818]], [[executive-order-13848|EO 13848]] and [[presidential-policy-directive-40|Presidential Policy Directive 40]] as instruments activated and extended after the 2020 election and the rollout of COVID-19 emergency powers, arguing that together they "unlock operational authority to restructure governance under military continuity protocols if national security is compromised."[8] The compromise alleged consists of foreign-backed disinformation, election interference through institutional capture, and coercive public-private censorship, with [[harvard-university|Harvard University]] cast as a central participant and therefore a target.[8]
+
+8. Badlands Brief — "The Ivy Web", URL: https://badlands.substack.com/p/the-ivy-web

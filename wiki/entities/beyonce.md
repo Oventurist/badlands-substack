@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [music, celebrity, 2024-election, kamala-harris]
-sources: [raw/badlands-news-brief-a60.md]
+sources: [raw/badlands-news-brief-a60.md, raw/the-media-is-the-enemy-of-the-people.md]
 confidence: medium
 ---
 
@@ -21,3 +21,9 @@ Badlands commentator [[ashe-in-america|Ashe in America]] described the appearanc
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Trump Takes Over as the Info War Nears a Crescendo", URL: https://badlands.substack.com/p/badlands-news-brief-a60
+
+## Named in Carlson's promoted-artists claim (2024)
+
+[[erik-carlson|Erik Carlson]]'s September 17, 2024 essay names Beyonce with [[taylor-swift|Taylor Swift]] when asking whether pop and hip hop are genres actively pushed by the [[central-intelligence-agency|CIA]] while rock has been "left to rot on the vine."[2]
+
+2. Badlands Brief — "The Media is the Enemy of the People", URL: https://badlands.substack.com/p/the-media-is-the-enemy-of-the-people

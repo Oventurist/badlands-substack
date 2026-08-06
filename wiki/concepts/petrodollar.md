@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [monetary-system, oil, dollar, brics, saudi-arabia]
-sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-f4c.md, raw/bric-by-bric.md, raw/money-and-oil.md, raw/shared-interests.md]
+sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-f4c.md, raw/bric-by-bric.md, raw/money-and-oil.md, raw/shared-interests.md, raw/the-covfefe-dig.md]
 confidence: medium
 ---
 
@@ -46,6 +46,12 @@ Badlands contributor [[patriots-in-progress|Patriots in Progress]] argued that t
 ## 2023 Saudi signals
 
 In January 2023 Saudi finance minister [[mohammed-al-jadaan|Mohammed Al-Jadaan]] said in Davos that [[saudi-arabia|Saudi Arabia]] was open to discussing trade settlement in currencies besides the U.S. dollar, including the euro and the riyal.[8] [[burning-bright|Burning Bright]] wrote that with the formation of the [[brics|BRICS]] alliance and the kingdom's flirtation with membership, the time of petrodollar — and Deep State — hegemony appeared to be on the verge of ending, in a framing that also called for the [[federal-reserve|Federal Reserve]] and the fiat central banking system to be reformed or dismantled.[8]
+
+## The COVFEFE Dig
+
+Badlands Media's March 2023 feature "The COVFEFE Dig" carries the standing head "Death of the Petrodollar" and treats the petrodollar system as the target of the plan it claims to have decoded.[12] [[gmoney|GMONEY]] argues that ending the central bankers' and Rothschild-controlled petrodollar would have required a secure, un-interceptable communications channel, which he identifies with [[bitcoin|Bitcoin]].[12]
+
+The article points to Russia's removal from international monetary systems such as [[swift|SWIFT]], and to Russia, China and other nations seeking to establish their own basket of currencies to compete with the petrodollar through the [[brics|BRICS]] alliance, as evidence the system is breaking.[12] A [[qanon|Q]] drop dated 11/11 referencing China, Russia and others coordinating to eliminate the New World Order is cited alongside it, as is Q drop 314 with its reference to a "break."[12] Q drop 4545 is quoted for the proposition that the "Invisible Enemy" is inflation, the petrodollar, and the money printers.[12]
 
 ## References
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
@@ -94,3 +100,4 @@ He traced the same trajectory in the bilateral arrangements: China's 2017 yuan�
 Lange argued the basis of the petrodollar was the U.S. guarantee of military protection for [[saudi-arabia|Saudi Arabia]] in exchange for the kingdom accepting only dollars for its oil, and that this deal is no longer valuable to Riyadh.[11] He pointed to the August 2021 military cooperation agreement signed by Saudi deputy defense minister [[khalid-bin-salman|Khalid bin Salman]] with Russia as the first big sign of the shift, followed by Xi Jinping's visit to Riyadh at which China and Saudi Arabia agreed to expand crude trade and upgrade relations to a strategic partnership, with Xi pledging to promote yuan use in energy deals.[11] A month later Saudi finance minister [[mohammed-al-jadaan|Mohammed Al-Jadaan]] said at Davos that the kingdom was open to discussing oil trade settlements in currencies other than the dollar.[11] Lange concluded that the dollar's reserve-currency days are numbered and predicted a global dollar dump, a market crash, and a reset toward a basket of commodity- and gold-backed currencies.[11]
 
 11. Badlands Brief — "Shared Interests", URL: https://badlands.substack.com/p/shared-interests
+12. Badlands Brief — "The COVFEFE Dig", URL: https://badlands.substack.com/p/the-covfefe-dig

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [technocracy, north-america, elon-musk, ideology]
-sources: [raw/the-british-are-leaving-the-british.md]
+sources: [raw/the-british-are-leaving-the-british.md, raw/the-deep-state-empire-strikes-back.md]
 confidence: medium
 ---
 
@@ -20,6 +20,15 @@ Ehret notes that Technocracy Inc. was once led by Joshua Haldeman, the grandfath
 
 The Technocracy theme functions as a counterweight in the article's otherwise favourable assessment of [[donald-trump|Donald Trump]]'s second term.[1] Ehret credits Trump with resisting new wars, halting the post-9/11 regime-change program, seeking cooperation with Russia, and reviving pro-tariff policy against decades of [[world-trade-organization|WTO]] and [[city-of-london|City of London]] free-trade orthodoxy — while insisting that the technocratic infiltration of that movement is a real and separate hazard.[1]
 
+## The 1933 North American Technate
+
+In 1933 Technocracy Inc. proposed a North American "Technate," to be ruled by engineers rather than elected officials.[2] Its vision included replacing money with "energy credits," eliminating elections, and monitoring every human action through a centrally-managed data regime.[2] The Canadian head of the movement was Joshua Haldeman, who ran Technocracy Inc. in Canada from 1936 to 1941.[2]
+
+Prior to that, Haldeman led the [[fabian-society|Fabian Society]]'s Cooperative Commonwealth Federation of Saskatchewan from 1933 to 1936, with the goal of imposing "scientific management of society" onto the world; the Canadian branch of London's Fabian Society had itself been established by six Rhodes Scholars in 1931, one of whom, [[escott-reid|Escott Reid]], went on to spearhead the creation of [[nato|NATO]].[2]
+
+Badlands contributor Matthew Ehret argues that the dream of a "North American Technate," long dismissed as fringe, is being re-branded for the 21st century — tied to [[elon-musk|Elon Musk]]'s "X" project to replace traditional banking with a behavior-linked global digital currency platform, his promotion of [[universal-basic-income|Universal Basic Income]], and his pushing of biometric data and digital IDs.[2]
+
 ## References
 
 1. Badlands Brief — "The British Are Leaving! The British Are Leaving!", URL: https://badlands.substack.com/p/the-british-are-leaving-the-british
+2. Badlands Brief — "The Deep State Empire Strikes Back", URL: https://badlands.substack.com/p/the-deep-state-empire-strikes-back

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cia, venture-capital, technology, academia, censorship]
-sources: [raw/scholars-and-spooks.md]
+sources: [raw/scholars-and-spooks.md, raw/the-ivy-dominion.md]
 confidence: medium
 ---
 
@@ -20,5 +20,10 @@ In-Q-Tel is cited as direct evidence of the institutional fusion between the int
 
 The In-Q-Tel/ASU overlap is presented as a case study in how the post-[[church-committee|Church Committee]] CIA operates: rather than acting directly, the agency works through cut-outs, venture vehicles, NGOs and universities, preserving plausible deniability while retaining influence over research agendas and technology development.[1]
 
+## Cited in the Ivy Dominion essay
+
+The June 2025 Badlands Media essay "The Ivy Dominion" identifies In-Q-Tel — which it calls the CIA's venture capital arm — as a partner of [[dartmouth-college|Dartmouth College]] in the alleged behavioral governance node of the [[ivy-dominion|Ivy Dominion]].[2] Together with [[palantir|Palantir]] and [[google|Google]] AI, In-Q-Tel is said to support Dartmouth-linked initiatives in predictive modeling, social sentiment analysis and cognitive engineering, and to receive alumni of the [[sphinx-society|Sphinx Society]].[2] The article characterizes these platforms as instruments that do not merely surveil populations but condition them, operating alongside [[darpa|DARPA]]-linked contracts.[2]
+
 ## References
 1. Badlands Brief — "Scholars and Spooks", URL: https://badlands.substack.com/p/scholars-and-spooks
+2. Badlands Brief — "The Ivy Dominion", URL: https://badlands.substack.com/p/the-ivy-dominion

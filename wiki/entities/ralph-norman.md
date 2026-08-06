@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, spending, ukraine, house-rules-committee]
-sources: [raw/badlands-news-brief-12a.md]
+sources: [raw/badlands-news-brief-12a.md, raw/the-overdrive-timeline.md]
 confidence: medium
 ---
 
@@ -22,3 +22,9 @@ Badlands contributor [[chris-paul|Chris Paul]] argued that if McCarthy followed 
 
 ## References
 1. Badlands News Brief — "Dueling Presidents, Establishment Secrets & Info Wars", URL: https://badlands.substack.com/p/badlands-news-brief-12a
+
+## January 2023 speakership concessions
+
+Under the [[january-2023-mccarthy-concessions|January 2023 McCarthy concessions]], Norman was named by [[kevin-mccarthy|Kevin McCarthy]] as one of nine Republicans on the [[house-rules-committee|Rules Committee]]; he also remained on the [[house-financial-services-committee|Financial Services]] panel, which he had joined in June, and took a seat on the Budget Committee.[2]
+
+2. Badlands Brief — "The Overdrive Timeline", URL: https://badlands.substack.com/p/the-overdrive-timeline

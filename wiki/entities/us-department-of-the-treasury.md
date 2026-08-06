@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [treasury, ofac, sanctions, terrorism-designation]
-sources: [raw/a-conflict-of-interest.md, raw/a-seismic-shift.md, raw/badlands-brief-2c5.md, raw/badlands-brief-6bf.md, raw/badlands-brief-6f4.md, raw/badlands-brief-861.md, raw/badlands-brief-c5b.md, raw/badlands-brief-dc6.md, raw/badlands-brief-e9a.md, raw/badlands-brief.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-919.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-e01.md, raw/master-and-commander.md, raw/nobel-winning-economist-revives-2013s.md, raw/panic-in-dc.md, raw/the-banking-revolution-is-underway.md, raw/the-battle-for-control.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-seismic-shift.md, raw/badlands-brief-2c5.md, raw/badlands-brief-6bf.md, raw/badlands-brief-6f4.md, raw/badlands-brief-861.md, raw/badlands-brief-c5b.md, raw/badlands-brief-dc6.md, raw/badlands-brief-e9a.md, raw/badlands-brief.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-919.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-e01.md, raw/master-and-commander.md, raw/nobel-winning-economist-revives-2013s.md, raw/panic-in-dc.md, raw/the-banking-revolution-is-underway.md, raw/the-battle-for-control.md, raw/the-covfefe-dig.md]
 confidence: high
 ---
 
@@ -132,6 +132,12 @@ Treasury Secretary [[janet-yellen|Janet Yellen]] rejected the maneuver in Januar
 
 A March 2023 Badlands Media article by [[joe-lange|Joe Lange]] cited Washington Examiner reporting that [[twitter|Twitter]] filed paperwork with the Treasury Department to enter the payment processing business, expanding [[elon-musk|Elon Musk]]'s vision for the company.[24] The registration was filed with the department's [[financial-crimes-enforcement-network|Financial Crimes Enforcement Network]], a step required of any business that wants to be involved in money transfers, currency and exchanges.[24] Lange treated the filing, alongside Musk's repurchase of the [[x-com|X.com]] domain from [[paypal|PayPal]], as evidence that Musk intends to revive his original digital-banking plan and compete with the legacy banks.[24]
 
+## The COVFEFE Dig
+
+Badlands Media's "The COVFEFE Dig" (March 2023) presents the Treasury as the institution that, in the author's reading, ultimately absorbed the [[federal-reserve|Federal Reserve]].[26] [[john-f-kennedy|John F. Kennedy]]'s [[executive-order-11110|Executive Order 11110]] is described as an effort to transfer power from the Fed to the Treasury by replacing Federal Reserve Notes with silver certificates, the distinction being that a United States Note carries no interest while a Federal Reserve Note does.[26]
+
+During the 2020 COVID interventions the Treasury, using the [[exchange-stabilization-fund|Exchange Stabilization Fund]], made equity investments in each Fed-financed special purpose vehicle — the CPFF, PMCCF, TALF, SMCCF and MSBLP.[26] [[gmoney|GMONEY]] concludes that in substance the Treasury bought the securities and backstopped the loans while the Fed acted as banker and financier, with [[blackrock|BlackRock]] hired to execute purchases and administer the vehicles on the Treasury's behalf.[26]
+
 ## References
 
 1. Badlands Brief — "A Conflict of Interest", URL: https://badlands.substack.com/p/a-conflict-of-interest
@@ -171,3 +177,4 @@ The department also administers the [[judgment-fund|Judgment Fund]], the permane
 In "The Battle for Control," [[joe-lange|Joe Lange]] describes the Treasury Department as the original source of [[citibank|Citibank]]'s political protection.[25] Bank president [[james-stillman|James Stillman]] recruited former Treasury officials to work for Citibank, ensuring the bank's increased wealth and political influence — a template Lange says shielded the institution from prosecution and secured its future bailouts.[25] Anticipating the revolving door between Citi and Washington, Stillman also recruited his eventual successor [[frank-vanderlip|Frank Vanderlip]] from the department; Vanderlip secretly accepted the offer and then spent another year at Treasury in what the cited account calls a patent conflict of interest, before becoming one of the architects of the [[federal-reserve|Federal Reserve System]].[25]
 
 25. Badlands Brief — "The Battle for Control", URL: https://badlands.substack.com/p/the-battle-for-control
+26. Badlands Brief — "The COVFEFE Dig", URL: https://badlands.substack.com/p/the-covfefe-dig

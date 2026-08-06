@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [election-law, democrats, litigation, shadow-cabal]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-618.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-bcd.md, raw/badlands-news-brief-f6e.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-618.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-bcd.md, raw/badlands-news-brief-f6e.md, raw/the-language-of-control.md]
 confidence: medium
 ---
 
@@ -78,3 +78,11 @@ In November 2025, [[george-conway|George Conway]] used a private virtual event f
 8. Badlands Brief — "Badlands News Brief: The Garbage Man Cometh to Take out the Trash", URL: https://badlands.substack.com/p/badlands-news-brief-aed
 9. Badlands Brief — "Badlands News Brief: Guns for Gaza & Musk v. Trump", URL: https://badlands.substack.com/p/badlands-news-brief-bcd
 10. Badlands Brief — "Badlands News Brief: Ghost Puppeteers, Sudanese Solutions, & Pam Bondi's Desk", URL: https://badlands.substack.com/p/badlands-news-brief-f6e
+
+## Named as a "rule of law" operative (2025)
+
+In "The Language of Control," Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] cited Elias first among figures fitting the mold of a [[rule-of-law|"rule of law"]] operative, alongside Media Matters founder [[david-brock|David Brock]] and [[american-civil-liberties-union|ACLU]] executive director [[anthony-romero|Anthony Romero]].[11] DeLarme described Elias as the elections lawyer who used legal tactics to undermine voters' faith in election integrity and used [[lawfare|lawfare]] to influence outcomes in favor of establishment Democratic candidates.[11]
+
+The article placed such lawyers within a broader argument that the true rulers under a system governed by law are those who write, interpret or change it — legislators, judges, prosecutors and their financiers — making control of the courts and of legal frameworks a central object of political struggle.[11]
+
+11. Badlands Media — "The Language of Control", URL: https://badlands.substack.com/p/the-language-of-control

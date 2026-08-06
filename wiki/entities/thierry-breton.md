@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [european-union, censorship, elections, france]
-sources: [raw/badlands-news-brief-09e.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-b83.md, raw/the-censorship-war-counteroffensive.md]
+sources: [raw/badlands-news-brief-09e.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-b83.md, raw/the-censorship-war-counteroffensive.md, raw/the-digital-services-act.md]
 confidence: medium
 ---
 
@@ -50,3 +50,11 @@ As EU Commissioner for Internal Market, Breton championed the [[eu-digital-covid
 ## Named among censorship proponents (2025)
 
 Writing in February 2025, Badlands contributor [[ryan-delarme|Ryan DeLarme]] named Breton, alongside Brazil's [[alexandre-de-moraes|Alexandre de Moraes]], as a leading proponent of censorship whose reaction to the [[rumble-and-trump-media-v-moraes|Rumble and Trump Media lawsuit]] remained to be seen.[6] He suggested it would be instructive to watch such figures attempt to fight back against [[donald-trump|Donald Trump]] at what he judged to be the height of Trump's strength, and situated Breton's [[digital-services-act|Digital Services Act]] among the principal fronts of the [[censorship-war|censorship war]].[6]
+
+## Stress test of X's California headquarters (June 2023)
+
+As the internal market commissioner responsible for enforcing the [[digital-services-act|Digital Services Act]], Breton led a team of EU officials to [[x-corp|X]]'s California headquarters in June 2023 to "stress test" the company's moderation and compliance systems, after which the platform — which had quit the EU's voluntary code of practice — said it would comply with the rules.[7] Breton welcomed [[elon-musk|Elon Musk]]'s change of heart but warned there would be "no half measures" when it came to sanctions for online crimes.[7]
+
+Following the visit, Breton said the EU would be extremely vigilant heading into the following year's European elections, stating: "I told Elon Musk and Linda Yaccarino [Twitter's chief executive] that Twitter should be very diligent in preparing to tackle illegal content in the European Union," and that "fighting disinformation, including pro-Russian propaganda, will also be a focus area in particular as we are entering a period of elections in Europe."[7] Badlands contributor [[erik-carlson|Erik Carlson]] treated this warning as evidence that the DSA's enforcement machinery was aimed at political speech ahead of the 2024 election cycle.[7]
+
+7. Badlands Brief — "The Digital Services Act", URL: https://badlands.substack.com/p/the-digital-services-act

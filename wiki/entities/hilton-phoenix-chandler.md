@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [venue, hotel, arizona, gart]
-sources: [raw/last-call-for-gart-az.md]
+sources: [raw/last-call-for-gart-az.md, raw/the-great-american-restoration-tour.md]
 confidence: medium
 ---
 
@@ -20,3 +20,8 @@ Registration for the event was handled through a TicketSpice page, with a hotel 
 
 ## References
 1. Badlands Brief — "Last Call for GART AZ!", URL: https://badlands.substack.com/p/last-call-for-gart-az
+2. Badlands Brief — "The Great American Restoration Tour", URL: https://badlands.substack.com/p/the-great-american-restoration-tour
+
+## Booking and room block (2023)
+
+In the February 25, 2023 announcement of the conference, [[badlands-media|Badlands Media]] instructed prospective attendees to reserve rooms through the Hilton Phoenix Chandler at a preferred Badlands Media room rate, linking to Hilton's "attend my event" booking page for the conference.[2] The same post confirmed the April 20–23, 2023 dates for the hotel's hosting of the inaugural [[great-american-restoration-tour|Great American Restoration Tour]] stop and reported that VIP tickets, which carried a private dinner the day before the conference, had already sold out while General Admission remained on sale.[2]

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, cnn, disinformation, world-economic-forum]
-sources: [raw/badlands-news-brief-68f.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-b01.md]
+sources: [raw/badlands-news-brief-68f.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-b01.md, raw/the-msm-melts-down-amidst-americas.md]
 confidence: low
 ---
 
@@ -36,3 +36,9 @@ Days before the November 2024 presidential election, Stelter — by then [[cnn|C
 1. Badlands News Brief — "Bidens, UFOs and Vaccines", URL: https://badlands.substack.com/p/badlands-news-brief-68f
 2. Badlands Brief — "Badlands News Brief: Psyops Abound as the Media Landscape Shifts Rapidly", URL: https://badlands.substack.com/p/badlands-news-brief-6f7
 3. Badlands Brief — "Badlands News Brief: Marauding, Squirrel-Murdering Psychopaths Panic Ahead of the Election", URL: https://badlands.substack.com/p/badlands-news-brief-b01
+
+## Coverage of the 2024 Washington Post non-endorsement
+
+Stelter amplified internal dissent at [[washington-post|The Washington Post]] after its October 2024 decision not to endorse a presidential candidate, relaying an editorial department member's statement that [[jeff-bezos|Jeff Bezos]]'s decision was "an outrageous abdication of responsibility" and that "Democracy doesn't die in darkness, it dies when people anticipatorily consent to a fascist's whims."[4] Badlands contributor [[ryan-delarme|Ryan DeLarme]] introduced him sarcastically as "the paragon of journalistic integrity" and dismissed as comical the resulting story that Bezos had blocked an endorsement of [[kamala-harris|Kamala Harris]] out of fear of concentration camps under [[donald-trump|Donald Trump]].[4]
+
+4. Badlands Brief — "The MSM Melts Down Amidst America's Electoral Ineptitude", URL: https://badlands.substack.com/p/the-msm-melts-down-amidst-americas

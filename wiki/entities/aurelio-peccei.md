@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [club-of-rome, malthusianism, fiat, limits-to-growth]
-sources: [raw/defeating-the-depopulation-agenda.md]
+sources: [raw/defeating-the-depopulation-agenda.md, raw/the-men-behind-the-curtain-part-3.md]
 confidence: medium
 ---
 
@@ -26,3 +26,8 @@ Under Peccei's leadership the Club of Rome commissioned the study that became [[
 
 ## References
 1. Badlands Brief — "Defeating the Depopulation Agenda", URL: https://badlands.substack.com/p/defeating-the-depopulation-agenda
+2. Badlands Brief — "The Men Behind the Curtain - Part 3", URL: https://badlands.substack.com/p/the-men-behind-the-curtain-part-3
+
+## 1973 Davos keynote
+
+Badlands Media's account of the founding of the [[world-economic-forum|World Economic Forum]] notes that Peccei, as founder of the [[club-of-rome|Club of Rome]], published *[[limits-to-growth|The Limits to Growth]]*, which took a strongly Malthusian approach to overpopulation and supplied the genesis of the "sustainability" and "population control" language later characteristic of Davos.[2] [[klaus-schwab|Klaus Schwab]] invited Peccei to give the keynote speech at the 1973 World Economic Forum, a risqué public relations strategy that the article says paid dividends for Schwab and set the Forum on a path of continued growth in size, scale and power.[2]

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, american-system, us-history, hamilton, credit]
-sources: [raw/in-defense-of-alexander-hamilton.md, raw/the-battle-for-control.md]
+sources: [raw/in-defense-of-alexander-hamilton.md, raw/the-battle-for-control.md, raw/the-history-of-central-banking-in.md]
 confidence: medium
 ---
 
@@ -30,6 +30,19 @@ Opposition was led by [[thomas-jefferson|Thomas Jefferson]], who argued that the
 
 The bank, based in Philadelphia with branches in eight cities, conducted general commercial business as well as acting for the government, and was both well managed and profitable; but it earned the enmity of entrepreneurs and state banks who argued its fiscal caution constrained economic development, and others were troubled that two-thirds of its stock was held by British interests.[2] Chartered for only twenty years, it faced a year-long fight in Congress over renewal in 1811 and lost in a close vote, going out of operation.[2] Lange argues the dissolution ended British control of the American money supply and commerce, and that the [[war-of-1812|War of 1812]] followed a year later as a direct consequence.[2] He also predicts a future Supreme Court case in which Jefferson's argument prevails and the [[federal-reserve|Federal Reserve]] — the third central bank in the nation's history — is declared unconstitutional.[2]
 
+## Chartering and Structure
+
+In 1791 [[alexander-hamilton|Alexander Hamilton]], a former aide to [[robert-morris|Robert Morris]] and then Secretary of the Treasury, accepted a compromise with Southern legislators to ensure the continuation of Morris's [[bank-of-north-america|Bank of North America]] project from a decade earlier; the First Bank of the United States (1791–1811) was chartered by Congress within the year and signed into law by [[george-washington|George Washington]].[3] The bank was modeled after the [[bank-of-england|Bank of England]] that many founders despised, but differed from modern central banks: it was partly owned by foreigners who shared in its profits, and it was responsible for only roughly 20 percent of the currency supply, with state banks accounting for the rest.[3]
+
+## Opposition
+
+Several founding fathers bitterly opposed the bank while the international money changers — the article names Rothschild, Schiff and Warburg — celebrated.[3] [[thomas-jefferson|Thomas Jefferson]] saw it as an engine for speculation, financial manipulation and corruption, and in contrast to Hamilton believed states should charter their own banks and that a national bank unfairly favored wealthy urban businessmen over country farmers.[3]
+
+## Expiration
+
+In 1811 the bank's twenty-year charter expired and was not renewed by Congress, despite a reported threat from [[nathan-rothschild|Nathan Rothschild]] that either the renewal application would be granted or the United States would find itself involved in a most disastrous war.[3] A year later the United States was at war with Britain, a conflict that ended in 1814 with America undefeated.[3] Five years after the expiration the federal government chartered its successor, the [[second-bank-of-the-united-states|Second Bank of the United States]].[3]
+
 ## References
 1. Badlands Brief — "In Defense of Alexander Hamilton", URL: https://badlands.substack.com/p/in-defense-of-alexander-hamilton
 2. Badlands Brief — "The Battle for Control", URL: https://badlands.substack.com/p/the-battle-for-control
+3. Badlands Brief — "The History of Central Banking in America", URL: https://badlands.substack.com/p/the-history-of-central-banking-in

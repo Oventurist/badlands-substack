@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [author, wall-street, revisionist-history, finance, badlands-media]
-sources: [raw/on-infiltration-and-israel.md, raw/operation-gladio-a-primer.md]
+sources: [raw/on-infiltration-and-israel.md, raw/operation-gladio-a-primer.md, raw/the-men-behind-the-curtain-part-8.md]
 confidence: medium
 ---
 
@@ -29,3 +29,8 @@ Watkins credits Sutton with documenting that the same group of people funded the
 ## References
 1. Badlands Brief — "On Infiltration and Israel", URL: https://badlands.substack.com/p/on-infiltration-and-israel
 2. Badlands Brief — "Operation Gladio - A Primer", URL: https://badlands.substack.com/p/operation-gladio-a-primer
+3. Badlands Brief — "The Men Behind the Curtain - Part 8", URL: https://badlands.substack.com/p/the-men-behind-the-curtain-part-8
+
+## America's Secret Establishment
+
+In his book *America's Secret Establishment*, cited at length in "The Men Behind the Curtain - Part 8," Sutton outlined the ability of the Order of [[skull-and-bones|Skull and Bones]] to establish vertical and horizontal "chains of influence" that ensured the continuity of its conspiratorial schemes.[3] He treated the [[william-collins-whitney|Whitney]]–[[henry-stimson|Stimson]]–Bundy links as the exemplary "vertical chain," running from Whitney's attorney Elihu Root through Stimson's successive War, State and Philippine appointments to [[hollister-bundy|Hollister Bundy]] and his sons [[william-bundy|William]] and [[mcgeorge-bundy|McGeorge Bundy]].[3]

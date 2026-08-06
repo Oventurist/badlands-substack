@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [european-union, trade, tariffs, greenland, transatlantic]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-a84.md, raw/badlands-brief-b62.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-b7b.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-e8f.md, raw/money-and-oil.md, raw/rattling-a-broken-saber.md, raw/the-cia-is-being-thrown-under-the.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-a84.md, raw/badlands-brief-b62.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-b7b.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-e8f.md, raw/money-and-oil.md, raw/rattling-a-broken-saber.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-dystopia-will-be-televised.md, raw/the-new-marshall-plan.md]
 confidence: medium
 ---
 
@@ -210,6 +210,12 @@ Badlands contributor Ryan DeLarme argued the effort exposed a hollow shell propp
 
 DeLarme tied the fracture to a continent-wide war between populism and globalism running since the Brexit vote, citing the popularity of [[giorgia-meloni|Giorgia Meloni]] and [[viktor-orban|Viktor Orbán]] — neither of whom supported the hawkish line on Russia — and of France's National Rally leader [[marine-le-pen|Marine Le Pen]], who was targeted by what he called a lawfare operation barring her from running for five years despite being the frontrunner for the 2027 French presidential election.[29]
 
+## Origins in the postwar settlement (Carlson)
+
+[[erik-carlson|Erik Carlson]] notes that the European Union began in 1993 and currently consists of 27 member states, down from 28 after England chose to leave in 2020 following the 2016 [[brexit|Brexit]] vote.[32] He observes that although England was a strong proponent of the EU, it declined from the beginning to adopt the euro when the currency entered use in 1999; twenty European countries use it.[32] He links the 1993 founding date to the same period in which [[george-soros|George Soros]] broke the [[bank-of-england|Bank of England]] by shorting the pound, [[bill-clinton|Bill Clinton]] and his family moved into the White House, and China's economic boom began as American manufacturing relocated there to produce inexpensive goods for [[walmart|Walmart]].[32]
+
+In Carlson's reading the EU was created out of the Second World War as a deliberate step toward regional consolidation, on the theory that hundreds of sovereign nations must first become a handful of regions — North America, Europe, Asia, Africa — before a [[one-world-government|one world government]] is possible, with [[nafta|NAFTA]] serving the same unifying function in North America.[32] The destruction of Europe, he argues, was required in order to unify it under the EU banner, and the [[marshall-plan|Marshall Plan]] was the instrument used to disburse funds where the [[deep-state|Deep State]] wanted them to go.[32]
+
 ## References
 29. Badlands Brief — "Rattling a Broken Saber?", URL: https://badlands.substack.com/p/rattling-a-broken-saber
 
@@ -220,3 +226,10 @@ In "The CIA is Being Thrown Under the Bus," Erik Carlson argued that Deep State 
 He observed that while Europe's economy suffers and is made dependent on outside nations, the bloc is working toward total political control, and cited the [[digital-services-act|Digital Services Act]] as allowing Europe to govern all media and social media entering the continent.[30] Carlson described this as preparing Europe for transition into an Orwellian society in which the governing members determine what European citizens may see or hear.[30] He read American politicians' insistence on funding Ukraine as a means of building up the EU alongside NATO and the UN rather than of winning the war.[30]
 
 30. Badlands Brief — "The CIA is Being Thrown Under the Bus", URL: https://badlands.substack.com/p/the-cia-is-being-thrown-under-the
+
+## Mandatory digital identity wallets (2023)
+
+Under [[eidas-2-0|eIDAS 2.0]], effective September 2023, the European Union mandates that all Member States offer a digital identity wallet to citizens and businesses, with the European Commission setting a target that at least 80% of citizens be able to use a digital ID solution to access key public services by 2030.[31] Badlands Media described the EU as the first of a "trifecta" of globalist institutions imposing [[digital-identification|digital identification]], alongside the [[united-nations|United Nations]] and the [[world-health-organization|World Health Organization]].[31] The EU's digital COVID-19 certification system was subsequently adopted by the WHO as the foundation of the [[global-digital-health-certification-network|Global Digital Health Certification Network]], making the European model the template for a worldwide scheme.[31] The EU has also been counted among the institutions calling for the elimination of paper money in favour of a trackable cashless society.[31]
+
+31. Badlands Brief — "The Dystopia Will Be Televised", URL: https://badlands.substack.com/p/the-dystopia-will-be-televised
+32. Badlands Brief — "The 'New' Marshall Plan", URL: https://badlands.substack.com/p/the-new-marshall-plan

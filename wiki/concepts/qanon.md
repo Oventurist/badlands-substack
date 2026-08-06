@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [q, movement, information-war]
-sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/a-virus-or-a-metaphor.md, raw/are-jack-smith-and-fani-willis-in.md, raw/arabian-nights.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-c5c.md, raw/celebrating-15-years-of-indictments.md, raw/countering-an-ocean-of-deceit.md, raw/everything-is-connected.md, raw/irregular-warfare.md, raw/jd-vance-sidley-austin-and-q-post.md, raw/kekistani-code-talkers.md, raw/on-infiltration-and-israel.md, raw/power-to-the-people.md, raw/q-for-dummies-chapter-1.md, raw/president-trumps-call-to-arms.md, raw/q-for-dummies-chapter-2.md, raw/q-is-real-because-math-says-so.md, raw/q-is-our-best-fren.md, raw/q-for-dummies-chapter-3.md, raw/revolution-founded-at-the-crossroads.md, raw/stay-focused-on-the-big-picture.md, raw/stuck-in-a-groove-of-negativity-and.md]
+sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/a-virus-or-a-metaphor.md, raw/are-jack-smith-and-fani-willis-in.md, raw/arabian-nights.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-c5c.md, raw/celebrating-15-years-of-indictments.md, raw/countering-an-ocean-of-deceit.md, raw/everything-is-connected.md, raw/irregular-warfare.md, raw/jd-vance-sidley-austin-and-q-post.md, raw/kekistani-code-talkers.md, raw/on-infiltration-and-israel.md, raw/power-to-the-people.md, raw/q-for-dummies-chapter-1.md, raw/president-trumps-call-to-arms.md, raw/q-for-dummies-chapter-2.md, raw/q-is-real-because-math-says-so.md, raw/q-is-our-best-fren.md, raw/q-for-dummies-chapter-3.md, raw/revolution-founded-at-the-crossroads.md, raw/stay-focused-on-the-big-picture.md, raw/stuck-in-a-groove-of-negativity-and.md, raw/the-covfefe-dig.md]
 confidence: medium
 ---
 
@@ -115,6 +115,14 @@ Chapter 3 of [[q-for-dummies|Q for Dummies]] covers drops #15 through #22 of Oct
 
 The chapter also documents the operation's early encounter with organised opposition. Fewer than twenty drops in, the author writes, Q was already calling out [[shilling|sliding]] and other shill tactics, and by drop #21 the board was being hit with bot farms, shills and trolls on every new thread — which he treats as evidence that the material was "over the target" rather than a [[larp|LARP]].[21]
 
+## The COVFEFE Dig
+
+"The COVFEFE Dig" (March 2023) makes Q one of the five components required to understand the [[covfefe|covfefe]] Tweet, alongside [[donald-trump|Trump]], [[john-f-kennedy|JFK]], [[pepe-the-frog|Pepe]] and [[bitcoin|Bitcoin]].[25] [[gmoney|GMONEY]] organizes the drops around the instruction to "follow the money," which he calls the key.[25]
+
+Several drops are enlisted. Drop 187 is said to sum up the entire story, the author noting that 187 is also the police code for homicide.[25] Drop 135 — read as a permutation of 315 — is identified as the first mention of Rothschild-owned and controlled banks, its content covering the world's central banks and ending with the Federal Reserve and the IRS.[25] Drop 314 is placed the day before 3/15.[25] Drop 2712 pairs a Pepe image with discussion of secure communications, supporting the article's [[steganography|steganography]] thesis.[25] Drop 4545 is quoted as identifying the "Invisible Enemy" with inflation, the [[petrodollar|petrodollar]] and the money printers.[25] A drop dated 11/11 references China, Russia and others coordinating to eliminate the New World Order, and another 11/11 post describes inflation as taxation without representation carried out by "silent thieves."[25]
+
+The dig repeatedly stresses that 11/11 is the 315th day of the year and therefore a covfefe marker, and it treats the phrase "Nothing can stop what is coming" as more than a catchphrase, tying Q's reference to October 31 to the release of the Bitcoin white paper on 10/31/2008.[25] The GAMESOFTRUMP card in the [[rare-pepe-directory|Rare Pepe Directory]], with its heart of 17, shield of 17 and initial supply of 1717, is presented as anticipating Q — the seventeenth letter — by 58 days before the first drop.[25]
+
 ## References
 1. Badlands Brief — "A Hypnotist's Take on Israel, Palestine, and Q", URL: https://badlands.substack.com/p/a-hypnotists-take-on-israel-palestine
 2. Badlands Brief — "A Virus, or a Metaphor?", URL: https://badlands.substack.com/p/a-virus-or-a-metaphor
@@ -188,3 +196,4 @@ Carlson argued the cabal underestimated the Anons' willingness to fight: they ca
 He then described the standard countermeasure sequence applied to the movement — ignore, ridicule the message, vilify the messengers, infiltrate, then silence the genuine voices while infiltrated puppets retain access to all media — and stated plainly: "This is exactly what the Deep State did with Q."[24]
 
 24. Badlands Brief — "Stuck in a Groove of Negativity and Hopelessness", URL: https://badlands.substack.com/p/stuck-in-a-groove-of-negativity-and
+25. Badlands Brief — "The COVFEFE Dig", URL: https://badlands.substack.com/p/the-covfefe-dig

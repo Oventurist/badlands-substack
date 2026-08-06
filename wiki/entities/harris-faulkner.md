@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, fox-news, journalism]
-sources: [raw/badlands-news-brief-020.md]
+sources: [raw/badlands-news-brief-020.md, raw/the-exploitation-of-charlie-kirk.md]
 confidence: medium
 ---
 
@@ -22,3 +22,9 @@ Badlands Media cited the town hall as evidence that the "enemy from within" fram
 
 ## References
 1. Badlands News Brief — "Trump Doubles Down as Kamala Crumbles", URL: https://badlands.substack.com/p/badlands-news-brief-020
+
+## Netanyahu interview after the Kirk assassination (September 2025)
+
+In "The Exploitation of Charlie Kirk," [[ryan-delarme|Ryan DeLarme]] singled out Faulkner as the [[fox-news|Fox News]] host who led the network's segment with Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] in the days after the assassination of [[charlie-kirk|Charlie Kirk]].[2] DeLarme described the interview as the standard Netanyahu treatment — pre-approved questions, no pushback, agreement by nodding — and contrasted it with an earlier Faulkner segment hosting [[condoleezza-rice|Condoleezza Rice]] to discuss war crimes following Russia's invasion of Ukraine, noting that Faulkner was "awfully mum" about war crimes while hosting Netanyahu.[2]
+
+2. Badlands Brief — "The Exploitation of Charlie Kirk", URL: https://badlands.substack.com/p/the-exploitation-of-charlie-kirk

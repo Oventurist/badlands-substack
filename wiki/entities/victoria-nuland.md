@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [neoconservative, nato, ukraine, state-department]
-sources: [raw/a-bright-red-line.md, raw/a-dereliction-of-duty.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-7db.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-db1.md, raw/deep-state-spotlight-victoria-nuland.md, raw/oligarchism-and-the-great-game.md, raw/the-cia-is-being-thrown-under-the.md]
+sources: [raw/a-bright-red-line.md, raw/a-dereliction-of-duty.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-7db.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-db1.md, raw/deep-state-spotlight-victoria-nuland.md, raw/oligarchism-and-the-great-game.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-end-of-history-delusion.md]
 confidence: medium
 ---
 
@@ -74,6 +74,12 @@ Nuland, called "Toria" by fellow operatives, is the daughter of [[sherwin-b-nula
 
 Nuland is also identified as a key patron of the Moldovan oligarch [[vlad-plahotniuc|Vlad Plahotniuc]], with whose support he took charge of the pro-EU [[democratic-party-of-moldova|Democratic Party]] from December 2016.[11] Plahotniuc met with Nuland in Washington in 2016 while a guest of the pro-NATO [[atlantic-council|Atlantic Council]], alongside other members of the Obama administration.[11] WikiLeaks emails also connect Nuland closely to [[asif-chaudhry|Asif Chaudhry]], the U.S. Ambassador to [[moldova|Moldova]] from 2008 to 2011 who brokered that country's post-2009 turn toward European integration.[11]
 
+## Career trajectory and NATO expansion
+
+In "The End of History Delusion," Matthew Ehret traces Nuland's rise from assistant to [[strobe-talbott|Strobe Talbott]] during the Clinton-era Russia policy to a new post as [[dick-cheney|Dick Cheney]]'s assistant and then US Ambassador to [[nato|NATO]], where she oversaw the military bloc's expansion from 16 to 24 nations by 2008 and welcomed Georgia's and Ukraine's aspirations to join the alliance.[13]
+
+Ehret writes that Nuland worked closely with the CIA front group [[national-endowment-for-democracy|National Endowment for Democracy]] and [[george-soros|George Soros]] in setting the stage for a new era of regime-change operations in the form of color revolutions in Georgia in 2003 and Ukraine in 2004, alongside the bombing campaigns across the Middle East in the wake of 9/11.[13] Her husband [[robert-kagan|Robert Kagan]] was an early co-founder of the [[project-for-a-new-american-century|Project for a New American Century]], the neoconservative think tank behind [[rebuilding-americas-defenses|Rebuilding America's Defenses]].[13] Later, under [[joe-biden|Joe Biden]] and Nuland's lead, Ukraine was "lit on fire" as the pro-Russian government of [[viktor-yanukovych|Viktor Yanukovych]] was overturned in a second color revolution and a regime chosen by the [[state-department|US State Department]] was installed in power.[13]
+
 ## References
 
 1. Badlands Brief — "A Bright Red Line", URL: https://badlands.substack.com/p/a-bright-red-line
@@ -95,3 +101,4 @@ In "The CIA is Being Thrown Under the Bus," Erik Carlson noted that Nuland annou
 Carlson treated the timing as part of a wider pattern in which the agency and its operatives are being exposed and abandoned as power shifts toward NATO, the United Nations and the European Union.[12] He added that when he asked his phone how long Ukraine had been at war with Russia, the [[wikipedia|Wikipedia]]-sourced answer dated the war to 2014 — a date he read as quiet corroboration of the 2014 operation.[12]
 
 12. Badlands Brief — "The CIA is Being Thrown Under the Bus", URL: https://badlands.substack.com/p/the-cia-is-being-thrown-under-the
+13. Badlands Brief — "The End of History Delusion", URL: https://badlands.substack.com/p/the-end-of-history-delusion

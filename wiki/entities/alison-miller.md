@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ritual-abuse, mind-control, psychology, dissociation, clinician]
-sources: [raw/gazing-into-the-abyss.md]
+sources: [raw/gazing-into-the-abyss.md, raw/the-deep-states-sinister-core.md]
 confidence: medium
 ---
 
@@ -54,5 +54,16 @@ Miller has written that the first generation of therapists doing this work were 
 
 Despite Lorraine's death, Miller's record is not uniformly bleak: two of the "first four" eventually reintegrated their alters, recovered from their trauma, and now live productive lives beyond the cult's reach.[1] The article argues that this demonstrates that humans can heal from virtually any psychological wound given determination and compassion, that therapists must know success is possible, and that recovered survivors often become powerful allies in raising awareness and helping others heal.[1] Miller presented on the subject at the Survivorship Conference in 2017.[1]
 
+## Biography
+
+Miller is a now-retired clinical psychologist who was previously in private practice in Victoria, British Columbia, Canada, and who worked for many years in child and youth mental health services treating children and families.[2] She is the original developer of the Living in Families Effectively (LIFE) Seminars and has co-authored two books on parenting with Dr. Allison Rees.[2] Since 1991 she has been treating and learning from people with dissociative disorders — in particular survivors of ritual abuse and mind control — and has developed a protocol for effective treatment and reintegration of the fractured personality.[2]
+
+Badlands Media names Miller and Dr. [[james-randall-noblitt|James Randall Noblitt]] as the two modern authorities on the subject and as the psychotherapists it relied on most heavily in researching the "Gazing Into the Abyss" series, noting that both have had tremendous success treating dissociative identity disorder arising from ritual abuse — evidence, the series argues, that the condition can in fact be treated.[2]
+
+## On traumatic dissociation
+
+In *Becoming Yourself* (2014), Miller describes the human brain as a complex system of component circuits communicating through electrical and chemical signals, and traumatic dissociation as a state in which those parts are held apart by strong barriers so that one part is unaware of the content or feelings held by the others.[2] The child who attends school does not remember the abuse that happens at home or via the family, and may not even remember abuse from the preceding night; as an adult the person may have no conscious memory of it while still suffering flashbacks and related symptoms.[2] This passage is used in the series to explain why the fracturing produced by [[ritual-abuse|ritual abuse]] provides the substrate for [[mind-control-programming|mind control]] and the emergence of [[alter-personalities|alters]].[2]
+
 ## References
 1. Badlands Brief — "Gazing Into the Abyss pt.2: a Therapist's Tale", URL: https://badlands.substack.com/p/gazing-into-the-abyss
+2. Badlands Brief — "Gazing Into the Abyss pt.1", URL: https://badlands.substack.com/p/the-deep-states-sinister-core

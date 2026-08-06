@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [information-war, narrative-warfare, badlands-media, analysis]
-sources: [raw/badlands-news-brief-ee9.md, raw/bric-by-bric.md, raw/right-the-ship.md]
+sources: [raw/badlands-news-brief-ee9.md, raw/bric-by-bric.md, raw/right-the-ship.md, raw/the-exploitation-of-charlie-kirk.md]
 confidence: low
 ---
 
@@ -37,3 +37,9 @@ In "Right the Ship" (January 12, 2023), [[burning-bright|Burning Bright]] wrote 
 He also argued that Potential Events — those previously confined to the hypothetical, rhetorical or "media" realms — can provoke Actual Events on the board and retain independent power through their effect on the directional thinking, and therefore the directional momentum, of the [[collective-mind|Collective Mind]].[3] Applying that Actual–Potential dichotomy to unfolding events was, in his framing, the corrective needed to keep readers centered amid information overload.[3]
 
 3. Badlands Brief — "Right the Ship", URL: https://badlands.substack.com/p/right-the-ship
+
+## Applied to the Kirk assassination aftermath (2025)
+
+In "The Exploitation of Charlie Kirk," [[ryan-delarme|Ryan DeLarme]] borrowed the "war of stories" framing from Badlands co-host Burning Bright to offer an alternative reading of the [[donald-trump|Trump]] administration's speech-enforcement measures after the assassination of [[charlie-kirk|Charlie Kirk]].[4] Viewed through that lens, DeLarme suggested, the measures might be intended to draw attention to something and to give the left's voters — not its players — a taste of their own medicine, so that in future they would be slower to embrace censoring opponents and better able to see the hypocrisy in it.[4]
+
+4. Badlands Brief — "The Exploitation of Charlie Kirk", URL: https://badlands.substack.com/p/the-exploitation-of-charlie-kirk

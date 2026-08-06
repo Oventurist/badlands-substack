@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [sanctions, money-laundering, cia, oil, closed-financial-system]
-sources: [raw/america-for-sale-part-3.md]
+sources: [raw/america-for-sale-part-3.md, raw/the-master-builder.md]
 confidence: medium
 ---
 
@@ -30,3 +30,11 @@ Related to the sanctions thesis is the article's claim that hostages have long s
 
 ## References
 1. Badlands Brief — "America for Sale - Part 3", URL: https://badlands.substack.com/p/america-for-sale-part-3
+
+## The Russia sanctions boomerang (Lange, 2023)
+
+Badlands Media's "The Master Builder" (February 2, 2023) argues that the sanctions imposed on Russia after the start of the [[russia-ukraine-war|special military operation]] were designed to damage the Russian economy but instead boomeranged onto the European countries dependent on Russian energy.[2] [[joe-lange|Joe Lange]] writes that the global financial system has always been controlled and used as a weapon to subjugate nations for decades, and that the decision to sanction Russian energy supplies — a huge part of Russia's economy — backfired on the sanctioning states.[2]
+
+The article further claims that [[vladimir-putin|Vladimir Putin]] wanted the sanctions to happen, because he and [[xi-jinping|Xi Jinping]] had been preparing for the moment for years.[2] On this account the whole reason for the emergence of the [[brics|BRICS]] coalition is to counter sanctions imposed through the global central-bank system, and an alternative outside the enemy's control now exists.[2]
+
+2. Badlands Media — "The Master Builder", URL: https://badlands.substack.com/p/the-master-builder

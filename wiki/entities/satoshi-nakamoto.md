@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [bitcoin, satoshi, anonymity, cryptocurrency]
-sources: [raw/are-we-entering-the-millennial-reign.md, raw/revolution-founded-at-the-crossroads.md]
+sources: [raw/are-we-entering-the-millennial-reign.md, raw/revolution-founded-at-the-crossroads.md, raw/the-covfefe-dig.md]
 confidence: medium
 ---
 
@@ -28,6 +28,13 @@ The October 2024 essay "Revolution Founded at the Crossroads" describes Satoshi 
 
 Satoshi is credited with knowing that his mission — revealing the discovery, separating money and state, decentralizing control of the network, and giving individuals peaceful, non-kinetic "digital power projection" — was revolutionary.[2] He is also described as knowing that central banks, financial institutions, governments, and others profiting from the centralized control and debasement of global currencies would seek to kill him and destroy the network; for that reason he remained anonymous and eventually went dark.[2] The essay places this pattern alongside the persecution of [[jesus]] as evidence that decentralizing forces are always met with maximal opposition from incumbent hierarchies.[2]
 
+## The COVFEFE Dig
+
+"The COVFEFE Dig" (March 2023) cites Nakamoto's stated profile birthday of 4/5/1975 as a numerological anchor, aligning "4/5" with [[donald-trump|Donald Trump]] as the 45th president and with the reading of D as the fourth letter so that "D5" equals 45.[3] The article describes Nakamoto as the name used by the presumed pseudonymous person or persons who developed [[bitcoin|Bitcoin]], authored the white paper, and created and deployed the original reference implementation.[3]
+
+It further recounts that Nakamoto created the genesis block on 3 January 2009 in a closed environment before releasing the software publicly on 9 January 2009 via SourceForge, and that the Bitcoin white paper had appeared on 10/31/2008.[3] [[melania-trump|Melania Trump]] is quoted marking the thirteenth anniversary of the genesis block in January 2022 with the hashtag #SatoshiNakamoto.[3] The dig groups Nakamoto with [[qanon|Q]] and the RAREPEPE creator "Mike" as anonymous figures central to the story.[3]
+
 ## References
 1. Badlands Brief — "Are We Entering the Millennial Reign?", URL: https://badlands.substack.com/p/are-we-entering-the-millennial-reign
 2. Badlands Brief — "Revolution Founded at the Crossroads", URL: https://badlands.substack.com/p/revolution-founded-at-the-crossroads
+3. Badlands Brief — "The COVFEFE Dig", URL: https://badlands.substack.com/p/the-covfefe-dig

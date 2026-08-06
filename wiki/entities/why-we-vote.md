@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, broadcasting, show]
-sources: [raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule.md, raw/badlands-media-weekly-show-schedule.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-8fd.md]
+sources: [raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule.md, raw/badlands-media-weekly-show-schedule.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-8fd.md, raw/the-devil-is-still-in-georgia.md]
 confidence: medium
 ---
 
@@ -28,3 +28,9 @@ Ashe in America announced that she and CannCon would host Patrick Byrne on Why W
 3. Badlands Media — "Badlands Media Weekly Show Schedule", URL: https://badlands.substack.com/p/badlands-media-weekly-show-schedule
 4. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-e18
 5. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
+
+## Notable episodes
+
+In episode 51, aired on a Tuesday in November 2023, co-hosts [[canncon|CannCon]] and [[ashe-in-america|Ashe in America]] interviewed [[harrison-floyd|Harrison Floyd]], a defendant in the [[fulton-county|Fulton County]] criminal proceeding against [[donald-trump|Donald Trump]] and co-defendants, about his denial of bond, the origins of his indictment, and his intention to argue that Trump won the 2020 election.[6] The interview aired amid the [[2023-georgia-municipal-election-discrepancies|2023 Georgia municipal election discrepancies]].[6]
+
+6. Badlands Brief — "The Devil is Still in Georgia", URL: https://badlands.substack.com/p/the-devil-is-still-in-georgia

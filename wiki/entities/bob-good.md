@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republicans, virginia, historic-preservation]
-sources: [raw/badlands-news-brief-409.md]
+sources: [raw/badlands-news-brief-409.md, raw/the-overdrive-timeline.md]
 confidence: medium
 ---
 
@@ -25,3 +25,9 @@ Badlands Media commentary by [[ashe-in-america|Ashe in America]] treated the let
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Quid Pro Joe, Biden's Border & Train Track Conspiracies", URL: https://badlands.substack.com/p/badlands-news-brief-409
+
+## January 2023 speakership concessions
+
+Good, one of the January 2023 holdouts, took seats on the Budget and Education and Workforce committees under the [[january-2023-mccarthy-concessions|January 2023 McCarthy concessions]].[2]
+
+2. Badlands Brief — "The Overdrive Timeline", URL: https://badlands.substack.com/p/the-overdrive-timeline

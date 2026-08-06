@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [presidents, hollywood, cold-war, military]
-sources: [raw/a-new-hollywood.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-cf8.md, raw/dope-inc.md, raw/has-trumps-whole-life-been-a-sting.md, raw/is-generation-x-saving-america.md, raw/operation-cyclone-the-seeds-of-terror.md, raw/reagan-20.md, raw/school-of-assassins-and-dictators.md]
+sources: [raw/a-new-hollywood.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-cf8.md, raw/dope-inc.md, raw/has-trumps-whole-life-been-a-sting.md, raw/is-generation-x-saving-america.md, raw/operation-cyclone-the-seeds-of-terror.md, raw/reagan-20.md, raw/school-of-assassins-and-dictators.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-covfefe-dig.md, raw/the-men-behind-the-curtain-part-2.md]
 confidence: medium
 ---
 
@@ -35,6 +35,20 @@ In October 2025, the government of [[ontario|Ontario]] aired an [[ontario-reagan
 [[operation-cyclone|Operation Cyclone]] expanded tremendously during the Reagan administration, which increased both the funding and the volume of equipment delivered to the Afghan [[mujahideen]].7 Among the weapons the [[central-intelligence-agency|CIA]] provided under Reagan was the state-of-the-art [[fim-92-stinger|FIM-92 Stinger]] man-portable air-defense system, with at least 2,300 shipped into [[afghanistan|Afghanistan]].7
 
 Reagan met with mujahideen representatives in the Oval Office on multiple occasions, providing the public with a photo op and an emotional narrative used to justify continued U.S. support.7 Massive refugee camps were established along the Pakistan border with millions of dollars in American aid — camps that Badlands Media describes as the fertile ground in which the seeds of terror were planted.7
+
+## Revocation of Executive Order 11110
+
+In Badlands Media's March 2023 feature "The COVFEFE Dig," Reagan appears as the president who undid [[john-f-kennedy|John F. Kennedy]]'s monetary reform.[11] The article states that Reagan issued [[executive-order-12608|Executive Order 12608]], which revoked [[executive-order-11110|Executive Order 11110]] in its entirety, and emphasizes that he did so on September 9 — a date the dig treats as a recurring marker.[11] The author adds pointedly that the revocation came shortly after Reagan was shot, offering this as an argument that EO 11110 was consequential enough to threaten the [[federal-reserve|Federal Reserve]] and the banking interests behind it.[11]
+
+## The 1980 convention and the Trilateral Commission
+
+Badlands Media's "The Men Behind the Curtain – Part 2" recounts that in 1980 the Republican candidate went on the record blasting the nineteen Trilaterals in the Carter administration — including [[jimmy-carter|Carter]] himself — and vowed to investigate the [[trilateral-commission|Trilateral Commission]] if elected.[12] While competing with George Bush for the nomination, Reagan highlighted Bush's membership in both the Commission and the [[council-on-foreign-relations|Council on Foreign Relations]] during the debates and pledged not to allow Bush a position in his administration.[12]
+
+At the Republican national convention, however, pundits began promoting a "dream ticket" pairing Reagan with former president [[gerald-ford|Gerald Ford]] — an arrangement that would have created a shared presidency with divided power, with Ford choosing half the cabinet.[12] Faced with the prospect of presiding over half a government, Reagan rushed to the convention floor late at night to break with precedent and announce that he was recommending George Bush for vice president.[12] After that night, the article states, Reagan never again spoke out against the CFR or the Trilateral Commission.[12]
+
+According to historian Jim Marrs, Reagan's fifty-nine-member transition team comprised twenty-eight CFR members, ten members of the [[bilderberg-group|Bilderberg group]] and at least ten Trilaterals, and he appointed CFR members Alexander Haig, Casper Weinberger and Donald Regan as secretaries of State, Defense and the Treasury.[12] He also named Bush's campaign manager James A. Baker III — a fourth-generation member of a family long connected to Rockefeller oil interests — as his chief of staff.[12] [[alan-greenspan|Alan Greenspan]], likewise a member of the Trilateral Commission, the CFR and the Bilderbergers, replaced [[paul-volcker|Paul Volcker]] at the [[federal-reserve|Federal Reserve]] during Reagan's presidency.[12]
+
+Months after his inauguration Reagan was struck by an assassin's bullet that, but for a quarter of an inch, would have placed Trilateralist George H. W. Bush in the Oval Office seven years early; the article notes that the brother of would-be assassin [[john-hinckley-jr|John W. Hinckley]] had dinner scheduled with Bush's son [[neil-bush|Neil]] the very night Reagan was shot.[12]
 
 ## References
 1. Badlands Brief — "A New Hollywood", URL: https://badlands.substack.com/p/a-new-hollywood
@@ -83,3 +97,13 @@ Lange contends Reagan was a patriot and outsider like [[donald-trump|Trump]] and
 The capture began with the 1980 primaries: after losing Iowa and then winning New Hampshire, Reagan ousted campaign director John P. Sears and installed [[william-casey|William J. Casey]], an [[office-of-strategic-services|OSS]] veteran who brokered the alliance with [[george-hw-bush|George H.W. Bush]] as running mate and later became Reagan's CIA director.[9] Under his administration the [[school-of-the-americas|School of the Americas]] counterinsurgency manuals suspended by [[jimmy-carter|Jimmy Carter]] were reintroduced in 1982, and responsibility for tolerating El Salvador's death squads is traced by the Washington Post to Reagan personally, along with Bush, Jeane Kirkpatrick, Jesse Helms and [[oliver-north|Oliver North]].[9]
 
 9. Badlands Brief — "School of Assassins and Dictators", URL: https://badlands.substack.com/p/school-of-assassins-and-dictators
+
+## Named among presidents targeted by the CIA (Carlson, 2024)
+
+In "The CIA is Being Thrown Under the Bus," Erik Carlson lists Reagan alongside [[john-f-kennedy|Kennedy]], [[richard-nixon|Nixon]] and [[donald-trump|Trump]] as presidents who were very concerned about the [[central-intelligence-agency|CIA]]'s unchecked power.[10]
+
+In Carlson's summary of their fates, Kennedy was killed, Nixon was set up and forced from office, Reagan was shot, and Trump had everything thrown at him but the kitchen sink.[10]
+
+10. Badlands Brief — "The CIA is Being Thrown Under the Bus", URL: https://badlands.substack.com/p/the-cia-is-being-thrown-under-the
+11. Badlands Brief — "The COVFEFE Dig", URL: https://badlands.substack.com/p/the-covfefe-dig
+12. Badlands Brief — "The Men Behind the Curtain - Part 2", URL: https://badlands.substack.com/p/the-men-behind-the-curtain-part-2

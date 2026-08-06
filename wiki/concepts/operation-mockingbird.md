@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [cia, media, propaganda, church-committee]
-sources: [raw/america-has-a-cia-run-economy.md, raw/assad-day-in-damascus.md, raw/badlands-news-brief-d8f.md, raw/four-pillars-of-government-control.md, raw/operation-gladio-a-primer.md, raw/q-for-dummies-chapter-1.md, raw/q-for-dummies-chapter-14.md, raw/q-for-dummies-chapter-15.md, raw/q-for-dummies-chapter-19.md, raw/q-for-dummies-chapter-17.md, raw/q-for-dummies-chapter-21.md, raw/q-for-dummies-chapter-6.md, raw/q-is-real-because-math-says-so.md, raw/q-for-dummies-chapter-3.md, raw/structures-of-control-part-3.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/assad-day-in-damascus.md, raw/badlands-news-brief-d8f.md, raw/four-pillars-of-government-control.md, raw/operation-gladio-a-primer.md, raw/q-for-dummies-chapter-1.md, raw/q-for-dummies-chapter-14.md, raw/q-for-dummies-chapter-15.md, raw/q-for-dummies-chapter-19.md, raw/q-for-dummies-chapter-17.md, raw/q-for-dummies-chapter-21.md, raw/q-for-dummies-chapter-6.md, raw/q-is-real-because-math-says-so.md, raw/q-for-dummies-chapter-3.md, raw/structures-of-control-part-3.md, raw/the-media-is-the-enemy-of-the-people.md, raw/the-information-imperium.md, raw/the-ivy-dominion.md]
 confidence: medium
 ---
 
@@ -113,3 +113,21 @@ Paired with Q's instruction to "think mirror," Fleuret concludes that undoing th
 
 In "Q is Real, Because Math Says So" (June 27, 2024), [[american-hypnotist|American Hypnotist]] asserts that the Mockingbird disinformation machine is funded to the tune of hundreds of billions of dollars per year, stating explicitly that this is not an exaggeration.[13] He extends the operation's reach beyond legacy outlets to the alternative-media space itself, arguing that plenty of seemingly home-grown content creators have emerged claiming to be "Q experts" — some even claiming personal acquaintance with Q — and that it would not surprise him if most so-called Q influencers exist to mislead adherents while discrediting them in the eyes of their countrymen.[13] His prescribed defence is to disregard third-party reporting entirely and consult the freely available primary source, the [[q-operation|Q]] drops.[13]
 15. Badlands Brief — "Structures of Control - Part 3", URL: https://badlands.substack.com/p/structures-of-control-part-3
+
+## Carlson's account (2024)
+
+In "The Media is the Enemy of the People" (September 17, 2024), [[erik-carlson|Erik Carlson]] dated the believed start of Operation Mockingbird to the early 1960s, when the majority of American homes had acquired a television, and described it as a covert operation in which the [[central-intelligence-agency|CIA]] funded members of the media to push messaging the agency wanted the public to consume.[16] He placed its launch shortly after the CIA's formation in 1947 and treated it as the template for decades of narrative control.[16]
+
+16. Badlands Brief — "The Media is the Enemy of the People", URL: https://badlands.substack.com/p/the-media-is-the-enemy-of-the-people
+
+## Reference in "The Information Imperium"
+
+Badlands Media's "The Information Imperium" invokes Operation Mockingbird together with [[frank-wisner|Frank Wisner]]'s "Mighty Wurlitzer" as the foundational examples of [[central-intelligence-agency|CIA]] media manipulation, calling the combination the information-warfare equivalent of weapons of mass destruction.[17] The article argues that public exposure of these programmes in the 1970s pushed the same capability into overt institutions such as the [[national-endowment-for-democracy|National Endowment for Democracy]].[17]
+
+17. Badlands Brief — "The Information Imperium", URL: https://badlands.substack.com/p/the-information-imperium
+
+## Cited in the Ivy Dominion essay
+
+The June 2025 Badlands Media essay "The Ivy Dominion" claims that Operation Mockingbird "found fertile ground" at [[columbia-university|Columbia University]] and that many early media assets were Columbia-trained.[18] It asserts that legacy Mockingbird links remain active through alumni who now dominate newsrooms, and that Columbia's journalism school together with the [[philolexian-society|Philolexian Society]] produces "the gatekeepers of acceptable narrative" tracing their lineage to the Mockingbird era.[18] In the article's framing, this makes Columbia the narrative enforcement arm of the alleged [[ivy-dominion|Ivy Dominion]], exporting Mockingbird-era media control into contemporary mainstream outlets such as the [[new-york-times|New York Times]] and the Washington Post.[18]
+
+18. Badlands Brief — "The Ivy Dominion", URL: https://badlands.substack.com/p/the-ivy-dominion

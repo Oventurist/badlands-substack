@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [wikileaks, journalism, cia, smear-campaign]
-sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-322.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-d5c.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-dbd.md, raw/badlands-news-brief-ee8.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-322.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-d5c.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-dbd.md, raw/badlands-news-brief-ee8.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-mystery-of-julian-assange.md]
 confidence: medium
 ---
 
@@ -96,3 +96,25 @@ On Monday, May 20, 2024, London's High Court ruled that Assange had the right to
 10. Badlands Brief — "Badlands News Brief: Toothless Sanctions and Ouroboros Patterns", URL: https://badlands.substack.com/p/badlands-news-brief-d6a
 11. Badlands Brief — "Badlands News Brief: Destination Deportations, Alligator Alcatraz, & WWIII Gets Rugged", URL: https://badlands.substack.com/p/badlands-news-brief-dbd
 12. Badlands Media — "Badlands News Brief: Cohen Clown Show Continues as the Iranian Blame Game Begins", URL: https://badlands.substack.com/p/badlands-news-brief-ee8
+
+## Cited in Carlson's CIA exposure sequence (2024)
+
+Erik Carlson's "The CIA is Being Thrown Under the Bus" refers back to his previous article, "The Mystery of Julian Assange," in which he catalogued how frequently the [[central-intelligence-agency|CIA]] had appeared in the news cycle in early 2024.[13]
+
+Among the events he lists is [[tucker-carlson|Tucker Carlson]]'s interview with Assange's wife [[stella-assange|Stella]], in which she discussed the agency's plan to assassinate her husband, organised under [[mike-pompeo|Mike Pompeo]].[13]
+
+13. Badlands Brief — "The CIA is Being Thrown Under the Bus", URL: https://badlands.substack.com/p/the-cia-is-being-thrown-under-the
+
+## "The Mystery of Julian Assange" (March 2024)
+
+In a March 4, 2024 essay titled "The Mystery of Julian Assange," Badlands contributor [[erik-carlson|Erik Carlson]] publicly withdrew his prior assumption that Assange was a "white hat," arguing that the publisher's record does not, on its own, establish that he is a patriot.[14] Carlson stressed that he was not asserting Assange was a black hat, only that Assange had never earned the trust routinely extended to him and should be examined "from every possible angle."[14]
+
+Carlson set out a compressed timeline: after publishing US Army intelligence analyst [[chelsea-manning|Chelsea Manning]]'s footage of a 2007 US airstrike in Baghdad in 2010, Assange sought asylum in the [[ecuadorian-embassy-in-london|Ecuadorian Embassy in London]] in 2012.[14] From the embassy in 2013 he and other [[wikileaks|WikiLeaks]] figures attempted to help [[edward-snowden|Edward Snowden]] evade US law enforcement, creating a distraction to assist his departure from Russia after Washington cancelled his passport, before ultimately advising him that Russia was the safest place to remain.[14] In July 2016 Assange released [[dnc-email-leak|DNC emails]] showing the party had disadvantaged Bernie Sanders in favour of [[hillary-clinton|Hillary Clinton]], followed months later by the [[podesta-emails|John Podesta emails]], and in March 2017 by [[vault-7|Vault 7]], the largest leak of CIA documents in history.[14]
+
+The essay's central suspicion is operational: everyone, including the [[central-intelligence-agency|CIA]], knew precisely where Assange was, yet he was able to assist Snowden and publish the DNC, Podesta and Vault 7 material unimpeded — which Carlson called "far fetched" for an agency Assange himself had described as able to hack virtually any connected device.[14] He also noted that the Ecuadorian government cut Assange's internet for only six weeks, and only after the Podesta releases.[14]
+
+Carlson observed that Assange was arrested and transferred to a British prison in 2019, where he faces 18 US charges for illegally receiving and disclosing classified information, and that although his health was said to be failing in inhumane conditions, he and his lawyers were fighting to keep him in Britain rather than be extradited — a posture Carlson found incoherent.[14] He further asked why, if Britain were truly America's "lapdog" as [[stella-assange|Stella Assange]] claimed, [[donald-trump|Trump]] neither freed Assange nor compelled his extradition during four years in office, and why Assange never sought asylum at the [[white-house|White House]] between 2017 and 2021 — noting that Trump's administration added 17 new charges against him.[14]
+
+A further thread of the essay questions whether Assange is still alive, since no verified proof of life had been seen for some time; Carlson noted that [[tucker-carlson|Tucker Carlson]]'s December 2023 prison visit produced no recording and no aired interview, and that Assange did not appear in court, even remotely, during his February 2024 hearing because he was too ill.[14] Carlson conceded that in an era of synthetic video even footage would not settle the matter.[14] He also floated the possibility that the Clinton and Podesta disclosures achieved nothing — neither figure was imprisoned — and that the pair may have been [[cabal|Cabal]] scapegoats whose exposure Assange performed as handiwork, or that Assange's leaks were driven by a desire for attention.[14]
+
+14. Badlands Brief — "The Mystery of Julian Assange", URL: https://badlands.substack.com/p/the-mystery-of-julian-assange

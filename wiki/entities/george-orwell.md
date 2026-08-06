@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [author, literature, propaganda, badlands-media]
-sources: [raw/control-through-language.md]
+sources: [raw/control-through-language.md, raw/the-inversion-of-health.md]
 confidence: low
 ---
 
@@ -24,3 +24,8 @@ Carlson summarizes *1984*'s protagonist Winston as a worker for the government m
 
 ## References
 1. Badlands Brief — "Control Through Language", URL: https://badlands.substack.com/p/control-through-language
+2. Badlands Brief — "The Inversion of Health", URL: https://badlands.substack.com/p/the-inversion-of-health
+
+## Fabian Society membership
+
+In "The Inversion of Health," [[ryan-delarme|Ryan DeLarme]] places Orwell, along with [[aldous-huxley|Aldous Huxley]] and [[h-g-wells|H.G. Wells]], among the members of the [[fabian-society|Fabian Society]], and reports that many believe *1984* was an exposé of what Orwell learned through that society.[2]

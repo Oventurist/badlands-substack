@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ngo, soros, funding, clinton-email-investigation]
-sources: [raw/badlands-news-brief-168.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-f54.md, raw/badlands-news-brief-f44.md, raw/george-soros-shadow-network.md, raw/george-soros-a-british-creation.md, raw/is-the-censorship-war-over.md, raw/structures-of-control-part-2.md, raw/structures-of-control-part-1.md]
+sources: [raw/badlands-news-brief-168.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-f54.md, raw/badlands-news-brief-f44.md, raw/george-soros-shadow-network.md, raw/george-soros-a-british-creation.md, raw/is-the-censorship-war-over.md, raw/structures-of-control-part-2.md, raw/structures-of-control-part-1.md, raw/the-information-imperium.md]
 confidence: low
 ---
 
@@ -107,3 +107,9 @@ The "Structures of Control" series identifies the Open Society Foundations as on
 In Part 1 of the Badlands Media [[structures-of-control-part-1-series|Structures of Control]] series, judicial offices targeted by organizations such as the Open Society Foundations are described as critical [[node-systems-dynamics|nodes]] within the justice system, collecting inputs from campaign funding, media narratives, and public expectations and outputting decisions that influence local governance.[14] The article argues that such nodes do more than respond to external pressure — they actively propagate influence, turning local decisions into signals that ripple outward and reinforce broader systemic agendas while eroding local autonomy.[14] It cites the 2016 election cycle, when district attorney candidates backed by [[george-soros|George Soros]] are said to have become operational nodes disseminating policies that weakened prosecution rates, generating instability that justified higher-level intervention framed as necessary solutions.[14] Rising crime is presented as the resulting national outcome, and the "Defund the Police" movement is described as linked to Soros-connected NGOs.[14]
 
 14. Badlands Brief — "Structures of Control - Part 1", URL: https://badlands.substack.com/p/structures-of-control-part-1
+
+## Funding of Internews
+
+Badlands Media's "The Information Imperium" lists Open Society among the donors financing [[internews|Internews]], grouping it with the [[ford-foundation|Ford Foundation]] and the [[rockefeller-foundation|Rockefeller Foundation]] as part of what the article calls the CIA cut-out NGO blob operating alongside [[usaid|USAID]] and [[national-endowment-for-democracy|NED]] money.[15] The article adds an author's note that [[nato|NATO]] is a significant part of the same structure and that the Soros-NATO connection deserves separate treatment.[15]
+
+15. Badlands Brief — "The Information Imperium", URL: https://badlands.substack.com/p/the-information-imperium

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [watergate, richard-nixon, cia, george-hw-bush, war-on-drugs]
-sources: [raw/dope-inc.md, raw/four-pillars-of-government-control.md, raw/patsies-of-the-cia-and-fbi.md]
+sources: [raw/dope-inc.md, raw/four-pillars-of-government-control.md, raw/patsies-of-the-cia-and-fbi.md, raw/the-church-committee-for-dummies.md]
 confidence: low
 ---
 
@@ -37,3 +37,9 @@ The Badlands essay "Patsies of the CIA and FBI" treats Watergate not as a scanda
 The claim is offered as an addendum to the essay's list of individuals used as patsies, extending the same logic from violence to political sabotage: the agency removes leaders who oppose it, by bullet or by plot.[3] See also [[intelligence-patsy|intelligence patsy]].[3]
 
 3. Badlands Brief — "Patsies of the CIA and FBI", URL: https://badlands.substack.com/p/patsies-of-the-cia-and-fbi
+
+## The Senate Watergate Committee and the Church Committee
+
+Badlands Media credits the 1973 Senate Watergate Committee investigation as the direct cause of the 1975 [[church-committee|Church Committee]], because it revealed that the executive branch had directed national intelligence agencies to carry out constitutionally questionable domestic security operations.[4] That disclosure, combined with [[seymour-hersh|Seymour Hersh]]'s 1974 New York Times reporting on [[central-intelligence-agency|CIA]] surveillance of anti-war activists, produced the congressional appetite for a full inquiry into federal intelligence operations.[4]
+
+4. Badlands Brief — "The Church Committee, for Dummies", URL: https://badlands.substack.com/p/the-church-committee-for-dummies

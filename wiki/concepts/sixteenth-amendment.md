@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [constitution, income-tax, 1913]
-sources: [raw/1913.md, raw/americas-greatest-threat.md]
+sources: [raw/1913.md, raw/americas-greatest-threat.md, raw/the-decade-we-all-became-slaves.md, raw/the-history-of-central-banking-in.md]
 confidence: medium
 ---
 
@@ -22,6 +22,20 @@ After ratification, Democratic leaders agreed to seek passage of the [[revenue-a
 
 Carlson argues that politicians knew Americans would never approve a [[federal-income-tax|federal income tax]] at the ballot box, so they simply removed the power from the people, accepting the risk of losing re-election because they were "paid handsomely for their treasonous actions."[[2]](https://badlands.substack.com/p/americas-greatest-threat) He contends the founders had specifically made a federal income tax unconstitutional, and that its absence kept government small; once enacted, it allowed government to grow and taxpayer money to be siphoned to officials and those who control them.[[2]](https://badlands.substack.com/p/americas-greatest-threat)
 
+## 1913 ratification in the Badlands account
+
+Badlands Media commentary states that the 16th Amendment created an income tax on Americans in 1909 but was not ratified until 2/3/1913 — a few weeks before the [[internal-revenue-service|IRS]] was brought back on 2/25/1913 and ten months before the [[federal-reserve|Federal Reserve]] was established.[3] The article asks why an income tax was needed when existing taxes seemed to get the job done, and answers that it was required to pay interest to the bankers who printed money out of nothing for the Federal Reserve.[3] It notes the tax started at one percent to overcome public resistance and was raised slowly thereafter, so that today no one knows a time without income taxes.[3]
+
+## Relationship to the Federal Reserve
+
+Just a few weeks before the Federal Reserve Act passed, in October, Congress passed a bill legalizing direct income taxation of the people, pushed through by Senator [[nelson-aldrich|Nelson Aldrich]] and now commonly known as the 16th Amendment.[4] Badlands Media argues the income tax law was absolutely fundamental to the [[federal-reserve|Federal Reserve]], because the Fed would run up an unquenchable federal debt whose interest could only be guaranteed by directly taxing individuals — as had been done with the [[bank-of-england|Bank of England]].[4] Had the Fed relied instead on contributions from the states, it would have faced larger entities capable of revolting, refusing to pay interest on their own money, or bringing political pressure to keep the debt small.[4]
+
+## Ratification Claims
+
+The article asserts — while disclaiming financial advice — that the 16th Amendment may never have been properly ratified, that many American citizens consequently do not pay income tax, and that there is really nothing the United States government can do about it, directing readers to thelawthatneverwas.com for further information.[4] It also notes that in 1895 the [[supreme-court-of-the-united-states|Supreme Court]] found an income tax law similar to the 16th Amendment unconstitutional, and that the Court found a corporate tax law unconstitutional in 1909.[4]
+
 ## References
 1. Badlands Brief — "1913: The Year the Cabal Enslaved America", URL: https://badlands.substack.com/p/1913
 2. Badlands Brief — "America's Greatest Threat", URL: https://badlands.substack.com/p/americas-greatest-threat
+3. Badlands Brief — "The Decade We All Became Slaves", URL: https://badlands.substack.com/p/the-decade-we-all-became-slaves
+4. Badlands Brief — "The History of Central Banking in America", URL: https://badlands.substack.com/p/the-history-of-central-banking-in

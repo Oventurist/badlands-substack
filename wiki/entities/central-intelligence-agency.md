@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence, us-government, deep-state, covert-action]
-sources: [raw/badlands-news-brief-b40.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-c78.md, raw/badlands-news-brief-d5c.md, raw/badlands-news-brief-dcb.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-e79.md, raw/badlands-news-brief-f99.md, raw/badlands-news-brief-fcb.md, raw/clowns-in-america.md, raw/child-sacrifice-as-a-pillar-of-deep.md, raw/does-the-cia-still-control-iran.md, raw/dollars-dope-and-deception.md, raw/durham-continues-to-reveal-previously.md, raw/everything-is-connected.md, raw/follow-the-money.md, raw/four-pillars-of-government-control.md, raw/how-to-rent-a-riot-the-plausible.md, raw/how-to-rent-a-riot-the-history-of.md, raw/panic-in-dc.md, raw/operation-cyclone-the-seeds-of-terror.md, raw/profiting-from-war.md, raw/q-for-dummies-chapter-15.md, raw/q-for-dummies-chapter-21.md, raw/q-for-dummies-chapter-4.md, raw/rainbow-color-revolution.md, raw/school-of-assassins-and-dictators.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-church-committee-for-dummies.md, raw/the-biggest-boomerang-in-history.md]
+sources: [raw/badlands-news-brief-b40.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-c78.md, raw/badlands-news-brief-d5c.md, raw/badlands-news-brief-dcb.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-e79.md, raw/badlands-news-brief-f99.md, raw/badlands-news-brief-fcb.md, raw/clowns-in-america.md, raw/child-sacrifice-as-a-pillar-of-deep.md, raw/does-the-cia-still-control-iran.md, raw/dollars-dope-and-deception.md, raw/durham-continues-to-reveal-previously.md, raw/everything-is-connected.md, raw/follow-the-money.md, raw/four-pillars-of-government-control.md, raw/how-to-rent-a-riot-the-plausible.md, raw/how-to-rent-a-riot-the-history-of.md, raw/panic-in-dc.md, raw/operation-cyclone-the-seeds-of-terror.md, raw/profiting-from-war.md, raw/q-for-dummies-chapter-15.md, raw/q-for-dummies-chapter-21.md, raw/q-for-dummies-chapter-4.md, raw/rainbow-color-revolution.md, raw/school-of-assassins-and-dictators.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-church-committee-for-dummies.md, raw/the-biggest-boomerang-in-history.md, raw/the-information-imperium.md, raw/the-media-is-the-enemy-of-the-people.md]
 confidence: medium
 ---
 
@@ -258,3 +258,20 @@ The Christmas Day 1975 murder of station chief [[richard-welch|Richard Welch]] o
 The article separately notes the 2012 disclosure that former CIA director [[david-petraeus|David Petraeus]] used shared [[gmail-draft-communications|Gmail draft]] folders — a technique Politico said was favoured by Al Qaeda — and speculates that the agency most likely taught the technique to Al Qaeda in the first place.[30] These claims reflect Badlands Media interpretation rather than established fact.
 
 30. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history
+
+
+## Propaganda legacy and the NED handoff
+
+Badlands Media's "The Information Imperium" summarises the CIA's post-World War II propaganda record — funding media outlets, planting stories and manipulating public opinion to counter Soviet influence — and notes that public exposure of these activities through investigations such as the [[church-committee|Church Committee]] badly damaged the agency's credibility by the 1970s.[31] [[operation-mockingbird|Operation Mockingbird]] and [[frank-wisner|Frank Wisner]]'s "Mighty Wurlitzer" are described as the information-warfare equivalent of weapons of mass destruction.[31]
+
+The article argues that the [[national-endowment-for-democracy|National Endowment for Democracy]], created in 1983, was the successor mechanism, with founder [[allen-weinstein|Allen Weinstein]] conceding in 1991 that "a lot of what we do today was done covertly 25 years ago by the CIA."[31] In the resulting triad the CIA supplies strategic direction, the NED supplies overt funding and ideological cover, and [[usaid|USAID]] supplies resources and legitimacy — a nexus that the article says underwrites contemporary media operations run through [[internews|Internews]] abroad and [[newsguard|NewsGuard]] at home.[31]
+
+31. Badlands Brief — "The Information Imperium", URL: https://badlands.substack.com/p/the-information-imperium
+
+## Alleged control of media, technology and culture (Carlson, 2024)
+
+In "The Media is the Enemy of the People" (September 17, 2024), [[erik-carlson|Erik Carlson]] argued that the CIA, formed in the latter half of 1947, moved to capture American mass media as television penetration rose from 9% to 65% of homes during the 1950s, with [[operation-mockingbird|Operation Mockingbird]] believed to have begun by the early 1960s.[32] Carlson wrote that music, movies, television news and entertainment, newspapers and magazines were funded, created and manipulated by the agency, so that the body created to defend America from foreign enemies was in fact controlling Americans.[32]
+
+He further claimed the CIA created 1960s counterculture and music groups, was heavily involved in the civil rights and women's rights movements, and "created serial killers and political assassins," removing opponents by assassination or character assassination.[32] With the arrival of the public internet the agency allegedly pivoted, creating [[google|Google]] and [[facebook|Facebook]] to control what could be found and said online while harvesting personal data, and letting print outlets die as funding shifted.[32] Carlson also described the CIA as "the biggest gun running, drug running and human trafficking operation in the world," whose proceeds require laundering through advertising, modern art and [[youtube|YouTube]] earnings.[32]
+
+32. Badlands Brief — "The Media is the Enemy of the People", URL: https://badlands.substack.com/p/the-media-is-the-enemy-of-the-people

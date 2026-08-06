@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, epigenetics, consciousness, hijacked-consciousness]
-sources: [raw/hijacked-consciousness-field-builders.md, raw/the-bridge.md]
+sources: [raw/hijacked-consciousness-field-builders.md, raw/the-bridge.md, raw/the-emergence.md]
 confidence: low
 ---
 
@@ -18,6 +18,11 @@ The article cites him as "Dr. Bruce Lipton" for the line, "The moment you change
 
 The same quotation — that the moment we change our perception we also rewrite the chemistry of our body — opens the "Expanding Consciousness & Reclaiming Inner Freedom" section of the earlier March 1, 2025 essay "The Bridge: Awakening, Healing, and Ascension," where Lipton is credited as the author of *The Biology of Belief*.[2] There the line introduces the argument that once the mind is rewired and the nervous system healed, the body becomes a clear channel for consciousness, and that higher states of awareness emerge naturally rather than being learned.[2]
 
+## Cited in "The Emergence" (April 2025)
+
+A closely related formulation — "Your perception rewrites the biology of your body" — is attributed to Lipton in the April 26, 2025 essay [[the-emergence|"The Emergence"]].[3] There the quotation supports the claim that in the state the author calls [[coherence|coherence]], perception is "no longer hijacked by trauma loops," so that the reader stops scanning the horizon for danger and listens within for direction.[3] The essay adds that coherence does not eliminate chaos but confers the ability "to stay steady in its presence."[3]
+
 ## References
 1. Badlands Brief — "Hijacked Consciousness - Field Builders", URL: https://badlands.substack.com/p/hijacked-consciousness-field-builders
 2. Badlands Brief — "The Bridge", URL: https://badlands.substack.com/p/the-bridge
+3. Badlands Media — "The Emergence", URL: https://badlands.substack.com/p/the-emergence

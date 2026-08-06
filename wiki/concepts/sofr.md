@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [finance, banking, benchmark-rates]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/control-the-financial-system-control.md, raw/is-jerome-powell-a-patriot.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/control-the-financial-system-control.md, raw/is-jerome-powell-a-patriot.md, raw/the-cia-is-being-thrown-under-the.md]
 confidence: medium
 ---
 
@@ -32,3 +32,11 @@ Carlson noted that [[john-c-williams|John C. Williams]], SOFR's architect, was a
 1. Badlands Brief — "A Journey of Ever-changing Truths", URL: https://badlands.substack.com/p/a-journey-of-ever-changing-truths
 2. Badlands Brief — "Control the Financial System, Control the World", URL: https://badlands.substack.com/p/control-the-financial-system-control
 3. Badlands Brief — "Is Jerome Powell a Patriot?", URL: https://badlands.substack.com/p/is-jerome-powell-a-patriot
+
+## Adoption framed as reclaiming American financial sovereignty (Carlson, 2024)
+
+In "The CIA is Being Thrown Under the Bus," Erik Carlson presents the switch from [[libor|LIBOR]] to SOFR as [[donald-trump|Donald Trump]]'s means of moving control of America's banking system from the [[city-of-london|City of London]] to the [[federal-reserve|Federal Reserve]].[4]
+
+Carlson lists the change among the reasons he believes the Deep State's century-old instruments of control are losing their effectiveness, forcing the Cabal to operate through NATO, the United Nations and the European Union rather than through the [[central-intelligence-agency|CIA]].[4]
+
+4. Badlands Brief — "The CIA is Being Thrown Under the Bus", URL: https://badlands.substack.com/p/the-cia-is-being-thrown-under-the

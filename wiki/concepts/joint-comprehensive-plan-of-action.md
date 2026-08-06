@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [iran, nuclear-deal, obama, sanctions, geopolitics]
-sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-168.md, raw/does-the-cia-still-control-iran.md, raw/panic-in-dc.md, raw/q-for-dummies-chapter-5.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-168.md, raw/does-the-cia-still-control-iran.md, raw/panic-in-dc.md, raw/q-for-dummies-chapter-5.md, raw/the-deep-politics-of-the-12-day-war.md]
 confidence: medium
 ---
 
@@ -58,3 +58,13 @@ The article also charges that a central selling point of the agreement was false
 ## Treatment in the Q drops
 
 Chapter 5 of [[q-for-dummies|Q for Dummies]] identifies the agreement as "the deal being referred to" in Q drop #39 of November 2, 2017.[5] The commentary characterises it as an arrangement made by [[barack-obama|Barack Obama]] that "was an affront to the United States," and asserts that it was kept top secret "because of its treasonous nature," with Obama intending that no one see it.[5] The drop's surrounding material links the deal to [[north-korea|North Korea]]'s nuclear progress and to Obama's alleged overseas travel intended to undo [[donald-trump|Trump]]'s diplomacy.[5]
+
+## "No Iran Deal, no Trump"
+
+In "The Deep Politics of the '12-Day War'," [[ryan-delarme|Ryan DeLarme]] names the agreement, signed 14 July 2015, as the primary impetus behind the [[twelve-day-war|12-Day War]] — arguing that the conflict is about energy, economy and radically shifting regional dynamics rather than nuclear weapons.[6] He quotes the [[council-on-foreign-relations|Council on Foreign Relations]]'s own description of the accord as a landmark agreement under which Iran agreed to dismantle much of its nuclear program and open its facilities to more extensive international inspections in exchange for billions of dollars' worth of sanctions relief, then argues that despite the CFR's framing the deal had almost nothing to do with the nuclear program and was an energy deal using sanctions relief as a bargaining token.[6] Iran had been under heavy sanctions since the 1979 revolution, and lifting them would allow the Iranian economy to skyrocket, given that the country sits on nearly 20 percent of the world's natural gas supply and the third-largest oil reserves, in a geostrategic position bridging Europe and Asia while bypassing Russia.[6]
+
+DeLarme describes the JCPOA as the pet project of the Obama-era political machine and the greater international [[foreign-policy-establishment|foreign policy establishment]], and dates to it the end of the era in which there was no daylight between [[israel|Israel]] and that establishment.[6] Opening the "cookie jar" created two flashpoints: Israel was apoplectic, since an economically booming Iran able to fund [[hamas|Hamas]], [[hezbollah|Hezbollah]] and the Houthis a hundredfold would leave Israel at a severe military disadvantage, while [[saudi-arabia|Saudi Arabia]], whose flourishing rests on its dominance of Middle Eastern gas and oil, fought the deal on economic grounds.[6] These conditions pushed two historically unfriendly nations into becoming reluctant bedfellows and created the fertile ground in which the [[abraham-accords|Abraham Accords]] were planted.[6]
+
+He adds that at the same time the Obama [[state-department|State Department]] was working toward a soft-power regime change in Israeli leadership aimed at removing [[benjamin-netanyahu|Benjamin Netanyahu]], while Israel — adept at the same game — worked to regime change U.S. leadership.[6] The fracture of the Obama/[[nato|NATO]]–Saudi–Israeli coalition over the deal became, in his account, the primary motivating factor behind the coalition of support and funding that carried [[donald-trump|Donald Trump]] to victory over [[hillary-clinton|Hillary Clinton]]: "no Iran Deal, no Trump."[6]
+
+6. Badlands Media — "The Deep Politics of the '12-Day War'", URL: https://badlands.substack.com/p/the-deep-politics-of-the-12-day-war

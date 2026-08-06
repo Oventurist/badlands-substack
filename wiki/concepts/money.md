@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [money, monetary-theory, trust, control-system, economics]
-sources: [raw/cracks-in-the-curtain.md]
+sources: [raw/cracks-in-the-curtain.md, raw/the-economy-weaponized.md]
 confidence: medium
 ---
 
@@ -36,5 +36,20 @@ Money is described as the lifeblood of human civilization: properly run and mana
 
 The essay further argues that money's purpose of measuring work and resource contribution has been so thoroughly distorted over the centuries that some people need not work much at all to thrive — pointing not primarily to welfare but to abstract financial industries in which almost nothing is produced yet the proportion of money paid out is astronomical, with the [[rothschild-family|Rothschilds]] cited as the paradigm case.[1] Ultimately it holds that whether a money system is gold-backed, silver-backed, crypto-based, or made of leather skins, it is only as good as the people who use it.[1]
 
+## Money as agreement and symbol
+
+In a later Badlands Media essay, "The Economy: Weaponized" (April 27, 2023), Deschamps developed a complementary account in which money's value is non-material.[2] Noting the dictionary definition of money as something generally accepted as a medium of exchange, a measure of value, or a means of payment — coins, paper money, digital or paper records, securities, bonds, or checks — he asked what actually gives money its value, and rejected the paper, the engraved presidential images, the registration number and the printed denomination as mere identifying features.[2]
+
+To illustrate the point he invoked Roman coinage: at the peak of the Roman Empire such coins could buy almost anything and carried numerical values and an engraved emperor, yet a modern coffee shop would not accept a sack of them despite their sharing nearly all the features of contemporary money.[2] The conclusion he drew is that money's value comes from the willing choice of people to use it as a medium of exchange, and that currency is created by the people when they use it; outside of use, money is just paper, digits in a computer, or a lump of metal.[2] He compared this to language, where a word such as "good" acquires precise meaning only through specific use.[2]
+
+Applying the principle to national currencies, Deschamps wrote that United States dollars work in the United States because the people, through their use in stores and businesses and through [[congress|Congress]], agreed to use USD to make purchases and pay debts — technically acquiescing to the dollar via the [[federal-reserve-act-of-1913|Federal Reserve Act]] through legislators who decided for them, with the failure to reject and reverse that decision constituting tacit agreement or acquiescence.[2] England likewise agreed, or acquiesced, to the pound sterling, which is why dollars cannot settle a restaurant bill there.[2]
+
+## Tokens and symbolic representation
+
+The same essay treats money as a token, drawing an analogy with [[tokenization|tokenization]] in information technology and arguing that symbolic representation is a fundamental human trait: humans are "symbol machines," and nearly everything they think, feel and experience represents something else.[2] Money is a symbol representing monetary value, and monetary value is itself a symbol for objects, events or labor valuable to a person or group.[2] Deschamps extended the idea to non-monetary tokens of recognition — a coach smacking a player on the backside after a good play, or a husband kissing his wife after a meal she prepared — arguing that although these cannot be spent at Walmart they function as compensation for services rendered and motivate future service.[2]
+
+Because symbols are so easy for people to create, he argued, the fact that bankers have convinced the public it has no power to manage its own money systems is a testament to their skill as mass mind controllers.[2] His illustration of the point in practice is the [[prison-yard-monetary-systems|prison yard monetary system]], where inmates transform cigarettes or candy into currency without permission from the prison, Congress, bankers or the [[federal-reserve|Federal Reserve]].[2]
+
 ## References
 1. Badlands Brief — "Cracks in the Curtain", URL: https://badlands.substack.com/p/cracks-in-the-curtain
+2. Badlands Brief — "The Economy: Weaponized", URL: https://badlands.substack.com/p/the-economy-weaponized

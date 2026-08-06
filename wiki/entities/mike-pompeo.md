@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cia, state-department, iran, neoconservatism]
-sources: [raw/badlands-brief-d9f.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-275.md, raw/everything-is-connected.md, raw/profiting-from-war.md, raw/the-cia-is-being-thrown-under-the.md]
+sources: [raw/badlands-brief-d9f.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-275.md, raw/everything-is-connected.md, raw/profiting-from-war.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-difference-between-friend-and.md, raw/the-mystery-of-julian-assange.md]
 confidence: medium
 ---
 
@@ -49,3 +49,29 @@ Erik Carlson's "The CIA is Being Thrown Under the Bus" references [[tucker-carls
 The article also notes that Pompeo moved from Director of the CIA to Secretary of State, with [[gina-haspel|Gina Haspel]] replacing him at Langley — after which, Carlson writes, [[donald-trump|Donald Trump]] stopped running intelligence through the agency.[6] Observing that Pompeo had recently said he would like to be part of Trump's new administration amid all the renewed talk about him, Carlson asked pointedly whether it was a coincidence.[6]
 
 6. Badlands Brief — "The CIA is Being Thrown Under the Bus", URL: https://badlands.substack.com/p/the-cia-is-being-thrown-under-the
+
+## The "secret weapon" thesis
+
+Joe Lange's "The Difference Between Friend and Foe" describes Pompeo as [[donald-trump|Trump]]'s "secret weapon" in an unconventional war against an embedded insurgency controlled by a foreign cabal, and argues that his record on the Intelligence Committee made him the perfect choice to head the [[cia|CIA]] and dig into off-the-books operations and hidden money streams.[7] Foreign Policy noted that well before his January 2017 confirmation there was every indication Pompeo would not approach the job as his predecessors had, having made a name in Congress as a purveyor of hard-line conservative ideology and even conspiracy theories, and that his relentless attacks on Hillary Clinton over [[benghazi|Benghazi]] endeared him to Trump.[7]
+
+### The 2016 Kansas spat
+
+Lange contends the plan was always to place Pompeo at the CIA to destroy the agency from the inside, and that the only way to secure confirmation given that history was to stage a very public falling-out with Trump.[7] At the March 5, 2016 Kansas caucus, Pompeo delivered [[marco-rubio|Marco Rubio]]'s closing argument in Wichita, citing Trump's boast that a soldier ordered to commit a war crime would "go do it," warning that Trump would be "an authoritarian President who ignored our Constitution," and closing with "It's time to turn down the lights on the circus."[7] Trump, listening, demanded to know the identity of the congressman trashing him.[7] The rebuke got barely a mention in the local press, Rubio finished third in Kansas and ended his campaign days later, and Pompeo reluctantly endorsed Trump in May.[7] He continued to criticize Trump nationally, telling the *Topeka Capital-Journal* that Trump was "not a conservative believer" and saying on CNN that "a lot of his policies don't comport with my vision for how I represent Kansas."[7] Lange dismisses the New Yorker's claim that the two men had never met, arguing Pompeo was handpicked and the distance manufactured for confirmation purposes.[7]
+
+### At the CIA
+
+As director, Pompeo was a fixture at the [[white-house|White House]], traveling there most mornings for the presidential daily briefing and often accompanying Trump to subsequent meetings regardless of topic; Foreign Policy said Trump came to see him as a "policy Svengali," blurring the line between intelligence and policy.[7] He argued for trashing the Iran accord and ramping up pressure on Tehran even as CIA analysts concluded Iran was complying, asserted publicly that Russian interference had no effect on the 2016 electoral outcome, met at Langley with a leading proponent of the theory that WikiLeaks obtained the DNC emails through an insider leak rather than a Russian hack, and unexpectedly resumed the declassification of files recovered from Osama bin Laden's compound, ultimately releasing several hundred thousand more documents.[7] Lange reads each of these as Pompeo knowing the truth the agency was concealing.[7]
+
+### North Korea and promotion to State
+
+Lange argues it was essential that Pompeo run the CIA *before* becoming Secretary of State because the agency, in his telling, controlled [[north-korea|North Korea]] just as it controlled [[pakistan|Pakistan]], and was behind the [[nuclear-proliferation|nuclear proliferation]] of rogue states.[7] While he was director, North Korea's Punggye-ri test site suffered an on-site collapse and [[kim-jong-un|Kim Jong Un]] announced its closure, declaring the country no longer needed to test nuclear weapons.[7] With that mission accomplished, Trump fired [[rex-tillerson|Rex Tillerson]] and installed Pompeo at State, saying he wanted a new team in place before negotiations with Kim and that Pompeo was "the right person for the job at this critical juncture," committed to "seeking the denuclearization of the Korean Peninsula."[7] Lange links the [[2018-hawaii-false-missile-alert|Hawaii false missile alert]] and an alleged rogue submarine launch near Whidbey Island to last-ditch attempts to derail that process.[7]
+
+7. Badlands Media — "The Difference Between Friend and Foe", URL: https://badlands.substack.com/p/the-difference-between-friend-and
+
+## The alleged Assange assassination plan
+
+In "The Mystery of Julian Assange" (March 4, 2024), [[erik-carlson|Erik Carlson]] notes that [[tucker-carlson|Tucker Carlson]] has repeatedly stated that Pompeo, while Director of the [[central-intelligence-agency|CIA]], planned the assassination of [[julian-assange|Julian Assange]], and that Carlson expressed open disdain for Pompeo in an interview with Roseanne Barr.[8] After taking office in 2017, [[donald-trump|Trump]] put Pompeo in charge of the CIA and later made him Secretary of State.[8]
+
+Erik Carlson draws a distinction Tucker's framing elides: while not defending Pompeo, he argues there is a significant difference between attempting to kill someone and merely game-planning a scenario in which the agency might need to do so, and suspects the latter is what actually occurred.[8] He also flags the contradiction that Reuters reporting from February 20, 2024 quoted Assange's counsel saying Trump himself requested "detailed options" to kill Assange, meaning Tucker — a Trump supporter — was spotlighting a plot the underlying reporting attributes to Trump rather than to Pompeo alone.[8] The episode forms part of the [[assange-extradition-case|Assange extradition case]] record, where the alleged plan targeted Assange inside the [[ecuadorian-embassy-in-london|Ecuadorian Embassy in London]].[8]
+
+8. Badlands Brief — "The Mystery of Julian Assange", URL: https://badlands.substack.com/p/the-mystery-of-julian-assange

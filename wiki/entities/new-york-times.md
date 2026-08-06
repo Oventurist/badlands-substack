@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, mainstream-media, newspapers, intelligence-community]
-sources: [raw/a-swan-song-for-the-msm.md, raw/assad-day-in-damascus.md, raw/badlands-brief-559.md, raw/badlands-brief-6f0.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-ed9.md, raw/badlands-news-brief-f1d.md, raw/missed-opportunities.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/assad-day-in-damascus.md, raw/badlands-brief-559.md, raw/badlands-brief-6f0.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-ed9.md, raw/badlands-news-brief-f1d.md, raw/missed-opportunities.md, raw/the-cia-is-being-thrown-under-the.md]
 confidence: medium
 ---
 
@@ -163,3 +163,11 @@ On December 16, 2025, the Times published what it billed as an "exhaustive inves
 DeLarme catalogued specific gaps: [[douglas-leese|Douglas Leese]] was described only as a "defense contractor with extensive connections in the arms industry and the British government," with no mention of his ties to [[adnan-khashoggi|Adnan Khashoggi]]; [[j-stanley-pottinger|J. Stanley Pottinger]] appeared merely as an "early office-sharing partner," omitting his 1980–1981 advisory role to Iranian arms exporters; Khashoggi was framed as an eccentric client rather than a pivotal [[iran-contra-affair|Iran-Contra]] player; the firm's [[bank-of-credit-and-commerce-international|BCCI]] trades at Bear Stearns went unmentioned entirely; and the paper avoided Epstein's repurposing of [[southern-air-transport|Southern Air Transport]] aircraft.[23] He also faulted the piece for constant editorializing and for inserting opinion as though it were fact, arguing the selective narrative perpetuates a sanitized history that pins the ills on a dead man while obscuring institutional corruption.[23]
 
 23. Badlands Brief — "Missed Opportunities", URL: https://badlands.substack.com/p/missed-opportunities
+
+## The Ukraine story in Carlson's 2024 account
+
+Erik Carlson's "The CIA is Being Thrown Under the Bus" describes the paper as "CIA-controlled" while treating its story on the [[central-intelligence-agency|CIA]]'s presence in Ukraine since 2014 as a key sign that the agency is being thrown under the bus.[24]
+
+He notes that the story appeared alongside reports of an assassination attempt on [[tucker-carlson|Tucker Carlson]] in Moscow by a would-be assassin who claimed to have been recruited by Ukraine — the very country the Times said the agency had infiltrated a decade earlier — and that [[victoria-nuland|Victoria Nuland]] announced her retirement shortly afterwards.[24]
+
+24. Badlands Brief — "The CIA is Being Thrown Under the Bus", URL: https://badlands.substack.com/p/the-cia-is-being-thrown-under-the

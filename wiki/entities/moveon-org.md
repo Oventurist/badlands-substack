@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [progressive-advocacy, pac, democratic-party, george-soros, shadow-network]
-sources: [raw/george-soros-shadow-network.md]
+sources: [raw/george-soros-shadow-network.md, raw/the-real-fight-begins.md]
 confidence: medium
 ---
 
@@ -28,5 +28,10 @@ On 9 December 2004, [[eli-pariser|Eli Pariser]], who headed MoveOn PAC, told mem
 
 The article's framing is that organizations such as MoveOn function as the recruitment and messaging layer of a broader "playbook": establish foundations and non-profits, staff them with ideologically activated personnel, then use them to place believers into government positions, fund campaigns and purchase influence in media.[1] Readers should note that these are the interpretations of a Badlands Media contributor rather than established findings; the underlying quotations and donation figures are sourced, but the coordinating-network thesis is contested.
 
+## Role in the post-2024 "Resistance 2.0" coalition
+
+MoveOn, described as having started as an emailed petition in 1998, was named as one of the sponsor organizations that joined with the [[working-families-party|Working Families Party]], the [[indivisible|Indivisible Project]], Public Citizen and the [[american-civil-liberties-union|American Civil Liberties Union]] ahead of the 2024 election to organize opposition to a second [[donald-trump|Trump]] term.[2] Organizers said the coalition aligned more than 100 groups along with Representative [[pramila-jayapal|Pramila Jayapal]], and set eight roughly weekly "Mass Calls" starting November 7, 2024.[2] Badlands contributor [[ryan-delarme|Ryan DeLarme]] characterized the effort — dubbed [[resistance-2-0|"Resistance 2.0"]] — as a domestic [[color-revolution|color revolution]] run by NGO world against MAGA.[2]
+
 ## References
 1. Badlands Brief — "George Soros' Shadow Network", URL: https://badlands.substack.com/p/george-soros-shadow-network
+2. Badlands Brief — "The Real Fight Begins", URL: https://badlands.substack.com/p/the-real-fight-begins

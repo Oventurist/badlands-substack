@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [united-kingdom, monarchy, epstein]
-sources: [raw/badlands-brief-740.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-561.md, raw/q-for-dummies-chapter-14.md]
+sources: [raw/badlands-brief-740.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-561.md, raw/q-for-dummies-chapter-14.md, raw/the-deep-state-empire-strikes-back.md]
 confidence: medium
 ---
 
@@ -32,8 +32,17 @@ Badlands contributor [[ashe-in-america|Ashe in America]] mocked the framing, not
 
 Chapter 14 of the [[q-for-dummies|Q for Dummies]] series raises Charles in connection with the death of [[diana-princess-of-wales|Diana, Princess of Wales]], noting that Diana wrote a letter to her butler expressing concern that Charles — then Prince of Wales — would use a car accident to remove her.[4] The chapter links to Telegraph coverage of the letter and treats it as supporting its theory that Diana was killed to stop her exposing the royal family.[4] The claim is the author's interpretation and no finding of responsibility is established in the source.[4]
 
+## The 2025 Canadian Throne Speech
+
+On May 27, 2025, Charles flew to Ottawa aboard a French Airbus CC330 and was conveyed in a 27-car motorcade to Canada's parliament, where he delivered the throne speech inaugurating the new session under Prime Minister [[mark-carney|Mark Carney]] — the first time a sitting monarch had done so in nearly 50 years.[5] After acknowledging unceded land in his opening remarks, the King — described by Badlands contributor Matthew Ehret as the owner of 89% of Canada's surface area under the designation of "Crown land" — urged Canada's representatives to commit to decarbonization, arctic militarization, and support for European militarization through the [[rearm-europe|Re-Arm Europe Plan]] against Russia.[5]
+
+Ehret writes that Carney invited the King precisely because he wanted the monarch to take a more active role in shaping Canada's identity.[5] Charles is also described as having worked closely with Carney in announcing the [[great-reset|Great Reset]] agenda and the King's Sustainable Business Initiative, established in 2020 to re-wire international finance around a "green" decarbonization ethos.[5]
+
+Ehret further notes that President [[donald-trump|Donald Trump]] indicated openness to the King's offer for the United States to rejoin the British Commonwealth as an "associate member," saying "I Love King Charles. Sounds good to me!"[5]
+
 ## References
 1. Badlands Brief — "Aliens. A Fake Kid Dies From Fake Measles. And the Princely Prosecution That Was Promised.", URL: https://badlands.substack.com/p/badlands-brief-740
 2. Badlands Brief — "Badlands News Brief: Overexposed Engagement Farmers & Maple-Flavored Monarchs", URL: https://badlands.substack.com/p/badlands-news-brief-42b
 3. Badlands Brief — "Badlands News Brief: Pro Putin Propaganda & A Parisian Proxy President", URL: https://badlands.substack.com/p/badlands-news-brief-561
 4. Badlands Brief — "Q for Dummies - Chapter 14", URL: https://badlands.substack.com/p/q-for-dummies-chapter-14
+5. Badlands Brief — "The Deep State Empire Strikes Back", URL: https://badlands.substack.com/p/the-deep-state-empire-strikes-back

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [republican-party, uniparty, political-terminology, maga]
-sources: [raw/badlands-news-brief-132.md, raw/badlands-news-brief-960.md, raw/balance-necessary-for-control.md, raw/president-trumps-call-to-arms.md]
+sources: [raw/badlands-news-brief-132.md, raw/badlands-news-brief-960.md, raw/balance-necessary-for-control.md, raw/president-trumps-call-to-arms.md, raw/the-deep-state-needs-trump-to-win.md]
 confidence: medium
 ---
 
@@ -37,3 +37,11 @@ Badlands contributor [[brad-getz|Brad Getz]] located the origin of the RINO phen
 2. Badlands Brief — "Wray Goes to Sleep, Syria Gets Weird and Xi Gets an Invite", URL: https://badlands.substack.com/p/badlands-news-brief-960
 3. Badlands Brief — "Balance, Necessary for Control", URL: https://badlands.substack.com/p/balance-necessary-for-control
 4. Badlands Brief — "President Trump's Call to Arms", URL: https://badlands.substack.com/p/president-trumps-call-to-arms
+
+## Loss of the conservative pendulum swing (Carlson, April 2024)
+
+In "The Deep State Needs Trump to Win" (April 15, 2024), [[erik-carlson|Erik Carlson]] placed RINOs alongside [[neoconservatives|Neocons]] as the occupants of what he called the conservative side of the [[deep-state|Deep State]]'s political pendulum.[5] In his model, that swing had historically supplied proxy wars, military spending and the rebuilding of war-torn countries, offsetting the taxes, regulation and government programs of the liberal swing.[5]
+
+By 2024, Carlson argued, the Deep State looking to that side of the pendulum sees only "a bunch of RINOs and Neocons who have lost their power, held captive by MAGA and America First" — leaving the network caught between a rock and a hard place, choosing between letting its host die and taking its chances with [[america-first-movement|America First]].[5] He offered the same point as evidence that the Deep State no longer commands the machinery of war, since otherwise young Americans would already have been drafted into a foreign conflict.[5]
+
+5. Badlands Brief — "The Deep State Needs Trump to Win", URL: https://badlands.substack.com/p/the-deep-state-needs-trump-to-win

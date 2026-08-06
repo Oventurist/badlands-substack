@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republican, arizona, sound-money]
-sources: [raw/badlands-news-brief-12e.md, raw/badlands-news-brief-79c.md, raw/badlands-news-brief-919.md]
+sources: [raw/badlands-news-brief-12e.md, raw/badlands-news-brief-79c.md, raw/badlands-news-brief-919.md, raw/the-overdrive-timeline.md]
 confidence: low
 ---
 
@@ -25,3 +25,9 @@ Reporting on the introduction identified Biggs and Gosar as the two Arizona Repu
 1. Badlands Brief — "Badlands News Brief: Trans Mayhem, WW3 & Trump's Travels", URL: https://badlands.substack.com/p/badlands-news-brief-12e
 2. Badlands Brief — "Badlands News Brief: Target Tumbles, Trump Tops & Feds Fabricate", URL: https://badlands.substack.com/p/badlands-news-brief-79c
 3. Badlands Brief — "Badlands News Brief: Trials Galore, Ukraine Backpedal & The Gold Standard", URL: https://badlands.substack.com/p/badlands-news-brief-919
+
+## January 2023 speakership concessions
+
+Biggs was one of the twenty-one holdouts whose votes forced the [[january-2023-mccarthy-concessions|January 2023 McCarthy concessions]].[4] He kept his places on the powerful [[house-judiciary-committee|Judiciary]] and [[house-oversight-committee|Oversight]] committees and was named chairman of Judiciary's subcommittee on Crime and Federal Government Surveillance.[4]
+
+4. Badlands Brief — "The Overdrive Timeline", URL: https://badlands.substack.com/p/the-overdrive-timeline

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, journalism, tabloid]
-sources: [raw/badlands-news-brief-125.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-d50.md, raw/donald-trump-and-george-washington.md]
+sources: [raw/badlands-news-brief-125.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-d50.md, raw/donald-trump-and-george-washington.md, raw/the-information-imperium.md]
 confidence: medium
 ---
 
@@ -42,3 +42,9 @@ The New York Post reported on August 20, 2024 that [[donald-trump|Donald Trump]]
 3. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
 4. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50
 5. Badlands Brief — "Donald Trump and George Washington", URL: https://badlands.substack.com/p/donald-trump-and-george-washington
+
+## NewsGuard rating and the laptop story
+
+Badlands Media's "The Information Imperium" notes that the New York Post received a NewsGuard score of 75 after failing all four of the rating firm's transparency categories, while the ten largest U.S. papers mostly scored a perfect 100.[6] The Post's October 2020 report on [[hunter-biden-laptop|Hunter Biden's laptop]] was dismissed as a "hoax" by [[newsguard|NewsGuard]] co-CEO [[steven-brill|Steven Brill]], a judgment overtaken in 2022 when mainstream outlets conceded the laptop was genuine.[6]
+
+6. Badlands Brief — "The Information Imperium", URL: https://badlands.substack.com/p/the-information-imperium

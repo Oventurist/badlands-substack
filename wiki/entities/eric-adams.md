@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [new-york-city, mayors, politics]
-sources: [raw/badlands-brief-e8d.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-502.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-ec8.md, raw/badlands-news-brief-ee7.md, raw/badlands-news-brief-f00.md, raw/badlands-news-brief-fe4.md]
+sources: [raw/badlands-brief-e8d.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-502.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-ec8.md, raw/badlands-news-brief-ee7.md, raw/badlands-news-brief-f00.md, raw/badlands-news-brief-fe4.md, raw/the-great-purge-of-the-cabal-has.md]
 confidence: medium
 ---
 
@@ -181,3 +181,9 @@ In February 2025 a senior official at the U.S. Department of Justice directed fe
 25. Badlands Brief — "Badlands News Brief: Trump Trials, Peacemakers & Narrative Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-ee7
 26. Badlands Media — "Badlands News Brief: Intel Leaks, Cartel Extraditions, & Terror Designations", URL: https://badlands.substack.com/p/badlands-news-brief-f00
 27. Badlands Brief — "Badlands News Brief: International Dealmaking & Collectible Pennies", URL: https://badlands.substack.com/p/badlands-news-brief-fe4
+
+## Arrest read as an early stage of the purge (October 2024)
+
+In an October 2024 Badlands Media essay, [[erik-carlson|Erik Carlson]] cited the arrest of the mayor of New York City as evidence that the [[southern-district-of-new-york|Southern District of New York]] would be "where a lot of the Cabal will meet their demise," and predicted that many more such arrests would follow.[28] Carlson left the motive open, asking whether Adams's arrest showed that patriots now control the DOJ or whether he was arrested because he turned on the [[deep-state|Deep State]], concluding only that "we'll find out soon enough."[28] The arrest was presented alongside the prosecution of [[sean-combs|Sean "P Diddy" Combs]] as part of a sequence priming the public for [[mass-arrests|mass arrests]].[28]
+
+28. Badlands Brief — "The Great Purge of the Cabal Has Begun", URL: https://badlands.substack.com/p/the-great-purge-of-the-cabal-has

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, judiciary-committee, oversight, declassification, treason]
-sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-165.md, raw/badlands-brief-245.md, raw/badlands-brief-314.md, raw/badlands-brief-9ac.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-561.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-e31.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-f14.md, raw/badlands-news-brief-ed9.md, raw/badlands-news-brief-f7d.md, raw/badlands-news-brief-ffa.md, raw/q-for-dummies-chapter-6.md, raw/the-biggest-cover-up-in-american.md]
+sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-165.md, raw/badlands-brief-245.md, raw/badlands-brief-314.md, raw/badlands-brief-9ac.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-561.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-e31.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-f14.md, raw/badlands-news-brief-ed9.md, raw/badlands-news-brief-f7d.md, raw/badlands-news-brief-ffa.md, raw/q-for-dummies-chapter-6.md, raw/the-biggest-cover-up-in-american.md, raw/the-great-awakening-and-the-end-of.md]
 confidence: medium
 ---
 
@@ -182,3 +182,9 @@ Grassley's release noted that the informant, an American businessman, had docume
 [[qanon|Q]] drop #49 of November 2, 2017 instructed readers to "Follow Sen GRASSLEY," asking why he had a higher than normal security detail and why he and others were being held in a secure location, and referencing the "U1 FBI informant," secret sessions, and matters filed under [[state-secrets-privilege|"State Secrets"]].[27] Lange reads this as indicating that Grassley was meeting the informant in secret and that both men's lives were in danger, and notes the reporting requirement that Congress be informed each time the state secrets designation is invoked.[27]
 
 27. Badlands Brief — "The Biggest Cover-up in American History", URL: https://badlands.substack.com/p/the-biggest-cover-up-in-american
+
+## Anti-trafficking legislation
+
+In "The Great Awakening and the End of Human Trafficking," [[american-hypnotist|American Hypnotist]] noted that a new version of the [[trafficking-victims-protection-act|Trafficking Victims Protection Act]] was proposed by Grassley in 2017 and renamed the [[frederick-douglas-trafficking-prevention-act|Frederick Douglas Trafficking Prevention Act]] in 2018.[28] The author linked this to the [[qanon|Q]] instruction to "trust Grassley," presenting the senator's sponsorship of successor anti-trafficking legislation as consistent with that guidance.[28]
+
+28. Badlands Brief — "The Great Awakening and the End of Human Trafficking", URL: https://badlands.substack.com/p/the-great-awakening-and-the-end-of

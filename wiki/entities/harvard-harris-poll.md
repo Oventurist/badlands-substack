@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [polling, public-opinion, elections, media]
-sources: [raw/badlands-news-brief-3df.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-d5c.md, raw/badlands-news-brief-dfa.md]
+sources: [raw/badlands-news-brief-3df.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-d5c.md, raw/badlands-news-brief-dfa.md, raw/the-hitler-or-obama-youth.md]
 confidence: medium
 ---
 
@@ -41,3 +41,11 @@ A Harvard-Harris survey released on July 23, 2023 and conducted July 19-20 among
 2.  Badlands Media — "Badlands News Brief: Biden Crime Cascade, Woke Collapse & Establishment Panic", URL: https://badlands.substack.com/p/badlands-news-brief-617
 3. Badlands Media — "Badlands News Brief: Colorado Fallout (and Exposure) Continues", URL: https://badlands.substack.com/p/badlands-news-brief-d5c
 4. Badlands Brief — "Hunter's Plea, Powell's Plight & Trump's Plan", URL: https://badlands.substack.com/p/badlands-news-brief-dfa
+
+## October 2023 Israel/Hamas survey
+
+A Harvard/Harris poll conducted October 18–19, 2023 surveyed 2,116 Americans about the Israel/Hamas conflict, eleven to twelve days after the initial Hamas attacks on Israeli citizens and one to two days after the alleged hospital bombing in Gaza.[5] Asked "In this conflict, do you side more with Israel or Hamas," 48% of respondents aged 18–24 sided more with [[hamas|Hamas]], compared with 5% of those aged 65 and over.[5] Asked whether the Hamas killing of 1,200 Israeli civilians could be justified by the grievances of Palestinians, 51% of the 18–24 group said it could, against 9% of the 65+ group.[5] Asked whether the [[al-ahli-baptist-hospital-explosion|Gaza hospital explosion]] was caused by an Israeli airstrike or a terrorist rocket that went off course, 45% of the youngest cohort blamed Israel, against 13% of the oldest.[5]
+
+Badlands contributor [[erik-carlson|Erik Carlson]] highlighted that all other age cohorts tracked closer to the 65+ group than to the 18–24 group, which he took as a sign that the youngest cohort had been specifically targeted by propaganda.[5] He noted that both groups had access to the same information about the hospital explosion, including the corrections that emerged the evening of October 17 and the following morning, yet 3.5 times as many young respondents as old still attributed the blast to Israel — the basis of his [[obama-youth|Obama Youth]] argument.[5]
+
+5. Badlands Brief — "The Hitler ... or Obama Youth", URL: https://badlands.substack.com/p/the-hitler-or-obama-youth

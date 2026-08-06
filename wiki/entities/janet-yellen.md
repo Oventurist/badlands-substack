@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [federal-reserve, treasury, monetary-policy]
-sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-2b1.md, raw/badlands-news-brief-38f.md, raw/badlands-news-brief-47a.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-f00.md, raw/is-jerome-powell-a-patriot.md, raw/nobel-winning-economist-revives-2013s.md]
+sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-2b1.md, raw/badlands-news-brief-38f.md, raw/badlands-news-brief-47a.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-f00.md, raw/is-jerome-powell-a-patriot.md, raw/nobel-winning-economist-revives-2013s.md, raw/the-fed-balance-sheet.md]
 confidence: medium
 ---
 
@@ -81,3 +81,11 @@ In January 2023, as Treasury Secretary, Yellen publicly dismissed the [[trillion
 10. Badlands Media — "Badlands News Brief: Intel Leaks, Cartel Extraditions, & Terror Designations", URL: https://badlands.substack.com/p/badlands-news-brief-f00
 11. Badlands Brief — "Is Jerome Powell a Patriot?", URL: https://badlands.substack.com/p/is-jerome-powell-a-patriot
 12. Badlands Brief — "Nobel-Winning Economist Revives 2013's Ridiculous 'Platinum Trill'", URL: https://badlands.substack.com/p/nobel-winning-economist-revives-2013s
+
+## In "The Fed Balance Sheet" (April 2023)
+
+[[erik-carlson|Erik Carlson]]'s essay "The Fed Balance Sheet" recounts that Yellen was appointed chair of the [[federal-reserve|Federal Reserve]] by [[barack-obama|Barack Obama]] in 2014, succeeding [[ben-bernanke|Ben Bernanke]], and that both she and Bernanke carried a reputation for believing that printing more money is the answer to anything that ails an economy and that excessive printing carries no consequences.[13]
+
+Carlson highlighted what he considered a telling inconsistency: during the whole of Obama's presidency the Fed never judged the economy healthy enough to normalize rates or reduce the [[federal-reserve-balance-sheet|balance sheet]], yet in the first year of [[donald-trump|Donald Trump]]'s presidency — with Yellen still chair — the balance sheet stopped growing and shrank by roughly 1 percent.[13] "Yet, as soon as Trump took over, she suddenly didn't feel the need to add to the Fed balance sheet anymore," he wrote, calling the shift "curious, to say the least."[13] He later argued that if [[joe-biden|Joe Biden]] genuinely controlled the Fed and the [[us-department-of-the-treasury|Treasury]], Yellen as Treasury Secretary would be expanding the balance sheet rather than presiding over its contraction and aggressive rate hikes.[13]
+
+13. Badlands Brief — "The Fed Balance Sheet", URL: https://badlands.substack.com/p/the-fed-balance-sheet

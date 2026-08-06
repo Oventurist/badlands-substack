@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [attorney, 2020-election, georgia, election-integrity]
-sources: [raw/badlands-brief-990.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-252.md, raw/the-biggest-boomerang-in-history.md]
+sources: [raw/badlands-brief-990.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-252.md, raw/the-biggest-boomerang-in-history.md, raw/the-devil-is-still-in-georgia.md]
 confidence: medium
 ---
 
@@ -35,3 +35,9 @@ Court filings unsealed in February 2023 in the [[dominion-v-fox-news-defamation-
 "[[the-biggest-boomerang-in-history|The Biggest Boomerang In History]]" identifies Powell as the "new" defence lawyer for [[michael-flynn|Michael Flynn]] to whom Attorney General [[william-barr|William Barr]] delivered the declassified email exchanges between [[peter-strzok|Peter Strzok]] and [[lisa-page|Lisa Page]].[4] [[joe-lange|Joe Lange]] writes that those emails demonstrated a conspiracy by [[james-comey|Comey]]'s [[fbi|FBI]] to entrap Flynn into a false statement so that he would be fired, and that Powell's receipt of them followed Flynn's January 2020 move to vacate his guilty plea.[4] The material became the basis on which the criminal case against Flynn was dropped, as evidence of supreme bias and entrapment.[4] These claims reflect Badlands Media interpretation rather than established fact.
 
 4. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history
+
+## Leaked proffer video (November 2023)
+
+In November 2020, Powell — author of *License to Lie* — delivered the widely quoted line, "Georgia's probably going to be the first state I'm going to blow up."[5] Three years later, in November 2023, her legal proffer in [[fani-willis|Fani Willis]]'s [[fulton-county|Fulton County]] prosecution of [[donald-trump|Donald Trump]] and co-defendants was leaked to [[abc-news|ABC News]], alongside that of [[jenna-ellis|Jenna Ellis]].[5] Writing for [[badlands-media|Badlands Media]], [[ashe-in-america|Ashe in America]] argued the disclosure revealed nothing new about the aftermath of the 2020 election but supplied narrative shielding for the contemporaneous [[2023-georgia-municipal-election-discrepancies|post-election problems in Georgia]].[5] Willis blamed the team of co-defendant [[harrison-floyd|Harrison Floyd]] for the leaks and sought a protective order over case evidence; Floyd denied responsibility.[5]
+
+5. Badlands Brief — "The Devil is Still in Georgia", URL: https://badlands.substack.com/p/the-devil-is-still-in-georgia

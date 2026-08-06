@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [economics, trump, biden, national-security, tariffs]
-sources: [raw/badlands-news-brief-f14.md]
+sources: [raw/badlands-news-brief-f14.md, raw/the-harvard-control-grid.md]
 confidence: medium
 ---
 
@@ -26,5 +26,10 @@ Late on Friday, September 6, Bloomberg reported that aides to [[joe-biden|Joe Bi
 
 The Badlands brief presented the sequence as another instance of the [[kamala-harris|Kamala]]/Biden administration appropriating a Trump idea, following the elimination of taxes on tips and measures to stimulate new business creation.[1] It also argued that Bloomberg's insistence that the administration had been working on the concept "for months" was a necessary framing device, since floating the plan one day after Trump would otherwise have looked plainly derivative, and predicted that critics who had mocked the idea would embrace it once attached to Biden.[1]
 
+## Proposed citizen-owned funds in Badlands commentary
+
+"The Harvard Control Grid" proposes sovereign wealth funds "owned by the people" as the replacement for the elite institutional structures it describes.[2] Reading Trump's America First strategy through the asset-recovery lens of [[executive-order-13818|EO 13818]] and [[executive-order-13848|EO 13848]], the article envisions such funds buying up distressed institutional assets, using dividend-producing infrastructure, energy and private equity holdings to fund American citizens directly, and replacing DEI boards with "locally accountable sovereign trustees."[2] It offers as its illustration a [[harvard-management-company|Harvard Management Company]] portfolio "no longer in the hands of Rockefeller proxies, but reclaimed by the very people it exploited."[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Delays in Fake Justice & Signs of the Real Thing", URL: https://badlands.substack.com/p/badlands-news-brief-f14
+2. Badlands Brief — "The Harvard Control Grid", URL: https://badlands.substack.com/p/the-harvard-control-grid

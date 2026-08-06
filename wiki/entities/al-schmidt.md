@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [pennsylvania, elections, secretary-of-the-commonwealth, 2024-election]
-sources: [raw/badlands-news-brief-299.md]
+sources: [raw/badlands-news-brief-299.md, raw/the-msm-melts-down-amidst-americas.md]
 confidence: high
 ---
 
@@ -19,3 +19,9 @@ On Wednesday, November 13, 2024, Schmidt announced that the results of the Unite
 ## References
 
 1. Badlands Brief — "Badlands News Brief: MAHA Begins as ESG Dies", URL: https://badlands.substack.com/p/badlands-news-brief-299
+
+## 2020 Philadelphia count
+
+As a member of the Philadelphia Board of Elections in 2020, Schmidt oversaw the counting of a record 375,000 mail-in ballots — most of them from Democratic voters — at the Pennsylvania Convention Center, with police and protesters gathered outside while the state took four days to be called.[2] Reporting by [[cbs-news|CBS News]] cited by Badlands noted that Pennsylvania, unlike many other states, may only begin processing mail-in ballots on the morning of Election Day, and that Schmidt urged the public to be patient with the state.[2] The episode is cited as a leading illustration of [[us-election-vote-counting-delays|American vote-counting delays]].[2]
+
+2. Badlands Brief — "The MSM Melts Down Amidst America's Electoral Ineptitude", URL: https://badlands.substack.com/p/the-msm-melts-down-amidst-americas

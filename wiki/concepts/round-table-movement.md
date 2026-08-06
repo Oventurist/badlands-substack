@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [british-empire, deep-state, think-tank, world-government]
-sources: [raw/canadas-transition-to-collectivist.md, raw/henry-kissinger-british-cabal-puppet.md]
+sources: [raw/canadas-transition-to-collectivist.md, raw/henry-kissinger-british-cabal-puppet.md, raw/the-deep-state-empire-strikes-back.md]
 confidence: low
 ---
 
@@ -32,7 +32,16 @@ Carlson writes that [[cecil-rhodes|Cecil Rhodes]] believed only the British elit
 
 Carlson argues that the modern [[five-eyes|Five Eyes]] intelligence-sharing arrangement among Britain and its former colonies is the operational descendant of the Round Table's unifying purpose, citing claims that US agencies barred from spying on [[donald-trump|Donald Trump]] had other Five Eyes nations do it and pass back the product.[2] He also identifies [[william-yandell-elliott|William Yandell Elliott]] as a Round Table operative who recruited [[henry-kissinger|Henry Kissinger]] into the Rhodes-funded secret society in 1951, with Kissinger joining the American version of the Round Table — the [[council-on-foreign-relations|Council on Foreign Relations]] — in 1956.[2]
 
+## Origins and the grip on Canada
+
+Badlands contributor Matthew Ehret traces the movement's genesis to [[cecil-rhodes|Cecil Rhodes]]' 1877 manifesto and its call for "a Church for the extension of the British Empire," continued after Rhodes by Lord [[alfred-milner|Alfred Milner]], Philip Kerr, George Parkin, Leo Amery and Lionel Curtis — Oxford men groomed in the Boer Wars, where they oversaw concentration camps later adopted by [[adolf-hitler|Adolf Hitler]].[3] This "invisible empire" sought to entrench British dominance through education, think tanks, and financial power rather than military conquest.[3]
+
+In 1920 Milner's network birthed two of the most powerful institutions in modern global governance: the Royal Institute of International Affairs in London, known as [[chatham-house|Chatham House]], and its American counterpart the [[council-on-foreign-relations|Council on Foreign Relations]], which Hillary Clinton later called "The Mothership."[3]
+
+In 1909 Milner warned his fellow conspirators that the greatest danger to British power was not Canadian nationalism but Canadian union with the United States, prompting the construction of a synthetic Canadian nationalism that was loudly "not-American" while remaining quietly subordinate to London.[3] Prime Minister [[wilfrid-laurier|Wilfrid Laurier]]'s plan for a North American customs union was sabotaged in 1911 by Milner's forces, and Laurier later wrote that "Canada is now governed by a junta sitting at London, known as 'The Round Table', with ramifications in Toronto, in Winnipeg, in Victoria."[3] Ehret presents [[mark-carney|Mark Carney]], an Oxford-trained former president of Chatham House, as the movement's spiritual descendant.[3]
+
 ## References
 
 1. Badlands Brief — "Canada's Transition to Collectivist Green Dystopia", URL: https://badlands.substack.com/p/canadas-transition-to-collectivist
 2. Badlands Brief — "Henry Kissinger: British Cabal Puppet", URL: https://badlands.substack.com/p/henry-kissinger-british-cabal-puppet
+3. Badlands Brief — "The Deep State Empire Strikes Back", URL: https://badlands.substack.com/p/the-deep-state-empire-strikes-back

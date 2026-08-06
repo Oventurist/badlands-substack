@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republican, ohio, sec, crypto]
-sources: [raw/badlands-news-brief-f7d.md]
+sources: [raw/badlands-news-brief-f7d.md, raw/the-dystopia-will-be-televised.md]
 confidence: medium
 ---
 
@@ -22,5 +22,10 @@ The bill would not merely change the agency's leadership. It proposed adding a s
 
 Davidson's move was received enthusiastically in cryptocurrency circles, where hostility to Gensler's enforcement-first regulatory posture was intense. Following news of the bill, the $GENSLR protest token rose more than 25 percent and the hashtag #FireGaryGensler became a top-three trend on Twitter.[1] [[badlands-media|Badlands Media]] contributor [[ashe-in-america|Ashe in America]] framed the bill as part of a broader accountability push, noting that it followed a set of House-passed bills amending the 1933 Securities Act with bipartisan support.[1]
 
+## Opposition to a retail CBDC (2023)
+
+Davidson (R-Ohio) argued that the [[federal-reserve|Federal Reserve]] must concentrate on its dual mandate — price stability and maximum employment — instead of "eradicating financial autonomy."[2] Warning against a digital dollar, he said that "a retail CBDC would essentially allow the government to mediate all transactions, which would mirror what we see in China. It's vital to ensure this does not happen here."[2] His remarks accompanied House Republicans' introduction of the [[cbdc-anti-surveillance-state-act|CBDC Anti-Surveillance State Act]], led by [[tom-emmer|Tom Emmer]].[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: The All-Out Biden Blitz Boomerang ... And More", URL: https://badlands.substack.com/p/badlands-news-brief-f7d
+2. Badlands Brief — "The Dystopia Will Be Televised", URL: https://badlands.substack.com/p/the-dystopia-will-be-televised

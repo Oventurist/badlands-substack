@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [monetary-policy, deflation, hard-money]
-sources: [raw/1913.md, raw/a-seismic-shift.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/cracks-in-the-curtain.md, raw/money-and-oil.md]
+sources: [raw/1913.md, raw/a-seismic-shift.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/cracks-in-the-curtain.md, raw/money-and-oil.md, raw/the-midas-touch.md]
 confidence: medium
 ---
 
@@ -49,3 +49,21 @@ Joe Lange's essay "Money and Oil" attributes the United States' departure from t
 Lange presents a return to the gold standard as the intended endpoint of [[donald-trump|Trump]]'s strategy against the central banks, citing a Q post that he reads as revealing a plan to destroy the global debt system and restore gold backing.[5] He also notes that [[russia|Russia]] responded to Western sanctions by demanding payment for its oil and gas in rubles or gold, which strengthened the ruble.[5]
 
 5. Badlands Brief — "Money and Oil", URL: https://badlands.substack.com/p/money-and-oil
+
+## The case for restoration (May 2023)
+
+In "The Midas Touch," Joe Lange argues that returning to the gold standard would restore value in the currency, prevent inflation, encourage savings, restore trust in banking, prevent deficit spending and decentralize the global financial system.[6] Gold, he writes, is the key to decentralizing the entire global debt system.[6] He cites [[alan-greenspan|Alan Greenspan]]'s observation that under the gold standard a free banking system protects an economy's stability and balanced growth, and that in its absence there is no way to protect savings from confiscation through inflation.[6]
+
+Lange presents [[donald-trump|Donald Trump]] as a long-standing gold advocate, noting that in September 2011 Trump accepted gold rather than dollars as a rent deposit from a new tenant, saying it was "a sad day when a large property owner starts accepting gold instead of the dollar" and blaming the [[federal-reserve|Federal Reserve]]'s money printing and the Obama administration's fiscal policies.[6] Trump's transition-era consultations with [[judy-shelton|Judy Shelton]] and [[john-allison|John Allison]] of the [[cato-institute|Cato Institute]] are read as further evidence of intent.[6]
+
+## Signals of a coming restoration
+
+Lange assembles several developments as convergent signals: Treasury Secretary [[steven-mnuchin|Steven Mnuchin]]'s 2017 visit to [[fort-knox|Fort Knox]]; widespread [[gold-repatriation|gold repatriation]] by foreign central banks; record [[central-bank-gold-buying|central bank gold buying]]; and the [[bank-for-international-settlements|Bank for International Settlements]] reclassification of gold as a tier 1 asset in 2019.[6]
+
+## The state-level movement
+
+Within the United States, 43 states had ended sales taxes on gold and silver by 2023, a campaign backed by the [[sound-money-defense-league|Sound Money Defense League]]; the seven holdouts were New Mexico, Hawaii, Wisconsin, Kentucky, Maine, New Jersey and Vermont.[6] Arkansas became the fourth state — after Utah, Wyoming and Oklahoma — to make gold and silver legal tender through the [[arkansas-legal-tender-act|Arkansas Legal Tender Act]], while the [[tenth-amendment-center|Tenth Amendment Center]] reported 23 states developing similar rules.[6] Texas built the [[texas-bullion-depository|Texas Bullion Depository]], opened in 2018, and Tennessee moved to follow with its own depository and a law authorizing state gold and silver reserves signed by Governor [[bill-lee|Bill Lee]].[6]
+
+Lange grounds the movement in constitutional text — "no state shall … make anything but gold and silver coin a tender in payment of debts" — and in Dean Clancy's reading that Federal Reserve Notes are forbidden "bills of credit."[6] He anticipates a [[supreme-court-of-the-united-states|Supreme Court]] showdown overturning the [[legal-tender-cases|Legal Tender Cases]] and [[gold-clause-cases|Gold Clause Cases]] and returning the country to gold.[6]
+
+6. Badlands Brief — "The Midas Touch", URL: https://badlands.substack.com/p/the-midas-touch

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [public-health, federal-agencies, 2026]
-sources: [raw/badlands-brief-835.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-2b1.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-d00.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-f1d.md, raw/badlands-news-brief-efd.md, raw/badlands-news-brief-fcb.md]
+sources: [raw/badlands-brief-835.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-2b1.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-d00.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-f1d.md, raw/badlands-news-brief-efd.md, raw/badlands-news-brief-fcb.md, raw/the-dystopia-will-be-televised.md]
 confidence: medium
 ---
 
@@ -136,3 +136,9 @@ On Friday, May 5, 2023, CDC Director [[rochelle-walensky|Rochelle Walensky]] ann
 Badlands commentator [[ashe-in-america|Ashe in America]] responded with "good riddance," urging that all records and communications be retained, and argued that Walensky's tenure had encompassed multiple scandals involving COVID-19 case rates and death statistics, vaccine mandates, and school closures estimated by some to have set American students back twenty years.[21] The commentary contended that the director had prioritized the input of teachers' unions over that of parents, and that pairing her exit with the concurrent rehabilitation of [[american-federation-of-teachers|AFT]] president [[randi-weingarten|Randi Weingarten]] revealed a broader project of COVID-19 revisionism.[21]
 
 21. Badlands Brief — "Badlands News Brief: Devolution Digs, Storm Stirring & Leverage", URL: https://badlands.substack.com/p/badlands-news-brief-fcb
+
+## Purchase of cell phone location data
+
+Badlands Media reported that mass surveillance ratcheted up significantly during the COVID-19 pandemic, with the CDC buying private data from tens of millions of cell phones to check obedience to lockdown and curfew decrees.[22] The purchase was cited as an example of federal agencies acquiring [[commercially-available-information|commercially available information]] from data brokers rather than seeking legal compulsion, a practice central to contemporary [[mass-surveillance|mass surveillance]].[22]
+
+22. Badlands Brief — "The Dystopia Will Be Televised", URL: https://badlands.substack.com/p/the-dystopia-will-be-televised

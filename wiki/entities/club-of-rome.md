@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [malthusianism, think-tank, degrowth, globalism]
-sources: [raw/combating-the-transhumanist-religion.md, raw/defeating-the-depopulation-agenda.md]
+sources: [raw/combating-the-transhumanist-religion.md, raw/defeating-the-depopulation-agenda.md, raw/the-deep-state-empire-strikes-back.md, raw/the-men-behind-the-curtain-part-3.md]
 confidence: medium
 ---
 
@@ -34,6 +34,20 @@ Financing for the paradigm shift came through the [[1001-nature-trust|1001 Trust
 
 Canadian scientist [[ronald-hayes|Ronald Hayes]] attacked the Club-driven reconstruction of Canadian science policy in his 1973 book *The Chaining of Prometheus*, and [[lyndon-larouche|Lyndon LaRouche]] argued in 1982 that the greatest single cause of ecological destruction over the previous fifteen years had been toleration of the policies demanded by the neo-Malthusians of the Club of Rome and allied institutions.[2] Ehret concludes that young people brainwashed by the Club of Rome may yet rediscover that life is enjoyable with a growing population, industrial progress and open system thinking.[2]
 
+## The Canadian Club of Rome and the Ten Kingdoms
+
+Badlands contributor Matthew Ehret records the founding of the Canadian Club of Rome in 1970 by [[pierre-trudeau|Pierre Elliott Trudeau]] together with Rhodes Scholar Roland Michener, [[maurice-strong|Maurice Strong]], Rhodes Scholar Alistair Gillespie and Oxford-trained Marc Lalonde, describing it as the vehicle for reforming the entire Canadian governance system around a logic of "adapting to limits" and for creating [[environment-canada|Environment Canada]].[3]
+
+Ehret writes that the Club of Rome was financed by David Rockefeller and [[prince-bernhard|Prince Bernhard]] and brought into the [[world-economic-forum|World Economic Forum]] in 1973, and that under its influence a strict dualism was assumed as law between a changing civilized humanity and the "unchanging pure equilibrium" of nature — an assumption from which a new green religion arose, masking fascist intentions behind a "new Canadian nationalism" centred on fear of American and Russian aggressors and admiration for Britain.[3]
+
+Trudeau sponsored the Club's 1971 conference in Montebello, Quebec, which gave rise to *[[limits-to-growth|The Limits to Growth]]*, and was later invited to replace Aurelio Peccei after Peccei's death in 1984.[3] Ehret also points to the Club's 1973 "Regionalized and Adaptive Model of the Global World System" program, which outlined a world divided into "Ten Kingdoms."[3] Club of Rome founder Sir [[alexander-king|Alexander King]] additionally took over the [[oecd|OECD]] in the post-war institution-building wave Ehret attributes to the British imperial network.[3]
+
 ## References
 1. Badlands Brief — "Combating the Transhumanist Religion", URL: https://badlands.substack.com/p/combating-the-transhumanist-religion
 2. Badlands Brief — "Defeating the Depopulation Agenda", URL: https://badlands.substack.com/p/defeating-the-depopulation-agenda
+3. Badlands Brief — "The Deep State Empire Strikes Back", URL: https://badlands.substack.com/p/the-deep-state-empire-strikes-back
+4. Badlands Brief — "The Men Behind the Curtain - Part 3", URL: https://badlands.substack.com/p/the-men-behind-the-curtain-part-3
+
+## Influence on Davos language
+
+Badlands Media's history of the [[world-economic-forum|World Economic Forum]] identifies the Club of Rome as a key marker of where the elitist mindset stood in the early 1970s, when founder [[aurelio-peccei|Aurelio Peccei]] published the controversial *[[limits-to-growth|The Limits to Growth]]*, a Malthusian treatment of overpopulation.[4] The book is described as the genesis of the vocabulary now heard routinely from Davos, particularly around "sustainability" and "population control."[4] [[klaus-schwab|Klaus Schwab]] invited Peccei to deliver the keynote speech at the 1973 World Economic Forum, a public relations gamble that paid dividends and after which the Forum grew steadily in size, scale and power.[4]

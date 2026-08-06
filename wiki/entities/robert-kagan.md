@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [neoconservatism, pnac, foreign-policy]
-sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-835.md, raw/badlands-news-brief-a60.md, raw/badlands-news-brief-b86.md, raw/badlands-news-brief-d22.md, raw/deep-state-spotlight-victoria-nuland.md]
+sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-835.md, raw/badlands-news-brief-a60.md, raw/badlands-news-brief-b86.md, raw/badlands-news-brief-d22.md, raw/deep-state-spotlight-victoria-nuland.md, raw/the-msm-melts-down-amidst-americas.md, raw/the-ongoing-betrayal-of-the-gop.md]
 confidence: medium
 ---
 
@@ -45,3 +45,15 @@ The profile calls Kagan one of the foremost boosters of the war in Iraq and note
 4. Badlands Brief — "Badlands News Brief: Israel & Biden Backlash Mounts ... Deep State Panics", URL: https://badlands.substack.com/p/badlands-news-brief-b86
 5. Badlands Brief — "Badlands News Brief: Trump Hits Back at the Deep State, Confirms Their Fears", URL: https://badlands.substack.com/p/badlands-news-brief-d22
 6. Badlands Media — "Deep State Spotlight: Victoria Nuland", URL: https://badlands.substack.com/p/deep-state-spotlight-victoria-nuland
+
+## Resignation from The Washington Post (October 2024)
+
+Kagan was the first prominent journalist to resign from [[washington-post|The Washington Post]] over the paper's October 25, 2024 decision to withhold a presidential endorsement, quitting his post as editor-at-large in a departure first reported by [[semafor|Semafor]].[7] Badlands contributor [[ryan-delarme|Ryan DeLarme]] highlighted the resignation with evident irony, identifying Kagan as a neoconservative co-founder, with Bill Kristol, of the [[project-for-a-new-american-century|Project for a New American Century]] and the husband of [[victoria-nuland|Victoria Nuland]].[7] His exit came amid broader newsroom upheaval surrounding the [[2024-newspaper-non-endorsements|2024 newspaper non-endorsements]], including roughly 2,000 subscription cancellations in a single day.[7]
+
+7. Badlands Brief — "The MSM Melts Down Amidst America's Electoral Ineptitude", URL: https://badlands.substack.com/p/the-msm-melts-down-amidst-americas
+
+## NED advisor and anti-Trump commentary
+
+Robert Kagan, co-founder of the Project for a New American Century, has served as an advisor to the [[national-endowment-for-democracy|National Endowment for Democracy]].[8] He resigned from the *Washington Post* after the paper declined to endorse Kamala Harris in 2024, having previously written that a [[donald-trump|Trump]] dictatorship was "increasingly inevitable."[8] Badlands Media cites him alongside [[carl-gershman|Carl Gershman]] and [[anne-applebaum|Anne Applebaum]] as evidence that the NED's leadership and affiliates adopted an openly anti-Trump posture after 2016.[8]
+
+8. Badlands Brief — "The Ongoing Betrayal of the GOP", URL: https://badlands.substack.com/p/the-ongoing-betrayal-of-the-gop

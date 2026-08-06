@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [bush-family, banking, houston, cia]
-sources: [raw/a-family-affair.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-617.md, raw/profiting-from-war.md]
+sources: [raw/a-family-affair.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-617.md, raw/profiting-from-war.md, raw/the-men-behind-the-curtain-part-2.md]
 confidence: medium
 ---
 
@@ -29,9 +29,14 @@ According to [[mike-benz|Mike Benz]]'s reporting on the [[transition-integrity-p
 
 "Profiting From War" quotes the [[los-angeles-times|Los Angeles Times]] describing Baker as one of the ex-officials, alongside former Defense Secretary Frank C. Carlucci, whose leadership gave the [[carlyle-group|Carlyle Group]] its specialty in buying defense companies and multiplying their value.[5] [[george-hw-bush|George H.W. Bush]] joined the firm in 1993 as investor, Asia Advisory Board member and rainmaker, attracting twelve wealthy Saudi families including the Bin Ladens.[5] Baker remained a Carlyle senior counselor after Bush's retirement in October 2003, having lobbied U.S. allies to forgive Iraq's debt.[5] The article also places Baker on the 1993 trip to [[kuwait|Kuwait]] with the former president, Barbara Bush, [[neil-bush|Neil]] and [[marvin-bush|Marvin Bush]].[5]
 
+## Reagan chief of staff and Rockefeller ties
+
+Badlands Media's "The Men Behind the Curtain – Part 2" records that after the 1980 convention [[ronald-reagan|Ronald Reagan]] named Baker — [[george-hw-bush|George Bush]]'s campaign manager and then chairman of the Reagan–Bush campaign committee — as his White House chief of staff.[6] The article describes Baker as a fourth-generation member of a family long connected to Rockefeller oil interests.[6] It further identifies his son, James Baker IV, as a figure in the Trump-era Russiagate scandal and, more recently, as the lawyer fired by Elon Musk after the [[twitter-files|Twitter Files]] were released.[6]
+
 ## References
 1. Badlands Brief — "A Family Affair", URL: https://badlands.substack.com/p/a-family-affair
 2. Badlands Brief — "Cartels, Crucibles, & Convictions", URL: https://badlands.substack.com/p/badlands-news-brief-144
 3. Badlands News Brief — "Pre-Dawn Raids, Russiagate Racketeering, & Real-Time Adverse Reporting", URL: https://badlands.substack.com/p/badlands-news-brief-32d
 4.  Badlands Media — "Badlands News Brief: Biden Crime Cascade, Woke Collapse & Establishment Panic", URL: https://badlands.substack.com/p/badlands-news-brief-617
 5. Badlands Brief — "Profiting From War", URL: https://badlands.substack.com/p/profiting-from-war
+6. Badlands Brief — "The Men Behind the Curtain - Part 2", URL: https://badlands.substack.com/p/the-men-behind-the-curtain-part-2

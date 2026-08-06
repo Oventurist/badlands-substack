@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [media, 2024-election, journalism, washington-post, los-angeles-times]
-sources: [raw/badlands-news-brief-a60.md, raw/badlands-news-brief-e98.md]
+sources: [raw/badlands-news-brief-a60.md, raw/badlands-news-brief-e98.md, raw/the-msm-melts-down-amidst-americas.md]
 confidence: medium
 ---
 
@@ -37,7 +37,20 @@ He argued that presidential endorsements do not tip elections — "No undecided 
 Bezos invoked Eugene Meyer, publisher from 1933 to 1946, as sharing that view, and said the only error was the timing, which he attributed to inadequate planning rather than strategy.[2]
 Badlands writer [[burning-bright|Burning Bright]] framed the essay as part of a broader wave of elite panic op-eds — including Bloomberg's "doom loop" framing and [[axios|Axios]]'s declaration that mainstream media dominance in election narrative-setting had shattered in 2024.[2]
 
+## Detailed chronology and reaction
+
+Writing on November 4, 2024, Badlands contributor [[ryan-delarme|Ryan DeLarme]] dated the Los Angeles Times announcement to Wednesday, October 23, 2024, and the Washington Post announcement to Friday, October 25, 2024, noting that both decisions were widely unexpected because it had been assumed that each paper would instruct readers to vote for [[kamala-harris|Kamala Harris]].[3] Top editors at both publications had already drafted endorsements before the owning families intervened to decline to take sides.[3]
+
+The Post's published explanation stated that it would not endorse "in this election. Nor in any future presidential election," describing the move as "returning to our roots of not endorsing presidential candidates" and as "a statement in support of our readers' ability to make up their own minds."[3] The paper acknowledged the decision would be read variously as a tacit endorsement, a condemnation, or an abdication of responsibility.[3] The Post's own news side reported that an endorsement of Harris had been drafted by editorial page staffers but never published, and that the decision was made by owner [[jeff-bezos|Jeff Bezos]]; chief communications officer Kathy Baird said only, "This was a Washington Post decision to not endorse."[3] Members of the editorial board learned of the decision from opinion editor [[david-shipley|David Shipley]], and roughly 2,000 subscribers cancelled in the 24 hours ending Friday afternoon, an unusually high number.[3]
+
+DeLarme catalogued the reaction: former Post and [[boston-globe|Boston Globe]] editor [[marty-baron|Marty Baron]] called the non-endorsement "cowardice, with democracy as its casualty" and "disturbing spinelessness at an institution famed for courage"; former Obama national security adviser [[susan-rice|Susan Rice]] called it "the most hypocritical, chicken shit move from a publication that is supposed to hold people to account"; and [[brian-stelter|Brian Stelter]] relayed a board member's charge of "an outrageous abdication of responsibility."[3] Former *Salon* editor-in-chief [[joan-walsh|Joan Walsh]] urged a boycott of the paper.[3] [[robert-kagan|Robert Kagan]] resigned as editor-at-large, as first reported by [[semafor|Semafor]].[3]
+
+At the Los Angeles Times, editorials editor [[mariel-garza|Mariel Garza]] resigned, telling the [[columbia-journalism-review|Columbia Journalism Review]] that she was "not OK with us being silent."[3] The paper offered readers no explanation, but the owner's daughter, [[nika-soon-shiong|Nika Soon-Shiong]], attributed the decision of her father [[patrick-soon-shiong|Patrick Soon-Shiong]] to opposition to Harris's position on the war in Gaza, writing that "this is not a vote for Donald Trump. This is a refusal to ENDORSE a candidate that is overseeing a war on children."[3] DeLarme argued that this substantive, left-flank rationale was omitted from mainstream coverage because it conflicted with the prevailing narrative that the non-endorsements were fear-driven capitulation to a possible [[donald-trump|Donald Trump]] presidency.[3]
+
+DeLarme situated the affair within a broader critique of American political journalism, arguing that the original purpose of the free press was to hold power to account regardless of affiliation and that candidate endorsements are at minimum unjournalistic.[3] He noted that the Post had not endorsed a Republican for president in over two decades, backing John Kerry in 2004 through Joe Biden in 2020, and conceded that no informed observer believed the paper actually preferred anything but a Harris victory, making the sudden appeal to neutrality partly disingenuous.[3]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Trump Takes Over as the Info War Nears a Crescendo", URL: https://badlands.substack.com/p/badlands-news-brief-a60
 2. Badlands Brief — "Badlands News Brief: The Media Machine Panics as Battle Lines Are Drawn", URL: https://badlands.substack.com/p/badlands-news-brief-e98
+3. Badlands Brief — "The MSM Melts Down Amidst America's Electoral Ineptitude", URL: https://badlands.substack.com/p/the-msm-melts-down-amidst-americas

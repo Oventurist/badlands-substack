@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [psychoanalysis, psychology, austria, propaganda, mind-control]
-sources: [raw/the-decade-we-all-became-slaves.md]
+sources: [raw/the-decade-we-all-became-slaves.md, raw/the-inversion-of-health.md, raw/the-media-is-the-enemy-of-the-people.md]
 confidence: medium
 ---
 
@@ -27,3 +27,14 @@ Freud's American nephew [[edward-bernays|Edward Bernays]] graduated from Cornell
 ## References
 
 1. Badlands Brief — "The Decade We All Became Slaves", URL: https://badlands.substack.com/p/the-decade-we-all-became-slaves
+2. Badlands Brief — "The Inversion of Health", URL: https://badlands.substack.com/p/the-inversion-of-health
+
+## Tavistock Institute
+
+In "The Inversion of Health," [[ryan-delarme|Ryan DeLarme]] writes that in the 1940s [[john-d-rockefeller|Rockefeller]] funded the [[tavistock-institute|Tavistock Institute for Human Relations]], which hired Freud "to get the ball rolling" on an end goal of determining the most effective ways to manipulate and control mass consciousness.[2]
+
+## Cited in Carlson's media-control thesis (2024)
+
+In "The Media is the Enemy of the People" (September 17, 2024), [[erik-carlson|Erik Carlson]] grouped Freud with [[carl-jung|Carl Jung]] and his nephew [[edward-bernays|Edward Bernays]] as developers of the mind-manipulation techniques later deployed through mass media.[3]
+
+3. Badlands Brief — "The Media is the Enemy of the People", URL: https://badlands.substack.com/p/the-media-is-the-enemy-of-the-people

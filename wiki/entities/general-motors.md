@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [corporation, automotive, automation, labor]
-sources: [raw/badlands-brief-2b2.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-dca.md, raw/badlands-news-brief-e96.md, raw/badlands-news-brief-f94.md]
+sources: [raw/badlands-brief-2b2.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-dca.md, raw/badlands-news-brief-e96.md, raw/badlands-news-brief-f94.md, raw/the-inversion-of-health.md]
 confidence: medium
 ---
 
@@ -52,3 +52,9 @@ On October 24, 2023, the [[united-auto-workers|UAW]] struck GM's Arlington Assem
 
 5. Badlands Brief — "Badlands News Brief: Blinken Drones & Congress Stalls", URL: https://badlands.substack.com/p/badlands-news-brief-e96
 6. Badlands Brief — "Badlands News Brief: The Proof is in the Proxy ...", URL: https://badlands.substack.com/p/badlands-news-brief-f94
+
+## Healthcare costs and the 2009 bailout
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]], who grew up in Michigan hearing that "as General Motors goes, so goes America," uses GM as the emblem of the burden imposed by the American [[medical-industrial-complex|Medical Industrial Complex]].[7] Before Obama forced the company's CEO to resign in 2009, GM had received $17.4 billion in bailouts and still could not climb out of extreme debt — an inability he attributes in part to the tremendous cost of its employee healthcare program, on which the company was spending significantly more than on the steel and other materials needed to build its cars.[7]
+
+7. Badlands Brief — "The Inversion of Health", URL: https://badlands.substack.com/p/the-inversion-of-health

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [censorship, ngo, state-department, advertising]
-sources: [raw/badlands-news-brief-ea1.md]
+sources: [raw/badlands-news-brief-ea1.md, raw/the-information-imperium.md]
 confidence: medium
 ---
 
@@ -25,3 +25,9 @@ A year after the disclosures, the State Department responded to continued report
 ## References
 
 1. Badlands Brief — "Badlands News Brief: An Astonishing Fani, Angry Truckers & a Russian Ruse", URL: https://badlands.substack.com/p/badlands-news-brief-ea1
+
+## Congressional testimony (2023)
+
+During the 2023 Weaponization of the Federal Government hearings, journalist [[michael-shellenberger|Michael Shellenberger]] told Rep. [[matt-gaetz|Matt Gaetz]] that "both the Global Disinformation Index and NewsGuard are U.S. government-funded entities who are working to drive advertisers' revenue away from disfavored publications and towards the ones they favor."[2] Badlands Media's "The Information Imperium" cites the exchange while grouping GDI with [[newsguard|NewsGuard]] as commercial enforcement arms of the [[usaid|USAID]]–[[national-endowment-for-democracy|NED]]–[[central-intelligence-agency|CIA]] information apparatus.[2]
+
+2. Badlands Brief — "The Information Imperium", URL: https://badlands.substack.com/p/the-information-imperium

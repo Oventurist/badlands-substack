@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [cbdc, digital-currency, blockchain, monetary-policy, federal-reserve]
-sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-we-entering-the-millennial-reign.md, raw/badlands-brief-579.md, raw/badlands-news-brief-2b8.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-f4c.md, raw/badlands-news-brief-fbc.md, raw/badlands-news-brief-fcb.md, raw/dark-equation.md, raw/one-of-the-most-transformative-moments.md, raw/project-trump-card.md]
+sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-we-entering-the-millennial-reign.md, raw/badlands-brief-579.md, raw/badlands-news-brief-2b8.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-f4c.md, raw/badlands-news-brief-fbc.md, raw/badlands-news-brief-fcb.md, raw/dark-equation.md, raw/one-of-the-most-transformative-moments.md, raw/project-trump-card.md, raw/the-covfefe-dig.md, raw/the-dystopia-will-be-televised.md]
 confidence: medium
 ---
 
@@ -65,6 +65,10 @@ At the [[world-economic-forum|World Economic Forum]]'s 14th annual Meeting of th
 
 [[badlands-media|Badlands Media]] writer [[ryan-delarme|Ryan DeLarme]] responded that CBDCs with expiration dates would force citizens to spend on the government's timetable and open the door to restrictions on what individuals may buy.[7] He compared digital currency to nuclear energy — not inherently harmful, but dangerous depending on its use — and observed that both the Canadian and Chinese governments had explored expiry dates, arguing that after the [[joe-biden|Biden]] administration's commitment to globalist initiatives and the forfeiture of freedoms during COVID, he was not convinced CBDCs would stay out of America's near future.[7]
 
+## The COVFEFE Dig
+
+"The COVFEFE Dig" (March 2023) closes with a warning that central bank digital currencies "are coming, whether we like it or not," and that they will give authoritarians complete control and surveillance over everything an individual does.[12] [[gmoney|GMONEY]] presents [[bitcoin|Bitcoin]] as the single available means of fighting back, arguing that money is the key and foundation of everything and that "if we lose the fight against the state monopoly of fiat money, we lose for the next 10,000 years."[12]
+
 ## References
 1. Badlands Brief — "Are CBDCs The Path To Fear, or Freedom?", URL: https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom
 2. Badlands Brief — "Are We Entering the Millennial Reign?", URL: https://badlands.substack.com/p/are-we-entering-the-millennial-reign
@@ -101,3 +105,18 @@ In "Project Trump Card," [[badlands-media|Badlands Media]] contributor [[kitty-g
 Against that framing she argued that the control such a system would grant "the cabal" over the world's population would be catastrophic: authorities could switch a person's currency on and off, cap their purchases, or restrict the geography in which money could be spent, destroying economic freedom worldwide.[11] Her proposed alternative was an asset-backed digital currency — gold- or silver-denominated — held in privately controlled [[digital-wallets|digital wallets]], which she believed had already been beta-tested with a small global group and would be secured by blockchain or quantum technology.[11] In this reading the [[trump-digital-trading-cards|Trump Digital Trading Cards]] served to normalize wallet ownership ahead of that transition, distinguishing the wallet technology itself from the CBDC model.[11]
 
 11. Badlands Brief — "Project Trump Card", URL: https://badlands.substack.com/p/project-trump-card
+12. Badlands Brief — "The COVFEFE Dig", URL: https://badlands.substack.com/p/the-covfefe-dig
+
+## A global CBDC platform and the congressional backlash (2023)
+
+At a conference in Morocco, [[kristalina-georgieva|Kristalina Georgieva]], managing director of the [[international-monetary-fund|International Monetary Fund]], announced that the IMF is "working hard on the concept of a global CBDC platform."[13] Badlands Media notes that the Davos crowd, along with other globalist institutions such as the [[united-nations|United Nations]] and the [[european-union|European Union]], has been calling for the elimination of paper money in favor of a cashless society in which every transaction can be tracked.[13]
+
+Explaining the basics, [[ryan-delarme|Ryan DeLarme]] defines a CBDC as a digital central bank liability, and a central bank as a nominally private institution that is not usually a direct facet of government yet controls a nation's currency, deciding how much of it to print and setting the interest rates that determine inflation or deflation — decisions that can transform the political economy overnight.[13] America's central bank, the [[federal-reserve|Federal Reserve]], was conceived on Jekyll Island in 1910.[13]
+
+In the United States, House Republicans warned that a CBDC could amount to an "authoritarian-style" and "surveillance-style" digital dollar, and introduced the [[cbdc-anti-surveillance-state-act|CBDC Anti-Surveillance State Act]] to restrict "unelected bureaucrats" from establishing and issuing one.[13] House Majority Whip [[tom-emmer|Tom Emmer]] said that "any digital version of the dollar must uphold our American values of privacy, individual sovereignty, and free-market competitiveness," warning that "anything less opens the door to the development of a dangerous surveillance tool."[13] Rep. [[warren-davidson|Warren Davidson]] argued that the Fed should focus on its dual mandate of price stability and maximum employment rather than "eradicating financial autonomy," adding that "a retail CBDC would essentially allow the government to mediate all transactions, which would mirror what we see in China."[13]
+
+### Are CBDCs inherently evil?
+
+DeLarme resists a purely condemnatory reading, suggesting that central banks themselves might not be the problem so much as how they have been used: "the medium of exchange isn't what causes the suffering; it's the rules of the game."[13] He cites fellow Badlands author [[joe-lang|Joe Lang]], who argues that CBDCs are an inevitable medium and that whether the world sees a [[great-reset|Great Reset]] or a [[great-awakening|Great Awakening]], some form of CBDC will likely become the global currency — an explanation, in Lang's view, for why [[donald-trump|Donald Trump]] has not openly bashed them.[13] [[gmoney|Gmoney]] of Rugpull Radio counters that the perfect coin already exists in [[bitcoin|Bitcoin]].[13] DeLarme concludes that he cannot say conclusively how CBDCs should be viewed, only that they could polarize very negatively if left unchecked.[13]
+
+13. Badlands Brief — "The Dystopia Will Be Televised", URL: https://badlands.substack.com/p/the-dystopia-will-be-televised

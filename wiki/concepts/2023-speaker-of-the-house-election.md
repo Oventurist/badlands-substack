@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [congress, gop, maga, speaker, mike-johnson]
-sources: [raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-254.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-c07.md, raw/badlands-news-brief-d73.md, raw/badlands-news-brief-e96.md, raw/badlands-news-brief-ff6.md, raw/right-the-ship.md, raw/the-chosen-one.md]
+sources: [raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-254.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-c07.md, raw/badlands-news-brief-d73.md, raw/badlands-news-brief-e96.md, raw/badlands-news-brief-ff6.md, raw/right-the-ship.md, raw/the-chosen-one.md, raw/the-overdrive-timeline.md]
 confidence: high
 ---
 
@@ -118,3 +118,9 @@ Lange interpreted Trump's repeated use of the words "GOOD" and "GREAT" in Truth 
 He argued that the vote was purposely delayed so that McCarthy's election came just after midnight on January 7 and in the fifteenth round, with "everyone" getting what they wanted.[13] In his reading the drama was used to expose how the House had been run under [[nancy-pelosi|Nancy Pelosi]] and, through negotiation — "the art of the deal" — to restructure House business and return power to rank-and-file members.[13] Lange concluded that "there is no doubt now that Trump was directing the whole play," consistent with his broader claim that Trump and the military exercise far more control over events than is publicly recognized.[13]
 
 13. Badlands Brief — "The Chosen One", URL: https://badlands.substack.com/p/the-chosen-one
+
+## Carlson: the fifteenth ballot as the start of "overdrive"
+
+Badlands Media contributor Erik Carlson wrote in March 2023 that the decisive moment of the contest was not [[kevin-mccarthy|Kevin McCarthy]]'s victory but his agreement on Saturday 7 January 2023 to the concessions that won him the gavel on the fifteenth round of voting.[14] He treated that date as the point at which events "went into overdrive," explicitly rejecting earlier candidate turning points such as [[elon-musk|Elon Musk]]'s Twitter bid, the Mar-a-Lago raid, the November 2022 midterms and the first release of the [[twitter-files|Twitter Files]].[14] Carlson also noted a [[qanon|Q]] post dated 1/7/18 containing "win" and "15" in brackets, leaving readers to interpret the correspondence with the fifteen-ballot outcome.[14] The substance of the agreement is catalogued in the [[january-2023-mccarthy-concessions|January 2023 McCarthy concessions]].[14]
+
+14. Badlands Brief — "The Overdrive Timeline", URL: https://badlands.substack.com/p/the-overdrive-timeline

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [judiciary, federal-courts, florida, trump]
-sources: [raw/badlands-brief-abf.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-365.md, raw/badlands-news-brief-6bc.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-855.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-ac7.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b40.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-ba8.md, raw/badlands-news-brief-bfe.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-d74.md]
+sources: [raw/badlands-brief-abf.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-365.md, raw/badlands-news-brief-6bc.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-855.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-ac7.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b40.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-ba8.md, raw/badlands-news-brief-bfe.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-d74.md, raw/the-fake-and-the-gaetz.md]
 confidence: medium
 ---
 
@@ -141,3 +141,9 @@ On 20 June 2023, Cannon set the first court date in [[donald-trump|Donald Trump]
 ## Injunction against the special counsel report (January 2025)
 
 On Tuesday, January 7, 2025, Cannon — the federal judge who oversaw the classified documents case against President-elect [[donald-trump|Donald Trump]] — issued an order temporarily blocking release of [[jack-smith|Jack Smith]]'s special counsel report on his investigation.[22] The injunction was to last until three days after the 11th U.S. Circuit Court of Appeals ruled on a pending request to block the report over a separate matter involving Trump co-defendants [[walt-nauta|Walt Nauta]] and [[carlos-de-oliveira|Carlos De Oliveira]], "unless the Eleventh Circuit orders otherwise."[22] Lawyers for Nauta and De Oliveira had filed their motion the previous night, citing Cannon's earlier ruling that Smith's appointment was unconstitutional.[22]
+
+## Appointments Clause ruling as precedent (November 2024)
+
+Cannon's ruling dismissing the classified-documents case on the ground that [[jack-smith|Jack Smith]] had never been confirmed by the [[united-states-senate|Senate]] became a central reference point in the November 2024 debate over whether [[matt-gaetz|Matt Gaetz]] could be named [[special-counsel|Special Counsel]].[23] Commentators cited her decision against the traditional view that a Special Counsel is an inferior officer appointable by the Attorney General alone, a classification supported by [[morrison-v-olson|Morrison v. Olson]] (1988).[23]
+
+23. Badlands Brief — "The Fake and the Gaetz", URL: https://badlands.substack.com/p/the-fake-and-the-gaetz

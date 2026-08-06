@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ned, cia, democracy-promotion, grantmaking]
-sources: [raw/a-more-perfect-labor-union.md, raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-747.md, raw/how-to-rent-a-riot-the-plausible.md, raw/how-to-rent-a-riot-the-history-of.md, raw/killing-the-peace.md, raw/oligarchism-and-the-great-game.md]
+sources: [raw/a-more-perfect-labor-union.md, raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-747.md, raw/how-to-rent-a-riot-the-plausible.md, raw/how-to-rent-a-riot-the-history-of.md, raw/killing-the-peace.md, raw/oligarchism-and-the-great-game.md, raw/the-information-imperium.md, raw/the-ongoing-betrayal-of-the-gop.md]
 confidence: medium
 ---
 
@@ -63,3 +63,34 @@ The National Endowment for Democracy made vast investments in "democracy buildin
 6. Badlands Media — "How to Rent a Riot - The History of 'Nonviolence'", URL: https://badlands.substack.com/p/how-to-rent-a-riot-the-history-of
 7. Badlands Brief — "Killing the Peace", URL: https://badlands.substack.com/p/killing-the-peace
 8. Badlands Brief — "Oligarchism and the Great Game", URL: https://badlands.substack.com/p/oligarchism-and-the-great-game
+
+## Origins as a CIA successor vehicle (Badlands analysis)
+
+Badlands Media's "The Information Imperium" describes the NED, founded in 1983 as a bipartisan congressionally funded nonprofit, as the institutional answer to the collapse of the CIA's covert propaganda capability after the [[church-committee|Church Committee]] investigations of the 1970s.[9] Founder [[allen-weinstein|Allen Weinstein]]'s 1991 remark to the Washington Post — "A lot of what we do today was done covertly 25 years ago by the CIA" — is cited as confirming that the endowment functions as a CIA grant-making cut-out supplying funding and cover for intelligence operations.[9] In this account the [[central-intelligence-agency|CIA]] provides strategic direction, the NED provides overt funding and ideological cover, and [[usaid|USAID]] contributes resources and legitimacy, together forming the foundation of what the article calls the information imperium.[9]
+
+## Grantees and reach
+
+By 2019 the NED was distributing roughly $300 million a year, channelled principally through four core grantees: the [[national-democratic-institute|National Democratic Institute]], the [[international-republican-institute|International Republican Institute]], the [[solidarity-center|Solidarity Center]] for organised labour, and the [[center-for-international-private-enterprise|Center for International Private Enterprise]] for business.[9] Beyond these it disburses grants across a wide web of NGOs, of which [[internews|Internews]] is described as a star player; Internews is barred by NED rules from operating domestically.[9] The article characterises this division of labour as the NDI and IRI herding the political parties, the Solidarity Center corralling workers, CIPE servicing business interests, and Internews managing the media narrative.[9]
+
+## DOGE cuts (2025)
+
+In February 2025 [[elon-musk|Elon Musk]]'s [[department-of-government-efficiency|Department of Government Efficiency]] slashed NED funding by blocking Treasury disbursements, gutting NDI and IRI staffing by roughly two-thirds and forcing furloughs.[9] Musk called the endowment "rife with corruption" and pushed for its dissolution, and the NED responded by suing the Trump administration over the withheld overseas aid.[9]
+
+9. Badlands Brief — "The Information Imperium", URL: https://badlands.substack.com/p/the-information-imperium
+10. Badlands Brief — "The Ongoing Betrayal of the GOP", URL: https://badlands.substack.com/p/the-ongoing-betrayal-of-the-gop
+
+## The 2026 appropriations fight and the GOP divide
+
+In August 2025 Badlands Media reported that Republicans on the [[house-appropriations-committee|House Appropriations Committee]] had voted out of session to renew full funding for the NED, describing it as one of the top organizations involved in sabotaging the first Trump administration and undermining the second.[10] The House GOP appropriations bill for fiscal year 2026 proposed allocating $315 million to the endowment, despite President [[donald-trump|Donald Trump]]'s earlier request that it receive $0.[10]
+
+In January 2025 the Trump administration used an executive order to freeze foreign-assistance funding, including $167 million in congressionally appropriated funds for the NED, causing a cash-flow crisis; the endowment sued the administration, alleging the freeze violated the [[impoundment-control-act|Impoundment Control Act]] of 1974.[10] By March 10, 2025, the [[state-department|State Department]] under Secretary [[marco-rubio|Marco Rubio]] had begun restoring access to the funds following legal pressure, and on August 11, 2025, federal judge [[dabney-friedrich|Dabney L. Friedrich]] granted a preliminary injunction ordering release of an additional $95 million, ruling the freeze had caused irreparable harm to the NED's global reputation and programs.[10] Rep. [[eli-crane|Eli Crane]] responded by introducing an amendment to defund the organization.[10]
+
+Critics including [[elon-musk|Elon Musk]] and the [[center-for-renewing-america|Center for Renewing America]] have called the NED a "partisan political weapon" or "scam," while supporters such as Rubio and former board member [[elise-stefanik|Elise Stefanik]] argue its work counters authoritarian regimes and serves U.S. interests.[10] The article frames the restoration of funding over Trump's objection as evidence of a divide between traditional Republicans and Trump-aligned populists — specifically the [[john-mccain|John McCain]] wing of the party, McCain having run the NED's Republican arm, the [[international-republican-institute|International Republican Institute]], for 25 years.[10] Chamber-of-Commerce Republicans drawn into the IRI and [[center-for-international-private-enterprise|CIPE]] web are said to rely on the endowment's heavy hand to open markets, secure favorable foreign legislation, harvest natural resources and win contracts.[10]
+
+## Anti-Trump posture of NED figures
+
+The same coverage argues the NED became increasingly partisan after 2016, citing former president [[carl-gershman|Carl Gershman]]'s claim that Trump collaborated with Vladimir Putin, board member [[anne-applebaum|Anne Applebaum]]'s comparisons of Trump to Hitler, Stalin and Mussolini, and advisor [[robert-kagan|Robert Kagan]]'s description of a Trump dictatorship as "increasingly inevitable."[10] Advisors [[larry-diamond|Larry Diamond]] and Rachel Kleinfeld, together with scholars Steven Levitsky and Lucan Way — who called the GOP an "extremist, antidemocratic force" in 2022 — are cited in the same pattern.[10]
+
+## Path to reform
+
+Badlands contributor Ryan DeLarme argues that soft-power projection remains necessary and that the NED, [[usaid|USAID]] and their satellite NGOs should be reformed rather than abolished — gutted, run in good faith, and periodically exposed to public scrutiny to ensure they neither interfere with democratic processes abroad nor turn their powers inward against Americans.[10] He points to [[darren-beattie|Darren Beattie]]'s appointment atop the [[united-states-institute-of-peace|United States Institute of Peace]] as a model for installing an NED critic to lead its reformation.[10]

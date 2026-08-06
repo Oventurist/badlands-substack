@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [consciousness, education, propaganda, fifth-generation-warfare, badlands-media]
-sources: [raw/hijacked-consciousness-the-hijacking.md]
+sources: [raw/hijacked-consciousness-the-hijacking.md, raw/the-harvard-control-grid.md]
 confidence: medium
 ---
 
@@ -32,5 +32,10 @@ The grid is said to have taken shape across decades: [[operation-paperclip|Opera
 
 The essay argues that the grid's enforcement is delegated to credentialed professionals — the psychologist who calls trauma a disorder, the journalist who calls the facts settled, the doctor who calls the body broken, the economist who reduces it to numbers, the professor who warns that questioning consensus is dangerous — "none of them evil, but none of them free."[1] Its vocabulary is likewise sanitized: censorship becomes "trusted flagging partners," psychological manipulation becomes "nudge theory," and narrative warfare becomes "fact-checking journalism."[1] The stated result is not merely compliance but disorientation, sustained less by censorship than by saturation: flooding the channel, fracturing attention, and "collapsing everything into sameness, and calling it choice."[1]
 
+## The Harvard control grid
+
+A companion Badlands Media essay, "The Harvard Control Grid" (May 22, 2025), applies the same metaphor specifically to [[harvard-university|Harvard]], calling the university "a control terminal" and "a switchboard" rather than a school.[2] There the grid's material core is the [[harvard-management-company|Harvard Management Company]], a $50-plus billion endowment vehicle whose board is said to link [[blackstone|Blackstone]], the [[rothschild-family|Rothschilds]], [[david-rockefeller|Rockefeller]] philanthropy, [[goldman-sachs|Goldman Sachs]], the [[council-on-foreign-relations|CFR]], the [[world-economic-forum|WEF]] and the [[ford-foundation|Ford Foundation]].[2] The article summarizes the machinery in three steps — "Harvard capital funds the front. Think tanks provide the script. Intel-linked foundations and partners handle coordination and enforcement" — and argues that the grid is now collapsing under legal and financial pressure.[2]
+
 ## References
 1. Badlands Brief — "Hijacked Consciousness - The Hijacking", URL: https://badlands.substack.com/p/hijacked-consciousness-the-hijacking
+2. Badlands Brief — "The Harvard Control Grid", URL: https://badlands.substack.com/p/the-harvard-control-grid

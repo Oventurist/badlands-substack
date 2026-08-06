@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [pandemic, comms, 1917, communism]
-sources: [raw/a-virus-or-a-metaphor.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/the-decade-we-all-became-slaves.md]
 confidence: low
 ---
 
@@ -22,5 +22,10 @@ Carlson notes that, like Covid, the Spanish Flu was sold to the public as a dead
 
 Carlson concludes that these comms are Trump letting the public know what is really happening in America: that Communism, a virus, is spreading throughout the country with the sole intent of dividing and destroying it.[[1]](https://badlands.substack.com/p/a-virus-or-a-metaphor)
 
+## Pandemic fear as a control mechanism
+
+Badlands Media commentary dates the Spanish Flu to 1917 and describes it as having created an opportunity to control populations through fear of pandemics — a pattern the author says was seen firsthand with COVID.[2] After the Spanish Flu died off, the article states, [[john-d-rockefeller|Rockefeller]]-run [[big-pharma|Big Pharma]] companies rolled out their vaccines and claimed they were the reason the outbreak ended.[2] The episode is listed among the 1910s developments the author groups under the heading of mass enslavement.[2]
+
 ## References
 1. Badlands Brief — "A Virus, or a Metaphor?", URL: https://badlands.substack.com/p/a-virus-or-a-metaphor
+2. Badlands Brief — "The Decade We All Became Slaves", URL: https://badlands.substack.com/p/the-decade-we-all-became-slaves

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [public-health, biosecurity, federal-agency, badlands-brief]
-sources: [raw/badlands-brief-2c0.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-409.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-efd.md, raw/biden-inc-flips.md]
+sources: [raw/badlands-brief-2c0.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-409.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-efd.md, raw/biden-inc-flips.md, raw/the-ivy-web.md]
 confidence: medium
 ---
 
@@ -64,3 +64,9 @@ A December 2024 Badlands feature alleged that Ukrainian laboratories conducting 
 6. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9
 7. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd
 8. Badlands Brief — "Biden, Inc. Flips", URL: https://badlands.substack.com/p/biden-inc-flips
+
+## Grants in the Lieber case
+
+Badlands Media's "The Ivy Web" notes that [[charles-lieber|Charles Lieber]] held NIH and Department of Defense research grants totaling more than $15 million during the same period in which he was secretly receiving roughly $50,000 per month from the [[wuhan-university-of-technology|Wuhan University of Technology]] and over $1.5 million to establish a laboratory in China.[9] The article presents this overlap of federal funding and concealed Chinese compensation as the core of the national security breach at [[harvard-university|Harvard University]].[9]
+
+9. Badlands Brief — "The Ivy Web", URL: https://badlands.substack.com/p/the-ivy-web

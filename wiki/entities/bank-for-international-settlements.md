@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [central-banking, bis, monetary-policy, crypto]
-sources: [raw/badlands-news-brief-6b6.md, raw/real-patriots-dont-think-like-hitler-196.md]
+sources: [raw/badlands-news-brief-6b6.md, raw/real-patriots-dont-think-like-hitler-196.md, raw/the-enduring-legacy-of-the-entente.md, raw/the-midas-touch.md]
 confidence: medium
 ---
 
@@ -34,3 +34,16 @@ The founding members of the Board included the private central banks of Britain,
 
 1. Badlands Brief — "Badlands News Brief: The Wheels of Justice Roll On", URL: https://badlands.substack.com/p/badlands-news-brief-6b6
 2. Badlands Brief — "Real Patriots Don't Think Like Hitler – Part 2: How Western Bankers Created the Nazis", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-196
+
+## Role in the 1933 London Economic Conference
+
+[[matthew-ehret|Matthew Ehret]] writes that the BIS was set up as "the Central Bank of Central Banks" in 1930 to facilitate First World War debt repayments and became a vital instrument for funding Nazi Germany long after the Second World War began.[3] Together with the [[bank-of-england|Bank of England]], it guided the [[league-of-nations|League of Nations]]-organized [[london-economic-conference|London Economic Conference]] of 1933, whose Monetary Committee resolved that independent central banks should be created in developed countries lacking them, and that the BIS "should play an increasingly important part not only by improving contact, but also as an instrument for common action."[3] The aim, in Ehret's reading, was to deprive nation states of the power to generate and direct credit for their own development.[3]
+
+3. Badlands Brief — "The Enduring Legacy of the Entente Cordiale", URL: https://badlands.substack.com/p/the-enduring-legacy-of-the-entente
+4. Badlands Brief — "The Midas Touch", URL: https://badlands.substack.com/p/the-midas-touch
+
+## Gold's reclassification as a tier 1 asset (2019)
+
+Badlands Media describes the BIS — "the central bank for central banks" — as the apex of a financial system it characterizes as entirely centralized and controlled.[4] The Basel Committee on Banking Standards, which makes the rules for the global financial debt system, moved gold from a tier 3 asset to a tier 1 asset in 2019, effectively making it equal to money.[4] Commentary cited in the article notes that gold's previous 50% risk weighting was eliminated, putting it on the same playing level as the U.S. dollar and other currencies and encouraging central banks, financial institutions and investors to add gold as a hedge.[4]
+
+Contributor [[joe-lange|Joe Lange]] argues that although [[central-bank-gold-buying|central bank gold buying]] began in earnest after the 2008 crisis, the 2019 BIS decision triggered record purchases worldwide, signaling that even the institutions running the [[fiat-currency|fiat currency]] system expect a global monetary reset and a collapse in the value of paper money.[4]

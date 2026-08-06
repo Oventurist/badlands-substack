@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [author, imf, world-bank, globalization]
-sources: [raw/real-patriots-dont-think-like-hitler-196.md]
+sources: [raw/real-patriots-dont-think-like-hitler-196.md, raw/the-economy-weaponized.md]
 confidence: medium
 ---
 
@@ -14,5 +14,10 @@ John Perkins is the author of the 2004 book *Confessions of an Economic Hit Man*
 
 In the decades after the Second World War, the same financiers who had brought the world fascism went back to work inside [[franklin-d-roosevelt|FDR]]'s Bretton Woods institutions — the [[international-monetary-fund|IMF]] and the [[world-bank|World Bank]] — turning them from tools of development into tools of enslavement, a process Perkins documented in detail.[1] Perkins also identified [[george-shultz|George Shultz]] as the chief economic hit man behind the 1971 removal of the dollar from the gold-reserve system.[1]
 
+## Citation in Badlands commentary
+
+In the April 27, 2023 [[badlands-media|Badlands Media]] essay "The Economy: Weaponized," [[justin-deschamps|Justin Deschamps]] cited Perkins and *[[confessions-of-an-economic-hit-man|Confessions of an Economic Hit Man]]* as confirmation that conquest and colonialism in the modern era are carried out through finance.[2] Deschamps invoked Perkins at the close of a seven-stage account of how bankers convert sovereign nations into dependencies through unpayable [[international-monetary-fund|IMF]] loans, collateralized land and resource rights, forced austerity and eventual totalitarian rule — a method he said had been applied to dozens of nations since its development in the late 19th century.[2]
+
 ## References
 1. Badlands Brief — "Real Patriots Don't Think Like Hitler – Part 2: How Western Bankers Created the Nazis", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-196
+2. Badlands Brief — "The Economy: Weaponized", URL: https://badlands.substack.com/p/the-economy-weaponized

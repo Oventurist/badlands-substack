@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [nord-stream, sabotage, russia, china, energy, geopolitics]
-sources: [raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-420.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-754.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-ac8.md, raw/badlands-news-brief-b53.md, raw/badlands-news-brief-b9c.md, raw/the-cia-is-being-thrown-under-the.md]
+sources: [raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-420.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-754.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-ac8.md, raw/badlands-news-brief-b53.md, raw/badlands-news-brief-b9c.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-overdrive-timeline.md]
 confidence: medium
 ---
 
@@ -136,3 +136,9 @@ Erik Carlson's "The CIA is Being Thrown Under the Bus" treats the sabotage as th
 Carlson asked whether that sequence was coincidental and whether NATO was becoming the Cabal's new preferred mechanism of world control in place of the agency.[15] He also cited [[vladimir-putin|Vladimir Putin]]'s interview with [[tucker-carlson|Tucker Carlson]], in which Putin accused the CIA of exactly the practices attributed to it — blowing up underwater pipelines, running color revolutions and carrying out assassinations.[15]
 
 15. Badlands Brief — "The CIA is Being Thrown Under the Bus", URL: https://badlands.substack.com/p/the-cia-is-being-thrown-under-the
+
+## Carlson's March 2023 account
+
+In "The Overdrive Timeline," Erik Carlson wrote that evidence had emerged supporting the involvement of [[joe-biden|Joe Biden]] and the [[central-intelligence-agency|CIA]] in the sabotage of up to three of the four Nord Stream pipelines carrying natural gas from Russia to Germany.[16] He framed the operation as an environmental hypocrisy, contrasting official campaigns against cow flatulence and gas stoves with the destruction of gas pipelines and a series of toxic train derailments, and argued that those who claim to care about the environment would tolerate "the next Chernobyl or Exxon Valdez" if it advanced their agenda.[16] Carlson placed the disclosures among the cascade of events that followed the [[january-2023-mccarthy-concessions|January 2023 McCarthy concessions]].[16]
+
+16. Badlands Brief — "The Overdrive Timeline", URL: https://badlands.substack.com/p/the-overdrive-timeline

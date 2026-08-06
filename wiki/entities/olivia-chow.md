@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [canada, toronto, municipal-government, taxation]
-sources: [raw/badlands-news-brief-491.md]
+sources: [raw/badlands-news-brief-491.md, raw/the-hybridization-of-asymmetric-and.md]
 confidence: medium
 ---
 
@@ -22,6 +22,11 @@ Badlands Media writer [[simon-esler|Simon Esler]] argued that while conservative
 
 Esler further noted that the city's justification leaned on billion-dollar waterway projects as a pretext for the tax, and that private landowners would be charged using drone footage obtained by the city in combination with the property's water usage — a mechanism he characterized as dystopian.[1] He observed that similar rain-based taxation schemes already operate in other Canadian cities as well as Philadelphia and Seattle, and warned that such programs function as latent instruments for climate-change narratives that raise private utility bills according to the weather.[1]
 
+## Minority mandate as asymmetric warfare
+
+Badlands contributor [[justin-deschamps|Justin Deschamps]] cited Chow's election as mayor of Toronto with just 37% of the vote as a municipal microcosm of the national pattern under [[justin-trudeau|Justin Trudeau]], who formed government with roughly 33%.[2] He asked whether Canada's election system gives a minority of radicalized left-wing voters the ability to overrule the majority, and whether the arrangement is being maintained deliberately as an ongoing [[asymmetric-warfare|asymmetric]] political warfare operation.[2] The observation formed part of his broader argument that [[electoral-reform-in-canada|pending electoral reforms]] would deepen the imbalance rather than correct it.[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Dali, Diddy & DJT", URL: https://badlands.substack.com/p/badlands-news-brief-491
+2. Badlands Brief — "The Hybridization of Asymmetric & Political Warfare", URL: https://badlands.substack.com/p/the-hybridization-of-asymmetric-and

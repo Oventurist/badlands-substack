@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [deep-state, military, declassification, q-movement, badlands-media]
-sources: [raw/biden-inc-flips.md, raw/generational-dependence-syndrome.md, raw/on-golden-bridges-and-the-art-of.md, raw/q-for-dummies-chapter-14.md, raw/spear-of-justice.md, raw/structures-of-control-part-2.md, raw/signal-collapse.md, raw/super-computers-in-the-info-war.md, raw/structures-of-control-part-3.md]
+sources: [raw/biden-inc-flips.md, raw/generational-dependence-syndrome.md, raw/on-golden-bridges-and-the-art-of.md, raw/q-for-dummies-chapter-14.md, raw/spear-of-justice.md, raw/structures-of-control-part-2.md, raw/signal-collapse.md, raw/super-computers-in-the-info-war.md, raw/structures-of-control-part-3.md, raw/the-deep-state-needs-trump-to-win.md, raw/the-harvard-control-grid.md]
 confidence: low
 ---
 
@@ -47,6 +47,10 @@ An August 2025 Badlands Media essay argued that Texas Attorney General [[ken-pax
 Part 3 of Badlands Media's *Structures of Control* series describes the White Hats as having "embraced the strategies of quantum consciousness, turning the Deep State's tools against them," waging [[fifth-generation-warfare|Fifth Generation Warfare]] in the cognitive, moral and social domains so that every revelation and synchronized action becomes a strategic strike against the control system.[9] Their signature method is force multiplication through truth: a gradual, orchestrated release of information intended to ignite critical thinking and discernment on a mass scale, with collective consciousness acting as an amplifier.[9]
 
 The essay casts them as "frequency architects" operating in what it calls Tier 2 consciousness spanning the sixth through ninth dimensions, where the aim shifts from controlling perception to manifesting reality (see [[authentic-5d|authentic 5D]]).[9] Their sixth-dimensional strategy is said to rest on decentralized empowerment through grassroots movements, blockchain systems and independent media; holonic integration, in which each awakened individual reinforces the collective; and higher frequencies of love and sovereignty said to dissolve fear-based structures.[9] The article concludes that "the White Hat plan is not just strategic; it is Biblical," likening the effort to David's refusal to fight Goliath on his own terms (see [[david-and-goliath-allegory|David and Goliath allegory]]).[9]
+
+## Harvard and the asset managers
+
+"The Harvard Control Grid" attributes Harvard's institutional decline to White Hat action, stating that the university's endowment was "targeted by White Hats" and that once they "flipped [[blackrock|BlackRock]], [[vanguard-group|Vanguard]], and [[state-street|State Street]], the funding arteries that kept Harvard's control grid alive began to hemorrhage."[11] The article reads [[larry-fink|Larry Fink]]'s ESG retreat, [[claudine-gay|Claudine Gay]]'s resignation and the sale of roughly $1 billion in Harvard private equity as consequences of that pressure, executed through legal instruments including [[executive-order-13818|EO 13818]] and [[executive-order-13848|EO 13848]].[11]
 
 ## References
 1. Badlands Brief — "Biden, Inc. Flips", URL: https://badlands.substack.com/p/biden-inc-flips
@@ -100,3 +104,12 @@ He further suspected the white hats are not only dripping information to the pub
 
 8. Badlands Brief — "Super Computers in the Info War", URL: https://badlands.substack.com/p/super-computers-in-the-info-war
 9. Badlands Brief — "Structures of Control - Part 3", URL: https://badlands.substack.com/p/structures-of-control-part-3
+
+## Deal-making with defecting insiders (Carlson, April 2024)
+
+In "The Deep State Needs Trump to Win" (April 15, 2024), [[erik-carlson|Erik Carlson]] framed the White Hats as the counterparty to whom cornered [[deep-state|Deep State]] figures would turn as their system broke down.[10] Describing the network's position as a game of musical chairs with more players than seats, he asked who would begin to jockey for position, who would cut a deal, and who would work with the Trump administration to avoid the electric chair.[10]
+
+Carlson wrote that he had begun to wonder not only what a wounded and cornered Deep State might do on its way out the door, but "who will work with the White Hats, and who is already working with them."[10] He linked that cooperation to the possible diversion of [[false-flag-operation|false flag]] events, and concluded that deals have been made and will continue to be made — a necessity meaning not everyone will receive the punishment the public believes they deserve.[10]
+
+10. Badlands Brief — "The Deep State Needs Trump to Win", URL: https://badlands.substack.com/p/the-deep-state-needs-trump-to-win
+11. Badlands Brief — "The Harvard Control Grid", URL: https://badlands.substack.com/p/the-harvard-control-grid

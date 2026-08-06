@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [technology, digital-assets, blockchain, stablecoin, tokenization]
-sources: [raw/badlands-news-brief-545.md, raw/red-dawn-iii.md]
+sources: [raw/badlands-news-brief-545.md, raw/red-dawn-iii.md, raw/the-inversion-of-health.md]
 confidence: high
 ---
 
@@ -27,3 +27,9 @@ Badlands commentary treated the announcement as confirmation that "nothing can s
 ## Cognos Analytics in defense contracting
 
 An October 2023 [[badlands-media|Badlands Media]] investigation into the Department of Defense delivery order [[red-dawn-iii|Red Dawn III]] argued that the award's parent program, [[cognition-cognos-support|Cognition Cognos Support]], refers to IBM's [[ibm-cognos-analytics|Cognos Analytics]] business-intelligence product.[2] IBM markets the platform as AI-powered software whose natural-language assistant builds visualisations, forecasts future conditions and predicts and explains outcomes.[2] On that reading, the [[department-of-defense|Department of Defense]] was applying IBM artificial-intelligence tooling to basic research on defense-system electronics and communication equipment.[2]
+
+## Punch card machines and the Holocaust
+
+In "The Inversion of Health," [[ryan-delarme|Ryan DeLarme]] reports that in 1928 some of the first computers were put to use in the [[eugenics]] field, with IBM founder [[thomas-watson|Thomas Watson]] supplying punch card computers to [[adolf-hitler|Hitler]] and the Nazis for use in the death camps, where inmates were tattooed with human ID numbers.[3] He directs readers to the book *IBM and the Holocaust* for the fuller account.[3]
+
+3. Badlands Brief — "The Inversion of Health", URL: https://badlands.substack.com/p/the-inversion-of-health

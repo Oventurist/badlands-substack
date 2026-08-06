@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [gaza, diplomacy, board-of-peace, middle-east]
-sources: [raw/badlands-brief-9eb.md]
+sources: [raw/badlands-brief-9eb.md, raw/the-master-builder.md]
 confidence: low
 ---
 
@@ -21,3 +21,9 @@ Details of the meeting's participants and outcomes were not fully disclosed in t
 ## References
 
 1. Badlands Brief — "Dems Demand a Post-Trump Strategy as Hamas Haggles for Peace", URL: https://badlands.substack.com/p/badlands-brief-9eb
+
+## On secrecy and the Abraham Accords (Lange, 2023)
+
+Badlands Media's "The Master Builder" (February 2, 2023) quotes Lightstone's Newsweek assessment of why the [[abraham-accords|Abraham Accords]] succeeded: there would be no public negotiations and no strategic leaks through the press, and the Accords would be announced only when they were completed.[2] Lightstone wrote that while the media speculated, fished and occasionally made things up, there were never any consequential leaks, let alone any that derailed the plans; everyone involved held a high-level security clearance, so discretion was mandatory, and the participants were pleased to maintain that discretion rather than backstab colleagues, hurt allies or damage the prospects for peace through selective leaking — a factor he believed crucial to success.[2] [[joe-lange|Joe Lange]] cites the passage as evidence that [[jared-kushner|Jared Kushner]] can deliver historic agreements entirely out of public view.[2]
+
+2. Badlands Media — "The Master Builder", URL: https://badlands.substack.com/p/the-master-builder

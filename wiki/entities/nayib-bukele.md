@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [el-salvador, latin-america, gangs, bitcoin]
-sources: [raw/badlands-news-brief-09e.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-782.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-a0b.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-adc.md, raw/badlands-news-brief-cf2.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-d04.md, raw/badlands-news-brief-df2.md, raw/obamas-legacy-to-destroy-america.md]
+sources: [raw/badlands-news-brief-09e.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-782.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-a0b.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-adc.md, raw/badlands-news-brief-cf2.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-d04.md, raw/badlands-news-brief-df2.md, raw/obamas-legacy-to-destroy-america.md, raw/the-danger-to-their-democracy.md]
 confidence: medium
 ---
 
@@ -134,3 +134,9 @@ In comments on [[tucker-carlson|Tucker Carlson]]'s program on X, quoted in an Oc
 Bukele framed the contrast through his own vantage point: "I mean, I'm from [[el-salvador|El Salvador]], a third-world country in Central America, and I myself see cities here and say I wouldn't live here," adding that it would have been unthinkable three decades earlier for a Salvadoran not to want to live in a major American city.[17] Badlands contributor [[erik-carlson|Erik Carlson]] used the remarks as the opening premise for his argument that America's decline is an engineered [[deep-state|Deep State]] project executed in part through [[mass-immigration-as-a-weapon|mass immigration]].[17]
 
 17. Badlands Brief — "Obama's Legacy to Destroy America", URL: https://badlands.substack.com/p/obamas-legacy-to-destroy-america
+
+## Comment on the Colorado ballot ruling (December 2023)
+
+Following the [[colorado-supreme-court|Colorado Supreme Court]]'s decision disqualifying [[donald-trump|Donald Trump]] from the state's Republican primary ballot, Bukele tweeted that "The United States has lost its ability to lecture any other country about 'democracy'."[18] [[badlands-media|Badlands Media]] contributor [[ryan-delarme|Ryan DeLarme]] quoted the remark approvingly in his January 1, 2024 essay, writing that Bukele "was correct" and citing the ruling as a disastrous precedent for American credibility abroad.[18]
+
+18. Badlands Brief — "The 'Danger to Their Democracy'", URL: https://badlands.substack.com/p/the-danger-to-their-democracy

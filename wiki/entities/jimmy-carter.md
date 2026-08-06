@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [president, democrat, obituary, nobel-peace-prize, georgia]
-sources: [raw/badlands-news-brief-08e.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-d36.md, raw/badlands-news-brief-dcb.md, raw/operation-cyclone-the-seeds-of-terror.md, raw/reagan-20.md]
+sources: [raw/badlands-news-brief-08e.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-d36.md, raw/badlands-news-brief-dcb.md, raw/operation-cyclone-the-seeds-of-terror.md, raw/reagan-20.md, raw/the-men-behind-the-curtain-part-2.md]
 confidence: high
 ---
 
@@ -38,6 +38,14 @@ Carter's administration launched [[operation-cyclone|Operation Cyclone]], the [[
 
 The Carter administration also secured a pledge from [[saudi-arabia|Saudi Arabia]] to match U.S. funding, routed through Pakistan's [[inter-services-intelligence|ISI]] before dispersal to the Afghan rebel groups.6 Badlands Media, citing the late author Jim Marrs, notes that Carter's administration was "so filled with members of the [[trilateral-commission|Trilateral Commission]] that conspiracy researchers had a field day."6
 
+## Trilateral Commission membership and the 1977 administration
+
+Badlands Media's "The Men Behind the Curtain – Part 2" reports that [[zbigniew-brzezinski|Zbigniew Brzezinski]] personally recruited Carter, then governor of Georgia, into the [[trilateral-commission|Trilateral Commission]] in 1973, and that Carter was listed among its North American founding members.[8] Once he won the presidency, the Commission became a subject of sustained mainstream debate.[8]
+
+The article characterizes Carter's administration as "so thoroughly infested with trilateralists that it could be seen as one of the Commission's greatest accomplishments."[8] The *Washington Post* noted in January 1977 that the president-elect, vice-president-elect Walter Mondale, and the incoming secretaries of State, Defense and Treasury — Cyrus Vance, Harold Brown and W. Michael Blumenthal — were all members, as was Brzezinski, Carter's national security advisor and a former Trilateral director.[8] Other Trilateralists in the administration included White House economic aide Henry Owen, Deputy Secretary of State Warren Christopher, Arms Control and Disarmament Agency director Paul Warnke, ambassadors Andrew Young, Gerard Smith, Richard Gardner and Elliot Richardson, undersecretaries [[richard-n-cooper|Richard Cooper]] and Lucy Benson, Undersecretary of the Treasury Anthony Solomon, Robert Bowie of the CIA, and Assistant Secretary of State Richard Holbrooke.[8]
+
+Carter also appointed [[samuel-p-huntington|Samuel P. Huntington]] coordinator of security planning on his National Security Council, where Huntington prepared Presidential Review Memorandum 32, leading to the 1979 executive order that created the [[fema|Federal Emergency Management Agency]]; and he named [[john-sawhill|John Sawhill]], author of a Trilateral energy report, deputy secretary of the Department of Energy.[8] His selection of banker [[paul-volcker|Paul Volcker]] — a former North American chairman of the Commission — to head the [[federal-reserve|Federal Reserve]] was, according to the article, made on instructions from [[david-rockefeller|David Rockefeller]].[8] [[ronald-reagan|Ronald Reagan]] campaigned in 1980 against the nineteen Trilaterals in Carter's administration, Carter himself included, and vowed to investigate the group if elected.[8]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: A President's Passing & A Prime Minister's Prostate", URL: https://badlands.substack.com/p/badlands-news-brief-08e
@@ -63,3 +71,4 @@ Trump's public statement on the death was read by [[burning-bright|Burning Brigh
 A February 2025 Badlands feature by [[erik-carlson|Erik Carlson]] noted that [[ronald-reagan|Ronald Reagan]] refused to fund the [[department-of-education|US Department of Education]] newly created under Carter.[7] Carlson also recalled that when Reagan campaigned for the presidency Iran was holding 52 American hostages, and that they were released once Reagan became president.[7]
 
 7. Badlands Brief — "Reagan 2.0", URL: https://badlands.substack.com/p/reagan-20
+8. Badlands Brief — "The Men Behind the Curtain - Part 2", URL: https://badlands.substack.com/p/the-men-behind-the-curtain-part-2

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [healthcare, abortion, litigation, womens-health]
-sources: [raw/badlands-news-brief-27c.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-f1d.md, raw/gender-ideology-has-become-law.md, raw/the-accomplishments-of-president.md]
+sources: [raw/badlands-news-brief-27c.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-f1d.md, raw/gender-ideology-has-become-law.md, raw/the-accomplishments-of-president.md, raw/the-decade-we-all-became-slaves.md, raw/the-inversion-of-health.md]
 confidence: medium
 ---
 
@@ -31,6 +31,10 @@ In October 2025 Texas Attorney General [[ken-paxton|Ken Paxton]] announced arres
 
 A 2023 Badlands Media article cited an April 2017 measure signed by [[donald-trump|President Donald Trump]] that reduced federal funding for abortion providers nationwide as evidence of his pro-life record, alongside his [[supreme-court-of-the-united-states|Supreme Court]] appointments and their role in overturning [[roe-v-wade|Roe v. Wade]].[5]
 
+## 1916 founding in the Badlands account
+
+Badlands Media commentary states that 1916 gave America Planned Parenthood, started by a group of racists seeking to control the population and eliminate the gene pool of groups they viewed as inferior.[6] It asserts that clinics were set up mostly in Black neighborhoods in an attempt to reduce or eliminate Black people from American society, and the author offers the opinion that legal abortion became the greatest Satanic child sacrifice system the world has ever known.[6] The founding is counted among the institutional developments of the 1910s that the article calls the decade Americans became slaves.[6]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Abercreepy Elites Versus Sovereign Alliance Alpha Chads", URL: https://badlands.substack.com/p/badlands-news-brief-27c
 2. Badlands Brief — "Decision Day, Disarming Deals & A Double Deportation", URL: https://badlands.substack.com/p/badlands-news-brief-32c
@@ -41,3 +45,12 @@ A 2023 Badlands Media article cited an April 2017 measure signed by [[donald-tru
 
 A February 2024 Badlands Media essay by [[justin-deschamps|Justin Deschamps]] cited Planned Parenthood as the clearest American illustration of [[wpath|WPATH]]'s influence, stating that the organization permits young girls who self-diagnose as having [[gender-dysphoria|gender dysphoria]] same-day access to testosterone without a prescription or permission from their parents.[4] The essay treats this as an example of [[gender-affirming-care|gender affirmative care]] displacing [[parental-rights|parental rights]] in the United States.[4]
 5. Badlands Brief — "The Accomplishments of President Trump - Part 1", URL: https://badlands.substack.com/p/the-accomplishments-of-president
+6. Badlands Brief — "The Decade We All Became Slaves", URL: https://badlands.substack.com/p/the-decade-we-all-became-slaves
+
+## Origins and Rockefeller funding
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] traces Planned Parenthood to the [[american-birth-control-league|American Birth Control League]] founded by [[margaret-sanger|Margaret Sanger]], whose clinical birth control studies were financed by the Rockefeller-controlled [[bureau-of-social-hygiene|Bureau of Social Hygiene]].[7] He notes Sanger's advocacy of limiting "dysgenic stocks" and "slum dwellers."[7]
+
+The organization remained funded by the [[rockefeller-foundation|Rockefeller Foundation]] into the late 1960s.[7] In 1969 its national medical director, Dr. [[richard-day|Richard Day]], told a Pittsburgh gathering of pediatric physicians attended by Dr. [[lawrence-dunegan|Lawrence Dunegan]] that hard-to-cure diseases would be created in the future and that cures for nearly all cancers had already been developed but were being hidden at the [[rockefeller-institute|Rockefeller Institute]] so that populations would not increase.[7]
+
+7. Badlands Brief — "The Inversion of Health", URL: https://badlands.substack.com/p/the-inversion-of-health

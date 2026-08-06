@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, blackrock, davos, artificial-intelligence]
-sources: [raw/badlands-brief-a20.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-f4c.md, raw/blackrock-inc-and-the-vanguard-group.md, raw/get-woke-go-broke.md, raw/no-honor-among-thieves.md]
+sources: [raw/badlands-brief-a20.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-f4c.md, raw/blackrock-inc-and-the-vanguard-group.md, raw/get-woke-go-broke.md, raw/no-honor-among-thieves.md, raw/the-harvard-control-grid.md, raw/the-ivy-dominion.md]
 confidence: medium
 ---
 
@@ -53,6 +53,10 @@ The profile cites Fink's op-ed in _The New York Times_ arguing that "rich countr
 
 The confusing element, in Carlson's telling, was that when [[donald-trump|Donald Trump]] was president and reportedly merged the [[federal-reserve|Federal Reserve]] into the [[us-department-of-the-treasury|US Treasury]], Trump appointed Fink and BlackRock to administer the merger.[7] Carlson posed the resulting questions without answering them: whether Fink had become a "grey hat," whether he was a black hat now working with white hats, and whether he was being compelled to act against his own and the cabal's interests.[7] As of writing, Carlson judged that Fink still appeared to be pushing the ESG agenda, while noting the irony that Fink was simultaneously taking heat for insufficient wokeness — since, in Carlson's view, the woke standard can never be satisfied and is continually ratcheted upward.[7]
 
+## Harvard control grid narrative
+
+"The Harvard Control Grid" cites Fink's retreat from ESG and DEI as one marker of a broader shift, arguing that once [[white-hats|White Hats]] "flipped" [[blackrock|BlackRock]], the [[vanguard-group|Vanguard Group]] and [[state-street|State Street]], the funding arteries sustaining Harvard's control grid began to hemorrhage.[9] The article contends that such rebranding by financiers "doesn't mean remorse" but that "they're being forced to comply with a new framework."[9]
+
 ## References
 
 1. Badlands Brief — "Prosecutions for Democracy & Double-Hatted Peace Panelists", URL: https://badlands.substack.com/p/badlands-brief-a20
@@ -68,3 +72,10 @@ The confusing element, in Carlson's telling, was that when [[donald-trump|Donald
 In a May 2024 essay, Badlands contributor [[erik-carlson|Erik Carlson]] restated his earlier argument that Fink, as chief executive of [[blackrock|BlackRock]], the world’s largest asset manager, devised the [[diversity-equity-and-inclusion|DEI]] master plan — or is at minimum the muscle that enforces it.[8] Carlson described American companies as caught between a rock and a hard place: refusing the DEI overlords meant exclusion from the investment portfolios of BlackRock, [[vanguard-group|Vanguard]] and [[state-street|State Street]], while complying risked permanently alienating their customer base.[8]
 
 8. Badlands Brief — "No Honor Among Thieves", URL: https://badlands.substack.com/p/no-honor-among-thieves
+9. Badlands Brief — "The Harvard Control Grid", URL: https://badlands.substack.com/p/the-harvard-control-grid
+
+## Cited in the Ivy Dominion essay
+
+The June 2025 essay "The Ivy Dominion" cites Fink's "deep association with Wharton and Penn alumni" as evidence that academic grooming at the [[wharton-school|Wharton School]] and the [[university-of-pennsylvania|University of Pennsylvania]] "leads to economic enforcement - not by accident, but by design."[10] It describes Wharton and the fraternity [[zeta-psi|Zeta Psi]] as staging grounds for [[blackrock|BlackRock]]-trained executives later embedded in ESG compliance, central bank digital currency strategy and [[world-economic-forum|World Economic Forum]] think tanks.[10] The article also reports that Wharton's association with Fink and ESG enforcement came under attack from within its own alumni base, with donors issuing ultimatums to abandon the ideology or forfeit legacy capital.[10]
+
+10. Badlands Brief — "The Ivy Dominion", URL: https://badlands.substack.com/p/the-ivy-dominion

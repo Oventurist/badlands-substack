@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, host, bitcoin, central-banking]
-sources: [raw/badlands-media-show-schedule-c28.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-d1d.md, raw/kekistani-code-talkers.md, raw/one-of-the-most-transformative-moments.md]
+sources: [raw/badlands-media-show-schedule-c28.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-d1d.md, raw/kekistani-code-talkers.md, raw/one-of-the-most-transformative-moments.md, raw/the-covfefe-dig.md, raw/the-dystopia-will-be-televised.md]
 confidence: medium
 ---
 
@@ -51,6 +51,13 @@ In a May 2023 Badlands Media feature on digital assets, GMoney framed the shift 
 
 GMONEY is credited as co-author, with Patriots in Progress, of a body of published background research underpinning the [[covfefe|Covfefe]] thesis, including the COVFEFE Dig and the COVFEFE 2.0 Dig.[9] In the Covfefe dig, GMONEY uses the [[a1z26-cipher|A1Z26 cipher]] as the decode methodology to unlock what the authors call the deep meaning of Covfefe, producing the number sequence 3, 15, 22, 6, 5, 6, 5, which is then linked to 3/15 (the Ides of March), 11/11 as the 315th day of the year, the fall of Rome, and the present situation.[9] The pair present their case across those digs, roughly seventy-five episodes of [[rugpull-radio|Rugpull Radio]], and other posts across their channels.[9]
 
+## The COVFEFE Dig (March 2023)
+
+GMONEY is the author of "The COVFEFE Dig," published by Badlands Media on 15 March 2023 under the heading "Death of the Petrodollar."[11] Framed as an open-source intelligence dig, the article argues that [[donald-trump|Donald Trump]]'s 31 May 2017 [[covfefe|covfefe]] Tweet was not a typo but a signal, and that understanding it requires simultaneously grasping five elements: Trump, [[qanon|Q]], [[john-f-kennedy|JFK]] and [[executive-order-11110|Executive Order 11110]], [[pepe-the-frog|Pepe]], and [[bitcoin|Bitcoin]].[11]
+
+The method is explicitly numerological: an A=1 letter substitution yields 3-15-22-6-5-6-5, and any recurrence of the digits 3, 1 and 5 — or of 11/11, the 315th day of the year — is treated as a hit.[11] GMONEY assembles [[andrew-jackson|Andrew Jackson]]'s 3/15 birthday, the [[ides-of-march|Ides of March]] debt deadline, [[devin-nunes|Devin Nunes]]'s 3/15/22 #COVFEFE post, the 9/9/2016 minting of [[rarepepe|RAREPEPE]], and the [[rare-pepe-directory|Rare Pepe Directory]]'s GAMESOFTRUMP card into a single pattern.[11]
+
+Writing in a conversational voice that repeatedly stages objections from a sceptical reader addressing him as "GMONEY," he argues that the [[federal-reserve|Federal Reserve]] and [[us-department-of-the-treasury|Treasury]] were effectively merged during the 2020 COVID interventions, completing what Kennedy attempted and [[ronald-reagan|Reagan]] reversed.[11] He concludes that central bank digital currencies are coming regardless of public consent, that Bitcoin is the only available defence against them, and that "if we lose the fight against the state monopoly of fiat money, we lose for the next 10,000 years."[11] He notes he has covered the Bitcoin thesis at length in a sourced article and on an episode of [[rugpull-radio|Rugpull Radio]], and invites feedback "even from the haters."[11]
 
 ## References
 1. Badlands Media — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-c28
@@ -63,3 +70,10 @@ GMONEY is credited as co-author, with Patriots in Progress, of a body of publish
 8. Badlands News Brief — "N-Words, F-Bombs, & Big Balls' Future", URL: https://badlands.substack.com/p/badlands-news-brief-d1d
 9. Badlands Brief — "Kekistani Code Talkers", URL: https://badlands.substack.com/p/kekistani-code-talkers
 10. Badlands Brief — "One of the Most Transformative Moments in Money Since Jekyll Island", URL: https://badlands.substack.com/p/one-of-the-most-transformative-moments
+11. Badlands Brief — "The COVFEFE Dig", URL: https://badlands.substack.com/p/the-covfefe-dig
+
+## On CBDCs and Bitcoin (2023)
+
+In "The Dystopia Will Be Televised," [[ryan-delarme|Ryan DeLarme]] noted that Gmoney of Rugpull Radio holds that "the perfect coin already exists," urging readers to look into his work and discover the merits of [[bitcoin|Bitcoin]].[12] The reference was offered as a counterpoint to [[joe-lang|Joe Lang]]'s argument that some form of [[central-bank-digital-currency|CBDC]] will inevitably become the global currency.[12]
+
+12. Badlands Brief — "The Dystopia Will Be Televised", URL: https://badlands.substack.com/p/the-dystopia-will-be-televised

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [federal-reserve, woodrow-wilson, history, banking]
-sources: [raw/going-off-the-federal-reservation.md, raw/real-patriots-dont-think-like-hitler-d42.md]
+sources: [raw/going-off-the-federal-reservation.md, raw/real-patriots-dont-think-like-hitler-d42.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-men-behind-the-curtain-part-1.md]
 confidence: medium
 ---
 
@@ -31,3 +31,21 @@ McFadden characterized the letter as striking evidence of how predatory interest
 House, described as President Wilson's handler, was a leading member of the [[sleepy-hollow-club|Sleepy Hollow Club]] alongside Senator [[nelson-aldrich|Nelson Aldrich]], both of whom [[matthew-ehret|Matthew Ehret]] credits with a key role in establishing the [[federal-reserve|Federal Reserve]] and the income tax in 1913.[2] House was also the subject of [[george-sylvester-viereck|George Sylvester Viereck]]'s 1932 bestseller The Strangest Friendship in History: Woodrow Wilson and Colonel House, which Ehret describes as possibly the first exposé of the "Jewish bankers conspiracy" behind the Federal Reserve and as the template for ninety years of American conspiracy research.[2]
 
 2. Badlands Brief — "Real Patriots Don't Think Like Hitler - Part 5: Nazi Fifth Columns in America", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-d42
+
+## Role in Carlson's account of restored British control (2024)
+
+In "The CIA is Being Thrown Under the Bus," Erik Carlson describes House as a British intelligence agent who groomed an unknown named [[woodrow-wilson|Woodrow Wilson]] into the Presidency of the United States, thereby restoring the [[british-cabal|British Cabal]]'s control after it had slipped during the decades between the American Civil War and the First World War.[3]
+
+Carlson treats this as the hinge event preceding the creation of the [[federal-reserve|Federal Reserve]] and American entry into both world wars — outcomes achieved through [[mi6|MI6]] and London think tanks before the [[office-of-strategic-services|OSS]] and [[central-intelligence-agency|CIA]] existed.[3]
+
+3. Badlands Brief — "The CIA is Being Thrown Under the Bus", URL: https://badlands.substack.com/p/the-cia-is-being-thrown-under-the
+
+## Founder of the Council on Foreign Relations
+
+Ryan DeLarme's "The Men Behind the Curtain - Part 1" credits House with originating the [[council-on-foreign-relations|Council on Foreign Relations]], describing him as [[woodrow-wilson|Woodrow Wilson]]'s confidential advisor who during the First World War assembled roughly 100 of the most prominent men in the country to plan the postwar world, a body that called itself [[the-inquiry|the Inquiry]].[4] These men helped draft Wilson's [[fourteen-points|Fourteen Points]], presented to Congress in January 1918, which the article characterizes as a globalist wish list calling for the removal of all economic barriers between nations, equality of trade conditions and a general association of nations.[4]
+
+House described himself as a Marxist socialist, though the article argues his conduct better reflected the more subversive Fabian socialism.[4] Several years before the war he had written the novel [[philip-dru-administrator|Philip Dru: Administrator]], reportedly given to Wilson to read on a trip to Bermuda, in which a clandestine effort in the United States establishes a central bank, a graduated income tax and control over both political parties — two and arguably all three of which were accomplished within two years of publication.[4]
+
+House attended the 1919 [[paris-peace-conference|Paris Peace Conference]] alongside Wilson, international bankers [[paul-warburg|Paul Warburg]] and [[bernard-baruch|Bernard Baruch]], and nearly two dozen members of the Inquiry.[4] After the U.S. Senate refused to ratify the covenant of the [[league-of-nations|League of Nations]], House met with British and American delegates at Paris's Majestic Hotel on May 30 and resolved to form an "Institute of International Affairs" with branches in both countries — the English branch becoming [[chatham-house|Chatham House]] and the American branch the Council on Foreign Relations, incorporated on July 21, 1921.[4] DeLarme frames this as a decision to pursue globalist aims behind the scenes once the public route had been blocked.[4]
+
+4. Badlands Brief — "The Men Behind the Curtain - Part 1", URL: https://badlands.substack.com/p/the-men-behind-the-curtain-part-1

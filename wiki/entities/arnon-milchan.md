@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [hollywood, mossad, israel, netanyahu, nuclear-proliferation]
-sources: [raw/badlands-news-brief-899.md, raw/badlands-news-brief-ea6.md]
+sources: [raw/badlands-news-brief-899.md, raw/badlands-news-brief-ea6.md, raw/the-maxwells-mossad-and-a-digital.md]
 confidence: low
 ---
 
@@ -37,3 +37,9 @@ This background is offered as the key to Milchan's conflict of interest, or moti
 ## References
 1. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
 2. Badlands Brief — "Badlands News Brief: Trump-a-Mania Rages On, Brother!", raw/badlands-news-brief-ea6.md
+
+## Krytron smuggling for Lekem
+
+Badlands Media's May 2024 feature on Israeli intelligence describes Milchan as a billionaire Hollywood producer and Israeli operative through whom [[lekem|Lekem]], the Israeli Bureau of Scientific Relations, smuggled over 800 krytron switches - a component used in nuclear weapons - to Israel without the required U.S. [[state-department|State Department]] Munitions Export License.[3] The episode is presented as one of the controversies that engulfed Lekem before its disbandment in 1986 following the arrest of [[jonathan-pollard|Jonathan Pollard]].[3]
+
+3. Badlands Brief - "The Maxwells, Mossad and a Digital Panopticon", URL: https://badlands.substack.com/p/the-maxwells-mossad-and-a-digital

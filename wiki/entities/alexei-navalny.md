@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, opposition, propaganda]
-sources: [raw/a-bright-red-line.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-ea1.md, raw/exploiting-the-dead.md]
+sources: [raw/a-bright-red-line.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-ea1.md, raw/exploiting-the-dead.md, raw/the-mystery-of-julian-assange.md]
 confidence: low
 ---
 
@@ -60,3 +60,9 @@ DeLarme framed the coverage as selective outrage, contrasting the saturation tre
 4. Badlands Brief — "Badlands News Brief: Sorosian Strings, Kayfabian Comms & the Woke House", URL: https://badlands.substack.com/p/badlands-news-brief-e5c
 5. Badlands Brief — "Badlands News Brief: An Astonishing Fani, Angry Truckers & a Russian Ruse", URL: https://badlands.substack.com/p/badlands-news-brief-ea1
 6. Badlands Media — "Exploiting the Dead", URL: https://badlands.substack.com/p/exploiting-the-dead
+
+## Invoked in the Assange debate (March 2024)
+
+In "The Mystery of Julian Assange," [[erik-carlson|Erik Carlson]] noted that [[stella-assange|Stella Assange]] likened her husband's case to Navalny's, the Russian opposition activist having died in prison while serving a three-decade sentence.[7] Carlson rejected the comparison and the official account of the death, writing that Navalny was imprisoned for planning a coup backed by Britain's [[mi6|MI6]] and died immediately after [[vladimir-putin|Putin]]'s two-hour interview with [[tucker-carlson|Tucker Carlson]] had presented the Russian president as a reasonable figure rather than a tyrant.[7] He argued the [[deep-state|Deep State]] had to kill Navalny and blame Putin precisely because that interview had gone so well, and questioned whether Stella Assange could genuinely be ignorant of this reading.[7]
+
+7. Badlands Brief — "The Mystery of Julian Assange", URL: https://badlands.substack.com/p/the-mystery-of-julian-assange

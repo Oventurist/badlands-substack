@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [congress, house-of-representatives, speakership, parliamentary-procedure, kevin-mccarthy]
-sources: [raw/badlands-news-brief-2a9.md]
+sources: [raw/badlands-news-brief-2a9.md, raw/the-overdrive-timeline.md]
 confidence: high
 ---
 
@@ -26,3 +26,9 @@ Badlands contributor [[ashe-in-america|Ashe in America]] argued that McCarthy ha
 
 ## References
 1. Badlands News Brief — "Congressional Kayfabe, Independent Dems & Fire Alarms", URL: https://badlands.substack.com/p/badlands-news-brief-2a9
+
+## Origin in the January 2023 concessions
+
+The single-member threshold arose directly from the [[january-2023-mccarthy-concessions|January 2023 McCarthy concessions]]: under the agreement any individual member could call for a motion to vacate the speaker's chair, where the prior rule had required five members to put forth such a vote.[2] Badlands Media contributor Erik Carlson listed this first among the concessions [[kevin-mccarthy|Kevin McCarthy]] granted to the [[house-freedom-caucus|House Freedom Caucus]] to secure the speakership on the fifteenth ballot.[2]
+
+2. Badlands Brief — "The Overdrive Timeline", URL: https://badlands.substack.com/p/the-overdrive-timeline

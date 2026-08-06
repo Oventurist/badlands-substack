@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [finance, crime, cia, drug-trafficking, banking]
-sources: [raw/follow-the-money.md, raw/q-for-dummies-chapter-17.md]
+sources: [raw/follow-the-money.md, raw/q-for-dummies-chapter-17.md, raw/the-media-is-the-enemy-of-the-people.md]
 confidence: medium
 ---
 
@@ -35,3 +35,9 @@ The chapter cites Ukraine as the contemporary example, arguing that billions rai
 ## References
 1. Badlands Brief — "Follow The Money: The CIA is the World's Filthiest Laundromat", URL: https://badlands.substack.com/p/follow-the-money
 2. Badlands Brief — "Q for Dummies - Chapter 17", URL: https://badlands.substack.com/p/q-for-dummies-chapter-17
+
+## Advertising and modern art as laundering vehicles (Carlson, 2024)
+
+[[erik-carlson|Erik Carlson]]'s September 17, 2024 Badlands Media essay argues that advertising is an ideal laundering mechanism because its effect on sales cannot be quantified, making billions in spending impossible to audit.[3] He applies the same logic to modern art — where value is purely subjective — and to social media and [[youtube|YouTube]] revenues, comparing the arrangement to the car wash used to launder Walter White's methamphetamine proceeds on *Breaking Bad*.[3] The funds requiring laundering, in his account, are money created out of nothing by the [[federal-reserve|Federal Reserve]] together with the proceeds of gun running, drug running and human trafficking he attributes to the [[central-intelligence-agency|CIA]].[3]
+
+3. Badlands Brief — "The Media is the Enemy of the People", URL: https://badlands.substack.com/p/the-media-is-the-enemy-of-the-people

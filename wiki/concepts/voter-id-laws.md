@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [elections, election-integrity, voting-rights, department-of-justice]
-sources: [raw/badlands-news-brief-db1.md, raw/q-for-dummies-chapter-19.md]
+sources: [raw/badlands-news-brief-db1.md, raw/q-for-dummies-chapter-19.md, raw/the-illusion-of-democracy.md]
 confidence: medium
 ---
 
@@ -33,3 +33,12 @@ Responding to a Q prompt to list activities that require identification, the cha
 ## References
 1. Badlands Brief — "Badlands News Brief: Super Tuesday Goes as Planned & the Deep State Loses a Player", URL: https://badlands.substack.com/p/badlands-news-brief-db1
 2. Badlands Brief — "Q for Dummies - Chapter 19", URL: https://badlands.substack.com/p/q-for-dummies-chapter-19
+3. Badlands Brief — "Illusions of Democracy", URL: https://badlands.substack.com/p/the-illusion-of-democracy
+
+## The "US-owned" reading and the Costa Rican model
+
+Badlands contributor [[joe-lange|Joe Lange]] argues that a Q drop describing voter ID laws in unusual terms is a signal of a coming federal statute.[3] He reads Q's reference to installing "US-owned" voter ID law(s) as deliberate: the parenthetical "(s)" indicates one federal law, singular.[3] On that basis he predicts a federal law compelling all states to use the same citizenship-proving voter ID, which he believes would remove much of the fraud in American elections.[3]
+
+Lange concedes that elections are "run" by the states, which apply different standards and have, in his account, introduced laws that corrupt elections and entrench fraud — but argues that this will change because [[donald-trump|Donald Trump]] designated elections as critical infrastructure and because the constitution protects the voting rights of citizens only.[3] He anticipates that once election fraud is exposed, the door will open to a constitutional amendment creating a "US-owned" voter ID that proves citizenship, with all states forced to comply since they are required to follow federal law in federal elections.[3]
+
+His model is the Costa Rican [[cedula|cédula]], a citizens-only photo identity card that serves as the sole voting credential and that he credits with eliminating voter fraud in [[costa-rica|Costa Rica]] since 1948.[3] He contrasts it with the American practice of using a driver's license for voter registration, which does not prove citizenship, and argues the US system was purposely corrupted by motor voter laws and by states issuing licenses to illegal immigrants and legally present foreigners.[3] Lange frames a citizenship voter ID as one of the durable **safeguards** — alongside term limits and a [[public-banking-option|public banking option]] — needed to keep power with the people long after Trump leaves office.[3]

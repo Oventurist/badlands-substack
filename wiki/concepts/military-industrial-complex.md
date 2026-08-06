@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [military-industrial-complex, war, propaganda, defense]
-sources: [raw/a-bright-red-line.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a61.md, raw/badlands-news-brief-d24.md, raw/bernie-sanders-establishment-tool.md, raw/how-to-stop-civil-war-20.md, raw/nikki-haley-establishment-gops-last.md, raw/operation-cyclone-the-seeds-of-terror.md]
+sources: [raw/a-bright-red-line.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a61.md, raw/badlands-news-brief-d24.md, raw/bernie-sanders-establishment-tool.md, raw/how-to-stop-civil-war-20.md, raw/nikki-haley-establishment-gops-last.md, raw/operation-cyclone-the-seeds-of-terror.md, raw/the-master-builder.md]
 confidence: medium
 ---
 
@@ -56,3 +56,9 @@ In November 2023 [[ryan-delarme|Ryan DeLarme]] described the military-industrial
 
 8. Badlands Brief — "Nikki Haley: The Establishment GOP's Last Hope", URL: https://badlands.substack.com/p/nikki-haley-establishment-gops-last
 9. Badlands Brief — "Operation Cyclone - The Seeds of Terror", URL: https://badlands.substack.com/p/operation-cyclone-the-seeds-of-terror
+
+## NATO as its expression (Lange, 2023)
+
+Badlands Media's "The Master Builder" (February 2, 2023) recalls that [[dwight-d-eisenhower|Eisenhower]] warned of the military-industrial complex many years ago, and argues that [[nato|NATO]] is its living form — corrupt, and a money-laundering operation for a global cabal over many years.[10] [[joe-lange|Joe Lange]] writes that war has always been the cabal's most profitable venture and that this has now been turned against them, with [[vladimir-putin|Vladimir Putin]] exposing NATO's corruption by moving openly against Ukraine.[10]
+
+10. Badlands Media — "The Master Builder", URL: https://badlands.substack.com/p/the-master-builder

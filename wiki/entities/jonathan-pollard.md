@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, espionage, nuclear-weapons, yom-kippur-war]
-sources: [raw/badlands-brief-b62.md, raw/badlands-news-brief-021.md, raw/on-infiltration-and-israel.md]
+sources: [raw/badlands-brief-b62.md, raw/badlands-news-brief-021.md, raw/on-infiltration-and-israel.md, raw/the-maxwells-mossad-and-a-digital.md]
 confidence: medium
 ---
 
@@ -34,3 +34,11 @@ The May 2025 Badlands essay "On Infiltration and Israel" cited Pollard, describe
 1. Badlands Brief — "The Reckoning of Fake Elections, Fake Wars and Fake Allies", URL: https://badlands.substack.com/p/badlands-brief-b62
 2. Badlands Brief — "Seditious Overreactions, Billion Dollar Bailouts, & NATO-Style Guarantees", URL: https://badlands.substack.com/p/badlands-news-brief-021
 3. Badlands Brief — "On Infiltration and Israel", URL: https://badlands.substack.com/p/on-infiltration-and-israel
+
+## Lekem handling and the 1986 fallout
+
+Pollard was a United States Navy intelligence employee at the Naval Antiterrorist Alert Center in Washington, D.C., and was paid by Israel for the delivery of large amounts of classified documents to [[lekem|Lekem]], the Israeli Bureau of Scientific Relations, then run by [[rafi-eitan|Rafi Eitan]].[4] Lekem was disbanded in 1986 following his arrest, and he has been called "the most damaging spy" to have worked on behalf of Israel.[4] [[benjamin-netanyahu|Benjamin Netanyahu]], who went so far as attempting to extort Bill Clinton in the 1990s for Pollard's release, finally succeeded at the close of the Obama era, and Pollard returned to Israel after 35 years in 2020.[4]
+
+The affair took Washington and Tel Aviv by surprise: [[wolf-blitzer|Wolf Blitzer]], then Washington correspondent for the *Jerusalem Post*, had written in a book published just weeks before the arrest that there was no real fear in the U.S. government that American Jews were leaking information to [[mossad|Mossad]].[4] Pollard's espionage on U.S. nuclear secrets ran concurrent in 1984 with Eitan's tasking of [[robert-maxwell|Robert Maxwell]] to place the bugged [[promis-software|PROMIS software]] in the Los Alamos national laboratories.[4]
+
+4. Badlands Brief - "The Maxwells, Mossad and a Digital Panopticon", URL: https://badlands.substack.com/p/the-maxwells-mossad-and-a-digital

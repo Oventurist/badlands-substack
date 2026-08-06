@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [legislation, us, surveillance, pretext]
-sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-news-brief-1a7.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-news-brief-1a7.md, raw/the-exploitation-of-charlie-kirk.md]
 confidence: medium
 ---
 
@@ -29,3 +29,9 @@ Badlands commentary in July 2025 placed the Patriot Act at the center of a rapid
 ## References
 1. Badlands Brief — "5GW Counter-Offensive - The Censorship Regime and the Road to 2024", URL: https://badlands.substack.com/p/5gw-counter-offensive-the-censorship
 2. Badlands Brief — "Badlands News Brief: Epstein Angst, Autopen Privilege, & Migrant Cash Cards", URL: https://badlands.substack.com/p/badlands-news-brief-1a7
+
+## Invoked as a template after the Kirk assassination (2025)
+
+In "The Exploitation of Charlie Kirk," [[ryan-delarme|Ryan DeLarme]] argued that nothing beneficial to the public came out of the federal response to the [[september-11-attacks|September 11 attacks]], with the political establishment and a compliant media harnessing grief and anger to manufacture consent for the Patriot Act, warrantless FISA surveillance, and the wars in Iraq and Afghanistan.[3] He contended the same emotional playbook reappeared after the assassination of [[charlie-kirk|Charlie Kirk]], though he judged the 2025 measures ad hoc and enforcement-focused rather than sweeping new statute — while warning that a reported [[white-house|White House]] executive order could evolve into something more repressive.[3] Badlands writer GhostofBasedPatrickHenry was quoted as saying it was "becoming increasingly obvious that Charlie Kirk was executed in order to push The Patriot Act 2.0," and that "if we fall for it this time, we deserve to be subjugated."[3]
+
+3. Badlands Brief — "The Exploitation of Charlie Kirk", URL: https://badlands.substack.com/p/the-exploitation-of-charlie-kirk

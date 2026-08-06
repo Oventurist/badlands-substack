@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [canada, banking, green-finance, goldman-sachs, city-of-london]
-sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-1ce.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-314.md, raw/badlands-brief-577.md, raw/badlands-brief-a84.md, raw/badlands-brief-db7.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-719.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-dca.md, raw/canadas-transition-to-collectivist.md, raw/defeating-the-depopulation-agenda.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-1ce.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-314.md, raw/badlands-brief-577.md, raw/badlands-brief-a84.md, raw/badlands-brief-db7.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-719.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-dca.md, raw/canadas-transition-to-collectivist.md, raw/defeating-the-depopulation-agenda.md, raw/the-deep-state-empire-strikes-back.md]
 confidence: medium
 ---
 
@@ -165,6 +165,22 @@ Ehret notes that Carney endorsed the Financial Stability Board's [[task-force-on
 
 [[matthew-ehret|Matthew Ehret]] groups Carney with [[mario-draghi|Mario Draghi]] as "eco-warrior central bankers" and anti-human technocrats who began plans to rewire the entire world economy around a program of total depopulation centred on Green New Deals and decarbonization.[24] Ehret argues this program ignores that CO2 is plant food and that the carbon molecule is the driving force behind life on earth, and situates Carney's climate finance work within the [[gaia-cult|Gaia cult]] and the wider [[depopulation-agenda|depopulation agenda]] descended from the [[club-of-rome|Club of Rome]].[24]
 
+## The 2025 Throne Speech and the imperial pedigree
+
+On May 27, 2025, [[king-charles-iii|King Charles III]] flew to Ottawa aboard a French Airbus CC330 and was driven in a 27-car motorcade to Canada's parliament to deliver a throne speech inaugurating the new session under Prime Minister Carney — the first time a sitting monarch had done so in nearly 50 years, and an invitation Carney himself extended as part of his wish for the King to take a more active role in shaping Canada's identity.[25] In the speech the King urged Canada's representatives to commit to decarbonization, arctic militarization, and support for European militarization via the [[rearm-europe|Re-Arm Europe Plan]] against Russia.[25]
+
+Matthew Ehret writes that Carney has made known his desire to enmesh Canada more deeply into the British imperial system and among the European satraps that fell for London's Euro trap thirty years ago.[25] Formerly Governor of the [[bank-of-canada|Bank of Canada]] and then the [[bank-of-england|Bank of England]], and later the UN's special envoy on climate finance, Carney is described as a key architect behind [[canada-2020|Canada 2020]], the think tank that selected and managed [[justin-trudeau|Justin Trudeau]]'s political career.[25] He served as a steering committee member of the [[bilderberg-group|Bilderberg Group]] — founded by unreconstructed SS officer [[prince-bernhard|Prince Bernhard]] of the Netherlands — and was appointed president of [[chatham-house|Chatham House]], which Ehret says oversees its junior chapter, the [[council-on-foreign-relations|Council on Foreign Relations]] in the USA.[25]
+
+As a [[world-economic-forum|World Economic Forum]] trustee and architect of the green agenda, Carney worked closely with King Charles in announcing the [[great-reset|Great Reset]] agenda and Lynne Forrester de Rothschild's Council for Inclusive Capitalism, which fused with the Vatican in 2021, and he co-organized the King's Sustainable Business Initiative set up in 2020 to re-wire international finance around a new "green" decarbonization ethos.[25]
+
+## Ehret's assessment: the high priest of a green empire
+
+Ehret argues Carney is "no mere banker" but "the high priest of a new imperial order cloaked in green," pursuing technocratic governance disguised as moral stewardship and operating not as a public servant but as a steward of an empire that never died after World War II and merely changed form.[25] In Carney's world, Ehret writes, governments obey central banks, carbon becomes currency, energy use becomes behavior, and behavior gets tracked, scored, and taxed.[25]
+
+As an Oxford-trained former president of the Royal Institute of International Affairs, Carney is presented as the spiritual descendant of the [[round-table-movement|Round Table]] network founded by [[cecil-rhodes|Cecil Rhodes]] and Lord [[alfred-milner|Alfred Milner]].[25] Carney's wife, [[diana-fox-carney|Diana Fox Carney]], is a senior fellow at Canada 2020, which was co-founded by Privy Councillors John Manley and Thomas Axworthy, drafters of the 2005 Task Force report calling for a [[north-american-union|North American Union]].[25] Carney and [[chrystia-freeland|Chrystia Freeland]] are said to operate within this same tradition.[25]
+
+Ehret concludes that Carney offers no policies shaped by democratic input but rather frameworks, tools, and scorecards, speaking the language of sustainability, equity, and modernization while pursuing "rule without consent. Rule by expertise. Rule by empire."[25] His pledge of allegiance, Ehret contends, was not to the people of Canada but to the Crown and the heirs of King Charles, and his re-branding from cold central banker to champion of freedom against "American imperialism" left his core identity unchanged.[25] Carney's mission is framed as fulfillment of Rhodes' dream of "a church for the extension of the British Empire" and the re-acquisition of the American colonies.[25]
+
 ## References
 
 1. Badlands Brief — "A Re-Alignment of World Systems", URL: https://badlands.substack.com/p/a-re-alignment-of-world-systems
@@ -191,3 +207,4 @@ Ehret notes that Carney endorsed the Financial Stability Board's [[task-force-on
 22. Badlands Brief — "Elise UNnominated, 41% Frauds, & Escalating Canadian Conflicts", URL: https://badlands.substack.com/p/badlands-news-brief-dca
 23. Badlands Brief — "Canada's Transition to Collectivist Green Dystopia", URL: https://badlands.substack.com/p/canadas-transition-to-collectivist
 24. Badlands Brief — "Defeating the Depopulation Agenda", URL: https://badlands.substack.com/p/defeating-the-depopulation-agenda
+25. Badlands Brief — "The Deep State Empire Strikes Back", URL: https://badlands.substack.com/p/the-deep-state-empire-strikes-back

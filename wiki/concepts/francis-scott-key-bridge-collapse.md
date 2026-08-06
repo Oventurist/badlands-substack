@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [baltimore, maritime, infrastructure, disaster, salvage]
-sources: [raw/badlands-news-brief-092.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-b10.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-e54.md, raw/badlands-news-brief-efd.md]
+sources: [raw/badlands-news-brief-092.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-b10.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-e54.md, raw/badlands-news-brief-efd.md, raw/the-deep-state-needs-trump-to-win.md]
 confidence: medium
 ---
 
@@ -71,3 +71,11 @@ On Monday, May 13, 2024, a controlled explosion sent the remaining pieces of Bal
 5. Badlands Brief — "Badlands News Brief: Baltimore Fallout Continues as Nickelodeon Exposes Itself", URL: https://badlands.substack.com/p/badlands-news-brief-b60
 6. Badlands Brief — "The Trial Begins, Israel Threatens & the NYT Admits", URL: https://badlands.substack.com/p/badlands-news-brief-e54
 7. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd
+
+## Read as a diverted false flag (Carlson, April 2024)
+
+In "The Deep State Needs Trump to Win," published April 15, 2024, [[erik-carlson|Erik Carlson]] cited the Baltimore bridge collapse while speculating about how many [[false-flag-operation|false flag]] events may have been diverted by [[deep-state|Deep State]] players selling out their partners.[8] He asked whether the collapse occurred at 1:30 a.m. specifically to avoid mass casualties, and whether it happened that way because of intelligence received.[8]
+
+Carlson paired the question with a second incident, asking whether another bridge collapse had been diverted later in New York Harbor when a cargo ship lost power there, and whether that too reflected cooperation from Deep State members cutting deals.[8] He explicitly conceded that "there is no way for you or me to know at this time."[8]
+
+8. Badlands Brief — "The Deep State Needs Trump to Win", URL: https://badlands.substack.com/p/the-deep-state-needs-trump-to-win

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [politics, republican-party, foreign-policy, america-first]
-sources: [raw/badlands-brief-c91.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-cfa.md, raw/donald-trump-and-george-washington.md, raw/schisms-in-maga.md]
+sources: [raw/badlands-brief-c91.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-cfa.md, raw/donald-trump-and-george-washington.md, raw/schisms-in-maga.md, raw/the-deep-politics-of-the-12-day-war.md]
 confidence: medium
 ---
 
@@ -46,6 +46,12 @@ In an essay published November 18, 2025, Badlands contributor [[ryan-delarme|Rya
 
 DeLarme attributed the decline in [[donald-trump|Trump]]'s approval — a record low by mid-November 2025, with independents down more than 20 points and under-30 support below 40 percent — to unmet expectations on inflation and affordability, perceived prioritization of [[israel|Israel]] and foreign aid, confusion over [[ukraine|Ukraine]] and Russia policy, foreign adventurism, the reversal on the [[epstein-files|Epstein files]], and the [[h-1b-visa-program|H-1B]] dispute.[5] He identified foreign policy as the single greatest source of friction, pointing to Trump's outward alignment with establishment Republicans such as [[lindsey-graham|Lindsey Graham]] and with the [[neoconservatives|neoconservative]] milieu of the [[project-for-the-new-american-century|Project for the New American Century]].[5] His conclusion was that the divide could be bridged only from the top, and that continued drift toward what he called the Graham–Adelson axis would shatter the coalition and make 2026 "a bloodbath."[5] The essay is treated in full at [[maga-schism|MAGA Schism]].[5]
 
+## Fracture over the 12-Day War
+
+Writing in July 2025 on the [[twelve-day-war|12-Day War]], [[ryan-delarme|Ryan DeLarme]] warned that beyond the risk of a wider shooting war lay "the very real and consequential threat of the voter base fracturing."[6] He catalogued the factions he observed on the Israel–Iran question: anti-war anti-establishment figures such as Glenn Greenwald, Lee Fang and Max Blumenthal; anti-war conservatives such as [[steve-bannon|Steve Bannon]] and [[tucker-carlson|Tucker Carlson]]; a fanatical Israel-First pro-war crowd including Mark Levin, [[lindsey-graham|Lindsey Graham]], Ted Cruz and Mike Huckabee; Con Inc. outlets such as the Daily Wire and Crowder; the so-called "woke right" typified by [[dave-smith|Dave Smith]]; anti-Israel "fame clowns" such as Ian Carroll and Candace Owens; the Q-informed Alt-MAGA deep conspiracy faction; and a small "wait and see" contingent — [[mike-benz|Mike Benz]], [[matt-taibbi|Matt Taibbi]] — more concerned with keeping the team together than with taking a hard stance.[6]
+
+DeLarme observed many of these camps viciously attacking one another without recognising that the fracturing had the potential to kill the greater movement, with consequences possible as soon as the midterms, though he allowed it could all be rectified by then.[6] He noted that [[donald-trump|Trump]]'s disapproval rating — lower in the first months of his second term than at any point in his first — had reached its all-time high during the conflict.[6]
+
 ## References
 
 1. Badlands Brief — "Trump Rugs the Deltas with an Early MOU", URL: https://badlands.substack.com/p/badlands-brief-c91
@@ -53,3 +59,4 @@ DeLarme attributed the decline in [[donald-trump|Trump]]'s approval — a record
 3. Badlands News Brief — "Trump Talks Taxes as Deep State Shenanigans Abound", URL: https://badlands.substack.com/p/badlands-news-brief-cfa
 4. Badlands Brief — "Donald Trump and George Washington", URL: https://badlands.substack.com/p/donald-trump-and-george-washington
 5. Badlands Brief — "The MAGA Schism", URL: https://badlands.substack.com/p/schisms-in-maga
+6. Badlands Media — "The Deep Politics of the '12-Day War'", URL: https://badlands.substack.com/p/the-deep-politics-of-the-12-day-war

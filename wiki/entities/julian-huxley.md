@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [transhumanism, eugenics, history]
-sources: [raw/combating-the-transhumanist-religion.md, raw/defeating-the-depopulation-agenda.md, raw/on-ted-kaczynski-and-false-prophets.md]
+sources: [raw/combating-the-transhumanist-religion.md, raw/defeating-the-depopulation-agenda.md, raw/on-ted-kaczynski-and-false-prophets.md, raw/the-darwinian-perversion-of-christianity.md, raw/the-inversion-of-health.md]
 confidence: medium
 ---
 
@@ -28,7 +28,19 @@ Ehret credits Huxley with coining the term [[transhumanism|Transhumanism]] in 19
 
 In 1961 Huxley wrote the [[morges-manifesto|Morges Manifesto]], which served as a constitution for the new ecology movement launched that same year by oligarchs including [[prince-philip|Prince Philip]] and [[prince-bernhard-of-the-netherlands|Prince Bernhard of the Netherlands]].[3] Rather than identifying the imperialist system of exploitation as the source of harm — as [[henry-c-carey|Henry Carey]], [[abraham-lincoln|Lincoln]] and [[john-f-kennedy|John F. Kennedy]] had — this hereditary elite sought to convince the world that technological progress itself was the intrinsic enemy of nature.[3]
 
+## Friendship with Teilhard de Chardin
+
+[[matthew-ehret|Matthew Ehret]] documents a close friendship between Huxley and the Jesuit [[pierre-teilhard-de-chardin|Pierre Teilhard de Chardin]], describing it as no paradox that the radical atheist and the priest found in each other a kindred spirit.[4] In 1941 Chardin wrote that Huxley's *The Uniqueness of Man* ran "so parallel to my own ideas (even though without integrating God as the term of the series) that I feel greatly cheered."[4] Huxley had spent decades repackaging Darwin alongside [[h-g-wells|H.G. Wells]] and J.B.S. Haldane under the [[new-evolutionary-synthesis|New Evolutionary Synthesis]], a framework Ehret calls essentially identical to Chardin's thesis but stripped of any pretense of harmony with Biblical scripture.[4] Chardin wrote his 1949 *Man's Place in Nature* as homage to Thomas Huxley's 1904 work of the same name, and Julian reciprocated by writing the introduction to Chardin's treatise *The Phenomenon of Man*.[4]
+
+In his 1957 *New Bottles for New Wine* Huxley paid homage to Chardin's [[peking-man|Peking Man]] find while declaring: "I believe in transhumanism: once there are enough people who can truly say that, the human species will be on the threshold of a new kind of existence, as different from ours as ours is from that of Peking man."[4] Ehret stresses that Huxley was an active grand strategist rather than an ivory-tower commentator, having served as President of the [[british-eugenics-society|British Eugenics Society]], founded the [[international-union-for-conservation-of-nature|IUCN]] and its off-shoot the [[world-wildlife-fund|World Wildlife Fund]], and founded [[unesco|UNESCO]] in 1946, whose manifesto explicitly called for reviving [[eugenics|eugenics]] as the most important of all sciences while inducing humanity to accept world government.[4]
+
+## Origin of "trans-humanism"
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] identifies Julian Huxley — brother of [[aldous-huxley|Aldous]], author of *Brave New World* — as the first person to use the term "trans-humanism," and notes his membership in the British Eugenics Society, [[eugenics]] being the foundation of [[transhumanism|trans-humanism]].[5] The Huxleys were one of the four families ([[francis-galton|Galton]], [[charles-darwin|Darwin]], Huxley and Wedgwood) that bred exclusively among themselves in Galton's failed attempt to produce a "superhuman" line.[5]
+
 ## References
 1. Badlands Brief — "Combating the Transhumanist Religion", URL: https://badlands.substack.com/p/combating-the-transhumanist-religion
 2. Badlands Brief — "Defeating the Depopulation Agenda", URL: https://badlands.substack.com/p/defeating-the-depopulation-agenda
 3. Badlands Brief — "On Ted Kaczynski and False Prophets", URL: https://badlands.substack.com/p/on-ted-kaczynski-and-false-prophets
+4. Badlands Brief — "The Darwinian Perversion of Christianity", URL: https://badlands.substack.com/p/the-darwinian-perversion-of-christianity
+5. Badlands Brief — "The Inversion of Health", URL: https://badlands.substack.com/p/the-inversion-of-health

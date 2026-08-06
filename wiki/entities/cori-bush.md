@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, progressives, democrats, aipac, primaries]
-sources: [raw/badlands-news-brief-040.md, raw/badlands-news-brief-ce5.md, raw/badlands-news-brief-d5d.md]
+sources: [raw/badlands-news-brief-040.md, raw/badlands-news-brief-ce5.md, raw/badlands-news-brief-d5d.md, raw/the-exploitation-of-charlie-kirk.md]
 confidence: medium
 ---
 
@@ -37,3 +37,9 @@ On March 20, 2025, Bush's husband [[cortney-merritts|Cortney Merritts]], whom sh
 At the [[2023-wray-house-judiciary-testimony|July 2023 House Judiciary Committee hearing]] with [[fbi|FBI]] Director [[christopher-wray|Christopher Wray]], Bush demanded that the bureau do better to ensure it was not harassing black and brown communities.[3] Badlands writer [[ashe-in-america|Ashe in America]] noted that Bush also admitted during the hearing to having participated in the "Ferguson Uprising," and questioned whether "uprising" was a synonym for insurrection.[3]
 
 3. Badlands Brief — "Wray Flayed, Zelensky Zapped & Trump Targeted", URL: https://badlands.substack.com/p/badlands-news-brief-d5d
+
+## Cited as a casualty of pro-Israel electoral pressure
+
+In "The Exploitation of Charlie Kirk," [[ryan-delarme|Ryan DeLarme]] cited Bush (D-MO) alongside [[earl-hilliard|Earl Hilliard]] (D-AL) and [[jamaal-bowman|Jamaal Bowman]] (D-NY) as members of Congress who lost their seats after significant backlash from pro-[[israel|Israel]] groups.[4] DeLarme used the examples to argue that for decades a thriving career in American media or politics has often demanded outspoken and unwavering support for Israel, with exceptions such as [[pat-buchanan|Pat Buchanan]], [[ron-paul|Ron Paul]], and [[john-hostettler|John Hostettler]] proving how fraught dissent can be.[4]
+
+4. Badlands Brief — "The Exploitation of Charlie Kirk", URL: https://badlands.substack.com/p/the-exploitation-of-charlie-kirk

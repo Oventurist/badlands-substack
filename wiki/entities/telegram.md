@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [social-media, encryption, censorship, free-speech, europe]
-sources: [raw/badlands-news-brief-7b7.md, raw/badlands-news-brief-b5f.md, raw/reset-the-space-reset-society.md]
+sources: [raw/badlands-news-brief-7b7.md, raw/badlands-news-brief-b5f.md, raw/reset-the-space-reset-society.md, raw/the-deep-state-has-already-lost.md, raw/the-great-american-restoration-tour-1af.md]
 confidence: medium
 ---
 
@@ -31,3 +31,16 @@ A February 2023 [[badlands-media|Badlands Media]] essay described Telegram live 
 1. Badlands Brief — "Badlands News Brief: Harris Preps, Sovereigns Speak & ... Haitians Eat Cats?", URL: https://badlands.substack.com/p/badlands-news-brief-7b7
 2. Badlands Brief — "Badlands News Brief: Debates About Debates, RINO Country & Building BRICS", URL: https://badlands.substack.com/p/badlands-news-brief-b5f
 3. Badlands Media — "The Great Reset the Space: A New Frontier for American Community", raw/reset-the-space-reset-society.md
+4. Badlands Brief — "The Deep State Has Already Lost", URL: https://badlands.substack.com/p/the-deep-state-has-already-lost
+
+## Arrest of the CEO in France (September 2024)
+
+[[erik-carlson|Erik Carlson]] described the arrest of Telegram's CEO in France as "a clear fascist suppression of free speech," grouping it with the European censorship regime built around the [[digital-services-act|Digital Services Act]].[4] He noted that [[alexander-vindman|Alexander Vindman]] subsequently warned [[elon-musk|Elon Musk]] that he could be next.[4]
+
+Carlson argued the geographic distribution of the platform explains the target: because the United States is "a Facebook and X country," shutting down Telegram would not disrupt the US elections too badly, but Telegram is much bigger in European countries.[4] Shutting it down would therefore better isolate the continent from hearing the truth — especially if Musk and [[mark-zuckerberg|Mark Zuckerberg]] both backed [[donald-trump|Donald Trump]] and neither of their platforms were permitted in Europe, leaving the continent in complete isolation.[4]
+
+## Use by Badlands Media for event communities (2024)
+
+[[badlands-media|Badlands Media]] used Telegram as the community layer for its [[great-american-restoration-tour|Great American Restoration Tour]] events: purchasers of virtual tickets to [[gart-6-myrtle-beach|GART 6]] in Myrtle Beach received a direct invitation to an exclusive "GART: Myrtle" Telegram chat where they could interact with other virtual and in-person attendees and with speakers both before and after the November 2024 event.[5] The network said the chat would go live closer to the event dates and that invitations would be emailed automatically alongside stream links.[5]
+
+5. Badlands Brief — "The Great American Restoration Tour Continues!", URL: https://badlands.substack.com/p/the-great-american-restoration-tour-1af

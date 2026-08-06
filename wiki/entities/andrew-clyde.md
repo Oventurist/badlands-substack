@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republican, georgia, taxation]
-sources: [raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-275.md]
+sources: [raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-275.md, raw/the-overdrive-timeline.md]
 confidence: medium
 ---
 
@@ -23,3 +23,9 @@ Clyde was the sponsor of the resolution to repeal the [[bureau-of-alcohol-tobacc
 ## References
 1. Badlands Media — "Badlands News Brief: Based Bodegas, Limp Sanctions & Scared Bankers", URL: https://badlands.substack.com/p/badlands-news-brief-0cd
 2. Badlands Brief — "Badlands News Brief: Tucker's Tour de Force, Trump Besieged & More", URL: https://badlands.substack.com/p/badlands-news-brief-275
+
+## January 2023 speakership concessions
+
+After the [[january-2023-mccarthy-concessions|January 2023 McCarthy concessions]], Clyde served for the first time on the [[house-appropriations-committee|Appropriations Committee]].[3]
+
+3. Badlands Brief — "The Overdrive Timeline", URL: https://badlands.substack.com/p/the-overdrive-timeline

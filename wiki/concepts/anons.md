@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [citizen-journalism, q-movement, open-source-intelligence, badlands-media]
-sources: [raw/biden-inc-flips.md, raw/expand-your-thinking.md, raw/q-for-dummies-chapter-1.md, raw/q-is-real-because-math-says-so.md, raw/q-is-our-best-fren.md]
+sources: [raw/biden-inc-flips.md, raw/expand-your-thinking.md, raw/q-for-dummies-chapter-1.md, raw/q-is-real-because-math-says-so.md, raw/q-is-our-best-fren.md, raw/the-extraordinary-power-of-digital.md]
 confidence: low
 ---
 
@@ -53,3 +53,11 @@ The essay closes by casting anon work as consequential rather than hobbyist: if 
 The same essay argues that the drops produced a self-selected "counter intelligentsia" of anons: those who did the work of assembling the jigsaw puzzle rather than seeking quick profit, and who remained through years of coverage the author calls utterly fake, while the wider public assumed the subject had been debunked.[5] Their activities are described as largely indecipherable to outsiders but expected to prove crucial in helping mankind identify the parasites in its midst and weather [[the-storm|The Storm]].[5] The puzzle-solving itself is presented as a form of cognitive rehabilitation that strengthens the probative faculty of whoever attempts it.[5]
 
 5. Badlands Brief — "Q is Our Best Fren", URL: https://badlands.substack.com/p/q-is-our-best-fren
+
+## Anons as authorities-in-training
+
+"The Extraordinary Power of Digital Soldiers" (July 31, 2023) argues that the [[socratic-method|Socratic]] structure of the [[qanon|Q]] drops was designed to make anons into genuine authorities rather than informed spectators, since inducing them to assemble the picture themselves amounts to the authoring of true information.[6] On the essay's [[authority-as-authorship|etymological argument]], anons trained in this way are learning to render verdicts on events and matters of genuine importance to the entire world, and those who stayed asleep during these years cannot claim the same degree of authority as those who woke up and acted.[6]
+
+The essay predicts that at the conclusion of [[the-storm|the storm]] anons will be the ones whose observations about the dark cabal proved most accurate, and that in a post-[[great-awakening|Great Awakening]] world they may be looked to as leaders and advisors owing to their capacity for discernment and selfless action.[6] It also claims their collective focus on truth produces a "field effect" — a [[counter-spell|counter-spell]] — that has already pushed terms like "deep state" and "Illuminati" into the popular lexicon irreversibly, and that their distributed research constitutes a [[knowledge-ark|knowledge ark]].[6] The author notes the paradox that anons are "absolute heroes" of whom almost no one is aware, including the anons themselves.[6]
+
+6. Badlands Brief — "The Extraordinary Power of Digital Soldiers", URL: https://badlands.substack.com/p/the-extraordinary-power-of-digital

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [classified-documents, national-security, lawfare, trump-indictment]
-sources: [raw/badlands-news-brief-228.md, raw/moves-and-countermoves.md, raw/q-for-dummies-chapter-2.md, raw/q-for-dummies-chapter-3.md]
+sources: [raw/badlands-news-brief-228.md, raw/moves-and-countermoves.md, raw/q-for-dummies-chapter-2.md, raw/q-for-dummies-chapter-3.md, raw/the-master-builder.md]
 confidence: medium
 ---
 
@@ -40,3 +40,9 @@ Chapter 3 of [[q-for-dummies|Q for Dummies]] treats [[qanon|Q]] drop #20 of Nove
 ## Q for Dummies Chapter 2
 
 Badlands' "Q for Dummies" Chapter 2 defines the SCIF referenced in Q drop #14 as "a completely sealed off and secure room from the outside world in which highly classified topics, or military operations are discussed," and observes that Q mentions SCIFs repeatedly across the drops in reference to both white hats and black hats.[3] The drop is read alongside General [[michael-flynn|Michael Flynn]]'s intelligence commands and Admiral [[mike-rogers|Mike Rogers]]'s Trump Tower warning about Obama-era surveillance.[3]
+
+## The Mar-a-Lago SCIF (Lange, 2023)
+
+Badlands Media's "The Master Builder" (February 2, 2023) notes that [[mar-a-lago|Mar-a-Lago]] is outfitted with a SCIF, and argues that this is why the April 2017 summit between [[donald-trump|Donald Trump]] and [[xi-jinping|Xi Jinping]] arranged by [[jared-kushner|Jared Kushner]] could be conducted in genuine privacy.[5] [[joe-lange|Joe Lange]] treats the facility as the physical means by which the two leaders could evade monitoring by the American [[deep-state|Deep State]] and by factions of the [[chinese-communist-party|Chinese Communist Party]].[5]
+
+5. Badlands Media — "The Master Builder", URL: https://badlands.substack.com/p/the-master-builder

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [badlands-media, events, great-awakening, conferences]
-sources: [raw/badlands-news-brief-49d.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-8cb.md, raw/badlands-news-brief-bd6.md, raw/exclusive-gart-3-live-stream-thursday.md, raw/last-call-for-gart-3-irvine.md]
+sources: [raw/badlands-news-brief-49d.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-8cb.md, raw/badlands-news-brief-bd6.md, raw/exclusive-gart-3-live-stream-thursday.md, raw/last-call-for-gart-3-irvine.md, raw/the-great-american-restoration-tour-b1a.md]
 confidence: medium
 ---
 
@@ -59,3 +59,11 @@ All GART ticket-buyers also received an invitation to the GART 3 Telegram chat g
 4. Badlands Brief — "Badlands News Brief: Houthi's War is it, Anyway?", URL: https://badlands.substack.com/p/badlands-news-brief-bd6
 5. Badlands Brief — "Exclusive GART 3 Live Stream Thursday!", URL: https://badlands.substack.com/p/exclusive-gart-3-live-stream-thursday
 6. Badlands Brief - "Last Call for GART 3: Irvine!", URL: https://badlands.substack.com/p/last-call-for-gart-3-irvine
+
+## Ticket launch announcement (November 2023)
+
+Tickets for GART 3 went on public sale with a November 24, 2023 [[badlands-media|Badlands Media]] post titled "The Great American Restoration Tour Continues!", which confirmed the January 11–14, 2024 dates in Irvine, California and named the [[marriott-irvine-spectrum|Marriott Irvine Spectrum]] as the conference venue with a group room block.[7] The announcement framed the tour as an extension of the network's slogan "We are the news, now," a saying it said had come to define a growing movement within the Truth and America First communities.[7] It described the weekend as a live, ticketed event with in-person speakers and meet-and-greets, live versions of Badlands shows, and Q&A sessions with Badlands panels.[7]
+
+In-person tickets included a Friday night Welcome Reception with Badlands Media, breakfast and lunch all weekend, and time among fellow Badlanders and hosts as attendees sought to "level up in the Information War together"; a VIP package added an opening dinner and meet-and-greet.[7] Virtual tickets streaming the entirety of GART 3 were sold separately for those unable to travel, and both tiers were handled through the network's TicketSpice storefront.[7] The post listed the expected speakers as [[jon-herold|Jon Herold]], Kate Buckley, [[zak-paine|Zak Paine]], [[brad-getz|Brad Getz]], [[chris-paul|Chris Paul]], [[just-human|Just Human]], [[patrick-gunnels|Patrick Gunnels]], [[burning-bright|Burning Bright]], [[gmoney|GMoney]], [[patriots-in-progress|Patriots in Progress]], [[jordan-sather|Jordan Sather]], [[alpha-warrior|Alpha Warrior]], [[ashe-in-america|Ashe in America]], [[ghost-of-patrick-henry|Ghost of BPH]] and [[jaytriot|Jaytriot]].[7]
+
+7. Badlands Brief — "The Great American Restoration Tour Continues!", URL: https://badlands.substack.com/p/the-great-american-restoration-tour-b1a

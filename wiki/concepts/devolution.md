@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [conspiracy-theory, badlands-media, continuity-of-government]
-sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-fcb.md, raw/bric-by-bric.md, raw/chips-and-dips.md, raw/q-for-dummies-chapter-4.md]
+sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-fcb.md, raw/bric-by-bric.md, raw/chips-and-dips.md, raw/q-for-dummies-chapter-4.md, raw/the-deep-state-needs-trump-to-win.md, raw/the-master-builder.md]
 confidence: high
 ---
 
@@ -87,3 +87,17 @@ In "CHIPS and Dips" (December 21, 2022), [[burning-bright|Burning Bright]] descr
 Chapter 4 of the [[q-for-dummies|Q for Dummies]] series raises devolution in connection with the 11.3 [[q-markers|marker]] from drop #25 of November 1, 2017.[15] Many anons speculated that the marker referred to the 2020 election, held on November 3, which they regarded as a high-level crime against the country.[15] The author writes that he does not believe the marker has yet been fulfilled, but allows that if devolution turns out to have been initiated after that election, the election may very well have been the marker after all.[15]
 
 15. Badlands Media — "Q for Dummies - Chapter 4", URL: https://badlands.substack.com/p/q-for-dummies-chapter-4
+
+## The "safety net" formulation (Carlson, April 2024)
+
+In "The Deep State Needs Trump to Win" (April 15, 2024), [[erik-carlson|Erik Carlson]] wrote that he believes the [[biden-administration|Biden Administration]] has been operating with "a Devolution safety net underneath it."[16] On his reading, the net permits reversible harms — he gives inflation as the example — while irreversible ones, such as US troops losing their lives on foreign soil, have been avoided "or rather not allowed."[16]
+
+Carlson treated the absence of American combat deaths as an evidentiary problem for the view that the [[deep-state|Deep State]] retained full control, arguing that if it held the power many attribute to it, the United States would already have been drafting young Americans into a foreign war.[16] He connected this to his contention that the [[neoconservatives|Neocons]] and [[rino|RINOs]] who would normally drive such a war no longer have power.[16] He also speculated that cooperating insiders may have caused multiple [[false-flag-operation|false flag]] events to be diverted over the preceding three years.[16]
+
+16. Badlands Brief — "The Deep State Needs Trump to Win", URL: https://badlands.substack.com/p/the-deep-state-needs-trump-to-win
+
+## Cited in "The Master Builder" (2023)
+
+Badlands Media's "The Master Builder" (February 2, 2023) invokes devolution as one of two preconditions for its central thesis, stating that the military has been devolved so that [[joe-biden|Joe Biden]] does not have control of the main functions of the U.S. military, alongside [[donald-trump|Donald Trump]]'s claimed control of the [[federal-reserve|Federal Reserve]].[17] [[joe-lange|Joe Lange]] directs readers to [[patel-patriot|Patel Patriot]]'s devolution series as the fullest treatment of the subject.[17]
+
+17. Badlands Media — "The Master Builder", URL: https://badlands.substack.com/p/the-master-builder

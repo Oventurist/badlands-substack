@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [labor, solidarity-center, ned, usaid, regime-change]
-sources: [raw/a-more-perfect-labor-union.md, raw/how-to-rent-a-riot-the-plausible.md, raw/how-to-rent-a-riot-the-history-of.md]
+sources: [raw/a-more-perfect-labor-union.md, raw/how-to-rent-a-riot-the-plausible.md, raw/how-to-rent-a-riot-the-history-of.md, raw/the-information-imperium.md]
 confidence: medium
 ---
 
@@ -49,3 +49,9 @@ Badlands Media lists the Solidarity Center as one of the four specialized surrog
 ## Role in the Orange Revolution
 
 The Solidarity Center is listed by Badlands Media among the U.S. organizations sponsored by [[usaid|USAID]], the [[national-endowment-for-democracy|National Endowment for Democracy]] and allied foundations during Ukraine's [[orange-revolution|Orange Revolution]], alongside [[freedom-house|Freedom House]], the [[international-republican-institute|International Republican Institute]], the [[national-democratic-institute|National Democratic Institute]], the [[eurasia-foundation|Eurasia Foundation]] and [[internews|Internews]].[3]
+
+## Role in the information imperium
+
+Badlands Media's "The Information Imperium" lists the Solidarity Center as the labour-focused member of the [[national-endowment-for-democracy|National Endowment for Democracy]]'s four core grantees, alongside the [[national-democratic-institute|NDI]], the [[international-republican-institute|IRI]] and the [[center-for-international-private-enterprise|Center for International Private Enterprise]].[4] In the article's division of labour, the Solidarity Center "corrals the workers" while CIPE services business interests and [[internews|Internews]] manages the media narrative.[4]
+
+4. Badlands Brief — "The Information Imperium", URL: https://badlands.substack.com/p/the-information-imperium

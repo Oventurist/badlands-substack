@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [cia, deep-state, qanon, oversight, intelligence]
-sources: [raw/clowns-in-america.md, raw/follow-the-money.md, raw/shadow-government-exposed.md, raw/school-of-assassins-and-dictators.md]
+sources: [raw/clowns-in-america.md, raw/follow-the-money.md, raw/shadow-government-exposed.md, raw/school-of-assassins-and-dictators.md, raw/the-illusion-of-democracy.md]
 confidence: low
 ---
 
@@ -57,3 +57,10 @@ The mechanism of capture, on this account, was personnel: after Reagan lost the 
 2. Badlands Brief — "Follow The Money: The CIA is the World's Filthiest Laundromat", URL: https://badlands.substack.com/p/follow-the-money
 3. Badlands Brief — "Shadow Government Exposed", URL: https://badlands.substack.com/p/shadow-government-exposed
 4. Badlands Brief — "School of Assassins and Dictators", URL: https://badlands.substack.com/p/school-of-assassins-and-dictators
+5. Badlands Brief — "Illusions of Democracy", URL: https://badlands.substack.com/p/the-illusion-of-democracy
+
+## Summary in "Illusions of Democracy"
+
+In his January 2024 article "Illusions of Democracy," [[joe-lange|Joe Lange]] recapitulates his series thesis: a shadow government was set up by [[george-hw-bush|George H.W. Bush]] in order to control the entire executive branch, including the president.[5] He gives two examples of what that corrupt apparatus did with its control — using "free trade" as the excuse to increase drug trafficking across the southern border, and using "deregulation" of the banking system to rob the treasury and launder money through the [[savings-and-loan-crisis|Savings and Loan crisis]].[5]
+
+Lange argues the shadow government also maintains a [[two-tier-justice-system|two tier justice system]] that shields insiders engaged in [[taxpayer-theft|taxpayer theft]], and that it remained embedded within [[donald-trump|Donald Trump]]'s own administration even as Trump carried out what Lange calls a government reset.[5] Internationally, he identifies the [[central-intelligence-agency|CIA]] shadow government as the force that installed dictators across Central and South America via the [[school-of-the-americas|School of the Americas]], and argues its failure to install one in [[costa-rica|Costa Rica]] is explained by that country's abolition of its armed forces under [[jose-figueres-ferrer|José "Pepe" Figueres Ferrer]].[5] His prescription is a set of durable **safeguards** — constitutional term limits, a citizenship voter ID, and a [[public-banking-option|public banking option]] — to prevent another such insurgency after Trump is gone.[5]

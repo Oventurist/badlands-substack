@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, alternative-media, finance]
-sources: [raw/badlands-brief-095.md, raw/badlands-brief-625.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d32.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-d50.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-e7c.md, raw/badlands-news-brief-ea7.md, raw/badlands-news-brief-efd.md, raw/badlands-news-brief-f25.md]
+sources: [raw/badlands-brief-095.md, raw/badlands-brief-625.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d32.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-d50.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-e7c.md, raw/badlands-news-brief-ea7.md, raw/badlands-news-brief-efd.md, raw/badlands-news-brief-f25.md, raw/the-information-imperium.md]
 confidence: low
 ---
 
@@ -217,3 +217,9 @@ In March 2023, ZeroHedge published an analysis of Bloomberg reporting on [[silic
 35. Badlands Brief — "Badlands News Brief: Trump Mania, Insider Banking & ... Poop?", URL: https://badlands.substack.com/p/badlands-news-brief-ea7
 36. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd
 37. Badlands Brief — "Badlands News Brief: House Passes Gas & Country Refuses to Rejoice", URL: https://badlands.substack.com/p/badlands-news-brief-f25
+
+## NewsGuard rating
+
+Badlands Media's "The Information Imperium" cites ZeroHedge's 49.5/100 score from [[newsguard|NewsGuard]] as evidence of selective credibility enforcement, noting that the site was marked unreliable partly for entertaining the [[lab-leak-theory|COVID-19 lab leak theory]] early, while legacy outlets that dismissed the theory retained perfect 100/100 ratings.[38]
+
+38. Badlands Brief — "The Information Imperium", URL: https://badlands.substack.com/p/the-information-imperium

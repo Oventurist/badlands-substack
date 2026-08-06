@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [national-security, ukraine, free-speech, media]
-sources: [raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-db6.md, raw/badlands-news-brief-f6e.md, raw/no-honor-among-thieves.md, raw/setting-the-stage.md, raw/the-cia-is-being-thrown-under-the.md]
+sources: [raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-db6.md, raw/badlands-news-brief-f6e.md, raw/no-honor-among-thieves.md, raw/setting-the-stage.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-deep-state-has-already-lost.md]
 confidence: medium
 ---
 
@@ -65,3 +65,9 @@ Erik Carlson's "The CIA is Being Thrown Under the Bus" names Vindman as an examp
 Carlson groups him with [[olivia-troye|Olivia Troye]] and [[john-kelly|John Kelly]] as moles and liars whose claims about Trump are still widely believed, and argues that Trump has spent the intervening years determining who he can trust so that such figures cannot interfere with a second term.[6] With the moles removed, he contends, controlling America from inside its own government becomes difficult enough that the [[deep-state|Deep State]] must fight Trump from outside through NATO, the United Nations and the European Union.[6]
 
 6. Badlands Brief — "The CIA is Being Thrown Under the Bus", URL: https://badlands.substack.com/p/the-cia-is-being-thrown-under-the
+
+## Warning to Elon Musk (September 2024)
+
+In September 2024, [[erik-carlson|Erik Carlson]] again referred to Vindman as "the weasel with super hearing who was able to overhear Trump's perfect call with Zelenskyy," and reported that he was warning [[elon-musk|Elon Musk]] that he could be next.[7] Carlson placed the warning immediately after the arrest of the [[telegram|Telegram]] CEO in France, treating both as part of a European campaign of speech suppression connected to the [[digital-services-act|Digital Services Act]].[7]
+
+7. Badlands Brief — "The Deep State Has Already Lost", URL: https://badlands.substack.com/p/the-deep-state-has-already-lost

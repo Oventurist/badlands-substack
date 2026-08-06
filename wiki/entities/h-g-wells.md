@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [author, literature, eugenics, badlands-media]
-sources: [raw/control-through-language.md]
+sources: [raw/control-through-language.md, raw/the-inversion-of-health.md]
 confidence: low
 ---
 
@@ -16,3 +16,8 @@ Carlson states that at least some, and possibly all, of the writers in this circ
 
 ## References
 1. Badlands Brief — "Control Through Language", URL: https://badlands.substack.com/p/control-through-language
+2. Badlands Brief — "The Inversion of Health", URL: https://badlands.substack.com/p/the-inversion-of-health
+
+## Fabian Society membership
+
+In "The Inversion of Health," [[ryan-delarme|Ryan DeLarme]] names Wells, with [[aldous-huxley|Aldous Huxley]] and [[george-orwell|George Orwell]], as a member of the [[fabian-society|Fabian Society]], a circle he links to the [[eugenics]] and [[transhumanism|trans-humanist]] currents running through the Huxley family.[2]

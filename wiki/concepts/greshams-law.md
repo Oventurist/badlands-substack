@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [monetary-policy, economics, currency, history]
-sources: [raw/nobel-winning-economist-revives-2013s.md]
+sources: [raw/nobel-winning-economist-revives-2013s.md, raw/the-midas-touch.md]
 confidence: medium
 ---
 
@@ -26,3 +26,8 @@ Currency debasement historically meant mixing base metals into coinage struck fr
 
 ## References
 1. Badlands Brief — "Nobel-Winning Economist Revives 2013's Ridiculous 'Platinum Trill'", URL: https://badlands.substack.com/p/nobel-winning-economist-revives-2013s
+2. Badlands Brief — "The Midas Touch", URL: https://badlands.substack.com/p/the-midas-touch
+
+## Reverse Gresham's Law and state legal tender laws
+
+Badlands Media's "The Midas Touch" invokes an inverted version of the principle in describing the state-level sound money movement.[2] Constitutional tender expert professor William Greene is quoted arguing that as residents of a state use both Federal Reserve notes and gold and silver coins, the fact that the coins hold their value better "will lead to a 'reverse Gresham's Law' effect, where good money (gold and silver coins) will drive out bad money (Federal Reserve notes)."[2] The theory behind laws such as the [[arkansas-legal-tender-act|Arkansas Legal Tender Act]] is that in a multicurrency environment the better currency prevails, which Badlands contributor [[joe-lange|Joe Lange]] presents as the mechanism by which states can decentralize money and undermine the [[federal-reserve|Federal Reserve]]'s monopoly.[2]

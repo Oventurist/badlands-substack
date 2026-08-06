@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republican, elections, voter-id]
-sources: [raw/badlands-brief-4ec.md, raw/badlands-brief-fd9.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-9ae.md]
+sources: [raw/badlands-brief-4ec.md, raw/badlands-brief-fd9.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-9ae.md, raw/the-overdrive-timeline.md]
 confidence: medium
 ---
 
@@ -37,3 +37,9 @@ On March 5, 2024, Roy introduced legislation that would retroactively strip COVI
 2. Badlands Brief — "Bicameral Courts, Congressional Creeps & Curious Cartels", URL: https://badlands.substack.com/p/badlands-brief-fd9
 3. Badlands Brief — "Badlands News Brief: IC Ignitions & Double Detonations", URL: https://badlands.substack.com/p/badlands-news-brief-1a0
 4. Badlands Brief — "Badlands News Brief: Will the One True POTUS Please Stand Up?", URL: https://badlands.substack.com/p/badlands-news-brief-9ae
+
+## January 2023 speakership concessions
+
+Roy, together with [[scott-perry|Scott Perry]], helped negotiate the deal with [[kevin-mccarthy|Kevin McCarthy]] that became the [[january-2023-mccarthy-concessions|January 2023 McCarthy concessions]].[5] He was subsequently tapped to serve on the Budget committee and the influential [[house-rules-committee|Rules Committee]] while keeping his seat on the [[house-judiciary-committee|Judiciary]] panel.[5]
+
+5. Badlands Brief — "The Overdrive Timeline", URL: https://badlands.substack.com/p/the-overdrive-timeline

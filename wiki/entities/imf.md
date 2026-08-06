@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [imf, washington-consensus, venezuela, debt, bretton-woods]
-sources: [raw/a-family-affair.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-news-brief-4b3.md]
+sources: [raw/a-family-affair.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-news-brief-4b3.md, raw/the-men-behind-the-curtain-part-2.md]
 confidence: medium
 ---
 
@@ -22,7 +22,12 @@ A later Badlands Media essay places the IMF among the [[bretton-woods-system|Bre
 
 In April 2024 the IMF projected that Russia's economy would grow 3.2% in 2024, outpacing the United States and all other advanced economies despite the war and sanctions, with high investment and robust private consumption cited as drivers.[3] The Fund expected that momentum to fade the following year, forecasting Russian growth of 1.8% in 2025.[3]
 
+## Gold sales and the Trilateral Commission
+
+Badlands Media's "The Men Behind the Curtain – Part 2" cites the IMF's disposal of part of its gold reserves as an example of Trilateralist policy recommendations becoming reality.[4] [[richard-n-cooper|Richard Cooper]], the Yale economist who headed the [[trilateral-commission|Trilateral Commission]]'s task force on monetary policy, recommended selling off official gold reserves to private markets, then became undersecretary of state for economic affairs and "just happened to be presiding" as the IMF sold off a portion of its gold.[4]
+
 ## References
 1. Badlands Brief — "A Family Affair", URL: https://badlands.substack.com/p/a-family-affair
 2. Badlands Brief — "A Gateway to a New World of Cooperation", URL: https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation
 3. Badlands Brief — "Israel Goes Hot (or Not?) as the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-4b3
+4. Badlands Brief — "The Men Behind the Curtain - Part 2", URL: https://badlands.substack.com/p/the-men-behind-the-curtain-part-2

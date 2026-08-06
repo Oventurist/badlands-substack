@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [government, agency, education, civil-rights]
-sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-fbb.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-ce5.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-f23.md, raw/has-everyone-completely-lost-their.md, raw/reagan-20.md, raw/spear-of-justice.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-fbb.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-ce5.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-f23.md, raw/has-everyone-completely-lost-their.md, raw/reagan-20.md, raw/spear-of-justice.md, raw/the-ivy-web.md]
 confidence: medium
 ---
 
@@ -117,3 +117,9 @@ A February 2025 Badlands feature by [[erik-carlson|Erik Carlson]] recounted that
 
 16. Badlands Brief — "Reagan 2.0", URL: https://badlands.substack.com/p/reagan-20
 17. Badlands Brief — "Spear of Justice: Ken Paxton and the Bleeding Edge", URL: https://badlands.substack.com/p/spear-of-justice
+
+## Harvard foreign funding investigation (April 2025)
+
+On April 18, 2025 the Department, led by Secretary [[linda-mcmahon|Linda McMahon]], issued a records request to [[harvard-university|Harvard University]] after discovering inaccurate foreign financial disclosures, declaring that "Harvard has not been fully transparent or complete in its disclosures, which is both unacceptable and unlawful."[18] Acting under [[section-117-higher-education-act|Section 117 of the Higher Education Act of 1965]], it demanded a full forensic breakdown of all foreign gifts and contracts above $250,000, together with lists of involved researchers, expelled foreign students, and correspondence with foreign governments.[18] Badlands Media noted that the action followed a 2020 institutional compliance report finding more than $6.5 billion in undisclosed foreign funds across top U.S. universities, of which Harvard was a leading offender.[18]
+
+18. Badlands Brief — "The Ivy Web", URL: https://badlands.substack.com/p/the-ivy-web

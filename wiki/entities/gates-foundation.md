@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [philanthropy, dark-money, ngos, bill-gates]
-sources: [raw/badlands-news-brief-5d5.md, raw/child-sacrifice-as-a-pillar-of-deep.md, raw/structures-of-control-part-2.md]
+sources: [raw/badlands-news-brief-5d5.md, raw/child-sacrifice-as-a-pillar-of-deep.md, raw/structures-of-control-part-2.md, raw/the-latest-in-technocratic-nightmares.md, raw/the-ivy-web.md]
 confidence: medium
 ---
 
@@ -28,7 +28,18 @@ Badlands Media has separately cited the foundation's role in launching the fact-
 
 The "Structures of Control" series names the Gates Foundation as the driving force behind the [[common-core-state-standards-initiative|Common Core State Standards Initiative]], which it says introduced a standardized approach to education that deprioritizes creativity and exploration in favor of test-based performance metrics.[3] Common Core mathematics is criticized in the article for emphasizing abstract processes over practical problem-solving, leaving students and parents confused and frustrated.[3] The foundation's role is placed alongside the [[open-society-foundations|Open Society Foundations]]' promotion of "global citizenship" curricula as part of a two-decade shift in American public education that the article frames as [[4d-timeline-control|4D timeline control]] — a mechanism for conditioning successive generations toward compliance with centralized, globalist governance.[3]
 
+## Kenya digital ID
+
+Badlands Media reported that the Gates Foundation boosted Kenya's [[maisha-namba|Maisha Namba]] digital ID program while the government struggled to convince citizens of its merits.[4] The foundation's involvement was announced following a series of closed-door meetings between [[bill-gates|Bill Gates]] and President [[william-ruto|William Ruto]], and the program includes a [[biometric-vaccination-system-for-newborns|biometric vaccination system for newborns]] intended to replace birth certificates and track children to age five.[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Comedown Ops & Southbound Warships", URL: https://badlands.substack.com/p/badlands-news-brief-5d5
 2. Badlands Brief — "Child Sacrifice as a Pillar of Deep State Control", URL: https://badlands.substack.com/p/child-sacrifice-as-a-pillar-of-deep
 3. Badlands Brief — "Structures of Control - Part 2", URL: https://badlands.substack.com/p/structures-of-control-part-2
+4. Badlands Brief — "The Latest in Technocratic Nightmares", URL: https://badlands.substack.com/p/the-latest-in-technocratic-nightmares
+
+## Harvard and WHO advisory work
+
+Badlands Media's "The Ivy Web" argues that the researchers who framed pandemic recommendations to the [[world-health-organization|World Health Organization]] through [[harvard-university|Harvard]]'s public health institutions "were not neutral scientists," noting that many were under contract with Gates Foundation initiatives, [[gavi|GAVI]], or consulting arms such as the McKinsey Global Institute.[5] The recommendations in question included behavioral nudging frameworks to increase vaccine uptake, justification models for quarantine extension, and algorithmic impact assessments for misinformation response.[5]
+
+5. Badlands Brief — "The Ivy Web", URL: https://badlands.substack.com/p/the-ivy-web

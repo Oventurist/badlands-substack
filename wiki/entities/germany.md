@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [europe, energy, oil, germany]
-sources: [raw/badlands-brief-0fb.md, raw/badlands-brief-169.md, raw/badlands-brief-414.md, raw/badlands-brief-50d.md, raw/badlands-brief-6bf.md, raw/badlands-brief-b62.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-721.md]
+sources: [raw/badlands-brief-0fb.md, raw/badlands-brief-169.md, raw/badlands-brief-414.md, raw/badlands-brief-50d.md, raw/badlands-brief-6bf.md, raw/badlands-brief-b62.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-721.md, raw/the-master-builder.md]
 confidence: medium
 ---
 
@@ -92,3 +92,11 @@ Badlands commentator Chris Paul said Constantin Von Hoffmeister had expressed th
 10. Badlands Brief — "Badlands News Brief: MORE Shooter Shenanigans ... and TrumpaMania Reigns", URL: https://badlands.substack.com/p/badlands-news-brief-4cb
 11. Badlands News Brief — "Biden Melts Down as Judges Are Themselves Judged", URL: https://badlands.substack.com/p/badlands-news-brief-5fb
 12. Badlands News Brief — "Post Mortems, Dog Fights, & Flight Risks", URL: https://badlands.substack.com/p/badlands-news-brief-721
+
+## Defense free-riding and Russian energy (Lange, 2023)
+
+Badlands Media's "The Master Builder" (February 2, 2023) singles out Germany as the engine of the entire [[european-union|European Union]] and as the chief beneficiary of what it calls decades of American subsidy of European defense.[13] [[joe-lange|Joe Lange]] writes that European states used the American military and American taxpayers to underwrite their security after the Second World War, propping up their economies, while portraying [[vladimir-putin|Vladimir Putin]] as a worldwide threat and buying around 60 percent of their energy from Russia.[13]
+
+Quoting retired Lt. Col. [[tony-shaffer|Tony Shaffer]] in The Daily Caller, the article calls it especially egregious that Germany claimed to need protection from Putin while purchasing large amounts of gas from Russia and thereby helping to fund the very adversary it named — "in a word, insane."[13] Shaffer noted that the United States alone accounted for 71.7 percent of [[nato|NATO]] defense spending, more than Germany, France, Italy, Spain, Canada and the United Kingdom combined.[13] Lange argues that [[donald-trump|Donald Trump]] ended the arrangement, leaving European central banks exposed to the financial squeeze the article describes.[13]
+
+13. Badlands Media — "The Master Builder", URL: https://badlands.substack.com/p/the-master-builder

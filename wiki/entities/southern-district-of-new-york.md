@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [doj, prosecutors, new-york, corruption, rico]
-sources: [raw/badlands-news-brief-10a.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-ce1.md, raw/disinformation-is-necessary.md]
+sources: [raw/badlands-news-brief-10a.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-ce1.md, raw/disinformation-is-necessary.md, raw/the-great-purge-of-the-cabal-has.md]
 confidence: medium
 ---
 
@@ -43,3 +43,9 @@ In "Disinformation is Necessary," [[joe-lange|Joe Lange]] describes the SDNY as 
 3. Badlands News Brief — "Embattled Mayors, Peacemakers & Signal Setters", URL: https://badlands.substack.com/p/badlands-news-brief-9b2
 4. Badlands Brief — "Badlands News Brief: Trump Sends Comms as Diddlers Get Indicted", URL: https://badlands.substack.com/p/badlands-news-brief-ce1
 5. Badlands Brief — "Disinformation is Necessary", URL: https://badlands.substack.com/p/disinformation-is-necessary
+
+## Anticipated venue for the purge of the Cabal (October 2024)
+
+An October 2024 Badlands Media essay by [[erik-carlson|Erik Carlson]] stated the author's belief that the Southern District of New York "is where a lot of the Cabal will meet their demise."[6] Carlson pointed to the recent arrest of New York City mayor [[eric-adams|Eric Adams]] as an opening move and predicted "many more to come," while questioning whether the case reflected patriot control of the Justice Department or retaliation against Adams for turning on the [[deep-state|Deep State]].[6] The district's role is framed in the essay as the judicial channel through which the prosecution of [[sean-combs|Sean "P Diddy" Combs]] would widen into [[mass-arrests|mass arrests]] of politicians, executives, and entertainers.[6]
+
+6. Badlands Brief — "The Great Purge of the Cabal Has Begun", URL: https://badlands.substack.com/p/the-great-purge-of-the-cabal-has

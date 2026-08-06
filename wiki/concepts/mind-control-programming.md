@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [mind-control, programming, hypnosis, ritual-abuse, dissociation]
-sources: [raw/gazing-into-the-abyss.md]
+sources: [raw/gazing-into-the-abyss.md, raw/the-deep-states-sinister-core.md]
 confidence: medium
 ---
 
@@ -26,5 +26,18 @@ Programming also enabled apparently inexplicable events among Miller's clients: 
 
 The article treats programming as inseparable from [[ritual-abuse|ritual abuse]], and follows the earlier Badlands piece "The Deep State's Sinister Core" by [[ryan-delarme|Ryan DeLarme]], which described Dr. James Randall Noblitt's initiation into the field.[1] It also points readers to a Ted Gunderson presentation on FBI files concerning alleged CIA involvement in satanic ritual abuse.[1]
 
+## The 1991 task force definition
+
+The earliest installment of the Badlands series roots the concept in the 1991 report of the [[los-angeles-county-commission-for-women-ritual-abuse-task-force|Los Angeles County Commission for Women's Ritual Abuse Task Force]], which called mind control "the cornerstone of ritual abuse, the key element in the subjugation and silencing of its victims."[2] The report described a rigorously applied system intended to rob victims of free will and impose the will of the cult and its leaders, achieved through brainwashing, programming, indoctrination, hypnosis and mind-altering drugs, with the aim of keeping the secret, enforcing conformity, and producing members who carry out directives without being detected in wider society.[2]
+
+## Trance and triggering
+
+Programming operates through [[psychogenic-triggers|psychogenic triggers]] — conditioned responses to keywords or visual stimuli installed by cult trainers or handlers.[2] Dr. [[james-randall-noblitt|James Randall Noblitt]] documented a hospital therapy group in which the phrase "deeper and deeper" put all four patients into a simultaneous trance, and found that occult geometric designs drawn by one dissociative patient could induce trance in another.[2] While in a trance state, victims are susceptible to prompts from anyone who knows the correct cue.[2]
+
+## Creating the substrate
+
+The precondition for programming is a fractured personality. Perpetrator groups are described as having studied how extreme childhood trauma splits a child's mind into compartments, making that fracturing the primary objective of [[ritual-abuse|ritual abuse]] and the perfect condition for mind control.[2] The resulting [[alter-personalities|alters]] can then be conditioned individually, including "enforcer" alters that deny the abuse and threaten the therapist.[2] Survivor testimony cited by Badlands suggests such work may be conducted on an industrial scale by corporate, political, military and intelligence personnel rather than only by isolated fanatics.[2]
+
 ## References
 1. Badlands Brief — "Gazing Into the Abyss pt.2: a Therapist's Tale", URL: https://badlands.substack.com/p/gazing-into-the-abyss
+2. Badlands Brief — "Gazing Into the Abyss pt.1", URL: https://badlands.substack.com/p/the-deep-states-sinister-core

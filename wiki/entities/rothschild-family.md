@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, central-banking, debt-system, cabal]
-sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-fbb.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-547.md, raw/cracks-in-the-curtain.md, raw/master-and-commander.md, raw/money-and-oil.md, raw/on-infiltration-and-israel.md, raw/q-for-dummies-chapter-18.md, raw/the-battle-for-control.md]
+sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-fbb.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-547.md, raw/cracks-in-the-curtain.md, raw/master-and-commander.md, raw/money-and-oil.md, raw/on-infiltration-and-israel.md, raw/q-for-dummies-chapter-18.md, raw/the-battle-for-control.md, raw/the-decade-we-all-became-slaves.md, raw/the-covfefe-dig.md, raw/the-harvard-control-grid.md, raw/the-illusion-of-democracy.md, raw/the-men-behind-the-curtain-part-5.md, raw/the-ivy-web.md, raw/the-master-builder.md]
 confidence: low
 ---
 
@@ -53,6 +53,18 @@ The May 2025 Badlands essay "On Infiltration and Israel" noted that the [[balfou
 
 Chapter 18 of the [[q-for-dummies|Q for Dummies]] series answers Q drop #119's question about which family's history predates the First and Second World Wars with the Rothschilds, and restates the maxim that all wars are bankers' wars.[9] The chapter connects the family to the [[bush-family|Bush family]], whose long association with the Rothschilds it offers as the explanation for the Bushes' public attacks on [[donald-trump|Donald Trump]], and invites readers to pursue that line of research themselves.[9]
 
+## Financing of banking and Hollywood
+
+Badlands Media commentary names the Rothschilds among the wealthy banking interests represented at the secret November 1910 [[jekyll-island-club|Jekyll Island Club]] meeting that drafted the plan behind the [[federal-reserve|Federal Reserve System]], alongside [[jp-morgan|J.P. Morgan]] and the Rockefellers.[11] The same article notes that the 2022 film *Babylon* includes a scene in which [[hollywood]] stars must flatter the Rothschilds, described as big financiers of Hollywood movies.[11]
+
+## The COVFEFE Dig
+
+"The COVFEFE Dig" (March 2023) cites the [[qanon|Q]] drop numbered 135 — read as a permutation of the article's 315 signal — as the first mention of Rothschild-owned and controlled banks, describing its content as covering all the central banks of the world and ending with the Federal Reserve and the IRS.[12] The family is invoked again in the dig's framing question of whether there was a plan to end the central bankers' and Rothschilds' [[petrodollar|petrodollar]].[12]
+
+## Harvard endowment connection
+
+"The Harvard Control Grid" identifies what it calls "the Rothschild connection" in Harvard's finances: [[timothy-barakett|Timothy Barakett]], chair of the [[harvard-management-company|Harvard Management Company]], co-founded [[atticus-capital|Atticus Capital]] with [[nathaniel-rothschild|Nathaniel Rothschild]].[13] The article describes the Rothschilds as a dynasty rooted in 19th-century European central banking with deep ties to the Bank of England and early capital influence in global mining and state formation, and says their stake in Davos politics, post-war reconstruction and World Bank/IMF guidance "overlaps directly with the ideological direction of HMC's elite."[13] Barakett's chairmanship is characterized as "no accident — it is inheritance."[13]
+
 ## References
 1. Badlands Brief — "Are CBDCs The Path To Fear, or Freedom?", URL: https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom
 2. Badlands Brief — "Unity, Patricide, & Political Violence", URL: https://badlands.substack.com/p/badlands-brief-fbb
@@ -77,3 +89,60 @@ On this account wars have been the family's biggest money maker ever since: they
 In "The Battle for Control," [[joe-lange|Joe Lange]] writes that the Rothschilds have lived for generations by the mantra that money is power and control, and identifies them as the family that has established and controlled central banks all over the world — the mechanism by which they have controlled governments and their peoples.[10] He adds that they have also started wars to protect those central banks, and names the [[war-of-1812|War of 1812]] as one such war.[10]
 
 10. Badlands Brief — "The Battle for Control", URL: https://badlands.substack.com/p/the-battle-for-control
+11. Badlands Brief — "The Decade We All Became Slaves", URL: https://badlands.substack.com/p/the-decade-we-all-became-slaves
+12. Badlands Brief — "The COVFEFE Dig", URL: https://badlands.substack.com/p/the-covfefe-dig
+13. Badlands Brief — "The Harvard Control Grid", URL: https://badlands.substack.com/p/the-harvard-control-grid
+
+## "+FLY+" and the chain of control
+
+In "Illusions of Democracy," [[joe-lange|Joe Lange]] identifies the Q marker "+FLY+" as a reference to the Rothschild family, which he says has controlled the global banking system for many generations going back to the Napoleonic wars.[14] He summarises the mechanism Q described as a chain: the Rothschilds control the banks, control of the banks gives them control of governments because it gives them control of their economies, and those governments are then used to control the people.[14] Alongside them he places [[alwaleed-bin-talal|Prince Alwaleed]], who he says controlled many key American politicians, and [[george-soros|George Soros]], who funded political organizations such as Antifa and BLM that a corrupt government continuously propped up with taxpayer money.[14]
+
+Lange adds that the Rothschilds, together with the [[international-monetary-fund|IMF]] and the corrupt US government, hate the competition posed by [[costa-rica|Costa Rica]]'s four state-owned banks and have been unable to do anything to eliminate that [[public-banking-option|public banking option]].[14]
+
+14. Badlands Brief — "Illusions of Democracy", URL: https://badlands.substack.com/p/the-illusion-of-democracy
+
+## "The Men Behind the Curtain" account of the dynasty
+
+The sixth installment of [[ryan-delarme|Ryan DeLarme]]'s series "The Men Behind the Curtain," published by [[badlands-media|Badlands Media]] on March 29, 2023, treats the Rothschilds as a "highly influential, clandestine faction of the Cabal," following earlier installments on the [[council-on-foreign-relations|Council on Foreign Relations]], the [[trilateral-commission|Trilateral Commission]], the [[world-economic-forum|World Economic Forum]], the [[bilderberg-group|Bilderberg Group]] and the Rockefellers.[15] DeLarme frames the family as much older than the great American dynasties and as historically intertwined with all of them, while arguing that what distinguishes his treatment is attention to the family's occult connections and to still older clandestine forces operating across Europe.[15]
+
+The article traces the dynasty to [[mayer-amschel-rothschild|Mayer Amschel Bauer]], born in Frankfurt's [[judengasse|Judengasse]] in 1744, who changed the family name to Rothschild after the German *zum rothen Schild*, "at the red shield," a reference to the sign on the house the family occupied for generations.[15] Mayer kept his eldest son in Frankfurt and dispatched four others to London, Paris, Vienna and Naples; the five were known as the "Frankfurt Five" and were schooled to further the family business loyally.[15] Family correspondence was written in Judendeutsch — German in Hebrew characters — a practice DeLarme says has kept most researchers from a clear understanding of the family's methods and intentions.[15]
+
+Citing biographer [[derek-wilson|Derek Wilson]], the piece says the family prospered because "they received before their rivals news of market trends, commodity prices, and major political events," and quotes *The New Encyclopaedia Britannica* to the effect that Mayer set the pattern of doing business with reigning houses by preference and fathering as many sons as possible.[15] Dissenting authors are cited for the claim that the initial fortune came from the diversion of money paid to [[william-ix-of-hesse-kassel|William IX]] by the British government for Hessian soldiers, funds Wilson conceded were "temporarily diverted" and enabled [[nathan-rothschild|Nathan]] to launch his London banking operation.[15]
+
+### Both sides of every war
+
+In 1815 the five brothers are said to have supplied gold to both Wellington's army, through Nathan in England, and Napoleon's army, through Jacob in France, beginning a policy of funding both sides of any war — war being described as a massive generator of risk-free debt, on the guarantee that the victor will honour the debts of the vanquished.[15] DeLarme notes the strategy was not original to the family but harkened back to the Lombards of Venice.[15] A private courier network let the family stay ahead of events, and Rothschild couriers alone were permitted through the French and English blockades.[15]
+
+### The Waterloo bond coup and the "gofers"
+
+The article recounts the story of the courier "Rothworth," who is said to have brought news of the British victory at Waterloo to Nathan a full day before Wellington's own messenger, enabling the celebrated consol sell-off and buy-back that returned roughly twenty to one and, in DeLarme's telling, gave the family control of the British economy and forced England to set up a new [[bank-of-england|Bank of England]].[15]
+
+Non-Jewish operatives were enlisted as fronts for the "Rothschild organization," among them [[jp-morgan|John Pierpont Morgan]], who made anti-Semitic remarks while furthering Rothschild goals in the United States during the Civil War.[15] [[g-edward-griffin|G. Edward Griffin]] is quoted arguing that whatever Morgan's private feelings, the Morgan–Rothschild relationship "was close, it was ongoing, and it was profitable to both."[15] Some authors, DeLarme notes, hold that the Morgans and Rockefellers were merely gofers for the Rothschilds, while others hold that the Rothschilds were themselves a front for interests in Geneva and for families descended from the [[venetian-black-nobility|Venetian Black Nobility]] and the Lombard banking dynasty.[15] He repeatedly stresses that "even these seemingly unrivaled Rothschilds were themselves being used by a much older and intensely more powerful order," naming agents of Venice and Geneva such as [[adam-weishaupt|Adam Weishaupt]], Giuseppe Mazzini, Antonio Schinella Conti and [[albert-pike|Albert Pike]].[15]
+
+### Intermarriage and the American branch
+
+Intermarriage is presented as a recurring theme of dynastic Cabal families, illustrated by historian Howard M. Sachar's account of Solomon Loeb and Abraham Kuhn marrying each other's sisters, [[jacob-schiff|Jacob Schiff]] becoming an instant partner by marrying Loeb's daughter, and two Sachs sons marrying two Goldman daughters.[15] In 1785 the Rothschilds shared quarters in Frankfurt with the Schiff family, whose descendant Jacob Schiff emigrated to America in 1865 and rose to head [[kuhn-loeb-and-co|Kuhn, Loeb & Company]], financing [[edward-h-harriman|Edward H. Harriman]]'s purchase of the Union Pacific.[15]
+
+### Nineteenth-century expansion
+
+Nathan is quoted declaring in 1815 that "the man who controls Britain's money supply controls the British Empire, and I control the British money supply," and boasting of multiplying his father's £20,000 stake 2,500 times to £50 million in seventeen years.[15] In 1816 Congress chartered the [[second-bank-of-the-united-states|Second Bank of the United States]], described as a Rothschild-dominated central bank; in 1821 Kalmann (Carl) Mayer Rothschild was sent to Naples, where his dealings with Pope Gregory XVI led by 1823 to the family taking over the financial operations of the Catholic Church worldwide.[15] The family also acquired rights to the Almadén quicksilver mines in Spain, giving it a near world monopoly over a substance vital to refining gold and silver.[15] After [[andrew-jackson|Andrew Jackson]] expelled the Second Bank, DeLarme writes, it was not until 1913 that the family established its third American central bank, the [[federal-reserve|Federal Reserve]], placing Jacob Schiff in charge of the project.[15]
+
+### On Zionism and anti-Semitism
+
+DeLarme devotes a lengthy authorial aside to rejecting the reduction of the High Cabal to "the Jews," distinguishing Hebrews (a Semitic race descended from Abraham that also includes most Arabs), Jews (adherents of Judaism) and [[zionism|Zionists]] (a political movement furthering the aims of the state of Israel) as three separate questions of race, religion and politics.[15] He argues that supporters of Zionism have long used the charge of anti-Semitism to deter criticism, quotes [[w-cleon-skousen|W. Cleon Skousen]] that it was "not any one race or religion but the passion for money and power" that drew the tycoons of world finance together, and traces the infiltration of Judaism to the ninth-century forced conversion of the [[khazaria|Khazars]], recommending Rabbi Marvin Antelman's *To Eliminate the Opiate*.[15] Biographer [[niall-ferguson|Niall Ferguson]] is cited for the family's cultivation of proximity to politicians and to British royalty, and for its closeness to Victorian statesmen including Gladstone, Disraeli, Balfour and Lord Randolph Churchill.[15]
+
+15. Badlands Brief — "The Men Behind the Curtain - Part 6", URL: https://badlands.substack.com/p/the-men-behind-the-curtain-part-5
+
+## Harvard-linked capital in "The Ivy Web"
+
+Badlands Media's "The Ivy Web" states that the Rothschild family, while less openly affiliated than the [[rockefeller-foundation|Rockefeller Foundation]], appears through partners in [[harvard-university|Harvard]]-linked capital vehicles, often via European fund management firms or NGO intermediaries.[16] The article credits both families with heavy influence over the formation of the [[world-bank|World Bank]], WHO-aligned public health agencies, and digital health certificate and biometric tracking pilot programs, many of which it traces to white papers produced in Harvard research labs.[16]
+
+16. Badlands Brief — "The Ivy Web", URL: https://badlands.substack.com/p/the-ivy-web
+
+## Loss of the Federal Reserve and retreat to Europe (Lange, 2023)
+
+Badlands Media's "The Master Builder" (February 2, 2023) asserts that the Rothschilds have lost control of the [[federal-reserve|Federal Reserve]] and the dollar, leaving their power diminished and concentrated in a single place: Europe.[17] [[joe-lange|Joe Lange]] argues that the family and an allied cabal of elites have controlled the global financial system into which people are born in debt slavery, and that [[donald-trump|Donald Trump]] is dismantling it through what the article calls a [[controlled-demolition-of-the-global-debt-system|controlled demolition]].[17]
+
+On this account the American subsidy of European defense through [[nato|NATO]] existed to benefit the European central banks the article attributes to the Rothschilds, and Trump ended it by forcing allies — [[germany|Germany]] above all — to pay their own way.[17] With rapid interest-rate increases from Trump's Federal Reserve, high inflation and a looming recession, and the boomerang effect of [[sanctions|sanctions]] on Russian energy, Lange contends that European central banks are being squeezed into requesting bailouts while the [[brics|BRICS]] coalition prepares an alternative system.[17]
+
+17. Badlands Media — "The Master Builder", URL: https://badlands.substack.com/p/the-master-builder

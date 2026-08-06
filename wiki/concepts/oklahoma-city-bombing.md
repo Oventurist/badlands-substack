@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [terrorism, ammonium-nitrate, history, domestic-attacks]
-sources: [raw/badlands-news-brief-409.md, raw/false-flags-and-the-occult.md]
+sources: [raw/badlands-news-brief-409.md, raw/false-flags-and-the-occult.md, raw/the-media-is-the-enemy-of-the-people.md]
 confidence: medium
 ---
 
@@ -30,3 +30,9 @@ In less than ninety minutes the prime suspect, [[timothy-mcveigh|Timothy McVeigh
 ## False flag interpretation
 
 The Badlands Media essay "False Flags and the Occult" argues that both the media and the authorities ignored eyewitness accounts of more than one bomb found in the debris, and that — as with the September 11th attacks on the World Trade Center six years later — the debris was carted off and destroyed before a thorough examination could be completed, leaving an official narrative that ran counter to reports on the ground as the account of record.[2] The article states that many researchers regard the event as a government-sponsored PSYOP, a [[false-flag-operation|false flag]], and notes that it fell within the forty-day [[season-of-sacrifice|season of sacrifice]] described by [[mark-passio|Mark Passio]], alongside the Waco massacre of April 19, 1993 and the Columbine shootings of April 20, 1999.[2]
+
+## Cited in Carlson's 1990s crackdown sequence (2024)
+
+[[erik-carlson|Erik Carlson]]'s September 17, 2024 essay places the mid-1990s Oklahoma City Bombing alongside [[ruby-ridge|Ruby Ridge]] and [[waco-siege|Waco]] as part of a pattern he says was designed to discredit and deter anti-government sentiment just as the internet went public.[3]
+
+3. Badlands Brief — "The Media is the Enemy of the People", URL: https://badlands.substack.com/p/the-media-is-the-enemy-of-the-people

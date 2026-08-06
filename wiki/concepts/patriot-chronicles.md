@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [badlands-media, history, american-revolution]
-sources: [raw/horseshoe-theory-part-1.md, raw/introducing-the-patriot-chronicles.md]
+sources: [raw/horseshoe-theory-part-1.md, raw/introducing-the-patriot-chronicles.md, raw/the-patriot-chronicles-francis-marion.md]
 confidence: medium
 ---
 
@@ -44,6 +44,13 @@ The author presented the series as "a digital kickstart" for [[donald-trump|Pres
 
 In an author's note, he observed that many of the introduction's images featured firearms and used the coincidence to reassert that firearms and the [[second-amendment|Second Amendment]] are a cornerstone of freedom and American culture, promising firearms as a recurring theme.[2] He closed with thanks to Jon, Kate and the Badlands crew, expressing the hope of igniting "the brushfires of freedom" in readers' hearts and minds.[2] A teaser headed "Beware of the Swamp…" previewed the first chapter: long before the emergence of the novel [[deep-state|Deep State]], the swamp belonged to "another apex predator," a phantom leading hardened veterans who personified the teachings of Sun Tzu and, armed with muskets and their wits, stopped the most powerful empire of the age at the most critical moment of the [[american-revolution|American Revolution]] — [[francis-marion|Francis Marion]], the subject of Part 1.[2]
 
+## Chapter One: Francis Marion (June 2023)
+
+The first full chapter, "The Patriot Chronicles - Francis Marion," subtitled "Chapter One: The Swamp Fox," was published on 26 June 2023 and treats [[francis-marion|Francis Marion]] as the founding father of the series.[3] It opens by arguing that [[mel-gibson|Mel Gibson]]'s film [[the-patriot-2000-film|The Patriot]] was originally written as a true story before British scholars pressured its producers into rebranding it as fiction, and declares "Today, we take it back."[3] The chapter narrates Marion's birth defect and shipwreck survival, his break with the [[continental-army|Continental Army]] at a Charleston cocktail party, the assembly of his multiethnic partisan band, his swamp strongholds such as [[snows-island|Snow's Island]], and his duel of wits with [[banastre-tarleton|Banastre Tarleton]] under [[charles-cornwallis|Cornwallis]]'s command.[3]
+
+The author closes each strand with contemporary application, arguing that Americans now fight the same two-front war as colonial South Carolina — a civil war between neighbors and an existential struggle against a subjugating oligarchy — and urging readers to build a coalition, become partisan guerrillas in the swamps of cyberspace, and wage [[fifth-generation-warfare|5GW]] counterinsurgency with humor and ridicule as weapons.[3] He states that the purpose of the series is not to convince readers to believe in him or his interpretation of history but to believe in themselves and in each other.[3] The chapter promises future installments on other South Carolina militia commanders and on [[gabriel-marion|Gabriel Marion]], and teases a following chapter on a naval captain under the heading "I have not yet begun to fight!"[3]
+
 ## References
 1. Badlands Brief — "Horseshoe Theory - Part 1", URL: https://badlands.substack.com/p/horseshoe-theory-part-1
 2. Badlands Brief — "Introducing 'The Patriot Chronicles'", URL: https://badlands.substack.com/p/introducing-the-patriot-chronicles
+3. Badlands Brief — "The Patriot Chronicles - Francis Marion", URL: https://badlands.substack.com/p/the-patriot-chronicles-francis-marion

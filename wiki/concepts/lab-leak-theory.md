@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [covid-origins, wuhan, gain-of-function, accountability]
-sources: [raw/badlands-brief-67a.md, raw/badlands-brief-d94.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-ca7.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-fbd.md]
+sources: [raw/badlands-brief-67a.md, raw/badlands-brief-d94.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-ca7.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-fbd.md, raw/the-information-imperium.md]
 confidence: medium
 ---
 
@@ -89,3 +89,9 @@ On April 30, 2025 the Chinese government issued [[2025-china-covid-origins-white
 Badlands commentary predicted that the Chinese narrative would incrementally lead back to Ukraine and the biological research facilities that [[victoria-nuland|Victoria Nuland]] acknowledged the United States had funded there, potentially implicating [[hunter-biden|Hunter Biden]], [[metabiota|Metabiota]] and [[rosemont-seneca|Rosemont Seneca]].[10]
 
 10. Badlands Brief - "Badlands News Brief: Covid, Kickbacks, & Credible Intelligence", URL: https://badlands.substack.com/p/badlands-news-brief-fbd
+
+## NewsGuard and the lab leak
+
+Badlands Media's "The Information Imperium" argues that [[newsguard|NewsGuard]] leaned hard into the "debunked conspiracy" framing of the lab leak hypothesis from 2020, awarding high scores - often 100/100 - to outlets that characterised the theory as a hoax or Russian disinformation, without independently rating the theory itself.[11] By mid-2021 the hypothesis had gained mainstream traction as Anthony Fauci softened his position, the WHO called for further investigation and Facebook reversed its ban on lab-leak posts, yet NewsGuard did not systematically revisit the ratings of outlets that had ruled it out; BuzzFeed News retained a perfect score despite early articles mocking the theory.[11] The article links this posture to NewsGuard's Department of Defense contracting and pharmaceutical-industry funding, and contrasts it with the 49.5/100 assigned to [[zerohedge|ZeroHedge]], which entertained the theory early.[11]
+
+11. Badlands Brief — "The Information Imperium", URL: https://badlands.substack.com/p/the-information-imperium

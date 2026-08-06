@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [bush-family, cia, venezuela, florida, banking, money-laundering]
-sources: [raw/a-family-affair.md, raw/never-let-a-crisis-go-to-waste.md, raw/nothing-is-as-it-appears.md, raw/president-trumps-call-to-arms.md, raw/profiting-from-war.md]
+sources: [raw/a-family-affair.md, raw/never-let-a-crisis-go-to-waste.md, raw/nothing-is-as-it-appears.md, raw/president-trumps-call-to-arms.md, raw/profiting-from-war.md, raw/the-legacy-of-george-hw-bush.md]
 confidence: medium
 ---
 
@@ -65,3 +65,9 @@ Jeb Bush was named by [[donald-trump|Donald Trump]] in the [[2023-trump-cpac-spe
 Jeb Bush publicly struck out to defend his late father, [[george-hw-bush|George H.W. Bush]], after [[donald-trump|Donald Trump]] initiated calls to investigate the 41st president.[3] At a rally in Arizona, Trump had attacked several former presidents for being guilty of the same act that earned him a visit from federal agents at his Mar-a-Lago resort — storing classified documents after leaving office.[3] The exchange forms part of what [[joe-lange|Joe Lange]] describes as Trump's willingness to take on the Bush family publicly in order to expose the [[two-tier-justice-system|two-tier justice system]] surrounding presidential records.[3]
 4. Badlands Brief — "President Trump's Call to Arms", URL: https://badlands.substack.com/p/president-trumps-call-to-arms
 4. Badlands Brief — "Profiting From War", URL: https://badlands.substack.com/p/profiting-from-war
+
+## Friendship with Raúl Salinas
+
+Before becoming governor of Florida, Jeb Bush was a close personal friend of [[raul-salinas-de-gortari|Raúl Salinas de Gortari]], the brother of Mexican president [[carlos-salinas-de-gortari|Carlos Salinas de Gortari]] and the man Swiss federal prosecutor Carla del Ponte identified as a "drug kingpin" and one of the main figures of the Mexican drug cartel in the 1990s.[5] Global Research reported that the two families spent vacations together for many years — the Salinases at Jeb Bush's home in Miami, the Bushes at Raúl's ranch, Las Mendocinas, in Puebla.[5] [[joe-lange|Joe Lange]] writes that the friendship originated with their fathers, [[george-hw-bush|George H.W. Bush]] and [[raul-salinas-lozano|Raúl Salinas Lozano]], who were "íntimo amigos," and questions whether Jeb could have been unaware of the family's cartel ties.[5] Lange announces that his following article will focus on Jeb Bush as his father's bagman.[5]
+
+5. Badlands Brief — "The Legacy Of George H.W. Bush", URL: https://badlands.substack.com/p/the-legacy-of-george-hw-bush

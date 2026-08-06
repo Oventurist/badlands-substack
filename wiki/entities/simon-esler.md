@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, contributor]
-sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-b5a.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-d8f.md, raw/child-sacrifice-as-a-pillar-of-deep.md, raw/gender-ideology-has-become-law.md, raw/how-your-western-brain-exposes-you.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-b5a.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-d8f.md, raw/child-sacrifice-as-a-pillar-of-deep.md, raw/gender-ideology-has-become-law.md, raw/how-your-western-brain-exposes-you.md, raw/the-hybridization-of-asymmetric-and.md, raw/the-post-secondary-psyop.md]
 confidence: low
 ---
 
@@ -93,4 +93,23 @@ The essay applied [[anthony-giddens|Anthony Giddens]]'s concept of [[disembeddin
 
 He linked the left hemisphere's preference for mechanistic models to [[scientism|scientism]], reductionism, bureaucratic expansion and what he called the woke agenda's sanitizing of the divine, and argued that much of the condition is a natural outcome of the Industrial Revolution rather than covert engineering.[12] Cautioning that the problem "runs much deeper than politics" and is not alleviated by being politically conservative, he concluded by naming doubt, uncertainty, intuition, contradiction, metaphor, holistic thinking, relationship with the divine and embodied local community as the hidden weapons of the citizen-turned-soldier: "Know the enemy's intent to weaponize your brain against you, and be free."[12] The piece carried the standard Badlands Media contributor disclaimer and directed readers to Esler's own Substack.[12]
 
+## Contribution to "The Hybridization of Asymmetric & Political Warfare" (2024)
+
+Esler assisted [[justin-deschamps|Justin Deschamps]] with the January 31, 2024 Badlands essay "The Hybridization of Asymmetric & Political Warfare."[13] An update appended to the piece credited Esler with having done "a lot of the ground work" and with providing the media examples that Deschamps said drove the article's points home, recommending readers review them.[13] A closing note repeated that Esler had assisted Deschamps with the piece.[13]
+
+The essay argued that [[asymmetric-warfare|asymmetric warfare]] and [[narrative-warfare|narrative warfare]] are fused within [[fifth-generation-warfare|fifth-generation warfare]], and applied that framework to the character assassination of [[donald-trump|Donald Trump]], the culture war over [[gender-ideology|gender ideology]], and the government of [[justin-trudeau|Justin Trudeau]] together with the [[canadian-anti-hate-network|Canadian Anti-Hate Network]].[13]
+
 12. Badlands Brief — "How Your Western Brain Exposes You to 5G Warfare", URL: https://badlands.substack.com/p/how-your-western-brain-exposes-you
+13. Badlands Brief — "The Hybridization of Asymmetric & Political Warfare", URL: https://badlands.substack.com/p/the-hybridization-of-asymmetric-and
+
+## "The Post Secondary PSYOP" (May 2024)
+
+On May 8, 2024, Esler published "The Post Secondary PSYOP," an essay reporting on a Toronto screening of the documentary [[the-coddling-of-the-american-mind|The Coddling of the American Mind]] organised by the Toronto chapter of the [[heterodox-academy|Heterodox Academy]], and arguing that campus unrest across North America is the product of Marxist ideological capture he termed the [[woke-mind-virus|Woke Mind Virus]].[14] He framed the [[2024-pro-palestinian-campus-protests|pro-Palestinian campus protests]] as a [[color-revolution|colour-revolution]]-style event timed to a US election year, citing a viral video of a protester who admitted she did not know why she was there beyond having been told to attend and chant the correct slogans.[14]
+
+Esler used the essay to comment on the film's distribution, noting that it marked [[substack|Substack]]'s first venture into documentary distribution and that its animators confirmed Substack took a minimal cut compared with other distributors — a contrast with his own film [[cut-film|CUT]], which he said numerous distributors rejected as "dangerous misinformation" or "too controversial."[14] He treated this as a step toward the parallel economy and censorship-free distribution.[14]
+
+Much of the piece recounted the case of [[leigh-rivers|Leigh Rivers]], a [[university-of-toronto|University of Toronto]] instructor sanctioned for running a [[spectrum-street-epistemology|Spectrum Street epistemology]] exercise, and the faculty testimony about student "accommodation letters" that Rivers first raised and a former [[ontario-college-of-art-and-design|Ontario College of Art and Design]] instructor confirmed.[14]
+
+Theoretically, Esler argued that [[ideological-subversion|ideological subversion]] should be recognised as a modern and subtler form of mind control than the trauma-based programmes associated with [[mk-ultra|MK Ultra]] survivor [[cathy-obrien|Cathy O'Brien]], requiring only slow multi-generational conditioning.[14] He held that [[detransitioners|detransitioners]] disprove [[yuri-bezmenov|Yuri Bezmenov]]'s claim that such subversion is cognitively inescapable, and that recovered students — whose accounts of escape he called literal [[fifth-generation-warfare|fifth-generation]] weaponry — are more valuable than those who never fell for the ideology.[14] He drew a parallel between the "autism genocide" narrative described by one student in the film and the "trans genocide" narrative he encountered while shooting [[canadas-red-shadow|Canada's Red Shadow]].[14] He closed by arguing that the rise of the academic class against the [[new-world-order|New World Order]] matters because ideas trickle down from such institutions, and that youth should be guided toward truth, reason, joy and purpose rather than coercion or censorship.[14]
+
+14. Badlands Brief — "The Post Secondary PSYOP", URL: https://badlands.substack.com/p/the-post-secondary-psyop

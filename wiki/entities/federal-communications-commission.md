@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fcc, broadcast, first-amendment, media, trump]
-sources: [raw/badlands-brief-1c6.md, raw/badlands-brief-7c6.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-12b.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-481.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-e48.md]
+sources: [raw/badlands-brief-1c6.md, raw/badlands-brief-7c6.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-12b.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-481.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-e48.md, raw/the-deep-states-attempt-to-destroy.md]
 confidence: medium
 ---
 
@@ -70,6 +70,12 @@ Suggestions by President [[donald-trump|Donald Trump]] and FCC Chairman [[brenda
 
 Badlands contributor [[chris-paul|Chris Paul]] argued that critics who profess indifference to the FCC when their own side holds power do so because the agency has always served the [[uniparty|Uniparty]].[12] He contended that the FCC is unconstitutional and should not exist, that the federal government does not own the airwaves, and that Americans should be able to defend themselves from "WORDS ON THE INTERNET" without recourse to the administrative state.[12]
 
+## Starlink Subsidy Denial (December 2023)
+
+On December 12, 2023, the Commission reaffirmed its 2022 refusal to award [[starlink]], the satellite internet unit of [[spacex]], $885.5 million in rural broadband subsidies, rejecting the company's appeal.[13] Chair [[jessica-rosenworcel|Jessica Rosenworcel]] stated that the agency "followed a careful legal, technical and policy review to determine that this applicant had failed to meet its burden," concluding that Starlink had not met basic program requirements and could not show it would deliver the promised service.[13] The FCC pointed to SpaceX's unsuccessful Starship launches, reasoning that "the uncertain nature of Starship's future launches could impact Starlink's ability to meet" its commitments.[13]
+
+The funding had originally been rescinded in August 2022 on the basis of speed-test data, after Starlink agreed to serve 642,000 rural homes and businesses in 35 states.[13] The two Republican members of the five-member Commission dissented, contending the FCC was improperly measuring SpaceX against 2025 targets three years in advance and implying that the Biden administration's animus toward [[elon-musk|Elon Musk]] shaped the outcome.[13] Badlands Media commentary treated the decision as part of a broader federal effort to damage Musk's companies financially and reputationally.[13]
+
 ## References
 
 1. Badlands Brief — "Spain Wins The [American] World Cup", URL: https://badlands.substack.com/p/badlands-brief-1c6
@@ -84,3 +90,4 @@ Badlands contributor [[chris-paul|Chris Paul]] argued that critics who profess i
 10. Badlands Brief — "Badlands News Brief: Marauding, Squirrel-Murdering Psychopaths Panic Ahead of the Election", URL: https://badlands.substack.com/p/badlands-news-brief-b01
 11. Badlands Brief — "Badlands News Brief: The System of Systems is a House of Cards", URL: https://badlands.substack.com/p/badlands-news-brief-cce
 12. Badlands Brief — "Energy Acceleration, Foreign Escalation, & Another Looming Shutdown", URL: https://badlands.substack.com/p/badlands-news-brief-e48
+13. Badlands Brief — "The Deep State's Attempt to Destroy Elon Musk", URL: https://badlands.substack.com/p/the-deep-states-attempt-to-destroy

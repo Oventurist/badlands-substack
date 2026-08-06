@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [artificial-intelligence, world-economic-forum, globalism, historian]
-sources: [raw/artificial-intelligence.md, raw/badlands-news-brief-5b2.md, raw/combating-the-transhumanist-religion.md, raw/soul-governance.md]
+sources: [raw/artificial-intelligence.md, raw/badlands-news-brief-5b2.md, raw/combating-the-transhumanist-religion.md, raw/soul-governance.md, raw/the-latest-in-technocratic-nightmares.md]
 confidence: medium
 ---
 
@@ -36,8 +36,13 @@ Ehret situates Harari's outlook in the [[cybernetics|cybernetics]] lineage of Ma
 
 The Badlands Media essay [[soul-governance|Soul Governance]] names Yuval Harari the "high priest of nihilism" of what it calls the digital grid, a religious order whose Vatican is the [[world-economic-forum|World Economic Forum]].[4] The essay treats his best-known assertions — that humans are hackable animals and that the soul is obsolete — as doctrinal claims aimed at sovereignty rather than at religion, arguing that a person persuaded his soul is obsolete ceases to be a threat to the system.[4]
 
+## "Surveillance under the skin"
+
+Badlands Media describes Harari as an adviser to [[world-economic-forum|World Economic Forum]] founder [[klaus-schwab|Klaus Schwab]] and credits him, among others, with popularizing the idea of taking "surveillance under the skin."[5] The article argues this is not an idle notion: there has been extensive discussion at WEF gatherings in Davos about implementing technology that harvests biometric data, with [[smart-clothing|smart clothing]] serving as a stepping stone — a bridge between the smartphone and an eventual push for a digital ID chip literally under the skin.[5] Harari is also named alongside [[bill-gates|Bill Gates]] and Schwab as an inheritor of the [[technocracy|technocratic]] tradition developed by [[zbigniew-brzezinski|Zbigniew Brzezinski]].[5]
+
 ## References
 1. Badlands Brief — "Artificial Intelligence", URL: https://badlands.substack.com/p/artificial-intelligence
 2. Badlands Brief — "Badlands News Brief: Sovereign Alliance Comms and Tapwater Goblins", URL: https://badlands.substack.com/p/badlands-news-brief-5b2
 3. Badlands Brief — "Combating the Transhumanist Religion", URL: https://badlands.substack.com/p/combating-the-transhumanist-religion
 4. Badlands Brief — "Soul Governance", URL: https://badlands.substack.com/p/soul-governance
+5. Badlands Brief — "The Latest in Technocratic Nightmares", URL: https://badlands.substack.com/p/the-latest-in-technocratic-nightmares

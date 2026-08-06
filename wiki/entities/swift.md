@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, banking, cbdc, payments]
-sources: [raw/badlands-news-brief-b60.md, raw/badlands-news-brief-e40.md, raw/control-the-financial-system-control.md, raw/shared-interests.md]
+sources: [raw/badlands-news-brief-b60.md, raw/badlands-news-brief-e40.md, raw/control-the-financial-system-control.md, raw/shared-interests.md, raw/the-covfefe-dig.md]
 confidence: medium
 ---
 
@@ -28,6 +28,10 @@ Badlands writer [[erik-carlson|Erik Carlson]] used the expulsion of Russia from 
 
 Invoking George Carlin's line that "it's a big club, and you ain't in it," Carlson wrote that Putin and Russia were kicked out of the club, and asked how a person or a nation can exist in a globalist world once cut off from the financial system.[3] His answer was that survival depends on preparedness: an unprepared party faces near-certain destruction, while a prepared one suffers serious discomfort but not societal collapse.[3] From this he concluded that any nation choosing to leave the system must have an alternative financial system already in place to transition to — the principle he applied to the United States under [[donald-trump|Donald Trump]].[3]
 
+## The COVFEFE Dig
+
+"The COVFEFE Dig" (March 2023) points to Russia's removal from international monetary systems including SWIFT as evidence that the existing financial order is fracturing.[5] [[gmoney|GMONEY]] connects the exclusion to Russia's pursuit, with China and other nations, of an alternative basket of currencies under the [[brics|BRICS]] alliance to compete with the [[petrodollar|petrodollar]].[5]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Baltimore Fallout Continues as Nickelodeon Exposes Itself", URL: https://badlands.substack.com/p/badlands-news-brief-b60
 2. Badlands News Brief — "Trump Lawsuits, Media Amnesty and Biden's Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-e40
@@ -40,3 +44,4 @@ Invoking George Carlin's line that "it's a big club, and you ain't in it," Carls
 Lange argued the move was anticipated: the Central Bank of Russia had built the [[spfs|SPFS]] messaging system in 2014, reaching 13 million messages and more than 400 member institutions by 2020 at roughly half SWIFT's tariffs, while the [[mir-payment-system|MIR]] card system covered domestic card payments.[4] China separately launched [[cips|CIPS]] in 2015 as its own SWIFT alternative, and in 2017 established a yuan–ruble payment-versus-payment mechanism allowing simultaneous settlement in two currencies — a system described as potentially rivaling SWIFT's monopoly and as a challenge to the [[petrodollar|petrodollar]].[4]
 
 4. Badlands Brief — "Shared Interests", URL: https://badlands.substack.com/p/shared-interests
+5. Badlands Brief — "The COVFEFE Dig", URL: https://badlands.substack.com/p/the-covfefe-dig

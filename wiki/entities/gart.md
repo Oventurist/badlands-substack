@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, event, conference]
-sources: [raw/a-look-at-recent-features-84d.md, raw/a-mysterious-masterclass-in-multi.md, raw/badlands-brief-8e2.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-5f2.md, raw/join-us-again-at-gart-deadwood.md, raw/last-call-for-gart-4-dallas.md]
+sources: [raw/a-look-at-recent-features-84d.md, raw/a-mysterious-masterclass-in-multi.md, raw/badlands-brief-8e2.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-5f2.md, raw/join-us-again-at-gart-deadwood.md, raw/last-call-for-gart-4-dallas.md, raw/the-great-american-restoration-tour-1af.md]
 confidence: low
 ---
 
@@ -52,6 +52,10 @@ At the time of the announcement VIP tickets were sold out, while full-weekend Ge
 
 A separate "Last Call" notice published on April 14, 2024 dated the full [[gart-4-dallas|GART 4: Dallas]] weekend as April 18–21, 2024, with the tour reaching Texas for the first time on Thursday, April 18, and identified the conference venue as the [[hilton-dallas-southlake|Hilton Dallas Southlake]].[8] The expected speaker list comprised [[jon-herold|Jon Herold]], [[kate-buckley|Kate Buckley]], [[zak-paine|Zak Paine]], [[chris-paul|Chris Paul]], [[patrick-gunnels|Patrick Gunnels]], [[just-human|Just Human]], [[canncon|CannCon]], [[gmoney|GMoney]], [[ashe-in-america|Ashe in America]], [[jordan-sather|Jordan Sather]], [[alpha-warrior|Alpha Warrior]], [[absolute-1776|Absolute1776]] and [[ghost-of-bph|Ghost of BPH]].[8] General Admission included a Friday night Welcome Reception plus breakfast and lunch all weekend, an extremely limited VIP package added a Thursday night dinner and meet-and-greet, and single-day tickets were released in limited quantity.[8]
 
+## GART 6: Myrtle Beach (November 2024)
+
+The sixth stop of the tour was announced on July 26, 2024 for November 14–17, 2024 in Myrtle Beach, South Carolina, with in-person and virtual tickets sold through the network's TicketSpice pages.[9] [[badlands-media|Badlands Media]] promoted it as a live, ticketed version of its shows featuring in-person speakers, live Q&A panels and meet-and-greets all weekend, and pitched the post-election timing to readers as a chance to be "among like-minded patriots in the aftermath" of November 5.[9] In-person tickets included a Friday night Welcome Reception plus breakfast and lunch across the weekend, with an optional VIP package adding a Thursday night dinner and meet-and-greet; virtual tickets carried a live stream of all three days of panels, months of replay access and an invitation to an exclusive "GART: Myrtle" [[telegram|Telegram]] chat.[9] See [[gart-6-myrtle-beach|GART 6: Myrtle Beach]].[9]
+
 ## References
 1. Badlands Brief — "A Look At Recent Features", URL: https://badlands.substack.com/p/a-look-at-recent-features
 2. Badlands Brief — "A Mysterious Masterclass in Multi Sensory Deception", URL: https://badlands.substack.com/p/a-mysterious-masterclass-in-multi
@@ -61,3 +65,4 @@ A separate "Last Call" notice published on April 14, 2024 dated the full [[gart-
 6. Badlands Brief — "Badlands News Brief: Double Comey Drama & Magic Moon Soil", URL: https://badlands.substack.com/p/badlands-news-brief-5f2
 7. Badlands Brief — "Join us (AGAIN!) at GART: Deadwood!", URL: https://badlands.substack.com/p/join-us-again-at-gart-deadwood
 8. Badlands Brief — "Last Call for GART 4: Dallas!", URL: https://badlands.substack.com/p/last-call-for-gart-4-dallas
+9. Badlands Brief — "The Great American Restoration Tour Continues!", URL: https://badlands.substack.com/p/the-great-american-restoration-tour-1af

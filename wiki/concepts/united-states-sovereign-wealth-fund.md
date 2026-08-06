@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [finance, trump-administration, tariffs, sovereign-wealth]
-sources: [raw/badlands-news-brief-4c4.md]
+sources: [raw/badlands-news-brief-4c4.md, raw/the-ivy-dominion.md]
 confidence: medium
 ---
 
@@ -24,6 +24,13 @@ Badlands contributor [[jon-herold|Jon Herold]] welcomed the announcement and hig
 
 [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] compared the initiative to the Saudi PIF, which is funded by proceeds from [[saudi-aramco|Aramco]] and underwrites much of the Saudi state, and argued that the United States had lacked such a fund because its government had long operated as an extractive criminal syndicate; he speculated that assets seized by executive order might be folded into the new fund.[1] [[chris-paul|Chris Paul]] read the announcement as a "#Drainage" communication as well.[1]
 
+## Proposed use in the Ivy Dominion essay
+
+The June 2025 Badlands Media essay "The Ivy Dominion" proposes the fund as a "counterstrike" mechanism for reclaiming assets shed by collapsing elite institutions.[2] It notes that [[donald-trump|President Donald Trump]] signed [[executive-order-14196|Executive Order 14196]] on February 3, 2025, titled "A Plan for Establishing a United States Sovereign Wealth Fund," tasking the Secretaries of the Treasury and Commerce, in coordination with the Assistant to the President for Economic Policy, with developing a comprehensive plan for the fund.[2]
+
+The article envisions a transparent, citizen-governed fund grounded in constitutional accountability that would acquire distressed endowment properties, real estate holdings, research portfolios, patent libraries, vacant [[ivy-league|Ivy League]] satellite campuses, federally subsidized intellectual property and data infrastructure tied to behavioral research programs.[2] Proceeds would fund decentralized education initiatives, free-speech platforms and independent media, regenerative agriculture and sovereign food systems, and taxpayer dividend structures.[2] Unlike the sovereign funds of Norway, Singapore and the UAE, the author argues, a post-Dominion fund would operate as a "citizen dividend trust" immune to ideological capture, drawing on Executive Orders [[executive-order-13818|13818]] and [[executive-order-13848|13848]] as the legal basis for intercepting seized assets rather than letting courts dismantle them piecemeal.[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Sovereign Statehood, Tariff Triumphs, & Intersectional Insubordination", URL: https://badlands.substack.com/p/badlands-news-brief-4c4
+2. Badlands Brief — "The Ivy Dominion", URL: https://badlands.substack.com/p/the-ivy-dominion

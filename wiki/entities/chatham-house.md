@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [think-tank, united-kingdom, iran, color-revolution]
-sources: [raw/badlands-brief-d9f.md, raw/canadas-transition-to-collectivist.md, raw/poison-fruit-of-the-decision-tree.md]
+sources: [raw/badlands-brief-d9f.md, raw/canadas-transition-to-collectivist.md, raw/poison-fruit-of-the-decision-tree.md, raw/the-harvard-control-grid.md, raw/the-men-behind-the-curtain-part-1.md, raw/the-men-behind-the-curtain-part-4.md]
 confidence: medium
 ---
 
@@ -30,8 +30,23 @@ In the May 2023 essay "Poison Fruit of the Decision Tree," Badlands Media contri
 
 Deschamps devoted a section of the essay to the institute's best-known contribution to the conduct of closed meetings, the [[chatham-house-rule|Chatham House Rule]], quoting its formulation that participants are free to use the information received but may not reveal the identity or affiliation of any speaker or other participant.[3] He argued that in effect the rule allows government officeholders to conspire with people they should not, because it does not conform to the spirit of the [[sunshine-act|Government in the Sunshine Act]], which exists so that voters can keep an eye on their elected officials rather than to provide privacy to officeholders.[3] He applied the same criticism to the annual [[bilderberg|Bilderberg]] meetings and any gathering conducted on similar terms.[3]
 
+## Harvard connection
+
+"The Harvard Control Grid" describes Chatham House as the UK equivalent of the [[council-on-foreign-relations|CFR]] and "a hub for former UK defense officials, MI6-linked analysts, and European central bankers," providing intellectual justification for sanctions, regime change and financial reengineering.[4] The article notes that [[rick-slocum|Rick Slocum]], chief investment officer of the [[harvard-management-company|Harvard Management Company]], is a Chatham House member, which it says brings Harvard "into close alignment with British foreign policy thought" and post-imperial British geopolitical networks.[4]
+
+## Origins at the Paris Peace Conference
+
+Ryan DeLarme's "The Men Behind the Curtain - Part 1" traces the institution's founding to the 1919 [[paris-peace-conference|Paris Peace Conference]], where [[edward-mandell-house|Edward Mandell House]] met British and American delegates at Paris's Majestic Hotel on May 30 and resolved to create an "Institute of International Affairs" with branches in both England and the United States.[5] The English branch became the Royal Institute of International Affairs, known today as Chatham House, while the American branch was incorporated as the [[council-on-foreign-relations|Council on Foreign Relations]].[5] DeLarme presents the twin institutes as a fallback plan after the U.S. Senate refused to ratify the covenant creating the [[league-of-nations|League of Nations]], allowing their founders to pursue internationalist objectives away from public scrutiny.[5]
+
+## Alleged role in founding the Bilderberg Group
+
+Part 4 of DeLarme's series returns to the institute in connection with the [[bilderberg-group|Bilderberg Group]], quoting former intelligence officer [[john-coleman|Dr. John Coleman]]'s claim that "The Bilderberg Conference is the creation of MI6 under the direction of the Royal Institute of International Affairs."[6] DeLarme reiterates that the Royal Institute of International Affairs, or Chatham House, is the British extension of the [[council-on-foreign-relations|Council on Foreign Relations]], and argues that given the U.S. intelligence connections it can legitimately be argued the Bilderberg conferences were at least partially organised and sponsored by the [[cia|CIA]].[6] He also notes that Bilderberg chairman [[peter-carrington|Lord Peter Carrington]] served as president of the Royal Institute of International Affairs, which he describes as a sister organization to the CFR.[6]
+
 ## References
 
 1. Badlands Brief — "Dueling Color Revolutions, Economic Escalation, & Superseding Somali Scams", URL: https://badlands.substack.com/p/badlands-brief-d9f
 2. Badlands Brief — "Canada's Transition to Collectivist Green Dystopia", URL: https://badlands.substack.com/p/canadas-transition-to-collectivist
 3. Badlands Brief — "Poison Fruit of the Decision Tree", URL: https://badlands.substack.com/p/poison-fruit-of-the-decision-tree
+4. Badlands Brief — "The Harvard Control Grid", URL: https://badlands.substack.com/p/the-harvard-control-grid
+5. Badlands Brief — "The Men Behind the Curtain - Part 1", URL: https://badlands.substack.com/p/the-men-behind-the-curtain-part-1
+6. Badlands Brief — "The Men Behind the Curtain - Part 4", URL: https://badlands.substack.com/p/the-men-behind-the-curtain-part-4

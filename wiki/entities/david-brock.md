@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, democratic-party, operative, media-matters]
-sources: [raw/a-cancer-on-modern-journalism.md, raw/from-ye-to-oy-vey.md]
+sources: [raw/a-cancer-on-modern-journalism.md, raw/from-ye-to-oy-vey.md, raw/the-language-of-control.md]
 confidence: medium
 ---
 
@@ -35,3 +35,11 @@ The essay also noted that Brock's former long-term boyfriend was [[james-alefant
 ## References
 1. Badlands Brief — "A Cancer on Modern Journalism", URL: https://badlands.substack.com/p/a-cancer-on-modern-journalism
 2. Badlands Brief — "From Ye to Oy Vey!", URL: https://badlands.substack.com/p/from-ye-to-oy-vey
+
+## Named as a "rule of law" operative (2025)
+
+Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] listed Brock — identified as the founder of [[media-matters-for-america|Media Matters]], a lawyer and a Democrat operative — among the figures who fit the mold of a [[rule-of-law|"rule of law"]] henchman, alongside elections lawyer [[marc-elias|Marc Elias]] and [[american-civil-liberties-union|ACLU]] executive director [[anthony-romero|Anthony Romero]].[3]
+
+DeLarme's argument was that operatives of this type work beyond the level of district attorneys and prosecutors, creating legal frameworks, running "rule of law programs" and organizing [[lawfare|lawfare]] campaigns intended to blunt populist political movements.[3]
+
+3. Badlands Media — "The Language of Control", URL: https://badlands.substack.com/p/the-language-of-control

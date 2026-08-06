@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [journalism, twitter-files, censorship, congress]
-sources: [raw/badlands-news-brief-25e.md]
+sources: [raw/badlands-news-brief-25e.md, raw/the-information-imperium.md]
 confidence: high
 ---
 
@@ -25,3 +25,9 @@ The hearing's stated subject was the weaponization of censorship against the Ame
 ## References
 
 1. Badlands Brief — "Badlands News Brief: So-Called Journalists & Trump's Demise?", URL: https://badlands.substack.com/p/badlands-news-brief-25e
+
+## Testimony on NewsGuard and GDI (2023)
+
+At the 2023 Weaponization of the Federal Government hearings, Rep. [[matt-gaetz|Matt Gaetz]] asked Shellenberger "Who is NewsGuard?"; he replied that "both the Global Disinformation Index and NewsGuard are U.S. government-funded entities who are working to drive advertisers' revenue away from disfavored publications and towards the ones they favor."[2] Badlands Media's "The Information Imperium" cites the exchange as a concise statement of how [[newsguard|NewsGuard]] and the [[global-disinformation-index|Global Disinformation Index]] convert ratings into financial pressure on dissenting outlets.[2]
+
+2. Badlands Brief — "The Information Imperium", URL: https://badlands.substack.com/p/the-information-imperium

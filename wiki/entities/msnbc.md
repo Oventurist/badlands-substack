@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, mainstream-media, cable-news]
-sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-ba4.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-ba4.md, raw/the-media-is-the-enemy-of-the-people.md]
 confidence: medium
 ---
 
@@ -55,3 +55,9 @@ On August 21, 2023, MSNBC host [[alicia-menendez|Alicia Menendez]] asked guest [
 5. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e
 6. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6
 7. Badlands Brief — "Badlands News Brief: Trump's Slings and Arrows ... Hunter's Threats", URL: https://badlands.substack.com/p/badlands-news-brief-ba4
+
+## Cited as a non-business media outlet (Carlson, 2024)
+
+In "The Media is the Enemy of the People" (September 17, 2024), [[erik-carlson|Erik Carlson]] cited MSNBC with [[cnn|CNN]] and [[fox-news|Fox News]] as networks whose survival despite collapsing ratings demonstrates that they are instruments of manipulation rather than commercial enterprises.[8]
+
+8. Badlands Brief — "The Media is the Enemy of the People", URL: https://badlands.substack.com/p/the-media-is-the-enemy-of-the-people

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ukraine, israel, taiwan, congress, foreign-aid, 2024]
-sources: [raw/badlands-news-brief-a57.md, raw/badlands-news-brief-c0b.md]
+sources: [raw/badlands-news-brief-a57.md, raw/badlands-news-brief-c0b.md, raw/the-immediate-benefits-of-jd-vance.md]
 confidence: medium
 ---
 
@@ -33,3 +33,11 @@ Johnson planned to put four separate bills on the floor, decoupling aid for Isra
 ## References
 1. Badlands Brief — "Badlands News Brief: The Uniparty Celebrates as Warmongers Grow Desperate", URL: https://badlands.substack.com/p/badlands-news-brief-a57
 2. Badlands Brief — "Badlands News Brief: Jurors Judged, Faces Saved & Memes Made", URL: https://badlands.substack.com/p/badlands-news-brief-c0b
+
+## Senate vote and the Vance dissent
+
+Badlands Media later revisited the $95 billion package in its coverage of the 2024 vice-presidential selection, describing it as a bill arming Ukraine, Israel and Taiwan that effectively stimulated the [[military-industrial-complex|military-industrial complex]] and prolonged the war in Ukraine, where [[volodymyr-zelensky|Volodymyr Zelensky]] was fighting Russia with a conscripted army of reluctant soldiers.[3] The measure also carried a provision aimed at banning [[tiktok|TikTok]], which the outlet argued handed the federal government a dangerous precedent for unilaterally banning social media platforms on murky grounds — a precedent it warned could later be applied to Rumble, X or Substack.[3]
+
+[[jd-vance|JD Vance]] was one of only fifteen Republican senators to vote against the package, which passed the Senate overwhelmingly.[3] Badlands characterized it as a quintessential establishment bloat bill whose "bipartisan support" reflected the establishment wings of both parties converging at the expense of their constituents, and cited Vance's dissent as evidence of a genuine ideological opposition to the funding of endless wars.[3]
+
+3. Badlands Media — "The Immediate Benefits of JD Vance as Trump's VP", URL: https://badlands.substack.com/p/the-immediate-benefits-of-jd-vance

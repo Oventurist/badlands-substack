@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ukraine, color-revolution, regime-change, elections, ngo]
-sources: [raw/how-to-rent-a-riot-the-history-of.md]
+sources: [raw/how-to-rent-a-riot-the-history-of.md, raw/the-information-imperium.md]
 confidence: medium
 ---
 
@@ -34,3 +34,9 @@ The article calls the revolution's success pyrrhic: Yushchenko's government frac
 
 ## References
 1. Badlands Media — "How to Rent a Riot - The History of 'Nonviolence'", URL: https://badlands.substack.com/p/how-to-rent-a-riot-the-history-of
+
+## Internews and the media groundwork
+
+Badlands Media's "The Information Imperium" argues that the 2004 uprising was preceded by years of Western media investment in Ukraine: by 2001 [[internews|Internews]] had reportedly trained 1,900 journalists and supported 203 television stations and 126 radio outlets reaching 50 million viewers and 18 million listeners, though the article concedes these figures are hard to verify.[2] This activity is described as synchronised with the [[national-endowment-for-democracy|National Endowment for Democracy]]'s push to orient Ukraine westward, with the [[national-democratic-institute|NDI]] and [[international-republican-institute|IRI]] coaching the "spontaneous" uprising while Internews amplified pro-U.S. voices.[2]
+
+2. Badlands Brief — "The Information Imperium", URL: https://badlands.substack.com/p/the-information-imperium

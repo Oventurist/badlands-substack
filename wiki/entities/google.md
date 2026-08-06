@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [technology, ai, big-tech, badlands-news-brief]
-sources: [raw/badlands-news-brief-001.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-880.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-b65.md, raw/badlands-news-brief-b7b.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-f76.md, raw/badlands-news-brief-f44.md, raw/badlands-news-brief-fcd.md, raw/dark-equation.md, raw/everything-is-connected.md, raw/spear-of-justice.md]
+sources: [raw/badlands-news-brief-001.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-880.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-b65.md, raw/badlands-news-brief-b7b.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-f76.md, raw/badlands-news-brief-f44.md, raw/badlands-news-brief-fcd.md, raw/dark-equation.md, raw/everything-is-connected.md, raw/spear-of-justice.md, raw/the-media-is-the-enemy-of-the-people.md]
 confidence: medium
 ---
 
@@ -148,3 +148,9 @@ Former Google chief executive [[eric-schmidt|Eric Schmidt]] is described as chai
 20. Badlands Brief — "Dark Equation", URL: https://badlands.substack.com/p/dark-equation
 21. Badlands Brief — "Everything Is Connected", URL: https://badlands.substack.com/p/everything-is-connected
 22. Badlands Brief — "Spear of Justice: Ken Paxton and the Bleeding Edge", URL: https://badlands.substack.com/p/spear-of-justice
+
+## Alleged CIA origins and funding (Carlson, 2024)
+
+[[erik-carlson|Erik Carlson]]'s September 17, 2024 essay claims Google exists because the [[central-intelligence-agency|CIA]] created its technology and funds it, with its purpose being to control what is found online while collecting personal information for the agency.[23] Carlson questions how a search engine earns money from users at all, comparing it to Starbucks profiting from someone who uses its Wi-Fi and bathroom without buying anything, and argues advertising provides cover for revenues that actually originate with the CIA.[23]
+
+23. Badlands Brief — "The Media is the Enemy of the People", URL: https://badlands.substack.com/p/the-media-is-the-enemy-of-the-people

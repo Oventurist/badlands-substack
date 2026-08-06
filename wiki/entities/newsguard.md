@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, misinformation, ratings, censorship]
-sources: [raw/badlands-news-brief-110.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-890.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-c9d.md]
+sources: [raw/badlands-news-brief-110.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-890.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-c9d.md, raw/the-danger-to-their-democracy.md, raw/the-information-imperium.md]
 confidence: medium
 ---
 
@@ -51,3 +51,25 @@ Badlands contributor [[ashe-in-america|Ashe in America]] argued that the episode
 3. Badlands Brief — "Absurdity and MAGAMania as the Year Winds Down", URL: https://badlands.substack.com/p/badlands-news-brief-890
 4. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6
 5. Badlands Brief — "Biden Wanders, Putin Ponders & Ukraine Launders", URL: https://badlands.substack.com/p/badlands-news-brief-c9d
+
+## Partnership with Democracy Forward
+
+[[badlands-media|Badlands Media]] contributor [[ryan-delarme|Ryan DeLarme]] reported in January 2024 that [[microsoft|Microsoft]]'s [[democracy-forward|Democracy Forward]] initiative had partnered with NewsGuard, which he characterized as "an organization that pretends to be a media fact-checker" while rewarding outlets that pay lip service to establishment narratives and slamming those that do not.[6] He placed the partnership within a broader pattern of institutions adopting the language of "[[danger-to-our-democracy|protecting our democracy]]" while, in his account, policing dissent.[6]
+
+6. Badlands Brief — "The 'Danger to Their Democracy'", URL: https://badlands.substack.com/p/the-danger-to-their-democracy
+
+## Founders, advisory board and funding
+
+NewsGuard was co-founded by [[steven-brill|Steven Brill]], a Yale Law graduate and veteran media entrepreneur, and [[l-gordon-crovitz|L. Gordon Crovitz]], who previously ran the Wall Street Journal's publisher arm; both are described as having deep ties to corporate media, the [[state-department|State Department]] and the [[pentagon|Pentagon]].[7] Its advisory board includes former NSA and CIA director [[michael-hayden|Michael Hayden]], former Education Secretary [[arne-duncan|Arne Duncan]], former Homeland Security Secretary [[tom-ridge|Tom Ridge]] and former State Department official [[richard-stengel|Richard Stengel]], who once described his own role as that of "chief propagandist."[7] The company markets itself as the "global leader in information reliability," has rated more than 6,000 websites, and its extension is used by over 700 libraries in the United States and Europe.[7] Beyond its Department of Defense contracting, it has also received substantial funding from pharmaceutical interests.[7]
+
+## Ratings asymmetries
+
+Of the ten largest U.S. newspapers, USA Today, the New York Times, the Washington Post, the Los Angeles Times, the Tampa Bay Times, the Chicago Tribune, the Minneapolis Star Tribune and the Wall Street Journal all received perfect scores of 100, while Newsday scored 92.5 for not disclosing its financing and the [[new-york-post|New York Post]] received 75 after failing all four transparency categories.[7]
+
+On the [[hunter-biden-laptop|Hunter Biden laptop]] story, co-CEO Brill called the New York Post's October 2020 reporting a "hoax," echoing the claim that it was Russian disinformation; after the laptop's authenticity was conceded in 2022, NewsGuard downgraded [[the-daily-beast|The Daily Beast]] from 87.5/100 to 57/100 while Axios, BuzzFeed News, USA Today and the Washington Post retained perfect 100/100 scores despite having voiced the same skepticism.[7] A parallel pattern is alleged over the [[lab-leak-theory|COVID-19 lab leak theory]]: NewsGuard awarded high marks to outlets that dismissed the hypothesis as a hoax or Russian disinformation in 2020, and did not systematically revisit those ratings after the theory gained mainstream traction by mid-2021, even as smaller outlets such as [[zerohedge|ZeroHedge]] (49.5/100) that entertained it early were labelled unreliable.[7]
+
+## Congressional testimony (2023)
+
+During the 2023 Weaponization of the Federal Government hearings, Rep. [[matt-gaetz|Matt Gaetz]] asked journalist [[michael-shellenberger|Michael Shellenberger]] "Who is NewsGuard?", to which Shellenberger replied that "both the Global Disinformation Index and NewsGuard are U.S. government-funded entities who are working to drive advertisers' revenue away from disfavored publications and towards the ones they favor."[7] Badlands Media's "The Information Imperium" places NewsGuard alongside [[internews|Internews]] as the two principal media-facing arms of the [[usaid|USAID]]–[[national-endowment-for-democracy|NED]]–[[central-intelligence-agency|CIA]] nexus, with Internews shaping narratives abroad and NewsGuard policing them at home.[7]
+
+7. Badlands Brief — "The Information Imperium", URL: https://badlands.substack.com/p/the-information-imperium

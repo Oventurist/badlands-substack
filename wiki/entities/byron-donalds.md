@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republican, florida, elections]
-sources: [raw/badlands-brief-7c6.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-f23.md]
+sources: [raw/badlands-brief-7c6.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-f23.md, raw/the-overdrive-timeline.md]
 confidence: medium
 ---
 
@@ -30,3 +30,9 @@ On Thursday night, February 20, 2025, President [[donald-trump|Donald Trump]] po
 1. Badlands Brief — "The Democratization of Narrative Distribution. And a New War with Iran.", URL: https://badlands.substack.com/p/badlands-brief-7c6
 2. Badlands Brief — "Badlands News Brief: Escalation ... Acceleration ... and Biden", URL: https://badlands.substack.com/p/badlands-news-brief-0f0
 3. Badlands Brief — "Badlands News Brief: Narrow Confirmations & Unaccountable Cops", URL: https://badlands.substack.com/p/badlands-news-brief-f23
+
+## January 2023 speakership concessions
+
+Following the [[january-2023-mccarthy-concessions|January 2023 McCarthy concessions]], [[kevin-mccarthy|Kevin McCarthy]] named Donalds the "speaker's designee" on the influential Steering Committee, which decides which lawmakers receive committee gavels and seats.[4] Donalds also won a coveted spot on the [[house-financial-services-committee|Financial Services Committee]], described as a top "A" committee on Capitol Hill.[4]
+
+4. Badlands Brief — "The Overdrive Timeline", URL: https://badlands.substack.com/p/the-overdrive-timeline

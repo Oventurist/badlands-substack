@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [aclu, civil-liberties, litigation, immigration]
-sources: [raw/badlands-news-brief-a6c.md]
+sources: [raw/badlands-news-brief-a6c.md, raw/the-language-of-control.md]
 confidence: medium
 ---
 
@@ -18,3 +18,17 @@ Badlands Media commentary characterized the suit — filed alongside a separate 
 
 ## References
 1. Badlands Brief — "Badlands News Brief: An Avalanche of Action & A Triple Front Freeze", URL: https://badlands.substack.com/p/badlands-news-brief-a6c
+
+## The "firewall for freedom" plan (2024–2025)
+
+In "The Language of Control," Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] named Romero — alongside elections lawyer [[marc-elias|Marc Elias]] and Media Matters founder [[david-brock|David Brock]] — as a figure who "fits the mold" of a [[rule-of-law|"rule of law"]] operative: a lawyer using legal expertise to preserve establishment power.[2]
+
+DeLarme recounted that in early December 2024, after the presidential election but before the inauguration, Romero appeared on [[rachel-maddow|Rachel Maddow]]'s [[msnbc|MSNBC]] program and outlined a plan he and others were developing.[2] Romero described enlisting local governments — state attorneys general, governors, mayors and city councils — in what he called a "firewall for freedom," arguing that although federal authorities possessed the legal power to conduct immigration raids and deport hundreds of thousands or up to a million people, the logistics would require local cooperation over police officers and jail space.[2] He added that his organization was "preparing executive orders" and "organizing our folks to put pressure on these elected officials."[2]
+
+DeLarme treated the segment as a paradigmatic example of legal knowledge combined with textbook [[color-revolution|color revolution]] tactics being used to prevent [[donald-trump|Donald Trump]] from delivering what the author called his most popular campaign promise.[2] He characterized the [[american-civil-liberties-union|ACLU]] here as an NGO "deeply tied to the college of deep political institutions" working to undermine the democratic process, arguing that whether one favors mass deportations is irrelevant because it is what voters chose, and that a "legal mafia" impeding a democratically elected president is repugnant to the concept of democracy.[2]
+
+## Foundation background
+
+DeLarme noted that Romero's career began at the [[rockefeller-foundation|Rockefeller Foundation]], which he called a "deep political proving ground," and that Romero also had a tenure at the [[ford-foundation|Ford Foundation]], described as a similarly CIA-adjacent institution.[2]
+
+2. Badlands Media — "The Language of Control", URL: https://badlands.substack.com/p/the-language-of-control

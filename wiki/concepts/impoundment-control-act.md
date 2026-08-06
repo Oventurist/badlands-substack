@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [law, appropriations, executive-power, usaid]
-sources: [raw/badlands-news-brief-cff.md]
+sources: [raw/badlands-news-brief-cff.md, raw/the-ongoing-betrayal-of-the-gop.md]
 confidence: medium
 ---
 
@@ -22,3 +22,9 @@ The decision reversed a February order by U.S. District Judge [[amir-ali|Amir Al
 
 ## References
 1. Badlands Brief — "Letters of Credence, More Evidence of Treason, & Allegedly Super-Intelligent AI", URL: https://badlands.substack.com/p/badlands-news-brief-cff
+
+## Invoked in the NED funding litigation (2025)
+
+After the Trump administration used a January 2025 executive order to freeze foreign-assistance funding, including $167 million in congressionally appropriated funds for the [[national-endowment-for-democracy|National Endowment for Democracy]], the endowment sued, alleging the freeze violated the Impoundment Control Act of 1974.[2] The [[state-department|State Department]] began restoring access to the funds in March 2025 under legal pressure, and on August 11, 2025 judge [[dabney-friedrich|Dabney L. Friedrich]] granted a preliminary injunction releasing a further $95 million.[2]
+
+2. Badlands Brief — "The Ongoing Betrayal of the GOP", URL: https://badlands.substack.com/p/the-ongoing-betrayal-of-the-gop

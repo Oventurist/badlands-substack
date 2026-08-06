@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [journalist, investigative-journalism, deep-state, surveillance]
-sources: [raw/days-of-thunder.md, raw/false-flags-and-the-occult.md]
+sources: [raw/days-of-thunder.md, raw/false-flags-and-the-occult.md, raw/the-maxwells-mossad-and-a-digital.md]
 confidence: medium
 ---
 
@@ -30,3 +30,9 @@ Webb is frequently grouped with fellow independent journalist [[michael-tracey|M
 ## One Nation Under Blackmail
 
 Webb's book *One Nation Under Blackmail* is cited in the March 2023 Badlands essay "False Flags and the Occult" as revealing the shady and government-endorsed relationship between organized crime, government, banking and the intelligence community.[2] [[justin-deschamps|Justin Deschamps]] summarized her thesis as showing that criminal cartels do not merely take advantage of the banking system but work directly with it to manufacture chaos, which governments then enact legislation to solve, charging taxpayers top dollar in the process — a scheme he described as having become the foundation of all modern nations.[2] The citation anchors the article's broader argument that [[false-flag-operation|false flag]] events serve a banking-governmental industrial complex.[2]
+
+## On Jeffrey Epstein's role
+
+Ryan DeLarme's May 2024 feature quotes Webb's characterization of [[jeffrey-epstein|Jeffrey Epstein]] as "not just a sex criminal, that's what they want to paint him as exclusively; he was a financial criminal who dabbled in sex crimes."[3] DeLarme extends the point, arguing that even "financial criminal" understates Epstein's role as a key executive in the vaguely labelled world of "transnational organized crime," an integral part of the amorphous [[deep-state|deep state]].[3] He cites Webb's *One Nation Under Blackmail* for the proposition that the marriage between organized crime and the intelligence community is one of the most critical yet best kept secrets in the West.[3]
+
+3. Badlands Brief - "The Maxwells, Mossad and a Digital Panopticon", URL: https://badlands.substack.com/p/the-maxwells-mossad-and-a-digital

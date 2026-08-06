@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [social-media, free-speech, elon-musk, big-tech]
-sources: [raw/badlands-news-brief-090.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-908.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-d50.md, raw/has-trumps-whole-life-been-a-sting.md, raw/q-for-dummies-chapter-18.md, raw/reset-the-space-reset-society.md, raw/the-banking-revolution-is-underway.md]
+sources: [raw/badlands-news-brief-090.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-908.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-d50.md, raw/has-trumps-whole-life-been-a-sting.md, raw/q-for-dummies-chapter-18.md, raw/reset-the-space-reset-society.md, raw/the-banking-revolution-is-underway.md, raw/the-media-is-the-enemy-of-the-people.md]
 confidence: medium
 ---
 
@@ -104,3 +104,9 @@ A June 15, 2024 Badlands feature by [[erik-carlson|Erik Carlson]] argued that [[
 12. Badlands Brief — "Q for Dummies - Chapter 18", URL: https://badlands.substack.com/p/q-for-dummies-chapter-18
 13. Badlands Media — "The Great Reset the Space: A New Frontier for American Community", raw/reset-the-space-reset-society.md
 14. Badlands Brief — "The Banking Revolution Is Underway", URL: https://badlands.substack.com/p/the-banking-revolution-is-underway
+
+## Advertising collapse after the Musk purchase (Carlson, 2024)
+
+[[erik-carlson|Erik Carlson]]'s September 17, 2024 essay recounts that [[elon-musk|Elon Musk]] lost roughly 60% of Twitter's advertising immediately after buying the platform, and that subsequent disclosures showed how involved the [[fbi|FBI]] and [[central-intelligence-agency|CIA]] had been in controlling speech, shadow banning users and removing others.[15] Carlson treats the coincidence of the agencies' expulsion and the advertising collapse as support for his claim that advertising functions as a CIA laundering and control mechanism.[15]
+
+15. Badlands Brief — "The Media is the Enemy of the People", URL: https://badlands.substack.com/p/the-media-is-the-enemy-of-the-people

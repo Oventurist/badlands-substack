@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [first-lady, melania-trump, artificial-intelligence]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-285.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-d74.md, raw/project-trump-card.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-285.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-d74.md, raw/project-trump-card.md, raw/the-covfefe-dig.md, raw/the-master-builder.md]
 confidence: medium
 ---
 
@@ -52,6 +52,10 @@ In a memoir released on September 17, 2024, [[hillary-clinton|Hillary Clinton]] 
 
 Badlands commentary defended Melania sharply against the characterization, with contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] describing his response as restrained out of respect for her.[8]
 
+## The COVFEFE Dig
+
+"The COVFEFE Dig" (March 2023) cites a January 2022 post by Melania Trump marking the thirteenth anniversary of the [[bitcoin|Bitcoin]] genesis block, in which she noted that Bitcoin's market capitalisation was widely reported to exceed one trillion dollars and used the hashtags #SatoshiNakamoto and #MelaniaNFT.[12] [[gmoney|GMONEY]] offers the post as evidence that the Trump family's public stance on Bitcoin was more favourable than [[donald-trump|Donald Trump]]'s 2019 dismissal suggested.[12]
+
 ## References
 
 1. Badlands Brief — "Arctic Escalation and Tropic Trouble for the Financial System", URL: https://badlands.substack.com/p/badlands-brief-02a
@@ -81,3 +85,10 @@ In December 2021 Melania Trump announced an NFT titled "Melania's Vision," sold 
 [[badlands-media|Badlands Media]] contributor [[kitty-gillespie|Kitty Gillespie]] noted that the launch fell on December 16, 2021, one day shy of a year before Donald Trump's own [[trump-digital-trading-cards|Trump Digital Trading Cards]] drop of December 15, 2022, and argued that both releases functioned to normalize [[digital-wallets|digital wallets]] among ordinary Americans ahead of a shift away from [[fiat-currency|fiat currency]].[11]
 
 11. Badlands Brief — "Project Trump Card", URL: https://badlands.substack.com/p/project-trump-card
+12. Badlands Brief — "The COVFEFE Dig", URL: https://badlands.substack.com/p/the-covfefe-dig
+
+## The 2017 Beijing visit (Lange, 2023)
+
+Badlands Media's "The Master Builder" (February 2, 2023) records that when [[donald-trump|Donald Trump]] and Melania Trump landed in the Chinese capital in November 2017, they joined [[xi-jinping|Xi Jinping]] and his wife Peng Liyuan for a tour of the [[forbidden-city|Forbidden City]], the palace that housed Chinese emperors for almost five hundred years.[13] The accompanying official dinner inside the palace was, according to CNN, an honor not granted to any U.S. president since the founding of the People's Republic of China, and formed part of what ambassador [[cui-tiankai|Cui Tiankai]] had promised would be a "state visit-plus."[13]
+
+13. Badlands Media — "The Master Builder", URL: https://badlands.substack.com/p/the-master-builder

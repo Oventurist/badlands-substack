@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [mossad, israel, nuclear, espionage, apollo-affair]
-sources: [raw/badlands-news-brief-ea6.md]
+sources: [raw/badlands-news-brief-ea6.md, raw/the-maxwells-mossad-and-a-digital.md]
 confidence: medium
 ---
 
@@ -22,3 +22,11 @@ Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] used the E
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Trump-a-Mania Rages On, Brother!", raw/badlands-news-brief-ea6.md
+
+## PROMIS and Lekem
+
+At the time of the [[promis-software|PROMIS software]] affair Eitan was serving as head of [[lekem|Lekem]], the Israeli Bureau of Scientific Relations, and is described by Badlands as a legendary spymaster whose career spanned the [[israel-defense-forces|IDF]], [[mossad|Mossad]], Lekem and advisory work for [[mi6|MI6]].[2] He was first introduced to PROMIS by [[earl-brian|Earl Brian]], a former CIA covert operations officer then building a business empire in which the wife of Attorney General [[edwin-meese-iii|Edwin Meese III]] was a major investor.[2] Brian and Eitan devised the plan to install a "trapdoor" or backdoor in the software and sell it across the globe, giving Israel and allied elements of the U.S. security state a digital peephole into the affairs of enemies and allies while raking in profits.[2]
+
+The first attempt failed: the Eitan-Brian-Meese collaboration went badly and led to the bankruptcy of [[inslaw|Inslaw]].[2] Eitan then approached [[robert-maxwell|Robert Maxwell]], whose marketing of PROMIS through [[degem-systems|Degem Systems]] and other Maxwell-owned firms proved highly successful.[2] Eitan specifically tasked Maxwell with selling PROMIS to the U.S. laboratories of the Los Alamos complex, including [[sandia-national-laboratories|Sandia National Laboratory]], in 1984 - the same year as Eitan's most notable controversy, his handling of [[jonathan-pollard|Jonathan Pollard]].[2]
+
+2. Badlands Brief - "The Maxwells, Mossad and a Digital Panopticon", URL: https://badlands.substack.com/p/the-maxwells-mossad-and-a-digital

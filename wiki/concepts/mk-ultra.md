@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [mk-ultra, cia, mind-control, trauma, declassified-documents]
-sources: [raw/child-sacrifice-as-a-pillar-of-deep.md, raw/four-pillars-of-government-control.md, raw/john-bobby-and-marilyn.md, raw/on-ted-kaczynski-and-false-prophets.md, raw/patsies-of-the-cia-and-fbi.md, raw/real-patriots-dont-think-like-hitler-111.md, raw/scholars-and-spooks.md, raw/structures-of-control-part-3.md]
+sources: [raw/child-sacrifice-as-a-pillar-of-deep.md, raw/four-pillars-of-government-control.md, raw/john-bobby-and-marilyn.md, raw/on-ted-kaczynski-and-false-prophets.md, raw/patsies-of-the-cia-and-fbi.md, raw/real-patriots-dont-think-like-hitler-111.md, raw/scholars-and-spooks.md, raw/structures-of-control-part-3.md, raw/the-cia-is-being-thrown-under-the.md, raw/the-inversion-of-health.md]
 confidence: medium
 ---
 
@@ -77,3 +77,17 @@ Part 3 of Badlands Media's *Structures of Control* series invokes MKUltra as its
 6. Badlands Brief — "Real Patriots Don't Think Like Hitler - Part 4", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-111
 7. Badlands Brief — "Scholars and Spooks", URL: https://badlands.substack.com/p/scholars-and-spooks
 8. Badlands Brief — "Structures of Control - Part 3", URL: https://badlands.substack.com/p/structures-of-control-part-3
+
+## Cited as evidence of original intent (Carlson, 2024)
+
+Erik Carlson's "The CIA is Being Thrown Under the Bus" cites the launch of MK Ultra in 1953 as one of three early proofs that the [[central-intelligence-agency|CIA]] was never designed as a force for good, alongside the agency's role in establishing the State of Israel a year after its own creation and the overthrow of the Iranian government in the same year, 1953.[9]
+
+For Carlson the near-simultaneity of these operations refutes the idea that the agency was created to protect American liberties and only later lost its way.[9]
+
+9. Badlands Brief — "The CIA is Being Thrown Under the Bus", URL: https://badlands.substack.com/p/the-cia-is-being-thrown-under-the
+
+## Kinsey connection
+
+In "The Inversion of Health," [[ryan-delarme|Ryan DeLarme]] notes that Dr. [[ewen-cameron|Ewen Cameron]], the CIA-funded mind control doctor who ran the MKULTRA program, was among the intimates of the Rockefeller-funded sex researcher [[alfred-kinsey|Alfred Kinsey]].[10]
+
+10. Badlands Brief — "The Inversion of Health", URL: https://badlands.substack.com/p/the-inversion-of-health

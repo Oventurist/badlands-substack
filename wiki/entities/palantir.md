@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [defense-tech, surveillance, military-industrial-complex]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-brief-861.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-355.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-ac6.md, raw/badlands-news-brief-d50.md, raw/badlands-news-brief-f76.md, raw/dark-equation.md, raw/q-for-dummies-chapter-22.md, raw/spear-of-justice.md, raw/soul-governance.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-brief-861.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-355.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-ac6.md, raw/badlands-news-brief-d50.md, raw/badlands-news-brief-f76.md, raw/dark-equation.md, raw/q-for-dummies-chapter-22.md, raw/spear-of-justice.md, raw/soul-governance.md, raw/the-ivy-dominion.md, raw/the-ivy-web.md]
 confidence: low
 ---
 
@@ -83,3 +83,15 @@ Chapter 22 of the "Q for Dummies" series read Palantir's messaging around the De
 10. Badlands Brief — "Q for Dummies - Chapter 22", URL: https://badlands.substack.com/p/q-for-dummies-chapter-22
 11. Badlands Brief — "Spear of Justice: Ken Paxton and the Bleeding Edge", URL: https://badlands.substack.com/p/spear-of-justice
 12. Badlands Brief — "Soul Governance", URL: https://badlands.substack.com/p/soul-governance
+
+## Cited in the Ivy Dominion essay
+
+The June 2025 Badlands Media essay "The Ivy Dominion" names Palantir, alongside [[in-q-tel|In-Q-Tel]] and [[google|Google]] AI, as a destination for alumni of [[dartmouth-college|Dartmouth College]]'s [[sphinx-society|Sphinx Society]], describing the company as part of a behavioral governance layer that conditions rather than merely surveils populations.[13] Dartmouth-linked initiatives with Palantir are said to focus on predictive modeling, social sentiment analysis and cognitive engineering, backed by [[darpa|DARPA]]-linked contracts, in what the article calls the construction of "the digital cage" of the [[ivy-dominion|Ivy Dominion]].[13]
+
+13. Badlands Brief — "The Ivy Dominion", URL: https://badlands.substack.com/p/the-ivy-dominion
+
+## Harvard partnership allegation
+
+Badlands Media's "The Ivy Web" names Palantir, together with the [[mitre-corporation|MITRE Corporation]] and the [[world-health-organization|World Health Organization]], among the organizations with which [[harvard-university|Harvard University]] formed high-level partnerships during the period the article describes as its pivot from academia to applied surveillance.[14] These pre-pandemic preparedness simulations and strategic research contracts are said to have produced much of the infrastructure later used for lockdown modeling, behavioral nudging and contact tracing.[14]
+
+14. Badlands Brief — "The Ivy Web", URL: https://badlands.substack.com/p/the-ivy-web

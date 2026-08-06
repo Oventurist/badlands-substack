@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [medicine, physicians, h-1b, immigration, healthcare-workforce]
-sources: [raw/badlands-news-brief-09b.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-df1.md, raw/four-pillars-of-government-control.md, raw/the-decade-we-all-became-slaves.md]
+sources: [raw/badlands-news-brief-09b.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-df1.md, raw/four-pillars-of-government-control.md, raw/the-decade-we-all-became-slaves.md, raw/the-inversion-of-health.md, raw/the-men-behind-the-curtain-part-4-2a8.md]
 confidence: medium
 ---
 
@@ -45,3 +45,19 @@ In his December 2024 essay on the four pillars of government control, Badlands c
 
 4. Badlands Brief — "Four Pillars of Government Control", URL: https://badlands.substack.com/p/four-pillars-of-government-control
 5. Badlands Brief — "The Decade We All Became Slaves", URL: https://badlands.substack.com/p/the-decade-we-all-became-slaves
+
+## The Simmons era and the Flexner Report
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] dates the AMA's rise to 1899, when [[george-h-simmons|George H. Simmons]] began a twenty-five-year tenure as its head at a moment when the association was weak, poor and little respected, chiropractic had just entered the mainstream, homeopathy was thriving and herbalists were flourishing.[6] Simmons hired [[joseph-n-mccormack|Joseph McCormack]] of the Kentucky State Board of Health to "rouse the profession to lobby," and under McCormack the AMA grew its ranks while preaching ethics — not competing with other physicians, not publishing prices — and denouncing rivals as "quackery."[6]
+
+In 1904 Simmons established the AMA's Council on Medical Education, ostensibly to upgrade medical education but in practice to rank the country's medical schools under dubious guidelines.[6] The AMA exhausted its funds in 1910, and the Rockefeller and Carnegie foundations financed completion of the survey by [[abraham-flexner|Abraham Flexner]]; the AMA's head of the Council on Medical Education travelled with him during the inspections.[6] The resulting [[flexner-report|Flexner Report]] made an approved M.D. degree the precondition of employment as a physician, driving more than 10,000 herbalists out of business by 1925, closing all homeopathic schools by 1950 and leading to the prosecution of over 1,500 chiropractors for "quackery" by 1940.[6]
+
+6. Badlands Brief — "The Inversion of Health", URL: https://badlands.substack.com/p/the-inversion-of-health
+
+## The Rockefeller-Carnegie restructuring
+
+"The Men Behind the Curtain – Part 5" repeats and extends this account, dating [[george-h-simmons|George H. Simmons]]'s twenty-five-year leadership from 1899 and stressing that state governments were then reluctant to restrict the various healing arts, so Simmons hired [[joseph-n-mccormack|Joseph McCormack]] of the Kentucky State Board of Health to rouse the profession to lobby.[7] After the AMA ran out of money in 1910, the Rockefeller and Carnegie foundations created an education fund to complete the school-ranking project, and [[simon-flexner|Simon Flexner]] of the [[rockefeller-institute|Rockefeller Institute]] proposed his brother [[abraham-flexner|Abraham Flexner]] — who knew nothing about medicine — for the work.[7] The plan was to restructure the AMA and to certify medical schools solely on Flexner's recommendations, with the AMA's head of the Council on Medical Education travelling alongside him.[7]
+
+The article argues the outcome created the pharmaceutical industry as it exists today, biasing M.D.s toward synthetic drug therapy and leaving them taught almost nothing about nutrition, wellness or disease prevention — studying disease rather than health.[7] It further contends the arrangement served [[eugenics|eugenic]] ends, with population control an unspoken element.[7]
+
+7. Badlands Brief — "The Men Behind the Curtain - Part 5", URL: https://badlands.substack.com/p/the-men-behind-the-curtain-part-4-2a8

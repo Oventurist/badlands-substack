@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [eurodollar, offshore-banking, city-of-london, money-laundering, interest-rates]
-sources: [raw/dope-inc.md, raw/is-jerome-powell-a-patriot.md]
+sources: [raw/dope-inc.md, raw/is-jerome-powell-a-patriot.md, raw/the-new-marshall-plan.md]
 confidence: medium
 ---
 
@@ -28,6 +28,15 @@ In an April 2023 essay, Erik Carlson drew a simple distinction: US dollars are d
 
 Carlson argued that since [[jerome-powell|Jerome Powell]] began raising interest rates in 2022, US dollar futures rose from $98 to $103 while Eurodollar futures fell from $99 to $95 — a $9 relative swing he read as deep state money being crushed and American money strengthened.[2] He speculated that [[donald-trump|Donald Trump]] may have "jump started inflation by sending out COVID checks" precisely to create an excuse for aggressive rate hikes, and compared the effect to Trump's corporate tax cuts, which drew American business money back into the country.[2]
 
+## Definition and offshore character
+
+In an October 2023 essay Carlson stressed the distinction between the Eurodollar and the Euro: the Euro is the shared currency used by twenty European countries, whereas Eurodollars are US dollars held overseas in foreign banks and offshore accounts.[3] Because they sit outside the United States they are subject neither to US taxation nor to Federal Reserve regulation.[3] Carlson poses the question of whether a criminal organization would rather hide money in US dollars inside the US banking system or in Eurodollars in a Cayman Islands account, arguing that until recently such organizations enjoyed the best of both worlds — the strength of the dollar combined with non-taxable, non-transparent offshore custody.[3]
+
+## Relationship to the Marshall Plan and Ukraine
+
+Carlson traces the Eurodollar's birth to the [[marshall-plan|Marshall Plan]], arguing that the plan's real purpose was the consolidation of power, the creation of [[nato|NATO]], and the filling of offshore accounts with Eurodollars rather than humanitarian relief.[3] He applies the same reading to the war in Ukraine, contending that most of the money appropriated never reaches the war-torn land and is instead diverted into offshore accounts as Eurodollars, with the [[cabal|Cabal]] shifting funds abroad while the war is strung along.[3]
+
 ## References
 1. Badlands Brief — "Dope, Inc.", URL: https://badlands.substack.com/p/dope-inc
 2. Badlands Brief — "Is Jerome Powell a Patriot?", URL: https://badlands.substack.com/p/is-jerome-powell-a-patriot
+3. Badlands Brief — "The 'New' Marshall Plan", URL: https://badlands.substack.com/p/the-new-marshall-plan

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, conservative-media, television]
-sources: [raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-ea7.md, raw/badlands-news-brief-f1d.md]
+sources: [raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-ea7.md, raw/badlands-news-brief-f1d.md, raw/the-exploitation-of-charlie-kirk.md]
 confidence: medium
 ---
 
@@ -39,3 +39,9 @@ In a Sunday interview on Newsmax in March 2023, attorney [[alan-dershowitz|Alan 
 ## Dominion defamation settlement
 
 In August 2025 Newsmax agreed to settle the defamation case brought against it by [[dominion-voting-systems|Dominion Voting Systems]] for $67 million, the most recent of several large settlements the voting-machine company won from news organizations after the 2020 election.[5] It followed Fox News Channel's $787.5 million settlement of a similar suit in 2023, and the settlements were recalled in coverage of Dominion's October 2025 sale and rebranding as [[liberty-vote|Liberty Vote]].[5]
+
+## Netanyahu appearance after the Kirk assassination (September 2025)
+
+In "The Exploitation of Charlie Kirk," [[ryan-delarme|Ryan DeLarme]] reported that Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] followed his [[fox-news|Fox News]] appearance with an interview on Newsmax, again invoking a letter he said [[charlie-kirk|Charlie Kirk]] had written to him in May 2025.[6] DeLarme noted circulating claims from people close to Kirk that the letter had been wildly distorted or taken out of context, and argued that making it public would dispel the accusations.[6]
+
+6. Badlands Brief — "The Exploitation of Charlie Kirk", URL: https://badlands.substack.com/p/the-exploitation-of-charlie-kirk

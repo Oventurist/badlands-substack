@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, intelligence, security-services]
-sources: [raw/badlands-news-brief-08a.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-889.md, raw/operation-cyclone-the-seeds-of-terror.md]
+sources: [raw/badlands-news-brief-08a.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-889.md, raw/operation-cyclone-the-seeds-of-terror.md, raw/the-maxwells-mossad-and-a-digital.md]
 confidence: medium
 ---
 
@@ -48,3 +48,9 @@ Badlands Media notes that [[isser-harel|Isser Harel]] was the founding director 
 3. Badlands News Brief — "SCOTUS Drama and (Altered) Deals Shake Up the Week", URL: https://badlands.substack.com/p/badlands-news-brief-4e1
 4. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889
 5. Badlands Brief — "Operation Cyclone - The Seeds of Terror", URL: https://badlands.substack.com/p/operation-cyclone-the-seeds-of-terror
+
+## Place in the Israeli intelligence community
+
+Badlands Media's May 2024 survey of Israeli intelligence describes Shabak, or Shin Bet, as the body responsible for internal security, operating alongside [[mossad|Mossad]] for external intelligence and covert operations and Aman for military intelligence.[6] The same account notes the former existence of [[lekem|Lekem]], the Israeli Bureau of Scientific Relations, which handled scientific and technical intelligence before its disbandment in 1986.[6]
+
+6. Badlands Brief - "The Maxwells, Mossad and a Digital Panopticon", URL: https://badlands.substack.com/p/the-maxwells-mossad-and-a-digital

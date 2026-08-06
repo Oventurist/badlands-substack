@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [monetary-policy, central-banking, inflation]
-sources: [raw/1913.md, raw/a-week-to-remember.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-news-brief-6b6.md, raw/project-trump-card.md]
+sources: [raw/1913.md, raw/a-week-to-remember.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-news-brief-6b6.md, raw/project-trump-card.md, raw/the-midas-touch.md]
 confidence: medium
 ---
 
@@ -46,3 +46,10 @@ Gillespie read [[donald-trump|Donald Trump]]'s remark in the NFT unveiling video
 3. Badlands Brief — "Are CBDCs The Path To Fear, or Freedom?", URL: https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom
 4. Badlands Brief — "Badlands News Brief: The Wheels of Justice Roll On", URL: https://badlands.substack.com/p/badlands-news-brief-6b6
 5. Badlands Brief — "Project Trump Card", URL: https://badlands.substack.com/p/project-trump-card
+6. Badlands Brief — "The Midas Touch", URL: https://badlands.substack.com/p/the-midas-touch
+
+## Constitutional objection and the end of the fiat system
+
+In "The Midas Touch," Joe Lange argues that the global debt slavery system run with fiat currencies is coming to an end and that everyone in finance knows it, which is why central banks are buying gold rather than holding paper.[6] Citing Dean Clancy's reading of the Constitution's monetary clauses, he notes that unbacked banknotes are what the Constitution calls "bills of credit," that such money is forbidden to both federal and state governments, and therefore that Federal Reserve Notes cannot lawfully be legal tender.[6] Only gold and silver coins, and notes freely redeemable in and fully backed by such coins, may serve as legal tender under this reading — the basic unit being a dollar of 371.25 grains of pure silver.[6]
+
+Lange adds that inflation under fiat money destroys savings and has driven credit card debt sharply higher, and that removing state sales taxes on gold and silver treats the metals as money rather than commodities, creating competition that he expects to drive out the depreciating [[federal-reserve|Federal Reserve]] note under a reverse [[greshams-law|Gresham's Law]] effect.[6]

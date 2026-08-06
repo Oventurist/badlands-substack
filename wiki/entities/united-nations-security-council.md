@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [united-nations, diplomacy, russia, ukraine, nuclear]
-sources: [raw/badlands-brief-fbb.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-d6a.md]
+sources: [raw/badlands-brief-fbb.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-d6a.md, raw/the-enduring-legacy-of-the-entente.md]
 confidence: medium
 ---
 
@@ -70,3 +70,11 @@ Badlands contributor [[burning-bright|Burning Bright]] described the veto as par
 8. Badlands News Brief — "Biden Bumbles & Narrative Whiplash Abounds", URL: https://badlands.substack.com/p/badlands-news-brief-6f0
 9. Badlands Brief — "Trump's Ballot Battles, Racist Mockingbirds and Dying DEI", URL: https://badlands.substack.com/p/badlands-news-brief-788
 10. Badlands Brief — "Badlands News Brief: Toothless Sanctions and Ouroboros Patterns", URL: https://badlands.substack.com/p/badlands-news-brief-d6a
+
+## Veto power and calls for abolition
+
+[[matthew-ehret|Matthew Ehret]] describes the Security Council as among the few institutions of the [[united-nations|United Nations]] that gave an equal voice to leading members on both sides of the Iron Curtain, noting that especially since 2011 its veto power has been vital in blocking unilateral acts of imperialism, since any official military intervention required unanimity among the five permanent members.[11] He argues the Council's existence has unarguably saved the lives of millions by blocking countless attempts to destroy Syria and continues to serve as a wedge against unipolar ambitions.[11]
+
+Against this, [[mark-malloch-brown|Lord Mark Malloch Brown]] — who integrated the [[responsibility-to-protect|Responsibility to Protect]] doctrine into the UN while serving as Undersecretary General — has spent recent years calling for the dissolution of the Security Council in order to remove "authoritarian nations" such as Russia and China from any role in global war-making decisions.[11]
+
+11. Badlands Brief — "The Enduring Legacy of the Entente Cordiale", URL: https://badlands.substack.com/p/the-enduring-legacy-of-the-entente

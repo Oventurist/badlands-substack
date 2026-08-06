@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [republican-party, colorado, congress, primary-elections]
-sources: [raw/badlands-brief-311.md, raw/badlands-brief-52f.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-bed.md, raw/badlands-news-brief-d45.md]
+sources: [raw/badlands-brief-311.md, raw/badlands-brief-52f.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-bed.md, raw/badlands-news-brief-d45.md, raw/the-overdrive-timeline.md]
 confidence: low
 ---
 
@@ -50,3 +50,9 @@ In February 2023 Boebert introduced the [[elon-act|ELON Act]], described as Hous
 5. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
 6. Badlands Brief — "Badlands News Brief: Immigration Dominates Headlines as Devo Proofs Abound", URL: https://badlands.substack.com/p/badlands-news-brief-bed
 7. Badlands Media — "Badlands News Brief: Biden's Health, J6 Justice & Balloon Brigades", URL: https://badlands.substack.com/p/badlands-news-brief-d45
+
+## January 2023 speakership concessions
+
+As one of the January 2023 holdouts, Boebert was awarded a seat on the [[house-oversight-committee|Oversight and Accountability Committee]], which planned to launch numerous investigations into the [[joe-biden|Biden]] administration, and continued to serve on the Natural Resources panel.[8] Erik Carlson counted her among the America First members positioned by the [[january-2023-mccarthy-concessions|McCarthy concessions]] to investigate the [[deep-state|Deep State]].[8]
+
+8. Badlands Brief — "The Overdrive Timeline", URL: https://badlands.substack.com/p/the-overdrive-timeline

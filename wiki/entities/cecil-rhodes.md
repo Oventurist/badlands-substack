@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [british-empire, rhodes-scholarship, secret-societies]
-sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-adc.md, raw/canadas-transition-to-collectivist.md, raw/real-patriots-dont-think-like-hitler-6fc.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-adc.md, raw/canadas-transition-to-collectivist.md, raw/real-patriots-dont-think-like-hitler-6fc.md, raw/the-deep-state-empire-strikes-back.md]
 confidence: medium
 ---
 
@@ -38,3 +38,15 @@ Part 6 of the "Real Patriots Don't Think Like Hitler" series states that the sec
 [[leo-amery]] is described as a believer in this Rhodesian vision, declaring that "the Empire is not external to any of the British nation. It is something like the Kingdom of Heaven within ourselves."[4] The article reads [[henry-kissinger]]'s recruitment into William Yandell Elliott's Round Table operation at Harvard, his allegiance to Chatham House in London and New York, and his 2012 remark that "in 10 years, there will be no more Israel" as "nothing less than an admission of allegiance to a new Templar order."[4] It also argues that British intelligence's simultaneous sponsorship of Islamist movements and of the most militant Zionist ideologues was unified by one principle: maintaining global dominance for the Church of the British Empire.[4]
 
 4. Badlands Brief — "Real Patriots Don't Think Like Hitler - Part 6: 'Greater Israel' as a British Imperial Project", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-6fc
+
+## The 1877 manifesto and the Round Table
+
+Badlands contributor Matthew Ehret dates Rhodes' founding manifesto to London in 1877, when Rhodes called for the extension of British rule throughout the world and ultimately the "recovery of the United States of America as an integral part of the British Empire."[5] Rhodes' instrument would not be military conquest but an elite managerial class trained in British institutions, funded through the Rhodes Trust, and spread across the globe as ideological missionaries.[5]
+
+In the manifesto Rhodes proposed to "form the same kind of society a Church for the extension of the British Empire," with members placed at universities and schools who would identify "perhaps one in every thousand" English youths fit for the object, test them for endurance and eloquence, bind them by oath for life, and send them to whichever part of the Empire needed them.[5]
+
+Ehret identifies this as the genesis of the [[round-table-movement|Round Table Movement]], built by Rhodes and continued by Lord [[alfred-milner|Alfred Milner]], Philip Kerr, George Parkin, Leo Amery and Lionel Curtis — Oxford men he describes as groomed in the fires of the Boer Wars overseeing concentration camps later adopted by [[adolf-hitler|Adolf Hitler]].[5] This "invisible empire" sought to entrench British dominance through education, think tanks, and financial power, and in 1920 Milner's network birthed the Royal Institute of International Affairs ([[chatham-house|Chatham House]]) in London and its American counterpart, the [[council-on-foreign-relations|Council on Foreign Relations]], which Hillary Clinton later called "The Mothership."[5]
+
+Ehret presents [[mark-carney|Mark Carney]] as the spiritual descendant of this network and Carney's mission as the fulfillment of Rhodes' dream: a church for the extension of the British Empire and the re-acquisition of the American colonies.[5]
+
+5. Badlands Brief — "The Deep State Empire Strikes Back", URL: https://badlands.substack.com/p/the-deep-state-empire-strikes-back

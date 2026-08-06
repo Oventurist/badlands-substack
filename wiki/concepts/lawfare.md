@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [litigation, politics, speech-suppression]
-sources: [raw/always-fight-back.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-88b.md]
+sources: [raw/always-fight-back.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-88b.md, raw/the-language-of-control.md]
 confidence: medium
 ---
 
@@ -50,3 +50,13 @@ Commenting in August 2023 on the secret subpoena of Twitter in the [[trump-twitt
 4. Badlands Brief — "The Turn on Biden Begins", URL: https://badlands.substack.com/p/badlands-news-brief-11c
 5. Badlands News Brief — "A Biden, a Clinton and a Trump Walk Into a SCIF", URL: https://badlands.substack.com/p/badlands-news-brief-228
 6. Badlands News Brief — "The Trump Hunt & the Biden Blitz", URL: https://badlands.substack.com/p/badlands-news-brief-88b
+
+## Lawfare and the "rule of law" vocabulary (DeLarme, 2025)
+
+In "The Language of Control," Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] described the judicial system as one of the most important sectors of the establishment's whole-of-society approach, staffed by "legal minions" who use the phrase [[rule-of-law|"the rule of law"]] while employing the courts to suppress populist movements.[7] Beyond district attorneys and prosecutors, he wrote, there are operatives who create legal frameworks, run "rule of law programs" and organize lawfare campaigns internationally through [[usaid|USAID]], the [[state-department|State Department]] and the [[united-states-institute-of-peace|U.S. Institute of Peace]].[7]
+
+DeLarme named [[marc-elias|Marc Elias]] as a practitioner who used legal tactics to undermine voters' faith in election integrity and to influence outcomes for establishment Democratic candidates, alongside [[david-brock|David Brock]] and ACLU director [[anthony-romero|Anthony Romero]].[7] [[norm-eisen|Norm Eisen]] was presented as the leading figure of the lawfare crusade against [[donald-trump|Donald Trump]]'s second term, having previously drafted articles of impeachment and litigated the Ukraine impeachment as special counsel.[7]
+
+The article argued that lawfare operates in tandem with [[color-revolution|color revolution]] tactics, and that the notion of a "legal mafia" impeding a democratically elected president is repugnant to the democratic ideals its practitioners profess.[7]
+
+7. Badlands Media — "The Language of Control", URL: https://badlands.substack.com/p/the-language-of-control

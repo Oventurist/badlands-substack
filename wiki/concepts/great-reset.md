@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [globalism, world-economic-forum, technocracy]
-sources: [raw/a-look-at-recent-features-84d.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/ai-can-help-us-expose-the-nwo.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-news-brief-948.md, raw/dark-equation.md, raw/oppenheimer-and-the-central-narrative.md, raw/poison-fruit-of-the-decision-tree.md]
+sources: [raw/a-look-at-recent-features-84d.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/ai-can-help-us-expose-the-nwo.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-news-brief-948.md, raw/dark-equation.md, raw/oppenheimer-and-the-central-narrative.md, raw/poison-fruit-of-the-decision-tree.md, raw/the-harvard-control-grid.md, raw/the-midas-touch.md]
 confidence: low
 ---
 
@@ -36,6 +36,10 @@ Commenting on the [[daily-wire|Daily Wire]] and [[the-federalist|Federalist]] la
 
 In her July 2023 review of Christopher Nolan's *Oppenheimer*, Badlands contributor [[ashe-in-america|Ashe in America]] framed the Great Reset as the mechanism by which the conflict between national and global decision rights is to be resolved en route to the [[new-world-order|New World Order]].[7] Because governance is about decision rights and [[global-governance|global governance]] is about global decision rights, national interests and autonomy become barriers to be overcome — and the film, she argued, moves the needle by painting the nuclear threat as an imperative worth sacrificing national and individual liberty for.[7]
 
+## Cited in the Harvard control grid essay
+
+"The Harvard Control Grid" names the [[world-economic-forum|WEF]]'s "Great Reset," together with the [[council-on-foreign-relations|CFR]]'s foreign entanglements, [[rockefeller-foundation|Rockefeller]] soft power programs and [[rothschild-family|Rothschild]] global liquidity leverage, as strands of "a system that used Harvard as an operating terminal."[9] The article argues that this system "is no longer in control," describing the collapse of the [[harvard-management-company|Harvard Management Company]]'s network as evidence that the wider agenda has cracked.[9]
+
 ## References
 1. Badlands Brief — "A Look At Recent Features", URL: https://badlands.substack.com/p/a-look-at-recent-features-84d
 2. Badlands Brief — "A Gateway to a New World of Cooperation", URL: https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation
@@ -55,3 +59,11 @@ In the Badlands Media article "Dark Equation," [[ryan-delarme|Ryan DeLarme]] cha
 In "Poison Fruit of the Decision Tree," [[justin-deschamps|Justin Deschamps]] described the Great Reset initiative as looming on the horizon, an event in which the world's economic framework is rebooted and [[central-bank-digital-currency|central bank digital currencies]] become the new standard.[8] He wrote that this revolution rests upon the [[fourth-industrial-revolution|fourth industrial revolution]] concept popularized by [[klaus-schwab|Klaus Schwab]] of the [[world-economic-forum|World Economic Forum]], and framed the [[artificial-intelligence|artificial intelligence]] agenda item at the May 2023 [[bilderberg|Bilderberg]] meeting as timely for the globalists pursuing it.[8]
 
 8. Badlands Brief — "Poison Fruit of the Decision Tree", URL: https://badlands.substack.com/p/poison-fruit-of-the-decision-tree
+9. Badlands Brief — "The Harvard Control Grid", URL: https://badlands.substack.com/p/the-harvard-control-grid
+10. Badlands Brief — "The Midas Touch", URL: https://badlands.substack.com/p/the-midas-touch
+
+## Ownership, renting and the counter-reset (May 2023)
+
+In "The Midas Touch," Joe Lange frames the Great Reset as the central front in a war over who controls real assets, arguing that whoever controls the assets will control the coming global reset.[10] He cites a [[world-economic-forum|World Economic Forum]] prediction, reported by *The Independent*, that within 13 years the culture of ownership will have changed dramatically and that by 2030 people will rent rather than own "stuff."[10] The "shared economy" branding, he writes, conceals the real mechanism: people will be unable to afford to buy anything and so will be forced to rent, while the planners own the assets and ordinary money loses its value.[10]
+
+Against this, Lange posits a rival "Trump's Great Reset" that would give power back to the people by restoring the [[gold-standard|gold standard]] and decentralizing the global debt system, replacing [[fiat-currency|fiat currency]] with money whose value cannot be inflated away.[10] He points to [[gold-repatriation|gold repatriation]], record [[central-bank-gold-buying|central bank gold buying]] and the [[bank-for-international-settlements|Bank for International Settlements]]' 2019 tier 1 reclassification of gold as evidence that a monetary reset of some kind is universally expected.[10]

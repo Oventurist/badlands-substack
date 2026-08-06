@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [consciousness, awakening, trauma, healing, badlands-media]
-sources: [raw/the-bridge.md]
+sources: [raw/the-bridge.md, raw/the-liminal.md]
 confidence: medium
 ---
 
@@ -42,5 +42,12 @@ The article extends the individual process to a collective one, arguing that tra
 
 The closing section, "Walking Across the Bridge," addresses the reader standing with "one foot in the world you have always known and the other stepping into new awareness," insisting there is no right or wrong way to navigate it, no finish line, and that discomfort is a sign that something is shifting rather than that something is wrong.[1]
 
+## The liminal stage
+
+A later stage of the same process is treated in the April 5, 2025 Badlands Media feature "The Liminal," which describes what follows once the initial awakening and its emotional unraveling have passed.[2] The essay tells readers that they are by then "no longer asleep, but not fully awake in the way you imagined," and that the quiet which sets in is "not peaceful, necessarily, but eerily still."[2] It names this interval [[liminality|the liminal]] — "a space between old and new, between letting go and arriving."[2]
+
+In this stage, the article says, titles, identities, routines and even spiritual practices lose their charge, dreams turn vivid or symbolic, social withdrawal becomes common, and emotion swings between hope and inexplicable grief — all read as "echoes of identity shedding" rather than mood disorder.[2] Relationships strain because the person is "no longer broadcasting from fear, need, or ego," so that some connections fade or break as a matter of alignment.[2] The essay's counsel is to stop demanding proof of progress: "your mind might scream, 'Do something!' But your soul whispers, 'Just be.'"[2]
+
 ## References
 1. Badlands Brief — "The Bridge", URL: https://badlands.substack.com/p/the-bridge
+2. Badlands Brief — "The Liminal", URL: https://badlands.substack.com/p/the-liminal

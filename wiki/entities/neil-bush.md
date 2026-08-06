@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [bush-family, silverado, savings-and-loan, denver, conflict-of-interest]
-sources: [raw/never-let-a-crisis-go-to-waste.md, raw/profiting-from-war.md]
+sources: [raw/never-let-a-crisis-go-to-waste.md, raw/profiting-from-war.md, raw/the-men-behind-the-curtain-part-2.md]
 confidence: medium
 ---
 
@@ -31,6 +31,11 @@ Lange presents Neil alongside his brother [[jeb-bush|Jeb Bush]] as evidence that
 
 "Profiting From War" quotes the [[los-angeles-times|Los Angeles Times]] noting that Neil Bush, best known for the scandal at Colorado's [[silverado-savings-and-loan-association|Silverado Savings & Loan]] where he served as a director during the 1980s, also "picked plums from Persian Gulf orchards."[2] In 1993, after his father left the White House, he travelled to [[kuwait|Kuwait]] with his parents, his brother [[marvin-bush|Marvin]] and former Secretary of State [[james-baker|James A. Baker III]]; when the rest of the party departed, Neil stayed on to lobby for business contracts.[2] After returning home he developed a set of lucrative relationships with the Syrian-American businessman [[jamal-daniel|Jamal Daniel]], who hired him and partnered with him in several ventures.[2] Daniel, whose Houston mansion sits in the home city of the [[bush-family|Bush]] dynasty, founded the news site [[al-monitor|Al-Monitor]] and bought a large stake in the Beirut daily [[as-safir|As-Safir]], outlets the article says gave pro-[[hezbollah|Hezbollah]] journalists mainstream credibility.[2]
 
+## Hinckley dinner and the 1981 assassination attempt
+
+Badlands Media's "The Men Behind the Curtain – Part 2" reports that the brother of would-be assassin [[john-hinckley-jr|John W. Hinckley]] had scheduled dinner with Neil Bush the very night [[ronald-reagan|Ronald Reagan]] was shot in 1981 — a shooting that, but for a quarter of an inch, would have elevated his father, Trilateralist [[george-hw-bush|George H. W. Bush]], to the presidency seven years early.[3]
+
 ## References
 1. Badlands Brief — "Never Let a Crisis Go to Waste", URL: https://badlands.substack.com/p/never-let-a-crisis-go-to-waste
 2. Badlands Brief — "Profiting From War", URL: https://badlands.substack.com/p/profiting-from-war
+3. Badlands Brief — "The Men Behind the Curtain - Part 2", URL: https://badlands.substack.com/p/the-men-behind-the-curtain-part-2

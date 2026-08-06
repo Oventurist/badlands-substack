@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [sanctions, human-rights, corruption, trump]
-sources: [raw/badlands-brief-abf.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-ee8.md, raw/biden-inc-flips.md, raw/does-the-cia-still-control-iran.md, raw/spear-of-justice.md, raw/soul-governance.md]
+sources: [raw/badlands-brief-abf.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-ee8.md, raw/biden-inc-flips.md, raw/does-the-cia-still-control-iran.md, raw/spear-of-justice.md, raw/soul-governance.md, raw/the-harvard-control-grid.md, raw/the-ivy-web.md, raw/the-ivy-dominion.md]
 confidence: medium
 ---
 
@@ -52,6 +52,10 @@ An August 2025 Badlands Media essay asserted that Texas Attorney General [[ken-p
 
 The Badlands Media essay [[soul-governance|Soul Governance]] cites EO 13818 in shorthand as the authority to "seize assets tied to corruption," presenting it alongside [[executive-order-13848|EO 13848]] as an outward mirror of an inward process.[11] The essay describes such orders as tools used by "White Hats" to seize corrupted infrastructure, and proposes a personal analogue in which the individual seizes back memory from indoctrination, biology from programming, and inheritance from ritual.[11]
 
+## Application to Harvard in Badlands commentary
+
+"The Harvard Control Grid" argues that EO 13818, together with [[executive-order-13848|EO 13848]], "weren't abstract policy tools" but "direct authorizations to seize assets connected to global corruption and subversion."[12] The article contends that the same legal levers used to freeze foreign kleptocrat assets can be applied to domestic networks "especially when those networks intertwine with election interference, money laundering, or trafficking," and identifies the [[harvard-management-company|Harvard Management Company]] board as exactly such a target.[12] It further ties the orders to an asset-recovery vision in which citizen-owned [[sovereign-wealth-fund|sovereign wealth funds]] acquire distressed institutional holdings.[12]
+
 ## References
 1. Badlands Brief — "Long-Term Legal Remedies & A Reboot of Russian Relations", URL: https://badlands.substack.com/p/badlands-brief-abf
 2. Badlands Brief — "Badlands News Brief: Fake Poles, HomOlympics & Deal-Making", URL: https://badlands.substack.com/p/badlands-news-brief-4c5
@@ -72,3 +76,18 @@ When a Russian court ordered the seizure of $439.5 million from [[jpmorgan-chase
 9. Badlands Brief — "Does the CIA Still Control Iran?", URL: https://badlands.substack.com/p/does-the-cia-still-control-iran
 10. Badlands Brief — "Spear of Justice: Ken Paxton and the Bleeding Edge", URL: https://badlands.substack.com/p/spear-of-justice
 11. Badlands Brief — "Soul Governance", URL: https://badlands.substack.com/p/soul-governance
+12. Badlands Brief — "The Harvard Control Grid", URL: https://badlands.substack.com/p/the-harvard-control-grid
+
+## Application to Harvard in "The Ivy Web"
+
+Badlands Media's May 2025 essay "The Ivy Web" describes EO 13818, signed in 2017, as one half of a legal trapdoor built years in advance for the seizure of assets connected to corruption, election interference and foreign subversion.[13] The article argues that [[harvard-university|Harvard University]] now falls squarely within its jurisdiction on three grounds: training personnel of the sanctioned [[xinjiang-production-and-construction-corps|Xinjiang Production and Construction Corps]], concealing foreign money flows in violation of [[section-117-higher-education-act|Section 117 of the Higher Education Act]], and collaborating on surveillance infrastructure later used for coercion and discrimination.[13]
+
+Under the order the article says precedent exists to seize bank accounts, real estate and assets tied to systemic human rights violations, to freeze funds associated with foreign corruption and cover-ups, and to reassign legal custodianship through federal receiverships or transition oversight.[13] On that reading Harvard's endowment, affiliated labs, real estate holdings and technology infrastructure are described as legally repossessable.[13]
+
+13. Badlands Brief — "The Ivy Web", URL: https://badlands.substack.com/p/the-ivy-web
+
+## Cited in the Ivy Dominion essay
+
+The June 2025 sequel essay "The Ivy Dominion" argues that EO 13818, together with [[executive-order-13848|EO 13848]], targets structure rather than surface, allowing assets linked to corruption, election interference or transnational subversion to be frozen and seized.[14] On that reading, [[ivy-league|Ivy League]] endowments with alleged links to sanctioned foreign actors, concealed Chinese funding and "dark NGO pipelines" are described as exposed, and [[harvard-university|Harvard]]'s billion-dollar asset sale as panic rather than strategy.[14] The article extends the exposure to universities, NGOs, foundations and investment firms alike, and proposes that the [[united-states-sovereign-wealth-fund|United States Sovereign Wealth Fund]] intercept and redeploy seized holdings for public benefit rather than allowing courts to dismantle them piecemeal.[14]
+
+14. Badlands Brief — "The Ivy Dominion", URL: https://badlands.substack.com/p/the-ivy-dominion

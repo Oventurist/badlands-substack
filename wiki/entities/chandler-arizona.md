@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [arizona, cities, events, gart]
-sources: [raw/last-call-for-gart-az.md]
+sources: [raw/last-call-for-gart-az.md, raw/the-great-american-restoration-tour.md]
 confidence: medium
 ---
 
@@ -20,3 +20,8 @@ Badlands told readers that the last batch of tickets would "move FAST," and offe
 
 ## References
 1. Badlands Brief — "Last Call for GART AZ!", URL: https://badlands.substack.com/p/last-call-for-gart-az
+2. Badlands Brief — "The Great American Restoration Tour", URL: https://badlands.substack.com/p/the-great-american-restoration-tour
+
+## Announcement of the Chandler conference (February 2023)
+
+The Chandler stop was first announced on February 25, 2023 in a post headlined "The Great American Restoration Tour," subtitled "Join Us in Chandler, Arizona This Spring!"[2] The announcement confirmed the conference would take place at the [[hilton-phoenix-chandler|Hilton Phoenix Chandler]] in Chandler from April 20 to 23, 2023, and noted that VIP tickets — which included a private dinner event the day before the conference — were already sold out, while General Admission tickets remained available but were "moving FAST."[2] Readers planning to travel to Chandler were directed to reserve rooms at the Hilton Phoenix Chandler using a preferred [[badlands-media|Badlands Media]] room rate.[2] Those unable to reach Arizona were offered a pre-orderable exclusive live stream of the event.[2] The Chandler gathering was described as the inaugural event of the [[great-american-restoration-tour|Great American Restoration Tour]] and was "powered by" [[firman-power-equipment|FIRMAN]].[2]

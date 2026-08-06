@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [amazon, washington-post, big-tech, cia, trump]
-sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-a60.md, raw/badlands-news-brief-db6.md, raw/badlands-news-brief-e98.md, raw/badlands-news-brief-fcd.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-a60.md, raw/badlands-news-brief-db6.md, raw/badlands-news-brief-e98.md, raw/badlands-news-brief-fcd.md, raw/the-msm-melts-down-amidst-americas.md]
 confidence: medium
 ---
 
@@ -60,3 +60,11 @@ Badlands contributor [[burning-bright|Burning Bright]] placed the remarks within
 4. Badlands Brief — "The Syrian Powder Keg Ignites as Russia Speaks Out", URL: https://badlands.substack.com/p/badlands-news-brief-db6
 5. Badlands Brief — "Badlands News Brief: The Media Machine Panics as Battle Lines Are Drawn", URL: https://badlands.substack.com/p/badlands-news-brief-e98
 6. Badlands Brief — "Badlands News Brief: Lifting Sanctions & Revoking Citizenship", URL: https://badlands.substack.com/p/badlands-news-brief-fcd
+
+## October 2024 endorsement decision
+
+Reporting summarised by Badlands contributor [[ryan-delarme|Ryan DeLarme]] held that Bezos, as owner of [[washington-post|The Washington Post]], personally made the decision that the paper would issue no presidential endorsement in 2024 or in any future presidential election, overriding a draft endorsement of [[kamala-harris|Kamala Harris]] already prepared by the editorial page staff.[7] DeLarme characterised the choice as unexpectedly principled, arguing that a newspaper claiming a journalistic function should not be instructing readers how to vote.[7]
+
+Critics read the decision instead as capitulation. Former editor [[marty-baron|Marty Baron]] warned that [[donald-trump|Donald Trump]] "will see this as an invitation to further intimidate owner @jeffbezos (and others)," and [[brian-stelter|Brian Stelter]] relayed a staff claim that the paper had "anticipatorily consent[ed] to a fascist's whims."[7] DeLarme dismissed the resulting storyline — that Bezos feared Trump-era concentration camps — as comical, and treated the episode as emblematic of the [[2024-newspaper-non-endorsements|2024 newspaper non-endorsements]].[7]
+
+7. Badlands Brief — "The MSM Melts Down Amidst America's Electoral Ineptitude", URL: https://badlands.substack.com/p/the-msm-melts-down-amidst-americas
