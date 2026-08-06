@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [royalty, environmentalism, depopulation, world-wildlife-fund]
-sources: [raw/canadas-transition-to-collectivist.md, raw/defeating-the-depopulation-agenda.md]
+sources: [raw/canadas-transition-to-collectivist.md, raw/defeating-the-depopulation-agenda.md, raw/real-patriots-dont-think-like-hitler-196.md]
 confidence: low
 ---
 
@@ -22,7 +22,14 @@ Ehret disputes any sincere conservationist motive, writing that Philip and Bernh
 
 Ehret also refers to Lord Mountbatten — under whom Canadian [[club-of-rome|Club of Rome]] member [[omond-solandt|Omond Solandt]] served as science advisor during the Second World War — as Prince Philip's "pedophiliac mentor."[2]
 
+## Nazi family connections
+
+Ehret also documents Philip's Nazi family network as part of a broader argument about the [[house-of-windsor|House of Windsor]], formerly Saxe-Coburg-Gotha.[3] All three of the Duke of Edinburgh's sisters were married to Nazi princes, and the husband of one of them, Sophie — Prince Christopher of Hesse-Cassel — became a Waffen SS officer with the rank of Oberführer.[3] Christopher was chief of the Forschungsamt, a special intelligence operation run by Hermann Göring, and Standartenführer of the SS on [[heinrich-himmler|Heinrich Himmler]]'s personal staff.[3] Philip's four brothers-in-law, with whom he lived, all became high-ranking Nazi Party officials.[3]
+
+Philip himself was educated under a Nazi curriculum centered on eugenics in the 1930s before co-founding the [[world-wildlife-fund|World Wildlife Fund]] in 1961 with one-time Nazi Party member [[prince-bernhard-of-the-netherlands|Prince Bernhard of the Netherlands]] and Sir [[julian-huxley|Julian Huxley]], then president of the Eugenics Society of Britain.[3] In an August 1988 interview with Deutsche Press Agentur he proclaimed his desire to return in the next life as a deadly virus to help "solve overpopulation," and elsewhere mused that "conservation may involve culling in order to keep a balance," since "you cannot keep a bigger flock of sheep than you are capable of feeding."[3]
+
 ## References
 
 1. Badlands Brief — "Canada's Transition to Collectivist Green Dystopia", URL: https://badlands.substack.com/p/canadas-transition-to-collectivist
 2. Badlands Brief — "Defeating the Depopulation Agenda", URL: https://badlands.substack.com/p/defeating-the-depopulation-agenda
+3. Badlands Brief — "Real Patriots Don't Think Like Hitler – Part 2: How Western Bankers Created the Nazis", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-196

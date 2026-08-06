@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [elections, colorado, lawfare, first-amendment, canvassing]
-sources: [raw/always-fight-back.md]
+sources: [raw/always-fight-back.md, raw/rooting-out-election-corruption.md]
 confidence: medium
 ---
 
@@ -24,6 +24,13 @@ The sole witness who claimed to have been approached and intimidated by canvasse
 
 Defenders of USEIP characterize the litigation as an attempt to treat two constitutionally protected activities — questioning election outcomes and door-to-door political canvassing — as inherently intimidating conduct, and therefore as an assault on the [[first-amendment|First Amendment]].[[1]](https://badlands.substack.com/p/always-fight-back) Related pages: [[naacp-v-useip]], [[election-denial]], [[canvassing]], [[lawfare]].
 
+## Canvassing playbooks and the Colorado report
+
+A March 23, 2023 Badlands Media article recommended USEIP as a resource for citizens seeking to verify local election records, noting that USEIP.org publishes free, publicly available playbooks and training materials for conducting [[canvassing]] in a manner that is legal and can stand up in court.[2] The article also pointed to a USEIP canvassing report that had been used in Colorado for legal action, public education, and public pressure on state and local election officials, along with a video overview of the canvassing project hosted on the organization's site.[2]
+
+The article argued that canvassing is "basically the only way to determine whether election records are accurate and valid in any state or locality," and that a finding of inaccurate records opens the door to legal action — placing USEIP's methodology at the centre of one of the five local remedies it proposed for restoring election integrity.[2]
+
 ## References
 
 1. Badlands Media — "Always Fight Back", URL: https://badlands.substack.com/p/always-fight-back
+2. Badlands Media — "Rooting Out Election Corruption", URL: https://badlands.substack.com/p/rooting-out-election-corruption

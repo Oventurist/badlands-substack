@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [classified-documents, national-security, lawfare, trump-indictment]
-sources: [raw/badlands-news-brief-228.md, raw/moves-and-countermoves.md, raw/q-for-dummies-chapter-2.md]
+sources: [raw/badlands-news-brief-228.md, raw/moves-and-countermoves.md, raw/q-for-dummies-chapter-2.md, raw/q-for-dummies-chapter-3.md]
 confidence: medium
 ---
 
@@ -22,11 +22,16 @@ The government's position was narrow but consequential: "The proposed protective
 
 [[burning-bright|Burning Bright]] noted that the matter had been examined at length on the [[devolution-power-hour|Devolution Power Hour]], where [[just-human|Just Human]] highlighted the absurdity that Trump might be permitted to discuss his defense inside a SCIF when Smith's case rests on the premise that documents held at [[mar-a-lago|Mar-a-Lago]] were improperly handled outside a certified facility.[1] Burning Bright framed the exchange as part of the broader [[lawfare|lawfare]] campaign, in which both sides bait one another: "Smith may be wise to Trump's SCIF bait, but as is usually the way with Trump, once you've recognized one Narrative or legal trap, you've already fallen headfirst into three more."[1]
 
+## Q drop #20
+
+Chapter 3 of [[q-for-dummies|Q for Dummies]] treats [[qanon|Q]] drop #20 of November 1, 2017 as a further SCIF reference.[4] Q asks where President [[donald-trump|Trump]]'s meeting with Admiral [[michael-rogers|Mike Rogers]] was held and why phones were not permitted in the room; the author reads the phone prohibition as a direct nod to a SCIF and infers that the discussion concerned national security matters, including the [[deep-state|Deep State]]'s attempts to remove Trump from office.[4]
+
 ## References
 
 1. Badlands News Brief — "A Biden, a Clinton and a Trump Walk Into a SCIF", URL: https://badlands.substack.com/p/badlands-news-brief-228
 2. Badlands Brief — "Moves and Countermoves", URL: https://badlands.substack.com/p/moves-and-countermoves
 3. Badlands Brief — "Q for Dummies - Chapter 2", URL: https://badlands.substack.com/p/q-for-dummies-chapter-2
+4. Badlands Brief — "Q for Dummies - Chapter 3", URL: https://badlands.substack.com/p/q-for-dummies-chapter-3
 
 ## In the Q decode literature
 

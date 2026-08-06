@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [affirmative-action, supreme-court, education, civil-rights]
-sources: [raw/badlands-news-brief-e0a.md, raw/badlands-news-brief-f99.md, raw/badlands-news-brief-fbc.md, raw/death-to-dei.md]
+sources: [raw/badlands-news-brief-e0a.md, raw/badlands-news-brief-f99.md, raw/badlands-news-brief-fbc.md, raw/death-to-dei.md, raw/reagan-20.md]
 confidence: high
 ---
 
@@ -54,3 +54,9 @@ Affirmative action went into effect through an executive order signed by Preside
 2. Badlands Brief — "Badlands News Brief: MAGA Rises as the Regime Falls", URL: https://badlands.substack.com/p/badlands-news-brief-f99
 3. Badlands Brief — "Freedom Reigns, France Burns & Biden Bluffs", URL: https://badlands.substack.com/p/badlands-news-brief-fbc
 4. Badlands Brief — "Death to DEI", URL: https://badlands.substack.com/p/death-to-dei
+
+## Reagan and Trump opposition
+
+A February 2025 Badlands feature by [[erik-carlson|Erik Carlson]] noted that both [[ronald-reagan|Ronald Reagan]] and [[donald-trump|Donald Trump]] stood in opposition to Affirmative Action, which Carlson defined as the active effort to improve employment, educational and other opportunities for members of groups that have been subjected to discrimination.[5] Adding that what something claims to be and what it really is can greatly differ, he wrote that from day one in office Trump has decimated the DEI agenda established by liberal socialists, describing DEI as "Affirmative Action on steroids."[5]
+
+5. Badlands Brief — "Reagan 2.0", URL: https://badlands.substack.com/p/reagan-20

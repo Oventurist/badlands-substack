@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [catholic-church, san-francisco, religion]
-sources: [raw/badlands-news-brief-8f3.md, raw/deep-state-spotlight-kamala-harris.md]
+sources: [raw/badlands-news-brief-8f3.md, raw/deep-state-spotlight-kamala-harris.md, raw/the-candidate-who-isnt-there.md]
 confidence: medium
 ---
 
@@ -22,6 +22,11 @@ The documents were reportedly explosive, containing the names of roughly 40 acti
 
 During the same period, donations connected to the church's institutional hierarchy flowed into Harris's campaign: [[joseph-russoniello|Joseph Russoniello]] and his firm Cooley Godward, the firm Bingham McCutcheon which handled archdiocese matters concerning Catholic Charities, and the firm Arguedas, Cassman & Headley all gave at or near maximum levels, while archdiocese board members and their family members contributed a combined $50,950.[2] After taking office Harris ended the effort to release the documents and prosecuted no priests; a 2010 San Francisco Weekly request for the records under the California Public Records Act was refused.[2]
 
+## Coverage in "The Candidate Who Isn't There"
+
+Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] revisited the episode in "The Candidate Who Isn't There," published August 24, 2024, describing the Roman Catholic Archdiocese of San Francisco as a very powerful institution in the context of Bay Area politics.[3] He wrote that the archdiocese made sizable contributions to [[kamala-harris|Kamala Harris]]'s 2003 campaign for San Francisco district attorney knowing full well that the incumbent, [[terence-hallinan|Terrence Hallinan]], was preparing to release to the public all of the evidence he had gathered on decades of sexual assault.[3] Harris needed only to allow the process to finish playing out, but instead squashed it, carrying out a favor for a donor and claiming, in DeLarme's account insultingly, that she had done so to protect victims' privacy.[3] He presented the sequence as an illustration of a willingness to do the bidding of established power centers, which he called the defining quality of a deep-state politician.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: FBI Charges, Exorcisms and ... Woke M&M's?", URL: https://badlands.substack.com/p/badlands-news-brief-8f3
 2. Badlands Brief — "Deep State Spotlight: Kamala Harris", URL: https://badlands.substack.com/p/deep-state-spotlight-kamala-harris
+3. Badlands Brief — "The Candidate Who Isn't There", URL: https://badlands.substack.com/p/the-candidate-who-isnt-there

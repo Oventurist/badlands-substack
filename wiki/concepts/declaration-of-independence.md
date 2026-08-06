@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [founding-documents, natural-rights, law, united-states]
-sources: [raw/a-startling-contradiction-at-the.md, raw/badlands-news-brief-7c5.md, raw/combating-the-transhumanist-religion.md, raw/do-we-have-a-contract-with-the-federal.md, raw/god-and-the-declaration-of-independence.md]
+sources: [raw/a-startling-contradiction-at-the.md, raw/badlands-news-brief-7c5.md, raw/combating-the-transhumanist-religion.md, raw/do-we-have-a-contract-with-the-federal.md, raw/god-and-the-declaration-of-independence.md, raw/revolution-founded-at-the-crossroads.md]
 confidence: medium
 ---
 
@@ -65,3 +65,11 @@ The essay asks why [[thomas-jefferson|Jefferson]] and company went to the effort
 The essay quotes the Declaration's preamble — self-evident truths, men created equal, endowed by their Creator with unalienable rights to Life, Liberty and the pursuit of Happiness, and governments deriving their just powers from the consent of the governed — and sets it against a constructed secular alternative holding that rights are agreed upon between people as a matter of collective preference.[5] It asks which version would produce the more stable society and which could win the hearts of men.[5] [[secularism|Secularism]] is judged utterly antithetical to the spirit and philosophy of the Declaration and therefore heretical to the political system as the founders designed it.[5] The piece closes by suggesting the real problem is insufficient deference to God, and that Jefferson would say as much if he were alive today.[5]
 
 5. Badlands Brief — "God and the Declaration of Independence", URL: https://badlands.substack.com/p/god-and-the-declaration-of-independence
+
+## The "new Government" clause and peaceful revolution (October 2024)
+
+The essay "Revolution Founded at the Crossroads" reads [[donald-trump|Donald Trump]]'s 2016 statement that "our movement is about replacing a failed and corrupt political establishment, with a new Government controlled by you, the American people" as a direct allusion to the Declaration's clause holding "that whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government."[6] On that reading, Trump was invoking revolution against tyranny in irregular and unconventional ways.[6]
+
+The essay also argues that the founders' "certain unalienable rights" are given by God, that the American revolution was inspired by His Truth and His Word, and that "America wouldn't be America without Jesus" — placing the Declaration in continuity with the spiritual revolution the author describes.[6]
+
+6. Badlands Brief — "Revolution Founded at the Crossroads", URL: https://badlands.substack.com/p/revolution-founded-at-the-crossroads

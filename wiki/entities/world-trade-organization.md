@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [trade, globalization, unipolar-order, sovereignty]
-sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-b7b.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-b7b.md, raw/the-accomplishments-of-president-a2b.md]
 confidence: medium
 ---
 
@@ -18,7 +18,11 @@ The effect attributed to this architecture is that the trans-Atlantic was conver
 
 In May 2025 the [[european-union|European Union]] announced it would contest the United States' reciprocal tariff policy at the WTO, in a challenge unveiled by Commissioner [[maros-sefcovic|Maros Sefcovic]] on 7 May 2025 and formally beginning with a consultation request.[2] The [[european-commission|European Commission]] asserted that the U.S. tariffs contravened fundamental WTO rules, stating that its objective was "to reaffirm that internationally agreed rules matter and these cannot be unilaterally disregarded by any WTO member, including the US."[2] Alongside the case, the Commission opened a public consultation on countermeasures against U.S. imports valued at $107.4 billion.[2] Badlands writer Chris Paul asked whether the dispute might prove to be the trigger for an American exit from the WTO.[2]
 
-## References
+## Trump Executive Order Review
 
+An executive order signed by Donald Trump in April 2017 directed a study to identify problems caused by existing U.S. trade agreements, and a senior trade official confirmed that the review would include an examination of American involvement in the World Trade Organization.[3] Badlands Media's compilation of Trump's economic accomplishments presented the order as a signal that the United States would no longer be pushed around in multilateral trade arrangements and as an expression of the administration's America First posture.[3]
+
+## References
 1. Badlands Brief — "A Re-Alignment of World Systems", URL: https://badlands.substack.com/p/a-re-alignment-of-world-systems
 2. Badlands Brief — "Badlands News Brief: Victory Over Nazis & The First American Pope", URL: https://badlands.substack.com/p/badlands-news-brief-b7b
+3. Badlands Brief — "The Accomplishments of President Trump - Part 2", URL: https://badlands.substack.com/p/the-accomplishments-of-president-a2b

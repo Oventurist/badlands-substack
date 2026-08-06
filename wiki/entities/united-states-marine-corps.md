@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military, pentagon, domestic-deployment, los-angeles]
-sources: [raw/badlands-news-brief-11d.md, raw/badlands-news-brief-82f.md, raw/irregular-warfare.md, raw/kekistani-code-talkers.md]
+sources: [raw/badlands-news-brief-11d.md, raw/badlands-news-brief-82f.md, raw/irregular-warfare.md, raw/kekistani-code-talkers.md, raw/q-for-dummies-chapter-3.md]
 confidence: medium
 ---
 
@@ -32,9 +32,15 @@ Combined with the [[war-powers-act|War Powers Act]] and declared national emerge
 
 The Marine Corps' [[navajo-code-talkers|Navajo Code Talker Program]] was established in September 1942, following a February recommendation from Philip Johnston to Major General Clayton B. Vogel, USMC, Commanding General of the Amphibious Corps, Pacific Fleet.[4] Johnston, the son of a missionary who had lived among the Navajos for twenty-four years and was fluent in the language, argued that using Navajo as a code language in radio and wire voice transmission could guarantee communications security, since the language was unwritten, unintelligible to non-speakers, and rich enough for military code words to be devised within it.[4] The Badlands Brief article "Kekistani Code Talkers" presents the program as a demonstration that entire languages can be leveraged by militaries to win a contest of power projection.[4]
 
+## Role in the Q drops
+
+Chapter 3 of [[q-for-dummies|Q for Dummies]] treats the Marine Corps as a recurring theme across [[qanon|Q]] drops #15–22, noting that Q "is hammering home how important the Marines are" over that stretch.[5] The stated basis for that importance is that the Marines answer directly to the President.[5] The author argues that this gives a president a means of operating around the alphabet agencies, a powerful tool for combating globalist surveillance of the United States, and, if needed, a force that can be used to quell civil unrest at home.[5]
+
+The Corps is paired in the same analysis with [[military-intelligence|military intelligence]], which the author describes as able to bypass the civilian agencies and congressional oversight and to report findings directly to the President for possible use in [[military-tribunals|military tribunals]].[5] Drop #22 extends the theme by asking whether the [[national-guard|National Guard]] can operate alongside Marines — answered affirmatively, subject to [[posse-comitatus-act|Posse Comitatus]] being declared and [[habeas-corpus|habeas corpus]] suspended.[5] The chapter also notes in passing that [[robert-mueller|Robert Mueller]] was a highly decorated Marine.[5]
 
 ## References
 1. Badlands News Brief — "Fake MAGA Break-ups and Based Accelerationism", URL: https://badlands.substack.com/p/badlands-news-brief-11d
 2. Badlands Brief — "Badlands News Brief: Missing Planes, Missing Funds & Missing Metrics", URL: https://badlands.substack.com/p/badlands-news-brief-82f
 3. Badlands Brief — "Irregular Warfare", URL: https://badlands.substack.com/p/irregular-warfare
 4. Badlands Brief — "Kekistani Code Talkers", URL: https://badlands.substack.com/p/kekistani-code-talkers
+5. Badlands Brief — "Q for Dummies - Chapter 3", URL: https://badlands.substack.com/p/q-for-dummies-chapter-3

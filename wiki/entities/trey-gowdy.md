@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, benghazi, investigations, republicans]
-sources: [raw/a-dereliction-of-duty.md, raw/america-for-sale-part-2.md]
+sources: [raw/a-dereliction-of-duty.md, raw/america-for-sale-part-2.md, raw/the-biggest-boomerang-in-history.md]
 confidence: medium
 ---
 
@@ -34,3 +34,9 @@ Gowdy, Goodlatte and Senator [[chuck-grassley|Chuck Grassley]] jointly requested
 
 1. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
 2. Badlands Brief — "America for Sale - Part 2", URL: https://badlands.substack.com/p/america-for-sale-part-2
+
+## Discovery of the Clinton server (Badlands account)
+
+"[[the-biggest-boomerang-in-history|The Biggest Boomerang In History]]" credits Gowdy with discovering in 2015 that [[hillary-clinton|Hillary Clinton]] had used a [[hillary-clinton-private-email-server|private server]] as Secretary of State in order to avoid the [[freedom-of-information-act|Freedom of Information Act]].[3] [[joe-lange|Joe Lange]] argues that [[james-comey|James Comey]] would never have opened an investigation into the server on his own initiative and was forced to do so once Gowdy's discovery, together with pressure from Congress and the Inspector General, made inaction impossible.[3] The article notes that the media helped Clinton present the subsequent deletion of some 33,000 emails as "no big deal."[3] These claims reflect Badlands Media interpretation rather than established fact.
+
+3. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history

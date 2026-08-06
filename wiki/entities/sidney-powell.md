@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [attorney, 2020-election, georgia, election-integrity]
-sources: [raw/badlands-brief-990.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-252.md]
+sources: [raw/badlands-brief-990.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-252.md, raw/the-biggest-boomerang-in-history.md]
 confidence: medium
 ---
 
@@ -29,3 +29,9 @@ Court filings unsealed in February 2023 in the [[dominion-v-fox-news-defamation-
 1. Badlands Brief — "Secret Seizures, Sovereign Signals, & Unnamed Somalis Close to the Matter", URL: https://badlands.substack.com/p/badlands-brief-990
 2. Badlands News Brief — "Terror at Home and Abroad ...", URL: https://badlands.substack.com/p/badlands-news-brief-1d1
 3. Badlands Brief — "Badlands News Brief: Epstein Resurfacing, the Uniparty & Election Fraud", URL: https://badlands.substack.com/p/badlands-news-brief-252
+
+## The declassified Flynn emails
+
+"[[the-biggest-boomerang-in-history|The Biggest Boomerang In History]]" identifies Powell as the "new" defence lawyer for [[michael-flynn|Michael Flynn]] to whom Attorney General [[william-barr|William Barr]] delivered the declassified email exchanges between [[peter-strzok|Peter Strzok]] and [[lisa-page|Lisa Page]].[4] [[joe-lange|Joe Lange]] writes that those emails demonstrated a conspiracy by [[james-comey|Comey]]'s [[fbi|FBI]] to entrap Flynn into a false statement so that he would be fired, and that Powell's receipt of them followed Flynn's January 2020 move to vacate his guilty plea.[4] The material became the basis on which the criminal case against Flynn was dropped, as evidence of supreme bias and entrapment.[4] These claims reflect Badlands Media interpretation rather than established fact.
+
+4. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history

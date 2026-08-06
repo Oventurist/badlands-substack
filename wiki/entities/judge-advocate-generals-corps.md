@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military-law, department-of-defense, doj, immigration-enforcement]
-sources: [raw/badlands-news-brief-dd8.md, raw/biden-inc-flips.md]
+sources: [raw/badlands-news-brief-dd8.md, raw/biden-inc-flips.md, raw/q-for-dummies-chapter-5.md]
 confidence: medium
 ---
 
@@ -27,3 +27,8 @@ A December 2024 Badlands feature suggested that military investigators and the J
 ## References
 1. Badlands Brief — "Badlands News Brief: Quick Reaction Forces, Still Unexplained Anomalies, N-Word Options", URL: https://badlands.substack.com/p/badlands-news-brief-dd8
 2. Badlands Brief — "Biden, Inc. Flips", URL: https://badlands.substack.com/p/biden-inc-flips
+3. Badlands Brief — "Q for Dummies - Chapter 5", URL: https://badlands.substack.com/p/q-for-dummies-chapter-5
+
+## Inauguration insignia claim
+
+Chapter 5 of [[q-for-dummies|Q for Dummies]] invokes the Corps in its reading of Q drop #36, which asks readers to note how many military generals had recently passed through the [[white-house|White House]].[3] The commentary directs attention to the bands on the hats of the military personnel surrounding [[donald-trump|Donald Trump]] at his inauguration, asserting that the insignia correspond to [[military-intelligence|Military Intelligence]] and to the Judge Advocate General's Corps (JAG).[3] The author treats the pairing as significant because Trump was at that moment speaking about returning power to the people, and reads it as a signal of military-legal involvement in the [[q-operation|Q operation]].[3]

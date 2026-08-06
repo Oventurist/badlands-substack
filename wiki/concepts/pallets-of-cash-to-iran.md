@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [iran, cia, obama-administration, terrorism-financing, sanctions, judgment-fund]
-sources: [raw/panic-in-dc.md, raw/q-for-dummies-chapter-9.md]
+sources: [raw/panic-in-dc.md, raw/q-for-dummies-chapter-9.md, raw/q-for-dummies-chapter-5.md]
 confidence: medium
 ---
 
@@ -60,3 +60,8 @@ On that reading, [[barack-obama|Obama]] sent billions in cash to [[iran|Iran]] t
 
 1. Badlands Brief — "Panic in DC", URL: https://badlands.substack.com/p/panic-in-dc
 2. Badlands Brief — "Q for Dummies - Chapter 9", URL: https://badlands.substack.com/p/q-for-dummies-chapter-9
+3. Badlands Brief — "Q for Dummies - Chapter 5", URL: https://badlands.substack.com/p/q-for-dummies-chapter-5
+
+## Citation in "Q for Dummies" Chapter 5
+
+Chapter 5 of the series invokes the payment while unpacking Q drop #36's questions about who owes money to bad actors.[3] It describes the transfer as the most notable of [[barack-obama|Obama]]'s "many cash transactions that occurred on his way out of office," characterising it as a pallet of billions of dollars delivered to [[iran|Iran]], and notes that Iran has "big ties to The Muslim Brotherhood."[3] The author presents the episode as evidence that Obama, [[hillary-clinton|Clinton]] and their associates were "selling America out and getting filthy rich on the backend," which he identifies as the line of inquiry Q wanted readers to pursue.[3]

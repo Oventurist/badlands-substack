@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [energy, nuclear, trump-administration, federal-agency]
-sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-7ce.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-9b2.md, raw/energy-consolidation.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-7ce.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-9b2.md, raw/energy-consolidation.md, raw/the-biggest-cover-up-in-american.md]
 confidence: medium
 ---
 
@@ -57,3 +57,9 @@ In September 2024, Energy Secretary [[jennifer-granholm|Jennifer Granholm]] used
 In a May 15, 2023 Badlands Media essay on [[energy-consolidation|energy consolidation]], contributor [[erik-carlson|Erik Carlson]] listed Department of Energy guaranteed loans among the streams of federal money that flowed to the solar manufacturer [[first-solar|First Solar]] after the company began to struggle in the recession.[7] The other streams he identified were 2009 stimulus money and green energy subsidies.[7] Carlson characterized the combined effect as taxpayers keeping a poorly run company afloat so that [[barack-obama|Barack Obama]] and his donors — including [[goldman-sachs|Goldman Sachs]] figures invested in the firm — would not absorb losses.[7]
 
 7. Badlands Brief — "Energy Consolidation", URL: https://badlands.substack.com/p/energy-consolidation
+
+## Uranium One evidence and Q Clearance
+
+[[joe-lange|Joe Lange]] stresses that the evidence of corruption in the [[uranium-one-deal|Uranium One deal]] was held not only by the FBI and the courts but also by the Department of Energy, because the matter concerned uranium.[8] The Hill's reporting cited FBI, Energy Department and court documents showing the bureau had substantial evidence of [[vadim-mikerin|Vadim Mikerin]]'s wrongdoing well before the committee decision.[8] [[qanon|Q]] drop #48 of November 2, 2017 asked what [[q-clearance|Q Clearance]] is and "Who would have the goods on U1?", to which Lange answers the Department of Energy, whose highest classification level Q Clearance is — while adding that Q does not work at the department but holds the highest level of security across all of them.[8]
+
+8. Badlands Brief — "The Biggest Cover-up in American History", URL: https://badlands.substack.com/p/the-biggest-cover-up-in-american

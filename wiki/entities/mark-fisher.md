@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [black-lives-matter, rhode-island, politics, 2024-election]
-sources: [raw/badlands-news-brief-12b.md, raw/badlands-news-brief-2a0.md]
+sources: [raw/badlands-news-brief-12b.md, raw/badlands-news-brief-2a0.md, raw/q-for-dummies-chapter-3.md]
 confidence: medium
 ---
 
@@ -24,7 +24,12 @@ The remarks were reported by [[the-epoch-times|The Epoch Times]] and carried as 
 
 By late December 2023 Fisher's endorsement of Trump was being cited as a marker of the broader rise in [[black-support-for-trump|black support for Trump]].[2] "I knew I was going to pay a price for it," he told The Epoch Times, "but I felt like the benefit of doing it far outweighed the cost of me playing it safe."[2] He said he felt obligated "to clear a path" for others who thought the way he did, in an environment where pro-Trump black Americans are treated as renegades.[2]
 
+## Cited in Q for Dummies
+
+Chapter 3 of [[q-for-dummies|Q for Dummies]], published December 29, 2023, cites Fisher's open support for and endorsement of [[donald-trump|Donald Trump]] as evidence that the [[democratic-national-committee|Democratic]] hold on black voters was breaking down, describing it as "a sign that the narrative is being lost."[3] The reference appears in the chapter's analysis of [[qanon|Q]] drop #19, alongside the argument that Trump's arrest and mugshot had increased his standing among minority voters.[3]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: The Establishment is Collapsing from Within", URL: https://badlands.substack.com/p/badlands-news-brief-12b
 2. Badlands Brief — "Badlands News Brief: The Witch Hunt Hits a Few Snags as the Landscape Shifts", URL: https://badlands.substack.com/p/badlands-news-brief-2a0
+3. Badlands Brief — "Q for Dummies - Chapter 3", URL: https://badlands.substack.com/p/q-for-dummies-chapter-3

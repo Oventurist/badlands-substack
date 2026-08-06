@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [democratic-party, congress, 2028-election, progressives]
-sources: [raw/badlands-brief-7bf.md, raw/badlands-brief-8db.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-7ce.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-b39.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-efd.md, raw/badlands-news-brief-fbc.md]
+sources: [raw/badlands-brief-7bf.md, raw/badlands-brief-8db.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-7ce.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-b39.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-efd.md, raw/badlands-news-brief-fbc.md, raw/the-candidate-who-isnt-there.md]
 confidence: medium
 ---
 
@@ -57,6 +57,12 @@ Ocasio-Cortez traded barbs with [[marjorie-taylor-greene|Marjorie Taylor Greene]
 
 On Sunday, July 2, 2023, Ocasio-Cortez told CNN's State of the Union that the conservative [[supreme-court-of-the-united-states|Supreme Court]] was "creeping dangerously towards authoritarianism," again raising the unlikely prospect of impeaching justices over recent actions.[9] Her comments came days after the Court released a batch of far-reaching rulings striking down [[affirmative-action|affirmative action]] in college admissions, ruling for a Christian web designer in [[303-creative-llc-v-elenis|303 Creative LLC v. Elenis]], and invalidating [[joe-biden|Joe Biden]]'s student loan relief program.[9] She said, "These are the types of rulings that signal a dangerous creep towards authoritarianism and centralization of power in the court," and pointed to Justice [[elena-kagan|Elena Kagan]]'s observation that the Court was beginning to assume the power of a legislature, adding that the justices "are expanding their role into acting as though they are Congress itself."[9] Referring to ethics controversies involving Justices [[samuel-alito|Samuel Alito]] and [[clarence-thomas|Clarence Thomas]], she repeated calls for [[congress|Congress]] to consider removing them — a proposal reported as dead on arrival in the Republican-controlled House.[9] Badlands writer [[burning-bright|Burning Bright]] read her remarks as an inadvertent tally of Deep State losses at the Court, including [[roe-v-wade|Roe v. Wade]], constitutional carry, affirmative action, student debt forgiveness, and compelled LGBT messaging in business.[9]
 
+## 2024 Democratic National Convention speech
+
+Badlands Media contributor [[ryan-delarme|Ryan DeLarme]], writing in "The Candidate Who Isn't There" on August 24, 2024, described Ocasio-Cortez's appearance at the [[2024-democratic-national-convention|Democratic National Convention]] as a symbolic ascension from "radical" rabblerouser to refined Democrat establishment power player, noting that her speech delighted moderates and progressives alike.[10] He suggested her gradual transition from posturing as the anti-establishment Left toward becoming "[[nancy-pelosi|Nancy Pelosi]] 2.0" merited an article of its own, and observed that career Democrats who once denounced her were now cheering her as a rising star.[10]
+
+DeLarme's principal objection concerned a claim at the center of the speech: that [[kamala-harris|Kamala Harris]] was "working tirelessly to secure a cease-fire in Gaza and bringing hostages home."[10] He called this a complete falsehood with no supporting evidence, arguing that nothing Harris had done in four years suggested she had ever worked tirelessly on anything, least of all something as incendiary to her campaign as opposing the Israel Lobby.[10] In his account, Harris had been focused on one thing since a "shadowy cabal of Democrat elites" forced [[joe-biden|Joe Biden]]'s ouster five weeks earlier: winning the election.[10]
+
 ## References
 
 1. Badlands Brief — "Entertaining Obstruction & Artificial Shadow Wars", URL: https://badlands.substack.com/p/badlands-brief-7bf
@@ -68,3 +74,4 @@ On Sunday, July 2, 2023, Ocasio-Cortez told CNN's State of the Union that the co
 7. Badlands News Brief — "N-Words, F-Bombs, & Big Balls' Future", URL: https://badlands.substack.com/p/badlands-news-brief-d1d
 8. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd
 9. Badlands Brief — "Freedom Reigns, France Burns & Biden Bluffs", URL: https://badlands.substack.com/p/badlands-news-brief-fbc
+10. Badlands Brief — "The Candidate Who Isn't There", URL: https://badlands.substack.com/p/the-candidate-who-isnt-there

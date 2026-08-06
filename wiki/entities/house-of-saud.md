@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [saudi-arabia, dynasty, najd, wahhabism]
-sources: [raw/arabian-nights.md, raw/q-for-dummies-chapter-20.md]
+sources: [raw/arabian-nights.md, raw/q-for-dummies-chapter-20.md, raw/q-for-dummies-chapter-3.md]
 confidence: medium
 ---
 
@@ -26,9 +26,14 @@ The article's promised sequel concerns Abdulaziz bin Abdul Rahman Al Saud — fo
 
 Notably, per the terms al-Wahhab set in 1744, no tax is imposed or collected by the Saudi government to this day.[[1]](https://badlands.substack.com/p/arabian-nights)
 
+## Q drop #15
+
+Chapter 3 of [[q-for-dummies|Q for Dummies]] identifies the House of Saud as the family referred to in [[qanon|Q]] drop #15 of October 31, 2017 as being toppled.[3] The author declines to expand on the claim at that point in the series, stating that the subject returns in far greater detail later in the drops.[3]
+
 ## References
 1. Badlands Brief — "Arabian Nights", URL: https://badlands.substack.com/p/arabian-nights
 2. Badlands Brief — "Q for Dummies - Chapter 20", URL: https://badlands.substack.com/p/q-for-dummies-chapter-20
+3. Badlands Brief — "Q for Dummies - Chapter 3", URL: https://badlands.substack.com/p/q-for-dummies-chapter-3
 
 ## The "+++" designation in the Q drops
 

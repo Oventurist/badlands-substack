@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [north-korea, hostages, bill-clinton, 2009, diplomacy]
-sources: [raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/badlands-brief-9f2.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-d74.md, raw/badlands-news-brief-f76.md, raw/does-the-cia-still-control-iran.md, raw/everything-is-connected.md, raw/panic-in-dc.md, raw/q-for-dummies-chapter-2.md]
+sources: [raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/badlands-brief-9f2.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-d74.md, raw/badlands-news-brief-f76.md, raw/does-the-cia-still-control-iran.md, raw/everything-is-connected.md, raw/panic-in-dc.md, raw/q-for-dummies-chapter-2.md, raw/q-for-dummies-chapter-5.md, raw/q-for-dummies-chapter-9.md]
 confidence: medium
 ---
 
@@ -136,3 +136,18 @@ He argued that Trump cut the agency's strings in North Korea: rather than the pr
 ## Q drop #13 in "Q for Dummies" Chapter 2
 
 Badlands' "Q for Dummies" Chapter 2 revisits the early Q drops concerning North Korea, South Korea and the President, arguing that Q was signalling in October 2017 that "the deal with North Korea was done already," and that this would not be publicly confirmed until June 2018.[17] The author offers this as evidence against the claim that Q was a LARP — a live-action role-player or scammer.[17]
+
+## Q drop #39 and the Obama travel claim
+
+Chapter 5 of [[q-for-dummies|Q for Dummies]] treats drop #39 of November 2, 2017 as asserting that [[barack-obama|Barack Obama]] had travelled to North Korea since [[donald-trump|Trump]] took office and was likely there at the time of the drop.[18] The commentary connects this to a broader pattern it says later drops describe, in which Obama appeared in countries either immediately before or immediately after Trump, and infers that the purpose was to undo Trump's diplomacy.[18] Since Trump's meeting with [[kim-jong-un|Kim Jong Un]] and the denuclearization track were then approaching, the author argues Obama's aim was to preserve North Korea as a "tool of fear and chaos" for the [[deep-state|Deep State]].[18]
+
+The same drop is read as pointing to the [[joint-comprehensive-plan-of-action|Iran Nuclear Deal]] as the secret arrangement in question, and as raising what the author calls a curious coincidence: that North Korea became nuclear-capable and able to deliver payloads to the United States shortly after Obama left office, which he treats as evidence of complicity by Obama's administration.[18]
+
+18. Badlands Brief — "Q for Dummies - Chapter 5", URL: https://badlands.substack.com/p/q-for-dummies-chapter-5
+19. Badlands Brief — "Q for Dummies - Chapter 9", URL: https://badlands.substack.com/p/q-for-dummies-chapter-9
+
+## A puppet state "set free" (Chapter 9)
+
+Chapter 9 of the [[q-for-dummies|Q for Dummies]] series reads a portion of Q drop #71 as concerning North Korea in the sense of signifying that [[deep-state|Deep State]] puppet states were being freed — that the cabal no longer controlled states such as North Korea or Saudi assets.[19] Both North Korea and [[saudi-arabia|Saudi Arabia]] had, in the chapter's account, been heavily used by the Deep State, and both have since been set free.[19]
+
+The passage sits alongside the chapter's related claims that [[isis|ISIS]] was created as a regional boogeyman to drive war and fear and that Saudi Arabia served as the financial and military lynchpin of its region.[19]

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [rumble, tech, free-speech]
-sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-news-brief-4f8.md, raw/badlands-news-brief-890.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-news-brief-4f8.md, raw/badlands-news-brief-890.md, raw/the-censorship-war-counteroffensive.md]
 confidence: medium
 ---
 
@@ -34,3 +34,10 @@ In December 2024, following the disclosure of a $775 million strategic investmen
 1. Badlands Brief — "5GW Counter-Offensive - The Censorship Regime and the Road to 2024", URL: https://badlands.substack.com/p/5gw-counter-offensive-the-censorship
 2. Badlands Brief — "Israel Makes a Move While Trump Plays Chicken", URL: https://badlands.substack.com/p/badlands-news-brief-4f8
 3. Badlands Brief — "Absurdity and MAGAMania as the Year Winds Down", URL: https://badlands.substack.com/p/badlands-news-brief-890
+4. Badlands Brief — "The Censorship War - Counteroffensive", URL: https://badlands.substack.com/p/the-censorship-war-counteroffensive
+
+## Confrontation with Alexandre de Moraes
+
+As chief executive of [[rumble|Rumble]], Pavlovski announced the platform's December 2023 withdrawal from [[brazil|Brazil]], explaining that Brazilian courts had demanded the removal of certain creators and that, as part of a mission to restore a free and open internet, the company had committed not to move the goalposts on its content policies.[4] Users with unpopular views, he wrote, remain free to access the platform on the same terms as its millions of other users, and Rumble therefore disabled Brazilian access while challenging the legality of the court's demands — a step he said would not materially affect the business but which he regretted for depriving Brazilians of a wide range of content.[4]
+
+After Justice [[alexandre-de-moraes|Alexandre de Moraes]] ordered a worldwide ban on the journalist [[allan-dos-santos|Allan dos Santos]], Pavlovski argued that Washington's rejection of Brazil's extradition request should have ended the judge's pursuit.[4] He called the resulting suit "a landmark battle for free speech in the digital age," noting that in March 2024 the U.S. government had ruled the charges were "nothing more than 'crimes of opinion'" that violated fundamental free speech protections, and accused Moraes of "attempting to sidestep the U.S. legal system entirely—using secret censorship orders to pressure American companies into banning the political dissident worldwide."[4] See [[rumble-and-trump-media-v-moraes|Rumble and Trump Media v. Moraes]].[4]

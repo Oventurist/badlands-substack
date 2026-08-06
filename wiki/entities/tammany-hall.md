@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [machine-politics, corruption, elections, history]
-sources: [raw/always-fight-back.md]
+sources: [raw/always-fight-back.md, raw/the-battle-for-control.md]
 confidence: medium
 ---
 
@@ -19,3 +19,9 @@ Notably, Tweed punished those who questioned his electoral practices. He died in
 ## References
 
 1. Badlands Media — "Always Fight Back", URL: https://badlands.substack.com/p/always-fight-back
+
+## Moses Taylor and the Tweed Ring
+
+In "The Battle for Control," Badlands Media contributor [[joe-lange|Joe Lange]] recounts that after the Civil War the Citibank director [[moses-taylor|Moses Taylor]] became a member of Tammany Hall.[2] Taylor served on a commission that whitewashed the corrupt Tweed Ring, which controlled New York City politics, and invested with William "Boss" Tweed in a series of business ventures.[2] Lange treats the association as evidence that [[citibank|Citibank]] was already entangled with, and protected by, the political class of its era.[2]
+
+2. Badlands Brief — "The Battle for Control", URL: https://badlands.substack.com/p/the-battle-for-control

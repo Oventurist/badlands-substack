@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ideology, politics, collectivism, information-war]
-sources: [raw/badlands-brief-2b2.md, raw/glimpses-into-hell.md, raw/oppenheimer-and-the-central-narrative.md]
+sources: [raw/badlands-brief-2b2.md, raw/glimpses-into-hell.md, raw/oppenheimer-and-the-central-narrative.md, raw/the-british-cabal.md]
 confidence: medium
 ---
 
@@ -38,7 +38,15 @@ Badlands Media's review of Christopher Nolan's 2023 biopic *Oppenheimer* argued 
 
 [[j-robert-oppenheimer|J. Robert Oppenheimer]]'s documented communist associations are treated as those of a sympathizer using the central-planning ideology in part to advance his romantic life, and his lover [[jean-tatlock|Jean Tatlock]] was an active member of the Bay Area Communist Party.[3] The review contends the theme sets up an alternate history in which Hiroshima and Nagasaki might have been spared and the Cold War prevented had American authorities listened to the communists, shared information with the Soviets, and paused development to debate the bomb's ethics.[3] Badlands connects this to what it calls the global corporate communist agenda now visible in [[esg|ESG]] initiatives and calls for [[global-governance|global governance]].[3]
 
+## British origin thesis (Carlson, August 2023)
+
+In "The British Cabal" (August 7, 2023), [[erik-carlson|Erik Carlson]] restated his position that England created communism and that it uses it, and has always used it, as a mechanism of world control.[4] On this reading the [[british-cabal|British Cabal]] created the [[soviet-union|Soviet Union]], played it off against the United States, and in the early 1990s transitioned to controlling the world through the [[chinese-communist-party|Chinese Communist Party]] instead.[4] Carlson compared the resulting pattern of switching enemies and alliances, and of memory-holing recent history that contradicts the current line, to the mechanics of Orwell's *1984*.[4]
+
+He treated the American Communists as one of the "circus acts" of the [[deep-state|Deep State]], describing their financial and press support for [[martin-luther-king-jr|Martin Luther King Jr.]] as an attempt to bring communism into America through the African American community — a plan he says collapsed when King turned to racial unity and opposition to the Vietnam War.[4] Carlson also noted that both the [[fbi|FBI]] and the [[central-intelligence-agency|CIA]] contain pro-communist and anti-communist factions working at cross purposes.[4] His closing argument was that the worldwide rise of communism came immediately after Britain apparently gave up an empire covering a quarter of the world without being defeated, which he declined to treat as coincidence.[4]
+
 ## References
+
 1. Badlands Brief — "God Bless The USA", URL: https://badlands.substack.com/p/badlands-brief-2b2
 2. Badlands Brief — "Glimpses into Hell - Part 1", URL: https://badlands.substack.com/p/glimpses-into-hell
 3. Badlands Brief — "'Oppenheimer' & The Central Narrative", URL: https://badlands.substack.com/p/oppenheimer-and-the-central-narrative
+4. Badlands Brief — "The British Cabal", URL: https://badlands.substack.com/p/the-british-cabal

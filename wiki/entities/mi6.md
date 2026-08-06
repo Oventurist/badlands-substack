@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence, united-kingdom, cabal]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-f44.md, raw/does-the-cia-still-control-iran.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-f44.md, raw/does-the-cia-still-control-iran.md, raw/the-cia-is-being-thrown-under-the.md]
 confidence: low
 ---
 
@@ -49,3 +49,11 @@ Badlands Media advances the claim that [[british-east-india-company|the British 
 
 In "Does the CIA Still Control Iran?", [[badlands-media|Badlands Media]] contributor [[erik-carlson|Erik Carlson]] concluded that while there are genuinely evil people doing evil things in [[iran|Iran]], "many of them are controlled by the CIA/MI6."[7] The joint formulation follows from his account of the [[1953-iranian-coup|1953 coup]], in which the [[central-intelligence-agency|CIA]] acted at the request of British interests — described as its "puppet masters" — after [[mohammad-mosaddegh|Mohammad Mossadegh]] nationalized the Iranian oil industry and expelled British Petroleum, whose production depended heavily on Iranian fields.[7]
 7. Badlands Brief — "Does the CIA Still Control Iran?", URL: https://badlands.substack.com/p/does-the-cia-still-control-iran
+
+## Alleged parentage of the OSS and CIA (Carlson, 2024)
+
+In "The CIA is Being Thrown Under the Bus," Erik Carlson described MI6 as the UK's "super spy agency," created by the [[british-cabal|British Cabal]] in 1909 alongside think tanks such as the [[tavistock-institute|Tavistock Institute]] as part of the Cabal's transition from ruling the world through its military to controlling it from the shadows.[8]
+
+Carlson claimed that MI6 created the [[office-of-strategic-services|OSS]] in 1942, shortly after the United States entered the Second World War, expressly in order to control the US during the conflict, and that when the OSS morphed into the [[central-intelligence-agency|CIA]] in 1947 the new agency remained fully controlled by the British elites.[8] In this account MI6 and the London think tanks, rather than any American impulse, brought the United States into both world wars and presided over the creation of the [[federal-reserve|Federal Reserve]].[8]
+
+8. Badlands Brief — "The CIA is Being Thrown Under the Bus", URL: https://badlands.substack.com/p/the-cia-is-being-thrown-under-the

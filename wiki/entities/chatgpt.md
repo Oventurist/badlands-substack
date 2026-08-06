@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [artificial-intelligence, llm, openai, censorship]
-sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-02a.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-d46.md, raw/dark-equation.md, raw/dont-be-symbol-minded.md, raw/dont-bring-shiny-rocks-to-digital.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-02a.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-d46.md, raw/dark-equation.md, raw/dont-be-symbol-minded.md, raw/dont-bring-shiny-rocks-to-digital.md, raw/super-computers-in-the-info-war.md]
 confidence: medium
 ---
 
@@ -78,3 +78,11 @@ An April 2023 Badlands Media essay used ChatGPT as the central illustration of A
 The author described receiving a long tweet from Major Jason Lowery which he read as ordinary human writing, only to learn minutes later that it was a screenshot of ChatGPT 4.0 output summarising [[softwar|Softwar]].[9] [[preston-pysh|Preston Pysh]] then used ChatGPT to rewrite that summary in the style of comedian Kevin Hart, and afterwards posted an AI voice rendition of the rewritten text in Hart's voice — output the author found "mind blowing" precisely because no human wrote the words and no human spoke them, and the real Kevin Hart's feelings, emotions and thoughts were merely mimicked.[9] The episode grounded the essay's argument that AI-generated renditions will be indistinguishable from reality in enough ways to fool anyone who does not identify and consider the source.[9]
 
 9. Badlands Brief — "Don't Bring Shiny Rocks to Digital Gunfights", URL: https://badlands.substack.com/p/dont-bring-shiny-rocks-to-digital
+
+## Carlson on programmed bias and the info war (2023)
+
+In an April 12, 2023 essay, Badlands Media contributor [[erik-carlson|Erik Carlson]] noted that people inside and outside his community had become fascinated with ChatGPT a couple of months earlier, amazed at its capabilities and eager to interact with it and ask it questions.[10] His own concern was different: he projected that ChatGPT had shown it could be programmed to be "woke," which he considered a more immediate danger than the science-fiction scenario of an AI choosing to take over the world as in The Terminator.[10]
+
+Carlson used the system's public release as a timing argument. Invoking the widely repeated claim that technology made available to the public has already been used by government agencies and the military for up to thirty years, he reasoned that if ChatGPT is being rolled out now, equivalent systems have probably been used on the public for three decades — influencing, brainwashing and controlling.[10] Known bots on Twitter, Facebook and Truth Social, he suggested, may be only the clunky ones people are supposed to find, while the most advanced AI bots go unrecognised.[10]
+
+10. Badlands Brief — "Super Computers in the Info War", URL: https://badlands.substack.com/p/super-computers-in-the-info-war

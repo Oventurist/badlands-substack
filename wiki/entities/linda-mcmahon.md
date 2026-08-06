@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [trump-administration, cabinet, education, senate-confirmation]
-sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-ce5.md, raw/badlands-news-brief-f23.md]
+sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-ce5.md, raw/badlands-news-brief-f23.md, raw/reagan-20.md]
 confidence: medium
 ---
 
@@ -73,3 +73,9 @@ McMahon's nomination to lead the [[department-of-education|Education Department]
 7. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6
 8. Badlands Brief — "Badlands News Brief: Calibrating Education, Recalculating Commands, & Countering Currency Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-ce5
 9. Badlands Brief — "Badlands News Brief: Narrow Confirmations & Unaccountable Cops", URL: https://badlands.substack.com/p/badlands-news-brief-f23
+
+## Cited as an agency-dismantling appointment
+
+A February 2025 Badlands feature by [[erik-carlson|Erik Carlson]] cited McMahon as an example of a practice shared by [[ronald-reagan|Ronald Reagan]] and [[donald-trump|Donald Trump]]: staffing administration positions with officials who oppose the agencies they head.[10] Carlson described McMahon as having been put in place with the sole purpose of eliminating the department she heads, alongside [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]], whom he described as installed to completely gut and transform his own department.[10]
+
+10. Badlands Brief — "Reagan 2.0", URL: https://badlands.substack.com/p/reagan-20

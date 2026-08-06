@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence, signals-intelligence, leaks, 2026]
-sources: [raw/badlands-brief-835.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-e79.md, raw/badlands-news-brief-e99.md, raw/badlands-news-brief-f46.md, raw/kekistani-code-talkers.md, raw/panic-in-dc.md, raw/q-for-dummies-chapter-19.md, raw/q-for-dummies-chapter-21.md]
+sources: [raw/badlands-brief-835.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-e79.md, raw/badlands-news-brief-e99.md, raw/badlands-news-brief-f46.md, raw/kekistani-code-talkers.md, raw/panic-in-dc.md, raw/q-for-dummies-chapter-19.md, raw/q-for-dummies-chapter-21.md, raw/real-patriots-dont-think-like-hitler-d42.md, raw/the-church-committee-for-dummies.md]
 confidence: medium
 ---
 
@@ -74,3 +74,16 @@ The same chapter identifies Admiral [[michael-rogers|Michael Rogers]] as the 17t
 ## Chapter 21 and the takeover reading of drop #129
 
 Chapter 21 of [[q-for-dummies|Q for Dummies]] reads Q drop #129 of November 9, 2017 as suggesting that the NSA had taken over operations of the [[central-intelligence-agency|CIA]], in the context of Q's statement that cleaning up the Agency as it stood was impossible.[11] [[paul-fleuret|Paul Fleuret]] presents this as consistent with the series' running position that the NSA sits on the white-hat side of the conflict.[11] He closes the section with a reminder that [[michael-rogers|Admiral Mike Rogers]] was the 17th Director of the NSA — a numerological point of significance within the [[q-operation|Q]] framework.[11]
+
+
+## Claimed origins in the Black Chamber
+
+[[matthew-ehret|Matthew Ehret]] traces the agency's lineage to [[black-chamber|The Black Chamber]], the military intelligence organization set up in 1918 by [[ralph-van-deman|Ralph Van Deman]], protege of the British intelligence officer [[claude-dansey|Claude Dansey]].[12] Led by Marlborough Churchill, an American cousin of Sir [[winston-churchill|Winston Churchill]], the Black Chamber excelled at signals intelligence and was, in this account, given a new name in 1930 under the banner of the National Security Agency.[12]
+
+12. Badlands Brief — "Real Patriots Don't Think Like Hitler - Part 5: Nazi Fifth Columns in America", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-d42
+
+## Church Committee findings
+
+The NSA was one of the three agencies — with the [[central-intelligence-agency|CIA]] and the [[fbi|FBI]] — named by Badlands Media as waging the "silent war" on the privacy of American citizens that the 1975 [[church-committee|Church Committee]] brought to public attention.[13] Committee investigators identified the previously unknown NSA programs [[project-shamrock|Project SHAMROCK]] and [[project-minaret|Project MINARET]], which monitored wire communications to and from the United States and shared some of that data with other intelligence agencies.[13] Chief Counsel [[frederick-schwarz|Frederick Schwarz]] reported that at the outset of the investigation the agency's own general counsel told him, "The constitution does not apply to the National Security Agency."[13]
+
+13. Badlands Brief — "The Church Committee, for Dummies", URL: https://badlands.substack.com/p/the-church-committee-for-dummies

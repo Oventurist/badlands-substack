@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, debanking, litigation, january-6]
-sources: [raw/badlands-brief-577.md, raw/badlands-brief-695.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-47a.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a56.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-e96.md, raw/badlands-news-brief-ea7.md, raw/badlands-news-brief-f0e.md, raw/badlands-news-brief-fde.md, raw/is-jamie-dimon-directing-the-priorities.md]
+sources: [raw/badlands-brief-577.md, raw/badlands-brief-695.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-47a.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a56.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-e96.md, raw/badlands-news-brief-ea7.md, raw/badlands-news-brief-f0e.md, raw/badlands-news-brief-fde.md, raw/is-jamie-dimon-directing-the-priorities.md, raw/the-birth-of-americas-deep-state.md]
 confidence: medium
 ---
 
@@ -154,3 +154,9 @@ In May 2023 the bank acquired [[first-republic-bank|First Republic Bank]]. Per t
 Ashe in America noted that the company describes itself as "built on the foundation of more than 1,200 predecessor institutions," and questioned Dimon's claim that the integration burden precluded further acquisitions, suggesting instead that the [[banking-cartel|Banking Cartel]] consistently makes moves that consolidate and centralise its power.[22]
 
 22. Badlands Brief — "Is Jamie Dimon a Prophet?", URL: https://badlands.substack.com/p/is-jamie-dimon-directing-the-priorities
+
+## Claimed origins in Aaron Burr's water company
+
+[[matthew-ehret|Matthew Ehret]] traces the bank's lineage to the [[manhattan-company|Manhattan Company]], the nominal water utility created and run by [[aaron-burr|Aaron Burr]] from April 1799 which was converted into a speculative bank through a clause letting its directors spend the company's capital on any business they chose.[23] By September 1799 the firm had opened a "house of certificate and deposit at 40 Wall Street" as The Manhattan Company Bank, the seed which grew through more than 1,200 mergers and acquisitions into Chase Manhattan and JP Morgan.[23] Writing on May 21, 2025, Gary Leff observed that "JP Morgan Chase was founded by Aaron Burr… it was a water company, a regulatory dodge to circumvent protectionist legislation," and that the firm owns the pistols used in the Hamilton–Burr duel.[23] Those pistols are displayed on the executive conference floor of the JP Morgan Chase building at 277 Park Avenue in New York City.[23]
+
+23. Badlands Brief — "The Birth of America's Deep State", URL: https://badlands.substack.com/p/the-birth-of-americas-deep-state

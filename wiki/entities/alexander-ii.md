@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, czar, american-civil-war, alaska, serfdom]
-sources: [raw/how-canada-was-created-to-block-us.md]
+sources: [raw/how-canada-was-created-to-block-us.md, raw/shadows-sovereigns-and-civil-wars.md]
 confidence: medium
 ---
 
@@ -26,3 +26,14 @@ In 1866 Alexander II recalled Stoeckl to Russia and, after a lengthy meeting, ap
 
 ## References
 1. Badlands Brief — "How Canada Was Created to Block US-Russian Cooperation", URL: https://badlands.substack.com/p/how-canada-was-created-to-block-us
+2. Badlands Brief — "Shadows, Sovereigns and Civil Wars - Part 1", URL: https://badlands.substack.com/p/shadows-sovereigns-and-civil-wars
+
+## Intervention on behalf of the Union
+
+Russia under Alexander II intervened to protect the Union against aggressive intervention by English and French imperial powers supporting Confederate secession during the [[american-civil-war|American Civil War]].[2] In 1863 the Czar sent Russian battleships to New York and San Francisco as a message of solidarity with [[abraham-lincoln|Abraham Lincoln]] and a threat to the imperial forces of Europe.[2]
+
+Describing his motive, Alexander II recounted that in the autumn of 1862 the governments of France and Great Britain proposed to Russia the joint recognition by European powers of the independence of the Confederate States, and that his immediate answer was: "I will not cooperate in such action; and I will not acquiesce. On the contrary, I shall accept the recognition of the independence of the Confederate States by France and Great Britain as a casus belli for Russia."[2] To show the threat was not idle he pledged to send a Pacific fleet to San Francisco and an Atlantic fleet to New York.[2] He added that he acted "because of love for my own dear Russia," understanding that Russia would face a more serious task if the American Republic, with its advanced industrial development, were broken up and Great Britain left in control of most branches of modern industry.[2]
+
+## Legacy
+
+Alaska was sold to the United States three years after Lincoln's 1864 address, explicitly around the notion of facilitating the Bering Strait telegraph program.[2] A statue in Moscow depicts Alexander II and Lincoln, described as two martyred patriots and great emancipators, holding hands.[2] The vision shared by Alexander II, Lincoln and [[william-gilpin|William Gilpin]] was ultimately derailed by an age of bankers' wars, anarchist assassinations and economic turmoil.[2]

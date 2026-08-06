@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [impeachment, ukraine, whistleblower, intelligence-community, congress]
-sources: [raw/badlands-brief-949.md, raw/badlands-brief-9ac.md, raw/badlands-news-brief-2f5.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-881.md]
+sources: [raw/badlands-brief-949.md, raw/badlands-brief-9ac.md, raw/badlands-news-brief-2f5.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-881.md, raw/setting-the-stage.md]
 confidence: medium
 ---
 
@@ -53,3 +53,13 @@ Badlands contributor [[ashe-in-america|Ashe in America]] drew several conclusion
 3. Badlands Brief — "Badlands News Brief: Korea Joins the Shenanigans as Drama Gives Way to Comedy", URL: https://badlands.substack.com/p/badlands-news-brief-2f5
 4. Badlands Brief — "Badlands News Brief: Change of Batter, Indeed …", URL: https://badlands.substack.com/p/badlands-news-brief-42e
 5. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... But Not on Us", URL: https://badlands.substack.com/p/badlands-news-brief-881
+
+## The "walk through the front door" thesis
+
+In "Setting the Stage," Joe Lange presents the first impeachment as a hastily improvised fallback after the [[mueller-special-counsel-investigation|Mueller investigation]] failed to produce the collusion evidence intended to justify removal.[6] [[adam-schiff|Adam Schiff]] coordinated the effort, recruiting the whistleblower — reported to be [[eric-ciaramella|Eric Ciaramella]] — and helping him file the complaint, then using the protection of the whistleblower's identity to force testimony behind closed doors while telling the media the evidence was overwhelming.[6]
+
+The complaint rested on the call between [[donald-trump|Trump]] and Ukrainian President [[volodymyr-zelensky|Volodymyr Zelensky]], though Ciaramella, a CIA analyst, was not on the call and lacked the clearance to access it, meaning whoever gave him its contents was illegally disclosing classified information.[6] Red State's review of the released transcripts indicated the source was [[alexander-vindman|Alexander Vindman]], after Schiff and [[eric-swalwell|Eric Swalwell]] blocked [[jim-jordan|Jim Jordan]] from asking Vindman whom outside his chain of command he had spoken to.[6] Other testimony proved thinner than advertised: Bill Taylor's supposed confirmation of a quid pro quo rested on fourth-hand assumption and a New York Times report, and Gordon Sondland swore he was relying on presumption rather than any direct order.[6]
+
+Lange argues Trump knew there was no evidence and deliberately let the enemy "walk through the front door," waiting until they had gone all in before declassifying the full transcript of the call, which showed no crime and led the Senate to acquit him quickly.[6] On this reading the impeachment was itself a trap that captured additional participants in what Lange characterises as treason.[6]
+
+6. Badlands Brief — "Setting the Stage", URL: https://badlands.substack.com/p/setting-the-stage

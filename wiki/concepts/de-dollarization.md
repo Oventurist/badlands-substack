@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [economics, dollar, reserve-currency, geopolitics, sanctions]
-sources: [raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-528.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-bec.md, raw/badlands-news-brief-c40.md]
+sources: [raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-528.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-bec.md, raw/badlands-news-brief-c40.md, raw/shared-interests.md]
 confidence: medium
 ---
 
@@ -77,3 +77,11 @@ Badlands Media sponsor and financial analyst [[kirk-elliott|Dr. Kirk Elliott]] o
 5. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... But Not on Us", URL: https://badlands.substack.com/p/badlands-news-brief-881
 6. Badlands Brief — "Badlands News Brief: Trump's Indictment, DeSantis & the Dollar", URL: https://badlands.substack.com/p/badlands-news-brief-bec
 7. Badlands Brief — "Badlands News Brief: GART, 9/11 & Deep State Billionaires", URL: https://badlands.substack.com/p/badlands-news-brief-c40
+
+## "Shared Interests" account of dollar dominance (February 2023)
+
+Writing in February 2023, [[joe-lange|Joe Lange]] itemized seven dimensions of the dollar's reserve-currency dominance: its highest weighting in the IMF's [[special-drawing-rights|Special Drawing Rights]] basket, its role as the dominant currency for international trade, its leading position in global financial infrastructure, its function in setting prices for major commodities including oil and gold, its use as the main currency for development financing, bank deposits and corporate borrowing, its primacy in global equity investment, and its status as the principal safe-haven currency during crises.[8] He argued that a system centred on a single currency gives that country a complete advantage and makes it far easier to control every aspect of world finance, and that the dollar has therefore been one of the cabal's greatest weapons for generations.[8]
+
+On this reading de-dollarization is the central objective of [[brics|BRICS]], pursued through Russia's [[spfs|SPFS]] and [[mir-payment-system|MIR]] systems, China's [[cips|CIPS]] clearing network and yuan oil futures convertible into gold, the [[new-development-bank|New Development Bank]]'s local-currency lending, and the [[belt-and-road-initiative|Belt and Road Initiative]].[8] Lange cited IMF forecasts reported by the Toronto Star showing the Russian economy expected to grow faster than Germany and the U.K. and to outpace all G-7 economies the following year — 2.1 percent Russian GDP growth in 2024 against 1.5 percent for Canada and 1.0 percent for the United States — as evidence that the sanctions blitz had failed and that BRICS states were successfully bypassing the system.[8]
+
+8. Badlands Brief — "Shared Interests", URL: https://badlands.substack.com/p/shared-interests

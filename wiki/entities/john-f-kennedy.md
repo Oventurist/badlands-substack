@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [jfk, us-president, bretton-woods, deep-state]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-4ab.md, raw/badlands-news-brief-cba.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-dae.md, raw/badlands-news-brief-fcb.md, raw/combating-the-transhumanist-religion.md, raw/four-pillars-of-government-control.md, raw/heroes-of-the-great-awakening.md, raw/john-bobby-and-marilyn.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-4ab.md, raw/badlands-news-brief-cba.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-dae.md, raw/badlands-news-brief-fcb.md, raw/combating-the-transhumanist-religion.md, raw/four-pillars-of-government-control.md, raw/heroes-of-the-great-awakening.md, raw/john-bobby-and-marilyn.md, raw/the-cia-is-being-thrown-under-the.md]
 confidence: low
 ---
 
@@ -86,3 +86,11 @@ It is also believed the Kennedys did not keep their side of that bargain, which 
 9. Badlands Brief — "Four Pillars of Government Control", URL: https://badlands.substack.com/p/four-pillars-of-government-control
 10. Badlands Brief — "Heroes of the Great Awakening", URL: https://badlands.substack.com/p/heroes-of-the-great-awakening
 11. Badlands Brief — "John, Bobby ... and Marilyn", URL: https://badlands.substack.com/p/john-bobby-and-marilyn
+
+## The vow to splinter the CIA (Carlson, 2024)
+
+Erik Carlson's "The CIA is Being Thrown Under the Bus" builds its argument around Kennedy's remark after the 1961 [[bay-of-pigs|Bay of Pigs]] debacle: "I will splinter the CIA into a thousand pieces and scatter it into the winds."[12] Carlson reads the statement as a judgment that, less than a decade and a half after its creation, the [[central-intelligence-agency|CIA]] had so few redeeming qualities that no part of its foundation or structure could be saved and a total teardown was required.[12]
+
+Carlson states that it is no longer controversial to say the agency was heavily involved in Kennedy's assassination, and lists him alongside [[richard-nixon|Richard Nixon]], [[ronald-reagan|Ronald Reagan]] and [[donald-trump|Donald Trump]] as the four presidents most concerned about the agency's unchecked power — with Kennedy killed, Nixon set up and forced from office, Reagan shot, and Trump attacked by every other means.[12] He speculates that had Kennedy succeeded in splintering the agency, America would look very different today.[12]
+
+12. Badlands Brief — "The CIA is Being Thrown Under the Bus", URL: https://badlands.substack.com/p/the-cia-is-being-thrown-under-the

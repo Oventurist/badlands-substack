@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, democratic-party, california, political-violence, 2024-election]
-sources: [raw/badlands-news-brief-4f8.md, raw/badlands-news-brief-541.md]
+sources: [raw/badlands-news-brief-4f8.md, raw/badlands-news-brief-541.md, raw/q-for-dummies-chapter-3.md]
 confidence: medium
 ---
 
@@ -28,7 +28,12 @@ Writing for Badlands Media, [[ashe-in-america|Ashe in America]] argued that Wate
 
 During the March 2025 [[house-financial-services-committee|House Financial Services Committee]] hearing on the [[stable-act|STABLE Act]], Badlands contributor GMONEY singled Waters out as "an employee of the [[federal-reserve|Federal Reserve]]" attempting "to protect the banking class through permissioned control and issuance of human energy."[2] Prefacing his remarks with the quotation attributed to Mayer Amschel Rothschild — "Give me control of a nation's money supply, and I care not who makes its laws" — he argued that the dollar had been "a centralized shitcoin for over 100 years" and that crypto was exposing the fraud behind it, concluding that "[[bitcoin|Bitcoin]] fixes this."[2]
 
+## Q drop #19
+
+Chapter 3 of [[q-for-dummies|Q for Dummies]] identifies Waters as the subject of the closing portion of [[qanon|Q]] drop #19 of November 1, 2017, describing Q as "again calling out a corrupt member of Congress for the gigantic disparity in their income and net worth" and aiming, in the author's phrase, "the proverbial informational reticle" at her.[3] The passage parallels the treatment of [[nancy-pelosi|Nancy Pelosi]] in the preceding drop.[3]
+
 ## References
 
 1. Badlands Brief — "Israel Makes a Move While Trump Plays Chicken", URL: https://badlands.substack.com/p/badlands-news-brief-4f8
 2. Badlands News Brief — "Unearthed Autopens, Inevitable Ceasefires, & 56 Human Kidneys", URL: https://badlands.substack.com/p/badlands-news-brief-541
+3. Badlands Brief — "Q for Dummies - Chapter 3", URL: https://badlands.substack.com/p/q-for-dummies-chapter-3

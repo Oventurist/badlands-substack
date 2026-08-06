@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [clinton-network, cabal, dynasty, muslim-brotherhood, state-department]
-sources: [raw/a-week-to-remember.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/bad-actors.md, raw/child-sacrifice-as-a-pillar-of-deep.md, raw/disinformation-is-necessary.md, raw/infiltration-not-invasion.md, raw/irregular-warfare.md, raw/q-for-dummies-chapter-2.md, raw/q-for-dummies-chapter-6.md, raw/q-for-dummies-chapter-7.md, raw/q-for-dummies-chapter-9.md]
+sources: [raw/a-week-to-remember.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/bad-actors.md, raw/child-sacrifice-as-a-pillar-of-deep.md, raw/disinformation-is-necessary.md, raw/infiltration-not-invasion.md, raw/irregular-warfare.md, raw/q-for-dummies-chapter-2.md, raw/q-for-dummies-chapter-6.md, raw/q-for-dummies-chapter-7.md, raw/q-for-dummies-chapter-9.md, raw/the-biggest-boomerang-in-history.md]
 confidence: medium
 ---
 
@@ -114,3 +114,11 @@ The chapter treats Q's capitalised "HUMA" as a deliberate double meaning, pointi
 The chapter repeats that Abedin met Clinton as a White House intern assigned to Clinton's staff in 1996.[12] In its reading of drop #71, Q's renewed instruction to "Follow HUMA" is paired with the question of who connects the [[clinton-foundation|Clinton Foundation]] and Clinton to Saudi Arabia; the answer given is Abedin, with the significance lying in the Brotherhood's stated goal of destroying Western culture and America.[12]
 
 12. Badlands Brief — "Q for Dummies - Chapter 9", URL: https://badlands.substack.com/p/q-for-dummies-chapter-9
+
+## The Weiner laptop emails (Badlands account)
+
+"[[the-biggest-boomerang-in-history|The Biggest Boomerang In History]]" states that Abedin served as [[hillary-clinton|Hillary Clinton]]'s handler for Prince Alwaleed Bin Talal — a claim [[joe-lange|Joe Lange]] develops in his "America For Sale — Part 1" article — and that this is why she held all of Clinton's emails.[13] Those emails, widely believed deleted, were found on [[anthony-weiner|Anthony Weiner]]'s laptop in October 2016, prompting police involved in the Weiner investigation to threaten to go public unless the [[fbi|FBI]] reopened a criminal investigation into Clinton.[13]
+
+Lange writes that Abedin was involved in everything and that Q suggested she was given a choice between Clinton and her child, and that she flipped — a parallel he draws with [[loretta-lynch|Loretta Lynch]]'s alleged decision to take a deal.[13] Q drop 4845 is quoted routing Clinton material "_Huma cc > Weiner backup."[13] These claims reflect Badlands Media interpretation rather than established fact.
+
+13. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history

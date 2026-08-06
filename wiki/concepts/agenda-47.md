@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [trump, policy, america-first, globalism, 2024-campaign]
-sources: [raw/badlands-news-brief-644.md, raw/badlands-news-brief-72e.md]
+sources: [raw/badlands-news-brief-644.md, raw/badlands-news-brief-72e.md, raw/the-candidate-who-isnt-there.md]
 confidence: medium
 ---
 
@@ -32,7 +32,14 @@ Deschamps held that Trump had explicitly declared war on all of these elements, 
 
 In a June 2023 Agenda 47 campaign video, Trump promised to address the sharp rise in chronic illnesses and health problems in the United States, particularly among children, as part of his plans for a return to the Oval Office.[2] He said he would establish a [[chronic-childhood-illness-commission|special presidential commission]] "of independent minds who are not bought and paid for by [[big-pharma|Big Pharma]]," charged with investigating the causes of the decades-long increase in chronic illness and with publishing recommendations for how "every American child can have a safe and healthy childhood."[2] "I understand Big Pharma, I believe better than anyone else," he added. "I know where they're coming from."[2]
 
+## Contrast with the 2024 Harris campaign
+
+In "The Candidate Who Isn't There," published August 24, 2024, Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] used Agenda 47 as a benchmark against which he measured [[kamala-harris|Kamala Harris]]'s campaign, arguing that [[donald-trump|Donald Trump]]'s positions had not really changed over eight years and that voters knew what they would get from him both because he had been president before and because he had published his platform in the form of Agenda 47.[3] He encouraged readers who had not yet read the document to do so.[3]
+
+DeLarme noted that Agenda 47 contains what he called "some pretty remarkable and almost fantastical ideas," singling out its proposal for "promoting the development of 'vertical takeoff-and-landing vehicles'" — a phrase whose meaning he professed not to understand.[3] He returned to it at the close of the article, writing that Trump needed to win in 2024 not merely because he wanted to see vertical take-off and landing craft, but because "America will fall if he doesn't."[3]
+
 ## References
 
 1. Badlands Brief — "J6 Exposure, Biden's Brain and Trump's Agenda", URL: https://badlands.substack.com/p/badlands-news-brief-644
 2. Badlands Brief — "Badlands News Brief: Ukraine Bursts, Tucker Returns & Trump Promises", URL: https://badlands.substack.com/p/badlands-news-brief-72e
+3. Badlands Brief — "The Candidate Who Isn't There", URL: https://badlands.substack.com/p/the-candidate-who-isnt-there

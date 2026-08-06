@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [substack, badlands-media, citizen-journalism, bitcoin, prophecy]
-sources: [raw/are-we-entering-the-millennial-reign.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-e40.md, raw/celebrating-15-years-of-indictments.md, raw/dont-bring-shiny-rocks-to-digital.md, raw/happy-thanksgiving.md, raw/kekistani-code-talkers.md, raw/q-for-dummies-chapter-12.md, raw/q-for-dummies-chapter-15.md, raw/q-for-dummies-chapter-1.md]
+sources: [raw/are-we-entering-the-millennial-reign.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-e40.md, raw/celebrating-15-years-of-indictments.md, raw/dont-bring-shiny-rocks-to-digital.md, raw/happy-thanksgiving.md, raw/kekistani-code-talkers.md, raw/q-for-dummies-chapter-12.md, raw/q-for-dummies-chapter-15.md, raw/q-for-dummies-chapter-1.md, raw/q-for-dummies-chapter-9.md, raw/revolution-founded-at-the-crossroads.md]
 confidence: medium
 ---
 
@@ -83,3 +83,19 @@ Chapter 15 of the [[q-for-dummies|Q for Dummies]] series reproduces two analytic
 Launching [[q-for-dummies|Q for Dummies]] in December 2023, [[paul-fleuret|Paul Fleuret]] credited Patriots In Progress with having "the high-level take on Q articles completely covered" through his Substack series.[11] Fleuret positioned his own series as the direct opposite — a low-level breakdown for newcomers — precisely because that high-level ground was already occupied.[11]
 
 11. Badlands Brief — "Q for Dummies - Chapter 1", URL: https://badlands.substack.com/p/q-for-dummies-chapter-1
+
+## Quoted on drop #69
+
+Chapter 9 of [[q-for-dummies|Q for Dummies]] quotes Patriots In Progress at length on Q drop #69 of November 3, 2017, calling his take a great one that the chapter's author wholeheartedly agrees with.[12] In the quoted passage, drawn from his series "All Q Drops," Patriots In Progress argues that Q was doing several things in a few short statements: honouring Patriot armed-forces members who had defended the Constitution, some paying the ultimate price; honouring those then serving or who would serve in dark times; and speaking to average patriots who would fight on the front lines of the digital war, stand up for freedom in their communities, be censored or cancelled by the big internet platforms, lose their jobs for freedom, or be unconstitutionally imprisoned on false charges.[12]
+
+The chapter's author, [[absolutetruth1776|AbsoluteTruth1776]], endorses the reading, adding that because Q and the Q team appeared reticent to take credit, the drop's opening is best understood as a shout-out to [[digital-soldiers|digital soldiers]] as well as to those in uniform.[12]
+
+12. Badlands Brief — "Q for Dummies - Chapter 9", URL: https://badlands.substack.com/p/q-for-dummies-chapter-9
+
+## "Revolution Founded at the Crossroads" (October 2024)
+
+In an October 31, 2024 essay, the author, writing as PiP, argued that revolutions are fundamentally spiritual events requiring participants to change their system of beliefs, making the recruitment of revolutionaries "much like an effort in evangelism."[13] He restricted his subject to peaceful, non-violent, non-kinetic revolution and to large-scale, permanent, systemic change — "sudden, radical paradigm shifts in human consciousness or transformational discoveries in technology."[13] Because most people prefer the familiar pain of incrementally normalized tyranny to the unrealized risk of change, he concluded that revolutions are rare while tyranny is common.[13]
+
+The piece drew heavily on statements he made on the "Individual Sovereignty" panel at [[badlands-media|Badlands Media]]'s Great American Restoration Tour 5 in Deadwood, South Dakota, where he identified [[jesus|Jesus Christ]] as a decentralizing force and compared His revolution to [[bitcoin]].[13] It also used the 2016 [[donald-trump|Donald Trump]] video "This Video Will Get Donald Trump Elected" as its political text, reading Trump's "crossroads" and "new Government" language against the [[declaration-of-independence|Declaration of Independence]].[13] The essay closed with the injunctions "Repent for the Kingdom of God is at hand," "Burn the ships. There's no going back," and "Shadilay!"[13]
+
+13. Badlands Brief — "Revolution Founded at the Crossroads", URL: https://badlands.substack.com/p/revolution-founded-at-the-crossroads

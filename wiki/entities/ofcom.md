@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [regulator, uk, censorship, media]
-sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-news-brief-f94.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-news-brief-f94.md, raw/the-censorship-war-counteroffensive.md]
 confidence: medium
 ---
 
@@ -27,3 +27,8 @@ The Online Safety Bill passed by the UK Parliament in September 2023 contains a 
 ## References
 1. Badlands Brief — "5GW Counter-Offensive - The Censorship Regime and the Road to 2024", URL: https://badlands.substack.com/p/5gw-counter-offensive-the-censorship
 2. Badlands Brief — "Badlands News Brief: The Proof is in the Proxy ...", URL: https://badlands.substack.com/p/badlands-news-brief-f94
+3. Badlands Brief — "The Censorship War - Counteroffensive", URL: https://badlands.substack.com/p/the-censorship-war-counteroffensive
+
+## Scanning powers under the Online Safety Act
+
+Clause 122 of what became the [[online-safety-act-2023|Online Safety Act 2023]] allows Ofcom, the Office of Communications, to mandate scanning for child sexual exploitation and abuse (CSEA) or terrorism content even on encrypted platforms — a power critics including Amnesty International regard as undermining end-to-end encryption and enabling mass surveillance.[3] Badlands contributor [[ryan-delarme|Ryan DeLarme]] compared the framing to that of the [[patriot-act|Patriot Act]], arguing that terrorism and child exploitation serve as a pretense for the UK government to spy on its own citizens' private communications.[3] See [[censorship-war|Censorship War]].[3]

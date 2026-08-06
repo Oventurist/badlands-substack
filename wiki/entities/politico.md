@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, legacy-media, political-journalism, elections]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-1ae.md, raw/badlands-brief-618.md, raw/badlands-brief-6b4.md, raw/badlands-brief-a1a.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-af5.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-e01.md, raw/badlands-news-brief-f25.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-1ae.md, raw/badlands-brief-618.md, raw/badlands-brief-6b4.md, raw/badlands-brief-a1a.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-af5.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-e01.md, raw/badlands-news-brief-f25.md, raw/the-chosen-one.md]
 confidence: low
 ---
 
@@ -139,3 +139,9 @@ Politico published the [[stack-data-strategy|Stack Data Strategy]] survey of 15,
 17. Badlands Brief — "Badlands News Brief: Toothless Sanctions and Ouroboros Patterns", URL: https://badlands.substack.com/p/badlands-news-brief-d6a
 18. Badlands Brief — "Badlands News Brief: Cis-Privileged Sports & The Sum of All Sundays", URL: https://badlands.substack.com/p/badlands-news-brief-e01
 19. Badlands Brief — "Badlands News Brief: House Passes Gas & Country Refuses to Rejoice", URL: https://badlands.substack.com/p/badlands-news-brief-f25
+
+## Cited on Trump's private assessment of Joe Biden (2019)
+
+[[badlands-media|Badlands Media]] contributor [[joe-lange|Joe Lange]] quoted an April 2019 Politico report holding that [[donald-trump|Donald Trump]]'s insults toward [[joe-biden|Joe Biden]] masked respect and genuine concern about Biden's chances.[20] Politico reported, via a Republican strategist with direct knowledge of the conversations, that Trump had asked aides as early as the previous fall "How are we gonna beat Biden?" and pushed back on reassurance with "But what if he does?", reflecting an assessment that Biden posed the biggest threat to reelection because of his potential appeal in Wisconsin, Michigan and Pennsylvania.[20] Lange treated the report not as evidence of authentic fear but as part of a pattern of leaks that functioned as free advertising elevating Biden within the [[2020-democratic-presidential-primary|Democratic primary field]].[20]
+
+20. Badlands Brief — "The Chosen One", URL: https://badlands.substack.com/p/the-chosen-one

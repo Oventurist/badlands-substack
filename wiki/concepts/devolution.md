@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [conspiracy-theory, badlands-media, continuity-of-government]
-sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-fcb.md, raw/bric-by-bric.md, raw/chips-and-dips.md]
+sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-fcb.md, raw/bric-by-bric.md, raw/chips-and-dips.md, raw/q-for-dummies-chapter-4.md]
 confidence: high
 ---
 
@@ -81,3 +81,9 @@ In "BRIC by BRIC," [[burning-bright|Burning Bright]] treated the emergence of an
 In "CHIPS and Dips" (December 21, 2022), [[burning-bright|Burning Bright]] described the [[chips-and-science-act|CHIPS Act]] and [[joe-biden|Joe Biden]]'s signing of it as "one of the clearest proofs yet" of [[jon-herold|Jon Herold]]'s Devolution theory.[14] He restated the theory as positing that the United States presidency was dissolved and devolved under [[donald-trump|Donald Trump]], with its powers distributed among a group of trusted advisors and administrators — perhaps the Combatant Commanders of the U.S. military — in order to protect National Essential Functions until Trump or someone like him could be reinstalled in the public seat of power without risking the kickoff of a civil war.[14] Policies emerging from the Biden administration that either mirror or continue Trump-era objectives, he argued, are best explained as the output of that shadow arrangement rather than of Biden's ostensible globalist masters.[14]
 
 14. Badlands Brief — "CHIPS and Dips", URL: https://badlands.substack.com/p/chips-and-dips
+
+## Relation to the 11.3 marker
+
+Chapter 4 of the [[q-for-dummies|Q for Dummies]] series raises devolution in connection with the 11.3 [[q-markers|marker]] from drop #25 of November 1, 2017.[15] Many anons speculated that the marker referred to the 2020 election, held on November 3, which they regarded as a high-level crime against the country.[15] The author writes that he does not believe the marker has yet been fulfilled, but allows that if devolution turns out to have been initiated after that election, the election may very well have been the marker after all.[15]
+
+15. Badlands Media — "Q for Dummies - Chapter 4", URL: https://badlands.substack.com/p/q-for-dummies-chapter-4

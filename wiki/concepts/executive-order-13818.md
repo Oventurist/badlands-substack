@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [sanctions, human-rights, corruption, trump]
-sources: [raw/badlands-brief-abf.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-ee8.md, raw/biden-inc-flips.md, raw/does-the-cia-still-control-iran.md]
+sources: [raw/badlands-brief-abf.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-ee8.md, raw/biden-inc-flips.md, raw/does-the-cia-still-control-iran.md, raw/spear-of-justice.md, raw/soul-governance.md]
 confidence: medium
 ---
 
@@ -44,6 +44,14 @@ A December 2024 Badlands feature described EO 13818, signed by [[donald-trump|Do
 
 The article emphasized that the order has been renewed annually, including under [[joe-biden|Joe Biden]], and argued that an administration working against the [[white-hats|White Hats]] would have rescinded rather than extended it.[8] On that reading it remains a live instrument for dismantling financial networks tied to domestic and foreign corruption, with the author naming [[ftx|FTX]], BlackRock, State Street, Vanguard, and pre-acquisition Twitter as examples.[8] The piece also argued that the order's broad scope permits targeting individuals and corporations said to have knowingly perpetuated harm under the guise of public health.[8] These interpretations are commentary rather than documented policy.[8]
 
+## Cited as the Basis for the ESG Takedown (2025 analysis)
+
+An August 2025 Badlands Media essay asserted that Texas Attorney General [[ken-paxton|Ken Paxton]]'s antitrust litigation against the [[esg|ESG]] asset-management bloc was "not the opening salvo" but the formal unveiling of a takedown begun years earlier under executive confiscation orders issued pursuant to Executive Order 13818.[10] According to the author, [[white-hats|White Hats]] had already mapped the cartel's command structure, seized critical levers of control, and placed oversight mechanisms inside its core, with the courtroom filings serving as the disclosure arm of an ongoing [[continuity-of-government|Continuity of Government]] operation.[10] The essay argued that executive authority secured through COG protocols insulated the early seizures from political sabotage, allowing covert gains to be translated later into overt legal wins that enter the permanent record.[10]
+
+## In "Soul Governance"
+
+The Badlands Media essay [[soul-governance|Soul Governance]] cites EO 13818 in shorthand as the authority to "seize assets tied to corruption," presenting it alongside [[executive-order-13848|EO 13848]] as an outward mirror of an inward process.[11] The essay describes such orders as tools used by "White Hats" to seize corrupted infrastructure, and proposes a personal analogue in which the individual seizes back memory from indoctrination, biology from programming, and inheritance from ritual.[11]
+
 ## References
 1. Badlands Brief — "Long-Term Legal Remedies & A Reboot of Russian Relations", URL: https://badlands.substack.com/p/badlands-brief-abf
 2. Badlands Brief — "Badlands News Brief: Fake Poles, HomOlympics & Deal-Making", URL: https://badlands.substack.com/p/badlands-news-brief-4c5
@@ -62,3 +70,5 @@ When a Russian court ordered the seizure of $439.5 million from [[jpmorgan-chase
 
 [[badlands-media|Badlands Media]] contributor [[erik-carlson|Erik Carlson]] cited the order in July 2023 while discussing [[eric-schmidt|Eric Schmidt]], describing it as the executive order [[donald-trump|President Trump]] put out on 20 December 2017 blocking the property of persons involved in serious human rights abuse.[9] Carlson pointed out that Schmidt announced he was stepping down from Alphabet on 21 December 2017 — "literally the next day" — and called the sequence "kind of suspicious," folding it into his wider argument that Schmidt and the [[central-intelligence-agency|CIA]] were involved in [[north-korea|North Korea]].[9]
 9. Badlands Brief — "Does the CIA Still Control Iran?", URL: https://badlands.substack.com/p/does-the-cia-still-control-iran
+10. Badlands Brief — "Spear of Justice: Ken Paxton and the Bleeding Edge", URL: https://badlands.substack.com/p/spear-of-justice
+11. Badlands Brief — "Soul Governance", URL: https://badlands.substack.com/p/soul-governance

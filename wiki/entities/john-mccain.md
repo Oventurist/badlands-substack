@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, libya, syria, weapons, lobbying, benghazi, immigration, obamacare]
-sources: [raw/q-for-dummies-chapter-4.md, raw/a-dereliction-of-duty.md, raw/a-conflict-of-interest.md, raw/bad-actors.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-204.md, raw/hes-not-a-war-hero.md, raw/infiltration-not-invasion.md, raw/moves-and-countermoves.md, raw/money-and-oil.md, raw/q-for-dummies-chapter-1.md, raw/q-for-dummies-chapter-7.md]
+sources: [raw/a-dereliction-of-duty.md, raw/a-conflict-of-interest.md, raw/bad-actors.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-204.md, raw/hes-not-a-war-hero.md, raw/infiltration-not-invasion.md, raw/moves-and-countermoves.md, raw/money-and-oil.md, raw/q-for-dummies-chapter-1.md, raw/q-for-dummies-chapter-7.md, raw/q-for-dummies-chapter-3.md, raw/q-for-dummies-chapter-4.md]
 confidence: medium
 ---
 
@@ -59,6 +59,10 @@ After *Bloomberg* reported in March 2016 that the Saudi government had donated $
 ## Alleged puppet master and treason claims
 
 The article identifies Prince [[alwaleed-bin-talal|Alwaleed bin Talal]] as the puppet master of McCain, [[barack-obama|Barack Obama]], [[hillary-clinton|Hillary Clinton]] and [[george-w-bush|George W. Bush]], asserting that both the [[mccain-institute|McCain Institute]] and the [[clinton-foundation|Clinton Foundation]] took millions from him without reporting the true amounts or naming him.[6] It further argues that McCain's [[mccain-syria-trips|trips to Syria]] in 2013 and February 2017 — the latter a "secret trip" taken just after Trump's inauguration — are the key to his alleged treason, and that fear of that evidence, rather than illness, explains the timing of his cancer diagnosis.[6] Q's use of the term "spider web" in the April 8, 2018 drops is presented as a signal that the full network had been documented.[6]
+
+## Q drop #18 and the "No Name" question
+
+Chapter 3 of [[q-for-dummies|Q for Dummies]] notes that [[qanon|Q]] drop #18 of November 1, 2017 refers to McCain by the epithet "No Name" and asks what benefit there would be in faking a sickness or a surgery.[13] The author's answer is that in McCain's case the motive would have been to avoid prosecution or legal action.[13] He tells readers that the subject returns in much greater detail later in the drops, asks them to remember the phrase "Dog Day Afternoon," and promises that what Q knew in advance will "blow your mind."[13]
 
 ## References
 1. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
@@ -126,3 +130,4 @@ Drop #57 is read as explaining McCain's motive for suppression: when [[michele-b
 Chapter 4 of the [[q-for-dummies|Q for Dummies]] series treats drop #25 of November 1, 2017 as tying the wave of congressional resignations then under discussion to what was being seen at the time with McCain and [[nancy-pelosi|Nancy Pelosi]].[12] The author writes that the eventual McCain outcome is the most undeniable [[q-proofs|Q proof]] ever, declining to spoil it, and states that this is the drop in which Q explained that the surname was withheld for a reason — the reason being, in his reading, that the senator was a traitor undeserving of having his name spoken.[12] Accordingly the chapter marks the last time the author will use the name in the series, adopting "No Name" thereafter.[12]
 
 12. Badlands Media — "Q for Dummies - Chapter 4", URL: https://badlands.substack.com/p/q-for-dummies-chapter-4
+13. Badlands Brief — "Q for Dummies - Chapter 3", URL: https://badlands.substack.com/p/q-for-dummies-chapter-3

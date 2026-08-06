@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [arizona, maricopa-county, elections, local-government]
-sources: [raw/an-sos-from-ground-zero.md, raw/badlands-brief-509.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-ca1.md, raw/q-for-dummies-chapter-13.md]
+sources: [raw/an-sos-from-ground-zero.md, raw/badlands-brief-509.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-ca1.md, raw/q-for-dummies-chapter-13.md, raw/thats-not-signature-verification.md]
 confidence: medium
 ---
 
@@ -34,6 +34,14 @@ In June 2026, The Atlantic and local outlets described an ongoing power struggle
 
 In May 2023, county supervisor [[bill-gates-arizona|Bill Gates]] said he was suffering from PTSD and "crying" over criticism of the county's administration of the 2020 and 2022 elections, comparing the board's duty to certify results to his grandfather's World War II service.[4] Conservative outlets and Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] condemned the comparison, with DeLarme arguing that Maricopa's role made Arizona the most critical midterm state for establishment interests given the state's semiconductor industry, border corridors, and the candidacy of [[kari-lake|Kari Lake]].[4]
 
+## Signature verification trial and county investigation (2023)
+
+Maricopa County's conduct of the November 8, 2022 general election was the subject of the remanded Count III trial in [[lake-v-hobbs|Lake v. Hobbs et al.]], which asked solely whether the county complied with [[arizona-revised-statutes-16-550|A.R.S. § 16-550]] on [[signature-verification|signature verification]].[7] Voters across the county waited hours in line on election day only to be unable to cast ballots because of technology failures, and were told that ballots deposited in "Drawer Three" would still be counted.[7]
+
+The county's own [[maricopa-county-2022-ballot-on-demand-printer-investigation|Ballot on Demand printer investigation]] revealed that Runbeck and county technical staff traveled to roughly 70 vote centers — about half — to troubleshoot printer problems, and confirmed that the ballot image had been increased from 19 to 20 inches before the election, while maintaining that the county did not know how the change was made.[7]
+
+At the May 17–19, 2023 trial, two whistleblowers from the [[maricopa-county-tabulation-and-election-center|Maricopa County Tabulation and Election Center]] testified about breakdowns in the county's Level 1 and Level 2 review process, and plaintiffs' expert [[erich-speckin|Erich Speckin]] presented the county's own data showing 274,319 signature comparisons completed in two seconds or less and 70,839 in one second or less, plus more than 45,000 approvals via batch upload.[7] The county's director of elections for mail-in voting, [[ray-valenzuela|Rey Valenzuela]], was its only witness.[7] Plaintiffs also alleged that the county had conducted a secret logic and accuracy test in violation of Arizona law, producing the very failures seen on election day, and had hidden that evidence from the court and the public.[7]
+
 ## References
 
 1. Badlands Brief — "An SOS From Ground Zero", URL: https://badlands.substack.com/p/an-sos-from-ground-zero
@@ -51,3 +59,4 @@ In August 2024 [[america-first-legal|America First Legal]] sued Maricopa County 
 The Badlands Media "Q For Dummies" series observed that Maricopa County is the only county in the United States that [[qanon|Q]] mentions by name.[6] The point was raised while discussing [[michael-flynn|General Michael Flynn]]'s command of the [[111th-military-intelligence-brigade|111th Military Intelligence Brigade]] at [[fort-huachuca|Fort Huachuca]], Arizona, which the author noted placed Flynn in charge of an intelligence unit just south of the county — a juxtaposition he flagged as interesting without asserting a definite connection.[6]
 
 6. Badlands Brief — "Q For Dummies - Chapter 13", URL: https://badlands.substack.com/p/q-for-dummies-chapter-13
+7. Badlands Brief — "That's Not Signature Verification, Your Honor", URL: https://badlands.substack.com/p/thats-not-signature-verification

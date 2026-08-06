@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [foreign-policy, censorship, commentary]
-sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-cfa.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-b01.md, raw/days-of-thunder.md, raw/how-to-rent-a-riot-the-plausible.md, raw/is-the-censorship-war-over.md]
+sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-cfa.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-b01.md, raw/days-of-thunder.md, raw/how-to-rent-a-riot-the-plausible.md, raw/is-the-censorship-war-over.md, raw/the-cia-is-being-thrown-under-the.md]
 confidence: low
 ---
 
@@ -74,3 +74,11 @@ Secretary of State [[marco-rubio|Marco Rubio]] sat down with Benz — described 
 Benz also criticized the Trump administration where he judged it to be repeating its predecessor's practices. Badlands cited his observation that a federal government agency should never use the phrase "hide behind the First Amendment," after the Department of Homeland Security under [[kristi-noem|Kristi Noem]] employed that language to justify action against non-citizen speech.[11] An accompanying image credit in the article referenced Benz's X account, @mikebenzcyber, for a diagram of the [[censorship-industrial-complex|censorship-industrial complex]].[11]
 
 11. Badlands Brief — "Is the Censorship War Over?", URL: https://badlands.substack.com/p/is-the-censorship-war-over
+
+## Interview on CIA control of Google and Facebook (2024)
+
+In "The CIA is Being Thrown Under the Bus," Erik Carlson cites Benz's interview with [[tucker-carlson|Tucker Carlson]] as part of a cluster of early-2024 media events exposing the [[central-intelligence-agency|CIA]].[12] Benz is described as explaining how the agency created and uses Google and Facebook to control and censor Americans.[12]
+
+Carlson connects this to his own claim that [[mark-zuckerberg|Mark Zuckerberg]] is a CIA cut-out and that both Facebook and Google are [[darpa|DARPA]] creations used by the agency to monitor and control people.[12]
+
+12. Badlands Brief — "The CIA is Being Thrown Under the Bus", URL: https://badlands.substack.com/p/the-cia-is-being-thrown-under-the

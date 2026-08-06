@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence-community, dni, russiagate]
-sources: [raw/badlands-brief-195.md, raw/badlands-news-brief-754.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-cff.md, raw/badlands-news-brief-ffa.md, raw/moves-and-countermoves.md, raw/q-for-dummies-chapter-19.md]
+sources: [raw/badlands-brief-195.md, raw/badlands-news-brief-754.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-cff.md, raw/badlands-news-brief-ffa.md, raw/moves-and-countermoves.md, raw/q-for-dummies-chapter-19.md, raw/the-biggest-boomerang-in-history.md]
 confidence: medium
 ---
 
@@ -56,3 +56,9 @@ Badlands commentary observed that the piece appeared one day before the [[durham
 Chapter 19 of the [[q-for-dummies|Q for Dummies]] series states that Admiral [[michael-rogers|Michael Rogers]] was so effective at rooting out and identifying corruption that Clapper was one of the officials who went to Barack Obama seeking to have him fired.[7] The chapter contrasts that effort with [[donald-trump|Donald Trump]]'s decision to retain Rogers as the 17th Director of the [[national-security-agency|NSA]], which it reads as a mark of trust between the two men.[7]
 
 7. Badlands Brief — "Q for Dummies - Chapter 19", URL: https://badlands.substack.com/p/q-for-dummies-chapter-19
+
+## Named in the boomerang narrative
+
+"[[the-biggest-boomerang-in-history|The Biggest Boomerang In History]]" names Clapper, alongside [[john-brennan|John Brennan]], as leading the Intelligence Community component of what [[joe-lange|Joe Lange]] calls an elaborate conspiracy involving everyone at the top of the [[barack-obama|Obama]] administration, together with the [[department-of-justice|Department of Justice]] under [[loretta-lynch|Loretta Lynch]] and [[sally-yates|Sally Yates]] and the [[fbi|FBI]] under [[james-comey|James Comey]] and [[andrew-mccabe|Andrew McCabe]].[8] Clapper also appears among the media keywords listed in Q drop 4012 of April 30, 2020, which called the affair the biggest political scandal in American history.[8] These claims reflect Badlands Media interpretation rather than established fact.
+
+8. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history

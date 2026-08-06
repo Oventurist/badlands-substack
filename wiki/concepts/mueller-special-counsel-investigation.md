@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [mueller, special-counsel, russiagate, q, disinformation, sdny]
-sources: [raw/disinformation-is-necessary.md, raw/do-you-believe-in-coincidences.md]
+sources: [raw/disinformation-is-necessary.md, raw/do-you-believe-in-coincidences.md, raw/shall-we-play-a-game.md, raw/setting-the-stage.md]
 confidence: medium
 ---
 
@@ -53,3 +53,30 @@ Barr's release of a self-written summary ahead of the full report allowed Trump 
 ## References
 1. Badlands Brief — "Disinformation is Necessary", URL: https://badlands.substack.com/p/disinformation-is-necessary
 2. Badlands Brief — "Do You Believe in Coincidences?", URL: https://badlands.substack.com/p/do-you-believe-in-coincidences
+3. Badlands Brief — "Shall We Play a Game?", URL: https://badlands.substack.com/p/shall-we-play-a-game
+
+## The investigation as a "blockade"
+
+The July 2025 Badlands article "Shall We Play a Game?" by [[joe-lange|Joe Lange]] treats the special counsel as an installed "BLOCKADE," a term drawn from Q drop 2381 of October 9, 2018.[3] That drop, quoted at length in the article, characterises the Mueller appointment as designed to absorb and withhold evidence exposing the deep state, to limit [[donald-trump|Trump]]'s ability to manoeuvre, to "stall-for-time" until the [[2018-midterm-elections|2018 midterm elections]] so that House and Senate investigations could be terminated, to safeguard the Democratic Party base's Russia-collusion narrative, to supply the press with ammunition for impeachment and removal, to demonstrate to foreign players that the [[old-guard|Old Guard]] still pulled the strings, to mobilise Democratic turnout and donations, and to serve as a public-outcry excuse should criminal charges ever be brought against the plotters.[3]
+
+Lange argues that the evidence Mueller shielded was not evidence against Trump — which he says would have been leaked immediately — but evidence of the [[barack-obama|Obama]] administration's spying campaign run through [[john-brennan|John Brennan]]'s [[cia|CIA]] and [[james-comey|James Comey]]'s [[fbi|FBI]].[3] He credits prosecutor [[andrew-weissmann|Andrew Weissmann]] with a steady stream of leaks intended to create the impression that crimes were being uncovered, and describes the contest over public perception as "the narrative battlefield," the fight the enemy considered most important.[3] The enemy's aim, in his telling, was "another Watergate, but much bigger" — not a negotiated exit like Richard Nixon's but prison for Trump and his children, so that no outsider would run for president again.[3]
+
+## Removing the blockade: DECLAS
+
+The same Q drop supplies the article's answer to the blockade: "DECLAS—DECLAS—DECLAS."[3] Lange holds that the president's plenary constitutional authority over classified material, affirmed in Department of the Navy v. Egan (1988), was the one weapon the enemy could not counter, and that [[declas|DECLAS]] was accordingly the "Trump card" of the conflict.[3] He reports that Trump and the military chose to release material as daily "carpet bombs" rather than a single MOAB-style dump, in order to inflict maximum pain, set participants against one another, and induce panic-driven mistakes and cooperation.[3]
+
+## Rosenstein, leverage and the end of the investigation
+
+In Lange's reconstruction, [[rod-rosenstein|Rod Rosenstein]] was installed as acting attorney general over the Russia matter precisely because the enemy wanted him there — and Trump allowed it because Rosenstein could be leveraged, having signed a renewal of the [[carter-page|Carter Page]] FISA warrant and having allegedly proposed wearing a wire against the president.[3] Q drop 2323 of October 3, 2018 is cited for the claim that [[james-baker-fbi|James Baker]] testified that Rosenstein and Comey coordinated to appoint Mueller.[3] Q drop 3473 of July 24, 2019 labels the special counsel a "BLOCKADE" and a "loss of FBI command/control safeguard," ties Mueller to [[uranium-one-deal|Uranium One]] and to the burial of the Epstein case, and declares 2019 the "YEAR OF THE BOOMERANG."[3]
+
+The investigation ended on March 22, 2019 without a single Trump associate charged with Russian collusion, an outcome Lange presents as a foreseen exoneration and as proof that what looked like the biggest scandal in American history had been converted into "the biggest sting operation in history."[3]
+
+## "Setting the Stage" on the investigation as a trap
+
+The Badlands article "Setting the Stage" treats the investigation as the centrepiece of a plan that boomeranged.[4] With [[jeff-sessions|Jeff Sessions]] recused and [[rod-rosenstein|Rod Rosenstein]] overseeing the counterintelligence inquiry, the firing of [[james-comey|James Comey]] forced the appointment of a special counsel, which the enemy believed would seal [[donald-trump|Trump]]'s fate and lead to impeachment, removal and criminal prosecution — making an example that would deter any other outsider from seeking the presidency.[4]
+
+Joe Lange argues there was never any evidence of Russian collusion, as the [[devin-nunes|Devin Nunes]] memo from the House Intelligence Committee showed, and that [[robert-mueller|Mueller]] served as an insurance policy able to bury evidence implicating the [[barack-obama|Obama]] administration.[4] Trump, in this account, kept the spotlight on the investigation as a deliberate distraction while [[racketeer-influenced-and-corrupt-organizations-act|RICO]] investigations proceeded in the background under Sessions, with [[john-huber|John Huber]] and [[michael-horowitz|Michael Horowitz]] reporting to Sessions rather than Rosenstein.[4]
+
+The expected endpoint was an obstruction-of-justice charge over Comey's firing, built on Comey's allegation that Trump asked him to drop the [[michael-flynn|Flynn]] probe, with the bureau's senior leadership lined up as witnesses in what one law enforcement official called "the Federal Bureau of Investigation versus Donald Trump."[4] Lange gives three reasons it never happened: [[david-bowdich|David Bowdich]] was a plant inside the FBI holding the evidence, Trump could [[declas|declassify]], and Mueller had already cut a deal.[4]
+
+4. Badlands Brief — "Setting the Stage", URL: https://badlands.substack.com/p/setting-the-stage

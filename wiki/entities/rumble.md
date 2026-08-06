@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [platform, free-speech, video, censorship, 5gw]
-sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-brief-a1a.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5b2.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7b1.md, raw/badlands-news-brief-890.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-ca1.md, raw/badlands-news-brief-e99.md, raw/badlands-news-brief-f94.md, raw/control-through-language.md, raw/jd-vance-sidley-austin-and-q-post.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-brief-a1a.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5b2.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7b1.md, raw/badlands-news-brief-890.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-ca1.md, raw/badlands-news-brief-e99.md, raw/badlands-news-brief-f94.md, raw/control-through-language.md, raw/jd-vance-sidley-austin-and-q-post.md, raw/the-censorship-war-counteroffensive.md]
 confidence: medium
 ---
 
@@ -105,3 +105,11 @@ In February 2025 the U.S. District Court for the Middle District of Florida rule
 14. Badlands Brief — "Badlands News Brief: The Proof is in the Proxy ...", URL: https://badlands.substack.com/p/badlands-news-brief-f94
 15. Badlands Brief — "Control Through Language", URL: https://badlands.substack.com/p/control-through-language
 16. Badlands Brief — "JD Vance, Sidley Austin, & Q Post #238", URL: https://badlands.substack.com/p/jd-vance-sidley-austin-and-q-post
+
+## Withdrawal from Brazil and the lawsuit against Moraes
+
+In December 2023 Rumble departed [[brazil|Brazil]] over what it deemed a plethora of unlawful censorship orders from Supreme Court Justice [[alexandre-de-moraes|Alexandre de Moraes]], which sought to bar numerous creators and voices — including elected members of Brazil's Congress — from the platform.[17] Moraes demanded that Rumble keep the orders confidential and threatened to shut down its Brazilian operations if it did not comply immediately.[17] Chief executive [[chris-pavlovski|Chris Pavlovski]] said the company had committed not to move the goalposts on its content policies as part of its mission to restore a free and open internet, and therefore disabled access for Brazilian users while it challenged the legality of the court's demands, adding that the move would have no material effect on its business.[17] [[glenn-greenwald|Glenn Greenwald]], whose reporting is widely read by Brazilian audiences, analyzed the episode on his Rumble program System Update.[17]
+
+Service was later restored in Brazil after Moraes withdrew an order blocking the account of the podcaster Monark, though the judge immediately instructed Rumble's Brazilian lawyers to resume representing the company so they could receive his orders.[17] A subsequent Moraes order requiring Rumble to ban the journalist [[allan-dos-santos|Allan dos Santos]] worldwide — not merely inside Brazil — within two hours triggered the February 19, 2025 joint federal complaint with [[trump-media-and-technology-group|Trump Media and Technology Group]], which relies on Rumble for the cloud services behind [[truth-social|Truth Social]].[17] The suit asked the court to bar [[apple|Apple]] and [[google|Google]] from complying with any Moraes order to remove either platform from their app stores and requested a jury trial.[17] See [[rumble-and-trump-media-v-moraes|Rumble and Trump Media v. Moraes]] and [[censorship-war|Censorship War]].[17]
+
+17. Badlands Brief — "The Censorship War - Counteroffensive", URL: https://badlands.substack.com/p/the-censorship-war-counteroffensive

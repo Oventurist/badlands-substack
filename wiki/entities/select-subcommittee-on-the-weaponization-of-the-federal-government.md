@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, oversight, fbi, whistleblowers]
-sources: [raw/badlands-news-brief-d61.md]
+sources: [raw/badlands-news-brief-d61.md, raw/the-church-committee-for-dummies.md]
 confidence: low
 ---
 
@@ -24,3 +24,10 @@ Whistleblowers appearing before committee Republicans also stated that the FBI h
 
 ## References
 1. Badlands News Brief — "Bakhmut Kaput, Legal Lake & Elitist Exposure", URL: https://badlands.substack.com/p/badlands-news-brief-d61
+2. Badlands Brief — "The Church Committee, for Dummies", URL: https://badlands.substack.com/p/the-church-committee-for-dummies
+
+## Establishment as a "Church-style" committee
+
+The House voted in January 2023 to establish the subcommittee explicitly as a "Church-style" body modeled on the 1975 [[church-committee|Church Committee]], with wide-ranging powers to investigate alleged civil liberties violations by government agencies.[2] It was housed within the [[house-judiciary-committee|Judiciary Committee]] and expected to be chaired by Rep. [[jim-jordan|Jim Jordan]] (R-OH), who also chaired the parent committee.[2] Badlands Media framed its creation as long overdue, arguing that the reforms following the Church Committee were far from comprehensive and that the intelligence community had since taken its misconduct to new levels.[2]
+
+Democratic opposition was immediate: California Rep. [[pete-aguilar|Pete Aguilar]] said it was "in our best interest to make sure we are representing the will of the caucus and the American public, and that Republicans don't have an opportunity behind closed doors to shape, and to add to, these conspiracy theories."[2] Badlands responded that "the only conspiracy theories allowed in Congress are the ones peddled by the intelligence community via compromised Democrats and the mainstream media."[2]

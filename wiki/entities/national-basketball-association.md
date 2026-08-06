@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [nba, sports, speech, corporate-power]
-sources: [raw/badlands-news-brief-547.md, raw/badlands-news-brief-cf8.md]
+sources: [raw/badlands-news-brief-547.md, raw/badlands-news-brief-cf8.md, raw/sports-in-society.md]
 confidence: medium
 ---
 
@@ -24,6 +24,11 @@ In October 2025 the league was at the center of a massive federal indictment for
 
 Badlands commentator [[burning-bright|Burning Bright]] urged readers not to underestimate the convergence implied by the sting, arguing the [[donald-trump|Trump]] FBI was signal-boosting it precisely because it tied the league to organized crime, and framing the affair as further evidence of the [[system-of-systems|System of Systems]] — concluding that "sports are fake."[2]
 
+## Vaccine mandates and characterization of the league
+
+The Badlands essay "Sports in Society" calls the NBA "arguably the most controlled and corrupt sporting organization in America."[3] During the COVID-19 pandemic [[kyrie-irving|Kyrie Irving]] was barred from playing in any arena requiring proof of vaccination, including the [[brooklyn-nets|Brooklyn Nets]]' home arena, and the article emphasizes that neither his team, nor his owner, nor the National Basketball Players Association defended him.[3] His later suspension for sharing a documentary link, with no comment attached, is presented as the league punishing thought itself.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: State of Confusion, Kamala Mayhem & Boiled Eggs", URL: https://badlands.substack.com/p/badlands-news-brief-547
 2. Badlands Brief — "Badlands News Brief: B-Ball Bets, Bomber Busts, & 'Bipartisan' Bill Blockage", URL: https://badlands.substack.com/p/badlands-news-brief-cf8
+3. Badlands Brief — "Sports in Society", URL: https://badlands.substack.com/p/sports-in-society

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [law, foreign-policy, donald-trump, lawfare]
-sources: [raw/badlands-news-brief-d43.md]
+sources: [raw/badlands-news-brief-d43.md, raw/the-biggest-boomerang-in-history.md]
 confidence: medium
 ---
 
@@ -20,3 +20,9 @@ Badlands Media's August 22, 2024 news brief treated the Logan Act framing as the
 
 ## References
 1. Badlands News Brief — "Trump's Rubber and They're Glue ... Plus Angry Russians", URL: https://badlands.substack.com/p/badlands-news-brief-d43
+
+## The Logan Act in the Flynn interview
+
+"[[the-biggest-boomerang-in-history|The Biggest Boomerang In History]]" cites Boston Herald reporting that released Justice Department documents showed [[fbi|FBI]] agents were unsure of the purpose of their interview with [[michael-flynn|Michael Flynn]] — whether to catch the retired general in a lie or to get him to admit to violating the 221-year-old Logan Act, which prohibits private citizens from conducting foreign policy on behalf of the United States and has never resulted in a conviction.[2] The same documents show agents mulling whether the objective was to catch Flynn in a lie and possibly create the conditions under which he would be fired.[2] [[joe-lange|Joe Lange]] treats this material as evidence of entrapment by [[james-comey|Comey]]'s FBI.[2] These claims reflect Badlands Media interpretation rather than established fact.
+
+2. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history

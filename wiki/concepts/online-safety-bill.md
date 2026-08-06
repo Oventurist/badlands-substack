@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [censorship, uk, legislation, 5gw, internet-regulation]
-sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-news-brief-f94.md, raw/is-the-censorship-war-over.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-news-brief-f94.md, raw/is-the-censorship-war-over.md, raw/the-censorship-war-counteroffensive.md]
 confidence: medium
 ---
 
@@ -43,3 +43,9 @@ Badlands contributor Ryan DeLarme wrote that the bill set "tougher standards" fo
 Badlands Media grouped the United Kingdom's Online Safety Bill with Canada's [[online-streaming-act|Online Streaming Act]] (Bill C-11) and the European Union's [[digital-services-act|Digital Services Act]] as the principal legislative tools in what contributor [[ryan-delarme|Ryan DeLarme]] described, in a piece written before the 2024 U.S. election, as a multinational attack on free speech.[3] Revisiting that survey in April 2025, he judged that of the three the Digital Services Act was the instrument with the most teeth and the vehicle in which recently dismissed disinformation practitioners had placed their remaining hope — Europe, he argued, having been the true progenitor of the [[censorship-industrial-complex|censorship apparatus]] in the first place.[3]
 
 3. Badlands Brief — "Is the Censorship War Over?", URL: https://badlands.substack.com/p/is-the-censorship-war-over
+
+## Passage into law
+
+The Online Safety Bill received Royal Assent on October 26, 2023, becoming the [[online-safety-act-2023|Online Safety Act 2023]] and thus an operational statute rather than a bill.[4] Badlands contributor [[ryan-delarme|Ryan DeLarme]], who read the original text in 2023, wrote that Section 10 created offenses of transmitting "harmful, false and threatening communications" without defining "harmful" or the criteria for "false," that clause 156 criminalized sending a message containing false information, and that clause 157 granted immunity to every newspaper, television channel and streaming service.[4] He also flagged clause 122, empowering [[ofcom|Ofcom]] to mandate scanning of encrypted platforms, as an expansion of mass surveillance comparable in framing to the [[patriot-act|Patriot Act]].[4] See [[censorship-war|Censorship War]].[4]
+
+4. Badlands Brief — "The Censorship War - Counteroffensive", URL: https://badlands.substack.com/p/the-censorship-war-counteroffensive

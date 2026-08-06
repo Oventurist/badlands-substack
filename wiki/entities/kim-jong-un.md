@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [north-korea, russia, ukraine-war, kursk, badlands-brief]
-sources: [raw/badlands-brief-9f2.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-a0c.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-b22.md, raw/badlands-news-brief-bbb.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-d76.md, raw/badlands-news-brief-e38.md, raw/badlands-news-brief-f76.md, raw/everything-is-connected.md, raw/q-for-dummies-chapter-6.md]
+sources: [raw/badlands-brief-9f2.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-a0c.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-b22.md, raw/badlands-news-brief-bbb.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-d76.md, raw/badlands-news-brief-e38.md, raw/badlands-news-brief-f76.md, raw/everything-is-connected.md, raw/q-for-dummies-chapter-6.md, raw/q-for-dummies-chapter-5.md, raw/the-accomplishments-of-president.md]
 confidence: medium
 ---
 
@@ -151,6 +151,11 @@ Badlands commentary in August 2025 credited Kim Jong Un with a "PsyAct" that sub
 
 Badlands contributor Joe Lange interprets [[qanon|Q]] drop 1245's instruction to "define hostage" as indicating that Kim Jong Un was himself a hostage of the [[central-intelligence-agency|CIA]] rather than an independent dictator, and that [[donald-trump|Donald Trump]] set him free as part of making the world safer.[27] In this account the mechanism of control was technical: three CIA [[snow-white-supercomputers|supercomputers]] operating inside [[north-korea|North Korea]], installed with the help of [[eric-schmidt|Eric Schmidt]] and [[bill-richardson|Bill Richardson]], which [[mike-pompeo|Mike Pompeo]] took offline.[27] Three North Korean generals were also freed from CIA control and closed the agency's "pathway" to those systems, which Lange offers as the reason [[barack-obama|Barack Obama]] was unable to reach Kim Jong Un secretly after the puppet strings were cut.[27]
 
+
+## 2019 DMZ meeting with Trump (Badlands account)
+
+In June 2019 Kim met [[donald-trump|President Donald Trump]] at the Korean Demilitarized Zone, an encounter that made Trump the first sitting United States president to enter the DMZ.[30] Badlands Media described the [[2019-trump-kim-dmz-meeting|meeting]] as a demonstration of Trump's unconventional foreign policy that began a process toward peace with [[north-korea|North Korea]] and led Kim to back away from his nuclear rhetoric.[30]
+
 ## References
 
 1. Badlands Brief — "Rigged Maps, Russian Grain, & Maduro's Billable Hours", URL: https://badlands.substack.com/p/badlands-brief-9f2
@@ -206,3 +211,10 @@ During a Beijing military parade in early September 2025 marking the victory ove
 Chapter 6 of Badlands' [[q-for-dummies|Q for Dummies]] series argues that at the time of the [[2017-north-korean-nuclear-test-site-collapse|October 2017 collapse of a North Korean nuclear test facility]], rhetoric and "saber rattling" from Kim were at an all-time high and his summit with [[donald-trump|President Trump]] had not yet occurred; not long afterwards, the chapter says, he began "singing a very different tune" towards both the region and the United States.[28]
 
 Reading [[qanon|Q]] drop #50 of November 2, 2017, the chapter asserts that the [[deep-state|Deep State]] has controlled [[north-korea|North Korea]] since at least the Korean War, using the country as a puppet state to keep regional tensions high and to preserve a war option.[28] In that account both the country and Kim personally were hostages, with Kim doing what his "overlords" instructed; the author treats the change in his attitude once Trump took office, and the subsequent collapse of North Korean tension as a factor, as further proof of the puppet relationship.[28] The chapter also reads the same drop as implying that North Korea obtained its uranium through the [[uranium-one-deal|Uranium One]] deal.[28]
+
+## Q drop #39 and the denuclearization track
+
+Chapter 5 of [[q-for-dummies|Q for Dummies]] situates the eventual Trump–Kim summit within its reading of Q drop #39 of November 2, 2017.[29] The chapter argues that at the time of the drop, [[donald-trump|Trump]]'s meeting with Kim and [[north-korea|North Korean]] denuclearization "was not far off," and that [[barack-obama|Barack Obama]]'s alleged travel to North Korea was an attempt to prevent it.[29] Obstructing the deal, on this reading, would have preserved the peninsula as a source of fear and chaos useful to the [[deep-state|Deep State]].[29]
+
+29. Badlands Brief — "Q for Dummies - Chapter 5", URL: https://badlands.substack.com/p/q-for-dummies-chapter-5
+30. Badlands Brief — "The Accomplishments of President Trump - Part 1", URL: https://badlands.substack.com/p/the-accomplishments-of-president

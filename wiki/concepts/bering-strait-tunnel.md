@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [infrastructure, arctic, russia, china, alaska, land-bridge]
-sources: [raw/avoiding-wwiii.md, raw/badlands-brief-58d.md]
+sources: [raw/avoiding-wwiii.md, raw/badlands-brief-58d.md, raw/shadows-sovereigns-and-civil-wars.md, raw/the-battle-over-closed-vs-open-systems.md]
 confidence: medium
 ---
 
@@ -33,3 +33,17 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] frame
 ## References
 1. Badlands Brief — "Avoiding WWIII", URL: https://badlands.substack.com/p/avoiding-wwiii
 2. Badlands Brief — "White Knuckling Weaponized Government", URL: https://badlands.substack.com/p/badlands-brief-58d
+
+## Nineteenth-century origins and the 1905 proposal
+
+The project traces to December 1864, when President [[abraham-lincoln|Abraham Lincoln]] told Congress that the proposed overland telegraph between America and Europe by way of Bering's Straits and Asiatic Russia had been undertaken "under very favorable circumstance," with most South American states ready to cooperate in constructing lines tributary to that world-encircling communication.[3] Russian Alaska was sold to the USA only three years later, explicitly around the notion of facilitating this program.[3]
+
+In 1905 Czar [[nicholas-ii|Nicholas II]], following the advice of [[sergei-witte|Sergey Witte]], gave national support to the Bering Strait tunnel and funded a team of American engineers to conduct feasibility studies.[3] The plans were completed in the same year that [[jacob-schiff|Jacob Schiff]] financed Japan's victory in the [[russo-japanese-war|Russo-Japanese War]], and the project was overtaken by an age of bankers' wars, anarchist assassinations and economic turmoil.[3]
+
+3. Badlands Brief — "Shadows, Sovereigns and Civil Wars - Part 1", URL: https://badlands.substack.com/p/shadows-sovereigns-and-civil-wars
+
+## 2007 revival and Arctic integration
+
+In 2007 Russia revived the 150-year-old idea, which had once enjoyed the support of leading Republicans of [[abraham-lincoln|Lincoln]]'s nineteenth-century America, to unite rail lines in America and Eurasia through a 65-mile tunnel beneath the Bering Strait.[4] Russia re-emphasized its commitment to the $64 billion project in 2011.[4] With China's [[polar-silk-road|Polar Silk Road]] extending the traditionally east-west development corridor into the Arctic, and with China and Russia increasingly merging the [[belt-and-road-initiative|Belt and Road Initiative]] with the [[eurasian-economic-union|Eurasian Economic Union]], [[matthew-ehret|Matthew Ehret]] argues this development dynamic offers economic opportunity to all Arctic nations and an escape from military confrontation.[4] He links it to [[donald-trump|Donald Trump]]'s executive order reviving the [[alaska-canada-railway|Alaska-Canada Railway]] as part of an [[open-systems-vs-closed-systems|open-system]] Arctic strategy.[4]
+
+4. Badlands Brief — "The Battle over Closed vs. Open Systems", URL: https://badlands.substack.com/p/the-battle-over-closed-vs-open-systems

@@ -1,10 +1,10 @@
 ---
-title: Operation Mockingbird
+title: "Operation Mockingbird"
 created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [cia, media, propaganda, church-committee]
-sources: [raw/america-has-a-cia-run-economy.md, raw/assad-day-in-damascus.md, raw/badlands-news-brief-d8f.md, raw/four-pillars-of-government-control.md, raw/operation-gladio-a-primer.md, raw/q-for-dummies-chapter-1.md, raw/q-for-dummies-chapter-14.md, raw/q-for-dummies-chapter-15.md, raw/q-for-dummies-chapter-19.md, raw/q-for-dummies-chapter-17.md, raw/q-for-dummies-chapter-21.md, raw/q-for-dummies-chapter-6.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/assad-day-in-damascus.md, raw/badlands-news-brief-d8f.md, raw/four-pillars-of-government-control.md, raw/operation-gladio-a-primer.md, raw/q-for-dummies-chapter-1.md, raw/q-for-dummies-chapter-14.md, raw/q-for-dummies-chapter-15.md, raw/q-for-dummies-chapter-19.md, raw/q-for-dummies-chapter-17.md, raw/q-for-dummies-chapter-21.md, raw/q-for-dummies-chapter-6.md, raw/q-is-real-because-math-says-so.md, raw/q-for-dummies-chapter-3.md, raw/structures-of-control-part-3.md]
 confidence: medium
 ---
 
@@ -55,6 +55,14 @@ Chapter 14 of the [[q-for-dummies|Q for Dummies]] series notes that Q drop #99, 
 
 CNN anchor [[anderson-cooper|Anderson Cooper]] is offered as the illustrative case: the chapter observes that he never attended school for journalism, that he is a member of the [[vanderbilt-family|Vanderbilt family]] through his mother [[gloria-vanderbilt|Gloria Vanderbilt]], and that he served as an intern at the [[central-intelligence-agency|CIA]] — the last of which the author calls the decisive evidence that Cooper is a Mockingbird media asset.[7]
 
+## Celebrity influence in Q drop #19
+
+Chapter 3 of [[q-for-dummies|Q for Dummies]] treats the use of celebrity status and fame to push narratives and agendas as a tactic of the Operation Mockingbird apparatus, describing it as long-established and highly effective.[14] The author writes that celebrities have been used to sell the public "any and everything under the sun," from food and cars to politics, and offers as the most glaring recent example what he characterises as Hollywood figures promoting masks and vaccines.[14] He extends the claim to the contemporary media attention on [[travis-kelce|Travis Kelce]] and [[taylor-swift|Taylor Swift]].[14]
+
+## Cited in Structures of Control
+
+Part 3 of Badlands Media's *Structures of Control* series lists Operation Mockingbird as a government program illustrating how mass media is weaponized to shape perception, grouping it with the suppression of [[nikola-tesla|Nikola Tesla]]'s wireless energy research and with classified consciousness studies such as the [[project-stargate|Stargate Project]] and the [[gateway-process|Gateway Process]] under the heading of technological suppression and weaponization.[15] In that argument the program is one component of the [[manufactured-5d|manufactured 5D]], the [[deep-state|Deep State]]'s counterfeit of higher consciousness sustained through controlled information flows.[15]
+
 ## References
 
 1. Badlands Brief — "America Has a CIA-Run Economy", URL: https://badlands.substack.com/p/america-has-a-cia-run-economy
@@ -97,3 +105,11 @@ The chapter identifies the "4am talking points" as part of this apparatus, expla
 Chapter 21 of [[q-for-dummies|Q for Dummies]] glosses Q drop #128's question "What is a spell" as a reference to Mockingbird.[11] [[paul-fleuret|Paul Fleuret]] writes that beyond its folkloric sense of an act of magic that places its subject under control, a spell can be quite real in that the cabal cast one on society for decades through the Mockingbird media.[11]
 
 Paired with Q's instruction to "think mirror," Fleuret concludes that undoing that conditioning required [[white-hats|white hats]] to use the same media apparatus in reverse — putting forward stories and narratives absurd enough that the public would begin to take notice.[11] He argues the process was never going to be fast or easy, and offers as evidence of white-hat authorship the improbability that the opposing side would have circulated a story about its own vice-presidential candidate drinking horse semen.[11] The argument underpins his related claim that [[donald-trump|Trump]] left the [[smith-mundt-act|Smith–Mundt Act]] in place deliberately.[11]
+
+13. Badlands Brief — "Q is Real, Because Math Says So", URL: https://badlands.substack.com/p/q-is-real-because-math-says-so
+14. Badlands Brief — "Q for Dummies - Chapter 3", URL: https://badlands.substack.com/p/q-for-dummies-chapter-3
+
+## Scale of funding and the "Q influencer" problem
+
+In "Q is Real, Because Math Says So" (June 27, 2024), [[american-hypnotist|American Hypnotist]] asserts that the Mockingbird disinformation machine is funded to the tune of hundreds of billions of dollars per year, stating explicitly that this is not an exaggeration.[13] He extends the operation's reach beyond legacy outlets to the alternative-media space itself, arguing that plenty of seemingly home-grown content creators have emerged claiming to be "Q experts" — some even claiming personal acquaintance with Q — and that it would not surprise him if most so-called Q influencers exist to mislead adherents while discrediting them in the eyes of their countrymen.[13] His prescribed defence is to disregard third-party reporting entirely and consult the freely available primary source, the [[q-operation|Q]] drops.[13]
+15. Badlands Brief — "Structures of Control - Part 3", URL: https://badlands.substack.com/p/structures-of-control-part-3

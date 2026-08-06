@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [catholic-church, religion, italy]
-sources: [raw/badlands-news-brief-09e.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-7bf.md, raw/is-jerome-powell-a-patriot.md]
+sources: [raw/badlands-news-brief-09e.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-7bf.md, raw/is-jerome-powell-a-patriot.md, raw/soul-governance.md]
 confidence: medium
 ---
 
@@ -33,8 +33,15 @@ In the April 3, 2023 essay "Is Jerome Powell a Patriot?", [[erik-carlson|Erik Ca
 
 Within that division, Carlson assigned the Vatican control of world religion, the City of London the world's financial system, and Washington, D.C. the world's military, with overlap among them.[4] He noted that Vatican City is not part of Italy or Rome, that the Vatican is said to hold massive amounts of money which the City of London controls, and that unlike the City of London it is an independent nation.[4] He also relayed a theory that the three red stars on the District of Columbia's flag denote D.C., Vatican City and the City of London.[4]
 
+## In "Soul Governance"
+
+The Badlands Media essay [[soul-governance|Soul Governance]] presents the Vatican as the historical origin of a system of legal ownership over persons, arguing that it "did not merely spread Christianity" but spread "legal dominion masked as doctrine."[5] The essay reads [[boniface-viii|Pope Boniface VIII]]'s 1302 bull [[unam-sanctam|Unam Sanctam]] — declaring every human creature subject to the Roman pontiff — as a literal legal claim rather than a theological one.[5]
+
+That claim, the essay says, was implemented through [[cestui-que-vie-trust|Cestui Que Vie trusts]], which presumed anyone unable to prove spiritual sovereignty to be lost at sea; under the resulting maritime framing the person became cargo and the Vatican became the port.[5] The [[jesuits|Jesuits]] are described as the operators of this machinery, conquering "by simulation" rather than by sword and producing a contractual, guilt-laden counterfeit of God.[5] The essay traces a lineage from Vatican law through scientific authority to the [[world-economic-forum|World Economic Forum]], which it calls the Vatican of the digital grid.[5]
+
 ## References
 1. Badlands Brief — "Preemptive Pardons, Syrian Sanctions, & Preparations for Putin", URL: https://badlands.substack.com/p/badlands-news-brief-09e
 2. Badlands Brief — "Badlands News Brief: A Coming Conclave & More Musical Chairs", URL: https://badlands.substack.com/p/badlands-news-brief-5c8
 3. Badlands News Brief — "The Bilateral Bromance & A Misled Grand Jury", URL: https://badlands.substack.com/p/badlands-news-brief-7bf
 4. Badlands Brief — "Is Jerome Powell a Patriot?", URL: https://badlands.substack.com/p/is-jerome-powell-a-patriot
+5. Badlands Brief — "Soul Governance", URL: https://badlands.substack.com/p/soul-governance

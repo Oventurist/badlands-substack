@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [poland, europe, politics, diplomacy]
-sources: [raw/badlands-brief-05f.md]
+sources: [raw/badlands-brief-05f.md, raw/rattling-a-broken-saber.md]
 confidence: medium
 ---
 
@@ -18,3 +18,10 @@ In the run-up to February 2026, Tusk issued a rebuke after the U.S. ambassador t
 
 ## References
 1. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
+
+## Polish nuclear options (2025)
+
+In March 2025 the New York Times reported under the headline "Alarmed by Trump, Poland Must Look at Nuclear Options, Premier Says" that Tusk had raised the need for Poland to acquire nuclear capabilities.[2] The statement came amid a wave of European reactions to President [[donald-trump|Donald Trump]]'s threats to abandon [[nato|NATO]], which also included German Chancellor [[friedrich-merz|Friedrich Merz]]'s call for European nuclear weapons sharing.[2] Badlands contributor Ryan DeLarme cited the episode as evidence of a continent-wide elite panic over the prospect of a post-American security order.[2]
+
+## References
+2. Badlands Brief — "Rattling a Broken Saber?", URL: https://badlands.substack.com/p/rattling-a-broken-saber

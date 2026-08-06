@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [plutocrats, philanthropy, canada, green-agenda]
-sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8f3.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a6e.md, raw/badlands-news-brief-d36.md, raw/badlands-news-brief-d68.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-e86.md, raw/badlands-news-brief-f44.md, raw/badlands-news-brief-fde.md, raw/get-woke-go-broke.md, raw/george-soros-shadow-network.md, raw/george-soros-a-british-creation.md, raw/is-the-censorship-war-over.md, raw/power-to-the-people.md, raw/q-for-dummies-chapter-12.md, raw/q-for-dummies-chapter-1.md, raw/q-for-dummies-chapter-19.md, raw/q-for-dummies-chapter-2.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8f3.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a6e.md, raw/badlands-news-brief-d36.md, raw/badlands-news-brief-d68.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-e86.md, raw/badlands-news-brief-f44.md, raw/badlands-news-brief-fde.md, raw/get-woke-go-broke.md, raw/george-soros-shadow-network.md, raw/george-soros-a-british-creation.md, raw/is-the-censorship-war-over.md, raw/power-to-the-people.md, raw/q-for-dummies-chapter-12.md, raw/q-for-dummies-chapter-1.md, raw/q-for-dummies-chapter-19.md, raw/q-for-dummies-chapter-2.md, raw/q-for-dummies-chapter-5.md, raw/q-for-dummies-chapter-3.md, raw/stuck-in-a-groove-of-negativity-and.md]
 confidence: low
 ---
 
@@ -133,6 +133,10 @@ Badlands Media contributor [[pepe-lives-matter|Pepe Lives Matter]] named Soros a
 
 Chapter 12 of the [[q-for-dummies|Q for Dummies]] series notes that in drop #94 Q asked where Soros fits in and immediately followed with a reference to Godfather III.[31] The author reads this, in keeping with Q's habit of double meanings, as identifying Soros as [[hillary-clinton|Hillary Clinton]]'s "Godfather" — while observing that in that film the family falls.[31]
 
+## Q drop #15
+
+Chapter 3 of [[q-for-dummies|Q for Dummies]] notes that [[qanon|Q]] drop #15 of October 31, 2017 closes by letting readers know that "a certain Soros is indeed targeted."[36] The mention sits alongside the drop's references to the toppling of the [[house-of-saud|House of Saud]] and to alleged plants within the Trump campaign.[36]
+
 ## References
 1. Badlands Brief — "A Re-Alignment of World Systems", URL: https://badlands.substack.com/p/a-re-alignment-of-world-systems
 2. Badlands News Brief — "Lake Lasts, Biden Slumps & Powell Blinks", URL: https://badlands.substack.com/p/badlands-news-brief-050
@@ -248,3 +252,15 @@ Chapter 19 of the [[q-for-dummies|Q for Dummies]] series names Soros as the answ
 ## Q for Dummies Chapter 2
 
 Badlands' "Q for Dummies" Chapter 2 invokes Soros in its reading of Q drop #14, asking what would happen if elected officials and law enforcement failed in their sworn duty while "Soros thugs are allowed to operate unfettered while destroying America" — a scenario the author labels a Constitutional Crisis warranting the [[insurrection-act|Insurrection Act]].[34]
+
+## Q drop #36 money transfer
+
+Chapter 5 of [[q-for-dummies|Q for Dummies]] notes that Q drop #36 of November 2, 2017 highlights Soros transferring a large sum of money.[35] The commentary declines to settle the question of what the transfer represented, asking whether it was his own decision, an asset seizure, or a payment to [[hillary-clinton|Clinton]], and concludes only that "the Q team saw it, noted it, and pointed it out."[35] The item sits within the drop's wider sequence on debts owed to bad actors and the cutting of financial strings.[35]
+
+35. Badlands Brief — "Q for Dummies - Chapter 5", URL: https://badlands.substack.com/p/q-for-dummies-chapter-5
+36. Badlands Brief — "Q for Dummies - Chapter 3", URL: https://badlands.substack.com/p/q-for-dummies-chapter-3
+37. Badlands Brief — "Stuck in a Groove of Negativity and Hopelessness", URL: https://badlands.substack.com/p/stuck-in-a-groove-of-negativity-and
+
+## China's denunciation as evidence of a shift
+
+In "Stuck in a Groove of Negativity and Hopelessness" (May 4, 2023), [[erik-carlson|Erik Carlson]] cited a report that China had declared Soros a "global terrorist" and called him "the son of Satan."[37] Carlson presented the denunciation as "pretty good evidence that things are happening behind the scenes," using it to support his broader argument that the [[deep-state|Deep State]] was fragmenting rather than consolidating its power after 2021.[37]

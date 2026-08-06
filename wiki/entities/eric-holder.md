@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [attorney-general, democrats, elections, obama-administration]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-618.md, raw/badlands-news-brief-7e8.md, raw/q-for-dummies-chapter-18.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-618.md, raw/badlands-news-brief-7e8.md, raw/q-for-dummies-chapter-18.md, raw/the-biggest-cover-up-in-american.md]
 confidence: medium
 ---
 
@@ -36,3 +36,9 @@ Chapter 18 of the [[q-for-dummies|Q for Dummies]] series describes [[operation-f
 2. Badlands Brief — "Triggering Summits & Allegedly Fair Elections", URL: https://badlands.substack.com/p/badlands-brief-618
 3. Badlands Brief — "Corruption Within Corruption & A Offer of Free Elections", URL: https://badlands.substack.com/p/badlands-news-brief-7e8
 4. Badlands Brief — "Q for Dummies - Chapter 18", URL: https://badlands.substack.com/p/q-for-dummies-chapter-18
+
+## Approval of the Uranium One deal
+
+As Attorney General, Holder sat with Secretary of State [[hillary-clinton|Hillary Clinton]] on the [[committee-on-foreign-investment-in-the-united-states|Committee on Foreign Investment in the United States]] when it approved the [[uranium-one-deal|Uranium One deal]].[5] [[joe-lange|Joe Lange]] argues that Holder, as head of the [[department-of-justice|Justice Department]], necessarily knew of the FBI's ongoing undercover investigation into bribery by [[rosatom|Rosatom]] subsidiary officials and signed off on the transaction anyway.[5] In his account the Holder Justice Department also worked with the FBI to keep the case quiet, including through the gag order imposed on the confidential informant whose testimony Senator [[chuck-grassley|Chuck Grassley]] later sought.[5]
+
+5. Badlands Brief — "The Biggest Cover-up in American History", URL: https://badlands.substack.com/p/the-biggest-cover-up-in-american

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [elections, voting, election-integrity, congress]
-sources: [raw/badlands-brief-7c6.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-f1a.md, raw/biden-inc-flips.md, raw/inside-the-modern-elections-casino.md]
+sources: [raw/badlands-brief-7c6.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-f1a.md, raw/biden-inc-flips.md, raw/inside-the-modern-elections-casino.md, raw/smart-goal-setting-in-the-age-of.md, raw/stuck-in-a-groove-of-negativity-and.md, raw/thats-not-signature-verification.md]
 confidence: medium
 ---
 
@@ -58,6 +58,16 @@ The article situated this within a broader thesis that the COVID-19 pandemic was
 
 Election analyst [[seth-keshel|Seth Keshel]] argued in April 2025 that universal or "excessive" mail-in voting is one of the structural advantages that weight modern American elections toward establishment-aligned candidates, alongside [[automatic-voter-registration|Automatic Voter Registration]] and [[ballot-harvesting|ballot harvesting]].[7] Citing the [[2025-wisconsin-supreme-court-election|April 2025 Wisconsin Supreme Court race]], he wrote that to say Democrats had "mastered mail-ballot turnout in off-year elections, when turnout is expected to be much lower, is an understatement," noting that roughly 600,000 votes had won the equivalent Wisconsin contests in 2018 and 2019.[7]
 
+## Universal mail balloting in Keshel's model
+
+Writing in February 2025, [[seth-keshel|Seth Keshel]] identified the expansion of mail-in balloting toward the universal model — in which every registration automatically receives a ballot — as the second stage of manual election corruption after corrupted [[voter-registration|voter registration]], naming Washington, Oregon, California and five other states as practitioners.[8] "Excessive Mail-in Voting" is one of his [[eight-cardinal-sins|Eight Cardinal Sins]] of election administration.[8] As evidence that the resulting roll problems are now publicized even in deep blue states, he cited a King 5 report on a woman in Bellevue, Washington, who received sixteen mail ballots at her apartment number.[8] Universal mail balloting also supplies the raw material for professional [[ballot-harvesting|ballot harvesting]], particularly ballots landing at addresses with no real recipient.[8]
+
+## Signature verification as the single control
+
+Signature verification is the single control on mail-in balloting, and Americans were sold mail-in voting with the promise that robust signature verification protocols were in place to prevent fraud.[10] Critics argue that if signatures are not compared as required by [[arizona-revised-statutes-16-550|A.R.S. § 16-550]] and equivalent statutes, there are effectively zero controls ensuring that only lawful ballots are cast.[10]
+
+The May 2023 [[lake-v-hobbs|Lake v. Hobbs]] Count III trial was, in the view of Badlands contributor [[ashe-in-america|Ashe in America]], the first occasion on which millions of Americans watched the electoral negligence of mail-in balloting described in open court, as [[maricopa-county|Maricopa County]] elections director [[ray-valenzuela|Rey Valenzuela]] defended approving signatures in one to two seconds.[10] She noted that the defendants repeatedly objected to the public watching the evidence, and cited [[rasmussen-reports|Rasmussen]] polling from April 2023 showing 62 percent of Americans had lost trust in US elections, a figure rising steadily since November 2020.[10]
+
 ## References
 
 1. Badlands Brief — "The Democratization of Narrative Distribution. And a New War with Iran.", URL: https://badlands.substack.com/p/badlands-brief-7c6
@@ -67,3 +77,12 @@ Election analyst [[seth-keshel|Seth Keshel]] argued in April 2025 that universal
 5. Badlands Brief — "Badlands News Brief: Epstein Barr, Resonant Summits, & A White House Whirlwind", URL: https://badlands.substack.com/p/badlands-news-brief-f1a
 6. Badlands Brief — "Biden, Inc. Flips", URL: https://badlands.substack.com/p/biden-inc-flips
 7. Badlands Brief — "Inside the Modern Elections Casino", URL: https://badlands.substack.com/p/inside-the-modern-elections-casino
+8. Badlands Brief — "SMART Goal Setting in the Age of Election Corruption", URL: https://badlands.substack.com/p/smart-goal-setting-in-the-age-of
+9. Badlands Brief — "Stuck in a Groove of Negativity and Hopelessness", URL: https://badlands.substack.com/p/stuck-in-a-groove-of-negativity-and
+
+## As a 2020 contingency plan (Carlson)
+
+In "Stuck in a Groove of Negativity and Hopelessness" (May 4, 2023), [[erik-carlson|Erik Carlson]] offered a direct answer to the question of why mail-in ballots were needed in 2020: they were, in his account, "a backup plan so 2016 couldn't happen again."[9] His reasoning was that in 2016 the [[deep-state|Deep State]] had polled the electorate, calculated how many votes to flip electronically, and been caught out when more people voted for [[donald-trump|Trump]] than the polling had accounted for — respondents having concealed their intentions out of fear of shame or scrutiny.[9]
+
+Carlson argued the same shortfall recurred in 2020, but that this time a contingency existed: counting could be halted in the middle of the night and fake ballots "trucked in" to make up the difference, producing [[joe-biden|Joe Biden]]'s 81 million votes despite a candidate who barely campaigned.[9] He added that in their haste the operators failed to notice how implausible the result appeared, but could not risk Trump returning to the White House.[9]
+10. Badlands Brief — "That's Not Signature Verification, Your Honor", URL: https://badlands.substack.com/p/thats-not-signature-verification

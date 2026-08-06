@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [big-tech, apple, surveillance, sp-500, ai]
-sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-b7b.md, raw/badlands-news-brief-d04.md, raw/badlands-news-brief-e6c.md, raw/chips-and-dips.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-b7b.md, raw/badlands-news-brief-d04.md, raw/badlands-news-brief-e6c.md, raw/chips-and-dips.md, raw/the-accomplishments-of-president-a2b.md]
 confidence: medium
 ---
 
@@ -83,6 +83,10 @@ In May 2025 [[eddy-cue|Eddy Cue]], Apple's senior vice president of services, te
 
 In August 2025 Apple announced a new $100 billion commitment to America, bringing its total planned US investment to $600 billion over four years, and launched the [[american-manufacturing-program|American Manufacturing Program]] (AMP) to bring more of its supply chain and advanced manufacturing into the United States.[13] Through AMP, the company said it would increase investment across America and incentivize global firms to manufacture more critical components domestically.[13] Chief executive [[tim-cook|Tim Cook]] said the announcement covered new and expanded work with ten companies across America producing components used in Apple products sold worldwide, and thanked the President for his support.[13] Badlands contributor [[ashe-in-america|Ashe in America]], whose team covered the announcement live, argued that legacy media outlets highlighted the $100 billion figure rather than the $600 billion total in order to minimize the news.[13]
 
+## 2018 U.S. Investment Pledge
+
+In January 2018 Apple announced a package of U.S. investment commitments that it attributed in part to the newly enacted federal tax law, headlined by a $350 billion "contribution" to the American economy and a promise to create 20,000 new jobs.[16] Badlands Media's compilation of Donald Trump's economic accomplishments presented the pledge as a direct result of the administration's tax initiatives and as an example of Trump repatriating the business of one of America's largest companies, describing the commitment as roughly $300 billion in domestic spending alongside the 20,000 jobs.[16]
+
 ## References
 1. Badlands Brief — "America Has a CIA-Run Economy", URL: https://badlands.substack.com/p/america-has-a-cia-run-economy
 2. Badlands Brief — "NATO Warmongers & Google Searches for a Way Out", URL: https://badlands.substack.com/p/badlands-news-brief-006
@@ -112,3 +116,4 @@ Responding to an observation by OpenAI's Andrej Karpathy that "Apple Intelligenc
 In the December 2022 feature "CHIPS and Dips," [[burning-bright|Burning Bright]] cited Apple's transition of production from China to Arizona as a direct result of the [[chips-and-science-act|CHIPS Act]] and as one of several concrete signs that the globalist system was being unwound in favor of onshored jobs and infrastructure.[15] He grouped Apple with [[amazon|Amazon]], [[google|Google]] and other Fortune 5 firms — and with "foreign" corporations such as [[samsung-electronics|Samsung]] and Volkswagen — arguing there is no meaningful difference between them, since subversive globalist policies allowing them to benefit from engineered wars, front-run emerging crises and use slave labor as a means of production had turned them into "kingdoms unto themselves."[15] He linked the riots at the Chinese plant in "the city named after the iPhone itself" to those practices and to the suppression of American purchasing power over decades.[15]
 
 15. Badlands Brief — "CHIPS and Dips", URL: https://badlands.substack.com/p/chips-and-dips
+16. Badlands Brief — "The Accomplishments of President Trump - Part 2", URL: https://badlands.substack.com/p/the-accomplishments-of-president-a2b

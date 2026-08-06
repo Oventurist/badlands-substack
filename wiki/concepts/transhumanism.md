@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [transhumanism, technocracy, ideology]
-sources: [raw/a-look-at-recent-features-84d.md, raw/badlands-news-brief-b5a.md, raw/combating-the-transhumanist-religion.md]
+sources: [raw/a-look-at-recent-features-84d.md, raw/badlands-news-brief-b5a.md, raw/combating-the-transhumanist-religion.md, raw/the-battle-over-closed-vs-open-systems.md]
 confidence: low
 ---
 
@@ -38,3 +38,9 @@ Ehret's counter-argument holds that the thesis survives only if consideration is
 1. Badlands Brief — "A Look At Recent Features", URL: https://badlands.substack.com/p/a-look-at-recent-features-84d
 2. Badlands Brief — "An Embattled Media, Mysterious Outages & Gay History", URL: https://badlands.substack.com/p/badlands-news-brief-b5a
 3. Badlands Brief — "Combating the Transhumanist Religion", URL: https://badlands.substack.com/p/combating-the-transhumanist-religion
+
+## Transhumanism as the closed-system endpoint
+
+[[matthew-ehret|Matthew Ehret]] frames transhumanism as the oligarchical closed system against which the emerging Russia/China-led Multipolar Alliance defines itself.[4] In his account, a closed or bounded system inevitably requires fascism as its governing mechanism, because population will always tend to consume more energy than a finite system generates, forcing an elite to decide who receives diminishing resources and who are the "useless eaters" sacrificed for the greater good.[4] He associates this outlook with [[thomas-malthus|Thomas Malthus]], T.H. Huxley, [[henry-kissinger|Henry Kissinger]] and [[al-gore|Al Gore]], and contrasts it with [[open-systems-vs-closed-systems|open-system]] thinking premised on unbounded creative and technological progress.[4]
+
+4. Badlands Brief — "The Battle over Closed vs. Open Systems", URL: https://badlands.substack.com/p/the-battle-over-closed-vs-open-systems

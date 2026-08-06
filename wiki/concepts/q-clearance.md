@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [security-clearance, department-of-energy, qanon, classification]
-sources: [raw/q-for-dummies-chapter-6.md]
+sources: [raw/q-for-dummies-chapter-6.md, raw/the-biggest-cover-up-in-american.md]
 confidence: medium
 ---
 
@@ -20,3 +20,9 @@ The chapter reasons that only a small number of individuals would hold clearance
 
 ## References
 1. Badlands Brief — "Q for Dummies - Chapter 6", URL: https://badlands.substack.com/p/q-for-dummies-chapter-6
+
+## "Who would have the goods on U1?"
+
+[[qanon|Q]] drop #48 of November 2, 2017 asked what Q Clearance is, what hint it explicitly refers to, and "Who would have the goods on U1?" — while clarifying that using the name "Q" does not indicate the poster works at the [[department-of-energy|Department of Energy]] but rather that they hold the highest level of security within all departments.[2] [[joe-lange|Joe Lange]] explains that Q Clearance is the highest classification at the Department of Energy, that the department therefore holds the full evidentiary record on the [[uranium-one-deal|Uranium One deal]], and that Q is a military intelligence operation rather than a departmental source.[2]
+
+2. Badlands Brief — "The Biggest Cover-up in American History", URL: https://badlands.substack.com/p/the-biggest-cover-up-in-american

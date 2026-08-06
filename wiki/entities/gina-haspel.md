@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cia, intelligence, deep-state, london, bae-systems]
-sources: [raw/purple-revolution.md]
+sources: [raw/purple-revolution.md, raw/the-cia-is-being-thrown-under-the.md]
 confidence: medium
 ---
 
@@ -24,3 +24,11 @@ Haspel served as CIA station chief in London from 2008 to 2011 and again from 20
 
 ## References
 1. Badlands Brief — "Purple Revolution", URL: https://badlands.substack.com/p/purple-revolution
+
+## Directorship in Carlson's account of Trump and the CIA
+
+In the March 2024 article "The CIA is Being Thrown Under the Bus," Erik Carlson cited Haspel's tenure as Director of the [[central-intelligence-agency|CIA]] — taking over from [[mike-pompeo|Mike Pompeo]], who moved to Secretary of State — as the point at which [[donald-trump|Donald Trump]] stopped running intelligence through the agency.[2]
+
+Carlson presented this as evidence that a president can contain the agency without formally dismantling it, noting that despite the CIA working against him, Trump was drawn into zero new wars during his term.[2] He suggested a returning Trump could go further and follow through on [[john-f-kennedy|John F. Kennedy]]'s stated desire to splinter the agency into a thousand pieces.[2]
+
+2. Badlands Brief — "The CIA is Being Thrown Under the Bus", URL: https://badlands.substack.com/p/the-cia-is-being-thrown-under-the

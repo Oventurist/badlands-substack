@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [british-empire, round-table, bolsheviks, deep-state]
-sources: [raw/henry-kissinger-british-cabal-puppet.md]
+sources: [raw/henry-kissinger-british-cabal-puppet.md, raw/shadows-sovereigns-and-civil-wars.md]
 confidence: low
 ---
 
@@ -24,3 +24,8 @@ Carlson drew a direct line from Milner's Round Table project to the modern [[fiv
 
 ## References
 1. Badlands Brief — "Henry Kissinger: British Cabal Puppet", URL: https://badlands.substack.com/p/henry-kissinger-british-cabal-puppet
+2. Badlands Brief — "Shadows, Sovereigns and Civil Wars - Part 1", URL: https://badlands.substack.com/p/shadows-sovereigns-and-civil-wars
+
+## Financing of the Russian Revolution
+
+Historian Arsene de Goulevitch, who experienced the events of 1917 firsthand, wrote in 1962 that "in private interviews, I have been told that over 21 million rubles were spent by Lord Alfred Milner in financing the Russian Revolution," adding that the financier was by no means alone among the British in supporting the revolution with large financial donations.[2] Milner is grouped with [[jacob-schiff|Jacob Schiff]] and [[paul-warburg|Paul Warburg]] as backers who always intended [[leon-trotsky|Leon Trotsky]] to lead the movement that would take control over the dead bodies of the Romanovs.[2]

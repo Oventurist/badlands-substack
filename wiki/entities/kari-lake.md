@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [arizona, elections, republican-party, election-integrity]
-sources: [raw/an-sos-from-ground-zero.md, raw/arizona-earthquake.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-862.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-e86.md, raw/inside-the-modern-elections-casino.md, raw/operation-wake-up-america-20.md]
+sources: [raw/an-sos-from-ground-zero.md, raw/arizona-earthquake.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-862.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-e86.md, raw/inside-the-modern-elections-casino.md, raw/operation-wake-up-america-20.md, raw/thats-not-signature-verification.md]
 confidence: medium
 ---
 
@@ -80,6 +80,12 @@ On January 24, 2024, [[arizona-republican-party|Arizona GOP]] chairman [[jeff-de
 
 Badlands writer [[simon-esler|Simon Esler]] argued that the episode vindicated so-called conspiracy theorists, noting that the released call named "powerful people … from back east" desperate to remove Lake from politics entirely.[10] He held that Lake's record of political independence combined with her support for [[donald-trump|Donald Trump]] made her a force in exposing the [[uniparty|NWO Uniparty]], and questioned why DeWit appeared so unfazed at being exposed — asking whether his landing spot in the business world had been secured for him as payment.[10]
 
+## Count III defeat and appeal (May 2023)
+
+Kari Lake's challenge to the November 8, 2022 Arizona gubernatorial election, decided by 17,117 votes out of 2.59 million — a margin of 0.67 percent — returned to court in May 2023 after the [[arizona-supreme-court|Arizona Supreme Court]] revived Count III of her complaint, which alleged that [[maricopa-county|Maricopa County]] failed to comply with [[arizona-revised-statutes-16-550|A.R.S. § 16-550]] on [[signature-verification|signature verification]].[15] Her original case named [[katie-hobbs|Katie Hobbs]] personally as contestee, [[adrian-fontes|Adrian Fontes]] as Secretary of State and [[stephen-richer|Stephen Richer]] as Maricopa County Recorder.[15]
+
+Publicly, the two camps offered different definitions of Lake's burden: Team Hobbs said she had to prove that no signature verification occurred at all, while Team Lake framed the burden as showing that statutory verification did not occur for enough ballot packets to have changed the outcome.[15] At trial her team put on two [[maricopa-county-tabulation-and-election-center|MCTEC]] whistleblowers and expert [[erich-speckin|Erich Speckin]], and her attorney [[kurt-olsen|Kurt Olsen]] argued the election should be set aside as unlawful.[15] Judge [[peter-thompson|Peter Thompson]] dismissed the claim on May 22, 2023, and Lake, who was expected to announce her next steps the following day, was expected to appeal.[15]
+
 ## References
 
 1. Badlands Brief — "An SOS From Ground Zero", URL: https://badlands.substack.com/p/an-sos-from-ground-zero
@@ -120,3 +126,4 @@ The essay described Lake as a 27-year top-rated anchor at Phoenix's Fox affiliat
 Gillespie predicted that Lake would contest the 2022 election but that a corrupt judiciary would allow [[katie-hobbs|Katie Hobbs]] to be "crowned" governor, after which Lake would begin a "shadow governorship" alongside [[abe-hamadeh|Abe Hamadeh]], [[mark-finchem|Mark Finchem]], Blake and other America First candidates, arranging her own continuity-of-government plans and disrupting the Hobbs administration.[14] Her post-election checklist in the piece included crafted messaging to turn "normies," comments highlighting Hobbs administration failures, continued rallies normalizing the [[america-first-movement|America First]] agenda, and relentless focus on the border, drug and sex trafficking and fentanyl — with Lake described as a "Mama Bear" whose voice would "pierce directly into other mothers' hearts across the country."[14] Gillespie also argued Lake would shame local and national media into "becoming journalists again," potentially prompting reporters to "turn on their handlers."[14]
 
 14. Badlands Media — "Operation Wake Up America 2.0", URL: https://badlands.substack.com/p/operation-wake-up-america-20
+15. Badlands Brief — "That's Not Signature Verification, Your Honor", URL: https://badlands.substack.com/p/thats-not-signature-verification

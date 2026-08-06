@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [saudi-arabia, oil, lithium, critical-minerals, vision-2030]
-sources: [raw/badlands-news-brief-351.md, raw/badlands-news-brief-70d.md, raw/badlands-news-brief-dcb.md, raw/badlands-news-brief-e1a.md, raw/q-for-dummies-chapter-10.md]
+sources: [raw/badlands-news-brief-351.md, raw/badlands-news-brief-70d.md, raw/badlands-news-brief-dcb.md, raw/badlands-news-brief-e1a.md, raw/q-for-dummies-chapter-10.md, raw/q-for-dummies-chapter-9.md]
 confidence: high
 ---
 
@@ -47,3 +47,11 @@ In November 2024 Badlands Media identified [[yasir-al-rumayyan|Yasir Al-Rumayyan
 Chapter 10 of the [[q-for-dummies|Q for Dummies]] series notes that [[qanon|Q]] drop #73 of November 4, 2017 asked what [[donald-trump|President Trump]]'s last tweet before the [[saudi-purge|Saudi purge]] had been, and answers that it was a tweet commenting on ARAMCO.[5] The surface implication is described as a signal that the United States would be willing to work with the Saudis going forward; the deeper reading advanced by the series is that the tweet served as approval for the operation about to take place in [[saudi-arabia|Saudi Arabia]].[5]
 
 5. Badlands Brief — "Q for Dummies - Chapter 10", URL: https://badlands.substack.com/p/q-for-dummies-chapter-10
+
+## The IPO tweet in Chapter 9
+
+Chapter 9 of the same series treats the same tweet at greater length while reading drop #71, describing Aramco as one of [[saudi-arabia|Saudi Arabia]]'s largest oil producers.[6] The author argues the message was two-pronged: first, [[donald-trump|Trump]] was telling those now in control of the Kingdom that he approved of the move; second, it was a nod to those actually carrying out the [[saudi-purge|purge]], a reading the chapter supports by noting that Q asked whether the tweet was an instruction of some kind.[6]
+
+On the substance of the proposal, the chapter contends that floating Aramco on an American stock exchange would demonstrate a willingness to work with the United States and would also remove the company from private hands — hands that, in the author's account, may have been using company funds to finance operations against the United States.[6] The chapter adds that it does not know where the president was when the tweet was sent, but that the timeline makes it probable he was en route to or from Hawaii on his way to Japan, a leg it calls a significant pivot point in both the drops and his presidency.[6]
+
+6. Badlands Brief — "Q for Dummies - Chapter 9", URL: https://badlands.substack.com/p/q-for-dummies-chapter-9

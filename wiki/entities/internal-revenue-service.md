@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [taxation, 1913, federal-agency]
-sources: [raw/1913.md, raw/a-startling-contradiction-at-the.md, raw/americas-greatest-threat.md, raw/a-week-to-remember.md, raw/badlands-brief-95a.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-319.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-b26.md, raw/four-pillars-of-government-control.md, raw/going-off-the-federal-reservation.md]
+sources: [raw/1913.md, raw/a-startling-contradiction-at-the.md, raw/americas-greatest-threat.md, raw/a-week-to-remember.md, raw/badlands-brief-95a.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-319.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-b26.md, raw/four-pillars-of-government-control.md, raw/going-off-the-federal-reservation.md, raw/the-church-committee-for-dummies.md]
 confidence: medium
 ---
 
@@ -140,3 +140,9 @@ A March 28, 2023 Badlands Media essay on [[trust-law|trust law]] and the [[feder
 The point served the essay's broader conclusion that new arrangements outside the existing credit trust remain legally available, and that legal literacy is the precondition for pursuing them.[22]
 
 22. Badlands Brief — "Going off the (Federal) Reservation", URL: https://badlands.substack.com/p/going-off-the-federal-reservation
+
+## Church Committee scrutiny
+
+IRS intelligence activities were among the small set of abuses the 1975 [[church-committee|Church Committee]] chose to present in its September and October 1975 public hearings, alongside a [[central-intelligence-agency|CIA]] "biological agents program," a [[white-house|White House]] "domestic surveillance program" and the [[fbi|FBI]]'s disruption of the civil rights and anti-Vietnam War movements.[23] The agency was also named among the federal bodies — with the CIA, FBI and [[national-security-agency|NSA]] — whose intelligence abuses the committee successfully identified over the course of its 16-month investigation.[23]
+
+23. Badlands Brief — "The Church Committee, for Dummies", URL: https://badlands.substack.com/p/the-church-committee-for-dummies

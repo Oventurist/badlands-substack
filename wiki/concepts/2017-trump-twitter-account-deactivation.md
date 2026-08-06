@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [twitter, donald-trump, deep-state, qanon, censorship]
-sources: [raw/q-for-dummies-chapter-10.md, raw/q-for-dummies-chapter-15.md, raw/q-for-dummies-chapter-16.md, raw/q-for-dummies-chapter-8.md]
+sources: [raw/q-for-dummies-chapter-10.md, raw/q-for-dummies-chapter-15.md, raw/q-for-dummies-chapter-16.md, raw/q-for-dummies-chapter-8.md, raw/q-for-dummies-chapter-6.md]
 confidence: low
 ---
 
@@ -54,3 +54,10 @@ Reading drop #65, the chapter argues that a three-letter agency, most likely the
 2. Badlands Brief — "Q for Dummies - Chapter 15", URL: https://badlands.substack.com/p/q-for-dummies-chapter-15
 3. Badlands Media — "Q for Dummies - Chapter 16", URL: https://badlands.substack.com/p/q-for-dummies-chapter-16
 4. Badlands Brief — "Q for Dummies - Chapter 8", URL: https://badlands.substack.com/p/q-for-dummies-chapter-8
+5. Badlands Brief — "Q for Dummies - Chapter 6", URL: https://badlands.substack.com/p/q-for-dummies-chapter-6
+
+## Reading in "Q for Dummies" Chapter 6
+
+Chapter 6 of the series examines the deactivation in the context of [[qanon|Q]] drop #44 of November 2, 2017, which pointed to an important message [[donald-trump|President Trump]] would send.[5] Among the candidate tweets from the following day, the chapter includes the one in which Trump mentioned his account being taken down for a few minutes, and asks whether the eleven-minute removal was an attempted warning to him and whether the surrounding language referred to the Q drops, which had begun only days earlier.[5]
+
+The author's conclusion is that the episode amounted to a nod to Q but not an outright confirmation, that the story gained little traction at the time, and that this was not the "important message" Q had in mind.[5]

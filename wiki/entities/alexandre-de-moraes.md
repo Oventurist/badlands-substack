@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [brazil, censorship, judiciary, free-speech, first-amendment]
-sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-ea6.md, raw/badlands-news-brief-e99.md, raw/badlands-news-brief-f14.md, raw/badlands-news-brief-f53.md]
+sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-ea6.md, raw/badlands-news-brief-e99.md, raw/badlands-news-brief-f14.md, raw/badlands-news-brief-f53.md, raw/the-censorship-war-counteroffensive.md]
 confidence: medium
 ---
 
@@ -87,3 +87,15 @@ A standoff between [[elon-musk|Elon Musk]] and [[brazil|Brazil]] escalated on Su
 Reuters reported that Moraes is investigating "digital militias" accused of spreading fake news and hate messages during the government of former far-right President [[jair-bolsonaro|Jair Bolsonaro]], and is also leading an investigation into an alleged coup attempt by Bolsonaro.[10] In an X post that Saturday evening, Musk accused Moraes of "brazenly and repeatedly" betraying the constitution and people of Brazil, writing that "this judge has applied massive fines, threatened to arrest our employees and cut off access to X in Brazil."[10] Badlands contributor [[burning-bright|Burning Bright]] framed the episode as Brazil taking aim at Musk on behalf of what he called the Globalist-controlled nation's court system, and found the prominence of the censorship topic ahead of a year of record national elections "alternatively suspicious and potentially auspicious."[10]
 
 10. Badlands Brief — "Trumpian Taboos, Muskian Censorship & Saudi Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-f53
+
+## The Rumble orders and the worldwide ban on dos Santos
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] described Moraes as a judge who has taken the censorship crusade further than almost anyone and who effectively enjoys the power to determine what speech is allowed in [[brazil|Brazil]].[11] In December 2023 [[rumble|Rumble]] withdrew from the Brazilian market over what it deemed a plethora of unlawful censorship orders from Moraes seeking to bar numerous creators and voices, including elected members of Brazil's Congress, from the platform.[11] Moraes demanded that Rumble keep those orders confidential and threatened to terminate the company's operations in the country if it did not comply immediately — an approach consistent with his closure of [[x-corp|X]] and his freezing of [[starlink|Starlink]]'s Brazilian bank accounts in August 2024 over refusals to remove posts and block users.[11]
+
+Rumble later restored service in Brazil after Moraes withdrew an order blocking the account of the podcaster Monark, described by some as the Joe Rogan of Brazil; almost immediately the judge instructed Rumble's Brazilian lawyers to resume representing the company so that they could receive his orders on its behalf.[11]
+
+Moraes then ordered Rumble to close the account of [[allan-dos-santos|Allan dos Santos]] entirely and prohibit him from opening new ones — a directive that, unlike earlier ones, reached beyond Brazilian territory to bar dos Santos from using or monetizing the platform anywhere in the world, with only two hours allowed for compliance.[11] Dos Santos had fled to the United States in 2020, and the U.S. government rejected Brazil's extradition request on the ground that the alleged conduct is protected free expression.[11] The order prompted the joint federal lawsuit [[rumble-and-trump-media-v-moraes|Rumble and Trump Media v. Moraes]], filed on February 19, 2025.[11]
+
+[[elon-musk|Elon Musk]] attacked Moraes repeatedly during X's conflict with the [[supremo-tribunal-federal|Supremo Tribunal Federal]], calling him "a tyrannical dictator masquerading as a judge" and a "criminal," and in August 2024 posted an AI-generated image of Moraes behind prison bars with the caption: "One day, @Alexandre, this picture of you in prison will be real. Mark my words."[11] DeLarme placed Moraes among the leading figures of the global [[censorship-war|censorship war]], alongside European proponents such as [[thierry-breton|Thierry Breton]].[11]
+
+11. Badlands Brief — "The Censorship War - Counteroffensive", URL: https://badlands.substack.com/p/the-censorship-war-counteroffensive

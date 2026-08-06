@@ -3,26 +3,20 @@ title: "Emmet Sullivan"
 created: 2026-08-06
 updated: 2026-08-06
 type: entity
-tags: [judiciary, michael-flynn, russiagate, qanon]
-sources: [raw/moves-and-countermoves.md]
+tags: [judiciary, michael-flynn, district-court]
+sources: [raw/the-biggest-boomerang-in-history.md]
 confidence: low
 ---
 
 # Emmet Sullivan
 
-Emmet Sullivan is the United States district judge who presided over the criminal case of [[michael-flynn|General Michael Flynn]]. He appears in Badlands Media coverage chiefly as an alleged obstacle to Flynn's exoneration and as a figure whose departure from the bench was, in the [[qanon|Q]] reading, foretold.[1]
+Emmet Sullivan (rendered "Emmett Sullivan" in the source article) is the federal district judge who presided over the criminal case against retired lieutenant general [[michael-flynn|Michael Flynn]].[1]
 
 ## Role in the Flynn case
 
-According to [[joe-lange|Joe Lange]] in "Moves and Countermoves," Sullivan resisted the effort to end the prosecution and was "trying his best to convict" Flynn.[1] Lange writes that after [[donald-trump|President Trump]] pardoned Flynn, Sullivan was forced to dismiss all of the charges in December 2020.[1]
+In the Badlands Media article "The Biggest Boomerang In History," [[joe-lange|Joe Lange]] writes that Flynn accepted a plea deal for lying to the [[fbi|FBI]] but was never sentenced, because Sullivan repeatedly delayed the sentencing hearing on the grounds that Flynn was cooperating with the investigation run by Special Counsel [[robert-mueller|Robert Mueller]].[1] Lange argues that Flynn was in fact cooperating with multiple investigations rather than Mueller's alone, and that the delays therefore served purposes invisible to the public.[1]
 
-## The "done in 30" timeline
-
-Lange places Sullivan inside a numerological reading of the Q drops. On March 27, 2018 an anonymous poster asked that Flynn be freed, and Q replied "Done in 30," adding the question "What is the over/under DONE IN 30 months."[1] Lange counts thirty months forward from that date to the December 2020 dismissal, treating the match as a [[q-proofs|Q proof]].[1]
-
-## Retirement
-
-Lange asserts that Sullivan was forced into retirement because he was corrupt, and that Q had suggested he would "[step down]" by March 2021; Sullivan retired in February 2021.[1] Lange presents the sequence as another instance of the military "forcing enemy players to submit" and removing pieces from the chessboard.[1]
+The article also notes that [[peter-strzok|Peter Strzok]], one of the FBI agents who conducted the Flynn interview, was friends with the judge in the Flynn case, and raises this as a conflict of interest.[1] These characterisations reflect Badlands Media interpretation rather than established fact.
 
 ## References
-1. Badlands Brief — "Moves and Countermoves", URL: https://badlands.substack.com/p/moves-and-countermoves
+1. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [colombia, drug-trafficking, cocaine, cia, contras]
-sources: [raw/a-family-affair.md, raw/follow-the-money.md]
+sources: [raw/a-family-affair.md, raw/follow-the-money.md, raw/the-battle-for-control.md]
 confidence: medium
 ---
 
@@ -25,3 +25,9 @@ Lange argues the cartel was CIA-connected in every respect: Milian Rodriguez had
 ## References
 1. Badlands Brief — "A Family Affair", URL: https://badlands.substack.com/p/a-family-affair
 2. Badlands Brief — "Follow The Money: The CIA is the World's Filthiest Laundromat", URL: https://badlands.substack.com/p/follow-the-money
+
+## Laundering through Banamex
+
+In "The Battle for Control," Badlands Media contributor [[joe-lange|Joe Lange]] restates his claim that [[citibank|Citibank]] was at the center of the Medellín cartel's money laundering, conducted through currency exchange facilities at its Mexican subsidiary [[banamex|Banamex]].[3] He ties the operation directly to the [[cia|CIA]] and [[george-hw-bush|George H. W. Bush]], grouping it with the [[salinas-family|Salinas family]] drug trafficking network in Mexico and treating the pair as evidence that the bank served as the intelligence community's principal laundering tool.[3]
+
+3. Badlands Brief — "The Battle for Control", URL: https://badlands.substack.com/p/the-battle-for-control

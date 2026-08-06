@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [meta, facebook, big-tech, free-speech, trump]
-sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-143.md, raw/badlands-brief-52b.md, raw/badlands-brief-bce.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-a0c.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-f54.md, raw/badlands-news-brief-f61.md, raw/big-tech-climbing-aboard-the-trump.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-143.md, raw/badlands-brief-52b.md, raw/badlands-brief-bce.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-a0c.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-f54.md, raw/badlands-news-brief-f61.md, raw/big-tech-climbing-aboard-the-trump.md, raw/the-censorship-war-counteroffensive.md, raw/the-cia-is-being-thrown-under-the.md]
 confidence: medium
 ---
 
@@ -135,3 +135,19 @@ After [[elon-musk|Elon Musk]] floated an "epic location" in Italy for their long
 In an August 2024 Badlands essay on [[big-tech|Big Tech]]'s realignment toward [[donald-trump|Donald Trump]], contributor [[erik-carlson|Erik Carlson]] reported that Trump said Zuckerberg had apologized to him following the failed assassination attempt on Trump's life, and had indicated he would not support a Democrat in the 2024 election.[20] Carlson framed the apology as a test case for whether the movement could "forgive Big Tech," arguing that Zuckerberg had been "hugely responsible" for the outcome of the 2020 election — banning Trump and other conservatives from [[facebook|Facebook]], suppressing discussion of the [[hunter-biden-laptop|Hunter Biden laptop]], and funding election drop boxes in key battleground states.[20] Carlson drew a line at crimes against humanity, human trafficking and child abuse, but suggested lesser corruption might be forgiven where a figure demonstrably changes course.[20]
 
 20. Badlands Brief — "Big Tech Climbing Aboard the Trump Train", URL: https://badlands.substack.com/p/big-tech-climbing-aboard-the-trump
+
+## Appeal for U.S. protection against foreign censorship (2025)
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] cited Zuckerberg's "reformation and kissing of the ring" at Mar-a-Lago as evidence that technology companies hoped to enlist [[donald-trump|Donald Trump]]'s aid against political censorship imposed by foreign governments and potential future administrations.[21] In his August 26, 2024 letter to Rep. [[jim-jordan|Jim Jordan]], Zuckerberg said senior Biden administration officials, including the White House, had "repeatedly pressured our teams for months to censor certain COVID-19 content, including humor and satire," and had expressed frustration when [[meta-platforms|Meta]] resisted.[21]
+
+In January 2025 he announced the end of Facebook's fact-checking program and asked the U.S. government to protect technology companies from foreign governments "going after American companies and pushing to censor more"; Trump expressed approval of the announcement.[21] DeLarme argued such protection was not meant for Meta alone but for every American platform that has collided with the domestic and international [[censorship-industrial-complex|censorship industrial complex]], notably [[rumble|Rumble]] and [[x-corp|X]].[21] See [[censorship-war|Censorship War]].[21]
+
+21. Badlands Brief — "The Censorship War - Counteroffensive", URL: https://badlands.substack.com/p/the-censorship-war-counteroffensive
+
+## Alleged CIA cut-out (Carlson, 2024)
+
+In "The CIA is Being Thrown Under the Bus," Erik Carlson notes [[donald-trump|Donald Trump]]'s remark that banning TikTok would make Zuckerberg twice as powerful, and adds that "we all know" Zuckerberg is a [[central-intelligence-agency|CIA]] cut-out.[22]
+
+Carlson asserts that both Facebook and Google are [[darpa|DARPA]] creations used by the agency to monitor and control people, linking the claim to [[mike-benz|Mike Benz]]'s account — given in an interview with [[tucker-carlson|Tucker Carlson]] — of how the agency created and uses the two platforms to censor Americans.[22]
+
+22. Badlands Brief — "The CIA is Being Thrown Under the Bus", URL: https://badlands.substack.com/p/the-cia-is-being-thrown-under-the

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [robotics, tesla, elon-musk, automation, universal-basic-income]
-sources: [raw/badlands-news-brief-aae.md, raw/badlands-news-brief-f6f.md]
+sources: [raw/badlands-news-brief-aae.md, raw/badlands-news-brief-f6f.md, raw/stay-focused-on-the-big-picture.md]
 confidence: medium
 ---
 
@@ -34,3 +34,9 @@ In the [[badlands-news-brief|Badlands News Brief]], [[chris-paul|Chris Paul]] re
 
 1. Badlands Brief — "Badlands News Brief: Reopening Washington, Rescheduling Putin, & Revisiting De Jure", URL: https://badlands.substack.com/p/badlands-news-brief-aae
 2. Badlands Brief — "Another Ardah, Optimus Prance, & the Right Deal Arms", URL: https://badlands.substack.com/p/badlands-news-brief-f6f
+
+## October 2024 showcase and the "already exists" argument
+
+[[tesla|Tesla]]'s AI robots were displayed alongside the Robovan and the [[cybercab|cybercab]] at an October 2024 product showcase, after which the company's stock fell 8% on complaints that the presentation was unimpressive.[3] Badlands contributor [[erik-carlson|Erik Carlson]] criticized that reception, asking how robots capable of performing mundane tasks could be dismissed while AI is simultaneously proclaimed to be the future.[3] Carlson argued that [[elon-musk|Elon Musk]] was showing technology that already exists rather than technology he hoped to build, and that the AI presented publicly is probably decades out of date; he rejected the fear that Musk was creating a robot army.[3]
+
+3. Badlands Brief — "Stay Focused on the Big Picture", URL: https://badlands.substack.com/p/stay-focused-on-the-big-picture

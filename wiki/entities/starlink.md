@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [technology, satellite-internet, spacex, iran, israel, covert-operations]
-sources: [raw/badlands-brief-b34.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-aaf.md, raw/badlands-news-brief-a72.md]
+sources: [raw/badlands-brief-b34.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-aaf.md, raw/badlands-news-brief-a72.md, raw/the-banking-revolution-is-underway.md]
 confidence: medium
 ---
 
@@ -56,6 +56,12 @@ Badlands writer [[justin-deschamps|Justin Deschamps]] framed the milestone as st
 
 The Federal Aviation Administration approved the use of Starlink satellite internet on a regional jet model, clearing [[united-airlines|United Airlines]] to launch its first commercial flight with free Starlink Wi-Fi in May 2025.[8] United said it planned to install the service on 40 planes per month and complete its fleet of more than 300 regional jets by year's end, following beta testing, and that it would work with the FAA toward approval for every aircraft under a deal signed the previous September covering more than 1,000 planes.[8] United described the service — free to members of its MileagePlus frequent flyer program — as 50 times faster than the internet then available on its regional planes.[8]
 
+## Role in financial decentralization
+
+In a March 2023 Badlands Media article on the coming banking revolution, [[joe-lange|Joe Lange]] presented Starlink as an instrument of [[financial-inclusion|financial inclusion]] rather than merely a connectivity service.[9] He wrote that [[elon-musk|Elon Musk]] is trying to better the lives of humanity, especially those victimized by the global cabal and kept in poverty, and that he deliberately open-sources his technology so other companies can improve it and make people's lives better.[9]
+
+By offering high-speed internet to remote and rural locations, Starlink is described as the opposite of a centralizing agenda that would herd populations into large cities where they can be controlled.[9] Lange argued that the way to lift a large portion of the global population out of poverty is to give people the ability to control their own financial destiny through internet access, letting them participate in the global economy no matter where they live as the entire world goes digital.[9] A platform that is maximally trusted and inclusive, he added, sounds like a bank accessible almost anywhere in the world via Starlink — connecting the satellite network to Musk's ambition to turn [[twitter|Twitter]] into "the people's financial institution."[9]
+
 ## References
 1. Badlands Brief — "The Old Guard Is Very Confused About What's Happening to Them", URL: https://badlands.substack.com/p/badlands-brief-b34
 2. Badlands Brief — "Badlands News Brief: Hunter Hunted, Billionaire Boxing & Snopes Nopes", URL: https://badlands.substack.com/p/badlands-news-brief-090
@@ -65,3 +71,4 @@ The Federal Aviation Administration approved the use of Starlink satellite inter
 6. Badlands Brief — "Badlands News Brief: Will the One True POTUS Please Stand Up?", URL: https://badlands.substack.com/p/badlands-news-brief-9ae
 7. Badlands Brief — "Badlands News Brief: Supreme Court Rumblings & Witch Hunts Galore", URL: https://badlands.substack.com/p/badlands-news-brief-aaf
 8. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72
+9. Badlands Brief — "The Banking Revolution Is Underway", URL: https://badlands.substack.com/p/the-banking-revolution-is-underway

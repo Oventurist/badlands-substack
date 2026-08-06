@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [monetary-system, oil, dollar, brics, saudi-arabia]
-sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-f4c.md, raw/bric-by-bric.md, raw/money-and-oil.md]
+sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-f4c.md, raw/bric-by-bric.md, raw/money-and-oil.md, raw/shared-interests.md]
 confidence: medium
 ---
 
@@ -82,3 +82,15 @@ Joe Lange's November 2022 essay "Money and Oil" attributes the creation of the p
 Lange describes the arrangement as having been turned against its architects by late 2022: because oil must be purchased in dollars, [[federal-reserve|Federal Reserve]] rate rises that strengthened the dollar left foreign central banks unable to obtain enough dollars at tolerable exchange rates, bankrupting commercial banks and pushing the [[global-debt-system|global debt system]] toward collapse.[10] He identifies the petrodollar as the [[cabal|cabal]]'s Achilles heel, and argues that with [[saudi-arabia|Saudi Arabia]] aligning with [[russia|Russia]] and [[china|China]] and considering [[brics|BRICS]] membership, "the cabal has no control over the oil price anymore" — so that the very dollar it forced everyone to use has been weaponized against it.[10]
 
 10. Badlands Brief — "Money and Oil", URL: https://badlands.substack.com/p/money-and-oil
+
+## Direct challenges to the petrodollar ("Shared Interests", February 2023)
+
+In February 2023 [[joe-lange|Joe Lange]] set out the mechanics by which the petrodollar is being circumvented.[11] He noted that the price of oil is set by futures contracts on two benchmarks controlled by the incumbent system — Brent Crude in the United Kingdom, used mostly for diesel, and West Texas Intermediate in the United States, used mostly for petrol — and asked how a fiat system backed by nothing could be competed with; his answer was to offer gold for oil instead of dollars.[11] Through yuan oil futures, China offers oil producers the ability to exchange yuan for gold, which Lange described as a new gold standard for oil purchases and the start of a return to [[gold-standard|gold-backed]] currency.[11]
+
+He traced the same trajectory in the bilateral arrangements: China's 2017 yuan–ruble payment-versus-payment system, launched shortly before [[donald-trump|Trump]]'s visit to Beijing and his dinner with [[xi-jinping|Xi Jinping]] in the Forbidden City, created direct settlement between the second-largest oil exporter and the largest oil importer while avoiding both the petrodollar and foreign-exchange risk.[11] Wall Street, he noted, would read such moves as aggression against a dollar whose value is nearly wholly dependent on the petrodollar arrangement.[11]
+
+## Saudi drift and the end of the 1970s bargain
+
+Lange argued the basis of the petrodollar was the U.S. guarantee of military protection for [[saudi-arabia|Saudi Arabia]] in exchange for the kingdom accepting only dollars for its oil, and that this deal is no longer valuable to Riyadh.[11] He pointed to the August 2021 military cooperation agreement signed by Saudi deputy defense minister [[khalid-bin-salman|Khalid bin Salman]] with Russia as the first big sign of the shift, followed by Xi Jinping's visit to Riyadh at which China and Saudi Arabia agreed to expand crude trade and upgrade relations to a strategic partnership, with Xi pledging to promote yuan use in energy deals.[11] A month later Saudi finance minister [[mohammed-al-jadaan|Mohammed Al-Jadaan]] said at Davos that the kingdom was open to discussing oil trade settlements in currencies other than the dollar.[11] Lange concluded that the dollar's reserve-currency days are numbered and predicted a global dollar dump, a market crash, and a reset toward a basket of commodity- and gold-backed currencies.[11]
+
+11. Badlands Brief — "Shared Interests", URL: https://badlands.substack.com/p/shared-interests

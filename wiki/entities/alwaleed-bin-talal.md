@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [saudi-arabia, finance, xai, kingdom-holding, saudi-purge]
-sources: [raw/badlands-news-brief-af5.md, raw/badlands-news-brief-d50.md, raw/everything-is-connected.md, raw/hes-not-a-war-hero.md, raw/irregular-warfare.md, raw/moves-and-countermoves.md, raw/panic-in-dc.md, raw/q-for-dummies-chapter-14.md, raw/q-for-dummies-chapter-12.md, raw/q-for-dummies-chapter-15.md, raw/q-for-dummies-chapter-17.md, raw/q-for-dummies-chapter-16.md]
+sources: [raw/badlands-news-brief-af5.md, raw/badlands-news-brief-d50.md, raw/everything-is-connected.md, raw/hes-not-a-war-hero.md, raw/irregular-warfare.md, raw/moves-and-countermoves.md, raw/panic-in-dc.md, raw/q-for-dummies-chapter-14.md, raw/q-for-dummies-chapter-12.md, raw/q-for-dummies-chapter-15.md, raw/q-for-dummies-chapter-17.md, raw/q-for-dummies-chapter-16.md, raw/the-bank-of-crooks-and-criminals.md, raw/the-bridge-3c3.md, raw/the-battle-for-control.md, raw/the-biggest-cover-up-in-american.md]
 confidence: medium
 ---
 
@@ -94,3 +94,48 @@ Closing the drop, the series connects Alwaleed to [[las-vegas-shooting|Las Vegas
 Chapter 16 of the [[q-for-dummies|Q for Dummies]] series, devoted entirely to [[q-drop-111|drop #111]], describes Alwaleed as the financier of [[barack-obama|Barack Obama]]'s rise, having floated the money for his education after [[khalid-al-mansour|Khalid Abdullah Tariq al-Mansour]] vouched for him in 1988.[12] It repeats that Alwaleed owned the majority stake in [[twitter|Twitter]] for a long period and owned the Mandalay Bay, from which the [[las-vegas-shooting|Las Vegas shooting]] was carried out.[12] Answering Q's question of who was taken down in the [[saudi-purge|November 2017 Saudi purge]], the chapter names Alwaleed specifically, states that his funds were seized, and asserts that his arrest and alleged subsequent torture were no coincidence.[12] He is listed among the bad actors said to be aligned with the [[muslim-brotherhood|Muslim Brotherhood]] and therefore with [[wahhabism|Wahhabism]].[12]
 
 12. Badlands Media — "Q for Dummies - Chapter 16", URL: https://badlands.substack.com/p/q-for-dummies-chapter-16
+
+## The 1991 Citicorp investment
+
+"The Bank of Crooks And Criminals" treats Alwaleed's 1991 rescue of Citicorp as the transaction that made him a global power broker.[13] The New York Times reported in February 1991 that Alwaleed had agreed to invest $590 million in Citicorp, the nation's largest banking company, making him its largest single shareholder; he had quietly bought about 4.9 percent of the common stock in late 1990 and could eventually own as much as 14.9 percent, while promising not to seek control and taking no board seat.[13] Badlands contributor [[joe-lange|Joe Lange]] calls that promise a lie, arguing that taking control of the bank was always the purpose.[13]
+
+The terms were extraordinarily favorable. With Citicorp's stock out of favor and Moody's having downgraded its preferred shares to a speculative "junk" rating, Alwaleed received an 11 percent dividend on new convertible preferred stock and the right to convert to voting common stock at $16 a share, only slightly above the prevailing price of $15.375.[13] The [[federal-reserve|Federal Reserve]] informally approved the investment and indicated it would grant official approval if the stake rose above the 10 percent threshold that requires Fed consent.[13]
+
+Forbes reported that Alwaleed "began to get seriously rich in 1991," judging Citi [[too-big-to-fail|too big to fail]]; by 1998 the stock had climbed from $15 to $141, and after selling 8 million shares to recoup much of his investment he still held a 9.1 percent stake worth $5.8 billion that had paid $210 million in dividends over three years.[13] Lange argues Alwaleed already knew in 1991 that Citibank was too big to fail because it was the most politically connected bank in the United States, and that the investment tied him directly to the [[shadow-government|shadow government]] built by [[george-hw-bush|George H.W. Bush]] and to [[citibank|Citibank]]'s role as a [[central-intelligence-agency|CIA]] money-laundering bank.[13]
+
+## Origins, family and the Citibank mortgage
+
+Forbes first spoke with Alwaleed Bin Talal Bin Abdulaziz Al Saud when he was 31 and worth around $1 billion, money earned in Saudi construction projects; by 41 he was worth nearly $13 billion.[13] Raised in Beirut by his Lebanese mother, he earned a business administration degree from Menlo College in northern California in 1979, and says he began that year with a house and $15,000 from his father before moving into land speculation and contracting, claiming $450 million by 1983.[13] Vanity Fair reported a different version in which his father gave him $30,000, then $300,000 — both lost — and finally the deed to a half-built house in Riyadh; Alwaleed obtained a $600,000 mortgage on it from a Citibank branch in Riyadh, though the structure looked like "little more than a ramshackle structure" and poor collateral for so large a loan.[13] Lange treats this as the start of Alwaleed's relationship with "the CIA's most favored bank."[13]
+
+Alwaleed's father, Prince Talal, was born to an Armenian wife of King Abdulaziz, and Alwaleed's own mother was Lebanese — a pedigree that, under the expectation that princes possess an entirely Arab family tree, permanently excluded him from the Saudi throne despite his being a nephew of King Fahd.[13] He was a grandson of [[abdulaziz-bin-abdul-rahman-al-saud|King Abdulaziz]], the first king of Saudi Arabia, and of [[riad-al-solh|Riad Al Solh]], the first Prime Minister of Lebanon, and Lange argues these Lebanese and Armenian ties produced the contacts that made him a global power broker.[13]
+
+## Alleged role as a "puppet master"
+
+Lange distinguishes kings and prime ministers, whose power is bounded, from a small group of puppet masters who control kings, prime ministers and presidents — and argues that Q drop 133 referred not to the king of Saudi Arabia but to Alwaleed.[13] He contends Q said such wealth disclosures were false and that Alwaleed controlled trillions rather than billions, accumulated through governments he controlled, slush funds and wars.[13] Alwaleed's later arrest in Saudi Arabia, in this account, both removed him from the chessboard and exposed his bank records.[13]
+
+## The Carlyle Group's role
+
+Alwaleed did not act alone: the New York Times reported in March 1991 that he bought his stake in Citicorp "on the recommendation of American advisers" — the [[carlyle-group|Carlyle Group]], a relatively new Washington-based firm led by people with little investment experience but strong political connections.[13] Those advisers included founding partner [[david-rubenstein|David M. Rubenstein]], vice chairman [[frank-carlucci|Frank C. Carlucci]] and adviser [[fred-malek|Frederick V. Malek]], all of whom had long histories with George H.W. Bush.[13]
+
+13. Badlands Brief — "The Bank of Crooks And Criminals", URL: https://badlands.substack.com/p/the-bank-of-crooks-and-criminals
+14. Badlands Brief — "The Bridge", URL: https://badlands.substack.com/p/the-bridge-3c3
+
+## Citibank and "The Battle for Control"
+
+[[joe-lange|Joe Lange]] opened his February 2024 banking series by stating that he began with Prince Alwaleed and how [[donald-trump|Donald Trump]] "took him off the chessboard," calling him the biggest threat to Trump on the day he was inaugurated and promising to prove it in subsequent articles.[15] Lange writes that one bank sits at the center of both the [[cia|CIA]] shadow government and Alwaleed's power and control: [[citibank|Citibank]], which he calls possibly the most corrupt bank in the world and one of the "keys" that opens all doors.[15] Having devoted "The Battle for Control" to Citibank's early history, he announced that his next article would connect the bank directly to Alwaleed in order to explain how the prince became so powerful.[15] He also drew an explicit parallel between Alwaleed and [[john-jacob-astor|John Jacob Astor]], the nineteenth-century financier who took control of Citibank through a bailout.[15]
+
+15. Badlands Brief — "The Battle for Control", URL: https://badlands.substack.com/p/the-battle-for-control
+
+## Alleged patronage of the Podestas
+
+In "The Bridge," Joe Lange describes Alwaleed as the "puppet master" controlling a large number of government officials, citing Q drop 275's assertion that "Saudi Arabia CONTROLS elected people" and Q drop 93's claim that [[hillary-clinton|Hillary Clinton]] "was a puppet but her STRINGS were recently cut" on the day of the arrest.[14] Forbes reported that Alwaleed, the wealthiest person in the Middle East, was arrested on November 4–5, 2017 with major holdings in Twitter, Apple and Citigroup through [[kingdom-holding|Kingdom Holding]], whose shares fell 9.9% on the news.[14]
+
+Lange argues that Alwaleed's control over a large share of Rupert Murdoch's News Corp and joint media investments gave him a firm grip on the American narrative before Trump's presidency, and that the [[podesta-group|Podesta Group]] served as his bridge to both American and Saudi media — the latter through royal court head [[khaled-al-tuwaijri|Khaled Al Tuwaijri]] and MBC owner Waleed Al Ibrahim, both arrested the same day.[14] On this reading the [[john-podesta|Podesta]] brothers were fleeing to [[saudi-arabia|Saudi Arabia]] on November 3, 2017, two days before Alwaleed's arrest, because he was their protector; the claim is the author's inference.[14]
+
+## Alleged funding of Obama and the Clinton Foundation
+
+Answering [[qanon|Q]]'s questions about who paid for [[barack-obama|Barack Obama]] to attend Harvard and who was the largest donor to the [[clinton-foundation|Clinton Foundation]], [[joe-lange|Joe Lange]] names Alwaleed on both counts, adding that the prince funded Obama's pre-political years and donated so heavily to [[hillary-clinton|Hillary Clinton]] on the promise of victory that he compelled Obama to repay him.[16]
+
+Lange connects Alwaleed to the [[uranium-one-deal|Uranium One deal]] through [[qanon|Q]] drop #49 of November 2, 2017, which said of the matter "It's a name recognized around the world" and invoked "[[alice-and-wonderland|Alice & Wonderland]]" three days before Alwaleed's arrest in [[saudi-arabia|Saudi Arabia]] along with hundreds of his allies.[16] He describes Alwaleed as a puppet master who controlled the Obama administration, politicians around the world, large corporations, media, banks and the [[cia|CIA]], and argues that removing him from the board threw the enemy into chaos.[16] Q had nicknamed him "Snow White."[16]
+
+16. Badlands Brief — "The Biggest Cover-up in American History", URL: https://badlands.substack.com/p/the-biggest-cover-up-in-american

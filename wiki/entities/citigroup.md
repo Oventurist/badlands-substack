@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, finance, argentina, wall-street, haiti, bailouts]
-sources: [raw/badlands-news-brief-021.md, raw/friends-in-high-places.md, raw/follow-the-money.md]
+sources: [raw/badlands-news-brief-021.md, raw/friends-in-high-places.md, raw/follow-the-money.md, raw/the-bank-of-crooks-and-criminals.md]
 confidence: low
 ---
 
@@ -24,7 +24,14 @@ The 1999 repeal of the [[glass-steagall|Glass-Steagall Act]] allowed the merger 
 
 Reporting by the media watchdog FAIR, cited by Badlands contributor Joe Lange, states that [[ramon-milian-rodriguez]] — chief accountant for the [[medellin-cartel]] — testified to Congress that he met secretly with people who worked for US banks but were not on the official employment rolls, naming Citicorp, the predecessor of Citigroup, and [[bank-of-america]] as two banks he dealt with in this way.[3] Milian Rodriguez laundered hundreds of millions of dollars in cocaine profits through US banks in Panama, and the cartel was reported to hold $11 billion in assets inside the United States as of 1983.[3] Lange notes that the [[george-hw-bush|Bush]] family has direct ties to Citicorp.[3]
 
+## Formation and the Alwaleed stake
+
+"The Bank of Crooks And Criminals" details how Citicorp became Citigroup: the merger with the [[travelers-group|Travelers Group]] made it the biggest bank in the world, prompting the name change, and the [[financial-services-modernization-act|Financial Services Modernization Act]] of 1999 gave that merger retrospective clearance.[4] Documents from the Clinton presidential library show two separate attempts, in 1995 and 1997, by advisers to [[bill-clinton|Bill Clinton]] to hurry him into backing repeal of [[glass-steagall|Glass-Steagall]].[4]
+
+[[alwaleed-bin-talal|Prince Alwaleed bin Talal]] had become Citicorp's largest single shareholder in 1991 and, Lange argues, effectively controlled the company by 1999 with a stake approaching 15 percent — making him the person who stood to benefit most from the repeal.[4] Lange links the bank to the Q post "ALWALEED HUMA BO Citigroup US Control," presenting Alwaleed's control of Citigroup as his first step toward controlling the United States.[4]
+
 ## References
 1. Badlands Brief — "Seditious Overreactions, Billion Dollar Bailouts, & NATO-Style Guarantees", URL: https://badlands.substack.com/p/badlands-news-brief-021
 2. Badlands Brief — "Friends in High Places", URL: https://badlands.substack.com/p/friends-in-high-places
 3. Badlands Brief — "Follow The Money: The CIA is the World's Filthiest Laundromat", URL: https://badlands.substack.com/p/follow-the-money
+4. Badlands Brief — "The Bank of Crooks And Criminals", URL: https://badlands.substack.com/p/the-bank-of-crooks-and-criminals

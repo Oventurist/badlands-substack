@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [trump-world, communications, comms, devolution]
-sources: [raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-c14.md, raw/pepe-the-trump-train-and-hillarys.md]
+sources: [raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-c14.md, raw/pepe-the-trump-train-and-hillarys.md, raw/revolution-founded-at-the-crossroads.md]
 confidence: medium
 ---
 
@@ -40,3 +40,8 @@ The article's Pepe connection rests on a Scavino Tweet of 10/9/16 that mentions 
 1. Badlands News Brief — "The Walz Cycle Consumes Itself as Tensions Pause", URL: https://badlands.substack.com/p/badlands-news-brief-0ad
 2. Badlands Brief — "Badlands News Brief: Overreach, Obstruction, & Our Boy Blue", URL: https://badlands.substack.com/p/badlands-news-brief-c14
 3. Badlands Brief — "Pepe, the Trump Train, and Hillary's Automobile", URL: https://badlands.substack.com/p/pepe-the-trump-train-and-hillarys
+4. Badlands Brief — "Revolution Founded at the Crossroads", URL: https://badlands.substack.com/p/revolution-founded-at-the-crossroads
+
+## The "#BTC for the #Trump Train" tweet
+
+The October 2024 essay "Revolution Founded at the Crossroads" highlights a Scavino tweet from March 21, 2016 reading "#BTC for the #Trump Train," posted roughly seven months before the "This Video Will Get Donald Trump Elected" compilation.[4] The author presents the post as an early, deliberate signal linking the Trump movement to [[bitcoin|Bitcoin]], and asks readers to reconsider it in light of the essay's argument that the choice facing humanity is "Bitcoin or slavery."[4]

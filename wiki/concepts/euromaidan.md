@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ukraine, 2014, coup, russia, donbass]
-sources: [raw/badlands-news-brief-561.md, raw/how-to-rent-a-riot-the-history-of.md, raw/rainbow-color-revolution.md]
+sources: [raw/badlands-news-brief-561.md, raw/how-to-rent-a-riot-the-history-of.md, raw/rainbow-color-revolution.md, raw/signal-collapse.md]
 confidence: medium
 ---
 
@@ -39,3 +39,11 @@ Badlands Media's "How to Rent a Riot" series treats the 2013 Maidan uprising as 
 Once Ukraine became what he called a CIA puppet, Carlson argued, US-run bioweapon labs appeared along with trafficking in women, children, drugs and body parts, and US politicians including [[barack-obama|Obama]] and the Biden family became deeply involved in what he described as a crime syndicate.[3] He held this to be a major reason for the ongoing Russia–Ukraine war and for continued US funding of Ukraine, and urged readers to research the episode themselves.[3]
 
 3. Badlands Brief — "Rainbow Color Revolution", URL: https://badlands.substack.com/p/rainbow-color-revolution
+
+## Ukraine as template in "Signal Collapse" (June 2025)
+
+The June 26, 2025 Badlands essay "Signal Collapse" placed the Maidan events within a recurring sequence of [[cultural-severance|cultural severance]] alongside Iran's 1979 revolution and what it termed America's 2020 color revolution, describing each as "ritual repetition" rather than history.[4] It went further in treating the subsequent war as a template: "Ukraine was not the beginning of a war — it was the first full-spectrum reset cloaked in conflict," in which what appeared as chaos was in fact coordination.[4]
+
+The essay claimed that 46 biolabs in Ukraine were "mapped nodes" and "frequency cages" whose removal by Russia constituted "field realignment" rather than invasion or conquest, and that the targets were "symbols… codes… weapons hidden not in missile silos, but in research campuses and AI hubs and underground tunnels."[4] The ensuing global silence was interpreted as the marker of a completed maneuver in [[fifth-generation-warfare|fifth-generation warfare]], with the June 2025 strikes on Iran described as the mirror of the same operation.[4]
+
+4. Badlands Brief — "Signal Collapse", URL: https://badlands.substack.com/p/signal-collapse

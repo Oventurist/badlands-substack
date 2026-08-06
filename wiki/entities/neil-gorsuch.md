@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [neil-gorsuch, supreme-court, originalism, jury-trial]
-sources: [raw/badlands-brief-6a1.md, raw/badlands-brief-959.md, raw/badlands-brief-c5b.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-757.md]
+sources: [raw/badlands-brief-6a1.md, raw/badlands-brief-959.md, raw/badlands-brief-c5b.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-757.md, raw/the-accomplishments-of-president.md]
 confidence: medium
 ---
 
@@ -36,9 +36,15 @@ Badlands contributor [[ashe-in-america|Ashe in America]] gave a "shout out to Go
 
 During the December 4, 2024 oral arguments over Tennessee's ban on gender-affirming care for minors, Gorsuch — widely regarded as a key vote — said nothing at all, a silence that observers described as one of the most notable twists of the session.[5] His significance stemmed from his authorship of the majority opinion in the 2020 case Bostock v. Clayton County, which held that transgender employees are protected from workplace discrimination, a decision cheered by LGBTQ+ advocates and roundly criticised by conservatives including colleagues on the bench.[5] Badlands contributor [[ashe-in-america|Ashe in America]] noted that the "rainbow movement" had reportedly been looking for Gorsuch to signal his position during the arguments and did not get one.[5] See [[united-states-v-skrmetti]].[5]
 
+
+## Confirmation in Badlands commentary
+
+Gorsuch's April 2017 confirmation to the [[supreme-court-of-the-united-states|Supreme Court]] was cited by Badlands Media in 2023 as the first of three high court appointments by [[donald-trump|President Donald Trump]], with all three appointees credited by the author for a pivotal role in the overturning of [[roe-v-wade|Roe v. Wade]].[6]
+
 ## References
 1. Badlands Brief — "The G7 Laments the G2", URL: https://badlands.substack.com/p/badlands-brief-6a1
 2. Badlands Brief — "We Are the Champions of the World", URL: https://badlands.substack.com/p/badlands-brief-959
 3. Badlands Brief — "A Christian Court Victory, Sovereign Alliance Comms and Off-Ramps Galore?", URL: https://badlands.substack.com/p/badlands-brief-c5b
 4. Badlands Brief — "Badlands News Brief: Bengaluru Raids, Bitcoin Bangers, & A Buddhist Execution", URL: https://badlands.substack.com/p/badlands-news-brief-2dc
 5. Badlands Brief — "Badlands News Brief: Pardon Me ... No, But Seriously. PLEASE Pardon Me.", URL: https://badlands.substack.com/p/badlands-news-brief-757
+6. Badlands Brief — "The Accomplishments of President Trump - Part 1", URL: https://badlands.substack.com/p/the-accomplishments-of-president

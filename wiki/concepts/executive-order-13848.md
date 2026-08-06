@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [executive-orders, election-integrity, national-emergency, foreign-interference, devolution]
-sources: [raw/badlands-news-brief-030.md, raw/biden-inc-flips.md]
+sources: [raw/badlands-news-brief-030.md, raw/biden-inc-flips.md, raw/soul-governance.md]
 confidence: medium
 ---
 
@@ -22,6 +22,11 @@ A December 2024 Badlands feature described EO 13848, issued September 12, 2018, 
 
 The article noted that the order has quietly remained active under [[joe-biden|Joe Biden]] despite his administration inheriting accusations tied to election irregularities, and argued that its continued existence suggests a foundational role in exposing financial corruption tied to compromised domestic and foreign actors.[2] Together with [[executive-order-13818|EO 13818]] it was cast as an instrument for seizing assets linked to corruption, election interference, and human rights abuses within an alleged [[continuity-of-government|Continuity of Government]] operation.[2] This reading is interpretive commentary, not a documented use of the order.[2]
 
+## In "Soul Governance"
+
+The Badlands Media essay [[soul-governance|Soul Governance]] characterizes EO 13848 in shorthand as authority to "intercept networks that subvert sovereignty," pairing it with [[executive-order-13818|EO 13818]] as the legal counterpart of a spiritual reclamation.[3] In the essay's parallel, the sovereign individual intercepts fear signals, shame conditioning, and "synthetic gods" much as the order is said to intercept subversive networks.[3]
+
 ## References
 1. Badlands Brief — "Rare Earths, Rogue Judges, & Record Downward Revisions", URL: https://badlands.substack.com/p/badlands-news-brief-030
 2. Badlands Brief — "Biden, Inc. Flips", URL: https://badlands.substack.com/p/biden-inc-flips
+3. Badlands Brief — "Soul Governance", URL: https://badlands.substack.com/p/soul-governance

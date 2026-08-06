@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [uranium, mining, russia, clinton-foundation, kazakhstan]
-sources: [raw/america-for-sale-part-3.md]
+sources: [raw/america-for-sale-part-3.md, raw/the-biggest-cover-up-in-american.md]
 confidence: medium
 ---
 
@@ -38,3 +38,9 @@ The article frames the [[russian-reset|Russian Reset]] as the public-narrative g
 
 ## References
 1. Badlands Brief — "America for Sale - Part 3", URL: https://badlands.substack.com/p/america-for-sale-part-3
+
+## Export licensing and the FBI case
+
+In "The Biggest Cover-up in American History," [[joe-lange|Joe Lange]] writes that Uranium One reportedly owned twenty percent of American uranium assets at the time Russian entities sought approval to acquire it.[2] He argues that its uranium was exported without the company itself holding an export licence: instead it was added to the roster of companies permitted to export under [[transport-logistics-international|Transport Logistics International]]'s authorisation, an arrangement concealed from [[congress|Congress]] and, in his account, protected by the bribes [[vadim-mikerin|Vadim Mikerin]] paid to the trucking firm's executives.[2] Senator [[chuck-grassley|Chuck Grassley]] pressed the [[department-of-justice|Justice Department]] to lift a gag order on the FBI informant who had documented bribery, extortion and money laundering by the Russian entities pursuing the [[uranium-one-deal|acquisition]].[2]
+
+2. Badlands Brief — "The Biggest Cover-up in American History", URL: https://badlands.substack.com/p/the-biggest-cover-up-in-american

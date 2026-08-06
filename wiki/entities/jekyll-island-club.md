@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, secrecy, 1910, central-banking]
-sources: [raw/1913.md]
+sources: [raw/1913.md, raw/the-decade-we-all-became-slaves.md]
 confidence: medium
 ---
 
@@ -26,5 +26,10 @@ Together these men represented about one quarter of the world's wealth at the ti
 
 The plan produced at Jekyll Island fed into the [[national-monetary-commission|National Monetary Commission]] recommendations and ultimately the [[federal-reserve-act-of-1913|Federal Reserve Act of 1913]].[[1]](https://badlands.substack.com/p/1913)
 
+## The November 1910 meeting
+
+In November 1910 six men — [[nelson-aldrich|Nelson Aldrich]], A. Piatt Andrew, Henry Davison, Arthur Shelton, Frank Vanderlip and [[paul-warburg|Paul Warburg]] — met at the Jekyll Island Club off the coast of Georgia.[2] Badlands Media commentary states that these men represented wealthy banking interests including [[jp-morgan|J.P. Morgan]], the Rockefellers and the [[rothschild-family|Rothschilds]], and that they gathered in secret to write a plan to reform the nation's banking system.[2] The plan drafted on Jekyll Island laid the foundation for what would become the [[federal-reserve|Federal Reserve System]].[2]
+
 ## References
 1. Badlands Brief — "1913: The Year the Cabal Enslaved America", URL: https://badlands.substack.com/p/1913
+2. Badlands Brief — "The Decade We All Became Slaves", URL: https://badlands.substack.com/p/the-decade-we-all-became-slaves

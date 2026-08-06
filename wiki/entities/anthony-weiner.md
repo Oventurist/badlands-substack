@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, democrat, new-york, clinton-emails, scandal]
-sources: [raw/badlands-news-brief-b26.md, raw/badlands-news-brief-ce1.md, raw/clowns-in-america.md, raw/disinformation-is-necessary.md, raw/q-for-dummies-chapter-6.md]
+sources: [raw/badlands-news-brief-b26.md, raw/badlands-news-brief-ce1.md, raw/clowns-in-america.md, raw/disinformation-is-necessary.md, raw/q-for-dummies-chapter-6.md, raw/q-for-dummies-chapter-9.md, raw/the-biggest-boomerang-in-history.md]
 confidence: medium
 ---
 
@@ -50,3 +50,19 @@ Lange argues that because that period covered the [[uranium-one-deal|Uranium One
 Badlands' "[[q-for-dummies|Q for Dummies]]" Chapter 6 places the breaking news of the Weiner laptop at the time of [[qanon|Q]] drop #45 of November 2, 2017 — specifically the report that [[huma-abedin|Huma Abedin]] and [[hillary-clinton|Hillary Clinton]] had been sending classified information back and forth over unsecured servers, with one of the devices Abedin used being the laptop of her then-boyfriend Weiner.[5]
 
 5. Badlands Brief — "Q for Dummies - Chapter 6", URL: https://badlands.substack.com/p/q-for-dummies-chapter-6
+
+## The laptop data in Chapter 9
+
+Chapter 9 of the same series opens on Q's question in drop #68, "what data just dropped?", and answers that the reference is to the Weiner laptop — specifically the classified information found on it that [[huma-abedin|Huma Abedin]] was transmitting along with [[hillary-clinton|Hillary Clinton]].[6] The chapter states that this information became public a little more than a month after the November 3, 2017 drop.[6]
+
+Two reasons are given for the laptop's significance: that it demonstrated Clinton and Abedin transmitting classified material over non-secure networks, and that it held material the public has not seen, which the author characterises as connections between the [[muslim-brotherhood|Muslim Brotherhood]] and the United States government.[6]
+
+6. Badlands Brief — "Q for Dummies - Chapter 9", URL: https://badlands.substack.com/p/q-for-dummies-chapter-9
+
+## The laptop and the reopened investigation
+
+In "[[the-biggest-boomerang-in-history|The Biggest Boomerang In History]]," [[joe-lange|Joe Lange]] recounts that after [[james-comey|James Comey]] publicly exonerated [[hillary-clinton|Hillary Clinton]] in July 2016, [[fbi|FBI]] investigators "suddenly" discovered more of her emails on Weiner's laptop in October 2016 — emails present, in his account, because his wife [[huma-abedin|Huma Abedin]] held Clinton's correspondence.[7] Lange treats the timing as anything but coincidental.[7]
+
+Police involved in the Weiner investigation are said to have threatened to go public if the FBI did not reopen a criminal investigation into Clinton, which forced Comey to reopen the case on October 26, 2016 — in Lange's assessment the biggest [[october-surprise|October Surprise]] in history and the cause of Clinton's defeat.[7] These claims reflect Badlands Media interpretation rather than established fact.
+
+7. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history

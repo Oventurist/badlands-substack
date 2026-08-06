@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [national-security, ukraine, free-speech, media]
-sources: [raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-db6.md, raw/badlands-news-brief-f6e.md, raw/no-honor-among-thieves.md]
+sources: [raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-db6.md, raw/badlands-news-brief-f6e.md, raw/no-honor-among-thieves.md, raw/setting-the-stage.md, raw/the-cia-is-being-thrown-under-the.md]
 confidence: medium
 ---
 
@@ -48,3 +48,20 @@ In 2024 Vindman was one of three candidates that [[boaz-weinstein|Boaz Weinstein
 Carlson described Vindman as the "weaselly" former White House National Security Council official who claimed to have overheard the "perfect call" between [[donald-trump|President Trump]] and Ukrainian president [[volodymyr-zelensky|Volodymyr Zelenskyy]] that led to the [[first-impeachment-of-donald-trump|first impeachment]].[4] He emphasised that the call was not on speakerphone and that Vindman professed to have discerned its contents from across a room, yet Trump was impeached on that testimony for allegedly pressuring Zelenskyy to investigate [[joe-biden|Joe Biden]] — an irony Carlson underlined.[4] He placed Vindman within a broader pattern in which corrupt military officials were embedded in the White House to sabotage the Trump presidency, a pattern he links to the refusal to deploy the National Guard against the 2020 riots and again on January 6.[4] Carlson also recalled the interview in which Arnold Schwarzenegger, appearing with Vindman, told mask and vaccine refusers to "screw your freedom."[4]
 
 4. Badlands Brief — "No Honor Among Thieves", URL: https://badlands.substack.com/p/no-honor-among-thieves
+5. Badlands Brief — "Setting the Stage", URL: https://badlands.substack.com/p/setting-the-stage
+
+## Alleged source of the whistleblower complaint
+
+The Badlands article "Setting the Stage" by Joe Lange presents Vindman as the leaker who supplied the contents of the [[donald-trump|Trump]]–[[volodymyr-zelensky|Zelensky]] phone call to the whistleblower, reported to be [[eric-ciaramella|Eric Ciaramella]], and therefore as a participant in the conspiracy to impeach and remove the president.[5] Ciaramella was a CIA analyst who was not on the call and was not legally privy to it, which means whoever passed him its contents was illegally disclosing classified information.[5]
+
+Citing Red State's analysis of the released impeachment transcripts, Lange notes that when [[jim-jordan|Jim Jordan]] pressed Vindman on whom outside his chain of command he had spoken to about the call, [[adam-schiff|Adam Schiff]] and [[eric-swalwell|Eric Swalwell]] intervened to stop him from answering, objecting that the question "calls to reveal the whistleblower."[5] Since Jordan had never asked about the whistleblower, Lange argues that the objection inadvertently confirmed Vindman as the source of the ICIG complaint.[5] Vindman had denied under oath on several occasions that he ever leaked classified information, while being presented by Schiff and Democrats as a loyal patriot defending democracy.[5]
+
+The rough transcript of the call was first classified secret and later top secret, and Red State observed that Vindman not only shared concerns about a call classified at the highest level but gave exacting details and quotes to the whistleblower.[5] Vindman had publicly accused the president of "subverting" U.S. foreign policy — language Lange reads as revealing the assumption among such officials that they, rather than the elected president, actually run things.[5] Lange asserts that a sealed indictment exists in Vindman's name and that the impeachment case collapsed once Trump declassified the full transcript, exposing that no crime had occurred.[5]
+
+## Cited as a first-term mole (Carlson, 2024)
+
+Erik Carlson's "The CIA is Being Thrown Under the Bus" names Vindman as an example of the internal actors who, in his account, sabotaged [[donald-trump|Donald Trump]]'s first administration, referring dismissively to "no pudgy-faced Alexander Vindman overhearing phone calls from across the room."[6]
+
+Carlson groups him with [[olivia-troye|Olivia Troye]] and [[john-kelly|John Kelly]] as moles and liars whose claims about Trump are still widely believed, and argues that Trump has spent the intervening years determining who he can trust so that such figures cannot interfere with a second term.[6] With the moles removed, he contends, controlling America from inside its own government becomes difficult enough that the [[deep-state|Deep State]] must fight Trump from outside through NATO, the United Nations and the European Union.[6]
+
+6. Badlands Brief — "The CIA is Being Thrown Under the Bus", URL: https://badlands.substack.com/p/the-cia-is-being-thrown-under-the

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, legislation, defense-policy]
-sources: [raw/badlands-brief-a9f.md, raw/badlands-brief-c07.md, raw/badlands-brief-cc3.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-cf8.md, raw/badlands-news-brief-e48.md, raw/badlands-news-brief-e31.md, raw/badlands-news-brief-f23.md, raw/do-you-believe-in-coincidences.md]
+sources: [raw/badlands-brief-a9f.md, raw/badlands-brief-c07.md, raw/badlands-brief-cc3.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-cf8.md, raw/badlands-news-brief-e48.md, raw/badlands-news-brief-e31.md, raw/badlands-news-brief-f23.md, raw/do-you-believe-in-coincidences.md, raw/the-church-committee-for-dummies.md]
 confidence: medium
 ---
 
@@ -106,3 +106,11 @@ Badlands Media's article "Do You Believe in Coincidences?" argues that control o
 On this reading, House investigations led by [[devin-nunes|Devin Nunes]], [[trey-gowdy|Trey Gowdy]] and [[bob-goodlatte|Bob Goodlatte]] were deliberately made to look like the principal threat so that opponents would concentrate on recapturing the House, while the Senate was expanded and held in reserve.[14] After the midterms the [[spygate|Spygate]] and [[obamagate|Obamagate]] inquiries were handed to the Senate, and the enlarged majority is credited with shielding [[donald-trump|Donald Trump]] from removal after impeachment.[14] The Senate also confirmed [[william-barr|William Barr]] as Attorney General on February 14, 2019, placing him over the [[mueller-special-counsel-investigation|Mueller investigation]].[14]
 
 14. Badlands Brief — "Do You Believe in Coincidences?", URL: https://badlands.substack.com/p/do-you-believe-in-coincidences
+
+## Intelligence oversight and the Church Committee
+
+In January 1975 the Senate voted 82–4 to approve Senator [[john-pastore|John Pastore]]'s resolution establishing a select committee to investigate federal intelligence operations and determine "the extent, if any, to which illegal, improper, or unethical activities were engaged in by any agency of the Federal Government."[15] The resulting body — the Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities, colloquially the [[church-committee|Church Committee]] — is described by Badlands Media as one of the most historically significant committees ever to come out of the United States Senate.[15]
+
+Majority Leader [[mike-mansfield|Mike Mansfield]] and Republican Leader [[hugh-scott|Hugh Scott]] selected the membership, balancing senior and junior senators across a range of political viewpoints, and Mansfield warned colleagues against letting the affair "become a television extravaganza."[15] The committee's work, which won it the respect of many members of the chamber, ultimately led to some reform efforts throughout the intelligence community.[15]
+
+15. Badlands Brief — "The Church Committee, for Dummies", URL: https://badlands.substack.com/p/the-church-committee-for-dummies

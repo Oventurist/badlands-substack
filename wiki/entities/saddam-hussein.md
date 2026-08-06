@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [iraq, chemical-weapons, middle-east, us-foreign-policy]
-sources: [raw/badlands-news-brief-a12.md, raw/badlands-news-brief-e44.md, raw/profiting-from-war.md]
+sources: [raw/badlands-news-brief-a12.md, raw/badlands-news-brief-e44.md, raw/profiting-from-war.md, raw/shifting-the-narrative.md]
 confidence: medium
 ---
 
@@ -35,3 +35,17 @@ The article further contends that Bush wanted Saddam to invade [[kuwait|Kuwait]]
 1. Badlands News Brief — "Pentagon Portfolio Plays & Spy Court Sunlight", URL: https://badlands.substack.com/p/badlands-news-brief-a12
 2. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44
 3. Badlands Brief — "Profiting From War", URL: https://badlands.substack.com/p/profiting-from-war
+
+## CIA sponsorship and rise to power
+
+In "Shifting the Narrative," Badlands contributor [[joe-lange|Joe Lange]] presents Saddam as a creation of the [[central-intelligence-agency|CIA]] rather than an independent adversary.[4] Citing former [[state-department|State Department]] officer [[roger-morris|Roger Morris]], the article reports that the CIA had a hand in two coups in [[iraq|Iraq]] during the Cold War: a bloody 1963 coup that deposed the Soviet-leaning government of Gen. Abdel-Karim Kassem, who was machine-gunned to death and whose fall delivered the country to the Baath party, and a 1968 palace revolt led by Saddam's long-time mentor Ahmed Hassan al-Bakr, who handed power to his protégé in 1979.[4] Morris said Saddam was a Baath operative studying law in Cairo — one of the venues the CIA used to plan the 1963 coup — and that he was "on the CIA payroll" in those days, adding that the resulting regime "was unquestionably midwived by the United States."[4]
+
+Lange treats this as the same template used with [[manuel-noriega|Manuel Noriega]] in Panama, noting that both dictators were customers of [[bank-of-credit-and-commerce-international|BCCI]] alongside the CIA and the National Security Council, and describing both as puppets of the agency and of [[george-hw-bush|George H. W. Bush]].[4]
+
+## American support before the invasion of Kuwait
+
+Saddam invaded [[kuwait|Kuwait]] on August 2, 1990, but in the preceding months the Bush administration repeatedly overrode internal objections in order to funnel aid to Baghdad.[4] After international bankers cut off virtually all loans to Saddam in the fall of 1989 — he was saber-rattling, sponsoring terrorism and not repaying his debts — [[james-baker|James Baker]] pressed the Secretary of Agriculture for a billion dollars in new agricultural-loan guarantees for Iraq.[4] In January 1990 Bush waived congressional restrictions on Iraq's use of the Export-Import Bank despite evidence that Iraq was testing ballistic missiles and stealing nuclear technology, and in April, after Saddam boasted that he had chemical weapons and would "burn half of Israel," the White House blocked Commerce Department efforts to halt technology exports.[4] Intelligence sharing with Iraq continued as late as May 1990, and at the end of July Bush opposed congressional sanctions.[4] In total the Reagan and Bush administrations provided Saddam with more than five billion dollars in loan guarantees, enabling him to become a major military power in the Persian Gulf.[4]
+
+Weeks before the invasion, U.S. ambassador [[april-glaspie|April Glaspie]] told Saddam that "we have no opinion on the Arab-Arab conflicts, like your border disagreement with Kuwait," after the State Department had already informed him that Washington had "no special defense or security commitments to Kuwait" — what Lange characterizes as a green light issued on presidential instructions.[4] He concludes that the ensuing [[gulf-war|Gulf War]] served to distract from congressional and international investigations into the BCCI scandal.[4]
+
+4. Badlands Brief — "Shifting the Narrative", URL: https://badlands.substack.com/p/shifting-the-narrative

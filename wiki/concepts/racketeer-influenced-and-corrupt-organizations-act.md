@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [law, rico, organized-crime, litigation, accountability]
-sources: [raw/badlands-news-brief-13f.md, raw/badlands-news-brief-5c8.md, raw/biden-inc-flips.md]
+sources: [raw/badlands-news-brief-13f.md, raw/badlands-news-brief-5c8.md, raw/biden-inc-flips.md, raw/the-biggest-boomerang-in-history.md, raw/the-biggest-cover-up-in-american.md]
 confidence: medium
 ---
 
@@ -37,3 +37,17 @@ The article claimed that the [[white-hats|White Hats]] are using RICO statutes t
 1. Badlands Brief — "Fake News Attempts to Provoke Real Wars", URL: https://badlands.substack.com/p/badlands-news-brief-13f
 2. Badlands Brief — "Badlands News Brief: A Coming Conclave & More Musical Chairs", URL: https://badlands.substack.com/p/badlands-news-brief-5c8
 3. Badlands Brief — "Biden, Inc. Flips", URL: https://badlands.substack.com/p/biden-inc-flips
+
+## RICO in "The Biggest Boomerang In History"
+
+[[joe-lange|Joe Lange]]'s article repeatedly describes "massive RICO investigations" running in the background of the public Russiagate narrative, into which declassified material was fed.[4] Attorney General [[william-barr|William Barr]] is credited with coordinating [[declas|DECLAS]] for multiple RICO investigations, a reading Lange derives from the plural "probe(s)" in Q drop 3784.[4]
+
+[[james-comey|James Comey]] is named a main target of those investigations, and Lange predicts he will be the first big unsealed indictment.[4] The unnamed "key witness" who admitted erasing subpoenaed [[hillary-clinton|Clinton]] email archives is likewise said to have flipped and to be cooperating with the RICO investigation.[4] These claims reflect Badlands Media interpretation rather than established fact.
+
+4. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history
+
+## Application to the Uranium One matters
+
+[[joe-lange|Joe Lange]] argues that the investigations arising from the [[uranium-one-deal|Uranium One deal]] are not discrete corruption cases but a single RICO matter encompassing an interconnected web in which most participants figure in multiple crimes.[5] He emphasises two features: treason carries no statute of limitations, and under RICO the five-year limitations clock restarts after every connected crime — so that, as he puts it, the cover-up becomes worse than the underlying offence.[5] On this account the crimes have accumulated for more than eight years, the case was assigned to [[john-huber|John Huber]] in the [[huber-investigation|Huber investigation]], and it explains why the resulting [[sealed-indictments|sealed indictments]] have not yet been unsealed.[5]
+
+5. Badlands Brief — "The Biggest Cover-up in American History", URL: https://badlands.substack.com/p/the-biggest-cover-up-in-american

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [european-union, trade, institutions]
-sources: [raw/badlands-brief-e15.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-ff6.md]
+sources: [raw/badlands-brief-e15.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-ff6.md, raw/rattling-a-broken-saber.md]
 confidence: medium
 ---
 
@@ -65,3 +65,10 @@ The European Commission expressed concern in January 2025 over reports of a thwa
 Through 2023 the Commission developed and ran pilots for the [[eu-digital-identity-wallet|EU Digital Identity Wallet]] (EUDI), which it intends to make available to all EU citizens.[9] The Commission describes the wallets as personal digital wallets allowing citizens to identify themselves digitally and to store and manage identity data and official documents — driving licences, medical prescriptions, education qualifications — in electronic format.[9] More than 250 private corporations and public authorities participated in four large-scale pilot projects, into which the EU had invested €46 million, while enabling legislation was finalized.[9] Critics, including the [[brownstone-institute|Brownstone Institute]], noted that the Commission emphasized convenience, security and breadth of use while giving little attention to the ethical and surveillance risks of the tool.[9]
 
 9. Badlands News Brief — "Escalation Abroad, Subversion at Home ...", URL: https://badlands.substack.com/p/badlands-news-brief-ff6
+
+## Rearmament under Ursula von der Leyen (2025)
+
+In March 2025 Commission President [[ursula-von-der-leyen|Ursula von der Leyen]] proclaimed an "era of rearmament" and unveiled the [[rearm-europe|ReArm Europe]] plan, backed by roughly €150 billion in [[european-union|EU]] loans, in response to President [[donald-trump|Donald Trump]]'s threats to abandon [[nato|NATO]] and his pause on Ukraine funding.[10] After Italy and Spain judged the framing too aggressive, the plan was rebranded "Readiness 2030."[10] [[kaja-kallas|Kaja Kallas]], appointed in 2024 as Vice-President of the Commission and EU High Representative for Foreign Affairs and Security Policy, saw her own Ukraine financing proposals rejected by member states.[10] Badlands contributor Ryan DeLarme treated the Commission leadership as the institutional core of what he called the European deep political milieu.[10]
+
+## References
+10. Badlands Brief — "Rattling a Broken Saber?", URL: https://badlands.substack.com/p/rattling-a-broken-saber

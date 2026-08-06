@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [elections, election-integrity, alaska, voting-systems]
-sources: [raw/badlands-brief-884.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-d1d.md]
+sources: [raw/badlands-brief-884.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-d1d.md, raw/smart-goal-setting-in-the-age-of.md]
 confidence: medium
 ---
 
@@ -36,8 +36,13 @@ Ranked-choice voting was used in the [[2024-us-virgin-islands-republican-caucuse
 
 The June 2025 New York City Democratic mayoral primary was conducted under ranked choice rules, and as first-choice votes were tallied no candidate was set to secure a majority in the first round.[4] Former Governor [[andrew-cuomo|Andrew Cuomo]] nevertheless conceded and declared state assemblyman [[zohran-mamdani|Zohran Mamdani]], who led the first-choice count, the winner before later rounds were run.[4] See [[new-york-city-mayoral-election-2025|the 2025 New York City mayoral election]].[4]
 
+## As a cardinal sin of election administration
+
+Election analyst [[seth-keshel|Seth Keshel]] includes ranked choice voting among his [[eight-cardinal-sins|Eight Cardinal Sins]] of election administration — practices selected because, unlike electronic voting systems, they are not shared by all fifty states and can therefore distinguish jurisdictions in a comparative integrity model.[5] In his February 2025 [[smart-goal-setting|SMART goal-setting]] essay for [[badlands-media|Badlands Media]], the concentration of such demerits across states supplies the measurable component of his proposed reform program.[5]
+
 ## References
 1. Badlands Brief — "War Weaves & Midterm Maxis", URL: https://badlands.substack.com/p/badlands-brief-884
 2. Badlands Brief — "Badlands News Brief: Government Spending & Unprecedented Unhappiness", URL: https://badlands.substack.com/p/badlands-news-brief-31b
 3. Badlands Brief — "Badlands News Brief: Putin Pandemonium Competes with A Biden Blitz", URL: https://badlands.substack.com/p/badlands-news-brief-575
 4. Badlands News Brief — "N-Words, F-Bombs, & Big Balls' Future", URL: https://badlands.substack.com/p/badlands-news-brief-d1d
+5. Badlands Brief — "SMART Goal Setting in the Age of Election Corruption", URL: https://badlands.substack.com/p/smart-goal-setting-in-the-age-of

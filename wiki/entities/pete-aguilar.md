@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [pete-aguilar, house-democrats, impeachment, congress, california]
-sources: [raw/badlands-news-brief-0ef.md]
+sources: [raw/badlands-news-brief-0ef.md, raw/the-church-committee-for-dummies.md]
 confidence: medium
 ---
 
@@ -21,3 +21,8 @@ The leadership statement argued that the impeachment process would require an im
 ## References
 
 1. Badlands News Brief — "Weed Wins, Globalist Whisking, & Lizard-Led Impeachments", URL: https://badlands.substack.com/p/badlands-news-brief-0ef
+2. Badlands Brief — "The Church Committee, for Dummies", URL: https://badlands.substack.com/p/the-church-committee-for-dummies
+
+## Opposition to the weaponization subcommittee
+
+Aguilar, a California Democrat, was quoted in January 2023 objecting to the newly created [[select-subcommittee-on-the-weaponization-of-the-federal-government|Select Subcommittee on the Weaponization of the Federal Government]], saying: "It's in our best interest to make sure we are representing the will of the caucus and the American public, and that Republicans don't have an opportunity behind closed doors to shape, and to add to, these conspiracy theories."[2] Badlands Media cited the remark as an example of establishment Democrats preparing to "slander and impede" anything arising from the [[church-committee|Church Committee]]-style investigations, replying that "the only conspiracy theories allowed in Congress are the ones peddled by the intelligence community via compromised Democrats and the mainstream media."[2]

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [intelligence, fbi, domestic-operations, badlands-news-brief]
-sources: [raw/badlands-news-brief-001.md, raw/badlands-news-brief-07f.md, raw/how-to-stop-civil-war-20.md, raw/how-to-rent-a-riot-the-plausible.md]
+sources: [raw/badlands-news-brief-001.md, raw/badlands-news-brief-07f.md, raw/how-to-stop-civil-war-20.md, raw/how-to-rent-a-riot-the-plausible.md, raw/the-church-committee-for-dummies.md]
 confidence: low
 ---
 
@@ -38,3 +38,8 @@ The article argues that the usefulness of an unsuspecting American public, parti
 2. Badlands News Brief — "Trump's Trial, Archer's Animus & BRICS' Battle", URL: https://badlands.substack.com/p/badlands-news-brief-07f
 3. Badlands Brief — "How to Stop Civil War 2.0", URL: https://badlands.substack.com/p/how-to-stop-civil-war-20
 4. Badlands Brief — "How to Rent a Riot - The Plausible Deniability Network", URL: https://badlands.substack.com/p/how-to-rent-a-riot-the-plausible
+5. Badlands Brief — "The Church Committee, for Dummies", URL: https://badlands.substack.com/p/the-church-committee-for-dummies
+
+## Exposure by the Church Committee
+
+The 1975 [[church-committee|Church Committee]] investigated COINTELPRO as the [[fbi|FBI]]'s long-running program of "covert action designed to disrupt and discredit the activities of groups and individuals deemed a threat to the social order," aimed at surveilling, infiltrating, discrediting and disrupting American political organizations.[5] Documented targets included the National Lawyers Guild, the American Indian Movement, the [[black-panther-party|Black Panthers]], the Southern Christian Leadership Conference and the anti-Vietnam War movement, as well as individuals such as [[martin-luther-king-jr|Martin Luther King, Jr.]] and local, state and federal elected officials.[5] Badlands Media stresses that this list is not comprehensive and argues it is more than likely that similar programs operate today.[5]

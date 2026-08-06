@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [world-economic-forum, great-reset, globalism]
-sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-f4c.md, raw/combating-the-transhumanist-religion.md, raw/is-the-censorship-war-over.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-f4c.md, raw/combating-the-transhumanist-religion.md, raw/is-the-censorship-war-over.md, raw/soul-governance.md]
 confidence: low
 ---
 
@@ -56,6 +56,10 @@ In May 2023, under Schwab's leadership as founder and executive chairman, the WE
 
 In January 2023 The Guardian reported that the future of Schwab — "Mr Davos" for more than half a century — had become a talking point at that year's meeting after [[world-economic-forum|World Economic Forum]] employees voiced strong criticism of their chair and of the lack of a succession strategy.[10] A group of current and former WEF staff who contacted the paper said the 82-year-old Schwab was a law unto himself and had surrounded himself with "nobodies" incapable of running the organisation he founded in the early 1970s.[10] The group said: "Klaus has been at the helm of the WEF for 52 years. When he was born [in 1938] 122 of the 195 states in the world right now did not even exist. He is completely unaccountable to anyone inside and outside the organisation."[10] [[jordan-sather|Jordan Sather]] commented that the WEF appeared to be in shambles, with staff describing Schwab as running the organization as though he had a God complex and hiring inept people, while reporting that week indicated many companies and NGOs bankrolling the forum were unhappy with his management.[10]
 
+## In "Soul Governance"
+
+The Badlands Media essay [[soul-governance|Soul Governance]] names Schwab among the figures it treats as "echoes, masks, handlers" of a control system rather than its authors, alongside Fauci and Gates.[13] It says he "preached the gospel of stakeholder governance" and quotes the slogan "you will own nothing," adding an unstated completion of its own: "because we already own you."[13] In the essay's scheme the [[world-economic-forum|World Economic Forum]] he founded serves as the Vatican of a digital church with [[yuval-noah-harari|Yuval Harari]] as its high priest.[13]
+
 ## References
 
 1. Badlands Brief — "AI Can Help Us Expose the NWO", URL: https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo
@@ -82,3 +86,4 @@ Badlands Media reported in late April 2025 that Schwab — described as a Kissin
 His announced successor was [[peter-brabeck-letmathe|Peter Brabeck-Letmathe]], the former [[nestle|Nestlé]] chief executive, whom the article suggested "might actually outclass" Schwab in terms of outward malevolence on account of his role in the "global water grab" and his position that water should be treated as a priced "foodstuff" rather than a human right.[12] Both men were presented as exemplars of the globalist faction contesting the [[cognitive-warfare|cognitive battlespace]] against populist movements.[12]
 
 12. Badlands Brief — "Is the Censorship War Over?", URL: https://badlands.substack.com/p/is-the-censorship-war-over
+13. Badlands Brief — "Soul Governance", URL: https://badlands.substack.com/p/soul-governance

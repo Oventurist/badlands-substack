@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [iran, protests, reza-pahlavi, color-revolution, regime-change, bazaar]
-sources: [raw/badlands-news-brief-752.md, raw/badlands-news-brief-ec8.md]
+sources: [raw/badlands-news-brief-752.md, raw/badlands-news-brief-ec8.md, raw/signal-collapse.md]
 confidence: medium
 ---
 
@@ -28,6 +28,13 @@ Protests and strikes over inflation and currency devaluation spread from Tehran 
 
 Israeli commentator [[emily-schrader|Emily Schrader]] publicly called on Prime Minister [[benjamin-netanyahu|Netanyahu]] to authorize "practical, technical, logistical and even kinetic support" for the protesters.[2] Badlands host [[chris-paul|Chris Paul]] cited the post as explaining renewed press questions to [[donald-trump|Trump]] about whether he would be willing to bomb Iran.[2]
 
+## Interpretation in "Signal Collapse"
+
+The June 26, 2025 Badlands essay "Signal Collapse" argued that the Iranian population was "not rising because of Trump" but "because they remember," positing a dormant "memory field" in the body of a people that reactivates when external interference weakens.[3] On this reading the unrest was neither revolution nor coup but "a re-inhabitation" and "a correction," with the regime dissolving through internal loss of coherence rather than external force.[3]
+
+The essay connected the episode to [[2025-trump-regime-change-remarks-on-iran|Trump's "regime change" post]] and the [[miga|MIGA]] acronym, which it said "doesn't impose — it unseals," and to a reversal of the [[iranian-revolution|1979 revolution]] framed as "cultural soul retrieval."[3] It predicted the same pattern would appear in America, France, Greenland, Canada, Germany and Israel.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Somali Probes, JD Plots, & A Lawfare RICO", URL: https://badlands.substack.com/p/badlands-news-brief-752
 2. Badlands Brief — "Badlands News Brief: Mandate Cultivation, Uppity Government, & the Dawn of Mam", URL: https://badlands.substack.com/p/badlands-news-brief-ec8
+3. Badlands Brief — "Signal Collapse", URL: https://badlands.substack.com/p/signal-collapse

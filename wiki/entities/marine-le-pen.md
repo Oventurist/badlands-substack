@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [france, national-rally, elections, polling, nationalism]
-sources: [raw/badlands-news-brief-11c.md, raw/badlands-news-brief-a0b.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-a72.md]
+sources: [raw/badlands-news-brief-11c.md, raw/badlands-news-brief-a0b.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-a72.md, raw/rattling-a-broken-saber.md]
 confidence: medium
 ---
 
@@ -42,3 +42,10 @@ After the [[european-parliament|European Parliament]] approved the [[eu-asylum-a
 2. Badlands Brief — "Badlands News Brief: The Wolf of D.C. & A Portfolio of Highly Organized Crime", URL: https://badlands.substack.com/p/badlands-news-brief-a0b
 3. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38
 4. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72
+
+## Lawfare and the 2027 election (2025)
+
+Badlands contributor Ryan DeLarme described Le Pen, leader of France's National Rally, as a leading example of the anti-establishment surge across Western and Central Europe, alongside [[giorgia-meloni|Giorgia Meloni]] and [[viktor-orban|Viktor Orbán]], none of whom supported the hawkish line on Russia held by the [[european-union|EU]]'s globalist faction.[5] He characterized the 2025 ruling barring her from running for five years as a lawfare operation mounted against her despite her position as frontrunner for the 2027 French presidential election.[5]
+
+## References
+5. Badlands Brief — "Rattling a Broken Saber?", URL: https://badlands.substack.com/p/rattling-a-broken-saber

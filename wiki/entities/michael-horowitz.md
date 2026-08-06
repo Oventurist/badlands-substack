@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [inspector-general, doj, oversight, investigations]
-sources: [raw/america-for-sale-part-2.md, raw/badlands-news-brief-384.md]
+sources: [raw/america-for-sale-part-2.md, raw/badlands-news-brief-384.md, raw/the-biggest-cover-up-in-american.md]
 confidence: medium
 ---
 
@@ -29,3 +29,9 @@ In May 2024 Horowitz, as Justice Department watchdog, revealed in a letter to De
 ## References
 1. Badlands Brief — "America for Sale - Part 2", URL: https://badlands.substack.com/p/america-for-sale-part-2
 2. Badlands Brief — "Badlands News Brief: Debates Set, Funding Found & NGO's Defied", URL: https://badlands.substack.com/p/badlands-news-brief-384
+
+## Pairing with Huber on the Uranium One matters
+
+Badlands contributor [[joe-lange|Joe Lange]] writes that Attorney General [[jeff-sessions|Jeff Sessions]] teamed Horowitz, the [[department-of-justice|Justice Department]]'s Inspector General, with prosecutor [[john-huber|John Huber]] to conduct the criminal investigations into the [[uranium-one-deal|Uranium One deal]] and related Clinton matters rather than appointing a special counsel.[3] Sessions's letter to congressional chairmen noted that Horowitz commanded a staff of 470 investigators, giving Huber access to investigative firepower far exceeding that of any special counsel.[3] The letter also observed that the inspector general's jurisdiction extends not only to allegations of legal violations but to allegations that department employees violated established practices, meaning the resulting report could hold people accountable even for conduct that breached no specific statute.[3] Lange presents this pairing as making the [[huber-investigation|Huber investigation]] more dangerous to its targets than a special counsel would have been.[3]
+
+3. Badlands Brief — "The Biggest Cover-up in American History", URL: https://badlands.substack.com/p/the-biggest-cover-up-in-american

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [brazil, censorship, judiciary, foreign-policy, free-speech]
-sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-889.md, raw/brazil-breaking.md]
+sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-889.md, raw/brazil-breaking.md, raw/the-censorship-war-counteroffensive.md]
 confidence: medium
 ---
 
@@ -41,3 +41,10 @@ Brazil became the focus of an international free-speech confrontation in August 
 Brazil drew intense attention from the American alternative-media community in late 2022, when the [[2022-brazilian-general-election|2022 Brazilian general election]] delivered a declared victory for [[luiz-inacio-lula-da-silva|Luiz Inacio Lula da Silva]] over incumbent [[jair-bolsonaro|Jair Bolsonaro]].[3] Badlands Media described the country as another Christian nationalist nation seemingly having its democratic process subverted by those with the means and the systems to see it done, and reported widespread protests and national tensions following the result.[3] Before the vote, Bolsonaro had said the [[brazilian-armed-forces|Brazilian Armed Forces]] were invited to join in electoral transparency and had concluded that no seal of credibility could be granted to the voting system given its many vulnerabilities, and after it, reports circulated that the military apparatus might enact full-scale audits of recent elections and their underlying systems.[3] The essay argued that Brazil could prove the "first elections domino," with ripple effects felt worldwide and particularly in the United States ahead of its own midterm elections.[3]
 
 3. Badlands Brief — "Brazil Breaking", URL: https://badlands.substack.com/p/brazil-breaking
+4. Badlands Brief — "The Censorship War - Counteroffensive", URL: https://badlands.substack.com/p/the-censorship-war-counteroffensive
+
+## Brazil as a censorship flashpoint
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] identified Brazil as the country where the pro-censorship camp has enjoyed its most unprecedented success in the global [[censorship-war|censorship war]], chiefly through Justice [[alexandre-de-moraes|Alexandre de Moraes]] of the [[supremo-tribunal-federal|Supremo Tribunal Federal]].[4] Moraes's orders drove [[rumble|Rumble]] out of the country in December 2023, closed [[x-corp|X]], and froze [[starlink|Starlink]]'s Brazilian bank accounts in August 2024.[4]
+
+Brazil also sought the extradition of the journalist [[allan-dos-santos|Allan dos Santos]] over alleged disinformation about the court and the [[2022-brazilian-general-election|2022 general election]], a request Washington refused because the alleged conduct is protected speech in the United States.[4] DeLarme wrote that the second [[donald-trump|Trump]] administration had until then largely refrained from applying to Brazil the punitive tariffs and demands used against other nations, but predicted the [[rumble-and-trump-media-v-moraes|lawsuit against Moraes]] would exacerbate dormant tensions between the two governments.[4]

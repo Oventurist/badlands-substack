@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [healthcare, abortion, litigation, womens-health]
-sources: [raw/badlands-news-brief-27c.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-f1d.md, raw/gender-ideology-has-become-law.md]
+sources: [raw/badlands-news-brief-27c.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-f1d.md, raw/gender-ideology-has-become-law.md, raw/the-accomplishments-of-president.md]
 confidence: medium
 ---
 
@@ -26,6 +26,11 @@ On June 26, 2025, the [[supreme-court-of-the-united-states|Supreme Court]] ruled
 
 In October 2025 Texas Attorney General [[ken-paxton|Ken Paxton]] announced arrests of eight people accused of operating illegal abortion clinics in the Houston area, and reporting noted that the arrests followed the recent closure of a major Planned Parenthood facility in Houston, once one of the largest abortion clinics in the country.[3] Badlands commentary welcomed the Texas closure alongside the arrests, and argued — while citing Guttmacher-derived figures suggesting that in all but roughly 0.15% of cases in Florida abortion is an elective procedure — that the overwhelming majority of abortions nationally are elective rather than emergency interventions.[3]
 
+
+## 2017 funding measure (Badlands account)
+
+A 2023 Badlands Media article cited an April 2017 measure signed by [[donald-trump|President Donald Trump]] that reduced federal funding for abortion providers nationwide as evidence of his pro-life record, alongside his [[supreme-court-of-the-united-states|Supreme Court]] appointments and their role in overturning [[roe-v-wade|Roe v. Wade]].[5]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Abercreepy Elites Versus Sovereign Alliance Alpha Chads", URL: https://badlands.substack.com/p/badlands-news-brief-27c
 2. Badlands Brief — "Decision Day, Disarming Deals & A Double Deportation", URL: https://badlands.substack.com/p/badlands-news-brief-32c
@@ -35,3 +40,4 @@ In October 2025 Texas Attorney General [[ken-paxton|Ken Paxton]] announced arres
 ## Role in gender medicine
 
 A February 2024 Badlands Media essay by [[justin-deschamps|Justin Deschamps]] cited Planned Parenthood as the clearest American illustration of [[wpath|WPATH]]'s influence, stating that the organization permits young girls who self-diagnose as having [[gender-dysphoria|gender dysphoria]] same-day access to testosterone without a prescription or permission from their parents.[4] The essay treats this as an example of [[gender-affirming-care|gender affirmative care]] displacing [[parental-rights|parental rights]] in the United States.[4]
+5. Badlands Brief — "The Accomplishments of President Trump - Part 1", URL: https://badlands.substack.com/p/the-accomplishments-of-president

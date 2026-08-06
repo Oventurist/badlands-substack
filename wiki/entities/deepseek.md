@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [artificial-intelligence, china, technology, markets]
-sources: [raw/badlands-news-brief-d7a.md]
+sources: [raw/badlands-news-brief-d7a.md, raw/spear-of-justice.md]
 confidence: medium
 ---
 
@@ -24,5 +24,10 @@ Technology leaders, analysts, investors and developers argued that the surroundi
 
 The DeepSeek story was covered by Badlands alongside commentary from the [[united-nations|UN]] at Davos framing unregulated artificial intelligence as an existential threat, with Badlands host [[burning-bright|Burning Bright]] treating elite alarm over AI as a possible reverse indicator — arguing that technologies feared by entrenched power may in fact be liberating rather than enslaving.[1]
 
+## Texas Investigation (2025 analysis)
+
+An August 2025 Badlands Media essay described Texas Attorney General [[ken-paxton|Ken Paxton]]'s investigation into DeepSeek as targeting a CCP-linked artificial intelligence developer, grouping it with his probe of [[character-ai|Character.AI]] as strikes at the human and geopolitical vulnerabilities inside the rise of AI.[2] The author characterized this as fifth-generation warfare in active mode, combining legal authority with narrative shaping and applying pressure where technical, ethical, and national security concerns intersect, so that foreign-linked AI investigations trigger national security responses that feed back into other regulatory loops.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Communist Cozenage & A Dictatorial Dmitry", URL: https://badlands.substack.com/p/badlands-news-brief-d7a
+2. Badlands Brief — "Spear of Justice: Ken Paxton and the Bleeding Edge", URL: https://badlands.substack.com/p/spear-of-justice

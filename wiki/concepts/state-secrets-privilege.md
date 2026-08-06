@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [law, fisa, military-intelligence, classification]
-sources: [raw/disinformation-is-necessary.md]
+sources: [raw/disinformation-is-necessary.md, raw/the-biggest-cover-up-in-american.md]
 confidence: low
 ---
 
@@ -20,3 +20,9 @@ Lange further claims that at least two Supreme Court justices — he believes [[
 
 ## References
 1. Badlands Brief — "Disinformation is Necessary", URL: https://badlands.substack.com/p/disinformation-is-necessary
+
+## Use in the Uranium One and Iran matters
+
+[[joe-lange|Joe Lange]] argues that the [[barack-obama|Obama]] administration classified the details of its Iranian nuclear deal at the highest level of state secrets so that not even a United States senator could review them, while foreign powers could, and that it likewise placed many of its actions under the designation to hide them from [[congress|Congress]].[2] He notes, citing [[qanon|Q]] drop #49, that one reporting requirement of invoking state secrets is that Congress must be informed each time it is used — a requirement he says allowed Senator [[chuck-grassley|Chuck Grassley]] to detect the concealment surrounding the [[uranium-one-deal|Uranium One deal]] and its confidential informant.[2]
+
+2. Badlands Brief — "The Biggest Cover-up in American History", URL: https://badlands.substack.com/p/the-biggest-cover-up-in-american

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence, ukraine, deep-state, alliances]
-sources: [raw/badlands-news-brief-144.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-f46.md, raw/moves-and-countermoves.md]
+sources: [raw/badlands-news-brief-144.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-f46.md, raw/moves-and-countermoves.md, raw/the-biggest-boomerang-in-history.md]
 confidence: medium
 ---
 
@@ -50,3 +50,11 @@ The classified documents at the center of the November 2024 prosecution of [[asi
 Lange argues that [[barack-obama|Obama]] and [[john-brennan|John Brennan]] used the alliance to evade congressional oversight while spying not only on the Trump campaign but on candidate [[ted-cruz|Ted Cruz]], members of [[congress|Congress]] and the press, and that the absence of any regular-channel record for the released transcripts of [[michael-flynn|Flynn]]'s calls with the Russian ambassador proved they originated with FVEY sources.[5] He contends the resulting need to launder this material through legitimate process drove the [[steele-dossier|fake dossier]] and the FISA warrants on Carter Page and George Papadopoulos, and that [[john-mccain|John McCain]] was himself tied to the FVEY operation.[5]
 
 5. Badlands Brief — "Moves and Countermoves", URL: https://badlands.substack.com/p/moves-and-countermoves
+
+## FVEY in "The Biggest Boomerang In History"
+
+[[joe-lange|Joe Lange]]'s article defines FVEY as the intelligence-sharing network between the United States, United Kingdom, Australia, Canada and New Zealand, and argues that the [[barack-obama|Obama]] administration used allied services in the United Kingdom and Australia through it to spy on the Trump campaign and many other people long before the [[fbi|FBI]] ever applied for a [[foreign-intelligence-surveillance-act|FISA]] warrant on [[carter-page|Carter Page]].[6]
+
+Lange asserts Obama ordered [[john-brennan|John Brennan]]'s [[central-intelligence-agency|CIA]] to run this foreign-partner strand of the operation while [[james-comey|Comey]]'s FBI handled the domestic side and the cover-up.[6] Q drop 3784, quoted in the article, likewise references foreign classified intelligence provided from "[FVEY – Non FVEY]" sources as needed within the [[declas|DECLAS]] chain of command.[6] These claims reflect Badlands Media interpretation rather than established fact.
+
+6. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history

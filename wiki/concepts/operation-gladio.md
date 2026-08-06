@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [nato, intelligence, stay-behind, turkey, deep-state]
-sources: [raw/badlands-news-brief-099.md, raw/badlands-news-brief-7c6.md, raw/john-bobby-and-marilyn.md, raw/operation-gladio-a-primer.md, raw/operation-gladio-how-its-funded.md]
+sources: [raw/badlands-news-brief-099.md, raw/badlands-news-brief-7c6.md, raw/john-bobby-and-marilyn.md, raw/operation-gladio-a-primer.md, raw/operation-gladio-how-its-funded.md, raw/real-patriots-dont-think-like-hitler-196.md, raw/real-patriots-dont-think-like-hitler-d42.md, raw/real-patriots-dont-think-like-hitler.md]
 confidence: low
 ---
 
@@ -50,9 +50,27 @@ Opium came from Chiang, who was resettled on Formosa — renamed [[taiwan]] — 
 
 Enabling events included [[operation-underworld]] and [[operation-husky]], after which mafia figures were installed as officials across occupied Italy, and the commutation of Luciano's sentence by Governor [[thomas-dewey]] under pressure from Secretary of the Navy [[james-forrestal]], Dulles and the [[office-of-naval-intelligence]].[5] The article notes that [[benito-mussolini]] had suppressed both the mafia and the masonic lodges in Italy, and that both made a roaring comeback under Gladio.[5] Its conclusion is that aspects of the United States government resemble an international crime syndicate posing as a government.[5]
 
+## Postwar employment of fascist cadres
+
+[[matthew-ehret|Matthew Ehret]] writes that in the decades after the Second World War many leading fascists in Germany, France, the Netherlands, Italy and Japan were quietly and quickly put to work overseeing the creation of [[nato|NATO]]'s secret armies in the form of Operation Gladio, alongside the [[bilderberg|Bilderberg Group]], [[operation-paperclip|Project Paperclip]] and the US bioweapons complex.[6] The European banking houses representing the old nobility of the empire, he adds, passed through this reconquering of the West without punishment.[6]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Democrats in Disarray as Globalists Bend the Knee", URL: https://badlands.substack.com/p/badlands-news-brief-099
 2. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
 3. Badlands Brief — "John, Bobby ... and Marilyn", URL: https://badlands.substack.com/p/john-bobby-and-marilyn
 4. Badlands Brief — "Operation Gladio - A Primer", URL: https://badlands.substack.com/p/operation-gladio-a-primer
 5. Badlands Brief — "Operation Gladio - How It's Funded", URL: https://badlands.substack.com/p/operation-gladio-how-its-funded
+6. Badlands Brief — "Real Patriots Don't Think Like Hitler – Part 2: How Western Bankers Created the Nazis", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-196
+
+
+## Continuity with the wartime fascist networks
+
+Part 5 of "Real Patriots Don't Think Like Hitler" presents Gladio, [[nato|NATO]]'s secret armies, together with the [[world-anti-communist-league|World Anti-Communist League]], as the postwar form taken by the fascist sabotage networks that had sought an Anglo-Nazi special relationship to conquer the world.[7] [[matthew-ehret|Matthew Ehret]] argues these networks were rehabilitated and redeployed without missing a beat after the deaths of [[franklin-d-roosevelt|Franklin Roosevelt]] and his closest allies, and that the rebranding of postwar fascism ultimately took the form of the neoconservative movement, steered by "former" Trotskyists and Satanists committed to reorganizing the world under a new managerial elite.[7]
+
+7. Badlands Brief — "Real Patriots Don't Think Like Hitler - Part 5: Nazi Fifth Columns in America", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-d42
+
+## Part 1: postwar absorption of Nazi personnel
+
+Part 1 of the series states that the majority of Nazis, including leading SS members, were sent to South America after World War II and, instead of being punished, simply received new jobs working for [[allen-dulles|Allen Dulles]], MI6 and NATO as part of Operation Gladio.[8] [[matthew-ehret|Matthew Ehret]] uses this continuity — together with the founding of the [[bilderberg-group|Bilderberg Group]] in 1955 by SS operatives such as [[prince-bernhard|Prince Bernhard]] — to argue that no genuine patriot of any nation could embrace Nazism, since the surviving Nazi apparatus went on to manage the Trans-Atlantic banking system, revive eugenics, drive proxy wars in Ukraine, and lord over the technocracy of the European Union.[8]
+
+8. Badlands Brief — "Real Patriots Don't Think Like Hitler - Part 1", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler

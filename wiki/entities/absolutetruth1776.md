@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, citizen-journalism, commentary, substack]
-sources: [raw/badlands-news-brief-38f.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-8c5.md, raw/happy-thanksgiving.md, raw/q-for-dummies-chapter-13.md, raw/q-for-dummies-chapter-14.md, raw/q-for-dummies-chapter-15.md, raw/q-for-dummies-chapter-10.md, raw/q-for-dummies-chapter-2.md, raw/q-for-dummies-chapter-19.md, raw/q-for-dummies-chapter-5.md]
+sources: [raw/badlands-news-brief-38f.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-8c5.md, raw/happy-thanksgiving.md, raw/q-for-dummies-chapter-13.md, raw/q-for-dummies-chapter-14.md, raw/q-for-dummies-chapter-15.md, raw/q-for-dummies-chapter-10.md, raw/q-for-dummies-chapter-2.md, raw/q-for-dummies-chapter-19.md, raw/q-for-dummies-chapter-5.md, raw/q-for-dummies-chapter-6.md, raw/q-for-dummies-chapter-3.md, raw/q-for-dummies-chapter-9.md, raw/the-accomplishments-of-president-a2b.md]
 confidence: medium
 ---
 
@@ -35,6 +35,16 @@ In the February 23, 2023 Badlands News Brief, AbsoluteTruth1776 commented on the
 ## Thanksgiving 2023 reflection
 
 Writing as "Abs," the contributor supplied a short reflection to the [[badlands-media|Badlands Media]] Thanksgiving post of November 23, 2023.[4] The message expressed thanks for "my faith and my family," for "my Badlands family, and for all of our Badlanders out there," and for the chance "to share such an amazing time in history with so many incredible people," ending with thanks for readers' love and support and wishes for a blessed Thanksgiving.[4]
+
+## Q for Dummies Chapter 3
+
+AbsoluteTruth1776 published Chapter 3 of [[q-for-dummies|Q for Dummies]] on December 29, 2023, covering drops #15 through #22.[13] The instalment opens with holiday greetings and thanks to readers for helping the series "take off far quicker than I imagined it would," and restates that the writing is deliberately kept as simple as possible for newcomers, with higher-level analysis available through [[eye-of-the-storm|Eye Of The Storm]] and [[patriots-in-progress|Patriots In Progress]].[13] He closes with a promise to run a reader Q&A instalment at some point, an invitation for suggestions in the comments, the exhortation to "keep that Armor Of God on," and a New Year sign-off ahead of Chapter 4.[13] The article carries Badlands Media's standard disclaimer and points readers to his own Substack, Beyond the Veil.[13]
+
+Notable within the chapter is his methodological caution about [[military-tribunals|military tribunals]]: he states that anyone claiming firsthand knowledge of tribunals having taken place is in his opinion intentionally misleading their audience, because operators do not divulge.[13]
+
+## "The Accomplishments of President Trump" Series
+
+AbsoluteTruth1776 authored a multi-part Badlands Media series chronicling what the writer described as the understated and suppressed accomplishments of President Donald J. Trump, with Part 2 — devoted entirely to the economy — published April 28, 2023 and drawing 116 likes.[15] The author framed the series as a red-pilling resource: a compact, sourced record of Trump's first-term results intended both to demonstrate his steps toward dismantling the Deep State and to argue for his return to office heading into 2024.[15] Part 1 had covered government-related accomplishments; the reception to it convinced the author that the series might need to run longer than the three parts originally planned.[15] The installment closes with the author's characteristic sign-off — thanking supporters, recalling meeting readers at GART, urging them to keep their "Armor Of God" on, and declaring that "the very best is yet to come" — and directs readers to the author's own Substack, Beyond the Veil, at absolute1776.substack.com.[15]
 
 ## References
 1. Badlands Brief — "BANKS BANKS BANKS!", URL: https://badlands.substack.com/p/badlands-news-brief-38f
@@ -89,3 +99,19 @@ Chapter 5 of the series, published February 2, 2024, covers drops #31 through #4
 The chapter reflects his usual hedged method, repeatedly assigning drops to the [[future-proves-past|"future proves past"]] category and cautioning that some Q material may be deliberate misinformation.[11] He discloses a forthcoming article on his own Substack dealing with the [[insurrection-act|Insurrection Act]], [[devolution|Devolution]] and the possible role of 11.3, and notes that [[john-podesta|John Podesta]]'s return to prominence may be a prelude to public accountability.[11] He states his belief that "Military is the only way" refers primarily to [[military-intelligence|Military Intelligence]] rather than troops in the streets, and that [[james-comey|James Comey]] was working for the operation.[11] The instalment closes by directing readers to [[eye-of-the-storm|Eye Of The Storm]] on [[badlands-media|Badlands Media]] every Tuesday and Friday with [[stormy-patriot-joe|StormyPatriotJoe]], urging readers to do their own research, to "Wear your Armor Of God," and pointing to Beyond the Veil.[11]
 
 11. Badlands Brief — "Q for Dummies - Chapter 5", URL: https://badlands.substack.com/p/q-for-dummies-chapter-5
+12. Badlands Brief — "Q for Dummies - Chapter 6", URL: https://badlands.substack.com/p/q-for-dummies-chapter-6
+13. Badlands Brief — "Q for Dummies - Chapter 3", URL: https://badlands.substack.com/p/q-for-dummies-chapter-3
+14. Badlands Brief — "Q for Dummies - Chapter 9", URL: https://badlands.substack.com/p/q-for-dummies-chapter-9
+
+## Chapter 9 and the GART Dallas appearance
+
+Chapter 9 of [[q-for-dummies|Q for Dummies]], published March 22, 2024, shows the author deliberately slowing the series' pace: he covers only four drops, #68 through #71, explaining that they are "jam-packed" and that he intends to go into them with more depth than he has previously done — something he says he will do from time to time with drops he judges integral to setting the stage for later material.[14] He opens by thanking "all you lovely Badlanders" for their support of the series, writing that his gratitude is immense, and announces that he would be speaking at GART Dallas, pointing readers to the [[badlands-media|Badlands Media]] website for in-person or virtual tickets.[14]
+
+The instalment shows his habitual voice — addressing readers as "frens" and "frenettes," joking that his spellcheck had come to recognise "dasting" as a legitimate word — alongside his practice of crediting other writers, quoting [[patriots-in-progress|Patriots In Progress]] at length on drop #69 and endorsing his reading.[14] He also leaves parts of the analysis to readers, writing that he will "leave the deeper dot connecting to y'all" on [[huma-abedin|Huma Abedin]]'s family.[14] The chapter closes with his standard exhortation to keep hope and faith and keep fighting, the sign-off "WWG1WGA," the Badlands contributor disclaimer, and a pointer to his own Substack, Beyond the Veil.[14]
+
+## Chapter 6 of "Q for Dummies"
+
+Chapter 6 of the series, published February 16, 2024 and covering drops #41–50, opens with the author thanking readers for the reception the series had received and describing drop #44 as one of the more often-discussed drops of the [[q-operation|Q Operation]].[12] He advances the argument that mass shootings reliably follow bad news for Democrats and are used to push gun control, applying it to the [[kansas-city-super-bowl-parade-shooting|Kansas City Super Bowl parade shooting]] and crediting the Substack writer JuliansRum for the finding on [[travis-kelce|Travis Kelce]]'s prior gun-control post and Patriots In Progress for the tweet images used in the chapter.[12]
+
+Writing early in the 2024 election year, he says he feels "a slow burn coming to a point of full-blown combustion" and flip-flops between expecting an election and expecting some prior event to halt it.[12] He again relies on the [[future-proves-past|"future proves past"]] category — reading drop #44 as pointing to the still-future "the storm is upon us" message — and allows that Q's references to the military may be misinformation designed to keep the [[deep-state|Deep State]] guessing.[12] The instalment closes with his customary encouragement that "God wins," the Badlands contributor disclaimer, and a pointer to his own Substack, Beyond the Veil.[12]
+15. Badlands Brief — "The Accomplishments of President Trump - Part 2", URL: https://badlands.substack.com/p/the-accomplishments-of-president-a2b

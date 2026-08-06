@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [bretton-woods, finance, development, deep-state]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-news-brief-4cf.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-news-brief-4cf.md, raw/real-patriots-dont-think-like-hitler-196.md]
 confidence: medium
 ---
 
@@ -32,6 +32,11 @@ The essay contended that the scale of the challenge demands a fundamental evolut
 
 Badlands contributor Chris Paul read the piece through the lens of a shift to a decentralized global economy, describing a move "from a top-down global system to a fragmented, multipolar economy" in which "countries are cutting their own deals — rebuilding self-sufficient supply chains."[2] He dated the shift to the first [[donald-trump|Trump]] term, argued that decoupling and decentralization were things Trump and [[xi-jinping|Xi Jinping]] "actually worked on together," and characterized Xi as "the avatar for what the global order is doing inside China."[2]
 
+## Postwar capture
+
+[[matthew-ehret|Matthew Ehret]] argues that in the decades after the Second World War the same financiers who brought the world fascism went straight back to work infiltrating [[franklin-d-roosevelt|FDR]]'s Bretton Woods institutions, turning the World Bank and the [[international-monetary-fund|IMF]] from tools of development into tools of enslavement.[3] He credits [[john-perkins|John Perkins]]'s 2004 book *Confessions of an Economic Hit Man* with fully exposing that process.[3]
+
 ## References
 1. Badlands Brief — "A Gateway to a New World of Cooperation", URL: https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation
 2. Badlands Brief — "Badlands News Brief: Price Floors, Curveballs, & Benevolent Discrimination", URL: https://badlands.substack.com/p/badlands-news-brief-4cf
+3. Badlands Brief — "Real Patriots Don't Think Like Hitler – Part 2: How Western Bankers Created the Nazis", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-196

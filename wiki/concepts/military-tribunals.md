@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [military-justice, ucmj, jag, deep-state, badlands-media]
-sources: [raw/biden-inc-flips.md]
+sources: [raw/biden-inc-flips.md, raw/q-for-dummies-chapter-3.md]
 confidence: low
 ---
 
@@ -36,5 +36,10 @@ Tribunals are described as functioning within [[continuity-of-government|Continu
 
 No evidence supports the existence of secret military tribunals trying American civilian political figures. Under U.S. law, military commissions have jurisdiction over a narrow category of defendants, principally alien unprivileged enemy belligerents, and their proceedings are docketed and publicly reported. The tribunal narrative described here is an interpretive framework advanced by [[badlands-media|Badlands Media]] contributors rather than a documented legal process.[1]
 
+## Caution in Q for Dummies
+
+Chapter 3 of [[q-for-dummies|Q for Dummies]] describes [[military-intelligence|military intelligence]] as able to bring investigations directly to the President, whose evidence could then be used against various actors "potentially in military tribunals."[2] The same chapter attaches an explicit warning to that possibility: the author states that anyone claiming to have seen tribunals in person, or to know for a fact that they have taken place and what punishments were imposed, is in his opinion intentionally misleading their audience and telling them what they want to hear.[2] His reasoning is that operators do not divulge, and that if tribunals were occurring the public would not learn of it until well after the fact.[2]
+
 ## References
 1. Badlands Brief — "Biden, Inc. Flips", URL: https://badlands.substack.com/p/biden-inc-flips
+2. Badlands Brief — "Q for Dummies - Chapter 3", URL: https://badlands.substack.com/p/q-for-dummies-chapter-3

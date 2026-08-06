@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fifa, world-cup, corruption, clinton-foundation, qatar]
-sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-1c6.md, raw/badlands-news-brief-ee6.md]
+sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-1c6.md, raw/badlands-news-brief-ee6.md, raw/the-accomplishments-of-president-a2b.md]
 confidence: medium
 ---
 
@@ -32,7 +32,12 @@ The Brief alleged that FIFA referees have for years permitted Argentina to push,
 
 FIFA, together with UEFA, banned the Russian national football team from international competition following [[russia|Russia]]'s invasion of Ukraine in 2022, meaning that under the rules in force in May 2025 Russia would not appear at the [[2026-fifa-world-cup|2026 World Cup]] co-hosted by the United States, Canada and Mexico.[3] At the first meeting of the Trump administration's 2026 World Cup taskforce, FIFA president [[gianni-infantino|Gianni Infantino]] confirmed the ban to President [[donald-trump|Donald Trump]], who had been unaware of it, adding that the Russians "are banned for the time being from playing but we hope that something happens and peace will happen so that Russia can be readmitted."[3] Trump responded that readmission "could be a good incentive" for Moscow to end the war in Ukraine.[3]
 
+## 2026 World Cup Award and Trump
+
+Badlands Media's survey of Donald Trump's economic accomplishments credits him with helping secure FIFA's 2026 World Cup for North America, with most matches slated for the United States — the tournament's first American staging since 1994.[4] Trump met FIFA president Gianni Infantino in August 2018 and joked about the timing, noting he would be out of office when the games arrived: "Maybe they'll extend the term."[4]
+
 ## References
 1. Badlands Brief — "America for Sale - Part 2", URL: https://badlands.substack.com/p/america-for-sale-part-2
 2. Badlands Brief — "Spain Wins The [American] World Cup", URL: https://badlands.substack.com/p/badlands-brief-1c6
 3. Badlands Brief — "Badlands News Brief: Traversing Judicial Coups & Raw-Dogging the Conclave", URL: https://badlands.substack.com/p/badlands-news-brief-ee6
+4. Badlands Brief — "The Accomplishments of President Trump - Part 2", URL: https://badlands.substack.com/p/the-accomplishments-of-president-a2b

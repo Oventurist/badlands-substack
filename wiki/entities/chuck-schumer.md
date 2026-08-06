@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, israel, netanyahu, democrats]
-sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-029.md, raw/badlands-brief-618.md, raw/badlands-brief-8c2.md, raw/badlands-brief-990.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-373.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-50a.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-c6a.md, raw/badlands-news-brief-e48.md, raw/moves-and-countermoves.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-029.md, raw/badlands-brief-618.md, raw/badlands-brief-8c2.md, raw/badlands-brief-990.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-373.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-50a.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-c6a.md, raw/badlands-news-brief-e48.md, raw/moves-and-countermoves.md, raw/q-for-dummies-chapter-9.md, raw/the-chosen-one.md]
 confidence: medium
 ---
 
@@ -127,7 +127,18 @@ On 21 September 2025 Schumer publicly urged President [[donald-trump|Donald Trum
 20. Badlands Brief — "SCOTUS Examines Slushy Subsidies as Speaker Weighs Abolishing Courts", URL: https://badlands.substack.com/p/badlands-news-brief-c6a
 21. Badlands Brief — "Energy Acceleration, Foreign Escalation, & Another Looming Shutdown", URL: https://badlands.substack.com/p/badlands-news-brief-e48
 22. Badlands Brief — "Moves and Countermoves", URL: https://badlands.substack.com/p/moves-and-countermoves
+23. Badlands Brief — "Q for Dummies - Chapter 9", URL: https://badlands.substack.com/p/q-for-dummies-chapter-9
+
+## Named in Q drop #70
+
+Chapter 9 of the Badlands series [[q-for-dummies|Q for Dummies]] names Schumer among the recipients of what it calls dirty Saudi money highlighted in Q drop #70 of November 4, 2017, listing him alongside the [[clinton-foundation|Clinton Foundation]], the [[mccain-institute|McCain Institute]] and the [[pelosi-foundation|Pelosi Foundation]].[23] The chapter presents this grouping as Q's demonstration that compromised individuals exist on both sides of the aisle, and frames it within its broader claim that [[saudi-arabia|Saudi Arabia]] provided tens of millions of dollars to senior U.S. government officials in an effort to exert influence and control.[23]
 
 ## The 2018–2019 border wall standoff
 
 "Moves and Countermoves" casts Schumer, alongside [[nancy-pelosi|Nancy Pelosi]] and [[john-mccain|John McCain]], as a principal obstacle to [[donald-trump|Trump]]'s border wall, and describes the on-camera December 11, 2018 Oval Office meeting as a deliberate exposure of Democratic opposition to border security.[22] In the joint televised response to Trump's border address, Schumer told viewers that the president, "having failed to get Mexico to pay for his ineffective, unnecessary border wall, and unable to convince the Congress or the American people to foot the bill," had shut down the government, and insisted the border could be secured "without an expensive, ineffective wall."[22] [[joe-lange|Joe Lange]] argues the appearance was widely mocked and left Democrats permanently on the defensive on immigration.[22]
+
+## Predicted role in a Biden impeachment (January 2023)
+
+In January 2023, [[badlands-media|Badlands Media]] contributor [[joe-lange|Joe Lange]] predicted that [[joe-biden|Joe Biden]] would be impeached over his handling of classified documents but that Schumer's Senate would decline to remove him from office.[24] Lange argued that this outcome was "exactly what Trump wants to happen," on the theory that [[donald-trump|Donald Trump]] held leverage over Biden and therefore preferred him to remain in place rather than be removed.[24]
+
+24. Badlands Brief — "The Chosen One", URL: https://badlands.substack.com/p/the-chosen-one

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fbi, russiagate, impeachment, intelligence-community, ukraine]
-sources: [raw/badlands-brief-949.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-880.md, raw/clowns-in-america.md]
+sources: [raw/badlands-brief-949.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-880.md, raw/clowns-in-america.md, raw/the-biggest-boomerang-in-history.md]
 confidence: medium
 ---
 
@@ -40,3 +40,13 @@ Badlands contributor [[ashe-in-america|Ashe in America]] noted that the Biden Ju
 The August 2023 Badlands article "Clowns in America," citing PJ Media, reported that text messages between Strzok and FBI lawyer [[lisa-page|Lisa Page]] show that Strzok and then-FBI Assistant Director William Priestap were concerned about sharing sensitive evidence with the departing [[barack-obama|Obama]] White House.[4] Other texts from the same day show the pair discussing apparent drama involving one of Obama's [[presidents-daily-brief|presidential daily briefings]] — the same day in April 2014 that Obama fired [[michael-flynn|Michael Flynn]] as head of the [[defense-intelligence-agency|Defense Intelligence Agency]] over his opposition to the Iran nuclear deal.[4] These messages were not released by the FBI but were made available to John Solomon in September 2018, who reported that investigators were examining whether Obama's disdain for Flynn influenced FBI leadership's decision to reject its own agent's recommendation to close the Flynn probe in January 2017 and instead pursue an interview at which agents might catch him in a lie.[4] Badlands writer [[joe-lange|Joe Lange]] rejected the coincidence, arguing Flynn had trapped them.[4]
 
 4. Badlands Brief — "Clowns in America", URL: https://badlands.substack.com/p/clowns-in-america
+
+## Role in the Flynn entrapment (Badlands account)
+
+"[[the-biggest-boomerang-in-history|The Biggest Boomerang In History]]" identifies Strzok as one of the [[fbi|FBI]] agents who interviewed [[michael-flynn|Michael Flynn]] in order to trap him, and notes that he was also friends with the judge in the Flynn case, which [[joe-lange|Joe Lange]] raises as a conflict of interest.[5]
+
+Boston Herald reporting quoted in the article describes an email exchange in which former FBI lawyer [[lisa-page|Lisa Page]] and Strzok discussed reminding Flynn that lying to the bureau is a crime, with Page recommending that Strzok "slip it in" at some point in the conversation.[5] Other released documents show agents unsure whether the purpose of the interview was to catch Flynn in a lie or to elicit a violation of the [[logan-act|Logan Act]], and mulling whether the objective was to create conditions under which he would be fired.[5]
+
+Lange argues the declassified Strzok–Page text messages put Strzok on centre stage before a public that had never heard of him, and shifted the narrative from Trump–Russia collusion to bias within the FBI — but that the real bombshells were the emails Attorney General [[william-barr|William Barr]] released and used to exonerate Flynn.[5] These claims reflect Badlands Media interpretation rather than established fact.
+
+5. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history

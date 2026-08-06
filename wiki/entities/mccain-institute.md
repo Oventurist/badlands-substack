@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [think-tank, arizona-state-university, kissinger-fellowship, foreign-policy, saudi-arabia, nonprofits]
-sources: [raw/badlands-news-brief-290.md, raw/hes-not-a-war-hero.md]
+sources: [raw/badlands-news-brief-290.md, raw/hes-not-a-war-hero.md, raw/q-for-dummies-chapter-9.md]
 confidence: medium
 ---
 
@@ -37,3 +37,8 @@ Because foreign contributions to U.S. election campaigns are banned while donati
 ## References
 1. Badlands Brief — "Badlands News Brief: Global Grifters, Fleeing Fellows, and a Surprisingly Friendly Funeral", URL: https://badlands.substack.com/p/badlands-news-brief-290
 2. Badlands Brief — "He's Not A War Hero", URL: https://badlands.substack.com/p/hes-not-a-war-hero
+3. Badlands Brief — "Q for Dummies - Chapter 9", URL: https://badlands.substack.com/p/q-for-dummies-chapter-9
+
+## Named in Q drop #70
+
+Chapter 9 of the Badlands series [[q-for-dummies|Q for Dummies]] lists the McCain Institute among the recipients of what it calls dirty Saudi money identified in Q drop #70 of November 4, 2017, alongside the [[clinton-foundation|Clinton Foundation]], the [[pelosi-foundation|Pelosi Foundation]] and Senator [[chuck-schumer|Chuck Schumer]].[3] The chapter reads the grouping as Q's way of showing that compromised individuals exist on both sides of the political aisle, and argues more broadly that following the money reveals most such "foundations" to function as slush funds and laundromats.[3] It separately attributes much of the creation of [[isis|ISIS]] to "Senator 'No Name'," the series' standing epithet for [[john-mccain|John McCain]].[3]

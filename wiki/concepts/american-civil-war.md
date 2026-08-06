@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [united-states, confederacy, british-empire, russia, lincoln]
-sources: [raw/how-canada-was-created-to-block-us.md, raw/in-defense-of-abraham-lincoln-and.md]
+sources: [raw/how-canada-was-created-to-block-us.md, raw/in-defense-of-abraham-lincoln-and.md, raw/shadows-sovereigns-and-civil-wars.md]
 confidence: medium
 ---
 
@@ -35,3 +35,11 @@ Lincoln's response was the revival of the [[american-system-of-political-economy
 ## References
 1. Badlands Brief — "How Canada Was Created to Block US-Russian Cooperation", URL: https://badlands.substack.com/p/how-canada-was-created-to-block-us
 2. Badlands Brief — "In Defense of Abraham Lincoln and the Greenbacks", URL: https://badlands.substack.com/p/in-defense-of-abraham-lincoln-and
+
+## Russian intervention and the postwar vision
+
+Russia under Czar [[alexander-ii|Alexander II]] intervened to protect the Union against aggressive intervention by English and French imperial powers supporting secession.[3] In 1863 the Czar sent Russian battleships to New York and San Francisco as a message of solidarity with [[abraham-lincoln|Abraham Lincoln]] and a threat to the imperial forces of Europe, having told France and Britain that joint recognition of Confederate independence would be a casus belli for Russia.[3]
+
+In the wake of the Union victory, a potential alliance of sovereign nation states was emerging globally, expressed in Lincoln's 1864 support for a Bering Strait telegraph, the 1867 Alaska purchase and [[william-gilpin|William Gilpin]]'s [[cosmopolitan-railway|Cosmopolitan Railway]] vision.[3] The article frames the subsequent age of bankers' wars, anarchist assassinations and economic turmoil as the deliberate destruction of that emerging cooperation, and warns that a similar formula is being applied today to set the stage for new civil wars.[3]
+
+3. Badlands Brief — "Shadows, Sovereigns and Civil Wars - Part 1", URL: https://badlands.substack.com/p/shadows-sovereigns-and-civil-wars

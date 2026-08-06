@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [religion, israel, christianity, middle-east, theology]
-sources: [raw/badlands-brief-695.md, raw/badlands-brief-724.md, raw/badlands-brief-7ed.md, raw/badlands-brief-959.md, raw/cataclysmic-silence.md]
+sources: [raw/badlands-brief-695.md, raw/badlands-brief-724.md, raw/badlands-brief-7ed.md, raw/badlands-brief-959.md, raw/cataclysmic-silence.md, raw/real-patriots-dont-think-like-hitler-6fc.md]
 confidence: medium
 ---
 
@@ -49,3 +49,11 @@ In his February 20, 2026 interview with [[tucker-carlson|Tucker Carlson]], U.S. 
 Badlands contributor [[ryan-delarme|Ryan DeLarme]] argued in August 2024 that Christian Zionists who advocate for "America First" were likely drawing the United States into a wider war in the Middle East, while both presidential candidates and the sitting president largely refrained from any significant statements on the crisis.[5] He framed the resulting posture theologically as well as strategically, asking whether the coming Messiah's hypothetical landing pad in [[israel|Israel]] was being treated as more important than peace in the region.[5]
 
 5. Badlands Brief — "Cataclysmic Silence", URL: https://badlands.substack.com/p/cataclysmic-silence
+
+## Jesuit and Plymouth Brethren origins
+
+The Badlands series "Real Patriots Don't Think Like Hitler" argues that the dual origins of Christian Zionism and End Times rapture theology lie not in the Bible but in a chain running from the Jesuit [[francisco-ribera]] (1537–1591) through the [[albury-conferences]] of 1826–1830 to [[john-nelson-darby]] and the [[plymouth-brethren]].[6] Ribera's futurist reading of Revelation held that the end times signs would come only when the Temple of Solomon was rebuilt, implying the restoration of the Jews to their homeland.[6] Darby systematized this as [[dispensationalism]] and seeded it into dozens of American movements through six US tours.[6]
+
+The doctrine reached mass American audiences through Cyrus Scofield's 1909 reference Bible, Charles Fox Parham's Pentecostalism, Dwight Lyman Moody's Bible college, and James Hall Brookes' Niagara Bible Conference.[6] The article contends that the entire movement of "war-pushing, faith-healing, rapture-loving preachers from John Hagee to Benny Hinn and Pat Robertson" rests on foundations built by Darby's sect.[6] It further charges that these Christian Zionist heirs, "begging for a first strike onto Iran," now supply popular backing in America for a nuclear-armed End Times project.[6]
+
+6. Badlands Brief — "Real Patriots Don't Think Like Hitler - Part 6: 'Greater Israel' as a British Imperial Project", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-6fc

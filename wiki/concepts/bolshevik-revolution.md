@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [russia, communism, history, cabal]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-virus-or-a-metaphor.md, raw/rainbow-color-revolution.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-virus-or-a-metaphor.md, raw/rainbow-color-revolution.md, raw/shadows-sovereigns-and-civil-wars.md]
 confidence: low
 ---
 
@@ -37,3 +37,11 @@ On this basis he reads Q's repeated references to [[the-hunt-for-red-october|The
 Civil war followed between the "Reds" and the "Whites," the Bolsheviks against supporters of the monarchy, ending in the creation of the Soviet Union under Lenin and the Bolsheviks; in 1918 the Tzar and his family were murdered by the same people.[3] Carlson noted the episode has been called the "Red Revolution" and used it as the direct historical analogue for what he termed the Rainbow Color Revolution in contemporary America, in which he saw far-left elitists propagandizing the country and creating division and unrest to gain and hold power.[3] He also relayed the claim that Wall Street bankers funded the Bolsheviks in Russia as well as the Nazis in Germany, financing the creation of totalitarian governments abroad.[3]
 
 3. Badlands Brief — "Rainbow Color Revolution", URL: https://badlands.substack.com/p/rainbow-color-revolution
+
+## Anglo-American financing
+
+Badlands Media coverage attributes much of the revolution's financing to Western bankers.[4] [[jacob-schiff|Jacob Schiff]], who had funded Japan's victory in the [[russo-japanese-war|Russo-Japanese War]], turned to financing revolutionary activity inside Russia; his grandson John Schiff told the *New York Journal* in 1949 that his grandfather had given $20 million "for the triumph of communism in Russia."[4] Schiff publicly celebrated the March 1917 revolution in the *New York Times*, praising the Russian nation's "deliverance from centuries of autocratic oppression."[4]
+
+Journalist [[george-kennan|George Kennan]] acted as perception manager, distributing revolutionary propaganda to Russian prisoners of war in Japan and claiming that 50,000 officers and men returned home as "ardent revolutionists."[4] New York Federal Reserve director [[william-boyce-thompson|William Boyce Thompson]], installed as head of the [[american-red-cross|American Red Cross]] in Petrograd, gave one million rubles to the Social Revolutionaries and $1,000,000 to the Bolsheviks for propaganda in Germany and Austria while reporting directly to President Wilson.[4] Historian Arsene de Goulevitch recorded that over 21 million rubles were spent by [[alfred-milner|Lord Alfred Milner]] in financing the revolution.[4] [[leon-trotsky|Leon Trotsky]], arrested in Canada with Wall Street funds while returning to Russia, was freed through the direct intervention of [[claude-dansey|Claude Dansey]].[4]
+
+4. Badlands Brief — "Shadows, Sovereigns and Civil Wars - Part 1", URL: https://badlands.substack.com/p/shadows-sovereigns-and-civil-wars

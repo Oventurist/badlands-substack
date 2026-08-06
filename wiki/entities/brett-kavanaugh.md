@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [supreme-court, judiciary, confirmation-hearings]
-sources: [raw/badlands-brief-07c.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-d50.md, raw/jd-vance-sidley-austin-and-q-post.md]
+sources: [raw/badlands-brief-07c.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-d50.md, raw/jd-vance-sidley-austin-and-q-post.md, raw/the-accomplishments-of-president.md]
 confidence: medium
 ---
 
@@ -36,9 +36,15 @@ Reporting on the [[supreme-court-of-the-united-states|Supreme Court]]'s August 2
 
 During Kavanaugh's Supreme Court confirmation fight, in which he was attacked by senators including [[kamala-harris|Kamala Harris]], [[yale-law-school|Yale]] professor [[amy-chua|Amy Chua]] wrote a letter vouching for his character.[5] Chua was subsequently accused in the press of partying inappropriately with students, which Badlands contributor [[erik-carlson|Erik Carlson]] characterised as a character assassination of the kind directed at those who cross the [[deep-state|Deep State]].[5] Chua and her husband [[jed-rubenfeld|Jed Rubenfeld]]'s daughter clerked for Kavanaugh, as did [[usha-vance|Usha Vance]], wife of [[jd-vance|JD Vance]].[5]
 
+
+## Confirmation in Badlands commentary
+
+A 2023 Badlands Media article cited Kavanaugh's swearing-in as a [[supreme-court-of-the-united-states|Supreme Court]] justice among the twenty leading governmental accomplishments of [[donald-trump|President Donald Trump]], grouping him with [[neil-gorsuch|Neil Gorsuch]] and [[amy-coney-barrett|Amy Coney Barrett]] as appointees pivotal to the overturning of [[roe-v-wade|Roe v. Wade]].[6]
+
 ## References
 1. Badlands Brief — "Supreme Conflicts, Criminal Probes, & A Ceasefire", URL: https://badlands.substack.com/p/badlands-brief-07c
 2. Badlands Brief — "The Dye's Been Cast Out. The Round Table is Set.", URL: https://badlands.substack.com/p/badlands-news-brief-065
 3. Badlands Brief — "Badlands News Brief: Pardon Me ... No, But Seriously. PLEASE Pardon Me.", URL: https://badlands.substack.com/p/badlands-news-brief-757
 4. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50
 5. Badlands Brief — "JD Vance, Sidley Austin, & Q Post #238", URL: https://badlands.substack.com/p/jd-vance-sidley-austin-and-q-post
+6. Badlands Brief — "The Accomplishments of President Trump - Part 1", URL: https://badlands.substack.com/p/the-accomplishments-of-president

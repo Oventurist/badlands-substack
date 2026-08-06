@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [brics, finance, multilateral-bank, de-dollarization, shanghai]
-sources: [raw/badlands-news-brief-cdb.md]
+sources: [raw/badlands-news-brief-cdb.md, raw/shared-interests.md]
 confidence: medium
 ---
 
@@ -26,3 +26,11 @@ Badlands Media writer [[burning-bright|Burning Bright]] treated the bank's risin
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Leak Shenanigans, Trump Seeds & Woke Broke", URL: https://badlands.substack.com/p/badlands-news-brief-cdb
+
+## Purpose and local-currency lending ("Shared Interests", February 2023)
+
+[[joe-lange|Joe Lange]] wrote that the [[brics|BRICS]] states launched the NDB specifically to fund infrastructure projects in emerging and developing countries, and that its most important feature is the promotion of loans in local currencies so as to avoid dollar control over financing and give borrowing states more autonomy.[2] Contemporary BBC reporting observed that the creation of the BRICS bank would almost surely generate competition for the [[world-bank|World Bank]] and other similar regional funds, that BRICS nations had criticised the World Bank and the [[international-monetary-fund|International Monetary Fund]] for not giving developing nations enough voting rights, and that one of the bank's goals would be to increase lending to developing countries for infrastructure.[2]
+
+Lange placed the bank alongside the [[belt-and-road-initiative|Belt and Road Initiative]] as the constructive half of the BRICS project — building the trade infrastructure that he argues developing countries need to escape poverty — complementing the defensive half embodied by [[spfs|SPFS]], [[mir-payment-system|MIR]] and [[cips|CIPS]].[2]
+
+2. Badlands Brief — "Shared Interests", URL: https://badlands.substack.com/p/shared-interests

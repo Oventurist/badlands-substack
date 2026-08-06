@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, radio, mainstream-media, layoffs]
-sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-907.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a57.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-e10.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-907.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a57.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-e10.md, raw/the-chosen-one.md]
 confidence: low
 ---
 
@@ -67,3 +67,9 @@ On Tuesday, May 27, 2025, NPR and a group of Colorado-based public radio station
 7. Badlands Brief — "Badlands News Brief: The Uniparty Celebrates as Warmongers Grow Desperate", URL: https://badlands.substack.com/p/badlands-news-brief-a57
 8. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46
 9. Badlands Brief — "Badlands News Brief: Bitcoin Bulls, Word Wars, & Patience With Putin", URL: https://badlands.substack.com/p/badlands-news-brief-e10
+
+## Cited on 2020 primary electability polling
+
+[[badlands-media|Badlands Media]] contributor [[joe-lange|Joe Lange]] quoted an August 2019 NPR report on [[elizabeth-warren|Elizabeth Warren]]'s rise in the [[2020-democratic-presidential-primary|Democratic presidential primary]] as evidence of how heavily Democratic voters weighted electability.[10] The report found that almost 90% of Democratic voters called it "extremely important" to beat President [[donald-trump|Donald Trump]], that fewer than a third believed the eventual Democratic nominee would "certainly" win, and that 61% of Republicans believed Trump would "certainly" win reelection.[10] Lange used the NPR figures alongside a separate survey to argue that Democratic voters were selecting a candidate on perceived viability rather than policy — the condition he said Trump exploited to steer the nomination toward [[joe-biden|Joe Biden]].[10]
+
+10. Badlands Brief — "The Chosen One", URL: https://badlands.substack.com/p/the-chosen-one

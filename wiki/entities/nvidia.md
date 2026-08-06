@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [nvidia, ai, semiconductors, big-tech, trump]
-sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-021.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-ac6.md, raw/badlands-news-brief-df2.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-021.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-ac6.md, raw/badlands-news-brief-df2.md, raw/symbolism-will-be-their-downfall.md]
 confidence: medium
 ---
 
@@ -60,3 +60,13 @@ On Monday, April 14, 2025, Nvidia said it would produce up to $500 billion of AI
 Badlands commentary framed the announcement in terms of national security, arguing that the fact the United States does not make its own technology is among its greatest supply chain vulnerabilities, and connecting the concern to arguments against electronic voting equipment.[7] The commentary noted that more than $3 trillion in announced investments in America were focused on building technology domestically.[7]
 
 7. Badlands Brief — "Badlands News Brief: Big Beautiful Bills & Saudi-Syrian Symbiosis", URL: https://badlands.substack.com/p/badlands-news-brief-df2
+
+## Logo and name symbolism claims (2024)
+
+In a March 2024 essay, Badlands Media contributor [[erik-carlson|Erik Carlson]] argued that Nvidia's logo resembles the "pedo swirl" — the spiral the [[fbi|FBI]] recognises as meaning "little boy lover" — rendered in the shape of the all-seeing eye.[8] He wrote that some 30,000 Nvidia employees see the mark every day and found it hard to believe no one had ever suggested changing it, contrasting the company's retention of a non-iconic symbol with a culture that renames sports teams over possible offence.[8] Even if unintentional, he asked, why not change it once the meaning became widely known — assuming instead that the company displays it proudly, as he alleged [[disney|Disney]] and [[google|Google]] do with their "three sixes."[8]
+
+Carlson added that *invidia* in Latin translates to envy, jealousy, spite, ill will, hate, hatred, dislike and the evil eye, calling it an odd word to almost name a company after.[8]
+
+He also cited reporting that Nvidia and its biggest shareholders had lent money to companies that specifically purchase Nvidia chips, arguing that while this may not be illegal it is misleading because it creates the appearance of demand and drives up the stock price.[8] Over the fifteen months after [[chatgpt|ChatGPT]]'s launch, he noted, Nvidia's stock rose 575%, accounting for much of the [[magnificent-seven-stocks|Magnificent Seven]]'s 2023 rally.[8]
+
+8. Badlands Brief — "Symbolism Will Be Their Downfall", URL: https://badlands.substack.com/p/symbolism-will-be-their-downfall

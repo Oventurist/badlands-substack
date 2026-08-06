@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [banking, regulation, derivatives, 1933, clinton, citibank]
-sources: [raw/a-re-alignment-of-world-systems.md, raw/friends-in-high-places.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/friends-in-high-places.md, raw/tariffs-protectionism-and-avoiding.md, raw/the-bank-of-crooks-and-criminals.md]
 confidence: medium
 ---
 
@@ -24,6 +24,24 @@ The controversial activities of [[national-city-bank|National City Bank]] under 
 
 Joe Lange writes that the act was effectively undercut by looser restrictions in the deregulatory environment of the 1980s and 1990s, a period in which banking deregulation also produced the Savings and Loan scandal.[2] The safeguard was rendered useless when President [[bill-clinton|Bill Clinton]] signed the [[financial-services-modernization-act|Financial Services Modernization Act]], authored by Senator [[phil-gramm|Phil Gramm]] of Texas, who afterwards became vice chairman of [[ubs|UBS]] investment bank.[2] The 1999 repeal allowed the merger of [[citibank|Citibank]] and Travelers that created [[citigroup|Citigroup]], which Lange ties directly to the [[2008-financial-crisis|2008 global financial crisis]] and Citigroup's record bailout.[2]
 
+## Ehret's account of the 1933 reform
+
+[[matthew-ehret|Matthew Ehret]] frames Glass-Steagall as America's last successful battle against the Wall Street–[[city-of-london|City of London]] banks who orchestrated the Great Depression.[3] Knowing that the "money changers" had only been able to create the great bubbles of the 1920s via their access to the deposits of commercial banks, [[franklin-d-roosevelt|Franklin Roosevelt]] made a 1933 bill named for the two federally elected officials who led the reform the core of his battle against Wall Street abuses.[3] The law forced the absolute separation of productive from speculative banking, guaranteeing via the [[federal-deposit-insurance-corporation|Federal Deposit Insurance Corporation]] only those commercial banking assets associated with the productive economy while forcing any speculative losses arising from investment banking to be suffered by the gambler.[3]
+
+The striking success of the law inspired other countries to establish similar bank separation, and alongside principles of capital budgeting, public credit, parity pricing and commitment to scientific and technological development it created a dynamic that Ehret calls the greatest hope for the world and the greatest fear for the financial empire occupying the City of London and Wall Street.[3]
+
+## Dismantling and revival
+
+Ehret traces the law's dismantling through the interest-rate hikes of [[paul-volcker|Paul Volcker]], the 1986 [[big-bang-deregulation|Big Bang]] under [[margaret-thatcher|Margaret Thatcher]], and finally the 1999 [[gramm-leach-bliley-act|Gramm-Leach-Bliley Act]] authored by [[larry-summers|Larry Summers]].[3] He argues that after the [[2008-financial-crisis|2008 collapse]] nothing was resolved, since the [[dodd-frank-act|Dodd-Frank Act]] and Volcker Rule of 2010 did not regulate speculation or break up banks.[3] He notes that China's capacity to unleash long-term credit for thousands of international infrastructure projects under the [[belt-and-road-initiative|Belt and Road Initiative]] was made possible by its being the only country on the globe that had not given up the principles of bank separation.[3] For Ehret, if the West is to qualify morally to take part in the new epoch alongside the Eurasian nations, the first step will be a return to Glass-Steagall.[3]
+
+## The campaign for repeal
+
+"The Bank of Crooks And Criminals" describes Glass-Steagall as the one law standing between [[citibank|Citibank]], a commercial bank, and the investment banking world, and notes it was passed because Citibank was blamed for the 1929 crash that led to the Great Depression and the closure of roughly 4,000 banks after the bank packaged bad loans into securities and sold them worldwide.[4] Under the act, Citibank was required to remain separated from any insurance company or investment bank, which made its merger with the [[travelers-group|Travelers Group]] illegal at the time it was being completed.[4]
+
+Documents released from the Clinton presidential library revealed two separate attempts, in 1995 and 1997, to hurry [[bill-clinton|Bill Clinton]] into supporting repeal.[4] In February 1995 newly appointed Treasury Secretary [[robert-rubin|Robert Rubin]], his deputy Bo Cutter and senior advisers including [[john-podesta|John Podesta]] gave the president three days to decide, in what Cutter called "an action forcing event," so the policy could be announced before the House banking committee took it up on 1 March.[4] Podesta's covering note warned that "allowing banks to engage in riskier activities like securities or insurance could subject the deposit insurance fund to added risk," yet Clinton's advisers repeatedly reassured him that letting Wall Street dismantle Depression-era protections was inevitable modernization.[4] The repeal came in 1999 through the [[financial-services-modernization-act|Financial Services Modernization Act]].[4]
+
 ## References
 1. Badlands Brief — "A Re-Alignment of World Systems", URL: https://badlands.substack.com/p/a-re-alignment-of-world-systems
 2. Badlands Brief — "Friends in High Places", URL: https://badlands.substack.com/p/friends-in-high-places
+3. Badlands Brief — "Tariffs, Protectionism and Avoiding the Risk of Total Failure", URL: https://badlands.substack.com/p/tariffs-protectionism-and-avoiding
+4. Badlands Brief — "The Bank of Crooks And Criminals", URL: https://badlands.substack.com/p/the-bank-of-crooks-and-criminals

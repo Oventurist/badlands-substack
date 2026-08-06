@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence, trump-media, congress, oversight]
-sources: [raw/badlands-brief-7c0.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-d04.md, raw/badlands-news-brief-f0e.md, raw/do-you-believe-in-coincidences.md]
+sources: [raw/badlands-brief-7c0.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-d04.md, raw/badlands-news-brief-f0e.md, raw/do-you-believe-in-coincidences.md, raw/setting-the-stage.md, raw/the-censorship-war-counteroffensive.md]
 confidence: medium
 ---
 
@@ -67,3 +67,15 @@ Badlands Media's "Do You Believe in Coincidences?" names Nunes, alongside [[trey
 6. Badlands Brief — "Global Struggles, Civil Alliances, & the Penalty for Treason", URL: https://badlands.substack.com/p/badlands-news-brief-d04
 7. Badlands Brief — "Badlands News Brief: Trump 2.0, FBI Enablers & Collegiate Idiots", URL: https://badlands.substack.com/p/badlands-news-brief-f0e
 8. Badlands Brief — "Do You Believe in Coincidences?", URL: https://badlands.substack.com/p/do-you-believe-in-coincidences
+
+## The memo and the Gang of Eight contrast
+
+"Setting the Stage" cites the Nunes memo from the House Intelligence Committee as proof that there was never any evidence of Russian collusion with the [[donald-trump|Trump]] campaign.[9] Joe Lange contrasts Nunes with [[adam-schiff|Adam Schiff]], noting that both men saw the same classified information because both belonged to the "Gang of Eight," yet Schiff publicly asserted the opposite of what the material showed — which Lange characterises as knowingly lying and leaking to sustain the collusion narrative.[9] Former CIA Director [[john-brennan|John Brennan]] likewise dismissed the committee's no-collusion finding and urged the president to await [[robert-mueller|Mueller]]'s conclusions.[9]
+
+9. Badlands Brief — "Setting the Stage", URL: https://badlands.substack.com/p/setting-the-stage
+
+## Response to the Moraes ruling (February 2025)
+
+As chief executive of [[trump-media-and-technology-group|Trump Media and Technology Group]], Nunes welcomed the February 25, 2025 federal ruling that his company and [[rumble|Rumble]] need not comply with orders from Brazilian Supreme Court Justice [[alexandre-de-moraes|Alexandre de Moraes]], calling it "a major victory for free speech and free expression online."[10] He said the decision "confirms that would-be dictators in any country can't force Trump Media or Rumble to censor their opponents," and congratulated Rumble on "its principled stand for freedom."[10] See [[rumble-and-trump-media-v-moraes|Rumble and Trump Media v. Moraes]].[10]
+
+10. Badlands Brief — "The Censorship War - Counteroffensive", URL: https://badlands.substack.com/p/the-censorship-war-counteroffensive

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, banking, cbdc, payments]
-sources: [raw/badlands-news-brief-b60.md, raw/badlands-news-brief-e40.md, raw/control-the-financial-system-control.md]
+sources: [raw/badlands-news-brief-b60.md, raw/badlands-news-brief-e40.md, raw/control-the-financial-system-control.md, raw/shared-interests.md]
 confidence: medium
 ---
 
@@ -32,3 +32,11 @@ Invoking George Carlin's line that "it's a big club, and you ain't in it," Carls
 1. Badlands Brief — "Badlands News Brief: Baltimore Fallout Continues as Nickelodeon Exposes Itself", URL: https://badlands.substack.com/p/badlands-news-brief-b60
 2. Badlands News Brief — "Trump Lawsuits, Media Amnesty and Biden's Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-e40
 3. Badlands Brief — "Control the Financial System, Control the World", URL: https://badlands.substack.com/p/control-the-financial-system-control
+
+## Russian and Chinese alternatives ("Shared Interests", February 2023)
+
+[[joe-lange|Joe Lange]] restated the technical nature of the network, noting that SWIFT — the Society for Worldwide Interbank Financial Telecommunication — is not a financial institution but a global messaging system relaying instructions between banks, founded in 1973 when over 200 banks from 15 countries formed a cooperative to solve the problem of communicating about cross-border payments, and that it cannot itself move money.[4] After the invasion of Ukraine, the European Union, the United States and the United Kingdom sanctioned hundreds of wealthy Russians and officials and largely cut the country off from the international financial system, including SWIFT along with Visa and Mastercard transactions.[4]
+
+Lange argued the move was anticipated: the Central Bank of Russia had built the [[spfs|SPFS]] messaging system in 2014, reaching 13 million messages and more than 400 member institutions by 2020 at roughly half SWIFT's tariffs, while the [[mir-payment-system|MIR]] card system covered domestic card payments.[4] China separately launched [[cips|CIPS]] in 2015 as its own SWIFT alternative, and in 2017 established a yuan–ruble payment-versus-payment mechanism allowing simultaneous settlement in two currencies — a system described as potentially rivaling SWIFT's monopoly and as a challenge to the [[petrodollar|petrodollar]].[4]
+
+4. Badlands Brief — "Shared Interests", URL: https://badlands.substack.com/p/shared-interests

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [transparency, foia, litigation, federal-agencies]
-sources: [raw/badlands-news-brief-cce.md, raw/clowns-in-america.md, raw/irregular-warfare.md, raw/nothing-is-as-it-appears.md]
+sources: [raw/badlands-news-brief-cce.md, raw/clowns-in-america.md, raw/irregular-warfare.md, raw/nothing-is-as-it-appears.md, raw/the-biggest-boomerang-in-history.md]
 confidence: medium
 ---
 
@@ -43,3 +43,11 @@ In "Nothing Is as It Appears," [[joe-lange|Joe Lange]] argues that past presiden
 He pairs FOIA with the [[presidential-records-act|Presidential Records Act]] as the two statutes that establish public ownership of all official documents, including classified ones, and predicts both will be enforced to safeguard the power of the people and to expose the conduct of prior administrations.[4]
 
 4. Badlands Brief — "Nothing Is as It Appears", URL: https://badlands.substack.com/p/nothing-is-as-it-appears
+
+## FOIA evasion in "The Biggest Boomerang In History"
+
+[[joe-lange|Joe Lange]]'s article treats evasion of the Freedom of Information Act as the common motive linking several strands of the [[barack-obama|Obama]]-era conduct it describes.[5] [[hillary-clinton|Hillary Clinton]] is said to have used a [[hillary-clinton-private-email-server|private server]] as Secretary of State specifically to avoid FOIA, a fact discovered by [[trey-gowdy|Trey Gowdy]] in 2015.[5]
+
+More broadly, Lange argues that officials across the administration used private email accounts, secret servers and [[gmail-draft-communications|Gmail drafts]] because they knew they were committing crimes and wished to keep the records outside the reach of FOIA.[5] Q drop 1504 is quoted asking why the entire administration used private emails, and Congress is described as beginning to investigate the Gmail drafts practice on that basis.[5] These claims reflect Badlands Media interpretation rather than established fact.
+
+5. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [governance, regulation, separation-of-powers, deep-state]
-sources: [raw/badlands-news-brief-b40.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-f94.md]
+sources: [raw/badlands-news-brief-b40.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-f94.md, raw/spear-of-justice.md]
 confidence: medium
 ---
 
@@ -30,7 +30,12 @@ Following [[dan-bongino|Dan Bongino]]'s December 2025 announcement that he would
 
 Lawyers who regularly argue before the Supreme Court predicted at a September 20, 2023 event hosted by The Heritage Foundation that the Court might take steps in its approaching term to roll back the administrative state.[3] Participants included Paul Clement of Clement and Murphy, who served as U.S. solicitor general under George W. Bush from July 2004 to June 2008, and Lisa Blatt, a partner at Williams and Connolly.[3] The central vehicle discussed was Securities and Exchange Commission v. Jarkesy, in which the Fifth Circuit held that removal protections for administrative law judges unconstitutionally shielded them from presidential oversight, that in-house SEC proceedings violated the Seventh Amendment jury-trial right, and that Congress had unconstitutionally delegated lawmaking power to the commission.[3]
 
+## "Pulling the Teeth" — Paxton Litigation and Post-Chevron Terrain
+
+An August 2025 Badlands Media essay described the administrative state as the rule-making engine of entrenched power: a network of agencies able to create binding policy without the friction of legislative debate, insulated from public accountability and nearly impossible to uproot so long as its rules are accepted as unchangeable.[4] The piece argued that Texas Attorney General [[ken-paxton|Ken Paxton]] refused that premise and used recent Supreme Court shifts as leverage, citing the nationwide vacatur of the [[equal-employment-opportunity-commission|EEOC]]'s expanded harassment guidance as an assertion that agencies cannot stretch statutes to fit political objectives, and the injunction against the [[department-of-education|Department of Education]]'s [[title-ix|Title IX]] rewrite as an effort to stop regulatory creep before it embeds itself in the operational code of governance.[4] The essay identified [[loper-bright-enterprises-v-raimondo|Loper Bright]], which ended [[chevron-deference|Chevron deference]], and [[sec-v-jarkesy|SEC v. Jarkesy]], which curtailed in-house agency adjudication of major penalties, as the decisive terrain changes rewriting "the automatic growth function of agency power."[4] Framing the work as "fighting in the footnotes," the author argued that each ruling narrowing an agency's interpretive options removes pieces from the board, until the network that once bit into every domain of life becomes a hollow frame.[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Debates, Decisions and Disasters for the Deep State", URL: https://badlands.substack.com/p/badlands-news-brief-b40
 2. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93
 3. Badlands Brief — "Badlands News Brief: The Proof is in the Proxy ...", URL: https://badlands.substack.com/p/badlands-news-brief-f94
+4. Badlands Brief — "Spear of Justice: Ken Paxton and the Bleeding Edge", URL: https://badlands.substack.com/p/spear-of-justice

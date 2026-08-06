@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [bitcoin, blockchain, cryptocurrency, badlands-media]
-sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-news-brief-280.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-67e.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-d8f.md, raw/celebrating-15-years-of-indictments.md, raw/dont-bring-shiny-rocks-to-digital.md, raw/kekistani-code-talkers.md, raw/one-of-the-most-transformative-moments.md]
+sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-news-brief-280.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-67e.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-d8f.md, raw/celebrating-15-years-of-indictments.md, raw/dont-bring-shiny-rocks-to-digital.md, raw/kekistani-code-talkers.md, raw/one-of-the-most-transformative-moments.md, raw/revolution-founded-at-the-crossroads.md, raw/the-banking-revolution-is-underway.md]
 confidence: high
 ---
 
@@ -97,6 +97,11 @@ On that reading, each new block "unseals another indictment" against systemic co
 
 Bitcoin's mining and unlocking process uses SHA-256, one of the six hash functions in the Secure Hash Algorithm 2 family created by the [[national-security-agency|National Security Agency]] in collaboration with the National Institute of Science and Technology.[18] The Badlands Brief article "Kekistani Code Talkers" places this fact within a wider argument that [[cryptography|codes and ciphers]] are decisive in a civilization's rise, longevity, and fall.[18] The article further ties Bitcoin to the claim that the central control of currency (fiat) and money (gold) is the root cause of a great deal of evil, and cites Major [[jason-lowery|Jason Lowery]] on Bitcoin's national strategic significance in a new war-fighting domain.[18]
 
+## Bitcoin in the banking revolution (Lange, March 2023)
+
+Badlands Media contributor [[joe-lange|Joe Lange]] described Bitcoin as a central component of a coming revolution in banking, and argued that digital currency is "not something to fear, but to welcome" because the world needs honest money, honest transactions and honest bookkeeping.[21] He wrote that [[jack-dorsey|Jack Dorsey]]'s involvement with Bitcoin has been long and is not merely an investment thesis, quoting Data Driven Investor that Dorsey "is doing everything to accelerate innovation and accessibility in the cryptocurrency."[21]
+
+Within [[block-inc|Block]], Bitcoin work spans a hardware wallet, a mining business, the open-source developer effort TBD, and an independent Bitcoin-focused business called Spiral; on Twitter and Square, Lange wrote, "Bitcoin is the engine" allowing anyone on the planet to earn money for their art through NFTs.[21] Dorsey's [[web5|Web5]] proposal is built entirely on Bitcoin infrastructure, leveraging the Lightning Network to create a peer-to-peer infrastructure of personal servers that restores ownership of digital identity to users.[21]
 
 ## References
 1. Badlands Media — "Badlands Media Weekly Show Schedule", URL: https://badlands.substack.com/p/badlands-media-weekly-show-schedule-36d
@@ -130,3 +135,14 @@ The [[2008-financial-crisis|2008 financial crisis]] and the Great Recession were
 Bitcoin's [[proof-of-work]] design is criticized for slow transactions and energy use — Bankrate reported that mining accounted for 0.40 percent of world electricity consumption as of July 2022, with an estimated 22.9 million metric tons of annual carbon output.[19] Both [[gmoney|GMoney]] and [[ryan-matta|Ryan Matta]] nevertheless drew a hard line between Bitcoin and the wider token market, repeating the phrase "Bitcoin, not crypto."[19] The article framed the digitization of money as the most transformative monetary moment since the [[jekyll-island-meeting|1910 Jekyll Island meeting]], asking whether Bitcoin can free people from the private banking cartel or whether apathy and fraud will instead accelerate the [[great-reset|Great Reset]].[19]
 
 19. Badlands Brief — "One of the Most Transformative Moments in Money Since Jekyll Island", URL: https://badlands.substack.com/p/one-of-the-most-transformative-moments
+
+## Bitcoin as peaceful revolution (October 2024)
+
+In "Revolution Founded at the Crossroads," the [[patriots-in-progress|Patriots in Progress]] author framed Bitcoin as the technological arm of a peaceful, non-kinetic revolution, arguing that it removes key control actions from central banks, financial institutions, governments, and others profiting through the centralized control and debasement of global currencies.[20] He described it as establishing "a fixed set of rules, changeable by no one, and accessible to everyone," and as providing "a unique type of private property, a way to generationally secure our life's energy in a new and transformational way."[20]
+
+The essay drew an explicit analogy to a medieval siege: surrounding a castle so that no one enters or leaves "until the inside of that castle was starved — starved of its power, starved of its ability to project power against the people. That's what Bitcoin is."[20] The author linked Bitcoin's [[decentralization]] to the decentralizing mission of [[jesus]], stating "we have something much like Jesus Christ in Bitcoin" while adding "I will never say Bitcoin is God" — only that "Bitcoin is absolutely changing the world like God did."[20]
+
+Politically, the piece noted that [[donald-trump|Donald Trump]] had spoken about a strategic stockpile and had attended the Bitcoin conference, and revisited [[dan-scavino|Dan Scavino]]'s "#BTC for the #Trump Train" tweet of March 21, 2016, posted seven months before the "This Video Will Get Donald Trump Elected" compilation.[20] The essay concluded that in the absence of any prior effective mitigation against the "Cantillionaires" who capture every form of money and property over time, the choice is "Bitcoin or slavery."[20]
+
+20. Badlands Brief — "Revolution Founded at the Crossroads", URL: https://badlands.substack.com/p/revolution-founded-at-the-crossroads
+21. Badlands Brief — "The Banking Revolution Is Underway", URL: https://badlands.substack.com/p/the-banking-revolution-is-underway

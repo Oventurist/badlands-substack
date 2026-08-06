@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [historian, american-system, author, economics]
-sources: [raw/in-defense-of-abraham-lincoln-and.md]
+sources: [raw/in-defense-of-abraham-lincoln-and.md, raw/real-patriots-dont-think-like-hitler-d42.md]
 confidence: medium
 ---
 
@@ -20,3 +20,10 @@ His work is cited by Badlands Media contributor [[matthew-ehret|Matthew Ehret]] 
 
 ## References
 1. Badlands Brief — "In Defense of Abraham Lincoln and the Greenbacks", URL: https://badlands.substack.com/p/in-defense-of-abraham-lincoln-and
+
+
+## On the Sleepy Hollow Club and Anglo-American intelligence
+
+In Hoover's FBI and Anglo-American Dictatorship, Chaitkin documents that the British agent [[claude-dansey|Claude Dansey]] ran a private intelligence agency out of New York's [[sleepy-hollow-club|Sleepy Hollow Club]] from 1911 to 1914, and characterizes the club, founded in 1910, as an instrument of British intelligence and Deep State traitors.[2] He records that King Edward VII and Viscount Haldane restructured British intelligence in 1909 into the branches later called [[mi5|MI5]] and [[mi6|MI6]], and that from 1910 Home Secretary [[winston-churchill|Winston Churchill]] arranged sweeping new surveillance powers, a registry of subversives, clandestine mail interception, a drastic new Official Secrets Act, and a recommended eugenical sterilization law to spare the war-destined Empire the cost of caring for the unfit.[2]
+
+2. Badlands Brief — "Real Patriots Don't Think Like Hitler - Part 5: Nazi Fifth Columns in America", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-d42

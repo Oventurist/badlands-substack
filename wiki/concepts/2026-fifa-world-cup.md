@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [world-cup, fifa, soccer, spain, argentina, trump]
-sources: [raw/badlands-brief-1c6.md, raw/badlands-brief-559.md, raw/badlands-brief-708.md, raw/badlands-brief-b24.md, raw/badlands-brief-da2.md, raw/badlands-news-brief-ee6.md]
+sources: [raw/badlands-brief-1c6.md, raw/badlands-brief-559.md, raw/badlands-brief-708.md, raw/badlands-brief-b24.md, raw/badlands-brief-da2.md, raw/badlands-news-brief-ee6.md, raw/the-accomplishments-of-president-a2b.md]
 confidence: medium
 ---
 
@@ -59,6 +59,10 @@ The outlet framed the run as an underdog story, noting that soccer is the one sp
 
 Qualification for the tournament began in September 2023, with 45 places available in addition to the three host nations, the United States, Canada and Mexico.[6] The Russian national team had been banned from international competition by [[fifa|FIFA]] and UEFA since the country's invasion of Ukraine in 2022, and under the rules then in force would not participate.[6] Speaking at the first meeting of his administration's 2026 World Cup taskforce in May 2025, President [[donald-trump|Donald Trump]] — who had campaigned on ending the war in Ukraine on "day one" of a second term — suggested that the chance for Russia to play could be an "incentive" to end the war, only to learn from FIFA president [[gianni-infantino|Gianni Infantino]], seated beside him, that the country was banned.[6] "I didn't know that. Is that right?" Trump asked; told it was, he replied, "That's possible. Hey, that could be a good incentive, right?"[6]
 
+## Trump's Role in the 2018 Bid
+
+Badlands Media's survey of Donald Trump's economic accomplishments credits him with being instrumental in securing the 2026 World Cup for North America, with the largest share of matches to be staged in the United States — the tournament's first return to American soil since 1994.[7] Meeting with FIFA president Gianni Infantino in August 2018, Trump acknowledged he would be out of office by the time the games took place, joking, "Maybe they'll extend the term," and adding that "the media is going to be very boring if they don't."[7] The article justified including a sporting event in an economics compilation on the grounds that the World Cup is the largest revenue-generating sporting event in the world and that the boost to local American economies would be measured in billions of dollars.[7]
+
 ## References
 1. Badlands Brief — "Spain Wins The [American] World Cup", URL: https://badlands.substack.com/p/badlands-brief-1c6
 2. Badlands Brief — "Narrative Warfare For Your Safety", URL: https://badlands.substack.com/p/badlands-brief-559
@@ -66,3 +70,4 @@ Qualification for the tournament began in September 2023, with 45 places availab
 4. Badlands Brief — "Diplomatic Trolling & Colombian Election Denial", URL: https://badlands.substack.com/p/badlands-brief-b24
 5. Badlands Brief — "America Wins, Zionists Seethe", URL: https://badlands.substack.com/p/badlands-brief-da2
 6. Badlands Brief — "Badlands News Brief: Traversing Judicial Coups & Raw-Dogging the Conclave", URL: https://badlands.substack.com/p/badlands-news-brief-ee6
+7. Badlands Brief — "The Accomplishments of President Trump - Part 2", URL: https://badlands.substack.com/p/the-accomplishments-of-president-a2b

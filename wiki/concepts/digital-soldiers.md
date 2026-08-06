@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [qanon, information-warfare, truth-community, badlands-media]
-sources: [raw/in-defense-of-q-we-were-never-told.md, raw/mental-fortitude-for-5g-warriors.md, raw/on-predators-and-prey-exploring-the.md, raw/on-golden-bridges-and-the-art-of.md]
+sources: [raw/in-defense-of-q-we-were-never-told.md, raw/mental-fortitude-for-5g-warriors.md, raw/on-predators-and-prey-exploring-the.md, raw/on-golden-bridges-and-the-art-of.md, raw/q-is-our-best-fren.md, raw/q-for-dummies-chapter-9.md]
 confidence: medium
 ---
 
@@ -67,3 +67,19 @@ In "On Golden Bridges and the Art of War" (January 28, 2025), [[american-hypnoti
 The essay assigned Digital Soldiers a specific function within what the author called the [[mil-civ-alliance|MIL-CIV alliance]]: because public officials cannot raise "far out conspiracy" topics directly, ordinary citizens must raise them until public awareness is sufficient for officials to follow.[3] He urged readers to reach conclusions that are genuinely their own, contrasting this with modern academic training that produces people able only to parrot memorised factoids, and stated his own aim as being either correct or producing "errors of sufficiently high quality that they're still useful."[3]
 
 3. Badlands Brief — "On Golden Bridges and the Art of War", URL: https://badlands.substack.com/p/on-golden-bridges-and-the-art-of
+
+## Profiling friends and enemies (2025)
+
+In "Q is Our Best Fren" (March 25, 2025), [[american-hypnotist|American Hypnotist]] framed the Digital Soldier's core skill as profiling: distinguishing genuine allies from enemies with reasonable accuracy, since someone posing as a friend is not necessarily one.[5] He described much of his own writing as intended to help people spot both fake news and fake friends.[5] The essay defines the vocation more broadly as "the ongoing search for the necessary context" — the background knowledge without which White hat moves that appear counterproductive, incorrect or even malicious cannot be correctly interpreted, citing [[elon-musk|Elon Musk]]'s abrasive remarks to critics of H-1B visas as an example of behaviour that may read differently in context.[5]
+
+The essay also assigns Digital Soldiers a structural role in its [[societal-immune-response|societal immune response]] model: [[anons]] function as the white blood cells of society and as the relay mechanism distributing the updated instructions needed to identify the [[cabal]].[5] Working through the [[qanon|Q]] drops is presented as a training regimen in itself, rehabilitating the probative faculty and forcing participants to become better thinkers through a mixture of Socratic method, genuine clues and deliberate disinformation.[5] The author reports that his own ability to predict events and see through propaganda skyrocketed as a result, and urges readers to become as "un-triggerable" as possible, trusting Q on rational grounds rather than "pure hopium."[5]
+
+5. Badlands Brief — "Q is Our Best Fren", URL: https://badlands.substack.com/p/q-is-our-best-fren
+
+## Drop #69 and the address to those who serve
+
+Chapter 9 of the Badlands series [[q-for-dummies|Q for Dummies]] reads Q drop #69 of November 3, 2017 as an address not only to uniformed service members but to digital soldiers as well.[6] The chapter quotes the Substack writer [[patriots-in-progress|Patriots In Progress]], who argues that Q was doing three things at once in a few short statements: honouring armed-forces members who had served the mission of defending the Constitution, some paying the ultimate price; honouring those who were serving or would serve in dark times; and speaking to ordinary patriots who would fight on the front lines of the digital war, stand up for freedom in their communities, face censorship and cancellation on large internet platforms, lose their jobs, or be held in prison on what the quoted passage calls false charges.[6]
+
+The chapter's author endorses that reading, noting that Q and the Q team appeared reticent to take credit or accolades and that the drop's opening was therefore best understood as a shout-out extending beyond those in uniform.[6] He adds that "the good General" — a reference to [[michael-flynn|Michael Flynn]] — had himself spoken of the existence of digital soldiers, and argues that one overlooked purpose of the [[q-operation|Q Operation]] was that participants "were all literally being trained to be digital soldiers."[6] The back half of the same drop consists of Psalm 23, which the chapter presents as a spiritual anchor for readers whose faith in the plan is faltering.[6]
+
+6. Badlands Brief — "Q for Dummies - Chapter 9", URL: https://badlands.substack.com/p/q-for-dummies-chapter-9

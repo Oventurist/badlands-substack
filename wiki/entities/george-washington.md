@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [president, american-history, founding-fathers]
-sources: [raw/avoiding-wwiii.md, raw/badlands-brief-095.md, raw/badlands-news-brief-017.md, raw/donald-trump-and-george-washington.md, raw/kekistani-code-talkers.md, raw/q-for-dummies-chapter-2.md]
+sources: [raw/avoiding-wwiii.md, raw/badlands-brief-095.md, raw/badlands-news-brief-017.md, raw/donald-trump-and-george-washington.md, raw/kekistani-code-talkers.md, raw/q-for-dummies-chapter-2.md, raw/the-battle-for-control.md]
 confidence: medium
 ---
 
@@ -54,3 +54,9 @@ As a general struggling to win a war with an army that was perpetually undermann
 ## Q for Dummies Chapter 2
 
 Badlands' "Q for Dummies" Chapter 2 notes that Q attached to drop #14 the iconic image of Washington crossing the Delaware River, and treats the choice as significant — the crossing being, in the author's words, "the beginning of the end for the British in the Revolutionary War."[6]
+
+## Chartering the First Bank of the United States
+
+Badlands Media contributor [[joe-lange|Joe Lange]] writes that America's very first central bank was created when [[alexander-hamilton|Alexander Hamilton]] convinced President Washington and [[congress|Congress]] to charter a national bank to handle the colossal Revolutionary War debt and to create a standard form of currency.[7] The charter of the [[first-bank-of-the-united-states|First Bank of the United States]] was drafted by Congress in 1791 and signed by Washington in February of that year, over the objections of [[thomas-jefferson|Thomas Jefferson]], who held that the Constitution granted the government no authority to establish corporations.[7] Lange treats the signing as the moment the newly independent nation handed control of its money back toward British interests, since two-thirds of the bank's stock came to be held by British holders.[7]
+
+7. Badlands Brief — "The Battle for Control", URL: https://badlands.substack.com/p/the-battle-for-control

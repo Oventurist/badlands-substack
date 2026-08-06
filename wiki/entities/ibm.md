@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [technology, digital-assets, blockchain, stablecoin, tokenization]
-sources: [raw/badlands-news-brief-545.md]
+sources: [raw/badlands-news-brief-545.md, raw/red-dawn-iii.md]
 confidence: high
 ---
 
@@ -22,3 +22,8 @@ Badlands commentary treated the announcement as confirmation that "nothing can s
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Shutdown Consequences, Canadian Propaganda, & Console War Conclusions", URL: https://badlands.substack.com/p/badlands-news-brief-545
+2. Badlands Brief — "Red Dawn III", URL: https://badlands.substack.com/p/red-dawn-iii
+
+## Cognos Analytics in defense contracting
+
+An October 2023 [[badlands-media|Badlands Media]] investigation into the Department of Defense delivery order [[red-dawn-iii|Red Dawn III]] argued that the award's parent program, [[cognition-cognos-support|Cognition Cognos Support]], refers to IBM's [[ibm-cognos-analytics|Cognos Analytics]] business-intelligence product.[2] IBM markets the platform as AI-powered software whose natural-language assistant builds visualisations, forecasts future conditions and predicts and explains outcomes.[2] On that reading, the [[department-of-defense|Department of Defense]] was applying IBM artificial-intelligence tooling to basic research on defense-system electronics and communication equipment.[2]

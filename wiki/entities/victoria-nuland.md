@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [neoconservative, nato, ukraine, state-department]
-sources: [raw/a-bright-red-line.md, raw/a-dereliction-of-duty.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-7db.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-db1.md, raw/deep-state-spotlight-victoria-nuland.md, raw/oligarchism-and-the-great-game.md]
+sources: [raw/a-bright-red-line.md, raw/a-dereliction-of-duty.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-7db.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-db1.md, raw/deep-state-spotlight-victoria-nuland.md, raw/oligarchism-and-the-great-game.md, raw/the-cia-is-being-thrown-under-the.md]
 confidence: medium
 ---
 
@@ -87,3 +87,11 @@ Nuland is also identified as a key patron of the Moldovan oligarch [[vlad-plahot
 9. Badlands Brief — "Badlands News Brief: Super Tuesday Goes as Planned & the Deep State Loses a Player", URL: https://badlands.substack.com/p/badlands-news-brief-db1
 10. Badlands Media — "Deep State Spotlight: Victoria Nuland", URL: https://badlands.substack.com/p/deep-state-spotlight-victoria-nuland
 11. Badlands Brief — "Oligarchism and the Great Game", URL: https://badlands.substack.com/p/oligarchism-and-the-great-game
+
+## Retirement read as a signal (March 2024)
+
+In "The CIA is Being Thrown Under the Bus," Erik Carlson noted that Nuland announced her retirement shortly after the story broke that the [[central-intelligence-agency|CIA]] had been operating in Ukraine since 2014.[12] He described her as the architect of the CIA overthrow of Ukraine that began in that year, and asserted that she had likely been in charge of running Ukraine's war against Russia over the preceding two years.[12]
+
+Carlson treated the timing as part of a wider pattern in which the agency and its operatives are being exposed and abandoned as power shifts toward NATO, the United Nations and the European Union.[12] He added that when he asked his phone how long Ukraine had been at war with Russia, the [[wikipedia|Wikipedia]]-sourced answer dated the war to 2014 — a date he read as quiet corroboration of the 2014 operation.[12]
+
+12. Badlands Brief — "The CIA is Being Thrown Under the Bus", URL: https://badlands.substack.com/p/the-cia-is-being-thrown-under-the

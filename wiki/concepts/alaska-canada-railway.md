@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [infrastructure, railways, alaska, canada, trump, arctic]
-sources: [raw/avoiding-wwiii.md]
+sources: [raw/avoiding-wwiii.md, raw/the-battle-over-closed-vs-open-systems.md]
 confidence: medium
 ---
 
@@ -22,3 +22,8 @@ The Alaska-Alberta Railway Development Corporation was tasked by Trump with buil
 
 ## References
 1. Badlands Brief — "Avoiding WWIII", URL: https://badlands.substack.com/p/avoiding-wwiii
+2. Badlands Brief — "The Battle over Closed vs. Open Systems", URL: https://badlands.substack.com/p/the-battle-over-closed-vs-open-systems
+
+## Arctic strategic context
+
+In a later essay Ehret returned to the railway, writing that Trump's executive order reviving the Alaska-Canada Railway was directly tied to a strategic vision for Arctic cooperation, in opposition to the closed-system warhawks promoting a militaristic program against Russia and China in the Arctic.[2] He placed the project alongside Russia's revival of the [[bering-strait-tunnel|Bering Strait crossing]], China's [[polar-silk-road|Polar Silk Road]] and the merger of the [[belt-and-road-initiative|Belt and Road Initiative]] with the [[eurasian-economic-union|Eurasian Economic Union]] as elements of an [[open-systems-vs-closed-systems|open-system]] development dynamic offering economic opportunity to all Arctic nations and an escape from military confrontation.[2]

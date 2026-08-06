@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [globalism, great-reset, institutions]
-sources: [raw/a-look-at-recent-features-84d.md, raw/a-time-to-strike.md, raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-144.md, raw/badlands-brief-40d.md, raw/badlands-brief-a20.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-2e4.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-a61.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-f4c.md, raw/combating-the-transhumanist-religion.md, raw/dark-equation.md, raw/is-the-censorship-war-over.md]
+sources: [raw/a-look-at-recent-features-84d.md, raw/a-time-to-strike.md, raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-144.md, raw/badlands-brief-40d.md, raw/badlands-brief-a20.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-2e4.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-a61.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-f4c.md, raw/combating-the-transhumanist-religion.md, raw/dark-equation.md, raw/is-the-censorship-war-over.md, raw/soul-governance.md]
 confidence: low
 ---
 
@@ -158,6 +158,12 @@ At the WEF's 2024 annual meeting, the [[world-health-organization|World Health O
 
 At the January 2023 Davos meeting, the WEF faced internal dissent: current and former staff told The Guardian that founder and chair [[klaus-schwab|Klaus Schwab]] was unaccountable, had led the body for 52 years, and had surrounded himself with people incapable of running it, with no succession strategy in place.[27] Reporting that week also indicated that many of the companies and NGOs bankrolling the forum were unhappy with Schwab's management.[27] The same meeting produced [[larry-fink|Larry Fink]]'s remarks that the [[esg|ESG]] narrative had turned "ugly" and personal, and Saudi finance minister [[mohammed-al-jadaan|Mohammed Al-Jadaan]]'s statement that the kingdom was open to settling trade in currencies other than the U.S. dollar.[27]
 
+## In "Soul Governance"
+
+The Badlands Media essay [[soul-governance|Soul Governance]] casts the World Economic Forum as the ecclesiastical center of what it calls the digital grid, describing the Forum as "the Vatican" of a new church that succeeded institutional religion and scientific authority as the dominant system of control.[31] Within that framing [[yuval-noah-harari|Yuval Harari]] is named its "high priest of nihilism," [[esg|ESG]] its tithing system, and DEI its confession booth.[31]
+
+The essay attributes to this church three central teachings — that human beings are hackable, that the soul is obsolete, and that God is dead — and argues that the target of these claims was never theology but individual sovereignty, "because if your soul is obsolete, you are no longer a threat."[31] It further glosses [[klaus-schwab|Klaus Schwab]]'s stakeholder-governance slogan "you will own nothing" with an unstated completion: "because we already own you."[31]
+
 ## References
 
 1. Badlands Brief — "A Look At Recent Features", URL: https://badlands.substack.com/p/a-look-at-recent-features-84d
@@ -211,3 +217,4 @@ Badlands Media reported that founder [[klaus-schwab|Klaus Schwab]] stepped down 
 The piece placed the WEF, alongside the [[council-on-foreign-relations|Council on Foreign Relations]], among the exclusive think tanks populated by the international billionaires and private and political operatives it labels "globalists" — a faction it argues has lost favour with common people in many nations and whose durability rests on near-total dominance in the information war.[30] Brabeck-Letmathe's stated view that water should be treated as a commodity with a market value rather than a human right was offered as an illustration of the ethics prevailing in that milieu.[30]
 
 30. Badlands Brief — "Is the Censorship War Over?", URL: https://badlands.substack.com/p/is-the-censorship-war-over
+31. Badlands Brief — "Soul Governance", URL: https://badlands.substack.com/p/soul-governance

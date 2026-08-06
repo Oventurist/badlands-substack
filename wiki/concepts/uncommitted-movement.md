@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [2024-election, michigan, gaza, democrats, protest-vote]
-sources: [raw/badlands-news-brief-10a.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-db1.md]
+sources: [raw/badlands-news-brief-10a.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-db1.md, raw/the-candidate-who-isnt-there.md]
 confidence: medium
 ---
 
@@ -28,6 +28,10 @@ The movement's decisive moment came ahead of Michigan's February 27, 2024 presid
 
 The movement's Michigan effort produced more than 100,000 "uncommitted" votes in the [[2024-michigan-democratic-primary|February 27, 2024 Democratic primary]], 13.3% of the statewide total against 81.1% for President [[joe-biden|Joe Biden]], with 21% uncommitted in Wayne County.[3] Organizers tied the protest to Biden's handling of the Israel–Gaza war, working through the nationwide [[abandon-biden|Abandon Biden]] campaign and the allied [[listen-to-michigan|Listen to Michigan]] effort.[3] Commentators emphasized that the uncommitted total was more than nine times [[donald-trump|Donald Trump]]'s 10,704-vote 2016 margin in a swing state worth 15 electoral votes.[3]
 
+## Roll call protest at the 2024 convention
+
+At the symbolic roll call held on the Tuesday of the [[2024-democratic-national-convention|2024 Democratic National Convention]], 44 delegates voted "present" rather than casting a vote for [[kamala-harris|Kamala Harris]], and Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] identified them as largely members of the Uncommitted movement.[5] He argued that although the operatives and speakers at the convention were in complete lockstep, the wider voter base remained fractured in a way the party could not simply ignore.[5] In the same article he characterized Harris's expressions of support for a Gaza ceasefire as hollow lip service delivered after protestors interrupted a campaign speech in Michigan, and disputed the claim made from the convention stage by [[alexandria-ocasio-cortez|Alexandria Ocasio-Cortez]] that Harris was "working tirelessly" toward a ceasefire.[5]
+
 ## References
 1. Badlands Brief — "Problems Litter the Game Board; But Solutions Are Coming ...", URL: https://badlands.substack.com/p/badlands-news-brief-10a
 2. Badlands Brief — "Badlands News Brief: DemoCrabs in Biden's Bucket", URL: https://badlands.substack.com/p/badlands-news-brief-845
@@ -35,3 +39,4 @@ The movement's Michigan effort produced more than 100,000 "uncommitted" votes in
 ## Super Tuesday 2024 results
 On [[2024-super-tuesday|Super Tuesday]], March 5, 2024, uncommitted ballots reached ten percent or more in the Democratic primaries in Minnesota, Massachusetts and North Carolina.[4] Badlands writer [[ashe-in-america|Ashe in America]] described the effort as a protest vote led by Representative [[rashida-tlaib|Rashida Tlaib]] and the Squad, intended as a show of force pressuring [[joe-biden|Joe Biden]] on Palestine, while noting that some participants may simply have been dissatisfied with the president himself.[4] She argued the coalition's numbers were problematic for Biden heading into November, particularly given the support [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] was expected to erode.[4]
 4. Badlands Brief — "Badlands News Brief: Super Tuesday Goes as Planned & the Deep State Loses a Player", URL: https://badlands.substack.com/p/badlands-news-brief-db1
+5. Badlands Brief — "The Candidate Who Isn't There", URL: https://badlands.substack.com/p/the-candidate-who-isnt-there

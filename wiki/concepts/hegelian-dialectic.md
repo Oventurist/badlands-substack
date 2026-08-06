@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [information-war, narrative, manipulation, censorship]
-sources: [raw/badlands-brief-9eb.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-d6a.md, raw/bric-by-bric.md]
+sources: [raw/badlands-brief-9eb.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-d6a.md, raw/bric-by-bric.md, raw/right-the-ship.md]
 confidence: medium
 ---
 
@@ -39,3 +39,9 @@ Badlands contributor [[burning-bright|Burning Bright]] described what he called 
 In his August 2023 essay "BRIC by BRIC," [[burning-bright|Burning Bright]] gave a general statement of the frame, defining the Hegelian Dialectic as "Problem > Reaction > Solution" and arguing that globalist and collectivist elites had used it for the better part of a century "to first trick and then coerce the populace along greased psychological rails toward predetermined solutions that only seem to benefit the System."[4] He attributed its effectiveness to an insidious but accurate understanding that human beings are innately drawn to stories, characters and symbols, which allows storytellers to pervert moral frameworks and install false idols.[4] He described the reversal of this dynamic as the [[good-reset|'Good' Reset]] and framed the broader contest as a [[war-of-stories|War of Stories]].[4]
 
 4. Badlands Brief — "BRIC by BRIC", URL: https://badlands.substack.com/p/bric-by-bric
+
+## The Patriot Pendulum (January 2023)
+
+In "Right the Ship" (January 12, 2023), [[burning-bright|Burning Bright]] described what he calls the [[patriot-pendulum|Patriot Pendulum]] as "an offshoot of the Hegelian Dialectic strategy that I believe the Deep State 'Controllers' have wielded against the American people for generations."[5] The mechanism, in his account, alternates which ideological pole is used to move the public: twenty years earlier it was unthinking adherence to the Right, dressed in patriotism, nationalism and "unity," that manufactured the mandate for the Middle East [[forever-wars|Forever War]]; in 2023 he judged the Left to be inflicting the greater damage on the collective psyche.[5] The dialectical point is that the identity of the pole is incidental — the swing itself is the instrument of control.[5]
+
+5. Badlands Brief — "Right the Ship", URL: https://badlands.substack.com/p/right-the-ship

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [law, elections, voting-technology]
-sources: [raw/always-fight-back.md, raw/badlands-brief-40d.md, raw/badlands-brief-805.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-899.md, raw/blockchain-good-blockchain-voting.md]
+sources: [raw/always-fight-back.md, raw/badlands-brief-40d.md, raw/badlands-brief-805.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-899.md, raw/blockchain-good-blockchain-voting.md, raw/rooting-out-election-corruption.md]
 confidence: medium
 ---
 
@@ -38,6 +38,12 @@ In June 2025 the Justice Department invoked HAVA in a lawsuit against Robert Pag
 
 In a March 2023 Badlands Media article, [[holly-at-altitude|Holly at Altitude]] argued that the introduction of technology into U.S. elections through HAVA in 2002 produced three consequences: it turned elections into a multi-billion-dollar industry overnight; it set up the conditions allowing an overly complicated, privately developed, owned, and managed election "machine" to develop; and it placed elected and non-elected officials with almost no technical skills and zero cybersecurity expertise in charge of evaluating, recommending, selecting, purchasing, running, managing, auditing, and verifying the mandated technology — a problem she said persists today.[6] She wrote that HAVA fundamentally changed the voting system designed by the Founding Fathers, moving voting from a decentralized civic process of paper ballots cast at local precincts on election day and hand-counted by local officials and volunteers to a centralized, tech-driven and, in her view, corrupted apparatus.[6] The article used this history as the basis for opposing [[blockchain-voting]], on the grounds that replacing one corrupted multi-billion-dollar election industry with another would not cure the system's underlying problems.[6]
 
+## The 2023 "Rooting Out Election Corruption" critique
+
+In a March 23, 2023 Badlands Media article, [[holly-at-altitude|Holly at Altitude]] wrote that in 2001 the Bush administration mandated the use of electronic voting equipment and its accompanying technology through the Help America Vote Act, and that to quasi-execute HAVA the [[election-assistance-commission|U.S. Election Assistance Commission]] was created to distribute federal funding and to test and approve electronic voting equipment and vendors.[7] She described the passage of HAVA and the creation of the EAC as "the moment where everything changed for U.S. elections."[7]
+
+According to that account, HAVA was sold to the American public as the future of modern elections and as a new dawn allowing Americans with ADA needs to vote easily, conveniently, and independently, while in fact placing the integrity, security, and validity of U.S. elections on a path to destruction.[7] Its passage "unleashed a bounty of unintended and intended consequences," turning U.S. elections into a multi-billion-dollar tech-driven industry almost overnight and expanding it over decades.[7] The result, she argued, is an organically developed, resilient, self-reinforcing, and overly complex election system that has "grown malignant, corrupt, and untrustworthy," whose winners are desperate to preserve the status quo and whose losers are American citizens — and, arguably, people in many countries across the globe.[7] The article's proposed remedy was to eliminate technology from the election machine entirely, which it identified as "the root of all the problems that create the hydra of control."[7]
+
 ## References
 1. Badlands Media — "Always Fight Back", URL: https://badlands.substack.com/p/always-fight-back
 2. Badlands Brief — "Clinton Clashes, Royal Trafficking, & Fond WEF Farewells", URL: https://badlands.substack.com/p/badlands-brief-40d
@@ -45,3 +51,4 @@ In a March 2023 Badlands Media article, [[holly-at-altitude|Holly at Altitude]] 
 4. Badlands Brief — "Badlands News Brief: Victim Cards, Foreign Inference, & Chessboard Stans", URL: https://badlands.substack.com/p/badlands-news-brief-448
 5. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
 6. Badlands Media — "Blockchain, Good. Blockchain Voting, Bad.", URL: https://badlands.substack.com/p/blockchain-good-blockchain-voting
+7. Badlands Media — "Rooting Out Election Corruption", URL: https://badlands.substack.com/p/rooting-out-election-corruption

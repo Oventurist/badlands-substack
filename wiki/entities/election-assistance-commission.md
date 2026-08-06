@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [elections, federal-agency, voting-systems, trump-administration]
-sources: [raw/badlands-brief-0bd.md, raw/badlands-brief-805.md, raw/badlands-news-brief-079.md]
+sources: [raw/badlands-brief-0bd.md, raw/badlands-brief-805.md, raw/badlands-news-brief-079.md, raw/rooting-out-election-corruption.md]
 confidence: medium
 ---
 
@@ -42,8 +42,15 @@ Created by Congress after the "hanging chads" ballot controversy of the 2000 pre
 
 Badlands contributor [[jon-herold|Jon Herold]] framed the moment in existential terms, writing that the 2024 election was approached "as if this was our last chance" and that this is "the last opportunity we have to right the ship."[3] [[ashe-in-america|Ashe in America]] disputed the Associated Press framing of the EAC as a "little-known federal agency," calling it infamous and saying she and CannCon's newsletter had covered its cover-ups for years.[3] She cited a November 2023 post noting that a report had found the "direct cause" of an anomaly "inconclusive" while admitting that "erroneous code" was found in EAC-certified systems, with the offered explanation of a "misread of the QR code" described by many experts as absurd.[3] In her view, the recurring pattern of erroneous code, code read errors, glitches, and database coding mismatches shows that code-based elections are unreliable, that the EAC knows it, and that the agency exists to cover it up — leaving her "very interested to see where this whole 'independent agency' thing goes in the courts."[3]
 
+## Origins in HAVA (2023 account)
+
+In a March 23, 2023 Badlands Media article, [[holly-at-altitude|Holly at Altitude]] wrote that the EAC was created to "quasi-execute" the [[help-america-vote-act|Help America Vote Act]], with responsibilities including distributing federal funding and testing and approving electronic voting equipment and vendors.[4] She identified the passage of HAVA together with the creation of the new commission as the pivotal moment at which U.S. elections changed, launching a multi-billion-dollar tech-driven election industry and, in her view, placing election integrity, security, and validity on a path to destruction.[4]
+
+The same article treated the resulting apparatus as a public-private partnership whose "winners" — companies, government agencies, politicians, the corporate media, NGOs, and assorted power brokers — have an interest in preserving it, and argued that citizens can loosen that chokehold through local action such as challenging election equipment budgets and contracts.[4]
+
 ## References
 
 1. Badlands Brief — "Mossad Bait & Labor Tackles", URL: https://badlands.substack.com/p/badlands-brief-0bd
 2. Badlands Brief — "RIP Lindsey Graham", URL: https://badlands.substack.com/p/badlands-brief-805
 3. Badlands News Brief — "Jordanian Jam Sessions, Unpaused Loans, & Disbanded Brotherhoods", URL: https://badlands.substack.com/p/badlands-news-brief-079
+4. Badlands Media — "Rooting Out Election Corruption", URL: https://badlands.substack.com/p/rooting-out-election-corruption

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [academia, higher-education, plagiarism, institutions]
-sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-748.md, raw/badlands-news-brief-7d4.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-a9e.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-df2.md, raw/badlands-news-brief-e0a.md, raw/badlands-news-brief-f0e.md, raw/hijacked-consciousness-sacred-origins.md, raw/q-for-dummies-chapter-14.md]
+sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-748.md, raw/badlands-news-brief-7d4.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-a9e.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-df2.md, raw/badlands-news-brief-e0a.md, raw/badlands-news-brief-f0e.md, raw/hijacked-consciousness-sacred-origins.md, raw/q-for-dummies-chapter-14.md, raw/scholars-and-spooks.md, raw/soul-governance.md]
 confidence: medium
 ---
 
@@ -83,6 +83,18 @@ On December 12, 2023, Harvard's governing board issued a full-throated defense o
 
 Harvard College, described as the Ivy League titan whose name has symbolized achievement and power for centuries, was one of the two institutions whose admissions practices were before the [[supreme-court-of-the-united-states|Supreme Court]] in the June 2023 [[affirmative-action|affirmative action]] cases, alongside the [[university-of-north-carolina|University of North Carolina]].[14] Harvard maintained that, consistent with decades of Supreme Court precedent, a minority applicant's race could serve as an unenumerated plus factor raising the chances of admission, and lower courts agreed, rejecting the lawsuits organized by [[edward-blum|Edward Blum]].[14] On June 29, 2023 the Court ruled 6–3 that considering race in university admissions is unconstitutional, forcing Harvard and peer institutions to rework their admissions criteria.[14]
 
+## MKUltra and Cold War intelligence research
+
+Harvard was a key site for the CIA's [[mk-ultra|MKUltra]] program, which conducted psychological experiments to develop mind-control techniques and often used universities as fronts to obscure agency involvement.[18] Harvard psychologists funded by CIA front organizations such as the Human Ecology Fund conducted experiments on unwitting subjects, including students and foreign nationals, aiming to develop interrogation and propaganda techniques that were shared with allied governments through backchannels.[18]
+
+[[henry-a-murray|Dr. Henry Murray]]'s experiments subjected students to stress tests designed to probe their resilience and mental breaking points; among them was [[ted-kaczynski|Ted Kaczynski]], then a 16-year-old Harvard student, who endured over 200 hours of the experiments between 1959 and 1962 and experienced severe psychological abuse.[18] The CIA suppressed public knowledge of MKUltra by classifying research and using academic cover to deflect scrutiny; documents declassified in the 1970s revealed that Harvard personnel played a significant role, though initial censorship delayed exposure.[18] Harvard's prestigious reputation provided legitimacy and shielded the agency, and faculty such as Murray were likely unaware of the full extent of CIA involvement, believing they were conducting pure science.[18]
+
+Harvard was also the setting for the recruitment of [[klaus-schwab|Klaus Schwab]], founder of the [[world-economic-forum|World Economic Forum]], by [[henry-kissinger|Henry Kissinger]] through a CIA program.[18]
+
+## In "Soul Governance"
+
+The Badlands Media essay [[soul-governance|Soul Governance]] treats Harvard as the training ground of the control system it describes, stating flatly that "Harvard trained the enforcers" alongside [[blackrock|BlackRock]] funding "the social liturgies" and [[klaus-schwab|Schwab]] preaching stakeholder governance.[19] The essay opens by reminding readers that they had followed a trail "from Harvard's cloaked investments to Vatican vaults," and closes by declaring that "Harvard was the gate" and the so-called Ivy Dominion the map, while insisting the real subject was never the university itself but the reader's own forgotten sovereignty.[19]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: MAGA Gets Branded as Biden Bungles Everything", URL: https://badlands.substack.com/p/badlands-news-brief-07e
@@ -127,4 +139,5 @@ In "Hijacked Consciousness - Sacred Origins," the July 8, 2025 opening installme
 Chapter 14 of the [[q-for-dummies|Q for Dummies]] series brings Harvard into its discussion of the November 2017 [[saudi-purge|Saudi purge]].[17] Examining the backgrounds of those detained, the author reports that a few of them had ties to Harvard University, and that some held dual U.S.–Saudi citizenship.[17] On that basis the chapter revisits the earlier Q reference "HUMA," arguing it denotes not Huma Abedin but the Harvard University Muslim Alumni — an organisation the author says maintains chapters and foundations across the country, many of them funded by [[george-soros|Soros]].[17] The claim is presented without documentation and functions in the article as a bridge between Saudi and American networks.[17]
 
 17. Badlands Brief — "Q for Dummies - Chapter 14", URL: https://badlands.substack.com/p/q-for-dummies-chapter-14
-
+18. Badlands Brief — "Scholars and Spooks", URL: https://badlands.substack.com/p/scholars-and-spooks
+19. Badlands Brief — "Soul Governance", URL: https://badlands.substack.com/p/soul-governance

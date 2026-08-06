@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [doj, attorney-general, huber, investigations, trump]
-sources: [raw/america-for-sale-part-2.md, raw/do-you-believe-in-coincidences.md, raw/disinformation-is-necessary.md, raw/irregular-warfare.md, raw/profiting-from-war.md, raw/q-for-dummies-chapter-18.md, raw/q-for-dummies-chapter-12.md, raw/q-for-dummies-chapter-2.md]
+sources: [raw/america-for-sale-part-2.md, raw/do-you-believe-in-coincidences.md, raw/disinformation-is-necessary.md, raw/irregular-warfare.md, raw/profiting-from-war.md, raw/q-for-dummies-chapter-18.md, raw/q-for-dummies-chapter-12.md, raw/q-for-dummies-chapter-2.md, raw/q-for-dummies-chapter-3.md, raw/shall-we-play-a-game.md, raw/setting-the-stage.md, raw/the-biggest-cover-up-in-american.md, raw/the-biggest-boomerang-in-history.md]
 confidence: medium
 ---
 
@@ -69,6 +69,10 @@ Chapter 18 of the [[q-for-dummies|Q for Dummies]] series, covering Q drop #119, 
 
 Chapter 12 of the [[q-for-dummies|Q for Dummies]] series notes that under the [[trump-administration|Trump administration]], [[ms-13|MS-13]] and gangs generally were a very large focus of Attorney General Sessions's enforcement plan.[7] The chapter offers as the underlying reason its claim that MS-13 had been converted into a political hit squad for the [[deep-state|Deep State]].[7]
 
+## Q drop #16 and the Trump feud as optics
+
+Chapter 3 of [[q-for-dummies|Q for Dummies]] reads [[qanon|Q]] drop #16 of October 31, 2017 as explaining that Sessions had to remain "completely impartial in the sense of optics."[9] The author recalls that President [[donald-trump|Trump]] and the Attorney General were at that time engaged in very public spats and expressing differing opinions, and argues on the strength of the drop that the entire quarrel "was all a show."[9]
+
 ## References
 1. Badlands Brief — "America for Sale - Part 2", URL: https://badlands.substack.com/p/america-for-sale-part-2
 2. Badlands Brief — "Do You Believe in Coincidences?", URL: https://badlands.substack.com/p/do-you-believe-in-coincidences
@@ -78,7 +82,49 @@ Chapter 12 of the [[q-for-dummies|Q for Dummies]] series notes that under the [[
 6. Badlands Brief — "Q for Dummies - Chapter 18", URL: https://badlands.substack.com/p/q-for-dummies-chapter-18
 7. Badlands Media — "Q for Dummies - Chapter 12", URL: https://badlands.substack.com/p/q-for-dummies-chapter-12
 8. Badlands Brief — "Q for Dummies - Chapter 2", URL: https://badlands.substack.com/p/q-for-dummies-chapter-2
+9. Badlands Brief — "Q for Dummies - Chapter 3", URL: https://badlands.substack.com/p/q-for-dummies-chapter-3
 
 ## Leak investigations in Q drop #8
 
 Badlands' "Q for Dummies" Chapter 2 presents Sessions as central to the information war implied by Q drop #8, describing him as "extremely strict on leaks" and making "no secrets about it," and citing USA Today reporting that the Justice Department under Sessions tripled the number of leak investigations.[8] The chapter notes that Q repeatedly instructed readers to "Trust Sessions," and the author endorses that instruction.[8]
+
+## The recusal as cover ("Shall We Play a Game?")
+
+The July 2025 article "Shall We Play a Game?" by [[joe-lange|Joe Lange]] argues that the enemy believed it had neutralised Sessions when he recused himself from the Russia matter, but that he had already launched the [[john-huber|John Huber]] and [[michael-horowitz|Michael Horowitz]] inspector-general investigations near the start of [[donald-trump|Trump]]'s first term without public knowledge, along with criminal investigations into media leaks inside the [[us-department-of-justice|Justice Department]].[10] In Lange's reading the recusal was tactical: it removed the target from Sessions's back, and Trump's public attacks on him for recusing created distance that gave him further cover to run secret [[racketeer-influenced-and-corrupt-organizations-act|RICO]] investigations in the background.[10]
+
+Q drop 2381 asks who must authorise the firing of FBI and DOJ officials and why [[andrew-mccabe|Andrew McCabe]] tried to take Sessions out; Lange answers that even while recused Sessions retained authority to dismiss corrupt officials, and that he and FBI Director [[christopher-wray|Christopher Wray]] were doing exactly that.[10] Q drop 2165 pairs Sessions with [[michael-flynn|General Michael Flynn]] as the two appointees targeted for immediate removal or recusal, and contrasts Sessions's heavily contested Senate confirmation with [[rod-rosenstein|Rod Rosenstein]]'s easy one, a contrast Lange reads as proof that Sessions was the real threat.[10]
+
+## The McCabe inquiry and its reversal
+
+McCabe oversaw a criminal inquiry into whether Sessions had shown a "lack of candor" before Congress regarding his contacts with Russian ambassador Sergey Kislyak, an inquiry opened at the request of senators Patrick Leahy and Al Franken and briefed to lawmakers in a classified setting by McCabe and Rosenstein without Sessions's knowledge.[10] Lange notes that Sessions had already disclosed the meetings at his confirmation hearing while denying any discussion of the 2016 election, and that talking to Russian officials was not itself unlawful.[10] The effort failed and reversed: Sessions fired McCabe in March 2018 for unauthorised media disclosures and for lacking candor under oath — the same charge McCabe had pursued against him.[10]
+
+10. Badlands Brief — "Shall We Play a Game?", URL: https://badlands.substack.com/p/shall-we-play-a-game
+
+## The leak prosecutions and the "Scaramucci model"
+
+The article "Setting the Stage" develops the same recusal-as-cover thesis in detail.[11] Joe Lange writes that the plan was always for Sessions to recuse himself from the Russia investigation, placing Deputy Attorney General [[rod-rosenstein|Rod Rosenstein]] in charge and giving the enemy a false sense of security, while a seemingly neutered Sessions did the heavy lifting in the background through [[racketeer-influenced-and-corrupt-organizations-act|RICO]] investigations.[11] Under that cover he appointed [[john-huber|John Huber]] as a special prosecutor working with Inspector General [[michael-horowitz|Michael Horowitz]], and — critically, in Lange's account — both men reported directly to Sessions rather than to Rosenstein.[11]
+
+The Hill reported in July 2017 that Sessions would shortly announce several criminal leak investigations centred on news stories containing sensitive intelligence material, news that broke as newly appointed White House Communications Director [[anthony-scaramucci|Anthony Scaramucci]] publicly vowed to fire staffers who talked to reporters, and as [[donald-trump|Trump]] was publicly criticising Sessions for the recusal.[11] Lange reads the coincidence in timing as design, casting Scaramucci as the "hatchet man" hired to remove embedded leakers while Sessions folded them into the background RICO cases; Q drop 2957 describes the "SCARAMUCCI model" as a temporary hire and a "Shadow to Sessions by design."[11]
+
+NBC News later reported that criminal referrals for leak prosecutions surged under the Trump administration to record levels, according to Justice Department data compiled by the Federation of American Scientists, and Sessions himself said the number of leak probes had tripled.[11] Lange's central point is that Sessions's recusal covered only the Russia collusion inquiry and did not bar him from criminally investigating the officials who leaked classified information to sustain the collusion narrative — figures he names including [[james-comey|James Comey]] and [[adam-schiff|Adam Schiff]] — so that Sessions was in fact investigating much of the conspiracy against Trump.[11]
+
+11. Badlands Brief — "Setting the Stage", URL: https://badlands.substack.com/p/setting-the-stage
+
+
+## The Uranium One trap
+
+In "The Biggest Cover-up in American History," [[joe-lange|Joe Lange]] presents Sessions's handling of the [[uranium-one-deal|Uranium One deal]] as the clearest example of deception used as strategy.[12] After Senator [[chuck-grassley|Chuck Grassley]] wrote to him in October 2017 requesting a special counsel on Uranium One, Sessions declined, and the media celebrated while Democrats branded anyone still questioning the deal a conspiracy theorist.[12] Lange argues that this apparent inaction was "the perfect trap," citing [[qanon|Q]] drop #151 of November 14, 2017 — "Nothing is as it appears" and "How do you capture a very dangerous animal?" — alongside Sun Tzu's maxim that all warfare is based on deception.[12]
+
+In a letter to Grassley, [[bob-goodlatte|Bob Goodlatte]] and [[trey-gowdy|Trey Gowdy]], Sessions revealed that [[john-huber|John Huber]] had in fact been running a full criminal inquiry into all the matters for which Republicans sought a special counsel, since November 13, 2017 — the [[huber-investigation|Huber investigation]].[12] He teamed Huber with Inspector General [[michael-horowitz|Michael Horowitz]] and his staff of 470 investigators, giving the effort resources exceeding any special counsel and the ability to empanel grand juries outside the District of Columbia.[12] Lange concludes that Sessions was a participant in a sting operation, that his recusal never applied to the Huber inquiry, and that Huber reported directly to him rather than to [[rod-rosenstein|Rod Rosenstein]].[12]
+
+12. Badlands Brief — "The Biggest Cover-up in American History", URL: https://badlands.substack.com/p/the-biggest-cover-up-in-american
+
+## Recusal and the Flynn interview (Badlands account)
+
+"[[the-biggest-boomerang-in-history|The Biggest Boomerang In History]]" opens with the assertion that the opposing network believed it had regained control of [[donald-trump|Trump]]'s [[department-of-justice|Department of Justice]] once Sessions recused himself from the Russia investigation.[13]
+
+[[joe-lange|Joe Lange]] argues that [[james-comey|James Comey]] deliberately bypassed Sessions when arranging the [[fbi|FBI]] interview of [[michael-flynn|Michael Flynn]], because informing the attorney general in advance would have prompted questions about why agents were being sent to interview the National Security Adviser; Comey likewise skipped White House counsel's permission and withheld the reason for the interview from Flynn himself.[13] Since Comey reported to Sessions and both reported to Trump within the Executive Branch, Lange treats the bypass as proof Comey was working for [[barack-obama|Obama]].[13]
+
+Lange also cites Trump's public criticism of Sessions as an earlier instance of the same deception he attributes to Trump's later criticism of [[william-barr|William Barr]] — distancing intended to blunt the narrative of political bias.[13] These claims reflect Badlands Media interpretation rather than established fact.
+
+13. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history

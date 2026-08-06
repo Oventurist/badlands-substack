@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [defense-tech, surveillance, military-industrial-complex]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-brief-861.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-355.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-ac6.md, raw/badlands-news-brief-d50.md, raw/badlands-news-brief-f76.md, raw/dark-equation.md, raw/q-for-dummies-chapter-22.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-brief-861.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-355.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-ac6.md, raw/badlands-news-brief-d50.md, raw/badlands-news-brief-f76.md, raw/dark-equation.md, raw/q-for-dummies-chapter-22.md, raw/spear-of-justice.md, raw/soul-governance.md]
 confidence: low
 ---
 
@@ -48,6 +48,14 @@ In November 2025, investor [[michael-burry|Michael Burry]]'s [[scion-asset-manag
 
 Reporting on the August 2024 court-ordered unsealing of [[x-corp|X]]'s shareholder list identified Palantir as the intelligence contractor and data analysis platform co-founded by [[joe-lonsdale|Joe Lonsdale]], whose venture firm [[8vc|8VC]] held a stake in X Holdings Corp.[7]
 
+## Monitoring of Tech Settlement Disclosures (2025 claim)
+
+An August 2025 Badlands Media essay on Texas Attorney General [[ken-paxton|Ken Paxton]]'s litigation campaign claimed that the compliance reports required under the state's privacy settlements with [[meta-platforms|Meta]] and [[google|Google]] are not simply filed and shelved but analyzed continuously using "Palantir-level analytics" and other advanced AI systems.[11] According to the author, this monitoring tracks every transaction and shift in data flow so that any attempt to bend the numbers or bury a trail would surface on a dashboard "before the ink on their report is dry."[11]
+
+## In "Soul Governance"
+
+The Badlands Media essay [[soul-governance|Soul Governance]] lists Palantir among the "new altars" of a digital religion, writing that "Palantir knew your fear before you did."[12] The company appears alongside search engines said to have replaced prayer, artificial intelligence said to have replaced intuition, behavior scores said to have replaced conscience, and [[darpa|DARPA]] said to train machines to think as the user rather than for the user.[12] The essay characterizes these systems as entrapment marketed as convenience and programming marketed as inclusion.[12]
+
 ## References
 1. Badlands Brief — "A Gateway to a New World of Cooperation", URL: https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation
 2. Badlands Brief — "Floridian Terror Boats, Venezuelan Deck Chairs, & the War on Fraud", URL: https://badlands.substack.com/p/badlands-brief-861
@@ -73,3 +81,5 @@ The Badlands Media article "Dark Equation" identified [[peter-thiel|Peter Thiel]
 Chapter 22 of the "Q for Dummies" series read Palantir's messaging around the December 2024 [[2024-army-navy-game|Army–Navy game]] as deliberate signalling, describing a company post with notably pointed wording and an advertisement run during the broadcast.[10] The author's first association with the ad was the Q phrase "Watch the water," and he noted that drones appear at the seventeen-second mark while ships are shown earlier being halted by a geofence — evidence, in his argument, that the government could geofence areas against drones during the ongoing sightings but is not doing so.[10] The same commentary argued that [[peter-thiel|Peter Thiel]]'s long-standing support for [[donald-trump|Donald Trump]] makes it plausible that Thiel is not the figure he has been portrayed as, and may have served as a "white hat" counterweight inside the technology sector.[10]
 
 10. Badlands Brief — "Q for Dummies - Chapter 22", URL: https://badlands.substack.com/p/q-for-dummies-chapter-22
+11. Badlands Brief — "Spear of Justice: Ken Paxton and the Bleeding Edge", URL: https://badlands.substack.com/p/spear-of-justice
+12. Badlands Brief — "Soul Governance", URL: https://badlands.substack.com/p/soul-governance

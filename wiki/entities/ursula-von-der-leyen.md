@@ -1,10 +1,10 @@
 ---
-title: Ursula von der Leyen
+title: "Ursula von der Leyen"
 created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [european-union, european-commission, ukraine, davos]
-sources: [raw/badlands-brief-577.md, raw/badlands-brief-9ac.md, raw/badlands-brief-e15.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-e37.md, raw/badlands-news-brief-ffa.md]
+sources: [raw/badlands-brief-577.md, raw/badlands-brief-9ac.md, raw/badlands-brief-e15.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-e37.md, raw/badlands-news-brief-ffa.md, raw/rattling-a-broken-saber.md]
 confidence: medium
 ---
 
@@ -82,6 +82,14 @@ Reporting by Bloomberg at the end of July 2025 described European Union leaders 
 
 The terms entailed a significant hit to European companies: the [[european-union|EU]] accepted a tripling of tariffs to 15% on most exports to the United States while keeping its own levies on American imports at 1% or less.[15] Former Spanish foreign minister Arancha Gonzalez Laya, dean of the Paris School of International Affairs at Sciences Po, told Bloomberg that "economically, this isn't a good agreement and geopolitically speaking, it is a defeat," adding that "this agreement makes the EU smaller."[15] European ambassadors meeting in Brussels the following Monday recognized that von der Leyen had no choice but to swallow the unbalanced deal because the alternatives would have been worse.[15] Badlands contributor Burning Bright linked the capitulation to a longer sequence of what he calls pincer moves between Trump and [[vladimir-putin|Vladimir Putin]], connecting Western sanctions on Russia, Trumpian tariffs and the resurgence of Russiagate to the EU's submission.[15]
 
+## "Era of rearmament" and the 2025 European deep-politics critique
+
+In March 2025 von der Leyen heralded what she called the "era of rearmament," announcing the [[rearm-europe|ReArm Europe]] program of billions in additional military spending backed by roughly €150 billion in EU loans, a response to President [[donald-trump|Donald Trump]]'s threats to abandon [[nato|NATO]] and his pause on Ukraine funding.[16] Italy and Spain considered the branding too aggressive and the plan was rebranded "Readiness 2030," while the Dutch resisted collective defense debt and Hungary proved hard to keep aligned.[16]
+
+Badlands contributor Ryan DeLarme placed her within what he termed the European deep political milieu.[16] He noted her descent from the Albrecht family line and her service as German Minister of Defense from 2013 to 2019, a tenure he described as marked by allegations of "nepotism" and "incompetence" and by the award of a large contract to consultants from [[mckinsey-and-company|McKinsey & Company]], a firm he associated with Enron, COVID, and the opioid epidemic.[16] He further cited her advocacy for an EU Army and a more aggressive European foreign policy, her promotion of the failed EU vaccine passport initiative, and her regular attendance at [[bilderberg|Bilderberg]] meetings, the Munich Security Conference, and Klaus Schwab's [[world-economic-forum|World Economic Forum]].[16]
+
+DeLarme paired her with [[kaja-kallas|Kaja Kallas]] as quintessential examples of the "European elite" — both from families historically involved in European affairs, both among the most vocal supporters of the war in Ukraine, and both, he argued, poorly liked by European publics amid the rise of populist figures such as [[giorgia-meloni|Giorgia Meloni]], [[viktor-orban|Viktor Orbán]] and [[marine-le-pen|Marine Le Pen]].[16]
+
 ## References
 1. Badlands Brief — "ICE Getting Boiled, Chinese Coup Chaos, & Carney Bends The Knee", URL: https://badlands.substack.com/p/badlands-brief-577
 2. Badlands Brief — "Nazi-Related Cover Ups & Formerly Secret Treason", URL: https://badlands.substack.com/p/badlands-brief-9ac
@@ -98,3 +106,4 @@ The terms entailed a significant hit to European companies: the [[european-union
 13. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
 14. Badlands Media — "The King Is Back ... Like He Never Left", URL: https://badlands.substack.com/p/badlands-news-brief-e37
 15. Badlands Brief — "Badlands News Brief: Prolonged Conflicts, Deep State Panic, & Shrinking Unions", URL: https://badlands.substack.com/p/badlands-news-brief-ffa
+16. Badlands Brief — "Rattling a Broken Saber?", URL: https://badlands.substack.com/p/rattling-a-broken-saber

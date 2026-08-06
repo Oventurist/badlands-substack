@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [technology, artificial-intelligence, semiconductors, electric-vehicles, elon-musk]
-sources: [raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-67e.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-890.md, raw/badlands-news-brief-b2b.md, raw/badlands-news-brief-bd6.md, raw/badlands-news-brief-ce5.md, raw/badlands-news-brief-d5c.md, raw/badlands-news-brief-db1.md, raw/badlands-news-brief-ddb.md, raw/badlands-news-brief-e86.md, raw/badlands-news-brief-f6e.md, raw/energy-consolidation.md]
+sources: [raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-67e.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-890.md, raw/badlands-news-brief-b2b.md, raw/badlands-news-brief-bd6.md, raw/badlands-news-brief-ce5.md, raw/badlands-news-brief-d5c.md, raw/badlands-news-brief-db1.md, raw/badlands-news-brief-ddb.md, raw/badlands-news-brief-e86.md, raw/badlands-news-brief-f6e.md, raw/energy-consolidation.md, raw/stay-focused-on-the-big-picture.md]
 confidence: medium
 ---
 
@@ -103,3 +103,9 @@ Soros Fund Management's first-quarter 2023 holdings report with the Securities a
 ## Share price in the energy consolidation argument (2023)
 In a May 15, 2023 Badlands Media essay on [[energy-consolidation|energy consolidation]], contributor [[erik-carlson|Erik Carlson]] used Tesla as the first of five electric car companies he listed from memory to test whether the [[joe-biden|Biden]] administration's climate agenda had rewarded the EV sector.[16] He reported Tesla down 42 percent between the January 20, 2021 inauguration and the time of writing — the smallest decline in his EV sample, which also included [[nikola|Nikola]], [[rivian|Rivian]], [[polestar|Polestar]] and [[nio|Nio]].[16] Carlson argued that a sector supposedly favored by policy should have appreciated, and that the uniform collapse indicated the stated rationale for those policies was not the real one.[16]
 16. Badlands Brief — "Energy Consolidation", URL: https://badlands.substack.com/p/energy-consolidation
+
+## October 2024 product showcase and market reaction
+
+Tesla held a showcase of technologies under development — the Robovan, the [[cybercab|cybercab]] and AI robots — after which Wall Street drove the company's stock price down 8%, with analysts saying the presentation had not impressed.[17] Badlands contributor [[erik-carlson|Erik Carlson]] found the reaction indefensible, asking whether self-driving cabs and robots able to perform mundane tasks could really be judged unimpressive at a moment when AI is universally described as the future.[17] He also observed that the event caused many in the "truth community" to turn against [[elon-musk|Elon Musk]] out of fear of the AI-driven future they believed he was constructing, and argued instead that Musk was merely revealing technology that already existed.[17]
+
+17. Badlands Brief — "Stay Focused on the Big Picture", URL: https://badlands.substack.com/p/stay-focused-on-the-big-picture

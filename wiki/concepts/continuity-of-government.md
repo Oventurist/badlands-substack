@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [continuity-of-government, devolution, national-security, badlands-media]
-sources: [raw/all-assets-deployed.md, raw/badlands-brief-d17.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-148.md, raw/biden-inc-flips.md]
+sources: [raw/all-assets-deployed.md, raw/badlands-brief-d17.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-148.md, raw/biden-inc-flips.md, raw/spear-of-justice.md]
 confidence: medium
 ---
 
@@ -52,6 +52,10 @@ The same feature argued that COG is not a theoretical construct but an active op
 
 The author treated Biden’s quiet renewal of EO 13818 and EO 13848 in particular as significant, reasoning that an administration hostile to the [[white-hats|White Hats]] would have rescinded rather than extended them, and suggesting either strategic acquiescence or operational controls beyond the visible administration.[6] On this reading COG is far from a Cold War relic but an active mechanism for safeguarding sovereignty, dismantling corruption, and orchestrating a systemic awakening — claims that remain interpretive and unverified.[6]
 
+## State-Level Continuity Pathways (2025 Badlands analysis)
+
+An August 2025 Badlands Media essay, "Spear of Justice," argued that Continuity of Government is not an abstract theory but a framework with defined triggers, lawful authorities, and operational channels for carrying governance forward when the federal center is under strain — and that Texas Attorney General [[ken-paxton|Ken Paxton]]'s litigation record fits directly into that structure.[7] Every judicial finding, injunction, and settlement was described as a durable record that other attorneys general, governors, and courts can cite and replicate, functioning as nodes of authority that stay active regardless of turbulence in Washington.[7] The essay called the border sovereignty cases over the Rio Grande buoy lines and razor wire "explicit continuity triggers," because they establish on the record that a state stepped in where the federal center failed, providing lawful justification for states to assert authority in areas normally reserved to Washington.[7] It similarly claimed that antitrust work against the [[esg|ESG]] capital bloc would let states defend their markets without waiting for federal regulators, and that state-set technology and AI compliance regimes would become operational guardrails for the national information space.[7] The author further asserted that the litigation is the overt phase of covert action taken earlier under [[executive-order-13818|EO 13818]] and COG protocols by [[white-hats|White Hats]], closing with Matthew 7:24–25 as an image of a structure founded upon rock.[7]
+
 ## References
 
 1. Badlands Brief — "All Assets Deployed", URL: https://badlands.substack.com/p/all-assets-deployed
@@ -60,3 +64,4 @@ The author treated Biden’s quiet renewal of EO 13818 and EO 13848 in particula
 4. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-e18
 5. Badlands Brief — "Badlands News Brief: FOX Fights, Trump Trolls & Twitter Turns?", URL: https://badlands.substack.com/p/badlands-news-brief-148
 6. Badlands Brief — "Biden, Inc. Flips", URL: https://badlands.substack.com/p/biden-inc-flips
+7. Badlands Brief — "Spear of Justice: Ken Paxton and the Bleeding Edge", URL: https://badlands.substack.com/p/spear-of-justice

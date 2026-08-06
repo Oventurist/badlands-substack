@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [infiltration, information-warfare, subversion, qanon, badlands-media]
-sources: [raw/on-infiltration-and-israel.md]
+sources: [raw/on-infiltration-and-israel.md, raw/q-for-dummies-chapter-9.md]
 confidence: medium
 ---
 
@@ -34,3 +34,10 @@ The author argues that infiltration explains atrocities committed in the name of
 
 ## References
 1. Badlands Brief — "On Infiltration and Israel", URL: https://badlands.substack.com/p/on-infiltration-and-israel
+2. Badlands Brief — "Q for Dummies - Chapter 9", URL: https://badlands.substack.com/p/q-for-dummies-chapter-9
+
+## "Infiltration, not invasion" in Q for Dummies Chapter 9
+
+Chapter 9 of the Badlands series [[q-for-dummies|Q for Dummies]] uses the slogan "infiltration, not invasion" twice as the organising idea of its reading of Q drops #68–71.[2] Describing [[huma-abedin|Huma Abedin]]'s family — her parents' move to [[saudi-arabia|Saudi Arabia]] when she was two, her father's involvement in setting up Muslim causes and his championing of the [[muslim-brotherhood|Muslim Brotherhood]]'s cause — the chapter calls the family "literally one of the definitions of 'infiltration, not invasion.'"[2]
+
+The phrase recurs immediately after the chapter's account of the [[awan-brothers|Awan brothers]], the unvetted Pakistani IT administrators who it says served more than two dozen members of Congress without security clearances, and of the later claim that Pakistani IT administrators were caught sending top-secret material to the Brotherhood.[2] In both applications the concept denotes hostile penetration of American institutions through staffing, access and money rather than through open confrontation — the same structural claim the term carries elsewhere in Badlands commentary.[2]

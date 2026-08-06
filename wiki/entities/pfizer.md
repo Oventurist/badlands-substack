@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [big-pharma, pfizer, advertising, viagra]
-sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-2b1.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-780.md, raw/badlands-news-brief-7c9.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-a61.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-e07.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-2b1.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-780.md, raw/badlands-news-brief-7c9.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-a61.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-e07.md, raw/spear-of-justice.md]
 confidence: medium
 ---
 
@@ -93,6 +93,10 @@ In January 2023 [[project-veritas|Project Veritas]] published undercover footage
 
 A study reported in June 2023 argued that repeated COVID-19 vaccination weakens the immune system, potentially leaving recipients susceptible to life-threatening conditions such as cancer.[18] Researchers noted that multiple doses of the Pfizer or [[moderna|Moderna]] vaccines produce higher levels of the antibody subclass IgG4, and that a growing body of evidence indicated these "abnormally high levels" render the immune system more susceptible to the spike protein contained in the vaccines.[18] The paper cited mouse experiments in which boosters on top of the initial vaccination "significantly decreased" protection against both the Delta and Omicron variants, and testing showing a spike in IgG4 levels after repeat Pfizer vaccination that suggested immune exhaustion.[18] Separate studies had detected higher IgG4 levels in people who died with COVID-19 than in those who recovered.[18]
 
+## Texas COVID-19 Misrepresentation Case as "Positional Warfare"
+
+An August 2025 Badlands Media essay by "Observing Consciousness" discussed the Texas Attorney General's COVID-19 misrepresentation case against Pfizer, noting that early rulings had narrowed the path but that [[ken-paxton|Ken Paxton]]'s office kept the lane open on appeal.[20] The author characterized this persistence not as stubbornness but as "positional warfare": maintaining a live legal threat forces the opponent to keep allocating resources and political capital to a battle it cannot ignore, shaping the environment for subsequent strikes.[20] The case was presented alongside the [[eli-lilly|Eli Lilly]] inducement suit as part of a coordinated effort to treat pharmaceutical companies as an exposed supply line rather than an untouchable industry.[20]
+
 ## References
 1. Badlands Brief — "America Has a CIA-Run Economy", URL: https://badlands.substack.com/p/america-has-a-cia-run-economy
 2. Badlands Brief — "The Reckoning of Fake Elections, Fake Wars and Fake Allies", URL: https://badlands.substack.com/p/badlands-brief-b62
@@ -117,3 +121,4 @@ A study reported in June 2023 argued that repeated COVID-19 vaccination weakens 
 A January 2023 [[project-veritas|Project Veritas]] release under the #ExposePfizer banner alleged that a Pfizer director had admitted the company was discussing — and possibly already experimenting with — mutating the COVID-19 virus itself in order to develop preemptive vaccines for anticipated new variants, a practice discussed under the heading of [[directed-evolution|directed evolution]].[19] Badlands contributor [[jordan-sather|Jordan Sather]] called the drop "a heavy hitter" and noted that the same director said he believed the original COVID strain came out of the [[wuhan-institute-of-virology|Wuhan lab]].[19]
 
 19. Badlands Brief — "Badlands News Brief: Big Tech Crunch, OPSEC & Vax Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-e07
+20. Badlands Brief — "Spear of Justice: Ken Paxton and the Bleeding Edge", URL: https://badlands.substack.com/p/spear-of-justice

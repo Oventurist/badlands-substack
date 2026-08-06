@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [entertainment, music, 2024-election, psyop, narrative]
-sources: [raw/badlands-news-brief-06d.md, raw/badlands-news-brief-4b7.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-8d8.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-bd6.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-e14.md, raw/badlands-news-brief-ea6.md, raw/badlands-news-brief-fe3.md]
+sources: [raw/badlands-news-brief-06d.md, raw/badlands-news-brief-4b7.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-8d8.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-bd6.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-e14.md, raw/badlands-news-brief-ea6.md, raw/badlands-news-brief-fe3.md, raw/q-for-dummies-chapter-3.md]
 confidence: medium
 ---
 
@@ -58,6 +58,10 @@ Before her endorsement, Swift was the target of a public pressure campaign from 
 
 [[ashe-in-america|Ashe in America]] wrote that "you know the Harris campaign is going well when regime shills are politi-shaming Taylor Swift into endorsing their candidate," arguing that polls are fabricated for narrative and that even the fabricated ones could not overcome Harris' lack of support: "If you need a pop star to pretend you're popular, you're not popular."[9] She added a personal aside on the darkness of Swift's most recent album, quoting lyrics such as "I'm miserable, and nobody knows" and "I leap from the gallows," and concluding, "Seriously, someone check on Tay-Tay."[9]
 
+## Cited in Q for Dummies
+
+Chapter 3 of [[q-for-dummies|Q for Dummies]], published December 29, 2023, names Swift and [[travis-kelce|Travis Kelce]] as a then-current example of what the author describes as the [[operation-mockingbird|Operation Mockingbird]] practice of using celebrity status and fame to push narratives and agendas.[11] The reference is made in passing, with a deliberate mangling of her name, in the chapter's analysis of [[qanon|Q]] drop #19.[11]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Devolution Proofs Abroad and White Pills in the Chaos", URL: https://badlands.substack.com/p/badlands-news-brief-06d
@@ -75,3 +79,4 @@ Late on Tuesday, September 10, 2024, shortly after the presidential debate ended
 
 Badlands contributor [[ashe-in-america|Ashe in America]] noted that the outlet had reported the previous day on the regime pressuring Swift to endorse Harris, and characterized the eventual endorsement as a lukewarm statement accompanied by a picture of her cat.[10] The commentary argued it was "fascinating" that working people who pay bills and buy groceries would care about the political opinions of a wealthy entertainer, and contrasted Swift's protected station with that of ordinary citizens.[10]
 10. Badlands Brief — "Kamalaflation, Sovereign Meetings & MAGA Joe?", URL: https://badlands.substack.com/p/badlands-news-brief-fe3
+11. Badlands Brief — "Q for Dummies - Chapter 3", URL: https://badlands.substack.com/p/q-for-dummies-chapter-3

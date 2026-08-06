@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [think-tank, military-industrial-complex, war-planning]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-news-brief-bb3.md, raw/badlands-news-brief-e14.md, raw/how-to-rent-a-riot-the-history-of.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-news-brief-bb3.md, raw/badlands-news-brief-e14.md, raw/how-to-rent-a-riot-the-history-of.md, raw/shadows-sovereigns-and-civil-wars-e41.md]
 confidence: low
 ---
 
@@ -39,3 +39,11 @@ In September 2024 Badlands described the RAND Corporation as "one of the great v
 ## Link to Gene Sharp
 
 Badlands Media lists the RAND Corporation among the U.S. institutions with which [[gene-sharp|Gene Sharp]], the theorist of [[nonviolent-action|nonviolent action]], maintained strong links — alongside the [[central-intelligence-agency|Central Intelligence Agency]], the [[pentagon|Pentagon]], the [[international-republican-institute|International Republican Institute]] and the [[national-endowment-for-democracy|National Endowment for Democracy]].[4] The connection supports the article's contention that Sharp is better understood as a Cold War defense intellectual than as a grassroots people's champion.[4]
+
+## Wohlstetter, cybernetics and systems analysis
+
+Matthew Ehret identifies [[albert-wohlstetter|Albert Wohlstetter]] — a former Trotskyist turned leading neoconservative — as the controlling hand behind RAND, under whose influence the corporation became the principal conduit for the intellectual takeover of all branches of US policy on military, economic and cultural levels.[5] The mechanism was [[cybernetics|cybernetics]], created by [[norbert-wiener|Norbert Wiener]] as the practical application of Lord [[bertrand-russell|Bertrand Russell]]'s Principia Mathematica and used to rebrand [[eugenics|eugenics]] after the Second World War.[5] Its operational language was "systems analysis," which presumed all systems could be described as closed units susceptible to pure mathematical description and manipulation by a scientific elite.[5]
+
+Author Alex Abella, quoted in the article from *Soldiers of Reason*, wrote that RAND's systems analysis "refused to be constrained by existing reality" and required that every aspect of a problem be broken down into quantities, so that anything which "could not be measured, ranged, and classified" was of little consequence: "Numbers were all – the human factor was a mere adjunct to the empirical."[5] Under Wohlstetter's RAND, Ehret writes, the United States was driven into full-scale insanity by a military outlook built on computer models presuming nuclear war was winnable, bringing the world closer to nuclear holocaust.[5]
+
+5. Badlands Brief — "Shadows, Sovereigns and Civil Wars - Part 2", URL: https://badlands.substack.com/p/shadows-sovereigns-and-civil-wars-e41

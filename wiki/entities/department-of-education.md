@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [government, agency, education, civil-rights]
-sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-fbb.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-ce5.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-f23.md, raw/has-everyone-completely-lost-their.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-fbb.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-ce5.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-f23.md, raw/has-everyone-completely-lost-their.md, raw/reagan-20.md, raw/spear-of-justice.md]
 confidence: medium
 ---
 
@@ -80,6 +80,10 @@ Badlands commentary argued that as federal intervention and spending increased, 
 
 On Thursday, February 20, 2025, the [[senate-help-committee|Senate HELP Committee]] advanced [[linda-mcmahon|Linda McMahon]]'s nomination to lead the department to the Senate floor on a 12-11 party-line vote.[14] Chairman [[bill-cassidy|Bill Cassidy]] framed the department as an institution that had "lost its purpose," saying that for the previous four years it had "focused on everything but student learning with bureaucracy and red tape standing in the way of student success," and calling for "a strong leader at the department who will get our education system back on track."[14] Senators pressed McMahon at her hearing the previous week on the fate of programs housed within the agency — including special education and grants for low-income schools — should the department be dismantled or shuttered.[14] [[badlands-media|Badlands]] commentary asserted that McMahon's task was to dismantle the department entirely.[14]
 
+## Injunction Against the Title IX Rewrite (2025 analysis)
+
+An August 2025 Badlands Media essay pointed to the injunction blocking the Department of Education's [[title-ix|Title IX]] rewrite as an example of state litigation constraining the [[administrative-state|administrative state]] before new rules embed themselves in governance.[17] The author placed it alongside the vacatur of the [[equal-employment-opportunity-commission|EEOC]]'s expanded harassment guidance within Texas Attorney General [[ken-paxton|Ken Paxton]]'s broader campaign to narrow the interpretive tools available to federal agencies.[17]
+
 ## References
 
 1. Badlands Brief — "A Glaring Double Standard", URL: https://badlands.substack.com/p/a-glaring-double-standard
@@ -106,3 +110,10 @@ In February 2025 the [[doge|Department of Government Efficiency]], led by [[elon
 ## Commentary on the 2025 cuts
 
 Badlands contributor [[erik-carlson|Erik Carlson]] defended the 2025 downsizing of the department against critics who treated any program cut as a travesty, framing the debate in the context of $36 trillion in national debt.[15] He mocked the assumption that if a remote worker in the Washington, D.C. area lost a $250,000-a-year Department of Education job, children would no longer be taught to read, arguing instead that the freed salary could pay actual classroom teachers.[15] Carlson asserted that American education has declined since the department's creation in 1980 and claimed a direct correlation between its founding and falling student test scores.[15] He grouped fears about the department alongside claims that [[donald-trump|Donald Trump]] would end Social Security, Medicaid and Medicare as examples of media-amplified panic.[15]
+
+## Reagan, Bush and Trump
+
+A February 2025 Badlands feature by [[erik-carlson|Erik Carlson]] recounted that [[ronald-reagan|Ronald Reagan]] refused to fund the department, which had been newly created under [[jimmy-carter|Jimmy Carter]].[16] After Reagan left office, Carlson wrote, [[george-hw-bush|George Bush]] fully funded it in lockstep with the Democrats, and America quickly acquired political correctness in its universities with Critical Theory embedded in every school's agenda — Marxism, suppressed for eight years, suddenly taking off.[16] Carlson noted that [[donald-trump|Donald Trump]] plans not merely to defund the department but to shut it down completely.[16]
+
+16. Badlands Brief — "Reagan 2.0", URL: https://badlands.substack.com/p/reagan-20
+17. Badlands Brief — "Spear of Justice: Ken Paxton and the Bleeding Edge", URL: https://badlands.substack.com/p/spear-of-justice

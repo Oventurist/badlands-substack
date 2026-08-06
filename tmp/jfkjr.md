@@ -1,7 +1,0 @@
-## Heroes of the Great Awakening
-
-Badlands Media's February 2023 essay "Heroes of the Great Awakening" names [[jfk-jr|JFK Jr.]] as the figure "poised to carry on the legacy of transparency a generation ago," through his magazine [[george-magazine|*GEORGE*]] and "his projected and even probable win of a Senate seat in New York."[n] That seat, the author writes, was "coveted by the queen of the coven herself, Hilary Clinton," and had Kennedy Jr. won it he "might have risen to the top, eventually, thereby posing a major threat to the establishment."[n]
-
-The article states that Kennedy Jr. "seemingly died under mysterious circumstances when his plane reportedly went down over Martha's Vineyard in 1999, when he was 38 years old," adding that his fate "in purely coincidental fashion—seemed to mirror that of so many political enemies of the Clinton clan."[n]
-
-The essay further addresses the belief, common within the movement, that Kennedy Jr. is still alive. The author writes that "while JFK Jr. being among the living is a myth, that doesn't mean it's not true with the right perspective in mind," and quotes [[charles-eisenstein|Charles Eisenstein]]'s argument that myths are "vehicles of truth" whose validity "does not depend on whether it is objectively verifiable."[n] On this reading the spirit of Kennedy Jr. and his father is "alive and well in the current era," carried by ordinary participants in the [[great-awakening|Great Awakening]] rather than by any single surviving individual.[n]

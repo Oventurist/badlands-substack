@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [russiagate, fisa, surveillance, spygate, qanon]
-sources: [raw/do-you-believe-in-coincidences.md, raw/durham-continues-to-reveal-previously.md, raw/moves-and-countermoves.md]
+sources: [raw/do-you-believe-in-coincidences.md, raw/durham-continues-to-reveal-previously.md, raw/moves-and-countermoves.md, raw/the-biggest-boomerang-in-history.md]
 confidence: low
 ---
 
@@ -32,3 +32,13 @@ Between 2022 and the close of the [[durham-special-counsel-investigation|Durham 
 ## The Five Eyes dimension
 
 In "Moves and Countermoves," [[joe-lange|Joe Lange]] frames Spygate as a foreign-intelligence operation rather than a purely domestic one, arguing that the [[barack-obama|Obama]] intelligence community led by the [[cia|CIA]] tasked [[five-eyes|Five Eyes]] partners with surveilling [[donald-trump|Trump]] associates in order to evade the legal bar on CIA spying on Americans and to avoid congressional oversight.[3] On this account [[crossfire-hurricane|Crossfire Hurricane]] was only one component of a broader treasonous conspiracy that also swept up candidate [[ted-cruz|Ted Cruz]], members of [[congress|Congress]] and the media, and the [[steele-dossier|dossier]]-based FISA warrants on [[carter-page|Carter Page]] and [[george-papadopoulos|George Papadopoulos]] were a retroactive cover for surveillance that had already occurred.[3] Lange points to the Obama administration's 2013 wiretapping of the Associated Press, flagged at the time in a [[donald-trump|Trump]] tweet linking it to [[benghazi-attack|Benghazi]] and the IRS scandal, as evidence that the practice long predated the 2016 campaign, and he argues the scandal is larger than [[watergate|Watergate]].[3] Admiral [[mike-rogers|Mike Rogers]]'s November 2016 warning to Trump and [[michael-flynn|General Michael Flynn]]'s cooperation with grand juries are cast as the countermoves that forced the conspirators into exposing errors.[3]
+
+## SPYGATE in "The Biggest Boomerang In History"
+
+[[joe-lange|Joe Lange]]'s article "[[the-biggest-boomerang-in-history|The Biggest Boomerang In History]]" defines SPYGATE as the original offence: a massive spy operation by the [[barack-obama|Obama]] administration intended to influence the 2016 election and ensure a [[hillary-clinton|Hillary Clinton]] victory, which he calls the biggest scandal in American history.[4] In his framing it precedes and underlies [[fisagate|FISAGATE]], which was the cover-up mounted after Clinton lost.[4]
+
+Lange stresses that the spying was already under way long before the [[fbi|FBI]] applied for a [[foreign-intelligence-surveillance-act|FISA]] warrant on [[carter-page|Carter Page]]: the administration was using allied intelligence services in the United Kingdom and Australia through [[five-eyes|FVEY]] to monitor the Trump campaign and many others.[4] He asserts Obama personally ordered the operation twice over — through [[john-brennan|John Brennan]]'s [[central-intelligence-agency|CIA]] using FVEY partners, and through [[james-comey|James Comey]]'s FBI in the form of a counterintelligence rather than criminal investigation, so the material could be kept classified.[4]
+
+The trap laid for [[michael-flynn|Michael Flynn]] is presented as the point at which SPYGATE surfaced: Comey could only have known Flynn was lying about his call with the Russian ambassador if transcripts already existed, so the entrapment exposed the underlying surveillance.[4] Lange adds that a paper trail led straight to Obama because nobody expected Clinton to lose, that White House visitor logs for the FISA judge and related evidence were classified and moved to the Obama Presidential Library, and that Obama's own 2009 Executive Order forbade classifying information to conceal violations of law.[4] These claims reflect Badlands Media interpretation rather than established fact.
+
+4. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history

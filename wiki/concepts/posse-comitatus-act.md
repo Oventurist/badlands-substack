@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [law, military, domestic-deployment, national-guard, supreme-court]
-sources: [raw/badlands-news-brief-2e4.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-94b.md, raw/q-for-dummies-chapter-1.md]
+sources: [raw/badlands-news-brief-2e4.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-94b.md, raw/q-for-dummies-chapter-1.md, raw/q-for-dummies-chapter-3.md]
 confidence: medium
 ---
 
@@ -35,8 +35,13 @@ On September 2, 2025, Federal Judge [[charles-breyer|Charles Breyer]] enjoined t
 
 [[paul-fleuret|Paul Fleuret]] identifies the Posse Comitatus Act as the Supreme Court decision referred to in Drop #4 of the [[q-operation|Q]] drops, dated October 29, 2017.[4] Writing in Chapter 1 of [[q-for-dummies|Q for Dummies]], he summarizes the act as limiting the use of the American military on American soil, while noting that laws and provisions exist that would permit such a deployment.[4] He places the reference alongside the drop's mentions of military generals and [[military-intelligence|military intelligence]], which he treats as the capability able to counter the three-letter agencies.[4]
 
+## Q drop #22
+
+Chapter 3 of [[q-for-dummies|Q for Dummies]] presents Posse Comitatus as one of two conditions that must be satisfied before the United States military may activate and serve among its own population, the other being the suspension of [[habeas-corpus|habeas corpus]].[5] The point arises from [[qanon|Q]] drop #22 of November 1, 2017, which asks whether the [[national-guard|National Guard]] can work alongside the [[united-states-marine-corps|Marines]] and whether conditions must be met for them to do so.[5] The author cites the presidency of [[abraham-lincoln|Abraham Lincoln]] as the historical instance in which both conditions were met, under a congressionally-approved [[martial-law|martial law]] status used to suppress spies and dissenters during the Civil War.[5]
+
 ## References
 1. Badlands News Brief — "Escalating Elections, Fragmented Forums, & Merry Murder Metrics", URL: https://badlands.substack.com/p/badlands-news-brief-2e4
 2. Badlands Brief — "Dumb Questions, Pentagon Pizzas, & Zero Trust", URL: https://badlands.substack.com/p/badlands-news-brief-669
 3. Badlands Brief — "Posse Comitatus & Haggling with Hamas", URL: https://badlands.substack.com/p/badlands-news-brief-94b
 4. Badlands Brief — "Q for Dummies - Chapter 1", URL: https://badlands.substack.com/p/q-for-dummies-chapter-1
+5. Badlands Brief — "Q for Dummies - Chapter 3", URL: https://badlands.substack.com/p/q-for-dummies-chapter-3

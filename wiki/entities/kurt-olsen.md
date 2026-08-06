@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [elections, 2020-election, trump-administration, legal]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-2c0.md, raw/badlands-brief-405.md, raw/badlands-brief-733.md, raw/badlands-brief-e9e.md, raw/badlands-news-brief-5eb.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-2c0.md, raw/badlands-brief-405.md, raw/badlands-brief-733.md, raw/badlands-brief-e9e.md, raw/badlands-news-brief-5eb.md, raw/thats-not-signature-verification.md]
 confidence: low
 ---
 
@@ -50,6 +50,10 @@ Badlands contributor [[ashe-in-america|Ashe in America]], writing after Olsen's 
 
 Olsen served as an attorney for [[kari-lake|Kari Lake]] in [[lake-v-hobbs|Lake v. Hobbs et al.]], her challenge to the 2022 Arizona gubernatorial election.[6] He told the court that "11 of the signature verification workers approved 170k signatures at a rate of less than 0 and 2.99 seconds with a 99.97% approval rating," and in closing argument stated that approximately 274,000 ballot signatures had been compared and verified in less than three seconds each.[6] Judge Thompson nonetheless dismissed the case on May 22, 2023, a ruling [[the-gateway-pundit|The Gateway Pundit]] summarized as holding that "anything goes" and that "laws are suggestions."[6]
 
+## Closing argument in the Count III trial (2023)
+
+As attorney for [[kari-lake|Kari Lake]] in the remanded Count III trial, Kurt Olsen told the court: "This election should be set aside … Your Honor, the election was unlawful…16-550 was not complied with. Defendants don't dispute our expert. They don't dispute the evidence."[7] The argument rested on evidence that [[maricopa-county|Maricopa County]] had not conducted [[signature-verification|signature verification]] in the manner required by [[arizona-revised-statutes-16-550|A.R.S. § 16-550]], with Lake's team hammering that the statute's "shall compare" language requires an actual comparison against at least one exemplar signature.[7] Judge [[peter-thompson|Peter Thompson]] nonetheless dismissed the claim on May 22, 2023.[7]
+
 ## References
 1. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
 2. Badlands Brief — "Southern Hospitality Superseded Plus Cross Burning", URL: https://badlands.substack.com/p/badlands-brief-2c0
@@ -57,3 +61,4 @@ Olsen served as an attorney for [[kari-lake|Kari Lake]] in [[lake-v-hobbs|Lake v
 4. Badlands Brief — "The Boons & Blessings of Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-733
 5. Badlands Brief — "Earned Deportations, Irish Knife Fights, & the Eventual "Liberation" of Jerusalem", URL: https://badlands.substack.com/p/badlands-brief-e9e
 6. Badlands Brief — "Badlands News Brief: DeSantis Runs, Lake Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-5eb
+7. Badlands Brief — "That's Not Signature Verification, Your Honor", URL: https://badlands.substack.com/p/thats-not-signature-verification

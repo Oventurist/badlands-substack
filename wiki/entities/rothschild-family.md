@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, central-banking, debt-system, cabal]
-sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-fbb.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-547.md, raw/cracks-in-the-curtain.md, raw/master-and-commander.md, raw/money-and-oil.md, raw/on-infiltration-and-israel.md, raw/q-for-dummies-chapter-18.md]
+sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-fbb.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-547.md, raw/cracks-in-the-curtain.md, raw/master-and-commander.md, raw/money-and-oil.md, raw/on-infiltration-and-israel.md, raw/q-for-dummies-chapter-18.md, raw/the-battle-for-control.md]
 confidence: low
 ---
 
@@ -71,3 +71,9 @@ The essay stresses that the family's wealth and power came not from lending to i
 On this account wars have been the family's biggest money maker ever since: they fund both sides and are indifferent to the outcome, since the winner is indebted to them forever and the loser must sell assets and resources at bargain prices.[7] [[world-war-i|The First World War]] is presented as the template, with Rothschild-controlled central banks funding both sides as millions died and countries went into massive debt, after which a bankrupted Germany saw its companies and resources bought up cheaply and its currency collapse — conditions Lange says set the stage for [[adolf-hitler|Hitler]] and [[world-war-ii|the Second World War]].[7]
 8. Badlands Brief — "On Infiltration and Israel", URL: https://badlands.substack.com/p/on-infiltration-and-israel
 9. Badlands Brief — "Q for Dummies - Chapter 18", URL: https://badlands.substack.com/p/q-for-dummies-chapter-18
+
+## Central banks and the mantra of control
+
+In "The Battle for Control," [[joe-lange|Joe Lange]] writes that the Rothschilds have lived for generations by the mantra that money is power and control, and identifies them as the family that has established and controlled central banks all over the world — the mechanism by which they have controlled governments and their peoples.[10] He adds that they have also started wars to protect those central banks, and names the [[war-of-1812|War of 1812]] as one such war.[10]
+
+10. Badlands Brief — "The Battle for Control", URL: https://badlands.substack.com/p/the-battle-for-control

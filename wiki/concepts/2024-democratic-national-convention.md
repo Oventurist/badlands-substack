@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [elections, democrats, chicago, 2024]
-sources: [raw/badlands-news-brief-040.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-be1.md, raw/badlands-news-brief-ccd.md, raw/badlands-news-brief-d43.md, raw/badlands-news-brief-d50.md, raw/q-for-dummies-chapter-18.md, raw/q-for-dummies-chapter-17.md]
+sources: [raw/badlands-news-brief-040.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-be1.md, raw/badlands-news-brief-ccd.md, raw/badlands-news-brief-d43.md, raw/badlands-news-brief-d50.md, raw/q-for-dummies-chapter-18.md, raw/q-for-dummies-chapter-17.md, raw/the-candidate-who-isnt-there.md]
 confidence: medium
 ---
 
@@ -75,6 +75,16 @@ Badlands contributor [[burning-bright|Burning Bright]] read the Obamas' appearan
 
 Chapter 18 of the [[q-for-dummies|Q for Dummies]] series declines to dwell on the convention beyond calling it a shambles and contrasting it unfavourably with the [[2024-republican-national-convention|Republican National Convention]].[8] The author does highlight one event from Chicago the day after the convention wrapped: an impromptu religious revival attended by thousands, which he compares to the response in Paris after the [[2024-paris-summer-olympics|Olympic opening ceremony]] mocked the Last Supper and Christianity, presenting both as evidence that God answers hostile spectacle with His own message.[8] The chapter frames the November election as a choice between electing [[donald-trump|Trump]] and watching the United States fall to Marxist communism, and argues that the endorsements of [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] and [[tulsi-gabbard|Tulsi Gabbard]] within a day of the convention's close neutralised whatever momentum it had produced.[8]
 
+## Press access, influencers and the roll call
+
+In "The Candidate Who Isn't There," published August 24, 2024, Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] described the convention as a production with "a grotesque overabundance of manufactured energy," as if the most capable assets from Hollywood and "the bowels of the CIA" had joined forces.[10] He reported that [[kamala-harris|Kamala Harris]]'s acceptance speech was "about as vapid as it gets," a masterclass in platitudes that announced no substantive policy initiatives and left no indication of how a Harris presidency would differ from the [[biden-administration|Biden administration]].[10]
+
+DeLarme alleged that independent journalists were effectively priced out: he said he personally knew a center-left journalist of quality, pigeonholed as conservative for reporting fairly on [[donald-trump|Trump]], who requested press credentials and was offered two passes at $200,000 apiece.[10] Meanwhile figures he called propaganda artists — [[joy-reid|Joy Reid]], [[rachel-maddow|Rachel Maddow]] and [[jen-psaki|Jen Psaki]] — attended free, while a contingent of teenage influencers was bussed in to occupy the space real reporters would have used for interviews.[10] He described the entry lines as a logistical disaster in which Democratic operatives including Paul Begala, Charlotte Clymer and Ted Deutch sat waiting and deflected questions from independent journalists by invoking exclusivity deals with [[cnn|CNN]].[10]
+
+The article also singles out [[alexandria-ocasio-cortez|Alexandria Ocasio-Cortez]]'s speech, which DeLarme said marked her acceptance into the establishment and contained the false claim that Harris was "working tirelessly to secure a cease-fire in Gaza."[10] During the symbolic roll call on Tuesday, 44 delegates voted "present" instead of casting a vote for Harris, largely members of the [[uncommitted-movement|Uncommitted]] movement — evidence, in his reading, that while operatives and speakers were in lockstep the broader voter base remained fractured.[10] He contrasted the convention with [[robert-f-kennedy-jr|RFK Jr.]]'s endorsement of Trump, whose speech he said contained more actual policy talk than the [[2024-republican-national-convention|RNC]] and DNC combined.[10]
+
+The party's [[2024-democratic-party-platform|2024 Democratic Party Platform]], released around the convention, referred to [[joe-biden|Joe Biden]] as the presidential candidate throughout, with nearly 300 instances of "Biden" against 32 of "Harris."[10]
+
 ## References
 1. Badlands Brief — "The Regime is Totally Winning Amidst Continued Meltdown", URL: https://badlands.substack.com/p/badlands-news-brief-040
 2. Badlands Brief — "The Turn on Biden Begins", URL: https://badlands.substack.com/p/badlands-news-brief-11c
@@ -93,3 +103,4 @@ Writing on August 17, 2024, days before the convention opened, the author of [[q
 He drew a sustained parallel to 1968: a candidate withdrawing from the race — Lyndon Johnson then, Biden now — a convention held in Chicago, and a political climate tense enough that little would be required to spark civil unrest.[9] The chapter connects those conditions to the [[false-flag-operation|false flag]] warnings in Q drop #112 and urges readers to keep "eyes open and heads on a swivel."[9]
 
 The same passage reports that [[donald-trump|President Trump]] and General [[michael-flynn|Michael Flynn]] appeared to be signaling that Biden was looking to re-enter the race, and that [[nancy-pelosi|Nancy Pelosi]] seemed to align with the notion, having said the letter announcing Biden's withdrawal "didn't sound like him."[9] The author also singles out [[jd-vance|J.D. Vance]] walking up in front of Harris's plane and taking over her press corps as the moment that cemented Vance for him as a legitimate vice-presidential pick.[9]
+10. Badlands Brief — "The Candidate Who Isn't There", URL: https://badlands.substack.com/p/the-candidate-who-isnt-there

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [doj, attorney-general, durham, sdny]
-sources: [raw/disinformation-is-necessary.md, raw/do-you-believe-in-coincidences.md, raw/q-for-dummies-chapter-13.md]
+sources: [raw/disinformation-is-necessary.md, raw/do-you-believe-in-coincidences.md, raw/q-for-dummies-chapter-13.md, raw/the-biggest-boomerang-in-history.md]
 confidence: low
 ---
 
@@ -43,3 +43,13 @@ Democrats demanded Barr testify, and the article reports he defended Trump vigor
 Following [[donald-trump|Donald Trump]]'s New York conviction, Barr publicly stated that the verdict would not stick, a remark cited by the Badlands Media "Q For Dummies" series as corroboration of its argument that the prosecution was legally baseless.[3] The series linked to reporting by The Hill on Barr's assessment that the hush-money case would be overturned, and used it alongside the sentencing of [[steve-bannon|Steve Bannon]] and the trial of [[hunter-biden|Hunter Biden]] to argue that the episode had exposed a weaponized justice system.[3]
 
 3. Badlands Brief — "Q For Dummies - Chapter 13", URL: https://badlands.substack.com/p/q-for-dummies-chapter-13
+
+## Custody of DECLAS in the boomerang narrative
+
+In "[[the-biggest-boomerang-in-history|The Biggest Boomerang In History]]," [[joe-lange|Joe Lange]] presents Barr as the pivot on which [[donald-trump|Trump]]'s declassification strategy turned.[4] Q drop 3784 of January 23, 2020 set out the [[declas|DECLAS]] chain of command as POTUS to Barr and Barr to [[john-durham|Durham]], with foreign classified intelligence from [[five-eyes|FVEY]] and non-FVEY sources provided as needed, and asked whether Durham would want to freeze public release because of the criminal nature of the probes and the grand jury material involved.[4] Lange reads the plural "probe(s)" as confirmation that Barr controlled declassified material for multiple investigations, not Durham's alone.[4]
+
+Fox News reporting quoted in the article records that Trump issued a memo granting Barr authority to declassify any documents related to surveillance of the Trump campaign in 2016 and ordered the intelligence community to provide prompt assistance, with press secretary Sarah Sanders stating the direction came at the request and recommendation of the Attorney General.[4] Lange argues that Barr and Trump were not weaponising classified information against political opponents but exposing the conspiracy to spy on the campaign and frame it for Russia collusion, and that Trump's public criticism of Barr — as earlier with [[jeff-sessions|Jeff Sessions]] — was deliberate distancing to blunt claims of political bias.[4]
+
+Barr is credited with launching the investigation into the [[barack-obama|Obama]] administration's spy campaign and with coordinating DECLAS for multiple [[racketeer-influenced-and-corrupt-organizations-act|RICO]] investigations.[4] He released the declassified [[peter-strzok|Strzok]]–[[lisa-page|Page]] emails showing that [[james-comey|Comey]]'s [[fbi|FBI]] had planned to trap [[michael-flynn|Michael Flynn]] into a false statement in order to have him fired, gave them to Flynn's new defence counsel [[sidney-powell|Sidney Powell]], and used them as the basis for dropping the criminal case as evidence of bias and entrapment.[4] Lange also states Barr handed declassified documents to select members of Congress investigating the conspiracy, making them public and driving the narrative war on a "slow drip > flood" cadence.[4] These claims reflect Badlands Media interpretation rather than established fact.
+
+4. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history

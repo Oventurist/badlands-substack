@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [elections, narrative-warfare, information-war, 2024-election]
-sources: [raw/badlands-news-brief-a71.md]
+sources: [raw/badlands-news-brief-a71.md, raw/the-biggest-boomerang-in-history.md]
 confidence: medium
 ---
 
@@ -30,3 +30,11 @@ She faulted the piece for omitting [[hunter-biden|Hunter Biden]], a scandal she 
 
 ## References
 1. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71
+
+## The 2016 reopening of the Clinton email investigation
+
+"[[the-biggest-boomerang-in-history|The Biggest Boomerang In History]]" applies the term to [[james-comey|James Comey]]'s reopening of the criminal investigation into [[hillary-clinton|Hillary Clinton]]'s [[hillary-clinton-private-email-server|private email server]] on October 26, 2016.[2] [[joe-lange|Joe Lange]] recounts that after Comey publicly exonerated Clinton in July 2016, investigators discovered further Clinton emails on [[anthony-weiner|Anthony Weiner]]'s laptop in October — emails present, in his account, because [[huma-abedin|Huma Abedin]] had access to them — and that police involved in the Weiner investigation threatened to go public if the [[fbi|FBI]] did not reopen a criminal inquiry.[2]
+
+Lange calls the resulting reopening the biggest October Surprise in history and holds that it cost Clinton the election, framing it as [[donald-trump|Trump]] using Clinton's own instrument against her.[2] These claims reflect Badlands Media interpretation rather than established fact.
+
+2. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, citizen-journalism, newsletter, substack]
-sources: [raw/coming-soon.md, raw/last-call-for-gart-cocoa-beach.md, raw/death-blossom.md, raw/gart-myrtle-beach-is-almost-here.md, raw/get-woke-go-broke.md, raw/happy-new-year.md, raw/happy-thanksgiving-badlands.md, raw/happy-thanksgiving.md, raw/introducing-badlandsmediatv.md, raw/join-us-again-at-gart-deadwood.md, raw/join-us-in-nashville-for-gart-11.md, raw/last-call-for-gart-2.md, raw/last-call-for-gart-3-irvine.md, raw/kekistani-code-talkers.md, raw/last-call-for-gart-4-dallas.md, raw/last-call-for-gart-az.md, raw/last-call-for-gart-las-vegas.md, raw/join-us-in-deadwood-for-gart-12.md, raw/join-us-in-cocoa-beach-for-gart-10.md, raw/lt-general-steve-kwast-usaf-ret-on.md, raw/last-call-for-gart-plymouth.md, raw/project-trump-card.md, raw/q-for-dummies-chapter-1.md]
+sources: [raw/coming-soon.md, raw/last-call-for-gart-cocoa-beach.md, raw/death-blossom.md, raw/gart-myrtle-beach-is-almost-here.md, raw/get-woke-go-broke.md, raw/happy-new-year.md, raw/happy-thanksgiving-badlands.md, raw/happy-thanksgiving.md, raw/introducing-badlandsmediatv.md, raw/join-us-again-at-gart-deadwood.md, raw/join-us-in-nashville-for-gart-11.md, raw/last-call-for-gart-2.md, raw/last-call-for-gart-3-irvine.md, raw/kekistani-code-talkers.md, raw/last-call-for-gart-4-dallas.md, raw/last-call-for-gart-az.md, raw/last-call-for-gart-las-vegas.md, raw/join-us-in-deadwood-for-gart-12.md, raw/join-us-in-cocoa-beach-for-gart-10.md, raw/lt-general-steve-kwast-usaf-ret-on.md, raw/last-call-for-gart-plymouth.md, raw/project-trump-card.md, raw/q-for-dummies-chapter-1.md, raw/reset-the-space-reset-society.md, raw/soul-governance.md, raw/structures-of-control-part-3.md, raw/thats-not-signature-verification.md]
 confidence: medium
 ---
 
@@ -43,6 +43,21 @@ Badlands Media stages the [[gart|Great American Restoration Tour]] (GART), a tra
 
 In April 2024 the Badlands Brief published [[kekistani-code-talkers|"Kekistani Code Talkers"]] by the contributor Patriots in Progress, an essay on [[cryptography|codes and ciphers]] as instruments of [[information-warfare|information warfare]] and on the claim that [[covfefe|Covfefe]] is both ciphertext and cryptographic key.[13] The piece carries the standard notice that Badlands Media articles and features represent the opinions of the contributing authors and do not necessarily represent the views of Badlands Media itself, alongside the outlet's statement that its content is always free while paid subscriptions support its collective of citizen journalists.[13]
 
+## "The Great Reset the Space" (February 2023)
+
+On February 20, 2023, Badlands Media published [[ashe-in-america|Ashe in America]]'s essay "The Great Reset the Space: A New Frontier for American Community," an account of political and religious community forming on [[twitter-spaces|Twitter Spaces]] after [[elon-musk|Elon Musk]]'s purchase of [[twitter|Twitter]].[24] The essay surveyed worship Spaces, game shows, the organizing work of [[america-mission|America Mission]], and a six-day marathon room, and included the standard notice that Badlands Media articles represent the opinions of contributing authors rather than the outlet itself.[24] The piece also referenced a Badlands-hosted flat earth debate episode of "The Earth Chronicles" as an illustration of the recurring dynamics of the [[flat-earth-debate|flat earth debate]].[24]
+
+## The "Soul Governance" essay
+
+On July 1, 2025 Badlands Media published "Soul Governance: Final Reclamation of Divine Authority from the Thrones That Never Owned You" by the contributor [[observing-consciousness|Observing Consciousness]], writing as Michael.[25] The piece, which received 148 likes, departed from reportage entirely, describing itself as "a transmission, a mirror, a guided remembrance" and advancing the doctrine of [[soul-governance|soul governance]].[25] It carried the outlet's standard disclaimer that Badlands Media articles and features represent the opinions of contributing authors and do not necessarily represent the views of Badlands Media itself, together with the customary appeal that the outlet will always publish its content free while inviting paid subscriptions to help "our collective of citizen journalists take back the narrative from the MSM."[25]
+
+## Structures of Control Part 3
+
+Badlands Media published Part 3 of the *Structures of Control* series on February 22, 2025, appending its standard disclaimer that articles and features represent the opinions of contributing authors and do not necessarily represent the views of Badlands Media itself.[26] The outlet's closing note reiterates that its content is always free while inviting paid subscriptions to support "our collective of citizen journalists" in taking back the narrative from the mainstream media.[26]
+
+## Coverage of the Lake v. Hobbs Count III trial
+
+Badlands Media covered every second of the May 2023 remanded Count III proceedings in [[lake-v-hobbs|Lake v. Hobbs et al.]], with contributor [[ashe-in-america|Ashe in America]] providing analysis of the trial and of Judge [[peter-thompson|Peter Thompson]]'s dismissal of [[kari-lake|Kari Lake]]'s [[signature-verification|signature verification]] claim.[27] The outlet states that its content is always free while inviting paid subscriptions to support its collective of citizen journalists, and notes that its articles and features represent the opinions of the contributing authors rather than of Badlands Media itself.[27]
 
 ## References
 1. Badlands Brief — "Coming soon", URL: https://badlands.substack.com/p/coming-soon
@@ -138,3 +153,7 @@ In December 2023, contributor [[paul-fleuret|Paul Fleuret]] launched [[q-for-dum
 Each installment carries the network's standard disclaimer that Badlands Media articles and features represent the opinions of the contributing authors and do not necessarily represent the views of Badlands Media itself, followed by the standing note that the outlet always publishes its content for free while inviting paid subscriptions to help its collective of citizen journalists "take back the narrative from the MSM."[23]
 
 23. Badlands Brief — "Q for Dummies - Chapter 1", URL: https://badlands.substack.com/p/q-for-dummies-chapter-1
+24. Badlands Media — "The Great Reset the Space: A New Frontier for American Community", raw/reset-the-space-reset-society.md
+25. Badlands Brief — "Soul Governance", URL: https://badlands.substack.com/p/soul-governance
+26. Badlands Brief — "Structures of Control - Part 3", URL: https://badlands.substack.com/p/structures-of-control-part-3
+27. Badlands Brief — "That's Not Signature Verification, Your Honor", URL: https://badlands.substack.com/p/thats-not-signature-verification

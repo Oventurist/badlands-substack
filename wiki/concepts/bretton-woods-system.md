@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [finance, bretton-woods, imf, world-bank, new-deal]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/tariffs-protectionism-and-avoiding.md]
 confidence: medium
 ---
 
@@ -24,5 +24,10 @@ The article states that the Bretton Woods institutions such as the IMF and World
 
 The productive financial architecture of China and its allies is described as having already unleashed over $3 trillion in large-scale infrastructure investment through the [[belt-and-road-initiative|Belt and Road Initiative]], tied increasingly to the [[eurasian-economic-union|Eurasian Economic Union]] and a new financial architecture founded on real-world values as outlined by [[sergey-glazyev|Sergey Glazyev]].[[1]](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
 
+## Destruction in 1971
+
+[[matthew-ehret|Matthew Ehret]] dates the beginning of the post-industrial model to 1971, when the US dollar was removed from the gold reserve system and fixed exchange rates.[2] The shift was ushered in by [[richard-nixon|Richard Nixon]]'s announcement destroying the fixed-exchange-rate Bretton Woods system and replacing it with the "floating rate" system.[2] In the same year the Rothschild [[inter-alpha-group|Inter-Alpha Group]] of banks was formed under the Royal Bank of Scotland.[2] Ehret argues that the spot and futures markets made possible by Bretton Woods' destruction were what allowed [[alan-greenspan|Alan Greenspan]]'s [[derivatives|derivatives]] to be hedged after 1987, setting the financial time bomb whose defusal he says requires a return to [[glass-steagall|Glass-Steagall]].[2]
+
 ## References
 1. Badlands Brief — "A Gateway to a New World of Cooperation", URL: https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation
+2. Badlands Brief — "Tariffs, Protectionism and Avoiding the Risk of Total Failure", URL: https://badlands.substack.com/p/tariffs-protectionism-and-avoiding

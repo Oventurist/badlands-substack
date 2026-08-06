@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [trump, justice-department, classified-documents, special-counsel, 2023]
-sources: [raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-ac7.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-ea0.md, raw/badlands-news-brief-f2b.md]
+sources: [raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-ac7.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-ea0.md, raw/badlands-news-brief-f2b.md, raw/smoke-and-mirrors.md]
 confidence: medium
 ---
 
@@ -89,3 +89,19 @@ In an interview with [[fox-news|Fox News]] reported on 28 June 2023, [[donald-tr
 
 [[burning-bright|Burning Bright]] added a dialectical reading, arguing that attention should be paid to who seeds a given narrative: Trump seeded the "Perfect Phone Call" with [[volodymyr-zelensky|Zelensky]], which boomeranged onto [[joe-biden|Joe Biden]]; he seeded the [[mar-a-lago-raid|Mar-a-Lago raid]], which boomeranged into the Biden documents scandal; and he had now seeded the documents audio.[8]
 8. Badlands Brief — "Badlands News Brief: Trump Trolls, Biden Snaps & Ukraine Fails", URL: https://badlands.substack.com/p/badlands-news-brief-f2b
+
+## "Smoke and Mirrors" analysis (June 16, 2023)
+
+In the essay "Smoke and Mirrors," [[ryan-delarme|Ryan DeLarme]] described the indictment as one of two consequential and likely historic events playing out simultaneously, the other being the [[joe-biden-bribery-allegation|Biden bribery scandal]].[9] He counted 31 counts of violating the [[espionage-act|Espionage Act of 1917]] against [[donald-trump|Donald Trump]], set against [[joe-biden|Joe Biden]], who had not been charged with anything despite being investigated over a bribery scheme with a foreign national that the [[fbi|FBI]] had by then admitted assisting in covering up.[9] The most telling aspect of the dueling stories, he wrote, was the disparity in airtime each received from mainstream outlets.[9]
+
+DeLarme offered two competing lenses: that the entire spectacle is [[kayfabe|kayfabe]] — a staged feud designed to initiate the wider public into what anons had understood for six years — or that a genuine "spook vs spook" information war was under way with deep-state players still fighting back.[9] The article proceeded on the second assumption while repeatedly noting that the first "might actually be the most logical conclusion."[9]
+
+### Prosecutorial flim flam
+
+Under that heading DeLarme argued the [[department-of-justice|Department of Justice]]'s case suffered several defects: the prosecution had been unusually aggressive and observably biased, particularly when compared with its treatment of Biden and [[hillary-clinton|Hillary Clinton]] for what he characterised as far more egregious violations.[9] He invoked Justice [[robert-h-jackson|Robert H. Jackson]]'s 1940 warning about a prosecutor who picks the man first and then searches the law books for an offense, quoting Jackson's account of the danger that "the real crime becomes that of being unpopular with the predominant or governing group."[9] He noted that Special Counsel [[jack-smith|Jack Smith]] had a history of aggressive prosecution and had been reversed 9–0 by the [[supreme-court-of-the-united-states|U.S. Supreme Court]] in the case of Virginia Governor [[robert-mcdonnell|Bob McDonnell]].[9] DeLarme asked whether the DOJ had devolved into little more than "the lawfare arm of the Democrat Party," a form of [[lawfare|lawfare]] previously used against figures such as [[julian-assange|Julian Assange]] and [[chelsea-manning|Chelsea Manning]] but which, he argued, should play out differently against a former president.[9]
+
+### Purpose of the prosecution
+
+DeLarme concluded that even if Trump were again found innocent, the [[deep-state|Deep State]] had already obtained what it needed: a story to keep the Biden bribery scandal out of the news cycle and out of the consciousness of left-of-center voters, and a talking point for the 2024 presidential race about Trump being "the only president in history" to be indicted.[9] He doubted anyone genuinely expected Trump to be imprisoned for 400 years, and suggested that if the affair were kayfabe an actual arrest could form part of the production.[9]
+
+9. Badlands Brief — "Smoke and Mirrors", URL: https://badlands.substack.com/p/smoke-and-mirrors

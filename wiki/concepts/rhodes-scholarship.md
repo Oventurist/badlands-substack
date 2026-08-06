@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [british-empire, education, elite-recruitment, oxford]
-sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-adc.md, raw/canadas-transition-to-collectivist.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-adc.md, raw/canadas-transition-to-collectivist.md, raw/the-british-are-leaving-the-british.md]
 confidence: medium
 ---
 
@@ -26,7 +26,14 @@ Badlands commentary in June 2024 described the Rhodes Scholarship as an iconic m
 
 Griffin wrote that "Scholars and other British educated Canadians are in a unique position to serve Britain through Canada's influence on Washington as a next door neighbor of the United States," and reported that the foreign office of [[lester-b-pearson|Lester B. Pearson]] contained 23 Rhodes Scholars among 183 staff officers — one in every eight.[3] He named Norman A. Robertson, a Rhodes Scholar of Balliol (1923) and Clerk of the Privy Council, as one of the most important figures in Canada's relations with Britain and the United States.[3] Griffin also recorded that when General MacArthur displeased Britain and Canada by his efforts to win the Korean War, Pearson complained that American-Canadian relations had become "difficult and delicate," and MacArthur was fired the next day.[3]
 
+## The Fulton exposés and Cold War policy
+
+A parallel 1951 *Chicago Tribune* series by journalist [[william-fulton|William Fulton]] documented what Ehret calls the cancerous penetration of hundreds of Oxford-trained Rhodes Scholars who had taken over American foreign policy and were directing the country toward a third world war.[4] Writing on July 14, 1951, Fulton reported that "key positions in the United States department of state are held by a network of American Rhodes scholars," educated and indoctrinated at Oxford with the bills paid by the estate of [[cecil-rhodes|Cecil John Rhodes]], who had written of his ambition to cause "the ultimate recovery of the United States of America as an integral part of the British empire" and aimed at a world federation dominated by Anglo-Saxons.[4]
+
+Ehret argues it is no exaggeration to say that many important Cold War events involved the top-down role of Rhodes Scholars, who occupied critical positions in the State Departments of the USA and Canada, the UN bureaucracy and the foundations, and operated with a discipline, enthusiasm and coherence unseen in any modern imperial civil service.[4] He traces this influence from Escott Reid's designs for [[nato|NATO]] two full years before the organization was brought online, to George McGhee's advance of the [[truman-doctrine|Truman Doctrine]], to [[dean-rusk|Dean Rusk]]'s guiding hand behind the Korean War and US support for the French in Vietnam and later American involvement there, to Senator J. William Fulbright's promotion of globalism and a European Union.[4] Wherever a bad idea was born in the postwar years, he writes, there is almost invariably a Rhodes Scholar or "Rhodie" behind it.[4] [[henry-kissinger|Henry Kissinger]] entered this network as a star pupil of William Yandall Elliot, a leading Rhodes Scholar based at Harvard.[4]
+
 ## References
 1. Badlands Brief — "A Re-Alignment of World Systems", URL: https://badlands.substack.com/p/a-re-alignment-of-world-systems
 2. Badlands Brief — "Badlands News Brief: Globalists Panic as Populism Takes Over the Zeitgeist", URL: https://badlands.substack.com/p/badlands-news-brief-adc
 3. Badlands Brief — "Canada's Transition to Collectivist Green Dystopia", URL: https://badlands.substack.com/p/canadas-transition-to-collectivist
+4. Badlands Brief — "The British Are Leaving! The British Are Leaving!", URL: https://badlands.substack.com/p/the-british-are-leaving-the-british

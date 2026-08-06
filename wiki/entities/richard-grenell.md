@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [grenell, diplomacy, venezuela, backchannel, devolution]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-d17.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-cff.md, raw/badlands-news-brief-d56.md, raw/hysteria-and-error.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-d17.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-cff.md, raw/badlands-news-brief-d56.md, raw/hysteria-and-error.md, raw/setting-the-stage.md]
 confidence: medium
 ---
 
@@ -67,3 +67,11 @@ DeLarme presented Grenell as a counterexample to the wave of undifferentiated an
 ## Lawsuit against the DHS Homeland Intelligence Experts Group
 
 Grenell joined [[america-first-legal|America First Legal]] in filing a lawsuit against the [[homeland-intelligence-experts-group|Homeland Intelligence Experts Group]] soon after the [[department-of-homeland-security|Department of Homeland Security]] announced the panel in September 2023, an action that also spurred Republican members of Congress to move against it.[9] The suit alleged that the group violated the [[federal-advisory-committee-act|Federal Advisory Committee Act]] through its lack of balance, the [[joe-biden|Biden]] administration's inappropriate influence, and its lack of public notice and participation.[9] The administration agreed in May 2024 to disband the group and hand over its records, which showed it had treated support for [[donald-trump|Donald Trump]], military service and religious belief as indicators of domestic violent extremism.[9]
+
+## Declassification of the Flynn unmasking list
+
+In "Setting the Stage," Joe Lange credits Grenell, as acting Director of National Intelligence, with a decisive act of [[declas|declassification]].[11] The Hill reported that the Trump administration sent Congress a list of dozens of [[barack-obama|Obama]] administration officials who had requested documents leading to the identity of former national security adviser [[michael-flynn|Michael Flynn]] being unmasked from intelligence reports between the 2016 election and the inauguration.[11] The list amounted to a who's who of Obama-era officials, including then-Vice President Joe Biden, former White House chief of staff Denis McDonough, former FBI Director [[james-comey|James Comey]] and former CIA Director [[john-brennan|John Brennan]].[11] Grenell declassified the list and sent it to Republican Senators Ron Johnson of Wisconsin and Chuck Grassley of Iowa.[11]
+
+Lange treats the release as timed evidence proving that Obama officials were illegally spying on Flynn through the classified intelligence database, and stresses that the dates on the unmasking requests preceded Flynn's phone call with Russian ambassador [[sergey-kislyak|Sergey Kislyak]] — which he reads as proof that the surveillance drove the entrapment rather than responding to it.[11]
+
+11. Badlands Brief — "Setting the Stage", URL: https://badlands.substack.com/p/setting-the-stage

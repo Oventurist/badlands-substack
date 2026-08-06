@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [fbi, russiagate, counterintelligence, 2016-election]
-sources: [raw/badlands-brief-195.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-c6a.md, raw/durham-continues-to-reveal-previously.md, raw/disinformation-is-necessary.md]
+sources: [raw/badlands-brief-195.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-c6a.md, raw/durham-continues-to-reveal-previously.md, raw/disinformation-is-necessary.md, raw/setting-the-stage.md, raw/the-biggest-boomerang-in-history.md]
 confidence: medium
 ---
 
@@ -61,3 +61,19 @@ Lange argues the special counsel phase was intended to blockade disclosure of Cr
 5. Badlands Brief — "SCOTUS Examines Slushy Subsidies as Speaker Weighs Abolishing Courts", URL: https://badlands.substack.com/p/badlands-news-brief-c6a
 6. Badlands Brief — "Durham Continues To Reveal Previously Undisclosed SpyGate Evidence", URL: https://badlands.substack.com/p/durham-continues-to-reveal-previously
 7. Badlands Brief — "Disinformation is Necessary", URL: https://badlands.substack.com/p/disinformation-is-necessary
+
+## Bowdich and the leadership question
+
+"Setting the Stage" raises the position of [[david-bowdich|David Bowdich]], the FBI's associate deputy director from April 2016 and therefore its number-three official throughout the Crossfire Hurricane period, who is never named among the officials fired or removed as conspirators.[8] Joe Lange notes that Bowdich was instead promoted to deputy director by [[christopher-wray|Christopher Wray]] after [[andrew-mccabe|Andrew McCabe]] stepped down, and later retired with full benefits.[8]
+
+Bowdich was among the senior colleagues [[james-comey|James Comey]] said he had told about [[donald-trump|Trump]]'s alleged request to drop the [[michael-flynn|Flynn]] investigation, making him a potential witness in an obstruction-of-justice case, and Senator [[dianne-feinstein|Dianne Feinstein]] sought his testimony before the Senate Judiciary Committee.[8] Lange's proposed explanation is that Bowdich was a deliberate plant inside the operation, gathering evidence against Comey and McCabe — including emails in which he and Comey discussed the fallout from the [[clinton-lynch-tarmac-meeting|tarmac meeting]] — and mirroring the tactic used against Trump with [[paul-manafort|Paul Manafort]].[8]
+
+8. Badlands Brief — "Setting the Stage", URL: https://badlands.substack.com/p/setting-the-stage
+
+## Treatment in "The Biggest Boomerang In History"
+
+[[joe-lange|Joe Lange]]'s article "[[the-biggest-boomerang-in-history|The Biggest Boomerang In History]]" describes Crossfire Hurricane as the investigation [[james-comey|James Comey]] initiated specifically to trap [[donald-trump|Trump]], and treats Comey's position as an [[barack-obama|Obama]] holdover at the head of the [[fbi|FBI]] as what made it possible.[9] Lange argues it is no coincidence that Comey launched Crossfire Hurricane only after he had been forced to open the criminal investigation into [[hillary-clinton|Hillary Clinton]]'s [[hillary-clinton-private-email-server|private server]] — part of a standing playbook in which an opponent is smeared to muddy the water when allegations cannot be defeated, producing confusion as a distraction.[9]
+
+The declassified [[peter-strzok|Strzok]]–[[lisa-page|Page]] text messages, in his account, shifted media coverage from Trump–Russia collusion to bias inside the Crossfire Hurricane investigation.[9] The Inspector General's report into the investigation is also cited as the document that revealed Comey's private Gmail account, linking the probe to the [[gmail-draft-communications|Gmail draft communications]] thread.[9] These claims reflect Badlands Media interpretation rather than established fact.
+
+9. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history

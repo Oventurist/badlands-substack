@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [federal-agency, statistics, surveys, economy]
-sources: [raw/badlands-news-brief-0d4.md, raw/badlands-news-brief-d7a.md]
+sources: [raw/badlands-news-brief-0d4.md, raw/badlands-news-brief-d7a.md, raw/the-accomplishments-of-president-a2b.md]
 confidence: medium
 ---
 
@@ -24,7 +24,11 @@ The proposal was litigated heavily, and the Supreme Court ultimately ruled that 
 
 Badlands host [[chris-paul|Chris Paul]] argued that the true US population is unlikely to be anywhere near 340 million Americans, noting that the census measures total people present in the country regardless of citizenship and that the underlying data is hard to obtain, inaccurate, and subject to manipulation — raising questions about both the fiscal burden and the integrity of elections.[2]
 
-## References
+## 2017 Median Household Income Record
 
+A Census Bureau survey showed the median household income for 2017 reaching a record high, a finding Badlands Media's retrospective on Donald Trump's economic record cited as proof that middle-class American families were on the rise under his administration.[3]
+
+## References
 1. Badlands Brief — "Badlands News Brief: Kangaroo Courts and Administrative Pedophiles", URL: https://badlands.substack.com/p/badlands-news-brief-0d4
 2. Badlands Brief — "Badlands News Brief: Communist Cozenage & A Dictatorial Dmitry", URL: https://badlands.substack.com/p/badlands-news-brief-d7a
+3. Badlands Brief — "The Accomplishments of President Trump - Part 2", URL: https://badlands.substack.com/p/the-accomplishments-of-president-a2b

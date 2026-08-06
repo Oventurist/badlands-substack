@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [badlands-media, consciousness, education, hijacked-consciousness, frequency]
-sources: [raw/hijacked-consciousness-the-silent.md]
+sources: [raw/hijacked-consciousness-the-silent.md, raw/structures-of-control-part-1.md]
 confidence: low
 ---
 
@@ -36,3 +36,11 @@ The stated goal of the frequency war, in the author's account, was to trap the c
 
 ## References
 1. Badlands Brief — "Hijacked Consciousness - The Silent War", URL: https://badlands.substack.com/p/hijacked-consciousness-the-silent
+
+## Frequency in "Structures of Control"
+
+The same author's earlier "Structures of Control" series makes a parallel argument, describing frequency as "the universal currency in the control matrix" and a bridge between the tangible mechanisms of 3D systems and the more abstract manipulations of higher dimensions.[2] Invoking [[nikola-tesla|Nikola Tesla]]'s remark about the numbers 3, 6, and 9, it likens the resonance of control to a 3-6-9 interplay in which inputs (data), outputs (behavior), and overarching systems (narratives) synchronize into a self-reinforcing loop of influence.[2]
+
+Technology nodes are cast as digital keystones amplifying low-frequency narratives, from algorithms feeding polarization and outrage to advertisements targeting insecurity, perpetuating a survival-mode consciousness of fear, scarcity, and division that traps individuals in the reactive [[brainwave-manipulation|beta wave state]].[2] Fear-based media messaging and algorithmic feedback loops keep society fragmented, while educational systems are described as prioritizing compliance over creativity.[2] Sound is presented as dual in nature: [[528-hz|528 Hz]] is credited with promoting coherence and healing, whereas discordant waves from chaotic environments, media noise, or subliminal messaging fragment thought, emotion, and energy.[2] Breaking free is said to require actively seeking resonance with higher frequencies through meditation, intentional media consumption, and creative expression.[2]
+
+2. Badlands Brief — "Structures of Control - Part 1", URL: https://badlands.substack.com/p/structures-of-control-part-1

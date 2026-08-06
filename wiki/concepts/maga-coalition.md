@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [politics, republican-party, foreign-policy, america-first]
-sources: [raw/badlands-brief-c91.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-cfa.md, raw/donald-trump-and-george-washington.md]
+sources: [raw/badlands-brief-c91.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-cfa.md, raw/donald-trump-and-george-washington.md, raw/schisms-in-maga.md]
 confidence: medium
 ---
 
@@ -40,9 +40,16 @@ During the 2024 campaign Trump boasted about the scale of the movement in a podc
 
 Carlson also argued that the shooting gave the movement social permission it had previously lacked: supporters who had concealed their allegiance could declare it openly, and Trump's raised fist and cry of "fight, fight, fight!" served as an instruction to Americans to stop cowering and stand strong and united.[4] He framed the moment as bigger than a four-year election cycle — not the Republicans retaking the [[white-house|White House]] but "the dismantling and rebuilding of an entire new system," and ultimately a spiritual war.[4]
 
+## The November 2025 schism
+
+In an essay published November 18, 2025, Badlands contributor [[ryan-delarme|Ryan DeLarme]] argued that one year after the [[2024-us-general-election|2024 election]] the excitement within the coalition had turned to apprehension and "the greater coalition is in tatters."[5] He excepted a bedrock of ride-or-die devotees who never criticize the administration, but called them only a marginal faction of the whole.[5] His taxonomy divided the coalition into garden-variety Republicans, [[con-inc|Con Inc.]], reluctantly right-leaning libertarians, populist nationalists, Zionists both Christian and otherwise, an anti-war anti-establishment bloc, "content clowns," a "Why Can't We Be Friends" crowd seeking to preserve unity, and Q-informed "cozy popcorn lovers," with a further far-right fringe running from [[nick-fuentes|Nick Fuentes]]'s [[groypers|Groypers]] to neo-Nazi figures such as [[andrew-anglin|Andrew Anglin]] whom he declined to count as coalition members at all.[5]
+
+DeLarme attributed the decline in [[donald-trump|Trump]]'s approval — a record low by mid-November 2025, with independents down more than 20 points and under-30 support below 40 percent — to unmet expectations on inflation and affordability, perceived prioritization of [[israel|Israel]] and foreign aid, confusion over [[ukraine|Ukraine]] and Russia policy, foreign adventurism, the reversal on the [[epstein-files|Epstein files]], and the [[h-1b-visa-program|H-1B]] dispute.[5] He identified foreign policy as the single greatest source of friction, pointing to Trump's outward alignment with establishment Republicans such as [[lindsey-graham|Lindsey Graham]] and with the [[neoconservatives|neoconservative]] milieu of the [[project-for-the-new-american-century|Project for the New American Century]].[5] His conclusion was that the divide could be bridged only from the top, and that continued drift toward what he called the Graham–Adelson axis would shatter the coalition and make 2026 "a bloodbath."[5] The essay is treated in full at [[maga-schism|MAGA Schism]].[5]
+
 ## References
 
 1. Badlands Brief — "Trump Rugs the Deltas with an Early MOU", URL: https://badlands.substack.com/p/badlands-brief-c91
 2. Badlands Brief — "New(ish) Negotiations, NATO Nazis, & Neocon Narrative Nonsense", URL: https://badlands.substack.com/p/badlands-news-brief-410
 3. Badlands News Brief — "Trump Talks Taxes as Deep State Shenanigans Abound", URL: https://badlands.substack.com/p/badlands-news-brief-cfa
 4. Badlands Brief — "Donald Trump and George Washington", URL: https://badlands.substack.com/p/donald-trump-and-george-washington
+5. Badlands Brief — "The MAGA Schism", URL: https://badlands.substack.com/p/schisms-in-maga

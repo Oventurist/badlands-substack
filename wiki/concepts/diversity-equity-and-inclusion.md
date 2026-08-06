@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [dei, corporate-policy, florida, disney]
-sources: [raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-bed.md, raw/badlands-news-brief-d50.md, raw/death-to-dei.md, raw/no-honor-among-thieves.md]
+sources: [raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-bed.md, raw/badlands-news-brief-d50.md, raw/death-to-dei.md, raw/no-honor-among-thieves.md, raw/signal-collapse.md]
 confidence: medium
 ---
 
@@ -83,3 +83,11 @@ Badlands contributor [[erik-carlson|Erik Carlson]] has argued that [[larry-fink|
 Carlson pointed to shareholder pushback through the annual [[shareholder-proxy-voting|proxy vote]] as the emerging counter-force, citing the attempted boardroom mutiny at [[disney|Disney]] and the company's 15% five-year share-price decline against a 74% rise in the S&P 500.[9]
 
 9. Badlands Brief — "No Honor Among Thieves", URL: https://badlands.substack.com/p/no-honor-among-thieves
+
+## DEI as a "frequency virus" (June 2025)
+
+The June 26, 2025 essay "Signal Collapse" by [[observing-consciousness|Observing Consciousness]] characterized DEI in metaphysical rather than policy terms, asserting that "DEI is not a policy — it is a frequency virus" that "hijacks compassion and recodes it into fragmentation," offering tolerance "while demanding submission."[10] The essay placed DEI among the mechanisms of what it called the illusion of choice: "a carousel of identities, genders, parties, opinions… none of them sovereign, all of them pre-approved."[10]
+
+DEI is also listed among the domains — alongside Iran, Ukraine, elections and censorship — in which the essay claims a common pattern becomes visible to the public, at which point "the program collapses," since "what is recognized can no longer control."[10] The framing forms part of the essay's broader account of [[cultural-severance|cultural severance]] and [[fifth-generation-warfare|fifth-generation warfare]].[10]
+
+10. Badlands Brief — "Signal Collapse", URL: https://badlands.substack.com/p/signal-collapse

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [trump-administration, white-house-chief-of-staff, military, 2024-election]
-sources: [raw/badlands-news-brief-5a7.md]
+sources: [raw/badlands-news-brief-5a7.md, raw/the-cia-is-being-thrown-under-the.md]
 confidence: medium
 ---
 
@@ -22,3 +22,11 @@ In July 2023, The Hill reported that Kelly had predicted a second Trump term wou
 
 ## References
 1. Badlands Brief — "Trump Trifecta, COVID Concealment & Sorosian Slime", URL: https://badlands.substack.com/p/badlands-news-brief-5a7
+
+## Cited as a first-term mole (Carlson, 2024)
+
+In "The CIA is Being Thrown Under the Bus," Erik Carlson refers to "traitor John Kelly" as having lied about [[donald-trump|Donald Trump]] calling veterans suckers and losers, complaining that people still believe such claims.[2]
+
+Kelly is listed alongside [[alexander-vindman|Alexander Vindman]] and [[olivia-troye|Olivia Troye]] as figures whose accounts of the first Trump White House Carlson treats as fabrications, and as examples of the internal moles a second Trump administration would exclude.[2]
+
+2. Badlands Brief — "The CIA is Being Thrown Under the Bus", URL: https://badlands.substack.com/p/the-cia-is-being-thrown-under-the

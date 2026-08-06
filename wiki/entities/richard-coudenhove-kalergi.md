@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [pan-europeanism, europe, immigration, kalergi-plan, badlands-media]
-sources: [raw/on-infiltration-and-israel.md]
+sources: [raw/on-infiltration-and-israel.md, raw/shadows-sovereigns-and-civil-wars-e41.md]
 confidence: medium
 ---
 
@@ -26,3 +26,15 @@ Kalergi functions in the article as the hinge between financial history and cont
 
 ## References
 1. Badlands Brief — "On Infiltration and Israel", URL: https://badlands.substack.com/p/on-infiltration-and-israel
+
+## Venetian lineage and the founding of Pan Europa
+
+Matthew Ehret describes Coudenhove-Kalergi as the scion of two ancient Venetian noble families.[2] The Kalergi bloodline came to power during Venice's takeover of the Byzantine possession of Crete after the [[fourth-crusade|Fourth Crusade]] of 1204, and went on to play a prominent role in the affairs of state for the Venetian and then Habsburg empires for the next eight centuries.[2] Of the paternal line the Count wrote that "the Coudenhove line reaches back to the eleventh century, when two brothers Coudenhove joined the first Crusade in 1099," a family of the oldest nobility of Northern Brabant made counts of the Holy Roman Empire at the end of the eighteenth century.[2]
+
+The young Count found himself out of a job once the Austro-Hungarian empire was dismantled after the First World War, a void filled by his new assignment to re-establish himself as a leading oligarch in a renewed feudal world empire.[2] In 1923 he founded the [[pan-european-union|Pan-European Union]], originally conceived as a conservative Catholic umbrella organization against the spread of Bolshevism.[2] Its supporters included [[benito-mussolini|Benito Mussolini]], [[winston-churchill|Winston Churchill]], [[walter-lippmann|Walter Lippmann]], [[hjalmar-schacht|Hjalmar Schacht]] and Karl Haushofer, and it was bankrolled by [[max-warburg|Max Warburg]] and Louis de Rothschild.[2] [[cynthia-chung|Cynthia Chung]] records Kalergi's own account that Warburg, introduced through Baron Louis Rothschild in 1924, donated sixty thousand gold-marks to carry the movement through its first three years.[2]
+
+## Design of the European Union and eugenic doctrine
+
+The very design for the European Union, including the use of Beethoven's Ninth Symphony as its anthem, was first outlined in detail by Kalergi himself, and Ehret suggests it may also have inspired [[miles-guo|Miles Guo]]'s [[new-federal-state-of-china|New Federal State of China]] a century later.[2] In a 1932 speech Kalergi argued that "this eternal war can end only with the constitution of a world republic," to be secured by "a politic of peaceful strength, on the model of the Roman Empire."[2] In 1954 he described the Pan European Union as "a kind of open conspiracy as H.G. Wells described in one of his books."[2] Ehret argues the true religion of this projected elite was a retooled [[eugenics|eugenics]], quoting Kalergi's statement that eugenics "will soon be associated with Nietzsche's world outlook and, through it, gain the striking power of a religion," teaching "the higher breeding of human beings, the exclusion of the less desirable from further reproduction."[2] The organization was later run for over thirty years by [[otto-von-habsburg|Otto von Habsburg]].[2]
+
+2. Badlands Brief — "Shadows, Sovereigns and Civil Wars - Part 2", URL: https://badlands.substack.com/p/shadows-sovereigns-and-civil-wars-e41

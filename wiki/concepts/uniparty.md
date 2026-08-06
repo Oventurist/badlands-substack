@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [congress, politics, uniparty]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-blitz-episode-23.md, raw/badlands-brief-165.md, raw/badlands-brief-1ae.md, raw/badlands-brief-58d.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-a57.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-d6a.md, raw/believe-half-of-what-you-see.md, raw/bernie-sanders-establishment-tool.md, raw/fake-news-until-proven-real.md, raw/from-ye-to-oy-vey.md, raw/nikki-haley-establishment-gops-last.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-blitz-episode-23.md, raw/badlands-brief-165.md, raw/badlands-brief-1ae.md, raw/badlands-brief-58d.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-a57.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-d6a.md, raw/believe-half-of-what-you-see.md, raw/bernie-sanders-establishment-tool.md, raw/fake-news-until-proven-real.md, raw/from-ye-to-oy-vey.md, raw/nikki-haley-establishment-gops-last.md, raw/stay-focused-on-the-big-picture.md]
 confidence: medium
 ---
 
@@ -125,3 +125,9 @@ He cited the Uniparty's banning of [[tiktok|TikTok]] as an example of the coalit
 [[ryan-delarme|Ryan DeLarme]] framed the promotion of [[nikki-haley|Nikki Haley]] in late 2023 as an attempt to restore the traditional election model in which the establishment controlled both general-election candidates, offering voters "the illusion of a choice between two uniparty stooges."[18] He identified the [[barack-obama|Obama]] versus [[mitt-romney|Romney]] race of 2012 as the last such contest before [[donald-trump|Donald Trump]] — who in his account owed no allegiance to the entrenched political network — disrupted the pattern in 2016 and 2020.[18] DeLarme argued that while the [[deep-state|deep state]] retains tools such as ballot removal and election rigging, it would far prefer a [[joe-biden|Biden]] versus Haley matchup that guarantees an establishment outcome either way.[18]
 
 18. Badlands Brief — "Nikki Haley: The Establishment GOP's Last Hope", URL: https://badlands.substack.com/p/nikki-haley-establishment-gops-last
+
+## Carlson's 2024 formulation
+
+In "Stay Focused on the Big Picture," published October 15, 2024, Badlands contributor [[erik-carlson|Erik Carlson]] wrote that in past uniparty elections it had not really mattered whom the [[deep-state|Deep State]] anointed as president, because its agenda would move forward either way.[19] On his account the only practical difference between having a Republican or a Democrat in office was which of the Deep State's agendas — wars or moral decay — would be pushed during that administration.[19] Carlson presented the 2024 election between [[donald-trump|Donald Trump]] and [[kamala-harris|Kamala Harris]] as the exception to that rule, arguing without dramatization that the difference between the two outcomes was monumental.[19]
+
+19. Badlands Brief — "Stay Focused on the Big Picture", URL: https://badlands.substack.com/p/stay-focused-on-the-big-picture

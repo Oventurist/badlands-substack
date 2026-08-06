@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [cia, reagan, iran, nicaragua, covert-operations]
-sources: [raw/badlands-news-brief-50f.md, raw/dollars-dope-and-deception.md, raw/missed-opportunities.md, raw/profiting-from-war.md]
+sources: [raw/badlands-news-brief-50f.md, raw/dollars-dope-and-deception.md, raw/missed-opportunities.md, raw/profiting-from-war.md, raw/shadow-government-exposed.md, raw/school-of-assassins-and-dictators.md]
 confidence: low
 ---
 
@@ -41,3 +41,27 @@ The financing arrangements that produced the affair followed from [[congress|Con
 
 3. Badlands Brief — "Missed Opportunities", URL: https://badlands.substack.com/p/missed-opportunities
 4. Badlands Brief — "Profiting From War", URL: https://badlands.substack.com/p/profiting-from-war
+
+## The Hasenfus shootdown and the "red herring" thesis
+
+The cover-up began to unravel on October 5, 1986, when [[eugene-hasenfus|Eugene Hasenfus]] was captured by Nicaraguan troops after the plane he was flying in was shot down; he had been shipping military supplies into [[nicaragua]] for the Contras, a force created and supported by the U.S. in violation of congressional action stopping the funding and run by the [[central-intelligence-agency|CIA]].[5] The incident caused an immediate firestorm in Washington leading to years of headlines, congressional investigations and Special Counsel prosecutions, and became the biggest stain on the presidency of [[ronald-reagan|Ronald Reagan]].[5]
+
+[[joe-lange|Joe Lange]] argues the standard narrative — that the scandal was about illegal arms sales and arms-for-hostages — is a deliberate "red herring" concealing the real story: that the [[shadow-government]] had already been operating outside congressional oversight and without presidential authorization, and had built independent funding sources beyond congressional control.[5]
+
+## Phone-call evidence
+
+Three sets of phone records, in Lange's telling, exposed the network.[5] [[felix-rodriguez|Felix Rodriguez]], logistics officer for the airlift from [[ilopango-air-base|Ilopango]], called neither the Pentagon nor the CIA when his [[southern-air-transport|Southern Air Transport]] C-123K went missing, but the office of [[donald-gregg|Donald Gregg]], national security adviser to Vice President [[george-hw-bush|George H.W. Bush]].[5] Subpoenas to Southern Air — a Miami airline the CIA had bought for $300,000 in 1960 — revealed its role hauling arms to Iran and supplies to the Contras, and the [[justice-department|Justice Department]] admitted delaying its probe ten days at the request of [[john-poindexter|John Poindexter]].[5] Swiss bank accounts tied to [[oliver-north|Oliver North]] and [[richard-secord|Richard Secord]] drew a Justice Department request for Swiss assistance, and telephone records showed repeated calls to Secord's home from a safe house in El Salvador used by the secret resupply crews.[5]
+
+## Money and impunity
+
+The Tower board reported that at least $32 million from the Iran arms deals and up to $40 million in alleged Contra contributions passed through Secord's accounts, with most of the money's fate unknown.[5] Congressional investigators also uncovered a CIA account in Switzerland holding $250 million donated by the Saudis for the Afghan guerrillas and testimony about roughly $30 million donated for the Contras, none of it traceable — funds Lange links to the secret condition attached to the 1981 [[awacs-sale-to-saudi-arabia|AWACS sale]].[5] Congress granted immunity to North and Poindexter over Special Counsel [[lawrence-walsh|Lawrence Walsh]]'s objections, their convictions were overturned on appeal, and Secord received two years' probation and a $50 fee after pleading guilty to a single count of misleading Congress — leading Lange to call the whole affair a charade and a show trial.[5]
+
+5. Badlands Brief — "Shadow Government Exposed", URL: https://badlands.substack.com/p/shadow-government-exposed
+
+## The Central American supply corridor
+
+Joe Lange's September 2023 article traces the affair's physical infrastructure through the isthmus.[6] In Costa Rica, U.S. Ambassador [[lewis-tambs|Lewis A. Tambs]] helped secure permission for a secret 7,000-foot airstrip built for the Nicaraguan rebels by [[udall-research|Udall Research]], a Panama-based company tied to other firms administering the secret Swiss accounts that funnelled profits from the Iran arms sales; those companies were overseen in part by [[richard-secord|Richard V. Secord]], and the network was revealed when a rebel plane was shot down over Nicaragua in October 1986.[6] Panama itself served as the money-laundering hub, with more than 150,000 foreign-owned companies registered under Swiss-style secrecy rules, among them vehicles for the [[central-intelligence-agency|CIA]], the governments of Cuba and Nicaragua, rebel support organizations and narcotics traffickers.[6]
+
+Lange argues this is why [[manuel-noriega|Manuel Noriega]] — a paid CIA asset who had provided airfields for flying weapons to the [[nicaraguan-contras|Contras]] and drugs into the United States — had to be removed and silenced once Congress began investigating the scandal: his knowledge of U.S. operations in Central America was detailed and highly compromising.[6] He also notes the recurring pattern that many of Central America's corrupt governments had some connection to Iran-Contra, and promised a follow-up article tracing the affair into money laundering and Hezbollah.[6]
+
+6. Badlands Brief — "School of Assassins and Dictators", URL: https://badlands.substack.com/p/school-of-assassins-and-dictators

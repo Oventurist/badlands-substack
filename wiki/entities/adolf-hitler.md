@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [nazi-germany, genetics, history, world-war-ii]
-sources: [raw/badlands-news-brief-066.md, raw/operation-gladio-a-primer.md]
+sources: [raw/badlands-news-brief-066.md, raw/operation-gladio-a-primer.md, raw/real-patriots-dont-think-like-hitler-111.md, raw/real-patriots-dont-think-like-hitler-196.md, raw/real-patriots-dont-think-like-hitler-1b1.md]
 confidence: medium
 ---
 
@@ -28,7 +28,35 @@ Colonel [[roxane-watkins|Roxane Watkins]] writes that Hitler instituted [[stay-b
 
 In her account of the [[fabian-society|Fabian Society]], Watkins presents Hitler as one of the figures through whom the elite broadcast and test-drove favoured models of government, and cites [[antony-sutton|Antony Sutton]]'s finding that the same financial group funded the Bolshevik revolution, Hitler and [[franklin-d-roosevelt|Franklin D. Roosevelt]].[2]
 
-## References
 
+
+## Occult initiation
+
+Matthew Ehret's "Real Patriots Don't Think Like Hitler" series argues that Hitler was himself an occultist, initiated into "The Secret Doctrine" by his personal guru [[dietrich-eckart|Dietrich Eckart]], who boasted in 1923 that he had "opened his centers in vision and given him the means to communicate with the Powers."[3] Hitler praised Eckart by name in the final chapter of *Mein Kampf*.[3] As a young man he was an enthusiastic subscriber to Ostara, the occult journal of [[lanz-von-liebenfels|Lanz von Liebenfels]], founder of the [[new-templar-order|New Templar Order]].[3] Ehret contends that the Nazis suppressed [[freemasonry|Freemasonic]] lodges only because the [[schutzstaffel|SS]]-[[thule-society|Thule Society]] high command had room for a single occult secret society governing Germany.[3] William Ramsay has written that Hitler and [[aleister-crowley|Aleister Crowley]], "the great black magicians of the 20th century," shared worldviews informed by Freemasonry and Theosophy, including the survival of the fittest, the primacy of the human will, and the ideal of a feudal slave state.[3]
+
+## Western financing and the abortion of the Nazi project
+
+In Part 2 of the same series, Ehret argues that Hitler was never "his own man": the machine he led was never fully under his sovereign control, and the financing, the petrochemical, rubber and computing technologies, and the governing ideology of [[eugenics|eugenics]] behind German racial purification all came from outside Germany.[4] Without a network of financiers and industrialists bearing names such as Rockefeller, Warburg, [[montagu-norman|Montague Norman]], Osborn, Morgan, Harriman and Dulles, Ehret writes, fascism would never have been possible as a "solution" to the economic woes of the post-WWI order.[4]
+
+Loans from [[prescott-bush|Prescott Bush]] at [[brown-brothers-harriman|Brown Brothers Harriman]] kept the bankrupt Nazi party afloat in 1932, when German voters instead elected the anti-fascist General [[kurt-von-schleicher|Kurt von Schleicher]] as Chancellor.[4] The 1928 cartel agreement transferring [[standard-oil|Standard Oil]]'s synthetic-fuel patents to [[ig-farben|IG Farben]] allowed German petroleum output to rise from 300,000 tons in 1934 to 6.5 million tons during the war, without which mechanized warfare would have been impossible.[4] Hitler was a devout eugenicist funded by the [[rockefeller-foundation|Rockefeller]] and Carnegie Foundations and by the British establishment, and a devout Malthusian who declared that "the day will certainly come when the whole of mankind will be forced to check the augmentation of the human species."[4]
+
+Describing his January 29, 1935 meeting with Hitler, [[round-table-movement|Round Table]] controller Lord Lothian quoted the Fuhrer's vision of Aryan co-direction of a New World Order in which Germany, England, France, Italy, America and Scandinavia would "prevent their nationals from assisting in the industrializing of countries such as China, and India."[4] When Hitler began to realize that his military machine gave Germany the power to lead that order rather than serve as enforcer for his Anglo masters, a decision was made in London and on Wall Street to abort the plan — hence the concocted scandal forcing the abdication of the pro-Nazi [[edward-viii|Edward VIII]] in 1936 and the replacement of Neville Chamberlain with [[winston-churchill|Winston Churchill]] in 1940.[4]
+
+## Hitler's Aryan Christ and the Reichs Bible
+
+Matthew Ehret's third installment of "Real Patriots Don't Think Like Hitler" argues that, contrary to the belief among some conservative patriots and alt-media influencers that Hitler was a courageous Christian nationalist, the Führer and the broader [[schutzstaffel|SS]] leadership were pagan occultists who despised Christianity.[5] While Hitler used pro-Christian language in public speeches and in *Mein Kampf*, Ehret contends that his actions, private correspondence, rewriting of the Bible, transformation of the church into a tool of national control, and affinity for German paganism point the other way.[5]
+
+The 1939 [[reichs-bible|Reichs Bible]] removed two of the Ten Commandments — the prohibitions on killing and stealing — and added new ones including "honor your Führer and master."[5] The entire Old Testament was removed to sever any connection to Jewish culture, and New Testament passages referencing the Jewish heritage of Jesus or his apostles were rewritten to recast them as Aryan supermen, with one revision claiming Jesus was the product of Mary's tryst with a pure-blooded Roman soldier.[5] The exoteric front for this program was the [[german-christians|German Christians]] movement, whose Berlin leader Dr. Reinhold Kraus demanded the purging of everything "Un-German in worship and confession."[5]
+
+Hitler's private statements are cited at length. On 10 October 1941 he wrote that "Christianity is a rebellion against natural law, a protest against nature," and on 12 July 1941 that "National Socialism and religion cannot exist together… The heaviest blow that ever struck humanity was the coming of Christianity. Bolshevism is Christianity's illegitimate child. Both are inventions of the Jew."[5] On 19 October 1941 he equated Christianity with the plague, saying the ancient world "was so pure, light and serene" because "it knew nothing of the two great scourges: the pox and Christianity."[5] In 1940 he wrote that religions "have no future—certainly none for the Germans" and that nothing would prevent him "from tearing up Christianity root and branch, and annihilating it in Germany."[5] The Prussian SS officer Hermann Rauschning recorded him saying that through the peasantry "we shall really be able to destroy Christianity because there is in them a true religion rooted in nature and blood."[5] His secretary [[martin-bormann|Martin Bormann]] likewise stated in 1941 that "National Socialism and Christianity are irreconcilable."[5]
+
+Christian rituals were rebranded: Christmas became "Jul Fest" after 1933, Santa Claus was depicted as Odin, Mary and Jesus were rendered as blond Aryans, SS "marriage consecrations" (Eheweihe) displaced church weddings, and baptisms gave way to name-giving ceremonies before altars bearing Hitler's portrait.[5] Ehret traces the underlying doctrine to [[helena-blavatsky|Helena Blavatsky]]'s [[theosophy|Theosophy]] and its Germanic offshoot [[ariosophy|Ariosophy]], noting that a young Hitler was a devoted subscriber to [[lanz-von-liebenfels|Lanz von Liebenfels]]'s mystical magazine *Ostara* and arguing that his Darwinism, Nietzscheanism, and eugenics were the material application of a Luciferian conceptual system.[5]
+
+Despite attacking both Christianity and Judaism, Hitler and his fellow Ariosophist and [[thule-society|Thule]] occultists saw value in Christianity and [[zionism|Zionism]] as tools of geopolitical control, with the 1933 [[haavara-agreement|Haavara Agreement]] crafted by [[adolf-eichmann|Adolf Eichmann]] supporting Jewish transfer to British-Mandate Palestine; Ehret regards Hitler's parallel alliance with Grand Mufti Haj Amin al-Husseini as complementary rather than contradictory.[5]
+
+## References
 1. Badlands Brief — "Amplified Antagonism, Phantom Palestinians, & Hitler's Micropenis", URL: https://badlands.substack.com/p/badlands-news-brief-066
 2. Badlands Brief — "Operation Gladio - A Primer", URL: https://badlands.substack.com/p/operation-gladio-a-primer
+3. Badlands Brief — "Real Patriots Don't Think Like Hitler - Part 4", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-111
+4. Badlands Brief — "Real Patriots Don't Think Like Hitler – Part 2: How Western Bankers Created the Nazis", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-196
+5. Badlands Brief — "Real Patriots Don't Think Like Hitler - Part 3: Hitler's Aryan Christ and the Reichs Bible", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-1b1

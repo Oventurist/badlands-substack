@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fundraising, clinton-administration, democratic-party, 1996-campaign]
-sources: [raw/america-for-sale-part-1.md, raw/badlands-brief-245.md, raw/badlands-brief-fcb.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-fa1.md, raw/bernie-sanders-establishment-tool.md]
+sources: [raw/america-for-sale-part-1.md, raw/badlands-brief-245.md, raw/badlands-brief-fcb.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-fa1.md, raw/bernie-sanders-establishment-tool.md, raw/q-for-dummies-chapter-3.md]
 confidence: medium
 ---
 
@@ -69,6 +69,12 @@ A 2023 Badlands Media essay by [[ryan-delarme|Ryan DeLarme]] described the DNC's
 
 [[wikileaks|WikiLeaks]] published nearly 20,000 emails sent or received by a handful of top DNC committee officials and provided an online tool for searching them.[12] WikiLeaks did not identify its source, but the essay stated it is widely believed to have been disillusioned DNC staffer [[seth-rich|Seth Rich]], who was killed shortly after the leak; WikiLeaks founder [[julian-assange|Julian Assange]] appeared to suggest Rich was murdered for his role in it, and a sustained shame campaign has since been directed at anyone alleging foul play.[12] The essay's central charge was that the same party that speaks constantly of "threats to our democracy" rigged its own nominating system so that its preferred candidate would defeat the people's candidate.[12]
 
+## Q drop #19 and urban voter control
+
+Chapter 3 of [[q-for-dummies|Q for Dummies]] reads [[qanon|Q]] drop #19 of November 1, 2017 as concerning what it describes as the DNC's control over the black population.[13] The author's stated explanation is electoral arithmetic: the population in question is concentrated in and around large urban areas and accounts for an enormous share of votes, so that controlling it means controlling those votes and those cities.[13] He alleges that this population is intentionally kept in poverty in order to create dependence on government, which in his account lowers the likelihood of the cycle being recognised and broken.[13]
+
+The chapter argues that the pattern was beginning to break down by late 2023, citing the effect of [[donald-trump|Trump]]'s arrest and mugshot in giving him credibility among communities that saw the same machine attacking him that had attacked them, and pointing to Black Lives Matter figure [[mark-fisher|Mark Fisher]]'s endorsement of Trump as a sign that the narrative was being lost.[13] It closes by naming [[maxine-waters|Maxine Waters]] as the corrupt member of Congress targeted in the drop's final section.[13]
+
 ## References
 
 1. Badlands Brief — "America for Sale - Part 1", URL: https://badlands.substack.com/p/america-for-sale-part-1
@@ -83,3 +89,4 @@ A 2023 Badlands Media essay by [[ryan-delarme|Ryan DeLarme]] described the DNC's
 10. Badlands News Brief — "A Constellation of Corruption & A Goldilocks Galaxy", URL: https://badlands.substack.com/p/badlands-news-brief-a40
 11. Badlands Brief — "Badlands News Brief: Evacuations, Election Theft, & Eternal War", URL: https://badlands.substack.com/p/badlands-news-brief-fa1
 12. Badlands Media — "Bernie Sanders: Establishment Tool", URL: https://badlands.substack.com/p/bernie-sanders-establishment-tool
+13. Badlands Brief — "Q for Dummies - Chapter 3", URL: https://badlands.substack.com/p/q-for-dummies-chapter-3

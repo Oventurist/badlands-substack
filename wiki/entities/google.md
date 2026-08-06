@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [technology, ai, big-tech, badlands-news-brief]
-sources: [raw/badlands-news-brief-001.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-880.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-b65.md, raw/badlands-news-brief-b7b.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-f76.md, raw/badlands-news-brief-f44.md, raw/badlands-news-brief-fcd.md, raw/dark-equation.md, raw/everything-is-connected.md]
+sources: [raw/badlands-news-brief-001.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-880.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-b65.md, raw/badlands-news-brief-b7b.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-f76.md, raw/badlands-news-brief-f44.md, raw/badlands-news-brief-fcd.md, raw/dark-equation.md, raw/everything-is-connected.md, raw/spear-of-justice.md]
 confidence: medium
 ---
 
@@ -97,6 +97,10 @@ In June 2025 Google struck a deal to buy 200 megawatts of [[fusion-power|fusion 
 
 Badlands contributor Joe Lange describes Google as a company that was created as a CIA spy operation, and argues that cofounder [[eric-schmidt|Eric Schmidt]] used that relationship to help install [[central-intelligence-agency|CIA]] computer systems abroad — three in [[north-korea|North Korea]] and four in [[armenia|Armenia]].[21] He treats Google search statistics as corroborating evidence, noting that Armenia ranked as the top country in the world for searches on "qanon" and attributing the anomaly to CIA operators using the Armenian machines to wage a narrative war against [[qanon|Q]] and the anon movement rather than to genuine Armenian public interest.[21]
 
+## Texas $1.375 Billion Privacy Settlement (2025 analysis)
+
+An August 2025 Badlands Media essay grouped Texas Attorney General [[ken-paxton|Ken Paxton]]'s $1.375 billion settlement with Google alongside his $1.4 billion settlement with [[meta-platforms|Meta]] as strikes against what it called the "narrative machines" of the modern battlespace.[22] The author argued the monetary payouts were secondary to compliance provisions that oblige the platforms to file recurring reports on data collection, movement, and monetization, turning previously opaque systems into monitored utilities and standing intelligence streams.[22] The essay said these disclosures are being analyzed continuously with advanced analytics rather than simply filed away, and that once such conditions are written into precedent they become "the new gravity in the information battlespace."[22]
+
 ## References
 
 1. Badlands Media — "Badlands News Brief: FOX Guarding the Hen House?", URL: https://badlands.substack.com/p/badlands-news-brief-001
@@ -143,3 +147,4 @@ Former Google chief executive [[eric-schmidt|Eric Schmidt]] is described as chai
 
 20. Badlands Brief — "Dark Equation", URL: https://badlands.substack.com/p/dark-equation
 21. Badlands Brief — "Everything Is Connected", URL: https://badlands.substack.com/p/everything-is-connected
+22. Badlands Brief — "Spear of Justice: Ken Paxton and the Bleeding Edge", URL: https://badlands.substack.com/p/spear-of-justice

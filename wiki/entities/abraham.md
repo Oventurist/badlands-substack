@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [abrahamic-religions, mecca, kaaba, monotheism]
-sources: [raw/arabian-nights.md]
+sources: [raw/arabian-nights.md, raw/real-patriots-dont-think-like-hitler.md]
 confidence: medium
 ---
 
@@ -26,5 +26,10 @@ Abraham is believed to have settled in Mecca, constructing a stone sanctuary on 
 
 All three major religions record that Abraham and his wife Sarah, childless, were visited at age 86 by three angels who told them they would bear a son.[[1]](https://badlands.substack.com/p/arabian-nights) Before hearing their news, Abraham received them with warm hospitality, washing their feet and feeding them his best bread, milk, and finest calf — paying forward the kindness he had received from strangers while traveling after his exile by Nimrod.[[1]](https://badlands.substack.com/p/arabian-nights) Hashim and all Islamic scholars since have held this behavior up as exemplary.[[1]](https://badlands.substack.com/p/arabian-nights)
 
+## The aborted sacrifice of Isaac
+
+[[matthew-ehret|Matthew Ehret]] treats the Old Testament story of Abraham — who was prevented from murdering his son Isaac by an intervention of God — as one of the most effective interventions against child sacrifice in the ancient world.[2] Devoid of that historical context, the demand for blind obedience appears horrific; understood as an intervention into occultism, Ehret argues, the meaning and effect of the story take on a wholly different character.[2] The mythical stone on which Abraham nearly sacrificed his son is today located beneath the "Holy of Holies" known as the [[dome-of-the-rock|Dome of the Rock]] on the [[temple-mount|Temple Mount]], the same rock excavated by Sir [[charles-warren|Charles Warren]], who believed it to be the altar upon which the blood of mass sacrifice victims of Israel's ancient pagan cult system had flowed.[2] Ehret places Abraham's story within a wider biblical campaign against sacrifices to [[molech|Molech]] and Baal for which, he writes, neither the Jews nor the later followers of Jesus were ever forgiven by the sorcerers of the mystery cults.[2]
+
 ## References
 1. Badlands Brief — "Arabian Nights", URL: https://badlands.substack.com/p/arabian-nights
+2. Badlands Brief — "Real Patriots Don't Think Like Hitler - Part 1", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler

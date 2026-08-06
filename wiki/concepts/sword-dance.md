@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [saudi-arabia, donald-trump, 2017, qanon, symbolism]
-sources: [raw/arabian-nights.md, raw/badlands-news-brief-ba8.md, raw/badlands-news-brief-f6f.md]
+sources: [raw/arabian-nights.md, raw/badlands-news-brief-ba8.md, raw/badlands-news-brief-f6f.md, raw/q-for-dummies-chapter-9.md]
 confidence: medium
 ---
 
@@ -30,3 +30,8 @@ During the [[2025-trump-gulf-tour|2025 Trump Gulf tour]], commentators described
 1. Badlands Brief — "Arabian Nights", URL: https://badlands.substack.com/p/arabian-nights
 2. Badlands Brief — "Badlands News Brief: Hopium for Health AI, Hulk on Hunter, & A Happy WHO Adieu", URL: https://badlands.substack.com/p/badlands-news-brief-ba8
 3. Badlands Brief — "Another Ardah, Optimus Prance, & the Right Deal Arms", URL: https://badlands.substack.com/p/badlands-news-brief-f6f
+4. Badlands Brief — "Q for Dummies - Chapter 9", URL: https://badlands.substack.com/p/q-for-dummies-chapter-9
+
+## Treatment in "Q for Dummies" Chapter 9
+
+Chapter 9 of the Badlands series [[q-for-dummies|Q for Dummies]] raises the sword dance while working through Q drop #71, noting that [[donald-trump|Trump]] was greeted in [[saudi-arabia|Saudi Arabia]] with a red carpet and a sword dance.[4] The chapter calls the tradition highly regarded in the Kingdom and draws a contrast with earlier American leaders, observing that Obama, Biden and Clinton never received a sword dance and that Trump was also given a red carpet none of the others received.[4] The passage sits within the chapter's wider argument that the Saudi leadership emerging from the 2017 [[saudi-purge|purge]] was signalling a new alignment with the United States.[4]

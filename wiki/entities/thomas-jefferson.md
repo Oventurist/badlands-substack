@@ -1,10 +1,10 @@
 ---
-title: Thomas Jefferson
+title: "Thomas Jefferson"
 created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [history, founding-fathers, democratic-party, france]
-sources: [raw/cultural-warfare-and-the-american.md, raw/do-we-have-a-contract-with-the-federal.md, raw/god-and-the-declaration-of-independence.md, raw/is-the-federal-reserve-a-british.md]
+sources: [raw/cultural-warfare-and-the-american.md, raw/do-we-have-a-contract-with-the-federal.md, raw/god-and-the-declaration-of-independence.md, raw/is-the-federal-reserve-a-british.md, raw/the-battle-for-control.md]
 confidence: low
 ---
 
@@ -44,3 +44,13 @@ In a letter to William Johnson of June 6, 1823, Jefferson described the original
 Writing to Gideon Granger on April 16, 1804, Jefferson predicted that the federalists, knowing they were gone forever, would return to power under another form by dividing the republicans, joining the minority and bartering for "the cloak of their name," so that "a bastard system of federo-republicanism will rise on the ruins of the true principles of the revolution."[4] Badlands Media treats this [[bastard-system-of-laws|"bastard system"]] as the key to understanding how a privately owned corporation became the nation's central bank.[4] The essay also notes that during Jefferson's presidential campaign the opposition press frequently smeared him as an atheist, which the author finds ironic given Jefferson's direct reference to God in the [[declaration-of-independence|Declaration of Independence]] as the source of all inalienable rights.[4]
 
 4. Badlands Brief — "Is the Federal Reserve a British Institution?", URL: https://badlands.substack.com/p/is-the-federal-reserve-a-british
+
+## Opposition to the First Bank of the United States
+
+Badlands Media contributor [[joe-lange|Joe Lange]] identifies Jefferson as the leader of the opposition to the [[first-bank-of-the-united-states|First Bank of the United States]], the country's first central bank.[5] Jefferson argued that the federal government had no authority under the Constitution to create a national bank that was also a privately owned corporation, while [[alexander-hamilton|Alexander Hamilton]] countered that the Constitution did not specifically deny the power.[5] Lange treats this exchange as the very beginning of the struggle over whether the Constitution limits federal power over the states, and as the beginning of the corruption of a document written to limit the federal government.[5]
+
+Jefferson also feared that a national bank would create a financial monopoly that might undermine state banks and adopt policies favoring financiers and merchants, who tended to be creditors, over plantation owners and family farmers, who tended to be debtors — an institution clashing with his vision of the United States as a chiefly agrarian society rather than one based on banking, commerce and industry.[5] Despite the opposition, Hamilton's bill cleared both chambers and President [[george-washington|George Washington]] signed it in February 1791.[5]
+
+Lange argues that Jefferson was right, answering yes to each of the questions of whether the [[federal-reserve|Federal Reserve]] has become a financial monopoly, undermines local banks in favor of Wall Street, and caters to creditors over debtors.[5] He predicts a future Supreme Court case in which Jefferson's constitutional argument becomes the winning argument and the Federal Reserve is declared unconstitutional.[5] In Lange's reading Jefferson clearly saw the difference between the two classes of people and feared the federal government siding with the elite over the majority.[5] When the First Bank's charter came up for renewal in 1811, the Jefferson side won the vote and the bank was dissolved.[5]
+
+5. Badlands Brief — "The Battle for Control", URL: https://badlands.substack.com/p/the-battle-for-control

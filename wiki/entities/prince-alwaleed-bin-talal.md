@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [saudi-arabia, lebanon, jeddah, finance, cia]
-sources: [raw/a-conflict-of-interest.md, raw/a-dereliction-of-duty.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-1.md, raw/arabian-nights.md, raw/bad-actors.md, raw/badlands-news-brief-a82.md, raw/profiting-from-war.md, raw/q-for-dummies-chapter-18.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-dereliction-of-duty.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-1.md, raw/arabian-nights.md, raw/bad-actors.md, raw/badlands-news-brief-a82.md, raw/profiting-from-war.md, raw/q-for-dummies-chapter-18.md, raw/q-for-dummies-chapter-9.md]
 confidence: low
 ---
 
@@ -69,3 +69,10 @@ Chapter 18 of the [[q-for-dummies|Q for Dummies]] series recalls that "Prince Do
 7. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
 8. Badlands Brief — "Profiting From War", URL: https://badlands.substack.com/p/profiting-from-war
 9. Badlands Brief — "Q for Dummies - Chapter 18", URL: https://badlands.substack.com/p/q-for-dummies-chapter-18
+10. Badlands Brief — "Q for Dummies - Chapter 9", URL: https://badlands.substack.com/p/q-for-dummies-chapter-9
+
+## Introduced as the first HUMA connection
+
+Chapter 9 of the [[q-for-dummies|Q for Dummies]] series introduces Alwaleed at the point where Q's "Follow HUMA" instruction is first unpacked.[10] Asked who HUMA is connected to, the chapter answers "Prince Al Waleed Bin Talal, to start," and tells readers that this connection is "gonna become REALLY relevant over the next 2-3 chapters of this series" — a forward reference to the series' later treatment of [[huma-harvard-university-muslim-alumni|the Harvard University Muslim Alumni]], [[barack-obama|Barack Obama]]'s schooling and the prince's November 5, 2017 arrest.[10]
+
+The mention is brief and functions mainly as a signpost; Chapter 9 itself concentrates on the [[saudi-purge|Saudi purge]] as it was unfolding and on the flow of Saudi money into American institutions rather than on Alwaleed's individual role.[10]

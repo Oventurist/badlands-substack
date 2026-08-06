@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [crew, ethics, colorado-ballot, dhs, lawfare]
-sources: [raw/badlands-news-brief-d5c.md]
+sources: [raw/badlands-news-brief-d5c.md, raw/the-danger-to-their-democracy.md]
 confidence: medium
 ---
 
@@ -26,6 +26,9 @@ CREW under Bookbinder brought the case that culminated in the [[colorado-supreme
 
 Badlands writer [[paul-fleuret|Paul Fleuret]] treated the Bookbinder–DHS connection as unsurprising confirmation that the Colorado litigation was politically driven, describing the state supreme court's decision as "arguably the most disgusting miscarriage of justice" of his adult life and characterizing the proceeding as lawfare rather than genuine adjudication.[1]
 
+In a January 1, 2024 essay, [[badlands-media|Badlands Media]] contributor [[ryan-delarme|Ryan DeLarme]] singled out Bookbinder as "very eager to take credit" for the [[colorado-ballot-disqualification-case|Colorado ruling]], writing that reading his statement "almost makes me physically ill."[2] DeLarme argued that figures such as Bookbinder had spent years believing themselves the sole guardians of American democracy, a conviction he said was used to justify censoring the internet, imprisoning [[donald-trump|Trump]], jailing his supporters in prolonged solitary confinement, criminalizing the Trump movement as insurrectionary, and finally removing him from ballots so that a majority of American voters could not vote for him.[2]
+
 ## References
 
 1. Badlands Media — "Badlands News Brief: Colorado Fallout (and Exposure) Continues", URL: https://badlands.substack.com/p/badlands-news-brief-d5c
+2. Badlands Brief — "The 'Danger to Their Democracy'", URL: https://badlands.substack.com/p/the-danger-to-their-democracy

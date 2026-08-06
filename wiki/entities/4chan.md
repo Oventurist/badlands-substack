@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [imageboard, social-media, platform-liability, litigation]
-sources: [raw/badlands-news-brief-c1e.md, raw/q-for-dummies-chapter-1.md, raw/q-for-dummies-chapter-17.md]
+sources: [raw/badlands-news-brief-c1e.md, raw/q-for-dummies-chapter-1.md, raw/q-for-dummies-chapter-17.md, raw/q-for-dummies-chapter-4.md]
 confidence: medium
 ---
 
@@ -34,3 +34,9 @@ Drop #112 also opens with Q's instruction that archiving is important, a point t
 1. Badlands Brief — "Badlands News Brief: Weaponization, Willis, and World War III", URL: https://badlands.substack.com/p/badlands-news-brief-c1e
 2. Badlands Brief — "Q for Dummies - Chapter 1", URL: https://badlands.substack.com/p/q-for-dummies-chapter-1
 3. Badlands Brief — "Q for Dummies - Chapter 17", URL: https://badlands.substack.com/p/q-for-dummies-chapter-17
+
+## Precursor anon threads
+
+Chapter 4 of the [[q-for-dummies|Q for Dummies]] series discusses 4chan as the venue for the anon threads that preceded the [[q-operation|Q]] drops.[4] Responding to Q's repeated statements in drop #26 about the unmatched scope of the drops, the author says he can confirm the claim from personal experience, having been present for the FBIAnon, MegAnon, [[pizzagate|Pizzagate]] and HLIAnon threads and others on the board.[4] He judges that some of those threads turned out to be LARPs while FBIAnon and Pizzagate were not, and offers the opinion that some of them were the Q Team testing the waters before the operation proper began.[4]
+
+4. Badlands Media — "Q for Dummies - Chapter 4", URL: https://badlands.substack.com/p/q-for-dummies-chapter-4

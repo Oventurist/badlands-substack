@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cia, military, mccain-institute, intelligence]
-sources: [raw/hes-not-a-war-hero.md]
+sources: [raw/hes-not-a-war-hero.md, raw/the-biggest-boomerang-in-history.md]
 confidence: medium
 ---
 
@@ -22,3 +22,11 @@ The Badlands article highlights the presence of the sitting head of the CIA at t
 
 ## References
 1. Badlands Brief — "He's Not A War Hero", URL: https://badlands.substack.com/p/hes-not-a-war-hero
+
+## The Gmail drafts revelation
+
+"[[the-biggest-boomerang-in-history|The Biggest Boomerang In History]]" cites a 2012 Politico report that Petraeus, then the former [[central-intelligence-agency|CIA]] director, and his biographer Paula Broadwell conducted their extramarital correspondence using an email technique favoured by Al Qaeda: rather than sending messages, the two shared an account and left notes in the drafts folder, each reading, deleting and replacing them so as to avoid creating a traceable email trail.[2] Politico noted that PBS's "Frontline" had reported the tactic's use by Al Qaeda and other terrorist groups as early as 2005.[2]
+
+[[joe-lange|Joe Lange]] treats the episode as the moment the public first learned of [[gmail-draft-communications|Gmail drafts]], and argues it is no coincidence that a CIA director knew the technique — suggesting the agency most likely taught it to Al Qaeda.[2] These claims reflect Badlands Media interpretation rather than established fact.
+
+2. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history

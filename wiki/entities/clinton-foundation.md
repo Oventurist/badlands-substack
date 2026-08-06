@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [clinton, donations, uranium, disclosure, corruption]
-sources: [raw/america-for-sale-part-3.md, raw/america-for-sale-part-2.md, raw/bad-actors.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-a15.md, raw/infiltration-not-invasion.md, raw/q-for-dummies-chapter-11.md, raw/q-for-dummies-chapter-12.md, raw/q-for-dummies-chapter-2.md]
+sources: [raw/america-for-sale-part-3.md, raw/america-for-sale-part-2.md, raw/bad-actors.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-a15.md, raw/infiltration-not-invasion.md, raw/q-for-dummies-chapter-11.md, raw/q-for-dummies-chapter-12.md, raw/q-for-dummies-chapter-2.md, raw/q-for-dummies-chapter-9.md, raw/the-biggest-boomerang-in-history.md, raw/the-bridge-3c3.md, raw/the-biggest-cover-up-in-american.md]
 confidence: medium
 ---
 
@@ -93,3 +93,35 @@ Drop #89 addressed the foundation directly, stating that the [[fbi|FBI]] and Mil
 ## Q for Dummies Chapter 2
 
 Badlands' "Q for Dummies" Chapter 2 argues that [[james-comey|James Comey]] closed the [[hillary-clinton|Clinton]] email investigation because investigations into the Clinton Foundation were running at the same time, and that those inquiries concerned drug and human trafficking and "a myriad of other crimes" of greater significance than the email case.[11] The chapter also states that the Foundation "was heavily involved with the UN in Haiti."[11]
+
+## Q for Dummies Chapter 9: Saudi donations
+
+Chapter 9 of the series names the Clinton Foundation first among the recipients of what it calls dirty Saudi money identified in Q drop #70, alongside the [[mccain-institute|McCain Institute]], the [[pelosi-foundation|Pelosi Foundation]] and Senator [[chuck-schumer|Chuck Schumer]], and reads the grouping as Q's demonstration that compromised individuals exist on both sides of the aisle.[12] It states that during 2015–16 [[saudi-arabia|Saudi Arabia]] donated more than $10 million to the foundation, and that [[hillary-clinton|Hillary Clinton]]'s defeat wasted that money and left behind donors who had been banking on her victory.[12]
+
+In the chapter's reading of drop #71, the foundation sits at the centre of Q's question about who connects Clinton and the foundation to Saudi Arabia; the answer given is [[huma-abedin|Huma Abedin]], by way of her family's ties to the [[muslim-brotherhood|Muslim Brotherhood]].[12] The author generalises the point later in the same installment, writing that following the money shows how corrupt most such "foundations" are and that most are used primarily as slush funds and laundromats.[12]
+
+12. Badlands Brief — "Q for Dummies - Chapter 9", URL: https://badlands.substack.com/p/q-for-dummies-chapter-9
+
+## The DLA Piper laundering allegation
+
+In "[[the-biggest-boomerang-in-history|The Biggest Boomerang In History]]," [[joe-lange|Joe Lange]] cites Big League Politics for the claim that the law firm [[dla-piper|DLA Piper]] prepares the Foundation's taxes and performed its 2015 audit — presented publicly as independent — after the Clinton Foundation scandal broke, and that the firm is among [[hillary-clinton|Hillary Clinton]]'s top ten all-time career campaign donors.[13] [[peter-comey|Peter Comey]], brother of FBI Director [[james-comey|James Comey]], is identified as the DLA Piper executive who oversaw that audit.[13]
+
+Q drop 4782 of September 28, 2020, quoted in the article, sets out a four-step pattern in which the family of a "supporter" is hired by a Foundation-engaged law firm, the Foundation "donates" funds of primarily foreign origin to that firm under nominally legal payments, DLA Piper pays the family member salary and bonuses, and value is then transferred back to the supporter.[13] Lange identifies James Comey as the supporter and calls the arrangement a convoluted web of money laundering concealing [[pay-for-play|pay to play]] schemes.[13]
+
+The article further records, via Breitbart, that [[lockheed-martin|Lockheed Martin]] became a Foundation donor and Clinton Global Initiative member in 2010 — the year it paid Comey more than $6 million and won 17 contract approvals from Clinton's [[state-department|State Department]] — and that [[hsbc|HSBC Holdings]], whose board Comey joined in 2013, routinely partners with the Foundation.[13] These claims reflect Badlands Media interpretation rather than established fact.
+
+13. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history
+
+## Ukraine as largest donor
+
+Q drop 3611 of November 20, 2019 stated as fact that [[ukraine|Ukraine]] is "the single largest Clinton Foundation donor," framing the relationship under the heading "QUID PRO QUO - internal alarm [how to frame/defend]" and pointing to a non-public Podesta email.[14] Badlands writer Joe Lange uses the drop to explain why the [[podesta-group|Podesta Group]] lobbied for the Ukrainian government, describing a team operation in which the firm signed a foreign client, lobbied the [[state-department|State Department]] run by [[hillary-clinton|Hillary Clinton]], taxpayer money was disbursed, and the client kicked funds back to the foundation.[14] The same template, in his account, applied to [[moldova|Moldova]] under [[vlad-plahotniuc|Vlad Plahotniuc]]; the claim is interpretive rather than documented.[14]
+
+14. Badlands Brief — "The Bridge", URL: https://badlands.substack.com/p/the-bridge-3c3
+
+## Uranium One money flows and the RICO theory
+
+Senator [[chuck-grassley|Chuck Grassley]]'s October 2017 release stated that the FBI's confidential informant possessed information about payments made by Russian executives to a U.S. entity that supported [[bill-clinton|Bill Clinton]]'s foundation while the [[uranium-one-deal|Uranium One deal]] was under review.[15] The Hill reported an eyewitness account, backed by documents, indicating that Russian nuclear officials routed millions of dollars to the United States designed to benefit the foundation during the period when [[hillary-clinton|Hillary Clinton]] served on the government body that approved the transaction — material that the eventual court case against [[vadim-mikerin|Vadim Mikerin]] never mentioned.[15]
+
+[[joe-lange|Joe Lange]] also names [[alwaleed-bin-talal|Prince Alwaleed bin Talal]] as the foundation's largest contributor, and argues that the foundation investigation, the [[uranium-one-deal|Uranium One]] investigation and the [[steele-dossier|Dossier]] investigation are a single interconnected [[racketeer-influenced-and-corrupt-organizations-act|RICO]] case assigned to [[john-huber|John Huber]].[15]
+
+15. Badlands Brief — "The Biggest Cover-up in American History", URL: https://badlands.substack.com/p/the-biggest-cover-up-in-american

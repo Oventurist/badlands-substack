@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [congress, gop, maga, speaker, mike-johnson]
-sources: [raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-254.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-c07.md, raw/badlands-news-brief-d73.md, raw/badlands-news-brief-e96.md, raw/badlands-news-brief-ff6.md]
+sources: [raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-254.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-c07.md, raw/badlands-news-brief-d73.md, raw/badlands-news-brief-e96.md, raw/badlands-news-brief-ff6.md, raw/right-the-ship.md, raw/the-chosen-one.md]
 confidence: high
 ---
 
@@ -100,3 +100,21 @@ As the race for Speaker unfolded in October 2023, Senate Republicans split betwe
 MAGA-aligned populists instead rallied behind Representative [[jim-jordan|Jim Jordan]] (R-OH), who enjoyed the robust endorsement of former President [[donald-trump|Donald Trump]].[11] Championed as a "fighter," Jordan was praised by supporters for his unyielding stance against opposition and his dedication to disrupting Washington's established order, symbolizing an assertive, defiant GOP unafraid of unbridled confrontation.[11] The unresolved contest also delayed decisions on a potential large Ukraine aid package, which the White House said would wait until a speaker was seated, expected that Wednesday.[11]
 
 11. Badlands News Brief — "Escalation Abroad, Subversion at Home ...", URL: https://badlands.substack.com/p/badlands-news-brief-ff6
+
+## Contemporary commentary: narrative reading of the January 2023 contest
+
+The January 2023 contest for the Speaker's gavel — the fifteen-ballot fight that preceded [[kevin-mccarthy|Kevin McCarthy]]'s election — was read by [[badlands-media|Badlands Media]] contributor [[burning-bright|Burning Bright]] as an exercise in narrative rather than mere procedure.[12] Writing in "Right the Ship" on January 12, 2023, he characterized the Speaker timeline as memetic and dramatic, with "kayfabian deployments by charismatic and memorable public figures" and bombastic turns from every faction, from the recognized [[uniparty|Uniparty]] establishment to the more "extreme" wings within [[congress|Congress]].[12] The result, he argued, was that a normally rote and boring political event was imprinted on the public mind in a bipartisan, embarrassing and yet highly effective and impactful manner.[12]
+
+He noted that a statement issued by [[donald-trump|Donald Trump]] during the episode referred to the whole affair as an "event," in quotation marks, and took that framing as assurance that Trump and his allies were in control of the proceedings regardless of the eventual outcome.[12] Burning Bright further observed that the episode served as a reminder to the truth community that a Narrative War was playing out above and below the political, administrative and legal war, and that America First and GOP House committees were already beginning to make concrete moves off the back of it.[12]
+
+12. Badlands Brief — "Right the Ship", URL: https://badlands.substack.com/p/right-the-ship
+
+## "Watching a movie": the January 2023 contest as staged drama
+
+[[badlands-media|Badlands Media]] contributor [[joe-lange|Joe Lange]] wrote in January 2023 that the political drama surrounding the choice of a new Speaker was "one of the most incredible shows we have seen in a long time," and admitted that he, like many observers, had been fooled about what was actually happening.[13] He said he had known that [[donald-trump|Donald Trump]] wanted [[kevin-mccarthy|Kevin McCarthy]] and that McCarthy would ultimately become Speaker, but had been "completely wrong" about [[matt-gaetz|Matt Gaetz]]'s motivations, initially believing Gaetz was grandstanding for personal political gain.[13]
+
+Lange interpreted Trump's repeated use of the words "GOOD" and "GREAT" in Truth Social posts during the standoff as deliberate signalling, and highlighted that Trump posted one such message on January 4 — the same calendar date as a [[qanon|Q]] post from five years earlier reading "Good movie. Great actors."[13] From this he concluded that Trump "was trying to tell us we were watching a movie," and praised Gaetz, [[marjorie-taylor-greene|Marjorie Taylor Greene]], McCarthy and Trump for their performances.[13]
+
+He argued that the vote was purposely delayed so that McCarthy's election came just after midnight on January 7 and in the fifteenth round, with "everyone" getting what they wanted.[13] In his reading the drama was used to expose how the House had been run under [[nancy-pelosi|Nancy Pelosi]] and, through negotiation — "the art of the deal" — to restructure House business and return power to rank-and-file members.[13] Lange concluded that "there is no doubt now that Trump was directing the whole play," consistent with his broader claim that Trump and the military exercise far more control over events than is publicly recognized.[13]
+
+13. Badlands Brief — "The Chosen One", URL: https://badlands.substack.com/p/the-chosen-one

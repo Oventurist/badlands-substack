@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fdr, us-president, new-deal, four-freedoms, anti-colonialism]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/cracks-in-the-curtain.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/cracks-in-the-curtain.md, raw/real-patriots-dont-think-like-hitler-196.md, raw/real-patriots-dont-think-like-hitler-d42.md]
 confidence: medium
 ---
 
@@ -28,6 +28,22 @@ The author notes the irony that Roosevelt's Four Freedoms are now being advanced
 
 A separate Badlands Media essay focuses on Roosevelt's monetary policy, noting that on April 5, 1933, through [[executive-order-6102|Executive Order 6102]], he forbade "the hoarding of gold coin, gold bullion, and gold certificates within the continental United States."[2] The author, [[justin-deschamps|Justin Deschamps]], describes the order as unconstitutional and as an open display of tyranny for those able to grasp what was happening, noting that it rested on the authority of the [[trading-with-the-enemy-act-of-1917|Trading with the Enemy Act of 1917]] and the [[emergency-banking-act-of-1933|Emergency Banking Act]] signed in March 1933.[2] The episode is presented as evidence that a [[gold-standard|gold standard]] offers no protection when the ruling class can simply prohibit gold's use as [[money|money]] during economic trouble.[2]
 
+## The war against the fascist Wall Street establishment
+
+[[matthew-ehret|Matthew Ehret]] presents Roosevelt as the central anti-fascist figure of the era, writing that the pro-fascist Wall Street establishment had been losing a war that began the day he was elected in 1932.[3] Their attempted February 1933 assassination failed, and their [[business-plot|1934 coup d'état plans]] were thwarted by General [[smedley-butler|Smedley Butler]].[3] Between 1933 and 1939 FDR imposed sweeping reforms on the banking sector, thwarted a major attempt to create a global bankers' dictatorship under the [[bank-for-international-settlements|Bank for International Settlements]], and mobilized a broad recovery under the New Deal.[3]
+
+In a 1938 speech Roosevelt reminded Congress of the nature of fascism: "the liberty of a democracy is not safe if the people tolerate the growth of private power to a point where it becomes stronger than their democratic state itself. That, in its essence, is fascism – ownership of government by an individual, by a group, or by any other controlling private power."[3] He warned that "a concentration of private power without equal in history is growing," impairing both employment and the equitable distribution of income.[3] The isolationism of Wall Street's [[american-liberty-league|American Liberty League]] became political suicide only after Japan's 1941 attack on Pearl Harbor.[3]
+
+Ehret argues that although America's entry into the war proved decisive in destroying the fascist machine, the vision shared by Roosevelt, [[henry-wallace|Henry Wallace]] and their allies across America, Canada, Europe, China and Russia — of a world governed by large-scale development and win-win cooperation — did not come to pass.[3] By the end of 1945 the [[truman-doctrine|Truman Doctrine]] and the Anglo-American "special relationship" had replaced FDR's anti-colonial vision, and his closest allies, including Wallace and [[harry-dexter-white|Harry Dexter White]], were the first targets of the anti-communist witch hunt.[3] Ehret closes by arguing that the anti-fascist spirit of Roosevelt survives in modern anti-imperialists such as [[vladimir-putin|Vladimir Putin]] and [[xi-jinping|Xi Jinping]] and in the [[belt-and-road-initiative|Belt and Road Initiative]], and that a chance remains "to finally win World War II."[3]
+
 ## References
 1. Badlands Brief — "A Gateway to a New World of Cooperation", URL: https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation
 2. Badlands Brief — "Cracks in the Curtain", URL: https://badlands.substack.com/p/cracks-in-the-curtain
+3. Badlands Brief — "Real Patriots Don't Think Like Hitler – Part 2: How Western Bankers Created the Nazis", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-196
+
+
+## Wartime confrontation with Nazi fifth columns
+
+As Assistant Secretary of the Navy, Roosevelt led the service that in July 1917 ordered the demolition of [[nikola-tesla|Nikola Tesla]]'s [[wardenclyffe-tower|Wardenclyffe Tower]], acting on naval intelligence reports that "German spies were using the big wireless tower" to communicate with German intelligence.[4] As president he oversaw the prosecution of [[george-sylvester-viereck|George Sylvester Viereck]], who served five years in prison between 1942 and 1947 for his pro-Nazi activities; the conspiracy writer [[eustace-mullins|Eustace Mullins]] later denounced this as the persecution of a friend by "the insane cripple, Franklin Delano Roosevelt."[4] [[matthew-ehret|Matthew Ehret]] argues that with Roosevelt's death on 12 April 1945, followed by those of his allies Harry Hopkins, [[harry-dexter-white|Harry Dexter White]] and [[james-forrestal|James Forrestal]], the truth about America's fascist fifth columns was never allowed to come to light, and the same networks were redeployed through the [[world-anti-communist-league|World Anti-Communist League]] and [[operation-gladio|Operation Gladio]].[4]
+
+4. Badlands Brief — "Real Patriots Don't Think Like Hitler - Part 5: Nazi Fifth Columns in America", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-d42

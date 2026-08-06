@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [lobbying, podesta-group, mueller, ukraine, manafort]
-sources: [raw/disinformation-is-necessary.md, raw/q-for-dummies-chapter-8.md]
+sources: [raw/disinformation-is-necessary.md, raw/q-for-dummies-chapter-8.md, raw/the-bridge-3c3.md]
 confidence: medium
 ---
 
@@ -35,3 +35,10 @@ The chapter also notes that Q's earlier reference to Podesta's attorney being no
 ## References
 1. Badlands Brief — "Disinformation is Necessary", URL: https://badlands.substack.com/p/disinformation-is-necessary
 2. Badlands Brief — "Q for Dummies - Chapter 8", URL: https://badlands.substack.com/p/q-for-dummies-chapter-8
+3. Badlands Brief — "The Bridge", URL: https://badlands.substack.com/p/the-bridge-3c3
+
+## Fundraising and foreign agency
+
+Tony Podesta co-founded Podesta Associates with his brother John in 1988 and built the firm's influence by becoming a major Democratic donor and bundler, contributing more than $1.2 million to campaigns of politicians the firm lobbied and raising many millions more from wealthy friends and interested clients.[3] Some of his 2016 fundraisers for [[hillary-clinton|Hillary Clinton]] were headlined by campaign chairman John Podesta, and hacked emails showed him pressing his brother on a Puerto Rico client's behalf while John served in the Obama White House.[3]
+
+A March 2016 filing under the [[foreign-agents-registration-act|Foreign Agents Registration Act]] recorded Tony Podesta as an active foreign agent of the Saudi government, working with the Center for Studies and Media Affairs at the Saudi Royal Court and acting as an officer of the Saudi Arabia account, with the [[podesta-group|Podesta Group]] reportedly receiving $140,000 per month.[3] In August 2017 the firm additionally registered as an agent for the [[saudi-american-public-relation-affairs-committee|Saudi American Public Relation Affairs Committee]] at $50,000 per month.[3] After the [[paul-manafort|Manafort]] indictment named the firm "Company B," Tony stepped down, and six days after Q drop 67 described the Podesta plane being diverted on November 3, 2017, he ceased the firm's operations with almost no warning to staff.[3]

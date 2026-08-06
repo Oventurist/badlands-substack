@@ -1,5 +1,0 @@
-## In "Heroes of the Great Awakening"
-
-Badlands Media's February 2023 essay "Heroes of the Great Awakening" invokes the Information War to explain the pace of disclosure in the present era, describing "a world in which so much has been hidden from us and so much is revealed month after month in the Information War."[n] The author argues that this environment makes even improbable beliefs — such as the claim that [[jfk-jr|JFK Jr.]] is alive — unsurprising as expressions of a deeper narrative truth.[n]
-
-The essay characterises the conflict as fundamentally nonviolent and media-based: "nowadays our 'bullets' take the form of articles, songs and videos," distributed on [[substack|Substack]] and [[rumble|Rumble]] because censorship is "the weapon being used against dissidents in the current era."[n] It presents the objective as offering a choice — "Freedom vs. Tyranny" — to "a select group of change-makers," and cites the [[twitter|Twitter]] "Flippening" as evidence that mainstream audiences are beginning to hear "that there is more than one narrative."[n]

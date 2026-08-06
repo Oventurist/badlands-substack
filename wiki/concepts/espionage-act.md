@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [law, classified-documents, national-security, prosecution]
-sources: [raw/badlands-news-brief-208.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-ea0.md]
+sources: [raw/badlands-news-brief-208.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-ea0.md, raw/rainbow-color-revolution.md, raw/smoke-and-mirrors.md]
 confidence: medium
 ---
 
@@ -48,3 +48,21 @@ Badlands commentary in June 2023 held that the [[department-of-justice|Justice D
 Senator [[tom-cotton|Tom Cotton]] argued that [[donald-trump|Donald Trump]] should not be prosecuted "on a stretch case or novel legal theories or an edge case," while [[ashe-in-america|Ashe in America]] wrote that the DOJ was doing exactly that — accusing a former president of violating the Espionage Act over a dispute about "documents with classified markings."[5] [[johnny-q|Johnny Q]] contended the statute was not fitting at all, since no espionage had occurred "other than the spying that occurred on a candidate and sitting president in 2016."[5]
 
 5. Badlands Brief — "Badlands News Brief: Trump's Trap, Putin's Play & Woke's Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-ea0
+
+## Cited as evidence of a domestic color revolution
+
+Writing in June 2023, [[erik-carlson|Erik Carlson]] pointed to [[donald-trump|Donald Trump]]'s indictment under the Espionage Act as a direct parallel to the treason conviction of [[mohammad-mosaddegh|Mohammad Mosaddegh]] after the [[1953-iranian-coup|CIA-backed coup in Iran]], treating the prosecution as the legal endpoint of what he called a domestic [[color-revolution|color revolution]].[6]
+
+6. Badlands Brief — "Rainbow Color Revolution", URL: https://badlands.substack.com/p/rainbow-color-revolution
+
+## Scope and historical application (DeLarme, June 2023)
+
+In his June 16, 2023 essay "Smoke and Mirrors," [[ryan-delarme|Ryan DeLarme]] wrote that the Espionage Act was enacted by [[congress|Congress]] at the outset of World War I to prohibit "obtaining information, recording pictures, or copying descriptions of any information relating to the national defense with intent or reason to believe that the information may be used for the injury of the United States or to the advantage of any foreign nation."[7] He argued the statute has historically been employed only rarely by law-and-order conservatives, or else used to squash dissenting rhetoric during wartime.[7]
+
+DeLarme stressed two features of the Act that he considered decisive. First, it rarely pertains to actual espionage: although 18 U.S.C. § 794 does address spying for foreign governments and carries a maximum sentence of life imprisonment, that provision is almost never the basis for a prosecution, the notable exceptions being [[jonathan-pollard|Jonathan Pollard]], who leaked classified information to Israel in 1987, and [[aldrich-ames|Aldrich Ames]], the [[cia|CIA]] officer who proved to be a double agent for the Soviet KGB.[7] Far more often, as in the Trump case, the law is applied to the unauthorized gathering, possessing, or transmitting of sensitive government information.[7] Second, a violation does not require any intention to aid a foreign power, which in DeLarme's account leaves the statute open to creative use by whichever regime occupies the [[white-house|White House]] against its adversaries.[7]
+
+## Obama-era expansion
+
+DeLarme identified a significant uptick in the Act's use during the administration of [[barack-obama|Barack Obama]], describing it as that administration's "weapon of choice" against national security leakers and whistleblowers.[7] He quoted [[cnn|CNN]]'s [[jake-tapper|Jake Tapper]]: "The Obama administration has used the Espionage Act to go after whistleblowers who leaked to journalists ... more than all previous administrations combined."[7] Named targets included [[julian-assange|Julian Assange]], [[edward-snowden|Edward Snowden]], CIA officer [[john-kiriakou|John Kiriakou]] — sentenced to 30 months in federal prison — and Army private [[chelsea-manning|Chelsea Manning]], sentenced to 35 years, of which she served seven before Obama commuted the sentence.[7] Against that record DeLarme asked how the charges against [[donald-trump|Donald Trump]] could arrive at a theoretical exposure of 400 years, attributing the disparity to the absence of ordinary checks and balances once the [[deep-state|Deep State]] has resolved to remove a target at all costs.[7]
+
+7. Badlands Brief — "Smoke and Mirrors", URL: https://badlands.substack.com/p/smoke-and-mirrors

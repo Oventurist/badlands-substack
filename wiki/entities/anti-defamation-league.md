@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ngo, watchdog, censorship, advertising-pressure]
-sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-b53.md, raw/badlands-news-brief-b7b.md, raw/badlands-news-brief-f0b.md, raw/from-ye-to-oy-vey.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-b53.md, raw/badlands-news-brief-b7b.md, raw/badlands-news-brief-f0b.md, raw/from-ye-to-oy-vey.md, raw/the-anti-dissent-league.md]
 confidence: medium
 ---
 
@@ -70,6 +70,32 @@ The same piece argued that the ADL later turned the same machinery on [[elon-mus
 
 Carlson's broader thesis was that the ADL is not primarily concerned with protecting Jewish people but is "100% Deep State," existing to advance [[deep-state|Deep State]] narratives.[9] By conspicuously shielding Jews from criticism, he argued, the organization generates a [[streisand-effect|Streisand Effect]] that amplifies the myth that Jews run the world, thereby diverting scrutiny from what he called the Cabal's real puppet masters.[9]
 
+## Founding and historical mission
+
+The Anti-Defamation League was founded in 1913 by a lawyer named Sigmund Livingston, and was originally known as the Anti-Defamation League of B'nai B'rith.[10] Its primary historical focus was fighting anti-Semitism, and it was long regarded as a noble civil-rights organisation that spoke for the interests of the Jewish community as a whole rather than only for donors aligned with the liberal establishment.[10] Under longtime national director Abe Foxman the group largely remained true to those historical priorities.[10]
+
+## Partisan shift under Greenblatt
+
+Under [[jonathan-greenblatt|Jonathan Greenblatt]], a former Obama administration staffer, the ADL has been criticised for behaving more as a left-leaning pressure group than as a non-partisan anti-Semitism watchdog.[10] The Jewish columnist Bethany Mandel noted that the ADL under Greenblatt removed the words "anti-Semitism" from its mission statement, part of an observable leftward mission shift that expanded the group's scope to attacking anything the political establishment deemed "hateful."[10] Writing in the [[new-york-post|New York Post]] in 2016, Alex VanNess argued that Greenblatt had steered the organisation "onto a partisan course at odds with this core mission," and the paper's editorial board wrote that the ADL "has essentially become another J Street — an arm of the Democratic Party's stable of pressure groups."[10]
+
+Criticism of the group is not inherently anti-Semitic: Isi Leibler, former vice president and board of trustees chairman of the [[world-jewish-congress|World Jewish Congress]], faulted Greenblatt for "tilting the ADL policy away from its primary mandate of combating anti-Semitism and steering it toward partisan social action issues."[10] In a [[newsweek|Newsweek]] op-ed, the Jewish lawyer Ron Coleman — a former ADL legal intern — wrote that the organisation "has become part of a great online censorship machine" and that, like the [[american-civil-liberties-union|ACLU]] and the [[naacp|NAACP]], it is now "merely a tax-exempt cadre of the national Democratic Party."[10] [[glenn-greenwald|Glenn Greenwald]] similarly said that combating antisemitism "is only the marketing costume or pretext it uses to wield power."[10]
+
+Badlands Media argues that by 2016 the ADL had transformed into one of the primary enforcers of the western [[censorship-regime|censorship regime]] built out after Brexit and [[donald-trump|Donald Trump]]'s presidency, and that its true objective is to advance Democratic Party interests and eliminate populist dissent by labelling dissenters "anti-Semitic" or "extremist" — in effect treating dissent as defamation.[10]
+
+## Confrontation with Musk over X
+
+In September 2023 the ADL's conflict with [[elon-musk|Elon Musk]] escalated after Greenblatt posted a tweet that Badlands Media characterised as an extortive, veiled threat: the unspoken warning being that the ADL would brand [[x-twitter|X]] a vector of hate speech and thereby make it radioactive to advertisers, while promising praise if the company "addressed hate effectively."[10] Musk had earlier drawn ADL condemnation for likening [[george-soros|George Soros]] to the X-Men villain Magneto, which the group called "dangerous" speech in May 2023.[10]
+
+Responding to a tweet by Eva Vlaardingerbroek noting that #BanTheADL was trending, Musk floated running a public poll on the organisation and raised the prospect of a defamation lawsuit against it.[10] The ADL replied that it was "unsurprised yet undeterred that anti-Semites, white supremacists, conspiracy theorists and other trolls have launched a coordinated attack on our organization."[10] On the [[all-in-podcast|All-In Podcast]], Musk said the organisation had been instrumental in getting President Donald Trump removed from the platform.[10] Badlands Media notes that the ADL boycott of X caused a significant dip in western advertising revenue.[10]
+
+## Financial deplatforming
+
+The ADL's leverage extends beyond boycotts and character assassination to financial attack.[10] [[reuters|Reuters]] reported in 2021 that [[paypal|PayPal]] was partnering with the ADL to investigate how extremist and hate movements exploit financial platforms, an initiative led through the ADL's Center on Extremism and focused on disrupting financial flows to white supremacist and anti-government organisations, with the resulting information shared with other financial firms, law enforcement and policymakers.[10] Badlands Media reads this as creating a pretext to target dissenters of establishment dogma, and notes that similar pressure has led fundraising platforms such as [[gofundme|GoFundMe]] and Patreon to freeze funds of reader-funded outlets — most recently GoFundMe's freeze on [[the-grayzone|The Grayzone]] in August 2023.[10]
+
+## Trivialisation of antisemitism
+
+The article contends that the current ADL leadership has undone the work of preceding generations by trivialising the term "anti-Semitic," citing the claim that merely acknowledging George Soros risks the label while direct criticism of the right-wing Jewish donor [[sheldon-adelson|Sheldon Adelson]] draws no comparable response.[10] Visible antisemitism, it argues, is largely confined to fringe message boards such as the Daily Stormer, bot-infested comment sections, and proxy groups like [[blood-tribe|Blood Tribe]], all amplified to justify the ADL's power; it cites an [[npr|NPR]] report from 2018 that roughly 30 percent of anti-Semitic online "attacks" came from bot accounts.[10] The piece places the ADL alongside the ACLU, the NAACP, the [[human-rights-campaign|Human Rights Campaign]] and the [[southern-poverty-law-center|SPLC]] as politically weaponised institutions, and anticipates that [[media-matters|Media Matters]] would brand such criticism anti-Semitic.[10]
+
 ## References
 
 1. Badlands Brief — "5GW Counter-Offensive - The Censorship Regime and the Road to 2024", URL: https://badlands.substack.com/p/5gw-counter-offensive-the-censorship
@@ -81,3 +107,4 @@ Carlson's broader thesis was that the ADL is not primarily concerned with protec
 7. Badlands Brief — "Badlands News Brief: Victory Over Nazis & The First American Pope", URL: https://badlands.substack.com/p/badlands-news-brief-b7b
 8. Badlands Brief — "Badlands News Brief: Musk vs. the ADL, Truth Social's Future & More", URL: https://badlands.substack.com/p/badlands-news-brief-f0b
 9. Badlands Brief — "From Ye to Oy Vey!", URL: https://badlands.substack.com/p/from-ye-to-oy-vey
+10. Badlands Brief — "The Anti-Dissent League", URL: https://badlands.substack.com/p/the-anti-dissent-league

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [china, ccp, communism, infiltration]
-sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-news-brief-efd.md, raw/biden-inc-flips.md, raw/empires-enigma.md, raw/glimpses-into-hell-part-2.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-news-brief-efd.md, raw/biden-inc-flips.md, raw/empires-enigma.md, raw/glimpses-into-hell-part-2.md, raw/stay-focused-on-the-big-picture.md]
 confidence: low
 ---
 
@@ -44,3 +44,9 @@ The article states that from 2013 to 2017 Xi waged a highly public war on Party 
 The [[journal-of-democracy|Journal of Democracy]] is quoted contrasting this with the era of [[hu-jintao|Hu Jintao]], who "let senior CCP figures govern their own policy domains and build their own patronage networks," and describing his "collective leadership" as a division of responsibilities meant to prevent arbitrary decision-making by a single top leader.[4] [[burning-bright|Burning Bright]] argues that these changes may represent the systematic removal of legacy globalist corruption from the Party rather than mere autocracy, while acknowledging the real evils committed by the CCP and the tragedy of a Chinese labour force transformed into a slave class for foreign iPhone manufacturers after the suffering inflicted by Maoist leaders.[4]
 
 4. Badlands Brief — "Empire's Enigma", URL: https://badlands.substack.com/p/empires-enigma
+
+## Alleged control of US political figures (Carlson, 2024)
+
+In an October 15, 2024 Badlands feature, [[erik-carlson|Erik Carlson]] argued that [[joe-biden|Joe Biden]] has been a CCP puppet for some time, citing the Biden family's business dealings with China.[6] He wrote that [[tim-walz|Tim Walz]] likewise appeared to have been a CCP asset for decades, having first visited China in 1989 and returned many times since, and asserted there was strong evidence the CCP controlled and funded the 2020 [[black-lives-matter|BLM]] and [[antifa|ANTIFA]] riots that began in Minnesota under Walz's governorship.[6] Carlson asked whether the CCP had forced the [[deep-state|Deep State]] to add Walz to the 2024 Democratic ticket to replace one controlled asset with another after Biden's removal, before offering the alternative theory that [[xi-jinping|Xi Jinping]], allegedly allied with [[donald-trump|Donald Trump]], arranged the pick so that Walz's past would be exposed too late in the campaign to be undone.[6]
+
+6. Badlands Brief — "Stay Focused on the Big Picture", URL: https://badlands.substack.com/p/stay-focused-on-the-big-picture

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [journalism, independent-media, commentary]
-sources: [raw/a-cancer-on-modern-journalism.md]
+sources: [raw/a-cancer-on-modern-journalism.md, raw/the-censorship-war-counteroffensive.md]
 confidence: low
 ---
 
@@ -16,3 +16,8 @@ Greenwald is quoted as saying: "I don't know what happened to David Brock, I don
 
 ## References
 1. Badlands Brief — "A Cancer on Modern Journalism", URL: https://badlands.substack.com/p/a-cancer-on-modern-journalism
+2. Badlands Brief — "The Censorship War - Counteroffensive", URL: https://badlands.substack.com/p/the-censorship-war-counteroffensive
+
+## Coverage of the Brazilian censorship dispute
+
+Greenwald, whose reporting is widely read by Brazilian audiences, analyzed [[rumble|Rumble]]'s December 2023 withdrawal from [[brazil|Brazil]] and the underlying censorship orders of Justice [[alexandre-de-moraes|Alexandre de Moraes]] on his program System Update, which is carried on Rumble.[2] See [[censorship-war|Censorship War]].[2]

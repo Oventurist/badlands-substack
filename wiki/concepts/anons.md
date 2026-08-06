@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [citizen-journalism, q-movement, open-source-intelligence, badlands-media]
-sources: [raw/biden-inc-flips.md, raw/expand-your-thinking.md, raw/q-for-dummies-chapter-1.md, raw/q-is-real-because-math-says-so.md]
+sources: [raw/biden-inc-flips.md, raw/expand-your-thinking.md, raw/q-for-dummies-chapter-1.md, raw/q-is-real-because-math-says-so.md, raw/q-is-our-best-fren.md]
 confidence: low
 ---
 
@@ -45,3 +45,11 @@ To that end it pointed anons to the website [[decoding-symbolism|Decoding Symbol
 In "Q is Real, Because Math Says So" (June 27, 2024), [[american-hypnotist|American Hypnotist]] argues that the [[q-operation|drops]] were never meant for a general audience but were a gift to anons specifically, because anons possess the intellectual wherewithal to look beneath the surface of things and the ability to render complex coded intelligence into a form others can digest — Q himself having said the boards were chosen for a reason.[4] Because the drops are read simultaneously by anons and by the opposition, the author reasons, Q must speak in riddles, and it falls to anons to use [[q-proofs|Q proofs]] to separate the real message from the cover story.[4]
 
 The essay closes by casting anon work as consequential rather than hobbyist: if Q is real, then assembling the "comms" and broadcasting the findings online is a genuine service to America and one of the most important things a person could be doing with their time, a role the author describes as an invitation to participate in the [[5g-war|5G battle]].[4]
+
+## Anons as society's white blood cells
+
+"Q is Our Best Fren" (March 25, 2025) casts anons, truthers, Patriots and independent citizen journalists — together with sound elements of the military and law enforcement — as the components of society's immune system in an extended [[societal-immune-response|immune-response metaphor]].[5] Anons are identified specifically as the relay mechanism by which the updated instructions for recognising the [[cabal]] are distributed, a function the essay says [[qanon|Q]]'s method of coded posting made possible despite the pathogen's capture of ordinary communication channels.[5]
+
+The same essay argues that the drops produced a self-selected "counter intelligentsia" of anons: those who did the work of assembling the jigsaw puzzle rather than seeking quick profit, and who remained through years of coverage the author calls utterly fake, while the wider public assumed the subject had been debunked.[5] Their activities are described as largely indecipherable to outsiders but expected to prove crucial in helping mankind identify the parasites in its midst and weather [[the-storm|The Storm]].[5] The puzzle-solving itself is presented as a form of cognitive rehabilitation that strengthens the probative faculty of whoever attempts it.[5]
+
+5. Badlands Brief — "Q is Our Best Fren", URL: https://badlands.substack.com/p/q-is-our-best-fren

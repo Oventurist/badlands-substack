@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ukraine, russia, information-war, symbolism]
-sources: [raw/badlands-brief-835.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-280.md, raw/badlands-news-brief-3c3.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-4bb.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-b39.md]
+sources: [raw/badlands-brief-835.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-280.md, raw/badlands-news-brief-3c3.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-4bb.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-b39.md, raw/rainbow-color-revolution.md]
 confidence: low
 ---
 
@@ -72,3 +72,9 @@ Kyiv mayor [[vitali-klitschko|Vitali Klitschko]] is himself associated with the 
 7. Badlands Brief — "Badlands News Brief: MORE Shooter Shenanigans ... and TrumpaMania Reigns", URL: https://badlands.substack.com/p/badlands-news-brief-4cb
 8. Badlands Brief — "Badlands News Brief: Contempt, Combat Tactics and Cuts?", URL: https://badlands.substack.com/p/badlands-news-brief-70a
 9. Badlands Brief — "Biden Says Stuff as Nazis Circle in Ukraine", URL: https://badlands.substack.com/p/badlands-news-brief-b39
+
+## Alleged CIA origin in 2014
+
+[[erik-carlson|Erik Carlson]] wrote that the "Azov Nazis" were created during the 2014 [[euromaidan|Ukrainian color revolution]] through [[central-intelligence-agency|CIA]] training and money, and were used to generate chaos and instability and subsequently to implement control in Ukraine.[10] He placed their creation alongside allegations of paid violent protesters and CIA snipers shooting from tall buildings during the same events.[10]
+
+10. Badlands Brief — "Rainbow Color Revolution", URL: https://badlands.substack.com/p/rainbow-color-revolution

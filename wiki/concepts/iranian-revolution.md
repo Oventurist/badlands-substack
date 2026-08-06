@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [iran, revolution, cia, islamism, oil]
-sources: [raw/badlands-news-brief-24e.md, raw/does-the-cia-still-control-iran.md]
+sources: [raw/badlands-news-brief-24e.md, raw/does-the-cia-still-control-iran.md, raw/signal-collapse.md]
 confidence: medium
 ---
 
@@ -35,3 +35,11 @@ Blinken later attributed the failure of American regime-change efforts in Iran t
 
 He compared belief that a group of protestors could permanently overthrow a CIA-controlled country to belief that protestors with sledgehammers ended the Soviet Union at the Berlin Wall, where no snipers fired, in contrast to Ukraine in 2014 where snipers picked off demonstrators because, in his reading, the [[deep-state|Deep State]] needed chaos to break a pro-Putin government.[2]
 2. Badlands Brief — "Does the CIA Still Control Iran?", URL: https://badlands.substack.com/p/does-the-cia-still-control-iran
+
+## 1979 as "ritualized hijacking" (June 2025)
+
+The June 26, 2025 Badlands essay "Signal Collapse" treated the 1979 revolution not as domestic political upheaval but as "a ritualized hijacking," claiming that "Iran's ancient cultural soul was decapitated" that year and replaced by "a costumed priesthood installed by both Eastern and Western interests."[3] What was removed, the author argued, "was not just leadership — it was frequency," and what was installed "was not just ideology — it was interference."[3]
+
+On this reading 1979 belongs to a recurring template of [[cultural-severance|cultural severance]] alongside [[euromaidan|Ukraine's Maidan]] and what the essay calls America's 2020 color revolution — each publicly justified, each televised, each designed to dislodge a collective identity.[3] The essay framed the [[2025-iran-protests|2025 unrest]] as the reversal of that event: a "cultural soul retrieval" and remembering of "the pre-1979 field… before the hijack, before the trance, before the severance," described as re-inhabitation rather than revolution.[3]
+
+3. Badlands Brief — "Signal Collapse", URL: https://badlands.substack.com/p/signal-collapse

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [president, american-history, civil-war, american-system]
-sources: [raw/avoiding-wwiii.md, raw/combating-the-transhumanist-religion.md, raw/in-defense-of-abraham-lincoln-and.md]
+sources: [raw/avoiding-wwiii.md, raw/combating-the-transhumanist-religion.md, raw/in-defense-of-abraham-lincoln-and.md, raw/q-for-dummies-chapter-3.md, raw/shadows-sovereigns-and-civil-wars.md]
 confidence: medium
 ---
 
@@ -44,7 +44,21 @@ Beyond the dangers of secession, Lincoln had to contend with Wall Street financi
 
 Ehret attributes Lincoln's murder to Confederate intelligence operations run through British Canada, and writes that the subversion of his American System began quickly thereafter.[3] Rather than the full reconstruction of the defeated South that Lincoln had planned, a new war was waged against the greenbacks by the [[city-of-london|City of London]] and Wall Street, culminating in the [[specie-resumption-act|Specie Resumption Act]]; his vice-president [[andrew-johnson|Andrew Johnson]] declared in his 1865 inaugural address that "free trade with all the markets of the world is the true theory of government."[3]
 
+## Civil War precedent in the Q drops
+
+Chapter 3 of [[q-for-dummies|Q for Dummies]] invokes Lincoln's presidency as the precedent for domestic deployment of the United States military.[4] Analysing [[qanon|Q]] drop #22 of November 1, 2017, the author states that [[posse-comitatus-act|Posse Comitatus]] must be declared and [[habeas-corpus|habeas corpus]] suspended before the military can serve among its own population, and that both conditions were met under Lincoln, who he says declared a congressionally-approved [[martial-law|martial law]] status and used the U.S. military to stifle spies, dissenters and others seeking to destroy the Republic during the Civil War.[4]
+
 ## References
 1. Badlands Brief — "Avoiding WWIII", URL: https://badlands.substack.com/p/avoiding-wwiii
 2. Badlands Brief — "Combating the Transhumanist Religion", URL: https://badlands.substack.com/p/combating-the-transhumanist-religion
 3. Badlands Brief — "In Defense of Abraham Lincoln and the Greenbacks", URL: https://badlands.substack.com/p/in-defense-of-abraham-lincoln-and
+4. Badlands Brief — "Q for Dummies - Chapter 3", URL: https://badlands.substack.com/p/q-for-dummies-chapter-3
+5. Badlands Brief — "Shadows, Sovereigns and Civil Wars - Part 1", URL: https://badlands.substack.com/p/shadows-sovereigns-and-civil-wars
+
+## Bering Strait telegraph and Russian solidarity
+
+In December 1864 Lincoln delivered a State of the Nation address to Congress outlining federal support for extending telegraph lines through the Bering Strait, noting that the proposed overland telegraph between America and Europe by way of Bering's Straits and Asiatic Russia "has been undertaken, under very favorable circumstance," and that most South American states had signalled readiness to cooperate in constructing lines tributary to that "world-encircling communication."[5] Russian Alaska was sold to the United States only three years later, explicitly around the notion of facilitating this program.[5]
+
+Having just endured the [[american-civil-war|Civil War]], the United States had much reason to trust [[alexander-ii|Czar Alexander II]]'s Russia, which had intervened to protect the Union against aggressive intervention by English and French imperial powers supporting secession.[5] In 1863 Alexander II sent Russian battleships to New York and San Francisco as a message of solidarity with Lincoln and a threat to the imperial forces of Europe.[5] The article states this fact has been erased from American history books but remains better understood in Russia, where a statue in Moscow depicts Alexander II and Lincoln — described as two martyred patriots and great emancipators — holding hands.[5]
+
+Lincoln's friend [[william-gilpin|William Gilpin]], the first governor of Colorado, later carried this vision forward in his 1890 book [[cosmopolitan-railway|The Cosmopolitan Railway]].[5]

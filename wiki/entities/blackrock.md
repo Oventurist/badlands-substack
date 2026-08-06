@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, asset-management, media-ownership]
-sources: [raw/a-swan-song-for-the-msm.md, raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-c74.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-f4c.md, raw/blackrock-inc-and-the-vanguard-group.md, raw/dont-bring-shiny-rocks-to-digital.md, raw/get-woke-go-broke.md, raw/no-honor-among-thieves.md, raw/open-borders-finally-make-sense.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-c74.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-f4c.md, raw/blackrock-inc-and-the-vanguard-group.md, raw/dont-bring-shiny-rocks-to-digital.md, raw/get-woke-go-broke.md, raw/no-honor-among-thieves.md, raw/open-borders-finally-make-sense.md, raw/spear-of-justice.md, raw/stay-focused-on-the-big-picture.md, raw/soul-governance.md, raw/super-computers-in-the-info-war.md]
 confidence: medium
 ---
 
@@ -69,6 +69,14 @@ In an April 2023 essay, Badlands Media contributor [[erik-carlson|Erik Carlson]]
 
 Carlson highlighted an apparent contradiction he classed as fifth-generation warfare: when [[donald-trump|Donald Trump]] was president and was said to have merged the [[federal-reserve|Federal Reserve]] into the [[us-department-of-the-treasury|US Treasury]], it was BlackRock and Fink who were appointed to administer the arrangement.[12] He asked whether this made Fink a "grey hat," a former black hat working with white hats, or a deep state actor being forced by Trump to buy up soon-to-be-worthless government assets — in effect the deep state being made to destroy the deep state.[12] Carlson also observed the irony that BlackRock, the corporate face of ESG, was by 2023 being attacked for not being woke enough, which he read either as the woke eating the woke or as a system losing its mind.[12]
 
+## Texas ESG Antitrust Suit in the "Spear of Justice" Framing
+
+An August 2025 Badlands Media essay described [[esg|ESG]] investing, anchored by BlackRock, [[vanguard-group|Vanguard]], and [[state-street|State Street]], as a "cartel" functioning as a steering committee for global corporate behavior — aligning the voting power of trillions in assets to dictate boardroom and market outcomes without passing a single law.[15] The piece noted that Texas Attorney General [[ken-paxton|Ken Paxton]]'s antitrust suit against the three firms had survived most dismissal attempts, meaning discovery would open access to stewardship meeting minutes, alliance communications, and proxy playbooks, described as "forcing entry into the cartel's command logs."[15] The author framed the litigation as a multi-round game in which every round the firms fight bleeds resources and legitimacy while every concession creates precedent other states can use.[15] The essay further asserted that the suit was the public-facing phase of a takedown begun years earlier under [[executive-order-13818|Executive Order 13818]] confiscation authorities, with [[white-hats|White Hats]] having already mapped the cartel's command structure as part of a [[continuity-of-government|Continuity of Government]] operation.[15]
+
+## In "Soul Governance"
+
+The Badlands Media essay [[soul-governance|Soul Governance]] asserts that "BlackRock funded the social liturgies," placing the asset manager within a quasi-religious framing in which [[harvard-university|Harvard]] trained enforcers and [[klaus-schwab|Klaus Schwab]] preached the gospel of stakeholder governance.[17] The essay associates this apparatus with [[esg|ESG]], which it calls the tithing system of a digital church centered on the [[world-economic-forum|World Economic Forum]].[17]
+
 ## References
 
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
@@ -112,3 +120,19 @@ Carlson recounted that when he asked Google about BlackRock's purchases of resid
 In his account the strategy required tenants: opening the borders to more than 20 million migrants, who would not compete for home purchases but would fill rental units, allowed rents to be raised on Americans priced out of ownership, with the government funding the tenants through taxpayer money.[14] He also relayed a claim that [[kamala-harris|Kamala Harris]] was controlled by BlackRock, noting her role as border czar.[14] Carlson concluded that a rapid removal of migrants under [[donald-trump|Donald Trump]], absent fast interest-rate cuts, would leave BlackRock and similar "monolithic asset collectors" holding vacant properties at great risk of failure.[14]
 
 14. Badlands Brief — "Open Borders Finally Make Sense", URL: https://badlands.substack.com/p/open-borders-finally-make-sense
+15. Badlands Brief — "Spear of Justice: Ken Paxton and the Bleeding Edge", URL: https://badlands.substack.com/p/spear-of-justice
+
+## Aladdin, market dominance and the blue-blood families (Carlson)
+
+[[erik-carlson|Erik Carlson]] has written that BlackRock's [[aladdin|Aladdin]] system runs on a supercomputer built in the Eastern Washington farming community of Wenatchee in the 1990s, sited among the town's apple orchard warehouses.[16] Because Aladdin is a Monte Carlo simulation capable of running endless scenarios in seconds, Carlson argues it can predict future events or likelihoods with near-perfect accuracy, and that with this advantage BlackRock went from a fairly insignificant investment company to the biggest holder of assets in the world, passing all the centuries-old blue blood families.[16] He suspects those families — naming the Rockefellers and the Rothschilds — were in reality pumping their money into BlackRock, which he offers as the explanation for their absence from published lists of the world's richest people.[16] Carlson uses the firm as his prime example of advanced technology operating unseen for decades while the public is told artificial intelligence is only now emerging.[16]
+
+16. Badlands Brief — "Stay Focused on the Big Picture", URL: https://badlands.substack.com/p/stay-focused-on-the-big-picture
+17. Badlands Brief — "Soul Governance", URL: https://badlands.substack.com/p/soul-governance
+
+## "Super Computers in the Info War" (April 2023)
+
+In an April 12, 2023 essay, [[erik-carlson|Erik Carlson]] returned to BlackRock as the clearest public example of predictive computing in private hands, describing the firm as the biggest owner of assets in the world that owns "pretty much everything."[18] He recalled that a couple of years earlier BlackRock had bought up large volumes of residential property despite high prices, frequently offering above asking price, a strategy that inverted the old adage of buying low and selling high.[18] Writing amid what he characterised as a collapsing financial system, he concluded the behaviour made sense if money was eventually going to be worthless: real assets should be acquired while dollars still buy them, and he noted the dollar had lost roughly 15% of its purchasing power in two years.[18] He framed the episode as evidence that the cabal either planned to crash the financial market or had foreknowledge that it would be crashed, and tied it to the [[you-will-own-nothing-and-be-happy|"you will own nothing and be happy"]] slogan: homeowners sold real assets for dollars that promptly depreciated.[18]
+
+Carlson emphasised that BlackRock has existed only since the late 1980s and yet overtook the blue-blood investment firms and asset collectors in about thirty years — growth he considered explicable for a technology company but not for an asset owner.[18] He attributed the ascent to the [[aladdin|Aladdin]] system, built on a supercomputer the firm constructed in the 1990s in [[wenatchee-washington|Wenatchee, Washington]], and argued that a firm able to predict future outcomes with high accuracy does not need to obey conventional investment logic.[18]
+
+18. Badlands Brief — "Super Computers in the Info War", URL: https://badlands.substack.com/p/super-computers-in-the-info-war

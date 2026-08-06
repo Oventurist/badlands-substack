@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [olympics, los-angeles, trump, media]
-sources: [raw/badlands-news-brief-3a5.md]
+sources: [raw/badlands-news-brief-3a5.md, raw/reagan-20.md]
 confidence: medium
 ---
 
@@ -20,3 +20,9 @@ Turning political without prompting, Shapiro said: "President Trump is going to 
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Inbound America: Terrorists, Trillions, & Diplomats", URL: https://badlands.substack.com/p/badlands-news-brief-3a5
+
+## Parallel with the 1984 games
+
+Badlands contributor [[erik-carlson|Erik Carlson]] observed in February 2025 that Los Angeles will host the Olympics in 2028 during [[donald-trump|Donald Trump]]'s presidency, just as it hosted the [[1984-los-angeles-olympics|1984 games]] during [[ronald-reagan|Ronald Reagan]]'s, an event he says brought a resurgence of American pride throughout the nation.[2] Asking "what are the odds?", Carlson counted the repetition among the many Reagan–Trump correspondences he regards as non-coincidental.[2]
+
+2. Badlands Brief — "Reagan 2.0", URL: https://badlands.substack.com/p/reagan-20

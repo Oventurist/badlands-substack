@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [election-integrity, arizona, litigation, signature-verification]
-sources: [raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-862.md, raw/badlands-news-brief-d61.md, raw/badlands-news-brief-e86.md]
+sources: [raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-862.md, raw/badlands-news-brief-d61.md, raw/badlands-news-brief-e86.md, raw/thats-not-signature-verification.md]
 confidence: medium
 ---
 
@@ -52,8 +52,23 @@ On remand, Maricopa County Superior Court Judge [[peter-thompson|Peter Thompson]
 
 The order set a demanding standard for the surviving count, requiring Lake to "demonstrate at trial pursuant to her concessions that Maricopa County's higher level signature reviewers conducted no signature verification or curing and in so doing had systematically failed to materially comply with the law," and also to "prove a competent mathematical basis to win."[4] Plaintiffs maintained they could show that the county's [[signature-verification|signature verification]] practices violated the law in numbers large enough to have affected the outcome of the [[2022-arizona-general-election|2022 general election]].[4] [[badlands-media|Badlands Media]] carried live coverage of the three-day proceeding beginning at noon EDT on May 17.[4]
 
+## Count III trial and dismissal (May 2023)
+
+The November 8, 2022 Arizona gubernatorial contest between [[katie-hobbs|Katie Hobbs]] and [[kari-lake|Kari Lake]] was decided by 17,117 votes out of 2.59 million cast — a margin of just 0.67 percent — against a backdrop in which [[maricopa-county|Maricopa County]] voters waited hours in line only to be unable to cast ballots because of technology failures, and were told that ballots placed in "Drawer Three" would be counted.[5]
+
+Lake's original civil case brought seven counts against Hobbs personally as contestee, [[adrian-fontes|Adrian Fontes]] in his official capacity as Secretary of State, and [[stephen-richer|Stephen Richer]] in his official capacity as Maricopa County Recorder.[5] The trial court ruled for Hobbs and the appellate court affirmed; the [[arizona-supreme-court|Arizona Supreme Court]] upheld all rulings except Count III, which challenged whether Maricopa County had complied with the law on [[signature-verification|signature verification]], and remanded that count — originally dismissed without evidence being taken — to the trial court.[5]
+
+At a scheduling hearing on May 8, 2023, plaintiffs concentrated on persuading Judge [[peter-thompson|Peter Thompson]] to reopen Count II, which dealt with the tabulator failures, in light of new evidence of a secret logic and accuracy test conducted by county officials in violation of Arizona law; they claimed the test had produced the exact failures seen on election day, that the county used the machines anyway, and that the evidence had been hidden from the court and the public.[5] Thompson declined to revive Count II, and Count III was tried May 17–19, 2023.[5] Judge Thompson dismissed the claim on May 22, 2023, and Lake was expected to appeal.[5]
+
+## Evidence presented at the Count III trial
+
+Team Lake sought to show that for at least 70,839 and possibly 274,319 ballot packets, Level 1 signature verification as defined in [[arizona-revised-statutes-16-550|A.R.S. § 16-550]] did not take place.[5] Whistleblower testimony came from two election workers at the [[maricopa-county-tabulation-and-election-center|Maricopa County Tabulation and Election Center]], who described the county's training and their careful adherence to it, testified that Level 2 reviewers were overwhelmed and that "exceptioned signatures" were repeatedly pushed back down to Level 1 outside the trained process, and stated that hundreds of thousands of signatures were approved overnight after verification staff had been sent home.[5]
+
+Plaintiffs' handwriting expert [[erich-speckin|Erich Speckin]], who had testified as an expert in 413 cases, presented the county's own timing data: 731,835 comparisons in five seconds or less, 615,425 in four seconds or less, 465,259 in three seconds or less, 274,319 in two seconds or less, and 70,839 in one second or less.[5] He testified to a correlation between faster review and higher approval rates, citing User 79, who reviewed 54,298 signatures at 98.9 percent approval overall, 45,217 in under six seconds at 99.91 percent, 37,524 in under four seconds at 99.97 percent, and 27,196 in under three seconds at 100 percent approval.[5] Speckin further testified that more than 45,000 signatures were approved through a batch upload, which forced [[ray-valenzuela|Rey Valenzuela]] to correct earlier testimony that batch files were not used in Maricopa's signature verification.[5] On cross-examination the defense attacked Speckin's credentials but offered no evidence or witnesses to rebut his analysis.[5]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: DeSantis Runs, Lake Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-5eb
 2. Badlands Brief — "Badlands News Brief: Kari Counters, Elites Gather & Data Talks", URL: https://badlands.substack.com/p/badlands-news-brief-862
 3. Badlands News Brief — "Bakhmut Kaput, Legal Lake & Elitist Exposure", URL: https://badlands.substack.com/p/badlands-news-brief-d61
 4. Badlands Brief — "Badlands News Brief: Lake Round 2, Woke Brokeness & the Soros Slug", URL: https://badlands.substack.com/p/badlands-news-brief-e86
+5. Badlands Brief — "That's Not Signature Verification, Your Honor", URL: https://badlands.substack.com/p/thats-not-signature-verification

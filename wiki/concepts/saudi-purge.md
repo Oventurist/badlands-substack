@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [saudi-arabia, mbs, q, anti-corruption, golden-age]
-sources: [raw/badlands-news-brief-02f.md, raw/q-for-dummies-chapter-12.md, raw/q-for-dummies-chapter-14.md, raw/q-for-dummies-chapter-18.md, raw/q-for-dummies-chapter-10.md, raw/q-for-dummies-chapter-16.md, raw/q-for-dummies-chapter-15.md, raw/q-for-dummies-chapter-20.md, raw/q-for-dummies-chapter-21.md, raw/q-for-dummies-chapter-9.md, raw/q-for-dummies-chapter-22.md]
+sources: [raw/badlands-news-brief-02f.md, raw/q-for-dummies-chapter-12.md, raw/q-for-dummies-chapter-14.md, raw/q-for-dummies-chapter-18.md, raw/q-for-dummies-chapter-10.md, raw/q-for-dummies-chapter-16.md, raw/q-for-dummies-chapter-15.md, raw/q-for-dummies-chapter-20.md, raw/q-for-dummies-chapter-21.md, raw/q-for-dummies-chapter-9.md, raw/q-for-dummies-chapter-22.md, raw/the-bridge-3c3.md]
 confidence: low
 ---
 
@@ -103,3 +103,11 @@ Chapter 22 of the series reads Q Drop #134, posted November 11, 2017, as opening
 The chapter treats Q as stating outright that Saudi control over the United States had just been toppled, and reconstructs the dynastic groundwork: [[salman-bin-abdulaziz|King Salman bin Abdulaziz Al Saud]] became king in January 2015, and his son [[mohammed-bin-salman|Mohammed bin Salman]] — described as a friend of [[donald-trump|Trump]]'s — pulled the plug on the previous Saudi regime, with Salman's installation understood to have paved the way for the purge.[11] Q then reiterates that one side of the pyramid had been removed while the toppling of the others, the [[rothschild-family|Rothschilds]] and [[george-soros|George Soros]], was well underway.[11]
 
 11. Badlands Brief — "Q for Dummies - Chapter 22", URL: https://badlands.substack.com/p/q-for-dummies-chapter-22
+
+## The Podesta connection ("The Bridge")
+
+Joe Lange's report "The Bridge" reconstructs the arrest list published by Forbes on November 4, 2017, which named [[alwaleed-bin-talal|Prince Alwaleed bin Talal]] — then the wealthiest person in the Middle East, with holdings in Twitter, Apple and Citigroup through [[kingdom-holding|Kingdom Holding]], whose shares fell 9.9% on news of the arrest — alongside National Guard head Muteib Bin Abdullah, Riyadh mayor Turki Bin Abdullah, Turki Bin Nasser, MBC head Waleed Al Ibrahim, royal court head [[khaled-al-tuwaijri|Khaled Al Tuwaijri]], former Jeddah mayor Adel Fakeih, businessman Amr Al Dabbagh, former finance minister Ibrahim Al Assaf, [[bakr-bin-laden|a member of the Bin Laden family]], Al Tobaishi, former Saudi Telecom chief Saud Al Dawish and former Saudia airlines head Khaled Al Molhem.[12]
+
+Lange emphasizes Tuwaijri's role as head of the Saudi Royal Court, which housed the Center for Studies and Media Affairs that reportedly paid the [[podesta-group|Podesta Group]] $140,000 a month, and Waleed Al Ibrahim's ownership of the Middle East Broadcasting Corporation, which he says the mogul partly surrendered — some 60% of the company — to secure his release.[12] On this reading the Podesta Group functioned as a bridge between Alwaleed and both the American and Saudi media, and the arrests cut the puppet strings of officials in Washington: Q drop 93 stated that Hillary Clinton "was a puppet but her STRINGS were recently cut," while drop 275 asserted that "Saudi Arabia CONTROLS elected people."[12] Q drop 94, posted the same day, reported that Bill Clinton wanted a deal and that Hillary was "not currently in Saudi Arabia."[12] Lange argues the [[john-podesta|Podesta]] brothers were attempting to flee to the Kingdom two days before Alwaleed's arrest, and that the firm filed its Saudi FARA paperwork and shuttered shortly afterward.[12]
+
+12. Badlands Brief — "The Bridge", URL: https://badlands.substack.com/p/the-bridge-3c3

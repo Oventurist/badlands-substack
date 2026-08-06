@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [russia, railroads, infrastructure, american-system]
-sources: [raw/how-canada-was-created-to-block-us.md]
+sources: [raw/how-canada-was-created-to-block-us.md, raw/shadows-sovereigns-and-civil-wars.md]
 confidence: medium
 ---
 
@@ -18,3 +18,9 @@ Czars [[alexander-ii|Alexander II]] and Alexander III vectored Russia's applicat
 
 ## References
 1. Badlands Brief — "How Canada Was Created to Block US-Russian Cooperation", URL: https://badlands.substack.com/p/how-canada-was-created-to-block-us
+
+## American contribution and aftermath
+
+The Trans-Siberian Railway, built between 1890 and 1905, benefited immensely from Baldwin Locomotives made in Philadelphia and from the support of hundreds of American technicians and engineers, giving Russia good reason to trust the United States.[2] Its completion in 1905 coincided with American engineers finalizing plans for the [[bering-strait-tunnel|Bering Strait]] rail project under Czar [[nicholas-ii|Nicholas II]] and [[sergei-witte|Sergey Witte]].[2] In that same year [[jacob-schiff|Jacob Schiff]] financed Japan's victory in the [[russo-japanese-war|Russo-Japanese War]], crippling Russia and derailing the rail program.[2]
+
+2. Badlands Brief — "Shadows, Sovereigns and Civil Wars - Part 1", URL: https://badlands.substack.com/p/shadows-sovereigns-and-civil-wars

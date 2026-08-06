@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [generations, gen-x, demographics, propaganda, 2024-election]
-sources: [raw/is-generation-x-saving-america.md]
+sources: [raw/is-generation-x-saving-america.md, raw/reagan-20.md]
 confidence: low
 ---
 
@@ -36,3 +36,9 @@ Finally, the essay notes the irony that Trump, a Baby Boomer, is removing a [[de
 
 ## References
 1. Badlands Brief — "Is Generation X Saving America?", URL: https://badlands.substack.com/p/is-generation-x-saving-america
+
+## Support for Trump
+
+A February 2025 Badlands feature by [[erik-carlson|Erik Carlson]] cited election surveys showing that Generation X — the cohort that grew up with [[ronald-reagan|Ronald Reagan]] as president — is by far the most [[donald-trump|Trump]]-supporting generation, offering the finding as further evidence of continuity between the two presidencies.[2]
+
+2. Badlands Brief — "Reagan 2.0", URL: https://badlands.substack.com/p/reagan-20

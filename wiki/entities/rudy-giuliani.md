@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [republicans, regime-change, iran, commentary]
-sources: [raw/badlands-brief-e87.md, raw/badlands-news-brief-4ee.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-a9e.md, raw/badlands-news-brief-b24.md, raw/badlands-news-brief-cc9.md, raw/disinformation-is-necessary.md, raw/has-trumps-whole-life-been-a-sting.md]
+sources: [raw/badlands-brief-e87.md, raw/badlands-news-brief-4ee.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-a9e.md, raw/badlands-news-brief-b24.md, raw/badlands-news-brief-cc9.md, raw/disinformation-is-necessary.md, raw/has-trumps-whole-life-been-a-sting.md, raw/reagan-20.md]
 confidence: medium
 ---
 
@@ -85,3 +85,9 @@ Carlson placed particular weight on the 2000 Senate contest against [[hillary-cl
 Carlson highlighted Giuliani's 1985 prosecution of the five New York mafia families under the RICO Act, in which the [[fbi|FBI]] was deeply involved, and set it beside Trump's Atlantic City timeline: construction of his first hotel and casino began in 1982, Giuliani took the SDNY post in 1983, the casino opened in 1984, and the mafia prosecutions followed in 1985.[9] From this he asked whether Trump, like his uncle [[john-g-trump|John G. Trump]] before him, had been working with the FBI — and with Giuliani — to take down the Mob.[9] Giuliani is described as a known Trump ally both then and now.[9]
 
 9. Badlands Brief — "Has Trump's Whole Life Been a Sting Operation?", URL: https://badlands.substack.com/p/has-trumps-whole-life-been-a-sting
+
+## Reagan appointment and the Mafia prosecutions
+
+A February 2025 Badlands feature by [[erik-carlson|Erik Carlson]] noted that [[ronald-reagan|Ronald Reagan]] hired Giuliani as Associate Attorney General in 1981, and that Giuliani voluntarily took a demotion in 1983 to become U.S. Attorney for the Southern District of New York.[10] A couple of years later, Carlson wrote, Giuliani took down the New York Mafia crime families, possibly with the help of the new Atlantic City casino owner [[donald-trump|Donald Trump]]; Carlson stated his belief that Trump, Reagan and Giuliani worked together in unison to accomplish this.[10]
+
+10. Badlands Brief — "Reagan 2.0", URL: https://badlands.substack.com/p/reagan-20

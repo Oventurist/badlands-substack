@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [trafficking, children, border, exploitation, info-war]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-c91.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-a61.md, raw/badlands-news-brief-d32.md, raw/badlands-news-brief-d50.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-c91.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-a61.md, raw/badlands-news-brief-d32.md, raw/badlands-news-brief-d50.md, raw/the-accomplishments-of-president.md]
 confidence: medium
 ---
 
@@ -54,6 +54,11 @@ Getz further tied the problem to border infrastructure, arguing that a border wa
 
 In August 2024 [[donald-trump|Donald Trump]]'s campaign rolled out a crime platform that included pursuing the death penalty for child rapists, which Badlands read as a pledge to execute pedophiles and child traffickers on his return to power.[6] The brief paired the pledge with [[vladimir-putin|Vladimir Putin]]'s February 2024 speech accusing Western elites of attempting to normalize pedophilia, arguing that trafficking networks were under simultaneous pressure from Moscow and from a returning Trump administration.[6]
 
+
+## Trump-era legislation (Badlands account)
+
+Badlands Media's 2023 account of [[donald-trump|President Donald Trump]]'s governmental accomplishments treated the fight against human and child trafficking as one of his highest priorities, noting that early in his presidency he created a new position dedicated to combating human trafficking.[7] The article claimed that more human trafficking arrests and prosecutions took place under Trump than under the previous three presidents combined, and observed that [[ghislaine-maxwell|Maxwell]], [[jeffrey-epstein|Epstein]], and Harvey Weinstein were allowed to roam free until he took office.[7] It further credited an April 2018 law with removing legal protections for online platforms that enabled child trafficking, a change it said led directly to the takedown of [[backpage-com|Backpage.com]].[7]
+
 ## References
 1. Badlands Brief — "Mixed Gender Crews, Trafficking Stings, & Shadow Cabal Reruns", URL: https://badlands.substack.com/p/badlands-brief-029
 2. Badlands Brief — "Trump Rugs the Deltas with an Early MOU", URL: https://badlands.substack.com/p/badlands-brief-c91
@@ -64,3 +69,4 @@ In August 2024 [[donald-trump|Donald Trump]]'s campaign rolled out a crime platf
 The July 2023 release of [[sound-of-freedom|Sound of Freedom]], a film based on the work of [[tim-ballard|Tim Ballard]] and [[operation-underground-railroad|Operation Underground Railroad]], made child trafficking a subject of unusually broad public discussion and triggered a sustained mainstream backlash.[5] [[ashe-in-america|Ashe in America]] wrote that protecting children is not a partisan issue, and that an American establishment which enables the trafficking and exploitation of children did not want the public to see a film about what she called its most enterprising industry.[5] Despite those efforts, she argued, people were awakening to the realities of trafficking and the film was hastening the process.[5]
 [[justin-deschamps|Justin Deschamps]] contended that the child abuse industry undeniably exists, citing what he described as the sex-grooming nature of the education system, the complicity of the medical and psychology industries in the mutilation of children, and Big Tech's supply of hand-held technologies that bypass parental gatekeepers to deliver pornography, propaganda, grooming and fake news to children.[5] He argued that the Epstein scandal, the border crisis and the trans agenda had together made industrial-scale institutional child abuse credible to average observers in a way it had not been in 2018, and that the [[2023-bud-light-boycott|Bud Light]] backlash showed a line had been crossed.[5] Efforts to debunk the subject — including [[the-atlantic|The Atlantic]]'s 2022 feature "The Great (Fake) Child-Sex-Trafficking Epidemic" and [[rolling-stone|Rolling Stone]]'s [[miles-klee|Miles Klee]] dismissing Sound of Freedom as a "[[qanon|QAnon]]-tinged thriller" — were read by Badlands writers as attempts to destroy the very notion of a global child-sex trafficking network.[5]
 6. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50
+7. Badlands Brief — "The Accomplishments of President Trump - Part 1", URL: https://badlands.substack.com/p/the-accomplishments-of-president

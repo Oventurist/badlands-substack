@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [artificial-intelligence, bilderberg, big-tech, national-security, google]
-sources: [raw/dark-equation.md, raw/does-the-cia-still-control-iran.md, raw/everything-is-connected.md, raw/moves-and-countermoves.md]
+sources: [raw/dark-equation.md, raw/does-the-cia-still-control-iran.md, raw/everything-is-connected.md, raw/moves-and-countermoves.md, raw/the-biggest-boomerang-in-history.md]
 confidence: medium
 ---
 
@@ -41,3 +41,9 @@ Carlson attached significance to that date: [[donald-trump|Donald Trump]] had is
 ## "ES is KEY" and the Gmail drafts channel
 
 Reading Q drop #1504 of June 15, 2018, [[joe-lange|Joe Lange]] decodes the line "ES is KEY" as a reference to Eric Schmidt, identifying him as a founder of [[google|Google]] and as the figure who helped the [[cia|CIA]] build its seven supercomputers named for the [[snow-white-supercomputers|seven dwarfs of Snow White]].[4] Lange further alleges that Schmidt helped set up the shared "Gmail drafts" folders through which conspirators believed they could communicate covertly, and that those communications were surfaced in an inspector general report with assistance from [[michael-flynn|General Michael Flynn]] because the [[national-security-agency|NSA]] captures all electronic communications.[4] He ties Schmidt to [[alwaleed-bin-talal|Prince Alwaleed]], whom [[donald-trump|Trump]] nicknamed "Dopey."[4]
+
+## Named in the Gmail drafts drop
+
+Q drop 1504 of June 15, 2018, quoted in "[[the-biggest-boomerang-in-history|The Biggest Boomerang In History]]," raises the question of [[gmail-draft-communications|Gmail drafts]] as a covert channel, notes that [[james-comey|James Comey]]'s Gmail account surfaced in the Inspector General report and that "they all had them," and states that "ES (Eric Schmidt/CEO of Google) is KEY."[5] [[joe-lange|Joe Lange]] uses the drop to argue that the [[barack-obama|Obama]] administration relied on private email accounts, secret servers and shared draft folders to evade the [[freedom-of-information-act|Freedom of Information Act]].[5] These claims reflect Badlands Media interpretation rather than established fact.
+
+5. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history

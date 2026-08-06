@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [mk-ultra, cia, mind-control, trauma, declassified-documents]
-sources: [raw/child-sacrifice-as-a-pillar-of-deep.md, raw/four-pillars-of-government-control.md, raw/john-bobby-and-marilyn.md, raw/on-ted-kaczynski-and-false-prophets.md, raw/patsies-of-the-cia-and-fbi.md]
+sources: [raw/child-sacrifice-as-a-pillar-of-deep.md, raw/four-pillars-of-government-control.md, raw/john-bobby-and-marilyn.md, raw/on-ted-kaczynski-and-false-prophets.md, raw/patsies-of-the-cia-and-fbi.md, raw/real-patriots-dont-think-like-hitler-111.md, raw/scholars-and-spooks.md, raw/structures-of-control-part-3.md]
 confidence: medium
 ---
 
@@ -52,9 +52,28 @@ Two specific links are offered. Oswald was stationed in 1957 at the Atsugi Naval
 
 The article also broadens the concept beyond the laboratory, arguing that brainwashing does not occur only in a laboratory setting using LSD and torture but reaches the masses through propaganda in mainstream media, with the CIA vital to the manipulation of Americans' minds through control and compliance via created narratives and agendas.[5] See also [[intelligence-patsy|intelligence patsy]].[5]
 
+
+
+## Incorporation into military doctrine
+
+Matthew Ehret writes that MK Ultra trauma-based mind control studies were folded into basic US military training through [[michael-aquino|Michael Aquino]] and Colonel [[paul-vallely|Paul Vallely]]'s 1980 manifesto [[from-psyop-to-mindwar|From PSYOP to MindWar: The Psychology of Victory]], commissioned by Major General [[albert-stubblebine|Albert Stubblebine]].[6] The same document is said to have introduced the SRI Stargate Project and [[esalen-institute|Esalen Institute]] drug experiments, along with electromagnetic weapon programs, into a doctrine of asymmetric psychological warfare directed at citizens both within and outside the United States.[6]
+
+## University involvement
+
+MKUltra frequently used universities as fronts to obscure CIA involvement, with [[harvard-university|Harvard]] serving as a key site whose academic prestige facilitated covert research with diplomatic implications.[7] Harvard psychologists funded by CIA front organizations such as the Human Ecology Fund conducted experiments on unwitting subjects, including students and foreign nationals, developing interrogation and propaganda techniques that were shared with allied governments through backchannels as a form of [[shadow-diplomacy|shadow diplomacy]].[7]
+
+[[henry-a-murray|Dr. Henry Murray]]'s stress experiments on Harvard students included [[ted-kaczynski|Ted Kaczynski]], who as a 16-year-old undergraduate endured more than 200 hours of testing between 1959 and 1962 and suffered severe psychological abuse.[7] The CIA suppressed public knowledge of the program by classifying research and using academic cover; documents declassified in the 1970s showed Harvard personnel played a significant role, though initial censorship delayed exposure.[7] John Marks's book *The Search for the Manchurian Candidate* (1979) further details Harvard's involvement.[7]
+
+## Cited in Structures of Control
+
+Part 3 of Badlands Media's *Structures of Control* series invokes MKUltra as its leading example of suppressed and redirected science, describing it as a project that "exploited neuroscience for mind control rather than human liberation."[8] The essay pairs it with the [[gateway-process|Gateway Process]] and the [[project-stargate|Stargate Project]] to argue that the [[deep-state|Deep State]] co-opts and silences scientists so that advances in energy, healthcare and quantum technologies are delayed or weaponized, sustaining the counterfeit higher consciousness the series calls the [[manufactured-5d|manufactured 5D]].[8]
+
 ## References
 1. Badlands Brief — "Child Sacrifice as a Pillar of Deep State Control", URL: https://badlands.substack.com/p/child-sacrifice-as-a-pillar-of-deep
 2. Badlands Brief — "Four Pillars of Government Control", URL: https://badlands.substack.com/p/four-pillars-of-government-control
 3. Badlands Brief — "John, Bobby ... and Marilyn", URL: https://badlands.substack.com/p/john-bobby-and-marilyn
 4. Badlands Brief — "On Ted Kaczynski and False Prophets", URL: https://badlands.substack.com/p/on-ted-kaczynski-and-false-prophets
 5. Badlands Brief — "Patsies of the CIA and FBI", URL: https://badlands.substack.com/p/patsies-of-the-cia-and-fbi
+6. Badlands Brief — "Real Patriots Don't Think Like Hitler - Part 4", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-111
+7. Badlands Brief — "Scholars and Spooks", URL: https://badlands.substack.com/p/scholars-and-spooks
+8. Badlands Brief — "Structures of Control - Part 3", URL: https://badlands.substack.com/p/structures-of-control-part-3

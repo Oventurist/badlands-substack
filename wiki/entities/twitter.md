@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [social-media, free-speech, elon-musk, big-tech]
-sources: [raw/badlands-news-brief-090.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-908.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-d50.md, raw/has-trumps-whole-life-been-a-sting.md, raw/q-for-dummies-chapter-18.md]
+sources: [raw/badlands-news-brief-090.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-908.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-d50.md, raw/has-trumps-whole-life-been-a-sting.md, raw/q-for-dummies-chapter-18.md, raw/reset-the-space-reset-society.md, raw/the-banking-revolution-is-underway.md]
 confidence: medium
 ---
 
@@ -71,6 +71,18 @@ In August 2024 a federal judge ordered [[x-corp|X]] to unseal the roster of shar
 
 Chapter 18 of the [[q-for-dummies|Q for Dummies]] series reminds readers that [[prince-alwaleed-bin-talal|Prince Alwaleed bin Talal]] — "Prince Dopey" in the Q drops — held the controlling interest in Twitter before his detention in the 2017 [[saudi-purge|Saudi purge]], and treats the platform's subsequent change of ownership as significant to what the author calls the information war.[12]
 
+## Spaces and the post-acquisition community (2023)
+
+Twitter launched its live audio feature, [[twitter-spaces|Twitter Spaces]], in December 2020 to compete with the audio social network [[clubhouse|Clubhouse]].[13] Two years later, under [[elon-musk|Elon Musk]]'s ownership, Spaces was briefly disabled after Musk learned that banned users retained access to it.[13] A February 2023 [[badlands-media|Badlands Media]] essay by [[ashe-in-america|Ashe in America]] argued that the platform had been the central battlefield of American political speech, that censorship there intensified through the COVID period and the 2020 election, and that after Musk's purchase reinstated accounts the platform again became a venue for open discussion — a change the author expected the platform's remaining insiders would try to reverse.[13]
+
+## Payments and the "Bank of Twitter" (2022–2023)
+
+A March 2023 Badlands Media article by [[joe-lange|Joe Lange]] framed Twitter as a prospective competitor to the banking system.[14] Lange noted that [[elon-musk|Elon Musk]] had purchased the platform, which had over 350 million users, and taken it private so that he rather than a board of directors or large investors controls its direction, while working to remove bots, end censorship and expose the enemy's crimes.[14]
+
+Citing the Washington Examiner and the New York Times, Lange reported that Twitter filed registration paperwork with the [[us-department-of-the-treasury|Treasury Department]]'s [[financial-crimes-enforcement-network|Financial Crimes Enforcement Network]] to enter the payment processing business — paperwork required for any business involved in money transfers, currency and exchanges — in a move echoing Musk's history at [[paypal|PayPal]] and his interest in replicating the Chinese app WeChat.[14]
+
+At a post-acquisition town hall, Musk told employees he envisions Twitter as "the people's financial institution," arguing that payments are an exchange of information with "not a huge difference" between sending a direct message and sending a payment, and that users should be able to send money to anyone, anywhere, "instantly and in real time."[14] He described verified users receiving seed funds in accounts held in a high-yield money market account, with above-market rates on positive balances, cheaper-than-typical overdraft charges, optional debit cards and checks, and automatic payments; asked about lending, he said a comprehensive service "can't be missing elements."[14] Lange paired this with the platform's role as a global "digital town square" reachable nearly anywhere via [[starlink|Starlink]], and with [[jack-dorsey|Jack Dorsey]]'s parallel work at [[block-inc|Block]] and on [[web5|Web5]], as evidence of a broader [[decentralization|decentralization]] of banking.[14]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Hunter Hunted, Billionaire Boxing & Snopes Nopes", URL: https://badlands.substack.com/p/badlands-news-brief-090
 2. Badlands Brief — "Badlands News Brief: FOX Fights, Trump Trolls & Twitter Turns?", URL: https://badlands.substack.com/p/badlands-news-brief-148
@@ -90,3 +102,5 @@ A June 15, 2024 Badlands feature by [[erik-carlson|Erik Carlson]] argued that [[
 
 11. Badlands Brief — "Has Trump's Whole Life Been a Sting Operation?", URL: https://badlands.substack.com/p/has-trumps-whole-life-been-a-sting
 12. Badlands Brief — "Q for Dummies - Chapter 18", URL: https://badlands.substack.com/p/q-for-dummies-chapter-18
+13. Badlands Media — "The Great Reset the Space: A New Frontier for American Community", raw/reset-the-space-reset-society.md
+14. Badlands Brief — "The Banking Revolution Is Underway", URL: https://badlands.substack.com/p/the-banking-revolution-is-underway

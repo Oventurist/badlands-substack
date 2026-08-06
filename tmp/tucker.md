@@ -1,3 +1,0 @@
-## Heroes of the Great Awakening
-
-Badlands Media's February 2023 essay "Heroes of the Great Awakening" invokes Carlson as the benchmark for independent broadcast journalism in the smartphone era, writing that "anyone with a smart phone can make a news report like Tucker Carlson or sing a peace ballad like [[john-lennon|John Lennon]] and share it with the world."[n] The observation underpins the article's argument that the barriers to entry that once let politicians rise through generational wealth and let culture creators be "groomed by Hollywood and Record companies" have collapsed, and that censorship is the establishment's response.[n]

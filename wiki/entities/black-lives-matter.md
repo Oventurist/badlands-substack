@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [activism, race, democratic-party, 2024-election]
-sources: [raw/badlands-news-brief-06e.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-e44.md, raw/death-to-dei.md, raw/get-woke-go-broke.md, raw/glimpses-into-hell.md]
+sources: [raw/badlands-news-brief-06e.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-e44.md, raw/death-to-dei.md, raw/get-woke-go-broke.md, raw/glimpses-into-hell.md, raw/stay-focused-on-the-big-picture.md]
 confidence: medium
 ---
 
@@ -64,3 +64,9 @@ During the [[2021-cuban-protests|2021 Cuban protests]], BLM issued a statement t
 6. Badlands Brief — "Death to DEI", URL: https://badlands.substack.com/p/death-to-dei
 7. Badlands Brief — "Get Woke, Go Broke", URL: https://badlands.substack.com/p/get-woke-go-broke
 8. Badlands Brief — "Glimpses into Hell - Part 1", URL: https://badlands.substack.com/p/glimpses-into-hell
+
+## Alleged CCP funding of the 2020 riots (Carlson)
+
+Badlands contributor [[erik-carlson|Erik Carlson]] wrote in October 2024 that there is strong evidence the [[chinese-communist-party|CCP]] controlled and funded the BLM and [[antifa|ANTIFA]] riots of 2020, which began in Minnesota, the state then governed by [[tim-walz|Tim Walz]].[9] Carlson used the claim as part of his broader argument that Walz had been a CCP asset for decades.[9]
+
+9. Badlands Brief — "Stay Focused on the Big Picture", URL: https://badlands.substack.com/p/stay-focused-on-the-big-picture

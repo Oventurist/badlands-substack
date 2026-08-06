@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [technology, social-media, twitter, censorship]
-sources: [raw/badlands-news-brief-a34.md, raw/badlands-news-brief-d50.md, raw/badlands-news-brief-ddb.md, raw/badlands-news-brief-f0e.md, raw/badlands-news-brief-f54.md]
+sources: [raw/badlands-news-brief-a34.md, raw/badlands-news-brief-d50.md, raw/badlands-news-brief-ddb.md, raw/badlands-news-brief-f0e.md, raw/badlands-news-brief-f54.md, raw/the-banking-revolution-is-underway.md]
 confidence: medium
 ---
 
@@ -32,6 +32,16 @@ The episode was read against Dorsey's own 2022 admission of regret over his role
 
 Following [[meta-platforms|Meta]]'s July 2023 launch of [[threads|Threads]], Dorsey — the former owner of [[twitter|Twitter]] — publicly highlighted the vast amount of user data collected by the new app, contributing to data-privacy and censorship concerns that emerged alongside reports of the platform's rapid growth.[5]
 
+## Role in the banking revolution (Lange, March 2023)
+
+In a March 2023 Badlands Media article, contributor [[joe-lange|Joe Lange]] argued that Dorsey — long vilified by right-wing media and blamed for censorship on [[twitter|Twitter]] — did not in fact control Twitter and had not for a long time, a point Dorsey himself made publicly in response to [[elon-musk|Elon Musk]]'s purchase of the company.[6] Lange wrote that Dorsey wants Twitter used for the public good, trusts Musk's mission, and called Musk "the singular solution" he trusts, describing the platform he hoped for as maximally trusted and inclusive.[6] Lange contended that the cabal, not Dorsey, controlled Twitter and used it as one of its best weapons.[6]
+
+Dorsey is presented as pursuing the same anti-bank vision Musk holds, but through payments companies. With Jim McKelvey he created [[square-inc|Square, Inc.]] in 2009 to aggregate merchant services and mobile payments into a single easy-to-use service; at one point his interest in payments and blockchain was so strong that many speculated he would merge Square with Twitter, and he ultimately delegated Twitter's leadership to focus on Square.[6] Square, later renamed [[block-inc|Block]], expanded into [[cash-app|Cash App]], Bitcoin hardware and mining, the developer effort TBD, the Bitcoin business Spiral, and Tidal for artist monetization via NFTs.[6] Like Musk, Dorsey open-sources his technology to invite other engineers to improve it.[6]
+
+Lange emphasized Dorsey's mission to compete with banks and advance [[financial-inclusion|financial inclusion]], citing Block's £2m investment in ART Business Loans, a Birmingham community development finance institution lending to businesses banks will not serve, and its search for a not-for-profit lender or social enterprise to back in Ireland.[6] He also stressed Dorsey's [[bitcoin|Bitcoin]] focus, quoting Data Driven Investor that Dorsey does not merely see Bitcoin as an investment but is "doing everything to accelerate innovation and accessibility in the cryptocurrency."[6]
+
+Most significant, in Lange's view, is Dorsey's proposal of [[web5|Web5]], a decentralized internet built on Bitcoin infrastructure in which users store their own personal information and can revoke access at will — the paradigm shift by which individuals, rather than banks or corporations, would own the financial data that determines their creditworthiness.[6]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Rising Demand for DC Defenders & A Sovereign Spring Social", URL: https://badlands.substack.com/p/badlands-news-brief-a34
 2. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50
@@ -46,3 +56,4 @@ Block also unveiled plans to broaden the scope of the mining project to include 
 
 4. Badlands Brief — "Badlands News Brief: Trump 2.0, FBI Enablers & Collegiate Idiots", URL: https://badlands.substack.com/p/badlands-news-brief-f0e
 5. Badlands Brief — "Meta vs. Twitter, Shark Fins, Popes & Clintons", URL: https://badlands.substack.com/p/badlands-news-brief-f54
+6. Badlands Brief — "The Banking Revolution Is Underway", URL: https://badlands.substack.com/p/the-banking-revolution-is-underway

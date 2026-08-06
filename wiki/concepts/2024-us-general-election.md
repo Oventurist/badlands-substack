@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [elections, 2024, united-states, election-security]
-sources: [raw/badlands-news-brief-74c.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-cba.md, raw/inside-the-modern-elections-casino.md]
+sources: [raw/badlands-news-brief-74c.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-cba.md, raw/inside-the-modern-elections-casino.md, raw/the-aftermath-of-a-trump-victory.md]
 confidence: medium
 ---
 
@@ -79,3 +79,9 @@ Keshel further argued that where the top of the ticket could not be stopped, dow
 2. Badlands Brief — "Badlands News Brief: A New Golden Age Begins ...?", URL: https://badlands.substack.com/p/badlands-news-brief-8bd
 3. Badlands Brief — "Badlands News Brief: Election-Mongering and Electioneering as Shenanigans Abound", URL: https://badlands.substack.com/p/badlands-news-brief-cba
 4. Badlands Brief — "Inside the Modern Elections Casino", URL: https://badlands.substack.com/p/inside-the-modern-elections-casino
+
+## Pre-election commentary on the aftermath (October 2024)
+
+Two weeks before the vote, [[erik-carlson|Erik Carlson]] published "The Aftermath of a Trump Victory," arguing that the significant consequence of a [[donald-trump|Trump]] win would be psychological rather than administrative.[5] He predicted that supporters of the losing side would pass through the [[five-stages-of-grief|five stages of grief]] — denying the result and insisting the election had to have been stolen despite four years of assurances that US elections are safe and secure, then anger, bargaining, depression and eventual acceptance as the predicted catastrophes failed to materialise.[5] He also forecast possible rioting and sabotage orchestrated by elites being forced from power, alongside a prosperous economy, while warning that gas prices held down and fabricated job numbers meant the true state of the economy would only surface once the [[deep-state|Deep State]] had no reason to keep manipulating the figures.[5] Carlson framed the whole event as the trigger for a [[mass-awakening|mass awakening]] with real casualties.[5]
+
+5. Badlands Brief — "The Aftermath of a Trump Victory", URL: https://badlands.substack.com/p/the-aftermath-of-a-trump-victory

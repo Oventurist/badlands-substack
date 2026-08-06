@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [tesla, robotaxi, autonomous-vehicles, technology]
-sources: [raw/badlands-news-brief-55f.md]
+sources: [raw/badlands-news-brief-55f.md, raw/stay-focused-on-the-big-picture.md]
 confidence: medium
 ---
 
@@ -26,3 +26,9 @@ He added that Musk and [[donald-trump|Donald Trump]] had both recently claimed t
 
 ## References
 1. Badlands Brief — "Badlands News Brief: The Machine Grows Desperate as Threats to Trump Increase", URL: https://badlands.substack.com/p/badlands-news-brief-55f
+
+## October 2024 unveiling and reception
+
+The cybercab was presented alongside the Robovan and AI robots at a [[tesla|Tesla]] showcase of technologies the company was developing, after which the stock price fell 8% amid claims that what was presented did not impress.[2] Badlands contributor [[erik-carlson|Erik Carlson]] rejected that assessment, arguing that cabs that drive themselves and robots that perform mundane tasks are plainly significant and that dismissing them was inconsistent with the prevailing insistence that AI is the future.[2] Carlson further argued that [[elon-musk|Elon Musk]] was not previewing a hoped-for future but displaying technology that already exists and has existed for some time.[2]
+
+2. Badlands Brief — "Stay Focused on the Big Picture", URL: https://badlands.substack.com/p/stay-focused-on-the-big-picture

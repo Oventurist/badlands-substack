@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, uranium, nuclear, uranium-one, state-owned]
-sources: [raw/america-for-sale-part-3.md, raw/badlands-brief-70c.md, raw/badlands-news-brief-09b.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-ff1.md]
+sources: [raw/america-for-sale-part-3.md, raw/badlands-brief-70c.md, raw/badlands-news-brief-09b.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-ff1.md, raw/the-biggest-cover-up-in-american.md]
 confidence: medium
 ---
 
@@ -51,3 +51,9 @@ On Tuesday, June 24, 2025, Rosatom announced that Russia and [[mali|Mali]] had a
 In June 2025 Rosatom chief executive [[aleksey-likhachev|Alexey Likhachev]] signed an agreement with [[burkina-faso|Burkina Faso]]'s Energy Minister Yacouba Zabré Gouba to expand peaceful nuclear energy cooperation, including radiation technologies and specialist training, on the sidelines of the St. Petersburg International Economic Forum.[5] Likhachev called the signing "an important milestone in strengthening the partnership between Russia and Burkina Faso" and said Rosatom was "ready to provide advanced technologies and expert support to implement joint projects aimed at sustainable development and enhancing the region's energy security."[5] Rosatom's statement said the pact builds on a roadmap signed the previous March with Burkina Faso's Ministry of Energy during the ATOMEXPO forum in Sochi.[5] See [[2025-russia-burkina-faso-nuclear-energy-agreement]].[5]
 
 5. Badlands Brief — "Badlands News Brief: Military Might, MoronGPT, & A Mutiny of The Men", URL: https://badlands.substack.com/p/badlands-news-brief-ff1
+
+## The Mikerin bribery case
+
+Before the [[uranium-one-deal|Uranium One deal]] was brokered, the FBI under [[robert-mueller|Robert Mueller]] opened an investigation into corruption and extortion by senior managers of a company owned by Rosatom.[6] In 2009 the bureau found sufficient evidence to conclude that [[vadim-mikerin|Vadim Mikerin]], who headed the Rosatom subsidiary [[tenex|Tenex]], was corrupt and that high-level Rosatom officials knew of his bribery scheme.[6] In 2010 Mikerin was dispatched to the United States on a work visa approved by the [[barack-obama|Obama]] administration to open Rosatom's new American arm, Tenam.[6] Senator [[chuck-grassley|Chuck Grassley]]'s office noted that the administration approved the takeover of Uranium One despite the ongoing criminal investigation into officials working for Rosatom subsidiaries.[6]
+
+6. Badlands Brief — "The Biggest Cover-up in American History", URL: https://badlands.substack.com/p/the-biggest-cover-up-in-american

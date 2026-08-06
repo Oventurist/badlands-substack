@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [adl, advocacy, democratic-party]
-sources: [raw/a-cancer-on-modern-journalism.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-f00.md]
+sources: [raw/a-cancer-on-modern-journalism.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-f00.md, raw/the-anti-dissent-league.md]
 confidence: low
 ---
 
@@ -36,8 +36,21 @@ Greenblatt invoked Israeli covert operations as a model, saying the effort neede
 
 During an August 2025 interview with the Jewish Broadcasting Service, Greenblatt referred to Israel's national anthem, Hatikvah, as "our national anthem" before catching himself and adding, "I shouldn't say our, it's Israel's national anthem."[4] In the same interview he contrasted national symbols, saying the emblem of Hezbollah is a rifle and that of the Islamic Republic of Iran a sword, while "the national symbol of Israel is the shield, it's the Star of David," which he characterized as an instrument of defense rather than a weapon of war.[4] Greenblatt, an American citizen born in Connecticut, framed the anthem as speaking to "the Jewish longing" shared by Jews worldwide.[4] Badlands host Chris Paul described the clip as "mind-blowing" and suggested Greenblatt was undermining his own position, also flagging his remark that "there were these accusations that the Jews killed Christ."[4]
 
+## Leadership of the ADL
+
+Greenblatt, a former Obama administration staffer, leads the [[anti-defamation-league|Anti-Defamation League]], which under his tenure has been criticised for operating as a left-leaning pressure group rather than a non-partisan anti-Semitism watchdog.[5] The columnist Bethany Mandel observed that the ADL under Greenblatt removed the words "anti-Semitism" from its mission statement, and Alex VanNess wrote in the [[new-york-post|New York Post]] that Greenblatt had steered the group "onto a partisan course at odds with this core mission."[5] Isi Leibler, former vice president of the [[world-jewish-congress|World Jewish Congress]], accused him of "tilting the ADL policy away from its primary mandate of combating anti-Semitism and steering it toward partisan social action issues."[5]
+
+## Clash with Elon Musk
+
+In late 2023 Greenblatt posted a tweet addressed to [[elon-musk|Elon Musk]] that Badlands Media read as a veiled extortive threat — an implicit warning that the ADL would declare [[x-twitter|X]] a vector of hate speech and render it radioactive to advertisers, coupled with a promise of public praise if the platform "addressed hate effectively."[5] Musk responded by floating a public poll on the organisation and raising the prospect of a defamation lawsuit, and said on the [[all-in-podcast|All-In Podcast]] that the ADL had been instrumental in getting [[donald-trump|Donald Trump]] removed from the platform.[5]
+
+## Financial deplatforming initiative
+
+As ADL chief executive, Greenblatt announced the group's 2021 partnership with [[paypal|PayPal]] to study extremist use of financial platforms, saying the effort offered "a unique opportunity to further understand how hate spreads and develop key insights that will inform the efforts of the financial industry, law enforcement, and our communities in mitigating extremist threats."[5]
+
 ## References
 1. Badlands Brief — "A Cancer on Modern Journalism", URL: https://badlands.substack.com/p/a-cancer-on-modern-journalism
 2. Badlands Brief — "Dems Demand a Post-Trump Strategy as Hamas Haggles for Peace", URL: https://badlands.substack.com/p/badlands-brief-9eb
 3. Badlands Brief — "Badlands News Brief: Mockingbird Meltdowns & DOGE-Driven Dreams", URL: https://badlands.substack.com/p/badlands-news-brief-966
 4. Badlands Media — "Badlands News Brief: Intel Leaks, Cartel Extraditions, & Terror Designations", URL: https://badlands.substack.com/p/badlands-news-brief-f00
+5. Badlands Brief — "The Anti-Dissent League", URL: https://badlands.substack.com/p/the-anti-dissent-league

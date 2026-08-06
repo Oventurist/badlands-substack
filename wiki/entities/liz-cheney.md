@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [january-6, congress, republican-party, wyoming]
-sources: [raw/badlands-news-brief-120.md, raw/badlands-news-brief-215.md, raw/badlands-news-brief-536.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-d22.md, raw/badlands-news-brief-dcb.md, raw/president-trumps-call-to-arms.md]
+sources: [raw/badlands-news-brief-120.md, raw/badlands-news-brief-215.md, raw/badlands-news-brief-536.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-d22.md, raw/badlands-news-brief-dcb.md, raw/president-trumps-call-to-arms.md, raw/reagan-20.md]
 confidence: medium
 ---
 
@@ -77,3 +77,9 @@ At the end of December 2024, ZeroHedge reported that Cheney appeared to be prepa
 Text messages obtained by Representative [[barry-loudermilk|Barry Loudermilk]], chair of the House subcommittee examining the J6 committee, were said to show that Cheney had colluded behind the scenes with star witness [[cassidy-hutchinson|Cassidy Hutchinson]], who dramatically changed her testimony after connecting with Cheney.[8] The report characterized the communications as potentially amounting to witness tampering, subornation of perjury, and obstruction, noting that every former White House official — including the driver of the presidential vehicle on January 6 — had refuted Hutchinson's account of Trump's behavior that day.[8] Based on his ongoing inquiry, Loudermilk determined that "numerous federal laws were likely broken by Liz Cheney" and called for the FBI to investigate her.[8]
 8. Badlands Brief — "Badlands News Brief: AI Energy Solutions & Turning Water Into White Gold", URL: https://badlands.substack.com/p/badlands-news-brief-dcb
 9. Badlands Brief — "President Trump's Call to Arms", URL: https://badlands.substack.com/p/president-trumps-call-to-arms
+
+## 2024 remarks on Reagan and Trump
+
+In a 2024 interview with ABC News, Cheney said there was "absolutely no chance that Ronald Reagan would be supporting Donald Trump," that [[donald-trump|Trump]] does not stand for any of the things [[ronald-reagan|Reagan]] did, and urged Republican colleagues in Congress and across the country to examine Trump's policies, the danger she said he presents, and what he was willing to do to stay in power.[10] Badlands contributor [[erik-carlson|Erik Carlson]] cited the remark as an example of political and media figures trying to drive a wedge between Reagan and Trump, characterizing it as a Neocon and RINO attempt to keep Trump from regaining power where he could expose and dismantle [[deep-state|Deep State]] operations.[10]
+
+10. Badlands Brief — "Reagan 2.0", URL: https://badlands.substack.com/p/reagan-20

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [moldova, russia, eastern-europe, transnistria]
-sources: [raw/badlands-news-brief-533.md, raw/oligarchism-and-the-great-game.md]
+sources: [raw/badlands-news-brief-533.md, raw/oligarchism-and-the-great-game.md, raw/the-bridge-3c3.md]
 confidence: medium
 ---
 
@@ -34,3 +34,11 @@ The article warns of the ease with which Moldova could be turned into a cauldron
 
 1. Badlands News Brief — "A Presidential Border Bash and Russophobia End the News Week", URL: https://badlands.substack.com/p/badlands-news-brief-533
 2. Badlands Brief — "Oligarchism and the Great Game", URL: https://badlands.substack.com/p/oligarchism-and-the-great-game
+
+## Money-laundering conduit thesis
+
+Moldova, a former Soviet republic lying between [[ukraine|Ukraine]] and Romania, is described by Forbes as having been a hub for smuggling and contraband since the end of the Soviet Union and, from 2009, "a conduit of international money laundering."[3] In January 2010 the country signed a five-year, $262 million [[millennium-challenge-corporation|Millennium Challenge Corporation]] compact with the United States, presided over by Secretary of State [[hillary-clinton|Hillary Clinton]] and prime minister [[vlad-filat|Vladimir Filat]], including an "innovative financing facility" co-financed by [[usaid|USAID]]; a previous $24.7 million Threshold program had targeted corruption in the judiciary, tax, customs and police services.[3]
+
+Between 2012 and 2014 roughly $1 billion — 12 to 15% of GDP — was taken from the country's three largest banks, depreciating the currency by 42%.[3] The Open Dialogue Foundation characterised 2013 to 2019 as a period of a "captured state" under oligarch [[vlad-plahotniuc|Vlad Plahotniuc]], who controlled the legislature, executive, courts, law enforcement and about 60% of mass media.[3] Badlands writer Joe Lange argues Moldova was deliberately cultivated as a laundering platform, and that gold and cash looted from [[libya|Libya]] after 2011 passed through it, with the [[podesta-group|Podesta Group]] serving as the Washington end of the arrangement.[3] These are the author's inferences.[3]
+
+3. Badlands Brief — "The Bridge", URL: https://badlands.substack.com/p/the-bridge-3c3

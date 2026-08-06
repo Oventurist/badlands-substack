@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [qanon, q-operation, disinformation, opsec]
-sources: [raw/q-for-dummies-chapter-21.md]
+sources: [raw/q-for-dummies-chapter-21.md, raw/q-for-dummies-chapter-9.md]
 confidence: low
 ---
 
@@ -29,3 +29,10 @@ Drop #128 pairs the disinformation admission with a warning that a coordinated m
 ## References
 
 1. Badlands Brief — "Q for Dummies - Chapter 21", URL: https://badlands.substack.com/p/q-for-dummies-chapter-21
+2. Badlands Brief — "Q for Dummies - Chapter 9", URL: https://badlands.substack.com/p/q-for-dummies-chapter-9
+
+## Earlier statement in drop #70
+
+The maxim appears well before drop #128. Chapter 9 of [[q-for-dummies|Q for Dummies]] notes that Q closed drop #70 of November 4, 2017 by reminding readers both that the crumbs being dropped would amount to the largest intelligence dump to the public domain in history and that disinformation is real.[2] The chapter's author draws the operative conclusion that disinformation "goes both ways," and that "our side utilizes it equally as often as the enemy" — a formulation that makes deliberate misdirection a tool of the [[white-hats|white hats]] as much as of their opponents.[2]
+
+Placed alongside the companion rule that [[double-meanings-exist|double meanings exist]], the principle gives the series wide latitude in reading individual drops, allowing a statement to be treated as accurate, as planted, or as true on a second level.[2]

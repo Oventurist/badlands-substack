@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [san-francisco, district-attorney, catholic-church-abuse, california-politics]
-sources: [raw/deep-state-spotlight-kamala-harris.md]
+sources: [raw/deep-state-spotlight-kamala-harris.md, raw/the-candidate-who-isnt-there.md]
 confidence: medium
 ---
 
@@ -28,5 +28,10 @@ Hallinan's most consequential unfinished work concerned clergy sexual abuse. He 
 
 The documents were reportedly explosive, naming roughly 40 active Bay Area priests against whom complaints had been filed.[1] Hallinan's prosecutions hit a roadblock when the U.S. Supreme Court ruled that California's law extending the statute of limitations in priest abuse cases was unconstitutional, but he remained determined to at least make the documents public.[1] His pursuit was a thorn in the side of the Catholic Church, which was being financially drained by legal fees and settlements, and the records touched institutions at the heart of California's power structure — notably the [[jesuits|Jesuit]]-run [[st-ignatius-college-preparatory|St. Ignatius College Preparatory]], alma mater of figures such as [[jerry-brown|Jerry Brown]] and members of the [[getty-family|Getty family]].[1] After Harris took office, the effort to publicize the documents ended and no priest was prosecuted.[1]
 
+## Coverage in "The Candidate Who Isn't There"
+
+In "The Candidate Who Isn't There," published August 24, 2024, Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] wrote that Hallinan, as the district attorney preceding [[kamala-harris|Kamala Harris]], was preparing to release to the public all of the evidence he had gathered on decades of sexual assault within the [[archdiocese-of-san-francisco|Roman Catholic Archdiocese of San Francisco]].[2] According to DeLarme, the archdiocese made sizable contributions to Harris's 2003 campaign for San Francisco district attorney with full knowledge of that pending disclosure, and once in office Harris squashed the effort rather than allowing the process to finish playing out.[2]
+
 ## References
 1. Badlands Brief — "Deep State Spotlight: Kamala Harris", URL: https://badlands.substack.com/p/deep-state-spotlight-kamala-harris
+2. Badlands Brief — "The Candidate Who Isn't There", URL: https://badlands.substack.com/p/the-candidate-who-isnt-there

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [censorship, media, deep-state, information-warfare]
-sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-a1a.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-de8.md, raw/is-the-censorship-war-over.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-a1a.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-de8.md, raw/is-the-censorship-war-over.md, raw/scholars-and-spooks.md, raw/the-adulation-of-the-disinformation.md]
 confidence: medium
 ---
 
@@ -56,6 +56,14 @@ On this account the Trump–Russia scandal will be remembered as a crucial momen
 
 [[badlands-media|Badlands Media]] contributor [[justin-deschamps|Justin Deschamps]] commented that when information is power, censorship becomes essential to those who push corruption, since the frauds sustaining their position must be widely accepted for them to remain empowered.[7] He described the resulting structure as an enormous, globally distributed house of cards that a single statement of truth can collapse within a receptive mind — making censorship, and above all the public's own silence, indispensable to its maintenance, and speech the correct response.[7]
 
+## The university tier
+
+Universities are integral to the censorship industrial complex, serving as research and operational hubs funded by government agencies to develop and legitimize censorship techniques.[9] More than 60 U.S. universities receive significant funding — approximately $100 million annually — from the [[national-science-foundation|National Science Foundation]], [[usaid|USAID]] and other agencies to establish "disinformation studies" programs.[9] The NSF, despite claims of independence from government, is widely regarded by observers of the government–NGO interface as the civilian arm of [[darpa|DARPA]].[9]
+
+[[arizona-state-university|Arizona State University]], [[yale-university|Yale]] and Cambridge are cited as institutions hosting [[pentagon|Pentagon]]-, [[state-department|State Department]]- or [[central-intelligence-agency|CIA]]-funded programs that analyze and target "disinformation"; ASU's president, [[michael-crow|Michael Crow]], is also chairman of the CIA venture arm [[in-q-tel|In-Q-Tel]].[9] [[mike-benz|Mike Benz]] has claimed that ASU's [[center-on-narrative-disinformation-and-strategic-influence|Center on Narrative, Disinformation & Strategic Influence]] acts as a CIA cut-out, building databases of pro-Trump social media content and developing "intelligence dashboards" for censorship policy.[9]
+
+The [[university-of-washington|University of Washington]]'s [[center-for-an-informed-public|Center for an Informed Public]], funded by the NSF, develops rapid-response frameworks such as "virality circuit breakers" and shares its findings with foreign governments and bodies including the UN and NATO.[9] NSF award #2120496 provided $2.25 million to the university in 2021 for disinformation research, and NSF funding cuts in 2025 may have reduced the center's scope.[9] Critics argue these frameworks target populist sentiment rather than misinformation as such, since a surplus of genuine misinformation is permitted to circulate where it serves a purpose.[9]
+
 ## References
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
 2. Badlands Brief — "American Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-a1a
@@ -78,3 +86,12 @@ The article stressed that the issue is not partisan, citing 2022 reporting by in
 Under the second Trump administration, the U.S. government's portion of the apparatus was substantially cut back with the termination of the [[counter-foreign-information-manipulation-and-interference-hub|R/FIMI]] hub by [[marco-rubio|Marco Rubio]] and [[darren-beattie|Darren Beattie]], and the declassification by Director of National Intelligence [[tulsi-gabbard|Tulsi Gabbard]] of the Biden administration's Strategic Implementation Plan for Countering Domestic Terrorism.[8] The article concluded that the primary hub for censorship efforts had consequently shifted to the EU and NATO, chiefly via the [[digital-services-act|Digital Services Act]], and that the censorship war is therefore not over.[8]
 
 8. Badlands Brief — "Is the Censorship War Over?", URL: https://badlands.substack.com/p/is-the-censorship-war-over
+9. Badlands Brief — "Scholars and Spooks", URL: https://badlands.substack.com/p/scholars-and-spooks
+
+## Personnel pipeline and the "disinformation expert"
+
+An April 2024 Badlands article by [[ryan-delarme|Ryan DeLarme]] described the complex as a variety of organizations that emerged in American political life over the previous decade and operate in concert to implement an institutionalized form of online censorship, working directly with the federal government to stifle dissent deemed dangerous to the objectives of the U.S. security state.[10] The individuals who staff this network, the article argued, often first emerge from the U.S. government and typically from [[department-of-homeland-security|Homeland Security]] itself, with the aborted [[disinformation-governance-board|Disinformation Governance Board]] under [[nina-jankowicz|Nina Jankowicz]] cited as the clearest example.[10] The article treated the profession of [[disinformation-expert|"disinformation expert"]] — exemplified by CISA-affiliated academic [[kate-starbird|Kate Starbird]] — as the human face of the complex, and argued that the connections such experts share with the intelligence community and Homeland Security are palpable red flags.[10]
+
+The collapse of the Disinformation Governance Board over the "Scary Poppins" public-relations disaster was described as a temporary retreat rather than a defeat, with Western governments continuing to work with organizations funded by neoliberal billionaires toward an official ministry-of-truth body, and with censorship-enabling legal frameworks already adopted in Canada, the United Kingdom and the European Union.[10]
+
+10. Badlands Brief — "The Adulation of the 'Disinformation Expert'", URL: https://badlands.substack.com/p/the-adulation-of-the-disinformation

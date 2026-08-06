@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [bush-family, dynasty, cia, middle-east, corruption]
-sources: [raw/profiting-from-war.md, raw/q-for-dummies-chapter-18.md]
+sources: [raw/profiting-from-war.md, raw/q-for-dummies-chapter-18.md, raw/q-for-dummies-chapter-9.md]
 confidence: low
 ---
 
@@ -46,3 +46,8 @@ Chapter 18 of the [[q-for-dummies|Q for Dummies]] series reads Q drop #119's que
 ## References
 1. Badlands Brief — "Profiting From War", URL: https://badlands.substack.com/p/profiting-from-war
 2. Badlands Brief — "Q for Dummies - Chapter 18", URL: https://badlands.substack.com/p/q-for-dummies-chapter-18
+3. Badlands Brief — "Q for Dummies - Chapter 9", URL: https://badlands.substack.com/p/q-for-dummies-chapter-9
+
+## Opposition to Trump in Chapter 9
+
+Chapter 9 of the Badlands series [[q-for-dummies|Q for Dummies]] asserts that the Bushes came out against [[donald-trump|President Trump]] because they were "as heavily involved as anyone" in selling the country out to [[saudi-arabia|Saudi Arabia]] and the [[deep-state|Deep State]].[3] The claim appears in the chapter's reading of Q drop #70, immediately after its list of American recipients of Saudi money, and is offered as further evidence for Q's point that compromised figures exist on both sides of the political aisle.[3] The author adds in passing that "Pappy Bush" — [[george-hw-bush|George H. W. Bush]] — later becomes the subject of a [[q-proofs|Q proof]], but declines to elaborate at that point in the series.[3]

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [information-warfare, demoralization, psychology, narrative, online-culture]
-sources: [raw/gaslighting-from-all-sides.md, raw/poisoning-the-well.md]
+sources: [raw/gaslighting-from-all-sides.md, raw/poisoning-the-well.md, raw/stuck-in-a-groove-of-negativity-and.md]
 confidence: medium
 ---
 
@@ -49,3 +49,13 @@ Carlson likened the black-pilled to sheep lured out of the pen by a wolf in shee
 [[erik-carlson|Erik Carlson]] treated black-pilling as one of the two intended end-states of narrative contamination in his January 26, 2024 essay "Poisoning the Well."[2] Describing the repeated exposure of implanted traitors within the [[truth-movement|truth community]], he wrote that when this occurs often enough the community becomes fractured and off balance — which he called the best outcome the [[deep-state|Deep State]] Cabal can hope for in many cases.[2] Of those affected, "some become confused, others become black pilled; they become demoralized and lose hope."[2] The consequence he identified in a single line: "They give up."[2]
 
 2. Badlands Brief — "Poisoning the Well", URL: https://badlands.substack.com/p/poisoning-the-well
+
+## Negativity as an engineered condition
+
+In "Stuck in a Groove of Negativity and Hopelessness" (May 4, 2023), [[erik-carlson|Erik Carlson]] treated pervasive negativity among truth seekers not as a reasonable response to events but as the intended product of an agenda of control: the [[deep-state|Deep State]] lies, blocks the truth, and — when truth escapes anyway — overwhelms people into hopelessness.[3] He described the method as using the seeker's own weight against them, laying "trails of breadcrumbs to get us lost" and then pulling the rug out and mocking those who publicly announced a conclusion.[3]
+
+Carlson argued that because the small minority of active truth seekers cannot simply be lied to or starved of information, "black pilling" and [[controlled-opposition|controlled opposition]] become the essential tools against them, with excessive negativity and partial truths designed to confuse and deflate.[3] He drew an analogy to overtraining in weightlifting: the remedy for a body that can no longer recover is rest, reduced volume or more food, and the analogous remedy for the demoralized researcher is to know oneself, recognize when one is being intentionally overwhelmed, and take a break or slow the pace.[3]
+
+He identified two concrete symptoms within his own community: people so convinced the American economy would be destroyed by the [[joe-biden|Biden]] administration's policies that they were rooting for the collapse in order to validate their belief, and people who insisted [[donald-trump|Trump]] could not win in 2024 because elections are too rigged and no protective systems exist.[3] Such readers, he wrote, seek only validation for their hopelessness and refuse messages of hope even when backed by evidence.[3] Against this he set an explicitly religious claim — that human beings are not designed by God to feel hopeless or defeated, and that despair originates with Satan and functions to remove a person from the fight.[3]
+
+3. Badlands Brief — "Stuck in a Groove of Negativity and Hopelessness", URL: https://badlands.substack.com/p/stuck-in-a-groove-of-negativity-and

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [consulting, globalism, future-of-work, world-economic-forum, automation]
-sources: [raw/a-time-to-strike.md, raw/artificial-intelligence.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-721.md]
+sources: [raw/a-time-to-strike.md, raw/artificial-intelligence.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-721.md, raw/rattling-a-broken-saber.md]
 confidence: medium
 ---
 
@@ -45,3 +45,10 @@ McKinsey's report "A new operating model for a new world" was the subject of an 
 2. Badlands Brief — "Artificial Intelligence", URL: https://badlands.substack.com/p/artificial-intelligence
 3. Badlands Brief — "Badlands News Brief: Orange Friday, Election Action, & McKinsey's Gives Advice", URL: https://badlands.substack.com/p/badlands-news-brief-71f
 4. Badlands News Brief — "Post Mortems, Dog Fights, & Flight Risks", URL: https://badlands.substack.com/p/badlands-news-brief-721
+
+## Contract under Ursula von der Leyen's German defense ministry
+
+Badlands contributor Ryan DeLarme reported that [[ursula-von-der-leyen|Ursula von der Leyen]], as German Minister of Defense from 2013 to 2019, awarded a large contract to McKinsey consultants during a tenure cited for "nepotism" and "incompetence."[5] He described the firm as a monolithic global management consultancy whose hands have been in many deep events, listing Enron, COVID, and the opioid epidemic.[5]
+
+## References
+5. Badlands Brief — "Rattling a Broken Saber?", URL: https://badlands.substack.com/p/rattling-a-broken-saber

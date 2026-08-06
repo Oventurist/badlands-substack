@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military, space, defense, procurement]
-sources: [raw/badlands-brief-ec9.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-e38.md, raw/badlands-news-brief-f1d.md, raw/dont-bring-shiny-rocks-to-digital.md]
+sources: [raw/badlands-brief-ec9.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-e38.md, raw/badlands-news-brief-f1d.md, raw/dont-bring-shiny-rocks-to-digital.md, raw/the-accomplishments-of-president.md]
 confidence: medium
 ---
 
@@ -29,6 +29,11 @@ In June 2023 Space Force Chief Operating Officer Lt. Gen. [[deanna-burt|DeAnna B
 
 In October 2025 the Space Force announced a contract with commercial weather satellite operator [[muon-space|Muon Space]] for three prototype spacecraft to provide data such as cloud forecasting for terrestrial and maritime operations.[4] The $44.6 million Phase III Small Business Innovation Research award followed a December 2024 contract under which Muon further developed an electro-optical/infrared sensor to "provide comprehensive cloud characterization and theater weather imagery."[4] Space Systems Command said the contract "leverages the company's existing commercial mission and builds upon the successful outcomes of its previous FireSat prototype launch," referring to the company's March 2025 launch of the first prototype of a planned 50-satellite wildfire-monitoring constellation developed with the Earth Fire Alliance.[4]
 
+
+## Creation as the sixth branch (Badlands account)
+
+Badlands Media's 2023 retrospective listed the establishment of the Space Force as the sixth branch of the armed forces among [[donald-trump|President Donald Trump]]'s principal governmental accomplishments, describing it as mirroring the space ambitions of one of Trump's idols, John F. Kennedy.[6] The author argued that the significance of the Space Force remained underappreciated, noting that all military communications now route through the branch and speculating that it plays a deeper role in national defense than is publicly understood.[6]
+
 ## References
 1. Badlands Brief — "Carefree Midterms, Space Networks, & Turned Tables", URL: https://badlands.substack.com/p/badlands-brief-ec9
 2. Badlands Brief — "Biden Baffles, Kennedy Debates & Pride Falls", URL: https://badlands.substack.com/p/badlands-news-brief-da3
@@ -45,3 +50,4 @@ In June 2025 the Space Force was reported to be partnering with [[spacex|SpaceX]
 A Space Force major, Jason P. Lowery, was the author of the thesis published as *Softwar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin*, which an April 2023 Badlands Media essay treated as a serving officer's formal argument that [[bitcoin|Bitcoin]] is a national strategic priority.[5] The essay presented [[softwar|Softwar]] as a war doctrine fought primarily on the digital rather than the physical battlefield, projecting force non-kinetically, and described Bitcoin under that doctrine as a "weapon of peace" against all enemies foreign and domestic — including [[artificial-intelligence|artificial intelligence]].[5] The author regarded the fact that the thesis came from within the Space Force as significant to its credibility, and urged readers to read the book.[5]
 
 5. Badlands Brief — "Don't Bring Shiny Rocks to Digital Gunfights", URL: https://badlands.substack.com/p/dont-bring-shiny-rocks-to-digital
+6. Badlands Brief — "The Accomplishments of President Trump - Part 1", URL: https://badlands.substack.com/p/the-accomplishments-of-president

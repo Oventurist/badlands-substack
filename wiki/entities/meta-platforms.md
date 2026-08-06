@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [facebook, meta, big-tech, cia, free-speech, dei]
-sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-52b.md, raw/badlands-brief-bce.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-b10.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-d74.md, raw/badlands-news-brief-db9.md, raw/badlands-news-brief-db1.md, raw/badlands-news-brief-e07.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-f54.md, raw/badlands-news-brief-f61.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-52b.md, raw/badlands-brief-bce.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-b10.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-d74.md, raw/badlands-news-brief-db9.md, raw/badlands-news-brief-db1.md, raw/badlands-news-brief-e07.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-f54.md, raw/badlands-news-brief-f61.md, raw/spear-of-justice.md]
 confidence: medium
 ---
 
@@ -95,6 +95,10 @@ In late July 2024 Meta-owned [[facebook|Facebook]] admitted it had "mistakenly" 
 
 In July 2023 Meta launched [[threads|Threads]], a text-based conversation app positioned as a competitor to [[twitter|Twitter]], and claimed more than 10 million sign-ups within hours.[23] The app permitted posts of up to 500 characters with links, photos and videos, was tied directly to Meta-owned [[instagram|Instagram]] and its more than 2 billion users, and launched in over 100 countries on iOS and Android.[23] Coverage of the rollout paired the growth figures with immediate data-privacy and censorship concerns, including criticism from former Twitter owner [[jack-dorsey|Jack Dorsey]] over the scale of data the app harvests.[23] [[justin-deschamps|Justin Deschamps]] of [[badlands-media|Badlands Media]] argued that Meta and other social media companies function as agents for globalist interests, using private platforms to censor speech, and framed the withholding of relevant information from citizens as a form of coercion that destroys the "meeting of the minds" required for lawful and honorable agreements in a self-governing society.[23]
 
+## Texas Privacy Settlement as a Disclosure Channel (2025 analysis)
+
+An August 2025 Badlands Media essay argued that the headline figure of Texas Attorney General [[ken-paxton|Ken Paxton]]'s $1.4 billion settlement with Meta was less significant than the compliance terms buried inside it.[25] According to the piece, those terms convert the platform's own systems into standing disclosure channels, so that each mandated report becomes "a vein of intelligence" revealing how data is collected, where it moves, how it is monetized, and who benefits — in systems terms, the conversion of an opaque node into a monitored utility.[25] The author further claimed that the resulting filings are being tracked in real time using Palantir-level analytics and other advanced AI systems, so that any attempt to bend the numbers or bury the trail would be flagged immediately.[25]
+
 ## References
 
 1. Badlands Brief — "America Has a CIA-Run Economy", URL: https://badlands.substack.com/p/america-has-a-cia-run-economy
@@ -158,3 +162,4 @@ Badlands contributor [[brad-getz|Brad Getz]] read the reversal as "a symbolic ad
 CEO [[mark-zuckerberg|Mark Zuckerberg]] responded to [[elon-musk|Elon Musk]]'s proposal of a mixed martial arts bout in Italy by posting on [[threads|Threads]] that he had "been ready to fight since the day Elon challenged me" but was "not holding my breath," and that when he competes he wants to work with professional organizations such as the [[ufc|UFC]] or ONE.[24] Badlands commentary read the episode as a publicity stunt intended to drum up support for both Meta and X, since the event was to be streamed on the two platforms.[24] See [[musk-zuckerberg-cage-match|Musk–Zuckerberg cage match]].[24]
 
 24. Badlands Brief — "Badlands News Brief: Special Counsels, Island Fires & White Pills", URL: https://badlands.substack.com/p/badlands-news-brief-f61
+25. Badlands Brief — "Spear of Justice: Ken Paxton and the Bleeding Edge", URL: https://badlands.substack.com/p/spear-of-justice

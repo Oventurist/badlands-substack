@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [joe-biden, oversight, bribery, burisma, congress]
-sources: [raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-7a7.md]
+sources: [raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-7a7.md, raw/smoke-and-mirrors.md]
 confidence: medium
 ---
 
@@ -39,3 +39,13 @@ DeLarme further asserted that [[hunter-biden|Hunter Biden]] had admitted in his 
 ## References
 1. Badlands Brief — "Badlands News Brief: Trump Indicted ... Again, and Other Stories!", URL: https://badlands.substack.com/p/badlands-news-brief-1cc
 2. Badlands Brief — "Badlands News Brief: Trump Defiant, Biden Protected & Woke Worn", URL: https://badlands.substack.com/p/badlands-news-brief-7a7
+
+## "A Blind Eye for Biden" (June 2023)
+
+In his June 16, 2023 essay "Smoke and Mirrors," [[ryan-delarme|Ryan DeLarme]] wrote that while media attention was fixed on the [[2023-trump-classified-documents-indictment|Trump indictment]], [[joe-biden|Joe Biden]] stood accused of pay-to-play schemes and bribery, and the [[fbi|FBI]] had essentially admitted — under questioning from Senator [[marsha-blackburn|Marsha Blackburn]] — to helping cover it all up.[3] In a normal world, he argued, the story would be bigger than O. J. Simpson, Monica Lewinsky and Stormy Daniels combined, and it barely scratched the surface of what the Bidens had been implicated in.[3]
+
+DeLarme catalogued the surrounding allegations: that [[hunter-biden|Hunter Biden]] admitted in his own words to giving half his salary to his father for the previous three decades; that at least 459 documented crimes, including money laundering and tax fraud, appear on the [[hunter-biden-laptop|Biden laptop]] the FBI had held since December 2019; that the Bidens allegedly collected millions from Ukrainian oligarchs as unregistered foreign lobbyists; that they worked with the "spy chief of China"; and that they attempted to broker a $9 billion deal for [[vladimir-putin|Vladimir Putin]].[3]
+
+His broader thesis was that the coverage disparity was deliberate — a "smoke-and-mirrors" effect by which the "system of systems," through its media apparatus, directs the public's collective gaze: "Look here, not there."[3] The [[deep-state|Deep State]] modus operandi, he wrote, has always been to control the media, shape the narrative and thereby control the masses, sustaining a "cultural hypnosis" among voters who still trust [[legacy-media|legacy media]] institutions.[3] Whereas Trump's alleged crime was "the fever dream of a bunch of panicked [[uniparty|uniparty]] personnel," Biden's were, in his account, obvious to anyone willing to invest the time.[3] He closed by noting that the sleight-of-news tactic does not work on everyone, and that each repetition causes more people to see the system for what it is.[3]
+
+3. Badlands Brief — "Smoke and Mirrors", URL: https://badlands.substack.com/p/smoke-and-mirrors

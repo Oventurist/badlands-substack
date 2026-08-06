@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [elections, election-integrity, absentee-voting, law]
-sources: [raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-b5a.md, raw/grand-jury-testimony-from-senator.md, raw/inside-the-modern-elections-casino.md]
+sources: [raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-b5a.md, raw/grand-jury-testimony-from-senator.md, raw/inside-the-modern-elections-casino.md, raw/smart-goal-setting-in-the-age-of.md]
 confidence: medium
 ---
 
@@ -48,3 +48,9 @@ Former U.S. Senator [[david-perdue|David Perdue]] testified before the Fulton Co
 Election analyst [[seth-keshel|Seth Keshel]] described ballot harvesting as "the most important condition of mail-ballot fraud — actions on the objective," and said his election forecasts now weight it alongside [[automatic-voter-registration|Automatic Voter Registration]] and universal or excessive [[mail-in-voting|mail-in voting]], noting that its legality varies by state.[4] In his April 2025 essay comparing elections to casino games, he grouped harvesting with drop boxes and Nevada-style universal mail voting as house advantages, and warned that mixing in [[ranked-choice-voting|ranked choice voting]] as Alaska and Maine do compounds the effect.[4]
 
 4. Badlands Brief — "Inside the Modern Elections Casino", URL: https://badlands.substack.com/p/inside-the-modern-elections-casino
+
+## Professional collectors and the time variable
+
+In a February 13, 2025 [[badlands-media|Badlands Media]] guest essay, [[seth-keshel|Seth Keshel]] listed the legalization or non-penalization of ballot harvesting as a distinct stage in his sequence of manual election corruption, following corrupted [[voter-registration|voter registration]] and the expansion of [[mail-in-voting|mail-in balloting]] toward the universal model.[5] He described the next stage as the hiring of professional ballot collectors to gather mail ballots, especially those landing at designated locations with no real recipient but known to collection agents through compromised and shared data.[5] The final ingredient, he wrote, is time: more [[early-voting|early voting]] gives harvesters more opportunity to collect and turn in every assigned ballot in a precinct.[5] Ballot harvesting is one of his [[eight-cardinal-sins|Eight Cardinal Sins]] of election administration.[5]
+
+5. Badlands Brief — "SMART Goal Setting in the Age of Election Corruption", URL: https://badlands.substack.com/p/smart-goal-setting-in-the-age-of

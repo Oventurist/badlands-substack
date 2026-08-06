@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [elections, midterms, election-integrity, ballots, 2026]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-02a.md, raw/badlands-brief-165.md, raw/badlands-brief-58d.md, raw/badlands-brief-618.md, raw/badlands-brief-9eb.md, raw/badlands-brief-b56.md, raw/badlands-brief-bb1.md, raw/badlands-brief-d9f.md, raw/badlands-brief-ec9.md, raw/badlands-news-brief-2e4.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-02a.md, raw/badlands-brief-165.md, raw/badlands-brief-58d.md, raw/badlands-brief-618.md, raw/badlands-brief-9eb.md, raw/badlands-brief-b56.md, raw/badlands-brief-bb1.md, raw/badlands-brief-d9f.md, raw/badlands-brief-ec9.md, raw/badlands-news-brief-2e4.md, raw/smart-goal-setting-in-the-age-of.md]
 confidence: medium
 ---
 
@@ -92,6 +92,10 @@ Ahead of the midterms, Global News reported that President [[donald-trump|Donald
 
 Badlands host [[canncon|CannCon]] used the same coverage to restate his long-held position that the 2020 election was stolen, writing that over five years he had concluded that "NONE of elections are legitimate" and that the problem probably extends back at least 25 years, and that after years of social media and financial deplatforming and ridicule from [[mockingbird-media|Mockingbird Media]] outlets, "vindication is upon us."[11]
 
+## Reform timeline pressure (February 2025)
+
+Election analyst [[seth-keshel|Seth Keshel]] used the 2026 midterms as the fixed deadline in a February 13, 2025 [[badlands-media|Badlands Media]] essay applying [[smart-goal-setting|SMART goal setting]] to election reform, observing that one-eighth of the period between [[donald-trump|Donald Trump]]'s 2024 victory and the November 2026 races had already elapsed while Trump had been back in office barely three weeks.[12] He estimated that a 90-day [[election-reform-committee|Election Reform Committee]] cycle, three weeks of presidential deliberation, 90 days of injunctions and hearings, and 90 days of Supreme Court review would consume close to 300 days — reaching December 10, 2025, less than eleven months before Election Day 2026 and less than ten months before [[early-voting|early voting]] began.[12] He warned that if grand-scale overhaul did not begin as soon as humanly possible, reformers would have to give up on 2026 and pivot to protecting the 2028 presidential election.[12]
+
 ## References
 
 1. Badlands Brief — "Mixed Gender Crews, Trafficking Stings, & Shadow Cabal Reruns", URL: https://badlands.substack.com/p/badlands-brief-029
@@ -105,3 +109,4 @@ Badlands host [[canncon|CannCon]] used the same coverage to restate his long-hel
 9. Badlands Brief — "Dueling Color Revolutions, Economic Escalation, & Superseding Somali Scams", URL: https://badlands.substack.com/p/badlands-brief-d9f
 10. Badlands Brief — "Carefree Midterms, Space Networks, & Turned Tables", URL: https://badlands.substack.com/p/badlands-brief-ec9
 11. Badlands News Brief — "Escalating Elections, Fragmented Forums, & Merry Murder Metrics", URL: https://badlands.substack.com/p/badlands-news-brief-2e4
+12. Badlands Brief — "SMART Goal Setting in the Age of Election Corruption", URL: https://badlands.substack.com/p/smart-goal-setting-in-the-age-of

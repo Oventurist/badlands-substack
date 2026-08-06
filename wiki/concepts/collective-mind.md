@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [narrative, information-war, psychology, badlands]
-sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-82f.md, raw/death-blossom.md, raw/inflection-point.md]
+sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-82f.md, raw/death-blossom.md, raw/inflection-point.md, raw/right-the-ship.md]
 confidence: medium
 ---
 
@@ -55,3 +55,11 @@ In "Inflection Point" (January 6, 2023), [[burning-bright|Burning Bright]] descr
 Entering 2023, he wrote, the Collective Mind of American — and perhaps world — society was "poised on the tip of a knife's edge" and crossing a threshold, as subjects previously excluded from open public debate returned to it and "many genies" were unleashed that could not be put back in their bottles.[5] He cited the contested Speaker of the House nomination, the threatened continuation of the [[twitter-files|Twitter Files]], and the televised collapse of [[damar-hamlin|Damar Hamlin]] as the proximate triggers.[5] By his reckoning the pendulum in the Mind War had reached the zenith of its arc and had begun swinging back toward truth, discernment and justice — an [[inflection-point|inflection point]] rather than an ending.[5]
 
 5. Badlands Brief — "Inflection Point", URL: https://badlands.substack.com/p/inflection-point
+
+## Fragility and manipulability of the Collective Mind (January 2023)
+
+In "Right the Ship" (January 12, 2023), [[burning-bright|Burning Bright]] stressed the fragility of the Collective Mind of American society "when it comes to emotional pushes," and the forbidding, often-costly power and momentum of that Collective when it is guided, pushed or aimed in the wrong direction.[6] He argued that while the ideological Left was at that moment inflicting significantly more damage on the American Mind than its counterpart on the Right, the opposite could have been argued twenty years earlier, when unthinking adherence to the Right — and its badges of patriotism, nationalism and "unity" — was weaponized to whip the nation into a "bloodthirsty, disconcerting zeal" that supplied the public mandate for the Middle East [[forever-wars|Forever War]].[6]
+
+He credited the decentralized "hivemind of citizen intelligence" with growing collective discernment, making it less likely by the day to be swept up in costly emotional narratives, while cautioning that even that community remains susceptible to emotional manipulation by all sides on the Game Theory Game Board.[6] Potential Events, he added, retain real power in shaping the directional thinking and therefore the directional momentum of the Collective Mind, whether or not they ever become Actual.[6]
+
+6. Badlands Brief — "Right the Ship", URL: https://badlands.substack.com/p/right-the-ship

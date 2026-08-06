@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ngo, soros, funding, clinton-email-investigation]
-sources: [raw/badlands-news-brief-168.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-f54.md, raw/badlands-news-brief-f44.md, raw/george-soros-shadow-network.md, raw/george-soros-a-british-creation.md, raw/is-the-censorship-war-over.md]
+sources: [raw/badlands-news-brief-168.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-f54.md, raw/badlands-news-brief-f44.md, raw/george-soros-shadow-network.md, raw/george-soros-a-british-creation.md, raw/is-the-censorship-war-over.md, raw/structures-of-control-part-2.md, raw/structures-of-control-part-1.md]
 confidence: low
 ---
 
@@ -95,3 +95,15 @@ Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] identified [[george-sor
 The piece also noted that many of these protest-organizing NGOs — the Open Society Foundation and its various spin-offs — work directly with NATO, a connection it said conservative media rarely mentions, preferring to focus on impressionable students.[12] Such foundations are placed within the "civil society" third sector that the article says underwrites the [[censorship-industrial-complex|censorship-industrial complex]].[12]
 
 12. Badlands Brief — "Is the Censorship War Over?", URL: https://badlands.substack.com/p/is-the-censorship-war-over
+
+## Alleged role in "global citizenship" education
+
+The "Structures of Control" series identifies the Open Society Foundations as one of the well-funded organizations behind a two-decade transformation of American public education, promoting "global citizenship" through curricula that the article says emphasize interconnectedness and compliance over critical thinking.[13] It pairs this with the [[gates-foundation|Gates Foundation]]'s sponsorship of the [[common-core-state-standards-initiative|Common Core State Standards Initiative]], arguing that the two together deprioritize creativity, national history, civics, and individual rights in favor of collective responsibility for global issues such as climate change.[13] The claimed outcome is a generation that prioritizes international governance frameworks such as the United Nations [[sustainable-development-goals|Sustainable Development Goals]] over national sovereignty, and that is primed to accept digital IDs and [[central-bank-digital-currency|centralized digital currencies]].[13] The article frames these curricula not as isolated policy changes but as instruments of [[4d-timeline-control|4D timeline control]].[13]
+
+13. Badlands Brief — "Structures of Control - Part 2", URL: https://badlands.substack.com/p/structures-of-control-part-2
+
+## Judicial offices as control nodes
+
+In Part 1 of the Badlands Media [[structures-of-control-part-1-series|Structures of Control]] series, judicial offices targeted by organizations such as the Open Society Foundations are described as critical [[node-systems-dynamics|nodes]] within the justice system, collecting inputs from campaign funding, media narratives, and public expectations and outputting decisions that influence local governance.[14] The article argues that such nodes do more than respond to external pressure — they actively propagate influence, turning local decisions into signals that ripple outward and reinforce broader systemic agendas while eroding local autonomy.[14] It cites the 2016 election cycle, when district attorney candidates backed by [[george-soros|George Soros]] are said to have become operational nodes disseminating policies that weakened prosecution rates, generating instability that justified higher-level intervention framed as necessary solutions.[14] Rising crime is presented as the resulting national outcome, and the "Defund the Police" movement is described as linked to Soros-connected NGOs.[14]
+
+14. Badlands Brief — "Structures of Control - Part 1", URL: https://badlands.substack.com/p/structures-of-control-part-1

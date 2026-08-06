@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fbi, arctic-frost, lawfare, january-6]
-sources: [raw/badlands-news-brief-060.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-780.md, raw/badlands-news-brief-79c.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b39.md, raw/badlands-news-brief-bcc.md, raw/badlands-news-brief-c44.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-d06.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-f0e.md, raw/badlands-news-brief-f32.md, raw/irregular-warfare.md, raw/purple-revolution.md, raw/q-for-dummies-chapter-17.md]
+sources: [raw/badlands-news-brief-060.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-780.md, raw/badlands-news-brief-79c.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b39.md, raw/badlands-news-brief-bcc.md, raw/badlands-news-brief-c44.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-d06.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-f0e.md, raw/badlands-news-brief-f32.md, raw/irregular-warfare.md, raw/purple-revolution.md, raw/q-for-dummies-chapter-17.md, raw/setting-the-stage.md]
 confidence: medium
 ---
 
@@ -121,6 +121,10 @@ In "[[irregular-warfare|Irregular Warfare]]," Joe Lange offers an unconventional
 Rather than treating the withholding as obstruction, Lange contends the documents were being lawfully protected as evidence in an ongoing RICO investigation begun in 2017 under [[jeff-sessions|Jeff Sessions]] with [[john-huber|John Huber]] and [[michael-horowitz|Michael Horowitz]], which is why Wray repeatedly told Congress he could not comment on ongoing matters.[22] He cites [[qanon|Q]] drop 1318 (May 8, 2018), which asks why Sessions and Wray would be "cleaning their respective houses" if they were themselves deep state, notes that firings within the FBI required Wray's approval as well as Sessions', and points to Q drop 1807's roster of dismissed senior FBI officials as evidence that they did.[22] These claims represent the author's interpretation and are not corroborated by mainstream reporting.
 
 
+## The Bowdich promotion
+
+A related argument appears in "Setting the Stage," where Joe Lange examines Wray's decision to elevate [[david-bowdich|David Bowdich]] — the FBI's number-three official during the [[crossfire-hurricane|Crossfire Hurricane]] frame job — to deputy director after [[andrew-mccabe|Andrew McCabe]] stepped down in January 2018.[25] Bowdich had been named by [[james-comey|James Comey]] in Senate Intelligence Committee testimony as one of the senior colleagues told about Trump's alleged request to drop the [[michael-flynn|Flynn]] probe, making him a potential witness in an obstruction-of-justice case against Trump, and Senator [[dianne-feinstein|Dianne Feinstein]] sought his testimony.[25] Lange asks why Wray would promote such a figure if he had genuinely "cleaned house," and offers the answer that Bowdich was a deliberate plant gathering evidence against Comey and McCabe from inside the bureau.[25] He again cites Q's paired questions — why deep state actors would clean their own houses, and whether Trump would tolerate a captured DOJ and FBI if nothing were happening behind the scenes.[25]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Quantum Tunneling, Natural Conflicts, & Pirates for Gaza", URL: https://badlands.substack.com/p/badlands-news-brief-060
 2. Badlands Brief — "Badlands News Brief: Hot Wars Wind Down. Trade & Meme Wars Heat Up.", URL: https://badlands.substack.com/p/badlands-news-brief-071
@@ -167,6 +171,7 @@ The author offers three readings of Wray: that he was wholly ignorant of what hi
 
 23. Badlands Brief — "Purple Revolution", URL: https://badlands.substack.com/p/purple-revolution
 24. Badlands Brief — "Q for Dummies - Chapter 17", URL: https://badlands.substack.com/p/q-for-dummies-chapter-17
+25. Badlands Brief — "Setting the Stage", URL: https://badlands.substack.com/p/setting-the-stage
 
 ## "Trust Wray" in Q drop #117
 

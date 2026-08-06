@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [domestic-terrorism, protest, doj, texas]
-sources: [raw/badlands-brief-095.md, raw/badlands-brief-abf.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-732.md, raw/badlands-news-brief-c9a.md, raw/q-for-dummies-chapter-2.md]
+sources: [raw/badlands-brief-095.md, raw/badlands-brief-abf.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-732.md, raw/badlands-news-brief-c9a.md, raw/q-for-dummies-chapter-2.md, raw/stay-focused-on-the-big-picture.md]
 confidence: medium
 ---
 
@@ -106,3 +106,9 @@ In April 2023 commentary on the [[fedsurrection|"Fedsurrection"]] disclosures, B
 ## Q drop #12 in "Q for Dummies" Chapter 2
 
 Badlands' "Q for Dummies" Chapter 2 reads Q drop #12 (October 30, 2017) as indicating that Antifa "is being allowed to operate for a reason" — namely that its members and networks are being mapped and followed, and that friendly infiltrators had probably been placed inside the movement.[12] The author generalizes the point: "infiltration is a two-way street. There is nothing that says 'only black hats can infiltrate.'"[12]
+
+## Alleged CCP funding of the 2020 riots (Carlson)
+
+Badlands contributor [[erik-carlson|Erik Carlson]] wrote in October 2024 that there is strong evidence the [[chinese-communist-party|CCP]] controlled and funded the 2020 [[black-lives-matter|BLM]] and ANTIFA riots, which began in Minnesota under the governorship of [[tim-walz|Tim Walz]].[13] The claim formed part of Carlson's argument that Walz had long been a CCP-controlled asset and that his placement on the 2024 Democratic ticket was engineered.[13]
+
+13. Badlands Brief — "Stay Focused on the Big Picture", URL: https://badlands.substack.com/p/stay-focused-on-the-big-picture

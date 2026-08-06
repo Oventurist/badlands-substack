@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [artificial-intelligence, world-economic-forum, globalism, historian]
-sources: [raw/artificial-intelligence.md, raw/badlands-news-brief-5b2.md, raw/combating-the-transhumanist-religion.md]
+sources: [raw/artificial-intelligence.md, raw/badlands-news-brief-5b2.md, raw/combating-the-transhumanist-religion.md, raw/soul-governance.md]
 confidence: medium
 ---
 
@@ -32,8 +32,12 @@ Harari also holds that humans have only two basic abilities, physical and cognit
 
 Ehret situates Harari's outlook in the [[cybernetics|cybernetics]] lineage of Marshall McLuhan, [[julian-huxley|Julian Huxley]], [[norbert-wiener|Norbert Wiener]], [[pierre-teilhard-de-chardin|Pierre Teilhard de Chardin]] and [[ray-kurzweil|Ray Kurzweil]], and notes that Harari always excludes himself from the category of purposeless, hackable humans.[3] He contrasts Harari's unipolar vision of stasis and an end to history with [[vladimir-putin|Vladimir Putin]]'s St. Petersburg address on a technology-based economy and [[multipolar-world-order|multipolarity]].[3]
 
+## In "Soul Governance"
+
+The Badlands Media essay [[soul-governance|Soul Governance]] names Yuval Harari the "high priest of nihilism" of what it calls the digital grid, a religious order whose Vatican is the [[world-economic-forum|World Economic Forum]].[4] The essay treats his best-known assertions — that humans are hackable animals and that the soul is obsolete — as doctrinal claims aimed at sovereignty rather than at religion, arguing that a person persuaded his soul is obsolete ceases to be a threat to the system.[4]
+
 ## References
 1. Badlands Brief — "Artificial Intelligence", URL: https://badlands.substack.com/p/artificial-intelligence
 2. Badlands Brief — "Badlands News Brief: Sovereign Alliance Comms and Tapwater Goblins", URL: https://badlands.substack.com/p/badlands-news-brief-5b2
 3. Badlands Brief — "Combating the Transhumanist Religion", URL: https://badlands.substack.com/p/combating-the-transhumanist-religion
-
+4. Badlands Brief — "Soul Governance", URL: https://badlands.substack.com/p/soul-governance

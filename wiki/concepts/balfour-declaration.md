@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [israel, zionism, britain, world-war-i, rothschild, badlands-media]
-sources: [raw/on-infiltration-and-israel.md]
+sources: [raw/on-infiltration-and-israel.md, raw/real-patriots-dont-think-like-hitler-6fc.md]
 confidence: medium
 ---
 
@@ -22,3 +22,11 @@ Badlands situates the declaration's consequences within a cluster of mid-twentie
 
 ## References
 1. Badlands Brief — "On Infiltration and Israel", URL: https://badlands.substack.com/p/on-infiltration-and-israel
+
+## Authorship and imperial motive
+
+Part 6 of the "Real Patriots Don't Think Like Hitler" series states that the 1917 declaration — which it calls the Balfour Accords — was co-authored by [[arthur-balfour]] alongside [[leo-amery]], [[alfred-milner|Lord Milner]] and Walter Rothschild, with Prime Minister Lloyd George overseeing the project.[2] Balfour is described there as a leading strategist of the Rhodes-Milner Round Table Group and, like [[winston-churchill]], a white supremacist, Zionist and supporter of fascism.[2]
+
+The article notes that Balfour had earlier led the passage of anti-Jewish immigration laws in England in 1905 that barred persecuted Russian Jews from the UK, and that he wrote in 1919 that Zionism would "mitigate the age-long miseries created for Western civilization by the presence in its midst of a Body which it too long regarded as alien and even hostile, but which it was equally unable to expel or to absorb."[2] On this reading the declaration served two purposes at once: providing an excuse to purge the Jews from Europe, and creating a weapon for destabilization at the geopolitical pivot of Halford Mackinder's Heartland.[2]
+
+2. Badlands Brief — "Real Patriots Don't Think Like Hitler - Part 6: 'Greater Israel' as a British Imperial Project", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-6fc

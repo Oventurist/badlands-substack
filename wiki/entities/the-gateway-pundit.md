@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, citizen-journalism, election-integrity]
-sources: [raw/badlands-brief-e9e.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-e7c.md]
+sources: [raw/badlands-brief-e9e.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-e7c.md, raw/thats-not-signature-verification.md]
 confidence: low
 ---
 
@@ -46,6 +46,10 @@ In June 2023, The Gateway Pundit reported that [[dc-draino|DC Draino]] had tweet
 
 In April 2023, [[the-gateway-pundit|The Gateway Pundit]] reported that court documents revealed the Biden [[department-of-justice|Department of Justice]] admitting to at least 40 undercover operatives with the Proud Boys on January 6, 2021 — a disclosure central to the [[fedsurrection|"Fedsurrection"]] thesis.[8] Badlands writer [[ryan-delarme|Ryan DeLarme]] described 40 government confidential human source agents undercover that day in addition to 40 undercover operatives and 8 informants inside the group, with further assets within the [[oath-keepers|Oath Keepers]], putting the confirmed total near 100 excluding non-federal anarchist provocateurs.[8]
 
+## Reporting on Maricopa County ballot printers
+
+Gateway Pundit reporter Jordan Conradson documented the shifting testimony of [[maricopa-county|Maricopa County]] Elections Director [[scott-jarrett|Scott Jarrett]] in the first [[lake-v-hobbs|Lake v. Hobbs]] trial, reporting that Jarrett claimed "no knowledge" of a 19-inch ballot image being placed on 20-inch paper before changing his account the following day.[10] The outlet also reported on the county's [[maricopa-county-2022-ballot-on-demand-printer-investigation|Ballot on Demand printer investigation]], characterizing it as a sham independent inquiry released after the election day disaster.[10]
+
 ## References
 
 1. Badlands Brief — "Earned Deportations, Irish Knife Fights, & the Eventual "Liberation" of Jerusalem", URL: https://badlands.substack.com/p/badlands-brief-e9e
@@ -62,3 +66,4 @@ In April 2023, [[the-gateway-pundit|The Gateway Pundit]] reported that court doc
 The Gateway Pundit's September 2023 report on the [[2023-house-capitol-security-oversight-hearing|House subcommittee hearing]] into January 6 security failures complained that not a single mainstream outlet covered the session, and claimed that aside from C-SPAN's routine airing of congressional proceedings it was the only news source reporting on it.[9] The outlet contrasted this with the primetime saturation given to what it called the "Democrat-run January 6th Unselect Committee propaganda hearings," and argued that former Capitol Police Chief [[steven-sund|Steven Sund]] had been silenced because his testimony confirmed [[nancy-pelosi|Nancy Pelosi]]'s culpability and her use of him as a scapegoat.[9]
 
 9. Badlands Brief — "Badlands News Brief: A Fed, a Ukrainian & a DeSimp Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-e7c
+10. Badlands Brief — "That's Not Signature Verification, Your Honor", URL: https://badlands.substack.com/p/thats-not-signature-verification

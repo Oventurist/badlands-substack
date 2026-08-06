@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [national-security, trump-administration, israel, first-amendment, ukraine]
-sources: [raw/badlands-brief-58d.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-688.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-c44.md, raw/badlands-news-brief-ee6.md, raw/badlands-news-brief-fa7.md]
+sources: [raw/badlands-brief-58d.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-688.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-c44.md, raw/badlands-news-brief-ee6.md, raw/badlands-news-brief-fa7.md, raw/rattling-a-broken-saber.md]
 confidence: medium
 ---
 
@@ -68,3 +68,10 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] read 
 6. Badlands Brief — "Badlands News Brief: A British TERF Triumph & A Senator Snubbed in El Salvador", URL: https://badlands.substack.com/p/badlands-news-brief-c44
 7. Badlands Brief — "Badlands News Brief: Traversing Judicial Coups & Raw-Dogging the Conclave", URL: https://badlands.substack.com/p/badlands-news-brief-ee6
 8. Badlands Brief — "Badlands News Brief: Bush-Era Bombshells & MAGA Morale", URL: https://badlands.substack.com/p/badlands-news-brief-fa7
+
+## Assessment of European naval capability (2025)
+
+During the Signal group-chat episode in which senior Trump administration officials discussed strikes on the Houthis, Waltz addressed the question of European free-riding raised by Vice President [[jd-vance|J.D. Vance]], who had asked why the United States should bomb the Houthis over a canal carrying only 3% of American trade.[9] Waltz replied: "Whether we pull the plug or not, today European navies do not have the capability to defend against the types of sophisticated, antiship, cruise missiles, and drones the Houthis are now using."[9] Badlands contributor Ryan DeLarme cited the remark as a concise measure of European military weakness, asking how a continent unable to fight off the Houthis could expect to defeat Russia.[9]
+
+## References
+9. Badlands Brief — "Rattling a Broken Saber?", URL: https://badlands.substack.com/p/rattling-a-broken-saber

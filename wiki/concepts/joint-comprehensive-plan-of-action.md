@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [iran, nuclear-deal, obama, sanctions, geopolitics]
-sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-168.md, raw/does-the-cia-still-control-iran.md, raw/panic-in-dc.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-168.md, raw/does-the-cia-still-control-iran.md, raw/panic-in-dc.md, raw/q-for-dummies-chapter-5.md]
 confidence: medium
 ---
 
@@ -53,3 +53,8 @@ Carlson's explanation was that Iran was "running on fumes" and needed cash to su
 The article also charges that a central selling point of the agreement was false. Investor's Business Daily, citing a Senate Permanent Subcommittee on Investigations report, reported that one of the deal's linchpins was a near-ban on Iranian access to the U.S. banking system, and that Obama told [[congress|Congress]] the administration would bar Iran from the financial system if the deal were not blocked — while officials simultaneously pressed the [[us-department-of-the-treasury|Treasury]] for an undisclosed February 2016 license letting Iran convert roughly $5.7 billion from rials into dollars and then euros.[4] The article further alleges that the administration's desire for a negotiated nuclear settlement produced a reluctance to act against senior [[hezbollah|Hezbollah]] operatives under [[project-cassandra|Project Cassandra]], and cites Trump's remark that access to more than $100 billion under the deal served as "a slush fund for weapons, terror, and oppression."[4] Lange notes that [[iran|Iran]] later sued the United States at the [[international-court-of-justice|ICJ]] over Trump's withdrawal and reimposition of sanctions.[4]
 
 4. Badlands Brief — "Panic in DC", URL: https://badlands.substack.com/p/panic-in-dc
+5. Badlands Brief — "Q for Dummies - Chapter 5", URL: https://badlands.substack.com/p/q-for-dummies-chapter-5
+
+## Treatment in the Q drops
+
+Chapter 5 of [[q-for-dummies|Q for Dummies]] identifies the agreement as "the deal being referred to" in Q drop #39 of November 2, 2017.[5] The commentary characterises it as an arrangement made by [[barack-obama|Barack Obama]] that "was an affront to the United States," and asserts that it was kept top secret "because of its treasonous nature," with Obama intending that no one see it.[5] The drop's surrounding material links the deal to [[north-korea|North Korea]]'s nuclear progress and to Obama's alleged overseas travel intended to undo [[donald-trump|Trump]]'s diplomacy.[5]

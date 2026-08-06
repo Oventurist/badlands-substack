@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [occult, performance-art, elites, symbolism]
-sources: [raw/badlands-news-brief-2ca.md, raw/q-for-dummies-chapter-14.md]
+sources: [raw/badlands-news-brief-2ca.md, raw/q-for-dummies-chapter-14.md, raw/soul-governance.md]
 confidence: medium
 ---
 
@@ -28,7 +28,12 @@ Chapter 14 of the [[q-for-dummies|Q for Dummies]] series notes that Q drop #100,
 
 The same drop is read as touching on related occult symbolism, including the inverted cross — which the author notes originally represented the crucifixion of St. Peter but has been repurposed as a Satanic emblem — and identifies [[chelsea-clinton|Chelsea Clinton]], who has been photographed wearing one, as the likely subject of Q's reference.[2] The broader assertion in the chapter is that a large share of officials in government "worship Satan."[2]
 
+## In "Soul Governance"
+
+The Badlands Media essay [[soul-governance|Soul Governance]] treats spirit cooking "not as metaphor, but as a broadcast," paraphrasing its supposed message as "we own the light, we eat it."[3] It is grouped with [[marina-abramovic|Marina Abramović]]'s performance work and [[john-podesta|Podesta]]'s association with ritualized art as instances of inversion — imitations of true communion produced by actors the essay says can only mimic what they cannot create.[3]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Ukrainian Nazis, Spirit Cooks & Potato Presidents", URL: https://badlands.substack.com/p/badlands-news-brief-2ca
 2. Badlands Brief — "Q for Dummies - Chapter 14", URL: https://badlands.substack.com/p/q-for-dummies-chapter-14
+3. Badlands Brief — "Soul Governance", URL: https://badlands.substack.com/p/soul-governance

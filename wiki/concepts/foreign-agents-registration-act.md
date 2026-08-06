@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [law, lawfare, first-amendment, media]
-sources: [raw/badlands-brief-095.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-fbc.md]
+sources: [raw/badlands-brief-095.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-fbc.md, raw/the-bridge-3c3.md]
 confidence: medium
 ---
 
@@ -39,3 +39,11 @@ In May 2022 the [[department-of-justice|Department of Justice]] filed a FARA sui
 2. Badlands Brief — "Badlands News Brief: The DOJ's Hypocrisy, Zelensky's Failure and DeSantis' Decline", URL: https://badlands.substack.com/p/badlands-news-brief-3f0
 3.  Badlands Media — "Badlands News Brief: Biden Crime Cascade, Woke Collapse & Establishment Panic", URL: https://badlands.substack.com/p/badlands-news-brief-617
 4. Badlands Brief — "Freedom Reigns, France Burns & Biden Bluffs", URL: https://badlands.substack.com/p/badlands-news-brief-fbc
+
+## Selective enforcement: Manafort and the Podesta Group
+
+The 1938 statute figures centrally in Joe Lange's report "The Bridge," which contrasts the prosecution of [[paul-manafort|Paul Manafort]] for failing to register as an agent of the Ukrainian government with the treatment of the [[podesta-group|Podesta Group]], which performed the same Ukrainian work alongside him and was allowed to file its FARA paperwork retrospectively without indictment.[5]
+
+The article also catalogues the firm's own FARA filings: a March 2016 short-form registration listing [[tony-podesta|Tony Podesta]] as an active foreign agent of the Saudi government working with the Center for Studies and Media Affairs at the Saudi Royal Court, and an August 2017 registration with the Justice Department as agent for the [[saudi-american-public-relation-affairs-committee|Saudi American Public Relation Affairs Committee]] at $50,000 per month.[5] Lange notes the Saudi registration surfaced only after the Daily Beast reported it, and that the firm completed its Saudi paperwork shortly before closing for good.[5]
+
+5. Badlands Brief — "The Bridge", URL: https://badlands.substack.com/p/the-bridge-3c3

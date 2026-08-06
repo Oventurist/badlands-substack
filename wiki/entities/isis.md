@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [isis, syria, terrorism, weapons, libya, lobbying]
-sources: [raw/a-dereliction-of-duty.md, raw/a-conflict-of-interest.md, raw/assad-day-in-damascus.md, raw/badlands-brief-509.md, raw/badlands-brief-db7.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b40.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-ea6.md, raw/q-for-dummies-chapter-19.md, raw/q-for-dummies-chapter-6.md]
+sources: [raw/a-dereliction-of-duty.md, raw/a-conflict-of-interest.md, raw/assad-day-in-damascus.md, raw/badlands-brief-509.md, raw/badlands-brief-db7.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b40.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-ea6.md, raw/q-for-dummies-chapter-19.md, raw/q-for-dummies-chapter-6.md, raw/q-for-dummies-chapter-9.md]
 confidence: medium
 ---
 
@@ -168,6 +168,13 @@ Drop #120, analysed in Chapter 19 of the [[q-for-dummies|Q for Dummies]] series,
 19. Badlands Brief — "Badlands News Brief: Trump-a-Mania Rages On, Brother!", raw/badlands-news-brief-ea6.md
 20. Badlands Brief — "Q for Dummies - Chapter 19", URL: https://badlands.substack.com/p/q-for-dummies-chapter-19
 21. Badlands Brief — "Q for Dummies - Chapter 6", URL: https://badlands.substack.com/p/q-for-dummies-chapter-6
+22. Badlands Brief — "Q for Dummies - Chapter 9", URL: https://badlands.substack.com/p/q-for-dummies-chapter-9
+
+## Chapter 9: ISIS as a regional boogeyman
+
+Chapter 9 of the [[q-for-dummies|Q for Dummies]] series introduces ISIS while reading drop #71, arguing that the group was created specifically to provide a boogeyman in the region capable of driving more war and more fear.[22] It describes ISIS as a [[deep-state|Deep State]] creation propped up by slush funds and corruption, and attributes much of its creation to "Senator 'No Name'" — the series' habitual designation for [[john-mccain|John McCain]].[22]
+
+The passage situates the group within the chapter's wider argument about [[saudi-arabia|Saudi Arabia]], whose importance it locates in the Kingdom's role as the financial and military lynchpin of the region.[22] It further claims that [[north-korea|North Korea]] and Saudi Arabia had both been heavily used by the Deep State as puppet states and that both had since been set free, and that following the money reveals how many of the associated "foundations" function primarily as slush funds and laundromats.[22]
 
 ## Q drop #47 in "Q for Dummies" Chapter 6
 

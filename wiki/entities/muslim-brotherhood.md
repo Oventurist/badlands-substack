@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [muslim-brotherhood, syria, smuggling, libya, obama]
-sources: [raw/a-dereliction-of-duty.md, raw/a-conflict-of-interest.md, raw/america-for-sale-part-2.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-dd8.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-f00.md, raw/infiltration-not-invasion.md, raw/q-for-dummies-chapter-19.md, raw/q-for-dummies-chapter-2.md]
+sources: [raw/a-dereliction-of-duty.md, raw/a-conflict-of-interest.md, raw/america-for-sale-part-2.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-dd8.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-f00.md, raw/infiltration-not-invasion.md, raw/q-for-dummies-chapter-19.md, raw/q-for-dummies-chapter-2.md, raw/q-for-dummies-chapter-9.md, raw/q-for-dummies-chapter-5.md]
 confidence: medium
 ---
 
@@ -96,3 +96,17 @@ Chapter 19 of the [[q-for-dummies|Q for Dummies]] series brings the Brotherhood 
 ## Treatment in "Q for Dummies" Chapter 2
 
 Badlands' "Q for Dummies" Chapter 2 reads Q drop #8 as a warning about the Brotherhood, stating flatly that the organization "is not a benevolent organization, at least not to America," and pointing readers to an Investor's Business Daily editorial on radical Islamist officials in the White House for background.[12] The chapter links the Brotherhood to [[huma-abedin|Huma Abedin]], [[hillary-clinton|Hillary Clinton]]'s top aide, through her family connections.[12]
+
+## Treatment in "Q for Dummies" Chapter 9
+
+Chapter 9 of the same series makes the Brotherhood the connective tissue of its reading of drops #68 through #71.[13] Unpacking the [[anthony-weiner|Weiner]] laptop, it says the undisclosed material on the device concerned connections between the Brotherhood and the U.S. government.[13] Turning to [[huma-abedin|Huma Abedin]]'s family history, it recounts that her parents moved to [[saudi-arabia|Saudi Arabia]] when she was two and that her father became heavily involved in setting up Muslim causes, was quite involved with the Brotherhood and was passionate about championing its cause — leading the author to argue it would be no stretch to say Abedin was moulded by the same belief system, and to call the family "literally one of the definitions of '[[infiltration|infiltration, not invasion]].'"[13]
+
+The chapter states the Brotherhood's stated goal is the destruction of Western culture and of America, and treats that as the reason Abedin's role as the link between [[hillary-clinton|Hillary Clinton]], the [[clinton-foundation|Clinton Foundation]] and Saudi Arabia matters.[13] It further claims that Pakistani IT administrators — in the context of the [[awan-brothers|Awan brothers]]' congressional work — were later found to have sent top-secret information to the Brotherhood.[13] Finally, it argues that [[barack-obama|Obama]]'s [[pallets-of-cash-to-iran|cash shipments to Iran]] were funnelled back to the Brotherhood and Saudi Arabia as repayment after the failed attempt to secure control of the U.S. government through a Clinton victory in 2016.[13]
+
+13. Badlands Brief — "Q for Dummies - Chapter 9", URL: https://badlands.substack.com/p/q-for-dummies-chapter-9
+
+## Iran linkage in "Q for Dummies" Chapter 5
+
+Chapter 5 of [[q-for-dummies|Q for Dummies]], analysing Q drop #36, asserts that [[iran|Iran]] "has big ties to The Muslim Brotherhood," raising the connection in the course of discussing [[barack-obama|Barack Obama]]'s [[pallets-of-cash-to-iran|cash shipments to Tehran]] as he left office.[14] The chapter presents the association as part of a wider pattern in which Obama, [[hillary-clinton|Clinton]] and their associates were, in the author's words, selling America out for personal enrichment.[14]
+
+14. Badlands Brief — "Q for Dummies - Chapter 5", URL: https://badlands.substack.com/p/q-for-dummies-chapter-5

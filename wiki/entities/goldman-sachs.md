@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, philanthropy, wall-street, investigations]
-sources: [raw/badlands-brief-169.md, raw/badlands-brief-6f4.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-276.md, raw/energy-consolidation.md]
+sources: [raw/badlands-brief-169.md, raw/badlands-brief-6f4.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-276.md, raw/energy-consolidation.md, raw/structures-of-control-part-3.md]
 confidence: medium
 ---
 
@@ -41,6 +41,10 @@ In a May 2023 Badlands Media essay on [[energy-consolidation|energy consolidatio
 
 Carlson connected these appointments to the subsequent flow of public money to First Solar, including 2009 stimulus funds, [[department-of-energy|Department of Energy]] guaranteed loans, and green energy subsidies, and to the $455.7 million subsidy underwriting sales to First Solar's own Canadian subsidiary [[st-clair-solar|St. Clair Solar]].[6] He noted that Heyman later became Ambassador to Canada and asked whether the sequence was coincidental.[6]
 
+## Cited in Structures of Control
+
+Part 3 of Badlands Media's *Structures of Control* series names Goldman Sachs as one of the financial "supernodes" it credits with orchestrating the [[2008-financial-crisis|2008 financial crisis]], arguing the episode showed how such networks consolidate power under the guise of stability.[7] The claim is offered as an instance of the [[deep-state|Deep State]]'s broader pattern of manufacturing crises to justify centralized solutions.[7]
+
 ## References
 1. Badlands Brief — "Condemnation, Calibration, & Constitutional Boxes", URL: https://badlands.substack.com/p/badlands-brief-169
 2. Badlands Brief — "Illegal Psychological Warfare Campaigns & Misprision of Treason", URL: https://badlands.substack.com/p/badlands-brief-6f4
@@ -48,3 +52,4 @@ Carlson connected these appointments to the subsequent flow of public money to F
 4. Badlands Brief — "Sex-Based Hierarchy, Shadow Banking, & Schrödinger's List", URL: https://badlands.substack.com/p/badlands-news-brief-201
 5. Badlands Media — "Badlands News Brief: Fauci, Trudeau and the Bidens Under the Microscope", URL: https://badlands.substack.com/p/badlands-news-brief-276
 6. Badlands Brief — "Energy Consolidation", URL: https://badlands.substack.com/p/energy-consolidation
+7. Badlands Brief — "Structures of Control - Part 3", URL: https://badlands.substack.com/p/structures-of-control-part-3

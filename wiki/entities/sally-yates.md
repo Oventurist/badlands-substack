@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [justice-department, russiagate, fisa, obama-administration]
-sources: [raw/badlands-news-brief-5a3.md]
+sources: [raw/badlands-news-brief-5a3.md, raw/the-biggest-boomerang-in-history.md]
 confidence: medium
 ---
 
@@ -24,3 +24,9 @@ Badlands commentators situate Yates's signature on the Page FISA application wit
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Burn Bags, Kratom, & Insider Trading", URL: https://badlands.substack.com/p/badlands-news-brief-5a3
+
+## Named in the boomerang narrative
+
+"[[the-biggest-boomerang-in-history|The Biggest Boomerang In History]]" names Yates, with [[loretta-lynch|Loretta Lynch]], as leading the [[department-of-justice|Department of Justice]] arm of what [[joe-lange|Joe Lange]] describes as an elaborate conspiracy spanning the top of the [[barack-obama|Obama]] administration, alongside the Intelligence Community under [[john-brennan|John Brennan]] and [[james-clapper|James Clapper]] and the [[fbi|FBI]] under [[james-comey|James Comey]] and [[andrew-mccabe|Andrew McCabe]].[2] She also appears among the media keywords listed in Q drop 4012 of April 30, 2020.[2] These claims reflect Badlands Media interpretation rather than established fact.
+
+2. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history

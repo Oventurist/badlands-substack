@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [hsbc, banking, opium, hong-kong, money-laundering]
-sources: [raw/dope-inc.md]
+sources: [raw/dope-inc.md, raw/the-biggest-boomerang-in-history.md]
 confidence: medium
 ---
 
@@ -20,3 +20,9 @@ In the argument advanced by [[erik-carlson|Erik Carlson]], HSBC's origin illustr
 
 ## References
 1. Badlands Brief — "Dope, Inc.", URL: https://badlands.substack.com/p/dope-inc
+
+## Comey's board seat (Badlands account)
+
+"[[the-biggest-boomerang-in-history|The Biggest Boomerang In History]]" cites Breitbart reporting that in 2013 [[james-comey|James Comey]] became a board member, a director and a member of the Financial System Vulnerabilities Committee of the London bank HSBC Holdings, on an initial three-year term due to expire at the conclusion of the 2016 Annual General Meeting subject to shareholder re-election.[2] The article notes that HSBC Holdings and its philanthropic branches routinely partner with the [[clinton-foundation|Clinton Foundation]].[2] [[joe-lange|Joe Lange]] offers the arrangement, alongside Comey's compensation from [[lockheed-martin|Lockheed Martin]] and his brother's position at [[dla-piper|DLA Piper]], as evidence that Comey was enmeshed in the Clinton [[pay-for-play|pay to play]] network while investigating [[hillary-clinton|Hillary Clinton]].[2] These claims reflect Badlands Media interpretation rather than established fact.
+
+2. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history

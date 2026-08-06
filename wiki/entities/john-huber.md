@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [doj, prosecutor, utah, clinton-foundation, investigations]
-sources: [raw/america-for-sale-part-2.md, raw/do-you-believe-in-coincidences.md, raw/disinformation-is-necessary.md]
+sources: [raw/america-for-sale-part-2.md, raw/do-you-believe-in-coincidences.md, raw/disinformation-is-necessary.md, raw/the-biggest-cover-up-in-american.md]
 confidence: medium
 ---
 
@@ -36,3 +36,9 @@ Lange contends Huber handed his findings off to other prosecutors: part to [[joh
 1. Badlands Brief — "America for Sale - Part 2", URL: https://badlands.substack.com/p/america-for-sale-part-2
 2. Badlands Brief — "Do You Believe in Coincidences?", URL: https://badlands.substack.com/p/do-you-believe-in-coincidences
 3. Badlands Brief — "Disinformation is Necessary", URL: https://badlands.substack.com/p/disinformation-is-necessary
+
+## The Uranium One assignment
+
+In "The Biggest Cover-up in American History," [[joe-lange|Joe Lange]] identifies Huber as the prosecutor to whom Attorney General [[jeff-sessions|Jeff Sessions]] quietly assigned the [[uranium-one-deal|Uranium One deal]] and related Clinton matters on November 13, 2017, five months before the assignment was disclosed to Congress.[4] Sessions informed [[chuck-grassley|Chuck Grassley]], [[bob-goodlatte|Bob Goodlatte]] and [[trey-gowdy|Trey Gowdy]] that all the matters for which they sought a special counsel were "fully within the scope of his existing mandate."[4] As a U.S. attorney Huber held full authority to empanel grand juries and file criminal charges anywhere in the country, which Lange argues allowed him to seat jurors in Utah rather than the District of Columbia, where [[john-durham|John Durham]] later struggled to obtain convictions.[4] Paired with Inspector General [[michael-horowitz|Michael Horowitz]] and his staff of 470 investigators, the arrangement gave the [[huber-investigation|Huber investigation]] more firepower than any special counsel would have had.[4] [[qanon|Q]] drop #1711 asked to whom Huber directly reported and why [[rod-rosenstein|Rod Rosenstein]] was side-stepped in his chain of command; Lange answers that Huber reported to Sessions, whose recusal covered only the Russia inquiry.[4] He further contends that Durham reserved the conspiracy charges for Huber and that the resulting [[racketeer-influenced-and-corrupt-organizations-act|RICO]] case produced the [[sealed-indictments|sealed indictments]] still awaiting unsealing.[4]
+
+4. Badlands Brief — "The Biggest Cover-up in American History", URL: https://badlands.substack.com/p/the-biggest-cover-up-in-american

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senator, banking, jekyll-island]
-sources: [raw/1913.md]
+sources: [raw/1913.md, raw/real-patriots-dont-think-like-hitler-d42.md]
 confidence: medium
 ---
 
@@ -18,3 +18,10 @@ In 1910, the leaders of the [[populist-party|Populist Party]] convinced Aldrich 
 
 ## References
 1. Badlands Brief — "1913: The Year the Cabal Enslaved America", URL: https://badlands.substack.com/p/1913
+
+
+## Sleepy Hollow Club membership
+
+Aldrich, the father-in-law of John D. Rockefeller, was a leading member of New York's [[sleepy-hollow-club|Sleepy Hollow Club]], the elite institution that [[matthew-ehret|Matthew Ehret]] identifies as the base of a British-directed private intelligence agency operating outside the control of the United States government.[2] He is grouped there with President Wilson's handler [[edward-mandell-house|Edward Mandell House]] as one of the men who played a key role in setting up both the [[federal-reserve|Federal Reserve]] and the income tax in 1913.[2]
+
+2. Badlands Brief — "Real Patriots Don't Think Like Hitler - Part 5: Nazi Fifth Columns in America", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-d42

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [trade, tariffs, economy, trump, 2025]
-sources: [raw/has-everyone-completely-lost-their.md]
+sources: [raw/has-everyone-completely-lost-their.md, raw/tariffs-protectionism-and-avoiding.md]
 confidence: medium
 ---
 
@@ -24,5 +24,14 @@ Wall Street commentary and the [[federal-reserve|Federal Reserve]] raised concer
 
 Carlson linked tariff anxiety to a broader collapse of confidence that also drove the [[tesla-vandalism-attacks|Tesla vandalism attacks]] and hostility toward [[elon-musk|Elon Musk]] and [[doge|DOGE]].[1] He reported receiving calls and emails from clients convinced the stock market was crashing and a severe recession imminent, a shift he dated to roughly a week after Trump's early-March address to Congress, when previously dormant opposition messaging resumed.[1]
 
+## Historical defense of protectionism
+
+Writing on April 8, 2025, [[matthew-ehret|Matthew Ehret]] argued that the across-the-board protective tariffs applied by [[donald-trump|Donald Trump]] led many to proclaim the age of [[neoliberalism|neoliberalism]] dead.[2] Against critics such as [[jeffrey-sachs|Jeffrey Sachs]], he maintained that in 250 years the only times the United States successfully industrialized and increased the productive powers of labor came through protective tariffs, and that the same holds for every nation of the world; where unbounded free trade was the norm, industrial growth diminished and speculation increased.[2] He cited [[anton-chaitkin|Anton Chaitkin]]'s *Who We Are*, Michael Kirsch's *The Challenge of Credit Supply*, EIR's American System Reports, and a lecture by historian Sam Labrier titled "Trump, Tariffs and Treason" as documentation.[2]
+
+## Tariffs as insufficient
+
+Ehret cautioned that protective tariffs are not enough: unless the roughly $700 trillion [[derivatives|derivatives]] bubble built into the trans-Atlantic banking system is quickly addressed, efforts to re-industrialize American industry will be for naught.[2] He argued that the necessary complement is a return to [[glass-steagall|Glass-Steagall]] bank separation.[2] He also placed the 2016 Brexit vote and Trump's election within a revived nationalist spirit that technocrats have lost the capacity to snuff out, alongside a growing recognition that nation-states hold power over the private banking system.[2]
+
 ## References
 1. Badlands Brief — "Has Everyone Completely Lost Their Minds?", URL: https://badlands.substack.com/p/has-everyone-completely-lost-their
+2. Badlands Brief — "Tariffs, Protectionism and Avoiding the Risk of Total Failure", URL: https://badlands.substack.com/p/tariffs-protectionism-and-avoiding

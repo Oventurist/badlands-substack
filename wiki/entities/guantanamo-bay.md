@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [detention, military-commissions, september-11, defense-department]
-sources: [raw/badlands-news-brief-264.md, raw/badlands-news-brief-373.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-93e.md, raw/celebrating-15-years-of-indictments.md, raw/q-for-dummies-chapter-22.md]
+sources: [raw/badlands-news-brief-264.md, raw/badlands-news-brief-373.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-93e.md, raw/celebrating-15-years-of-indictments.md, raw/q-for-dummies-chapter-22.md, raw/the-accomplishments-of-president.md]
 confidence: medium
 ---
 
@@ -38,6 +38,11 @@ Guantanamo Bay features prominently in the expectations of parts of the [[qanon|
 
 The essay's author argued that while such a spectacle "would provide for some great entertainment," physical arrests and tribunals would be meaningless if the underlying monetary system could be reconstituted a few generations later, and that the durable remedy lies instead in [[bitcoin|Bitcoin]] removing the incentive at its root.[5] In a postscript aimed at readers "still bloodthirsty for gallows and swinging bodies at GITMO," the author cited Deuteronomy 32:35 — "Vengeance is Mine, and recompense" — and left the judgment to the reader.[5]
 
+
+## Trump executive order (Badlands account)
+
+Badlands Media reported in 2023 that [[donald-trump|President Donald Trump]] signed an executive order keeping the Guantanamo Bay military prison open, describing the move as one that provoked sustained outrage among his opponents while being applauded by his supporters.[7] The author declined to speculate on what he called the many theories surrounding the facility's true purpose, but remarked on the fact that so many perceived bad actors wanted it shut down while the Biden administration proved unable to close it.[7]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Fake Candidates, Plea Deals & War Drums", URL: https://badlands.substack.com/p/badlands-news-brief-264
 2. Badlands News Brief — "Shutdown Show Down & British Spies for Palestine", URL: https://badlands.substack.com/p/badlands-news-brief-373
@@ -50,3 +55,4 @@ The essay's author argued that while such a spectacle "would provide for some gr
 Chapter 22 of the Badlands "Q for Dummies" series noted that during the December 2024 [[2024-army-navy-game|Army–Navy game]] broadcast, the soldiers shown watching the game from a base were stationed at Guantánamo Bay.[6] The author observed that the segment aired one day before a delta of Q Drop #3692, which pairs a photograph of Gitmo with the text "Operators are standing by."[6] The same chapter cited news breaking on December 17 that [[joe-biden|Joe Biden]] had returned a Kenyan terrorist to Kenya after releasing him from Guantánamo, connecting the release to Q material the author reproduced alongside it.[6]
 
 6. Badlands Brief — "Q for Dummies - Chapter 22", URL: https://badlands.substack.com/p/q-for-dummies-chapter-22
+7. Badlands Brief — "The Accomplishments of President Trump - Part 1", URL: https://badlands.substack.com/p/the-accomplishments-of-president

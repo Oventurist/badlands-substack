@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [supreme-court, administrative-state, sec, jury-trial, 2024]
-sources: [raw/badlands-news-brief-aac.md, raw/badlands-news-brief-b40.md, raw/badlands-news-brief-f94.md]
+sources: [raw/badlands-news-brief-aac.md, raw/badlands-news-brief-b40.md, raw/badlands-news-brief-f94.md, raw/spear-of-justice.md]
 confidence: medium
 ---
 
@@ -36,7 +36,12 @@ The Supreme Court agreed on June 30, 2023 to hear Securities and Exchange Commis
 
 A divided U.S. Court of Appeals for the Fifth Circuit held that the two levels of removal protections applying to administrative law judges unconstitutionally shielded them from presidential oversight, that SEC proceedings infringed the Seventh Amendment right to a jury trial, and that Congress had unconstitutionally delegated its lawmaking powers to the commission.[3] Lawyers who frequently appear before the Court — including former solicitor general Paul Clement and Williams and Connolly partner Lisa Blatt, speaking at a September 20, 2023 Heritage Foundation event — suggested the justices might use the term to roll back the administrative state.[3]
 
+## Role in the "Spear of Justice" Framing (2025)
+
+An August 2025 Badlands Media essay cited SEC v. Jarkesy, which curtailed agencies' ability to act as their own judge and jury in major penalty cases, as one of the two Supreme Court decisions that reshaped the battlefield against the [[administrative-state|administrative state]], alongside [[loper-bright-enterprises-v-raimondo|Loper Bright]]'s termination of [[chevron-deference|Chevron deference]].[4] The author described the pair as rewriting the automatic growth function of agency power and providing the terrain into which Texas Attorney General [[ken-paxton|Ken Paxton]]'s administrative-law cases were being directed.[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Wins at Home and Deals Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-aac
 2. Badlands Brief — "Badlands News Brief: Debates, Decisions and Disasters for the Deep State", URL: https://badlands.substack.com/p/badlands-news-brief-b40
 3. Badlands Brief — "Badlands News Brief: The Proof is in the Proxy ...", URL: https://badlands.substack.com/p/badlands-news-brief-f94
+4. Badlands Brief — "Spear of Justice: Ken Paxton and the Bleeding Edge", URL: https://badlands.substack.com/p/spear-of-justice

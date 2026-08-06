@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [justice-department, russiagate, nso-group, pegasus, litigation]
-sources: [raw/badlands-news-brief-e3e.md, raw/do-you-believe-in-coincidences.md, raw/disinformation-is-necessary.md, raw/irregular-warfare.md, raw/q-for-dummies-chapter-2.md]
+sources: [raw/badlands-news-brief-e3e.md, raw/do-you-believe-in-coincidences.md, raw/disinformation-is-necessary.md, raw/irregular-warfare.md, raw/q-for-dummies-chapter-2.md, raw/shall-we-play-a-game.md, raw/setting-the-stage.md, raw/the-biggest-boomerang-in-history.md, raw/the-biggest-cover-up-in-american.md]
 confidence: medium
 ---
 
@@ -58,3 +58,39 @@ Lange contends Trump nominated Rosenstein knowing he was compromised, because [[
 ## Q for Dummies Chapter 2
 
 Badlands' "Q for Dummies" Chapter 2, reading Q drop #10 (October 29, 2017), states the author's opinion that Rosenstein, alongside [[james-comey|James Comey]] and [[robert-mueller|Robert Mueller]], was "actually working for us" — a claim he says unfolds across subsequent drops and is developed further by [[just-human|Just Human]].[5]
+
+## "Shall We Play a Game?" — the pawn and the RED LINE
+
+In the July 2025 article "Shall We Play a Game?", [[joe-lange|Joe Lange]] casts Rosenstein as the enemy's "pawn," deliberately placed where the enemy wanted him.[6] Q drop 2165 asks why it was critical to move Rosenstein into the role of acting attorney general with direct oversight authority over the special counsel, and contrasts the contested confirmation of [[jeff-sessions|Jeff Sessions]] with Rosenstein's smooth and heavily supported Senate vote; Lange reads the contrast as proof that Sessions was the genuine threat and Rosenstein the enemy's instrument.[6] Because Sessions recused rather than resigned, he argues, Rosenstein ended up controlling only the [[mueller-special-counsel-investigation|Mueller investigation]] rather than the whole [[us-department-of-justice|Justice Department]].[6]
+
+Lange contends Rosenstein was chosen by Trump precisely because he was vulnerable to leverage.[6] Q drop 643 of January 29, 2018 warned that firing Rosenstein would block Mueller, set up the firing of Mueller, and constitute a "RED LINE," and asked why Rosenstein had "begged" Speaker [[paul-ryan|Paul Ryan]] to block the FISA memo from congressional review.[6] The declassified memo revealed that Rosenstein had personally signed off on a renewal of the [[carter-page|Carter Page]] FISA warrant predicated on the [[steele-dossier|Steele dossier]].[6] Lange argues Trump declined to fire him because Trump had declassified the memo himself and had thereby forced Democrats into publicly defending Rosenstein behind a "red line" of their own drawing.[6]
+
+## The wire and the 25th Amendment story
+
+A New York Times report of September 21, 2018 claimed Rosenstein had suggested secretly recording President [[donald-trump|Trump]] and had discussed recruiting cabinet members to invoke the [[twenty-fifth-amendment|25th Amendment]] to remove him.[6] Citing American Thinker's twelve-point summary, Lange notes that memos by [[andrew-mccabe|Andrew McCabe]] and [[lisa-page|Lisa Page]] were at least part of the basis for the story, that Rosenstein's denials were "lawyerly and self-contradictory," that the report may have been a set-up to provoke his firing as grounds for an obstruction impeachment, and that the McCabe and Page memos were apparently withheld from Inspector General [[michael-horowitz|Michael Horowitz]].[6] Lange treats that concealment as a further "lack of candor," arguing that earlier disclosure would have forced Rosenstein's recusal and resignation.[6]
+
+Lisa Page, who wrote a memo about the meeting and had become a cooperating witness, told the Daily Beast she took the taping remark seriously, and former FBI general counsel [[james-baker-fbi|James Baker]] testified to Congress that the discussions were not a joke.[6] Lange concludes that Rosenstein's failure to deny that the meetings occurred proves that senior Justice Department officials did discuss removing Trump after Comey's firing, and that Trump held the leverage over both Rosenstein and Mueller throughout.[6]
+
+6. Badlands Brief — "Shall We Play a Game?", URL: https://badlands.substack.com/p/shall-we-play-a-game
+
+## The Mueller appointment in "Setting the Stage"
+
+Joe Lange's article "Setting the Stage" places Rosenstein at the hinge of the enemy's plan.[7] With Attorney General [[jeff-sessions|Jeff Sessions]] forced to recuse himself from the Russia investigation, Rosenstein — described by Lange as [[hillary-clinton|Hillary]]'s puppet — was left overseeing the counterintelligence investigation intended to frame and remove [[donald-trump|Trump]].[7] When Trump fired [[james-comey|James Comey]], Lange writes, the enemy was forced to make its next move on the chessboard: appointing a special counsel to take over the investigation, so that Trump could not nominate a new FBI director capable of exposing and ending the witch hunt.[7]
+
+Rosenstein's appointment of [[robert-mueller|Robert Mueller]] was supposed to be the beginning of the end of the Trump presidency, and Mueller functioned as the enemy's "insurance policy," able to retain and conceal incriminating evidence protecting the [[barack-obama|Obama]] administration.[7] Lange argues the manoeuvre backfired, because [[john-huber|John Huber]] and Inspector General [[michael-horowitz|Michael Horowitz]] reported directly to Sessions rather than to Rosenstein, leaving the background [[racketeer-influenced-and-corrupt-organizations-act|RICO]] investigations outside Rosenstein's reach.[7]
+
+7. Badlands Brief — "Setting the Stage", URL: https://badlands.substack.com/p/setting-the-stage
+
+## The Comey firing memo (Badlands account)
+
+In "[[the-biggest-boomerang-in-history|The Biggest Boomerang In History]]," [[joe-lange|Joe Lange]] writes that [[donald-trump|Trump]], understanding how central [[james-comey|Comey]] was to the conspiracy, forced Rosenstein to write the memorandum setting out all the reasons Comey deserved to be fired as [[fbi|FBI]] director — a memo that focused on Comey's mishandling of the [[hillary-clinton-private-email-server|Clinton server investigation]].[8]
+
+Lange groups Rosenstein with Comey and [[robert-mueller|Robert Mueller]] as officials with a long history with the Clintons and an evident conflict of interest in investigating them, none of whom recused themselves.[8] These claims reflect Badlands Media interpretation rather than established fact.
+
+8. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history
+
+## Supervision of the Uranium One prosecution
+
+Reporting cited in "The Biggest Cover-up in American History" states that the FBI's investigation into [[vadim-mikerin|Vadim Mikerin]] was ultimately supervised by Rosenstein, then U.S. Attorney for Maryland and an [[barack-obama|Obama]] appointee, together with then-Assistant FBI Director [[andrew-mccabe|Andrew McCabe]].[9] [[joe-lange|Joe Lange]] treats Rosenstein's involvement in the [[uranium-one-deal|Uranium One]] case, and his later role taking over the Russian collusion investigation after [[jeff-sessions|Jeff Sessions]] recused himself, as evidence that the same officials implicated in the original scandal also drove the effort to remove [[donald-trump|Trump]] from office.[9] He notes that [[qanon|Q]] drop #151 contrasted the heavy challenge to Sessions's confirmation with Rosenstein's smooth and easy one, and that Q drop #1711 placed "[RR]" in targeted brackets while asking why it was normal for him to be side-stepped in [[john-huber|John Huber]]'s chain of command.[9] Lange reads the bracket notation as a clear distinction between Sessions, a participant in the sting, and Rosenstein, a target of it.[9]
+
+9. Badlands Brief — "The Biggest Cover-up in American History", URL: https://badlands.substack.com/p/the-biggest-cover-up-in-american

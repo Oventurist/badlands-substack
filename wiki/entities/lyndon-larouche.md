@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [economics, physical-economy, anti-malthusian, history]
-sources: [raw/combating-the-transhumanist-religion.md, raw/defeating-the-depopulation-agenda.md, raw/dope-inc.md]
+sources: [raw/combating-the-transhumanist-religion.md, raw/defeating-the-depopulation-agenda.md, raw/dope-inc.md, raw/tariffs-protectionism-and-avoiding.md]
 confidence: medium
 ---
 
@@ -38,7 +38,14 @@ LaRouche, who died in 2019, was described as a Marxist in his youth and later as
 
 He was a persistent critic of the British Empire, the Royal Family, [[george-hw-bush|George Bush Sr.]] and [[henry-kissinger|Henry Kissinger]], and referred to [[george-soros|George Soros]] as "the Queen's favorite little drug pusher."[3] The [[anti-defamation-league|Anti-Defamation League]] called him an antisemite even though he adamantly denounced antisemitism, and he in turn regarded the ADL as a propaganda tool of the Deep State.[3]
 
+## The triple curve and the New Silk Road
+
+In 1996 LaRouche presented his triple curve collapse function, illustrating in simple terms how financial aggregates and monetary emission were rising while physical economic output fell, and warning that without systemic intervention the world economy would be driven irreversibly toward a hyperinflationary collapse akin to the 1923 destruction of Weimar Germany, but on a global scale.[4] [[matthew-ehret|Matthew Ehret]] writes that his words went unheeded and the slide into insanity continued.[4]
+
+Ehret describes LaRouche (1922–2019) as one of the very few western figures who stood up to the decades-long destruction of bank separation, resisting the process for over four decades and fighting alongside the [[schiller-institute|Schiller Institute]] to promote the New Silk Road as early as 1996.[4] He links that advocacy to the later China-led [[belt-and-road-initiative|Belt and Road Initiative]], and notes that China's capacity to unleash long-term credit was made possible by its being the only country that had not abandoned the principles of [[glass-steagall|bank separation]].[4]
+
 ## References
 1. Badlands Brief — "Combating the Transhumanist Religion", URL: https://badlands.substack.com/p/combating-the-transhumanist-religion
 2. Badlands Brief — "Defeating the Depopulation Agenda", URL: https://badlands.substack.com/p/defeating-the-depopulation-agenda
 3. Badlands Brief — "Dope, Inc.", URL: https://badlands.substack.com/p/dope-inc
+4. Badlands Brief — "Tariffs, Protectionism and Avoiding the Risk of Total Failure", URL: https://badlands.substack.com/p/tariffs-protectionism-and-avoiding

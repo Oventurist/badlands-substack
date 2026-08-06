@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [carter-page, fisa, crossfire-hurricane, fbi, surveillance]
-sources: [raw/badlands-brief-6a1.md, raw/durham-continues-to-reveal-previously.md]
+sources: [raw/badlands-brief-6a1.md, raw/durham-continues-to-reveal-previously.md, raw/the-biggest-boomerang-in-history.md]
 confidence: medium
 ---
 
@@ -31,3 +31,11 @@ Evidence surfaced by Special Counsel [[john-durham|John Durham]] at the [[igor-d
 ## References
 1. Badlands Brief — "The G7 Laments the G2", URL: https://badlands.substack.com/p/badlands-brief-6a1
 2. Badlands Brief — "Durham Continues To Reveal Previously Undisclosed SpyGate Evidence", URL: https://badlands.substack.com/p/durham-continues-to-reveal-previously
+
+## The FISA warrant as cover (Badlands account)
+
+"[[the-biggest-boomerang-in-history|The Biggest Boomerang In History]]" states that [[james-comey|Comey]]'s [[fbi|FBI]] altered documents and hid exonerating evidence from the [[foreign-intelligence-surveillance-act|FISA]] court judges in order to obtain a warrant on Page, which then allowed the bureau to spy on the Trump campaign and frame [[donald-trump|Trump]].[3]
+
+[[joe-lange|Joe Lange]]'s central point is that this warrant was not the beginning of the surveillance but its cover: the [[barack-obama|Obama]] administration was already spying on the campaign and on [[michael-flynn|Michael Flynn]] through [[five-eyes|FVEY]] partners well before any FISA application, making [[fisagate|FISAGATE]] a cover-up for [[spygate|SPYGATE]].[3] The article adds that White House visitor logs existed for the FISA court judge who approved the Page warrants on what Lange calls phony evidence and doctored emails, and that Obama classified this material and moved it to his presidential library.[3] These claims reflect Badlands Media interpretation rather than established fact.
+
+3. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history

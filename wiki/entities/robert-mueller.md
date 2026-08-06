@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fbi, special-counsel, russiagate, obituary]
-sources: [raw/badlands-brief-7b5.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-b24.md, raw/disinformation-is-necessary.md, raw/do-you-believe-in-coincidences.md, raw/irregular-warfare.md, raw/q-for-dummies-chapter-1.md, raw/q-for-dummies-chapter-11.md, raw/q-for-dummies-chapter-2.md]
+sources: [raw/badlands-brief-7b5.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-b24.md, raw/disinformation-is-necessary.md, raw/do-you-believe-in-coincidences.md, raw/irregular-warfare.md, raw/q-for-dummies-chapter-1.md, raw/q-for-dummies-chapter-11.md, raw/q-for-dummies-chapter-2.md, raw/q-for-dummies-chapter-3.md, raw/setting-the-stage.md, raw/the-biggest-boomerang-in-history.md, raw/the-biggest-cover-up-in-american.md]
 confidence: medium
 ---
 
@@ -71,6 +71,12 @@ Lange presents the Special Counsel appointment as serving two enemy purposes: re
 
 Drop #3 of the [[q-operation|Q]] drops, dated October 29, 2017, points to the fact that [[donald-trump|President Trump]] met with Mueller under the guise of interviewing him for the [[fbi|FBI]] Director position — a post Mueller could not lawfully have accepted, having already served the maximum term.[8] In Chapter 1 of [[q-for-dummies|Q for Dummies]], [[paul-fleuret|Paul Fleuret]] argues that this impossibility raises the question of what the two men actually met about.[8] He notes that Q makes many references to Mueller not being who the public is told he is, states his own belief that Mueller "is not a black hat," and concludes that time will tell.[8]
 
+## Q drop #18
+
+Chapter 3 of [[q-for-dummies|Q for Dummies]] treats [[qanon|Q]] drop #18 of November 1, 2017 as centring on Mueller, describing him as a name that recurs repeatedly across the drops.[11] The author records a genuine division of opinion within the movement over Mueller's alignment, offering as his own view that Mueller was "at the worst, a compromised black hat" and "at the best, a white hat who infiltrated [them] and helped expose them."[11] He notes that in the end the investigation established only that there was no Russian collusion.[11]
+
+The chapter treats Q's question about the Trump–Mueller meeting as pointed rather than rhetorical: contemporary speculation held that Mueller was being considered for a return as FBI Director, but because he had already served the maximum term permitted for that office, the author argues the stated pretext cannot have been the real reason for the meeting.[11] He also links the drop to Q's surrounding emphasis on the [[united-states-marine-corps|Marines]], reminding readers that Mueller was a highly decorated Marine.[11]
+
 ## References
 1. Badlands Brief — "Trump's Ultimatum to the Ayatollah, who is gay (allegedly)", URL: https://badlands.substack.com/p/badlands-brief-7b5
 2. Badlands News Brief — "Durham's Dance, Putin's Warning and Xi's Rebuke", URL: https://badlands.substack.com/p/badlands-news-brief-01d
@@ -82,6 +88,7 @@ Drop #3 of the [[q-operation|Q]] drops, dated October 29, 2017, points to the fa
 8. Badlands Brief — "Q for Dummies - Chapter 1", URL: https://badlands.substack.com/p/q-for-dummies-chapter-1
 9. Badlands Media — "Q for Dummies - Chapter 11", URL: https://badlands.substack.com/p/q-for-dummies-chapter-11
 10. Badlands Brief — "Q for Dummies - Chapter 2", URL: https://badlands.substack.com/p/q-for-dummies-chapter-2
+11. Badlands Brief — "Q for Dummies - Chapter 3", URL: https://badlands.substack.com/p/q-for-dummies-chapter-3
 
 ## Q drop #89 and Haiti
 
@@ -90,3 +97,27 @@ In drop #89 of November 5, 2017, Q asked who had been Director of the [[fbi|FBI]
 ## Q for Dummies Chapter 2
 
 Badlands' "Q for Dummies" Chapter 2 places Mueller among the figures the author believes were secretly working for the white hats, together with [[james-comey|James Comey]] and [[rod-rosenstein|Rod Rosenstein]].[10] It recalls that Q had already noted Mueller was a highly decorated Marine, and poses two leading questions to readers: what Mueller's middle name is, and how that relates to Q's recurring question "when does a bird sing?"[10] The chapter's second point is that the ultimate result of Mueller's investigation was to prove that [[russiagate-hoax|Russiagate]] was a hoax.[10]
+
+## The "insurance policy" reading in "Setting the Stage"
+
+Joe Lange's article "Setting the Stage" describes Mueller's appointment by Deputy Attorney General [[rod-rosenstein|Rod Rosenstein]] as the move the enemy was forced into once [[donald-trump|Trump]] fired [[james-comey|James Comey]], since a special counsel prevented Trump from nominating a new FBI director who could end the investigation.[12] Mueller functioned as an "insurance policy" against prosecution, able to retain and conceal evidence incriminating the [[barack-obama|Obama]] administration, while also serving as the dragon slayer expected to end the Trump presidency.[12]
+
+Former CIA Director [[john-brennan|John Brennan]] told Trump to "stay tuned" regarding Mueller's inquiry and dismissed the House Intelligence Committee's finding of no collusion, urging the president to await Mueller's conclusions.[12] Congressman [[louie-gohmert|Louie Gohmert]] took the opposite view from the outset, calling Mueller "bad news," saying he was "out for a scalp" and would love to become "a hero of the left," and predicting that if he could not get the president he would "take a Mike Flynn."[12]
+
+Lange's counter-thesis is that Trump was never in any danger from the investigation: he used it as a springboard for a sweeping [[racketeer-influenced-and-corrupt-organizations-act|RICO]] investigation and as a deliberate media distraction concealing the [[irregular-warfare|irregular warfare]] being waged behind the scenes, and Mueller had already cut a deal and was effectively controlled.[12] The original plan had been for Mueller to gather collusion evidence for impeachment and removal, after which Trump could be prosecuted as a civilian — a plan Lange calls a complete failure, since [[paul-manafort|Paul Manafort]] was charged only with old tax offences rather than collusion.[12] Its collapse forced the enemy into the hastily assembled impeachment over the Ukraine phone call.[12]
+
+12. Badlands Brief — "Setting the Stage", URL: https://badlands.substack.com/p/setting-the-stage
+
+## The Flynn sentencing delays (Badlands account)
+
+"[[the-biggest-boomerang-in-history|The Biggest Boomerang In History]]" restates [[joe-lange|Joe Lange]]'s contention that Mueller had cut a deal to avoid prosecution over [[uranium-one-deal|Uranium One]] and had therefore flipped — a fact he treats as essential to reading the [[michael-flynn|Flynn]] case correctly.[13] Flynn's sentencing before Judge [[emmet-sullivan|Emmet Sullivan]] was repeatedly postponed on the ground that he was cooperating with the Mueller investigation, while, in Lange's account, Flynn was in fact assisting several investigations, including one outside the Special Counsel's purview referenced by NBC News in Q drop 2548.[13]
+
+Lange argues the media's fixation on the Mueller investigation as the vehicle to convict and remove [[donald-trump|Trump]] served as a distraction from the real investigations running in the background.[13] He also notes that Mueller, like [[james-comey|Comey]] and [[rod-rosenstein|Rod Rosenstein]], had a long history with the Clintons and a conflict of interest in matters touching them, yet did not recuse himself, and raises the question of whether it was Mueller who pushed the obstruction-of-justice theory against Trump for firing Comey — the same charge Lange says [[hillary-clinton|Hillary Clinton]] had effectively admitted to.[13] These claims reflect Badlands Media interpretation rather than established fact.
+
+13. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history
+
+## Role in the Uranium One investigation
+
+In "The Biggest Cover-up in American History," [[joe-lange|Joe Lange]] emphasises that Mueller was FBI director when the bureau opened its 2009 undercover investigation into [[vadim-mikerin|Vadim Mikerin]] and the [[rosatom|Rosatom]] subsidiary [[tenex|Tenex]], and still director when the [[uranium-one-deal|Uranium One deal]] was approved.[14] A congressional probe later examined whether the FBI under Mueller had alerted senior [[barack-obama|Obama]] administration officials, including [[hillary-clinton|Hillary Clinton]], to Russian corruption before the [[committee-on-foreign-investment-in-the-united-states|Committee on Foreign Investment in the United States]] approved the transaction; the FBI declined to comment and the Justice Department did not respond.[14] Lange argues Mueller began the investigation and then did nothing about it for years, leaving [[james-comey|James Comey]] to close it in late 2015 with narrow plea deals.[14] He treats Mueller's subsequent appointment as special counsel in the Trump–Russia inquiry as no coincidence, arguing that the same officials implicated in Uranium One also participated in the effort to frame and remove a sitting president — conduct he characterises as treason.[14] [[qanon|Q]] drop #151 noted that Mueller enjoyed repeated vocal support from Democrats, which Lange reads as a marker of his role.[14]
+
+14. Badlands Brief — "The Biggest Cover-up in American History", URL: https://badlands.substack.com/p/the-biggest-cover-up-in-american

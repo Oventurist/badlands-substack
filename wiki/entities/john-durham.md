@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [special-counsel, russiagate, department-of-justice]
-sources: [raw/badlands-brief-195.md, raw/badlands-brief-a20.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-6b6.md, raw/durham-continues-to-reveal-previously.md, raw/power-to-the-people.md]
+sources: [raw/badlands-brief-195.md, raw/badlands-brief-a20.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-6b6.md, raw/durham-continues-to-reveal-previously.md, raw/power-to-the-people.md, raw/the-biggest-boomerang-in-history.md, raw/the-biggest-cover-up-in-american.md]
 confidence: medium
 ---
 
@@ -81,3 +81,17 @@ Writing days after the Alexandria verdict, [[pepe-lives-matter|Pepe Lives Matter
 8. Badlands Brief — "Badlands News Brief: The Wheels of Justice Roll On", URL: https://badlands.substack.com/p/badlands-news-brief-6b6
 9. Badlands Brief — "Durham Continues To Reveal Previously Undisclosed SpyGate Evidence", URL: https://badlands.substack.com/p/durham-continues-to-reveal-previously
 10. Badlands Brief — "Power to the People", URL: https://badlands.substack.com/p/power-to-the-people
+
+## Position in the DECLAS chain of command
+
+"[[the-biggest-boomerang-in-history|The Biggest Boomerang In History]]" quotes Q drop 3784 of January 23, 2020, which sets the [[declas|DECLAS]] chain of command as POTUS to [[william-barr|Barr]] and Barr to Durham, with foreign classified intelligence from [[five-eyes|FVEY]] and non-FVEY sources provided as needed.[11] The drop asks whether Durham would want to hold or freeze the public declassification because of the criminal nature of the probes, invoking grand jury material, and when the investigation began "really."[11]
+
+[[joe-lange|Joe Lange]] reads the drop's plural "probe(s)" as showing that Barr controlled declassified materials feeding multiple investigations rather than Durham's alone, including what he calls [[racketeer-influenced-and-corrupt-organizations-act|RICO]] investigations running in the background.[11] These claims reflect Badlands Media interpretation rather than established fact.
+
+11. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history
+
+## Venue and the reserved conspiracy charges
+
+[[joe-lange|Joe Lange]] cites Durham's difficulty securing convictions against lower-level participants in the framing of [[donald-trump|Trump]] for Russian collusion as proof that the District of Columbia's courts make conviction of protected figures nearly impossible.[12] He argues this is why Durham prosecuted only minor players on minimal charges, and contends that Durham deliberately reserved the conspiracy charges for [[john-huber|John Huber]], whose [[huber-investigation|investigation]] can empanel grand juries outside Washington.[12]
+
+12. Badlands Brief — "The Biggest Cover-up in American History", URL: https://badlands.substack.com/p/the-biggest-cover-up-in-american

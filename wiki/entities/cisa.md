@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cisa, dhs, cybersecurity, personnel, government]
-sources: [raw/badlands-brief-7ed.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-cba.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-ddb.md, raw/badlands-news-brief-f26.md, raw/badlands-news-brief-f54.md]
+sources: [raw/badlands-brief-7ed.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-cba.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-ddb.md, raw/badlands-news-brief-f26.md, raw/badlands-news-brief-f54.md, raw/the-adulation-of-the-disinformation.md]
 confidence: medium
 ---
 
@@ -68,3 +68,9 @@ At the RSA Conference in April 2023, CISA and [[us-cyber-command|Cyber Command]]
 
 8. Badlands Brief — "Badlands News Brief: Debt Limits, Counter Offensives & Winning Signs", URL: https://badlands.substack.com/p/badlands-news-brief-f26
 9. Badlands Brief — "Meta vs. Twitter, Shark Fins, Popes & Clintons", URL: https://badlands.substack.com/p/badlands-news-brief-f54
+
+## Association with disinformation research
+
+An April 2024 Badlands article by [[ryan-delarme|Ryan DeLarme]] identified the misinformation researcher [[kate-starbird|Kate Starbird]] as a member of CISA, presenting her as a leading example of the newly minted profession of [[disinformation-expert|"disinformation expert"]].[10] The article placed CISA within the broader [[censorship-industrial-complex|censorship industrial complex]], a network of organizations said to work directly with the federal government to stifle dissent deemed dangerous to the objectives of the U.S. security state, and noted that its personnel often first emerge from the government and typically from [[department-of-homeland-security|Homeland Security]], CISA's parent department.[10] Starbird's featured appearance on [[60-minutes|60 Minutes]], and the disclosure that [[twitter|Twitter]] honoured only about 30 percent of her content-removal requests, were cited as evidence of the agency-adjacent research apparatus's reach into platform moderation.[10]
+
+10. Badlands Brief — "The Adulation of the 'Disinformation Expert'", URL: https://badlands.substack.com/p/the-adulation-of-the-disinformation

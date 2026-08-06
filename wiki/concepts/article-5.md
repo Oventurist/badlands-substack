@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [nato, collective-defence, treaty, ukraine]
-sources: [raw/a-bright-red-line.md, raw/badlands-brief-c07.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-a65.md]
+sources: [raw/a-bright-red-line.md, raw/badlands-brief-c07.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-a65.md, raw/rattling-a-broken-saber.md]
 confidence: medium
 ---
 
@@ -37,3 +37,10 @@ Badlands commentary on the February 2025 U.S.-Russia talks in Istanbul argued th
 2. Badlands Brief — "13 Germans, A Seized Smartwatch, & An American Tithe's Worth of Fraud", URL: https://badlands.substack.com/p/badlands-brief-c07
 3. Badlands Brief — "Abrahamic Rug Pulls, Frivolous Lawfare, & False Statements Under Oath", URL: https://badlands.substack.com/p/badlands-brief-e60
 4. Badlands Brief — "Badlands News Brief: Rug Pulled Reputations, Insubordination, & the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-a65
+
+## Trump's 2025 doubts
+
+In 2025 President [[donald-trump|Donald Trump]] suggested that the United States might not honor Article 5's collective defense clause, a statement that Badlands contributor Ryan DeLarme identified as one of the provocations sending European policymakers into a defensive posture and a scramble to rearm.[5] The remarks accompanied his March 2025 comment questioning whether Washington would defend [[nato|NATO]] allies who "don't pay," and his push for members to commit 5% of GDP to defense rather than the standing 2% target.[5]
+
+## References
+5. Badlands Brief — "Rattling a Broken Saber?", URL: https://badlands.substack.com/p/rattling-a-broken-saber

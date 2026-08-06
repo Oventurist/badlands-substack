@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, senate, intelligence, democrats, 2026]
-sources: [raw/badlands-brief-835.md, raw/badlands-brief-9ac.md, raw/badlands-brief-ea5.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-d1c.md, raw/badlands-news-brief-dae.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-e81.md, raw/badlands-news-brief-ed9.md]
+sources: [raw/badlands-brief-835.md, raw/badlands-brief-9ac.md, raw/badlands-brief-ea5.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-d1c.md, raw/badlands-news-brief-dae.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-e81.md, raw/badlands-news-brief-ed9.md, raw/reset-the-space-reset-society.md, raw/setting-the-stage.md]
 confidence: low
 ---
 
@@ -86,6 +86,10 @@ Following the 2024 election, Representative [[wiley-nickel|Wiley Nickel]]'s [[sh
 
 In July 2024 commentary on the articles of impeachment against [[kamala-harris|Kamala Harris]], Badlands contributor [[ashe-in-america|Ashe in America]] urged House Republicans to pursue fact- and evidence-based charges and to avoid theatrics, instructing them: "Don't doctor tweets, like Schiff."[15]
 
+## Altered tweet in the second impeachment trial
+
+A February 2023 [[badlands-media|Badlands Media]] essay stated that Schiff doctored a tweet by the activist [[jennifer-lynn-lawrence|Jennifer Lynn Lawrence]] during the second impeachment trial of Donald Trump, an episode the essay said had made her widely known.[18]
+
 ## References
 
 1. Badlands Brief — "Virginia Democrats Lose the Plot and Go For Tyranny", URL: https://badlands.substack.com/p/badlands-brief-835
@@ -117,3 +121,14 @@ In September 2025, Schiff's long-running feud with FBI Director [[kash-patel|Kas
 Schiff asked whether Patel believed the American people were "stupid" enough to accept the claim that the [[bureau-of-prisons|Bureau of Prisons]] had made the decision independently rather than at the political direction of the White House.[17] Patel cut him off, accusing him of lying about Russiagate and January 6 and calling him "the biggest fraud to ever sit in the United States Senate" and "a political buffoon at best."[17] Chairman [[chuck-grassley|Chuck Grassley]] appeared to cut Schiff's microphone during the exchange.[17] Badlands contributor [[ashe-in-america|Ashe in America]] asked afterward whether anyone intended to prosecute Schiff or merely to yell at him.[17]
 
 17. Badlands Brief — "Badlands News Brief: Israeli Arms, Bondi's Back Peddle, & Assassins' Creeds", URL: https://badlands.substack.com/p/badlands-news-brief-ed9
+18. Badlands Media — "The Great Reset the Space: A New Frontier for American Community", raw/reset-the-space-reset-society.md
+
+## Leaking and the impeachment operation
+
+The Badlands article "Setting the Stage" casts Schiff as one of the principal leakers in the campaign to frame [[donald-trump|Trump]] for Russian collusion.[19] As a ranking member of the House Intelligence Committee, Joe Lange writes, Schiff constantly lied and leaked to the press, and Lange asserts that a sealed indictment bears his name.[19] Schiff sat on the "Gang of Eight" and therefore saw the same classified material as [[devin-nunes|Devin Nunes]], whose memo concluded there was no collusion between Russia and the Trump campaign — yet Schiff publicly claimed the opposite.[19] Q drop 3241 of March 28, 2019 is quoted demanding Schiff's resignation for "knowingly and unlawfully lying and leaking," noting that leaking investigations can lead to forced resignations and that knowingly disseminating false information is illegal.[19]
+
+Lange further charges Schiff with coordinating the impeachment phase of the operation.[19] Schiff recruited the whistleblower — reported to be [[eric-ciaramella|Eric Ciaramella]] — and helped him file his complaint against Trump over the call with Ukrainian President [[volodymyr-zelensky|Volodymyr Zelensky]], even though Ciaramella, then a CIA analyst, was not on the call and was not legally entitled to its contents.[19] When [[jim-jordan|Jim Jordan]] pressed [[alexander-vindman|Alexander Vindman]] on whom outside his chain of command he had spoken to, Schiff and [[eric-swalwell|Eric Swalwell]] intervened on the ground that the question would reveal the whistleblower — an objection that, since Jordan had not asked about the whistleblower, Lange reads as confirming Vindman as the source.[19]
+
+Holding the inquiry behind closed doors under the cover of protecting the whistleblower's identity, Lange argues, allowed Schiff to tell the media the evidence was overwhelming; the case collapsed once Trump declassified the full transcript of the call, and the Senate quickly acquitted him.[19] Lange characterises the phone-call impeachment as a hastily assembled second option after the [[mueller-special-counsel-investigation|Mueller investigation]] failed to deliver the original collusion predicate.[19]
+
+19. Badlands Brief — "Setting the Stage", URL: https://badlands.substack.com/p/setting-the-stage

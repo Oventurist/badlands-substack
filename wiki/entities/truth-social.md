@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [social-media, trump, platform]
-sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-625.md, raw/badlands-brief-774.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-df8.md, raw/badlands-news-brief-f0e.md, raw/control-through-language.md, raw/has-trumps-whole-life-been-a-sting.md, raw/power-to-the-people.md, raw/project-trump-card.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-625.md, raw/badlands-brief-774.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-df8.md, raw/badlands-news-brief-f0e.md, raw/control-through-language.md, raw/has-trumps-whole-life-been-a-sting.md, raw/power-to-the-people.md, raw/project-trump-card.md, raw/the-censorship-war-counteroffensive.md]
 confidence: low
 ---
 
@@ -107,3 +107,9 @@ In a June 15, 2024 Badlands feature, [[erik-carlson|Erik Carlson]] cited the Tru
 On December 14, 2022, [[donald-trump|Donald Trump]] used Truth Social to release a video promising a "major announcement" the following day, a practice [[badlands-media|Badlands Media]] contributor [[kitty-gillespie|Kitty Gillespie]] described as his standard operating procedure of "announcing the announcement."[15] Overnight speculation across anon circles concerned his campaign, running mate, or a possible bid for Speaker of the House; the announcement itself proved to be the [[trump-digital-trading-cards|Trump Digital Trading Cards]] NFT collection.[15]
 
 15. Badlands Brief — "Project Trump Card", URL: https://badlands.substack.com/p/project-trump-card
+
+## Dependence on Rumble and the Moraes litigation
+
+Truth Social's cloud services are provided by [[rumble|Rumble]], a dependency that [[trump-media-and-technology-group|Trump Media]] cited as the legal foundation for joining Rumble's February 2025 federal lawsuit against Brazilian Supreme Court Justice [[alexandre-de-moraes|Alexandre de Moraes]]: interference with Rumble, its lawyers argued, would necessarily undermine Truth Social.[16] The complaint asked the court to bar [[apple|Apple]] and [[google|Google]] from removing Truth Social or Rumble from their app stores at Moraes's instruction.[16] See [[rumble-and-trump-media-v-moraes|Rumble and Trump Media v. Moraes]].[16]
+
+16. Badlands Brief — "The Censorship War - Counteroffensive", URL: https://badlands.substack.com/p/the-censorship-war-counteroffensive

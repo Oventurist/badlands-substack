@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [middle-east, war, bush-family, iraq, kuwait, war-profiteering]
-sources: [raw/nothing-is-as-it-appears.md, raw/profiting-from-war.md]
+sources: [raw/nothing-is-as-it-appears.md, raw/profiting-from-war.md, raw/shifting-the-narrative.md, raw/the-bank-of-crooks-and-criminals.md]
 confidence: low
 ---
 
@@ -32,3 +32,21 @@ The article links the Gulf War to the later [[george-w-bush|George W. Bush]] inv
 ## References
 1. Badlands Brief — "Nothing Is as It Appears", URL: https://badlands.substack.com/p/nothing-is-as-it-appears
 2. Badlands Brief — "Profiting From War", URL: https://badlands.substack.com/p/profiting-from-war
+
+## The war as a distraction from BCCI
+
+In "Shifting the Narrative," [[joe-lange|Joe Lange]] argues that the Gulf War was engineered as a diversion from the unfolding [[bank-of-credit-and-commerce-international|BCCI]] scandal — the biggest money-laundering operation ever exposed, in which the [[central-intelligence-agency|CIA]] was deeply involved.[3] As foreign authorities raided BCCI branches to gather evidence and Congress issued subpoenas and called witnesses, [[george-hw-bush|George H. W. Bush]] — whose CIA depended on the bank for funding outside congressional control — needed the narrative changed, and [[kuwait|Kuwait]] became "the sacrificial lamb."[3]
+
+Lange documents extensive American support for [[saddam-hussein|Saddam Hussein]] in the run-up to the invasion: more than five billion dollars in Reagan- and Bush-era loan guarantees, waived congressional restrictions on Iraq's use of the Export-Import Bank, blocked Commerce Department attempts to halt technology exports, continued intelligence sharing as late as May 1990, and presidential opposition to sanctions at the end of July 1990.[3] Weeks before the invasion, ambassador [[april-glaspie|April Glaspie]] told Saddam the United States had "no opinion on the Arab-Arab conflicts, like your border disagreement with Kuwait," which Lange reads as a deliberate green light issued on Bush's instructions rather than a failed deterrent.[3]
+
+The rhetorical preparation of the public relied on fear: Bush suggested Saddam had surpassed Adolf Hitler in brutality and declared that "this aggression will not stand," a line Lange calls a purposeful narrative deployment designed to lodge in the collective mind and motivate the country to war, and part of a cabal strategy of Hitler comparisons in use since 1945.[3] He also notes Bush's long ties to Kuwait dating to the 1950s, including a [[zapata-offshore|Zapata Offshore]] drilling site there, and BCCI's creation of the Kuwait International Finance Company (KIFCO), raising the question of what evidence and wealth the war destroyed or plundered.[3]
+
+3. Badlands Brief — "Shifting the Narrative", URL: https://badlands.substack.com/p/shifting-the-narrative
+
+## Chronology and the BCCI coverup thesis
+
+The Gulf War was an armed conflict between Iraq and a 42-country coalition led by the United States, conducted in two phases: Operation Desert Shield, the buildup from August 1990 to January 1991, and Operation Desert Storm, which began with aerial bombing on 17 January 1991 and ended with the liberation of Kuwait on 28 February 1991.[4] It followed the [[iraqi-invasion-of-kuwait|Iraqi invasion of Kuwait]] of 2 August 1990.[4]
+
+In "The Bank of Crooks And Criminals," [[joe-lange|Joe Lange]] argues the war's principal domestic function was narrative control. The [[bank-of-credit-and-commerce-international|BCCI]] scandal became the focus of a massive regulatory battle in 1991, with regulators in seven countries raiding branch offices on 5 July, and testimony placing [[central-intelligence-agency|CIA]] and [[national-security-council|National Security Council]] accounts inside the bank.[4] Desert Shield dominated headlines for months and Desert Storm, he writes, "completely wipe[d] away the thought of the BCCI scandal from the media narrative" — "mission accomplished."[4] Citing the Q line "Public truths of some events force WARS," Lange concludes that [[george-hw-bush|George H.W. Bush]] started the war to bury the scandal and that it turned into a massive money laundering operation.[4]
+
+4. Badlands Brief — "The Bank of Crooks And Criminals", URL: https://badlands.substack.com/p/the-bank-of-crooks-and-criminals

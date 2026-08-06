@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [arctic, infrastructure, china, russia, belt-and-road]
-sources: [raw/avoiding-wwiii.md]
+sources: [raw/avoiding-wwiii.md, raw/the-battle-over-closed-vs-open-systems.md]
 confidence: medium
 ---
 
@@ -24,3 +24,9 @@ Rail expansion is tied to Russia's Development Plan for the Northern Sea Route, 
 
 ## References
 1. Badlands Brief — "Avoiding WWIII", URL: https://badlands.substack.com/p/avoiding-wwiii
+
+## Integration with the Belt and Road and Arctic development
+
+[[matthew-ehret|Matthew Ehret]] writes that China's Polar Silk Road has extended the traditionally east-west development corridor into the Arctic, and that China and Russia have increasingly merged the [[belt-and-road-initiative|Belt and Road Initiative]] with the [[eurasian-economic-union|Eurasian Economic Union]].[2] Combined with Russia's revival of the [[bering-strait-tunnel|Bering Strait crossing]] and [[donald-trump|Donald Trump]]'s executive order reviving the [[alaska-canada-railway|Alaska-Canada Railway]], he argues this development dynamic offers economic opportunity to all Arctic nations and an escape from military confrontation, in opposition to closed-system warhawks promoting a militaristic program against Russia and China in the Arctic.[2]
+
+2. Badlands Brief — "The Battle over Closed vs. Open Systems", URL: https://badlands.substack.com/p/the-battle-over-closed-vs-open-systems

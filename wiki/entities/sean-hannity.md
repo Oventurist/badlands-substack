@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, fox-news, commentator, newsom]
-sources: [raw/badlands-brief-285.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-e38.md]
+sources: [raw/badlands-brief-285.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-e38.md, raw/the-biggest-cover-up-in-american.md]
 confidence: low
 ---
 
@@ -31,3 +31,9 @@ On Monday, July 31, 2023, Hannity hosted House Oversight chairman [[james-comer|
 Following [[ted-cruz|Ted Cruz]]'s widely criticized June 2025 interview with [[tucker-carlson|Tucker Carlson]] over scriptural justifications for supporting Israel, Badlands commentator [[chris-paul|Chris Paul]] wrote that "Sean Hannity was assigned to clean up Cruz's mess on Israel."[3]
 
 3. Badlands Brief — "Badlands News Brief: War Time Presidents & The Brink of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-e38
+
+## Uranium One and the sealed indictments
+
+[[qanon|Q]] drop #2626 of December 19, 2018 quoted Hannity saying "It's all going to come out, U1, Dossier, CF, etc." and "I have pretty good sources," alongside [[sara-carter|Sara Carter]]'s reference to sealed indictments, and asked why Hannity, Carter and [[john-solomon|John Solomon]] were "on stage."[4] [[joe-lange|Joe Lange]] treats the three as select journalists dropping accurate information about the [[uranium-one-deal|Uranium One deal]], the [[steele-dossier|Dossier]] and the [[clinton-foundation|Clinton Foundation]] while the controlled media dismissed the matter, and reads Hannity's remark as confirmation that the three investigations form a single interconnected case producing [[sealed-indictments|sealed indictments]].[4]
+
+4. Badlands Brief — "The Biggest Cover-up in American History", URL: https://badlands.substack.com/p/the-biggest-cover-up-in-american

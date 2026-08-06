@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fbi, history, blackmail, deep-state]
-sources: [raw/has-trumps-whole-life-been-a-sting.md]
+sources: [raw/has-trumps-whole-life-been-a-sting.md, raw/the-british-cabal.md]
 confidence: low
 ---
 
@@ -20,5 +20,10 @@ In early 1943, two days after Tesla's death, the FBI ordered the Office of Alien
 
 Carlson argued that the received history of Hoover is unreliable, writing that the more he examines the historical record the more he concludes that taught history "falls somewhere between a manipulation of the truth and a complete lie."[1] He noted that Hoover is conventionally portrayed as "a cross-dressing fascist," said this may or may not be true, and suggested that Hoover was himself being blackmailed — a condition Carlson claims applies to most people in positions of power today.[1] These are the opinions of a Badlands contributor rather than established fact.
 
+## Blackmail vulnerability (Carlson, August 2023)
+
+In "The British Cabal" (August 7, 2023), [[erik-carlson|Erik Carlson]] restated the widely circulated claim that Hoover, as longtime head of the [[fbi|FBI]], was gay and liked to dress in drag, and argued that this made him an easy target for blackmail by the [[british-cabal|Cabal]].[2] The point was offered in support of a broader argument that the bureau under and after Hoover contained factions serving opposed masters, with compromised leadership one of the mechanisms by which the Cabal exercised control.[2]
+
 ## References
 1. Badlands Brief — "Has Trump's Whole Life Been a Sting Operation?", URL: https://badlands.substack.com/p/has-trumps-whole-life-been-a-sting
+2. Badlands Brief — "The British Cabal", URL: https://badlands.substack.com/p/the-british-cabal

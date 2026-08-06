@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [china, infrastructure, bri, development, multipolar]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-re-alignment-of-world-systems.md, raw/and-iran-iran-so-far-away.md, raw/avoiding-wwiii.md, raw/badlands-news-brief-6f0.md, raw/brics-vs-the-wef.md, raw/defeating-the-depopulation-agenda.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-re-alignment-of-world-systems.md, raw/and-iran-iran-so-far-away.md, raw/avoiding-wwiii.md, raw/badlands-news-brief-6f0.md, raw/brics-vs-the-wef.md, raw/defeating-the-depopulation-agenda.md, raw/shared-interests.md, raw/the-battle-over-closed-vs-open-systems.md]
 confidence: medium
 ---
 
@@ -70,3 +70,19 @@ Ehret calls the initiative the "REAL New Deal," noting that it now has more than
 5. Badlands News Brief — "Biden Bumbles & Narrative Whiplash Abounds", URL: https://badlands.substack.com/p/badlands-news-brief-6f0
 6. Badlands Brief — "BRICS vs. The WEF", URL: https://badlands.substack.com/p/brics-vs-the-wef
 7. Badlands Brief — "Defeating the Depopulation Agenda", URL: https://badlands.substack.com/p/defeating-the-depopulation-agenda
+
+## Defense against the debt-trap critique ("Shared Interests", February 2023)
+
+In "Shared Interests," [[joe-lange|Joe Lange]] pushed back on the right-leaning media framing of Belt and Road as a debt trap in which China loads countries with debt in order to seize their assets and commodities, replying that this is precisely what the central banks have done to developing countries for generations.[8] He argued that China is instead building transportation infrastructure that promotes future trade, a role the World Bank once played but has largely abandoned, and that there is a direct correlation between the absence of trade and national poverty.[8] Citing Brookings, he noted that despite the name the program is global rather than confined to specific corridors, is primarily a vehicle for funding infrastructure with about two-thirds of financing going to power and transport, and has run at roughly $50–100 billion per year.[8]
+
+Lange also identified Belt and Road as the reason China's [[cips|CIPS]] payment system has spread to more countries than Russia's equivalent, since partner states receiving yuan funds for infrastructure projects connect to the Chinese clearing network.[8]
+
+8. Badlands Brief — "Shared Interests", URL: https://badlands.substack.com/p/shared-interests
+
+## Belt and Road as open-system economics
+
+[[matthew-ehret|Matthew Ehret]] argues that the Belt and Road Initiative, together with its space, polar, health and information extensions, has not only won over 135 nations to its framework but is entirely rooted in [[open-systems-vs-closed-systems|open-system]] thinking, with no presumed fixed limit to resources or endpoint to the progress nations can create if certain principles are adhered to.[9] At the heart of those principles he places [[win-win-cooperation|win-win cooperation]], which [[sun-yat-sen|Sun Yat-sen]] called the principle of "Right makes Might."[9]
+
+He further notes that China and Russia have increasingly merged the Belt and Road Initiative with the [[eurasian-economic-union|Eurasian Economic Union]], and that the [[polar-silk-road|Polar Silk Road]] has extended the traditionally east-west development corridor into the Arctic.[9] Although tensions have been inflamed to schism China and India from cooperating directly on the BRI, India's embrace of [[russian-far-east-development-plan|Russian Far East development]] investments is described as a non-linear flank capable of bringing the two Asian giants into harmony.[9]
+
+9. Badlands Brief — "The Battle over Closed vs. Open Systems", URL: https://badlands.substack.com/p/the-battle-over-closed-vs-open-systems

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [declassification, jfk, transparency, executive-order]
-sources: [raw/badlands-news-brief-298.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-b0d.md, raw/badlands-news-brief-fe4.md, raw/on-infiltration-and-israel.md]
+sources: [raw/badlands-news-brief-298.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-b0d.md, raw/badlands-news-brief-fe4.md, raw/on-infiltration-and-israel.md, raw/q-is-our-best-fren.md, raw/the-accomplishments-of-president.md]
 confidence: medium
 ---
 
@@ -78,6 +78,11 @@ Weeks before the March tranche, the [[fbi|FBI]] disclosed that it had discovered
 
 The May 2025 Badlands essay "On Infiltration and Israel" argued that the recently released JFK files did not redact the portions implicating [[israel|Israel]] in crimes against the United States, and that citizen journalists consequently have access to key information against Israel that no other administration would have released.[8] The author treated this as a simple fact sufficient to throw into question the idea that [[donald-trump|Donald Trump]] is an Israeli puppet.[8]
 
+
+## Badlands commentary on the Trump declassification
+
+A 2023 Badlands Media article credited [[donald-trump|President Donald Trump]] with doing what no previous president had done by declassifying and releasing the JFK files, arguing that subsequent red tape did not diminish the fact that he started the process.[10] The author wrote that after declassification various agencies wrapped the material in procedural delays and stalled further releases, cited commentary on the files by Ezra Cohen-Watnick, and predicted fuller release once Trump returned to the White House.[10]
+
 ## References
 1. Badlands News Brief — "Pirated Pardons & Delayed Declassifications", URL: https://badlands.substack.com/p/badlands-news-brief-298
 2. Badlands Brief — "Badlands News Brief: Bengaluru Raids, Bitcoin Bangers, & A Buddhist Execution", URL: https://badlands.substack.com/p/badlands-news-brief-2dc
@@ -87,3 +92,9 @@ The May 2025 Badlands essay "On Infiltration and Israel" argued that the recentl
 6. Badlands Brief — "Badlands News Brief: Unexpected Allies, Rogue Judges, & Stacked Envoys", URL: https://badlands.substack.com/p/badlands-news-brief-b0d
 7. Badlands Brief — "Badlands News Brief: International Dealmaking & Collectible Pennies", URL: https://badlands.substack.com/p/badlands-news-brief-fe4
 8. Badlands Brief — "On Infiltration and Israel", URL: https://badlands.substack.com/p/on-infiltration-and-israel
+9. Badlands Brief — "Q is Our Best Fren", URL: https://badlands.substack.com/p/q-is-our-best-fren
+
+## Cited against the "Zionist puppet" thesis
+
+In "Q is Our Best Fren" (March 25, 2025), [[american-hypnotist|American Hypnotist]] used the release as his single rebuttal to the claim that [[donald-trump|Trump]] is a Zionist puppet and that the [[qanon|Q]] operation is therefore Israel-led [[controlled-opposition|controlled opposition]].[9] He observed that the recently released JFK files did not redact the sections implicating [[israel|Israel]], arguing that they had "laid bare to the world that there's something rotten going on with Israel" and that the ball was now starting to roll.[9] The author noted that the wider subject of Trump and Israel required its own article, which he later published as "On Infiltration and Israel."[9]
+10. Badlands Brief — "The Accomplishments of President Trump - Part 1", URL: https://badlands.substack.com/p/the-accomplishments-of-president

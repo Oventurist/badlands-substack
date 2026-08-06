@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [israel, ideology, religion, middle-east, history]
-sources: [raw/badlands-news-brief-023.md, raw/badlands-news-brief-467.md, raw/badlands-news-brief-95a.md]
+sources: [raw/badlands-news-brief-023.md, raw/badlands-news-brief-467.md, raw/badlands-news-brief-95a.md, raw/real-patriots-dont-think-like-hitler-1b1.md, raw/real-patriots-dont-think-like-hitler.md]
 confidence: medium
 ---
 
@@ -38,7 +38,20 @@ He noted that Ultra-Orthodox authorities initially opposed 19th-century Zionism,
 
 The commentary described the movement as driven largely by political ambition to forge empire while also propelled by religious fervour in both Jewish and Evangelical communities, and judged its theological justifications flimsy in both Judaism and Christianity.[3] It further argued that Theodor Herzl, credited as the "Father of Zionism," did not adopt the cause until 1895, when it was already a powerful international coalition, and that he was distrusted by many factions as a secular opportunist who had assimilated with the Gentiles — tolerated because of his political talent and connections to networks in London and Germany, namely the Rothschilds.[3]
 
+## Nazi Germany and Zionism
+
+Matthew Ehret's third installment of "Real Patriots Don't Think Like Hitler" argues that the Nazi high command, while attacking both Christianity and Judaism, saw value in the institutions of Christianity and Zionism as tools for geopolitical control.[4] [[adolf-eichmann|Adolf Eichmann]], chief minister for "Jewish Affairs," led the crafting of the 1933 [[haavara-agreement|Haavara Agreement]] with the British Empire, which supported the transfer of Jews to British-Mandate Palestine in preparation for a Jewish state and enabled roughly 60,000 German Jews to emigrate there between 1933 and 1939.[4] Interviewed by *Life* magazine before his execution, Eichmann — who had learned Hebrew in order to study the Kabbalah — said that had he been a Jew he "would have been the most ardent Zionist imaginable."[4]
+
+Ehret contends that [[adolf-hitler|Hitler]]'s simultaneous alliance with Grand Mufti Haj Amin al-Husseini, whom he describes as a Muslim Brotherhood asset installed by the British Empire, was not contradictory to this pro-Zionist policy: the Mufti's demands to kill all the Jews and the fascist-admiring networks of Zeev Jabotinsky's [[irgun|Irgun]] Greater Israel fanatics were, in his reading, part of the same formula of geopolitical control through managed chaos in a region where all major civilizations intersect.[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Chaos in the Middle East Overshadows That at Home", URL: https://badlands.substack.com/p/badlands-news-brief-023
 2. Badlands Brief — "Somali Scams, Munchausen Moms, & Another Perfect Phone Call", URL: https://badlands.substack.com/p/badlands-news-brief-467
 3. Badlands Brief — "Kingmakers, Rainmakers, & Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-95a
+4. Badlands Brief — "Real Patriots Don't Think Like Hitler - Part 3: Hitler's Aryan Christ and the Reichs Bible", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-1b1
+
+## Warren, the Palestine Exploration Fund and the Whitechapel murders
+
+Part 1 of "Real Patriots Don't Think Like Hitler" locates an occult and Masonic origin for modern Zionism in the career of Sir [[charles-warren|Charles Warren]].[5] [[matthew-ehret|Matthew Ehret]] writes that Warren was a leading champion of a movement designed solely to convince the Jews of Russia and Europe to go live in the desert, and that his leadership of the [[palestine-exploration-fund|Palestine Exploration Fund]] shaped modern Zionism, as did his Grand Mastership of the [[quatuor-coronati-lodge|Quatuor Coronati lodge]], which set the stage for reviving [[solomons-temple|Solomon's Temple]].[5] Ehret adds that Warren's simultaneous service as Chief of London's Metropolitan Police during the [[whitechapel-murders|Whitechapel Murders]] of 1888 was closely connected to the same operation, since those killings accompanied an anti-Jewish propaganda campaign intended to terrorize the Jews of England into leaving Europe for the desert.[5] Elsewhere in the article Ehret criticizes the "incredibly evil behavior from Israel's own Likudnik elite obsessed with a Greater Israel program involving ethnic cleansing of much of the Middle East," which he says has driven many people toward blaming Jews for all the world's problems.[5]
+
+5. Badlands Brief — "Real Patriots Don't Think Like Hitler - Part 1", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler

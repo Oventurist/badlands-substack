@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cia, state-department, iran, neoconservatism]
-sources: [raw/badlands-brief-d9f.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-275.md, raw/everything-is-connected.md, raw/profiting-from-war.md]
+sources: [raw/badlands-brief-d9f.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-275.md, raw/everything-is-connected.md, raw/profiting-from-war.md, raw/the-cia-is-being-thrown-under-the.md]
 confidence: medium
 ---
 
@@ -41,3 +41,11 @@ Badlands contributor Joe Lange argues that a principal reason for placing Mike P
 3. Badlands Brief — "Badlands News Brief: Tucker's Tour de Force, Trump Besieged & More", URL: https://badlands.substack.com/p/badlands-news-brief-275
 4. Badlands Brief — "Everything Is Connected", URL: https://badlands.substack.com/p/everything-is-connected
 5. Badlands Brief — "Profiting From War", URL: https://badlands.substack.com/p/profiting-from-war
+
+## Assange plot and a bid for a second Trump administration (2024)
+
+Erik Carlson's "The CIA is Being Thrown Under the Bus" references [[tucker-carlson|Tucker Carlson]]'s interview with [[stella-assange|Stella Assange]], in which the [[central-intelligence-agency|CIA]]'s plan to assassinate [[julian-assange|Julian Assange]] was attributed to Pompeo.[6]
+
+The article also notes that Pompeo moved from Director of the CIA to Secretary of State, with [[gina-haspel|Gina Haspel]] replacing him at Langley — after which, Carlson writes, [[donald-trump|Donald Trump]] stopped running intelligence through the agency.[6] Observing that Pompeo had recently said he would like to be part of Trump's new administration amid all the renewed talk about him, Carlson asked pointedly whether it was a coincidence.[6]
+
+6. Badlands Brief — "The CIA is Being Thrown Under the Bus", URL: https://badlands.substack.com/p/the-cia-is-being-thrown-under-the

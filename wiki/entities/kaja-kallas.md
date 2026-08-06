@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [european-union, foreign-policy, greenland, transatlantic-relations]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-747.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-747.md, raw/rattling-a-broken-saber.md]
 confidence: medium
 ---
 
@@ -34,9 +34,20 @@ Speaking after an extraordinary meeting of EU foreign ministers in late November
 
 Her comments followed the circulation by President [[donald-trump|Donald Trump]]'s administration of a 28-point plan that alarmed Ukraine and its European allies for heavily favoring Moscow.[4] Badlands contributors were unsympathetic: [[michael-flynn|General Michael Flynn]] said he wished "these SOBs would fight for peace as much as they desire war," denouncing warmongers in Europe and the United States, while [[chris-paul|Chris Paul]] drew a parallel to neoconservative maneuvering over Israel.[4] [[burning-bright|Burning Bright]] argued that legacy media predictions of a Thanksgiving peace deal were false and that Trump and [[vladimir-putin|Vladimir Putin]] had both signaled peace would arrive only at the "final stages" because the deals were already effectively concluded.[4]
 
+## Background and rise
+
+Kallas served as Prime Minister of Estonia before moving to Brussels, and Badlands contributor Ryan DeLarme described her and her family as thoroughly entwined with the European elite.[5] Her father, [[siim-kallas|Siim Kallas]], was likewise Prime Minister of Estonia and a European Commissioner, having previously spent a career in Communist Russia and a period as a central banker.[5] DeLarme argued that she advanced her career through Russophobic rhetoric, was floated as a potential Secretary-General of [[nato|NATO]], and was instead chosen in 2024 — after attending [[bilderberg|Bilderberg]] — as Vice-President of the [[european-commission|European Commission]] and EU High Representative for Foreign Affairs and Security Policy.[5] He also noted her membership of the [[european-council-on-foreign-relations|European Council on Foreign Relations]], which he characterized as a spiritual successor to the [[institute-for-statecraft|Institute for Statecraft]].[5]
+
+## Advocacy for confronting Russia without the United States (2025)
+
+Speaking at the [[hudson-institute|Hudson Institute]] in early 2025, Kallas rejected American arguments that Russia was too large to be beaten and insisted Europe must continue to confront Russia through Ukraine even if Washington withdrew.[5] She tied the question to Asia, asking how the United States could credibly promise to defend Asian partners against a militarily and economically larger China if it conceded that the West could not meaningfully pressure Russia.[5] She repeated the theme at the European Defense Agency's annual conference.[5] DeLarme dismissed the position as indifference to Ukrainian casualties and argued that the costs of her policies would fall on the working classes of Italy, Spain and France rather than on the ruling class she belongs to.[5]
+
+As the EU's chief foreign and security official she pressed for financing Ukraine as the first line of European defense, but the New York Times reported in March 2025 that her start had been rocky: her plan to raise up to €40 billion through a fixed levy on member states' national income went nowhere, and a fallback €5 billion proposal toward two million artillery shells was rejected by Italy, Slovakia and France.[5] Member states insisted contributions remain voluntary and bilateral.[5] DeLarme grouped her with [[ursula-von-der-leyen|Ursula von der Leyen]] as quintessential members of the European elite, both from families historically involved in European affairs, both among the loudest supporters of the war, and both unpopular with European electorates.[5]
+
 ## References
 
 1. Badlands Brief — "Somali Shatterpoints, Cartel Countermeasures, & Erosion of the World Order", URL: https://badlands.substack.com/p/badlands-brief-094
 2. Badlands Brief — "The Reckoning of Fake Elections, Fake Wars and Fake Allies", URL: https://badlands.substack.com/p/badlands-brief-b62
 3. Badlands Brief — "Badlands News Brief: Military in Memphis & Patrols in Poland", URL: https://badlands.substack.com/p/badlands-news-brief-1ed
 4. Badlands Brief — "Afghanis Activate, Witch Hunts End, & Hitler Launches Re-Election Campaign", URL: https://badlands.substack.com/p/badlands-news-brief-747
+5. Badlands Brief — "Rattling a Broken Saber?", URL: https://badlands.substack.com/p/rattling-a-broken-saber

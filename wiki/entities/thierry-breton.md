@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [european-union, censorship, elections, france]
-sources: [raw/badlands-news-brief-09e.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-b83.md]
+sources: [raw/badlands-news-brief-09e.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-b83.md, raw/the-censorship-war-counteroffensive.md]
 confidence: medium
 ---
 
@@ -45,3 +45,8 @@ As EU Commissioner for Internal Market, Breton championed the [[eu-digital-covid
 3. Badlands Brief — "Badlands News Brief: MORE Shooter Shenanigans ... and TrumpaMania Reigns", URL: https://badlands.substack.com/p/badlands-news-brief-4cb
 4. Badlands Brief — "Badlands News Brief: Trump 2024 Has the Deep State a Little Testy …", URL: https://badlands.substack.com/p/badlands-news-brief-810
 5. Badlands Brief — "Trump Indicted ... AGAIN! ... & Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-b83
+6. Badlands Brief — "The Censorship War - Counteroffensive", URL: https://badlands.substack.com/p/the-censorship-war-counteroffensive
+
+## Named among censorship proponents (2025)
+
+Writing in February 2025, Badlands contributor [[ryan-delarme|Ryan DeLarme]] named Breton, alongside Brazil's [[alexandre-de-moraes|Alexandre de Moraes]], as a leading proponent of censorship whose reaction to the [[rumble-and-trump-media-v-moraes|Rumble and Trump Media lawsuit]] remained to be seen.[6] He suggested it would be instructive to watch such figures attempt to fight back against [[donald-trump|Donald Trump]] at what he judged to be the height of Trump's strength, and situated Breton's [[digital-services-act|Digital Services Act]] among the principal fronts of the [[censorship-war|censorship war]].[6]

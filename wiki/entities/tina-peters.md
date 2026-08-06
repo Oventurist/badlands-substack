@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [election-integrity, colorado, clerk, commutation]
-sources: [raw/badlands-blitz-episode-18.md, raw/badlands-brief-174.md, raw/badlands-brief-5a2.md, raw/badlands-brief-774.md, raw/badlands-brief-a9f.md, raw/badlands-brief-b38.md, raw/badlands-brief-c07.md, raw/badlands-brief-e3f.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-8a4.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-d5c.md, raw/badlands-news-brief-f76.md]
+sources: [raw/badlands-blitz-episode-18.md, raw/badlands-brief-174.md, raw/badlands-brief-5a2.md, raw/badlands-brief-774.md, raw/badlands-brief-a9f.md, raw/badlands-brief-b38.md, raw/badlands-brief-c07.md, raw/badlands-brief-e3f.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-8a4.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-d5c.md, raw/badlands-news-brief-f76.md, raw/reset-the-space-reset-society.md]
 confidence: medium
 ---
 
@@ -151,6 +151,10 @@ Writing shortly after the [[colorado-supreme-court|Colorado Supreme Court]] disq
 
 Badlands host [[ashe-in-america|Ashe in America]] linked President [[donald-trump|Donald Trump]]'s September 2025 decision to move [[united-states-space-command|U.S. Space Command]] out of [[colorado|Colorado]] to Peters' continued imprisonment, noting that Trump cannot pardon her because her conviction is a state-level crime, leaving funding decisions and investigations as the constitutional "harsh measures" available to him.[22] She characterized stripping Colorado of a command that supports roughly 1,700 direct jobs and about $1 billion a year in Colorado Springs economic activity as exactly such a measure.[22] Ashe also connected Trump's stated rationale — Colorado's all-mail voting producing "automatically crooked elections" — to [[mesa-county|Mesa County]], where mail-in ballot irregularities were alleged and where Peters' "crucible began."[22]
 
+## Twitter Spaces appearance (2023)
+
+Peters appeared with [[mike-lindell|Mike Lindell]] on the first [[twitter-spaces|Twitter Spaces]] event hosted by [[ashe-in-america|Ashe in America]], who had covered her case extensively.[23] The discussion addressed the RNC chair election, the Maricopa audit, the [[mesa-county|Mesa County]] election reports, and Peters' then-upcoming trials.[23]
+
 ## References
 1. Badlands Brief — "Badlands Blitz Episode 18", URL: https://badlands.substack.com/p/badlands-blitz-episode-18
 2. Badlands Brief — "Conflicts, Cartels, & Clemency", URL: https://badlands.substack.com/p/badlands-brief-174
@@ -174,3 +178,4 @@ Badlands host [[ashe-in-america|Ashe in America]] linked President [[donald-trum
 20. Badlands Brief — "A Christmas Bonus, War “With” Venezuela, & Prime Time Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-cad
 21. Badlands Media — "Badlands News Brief: Colorado Fallout (and Exposure) Continues", URL: https://badlands.substack.com/p/badlands-news-brief-d5c
 22. Badlands Brief — "Badlands News Brief: Sinking Confidence & A Loss Of Command", URL: https://badlands.substack.com/p/badlands-news-brief-f76
+23. Badlands Media — "The Great Reset the Space: A New Frontier for American Community", raw/reset-the-space-reset-society.md

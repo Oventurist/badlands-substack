@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [minnesota, national-guard, immigration, ice]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-144.md, raw/badlands-brief-577.md, raw/badlands-brief-db7.md, raw/badlands-brief-e8d.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-69d.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-ac8.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-ca1.md, raw/badlands-news-brief-ccd.md, raw/badlands-news-brief-e8f.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-144.md, raw/badlands-brief-577.md, raw/badlands-brief-db7.md, raw/badlands-brief-e8d.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-69d.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-ac8.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-ca1.md, raw/badlands-news-brief-ccd.md, raw/badlands-news-brief-e8f.md, raw/stay-focused-on-the-big-picture.md]
 confidence: medium
 ---
 
@@ -152,3 +152,11 @@ At a Tuesday fundraising event in Seattle for Washington Governor Bob Ferguson, 
 Badlands contributor [[ashe-in-america|Ashe in America]] tied the speech to remarks by Representative [[ilhan-omar|Ilhan Omar]] and to Homeland Security Secretary [[kristi-noem|Kristi Noem]]'s claim that 50% of visas in Minnesota were fraudulent, arguing that Walz "doubling down should make this criminal."[20]
 
 20. Badlands News Brief — "Turkish Delight, Somali Expansion, & The Racist History of Jingle Bells", URL: https://badlands.substack.com/p/badlands-news-brief-e8f
+
+## Alleged CCP ties and the 2024 ticket (Carlson commentary)
+
+In an October 15, 2024 Badlands feature, [[erik-carlson|Erik Carlson]] wrote that Walz appeared to have been a Chinese Communist Party asset for decades, noting that he first travelled to China in 1989 and has made countless trips since.[21] Carlson asserted there was strong evidence that the CCP controlled and funded the 2020 BLM and ANTIFA riots that began in Minnesota while Walz was governor.[21] He speculated that the CCP, which he believed controlled [[joe-biden|Joe Biden]], may have forced the Deep State to add Walz to the ticket to replace one controlled asset with another after Biden was pushed out as the 2024 nominee.[21] Carlson's alternative and preferred conjecture was that [[xi-jinping|Xi Jinping]], whom he and other Q followers believe is working with [[donald-trump|Donald Trump]], engineered Walz's placement on the Democratic ticket precisely because his alleged past would be exposed too close to the election for the Democrats to change candidates.[21]
+
+Carlson also addressed the abuse rumors then circulating about Walz, stressing that the claims were unproven and should be treated as such while arguing that even the narrative alone damages a campaign, and suggesting that fake accusers were being seeded so that genuine ones could later be dismissed as election interference by the Trump team.[21] He acknowledged that his own reaction to the pick was based on "vibes" and proved nothing.[21] In the article's conclusion, Carlson argued that Walz and [[kamala-harris|Kamala Harris]] matter only insofar as they stand in the way of Trump returning to power.[21]
+
+21. Badlands Brief — "Stay Focused on the Big Picture", URL: https://badlands.substack.com/p/stay-focused-on-the-big-picture

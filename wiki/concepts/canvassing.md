@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [elections, organizing, first-amendment, speech]
-sources: [raw/always-fight-back.md, raw/an-sos-from-ground-zero.md]
+sources: [raw/always-fight-back.md, raw/an-sos-from-ground-zero.md, raw/rooting-out-election-corruption.md]
 confidence: medium
 ---
 
@@ -22,7 +22,14 @@ In Arizona election law the word "canvass" carries an entirely different meaning
 
 Assistant Attorney General [[jennifer-wright|Jennifer Wright]] invoked that deadline in her November 19, 2022 letter to the [[maricopa-county-attorneys-office|Maricopa County Attorney's Office]], writing that because "the canvass is looming" and the outstanding issues bore on the county's ability to lawfully certify results, her unit required a response before the canvass was submitted.[[2]](https://badlands.substack.com/p/an-sos-from-ground-zero)
 
+## Canvassing as an election-integrity method
+
+A March 23, 2023 Badlands Media article by [[holly-at-altitude|Holly at Altitude]] presented canvassing as one of five practical steps citizens can take to expose problems in local election administration.[3] In that framing, the goal of canvassing is to verify publicly available voter data obtainable through a state Secretary of State office or a county election office.[3] The article directed readers to [[useip|USEIP]], which publishes free playbooks and training materials for canvassing in a way that is legal and can withstand court scrutiny, and cited a USEIP canvassing report used in Colorado for legal action, public education, and public pressure on election officials.[3]
+
+The article asserted that canvassing is "basically the only way to determine whether election records are accurate and valid in any state or locality," and that a finding of inaccurate records opens the door to legal action.[3]
+
 ## References
 
 1. Badlands Media — "Always Fight Back", URL: https://badlands.substack.com/p/always-fight-back
 2. Badlands Media — "An SOS From Ground Zero", URL: https://badlands.substack.com/p/an-sos-from-ground-zero
+3. Badlands Media — "Rooting Out Election Corruption", URL: https://badlands.substack.com/p/rooting-out-election-corruption

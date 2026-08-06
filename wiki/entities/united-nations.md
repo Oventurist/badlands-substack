@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [united-nations, un-charter, international-law, fdr]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-094.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-be1.md, raw/badlands-news-brief-c50.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-ed9.md, raw/badlands-news-brief-f8a.md, raw/oppenheimer-and-the-central-narrative.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-094.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-be1.md, raw/badlands-news-brief-c50.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-ed9.md, raw/badlands-news-brief-f8a.md, raw/oppenheimer-and-the-central-narrative.md, raw/the-cia-is-being-thrown-under-the.md]
 confidence: medium
 ---
 
@@ -133,3 +133,11 @@ Badlands commentary noted the irony that the UN itself created Israel in 1947 th
 15. Badlands Brief — "Badlands News Brief: Israeli Arms, Bondi's Back Peddle, & Assassins' Creeds", URL: https://badlands.substack.com/p/badlands-news-brief-ed9
 16. Badlands Brief — "Badlands News Brief: Economic Strife Prompts a Squeeze on the Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-f8a
 17. Badlands Brief — "'Oppenheimer' & The Central Narrative", URL: https://badlands.substack.com/p/oppenheimer-and-the-central-narrative
+
+## Alleged recipient of transferred Deep State power (March 2024)
+
+Erik Carlson's "The CIA is Being Thrown Under the Bus" argues that power is being moved out of the [[central-intelligence-agency|CIA]] and into [[nato|NATO]], the United Nations and the [[european-union|European Union]], because all three lie outside the control of a returning [[donald-trump|Donald Trump]].[18] On this reading the money flowing to Ukraine is less about the war than about building up these transnational institutions — a transfer of wealth and power away from the agency.[18]
+
+Carlson further asserts that the United Nations is the body behind mass illegal immigration into the United States, and speculates that some of the money sent to Ukraine may be funding terrorists crossing the American southern border.[18] He frames the Biden years as a project of weakening America through illegal immigration while strengthening NATO, the UN and the EU, so that Trump and his supporters can be fought from outside the American government once internal moles have been removed.[18]
+
+18. Badlands Brief — "The CIA is Being Thrown Under the Bus", URL: https://badlands.substack.com/p/the-cia-is-being-thrown-under-the

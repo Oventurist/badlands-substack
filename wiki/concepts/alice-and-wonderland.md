@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [qanon, comms, saudi-arabia, hillary-clinton, q-drops]
-sources: [raw/q-for-dummies-chapter-11.md]
+sources: [raw/q-for-dummies-chapter-11.md, raw/the-biggest-cover-up-in-american.md]
 confidence: medium
 ---
 
@@ -25,3 +25,11 @@ Alice & Wonderland appeared in the same cluster of drops as other Q signatures, 
 ## References
 
 1. Badlands Brief — "Q for Dummies - Chapter 11", URL: https://badlands.substack.com/p/q-for-dummies-chapter-11
+
+## Reading in "The Biggest Cover-up in American History"
+
+[[joe-lange|Joe Lange]] devotes the closing section of his March 2025 feature to decoding the formulation.[2] He notes that [[qanon|Q]] drop #49 of November 2, 2017, which concerned the [[uranium-one-deal|Uranium One]] informant, closed with "It's a name recognized around the world. Alice & Wonderland," three days before [[alwaleed-bin-talal|Prince Alwaleed]] was arrested in [[saudi-arabia|Saudi Arabia]].[2] Q drop #75 of November 5, 2017 paired "Godfather III" with "Alice & WONDERLAND," glossed "Alice (Lewis Carroll) = The Bloody WONDERLAND," and asked why [[jared-kushner|Jared Kushner]] had recently travelled to Saudi Arabia, what the kingdom is known for, where the biggest donations originate, and whether it served as a safe harbour or port of transfer.[2]
+
+Lange identifies "the Bloody Wonderland" with a modern illustrated rewrite of Lewis Carroll's book in which Alice, sent on a revenge quest, "finds herself a pawn in a deadly battle for supremacy of Wonderland."[2] He then points to a second rewrite titled "Hillary Clinton in Wonderland," casting [[hillary-clinton|Hillary Clinton]] as the heroine, and to Q drops #80 and #83 of November 5, 2017, the latter of which simplifies the cipher to "Alice & WONDERLAND. Hillary & Saudi Arabia."[2] On this reading Alice is Clinton, Wonderland is Saudi Arabia, Alwaleed is "Snow White," and the [[wizards-and-warlocks|Wizards and Warlocks]] are military intelligence — with Clinton herself only a pawn.[2]
+
+2. Badlands Brief — "The Biggest Cover-up in American History", URL: https://badlands.substack.com/p/the-biggest-cover-up-in-american

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [libya, 2011, regime-change, terrorism]
-sources: [raw/a-conflict-of-interest.md, raw/a-dereliction-of-duty.md, raw/badlands-news-brief-cba.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-f44.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-dereliction-of-duty.md, raw/badlands-news-brief-cba.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-f44.md, raw/the-bridge-3c3.md]
 confidence: medium
 ---
 
@@ -49,3 +49,11 @@ Badlands Media identifies [[nato|NATO]]'s 2011 operation to kill Gaddafi as the 
 3. Badlands Brief — "Badlands News Brief: Election-Mongering and Electioneering as Shenanigans Abound", URL: https://badlands.substack.com/p/badlands-news-brief-cba
 4. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44
 5. Badlands Brief — "Markets Crash as Tensions Rise Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-f44
+
+## Gold, the dinar and the case for removal
+
+An April 2, 2011 email from Sidney Blumenthal, among some 3,000 released from [[hillary-clinton|Hillary Clinton]]'s private server in late 2015, stated that Gaddafi's government held 143 tons of gold and a comparable amount of silver, accumulated before the rebellion and "intended to be used to establish a pan-African currency based on the Libyan golden Dinar" as an alternative to the CFA franc for Francophone African states; a source comment valued the metal at more than $7 billion.[6] Under Gaddafi, [[libya|Libya]] had achieved what The Ecologist called economic independence — its own water, food, oil, money and state-owned bank — with free education and medical care, and the $33 billion Great Man-Made River irrigation project financed interest-free through that state bank.[6]
+
+Badlands writer Joe Lange argues that this financial independence, not any humanitarian emergency, is why Gaddafi was removed, noting that human rights organisations questioned the atrocity claims used to justify the US–NATO intervention and that a Q drop listed the Central Bank of Libya as the network's "most recent conquest."[6] Clinton's October 2011 visit was described in the press as a "victory lap," and she remarked "We came, we saw, he died!" on hearing of his capture and killing.[6] Libya's gold reserves fell from 143.82 tons in 2011 to 116.64 tons by 2014, with estimates that up to 30 tons vanished during the revolution; none has been recovered, and Lange alleges the bullion was laundered through [[moldova|Moldova]].[6]
+
+6. Badlands Brief — "The Bridge", URL: https://badlands.substack.com/p/the-bridge-3c3

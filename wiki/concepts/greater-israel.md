@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [israel, middle-east, huckabee, territorial-claims, 2026]
-sources: [raw/badlands-brief-285.md, raw/badlands-brief-625.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-f1a.md]
+sources: [raw/badlands-brief-285.md, raw/badlands-brief-625.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-f1a.md, raw/real-patriots-dont-think-like-hitler-6fc.md]
 confidence: medium
 ---
 
@@ -69,3 +69,11 @@ In August 2025 a group of settler activists, accompanied by their young children
 5. Badlands Brief — "Badlands News Brief: New Gotham City, Iranian Mysteries & Wars Galore", URL: https://badlands.substack.com/p/badlands-news-brief-2ad
 6. Badlands Brief — "Damascus Has Fallen ... Cui Bono?", URL: https://badlands.substack.com/p/badlands-news-brief-7a5
 7. Badlands Brief — "Badlands News Brief: Epstein Barr, Resonant Summits, & A White House Whirlwind", URL: https://badlands.substack.com/p/badlands-news-brief-f1a
+
+## British imperial origins of the "Greater Israel" idea
+
+The Badlands series "Real Patriots Don't Think Like Hitler" traces the Greater Israel conception to British imperial strategy rather than to Jewish nationalism alone.[8] [[theodor-herzl]] envisioned Israel's borders extending "from the Brook of Egypt to the Euphrates," and in *Der Judenstaat* described the projected state as "a portion of the rampart of Europe against Asia, an outpost of civilization as opposed to barbarism."[8] In 1914 [[chaim-weizmann]] pitched a Jewish Palestine to Britain as "a very effective guard for the Suez Canal."[8]
+
+The article maps a lineage from Lord Shaftesbury's 1839 call for restoration of the Jews in Palestine, through [[lord-palmerston]]'s 1840 instruction to the British ambassador in Constantinople, the 1865 founding of the [[palestine-exploration-fund]], and the 1917 Balfour Declaration co-authored by [[arthur-balfour]], [[leo-amery]], [[alfred-milner|Lord Milner]] and Walter Rothschild.[8] It observes that the maps of Herzl's envisioned empire and of Babylon in 539 BCE are "eerily similar," and links the project to [[george-hawkins-pember]]'s prophecy that Babylon must be rebuilt to become "the capital of the Antichrist."[8] It also warns that American nuclear power may back Zionist ambitions to purge the land of Arabs, "starting with Palestine and followed by Syria, Iraq, Lebanon, Egypt, and possibly Saudi Arabia, as outlined by the neo-con Clean Break Doctrine submitted to Netanyahu in 1996."[8]
+
+8. Badlands Brief — "Real Patriots Don't Think Like Hitler - Part 6: 'Greater Israel' as a British Imperial Project", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-6fc

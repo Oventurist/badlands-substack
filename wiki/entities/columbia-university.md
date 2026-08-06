@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [education, protests, israel-hamas-war, campus-activism]
-sources: [raw/badlands-news-brief-08a.md, raw/badlands-news-brief-0d4.md, raw/badlands-news-brief-a72.md]
+sources: [raw/badlands-news-brief-08a.md, raw/badlands-news-brief-0d4.md, raw/badlands-news-brief-a72.md, raw/scholars-and-spooks.md]
 confidence: medium
 ---
 
@@ -32,7 +32,16 @@ Badlands Media contributor [[burning-bright|Burning Bright]] framed the Columbia
 
 Columbia had $400 million in federal funding paused by the Trump administration and had yet to see it restored despite agreeing to all of the administration's stated demands, a precedent invoked when the administration announced on March 31, 2025 that it would review federal contracts with [[harvard-university|Harvard University]] as part of the work of the [[joint-task-force-to-combat-anti-semitism|Joint Task Force to Combat Anti-Semitism]].[3]
 
+## Operation Mockingbird and CIA recruitment
+
+Columbia University, home to the Columbia Journalism School, was allegedly a hub for recruiting journalists and scholars to influence foreign media under [[operation-mockingbird|Operation Mockingbird]], the CIA program aimed at infiltrating media and academic institutions to shape public opinion and counter communist narratives.[4] Carl Bernstein's 1977 Rolling Stone exposé on Mockingbird named Columbia as a CIA recruitment hub.[4]
+
+In the 1960s, Columbia's School of International Affairs — now the School of International and Public Affairs — hosted CIA-funded seminars with foreign leaders, facilitating unofficial negotiations on trade and security; disguised as academic exchanges, these events allowed the CIA to broker deals without formal [[state-department|State Department]] involvement, an early instance of [[shadow-diplomacy|shadow diplomacy]].[4] CIA-linked academics allegedly suppressed critical reporting on U.S. interventions, such as Chile's 1973 coup, by promoting sanitized narratives in journals and media, a precursor to modern censorship tactics.[4]
+
+Columbia is also the academic home of [[jeffrey-sachs|Jeffrey Sachs]], director of its Center for Sustainable Development.[4]
+
 ## References
 1. Badlands News Brief — "The Communist Ouroboros Accelerates", raw/badlands-news-brief-08a.md
 2. Badlands Brief — "Badlands News Brief: Kangaroo Courts and Administrative Pedophiles", URL: https://badlands.substack.com/p/badlands-news-brief-0d4
 3. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72
+4. Badlands Brief — "Scholars and Spooks", URL: https://badlands.substack.com/p/scholars-and-spooks

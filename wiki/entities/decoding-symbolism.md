@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [symbolism, q-movement, alternative-media, blogs]
-sources: [raw/expand-your-thinking.md]
+sources: [raw/expand-your-thinking.md, raw/symbolism-will-be-their-downfall.md]
 confidence: low
 ---
 
@@ -26,3 +26,8 @@ The recommendation rests on the [[qanon|Q]] assertion that the cabal's "need for
 
 ## References
 1. Badlands Brief — "Expand Your Thinking", URL: https://badlands.substack.com/p/expand-your-thinking
+2. Badlands Brief — "Symbolism Will Be Their Downfall", URL: https://badlands.substack.com/p/symbolism-will-be-their-downfall
+
+## Related Badlands commentary
+
+The maxim that the cabal's need for symbolism will be its downfall supplies the title of a March 2024 Badlands Media essay by [[erik-carlson|Erik Carlson]], which applies the same interpretive method to [[joe-30330|Joe 30330]], the [[nvidia|Nvidia]] logo, [[true-detective|*True Detective*]] and Hollywood initiation rituals.[2] That essay is catalogued on the wiki under [[cabal-symbolism|cabal symbolism]].[2]

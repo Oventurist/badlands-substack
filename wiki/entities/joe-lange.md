@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, author, disinformation]
-sources: [raw/a-look-at-recent-features-84d.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/bad-actors.md, raw/clowns-in-america.md, raw/disinformation-is-necessary.md, raw/master-and-commander.md, raw/money-and-oil.md, raw/oligarchism-and-the-great-game.md, raw/nothing-is-as-it-appears.md, raw/panic-in-dc.md]
+sources: [raw/a-look-at-recent-features-84d.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/bad-actors.md, raw/clowns-in-america.md, raw/disinformation-is-necessary.md, raw/master-and-commander.md, raw/money-and-oil.md, raw/oligarchism-and-the-great-game.md, raw/nothing-is-as-it-appears.md, raw/panic-in-dc.md, raw/shared-interests.md, raw/the-battle-for-control.md, raw/the-chosen-one.md, raw/the-biggest-boomerang-in-history.md]
 confidence: low
 ---
 
@@ -77,3 +77,37 @@ In "Panic in DC," published July 19, 2023 and subtitled "Iran Is the Linchpin to
 The essay's investigative core concerns the January 2016 [[pallets-of-cash-to-iran|pallets of cash]] flown to [[iran|Iran]], which Lange argues was a [[central-intelligence-agency|CIA]] operation separate from the [[joint-comprehensive-plan-of-action|nuclear deal]], with both the nuclear-deal framing and the hostage-ransom framing serving as deliberate red herrings.[10] He traces the money through the [[judgment-fund|Judgment Fund]] to a 1991 precedent under [[george-hw-bush|George H. W. Bush]], and argues that [[donald-trump|Trump]] knows the operational details because of [[national-security-agency|NSA]] collection.[10] The article's second half covers [[project-cassandra|Project Cassandra]] and [[hezbollah|Hezbollah]]'s drug and laundering networks, culminating in his claim that [[cash-for-clunkers|Cash for Clunkers]] existed to supply used vehicles to that operation.[10] He closes by promising a following article on the Bush family's ties to drug trafficking and Alwaleed.[10]
 
 10. Badlands Brief — "Panic in DC", URL: https://badlands.substack.com/p/panic-in-dc
+
+## "Shared Interests" (February 2023)
+
+Published on February 23, 2023 and subtitled "The Foundation for a New Global Financial System," this essay takes its title from [[donald-trump|Donald Trump]]'s language at the 2018 Helsinki press conference with [[vladimir-putin|Vladimir Putin]], where Trump called for nations to "cooperate in pursuit of shared interests" and described Putin as a competitor rather than an enemy.[11] Lange distinguishes [[shared-interests|shared interests]] — active cooperation in a plan of action — from merely common interests, and argues that [[brics|BRICS]] and Trump are jointly executing a plan to remove and replace the central-bank-controlled global debt system.[11]
+
+The piece surveys the machinery of that replacement: Russia's [[spfs|SPFS]] messaging system and [[mir-payment-system|MIR]] cards, China's [[cips|CIPS]] clearing network, the yuan–ruble payment mechanism launched in 2017, the [[belt-and-road-initiative|Belt and Road Initiative]], the [[new-development-bank|New Development Bank]] and its local-currency lending, and yuan oil futures exchangeable for gold.[11] Lange treats [[sanctions]] as the cabal's principal weapon and the catalyst for BRICS, frames the Ukraine war as a proxy conflict over control of the financial system timed for Biden's presidency, and reads [[saudi-arabia|Saudi Arabia]]'s 2021 military agreement with Russia and its openness to non-dollar oil settlement as the end of the [[petrodollar|petrodollar]] bargain.[11] He closes by predicting a global dollar dump and reset toward commodity-backed currencies, and promises a following installment on the coming digital currencies and the personal financial freedoms he believes they will offer.[11]
+
+11. Badlands Brief — "Shared Interests", URL: https://badlands.substack.com/p/shared-interests
+
+## "The Battle for Control" (February 2024)
+
+In a February 19, 2024 installment titled "The Battle for Control," subtitled "Whoever Controls the Money Controls the Government," Lange continued a series arguing that [[donald-trump|Donald Trump]] plans to transform the American banking system and return control of it to the people, preventing the government from being controlled by private bankers foreign or domestic.[12] He framed safeguards as the key to the nation's future and invoked the Q instruction to "follow the money," holding that the money trail reveals how corrupt the global system is.[12]
+
+The article identified [[citibank|Citibank]] as, in his judgment, the most corrupt bank in the world and the institution standing at the center of both the [[cia|CIA]] shadow government created by [[george-hw-bush|George H. W. Bush]] and the power of [[alwaleed-bin-talal|Prince Alwaleed bin Talal Al Saud]].[12] Lange then traced the bank's history from its 1812 charter through the [[panic-of-1837|Panic of 1837]], the [[john-jacob-astor|Astor]] bailout, the tenures of [[moses-taylor|Moses Taylor]] and [[james-stillman|James Stillman]], and the recruitment of [[frank-vanderlip|Frank Vanderlip]] from the Treasury Department to help architect the [[federal-reserve|Federal Reserve]].[12] Along the way he argued that the cabal starts wars to force nations into debt and then tricks them into central banks to service it, praised [[andrew-jackson|Andrew Jackson]]'s hard-money measures, and promised a following article tying Prince Alwaleed directly to Citibank.[12] Readers were pointed to more of his work at Joe Lange's Substack.[12]
+
+12. Badlands Brief — "The Battle for Control", URL: https://badlands.substack.com/p/the-battle-for-control
+
+## "The Chosen One" (January 2023)
+
+Lange's January 18, 2023 essay "The Chosen One," subtitled "Turnabout Is Fair Play," inverted [[donald-trump|Donald Trump]]'s 2019 self-description as "the chosen one" and argued instead that [[joe-biden|Joe Biden]] was the chosen one — chosen by Trump.[13] Lange opened by recalling Trump's remark, made in the context of confronting China over manufacturing and intellectual-property theft, and the reaction it provoked on the left, which he said inspired a meme of his own.[13]
+
+The essay restated his recurring thesis that Trump and the military are in far more control of events than the public realizes, using the [[2023-speaker-of-the-house-election|January 2023 Speaker of the House contest]] as a case in which he himself had been fooled, and reading it as staged theatre signalled through [[qanon|Q]] posts and Trump's own Truth Social messaging.[13] He argued that the plan had been to let Biden take the 2020 election so Democrats would own the consequences and a civil war would be avoided, and that everything now surfacing against the Biden camp was "planned and timed."[13]
+
+Lange devoted the second half of the piece to the [[2020-democratic-presidential-primary|2020 Democratic presidential primary]], contending that Trump elevated Biden through relentless personal attacks and media manipulation, and citing the [[elizabeth-warren-dna-test|Elizabeth Warren DNA test episode]] as an earlier demonstration of the same agenda-setting power.[13] He proposed that Trump held leverage over Biden because [[hunter-biden|Hunter Biden]] had "flipped a long time ago," and framed Biden as a [[judas-goat|Judas goat]] installed at the head of the opposition to lead it into a trap.[13] He conceded he could not prove the claim, closed by leaving the conclusion to readers, and predicted 2023 would be "a year for the history books."[13] As with his other Badlands features, the article carried the outlet's contributor disclaimer and pointed readers to Joe Lange's Substack.[13]
+
+13. Badlands Brief — "The Chosen One", URL: https://badlands.substack.com/p/the-chosen-one
+
+## "The Biggest Boomerang In History"
+
+Lange published "[[the-biggest-boomerang-in-history|The Biggest Boomerang In History]]," subtitled "How Do You Trap a Very Dangerous Animal?", through Badlands Media on May 17, 2025.[14] The article is an instalment in a continuing series and refers back to his earlier pieces "Moves And Countermoves," "Nothing Is As It Appears" and "America For Sale — Part 1," while promising a further article on another figure central to the [[two-tier-justice-system|two tier justice system]].[14]
+
+Its thesis is that the operation against [[donald-trump|Donald Trump]] — [[spygate|SPYGATE]] as the original scandal and [[fisagate|FISAGATE]] as the cover-up — was inverted by Trump's use of declassification into the exposure of its own authors.[14] Lange builds the argument from Q drops, mainstream reporting from the Boston Herald, Fox News, Politico, The Hill, Breitbart and Big League Politics, and his recurring themes of an "invisible hand" of [[military-intelligence|Military Intelligence]] conducting irregular war against an embedded insurgency, and of deception as a necessity in war.[14] The article carries Badlands Media's standard disclaimer that contributions represent the opinions of their authors, and directs readers to Lange's own Substack.[14]
+
+14. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history

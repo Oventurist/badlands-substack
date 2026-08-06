@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, defense, republican, alabama]
-sources: [raw/badlands-news-brief-ce5.md, raw/badlands-news-brief-cff.md, raw/irregular-warfare.md, raw/moves-and-countermoves.md, raw/q-for-dummies-chapter-2.md, raw/q-for-dummies-chapter-5.md]
+sources: [raw/badlands-news-brief-ce5.md, raw/badlands-news-brief-cff.md, raw/irregular-warfare.md, raw/moves-and-countermoves.md, raw/q-for-dummies-chapter-2.md, raw/q-for-dummies-chapter-5.md, raw/shall-we-play-a-game.md]
 confidence: medium
 ---
 
@@ -50,3 +50,10 @@ Badlands' "Q for Dummies" Chapter 2, reading Q drop #14, states that Admiral Rog
 Chapter 5 of the series, covering drops #31–40, reads drop #36 as indicating that the [[national-security-agency|NSA]] under Rogers's direction "had all the info they needed" on the [[clinton-lynch-tarmac-meeting|Clinton–Lynch tarmac meeting]] and more.[6] The chapter appends a side note recording that Rogers was the 17th Director of the NSA — a detail treated as significant within [[q-operation|Q]] circles because 17 is the alphabetical position of the letter Q.[6]
 
 6. Badlands Brief — "Q for Dummies - Chapter 5", URL: https://badlands.substack.com/p/q-for-dummies-chapter-5
+7. Badlands Brief — "Shall We Play a Game?", URL: https://badlands.substack.com/p/shall-we-play-a-game
+
+## "Shall We Play a Game?" — the double trap
+
+The July 2025 article "Shall We Play a Game?" by [[joe-lange|Joe Lange]] again identifies Rogers as the one senior [[barack-obama|Obama]] administration official who acted with integrity, quoting Joe DiGenova via Red State that Rogers discovered American citizens were being spied on and travelled to Trump Tower on November 17, 2016 to warn President-elect [[donald-trump|Trump]], bypassing Director of National Intelligence [[james-clapper|James Clapper]].[7] Lange formulates Rogers's contribution as "1 + 1 = 2": cutting off illegal access to the [[national-security-agency|NSA]] database and reporting the abuse to the [[foreign-intelligence-surveillance-court|FISA court]], plus warning Trump so that [[spygate|Spygate]] entered the public narrative, together equalling a trap.[7]
+
+DiGenova is quoted saying Rogers went personally to the FISA Court, briefed the chief judge, and worked with her for months to identify who had lied to the court, information later provided to Attorney General [[bill-barr|Bill Barr]]; DiGenova also alleged that four private FBI contractors had been stealing electronic information on Americans for more than four years before the 2016 election to use against the Republican Party.[7] Lange argues that because Rogers had already cut off the Obama administration's warrantless access to the NSA database, obtaining the [[carter-page|Carter Page]] FISA warrant became urgent for the plotters, making the [[steele-dossier|Steele dossier]] the instrument of a cover-up.[7] He describes Rogers's actions as creating "paper trails" that trapped the administration and as the event that opened the door for [[declas|DECLAS]] to reveal the truth.[7]

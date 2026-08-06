@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [bolshevik, russia, language-warfare, communism, propaganda]
-sources: [raw/badlands-news-brief-743.md]
+sources: [raw/badlands-news-brief-743.md, raw/rainbow-color-revolution.md, raw/shadows-sovereigns-and-civil-wars.md]
 confidence: medium
 ---
 
@@ -27,3 +27,21 @@ Badlands Media commentary by [[simon-esler|Simon Esler]] extended the point, tre
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Biden, Bobulinski & Barbecue", URL: https://badlands.substack.com/p/badlands-news-brief-743
+
+## Leadership of the 1917 overthrow (Carlson account)
+
+[[erik-carlson|Erik Carlson]] describes Lenin as the leader of the Bolsheviks, "a group of far-left radicals," who in October 1917 began an overthrow of the Russian monarch and the newly created parliamentary government that had followed Tzar [[nicholas-ii|Nicholas II]]'s abdication.[2] He characterizes the effort as involving only a small percentage of the population while creating a false perception of broad support, with protests, strikes and street violence staged to manufacture unrest.[2]
+
+The ensuing civil war between the "Reds" and the "Whites" ended with the creation of the Soviet Union under Lenin and the Bolsheviks, and in 1918 the Tzar and his family were murdered by the same people.[2] Carlson presents this [[bolshevik-revolution|sequence]] as an early [[color-revolution|color revolution]] and the template for what he calls the [[rainbow-color-revolution|Rainbow Color Revolution]] in America, and relays the claim that Wall Street bankers funded the Bolsheviks.[2]
+
+2. Badlands Brief — "Rainbow Color Revolution", URL: https://badlands.substack.com/p/rainbow-color-revolution
+
+## Disputes with Trotsky and the New Economic Policy
+
+Lenin differed from [[leon-trotsky|Leon Trotsky]] on two interconnected points: a general belief in voluntarism, and a rejection of the theory of [[permanent-revolution|permanent revolution]].[3] Where Lenin believed productive labor could be channeled toward improving the productive forces of society, Trotsky held that any effort at peaceful productive improvement would lead only to decadence.[3] In 1914 Lenin complained that Trotsky "deserted the Mensheviks and occupied a vacillating position, now co-operating with Martynov (the economist), now proclaiming his absurdly Left 'permanent revolution' theory."[3]
+
+A further conflict concerned Russia's participation in the First World War: Lenin wanted to bring Russia out of the conflict in the first moments of the 1917 coup, while Trotsky and [[nikolai-bukharin|Nikolai Bukharin]] demanded that Russia stay in the war to convert it into a pan-European and ultimately global revolution.[3]
+
+Upon taking charge of the economy, Lenin and Trotsky unleashed the [[new-economic-policy|New Economic Policy]], a wave of liberalization under which Western corporate powers bought up former national utilities for pennies on the dollar.[3] [[armand-hammer|Armand Hammer]] later recalled Lenin telling him, "We do not need doctors, we need businessmen… communism is not working, and we must change to a New Economic Policy."[3]
+
+3. Badlands Brief — "Shadows, Sovereigns and Civil Wars - Part 1", URL: https://badlands.substack.com/p/shadows-sovereigns-and-civil-wars

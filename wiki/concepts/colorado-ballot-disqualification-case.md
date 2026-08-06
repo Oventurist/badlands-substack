@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [2024-election, ballot-access, fourteenth-amendment, courts, lawfare]
-sources: [raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-8cb.md, raw/badlands-news-brief-9bf.md, raw/badlands-news-brief-b04.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c19.md, raw/badlands-news-brief-c74.md]
+sources: [raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-8cb.md, raw/badlands-news-brief-9bf.md, raw/badlands-news-brief-b04.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c19.md, raw/badlands-news-brief-c74.md, raw/the-danger-to-their-democracy.md]
 confidence: medium
 ---
 
@@ -110,6 +110,16 @@ Ashe in America identified the outcome as "option four" of the four scenarios sh
 
 Republican presidential candidate [[vivek-ramaswamy|Vivek Ramaswamy]] denounced the decision as "an un-American, unconstitutional, and unprecedented decision" by "a cabal of Democrat judges," contending it was a political move to disqualify Trump amid his mounting lead in the polls.[12] He pledged to withdraw from the Colorado GOP primary unless Trump was also allowed on the state's ballot, and demanded that [[ron-desantis|Ron DeSantis]], Chris Christie and [[nikki-haley|Nikki Haley]] do the same immediately or be seen as tacitly endorsing the illegal maneuver.[12]
 
+## Criticism of the ruling's legal reasoning
+
+Writing for [[badlands-media|Badlands Media]] on January 1, 2024, [[ryan-delarme|Ryan DeLarme]] argued that the decision's most glaring defect required no law degree to see: [[donald-trump|Trump]] had never been charged with, much less convicted of, the offense of insurrection, notwithstanding indictments in four separate jurisdictions.[13] Neither DOJ special counsel [[jack-smith|Jack Smith]] nor the Democratic prosecutor in Atlanta had chosen to charge Trump with participating in or instigating an uprising, yet four state judges had declared him guilty of a crime for which he was never afforded the constitutional protections attaching to criminal defendants — a jury of his peers, cross-examination, counsel and [[due-process|due process]].[13]
+
+DeLarme catalogued four specific errors. First, he argued the events of January 6 did not constitute an attempted insurrection, noting that historical attempts to overthrow governments typically involve firearms, and that the claim insurrectionists are barred from federal service is contradicted by the postbellum record in which dozens of former Confederates, including high-ranking officers, served in the House and Senate and Confederate soldiers enlisted in the U.S. Army.[13] Second, he contended Trump did not orchestrate the events at the Capitol, suggesting [[nancy-pelosi|Nancy Pelosi]]'s refusal to bolster Capitol security or the [[fbi|FBI]]'s embedded intelligence operatives were likelier proximate causes.[13] Third, Trump had not been found guilty of any crime, and the posture that "we all know it was an insurrection ... so we don't need a trial" is a slippery slope toward charging anyone at any time.[13] Fourth, Section 3 speaks of an "Elector of President" rather than "President," and the term "officer" is itself ambiguous.[13]
+
+He further argued that criminalizing Trump's January 6 speech would require trampling the precedents of [[brandenburg-v-ohio|Brandenburg v. Ohio]] and [[naacp-v-claiborne-hardware|NAACP v. Claiborne Hardware]], the two seminal First Amendment cases of the latter half of the twentieth century, and observed that the U.S. Criminal Code already contains a rebellion-or-insurrection offense at [[18-usc-2383|18 U.S.C. § 2383]] under which Trump was never charged.[13] DeLarme characterized the decision as legally untenable, illogical and a direct assault on the constitutional premise of three coequal branches, noting that judges had historically almost never entered election-related cases.[13] He cited President [[nayib-bukele|Nayib Bukele]] of El Salvador, who tweeted that "The United States has lost its ability to lecture any other country about 'democracy'."[13]
+
+DeLarme also noted that the same liberal advocacy groups that spearheaded the Colorado case had filed in at least 14 other states, and that the ruling was stayed until January 4 to give the [[supreme-court-of-the-united-states|U.S. Supreme Court]] time to decide whether to take the case.[13] He drew a parallel to [[vladimir-putin|Vladimir Putin]]'s imprisonment of [[alexei-navalny|Alexei Navalny]], arguing that the American establishment's tactic of removing its chief political opponent from the ballot is the same form of election interference Western commentators condemn abroad.[13]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: The Witch Hunt Hits a Few Snags as the Landscape Shifts", URL: https://badlands.substack.com/p/badlands-news-brief-2a0
 2. Badlands Brief — "Badlands News Brief: Kash Unleashed, Zelensky Abandoned & Trump Championed", URL: https://badlands.substack.com/p/badlands-news-brief-356
@@ -123,3 +133,4 @@ Republican presidential candidate [[vivek-ramaswamy|Vivek Ramaswamy]] denounced 
 10. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb
 11. Badlands Brief — "Another Trump Trial Begins ... Regime Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-c19
 12. Badlands Brief — "Badlands News Brief: The Mask Comes off as the Nation Watches", URL: https://badlands.substack.com/p/badlands-news-brief-c74
+13. Badlands Brief — "The 'Danger to Their Democracy'", URL: https://badlands.substack.com/p/the-danger-to-their-democracy

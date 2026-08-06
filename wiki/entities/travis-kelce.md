@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [nfl, celebrity, media, covid-19, pfizer]
-sources: [raw/badlands-news-brief-b01.md, raw/q-for-dummies-chapter-6.md]
+sources: [raw/badlands-news-brief-b01.md, raw/q-for-dummies-chapter-6.md, raw/q-for-dummies-chapter-3.md]
 confidence: medium
 ---
 
@@ -26,6 +26,11 @@ Writer GhostofBasedPatrickHenry argued that public shaming — historically the 
 
 Badlands' "[[q-for-dummies|Q for Dummies]]" Chapter 6 cites Kelce in connection with the [[kansas-city-super-bowl-parade-shooting|Kansas City Super Bowl parade shooting]] of February 14, 2024, noting that he had posted in favour of gun control three days before the incident — a find the chapter credits to the Substack writer JuliansRum.[2] The author treats the timing as consistent with what he calls the [[false-flag-operation|false flag]] pattern, and describes the venue as further suspicious given the "propaganda machine" he says was built out of the relationship between [[taylor-swift|Taylor Swift]] and Kelce.[2]
 
+## Cited in Q for Dummies
+
+Chapter 3 of [[q-for-dummies|Q for Dummies]], published December 29, 2023, names Kelce alongside [[taylor-swift|Taylor Swift]] as a contemporary illustration of the claim that celebrity is used as a vehicle for narrative management, a tactic the author attributes to the [[operation-mockingbird|Operation Mockingbird]] apparatus.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Marauding, Squirrel-Murdering Psychopaths Panic Ahead of the Election", URL: https://badlands.substack.com/p/badlands-news-brief-b01
 2. Badlands Brief — "Q for Dummies - Chapter 6", URL: https://badlands.substack.com/p/q-for-dummies-chapter-6
+3. Badlands Brief — "Q for Dummies - Chapter 3", URL: https://badlands.substack.com/p/q-for-dummies-chapter-3

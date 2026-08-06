@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [wwii, wwi, britain, history, revisionism]
-sources: [raw/badlands-news-brief-6f7.md, raw/operation-gladio-a-primer.md]
+sources: [raw/badlands-news-brief-6f7.md, raw/operation-gladio-a-primer.md, raw/real-patriots-dont-think-like-hitler-196.md, raw/real-patriots-dont-think-like-hitler-6fc.md]
 confidence: medium
 ---
 
@@ -32,6 +32,19 @@ Colonel [[roxane-watkins|Roxane Watkins]] records that a young British reporter 
 
 The campaign Churchill covered is also where, in her telling, the Boers demonstrated the stay-behind tactic by caching weapons along the British attack route, and where the victorious British later interned Boer women, children and the elderly in what she calls the first known use of concentration camps.[2]
 
+## Installation in 1940
+
+[[matthew-ehret|Matthew Ehret]] presents Churchill's 1940 accession as part of a deliberate course correction by London and Wall Street once [[adolf-hitler|Hitler]] proved unwilling to serve as junior partner in an Anglo-led New World Order.[3] A scandal was concocted to justify the 1936 abdication of the pro-Nazi [[edward-viii|Edward VIII]], and the appeasing Prime Minister Neville Chamberlain was replaced with Churchill in 1940.[3] Ehret describes Churchill as a lifelong racist, eugenicist and even Mussolini admirer, but above all a devout British imperialist who would fight tooth and nail to save the prestige of the Empire when it was threatened — "which he did."[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Psyops Abound as the Media Landscape Shifts Rapidly", URL: https://badlands.substack.com/p/badlands-news-brief-6f7
 2. Badlands Brief — "Operation Gladio - A Primer", URL: https://badlands.substack.com/p/operation-gladio-a-primer
+3. Badlands Brief — "Real Patriots Don't Think Like Hitler – Part 2: How Western Bankers Created the Nazis", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-196
+
+## Zionism, fascism, and the Bengal famine
+
+Part 6 of the "Real Patriots Don't Think Like Hitler" series states that the hidden role of British intelligence in shaping the state of Israel "wasn't ignored by Sir Winston Churchill," then Lord of the British Admiralty during the First World War.[4] Churchill wrote forcefully about an international Jewish conspiracy to take over the world in his essay "Zionism versus Bolshevism," yet also spoke proudly of [[zionism]], declaring in 1917 that "if, as it may well happen, there should be created in our own lifetime by the banks of the Jordan a Jewish state under the protection of the British crown … [it] would be especially in harmony with the truest interests of the British Empire."[4]
+
+While the article grants that Churchill could not be called a supporter of Hitler's National Socialism, it notes that up until 1935 he loudly proclaimed his admiration for Hitler and spoke fondly of Mussolini's Black Shirts.[4] It further describes him as a rampant racist who presided over the mass extermination of "lower races," pointing to the 1943 Bengal famine that killed three million Indians, and classes him — like most other dominant Round Table leaders of Britain at the time — as an "imperial socialist," a disposition the article places at the heart of 20th-century fascism.[4] Churchill is listed alongside Lord Shaftesbury and [[arthur-balfour|Lord Balfour]] as figures who believed the British Empire had created political Zionism as an instrument of the Great Game.[4]
+
+4. Badlands Brief — "Real Patriots Don't Think Like Hitler - Part 6: 'Greater Israel' as a British Imperial Project", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-6fc

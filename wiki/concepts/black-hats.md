@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [deep-state, q-movement, badlands-media, information-warfare]
-sources: [raw/how-do-you-remove-a-potus.md]
+sources: [raw/how-do-you-remove-a-potus.md, raw/super-computers-in-the-info-war.md]
 confidence: low
 ---
 
@@ -25,3 +25,11 @@ The Black Hat concept in this usage is largely coextensive with the Deep State, 
 ## References
 
 1. Badlands Brief — "How Do You Remove a POTUS?", URL: https://badlands.substack.com/p/how-do-you-remove-a-potus
+
+## Scenario modelling of events and narratives (Carlson, 2023)
+
+In an April 12, 2023 essay, [[erik-carlson|Erik Carlson]] argued that the black hats use predictive supercomputers to test scenarios against public reaction before acting.[2] They can, he wrote, input a scenario in which two skyscrapers are taken down in New York City to see whether it would inspire Americans to give up their rights to privacy and whether it would lead the country into war with two nations not involved in the attacks.[2] The same machines, in his account, were used to model how BLM race riots would divide the country, how a pandemic would promote excessive fear and permit complete control, and how effective a climate-change narrative or transgenderism would be as social solvents.[2]
+
+Carlson maintained that the plan to destroy the world has been in place for centuries, with evidence visible a hundred years ago in the rise of the Bolsheviks, [[world-war-i|WWI]] and the Nazis through [[world-war-ii|WWII]], and continuing through the assassination of [[john-f-kennedy|JFK]], the cultural shift of the 1960s and 1970s and the generational rise in LGBT identification — the past thirty years being distinguished by malicious intentions partnered with advanced technology.[2] He added that the cabal believed there was no way Trump could win in 2016, so, confident their systems guaranteed a Clinton victory, they took no precautions to keep matters such as Epstein Island and Ukraine corruption from coming to light.[2] He described the black hats as having used the machines to plan the demise of the country, while the [[white-hats|white hats]] used them to plan the demise of the [[deep-state|Deep State]].[2]
+
+2. Badlands Brief — "Super Computers in the Info War", URL: https://badlands.substack.com/p/super-computers-in-the-info-war

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [election-integrity, 2020-election, business, badlands-brief]
-sources: [raw/badlands-brief-2c0.md, raw/badlands-brief-b34.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-398.md, raw/badlands-news-brief-4ab.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-85c.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-b63.md, raw/badlands-news-brief-e82.md, raw/badlands-news-brief-f1f.md]
+sources: [raw/badlands-brief-2c0.md, raw/badlands-brief-b34.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-398.md, raw/badlands-news-brief-4ab.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-85c.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-b63.md, raw/badlands-news-brief-e82.md, raw/badlands-news-brief-f1f.md, raw/reset-the-space-reset-society.md]
 confidence: medium
 ---
 
@@ -60,6 +60,10 @@ On Tuesday, June 3, 2025, the court declined to hold Lindell in contempt but iss
 
 In December 2025 the MyPillow founder filed state paperwork indicating he might soon launch a campaign for governor of Minnesota in the following year's midterm elections, telling CBS News by phone that he had 'not 100% decided' but had filed in case he moved forward, that he intended to run as a Republican, and that he would address his plans at a press conference the following week.[11] His potential candidacy came as he remained embroiled in multiple legal disputes tied to his claims about the 2020 presidential election, including a federal judge's ruling that he defamed Smartmatic with 'false statements' about its machines and a June jury verdict awarding $2.3 million to a former Dominion Voting Systems employee he had accused of treason.[11]
 
+## Twitter Spaces appearance (2023)
+
+In early 2023 Lindell appeared alongside Mesa County clerk [[tina-peters|Tina Peters]] in the first [[twitter-spaces|Twitter Spaces]] event hosted by [[ashe-in-america|Ashe in America]], who noted that she had previously worked with him.[15] The panel, described as stacked with election integrity experts and independent journalists, covered the Republican National Committee chair election, the Maricopa audit, the [[mesa-county|Mesa County]] election reports, and Peters' upcoming trials.[15]
+
 ## References
 
 1. Badlands Brief — "Southern Hospitality Superseded Plus Cross Burning", URL: https://badlands.substack.com/p/badlands-brief-2c0
@@ -93,3 +97,4 @@ On Monday, June 16, 2025, a Denver jury returned a verdict against Lindell in th
 The first statement dated to May 9, 2021, when Lindell urged Coomer to turn himself in for election stealing, saying "I mean, you are disgusting, and you are treasonous. You are a traitor to the United States of America."[14] The second came in a FrankSpeech interview in which he said "Eric Coomer, you are a criminal. Eric Coomer, your lawyers better look out. I'm not putting up with this... You've been a part of the biggest crime this world has ever seen."[14] The third was made by another speaker — identified by [[ashe-in-america|Ashe in America]] as Professor [[david-clements|David Clements]] at the Cyber Symposium — at an event broadcast on FrankSpeech.[14] Lindell joined Blue Eyes on Culture of Change that Monday night to discuss the verdict and was described as optimistic; Badlands commentary characterized MyPillow's exoneration as a win for small business and new media.[14]
 
 14. Badlands Brief — "Badlands News Brief: Chinese Election Interference & Evasive Ceasefires", URL: https://badlands.substack.com/p/badlands-news-brief-f1f
+15. Badlands Media — "The Great Reset the Space: A New Frontier for American Community", raw/reset-the-space-reset-society.md

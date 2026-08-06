@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, taxation, democrats, massachusetts, wealth-tax]
-sources: [raw/badlands-news-brief-31b.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-652.md, raw/badlands-news-brief-677.md, raw/celebrating-15-years-of-indictments.md]
+sources: [raw/badlands-news-brief-31b.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-652.md, raw/badlands-news-brief-677.md, raw/celebrating-15-years-of-indictments.md, raw/the-chosen-one.md]
 confidence: medium
 ---
 
@@ -44,3 +44,11 @@ A January 2024 Badlands Brief essay on the fifteenth anniversary of the [[bitcoi
 3. Badlands Brief — "Badlands News Brief: Cocaine & Climate Change", URL: https://badlands.substack.com/p/badlands-news-brief-652
 4. Badlands Brief — "Badlands News Brief: Globalists Threaten Their Own as Bidenomics Reigns", URL: https://badlands.substack.com/p/badlands-news-brief-677
 5. Badlands Brief — "Celebrating 15 Years of Indictments and Justice!", URL: https://badlands.substack.com/p/celebrating-15-years-of-indictments
+
+## 2020 primary and the DNA test episode
+
+During the [[2020-democratic-presidential-primary|2020 Democratic presidential primary]], Warren surged in popularity and fundraising — particularly through small donations — at a point when [[joe-biden|Joe Biden]] was slipping, but faced significant doubt among Democratic voters that she could defeat [[donald-trump|Donald Trump]].[6] [[npr|NPR]] reporting cited by [[badlands-media|Badlands Media]] framed her rise around precisely that electability question.[6]
+
+Contributor [[joe-lange|Joe Lange]] attributed much of the doubt to Trump, who had pinned the nickname "Pocahontas" on Warren over her claim of partial Native American ancestry — a claim Lange said was made to secure a position at Harvard Law School when the school sought to hire more minorities.[6] At a Montana rally Trump challenged her to take a DNA test; the challenge dominated the news cycle, Warren took the test, and the result showing she was only 1/1024th Native American drew nationwide mockery.[6] The Republican Party followed with political advertising, a talking-points memo and a talk-show push around the line "1/1024th Native American, 100% Liar," damage Lange described as serious and lasting — though he noted Biden continued losing ground to her and other candidates even afterward.[6] See [[elizabeth-warren-dna-test|Elizabeth Warren DNA test episode]].
+
+6. Badlands Brief — "The Chosen One", URL: https://badlands.substack.com/p/the-chosen-one

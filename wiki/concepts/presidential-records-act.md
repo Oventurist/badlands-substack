@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [law, classified-documents, presidency, records]
-sources: [raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-d24.md, raw/nothing-is-as-it-appears.md]
+sources: [raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-d24.md, raw/nothing-is-as-it-appears.md, raw/smoke-and-mirrors.md]
 confidence: medium
 ---
 
@@ -56,3 +56,11 @@ Section 10 of the same legislation prohibits an officer or employee of an execut
 Lange reads both provisions as self-inflicted wounds. He argues the non-official messaging clause implicates Obama and [[hillary-clinton|Hillary Clinton]], who used a private server to transmit emails and did not back up those communications as the law Obama signed required, and he asserts that military intelligence captures all electronic communications regardless.[4] The transfer of records management to the Archivist, he contends, centralized control of all government records in one office — a mistake, in his telling, once that office was held by [[david-ferriero|David Ferriero]] through the entire [[donald-trump|Trump]] administration.[4] He further notes that part of the law prevents documents from being released until five years after a president leaves office, while maintaining that a sitting president's sole authority to declassify overrides that delay.[4]
 
 4. Badlands Brief — "Nothing Is as It Appears", URL: https://badlands.substack.com/p/nothing-is-as-it-appears
+
+## Argued to supersede the Espionage Act (June 2023)
+
+In "Smoke and Mirrors," published June 16, 2023, [[ryan-delarme|Ryan DeLarme]] treated the question of whether the Presidential Records Act of 1978 or the [[espionage-act|Espionage Act]] governs a former president's retention of records as the deciding factor in the [[2023-trump-classified-documents-indictment|classified documents case]] against [[donald-trump|Donald Trump]].[5] He characterised the DOJ's failure to address the point as its "biggest oopsie," and one that could not plausibly have been overlooked.[5] Unlike [[joe-biden|Joe Biden]] and [[hillary-clinton|Hillary Clinton]], he argued, Trump enjoys special privileges and protections for having served as president, so that whether he removed "a single postcard or a million documents" from the [[white-house|White House]] is legally immaterial — a latitude he compared to [[barack-obama|Barack Obama]], said to still be working through some three million pages of documents.[5]
+
+DeLarme cited [[kash-patel|Kash Patel]] for the statutory-construction argument that if [[congress|Congress]] had wanted the Espionage Act to supersede the Presidential Records Act it would have written the law differently: the later law supersedes the earlier unless Congress says otherwise, which it has not.[5] He concluded that if the case were handed to an unbiased artificial intelligence reviewing the evidence against the entire database of U.S. court records, it would never reach a jury.[5]
+
+5. Badlands Brief — "Smoke and Mirrors", URL: https://badlands.substack.com/p/smoke-and-mirrors

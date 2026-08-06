@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, wall-street, haiti, federal-reserve, citigroup]
-sources: [raw/friends-in-high-places.md]
+sources: [raw/friends-in-high-places.md, raw/the-bank-of-crooks-and-criminals.md, raw/the-battle-for-control.md]
 confidence: low
 ---
 
@@ -38,5 +38,37 @@ The 1999 repeal of Glass-Steagall allowed the merger of Citibank and Travelers �
 
 Lange closes by pointing to a [[qanon|Q]] post reading "ALWALEED HUMA BO Citigroup US Control," previewing an argument that [[alwaleed-bin-talal|Prince Alwaleed bin Talal Al Saud]] was [[donald-trump|Donald Trump]]'s greatest threat on the day he was inaugurated.[1]
 
+## Bought regulators and the road to Citigroup
+
+"The Bank of Crooks And Criminals" frames Citibank's transformation into [[citigroup|Citigroup]] as the product of favored treatment and protection purchased from friends in high places.[2] Citibank was a commercial bank seeking to expand into investment banking, and the single obstacle was the [[glass-steagall|Glass-Steagall Act]] — a law passed because Citibank was blamed for the 1929 crash that led to the Great Depression and the shuttering of roughly 4,000 banks nationwide after it packaged bad loans into securities and sold them worldwide.[2] Lange calls this "a cabal template for the future," noting that when everything crashed the banks and their elite friends grew wealthier while ordinary Americans lost everything, and that Citibank has only become more powerful since by buying the politicians and bureaucrats meant to regulate it.[2]
+
+The 1999 gutting of Glass-Steagall was pushed by advisers to [[bill-clinton|Bill Clinton]], including Treasury Secretary [[robert-rubin|Robert Rubin]], his deputy Bo Cutter and [[john-podesta|John Podesta]], while Citibank was already completing its illegal merger with the [[travelers-group|Travelers Group]].[2] Lange describes a direct pipeline from the [[us-department-of-the-treasury|Treasury Department]] to Citibank, with Rubin himself going on to lead the bank after leaving government.[2]
+
+## The 1991 crisis and the Alwaleed rescue
+
+In October 1991 Citicorp, then the largest U.S. banking company, swallowed $930 million in charges for staff cuts and bad-loan write-downs, producing a third-quarter loss of $885 million, skipping its common-stock dividend and drawing rating-agency downgrades.[2] Much of the bad debt came out of the [[latin-american-debt-crisis|Latin American debt crisis]], which Lange links to CIA-backed dictators and proxy wars protecting drug trafficking in the region.[2] Into that hole stepped [[alwaleed-bin-talal|Prince Alwaleed bin Talal]], on the advice of the [[carlyle-group|Carlyle Group]].[2]
+
+Lange also traces Alwaleed's own start to the bank: a Citibank branch in Riyadh gave the young prince a $600,000 mortgage secured on what Vanity Fair described as a "ramshackle structure," which he characterizes as favored treatment and the beginning of Alwaleed's relationship with "the CIA's most favored bank."[2] Citibank, he writes, had long been a major money-laundering bank for the [[central-intelligence-agency|CIA]] — one of [[george-hw-bush|George H.W. Bush]]'s main conduits for drug-trafficking proceeds, including funds tied to the [[medellin-cartel|Medellín cartel]] and the Salinas family in Mexico.[2]
+
+## Founding and the War of 1812
+
+Citibank was founded in 1812 as the City Bank of New York and later became the First National City Bank of New York; it operates 2,649 branches in 19 countries, including 723 in the United States and 1,494 in Mexico through its subsidiary [[banamex|Banamex]], with U.S. branches concentrated in New York, Chicago, Los Angeles, San Francisco, Washington, D.C., and Miami.[3] It was the first chartered bank of New York, a private institution funded by a small group of wealthy merchants who would dominate the financial and political system of the state.[3] Lange stresses that it was chartered by the State Assembly just two days before the start of the [[war-of-1812|War of 1812]], and argues its purpose was to replace the dissolved [[first-bank-of-the-united-states|First Bank of the United States]] and return control of government finance to private bankers; it became a federal depository in 1814 while "mainly serving the commercial interests of the merchants who owned it."[3]
+
+## The Panic of 1837 and the Astor bailout
+
+As the largest bank in New York, Citibank was over-leveraged and lacked the gold and silver to cover its liabilities when [[andrew-jackson|Andrew Jackson]]'s [[deposit-act-of-1836|Deposit Act of 1836]] and [[specie-circular|Specie Circular]] drained specie out of the city; New York deposit reserves fell by almost $6 million.[3] Lange identifies the New York banks' May 1837 suspension of redemption at full face value as the trigger of the [[panic-of-1837|Panic of 1837]] and calls the episode Citibank's first bailout.[3] The bank survived because [[john-jacob-astor|John Jacob Astor]], the wealthiest man in the country, deposited substantial funds and installed the Cuban sugar importer [[moses-taylor|Moses Taylor]] on its board.[3]
+
+## Sugar, slavery and the Civil War charter
+
+Taylor transformed the bank into a national institution with international connections, financed by sugar produced in Cuba by enslaved Africans smuggled into the Spanish colony in violation of bans on the trans-Atlantic slave trade.[3] He used those profits to buy mines, railroads and real estate, requiring every company he invested in to bank with City Bank.[3] During the Civil War he negotiated a federal charter — creating the National City Bank of New York — in exchange for loans financing the war effort, and afterwards joined [[tammany-hall|Tammany Hall]] and sat on a commission that whitewashed the Tweed Ring.[3]
+
+## The Stillmans and the revolving door
+
+Control passed to the Stillman family: the cotton broker [[charles-stillman|Charles Stillman]], who profiteered in the Mexican-American War and smuggled contraband cotton during the Civil War, and his son [[james-stillman|James Stillman]], who took the reins in 1891.[3] James partnered with the Rockefeller family and [[standard-oil|Standard Oil]] as a Robber Baron, won Standard Oil and the U.S. government as clients, made Citi the first American bank to reach $1 billion in assets, and brokered a civil war that overthrew the Mexican government in the 1870s.[3] He also recruited former [[us-department-of-the-treasury|Treasury Department]] officials to work for the bank, a practice Lange says shielded it from prosecution and secured future bailouts, and handpicked his successor [[frank-vanderlip|Frank Vanderlip]] from Treasury — a man who became one of the architects of the [[federal-reserve|Federal Reserve System]].[3]
+
+Lange argues from this history that Citibank sits at the centre of both the CIA shadow government and the power of [[alwaleed-bin-talal|Prince Alwaleed bin Talal Al Saud]], and may be "one of the keys that opens all doors."[3]
+
 ## References
 1. Badlands Brief — "Friends in High Places", URL: https://badlands.substack.com/p/friends-in-high-places
+2. Badlands Brief — "The Bank of Crooks And Criminals", URL: https://badlands.substack.com/p/the-bank-of-crooks-and-criminals
+3. Badlands Brief — "The Battle for Control", URL: https://badlands.substack.com/p/the-battle-for-control

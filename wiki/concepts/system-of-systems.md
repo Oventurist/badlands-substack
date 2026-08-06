@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [deep-state, narrative-warfare, globalism, awakening, badlands-brief]
-sources: [raw/badlands-news-brief-19b.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-cf8.md, raw/brazil-breaking.md]
+sources: [raw/badlands-news-brief-19b.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-cf8.md, raw/brazil-breaking.md, raw/right-the-ship.md]
 confidence: medium
 ---
 
@@ -40,3 +40,11 @@ The System of Systems framing was developed at length by [[burning-bright|Burnin
 He cautioned that while the breadth and complexity of the System of Systems could be admired intellectually, analysis should never lose sight of the rot underlying it or of the intent behind it, which he characterized as the willful subjugation of sovereign men and women in the West and beyond.[4] Bolsonaro's statement that the voting system could not be granted a seal of credibility given its many vulnerabilities prompted the author's one-word reply: "Systems."[4]
 
 4. Badlands Brief — "Brazil Breaking", URL: https://badlands.substack.com/p/brazil-breaking
+
+## Public unawareness of the System of Systems (January 2023)
+
+In "Right the Ship" (January 12, 2023), [[burning-bright|Burning Bright]] wrote that while his own readership was "all too aware" of the Deep State collective he refers to as the System of Systems, the vast majority of the American public — explicitly including GOP voters — is not.[5] Many may have an inkling, or even a strong conviction, that the Biden administration and its handlers do not have their interests in mind, but he argued that this same conviction is reflected in "a perverse and opposing mirror" by the ideological opposition, which holds an equivalent belief about the other side.[5]
+
+That asymmetry of awareness underpinned his central claim in the essay: that [[donald-trump|Donald Trump]] and his allies concentrate on the "story" emerging from events because, in order for justice to be visited on the enemies of the American people, those people must first recognize who their enemies are.[5] He described the Deep State's Systemic control over the American Mind as "illusory and crumbling," and predicted that the ensuing collapse of the illusion would "usher in the beginnings of the sovereign world to come."[5]
+
+5. Badlands Brief — "Right the Ship", URL: https://badlands.substack.com/p/right-the-ship

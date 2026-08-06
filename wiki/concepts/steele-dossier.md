@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [russiagate, intelligence, fbi, cia, badlands-brief]
-sources: [raw/badlands-brief-a89.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-a04.md, raw/durham-continues-to-reveal-previously.md, raw/do-you-believe-in-coincidences.md]
+sources: [raw/badlands-brief-a89.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-a04.md, raw/durham-continues-to-reveal-previously.md, raw/do-you-believe-in-coincidences.md, raw/the-biggest-cover-up-in-american.md]
 confidence: medium
 ---
 
@@ -53,3 +53,9 @@ Badlands Media's "Do You Believe in Coincidences?" treats the dossier as the sol
 5. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
 6. Badlands Brief — "Durham Continues To Reveal Previously Undisclosed SpyGate Evidence", URL: https://badlands.substack.com/p/durham-continues-to-reveal-previously
 7. Badlands Brief — "Do You Believe in Coincidences?", URL: https://badlands.substack.com/p/do-you-believe-in-coincidences
+
+## As a cover-up for Uranium One
+
+[[joe-lange|Joe Lange]] argues that the Dossier investigation is directly connected to the [[uranium-one-deal|Uranium One]] investigation, describing the Dossier as the attempted cover-up designed to prevent prosecutions arising from the uranium scandal.[8] He cites [[qanon|Q]] drop #2626, in which [[sean-hannity|Sean Hannity]] is quoted saying "It's all going to come out, U1, Dossier, CF, etc.," as indicating that the three matters form a single [[racketeer-influenced-and-corrupt-organizations-act|RICO]] case assigned to [[john-huber|John Huber]].[8] He also notes that [[andrew-mccabe|Andrew McCabe]], who supervised the Uranium One prosecution as Assistant FBI Director, later used the Dossier and FISA warrants in the effort to frame [[donald-trump|Trump]] — conduct Lange characterises as treason.[8]
+
+8. Badlands Brief — "The Biggest Cover-up in American History", URL: https://badlands.substack.com/p/the-biggest-cover-up-in-american

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [us-presidency, pardons, watergate]
-sources: [raw/badlands-news-brief-099.md, raw/clowns-in-america.md, raw/henry-kissinger-british-cabal-puppet.md]
+sources: [raw/badlands-news-brief-099.md, raw/clowns-in-america.md, raw/henry-kissinger-british-cabal-puppet.md, raw/the-church-committee-for-dummies.md]
 confidence: medium
 ---
 
@@ -34,3 +34,8 @@ Badlands contributor [[erik-carlson|Erik Carlson]] described Ford as a "CIA pupp
 Carlson also noted that Ford had headed the government committee — the [[warren-commission|Warren Commission]] — which determined that the JFK assassination happened exactly as portrayed to the American public, in effect absolving the [[central-intelligence-agency|CIA]] of its theorized role in the killing.[3] Under Ford, [[george-hw-bush|George H.W. Bush]] replaced [[william-colby|William Colby]] as Director of the CIA in 1976, and [[henry-kissinger|Henry Kissinger]] served as Secretary of State through the Ford presidency.[3]
 
 3. Badlands Brief — "Henry Kissinger: British Cabal Puppet", URL: https://badlands.substack.com/p/henry-kissinger-british-cabal-puppet
+4. Badlands Brief — "The Church Committee, for Dummies", URL: https://badlands.substack.com/p/the-church-committee-for-dummies
+
+## Cooperation with the Church Committee
+
+As president during the 1975 "Year of Intelligence," Ford met with [[church-committee|Church Committee]] chairman [[frank-church|Frank Church]] and vice-chairman [[john-tower|John Tower]], together with his top national security advisors, and pledged that the [[white-house|White House]] would cooperate with Senate investigators.[4] Although the committee's investigative staff did not always receive documents in a timely fashion, they enjoyed what Badlands Media describes as seemingly unprecedented access to materials that had never before been made public — while noting it is unknown whether those materials were strategically selected before being handed over.[4] Among the abuses the committee later aired publicly was a White House "domestic surveillance program."[4]

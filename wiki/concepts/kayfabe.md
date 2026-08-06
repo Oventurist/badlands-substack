@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [narrative-warfare, trump, media, information-war]
-sources: [raw/badlands-brief-0a2.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-f1f.md, raw/badlands-news-brief-f6e.md, raw/balance-necessary-for-control.md, raw/jd-vance-sidley-austin-and-q-post.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-f1f.md, raw/badlands-news-brief-f6e.md, raw/balance-necessary-for-control.md, raw/jd-vance-sidley-austin-and-q-post.md, raw/right-the-ship.md, raw/smoke-and-mirrors.md]
 confidence: medium
 ---
 
@@ -79,3 +79,19 @@ Commenting on June 16, 2025 reporting that Russian diplomats faced a "nerve-wrac
 9. Badlands Brief — "Badlands News Brief: Ghost Puppeteers, Sudanese Solutions, & Pam Bondi's Desk", URL: https://badlands.substack.com/p/badlands-news-brief-f6e
 10. Badlands Brief — "Balance, Necessary for Control", URL: https://badlands.substack.com/p/balance-necessary-for-control
 11. Badlands Brief — "JD Vance, Sidley Austin, & Q Post #238", URL: https://badlands.substack.com/p/jd-vance-sidley-austin-and-q-post
+
+## The 2023 Speaker fight as kayfabe (January 2023)
+
+In "Right the Ship" (January 12, 2023), [[burning-bright|Burning Bright]] described the January 2023 [[2023-speaker-of-the-house-election|Speaker of the House]] contest as memetic and dramatic, featuring "some would say kayfabian deployments by charismatic and memorable public figures," with bombastic turns from every side — from the recognized [[uniparty|Uniparty]] establishment to the more "extreme" wings within [[congress|Congress]] — each getting a moment to shine.[12] The effect, he argued, was to imprint a normally rote and boring political event onto the public mind in a bipartisan, embarrassing and yet highly effective manner.[12]
+
+He wrote that a statement released by [[donald-trump|Donald Trump]] during the firestorm, which referred to the episode as an "event" complete with quotation marks, gave him "all the confidence and assurance I needed" that Trump and company were fully in control of the play being watched, regardless of which Actual outcome emerged from the Potential.[12] Burning Bright framed the use of such narrative framing by patriots as "a necessary evil" — using the weapons of the enemy against them in furtherance of an [[america-first-movement|America First]] agenda built on exposure, disclosure and eventually justice — while cautioning that the truth community can itself be swept up in the very Kabuki Theater it spends its energy exposing.[12]
+
+12. Badlands Brief — "Right the Ship", URL: https://badlands.substack.com/p/right-the-ship
+
+## The Trump indictment and Biden scandal as possible kayfabe (June 2023)
+
+In "Smoke and Mirrors" (June 16, 2023), [[ryan-delarme|Ryan DeLarme]] used kayfabe as one of two interpretive lenses for the simultaneous unfolding of the [[2023-trump-classified-documents-indictment|Trump indictment]] and the [[joe-biden-bribery-allegation|Biden bribery scandal]], defining it parenthetically as "a false feud."[13] On that reading, everything playing out was pure kayfabe, orchestrated so as to initiate the greater public into the world anons had inhabited for the previous six years.[13] The alternative lens, which the essay chose to assume, was that a genuine "spook vs spook" information war was under way and that [[deep-state|deep-state]] players were still very much fighting back.[13]
+
+DeLarme nonetheless returned to the kayfabe possibility repeatedly, calling it at one point "the most logical conclusion" and later writing that it "honestly feels like the only possibility that makes sense anymore."[13] He observed that if the affair were kayfabe he could see [[donald-trump|Donald Trump]] actually being arrested as part of the production, whereas if it were real he saw no coherent outcome the Deep State could be aiming for.[13]
+
+13. Badlands Brief — "Smoke and Mirrors", URL: https://badlands.substack.com/p/smoke-and-mirrors

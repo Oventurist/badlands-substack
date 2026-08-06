@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, kennedy-center, philanthropy, national-archives, badlands-news-brief]
-sources: [raw/badlands-news-brief-cf3.md]
+sources: [raw/badlands-news-brief-cf3.md, raw/the-bank-of-crooks-and-criminals.md]
 confidence: medium
 ---
 
@@ -20,5 +20,12 @@ Paul advanced what he labelled a "working conspiracy theory": given the preceden
 
 Paul further observed, crediting Jon Herold, that Rubenstein maintains his own Holocaust Museum collection, and framed the pattern as an attempt to "own history" and to write an "Official History."[1] He also noted that Rubenstein received a Presidential Medal of Freedom from Joe Biden, remarking pointedly that "Joe Biden is not a fake president in David Rubenstein's history."[1]
 
+## Carlyle Group and the 1991 Citicorp advice
+
+Rubenstein was a founding partner of the [[carlyle-group|Carlyle Group]] and had served as a domestic policy adviser to President [[jimmy-carter|Jimmy Carter]].[2] He was one of three Carlyle figures — with [[frank-carlucci|Frank Carlucci]] and [[fred-malek|Frederick Malek]] — identified by the New York Times as the American advisers who in 1991 recommended that [[alwaleed-bin-talal|Prince Alwaleed bin Talal]] invest roughly half a billion dollars in Citicorp.[2]
+
+Badlands contributor [[joe-lange|Joe Lange]] notes that Rubenstein is invariably described as a wealthy philanthropist for his donations, and compares him to John Jacob Astor, who bailed out [[citibank|Citibank]] in 1837 and was likewise a philanthropist who grew wealthy in ways that took advantage of the poor.[2] Reporting in The Chronicle cited by Lange describes Carlyle buying mobile home park land and gouging low-income residents who cannot afford to move, producing millions in returns by "preying" on poor residents — a record absent from Rubenstein's 2017 Duke commencement address.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Soaring Eagles & Terminal USAIDs", URL: https://badlands.substack.com/p/badlands-news-brief-cf3
+2. Badlands Brief — "The Bank of Crooks And Criminals", URL: https://badlands.substack.com/p/the-bank-of-crooks-and-criminals

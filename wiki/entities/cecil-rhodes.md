@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [british-empire, rhodes-scholarship, secret-societies]
-sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-adc.md, raw/canadas-transition-to-collectivist.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-adc.md, raw/canadas-transition-to-collectivist.md, raw/real-patriots-dont-think-like-hitler-6fc.md]
 confidence: medium
 ---
 
@@ -30,3 +30,11 @@ Ehret adds that the international web of Round Table think tanks — headed by [
 1. Badlands Brief — "A Re-Alignment of World Systems", URL: https://badlands.substack.com/p/a-re-alignment-of-world-systems
 2. Badlands Brief — "Badlands News Brief: Globalists Panic as Populism Takes Over the Zeitgeist", URL: https://badlands.substack.com/p/badlands-news-brief-adc
 3. Badlands Brief — "Canada's Transition to Collectivist Green Dystopia", URL: https://badlands.substack.com/p/canadas-transition-to-collectivist
+
+## "A Church of the British Empire" and the Templar revival
+
+Part 6 of the "Real Patriots Don't Think Like Hitler" series states that the secret society Rhodes established in his last will and testament as "a Church of the British Empire," modeled on the Jesuit Constitution, was explicitly based on the Grail Myths of the Knighthood of the Round Table — myths designed in the 13th century to promote the Templar-managed Crusades and the reconstruction of the Crusader [[kingdom-of-jerusalem]].[4]
+
+[[leo-amery]] is described as a believer in this Rhodesian vision, declaring that "the Empire is not external to any of the British nation. It is something like the Kingdom of Heaven within ourselves."[4] The article reads [[henry-kissinger]]'s recruitment into William Yandell Elliott's Round Table operation at Harvard, his allegiance to Chatham House in London and New York, and his 2012 remark that "in 10 years, there will be no more Israel" as "nothing less than an admission of allegiance to a new Templar order."[4] It also argues that British intelligence's simultaneous sponsorship of Islamist movements and of the most militant Zionist ideologues was unified by one principle: maintaining global dominance for the Church of the British Empire.[4]
+
+4. Badlands Brief — "Real Patriots Don't Think Like Hitler - Part 6: 'Greater Israel' as a British Imperial Project", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-6fc

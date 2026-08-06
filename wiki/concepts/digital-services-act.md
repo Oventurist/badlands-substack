@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [censorship, european-union, regulation, free-speech]
-sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-254.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-e8f.md, raw/is-the-censorship-war-over.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-254.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-e8f.md, raw/is-the-censorship-war-over.md, raw/the-censorship-war-counteroffensive.md, raw/the-cia-is-being-thrown-under-the.md]
 confidence: low
 ---
 
@@ -69,3 +69,19 @@ Fully in effect across the EU since February 17, 2024, the DSA is officially pre
 A panel of censorship-industry figures — [[rebekah-tromble|Rebekah Tromble]], [[katie-harbath|Katie Harbath]] of the [[atlantic-council|Atlantic Council]] and the [[international-republican-institute|International Republican Institute]], and [[dean-jackson|Dean Jackson]] of the [[carnegie-endowment-for-international-peace|Carnegie Endowment]] and the [[national-endowment-for-democracy|National Endowment for Democracy]] — was quoted saying that "if it weren't for Europe right now, I think that I would feel pretty defeated and despondent in this moment," and that without the European Union and the DSA there would be little hope of "rectifying this situation."[8] The speakers anticipated that the DSA coming into full force would lead to "a sort of re-staffing of some of these positions."[8] Badlands framed this as American practitioners welcoming a foreign entity's censorship law — backed by fines potentially reaching billions of dollars — as leverage to compel U.S. companies, namely X, to rehire the moderators Musk had dismissed.[8]
 
 8. Badlands Brief — "Is the Censorship War Over?", URL: https://badlands.substack.com/p/is-the-censorship-war-over
+
+## Entry into force and scope
+
+The Digital Services Act became fully applicable on February 17, 2024, with enforcement ramping up through 2025.[9] It applies to all online platforms operating in the European Union, imposing stricter rules on Very Large Online Platforms (VLOPs) such as [[x-corp|X]], which has more than 45 million monthly EU users.[9] [[elon-musk|Elon Musk]] has been one of the law's primary targets, and X was the first VLOP subjected to a formal investigation.[9]
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] grouped the DSA with the United Kingdom's [[online-safety-act-2023|Online Safety Act]] and Canada's [[online-streaming-act|Online Streaming Act]] as legal frameworks passed despite widespread opposition — top-down impositions rather than democratic consensus, which in his view undermines their legitimacy.[9] He listed the DSA among the flashpoints of the wider [[censorship-war|censorship war]] and noted that it remained to be seen how proponents such as former commissioner [[thierry-breton|Thierry Breton]] would respond to the American legal counteroffensive against [[alexandre-de-moraes|Alexandre de Moraes]].[9]
+
+9. Badlands Brief — "The Censorship War - Counteroffensive", URL: https://badlands.substack.com/p/the-censorship-war-counteroffensive
+
+## Role in the alleged transfer of Deep State power (Carlson, 2024)
+
+Erik Carlson's "The CIA is Being Thrown Under the Bus" cites the Digital Services Act as the instrument by which the [[european-union|European Union]] can control all media and social media entering the European continent.[10]
+
+In his account the Act is a component of a wider shift of power away from the [[central-intelligence-agency|CIA]] and toward [[nato|NATO]], the [[united-nations|United Nations]] and the EU — bodies beyond the reach of a returning [[donald-trump|Donald Trump]].[10] Carlson argues that while Europe's economy suffers and grows dependent on outside nations, the bloc is moving toward total political control, preparing the continent for transition into an Orwellian society in which governing members determine what citizens may see or hear.[10]
+
+10. Badlands Brief — "The CIA is Being Thrown Under the Bus", URL: https://badlands.substack.com/p/the-cia-is-being-thrown-under-the

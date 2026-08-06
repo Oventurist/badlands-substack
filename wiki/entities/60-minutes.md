@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, news, cbs, editing, election]
-sources: [raw/a-new-hollywood.md, raw/badlands-brief-835.md, raw/badlands-news-brief-860.md]
+sources: [raw/a-new-hollywood.md, raw/badlands-brief-835.md, raw/badlands-news-brief-860.md, raw/the-adulation-of-the-disinformation.md]
 confidence: medium
 ---
 
@@ -22,7 +22,14 @@ On May 10, 2026, CBS published the full transcript of a 60 Minutes interview wit
 
 On Monday, October 7, 2024, the program released an interview in which correspondent [[bill-whitaker|Bill Whitaker]] questioned Vice President [[kamala-harris|Kamala Harris]] about becoming the Democratic nominee without a primary contest, asking whether "democracy [was] best served by President Biden stepping down and basically handing you a nomination."[3] Harris answered that [[joe-biden|Joe Biden]] had "put country before self" and that she was proud "to have been elected the Democratic nominee," and, pressed that the truncated process was why voters said they did not know her, replied that she had been in the race for 70 days.[3] The network subsequently edited out portions of her answers, a decision critics characterized as removing a "word salad."[3] Badlands writer [[ashe-in-america|Ashe in America]] called the appearance a disaster that would be "quickly memory-holed."[3]
 
+## Disinformation segment featuring Kate Starbird (2024)
+
+An April 2024 Badlands article by [[ryan-delarme|Ryan DeLarme]] described 60 Minutes as a program with a long history of delivering establishment propaganda, and criticised a recent segment on disinformation featuring the CISA-affiliated academic [[kate-starbird|Kate Starbird]], which aired between what the article called debunked conspiracy theories about Russia using directed-frequency weapons to target NATO officials.[4] The segment framed the conflict between truth and falsity as a liberal-versus-conservative issue, portraying concern over the relationship between Big Tech, the federal government and fact-checking organizations as an exclusively conservative complaint.[4]
+
+The article argued that the broadcast presented Starbird as a victimized heroine deserving of applause, dwelling on online criticism and on a single death threat she said she had received.[4] It contrasted that treatment with journalists such as [[julian-assange|Julian Assange]] and [[glenn-greenwald|Glenn Greenwald]], who face sustained threats over reporting on state secrets, and objected that the segment treated legitimate public criticism of a researcher as a campaign to discredit her.[4] A further complaint aired by the program — that [[twitter|Twitter]] acted on only about 30 percent of Starbird's content-removal requests — was read as evidence that the mainstream media has its own stake in the censorship question.[4]
+
 ## References
 1. Badlands Brief — "A New Hollywood", URL: https://badlands.substack.com/p/a-new-hollywood
 2. Badlands Brief — "Virginia Democrats Lose the Plot and Go For Tyranny", URL: https://badlands.substack.com/p/badlands-brief-835
 3. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
+4. Badlands Brief — "The Adulation of the 'Disinformation Expert'", URL: https://badlands.substack.com/p/the-adulation-of-the-disinformation

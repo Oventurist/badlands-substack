@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [darpa, pentagon, technology, surveillance, big-tech]
-sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-news-brief-2a2.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-news-brief-2a2.md, raw/soul-governance.md]
 confidence: medium
 ---
 
@@ -30,7 +30,12 @@ DARPA's Information Processing Techniques Office ran [[lifelog|LifeLog]], a prog
 
 In 2011 DARPA created the [[social-media-in-strategic-communication|Social Media in Strategic Communication]] (SMISC) program, describing its tools as being used "to help identify misinformation or deception campaigns and counter them with truthful information," starting with the Arab Spring uprisings in the Middle East that spawned [[isis|ISIS]].[2] By January 2023, reporting indicated that the [[national-science-foundation|National Science Foundation]] had awarded several million dollars in grants to universities and private firms to build tools eerily similar to the SMISC toolset, this time aimed at American dissent over vaccine safety and election integrity.[2]
 
+## In "Soul Governance"
+
+The Badlands Media essay [[soul-governance|Soul Governance]] claims that DARPA "trained machines not to think for you, but to think as you," presenting the agency as a builder of the algorithmic altars that displaced prayer, intuition and conscience.[3] It is named alongside [[palantir|Palantir]], which the essay says "knew your fear before you did," in a passage arguing that such systems constituted entrapment presented as convenience.[3]
+
 ## References
 
 1. Badlands Brief — "America Has a CIA-Run Economy", URL: https://badlands.substack.com/p/america-has-a-cia-run-economy
 2. Badlands Brief — "Badlands News Brief: Archives, Shifty Schiff, PelosiGate and Durham Panic", URL: https://badlands.substack.com/p/badlands-news-brief-2a2
+3. Badlands Brief — "Soul Governance", URL: https://badlands.substack.com/p/soul-governance

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ai, infrastructure, trump, oracle, openai, softbank]
-sources: [raw/a-new-hollywood.md, raw/badlands-brief-a6b.md, raw/badlands-news-brief-2cb.md, raw/badlands-news-brief-ba8.md, raw/badlands-news-brief-e79.md]
+sources: [raw/a-new-hollywood.md, raw/badlands-brief-a6b.md, raw/badlands-news-brief-2cb.md, raw/badlands-news-brief-ba8.md, raw/badlands-news-brief-e79.md, raw/structures-of-control-part-3.md]
 confidence: medium
 ---
 
@@ -37,9 +37,14 @@ Badlands writer [[ashe-in-america|Ashe in America]] called the investment a good
 
 A CIA report titled 'Mars Exploration May 22, 1984,' surfaced in December 2024 reporting, details the use of astral projection — the idea that a person's spirit can travel through the astral plane — to transport a 'subject' to Mars approximately one million years BC.[5] The subject described an oblique view of a pyramid, a very large road, and a monument resembling ancient Egyptian works, then a population of "very large people" seeking a new home because their environment had been corrupted.[5] Participants in the program were exposed to binaural beats and hemi-sync audio to induce altered states of consciousness and promote psychic abilities.[5] Established in 1977 as a secret US Army unit, Stargate was framed as a weapon against the Soviet Union aimed at creating mind-reading spies able to infiltrate enemy minds, and was conducted at [[fort-meade|Fort Meade]] in Maryland, recruiting men and women who claimed extrasensory perception.[5] The program shut down in 1995; over its more than ten-year existence, psychics known as "remote viewers" participated in operations ranging from locating hostages kidnapped by Islamic terrorist groups to tracing fugitives inside the United States.[5] Badlands commentary noted the resemblance of this description to the plot of the Netflix series Stranger Things.[5]
 
+## Cited in Structures of Control
+
+Part 3 of Badlands Media's *Structures of Control* series cites the Stargate Project as classified research into remote viewing and consciousness expansion that was, in the author's account, "buried to prevent individuals from realizing their full potential."[6] It appears alongside [[mk-ultra|MKUltra]] and the [[gateway-process|Gateway Process]] as evidence for the essay's claim that breakthroughs in energy, medicine and cognitive enhancement are systematically withheld or repurposed to preserve centralized control — a pillar of what the series calls the [[manufactured-5d|manufactured 5D]].[6]
+
 ## References
 1. Badlands Brief — "A New Hollywood", URL: https://badlands.substack.com/p/a-new-hollywood
 2. Badlands Brief — "On-Ramps to Off-Ramps and the Beginnings of the Golden Age", URL: https://badlands.substack.com/p/badlands-brief-a6b
 3. Badlands Brief — "Badlands News Brief: Propagandist Panic. The People Approve.", URL: https://badlands.substack.com/p/badlands-news-brief-2cb
 4. Badlands Brief — "Badlands News Brief: Hopium for Health AI, Hulk on Hunter, & A Happy WHO Adieu", URL: https://badlands.substack.com/p/badlands-news-brief-ba8
 5. Badlands Brief — "Badlands News Brief: Biden Commutations and Mossad Confessions", URL: https://badlands.substack.com/p/badlands-news-brief-e79
+6. Badlands Brief — "Structures of Control - Part 3", URL: https://badlands.substack.com/p/structures-of-control-part-3

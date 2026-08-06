@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [nicaragua, contras, cia, cocaine, cold-war]
-sources: [raw/dollars-dope-and-deception.md, raw/operation-gladio-a-primer.md]
+sources: [raw/dollars-dope-and-deception.md, raw/operation-gladio-a-primer.md, raw/school-of-assassins-and-dictators.md]
 confidence: medium
 ---
 
@@ -30,6 +30,13 @@ The Contra resupply network run by [[oliver-north|Oliver North]] connected the m
 
 Colonel [[roxane-watkins|Roxane Watkins]] uses the Contras as her central example of how the vocabulary of anti-communism was deployed as cover.[2] She writes that the United States spent millions upon millions of dollars funding the Contras in Central America and that the Reagan and Bush administrations repeatedly told the public they were the good guys — a characterization she rejects, just as she rejects the parallel claim that the [[sandinista-national-liberation-front|Sandinistas]] were communists.[2] In her account the Sandinistas were fighting a [[central-intelligence-agency|CIA]]-installed dictator put in place after a previous government objected to [[united-fruit-company|United Fruit]] owning 42% of the country's farmable land, and once that dictator fell the United States dispatched Special Forces, [[operation-gladio|Gladio]]-trained Cuban exiles and mercenaries to overthrow the new government on behalf of the [[international-syndicate|International Syndicate]].[2]
 
+## The Somoza backdrop and the supply corridor
+
+Joe Lange emphasizes a piece of the story he says is usually omitted: the CIA built up the Contras only after the Sandinistas overthrew the dictator [[anastasio-somoza-debayle|Anastasio Somoza Debayle]], whose family dynasty had ruled Nicaragua for 43 years behind a brutal 12,000-member National Guard.[3] In his account the corruption of the CIA-backed Somoza regime created the very oppression that produced the Sandinista revolution.[3]
+
+The resupply corridor ran through neighbouring states: a secret 7,000-foot airstrip in Costa Rica built by the Panama front company [[udall-research|Udall Research]] with the help of Ambassador [[lewis-tambs|Lewis A. Tambs]], Honduran territory secured by CIA-trained officers of [[battalion-3-16|Battalion 3-16]], and Panamanian airfields provided by [[manuel-noriega|Manuel Noriega]] for flying weapons south and drugs north.[3] Funds from drug trafficking were used to buy arms, pay fighters and suborn government officials.[3]
+
 ## References
 1. Badlands Brief — "Dollars, Dope, and Deception", URL: https://badlands.substack.com/p/dollars-dope-and-deception
 2. Badlands Brief — "Operation Gladio - A Primer", URL: https://badlands.substack.com/p/operation-gladio-a-primer
+3. Badlands Brief — "School of Assassins and Dictators", URL: https://badlands.substack.com/p/school-of-assassins-and-dictators

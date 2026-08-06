@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [bank-of-england, central-banking, financial-stability, disclosure]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-3d4.md, raw/badlands-brief-9ac.md, raw/badlands-news-brief-8fd.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-3d4.md, raw/badlands-brief-9ac.md, raw/badlands-news-brief-8fd.md, raw/real-patriots-dont-think-like-hitler-196.md, raw/the-battle-for-control.md]
 confidence: low
 ---
 
@@ -27,9 +27,22 @@ In April 2026 the Bank of England introduced an alternative bank-resolution ("ba
 
 The Bank of England announced on December 4, 2025 that it was launching a stress test of how the private equity and private credit industries would cope with a financial shock.[4] The system-wide exploratory scenario, due to report in early 2027, focuses on the impact for the British economy as a whole rather than publishing vulnerabilities of individual firms, and Deputy Governor Sarah Breeden said a range of alternative asset managers active in private markets, including major global players, had agreed to participate.[4] Days earlier the bank's half-yearly Financial Stability Report had noted that private markets, though resilient so far, had grown substantially and remained untested against a large economic shock.[4]
 
+## Montagu Norman and the interwar period
+
+[[matthew-ehret|Matthew Ehret]] identifies the Bank of England under Governor [[montagu-norman|Montagu Norman]], who served from 1920 to 1944, as a central actor in the financing of European fascism.[5] Norman led the Anglo-German Fellowship Trust, controlled Germany's [[hjalmar-schacht|Hjalmar Schacht]], and was the primary controller of the [[bank-for-international-settlements|Bank for International Settlements]] from its 1930 creation throughout the Second World War.[5] His family bank, Brown Brothers, merged with Harriman, Bush and Co. in 1931 to form [[brown-brothers-harriman|Brown Brothers Harriman]].[5] At the 1944 [[bretton-woods-conference|Bretton Woods conference]], [[john-maynard-keynes|John Maynard Keynes]] pushed to redefine the post-war system around a one-world currency called the Bancor, to be controlled by the Bank of England and the BIS.[5]
+
 ## References
 
 1. Badlands Brief — "Arctic Escalation and Tropic Trouble for the Financial System", URL: https://badlands.substack.com/p/badlands-brief-02a
 2. Badlands Brief — "Canadian Separatists & Guerilla Campaigns", URL: https://badlands.substack.com/p/badlands-brief-3d4
 3. Badlands Brief — "Nazi-Related Cover Ups & Formerly Secret Treason", URL: https://badlands.substack.com/p/badlands-brief-9ac
 4. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
+5. Badlands Brief — "Real Patriots Don't Think Like Hitler – Part 2: How Western Bankers Created the Nazis", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-196
+
+## The 1836 specie crisis
+
+Badlands Media contributor [[joe-lange|Joe Lange]] describes the Bank of England as the injured party in [[andrew-jackson|Andrew Jackson]]'s hard-money campaign of 1836.[6] British financiers began expressing alarm over American events that year, and when the bank's directors noticed that its specie reserves had dwindled to just four million pounds they adopted restrictive measures, blaming the high value of American securities purchased in London.[6] Jackson's [[specie-circular|Specie Circular]] had forced British purchasers of American public land to give up gold and silver, draining England's reserves.[6]
+
+From August 1836 the Bank of England gradually raised its discount rate from three to five percent and stopped discounting commercial paper from the merchant banking houses financing Anglo-American trade; those houses then ceased accepting the foreign bills of exchange American importers had used to pay for British manufactured goods, so American merchants could send only specie to Britain.[6] Lange characterizes this as England trying to get its gold back — a trade war over real money and control that produced the [[panic-of-1837|Panic of 1837]], and a precedent he sees repeating between the defenders of the fiat debt system and the [[brics|BRICS+]] nations.[6]
+
+6. Badlands Brief — "The Battle for Control", URL: https://badlands.substack.com/p/the-battle-for-control

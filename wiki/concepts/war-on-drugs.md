@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [drugs, cia, covert-operations, narcotics, us-foreign-policy]
-sources: [raw/dollars-dope-and-deception.md, raw/dope-inc.md, raw/operation-gladio-how-its-funded.md]
+sources: [raw/dollars-dope-and-deception.md, raw/dope-inc.md, raw/operation-gladio-how-its-funded.md, raw/school-of-assassins-and-dictators.md]
 confidence: medium
 ---
 
@@ -38,7 +38,14 @@ Carlson notes that [[ronald-reagan|Ronald Reagan]] likewise declared a war on dr
 
 The Badlands Media Gladio funding article argues that the war on drugs functioned as cover for the trafficking network that financed [[operation-gladio]].[3] Heroin supplied by [[lucky-luciano]] was pushed to black musicians in New York City's jazz venues in what the article calls a targeted effort, later providing a network to spread drugs through black communities and set up inner-city young black men whose arrests gave the [[cia]] its cover stories — the arrests being, in the article's phrase, simply the low hanging fruit.[3] DEA agents routinely described their investigations being shut down as they worked their way up the network with the stamp "national security."[3] The article adds that the arrangement supplied a prison labour force for the syndicate's corporate prisoner work projects, making it a win-win for the syndicate.[3]
 
+## The Central American contradiction
+
+Joe Lange's September 2023 article restates the campaign's origins — Nixon's 1971 declaration of drugs as "public enemy number one," which the FBI used with success and which police departments turned into "tough on crime" footings, and Reagan's 1982 re-emphasis with the "Just Say No" slogan carried nationwide by First Lady Nancy Reagan and still used by the DARE program.[4] He accepts that Reagan sincerely wanted to curb drug use but argues the effort was doomed because his administration was captured.[4]
+
+The contradiction Lange presses is geographic: every country linking Colombia, the world's biggest cocaine producer, to the United States — Panama, Costa Rica, Nicaragua, Honduras, El Salvador, Guatemala and Mexico — had rulers, military or police trained at the [[school-of-the-americas|School of the Americas]] and was, in his reading, controlled by the [[central-intelligence-agency|CIA]], yet the flow of cocaine northward was never interrupted.[4] The CIA, he concludes, was not turning a blind eye but actively promoting the trade, using "battling communism" as the excuse for proxy wars that grew and maintained global drug trafficking and money laundering operations.[4]
+
 ## References
 1. Badlands Brief — "Dollars, Dope, and Deception", URL: https://badlands.substack.com/p/dollars-dope-and-deception
 2. Badlands Brief — "Dope, Inc.", URL: https://badlands.substack.com/p/dope-inc
 3. Badlands Brief — "Operation Gladio - How It's Funded", URL: https://badlands.substack.com/p/operation-gladio-how-its-funded
+4. Badlands Brief — "School of Assassins and Dictators", URL: https://badlands.substack.com/p/school-of-assassins-and-dictators

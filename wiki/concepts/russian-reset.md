@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [russia, obama, hillary-clinton, uranium, narrative]
-sources: [raw/america-for-sale-part-3.md]
+sources: [raw/america-for-sale-part-3.md, raw/the-biggest-cover-up-in-american.md]
 confidence: medium
 ---
 
@@ -24,3 +24,9 @@ The article's summarizing complaint is that the reset allowed Russia to control 
 
 ## References
 1. Badlands Brief — "America for Sale - Part 3", URL: https://badlands.substack.com/p/america-for-sale-part-3
+
+## As cover for Uranium One
+
+[[qanon|Q]] drop #48 of November 2, 2017 recalled [[barack-obama|Obama]]'s May 2010 statement that "Russia should be viewed as a friendly partner under Section 123 the Atomic Energy Act of 1954" following a nuclear weapons reduction deal, and asked what the Russia reset really provided — answering with the question "Clearance/pathway to complete the U1 deal?"[2] [[joe-lange|Joe Lange]] argues that [[hillary-clinton|Hillary Clinton]] and Obama used the reset narrative to create a clear path for the [[uranium-one-deal|Uranium One deal]], and that it functioned as a cover story to fool the American public while the administration worked to hide the FBI's undercover investigation from [[congress|Congress]].[2]
+
+2. Badlands Brief — "The Biggest Cover-up in American History", URL: https://badlands.substack.com/p/the-biggest-cover-up-in-american

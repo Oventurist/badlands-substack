@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [arizona, elections, maricopa-county, election-integrity, 2022-midterms]
-sources: [raw/an-sos-from-ground-zero.md, raw/arizona-earthquake.md]
+sources: [raw/an-sos-from-ground-zero.md, raw/arizona-earthquake.md, raw/thats-not-signature-verification.md]
 confidence: medium
 ---
 
@@ -34,7 +34,14 @@ The general election was officially certified by Secretary of State [[katie-hobb
 
 The attorney general contest was subject to an automatic recount: Democrat [[kris-mayes|Kris Mayes]] led Hamadeh by 511 votes out of some 2.5 million as of certification, under the 0.5-point threshold that triggers an automatic recount under Arizona law.[2] Recounts in the attorney general race, the state superintendent race and a state House race began on the Wednesday following certification.[2]
 
+## Gubernatorial contest and its aftermath
+
+The November 8, 2022 gubernatorial contest between Arizona Secretary of State [[katie-hobbs|Katie Hobbs]] and journalist [[kari-lake|Kari Lake]] was decided by 17,117 votes out of 2.59 million cast, a margin of 0.67 percent.[3] On election day, [[maricopa-county|Maricopa County]] voters waited hours in line only to be unable to cast ballots because of [[ballot-on-demand-printers|Ballot on Demand printer]] and tabulator failures, and were told that ballots placed in "Drawer Three" would be counted.[3]
+
+The county's [[maricopa-county-2022-ballot-on-demand-printer-investigation|subsequent investigation]] confirmed that the ballot image had been lengthened from 19 to 20 inches before the election.[3] Litigation over the result continued into 2023, culminating in the remanded Count III trial in [[lake-v-hobbs|Lake v. Hobbs et al.]] on whether the county performed [[signature-verification|signature verification]] as required by [[arizona-revised-statutes-16-550|A.R.S. § 16-550]]; Judge [[peter-thompson|Peter Thompson]] dismissed the claim on May 22, 2023.[3]
+
 ## References
 
 1. Badlands Brief — "An SOS From Ground Zero", URL: https://badlands.substack.com/p/an-sos-from-ground-zero
 2. Badlands Media — "Arizona Earthquake!", URL: https://badlands.substack.com/p/arizona-earthquake
+3. Badlands Brief — "That's Not Signature Verification, Your Honor", URL: https://badlands.substack.com/p/thats-not-signature-verification

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republican, russiagate]
-sources: [raw/badlands-news-brief-01d.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-11b.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-b65.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-d22.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-dae.md, raw/badlands-news-brief-e1a.md, raw/badlands-news-brief-e79.md, raw/badlands-news-brief-f46.md, raw/badlands-news-brief-f94.md, raw/badlands-news-brief-ff6.md]
+sources: [raw/badlands-news-brief-01d.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-11b.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-b65.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-d22.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-dae.md, raw/badlands-news-brief-e1a.md, raw/badlands-news-brief-e79.md, raw/badlands-news-brief-f46.md, raw/badlands-news-brief-f94.md, raw/badlands-news-brief-ff6.md, raw/the-chosen-one.md]
 confidence: medium
 ---
 
@@ -163,3 +163,9 @@ Writing in the [[badlands-media|Badlands Media]] News Brief, [[burning-bright|Bu
 Gaetz launched the effort to remove Speaker [[kevin-mccarthy|Kevin McCarthy]] after accusing him of cutting a secret deal with Democrats on Ukraine aid.[23] Reporting in October 2023 noted that the sway held by GOP opponents of Ukraine funding over the speakership made it difficult to bring a large aid package to the House floor, even though a majority of Congress still supported arming Ukraine.[23]
 
 23. Badlands News Brief — "Escalation Abroad, Subversion at Home ...", URL: https://badlands.substack.com/p/badlands-news-brief-ff6
+
+## Lange's reading of the January 2023 Speaker fight
+
+[[badlands-media|Badlands Media]] contributor [[joe-lange|Joe Lange]] wrote in January 2023 that he had initially misread Gaetz's role in the fifteen-ballot [[2023-speaker-of-the-house-election|Speaker of the House contest]], believing he was "grandstanding for personal political gain" and expressing displeasure with him at the time.[24] Lange subsequently concluded he had been wrong, writing "Boy was I wrong" and praising Gaetz for doing "an awesome job of acting" alongside [[marjorie-taylor-greene|Marjorie Taylor Greene]], [[kevin-mccarthy|Kevin McCarthy]] and [[donald-trump|Donald Trump]].[24] In his reading the standoff was scripted theatre — signalled by Trump's "GOOD" and "GREAT" posts and a matching [[qanon|Q]] post reading "Good movie. Great actors." — whose real function was to expose how the House had operated under [[nancy-pelosi|Nancy Pelosi]] and to renegotiate the chamber's rules in favour of rank-and-file members.[24]
+
+24. Badlands Brief — "The Chosen One", URL: https://badlands.substack.com/p/the-chosen-one

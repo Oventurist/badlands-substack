@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [presidency, bin-laden, memorandum-of-notification, china, scandals]
-sources: [raw/a-dereliction-of-duty.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/badlands-brief-314.md, raw/badlands-brief-40d.md, raw/badlands-brief-52f.md, raw/badlands-brief-b74.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-f54.md, raw/q-for-dummies-chapter-12.md]
+sources: [raw/a-dereliction-of-duty.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/badlands-brief-314.md, raw/badlands-brief-40d.md, raw/badlands-brief-52f.md, raw/badlands-brief-b74.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-f54.md, raw/q-for-dummies-chapter-12.md, raw/q-for-dummies-chapter-5.md, raw/the-biggest-cover-up-in-american.md, raw/the-biggest-boomerang-in-history.md]
 confidence: medium
 ---
 
@@ -131,3 +131,23 @@ Chapter 12 of the [[q-for-dummies|Q for Dummies]] series reports that in drop #9
 13. Badlands News Brief — "Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f
 14. Badlands Brief — "Meta vs. Twitter, Shark Fins, Popes & Clintons", URL: https://badlands.substack.com/p/badlands-news-brief-f54
 15. Badlands Media — "Q for Dummies - Chapter 12", URL: https://badlands.substack.com/p/q-for-dummies-chapter-12
+
+## Q drop #36 and the tarmac meeting
+
+Chapter 5 of [[q-for-dummies|Q for Dummies]] records that Q drop #36 of November 2, 2017 mentions Clinton and Attorney General [[loretta-lynch|Loretta Lynch]] and their meeting.[16] The commentary passes along the claim that Lynch was offered a Supreme Court seat in return for supporting what it calls the Russiagate lie, and states that the [[national-security-agency|NSA]] under Admiral [[mike-rogers|Mike Rogers]] had complete intelligence on the [[clinton-lynch-tarmac-meeting|tarmac meeting]] and more.[16]
+
+16. Badlands Brief — "Q for Dummies - Chapter 5", URL: https://badlands.substack.com/p/q-for-dummies-chapter-5
+
+## North Korea trip and the Uranium One money trail
+
+In "The Biggest Cover-up in American History," [[joe-lange|Joe Lange]] restates his claim that Clinton and his close aide [[doug-band|Doug Band]] travelled to [[north-korea|North Korea]] in 2009 ostensibly for hostage negotiations but in reality to arrange the provision of uranium to support the country's nuclear weapons programme, an arrangement he says also sent American uranium to [[iran|Iran]] as a precursor to the Obama-era Iranian nuclear deal.[17] He further cites reporting that the FBI's confidential informant documented payments by Russian executives to a U.S. entity that supported Clinton's foundation while the [[uranium-one-deal|Uranium One deal]] was under review, and that documents showed millions of dollars moving from Russia's nuclear industry toward the [[clinton-foundation|Clinton Foundation]] — material omitted from the eventual court case against [[vadim-mikerin|Vadim Mikerin]].[17]
+
+17. Badlands Brief — "The Biggest Cover-up in American History", URL: https://badlands.substack.com/p/the-biggest-cover-up-in-american
+
+## The tarmac meeting in "The Biggest Boomerang In History"
+
+[[joe-lange|Joe Lange]]'s article revisits the [[clinton-lynch-tarmac-meeting|tarmac meeting]] between Clinton and Attorney General [[loretta-lynch|Loretta Lynch]] as the episode that broke the [[hillary-clinton|Hillary Clinton]] protection network.[18] Q drop 36 of November 2, 2017 is quoted asking what was negotiated on the tarmac at a time when Clinton's victory was expected, and suggesting the [[wizards-and-warlocks|wizards and warlocks]] tipped off a local reporter to the supposedly unscheduled stop while the NSA logged the meeting under a false identity.[18] Lange states the Inspector General report proved the meeting was planned in advance and that [[donald-trump|Trump]] knew the Clintons were offering Lynch a Supreme Court seat in exchange for dropping the investigation.[18]
+
+Separately, Breitbart reporting cited in the article records that the American Chamber of Commerce in Egypt, of which [[lockheed-martin|Lockheed Martin]] is a member, paid Clinton $250,000 for a speech in 2010 — the same year Lockheed joined the Clinton Global Initiative and won 17 contract approvals from Hillary Clinton's [[state-department|State Department]].[18] These claims reflect Badlands Media interpretation rather than established fact.
+
+18. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history

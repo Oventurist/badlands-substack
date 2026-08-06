@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [germany, europe, politics]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-165.md, raw/badlands-brief-6bf.md, raw/badlands-brief-cfa.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-cad.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-165.md, raw/badlands-brief-6bf.md, raw/badlands-brief-cfa.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-cad.md, raw/rattling-a-broken-saber.md]
 confidence: medium
 ---
 
@@ -58,3 +58,10 @@ Moscow had outright rejected NATO members contributing to a post-conflict peacek
 5. Badlands Brief — "Climbing Confidence, a Congolese Crisis, & Uncorroborated KGB Claims", URL: https://badlands.substack.com/p/badlands-news-brief-457
 6. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
 7. Badlands Brief — "A Christmas Bonus, War “With” Venezuela, & Prime Time Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-cad
+
+## NATO crisis and nuclear sharing (2025)
+
+As German Chancellor, Merz responded to President [[donald-trump|Donald Trump]]'s 2025 threats to abandon [[nato|NATO]] by closing ranks with [[emmanuel-macron|Emmanuel Macron]] and [[keir-starmer|Keir Starmer]], pledging to bolster the alliance while exploring a "NATO-minus" framework that could exclude an unreliable United States.[8] In a March 2025 Deutschlandfunk interview, a day after agreeing the cornerstones of a coalition deal between his conservative party and the Social Democratic SPD, he said that "sharing nuclear weapons is an issue that we need to talk about ... we have to become stronger together in nuclear deterrence."[8] He added that Germany should talk with France and Britain "always also from the perspective of supplementing the American nuclear shield, which we of course want to see maintained."[8] Badlands contributor Ryan DeLarme placed the remarks within a broader European rearmament frenzy, noting that German leaders were again talking about sending tanks eastward toward Russia for the third time in a century.[8]
+
+## References
+8. Badlands Brief — "Rattling a Broken Saber?", URL: https://badlands.substack.com/p/rattling-a-broken-saber

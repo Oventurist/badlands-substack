@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [soviet-union, privatization, shock-therapy, russia]
-sources: [raw/a-re-alignment-of-world-systems.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/shadows-sovereigns-and-civil-wars.md]
 confidence: low
 ---
 
@@ -18,3 +18,9 @@ Similar privatization and liberalization reforms were applied viciously to Ukrai
 
 ## References
 1. Badlands Brief — "A Re-Alignment of World Systems", URL: https://badlands.substack.com/p/a-re-alignment-of-world-systems
+
+## Parallel with the 1920s
+
+Badlands Media coverage argues that the vast liberalization of the Russian economy during the "dark 1920s" under the [[new-economic-policy|New Economic Policy]] closely paralleled the Perestroika program of free trade and privatization in the 1990s.[2] The article notes that George Bush Sr. dubbed this later program of Balkanized looting of Russia "Operation Hammer," a reference tying it back to [[armand-hammer|Armand Hammer]], the magnate who had dominated Soviet-Western business dealings in the 1920s.[2]
+
+2. Badlands Brief — "Shadows, Sovereigns and Civil Wars - Part 1", URL: https://badlands.substack.com/p/shadows-sovereigns-and-civil-wars

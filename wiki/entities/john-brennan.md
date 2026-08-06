@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cia, benghazi, drones, counterterrorism]
-sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-07c.md, raw/badlands-brief-143.md, raw/badlands-brief-1ef.md, raw/badlands-brief-625.md, raw/badlands-brief-8db.md, raw/badlands-brief-a89.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-ffa.md, raw/everything-is-connected.md, raw/panic-in-dc.md]
+sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-07c.md, raw/badlands-brief-143.md, raw/badlands-brief-1ef.md, raw/badlands-brief-625.md, raw/badlands-brief-8db.md, raw/badlands-brief-a89.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-ffa.md, raw/everything-is-connected.md, raw/panic-in-dc.md, raw/setting-the-stage.md, raw/the-biggest-boomerang-in-history.md]
 confidence: medium
 ---
 
@@ -123,3 +123,17 @@ Badlands contributor Joe Lange writes that [[hezbollah|Hezbollah]] was a major w
 "Panic in DC" assigns Brennan a pivotal role on two fronts. It asserts that he lied to the incoming Trump administration about the nuclear capabilities of both [[north-korea|North Korea]] and [[iran|Iran]].[17] More substantively, drawing on Politico's reporting, it identifies him as the key figure whose policy preferences shielded [[hezbollah|Hezbollah]] from criminal investigation: as [[barack-obama|Obama]]'s top counterterrorism adviser and later [[central-intelligence-agency|CIA]] director, Brennan authored a policy paper recommending that the next president pursue not only direct dialogue with Iran but "greater assimilation of Hezbollah into Lebanon's political system."[17] He told a Washington conference that Hezbollah was "a very interesting organization" that had evolved from "purely a terrorist organization" into a militia and ultimately a political party with representatives in the Lebanese Parliament and Cabinet.[17] According to [[project-cassandra|Project Cassandra]] members, that posture, combined with the administration's desire for a nuclear settlement, translated into a reluctance to move aggressively against top Hezbollah operatives.[17]
 
 17. Badlands Brief — "Panic in DC", URL: https://badlands.substack.com/p/panic-in-dc
+
+## "Setting the Stage" on unmasking and the Mueller narrative
+
+The Badlands article "Setting the Stage" quotes the Washington Examiner's report that Brennan, as former CIA director, told President [[donald-trump|Trump]] to "stay tuned" regarding special counsel [[robert-mueller|Robert Mueller]]'s investigation into Russian collusion, dismissing the House Intelligence Committee's finding of no collusion or coordination and telling the president to await Mueller's findings before claiming victory.[18] Joe Lange presents this as an example of enemy players making media appearances to set the narrative for the takedown of a duly elected president, and asserts that the [[devin-nunes|Devin Nunes]] memo had already proved there was no collusion evidence.[18]
+
+Brennan also appears on the declassified list, released by acting Director of National Intelligence [[richard-grenell|Richard Grenell]], of [[barack-obama|Obama]]-era officials who requested documents leading to the unmasking of [[michael-flynn|Michael Flynn]].[18] Lange names Brennan and [[james-comey|James Comey]] as the two main abusers of the intelligence database, and states that Obama gave the spying order twice — domestically through Comey and abroad through Brennan using foreign intelligence agencies.[18]
+
+18. Badlands Brief — "Setting the Stage", URL: https://badlands.substack.com/p/setting-the-stage
+
+## Role in the alleged spy operation
+
+"[[the-biggest-boomerang-in-history|The Biggest Boomerang In History]]" names Brennan, with [[james-clapper|James Clapper]], as leading the Intelligence Community arm of the conspiracy [[joe-lange|Joe Lange]] describes.[19] Lange asserts that [[barack-obama|Obama]] gave the order for Brennan's [[central-intelligence-agency|CIA]] to use [[five-eyes|FVEY]] intelligence agencies to spy on the Trump campaign, in parallel with the order to [[james-comey|Comey]]'s [[fbi|FBI]] to open a counterintelligence investigation into Russian collusion — an arrangement chosen, he argues, because counterintelligence material could be kept classified.[19] Brennan is also listed among the media keywords collected in Q drop 4012 of April 30, 2020.[19] These claims reflect Badlands Media interpretation rather than established fact.
+
+19. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [information-war, narrative-warfare, badlands-media, analysis]
-sources: [raw/badlands-news-brief-ee9.md, raw/bric-by-bric.md]
+sources: [raw/badlands-news-brief-ee9.md, raw/bric-by-bric.md, raw/right-the-ship.md]
 confidence: low
 ---
 
@@ -29,3 +29,11 @@ In his August 2023 essay "BRIC by BRIC," [[burning-bright|Burning Bright]] resta
 Under the right framing, he wrote, this same susceptibility is emancipatory: affirming, sovereignty-minded stories shape moral and ethical frameworks, while subverted ones lead the public over "the proverbial lemmings' cliff."[2] He held that the trend was being reversed against its own architects — a process he calls the [[good-reset|'Good' Reset]] — because "we have better storytellers," and that the only thing capable of freeing a chained mind is the truth used to paper over it.[2] What holds for the individual mind, he added, holds for the Collective Mind, "the ultimate prize on the Game Theory Game Board."[2]
 
 2. Badlands Brief — "BRIC by BRIC", URL: https://badlands.substack.com/p/bric-by-bric
+
+## "Right the Ship" and the observable indicator of who is winning
+
+In "Right the Ship" (January 12, 2023), [[burning-bright|Burning Bright]] wrote that in recent weeks at [[badlands-media|Badlands Media]] he had asserted that "stories run much of the world — rather, world events" and that the ongoing War of Stories was one he contended the sovereign side was winning.[3] He grounded the claim in [[game-theory|Game Theory]]: a combatant need not win every political, administrative, rhetorical or kinetic engagement to win the war, only control more of the Game Board than the adversary.[3] Because the true extent of that board is unknowable — though vast, encompassing virtually every political, military and media faction in the world — he offered a proxy indicator: one can guess who is winning the [[information-war|Information War]] by observing which sides, factions and public players appear to be reacting to Narrative Deployments and which appear to be seeding them.[3]
+
+He also argued that Potential Events — those previously confined to the hypothetical, rhetorical or "media" realms — can provoke Actual Events on the board and retain independent power through their effect on the directional thinking, and therefore the directional momentum, of the [[collective-mind|Collective Mind]].[3] Applying that Actual–Potential dichotomy to unfolding events was, in his framing, the corrective needed to keep readers centered amid information overload.[3]
+
+3. Badlands Brief — "Right the Ship", URL: https://badlands.substack.com/p/right-the-ship

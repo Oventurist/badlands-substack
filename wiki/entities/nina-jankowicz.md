@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [disinformation, censorship, dhs, defamation, media]
-sources: [raw/badlands-news-brief-148.md, raw/badlands-news-brief-644.md]
+sources: [raw/badlands-news-brief-148.md, raw/badlands-news-brief-644.md, raw/the-adulation-of-the-disinformation.md]
 confidence: high
 ---
 
@@ -32,7 +32,14 @@ On March 3, 2023, [[jack-posobiec|Jack Posobiec]] posted that Jankowicz was soli
 
 Writing in the [[badlands-news-brief|Badlands News Brief]], [[justin-deschamps|Justin Deschamps]] called Jankowicz "the wicked witch of censorship" and "Scary Poppins," argued that her suit against [[fox-news|Fox News]] was most likely baseless, and read the mocking public reaction as good news.[2] Deschamps framed the episode within a broader thesis that globalist attempts at mass persuasion had failed and had given way to a "Plan B" of forced compliance and the silencing of dissenters as a display to deter others, concluding that human beings "were designed for freedom and autonomy."[2]
 
+## "Scary Poppins" and the disinformation profession
+
+An April 2024 Badlands article by [[ryan-delarme|Ryan DeLarme]] revisited Jankowicz as the emblematic case against the profession of [[disinformation-expert|"disinformation expert"]], recalling the nickname "Scary Poppins" and describing her sardonically as "the stable, unbiased individual" tasked with heading the department's internal "Ministry of Truth."[3] The article characterized her as a quintessential "resistance liberal" who is vocal about her political position, arguing that a brief glimpse at her social-media output shows she is "essentially Taylor Lorenz on crack" and that she is therefore a case study in why such experts are not the unbiased arbiters of truth they are presented as.[3]
+
+The article contended that the "Scary Poppins" public-relations disaster caused the [[disinformation-governance-board|Disinformation Governance Board]] to be shut down but that the underlying effort had only temporarily receded.[3] It further argued that the pattern established in the Jankowicz fallout — treating public distrust of a disinformation official as proof that such officials are needed more than ever — was repeated in the media defence of [[kate-starbird|Kate Starbird]].[3]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: FOX Fights, Trump Trolls & Twitter Turns?", URL: https://badlands.substack.com/p/badlands-news-brief-148
 2. Badlands Brief — "J6 Exposure, Biden's Brain and Trump's Agenda", URL: https://badlands.substack.com/p/badlands-news-brief-644
+3. Badlands Brief — "The Adulation of the 'Disinformation Expert'", URL: https://badlands.substack.com/p/the-adulation-of-the-disinformation

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, church-committee, cia-oversight, idaho, democrats]
-sources: [raw/four-pillars-of-government-control.md]
+sources: [raw/four-pillars-of-government-control.md, raw/the-church-committee-for-dummies.md]
 confidence: medium
 ---
 
@@ -25,3 +25,12 @@ In Badlands Media commentary by [[erik-carlson|Erik Carlson]], the Church Commit
 ## References
 
 1. Badlands Brief — "Four Pillars of Government Control", URL: https://badlands.substack.com/p/four-pillars-of-government-control
+2. Badlands Brief — "The Church Committee, for Dummies", URL: https://badlands.substack.com/p/the-church-committee-for-dummies
+
+## Senate career and selection as chairman
+
+Church was a Democratic Senator from Idaho and, by 1975, a 16-year member of the Senate Committee on Foreign Relations — not to be confused, Badlands Media notes, with the Council on Foreign Relations.[2] He had previously co-chaired a special committee that critically examined the executive branch's consolidation of power during the Cold War, and was selected as chairman by Majority Leader [[mike-mansfield|Mike Mansfield]] after Philip Hart declined the post for health reasons.[2] Church recognized the strategic value of the nation's top intelligence agencies while insisting American institutions function within the confines of constitutional law, and aggressively lobbied to lead the investigation; Republican [[john-tower|John Tower]] of Texas served as vice-chairman.[2]
+
+## Public advocacy and criticism
+
+On Meet the Press in 1975 Church warned that the United States had "perfected a technological capability that allows us to monitor the messages that go through the air," that "that capability, at any time, could be turned around on the American people," and that "there would be no place left to hide if this government ever turned to tyranny."[2] Critics dismissed the inquiry as a vehicle for his presidential ambitions — he declared his candidacy in March 1976 — but Church remained resolute in his belief in "the right of the public to know what the instrumentalities of their government have done."[2] The [[church-committee|committee]] he led published its final report on April 29, 1976 after 126 full committee meetings, 40 subcommittee hearings, some 800 witness interviews and 110,000 documents.[2]

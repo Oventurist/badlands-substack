@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [information-war, fifth-generation-warfare, badlands-media, macro-analysis]
-sources: [raw/inflection-point.md]
+sources: [raw/inflection-point.md, raw/right-the-ship.md]
 confidence: medium
 ---
 
@@ -43,3 +43,9 @@ The essay closed with his standard sign-off — "stay Positive, stay Based and m
 ## References
 
 1. Badlands Brief — "Inflection Point", URL: https://badlands.substack.com/p/inflection-point
+
+## Follow-up: "Right the Ship" (January 2023)
+
+[[burning-bright|Burning Bright]] published "Right the Ship" on January 12, 2023, explicitly billing it as "a thematic follow-up to last week's 'Inflection Point'" and directing readers to that feature for additional context on the chaotic start to 2023.[2] Where "Inflection Point" argued that the curve had changed direction, "Right the Ship" addressed the disorientation that follows, urging readers to treat the resulting confusion as evidence that the Deep State's Systemic paradigm was beginning to "wobble and quake" rather than as a personal or collective failure of analysis.[2]
+
+2. Badlands Brief — "Right the Ship", URL: https://badlands.substack.com/p/right-the-ship

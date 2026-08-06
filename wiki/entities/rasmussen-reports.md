@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [polling, media-trust, survey]
-sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/badlands-brief-5a2.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-2cb.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-e3e.md]
+sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/badlands-brief-5a2.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-2cb.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-e3e.md, raw/thats-not-signature-verification.md]
 confidence: medium
 ---
 
@@ -50,6 +50,10 @@ Badlands commentary in July 2023 drew on a series of Rasmussen findings to argue
 
 A Rasmussen survey reported in late July 2024 found that a majority of Americans wanted [[joe-biden|Joe Biden]] to resign the presidency with immediate effect: 76 percent of likely voters approved of his decision to stop seeking another term, and 52 percent said he was not capable of finishing his term.[8] Badlands commentary defended the pollster's credibility, observing that Rasmussen had been relatively consistent on public opinion since 2020 and had tracked an upward trend of public awakening over the years, and noted that NYT/Siena polling the previous week had recorded an even higher figure of 87 percent approving Biden's withdrawal.[8]
 
+## April 2023 polling on election trust
+
+Rasmussen polling conducted in April 2023 found that 62 percent of Americans had lost trust in US elections, a figure that had increased steadily since November 2020.[9] Badlands contributor [[ashe-in-america|Ashe in America]] cited the finding in arguing that the [[lake-v-hobbs|Lake v. Hobbs]] [[signature-verification|signature verification]] trial had further eroded public confidence in [[mail-in-voting|mail-in balloting]].[9]
+
 ## References
 1. Badlands Brief — "A Hypnotist's Take on Israel, Palestine, and Q", URL: https://badlands.substack.com/p/a-hypnotists-take-on-israel-palestine
 2. Badlands Brief — "Tina Peters' Sentence Commuted; ISIS Killed in Africa", URL: https://badlands.substack.com/p/badlands-brief-5a2
@@ -59,3 +63,4 @@ A Rasmussen survey reported in late July 2024 found that a majority of Americans
 6. Badlands Brief — "Climbing Confidence, a Congolese Crisis, & Uncorroborated KGB Claims", URL: https://badlands.substack.com/p/badlands-news-brief-457
 7. Badlands Brief — "Trump Trifecta, COVID Concealment & Sorosian Slime", URL: https://badlands.substack.com/p/badlands-news-brief-5a7
 8. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e
+9. Badlands Brief — "That's Not Signature Verification, Your Honor", URL: https://badlands.substack.com/p/thats-not-signature-verification

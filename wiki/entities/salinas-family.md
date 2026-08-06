@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [mexico, pri, drug-trafficking, gulf-cartel, nafta]
-sources: [raw/a-family-affair.md]
+sources: [raw/a-family-affair.md, raw/the-battle-for-control.md]
 confidence: medium
 ---
 
@@ -18,3 +18,8 @@ The family is described as connected to the [[gulf-cartel|Gulf Cartel]] of [[jua
 
 ## References
 1. Badlands Brief — "A Family Affair", URL: https://badlands.substack.com/p/a-family-affair
+2. Badlands Brief — "The Battle for Control", URL: https://badlands.substack.com/p/the-battle-for-control
+
+## Citibank connection
+
+Badlands Media contributor [[joe-lange|Joe Lange]] identifies the Salinas family's drug trafficking in Mexico as one of two operations centered on [[citibank|Citibank]], alongside the [[medellin-cartel|Medellín cartel]] money laundering.[2] Both operations, he writes, were directly tied to the [[cia|CIA]] and [[george-hw-bush|George H. W. Bush]], and none of it is a coincidence.[2]

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [performance-art, spirit-cooking, ukraine, elites]
-sources: [raw/badlands-news-brief-2ca.md]
+sources: [raw/badlands-news-brief-2ca.md, raw/soul-governance.md]
 confidence: medium
 ---
 
@@ -22,6 +22,11 @@ The claim originated in a report by *The Telegraph* based on statements attribut
 
 The prospect of Abramovic overseeing protections for displaced Ukrainian children was presented as an inversion of child safeguarding, closing with the appeal "Save the children."[1] The item connects to broader Badlands coverage of [[child-trafficking|child trafficking]].[1]
 
+## In "Soul Governance"
+
+The Badlands Media essay [[soul-governance|Soul Governance]] refers to Marina Abramović as "channeling blood rites into gallery performances," listing her alongside [[john-podesta|Podesta]]'s blending of art with alleged ritual and the [[spirit-cooking|spirit cooking]] episode as examples of what it calls mockeries of the soul.[2] The essay treats these as hollow imitations of genuine communion, arguing that the actors involved "don't create, they pervert" and "don't command, they mimic."[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Ukrainian Nazis, Spirit Cooks & Potato Presidents", URL: https://badlands.substack.com/p/badlands-news-brief-2ca
+2. Badlands Brief — "Soul Governance", URL: https://badlands.substack.com/p/soul-governance

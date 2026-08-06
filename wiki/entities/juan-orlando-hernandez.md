@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [honduras, drug-trafficking, pardon, trump, narcostate]
-sources: [raw/badlands-news-brief-410.md, raw/badlands-news-brief-bd7.md]
+sources: [raw/badlands-news-brief-410.md, raw/badlands-news-brief-bd7.md, raw/school-of-assassins-and-dictators.md]
 confidence: medium
 ---
 
@@ -28,6 +28,13 @@ President [[donald-trump|Donald Trump]], who has cast himself as a relentless fo
 
 Democrats rebuked Trump, accusing him of hypocrisy in claiming to have stepped up the fight against illicit drugs while freeing a man convicted of using his office to aid traffickers.[2] Senator [[dick-durbin|Dick Durbin]], the top Democrat on the Senate Judiciary Committee, said trial evidence had established that Hernández "orchestrated a vast trafficking conspiracy" that raked in millions of dollars for drug cartels.[2] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]], discussing the case with [[canncon|CannCon]] on Badlands Daily, argued the opposite reading — that the Deep State had gone after Hernández precisely because he prosecuted cartel criminals and extradited many of them to the United States — and said he saw the same "template" recurring in the treatment of [[nicolas-maduro|Nicolás Maduro]] and [[gustavo-petro|Gustavo Petro]].[2]
 
+## Earlier arrest and the Honduran narcostate
+
+Writing in September 2023, Joe Lange placed Hernández at the end of a long arc of [[central-intelligence-agency|CIA]] control over Honduras, a country he describes as a main link in cocaine trafficking from Colombia to the United States and a base for [[nicaraguan-contras|Contra]] rebels supplied by the agency.[3] In October 2019 a New York jury convicted Hernández's brother on cocaine trafficking charges, in a trial that offered a blueprint for how drug money penetrated the highest levels of Honduran politics to buy protection and immunity; the central question facing Hondurans was how Hernández could proclaim to be fighting traffickers while his brother was under investigation for running tons of cocaine to the United States.[3] The brother received a life sentence.[3]
+
+Honduran police arrested Hernández at his home in Tegucigalpa in February 2022 following a U.S. extradition request on drug trafficking and weapons charges, less than three weeks after he left office and after years of allegations by U.S. prosecutors about his links to traffickers.[3] Lange presented both events as evidence that [[donald-trump|Trump]] was waging a global war to hold drug-trafficking leaders responsible.[3]
+
 ## References
 1. Badlands Brief — "New(ish) Negotiations, NATO Nazis, & Neocon Narrative Nonsense", URL: https://badlands.substack.com/p/badlands-news-brief-410
 2. Badlands Brief — "Bogus Visas, Brazilian Sanctions, and Foreign Boat Battles", URL: https://badlands.substack.com/p/badlands-news-brief-bd7
+3. Badlands Brief — "School of Assassins and Dictators", URL: https://badlands.substack.com/p/school-of-assassins-and-dictators

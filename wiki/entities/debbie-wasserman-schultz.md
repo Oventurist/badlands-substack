@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, dnc, clinton-email-investigation, democrats]
-sources: [raw/badlands-news-brief-168.md, raw/badlands-news-brief-dae.md]
+sources: [raw/badlands-news-brief-168.md, raw/badlands-news-brief-dae.md, raw/q-for-dummies-chapter-9.md]
 confidence: low
 ---
 
@@ -28,3 +28,8 @@ Badlands Media described the [[gabbard-russian-asset-allegation|allegation]] as 
 
 1. Badlands Brief — "Badlands News Brief: Thumb Drive Theories & Early Dismissals", URL: https://badlands.substack.com/p/badlands-news-brief-168
 2. Badlands Brief — "Last Chance at WW3 as the MAGAvengers Assemble", URL: https://badlands.substack.com/p/badlands-news-brief-dae
+3. Badlands Brief — "Q for Dummies - Chapter 9", URL: https://badlands.substack.com/p/q-for-dummies-chapter-9
+
+## The Awan brothers in Q commentary
+
+Chapter 9 of the Badlands series [[q-for-dummies|Q for Dummies]] names Wasserman Schultz, in her capacity as [[democratic-national-committee|DNC]] chair, as one of the members of Congress served by the [[awan-brothers|Awan brothers]], the Pakistani IT administrators it says worked for well over two dozen legislators.[3] The chapter's complaint is that neither brother held a security clearance and neither was properly vetted before being hired, and it links the episode to the later claim that Pakistani IT administrators were caught sending top-secret information to the [[muslim-brotherhood|Muslim Brotherhood]].[3]

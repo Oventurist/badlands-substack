@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [arizona, maricopa-county, elections, recorder, 2022-midterms]
-sources: [raw/arizona-earthquake.md, raw/badlands-brief-509.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-ca1.md]
+sources: [raw/arizona-earthquake.md, raw/badlands-brief-509.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-ca1.md, raw/thats-not-signature-verification.md]
 confidence: medium
 ---
 
@@ -30,6 +30,10 @@ In March 2026 Richer, by then the former [[maricopa-county|Maricopa County]] Rec
 
 [[ashe-in-america|Ashe in America]] discussed the story on The Daily Herold with [[jon-herold|Jon Herold]], observing that it paralleled the resignation of El Paso County, Colorado clerk [[steve-schleiker|Steve Schleiker]] from the [[colorado-county-clerks-association|Colorado County Clerks Association]]: both cases involved the heads of professional associations that act as unaccountable "handlers" of election officials.[3]
 
+## Named defendant in Lake v. Hobbs
+
+[[kari-lake|Kari Lake]]'s election contest named Stephen Richer in his official capacity as [[maricopa-county|Maricopa County]] Recorder, alongside [[katie-hobbs|Katie Hobbs]] as contestee and [[adrian-fontes|Adrian Fontes]] as Secretary of State.[5] The Recorder's office was central to the surviving Count III claim, since [[arizona-revised-statutes-16-550|A.R.S. § 16-550]] places the duty to compare early-ballot signatures on "the county recorder or other officer in charge of elections."[5] Testimony at the May 2023 trial indicated that signatures were approved in the Clerk and Recorder's office without observers present.[5]
+
 ## References
 
 1. Badlands Media — "Arizona Earthquake!", URL: https://badlands.substack.com/p/arizona-earthquake
@@ -40,3 +44,4 @@ In March 2026 Richer, by then the former [[maricopa-county|Maricopa County]] Rec
 On August 5, 2024, [[america-first-legal|America First Legal]] sued Richer in his capacity as [[maricopa-county|Maricopa County]] Recorder for allegedly refusing to verify the citizenship of registered voters and failing to remove non-citizens from the county's rolls.[4] The action was filed on behalf of the [[strong-communities-foundation-of-arizona|Strong Communities Foundation of Arizona]] and a naturalized-citizen voter, and followed July 16 letters that AFL sent to all 15 Arizona counties demanding compliance with state and federal law.[4] Richer responded through his attorney that he was verifying citizenship as the law required; AFL countered that registrations without confirmed citizenship had increased during his tenure and that the databases needed for verification had not been accessed.[4] The complaint alleged that he had not performed the monthly list maintenance required by state law, and cited a rise in registrations lacking proof of citizenship from 21,595 in April to 26,108 in July — a category of voter eligible in Arizona to vote only in federal elections.[4]
 
 4. Badlands Brief — "Fake Vice Presidents and Effective Lawsuits", URL: https://badlands.substack.com/p/badlands-news-brief-ca1
+5. Badlands Brief — "That's Not Signature Verification, Your Honor", URL: https://badlands.substack.com/p/thats-not-signature-verification

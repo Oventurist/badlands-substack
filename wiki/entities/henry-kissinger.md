@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [diplomacy, petrodollar, globalism, nixon-administration]
-sources: [raw/badlands-news-brief-24e.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-a3b.md, raw/dark-equation.md, raw/henry-kissinger-british-cabal-puppet.md]
+sources: [raw/badlands-news-brief-24e.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-a3b.md, raw/dark-equation.md, raw/henry-kissinger-british-cabal-puppet.md, raw/the-british-are-leaving-the-british.md]
 confidence: medium
 ---
 
@@ -58,6 +58,12 @@ The approach was first applied during the [[vietnam-war|Vietnam War]], where Kis
 
 Carlson also rejected the idea that Kissinger's death at age 100 was unremarkable timing, suggesting it occurred in the middle of the Israel–Hamas conflict so that people would examine his history and connections.[5]
 
+## The 1981 Royal Institute speech
+
+[[matthew-ehret|Matthew Ehret]] identifies Kissinger as a star pupil of William Yandall Elliot, a leading [[rhodes-scholarship|Rhodes Scholar]] based at Harvard, describing the young German as misanthropic.[6] A decade before being made a Knight of the British Empire, Kissinger delivered a May 1981 speech on British-American relations at London's Royal Institute for International Affairs.[6] There he contrasted the opposing world views of [[winston-churchill|Churchill]] and [[franklin-d-roosevelt|Roosevelt]], gushing that he much preferred Churchill's postwar vision.[6]
+
+Describing his time as Secretary of State, Kissinger said the British "were so matter-of-factly helpful that they became a participant in internal American deliberations, to a degree probably never practiced between sovereign nations," and that "in my White House incarnation then, I kept the [[british-foreign-office|British Foreign Office]] better informed and more closely engaged than I did the American [[state-department|State Department]]," adding: "It was symptomatic."[6] Ehret notes that as Kissinger spoke those words another anglophile he regarded as a traitor, [[george-hw-bush|George Bush Sr.]], was being installed as Vice President — the son of a Nazi-funding Wall Street figure, a former CIA director, and later a Knight of the Grand Cross and Order of Bath conferred by [[queen-elizabeth-ii|Queen Elizabeth]] in 1993.[6] The most disastrous foreign policies enacted under [[ronald-reagan|Reagan]] in the 1980s, he argues, trace directly back to these two figures.[6]
+
 ## References
 
 1. Badlands News Brief — "Shutdown Looms as Game Theory Plays Out", URL: https://badlands.substack.com/p/badlands-news-brief-24e
@@ -65,3 +71,4 @@ Carlson also rejected the idea that Kissinger's death at age 100 was unremarkabl
 3. Badlands Brief — "Badlands News Brief: The DOJ Deploys All Assets and an Infamous Politico Dies", URL: https://badlands.substack.com/p/badlands-news-brief-a3b
 4. Badlands Brief — "Dark Equation", URL: https://badlands.substack.com/p/dark-equation
 5. Badlands Brief — "Henry Kissinger: British Cabal Puppet", URL: https://badlands.substack.com/p/henry-kissinger-british-cabal-puppet
+6. Badlands Brief — "The British Are Leaving! The British Are Leaving!", URL: https://badlands.substack.com/p/the-british-are-leaving-the-british

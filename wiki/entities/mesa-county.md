@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [colorado, elections, county-government, election-integrity]
-sources: [raw/badlands-brief-5a2.md]
+sources: [raw/badlands-brief-5a2.md, raw/reset-the-space-reset-society.md]
 confidence: medium
 ---
 
@@ -18,5 +18,10 @@ Mesa County is a county in the U.S. state of Colorado whose election office beca
 
 Because the underlying charges were state offenses arising from the administration of Mesa County's election equipment, Colorado officials maintained that presidential pardons could not reach the convictions, notwithstanding claims by President [[donald-trump|Donald Trump]] in 2025 that he had pardoned Peters.[1]
 
+## Coverage in Twitter Spaces (2023)
+
+The Mesa County election reports were among the topics covered in an early 2023 [[twitter-spaces|Twitter Spaces]] panel hosted by [[ashe-in-america|Ashe in America]] featuring [[mike-lindell|Mike Lindell]] and county clerk [[tina-peters|Tina Peters]], alongside the RNC chair election, the Maricopa audit, and Peters' upcoming trials.[2]
+
 ## References
 1. Badlands Brief — "Tina Peters' Sentence Commuted; ISIS Killed in Africa", URL: https://badlands.substack.com/p/badlands-brief-5a2
+2. Badlands Media — "The Great Reset the Space: A New Frontier for American Community", raw/reset-the-space-reset-society.md

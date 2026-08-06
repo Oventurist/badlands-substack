@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, american-system, railroads, political-economy]
-sources: [raw/in-defense-of-alexander-hamilton.md]
+sources: [raw/in-defense-of-alexander-hamilton.md, raw/shadows-sovereigns-and-civil-wars.md]
 confidence: medium
 ---
 
@@ -22,3 +22,9 @@ Witte appears in Ehret's list of world leaders outside the United States who led
 
 ## References
 1. Badlands Brief — "In Defense of Alexander Hamilton", URL: https://badlands.substack.com/p/in-defense-of-alexander-hamilton
+
+## Advocacy of the Bering Strait tunnel
+
+In 1905, acting on Witte's advice, Czar [[nicholas-ii|Nicholas II]] gave national support to the [[bering-strait-tunnel|Bering Strait tunnel]] and funded a team of American engineers to carry out feasibility studies.[2] The proposal followed the completion of the [[trans-siberian-railway|Trans-Siberian Railway]] between 1890 and 1905, a project that had drawn heavily on Baldwin Locomotives made in Philadelphia and on hundreds of American technicians and engineers.[2]
+
+2. Badlands Brief — "Shadows, Sovereigns and Civil Wars - Part 1", URL: https://badlands.substack.com/p/shadows-sovereigns-and-civil-wars

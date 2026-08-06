@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [national-guard, military, domestic-deployment, memphis, washington-dc]
-sources: [raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-2e4.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-74c.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-dd8.md, raw/badlands-news-brief-ecd.md]
+sources: [raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-2e4.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-74c.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-dd8.md, raw/badlands-news-brief-ecd.md, raw/q-for-dummies-chapter-3.md]
 confidence: medium
 ---
 
@@ -77,6 +77,12 @@ The [[pentagon|Pentagon]] did not immediately respond to questions about the ord
 
 Badlands commentary credited the federalization of the Metropolitan Police and the Guard deployment with driving D.C. crime rates to historic lows within weeks, citing over 300 arrests, and framed the capital as a template for planned expansions to Baltimore, New York and Chicago.[11] The same commentary criticized Maryland Governor [[wes-moore|Wes Moore]] for resisting federal help and New York mayoral candidate [[zohran-mamdani|Zohran Mamdani]] for downgrading violent misdemeanors as "non-serious" acts of survival.[11]
 
+## Q drop #22
+
+Chapter 3 of [[q-for-dummies|Q for Dummies]] analyses [[qanon|Q]] drop #22 of November 1, 2017, which asks who controls the National Guard.[12] The author answers that in most instances control rests with the governor of the state whose unit is being activated, but that the President may also activate any National Guard unit and place it under federal control — something he says has happened many times in American history, including during the 1992 Los Angeles riots and after Hurricane Katrina.[12]
+
+The drop further asks whether the Guard can work alongside the [[united-states-marine-corps|Marines]] and whether conditions must be met for that to occur.[12] The author answers yes to both, stating that [[posse-comitatus-act|Posse Comitatus]] must be declared and [[habeas-corpus|habeas corpus]] suspended before the United States military can serve among its own population — conditions he says were met under [[abraham-lincoln|Abraham Lincoln]] during the Civil War.[12]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Military in Memphis & Patrols in Poland", URL: https://badlands.substack.com/p/badlands-news-brief-1ed
 2. Badlands News Brief — "Escalating Elections, Fragmented Forums, & Merry Murder Metrics", URL: https://badlands.substack.com/p/badlands-news-brief-2e4
@@ -89,3 +95,4 @@ Badlands commentary credited the federalization of the Metropolitan Police and t
 9. Badlands Brief — "Brennan Decries Judge Shopping & JD Says It's Okay to Be White!", URL: https://badlands.substack.com/p/badlands-news-brief-795
 10. Badlands Brief — "Badlands News Brief: Quick Reaction Forces, Still Unexplained Anomalies, N-Word Options", URL: https://badlands.substack.com/p/badlands-news-brief-dd8
 11. Badlands Brief — "Salvadoran Screwworms, Chinese Students, & Satan's Attorney", URL: https://badlands.substack.com/p/badlands-news-brief-ecd
+12. Badlands Brief — "Q for Dummies - Chapter 3", URL: https://badlands.substack.com/p/q-for-dummies-chapter-3

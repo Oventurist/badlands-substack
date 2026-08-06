@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [classified-records, joe-biden, national-archives, special-counsel]
-sources: [raw/badlands-news-brief-082.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-8f1.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-f39.md, raw/badlands-news-brief-f4c.md, raw/how-do-you-remove-a-potus.md]
+sources: [raw/badlands-news-brief-082.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-8f1.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-f39.md, raw/badlands-news-brief-f4c.md, raw/how-do-you-remove-a-potus.md, raw/the-chosen-one.md]
 confidence: medium
 ---
 
@@ -90,3 +90,11 @@ Badlands contributor [[just-human|Just Human]] observed that the [[fbi|FBI]] had
 
 8. Badlands News Brief — "Hunter Hunted, Biden's Bane & Ukraine Fatigue", URL: https://badlands.substack.com/p/badlands-news-brief-f39
 9. Badlands Brief — "Badlands News Brief: Dollars, Saudis and Globalist Elites", URL: https://badlands.substack.com/p/badlands-news-brief-f4c
+
+## Lange's "timed exposure" reading (January 2023)
+
+Writing days after the first disclosures, [[badlands-media|Badlands Media]] contributor [[joe-lange|Joe Lange]] asked whether it was a coincidence that classified documents held by [[joe-biden|Joe Biden]] were surfacing only after Republicans took control of the House, and answered that "there are NO COINCIDENCES" and that "everything has been planned and timed."[10] He presented the affair as an instance of a broader design in which Biden's presidency was used to expose how past presidents concealed wrongdoing through the misuse of classification law.[10]
+
+Lange noted that Biden had just had a Special Counsel assigned by his own Attorney General and predicted that he would also be impeached, while doubting that [[chuck-schumer|Chuck Schumer]]'s Senate would remove him — an outcome he argued [[donald-trump|Donald Trump]] preferred, since Trump had Biden "leveraged" rather than wanting him gone.[10] He framed the whole sequence with the phrase "Think Mirror," arguing that what had been done to Trump was now being done to Biden because "turnabout is fair play."[10]
+
+10. Badlands Brief — "The Chosen One", URL: https://badlands.substack.com/p/the-chosen-one

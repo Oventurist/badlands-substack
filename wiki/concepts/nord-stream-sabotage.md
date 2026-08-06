@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [nord-stream, sabotage, russia, china, energy, geopolitics]
-sources: [raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-420.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-754.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-ac8.md, raw/badlands-news-brief-b53.md, raw/badlands-news-brief-b9c.md]
+sources: [raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-420.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-754.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-ac8.md, raw/badlands-news-brief-b53.md, raw/badlands-news-brief-b9c.md, raw/the-cia-is-being-thrown-under-the.md]
 confidence: medium
 ---
 
@@ -128,3 +128,11 @@ Prosecutors in Stockholm announced on Wednesday, February 7, 2024 that they had 
 12. Badlands Brief — "Storms both Real and Political Converge in October", URL: https://badlands.substack.com/p/badlands-news-brief-ac8
 13. Badlands Brief — "Hate Groups, Slush Funds, & Shut Downs", URL: https://badlands.substack.com/p/badlands-news-brief-b53
 14. Badlands Brief — "Badlands News Brief: Tucker Does Moscow as the News Cycle Goes Ballistic", URL: https://badlands.substack.com/p/badlands-news-brief-b9c
+
+## Swedish investigation and NATO accession (March 2024 commentary)
+
+Erik Carlson's "The CIA is Being Thrown Under the Bus" treats the sabotage as the point at which exposure of the [[central-intelligence-agency|CIA]] went into high gear, following reports that the agency was involved in destroying the pipeline.[15] He noted that Sweden — which had previously said it suspected an unknown state actor of responsibility — halted its probe after verifying that the case did not fall under its jurisdiction, and that Sweden joined [[nato|NATO]] immediately afterwards.[15]
+
+Carlson asked whether that sequence was coincidental and whether NATO was becoming the Cabal's new preferred mechanism of world control in place of the agency.[15] He also cited [[vladimir-putin|Vladimir Putin]]'s interview with [[tucker-carlson|Tucker Carlson]], in which Putin accused the CIA of exactly the practices attributed to it — blowing up underwater pipelines, running color revolutions and carrying out assassinations.[15]
+
+15. Badlands Brief — "The CIA is Being Thrown Under the Bus", URL: https://badlands.substack.com/p/the-cia-is-being-thrown-under-the

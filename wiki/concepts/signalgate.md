@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [pentagon, signal, hegseth, classified-information, inspector-general]
-sources: [raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-b0d.md]
+sources: [raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-b0d.md, raw/rattling-a-broken-saber.md]
 confidence: medium
 ---
 
@@ -33,3 +33,10 @@ Badlands host [[canncon|CannCon]] questioned whether the choice of Signal had it
 ## References
 1. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
 2. Badlands Brief — "Badlands News Brief: Unexpected Allies, Rogue Judges, & Stacked Envoys", URL: https://badlands.substack.com/p/badlands-news-brief-b0d
+
+## European naval capability exchange
+
+Among the messages published from the Signal chat, Vice President [[jd-vance|J.D. Vance]] questioned why the United States should get involved bombing the Houthis over a canal through which only 3% of American trade passes.[3] National Security Adviser [[mike-waltz|Mike Waltz]] answered that "whether we pull the plug or not, today European navies do not have the capability to defend against the types of sophisticated, antiship, cruise missiles, and drones the Houthis are now using."[3] Badlands contributor Ryan DeLarme cited the exchange as documentary evidence of European military weakness at the very moment EU leaders were talking about confronting Russia.[3]
+
+## References
+3. Badlands Brief — "Rattling a Broken Saber?", URL: https://badlands.substack.com/p/rattling-a-broken-saber

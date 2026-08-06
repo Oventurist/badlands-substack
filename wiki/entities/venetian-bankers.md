@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, history, venice, debt, cabal]
-sources: [raw/control-the-financial-system-control.md]
+sources: [raw/control-the-financial-system-control.md, raw/real-patriots-dont-think-like-hitler-ebe.md]
 confidence: low
 ---
 
@@ -24,6 +24,13 @@ In 1688, by this telling, the Dutch East India Company created the [[city-of-lon
 
 These claims are presented as the author's historical interpretation rather than as documented mainstream economic history.
 
+## Venice, the Ghetto and forced money-lending
+
+Matthew Ehret's account of the medieval origins of Venetian finance overlaps with Carlson's but emphasizes the coercive exclusion of Jews from other trades. The [[venetian-empire|Venetian Empire]] was the first state to ban Jews from all international trade, its Senate passing a law in 945 CE forbidding any ship bound for Asia from carrying a Jew, after which laws across Europe barred Jews from land ownership, trade guilds and trade companies.[2] The word "ghetto" itself began in Venice, where Jews were relegated to a neighborhood of that name and forced into old-rag dealing, pawn broking or money lending for nominally Christian oligarchical families who used them as HofJuden servants.[2]
+
+Historian Cecil Roth is quoted describing how non-Jewish capitalists lent to kings and magnates under cover of various devices while the least lucrative and most unpopular branches of lending were forced upon Jews, and how the Venetian Jewish community was tolerated down to the close of the eighteenth century only on condition that it maintain four loan-banks in the Ghetto.[2] In this telling the figure of the "Jewish banker" is a product of Venetian oligarchical policy rather than its cause.[2]
+
 ## References
 
 1. Badlands Brief — "Control the Financial System, Control the World", URL: https://badlands.substack.com/p/control-the-financial-system-control
+2. Badlands Brief — "Real Patriots Don't Think Like Hitler - Part 7: The Truth About Khazaria", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-ebe

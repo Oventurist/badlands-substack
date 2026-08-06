@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [arizona, secretary-of-state, elections, democratic-party]
-sources: [raw/an-sos-from-ground-zero.md, raw/anthony-fauci.md, raw/arizona-earthquake.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-e99.md, raw/operation-wake-up-america-20.md]
+sources: [raw/an-sos-from-ground-zero.md, raw/anthony-fauci.md, raw/arizona-earthquake.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-e99.md, raw/operation-wake-up-america-20.md, raw/thats-not-signature-verification.md]
 confidence: medium
 ---
 
@@ -42,6 +42,12 @@ On Tuesday, February 25, 2025, Hobbs signed an executive order "to combat the ca
 
 Writing on December 2, 2022, [[badlands-media|Badlands Media]] contributor [[kitty-gillespie|Kitty Gillespie]] predicted that, despite [[kari-lake|Kari Lake]]'s election challenge, "a judiciary that's as corrupt as our leftist state government" would ensure Hobbs was "crowned" Governor of Arizona.[6] Gillespie characterized her as "a complete nightmare" and "a Communist," while insisting she was "just a puppet" who would attempt "to drive Arizona into the ground."[6] The essay framed the coming "impotent and corrupt Hobbs regime" as an installed administration that would command no respect from Arizonans, and cast the chaos it was expected to generate — inflation, gas prices, immigration, drug and sex trafficking, and fentanyl poisoning — as fuel for the growth of the [[america-first-movement|America First movement]] in the state.[6] It cited a [[rasmussen-reports|Rasmussen]] poll finding that 71% of likely U.S. voters, including 40% saying "very likely," believed problems with the election in [[maricopa-county|Maricopa County]] had affected the outcome of Arizona's Senate race.[6] Gillespie also anticipated that Lake would run a "shadow governorship" whose work would often require disrupting the Hobbs administration's plans.[6]
 
+## 2022 election and the signature verification challenge
+
+Hobbs, then Arizona Secretary of State, won the November 8, 2022 gubernatorial contest against [[kari-lake|Kari Lake]] by 17,117 votes out of 2.59 million cast, a margin of 0.67 percent.[7] Badlands contributor [[ashe-in-america|Ashe in America]] disputed the legitimacy of that margin, writing that [[maricopa-county|Maricopa County]] disenfranchised election day voters who waited hours in line and were unable to cast ballots because of technology failures, and describing Hobbs as a candidate who refused to debate, did not campaign, and repeatedly insulted critical demographics such as Latinos, who comprise roughly 30 percent of the state's population and nearly 25 percent of its electorate.[7]
+
+Lake's contest named Hobbs personally as contestee alongside [[adrian-fontes|Adrian Fontes]] and [[stephen-richer|Stephen Richer]] in their official capacities.[7] In the May 2023 trial on the remanded [[signature-verification|signature verification]] count, Team Hobbs argued that Lake's burden was to prove that no signature verification took place at all during the midterms, and that Lake's own witnesses had demonstrated verifying signatures with great precision — an interpretation Judge [[peter-thompson|Peter Thompson]] ultimately adopted in ruling against Lake.[7]
+
 ## References
 
 1. Badlands Brief — "An SOS From Ground Zero", URL: https://badlands.substack.com/p/an-sos-from-ground-zero
@@ -50,3 +56,4 @@ Writing on December 2, 2022, [[badlands-media|Badlands Media]] contributor [[kit
 4. Badlands Brief — "Trump Takes on Big Pharma and GART Kicks Off!", URL: https://badlands.substack.com/p/badlands-news-brief-62c
 5. Badlands Brief — "Ukrainian Whiplash & NatSec Fetishes", URL: https://badlands.substack.com/p/badlands-news-brief-e99
 6. Badlands Media — "Operation Wake Up America 2.0", URL: https://badlands.substack.com/p/operation-wake-up-america-20
+7. Badlands Brief — "That's Not Signature Verification, Your Honor", URL: https://badlands.substack.com/p/thats-not-signature-verification

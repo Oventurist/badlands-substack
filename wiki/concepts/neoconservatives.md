@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [politics, republican-party, neocons]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-brief-165.md, raw/badlands-news-brief-dbd.md, raw/deep-state-spotlight-victoria-nuland.md, raw/president-trumps-call-to-arms.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-brief-165.md, raw/badlands-news-brief-dbd.md, raw/deep-state-spotlight-victoria-nuland.md, raw/president-trumps-call-to-arms.md, raw/schisms-in-maga.md, raw/shadows-sovereigns-and-civil-wars-e41.md]
 confidence: medium
 ---
 
@@ -38,9 +38,24 @@ The movement's intellectual machinery is traced to the [[project-for-the-new-ame
 
 In Badlands commentary on the [[2023-trump-cpac-speech|2023 Trump CPAC speech]], [[brad-getz|Brad Getz]] argued that neoconservatism was the mechanism by which the American right acquired its war-making reputation: for a century, he wrote, Democratic presidents had presided over the major wars — Wilson and World War I, Roosevelt and World War II, Truman and Korea, Johnson and Vietnam — and "it wasn't until Neo-conservatism blurred party lines, allowing [[rino|RINOs]] to emerge in the Republican party, that the right followed in the left's War-like footsteps."[5] He attributed the shift to the "Neo-con Bushes and their fellow [[council-on-foreign-relations|CFR]] infiltrators," traceable back to [[prescott-bush|Prescott Bush]], and characterized the process as "infiltration over invasion."[5] [[donald-trump|Trump]]'s CPAC line naming [[paul-ryan|Paul Ryan]], [[karl-rove|Karl Rove]] and [[jeb-bush|Jeb Bush]] as figures the party would never return to was read as the public repudiation of that faction.[5]
 
+## Entanglement with Zionism (November 2025)
+
+In [[maga-schism|"The MAGA Schism"]], [[ryan-delarme|Ryan DeLarme]] wrote that [[donald-trump|Trump]] 2.0 "at least outwardly — seems to be in lockstep with the neocons of yesteryear, the same neocons he campaigned against in 2016."[6] He traced the forever wars of the 1990s and 2000s to the [[project-for-the-new-american-century|Project for the New American Century]], listing [[william-kristol|William Kristol]], [[robert-kagan|Robert Kagan]], [[paul-wolfowitz|Paul Wolfowitz]], [[richard-perle|Richard Perle]], [[john-bolton|John Bolton]], [[dick-cheney|Dick Cheney]], [[elliott-abrams|Elliott Abrams]] and [[norman-podhoretz|Norman Podhoretz]] as its key figures, and concluded that neoconservatism and [[zionism|Zionism]] are "deeply intertwined, with little to no meaningful separation between the two."[6] He declined to judge whether that was good or bad, noting only that it appears fundamentally at odds with Trump's stated commitment to ending forever wars and preventing new ones.[6]
+
+DeLarme also observed that anti-war critics who were furious over the strikes on [[iran|Iran]] rarely acknowledge that Trump stopped short of the full-scale kinetic regime-change war in Iran that [[israel|Israel]] and the neocons desperately wanted.[6] Within his taxonomy of the fracturing coalition, opposition to neoconservatism defines the anti-war, anti-establishment faction led by [[scott-horton|Scott Horton]], [[glenn-greenwald|Glenn Greenwald]], [[john-mearsheimer|John Mearsheimer]] and [[jeffrey-sachs|Jeffrey Sachs]].[6]
+
 ## References
 1. Badlands Brief — "A Communist Plot to Take Over America", URL: https://badlands.substack.com/p/a-communist-plot-to-take-over-america
 2. Badlands Brief — "Trump Conducts the Chaos as the Uniparty Concentrates Fire", URL: https://badlands.substack.com/p/badlands-brief-165
 3. Badlands Brief — "Badlands News Brief: Destination Deportations, Alligator Alcatraz, & WWIII Gets Rugged", URL: https://badlands.substack.com/p/badlands-news-brief-dbd
 4. Badlands Media — "Deep State Spotlight: Victoria Nuland", URL: https://badlands.substack.com/p/deep-state-spotlight-victoria-nuland
 5. Badlands Brief — "President Trump's Call to Arms", URL: https://badlands.substack.com/p/president-trumps-call-to-arms
+6. Badlands Brief — "The MAGA Schism", URL: https://badlands.substack.com/p/schisms-in-maga
+
+## Trotskyist origins
+
+Matthew Ehret traces neo-conservatism directly to American Trotskyism: after [[leon-trotsky|Trotsky]]'s life was snuffed out in 1940, devotees including [[james-burnham|James Burnham]], Sidney Hook, Max Schachtman, [[albert-wohlstetter|Albert Wohlstetter]] and Irving Kristol abandoned Trotskyite socialism and adopted a rabidly right-wing paradigm that came to be known as neo-conservatism.[7] The movement grew quickly through the Cold War and, in Ehret's account, took over the United States over the dead bodies of John F. Kennedy and his brother while unleashing a "clash of civilizations" each-against-all logic onto the globe under the watch of the [[trilateral-commission|Trilateral Commission]] of Kissinger, Brzezinski and David Rockefeller.[7]
+
+Burnham, whom Christopher Hitchens called "the intellectual founder of the neoconservative movement," saw the resolution to the Manichean problem of class struggle and Cold War in a one-world fascist government, and shortly before Trotsky's death renounced dialectical materialism in favor of Lord [[bertrand-russell|Bertrand Russell]]'s philosophy.[7] Ehret argues that the neoconservative commitment to a Darwinian survival-of-the-fittest ethic merged with a gnostic Christian end-times doctrine produces effects largely identical to Trotsky's fusion of Darwinism and dialectical materialism: global chaos with a supposed point of synthesis to resolve it.[7] Wohlstetter carried the same paradigm into the [[rand-corporation|RAND Corporation]], while Hook, Kristol and Burnham helped organize the [[congress-for-cultural-freedom|Congress for Cultural Freedom]].[7]
+
+7. Badlands Brief — "Shadows, Sovereigns and Civil Wars - Part 2", URL: https://badlands.substack.com/p/shadows-sovereigns-and-civil-wars-e41

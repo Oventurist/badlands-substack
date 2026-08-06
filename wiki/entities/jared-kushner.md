@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [trump-administration, cbdc, crypto, white-house]
-sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-169.md, raw/badlands-brief-7c6.md, raw/badlands-brief-8db.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-623.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-e8f.md]
+sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-169.md, raw/badlands-brief-7c6.md, raw/badlands-brief-8db.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-623.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-e8f.md, raw/q-for-dummies-chapter-9.md, raw/setting-the-stage.md]
 confidence: medium
 ---
 
@@ -113,3 +113,21 @@ Trump's son-in-law was expected to join special envoy [[steve-witkoff|Steve Witk
 In late 2025, [[israel|Israel]] agreed to release [[mohammed-ibrahim|Mohammed Ibrahim]], a Palestinian-American teenager detained for over nine months, after Kushner intervened on the boy's behalf, according to a U.S. official and a second source cited by [[times-of-israel|The Times of Israel]].[16] Ibrahim, a Florida resident, had been held under [[administrative-detention|administrative detention]] without charge since February over allegations he threw stones at Israeli troops in the West Bank; his family lobbied U.S. lawmakers, and the case eventually reached Kushner, who contacted senior Israeli officials demanding his release.[16] Washington took particular issue with a U.S. citizen being held without charge by an allied country.[16] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote that Kushner "seems like a good man who takes a lot of flak from various segments of the MAGA coalition," and that the episode — likely a favor requested by Palestinian President Mahmoud Abbas — showed both his clout among Israelis and his willingness to use it for good.[16] Kushner was also named as a contributor, alongside Steve Witkoff and Marco Rubio, to Trump's 28-point Ukraine peace plan.[16]
 
 16. Badlands News Brief — "Turkish Delight, Somali Expansion, & The Racist History of Jingle Bells", URL: https://badlands.substack.com/p/badlands-news-brief-e8f
+
+## The 2017 Saudi trip in Q commentary
+
+Chapter 9 of the Badlands series [[q-for-dummies|Q for Dummies]] revisits Q drop #67's question about why Kushner had recently travelled to [[saudi-arabia|Saudi Arabia]], and reports that he made an unannounced trip there accompanied by the Deputy National Security Advisor and the Middle East Envoy just days before what the chapter calls the crumbling of the Saudi royal kingdom.[17] The author treats the timing as pointed rather than incidental, remarking sardonically that he is "sure it's nothing."[17]
+
+The chapter further states that Kushner and [[mohammed-bin-salman|Mohammed bin Salman]] are fairly close, and that bin Salman was the figure who ultimately ordered the [[saudi-purge|purge]] that entangled prominent and long-entrenched figures within the Saudi government and royal family.[17]
+
+17. Badlands Brief — "Q for Dummies - Chapter 9", URL: https://badlands.substack.com/p/q-for-dummies-chapter-9
+
+## Contacts with Sergey Kislyak and the Russia back channel
+
+In "Setting the Stage," Joe Lange examines reporting by The Independent that Kushner had at least three previously undisclosed contacts with Russian ambassador [[sergey-kislyak|Sergey Kislyak]] during and after the 2016 campaign, including two phone calls between April and November of that year, and that he had become a focus of the FBI's collusion inquiry after investigators began scrutinising [[michael-flynn|Michael Flynn]]'s Russian contacts.[18] Crucially, the same reporting stated that Kushner was not a target of the investigation — a detail Lange stresses as evidence that [[james-comey|Comey]]'s FBI had nothing on either man despite extensive surveillance.[18]
+
+Before the election, Kislyak's undisclosed discussions with Kushner and Flynn reportedly focused on counterterrorism and improving U.S.–Russian economic relations; after the November 8 election, the two discussed with Kislyak creating a back channel between [[donald-trump|Trump]] and [[vladimir-putin|Vladimir Putin]] that would bypass diplomats and intelligence agencies.[18] Lange treats this as evidence of a [[sovereign-alliance|sovereign alliance]] against the cabal and its personnel in the State Department and intelligence community, and compares it to Kushner's earlier back channel with Chinese President Xi Jinping, which he argues allowed both leaders to circumvent the deep state in their own countries.[18]
+
+On this reading the leak of Kushner's Kislyak communications to the press was not counterintelligence but an attempt to shut the channel down, and Lange raises the possibility that Kushner or Trump himself asked Kislyak to call Flynn about the new Obama sanctions in order to bait the trap that forced Comey to move.[18] Lange describes Kushner as Trump's most trusted aide, routinely tasked with important work behind the scenes.[18]
+
+18. Badlands Brief — "Setting the Stage", URL: https://badlands.substack.com/p/setting-the-stage

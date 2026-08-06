@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [federal-reserve, woodrow-wilson, history, banking]
-sources: [raw/going-off-the-federal-reservation.md]
+sources: [raw/going-off-the-federal-reservation.md, raw/real-patriots-dont-think-like-hitler-d42.md]
 confidence: medium
 ---
 
@@ -24,3 +24,10 @@ McFadden characterized the letter as striking evidence of how predatory interest
 
 ## References
 1. Badlands Brief — "Going off the (Federal) Reservation", URL: https://badlands.substack.com/p/going-off-the-federal-reservation
+
+
+## Sleepy Hollow Club membership
+
+House, described as President Wilson's handler, was a leading member of the [[sleepy-hollow-club|Sleepy Hollow Club]] alongside Senator [[nelson-aldrich|Nelson Aldrich]], both of whom [[matthew-ehret|Matthew Ehret]] credits with a key role in establishing the [[federal-reserve|Federal Reserve]] and the income tax in 1913.[2] House was also the subject of [[george-sylvester-viereck|George Sylvester Viereck]]'s 1932 bestseller The Strangest Friendship in History: Woodrow Wilson and Colonel House, which Ehret describes as possibly the first exposé of the "Jewish bankers conspiracy" behind the Federal Reserve and as the template for ninety years of American conspiracy research.[2]
+
+2. Badlands Brief — "Real Patriots Don't Think Like Hitler - Part 5: Nazi Fifth Columns in America", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-d42

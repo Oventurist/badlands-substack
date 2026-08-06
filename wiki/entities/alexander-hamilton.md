@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [founding-fathers, federalists, executive-power, united-states, history]
-sources: [raw/badlands-news-brief-b52.md, raw/in-defense-of-alexander-hamilton.md]
+sources: [raw/badlands-news-brief-b52.md, raw/in-defense-of-alexander-hamilton.md, raw/the-birth-of-americas-deep-state.md, raw/the-battle-for-control.md]
 confidence: medium
 ---
 
@@ -36,6 +36,25 @@ Contributor [[matthew-ehret|Matthew Ehret]] opens the Badlands Media "Founders &
 
 Hamilton was killed in 1804 by [[aaron-burr|Aaron Burr]], described by Ehret as a City of London-affiliated traitor who established the speculative Bank of Manhattan and thereby started Wall Street, derailing many of Hamilton's grand designs for the young republic.[2] The system nonetheless survived decades of attempts to destroy it.[2] Ehret argues that quite literally every American president who died in office by poison or bullet was re-activating the Hamiltonian system of constitutional banking shaped by Article I, Section 8 of the Constitution, protective tariffs, and internal improvements — a group including [[john-quincy-adams|John Quincy Adams]], Senator [[henry-clay|Henry Clay]], [[william-henry-harrison|William Harrison]], [[zachary-taylor|Zachary Taylor]], [[abraham-lincoln|Abraham Lincoln]], Secretary of State James Blaine, Garfield, [[william-mckinley|William McKinley]], [[franklin-d-roosevelt|Franklin Roosevelt]], and [[john-f-kennedy|John F. Kennedy]].[2] Outside the United States, leaders who broke their nations free of British imperial control were frequently students of the Hamiltonian system, including Russia's [[sergei-witte|Sergey Witte]], French President Sadi Carnot, Germany's [[friedrich-list|Friedrich List]], China's Sun Yat-sen, and Argentina's Luis Marie Drago.[2]
 
+## Blocking the Burr network
+
+In the third entry of the Badlands "Founders & Foundations" series, Ehret argues that between 1776 and his death in 1804 Hamilton used every ounce of his influence to defeat the traitorous movements launched by British operations in America — including from within his own [[federalist-party|Federalist Party]] — often under the leadership of [[aaron-burr|Aaron Burr]].[3] These operations, spanning Canadian United Empire Loyalists, New York financiers and southern slave interests, are collectively described as the founding fathers of today's [[deep-state|deep state]].[3] Hamilton's system of political economy, arising from his four reports of 1791, rested on national banking, productive credit generation for long-term internal improvements, industrial growth as against slave-based production, and protective tariffs, and set economic value not on the worship of money but on the creative mental activity of citizens.[3]
+
+During the 1800 presidential election Hamilton set aside his feud with [[thomas-jefferson|Jefferson]] to secure Jefferson's victory over Burr, explaining that Jefferson, "though too revolutionary in his notions, is yet a lover of liberty," whereas "Mr. Burr loves nothing but himself."[3] He repeated the intervention in 1804, defeating Burr's bid for Governor of New York by 35,000 votes to 28,000 for Morgan Lewis and thereby collapsing the [[new-england-secessionist-plot|New England secessionist plot]], which had hinged on detaching New York.[3] Burr responded by organizing the duel that killed Hamilton on July 12, 1804.[3]
+
+## Banking legacy contested
+
+Hamilton had worked to build the Bank of New York and then a national bank to keep the young USA — bankrupt, without industry, and suffering runaway inflation — from falling apart.[3] Ehret rejects the label of a "Rothschild run proto-Federal Reserve," noting that the dominant owner of Hamilton's bank was always meant to be the US government, that all directors had to live in the USA, and that 70% of state branch directors were obliged to reside in their respective states, unlike the JP Morgan-owned [[federal-reserve|Federal Reserve]] created as an independent entity in 1913.[3] The "sick joke" in the narrative of a heroic [[andrew-jackson|Andrew Jackson]] defeating the Bank, he writes, is that those who killed Hamilton and then killed the national bank in 1836 were the true agents of the British Empire.[3] Burr's [[manhattan-company|Manhattan Company]] water-utility scheme, converted into a speculative bank, gave rise to Wall Street as it is known today.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: The Free Speech Battlefield Heats Up", URL: https://badlands.substack.com/p/badlands-news-brief-b52
 2. Badlands Brief — "In Defense of Alexander Hamilton", URL: https://badlands.substack.com/p/in-defense-of-alexander-hamilton
+3. Badlands Brief — "The Birth of America's Deep State", URL: https://badlands.substack.com/p/the-birth-of-americas-deep-state
+
+## The first central bank
+
+In "The Battle for Control," Badlands Media contributor [[joe-lange|Joe Lange]] credits Hamilton with creating the very first central bank in America by convincing President [[george-washington|George Washington]] and [[congress|Congress]] to charter a national bank.[4] The [[first-bank-of-the-united-states|First Bank of the United States]] was needed, on the account Lange cites, because the government carried a colossal debt from the Revolutionary War and each state used a different form of currency; Hamilton conceived the bank to handle that debt and to create a standard currency.[4] The charter was drafted by Congress in 1791 and signed by Washington that February.[4]
+
+Hamilton's constitutional argument was that a national bank was permissible because the Constitution did not specifically deny it, a position [[thomas-jefferson|Thomas Jefferson]] contested on the ground that the government had no authority to establish corporations.[4] Lange frames the resulting dispute as the start of the long struggle over the limits of federal power and, in his view, the beginning of the corruption of the Constitution.[4]
+
+4. Badlands Brief — "The Battle for Control", URL: https://badlands.substack.com/p/the-battle-for-control

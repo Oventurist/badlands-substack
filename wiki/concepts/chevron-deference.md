@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [supreme-court, administrative-state, regulation, law]
-sources: [raw/badlands-news-brief-447.md, raw/badlands-news-brief-aac.md, raw/q-for-dummies-chapter-15.md]
+sources: [raw/badlands-news-brief-447.md, raw/badlands-news-brief-aac.md, raw/q-for-dummies-chapter-15.md, raw/spear-of-justice.md]
 confidence: medium
 ---
 
@@ -26,6 +26,10 @@ Badlands Media commentators treated the decision as a decisive blow against what
 
 In the following week's brief, [[burning-bright|Burning Bright]] returned to the ruling, describing the overturning of Chevron as moving the benefit of the doubt "firmly from [them] to us" and grouping it with [[sec-v-jarkesy|SEC v. Jarkesy]] as evidence that the term's most seismic decisions were structural rather than headline-grabbing, even as [[trump-v-united-states|presidential immunity]] dominated coverage.[2] He credited [[donald-trump|Donald Trump]]'s Supreme Court appointments with the shift and argued that the establishment's dread over the weekend had little to do with Trump or [[joe-biden|Joe Biden]] personally.[2]
 
+## Post-Chevron Litigation Terrain (2025 analysis)
+
+An August 2025 Badlands Media essay treated the end of Chevron deference in [[loper-bright-enterprises-v-raimondo|Loper Bright]] as one of two decisive changes to the legal terrain governing the [[administrative-state|administrative state]], the other being [[sec-v-jarkesy|SEC v. Jarkesy]].[4] The author argued that these rulings changed "the governing equations" of agency power and that Texas Attorney General [[ken-paxton|Ken Paxton]]'s cases were already flowing into the altered terrain to lock in interpretations that shrink agency reach.[4] In the essay's phased model of escalation, the end of Chevron deference and the curbing of in-house agency prosecutions form part of the convergent "Tsunami" stage, combining with discovery material from pharmaceutical, [[esg|ESG]], and censorship-collusion litigation as other states replicate the precedents.[4]
+
 ## References
 1. Badlands Brief — "The Old Guard Braces for Impact as Panic Spreads", URL: https://badlands.substack.com/p/badlands-news-brief-447
 2. Badlands Brief — "Badlands News Brief: Wins at Home and Deals Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-aac
@@ -35,3 +39,4 @@ In the following week's brief, [[burning-bright|Burning Bright]] returned to the
 Chapter 15 of the [[q-for-dummies|Q for Dummies]] series, published in July 2024, cited the reversal of the Chevron deference doctrine together with the [[presidential-immunity|presidential immunity]] ruling as monumental Supreme Court decisions that dealt a major blow to the [[deep-state|deep state]], and treated the two rulings as a partial cause of what the author described as establishment panic heading into the November election.[3]
 
 3. Badlands Brief — "Q for Dummies - Chapter 15", URL: https://badlands.substack.com/p/q-for-dummies-chapter-15
+4. Badlands Brief — "Spear of Justice: Ken Paxton and the Bleeding Edge", URL: https://badlands.substack.com/p/spear-of-justice

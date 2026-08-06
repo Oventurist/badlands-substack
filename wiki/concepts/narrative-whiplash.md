@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [information-war, media-analysis, badlands-lexicon]
-sources: [raw/badlands-news-brief-ee7.md]
+sources: [raw/badlands-news-brief-ee7.md, raw/right-the-ship.md]
 confidence: medium
 ---
 
@@ -24,3 +24,9 @@ Burning Bright concluded that the net effect of this whiplash was to position [[
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Trump Trials, Peacemakers & Narrative Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-ee7
+
+## Recentering amid narrative whiplash (January 2023)
+
+In "Right the Ship" (January 12, 2023), [[burning-bright|Burning Bright]] described the opening days of 2023 as a period in which immediate analysis of "converging, conflicting and cascading" Narrative Deployments spun out instances of Narrative Whiplash as readily as cognitive dissonance, driven by the continued and escalating weaponization of what he called the Globalist Media Industrial Complexes and by fierce ideological and political intrafaction cognitive combat.[2] His prescription was not to treat the resulting confusion as failure but to "center ourselves, reframe our perspectives" and apply an Actual–Potential paradigm to the events on the board.[2] Readers scratching their heads at the latest deployment from either side, he wrote, should read it as a sign that the Systemic paradigm of the [[deep-state|Deep State]] "is beginning to wobble and quake."[2]
+
+2. Badlands Brief — "Right the Ship", URL: https://badlands.substack.com/p/right-the-ship

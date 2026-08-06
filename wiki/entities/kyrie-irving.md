@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [nba, basketball, free-speech, censorship, media]
-sources: [raw/badlands-news-brief-547.md, raw/ivan-provorov-takes-a-stand.md]
+sources: [raw/badlands-news-brief-547.md, raw/ivan-provorov-takes-a-stand.md, raw/sports-in-society.md]
 confidence: medium
 ---
 
@@ -30,6 +30,13 @@ Badlands Media contributor [[absolutetruth1776]] argued that the timing — the 
 
 Irving also stood against the COVID-19 vaccine and, as a result, was not allowed to play home games in Brooklyn.[2] He never relented and remained unvaccinated despite enduring public ridicule from the sports media establishment.[2] Badlands cited him alongside [[aaron-rodgers|Aaron Rodgers]], [[novak-djokovic|Novak Djokovic]] and [[ivan-provorov|Ivan Provorov]] as examples of athletes willing to take a stand against prevailing agendas in professional sport.[2]
 
+During the COVID-19 pandemic Irving was adamant that he would not be vaccinated and was consequently barred from playing in any arena that required proof of vaccination, including his home arena in Brooklyn.[3] Badlands Media stresses that no one went to bat for him — not his team, not his owner, and not the National Basketball Players Association — leaving him to stand on that hill within the organization alone, and in doing so relaying to millions of fans the message that it is acceptable to take a stand.[3]
+
+## Assessment in "Sports in Society"
+
+The Badlands essay "Sports in Society" presents Irving as its exemplar of an athlete who has stood in his truth with conviction, tracing his willingness to court controversy from his time at [[duke-university|Duke University]], where he voiced Flat Earth opinions, through his tenure with the [[brooklyn-nets|Brooklyn Nets]].[3] The article characterizes his later suspension for sharing a documentary link — without comment of his own — as not merely an attack on free speech but "an attack on thought," and as an attempt by unnamed powers to make an example of him for holding an independent opinion.[3] While acknowledging that Irving issued a forced and vague apology, the author salutes him for taking a stand over two years within what is described as arguably the most controlled and corrupt sporting organization in America.[3] The essay also asks rhetorically how many people declined vaccination because of Irving and [[aaron-rodgers|Aaron Rodgers]], contending that more people were awakened by such examples than is generally realized.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: State of Confusion, Kamala Mayhem & Boiled Eggs", URL: https://badlands.substack.com/p/badlands-news-brief-547
 2. Badlands Brief — "Ivan Provorov Takes A Stand", URL: https://badlands.substack.com/p/ivan-provorov-takes-a-stand
+3. Badlands Brief — "Sports in Society", URL: https://badlands.substack.com/p/sports-in-society

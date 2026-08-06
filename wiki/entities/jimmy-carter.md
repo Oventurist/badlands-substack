@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [president, democrat, obituary, nobel-peace-prize, georgia]
-sources: [raw/badlands-news-brief-08e.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-d36.md, raw/badlands-news-brief-dcb.md, raw/operation-cyclone-the-seeds-of-terror.md]
+sources: [raw/badlands-news-brief-08e.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-d36.md, raw/badlands-news-brief-dcb.md, raw/operation-cyclone-the-seeds-of-terror.md, raw/reagan-20.md]
 confidence: high
 ---
 
@@ -57,3 +57,9 @@ Carter, the 39th U.S. President, died at the age of 100 on Sunday, December 29, 
 Trump's public statement on the death was read by [[burning-bright|Burning Bright]] as containing deliberate signal rather than mere platitude.[5] Trump said "the challenges Jimmy faced as President came at a pivotal time for our country and he did everything in his power to improve the lives of all Americans. For that, we all owe him a debt of gratitude," and added that while he "strongly disagreed with him philosophically and politically," Carter "truly loved and respected our Country," calling him "a truly good man."[5] Trump also noted that Carter "was also very consequential, far more than most Presidents, after he left the Oval Office."[5] Badlands commentary took this as evidence that Carter was not simply another establishment figure, framing the conflict as one between "puppets and puppet masters."[5]
 5. Badlands Brief — "Badlands News Brief: AI Energy Solutions & Turning Water Into White Gold", URL: https://badlands.substack.com/p/badlands-news-brief-dcb
 6. Badlands Brief — "Operation Cyclone - The Seeds of Terror", URL: https://badlands.substack.com/p/operation-cyclone-the-seeds-of-terror
+
+## The Department of Education and the Iran hostages
+
+A February 2025 Badlands feature by [[erik-carlson|Erik Carlson]] noted that [[ronald-reagan|Ronald Reagan]] refused to fund the [[department-of-education|US Department of Education]] newly created under Carter.[7] Carlson also recalled that when Reagan campaigned for the presidency Iran was holding 52 American hostages, and that they were released once Reagan became president.[7]
+
+7. Badlands Brief — "Reagan 2.0", URL: https://badlands.substack.com/p/reagan-20

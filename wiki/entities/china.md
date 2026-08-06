@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [china, energy, oil, geopolitics, sovereign-alliance]
-sources: [raw/badlands-brief-414.md, raw/badlands-brief-5a2.md, raw/badlands-brief-884.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-c14.md, raw/badlands-news-brief-ea6.md, raw/brightlands-taiwan-tipping.md]
+sources: [raw/badlands-brief-414.md, raw/badlands-brief-5a2.md, raw/badlands-brief-884.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-c14.md, raw/badlands-news-brief-ea6.md, raw/brightlands-taiwan-tipping.md, raw/the-accomplishments-of-president-a2b.md]
 confidence: medium
 ---
 
@@ -97,6 +97,10 @@ On Tuesday, September 10, 2024, U.S. Deputy Secretary of State [[kurt-campbell|K
 
 [[burning-bright|Burning Bright]] argued that the Media Industrial Complex would use such statements to cast an emergent Russia–China–Iran military triumvirate as a "New Axis" posing an existential threat to the Globalist West, noting that Russia had announced its "Ocean 2024" global military exercises which China would join, while both backed Iran publicly amid spiraling Israel chaos.[13] He predicted [[donald-trump|Donald Trump]] would allow this narrative before codifying peace and trade deals already settled.[13]
 
+## Trump Intellectual Property Probe (2017)
+
+On a Monday in August 2017, Donald Trump authorized an inquiry into China's alleged theft of intellectual property, the first direct trade measure taken by his administration against Beijing, though contemporary reporting judged it unlikely to prompt near-term change.[15] Badlands Media's retrospective on Trump's economic record characterized the probe as a direct shot at China's IP theft that carried consequences for subsequent trade negotiations and signaled that the United States would no longer be pushed around by the CCP.[15]
+
 ## References
 1. Badlands Brief — "Narcissistic Sociopathy & Rebranded Sex Robots For Kids", URL: https://badlands.substack.com/p/badlands-brief-414
 2. Badlands Brief — "Tina Peters' Sentence Commuted; ISIS Killed in Africa", URL: https://badlands.substack.com/p/badlands-brief-5a2
@@ -120,3 +124,4 @@ In "Taiwan Tipping," published in October 2022 as the first entry in the ongoing
 The author stated a belief that "there are two Chinas," paralleling his view that there is an American contingent of patriots and an "American" faction of Deep State operators, while conceding he could not penetrate the Chinese theater deeply enough to identify which actors belonged to which faction.[14] He wrote that the timing of [[xi-jinping|Xi Jinping]]'s escalatory rhetoric following Putin's implied some level of coordination, and that from a narrative standpoint Russia and China formed the most formidable pair of adversaries to the western hegemony since the Axis powers of World War II — while adding that he personally did not accept the premise that Putin and Xi are "bad."[14]
 
 14. Badlands Brief — "Taiwan Tipping: The Curious Case of Intermittent Escalation", URL: https://badlands.substack.com/p/taiwan-tipping
+15. Badlands Brief — "The Accomplishments of President Trump - Part 2", URL: https://badlands.substack.com/p/the-accomplishments-of-president-a2b

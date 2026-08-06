@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [artificial-intelligence, technology, singularity, censorship, globalism]
-sources: [raw/artificial-intelligence.md, raw/badlands-brief-f62.md, raw/dark-equation.md, raw/dont-bring-shiny-rocks-to-digital.md, raw/oppenheimer-and-the-central-narrative.md]
+sources: [raw/artificial-intelligence.md, raw/badlands-brief-f62.md, raw/dark-equation.md, raw/dont-bring-shiny-rocks-to-digital.md, raw/oppenheimer-and-the-central-narrative.md, raw/super-computers-in-the-info-war.md]
 confidence: medium
 ---
 
@@ -82,3 +82,11 @@ The essay drew on Jeff Booth's book *The Price of Tomorrow* for the claim that M
 
 The author argued the danger is not that digital forensics will be unavailable but that, absent an explicit and easy-to-execute verification process, the public will capitulate to "the sea of infinite opportunity of convenience and fantasy" — noting that basic human-generated scams such as the long-running "Nigerian prince" email fraud still cost Americans hundreds of thousands of dollars a year.[4] He connected the hazard to [[fifth-generation-warfare|fifth-generation warfare]] and AI-enabled psychological operations, and pointed to BlackRock's Aladdin system as evidence of how long AI tools have been operating and how much control they have already accumulated.[4] His proposed mitigation was to impose "severe physical costs" on AI-generated data via [[bitcoin|Bitcoin]] micro-transactions.[4]
 5. Badlands Brief — "'Oppenheimer' & The Central Narrative", URL: https://badlands.substack.com/p/oppenheimer-and-the-central-narrative
+
+## Predictive computing and the thirty-year lag (Carlson, 2023)
+
+In an April 12, 2023 essay, [[erik-carlson|Erik Carlson]] argued that public excitement over [[chatgpt|ChatGPT]] obscures how long comparable systems have been in operation, invoking the claim that technology released to the public has already served government agencies and the military for up to thirty years — implying AI has been influencing the public since the early 1990s.[6] He warned that AI can be programmed with political bias and that the most advanced bots on social platforms are precisely the ones users do not recognise.[6]
+
+Carlson distinguished predictive AI from conversational assistants, observing that Alexa and Siri command all the information on the internet yet answer anything beyond simple queries in a childlike way.[6] The serious capability, in his framing, is scenario simulation: [[monte-carlo-simulation|Monte Carlo]] engines such as [[blackrock|BlackRock]]'s [[aladdin|Aladdin]] that run vast numbers of scenarios to identify likely outcomes, which he credits with both extraordinary financial success and, through overconfidence, the [[2008-financial-crisis|2008 collapse]].[6] He noted that today's supercomputers are far more powerful and far better fed with data, since the iPhone's arrival in 2007 vastly increased the volume of personal information available, allowing behaviour and reaction to be predicted more accurately than he cared to believe.[6] Both the [[black-hats|black hats]] and the [[white-hats|white hats]], he concluded, would be foolish not to use such tools.[6]
+
+6. Badlands Brief — "Super Computers in the Info War", URL: https://badlands.substack.com/p/super-computers-in-the-info-war

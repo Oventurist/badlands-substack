@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [nsa, intelligence, white-hats, qanon, spygate]
-sources: [raw/q-for-dummies-chapter-19.md, raw/q-for-dummies-chapter-21.md]
+sources: [raw/q-for-dummies-chapter-19.md, raw/q-for-dummies-chapter-21.md, raw/q-for-dummies-chapter-3.md]
 confidence: medium
 ---
 
@@ -24,9 +24,16 @@ The author also notes as a "fun side note" that Rogers was the 17th Director of 
 
 The chapter advances the author's belief that [[edward-snowden|Edward Snowden]] was working with Rogers to expose the corruption and mass surveillance being conducted by the NSA, and cites Snowden's disclosures as a reason not to regard him as a black hat.[1]
 
+## Q drop #20
+
+Chapter 3 of [[q-for-dummies|Q for Dummies]] identifies Admiral Rogers as the answer to the question posed in [[qanon|Q]] drop #20 of November 1, 2017 — who President [[donald-trump|Trump]] met with.[3] The author states that the purpose of the meeting was to warn Trump about further spying that was taking place, and connects this to the renovation of certain rooms in the [[white-house|White House]] during Trump's first administration, which he says was ostensibly carried out to remove listening devices planted to spy on the President, his family and his administration.[3]
+
+The drop's follow-up questions about where the meeting was held and why phones were not allowed in the room are read as a direct nod to a [[sensitive-compartmented-information-facility|SCIF]], implying discussions of a highly sensitive nature bearing on national security and on [[deep-state|Deep State]] attempts to remove Trump from office.[3]
+
 ## References
 1. Badlands Brief — "Q for Dummies - Chapter 19", URL: https://badlands.substack.com/p/q-for-dummies-chapter-19
 2. Badlands Brief — "Q for Dummies - Chapter 21", URL: https://badlands.substack.com/p/q-for-dummies-chapter-21
+3. Badlands Brief — "Q for Dummies - Chapter 3", URL: https://badlands.substack.com/p/q-for-dummies-chapter-3
 
 ## Chapter 21 reference
 

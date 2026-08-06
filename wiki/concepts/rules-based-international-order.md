@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [geopolitics, unipolarity, international-law]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/rattling-a-broken-saber.md]
 confidence: medium
 ---
 
@@ -22,3 +22,10 @@ The article contends that no attack on Russia or China could be carried out with
 
 ## References
 1. Badlands Brief — "A Gateway to a New World of Cooperation", URL: https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation
+
+## Disruption by Trump's second term
+
+Badlands contributor Ryan DeLarme argued in April 2025 that President [[donald-trump|Donald Trump]] had "completely scrambled" the decrepit, almost centuries-old system variously called the "liberal world order" or the "international rules-based order."[2] He presented the floundering attempts by figures such as [[kaja-kallas|Kaja Kallas]] and [[ursula-von-der-leyen|Ursula von der Leyen]] to keep the war machine humming without American backing as evidence that the system does not function absent the United States.[2]
+
+## References
+2. Badlands Brief — "Rattling a Broken Saber?", URL: https://badlands.substack.com/p/rattling-a-broken-saber

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [colorado, republican-party, elections, ballot-access]
-sources: [raw/badlands-news-brief-8cb.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-d5c.md]
+sources: [raw/badlands-news-brief-8cb.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-d5c.md, raw/reprehensible-representation.md]
 confidence: medium
 ---
 
@@ -30,8 +30,13 @@ On Wednesday, December 20, 2023, the day after the [[colorado-supreme-court|Colo
 
 Badlands writer [[ashe-in-america|Ashe in America]] described the announcement as more than a knee-jerk reaction, situating it within a years-long battle to ensure that only Republican voters select Republican candidates — a fight largely centred on closing the primary and restoring the full authority of the caucus, which she had written about in her Glendale Cherry Creek column in June 2023.[3] Technically the state GOP can withdraw from the primary only if it receives a waiver from the [[republican-national-committee|Republican National Committee]], and such a move would be opposed by state officials and by the donor class of the state and national party; similar efforts by America First factions had failed in recent months.[3] Ashe reported that sources within the state party said they would pursue the option if forced to by progressives.[3] The Colorado primary was set for March 5, 2024, while the Republican Assembly at which candidates would ostensibly be selected fell on March 29, 2024, meaning the general election ballot in Colorado might have to work its way through the courts again.[3] She closed by urging the party to also fight the underlying insurrection narrative.[3]
 
+## August 2023 letter on January 6 detainees
+
+On August 21, 2023, [[todd-watkins|Todd Watkins]], vice chairman of the [[el-paso-county-gop|El Paso County GOP]], sent a letter to the state party urging assistance in contacting legislators regarding the treatment and handling of Americans arrested or charged in connection with the January 6, 2021 incident at the US Capitol; more than 200 Coloradans, many of them Republican officials, signed on in support.[4] Congressman [[ken-buck|Ken Buck]] replied on September 1, 2023 with a letter disputing the claims and telling state party leaders it was "sad that Republican leaders are misdirecting the energy and resources of Republican activists" away from the failures of the Biden administration.[4] Badlands contributor [[ashe-in-america|Ashe in America]] published a detailed rebuttal of Buck's assertions using reporting from J6 journalist [[mel-hawley|Mel Hawley]].[4]
+
 ## References
 
 1. Badlands Brief — "SCOTUS Enters the Fray as Biden Barks at MAGA Hats", URL: https://badlands.substack.com/p/badlands-news-brief-8cb
 2. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb
 3. Badlands Media — "Badlands News Brief: Colorado Fallout (and Exposure) Continues", URL: https://badlands.substack.com/p/badlands-news-brief-d5c
+4. Badlands Brief — "Reprehensible Representation", URL: https://badlands.substack.com/p/reprehensible-representation

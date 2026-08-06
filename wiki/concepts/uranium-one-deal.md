@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [uranium, russia, clinton-foundation, corruption, qanon]
-sources: [raw/america-for-sale-part-3.md, raw/badlands-news-brief-49a.md, raw/disinformation-is-necessary.md, raw/everything-is-connected.md, raw/irregular-warfare.md, raw/q-for-dummies-chapter-6.md]
+sources: [raw/america-for-sale-part-3.md, raw/badlands-news-brief-49a.md, raw/disinformation-is-necessary.md, raw/everything-is-connected.md, raw/irregular-warfare.md, raw/q-for-dummies-chapter-6.md, raw/the-biggest-cover-up-in-american.md, raw/the-biggest-boomerang-in-history.md]
 confidence: medium
 ---
 
@@ -65,6 +65,14 @@ The chapter reads drop #46 as indicating that the public had been given only a s
 
 On Russia, the chapter argues Democrats habitually cast Russia as the enemy so that any Russian disclosure of Democratic wrongdoing can be dismissed as propaganda, and that Obama's "reset" of relations with Russia was specifically intended to ease uranium exports.[6] [[justin-trudeau|Justin Trudeau]] is said to be alluded to without being named, on the grounds that Canada played a vital role in the transaction.[6] Drop #50 is read as asking how Iran and [[north-korea|North Korea]] both procured uranium, with the answer being the Uranium One deal, and as implying that the Iran hostage exchange was a cover for cash payments connected to the scandal and possibly to promises made to Iran and the [[muslim-brotherhood|Muslim Brotherhood]] that could not be kept after [[hillary-clinton|Hillary Clinton]] lost the election.[6] The chapter also links the deal to the drop #49 account of secret meetings involving Senator [[chuck-grassley|Chuck Grassley]] and a Uranium One informant.[6]
 
+## "The biggest cover-up in American history"
+
+In a March 2025 feature, Badlands contributor [[joe-lange|Joe Lange]] calls Uranium One "the biggest cover-up in American history," arguing that the [[barack-obama|Obama administration]] approved the sale to the Russians and then concealed the onward transfer of American uranium from Canada to Europe and on to Asia.[7] Citing [[qanon|Q]] drop #199 of November 22, 2017 — "U1 - CA - EU - ASIA - IRAN/NK" — he contends the final destinations were [[iran|Iran]] and [[north-korea|North Korea]], and that the shipments were a precursor to Obama's Iran nuclear deal, which he says was classified at the highest level specifically to keep it from [[congress|Congress]].[7] In his account both states were controlled assets rather than genuine threats, and the arrangement was driven by money.[7]
+
+Lange traces the exposure of the scandal to the FBI's undercover investigation of [[vadim-mikerin|Vadim Mikerin]] and [[tenex|Tenex]], the [[rosatom|Rosatom]] subsidiary, which documented bribes, extortion and money laundering as early as 2009 — before the [[committee-on-foreign-investment-in-the-united-states|Committee on Foreign Investment in the United States]], on which [[hillary-clinton|Hillary Clinton]] and [[eric-holder|Eric Holder]] sat, approved the transaction.[7] Court and Energy Department records showed that Mikerin bribed executives of the trucking firm [[transport-logistics-international|Transport Logistics International]] with more than $2 million in kickbacks, and Lange argues Uranium One's exports were hidden by adding it to that firm's export roster instead of granting it a licence.[7] The probe began under FBI Director [[robert-mueller|Robert Mueller]], was supervised by then-U.S. Attorney [[rod-rosenstein|Rod Rosenstein]] and then-Assistant FBI Director [[andrew-mccabe|Andrew McCabe]], and ended in late 2015 under Director [[james-comey|James Comey]] with narrow plea deals and almost no publicity.[7]
+
+Reporting by [[john-solomon|John Solomon]] in The Hill first revealed the existence of the informant and the undercover case, which is how Senator [[chuck-grassley|Chuck Grassley]] learned of it; Grassley then demanded that the [[department-of-justice|Justice Department]] lift the gag order preventing the informant from testifying.[7] Q drop #49 noted Grassley's unusually heavy security detail and secret sessions during that period, and referenced material filed under [[state-secrets-privilege|"State Secrets"]].[7] Lange argues that Sessions' refusal to appoint a special counsel was deliberate misdirection concealing the [[huber-investigation|Huber investigation]], a [[racketeer-influenced-and-corrupt-organizations-act|RICO]] effort generating [[sealed-indictments|sealed indictments]], and that Uranium One, the [[steele-dossier|Dossier]] and the [[clinton-foundation|Clinton Foundation]] form a single interconnected case in which the framing of a sitting president amounts to treason.[7]
+
 ## References
 1. Badlands Brief — "America for Sale - Part 3", URL: https://badlands.substack.com/p/america-for-sale-part-3
 2. Badlands Brief — "Badlands News Brief: FOX Trots, Montana Maintains & Congress Convenes", URL: https://badlands.substack.com/p/badlands-news-brief-49a
@@ -72,3 +80,12 @@ On Russia, the chapter argues Democrats habitually cast Russia as the enemy so t
 4. Badlands Brief — "Everything Is Connected", URL: https://badlands.substack.com/p/everything-is-connected
 5. Badlands Brief — "Irregular Warfare", URL: https://badlands.substack.com/p/irregular-warfare
 6. Badlands Brief — "Q for Dummies - Chapter 6", URL: https://badlands.substack.com/p/q-for-dummies-chapter-6
+7. Badlands Brief — "The Biggest Cover-up in American History", URL: https://badlands.substack.com/p/the-biggest-cover-up-in-american
+
+## References in "The Biggest Boomerang In History"
+
+[[joe-lange|Joe Lange]]'s article restates his contention that [[robert-mueller|Robert Mueller]] had cut a deal to avoid prosecution over Uranium One and had therefore flipped — a point he presents as essential to understanding why the Special Counsel investigation behaved as it did during the [[michael-flynn|Flynn]] case.[8]
+
+The deal also appears among the subjects Lange says [[hillary-clinton|Hillary Clinton]] concealed on her [[hillary-clinton-private-email-server|private server]], alongside Benghazi and the spy operation against the Trump campaign, and is listed in Q drop 4845 of October 9, 2020 among the matters tied to the [[clinton-foundation|Clinton Foundation]].[8] These claims reflect Badlands Media interpretation rather than established fact.
+
+8. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history

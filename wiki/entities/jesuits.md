@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [history, religion, intelligence-operations, native-americans, colonial-america]
-sources: [raw/a-new-american-renaissance.md, raw/legacy-of-the-bavarian-illuminati-8f0.md]
+sources: [raw/a-new-american-renaissance.md, raw/legacy-of-the-bavarian-illuminati-8f0.md, raw/soul-governance.md]
 confidence: low
 ---
 
@@ -26,6 +26,13 @@ Friedrich Schiller wrote about these methods in his 1792 study *The Jesuit Gover
 
 Pope Clement XIV dissolved the Jesuit Order in 1773.[2] In that same year [[adam-weishaupt|Adam Weishaupt]] — himself educated by the Jesuits — became the first layman to occupy the chair of canon law at the [[university-of-ingolstadt|University of Ingolstadt]], a prestigious position that had been held by a Jesuit for the previous ninety years.[2] When Weishaupt founded the [[bavarian-illuminati|Order of the Illuminati]] on May 1, 1776, the Order was secret, hierarchical and explicitly modeled on the Jesuits.[2] [[baron-von-knigge|Baron von Knigge]], on breaking with Weishaupt in 1784, was convinced of his Jesuitism and accused him of being "a Jesuit in disguise."[2]
 
+## Depiction in "Soul Governance"
+
+The Badlands Media essay [[soul-governance|Soul Governance]] casts the Jesuits as the technical architects of a legal-spiritual control system rather than as missionaries, calling them "software engineers of empire" and "masters of coded oaths, hidden meanings, and spiritual double-speak."[3] The essay claims that their oath of obedience incorporates a clause of mental reservation permitting a Jesuit to speak falsely while appearing truthful by privately retaining the intended meaning of his words.[3]
+
+In that account the order turned courts into temples and judges into priests, and reframed "understanding" as "standing under," thereby administering the jurisdictional claim asserted in [[unam-sanctam|Unam Sanctam]] and executed through [[cestui-que-vie-trust|Cestui Que Vie trusts]].[3] The essay summarizes the alleged outcome by saying the Jesuits "did not remove God — they replaced Him with a contract," producing a conception of the divine so contractual and laced with guilt, confession, and penance that the soul recoiled from it.[3]
+
 ## References
 1. Badlands Brief — "A New American Renaissance", URL: https://badlands.substack.com/p/a-new-american-renaissance
 2. Badlands Brief — "Legacy of the Bavarian Illuminati - Part 2", URL: https://badlands.substack.com/p/legacy-of-the-bavarian-illuminati-8f0
+3. Badlands Brief — "Soul Governance", URL: https://badlands.substack.com/p/soul-governance

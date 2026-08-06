@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, democratic-party, california, swalwell]
-sources: [raw/q-for-dummies-chapter-4.md, raw/badlands-brief-949.md, raw/badlands-brief-9ac.md, raw/badlands-brief-98d.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-441.md, raw/badlands-news-brief-8f3.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-d1c.md, raw/badlands-news-brief-d73.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-e7c.md, raw/badlands-news-brief-f61.md, raw/everything-is-connected.md, raw/moves-and-countermoves.md, raw/q-for-dummies-chapter-2.md]
+sources: [raw/badlands-brief-949.md, raw/badlands-brief-9ac.md, raw/badlands-brief-98d.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-441.md, raw/badlands-news-brief-8f3.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-d1c.md, raw/badlands-news-brief-d73.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-e7c.md, raw/badlands-news-brief-f61.md, raw/everything-is-connected.md, raw/moves-and-countermoves.md, raw/q-for-dummies-chapter-2.md, raw/q-for-dummies-chapter-3.md, raw/q-for-dummies-chapter-4.md]
 confidence: medium
 ---
 
@@ -104,6 +104,10 @@ Badlands' July 2024 commentary noted that the articles of impeachment against [[
 
 Badlands contributor Joe Lange treats two of Nancy Pelosi's foreign trips as evidence of panic among figures compromised by shadow-government dealings with rogue states.[19] Reuters reported that the House Speaker confirmed she would make a snap visit to [[armenia|Armenia]] after border clashes with [[azerbaijan|Azerbaijan]] killed more than 200 people, traveling with two Armenian-American members of Congress on what she called a "rather spontaneous" decision.[19] Lange asks why the Speaker would make such a trip immediately after the CIA lost control of a proxy state.[19] Separately, in an April 2018 interview — given while she was publicly opposing Republican farm bill cuts to the [[supplemental-nutrition-assistance-program|SNAP]] program — Pelosi admitted she had traveled to [[north-korea|North Korea]], where officials told her, "Look, we just make these to sell. You want to buy them? We'll sell them to you," in reference to ballistic missiles.[19] [[qanon|Q]] flagged the admission as a "Big ERROR," said the words used regarding intelligence and buying and selling "will bury her," and instructed readers to "think net worth"; Lange argues she visited both rogue states for the same reason and feared exposure of collusion in helping them acquire nuclear weapons with taxpayer money, a theme he links to the [[uranium-one-deal|Uranium One deal]] investigation.[19]
 
+## Q drop #18 and net worth
+
+Chapter 3 of [[q-for-dummies|Q for Dummies]], analysing [[qanon|Q]] drop #18 of November 1, 2017, argues that Pelosi's net worth is "absurd for a career politician," placing it at roughly $170 million at the time of writing in December 2023.[23] The author contends that such wealth is not normal for a career politician absent bribery or insider trading, and reads the drop as pointing toward exactly that — a suggestion he says was later signalled to the American public through congressional stock-trading scandals.[23]
+
 ## References
 1. Badlands Brief — "Tulsi Exposes Traitors; Peace Talks in Pakistan", URL: https://badlands.substack.com/p/badlands-brief-949
 2. Badlands Brief — "Nazi-Related Cover Ups & Formerly Secret Treason", URL: https://badlands.substack.com/p/badlands-brief-9ac
@@ -154,3 +158,4 @@ Badlands' "Q for Dummies" Chapter 2 reads Q drop #6 (October 29, 2017) as direct
 Chapter 4 of the [[q-for-dummies|Q for Dummies]] series reads drop #25 of November 1, 2017 as pointing back to the previous drop and indicating that the resignations under discussion also related to what was then being seen with [[john-mccain|John McCain]] and Pelosi.[22] The author notes that Pelosi subsequently stepped down from her leadership role, treating the sequence as consistent with the drop.[22]
 
 22. Badlands Media — "Q for Dummies - Chapter 4", URL: https://badlands.substack.com/p/q-for-dummies-chapter-4
+23. Badlands Brief — "Q for Dummies - Chapter 3", URL: https://badlands.substack.com/p/q-for-dummies-chapter-3

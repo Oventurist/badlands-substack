@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, international-institutions, debt, middle-east]
-sources: [raw/badlands-brief-bf7.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-f8a.md, raw/one-of-the-most-transformative-moments.md]
+sources: [raw/badlands-brief-bf7.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-f8a.md, raw/one-of-the-most-transformative-moments.md, raw/real-patriots-dont-think-like-hitler-196.md]
 confidence: low
 ---
 
@@ -48,6 +48,10 @@ Badlands Media documented the IMF's use of loan conditionality to suppress digit
 
 In January 2022 the IMF Executive Board "urged" [[el-salvador|El Salvador]] to abandon [[bitcoin|Bitcoin]]'s legal tender status and to impose stricter regulation of the country's wallet, according to a Reuters report on the Fund's annual consultation statement.[5] El Salvador defied the pressure campaign; by April 2023, as news of Argentina's bailout broke, Salvadoran Bitcoiners noted that Argentina was defaulting while El Salvador had paid off its bonds.[5]
 
+## Capture of the Bretton Woods institutions
+
+[[matthew-ehret|Matthew Ehret]] writes that [[harry-dexter-white|Harry Dexter White]], the IMF's first head, defended [[franklin-d-roosevelt|FDR]]'s program to create a new anti-imperial system of finance, and had led the fight at [[bretton-woods-conference|Bretton Woods]] in July 1944 to dissolve the [[bank-for-international-settlements|Bank for International Settlements]].[6] White's 1948 death, while campaigning for [[henry-wallace|Henry Wallace]]'s presidential bid, put an end to anti-colonialists running the IMF.[6] In the decades after the war the same financiers who had brought the world fascism went back to work infiltrating the Bretton Woods institutions, turning the IMF and the [[world-bank|World Bank]] from tools of development into tools of enslavement — a process documented in [[john-perkins|John Perkins]]'s 2004 book *Confessions of an Economic Hit Man*.[6]
+
 ## References
 
 1. Badlands Brief — "Border Battles & Diplomatic Duets", URL: https://badlands.substack.com/p/badlands-brief-bf7
@@ -55,3 +59,4 @@ In January 2022 the IMF Executive Board "urged" [[el-salvador|El Salvador]] to a
 3. Badlands Brief — "A Not so Brief Full of Sovereign SIGNAL", URL: https://badlands.substack.com/p/badlands-news-brief-711
 4. Badlands Brief — "Badlands News Brief: Economic Strife Prompts a Squeeze on the Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-f8a
 5. Badlands Brief — "One of the Most Transformative Moments in Money Since Jekyll Island", URL: https://badlands.substack.com/p/one-of-the-most-transformative-moments
+6. Badlands Brief — "Real Patriots Don't Think Like Hitler – Part 2: How Western Bankers Created the Nazis", URL: https://badlands.substack.com/p/real-patriots-dont-think-like-hitler-196

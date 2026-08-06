@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [information-war, narrative-warfare, psyops]
-sources: [raw/badlands-news-brief-e5c.md, raw/death-blossom.md, raw/dont-be-symbol-minded.md, raw/poisoning-the-well.md]
+sources: [raw/badlands-news-brief-e5c.md, raw/death-blossom.md, raw/dont-be-symbol-minded.md, raw/poisoning-the-well.md, raw/q-is-our-best-fren.md, raw/stuck-in-a-groove-of-negativity-and.md]
 confidence: low
 ---
 
@@ -50,3 +50,20 @@ Carlson placed the technique within a three-part taxonomy of narrative targets. 
 On the specific question of who counts as controlled opposition, Carlson counselled restraint: "Just because someone says something bad about [[donald-trump|Trump]], or had a different opinion in the past, it doesn't automatically make them Deep State, and just because someone says something good about Trump, it doesn't make them a patriot."[4] Some players, in his framing, are simply performing roles assigned by one side or the other, and while a few cases are obvious — Trump on the side of the patriots, [[george-soros|George Soros]] on the side of the [[deep-state|Deep State]] — most are not, and identifying them is unnecessary.[4]
 
 4. Badlands Brief — "Poisoning the Well", URL: https://badlands.substack.com/p/poisoning-the-well
+5. Badlands Brief — "Q is Our Best Fren", URL: https://badlands.substack.com/p/q-is-our-best-fren
+
+## The charge against Q
+
+"Q is Our Best Fren" (March 25, 2025) takes as its central problem a controlled-opposition charge levelled at [[qanon|Q]] himself: granting that Q is a genuine insider, the essay asks whether that alone establishes he can be trusted, since posing as a friend does not make one a friend.[5] [[american-hypnotist|American Hypnotist]] describes much of his own writing as intended to help readers identify fake friends as well as fake news, and treats accurate profiling of enemies and allies as the core competency of a [[digital-soldiers|Digital Soldier]].[5]
+
+The essay catalogues the positions it rejects: that Q is an agent of the New World Order sent to finish off humanity, and the softer version holding the drops to be a meaningless nuisance diverting time and attention from more pressing matters.[5] Its rebuttals are that Q's puzzle-based method demonstrably strengthens independent thinking rather than pacifying it, and that the sustained effort by both mainstream and alternative media to misrepresent Q is inconsistent with Q being their instrument.[5]
+
+A related charge addressed is that [[donald-trump|Trump]] is a "Zionist puppet" and the Q operation therefore Israel-led controlled opposition — a narrative the author says persists despite Q's line that "we're saving [[israel|Israel]] for last," and which he answers by pointing to the unredacted Israel-related material in the [[jfk-files-release|JFK files]].[5]
+
+## Infiltration of the truth movement
+
+In "Stuck in a Groove of Negativity and Hopelessness" (May 4, 2023), [[erik-carlson|Erik Carlson]] paired controlled opposition with [[black-pilling|black pilling]] as the two tactics "vital to the Deep State's plan to eliminate the truth seekers and truth tellers," on the ground that a minority which sees through ordinary lies must instead be destabilised from within.[6] He set out a four-stage escalation used against any movement that gains traction: first ignore it in the hope it dies out, then vilify the message or make it appear ridiculous, then vilify the messengers or portray them as crazy, and finally infiltrate the movement — after which the genuine voices are blocked while the infiltrated puppets retain free rein across all media.[6] This, he wrote, is exactly what the [[deep-state|Deep State]] did with [[qanon|Q]].[6]
+
+Carlson framed the resulting damage as symmetrical with the destruction of America from within by progressive and communist ideas: force applied from the outside and the inside at once, with truth seekers sent down false rabbit holes and led to believe things later proven false.[6]
+
+6. Badlands Brief — "Stuck in a Groove of Negativity and Hopelessness", URL: https://badlands.substack.com/p/stuck-in-a-groove-of-negativity-and

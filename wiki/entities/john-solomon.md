@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [journalism, russiagate, rico]
-sources: [raw/badlands-brief-625.md, raw/badlands-brief-b56.md, raw/badlands-brief-da2.md, raw/badlands-news-brief-7d4.md, raw/badlands-news-brief-d04.md, raw/badlands-news-brief-e0a.md, raw/irregular-warfare.md]
+sources: [raw/badlands-brief-625.md, raw/badlands-brief-b56.md, raw/badlands-brief-da2.md, raw/badlands-news-brief-7d4.md, raw/badlands-news-brief-d04.md, raw/badlands-news-brief-e0a.md, raw/irregular-warfare.md, raw/the-biggest-boomerang-in-history.md, raw/the-biggest-cover-up-in-american.md]
 confidence: low
 ---
 
@@ -56,3 +56,19 @@ In "[[irregular-warfare|Irregular Warfare]]," Joe Lange singles out Solomon as a
 5. Badlands Brief — "Global Struggles, Civil Alliances, & the Penalty for Treason", URL: https://badlands.substack.com/p/badlands-news-brief-d04
 6. Badlands Brief — "Badlands News Brief: Trump Surges While Biden Baffles", URL: https://badlands.substack.com/p/badlands-news-brief-e0a
 7. Badlands Brief — "Irregular Warfare", URL: https://badlands.substack.com/p/irregular-warfare
+
+## Reporting on the Clinton email irregularities
+
+"[[the-biggest-boomerang-in-history|The Biggest Boomerang In History]]" identifies Solomon as the journalist who broke the story of congressional findings on the [[fbi|FBI]]'s handling of the [[hillary-clinton-private-email-server|Clinton email server]] probe, describing him as one of the reporters repeatedly fed pertinent information with impeccable timing — which [[joe-lange|Joe Lange]] presents as evidence of a coordinated [[declas|DECLAS]] strategy rather than coincidence.[8]
+
+His reporting in The Hill, quoted at length, states that Republicans on key congressional committees uncovered irregularities and contradictions in the probe; that investigators secured written evidence the FBI believed laws were broken; that passages in FBI documents cited the "sheer volume" of classified information as proof of criminality; and that a key witness had made false statements.[8] That witness, whose name was redacted, worked for a computer firm maintaining the server and belatedly admitted permanently erasing an archive of Clinton's messages in 2015 after they had been subpoenaed by Congress.[8] The same reporting recorded that the FBI began drafting a statement exonerating Clinton while subpoenaed evidence was outstanding and before more than a dozen key witnesses had been interviewed, and that [[andrew-mccabe|Andrew McCabe]] confirmed the case was controlled from Washington headquarters rather than the New York field office.[8] These claims reflect Badlands Media interpretation rather than established fact.
+
+8. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history
+
+## Breaking the Uranium One informant story
+
+[[joe-lange|Joe Lange]] credits Solomon with breaking the story of the FBI's undercover investigation into the [[uranium-one-deal|Uranium One deal]] that the [[barack-obama|Obama]] administration had sought to hide from [[congress|Congress]].[9] Solomon's reporting in The Hill described how federal agents used a confidential U.S. witness working inside the Russian nuclear industry to gather financial records, make secret recordings and intercept emails as early as 2009, showing that Moscow had compromised an American uranium trucking firm with bribes and kickbacks in violation of the Foreign Corrupt Practices Act.[9] It also reported an eyewitness account, backed by documents, that Russian nuclear officials routed millions of dollars to the United States designed to benefit [[bill-clinton|Bill Clinton]]'s charitable foundation while [[hillary-clinton|Hillary Clinton]] served on the government body that approved the transaction.[9]
+
+Senator [[chuck-grassley|Chuck Grassley]] learned of the informant and the gag order placed on him from Solomon's article, and Lange argues the exposé launched several congressional investigations.[9] He speculates that Solomon obtained the material through deliberate timing by insiders, and points to [[qanon|Q]] drop #2626 of December 19, 2018, which asked why [[sean-hannity|Sean Hannity]], [[sara-carter|Sara Carter]] and Solomon were "on stage" — reading the three as journalists used to deliver truthful information while the rest of the press dismissed Uranium One as a conspiracy theory.[9]
+
+9. Badlands Brief — "The Biggest Cover-up in American History", URL: https://badlands.substack.com/p/the-biggest-cover-up-in-american

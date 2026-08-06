@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [blockchain, distributed-ledger, cryptocurrency, technology]
-sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/blockchain-good-blockchain-voting.md]
+sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/blockchain-good-blockchain-voting.md, raw/the-banking-revolution-is-underway.md]
 confidence: medium
 ---
 
@@ -30,6 +30,13 @@ A March 2023 Badlands Media article by [[holly-at-altitude|Holly at Altitude]] d
 
 As blockchain evolved, ideas for applications exploded, and at one point proponents appeared to sell it as the best solution for any digital or hybrid digital use case — excitement fuelled by the values the technology promised: freedom, independence, lack of ownership, decentralization, security, and transparency.[2] Once people pressed for details on how theoretical use cases would actually work, however, reality set in and it became clear blockchain was not a "fix-all for everything."[2] The article's author states she is a fan of the technology and confident its true potential will be reached, but argues that time has not yet come and that its place is not in a citizen's voting process.[2] Blockchains are designed for cryptographically securing, recording, and tracking data, not for data manipulation, and a chain cannot verify whether data entered into it is authentic.[2] Trust in blockchain, she stresses, extends only to security within chains themselves, which derives from their decentralized operation — a property that does not transfer to systems built around them, as argued at length in [[blockchain-voting]].[2]
 
+## Blockchain and honest banking (Lange, March 2023)
+
+In a March 2023 Badlands Media article on the coming banking revolution, [[joe-lange|Joe Lange]] presented blockchain as critical to creating open and honest banking practices, because it produces a record of transactions that can be verified — leaving, in his words, no more hidden books and corruption in the banking system.[3] He argued that blockchain verifies transactions, secures ownership, and creates a medium of exchange that can operate globally.[3]
+
+Lange framed this as a major part of the coming revolution in banking, adding that digital currency is not to be feared but welcomed because the financial system requires honest money, honest transactions and honest bookkeeping.[3] He noted that [[jack-dorsey|Jack Dorsey]]'s interest in payments and blockchain was at one time strong enough that observers expected him to merge [[square-inc|Square]] with [[twitter|Twitter]], and that Dorsey's [[web5|Web5]] proposal builds on [[bitcoin|Bitcoin]] infrastructure while using the Lightning Network to operate off the main chain without tokens, gas fees, trusted validators or additional consensus mechanisms.[3]
+
 ## References
 1. Badlands Brief — "Are CBDCs The Path To Fear, or Freedom?", URL: https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom
 2. Badlands Media — "Blockchain, Good. Blockchain Voting, Bad.", URL: https://badlands.substack.com/p/blockchain-good-blockchain-voting
+3. Badlands Brief — "The Banking Revolution Is Underway", URL: https://badlands.substack.com/p/the-banking-revolution-is-underway

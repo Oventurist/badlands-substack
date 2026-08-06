@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [q, movement, information-war]
-sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/a-virus-or-a-metaphor.md, raw/are-jack-smith-and-fani-willis-in.md, raw/arabian-nights.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-c5c.md, raw/celebrating-15-years-of-indictments.md, raw/countering-an-ocean-of-deceit.md, raw/everything-is-connected.md, raw/irregular-warfare.md, raw/jd-vance-sidley-austin-and-q-post.md, raw/kekistani-code-talkers.md, raw/on-infiltration-and-israel.md, raw/power-to-the-people.md, raw/q-for-dummies-chapter-1.md, raw/president-trumps-call-to-arms.md, raw/q-for-dummies-chapter-2.md, raw/q-is-real-because-math-says-so.md]
+sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/a-virus-or-a-metaphor.md, raw/are-jack-smith-and-fani-willis-in.md, raw/arabian-nights.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-c5c.md, raw/celebrating-15-years-of-indictments.md, raw/countering-an-ocean-of-deceit.md, raw/everything-is-connected.md, raw/irregular-warfare.md, raw/jd-vance-sidley-austin-and-q-post.md, raw/kekistani-code-talkers.md, raw/on-infiltration-and-israel.md, raw/power-to-the-people.md, raw/q-for-dummies-chapter-1.md, raw/president-trumps-call-to-arms.md, raw/q-for-dummies-chapter-2.md, raw/q-is-real-because-math-says-so.md, raw/q-is-our-best-fren.md, raw/q-for-dummies-chapter-3.md, raw/revolution-founded-at-the-crossroads.md, raw/stay-focused-on-the-big-picture.md, raw/stuck-in-a-groove-of-negativity-and.md]
 confidence: medium
 ---
 
@@ -109,6 +109,12 @@ Q began posting on October 28, 2017 to the [[4chan|4chan]] board /pol/.[16] Fleu
 
 In "President Trump's Call to Arms," Badlands contributor [[brad-getz|Brad Getz]] cited Q drop 119, which asked "Who AUDITS the billions paid for war?", and post 489, which stated that "WAR = scam (trillions)" and asked "Who audits where the money actually goes? Who receives it?"[17] Getz argued that these January 2018 questions "made far less sense" at the time than they did in 2023, "over $100 Billion to Ukraine later."[17] He also referenced a 2017 Q post suggesting that 70% of elected politicians were corrupt, calling it "a tall statement at the time, but after all we've seen since 2015, easily believable," and crediting [[donald-trump|Trump]] with drawing "out the 70% like snakes."[17]
 
+## Drops #15–22
+
+Chapter 3 of [[q-for-dummies|Q for Dummies]] covers drops #15 through #22 of October 31 and November 1, 2017, a run the author characterises as carrying a heavy emphasis on [[military-intelligence|Military Intelligence]].[21] Recurring themes across the set include the claim that there are more good people than bad, the toppling of the [[house-of-saud|House of Saud]], alleged plants inside the Trump campaign, the [[16-year-plan-to-destroy-america|sixteen-year plan]], the direct command relationship between the President and the [[united-states-marine-corps|Marines]], and the conditions governing domestic military deployment.[21]
+
+The chapter also documents the operation's early encounter with organised opposition. Fewer than twenty drops in, the author writes, Q was already calling out [[shilling|sliding]] and other shill tactics, and by drop #21 the board was being hit with bot farms, shills and trolls on every new thread — which he treats as evidence that the material was "over the target" rather than a [[larp|LARP]].[21]
+
 ## References
 1. Badlands Brief — "A Hypnotist's Take on Israel, Palestine, and Q", URL: https://badlands.substack.com/p/a-hypnotists-take-on-israel-palestine
 2. Badlands Brief — "A Virus, or a Metaphor?", URL: https://badlands.substack.com/p/a-virus-or-a-metaphor
@@ -138,6 +144,18 @@ Drop #6 is read as ruling out any grand televised announcement of arrests by [[d
 Drop #13 is presented as retroactive proof of Q's access, on the reading that the [[north-korea|North Korea]] deal was already concluded in October 2017 and only publicly confirmed in June 2018 — evidence, the author argues, against the "LARP in his mommy's basement" characterization.[18] Drop #14, the chapter's centerpiece, references a [[sensitive-compartmented-information-facility|SCIF]] and asks whether the president "knows where the bodies are buried" and "has the goods."[18]
 
 19. Badlands Brief — "Q is Real, Because Math Says So", URL: https://badlands.substack.com/p/q-is-real-because-math-says-so
+20. Badlands Brief — "Q is Our Best Fren", URL: https://badlands.substack.com/p/q-is-our-best-fren
+21. Badlands Brief — "Q for Dummies - Chapter 3", URL: https://badlands.substack.com/p/q-for-dummies-chapter-3
+
+## The question of Q's allegiance
+
+A March 25, 2025 essay by [[american-hypnotist|American Hypnotist]], "Q is Our Best Fren," distinguishes two separate questions about Q that are often conflated: whether Q is a genuine insider, and whether Q is on the public's side.[20] The first, the author argues, is settled by simple probability and is "no more impressive than being able to do long division"; the second is far harder because it is not amenable to mathematical analysis and because Q operates behind multiple layers of deception.[20] He notes that the drops were deliberately designed to confuse and enlighten simultaneously, which is why few figures are at once as influential, beloved, hated, misunderstood and obscure as Q — with most public opinion about "Q" bearing little relation to the actual drops.[20]
+
+The essay records the two dominant misreadings it seeks to correct: those who treat Q as a savior despite his asking not to be seen that way, and those who consider him an agent of the New World Order or at best a distraction consuming attention better spent elsewhere.[20] Against both it argues that no assessment of Q is possible without first acquiring requisite knowledge about the [[cabal]], and that Q supplied the cipher needed to decipher an otherwise impenetrable information war.[20]
+
+Its affirmative case rests on the observation that Q never handed over answers but posed a jigsaw puzzle, employing the Socratic method and mixing genuine clues with disinformation so that the work of solving it strengthens the solver's probative faculty.[20] That Q repeatedly urged followers to expand their thinking and think for themselves is treated as decisive evidence of liberating rather than enslaving intent.[20] A supporting argument asks why, if Q were meant to mislead the public, both mainstream and alternative media would expend such effort misrepresenting him — and holds that the same elementary errors repeated for years by supposedly patriotic influencers constitute a choice rather than a mistake.[20] The apparent discrediting of Q is reframed as an effective smokescreen that left only the most serious [[anons]] engaged.[20]
+
+The essay briefly addresses the claim that [[donald-trump|Trump]] is a Zionist puppet and Q therefore Israel-led [[controlled-opposition|controlled opposition]], citing Q's line that "we're saving [[israel|Israel]] for last" and noting that the released [[jfk-files-release|JFK files]] did not redact sections implicating Israel.[20] The author defers fuller treatment to a later article, and closes by predicting [[the-storm|the Storm]] will arrive very soon.[20]
 
 ## Defenses against the LARP charge
 
@@ -146,3 +164,27 @@ The June 27, 2024 essay "Q is Real, Because Math Says So" by [[american-hypnotis
 A recurring theme is the corruption of the movement's information environment by third parties.[19] The author argues that Q cannot be held responsible for what content creators built atop the drops, that the [[operation-mockingbird|Mockingbird]] disinformation apparatus is funded to the tune of hundreds of billions of dollars a year, and that it would not surprise him if most self-described "Q influencers" exist to mislead adherents and discredit them before their countrymen — including those who claim to know Q personally.[19] His prescribed remedy is to go to the freely available primary source, the drops themselves.[19]
 
 The essay also states the movement's own account of why the drops are cryptic: because Q is read by [[anons|anons]] and cabalists alike, Q must talk in riddles, and the drops were a gift to anons specifically because they have the wherewithal to look beneath the surface and render coded intelligence into digestible form — Q having said the boards were chosen for a reason.[19] Every Q statement, the author argues, must be read in the context of an ongoing optics battle in which there are inevitable losses, offering [[operation-warp-speed|Operation Warp Speed]] as an example of a move whose surface appearance conflicts with its supposed strategic purpose.[19] He closes by framing Q as a rationally trustworthy source of hope, justifying the search for hidden "comms," and signing off with the movement slogan WWG1WGA.[19]
+
+## Q and the theme of spiritual revolution
+
+The October 2024 essay "Revolution Founded at the Crossroads" argued that Q repeatedly emphasized "not only the message of revolution, but Revolution" in the spiritual sense.[22] The author assembled a set of drop themes and scriptural citations to support the reading, including Ephesians 6:11-12 on putting on the whole armor of God and wrestling "not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this age," alongside the recurring drop lines "This is not another 4 year election," "This is not about politics," "Read the BIBLE," "GOD WINS," and "Biblical."[22]
+
+On this reading, the Q corpus frames the conflict as fundamentally spiritual rather than partisan, aligning with the essay's claim that without God humanity cannot wage lasting revolution because human incentives are inherently flawed and vulnerable to incrementalism.[22] The essay also invoked the movement phrase "nothing can stop what is coming" to describe the persecution of the early church, treating [[jesus|Jesus Christ]] as the archetypal decentralizing force.[22]
+
+22. Badlands Brief — "Revolution Founded at the Crossroads", URL: https://badlands.substack.com/p/revolution-founded-at-the-crossroads
+
+## Trump, Putin and Xi against the Cabal (Carlson, 2024)
+
+In an October 15, 2024 Badlands feature, [[erik-carlson|Erik Carlson]] identified himself as a follower of Q and cited the Q claim that [[donald-trump|Donald Trump]] was working with [[vladimir-putin|Vladimir Putin]] and [[xi-jinping|Xi Jinping]] to take down the [[deep-state|Deep State]] Cabal.[23] Carlson reasoned that the claim's logic implies Trump had not always been working with them, and that both leaders had left the Deep State after concluding it was the greatest threat to mankind.[23] He used the premise to construct a reading of the 2024 Democratic ticket in which Xi engineered [[tim-walz|Tim Walz]]'s selection so that his alleged past would surface too late to be corrected.[23] Carlson closed the article with the Q-associated injunctions to "trust the plan" and to stay focused on the big picture.[23]
+
+23. Badlands Brief — "Stay Focused on the Big Picture", URL: https://badlands.substack.com/p/stay-focused-on-the-big-picture
+
+## The spark that was underestimated (Carlson, 2023)
+
+In "Stuck in a Groove of Negativity and Hopelessness" (May 4, 2023), [[erik-carlson|Erik Carlson]] gave a short account of Q's early reception.[24] When Q appeared in late 2017, he wrote, the material was accessible only to an extremely small portion of the country — not enough people to make a difference — so the [[deep-state|Deep State]] judged that the lies being exposed posed no serious threat and could simply be ignored, expecting the spark to die out before becoming a flame.[24]
+
+Carlson argued the cabal underestimated the Anons' willingness to fight: they carried Q's messages outward to people who had never heard of 4chan but browsed YouTube looking for material on subjects where they could not accept the mainstream account — the JFK assassination, 9/11, Benghazi, human trafficking, school shootings, Fast and Furious, secret societies and the then-recent Las Vegas Massacre.[24] Though still an extreme minority, this layer was in his description loud, motivated and unafraid, and the tools built to control the population — social media, Google and YouTube — began to be used to expose the lies instead.[24]
+
+He then described the standard countermeasure sequence applied to the movement — ignore, ridicule the message, vilify the messengers, infiltrate, then silence the genuine voices while infiltrated puppets retain access to all media — and stated plainly: "This is exactly what the Deep State did with Q."[24]
+
+24. Badlands Brief — "Stuck in a Groove of Negativity and Hopelessness", URL: https://badlands.substack.com/p/stuck-in-a-groove-of-negativity-and

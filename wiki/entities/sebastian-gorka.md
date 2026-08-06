@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [white-house, national-security-council, trump-administration]
-sources: [raw/badlands-news-brief-22b.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-a66.md]
+sources: [raw/badlands-news-brief-22b.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-a66.md, raw/the-british-are-leaving-the-british.md]
 confidence: medium
 ---
 
@@ -26,7 +26,12 @@ The remarks came while Trump was touring the Middle East and had mulled travelli
 
 Gorka drew attention in February 2024 for attacking [[tucker-carlson|Tucker Carlson]]'s decision to interview Russian President [[vladimir-putin|Vladimir Putin]], tweeting: "I remember when Americans didn't do PR for KGB colonels. Well, without being agents of the Kremlin."[3] Badlands writer [[ashe-in-america|Ashe in America]] cited the remark as an example of a self-proclaimed "America First" champion "losing his mind" over the [[tucker-carlson-putin-interview|Carlson–Putin interview]], arguing that a conservative should by definition value the First Amendment and independent journalism, and asking why Gorka did not want Americans to hear the Russian side of the conflict.[3] She read his position as a version of the authoritarian claim that censorship is "for your safety," and urged readers to reassess which influencers still represented their values.[3]
 
+## Allegations of British intelligence ties
+
+Badlands Media contributor [[matthew-ehret|Matthew Ehret]] describes Gorka as a British intelligence asset, writing in February 2025 that his appointment as Deputy Assistant to the President and Senior Director for Counterterrorism was one sign among several of continued British influence over the incoming administration.[4] Gorka had earlier appeared in the internal memos of the British-run [[integrity-initiative|Integrity Initiative]], leaked in January 2019, which recorded high-level meetings between the operation's director [[chris-donnelly|Chris Donnelly]] and American figures including Gorka, McCain Foundation director [[kurt-volker|Kurt Volker]], and Pentagon public-relations specialist [[john-rendon|John Rendon]].[4] Ehret groups this with the roles of Treasury Secretary [[scott-bessent|Scott Bessent]] and [[pilgrims-society|Pilgrims Society]] member [[tucker-carlson|Tucker Carlson]] as evidence that British intelligence influence over [[donald-trump|Trump]]'s circle "abounds."[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Tsunamis, Bombshells, & Signed Declarations", URL: https://badlands.substack.com/p/badlands-news-brief-22b
 2. Badlands Media — "Badlands News Brief: Nuclear Negotiations, Ethics Probes, & American iPhones", URL: https://badlands.substack.com/p/badlands-news-brief-2d5
 3. Badlands Brief — "The President of Precedent & a Trapped Economy", URL: https://badlands.substack.com/p/badlands-news-brief-a66
+4. Badlands Brief — "The British Are Leaving! The British Are Leaving!", URL: https://badlands.substack.com/p/the-british-are-leaving-the-british

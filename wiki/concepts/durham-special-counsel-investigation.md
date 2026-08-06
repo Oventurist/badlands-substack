@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [spygate, russiagate, special-counsel, doj, fbi]
-sources: [raw/durham-continues-to-reveal-previously.md]
+sources: [raw/durham-continues-to-reveal-previously.md, raw/spear-of-justice.md]
 confidence: medium
 ---
 
@@ -32,6 +32,11 @@ The [[igor-danchenko|Danchenko]] trial repeated the template, establishing that 
 
 Cates concluded that, on the public record alone, Durham could charge Clinton campaign personnel and their contractors with espionage and theft of classified information, and could charge federal law enforcement and intelligence officials who continued illegally predicated spying after Trump's inauguration with treason.[1] Whether Durham would follow through, having already exposed much of the joint venture, remained the open question as the Danchenko trial wound down in Alexandria, Virginia in October 2022.[1]
 
+## Cited as a Sequencing Precedent (2025)
+
+An August 2025 Badlands Media essay compared Texas Attorney General [[ken-paxton|Ken Paxton]]'s litigation sequencing to the Durham investigation, arguing that both were long-game efforts rather than attempts at a single dramatic reveal.[2] The author wrote that Durham's indictments, depositions, and final report amounted to "laying stone after stone" until the foundation could bear the weight of full exposure, constructing an evidentiary record that later state and federal cases could stand on without collapsing.[2] In this reading, both campaigns aim to ensure that when the existing structure of control finally falls, a lawful framework already exists to keep the republic standing.[2]
+
 ## References
 
 1. Badlands Brief — "Durham Continues To Reveal Previously Undisclosed SpyGate Evidence", URL: https://badlands.substack.com/p/durham-continues-to-reveal-previously
+2. Badlands Brief — "Spear of Justice: Ken Paxton and the Bleeding Edge", URL: https://badlands.substack.com/p/spear-of-justice

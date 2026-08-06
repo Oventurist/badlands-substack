@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [justice, doj, hunter-biden, donald-trump, narrative]
-sources: [raw/badlands-news-brief-d24.md, raw/celebrating-15-years-of-indictments.md]
+sources: [raw/badlands-news-brief-d24.md, raw/celebrating-15-years-of-indictments.md, raw/the-biggest-boomerang-in-history.md, raw/the-biggest-cover-up-in-american.md]
 confidence: medium
 ---
 
@@ -33,3 +33,17 @@ Rather than treating lies and selective prosecution as the problem itself, the e
 ## References
 1. Badlands Brief — "Badlands News Brief: Hunter's Slap & Trump's Trap", URL: https://badlands.substack.com/p/badlands-news-brief-d24
 2. Badlands Brief — "Celebrating 15 Years of Indictments and Justice!", URL: https://badlands.substack.com/p/celebrating-15-years-of-indictments
+
+## The Clinton network account
+
+"[[the-biggest-boomerang-in-history|The Biggest Boomerang In History]]" argues that [[hillary-clinton|Hillary Clinton]] had groomed officials in the [[department-of-justice|DOJ]] and [[fbi|FBI]] not only to shield her from prosecution but to pursue her political enemies, as [[barack-obama|Obama]]'s DOJ had done — all of them carrying conflicts of interest because they were part of the Clinton [[pay-for-play|pay to play]] network and installed at the highest levels precisely to preserve a two tier system of protection.[3]
+
+[[joe-lange|Joe Lange]] names [[james-comey|James Comey]], [[robert-mueller|Robert Mueller]], [[rod-rosenstein|Rod Rosenstein]] and [[andrew-mccabe|Andrew McCabe]] as officials with long histories with the Clintons who declined to recuse themselves.[3] He contrasts the treatment of [[michael-flynn|Michael Flynn]], prosecuted for a supposed false statement, with that of the unnamed "key witness" who admitted destroying subpoenaed Clinton email archives and was never charged.[3] The article closes by promising a further instalment on another figure who has had a hand in the two tier justice system for many years and who Lange says is now awaiting the unsealing of his own indictment.[3] These claims reflect Badlands Media interpretation rather than established fact.
+
+3. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history
+
+## The Uranium One prosecutions
+
+[[joe-lange|Joe Lange]] presents the disposition of the [[uranium-one-deal|Uranium One]] criminal case as an illustration of the two-tier system: [[vadim-mikerin|Vadim Mikerin]] received a plea deal on a single narrowed money-laundering charge with no mention of the funds that reached [[bill-clinton|Bill Clinton]]'s foundation, while the [[department-of-justice|Justice Department]] publicised the outcome only through a release issued days before a holiday weekend.[4] He argues that the [[barack-obama|Obama]] administration's two-tier justice system swept the scandal under the rug while allied media branded those who questioned it conspiracy theorists, and that the District of Columbia courts are structured so that conviction of protected figures is nearly impossible — the reason [[john-durham|John Durham]] obtained only minimal convictions and why [[john-huber|John Huber]] was directed to empanel grand juries elsewhere.[4]
+
+4. Badlands Brief — "The Biggest Cover-up in American History", URL: https://badlands.substack.com/p/the-biggest-cover-up-in-american

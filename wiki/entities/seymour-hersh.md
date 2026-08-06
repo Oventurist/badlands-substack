@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [journalism, nord-stream, investigative-reporting]
-sources: [raw/badlands-news-brief-204.md, raw/badlands-news-brief-420.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-87b.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-9e7.md, raw/badlands-news-brief-ca7.md]
+sources: [raw/badlands-news-brief-204.md, raw/badlands-news-brief-420.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-87b.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-9e7.md, raw/badlands-news-brief-ca7.md, raw/the-church-committee-for-dummies.md]
 confidence: medium
 ---
 
@@ -73,3 +73,9 @@ In April 2023, Hersh reported that Ukrainians had embezzled at least $400 millio
 6. Badlands Brief — "Badlands News Brief: January 6 and Nord Stream Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-8f4
 7. Badlands Brief — "Archer's Testimony & Prussian Roulette", URL: https://badlands.substack.com/p/badlands-news-brief-9e7
 8. Badlands Brief — "Badlands News Brief: Ukraine U-Turn, Taiwan Tensions & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-ca7
+
+## 1974 CIA domestic spying report
+
+In 1974 Hersh published an article in the New York Times claiming that the [[central-intelligence-agency|CIA]] had been spying on anti-war activists for more than a decade, in violation of the agency's charter.[9] The report prompted former CIA officials and lawmakers, including Senators William Proxmire and Stuart Symington, to call for a congressional inquiry, and is credited by Badlands Media as one of the proximate causes — alongside the 1973 [[watergate|Senate Watergate Committee]] investigation — of the creation of the 1975 [[church-committee|Church Committee]].[9]
+
+9. Badlands Brief — "The Church Committee, for Dummies", URL: https://badlands.substack.com/p/the-church-committee-for-dummies

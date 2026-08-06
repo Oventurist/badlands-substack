@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [covid, biolabs, public-health, censorship]
-sources: [raw/q-for-dummies-chapter-4.md, raw/a-virus-or-a-metaphor.md, raw/anthony-fauci.md, raw/badlands-brief-414.md, raw/badlands-brief-67a.md, raw/badlands-brief-be1.md, raw/badlands-brief-d94.md, raw/badlands-brief-da2.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-238.md, raw/badlands-news-brief-276.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-8f0.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-b6c.md, raw/badlands-news-brief-bad.md, raw/badlands-news-brief-c9b.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-d32.md, raw/badlands-news-brief-da5.md, raw/badlands-news-brief-da3.md, raw/behold-a-trojan-horse.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/anthony-fauci.md, raw/badlands-brief-414.md, raw/badlands-brief-67a.md, raw/badlands-brief-be1.md, raw/badlands-brief-d94.md, raw/badlands-brief-da2.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-238.md, raw/badlands-news-brief-276.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-8f0.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-b6c.md, raw/badlands-news-brief-bad.md, raw/badlands-news-brief-c9b.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-d32.md, raw/badlands-news-brief-da5.md, raw/badlands-news-brief-da3.md, raw/behold-a-trojan-horse.md, raw/reagan-20.md, raw/q-for-dummies-chapter-4.md, raw/soul-governance.md]
 confidence: low
 ---
 
@@ -208,6 +208,9 @@ A December 2024 Badlands feature grouped Fauci's [[national-institutes-of-health
 
 A May 2023 Badlands Media article, "Behold, a Trojan Horse," cited Fauci's statement that there would "absolutely be another outbreak" and that it could happen as soon as "next year."[31] The author argued this aligned with a claim by WHO virologist [[marion-koopmans|Marion Koopmans]] that the [[world-health-organization|WHO]] had been planning for "ten years of infectious diseases" with 2020 as only year one, suggesting another scare was just what the public needed to embrace the proposed [[pandemic-treaty|pandemic treaty]] and [[international-health-regulations|IHR amendments]].[31] Fauci's remark was presented as evidence that a looming-outbreak narrative was being cultivated to build public demand for an entity "above the US Government" that would force America to cede pandemic authority to the WHO.[31]
 
+## In "Soul Governance"
+
+The Badlands Media essay [[soul-governance|Soul Governance]] mentions Fauci alongside [[klaus-schwab|Klaus Schwab]] and [[bill-gates|Bill Gates]] as "echoes, masks, handlers" rather than architects of the system it describes, arguing that the apparatus functioned only because the governed consented to believe in it.[33] The essay separately describes institutional science as an inverted priesthood whose "priests wore white coats," whose "sacraments were vaccines," whose commandments were peer-reviewed, and whose damnation was called disinformation.[33]
 
 ## References
 
@@ -246,3 +249,9 @@ A May 2023 Badlands Media article, "Behold, a Trojan Horse," cited Fauci's state
 Chapter 4 of the [[q-for-dummies|Q for Dummies]] series uses Fauci as its worked example of what it calls the "big picture" or "40,000 foot view."[32] The author asks whether [[donald-trump|Trump]] placed Fauci front and center because he liked him and was working with him — the knee-jerk reaction at the time — or in order to put him in the spotlight so the public would begin digging into him and exposing his conduct.[32] He states that he himself had no idea of Fauci's alleged deeds until Trump gave him that prominence, and offers this as an illustration of how the higher-perspective reading of events is meant to work.[32]
 
 32. Badlands Media — "Q for Dummies - Chapter 4", URL: https://badlands.substack.com/p/q-for-dummies-chapter-4
+
+## The AIDS–Covid parallel in "Reagan 2.0"
+
+Badlands contributor [[erik-carlson|Erik Carlson]] presented Fauci as the final and most striking commonality between [[ronald-reagan|Ronald Reagan]] and [[donald-trump|Donald Trump]].[33] The AIDS epidemic began in 1981, the same year Reagan became president, and Fauci was put in charge of researching, treating and eradicating the disease; Carlson argues that the treatment, specifically [[azt|AZT]] — a harsh chemotherapy drug pulled from the market in the 1960s for killing too many people — caused most of the deaths.[33] Roughly seven and a half months before the 2020 election, Carlson notes, the United States was locked down for Covid, and he again attributes most deaths to the treatments (Remdesivir and ventilators), later tainted vaccine batches, official demonization of cheap effective remedies, and the fear and anxiety created.[33] From this he asks whether Fauci was used twice to derail an America First president and remove a chief executive who was an enemy of the [[deep-state|Deep State]], adding that he does not recall Fauci being deployed to propagandize epidemics under presidents he regards as Deep State puppets.[33]
+
+33. Badlands Brief — "Reagan 2.0", URL: https://badlands.substack.com/p/reagan-20

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [hollywood, film, media, culture, propaganda]
-sources: [raw/a-new-hollywood.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-dbd.md, raw/does-the-cia-still-control-iran.md]
+sources: [raw/a-new-hollywood.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-dbd.md, raw/does-the-cia-still-control-iran.md, raw/the-decade-we-all-became-slaves.md]
 confidence: medium
 ---
 
@@ -51,6 +51,14 @@ The Hollywood Reporter warned in April 2025 that the timing of President [[donal
 
 In June 2025, [[wikileaks|WikiLeaks]] claimed that Hollywood screenwriters "who say they are Jewish" had been planting pro-war narratives about Iran in mainstream entertainment for more than a decade, citing Top Gun: Maverick, Homeland, 24, and The Fifth Estate.[5] [[julian-assange|Julian Assange]], in a 2013 Oxford Union speech that WikiLeaks recirculated, noted that The Fifth Estate opens with Iranian scientists in Tehran assembling a bomb said to be six months from completion, even though 16 US intelligence agencies had already concluded Tehran had no nuclear weapons program.[5] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote that the episode confirmed a longstanding Badlands theme — that Hollywood, "an industry built entirely on fiction," constantly hijacks reality through celebrity and storytelling — and argued that the consequences became visible when large portions of MAGA were convinced that war with Iran would be a good idea.[5] He called for greater discernment within the movement as a precondition for self-governance.[5]
 
+## Founding as a propaganda system (1910s)
+
+Badlands Media commentary presents Hollywood as the propaganda arm installed once a national police force was in place.[7] The first movies were made in Europe in the 1890s, and their potential to influence the general public was quickly recognized; in October 1911 the first Hollywood movie studio opened on Sunset Boulevard, and within a year fifteen more studios had followed.[7] The stated reason for the influx into Southern California was the weather, which permitted year-round filming and allowed the region to mimic locations around the world.[7] By 1924 movies had become the seventh largest industry in America and, in the article's framing, the country's number one propaganda tool.[7]
+
+## Babylon and predictive programming
+
+The article discusses the Brad Pitt film *Babylon*, released in late December 2022, which depicts the depravity of the 1920s Hollywood scene — drugs, excessive drinking, elite deaths swept under the rug, and a scene in which stars must flatter the [[rothschild-family|Rothschilds]] as financiers of Hollywood movies.[7] The author reads the film as predictive programming that desensitizes and normalizes such depravity, while interpreting the film's silent-to-talkies transition as a metaphor for society moving past Hollywood's spell — its transition toward insignificance.[7] With film established in the 1910s, broadcast radio followed in the 1920s and television in the 1940s, giving what the article calls the elite cabal a propaganda tool that reached everyone and left America a slave to Hollywood propaganda.[7]
+
 ## References
 1. Badlands Brief — "A New Hollywood", URL: https://badlands.substack.com/p/a-new-hollywood
 2. Badlands Brief — "A Politician is Swallowelled Whole as the Middle East Realigns in Real Time", URL: https://badlands.substack.com/p/badlands-brief-9ea
@@ -64,3 +72,4 @@ In "Does the CIA Still Control Iran?", [[erik-carlson|Erik Carlson]] wrote that 
 
 Carlson listed *The Titanic*, *Schindler's List*, *Pearl Harbor*, *All the President's Men*, *Snowden*, *The Social Network* and [[argo-film|*Argo*]] as films produced to put out a CIA-preferred version of history, sometimes telling that history to audiences for the first time.[6] He noted that *Pearl Harbor* was released three months before 9/11, in his reading preparing minds to accept the propaganda that followed, and that *Argo* appeared just before the CIA admitted its involvement in the [[1953-iranian-coup|1953 Iranian coup]].[6] He explicitly disclaimed any Holocaust denial, saying only that "if your understanding of anything comes from a Hollywood movie, you are deceived."[6]
 6. Badlands Brief — "Does the CIA Still Control Iran?", URL: https://badlands.substack.com/p/does-the-cia-still-control-iran
+7. Badlands Brief — "The Decade We All Became Slaves", URL: https://badlands.substack.com/p/the-decade-we-all-became-slaves

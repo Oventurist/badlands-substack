@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [corruption, clinton-foundation, donors, state-department, money-laundering]
-sources: [raw/america-for-sale-part-2.md]
+sources: [raw/america-for-sale-part-2.md, raw/the-biggest-boomerang-in-history.md]
 confidence: medium
 ---
 
@@ -24,3 +24,11 @@ The article extends the concept beyond the Clintons to the Obama [[department-of
 
 ## References
 1. Badlands Brief — "America for Sale - Part 2", URL: https://badlands.substack.com/p/america-for-sale-part-2
+
+## The Comey case in "The Biggest Boomerang In History"
+
+[[joe-lange|Joe Lange]] uses "pay to play" as the organising description of the financial web he says compromised [[james-comey|James Comey]] before he ever investigated [[hillary-clinton|Hillary Clinton]].[2] Comey's brother [[peter-comey|Peter Comey]] worked at [[dla-piper|DLA Piper]], one of Clinton's top ten career campaign donors and the firm that prepares the [[clinton-foundation|Clinton Foundation]]'s taxes and performed its 2015 audit; property records reportedly show James Comey held the mortgage on his brother's Virginia house.[2]
+
+Q drop 4782 of September 28, 2020 is quoted as describing the mechanism directly: a supporter's family member is hired by a Foundation-engaged law firm, the Foundation donates predominantly foreign funds to that firm under nominally legal payments, DLA Piper pays the family member salary and bonuses, and the family member transfers value back to the supporter.[2] Lange also cites Comey's more than $6 million in final-year compensation from [[lockheed-martin|Lockheed Martin]] — which became a Clinton Foundation donor and Clinton Global Initiative member in 2010 and won 17 contract approvals from Clinton's [[state-department|State Department]] that year — and his 2013 board seat at [[hsbc|HSBC Holdings]], a routine Foundation partner.[2] He argues Clinton had been grooming officials across the DOJ and FBI who were all part of this spiderweb, installed to preserve a [[two-tier-justice-system|two tier justice system]] of protection.[2] These claims reflect Badlands Media interpretation rather than established fact.
+
+2. Badlands Brief — "The Biggest Boomerang In History", URL: https://badlands.substack.com/p/the-biggest-boomerang-in-history

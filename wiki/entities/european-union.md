@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [european-union, trade, tariffs, greenland, transatlantic]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-a84.md, raw/badlands-brief-b62.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-b7b.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-e8f.md, raw/money-and-oil.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-a84.md, raw/badlands-brief-b62.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-b7b.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-e8f.md, raw/money-and-oil.md, raw/rattling-a-broken-saber.md, raw/the-cia-is-being-thrown-under-the.md]
 confidence: medium
 ---
 
@@ -201,3 +201,22 @@ Badlands host [[burning-bright|Burning Bright]] described the EU as the "Collect
 Joe Lange's November 2022 essay "Money and Oil" argues that European sanctions on [[russia|Russia]] over the invasion of [[ukraine|Ukraine]] were predictable but self-defeating, because all of Europe depends on Russia for its energy supply.[28] The sanctions immediately spiked energy prices, drove inflation higher, crushed the European Union's economy and had little effect on Russia itself.[28]
 
 In the same account, attempts by central banks to destroy the ruble failed when [[vladimir-putin|Putin]] demanded payment for Russian oil and gas in rubles or gold, while European central banks went broke exchanging weakening currencies for the dollars needed to buy energy.[28] Lange reports a huge rise in sentiment among European publics for ending the war because of high energy prices, and predicts that European countries in recession will suffer worsening pain.[28]
+
+## Rearmament frenzy and populist backlash (2025)
+
+Following President [[donald-trump|Donald Trump]]'s 2025 threats to abandon [[nato|NATO]] and his pause on Ukraine funding, the European Union scrambled to fill the hypothetical void with increasingly hawkish rhetoric and a push for rapid rearmament.[29] The response included roughly €150 billion in EU loans for rearmament under [[rearm-europe|ReArm Europe]], announced by Commission President [[ursula-von-der-leyen|Ursula von der Leyen]], and exploration by Friedrich Merz, [[emmanuel-macron|Emmanuel Macron]] and [[keir-starmer|Keir Starmer]] of a "NATO-minus" framework excluding an unreliable United States.[29] Merz raised European nuclear sharing with France and Britain, and Polish Premier [[donald-tusk|Donald Tusk]] said Poland must consider nuclear options.[29]
+
+Badlands contributor Ryan DeLarme argued the effort exposed a hollow shell propped up by ideological zeal and shadowy influence rather than genuine strength, noting that the bloc was less cohesive than in previous decades.[29] The Netherlands and others opposed collective defense debt, Hungary was difficult to keep aligned, Italy and Spain forced the rebranding of ReArm Europe to "Readiness 2030," and financing proposals from foreign policy chief [[kaja-kallas|Kaja Kallas]] were rejected, with member states insisting Ukraine contributions remain voluntary and bilateral rather than mandated by Brussels.[29]
+
+DeLarme tied the fracture to a continent-wide war between populism and globalism running since the Brexit vote, citing the popularity of [[giorgia-meloni|Giorgia Meloni]] and [[viktor-orban|Viktor Orbán]] — neither of whom supported the hawkish line on Russia — and of France's National Rally leader [[marine-le-pen|Marine Le Pen]], who was targeted by what he called a lawfare operation barring her from running for five years despite being the frontrunner for the 2027 French presidential election.[29]
+
+## References
+29. Badlands Brief — "Rattling a Broken Saber?", URL: https://badlands.substack.com/p/rattling-a-broken-saber
+
+## Alleged successor structure to the CIA (March 2024)
+
+In "The CIA is Being Thrown Under the Bus," Erik Carlson argued that Deep State power is being transferred from the [[central-intelligence-agency|CIA]] to [[nato|NATO]], the [[united-nations|United Nations]] and the European Union — specifically England and France — precisely because those bodies sit outside a returning [[donald-trump|Donald Trump]]'s control.[30]
+
+He observed that while Europe's economy suffers and is made dependent on outside nations, the bloc is working toward total political control, and cited the [[digital-services-act|Digital Services Act]] as allowing Europe to govern all media and social media entering the continent.[30] Carlson described this as preparing Europe for transition into an Orwellian society in which the governing members determine what European citizens may see or hear.[30] He read American politicians' insistence on funding Ukraine as a means of building up the EU alongside NATO and the UN rather than of winning the war.[30]
+
+30. Badlands Brief — "The CIA is Being Thrown Under the Bus", URL: https://badlands.substack.com/p/the-cia-is-being-thrown-under-the
