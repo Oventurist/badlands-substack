@@ -1,0 +1,51 @@
+---
+title: Al-Qaeda
+created: 2026-08-06
+updated: 2026-08-06
+type: entity
+tags: [al-qaeda, terrorism, afghanistan, libya, qatar]
+sources: [raw/a-conflict-of-interest.md, raw/a-dereliction-of-duty.md, raw/assad-day-in-damascus.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-7a5.md]
+confidence: medium
+---
+
+# Al-Qaeda
+
+Al-Qaeda is the terrorist organisation at the centre of the article's argument that the United States has spent decades funding and arming its own declared enemies.[[1]](https://badlands.substack.com/p/a-conflict-of-interest)
+
+In early November 2007 Ayman al-Zawahiri announced that the [[libyan-islamic-fighting-group|Libyan Islamic Fighting Group]] had become an official affiliate of Al-Qaeda; U.S. military research at the Combating Terrorism Center at West Point recorded the same 2007 merger and found LIFG sending fighters to kill American soldiers in Iraq.[[1]](https://badlands.substack.com/p/a-conflict-of-interest) LIFG was named a Specially Designated Global Terrorist in September 2001 and added to the UN 1267 list of entities associated with Al-Qaeda or the Taliban that October, and it maintained two training camps in Afghanistan at the time of the 9/11 attack on the World Trade Center.[[1]](https://badlands.substack.com/p/a-conflict-of-interest)
+
+[[abdelhakim-belhaj|Abdelhakim Belhaj]] is described not merely as a member but as a close associate of Osama Bin Laden and one of Al-Qaeda's most important leaders, having first met Bin Laden among the CIA-backed Mujahideen in Afghanistan, followed him to Sudan and back, and run training camps there.[[1]](https://badlands.substack.com/p/a-conflict-of-interest) Despite this, [[john-mccain|John McCain]] declared in [[benghazi|Benghazi]] in 2011 that the fighters he met "are not Al-Qaeda" but "Libyan patriots."[[1]](https://badlands.substack.com/p/a-conflict-of-interest)
+
+The article argues that after 9/11 the [[cia|CIA]] relocated Al-Qaeda's Afghan training infrastructure to Benghazi to maintain a supply of fighters, and that [[qatar|Qatar]] was one of the biggest funding sources for the organisation until the 2017 blockade.[[1]](https://badlands.substack.com/p/a-conflict-of-interest)
+
+## Post-Gaddafi Libya
+
+After [[muammar-gaddafi|Gaddafi]] was overthrown, Badlands Media writes, Benghazi became a safe haven for Al Qaeda training camps and the focal point for funding and supplying the jihadists the United States was fighting in Iraq and Afghanistan.[[2]](https://badlands.substack.com/p/a-dereliction-of-duty) Libya descended into chaos and its newly formed government was controlled by Al Qaeda elements such as [[abdelhakim-belhadj|Abdelhakim Belhadj]].[[2]](https://badlands.substack.com/p/a-dereliction-of-duty) Gaddafi, in this account, had been fighting Al Qaeda inside his own country, so his removal gave the organisation free rein.[[2]](https://badlands.substack.com/p/a-dereliction-of-duty)
+
+Former CIA officers spent months trying to warn the [[white-house|White House]] that thousands of shoulder-fired missiles looted from Libyan stocks were falling into Al Qaeda's hands, but their warnings fell on deaf ears.[[2]](https://badlands.substack.com/p/a-dereliction-of-duty) Investors Business Daily reported that Al Qaeda in the Islamic Maghreb (AQIM), using heavy arms seized from the Libyan army, struck the American consulate in Benghazi and assassinated the U.S. ambassador and three of his aides — the first death of an American ambassador in the line of duty in 33 years.[[2]](https://badlands.substack.com/p/a-dereliction-of-duty)
+
+Badlands argues that both the post-Gaddafi Libyan government and the terrorists who killed the four Americans in Benghazi were affiliated with Al Qaeda, and that [[hillary-clinton|Hillary Clinton]], [[barack-obama|Barack Obama]] and [[john-mccain|John McCain]] knew it.[[2]](https://badlands.substack.com/p/a-dereliction-of-duty) It further contends that President Obama's requirement of White House approval for every battlefield action functioned as a standing [[stand-down-orders|stand down order]] protecting Al Qaeda and [[isis|ISIS]] alike.[[2]](https://badlands.substack.com/p/a-dereliction-of-duty)
+
+
+## HTS and the rebranding of al-Qaeda in Syria
+
+Badlands Media asked "when did Al-Qaeda become hip and chic?" in reference to Western celebration of the rebel victory in [[syria|Syria]].[3] It described [[hayat-tahrir-al-sham|Hayat Tahrir al-Sham]] as a cleverly rebranded al-Qaeda with "woke" trappings intended to appear palatable to Western audiences, and noted that HTS's al-Qaeda links raised concerns about Syria's future governance after the fall of [[bashar-al-assad|Bashar al-Assad]].[3] The article traced the organization's origins to the [[mujahideen|Mujahideen]], built up by the [[cia|CIA]] to fight the Soviets in the twilight of the Cold War.[3] It also remarked sardonically that Keir Starmer was "very pleased" that al-Qaeda is running the show in Syria.[3]
+
+## Badlands contrast with Hezbollah (2026)
+
+Commentator GhostofBasedPatrickHenry cited an interview with former Mossad director Efraim Halevy to argue that Israeli intelligence regards Al Qaeda and Hezbollah as entirely different phenomena, noting Halevy's observation that Al Qaeda has never attacked Israel.[4] In his reading Al Qaeda is a CIA/Mossad-created terrorist and mercenary group operating around the world, while Hezbollah is a localized militia resisting occupation; the two fought on opposing sides throughout the Syrian Civil War, with Al Qaeda seeking to overthrow Assad while Hezbollah and Russia defended him.[4]
+
+
+## Alleged non-aggression toward Israel
+
+Badlands commentary published after the December 2024 [[fall-of-the-assad-regime|fall of the Assad regime]] argued that, despite decades of rhetoric naming Israel as a sworn enemy, Al Qaeda has never carried out an attack against the Israeli state, and that the same is true of the Islamic State.[5] The commentary cited a November 2016 incident in which Al Qaeda fighters exchanged fire with the [[israel-defense-forces|IDF]] in the [[golan-heights|Golan Heights]], after which former Israeli Defense Minister Moshe Ya'alon said the following August that ISIS had reached out to apologize for the exchange, despite the IDF having allegedly killed four of their fighters.[5]
+
+The author, [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]], contrasted this with the official 9/11 narrative under which Al Qaeda operatives hijacked the aircraft, noting that this account underpins a US military presence in the Middle East more than twenty-three years later, and that a podcast guest who enlisted in the Marines two days after the attacks confirmed Al Qaeda was the enemy fought in Iraq.[5] He drew attention to [[kash-patel|Kash Patel]]'s promise to release the 9/11 files and argued that the combination of these facts with [[benjamin-netanyahu|Benjamin Netanyahu]] openly thanking Al Qaeda-linked fighters for toppling [[bashar-al-assad|Bashar al-Assad]] would prove ruinous for the Republican Party and establishment conservative media.[5] He further noted reporting by [[times-of-israel|Times of Israel]] and Washington-based policy institutes suggesting that Al Qaeda-descended factions in Syria had adopted diversity rhetoric as a rallying cry.[5]
+
+## References
+1. Badlands Brief — "A Conflict of Interest", URL: https://badlands.substack.com/p/a-conflict-of-interest
+2. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
+3. Badlands Brief — "Assad Day in Damascus", URL: https://badlands.substack.com/p/assad-day-in-damascus
+4. Badlands Brief — "A Politician is Swallowelled Whole as the Middle East Realigns in Real Time", URL: https://badlands.substack.com/p/badlands-brief-9ea
+
+5. Badlands Brief — "Damascus Has Fallen ... Cui Bono?", URL: https://badlands.substack.com/p/badlands-news-brief-7a5

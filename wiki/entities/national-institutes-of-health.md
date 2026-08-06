@@ -1,0 +1,47 @@
+---
+title: National Institutes of Health
+created: 2026-08-06
+updated: 2026-08-06
+type: entity
+tags: [public-health, biosecurity, federal-agency, badlands-brief]
+sources: [raw/badlands-brief-2c0.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-409.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-88b.md]
+confidence: medium
+---
+
+# National Institutes of Health
+
+The National Institutes of Health (NIH) is the United States' principal federal biomedical research agency. In June 2026 it featured in Badlands coverage after two of its researchers were charged in a federal criminal complaint with conspiracy to smuggle monkeypox into the United States and making false statements to federal authorities.[1]
+
+## Detroit monkeypox smuggling case
+
+[[vincent-munster|Vincent Munster]], a Netherlands citizen and chief of the Virus Ecology Section at the NIH's Rocky Mountain Laboratory in Montana, and Claude Kwe, a Cameroon national and research fellow in Munster's section, are accused of attempting to bring biological materials into the country after traveling from the Republic of Congo during a monkeypox outbreak.[1] Federal authorities say the two arrived at Detroit Metropolitan Airport on January 25, 2026, where [[customs-and-border-protection|Customs and Border Protection]] officers found a black case the men said contained diagnostic equipment; investigators allege it instead held 113 vials in Styrofoam coolers, of which 17 tested positive for deactivated monkeypox virus, one for chickenpox virus and two for human DNA.[1]
+
+The case is being investigated by the [[fbi|FBI]], Customs and Border Protection, and the [[department-of-health-and-human-services|Department of Health and Human Services]] Office of Inspector General, and was announced by the US Attorney's Office for the Eastern District of Michigan. The men face up to five years in prison if convicted.[1]
+
+## Republican reorganization proposal (June 2024)
+
+In June 2024, congressional Republicans called for a reorganization of the NIH that would strip the agency of its authority over [[gain-of-function-research|gain-of-function research]] and freeze such experiments until new reforms were established.[2] The draft plan, produced by the [[house-energy-and-commerce-committee|House Energy and Commerce Committee]], would establish a new oversight process for risky pathogen research proposals and transfer the power to review, approve, reject and oversee those experiments from NIH to a "public, independent oversight entity."[2] Axios reported that the plan fed a post-pandemic narrative of federal health agencies having lost public trust, could serve as a blueprint for a future Republican administration and Congress, and immediately increased pressure on NIH heading into a difficult fiscal 2025 budget cycle after a long run of funding increases had already been halted.[2]
+
+## Transgender youth hormone study (2023)
+
+In May 2023, Republican lawmakers in the House and Senate demanded answers from the NIH over a two-year study that prescribed gender-changing hormones to hundreds of children, after it emerged that two of the "youths" involved had killed themselves.[3] The study, titled "Psychosocial Functioning in Transgender Youth after 2 Years of Hormones," examined 315 individuals between the ages of 12 and 20 who identify as transgender and were given cross-sex hormones; the NIH-funded portion involved 240 children, and the agency admits that "two young people tragically died by suicide."[3] Despite the deaths, the NIH carried the study on to its conclusion.[3] More than a dozen lawmakers, including [[lauren-boebert|Lauren Boebert]], [[marco-rubio|Marco Rubio]] and [[rand-paul|Rand Paul]], wrote to NIH director Dr. [[lawrence-tabak|Lawrence Tabak]] over the [[nih-transgender-youth-hormone-study|study]].[3]
+
+## 2024 Republican plans to overhaul the agency
+
+In September 2024, House and Senate Republicans were reported to be plotting a new front in the Covid wars aimed at reining in the NIH by bringing its civil servants and the leading scientists awarded its biggest research grants to heel.[4] Should they win control of Congress in November, Republicans planned to demand more disclosure about what the NIH funds, assign more political appointees to monitor the agency, significantly downsize it, and spread grant money across a larger pool of recipients; Senate Democrats were blocking such changes at the time.[4] Nearly $50 billion in research funding was at stake.[4]
+
+Joel Zinberg, who worked on health policy at the Council of Economic Advisers during [[donald-trump|Donald Trump's]] presidency and later became a senior fellow at the Competitive Enterprise Institute, observed that "you have the NIH in the sights of people who think there were big failures during the pandemic and that we have to change the way things operate."[4] Trump, who had clashed with NIH leadership during his term, was seen as able to implement some of the desired changes even if Democrats blocked legislation.[4]
+
+Some Republicans argued that the agency's pandemic-era leaders, [[francis-collins]] and [[anthony-fauci]], downplayed the possibility that Covid-19 emerged from a lab in China in order to protect the agency, which had funded researchers working with Chinese counterparts; others accused them of excessive trust in Chinese researchers and of failing to monitor the risks of [[gain-of-function-research]].[4] Badlands commentary treated the NIH as one of a set of "rotten institutions" that must be dismantled, with personnel investigated for malfeasance and examples made of those who abused public trust, framing open defiance as the only logical response.[4]
+
+
+## Third-party royalty database
+
+In August 2023 the watchdog group [[openthebooks|OpenTheBooks]] published more than 1,500 pages of unredacted NIH records after a mostly successful Freedom of Information Act battle with the agency, identifying which companies paid which NIH scientists for which inventions and when.[5] The 56,000 transactions added up to more than $325 million, although the individual amounts for each payment and corresponding license were not listed in the records.[5] The records showed that longtime NIH director [[francis-collins|Francis Collins]] and [[national-institute-of-allergy-and-infectious-diseases|NIAID]] director [[anthony-fauci|Anthony Fauci]] personally received 58 royalty payments from companies licensing inventions developed with taxpayer money.[5]
+
+## References
+1. Badlands Brief — "Southern Hospitality Superseded Plus Cross Burning", URL: https://badlands.substack.com/p/badlands-brief-2c0
+2. Badlands Brief — "Badlands News Brief: Fake Polls Abound as the Sovereign Alliance Makes Moves", URL: https://badlands.substack.com/p/badlands-news-brief-125
+3. Badlands Brief — "Badlands News Brief: Quid Pro Joe, Biden's Border & Train Track Conspiracies", URL: https://badlands.substack.com/p/badlands-news-brief-409
+4. Badlands Brief — "Israel Invades, MAGA Sues & Ports Close", URL: https://badlands.substack.com/p/badlands-news-brief-683
+5. Badlands News Brief — "The Trump Hunt & the Biden Blitz", URL: https://badlands.substack.com/p/badlands-news-brief-88b

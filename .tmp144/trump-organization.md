@@ -1,0 +1,3 @@
+## Appellate reversal of the civil fraud penalty (August 2025)
+
+On Thursday, August 21, 2025, a New York appellate court struck down the half-billion-dollar civil fraud penalty imposed on [[donald-trump|Donald Trump]], his two sons, other executives and the company, ruling the fine "excessive" and in violation of the Eighth Amendment's ban on excessive fines.[{n}] The penalty stemmed from Judge [[arthur-engoron|Arthur Engoron]]'s February 2024 ruling ordering the defendants to pay nearly $364 million in "ill-gotten gains" plus years of interest, bringing the total to roughly $527 million, of which Trump personally accounted for nearly 98%.[{n}]

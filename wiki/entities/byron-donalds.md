@@ -1,0 +1,27 @@
+---
+title: Byron Donalds
+created: 2026-08-06
+updated: 2026-08-06
+type: entity
+tags: [congress, republican, florida, elections]
+sources: [raw/badlands-brief-7c6.md, raw/badlands-news-brief-0f0.md]
+confidence: medium
+---
+
+# Byron Donalds
+
+Byron Donalds is a Republican member of the U.S. House of Representatives from Florida.[1]
+
+## 2023 speakership candidacy
+
+In October 2023, Donalds was among the frontrunners for Speaker of the House after the GOP conference abruptly dropped [[jim-jordan|Jim Jordan]] as its nominee, in a field that also included [[tom-emmer|Tom Emmer]], [[kevin-hern|Kevin Hern]] and Austin Scott.[2] Badlands contributor [[ashe-in-america|Ashe in America]] described Donalds as the [[america-first-movement|America First]] candidate and predicted that the faction of establishment Republicans who had opposed Jordan would fight Donalds just as hard, writing that she liked "Donalds for the job, but his allegiance to the US Constitution will likely inhibit his chances with the caucus."[2]
+
+## Position on ballot handling
+
+In February 2026, amid reporting that congressional Republicans were declining to follow President [[donald-trump|Donald Trump]]'s lead on election reform, Donalds pointed to his own state's chain-of-custody practices as a model: "In Florida, we treat ballots like they're evidence in a trial. Other states need to follow that. … I think that's what the [[white-house|White House]] is referencing. You just can't have ballots out there in the ether."[1]
+
+His framing was among the more reform-friendly Republican responses quoted in the [[badlands-brief|Badlands Brief]]'s coverage of the [[election-reform-campaign|election reform campaign]].[1]
+
+## References
+1. Badlands Brief — "The Democratization of Narrative Distribution. And a New War with Iran.", URL: https://badlands.substack.com/p/badlands-brief-7c6
+2. Badlands Brief — "Badlands News Brief: Escalation ... Acceleration ... and Biden", URL: https://badlands.substack.com/p/badlands-news-brief-0f0

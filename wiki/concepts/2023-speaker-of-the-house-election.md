@@ -1,0 +1,72 @@
+---
+title: 2023 Speaker of the House Election
+created: 2026-08-06
+updated: 2026-08-06
+type: concept
+tags: [congress, gop, maga, speaker, mike-johnson]
+sources: [raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-254.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-6f0.md]
+confidence: high
+---
+
+# 2023 Speaker of the House Election
+
+The 2023 election for Speaker of the United States House of Representatives followed a three-week leadership void created by the removal of Rep. [[kevin-mccarthy|Kevin McCarthy]] (R-Calif.) and concluded with the election of Rep. [[mike-johnson|Mike Johnson]] (R-La.).[1]
+
+## Sequence of nominees
+
+After the vacancy, the House GOP conference cycled through several nominees before settling on Johnson.[1] Reps. [[steve-scalise|Steve Scalise]] (R-La.) and [[jim-jordan|Jim Jordan]] (R-Ohio) each failed to garner the support needed to reach the floor.[1] Rep. [[tom-emmer|Tom Emmer]] (R-Minn.) became the third speaker nominee but withdrew his name hours after receiving the GOP nomination, with Johnson having been runner-up in that contest.[1] The conference then chose Johnson as its nominee, and he won 220 votes on the first floor ballot on a Wednesday.[1]
+
+## The post-Jordan scramble
+
+## Early speculation about a Speaker Trump
+
+In the immediate aftermath of McCarthy's removal, several conservatives including Rep. [[marjorie-taylor-greene|Marjorie Taylor Greene]] called on former President [[donald-trump|Donald Trump]] to serve as Speaker of the House, framing the post as one route back to the presidency.[3] Speaking from a New York courthouse on October 4, 2023, Trump confirmed that he had been approached about becoming the next Speaker and said he would be willing to take on the role, emphasizing his commitment to doing "whatever's best for the country and for the Republican Party."[3]
+
+[[ryan-delarme|Ryan DeLarme]] judged the prospect unlikely, noting that [[rino|RINOs]] retained the voting power to block it and were unlikely to elevate a man they despised and whose prosecution they welcomed, though he allowed that the vote would at least reveal who the genuine patriots in [[congress|Congress]] were.[3] Entertaining deeper speculation, he sketched a scenario in which Trump's ascension to the presidency came early after a befuddled [[joe-biden|Joe Biden]] was removed and [[kamala-harris|Kamala Harris]] was sidelined, but dismissed it as requiring Senate Democrats such as John Fetterman and [[bernie-sanders|Bernie Sanders]] to vote to impeach both Biden and Harris — something he said they would never do.[3] [[burning-bright|Burning Bright]] treated the episode as an illustration of Trump's unpredictability, observing that what is exciting for supporters is "the epitome of existential dread" for his opponents, and that in the American sociopolitical zeitgeist "Trump's not locked in with them ... they're locked in with him."[3]
+
+After the GOP's abrupt removal of [[jim-jordan|Jim Jordan]] as the party's nominee, nearly a dozen House Republicans entered the speakership race, setting up a high-stakes battle following three tumultuous weeks of infighting that had brought [[congress|Congress]] to a halt.[2] Press coverage identified [[tom-emmer|Tom Emmer]], [[kevin-hern|Kevin Hern]], [[byron-donalds|Byron Donalds]] and Austin Scott as the frontrunners.[2] Amid the paralysis, a group of mainstream Republicans and Democrats called instead for a temporary expansion of the authority of Speaker Pro Tempore [[patrick-mchenry|Patrick McHenry]] through January, a move that would have allowed the House to vote on funding measures before a permanent Speaker was chosen.[2] Jordan had been expected to support that effort before his third speaker ballot but backtracked hours later after multiple Republicans objected, and the back-up plan fell apart.[2]
+
+## Badlands commentary on the rules fight
+
+[[ashe-in-america|Ashe in America]] traced the crisis to the rules changes the [[house-freedom-caucus-holdouts|Freedom Caucus]] negotiated to get [[kevin-mccarthy|Kevin McCarthy]] over the finish line at the start of the 118th Congress, and to House leadership's subsequent practice of suspending those rules when they conflicted with its immediate desires — the grievance that pushed Rep. [[matt-gaetz|Matt Gaetz]] to lead the successful motion to vacate.[2] She argued that the establishment faction that opposed Jordan was "looking for another McCarthy," that Emmer was the establishment favorite despite his failure to whip votes and his blue-state background, and that America First forces backing Donalds would face the same resistance Jordan had.[2] She noted that Rep. [[ken-buck|Ken Buck]] had voted for Emmer during the Jordan ballots, and concluded that the best outcome would be to "vacate the Congress and demand free and fair elections."[2] The House was set to reassemble the following Tuesday to try again.[2]
+
+## MAGA framing
+
+### Floor vote and immediate agenda
+
+After three weeks without a speaker, the House voted on Wednesday, October 25, 2023, to elect Johnson, who secured the gavel without losing a single Republican vote on a final tally of 220 to 209 over House Minority Leader [[hakeem-jeffries|Hakeem Jeffries]].[4] Contemporaneous coverage stressed that Johnson was a Trump ally who had been a key congressional figure in the failed effort to overturn the 2020 election, having sent an email from a personal account in 2020 to every House Republican soliciting signatures for an amicus brief in the long-shot Texas lawsuit seeking to invalidate electoral college votes from multiple states.[4] He immediately faced a potential shutdown with government funding set to expire on November 17, requiring the GOP-controlled House to work with the Democratic-led Senate, as well as pending questions of aid to Israel and Ukraine.[4] Johnson promised an "aggressive schedule," and in the first vote under his speakership the House passed a resolution in support of Israel with bipartisan votes.[4]
+
+[[ashe-in-america|Ashe in America]] wrote that the second speaker saga of the 118th Congress had ended with Johnson unanimously elected by the Republican caucus, describing him as strong in committee and holder of some of the most conservative views in the House — a great choice "in a time of institutional trust," which she argued this was not.[4] She found the election anticlimactic, noted Jeffries's "impassioned speech about the Democrat Communists' agenda" delivered with "highly distracting hand motions," and judged Johnson's gracious, bipartisan-toned maiden remarks as feeling "almost like a betrayal" given national division.[4] She objected that his first order of business was funding Israel rather than US border security, and that his stated top three priorities — Israel, the border, and Ukraine — did not match the American people's order of priorities.[4] Concluding that any speaker must be "a fighter that will restore America First principles to the institution," she said she wanted to believe Johnson was that man but was "less than optimistic" after his first remarks.[4]
+
+Rep. [[matt-gaetz|Matt Gaetz]] (R-Fla.), who led the motion to oust McCarthy, declared Johnson's election a demonstration of the strength of the "MAGA movement" within the GOP and the waning power of the "swamp."[1] Speaking on [[steve-bannon|Steve Bannon]]'s "War Room" podcast, Gaetz said: "The swamp is on the run. MAGA is ascendant. If you don't think that moving from Kevin McCarthy to MAGA Mike Johnson shows the ascendance of this movement and where the power in the Republican Party truly lies, then you're not paying attention."[1] Gaetz also shed light on the internal party deliberations that produced Johnson's elevation.[1]
+
+## Commentary
+
+[[burning-bright|Burning Bright]], writing in the [[badlands-news-brief|Badlands News Brief]], acknowledged not having anticipated Johnson's rise and suspected few others had either.[1] He credited Gaetz with capturing the meaning of Johnson's — possibly temporary — ascendance as a proxy for the [[america-first-movement|America First]], MAGA and [[donald-trump|Trump]]-inspired movement.[1] Regardless of what Johnson accomplished in office, he argued, the ascension was a key indicator of where true power in the nation lies and a hint at its future direction.[1]
+
+## Scalise withdrawal
+
+[[steve-scalise|Steve Scalise]] withdrew from the race on October 12, 2023, one day after winning the conference nomination 113–99 in a closed-door secret ballot, leaving the House leaderless and the GOP in chaos.[5] With 221 House Republicans and 217 votes required on the floor, the conference could spare only four dissenters; [[thomas-massie|Thomas Massie]] said more than twenty had withdrawn support, and backers of [[jim-jordan|Jim Jordan]] — endorsed by [[donald-trump|Donald Trump]] — refused to switch.[5] Jordan told reporters he was no longer whipping votes for himself after Scalise's selection, while unofficial online polling pointed to him as the grassroots favorite.[5] [[brian-lupo|Brian Lupo]] had predicted that the episode would end with the reinstallation of [[kevin-mccarthy|Kevin McCarthy]], a possibility revived by Scalise's exit.[5]
+
+Badlands commentators read the extended vacancy through the [[congressional-paralysis|Congressional Paralysis]] frame, arguing that a rudderless [[us-congress|Congress]] during the outbreak of the Israel–Hamas war deprived war hawks of the ability to move the country toward a new kinetic conflict.[5]
+
+## Jordan's first failed ballot (October 17, 2023)
+
+On Tuesday, October 17, 2023, [[jim-jordan|Jim Jordan]] fell short in the first floor ballot of his own speakership bid and sought more time to build support, postponing further action until 11 a.m. Eastern the following morning while pressuring the twenty fellow Republicans who had voted against him.[6] Jordan took 200 votes against the 217 needed — the lowest tally [[kevin-mccarthy|Kevin McCarthy]] had ever recorded during his fifteen rounds of voting over four days in January.[6] [[steve-scalise|Steve Scalise]] received seven votes, McCarthy six, and [[lee-zeldin|Lee Zeldin]] — who was not a sitting congressman — three, with four other candidates receiving one vote each.[6] The House recessed after the vote, reconvened briefly in the evening and adjourned until Wednesday morning.[6]
+
+Democrats used the prolonged Republican infighting to argue for a bipartisan compromise candidate, a sharp departure from normal practice; Democratic Leader [[hakeem-jeffries|Hakeem Jeffries]] said there were "only two paths: either you're going to continue to bend the knee to the most extreme members of your conference, who are not interested in governing; or you can partner with Democrats to do the business of the American people."[6] With the chamber leaderless since McCarthy's October 3 ouster, [[us-congress|Congress]] remained unable to respond to the wars in the Middle East and Ukraine, with roughly a month remaining before a partial government shutdown deadline.[6]
+
+[[ashe-in-america|Ashe in America]] observed that the dynamic of the first speaker saga had been inverted: where the establishment had once jeered the [[house-freedom-caucus-holdouts|Freedom Caucus]] holdouts for making a mockery of the process, establishment Republicans were now prolonging the process and voting for anyone but the party's nominee.[6] She expected behind-the-scenes horse trading overnight and offered a consolation for readers anxious about the uncertainty: so long as members were consumed by the Speaker Saga, "they aren't escalating the wars or further bankrupting our children."[6]
+
+## Jordan's second failed ballot
+
+On Wednesday, October 18, 2023, Rep. [[jim-jordan|Jim Jordan]] (R-Ohio) failed a second time to win the speaker's gavel and told reporters in the Capitol that the House would not hold a third vote that day.[7] Jordan had been nominated the previous week after [[steve-scalise|Steve Scalise]] withdrew, and most likely needed 217 of 221 Republicans, but took only 200 votes on the first ballot and 199 on the second.[7] The chamber had been left leaderless after hard-line conservatives led by [[matt-gaetz|Matt Gaetz]] ousted [[kevin-mccarthy|Kevin McCarthy]]; Democrats backed [[hakeem-jeffries|Hakeem Jeffries]] and said they would be open to working with interim Speaker [[patrick-mchenry|Patrick McHenry]].[7] [[burning-bright|Burning Bright]] of [[badlands-media|Badlands Media]] argued that a paralyzed [[congress|Congress]] might temporarily be preferable, denying lawmakers the power to declare war while showing the public a rudderless United States amid international crisis — "sometimes, bad news is good news in the Mind War."[7]
+
+## References
+1. Badlands Brief — "Badlands News Brief: Draft Dodgers, Peacemakers & Warmongers Galore!", URL: https://badlands.substack.com/p/badlands-news-brief-0db
+2. Badlands Brief — "Badlands News Brief: Escalation ... Acceleration ... and Biden", URL: https://badlands.substack.com/p/badlands-news-brief-0f0
+3. Badlands Brief — "Badlands News Brief: Speaker Trump, Proxy War Funding & Emergency Alerts", URL: https://badlands.substack.com/p/badlands-news-brief-132
+4. Badlands News Brief — "Terror at Home and Abroad ...", URL: https://badlands.substack.com/p/badlands-news-brief-1d1
+5. Badlands News Brief — "Emotional Programming, Congressional Paralysis & Censorship Reign", URL: https://badlands.substack.com/p/badlands-news-brief-254
+6. Badlands News Brief — "The Week of Rage Continues ... Biden to the Rescue?", URL: https://badlands.substack.com/p/badlands-news-brief-28e
+7. Badlands News Brief — "Biden Bumbles & Narrative Whiplash Abounds", URL: https://badlands.substack.com/p/badlands-news-brief-6f0

@@ -1,0 +1,3 @@
+## "Global economic reordering" (August 2025)
+
+Amid the pressure on [[jerome-powell|Jerome Powell]] and the [[federal-reserve|Federal Reserve]] in August 2025, Badlands writer [[burning-bright|Burning Bright]] noted that Bessent had openly anticipated a "global economic reordering" and had been positioning himself to drive it, defending President [[donald-trump|Donald Trump]]'s trade activism as part of reshaping the world order away from centralized control.[{n}] The remark was cited alongside the fast-tracking of [[stephen-miran|Stephen Miran]] to a Fed board vacancy as one of the "moves on the edges" signalling a coming monetary reset.[{n}]

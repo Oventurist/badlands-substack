@@ -1,0 +1,29 @@
+---
+title: Jonathan Greenblatt
+created: 2026-08-06
+updated: 2026-08-06
+type: entity
+tags: [adl, advocacy, democratic-party]
+sources: [raw/a-cancer-on-modern-journalism.md, raw/badlands-brief-9eb.md]
+confidence: low
+---
+
+# Jonathan Greenblatt
+
+Jonathan Greenblatt heads the [[anti-defamation-league|Anti-Defamation League]] and is described by Badlands Media as a Democrat operative.[[1]](https://badlands.substack.com/p/a-cancer-on-modern-journalism)
+
+Under his leadership the ADL spent months harassing and haranguing [[elon-musk|Elon Musk]] for failing to crack down sufficiently on speech the organization deemed "hateful," and led a campaign that drove corporate advertisers away from [[x-platform|X]] by characterizing Musk as an antisemite.[[1]](https://badlands.substack.com/p/a-cancer-on-modern-journalism) After Musk banned phrases including "decolonization" and "from the river to the sea," the organization abruptly softened its posture toward him, a sequence the article presents as illustrating how such pressure groups operate.[[1]](https://badlands.substack.com/p/a-cancer-on-modern-journalism)
+
+## March 2026: West Bloomfield and the speech debate
+
+Following a shooting in Michigan, Greenblatt discussed confronting [[antisemitism|antisemitism]] and defending Jewish communities on X, writing that "What happened yesterday didn't happen in a vacuum. West Bloomfield now can be added to the long list of Jewish communities who have experienced the terror and trauma of a synagogue attack. They felt it firsthand. The rest of us are reeling, too."[2] He added that Jewish people are "too often accused of conspiracies or scapegoated for the world's problems," and said he was "sick of the hypocrisy we're hearing from politicians to podcasters, candidates and commentators," arguing that critics cannot claim to abhor antisemitism while blaming the Jewish people or the Jewish state for the conflict in the Middle East.[2]
+
+The post drew criticism from social media users who argued his rhetoric or framing could escalate tensions or worsen online hostility.[2] A separate viral clip shows Greenblatt referencing the "genius" behind [[israel|Israel]]'s [[pager-attack|pager-based intelligence operation]] against [[hezbollah|Hezbollah]] — an operation that turned pagers into incendiary devices — and saying similar ingenuity is needed to confront antisemitism.[2]
+
+### Commentary
+
+[[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that Greenblatt's strategy "is actually sound, if your intended endgame is to formally dismantle the [[first-amendment|First Amendment]]," describing the sequence as an instance of the [[hegelian-dialectic|Hegelian Dialectic]].[2] He noted that in the immediate aftermath of the [[west-bloomfield-synagogue-attack|West Bloomfield attack]] Greenblatt blamed podcasters and social media influencers for inciting the violence, that in his Knesset appearance Greenblatt urged Israel to purchase [[tiktok|TikTok]] to control that information battlespace — a platform subsequently purchased by Israeli entities — and that Greenblatt has more recently described developing an AI to detect antisemitic attitudes online and report them to relevant authorities.[2] He concluded that if podcasters are to be held responsible for inciting strangers to violence, the same logic should apply to those who stoke antisemitism with provocative statements, and warned that Americans may face a choice between maintaining Israel as an ally and keeping the First Amendment.[2]
+
+## References
+1. Badlands Brief — "A Cancer on Modern Journalism", URL: https://badlands.substack.com/p/a-cancer-on-modern-journalism
+2. Badlands Brief — "Dems Demand a Post-Trump Strategy as Hamas Haggles for Peace", URL: https://badlands.substack.com/p/badlands-brief-9eb

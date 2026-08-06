@@ -1,0 +1,96 @@
+---
+title: Nord Stream Sabotage
+created: 2026-08-06
+updated: 2026-08-06
+type: concept
+tags: [nord-stream, sabotage, russia, china, energy, geopolitics]
+sources: [raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-420.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-754.md]
+confidence: medium
+---
+
+# Nord Stream Sabotage
+
+The Nord Stream sabotage refers to the attacks that destroyed sections of the Nord Stream natural gas pipelines running from [[russia|Russia]] to Germany under the Baltic Sea, and to the subsequent international dispute over who was responsible and whether an independent investigation should be conducted.[1]
+
+## Attribution dispute
+
+Russia became increasingly vocal in alleging that Washington was behind the attacks following the publication of a report by investigative journalist Seymour Hersh, which described a [[cia|CIA]] and U.S. Navy covert operation carried out in coordination with Norway's intelligence services.[1] The report gave Moscow a documented Western-sourced narrative to cite in diplomatic settings, and framed the incident as an act of state sabotage against European energy infrastructure rather than an unattributed attack.[1]
+
+## UN Security Council resolution
+
+In February 2023 Russia introduced a draft resolution at the [[united-nations-security-council|UN Security Council]] calling for an international independent investigation commission into the pipeline incident, and initiated the Council's "silence procedure" on the text.[1] The United States and several other Western members broke silence and objected, preventing the commission from being established.[1]
+
+In March 2023 [[china|China]] publicly backed the Russian effort. State-run Xinhua reported that a Chinese foreign ministry spokesperson, responding to a media query at a regular press briefing, expressed support for the draft UNSC resolution.[1] Moscow and Beijing interpreted Washington's resistance to the resolution as an indication of guilt and suggested Western allies were obfuscating the matter — positioning the pipeline probe as one front in a broader contest between the Western bloc and the emerging [[multipolar-world|multipolar order]].[1]
+
+## Ukrainian coordinator reporting (November 2023)
+
+In November 2023 the Washington Post reported that a senior Ukrainian military officer with deep ties to the country's intelligence services had played a central role in the bombing, according to officials in Ukraine and elsewhere in Europe.[2] The officer, decorated 48-year-old colonel [[roman-chervinsky|Roman Chervinsky]] of Ukraine's special operations forces, was described as the "coordinator" of the operation, managing logistics and support for a six-person team that rented a sailboat under false identities and used deep-sea diving equipment to place explosive charges on the pipelines.[2] Three explosions on September 26, 2022 caused massive leaks on the Nord Stream 1 and 2 lines, leaving only one of the network's four gas links intact as winter approached.[2] The account was characterized as the most direct evidence to date tying Ukraine's military and security leadership to the sabotage, which spawned multiple criminal investigations and which U.S. and Western officials called a dangerous attack on Europe's energy infrastructure.[2]
+
+Badlands contributor [[burning-bright|Burning Bright]] read the report as deliberate narrative shielding for the [[cia|CIA]], arguing that the earlier [[seymour-hersh|Seymour Hersh]] account had already documented how elements within the Biden administration circumvented the U.S. chain of command to have proxies sabotage German energy infrastructure as a false flag against Russia.[2] While allowing that Ukrainian assets were likely used, he argued the framing sought to pin U.S. intelligence operations onto proxies, and that although any mainstream admission about Nord Stream represented movement of the Overton window and was therefore "a net positive," the deflection itself should be resisted.[2]
+
+## The Hersh Report (February 2023)
+
+[[seymour-hersh|Seymour Hersh]]'s February 2023 article "How America Took Out The Nord Stream Pipeline" placed the origin of the operation in December 2021, two months before the Russian invasion of Ukraine, when National Security Advisor [[jake-sullivan|Jake Sullivan]] convened a newly formed task force drawn from the [[joint-chiefs-of-staff|Joint Chiefs of Staff]], the [[cia|CIA]], and the State and Treasury Departments to recommend responses to [[vladimir-putin|Putin]]'s impending invasion.[4] The task force met in a secure room on a top floor of the Old Executive Office Building adjacent to the [[white-house|White House]], which also housed the President's Foreign Intelligence Advisory Board, and its deliberations turned on whether to recommend reversible measures such as sanctions and currency restrictions or irreversible kinetic action.[4] A source with direct knowledge told Hersh that Sullivan intended the group to produce a plan for destroying the two pipelines and was delivering on the desires of the President.[4]
+
+Badlands contributors treated the report as confirmation of long-standing claims within the Truth Community: that the Biden administration, acting for globalist allies and using U.S. intelligence agencies while bypassing the military chain of command, had attempted to precipitate World War III through a false flag attack on Russian–European energy infrastructure.[4] [[burning-bright|Burning Bright]] predicted the report would pave the way for escalation toward a perceived World War III precipice while seeding [[donald-trump|Donald Trump]] as a potential mediating figure and Putin as a sympathetic one staving off Western aggression.[4] [[just-human|Just Human]] wrote that President [[joe-biden|Joseph R. Biden]], Sullivan, [[victoria-nuland|Victoria Nuland]], the Joint Chiefs and the CIA had secretly conspired to attack Russia while circumventing the military and [[congress|Congress]], calling it a war crime and demanding impeachment and removal.[4]
+
+## Scandinavian investigations closed (2024)
+
+Gas leaks in each of the Nord Stream 1 and 2 pipelines were discovered at the end of September 2022 from infrastructure just outside Swedish and Danish territorial waters in the Baltic Sea.[3] Nord Stream 2 had never been put into operation after Germany axed the certification process following the Russian invasion of Ukraine, while Russia shut down Nord Stream 1 indefinitely in early September 2022, claiming an inability to repair gas turbines because of Western sanctions.[3]
+
+An investigation launched by [[sweden|Swedish]] authorities concluded that the leaks were the result of detonations, likely from "serious sabotage," but in early February 2024 Sweden ended its preliminary investigation on the grounds that it lacked jurisdiction to continue, as the incident occurred in international waters and involved no Swedish nationals.[3] On Monday, February 26, 2024, [[denmark|Denmark]] likewise dropped its probe into what it had described as "deliberate sabotage," citing insufficient grounds to pursue a criminal case; the Copenhagen police stated that "The joint investigation conducted by the Copenhagen Police and the Danish Security and Intelligence Services (PET) into the Nord Stream explosions has been concluded."[3]
+
+Commenting in the [[badlands-news-brief|Badlands News Brief]], [[burning-bright|Burning Bright]] observed that Denmark's rationale was a slight spin on Sweden's jurisdictional excuse — one that had apparently taken Swedish authorities over a year to reach — and highlighted the buried detail that [[germany|Germany]] was still continuing its own investigation with no assurance any report would be made public.[3] He argued this fit the suspicion, common among "conspiracy theorists," that Germany itself had signed off on or actively participated in a CIA-planned sabotage of its own energy infrastructure as a false flag intended to draw the U.S. military into direct conflict with Russia.[3]
+
+## Polish obstruction of the probe (January 2024)
+
+By January 2024, mainstream media and prime-time coverage of the pipeline sabotage had largely moved on once it became clear Russia had nothing to do with it.[5] The consensus, even among Moscow's vehement enemies, was that the September 26, 2022 series of blasts which disabled the Russia-to-Germany NS-1 and NS-2 natural gas pipelines had Ukrainian and/or Western involvement; mainstream sources favored the theory of a mystery group of pro-Ukraine operatives on a small yacht, while investigative journalist [[seymour-hersh|Seymour Hersh]] reported that it was a [[cia|CIA]] and US Navy special operation aided by Norwegian intelligence services.[5]
+
+The ongoing investigation by Germany, Denmark and Sweden continued to yield incremental developments, the latest of which — revealed in a Wall Street Journal report that week — involved apparent Polish obstruction of the probe, deemed by officials to be highly suspicious.[5]
+
+## Swedish conclusion of state involvement (April 2023)
+
+On April 6, 2023, [[sweden|Sweden]] announced that its ongoing investigation had concluded a state actor was the likeliest culprit behind the pipeline explosions — a finding received as further evidence supporting [[seymour-hersh|Seymour Hersh]]'s reporting.[6] Swedish Public Prosecutor [[mats-ljungqvist|Mats Ljungqvist]], who heads the probe, said "the clear main scenario" was that a state-sponsored group was responsible, a conclusion based on the explosives used, which are rare and not widely available outside of governments and their militaries.[6] He did not rule out other scenarios, and the Associated Press noted Sweden had not entirely excluded the possibility of an independent group.[6]
+
+Ljungqvist said investigators were "carrying out a number of concrete investigative precautions" and hoped to confirm who committed the crime, while cautioning that this would likely be difficult given that the event took place roughly 80 meters (262 feet) beneath the Baltic Sea.[6] [[denmark|Denmark]] was also investigating, though two of the leaks resulting from the September 26, 2022 explosions occurred within Sweden's economic zone.[6]
+
+Commenting in the [[badlands-news-brief|Badlands News Brief]], [[justin-deschamps|Justin Deschamps]] wrote that a fair portion of the world was rightly suspicious of the destruction of one of the few pipelines Russia used to send gas to Europe, and attributed broader public indifference to distorted facts supplied by globalist media outlets.[6] He credited the Swedish government with greater openness to non-mainstream narratives, while cautioning that it was not yet clear the "state actor" identified would not turn out to be Russia — noting that Moscow's motive for destroying its own pipeline, which it likely planned to use to erode Western energy dominance, was as elusive as signatures on 2020 mail-in ballots.[6] Deschamps concluded that the United States, or at least the Biden administration, was likely behind the attack, and argued that such conduct by "bad actors" using American power for personal gain drives other nations to unite against the US.[6] He held up [[donald-trump|Donald Trump]] as the candidate most likely to represent what he called the good-actor population of the United States.[6]
+
+## Wall Street Journal report on Zelensky's approval (August 2024)
+
+In August 2024 a new report indicated that Ukrainian President [[volodymyr-zelensky|Volodymyr Zelenskyy]] had initially approved a plan to sabotage the Nord Stream pipeline before later attempting to halt the operation.[7] The September 2022 explosion in the Baltic Sea destroyed a major Russian natural gas export route and created significant disruptions in energy markets.[7] The perpetrators had remained unknown for months, with Danish and Swedish investigations ending inconclusively and the United Nations admitting it had no additional details.[7]
+
+The Wall Street Journal provided new insights that Wednesday, detailing the events leading up to the attack.[7] According to the report, a team of six Ukrainian-backed divers chartered a 50-foot boat from Germany into the Baltic Sea, where they planted explosives on the pipeline; the Journal cited four Ukrainian defense officials with knowledge of the plot whose identities were not disclosed, and the details aligned with information from a German police investigation.[7] The scheme reportedly originated during a boozy night of celebration among Ukrainian businessmen and senior military officers impressed by recent battlefield successes, was funded by the businessmen with roughly $300,000, and received initial backing from then-army chief [[valerii-zaluzhnyi|Valeriy Zaluzhniy]].[7] Zelenskyy initially approved the operation, but an intervention by the [[cia|CIA]] in June prompted him to attempt to halt the plan.[7]
+
+### Badlands analysis
+
+[[burning-bright|Burning Bright]] characterized the report as a Narrative Deployment that, aside from attempting to shift blame away from the CIA — a point also raised by [[just-human|Just Human]] — illustrated two information-war cyphers: [[overtons-goalpost|Overton's Goalpost]] and the [[shark-fin-template|Shark Fin Template]].[7] On the first, he argued that all Narrative Deployments emanating from the Media Industrial Complex are either active or reactive: with Nord Stream, the active deployment was the original sabotage and subsequent propaganda operation aimed at fomenting tensions between the EU and Russia to cultivate a mandate for kinetic conflict, an effort that failed.[7] With the [[seymour-hersh|Seymour Hersh]] counter, the establishment was put on the back foot, so all subsequent NS2 deployments are defensive or preemptive in nature.[7] As for the Shark Fin Template, he wrote that the mere fact NS2 had returned to the story cycle could only result in increased exposure of the system that ordered the attack in the first place, concluding that "Panic Patterns abound."[7]
+
+## April 2023: the Washington Post investigation
+
+By April 2023, German investigators were expressing severe doubts about the official sabotage narrative promoted after [[seymour-hersh|Seymour Hersh]]'s report pointing to a joint [[cia|CIA]]–U.S. Navy covert operation carried out with Norwegian help.[8] Hersh had published a follow-up on Substack alleging that the CIA planted a cover story fed to The New York Times and the German newspaper Die Zeit, with an intelligence-community source telling him, "It was a total fabrication by American intelligence that was passed along to the Germans, and aimed at discrediting your story."[8]
+
+The favored narrative held that pro-Ukraine partisans conducted a rogue operation; Hersh maintained this was designed to shield the United States and the Biden administration for having ordered the attack.[8] The Die Zeit report cited German officials asserting the bombings were carried out by six people using a yacht rented in Poland and owned by two Ukrainians, and several Western outlets quickly published similar articles reinforcing that account.[8]
+
+A lengthy [[washington-post|Washington Post]] investigation published Monday, April 3, 2023, confirmed many of Hersh's conclusions and, in [[zerohedge|ZeroHedge]]'s reading, showed the cover story unraveling.[8] The Post reported that Western officials were not eager to discuss the sabotage at all, suggesting a continuing cover-up or a limited hangout, while Western accusations directed at Russia had long since quieted.[8]
+
+[[badlands-media|Badlands Media]] contributor [[burning-bright|Burning Bright]] summarized the Post's findings as: no evidence backing the administration's claim of a Ukrainian yacht; hand placement of the explosives being highly unlikely, implying advanced military equipment; much of the evidence appearing "planted"; and U.S. leadership seeing "little benefit from digging too deeply and finding an uncomfortable answer."[8] He closed with "Tick. Tock."[8]
+
+## Impeachment and "act of war" framing
+
+In February 2023 [[the-gateway-pundit|The Gateway Pundit]] asked whether President [[joe-biden|Joe Biden]] should be impeached for committing an act of war against a nuclear power without congressional consent if the United States had in fact destroyed the pipeline.[10] Without confirming or denying US government or military involvement, the outlet argued that the appropriate historic analogue for American personnel planting and remotely detonating explosives on Nord Stream 2 was the assassination of Archduke Franz Ferdinand — the sparking event of World War I, which caused latent alliances to solidify and fall into place.[10] On that reading, a verified US role would be equivalent to "shooting Archduke Ferdinand."[10]
+
+[[badlands-media|Badlands Media]] contributor [[ryan-delarme|Ryan DeLarme]] responded that Biden's list of impeachable offences "stretches from here to Ukraine," and that the more useful question was who ultimately benefited from the attack.[10] He characterised Biden as a fall guy positioned to absorb blame for economic collapse and entanglement in a third world war under cover of cognitive decline, noted that the attempted impeachment of [[donald-trump|Donald Trump]] had shown a president could be impeached on hearsay alone, and asked whether [[congress|Congress]] would treat this offence seriously.[10] DeLarme added that in his community's assessment "all roads lead to Switzerland."[10]
+
+## References
+
+1. Badlands Media — "Badlands News Brief: Exculpatory Trump Card & China's Moves", URL: https://badlands.substack.com/p/badlands-news-brief-0e0
+2. Badlands Brief — "Badlands News Brief: Narrative Shielding & Biden Bait", URL: https://badlands.substack.com/p/badlands-news-brief-204
+3. Badlands Brief — "Badlands News Brief: Trump Trounces Haley (Again) as the Media Spins", URL: https://badlands.substack.com/p/badlands-news-brief-3c0
+4. Badlands News Brief — "The Hersh Report, Exposure & Disclosure", URL: https://badlands.substack.com/p/badlands-news-brief-420
+5. Badlands Brief — "Badlands News Brief: Shenanigans Shall Continue Until Morale Improves ...", URL: https://badlands.substack.com/p/badlands-news-brief-49d
+6. Badlands Brief — "Badlands News Brief: Fauci Returns, the Dollar Falls & Stormy Struts", URL: https://badlands.substack.com/p/badlands-news-brief-4a3
+7. Badlands Brief — "Hacks Explain Hacks to other Hacks", URL: https://badlands.substack.com/p/badlands-news-brief-6aa
+8. Badlands Brief — "Badlands News Brief: President of Precedents ...", URL: https://badlands.substack.com/p/badlands-news-brief-6ff
+9. Badlands Brief — "Badlands News Brief: Ukraine Bursts, Tucker Returns & Trump Promises", URL: https://badlands.substack.com/p/badlands-news-brief-72e
+10. Badlands Brief — "Badlands News Brief: PsyOps and PsyActs EVERYWHERE ...", URL: https://badlands.substack.com/p/badlands-news-brief-754

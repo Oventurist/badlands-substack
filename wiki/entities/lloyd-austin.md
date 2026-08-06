@@ -1,0 +1,125 @@
+---
+title: Lloyd Austin
+created: 2026-08-06
+updated: 2026-08-06
+type: entity
+tags: [pentagon, secretary-of-defense, ukraine, biden-administration]
+sources: [raw/badlands-news-brief-017.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-301.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-533.md, raw/badlands-news-brief-536.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-780.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-8cb.md]
+confidence: medium
+---
+
+# Lloyd Austin
+
+Lloyd Austin served as U.S. Secretary of Defense in the administration of President [[joe-biden|Joe Biden]].[1]
+
+In early September 2024 Austin met with Ukrainian President [[volodymyr-zelensky|Volodymyr Zelenskyy]] and pushed back on Kyiv's request for authorization to use Western-supplied weapons for long-range strikes deep inside Russia.[1] Austin noted that Ukraine had already demonstrated the ability to strike targets inside Russia using its own domestically produced systems, including drones.[1]
+
+His position stood in contrast to signals from the State Department and London, where Secretary of State [[antony-blinken|Antony Blinken]] and British Foreign Secretary [[david-lammy|David Lammy]] had told Ukrainian officials they would relay the long-range request to their leaders.[1] Biden had permitted Ukraine to fire U.S.-provided missiles across the border into Russia in self-defense but had largely restricted the distance at which they could be fired.[1]
+
+## October 2023 strikes on Iranian-linked targets in Syria
+
+In late October 2023, Austin announced two U.S. airstrikes in eastern Syria against a weapons storage facility and an ammunition storage facility used by Iran's [[islamic-revolutionary-guard-corps|Islamic Revolutionary Guards Corps]] and its proxies.[14] In a statement he called them "precision self-defense strikes... in response to a series of ongoing and mostly unsuccessful attacks against U.S. personnel in Iraq and Syria by Iranian-backed militia groups."[14] Austin also stressed that the United States "does not seek conflict and has no intention nor desire to engage in further hostilities," while insisting that the Iranian-backed attacks on American forces were "unacceptable and must stop."[14] See [[2023-us-strikes-on-iranian-linked-targets-in-syria]].
+
+## November 2023 emergency trip to Kyiv
+
+On Monday, 20 November 2023, Austin made an unannounced visit to Kyiv, arriving at an awkward moment for US-Ukraine relations as President [[volodymyr-zelensky|Zelensky]] complained publicly that artillery shell deliveries had decreased because stocks were being diverted to Israel for its war in Gaza.[2] Austin wrote on X that he was "honored to meet with President @ZelenskyyUa in Kyiv today to reaffirm the United States' steadfast support for Ukraine," adding that the US and its allies "will continue to support Ukraine's urgent battlefield needs and long-term defense requirements."[2] Reporting noted that the shift by Washington and the [[pentagon|Pentagon]] toward emphasizing "long-term defense" began as it became clear Ukraine's counteroffensive was failing, while [[congress|Congress]] dragged its feet on the Biden administration's supplemental funding requests amid wrangling over the Israel-versus-Ukraine split.[2]
+
+It was Austin's second trip to Kyiv since the Russian invasion, and he said he was there "to deliver an important message – the United States will continue to stand with Ukraine in their fight for freedom against Russia's aggression, both now and into the future."[2] The visit came days after [[cia|CIA]] Director [[william-burns|William Burns]] made his own secretive unannounced trip, and commentary cited by ZeroHedge attributed the flurry of activity to deteriorating battlefield conditions in what Badlands describes as a [[november-2023-us-emergency-visits-to-ukraine|proxy war]] against Russia.[2]
+
+## Operation Prosperity Guardian (December 2023)
+
+On Tuesday, December 19, 2023, while travelling in the Middle East, Austin announced plans to establish a multinational coalition to safeguard Red Sea shipping called [[operation-prosperity-guardian|Operation Prosperity Guardian]], naming Britain, Bahrain, Canada, France, Italy, the Netherlands, Norway, Seychelles and Spain as participants.[4] Two days later he said Greece and Australia had also joined, bringing the grouping to twenty countries, though he acknowledged that at least eight participants had declined to be publicly named.[4] Several of the named allies quickly qualified or disclaimed their involvement, leaving the [[red-sea-shipping-crisis|Red Sea]] task force with only limited public backing.[4]
+
+## Revocation of the September 11 plea agreements
+
+On Friday, August 2, 2024, Austin overruled the overseer of the war court at [[guantanamo-bay|Guantánamo Bay]] and revoked plea agreements reached days earlier with [[khalid-sheikh-mohammed|Khalid Sheikh Mohammed]] and two alleged accomplices, [[walid-bin-attash|Walid bin Attash]] and [[mustafa-al-hawsawi|Mustafa al-Hawsawi]].[3] The [[pentagon|Pentagon]] announced the decision by releasing a memorandum relieving retired Brigadier General [[susan-escallier|Susan K. Escallier]] of her oversight of the capital case, while leaving her in charge of Guantánamo's other prosecutions.[3] Austin assumed direct oversight himself and cancelled the agreements, effectively restoring the death penalty as a possible sentence.[3] He wrote that because of the stakes involved, the "responsibility for such a decision should rest with me," and ordered: "Effective immediately, in the exercise of my authority, I hereby withdraw from the three pretrial agreements that you signed on July 31, 2024."[3]
+
+## Judicial scrutiny of the 9/11 plea deal rescission (2024)
+
+On August 2, 2024, barely 48 hours after the Defense Department announced that a senior official overseeing the [[guantanamo-bay|Guantánamo]] proceedings had entered into pretrial agreements with [[khalid-sheikh-mohammed|Khalid Sheikh Mohammed]], [[walid-bin-attash|Walid bin Attash]] and [[mustafa-al-hawsawi|Mustafa al-Hawsawi]], Austin intervened to rescind the plea agreements that would have spared the three the death penalty, saying in a short statement that the significance of such a decision meant responsibility for it "should rest with me."[6] The move drew praise among some victims' families and blowback from critics of the [[pentagon|Pentagon]]'s oft-maligned judicial proceedings at Guantánamo Bay, Cuba.[6]
+
+In an order issued August 12, 2024, military judge Air Force Col. [[matthew-mccall|Matthew McCall]] said he would examine whether Austin's rescission was legal, raising the prospect of another extended delay in the years-long prosecution over the murders of nearly 3,000 people on September 11, 2001.[6] Austin, a retired Army general who led troops in combat after 9/11, said he believed that "the families of the victims, our service members and the American public deserve the opportunity" to see the cases go to trial.[6]
+
+## Undisclosed cancer surgery and hospitalization (January 2024)
+
+In January 2024 it emerged that the [[pentagon|Pentagon]] had kept secret the details of Austin's cancer treatment, and that he had been admitted to [[walter-reed-national-military-medical-center|Walter Reed National Military Medical Center]] on December 22, 2023 for treatment of prostate cancer.[7] According to the hospital, Austin underwent a "minimally invasive surgical procedure called a prostatectomy to treat and cure prostate cancer."[7] The Pentagon disclosed what had happened only after days of speculation and criticism.[7]
+
+Fox News reporter [[peter-doocy|Peter Doocy]] pressed National Security Council Coordinator for Strategic Communications [[john-kirby|John Kirby]] on the episode at a press briefing, asking "Why should we believe anything this administration tells us about anything ever again?"[7] Kirby acknowledged that the Pentagon had faced a "challenge to credibility" by failing to quickly reveal the details of Austin's treatment.[7] Doocy then extended the question to the president's own health, asking how anyone could be certain the administration would not go to similar lengths to conceal problems with President [[joe-biden|Joe Biden]]'s health in future.[7]
+
+Reporting on the episode established that the 70-year-old Pentagon chief and career Army general had suffered complications from a routine surgery and had been hospitalized since January 1, 2024, but that the [[white-house|White House]] did not learn of his absence from the top Pentagon post until Friday, January 5 — leaving the civilian head of the military effectively incapacitated for four days without the Commander-in-Chief's knowledge.[12] Commentators stressed the timing, noting that Washington was simultaneously embroiled in major conflicts spanning Ukraine, Israel-Gaza and the Red Sea.[12]
+
+On Monday, January 8, 2024, former President [[donald-trump|Donald Trump]] publicly attacked Austin over the secrecy, accusing him of "improper professional conduct and dereliction of duty."[12] [[badlands-media|Badlands Media]] writer [[burning-bright|Burning Bright]] treated the statement half-seriously as a [[devolution|Devolution]] data point, joking that one might imagine Austin seated beside Trump as the message was composed, and invoking the line — attributed in jest to [[jon-herold|Jon Herold]] — that "when you understand the Devolution broadly ... you can see it in all things."[12]
+
+## April 2024 Iran Barrage Criticism
+
+Following Iran's April 13, 2024 missile and drone barrage against Israel, reporting indicated that Defense Secretary Austin was angered because his department had been given no time to plan for a potential attack.[8] Badlands writer GhostofBasedPatrickHenry ridiculed that account, arguing that war with Iran had been publicly discussed for years and that corporate media had telegraphed this specific attack for weeks, making professed surprise at the Pentagon implausible.[8] He extended the criticism to the department's leadership generally, writing that the clowns in charge did not value the lives of US soldiers and should be prosecuted for dereliction of duty.[8]
+
+## Testimony that NATO would fight Russia (February 2024)
+
+At a congressional hearing on February 29, 2024, Austin told the House of Representatives that [[nato|NATO]] would likely have to directly engage Russian expansion if Moscow emerged victorious in the war against Ukraine.[9] "Putin won't stop with Ukraine; he will continue to push forward and attack the sovereign territory of his neighbors," Austin stated.[9] He noted the concerns of the Baltic nations about the Russian threat and their understanding of what to expect from [[vladimir-putin|Vladimir Putin]], saying, "If you are in the Baltics, you're very concerned you might be next."[9] He concluded: "They understand Putin and his capabilities. And frankly, if Ukraine falls, I genuinely believe NATO will be fighting Russia."[9]
+
+Badlands writer [[burning-bright|Burning Bright]] grouped the testimony with Putin's state of the nation address and the [[leaked-russian-nuclear-threshold-files|leaked Russian nuclear threshold files]] as three headlines published within five hours, describing Austin as "the supposed Secretary of Defense for the main enforcement arm of said Globalist regime" — the US military, which he argued many believe has been neutered via the [[devolution|Devolution]] operation so that psychological operations and narrative seeding of this kind cannot be actualized.[9]
+
+## Confirmation of North Korean troops in Russia (October 2024)
+
+On 23 October 2024 Austin became the first U.S. official to publicly confirm evidence that North Korean troops were present in [[russia|Russia]], telling a press conference: "There is evidence that there are DPRK troops in Russia."[10] He said what the troops were doing remained to be seen and did not specify their number, but warned that "if they're co-belligerents, if their intention is to participate in this war on Russia's behalf, that is a very, very serious issue," with ramifications for both Europe and the Indo-Pacific.[10] He added that the development could suggest Russian President [[vladimir-putin|Vladimir Putin]] "may be even in more trouble than most people realize."[10] Both Russia and [[north-korea|North Korea]] denied the reports.[10] See [[north-korean-troop-deployment-to-russia|North Korean troop deployment to Russia]].[10]
+
+## February 2024 hospitalization and transfer of duties
+
+On Sunday, February 11, 2024, Austin was taken to [[walter-reed-national-military-medical-center|Walter Reed National Military Medical Center]] at around 2:20 p.m. and admitted to the critical care unit for treatment of symptoms "suggesting an emergent bladder issue," according to the [[pentagon|Pentagon]].[13] Hospital officials said it was "not clear how long Secretary Austin will remain hospitalized."[13] Deputy Secretary of Defense [[kathleen-hicks|Kathleen Hicks]] assumed the functions and duties of the top spot at the Pentagon shortly before 5 p.m., press secretary Maj. Gen. [[pat-ryder|Pat Ryder]] said, and the [[white-house|White House]], the chairman of the joint chiefs of staff and [[congress|Congress]] were notified.[13] Austin travelled to the hospital with the unclassified and classified communications systems required for his duties.[13]
+
+The rapid notification — the Pentagon's first statement came within three hours — followed Austin's acknowledgment on February 1, 2024 of failures in notifying the administration and the public about his previous hospitalization for cancer treatment in December 2023, an episode for which the White House was widely criticized.[13] Badlands writer [[ashe-in-america|Ashe in America]] noted that during the White House press briefing the following Monday, [[john-kirby|John Kirby]] said he was "not aware of any conversations" between President [[joe-biden|Joe Biden]] and Austin since the hospitalization, and answered "not at all" when asked whether Biden was concerned about Austin's ability to serve; she observed that no reporter asked whether Austin was concerned about Biden's ability to serve.[13]
+
+## Departure of chief of staff Kelly Magsamen (June 2024)
+
+In June 2024 the [[pentagon|Pentagon]] announced that Austin's chief of staff, Kelly Magsamen — who had taken the blame for failing to inform the [[white-house|White House]] that the defense secretary had been hospitalized in January 2024 — would step down that month.[11] Magsamen had been Austin's right-hand aide since he took office in 2021 and had worked largely behind the scenes; Austin called her "the chief architect of every initiative I have launched to defend our nation."[11] He credited her with navigating difficult international challenges "from Russia's unprovoked invasion of Ukraine to the devastating Israel-Hamas war after the October 7th Hamas atrocities," as well as embassy evacuations under extraordinary pressure and standing up to Chinese coercion in the South China Sea.[11]
+
+## Second carrier deployment to the eastern Mediterranean (October 2023)
+
+As Defense Secretary, Austin ordered a second aircraft carrier strike group to the eastern Mediterranean near Israel in October 2023 to deter [[iran|Iran]] or [[hezbollah|Hezbollah]] from joining the Israel-Hamas conflict.[15] "I have directed the USS Dwight D. Eisenhower Carrier Strike Group (CSG) to begin moving to the Eastern Mediterranean," Austin said in a statement confirming the deployment, describing it as "part of our effort to deter hostile actions against Israel or any efforts toward widening this war following Hamas's attack on Israel."[15] The [[uss-dwight-d-eisenhower-carrier-strike-group|Eisenhower strike group]] was to join the [[uss-gerald-r-ford|USS Gerald R. Ford]] strike group already in international waters off Israel, and senior officials said the carriers and additional Air Force fighter jets were meant to signal US commitment to Israel.[15]
+
+## December 2023 Israel visit and Red Sea coalition
+
+On Monday, December 18, 2023, Austin travelled to Israel — the latest in a series of high-ranking U.S. officials to do so — to obtain a closer assessment from Israeli counterparts of how Gaza operations were progressing, and was expected to convey a message of restraint as global pressure on both Tel Aviv and Washington intensified.[16] Earlier that month he had been among the first prominent Biden administration officials to voice rare public criticism of Israel.[16]
+
+Speaking at the Reagan National Defense Forum in California, Austin said: "You know, I learned a thing or two about urban warfare from my time fighting in Iraq and leading the campaign to defeat ISIS. The lesson is not that you can win in urban warfare by protecting civilians. The lesson is that you can only win in urban warfare by protecting civilians."[16] He warned that Israel faced a "strategic defeat" if it did not reduce civilian casualties in Gaza, adding that "the center of gravity is the civilian population and if you drive them into the arms of the enemy, you replace a tactical victory with a strategic defeat," and pledging to "continue to press Israel to protect civilians and to ensure the robust flow of humanitarian aid."[16] Republican hawks seized on the remarks as evidence of weakening presidential commitment to Israel; Senator [[lindsey-graham|Lindsey Graham]] called Austin's words "naïve" and said he had "just lost all confidence in this guy."[16] Austin's expected messaging aligned with national security adviser [[jake-sullivan|Jake Sullivan]], who during his own visit to Israel had said the IDF needed to conclude the "high intensity" phase of its offensive "within weeks."[16]
+
+On the same trip Austin announced the establishment of [[operation-prosperity-guardian|Operation Prosperity Guardian]], describing it as "an important new multinational security initiative under the umbrella of the [[combined-maritime-forces|Combined Maritime Forces]] and the leadership of its Task Force 153, which focuses on security in the Red Sea."[16]
+
+## Cancelled Gallant meeting (October 2024)
+
+A meeting between Austin and Israeli Defense Minister [[yoav-gallant|Yoav Gallant]], scheduled for Wednesday, October 9, 2024 at the [[pentagon|Pentagon]], was cancelled by Israel as the two governments deliberated over the response to Iran's missile attack the previous week.[17] Pentagon deputy press secretary Sabrina Singh told reporters, "We were just informed that Minister Gallant will be postponing his trip to Washington, D.C.," adding that "Secretary Austin looks forward to seeing him soon."[17] Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] had reportedly withheld approval for the trip pending a call with President [[joe-biden|Joe Biden]] and a decision by Israel's political-security cabinet on Iran.[17]
+
+## January 2024 Ukraine contact group meeting
+
+At the monthly meeting of the roughly 50-nation group coordinating support for [[ukraine|Ukraine]] — a body Austin established in April 2022 — the Biden administration arrived empty-handed for the first time in January 2024, the United States having exhausted its funding for Ukrainian ammunition and missiles while further aid remained stalled in domestic politics.[18] Austin delivered his opening remarks by video from home, where he was recuperating following prostate cancer surgery, urging the group to "dig deep to provide Ukraine with more lifesaving ground-based air defense systems and interceptors."[18] The video statement was the first public appearance by Austin, then 70, since his two-week hospitalization for complications from the surgery; he appeared slightly gaunt.[18]
+
+## Undisclosed hospitalization (January 2024)
+
+Austin was admitted to [[walter-reed-national-military-medical-center|Walter Reed National Military Medical Center]] on New Year's Day 2024 due to complications from an elective surgery, but President [[joe-biden|Joe Biden]] was not aware for days that his defense secretary had been hospitalized, a source familiar with the matter told [[cnn|CNN]].[19] National security adviser [[jake-sullivan|Jake Sullivan]] ultimately informed Biden late on Thursday afternoon, soon after Sullivan himself learned of the hospitalization.[19]
+
+The [[pentagon|Pentagon]] announced the hospitalization on Friday, and Austin issued his first statement on Saturday — five days after being admitted — saying he could have done a "better job" of notifying the public.[19] He offered no details about his condition and did not explain why he had been hospitalized on January 1; as of Saturday evening he remained in the hospital, according to a defense official.[19] In the seven-sentence statement he thanked the "amazing" staff at Walter Reed, said he was "on the mend" and looking forward to returning to the Pentagon, acknowledged "media concerns about transparency," and committed to "doing better," but did not apologize for the delayed notification.[19] CNN noted that senior administration and military officials who are hospitalized normally issue a statement within 24 hours.[19]
+
+Badlands writer [[burning-bright|Burning Bright]] treated the episode as an "organic little white pill masquerading as a black pill," arguing that the story's memetic power came from being simultaneously surprising, funny and slightly frightening: surprising that the supposed commander-in-chief did not know what his defense secretary was doing, funny that Biden did not know what was happening at any given time, and terrifying to normie audiences on both counts.[19] While conceding it was impossible to know whether the reporting was accurate, he wrote that the affair lined up with the idea of [[continuity-of-government|Continuity of Government]]/[[devolution|Devolution]] and with the notion of a "Fake Admin" and a "Fake President" leading the country in name only.[19]
+
+## References
+
+1. Badlands Brief — "Badlands News Brief: Tracking Resignations, Scare Events & the Death of Taxes", URL: https://badlands.substack.com/p/badlands-news-brief-017
+2. Badlands Brief — "Lawsuits Can Be Very Effective ...", URL: https://badlands.substack.com/p/badlands-news-brief-051
+3. Badlands Brief — "Badlands News Brief: Fake Candidates, Plea Deals & War Drums", URL: https://badlands.substack.com/p/badlands-news-brief-264
+4. Badlands Brief — "Badlands News Brief: The Witch Hunt Hits a Few Snags as the Landscape Shifts", URL: https://badlands.substack.com/p/badlands-news-brief-2a0
+5. Badlands Brief — "Badlands News Brief: Iranian Fireworks & Conspiracy Convergence", URL: https://badlands.substack.com/p/badlands-news-brief-301
+6. Badlands News Brief — "Monkeypox ... For Real? And Other Info War Oddities", URL: https://badlands.substack.com/p/badlands-news-brief-36a
+7. Badlands Brief — "Badlands News Brief: Shenanigans Shall Continue Until Morale Improves ...", URL: https://badlands.substack.com/p/badlands-news-brief-49d
+8. Badlands Brief — "Israel Goes Hot (or Not?) as the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-4b3
+9. Badlands News Brief — "A Presidential Border Bash and Russophobia End the News Week", URL: https://badlands.substack.com/p/badlands-news-brief-533
+10. Badlands Brief — "Orange Man Reruns & Scandals Galore", URL: https://badlands.substack.com/p/badlands-news-brief-536
+11. Badlands Brief — "Russia, the MSM and El Salvador Call Out Joe Biden", URL: https://badlands.substack.com/p/badlands-news-brief-6b1
+12. Badlands Brief — "Epstein Boomerangs & Bipartisan Bullsh*t", URL: https://badlands.substack.com/p/badlands-news-brief-6d2
+13. Badlands Brief — "Biden Hemorrhages Already-Nonexistent Support", URL: https://badlands.substack.com/p/badlands-news-brief-6fc
+14. Badlands Brief — "Badlands News Brief: Escalation is the Name of the Game", URL: https://badlands.substack.com/p/badlands-news-brief-73f
+15. Badlands Brief — "Badlands News Brief: US Carriers, FBI Warnings & Election Wins", URL: https://badlands.substack.com/p/badlands-news-brief-780
+16. Badlands Brief — "Badlands News Brief: Trump 2024 Has the Deep State a Little Testy …", URL: https://badlands.substack.com/p/badlands-news-brief-810
+17. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
+18. Badlands Brief — "Badlands News Brief: The Trump Train Rolls on ... Fake MAGA Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-89f
+19. Badlands Brief — "SCOTUS Enters the Fray as Biden Barks at MAGA Hats", URL: https://badlands.substack.com/p/badlands-news-brief-8cb

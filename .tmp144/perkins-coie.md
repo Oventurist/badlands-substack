@@ -1,0 +1,3 @@
+## Colorado Secretary of State appointment (2025)
+
+In 2021 attorney [[andrew-kline|Andrew Kline]] joined Perkins Coie full time, remaining with the firm until March 2025, when according to Badlands reporting he was secretly appointed to run Colorado Secretary of State [[jena-griswold|Jena Griswold]]'s office without any public announcement.[{n}] [[ashe-in-america|Ashe in America]] cited the move while covering President [[donald-trump|Donald Trump]]'s demands for the release of [[tina-peters|Tina Peters]], treating the placement of a Perkins Coie lawyer atop the office that prosecuted Peters and sought to remove Trump from the Colorado ballot as evidence of "the whole corrupt temple."[{n}]

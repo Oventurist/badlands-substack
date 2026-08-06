@@ -1,0 +1,53 @@
+---
+title: David Weiss
+created: 2026-08-06
+updated: 2026-08-06
+type: entity
+tags: [prosecutor, department-of-justice, hunter-biden, delaware]
+sources: [raw/badlands-news-brief-090.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-82f.md]
+confidence: medium
+---
+
+# David Weiss
+
+David Weiss is the United States Attorney whose office handled the long-running federal investigation into [[hunter-biden|Hunter Biden]], the son of President [[joe-biden|Joe Biden]].[1]
+
+## Role in the Hunter Biden tax investigation
+
+Testimony released by two [[internal-revenue-service|Internal Revenue Service]] whistleblowers in June 2023 indicated that Weiss was blocked by the [[department-of-justice|Department of Justice]] from bringing charges against Hunter Biden in two different jurisdictions during the previous year.[1] According to Representative Jason Smith of Missouri, Weiss also sought appointment as a special counsel in the case and was denied that status.[1]
+
+The whistleblowers further alleged that the IRS had recommended felony charges against Hunter Biden, but that after those recommendations were transmitted to the Biden Justice Department the case "came out as two misdemeanors," as summarized by journalist Byron York.[1] The disclosures were characterized by [[zerohedge|ZeroHedge]] as bombshell evidence against the Bidens, the Justice Department and Attorney General [[merrick-garland|Merrick Garland]].[1]
+
+## Commentary
+
+Writing in the [[badlands-news-brief|Badlands News Brief]], [[burning-bright|Burning Bright]] argued that the whistleblower disclosures showed the Biden administration had not wanted any charges to be filed against Hunter Biden and had failed to prevent them, complicating the simple "two-tier justice" reading of the case.[1]
+
+## Response to the Hunter Biden pardon (December 2024)
+
+After President [[joe-biden|Joe Biden]] issued his son a "full and unconditional pardon" on December 1, 2024, Weiss filed court papers objecting to outright dismissal of the California tax case and rejecting suggestions that he had selectively prosecuted [[hunter-biden|Hunter Biden]].[2] "There was none and never has been any evidence of vindictive or selective prosecution in this case," Weiss wrote.[2]
+
+Weiss argued that the charges should not be automatically dismissed with prejudice; instead the court should end all proceedings and close the case by recording the pardon as the final disposition — a difference he acknowledged was largely procedural.[2] He contended that the pardon neither absolved Hunter Biden of guilt nor pointed to any defect in the indictment, and noted that the government had not yet seen the official pardon document.[2] "If media reports are accurate, the Government does not challenge that the defendant has been the recipient of an act of mercy," he wrote. "But that does not mean the grand jury's decision to charge him, based on a finding of probable cause, should be wiped away as if it never occurred."[2] He added that the charges should not be erased "because the defendant falsely claimed that the charges were the result of some improper motive," observing that no court had agreed with those claims.[2] Hunter Biden filed a parallel dismissal request in Delaware, where he had been convicted on federal gun charges that summer.[2] See [[hunter-biden-pardon|Hunter Biden pardon]].[2]
+
+## Rejecting the diversion agreement
+
+In a court filing on August 15, 2023, Weiss denied that [[hunter-biden|Hunter Biden]]'s plea deal and pretrial diversion agreement were in force, rebutting defense claims that the diversion agreement was "valid and binding" and had been dictated by [[department-of-justice|DOJ]] prosecutors.[3] "The Government never said the proposed diversion agreement was in effect because it is not," he wrote, adding that in none of the transcript portions cited by the defense had the government said otherwise.[3]
+
+## Hunter Biden tax memos (November 2023)
+
+Once-secret IRS memos released by Congress in November 2023 identified accountant [[jeffrey-gelfound|Jeffrey Gelfound]] as a cooperating witness in the IRS criminal probe of [[hunter-biden|Hunter Biden]] and as a likely key witness if the younger Biden were charged with tax crimes by Special Counsel Weiss.[4] The memos indicated that Hunter Biden had allegedly continued to misrepresent his income and deductions to Gelfound even as the accountant worked to clear his delinquent taxes.[4]
+
+## Hunter Biden's 2024 guilty plea
+
+On September 5, 2024, [[hunter-biden|Hunter Biden]] entered a guilty plea to all nine federal tax charges Weiss's office had brought against him, a reversal that his attorney [[abbe-lowell|Abbe Lowell]] announced in court and that took Weiss's prosecutors by surprise.[5] Line prosecutor [[leo-wise|Leo Wise]] told Judge [[mark-scarsi|Mark Scarsi]] that "this is the first we are hearing about this," while a source familiar with the special counsel's team characterised the switch as an unaccepted offer from the defense rather than a settled agreement.[5] Scarsi noted that the court did not need the government's agreement to accept an Alford plea, and sentencing was set for December 16, 2024 with the defendant remaining free on bond.[5]
+
+## September 2023 gun indictment
+
+In mid-September 2023 Weiss, as special counsel, indicted [[hunter-biden|Hunter Biden]] on three felony gun charges, with the possibility of additional tax charges still open — legal exposure that formed the backdrop to Biden's lawsuit against the [[internal-revenue-service|IRS]] days later.[6]
+
+## References
+1. Badlands Brief — "Badlands News Brief: Hunter Hunted, Billionaire Boxing & Snopes Nopes", URL: https://badlands.substack.com/p/badlands-news-brief-090
+2. Badlands Brief — "Badlands News Brief: Democrats in Disarray as Globalists Bend the Knee", URL: https://badlands.substack.com/p/badlands-news-brief-099
+3. Badlands News Brief — "A Biden, a Clinton and a Trump Walk Into a SCIF", URL: https://badlands.substack.com/p/badlands-news-brief-228
+4. Badlands Brief — "Badlands News Brief: Narrative Shielding & Biden Bait", URL: https://badlands.substack.com/p/badlands-news-brief-204
+5. Badlands Brief — "A Not so Brief Full of Sovereign SIGNAL", URL: https://badlands.substack.com/p/badlands-news-brief-711
+6. Badlands Brief — "Badlands News Brief: Missing Planes, Missing Funds & Missing Metrics", URL: https://badlands.substack.com/p/badlands-news-brief-82f

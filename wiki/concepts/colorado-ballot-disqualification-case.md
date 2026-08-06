@@ -1,0 +1,62 @@
+---
+title: Colorado Ballot Disqualification Case
+created: 2026-08-06
+updated: 2026-08-06
+type: concept
+tags: [2024-election, ballot-access, fourteenth-amendment, courts, lawfare]
+sources: [raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-7e0.md]
+confidence: medium
+---
+
+# Colorado Ballot Disqualification Case
+
+The **Colorado ballot disqualification case** was the December 2023 decision of the [[colorado-supreme-court|Colorado Supreme Court]] barring former President [[donald-trump|Donald Trump]] from the state's presidential primary ballot on the ground that he had "engaged in insurrection" under Section 3 of the [[fourteenth-amendment|Fourteenth Amendment]].[1]
+
+## The ruling
+
+On December 19, 2023, the Colorado Supreme Court held that Trump was disqualified because he incited his supporters to storm the U.S. Capitol on January 6, 2021.[1] The court reasoned that because Colorado election law permits only qualified candidates to appear on the ballot, it would be "wrongful" for the secretary of state to place on the ballot a candidate disqualified under Section 3, which bars from office anyone who previously took an oath of office and later engaged in an insurrection.[1] Lawyers for Trump immediately announced their intention to appeal to the [[supreme-court-of-the-united-states|U.S. Supreme Court]].[1]
+
+## Expected Supreme Court disposition
+
+Constitutional law commentator [[horace-cooper|Horace Cooper]] of the [[national-center-for-public-policy-research|National Center for Public Policy Research]] predicted the Supreme Court's conservative majority would reverse the Colorado ruling narrowly — likely by holding that the Section 3 disqualification clause does not reach the presidency — while avoiding the substantive question of whether Trump's actions constituted insurrection.[1] Cooper linked that reticence to the Court's desire not to influence the election, invoking the reputational damage the justices took for Bush v. Gore in 2000.[1]
+
+## Commentary
+
+[[badlands-media|Badlands Media]] writer [[ashe-in-america|Ashe in America]] laid out four possible outcomes: reversal of both the insurrection finding and the Section 3 ruling (in her view the correct result); reversal of the insurrection finding alone, mooting the Section 3 question; affirmance of both, which she predicted would trigger copycat rulings in state courts nationwide; or reversal of the Section 3 ruling while leaving the insurrection finding untouched.[1] She judged the fourth outcome the most likely and a mistake, arguing that at a minimum the high court should chastise the lower courts for reaching a criminal-style finding in a civil case and acting on it.[1]
+
+She further argued that the Colorado insurrection findings rested on the "highly political" report of the January 6 committee, that leaving them intact would bar military-veteran January 6 defendants in Colorado from running for office, and that it would green-light what she called the uniparty's next phase of [[lawfare|lawfare]]-as-election-interference while affirming that "fake insurrections are effective change tactics."[1]
+
+## Trial proceedings (November 2023)
+
+Before the Colorado Supreme Court ruling, the matter was tried in [[denver-district-court|Denver District Court]] beginning Monday, October 30, 2023, on whether former president [[donald-trump|Donald Trump]] could appear on Colorado's ballot for the 2024 presidential election.[2] A group of Republican and unaffiliated voters teamed with a liberal organization to argue Trump was ineligible under the [[fourteenth-amendment|Fourteenth Amendment]]'s disqualification clause, while his campaign countered that his role in the January 6 riot was limited to constitutionally protected political speech.[2] The hearing was expected to last all week, with Judge [[sarah-b-wallace|Sarah B. Wallace]] to issue a written ruling afterward; neither side expected the suit to end there, and appeal — possibly to the [[supreme-court-of-the-united-states|U.S. Supreme Court]] — was anticipated from the outset.[2] Colorado Secretary of State [[jena-griswold|Jena Griswold]] was the named respondent.[2]
+
+On Wednesday, November 1, the trial began twenty minutes late, with the first witness addressing the Fourteenth Amendment.[2] Deputy Elections Director [[hillary-rudy|Hillary Rudy]] of the [[colorado-department-of-elections|Colorado Department of Elections]] testified to the processes and teams responsible for granting or denying ballot access; she was cross-examined by Trump's lead attorney [[scott-gessler|Scott Gessler]], a former Colorado Secretary of State and her onetime superior, in exchanges observers described as cold.[2] Gessler then moved for a directed verdict, which Judge Wallace denied after the lunch recess.[2] The defense called [[kash-patel|Kash Patel]], whose combative testimony [[badlands-media|Badlands Media]] judged devastating to the petitioners' case, and had planned to call Katrina Pierson before adjournment.[2]
+
+### Livestream controversy
+
+At 3:13 p.m. the proceeding was briefly halted when petitioners' attorney [[eric-olson|Eric Olson]] informed the court that someone was recording the livestream of the hearing without permission, identifying the streamer by the government name of [[badlands-media|Badlands]] host [[ashe-in-america|Ashe in America]] and describing her as a conservative activist involved in efforts urging people to question and reject the results of the 2020 election.[2] She responded that Olson had lied to the judge about the stream, that the Badlands feed alone had been singled out among all coverage, and that being named by a name known chiefly from government records and the NAACP-led voter intimidation suit against her felt personal and intimidating.[2] Badlands ended its stream out of caution, and day four was set to begin at 8:00 a.m. Mountain Time on Thursday.[2]
+
+## District court ruling and cross-appeals (November 2023)
+
+Judge [[sarah-wallace|Sarah Wallace]] issued her written ruling on Friday, November 17, 2023, finding that [[donald-trump|Donald Trump]] "engaged in insurrection" on January 6, 2021, but holding that he could remain on the state's ballot because he was not covered by the Constitution's ban on insurrectionists holding office.[5] The decision was described as the latest in a series of defeats for the effort to end Trump's candidacy under Section 3 of the [[fourteenth-amendment|Fourteenth Amendment]], a provision used only a handful of times since the years after the Civil War and created to prevent former Confederates from returning to government positions.[5]
+
+Both sides appealed to the [[colorado-supreme-court|Colorado Supreme Court]] on Monday night, November 20, 2023.[5] [[citizens-for-responsibility-and-ethics-in-washington|Citizens for Responsibility and Ethics in Washington]], filing on behalf of a group of Republican and unaffiliated Colorado voters, argued Wallace was wrong to rule that it was unclear whether the provision was intended to apply to presidents, while Trump appealed the insurrection finding and questioned whether a state court judge, rather than Congress, should settle the issue.[5]
+
+[[ashe-in-america|Ashe in America]] wrote that Trump's decision to appeal despite winning on ballot access showed "there is more going on," arguing the ruling "rubber stamped the J6 Committee Report" and was "a horrible ruling for Truth."[5] She noted the appeal would move quickly because Colorado's primary ballot had to be finalized by December 29, 2023.[5]
+
+## Spillover to other states (December 2023)
+
+The 19 December ruling triggered parallel efforts elsewhere. California's lieutenant governor, [[eleni-kounalakis|Eleni Kounalakis]], wrote to Secretary of State [[shirley-weber|Shirley Weber]] the following day urging her to explore all legal options for removing [[donald-trump|Trump]] from California's ballot, citing the Colorado decision and Section 3 of the [[fourteenth-amendment|Fourteenth Amendment]]; Weber declined and certified Trump on the 5 March 2024 primary ballot on 28 December.[3] Maine took the opposite course from California, moving to remove Trump.[3] The Colorado Republican Party appealed the 4–3 ruling — issued by a court composed entirely of Democrat appointees — to the [[supreme-court-of-the-united-states|US Supreme Court]], which was expected to be the final arbiter of Trump's eligibility.[3] Independent presidential candidate [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] denounced the ruling as making America "look like a Banana Republic," warning the country would become ungovernable if Trump were excluded by judicial fiat.[3]
+
+## The insurrection finding as precedent
+
+Badlands writer [[ashe-in-america|Ashe in America]] argued in January 2024 that the case's lasting significance lay not in ballot access — [[donald-trump|Donald Trump]] remained on the [[colorado|Colorado]] primary ballot — but in the trial court's finding of fact that January 6 was an insurrection, upheld by the [[colorado-supreme-court|Colorado Supreme Court]].[4] That confirmation, she wrote, "gave this Secretary of State in Maine all she needed to act unilaterally in barring 45 from her state's primary ballot," referring to [[shenna-bellows|Shenna Bellows]]' [[maine-ballot-disqualification|removal of Trump from the Maine ballot]].[4]
+
+She therefore argued the [[supreme-court-of-the-united-states|U.S. Supreme Court]] must rule on the underlying findings when the Colorado GOP and Trump appeals in [[anderson-v-griswold|Anderson v. Griswold]] reached it, rather than deciding the [[fourteenth-amendment|Fourteenth Amendment]] question alone, because "it's never been about ballot access" but about using progressive courts to punish political opponents and neutralize dissent.[4] An uncorrected finding, she warned, could bar military-veteran January 6 attendees such as [[ron-hanks|Ron Hanks]] from running for office and "green light the uniparty's next phase of lawfare-as-election-interference."[4] Colorado, she added, would remain a lawfare battlefield alongside [[tina-peters|Tina Peters]]' February 2024 trial and a concurrent trial challenging First Amendment activity by the Colorado grassroots.[4]
+
+## References
+1. Badlands Brief — "Badlands News Brief: The Witch Hunt Hits a Few Snags as the Landscape Shifts", URL: https://badlands.substack.com/p/badlands-news-brief-2a0
+2. Badlands Brief — "Badlands News Brief: Kash Unleashed, Zelensky Abandoned & Trump Championed", URL: https://badlands.substack.com/p/badlands-news-brief-356
+3. Badlands Brief — "Teflon Don Marches Into the New Year as Biden Stumbles", URL: https://badlands.substack.com/p/badlands-news-brief-37f
+4. Badlands Brief — "Badlands News Brief: Hypocrisy Roundup & Rug-pulls Galore", URL: https://badlands.substack.com/p/badlands-news-brief-378
+5. Badlands Brief — "Badlands News Brief: The Deep State Death Spiral Has Only Just Begun", URL: https://badlands.substack.com/p/badlands-news-brief-7e0

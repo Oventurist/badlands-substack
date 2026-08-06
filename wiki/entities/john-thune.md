@@ -1,0 +1,58 @@
+---
+title: John Thune
+created: 2026-08-06
+updated: 2026-08-06
+type: entity
+tags: [senate, confirmations, republican-leadership]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-6b4.md, raw/badlands-brief-625.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-4cf.md]
+confidence: medium
+---
+
+# John Thune
+
+John Thune is the Senate Majority Leader. In January 2026 Vice President [[jd-vance|JD Vance]] said Thune had pledged swift confirmation of a nominee to a newly created assistant attorney general position focused on investigating fraud tied to federally backed programs.[1]
+
+## Role in the fraud-probe appointment
+
+The new post, announced following claims that taxpayers lost billions of dollars in Minnesota, requires Senate confirmation, and Vance said a nominee was expected to be announced within days.[1] Thune's pledge of rapid action was cited as evidence the administration intended to stand the office up quickly, with initial investigative efforts concentrated in Minnesota.[1]
+
+## Friction with Trump over legislative pace (June 2026)
+
+In June 2026, tensions emerged between President [[donald-trump|Donald Trump]] and some Senate Republicans over the pace and strategy of advancing the administration's 2026 agenda.[2] Trump publicly criticized lawmakers he believed were moving too slowly, while Republicans pointed to Senate procedures and narrow majorities as constraints.[2] As Majority Leader, Thune emphasized working through the legislative process, and Senators [[thom-tillis|Thom Tillis]], [[john-cornyn|John Cornyn]], and [[bill-cassidy|Bill Cassidy]] pushed back on the expectation that senators approve proposals without changes or extended debate; despite the disagreements, the senators cited were described as generally supportive of Trump's policy goals.[2]
+
+Trump also pressed Thune and the Republican Senate directly on Truth Social to terminate the filibuster and immediately approve the [[save-america-act|SAVE America Act]], warning that failure to act would leave them "on the wrong side of History."[2] Badlands contributor [[ashe-in-america|Ashe in America]] read the standoff through change-management theory, arguing that Thune and his "old guard collaborators" were deliberately destabilized — discombobulated — and were attempting delay because they could not locate where their power had gone.[2]
+
+## April 2026: Brennan records
+
+Aides to Senate Majority Leader Thune told the [[department-of-justice|Justice Department]] in 2026 that he was seeking unanimous consent to release Senate committee records concerning former [[cia|CIA]] Director [[john-brennan|John Brennan]], while discussing the matter with Democrats to avoid a floor vote.[3] The [[united-states-senate|Senate]] had not transmitted the requested transcripts and records by the February 23 deadline, a delay reported to be affecting part of a Russia-collusion investigation based in Fort Pierce, Florida.[3]
+
+## 2024 Senate GOP leadership race
+
+Thune was one of two announced candidates — with [[john-cornyn|John Cornyn]] of Texas — to succeed [[mitch-mcconnell|Mitch McConnell]] as Senate Republican leader, a field ZeroHedge characterized as "two quintessential establishment types."[4] John Barrasso of Wyoming, previously counted among "The Three Johns," said he would instead seek the number two slot as party whip.[4] After Kentucky Senator [[rand-paul|Rand Paul]] teased a bid, [[elon-musk|Elon Musk]] endorsed Paul and dared Thune and Cornyn to put their names before X users; Paul's poll gave him 96 percent against the two, each below 2 percent.[4]
+
+## Megabill Medicaid fight (June 2025)
+
+With President [[donald-trump|Donald Trump]]'s July 4 deadline approaching, Thune told [[politico|Politico]] on June 24, 2025 that the Senate was "on a path" to begin voting on the reconciliation megabill that Friday.[5] He faced immense pressure to water down the [[medicaid|Medicaid]] provisions Senate Republicans were counting on for hundreds of billions of dollars in savings, while Speaker [[mike-johnson|Mike Johnson]] warned privately that the Senate's deep Medicaid cuts could cost House Republicans their majority in 2026.[5]
+
+## Shutdown warning over Russ Vought (October 2025)
+
+During the government shutdown that began on October 1, 2025, Senate Majority Leader Thune declined to endorse the slash-and-burn campaign that White House budget director [[russ-vought|Russ Vought]] had planned for the federal government, while insisting that Democrats had only themselves to blame for it.[6] "This is the risk of shutting down the government and handing the keys to Russ Vought," Thune said in an exclusive interview in the Capitol, adding that "there should have been an expectation" among Democrats that Vought's [[office-of-management-and-budget|Office of Management and Budget]] could broadly target government workers and programs during a shutdown.[6]
+
+Thune spoke on the same day several Republicans aired discomfort with Vought's moves: Rep. Mike Lawler of New York objected to the holdup of major transportation projects in his state, while Reps. Blake Moore of Utah and Brian Babin of Texas raised qualms about potential mass layoffs on a private House GOP call with Vought.[6] Pressed on whether Vought was muddying the party's message that Democrats bore responsibility for reopening the government, Thune said, "The only thing I would say about that is yes, and we don't control what he's going to do."[6]
+
+## Defense appropriations gambit (October 2025)
+
+On October 15, 2025, Thune threw what The Hill described as a curveball into the shutdown fight by planning to bring a full-year spending bill for the [[pentagon|Pentagon]] to the Senate floor on Thursday, effectively daring Democrats to oppose it while they pressed health care as their central demand.[7] Democrats had been almost completely united against the GOP's "clean" bill to fund the government through November 21, and the Senate voted down the House-passed continuing resolution for the ninth time that Wednesday, with another stopgap vote expected the next day.[7]
+
+The full-year defense bill was the product of a bipartisan appropriations process and had cleared committee on a 26-3 vote earlier in the year, and it would fund military paychecks that could be at risk if the shutdown ran to the end of the month.[7] Democrats, wary of appearing to soften their opposition to the [[trump-administration|Trump administration]], noted they had received no guarantees about what Republicans might attach to the measure once it cleared the procedural hurdle.[7] "It seems like it's a hard vote," Thune said, "because they all say they want a normal appropriations process, and we're trying to give them one. I get it, it's in the middle of a shutdown, which is a complicating dynamic here."[7]
+
+Badlands contributor Ashe in America countered that the only complicating dynamic was "impotent Democrats frustrated by their unsatisfying lack of power," observing that the bipartisan Pentagon bill could ostensibly have passed months earlier and asking, sixteen days into the [[october-2025-government-shutdown|shutdown]], what had actually been saved.[7]
+
+## References
+1. Badlands Brief — "Somali Shatterpoints, Cartel Countermeasures, & Erosion of the World Order", URL: https://badlands.substack.com/p/badlands-brief-094
+2. Badlands Brief — "Deliberate Discombobulation Driving Transformational Change", URL: https://badlands.substack.com/p/badlands-brief-6b4
+3. Badlands Brief — "Mr. Nice Guy Leaves the Building (plus, Jewish Terrorism)", URL: https://badlands.substack.com/p/badlands-brief-625
+4. Badlands Brief — "J6 Returns to Headlines as Fear Mars AI and Airplanes", URL: https://badlands.substack.com/p/badlands-news-brief-120
+5. Badlands Brief — "Decision Day, Disarming Deals & A Double Deportation", URL: https://badlands.substack.com/p/badlands-news-brief-32c
+6. Badlands Brief — "Unprecedented Opportunities & Rich Men's Tricks", URL: https://badlands.substack.com/p/badlands-news-brief-357
+7. Badlands Brief — "Badlands News Brief: Price Floors, Curveballs, & Benevolent Discrimination", URL: https://badlands.substack.com/p/badlands-news-brief-4cf

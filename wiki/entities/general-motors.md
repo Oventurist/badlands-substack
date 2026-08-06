@@ -1,0 +1,36 @@
+---
+title: General Motors
+created: 2026-08-06
+updated: 2026-08-06
+type: entity
+tags: [corporation, automotive, automation, labor]
+sources: [raw/badlands-brief-2b2.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-71f.md]
+confidence: medium
+---
+
+# General Motors
+
+General Motors (GM) is the American automaker whose Factory Zero electric-vehicle plant in Detroit became the site of a labor dispute reported in the July 6, 2026 [[badlands-brief|Badlands Brief]].[1]
+
+## Factory Zero robot deployment
+
+A labor dispute emerged at Factory Zero following the installation of new manufacturing robots, according to reporting published July 4 by Futurism, which cited Crain's Detroit Business.[1] The report said GM installed 50 AI-integrated manufacturing robots at the facility.[1] The [[united-auto-workers|United Auto Workers]] contended that more than 1,000 employees at the plant were idled after the robots began operating, and UAW Local 22 President James Cotton told Crain's Detroit Business that the union was concerned about the introduction of robots following the workforce reductions.[1]
+
+The machines are collaborative robots, or "cobots," designed to work alongside human workers; Futurism, citing Autoblog, reported that they are used primarily to attach body panels to electric vehicles at the Detroit facility.[1] Futurism attributed several key details regarding staffing levels and robot deployment to prior reporting by Crain's Detroit Business and Autoblog, and GM's response was not included in the material reviewed.[1]
+
+## Badlands framing
+
+Commentary by [[ashe-in-america|Ashe in America]] placed the GM automation dispute within a longer arc traced in the Brief's coverage of the [[summer-of-strikes-2023|2023 cross-industry strikes]], arguing that global corporations had invested in automation, robotics and [[artificial-intelligence|artificial intelligence]] for over a decade and that the resulting job losses were designed rather than incidental.[1] The commentary noted that the UAW contract reached in 2023 is meant to run until 2028 but that "the transformation is, apparently, ahead of schedule."[1]
+
+## 2023 UAW strike
+
+General Motors was one of the Detroit Three automakers struck by the [[united-auto-workers|United Auto Workers]] in the [[2023-united-auto-workers-strike|2023 United Auto Workers strike]], with one GM assembly plant included in the union's coordinated targeting.[2] GM representatives resumed contract talks with union negotiators on September 16, 2023, alongside [[ford-motor-company|Ford]] and [[stellantis|Stellantis]], with no breakthrough reported.[2]
+
+## Response to the 2025 tariffs
+
+In the immediate aftermath of President [[donald-trump|Donald Trump]]'s [[liberation-day-tariffs|"Liberation Day" tariffs]] of April 2025, General Motors said it would increase production in the United States, positioning itself as a beneficiary of the reshoring incentive built into the new duty schedule.[3] The announcement stood in contrast to [[stellantis|Stellantis]], which said it would temporarily lay off US workers and close plants in Canada and Mexico.[3]
+
+## References
+1. Badlands Brief — "God Bless The USA", URL: https://badlands.substack.com/p/badlands-brief-2b2
+2. Badlands Brief — "Badlands News Brief: Kennedy Assassins, Justice Wins & More", URL: https://badlands.substack.com/p/badlands-news-brief-627
+3. Badlands Brief — "Badlands News Brief: Orange Friday, Election Action, & McKinsey's Gives Advice", URL: https://badlands.substack.com/p/badlands-news-brief-71f

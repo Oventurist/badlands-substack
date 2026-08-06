@@ -1,0 +1,3 @@
+## The 2023 booster reformulation
+
+In September 2023 U.S. regulators authorized reformulated COVID-19 vaccines from [[moderna|Moderna]] and [[pfizer|Pfizer]] explicitly to counter the poor effectiveness of the existing slate of shots, extending availability to Americans as young as six months of age.[{n}] The updated products targeted the XBB.1.5 Omicron subvariant, which had already been largely displaced by newer strains such as EG.5 by the time of authorization.[{n}] Critics at [[badlands-media|Badlands Media]] argued the clearance proceeded without clinical trial data and pointed to reports of fibrous clots and cardiovascular harm.[{n}] See [[2023-fda-authorization-of-updated-covid-19-vaccines]].[{n}]

@@ -1,0 +1,30 @@
+---
+title: Adam Kinzinger
+created: 2026-08-06
+updated: 2026-08-06
+type: entity
+tags: [congress, january-6, investigations, republican]
+sources: [raw/badlands-brief-9ac.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-5a7.md]
+confidence: low
+---
+
+# Adam Kinzinger
+
+Adam Kinzinger is a former Republican member of the U.S. House of Representatives, treated in Badlands commentary as part of the same congressional faction as [[adam-schiff|Adam Schiff]] in the anti-Trump investigative apparatus.[1]
+
+## Rumored investigation (2026)
+
+In April 2026, following the release of documents by Director of National Intelligence [[tulsi-gabbard|Tulsi Gabbard]] concerning the [[first-impeachment-of-donald-trump|first impeachment of Donald Trump]], [[ashe-in-america|Ashe in America]] reported that Kinzinger and Schiff were rumored to be under investigation.[1] The rumors circulated in the same week that Representatives [[eric-swalwell|Eric Swalwell]] and [[tony-gonzales|Tony Gonzales]] resigned from [[congress|Congress]], with additional resignations said to be expected.[1] No formal charges or official confirmation of an investigation were reported in the Brief.[1]
+
+## Calls for accountability over the January 6 Committee
+
+Following the March 2024 release of preliminary findings by the [[house-administration-subcommittee-on-oversight|House Administration Subcommittee on Oversight]] on the [[january-6-committee|January 6 Committee]], Badlands writer [[ashe-in-america|Ashe in America]] named Kinzinger among the figures who should face accountability, alongside [[nancy-pelosi|Nancy Pelosi]], [[bennie-thompson|Bennie Thompson]], Yogananda Pittman, and [[liz-cheney|Liz Cheney]], calling "'bipartisan' due process" the most appropriate remedy.[2]
+
+## Response to Tucker Carlson’s January 6 coverage
+
+After [[tucker-carlson|Tucker Carlson]] aired footage relating to January 6 that Badlands commentary described as debunking the official account, Kinzinger appeared on MSNBC and said, "Nobody's children will believe that garbage Tucker was spewing last night."[3] Writing in the [[badlands-news-brief|Badlands News Brief]], [[ashe-in-america|Ashe in America]] argued that the notable feature of Kinzinger's reaction was not his irritation but his focus on shaping the historical record for future generations, describing him as a key player in the [[january-6-committee|January 6 Committee]]'s attempt to control the insurrection narrative.[3]
+
+## References
+1. Badlands Brief — "Nazi-Related Cover Ups & Formerly Secret Treason", URL: https://badlands.substack.com/p/badlands-brief-9ac
+2. Badlands Brief — "J6 Returns to Headlines as Fear Mars AI and Airplanes", URL: https://badlands.substack.com/p/badlands-news-brief-120
+3. Badlands Brief — "Trump Trifecta, COVID Concealment & Sorosian Slime", URL: https://badlands.substack.com/p/badlands-news-brief-5a7

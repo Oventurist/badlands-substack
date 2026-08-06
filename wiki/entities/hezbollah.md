@@ -1,0 +1,252 @@
+---
+title: Hezbollah
+created: 2026-08-06
+updated: 2026-08-06
+type: entity
+tags: [lebanon, israel, militant-groups, middle-east]
+sources: [raw/badlands-brief-07c.md, raw/badlands-brief-143.md, raw/badlands-brief-0fb.md, raw/badlands-brief-1ae.md, raw/badlands-brief-2c0.md, raw/badlands-brief-625.md, raw/badlands-brief-6a1.md, raw/badlands-brief-6b4.md, raw/badlands-brief-708.md, raw/badlands-brief-8c2.md, raw/badlands-brief-774.md, raw/badlands-brief-9ac.md, raw/badlands-brief-9ea.md, raw/badlands-brief-bb1.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-67e.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-845.md]
+confidence: low
+---
+
+# Hezbollah
+
+Hezbollah is the armed Lebanese movement at the center of the conflict between [[israel|Israel]] and [[lebanon|Lebanon]], and the party whose disarmament Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] set as a precondition for peace during the April 2026 ceasefire episode.[1]
+
+After President [[donald-trump|Donald Trump]] announced a ten-day Israel–Lebanon ceasefire following direct talks in Washington, Netanyahu released a recorded statement laying out two conditions for Hezbollah: lay down its weapons and surrender.[1] Badlands commentator [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] characterized these demands as terms Netanyahu knew Hezbollah would refuse, arguing that the Israeli leader was antagonizing the public with conditions designed to ensure the war continued while Trump moved toward a negotiated settlement.[1] In that reading, Trump was decoupling the United States from the conflict while Israel prepared to fight Hezbollah alone.[1]
+
+## Southern Lebanon and Christian villages (March 2026)
+
+In March 2026 The Telegraph published and then removed an article reporting alleged cooperation between Christian villages in southern [[lebanon|Lebanon]] and Hezbollah, appearing on March 23 under the headline "Christians and Hezbollah unite against 'Epstein empire'" before being taken down about a day later without explanation.[2] Reporting from Christianity Today described Christian communities in southern Lebanon as geographically embedded in Hezbollah-influenced territory and exposed to Israeli military operations, with some residents denying affiliation with the group even while living within its operational environment.[2]
+
+Badlands contributor GhostofBasedPatrickHenry wrote that the region has been under Hezbollah control since the 1980s and contains entire villages of Catholics, many marked by enormous hilltop crosses — including the 240-foot Cross of All Nations at Qanat Bakish, crosses at Rmeim and Kobayat, the world's largest inhabitable cross at Ijdabra (roughly 150 feet, containing a 200-person church), and one of the world's largest statues of Jesus completed near Al-Qaa.[2] He argued that all of this exists under Hezbollah's protection, and that as the [[israel-defense-forces|IDF]] moved into southern Lebanon and bombed Christian villages, it was Hezbollah that came to their defense and supplied aid, including Christmas trees.[2]
+
+He placed this within a pattern, noting that Hezbollah was the first and only entity to cross into Syria to defend [[bashar-al-assad|Assad]] from a coup after the 2011 Arab Spring, a conflict he links to the formation of [[isis|ISIS]].[2] His conclusion was that Hezbollah is not a Christian-killing terrorist organization but a resistance group fighting a state military, and that the public "has been lied to about Hezbollah and what it actually is."[2]
+
+## The Litani escalation
+
+Hezbollah described any Israeli occupation south of the [[litani-river|Litani River]] as an "existential threat" and vowed resistance, after Finance Minister [[bezalel-smotrich|Bezalel Smotrich]] said on March 23 that Israel's border "must be the Litani" and Defense Minister [[israel-katz|Israel Katz]] announced the next day that Israeli forces would occupy territory up to the river and control bridges and a broader security zone.[2] The wider conflict intensified after March 2, when Hezbollah launched missiles into Israel, prompting evacuation orders and expanded Israeli strikes and ground activity; Lebanese authorities reported more than 1,070 deaths and over one million displaced, and the United Nations called the prospect of a sustained Israeli presence "very much concerning."[2] Commentary noted the IDF had been in Lebanon for months and that Israel broke the ceasefire with Hezbollah when the Iran war began, and that the IDF had accidentally killed Father Pierre al-Rahi with a mistakenly fired tank round in Qlayaa that month.[2]
+
+## Ceasefire extension and the question of annihilation (April 2026)
+
+In late April 2026 [[donald-trump|Donald Trump]] announced a three-week extension of the Israel–Hezbollah ceasefire following an Oval Office meeting with Israeli and Lebanese representatives, saying the United States would work with Lebanon to protect itself from Hezbollah.[3] Israeli media portrayed the parties as a united front seeking to disarm and dismantle the group, which is a more significant fighting force than the official Lebanese military.[3]
+
+Ambassador [[tom-barrack|Tom Barrack]] said in a Fox News interview that Hezbollah cannot be annihilated through military force given its deep integration into Lebanese society over several decades.[3] Badlands commentary argued that Israel appeared to be preparing to fight both [[iran|Iran]] and Hezbollah without American assistance, and questioned whether the [[israel-defense-forces|IDF]] — which failed to annihilate [[hamas|Hamas]] in Gaza with US support — could prevail against the more formidable Hezbollah alone.[3]
+
+## Disarmament under the June 2026 framework
+
+The U.S.-mediated framework agreement of June 26, 2026 between [[israel|Israel]] and [[lebanon|Lebanon]] calls for the withdrawal of Israeli forces from southern Lebanon, the disarmament of Hezbollah, and steps toward a possible formal peace agreement.[4] Meeting Lebanese President [[joseph-aoun|Joseph Aoun]] at the [[white-house|White House]] in July 2026, President [[donald-trump|Trump]] acknowledged "a Hezbollah problem," said he would be willing to speak directly with the group if Aoun asked him to, and raised the possibility of Syrian involvement against it.[4]
+
+Secretary of State [[marco-rubio|Marco Rubio]] stated that Lebanon cannot achieve lasting peace while Hezbollah remains a powerful armed force, and that a strong central government must become the sole legitimate military authority in the country.[4] [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] predicted that Trump would negotiate a historic deal with Hezbollah on the model of the 2020 [[doha-agreement|Doha Agreement]] with the [[taliban|Taliban]], and asked what would follow if [[benjamin-netanyahu|Netanyahu]] rejected the resulting peace and walked away to pursue more war.[4]
+
+## June 2026 US-backed withdrawal framework
+
+In June 2026 the United States backed a new Israel-Lebanon ceasefire framework requiring Hezbollah to halt attacks on Israel and withdraw its operatives from areas south of the [[litani-river|Litani River]], with security zones in southern Lebanon coming under the control of the [[lebanese-armed-forces|Lebanese Armed Forces]]; the agreement was announced jointly by the US, Israel and Lebanon after negotiations in Washington.[5] The Trump administration views removal of Hezbollah fighters from southern Lebanon as a central condition for stabilizing the border, and Secretary of State [[marco-rubio|Marco Rubio]] said the goal is an arrangement in which armed non-state actors no longer operate in the designated zones.[5]
+
+Hezbollah has historically resisted disarmament and insists any withdrawal or surrender of weapons be accompanied by a complete Israeli withdrawal from Lebanese territory, with recent leadership statements rejecting US-backed disarmament plans.[5] The truce remains fragile: rocket launches, drone incidents and Israeli strikes continued after the announcement, underscoring the difficulty of enforcing a deal to which Hezbollah was not a direct signatory.[5] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] predicted that Lebanese civilians would plead for Hezbollah to stay as their only defense against the IDF, that Hezbollah would nonetheless pull back under Trump's pressure and incentives, and that Israel would then move to annex the land south of the Litani, triggering broad international rebuke and Hezbollah's eventual return.[5]
+
+## April 2026: Israeli operations under the ceasefire
+
+In April 2026 [[israel|Israel]] ordered troops to use "full force" against threats in [[lebanon|Lebanon]] despite a temporary truce, and Defense Minister [[israel-katz|Israel Katz]] said homes allegedly used by Hezbollah would be leveled.[6] The Israeli military published a map showing a new deployment line placing dozens of villages inside an Israeli-controlled [[forward-defense-zone|Forward Defense Zone]] extending roughly 5 to 10 kilometers from the border, with five divisions backed by naval forces operating to dismantle Hezbollah infrastructure and address threats to northern Israel.[6] Badlands analysis expected Israel to keep fighting both Hezbollah and the Iranian IRGC even as [[donald-trump|Trump]] moved to resolve the US–[[iran|Iran]] conflict.[6]
+
+## Trump's offer of direct talks (June 2026)
+
+At the [[2026-g7-summit|G7 summit]] in France in June 2026, President [[donald-trump|Trump]] told reporters that he intended to speak with Hezbollah leaders as part of efforts to "straighten out the Lebanon thing," suggesting the administration's diplomatic outreach could extend beyond [[iran|Iran]] to other regional actors.[7] The comments came as Israeli officials reiterated that [[israel|Israel]] would maintain positions in southern Lebanon and warned that any future attacks tied to Iran would draw a forceful response.[7] Separately, [[pakistan|Pakistan]] announced that the US–Iran agreement included the immediate and permanent termination of military operations on all fronts, including in Lebanon.[7] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] noted that talking to Hezbollah rather than killing them was "definitely not what [[lindsey-graham|Lindsey Graham]] and [[mark-levin|Mark Levin]] want to hear."[7]
+
+## June 2026 Israeli strikes and Nabatieh fighting
+
+In June 2026, the [[israel-defense-forces|IDF]] said it had struck Hezbollah targets overnight in southern Lebanon, with Lebanese reports citing sixteen killed.[8] The strikes preceded a major ground operation concentrated around Nabatieh, in which reports described heavy close-quarter combat and significant Israeli losses, including at least four destroyed Merkava tanks and four soldiers killed.[8] The escalation caused the postponement of formal [[us-iran-memorandum-of-understanding|US–Iran]] signing ceremonies scheduled at Bürgenstock in Switzerland, though implementation of the agreement continued.[8] The IDF simultaneously published a map of a proposed Security Zone in southern Lebanon extending north of the Litani River, into territory long associated with Hezbollah's operational depth.[8]
+
+## Beirut strike during the Iran peace announcement (June 2026)
+
+On Sunday, June 14, 2026, [[israel|Israel]] said it struck Hezbollah targets in Beirut's southern suburbs after Hezbollah launched three projectiles toward northern Israel, an attack Israeli officials described as a violation of the ceasefire.[9] The Israeli military said it carried out a "precise" strike on a Hezbollah command center in the Dahiyeh area of Beirut; Lebanese security sources cited by Reuters said the operation appeared to involve two missiles, and Lebanon's state news agency reported two people killed and four wounded.[9]
+
+The escalation came as the United States and [[iran|Iran]] were preparing to finalize an agreement to end the broader regional conflict.[9] [[donald-trump|President Donald Trump]] said the deal remained on track despite the strike, while National Security Minister [[itamar-ben-gvir|Itamar Ben Gvir]] argued that Israeli military operations should continue until Hezbollah is dismantled and opposed withdrawing from territory held by Israeli forces in Lebanon.[9] Pakistani Prime Minister [[shehbaz-sharif|Shehbaz Sharif]] said the pact called for the immediate and permanent termination of military operations on all fronts, including Lebanon.[9]
+
+## Trump's G7 criticism and the Syria proposal (June 2026)
+
+Speaking at the [[2026-g7-summit|G7 summit]], President [[donald-trump|Donald Trump]] criticized [[israel|Israel]]'s military campaign against Hezbollah in [[lebanon|Lebanon]], saying the operation had lasted too long, produced excessive civilian deaths, and involved unnecessary destruction of apartment buildings when targeting militants.[10] He singled out an Israeli strike in Beirut that occurred two hours before the announcement of progress on a U.S.–Iran agreement, saying it cast a negative light on the diplomatic effort.[10] Trump suggested Israel allow [[syria|Syria]] under President [[ahmed-al-sharaa|Ahmed al-Sharaa]] to take the lead against Hezbollah, arguing Syrian forces could do so more effectively and with fewer civilian casualties.[10]
+
+Iran subsequently linked any permanent truce with the United States to an end to Israel's presence in southern Lebanon, while Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] said Israel was not bound by the [[us-iran-memorandum-of-understanding|memorandum of understanding]] and would maintain its forces there.[10]
+
+## June 2026 de-escalation arrangement
+Following President [[donald-trump|Donald Trump]]'s intervention to halt a planned Israeli strike on Beirut, Trump said Hezbollah had agreed through intermediaries to halt all shooting, with both sides committing not to attack one another as part of a de-escalation arrangement.[11] Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] nonetheless maintained publicly that [[israel|Israel]] would continue responding to Hezbollah attacks and would keep military operations underway in southern [[lebanon|Lebanon]].[11] Hezbollah is counted among the allied resistance groups [[iran|Iran]] described as prepared to take retaliatory measures unless Israeli operations in Gaza and Lebanon ceased.[11]
+
+
+## April 2026 Lebanon offensive
+
+In April 2026 Israeli operations against Hezbollah in southern [[lebanon|Lebanon]] caused extensive destruction, with reports that entire villages had been leveled in areas [[israel|Israel]] said contained Hezbollah infrastructure.[12] Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] rejected European calls for a ceasefire and insisted operations against the group would proceed.[12]
+
+[[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] speculated that the IDF aimed to clear the area between the Golan Heights and Tyre and then follow the Litani River north of Khiyam, severing the physical connection between southern Lebanon and Syria to deny Hezbollah an escape route and a supply corridor for weapons.[12] He also argued that an online campaign portraying Hezbollah as bent on killing Western Christians was "a terrible lie," citing a photograph of a Hezbollah soldier on patrol in Syria cleaning a statue of the Virgin Mary.[12]
+
+## 2026 diplomacy and Badlands framing
+
+At the April 2026 US-hosted Israel-Lebanon talks, the two governments agreed that dismantling armed groups such as Hezbollah and strengthening the Lebanese state's authority would be central to any settlement, with commentators noting the headline outcome was that both sides named Hezbollah their common enemy.[13] Badlands commentator GhostofBasedPatrickHenry supplied a counter-history: Israel bombed Beirut in 1982 before Hezbollah existed, occupied southern Lebanon for 18 years and established settlements there, and it was that occupation which provoked Hezbollah's formation first as a political movement and then as a counterinsurgency, until the IDF was driven out in 2000.[13] He characterized Hezbollah as a localized militia receiving international support that seeks to expel an invading empire, contrasting it with Al Qaeda, and noted the two fought on opposing sides of the Syrian Civil War, with Hezbollah and Russia defending Assad.[13]
+
+
+## June 2026 Lebanon operations
+
+Israeli operations against Hezbollah in southern [[lebanon|Lebanon]] and the Beirut suburbs continued through June 2026 despite a reported de-escalation on the [[iran|Iran]] front, and Iran maintained that any comprehensive Middle East agreement must address the Lebanon theater.[14] The escalating Israeli campaign formed the backdrop to reports that Iranian forces had shot down a U.S. Apache helicopter, and to President [[donald-trump|Donald Trump]]'s claim that negotiators were in the "final throes" of a broader peace deal.[14]
+
+## U.S. withdrawal framework in southern Lebanon (July 2026)
+
+In July 2026 President [[donald-trump|Donald Trump]] pressed Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] to pull [[israel-defense-forces|Israeli forces]] out of southern [[lebanon|Lebanon]], part of a U.S.-brokered framework envisioning phased withdrawals from designated "pilot zones," deployment of the Lebanese army, and the disarmament of Hezbollah.[15] Netanyahu resisted, arguing that Israel required buffer zones along its borders against threats from Hezbollah and Iranian-backed groups.[15]
+
+## February 2025 withdrawal ultimatum
+
+Secretary-General [[naim-qassem|Naim Qassem]] warned Israel on Sunday, February 16, 2025, that if it did not withdraw its forces from Lebanon by February 18, "we will know how to deal with it," insisting Israel had "no excuse" and calling on the Lebanese state to force a withdrawal.[16] He had previously said on January 4 that Hezbollah's patience "might run out" over alleged Israeli violations of the truce, adding, "When we decide to act, you will see it immediately."[16] The Israeli Air Force struck several Hezbollah sites housing rocket launchers and weapons in Lebanon that same evening.[16]
+
+[[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] noted that Israel's original deadline to withdraw had been the end of January, and that the Trump White House brokered an extension to February 18 after Israel said it could not comply.[16] He argued, citing Colonel Douglas Macgregor and Colonel Lawrence Wilkerson, that Hezbollah has dominated the [[israel-defense-forces|IDF]] in every ground meeting in South Lebanon, while Israel used European- and U.S.-supplied drones and missiles to assassinate the top 25 Hezbollah leaders and bury the movement's underground headquarters, along with the [[pager-attack|pager attack]] and a subsequent walkie-talkie attack that killed 12 and wounded over 3,000.[16] Cutting Hezbollah's land bridge to [[iran|Iran]] through the overthrow of the Assad government in Syria completed the encirclement, yet the group remained willing to fight — a condition the commentary framed through Sun Tzu's warning against seeking an enemy's total annihilation.[16]
+
+## Entry into the October 7 conflict (2023)
+
+By Sunday, October 8, 2023 — the day after the [[october-7-attacks|Hamas assault]] on southern Israel — Iran-sponsored Hezbollah had entered the fray, according to commentary by [[ashe-in-america|Ashe in America]] in the Badlands News Brief.[17] Reports on social media at the time showed military-aged males across the region celebrating and promising to join the fight.[17]
+
+[[wall-street-journal|Wall Street Journal]] reporting cited in the same Brief described senior members of Hamas and Hezbollah saying that Iranian security officials gave the green light for the attack at a meeting in [[beirut|Beirut]], with [[islamic-revolutionary-guard-corps|IRGC]] officers and representatives of four Iran-backed militant groups — including Hezbollah, described as a Shiite militant group and political faction in Lebanon — refining the operation over several meetings.[17]
+
+## Killing of Haytham Ali Tabatabai (November 2025)
+
+On Sunday, November 23, 2025, an Israeli airstrike on the Haret Hreik district of Beirut — a Hezbollah stronghold — killed senior commander [[haytham-ali-tabatabai|Haytham Ali Tabatabai]], also known as Abu Ali Tabatabai.[18] Both Hezbollah and the Israel Defense Forces confirmed his death, and Lebanon's Health Ministry said the attack killed at least five people and injured 28 others.[18] Tabatabai had joined Hezbollah as a teenager after the group's formation during Israel's 1982 invasion of Lebanon and was one of the few long-serving commanders to survive Israel's targeted-killing campaign the previous year.[18] Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] praised the strike as part of Israel's ongoing effort to destroy the group.[18]
+
+US Special Envoy [[tom-barrack|Tom Barrack]] said in an interview that Americans had been grossly misinformed about Hezbollah's nature — that it began as a political movement to expel Israel from southern Lebanon before mutating into a militia — and that Hezbollah had not once violated the ceasefire it signed with Israel the previous year, not even after the pager attack.[18]
+
+## Killing of Fuad Shukr (July 2024)
+
+In late July 2024, an Israeli strike in Beirut killed [[fuad-shukr|Fuad Shukr]], described as Hezbollah's top military commander.[19] The operation came hours before the killing of [[hamas|Hamas]] leader [[ismail-haniyeh|Ismail Haniyeh]] in Tehran, and the pairing left the Middle East braced for a wave of retaliatory attacks by [[iran|Iran]] and its allied forces.[19] The episode triggered an intensive US-led diplomatic effort, including direct messages from Secretary of State [[antony-blinken|Antony Blinken]] to both [[israel|Israel]] and Iran, aimed at preventing the region from erupting into all-out war.[19]
+
+## September 2024 decapitation strikes
+
+On Friday, September 20, 2024, an Israeli airstrike on the Dahiyeh district of Beirut's southern suburbs killed senior commander [[ibrahim-aqil|Ibrahim Aqil]] along with other senior members of an elite Hezbollah unit.[20] Hezbollah confirmed his death after midnight, calling him "one of its top leaders" and describing the strike as a "treacherous Israeli assassination," and said that Ahmed Wahbi — who had overseen Radwan special forces operations during the Gaza war until early 2024 — was also killed.[20] Lebanon's health ministry put the toll at at least 14 dead with numbers expected to rise.[20]
+
+The strikes followed the coordinated remote detonation of pagers and other communications devices believed to be in the hands of Hezbollah members — though not all were, with children reportedly among the dead — after which the [[israel-defense-forces|IDF]] launched a bombing campaign in southern Lebanon culminating in the largest single munition ever dropped by Israel.[20] Hezbollah reportedly fired over 100 rockets into Israel in response.[20] Badlands analyst [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued the campaign was designed either to soften Hezbollah defenses for a ground invasion or to provoke an overt Hezbollah declaration of war, and speculated that Russian forces — embedded with Hezbollah through twelve years of fighting in Syria — could plausibly take the lead in any invasion of Israel.[20]
+
+## Ceasefire with Israel (November–December 2024)
+
+A truce between Israel and Hezbollah in Lebanon took effect on Wednesday, November 27, 2024, and was widely seen as the first step toward resolving regional conflict following the [[october-7-attacks|October 7, 2023]] Hamas attack on Israel, though both sides quickly accused each other of violations.[21] Retired admiral [[james-stavridis|James Stavridis]], a former NATO supreme allied commander, argued that Hezbollah's willingness to accept a ceasefire was "a direct result of the presence of a new Trump administration coming on," citing Iran's vulnerability.[21]
+
+The parents of American-Israeli hostage [[omer-neutra|Omer Maxim Neutra]] had hoped the Lebanon ceasefire would allow attention to return to Gaza and to a hostage deal, and expressed disappointment that the truce was not paired with one.[21]
+
+
+## Netanyahu's warning (November 2023)
+
+In a speech delivered on November 7, 2023 from the Kirya military headquarters in Tel Aviv, Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] warned Hezbollah that it would be making "the greatest mistake of its life" if it opened a new full-on war front against Israel from Lebanon.[22] The warning accompanied his announcement that Gaza City was surrounded and that the [[israel-defense-forces|IDF]] had reached deeper into Gaza than [[hamas|Hamas]] ever imagined, with pressure deepening "every hour, every day."[22]
+
+
+## September 2024: Operation Northern Arrows
+
+On September 23, 2024, the Israeli leadership announced the launch of [[operation-northern-arrows|Operation Northern Arrows]], an offensive explicitly aimed at undermining Hezbollah's military infrastructure, with the Israeli Air Force striking dozens of settlements across southern and eastern [[lebanon|Lebanon]]; Hezbollah responded by intensifying rocket attacks on Israeli military facilities.[23] The escalation followed almost a year of war against [[hamas|Hamas]] in [[gaza|Gaza]], during which Hezbollah had fired rockets into Israel in support of its ally, prompting Israel to shift focus to its northern frontier.[23] The [[russian-foreign-ministry|Russian Foreign Ministry]] condemned the campaign and warned against indiscriminate attacks on civilians.[23] [[badlands-media|Badlands Media]] commentary questioned the coherence of answering the October 7 Hamas attack by escalating against a distinct movement in a different country.[23]
+
+## Israeli strikes near the Litani River (September 2025)
+
+On the evening of Thursday, 18 September 2025, the Israeli military launched a series of airstrikes targeting areas south and north of the [[litani-river|Litani River]], after issuing urgent warnings for residents to stay away from six designated locations.[24] The tactic mirrored the approach used during the Israeli war on Hezbollah that began in October 2023 and ended with a ceasefire agreement effective 27 November 2024.[24] The strikes hit sites around the town of Dibbin and three locations in Mays Al-Jabal, with initial reports indicating a Syrian national was injured; a house in Kfar Tibnit was also targeted, and a second wave struck Burj Qalaya and Al-Shahabiya in the Tyre district.[24]
+
+A Lebanese security source told Arab News that the timing was striking because it coincided with Hezbollah's preparations to commemorate the first anniversary of the assassinations of its two Secretaries-General, [[hassan-nasrallah|Hassan Nasrallah]] and Hashem Safieddine, calling the strikes "an attempt to remind the party that Israel continues to pursue it."[24] The source expected Israeli attacks to escalate until the anniversary of Nasrallah's death on 27 September.[24] Badlands contributor GhostofBasedPatrickHenry read the Lebanon strikes, coinciding with Israel's largest Gaza City operation of the post-October-7 war, as a signal that Israel intended to continue a multi-front war across the Middle East, and noted reports that [[saudi-arabia|Saudi Arabia]] was being accused of organizing a NATO-styled Middle Eastern defense alliance after signing a security agreement with [[pakistan|Pakistan]].[24]
+
+## August 2024 escalation
+
+Over the weekend of August 3–4, 2024, Hezbollah continued limited exchanges of fire along Israel's northern border as Israelis awaited an expected [[iran|Iranian]] retaliation for the killing of Hamas chief [[ismail-haniyeh|Ismail Haniyeh]] in Tehran.[25] Analysts expected Hezbollah to play a larger role in any Iranian response than it had in the ballistic missile and drone attack of April 13.[25] Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] described Israel as fighting a multi-front war and said Israel was "striking every one of its arms with great force."[25] The New York Times observed that travel disruptions added to a sense in Israel that it was no longer in control of its own fate.[25]
+
+## Beirut embassy protests (October 2023)
+
+In the immediate aftermath of the [[al-ahli-baptist-hospital-explosion|al-Ahli Baptist Hospital explosion]] in Gaza on October 17, 2023, the situation outside the United States Embassy in [[beirut|Beirut]] deteriorated sharply, with reports of riot police deploying tear gas against large crowds waving Hezbollah flags.[26] The protests formed part of what [[zerohedge|ZeroHedge]] described as a global "day of rage" spanning major cities worldwide.[26] Israel evacuated residents of towns near the Lebanese border as Hezbollah attacks increased during the same period.[26]
+
+## December 2023 border exchanges
+
+In late December 2023 the [[israel-defense-forces|IDF]] said its fighter jets had struck a Hezbollah military headquarters in Lebanon in response to attacks on northern Israel, including one that left a soldier moderately wounded.[27] The IDF also reported carrying out artillery shelling at several areas near the border, presumably to foil planned Hezbollah attacks, and said it struck the launch sites after several projectiles were fired from Lebanon into northern Israel.[27] The soldier was wounded in a Hezbollah attack on the Manara area.[27]
+
+## US posture and invasion threat (September 2024)
+
+In late September 2024 the [[pentagon|Pentagon]] stated publicly that the US military was not providing intelligence for Israel's operations against Lebanese Hezbollah, and that the [[joe-biden|Biden]] administration was making a "full-court" press for a diplomatic solution while assessing that an Israeli ground invasion of south [[lebanon|Lebanon]] did not appear imminent.[28] Israeli military leaders and media simultaneously warned that a ground invasion could begin at any moment, and Lebanese outlet LBCI reported that urgent US-led ceasefire talks had reached "a serious and advanced stage."[28]
+
+Former CIA and Army intelligence officer [[phil-giraldi|Phil Giraldi]] suggested that the pager attack of the previous week may have been intended to coincide with the start of an Israeli invasion, and that concern Hezbollah had detected the scheme led the [[israel-defense-forces|IDF]] to detonate the devices before the operation was ready.[28]
+
+## Pager and walkie-talkie attacks (September 2024)
+
+On September 17, 2024, Israeli intelligence services detonated thousands of pager devices used by members of Hezbollah's military units and institutions, killing at least nine people, including a child, and wounding more than 2,800.[29] The following day a second wave blew up thousands of two-way personal radios that had been booby-trapped in advance and delivered to Hezbollah as part of the group's emergency communications system, which was intended for use during a war with Israel; Lebanon's health ministry reported 14 killed and 450 wounded.[29] The second wave detonated during funerals for some of the Hezbollah members killed a day earlier.[29] Commentators described the operation as a severe security breach within Hezbollah's ranks that further damaged its military command-and-control system and sharply increased pressure on the organization.[29] See [[2024-lebanon-pager-attacks|2024 Lebanon Pager and Walkie-Talkie Attacks]].
+
+## September 2024 pager attacks and Israel's 'new phase'
+
+Following the detonation of thousands of Hezbollah pagers and radios in an operation widely attributed to Israeli secret services, Israeli Defense Minister [[yoav-gallant|Yoav Gallant]] announced on September 18, 2024 that "a new phase" of the war had begun, with the "center of gravity moving north" from Gaza to Lebanon.[30] Hezbollah said in a statement that it held "the Israeli enemy fully responsible" for the [[pager-attack|pager attacks]] and promised a "difficult reckoning."[30]
+
+Hezbollah had waged a low-intensity campaign against Israel since the [[israel-defense-forces|IDF]] began bombing Gaza, with leader Hassan Nasrallah stating that the aim was to tie up Israeli forces near the Israel–Lebanon border and prevent their deployment south.[30] Badlands analysis argued that the decisive restraint on an Israeli ground invasion was not [[iran|Iran]] but the presence of Russian military forces and the [[wagner-group|Wagner Group]] dug in alongside Hezbollah, prepared to counter an IDF blitzkrieg.[30]
+
+## June 2024 Israeli strikes and Iranian warnings
+
+Since the outbreak of the Gaza conflict on October 7, the Israel–Lebanon border has witnessed daily exchanges of fire between Israeli forces and Hezbollah.[31] Fears of a full-blown war grew in June 2024 after Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] said [[israel|Israel]] was preparing for "a very tense operation" on the border, and an Israeli army spokesperson said early on Saturday, June 29, 2024 that Israeli forces had conducted a series of attacks on Hezbollah targets in southern [[lebanon|Lebanon]].[31] [[iran|Iran]]'s UN mission warned that a full-scale Israeli offensive against Hezbollah would trigger an "obliterating war" with the full involvement of all Resistance Fronts, dismissing Israeli threats as psychological warfare.[31] Israeli Foreign Minister [[israel-katz|Israel Katz]] responded that if Hezbollah did not cease its fire and withdraw from southern Lebanon, Israel would act with full force until residents could return to their homes.[31]
+
+## July 2024: conditional ceasefire offer
+
+In an interview with the Associated Press published Tuesday, July 2, 2024, Hezbollah deputy leader [[naim-kassem|Sheikh Naim Kassem]] said the only sure path to a ceasefire on the Lebanon–Israel border was a full ceasefire in Gaza, stating: "If there is a cease-fire in Gaza, we will stop without any discussion."[32] Speaking at the group's political office in Beirut's southern suburbs, Kassem characterized Hezbollah's role in the Israel–Hamas war as a "support front" for its ally [[hamas|Hamas]], adding that "if the war stops, this military support will no longer exist."[32] He said a partial Israeli drawdown short of a formal agreement and full withdrawal would leave Hezbollah's response uncertain, since "we don't know its shape, its results, its impacts."[32]
+
+Kassem also revealed that White House envoy [[amos-hochstein|Amos Hochstein]] had asked through intermediaries that Hezbollah pressure Hamas to accept President [[joe-biden|Joe Biden]]'s ceasefire and hostage-exchange proposal, a request Hezbollah rejected on the grounds that "Hamas is the one that makes its decisions."[32]
+
+Badlands commentary interpreted the posture as deliberate restraint aimed at denying [[benjamin-netanyahu|Benjamin Netanyahu]] any sympathy or domestic rally effect while world opinion had turned against him.[32] The same piece noted that the previous week the 22 nations of the [[arab-league|Arab League]], led by [[saudi-arabia|Saudi Arabia]], had removed Hezbollah from their list of designated terrorist organizations, and that [[russia|Russia]] had never designated the group as terrorist, treating it instead as a legitimate socio-political organization.[32]
+
+## Escalation with Israel (September 2024)
+
+In September 2024, Israeli preemptive strikes on targets deep inside [[lebanon|Lebanon]] raised expectations of a Hezbollah response and kept northern Israel on high alert.[33] Maj.-Gen. (Res.) [[gershon-hacohen|Gershon Hacohen]] said it was "entirely possible that the IDF will need to enter Lebanon on the ground," arguing that continual fighting with Hezbollah had prevented the return of evacuated Israeli residents to their homes and that Israel "must change tack."[33] Hacohen also said the Americans, fearing regional destabilization and Iranian intervention, wanted restraint, while President [[joe-biden|Joe Biden]] was "still trying to make all sides de-escalate."[33] The escalation coincided with [[benjamin-netanyahu|Benjamin Netanyahu]]'s declaration of war against Hezbollah, posted on X on September 22, 2024.[33]
+
+## US efforts to avert an Israel–Hezbollah war (June 2024)
+
+In June 2024, the Biden administration was reported to have grown extremely concerned that escalating violence between Israel and Hezbollah would deteriorate into an all-out war, and was scrambling behind the scenes to prevent it.[34] The urgency was tied to a highly sensitive push for a ceasefire deal in Gaza, since a full-blown war with the Lebanese militant group would dramatically exacerbate the regional crisis and draw the United States deeper into the conflict.[34] Administration officials cautioned Israel in the preceding weeks against the notion of "a limited war" in Lebanon, warning that Iran could intervene and flood Lebanon with pro-Iranian militants from Syria, Iraq, and even Yemen who would seek to join the fighting.[34]
+
+## October 2024 Israeli ground offensive
+
+Israeli ground forces crossed into southern Lebanon early on October 1, 2024, in what was described as a "limited" offensive against Hezbollah militants, opening a new front in a yearlong war against Iran's regional partners and marking the first such incursion since the 2006 Lebanese War.[35] The [[national-security-council|White House National Security Council]] endorsed the operation as consistent with Israel's right to self-defense while warning that mission creep was a risk and that only a diplomatic solution could produce lasting stability on the border.[35]
+
+Badlands analysis emphasized that Hezbollah is not merely a paramilitary outfit: it was founded as a political movement protesting Israel's refusal to withdraw from Lebanon after chasing Yasser Arafat there from the West Bank in 1982, a presence that lasted eighteen years.[35] Alongside dozens of Hezbollah military leaders killed in the Israeli strike campaign, many Hezbollah politicians regarded as legitimate officials of the Lebanese government were also killed.[35] Reports cited in the brief held that Israel lured [[hassan-nasrallah]] and his associates into complacency by assuring Iran that new peace terms were forthcoming, asking Tehran to restrain Hezbollah in the meantime.[35] See [[2024-israeli-ground-invasion-of-lebanon]].[35]
+
+## Order of battle and Badlands profile (June 2024)
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] set out a detailed profile of the group in June 2024 amid US efforts to head off an Israel–Hezbollah war, arguing Hezbollah is a fundamentally different adversary from [[hamas|Hamas]] — the "Varsity team" to Hamas's "JV squad," closer to a state military than to third-world guerrillas.[36] Formed in 1982 in response to Israel's invasion of Lebanon and backed by the Islamic Republic of [[iran|Iran]], the group is alleged to have been trained by the [[cia|CIA]] as part of the mujahideen programs that spun off [[operation-cyclone|Operation Cyclone]].[36] He put its strength at an estimated 30,000 fighters and 20,000 reservists — larger than the Lebanese national military, with leaders claiming 100,000 — and its ballistic missile stocks at between 100,000 and 150,000 in confirmed reports.[36] After a decade fighting in Syria alongside Russian forces in defense of [[bashar-al-assad|Bashar al-Assad]], it fields Soviet T-55 and T-72 tanks; the [[wagner-group|Wagner Group]] was reported in late 2023 to be supplying mobile air defense vehicles, and in June 2024 Hezbollah was reported to have fired anti-aircraft missiles at IDF warplanes.[36] Its intelligence and secret service apparatus has been described as "one of the best in the world," having reportedly infiltrated the [[israel-defense-forces|IDF]].[36] The same commentary cited Colonel [[douglas-macgregor|Douglas Macgregor]]'s assessment that even Hamas is winning its war against the IDF, and reporting by [[brian-lupo|Brian Lupo]] that the United States funds the IDF, the Lebanese military, and Hamas simultaneously — a pattern it attributed to control.[36] See [[2024-israel-hezbollah-escalation]].
+
+## The November 2024 US ceasefire proposal
+
+Almost two months after Israeli forces invaded southern [[lebanon|Lebanon]], negotiations over an American ceasefire proposal mediated by envoy [[amos-hochstein|Amos Hochstein]] stalled when Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] demanded freedom to conduct military operations in the south as a condition of any deal — a condition rejected by Lebanese parliament speaker [[nabih-berri|Nabih Berri]].[37] Hezbollah's secretary-general, [[naim-qassem|Sheikh Naim Qassem]], said the group had submitted its comments on the US proposal and was "negotiating under two conditions: first, the complete and comprehensive cessation of Israeli aggression and, second, the preservation of Lebanese sovereignty."[37] Reporting noted that over the preceding year Tel Aviv had repeatedly foiled attempts to reach a ceasefire on either the Gaza or the Lebanon front.[37]
+
+## February 2024 Israeli strikes deep into Lebanon
+
+On Monday, February 19, 2024, Israel struck for the first time near a major Lebanese city far from the border, in the region of Ghaziyeh just south of Sidon, marking an expansion of the Israel–Hezbollah war.[38] [[israel-defense-forces|IDF]] spokesman Rear Adm. [[daniel-hagari|Daniel Hagari]] confirmed the military was behind the airstrikes, saying they targeted Hezbollah weapons depots and responded to an explosive-laden attack on northern Israel earlier the same day.[38] Sidon is Lebanon's third largest city, and the struck region lies roughly 45 to 60 kilometers from the Israeli border; until then, tit-for-tat strikes dating back to early October 2023 had been confined to southern Lebanon within a few kilometers of the frontier.[38]
+
+Israeli Foreign Minister [[israel-katz|Israel Katz]] had recently repeated a warning that Lebanon would "pay a heavy price" if Hezbollah were not removed from near the border, though the Lebanese Army is widely seen as incapable of dislodging the Iran-backed Shia paramilitary group without triggering another civil war.[38] Badlands writer [[burning-bright|Burning Bright]] argued that highly charged narrative deployments lose psychological power the longer they run — even as the underlying escalation intensifies — and that the Israel–Gaza crisis was inflicting narrative damage on the establishment much as Ukraine fatigue had.[38]
+
+## References
+
+
+1. Badlands Brief — "Supreme Conflicts, Criminal Probes, & A Ceasefire", URL: https://badlands.substack.com/p/badlands-brief-07c
+2. Badlands Brief — "All the Classic Earmarks of Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-143
+3. Badlands Brief — "Time is on Trump's Side ... But Which Regime is he Fighting?", URL: https://badlands.substack.com/p/badlands-brief-0fb
+4. Badlands Brief — "DC Exposes Itself as the Middle East Gets Gloriously Strange", URL: https://badlands.substack.com/p/badlands-brief-1ae
+5. Badlands Brief — "Southern Hospitality Superseded Plus Cross Burning", URL: https://badlands.substack.com/p/badlands-brief-2c0
+6. Badlands Brief — "Mr. Nice Guy Leaves the Building (plus, Jewish Terrorism)", URL: https://badlands.substack.com/p/badlands-brief-625
+7. Badlands Brief — "The G7 Laments the G2", URL: https://badlands.substack.com/p/badlands-brief-6a1
+8. Badlands Brief — "Deliberate Discombobulation Driving Transformational Change", URL: https://badlands.substack.com/p/badlands-brief-6b4
+9. Badlands Brief — "AMERICA IS BACK", URL: https://badlands.substack.com/p/badlands-brief-708
+10. Badlands Brief — "Trump Springs His Trap as the Deep State Gets Desperate", URL: https://badlands.substack.com/p/badlands-brief-8c2
+11. Badlands Brief — "Weaponization Woes & Bailing on the Bromance", URL: https://badlands.substack.com/p/badlands-brief-774
+12. Badlands Brief — "Nazi-Related Cover Ups & Formerly Secret Treason", URL: https://badlands.substack.com/p/badlands-brief-9ac
+13. Badlands Brief — "A Politician is Swallowelled Whole as the Middle East Realigns in Real Time", URL: https://badlands.substack.com/p/badlands-brief-9ea
+14. Badlands Brief — "Peaceful Retaliations, Futuristic Fusions and Based Puritans", URL: https://badlands.substack.com/p/badlands-brief-bb1
+15. Badlands Brief — "TACO Tuesday Returns as the War of Stories Gets Weird", URL: https://badlands.substack.com/p/badlands-brief-c7b
+16. Badlands Brief — "A Meddling Musk & Sanctions for Soros", URL: https://badlands.substack.com/p/badlands-news-brief-048
+17. Badlands Brief — "Badlands News Brief: Chaos in the Middle East Overshadows That at Home", URL: https://badlands.substack.com/p/badlands-news-brief-023
+18. Badlands Brief — "Lavish Courtships, Extremely Strong Relations, & Fake Election Rituals", URL: https://badlands.substack.com/p/badlands-news-brief-02f
+19. Badlands News Brief — "The Walz Cycle Consumes Itself as Tensions Pause", URL: https://badlands.substack.com/p/badlands-news-brief-0ad
+20. Badlands Brief — "Problems Litter the Game Board; But Solutions Are Coming ...", URL: https://badlands.substack.com/p/badlands-news-brief-10a
+21. Badlands Brief — "Badlands News Brief: Democrats in Disarray as Globalists Bend the Knee", URL: https://badlands.substack.com/p/badlands-news-brief-099
+22. Badlands Brief — "Badlands News Brief: A Splintered Establishment & Tension Tightropes", URL: https://badlands.substack.com/p/badlands-news-brief-116
+23. Badlands Brief — "Fake News Attempts to Provoke Real Wars", URL: https://badlands.substack.com/p/badlands-news-brief-13f
+24. Badlands Brief — "Badlands News Brief: International Antifa, Hezbollah Strongholds, & Nuclear Options", URL: https://badlands.substack.com/p/badlands-news-brief-1c3
+25. Badlands Brief — "Badlands News Brief: Fake Candidates, Plea Deals & War Drums", URL: https://badlands.substack.com/p/badlands-news-brief-264
+26. Badlands News Brief — "The Week of Rage Continues ... Biden to the Rescue?", URL: https://badlands.substack.com/p/badlands-news-brief-28e
+27. Badlands Brief — "Badlands News Brief: The Witch Hunt Hits a Few Snags as the Landscape Shifts", URL: https://badlands.substack.com/p/badlands-news-brief-2a0
+28. Badlands Brief — "Badlands News Brief: New Gotham City, Iranian Mysteries & Wars Galore", URL: https://badlands.substack.com/p/badlands-news-brief-2ad
+29. Badlands News Brief — "Israel Strikes Again as The FED Pivots", URL: https://badlands.substack.com/p/badlands-news-brief-2f2
+30. Badlands Brief — "'Iran Iran Iran!' Is the New 'Russia Russia Russia!'", URL: https://badlands.substack.com/p/badlands-news-brief-421
+31. Badlands Brief — "The Old Guard Braces for Impact as Panic Spreads", URL: https://badlands.substack.com/p/badlands-news-brief-447
+32. Badlands Brief — "Trumpian Rug Pulls, Biden Whispers & NATO Panic", URL: https://badlands.substack.com/p/badlands-news-brief-6c4
+33. Badlands Brief — "Badlands News Brief: Trump Calls for Peace as the World Heads Toward War", URL: https://badlands.substack.com/p/badlands-news-brief-69b
+34. Badlands Brief — "Badlands News Brief: Contempt, Combat Tactics and Cuts?", URL: https://badlands.substack.com/p/badlands-news-brief-70a
+35. Badlands Brief — "Israel Invades, MAGA Sues & Ports Close", URL: https://badlands.substack.com/p/badlands-news-brief-683
+36. Badlands Brief — "Badlands News Brief: Trump Returns to DC as Globalists Panic", URL: https://badlands.substack.com/p/badlands-news-brief-67e
+37. Badlands Brief — "It’s Our Failed ‘Resistance’ and We Can Cry if We Want To", URL: https://badlands.substack.com/p/badlands-news-brief-656
+38. Badlands Brief — "Badlands News Brief: DemoCrabs in Biden's Bucket", URL: https://badlands.substack.com/p/badlands-news-brief-845

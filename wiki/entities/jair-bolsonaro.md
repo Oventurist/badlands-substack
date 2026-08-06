@@ -1,0 +1,32 @@
+---
+title: Jair Bolsonaro
+created: 2026-08-06
+updated: 2026-08-06
+type: entity
+tags: [brazil, lawfare, elections, coup, judiciary]
+sources: [raw/badlands-news-brief-03a.md, raw/badlands-news-brief-09e.md]
+confidence: medium
+---
+
+# Jair Bolsonaro
+
+Jair Bolsonaro is a former president of Brazil, a far-right former army captain who served as the country's head of state from 2019 to 2022.[1]
+
+## Supreme Court trial
+
+In March 2025 a majority of the judges on a five-judge panel of Brazil's Supreme Court reviewing charges against Bolsonaro voted for him to stand trial for allegedly conspiring to overthrow the government after he lost the 2022 election.[1] The first three members of the panel voted in favor of trial, and Bolsonaro was reported to face a potential prison sentence stretching over two decades if convicted at a trial expected later that year.[1]
+
+Bolsonaro was accused of five crimes, including an alleged attempt to violently abolish the democratic rule of law and a coup d'état.[1] Justice [[alexandre-de-moraes|Alexandre de Moraes]], who oversaw the case, opened proceedings by screening footage of Bolsonaro's supporters storming government buildings in the days following the January 2023 inauguration of President Luiz Inácio Lula da Silva.[1]
+
+## Commentary
+
+Badlands commentary characterized the prosecution succinctly as "Bolsonaro's insurrection, Brazil's J6," drawing a direct parallel between the Brazilian case and the January 6 prosecutions in the United States.[1]
+
+
+## Invitation to Trump’s Second Inauguration
+
+Former Brazilian President Jair Bolsonaro was among the foreign figures invited to [[second-inauguration-of-donald-trump|Donald Trump's January 20, 2025 inauguration]], alongside El Salvador's [[nayib-bukele|Nayib Bukele]], at a time when a wide range of world leaders were vying for access to the ceremony.[2]
+
+## References
+1. Badlands Brief — "SCOTUS and Subsidies, Banker Bonuses, and Six More Years of Lindsay Graham", URL: https://badlands.substack.com/p/badlands-news-brief-03a
+2. Badlands Brief — "Preemptive Pardons, Syrian Sanctions, & Preparations for Putin", URL: https://badlands.substack.com/p/badlands-news-brief-09e

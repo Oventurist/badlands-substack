@@ -1,0 +1,24 @@
+---
+title: Dmytro Kuleba
+created: 2026-08-06
+updated: 2026-08-06
+type: entity
+tags: [ukraine, diplomacy, foreign-minister, war]
+sources: [raw/badlands-news-brief-6f7.md]
+confidence: medium
+---
+
+# Dmytro Kuleba
+
+Dmytro Kuleba served as Ukraine's Foreign Minister and was one of the country's most recognized faces after two and a half years of war before resigning on Wednesday, September 4, 2024, amid the largest cabinet shake-up of the conflict.[1]
+
+## Resignation
+
+Kuleba, 43, did not give a reason for stepping down; his resignation was to be discussed by lawmakers at their next session, according to parliamentary Speaker Ruslan Stefanchuk.[1] Lawmakers said Kuleba submitted a handwritten letter dated September 4 asking parliament to "accept my resignation from the post of the minister of foreign affairs of Ukraine."[1] His departure followed the removal the previous night of six top officials, including several ministers, some of whom were expected to take up other government positions.[1] David Arakhamia, head of the ruling Servant of the People group in parliament, wrote on Telegram that "as promised, a major reboot of the government can be expected this week," identifying Wednesday as "the day of lay-offs" and the following day as "the day of appointments."[1]
+
+## Record
+
+Kuleba was described as instrumental in lining up record-setting defense aid and foreign arms deliveries for Kyiv, including lobbying Washington to obtain Patriot missiles.[1] He was also seen as key in persuading the West to greenlight missile strikes inside Russian territory, and had latterly argued that restrictions on long-range systems should be removed.[1]
+
+## References
+1. Badlands Brief — "Badlands News Brief: Psyops Abound as the Media Landscape Shifts Rapidly", URL: https://badlands.substack.com/p/badlands-news-brief-6f7

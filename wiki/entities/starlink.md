@@ -1,0 +1,48 @@
+---
+title: Starlink
+created: 2026-08-06
+updated: 2026-08-06
+type: entity
+tags: [technology, satellite-internet, spacex, iran, israel, covert-operations]
+sources: [raw/badlands-brief-b34.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-670.md]
+confidence: medium
+---
+
+# Starlink
+
+**Starlink** is the satellite internet constellation operated by [[elon-musk|Elon Musk]]'s SpaceX, providing broadband connectivity through user terminals that communicate directly with low-earth-orbit satellites.[1] Because the terminals bypass terrestrial infrastructure, the service has repeatedly become a factor in conflicts and protest movements where national governments restrict or shut down internet access.[1]
+
+## Alleged smuggling into Iran
+
+In June 2026, a Reuters report relayed claims by former Israeli Prime Minister [[naftali-bennett|Naftali Bennett]] that [[israel|Israel]] had smuggled tens of thousands of Starlink terminals into [[iran|Iran]].[1] According to Bennett, the objective was to help anti-government protesters maintain internet and social media access for coordination purposes and ultimately to topple the Iranian government.[1] Bennett said he had personally initiated the effort to acquire and smuggle the systems, but claimed that Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]]'s government halted the program, leaving the infrastructure unavailable when protests broke out.[1]
+
+Starlink is not licensed to operate in Iran.[1] Iranian authorities have repeatedly shut down public internet access during periods of unrest, including deadly nationwide protests in January 2026 and throughout the war with the United States and Israel that began at the end of February 2026.[1] Iran had previously accused Israel and the United States of smuggling the devices into the country to undermine its security.[1]
+
+## Badlands commentary
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] read Bennett's disclosure as an admission that [[mossad|Mossad]] assets were to use the terminals to coordinate a violent overthrow of the Iranian government.[1] In that account, once Iranian leadership shut down the internet the operatives activated their Starlink receivers and were subsequently targeted for arrest by Iranian security forces, with Russian assistance reportedly enabling Iran to hack the receivers and locate the users.[1] The commentary raised the question of whether Musk himself had aided Tehran, and framed the episode as the [[sovereign-alliance|Sovereign Alliance]] cooperating to thwart a coup attempt.[1]
+
+## OceanGate fact-check controversy (2023)
+
+In June 2023 the fact-checking site [[snopes|Snopes]] published an article headlined "Was the Missing Titanic Submersible Using Satellites from Elon Musk's Company?", implying that a Starlink failure caused the [[oceangate|OceanGate]] submersible to lose contact with its surface support vessel.[2] A Twitter community note rebutted the piece, noting that OceanGate used Starlink for its surface vessels rather than its submersibles and that radio frequencies such as Starlink's do not work underwater.[2] Snopes amended the article and lowered its rating first to "Unproven" and then to "False," conceding that the submersible itself had not used the technology to communicate.[2]
+
+## 2024 cyber security debate
+
+Following the [[2024-crowdstrike-global-outage|CrowdStrike global outage]] in July 2024, Badlands writer [[burning-bright|Burning Bright]] noted that cyber security had become a mainstream talking point with [[elon-musk|Elon Musk]]'s Starlink again in the spotlight, a discussion he linked to the Department of Defense and to the transfer of a large block of unused military internet address space to an obscure Florida company on January 20, 2021.[3]
+
+## FCC refusal to reinstate the $885.5 million rural broadband award
+
+On Tuesday, December 12, 2023, the Federal Communications Commission reaffirmed its 2022 decision denying Starlink $885.5 million in rural broadband subsidies, rejecting SpaceX's challenge to the earlier rescission.[4] The commission said Starlink had failed to meet basic program requirements and could not demonstrate that it would deliver the promised service; FCC Chair Jessica Rosenworcel stated that "the FCC followed a careful legal, technical and policy review to determine that this applicant had failed to meet its burden."[4] Among its stated reasons the FCC cited SpaceX's failure to successfully launch Starship, warning that "the uncertain nature of Starship's future launches could impact Starlink's ability to meet" its obligations.[4] The original August 2022 rescission had rested on speed-test data after Starlink agreed to serve 642,000 rural homes and businesses across 35 states.[4]
+
+SpaceX said it was "deeply disappointed and perplexed" by the decision, maintaining that Starlink "is demonstrably one of the best options - likely the best option" for the rural internet program's goals.[4] The two Republican commissioners on the five-member FCC dissented, arguing the agency was improperly holding SpaceX to 2025 targets three years early and suggesting the Biden administration's hostility toward Elon Musk was the real driver; Commissioner Brendan Carr said the FCC was joining "the growing list of administrative agencies that are taking action against Elon Musk's businesses" in a decision that "certainly fits the Biden Administration's pattern of regulatory harassment."[4] Badlands commentary read the episode as public evidence of administrative-state weaponization against political and cultural opponents, paralleling the Justice Department's treatment of Donald Trump.[4]
+
+## Crimea drone attack refusal and "Starlink-Gate" (2023)
+
+In September 2023 Starlink became the center of a controversy over [[elon-musk|Elon Musk]]'s earlier decision to block Kyiv from using the constellation to support a drone attack on the Russian fleet at anchor in Crimea.[5] Musk said on X that "the obvious intent being to sink most of the Russian fleet at anchor," and that "if I had agreed to their request, then SpaceX would be explicitly complicit in a major act of war and conflict escalation."[5] [[mykhailo-podolyak|Mykhailo Podolyak]], a senior aide to [[volodymyr-zelensky|Volodymyr Zelensky]], responded that by "not allowing Ukrainian drones to destroy part of the Russian military (!) fleet via Starlink interference, Elon Musk allowed this fleet to fire Kalibr missiles at Ukrainian cities," accusing Musk of committing and enabling "evil" driven by "a cocktail of ignorance and big ego."[5] Some commentators went so far as to call for the U.S. government to nationalize the [[spacex|SpaceX]] systems serving Ukraine.[5] [[burning-bright|Burning Bright]] of [[badlands-media|Badlands Media]] read the episode as a transparent warmongering deployment in which audiences were being told that refusing kinetic escalation toward world war was itself evil, concluding that "peace is what the enemy fears most."[5]
+
+## References
+1. Badlands Brief — "The Old Guard Is Very Confused About What's Happening to Them", URL: https://badlands.substack.com/p/badlands-brief-b34
+2. Badlands Brief — "Badlands News Brief: Hunter Hunted, Billionaire Boxing & Snopes Nopes", URL: https://badlands.substack.com/p/badlands-news-brief-090
+3. Badlands Brief — "Badlands News Brief: Change of Batter, Indeed …", URL: https://badlands.substack.com/p/badlands-news-brief-42e
+4. Badlands Media — "Badlands News Brief: The Biden Crime Family Begins to Unravel ...", URL: https://badlands.substack.com/p/badlands-news-brief-505
+5. Badlands Brief — "Musk the Peacemaker, Constitutional Overreach & POTATUS", URL: https://badlands.substack.com/p/badlands-news-brief-670

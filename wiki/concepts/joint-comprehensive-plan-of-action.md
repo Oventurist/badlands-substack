@@ -1,0 +1,40 @@
+---
+title: Joint Comprehensive Plan of Action
+created: 2026-08-06
+updated: 2026-08-06
+type: concept
+tags: [iran, nuclear-deal, obama, sanctions, geopolitics]
+sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-168.md]
+confidence: medium
+---
+
+# Joint Comprehensive Plan of Action
+
+The **Joint Comprehensive Plan of Action (JCPOA)**, popularly known as the **Iran Nuclear Deal**, is the 2015 agreement that lifted a portion of the international sanctions regime on [[iran|Iran]] in exchange for restrictions on its nuclear program. Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] identifies it as "one of the most consequential geopolitical maneuvers in recent history" and the crux of the factional struggle within the Western ruling class.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away)
+
+## The "cookie jar" thesis
+
+DeLarme's central metaphor likens Iran to a forbidden "cookie jar": whoever opened it would be dipping into a goldmine.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away) For fifty years Iran had been held under heavy sanctions and, despite sitting on the world's second-largest natural gas reserve and third-largest oil reserve, remained economically suppressed because it was blocked from trading with other countries and private companies.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away) The prevailing consensus had been that keeping Iran weak was preferable, because a thriving Iran on the level of [[saudi-arabia|Saudi Arabia]] would dramatically alter Middle Eastern dynamics — potentially producing a greater regional war in which Iranian proxies, suddenly enjoying hundreds of times more funding, could not merely fight but plausibly threaten Israel's existence.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away)
+
+## Architects
+
+The deal was spearheaded by figures DeLarme treats as recurring characters in the geopolitical drama: [[jake-sullivan|Jake Sullivan]] at the policy level — associated with the 7th Floor group, the [[carnegie-endowment-for-international-peace|Carnegie Endowment]], the Trilateral Commission and the Rhodes Scholarship — and [[william-burns|William Burns]] as lead negotiator, a member of the [[council-on-foreign-relations|Council on Foreign Relations]], the Carnegie Endowment and the board of the [[national-endowment-for-democracy|National Endowment for Democracy]], and an associate of Jeffrey Epstein.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away) Burns had headed a secret negotiating team that met high-level Iranian representatives first in 2008 under [[george-w-bush|George W. Bush]] and then in earnest in 2013, when the [[barack-obama|Obama]] and Rouhani governments revived the talks.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away) [[tom-donilon|Tom Donilon]], technically Sullivan's superior at the time, played a key policy role.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away)
+
+## Strategic motives beyond nonproliferation
+
+DeLarme argues the deal's motivation was never "Schrödinger's nuke" but geopolitical favors and the question of which segment of the Western elite would shape the Middle East's future.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away) One stated rationale was that Western-partnered Iranian gas could supplant Russian gas in Europe at a moment when the Obama administration was waging economic warfare against Russia over the 2014 coup in Ukraine and the Crimea and Donbass conflicts; Russia accordingly opposed sanctions relief for Iran.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away) Western energy majors backing the [[atlantic-council|Atlantic Council]] saw in Iran a vastly larger version of the Ukrainian opportunity, where [[chevron|Chevron]] had signed $10 billion deals with Naftogaz.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away)
+
+## Factional consequences
+
+The JCPOA "split the ruling class factionally, more so than any other issue at the time."[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away) Israel, which until then had walked in lockstep with NATO, dissented and supported regime change in the United States by backing [[donald-trump|Donald Trump]]; the Atlanticists in turn pursued regime change in Israel against [[benjamin-netanyahu|Benjamin Netanyahu]].[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away) The Saudi–Israeli coalition born of the Iranian power play is described as one of the major catalysts that enabled Trump to rise atop the Republican Party and defeat the Clinton machine.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away) When Trump withdrew from the deal, Donilon called it "the worst move in the Middle East since the Iraq War," and Trump's [[maximum-pressure-campaign|maximum pressure campaign]] threatened "enormous consequences" for any country evading Iran sanctions.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away) [[joe-biden|Joe Biden]] reversed course, permitting China to conclude a $400 billion agreement with Iran within two months of taking office.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away)
+
+## Snapback sanctions and the 2025 consultations
+
+In July 2025 [[iran|Iran]] announced it would hold talks with Russia and China in an attempt to circumvent UN snapback sanctions as the deadline for a nuclear agreement loomed.[2] Foreign Ministry spokesman Esmail Baghaei said Tehran was "in constant consultation with these two countries to prevent activation of the snapback or to mitigate its consequences," adding "we have aligned positions and good relations."[2] Both China and Russia are signatories of the 2015 agreement, which reporting described as having seemingly failed to end Iran's nuclear ambitions following the U.S. withdrawal from the deal during the first Trump presidency in 2018 and the nuclear advances Tehran made thereafter.[2]
+
+Badlands commentary reinterpreted [[donald-trump|Trump]]'s withdrawal from the accord as a deliberate shatterpoint exposing the deal's flaws rather than an act of sabotage, and cast the Iran–Russia–China coordination as evidence of the [[sovereign-alliance|Sovereign Alliance]] rather than adversarial maneuvering.[2]
+
+## References
+
+1. Badlands Brief — "And Iran, Iran So Far Away", URL: https://badlands.substack.com/p/and-iran-iran-so-far-away
+2. Badlands Brief — "Badlands News Brief: Thumb Drive Theories & Early Dismissals", URL: https://badlands.substack.com/p/badlands-news-brief-168

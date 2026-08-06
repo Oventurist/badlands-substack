@@ -1,0 +1,3 @@
+## Role in the 2025 pressure campaign on the Fed
+
+Badlands writer [[burning-bright|Burning Bright]] identified the Cook controversy as a key fracture point in President [[donald-trump|Donald Trump]]'s escalating campaign against the [[federal-reserve|Federal Reserve]] in August 2025, spotlighted as part of what he described as a controlled demolition of the Fed and the fiat apparatus.[{n}] In that account, the affair served to expose hypocrisy at the top of the institution and to cultivate a public mandate to question Fed independence, revealing how insiders had gamed the system for personal gain in a way that mirrored their broader manipulation of the economy.[{n}]

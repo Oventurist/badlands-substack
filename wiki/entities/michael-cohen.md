@@ -1,0 +1,43 @@
+---
+title: Michael Cohen
+created: 2026-08-06
+updated: 2026-08-06
+type: entity
+tags: [lawfare, new-york, trump-investigations, civil-fraud-case]
+sources: [raw/badlands-brief-884.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-3c1.md, raw/badlands-news-brief-7c6.md]
+confidence: medium
+---
+
+# Michael Cohen
+
+Michael Cohen is a former attorney and self-described "fixer" for [[donald-trump|Donald Trump]] who became a central cooperating witness in New York investigations of Trump and his business.[1] In March 2026 he claimed he had been coerced into providing damaging statements about Trump, reopening questions about the conduct of the prosecutors who built the case against the president.[1]
+
+## Coercion claim and the demand for records
+
+Cohen said he was pressured into making statements about Trump during investigations tied to the New York civil fraud case brought by the office of Attorney General [[letitia-james|Letitia James]].[1] In response, Trump demanded that James turn over all communications between her office and Cohen, with Trump's team arguing that Cohen's claim raised questions about the conduct of the prosecutors and investigators involved in the case.[1] The demand formed part of Trump's continuing effort to overturn the New York civil fraud judgment entered against him and his business during the Biden administration.[1]
+
+## Badlands commentary
+
+[[ashe-in-america|Ashe in America]] summarized New York's predicament with the adage "when you lie down with dogs, you wake up with fleas," arguing that the state had chosen to partner with Cohen to "get Trump" during the Biden administration and was now being bitten because Cohen "is only loyal to himself, and the political winds have changed."[1]
+
+The commentary also entertained a second reading: that Cohen had been playing a role the entire time, functioning like an undercover operative inside a RICO-style conspiracy, present at meetings of the minds to engage in criminal conduct.[1] Ashe noted that the underlying prosecution — the source of Trump's 34-felony conviction and nicknamed the "zombie case" — was widely regarded in Badlands commentary as weaponized justice, making the possibility of an inside operative "a delightful possibility… even if it's Michael Cohen."[1]
+
+## The 2018 FEC letter
+
+In March 2023, as the [[manhattan-district-attorneys-office|Manhattan District Attorney's office]] under [[alvin-bragg|Alvin Bragg]] prepared charges against Trump over the 2016 payment to [[stormy-daniels|Stormy Daniels]], a purported 2018 letter from Cohen's lawyer to the [[federal-election-commission|Federal Election Commission]] resurfaced and was circulated widely online by commentator [[benny-johnson|Benny Johnson]].[2] The letter stated that Cohen had used his own personal funds to pay Daniels, that the Trump campaign was not a party to the transaction, and that it did not reimburse Cohen for the payment.[2] ZeroHedge reported that the "totally exculpatory" document could hobble the Manhattan DA's case, since the prosecution's theory depended on the payment functioning as an unreported campaign expenditure.[2]
+
+Badlands commentator [[ryan-delarme|Ryan DeLarme]] noted that the anticipated Tuesday arrest of Trump had come and gone without action, argued that the underlying allegations had already failed in court — citing Michael Avenatti's imprisonment and the roughly $300,000 in legal fees Daniels was ordered to pay — and concluded that prosecutors knew there was no case and wanted only "the show and the mug shot."[2]
+
+## Trump's "star witness" attack (March 2023)
+
+On Saturday, March 25, 2023, following his rally in Waco, Texas, [[donald-trump|Trump]] suggested that the [[manhattan-district-attorneys-office|Manhattan DA]] had been tricked by "star" witness Cohen, noting that Cohen had been disbarred after pleading guilty in 2018 to multiple felony charges including five counts of tax evasion, lying to a financial institution, lying to Congress, and two campaign finance violations.[3] Trump wrote that "The Manhattan D.A. Witch Hunt against me is DEAD, no evidence at all," while claiming that "the evidence against their 'Star' witness, however, is overwhelming," and suggesting the DA's office should sue Cohen for lying and fraud.[3] Coverage of the episode again cited the 2018 letter in which Cohen's lawyer told the [[federal-election-commission|Federal Election Commission]] that Cohen used his own funds for the $130,000 payment to [[stormy-daniels|Stephanie Clifford]] and was not reimbursed by Trump.[3]
+
+## Credibility challenged at the 2024 hush money trial
+
+During the May 2024 New York hush money trial of [[donald-trump|Donald Trump]], the defense rested after calling a former federal prosecutor who challenged the credibility of the prosecution's key witness, Cohen.[4] Badlands contributor [[ashe-in-america|Ashe in America]] argued that Cohen and [[stormy-daniels|Stormy Daniels]] should be charged with perjury and that the prosecutors who put them on the stand — in her view knowing they would lie — should be disbarred.[4]
+
+## References
+1. Badlands Brief — "War Weaves & Midterm Maxis", URL: https://badlands.substack.com/p/badlands-brief-884
+2. Badlands Media — "Badlands News Brief: Exculpatory Trump Card & China's Moves", URL: https://badlands.substack.com/p/badlands-news-brief-0e0
+3. Badlands Media — "Badlands News Brief: Witch Hunt, Woke's Fall & Peacemakers", URL: https://badlands.substack.com/p/badlands-news-brief-3c1
+4. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6

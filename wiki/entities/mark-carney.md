@@ -1,0 +1,144 @@
+---
+title: Mark Carney
+created: 2026-08-06
+updated: 2026-08-06
+type: entity
+tags: [canada, banking, green-finance, goldman-sachs, city-of-london]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-1ce.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-314.md, raw/badlands-brief-577.md, raw/badlands-brief-a84.md, raw/badlands-brief-db7.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-719.md]
+confidence: medium
+---
+
+# Mark Carney
+
+Mark Carney is a Canadian central banker turned politician who, as Prime Minister of Canada, removed [[chrystia-freeland|Chrystia Freeland]] from the front rank of Canadian government in September 2025.[[1]](https://badlands.substack.com/p/a-re-alignment-of-world-systems) The announcement released from the Prime Minister's Office in Ottawa on September 16, 2025 thanked Freeland for her service as Finance Minister and Deputy Prime Minister while alluding to the setting of her political sun, with Carney writing: "I have asked Chrystia to serve as Canada's new Representative for the Reconstruction of Ukraine."[[1]](https://badlands.substack.com/p/a-re-alignment-of-world-systems)
+
+Analyst [[john-helmer|John Helmer]] noted that the ouster was so rushed that there was no time for Carney to prepare what Freeland would actually be doing as his special envoy to Ukraine, a posting that came without staff or diplomatic rank.[[1]](https://badlands.substack.com/p/a-re-alignment-of-world-systems)
+
+## Background
+
+Carney is described as an Oxford-trained investment banker at Goldman Sachs who took part, from the Western side, in the Perestroika-era transformation of the former Soviet bloc — an operation carried out alongside the IMF's Jeffrey Sachs, Vice President Al Gore and Rhodes Scholar Strobe Talbott.[[1]](https://badlands.substack.com/p/a-re-alignment-of-world-systems) That process applied privatization and liberalization reforms to Russia, Ukraine and other Warsaw Pact countries within roughly a decade, compressing what had taken thirty years in the West.[[1]](https://badlands.substack.com/p/a-re-alignment-of-world-systems)
+
+## Policy direction
+
+Under Carney, Canada's anti-Russian posture has not ended — Canadian taxpayers had already contributed $22 billion to the proxy war since February 2022 — but a new agenda geared toward befriending China is in the works, an agenda in which Freeland's anti-China hawkishness had no place.[[1]](https://badlands.substack.com/p/a-re-alignment-of-world-systems) [[matthew-ehret|Matthew Ehret]] argues that China should nonetheless not trust the "new Canada" of Carney, since Canada functions as a chess piece within a much larger London-directed Great Game aimed at weakening the Russian–Chinese alliance and exploiting resource-rich Canada's position within it.[[1]](https://badlands.substack.com/p/a-re-alignment-of-world-systems) Ehret closes his assessment by asking whether Carney will be able to salvage the decaying British Empire and the dream of [[cecil-rhodes|Cecil Rhodes]] to recapture the United States in the twenty-first century.[[1]](https://badlands.substack.com/p/a-re-alignment-of-world-systems)
+
+## China partnership, January 2026
+
+See [[canada-china-strategic-partnership-2026|Canada–China Strategic Partnership (2026)]].[2]
+
+In mid-January 2026 Carney made the first Canadian prime ministerial trip to Beijing in nearly a decade, forging a new strategic partnership with China through agreements spanning trade, energy, agriculture, finance and tourism, intended to revitalize bilateral ties strained by diplomatic disputes dating back to 2018.[2] A central feature was a tariff reduction deal allowing up to 49,000 Chinese electric vehicles into Canada at a reduced 6.1% rate, reversing a previous 100% duty; in exchange China agreed to sharply lower tariffs on Canadian agricultural exports such as canola seed, a move expected to unlock nearly $3 billion in trade.[2] Carney framed the agreements as part of a broader effort to diversify Canada's export markets and reduce reliance on the United States, relations with which had been tested by high tariffs and political rhetoric under [[donald-trump|Donald Trump]].[2] The partnership also included preliminary pacts reopening ministerial-level talks on clean energy, forestry, culture and tourism, though China remains a far smaller export destination than the U.S., underscoring the scale of the diversification challenge.[2]
+
+## Badlands interpretation
+
+[[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] characterized Carney as "the central banker king" who has taken the field to counteract Trump's moves against the global banking system, notably the lifting of Venezuela sanctions.[2] Asked to clarify an earlier comment about setting up a "[[new-world-order|new world order]]," Carney spoke of restoring "plural-lateralism," citing deals such as the Trans-Pacific Partnership, and of the need to expand the global banking system in order to expand the security architecture of the financial world and prevent money laundering by criminal organizations.[2] Badlands treats that stated rationale as ironic, given its claim that the Trump–[[nicolas-maduro|Maduro]] operation is itself about exposing widespread money laundering at the highest levels of the biggest banks.[2]
+
+## Gordie Howe Bridge dispute (2026)
+
+In February 2026, Carney responded to President [[donald-trump|Donald Trump]]'s threat to block the early-2026 opening of the $4.6 billion [[gordie-howe-international-bridge|Gordie Howe International Bridge]] linking Windsor, Ontario, and Detroit, Michigan.[3] Trump had posted that the project featured "virtually no US content" and accused Canada of offering "Absolutely NOTHING" in return, tying the dispute to Canadian trade plans with China that he warned could trigger 100% tariffs, a ban on ice hockey in Canada, and elimination of the Stanley Cup.[3] Carney described a positive conversation with Trump, emphasized Canada's full funding of construction, shared ownership with Michigan, and the involvement of both countries' steel and workers as a model of cooperation.[3]
+
+## Alberta separatism (January 2026)
+
+After reporting that US [[state-department|State Department]] officials had met three times with the [[alberta-prosperity-project|Alberta Prosperity Project]], Carney stated that he expects the US administration to respect Canadian sovereignty, noting that President [[donald-trump|Donald Trump]] has never raised Alberta separatism with him.[4] Badlands commentary framed the province as the "most productive part of Canada," supplying 80% of the country's oil and 60% of its natural gas, making its potential departure an existential problem for the federal government Carney leads.[4]
+
+## US suspension of the Permanent Joint Board on Defense (May 2026)
+
+In May 2026 the United States suspended participation in the [[permanent-joint-board-on-defense|Permanent Joint Board on Defense]], the bilateral consultation body founded in 1940, with Under Secretary of Defense for Policy [[elbridge-colby|Elbridge Colby]] citing Canada's failure to make "credible progress on its defense commitments."[5] The decision followed tensions over Canadian defense spending and over Carney's [[world-economic-forum|World Economic Forum]] address declaring the U.S.-led global order over.[5] Under Carney, Canada had met [[nato|NATO]]'s 2% of GDP target with $63 billion in investments for ships, F-35s, submarines, and Arctic infrastructure and pledged 3.5% by 2035, though U.S. officials viewed this as insufficient.[5] Analysts described the pause as largely symbolic, with NORAD modernization, intelligence sharing, and border security expected to continue.[5]
+
+## Warning to Alberta separatists (May 2026)
+
+In May 2026 Carney warned [[alberta-separatism|Alberta separatists]] not to repeat what he called the "dangerous bluff" of [[brexit|Brexit]], invoking his firsthand experience as governor of the [[bank-of-england|Bank of England]] during the United Kingdom's 2016 vote to leave the European Union.[6] He said Alberta voters should be wary of arguments that separation is merely a negotiating tactic with Ottawa, drawing a direct comparison to Britons who were told they could vote for a "soft" exit and negotiate later, only to face years of political and economic fallout.[6] The warning followed Premier [[danielle-smith|Danielle Smith]]'s announcement that Alberta will hold an October referendum on beginning the legal process toward a future binding independence vote.[6]
+
+Critics noted the irony that Carney had been one of the most prominent establishment voices warning Britain against Brexit in 2016, when pro-Brexit conservatives accused him of running "Project Fear."[6] [[ashe-in-america|Ashe in America]] characterized him as "the crown's man," vehemently anti-Brexit in his day and still opposed to the Crown losing any power, "white knuckling the status quo in the midst of awakening."[6]
+
+## Canada as financial-intelligence hub (2026)
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]], reading the [[us-department-of-the-treasury|Treasury]] document that sanctioned Colombian President [[gustavo-petro|Gustavo Petro]], discovered that the international financial-intelligence body from which [[colombia|Colombia]] had been suspended — an organization tracking financial-crime information shared between governments and forwarding suspicious activity to the [[fbi|FBI]] and [[department-of-justice|DOJ]] — is headquartered in Canada.[7] He reacted with astonishment and concluded that "the Mark Carney lore as the king of all central bankers has now significantly increased," adding that "Canada may very well be the final boss."[7]
+
+## China trade dispute, January 2026
+
+On Sunday, January 25, 2026, Carney said Canada has no plans to pursue a free trade agreement with China, responding to President [[donald-trump|Donald Trump]]'s threat to impose a 100 percent tariff on Canadian imports if Ottawa were to finalize such a deal.[8] Carney said Canada's recent agreement with China simply reduces tariffs on a limited number of products and does not constitute a comprehensive free trade pact.[8] He reiterated that Canada will honor its commitments under the United States–Mexico–Canada Agreement, which restricts negotiating free trade treaties with non-market economies such as China without notifying partners, and stressed that Ottawa had no intention of moving toward a broader deal with Beijing.[8]
+
+The preliminary Canada–China arrangement announced earlier that month included tariff reductions on Chinese electric vehicles and lower duties on Canadian agricultural exports such as [[canola-oil|canola]], following a period of elevated tariffs between the two countries; China's foreign ministry said the arrangements were not aimed at third parties.[8] Trump's threat characterized growing Canadian economic ties with China as a strategic concern, though U.S. officials offered mixed early commentary on the agreements.[8]
+
+Badlands commentator [[ashe-in-america|Ashe in America]] cast the episode as evidence of Canada's role as a globalist proxy, arguing that Canada is a colony of the British Crown whose prime minister swears allegiance to the British monarch and whose power projection is really Britain's.[8] She asked whether Carney had changed his mind or whether King Charles had, and described Canada — for choosing to remain a monarchy's subject, for giving "belt-and-road imperialist communists a foothold" on the North American continent, and for backing Denmark over Greenland shipping-lane interests — as acting like an American enemy and potentially the greatest U.S. national security threat.[8] Badlands commentator [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] separately argued that Carney had been dealing with the Chinese technocrat faction, distinct from the red-family aristocracy and the military command, and noted the suggestive timing relative to the [[china-military-purge-2026|alleged January 2026 coup in China]].[8]
+
+## Response to the 2026 tariff escalation
+
+In July 2026, after President [[donald-trump|Donald Trump]] announced 50% tariffs on nearly $20 billion of selected Canadian imports under Section 338 of the Tariff Act of 1930, Carney criticized the move as inconsistent with the [[usmca|USMCA]] trade agreement and said [[canada|Canada]] remained willing to negotiate, while Canadian officials indicated they were considering retaliatory measures.[9] Badlands commentary on the [[canada-tariff-escalation-2026|escalation]] singled Carney out by name — alongside Neil Young — as an exemplar of the "despicable globalist" strand it distinguished from Canadians generally, and again emphasized that the Canadian prime minister swears allegiance to the English Crown.[9]
+
+## January 2026 China walk-back
+
+In January 2026 Carney returned from Beijing announcing a new "strategic partnership" with [[china|China]] that included cutting tariffs on Chinese electric vehicles from 100% to a token 6.1%, reciprocal cuts on Canadian exports, and a pivot toward diversification away from a fraying American backstop.[10] Days later, at the [[world-economic-forum|World Economic Forum]] in Davos, Carney delivered a defiant address to "middle powers," declaring that the old rules-based order was fraying under [[donald-trump|Donald Trump]]'s rise and warning, "If we're not on the table, we're on the menu."[10]
+
+On January 24, 2026, Trump responded on [[truth-social|Truth Social]], warning that if Canada allowed itself to become a "Drop Off Port" for Chinese goods entering the United States, it would immediately face 100% tariffs on all Canadian products, adding that "China will eat Canada alive."[10] Treasury Secretary [[scott-bessent|Scott Bessent]] amplified the message the next day, announcing that America would not allow Canada to become an opening for Chinese goods to flood the U.S. market.[10]
+
+By January 25, Carney folded, saying Canada had "no intention" of pursuing a free-trade deal with China while clarifying that Canada respects its [[usmca|USMCA]]/CUSMA obligations and that its limited measures were merely to "rectify some issues that have developed in the last couple of years."[10] Badlands contributor [[burning-bright|Burning Bright]] characterized the sequence as a "Collectivist Capitulation Cascade" and a failed last stand for abstracted multipluralism against the [[sovereign-disentanglement|Sovereign Disentanglement]] pattern.[10] No new U.S. tariffs on Canada were announced, and no Canada-China agreement was signed.[10]
+
+## Davos 2026 address
+
+At the January 2026 [[world-economic-forum|World Economic Forum]] meeting in Davos, Carney described the crisis triggered by U.S. tariff threats and the [[us-push-to-acquire-greenland-2026|American push to acquire Greenland]] as a "rupture, not a transition" in the [[rules-based-international-order|rules-based international order]], urging "middle powers" to unite against great-power coercion and to build domestic strength.[11] He cited [[vaclav-havel|Václav Havel]]'s 1978 essay [[the-power-of-the-powerless|The Power of the Powerless]], quoting that the communist system "did not persist because of violence, alone" but "through the participation of ordinary people in rituals they privately knew to be a lie," and that "the system's power comes not from its truth, but from everyone's willingness to perform as if it were true."[11]
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] called the speech surprisingly truthful and perhaps unintentionally based, joking that it read as though written by [[chris-paul|Chris Paul]].[11] Separately, Carney's [[canada|Canada]] was listed among the countries publicly confirming participation in Trump's [[board-of-peace|Board of Peace]], though Ottawa declined to pay the associated membership contribution.[11] [[ashe-in-america|Ashe in America]] cited Carney's earlier invocation of [[article-5|Article 5]], alongside the [[canadian-armed-forces|Canadian Armed Forces]] invasion war game, as continued provocation in the U.S.-Canada information war.[11]
+
+## October 2025 White House visit
+
+During a visit to Washington by Carney in early October 2025, President [[donald-trump|Donald Trump]] said there was "mutual love" but also "natural conflict" between the United States and [[canada|Canada]], hailing progress toward a trade deal while offering few concrete concessions on steep US tariffs.[12] It was Carney's second visit to the United States as prime minister, coming as one of the world's most durable and amicable alliances had been fractured by Trump's trade war and annexation threats.[12] Among the topics discussed were trade and the [[usmca|United States–Mexico–Canada Agreement]], which is critical to Canada's economy and is up for review the following year.[12]
+
+Trump said he was willing to revisit the free trade agreement enacted during his first term or to seek "different deals," remarking: "We could renegotiate it, and that would be good, or we can just do different deals. We're allowed to do different deals."[12] He exhibited a fondness for Carney that he had not displayed toward Carney's predecessor, [[justin-trudeau|Justin Trudeau]].[12]
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote that he and Matt Ehret had detailed Carney's background as "basically the king of all central bankers" and therefore one of the major obstacles on the road to the Sovereign World.[12] He argued Trump "buttered up Carney like a dinner roll" while taking subtle digs noticed only by attentive observers — pointing to a clip in which Trump trashed the trans movement, noting that one of Carney's children is reported as transgender.[12] He predicted that Canada would ultimately capitulate and Carney would "kneel to President Trump," while cautioning that not all enemies can be fought simultaneously and that some must be kept in a holding pattern; he anticipated a major future showdown between Carney and Trump that had been teased at each of their meetings.[12]
+
+## Liberal leadership victory (March 2025)
+
+On March 9, 2025, amid what the New York Times described as a generational crisis in Canada's relationship with the United States, the [[liberal-party-of-canada|Liberal Party of Canada]] chose Carney — an unelected technocrat with deep experience in financial markets — to replace [[justin-trudeau|Justin Trudeau]] as party leader and prime minister, and to take on President [[donald-trump|Donald Trump]].[13] Carney, then 59, had steered the Bank of Canada through the 2008 global financial crisis and the [[bank-of-england|Bank of England]] through Brexit but had never been elected to office; he defeated his friend and former finance minister [[chrystia-freeland|Chrystia Freeland]], winning 85.9% of votes cast by more than 150,000 Liberal Party members.[13] [[burning-bright|Burning Bright]] noted that a week after Trump asked why Trudeau was still speaking for the Canadian people, Carney — "a literal central banker being forced to adopt nationalist rhetoric" — was succeeding him, concluding: "Trump plays the tunes. They dance."[13] The transition unfolded during the [[2025-us-canada-trade-war|2025 US–Canada trade war]].[13]
+
+
+## May 2025 White House visit
+
+Carney met President [[donald-trump|Donald Trump]] in the Oval Office in May 2025, a meeting during which Trump announced that the United States would stop bombing the [[houthis|Houthis]] and teased a major forthcoming announcement tied to his upcoming Middle East trip.[14] Analysis published by CBC framed the visit as only the beginning of a redefinition of the Canada–U.S. relationship, recalling Justin Trudeau's 2013 statement that building a constructive working relationship with the U.S. president is among the few very big things a Canadian prime minister must get right — a criticism then aimed at Stephen Harper's handling of Barack Obama and the Keystone XL pipeline.[14] Two days before Carney went to the White House, Trump was asked on *Meet the Press* whether he would consider using military force against Canada and replied only that he thought it "highly unlikely."[14]
+
+
+## Snap election call (March 2025)
+
+In late March 2025, Carney ended weeks of speculation by asking the Governor General to call a snap federal election for April 28, launching the [[2025-canadian-federal-election|2025 Canadian federal election]] as a short campaign centred on U.S. President [[donald-trump|Donald Trump]]'s trade war and annexation threats.[15] Carney opened the Liberal campaign in Ottawa with a pledge to pass a middle-class tax cut reducing the marginal rate on the lowest income bracket by one percentage point and to diversify Canada's trade, then formally launched it with a rally in St. John's.[15] His rivals, Conservative leader [[pierre-poilievre|Pierre Poilievre]] and NDP leader [[jagmeet-singh|Jagmeet Singh]], likewise built their opening pitches around the economic pain from Trump's on-again, off-again tariffs.[15]
+
+## October 2025 Reagan ad dispute and pivot to Asia
+
+Canada's strategy for handling President [[donald-trump|Donald Trump]] — described as removing all irritants — was on display in late October 2025 during a dispute over the [[ontario-reagan-tariff-advertisement|Ontario Reagan tariff advertisement]].[16] After Trump called the ad "fraudulent," suspended trade talks, and threatened an additional 10 percent tariff, [[ontario|Ontario]] Premier [[doug-ford|Doug Ford]] announced the spot would stop airing on Monday following a conversation with Carney.[16]
+
+Canada had already made significant concessions to lay the groundwork for productive talks, walking back retaliatory tariffs and suspending, in June, a tax on American technology companies after Trump threatened to end negotiations until it was lifted.[16] Carney subsequently adopted a new motto for the Canadian public: that his sole focus is on what the country can control, meaning the pursuit of additional economic partnerships abroad — especially in Asia, where he was meeting leaders at the time.[16]
+
+## Recognition of a Palestinian state (July 2025)
+
+On Wednesday, July 30, 2025, Carney said that [[canada|Canada]] would recognize a Palestinian state at the United Nations General Assembly in September, a fresh diplomatic blow to [[israel|Israel]] as it faced intensifying international criticism over the war in Gaza, and following similar moves by France and the United Kingdom.[17] He said the move was "predicated on the [[palestinian-authority|Palestinian Authority's]] commitment to much-needed reforms," including elections in 2026, anti-corruption measures, and a demilitarized Palestinian state.[17]
+
+Carney stressed he was "not in any way or shape minimizing that scale of that task," adding that "clearly that's not a possibility in the near term" and that Canada had joined the efforts of other states to "preserve the possibility of a [[two-state-solution|two-state solution]]."[17] "Much has to happen before a democratic viable state is established," he said.[17]
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote that he was no fan of Carney and noted that his Breaking History co-host [[matthew-ehret|Matt Ehret]] had just released a documentary about him, portions of which would air on the program.[17] He argued that Carney and his globalist partners were being swept away by geopolitical undercurrents they could not contain — what he and others call [[great-awakening|"The Great Awakening"]].[17]
+
+## Election as prime minister (April 2025)
+
+On 28 April 2025 Carney was elected prime minister of [[canada|Canada]] in his own right, according to projections by national broadcaster CBC/Radio-Canada, in what NPR described as one of the country's most consequential elections in decades; it remained unclear on election night whether his [[liberal-party-of-canada|Liberal Party]] would win the 172 seats needed for an outright majority, with full results not expected until late that evening or the following morning.[18] The vote was widely seen as a decision about which candidate could best handle President [[donald-trump|Donald Trump]], who had helped spark a wave of nationalism across Canada by threatening to annex the country and imposing stiff tariffs on it.[18] The 60-year-old Carney's career in investment banking, his tenure as governor of the [[bank-of-england|Bank of England]] during the Brexit turmoil and as head of the Bank of Canada during the 2008 downturn, and his seemingly unflappable demeanor helped convince voters he could best tackle Trump's sometimes erratic policies, despite his never having held political office before becoming Liberal leader in March.[18] He defeated [[pierre-poilievre|Pierre Poilievre]], the 45-year-old career politician heading the Conservative Party, in a stunning reversal for a rival who had at one point led the Liberals by 27 points.[18]
+
+Badlands contributor [[chris-paul|Chris Paul]] dismissed the result with the quip that "Canadian Ron! DeeSantis goes the way of the standard Ron! DeeSantis, minus the high heels."[18] [[burning-bright|Burning Bright]] argued that "the City on the Hill template is going to wreak havoc on the mind of the collectivist west as the Golden Age gets going," contending that as Americans go all in on sovereignty, decentralization and small government, the regime — "from Canada to the EU" — was doubling down.[18]
+
+## References
+
+1. Badlands Brief — "A Re-Alignment of World Systems", URL: https://badlands.substack.com/p/a-re-alignment-of-world-systems
+2. Badlands Brief — "Arctic Escalation and Tropic Trouble for the Financial System", URL: https://badlands.substack.com/p/badlands-brief-02a
+3. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
+4. Badlands Brief — "African Acceleration, Powell's Replacement, & MEGA Democracy", URL: https://badlands.substack.com/p/badlands-brief-1ce
+5. Badlands Brief — "Massie Faces Massive Loss as Zionists Get Twitchy", URL: https://badlands.substack.com/p/badlands-brief-311
+6. Badlands Brief — "Canadian Separatists & Guerilla Campaigns", URL: https://badlands.substack.com/p/badlands-brief-3d4
+7. Badlands Brief — "Nationalized Elections, Nazi Bankers & Sovereign Shielding", URL: https://badlands.substack.com/p/badlands-brief-314
+8. Badlands Brief — "ICE Getting Boiled, Chinese Coup Chaos, & Carney Bends The Knee", URL: https://badlands.substack.com/p/badlands-brief-577
+9. Badlands Brief — "You're Silly, and You Smell Like Syrup", URL: https://badlands.substack.com/p/badlands-brief-a84
+10. Badlands Brief — "Backpedaling Despots, Mid-East Madness, & Not So Rare Earths", URL: https://badlands.substack.com/p/badlands-brief-db7
+11. Badlands Brief — "Davos Elites Prepare ... for TRUMP-A-MANIA!", URL: https://badlands.substack.com/p/badlands-brief-f02
+12. Badlands Brief — "Badlands News Brief: Quantum Tunneling, Natural Conflicts, & Pirates for Gaza", URL: https://badlands.substack.com/p/badlands-news-brief-060
+13. Badlands Brief — "Badlands News Brief: Hot Wars Wind Down. Trade & Meme Wars Heat Up.", URL: https://badlands.substack.com/p/badlands-news-brief-071
+14. Badlands Brief — "Badlands News Brief: Intelligence Narratives & Seemingly Impossible Deals", URL: https://badlands.substack.com/p/badlands-news-brief-222
+15. Badlands Brief — "Badlands News Brief: Overexposed Engagement Farmers & Maple-Flavored Monarchs", URL: https://badlands.substack.com/p/badlands-news-brief-42b
+16. Badlands Brief — "Badlands News Brief: Shutdown Consequences, Canadian Propaganda, & Console War Conclusions", URL: https://badlands.substack.com/p/badlands-news-brief-545
+17. Badlands Brief — "Badlands News Brief: Burn Bags, Kratom, & Insider Trading", URL: https://badlands.substack.com/p/badlands-news-brief-5a3
+18. Badlands News Brief — "Atmospheric Phenomenon & Record Deportations", URL: https://badlands.substack.com/p/badlands-news-brief-719

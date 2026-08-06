@@ -1,0 +1,56 @@
+---
+title: United States House Oversight Committee
+created: 2026-08-06
+updated: 2026-08-06
+type: entity
+tags: [congress, oversight, epstein, subpoenas]
+sources: [raw/badlands-brief-174.md, raw/badlands-brief-40d.md, raw/badlands-brief-695.md, raw/badlands-brief-6f4.md, raw/badlands-brief-e87.md, raw/badlands-brief-e9e.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-1cc.md]
+confidence: medium
+---
+
+# United States House Oversight Committee
+
+The US House Oversight Committee is the principal investigative committee of the United States House of Representatives and has been the congressional vehicle for inquiry into the handling of records related to [[jeffrey-epstein|Jeffrey Epstein]].[1]
+
+## March 2026 Epstein subpoenas
+
+During the first week of March 2026, the committee issued subpoenas in the Epstein case, one of which targeted Attorney General [[pam-bondi|Pam Bondi]].[1] Lawmakers sought documents and communications related to Epstein investigations conducted in Florida during Bondi's tenure as that state's attorney general.[1] The subpoenas followed allegations that key records in the investigation had not been fully released.[1]
+
+## Clinton depositions (February 2026)
+
+In late February 2026 the committee took closed-door testimony from [[hillary-clinton|Hillary Clinton]] as part of its investigation into [[jeffrey-epstein|Jeffrey Epstein]]'s network; Clinton stated she had no knowledge of Epstein's criminal activities and did not recall having a relationship with him.[2] Former President [[bill-clinton|Bill Clinton]] was scheduled to testify the following day in the same congressional inquiry.[2]
+
+According to NPR, Hillary Clinton was questioned "repetitively" about Pizzagate and UFOs during the closed session, though no details of her answers were reported.[2] Badlands contributor [[ashe-in-america|Ashe in America]] noted that the Clintons had been unable to quash their subpoenas and called it "hilarious" that Hillary claimed no idea about Epstein's criminal portfolio.[2]
+
+## Clinton contempt vote (January 2026)
+
+On Wednesday, January 21, 2026, the committee voted to hold [[bill-clinton|Bill]] and [[hillary-clinton|Hillary Clinton]] in contempt of Congress after they failed to appear for depositions related to the committee's Jeffrey Epstein probe.[3] The measure still required approval by the full House before any referral could be made to the Justice Department.[3]
+
+## Ruemmler interview (July 2026)
+On July 15, 2026 lawmakers from both parties pressed former Obama White House counsel [[kathryn-ruemmler|Kathryn Ruemmler]] in a closed-door Oversight Committee interview over her years-long relationship with [[jeffrey-epstein|Jeffrey Epstein]], challenging her claim that the association was limited.[4] Chairman [[james-comer|James Comer]] said the communications suggested Ruemmler had tried to rehabilitate Epstein's public image after his 2008 conviction, while Ranking Member [[robert-garcia|Robert Garcia]] questioned the credibility of her testimony and said she failed to explain why she maintained the relationship.[4] Rep. [[suhas-subramanyam|Suhas Subramanyam]] told Fox News Digital that Ruemmler "saw dollar signs" and overlooked Epstein's status as a registered sex offender.[4]
+
+## Minnesota pandemic fraud hearing (January 2026)
+
+On January 7, 2026 the committee held a hearing on the multimillion-dollar pandemic fraud schemes in [[minnesota|Minnesota]], summoning state lawmakers to testify in Washington.[5] The hearing took place the same day a federal immigration agent fatally shot [[renee-nicole-good|Renee Nicole Good]] in Minneapolis, and Badlands contributor [[ashe-in-america|Ashe in America]] argued the shooting coverage crowded the testimony out of the news cycle.[5] The proceedings form part of the wider [[minnesota-somali-fraud-hearings|Minnesota Somali fraud hearings]].[5]
+
+## Expansion of the Epstein Probe (June 2026)
+
+In June 2026 the committee took closed-door testimony from [[bill-gates|Bill Gates]] about his past ties to [[jeffrey-epstein|Jeffrey Epstein]]; Gates called the association a "grave error in judgment," said Epstein had later tried to blackmail him over extramarital affairs, and denied any knowledge of or participation in Epstein's crimes.[6] Chairman [[james-comer|James Comer]] said he was working to bring Acting Attorney General [[todd-blanche|Todd Blanche]] before the panel in July, with members focused on whether any Epstein-related documents remained unreleased, while Democrats pushed for a videotaped, under-oath deposition.[6] The committee was also seeking testimony from [[alan-dershowitz|Alan Dershowitz]] as part of its broader inquiry into Epstein's network and the [[department-of-justice|Justice Department]]'s handling of the case.[6]
+
+## Biden family business investigation (2023)
+
+In March 2023 the [[us-department-of-the-treasury|Treasury Department]] agreed to release [[suspicious-activity-report|suspicious activity reports]] generated by the business transactions of [[joe-biden|Joe Biden]]'s family and their associates to the committee, a development described as a major step in its investigation into whether the president was compromised by communist China.[7] The committee was investigating the Biden family business for nine violations, including wire fraud and money laundering.[7] More than 150 SARs involving [[hunter-biden|Hunter]] and [[james-biden|James Biden]] had been flagged by United States banks, and the records were expected to detail the foreign business transactions of Hunter, James, and Frank Biden.[7]
+
+## Biden bribery inquiry, 2023
+
+Chairman [[james-comer|James Comer]] said on Fox News on July 31, 2023 that he believed the committee would be able to prove the [[joe-biden-bribery-allegation|Joe Biden bribery allegation]], citing "a lot of smoke" and testimony heard that day indicating that [[joe-biden|Joe Biden]] "had lied to the American people."[8] The committee's work on the matter proceeded in parallel with the [[house-judiciary-committee|House Judiciary Committee]] under [[jim-jordan|Jim Jordan]].[8]
+
+## References
+1. Badlands Brief — "Conflicts, Cartels, & Clemency", URL: https://badlands.substack.com/p/badlands-brief-174
+2. Badlands Brief — "Clinton Clashes, Royal Trafficking, & Fond WEF Farewells", URL: https://badlands.substack.com/p/badlands-brief-40d
+3. Badlands Brief — "Election Bombshells, Peace Board Bangers, & Clintons in Contempt", URL: https://badlands.substack.com/p/badlands-brief-695
+4. Badlands Brief — "Illegal Psychological Warfare Campaigns & Misprision of Treason", URL: https://badlands.substack.com/p/badlands-brief-6f4
+5. Badlands Brief — "Poetic Agitprop, Cold War Reruns, & Kokomo From the Ropes", URL: https://badlands.substack.com/p/badlands-brief-e87
+6. Badlands Brief — "Earned Deportations, Irish Knife Fights, & the Eventual "Liberation" of Jerusalem", URL: https://badlands.substack.com/p/badlands-brief-e9e
+7. Badlands News Brief — "Drones, Speeches ... and a Swiss Bank", URL: https://badlands.substack.com/p/badlands-news-brief-138
+8. Badlands Brief — "Badlands News Brief: Trump Indicted ... Again, and Other Stories!", URL: https://badlands.substack.com/p/badlands-news-brief-1cc

@@ -1,0 +1,75 @@
+---
+title: Presidential Immunity
+created: 2026-08-06
+updated: 2026-08-06
+type: concept
+tags: [law, executive-power, trump, courts]
+sources: [raw/badlands-news-brief-092.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-484.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-528.md, raw/badlands-news-brief-6c4.md]
+confidence: medium
+---
+
+# Presidential Immunity
+
+**Presidential immunity** is the legal doctrine, invoked by former President [[donald-trump|Donald Trump]] in his criminal cases, that a president cannot be prosecuted for acts undertaken in office.
+
+Trump's legal team relied on the doctrine in the [[trump-classified-documents-case|classified documents case]], filing a seven-page document on March 24, 2024, in the U.S. District Court for the Southern District of Florida in support of his controversial bid to have the charges dismissed on immunity grounds.[1] The same filing drew attention because it twice described Trump's time in the [[white-house|White House]] as his "first term."[1]
+
+The immunity question gained salience because Trump had become the presumptive Republican nominee for the 2024 election on March 12, 2024, while facing criminal charges in four separate cases, prompting public debate over how a second term would intersect with ongoing prosecutions.[1]
+
+## December 2023 Supreme Court refusal to expedite
+
+The doctrine first reached the [[supreme-court-of-the-united-states|Supreme Court]] in December 2023, when the justices released a docket that notably omitted expedited consideration of Trump's immunity claim in his 2020 election interference case — the question that would determine whether he could be tried for attempting to overturn the results of the last presidential election.[2] The one-sentence order, issued with no noted dissents, meant that a federal appeals court in Washington would be the first to review a district judge's earlier ruling rejecting Trump's immunity claim, with argument scheduled for January 9, 2024.[2]
+
+The order came eight days after the Court agreed to consider whether to expedite Special Counsel [[jack-smith|Jack Smith]]'s petition to bypass the appeals court and rule immediately, a step Smith argued was needed so his case could proceed on schedule in March.[2] "This case involves — for the first time in our Nation's history — criminal charges against a former President based on his actions while in office," Smith wrote in his filing. "And not just any actions: alleged acts to perpetuate himself in power by frustrating the constitutionally prescribed process for certifying the lawful winner of an election."[2]
+
+## Application to Barack Obama and Russiagate (2025)
+
+By July 2025 the doctrine had been turned toward former President [[barack-obama|Barack Obama]] in the wake of the [[russiagate-hoax|Russiagate]] declassifications.[3] Trump said on July 25, 2025 that Obama "owes me big" because of the Supreme Court ruling affirming broad presidential immunity, stating: "He's done criminal acts, there's no question about it. But he has immunity, and it probably helps him a lot… it doesn't help the people around him at all."[3]
+
+Badlands contributor [[jon-herold|Jon Herold]] framed the central question raised on that weekend's [[devolution-power-hour|Devolution Power Hour]]: whether a President should be immune from prosecution for crimes committed in the course of "official duties" if those crimes impede the incoming President from performing his own official duties, and whether that is what the framers intended.[3] Chris Paul highlighted commentary by David Schoen — a lawyer from Trump's second impeachment defense — on the possibility of a post-presidency impeachment of Obama.[3]
+
+[[ashe-in-america|Ashe in America]] argued that while the statute of limitations likely does not shield Obama because Russiagate is charged as a conspiracy, presidential immunity probably does, noting that Trump's attorneys had argued for exactly that breadth at the Supreme Court immunity oral arguments and that the colloquy, though not really about Trump, is now precedent.[3] She judged that Obama is likely in the clear because everyone involved wants to preserve the integrity of the Office of the Presidency — an outcome she called unsatisfying but likely correct.[3]
+
+She noted an alternative route: impeachment in the House and conviction in the Senate, after which criminal prosecution is expressly permitted under Article I, Section 3, Clause 7 of the U.S. Constitution, which provides that "the Party convicted shall nevertheless be liable and subject to Indictment, Trial, Judgment and Punishment, according to Law."[3] The precedent that a president may be impeached after leaving office was itself established by Trump's second impeachment.[3]
+
+Crucially, in this reading presidential immunity "begins and ends with principal": staff and advisors enjoy no such protection.[3] Because Trump's own staffers and advisors were prosecuted and punished, Obama's alleged co-conspirators — [[james-clapper|Clapper]], [[john-brennan|Brennan]], [[james-comey|Comey]], Sullivan, Strzok, Page and McCabe, Victoria Nuland and Samantha Power, both Ohrs, Blinken and at least one Vindman, [[hillary-clinton|Hillary Clinton]] and Huma Abedin among others — are described as fair game by the same precedent.[3] Ashe added that with the [[autopen-scandal|autopen]] a likely overt act in the alleged conspiracy, their preemptive pardons "aren't worth the autopen ink they were signed with."[3]
+
+## D.C. Circuit oral argument (January 2024)
+
+On Tuesday, January 9, 2024, a three-judge federal appeals panel in Washington strongly suggested that it would reject [[donald-trump|Donald Trump]]'s claim of immunity from criminal charges related to his effort to subvert the 2020 election.[4] With Trump looking on, the judges expressed deep skepticism of his contention that a president could not be prosecuted — even for assassinating a rival or selling military secrets — unless first impeached and convicted by Congress.[4] Judge [[karen-henderson|Karen Henderson]], a George H.W. Bush appointee, remarked that "it's paradoxical to say that his constitutional duty to take care that the laws be faithfully executed allows him to violate criminal law."[4] The panel also included Biden appointees [[florence-pan|Florence Pan]] and [[michelle-childs|Michelle Childs]], who appeared divided over how to shape the decision.[4]
+
+Whatever the outcome, the ruling was expected to trigger a further appeal to the [[supreme-court-of-the-united-states|Supreme Court]] for a final determination on whether Trump's Washington, D.C. criminal trial — then scheduled for March 4, 2024 but likely to be postponed by the immunity litigation — would proceed that year.[4] Trump's claim hinged on the argument that the charges brought by special counsel [[jack-smith|Jack Smith]] arose out of his official acts as president, while Smith alleged that Trump had tried to disenfranchise American voters and defraud the nation by spreading lies about the 2020 election and attempting to cling to power.[4]
+
+[[burning-bright|Burning Bright]] of [[badlands-media|Badlands Media]] read Trump's public statements after the argument as both a critique of the [[joe-biden|Biden]]-led [[department-of-justice|DOJ]] "Witch Hunt" and a direct warning, arguing that the "dangerous precedents" being set in the case could be turned back around on the [[deep-state|Deep State]] that established them.[4]
+
+## Trump's immunity appeal and the December 2023 stay
+
+Donald Trump's assertion of broad immunity from criminal prosecution for acts taken as president led U.S. District Judge Tanya Chutkan, on December 13, 2023, to largely grant his request to pause proceedings in the federal 2020 election case while the claim was appealed.[5] Chutkan reasoned that the appeal to the U.S. Court of Appeals for the D.C. Circuit vested jurisdiction in the higher court and automatically stayed steps advancing the case toward trial, noting she would revisit deadlines — including the March 4 trial date — if the case returned to her.[5] The D.C. Circuit moved that same evening to fast-track review, setting a briefing schedule for Trump and special counsel Jack Smith before a panel of Judges Karen Henderson, Michelle Childs and Florence Pan.[5] Rejection of the immunity claim would return the case to Chutkan and allow the prosecution to proceed.[5]
+
+## Smith's petition for certiorari (December 2023)
+
+On Monday, December 11, 2023, special counsel [[jack-smith|Jack Smith]] filed a petition asking the [[supreme-court-of-the-united-states|Supreme Court]] to decide whether [[donald-trump|Donald Trump]] is immune from federal prosecution for crimes allegedly committed while in office, bypassing the D.C. Circuit; the high court agreed hours later to expedite consideration and ordered Trump to respond by 4 p.m. on December 20.[6] Smith wrote that the case "presents a fundamental question at the heart of our democracy: whether a former President is absolutely immune from federal prosecution for crimes committed while in office or is constitutionally protected from federal prosecution when he has been impeached but not convicted before the criminal proceedings begin."[6] He argued the district court had correctly recognized that "former Presidents are not above the law," and warned that Trump's appeal suspended the trial scheduled to begin March 4, 2024.[6] Smith invoked the 1974 decision [[united-states-v-nixon|United States v. Nixon]] to justify skipping the appellate court.[6]
+
+[[just-human|Just Human]] of [[badlands-media|Badlands Media]] argued that Smith had "just gave Trump a huge assist," since Trump was already appealing the issue to the D.C. Court of Appeals and Smith elevated it to the Supreme Court out of apparent desperation to preserve the March 4 date, the day before Super Tuesday.[6] In this reading the only downside to Trump was the case not being delayed, which was scarcely a downside: a ruling that Trump has presidential immunity would kill the D.C. case outright, a ruling against immunity would place every past, present and future president at risk of prosecution, and any middle outcome would reduce Trump's legal risk while increasing that of other presidents.[6] Just Human expected Trump to fight the petition to keep up appearances and add delay, and predicted the March 4 trial date was "all but cancelled," with the case carrying deep into the campaign.[6]
+
+## Reactions to the July 2024 ruling
+
+The Supreme Court's decision that presidents enjoy substantial legal immunity for actions in office was read on the right as a licence for a more assertive executive.[7] [[kevin-roberts|Kevin Roberts]] of the [[heritage-foundation|Heritage Foundation]] called the ruling "vital" and said it would reinforce a [[second-american-revolution|second American Revolution]] that would "remain bloodless if the left allows it to be," invoking [[federalist-no-70|Federalist No. 70]] and its case for a strong executive.[7]
+
+[[axios|Axios]] reported that the ruling was central to advisers' descriptions of an [[imperial-presidency|imperial presidency]] in waiting, arguing that [[donald-trump|Donald Trump]] could, if re-elected, pursue plans such as turning the Justice Department against critics, mass deportations, 10% tariffs and mass firings of disloyal staff "without fear of punishment or restraint."[7]
+
+## Immediate aftermath of the July 2024 ruling
+
+The Supreme Court's immunity decision, issued on Monday, July 1, 2024, produced immediate downstream effects in the New York [[trump-hush-money-case|hush money case]], where Justice [[juan-merchan|Juan Merchan]] postponed sentencing the following day to weigh the ruling's impact, pushing it to September 18 at the earliest.[8] Trump's lawyers argued the ruling justified vacating the conviction outright, and Trump publicly claimed it delivered "total exoneration" across his criminal cases.[8]
+
+Badlands commentary described the decision as "explosive," noting that it prompted ubiquitous calls for President [[joe-biden|Joe Biden]] to unilaterally expand the Supreme Court and, in some quarters, demands that he act against Trump by "whatever means necessary."[8] Writer Ashe in America argued the reaction showed "the fascists showing their true colors" — that for what she called the uniparty, "the only way to fight Trump and MAGA's theoretical future fascism is with actual fascism right now."[8] A related consequence discussed in the same brief was the disbarment of [[rudy-giuliani|Rudy Giuliani]], on the reasoning that if Trump himself were immune for official acts, prosecutorial pressure would shift to members of his team.[8]
+
+## References
+1. Badlands Brief — "Badlands News Brief: Trans Easter Bait & A Tale of Two Presidents", URL: https://badlands.substack.com/p/badlands-news-brief-092
+2. Badlands Brief — "Badlands News Brief: The Witch Hunt Hits a Few Snags as the Landscape Shifts", URL: https://badlands.substack.com/p/badlands-news-brief-2a0
+3. Badlands Brief — "A Thousand Rabbis, Failing Firewalls, & the Loss of a Legend", URL: https://badlands.substack.com/p/badlands-news-brief-321
+4. Badlands Brief — "Presidential Immunity & Rugpulls Galore", URL: https://badlands.substack.com/p/badlands-news-brief-484
+5. Badlands Media — "Badlands News Brief: The Biden Crime Family Begins to Unravel ...", URL: https://badlands.substack.com/p/badlands-news-brief-505
+6. Badlands Brief — "Bicameral Lawfare, Trump's Gambit & the Ouroboros", URL: https://badlands.substack.com/p/badlands-news-brief-525
+7. Badlands Brief — "Badlands News Brief: Biden Pushes Back as Peacemakers Posture", URL: https://badlands.substack.com/p/badlands-news-brief-528
+8. Badlands Brief — "Trumpian Rug Pulls, Biden Whispers & NATO Panic", URL: https://badlands.substack.com/p/badlands-news-brief-6c4

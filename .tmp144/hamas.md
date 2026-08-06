@@ -1,0 +1,5 @@
+## Netanyahu's Gaza City offensive statements (August 2025)
+
+In August 2025 Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] said Israel would conquer all of Gaza even if Hamas agreed to a hostage deal, speaking after the Israel Defense Forces announced the first stage of an operation to seize Gaza City, which it described as a Hamas stronghold.[{n}] Netanyahu said the goal of expelling Hamas remained unchanged and cited U.S. President [[donald-trump|Donald Trump]]'s statement that Hamas "can't stay" in Gaza, comparing the group to the SS in wartime Germany.[{n}] He argued the war "could end today" if Hamas released the remaining hostages, disarmed and demilitarized the enclave.[{n}]
+
+Badlands commentary from [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] held that the statement removed any incentive for Hamas to cut a deal, since Bibi had made clear its members would be killed or "arrested" one way or another, and read the remarks as deliberately designed to subvert a peace agreement.[{n}]

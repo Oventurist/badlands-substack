@@ -1,0 +1,48 @@
+---
+title: Child Trafficking
+created: 2026-08-06
+updated: 2026-08-06
+type: concept
+tags: [trafficking, children, border, exploitation, info-war]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-c91.md, raw/badlands-news-brief-49a.md]
+confidence: medium
+---
+
+# Child Trafficking
+
+**Child trafficking** is treated in Badlands coverage not as a metaphor or a meme but as an industrial-scale operation — one that, in the outlet's reading, thrived under policies of deliberate neglect and, in places, something much darker.[1]
+
+## Scale as reported in 2026
+
+In June 2026 Homeland Security Secretary [[markwayne-mullin|Markwayne Mullin]] announced that the [[department-of-homeland-security|Department of Homeland Security]] had located approximately 146,000 migrant children who had previously lost contact with federal authorities after entering the United States as unaccompanied minors, with nearly 300,000 more still unaccounted for.[1] Badlands contributor [[burning-bright|Burning Bright]] added that roughly 450,000 minors were smuggled across the border between 2021 and 2024.[1]
+
+Mullin said investigators were reviewing allegations from recovered children who reported being raped "600 to 700 times."[1] Earlier findings by the DHS Inspector General had established that hundreds of thousands of unaccompanied minors transferred out of federal custody were not consistently tracked through immigration proceedings, fuelling concerns about exploitation, trafficking, and abuse.[1]
+
+## Enforcement response
+
+DHS and the [[department-of-justice|Department of Justice]] have made locating missing children and investigating trafficking networks a major enforcement priority.[1] Indictments are landing, new resources for child-exploitation investigators are being funded under the [[secure-america-act|Secure America Act]], and [[immigration-and-customs-enforcement|ICE]] and Homeland Security Investigations are surging into sanctuary jurisdictions.[1]
+
+## The distraction thesis
+
+Burning Bright argued that the trafficking campaign surfaced "inside a sea of engineered noise" whose primary function appeared to be distraction from and subversion of that very campaign — chiefly the [[epstein-narrative|Epstein Narrative]].[1] In his essay *The Honeypot Hoax* he had argued that the Epstein story, for all the genuine awakening it produced, simultaneously handed the enemy a weapon: whether seeded from the beginning as a controlled honeypot or, more likely, commandeered once the Truth Community pushed it into the zeitgeist, it contained both hints at the real blackmail architecture of the elite and layers of misdirection designed to obscure the true scale of the horror.[1]
+
+Names, he wrote, are powerful and real, and exposure matters — but names can become liabilities when the apparatus offering them up is not capitulating but adapting, sacrificing select pieces to preserve the larger machine and keeping focus on spectacle rather than the ground-level machinery still grinding children through systems that "have not so much failed as been intentionally structured with said failure in mind."[1] That, he concluded, is subversion, not surrender.[1]
+
+The ultimate task, in his framing, is not to win the daily news cycle but to amplify the truth that child trafficking on this scale was enabled by design and is now being dismantled at scale.[1] "The trap was never only about one man or one island," he wrote. "It was about the whole temple."[1]
+
+## Federal coordination under the Trump administration (2026)
+
+In June 2026 Acting Attorney General [[todd-blanche|Todd Blanche]] appointed federal prosecutor [[alessandra-serano|Alessandra Serano]] as the [[department-of-justice|Justice Department]]'s national coordinator for human trafficking and child exploitation cases, consolidating oversight of such cases across all 93 US Attorney's Offices and specialized units within the DOJ Criminal Division.[2] Serano's mandate includes coordination with the Office of Justice Programs on victim services funding and delivery of an updated departmental strategy on combating trafficking and exploitation within 120 days.[2]
+
+The appointment followed a DOJ announcement of an investigation into the status of roughly 300,000 unaccompanied immigrant children, including concerns that some may have been exploited through labor or sex trafficking via so-called "super sponsors."[2] Badlands contributor [[ashe-in-america|Ashe in America]] argued that while public attention remained fixed on the Epstein files, the UK rape gangs and similar controversies, the administration appeared to be quietly taking concrete steps to roll up trafficking networks, and noted that the 120-day deliverable would land in mid-October 2026, weeks before the [[2026-midterm-elections|midterm elections]].[2]
+
+## 2023 HHS whistleblower testimony
+
+An early congressional airing of the unaccompanied-minor trafficking problem came in April 2023, when [[department-of-health-and-human-services|Health and Human Services]] whistleblower [[tara-lee-rodas|Tara Lee Rodas]] testified at a House Judiciary subcommittee hearing titled "The Biden Border Crisis: Exploitation of Unaccompanied Alien Children."[3] Rodas, detailed to an Emergency Intake Site in Pomona, California, described a "sophisticated network" beginning with recruitment in children's home countries, continuing through smuggling to the U.S. border, and ending when the [[office-of-refugee-resettlement|Office of Refugee Resettlement]] delivered a child to a sponsor — some of them criminals, traffickers, and members of Transnational Criminal Organizations who treated children as income-producing assets, driving an explosion of labor trafficking.[3]
+
+[[badlands-media|Badlands Media]] contributor [[burning-bright|Burning Bright]] summarized the hearing's institutional response as simultaneous acknowledgment, disavowal, and deflection, but argued that repeatedly forcing the issue into the American limelight makes it harder to suppress over the long haul.[3] The Gateway Pundit incorporated the testimony into a wider indictment of the [[barack-obama|Obama]]-era and Biden-era federal apparatus.[3]
+
+## References
+1. Badlands Brief — "Mixed Gender Crews, Trafficking Stings, & Shadow Cabal Reruns", URL: https://badlands.substack.com/p/badlands-brief-029
+2. Badlands Brief — "Trump Rugs the Deltas with an Early MOU", URL: https://badlands.substack.com/p/badlands-brief-c91
+3. Badlands Brief — "Badlands News Brief: FOX Trots, Montana Maintains & Congress Convenes", URL: https://badlands.substack.com/p/badlands-news-brief-49a

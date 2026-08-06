@@ -1,0 +1,27 @@
+---
+title: Critical Race Theory
+created: 2026-08-06
+updated: 2026-08-06
+type: concept
+tags: [crt, education, neo-marxism, ideology]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-6db.md]
+confidence: low
+---
+
+# Critical Race Theory
+
+**Critical Race Theory (CRT)** is treated in "AI Can Help Us Expose the NWO" as one of three vectors — with [[queer-theory|Queer Theory]] and [[covid-mandates|COVID mandates]] — through which [[justin-deschamps|Justin Deschamps]] asked ChatGPT to model the infiltration of public education as a covert form of [[neo-marxism|neo-Marxism]] designed to achieve the strategic objectives of the [[new-world-order|New World Order]].[[1]](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo)
+
+In the synthesised plan, CRT operates alongside Queer Theory to challenge the notion of binary gender roles and family norms and to sow seeds of doubt within society, with the [[satanic-inversion|principle of inversion]] recasting traditional family structures as oppressive and regressive.[[1]](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo) It also anchors the "social" dimension of [[esg|ESG]] scoring: social and governance scores reward organisations and governments that align with CRT and Queer Theory, subtly advancing the [[global-harmony-consortium|Global Harmony Consortium]]'s social-justice agenda and pressuring corporations toward ideologies that prioritise collective rights and group identity over individual freedoms.[[1]](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo)
+
+Its deployment is described as patient rather than abrupt: psychological operations integrate CRT, Queer Theory and climate narratives into education systems slowly, changing societal perspectives across generations in line with the [[ideological-subversion|multigenerational subversion]] model.[[1]](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo)
+
+## Ohio undercover video (January 2023)
+
+In January 2023, school districts around Ohio's capital of Columbus were reported to be reeling from undercover video of their employees discussing how they mislead parents who oppose critical race theory and related concepts into believing that schools are not exposing their children to versions of those concepts.[2] The recordings were released by [[accuracy-in-media|Accuracy in Media]], whose president [[adam-guillette|Adam Guillette]] narrated that "parents are playing an endless game of Whac-A-Mole" as schools instill the tenets of the theory under a different name or hide contested content inside benign-sounding programs.[2] The Ohio release followed earlier investigations of districts in Idaho, Iowa and Tennessee.[2]
+
+Badlands contributor [[justin-deschamps|Justin Deschamps]] used the episode to argue that the modern education system is primarily an instrument of indoctrination, invoking the maxim "Give me a child until he is 7 and I will show you the man" and contending that parents are treated as a threat to the narrative.[2]
+
+## References
+1. Badlands Brief — "AI Can Help Us Expose the NWO", URL: https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo
+2. Badlands Brief — "Badlands News Brief: Mostly Peaceful Riots and Billionaire Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-6db

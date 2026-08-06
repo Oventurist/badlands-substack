@@ -1,0 +1,7 @@
+## Commentary in "Cartels, Crucibles, & Convictions" (August 2025)
+
+GhostofBasedPatrickHenry called the espionage conviction of Navy sailor [[jinchao-wei|Jinchao Wei]] "a strange one," highlighting Wei's flippant admission to the [[fbi|FBI]] and the apparent deletion of the [[department-of-justice|DOJ]] press release, and speculating that the episode felt like a psyop — perhaps a demoralization campaign or a form of disclosure.[{n}]
+
+On Russian allegations that [[ukraine|Ukraine]] was arming militants in the Sahel, he tied the story to the 2011 [[nato|NATO]] campaign against Gaddafi and the creation of [[al-qaeda|Al Qaeda]] and [[isis|ISIS]], argued that M23 in the DRC is animated by [[israel|Israel]] while Sahel ISIS affiliates are animated by "Ukraine" (read: [[five-eyes|Five Eyes]]), and promoted the premiere of [[codex-911|CODEX 9/11]] as a film capable of disrupting the entire information battlespace.[{n}]
+
+He advanced the "Trump–Maduro kayfabe" thesis, contending that the [[state-department|State Department]]'s $50 million bounty gave [[nicolas-maduro|Nicolás Maduro]] narrative shielding while he and [[donald-trump|Donald Trump]] targeted the same corrupt commodity-trading executives, such as those at [[glencore|Glencore]].[{n}] On [[benjamin-netanyahu|Benjamin Netanyahu]]'s vow to conquer Gaza regardless of any deal, he called it "a strange negotiating tactic," questioned whether living hostages remained, and judged the statement designed to subvert any peace agreement.[{n}]

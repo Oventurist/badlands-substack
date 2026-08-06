@@ -1,0 +1,3 @@
+## Role in the Abraham Accords signing
+
+As Israeli ambassador to the United States, Dermer called the Trump White House twenty-four hours before the [[abraham-accords|Abraham Accords]] were set to be signed to say that [[benjamin-netanyahu|Benjamin Netanyahu]] would not sign, using "new elections" as the stated reason.[n] Badlands commentary presented this as one instance of a recurring pattern of Netanyahu backing out of commitments at the last moment — comparable to his withdrawal from the Soleimani strike the day before it occurred in January 2020 — and noted that [[donald-trump|Donald Trump]] refused to let the deal collapse, pressing Netanyahu until he signed.[n]

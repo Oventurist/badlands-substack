@@ -1,0 +1,5 @@
+## Wei espionage case and the Comey memos (2025)
+
+Special Agent in Charge Mark Dargis of the FBI's San Diego Field Office said the August 2025 espionage conviction of Navy sailor [[jinchao-wei|Jinchao Wei]] — a case "centered on the deliberate targeting and enticement of U.S. military personnel to betray their country" — demonstrated the lengths to which the People's Republic of China would go to undermine U.S. security.[{n}] Badlands noted that Wei had openly admitted to the FBI during interview that he was knowingly engaging in espionage.[{n}]
+
+In the same period, declassified memos showed that prosecutors had gathered evidence from former FBI general counsel [[james-baker|James Baker]] and former chief of staff James Rybicki that then-Director [[james-comey|James Comey]] authorized classified leaks to reporters before the 2016 election, and that the current director, [[kash-patel|Kash Patel]], had discovered the documents earlier in 2025.[{n}] Separately, IRS memos published by Just the News recalled that the FBI had earlier been forced to shut down multiple corruption probes of the [[clinton-foundation|Clinton Foundation]].[{n}]

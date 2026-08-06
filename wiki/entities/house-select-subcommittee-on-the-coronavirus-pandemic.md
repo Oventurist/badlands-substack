@@ -1,0 +1,40 @@
+---
+title: House Select Subcommittee on the Coronavirus Pandemic
+created: 2026-08-06
+updated: 2026-08-06
+type: entity
+tags: [congress, oversight, covid-19, wuhan]
+sources: [raw/badlands-news-brief-238.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-3e8.md]
+confidence: medium
+---
+
+# House Select Subcommittee on the Coronavirus Pandemic
+
+The House Select Subcommittee on the Coronavirus Pandemic is a congressional oversight panel that, after Republicans took control of the U.S. House, launched a review of the Biden administration's handling of the COVID-19 pandemic.[1] The panel had previously been controlled by Democrats.[1]
+
+## Mandate and investigation
+
+Under chairman [[brad-wenstrup|Brad Wenstrup]], a Republican of Ohio, the subcommittee said it was probing whether COVID-19 originated from a lab in Wuhan, China and whether the Chinese Communist Party covered up that origin, as well as whether U.S. taxpayer dollars had been sent to the [[wuhan-lab|Wuhan laboratory]].[1]
+
+The committee requested phone records, calendars and dozens of sets of internal records from top federal health officials, including [[national-institutes-of-health|National Institutes of Health]] Director [[francis-collins|Francis Collins]], former White House COVID adviser [[anthony-fauci|Anthony Fauci]] and Health and Human Services Secretary [[xavier-becerra|Xavier Becerra]].[1]
+
+## HHS document release (February 2023)
+
+In late February 2023, the [[department-of-health-and-human-services|Department of Health and Human Services]] released 900 pages of records to the subcommittee, according to an HHS official.[1] The agency did not specify which records it had shared, but a spokesperson said HHS was "committed to working in good faith to address the Select Subcommittee's oversight requests."[1] Wenstrup told [[cbs-news|CBS News]] he would consider subpoenas against Fauci, Becerra and other key officials if full responses were not forthcoming, adding, "I think there will be subpoenas for some. Just being honest with you — I would hope that we don't have to do it very often."[1]
+
+The lab-leak theory pursued by the panel had previously been argued by Senate Republicans and had been a particular focus of GOP congressional investigators and some cable news commentary.[1]
+
+## Commentary
+
+[[badlands-media|Badlands Media]] contributor [[just-human|Just Human]] characterized the document release as a sign that "the dam, built on a Matrix of Falsehoods regarding the origins of the COVID-19 Pandemic, is failing," and doing so "catastrophically" for the institutional actors involved.[1]
+
+## Investigation of New York nursing home deaths
+
+The subcommittee, chaired by Ohio Republican [[brad-wenstrup|Brad Wenstrup]], investigated the handling of nursing homes during COVID-19 and issued a subpoena to former New York governor [[andrew-cuomo|Andrew Cuomo]], who testified behind closed doors for seven hours in June 2024 before agreeing to appear publicly on September 10 of that year.[2] Wenstrup framed the inquiry around the families of the dead, saying Cuomo "owes answers to the 15,000 families who lost loved ones in New York's nursing homes during the Covid-19 pandemic."[2]
+
+On Tuesday, September 3, 2024, the subcommittee posted a series of statements on X accusing Cuomo of showing "little remorse" and being "shockingly callous" during the closed-door session, quoting him as having said: "…let's say there's a 3,000 [deaths] differential, 2500. Who cares? What difference does it make in any dimension to anyone about anything?"[2]
+
+## References
+
+1. Badlands Media — "Badlands News Brief: Wuhan Leak, AZ Claims & Gender Wars", URL: https://badlands.substack.com/p/badlands-news-brief-238
+2. Badlands Brief — "Badlands News Brief: Sovereign Signals, New(ish) Alliances & Reckonings", URL: https://badlands.substack.com/p/badlands-news-brief-316

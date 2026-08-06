@@ -1,0 +1,30 @@
+---
+title: Winston Churchill
+created: 2026-08-06
+updated: 2026-08-06
+type: entity
+tags: [wwii, wwi, britain, history, revisionism]
+sources: [raw/badlands-news-brief-6f7.md]
+confidence: medium
+---
+
+# Winston Churchill
+
+Winston Churchill, the British wartime leader, became the focus of a September 2024 media controversy after historian [[darryl-cooper|Darryl Cooper]] described him on [[tucker-carlson|Tucker Carlson]]'s podcast as "the villain of the Second World War."[1] Cooper qualified the remark as "a little hyperbolic," noting that Churchill "didn't kill the most people, he didn't commit the most atrocities," but arguing that he was "primarily responsible for that war becoming what it did."[1]
+
+## Badlands assessment
+
+[[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote that he generally agreed with Cooper's assessment, holding that what made Churchill the villain was his determination to escalate a small regional conflict into a Second World War.[1] He argued that Churchill invested enormous resources into a sophisticated psychological warfare operation directed at the American public in order to win support for US military intervention, comparing the effort to contemporary Israeli lobbying under Benjamin Netanyahu.[1] The motivation, in this account, was that the British military had been defeated by the Nazis and barely escaped the beaches of Dunkirk — a feat attributed to British civilians ferrying soldiers home in privately owned vessels after Churchill mismanaged his resources and failed to plan the logistics needed for the troops he had deployed to France.[1]
+
+Having lost his military presence on the continent, Churchill is said to have engaged in what the author called likely the largest-scale terrorist campaign of all time, sending bombers on continuous runs to firebomb cities in Germany and in the Nazi-occupied Netherlands.[1] In one incident, the [[royal-air-force|Royal Air Force]] mistakenly bombed a Dutch town, killing over 500 civilians, when the intended target was an adjacent forest where Nazi V-2 rockets were stored.[1]
+
+## Just War Theory and strategic bombing
+
+The Brief argues that in choosing total warfare against the European continent Churchill forsook the doctrine of [[just-war-theory|Just War Theory]], created by Saint Augustine in the 4th century, which held that preserving and protecting civilian lives during warfare should be a top priority for all combatants at all times — the Christian doctrine on which European nations had operated for 1,600 years.[1] In its place, Churchill had his Marshal of the Royal Air Force, [[arthur-harris|Arthur Harris]], draw up a new doctrine that guided the "strategic bombing" campaigns for all six years of the war, rhetoric the author describes as a campaign of terrorism aimed at producing mass trauma psychosis.[1]
+
+## Gallipoli
+
+The Brief traces Churchill's motivations partly to the [[battle-of-gallipoli|Gallipoli campaign]] of the First World War, when as First Lord of the Admiralty he pursued a naval solution to the stalemate of trench warfare.[1] The attack was a total failure: Turkish artillery sank several British ships, and after about a year of fighting each side had lost 250,000 men, after which British and Australian forces withdrew, leaving Churchill humiliated and seeking redemption.[1] The Brief concludes that Churchill was not the hero he is depicted to be, that the extent of his culpability remains debatable, and that attempts to shut the conversation down reflect a Uniparty position rather than a purely left-wing one.[1]
+
+## References
+1. Badlands Brief — "Badlands News Brief: Psyops Abound as the Media Landscape Shifts Rapidly", URL: https://badlands.substack.com/p/badlands-news-brief-6f7

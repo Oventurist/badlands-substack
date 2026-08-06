@@ -1,0 +1,27 @@
+---
+title: Ronna McDaniel
+created: 2026-08-06
+updated: 2026-08-06
+type: entity
+tags: [rnc, republican-party, 2024-election]
+sources: [raw/badlands-news-brief-119.md]
+confidence: medium
+---
+
+# Ronna McDaniel
+
+Ronna McDaniel is the former chairwoman of the [[republican-national-committee|Republican National Committee]], a post she held for seven years before announcing in February 2024 that she would resign after the March 5 Super Tuesday primaries.[1]
+
+## Resignation
+
+McDaniel's announcement came weeks after former President [[donald-trump|Donald Trump]] asked her to step down and set out his recommended changes to the RNC.[1] Trump proposed that North Carolina GOP chair Michael Whatley take over as chairman, with his daughter-in-law Lara Trump and campaign senior adviser Chris LaCivita also receiving leadership positions.[1]
+
+In her statement, McDaniel said it had been "the honor and privilege of my life to serve the Republican National Committee for seven years as Chairwoman to elect Republicans and grow our Party," and that she had "decided to step aside at our Spring Training on March 8 in Houston to allow our nominee to select a Chair of their choosing," noting that the RNC had historically undergone change once a nominee emerged.[1] She added that she remained "committed to winning back the White House and electing Republicans up and down the ballot in November," and thanked her husband, family and RNC staff.[1]
+
+## Badlands commentary
+
+Badlands contributor [[ashe-in-america|Ashe in America]] wrote that the resignation was "long past due," arguing that McDaniel had "driven the GOP into the ground" and that the national party establishment needed "an application of round-up to destroy the roots."[1] She described the RNC establishment as "brazen, elitist, self-interested and utterly wasteful," providing "zero value to Republican voters."[1] She said she could not muster energy over who would replace McDaniel, but suggested that [[scott-presler|Scott Presler]] was "the choice if you want to finish it off," calling him "mini-Ronna with better hair" and citing his having publicly blamed voter behavior for the system issues seen in South Carolina that Saturday.[1]
+
+## References
+
+1. Badlands News Brief — "Trump Responds, a Banker Dies & a Ukrainian Tells the Truth", URL: https://badlands.substack.com/p/badlands-news-brief-119

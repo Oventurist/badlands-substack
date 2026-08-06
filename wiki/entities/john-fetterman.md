@@ -1,0 +1,41 @@
+---
+title: John Fetterman
+created: 2026-08-06
+updated: 2026-08-06
+type: entity
+tags: [senate, pennsylvania, democrat, government-shutdown, israel]
+sources: [raw/badlands-news-brief-497.md, raw/badlands-news-brief-50a.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-82f.md]
+confidence: medium
+---
+
+# John Fetterman
+
+John Fetterman is a Democratic United States Senator from Pennsylvania, serving his first term in the upper chamber.[1] He became a notable dissenter within the Senate Democratic Conference during the [[october-2025-government-shutdown|October 2025 government shutdown]], breaking with his party over funding legislation and describing the experience as personally isolating.[1]
+
+## Position during the 2025 shutdown
+
+Fetterman was one of only three members of the Senate Democratic Conference to vote for a Republican-backed proposal to fund the government through November 21, alongside Senator Catherine Cortez Masto of Nevada and Senator Angus King of Maine, an independent who caucuses with the Democrats.[1]
+
+Speaking to Maria Bartiromo on Fox News's "Sunday Morning Futures," Fetterman said, "For me, it's been very isolating, honestly."[1] He compared his position on the shutdown to his steadfast support for Israel, another stance that has put him at odds with the progressive wing of the Democratic Party.[1]
+
+The shutdown had begun on October 1 and was closing in on two weeks at the time of his remarks.[1] Senators had departed Washington the preceding Thursday without an agreement to end the impasse, and the Senate was off on the Monday following because of the federal holiday, returning Tuesday.[1]
+
+## Criticism of Democrats over Marjorie Taylor Greene (2025)
+
+In November 2025 Fetterman criticized fellow Democrats for "celebrating" Representative [[marjorie-taylor-greene|Marjorie Taylor Greene]], who had been at odds with her own party in preceding weeks, calling the Georgia Republican "crazypants."[2] Speaking on ABC's "The View" when asked about his vote to reopen the government, he said: "MTG is quite literally the last person in America that I'm going to take advice — or to, to get their kinds of my leadership and values from. And now, if Democrats are celebrating crazypants like that, then that's on them."[2] The remark reinforced his reputation as a senator willing to buck his party.[2]
+
+## Senate dress code workaround (2023)
+
+Before checking himself into the hospital for clinical depression in February 2023, Fetterman walked the halls of the [[us-senate|Senate]] stone-faced and in formal suits; after his return he resumed wearing the hoodies and gym shorts he had been known for before entering the chamber.[3] Male senators are expected to wear a jacket and tie on the Senate floor, but Fetterman adopted a workaround, voting from the doorway of the Democratic cloakroom or the side entrance so his "yay" or "nay" was recorded before he ducked back out.[3] The Associated Press reported that between votes his hoodie stayed on even for a news conference with four suited Democratic colleagues, the 6-foot-8 senator towering over them.[3] His staff had originally asked him to always wear suits, which he famously hates, but a check with the Senate parliamentarian after his return established that he could keep wearing casual clothes so long as he did not walk onto the Senate floor.[3] The Western Journal called the arrangement prima facie absurd and another sign that questions about Fetterman's maturity and cognitive recovery — raised long before his lone debate with Mehmet Oz — remained unanswered, while people in his orbit told the AP that skirting the dress code was part of his appeal.[3]
+
+[[ashe-in-america|Ashe in America]] wrote that tone is set at the top of any organization and that the tone of the current federal government is "entitlement, unearned arrogance, and mental incapacitation."[3] She likened accommodating a senator who finds suits depressing to elementary-school sensory-disorder accommodations, stressing that Fetterman casts critical votes affecting every American.[3] She found the cloakroom workaround still more revealing, noting her own assumption that votes must be cast from the Senate floor and that the floor has a dress code, and concluded that rule-following "is for losers" and that politicians violating rules to obtain their desired voting outcomes — as 62% of likely US voters now recognize — is simply "Our Democracy."[3]
+
+## Senate dress code
+
+In September 2023 Majority Leader [[chuck-schumer|Chuck Schumer]] ended enforcement of the chamber's informal [[senate-dress-code|dress code]], a change reported to benefit Fetterman, who prefers gym shorts and hoodies to formal business attire and could thereafter linger on the Senate floor before and after votes.[4] [[ashe-in-america|Ashe in America]] wrote that Fetterman had previously hidden in the cloakroom, entering the chamber only to vote, because the old rule required a suit, and mocked the ableism rationale for scrapping it as proof "we are not a serious country."[4]
+
+## References
+1. Badlands Brief — "Badlands News Brief: Counterterrorism Co-Ops, Chinese Challenges, & Channels for Children", URL: https://badlands.substack.com/p/badlands-news-brief-497
+2. Badlands Brief — "Badlands News Brief: Manipulated Maps, Downed Planes, & A Very Stable Genius", URL: https://badlands.substack.com/p/badlands-news-brief-50a
+3. Badlands Brief — "Badlands News Brief: DeSantis Runs, Lake Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-5eb
+4. Badlands Brief — "Badlands News Brief: Missing Planes, Missing Funds & Missing Metrics", URL: https://badlands.substack.com/p/badlands-news-brief-82f

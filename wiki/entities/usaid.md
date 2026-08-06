@@ -1,0 +1,121 @@
+---
+title: USAID
+created: 2026-08-06
+updated: 2026-08-06
+type: entity
+tags: [usaid, funding, labor, regime-change]
+sources: [raw/a-more-perfect-labor-union.md, raw/and-iran-iran-so-far-away.md, raw/bad-actors.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-306.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-365.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-7b8.md]
+confidence: medium
+---
+
+# USAID
+
+The United States Agency for International Development (USAID) appears in the article as a principal funder of American labor operations abroad.[[1]](https://badlands.substack.com/p/a-more-perfect-labor-union) It bankrolled, along with the [[cia|CIA]], the 1962 founding of the [[afl-cio|AFL-CIO]]'s [[american-institute-for-free-labor-development|American Institute for Free Labor Development]], which trained over 25,000 Latin American unionists in "anti-communist" tactics at Virginia camps.[[1]](https://badlands.substack.com/p/a-more-perfect-labor-union)
+
+In the modern period USAID and the [[national-endowment-for-democracy|National Endowment for Democracy]] together supply the [[solidarity-center|Solidarity Center]] with an estimated $30–50 million a year, money the article says comes with the condition of compliance with U.S. foreign policy objectives.[[1]](https://badlands.substack.com/p/a-more-perfect-labor-union) USAID funds were also channeled to anti-junta labor groups in Myanmar after the 2021 military coup, in an effort the article characterizes as aimed less at democratic resistance than at weakening a government perceived as too close to China.[[1]](https://badlands.substack.com/p/a-more-perfect-labor-union)
+
+## Funding of the Atlantic Council and Israeli protests
+
+[[ryan-delarme|Ryan DeLarme]] lists USAID among the U.S. government funders of the [[atlantic-council|Atlantic Council]], alongside the [[state-department|State Department]], the [[pentagon|Pentagon]] and the [[national-endowment-for-democracy|National Endowment for Democracy]].[2] He also cites USAID-funded judicial-reform protests in [[israel|Israel]] in 2023 as evidence of the Atlanticist campaign to oust Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] after his government broke with the establishment consensus over [[iran|Iran]].[2]
+
+## Alleged CIA front and the 2017 Gaza payout
+
+In "Bad Actors," Joe Lange states flatly that USAID "is just a CIA front group and always has been," and has served as a taxpayer slush fund for the [[cia|CIA]] since its inception.[3] He notes that the [[state-department|State Department]] and USAID go hand-in-hand because both are, in his account, controlled by the agency, making the CIA by far the largest recipient of American foreign aid money and providing one of the principal mechanisms by which the United States funds its enemies.[3] Obama's final budget proposal in 2016 designated almost $33 billion to the State Department and USAID combined.[3]
+
+The concrete instance given is the release of $220.3 million for Gaza recovery programs in the final hours of the [[barack-obama|Obama]] administration: acting State Department spokesman Mark Toner said that "in a final act, then-Secretary of State [[john-kerry|John Kerry]] instructed USAID to release" the funds, with [[congress|Congress]] overruled and notified only hours before [[donald-trump|Donald Trump]]'s inauguration.[3] Because of USAID's alleged agency control, Lange questions whether the money was truly bound for the [[palestinian-authority|Palestinian Authority]] or for humanitarian purposes at all, treating it instead as repayment of a debt owed to [[prince-alwaleed-bin-talal|Prince Alwaleed bin Talal]].[3]
+
+## Absorption and contract cancellations (2025)
+
+USAID was absorbed by the [[state-department|State Department]] in February 2025, and the following month the Trump administration canceled 83% of US foreign aid contracts.[4] Secretary of State [[marco-rubio|Marco Rubio]] announced that 5,200 of roughly 6,200 contracts — programs appropriated by [[congress|Congress]] in the last budget approval — had been terminated because they "spent tens of billions of dollars in ways that did not serve, (and in some cases even harmed), the core national interests of the United States."[4] The surviving 1,000 or so contracts were to be administered by the State Department, with Rubio crediting [[doge|DOGE]] for the reform.[4] [[jon-herold|Jon Herold]] argued that retaining any USAID contracts was unacceptable, likening the partial cancellation to removing only 83% of a cancerous tumor.[4] See [[2025-usaid-contract-cancellations|2025 USAID contract cancellations]].[4]
+
+## Formal closure (March 2025)
+
+On Friday, March 28, 2025, the [[state-department|State Department]] formally announced that it was closing USAID, after the [[trump-administration|Trump administration]] prevailed in a federal court case challenging the cost-cutting actions of the [[elon-musk|Elon Musk]]-led [[doge|Department of Government Efficiency]].[5] Secretary of State [[marco-rubio|Marco Rubio]] justified the closure by saying that "foreign assistance done right can advance our national interests, protect our borders, and strengthen our partnerships with key allies," but that "USAID strayed from its original mission long ago" and "the gains were too few and the costs were too high."[5]
+
+Commentary in PJ Media characterized the agency as an "all-purpose piggy bank for far-left ideologues and jihad terrorists," treating it as Exhibit A in DOGE's contention that the federal government had wasted staggering sums for years.[5] The same commentary noted relief that Judge [[james-boasberg|James Boasberg]], who had been assigned numerous cases adverse to the administration, had not drawn this one.[5]
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] called the shutdown "a major milestone, but only a stepping stone on the path to salvation," observing that although USAID had become a memetic representation of government grift, it accounted for only a small fraction of the money flowing through the State Department and other agencies.[5] He wrote that the movement would "take this scalp" while continuing to "trace every rathole," and speculated pointedly about reports that [[daily-wire|The Daily Wire]] was facing financial peril coincident with USAID's closure.[5] [[burning-bright|Burning Bright]] added that Trump 2.0's path to a "Golden Age" begins with house cleaning, "starting with Con Inc."[5]
+
+
+## Russian allegations of pharmaceutical testing in Ukraine (December 2025)
+In December 2025, Major General Aleksey Rtishchev, head of Russia's Nuclear, Biological and Chemical Protection Troops, said USAID could have been involved in testing pharmaceutical drugs on Ukrainians, noting the agency had been officially closed by the Trump administration that summer.[6] Rtishchev said U.S. officials had acknowledged defense-related work at biological laboratories in Ukraine, naming former National Security Council spokesman John Kirby, former senior State Department official Victoria Nuland, and Health Secretary Robert F. Kennedy Jr.[6]
+
+He cited an August interview in which Cornell University organic chemistry professor Dave Collum told Tucker Carlson that drugs had been tested on the Ukrainian population in 38 laboratories, and argued that "to ensure secrecy, the customers behind such research are not military agencies but civilian agencies and non-governmental organizations. One such organization is the US Agency for International Development (USAID), which was dismantled by a decision of US President Donald Trump."[6] Rtishchev further alleged that USAID funded Event 201, the October 2019 coronavirus pandemic simulation held "shortly before the start of the Covid-19 pandemic."[6]
+
+## Court block on DOGE dismantling (March 2025)
+
+On Tuesday, March 18, 2025, U.S. District Judge [[theodore-chuang|Theodore Chuang]] in Maryland ruled that the dismantling of USAID by [[elon-musk|Elon Musk]]'s [[doge|Department of Government Efficiency]] likely violated the Constitution, and indefinitely blocked DOGE from making further cuts to the agency.[7] The order required the Trump administration to restore email and computer access to all USAID employees, including those placed on administrative leave, but stopped short of reversing firings or fully resurrecting the agency.[7]
+
+The judge found it likely that USAID was no longer capable of performing some of its statutorily required functions.[7] In one of the first DOGE lawsuits directed against Musk himself, Chuang rejected the administration's argument that Musk was merely an adviser to the president, holding that his public statements and social media posts — including a post in which he said he had "fed USAID into the wood chipper" — showed he had "firm control over DOGE."[7]
+
+## Disinformation Primer and censorship advocacy
+
+In March 2024 the [[foundation-for-freedom-online|Foundation for Freedom Online]] published internal USAID documents showing that the agency's Center on Democracy, Human Rights, and Governance (DRG) had produced an internal "Disinformation Primer" containing explicit praise for private-sector censorship strategies and proposing additional censorship practices and techniques.[8] The primer's proposals were aimed at influencing private technology companies, media organizations, education ministries, national governments and funding bodies.[8]
+
+Among the endorsed methods was "Advertiser Outreach," designed to induce corporate advertisers to financially throttle disfavored media outlets and social media accounts.[8] The primer also recommended Google's Redirect Method and "prebunking" — psychological inoculation against so-called fake news — as tools to arrest the erosion of traditional media influence over citizens.[8] It further proposed targeting gamers and gaming sites on the grounds that such communities form "interpretations of the world that differ from 'mainstream' sources," and sought to interrupt the process by which individuals contribute their own research to build a collective "populist expertise."[8]
+
+Badlands writer [[ashe-in-america|Ashe in America]] argued the arrangement was unconstitutional, citing Edmonson v. Leesville Concrete Co. (1991) for the proposition that governmental authority may so dominate an activity that private participants must be deemed state actors subject to constitutional constraints — meaning the NGOs and technology firms implementing USAID's recommendations should be restrained under the First Amendment.[8]
+
+## February 2025 administrative leave and shutdown
+
+On February 4, 2025, the USAID website came back online carrying a notice to staff announcing that on Friday, February 7, 2025, at 11:59 p.m. EST all USAID direct-hire personnel would be placed on administrative leave globally, with the exception of designated personnel responsible for mission-critical functions, core leadership, and specially designated programs.[9] Essential personnel expected to continue working were to be informed by Agency leadership by Thursday, February 6, at 3:00 p.m. EST.[9] For personnel posted outside the United States, the Agency said it was preparing a plan in coordination with missions and the Department of State to arrange and pay for return travel to the United States within 30 days and to terminate non-essential PSC and ISC contracts, with case-by-case exceptions for hardship, mobility or safety concerns, dependents' school terms, medical needs, or pregnancy.[9] The notice closed with the line "Thank you for your service," which Badlands contributor GMONEY glossed as "Don't call us, we'll call you."[9]
+
+## Waste and abuse allegations
+
+A White House statement published the same week asserted that for decades USAID had been unaccountable to taxpayers while funneling massive sums to the "ridiculous — and, in many cases, malicious — pet projects of entrenched bureaucrats, with next-to-no oversight."[9] The examples cited included $1.5 million to advance diversity, equity and inclusion in Serbia's workplaces and business communities; $70,000 for production of a "DEI musical" in Ireland; $2.5 million for electric vehicles for Vietnam; $47,000 for a "transgender opera" in Colombia; $32,000 for a "transgender comic book" in Peru; $2 million for sex changes and "LGBT activism" in Guatemala; and $6 million to fund tourism in Egypt.[9] The statement declared that under President Trump the waste, fraud, and abuse ends now.[9] Badlands noted that a video on the subject was posted by Ron Paul and reposted by Elon Musk, alongside commentary from Mike Benz, and that Jordan Sather pointed to former administrator Samantha Power's tenure under Biden.[9]
+
+## Georgian election funding controversy
+
+Shalva Papuashvili, Chairman of the Parliament of Georgia, said on social media that USAID had allocated $41.7 million to Georgia's elections through political NGOs.[9] Adjusting for population, he argued, the amount was equivalent to injecting $3.78 billion in foreign funds into U.S. elections, with the comparison becoming even more striking when based on the countries' GDPs, and he called it unacceptable to spend such sums on another nation's elections without accountability to that nation's population.[9] Badlands contributor Ashe in America observed that one of USAID's stated top priorities was "securing elections," and asked whether U.S. election integrity was being solved for; she argued that elections are local and that the fight had long been asymmetrical against a well-funded regime whose local leftist activism was purchased, so that the power dynamic could shift substantially if the money stopped.[9]
+
+## Haiti spending criticism (February 2025)
+
+A New York Post opinion piece cited in the Badlands brief of 24 February 2025 argued that [[doge|DOGE]] should be allowed to examine where American tax dollars go, and predicted that the "government industrial complex" would resist every effort to bring transparency and accountability to a system described as ripe with problems.[10] The author drew on first-hand experience with USAID and other international aid organizations — including the World Bank, UNESCO and the Red Cross — over more than forty trips to Haiti after being invited by then-Haitian President René Préval to help rebuild the nation following the devastating 2010 earthquake.[10]
+
+According to that account, USAID and allied NGOs delivered on very few of their promises, failed to coordinate relief activities, and even skimmed money off the top, with the continuing disaster status of Haiti and similar places described as partly a product of these agencies' handiwork.[10] The piece characterised USAID as probably the most corrupt agency in the US government, noting that since the 2010 earthquake killed as many as 300,000 people, Washington had disbursed around $4.4 billion in foreign assistance to the small island nation.[10]
+
+## Contractor payment litigation (February 2025)
+
+In February 2025 the Trump administration sought emergency relief from the [[supreme-court-of-the-united-states|Supreme Court]] to block the release of USAID funding after U.S. District Judge [[amir-ali|Amir H. Ali]] ordered roughly $2 billion in foreign aid payments to contractors by midnight; officials said they could not comply.[11] Chief Justice [[john-roberts|John Roberts]] paused that order on February 26, 2025, with responses due before noon that Friday.[11] The administration argued the order created "an untenable payment plan at odds with the President's obligations under Article II to protect the integrity of the federal fisc."[11]
+
+## Supreme Court ruling on the $2 billion funding freeze
+
+On March 5, 2025, the [[supreme-court-of-the-united-states|Supreme Court]] denied, 5–4, the Trump administration's application for a stay of a district court temporary restraining order against its effort to freeze $2 billion in USAID funds.[12] The unsigned order in [[department-of-state-v-aids-vaccine-advocacy-coalition|Department of State v. AIDS Vaccine Advocacy Coalition]] left in place the TRO of U.S. District Judge [[amir-ali|Amir Ali]] compelling payment of the frozen money.[12] Legal commentator [[jonathan-turley|Jonathan Turley]] observed that Chief Justice [[john-roberts|John Roberts]] and Justice [[amy-coney-barrett|Amy Coney Barrett]] had joined the three liberal justices, as inferable from Justice [[samuel-alito|Samuel Alito]]'s dissent joined by Justices [[clarence-thomas|Thomas]], [[neil-gorsuch|Gorsuch]] and [[brett-kavanaugh|Kavanaugh]], and wrote that the administration was "down by one vote but hardly out."[12] Badlands contributor [[burning-bright|Burning Bright]] noted the headlines framed the outcome as a staggering loss for Trump's DOGE agenda but read the order as setting the stage for continued appeals in either direction.[12]
+
+## March 2025 document destruction order
+
+On Tuesday, March 11, 2025, a senior USAID official instructed the agency's remaining staff to convene at its now-former headquarters in Washington for an "all day" group effort to destroy documents stored there, many containing sensitive information.[13] The materials earmarked for destruction included the contents of the agency's "classified safes and personnel documents" at the Ronald Reagan Building, according to an email from acting executive director [[erica-carr|Erica Carr]] obtained by [[politico|Politico]].[13] "Shred as many documents first, and reserve the burn bags for when the shredder becomes unavailable or needs a break," the email said, with instructions to label the burn bags "SECRET" and "USAID/B/IO/" in dark Sharpie.[13] The email gave no reason for the destruction, and federal employee unions subsequently cited it in a motion filed in Washington, D.C. federal court.[13]
+
+Badlands contributor GhostofBasedPatrickHenry read the directive as the behavior of "a panic-stricken organized crime syndicate that is desperate to make itself invisible," and extended the charge to the [[state-department|State Department]], noting that President [[donald-trump|Donald Trump]] had appointed special envoys empowered to operate outside the agency in order to conduct real diplomacy, with the Gaza breakthrough offered as evidence.[13]
+
+## February 2025 dismantlement fight and Democratic response
+
+By early February 2025, the effort by [[elon-musk|Elon Musk]] to dismantle portions of the federal bureaucracy at President [[donald-trump|Donald Trump]]'s behest began with USAID, making the agency the first flashpoint of the second Trump administration's restructuring campaign.[14] Congressional Democrats rallied outside USAID headquarters on Monday, February 3, 2025, treating defense of the agency as a rallying point after three months of post-election soul-searching.[14] Politico reported that some prominent Democrats privately regarded relaunching "the resistance" around one of the least popular corners of the federal budget as a potential strategic miscalculation.[14]
+
+Badlands contributor [[jon-herold|Jon Herold]] observed that voters broadly believe government wastes money while Democrats had adopted the opposite posture — "Nothing to look at here" — which he judged "not a very politically tenable position."[14]
+
+The agency also featured in a broader claim advanced by Mike Benz and amplified by Musk on X, that the reach of USAID-linked funding extended well beyond the agency itself into media, public health, universities, NGOs, and even terrorist organizations, which Benz described as a "carefully constructed USAID Truman Show."[14] Musk responded, "It's More Than Just USAID, but … yes."[14] Related reporting in the same period concerned federal payments to [[politico|Politico]], of which roughly $44,000 was traced to USAID.[14]
+
+## Gain-of-function funding allegations and the Internews disclosure (February 2025)
+
+In February 2025 Chinese Foreign Ministry spokesman [[guo-jiakun|Guo Jiakun]] responded to US media reports claiming that USAID had used American taxpayer money to fund gain-of-function studies of coronavirus at the [[wuhan-institute-of-virology|Wuhan Institute of Virology]], allegedly causing the COVID-19 pandemic.[15] Guo said China opposed political manipulation of origins-tracing, denied that the institute had ever conducted such work, and cited the [[world-health-organization|World Health Organization]]-China joint mission's conclusion that a lab leak was extremely unlikely.[15]
+
+The same week, [[wikileaks|WikiLeaks]] published an item alleging that [[jeanne-bourgault|Jeanne Bourgault]], head of the USAID-funded media-development nonprofit [[internews|Internews]], was secretly married to [[ray-jennings|Ray S. Jennings]], described as a high-profile regime-change specialist for USAID who had authored numerous papers recommending funding for his wife's methods.[15] WikiLeaks said Bourgault paid herself $451,000 while telling her alma mater she went to the office "once or twice a month," and that the relationship had never been disclosed by USAID, Internews, or the 4,291 media outlets connected to it.[15]
+
+## References
+
+1. Badlands Brief — "A More Perfect (Labor) Union", URL: https://badlands.substack.com/p/a-more-perfect-labor-union
+2. Badlands Brief — "And Iran, Iran So Far Away", URL: https://badlands.substack.com/p/and-iran-iran-so-far-away
+3. Badlands Brief — "Bad Actors", URL: https://badlands.substack.com/p/bad-actors
+4. Badlands Brief — "Badlands News Brief: Hot Wars Wind Down. Trade & Meme Wars Heat Up.", URL: https://badlands.substack.com/p/badlands-news-brief-071
+5. Badlands Brief — "Myanmar's Mayhem, Musk's Marxists, & the Military's Secret Memo", URL: https://badlands.substack.com/p/badlands-news-brief-1c8
+6. Badlands Brief — "Truckloads of Proof, Holiday Intifada, & Europe Must Swallow", URL: https://badlands.substack.com/p/badlands-news-brief-306
+7. Badlands Brief — "Badlands News Brief: Extra-Judicial Judges & Master Manipulating Monsters", URL: https://badlands.substack.com/p/badlands-news-brief-324
+8. Badlands Brief — "Badlands News Brief: 'You Are Watching a Movie' Intensifies ...", URL: https://badlands.substack.com/p/badlands-news-brief-365
+9. Badlands Brief — "The Fantasy Team & The Gaza Purchase", URL: https://badlands.substack.com/p/badlands-news-brief-426
+10. Badlands Brief — "Climbing Confidence, a Congolese Crisis, & Uncorroborated KGB Claims", URL: https://badlands.substack.com/p/badlands-news-brief-457
+11. Badlands Brief — "Badlands News Brief: Predictable Pandemics & A Thespian's Next Steps", URL: https://badlands.substack.com/p/badlands-news-brief-4a9
+12. Badlands News Brief — "SCOTUS Drama and (Altered) Deals Shake Up the Week", URL: https://badlands.substack.com/p/badlands-news-brief-4e1
+13. Badlands News Brief — "Unearthed Autopens, Inevitable Ceasefires, & 56 Human Kidneys", URL: https://badlands.substack.com/p/badlands-news-brief-541
+14. Badlands News Brief — "Strategy & Micro Protests", URL: https://badlands.substack.com/p/badlands-news-brief-71c
+15. Badlands Brief — "Badlands News Brief: MAHA, Modi, Musk, & Munich", URL: https://badlands.substack.com/p/badlands-news-brief-7b8

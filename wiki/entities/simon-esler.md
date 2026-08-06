@@ -1,0 +1,43 @@
+---
+title: Simon Esler
+created: 2026-08-06
+updated: 2026-08-06
+type: entity
+tags: [badlands-media, contributor]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-491.md]
+confidence: low
+---
+
+# Simon Esler
+
+**Simon Esler** is a writer associated with [[badlands-media|Badlands Media]] who is credited as having assisted [[justin-deschamps|Justin Deschamps]] with the article "AI Can Help Us Expose the NWO," published 22 January 2024.[[1]](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo) The credit appears at the foot of the piece, linking to Esler's Substack profile.[[1]](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo)
+
+The article in which he is credited documents an extended experiment in prompting ChatGPT with passages from the [[toronto-protocols|Toronto Protocols]] and asking it to render them as a layered warfare plan spanning strategic objectives, operations and tactics.[[1]](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo)
+
+
+## Commentary on the 2024 Easter proclamation
+
+In the Badlands News Brief of April 1, 2024, Esler analyzed the outrage over President [[joe-biden|Joe Biden]]'s [[transgender-day-of-visibility|Transgender Day of Visibility]] proclamation coinciding with Easter Sunday, presenting it as a case study in the "online outrage machine" and emotional manipulation.[2] He described a two-sided mechanism in which conservatives are drawn into divisive social media eddies that reinforce a sense of being attacked, while their reaction supplies propaganda fodder for left-wing audiences.[2] Noting the observance has been fixed to March 31 since 2009, he concluded the proclamation was designed to inflame the [[culture-war|culture war]], and urged readers to redirect emotional energy from the digital domain toward the physical domain and the construction of a parallel society.[2]
+
+## Commentary in Badlands News Brief 169 (January 2024)
+
+Esler contributed two essays to the January 29, 2024 brief. On [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]]'s New Hampshire ballot access he argued that RFK was becoming a serious possibility as Americans wearied of engineered polarization, while granting that the Q drops and the [[devolution|Devolution]] research suggested [[donald-trump|Donald Trump]] held a deeper awareness of the war underway.[3] He identified family legacy as the Kennedy asset — a historic Achilles heel for the [[deep-state|Deep State]] — contrasting it with the Bush, Rockefeller and Rothschild lines and their respective records of war propaganda, the United Nations and Agenda 2030, and multigenerational banking power.[3]
+
+On Canadian electoral reform he catalogued a bad week for [[justin-trudeau|Justin Trudeau]] — an MMA fighter's public attack, the Supreme Court of Canada's ruling against his [[emergencies-act|Emergencies Act]] invocation, and Tucker Carlson's "Liberate Canada" campaign — and read the quiet reform push as the behavior of a leader afraid of losing power, noting how predictable and "uncreative" such copy-paste operations have become.[3]
+
+## April 2024 commentary on hate crime laws
+
+In the [[badlands-news-brief|Badlands News Brief]] of April 2, 2024, Esler responded to Scotland's [[hate-crime-and-public-order-scotland-act-2021|Hate Crime and Public Order (Scotland) Act 2021]] and the possibility of prosecuting [[jk-rowling|J.K. Rowling]] for "misgendering."[4] He noted the Scottish law was being implemented "in lockstep with [[justin-trudeau|Trudeau]]'s Online Harms Bill," arguing that when "these NWO goons line up operations" it demonstrates "an apolitical, globalist enemy attacking the very concept of the sovereign nation state."[4] Esler judged such radical laws "dangerous in precedent, and more symbolic than practical," adding that "woke philosophy is inherently cannibalistic" and self-consuming, which together with extreme vagueness makes the laws hard to enforce.[4] He cited Ontario, where he lives, as a case in point: misgendering has been treated as a hate crime there since around 2017 without producing "a deluge of woke activists and captured police making strings of insane, dystopian arrests."[4] He stressed the point was not that such laws should be taken lightly — they "should be fought against vehemently" — but to defuse the fight-or-flight expectation of imminent mass arrests.[4] Arguing that "the anti-woke are the global majority" and that unenforceable laws serve psychological rather than functional lawfare ends, he called the enemy's bluff, holding that the asymmetry of the battlefield forces reliance on cognitive warfare, and that what makes such laws dangerous is "belief in the false authority of treasonous criminals and a lack of citizens prepared to stand up for themselves, not the laws themselves."[4]
+
+## Commentary on the Key Bridge collapse and the Toronto rain tax
+
+In the March 27, 2024 [[badlands-news-brief|Badlands News Brief]], Esler analyzed the Baltimore bridge collapse through the lens of [[fifth-generation-warfare|fifth generation warfare]], writing that "accidents" which advance the enemy's Primary Strategic Objective — the collapse of nation states and installation of a [[new-world-order|New World Order]] — offer an opportunity to confront the cognitive battlefield with intention.[5] He judged the information emerging from the event "consistently ambiguous and chaotic," a common fog of war in 5G warfare, while treating [[lara-logan|Lara Logan]]'s intelligence sourcing as offering some clarity to be "watched carefully and held lightly."[5] Quoting The Citizen's Guide to Fifth Generation Warfare on ambiguity and randomness, he argued that mass manipulation uses physical situations framed into repeated psychologically focused messaging, and asked what pretext the collapse might serve and what synthesis would follow the crisis.[5] His prescription was to expose coordinated efforts and adapt away from centralized systems toward a decentralized parallel economy.[5]
+
+In the same brief, Esler critiqued the [[toronto-rain-tax|Toronto rain tax]] proposal advanced under Mayor [[olivia-chow|Olivia Chow]], accepting the communist framing offered by conservative coverage but focusing on the city's self-congratulation over water services despite reports of pharmaceutical contamination in Toronto drinking water, and warning that drone-based assessment of private property signals a dystopian expansion of climate-linked utility billing already present in other Canadian and American cities.[5]
+
+## References
+1. Badlands Brief — "AI Can Help Us Expose the NWO", URL: https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo
+2. Badlands Brief — "Badlands News Brief: Trans Easter Bait & A Tale of Two Presidents", URL: https://badlands.substack.com/p/badlands-news-brief-092
+3. Badlands News Brief — "Battle Lines Drawn in All Theaters", URL: https://badlands.substack.com/p/badlands-news-brief-169
+4. Badlands News Brief — "Trump Counters, Musk Sues & Biden Lies", URL: https://badlands.substack.com/p/badlands-news-brief-2db
+5. Badlands Brief — "Badlands News Brief: Dali, Diddy & DJT", URL: https://badlands.substack.com/p/badlands-news-brief-491

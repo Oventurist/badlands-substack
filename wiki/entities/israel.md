@@ -1,0 +1,458 @@
+---
+title: Israel
+created: 2026-08-06
+updated: 2026-08-06
+type: entity
+tags: [israel, middle-east, iran, netanyahu, geopolitics]
+sources: [raw/and-iran-iran-so-far-away.md, raw/assad-day-in-damascus.md, raw/badlands-brief-07c.md, raw/badlands-brief-029.md, raw/badlands-brief-0fb.md, raw/badlands-brief-0bd.md, raw/badlands-brief-165.md, raw/badlands-brief-095.md, raw/badlands-brief-05f.md, raw/badlands-brief-174.md, raw/badlands-brief-25c.md, raw/badlands-brief-1c6.md, raw/badlands-brief-282.md, raw/badlands-brief-2c5.md, raw/badlands-brief-52f.md, raw/badlands-brief-5a2.md, raw/badlands-brief-625.md, raw/badlands-brief-6b4.md, raw/badlands-brief-6f0.md, raw/badlands-brief-6f4.md, raw/badlands-brief-739.md, raw/badlands-brief-7bf.md, raw/badlands-brief-884.md, raw/badlands-brief-8c2.md, raw/badlands-brief-9ac.md, raw/badlands-brief-9ea.md, raw/badlands-brief-861.md, raw/badlands-brief-774.md, raw/badlands-brief-98d.md, raw/badlands-brief-bb1.md, raw/badlands-brief-b62.md, raw/badlands-brief-b56.md, raw/badlands-brief-c07.md, raw/badlands-brief-e9e.md, raw/badlands-brief-f62.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-7bf.md]
+confidence: medium
+---
+
+# Israel
+
+**Israel** occupies a pivotal position in Badlands Media contributor [[ryan-delarme|Ryan DeLarme]]'s account of the factional struggle over [[iran|Iran]], appearing both as the state most directly threatened by Iranian empowerment and as a political actor that broke ranks with the Western foreign policy establishment.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away)
+
+## The Iranian threat calculus
+
+For fifty years the prevailing consensus held that keeping Iran economically suppressed was preferable, because a thriving Iran on the level of [[saudi-arabia|Saudi Arabia]] would dramatically alter the dynamics of the Middle East, potentially producing a greater regional war in which Iranian proxies — suddenly enjoying hundreds of times more funding and support — could not merely fight but plausibly "wipe Israel off of the map."[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away) The [[joint-comprehensive-plan-of-action|JCPOA]], by relieving those sanctions, was therefore read in Israel as an existential matter rather than a technical nonproliferation arrangement.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away)
+
+## Breaking with the Atlanticists
+
+Israel, DeLarme writes, had until that point "walked in complete lockstep with the rest of [[nato|NATO]]," but suddenly dissented and actively supported a regime change effort to bring new leadership to the United States by backing [[donald-trump|Donald Trump]].[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away) The Saudi–Israeli coalition born of the Iranian power play conducted by the [[barack-obama|Obama]] [[state-department|State Department]] is described as one of the major catalysts creating the conditions for Trump's rise atop the Republican Party against the Clinton machine.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away) This dissent, in DeLarme's telling, caused the Atlanticists to pursue a reciprocal policy of regime change in Israel against [[benjamin-netanyahu|Benjamin Netanyahu]], and caused the CIA-influenced [[us-chamber-of-commerce|Chamber of Commerce]] world to turn on Israel.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away)
+
+## Israel, China and the missile problem
+
+Relations between Israel and China had been relatively good and mutually profitable before the $400 billion Chinese oil and gas agreement with Iran, but strained once Beijing committed nearly half a trillion dollars to the state that funds the proxies on Israel's borders.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away) Iran was in any case far more essential to China's [[belt-and-road-initiative|Belt and Road Initiative]] than Israel could ever hope to be.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away) While Iran alone may lack the economic and military strength to pose a major threat, DeLarme argues that partnered with a superpower like [[communist-china|China]] it could be supplied with significantly more missiles than the Iron Dome and David's Sling could intercept in a single barrage — turning Iran into an existential threat to Israel and opening the prospect of an indefinite proxy war of attrition on the Ukrainian model.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away)
+
+## Pressure on Trump
+
+The article concludes that the pressure Trump is under from Israel, and from the Netanyahu government specifically, is "tremendous," and that the difficult truth of the situation is "no Israel, no Trump 1 or 2."[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away) It also notes that in the month before publication Pakistan had threatened to nuke Israel.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away)
+
+## Israel and the fall of Assad
+
+Badlands Media asked whether it was "only a coincidence" that the collapse of [[bashar-al-assad|Bashar al-Assad]]'s government played so neatly into the [[greater-israel-project|Greater Israel Project]].[2] It noted that the shift in regional power dynamics carried implications for [[iran|Iran]]'s influence through Hezbollah and Syrian territory, and for Israel, which had been targeting Iranian assets in [[syria|Syria]].[2] [[russia|Russia]]'s call for UN Security Council consultations focused particularly on the buffer zone near the Golan Heights.[2]
+
+## April 2026 ceasefire with Lebanon
+
+In April 2026 President [[donald-trump|Donald Trump]] announced that Israel and [[lebanon|Lebanon]] had agreed to a ten-day ceasefire beginning at 5 p.m. EST on Tuesday, following conversations with Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] and Lebanese President [[joseph-aoun|Joseph Aoun]].[3] Earlier that week Israeli and Lebanese officials had met in Washington, D.C. for the first time in thirty-four years alongside Secretary of State [[marco-rubio|Marco Rubio]], a rare step toward direct engagement between the two countries.[3] Trump directed Vice President [[jd-vance|JD Vance]], Rubio, and Chairman of the Joint Chiefs of Staff [[dan-caine|Dan Caine]] to work with Israel and Lebanon toward a lasting peace.[3]
+
+Netanyahu subsequently issued a recorded statement setting two conditions for peace with [[hezbollah|Hezbollah]] — laying down weapons and surrender — which Badlands commentary read as terms designed to be rejected so the war would continue.[3] Reporting cited by the Brief also indicated Washington was pursuing another meeting with [[iran|Iran]] in Pakistan, with anonymous officials optimistic about a deal, even as Israel signaled readiness for a resumption of war with Iran.[3]
+
+## Military manpower and social controversy (June 2026)
+
+In June 2026 the [[israel-defense-forces|IDF]] announced that men and women would not serve inside the same tanks, backing away from a female tank-integration pilot after the leaders of twelve [[hesder-yeshivas|Hesder yeshivas]] threatened to stop supplying students to Armored Corps units.[4] The reversal came despite an April 2026 ruling by Israel's High Court of Justice ordering the IDF to proceed with integration.[4] Badlands commentary contrasted the religious backlash with Israel's international reputation as a highly progressive society — noting that Tel Aviv has been described as the "gayest city in the world" — and argued that the underlying dispute reflects severe and worsening tension between the Ultra-Orthodox community and the military.[4]
+
+## Influence over US policy
+
+The same edition of the Brief reported that Senator [[tom-cotton|Tom Cotton]] had introduced a provision to the 2027 Intelligence Authorization Act requiring the President to expand intelligence sharing with [[mossad|Mossad]] and barring any suspension or limitation of intelligence sharing with Israel.[4] Badlands presented this, together with reports from Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]]'s office that Israel was not party to the emerging US–[[iran|Iran]] framework, as evidence of Israeli leverage over American politics — a claim it noted is commonly dismissed as antisemitic.[4]
+
+## April 2026: awaiting a green light on Iran
+
+Israel was actively preparing to renew its war with [[iran|Iran]] and waiting for a United States green light to resume strikes.[5] Defense Minister [[israel-katz|Israel Katz]] declared the [[israel-defense-forces|IDF]] ready for both defense and offense with new targets marked, stating that Israel sought to eliminate the Khamenei dynasty, destroy Iran's major energy and power facilities, and deliver more deadly blows to collapse the regime's foundations; Israeli leadership anticipated possible resumption by the end of the week while intensifying intelligence efforts and restocking missiles.[5]
+
+At the same time [[donald-trump|Donald Trump]] announced a three-week extension of the Israel–Hezbollah ceasefire after an Oval Office meeting with Israeli and Lebanese representatives, declared that no nuclear weapons would be used, and reiterated that nobody would pressure him into a timeline on his peace negotiations with Iran, despite Israeli media reporting that the administration had given Tel Aviv a Sunday deadline.[5] Badlands commentary read Trump's repeated statement that "Israel will have to defend itself" as signalling that Israel would fight alone, without US aid.[5]
+
+## Lebanon policy and territorial expansion
+
+Israel's pattern of attacks on Lebanese journalists, including bombing their homes, drew the ire of the Lebanese government, whose Prime Minister accused Israel of war crimes only days after the two sides met at the White House for the first time.[5] Israel formally acknowledged an "Advanced Defense Zone" on the Lebanese side of the border where the IDF says nobody is allowed and violators will be shot.[5] Finance Minister [[bezalel-smotrich|Bezalel Smotrich]] called for Israel to formally expand its border to include all of Palestine and parts of [[lebanon|Lebanon]] and [[syria|Syria]], justifying it by the indefensibility of current topography; it was also reported that Israel had destroyed over 62,000 structures.[5]
+
+## July 2026: Turkey pressure and the reported Trump assassination plot
+
+In July 2026, Israeli intelligence informed US officials of what was described as a new [[iran|Iranian]] plot to assassinate President [[donald-trump|Donald Trump]], intelligence not previously identified by US agencies and still under evaluation.[6] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that Israel itself was the more plausible sponsor of any such attempt, reasoning that a successful assassination would let Israel blame Iran, secure sweeping surveillance powers over Americans, and obtain a free pass to war against Iran and suspected collaborators "like Iraq and Afghanistan all over again."[6] He added that killing Trump while his relationship with Israel was still publicly positive would "freeze" that posture permanently, as he argued had happened with [[charlie-kirk|Charlie Kirk]], preventing Trump from ever narratively turning on Israel's leadership.[6]
+
+The same commentary held that Israel had been "pounding the war drums" toward [[turkey|Turkey]] for months and that [[ukraine|Ukraine]]'s drone strike on the [[blue-stream-pipeline|Blue Stream]] pipeline's compressor station was carried out on Israel's behalf, following Trump's praise of [[recep-tayyip-erdogan|Erdoğan]] at the Ankara [[nato|NATO]] summit.[6] With Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] naming [[greece|Greece]] as a Turkish target, GhostofBasedPatrickHenry concluded that Israel "would love nothing more than to see European countries at war with Turkey," and suggested the IDF and [[mossad|Mossad]] were displeased by Trump's warm ties with Muslim leaders including Syria's [[ahmed-al-sharaa|al-Sharaa]].[6]
+
+## The 2026 war on Iran
+
+In March 2026 Israel acted in coordination with the United States in launching military strikes on [[iran|Iran]], a campaign that escalated into an ongoing [[iran-war|war]] within days.[7] An Israeli strike killed Iranian Supreme Leader [[ali-khamenei|Ayatollah Ali Khamenei]], a death confirmed by [[donald-trump|President Donald Trump]] at an Oval Office press conference.[7] Trump denied that Israel had dragged the United States into the conflict, saying instead that he may have "forced Israel's hand," and noted fifteen conversations with Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] in the preceding two months before giving a green light once nuclear negotiations collapsed.[7]
+
+## Domestic U.S. political effects
+
+The aftermath of the Gaza war intensified scrutiny of Democrats' ties to Israel in key primaries in Illinois, Michigan, and Texas, where pro-Israel stances or AIPAC links were weaponized by opponents amid a party base shifting toward sympathy with Palestinians.[7] Badlands commentary argued that the Israel question also divided [[donald-trump|Trump]]'s MAGA base, introducing a variable that resisted easy pro- or anti-Zionist framing and left the anti-interventionist America First contingent conspicuously silent.[7]
+
+## The 2026 Iran war and the American speech fight
+
+During the March 2026 war, the [[israel-defense-forces|Israel Defense Forces]] said they had struck dozens of targets in Tehran as part of a campaign to deepen the blow against the Iranian regime, following coordinated U.S.–Israeli strikes on [[iran|Iran]] in late February 2026.[8] Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] said he did not know whether Iranians would oust their leadership and warned Israel could target Iran's Supreme Leader, while Foreign Minister [[gideon-saar|Gideon Saar]] said only Iranians could bring the regime down but might need outside help.[8] Separately, the Israeli Justice Ministry's clemency unit reportedly declined to recommend a pardon for Netanyahu, who is on trial for corruption.[8]
+
+Badlands writers linked these events to a domestic American controversy, arguing that criticism of the Israeli government was being criminalized through the [[ihra-definition-of-antisemitism|IHRA definition of antisemitism]] and statutes such as [[florida-hb-269|Florida HB 269]], with the campaign against [[tucker-carlson|Tucker Carlson]] as the leading example — a dynamic [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] described as a Hegelian dialectic aimed at the [[first-amendment|First Amendment]].[8] Israeli online influencers called for Carlson's imprisonment for allegedly inciting violence against Jews.[8]
+
+## February 2026: West Bank measures and the Gaza ceasefire impasse
+
+In February 2026, the Israeli Security Cabinet approved a package of [[west-bank-annexation|West Bank measures]] — implemented by executive power rather than legislation — that shifted building authority in Hebron, facilitated settler land purchases, repealed restrictions on non-Muslim real estate transactions, and expanded Israeli enforcement into Palestinian-controlled areas.[9] Likud Energy Minister [[eli-cohen|Eli Cohen]] praised the package as establishing "de facto sovereignty" ruling out a Palestinian state, while the actions were assessed as violating the [[oslo-accords|Oslo Accords]] and drew U.S. concern over regional stability, with President [[donald-trump|Donald Trump]] declaring "I am against annexation."[9]
+
+An Israeli source indicated Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] would tell Trump that Phase 2 of the October 2025 U.S.-brokered [[gaza-ceasefire|Gaza ceasefire]] — requiring [[hamas|Hamas]] disarmament and Israeli troop withdrawal — "is not moving" because Hamas refuses to relinquish weapons, with Israel arguing that a renewed military operation is needed to enforce demilitarization amid ongoing incidents and IDF strikes on suspected violators.[9]
+
+A report released by the Israeli government claims Netanyahu knew of Hamas's plan to invade southern Israel as early as 2018.[9] Separately, Badlands commentary contrasted Israel's undeclared arsenal of allegedly hundreds of nuclear warheads and its refusal to sign the relevant treaties with [[saudi-arabia|Saudi Arabia]], which has signed them — arguing that an ex-IRGC commander's claim of a Saudi bomb was bait designed to provoke an Israeli overreaction.[9]
+
+## Friction with Washington during the Iran war (March 2026)
+
+The United States joined Israel in military strikes against [[iran|Iran]] in late February 2026, with President [[donald-trump|Donald Trump]] saying he ordered US forces to participate because he believed Iran was preparing to strike first.[10] Iran retaliated with missile and drone strikes targeting locations in Israel and US-linked sites in Gulf states.[10] Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] subsequently asked the [[white-house|White House]] for clarification after learning that [[trump-administration|Trump administration]] officials might be communicating with the Iranian government, and the Israeli government was reportedly concerned that Washington might pursue a ceasefire or diplomatic arrangement with Tehran before Israel achieved its war objectives.[10]
+
+## June 2026 strike cancellation and the Trump rupture
+
+In June 2026 Israel conducted its first reported strikes on [[iran|Iran]] since the April ceasefire, following Iranian missile launches.[11] [[donald-trump|President Donald Trump]] intervened to prevent further escalation, warning Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] that Israel could find itself "on your own very soon," after which Netanyahu canceled what would have been Israel's largest planned strike on Iran since the ceasefire and said Israel would "hold fire."[11]
+
+Badlands commentary framed this as the moment the United States visibly declined to underwrite Israel's regional military campaign, leaving Israel to face Iran and [[hezbollah|Hezbollah]] alone — the outcome [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued had been Trump's plan all along.[11]
+
+## Crocodiles at prison facilities (2026)
+
+In July 2026 Israel took a legal step that could allow the use of Nile crocodiles for security purposes at prison facilities, after Environmental Protection Minister [[idit-silman|Idit Silman]] reclassified the species into a category permitting security agencies to keep the animals under specified conditions.[12] Israeli media reported the change was intended to facilitate a proposal backed by National Security Minister [[itamar-ben-gvir|Itamar Ben Gvir]], who has advocated surrounding prisons holding Palestinian security detainees with crocodiles as an escape deterrent, citing Florida's "Alligator Alcatraz" as inspiration.[12] The [[israel-prison-service|Israel Prison Service]] had previously sent officials to a crocodile farm to examine the proposal's practicality, and the reclassification proceeded despite objections from the Israel Nature and Parks Authority and the Environmental Protection Ministry's legal adviser.[12]
+
+Separately, the same Badlands Brief noted that [[spain|Spain]] has led a trend of European countries breaking with unconditional support for Israel, while [[argentina|Argentina]]'s President [[javier-milei|Javier Milei]] has been a close friend of the country — a contrast the Brief used to explain political alignment around the [[2026-fifa-world-cup|2026 World Cup]] final.[12]
+
+## The "Little Brother" framing and the imagery blackout (April 2026)
+
+Following [[planet-labs|Planet Labs]]'s April 2026 decision to withhold satellite imagery of the [[iran|Iran]] conflict at U.S. government request, [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued Israel was not the beneficiary, since he expected it to publicize any real battle damage to claim victimhood and sustain a longer war.[13] He raised the possibility that Israel and Iran are engaged in an actual conflict while [[donald-trump|Trump]] merely pretends to or exaggerates U.S. involvement in order to wear down the [[israel-defense-forces|IDF]] across multiple fronts and exhaust the Israeli public's appetite for warmongering.[13] The projected outcome was the collapse of what he called the Jewish supremacy political movement and the emergence of a secular state detached from Zionism, which he described as necessary for Israel to survive as a productive nation state.[13]
+
+He also noted that Trump had adopted the "Little Brother/Big Brother" metaphor he had been using to describe the U.S.-Israel relationship: when the little brother gets too cocky living under the big brother's protection, it is time for a reminder of his place.[13] In the same commentary he suggested the [[4th-psychological-operations-group|4th Psyop Group]] might be running an information operation against [[mossad|Mossad]] and the IDF, who continue supplying "critical" intelligence while believing they are the ones manipulating Trump.[13]
+
+### May 2026: Iran deal veto claim and the Las Vegas biolab case
+
+In late May 2026 Israel's national security minister declared that Israel would not let President [[donald-trump|Donald Trump]] sign a "bad deal" with [[iran|Iran]].[14] [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] read the statement as evidence that "the Israelis clearly believe that they are in control and in the driver's seat as far as 'Peace in the Middle East' is concerned," and connected it to Israel launching another major offensive in Lebanon while Trump was mid-negotiation.[14] He predicted that most of the GOP would turn on Trump once the [[2026-iran-deal-negotiations|deal]] was finalized because those congressmen "actually work for the State of Israel, not the American People."[14]
+
+Israeli nationality also framed Badlands coverage of the [[las-vegas-biolab|Las Vegas illegal biolab]] case, in which Israeli citizen [[ori-solomon|Ori Solomon]] had his federal firearms charge dismissed by Israeli-born prosecutor [[sigal-chattah|Sigal Chattah]] after being released by magistrate [[elayna-youchah|Elayna J. Youchah]].[14] The commentary asserted that Israel "is notorious for blocking extradition requests by the US for criminals hiding within their borders," and asked why "Israeli citizens consistently get away with committing federal (and state) crimes inside the United States."[14]
+
+## March 2026 joint campaign against Iran
+
+Israel participated with the United States in coordinated air and missile strikes against [[iran|Iran]] launched in late February 2026, targeting military leadership, missile systems, and nuclear-related infrastructure.[15] US Secretary of State [[marco-rubio|Marco Rubio]] said Washington decided to strike after determining Israel was planning its own attack on Iranian targets that would have triggered Iranian retaliation against American forces, making a preemptive joint operation preferable to higher US casualties.[15] House Speaker [[mike-johnson|Mike Johnson]] and other Republican lawmakers said in congressional briefings that Israel was prepared to attack Iran "with or without American support."[15]
+
+Retired IDF general [[benny-gantz|Benny Gantz]] raised the possibility of a ground invasion of Iran by Israel or the United States.[15] Badlands commentary linked this to the claim that [[benjamin-netanyahu|Benjamin Netanyahu]]'s interest in Syria was aimed at establishing [[davids-corridor|David's Corridor]], a land route toward Kurdistan and Iran.[15] Separately, [[tucker-carlson|Tucker Carlson]] claimed Qatar and Saudi Arabia had arrested [[mossad|Mossad]] agents allegedly planning false-flag bombings to be blamed on Iran.[15]
+
+## Alleged role in the Gulf drone attacks (May 2026)
+
+After drones struck near the [[barakah-nuclear-power-plant|Barakah nuclear power plant]] in the [[united-arab-emirates|United Arab Emirates]] on 17 May 2026, Badlands commentator [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that Israel, not [[iran|Iran]], was the likely beneficiary, since the drones entered from the west — the direction of Israel and [[iraq|Iraq]] — and Israel staunchly opposes any Muslim country possessing nuclear technology.[16] The Wall Street Journal had reported earlier that month that Israel built and defended a secret base in Iraq during the Iran war to support operations against Tehran, and commentary cited reports of two secret Israeli bases in remote Iraq discovered by the Bedouin shepherd [[awad-al-shammari|Awad al-Shammari]], who was reportedly killed by a helicopter strike after reporting them.[16]
+
+The same analysis held that Israel's campaign against Iran had united the Islamic world in opposition to Israeli aggression during the [[twelve-day-war|Twelve Day War]], and that the drone strikes appeared designed to provoke war among Muslim nations just as [[saudi-arabia|Saudi Arabia]] moved to formalize a non-aggression pact with Iran.[16]
+
+## April 2026: Lebanon escalation and the Trump prohibition
+
+Israel ordered its forces to use "full force" against threats in [[lebanon|Lebanon]] in April 2026 despite a temporary truce, with Defense Minister [[israel-katz|Israel Katz]] announcing that homes allegedly used by [[hezbollah|Hezbollah]] would be leveled and demolitions reportedly underway.[17] A published deployment map placed dozens of southern Lebanese villages inside an Israeli-controlled [[forward-defense-zone|Forward Defense Zone]], which Badlands read as groundwork for annexing southern Lebanon, capturing [[mount-hermon|Mount Hermon]], and seizing the [[qana-gas-field|Qana Gas Field]].[17]
+
+The escalation followed [[donald-trump|President Trump]]'s declaration that Israel was prohibited by the United States from further bombing in Lebanon — remarks that reportedly surprised [[benjamin-netanyahu|Benjamin Netanyahu]] and prompted Israel's ambassador to Washington to seek clarification.[17] The same period saw the [[debel-statue-desecration|Debel statue desecration]], Foreign Minister [[gideon-saar|Gideon Sa'ar]]'s condemnation of it, Finance Minister [[bezalel-smotrich|Bezalel Smotrich]]'s renewed call to occupy and settle Gaza, and [[haaretz|Haaretz]] reporting on a mental-health crisis among [[israel-defense-forces|IDF]] reservists.[17] Badlands argued that Europe was souring on Israel and that the country was "infected with a cultural disease," with figures such as [[mike-huckabee|Mike Huckabee]] running cover for it.[17]
+
+## June 2026 defiance of Trump in Lebanon
+
+In June 2026, Israel entered discussions with the United States about maintaining troop deployments in southern Lebanon beyond previously anticipated timelines, and advanced plans related to border demarcation and security arrangements in the area despite ongoing diplomatic efforts.[18] Hours after President [[donald-trump|Donald Trump]] posted comments to Truth Social on the matter, reports described a major [[israel-defense-forces|IDF]] operation in southern Lebanon concentrated around the city of Nabatieh, with vicious close-quarter combat, armor columns including armored bulldozers, and at least four Merkava tanks destroyed; Israeli media confirmed at least four IDF soldiers killed, including a senior officer.[18] Journalist [[barak-ravid|Barak Ravid]] affirmed reporting that Israel had likely invaded Lebanon in an attempt to seize control of the Strait.[18]
+
+The IDF published a map of the Security Zone it intended to establish in southern Lebanon — the first such map, according to Badlands, to include areas north of the Litani River — while the operation against Nabatieh indicated the map did not show the full extent of the territory Israel intended to claim.[18] The overnight strikes on [[hezbollah|Hezbollah]] targets caused the postponement of the formal US–Iran signing ceremonies in Switzerland, though the [[us-iran-memorandum-of-understanding|agreement]] proceeded to implementation regardless.[18]
+
+Vice President [[jd-vance|J.D. Vance]] publicly criticized Israeli officials' opposition to the Iran deal from the White House podium, a moment Badlands read as evidence that Israel's international standing was in steep decline and that "the Zionists in both Israel and the GOP are being set up by President Trump."[18] Meanwhile [[naftali-bennett|Naftali Bennett]] outlined a competing domestic program calling for a constitution, an inquiry into October 7, 2023, cuts to ultra-Orthodox draft-dodger benefits, and the breakup of monopolies — while signaling an intent to restart the war with [[iran|Iran]].[18]
+
+## June 2026: standing alone
+
+On June 8, 2026, [[iran|Iran]] fired 11 ballistic missiles toward Israel — the first direct Iranian attack since an April 8 ceasefire — in retaliation for an Israeli strike on Beirut.[19] The [[israel-defense-forces|Israel Defense Forces]] struck back at military targets in central and western Iran, with Ambassador [[yechiel-leiter|Yechiel Leiter]] stating the operation focused on missile launch sites and spared energy facilities.[19] President [[donald-trump|Donald Trump]] had urged Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] not to retaliate, and U.S. forces did not participate.[19]
+
+The [[badlands-brief|Badlands Brief]] treated the episode as the beginning of an open break between Washington and Jerusalem, with Trump publicly declaring he "calls the shots" and would conclude an Iran deal regardless of Israeli objections.[19] Netanyahu had told an audience at [[yad-vashem|Yad Vashem]] a month earlier that "If Israel is forced to stand alone — Israel will stand alone," a posture Badlands argued Trump had deliberately baited him into during Israeli election season.[19] Badlands further noted that public sentiment in the United States was turning against Israel at an accelerating rate.[19]
+
+Compounding the rupture, reporting that the [[defense-intelligence-agency|Defense Intelligence Agency]] had raised Israeli espionage against the United States to a "critical" threat level surfaced in the same period; the Israeli Embassy in Washington dismissed the allegations as politically motivated and said Israeli intelligence activities are directed at adversaries rather than allies.[19]
+
+## Allegations of harboring Ukrainian figures (2026)
+Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued in July 2026 that connections between the Israeli and Ukrainian elite were overwhelming, alleging a transnational cartel laundering money from Congress into [[ukraine|Ukraine]] under cover of the war with [[russia|Russia]] and then fleeing to Israel for sanctuary when exposed, with [[timur-mindich|Timur Mindich]] cited as the example.[20] He asked at what point Israel would be held accountable for harboring what he described as pedophiles and other criminals.[20]
+
+## Interceptor stockpiles and the Iran war (2026)
+
+Reporting in May 2026 indicated the United States carried much of the missile-defense burden during the Iran war, expending large numbers of advanced interceptors while Israel conserved more of its own stockpile.[21] The [[pentagon|Pentagon]] assessed that the US fired more than 200 [[thaad|THAAD]] interceptors — roughly half the American inventory — plus large numbers of SM-3 and SM-6 naval missiles.[21] Israel denied claims it was dangerously low on interceptors, saying its operations were coordinated closely with Washington throughout the conflict.[21] Badlands commentary characterized the arrangement as a parasitic relationship in which the US taxpayer subsidizes a foreign military.[21]
+
+## Flotilla interception and detainee treatment
+
+Israel intercepted the [[global-sumud-flotilla|Global Sumud Flotilla]], a convoy reportedly carrying about 430 international volunteers seeking to bring humanitarian aid to Gaza.[21] National Security Minister [[itamar-ben-gvir|Itamar Ben-Gvir]] posted video of detainees, including Colombians, kneeling and handcuffed, prompting Colombian President [[gustavo-petro|Gustavo Petro]] to accuse him of acting "like a true Nazi."[21] Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] defended the interception but distanced himself from Ben-Gvir's treatment of the detainees and ordered deportations expedited.[21] Commentary also cited [[knesset|Knesset]] member [[yitzhak-kroizer|Yitzhak Kroizer]]'s remarks denying the existence of innocent people in Palestine as part of the same pattern.[21]
+
+## Erosion of American bipartisan support (July 2026)
+
+In July 2026 a growing number of major media outlets argued that Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] had inflicted lasting damage on Israel's standing with the American public, citing years of partisan alignment, the ongoing Gaza war, and repeated clashes with US administrations.[22] Pew Research Center polling showed unfavorable views of Israel and declining confidence in Netanyahu rising since 2022, worsening across demographic groups and among younger voters in both major parties.[22] Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that [[donald-trump|Trump]]'s strategy was not kinetic war against Israel but the destruction of its public reputation by allowing it space to reveal its character, and characterized Israel as an empire that, like the Sanhedrin of the ancient world, seeks glory for itself rather than for God.[22]
+
+## March 2026: divergence from Washington and diplomatic fallout
+
+On March 11, 2026, Israeli Defence Minister [[israel-katz|Israel Katz]] said of the campaign against [[iran|Iran]], "The operation will continue without any time limit, as long as required, until we accomplish all objectives and achieve victory in the campaign."[23] The statement directly contradicted [[donald-trump|President Trump]]'s same-day claim to Axios that the war would end "soon" with "practically nothing left" to target, a split Badlands writers described as the long-anticipated divergence between Washington and Jerusalem.[23]
+
+[[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] framed the rift as the "Older Brother" (the United States) stepping off the mat and leaving an "arrogant Younger Brother" to face the consequences of long-shielded hubris, while noting that Trump was simultaneously encouraging [[benjamin-netanyahu|Bibi Netanyahu]] toward his warmongering ambitions.[23]
+
+The same week, [[spain|Spain]] expelled the Israeli ambassador and announced the termination of diplomatic relations with Israel amid the widening regional conflict, withdrawing its own ambassador from Israel.[23] Badlands commentary attributed the Spanish decision less to the [[strait-of-hormuz|Strait of Hormuz]] crisis than to the pattern of Israeli government behavior since the October 7, 2023 attack, predicting that the psychological impact of both Iran and Spain defying "the Hegemony" would lead other states to follow.[23]
+
+## Trump's public rebuke at the G7 (June 2026)
+
+At the [[2026-g7-summit|2026 G7 summit]], President [[donald-trump|Donald Trump]] publicly criticized Israel's campaign against [[hezbollah|Hezbollah]] in [[lebanon|Lebanon]], saying it had gone on too long, killed too many civilians, and destroyed apartment buildings unnecessarily in pursuit of militants.[24] He expressed anger over an Israeli strike in Beirut carried out two hours before the announcement of progress on the U.S.–Iran agreement, and proposed that [[syria|Syria]] under [[ahmed-al-sharaa|Ahmed al-Sharaa]] take over the task of confronting Hezbollah.[24] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued the remarks were significant because they affirmed the indiscriminate-killing accusation at the heart of genocide claims against Israel, expressed a loss of trust in the [[israel-defense-forces|IDF]], and elevated Syria's standing at Israel's expense.[24]
+
+Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] responded that Israel was not bound by the [[us-iran-memorandum-of-understanding|U.S.–Iran memorandum of understanding]] and would keep its forces in southern Lebanon, even as [[iran|Iran]] made an end to that presence a condition of any permanent truce.[24] Badlands writer [[burning-bright|Burning Bright]] framed the episode as Trump's "trap" springing shut on warmongers on both sides of the divide, arguing that Trump had exposed Israel, the NATO war machine and the inherited military-industrial complex while dismantling the rules-based international order alongside Russia, China, Saudi Arabia and Iran.[24]
+
+## Lebanon offensive and European clash (April 2026)
+
+In April 2026 [[benjamin-netanyahu|Benjamin Netanyahu]] intensified a diplomatic clash with European leaders while Israel continued its military campaign in [[lebanon|Lebanon]], rejecting ceasefire calls and insisting operations against [[hezbollah|Hezbollah]] would proceed.[25] Israeli operations caused extensive destruction in parts of southern Lebanon, with reports that entire villages had been leveled in areas Israel said contained Hezbollah infrastructure, and rising casualties and displacement fueled international criticism.[25] Despite pressure from the United States and European allies, Israel kept the Lebanon front active.[25] [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] asked whether Israel planned "on fighting the entire world" after Gaza, Syria, the West Bank and Lebanon, listing Turkey, [[iran|Iran]] and Europe as possible further targets.[25]
+
+## April 2026 setbacks and diplomacy
+
+Italy suspended the automatic renewal of its 2003 defence cooperation memorandum with Israel on April 13, 2026, after Israeli forces fired warning shots at Italian UNIFIL peacekeepers in southern Lebanon; Israel's foreign ministry dismissed the accord as an old memorandum with "no substantive content."[26] Days earlier Israel joined the first high-level talks with Lebanon since 1993, hosted at the State Department, expressing readiness for direct negotiations while reaffirming its right to respond to Hezbollah attacks.[26] Mossad chief David Barnea meanwhile declared that Israel's mission against Iran "isn't over until the regime falls."[26] Badlands commentary framed these developments as the splitting of U.S. and Israeli interests and cited Pakistan's sober UN Security Council rebuke — "an occupier that does not listen to anyone" — as evidence that Israel had become an international pariah pursuing a campaign of conquest rather than self-defense.[26]
+
+## Strike tensions with Iran (February 2026)
+
+Tensions rose in February 2026 over the possibility of Israeli military action against [[iran|Iran]], with US officials assessing the strategic and political implications of potential Israeli strikes, including the risk of broader regional escalation.[27] The deliberations coincided with new [[us-department-of-the-treasury|Treasury]] sanctions on Iran's [[iran-shadow-fleet|shadow fleet]]; no US military strike was announced.[27] [[jon-herold|Jon Herold]] and [[chris-paul|Chris Paul]] treated the escalation as manufactured narrative, advising audiences to answer televised war announcements with "No, it isn't."[27]
+
+## Halted Beirut operation (June 2026)
+
+On June 1, 2026, President [[donald-trump|Donald Trump]] reportedly delivered an expletive-filled rebuke to Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] by phone, accusing Israel of jeopardizing US diplomatic efforts and of driving international hostility toward both Netanyahu and Israel as the [[lebanon|Lebanon]] conflict escalated.[28] Trump intervened directly to stop a planned Israeli strike on [[beirut|Beirut]], arguing that further escalation would undermine regional diplomacy and isolate Israel internationally; Israeli officials afterward confirmed the Beirut operation had been shelved, while Netanyahu publicly maintained Israel would keep responding to [[hezbollah|Hezbollah]] attacks and continue operations in southern Lebanon.[28]
+
+[[iran|Iran]] had threatened to abandon indirect negotiations with Washington over Israel's actions, conditioning any resumption on an immediate end to Israeli operations in Gaza and Lebanon and a full withdrawal from southern Lebanon, and warning of pressure on the [[strait-of-hormuz|Strait of Hormuz]] and the [[bab-el-mandeb-strait|Bab el-Mandeb Strait]].[28] Trump later said the follow-up call was "very productive," that Israeli troops would not enter Beirut, and that Hezbollah had agreed through intermediaries to halt shooting.[28] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] read the episode as advancing the [[overton-window|Overton Window]] toward an open rupture between Trump and Netanyahu, with Israel "pursuing war in a fit of blind rage without the support of the US."[28]
+
+## House vote on US military aid (July 2026)
+
+On July 15, 2026, more than 100 House Democrats voted in favor of ending the United States' annual military assistance to Israel, in an amendment introduced by Rep. [[thomas-massie|Thomas Massie]] (R-Ky.) that would have eliminated approximately $3.3 billion in annual aid.[29] The amendment failed 314-104, with 103 Democrats supporting it, 98 opposed and 10 voting "present," leaving US military assistance unchanged.[29] The vote marked one of the largest congressional showings of Democratic support for ending military aid to Israel and reflected the party's continuing debate over US policy amid the ongoing war in Gaza.[29] See [[july-2026-house-vote-on-military-aid-to-israel|the vote]] for fuller coverage.[29]
+
+## June 2026 Lebanon operations amid Iran de-escalation
+
+In June 2026 President [[donald-trump|Donald Trump]] said the United States had mediated an agreement between [[iran|Iran]] and Israel to halt recent hostilities, and personally pressed Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] to exercise restraint or risk losing U.S. support.[30] Netanyahu subsequently announced that the immediate threat on the Iran front had been contained while affirming Israel's right to self-defense.[30] Israeli operations against [[hezbollah|Hezbollah]] in southern [[lebanon|Lebanon]] and the Beirut suburbs nonetheless continued, and Iran insisted that any comprehensive agreement must address the Lebanon theater.[30]
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that Trump's alternating war and peace rhetoric was designed to stoke anxiety in Israeli leadership that their window for war with Iran was closing, inducing them to accelerate war plans and attempt to wreck a peace deal, and that any U.S. kinetic response to the reported helicopter downing would "engorge the growing bloodlust" of Netanyahu's Kahanist security cabinet.[30] He also noted that commentator [[mark-levin|Mark Levin]] read the episode as a great victory for Zionist warmongers while anti-Trump critics read it as a sign of Trump's weakness.[30]
+
+## Nuclear ambiguity and the 2026 disclosure demand
+
+Israel has neither confirmed nor denied possessing nuclear weapons and maintains no public doctrine on their potential use or "red lines."[31] In May 2026, 30 House Democrats led by Rep. Joaquin Castro pressed Secretary of State Marco Rubio to end U.S. official silence on Israel's arsenal, arguing that the risks of miscalculation, escalation, and nuclear use amid the conflict with Iran "are not theoretical."[31] The history of the program, including the 1963 War of the Letters with David Ben-Gurion and the 1985 Mordechai Vanunu affair, is covered in [[israeli-nuclear-program|the Israeli nuclear program]].[31]
+
+## Phasing out US financial aid (July 2026)
+
+Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] said on Tuesday, June 30, 2026, that he wants Israel to begin phasing out American financial assistance, arguing the economy is now strong enough to support itself: "Our economy is no longer a small economy… we can finance ourselves this fraction of a percent of our GDP that we receive from the United States. I want this process to start this year."[32] He made the remarks while setting out government positions on national security, Gaza, the Palestinian issue, [[iran|Iran]] and [[lebanon|Lebanon]], saying Israel would pursue an active rather than purely defensive security strategy and would keep forces deployed as long as [[hezbollah|Hezbollah]] is viewed as a threat.[32]
+
+[[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] read the proposal as a self-serving attempt to strip Washington of leverage over Israel, and disputed the underlying claim of economic strength: reports indicated the highest 10–15% of income earners had left the country over fear of war or [[israel-defense-forces|IDF]] conscription, while the producing class in its twenties, thirties and forties had served multiple reserve tours since October 7, disrupting the economy and spreading PTSD among reservists.[32] He concluded Israel is "being stretched thin in every possible way."[32]
+
+## Reaction to Phase Two of the Gaza plan (January 2026)
+
+The launch of Phase Two of the [[comprehensive-plan-to-end-the-gaza-conflict|20-Point Plan to End the Gaza Conflict]] in January 2026 was described by Badlands analyst [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] as the critical step, since it is the phase in which Arab states take control of Gaza from the IDF under the terms of the agreement — the moment at which he expected Israel might act recklessly.[33] He wrote that most if not all of the Israeli political establishment is opposed to allowing [[turkey|Turkey]] or [[qatar|Qatar]] to hold a leadership role in the International Stabilization Force, while President [[donald-trump|Donald Trump]] has made clear he specifically wants both involved.[33] Qatar is said to trigger Israel because it sits at the center of a major internal Israeli political scandal over the funding of [[hamas|Hamas]] in the run-up to October 7 and the extent of the [[benjamin-netanyahu|Netanyahu]] government's involvement; Turkey triggers Israel because the two states have spent two and a half years exchanging public threats, and as a [[nato|NATO]] member any Israeli action against it risks invoking [[article-5|Article 5]].[33]
+
+## Escalation With Turkey (June 2026)
+
+In June 2026 Israel's operations in [[syria|Syria]] and [[lebanon|Lebanon]] drew sharp condemnation from Turkish President [[recep-tayyip-erdogan|Recep Tayyip Erdoğan]], who accused Israel of expansionism, warned that its regional conduct could threaten [[turkey|Turkey]], and called for the eventual "liberation" of Jerusalem.[34] Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] answered by branding Erdoğan an "antisemitic dictator" who backs [[hamas|Hamas]], and said Israel would keep acting against security threats across the region.[34] Israeli officials framed strikes on [[hezbollah|Hezbollah]]-linked targets in Lebanon and military assets in Syria as necessary against Iranian-backed groups, while Turkish officials called them destabilizing.[34]
+
+Badlands commentary noted that Israel's publicly stated pursuit of [[greater-israel|Greater Israel]] through the conquest and annexation of neighbors — justified by Israel as a security necessity — was the specific object of Erdoğan's warning.[34] The analysis also pointed to Israel's recently signed security agreement with [[greece|Greece]], forged over shared antagonism toward Turkey, as a possible instrument for pressuring Ankara in the Aegean or near [[cyprus|Cyprus]] without triggering [[nato|NATO]]'s [[article-5|Article 5]], and raised Israel's record of acquiring and reselling classified U.S. technology as a counterpoint to American concerns about selling F-35s to Turkey.[34]
+
+## The fuel depot strikes and the rift with Washington (March 2026)
+
+In March 2026 Israeli forces attacked 30 fuel depots inside [[iran|Iran]] without notifying the [[white-house|White House]] in advance, reportedly angering the Trump administration.[35] U.S. officials were concerned that the strikes hit infrastructure serving Iranian civilians, which they expected to generate backlash while driving up the global price of oil; according to [[axios|Axios]] reporting by [[barak-ravid|Barak Ravid]] and [[marc-caputo|Marc Caputo]], the precise message conveyed to Israeli counterparts was "WTF."[35]
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] treated the episode as the culmination of an "Israeli subversion" sequence that also included the promotion of [[reza-pahlavi|Reza Pahlavi]] as a monarchical claimant and the push for [[kurds|Kurdish]] ground forces, both of which President [[donald-trump|Donald Trump]] publicly rejected.[35] He argued that destroying Iranian oil ran contrary to Trump's stated aim of keeping oil flowing through the [[strait-of-hormuz|Strait of Hormuz]] and winning over the Iranian population, calling the strikes "unnecessarily cruel and not at all strategic," and speculated that Israel's conduct reflected desperation under missile bombardment of Tel Aviv.[35]
+
+## April 2025: Iran talks and the Trump call
+
+In April 2025 Iran accused Israel of seeking to "undermine" its nuclear negotiations with the United States, with foreign ministry spokesman Esmail Baqaei alleging that "a kind of coalition is forming… to undermine and disrupt the diplomatic process" comprising Israel and "warmongering currents in the United States."[36] The New York Times reported that President [[donald-trump|Donald Trump]] had dissuaded Israel from striking [[iran|Iran]]'s nuclear sites in the near term in favour of diplomacy.[36]
+
+On 22 April Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] spoke with Trump by telephone; Trump said the call covered trade, Iran and other subjects and declared that the two leaders "are on the same side of every issue," without mentioning Gaza or the 59 hostages held there amid the stalled ceasefire negotiations with Hamas.[36] Badlands contributors read the exchange as evidence that Israeli policy was being drawn toward Trump's positions rather than the reverse, and criticized hardline calls for war with Iran in religious terms.[36]
+
+Israeli national security minister [[itamar-ben-gvir|Itamar Ben-Gvir]]'s planned appearance near [[yale-university|Yale University]] the same week prompted a short-lived pro-Palestinian encampment on the campus.[36]
+
+## Saudi rapprochement and the Beirut strike (November 2025)
+
+The lavish [[white-house|White House]] welcome given to Saudi Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] in November 2025 was read by The Guardian as leaving Israel on the back foot, because the accompanying arms package appeared to abandon the long-standing principle that Israel always receives the best US military hardware and thus a "qualitative edge" over other regional allies.[37] President [[donald-trump|Donald Trump]] said that [[saudi-arabia|Saudi Arabia]] "is a great ally and Israel's a great ally" and that "they are both at a level where they should get top of the line" — language the report described as unwelcome in Israel and the latest of several setbacks in the bilateral relationship in recent months.[37]
+
+On November 23, 2025, an Israeli airstrike on Beirut killed [[hezbollah|Hezbollah]] commander [[haytham-ali-tabatabai|Haytham Ali Tabatabai]] along with at least four others, with Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] praising the strike as part of Israel's campaign to destroy the group.[37] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] asked why Israel was bombing the capital of a foreign country and targeting the leadership of entities with which Netanyahu had signed peace agreements, and what signal that sent to the rest of the world.[37]
+
+## August 2024 escalation standoff
+
+In late July 2024 Israel killed [[hezbollah|Hezbollah]] military commander [[fuad-shukr|Fuad Shukr]] in a strike in Beirut, and hours later [[hamas|Hamas]] leader [[ismail-haniyeh|Ismail Haniyeh]] was killed in Tehran; Israel did not comment publicly on the latter operation, but [[iran|Iran]] blamed Jerusalem and vowed retaliation.[38] A blitz of diplomacy by the United States and its Western and Middle Eastern allies followed, aimed at pushing both Iran and Israel to cool tensions and prevent all-out regional war.[38] Secretary of State [[antony-blinken|Antony Blinken]] said Washington had communicated directly to Israel that the conflict must not escalate.[38]
+
+Badlands commentary held that Israel's strategic position had deteriorated: public support for the conflict had collapsed, with the [[israel-defense-forces|IDF]], media, and security apparatus turning on Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]], and Israel had become a pariah state expected to behave erratically.[38] On that reading Netanyahu needed an Iranian attack to supply a unifying enemy, and the likeliest next move was an Israeli pre-emptive strike framed as thwarting one.[38]
+
+## Rafah, the weapons ultimatum, and the crossing takeover (May 2024)
+
+In May 2024 Israel faced an explicit American ultimatum over [[rafah|Rafah]]: President [[joe-biden|Joe Biden]] warned he would halt supplies of offensive weapons such as bombs and artillery shells if Israeli forces launched a full invasion of the city, and his administration took the unprecedented step of withholding ammunition and bomb shipments to signal displeasure.[39] Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] nonetheless remained adamant that destroying [[hamas|Hamas]] required pursuing its leadership in Rafah.[39]
+
+Israel proceeded with a limited operation, seizing the [[rafah-border-crossing|Rafah border crossing]] with an [[israel-defense-forces|IDF]] tank unit — reportedly with some degree of coordination with Washington — and thereby gaining control of all of [[gaza|Gaza]]'s border crossings for the first time in nearly two decades.[39] The United States, Israel and Egypt subsequently agreed that a private American security firm staffed with special forces veterans would oversee the crossing.[39] Badlands commentary accused Israel of publicising its own footage of armour columns entering Rafah, of antagonising Palestinians in Judea and Samaria in a manner that subverted the [[abraham-accords|Abraham Accords]] and grew support for Hamas militancy, and of killing civilians who had fled north Gaza on Israeli guidance.[39]
+
+## Expected Iranian retaliation (August 2024)
+
+In August 2024, the Israeli intelligence community's updated assessment held that [[iran|Iran]] was poised to attack Israel directly within days in retaliation for the assassination of [[hamas|Hamas]]' political leader in Tehran.[40] The timing threatened to preempt Gaza hostage and ceasefire negotiations planned for that Thursday, at what Israeli officials had described as a "now-or-never" moment for a deal with Hamas.[40] Badlands commentary, quoting [[zerohedge|ZeroHedge]], characterized the dynamic as Israel provoking Iran through "a sensational violation of its sovereignty" while the U.S. government spent "untold billions" protecting Israel from the response and placing service members in harm's way.[40]
+
+## Knesset address and end of the Gaza war (October 2025)
+
+On October 13, 2025 US President [[donald-trump|Donald Trump]] addressed the [[knesset|Knesset]] as the final 20 living hostages were released from [[gaza|Gaza]] under a US-brokered ceasefire, telling Israeli lawmakers that Israel had won and had nothing more to achieve by force of arms, and urging the country to pursue peace across the region.[41] Badlands commentary disputed the framing, arguing that the Israeli economy was in shambles from the IDF's mandated reservist program, that Israel's international standing was poor, and that no one in Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]]'s circle could articulate a plan for Gaza or the West Bank beyond claims of divine entitlement.[41] The commentary held that some figures in the Israeli government intended an ethnic cleansing of Palestine, and read the speech as an ultimatum to stop warmongering; see [[2025-knesset-address-by-donald-trump|the address]].[41]
+
+Trump also used the address to call publicly for a pardon for Netanyahu in his ongoing corruption trial, later saying the moment was unplanned and prompted by the applause.[41]
+
+## October 2023 escalation and foreign support
+
+In late October 2023, Russian President [[vladimir-putin|Vladimir Putin]] warned that Israel's conflict with [[hamas|Hamas]] could spread well beyond the Middle East and said it was wrong that innocent women, children and old people in [[gaza|Gaza]] were being punished for other people's crimes.[42] The October 7 attack by Hamas militants resulted in at least 1,400 deaths and more than 200 kidnappings and precipitated an Israeli counteroffensive that, by the time of [[gallup|Gallup]]'s late-October polling, had produced an estimated 5,000 deaths in Gaza and a humanitarian crisis.[42]
+
+American domestic politics converged on the war effort. Florida Governor [[ron-desantis|Ron DeSantis]], pursuing the pro-Israel vote in the 2024 Republican primary, arranged flights evacuating 700 Americans from Israel and announced that Florida had used cargo planes to send drones, body armor and helmets, while facilitating shipments of privately purchased guns and ammunition.[42] His office claimed the action followed a request from Israel's Miami consulate, but Major Elbaz-Starinsky, the consul general in Miami, said that was false.[42] [[nikki-haley|Nikki Haley]] was described in the same coverage as competing with DeSantis in demonstrations of loyalty to Israel, though limited to rhetoric.[42]
+
+## Northern front escalation (September 2024)
+
+After almost a year of war against [[hamas|Hamas]] in [[gaza|Gaza]], Israel shifted focus in September 2024 to its northern frontier with [[lebanon|Lebanon]], where [[hezbollah|Hezbollah]] had been firing rockets into Israel in support of its ally.[43] On September 23 the Israeli leadership announced [[operation-northern-arrows|Operation Northern Arrows]], with the Israeli Air Force conducting massive strikes across dozens of settlements in southern and eastern Lebanon.[43] The [[russian-foreign-ministry|Russian Foreign Ministry]] strongly condemned the campaign, and Lebanese Foreign Minister [[abdallah-bou-habib|Abdallah Bou Habib]] reported half a million people displaced.[43] The [[pentagon|Pentagon]] moved a small number of additional US personnel into the region, while [[joe-biden|Joe Biden]] told the [[united-nations|UN]] General Assembly that full-scale war served no one's interest.[43]
+
+## April 2024 Iran escalation and diplomatic strains
+
+In early April 2024, Israel told the United States that if [[iran|Iran]]
+launched an attack from its own soil in retaliation for Israel's deadly strike
+on the Iranian embassy in Damascus, it would draw a strong response and take
+the conflict to another level, Israeli officials told Axios.[44] Iranian
+officials had publicly threatened to retaliate for the strike, which killed a
+top Iranian official, and both the Biden administration and the Israeli
+government were highly concerned that Iran was preparing an imminent
+attack.[44] While Iranian proxies in Lebanon, Syria, Iraq and Gaza had attacked
+Israel, there had been no attack from Iranian soil; a direct Iranian strike
+would be unprecedented and could lead to a regional war.[44] Prime Minister
+[[benjamin-netanyahu|Benjamin Netanyahu]] told a security cabinet meeting that
+Iran had been operating against Israel for years "both directly and via its
+proxies, and therefore Israel is operating against Iran and its proxies, both
+defensively and offensively."[44]
+
+Simultaneously, Israel's ties with key Gulf states came under strain: the
+[[united-arab-emirates|United Arab Emirates]] announced a suspension of
+diplomatic coordination and halted humanitarian aid coordination after seven
+[[world-central-kitchen|World Central Kitchen]] workers were killed in Gaza,
+bringing relations to near breaking point only a few years after normalization
+under the [[abraham-accords|Abraham Accords]].[44] Israel placed its embassies
+worldwide on high security alert over the heightened Iranian threat, and Brent
+crude spiked above $90 for the first time since October.[44] In Washington,
+former House Speaker [[nancy-pelosi|Nancy Pelosi]] joined 37 other Democrats in
+calling on President [[joe-biden|Joe Biden]] and Secretary of State
+[[antony-blinken|Antony Blinken]] to halt US weapons transfers to Israel over
+the aid-worker strike.[44]
+
+## West Bank sovereignty controversy (July 2025)
+
+On July 2, 2025, Israeli Justice Minister [[yariv-levin|Yariv Levin]] said "the time has come" for Israel to apply full sovereignty across the occupied West Bank, prompting a strong condemnation from [[saudi-arabia|Saudi Arabia]].[45] The Saudi foreign ministry said such an action would violate international law, rejected attempts to expand settlements on Palestinian land, and urged Israel to abide by international resolutions.[45] Badlands commentary treated the exchange as undercutting earlier _Israel Hayom_ reporting on "leaked details" of an expanded [[abraham-accords|Abraham Accords]] framework that claimed Saudi Arabia had agreed to cede parts of the West Bank to Israel.[45]
+
+## Push for an independent weapons industry (September 2025)
+
+In September 2025, Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] said Israel needed an "independent weapons industry" able to "withstand international constraints" as pressure mounted over the war in Gaza.[46] Israel's military exploits had been largely facilitated by U.S. supplies, with Washington providing more than two-thirds of its major conventional arms in 2023 according to the Stockholm International Peace Research Institute, while European suppliers — especially Germany, which in August 2025 suspended approval of weapons exports for use in Gaza "until further notice" — grew increasingly critical.[46] Badlands commentary argued that Israel lacks a manufacturing base, its largest industries being software (27% of GDP), pharmaceutical and chemical products (16%) and electrical components (12%), and that it imports steel, aluminum, plastics, concrete and rubber, making rapid weapons self-sufficiency implausible.[46]
+
+## Multi-front operations and diplomatic isolation
+
+On 18 September 2025 the Israeli military struck areas north and south of the [[litani-river|Litani River]] in Lebanon, targeting [[hezbollah|Hezbollah]] ahead of the first anniversary of the assassination of [[hassan-nasrallah|Hassan Nasrallah]], while simultaneously mounting its largest operation of the post-October-7 war in Gaza City.[46] The same day, the United States vetoed a [[united-nations-security-council|UN Security Council]] resolution demanding a permanent Gaza ceasefire, the sixth such veto, delivered by [[morgan-ortagus|Morgan Ortagus]] despite fourteen votes in favor.[46] Badlands commentary linked these developments to reports that [[saudi-arabia|Saudi Arabia]] might organize a NATO-styled Middle Eastern defense alliance following its security agreement with [[pakistan|Pakistan]], with Israel cast as the bloc's presumptive adversary after the preceding week's strike on [[qatar|Qatar]].[46]
+
+## October 2023 delay of the Gaza ground invasion
+
+In late October 2023, US and Israeli officials told The Wall Street Journal that Israel had decided to further stall its planned ground invasion of Gaza at the request of Washington.[47] Airstrikes had been ramped up, pushing the reported Palestinian death toll past 6,500, but a ground assault had visibly been held back for several days, during which four hostages were freed through negotiations involving Qatari mediation with [[hamas|Hamas]].[47] The delay was attributed to the time required for the [[pentagon|Pentagon]] to put nearly a dozen additional air-defense systems in place across the region.[47]
+
+Commentary by [[burning-bright|Burning Bright]] in the [[badlands-news-brief|Badlands News Brief]] called the messaging incoherent: the public was told an imminent crisis demanded immediate action against terror cells, yet operations of a supposedly reactive, emergency nature were being postponed pending the right funding and sociopolitical climate.[47] He wrote that Israel's national "defense" had taken on "the tenor of MLB rain delays," that Ukraine's war had been forgotten, and that "the sequel to the War on Terror is far less convincing than the original."[47]
+
+## EU sanctions push and Gaza City bombardment (September 2025)
+
+In September 2025 Irish Deputy Prime Minister [[simon-harris|Simon Harris]] canvassed [[european-union|EU]] foreign ministers to co-sign a letter to bloc foreign policy chief [[kaja-kallas|Kaja Kallas]] urging a swift decision on sanctions against Israel over the Gaza conflict.[48] European Commission president [[ursula-von-der-leyen|Ursula von der Leyen]] had called the situation in Gaza "unacceptable," pledged to put bilateral support to Israel on hold and proposed partially freezing the EU–Israel free trade agreement; [[ireland|Ireland]], Spain, Sweden, Denmark and the Netherlands backed suspension while Germany, Hungary and the Czech Republic opposed sanctions.[48]
+
+On Monday, 15 September 2025, U.S. Secretary of State [[marco-rubio|Marco Rubio]] visited Jerusalem and told Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] that Israel could "count on our unwavering support" for its new Gaza City offensive and its goal of eradicating [[hamas|Hamas]].[48] Hours later witnesses described "heavy, relentless bombing on Gaza City" that levelled homes and trapped residents under rubble.[48] The visit came despite President [[donald-trump|Donald Trump]] having chided Israel a week earlier over air strikes on Hamas leaders in Qatar.[48]
+
+## UN resolutions and Arab world backlash (November 2023)
+
+In November 2023 the [[united-nations|United Nations]] passed multiple resolutions condemning Israel for alleged human rights violations while making no condemnation of [[hamas|Hamas]] or other groups, drawing criticism from the watchdog [[un-watch|UN Watch]], whose executive director Hillel Neuer called the eight lopsided condemnations an effort "to demonize the Jewish state," coming one month after the largest massacre of Jews since the Holocaust and on the 85th anniversary of Kristallnacht.[49] The UN's Second Committee passed three such resolutions, including one demanding Israel cease "exploitation, damage, cause of loss or depletion and endangerment" in the Golan Heights region of Syria.[49]
+
+In the same period, American diplomats across the Arab world warned the administration of [[joe-biden|Joe Biden]] that strong U.S. support for Israel's military campaign in [[gaza|Gaza]] "is losing us Arab publics for a generation," according to a cable from the US Embassy in [[oman|Oman]] obtained by CNN, which said Washington was "losing badly on the messaging battlespace" and that support for Israel's actions was being viewed as material and moral culpability in what contacts considered possible war crimes.[49] Israel's operations followed Hamas's October 7 attacks, which left over 1,400 Israelis dead.[49] The stopgap funding bill unveiled by House Speaker [[mike-johnson|Mike Johnson]] that same weekend notably contained no aid for Israel.[49]
+
+## October 2024: intelligence leak and regional isolation
+In October 2024, leaked top-secret U.S. documents describing Israel's preparations for an attack on Iran surfaced on a pro-Iranian Telegram channel, exposing sensitive American spying on a close ally and potentially disrupting Israel's planned retaliation for Iran's ballistic missile attack earlier that month.[50] The material included an alleged Visual Intelligence report from the Department of Defense's National Geospatial-Intelligence Agency stating that, per U.S. signals intelligence, the Israeli Air Force had conducted a large exercise involving intelligence planes and likely fighter jets trained for a possible strike on Iran; the FBI opened an investigation.[50]
+
+The same period saw Badlands argue that Israel's strategic position in the region had deteriorated. Writer GhostofBasedPatrickHenry contended that Benjamin Netanyahu's aim had been to bait the Arab world into attacking Israel, and cited IDF conduct in Gaza — including the firebombing of a refugee tent encampment outside the Al-Aqsa Martyrs Hospital in which the software-engineering student Sha'ban al-Dalou was burned alive — as evidence of deliberately severe optics.[50] With Arab states declining to respond militarily, and with Saudi Arabia moving toward first-ever joint naval exercises with Iran in the Red Sea, the commentary held that the strategy had backfired and left Israel's leadership isolated.[50]
+
+## Strike on Iran's embassy compound in Damascus (April 2024)
+
+On Monday, April 1, 2024, suspected Israeli warplanes bombed [[iran|Iran]]'s embassy in [[syria|Syria]] in a strike Iran said killed seven of its military advisers, including three senior commanders, marking a major escalation in Israel's war with its regional adversaries.[51] Reuters reporters saw emergency workers atop the rubble of a destroyed building inside the diplomatic compound in the Mezzeh district of Damascus, adjacent to the main embassy building.[51] Israel had long targeted Iran's military installations in Syria and those of its proxies, but the strike was the first time it hit the vast embassy compound itself.[51] Among the dead was [[mohammad-reza-zahedi|Mohammad Reza Zahedi]], a senior [[quds-force|Quds Force]] commander.[51] See [[2024-israeli-strike-on-iranian-embassy-in-damascus]].[51]
+
+## Pager and walkie-talkie operation in Lebanon (September 2024)
+
+On September 17 and 18, 2024, Israeli intelligence services detonated thousands of pagers and then thousands of two-way radios used by [[hezbollah|Hezbollah]] members in [[lebanon|Lebanon]], killing more than twenty people, including children, and wounding over 3,000 across the two waves.[52] The devices had been booby-trapped in advance and delivered to Hezbollah as part of the group's emergency communications system.[52] Badlands argued the operation was indiscriminate by design, since the operators could not know who was holding each device at the moment of detonation, and compared the campaign unfavorably to the mail bombings of [[ted-kaczynski|Ted Kaczynski]].[52] See [[2024-lebanon-pager-attacks|2024 Lebanon Pager and Walkie-Talkie Attacks]].
+
+Badlands also revisited the events of October 7, 2023, noting that despite Israel's demonstrated capacity for elaborate coordination, it took the Israeli government seven hours to mobilize a response to the invasion, in a society organized since 1948 around mandatory military service and preparation for exactly that scenario.[52] The commentary cited testimony from Israeli helicopter pilots and corroborating investigative reports indicating that military personnel were ordered to fire on Israeli citizens that day, killing hundreds.[52]
+
+## Gaza drawdown and the judicial overhaul ruling (January 2024)
+
+On January 1, 2024, the Israeli military announced it would begin withdrawing several thousand troops from the [[gaza|Gaza Strip]] at least temporarily — the most significant publicly announced reduction since the war with [[hamas|Hamas]] began — citing the growing toll of nearly three months of wartime mobilization on the Israeli economy, amid U.S. prodding to scale back.[53] Rear Admiral [[daniel-hagari|Daniel Hagari]] insisted the [[israeli-troop-withdrawal-from-gaza-2024|demobilization]] did not compromise the intention to fight until Hamas is destroyed, and indicated some troops would be recalled during 2024.[53]
+
+The same day, Israel's highest court struck down, by eight votes to seven, a central piece of the [[israeli-judicial-overhaul|judicial overhaul]] enacted in July 2023 under Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]], which would have removed the court's power to abrogate government decisions deemed "unreasonable in the extreme."[53] The ruling was expected to revive the political and social strife of the previous year, when hundreds of thousands of Israelis had protested weekly before the October 7 attack.[53]
+
+## June 2024 escalation on the Lebanon border
+
+In late June 2024, [[iran|Iran]]'s United Nations mission warned Israel that a "full-scale military aggression" in [[lebanon|Lebanon]] would produce an "obliterating war" involving all of its regional Resistance Fronts, and characterized Israeli threats against [[hezbollah|Hezbollah]] as psychological warfare and propaganda.[54] The border had seen daily exchanges of fire between Israeli forces and Hezbollah since the Gaza conflict began on October 7, and fears of a full-blown war grew after Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] said Israel was preparing for "a very tense operation" on the Lebanese border.[54] Israeli forces conducted a series of attacks on Hezbollah targets in southern Lebanon early on Saturday, June 29, according to an army spokesperson.[54]
+
+Foreign Minister [[israel-katz|Israel Katz]] replied directly to Tehran on X, writing that if Hezbollah did not cease fire and withdraw from southern Lebanon, "we will act against it with full force until security is restored and residents can return to their homes," and that "a regime that threatens destruction deserves to be destroyed."[54] Badlands commentary contrasted the exchange with the near-completion of a historic Saudi–Israeli peace deal in September 2023.[54]
+
+## April 18–19, 2024 Retaliatory Strike on Iran
+
+Late on Thursday, April 18, 2024, Israel launched what was widely reported as a retaliatory strike inside Iran, with three large explosions heard in Isfahan south of Tehran and unconfirmed simultaneous explosions reported in Syria and Iraq.[55] Bloomberg reported that Israeli officials had notified the United States earlier that day that they planned to retaliate within 24 to 48 hours, and CNN reported two US officials saying Israel had indicated it would not attack nuclear targets and that Washington had not "green lit" the operation.[55] Fox News reported the strikes came from unmanned aircraft and US officials described the IDF action as limited.[55] Iran said its nuclear facilities — including Natanz, located in Isfahan province — were unharmed, PressTV called the situation normal, and the Iran Space Agency dismissed the episode as "a failed and humiliating attempt by Israel aviation."[55] Markets sold off in initial panic before rebounding as the response was judged a token, scripted answer to Iran's own token barrage.[55] Burning Bright noted that Israel had apparently made good on media "predictive programming" analyzed all week, and relayed Just Human's suggestion that surgical strikes could force Benjamin Netanyahu to take out some of the monsters he had helped create.[55]
+
+## Escalation Origins and the Saudi Normalization Push
+
+The New York Times reported that Israel gave the United States only moments' notice before its April 1, 2024 airstrike on Iran's embassy complex in Syria, which killed several senior Iranian commanders; aides alerted Jake Sullivan, Jon Finer and Brett McGurk, and US officials privately expressed anger at the lack of consultation while voicing public support.[55] American officials concluded Israel had badly miscalculated in assuming Iran would not react strongly, a view shared by a senior Israeli official, before Iran's Saturday barrage of more than 300 drones and missiles did minimal damage.[55] Separately, the Biden administration pressed a long-shot deal under which Netanyahu would accept a new commitment to Palestinian statehood in exchange for diplomatic recognition by Riyadh, with Saudi Arabia offered a formal defense relationship, civil nuclear assistance and a renewed push for a Palestinian state.[55] US officials argued the multicountry effort that shot down Iran's missiles showed Israeli security could be enhanced through closer integration with Saudi Arabia.[55]
+
+## Strain on the high-tech sector during the Gaza War
+
+By mid-2024, Israel's technology industry — developed out of necessity given the country's lack of natural resources and regarded as the cornerstone of its economy — was under severe strain from the Gaza War.[56] Reporting by the Israeli outlet [[calcalist|Calcalist]] documented two principal causes: the conscription of tens of thousands of highly skilled tech workers as reservists into the IDF, and the uncertainty and disdain of foreign investors reluctant to fund an economy committed to prolonged conflict with neighboring Arab states.[56]
+
+A senior official at one international company operating in Israel was quoted saying, "We are becoming a pariah state, a hated country, and this trickles down to high-tech as well. Even our friends no longer want to be associated with Israeli technology."[56] More companies, including early-stage startups, began recruiting workers abroad to spread risk and preserve continuity during mass reserve call-ups.[56] [[fiverr|Fiverr]] chief executive [[micha-kaufman|Micha Kaufman]] was among the signatories of an industry letter to the Prime Minister and the Ministers of Finance and Economy warning against the flight of high-tech jobs overseas, sent amid escalation in the north and ahead of High Court deliberations on the ultra-Orthodox exemption from military service.[56]
+
+[[badlands-media|Badlands Media]] commentator [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] linked this crisis to [[jared-kushner|Jared Kushner]]'s [[affinity-partners|Affinity Partners]], funded largely by Saudi Arabia's [[public-investment-fund|Public Investment Fund]] and targeting the Israeli tech sector, arguing that Kushner and [[mohammed-bin-salman|Mohammed bin Salman]] anticipated the economic damage and that Saudi capital was indirectly propping up an Israeli economy whose leadership MBS was simultaneously branding as war criminals — part, in his reading, of a plan to save the Israeli people from their own government.[56]
+
+## Saudi F-35 sale and the Gaza stabilization force (November 2025)
+
+In November 2025, President [[donald-trump|Donald Trump]] announced he would approve the sale of [[f-35|F-35]] fighter jets to [[saudi-arabia|Saudi Arabia]], which would make the kingdom the first Middle Eastern state other than Israel to obtain the aircraft and would affect Israel's [[qualitative-military-edge|qualitative military edge]], a commitment Congress codified into law in 2008.[57] Israel did not oppose the sale but asked the Trump administration to condition it on Saudi normalization of relations with Israel — an item on the agenda for Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]]'s White House visit.[57] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] read Trump's willingness to proceed over Israeli objections as a sign of allegiance to the Arab states over Prime Minister Benjamin Netanyahu.[57]
+
+The same month, the [[united-nations-security-council|UN Security Council]] authorized an [[international-stabilization-force|international stabilization force]] for [[gaza|Gaza]] that is to work in close consultation with Israel and Egypt.[57] The same commentator argued that Turkish participation places the force under the [[nato|NATO]] umbrella, so that an IDF strike on ISF soldiers would put Israel at war with the United States and NATO.[57]
+
+## Patriot transfers to Ukraine and ICC pressure (June 2025)
+
+Israeli Ambassador to Kiev Mikhail Brodsky confirmed that Israel had quietly transferred US-made [[patriot-missile-system|Patriot]] air defense systems — deployed in Israel since the early 1990s — to [[ukraine|Ukraine]], contradicting the state's earlier insistence that it provided only humanitarian aid.[58] Israel had held to that position reportedly out of concern over provoking Russia, which maintains a naval facility and an airbase in neighboring Syria, and has said it seeks good relations with both Kiev and Moscow.[58] Russia's UN envoy Vassily Nebenzia had warned that such a transfer would carry "political consequences."[58]
+
+In the same period, reporting by Middle East Eye indicated that former British Prime Minister [[david-cameron|David Cameron]], as Foreign Secretary, had threatened to defund the [[international-criminal-court|ICC]] and withdraw the UK from the [[rome-statute|Rome Statute]] if Chief Prosecutor [[karim-khan|Karim Khan]] sought arrest warrants for Israeli leaders; the warrants for [[benjamin-netanyahu|Benjamin Netanyahu]] and [[yoav-gallant|Yoav Gallant]] were issued regardless.[58] Separately, Defense Minister [[israel-katz|Israel Katz]] ordered detained flotilla activists, including [[greta-thunberg|Greta Thunberg]], to be shown a 43-minute [[israel-defense-forces|IDF]] video of the October 7 atrocities.[58]
+
+## Reported US withdrawal-of-support warning (May 2025)
+
+As Israel intensified its offensive to take "total control" of [[gaza|Gaza]] in May 2025, The Washington Post reported that some of Israel's closest allies, including the United States, might withdraw support in the face of mass starvation in the enclave.[59] Citing an anonymous source familiar with the discussions, the paper said the [[trump-administration|Trump administration]] had warned [[benjamin-netanyahu|Benjamin Netanyahu]]'s government that failure to conclude the war would end American backing: "Trump's people are letting Israel know, 'We will abandon you if you do not end this war.'"[59] A US official denied the report.[59]
+
+The reported private pressure followed the surprise release of Israeli-American soldier Edan Alexander, secured through direct US–[[hamas|Hamas]] negotiations without Israeli involvement, and a public exclusion of Netanyahu from President [[donald-trump|Donald Trump]]'s Middle East tour of Arab states.[59]
+
+## References
+1. Badlands Brief — "And Iran, Iran So Far Away", URL: https://badlands.substack.com/p/and-iran-iran-so-far-away
+2. Badlands Brief — "Assad Day in Damascus", URL: https://badlands.substack.com/p/assad-day-in-damascus
+3. Badlands Brief — "Supreme Conflicts, Criminal Probes, & A Ceasefire", URL: https://badlands.substack.com/p/badlands-brief-07c
+4. Badlands Brief — "Mixed Gender Crews, Trafficking Stings, & Shadow Cabal Reruns", URL: https://badlands.substack.com/p/badlands-brief-029
+5. Badlands Brief — "Time is on Trump's Side ... But Which Regime is he Fighting?", URL: https://badlands.substack.com/p/badlands-brief-0fb
+6. Badlands Brief — "Mossad Bait & Labor Tackles", URL: https://badlands.substack.com/p/badlands-brief-0bd
+7. Badlands Brief — "Trump Conducts the Chaos as the Uniparty Concentrates Fire", URL: https://badlands.substack.com/p/badlands-brief-165
+8. Badlands Brief — "Moves and Countermoves", URL: https://badlands.substack.com/p/badlands-brief-095
+9. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
+10. Badlands Brief — "Conflicts, Cartels, & Clemency", URL: https://badlands.substack.com/p/badlands-brief-174
+11. Badlands Brief — "Elections are Fake; as is Trump's Friendship with Bibi", URL: https://badlands.substack.com/p/badlands-brief-25c
+12. Badlands Brief — "Spain Wins The [American] World Cup", URL: https://badlands.substack.com/p/badlands-brief-1c6
+13. Badlands Brief — "Jesus Walks", URL: https://badlands.substack.com/p/badlands-brief-282
+14. Badlands Brief — "Bioweapons Sneak Into the News Cycle as Israeli Shenanigans Ensue", URL: https://badlands.substack.com/p/badlands-brief-2c5
+15. Badlands Brief — "As Expected Energy Wars, 'Life Insurance', & Crazies Keeping Their Guns (Maybe)", URL: https://badlands.substack.com/p/badlands-brief-52f
+16. Badlands Brief — "Tina Peters' Sentence Commuted; ISIS Killed in Africa", URL: https://badlands.substack.com/p/badlands-brief-5a2
+17. Badlands Brief — "Mr. Nice Guy Leaves the Building (plus, Jewish Terrorism)", URL: https://badlands.substack.com/p/badlands-brief-625
+18. Badlands Brief — "Deliberate Discombobulation Driving Transformational Change", URL: https://badlands.substack.com/p/badlands-brief-6b4
+19. Badlands Brief — "The Bibi Break-Up Begins, As Does The IC Purge...", URL: https://badlands.substack.com/p/badlands-brief-6f0
+20. Badlands Brief — "Illegal Psychological Warfare Campaigns & Misprision of Treason", URL: https://badlands.substack.com/p/badlands-brief-6f4
+21. Badlands Brief — "Weapons Stockpiles & Bundt Cake Treason", URL: https://badlands.substack.com/p/badlands-brief-739
+22. Badlands Brief — "Entertaining Obstruction & Artificial Shadow Wars", URL: https://badlands.substack.com/p/badlands-brief-7bf
+23. Badlands Brief — "War Weaves & Midterm Maxis", URL: https://badlands.substack.com/p/badlands-brief-884
+24. Badlands Brief — "Trump Springs His Trap as the Deep State Gets Desperate", URL: https://badlands.substack.com/p/badlands-brief-8c2
+25. Badlands Brief — "Nazi-Related Cover Ups & Formerly Secret Treason", URL: https://badlands.substack.com/p/badlands-brief-9ac
+26. Badlands Brief — "A Politician is Swallowelled Whole as the Middle East Realigns in Real Time", URL: https://badlands.substack.com/p/badlands-brief-9ea
+27. Badlands Brief — "Floridian Terror Boats, Venezuelan Deck Chairs, & the War on Fraud", URL: https://badlands.substack.com/p/badlands-brief-861
+28. Badlands Brief — "Weaponization Woes & Bailing on the Bromance", URL: https://badlands.substack.com/p/badlands-brief-774
+29. Badlands Brief — "There is “Nothing Bigger” Than Tonight’s Election Speech", URL: https://badlands.substack.com/p/badlands-brief-98d
+30. Badlands Brief — "Peaceful Retaliations, Futuristic Fusions and Based Puritans", URL: https://badlands.substack.com/p/badlands-brief-bb1
+31. Badlands Brief — "The Reckoning of Fake Elections, Fake Wars and Fake Allies", URL: https://badlands.substack.com/p/badlands-brief-b62
+32. Badlands Brief — "A Communist Uprising & A Globalist Humiliation Ritual", URL: https://badlands.substack.com/p/badlands-brief-b56
+33. Badlands Brief — "13 Germans, A Seized Smartwatch, & An American Tithe's Worth of Fraud", URL: https://badlands.substack.com/p/badlands-brief-c07
+34. Badlands Brief — "Earned Deportations, Irish Knife Fights, & the Eventual "Liberation" of Jerusalem", URL: https://badlands.substack.com/p/badlands-brief-e9e
+35. Badlands Brief — "Sovereign Signals, Israeli Subversion, and the SAVE America Ultimatum", URL: https://badlands.substack.com/p/badlands-brief-f62
+36. Badlands Brief — "The Dye's Been Cast Out. The Round Table is Set.", URL: https://badlands.substack.com/p/badlands-news-brief-065
+37. Badlands Brief — "Lavish Courtships, Extremely Strong Relations, & Fake Election Rituals", URL: https://badlands.substack.com/p/badlands-news-brief-02f
+38. Badlands News Brief — "The Walz Cycle Consumes Itself as Tensions Pause", URL: https://badlands.substack.com/p/badlands-news-brief-0ad
+39. Badlands Media — "Badlands News Brief: Biden Bungles Rafah as Trump Trials Collapse", URL: https://badlands.substack.com/p/badlands-news-brief-0c1
+40. Badlands Brief — "Badlands News Brief: Trump and Elon Break the Internet", URL: https://badlands.substack.com/p/badlands-news-brief-109
+41. Badlands News Brief — "New York Insurrection, A Rapturous Reception, & Lying Tools", URL: https://badlands.substack.com/p/badlands-news-brief-0b0
+42. Badlands Brief — "Badlands News Brief: Draft Dodgers, Peacemakers & Warmongers Galore!", URL: https://badlands.substack.com/p/badlands-news-brief-0db
+43. Badlands Brief — "Fake News Attempts to Provoke Real Wars", URL: https://badlands.substack.com/p/badlands-news-brief-13f
+44. Badlands Brief — "Badlands News Brief: Middle Eastern Powder Kegs & Crisis Cascades Abound", URL: https://badlands.substack.com/p/badlands-news-brief-158
+45. Badlands Brief — "Badlands News Brief: IC Ignitions & Double Detonations", URL: https://badlands.substack.com/p/badlands-news-brief-1a0
+46. Badlands Brief — "Badlands News Brief: International Antifa, Hezbollah Strongholds, & Nuclear Options", URL: https://badlands.substack.com/p/badlands-news-brief-1c3
+47. Badlands News Brief — "Terror at Home and Abroad ...", URL: https://badlands.substack.com/p/badlands-news-brief-1d1
+48. Badlands Brief — "Badlands News Brief: Military in Memphis & Patrols in Poland", URL: https://badlands.substack.com/p/badlands-news-brief-1ed
+49. Badlands Brief — "Badlands News Brief: Narrative Shielding & Biden Bait", URL: https://badlands.substack.com/p/badlands-news-brief-204
+50. Badlands Brief — "Badlands News Brief: Abercreepy Elites Versus Sovereign Alliance Alpha Chads", URL: https://badlands.substack.com/p/badlands-news-brief-27c
+51. Badlands News Brief — "Trump Counters, Musk Sues & Biden Lies", URL: https://badlands.substack.com/p/badlands-news-brief-2db
+52. Badlands News Brief — "Israel Strikes Again as The FED Pivots", URL: https://badlands.substack.com/p/badlands-news-brief-2f2
+53. Badlands Brief — "Badlands News Brief: Hypocrisy Roundup & Rug-pulls Galore", URL: https://badlands.substack.com/p/badlands-news-brief-378
+54. Badlands Brief — "The Old Guard Braces for Impact as Panic Spreads", URL: https://badlands.substack.com/p/badlands-news-brief-447
+55. Badlands Brief — "Israel Goes Hot (or Not?) as the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-4b3
+56. Badlands Brief — "Polling Paradoxes, Hegelian Seeding & Putin's Gambit", URL: https://badlands.substack.com/p/badlands-news-brief-565
+57. Badlands Brief — "Badlands News Brief: Democracy Shields, Entitled Foreigners, & Epstein's Boomerang", URL: https://badlands.substack.com/p/badlands-news-brief-582
+58. Badlands Brief — "Badlands News Brief: Mandatory Deprogramming & Military Parades", URL: https://badlands.substack.com/p/badlands-news-brief-574
+59. Badlands News Brief — "The Bilateral Bromance & A Misled Grand Jury", URL: https://badlands.substack.com/p/badlands-news-brief-7bf

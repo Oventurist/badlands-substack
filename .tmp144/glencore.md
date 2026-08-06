@@ -1,0 +1,3 @@
+## Alleged link to the cartel campaign (2025)
+
+Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote in August 2025 that his own research had led him to conclude that [[donald-trump|Donald Trump]] and [[nicolas-maduro|Nicolás Maduro]] were both targeting the same corrupt corporate executives at the world's most powerful commodity trading firms, naming Glencore as an example.[{n}] He contrasted the prosecution of former Glencore CEO Alex Beard with the far larger undertaking of dismantling all of the Central American cartels at once, which reporting two weeks earlier suggested Trump was preparing to pursue with the U.S. military.[{n}]

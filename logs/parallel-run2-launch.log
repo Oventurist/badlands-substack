@@ -1,0 +1,57 @@
+[09:38:55] worker1: claimed a-time-to-strike.md
+[09:38:55] worker6: claimed a-virus-or-a-metaphor.md
+[09:38:55] worker4: claimed a-week-to-remember.md
+[09:38:55] worker5: claimed ai-can-help-us-expose-the-nwo.md
+[09:38:55] worker2: claimed america-for-sale-part-1.md
+[09:38:56] worker0: claimed america-for-sale-part-2.md
+[09:38:56] worker7: claimed america-has-a-cia-run-economy.md
+[09:38:56] worker11: claimed america-for-sale-part-3.md
+[09:38:56] worker3: claimed americas-greatest-threat.md
+[09:38:56] worker9: claimed an-sos-from-ground-zero.md
+[09:38:56] worker8: claimed and-iran-iran-so-far-away.md
+[09:38:56] worker10: claimed anthony-fauci.md
+[09:39:23] STATUS: done=0 failed=0 finished=0/12
+[09:39:53] STATUS: done=0 failed=0 finished=0/12
+[09:40:23] STATUS: done=0 failed=0 finished=0/12
+[09:40:53] STATUS: done=0 failed=0 finished=0/12
+[09:41:23] STATUS: done=0 failed=0 finished=0/12
+[09:41:53] STATUS: done=0 failed=0 finished=0/12
+[09:42:23] STATUS: done=0 failed=0 finished=0/12
+[09:42:53] STATUS: done=0 failed=0 finished=0/12
+[09:43:12] worker2: FAIL america-for-sale-part-1.md in 256s rc=1 report=None cited=24 rate_limit=False backoff=30s
+[09:43:12]   stderr: 
+[09:43:12]   stdout tail: 
+[09:43:12] worker0: FAIL america-for-sale-part-2.md in 256s rc=1 report=None cited=20 rate_limit=False backoff=30s
+[09:43:12]   stderr: 
+[09:43:12]   stdout tail: 
+[09:43:12] worker6: FAIL a-virus-or-a-metaphor.md in 257s rc=1 report=None cited=18 rate_limit=False backoff=30s
+[09:43:12] worker5: FAIL ai-can-help-us-expose-the-nwo.md in 256s rc=1 report=None cited=28 rate_limit=False backoff=30s
+[09:43:12]   stderr: 
+[09:43:12]   stdout tail: 
+[09:43:12]   stderr: 
+[09:43:12]   stdout tail: 
+[09:43:12] worker4: FAIL a-week-to-remember.md in 256s rc=1 report=None cited=22 rate_limit=False backoff=30s
+[09:43:12]   stderr: 
+[09:43:12]   stdout tail: 
+[09:43:12] worker7: FAIL america-has-a-cia-run-economy.md in 256s rc=1 report=None cited=22 rate_limit=False backoff=30s
+[09:43:13]   stderr: 
+[09:43:13]   stdout tail: 
+[09:43:13] worker1: FAIL a-time-to-strike.md in 257s rc=1 report=None cited=12 rate_limit=False backoff=30s
+[09:43:13]   stderr: 
+[09:43:13]   stdout tail: 
+[09:43:13] worker3: FAIL americas-greatest-threat.md in 256s rc=1 report=None cited=5 rate_limit=False backoff=30s
+[09:43:13]   stderr: 
+[09:43:13]   stdout tail: 
+[09:43:13] worker11: FAIL america-for-sale-part-3.md in 256s rc=1 report=None cited=20 rate_limit=False backoff=30s
+[09:43:13]   stderr: 
+[09:43:13]   stdout tail: 
+[09:43:13] worker9: FAIL an-sos-from-ground-zero.md in 256s rc=1 report=None cited=14 rate_limit=False backoff=30s
+[09:43:13] worker8: FAIL and-iran-iran-so-far-away.md in 255s rc=1 report=None cited=2 rate_limit=False backoff=30s
+[09:43:13]   stderr: 
+[09:43:13]   stderr: 
+[09:43:13]   stdout tail: 
+[09:43:13]   stdout tail: 
+[09:43:13] worker10: FAIL anthony-fauci.md in 255s rc=1 report=None cited=1 rate_limit=False backoff=30s
+[09:43:13]   stderr: 
+[09:43:13]   stdout tail: 
+DRIVER_EXIT=1

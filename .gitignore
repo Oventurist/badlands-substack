@@ -8,6 +8,12 @@ cache/
 # hermes runtime
 wiki/.processed.txt
 wiki/.inprogress-*
+# parallel-rebuild runtime state (not source content)
+wiki/.quarantine.txt
+wiki/.page-locks/
+scripts/.parallel-ingest.lock
+scripts/.failure-watchdog.state
+scripts/.rate-limit-cooldown
 # third-party scraper (re-clone: git clone https://github.com/<repo>/Substack2Markdown)
 scripts/Substack2Markdown/
 # Obsidian local config (window state, UI prefs — machine-local)

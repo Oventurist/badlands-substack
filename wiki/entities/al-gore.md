@@ -1,0 +1,32 @@
+---
+title: Al Gore
+created: 2026-08-06
+updated: 2026-08-06
+type: entity
+tags: [politics, climate, democrats]
+sources: [raw/badlands-news-brief-065.md, raw/badlands-news-brief-46e.md]
+confidence: medium
+---
+
+# Al Gore
+
+Al Gore is a former Vice President of the United States and a prominent climate-change advocate.[1]
+
+## April 2025 Nazi Germany comparison
+
+Speaking on 21 April 2025 at an event opening San Francisco's Climate Week, Gore compared the second [[donald-trump|Trump]] administration to Nazi Germany and issued what Politico described as a dire warning about the president's use of power.[1] Gore said the administration was "trying to create their own preferred version of reality" in pursuit of sweeping objectives, likening the effort to Adolf Hitler's Nazi Party in the 1930s and 1940s.[1]
+
+Addressing an audience of roughly 150 climate advocates and policymakers at a science museum on the San Francisco waterfront, Gore acknowledged the sensitivity of the analogy: "I understand very well why it is wrong to compare Adolf Hitler's Third Reich to any other movement. It was uniquely evil, full stop. I get it. But there are important lessons from the history of that emergent evil."[1] His remarks followed a series of sharp attacks on the administration by Democratic Party luminaries and former officeholders in the preceding weeks.[1]
+
+## Badlands commentary
+
+Badlands contributor [[chris-paul|Chris Paul]] responded tersely, noting the irony of "climate change guy" accusing the Trump side of having constructed a false reality.[1]
+
+## Davos 2023 climate speech
+
+At the [[world-economic-forum|World Economic Forum]]'s January 2023 meeting in Davos, Gore delivered an impassioned climate address in which he asserted that greenhouse gas emissions were trapping heat equivalent to "600,000 Hiroshima bombs daily."[2] ZeroHedge characterised the performance as an attempt at Gore's own "Greta moment" and as an "unhinged Davos rant."[2] [[badlands-media|Badlands]] contributor [[burning-bright|Burning Bright]] placed the speech within a pattern of increasingly aggressive rhetoric from Davos figures responding to public backlash against collectivist policy, remarking that Gore and his cronies did "protest too much."[2]
+
+## References
+
+1. Badlands Brief — "The Dye's Been Cast Out. The Round Table is Set.", URL: https://badlands.substack.com/p/badlands-news-brief-065
+2. Badlands Brief — "Badlands News Brief: Globalist Rage, Biden Docs & Hockey Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-46e

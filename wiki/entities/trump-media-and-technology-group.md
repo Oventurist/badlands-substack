@@ -1,0 +1,75 @@
+---
+title: Trump Media and Technology Group
+created: 2026-08-06
+updated: 2026-08-06
+type: entity
+tags: [media, dwac, trump, sec]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-7c0.md, raw/badlands-brief-e3b.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7e0.md]
+confidence: low
+---
+
+# Trump Media and Technology Group
+
+Trump Media is [[donald-trump|Donald Trump]]'s media venture, parent of [[truth-social|Truth Social]], and the subject of the blocked merger [[erik-carlson|Erik Carlson]] cites in *A Virus, or a Metaphor?*[[1]](https://badlands.substack.com/p/a-virus-or-a-metaphor)
+
+## The DWAC merger
+
+Carlson writes that the [[securities-and-exchange-commission|SEC]] took the unprecedented step of holding up the merger between DWAC — the special-purpose acquisition company Digital World Acquisition Corp — and Trump Media, keeping Trump from growing his media operation, including injecting money into Truth Social.[[1]](https://badlands.substack.com/p/a-virus-or-a-metaphor)
+
+He offers this as one of a series of rhetorical questions intended to show that Trump has not profited from the presidency: his net worth went down after becoming POTUS, his media venture was obstructed by regulators, and the whole of the mainstream press demonizes him.[[1]](https://badlands.substack.com/p/a-virus-or-a-metaphor)
+
+## April 2026 leadership change
+
+In April 2026 the company announced that chief executive and chairman [[devin-nunes|Devin Nunes]] was departing to concentrate on his role with the [[presidents-intelligence-advisory-board|President's Intelligence Advisory Board]].[2] Trump Media confirmed on a Tuesday that veteran executive [[kevin-mcgurn|Kevin McGurn]] would assume interim leadership of the company.[2] Nunes had come to the role after serving as chairman and later ranking member of the House Intelligence Committee, where he led oversight of the intelligence agencies and challenged the FBI's Russia investigation into [[donald-trump|Donald Trump]].[2]
+
+## Fusion energy venture (2026)
+
+TMTG and [[tae-technologies|TAE Technologies]] launched a site selection process for a pioneering 50 MWe commercial fusion power plant, with construction planned to begin in 2026 following the closure of their $6 billion all-stock merger.[3] The project would deploy TAE's beam-driven fusion technology, promising safe, carbon-free electricity and industrial heat without meltdown risk, long-lived radioactive waste or proliferation concerns, and is pitched as positioning the United States to meet surging power demand, lower energy costs and lead in AI development.[3]
+
+Candidate sites must span at least 20 acres with grid access, proximity to metropolitan areas and talent pools, supportive local governments and robust security, with future expansions envisioning 350–500 MWe reactors.[3] TMTG chief executive [[devin-nunes|Devin Nunes]] described the effort as steps toward an "American energy renaissance," while TAE chief executive [[michl-binderbauer|Michl Binderbauer]] highlighted fusion's momentum amid growing electricity needs; upon merger completion in mid-2026, pending approvals, the two are to serve as co-CEOs of the combined entity.[3] [[burning-bright|Burning Bright]] framed the venture as an inversion of the original Manhattan Project and evidence for his thesis that nuclear fusion is the key to a promised Age of Abundance.[3]
+
+## July 2024 put option controversy
+
+In July 2024, investment firm [[austin-private-wealth|Austin Private Wealth LLC]] denied claims that it had placed a massive put option on Trump Media & Technology Group stock the day before the [[attempted-assassination-of-donald-trump-2024|attempted assassination of Donald Trump]], asserting that the filing had been a "clerical error."[4] Writer and researcher Josh Walkos highlighted a filing dated 12 July 2024 that appeared to show the firm had "shorted 12,000,000 shares of $DJT via a put option," noting it was by far the largest put placed by a firm with roughly $1 billion in assets under management.[4] A put option is effectively a bet that the asset's price will fall, an outcome that would almost certainly have followed had [[donald-trump|Trump]] been killed.[4] A Bloomberg terminal screenshot showed the contract subsequently disappearing from the record, and the company amended its filings on 16 July 2024 with the put removed.[4]
+
+## Public listing and Trump's net worth (March 2024)
+
+News that TMTG would be traded publicly broke on March 25, 2024, the same day an appeals court reduced the bond [[donald-trump|Donald Trump]] had to post in his New York civil fraud case; commentary estimated the listing would increase Trump's personal wealth by about $6.5 billion.[5]
+
+## DWAC shareholder merger vote (March 2024)
+
+Shareholders in [[digital-world-acquisition-corp|Digital World Acquisition Corp.]] voted on Friday, March 22, 2024 to approve the merger with Trump Media and Technology Group, a deal reported as capable of netting the former president an eventual windfall of $3 billion or more.[6] The vote came roughly two and a half years after the special purpose acquisition company first announced plans to merge with the private firm that owns the [[truth-social|Truth Social]] platform.[6] It also came as Trump faced the prospect of New York Attorney General [[letitia-james|Letitia James]] beginning collection efforts the following Monday on a $454 million civil fraud judgment against him.[6] Shares in the newly combined company were expected to begin public trading the following week under the ticker symbol DJT, Trump's initials.[6]
+
+Badlands contributor [[burning-bright|Burning Bright]] called the DWAC–TMTG merger and its DJT ticker "one of the most based 5D chess moves made in the Info War so far," arguing that the American public would now be able to become literal shareholders in an ideology and thereby directly invested in the country's direction, and that adding financial FOMO to the ongoing America First culture swing would make things "MAGAbolic."[6]
+
+## DJT ticker debut and the civil fraud bond
+
+Badlands writer [[ashe-in-america|Ashe in America]] linked the company's market debut to [[donald-trump|Donald Trump]]'s legal finances in late March 2024, noting that Trump Media shares surged more than 50 percent following the DJT ticker debut and that Trump planned to pay the reduced $175 million appeal bond in the [[new-york-civil-fraud-trial|New York civil fraud case]] in cash.[7]
+
+## Fusion merger with TAE Technologies
+
+On Thursday, December 18, 2025, Trump Media & Technology Group and fusion energy developer [[tae-technologies|TAE Technologies]] announced an all-stock merger valued at more than $6 billion, creating a publicly traded company focused on nuclear fusion power, with shareholders of each company expected to hold roughly 50 percent of the combined entity on a fully diluted basis.[8] Trump Media agreed to provide up to $200 million in cash at signing, plus an additional $100 million upon the initial filing of merger documents with the [[securities-and-exchange-commission|Securities and Exchange Commission]].[8] Chairman and chief executive [[devin-nunes|Devin Nunes]] and TAE chief executive Dr. [[michl-binderbauer|Michl Binderbauer]] are expected to serve as co-CEOs.[8]
+
+The combined entity will retain Trump Media's platforms, including [[truth-social|Truth Social]], alongside TAE Power Solutions and TAE Life Sciences, and the companies plan to select a site in 2026 and begin construction on a 50-megawatt utility-scale fusion plant, with 350–500 megawatt facilities to follow; closing is expected in mid-2026 pending shareholder and regulatory approvals.[8] The transaction is treated in detail at [[trump-media-tae-technologies-fusion-merger|Trump Media–TAE Technologies fusion merger]].[8]
+
+### Lawsuit against Alexandre de Moraes
+In February 2025 Trump Media and Technology Group sued Brazilian Supreme Court Justice Alexandre de Moraes in U.S. federal court in Florida, according to a New York Times report relayed by Reuters.[9] The video-sharing platform Rumble was also a plaintiff in the lawsuit, which accused the judge of illegally censoring political discourse.[9] Badlands commentary asked whether the suit would bring to light the extent to which the Biden administration supported Brazilian government censorship.[9]
+
+## Defamation lawsuit against 20 media outlets (November 2023)
+
+On Monday, November 20, 2023, TMTG filed a lawsuit in the 12th Judicial Court of Sarasota County, Florida, against 20 media organisations over what it called "reckless and malicious" defamatory statements about the company's financial losses.[10] The complaint alleged the outlets falsely reported that the company had lost $73 million since the launch of [[truth-social|Truth Social]], describing the coverage as "an unprecedented and seemingly coordinated media campaign" and part of a "seemingly coordinated effort to destroy TMTG and Truth Social."[10] According to the filing, "this number was an utter fabrication," with each defendant "in apparent coordination" reporting the same figure within roughly 24 hours of one another while citing a public [[securities-and-exchange-commission|Securities and Exchange Commission]] filing "in which the mystery $73 million loss appears nowhere."[10]
+
+[[burning-bright|Burning Bright]] of [[badlands-media|Badlands Media]] noted that X, Truth Social, [[rumble|Rumble]] and the State of Texas all announced major defamation and free speech lawsuits against legacy media outlets on the same day, exactly one year before the 2024 election, treating the convergence as evidence of a coordinated plan.[10]
+
+## References
+
+1. Badlands Brief — "A Virus, or a Metaphor?", URL: https://badlands.substack.com/p/a-virus-or-a-metaphor
+2. Badlands Brief — "Games of Chicken, Spirit Fails, & Rampant Satanism", URL: https://badlands.substack.com/p/badlands-brief-7c0
+3. Badlands Brief — "Mad-Lad Maduro, Media Meltdowns & Weapons of the Future", URL: https://badlands.substack.com/p/badlands-brief-e3b
+4. Badlands Brief — "Trump Transforms as Biden Goes Into Hiding", URL: https://badlands.substack.com/p/badlands-news-brief-19b
+5. Badlands Media — "Badlands News Brief: Irregular Warfare, Washington & So Much Winning", URL: https://badlands.substack.com/p/badlands-news-brief-18e
+6. Badlands Media — "Badlands News Brief: Horse Paste & A Couple of Bloodbaths", URL: https://badlands.substack.com/p/badlands-news-brief-47f
+7. Badlands Brief — "Badlands News Brief: Dali, Diddy & DJT", URL: https://badlands.substack.com/p/badlands-news-brief-491
+8. Badlands Brief — "Fusion Mergers & Fusion-Adjacent Murders", URL: https://badlands.substack.com/p/badlands-news-brief-60c
+9. Badlands Brief — "Trump Teases Saudi Trillions; Biden Bros Embezzled Billions", URL: https://badlands.substack.com/p/badlands-news-brief-745
+10. Badlands Brief — "Badlands News Brief: The Deep State Death Spiral Has Only Just Begun", URL: https://badlands.substack.com/p/badlands-news-brief-7e0

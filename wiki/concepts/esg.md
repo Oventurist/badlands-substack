@@ -1,0 +1,51 @@
+---
+title: ESG (Environmental, Social and Governance) Scores
+created: 2026-08-06
+updated: 2026-08-06
+type: concept
+tags: [esg, corporatocracy, finance, woke-capital]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-70d.md, raw/badlands-news-brief-7a7.md]
+confidence: low
+---
+
+# ESG (Environmental, Social and Governance) Scores
+
+**ESG scores** — ratings of corporate performance on environmental, social and governance criteria — are treated in "AI Can Help Us Expose the NWO" as a coercive instrument within the [[corporatocracy|corporatocracy]] rather than as a neutral measurement system.[[1]](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo) [[justin-deschamps|Justin Deschamps]] instructed ChatGPT to implement the strategic, operational and tactical use of ESG scores within the corporatocracy as they align with the [[new-world-order|New World Order]], and later to be specific about how the environmental component works with the [[climate-change-narrative|climate change narrative]] while the social and governance components work with [[queer-theory|Queer Theory]], [[critical-race-theory|Critical Race Theory]] and other ideologies.[[1]](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo)
+
+## Functions in the synthesised plan
+
+In the model's final synthesis, ESG scores appear at nearly every level of the [[global-harmony-consortium|Global Harmony Consortium]]'s campaign.[[1]](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo) They reward organisations that promote secular and globalist values, thereby reinforcing a message of moral relativism and undermining traditional moral principles and religious teachings.[[1]](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo) They reward companies that promote contraception and population control, aligning corporate behaviour with an agenda of sexual liberation and reduced reproduction.[[1]](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo) They pressure corporations into aligning with social-justice ideologies that emphasise collective rights and group identity over individual freedoms, gradually eroding the concept of individual rights.[[1]](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo)
+
+They are also described as a lever on movements and workplaces: organisations advocating gender equality and the deconstruction of traditional family roles are rewarded, subtly encouraging dissolution of the family unit, while incentives for supporting women in the workplace foster career-focused individualism.[[1]](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo) During the pandemic period, ESG pressure is said to have pushed corporations to support policies prioritising collective safety over individual rights, with [[covid-mandates|COVID mandates]] presented as necessary for the greater good.[[1]](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo)
+
+Summarising, the model names "ESG Scoring as a Warfare Tool," describing environmental scores as pushing climate change policies and reinforcing the climate narrative, while social and governance scores reward organisations and governments that align with Queer Theory and CRT.[[1]](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo)
+
+## Decline after the 2024 election
+
+By November 2024 commentators were describing ESG as effectively dead, with the incoming administration of [[donald-trump|Donald Trump]] expected to formalise its demise.[2] A Bloomberg opinion piece by John Authers argued that Trump would "bury" ESG once and for all, noting that in the United States environmental, social and governance investing had suffered a sharp downturn, falling victim to political polarization and failing to deliver on its promises.[2] Originally aimed at promoting sustainable and ethical business practices, ESG became embroiled in the culture wars and faced retreat as American priorities shifted toward a more nationalist, even mercantilist, approach to economics.[2]
+
+Conservative leaders demonized the term to the point that prominent figures such as [[blackrock|BlackRock]] chief executive [[larry-fink|Larry Fink]] abandoned it, calling the label "weaponized"; BlackRock, once a leading advocate of ESG, became a conservative target associated with identity politics.[2]
+
+### Badlands framing
+
+[[ashe-in-america|Ashe in America]], writing in the [[badlands-news-brief|Badlands News Brief]], described ESG as "a subversive globalist control framework that seeks to undermine nation state interests in favor of 'the planet'" — in her words, global corporate communism that had enjoyed a good ten-year run since the UN Millennium Goals of 2015.[2] She traced the lineage from those goals to the [[sustainable-development-goals|Sustainable Development Goals]] and to the appearance of global communism in US elementary school classrooms, arguing that globalists wanted children raised as good global citizens while parents and educators who resisted felt they were screaming into the void.[2] She predicted ESG and the SDGs would be remembered as "that failed season" of global communism and studied as a cautionary tale about outsourcing national sovereignty, forecasting eighteen wild months as the subversive bureaucracy was ripped out by its roots.[2]
+
+## Industry pushback from Saudi Aramco (February 2023)
+
+In February 2023 the chief executive of [[saudi-aramco|Saudi Aramco]], [[amin-nasser|Amin Nasser]], told the Saudi Capital Markets Forum that ESG investment, if outright biased against the oil and gas industry, is a threat to energy affordability and energy security.[3] Nasser said ESG was clearly a rising trend in capital markets and that increased emphasis on it was a move in the right direction, but warned that policies applied with an automatic bias against all conventional energy projects would cause underinvestment with serious implications for the global economy, energy affordability and energy security, and that the sector's cost of capital had already risen because of ESG-driven risk perceptions.[3]
+
+Writing in the [[badlands-news-brief|Badlands News Brief]], [[patriots-in-progress|Patriots in Progress]] described ESG as one of the latest measurement standards used as a hammer to force globalist and woke agendas on the public under the guise of protection and safety.[3] Where implemented, the standard is used to track and score individuals, corporations and nations against behaviours desired by entities such as the [[united-nations|United Nations]] and the [[world-economic-forum|World Economic Forum]], with scores determining rewards such as carbon credits to sell and punishments such as shareholder divestment in order to incentivise compliance.[3] The contributor argued that while ESG was obtaining some increasing measure of what he called nonbeneficial compliance, it was also causing untold damage and hardship worldwide in the form of energy shortages, supply chain disruptions and price increases.[3] He added that Aramco's intervention was all the more intriguing given that Saudi Arabia was likely to join [[brics|BRICS]] in 2023, further threatening the [[petrodollar|petrodollar]]'s global reserve status.[3]
+
+## Consumer boycotts and legal strategy (June 2023)
+
+By June 2023, conservative groups argued that consumer boycotts against "woke" corporations such as [[target|Target]] and [[anheuser-busch-inbev|Anheuser-Busch]] were the key to reversing race, gender and environmental activism in corporate America, because customers ditching companies pushing left-wing policies gave those groups the traction needed to fight them legally.[4] [[scott-shepard|Scott Shepard]], a fellow at the [[national-center-for-public-policy-research|National Center for Public Policy Research]] and director of its [[free-enterprise-project|Free Enterprise Project]], told The Epoch Times the tide was turning: "We're seeing something very different this time. Because it's not just the conservatives, who are always interested in this sort of thing, it's the whole country."[4]
+
+Shepard argued that ESG, which started as guidelines, had turned into heavy-handed mandates advancing controversial "social justice" ideologies, and that a potential breach of fiduciary responsibility to shareholders would expose businesses to legal action of the kind his organization had already initiated.[4] Badlands contributor [[johnny-q|Johnny Q]] framed the trend as proof that purchasing power works, citing backlash against [[bud-light|Bud Light]], Target and Kohl's over what he described as the hypersexualization pushed on children, and calling the phenomenon an instance of cancel culture cancelling itself.[4]
+
+The retreat extended to corporate communications: [[breitbart|Breitbart]] quoted a June 12, 2023 Wall Street Journal report finding that "finance chiefs and other executives have significantly quieted down in public settings about their environmental and employee diversity efforts."[4] [[ashe-in-america|Ashe in America]] read the silence on shareholder calls as the strongest available evidence that consumer boycotts were affecting corporate bottom lines more than previously reported.[4]
+
+## References
+1. Badlands Brief — "AI Can Help Us Expose the NWO", URL: https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo
+2. Badlands Brief — "Badlands News Brief: MAHA Begins as ESG Dies", URL: https://badlands.substack.com/p/badlands-news-brief-299
+3. Badlands Brief — "Badlands News Brief: Firing Squads, Purebloods and Woke's Decline", URL: https://badlands.substack.com/p/badlands-news-brief-70d
+4. Badlands Brief — "Badlands News Brief: Trump Defiant, Biden Protected & Woke Worn", URL: https://badlands.substack.com/p/badlands-news-brief-7a7

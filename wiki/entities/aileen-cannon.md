@@ -1,0 +1,83 @@
+---
+title: Aileen Cannon
+created: 2026-08-06
+updated: 2026-08-06
+type: entity
+tags: [judiciary, federal-courts, florida, trump]
+sources: [raw/badlands-brief-abf.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-365.md, raw/badlands-news-brief-6bc.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-855.md, raw/badlands-news-brief-89f.md]
+confidence: medium
+---
+
+# Aileen Cannon
+
+Aileen Cannon is a United States district judge serving on the US District Court for the Southern District of Florida.[1]
+
+## Sentencing of Ryan Wesley Routh
+
+On February 4, 2026, Cannon sentenced [[ryan-wesley-routh|Ryan Wesley Routh]] to life in prison plus seven years, following his conviction on charges that included attempted assassination of a presidential candidate and firearms offenses.[1] The attempted assassination occurred during the 2024 campaign, in September 2024, at [[donald-trump|President Donald Trump]]'s Florida golf course.[1]
+
+## Context
+
+Badlands commentary placed the sentencing within a wider survey of federal district court activity during the second Trump administration, a period in which contributor [[ashe-in-america|Ashe in America]] argued the lower federal courts had been broadly hostile to the president while occasionally issuing rulings in his favor.[1]
+
+
+## Order Blocking the Smith Report (January 2025)
+
+In January 2025 Judge Aileen Cannon issued an order temporarily blocking release of the final report that Special Counsel [[jack-smith|Jack Smith]] had submitted to [[department-of-justice|Justice Department]] leaders, with the ban on disclosure running through Monday, January 13.[2] Department officials urged her not to extend the order, contending that it overstepped her authority and that she had no power to prevent Attorney General [[merrick-garland|Merrick Garland]] from releasing the findings.[2] Word of Smith's resignation came in a footnote to that filing.[2]
+
+## Ruling on Jack Smith's appointment
+
+Cannon ruled that Special Counsel [[jack-smith|Jack Smith]] had been unlawfully appointed and that [[donald-trump|Donald Trump]] enjoyed immunity regardless, a decision Badlands commentary paired with the Supreme Court's immunity ruling as the legal groundwork for Trump's August 2024 move to sue the [[department-of-justice|Justice Department]] for $100 million over the [[mar-a-lago-raid|Mar-a-Lago raid]].[3]
+
+## The SCIF filing
+
+Judge Cannon received the August 14, 2023 filing in which prosecutors for special counsel [[jack-smith|Jack Smith]] objected to [[donald-trump|Donald Trump]]'s request for a dedicated [[sensitive-compartmented-information-facility|SCIF]] in which to discuss classified discovery with his lawyers, arguing the accommodation was unsupported by law or precedent.[4]
+
+## March 2024 rulings on Trump's motions to dismiss
+
+At a non-evidentiary hearing in March 2024, Cannon denied [[donald-trump|Donald Trump]]'s motion to dismiss the federal classified documents case on grounds of unconstitutional vagueness — one of two dismissal motions argued that day, the other resting on the [[presidential-records-act|Presidential Records Act]].[5] Cannon wrote that while Trump's argument warranted "serious consideration," she did not want to "prematurely decide" issues raised in relation to the [[espionage-act|Espionage Act]], explaining that resolution "depends too greatly on contested instructional questions about still-fluctuating definitions of statutory terms/phrases as charged, along with at least some disputed factual issues."[5] She dismissed the arguments without prejudice, allowing defense counsel to raise them again later, and did not immediately rule on the Presidential Records Act motion.[5]
+
+Badlands analyst [[just-human|Just Human]] noted that the motions concerned only Counts 1–32, the willful retention of national defense information charges, and that Trump's counsel argued 18 U.S.C. § 793 was unconstitutionally vague as applied to a former president who acted as the ultimate Original Classification Authority under Article II and Executive Order 13526, had recourse to executive privilege, and claimed immunity for official acts.[5] The defense invoked the Rule of Lenity and Supreme Court decisions striking residual clauses, including United States v. Davis (2019), and Just Human observed that if Counts 1–32 fell the remaining counts would likely fail to state a claim as well.[5] Trump appeared in the Florida courtroom and cited Special Counsel [[robert-hur|Robert Hur]]'s decision not to charge President [[joe-biden|Joe Biden]] over his own handling of classified material; see the [[biden-classified-documents-scandal]].[5]
+
+## August 2023 order against the special counsel
+
+On Monday, August 7, 2023, Cannon rebuked federal prosecutors in the [[trump-classified-documents-case|classified documents case]], striking down two filings submitted by Special Counsel [[jack-smith|Jack Smith]]'s team.[6] She directed Smith to unseal the two filings and to provide a comprehensive legal rationale for a Washington, DC grand jury's continued involvement in a case indicted in Florida, ordering him to address "the legal propriety of using an out-of-district grand jury proceeding to continue to investigate and/or to seek post-indictment hearings on matters pertinent to the instant indicted matter in this district."[6]
+
+In the order, Cannon — a Trump appointee — wrote that the special counsel had stated "in conclusory terms" that a supplement should be sealed "to comport with grand jury secrecy," but that the motion for leave and the supplement "plainly fail to satisfy the burden of establishing a sufficient legal or factual basis to warrant sealing."[6] The ruling came in response to Smith's motion for a "Garcia" hearing concerning a potential conflict of interest posed by attorney Stanley Woodward, who represented defendant [[walt-nauta|Walt Nauta]] as well as individuals who could be called as witnesses.[6] Badlands commentator [[burning-bright|Burning Bright]] described the episode as Smith being "slapped" by the judge for process violations and argued the resulting amplification of the case served [[donald-trump|Donald Trump]]'s interests.[6]
+
+## Indefinite postponement of the documents trial (May 2024)
+
+On Tuesday, May 7, 2024, Cannon indefinitely postponed the criminal [[trump-classified-documents-case|classified documents trial]] of former President [[donald-trump|Donald Trump]], vacating a start date that had been set for May 20 and substituting a new slate of pretrial proceedings, the latest of which was a hearing scheduled for July 22.[7] The charges alleged that Trump willfully retained classified national security records after leaving the White House and then concealed them from federal authorities.[7]
+
+Cannon wrote that it "would be imprudent" to finalize a trial date "at this juncture" while various pretrial issues remained unresolved, pointing to pending questions about how classified information would be handled in the high-profile proceeding as well as "additional pretrial and trial preparations necessary to present this case to a jury."[7] Trump's lawyers had urged Cannon — whom Trump appointed to the federal bench in southern Florida — to schedule the trial after Election Day, and the ruling cast further doubt on whether he would face the federal charges before the November 5, 2024 election in which he was the presumptive Republican nominee.[7]
+
+[[badlands-media|Badlands Media]] commentators treated the delay as vindication of long-standing predictions about the trajectory of the prosecutions: [[burning-bright|Burning Bright]] said contributors and readers had forecast the outcome for months or years, while [[ashe-in-america|Ashe in America]] emphasized that Cannon was "refining the record and hearing multiple motions before setting a new trial date" and predicted a "boomerang" effect.[7]
+
+## February 2024 closed-door CIPA sessions
+
+On Monday, February 12, 2024, [[donald-trump|Donald Trump]] appeared in federal court in Florida to meet face-to-face with U.S. District Judge Cannon for the first time.[8] Trump arrived with his motorcade at about 9 a.m. and remained in the building for just over five hours, leaving as supporters blasted his campaign song "God Bless the USA" over loudspeakers; he did not speak to the media or to the crowd.[8] Cannon held two separate closed-door sessions that day as part of the process for handling classified evidence in the [[trump-classified-documents-case|federal classified documents case]], in which authorities accused the former president of retaining documents containing national security secrets at Mar-a-Lago after leaving office and of obstructing the federal investigation into how those records left secure channels.[8]
+
+## Alleged judge shopping in the Brennan probe (December 2025)
+
+In December 2025, lawyers for former [[cia|CIA]] Director [[john-brennan|John Brennan]] alleged in a letter to chief U.S. District Judge [[cecilia-altonaga|Cecilia M. Altonaga]] that federal prosecutors were manipulating grand jury and case assignment procedures in Miami specifically to ensure that a criminal matter targeting Brennan would be overseen by Cannon.[9] The claim formed part of a broader accusation that the [[department-of-justice|Justice Department]] was steering the case to a favored judge and that leaks had violated grand jury secrecy rules.[9]
+
+## Disclosure of altered evidence
+
+In May 2024, Special Counsel [[jack-smith|Jack Smith]]'s team filed a submission before Judge Cannon admitting that the order of documents inside some of the boxes seized by the [[fbi|FBI]] from [[donald-trump|Donald Trump]]'s Mar-a-Lago estate had been altered since seizure, producing two conflicting chronologies — one in the digital scans and one in the physical boxes — and that prosecutors had for a time misled the court about it.[10] Prosecutors attributed the access to compliance with orders issued by Cannon's court in related civil proceedings, to investigative purposes, and to facilitating the defendants' review of the boxes.[10] Legal experts quoted by *Just the News* said the admission could pose a serious problem for the prosecution and might amount to a violation of the rules requiring evidence to be preserved as seized.[10]
+
+## January 2024 unsealing motion
+
+On January 16, 2024, [[donald-trump|Donald Trump]]'s legal team filed a motion asking Cannon to compel special counsel [[jack-smith|Jack Smith]]'s team to turn over a trove of documents related to the classified documents prosecution, in which Trump faces dozens of felony charges over the retention of classified material at Mar-a-Lago and alleged obstruction of efforts to retrieve it.[11] Smith's office opposed the motion two days later while stating that the government "supports full transparency of the record consistent with witness safety, national security, and the Court's protective order," identifying six exhibits to remain sealed and 22 releasable subject to redactions.[11] Trump's lawyers replied that the special counsel had made no effort to substantiate its vague invocations of witness safety and national security, and a coalition of news media organizations separately moved to have Cannon's court verify that the proposed redactions and withholdings were necessary.[11]
+
+## References
+1. Badlands Brief — "Long-Term Legal Remedies & A Reboot of Russian Relations", URL: https://badlands.substack.com/p/badlands-brief-abf
+2. Badlands Brief — "Preemptive Pardons, Syrian Sanctions, & Preparations for Putin", URL: https://badlands.substack.com/p/badlands-news-brief-09e
+3. Badlands Brief — "Badlands News Brief: Trump and Elon Break the Internet", URL: https://badlands.substack.com/p/badlands-news-brief-109
+4. Badlands News Brief — "A Biden, a Clinton and a Trump Walk Into a SCIF", URL: https://badlands.substack.com/p/badlands-news-brief-228
+5. Badlands Brief — "Badlands News Brief: 'You Are Watching a Movie' Intensifies ...", URL: https://badlands.substack.com/p/badlands-news-brief-365
+6. Badlands Brief — "Smith Slips, China Encroaches & Trump Preps", URL: https://badlands.substack.com/p/badlands-news-brief-6bc
+7. Badlands Brief — "Trumpian Trials, Proxy State Shenanigans & Vax Backtracks", URL: https://badlands.substack.com/p/badlands-news-brief-6c1
+8. Badlands Brief — "Biden Hemorrhages Already-Nonexistent Support", URL: https://badlands.substack.com/p/badlands-news-brief-6fc
+9. Badlands Brief — "Brennan Decries Judge Shopping & JD Says It's Okay to Be White!", URL: https://badlands.substack.com/p/badlands-news-brief-795
+10. Badlands Brief — "Panic in DC ... And Israel ... Pretty Much Everywhere, Actually", URL: https://badlands.substack.com/p/badlands-news-brief-855
+11. Badlands Brief — "Badlands News Brief: The Trump Train Rolls on ... Fake MAGA Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-89f

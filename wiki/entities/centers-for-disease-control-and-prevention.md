@@ -1,0 +1,83 @@
+---
+title: Centers for Disease Control and Prevention
+created: 2026-08-06
+updated: 2026-08-06
+type: entity
+tags: [public-health, federal-agencies, 2026]
+sources: [raw/badlands-brief-835.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-2b1.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-683.md]
+confidence: medium
+---
+
+# Centers for Disease Control and Prevention
+
+The **Centers for Disease Control and Prevention (CDC)** is the principal federal public-health agency of the United States, responsible for outbreak surveillance, risk communication and infectious-disease guidance.
+
+## Role in the 2026 hantavirus cluster
+
+During the [[hantavirus-outbreak-2026|2026 hantavirus outbreak]] linked to the cruise ship M/V Hondius, U.S. health officials said on May 8, 2026 that the government was monitoring and responding to the cluster, and the CDC stated that the risk to the American public remained extremely low.[1] The agency's low-risk assessment stood alongside the [[world-health-organization|World Health Organization]]'s tally of seven cases and three deaths as of May 4.[1]
+
+Badlands commentary treated the agency's involvement, together with [[moderna|Moderna]]'s simultaneous vaccine announcement, as the opening moves of a repeat pandemic narrative rather than as a genuine emergency, and credited President [[donald-trump|Donald Trump]] with foreclosing the lockdown option early.[1]
+
+## January 2026 childhood schedule reduction and litigation
+
+On January 5, 2026, the CDC reduced the list of routinely recommended childhood vaccines to eleven and lowered the recommendation status for several illnesses, including rotavirus, influenza, and hepatitis A.[2] The change formed part of a broader restructuring of national immunization policy pursued by Health Secretary [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]], which also included replacing all seventeen members of the [[advisory-committee-on-immunization-practices|Advisory Committee on Immunization Practices]].[2]
+
+The [[american-academy-of-pediatrics|American Academy of Pediatrics]] and other medical organizations sued, arguing that federal health officials acted outside legal procedures.[2] In March 2026, U.S. District Judge Brian Murphy in Boston sided with the plaintiffs, halting parts of the policy revision and staying the replacement advisers' appointments and any votes on further changes.[2]
+
+## Variant tracking and the 2023 booster campaign
+
+At the time of the September 11, 2023 [[food-and-drug-administration|FDA]] authorization of updated [[covid-19-vaccines|COVID-19 vaccines]], CDC variant-proportion data showed that XBB.1.5 — the Omicron subvariant the new shots targeted — had already largely been displaced by newer strains including EG.5.[3] The mismatch between the targeted subvariant and circulating strains was cited by critics of the authorization.[3]
+
+
+## COVID-19 origins testimony
+
+Former CDC Director [[robert-redfield]] testified at the first hearing of the House select subcommittee on COVID-19 origins in March 2023 that he had been sidelined from internal government debates over the origins of the virus, and that [[anthony-fauci]] did not appreciate his support for the [[lab-leak-theory|lab-leak theory]].[4] His account underscored a division between the CDC's then-director and the wider federal public-health leadership during the early pandemic.[4]
+
+## First severe U.S. bird flu case (December 2024)
+
+In December 2024 the CDC reported finding mutations in samples taken from a man infected with the first severe case of avian influenza in the United States — mutations not present in specimens collected from his infected backyard flock.[5] The agency began analyzing the samples after the patient, a resident of southwestern Louisiana aged over 65, was confirmed as the country's first severe [[h5n1-avian-influenza|H5N1]] case.[5] In a December 18 statement, the CDC said the man was infected with the D1.1 genotype recently detected in wild birds and poultry in the United States and in human cases in British Columbia and Washington state, a strain distinct from the B3.13 genotype found in dairy cows and some poultry.[5]
+
+## November 2023 report on childhood vaccine exemptions
+
+A CDC report published on November 10, 2023 found that the United States faced its highest-ever [[childhood-vaccine-exemptions|childhood vaccine exemption rate]] in history.[6] The agency's data showed that after roughly a decade of nearly 95 percent nationwide vaccination coverage before the pandemic, coverage among kindergarten-aged children fell to 94 percent between 2020 and 2021 and to 93 percent between 2021 and 2022.[6] The report's authors wrote that it was "not clear whether this reflects a true increase in opposition to vaccination, or if parents are opting for nonmedical [vaccine] exemptions because of barriers to vaccination or out of convenience," concluding that "whether because of an increase in hesitancy or barriers to vaccination, the COVID-19 pandemic affected childhood routine vaccination."[6] Badlands contributor [[ashe-in-america|Ashe in America]] framed the trend as a collapse of public trust in institutions that had "repeatedly proven themselves untrustworthy."[6]
+
+## October 2025 mass layoffs
+
+In October 2025 dozens of CDC employees were notified late on a Friday night that they were being terminated as part of a wider reduction in force across the [[department-of-health-and-human-services|Department of Health and Human Services]].[7] The layoffs shuttered the CDC's Washington office and hit staff in the Global Health Center and the National Center for Immunization and Respiratory Diseases; one official said "entire offices are being eliminated, including people in senior leadership roles."[7] Among those dismissed were officers of the agency's Epidemic Intelligence Service — the so-called "disease detectives" — fellows in the Laboratory Leadership Service, and leaders within the Public Health Infrastructure Center and the Office of Science.[7] A court filing indicated that HHS began laying off between 1,100 and 1,200 employees that Friday, with reduction-in-force notices going to staff across multiple divisions; an HHS spokesperson declined to specify which divisions were affected.[7]
+
+Badlands contributor [[burning-bright|Burning Bright]] framed federal agencies as parasitic by definition and urged readers to meet their excision with "cold stoicism" rather than emotional reaction.[7] [[ashe-in-america|Ashe in America]] questioned what protection the CDC had actually provided given normalized pandemics and pervasive illness, argued that disease outbreaks are profitable for the governing class and its donors, and contended that it is not the federal government's role to protect the public from novel diseases created with federal resources and funding.[7]
+
+## BA.2.86 variant statement (August 2023)
+
+On August 23, 2023, the CDC said the new [[ba-2-86|BA.2.86]] lineage of coronavirus might be more capable than older variants of causing infection in people who had previously had COVID-19 or who had received [[covid-19-vaccines|vaccines]].[9] The agency said it was too soon to know whether the lineage would cause more severe illness, but that the 36 mutations distinguishing it from the then-dominant XBB.1.5 variant raised concerns about immunity from vaccines and prior infection.[9] It added that virus samples were not yet broadly available for reliable laboratory antibody testing, that it had begun tracking the lineage earlier in August after detections in the United States, Denmark and Israel, and that the contemporaneous rise in U.S. hospitalizations was not likely driven by BA.2.86.[9] Badlands contributor [[ashe-in-america|Ashe in America]] treated the announcement as an admission that the vaccinated were more susceptible to new variants and as the opening of a repeat COVID campaign timed to a presidential election cycle.[9]
+
+## Withholding of post-vaccination myocarditis data (2023)
+
+In September 2023 the CDC was reported to be refusing to release updated information on reported cases of myocarditis and pericarditis following COVID-19 vaccination, conditions the agency had previously confirmed the vaccines can cause.[10] The agency had regularly conveyed post-vaccination case counts to the [[vaccine-adverse-event-reporting-system|Vaccine Adverse Event Reporting System]], which it helps manage, as it consulted its advisers on vaccine updates — but at a September 12, 2023 meeting it did not mention VAERS data.[10] Asked for the information, a CDC spokesman pointed to a published agency study covering data only through October 23, 2022, which identified nine reports of myocarditis or pericarditis after the bivalent vaccines introduced in September 2022, seven verified by medical review; pressed for more current data, the spokesman acknowledged the agency had it but was not making it public.[10]
+
+## Autism prevalence data (2023)
+
+In March 2023 the CDC published a study finding that autism rates among U.S. children had risen from one in 150 in 2002 to one in 36 — 2.8 percent — in 2020.[11] The findings came from the CDC-funded Autism and Developmental Disabilities Monitoring Network, launched in 2000 to collect data on the number and characteristics of children with autism spectrum disorder and other developmental disabilities living in different areas of the United States; the program spans 11 states, including Arkansas, Maryland and Tennessee.[11] The study also found that boys were far more likely than girls to have autism.[11]
+
+[[badlands-media|Badlands Media]] contributor [[justin-deschamps|Justin Deschamps]] criticized the mainstream explanation that the apparent increase reflected better access to testing rather than a real rise, arguing that the medical system was incapable or unwilling to acknowledge correlative factors such as vaccines, social isolation, and toxic food and environmental exposures.[11]
+
+## Head lice guidance and school disclosure (2024)
+
+In a September 2024 Badlands News Brief item, contributor [[ghostofbasedpatrickhenry]] recounted learning from a school nurse that relatively new nationwide CDC policy no longer treats head lice as a serious medical issue, so that children with lice are kept in class rather than sent home.[12] According to the same account, disclosure of lice outbreaks to parents had simultaneously been elevated to the status of a HIPAA violation and prosecutable offense, leaving families uninformed while infestations spread.[12]
+
+The writer argued that this suppression of truthful information had created a public health "time bomb" in his community, and used the episode as an indictment of federal health bureaucracy generally — placing CDC guidance alongside the [[national-institutes-of-health]] as an institution requiring dismantling and investigation of its personnel for malfeasance, with open defiance framed as the only logical response.[12]
+
+## References
+
+1. Badlands Brief — "Virginia Democrats Lose the Plot and Go For Tyranny", URL: https://badlands.substack.com/p/badlands-brief-835
+2. Badlands Brief — "Dems Demand a Post-Trump Strategy as Hamas Haggles for Peace", URL: https://badlands.substack.com/p/badlands-brief-9eb
+3. Badlands Brief — "NATO Warmongers & Google Searches for a Way Out", URL: https://badlands.substack.com/p/badlands-news-brief-006
+4. Badlands Brief — "Tucker, Fauci, Biden & Biology", URL: https://badlands.substack.com/p/badlands-news-brief-082
+5. Badlands Brief — "Badlands News Brief: A President's Passing & A Prime Minister's Prostate", URL: https://badlands.substack.com/p/badlands-news-brief-08e
+6. Badlands News Brief — "Lawsuits Can Be Very Effective ...", URL: https://badlands.substack.com/p/badlands-news-brief-051
+7. Badlands News Brief — "New York Insurrection, A Rapturous Reception, & Lying Tools", URL: https://badlands.substack.com/p/badlands-news-brief-0b0
+8. Badlands Brief — "Badlands News Brief: Yellen 'Reassures' & Veritas Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-2b1
+9. Badlands Brief — "Trump Surrenders ... Or Does He?", URL: https://badlands.substack.com/p/badlands-news-brief-4b1
+10. Badlands Brief — "It's Raining Red Pills ... And We Like It", URL: https://badlands.substack.com/p/badlands-news-brief-5ec
+11. Badlands Media — "Badlands News Brief: PsyActs, Leakers & Color Revolutions", URL: https://badlands.substack.com/p/badlands-news-brief-6e3
+12. Badlands Brief — "Israel Invades, MAGA Sues & Ports Close", URL: https://badlands.substack.com/p/badlands-news-brief-683

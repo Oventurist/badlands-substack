@@ -1,0 +1,92 @@
+---
+title: Nathan Wade
+created: 2026-08-06
+updated: 2026-08-06
+type: entity
+tags: [georgia, fulton-county, rico, 2020-election, prosecutor]
+sources: [raw/badlands-brief-990.md, raw/badlands-news-brief-054.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-484.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-782.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-89f.md]
+confidence: medium
+---
+
+# Nathan Wade
+
+Nathan Wade is the former special prosecutor in the Fulton County racketeering case State of Georgia v. Trump, et al., and the romantic partner of former District Attorney [[fani-willis|Fani Willis]].[1]
+
+## Role in the Fulton County case
+
+The case, described by Badlands as manufactured by Willis and Wade, arose from the 2020 presidential election results in Georgia and produced the August 24, 2023 surrender of [[donald-trump|Donald Trump]] at the Fulton County Jail and the resulting mugshot.[1] The prosecution was ultimately dismissed on November 25, 2025.[1]
+
+Wade personally examined former Senator [[david-perdue|David Perdue]] before the special grand jury on September 6, 2022, pressing Perdue to concede that state investigations had cleared the State Farm Arena episode.[1] Badlands commentary emphasized the significance of this: Wade took the testimony in which Perdue alleged that Governor [[brian-kemp|Brian Kemp]] had shut down the state's election investigation, and then went on to lead a scandal-ridden RICO prosecution against Trump and others "despite knowing that Kemp had buried the investigation."[1]
+
+## Resignation (March 2024)
+
+On Friday, March 15, 2024, Wade resigned as special prosecutor in the Fulton County election interference case against former President [[donald-trump|Donald Trump]] and his co-defendants, hours after Judge [[scott-mcafee|Scott McAfee]] declined to disqualify [[fani-willis|Fani Willis]] outright but ruled that either Willis or Wade must step aside because of a "significant appearance of impropriety" stemming from their romantic relationship.[2] Under the terms of the ruling, Wade's departure meant Willis and the rest of her team remained on the case.[2]
+
+In his resignation letter addressed to Willis, Wade wrote that although the court had found the defendants "failed to meet their burden of proving that the District Attorney acquired an actual conflict of interest," he was offering his resignation "in the interest of democracy, in dedication to the American public, and to move this case forward as quickly as possible."[2] Willis accepted in a short letter praising Wade "for the professionalism and dignity you have shown over the last 865 days" and pledging to remind everyone that he had been brave enough to step forward and prosecute the alleged conspiracy to overturn Georgia's 2020 presidential election.[2]
+
+Badlands commentary treated the resignation as the predictable outcome of McAfee's either/or order. [[just-human|Just Human]] argued that whichever party remained was left with "a poorly constructed, uneven, incomplete structure of a case" unlikely to survive the defendants' remaining challenges.[2] [[ashe-in-america|Ashe in America]] noted that the order was a setback for Willis, who had struggled to find a prosecutor from the case's inception, was roughly $700,000 out of pocket, and now had to find a new prosecutor before the case could proceed.[2]
+
+## Roman filing and the January 2024 order
+
+The allegations that ultimately forced Wade's departure surfaced in a court filing by attorney and Trump co-defendant [[mike-roman|Mike Roman]], who argued that Wade's hiring by his romantic partner made the indictment "fatally defective" and asked the court to dismiss the charges and disqualify the Fulton County District Attorney's office.[3] The 127-page motion described Wade as a private attorney in the midst of a divorce, hired without proper approval, with "little to no experience trying felony cases, much less complex RICO actions."[3]
+
+It further alleged that Wade pocketed nearly $700,000 from Fulton County taxpayers — money with which he allegedly took [[fani-willis|Fani Willis]] on lavish vacations — and that he billed taxpayers $2,000 to speak with the Biden White House about prosecuting Biden's political opponent.[3] In January 2024, Judge [[scot-mcafee|Scot McAfee]] ordered Willis to respond to the accusations in writing by February 2 and set a hearing for February 15.[3]
+
+## Cellphone records and the Bradley ruling
+
+In February 2024, Wade's cellphone records became the focus of a dispute between [[donald-trump|Donald Trump]]'s legal team and Fulton County District Attorney [[fani-willis|Fani Willis]], because the records could potentially provide evidence of when the romantic relationship between Wade and Willis began.[4] Both had testified that they "never" spent the night together at Willis' condominium in Hapeville.[4] Trump's reply, filed in Fulton County Superior Court on February 26, said the investigator retained to analyze the records would only summarize data produced by AT&T under a lawfully issued subpoena along with cell tower location information, and pointed out that the state had failed to address the analysis of two specific dates.[4]
+
+On the same day, Judge [[scott-mcafee|Scott McAfee]] determined that certain communications between Wade and his former law partner and divorce lawyer [[terrence-bradley|Terrence Bradley]] were not shielded by attorney-client privilege, allowing Bradley to be compelled to testify about the relationship as soon as the following afternoon.[4] The ruling followed a closed-door meeting between McAfee and Bradley lasting nearly an hour and twenty minutes.[4] [[ashe-in-america|Ashe in America]] argued that the combined evidence appeared to show that Wade and Willis had perjured themselves, a devastating outcome for a hearing intended to demonstrate the absence of any appearance of impropriety.[4]
+
+## February 27, 2024 disqualification hearing
+
+Defense attorneys sought to disqualify [[fani-willis|Fani T. Willis]], the district attorney of [[fulton-county|Fulton County]], on the ground that her romantic relationship with Wade — the lawyer she hired to run the election interference case — created an untenable conflict of interest.[5] Willis and Wade maintained that the relationship began only after she hired him in November 2021, an account [[donald-trump|Trump]]'s lawyer accused them of fabricating.[5]
+
+At the hearing on Tuesday, February 27, 2024, Wade's former law partner and divorce lawyer [[terrence-bradley|Terrence Bradley]] — long expected by the defense to contradict the prosecutors — testified that he did not know when the relationship started and had "never witnessed anything."[5] Text messages entered into evidence showed Bradley had told defense attorney [[ashleigh-merchant|Ashleigh Merchant]] that the romance "absolutely" began before Wade's Nov. 1, 2021 hiring.[5] Trump attorney [[steve-sadow|Steve Sadow]] pressed Bradley on why he would speculate about allegations against Wade, whom he considered a friend, knowing Merchant intended to file them.[5]
+
+## Georgia records-search order (August 2025)
+
+Wade featured in an August 2025 Georgia court order directing Fulton County District Attorney [[fani-willis|Fani Willis]] to clarify her searches for Trump-related records, after her affidavit failed to show whether devices belonging to Wade — described as the former Fulton County Special Prosecutor — or Chief Investigator Michael L. Hill had been searched.[6] Both men were involved in evidence gathering and, per the report, likely met with the [[january-6-committee|January 6 Committee]].[6] The court identified uncertainty over whether Wade's materials were reviewed as one of the gaps in Willis' submission and directed her to clarify the point, with any additional records uncovered to be submitted for in-camera review.[6]
+
+## White House meetings (2024 reporting)
+
+In January 2024 there were calls for the [[white-house|White House]] to reveal details of two 2022 meetings that reportedly took place between its employees and Wade while he was serving as special prosecutor in [[fani-willis|Fani Willis]]' Georgia election-interference case against [[donald-trump|Donald Trump]] and 18 other defendants.[7] The meetings were disclosed in a 127-page filing by co-defendant [[michael-roman|Michael Roman]], which sought to have the case thrown out on the ground that Willis "never had legal authority to appoint the special prosecutor" and alleged that Wade and Willis were engaged in a "clandestine personal relationship during the pendency of this case" from which both profited "at the expense of the taxpayers."[7] The filings included a bill Wade sent to the Fulton County district attorney's office requesting two payments of $2,000 for separate occasions under the project title "anti-corruption special prosecutor."[7]
+
+[[ashe-in-america|Ashe in America]] of [[badlands-media|Badlands Media]] wrote that Willis may herself have been involved in a RICO conspiracy while prosecuting political opponents for RICO, and quoted [[bernard-kerik|Bernie Kerik]]'s questions: "Why would Wade be meeting with The White House Council? Who is directing the Fani Willis investigation? The White House, the DOJ?"[7]
+
+## February 2024 divorce interrogatory filing
+
+On Tuesday, February 13, 2024, Trump co-defendant [[david-shafer|David Shafer]] submitted additional filings to the motion seeking to disqualify Wade and Fulton County District Attorney [[fani-willis|Fani Willis]] from the Georgia election interference case.[8] The filing accused Wade of having lied in his divorce proceedings, presenting evidence that he had updated his answers to two questions asking whether he had sexual relations with anyone other than his spouse during the marriage, and when he may have entertained a member of the opposite sex besides his ex-wife during that period.[8] Documents reviewed by Newsweek showed Wade responded "none" to both questions on May 30, 2023, but revised those answers the previous month after allegations of an "improper relationship" with Willis surfaced, stating instead that "the Plaintiff declines to respond to this interrogatory and asserts his privilege pursuant to O.C.G.A. Sec. 24-5-505."[8] Georgia law states that no party is required to testify on matters that "incriminate" or "bring infamy, disgrace, or public contempt upon" parties, witnesses or their family.[8]
+
+## February 2024 disqualification hearing
+
+Wade was among those subpoenaed to testify at the February 15, 2024 evidentiary hearing in Fulton County on co-defendant [[michael-roman|Michael Roman]]'s motion to dismiss the election charges against him and disqualify District Attorney [[fani-willis|Fani Willis]].[9] Roman alleged that Willis had engaged in a "personal, romantic relationship" with Wade, one of her top prosecutors in the election case, which allegedly resulted in financial gain for both of them.[9] Judge [[scott-mcafee|Scott McAfee]] noted that the state had already admitted a relationship existed and that what remained to be proven was the existence and extent of any financial benefit.[9] Badlands writer [[ashe-in-america|Ashe in America]], referring to the pair as "the lovebirds," reported that McAfee had not ruled out testimony from either Wade or Willis.[9]
+
+## Cell phone records and the 2021 timeline
+
+In February 2024, Trump's attorneys obtained Wade's cell phone records by subpoena to [[at-and-t|AT&T]], covering January 1 through November 30, 2021, and filed them in a supplemental brief in the Fulton County case.[10] An investigator hired by the attorneys used an analytical tool to generate geolocation data pinpointing Wade's presence at District Attorney Fani Willis's South Fulton condominium during that period, contradicting the sworn account that their personal relationship began in 2022 and indicating it was romantic well before his November 1, 2021 appointment as Special Prosecutor.[10] The filing was expected to be followed by resolution of Terrence Bradley's contested testimony, summations, and a ruling by Judge Scott McAfee, with potential ripple effects on Harrison Floyd's evidentiary hearing and unheard misconduct allegations.[10] See [[willis-wade-cell-phone-records-filing|the Willis–Wade cell phone records filing]].[10]
+
+## Departure from the Georgia case and 2024 appeal
+
+Judge [[scott-mcafee|Scott McAfee]] ruled that [[fani-willis|Fani Willis]] could only continue the Georgia election interference case if special prosecutor Wade stepped aside; Wade promptly left the case.[11] As of May 2024, a defense appeal of McAfee's ruling was pending before the Georgia Court of Appeals.[11]
+
+## Divorce case and the January 2024 conspiracy filing
+
+In January 2024 Fulton County District Attorney [[fani-willis|Fani Willis]] filed a court document accusing Wade's estranged wife, Joycelyn Wade, of interfering in the prosecution of [[donald-trump|Donald Trump]] and of conspiring with co-defendant [[mike-roman|Mike Roman]] to have the charges against Roman dismissed; the Wades had been married for 26 years.[12] A Georgia judge had given Willis until February 2 to respond formally to allegations that she had an affair with Wade, the lawyer she hired as special prosecutor over the election-fraud case against Trump and 14 alleged co-conspirators.[12]
+
+[[ashe-in-america|Ashe in America]] noted that Wade's divorce case ran in parallel with Willis's RICO case, that the evidence of corruption was surfacing through the divorce proceeding, and that the timing of those disclosures was being set by the court rather than orchestrated by Roman.[12]
+
+## References
+
+1. Badlands Brief — "Secret Seizures, Sovereign Signals, & Unnamed Somalis Close to the Matter", URL: https://badlands.substack.com/p/badlands-brief-990
+2. Badlands News Brief — "Fani Hunts Alone as Putin Keeps the Throne", URL: https://badlands.substack.com/p/badlands-news-brief-054
+3. Badlands Brief — "RON! Throws in the Towel as Globalists Panic", URL: https://badlands.substack.com/p/badlands-news-brief-110
+4. Badlands News Brief — "Trump Responds, a Banker Dies & a Ukrainian Tells the Truth", URL: https://badlands.substack.com/p/badlands-news-brief-119
+5. Badlands Brief — "Badlands News Brief: Trump Trounces Haley (Again) as the Media Spins", URL: https://badlands.substack.com/p/badlands-news-brief-3c0
+6. Badlands News Brief — "'Heroic' Nazis & Unexpectedly Flaccid Orgy Dome", URL: https://badlands.substack.com/p/badlands-news-brief-3d2
+7. Badlands Brief — "Presidential Immunity & Rugpulls Galore", URL: https://badlands.substack.com/p/badlands-news-brief-484
+8. Badlands Brief — "Badlands News Brief: Russian Space Nukes & Uniparty Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-553
+9. Badlands Brief — "Biden Hemorrhages Already-Nonexistent Support", URL: https://badlands.substack.com/p/badlands-news-brief-6fc
+10. Badlands Brief — "Haley Sucks, Biden Dips & the CIA Does PR", URL: https://badlands.substack.com/p/badlands-news-brief-782
+11. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
+12. Badlands Brief — "Badlands News Brief: The Trump Train Rolls on ... Fake MAGA Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-89f
