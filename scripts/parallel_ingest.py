@@ -68,7 +68,7 @@ def pages_citing(slug):
     return n
 
 
-def run_worker(model, provider, max_articles, worker_id, stats):
+def run_worker(model, provider, max_articles, worker_id, stats, failed_slugs):
     done_count = 0
     failed_recent = {}  # slug -> last-fail timestamp (avoid hot loops)
     backoff_idx = 0     # current rung on the rate-limit backoff ladder
@@ -141,8 +141,18 @@ def run_worker(model, provider, max_articles, worker_id, stats):
                 done_count += 1
                 backoff_idx = 0
                 consecutive_rl = 0
-                log(f"worker{worker_id}: OK {slug} in {dt:.0f}s ({cited} pages cite it)"
-                    + ("" if cited > 0 else " [report-only, no pages]"))
+                # if this article failed before and is now ingested, count it
+                # as RECOVERED so the log shows unresolved failures clearly
+                if slug in failed_slugs:
+                    stats["recovered"] += 1
+                    try:
+                        failed_slugs.remove(slug)
+                    except ValueError:
+                        pass
+                    log(f"worker{worker_id}: OK {slug} in {dt:.0f}s ({cited} pages cite it) [RECOVERED after earlier failure]")
+                else:
+                    log(f"worker{worker_id}: OK {slug} in {dt:.0f}s ({cited} pages cite it)"
+                        + ("" if cited > 0 else " [report-only, no pages]"))
             else:
                 # classify the failure: provider throttle vs permanent.
                 # NOTE: hermes writes provider errors (503/429/connection) to its
@@ -159,6 +169,8 @@ def run_worker(model, provider, max_articles, worker_id, stats):
                     consecutive_rl = 0
                     wait = 30
                 stats["failed"] += 1
+                if slug not in failed_slugs:
+                    failed_slugs.append(slug)
                 failed_recent[slug] = time.time()
                 log(f"worker{worker_id}: FAIL {slug} in {dt:.0f}s rc={r.returncode} "
                     f"report={report_slug} cited={pages_citing(slug)} "
@@ -216,11 +228,15 @@ def _run(args):
         f.write(f"# parallel ingest run {datetime.now().isoformat()}\n")
 
     import multiprocessing as mp
-    stats = mp.Manager().dict(done=0, failed=0, workers_finished=0)
+    stats = mp.Manager().dict(done=0, failed=0, recovered=0, workers_finished=0)
+    # slugs that failed at least once and haven't been successfully ingested
+    # yet (shared so the STATUS line can show unresolved failures)
+    failed_slugs = mp.Manager().list()
     ctx = mp.get_context("spawn")
     procs = []
     for w in range(args.workers):
-        p = ctx.Process(target=run_worker, args=(args.model, args.provider, args.articles, w, stats))
+        p = ctx.Process(target=run_worker,
+                        args=(args.model, args.provider, args.articles, w, stats, failed_slugs))
         p.start()
         procs.append(p)
 
@@ -242,7 +258,9 @@ def _run(args):
                         np.start()
                         procs[i] = np
             alive = sum(1 for p in procs if p.is_alive())
+            unresolved = max(0, stats["failed"] - stats["recovered"])
             log(f"STATUS: done={stats['done']} failed={stats['failed']} "
+                f"recovered={stats['recovered']} unresolved={unresolved} "
                 f"alive={alive}/{args.workers} finished={stats['workers_finished']}")
             # all workers finished AND queue exhausted -> done
             if alive == 0 and stats['workers_finished'] >= args.workers:
@@ -269,8 +287,11 @@ def _run(args):
 
     for p in procs:
         p.join(timeout=10)
-    log(f"RUN COMPLETE: done={stats['done']} failed={stats['failed']}")
-    print(f"\n=== FINAL: done={stats['done']} failed={stats['failed']} ===")
+    unresolved = max(0, stats["failed"] - stats["recovered"])
+    log(f"RUN COMPLETE: done={stats['done']} failed={stats['failed']} "
+        f"recovered={stats['recovered']} unresolved={unresolved}")
+    print(f"\n=== FINAL: done={stats['done']} failed={stats['failed']} "
+          f"recovered={stats['recovered']} unresolved={unresolved} ===")
 
 
 if __name__ == "__main__":
