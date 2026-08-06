@@ -121,14 +121,10 @@ title: Badlands Wiki
 
 A community-compiled knowledge base covering the people, institutions, concepts, and narratives of the Badlands Media corpus.
 
-::: tip Explore the knowledge graph
-Every page and the connections between them — **[open the interactive graph](/graph)** to see how entities, concepts, and articles relate.
-:::
-
 - **Entities** (${counts.entities}): [browse all](/entities/) — people, organizations, and institutions
 - **Concepts** (${counts.concepts}): [browse all](/concepts/) — ideas and narratives
 
-Built automatically from the wiki. Search above to find any topic.
+Built automatically from the wiki.
 `;
   await fs.writeFile(path.join(DOCS, "index.md"), index, "utf-8");
 
@@ -147,34 +143,6 @@ Search, filter, and browse the ${label.toLowerCase()} index.
     await fs.mkdir(OUT[section], { recursive: true });
     await fs.writeFile(path.join(OUT[section], "index.md"), sectionIndex, "utf-8");
   }
-
-  // ---- knowledge graph data (nodes = pages, links = wikilinks) ----
-  const graph = { nodes: [], links: [] };
-  const linkSet = new Set();
-  for (const slug of Object.keys(pages)) {
-    const p = pages[slug];
-    graph.nodes.push({ id: slug, title: p.title, section: p.section });
-    const content = await fs.readFile(
-      p.section === "articles" ? path.join(WIKI, p.file) : path.join(WIKI, p.section, p.file),
-      "utf-8"
-    );
-    const re = /\[\[([^\]|#]+)(?:\|[^\]]+)?\]\]/g;
-    let m;
-    while ((m = re.exec(content)) !== null) {
-      const key = m[1].trim().toLowerCase().replace(/\s+/g, "-");
-      if (key === slug) continue; // no self links
-      if (pages[key]) {
-        const pair = [slug, key].sort().join("|");
-        if (!linkSet.has(pair)) {
-          linkSet.add(pair);
-          graph.links.push({ source: slug, target: key });
-        }
-      }
-    }
-  }
-  // graph-data.json must live in docs/public/ so VitePress copies it verbatim to dist
-  await fs.mkdir(path.join(DOCS, "public"), { recursive: true });
-  await fs.writeFile(path.join(DOCS, "public", "graph-data.json"), JSON.stringify(graph), "utf-8");
 
   // ---- index data for the filterable Entities/Concepts browsers ----
   const indexData = [];
@@ -198,22 +166,9 @@ Search, filter, and browse the ${label.toLowerCase()} index.
   indexData.sort((a, b) => a.title.localeCompare(b.title));
   await fs.writeFile(path.join(DOCS, "public", "index-data.json"), JSON.stringify(indexData), "utf-8");
 
-  // graph page
-  const graphPage = `---
-title: Knowledge Graph
----
-
-# Knowledge Graph
-
-Every wiki page as a node; every \`[[wikilink]]\` between pages as an edge. Entities in blue, concepts in orange — node size reflects how many pages link to it.
-
-<GraphView />
-
-<script setup>
-// GraphView is registered globally by the theme.
-</script>
-`;
-  await fs.writeFile(path.join(DOCS, "graph.md"), graphPage, "utf-8");
+  // graph page removed: its 5.5MB graph-data.json (10K nodes + all wikilink
+  // edges) was the remaining build memory hog. Navigation is via the nav
+  // bar, the filterable Entities/Concepts browsers, and wikilinks.
 
   // sidebar intentionally removed (see config below): 10K+ pages in the
   // sidebar OOM'd the build and was unusable as navigation.
@@ -232,12 +187,11 @@ export default defineConfig({
       { text: "Home", link: "/" },
       { text: "Entities", link: "/entities/" },
       { text: "Concepts", link: "/concepts/" },
-      { text: "Graph", link: "/graph/" },
     ],
     // sidebar removed: with 10K+ pages the full sidebar made every rendered
     // page carry a huge inlined JSON payload (JS heap OOM at build) and was
-    // unusable anyway. Navigation is via the nav bar, the interactive graph,
-    // and wikilinks between pages.
+    // unusable anyway. Navigation is via the nav bar and the filterable
+    // Entities/Concepts browsers.
     // local search disabled: full-text index over 10K pages is a major
     // build-time cost. Re-add via a hosted search provider if needed later.
     footer: { message: "Sourced from the Badlands Media corpus. Content reflects the views of the original authors." },
