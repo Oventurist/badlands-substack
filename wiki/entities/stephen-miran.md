@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [federal-reserve, economy, trump-administration, monetary-policy]
-sources: [raw/badlands-news-brief-144.md, raw/badlands-news-brief-a31.md]
+sources: [raw/badlands-news-brief-144.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-cf2.md]
 confidence: low
 ---
 
@@ -24,6 +24,11 @@ As sitting chairman of the White House council, Miran was presumed to be an ally
 
 The Miran nomination coincided with a shift in prediction-market expectations for the Fed chairmanship, where Governor [[christopher-waller|Christopher Waller]] had just become the favorite.[2]
 
+## Discussion paper behind the "Mar-a-Lago Accord"
+
+While a nominee to chair the Council of Economic Advisers, Miran authored a detailed discussion paper that became the intellectual basis for what commentators dubbed the [[mar-a-lago-accord|Mar-a-Lago Accord]].[3] As described by the [[financial-times|Financial Times]], the scheme would have America's trading partners help weaken the dollar and provide low-cost, long-term financing to the US government, enforced by the threat of higher tariffs or the removal of security guarantees — potentially including the purchase of 100-year zero-coupon Treasury bonds.[3] Although neither the administration nor President [[donald-trump|Donald Trump]] announced any such initiative, Miran's paper together with remarks by Treasury Secretary [[scott-bessent|Scott Bessent]] convinced Wall Street observers that it was in the offing.[3]
+
 ## References
 1. Badlands Brief — "Cartels, Crucibles, & Convictions", URL: https://badlands.substack.com/p/badlands-news-brief-144
 2. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
+3. Badlands Brief — "Badlands News Brief: Witkoff Woos a Win & Women Go to Space", URL: https://badlands.substack.com/p/badlands-news-brief-cf2

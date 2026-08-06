@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, diplomacy, gaza, infrastructure]
-sources: [raw/badlands-brief-144.md, raw/badlands-brief-58d.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-592.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-bd2.md]
+sources: [raw/badlands-brief-144.md, raw/badlands-brief-58d.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-592.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-c93.md]
 confidence: medium
 ---
 
@@ -44,6 +44,14 @@ Badlands commentary framed the episode as a test of the [[sovereign-alliance|Sov
 
 In coverage of the September 2025 exchange in which the Kremlin insisted Russia was "a real bear" rather than a paper tiger, Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] cited a post from Dmitriev, described as Russian Special Envoy to the United States, as signal from the Russian side supporting the thesis that [[donald-trump|Donald Trump]] was deliberately pushing Ukraine and NATO into a confrontation with the Russian military.[6]
 
+## Miami talks on Ukraine, December 2025
+
+The head of Russia's sovereign wealth fund was expected to be part of the Russian delegation meeting US officials in Miami in mid-December 2025, as the administration of President [[donald-trump|Donald Trump]] pressed to end nearly four years of war between Kyiv and Moscow.[7] The US side was to be represented by special envoy [[steve-witkoff|Steve Witkoff]] and Trump's son-in-law [[jared-kushner|Jared Kushner]]; the plans remained in flux, and Russian officials had not shifted much on their demands even as Washington increased pressure on [[ukraine|Ukraine]] to make concessions.[7]
+
+## Miami negotiations (December 2025)
+
+Dmitriev met White House envoy [[steve-witkoff|Steve Witkoff]] in Miami during the weekend of December 20–21, 2025 as part of the [[2025-miami-ukraine-talks|Florida talks]] on ending the war in Ukraine, with Witkoff describing the discussions as "productive and constructive" but reporting no clear breakthrough.[8] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote that Dmitriev and other Russian diplomats spent the weekend "hammering out the details" of a peace deal, and judged from the attendees that the sessions concerned economic cooperation rather than a military armistice — suggesting the peace deal itself was already effectively settled.[8]
+
 ## References
 1. Badlands Brief — "MLKKK Day, Peace Boards and Power Paradigms", URL: https://badlands.substack.com/p/badlands-brief-144
 2. Badlands Brief — "White Knuckling Weaponized Government", URL: https://badlands.substack.com/p/badlands-brief-58d
@@ -51,3 +59,5 @@ In coverage of the September 2025 exchange in which the Kremlin insisted Russia 
 4. Badlands Brief — "Annexes, Envoys, & Warmongers", URL: https://badlands.substack.com/p/badlands-news-brief-592
 5. Badlands Brief — "Badlands News Brief: Musical Fed Chairs, Salvadoran Chess, & Cocktails in the Clink", URL: https://badlands.substack.com/p/badlands-news-brief-80e
 6. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2
+7. Badlands Brief — "A Christmas Bonus, War “With” Venezuela, & Prime Time Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-cad
+8. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93

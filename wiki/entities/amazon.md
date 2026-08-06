@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [big-tech, amazon, cia, aws, covid]
-sources: [raw/america-has-a-cia-run-economy.md, raw/a-time-to-strike.md, raw/a-week-to-remember.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-222.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/a-time-to-strike.md, raw/a-week-to-remember.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-cc9.md]
 confidence: medium
 ---
 
@@ -55,3 +55,9 @@ Amazon-owned robotaxi maker [[zoox|Zoox]] initiated a recall in May 2025 to upda
 4. Badlands Brief — "Peaceful Retaliations, Futuristic Fusions and Based Puritans", URL: https://badlands.substack.com/p/badlands-brief-bb1
 5. Badlands News Brief — "Trump Doubles Down as Kamala Crumbles", URL: https://badlands.substack.com/p/badlands-news-brief-020
 6. Badlands Brief — "Badlands News Brief: Intelligence Narratives & Seemingly Impossible Deals", URL: https://badlands.substack.com/p/badlands-news-brief-222
+
+## FTC monopoly lawsuit (2023)
+
+On 26 September 2023, the United States government and 17 states sued Amazon in a landmark monopolization case, reflecting years of allegations that the company had abused its economic dominance and harmed fair competition.[7] The suit, brought by the [[federal-trade-commission|Federal Trade Commission]] and 17 state attorneys general, was the government's sharpest attack yet on a company that began by selling books online and became "the everything store," building a globe-spanning logistics network and a major cloud computing business.[7] The 172-page complaint alleges Amazon unfairly promotes its own platform and services at the expense of third-party sellers, requires sellers to buy its in-house logistics services to obtain "Prime" eligibility, and forces sellers to list products on Amazon at the lowest prices available anywhere online — a practice already challenged in a separate suit by California's attorney general.[7] Badlands writer [[burning-bright|Burning Bright]] linked the case to the [[justice-department|Department of Justice]]'s parallel antitrust action against [[google|Google]] and argued that monopolistic market-makers had to be curtailed for a genuine free market to return.[7] See [[ftc-v-amazon-antitrust-lawsuit|FTC v. Amazon Antitrust Lawsuit]].[7]
+
+7. Badlands Brief — "Badlands News Brief: Hunter Sues, Ukraine Backpedals & Big Mike Preps", URL: https://badlands.substack.com/p/badlands-news-brief-cc9

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [election-integrity, 2020-election, badlands-brief]
-sources: [raw/badlands-brief-2c0.md, raw/badlands-brief-5ba.md, raw/badlands-brief-b34.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-b26.md]
+sources: [raw/badlands-brief-2c0.md, raw/badlands-brief-5ba.md, raw/badlands-brief-b34.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-c1e.md]
 confidence: medium
 ---
 
@@ -56,3 +56,8 @@ Byrne insists he is not a spy but a patriot honorably serving his country, and [
 5. Badlands Brief — "Badlands News Brief: A New Golden Age Begins ...?", URL: https://badlands.substack.com/p/badlands-news-brief-8bd
 6. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
 7. Badlands Brief — "Badlands News Brief: Trump's Tapes, Putin's Plan & Byrne's Bio", URL: https://badlands.substack.com/p/badlands-news-brief-b26
+## The Dominion discovery leak (2024)
+
+In March 2024, the defamation suit brought against Byrne by [[dominion-voting-systems|Dominion Voting Systems]] descended into chaos after his attorney [[stephanie-lambert|Stephanie (Stefanie) Lambert]] leaked discovery evidence to law enforcement and others.[8] Dominion said Byrne had given Lambert a trove of confidential discovery material, and it effectively confirmed the material's authenticity by notifying the presiding judge of the leak in a Friday filing; Lambert was arrested over the matter and defended her actions in a response filed the following Monday.[8] Lambert stated that Byrne had come into possession of Dominion emails — some in Serbian and other foreign languages — showing top-level company employees directing foreign nationals to remotely access voting machines used in Michigan during the November 3, 2020 election, while votes were still being counted and before certification.[8]
+
+8. Badlands Brief — "Badlands News Brief: Weaponization, Willis, and World War III", URL: https://badlands.substack.com/p/badlands-news-brief-c1e

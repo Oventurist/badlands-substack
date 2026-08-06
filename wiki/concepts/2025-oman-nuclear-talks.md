@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [iran, nuclear, diplomacy, oman, trump-administration]
-sources: [raw/badlands-news-brief-02a.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-719.md]
+sources: [raw/badlands-news-brief-02a.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-719.md, raw/badlands-news-brief-cf2.md]
 confidence: medium
 ---
 
@@ -38,7 +38,14 @@ President [[donald-trump|Donald Trump]] said the nuclear talks with Iran were go
 
 In parallel, Israeli Defense Minister [[israel-katz|Israel Katz]] re-issued a threat that Israel remained ready to attack Tehran's nuclear program, telling the IDF high command that "the central mission is to prevent Iran from getting a nuclear weapon."[3] Top Israeli officials had told the Post for weeks that there was significant concern Trump would block Israel from acting so that he could cut what they viewed as a mediocre deal with the Islamic Republic.[3] [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] read the sequence as evidence that talks between envoy [[steve-witkoff|Steve Witkoff]] and the Iranians were going well, that Trump was not the "Zionist puppet" his critics alleged, and that the [[benjamin-netanyahu|Netanyahu]] regime would attempt to subvert the deal.[3]
 
+## Outcome of the first round
+
+The first round produced a brief face-to-face meeting between US special envoy [[steve-witkoff|Steve Witkoff]] and Iranian Foreign Minister [[abbas-araghchi|Abbas Araghchi]] after more than two hours of Omani-mediated discussion conducted with the two delegations in separate rooms, and the parties agreed to hold a second round the following week.[4] It was the first known meeting between US and Iranian officials in years and the highest-level dialogue between the two governments in eight years, and it allowed both sides to save face after Trump described the talks as direct while Araghchi insisted they were indirect.[4] Trump warned that failure could lead the United States to strike Iran's nuclear program, saying Israel would participate in such a strike if not lead it.[4]
+
+Axios reported that the second round was slated for the following Saturday in Rome, that the Trump administration emerged satisfied from the Oman session, and that Witkoff briefed Israeli Strategic Affairs Minister Ron Dermer — Israel being wary of supporting the process.[4] Tehran's foreign ministry said the next round would remain "indirect," although Axios reported the Witkoff-Araghchi conversation had actually run about 45 minutes and that the [[white-house|White House]] wanted to continue direct dialogue.[4] Badlands commentary, citing Middle Eastern reporting circulated by [[barak-ravid|Barak Ravid]], said Witkoff had arrived with a draft proposal that made no mention of dismantling Iran's nuclear program, which was keeping the Iranians engaged, and judged the talks to be trending toward de-escalation.[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: World Wealth Whiplash & The Most Secure Memorandum in History", URL: https://badlands.substack.com/p/badlands-news-brief-02a
 2. Badlands Brief — "Badlands News Brief: Terminations, Port Tensions, & Terrifically Terrifying Trade Wars", URL: https://badlands.substack.com/p/badlands-news-brief-364
 3. Badlands News Brief — "Atmospheric Phenomenon & Record Deportations", URL: https://badlands.substack.com/p/badlands-news-brief-719
+4. Badlands Brief — "Badlands News Brief: Witkoff Woos a Win & Women Go to Space", URL: https://badlands.substack.com/p/badlands-news-brief-cf2

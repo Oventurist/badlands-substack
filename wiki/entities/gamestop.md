@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [meme-stocks, markets, retail-investing]
-sources: [raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-545.md]
+sources: [raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-c6a.md]
 confidence: medium
 ---
 
@@ -24,6 +24,13 @@ Badlands commentary treated GameStop as carrying multiple meanings in the inform
 
 In October 2025, GameStop issued a "statement" declaring the console wars "over" in response to the reveal that Halo would come to PlayStation in 2026.[2] The [[white-house|White House]] social media account quoted the company's slogan "Power to the Players" alongside an AI-generated image of [[donald-trump|Donald Trump]] in Master Chief's armor, an episode covered at [[console-wars-declaration|console wars declaration]].[2] The post sparked a surge in GameStop's stock and sent the associated meme-stock subreddit into a frenzy.[2]
 
+## Bitcoin treasury adoption (2025)
+
+On Tuesday, March 25, 2025, GameStop announced its long-anticipated move into [[bitcoin|bitcoin]], and shares rose more than 6% in extended trading.[3] In a short statement the company said its board had unanimously approved an update to its investment policy adding bitcoin as a treasury-reserve asset, a move that followed weeks of bitcoin speculation surrounding the retailer and chief executive Ryan Cohen.[3] In a Form 10-K filing, GameStop said that a portion of the company's cash or of future debt and equity issuances may be invested in bitcoin, adding: "We have not set a maximum amount of bitcoin we may accumulate, and may sell any bitcoin we may acquire."[3]
+
+[[burning-bright|Burning Bright]] argued that the convergence of the GameStop storyline with the bitcoin storyline would provide "retroactive confirmation" of long-term strategic planning and of the role mass narrative seeding had played in it, closing with the maxim "He that makes the money makes the world."[3]
+
 ## References
 1. Badlands Brief — "Fauci Squirms, Pollsters Panic & Elections Erupt", URL: https://badlands.substack.com/p/badlands-news-brief-3e8
 2. Badlands Brief — "Badlands News Brief: Shutdown Consequences, Canadian Propaganda, & Console War Conclusions", URL: https://badlands.substack.com/p/badlands-news-brief-545
+3. Badlands Brief — "SCOTUS Examines Slushy Subsidies as Speaker Weighs Abolishing Courts", URL: https://badlands.substack.com/p/badlands-news-brief-c6a

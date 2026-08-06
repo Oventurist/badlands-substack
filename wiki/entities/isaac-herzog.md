@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, president, pardon, netanyahu]
-sources: [raw/badlands-brief-733.md, raw/badlands-news-brief-351.md]
+sources: [raw/badlands-brief-733.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-cf3.md]
 confidence: medium
 ---
 
@@ -26,3 +26,11 @@ In an address to the nation on the evening of January 15, 2025, Herzog urged mem
 
 1. Badlands Brief — "The Boons & Blessings of Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-733
 2. Badlands News Brief — "Mid-Transition “QAnon” Claims & A Not Quite Final Farewell", URL: https://badlands.substack.com/p/badlands-news-brief-351
+
+## Comments on Trump's Gaza relocation plan (February 2025)
+
+In an interview with Fox News on Sunday, February 9, 2025, Israeli President Herzog said that US President [[donald-trump|Donald Trump]] would begin talks with Arab leaders regarding his proposal to relocate Palestinians from Gaza to neighbouring countries while the enclave is rebuilt, a plan that had drawn international condemnation.[3] Herzog insisted that Trump was not talking about taking over Gaza militarily and urged neighbouring nations to offer alternative solutions.[3]
+
+"President Trump is due to meet with major, major Arab leaders, first and foremost, the king of Jordan and the president of Egypt, and I think also the crown prince of [[saudi-arabia|Saudi Arabia]] as well," Herzog said, adding: "They are partners that must be listened to, must be discussed with. We have to know their fields as well and see how we build a plan that is sustainable for the future."[3] Trump's plan envisioned redeveloping Gaza into what he called "the Riviera of the Middle East," with displaced Palestinians initially relocating to Jordan, Egypt and other Arab nations before some are resettled in the rebuilt territory.[3]
+
+3. Badlands Brief — "Badlands News Brief: Soaring Eagles & Terminal USAIDs", URL: https://badlands.substack.com/p/badlands-news-brief-cf3

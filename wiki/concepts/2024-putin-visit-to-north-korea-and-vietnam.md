@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [russia, north-korea, vietnam, diplomacy, sanctions, sovereign-alliance, 2024]
-sources: [raw/badlands-news-brief-565.md]
+sources: [raw/badlands-news-brief-565.md, raw/badlands-news-brief-c9b.md]
 confidence: medium
 ---
 
@@ -30,6 +30,17 @@ On this reading, the practical function of the trip was a PR campaign to reintro
 
 Both destinations were also framed as former proxy theaters of the [[state-department|State Department]] and the [[cia|CIA]] — North Korea as an installed puppet boogeyman and [[vietnam|Vietnam]] as a narcotics theater opened by the [[gulf-of-tonkin-incident|Gulf of Tonkin]] false flag — making Putin's arrival in each a symbolic reversal.[1]
 
+## Arrival in Pyongyang
+
+CNN reported that Putin landed in [[north-korea|North Korea]] for a rare visit signaling the two countries' deepening alignment and Moscow's need to source weapons from Pyongyang to sustain its war on Ukraine.[2] Kim Jong Un personally greeted Putin at the plane ramp in the early hours of Wednesday morning local time, and state media RIA reported that the two leaders talked animatedly for several minutes before reaching their motorcade.[2] They rode together to the Kumsusan State Guest House, where North Korean state media KCNA said they "exchanged their pent-up innermost thoughts and opened their minds" to develop relations in conformity with the common desire of the two peoples, followed by a "friendly chat."[2]
+
+The streets of Pyongyang were decked out with Russian flags and posters of Putin ahead of his first visit to the country since 2000.[2] The trip was a rare overseas journey for Putin since the 2022 invasion of Ukraine and a key moment for Kim, who had not hosted another world leader since the Covid-19 pandemic.[2]
+
+In an op-ed published around the visit, Putin disclosed that the two countries were working to develop financial systems "that are not controlled by the West," and Russian officials indicated that "a considerable amount of time will be dedicated to informal contacts between the leaders, as these negotiations … will contain the most important and most sensitive questions."[2]
+
+[[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] compared the decoration of Pyongyang to King Salman's decoration of Riyadh for Trump's 2017 visit, and noted that Kim foregoing the traditional handshake grappled Putin in a full hug — read as affirmation that the [[sovereign-alliance|Sovereign Alliance]] is real and the [[jacob-accords|JACOB Accords]] are expanding.[2] During the visit a few dozen North Korean troops shuffled across the DMZ and exchanged fire with South Korean troops in a rare display, prompting [[the-daily-beast|The Daily Beast]] to run the headline "Is Kim Jong Un Starting a War to Impress Visiting Friend Vladimir Putin?!"[2]
+
 ## References
 
 1. Badlands Brief — "Polling Paradoxes, Hegelian Seeding & Putin's Gambit", URL: https://badlands.substack.com/p/badlands-news-brief-565
+2. Badlands Brief — "Badlands News Brief: Korean Borders, Warmongers & Peacemakers", URL: https://badlands.substack.com/p/badlands-news-brief-c9b

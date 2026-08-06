@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [judiciary, elections, litigation, article-iii-standing]
-sources: [raw/badlands-brief-257.md]
+sources: [raw/badlands-brief-257.md, raw/badlands-news-brief-c05.md]
 confidence: medium
 ---
 
@@ -27,3 +27,9 @@ The ruling removed a key legal obstacle and allowed the Trump administration to 
 ## References
 
 1. Badlands Brief — "Bicameral Deal-Making and Accelerationism Acknowledged", URL: https://badlands.substack.com/p/badlands-brief-257
+
+## Bannon contempt sentence order (2024)
+
+Earlier in his tenure, Nichols — a Trump appointee — presided over the [[contempt-of-congress|contempt of Congress]] case against [[steve-bannon|Steve Bannon]].[2] On June 5, 2024, he agreed with prosecutors and ordered Bannon to self-surrender by July 1 to begin a four-month prison sentence, after a three-judge appeals panel rejected Bannon's bid to overturn his 2022 conviction.[2] "The government's motion is granted," Nichols said, over Bannon's objection that he intended to appeal to the Supreme Court and should remain free in the meantime.[2] Justice Department prosecutor [[john-crabb|John Crabb]] argued at the hearing that Bannon's chance of reversal was "unlikely."[2]
+
+2. Badlands News Brief — "Bicameral Jailings, Russian Trolling and Retribution ...", URL: https://badlands.substack.com/p/badlands-news-brief-c05

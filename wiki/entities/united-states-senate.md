@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, legislation, defense-policy]
-sources: [raw/badlands-brief-a9f.md, raw/badlands-brief-c07.md, raw/badlands-brief-cc3.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-745.md]
+sources: [raw/badlands-brief-a9f.md, raw/badlands-brief-c07.md, raw/badlands-brief-cc3.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-c93.md]
 confidence: medium
 ---
 
@@ -57,8 +57,11 @@ The withdrawal of [[matt-gaetz|Matt Gaetz]] as attorney general nominee in Novem
 ### Confirmation of Kash Patel as FBI director
 On February 20, 2025 the Senate took up the nomination of Kash Patel as FBI director, after he cleared the Senate Judiciary Committee the prior week by a 12–10 party-line vote.[8] Democrats raised concerns over his qualifications and the prospect that he would do President Donald Trump's bidding, but the Republican-controlled chamber was expected to confirm him unless more than three Republican senators defied Trump, which was seen as unlikely; Trump had already secured approval for most of his nominees despite initial Republican skepticism toward several of his choices.[8]
 
-## References
+## Obamacare subsidy fight (December 2025)
 
+Senate negotiators left Washington for the December 2025 holidays without resolving the expiring enhanced [[affordable-care-act|Affordable Care Act]] subsidies, setting up what coverage described as a high-wire act on health care in the new year as lawmakers shifted into campaign mode.[9] The chamber had been consumed for months by the fight over the subsidies' future, which was at the center of a record-breaking government shutdown and the subject of multiple votes and extensive negotiations afterward.[9] With the December 31 deadline set to pass, a bipartisan group of lawmakers sought to keep alive hopes of a deal in January, facing headwinds that included the fraught nature of health care rhetoric and the looming midterms.[9]
+
+## References
 1. Badlands Brief — "FaKKKe Racists Plead Not Guilty & You Can Expect More Dugans", URL: https://badlands.substack.com/p/badlands-brief-a9f
 2. Badlands Brief — "13 Germans, A Seized Smartwatch, & An American Tithe's Worth of Fraud", URL: https://badlands.substack.com/p/badlands-brief-c07
 3. Badlands Brief — "Heretical Garbage, Closet Commies, & Fugitive AIs", URL: https://badlands.substack.com/p/badlands-brief-cc3
@@ -67,3 +70,4 @@ On February 20, 2025 the Senate took up the nomination of Kash Patel as FBI dire
 6. Badlands Brief — "Badlands News Brief: International Antifa, Hezbollah Strongholds, & Nuclear Options", URL: https://badlands.substack.com/p/badlands-news-brief-1c3
 7. Badlands Brief — "It’s Our Failed ‘Resistance’ and We Can Cry if We Want To", URL: https://badlands.substack.com/p/badlands-news-brief-656
 8. Badlands Brief — "Trump Teases Saudi Trillions; Biden Bros Embezzled Billions", URL: https://badlands.substack.com/p/badlands-news-brief-745
+9. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93

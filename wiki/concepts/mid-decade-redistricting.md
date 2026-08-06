@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [elections, redistricting, virginia, congress]
-sources: [raw/badlands-brief-e9a.md, raw/badlands-news-brief-4fd.md]
+sources: [raw/badlands-brief-e9a.md, raw/badlands-news-brief-4fd.md, raw/badlands-news-brief-c78.md]
 confidence: medium
 ---
 
@@ -22,6 +22,11 @@ If approved, the redrawn map could allow Democrats to expand their share of Virg
 
 In July 2025 President [[donald-trump|Donald Trump]] told reporters he wanted Texas lawmakers to redraw the state's congressional district map to give Republicans five additional House seats.[2] "There could be some other states we're going to get another three, or four or five in addition. Texas would be the biggest one," he said. "Just a simple redrawing we pick up five seats."[2] The White House and [[department-of-justice|Department of Justice]] pushed for the redistricting, and Governor [[greg-abbott|Greg Abbott]] asked state leaders to take it up during a summer special session.[2] Democrats at the time controlled 12 of Texas's 38 congressional districts, and the move was seen as an opportunity for Republicans to forestall a Democratic House takeover in 2026 — though some regarded it as a dangerous risk.[2] Badlands contributor [[chris-paul|Chris Paul]] responded dryly that "Texas totally has the best fake elections."[2]
 
+## Judicial and legislative roadblocks (November 2025)
+
+On November 18, 2025 a panel of federal judges ruled against Texas's redrawn congressional maps, which had offered Republicans a five-seat pickup opportunity, holding that they likely created an illegal, race-based gerrymander.[3] The same day, Indiana Republicans punted the [[white-house|White House]]'s redistricting push in their state to January's regular session amid local opposition.[3] Politico characterized the two developments together as roadblocks for the White House effort to shore up a House majority through mid-decade redraws, with Republicans questioning — one calling the push "utterly foolish" — whether the nationwide remapping effort was worth the political capital.[3]
+
 ## References
 1. Badlands Brief — "Bessent's Bounty Hunters and Olympic Phallacies", URL: https://badlands.substack.com/p/badlands-brief-e9a
 2. Badlands Brief — "Badlands News Brief: Autopens, AI Chips, & Astrological Assertions", URL: https://badlands.substack.com/p/badlands-news-brief-4fd
+3. Badlands Brief — "Bilateral Bromance, Private Peace Deals & Imminent Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-c78

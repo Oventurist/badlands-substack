@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [colorado, elections, secretary-of-state, tina-peters]
-sources: [raw/badlands-brief-174.md, raw/badlands-brief-5a2.md, raw/badlands-brief-707.md, raw/badlands-brief-b56.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-8cb.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-aed.md]
+sources: [raw/badlands-brief-174.md, raw/badlands-brief-5a2.md, raw/badlands-brief-707.md, raw/badlands-brief-b56.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-8cb.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-cba.md]
 confidence: medium
 ---
 
@@ -82,6 +82,8 @@ In late October 2024, the Colorado Secretary of State's office under Griswold "i
 
 Badlands writer [[ashe-in-america|Ashe in America]], who reported on the episode extensively for Colorado Free Press, argued she was increasingly convinced that "the regime is throwing Jena under the bus," and that the resulting saga would be used to fast-track [[ranked-choice-voting|ranked choice voting]] and promote some of the worst figures in Colorado government.[14] The leak surfaced the same week that Michigan Secretary of State [[jocelyn-benson|Jocelyn Benson]] admitted to a nationwide programming defect in Dominion voter assist terminals, reinforcing a wider argument that the election system was incapable of producing a result the public would accept as legitimate.[14]
 
+Badlands commentary returned to the episode on 1 November 2024 to contrast it with warnings from the [[cisa|Cybersecurity and Infrastructure Security Agency]] that Russian, Chinese and Iranian operators were attempting to disrupt the vote with disinformation.[15] The writer noted that Griswold's team had left machine BIOS passwords for more than 600 pieces of equipment publicly available on the internet for months while her office concealed the breach for days, yet officials insisted there was no threat to Colorado elections — a juxtaposition summarized as "these are not serious professionals."[15]
+
 ## References
 1. Badlands Brief — "Conflicts, Cartels, & Clemency", URL: https://badlands.substack.com/p/badlands-brief-174
 2. Badlands Brief — "Tina Peters' Sentence Commuted; ISIS Killed in Africa", URL: https://badlands.substack.com/p/badlands-brief-5a2
@@ -97,3 +99,4 @@ Badlands writer [[ashe-in-america|Ashe in America]], who reported on the episode
 12. Badlands Brief — "SCOTUS Enters the Fray as Biden Barks at MAGA Hats", URL: https://badlands.substack.com/p/badlands-news-brief-8cb
 13. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
 14. Badlands Brief — "Badlands News Brief: The Garbage Man Cometh to Take out the Trash", URL: https://badlands.substack.com/p/badlands-news-brief-aed
+15. Badlands Brief — "Badlands News Brief: Election-Mongering and Electioneering as Shenanigans Abound", URL: https://badlands.substack.com/p/badlands-news-brief-cba

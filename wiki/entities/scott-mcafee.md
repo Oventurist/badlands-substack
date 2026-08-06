@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [georgia, fulton-county, judiciary, 2020-election]
-sources: [raw/badlands-brief-990.md, raw/badlands-news-brief-054.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-b5a.md, raw/badlands-news-brief-ba4.md]
+sources: [raw/badlands-brief-990.md, raw/badlands-news-brief-054.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-b5a.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-d00.md]
 confidence: medium
 ---
 
@@ -60,6 +60,16 @@ The disclosure came as McAfee was preparing to rule on whether Willis should be 
 
 On Monday, August 21, 2023, McAfee set bond for [[donald-trump|Donald Trump]] at $200,000 in the [[state-of-georgia-v-trump|Fulton County election interference case]], along with $100,000 each for attorneys [[john-eastman|John Eastman]] and [[kenneth-chesebro|Kenneth Chesebro]], $50,000 for [[ray-smith-iii|Ray Smith III]], and $10,000 for [[scott-hall|Scott Hall]].[10] The bond agreements he approved barred every defendant from performing any act to intimidate a codefendant or witness or otherwise obstruct the administration of justice, with Trump's agreement expressly covering "no direct or indirect threat."[10] All nineteen defendants were required to report to the [[fulton-county-jail|Fulton County Jail]] for processing by noon that Friday.[10]
 
+## Certificate of immediate review request (March 2024)
+
+Shortly after McAfee ruled that [[fani-willis|Fani Willis]] could remain on the Georgia prosecution, [[donald-trump|Donald Trump]] and several co-defendants moved for a certificate of immediate review, seeking his permission to appeal the disqualification ruling.[11] There is no automatic right to appeal at that stage: McAfee would have to grant permission within ten days of his ruling, and the state appeals court would then have to agree to hear the case.[11] If both occurred, it could add further delay to a prosecution that still had no trial date.[11]
+
+Observers noted that in a separate recent ruling dismissing some counts of the indictment McAfee had signalled he would be inclined to permit an appeal, but that he gave no such signal in the disqualification order — without that meaning he would necessarily refuse one.[11] [[ashe-in-america|Ashe in America]] wrote that the appeal itself was unsurprising but that [[msnbc|MSNBC]]'s measured framing of the matter suggested outlets were "coming to terms with the inevitable."[11]
+
+## April 2024 free speech ruling
+
+On April 4, 2024, McAfee, a Fulton County Superior Court judge, rejected [[donald-trump|Donald Trump]]'s bid to dismiss the criminal charges in Georgia's 2020 election interference case on free speech grounds.[12] He found that the indictment alleges statements by Trump and 14 co-defendants were made "in furtherance of criminal activity" and are not protected by the [[first-amendment|First Amendment]].[12] Trump's lead counsel in the case, [[steve-sadow|Steve Sadow]], said the defendants respectfully disagreed with the order and would continue evaluating their options regarding the First Amendment challenges.[12]
+
 ## References
 
 1. Badlands Brief — "Secret Seizures, Sovereign Signals, & Unnamed Somalis Close to the Matter", URL: https://badlands.substack.com/p/badlands-brief-990
@@ -72,3 +82,5 @@ On Monday, August 21, 2023, McAfee set bond for [[donald-trump|Donald Trump]] at
 8. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
 9. Badlands Brief — "An Embattled Media, Mysterious Outages & Gay History", URL: https://badlands.substack.com/p/badlands-news-brief-b5a
 10. Badlands Brief — "Badlands News Brief: Trump's Slings and Arrows ... Hunter's Threats", URL: https://badlands.substack.com/p/badlands-news-brief-ba4
+11. Badlands Brief — "Badlands News Brief: Weaponization, Willis, and World War III", URL: https://badlands.substack.com/p/badlands-news-brief-c1e
+12. Badlands Brief — "Badlands News Brief: Ukrai-NATO Spins Up as Wokeness Spirals", URL: https://badlands.substack.com/p/badlands-news-brief-d00

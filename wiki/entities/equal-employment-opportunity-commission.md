@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [federal-agency, civil-rights, employment-law, litigation]
-sources: [raw/badlands-news-brief-b2b.md]
+sources: [raw/badlands-news-brief-b2b.md, raw/badlands-news-brief-c4f.md]
 confidence: medium
 ---
 
@@ -20,5 +20,11 @@ In September 2023 the EEOC filed a federal lawsuit against [[tesla|Tesla]] in th
 
 [[badlands-media|Badlands Media]] contributors treated the suit less as a routine enforcement action than as an instrument of political pressure, framing it as part of a broader pattern of federal agencies targeting [[elon-musk|Elon Musk]] after he moved against establishment preferences.[1] Contributor [[justin-deschamps|Justin Deschamps]] argued that few substantive details of the underlying conduct had emerged publicly and predicted that discrimination law would increasingly be used to sanction ideological dissidents rather than to remedy genuine racism, a course he said would ultimately devalue real discrimination claims.[1]
 
+## UPenn antisemitism investigation (2023–2025)
+
+The EEOC began investigating the [[university-of-pennsylvania|University of Pennsylvania]] in December 2023 for allegedly allowing discrimination against Jewish employees, including by fostering a hostile work environment in violation of federal law.[2] In November 2025 the Commission sued UPenn's trustees, claiming the university had refused to comply with a subpoena issued as part of that investigation.[2] The EEOC said it needed employee contact information "so that it could determine whether and to what extent employees may have been subjected to a hostile work environment."[2] Jewish groups on campus expressed concern that federal authorities were pressing the university for personal information about Jewish staffers, highlighting tensions among Jews who support reining in discrimination but fret about perceived infringements on civil liberties in such investigations.[2]
+
 ## References
+
 1. Badlands Brief — "Badlands News Brief: Biden Embattled & Trump Betrayed", URL: https://badlands.substack.com/p/badlands-news-brief-b2b
+2. Badlands News Brief — "Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f

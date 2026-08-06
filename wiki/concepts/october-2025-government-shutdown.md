@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [government-shutdown, congress, federal-budget, appropriations, libertarianism]
-sources: [raw/badlands-news-brief-060.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-398.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-8d6.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-aae.md, raw/badlands-news-brief-b4d.md, raw/badlands-news-brief-b53.md]
+sources: [raw/badlands-news-brief-060.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-398.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-8d6.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-aae.md, raw/badlands-news-brief-b4d.md, raw/badlands-news-brief-b53.md, raw/badlands-news-brief-c16.md, raw/badlands-news-brief-cf8.md]
 confidence: medium
 ---
 
@@ -125,6 +125,22 @@ The federal government partially shut down at midnight on Wednesday, October 1, 
 
 Badlands contributor [[jon-herold|Jon Herold]] noted that Trump's first term had featured three shutdowns: January 20–22, 2018 over DACA; a hours-long lapse on February 9, 2018 arising from a Rand Paul protest; and the December 22, 2018–January 25, 2019 border-wall shutdown, the longest to that point at 35 days.[14] [[chris-paul|Chris Paul]] mocked the media framing, observing that shutdowns perpetually "loom" and that CNN was running a second-by-second countdown.[14] [[burning-bright|Burning Bright]] pointed to Trump himself posting a lighthearted image about the shutdown, arguing that the breathless panic was conspicuously not coming from the man nominally in charge of the government — a fact he said should tell readers something about what "the government" actually is.[14]
 
+## Fourth week: Rose Garden unity and the "leverage" admission
+
+As the shutdown entered its fourth week, Senate Republicans travelled to the [[white-house|White House]] on Tuesday, October 21, 2025 — not for urgent talks on how to end the lapse but for a display of unity with President [[donald-trump|Donald Trump]], as they refused to negotiate on any Democratic demands.[15] Senate Democrats were equally confident in their strategy of voting repeatedly against the House-passed reopening bill until Republicans, Trump included, engaged them on extending health care subsidies expiring at the end of the year.[15] With neither side moving, it was unclear how long the stalemate would last even as hundreds of thousands of federal workers prepared to miss another paycheck and states warned that key federal programs would soon lapse completely; the lunch meeting in the White House Rose Garden appeared unlikely to produce a bipartisan resolution.[15]
+
+Democrats on Capitol Hill meanwhile openly acknowledged plans to drag the shutdown into the following month — potentially breaking the then all-time record of 35 days — as Americans began applying for health insurance coverage ahead of the November 1 open enrollment deadline.[15] House Minority Whip [[katherine-clark|Katherine Clark]] told Fox News congressional correspondent Chad Pergram: "Shutdowns are terrible and, of course, there will be families that are going to suffer. We take that responsibility very seriously... But it is one of the few leverage times we have."[15] Clark's admission was amplified to millions of Americans by the Trump White House, the [[republican-national-committee|Republican National Committee]] and GOP-aligned X accounts, at a point when the shutdown had become the second-longest in US history.[15]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] wrote that while Democrats attempted to thread the needle of harming their base while promising to fight for them, a second House Democrat had said the quiet part out loud, concluding that the party sees ordinary Americans as leverage and always has.[15] [[chris-paul|Chris Paul]] used the Rose Garden unity display to argue a broader point about the information war — that no version of victory exists without a widespread ability to avoid being hoodwinked, and that appeals to "unity" function as a rhetorical tool used to protect a position that would otherwise lose an argument, comparable in his framing to twentieth-century Chinese struggle sessions.[15]
+
+## Dueling pay bills blocked (October 23)
+
+On Thursday, October 23, 2025, the [[united-states-senate|Senate]] blocked competing measures to pay federal workers during the shutdown.[16] Sen. [[ron-johnson|Ron Johnson]] of Wisconsin objected to a request by Sen. [[chris-van-hollen|Chris Van Hollen]] of Maryland for immediate passage of the [[true-shutdown-fairness-act|True Shutdown Fairness Act]], which would have paid all federal workers, military members and federal contractors and barred the [[donald-trump|Trump]] administration from carrying out reductions in force during the lapse; it was one of two Democratic pay bills Johnson rejected on the floor that day.[16]
+
+Hours later, Senate Democrats blocked Johnson's [[shutdown-fairness-act-of-2025|Shutdown Fairness Act of 2025]], which would have paid active-duty military and other essential federal employees required to work, in a mostly party-line 54-45 vote short of the 60 needed to advance.[16] Sens. [[jon-ossoff|Jon Ossoff]] and [[raphael-warnock|Raphael Warnock]] of Georgia and [[john-fetterman|John Fetterman]] of Pennsylvania crossed party lines in favor; Fetterman, [[catherine-cortez-masto|Catherine Cortez Masto]] and [[angus-king|Angus King]] had also been voting with Republicans to reopen the government, while the two Georgia Democrats continued to oppose the stopgap funding bill.[16]
+
+[[ashe-in-america|Ashe in America]] responded that since legislators could not agree, the question should go to a popular vote, proposing to fund the military, eliminate most federal jobs, and pay [[congress|Congress]] the minimum wage.[16]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Quantum Tunneling, Natural Conflicts, & Pirates for Gaza", URL: https://badlands.substack.com/p/badlands-news-brief-060
@@ -141,3 +157,5 @@ Badlands contributor [[jon-herold|Jon Herold]] noted that Trump's first term had
 12. Badlands Brief — "Badlands News Brief: Reopening Washington, Rescheduling Putin, & Revisiting De Jure", URL: https://badlands.substack.com/p/badlands-news-brief-aae
 13. Badlands Brief — "Tariff Take Home, Shutdown Stalls, & Unconstitutionally Compelled Speech", URL: https://badlands.substack.com/p/badlands-news-brief-b4d
 14. Badlands Brief — "Hate Groups, Slush Funds, & Shut Downs", URL: https://badlands.substack.com/p/badlands-news-brief-b53
+15. Badlands Brief — "Unconvincing Unity, Ukraine Reparations, & Uneasy Cooperation", URL: https://badlands.substack.com/p/badlands-news-brief-c16
+16. Badlands Brief — "Badlands News Brief: B-Ball Bets, Bomber Busts, & 'Bipartisan' Bill Blockage", URL: https://badlands.substack.com/p/badlands-news-brief-cf8

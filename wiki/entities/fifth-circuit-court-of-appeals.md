@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [judiciary, immigration, courts, detention]
-sources: [raw/badlands-brief-4ec.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-471.md]
+sources: [raw/badlands-brief-4ec.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-c50.md]
 confidence: medium
 ---
 
@@ -36,7 +36,12 @@ In April 2025, the Fifth Circuit was at the center of a procedural controversy w
 
 A contemporaneous Reason essay on [[process-formalism|process formalism]] contrasted this with the circuit's earlier conduct, noting that during the Biden administration the Fifth Circuit had moved promptly and decided cases on its emergency docket precisely so that timely appeals to the Supreme Court remained possible.[3]
 
+## Appeal in Missouri v. Biden (July 2023)
+
+On Wednesday, July 5, 2023, the U.S. Justice Department filed a notice of appeal with the Fifth Circuit in New Orleans challenging the injunction issued in [[missouri-v-biden|Missouri v. Biden]], which would block federal agencies and officials from communicating with social media companies about content on their platforms.[4] The underlying 155-page opinion by U.S. District Judge [[terry-doughty|Terry Doughty]] held that federal officials likely violated the [[first-amendment|First Amendment]] in their contacts with Twitter, Meta, and other technology firms regarding the pandemic, the 2020 election, and other political subjects.[4]
+
 ## References
 1. Badlands Brief — "Criminal Invader Crashouts & Honeypot Hoaxes", URL: https://badlands.substack.com/p/badlands-brief-4ec
 2. Badlands News Brief — "Congressional Kayfabe, Independent Dems & Fire Alarms", URL: https://badlands.substack.com/p/badlands-news-brief-2a9
 3. Badlands Brief — "Badlands News Brief: Robot Runners, Prisoner Swaps, & Control of Crimea", URL: https://badlands.substack.com/p/badlands-news-brief-471
+4. Badlands Brief — "Badlands News Brief: The Cocaine White House, False Flags & Free Speech", URL: https://badlands.substack.com/p/badlands-news-brief-c50

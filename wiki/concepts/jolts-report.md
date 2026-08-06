@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [economy, labor-market, bls, data-revisions, statistics]
-sources: [raw/badlands-news-brief-050.md]
+sources: [raw/badlands-news-brief-050.md, raw/badlands-news-brief-d22.md]
 confidence: medium
 ---
 
@@ -22,5 +22,10 @@ In the July 2023 report released Aug. 29, against a consensus expecting a modest
 
 [[burning-bright|Burning Bright]] argued that while the data was driving commodity and asset markets higher, the deeper story was that the administration was increasingly perceived as "a mass manipulator" of the narratives surrounding economic statistics — and that the manipulation itself "becoming THE story" was a serious problem for the regime.[1]
 
+## October 2023 report and further revisions
+
+In the report released December 5, 2023, job openings collapsed by 617,000 to just 8.733 million, the lowest level since March 2021, against a consensus expecting only a modest drop from the reported September figure of 9.553 million — a six-sigma miss to the 9.3 million estimate.[2] [[zerohedge|ZeroHedge]] noted that had the [[bureau-of-labor-statistics|BLS]] not sharply revised the September print lower, the monthly plunge would have exceeded 800,000, the fourth-biggest monthly drop on record.[2] With the September revision, the agency had revised four of the past five job-openings prints lower, cumulatively reducing openings by 848,000 over five months, which ZeroHedge argued meant the [[federal-reserve|Fed]] had still been hiking that summer on fake, manipulated "strong" data.[2] The outlet framed the release as the BLS finally acknowledging its long-running critique that the seasonally adjusted, "politically goalseeked" data was rubbish at a time when the US economy was careening into a hard-landing recession.[2]
+
 ## References
 1. Badlands News Brief — "Lake Lasts, Biden Slumps & Powell Blinks", URL: https://badlands.substack.com/p/badlands-news-brief-050
+2. Badlands Brief — "Badlands News Brief: Trump Hits Back at the Deep State, Confirms Their Fears", URL: https://badlands.substack.com/p/badlands-news-brief-d22

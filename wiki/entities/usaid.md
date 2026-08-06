@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [usaid, funding, labor, regime-change]
-sources: [raw/a-more-perfect-labor-union.md, raw/and-iran-iran-so-far-away.md, raw/bad-actors.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-306.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-365.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-7b8.md]
+sources: [raw/a-more-perfect-labor-union.md, raw/and-iran-iran-so-far-away.md, raw/bad-actors.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-306.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-365.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-cb6.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-cff.md]
 confidence: medium
 ---
 
@@ -102,6 +102,23 @@ In February 2025 Chinese Foreign Ministry spokesman [[guo-jiakun|Guo Jiakun]] re
 
 The same week, [[wikileaks|WikiLeaks]] published an item alleging that [[jeanne-bourgault|Jeanne Bourgault]], head of the USAID-funded media-development nonprofit [[internews|Internews]], was secretly married to [[ray-jennings|Ray S. Jennings]], described as a high-profile regime-change specialist for USAID who had authored numerous papers recommending funding for his wife's methods.[15] WikiLeaks said Bourgault paid herself $451,000 while telling her alma mater she went to the office "once or twice a month," and that the relationship had never been disclosed by USAID, Internews, or the 4,291 media outlets connected to it.[15]
 
+## Fico letter and Slovak funding complaints (February 2025)
+
+In February 2025 Slovak Prime Minister [[robert-fico|Robert Fico]] wrote to [[elon-musk|Elon Musk]] complaining about subsidies and grants USAID had provided to NGOs, media outlets and specific journalists in Slovakia.[16] Fico wrote that "it is indisputable that financial resources from USAID were used in Slovakia for political purposes, with the aim of distorting the political system and favouring certain political parties," and said even incomplete public sources showed the agency had supported such entities with several million dollars over a relatively short period.[16] He asked for detailed information on money transfers to Slovakia in order to "distinguish between useful and beneficial projects and blatant interference in Slovakia's internal affairs," at a time when the [[donald-trump|Trump]] administration was seeking to abolish USAID outright.[16] Badlands commentary argued that releasing such records could demonstrate that the [[state-department|State Department]] uses NGO proxies for regime-change operations and might tie that funding to the May 2024 assassination attempt on Fico.[16] The agency was also cited as the first in a rapid sequence of targets — followed by the [[consumer-financial-protection-bureau|CFPB]], the Department of Education, the IRS, the EPA and the NED — around which opponents struggled to organise protest.[16]
+
+## DOGE layoffs at the agency (February 2025)
+
+In early February 2025 the [[donald-trump|Trump]] administration went, in the words of press coverage, "scorched-earth" against USAID, with the president claiming the agency is "corrupt."[17] A USAID worker who survived the cuts imposed by the [[doge|Department of Government Efficiency]] described to NPR how, during a virtual staff meeting on a Monday, colleagues disappeared from the call one by one as their access was cut off — "It was like from a horror film."[17] The administration ordered at least 8,000 staffers and contractors onto permanent leave or furlough.[17] One staffer said "There is no bottom to this stupidity," while another remarked that the government "might as well shut it all down. 290 people won't be able to do anything."[17] The administration had originally planned to retain 297 staff, a figure that rose to 611 in a notice issued late on a Thursday night.[17]
+
+Badlands commentator Burning Bright framed the episode through the [[hegelian-dialectic|Hegelian Dialectic]], arguing that the Deep State has for generations seeded problems and provoked reactions en route to engineered "solutions," and that the DOGE storyline reverses that dialectic in full view of what he called the Collective Mind — "the process is being punished."[17] He predicted the DOGE deployment was the first in a cascade of "game theory pincers" in 2025: if the System folds, its sins are laid bare; if it resists, they are implied and then laid bare.[17]
+
+
+## D.C. Circuit ruling on 2025 funding cuts
+
+In August 2025, the [[us-court-of-appeals-for-the-dc-circuit|U.S. Court of Appeals for the D.C. Circuit]] overturned a lower court ruling and cleared the way for the Trump administration to cut billions of dollars in USAID funding that had already been approved by [[congress|Congress]].[18] In a 2–1 decision, Judges [[karen-henderson|Karen Henderson]] and [[gregory-katsas|Gregory Katsas]] held that the nonprofits challenging the cuts lacked standing to sue under the [[impoundment-control-act|Impoundment Control Act]], reasoning that only the head of the [[government-accountability-office|Government Accountability Office]] could bring such a case, and the court declined to rule on whether the cuts were constitutional.[18] The decision reversed a February order by U.S. District Judge [[amir-ali|Amir Ali]] that had temporarily blocked the cuts, after both the D.C. Circuit and the Supreme Court had previously refused to lift that order.[18]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] argued that NGOs hoping for judicial restoration of their funding misunderstand the constitutional order, contending that the Executive runs the country and is under no obligation to continue what she called a public-private grift; she noted that roughly 10% of Colorado's jobs are NGO jobs and that more than 30% of the state budget is federal funding.[18]
+
 ## References
 
 1. Badlands Brief — "A More Perfect (Labor) Union", URL: https://badlands.substack.com/p/a-more-perfect-labor-union
@@ -119,3 +136,6 @@ The same week, [[wikileaks|WikiLeaks]] published an item alleging that [[jeanne-
 13. Badlands News Brief — "Unearthed Autopens, Inevitable Ceasefires, & 56 Human Kidneys", URL: https://badlands.substack.com/p/badlands-news-brief-541
 14. Badlands News Brief — "Strategy & Micro Protests", URL: https://badlands.substack.com/p/badlands-news-brief-71c
 15. Badlands Brief — "Badlands News Brief: MAHA, Modi, Musk, & Munich", URL: https://badlands.substack.com/p/badlands-news-brief-7b8
+16. Badlands Brief — "Badlands News Brief: Muslim Migrants, Mad Max, & Even More Money-Laundering", URL: https://badlands.substack.com/p/badlands-news-brief-cb6
+17. Badlands Brief — "Badlands News Brief: Soaring Eagles & Terminal USAIDs", URL: https://badlands.substack.com/p/badlands-news-brief-cf3
+18. Badlands Brief — "Letters of Credence, More Evidence of Treason, & Allegedly Super-Intelligent AI", URL: https://badlands.substack.com/p/badlands-news-brief-cff

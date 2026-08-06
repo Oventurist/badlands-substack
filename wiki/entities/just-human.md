@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, host, podcast, narrative-warfare]
-sources: [raw/badlands-media-show-schedule-c28.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-blast.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-6b6.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-af7.md]
+sources: [raw/badlands-media-show-schedule-c28.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-blast.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-6b6.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-cb9.md]
 confidence: medium
 ---
 
@@ -100,6 +100,14 @@ Just Human welcomed [[donald-trump|Donald Trump]]'s March 2023 Daily Mail op-ed 
 On Trump's sealed request to block [[mike-pence|Mike Pence]]'s grand jury testimony, Just Human called the setup "a very interesting, and unprecedented, court battle," observing that both Trump and Pence were working to block the testimony and that Pence — arguing his role on January 6 as President of the Senate is protected by the Constitution's Speech or Debate Clause — had said he was willing to take the matter to the Supreme Court.[19] Just Human said he would not be surprised if it got there.[19]
 
 
+## Commentary on the Bragg indictment watch (March 2023)
+
+Writing in the [[badlands-news-brief|Badlands News Brief]] on March 21, 2023, Just Human predicted that the [[manhattan-district-attorneys-office|Manhattan District Attorney's Office]] would push the [[donald-trump|Trump]] arraignment back "again and again, until the heat is off," then quietly dismiss the grand jury without an indictment.[20] He recalled the failed effort under [[cyrus-vance-jr|Cy Vance]] that cost two prosecutors their jobs, argued [[alvin-bragg|Alvin Bragg]] faced "fire on both sides of the door," and used the image of a matador's cape with a brick wall behind it to describe Trump's adversaries.[20] He added that a "spicier dish" — the indictment of someone other than Trump — remained possible.[20]
+
+## Commentary on the Bragg indictment watch (March 2023)
+
+Writing in the [[badlands-news-brief|Badlands News Brief]] on March 21, 2023, Just Human predicted that the [[manhattan-district-attorneys-office|Manhattan District Attorney's Office]] would push the [[donald-trump|Trump]] arraignment back "again and again, until the heat is off," then quietly dismiss the grand jury without an indictment.[20] He recalled the failed effort under [[cyrus-vance-jr|Cy Vance]] that cost two prosecutors their jobs, argued [[alvin-bragg|Alvin Bragg]] faced "fire on both sides of the door," and used the image of a matador's cape with a brick wall behind it to describe Trump's adversaries.[20] He added that a "spicier dish" — the indictment of someone other than Trump — remained possible.[20]
+
 ## References
 1. Badlands Media — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-c28
 2. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-e18
@@ -120,3 +128,4 @@ On Trump's sealed request to block [[mike-pence|Mike Pence]]'s grand jury testim
 17. Badlands Brief — "Badlands News Brief: January 6 and Nord Stream Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-8f4
 18. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
 19. Badlands News Brief — "Trump on Wuhan, Flynn Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-af7
+20. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9

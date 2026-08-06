@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [technology, ai, big-tech, badlands-news-brief]
-sources: [raw/badlands-news-brief-001.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-880.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-b65.md, raw/badlands-news-brief-b7b.md]
+sources: [raw/badlands-news-brief-001.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-880.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-b65.md, raw/badlands-news-brief-b7b.md, raw/badlands-news-brief-c1e.md]
 confidence: medium
 ---
 
@@ -101,3 +101,9 @@ On February 22, 2024, [[alphabet|Alphabet’s]] Google announced on X that its a
 13. Badlands Brief — "Badlands News Brief: What's the Deal with the Gaetz Rug Pull?", URL: https://badlands.substack.com/p/badlands-news-brief-b65
 14. Badlands Brief — "Badlands News Brief: Victory Over Nazis & The First American Pope", URL: https://badlands.substack.com/p/badlands-news-brief-b7b
 15. Badlands Brief — "An Embattled Media, Mysterious Outages & Gay History", URL: https://badlands.substack.com/p/badlands-news-brief-b5a
+
+## Buffalo radicalization lawsuit (2024)
+
+Alphabet, Google's parent company and owner of YouTube, was named alongside [[meta-platforms|Meta]], [[reddit|Reddit]] and [[4chan]] in a New York lawsuit alleging that the platforms contributed to the radicalization of [[payton-gendron|Payton Gendron]], who killed ten people in the [[2022-buffalo-supermarket-shooting|2022 Buffalo supermarket shooting]].[16] Erie County Supreme Court Justice [[paula-feroleto|Paula Feroleto]] denied the companies' motion to dismiss in March 2024, finding the complaint sufficiently pleaded viable causes of action for the case to proceed.[16]
+
+16. Badlands Brief — "Badlands News Brief: Weaponization, Willis, and World War III", URL: https://badlands.substack.com/p/badlands-news-brief-c1e

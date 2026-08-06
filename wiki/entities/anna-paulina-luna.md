@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, house-of-representatives, counterintelligence]
-sources: [raw/badlands-brief-1ae.md, raw/badlands-brief-9ea.md, raw/badlands-brief-fd9.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-5d1.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-a72.md]
+sources: [raw/badlands-brief-1ae.md, raw/badlands-brief-9ea.md, raw/badlands-brief-fd9.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-5d1.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-cb6.md]
 confidence: medium
 ---
 
@@ -56,6 +56,12 @@ In late March 2025 Luna said she was still searching for a cover-up in the assas
 
 Luna had been elevated by House Republicans to lead the House Oversight Committee's [[task-force-on-the-declassification-of-federal-secrets|Task Force on the Declassification of Federal Secrets]], and said she would ask NBC to turn over the alleged video.[10] Her task force was set to convene a hearing on the [[jfk-files-release|JFK files]] on April 1, 2025, and she promised to travel to Dallas to interview "first-hand witnesses" to the six-decades-old assassination.[10] [[badlands-media|Badlands Media]] noted the fittingness of the first DECLAS hearing landing on April Fool's Day, with [[jon-herold|Jon Herold]] writing that it was "difficult to think of a bigger joke than this task force."[10]
 
+## Federal secrets task force and the JFK assassination (February 2025)
+
+On 11 February 2025 Luna, as head of a newly created congressional task force aimed at exposing "federal secrets," told a Capitol Hill press conference that she believed "two shooters" were involved in the assassination of President [[john-f-kennedy|John F. Kennedy]].[11] She said that "based on what I've been seeing so far, the initial hearing that was actually held here in Congress was actually faulty in the single-bullet theory," a reference to the [[warren-commission|Warren Commission]].[11]
+
+The task force was designed to build on the [[donald-trump|Trump]] administration's efforts to declassify records relating to the assassinations of Kennedy, Senator Robert F. Kennedy and civil rights leader Martin Luther King Jr., beginning with a "thorough investigation" of the November 1963 shooting in Dallas, Texas; it was also to probe [[jeffrey-epstein|Jeffrey Epstein]]'s client list.[11] Badlands commentary was sharply critical of the format, arguing that if the records were to be released in full the committee was redundant, and that if they were not, congressional reports would function as an information filter — making the panel "subversive" either way, with the writer calling instead for direct public release without committees, hearings or gatekeepers.[11]
+
 ## References
 1. Badlands Brief — "DC Exposes Itself as the Middle East Gets Gloriously Strange", URL: https://badlands.substack.com/p/badlands-brief-1ae
 2. Badlands Brief — "A Politician is Swallowelled Whole as the Middle East Realigns in Real Time", URL: https://badlands.substack.com/p/badlands-brief-9ea
@@ -67,3 +73,4 @@ Luna had been elevated by House Republicans to lead the House Oversight Committe
 8. Badlands News Brief — "Iranian Walk-backs, Trump Trials & Trans Truths", URL: https://badlands.substack.com/p/badlands-news-brief-808
 9. Badlands Brief — "Badlands News Brief: Rising Demand for DC Defenders & A Sovereign Spring Social", URL: https://badlands.substack.com/p/badlands-news-brief-a34
 10. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72
+11. Badlands Brief — "Badlands News Brief: Muslim Migrants, Mad Max, & Even More Money-Laundering", URL: https://badlands.substack.com/p/badlands-news-brief-cb6

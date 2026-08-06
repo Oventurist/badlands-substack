@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [defamation, litigation, donald-trump, courts]
-sources: [raw/badlands-brief-d94.md, raw/badlands-brief-ec9.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-275.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-4b7.md]
+sources: [raw/badlands-brief-d94.md, raw/badlands-brief-ec9.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-275.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-4b7.md, raw/badlands-news-brief-c40.md]
 confidence: medium
 ---
 
@@ -45,6 +45,10 @@ On Tuesday, June 13, 2023, a judge ruled that Carroll could amend her original d
 
 On May 9, 2023, a New York City jury in U.S. District Court in lower Manhattan found [[donald-trump|Donald Trump]] liable for sexual abuse and defamation in Carroll's civil case, but declined to find him liable for rape as she had alleged.[5] After less than three hours of deliberation, the jury awarded Carroll $20,000 in punitive damages on a battery claim and roughly $5 million in compensatory damages for defamation, a result Trump denounced as "an affront to justice" while vowing to appeal.[5] Trump had long denied the allegation, which dated to the mid-1990s, and accused Carroll of using false claims to promote her book, telling The Hill in June 2019: "Number one, she's not my type. Number two, it never happened."[5] The verdict was covered by [[zerohedge|ZeroHedge]] and excerpted in the *[[badlands-news-brief|Badlands News Brief]]*, where [[burning-bright|Burning Bright]] situated it within a broader [[lawfare|lawfare]] campaign against a former head of state.[5]
 
+## Outside funding disclosure (April 2023)
+
+In April 2023 The National Pulse reported that Democratic mega-donor [[reid-hoffman|Reid Hoffman]], the billionaire founder of LinkedIn, was bankrolling Carroll's litigation against [[donald-trump|Donald Trump]].[7] Carroll had previously denied receiving outside funding, but her attorney [[roberta-kaplan|Roberta Kaplan]] conceded to Trump lawyer [[alina-habba|Alina Habba]] that the former *Elle* columnist "remembered just recently that she had been told at some point about outside funding by a nonprofit and that it was irrelevant to her claim anyway."[7] Habba then wrote to Judge [[lewis-kaplan|Lewis Kaplan]], who was overseeing the suit, raising significant concerns about "the plaintiff's bias and motive in commencing the litigation," and cited Hoffman's prior contribution of more than $600,000 to the legal defense fund of Bean LLC, better known as [[fusion-gps|Fusion GPS]].[7]
+
 ## References
 
 1. Badlands Brief — "Vagina's Mom Just Can't Get Paid", URL: https://badlands.substack.com/p/badlands-brief-d94
@@ -53,3 +57,4 @@ On May 9, 2023, a New York City jury in U.S. District Court in lower Manhattan f
 4. Badlands Brief — "Badlands News Brief: Tucker's Tour de Force, Trump Besieged & More", URL: https://badlands.substack.com/p/badlands-news-brief-275
 5. Badlands News Brief — "Tucker Returns, Trump Fights & Corruption Reigns", URL: https://badlands.substack.com/p/badlands-news-brief-3e5
 6. Badlands News Brief — "Trump Haunts Obama as Clown World Laughs", URL: https://badlands.substack.com/p/badlands-news-brief-4b7
+7. Badlands Brief — "Badlands News Brief: GART, 9/11 & Deep State Billionaires", URL: https://badlands.substack.com/p/badlands-news-brief-c40

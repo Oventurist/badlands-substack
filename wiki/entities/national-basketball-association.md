@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [nba, sports, speech, corporate-power]
-sources: [raw/badlands-news-brief-547.md]
+sources: [raw/badlands-news-brief-547.md, raw/badlands-news-brief-cf8.md]
 confidence: medium
 ---
 
@@ -16,5 +16,14 @@ The central case is that of [[kyrie-irving|Kyrie Irving]], who was suspended by 
 
 Badlands contributor [[absolutetruth1776]] read that sequence as showing "how the NBA further seeks to control players and their right to free speech," on the theory that the apology had been a condition of reinstatement rather than a voluntary statement.[1]
 
+## 2025 federal gambling indictment
+
+In October 2025 the league was at the center of a massive federal indictment for illegal sports gambling and poker game rigging, in which Portland Trail Blazers coach [[chauncey-billups|Chauncey Billups]] and Miami Heat player [[terry-rozier|Terry Rozier]] were the most notable arrests.[2] Several mafia groups were also implicated in the case.[2]
+
+[[fbi|FBI]] Director [[kash-patel|Kash Patel]] called the fraud "mind-boggling" and said the arrests capped a yearslong illegal gambling investigation that "envelops both the NBA and La Casa Nostra."[2] Patel added that investigators had also executed "a system of justice against [[la-cosa-nostra|La Cosa Nostra]] to include the Bonanno, Gambino, Genovese and Luchese crime families."[2]
+
+Badlands commentator [[burning-bright|Burning Bright]] urged readers not to underestimate the convergence implied by the sting, arguing the [[donald-trump|Trump]] FBI was signal-boosting it precisely because it tied the league to organized crime, and framing the affair as further evidence of the [[system-of-systems|System of Systems]] — concluding that "sports are fake."[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: State of Confusion, Kamala Mayhem & Boiled Eggs", URL: https://badlands.substack.com/p/badlands-news-brief-547
+2. Badlands Brief — "Badlands News Brief: B-Ball Bets, Bomber Busts, & 'Bipartisan' Bill Blockage", URL: https://badlands.substack.com/p/badlands-news-brief-cf8

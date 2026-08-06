@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, confirmations, republican-leadership]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-6b4.md, raw/badlands-brief-625.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-4cf.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-6b4.md, raw/badlands-brief-625.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-c14.md]
 confidence: medium
 ---
 
@@ -48,6 +48,10 @@ The full-year defense bill was the product of a bipartisan appropriations proces
 
 Badlands contributor Ashe in America countered that the only complicating dynamic was "impotent Democrats frustrated by their unsatisfying lack of power," observing that the bipartisan Pentagon bill could ostensibly have passed months earlier and asking, sixteen days into the [[october-2025-government-shutdown|shutdown]], what had actually been saved.[7]
 
+## Librarian of Congress dispute (2025)
+
+On Monday, May 12, 2025, after the Justice Department named Deputy Attorney General [[todd-blanche|Todd Blanche]] acting Librarian of Congress in place of [[carla-hayden|Carla Hayden]], Thune told reporters that lawmakers were investigating whether President [[donald-trump|Donald Trump]] has the power to fire the Librarian of Congress, who is technically a legislative branch employee.[8] "We want to make sure congressional equities are respected and protected in this process," Thune said.[8] His remarks were cited as an example of Senate Republicans raising institutional objections to the president installing a loyalist at the [[library-of-congress|Library of Congress]].[8]
+
 ## References
 1. Badlands Brief — "Somali Shatterpoints, Cartel Countermeasures, & Erosion of the World Order", URL: https://badlands.substack.com/p/badlands-brief-094
 2. Badlands Brief — "Deliberate Discombobulation Driving Transformational Change", URL: https://badlands.substack.com/p/badlands-brief-6b4
@@ -56,3 +60,4 @@ Badlands contributor Ashe in America countered that the only complicating dynami
 5. Badlands Brief — "Decision Day, Disarming Deals & A Double Deportation", URL: https://badlands.substack.com/p/badlands-news-brief-32c
 6. Badlands Brief — "Unprecedented Opportunities & Rich Men's Tricks", URL: https://badlands.substack.com/p/badlands-news-brief-357
 7. Badlands Brief — "Badlands News Brief: Price Floors, Curveballs, & Benevolent Discrimination", URL: https://badlands.substack.com/p/badlands-news-brief-4cf
+8. Badlands Brief — "Badlands News Brief: Overreach, Obstruction, & Our Boy Blue", URL: https://badlands.substack.com/p/badlands-news-brief-c14

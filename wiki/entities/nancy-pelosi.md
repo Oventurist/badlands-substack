@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, democratic-party, california, swalwell]
-sources: [raw/badlands-brief-949.md, raw/badlands-brief-9ac.md, raw/badlands-brief-98d.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-441.md, raw/badlands-news-brief-8f3.md, raw/badlands-news-brief-b52.md]
+sources: [raw/badlands-brief-949.md, raw/badlands-brief-9ac.md, raw/badlands-brief-98d.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-441.md, raw/badlands-news-brief-8f3.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-d1c.md]
 confidence: medium
 ---
 
@@ -88,6 +88,10 @@ On Friday, August 30, 2024, Pelosi appeared on [[bill-maher|Bill Maher]]'s "Real
 
 ZeroHedge framed the remarks against what it called the devastating effects of the Biden-Harris administration's open border policies, citing millions of unvetted illegal entrants including ISIS-linked individuals, Iranian assassins hunting former Trump officials, cartel and Chinese Communist Party fentanyl trafficking blamed for more than 100,000 American overdose deaths a year, and armed Venezuelan prison gangs seizing control of apartment complexes in Colorado.[12] [[badlands-media|Badlands Media]] contributor Ashe in America wrote that Pelosi "should be in prison," accusing her of co-signing [[gavin-newsom|Gavin Newsom]]'s plan to give free housing to what she termed criminal invaders while admitting that the open-border plan amounts to mass amnesty.[12] The commentary noted that Colorado authorities were dismissing the apartment takeovers as isolated incidents, and cited reports on X that the Hell's Angels were en route to Aurora, Colorado.[12]
 
+## Dispute with Steven Sund over January 6 (2025)
+
+In August 2025 Pelosi wrote on X that President [[donald-trump|Donald Trump]] "delayed deploying the National Guard on January 6th when our Capitol was under violent attack and lives were at stake," casting his new order activating the D.C. [[national-guard|National Guard]] as an attempt to distract from his "incompetent mishandling" of tariffs, healthcare, education and immigration.[13] Former [[united-states-capitol-police|Capitol Police]] chief [[stephen-sund|Steven Sund]] accused her of rewriting history, replying with a lengthy rebuttal that she had blocked his multiple requests for Guard assistance before and during the attack and writing, "Ma'am, it is long past time to be honest with the American people."[13]
+
 ## References
 1. Badlands Brief — "Tulsi Exposes Traitors; Peace Talks in Pakistan", URL: https://badlands.substack.com/p/badlands-brief-949
 2. Badlands Brief — "Nazi-Related Cover Ups & Formerly Secret Treason", URL: https://badlands.substack.com/p/badlands-brief-9ac
@@ -101,3 +105,4 @@ ZeroHedge framed the remarks against what it called the devastating effects of t
 10. Badlands News Brief — "Kamala Takes the Cheese as Things Get Weird Out East", URL: https://badlands.substack.com/p/badlands-news-brief-441
 11. Badlands Brief — "Badlands News Brief: FBI Charges, Exorcisms and ... Woke M&M's?", URL: https://badlands.substack.com/p/badlands-news-brief-8f3
 12. Badlands Brief — "Badlands News Brief: The Free Speech Battlefield Heats Up", URL: https://badlands.substack.com/p/badlands-news-brief-b52
+13. Badlands Brief — "Badlands News Brief: New Whistleblowers, Cartel Hitlists, & Extended Tariffs", URL: https://badlands.substack.com/p/badlands-news-brief-d1c

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, economics, fox-business, energy]
-sources: [raw/badlands-news-brief-670.md]
+sources: [raw/badlands-news-brief-670.md, raw/badlands-news-brief-c1e.md]
 confidence: low
 ---
 
@@ -19,3 +19,9 @@ In September 2023 Kudlow devoted a segment to the [[joe-biden|Biden]] administra
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Musk the Peacemaker, Constitutional Overreach & POTATUS", URL: https://badlands.substack.com/p/badlands-news-brief-670
+
+## Turley interview on weaponization (March 2024)
+
+On Monday, March 18, 2024, Kudlow hosted law professor [[jonathan-turley|Jonathan Turley]] on his Fox Business program, where Turley argued that the cases against [[donald-trump|Donald Trump]] proved him right about a weaponized justice system and that the legal system was "being heavily distorted by politics."[2] The exchange was widely circulated in [[badlands-media|Badlands Media]] coverage of the [[weaponization-of-government]] theme.[2]
+
+2. Badlands Brief — "Badlands News Brief: Weaponization, Willis, and World War III", URL: https://badlands.substack.com/p/badlands-news-brief-c1e

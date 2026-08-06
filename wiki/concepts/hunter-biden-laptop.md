@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [hunter-biden, intelligence-community, censorship, congress]
-sources: [raw/badlands-news-brief-152.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-7a7.md]
+sources: [raw/badlands-news-brief-152.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-d06.md]
 confidence: medium
 ---
 
@@ -50,6 +50,12 @@ On January 16, 2023 the New York Post reported that [[douglas-wise|Douglas Wise]
 
 Writing amid the [[trump-classified-documents-case|Trump classified documents case]], contributor [[ryan-delarme|Ryan DeLarme]] argued that at least 459 documented crimes — including money laundering and tax fraud — were found on the laptop, and that the [[fbi|FBI]] had possessed the device since December 2019 and knowingly covered it up while the media concentrated on Trump.[6] He also cited [[hunter-biden|Hunter Biden]]'s own admission that he had given half of his salary to his father for the previous three decades, tying the laptop material to the wider [[joe-biden-bribery-allegation|Biden bribery allegations]].[6]
 
+## BidenLaptopMedia.com archive (2023)
+
+In June 2023, nearly 10,000 photographs from the laptop were uploaded to a new website, [[bidenlaptopmedia-com|BidenLaptopMedia.com]], which was intermittently unavailable after launch because of overwhelming traffic.[7] The site was the work of former Trump White House aide [[garrett-ziegler|Garrett Ziegler]], who had worked as an aide to economic adviser [[peter-navarro|Peter Navarro]].[7] Ziegler said the project took a couple of months, largely spent reviewing the roughly 10,000 photos and redacting genitalia, and stated that "the number one thing we're about... is truth and transparency."[7] He said that if the American people wanted to know what the first family is like they would get it, and that photos painting the Bidens in a good light would not be removed.[7]
+
+Besides pictures carrying location metadata, the archive linked to emails, suspicious activity reports, material on influence peddling, a transcribed diary attributed to [[ashley-biden|Ashley Biden]], and extensive personal details.[7] Badlands commentator [[burning-bright|Burning Bright]] wrote that the laptop scandals had remained near the forefront of the information war and that the story refuses to die despite obfuscation by the political class and the media, suggesting that [[hunter-biden|Hunter Biden]] himself might play a larger role in the unraveling of his family than many assume.[7]
+
 ## References
 
 1. Badlands Media — "Badlands News Brief: Ukraine U-Turn, Biden Bumbles & Committees Command", URL: https://badlands.substack.com/p/badlands-news-brief-152
@@ -58,3 +64,4 @@ Writing amid the [[trump-classified-documents-case|Trump classified documents ca
 4.  Badlands Media — "Badlands News Brief: Biden Crime Cascade, Woke Collapse & Establishment Panic", URL: https://badlands.substack.com/p/badlands-news-brief-617
 5. Badlands News Brief — "Bidens, UFOs and Vaccines", URL: https://badlands.substack.com/p/badlands-news-brief-68f
 6. Badlands Brief — "Badlands News Brief: Trump Defiant, Biden Protected & Woke Worn", URL: https://badlands.substack.com/p/badlands-news-brief-7a7
+7. Badlands Brief — "Badlands News Brief: Hunter Hunted, Wray Relents & Wokeness Weakens", URL: https://badlands.substack.com/p/badlands-news-brief-d06

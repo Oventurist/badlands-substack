@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [badlands-media, events, badlands-news-brief]
-sources: [raw/badlands-news-brief-001.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7c5.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-8a4.md, raw/badlands-news-brief-8f0.md, raw/badlands-news-brief-a43.md, raw/badlands-news-brief-a40.md]
+sources: [raw/badlands-news-brief-001.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7c5.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-8a4.md, raw/badlands-news-brief-8f0.md, raw/badlands-news-brief-a43.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-ccd.md]
 confidence: medium
 ---
 
@@ -80,6 +80,12 @@ The Cocoa Beach promotion was repeated in the September 7, 2023 brief, which not
 
 Tickets for the ninth Great American Restoration Tour went on sale in June 2025, with the event scheduled for August 14–17, 2025 in historic Deadwood, South Dakota, and promoted by Badlands Media as expected to be the biggest GART yet.[19]
 
+## GART 5 Deadwood and GART 6 Myrtle Beach (2024)
+
+In August 2024, Badlands reported that its community had gathered in Deadwood, South Dakota for the fifth stop along the Great American Restoration Tour, describing the events as an opportunity to meet and network with fellow patriots and as "an awakening pressure cooker where a natural sifting toward sovereignty, nationalism and community-building takes place."[20] Although the live event had concluded, virtual tickets remained on sale to stream the entirety of the program, which included panels on Friday, Saturday and Sunday and the premiere of the second Badlands Media documentary, *The Crucible of Donald Trump*.[20] Virtual purchases carried long-term DVR access to panel replays and admission to an exclusive GART Telegram chat with hundreds of attendees and Badlands hosts, along with behind-the-scenes photos and videos, continuing for months after the event.[20]
+
+Badlands simultaneously promoted in-person tickets for GART 6 in Myrtle Beach, noting they were already selling quickly and suggesting that, whatever happened on November 5, readers would want to be among fellow Badlanders in the aftermath of what it called the most contentious election since the last one.[20] It was during the final GART panel on that Sunday that [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued the community must defeat its own inclination toward cynicism and embrace the optimism of triumphant victory while remaining focused on the tasks at hand.[20]
+
 ## References
 1. Badlands Media — "Badlands News Brief: FOX Guarding the Hen House?", URL: https://badlands.substack.com/p/badlands-news-brief-001
 2. Badlands Brief — "Shutdown Showcase, Attempted Tariff Takedowns, & the Launch of Mammany Hall", URL: https://badlands.substack.com/p/badlands-news-brief-095
@@ -100,3 +106,4 @@ Tickets for the ninth Great American Restoration Tour went on sale in June 2025,
 17. Badlands Brief — "Badlands News Brief: The Turns on COVID, Ukraine & the Establishment Have Begun", URL: https://badlands.substack.com/p/badlands-news-brief-8f0
 18. Badlands Brief — "Badlands News Brief: Obama's Secrets, Blinken's Billions & GOP Posers", URL: https://badlands.substack.com/p/badlands-news-brief-a43
 19. Badlands News Brief — "A Constellation of Corruption & A Goldilocks Galaxy", URL: https://badlands.substack.com/p/badlands-news-brief-a40
+20. Badlands News Brief — "The DNC Comes to Town ... And Gets Weird", URL: https://badlands.substack.com/p/badlands-news-brief-ccd

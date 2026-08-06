@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [minnesota, immigration, ice, cities]
-sources: [raw/badlands-brief-a20.md, raw/badlands-news-brief-762.md]
+sources: [raw/badlands-brief-a20.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-d1c.md]
 confidence: medium
 ---
 
@@ -24,5 +24,10 @@ St. Paul was sued on 29 September 2025 by the [[department-of-justice|Department
 
 ## References
 
+## 2025 cyberattack
+
+In July 2025 the city detected a hacker breach of its systems, and by August stolen St. Paul data had been posted online while thousands of municipal employees queued at Roy Wilkins Auditorium for in-person password resets.[3] The FBI, Homeland Security and the [[minnesota-national-guard|Minnesota National Guard]] assisted the city in scouring and restoring its systems; see [[2025-st-paul-cyberattack|2025 St. Paul cyberattack]].[3]
+
 1. Badlands Brief — "Prosecutions for Democracy & Double-Hatted Peace Panelists", URL: https://badlands.substack.com/p/badlands-brief-a20
 2. Badlands Brief — "Badlands News Brief: Shutdowns, Shakedowns, & Two Sexes", URL: https://badlands.substack.com/p/badlands-news-brief-762
+3. Badlands Brief — "Badlands News Brief: New Whistleblowers, Cartel Hitlists, & Extended Tariffs", URL: https://badlands.substack.com/p/badlands-news-brief-d1c

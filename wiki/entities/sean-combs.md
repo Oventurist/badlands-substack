@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [music-industry, sex-trafficking, blackmail, homeland-security, celebrity]
-sources: [raw/badlands-news-brief-158.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-ae1.md]
+sources: [raw/badlands-news-brief-158.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-ce1.md]
 confidence: medium
 ---
 
@@ -118,9 +118,19 @@ At the heart of the charges were the events Combs called "Freak Offs" — descri
 
 Combs appeared in Manhattan federal court on Friday, March 14, 2025, to plead not guilty to two new superseding indictments unveiled against him in January and earlier that month.[14] The 55-year-old, whose normally dark hair had turned fully grey alongside a greying cropped beard grown since his arrest the previous September, smiled at his son Christian and daughter Chance on entering the courtroom and later waved to his mother Janice, who arrived halfway through the hour-long hearing.[14] Speaking confidently to U.S. District Judge [[arun-subramanian|Arun Subramanian]], he addressed the court directly for the first time since his September arraignment on sex trafficking, racketeering conspiracy and transportation to engage in prostitution charges.[14]
 
+## "Free Game" prison course and sentencing (September 2025)
+
+Ahead of his sentencing, Sean "P Diddy" Combs was reported to be teaching a class called "Free Game" to fellow inmates at the Metropolitan Detention Center in Brooklyn, New York.[15] His next court appearance was set for 3 October 2025, when a New York judge would decide how much time he would serve for two counts of transportation to engage in prostitution.[15] As his legal team sought a lenient sentence, it gathered letters from fellow inmates, particularly those who said they had been "inspired" by the class.[15] Badlands contributor [[ashe-in-america|Ashe in America]] joked about the course — "Don't hate the player, hate the game" — while conceding she did not actually know what "Free Game" referred to.[15]
+
+## Indictment and denial of bail (September 2024)
+
+Combs was denied bail on Tuesday, September 17, 2024, after pleading not guilty to charges of sex trafficking, racketeering conspiracy and transportation to engage in prostitution.[16] A 14-page federal indictment unsealed that day described the 54-year-old as the boss of a yearslong criminal enterprise that threatened and abused women, coercing them into drug-fueled orgies with male prostitutes and threatening them with violence or the loss of financial support if they refused.[16] Prosecutors alleged that Combs and his employees engaged in kidnapping, forced labor, arson and bribery, and kept firearms at the ready.[16] The indictment came a day after his arrest in a Manhattan hotel room, following an investigation active since at least early 2024.[16]
+
+Prosecutor [[emily-a-johnson|Emily A. Johnson]] called him a "serial abuser and a serial obstructer" and argued his wealth would allow him to escape undetected, noting that law enforcement found a suspected narcotic pink powder in his hotel room after the arrest.[16] Combs's lawyers proposed a $50 million bond, but Magistrate Judge [[robyn-tarnofsky|Robyn F. Tarnofsky]] denied the request, citing his anger issues and history of substance abuse, and ordered him detained pending trial.[16]
+
+Badlands commentary linked the case to a broader pattern: five days earlier federal investigators had raided the homes and offices of several high-profile New York City politicians in connection with alleged racketeering and corruption, and two days earlier the New York City Police Commissioner had resigned amid unconfirmed speculation about payoffs and "fixing."[16] Contributor [[ashe-in-america|Ashe in America]] declined to assert that the two federal RICO investigations were connected but called the timing interesting, noted allegations that Combs recorded blackmail material and had been friendly with the Clintons, and reported widespread internet speculation that he would be "Epstein'd" in custody.[16] Contributor [[burning-bright|Burning Bright]] highlighted that the indictment came in the [[southern-district-of-new-york|Southern District of New York]] — the same district that convicted [[anthony-weiner|Anthony Weiner]] and, on the very same day, saw [[ghislaine-maxwell|Ghislaine Maxwell]]'s conviction upheld by the [[second-circuit-court-of-appeals|Second Circuit]].[16]
 
 ## References
-
 1. Badlands Brief — "Badlands News Brief: Middle Eastern Powder Kegs & Crisis Cascades Abound", URL: https://badlands.substack.com/p/badlands-news-brief-158
 2. Badlands Media — "Badlands News Brief: It's a Big Club. And It's Going Down.", URL: https://badlands.substack.com/p/badlands-news-brief-189
 3. Badlands Brief — "Badlands News Brief: IC Ignitions & Double Detonations", URL: https://badlands.substack.com/p/badlands-news-brief-1a0
@@ -135,3 +145,5 @@ Combs appeared in Manhattan federal court on Friday, March 14, 2025, to plead no
 12. Badlands Brief — "Badlands News Brief: A New Golden Age Begins ...?", URL: https://badlands.substack.com/p/badlands-news-brief-8bd
 13. Badlands News Brief — "Embattled Mayors, Peacemakers & Signal Setters", URL: https://badlands.substack.com/p/badlands-news-brief-9b2
 14. Badlands News Brief — "Defiant Deportations & Canadian Freeloaders", URL: https://badlands.substack.com/p/badlands-news-brief-ae1
+15. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2
+16. Badlands Brief — "Badlands News Brief: Trump Sends Comms as Diddlers Get Indicted", URL: https://badlands.substack.com/p/badlands-news-brief-ce1

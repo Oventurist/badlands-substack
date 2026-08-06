@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [information-war, psychological-operations, media]
-sources: [raw/badlands-news-brief-096.md, raw/badlands-news-brief-0db.md]
+sources: [raw/badlands-news-brief-096.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-c50.md]
 confidence: medium
 ---
 
@@ -28,6 +28,11 @@ Badlands contributor [[ashe-in-america|Ashe in America]] applied the false-flag 
 
 Her formulation — "false flags often have real victims, and the loss of life is a tragedy" — captures a key distinction in the Badlands usage of the term: the deaths are treated as genuine even where the framing and exploitation of the event are treated as engineered.[2] Because the accused was dead, she wrote, he could never be questioned about "whose voices he was hearing or what his FBI handler's instructions were," and a story so beneficial to the regime was therefore "extremely suspect."[2]
 
+## Dueling false-flag accusations at Zaporizhzhia (2023)
+
+In July 2023 the term was deployed simultaneously by both belligerents in Ukraine: Kyiv claimed Russian troops occupying the [[zaporizhzhia-nuclear-power-plant|Zaporizhzhia nuclear power plant]] had planted explosives on the roofs of the third and fourth reactors in preparation for sabotage, while Moscow accused Ukraine of plotting a "false-flag" attack of its own.[3] Badlands contributor [[burning-bright|Burning Bright]] placed the episode in a sequence he called a "Narrative Timeline," noting that [[volodymyr-zelensky|Volodymyr Zelensky]] had publicly described Ukraine's close ties to the [[central-intelligence-agency|CIA]] — the same agency accused of the Nord Stream 2 and Kakhovka Dam sabotage, "both False Flags" in his framing — shortly before alleging a Russian false-flag strike on the plant.[3] He concluded that "what was old is new again" and that "the War of Stories rolls on."[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Debt Ceiling, Cancel Culture & Incorruptibility", URL: https://badlands.substack.com/p/badlands-news-brief-096
 2. Badlands Brief — "Badlands News Brief: Draft Dodgers, Peacemakers & Warmongers Galore!", URL: https://badlands.substack.com/p/badlands-news-brief-0db
+3. Badlands Brief — "Badlands News Brief: The Cocaine White House, False Flags & Free Speech", URL: https://badlands.substack.com/p/badlands-news-brief-c50

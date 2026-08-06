@@ -28,6 +28,10 @@ Ticket sales for GART 3 in Irvine, California opened in September 2023, announce
 
 A "Last Call for GART 3: Irvine!" notice ran in the [[badlands-media|Badlands News Brief]] of January 8, 2024, confirming the January 11–14, 2024 dates and naming the Marriott Irvine Spectrum as the conference venue.[3] The notice again invited readers to buy in-person or virtual tickets, with all virtual purchases including access to recorded replays of every GART 3 panel during and following the event.[3]
 
+## Opening weekend
+
+A further "Last Call for GART 3: Irvine!" item ran on January 12, 2024, describing the event as a live, ticketed weekend combining in-person speakers, meet-and-greets, food and community for those who follow Badlands online.[4] Virtual tickets remained available for those unable to attend in person, streaming the entirety of GART 3 and including a direct link to a private Telegram chat where holders could interact with speakers and with hundreds of other in-person and virtual attendees.[4] All virtual purchases carried access to recorded replays of every panel during the event and for at least six months afterward.[4] The brief also pointed readers to a live stream of the GART 3 kickoff party hosted by [[jon-herold|Jon Herold]] on Rumble as a preview of the event's atmosphere.[4]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Shenanigans Shall Continue Until Morale Improves ...", URL: https://badlands.substack.com/p/badlands-news-brief-49d

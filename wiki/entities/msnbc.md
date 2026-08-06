@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, mainstream-media, cable-news]
-sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-9c6.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-ba4.md]
 confidence: medium
 ---
 
@@ -42,6 +42,10 @@ In December 2024, MSNBC published an opinion column arguing that [[doge|DOGE]] h
 
 The network's morning program drew significant backlash in November 2024 when hosts [[joe-scarborough|Joe Scarborough]] and [[mika-brzezinski|Mika Brzezinski]] traveled to Mar-a-Lago to meet President-elect [[donald-trump|Donald Trump]] and reopen lines of communication.[6] The visit was notable because the show had been among Trump's harshest critics — Scarborough had said in September 2024 that comparing Trump to Hitler was "not a reach" — and because MSNBC had pulled "Morning Joe" from the air the Monday after the assassination attempt on Trump in the summer of 2024.[6]
 
+## Commentary on Trump's Fulton County surrender (August 2023)
+
+On August 21, 2023, MSNBC host [[alicia-menendez|Alicia Menendez]] asked guest [[jill-wine-banks|Jill Wine-Banks]], a former Watergate prosecutor, how [[donald-trump|Donald Trump]]'s surrender in Georgia would differ from his earlier indictments.[7] Wine-Banks said the Georgia process would involve mug shots and fingerprints at the [[fulton-county-jail|Fulton County Jail]] rather than "a clean, nice environment," described the facility as "a really dirty, dangerous, scary place," and recalled Watergate defendants who "really freaked out" in the D.C. jail and had to be moved to an Army base.[7] Independent outlets and [[badlands-media|Badlands Media]] contributors characterised the segment as relishing the prospect of Trump's humiliation, and argued that such coverage was accelerating rather than dampening popular support for him.[7]
+
 ## References
 
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
@@ -50,3 +54,4 @@ The network's morning program drew significant backlash in November 2024 when ho
 4. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... Or So We're Told", URL: https://badlands.substack.com/p/badlands-news-brief-208
 5. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e
 6. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6
+7. Badlands Brief — "Badlands News Brief: Trump's Slings and Arrows ... Hunter's Threats", URL: https://badlands.substack.com/p/badlands-news-brief-ba4

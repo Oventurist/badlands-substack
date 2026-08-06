@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [geopolitics, fifth-generation-warfare, badlands-media]
-sources: [raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-3.md, raw/badlands-blitz-episode-7.md, raw/badlands-brief-174.md, raw/badlands-brief-2b2.md, raw/badlands-brief-414.md, raw/badlands-brief-311.md, raw/badlands-brief-314.md, raw/badlands-brief-5a2.md, raw/badlands-brief-618.md, raw/badlands-brief-625.md, raw/badlands-brief-739.md, raw/badlands-brief-95a.md, raw/badlands-brief-98d.md, raw/badlands-brief-990.md, raw/badlands-brief-9f2.md, raw/badlands-brief-9ea.md, raw/badlands-brief-774.md, raw/badlands-brief-ac2.md, raw/badlands-brief-a20.md, raw/badlands-brief-bce.md, raw/badlands-brief-bb1.md, raw/badlands-brief-ea5.md, raw/badlands-brief-f62.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-528.md, raw/badlands-news-brief-5b2.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-907.md, raw/badlands-news-brief-942.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-b64.md, raw/badlands-news-brief-b6c.md, raw/badlands-news-brief-b9c.md]
+sources: [raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-3.md, raw/badlands-blitz-episode-7.md, raw/badlands-brief-174.md, raw/badlands-brief-2b2.md, raw/badlands-brief-414.md, raw/badlands-brief-311.md, raw/badlands-brief-314.md, raw/badlands-brief-5a2.md, raw/badlands-brief-618.md, raw/badlands-brief-625.md, raw/badlands-brief-739.md, raw/badlands-brief-95a.md, raw/badlands-brief-98d.md, raw/badlands-brief-990.md, raw/badlands-brief-9f2.md, raw/badlands-brief-9ea.md, raw/badlands-brief-774.md, raw/badlands-brief-ac2.md, raw/badlands-brief-a20.md, raw/badlands-brief-bce.md, raw/badlands-brief-bb1.md, raw/badlands-brief-ea5.md, raw/badlands-brief-f62.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-528.md, raw/badlands-news-brief-5b2.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-907.md, raw/badlands-news-brief-942.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-b64.md, raw/badlands-news-brief-b6c.md, raw/badlands-news-brief-b9c.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-c93.md]
 confidence: medium
 ---
 
@@ -276,6 +276,14 @@ Contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] separately tie
 
 Discussing the [[european-union|EU]]'s threatened sanctions on Carlson and [[dmitry-medvedev|Dmitry Medvedev]]'s nuclear warning to [[nato|NATO]] in the same brief, he argued that the EU represents the bureaucratic seat of power for the globalist establishment while the United States has long served as its kinetic power projection arm — and that without the US military being dragged into forever wars to perpetuate the [[petrodollar|petrodollar]] engine or to neuter regimes seeking to transact outside it, that establishment is "rather toothless."[46] He cited the lack of US action when Putin moved into Ukraine in 2022 as one of the biggest [[devolution|Devolution]] proofs that drew him into the info war, concluding that nothing since had disabused him of the notion that the Sovereign Alliance "is very real, and very much in control."[46]
 
+## Application to the Iran deal narrative (November 2025)
+
+After President [[donald-trump|Donald Trump]] said in November 2025 that [[iran|Iran]] wanted a deal and that one would probably be reached, Badlands host [[burning-bright|Burning Bright]] cited the development as vindication of the Sovereign Alliance thesis.[47] He argued that he had spent the year saying the "DE-Nuclearization Narrative is covering a RE-Nuclearization Actual," that the entirety of mainstream and alternative media — both "fake left and fake right" — had told audiences Trump and Iran were enemies, and that in reality "the deals are done."[47]
+
+## Invoked over Sino-Russian bomber cooperation (December 2025)
+
+[[burning-bright|Burning Bright]], who coined the term, referenced the Sovereign Alliance in December 2025 while commenting on expanding [[russia-china-joint-air-patrols|Russia-China joint air patrols]], arguing that a [[multipolar-world|multipolar world]] must first be won through a multipolar war and pointing to a long-form essay contending that the alliance had already prevailed.[48]
+
 ## References
 1. Badlands Brief — "Badlands Blitz Episode 11: Iran, NATO and the Invisible Enemy", URL: https://badlands.substack.com/p/badlands-blitz-episode-11
 2. Badlands Brief — "Badlands Blitz Episode 3: Donald Trump's Global Victory Tour", URL: https://badlands.substack.com/p/badlands-blitz-episode-3
@@ -314,7 +322,6 @@ Discussing the [[european-union|EU]]'s threatened sanctions on Carlson and [[dmi
 35. Badlands Brief — "Badlands News Brief: Biden Pushes Back as Peacemakers Posture", URL: https://badlands.substack.com/p/badlands-news-brief-528
 36. Badlands Brief — "Badlands News Brief: Sovereign Alliance Comms and Tapwater Goblins", URL: https://badlands.substack.com/p/badlands-news-brief-5b2
 37. Badlands Brief — "Badlands News Brief: Familiar Formulas, Blue Skies, & Antisemitic Nonchalance", URL: https://badlands.substack.com/p/badlands-news-brief-6e6
-
 38. Badlands Brief — "Damascus Has Fallen ... Cui Bono?", URL: https://badlands.substack.com/p/badlands-news-brief-7a5
 39. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... Or Are They?", URL: https://badlands.substack.com/p/badlands-news-brief-907
 40. Badlands Brief — "Kamala on the Media Block as Putin Makes Moves", URL: https://badlands.substack.com/p/badlands-news-brief-942
@@ -324,3 +331,5 @@ Discussing the [[european-union|EU]]'s threatened sanctions on Carlson and [[dmi
 44. Badlands Brief — "Badlands News Brief: Bragg's Panic, Trump's Calm & China's Proposal", URL: https://badlands.substack.com/p/badlands-news-brief-b64
 45. Badlands Brief — "Manhatt-Insanity, Biden Gorillas & Muskian Moves", URL: https://badlands.substack.com/p/badlands-news-brief-b6c
 46. Badlands Brief — "Badlands News Brief: Tucker Does Moscow as the News Cycle Goes Ballistic", URL: https://badlands.substack.com/p/badlands-news-brief-b9c
+47. Badlands News Brief — "Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f
+48. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93

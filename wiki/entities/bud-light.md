@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [brands, brewing, boycott, marketing, culture-war]
-sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-13b.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-b9c.md]
+sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-13b.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-b9c.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-cdb.md]
 confidence: medium
 ---
 
@@ -46,11 +46,23 @@ On February 6, 2024, former President [[donald-trump|Donald Trump]] wrote on Tru
 
 [[simon-esler|Simon Esler]] argued that the distinction Trump drew was important: [[esg|ESG]] scores function as a social credit system for corporations, and there is a difference between American companies struggling to navigate the weaponization of "corporate responsibility" and firms that are active, willing participants in the culture war.[6] He warned that if Bud Light were destroyed entirely, farmers, blue-collar workers and middle-class families would bear the cost, and advocated using consumer pressure to demonstrate the profitability of operating outside ESG frameworks, gradually building a parallel economy rather than accelerating a destruction the "enemy" intends.[6]
 
-## References
+## Marketing shake-up (April 2023)
 
+Three weeks into the backlash over the brand's promotional partnership with transgender TikTok influencer [[dylan-mulvaney|Dylan Mulvaney]], parent company [[anheuser-busch-inbev|Anheuser-Busch InBev]] abruptly changed Bud Light's marketing leadership.[7] Vice president of marketing [[alissa-heinerscheid|Alissa Heinerscheid]] took a leave of absence, and the company confirmed she would be replaced by [[todd-allen|Todd Allen]], who had recently been global marketing vice president for [[budweiser|Budweiser]].[7] To prevent a repeat, a spokesperson said senior executives would closely monitor the brand's marketing, stressing a return to "brewing great beer for all consumers."[7]
+
+Writing for [[badlands-media|Badlands Media]], [[burning-bright|Burning Bright]] noted the unusual durability of the story in the national news cycle and summarized the community's verdict on the campaign with the slogan "Get Woke, Go Broke."[7]
+
+## References
 1. Badlands Brief — "Badlands News Brief: Pedo Islands, Polling Panic & Cage Fights", URL: https://badlands.substack.com/p/badlands-news-brief-024
 2. Badlands Brief — "Badlands News Brief: Hunters Hunted, Gender Confusion & the Spiritual War", URL: https://badlands.substack.com/p/badlands-news-brief-13b
 3. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... Or So We're Told", URL: https://badlands.substack.com/p/badlands-news-brief-208
 4.  Badlands Media — "Badlands News Brief: Biden Crime Cascade, Woke Collapse & Establishment Panic", URL: https://badlands.substack.com/p/badlands-news-brief-617
 5. Badlands Brief — "Badlands News Brief: DeSantis Runs, Lake Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-5eb
 6. Badlands Brief — "Badlands News Brief: Tucker Does Moscow as the News Cycle Goes Ballistic", URL: https://badlands.substack.com/p/badlands-news-brief-b9c
+7. Badlands Media — "Badlands News Brief: A Tucker, a Lemon and a Trump Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-bf6
+
+## First week of the Mulvaney backlash (April 2023)
+
+After parent company [[anheuser-busch-inbev|Anheuser-Busch InBev]] reached a three-year high of $66.73 per share, it shed more than $6 billion in market capitalisation in the six days following the April 2, 2023 announcement of the Bud Light partnership with [[dylan-mulvaney|Dylan Mulvaney]], with market capitalisation dropping from $132.8 billion to as low as $125.7 billion, more than five percent.[8] Bar owners and distributors reported a sharp decline in Bud Light sales over that week.[8] The campaign featured custom cans bearing Mulvaney face and pro-LGBTQ language, and opened with a video of Mulvaney drinking Bud Light in a bathtub.[8] Company executives reportedly had no knowledge of the campaign even as Anheuser-Busch publicly defended it.[8] [[burning-bright|Burning Bright]] argued the enduring lesson was that consumers could damage a Fortune 500 company simply by withholding participation from its [[system-of-systems|System of Systems]].[8]
+
+8. Badlands Brief — "Badlands News Brief: Leak Shenanigans, Trump Seeds & Woke Broke", URL: https://badlands.substack.com/p/badlands-news-brief-cdb

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [aerospace, europe, france, deep-state]
-sources: [raw/a-week-to-remember.md]
+sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-c9a.md]
 confidence: medium
 ---
 
@@ -18,5 +18,10 @@ Airbus is the European aerospace manufacturer, based in France, that Badlands Me
 
 Carlson uses the comparison to support his expectation that Deep State power will continue migrating from America to Europe, beyond [[donald-trump|Donald Trump]]'s reach, amid a struggle among [[cabal|Cabal]] families in England, France and Germany.[[1]](https://badlands.substack.com/p/a-week-to-remember)
 
+## New China plant (April 2023)
+
+During the [[2023-macron-state-visit-to-china|2023 Macron state visit to China]] in April 2023, French President [[emmanuel-macron|Emmanuel Macron]] agreed to a new Airbus plant in China as part of a package of investment deals signed on the trip, a move critics cited as evidence that France was deepening rather than reducing its dependency on Beijing.[2]
+
 ## References
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
+2. Badlands Brief — "Badlands News Brief: The France Dance, Crime & J6 Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-c9a

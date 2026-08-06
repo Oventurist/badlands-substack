@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [independent-media, commentary, censorship, newsguard]
-sources: [raw/badlands-news-brief-363.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-b98.md]
+sources: [raw/badlands-news-brief-363.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-b98.md, raw/badlands-news-brief-bd2.md]
 confidence: medium
 ---
 
@@ -35,10 +35,13 @@ He noted the rumor surfaced the same day as reports that The Daily Wire was open
 
 A public feud between Pool and [[candace-owens|Candace Owens]] escalated in December 2025 after Pool accused Owens of benefiting from Charlie Kirk's murder.[4] Owens responded with a blistering rebuttal, accusing Pool of lacking "intellect," acting out of "weakness," and being "less than a man," and characterizing his on-air rant as "a display of estrogen" rather than toughness.[4] She said he would "never dare speak to a man like that," told him to "get [his] affairs in order," and denied having targeted him in her own content.[4] Badlands commentator [[chris-paul|Chris Paul]] joked only that it was "extra funny that these videos are delivered by a guy named 'Callin' Rug'."[4]
 
-## References
+## Criticism over Dallas shooting coverage (September 2025)
 
+After the September 2025 sniper attack on an [[immigration-and-customs-enforcement|ICE]] facility in Dallas, Badlands contributor [[chris-paul|Chris Paul]] noted that Fox News was inviting Pool on to discuss what he called "the latest ridiculous psyop," asking whether Pool was "going to summarize Twitter again."[5]
+
+## References
 1. Badlands News Brief — "The Free Market of Ideas Condemns the Regime", raw/badlands-news-brief-363.md
 2. Badlands Brief — "Badlands News Brief: Psyops Abound as the Media Landscape Shifts Rapidly", URL: https://badlands.substack.com/p/badlands-news-brief-6f7
 3. Badlands Brief — "Johnson's Package Goes Flaccid ... And Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-79f
 4. Badlands Brief — "Badlands News Brief: Blue Flips, Hails Mary, & Greasy Trolls", URL: https://badlands.substack.com/p/badlands-news-brief-b98
-
+5. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [canada, house-of-commons, speaker, controversy]
-sources: [raw/badlands-news-brief-2ca.md]
+sources: [raw/badlands-news-brief-2ca.md, raw/badlands-news-brief-cc9.md]
 confidence: medium
 ---
 
@@ -25,3 +25,9 @@ Badlands Media commentators treated Rota's apology as damage control rather than
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Ukrainian Nazis, Spirit Cooks & Potato Presidents", URL: https://badlands.substack.com/p/badlands-news-brief-2ca
+
+## Attempt to erase the Hunka incident from the record
+
+Rota presided over the sitting of the Canadian [[house-of-commons-of-canada|House of Commons]] at which 98-year-old [[yaroslav-hunka|Yaroslav Hunka]] — a guest present for [[volodymyr-zelensky|Volodymyr Zelensky]]'s visit — was introduced as a "war hero" and given two standing ovations, with Prime Minister [[justin-trudeau|Justin Trudeau]] in attendance.[2] Hunka had fought the Soviets as a member of the [[14th-waffen-grenadier-division-of-the-ss|14th Waffen Grenadier Division of the SS]].[2] In the aftermath, members of Parliament sought to erase the official record of the episode, including video records and the original text of Rota's own comments; [[zerohedge|ZeroHedge]] reported that the move was blocked by House conservatives and framed it as a Stalinist memory-holing of politically inconvenient history.[2]
+
+2. Badlands Brief — "Badlands News Brief: Hunter Sues, Ukraine Backpedals & Big Mike Preps", URL: https://badlands.substack.com/p/badlands-news-brief-cc9

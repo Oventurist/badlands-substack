@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [colorado, republican-party, elections, ballot-access]
-sources: [raw/badlands-news-brief-8cb.md]
+sources: [raw/badlands-news-brief-8cb.md, raw/badlands-news-brief-bfb.md]
 confidence: medium
 ---
 
@@ -18,6 +18,13 @@ On December 27, 2023, the party filed a petition with the [[supreme-court-of-the
 
 The party's filing was drafted by its attorney [[chris-murray|Chris Murray]] of [[brownstein-hyatt-farber-schreck|Brownstein, Hyatt, Farber and Schreck]], and warned that "the Colorado court has unleashed harms which will creep beyond Colorado's borders."[1] Badlands writer [[ashe-in-america|Ashe in America]] praised the quality of the petition while noting the firm's lobbying relationship with [[dominion-voting-systems|Dominion Voting Systems]].[1]
 
+## December 2023 Supreme Court appeal
+
+On Wednesday, December 27, 2023, the Colorado Republican Party appealed the Colorado Supreme Court's decision holding former President [[donald-trump|Donald Trump]] ineligible for the presidency, taking the first step toward a showdown at the [[supreme-court-of-the-united-states|U.S. Supreme Court]] over a 155-year-old constitutional provision barring from office those who "engaged in insurrection."[2] The immediate effect of the appeal was to extend the stay of the 4-3 state ruling, which had been paused until January 4 — the day before Colorado's primary ballots were due at the printer — or until any appeal to the U.S. Supreme Court concluded.[2]
+
+The party's attorneys wrote that "the Colorado Supreme Court has removed the leading Republican candidate from the primary and general ballots, fundamentally changing the course of American democracy."[2] Commentary from [[ashe-in-america|Ashe in America]] described the appeal by state chairman Dave Williams and the party as both expected and encouraging, and noted that Washington-based lawfare groups favour filing such suits in Colorado because they view its courts as sympathetic.[2]
+
 ## References
 
 1. Badlands Brief — "SCOTUS Enters the Fray as Biden Barks at MAGA Hats", URL: https://badlands.substack.com/p/badlands-news-brief-8cb
+2. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb

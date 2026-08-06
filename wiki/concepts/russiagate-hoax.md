@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [russiagate, intelligence, accountability, hoax, media]
-sources: [raw/badlands-blitz-episode-14.md, raw/badlands-brief-625.md, raw/badlands-news-brief-07f.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-b0f.md]
+sources: [raw/badlands-blitz-episode-14.md, raw/badlands-brief-625.md, raw/badlands-news-brief-07f.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-d04.md]
 confidence: medium
 ---
 
@@ -90,6 +90,11 @@ On Friday, July 18, 2025, Director of National Intelligence [[tulsi-gabbard|Tuls
 
 Gabbard's team released over 100 pages of memos and emails, which she described as evidence of a "treasonous conspiracy" and a "years-long coup against President Trump," calling for former officials to be prosecuted and saying there was "no rational or logical explanation" for why the investigations run by [[robert-mueller|Robert Mueller]] and [[john-durham|John Durham]] failed to surface the same evidence.[11] Badlands commentary pointed to remarks by [[joe-biden|Joe Biden]] on January 5, 2017, the day before the Intelligence Community Assessment was released, as evidence that senior officials pushed a narrative they knew to be false.[11]
 
+
+## Nunes on fatalities and the Section 242 charging theory (August 2025)
+
+In August 2025 [[devin-nunes|Devin Nunes]] told Real America's Voice that the conspiracy had killed people: "People have died. People have lost their livelihoods. People have lost their careers. People have not been promoted. Families have been destroyed. Finances have been wiped out. Millions of Americans were kicked off social media. News networks were not allowed onto the legacy media platforms."[12] Around the same time, [[john-solomon|John Solomon]] said the overriding charge in the coming cases would be [[deprivation-of-rights-under-color-of-law|deprivation of rights under color of law]] under Title 18, U.S. Code, Section 242.[12] Badlands host [[jon-herold|Jon Herold]] noted the statute's penalty provision: where death results from acts committed in violation of the section, the offender may be fined, imprisoned for any term of years or for life, or sentenced to death.[12] The distillation of RussiaGate revelations coincided with fresh federal espionage prosecutions of alleged Russian assets, including the arrest of soldier [[taylor-adam-lee|Taylor Adam Lee]].[12]
+
 ## References
 1. Badlands Brief — "Badlands Blitz Episode 14: The Dawning Age of American Accountability", URL: https://badlands.substack.com/p/badlands-blitz-episode-14
 2. Badlands Brief — "Mr. Nice Guy Leaves the Building (plus, Jewish Terrorism)", URL: https://badlands.substack.com/p/badlands-brief-625
@@ -102,3 +107,4 @@ Gabbard's team released over 100 pages of memos and emails, which she described 
 9. Badlands News Brief — "Post Mortems, Dog Fights, & Flight Risks", URL: https://badlands.substack.com/p/badlands-news-brief-721
 10. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
 11. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f
+12. Badlands Brief — "Global Struggles, Civil Alliances, & the Penalty for Treason", URL: https://badlands.substack.com/p/badlands-news-brief-d04

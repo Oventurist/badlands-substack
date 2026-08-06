@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [el-salvador, latin-america, gangs, bitcoin]
-sources: [raw/badlands-news-brief-09e.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-782.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-a0b.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-adc.md]
+sources: [raw/badlands-news-brief-09e.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-782.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-a0b.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-adc.md, raw/badlands-news-brief-cf2.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-d04.md]
 confidence: medium
 ---
 
@@ -85,6 +85,17 @@ Bukele said proceeds from the tax would pay off the housing cooperative's debt a
 
 Following Bukele's presidential inauguration in early June 2024, [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] pointed to the event's guest list as evidence that [[el-salvador|El Salvador]] — the smallest nation on the American mainland, and located solely on the Pacific coast of Central America rather than the Caribbean — "casts a pretty big shadow."[12] He added that Bukele's government gets along very well with [[vladimir-putin|Vladimir Putin]], placing El Salvador within a wider pattern of multipolar realignment described as moves and countermoves.[12]
 
+## White House visit, April 2025
+
+President [[donald-trump|Donald Trump]] hosted Bukele at the [[white-house|White House]] on Monday, 14 April 2025, as he sought to deport more immigrants to a notorious maximum-security prison in [[el-salvador|El Salvador]].[13] The contentious deportation programme, which faced several legal challenges, involves transferring alleged gang members — including Venezuelans accused of belonging to [[tren-de-aragua|Tren de Aragua]] — to Salvadoran custody.[13] Trump praised Bukele's government on Truth Social, writing that "President Bukele has graciously accepted into his Nation's custody some of the most violent alien enemies of the World… They will never threaten or menace our Citizens again!"[13] Secretary of State [[marco-rubio|Marco Rubio]] said on the Sunday before the visit that ten more alleged members of [[ms-13|MS-13]] and Tren de Aragua had been flown to El Salvador.[13]
+
+Badlands commentary welcomed the visit enthusiastically, describing El Salvador as "a successful pilot for rejecting globalism" whose model was ready to be scaled for America and the world.[13]
+
+
+## Abolition of presidential term limits (August 2025)
+
+In early August 2025 El Salvador's legislature, controlled by Bukele's Nuevas Ideas party, swiftly approved a constitutional amendment abolishing presidential term limits, clearing the way for presidents to serve multiple consecutive terms and for Bukele to seek indefinite reelection.[15] The vote, held late in the preceding week, sparked immediate domestic and international backlash from critics who argued it undermines democratic stability.[15] The US [[state-department|State Department]] voiced rare public support for the decision, placing Washington behind the Central American nation's leadership.[15] Badlands contributor [[gmoney|GMONEY]] responded dismissively to the "dictator" framing, while [[ashe-in-america|Ashe in America]] argued that term limits are not the solution to representative governance — real, verifiable elections are — and asked whether [[el-salvador|El Salvador]] has them.[15]
+
 ## References
 
 1. Badlands Brief — "Preemptive Pardons, Syrian Sanctions, & Preparations for Putin", URL: https://badlands.substack.com/p/badlands-news-brief-09e
@@ -99,3 +110,11 @@ Following Bukele's presidential inauguration in early June 2024, [[ghostofbasedp
 10. Badlands Brief — "Badlands News Brief: Escalation, Litigation & Sovereign Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a3c
 11. Badlands Brief — "Badlands News Brief: Black Hat Nightmares & A Camelback Caravan of Confirmation", URL: https://badlands.substack.com/p/badlands-news-brief-a64
 12. Badlands Brief — "Badlands News Brief: Globalists Panic as Populism Takes Over the Zeitgeist", URL: https://badlands.substack.com/p/badlands-news-brief-adc
+13. Badlands Brief — "Badlands News Brief: Witkoff Woos a Win & Women Go to Space", URL: https://badlands.substack.com/p/badlands-news-brief-cf2
+
+## Claims about media money laundering (February 2025)
+
+In February 2025 the President of El Salvador posted on X that "the vast majority of 'independent' journalists and media are, in fact, part of a global money laundering operation aimed at promoting the globalist agenda, along with NGOs funded under the same scheme."[14] He added that his government had reported this before, "but now there is official confirmation, with new names, figures and documents."[14] The statement, translated from Spanish, was carried in the Badlands News Brief among items on the dismantling of [[usaid|USAID]] and its funding of NGOs and media outlets.[14]
+
+14. Badlands Brief — "Badlands News Brief: Soaring Eagles & Terminal USAIDs", URL: https://badlands.substack.com/p/badlands-news-brief-cf3
+15. Badlands Brief — "Global Struggles, Civil Alliances, & the Penalty for Treason", URL: https://badlands.substack.com/p/badlands-news-brief-d04

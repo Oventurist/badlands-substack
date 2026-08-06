@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [law, congress, january-6, prosecution]
-sources: [raw/badlands-brief-a1a.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-70a.md]
+sources: [raw/badlands-brief-a1a.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-c05.md]
 confidence: medium
 ---
 
@@ -46,3 +46,9 @@ On June 12, 2024, the House of Representatives voted 216 to 207 to hold Attorney
 3. Badlands Brief — "Badlands News Brief: Shenanigans Shall Continue Until Morale Improves ...", URL: https://badlands.substack.com/p/badlands-news-brief-49d
 4. Badlands Media — "Badlands News Brief: The Biden Crime Family Begins to Unravel ...", URL: https://badlands.substack.com/p/badlands-news-brief-505
 5. Badlands Brief — "Badlands News Brief: Contempt, Combat Tactics and Cuts?", URL: https://badlands.substack.com/p/badlands-news-brief-70a
+
+## Enforcement against Steve Bannon (2022–2024)
+
+[[steve-bannon|Steve Bannon]] was found guilty in 2022 of contempt of Congress for failing to appear for a deposition ordered by the House January 6 committee and for refusing to turn over subpoenaed documents, and was sentenced to four months in prison.[6] After the D.C. Circuit upheld his conviction in May 2024, U.S. District Judge [[carl-nichols|Carl Nichols]] ordered him on June 5, 2024 to self-surrender by July 1, rejecting his argument that he should remain free pending a Supreme Court appeal.[6] Justice Department prosecutor [[john-crabb|John Crabb]] told the court that reversal was "unlikely."[6]
+
+6. Badlands News Brief — "Bicameral Jailings, Russian Trolling and Retribution ...", URL: https://badlands.substack.com/p/badlands-news-brief-c05

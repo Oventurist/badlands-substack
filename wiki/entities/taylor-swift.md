@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [entertainment, music, 2024-election, psyop, narrative]
-sources: [raw/badlands-news-brief-06d.md, raw/badlands-news-brief-4b7.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-8d8.md, raw/badlands-news-brief-b01.md]
+sources: [raw/badlands-news-brief-06d.md, raw/badlands-news-brief-4b7.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-8d8.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-bd6.md, raw/badlands-news-brief-ce1.md]
 confidence: medium
 ---
 
@@ -26,6 +26,10 @@ Central to the piece was [[michael-benz|Michael Benz]], a former Trump administr
 
 [[burning-bright|Burning Bright]] argued that ridiculing ordinary Americans for discussing Swift psyops while ignoring years of prior Truth Community claims is self-defeating, likening the process to teaching a child to ride a bike with training wheels before sending them down a mountain.[2] He held that the Swift–Kelce–Chiefs–Super Bowl phenomenon was merging segments of the mainstream "Normie hivemind" that never otherwise interact and forcing them to confront government-sponsored influence operations directly, in the middle of the most contentious election cycle in American history and at an all-time high in the magnitude and velocity of information dissemination.[2] He characterized this as a positive development and urged readers to "watch the Establishment devour itself" rather than lecture newcomers about the finer nuances of conspiracy theories.[2]
 
+## Pentagon response (January 2024)
+
+On January 10, 2024 the [[pentagon|Pentagon]] publicly responded to reports that Swift might be "a front for a covert political agenda" on behalf of the Biden administration, with spokesperson [[sabrina-singh|Sabrina Singh]] denying the claims in a tongue-in-cheek statement to [[politico|Politico]]: "As for this conspiracy theory, we are going to shake it off," she said, before adding that the episode highlighted the need for [[us-congress|Congress]] to approve the department's supplemental budget request "as Swift-ly as possible."[6] The statement followed remarks by Fox News host [[jesse-watters|Jesse Watters]], who questioned Swift's rise in popularity, observed that her sold-out Eras Tour had an economic impact greater than the GDP of fifty countries, and claimed the Pentagon's psychological operations unit had floated turning her into an asset during a NATO meeting roughly four years earlier.[6] The controversy is covered at [[taylor-swift-pentagon-psyop-claims]].[6]
+
 ## 2025 Trump comparison
 
 In August 2025, while praising [[sydney-sweeney|Sydney Sweeney]]'s [[american-eagle-sydney-sweeney-ad-controversy|American Eagle advertisement]], President [[donald-trump|Donald Trump]] compared Sweeney favorably against "Woke singer Taylor Swift."[3] Trump had previously said he "hates" Swift after she endorsed his election opponent, Vice President [[kamala-harris|Kamala Harris]], in October, calling the singer "NO LONGER HOT."[3]
@@ -40,6 +44,10 @@ Swift's relationship with Kansas City Chiefs tight end [[travis-kelce|Travis Kel
 
 [[badlands-media|Badlands Media]] writer GhostofBasedPatrickHenry described the Kelce–Swift pairing as "obviously a media-orchestrated construct," pointing to reported leaked public-relations contracts said to stipulate terms of the relationship and to the couple's public adoption of political positions, alongside Kelce's paid spokesmanship for [[pfizer|Pfizer]] and its COVID-19 vaccine.[5] He argued that public shaming of such figures is the only mechanism capable of disincentivizing celebrity participation in elite-aligned messaging campaigns.[5]
 
+## Endorsement of Kamala Harris (September 2024)
+
+Badlands contributor [[burning-bright|Burning Bright]] cited Swift's endorsement of [[kamala-harris|Kamala Harris]] as a moment that entrenched the entertainer as "firmly Establishment in the normie hivemind," placing it in a sequence with the federal RICO indictment of [[sean-combs|Sean "Diddy" Combs]] days later as evidence of a larger narrative unfolding in the entertainment industry.[7]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Devolution Proofs Abroad and White Pills in the Chaos", URL: https://badlands.substack.com/p/badlands-news-brief-06d
@@ -47,3 +55,5 @@ Swift's relationship with Kansas City Chiefs tight end [[travis-kelce|Travis Kel
 3. Badlands News Brief — "Post Mortems, Dog Fights, & Flight Risks", URL: https://badlands.substack.com/p/badlands-news-brief-721
 4. Badlands Brief — "Badlands News Brief: Trump Hits the Bronx as the Establishment Panics", URL: https://badlands.substack.com/p/badlands-news-brief-8d8
 5. Badlands Brief — "Badlands News Brief: Marauding, Squirrel-Murdering Psychopaths Panic Ahead of the Election", URL: https://badlands.substack.com/p/badlands-news-brief-b01
+6. Badlands Brief — "Badlands News Brief: Houthi's War is it, Anyway?", URL: https://badlands.substack.com/p/badlands-news-brief-bd6
+7. Badlands Brief — "Badlands News Brief: Trump Sends Comms as Diddlers Get Indicted", URL: https://badlands.substack.com/p/badlands-news-brief-ce1

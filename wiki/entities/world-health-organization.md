@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [who, globalism, public-health, ngo]
-sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-brief-2c5.md, raw/badlands-brief-695.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-ba8.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-brief-2c5.md, raw/badlands-brief-695.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-ba8.md, raw/badlands-news-brief-c50.md]
 confidence: low
 ---
 
@@ -82,6 +82,10 @@ In June 2023, the WHO met with the [[european-union|European Union]] in Geneva t
 
 On January 21, 2025, the WHO issued a statement saying it regretted the announcement that the United States intended to withdraw from the organization, and asserting that the WHO "plays a crucial role in protecting the health and security of the world's people, including Americans."[13] The statement noted that the United States was a founding member of the WHO in 1948 and had participated in shaping and governing its work ever since, alongside 193 other member states, including through the World Health Assembly and Executive Board, and expressed hope that Washington would reconsider.[13] Badlands writer [[jordan-sather|Jordan Sather]] linked the move to the simultaneous US withdrawal from the Paris Climate Accord on day one of the second [[donald-trump|Trump]] term, remarking that "globalists" were "big mad" and noting Trump's scheduled virtual address to the World Economic Forum later that week.[13] See [[us-withdrawal-from-the-world-health-organization|US withdrawal from the World Health Organization]].[13]
 
+## Bid for emergency governing authority (July 2023 commentary)
+
+In July 2023, [[badlands-media|Badlands Media]] contributor [[ryan-delarme|Ryan DeLarme]] characterized the WHO as the intended vehicle for two of three parallel efforts to establish supranational emergency authority.[14] He wrote that the proposed [[pandemic-treaty|Pandemic Treaty]] "would put the World Health Organization in the role of a temporary world governing body," and that while attention was fixed on the treaty, proposed amendments to the [[international-health-regulations|International Health Regulations]] would place the WHO "in a position to supersede the governments of the world in the event of another pandemic."[14] DeLarme said the treaty had drawn "serious blowback" and that the IHR amendments were beginning to be exposed as well, adding that the [[united-nations|United Nations]] was now pursuing the same goal through its proposed "emergency platform."[14]
+
 ## References
 
 1. Badlands Brief — "AI Can Help Us Expose the NWO", URL: https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo
@@ -97,3 +101,4 @@ On January 21, 2025, the WHO issued a statement saying it regretted the announce
 11. Badlands Brief — "Badlands News Brief: Lake and Abbott Take a Stand as Haley Falls", URL: https://badlands.substack.com/p/badlands-news-brief-b19
 12. Badlands Brief — "Trump Indicted ... AGAIN! ... & Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-b83
 13. Badlands Brief — "Badlands News Brief: Hopium for Health AI, Hulk on Hunter, & A Happy WHO Adieu", URL: https://badlands.substack.com/p/badlands-news-brief-ba8
+14. Badlands Brief — "Badlands News Brief: The Cocaine White House, False Flags & Free Speech", URL: https://badlands.substack.com/p/badlands-news-brief-c50

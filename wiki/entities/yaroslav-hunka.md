@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [canada, ukraine, world-war-ii, waffen-ss, controversy]
-sources: [raw/badlands-news-brief-2ca.md]
+sources: [raw/badlands-news-brief-2ca.md, raw/badlands-news-brief-cc9.md]
 confidence: medium
 ---
 
@@ -25,3 +25,9 @@ Badlands Media contributor [[paul-fleuret|Paul Fleuret]] framed the episode as e
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Ukrainian Nazis, Spirit Cooks & Potato Presidents", URL: https://badlands.substack.com/p/badlands-news-brief-2ca
+
+## Attempt to expunge the record
+
+Following the standing ovations given to Hunka by the Canadian [[house-of-commons-of-canada|House of Commons]] — with Speaker [[anthony-rota|Anthony Rota]] and Prime Minister [[justin-trudeau|Justin Trudeau]] present, during the visit of a guest party accompanying [[volodymyr-zelensky|Volodymyr Zelensky]] — members of Parliament sought to erase all official records of the incident, including video records and the original text of Rota's remarks.[2] [[zerohedge|ZeroHedge]] reported that the effort was ultimately blocked by House conservatives, and described it as a Stalinist attempt to memory-hole inconvenient history rather than confront the question of Nazi influences in Ukraine.[2] Hunka's wartime service was with the [[14th-waffen-grenadier-division-of-the-ss|14th Waffen Grenadier Division of the SS]], described by the Friends of the [[simon-wiesenthal-center|Simon Wiesenthal Center]] as a unit whose crimes against humanity during the Holocaust are well documented.[2] Badlands contributor [[justin-deschamps|Justin Deschamps]] argued the affair exposed a catastrophic vetting failure by Canadian officials and staffers who are meant to serve as trustees of the public.[2]
+
+2. Badlands Brief — "Badlands News Brief: Hunter Sues, Ukraine Backpedals & Big Mike Preps", URL: https://badlands.substack.com/p/badlands-news-brief-cc9

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [campaign-finance, fraud, actblue, small-donors, money-laundering]
-sources: [raw/badlands-brief-1ef.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-899.md]
+sources: [raw/badlands-brief-1ef.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-c78.md]
 confidence: medium
 ---
 
@@ -32,7 +32,12 @@ In February 2025 Badlands writers applied the smurfing frame to reporting that D
 
 The June 2025 House and Justice Department investigations into ActBlue centered on "straw" or "dummy" contributions — the practice commonly described as smurfing.[3] President Donald Trump authorized Attorney General Pam Bondi to investigate the unlawful use of online fundraising platforms for such contributions.[3] Badlands commentary argued that the practice is bipartisan, citing investigator Peter Bernegger's claim that Senator Ted Cruz is the top national recipient of smurfed donations and calling for equivalent scrutiny of WinRed.[3] The core concern is that illegal or foreign campaign money is washed through the identities of real individuals without their knowledge or consent, so that on paper the donations appear to come from small independent donors.[3]
 
+## Reid Hoffman context (November 2025)
+
+After President [[donald-trump|Donald Trump]] called on November 18, 2025 for an investigation of Democratic mega-donor [[reid-hoffman|Reid Hoffman]], [[ashe-in-america|Ashe in America]] revisited the smurfing thesis to place the story in context, noting that she and [[canncon|CannCon]] had discussed smurfing for more than a year on [[why-we-vote|Why We Vote]] and had laid out the basics in an April 2025 Brief after the [[house-judiciary-committee|House Judiciary Committee]] reported that [[actblue|ActBlue]] had intentionally relaxed fraud-prevention measures during the 2024 election.[4] She reiterated that smurfing was piloted by the Obama Victory Fund during [[barack-obama|Barack Obama]]'s first presidential campaign, that The New York Times debunked the small-donor claims in a scandal producing the largest campaign finance fine in history, and that by 2012 a new Campaign Finance Institute study was carried uncritically while the 2008 scandal was ignored.[4] ActBlue, launched in 2004 to harness grassroots small donors, instead "harnessed it through a meeting of the minds to engage in a highly coordinated portfolio of crime," in her framing.[4] She stressed that the statutory list would likely apply to each of millions of individual transactions, that state analogues exist where payments originated, and that [[winred|WinRed]] is implicated as well — leaving the central open question: "Whose money are they laundering?"[4]
+
 ## References
 1. Badlands Brief — "Self Incrimination, Crime Magnets, & Gay Tourism", URL: https://badlands.substack.com/p/badlands-brief-1ef
 2. Badlands Brief — "Badlands News Brief: Predictable Pandemics & A Thespian's Next Steps", URL: https://badlands.substack.com/p/badlands-news-brief-4a9
 3. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
+4. Badlands Brief — "Bilateral Bromance, Private Peace Deals & Imminent Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-c78

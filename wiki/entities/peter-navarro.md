@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [trump-administration, contempt-of-congress, trade]
-sources: [raw/badlands-brief-c7b.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-62c.md]
+sources: [raw/badlands-brief-c7b.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-c0a.md]
 confidence: low
 ---
 
@@ -17,6 +17,10 @@ The Badlands Brief invoked Navarro's case, alongside that of [[steve-bannon|Stev
 ## Prison report order (March 2024)
 
 Navarro was ordered to report to prison on March 19, 2024 to begin a four-month sentence following his conviction on two counts of congressional contempt.[2] The conviction followed his defiance of a subpoena from the then-dissolved [[january-6-committee|House select committee]] that investigated the January 6, 2021 Capitol riot.[2] He had been attempting to persuade a federal appeals court to stay his sentence pending appeal.[2] "Dr. Navarro has now been ordered to report to the custody of the Bureau of Prisons, FCI Miami, on or before 2:00PM EDT on March 19, 2024," his attorney stated in a legal filing, reiterating a request for an administrative stay and asking that, should the court deny the motion, a stay be granted to permit Supreme Court review.[2]
+
+## Supreme Court denial and imprisonment (March 2024)
+
+On the afternoon of Monday, March 18, 2024, the [[supreme-court-of-the-united-states|Supreme Court]] rejected Navarro's request for a last-minute reprieve, requiring him to report to prison the following day.[7] Aged 74, he became the first former White House official ever jailed for contempt of Congress, reporting to a minimum-security [[federal-bureau-of-prisons|Bureau of Prisons]] satellite camp in Miami situated next to a zoo.[7] His prison consultant, Sam Mangel, told CNN that "not only can you hear the lions … you can hear the lions roar every morning," and Navarro reportedly hoped to spend the coming months working in air conditioning and sleeping in a dormitory for "elderly" male inmates.[7] The four-month sentence followed a jury verdict finding him guilty of failing to respond to congressional subpoenas for documents and testimony in the House investigation of the January 6, 2021 Capitol attack.[7]
 
 ## Feud with Elon Musk (April 2025)
 
@@ -47,3 +51,4 @@ A jury was seated on September 5, 2023, for Navarro's federal criminal trial on 
 4. Badlands News Brief — "Treasury Triumphs, TikTok U-Turns, & Trade War Time-Outs", raw/badlands-news-brief-508.md
 5. Badlands Brief — "Red States Align While the MSM Craters", URL: https://badlands.substack.com/p/badlands-news-brief-5ff
 6. Badlands Brief — "Trump Takes on Big Pharma and GART Kicks Off!", URL: https://badlands.substack.com/p/badlands-news-brief-62c
+7. Badlands Brief — "Badlands News Brief: White Collar Prisons & Confounding Court Decisions", URL: https://badlands.substack.com/p/badlands-news-brief-c0a

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [gulf-states, middle-east, geopolitics, security]
-sources: [raw/badlands-brief-d1a.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-7b7.md]
+sources: [raw/badlands-brief-d1a.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-7b7.md, raw/badlands-news-brief-c14.md]
 confidence: medium
 ---
 
@@ -32,8 +32,13 @@ The GCC — comprising [[saudi-arabia|Saudi Arabia]], Bahrain, [[kuwait|Kuwait]]
 
 Badlands commentary treated the sequencing as evidence of a broader realignment, in which "the Christian nation of Russia and the Hindu nation of India are in a deep alliance with the Muslims of both Arabia and Persia," and of a healing Middle East in which Deep State efforts to turn Sunni against Shia would fail.[4] During the same gathering, Turkish President [[recep-tayyip-erdogan|Recep Tayyip Erdoğan]] called for an emergency meeting of all Islamic world leaders, after which Faisal bin Farhan flew directly to [[egypt|Egypt]].[4]
 
+## Trump's 2025 Riyadh summit agenda
+
+In May 2025 President [[donald-trump|Donald Trump]] launched his second administration's Middle East diplomacy in [[saudi-arabia|Riyadh]], with meetings with GCC leaders expected to cover a packed agenda of trade, investment, mutual security commitments, and strategies for ending regional conflicts.[5] Commentators described those topics as vital not only to regional stability but to the broader health of the global economy, and argued that the most urgent case was Gaza, where the humanitarian situation had become catastrophic.[5] Grounding US policy in regional realities and partnerships through the GCC, rather than distant theorizing, was presented as the basis for a transformative period favoring peace and prosperity over war and hatred.[5]
+
 ## References
 1. Badlands Brief — "Key Indictments at Home and a 'State of Collapse' Abroad", URL: https://badlands.substack.com/p/badlands-brief-d1a
 2. Badlands News Brief — "Trump Doubles Down as Kamala Crumbles", URL: https://badlands.substack.com/p/badlands-news-brief-020
 3. Badlands Brief — "Manhunts, Mental Health, & the Mother of a Monster", URL: https://badlands.substack.com/p/badlands-news-brief-6e5
 4. Badlands Brief — "Badlands News Brief: Harris Preps, Sovereigns Speak & ... Haitians Eat Cats?", URL: https://badlands.substack.com/p/badlands-news-brief-7b7
+5. Badlands Brief — "Badlands News Brief: Overreach, Obstruction, & Our Boy Blue", URL: https://badlands.substack.com/p/badlands-news-brief-c14

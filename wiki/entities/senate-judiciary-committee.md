@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, oversight, doj, legislation]
-sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-165.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-351.md]
+sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-165.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-d21.md]
 confidence: medium
 ---
 
@@ -32,8 +32,13 @@ In July 2026 committee chair [[chuck-grassley|Chuck Grassley]] disclosed that fo
 
 The committee heard attorney general nominee [[pam-bondi|Pam Bondi]] on January 15, 2025, in a session that quickly turned into a proxy fight over FBI director nominee [[kash-patel|Kash Patel]].[4] Ranking member [[dick-durbin|Dick Durbin]] raised Patel's [[qanon|QAnon]] commentary, [[amy-klobuchar|Amy Klobuchar]] questioned his statements about targeting the media, and several Democratic members pressed on his purported "enemies list" of prospective investigative targets.[4] Democrats also repeatedly asked Bondi whether Joe Biden won the 2020 election; she conceded Biden was duly sworn in but would not say Trump lost, and referred to possible fraud in Pennsylvania.[4]
 
+## January 2024 hearing with social media chief executives
+
+On Wednesday, January 31, 2024, the committee questioned a group of the nation's top social media executives for about four hours about the mental health risks their platforms pose to young people and about accusations that their companies failed to protect children from exploitation and abuse.[5] The chief executives acknowledged shortfalls and highlighted remedial efforts while pushing back on other criticism.[5] Senators criticized the companies' lobbying, which they said had blocked federal legislation, and were frequently applauded by families of children who died after being ensnared on the platforms.[5] [[mark-zuckerberg|Mark Zuckerberg]] of [[meta-platforms|Meta]] stood to deliver a direct apology to those families.[5] Despite apparent bipartisan consensus, the hearing left open whether [[congress|Congress]] would act to regulate the platforms.[5]
+
 ## References
 1. Badlands Brief — "America for Sale - Part 2", URL: https://badlands.substack.com/p/america-for-sale-part-2
 2. Badlands Brief — "Trump Conducts the Chaos as the Uniparty Concentrates Fire", URL: https://badlands.substack.com/p/badlands-brief-165
 3. Badlands Brief — "TACO Tuesday Returns as the War of Stories Gets Weird", URL: https://badlands.substack.com/p/badlands-brief-c7b
 4. Badlands News Brief — "Mid-Transition “QAnon” Claims & A Not Quite Final Farewell", URL: https://badlands.substack.com/p/badlands-news-brief-351
+5. Badlands Brief — "Badlands News Brief: Chinese Interference and Narrative Seeding", URL: https://badlands.substack.com/p/badlands-news-brief-d21

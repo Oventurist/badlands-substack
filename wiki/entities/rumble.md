@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [platform, free-speech, video, censorship, 5gw]
-sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-brief-a1a.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5b2.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7b1.md, raw/badlands-news-brief-890.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-a34.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-brief-a1a.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5b2.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7b1.md, raw/badlands-news-brief-890.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-ca1.md]
 confidence: medium
 ---
 
@@ -78,3 +78,8 @@ Rumble chief executive [[chris-pavlovski|Chris Pavlovski]] occupied the "new med
 9. Badlands Brief — "Absurdity and MAGAMania as the Year Winds Down", URL: https://badlands.substack.com/p/badlands-news-brief-890
 10. Badlands Brief — "Badlands News Brief: Deadline Deals and Crime Families", URL: https://badlands.substack.com/p/badlands-news-brief-a29
 11. Badlands Brief — "Badlands News Brief: Rising Demand for DC Defenders & A Sovereign Spring Social", URL: https://badlands.substack.com/p/badlands-news-brief-a34
+## Joining the GARM lawsuit (August 2024)
+
+Shortly after [[x-corp|X]] filed its August 2024 antitrust complaint against the [[global-alliance-for-responsible-media|Global Alliance for Responsible Media]] (GARM), Rumble joined the lawsuit.[12] The filing described a conspiracy centered on GARM, an initiative created by the [[world-federation-of-advertisers|World Federation of Advertisers]], which established arbitrary standards for content on digital platforms where its members might wish to advertise and used those one-size-fits-all standards to perpetrate an advertiser boycott against Rumble and other platforms.[12] The suit stressed GARM's vast reach, noting that its membership included the six largest ad agency holding companies, among them defendant [[wpp|WPP]].[12]
+
+12. Badlands Brief — "Fake Vice Presidents and Effective Lawsuits", URL: https://badlands.substack.com/p/badlands-news-brief-ca1

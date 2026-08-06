@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [propaganda, information-warfare, state-department, media, legislation]
-sources: [raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-8cd.md]
+sources: [raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-c4f.md]
 confidence: medium
 ---
 
@@ -46,9 +46,14 @@ Badlands host [[chris-paul|Chris Paul]] argued on Devolution Power Hour that "yo
 
 [[jon-herold|Jon Herold]] added that making it "illegal" for the media to lie sounds appealing until one must decide who is in charge of determining what is true, observing that the same movement was up in arms when the Biden administration created the [[disinformation-governance-board|Disinformation Governance Board]], derided as a "Ministry of Truth," and is now "essentially begging for it, just this time it's our side's idea."[4]
 
+## Invoked as a "non-solution" (November 2025)
+
+Badlands commentator [[chris-paul|Chris Paul]] grouped congressional term limits with "the Smith-Mundt Act stuff," describing both as "non-solutions that sound like good solutions to people who don't understand the problems."[5] He made the remark in response to a push to certify term limits and a balanced budget requirement through state legislatures under [[article-v|Article V]], warning that term limits would be used to argue on behalf of the [[twenty-second-amendment-third-term-loophole|22nd Amendment]], which he argued must be dismantled.[5]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Bengaluru Raids, Bitcoin Bangers, & A Buddhist Execution", URL: https://badlands.substack.com/p/badlands-news-brief-2dc
 2. Badlands News Brief — "Strategy & Micro Protests", URL: https://badlands.substack.com/p/badlands-news-brief-71c
 3. Badlands News Brief — "Media Apologies, Fake & Gay Drones and Trump Appointments", URL: https://badlands.substack.com/p/badlands-news-brief-86f
 4. Badlands Brief — "Badlands News Brief: Vigils, Vanguards, & Various Investigations", URL: https://badlands.substack.com/p/badlands-news-brief-8cd
+5. Badlands News Brief — "Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f

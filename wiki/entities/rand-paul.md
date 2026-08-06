@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, republican-party, kentucky, oversight]
-sources: [raw/badlands-brief-144.md, raw/badlands-brief-414.md, raw/badlands-brief-67a.md, raw/badlands-brief-be1.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-7ce.md, raw/badlands-news-brief-8f1.md]
+sources: [raw/badlands-brief-144.md, raw/badlands-brief-414.md, raw/badlands-brief-67a.md, raw/badlands-brief-be1.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-7ce.md, raw/badlands-news-brief-8f1.md, raw/badlands-news-brief-bd7.md]
 confidence: medium
 ---
 
@@ -60,6 +60,11 @@ In a November 2023 interview with Jan Jekielek on EpochTV's "American Thought Le
 
 Paul alleged that Fauci and multiple other parts of the federal government engaged in an "extensive" coverup of the origin, threat, and potential treatments for COVID-19, a two-year misdirection he detailed in his book *Deception: The Great Covid Cover-Up*, published in October 2023.[10] "Virtually everything they said in private, they said the opposite in the public at the same time," he said.[10] At the time Fauci was employed by Georgetown University, which he had joined in July 2023 as a distinguished university professor in its school of medicine's department of medicine.[10]
 
+
+## Challenge to the Caribbean boat strikes (December 2025)
+
+On December 2, 2025, amid escalating U.S. strikes on alleged drug-trafficking vessels in the Caribbean, Paul posted that "Coast Guard records show that prior to the reign of 'blow-them-to-smithereens' 21 percent of boats stopped off the coast of Venezuela possessed NO drugs!"[11] The statement was circulated in Badlands coverage as a caution against the lethal-strike policy, though contributor [[jon-herold|Jon Herold]] inverted the framing by noting that the same figure implied 79 percent of the boats stopped did carry drugs.[11]
+
 ## References
 1. Badlands Brief — "MLKKK Day, Peace Boards and Power Paradigms", URL: https://badlands.substack.com/p/badlands-brief-144
 2. Badlands Brief — "Narcissistic Sociopathy & Rebranded Sex Robots For Kids", URL: https://badlands.substack.com/p/badlands-brief-414
@@ -71,3 +76,4 @@ Paul alleged that Fauci and multiple other parts of the federal government engag
 8. Badlands Brief — "Badlands News Brief: Pardon Probes & Russia Gate Redux", URL: https://badlands.substack.com/p/badlands-news-brief-58e
 9. Badlands Brief — "The Star Spangled Banner, Bureaucrat Bleach Bit, & an Unknown Balance of Bullion", URL: https://badlands.substack.com/p/badlands-news-brief-7ce
 10. Badlands News Brief — "Dictators, Sovereigns and Bipartisan Peace", URL: https://badlands.substack.com/p/badlands-news-brief-8f1
+11. Badlands Brief — "Bogus Visas, Brazilian Sanctions, and Foreign Boat Battles", URL: https://badlands.substack.com/p/badlands-news-brief-bd7

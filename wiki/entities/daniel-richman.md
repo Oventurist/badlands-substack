@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [doj, fbi, classified-information, legal]
-sources: [raw/badlands-brief-579.md, raw/badlands-news-brief-448.md]
+sources: [raw/badlands-brief-579.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-bd2.md]
 confidence: medium
 ---
 
@@ -22,6 +22,11 @@ No final decision had been made on venue for a potential indictment, with option
 
 Evidence released by prosecutors in November 2025 included emails between Richman, described as an FBI special government employee, and then-Director [[james-comey|James Comey]], sent from Comey's private email account.[2] In the exchanges the two discussed attempting to influence a *New York Times* reporter's coverage of the [[hillary-clinton|Hillary Clinton]] email scandal, with Comey writing, "Perhaps you can make him smarter."[2] Prosecutors said such material would be used at trial to show that Comey misled [[congress|Congress]] when he denied authorizing staff to leak anonymously or speak with reporters.[2]
 
+## Subpoena in the Comey probe (September 2025)
+
+Roughly two weeks before reports that the [[department-of-justice|Justice Department]] was nearing a decision on indicting [[james-comey|James Comey]], Richman — a former Comey adviser and Columbia University law professor — was subpoenaed as part of the criminal probe.[3] President [[donald-trump|Donald Trump]] had argued that Comey broke the law by sharing memos containing classified information with the New York Times.[3]
+
 ## References
 1. Badlands Brief — "Two Cartels, Imminent Indictments, & A French Nun", URL: https://badlands.substack.com/p/badlands-brief-579
 2. Badlands Brief — "Badlands News Brief: Victim Cards, Foreign Inference, & Chessboard Stans", URL: https://badlands.substack.com/p/badlands-news-brief-448
+3. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2

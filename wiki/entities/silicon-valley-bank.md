@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, finance, bank-failure, 2023, systemic-risk]
-sources: [raw/badlands-news-brief-138.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-38f.md, raw/badlands-news-brief-9e8.md]
+sources: [raw/badlands-news-brief-138.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-38f.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-cb9.md]
 confidence: medium
 ---
 
@@ -46,6 +46,14 @@ Badlands commentary on the episode was divided over intent. [[justin-deschamps|J
 
 ZeroHedge described SVB as the first of many banks to fail when the Federal Reserve's tightening cycle ended "in disaster" in March 2023, triggering a chain of dominoes that culminated in the collapse of [[credit-suisse|Credit Suisse]] and its emergency sale to [[ubs|UBS]].[6] The cascade prompted the [[federal-reserve|Federal Reserve]] to announce coordinated daily U.S. dollar swap lines with all major central banks on March 19, 2023.[6]
 
+## Aftermath and the deposit guarantee debate (March 2023)
+
+The downfall of Silicon Valley Bank and [[first-republic-bank|First Republic Bank]] rattled financial markets and prompted the [[federal-reserve|Federal Reserve]], the [[us-department-of-the-treasury|Treasury]] and the [[federal-deposit-insurance-corporation|FDIC]] to shore up the banking sector with special loans and guarantees of uninsured deposits at the failed institutions.[7] Economist [[daniel-lacalle|Daniel Lacalle]] told [[the-epoch-times|The Epoch Times]] that the failures were a symptom of a broader problem the central bank could not fix, and that repeated liquidity injections simply create new bubbles.[7] The episode also drove bank lobbying for a temporary blanket deposit guarantee, described at [[2023-proposal-to-guarantee-all-us-bank-deposits|the 2023 proposal to guarantee all US bank deposits]].[7]
+
+## Aftermath and the deposit guarantee debate (March 2023)
+
+The downfall of Silicon Valley Bank and [[first-republic-bank|First Republic Bank]] rattled financial markets and prompted the [[federal-reserve|Federal Reserve]], the [[us-department-of-the-treasury|Treasury]] and the [[federal-deposit-insurance-corporation|FDIC]] to shore up the banking sector with special loans and guarantees of uninsured deposits at the failed institutions.[7] Economist [[daniel-lacalle|Daniel Lacalle]] told [[the-epoch-times|The Epoch Times]] that the failures were a symptom of a broader problem the central bank could not fix, and that repeated liquidity injections simply create new bubbles.[7] The episode also drove bank lobbying for a temporary blanket deposit guarantee, described at [[2023-proposal-to-guarantee-all-us-bank-deposits|the 2023 proposal to guarantee all US bank deposits]].[7]
+
 ## References
 1. Badlands News Brief — "Drones, Speeches ... and a Swiss Bank", URL: https://badlands.substack.com/p/badlands-news-brief-138
 2. Badlands News Brief — "More Banks! And Some Weird Stuff, Too ...", URL: https://badlands.substack.com/p/badlands-news-brief-1e0
@@ -53,3 +61,4 @@ ZeroHedge described SVB as the first of many banks to fail when the Federal Rese
 4. Badlands Brief — "Badlands News Brief: So-Called Journalists & Trump's Demise?", URL: https://badlands.substack.com/p/badlands-news-brief-25e
 5. Badlands Brief — "BANKS BANKS BANKS!", URL: https://badlands.substack.com/p/badlands-news-brief-38f
 6. Badlands Brief — "Badlands News Brief: Trump Arrest ... Panic or No Panic?", URL: https://badlands.substack.com/p/badlands-news-brief-9e8
+7. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9

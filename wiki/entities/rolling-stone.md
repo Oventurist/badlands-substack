@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, magazine, legacy-media, 2024-election]
-sources: [raw/badlands-news-brief-5fb.md]
+sources: [raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-d32.md]
 confidence: medium
 ---
 
@@ -24,3 +24,17 @@ Rolling Stone characterized what had once been a fringe notion — one senior Tr
 
 ## References
 1. Badlands News Brief — "Biden Melts Down as Judges Are Themselves Judged", URL: https://badlands.substack.com/p/badlands-news-brief-5fb
+
+## Shangela investigation (2024)
+
+In March 2024, Rolling Stone published an investigation into [[shangela|Shangela]], the drag persona of Darius Jeremy ("DJ") Pierce and a breakout star of [[rupauls-drag-race|RuPaul's Drag Race]].[2] Begun in November 2022, the reporting drew on 16 months of research, court documents and interviews with several accusers; four people alleged Pierce sexually assaulted them or attempted sex while they were too inebriated to consent, and a fifth described an attempted assault in a bathroom closet.[2] The magazine uncovered a previously unreported Los Angeles police complaint and multiple independent accusations spanning several years.[2] [[simon-esler|Simon Esler]] criticized the piece for its repeated framing of the danger that "conservatives may weaponize it against the queer community."[2]
+
+2. Badlands Brief — "Badlands News Brief: Weaponization, Willis, and World War III", URL: https://badlands.substack.com/p/badlands-news-brief-c1e
+
+## Sound of Freedom review (July 2023)
+
+In July 2023 Rolling Stone published a negative review of the anti-child-trafficking film [[sound-of-freedom|Sound of Freedom]], written by staff writer [[miles-klee|Miles Klee]], which described the picture as a "QAnon-tinged thriller about child-trafficking" that was "designed to appeal to the conscience of a conspiracy-addled boomer."[3] The review attacked lead actor [[jim-caviezel|Jim Caviezel]] as "a prominent figure on the conspiracist right" and dismissed his claims about elite paedophile rings harvesting [[adrenochrome|adrenochrome]] from children.[3] Klee wrote that the film was "a stomach-turning experience, fetishizing the torture of its child victims and lingering over lush preludes to their sexual abuse," and that he "had the uncomfortable sense that I might be arrested myself just for sitting through it."[3]
+
+The review drew a widespread backlash, aggregated by [[zerohedge|ZeroHedge]] under the headline "Why Do You Support Child Trafficking?", which characterised the magazine as having previously been implicated in a controversy over its boss removing child pornography accusations, and contrasted the review with the film's 99 percent audience rating on [[rotten-tomatoes|Rotten Tomatoes]].[3] [[ashe-in-america|Ashe in America]] described Rolling Stone's critics as among the "mockingbirds' movie critics" pulling no punches, and argued that outlets serving an establishment that enables the exploitation of children did not want Americans to see the film.[3] [[burning-bright|Burning Bright]] placed the review within a broader [[media-industrial-complex|Media Industrial Complex]] effort to frame the film as Alt Right and QAnon-adjacent.[3]
+
+3. Badlands Brief — "It Was Always About the Children", URL: https://badlands.substack.com/p/badlands-news-brief-d32

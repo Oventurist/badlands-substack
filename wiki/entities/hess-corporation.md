@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [energy, oil, venezuela, mergers]
-sources: [raw/badlands-news-brief-763.md]
+sources: [raw/badlands-news-brief-763.md, raw/badlands-news-brief-cad.md]
 confidence: medium
 ---
 
@@ -18,6 +18,11 @@ Hess Corporation is an American energy company whose Venezuelan and regional oil
 
 Within days of that judgment, President [[donald-trump|Donald Trump]] issued an exemption to US sanctions on Venezuela permitting Citgo to import Venezuelan crude for refinement, a sequence Badlands commentary treated as unlikely to be coincidental.[1]
 
+## Acquisition by Citgo and Venezuelan oil rights
+
+Hess held the oil rights in [[venezuela|Venezuela]] for years, with [[exxonmobil|Exxon]] retaining a first right of refusal should Hess ever seek to sell them.[2] In July 2025 [[citgo|Citgo]] circumvented that arrangement by acquiring the entire Hess company rather than the rights alone; Exxon's legal challenge to the buy-out was denied, finalizing the deal.[2] The transaction placed the Venezuelan rights under Citgo, itself owned by the state oil company [[pdvsa|PDVSA]], a chain of ownership that became central to Badlands analysis of President [[donald-trump|Donald Trump]]'s December 2025 blockade and "oil rights" rhetoric.[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: The Ice Maiden, A Command Overhaul, & A Thrice Jewish President", URL: https://badlands.substack.com/p/badlands-news-brief-763
+2. Badlands Brief — "A Christmas Bonus, War “With” Venezuela, & Prime Time Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-cad

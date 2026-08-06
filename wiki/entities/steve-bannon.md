@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [maga, media, war-room, epstein-files, kayfabe]
-sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-7c6.md, raw/badlands-brief-a1a.md, raw/badlands-brief-c7b.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-b63.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-7c6.md, raw/badlands-brief-a1a.md, raw/badlands-brief-c7b.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-b63.md, raw/badlands-news-brief-c05.md, raw/badlands-news-brief-c9b.md]
 confidence: medium
 ---
 
@@ -117,6 +117,12 @@ On January 14, 2025, Bannon taunted his fellow [[donald-trump|Trump]] ally [[elo
 
 Politico framed the exchange as a prime example of the infighting already underway as Trump's big-tent GOP returned to power, with allies arguing it reflected a governing style in which Trump retains decision-making power while ensuring no single faction gains too much control.[18] In dismissing Musk's influence, Bannon pointed to [[scott-bessent|Scott Bessent]] prevailing over Musk's favorite [[howard-lutnick|Howard Lutnick]] for Treasury secretary, and to the fight over H-1B visas, which he predicted would push Musk closer to the MAGA loyalist position that the program should be abolished entirely.[18]
 
+## Prediction of a Trump prison sentence (June 2024)
+
+Speaking at [[turning-point-action|Turning Point Action]]'s "The People's Convention" in Detroit in June 2024, Bannon warned that the left would stop at nothing to prevent [[donald-trump|Donald Trump]] from regaining the [[white-house|White House]].[21] "You know on the 11th of July, they're gonna sentence him for multiple years in prison. You understand that, right?" he said, adding: "They don't care about this election, they don't care how many votes we get. They're gonna fight us every step of the way."[21] He further predicted that "winning in November is just the first step," claiming that between November 5 and 6 [[jamie-raskin|Jamie Raskin]] would try to steal the election on January 6 and that Democrats were "already going to say, 'President Trump's an insurrectionist and we will never certify an election of an insurrectionist.'"[21]
+
+Bannon is also credited in the same brief with the description of the *[[financial-times|Financial Times]]* as "the paper of record for the Uniparty Establishment."[21]
+
 ## References
 1. Badlands Brief — "A Virtual Smash & Grab & Another Impeachment Hoax", URL: https://badlands.substack.com/p/badlands-brief-0a2
 2. Badlands Brief — "The Democratization of Narrative Distribution. And a New War with Iran.", URL: https://badlands.substack.com/p/badlands-brief-7c6
@@ -142,3 +148,12 @@ Politico framed the exchange as a prime example of the infighting already underw
 In mid-June 2025, Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that Bannon and [[tucker-carlson|Tucker Carlson]] were undergoing a "redemption arc" for their conduct over a critical 48 hours in the MAGA story.[19] The commentary noted that Bannon had never really publicly criticized [[israel|Israel]] before — a fact long used by critics to argue that Trump and his entourage were Zionist-captured — and that he "could not have picked a better moment to turn heel and speak truth against Israel" as the American public was inundated with what the author called military-grade propaganda in favor of another Middle East war.[19] Bannon and Carlson also discussed the "1963 coup" and the claim that America has lived under foreign subjugation since [[john-f-kennedy|John F. Kennedy]]'s public execution.[19]
 
 19. Badlands Brief — "Badlands News Brief: Military Strikes, Labor Strikes, & Greenland's Status Upgrade", URL: https://badlands.substack.com/p/badlands-news-brief-b63
+
+## June 2024 order to report to prison
+
+On June 5, 2024, U.S. District Judge [[carl-nichols|Carl Nichols]] ordered Bannon to begin his four-month prison sentence for [[contempt-of-congress|contempt of Congress]] by July 1, 2024, rejecting his bid to remain free while appealing.[20] Nichols, a [[donald-trump|Trump]] appointee, granted the government's motion at a Wednesday hearing after a three-judge D.C. Circuit panel had rejected Bannon's bid to overturn his conviction the previous month.[20] Bannon opposed the move, insisting he would appeal all the way to the Supreme Court if necessary and arguing he should remain free in the meantime.[20]
+
+Bannon had been found guilty in 2022 of failing to appear for a deposition ordered by the now-disbanded House January 6 committee and of refusing to turn over subpoenaed documents.[20] After the appellate ruling, the Justice Department moved to incarcerate him immediately, saying there was no longer a "substantial question of law that is likely to result in a reversal or an order for a new trial"; prosecutor [[john-crabb|John Crabb]] told the court, "We believe it is the exact opposite. It is unlikely."[20] Badlands contributor [[burning-bright|Burning Bright]] framed the sequencing of Bannon's jailing alongside Trump's own pending sentencing as "Bicameral Prison Sentences" and as a scripted narrative rollout rather than organic events.[20]
+
+20. Badlands News Brief — "Bicameral Jailings, Russian Trolling and Retribution ...", URL: https://badlands.substack.com/p/badlands-news-brief-c05
+21. Badlands Brief — "Badlands News Brief: Korean Borders, Warmongers & Peacemakers", URL: https://badlands.substack.com/p/badlands-news-brief-c9b

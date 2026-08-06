@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [journalism, media, intelligence, infrastructure, information-warfare]
-sources: [raw/badlands-news-brief-491.md]
+sources: [raw/badlands-news-brief-491.md, raw/badlands-news-brief-c4f.md]
 confidence: medium
 ---
 
@@ -22,6 +22,11 @@ Logan's statement emphasized the logistical significance of the span, describing
 
 Logan's account was amplified by outlets including [[the-gateway-pundit|The Gateway Pundit]], which contrasted her reporting with mainstream accounts of the collapse.[1] Badlands Media writer [[simon-esler|Simon Esler]] treated Logan's "insider" material as offering "some interesting clarity surrounding the nature of this attack," reading the described markers as consistent with [[fifth-generation-warfare|fifth generation warfare]] and cautioning that such claims should be "watched carefully and held lightly."[1] Esler placed the episode within a broader framework in which attacks on centralized infrastructure serve a "Primary Strategic Objective" of collapsing nation states and installing a [[new-world-order|New World Order]].[1]
 
+## Election fraud interview shared by Trump (2025)
+
+In November 2025, President [[donald-trump|Donald Trump]] reshared a podcast episode featuring Logan as part of a social media post urging his supporters and his own administration to direct all their efforts toward confronting what he described as widespread election fraud, declaring, "We must focus all of our energy and might on ELECTION FRAUD!!"[2] The interview included allegations from a former [[cia|CIA]] officer who claimed foreign influence campaigns and intelligence failures had compromised the integrity of US elections, and Logan's discussion centered on what she characterized as deep, systemic interference carried out over multiple election cycles.[2] Badlands host [[jon-herold|Jon Herold]] responded that election fraud is "the #1 issue" and that any discussion of future elections that omits it "only perpetuates the fraudulent system."[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Dali, Diddy & DJT", URL: https://badlands.substack.com/p/badlands-news-brief-491
+2. Badlands News Brief — "Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [neoconservatism, pnac, foreign-policy]
-sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-835.md, raw/badlands-news-brief-a60.md, raw/badlands-news-brief-b86.md]
+sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-835.md, raw/badlands-news-brief-a60.md, raw/badlands-news-brief-b86.md, raw/badlands-news-brief-d22.md]
 confidence: medium
 ---
 
@@ -28,8 +28,13 @@ On November 30, 2023, the [[washington-post|Washington Post]] published a Kagan 
 
 [[badlands-media|Badlands Media]] writer [[burning-bright|Burning Bright]] argued the piece marked "narrative convergence," with establishment messaging shifting from denial to a combined "Qualify-Distract-Admit" posture that implicitly conceded the inevitability of a Trump victory in 2024.[4]
 
+## Assassination-incitement accusations
+
+By early December 2023 the Kagan essay, titled "A Trump dictatorship is increasingly inevitable. We should stop pretending," had become the focus of accusations that legacy outlets were inciting violence against Trump.[5] The [[washington-post|Washington Post]] piece was one of several published over the preceding week warning that a second Trump term would turn America into a dictatorship, and many readers construed its call to take "every conceivable measure" to stop him — "including many things that might not work but that, given the magnitude of the crisis, must be tried anyway" — as a clear call to assassinate the former president.[5] Rep. [[matt-gaetz|Matt Gaetz]] (R-FL) responded on X that "They're obviously green-lighting assassination."[5] Coverage of the controversy again noted that Kagan is the husband of former State Department official [[victoria-nuland|Victoria Nuland]], who was deeply involved in peddling the [[steele-dossier|Steele dossier]].[5]
+
 ## References
 1. Badlands Brief — "Assad Day in Damascus", URL: https://badlands.substack.com/p/assad-day-in-damascus
 2. Badlands Brief — "Virginia Democrats Lose the Plot and Go For Tyranny", URL: https://badlands.substack.com/p/badlands-brief-835
 3. Badlands Brief — "Badlands News Brief: Trump Takes Over as the Info War Nears a Crescendo", URL: https://badlands.substack.com/p/badlands-news-brief-a60
 4. Badlands Brief — "Badlands News Brief: Israel & Biden Backlash Mounts ... Deep State Panics", URL: https://badlands.substack.com/p/badlands-news-brief-b86
+5. Badlands Brief — "Badlands News Brief: Trump Hits Back at the Deep State, Confirms Their Fears", URL: https://badlands.substack.com/p/badlands-news-brief-d22

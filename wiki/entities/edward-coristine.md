@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [doge, washington-dc, crime, big-balls]
-sources: [raw/badlands-news-brief-153.md, raw/badlands-news-brief-32c.md]
+sources: [raw/badlands-news-brief-153.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-d1d.md]
 confidence: medium
 ---
 
@@ -26,6 +26,11 @@ President [[donald-trump|Donald Trump]] blasted the lenient decision, saying, "T
 
 Coristine, the 19-year-old nicknamed "Big Balls" who worked at the [[doge|Department of Government Efficiency]], joined the [[social-security-administration|Social Security Administration]] in June 2025 after departing the White House.[2] He had originally been hired by [[elon-musk|Elon Musk]] for the DOGE team.[2] An SSA spokesperson, Stephen McGraw, confirmed to WIRED that "Edward Coristine joined the Social Security Administration this week as a special government employee," and said "his work will be focused on improving the functionality of the Social Security website and advancing our mission of delivering more efficient service to the American people."[2]
 
+## Departure from the federal government (June 2025)
+
+By late June 2025 Coristine was no longer working for the federal government. WIRED reported that his Google Workspace account with the [[general-services-administration|General Services Administration]], where he had received full-time employment status the previous month, was deactivated as of Tuesday afternoon, June 24, according to a source with direct knowledge.[3] His name also disappeared from a [[white-house|White House]] contact list of current [[department-of-government-efficiency|DOGE]] employees on the federal payroll maintained by a senior administration official.[3] In May he had appeared to be attending regular meetings with departments and agencies, including a May 5 meeting with the Commerce Department on [[donald-trump|Trump]]'s golden visa, a May 15 meeting on implementing the DOGE agenda at the military, and a May 22 meeting with the Treasury Department, and he was listed on a monthly GSA workforce report issued June 10.[3] Badlands contributor [[gmoney|GMONEY]] noted that "Big Balls resigned from the federal govt yesterday, per a White House official," adding, "Gonna miss that guy."[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Very Productive Phone Calls & Presidential Memorandums", URL: https://badlands.substack.com/p/badlands-news-brief-153
 2. Badlands Brief — "Decision Day, Disarming Deals & A Double Deportation", URL: https://badlands.substack.com/p/badlands-news-brief-32c
+3. Badlands News Brief — "N-Words, F-Bombs, & Big Balls' Future", URL: https://badlands.substack.com/p/badlands-news-brief-d1d

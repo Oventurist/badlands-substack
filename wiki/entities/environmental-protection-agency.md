@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [climate, regulation, deregulation, trump-administration]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-70c.md, raw/badlands-news-brief-384.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-745.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-70c.md, raw/badlands-news-brief-384.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-c44.md]
 confidence: medium
 ---
 
@@ -47,9 +47,14 @@ The EPA's tailpipe emissions standards adopted under the Obama and Biden adminis
 ### Inflation Reduction Act climate funds and the Power Forward Communities award
 In February 2025 the EPA disclosed that the Biden administration had awarded $2 billion to Power Forward Communities, a nonprofit partnered with multiple left-wing groups founded by Stacey Abrams.[5] The money had been parked at Citibank, an outside financial institution, before Biden left office, and formed part of a larger $20 billion pot the agency received through the Inflation Reduction Act to dole out to climate groups.[5] Administrator Lee Zeldin said it was "extremely concerning that an organization that reported just $100 in revenue in 2023 was chosen to receive $2 billion," roughly 20 million times the group's reported revenue.[5] Badlands commentary noted that the funds were discovered by DOGE.[5]
 
+## Phase-out of animal testing (2025)
+
+In April 2025 the EPA was among the agencies whose moves to end animal testing within their programs drew praise from animal advocacy groups, lawmakers and others, alongside a [[food-and-drug-administration|Food and Drug Administration]] announcement phasing out an animal testing requirement for antibody therapies and other drugs.[6] [[peta|PETA]] applauded the shift toward human-relevant testing strategies and urged still broader abandonment of animal use.[6]
+
 ## References
 1. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
 2. Badlands Brief — "Trump Taps Surprising New DNI While Media Freaks Out About Everything", URL: https://badlands.substack.com/p/badlands-brief-70c
 3. Badlands Brief — "Badlands News Brief: Debates Set, Funding Found & NGO's Defied", URL: https://badlands.substack.com/p/badlands-news-brief-384
 4. Badlands Brief — "The Biden Era Fades Away as the World is Reshaped", URL: https://badlands.substack.com/p/badlands-news-brief-713
 5. Badlands Brief — "Trump Teases Saudi Trillions; Biden Bros Embezzled Billions", URL: https://badlands.substack.com/p/badlands-news-brief-745
+6. Badlands Brief — "Badlands News Brief: A British TERF Triumph & A Senator Snubbed in El Salvador", URL: https://badlands.substack.com/p/badlands-news-brief-c44

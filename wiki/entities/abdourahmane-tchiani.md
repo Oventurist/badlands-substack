@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [niger, sahel, military-government, ecowas, africa]
-sources: [raw/badlands-news-brief-50e.md]
+sources: [raw/badlands-news-brief-50e.md, raw/badlands-news-brief-c05.md]
 confidence: medium
 ---
 
@@ -27,3 +27,9 @@ Badlands commentary framed these events approvingly as "Africa rising," noting t
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Biden Holds the Line as the Sovereign Alliance Prepares", URL: https://badlands.substack.com/p/badlands-news-brief-50e
+
+## June 2024 meeting with the Russian defense delegation
+
+In early June 2024, Niger announced that Tchiani, its transitional leader, had received representatives of the [[russian-defense-ministry|Russian Defense Ministry]] in Niamey, where they discussed military, security, and economic cooperation.[2] The visit was part of a Sahel tour by a high-ranking delegation headed by Deputy Defense Minister [[yunus-bek-yevkurov|Yunus-Bek Yevkurov]] that also took in [[mali|Mali]], where interim leader [[assimi-goita|Assimi Goita]], Defense Minister [[sadio-camara|Sadio Camara]], and air force chief [[alou-boi-diarra|Alou Boi Diarra]] met the Russians.[2] Both [[niger|Niger]] and Mali, former French colonies, have severed military ties with France, accusing Paris of meddling.[2]
+
+2. Badlands News Brief — "Bicameral Jailings, Russian Trolling and Retribution ...", URL: https://badlands.substack.com/p/badlands-news-brief-c05

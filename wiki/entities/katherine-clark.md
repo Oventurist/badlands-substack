@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, democrats, israel, foreign-aid]
-sources: [raw/badlands-brief-98d.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-6db.md]
+sources: [raw/badlands-brief-98d.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-c16.md]
 confidence: medium
 ---
 
@@ -22,7 +22,14 @@ In December 2025 House Democrats split over attempts to impeach Trump administra
 
 In January 2023, Clark's child [[jared-dowell|Jared Dowell]], also known as "Riley" Dowell, was arrested in Boston for Antifa-related violence, and identified in reporting as the offspring of the Democratic House Minority Whip representing Massachusetts's fifth congressional district.[3] Boston police charged Dowell with assault by means of a dangerous weapon, destruction or injury of personal property, and damage of property by graffiti or tagging, allegedly incurred while participating in rioting meant to show solidarity with [[antifa|Antifa]] rioting in Atlanta.[3] Badlands contributor [[sean-morgan|Sean Morgan]] used the episode to argue that relatives of what he called subversive bureaucrats are often subversive operatives themselves.[3]
 
+## "Leverage" remark during the 2025 shutdown
+
+During the [[october-2025-government-shutdown|October 2025 government shutdown]], Clark — the House Minority Whip, representing Massachusetts — publicly acknowledged that Democrats intended to prolong the funding lapse for political advantage.[4] Speaking to Fox News senior congressional correspondent Chad Pergram, she said: "Shutdowns are terrible and, of course, there will be families that are going to suffer. We take that responsibility very seriously... But it is one of the few leverage times we have."[4]
+
+The admission was amplified to millions of Americans by the Trump [[white-house|White House]], the [[republican-national-committee|Republican National Committee]] and GOP-aligned X accounts as the shutdown entered its fourth week and became the second-longest in US history, with Democrats openly weighing dragging it past the all-time record of 35 days as the November 1 open enrollment deadline approached.[4] Badlands contributor [[ashe-in-america|Ashe in America]] described Clark as the second House Democrat to say the quiet part out loud, concluding that the party sees ordinary Americans as leverage and always has.[4]
+
 ## References
 1. Badlands Brief — "There is “Nothing Bigger” Than Tonight’s Election Speech", URL: https://badlands.substack.com/p/badlands-brief-98d
 2. Badlands News Brief — "Weed Wins, Globalist Whisking, & Lizard-Led Impeachments", URL: https://badlands.substack.com/p/badlands-news-brief-0ef
 3. Badlands Brief — "Badlands News Brief: Mostly Peaceful Riots and Billionaire Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-6db
+4. Badlands Brief — "Unconvincing Unity, Ukraine Reparations, & Uneasy Cooperation", URL: https://badlands.substack.com/p/badlands-news-brief-c16

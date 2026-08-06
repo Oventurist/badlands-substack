@@ -20,11 +20,8 @@ def merge(relpath, heading, body_tmpl):
         i = t.index("## References")
         head, tail = t[:i].rstrip("\n"), t[i:]
         # next ref number
-        nums = [int(x) for x in re.findall(r"^(\d+)\.", tail, re.M)]
-        nxt = max(nums) + 1 if nums else 1
-        if RAW not in t.split("## References")[0] or True:
-            if REFLINE not in tail:
-                tail = tail.rstrip("\n") + "\n%d. %s\n" % (nxt, REFLINE)
+        if REFLINE not in tail:
+            tail = tail.rstrip("\n") + "\n%d. %s\n" % (n, REFLINE)
         t = head + sec + "\n" + tail
     else:
         t = t.rstrip("\n") + sec + "\n\n## References\n1. " + REFLINE + "\n"

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [health-care, affordable-care-act, subsidies, congress, states, insurance]
-sources: [raw/badlands-news-brief-752.md, raw/badlands-news-brief-8cd.md]
+sources: [raw/badlands-news-brief-752.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-c93.md]
 confidence: medium
 ---
 
@@ -30,6 +30,11 @@ An ObamaCare deadline collided with a fight over government funding in September
 
 Some in the GOP showed openness to an extension by year's end, but government funding was set to expire on September 30, and Democratic leaders sought to leverage the earlier deadline to extract concessions on health care and other issues.[2] Senate Democratic Leader [[chuck-schumer|Chuck Schumer]] told reporters: "On this issue, we're totally united. The Republicans have to come to meet with us in a true bipartisan negotiation to satisfy the American people's needs on health care or they won't get our votes, plain and simple."[2]
 
+## December 2025 impasse
+
+Senate negotiators departed Washington for the holidays in December 2025 without resolving the expiring enhanced subsidies, allowing the December 31 deadline to approach unaddressed.[3] A bipartisan group of lawmakers tried to keep alive the prospect of a deal the following month, but faced the fraught nature of health care rhetoric and the looming midterms as lawmakers shifted into campaign mode.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Somali Probes, JD Plots, & A Lawfare RICO", URL: https://badlands.substack.com/p/badlands-news-brief-752
 2. Badlands Brief — "Badlands News Brief: Vigils, Vanguards, & Various Investigations", URL: https://badlands.substack.com/p/badlands-news-brief-8cd
+3. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93

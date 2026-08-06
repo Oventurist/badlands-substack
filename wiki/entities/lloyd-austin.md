@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [pentagon, secretary-of-defense, ukraine, biden-administration]
-sources: [raw/badlands-news-brief-017.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-301.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-533.md, raw/badlands-news-brief-536.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-780.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-8cb.md, raw/badlands-news-brief-b86.md]
+sources: [raw/badlands-news-brief-017.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-301.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-533.md, raw/badlands-news-brief-536.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-780.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-8cb.md, raw/badlands-news-brief-b86.md, raw/badlands-news-brief-bd6.md, raw/badlands-news-brief-cba.md]
 confidence: medium
 ---
 
@@ -108,6 +108,14 @@ Speaking at the Reagan National Defense Forum in Simi Valley, California, on Dec
 
 The remarks came as U.S. officials grew more vocal about the next phase of Israeli operations after a temporary truce expired, with the administration of [[joe-biden|Joe Biden]] cautioning that a campaign in southern Gaza had to be conducted more precisely than the first phase of the war.[20] Austin simultaneously emphasized that Israel had a duty to respond to terrorist attacks such as the October 7 Hamas assault that killed at least 1,200 Israelis.[20] [[badlands-media|Badlands Media]] writer [[burning-bright|Burning Bright]] read the [[pentagon|Pentagon]] chief's language as evidence of an accelerated "Overton's Goalpost" shift mirroring the trajectory of the Ukraine proxy war on a much faster timeline.[20]
 
+## Chain-of-command fallout (January 2024)
+
+Later reporting by The Wall Street Journal filled in the sequence of Austin's disappearance: he was secretly rushed to Walter Reed Military Medical Center on New Year's Day suffering from nausea and severe pain, and it would be eight days before President [[joe-biden|Joe Biden]] learned why.[21] For four days in January most of Washington did not know who was running the Pentagon, an episode described as without modern precedent given that Austin was sixth in the line of presidential succession and second in the line of military command after the president.[21] His deputy [[kathleen-hicks|Kathleen Hicks]] was required to step in from a beach in Puerto Rico where she was on vacation, days before Biden was informed, and was herself among those kept in the dark about the hospitalization while carrying out Austin's duties.[21] Only a small cadre of aides knew; [[sasha-baker|Sasha Baker]], the department's top policy official and the most senior official present at the Pentagon, attended a White House meeting on January 3 unaware of the situation.[21] The affair is treated in detail at [[lloyd-austin-hospitalization-controversy]].[21]
+
+## Call for North Korean withdrawal from Russia (October 2024)
+
+Speaking at the [[pentagon|Pentagon]] on 30 October 2024 alongside his South Korean counterpart [[kim-yong-hyun|Kim Yong-hyun]], Austin called on North Korea to withdraw the troops it had deployed to Russia, saying, "I call upon them to withdraw their troops out of Russia."[22] Washington assessed that 10,000 North Korean personnel had been sent for possible action against Ukrainian forces.[22] Austin said such forces would be "co-belligerents, and you have every reason to believe that … they will be killed and wounded as a result of battle," echoing the [[white-house|White House]] position that they would be "legitimate military targets."[22] He nonetheless acknowledged a "good likelihood" that Moscow would proceed with the deployment regardless.[22] His remarks were paired with a blunter warning from US UN envoy [[robert-wood|Robert Wood]], who told the [[united-nations-security-council|Security Council]] that Pyongyang's soldiers "will surely return in body bags."[22]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Tracking Resignations, Scare Events & the Death of Taxes", URL: https://badlands.substack.com/p/badlands-news-brief-017
@@ -130,3 +138,5 @@ The remarks came as U.S. officials grew more vocal about the next phase of Israe
 18. Badlands Brief — "Badlands News Brief: The Trump Train Rolls on ... Fake MAGA Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-89f
 19. Badlands Brief — "SCOTUS Enters the Fray as Biden Barks at MAGA Hats", URL: https://badlands.substack.com/p/badlands-news-brief-8cb
 20. Badlands Brief — "Badlands News Brief: Israel & Biden Backlash Mounts ... Deep State Panics", URL: https://badlands.substack.com/p/badlands-news-brief-b86
+21. Badlands Brief — "Badlands News Brief: Houthi's War is it, Anyway?", URL: https://badlands.substack.com/p/badlands-news-brief-bd6
+22. Badlands Brief — "Badlands News Brief: Election-Mongering and Electioneering as Shenanigans Abound", URL: https://badlands.substack.com/p/badlands-news-brief-cba

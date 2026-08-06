@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [legal-scholar, war-powers, congress, commentary]
-sources: [raw/badlands-brief-509.md, raw/badlands-brief-6f0.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-0d4.md, raw/badlands-news-brief-12e.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-995.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-b5a.md, raw/badlands-news-brief-b6c.md, raw/badlands-news-brief-b60.md]
+sources: [raw/badlands-brief-509.md, raw/badlands-brief-6f0.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-0d4.md, raw/badlands-news-brief-12e.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-995.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-b5a.md, raw/badlands-news-brief-b6c.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-c1e.md]
 confidence: low
 ---
 
@@ -118,6 +118,12 @@ Turley separately noted that jurors would not receive written copies of their in
 
 After Judge [[juan-merchan|Juan Merchan]] issued a gag order in March 2024 barring [[donald-trump|Donald Trump]] from commenting publicly on court staff, jurors, witnesses or prosecutors in the New York "hush money" case, Turley suggested that Trump appeal the order.[21]
 
+## Commentary on the weaponization of government (March 2024)
+
+Speaking to Fox Business host [[larry-kudlow|Larry Kudlow]] on Monday, March 18, 2024, Turley said the "improvisational" nature of the cases against former President [[donald-trump|Donald Trump]] had damaged the image of the legal system and proved Trump "right" about being targeted by a weaponized justice system.[22] He argued that "it's becoming increasingly difficult to deny that we have a legal system now that is being heavily distorted by politics and you cannot look at all of these cases and see blind justice, you see the opposite," adding that "the Democrats fulfill the narrative of President Trump" with "this pile-on from Florida to Georgia, to Washington, D.C., to New York."[22]
+
+The remarks came as Trump's attorneys said he was having difficulty posting a $454 million bond to cover the civil fraud judgment entered by New York Judge [[arthur-engoron|Arthur Engoron]] in February 2024.[22] Turley said of the appeal bond: "When you are forcing someone to come up with half a billion dollars just to get an appeal? Someone has to say enough."[22] [[ashe-in-america|Ashe in America]], writing for [[badlands-media|Badlands Media]], said Turley was effectively restating [[burning-bright|Burning Bright]]'s thesis that "Trump's trials are his campaign," and that the [[weaponization-of-government]] during the presidential campaign was making Trump stronger.[22]
+
 ## References
 
 1. Badlands Brief — "Election Exposure, Energy Angst & War Rackets", URL: https://badlands.substack.com/p/badlands-brief-509
@@ -141,3 +147,4 @@ After Judge [[juan-merchan|Juan Merchan]] issued a gag order in March 2024 barri
 19. Badlands Brief — "An Embattled Media, Mysterious Outages & Gay History", URL: https://badlands.substack.com/p/badlands-news-brief-b5a
 20. Badlands Brief — "Manhatt-Insanity, Biden Gorillas & Muskian Moves", URL: https://badlands.substack.com/p/badlands-news-brief-b6c
 21. Badlands Brief — "Badlands News Brief: Baltimore Fallout Continues as Nickelodeon Exposes Itself", URL: https://badlands.substack.com/p/badlands-news-brief-b60
+22. Badlands Brief — "Badlands News Brief: Weaponization, Willis, and World War III", URL: https://badlands.substack.com/p/badlands-news-brief-c1e

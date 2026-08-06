@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, narrative, information-war, credibility]
-sources: [raw/badlands-brief-a1a.md]
+sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-bf6.md]
 confidence: medium
 ---
 
@@ -20,5 +20,10 @@ In the April 7, 2026 Badlands Brief, [[burning-bright|Burning Bright]] wrote tha
 
 Badlands commentary in the same edition extended the critique to specific outlets, with [[ashe-in-america|Ashe in America]] describing [[politico|Politico]]'s suggestion that fraud investigations are unpopular with voters because enforcement would raise healthcare costs as economically incoherent "copium" that could not change the underlying popularity of prosecuting fraud.[1]
 
+## The April 2023 firings
+
+The near-simultaneous removal of [[tucker-carlson|Tucker Carlson]] from [[fox-news|Fox News]] and [[don-lemon|Don Lemon]] from [[cnn|CNN]] on April 24, 2023, one day after [[nbcuniversal|NBCUniversal]] parted with chief executive [[jeff-shell|Jeff Shell]], was presented by [[badlands-media|Badlands Media]] as a visible operation of the Media Industrial Complex rather than a run of coincidences.[2] [[burning-bright|Burning Bright]] described the complex as caught in a pincer move over the departure of the most-watched host in American cable news, and argued the paired firings served to conflate Fox and CNN as equivalent corporate media entities, to expose Fox to loyal MAGA viewers, and to continue the shared ratings-collapse cascade that is further decentralizing information dissemination.[2]
+
 ## References
 1. Badlands Brief — "American Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-a1a
+2. Badlands Media — "Badlands News Brief: A Tucker, a Lemon and a Trump Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-bf6

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [apartheid, sanctions, oil, uranium, commodities]
-sources: [raw/america-for-sale-part-3.md, raw/badlands-news-brief-362.md]
+sources: [raw/america-for-sale-part-3.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-c44.md]
 confidence: medium
 ---
 
@@ -30,6 +30,13 @@ On May 21, 2025, [[donald-trump|President Donald Trump]] confronted President [[
 
 Badlands commentary highlighted the dynamic of South Africa simultaneously serving as the petitioner at the [[international-court-of-justice|International Court of Justice]] against [[benjamin-netanyahu|Netanyahu]] and the Israeli government over Gaza while standing accused of atrocities at home, and noted the country's [[brics|BRICS]] membership and deepening alignment with Russia.[2] The same commentary described South Africa as a longtime hub of regime and regime-change activity, calling its current geopolitical alignment an enigma.[2]
 
+## Trump's G20 boycott and land-seizure claims (2025)
+
+In April 2025 President [[donald-trump|Donald Trump]] said the United States would continue boycotting [[g20|G20]] meetings hosted by South Africa, repeating claims that white farmers were being killed and their land confiscated: "How could we be expected to go to South Africa for the very important G20 Meeting when Land Confiscation and Genocide is the primary topic of conversation?"[3] Relations with the United States — South Africa's second-largest trading partner — had soured after Trump accused the country of unlawfully seizing land from the white minority, and he froze aid to the nation, although no private land had been confiscated since apartheid ended in 1994.[3]
+
+Chrispin Phiri, a spokesman for South Africa's Department of International Relations and Cooperation, responded that the country's constitution protects all who live there: "Not because they are black, not because they are white, not because they are in the majority, not because they are in the minority, but because they are human beings, every person has fundamental rights."[3]
+
 ## References
 1. Badlands Brief — "America for Sale - Part 3", URL: https://badlands.substack.com/p/america-for-sale-part-3
 2. Badlands Brief — "Based Oklahoma, An African Ambush, & An Allegedly Big Beautiful Bill", URL: https://badlands.substack.com/p/badlands-news-brief-362
+3. Badlands Brief — "Badlands News Brief: A British TERF Triumph & A Senator Snubbed in El Salvador", URL: https://badlands.substack.com/p/badlands-news-brief-c44

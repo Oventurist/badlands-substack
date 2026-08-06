@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [us-senate, republican-party, mississippi, defense-policy, military-draft]
-sources: [raw/badlands-news-brief-565.md, raw/badlands-news-brief-627.md]
+sources: [raw/badlands-news-brief-565.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-ce5.md]
 confidence: medium
 ---
 
@@ -22,7 +22,14 @@ Reporting noted that such an amendment vote could prove politically difficult fo
 
 In September 2023 Wicker joined Senators [[tom-cotton|Tom Cotton]], [[susan-collins|Susan Collins]] and [[lindsey-graham|Lindsey Graham]] in writing to President [[joe-biden|Joe Biden]] to urge the transfer of [[atacms|MGM-140 Army Tactical Missile Systems]] to Ukraine, contending that withholding them would "only prolong the war."[2] The letter followed the [[senate-armed-services-committee|Senate Armed Services Committee]]'s unanimous approval for the Department of Defense to send long-range missiles to Kyiv.[2]
 
+## Combatant command restructuring dispute (March 2025)
+
+In March 2025, Wicker, as chairman of the Senate Armed Services Committee, joined House Armed Services Committee chairman [[mike-rogers|Mike Rogers]] in a joint statement objecting to reported plans for a shake-up of the U.S. combatant command structure.[3] CNN had reported that the [[pentagon|Pentagon]] was considering merging U.S. European Command and [[united-states-africa-command|U.S. Africa Command]] into a single combatant command, and likewise merging U.S. Northern and Southern Commands, while NBC News reported that the administration might relinquish the [[supreme-allied-commander-europe|Supreme Allied Commander Europe]] role traditionally held by an American four-star general.[3]
+
+"U.S. combatant commands are the tip of the American warfighting spear," the chairmen wrote, adding that they were "very concerned about reports that claim DoD is considering unilateral changes on major strategic issues, including significant reductions to U.S. forces stationed abroad, absent coordination with the White House and Congress."[3]
+
 ## References
 
 1. Badlands Brief — "Polling Paradoxes, Hegelian Seeding & Putin's Gambit", URL: https://badlands.substack.com/p/badlands-news-brief-565
 2. Badlands Brief — "Badlands News Brief: Kennedy Assassins, Justice Wins & More", URL: https://badlands.substack.com/p/badlands-news-brief-627
+3. Badlands Brief — "Badlands News Brief: Calibrating Education, Recalculating Commands, & Countering Currency Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-ce5

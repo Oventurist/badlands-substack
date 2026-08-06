@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [russia, ukraine, kursk, war, putin]
-sources: [raw/badlands-news-brief-109.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-a0c.md, raw/badlands-news-brief-a71.md]
+sources: [raw/badlands-news-brief-109.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-a0c.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-d43.md]
 confidence: medium
 ---
 
@@ -76,6 +76,18 @@ The Ukrainian military blogger DeepState said "the enemy pushed through the left
 
 Badlands contributor GhostofBasedPatrickHenry preferred the [[rt|RT]] account of the episode, which highlighted Major General [[apty-alaudinov|Apty Alaudinov]] and the [[akhmat-special-forces|Akhmat Special Forces]] from Russia's Chechen Republic, and used the occasion to disparage the [[state-department|State Department]] and adjacent corporate media as a "laughing stock" by comparison.[7] He framed the Chechen deployment as the force "crushing the NATO blitzkrieg" in Kursk, following Vladimir Putin's recent visit to Dagestan to bless the unit.[7]
 
+## Russian protest over American journalists and mercenaries
+
+On Tuesday, August 20, 2024, Russia's Foreign Ministry summoned a senior US Embassy official in Moscow to protest what it described as US interference in the Kursk region, which had seen heavy fighting since Ukraine's cross-border incursion began on August 6.[8] Moscow condemned the "provocative actions" of both American journalists and US mercenaries said to have been spotted on Russian territory in the context of the Kursk invasion.[8] In a meeting with US Embassy Chief of Mission Stephanie Holmes, the ministry issued a "strong protest" over "the provocative actions of American reporters who illegally entered the Kursk region to produce propaganda for covering up the crimes of the Kyiv regime," and said national law enforcement authorities planned to "carry out the necessary investigative measures" examining the American journalists' work.[8] The crew in question was from [[cnn|CNN]].[8]
+
+Badlands contributor GhostofBasedPatrickHenry compared the episode to CNN's earlier employment of a photojournalist embedded with [[hamas|Hamas]] in Gaza, and argued that under the [[department-of-defense|Department of Defense]] Law of War Manual the journalists' participation in what he called an unlawful incursion into Russian territory would classify them as "unprivileged belligerents."[8]
+
+## Alleged atrocities in Sudzha
+
+Also in August 2024, Major General [[apty-alaudinov|Apty Alaudinov]], commander of the [[akhmat-special-forces|Akhmat Special Forces]], claimed on Telegram that Ukrainian forces occupying part of Kursk Region had committed atrocities against civilians and used them as human shields, describing an incident in the border town of Sudzha in which troops confined children and teachers to an upper floor of an occupied residential building.[8] He said photographs showed civilians shot at point-blank range in the head and from behind, called the Ukrainians "fascists and Satanists," and vowed revenge.[8]
+
+Badlands linked these allegations to earlier claims about the [[azov-battalion|Azov Battalion]] in Mariupol in March 2022 and cited an interview with a Russian soldier describing discoveries near Izyum, south of Kharkiv, which the outlet characterised in speculative terms as evidence of organ harvesting or adrenochrome farming.[8] The section closed by noting [[vladimir-putin|Vladimir Putin]]'s statement, made after Ukrainian airstrikes on Kursk civilians and a drone strike that damaged the [[zaporozhye-nuclear-power-plant|Zaporozhye Nuclear Power Plant]], that Russia was no longer interested in peace talks: "What is there to talk about with those who attack civilians and nuclear facilities?"[8]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Trump and Elon Break the Internet", URL: https://badlands.substack.com/p/badlands-news-brief-109
@@ -85,3 +97,4 @@ Badlands contributor GhostofBasedPatrickHenry preferred the [[rt|RT]] account of
 5. Badlands Brief — "A Not so Brief Full of Sovereign SIGNAL", URL: https://badlands.substack.com/p/badlands-news-brief-711
 6. Badlands News Brief — "Transition Teams at Home and Abroad ...", URL: https://badlands.substack.com/p/badlands-news-brief-a0c
 7. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71
+8. Badlands News Brief — "Trump's Rubber and They're Glue ... Plus Angry Russians", URL: https://badlands.substack.com/p/badlands-news-brief-d43

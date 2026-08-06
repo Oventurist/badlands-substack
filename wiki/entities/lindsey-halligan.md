@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [us-attorney, virginia, indictments, appointments]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-52b.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-824.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-52b.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-c93.md]
 confidence: medium
 ---
 
@@ -32,8 +32,18 @@ Currie nonetheless left a window open for prosecutors to try again.[3] [[ashe-in
 
 In November 2025, U.S. District Judge [[cameron-mcgowan-currie|Cameron McGowan Currie]] threw out the cases against [[james-comey|James Comey]] and [[letitia-james|Letitia James]] on the ground that Halligan, the federal prosecutor who brought them, had been illegally appointed by the [[justice-department|Justice Department]].[4] President [[donald-trump|Donald Trump]] publicly backed Halligan — described in press coverage as a "beauty queen lawyer" — while arguing that the defendants had escaped only "on a technicality," and the administration announced that the Justice Department would appeal the dismissals.[4]
 
+## Interim U.S. Attorney for the Eastern District of Virginia (September 2025)
+
+Halligan, an attorney and top [[white-house|White House]] lawyer, was named by President [[donald-trump|Donald Trump]] to replace [[erik-siebert|Erik S. Siebert]] as U.S. Attorney for the Eastern District of Virginia after Siebert resigned in September 2025, allegedly under administration pressure to charge [[james-comey|James Comey]].[5] She was to serve on an interim basis ahead of a congressional confirmation process, as the [[department-of-justice|Justice Department]] neared a decision on a Comey indictment.[5]
+
+## Appeal of the Comey and James dismissals (December 2025)
+
+On December 19, 2025, the [[justice-department|Justice Department]] appealed the dismissals of the criminal cases against [[james-comey|James Comey]] and [[letitia-james|Letitia James]], while also seeking to reindict James.[6] Judge [[cameron-currie|Cameron Currie]] had ruled that Halligan, a former [[white-house|White House]] aide, was not eligible for the prosecutor's post and that "all actions flowing from" her appointment, including the indictments, "constitute unlawful exercises of executive power and must be set aside."[6] [[ashe-in-america|Ashe in America]] argued that presidential appointment powers are effectively unlimited over who serves at the president's pleasure, and welcomed the appeal as a path to clarity that would leave Halligan's appointment intact.[6]
+
 ## References
 1. Badlands Brief — "Somali Shatterpoints, Cartel Countermeasures, & Erosion of the World Order", URL: https://badlands.substack.com/p/badlands-brief-094
 2. Badlands Brief — "Golgotha & The Metaverse", URL: https://badlands.substack.com/p/badlands-brief-52b
 3. Badlands Brief — "Lavish Courtships, Extremely Strong Relations, & Fake Election Rituals", URL: https://badlands.substack.com/p/badlands-news-brief-02f
 4. Badlands Brief — "Badlands News Brief: Saudi Scoops, Slender Stabbers, & Scorned Scouts", URL: https://badlands.substack.com/p/badlands-news-brief-824
+5. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2
+6. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93

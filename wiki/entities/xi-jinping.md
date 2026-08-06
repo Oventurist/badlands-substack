@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [china, sco, multipolar, bri]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-blitz-episode-17.md, raw/badlands-brief-311.md, raw/badlands-brief-5a2.md, raw/badlands-brief-577.md, raw/badlands-brief-618.md, raw/badlands-brief-739.md, raw/badlands-brief-990.md, raw/badlands-brief-bb1.md, raw/badlands-brief-ea5.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-4ee.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-688.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-a21.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-b7b.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-blitz-episode-17.md, raw/badlands-brief-311.md, raw/badlands-brief-5a2.md, raw/badlands-brief-577.md, raw/badlands-brief-618.md, raw/badlands-brief-739.md, raw/badlands-brief-990.md, raw/badlands-brief-bb1.md, raw/badlands-brief-ea5.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-4ee.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-688.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-a21.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-b7b.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-cf8.md, raw/badlands-news-brief-d21.md]
 confidence: medium
 ---
 
@@ -226,6 +226,32 @@ Xi travelled to Moscow in May 2025 to attend Russia's 80th anniversary [[victory
 
 Both leaders again hailed their cooperation as underpinning a multipolar world order in the face of Western hegemony, and pledged to counter "neo-Nazism and militarism."[39] Putin said, per the Kremlin readout, that "[i]n today's challenging geopolitical situation and global uncertainty, the Russia-China foreign policy partnership is a key stabilizing factor on the international stage," adding: "Together, we defend the formation of a more just and democratic multipolar world order."[39] Badlands writer Burning Bright read the meeting as China joining Russia in proclaiming the emergence of what Badlands calls the Sovereign Alliance and calling out "the Nazis," a day after [[donald-trump|Donald Trump]] issued his own [[victory-day-for-world-war-ii-2025|Victory Day proclamation]].[39]
 
+## December 2023 vow on Taiwan
+
+Weeks before [[taiwan|Taiwan]]'s January 2024 elections, Xi Jinping vowed to use "any means" to stop Taiwan seceding from China.[40] On December 27, 2023, Beijing warned of further trade sanctions on Taiwan if the ruling [[democratic-progressive-party|Democratic Progressive Party]] "stubbornly" persisted in supporting independence, a message delivered by [[taiwan-affairs-office|Taiwan Affairs Office]] spokesman Chen Binhua.[40]
+
+## Moscow meeting with Putin (March 2023)
+
+Xi arrived at the Kremlin on March 20, 2023 for a three-day visit, greeted with "Welcome to Russia," and held an initial informal meeting with [[vladimir-putin|Vladimir Putin]].[42] Putin congratulated him on re-election as head of the Chinese state for a third five-year term and said Russia had reviewed China's proposals for resolving the Ukraine conflict, describing itself as "open for a negotiating process on Ukraine."[42] Xi in return said "Russia succeeded in promoting prosperity under Putin's leadership."[42]
+
+[[justin-deschamps|Justin Deschamps]] of [[badlands-media|Badlands Media]] suggested that Xi may have declined to go along with the Western framing of the Ukraine war, and that a Sino-Russian alignment opting out of pandemic, superpower-war and financial-collapse scenarios would deal a significant blow to the globalist agenda.[42]
+
+## Macron state visit (April 2023)
+
+In April 2023, Xi Jinping hosted French President [[emmanuel-macron|Emmanuel Macron]] for the [[2023-macron-state-visit-to-china|2023 Macron state visit to China]], a red-carpet reception that yielded numerous investment deals, a new [[airbus|Airbus]] plant, and a French promise of fair treatment for [[huawei|Huawei]].[43] During the visit Beijing announced it would inspect cargo vessels entering [[taiwan|Taiwan]] and stepped up major military exercises encircling the island, moves some military observers read as a rehearsal for a blockade.[43] Xi discussed Taiwan with Macron, who afterwards urged Europeans not to be drawn into crises "that are not ours."[43] [[donald-trump|Donald Trump]] responded by saying Macron was in China "kissing" Xi's "ass," in an interview with [[tucker-carlson|Tucker Carlson]].[43]
+
+## Announced 2025 summit with Trump in South Korea
+
+On Thursday, October 23, 2025, White House Press Secretary [[karoline-leavitt|Karoline Leavitt]] announced that Xi would meet President [[donald-trump|Donald Trump]] the following Thursday on the sidelines of the [[asia-pacific-economic-cooperation|APEC]] summit in South Korea, part of a Trump trip to Malaysia and South Korea.[44] The announcement came amid an escalating trade war in which Trump had threatened an additional 100 percent tariff on Chinese goods beginning in November, and Trump said the two leaders would reach agreements on issues from trade to nuclear power, including China's purchases of Russian oil.[44] It would be their first in-person meeting since Trump returned to power in January 2025, following at least three phone conversations that year and a last face-to-face in 2019.[44]
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] framed the meeting as a [[sovereign-alliance|Sovereign Alliance]] gathering, arguing that Trump and Xi are working to decouple the two economies on the understanding that oligarchs spent the past century subjugating provincial towns in both China and the United States and using that leverage to consolidate power.[44] He suggested Xi was helping Trump corral hostile actors within the American federal government, and hoped such meetings would become a catalyst driving citizens to think, debate and act.[44]
+
+## Assurance to Biden on the 2024 election
+
+[[cnn|CNN]] reported in late January 2024 that Xi had told United States President [[joe-biden|Joe Biden]] that China would not interfere in the 2024 US presidential election, an assurance given when the two men met in California in November 2023 during an hours-long, high-stakes meeting aimed at easing historically elevated military and economic tensions between the two superpowers.[45] According to a source familiar with the previously unreported exchange, it was Biden who raised the issue and the exchange was brief.[45] Chinese Foreign Minister [[wang-yi|Wang Yi]] reiterated the same assurance to US national security adviser [[jake-sullivan|Jake Sullivan]] at a meeting in Bangkok the weekend of January 27, 2024, and the potential for Chinese election interference had repeatedly arisen at senior-level meetings between the two nations.[45]
+
+[[badlands-media|Badlands Media]] writer [[simon-esler|Simon Esler]] treated the report as narrative seeding rather than news, noting that CNN cited its own 2016 coverage of the alleged Russian hack of the DNC as evidence despite what he called ample evidence the leak was an inside job.[45] He argued the piece also served to prop up the illusion of Biden's competence and of a year spent "stabilizing" US-China relations, and that by weaving together vague references to Iranian, Cuban, Russian, and AI-driven interference the media were pre-positioning explanations for irregularities in the 2024 election.[45]
+
 ## References
 1. Badlands Brief — "A Gateway to a New World of Cooperation", URL: https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation
 2. Badlands Brief — "Badlands Blitz Episode 17", URL: https://badlands.substack.com/p/badlands-blitz-episode-17
@@ -265,3 +291,14 @@ Both leaders again hailed their cooperation as underpinning a multipolar world o
 37. Badlands Brief — "Badlands News Brief: Asian Happy Endings, Salvadoran Favors, & American Public Corruption", raw/badlands-news-brief-a98.md
 38. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72
 39. Badlands Brief — "Badlands News Brief: Victory Over Nazis & The First American Pope", URL: https://badlands.substack.com/p/badlands-news-brief-b7b
+40. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb
+
+## Chinese conditions on Ukraine peace talks (March 2024)
+
+In March 2024, Politico reported ahead of an announced Xi trip to France in early May that China was pressing Europe to allow Russia a seat at future Ukraine peace talks, and would boycott any Switzerland-hosted meeting held without Russian representatives.[41] The message was amplified during the European tour of Chinese special envoy [[li-hui|Li Hui]], a former ambassador to Russia, who pledged Beijing's support for "the timely convening of a peace conference with equal participation of all parties."[41]
+
+41. Badlands Brief — "Badlands News Brief: Weaponization, Willis, and World War III", URL: https://badlands.substack.com/p/badlands-news-brief-c1e
+42. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9
+43. Badlands Brief — "Badlands News Brief: The France Dance, Crime & J6 Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-c9a
+44. Badlands Brief — "Badlands News Brief: B-Ball Bets, Bomber Busts, & 'Bipartisan' Bill Blockage", URL: https://badlands.substack.com/p/badlands-news-brief-cf8
+45. Badlands Brief — "Badlands News Brief: Chinese Interference and Narrative Seeding", URL: https://badlands.substack.com/p/badlands-news-brief-d21

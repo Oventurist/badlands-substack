@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, host, founder]
-sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-b26.md]
+sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-cce.md]
 confidence: high
 ---
 
@@ -91,6 +91,14 @@ Herold covered [[donald-trump|Donald Trump]]'s Riyadh visit on the May 13, 2025 
 
 Herold noted on Twitter that the [[cnn|CNN]]-released Bedminster recording had a "staged" feel, pointing out that [[donald-trump|Donald Trump]] ruffles papers so loudly while being recorded that his words are at times difficult to make out.[18] [[burning-bright|Burning Bright]] cited the observation in the Badlands News Brief and built on it to argue that the episode fit a recurring pattern of media "gotchas" that boomerang on their authors.[18]
 
+## Commentary in the September 25, 2025 brief
+
+Jon Herold responded to the [[white-house|White House]]'s replacement of [[joe-biden|Joe Biden]]'s portrait with an autopen image in the [[presidential-walk-of-fame|Presidential Walk of Fame]] with a single line — "Love it" — under the heading "the Devo term."[19] On the Kremlin's insistence that Russia is "a real bear" and not a paper tiger, he remarked dryly that "some super serious geopolitics" was happening.[19]
+
+## "The Illusion of Democracy" (December 2023)
+
+In December 2023 Herold published "The Illusion of Democracy," a feature that took recent reporting on the [[ctil-files|CTIL files]] — documents detailing the relationship between government agencies and the media industrial complex regarding reporting on and investigations into the 2020 election — and extended it by examining who led those agencies during the transitions from the Obama administration to the Trump administration and from the Trump administration to the Biden administration.[20] Badlands contributor [[burning-bright|Burning Bright]] wrote that in doing so Herold continued "to connect dots that makes Actual what most of us have seen as Potential," namely the structure and mechanism of the [[deep-state|Deep State]]'s "System of Systems" — an administrative arm that originates, a clandestine arm that obfuscates, a narrative arm that defends, and a legal arm that prosecutes.[20]
+
 ## References
 1. Badlands Media — "Badlands Media Weekly Show Schedule", URL: https://badlands.substack.com/p/badlands-media-weekly-show-schedule-36d
 2. Badlands Brief — "Amplified Antagonism, Phantom Palestinians, & Hitler's Micropenis", URL: https://badlands.substack.com/p/badlands-news-brief-066
@@ -110,3 +118,5 @@ Herold noted on Twitter that the [[cnn|CNN]]-released Bedminster recording had a
 16. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
 17. Badlands Brief — "Badlands News Brief: Black Hat Nightmares & A Camelback Caravan of Confirmation", URL: https://badlands.substack.com/p/badlands-news-brief-a64
 18. Badlands Brief — "Badlands News Brief: Trump's Tapes, Putin's Plan & Byrne's Bio", URL: https://badlands.substack.com/p/badlands-news-brief-b26
+19. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2
+20. Badlands Brief — "Badlands News Brief: The System of Systems is a House of Cards", URL: https://badlands.substack.com/p/badlands-news-brief-cce

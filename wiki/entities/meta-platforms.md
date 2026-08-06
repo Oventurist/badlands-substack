@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [facebook, meta, big-tech, cia, free-speech, dei]
-sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-52b.md, raw/badlands-brief-bce.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-b10.md, raw/badlands-news-brief-b76.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-52b.md, raw/badlands-brief-bce.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-b10.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-ce1.md]
 confidence: medium
 ---
 
@@ -73,6 +73,16 @@ Court documents unsealed on March 23, 2024, as part of the [[klein-v-meta-antitr
 
 Meta launched the microblogging app [[threads|Threads]] in the United States on July 5, 2023 as a rival to [[twitter|Twitter]], reaching more than 100 million sign-ups within its first weekend.[12] The surge proved short-lived: SimilarWeb data cited in July 2023 showed daily active users collapsing from 49 million to 23.6 million in a single week, with US engagement falling from a July 7 peak of roughly 21 minutes to about six minutes.[12] Badlands contributor [[ashe-in-america|Ashe in America]] argued the app was conceived as an establishment answer to freer speech on [[twitter|Twitter]] after [[elon-musk|Elon Musk]]'s acquisition, but that its "echo chamber brand promise" could not compete with Twitter's new creator monetization payouts.[12]
 
+## Threads user attrition (2023)
+
+Meta's Twitter-clone app [[threads|Threads]] shed most of its initial user base within weeks of its July 5, 2023 launch.[13] CEO [[mark-zuckerberg|Mark Zuckerberg]] admitted in leaked audio the following month that the product was failing after its influx of more than 100 million downloads in five days; daily active users fell from a peak near 50 million to fewer than ten million by August, according to SimilarWeb data reported by The Wall Street Journal.[13]
+
+## Global ban on RT (September 2024)
+
+On Tuesday, September 17, 2024, Meta announced that it was removing Russian state broadcaster [[rt|RT]] from its platforms worldwide, responding to a U.S. government directive urging entities and nations abroad to ban Moscow-funded networks.[16] A Meta spokesman said: "After careful consideration, we expanded our ongoing enforcement against Russian state media outlets. Rossiya Segodnya, RT and other related entities are now banned from our apps globally for foreign interference activity."[16] The ban covered Facebook, Instagram, WhatsApp and Threads; RT's Facebook page with 7.2 million followers and its Instagram page with one million followers both disappeared.[16] The Kremlin blasted the move, saying Meta was "discrediting itself" and complicating prospects for normalizing relations, while RT said "US Big Tech cannot stop RT from making its voice heard" and accused Meta of censoring information flow to the rest of the world after having already blocked it in Europe two years earlier.[16]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] noted that only three weeks earlier [[mark-zuckerberg|Mark Zuckerberg]] had publicly complained that the Biden White House pressured Meta to censor Americans over COVID-19 content in 2021 and said "I believe the government pressure was wrong" — yet the company was again complying with White House censorship pressure.[16] She argued the [[joe-biden|Biden]] administration appeared to be staging a sequel to RussiaGate, and contrasted Meta's compliance with X and [[elon-musk|Elon Musk]]'s refusal to follow the directive.[16]
+
 ## References
 
 1. Badlands Brief — "America Has a CIA-Run Economy", URL: https://badlands.substack.com/p/america-has-a-cia-run-economy
@@ -87,3 +97,18 @@ Meta launched the microblogging app [[threads|Threads]] in the United States on 
 10. Badlands Brief — "Palestinian Promises, Venezuelan Ventures, & Kazakh Considerations", URL: https://badlands.substack.com/p/badlands-news-brief-8ce
 11. Badlands Brief — "Badlands News Brief: Middle Eastern Shenanigans & Dasting Data Dominate", URL: https://badlands.substack.com/p/badlands-news-brief-b10
 12. Badlands Brief — "Badlands News Brief: Whistleblowers and Witch Hunts", URL: https://badlands.substack.com/p/badlands-news-brief-b76
+13. Badlands Brief — "Badlands News Brief: Trump's Slings and Arrows ... Hunter's Threats", URL: https://badlands.substack.com/p/badlands-news-brief-ba4
+
+## Buffalo radicalization lawsuit (2024)
+
+Meta was among the social media companies sued over the [[2022-buffalo-supermarket-shooting|2022 Buffalo supermarket shooting]], in a complaint alleging that the platforms "profit from the racist, antisemitic, and violent material displayed on their platforms to maximize user engagement," including material viewed by the gunman [[payton-gendron|Payton Gendron]].[14] On March 18, 2024, Erie County Supreme Court Justice [[paula-feroleto|Paula Feroleto]] denied the defendants' motion to dismiss, ruling that the complaint pleaded viable causes of action; attorneys for the companies had argued they were akin to message boards containing third-party content.[14] Co-defendants included [[google|Alphabet]], [[reddit|Reddit]] and [[4chan]].[14]
+
+## Child safety and trafficking allegations (2025)
+
+A plaintiffs' brief unsealed in November 2025, filed in the Northern District of California as part of a major lawsuit against four social media companies, alleged that sex trafficking on Meta platforms was both difficult to report and widely tolerated.[15] Instagram's former head of safety and well-being, [[vaishnavi-jayakumar|Vaishnavi Jayakumar]], testified that when she joined Meta in 2020 she was shocked to learn the company maintained a "17x" strike policy for accounts reportedly engaged in the "trafficking of humans for sex," meaning an account could incur sixteen violations for prostitution and sexual solicitation before suspension on the seventeenth — a threshold she called "very, very high" by any industry measure.[15] Plaintiffs said the testimony was corroborated by internal company documentation.[15]
+
+The brief further alleged that Meta was aware of serious harms on its platforms and engaged in a broad pattern of deceit to downplay risks to young users: that millions of adult strangers were contacting minors on its sites, that its products exacerbated mental health issues in teens, and that content related to eating disorders, suicide, and child sexual abuse was frequently detected yet rarely removed.[15] According to the filing, the company failed to disclose these harms to the public or to [[congress|Congress]] and refused to implement safety fixes that could have protected young users.[15]
+
+14. Badlands Brief — "Badlands News Brief: Weaponization, Willis, and World War III", URL: https://badlands.substack.com/p/badlands-news-brief-c1e
+15. Badlands News Brief — "Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f
+16. Badlands Brief — "Badlands News Brief: Trump Sends Comms as Diddlers Get Indicted", URL: https://badlands.substack.com/p/badlands-news-brief-ce1

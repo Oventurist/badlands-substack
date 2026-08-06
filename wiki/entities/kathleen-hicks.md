@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [pentagon, defense, biden-administration, national-security]
-sources: [raw/badlands-news-brief-6fc.md]
+sources: [raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-bd6.md]
 confidence: medium
 ---
 
@@ -22,5 +22,11 @@ Writing in the [[badlands-news-brief|Badlands News Brief]], [[ashe-in-america|As
 
 The piece linked Hicks's assumption of authority over the department to a broader cluster of critical-infrastructure warnings then circulating: House discussion of vulnerabilities in U.S. water infrastructure, scheduled hearings on securing communications networks from foreign adversaries, and an Ohio sheriff's public statement that current threat indicators were worse than before 9/11.[1] Ashe in America framed the sequence — puppets being removed such that the controllers are forced to be revealed — as part of the wider [[devolution|devolution]] thesis, closing with the sardonic remark, "I'm sure it's nothing."[1]
 
+## Acting Pentagon chief, January 2024
+
+During the [[lloyd-austin-hospitalization-controversy|secret January 2024 hospitalization]] of Defense Secretary [[lloyd-austin|Lloyd Austin]], Hicks as Deputy Defense Secretary was required to assume his duties from a beach in Puerto Rico where she was on vacation, days before President [[joe-biden|Joe Biden]] was informed of the situation.[2] According to the [[pentagon|Pentagon]]'s own account of events, Hicks was among those kept in the dark about why she was carrying out Austin's duties, with only a small cadre of aides aware that he had been admitted to Walter Reed Military Medical Center.[2]
+
 ## References
+
 1. Badlands Brief — "Badlands News Brief: Biden Hemorrhages Already-Nonexistent Support", URL: https://badlands.substack.com/p/badlands-news-brief-6fc
+2. Badlands Brief — "Badlands News Brief: Houthi's War is it, Anyway?", URL: https://badlands.substack.com/p/badlands-news-brief-bd6

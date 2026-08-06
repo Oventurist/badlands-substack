@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [trump, assassination, deep-state, secret-service, 2024-election]
-sources: [raw/a-week-to-remember.md, raw/are-we-being-distracted.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-4b9.md, raw/badlands-news-brief-74a.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-b68.md]
+sources: [raw/a-week-to-remember.md, raw/are-we-being-distracted.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-4b9.md, raw/badlands-news-brief-74a.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-b68.md, raw/badlands-news-brief-ce1.md]
 confidence: medium
 ---
 
@@ -80,6 +80,10 @@ Badlands commentary paired the security story with [[joe-biden|Joe Biden]]'s abr
 
 Nearly a year after the shooting, in July 2025, the [[united-states-secret-service|Secret Service]] suspended six staffers without pay or benefits over the failures of that day.[7] Contemporary accounts recapped the event: on July 13, 2024, Trump, then the frontrunner for the Republican presidential nomination, was speaking at a rally in Butler, Pennsylvania when a 20-year-old gunman opened fire; a bullet grazed his ear, agents shielded him with their bodies, and as he was swept away he raised his fist and mouthed "Fight, fight, fight."[7] The gunman, [[thomas-matthew-crooks|Thomas Matthew Crooks]], killed one person and injured two others before a Secret Service sniper fatally shot him.[7] Deputy Director [[matt-quinn|Matt Quinn]] conceded the attempt was an "operational failure" for which the agency was "totally accountable."[7]
 
+## Hawley whistleblower report (September 2024)
+
+On September 16, 2024, Senator [[josh-hawley|Josh Hawley]] released a whistleblower report unveiling a series of alarming security lapses by the [[us-secret-service|U.S. Secret Service]] and other federal agencies during the July 13, 2024 rally in Butler, Pennsylvania.[8] Based on information from multiple whistleblowers, the report described a pattern of incompetence, mismanagement and inadequate preparation, concluding that systemic failures, poor decision-making and a lack of proper resource allocation produced a near-catastrophic breach of presidential security.[8] Among the most critical allegations were the Secret Service's decision not to conduct a standard evaluation of the rally site, the absence of the Counter Surveillance Division from the event, and the agency's refusal of multiple offers from local law enforcement to deploy drone surveillance — a decision made more consequential by the fact that the would-be assassin used a drone to survey the site hours before the attack.[8] The report prompted calls for urgent oversight and reform, coming at a moment when [[donald-trump|Donald Trump]] had become the target of two assassination attempts in two months.[8]
+
 ## References
 
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
@@ -88,3 +92,4 @@ Nearly a year after the shooting, in July 2025, the [[united-states-secret-servi
 4. Badlands Brief — "Badlands News Brief: The Shot Heard Around the World", URL: https://badlands.substack.com/p/badlands-news-brief-4b9
 5. Badlands Brief — "Badlands News Brief: They're the Conspiracy Theorists, Now ...", URL: https://badlands.substack.com/p/badlands-news-brief-74a
 6. Badlands Media — "Badlands News Brief: Vance Takes the Stage as Biden Takes the Basement", URL: https://badlands.substack.com/p/badlands-news-brief-8ae
+8. Badlands Brief — "Badlands News Brief: Trump Sends Comms as Diddlers Get Indicted", URL: https://badlands.substack.com/p/badlands-news-brief-ce1

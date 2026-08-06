@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ukraine, foreign-aid, defense-contractors, congress, corruption]
-sources: [raw/badlands-news-brief-06d.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-aaf.md]
+sources: [raw/badlands-news-brief-06d.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-aaf.md, raw/badlands-news-brief-c19.md, raw/badlands-news-brief-cc9.md]
 confidence: medium
 ---
 
@@ -56,6 +56,14 @@ After President [[joe-biden|Joe Biden]] signed a stopgap funding bill over the w
 
 Ukrainian foreign minister [[dmytro-kuleba|Dmytro Kuleba]] praised the EU at a moment of open disappointment with Washington, noting that the foreign affairs council was sitting for the first time outside the Union's current borders but "within future borders of the European Union."[8] France's foreign minister Catherine Colonna framed the gathering as a signal to Moscow of "resolute and lasting support for Ukraine, until it can win," as U.S. support appeared set to wane or halt for the first time.[8] Badlands writer [[ashe-in-america|Ashe in America]] called the absence of Ukraine money the stopgap's one silver lining, tied it to Trump's burden-sharing foreign policy toward China, NATO, the WHO and Mexico, and read the [[kevin-mccarthy|Kevin McCarthy]]–[[matt-gaetz|Matt Gaetz]] conflict as a scripted fight producing an America First outcome — despite weekend reports that McCarthy had struck a secret deal with Democrats on Ukraine funding.[8]
 
+## October 2023 showdown over bundling Ukraine and Israel aid
+
+By late October 2023, House Republican opposition to Ukraine funding — a large part of why [[kevin-mccarthy|Kevin McCarthy]] had been ousted by the Freedom Caucus — was solidifying under newly elected Speaker [[mike-johnson|Mike Johnson]], who hand-delivered to President [[joe-biden|Joe Biden]] a report listing conditions for further aid.[9] The list, written by Rep. Mike Garcia (R-CA), informed Biden that [[congress|Congress]] would not authorize additional Ukraine funds unless the administration answered a dozen questions about the path forward, chief among them how Biden and Ukrainian President [[volodymyr-zelensky|Volodymyr Zelenskyy]] planned to win the war against [[russia|Russia]] and how long it might take.[9] Garcia said that "failure to ask these questions, and a continued willingness by Congress to enable this carte blanche mentality to date, is, in my opinion, a dereliction of duty and a recipe for disaster that will enable a Ukrainian defeat and enhance Chinese aggression."[9]
+
+Johnson made clear that House Republicans would not bundle Ukraine aid with money for [[israel|Israel]]'s conflict with [[hamas|Hamas]], as Biden wanted, telling "Sunday Morning Futures" that Israel aid must be separated because it was a more "pressing and urgent need" the House would act on that week.[9] Rep. [[marjorie-taylor-greene|Marjorie Taylor Greene]] (R-GA) went further, posting on X that she would vote no on all funding packages for both the Ukraine war and the Israel war, citing over 10 million illegal border crossings since Biden took office and more than $33 trillion in national debt; she was responding to Rep. [[thomas-massie|Thomas Massie]] (R-KY), who had made the same point that "we simply can't afford it."[9]
+
+[[burning-bright|Burning Bright]] argued that the "No New Wars" paradigm was about the only thing on which there was bipartisan agreement within the [[collective-mind|Collective Mind]], and that the Establishment seemed unable to absorb it.[9] He observed that both Right and Left were being drawn into focused debates on direct issues rather than party affiliation, which was losing its anchoring amid the most contentious geopolitical topics of the moment, and that such earnest cross-tribal argument acts as a natural filter distilling the best ideas — ideas that only those ostensibly in control appeared unwilling to recognize.[9]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Devolution Proofs Abroad and White Pills in the Chaos", URL: https://badlands.substack.com/p/badlands-news-brief-06d
 2. Badlands Brief — "Badlands News Brief: Speaker Trump, Proxy War Funding & Emergency Alerts", URL: https://badlands.substack.com/p/badlands-news-brief-132
@@ -65,3 +73,12 @@ Ukrainian foreign minister [[dmytro-kuleba|Dmytro Kuleba]] praised the EU at a m
 6. Badlands Brief — "Badlands News Brief: Putin Postures, Voting Matters & J6 Subpoenas", URL: https://badlands.substack.com/p/badlands-news-brief-8c5
 7. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
 8. Badlands Brief — "Badlands News Brief: Supreme Court Rumblings & Witch Hunts Galore", URL: https://badlands.substack.com/p/badlands-news-brief-aaf
+9. Badlands Brief — "Another Trump Trial Begins ... Regime Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-c19
+
+## Salaries for Ukrainian civil servants during the 2023 shutdown
+
+In September 2023 a [[60-minutes|60 Minutes]] segment titled "The unexpected way American tax dollars are being used in Ukraine" revealed that the U.S. government was paying the salaries of some 57,000 Ukrainian civic services personnel, and that these payments would continue through a U.S. government shutdown.[10] [[zerohedge|ZeroHedge]] reported that the disclosure landed while GOP congressional leaders were intensely debating a proposed defense budget containing [[joe-biden|Joe Biden]]'s push for a further $24 billion in military assistance for Kiev.[10]
+
+[[badlands-media|Badlands Media]] writer [[ashe-in-america|Ashe in America]] contrasted the arrangement with the treatment of Americans during the Covid-19 shutdowns, when businesses were closed, owners fined and $600 payments issued while many fell into lasting financial ruin.[10] She described the practice as "the very essence of taxation without representation," noting the absence of any audit of or accountability for money spent in Ukraine and alleging that much of it was likely laundered back to political actors in Washington.[10]
+
+10. Badlands Brief — "Badlands News Brief: Hunter Sues, Ukraine Backpedals & Big Mike Preps", URL: https://badlands.substack.com/p/badlands-news-brief-cc9

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fema, dhs, disaster-response, federal-agency, gregg-phillips]
-sources: [raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-b78.md]
+sources: [raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-b78.md, raw/badlands-news-brief-cb6.md]
 confidence: medium
 ---
 
@@ -56,6 +56,10 @@ A whistleblower letter sent to Representative [[matt-gaetz|Matt Gaetz]] detailed
 
 Badlands commentary observed that new stories of FEMA failing at its core mission were emerging daily, noting that NBC News reported 220 deaths while Appalachians on the ground described entire towns washed away, thousands missing, and an apocalyptic toll.[8] Contributors criticized the agency for devoting resources to a public "rumor response" page debunking claims about its performance and urging Americans to disregard information not from "official sources," even as Mayorkas, [[pete-buttigieg|Pete Buttigieg]] and other officials were accused of grounding drones and private search-and-rescue flights, confiscating supplies, and punishing unofficial responders.[8] They also highlighted the detail, buried in reporting, that [[congress|Congress]] had appropriated an additional $20 billion to FEMA only one week before Mayorkas said the agency was not adequately resourced for the remainder of the season, concluding that in a tragedy FEMA not only fails to help but actively obstructs people from helping themselves.[8]
 
+## Firings over migrant hotel payments (February 2025)
+
+In February 2025 the [[department-of-homeland-security|Department of Homeland Security]] told Fox News that "four employees are being fired today for circumventing leadership and unilaterally making the egregious payment for hotels for migrants in New York City."[9] The dismissals followed a post by [[elon-musk|Elon Musk]] on X stating that the [[department-of-government-efficiency|DOGE]] team had discovered FEMA sent $59 million the previous week to luxury hotels in New York City to house illegal migrants.[9] DHS said the firings included FEMA's chief financial officer, two program analysts and a grant specialist, and that under President [[donald-trump|Trump]] and Secretary [[kristi-noem|Noem]]'s leadership the department would "not sit idly and allow deep state activists to undermine the will and safety of the American people."[9] Musk said the money was meant for American disaster relief rather than "high end hotels for illegals" and that a clawback demand would be made to recoup the funds.[9] Badlands commentary singled out the episode as a rare public instance of the government disciplining insubordination — an order was given, defied, and the responsible parties immediately terminated.[9]
+
 ## References
 
 1. Badlands News Brief — "Weed Wins, Globalist Whisking, & Lizard-Led Impeachments", URL: https://badlands.substack.com/p/badlands-news-brief-0ef
@@ -66,3 +70,4 @@ Badlands commentary observed that new stories of FEMA failing at its core missio
 6. Badlands News Brief — "Post Mortems, Dog Fights, & Flight Risks", URL: https://badlands.substack.com/p/badlands-news-brief-721
 7. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
 8. Badlands Brief — "Badlands News Brief: The Trump-Musk Pincer Closes as Disaster Strikes the Regime", URL: https://badlands.substack.com/p/badlands-news-brief-b78
+9. Badlands Brief — "Badlands News Brief: Muslim Migrants, Mad Max, & Even More Money-Laundering", URL: https://badlands.substack.com/p/badlands-news-brief-cb6

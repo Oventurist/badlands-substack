@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [transportation, trump-administration, faa, drones]
-sources: [raw/badlands-brief-405.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-97e.md]
+sources: [raw/badlands-brief-405.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-ce5.md]
 confidence: medium
 ---
 
@@ -34,6 +34,10 @@ On November 18, 2024, President-elect [[donald-trump|Donald Trump]] announced Du
 
 Treasury Secretary [[scott-bessent|Scott Bessent]] compared the [[moodys|Moody's]] downgrade of U.S. credit to Duffy's remarks about the air traffic control system, arguing that in both cases "we didn't get here in the past 100 days" and attributing the deterioration to the preceding four years of spending.[5]
 
+## Funding ultimatum to the New York MTA (March 2025)
+
+On March 19, 2025, Transportation Secretary Duffy sent a letter to [[janno-lieber|Janno Lieber]], head of the New York [[metropolitan-transportation-authority|Metropolitan Transportation Authority]], threatening to cut off federal funding to the agency if it did not meet the administration's demands on subway crime.[6] Duffy demanded that the NYMTA "ensure a safe and clean environment, reduce crime and fare evasion, and maintain a safe operating system" to protect New Yorkers.[6] Badlands commentary characterized the letter as a negotiating tactic by [[donald-trump|Trump]] and argued that a serious effort would require an audit of the transit agency before any federal funds were released.[6]
+
 ## References
 
 1. Badlands Brief — "Agencies Aflutter, Corporate Compacts & Discombobulated Drones", URL: https://badlands.substack.com/p/badlands-brief-405
@@ -41,3 +45,4 @@ Treasury Secretary [[scott-bessent|Scott Bessent]] compared the [[moodys|Moody's
 3. Badlands Brief — "Badlands News Brief: Manhunts, Mental Health, & the Mother of a Monster", URL: https://badlands.substack.com/p/badlands-news-brief-6e5
 4. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6
 5. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
+6. Badlands Brief — "Badlands News Brief: Calibrating Education, Recalculating Commands, & Countering Currency Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-ce5

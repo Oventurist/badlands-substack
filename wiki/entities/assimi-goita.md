@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [mali, sahel, military-government, ecowas, africa]
-sources: [raw/badlands-news-brief-50e.md, raw/badlands-news-brief-62d.md]
+sources: [raw/badlands-news-brief-50e.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-c05.md]
 confidence: medium
 ---
 
@@ -30,3 +30,9 @@ In the weeks after the July 26, 2023 [[2023-niger-coup|coup in Niger]], Goïta p
 
 1. Badlands Brief — "Badlands News Brief: Biden Holds the Line as the Sovereign Alliance Prepares", URL: https://badlands.substack.com/p/badlands-news-brief-50e
 2. Badlands Brief — "Federal RICO, Disaster Opportunism & Putin's Peace", URL: https://badlands.substack.com/p/badlands-news-brief-62d
+
+## June 2024 reception of the Russian defense delegation
+
+On Monday, June 3, 2024, Goita hosted a high-ranking [[russian-defense-ministry|Russian Defense Ministry]] delegation led by Deputy Minister [[yunus-bek-yevkurov|Yunus-Bek Yevkurov]] at the presidential palace in Bamako, as announced by [[mali|Mali]]'s military government on X.[3] According to local news agency aBamako, the parties discussed Mali-Russia defense and security cooperation as well as the situation in the Sahel region, long plagued by jihadist violence.[3] Before meeting Goita, the delegation held talks with Malian Defense Minister [[sadio-camara|Sadio Camara]] and air force chief [[alou-boi-diarra|Alou Boi Diarra]].[3] Mali, a former French colony, has severed military ties with France over accusations of meddling, as has neighboring [[niger|Niger]], whose transitional leader [[abdourahmane-tchiani|Abdourahamane Tchiani]] met the same delegation in Niamey.[3]
+
+3. Badlands News Brief — "Bicameral Jailings, Russian Trolling and Retribution ...", URL: https://badlands.substack.com/p/badlands-news-brief-c05

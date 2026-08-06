@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [syria, regime-change, proxy-war, middle-east]
-sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-98d.md, raw/badlands-brief-a9f.md, raw/badlands-brief-eea.md, raw/badlands-brief-e9e.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-7a5.md]
+sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-98d.md, raw/badlands-brief-a9f.md, raw/badlands-brief-eea.md, raw/badlands-brief-e9e.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-c18.md]
 confidence: medium
 ---
 
@@ -71,6 +71,10 @@ In December 2024 the Syrian government collapsed as opposition forces entered [[
 
 Badlands framed Syria's geography as the underlying reason for its destruction.[9] Two Persian Gulf natural gas pipeline proposals dating to around 2009 — one from Iran terminating in Lebanon, one from Qatar through Turkey into Europe — each required Syrian transit and each was reportedly rejected by Assad, protecting Russian gas exports.[9] Assad's 2005 [[five-seas-vision|Five Seas Vision]] would have made Aleppo the hub of a rail network linking five bodies of water, and had reportedly drawn renewed interest from China and Saudi Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] under the [[belt-and-road-initiative|Belt and Road Initiative]] and [[saudi-vision-2030|Saudi Vision 2030]].[9] Israeli claims on Syrian territory, including the [[golan-heights|Golan Heights]] annexation moves and [[bezalel-smotrich|Bezalel Smotrich]]'s assertion that Damascus belongs to Israel, formed the third strand.[9] Russia's presence in the country, anchored at [[tartus-naval-base|Tartus]], was cast by Badlands as an effort to halt Western-sponsored extremist advances, and its drawdown as a scripted parallel to the 2021 Kabul withdrawal.[9]
 
+## Missile fire on the Golan Heights (October 2023)
+
+On the evening of Tuesday, 10 October 2023, the Syrian Army fired missiles toward the Israeli-occupied [[golan-heights|Golan Heights]], an attack confirmed by the Israeli Defense Force.[10] Commentators said the strike raised the risk of a broader conflict spiralling outward, given the earlier exchange of fire in northern Lebanon between [[israel|Israel]] and likely [[hezbollah|Hezbollah]] positions.[10] [[al-jazeera|Al Jazeera]] senior correspondent Zeina Khodr described the mortar and rocket fire from Syria as a message to Israel from a new front and raised the prospect of a "multi front assault."[10] The exchange occurred within an hour of President [[joe-biden|Joe Biden]] announcing that the United States would begin "surging" defense aid to Israel.[10]
+
 ## References
 1. Badlands Brief — "Assad Day in Damascus", URL: https://badlands.substack.com/p/assad-day-in-damascus
 2. Badlands Brief — "There is “Nothing Bigger” Than Tonight’s Election Speech", URL: https://badlands.substack.com/p/badlands-brief-98d
@@ -82,3 +86,4 @@ Badlands framed Syria's geography as the underlying reason for its destruction.[
 8. Badlands Brief — "Badlands News Brief: Devastation at Davos & the Dawn of Denuclearization", URL: https://badlands.substack.com/p/badlands-news-brief-53f
 
 9. Badlands Brief — "Damascus Has Fallen ... Cui Bono?", URL: https://badlands.substack.com/p/badlands-news-brief-7a5
+10. Badlands Brief — "Badlands News Brief: Crisis Cascades, Nordstream 3 & Bidenomics", URL: https://badlands.substack.com/p/badlands-news-brief-c18

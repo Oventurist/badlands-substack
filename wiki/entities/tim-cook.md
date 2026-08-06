@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [apple, technology, manufacturing, india, trump]
-sources: [raw/badlands-news-brief-2d5.md]
+sources: [raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-d04.md]
 confidence: medium
 ---
 
@@ -26,5 +26,11 @@ The figure Trump cited refers to Apple's February 2025 announcement that it woul
 
 Badlands contributor [[ashe-in-america|Ashe in America]] treated the exchange as evidence that decades of offshoring to India — first in IT outsourcing, then business process outsourcing, then creative and consulting work — had been sold to American firms as a "competitive imperative" while hollowing out domestic industry.[1] In that reading, Trump's message to Cook was a signal to Apple to "claim your share of the coming American Greatness."[1]
 
+
+## American Manufacturing Program announcement (August 2025)
+
+In August 2025 Cook announced that [[apple|Apple]] was raising its US investment commitment to $600 billion over four years and launching the [[american-manufacturing-program|American Manufacturing Program]].[2] "Today, we're proud to increase our investments across the United States to $600 billion over four years and launch our new American Manufacturing Program," he said, adding that the effort included new and expanded work with ten companies across America whose components are used in Apple products sold globally.[2] He also expressed gratitude to the President for his support of the initiative.[2]
+
 ## References
 1. Badlands Media — "Badlands News Brief: Nuclear Negotiations, Ethics Probes, & American iPhones", URL: https://badlands.substack.com/p/badlands-news-brief-2d5
+2. Badlands Brief — "Global Struggles, Civil Alliances, & the Penalty for Treason", URL: https://badlands.substack.com/p/badlands-news-brief-d04

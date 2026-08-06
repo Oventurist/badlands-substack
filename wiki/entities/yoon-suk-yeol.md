@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [south-korea, president, martial-law, impeachment]
-sources: [raw/badlands-news-brief-2f5.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-99e.md]
+sources: [raw/badlands-news-brief-2f5.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-bd7.md]
 confidence: medium
 ---
 
@@ -56,9 +56,14 @@ Yoon had declared martial law on the Tuesday of the preceding week after accusin
 
 Badlands commentary by [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] called the developments "incredibly based," praising the Korean people and the opposition for immediately shutting down what the writer characterised as a coup, deferring to Colonel [[douglas-macgregor|Douglas Macgregor]]'s analysis, and speculating that the [[cia|CIA]] had grown nervous about developments involving Russia, China, and North Korea.[5] The writer framed the episode as a possible narrative template that would sweep across the world as "the globalist cartel's brittle power begins to shatter."[5]
 
+## First anniversary of the martial law declaration (December 2025)
+
+On December 3, 2025, the first anniversary of Yoon's shock martial law announcement, President [[lee-jae-myung|Lee Jae Myung]] said the cleanup from the failed bid was not yet complete and that the perpetrators had to be brought to justice.[6] Lee said Yoon's action had threatened an irreparable setback to South Korea, but that the people rose up and stopped the military with their bare hands, and called the "December 3 coup d'etat" a crisis not only for one country's democracy but for world democracy.[6] The declaration plunged a state widely regarded as a democratic success story into months of political turmoil, coinciding with the shock to South Korea's export-reliant economy from President [[donald-trump|Donald Trump]]'s global tariffs; Yoon was ousted, and those accused of involvement were arrested and tried for subversion.[6] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] offered a satirical account casting Yoon as the losing side of the "Great Poop Balloon War of '24," in which the South Korean military declined to carry out an artillery strike against North Korean balloon launch sites, leaving Yoon to impose martial law without military backing.[6]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Korea Joins the Shenanigans as Drama Gives Way to Comedy", URL: https://badlands.substack.com/p/badlands-news-brief-2f5
 2. Badlands News Brief — "Mid-Transition “QAnon” Claims & A Not Quite Final Farewell", URL: https://badlands.substack.com/p/badlands-news-brief-351
 3. Badlands Brief — "It Was the Trumpest of TIMEs ...", URL: https://badlands.substack.com/p/badlands-news-brief-61a
 4. Badlands News Brief — "Media Apologies, Fake & Gay Drones and Trump Appointments", URL: https://badlands.substack.com/p/badlands-news-brief-86f
 5. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e
+6. Badlands Brief — "Bogus Visas, Brazilian Sanctions, and Foreign Boat Battles", URL: https://badlands.substack.com/p/badlands-news-brief-bd7

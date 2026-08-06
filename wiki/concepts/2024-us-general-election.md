@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [elections, 2024, united-states, election-security]
-sources: [raw/badlands-news-brief-74c.md, raw/badlands-news-brief-8bd.md]
+sources: [raw/badlands-news-brief-74c.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-cba.md]
 confidence: medium
 ---
 
@@ -52,6 +52,21 @@ Separately, a [[jerusalem-post|Jerusalem Post]] investigation reported a potenti
 
 On the same day, Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] fired Defense Minister [[yoav-gallant|Yoav Gallant]], and the US military scheduled a test launch of an unarmed [[minuteman-iii|Minuteman III]] ICBM from [[vandenberg-space-force-base|Vandenberg Space Force Base]] for the hours after polls closed.[2]
 
+## Pre-election irregularities and the mandate question
+
+In the final week before the vote, the director of the [[cisa|Cybersecurity and Infrastructure Security Agency]] said Russian, Chinese and Iranian operators were attempting to disrupt the election with disinformation.[3] Badlands writer [[ashe-in-america|Ashe in America]] contrasted that framing with the Colorado voting-system password exposure under Secretary of State [[jena-griswold|Jena Griswold]], in which BIOS passwords for more than 600 machines were publicly accessible for months and the breach was concealed for days, yet officials declared no threat existed.[3]
+
+Reported irregularities accumulated across the country in the same period, including stolen ballots, leaked passwords, machine glitches, "known issues," unscannable ballots and ballot-marking-device misprints.[3] Among the most widely circulated was a Laurel County, Kentucky incident in which a voter's selection of Trump registered as Harris; county clerk [[tony-brown|Tony Brown]] confirmed on Facebook that the issue "did occur" after first denying it, and the machine was withdrawn from service pending review by the attorney general's office.[3]
+
+Politico reported that Trump was making Pennsylvania the focal point of preemptive claims of a rigged election, citing Bucks County mail-ballot lines and early cutoffs — over which Trump allies successfully sued to extend on-demand voting — as well as Lancaster and York County reviews of suspicious voter registration materials, which Trump characterized as "THOUSANDS of potentially FRAUDULENT applications."[3] Trump posted that "Pennsylvania is cheating, and getting caught, at large scale levels rarely seen before" and demanded prosecution.[3]
+
+Badlands commentary described the environment as "the thick of the fog of war," with pollsters urging belief in close races and Politico floating a Harris electoral-college win without the popular vote.[3] Ashe in America wrote that she would not "trust the outcome" of an unverifiable election, while [[burning-bright|Burning Bright]] argued that the true measure of the election was not reported vote totals but whether the public accepted them — a question of mandate rather than count.[3]
+
+## Migration ahead of a possible Trump return
+
+The Telegraph reported that roughly 2,000 migrants were travelling north through Mexico by foot and convoy in an attempt to reach the United States before a possible Trump return to the White House, having covered 90 miles in five days from Tapachula on the Guatemalan border with about 1,000 miles remaining.[3] Organizers described the march as "their exodus," and a second convoy was planned to depart on 5 November, deliberately timed for Election Day so that [[joe-biden|Joe Biden]] and [[kamala-harris|Kamala Harris]] "know we are heading their way."[3] The report noted Trump's demand for the death penalty for migrants who kill US citizens and his mass-deportation platform, alongside an existing arrangement between the Biden administration and the Mexican government that had already made the journey far harder.[3]
+
 ## References
 1. Badlands News Brief — "The Day of Days Has Arrived ...", raw/badlands-news-brief-74c.md
 2. Badlands Brief — "Badlands News Brief: A New Golden Age Begins ...?", URL: https://badlands.substack.com/p/badlands-news-brief-8bd
+3. Badlands Brief — "Badlands News Brief: Election-Mongering and Electioneering as Shenanigans Abound", URL: https://badlands.substack.com/p/badlands-news-brief-cba

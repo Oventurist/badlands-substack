@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [new-york, attorney-general, subpoenas, lawfare]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-5dc.md, raw/badlands-brief-884.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-2e8.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-579.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-afb.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-5dc.md, raw/badlands-brief-884.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-2e8.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-579.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-afb.md, raw/badlands-news-brief-c44.md, raw/badlands-news-brief-c93.md]
 confidence: medium
 ---
 
@@ -90,6 +90,18 @@ During the defense phase of the civil fraud trial in November 2023, testimony fr
 
 [[ashe-in-america|Ashe in America]] characterized James' theory of inflated asset values — including an $18 million valuation of Mar-a-Lago — as a "fever dream," argued that the testimony was devastating to the premise that Deutsche Bank was an unwilling victim, and repeated the claim that James had campaigned on prosecuting Trump and fabricated a crime to do so.[15] She framed the prosecutions as effectively campaign stops that strengthened Trump and accelerated a broader public awakening, describing a coverup spanning all three branches of government at both federal and state levels.[15]
 
+## FHFA criminal referral for mortgage fraud (April 2025)
+
+In April 2025 the [[trump-administration|Trump administration]] accused James of mortgage fraud and made a criminal referral to the Justice Department seeking her federal prosecution.[16] Officials with the [[federal-housing-finance-agency|Federal Housing Finance Agency]] alleged that she had falsified bank and property records to obtain better loan agreements, an administration official told the BBC.[16]
+
+The referral came after James won a 2023 civil case against [[donald-trump|Donald Trump]] accusing him of overvaluing his properties to obtain loans on favourable terms, a judgment he was appealing.[16] No charges had been filed against James at the time of reporting, and her office accused the administration of weaponizing the federal government, with a spokesperson saying she "is focused every single day on protecting New Yorkers" and "will not be intimidated by bullies — no matter who they are."[16] Trump had repeatedly said throughout his post-presidency trials that his political opponents were weaponizing the justice system against him.[16]
+
+Badlands contributor [[zak-paine|Zak Paine]] wrote that James — whom he nicknamed "Peekaboo" — had received multiple criminal referrals to the DOJ for various types of mortgage fraud, concluding, "She's cooked."[16]
+
+## Appeal of her dismissed case (December 2025)
+
+The [[justice-department|Justice Department]] appealed the dismissal of the criminal case against James on Friday night, December 19, 2025, having also attempted to renew the prosecution by reindicting her.[17] James had been charged with mortgage fraud in connection with a property she purchased in Virginia and pleaded not guilty.[17] Judge [[cameron-currie|Cameron Currie]] dismissed her case and that of [[james-comey|James Comey]] after finding that prosecutor [[lindsey-halligan|Lindsey Halligan]], a former White House aide, was ineligible for her post, rendering all actions flowing from the appointment unlawful exercises of executive power.[17]
+
 ## References
 1. Badlands Brief — "Somali Shatterpoints, Cartel Countermeasures, & Erosion of the World Order", URL: https://badlands.substack.com/p/badlands-brief-094
 2. Badlands Brief — "Gay Ayatollahs & Globalist Fragility", URL: https://badlands.substack.com/p/badlands-brief-5dc
@@ -106,3 +118,5 @@ During the defense phase of the civil fraud trial in November 2023, testimony fr
 13. Badlands Brief — "Badlands News Brief: DemoCrabs in Biden's Bucket", URL: https://badlands.substack.com/p/badlands-news-brief-845
 14. Badlands Brief — "Badlands News Brief: Deadline Deals and Crime Families", URL: https://badlands.substack.com/p/badlands-news-brief-a29
 15. Badlands Brief — "Badlands News Brief: Biden & Trump Enter the Lawfare Thunderdome", URL: https://badlands.substack.com/p/badlands-news-brief-afb
+16. Badlands Brief — "Badlands News Brief: A British TERF Triumph & A Senator Snubbed in El Salvador", URL: https://badlands.substack.com/p/badlands-news-brief-c44
+17. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93

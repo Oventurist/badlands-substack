@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [libya, 2011, regime-change, terrorism]
-sources: [raw/a-conflict-of-interest.md, raw/a-dereliction-of-duty.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-dereliction-of-duty.md, raw/badlands-news-brief-cba.md]
 confidence: medium
 ---
 
@@ -30,6 +30,11 @@ Badlands Media's follow-up feature restates that removing Gaddafi did not bring 
 
 Under the Gaddafi regime the Libyan armed forces had acquired sophisticated Russian-made Grinch SA-24 missiles capable of downing a warplane at up to 11,000 feet, and a Western official working on Libyan weapons recovery estimated that of a pre-revolution stock of some 25,000 surface-to-air missiles, fewer than 5,000 units were accounted for.[[2]](https://badlands.substack.com/p/a-dereliction-of-duty) Human Rights Watch documented widespread looting of thousands of SA-24 and SA-7 missiles.[[2]](https://badlands.substack.com/p/a-dereliction-of-duty) Badlands notes that the militia which ultimately rescued the Americans trapped at the CIA annex in Benghazi was a Libyan force made up of ex-Gaddafi soldiers.[[2]](https://badlands.substack.com/p/a-dereliction-of-duty)
 
+## 2009 United Nations address
+
+In a 2009 speech to the United Nations General Assembly, Gaddafi warned that nefarious actors were seeking to engineer deadly viruses to be unleashed on humanity, after which the same interests would sell mankind the necessary vaccines.[3] In the same address he called for the reopening of an investigation into the assassination of [[john-f-kennedy|John F. Kennedy]], stating his belief that Israel was responsible.[3] Badlands commentary cited the speech in 2024 while noting his killing two years later in 2011, remarking parenthetically, "No wonder they killed him."[3]
+
 ## References
 1. Badlands Brief — "A Conflict of Interest", URL: https://badlands.substack.com/p/a-conflict-of-interest
 2. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
+3. Badlands Brief — "Badlands News Brief: Election-Mongering and Electioneering as Shenanigans Abound", URL: https://badlands.substack.com/p/badlands-news-brief-cba

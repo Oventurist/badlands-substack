@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, south-carolina, republicans, iran, neoconservatives]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-1ae.md, raw/badlands-brief-2c5.md, raw/badlands-brief-285.md, raw/badlands-brief-509.md, raw/badlands-brief-708.md, raw/badlands-brief-71c.md, raw/badlands-brief-805.md, raw/badlands-brief-8db.md, raw/badlands-brief-b38.md, raw/badlands-brief-b56.md, raw/badlands-brief-be1.md, raw/badlands-brief-c7b.md, raw/badlands-brief-b82.md, raw/badlands-brief-d9f.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-03a.md, raw/badlands-news-brief-06e.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-502.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-98c.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-aff.md, raw/badlands-news-brief-bb3.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-1ae.md, raw/badlands-brief-2c5.md, raw/badlands-brief-285.md, raw/badlands-brief-509.md, raw/badlands-brief-708.md, raw/badlands-brief-71c.md, raw/badlands-brief-805.md, raw/badlands-brief-8db.md, raw/badlands-brief-b38.md, raw/badlands-brief-b56.md, raw/badlands-brief-be1.md, raw/badlands-brief-c7b.md, raw/badlands-brief-b82.md, raw/badlands-brief-d9f.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-03a.md, raw/badlands-news-brief-06e.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-502.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-98c.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-aff.md, raw/badlands-news-brief-bb3.md, raw/badlands-news-brief-bfe.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-cff.md]
 confidence: low
 ---
 
@@ -163,6 +163,13 @@ Badlands contributor [[ashe-in-america|Ashe in America]] responded by cataloguin
 
 Amid the [[ukrainian-desertion-crisis|Ukrainian desertion crisis]] of 2024, in which Ukrainian prosecutors opened 51,000 desertion cases in nine months, Graham was among American politicians pressing Kyiv to lower its conscription age to 18 after Ukraine had already cut it from 27 to 25.[33] [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] of [[badlands-media|Badlands Media]] singled Graham out for scorn over the push, mocking him as "Lady Lindsey" and predicting he would ultimately answer for what the writer called a century of accumulated sins.[33]
 
+
+## Silver Elephant Gala remarks on Israel (August 2025)
+
+At the 58th annual Silver Elephant Gala, a major Republican fundraiser held in South Carolina over the weekend of August 9–10, 2025, Graham spoke against any weakening of American aid to [[israel|Israel]] and suggested that reducing support would bring divine punishment upon the United States; he shared the speech with a broader audience on social media on Wednesday, August 13.[36] He praised Israel for purportedly abstaining from committing "genocide" in Gaza despite being in full capacity to do so, and said, "Israel is our friend. They are the most reliable friend we have in the Middle East. They are a democracy, surrounded by people who would cut their throats if they could."[36] The remarks followed Israel's announcement of a plan to occupy Gaza City, one of the few areas of the Strip its military does not control, a scheme touted as a roadmap to concluding the war with [[hamas|Hamas]] that drew overwhelmingly negative reaction in the West.[36]
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] said the clip validated his position that Graham — whom he has accused of working with [[john-mccain|John McCain]] to help create [[isis|ISIS]] — is irredeemable, describing the speech as overtly threatening the United States.[36]
+
 ## References
 
 1. Badlands Brief — "Mixed Gender Crews, Trafficking Stings, & Shadow Cabal Reruns", URL: https://badlands.substack.com/p/badlands-brief-029
@@ -216,3 +223,20 @@ Badlands contributor [[justin-deschamps|Justin Deschamps]] wrote that while war 
 31. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e
 32. Badlands Brief — "Badlands News Brief: Multipolar Power Projection & European Lamentations", URL: https://badlands.substack.com/p/badlands-news-brief-aff
 33. Badlands Brief — "All Eyes on the US as the World Shifts", URL: https://badlands.substack.com/p/badlands-news-brief-bb3
+
+## December 2025 call to seize Russian oil tankers
+
+In an interview with NBC's *Meet the Press* broadcast on Sunday, December 21, 2025, Graham urged Washington to escalate restrictions against Russia, including sanctioning [[china|China]] over its energy imports from Moscow and seizing tankers carrying Russian oil.[34] The push followed President [[donald-trump|Donald Trump]]'s roadmap of the previous month to resolve the Ukraine conflict, which Kiev and its European backers rejected as favoring Russia while advancing counterproposals and accusing Moscow of delaying peace.[34] Graham, a longtime Russia hawk, echoed that stance, claiming Moscow had "rebuffed all our efforts" and would not sign a peace deal "until we increase pressure."[34]
+
+"If [Russian President [[vladimir-putin|Vladimir Putin]]] says no this time... sign my bill that has 85 co-sponsors and puts tariffs on countries like China, who buy cheap Russian oil," Graham said, referring to legislation he authored authorizing tariffs of up to 500 percent on imports from countries that continue to buy Russian energy products.[34] He added: "Seize ships that are carrying sanctioned Russian oil like you're doing in Venezuela. If Putin says no, we need to dramatically change the game."[34]
+
+Badlands host [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] mocked Graham as "Lady Lindsey Graham... the Senator from Israel," broadcasting from Tel Aviv while publicly advocating that Russia be designated a state sponsor of terrorism and that Russian ships be seized by the [[us-navy|US Navy]], calling the spectacle a humiliation ritual and describing his conduct as overt treason.[34] He contrasted Graham unfavorably with Russian Foreign Minister [[sergey-lavrov|Sergey Lavrov]], who had characterized neoconservative activity in the Caribbean as "piracy" and accused America of "suppressing competition using dirty methods," and argued that the [[state-department|State Department]] behaves like an organized crime syndicate while Graham "sounds like a mobster when he talks about geopolitics."[34]
+34. Badlands Brief — "Badlands News Brief: Wanker War Hawks, Out-of-Work Wind Mills, & the Biggest, Fastest Battleships", URL: https://badlands.substack.com/p/badlands-news-brief-bfe
+## Kyiv visit and the Ukrainian mobilization law (March 2024)
+
+On Monday, March 18, 2024, Graham visited Kyiv and called on Ukrainian lawmakers to move quickly on a mobilization bill that would make more citizens eligible for the draft, sharply questioning the exemption of men under 27 from the fight.[35] He urged the swift legislative action even as U.S. lawmakers remained unable to reach consensus on aid for Ukraine, and the trip was his first to the Ukrainian capital since abruptly turning against a $60 billion aid package the previous month.[35]
+
+Meeting with President [[volodymyr-zelensky|Volodymyr Zelensky]], Graham could offer no firm assurances about the pending aid package, telling reporters only that he was "more optimistic than I've ever been that something will get out of the House pretty soon."[35] At the time Ukraine was short of both soldiers and ammunition, and Russia was advancing on the battlefield, having recently seized the eastern city of Avdiivka after a Ukrainian retreat.[35]
+
+35. Badlands Brief — "Badlands News Brief: Weaponization, Willis, and World War III", URL: https://badlands.substack.com/p/badlands-news-brief-c1e
+36. Badlands Brief — "Letters of Credence, More Evidence of Treason, & Allegedly Super-Intelligent AI", URL: https://badlands.substack.com/p/badlands-news-brief-cff

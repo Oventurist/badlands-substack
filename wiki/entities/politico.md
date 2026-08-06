@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, legacy-media, political-journalism, elections]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-1ae.md, raw/badlands-brief-618.md, raw/badlands-brief-6b4.md, raw/badlands-brief-a1a.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-af5.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-1ae.md, raw/badlands-brief-618.md, raw/badlands-brief-6b4.md, raw/badlands-brief-a1a.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-af5.md, raw/badlands-news-brief-c9a.md]
 confidence: low
 ---
 
@@ -99,6 +99,10 @@ Politico reported in late May 2024 that a pervasive sense of fear had settled in
 
 Badlands contributor [[burning-bright|Burning Bright]] had argued the previous week that Politico had become "a gold mine of negative or reverse indicators coming out of the establishment," and read the article as a literal panic pattern opening the summer stretch.[15] He highlighted two embedded signals: Politico's description of Trump's campaign stops in New York, New Jersey and California as "psychological warfare" meant to destabilize the curated image of Democrat control — matching commentary by [[jon-herold|Jon Herold]], [[just-human|Just Human]] and himself on the Power Hour — and the quotation of [[eric-trump|Eric Trump]] saying "Make no mistake, there is a war happening in this country."[15] Overall he judged the piece to represent a growing divide between Biden administration strategists and the DC "expert class."[15]
 
+## DeSantis-Disney reporting (April 2023)
+
+In April 2023, Politico reported on [[ron-desantis|Ron DeSantis]] escalating the [[disney-v-desantis|Disney dispute]] under the headline "'Buckle up': DeSantis escalates Disney dispute, eyes hotel taxes and road tolls," citing senior administration officials on the review of a Central Florida board agreement against state growth laws.[16]
+
 ## References
 1. Badlands Brief — "Mixed Gender Crews, Trafficking Stings, & Shadow Cabal Reruns", URL: https://badlands.substack.com/p/badlands-brief-029
 2. Badlands Brief — "DC Exposes Itself as the Middle East Gets Gloriously Strange", URL: https://badlands.substack.com/p/badlands-brief-1ae
@@ -115,3 +119,4 @@ Badlands contributor [[burning-bright|Burning Bright]] had argued the previous w
 13. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71
 14. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
 15. Badlands Brief — "Badlands News Brief: Deliberations Begin as Signal Spreads in the Info War", URL: https://badlands.substack.com/p/badlands-news-brief-af5
+16. Badlands Brief — "Badlands News Brief: The France Dance, Crime & J6 Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-c9a

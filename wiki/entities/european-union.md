@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [european-union, trade, tariffs, greenland, transatlantic]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-a84.md, raw/badlands-brief-b62.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-b7b.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-a84.md, raw/badlands-brief-b62.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-b7b.md, raw/badlands-news-brief-c9a.md]
 confidence: medium
 ---
 
@@ -154,6 +154,10 @@ On 7 May 2025 the European Union declared its intention to contest the United St
 
 In the same week the Trump administration concluded the [[2025-us-uk-trade-deal|US-UK trade deal]], prompting Badlands commentary that the EU and its allies would struggle to hold a hard line once the United Kingdom had settled first.[25]
 
+## Division over China policy (April 2023)
+
+Analysis published in April 2023 during the [[2023-macron-state-visit-to-china|2023 Macron state visit to China]] described the European Union as internally divided over China policy: France, Germany, and Spain sought to deepen relations with Beijing, while member states east of Austria and north of Germany, along with the Dutch, looked to the United States.[26] Michael Every of [[rabobank|Rabobank]] warned this could threaten a schism as national-security concerns came to transcend economics, and argued that Europe was already in a structurally weak, emerging-market-like position in a raw geopolitical world.[26] European Commission President Ursula von der Leyen, who travelled to Beijing alongside [[emmanuel-macron|Emmanuel Macron]], was reported to have been ushered in "via the tradesman's entrance," and her call for supply-chain "de-risking" from China was snubbed by Macron.[26]
+
 ## References
 
 1. Badlands Brief — "Arctic Escalation and Tropic Trouble for the Financial System", URL: https://badlands.substack.com/p/badlands-brief-02a
@@ -181,3 +185,4 @@ In the same week the Trump administration concluded the [[2025-us-uk-trade-deal|
 23. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38
 24. Badlands Brief — "Trump Indicted ... AGAIN! ... & Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-b83
 25. Badlands Brief — "Badlands News Brief: Victory Over Nazis & The First American Pope", URL: https://badlands.substack.com/p/badlands-news-brief-b7b
+26. Badlands Brief — "Badlands News Brief: The France Dance, Crime & J6 Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-c9a

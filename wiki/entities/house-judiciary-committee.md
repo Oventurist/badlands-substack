@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, house, oversight, doj-slush-fund, investigations]
-sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-1ae.md, raw/badlands-brief-1ef.md, raw/badlands-brief-733.md, raw/badlands-brief-a1a.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-bcc.md]
+sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-1ae.md, raw/badlands-brief-1ef.md, raw/badlands-brief-733.md, raw/badlands-brief-a1a.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-bcc.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c9a.md]
 confidence: medium
 ---
 
@@ -94,6 +94,14 @@ On Wednesday, September 20, 2023 the committee held a roughly five-hour oversigh
 
 The committee heard testimony from [[fbi|FBI]] Director [[christopher-wray|Christopher Wray]] on July 24, 2024 concerning the bureau's investigation of the [[attempted-assassination-of-donald-trump-2024|July 13 assassination attempt]] against [[donald-trump|Donald Trump]] in Pennsylvania.[17] Wray disclosed that gunman [[thomas-matthew-crooks|Thomas Crooks]] had flown a drone near the rally site about two hours before firing, that three crude explosive devices and a remote transmitter were recovered, that eight spent cartridges were found on the roof, and that agents had accessed Crooks' phone and found encrypted messaging apps.[17] Chairman [[jim-jordan|Jim Jordan]] opened by cataloguing the FBI's recent failings, while Ranking Member [[jerrold-nadler|Jerry Nadler]] was accused by Badlands of blaming Trump for the attempt on his own life.[17] Badlands commentator [[ashe-in-america|Ashe in America]] wrote that Wray largely declined to answer substantive questions, invoking the ongoing investigation and refusing to discuss the July 13 law enforcement response — a pattern set by the Oversight and Homeland Security committee hearings earlier that week, at which witnesses had deferred to the FBI.[17]
 
+## December 2023 request for White House records
+
+On December 27, 2023, the Judiciary Committee's chairman [[jim-jordan|Jim Jordan]] and Oversight chairman [[james-comer|James Comer]] wrote to [[white-house|White House]] counsel Edward Siskel seeking documents and communications concerning [[hunter-biden|Hunter Biden]]'s refusal to sit for a closed-door deposition, as part of the expanding impeachment inquiry into President [[joe-biden|Joe Biden]].[18]
+
+## Manhattan crime hearing (April 2023)
+
+In April 2023, Republicans on the committee announced the [[2023-house-judiciary-manhattan-crime-hearing|2023 House Judiciary Manhattan crime hearing]], an official field hearing scheduled in New York City on "victims of violent crime in Manhattan" that named District Attorney [[alvin-bragg|Alvin Bragg]] in its notice.[19] The announcement enraged New York Democrats, and Bragg's office called it a "political stunt."[19] Badlands writer [[ryan-delarme|Ryan DeLarme]] noted that [[jerrold-nadler|Jerrold Nadler]] took shots at committee chairman [[jim-jordan|Jim Jordan]] over Jordan's effort to defund what DeLarme described as the weaponized [[fbi|Federal Bureau of Investigation]].[19]
+
 ## References
 1. Badlands Brief — "America for Sale - Part 2", URL: https://badlands.substack.com/p/america-for-sale-part-2
 2. Badlands Brief — "DC Exposes Itself as the Middle East Gets Gloriously Strange", URL: https://badlands.substack.com/p/badlands-brief-1ae
@@ -112,3 +120,5 @@ The committee heard testimony from [[fbi|FBI]] Director [[christopher-wray|Chris
 15. Badlands Brief — "Badlands News Brief: Wins at Home and Deals Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-aac
 16. Badlands Brief — "Badlands News Brief: Trump Skips Debates, FED Paralyzed & Garland Grilled", URL: https://badlands.substack.com/p/badlands-news-brief-b1d
 17. Badlands Brief — "BiBi Goes to DC, Wray Responds & Biden Concedes", URL: https://badlands.substack.com/p/badlands-news-brief-bcc
+18. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb
+19. Badlands Brief — "Badlands News Brief: The France Dance, Crime & J6 Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-c9a

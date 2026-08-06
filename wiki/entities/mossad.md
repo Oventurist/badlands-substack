@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence, israel, cabal]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/america-for-sale-part-3.md, raw/badlands-brief-029.md, raw/badlands-brief-0bd.md, raw/badlands-brief-282.md, raw/badlands-brief-5ba.md, raw/badlands-brief-6f0.md, raw/badlands-brief-805.md, raw/badlands-brief-9ac.md, raw/badlands-brief-9ea.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-a38.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/america-for-sale-part-3.md, raw/badlands-brief-029.md, raw/badlands-brief-0bd.md, raw/badlands-brief-282.md, raw/badlands-brief-5ba.md, raw/badlands-brief-6f0.md, raw/badlands-brief-805.md, raw/badlands-brief-9ac.md, raw/badlands-brief-9ea.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-cf2.md]
 confidence: low
 ---
 
@@ -80,6 +80,20 @@ Mossad director [[david-barnea|David Barnea]] met in Poland on December 18, 2023
 
 Badlands commentary in April 2024 noted that the [[cia|CIA]] and Mossad were assuring the public an [[iran|Iranian]] missile strike on [[israel|Israel]] would come at any moment, while observing that no attack had yet materialized and questioning whether any of the statements circulating during the standoff could be trusted.[15]
 
+## Named in December 2025 Badlands commentary
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] named Mossad, alongside the [[central-intelligence-agency|CIA]] and [[mi6|MI6]], as a likely foreign partner in the failed assassination attempt against President [[donald-trump|Donald Trump]].[16] He also listed Mossad among the intelligence services, cartels, and international bodies he described as obstructing Russian and African cooperation on the continent following [[sergey-lavrov|Sergey Lavrov]]'s remarks at the [[russia-africa-partnership-forum|Russia-Africa Partnership Forum]].[16]
+
+## Alleged role in the 2024 Lebanon pager attack
+
+Following the September 17, 2024 detonation of thousands of Hezbollah pagers across Lebanon, Badlands commentary attributed the capability to Mossad and its partners, arguing that the operation demonstrated an intelligence agency's ability to remotely detonate personal communication devices with lithium batteries — the same batteries used in ordinary smartphones.[17] The outlet framed the episode as consistent with its earlier reporting that Israeli cybersecurity firms form the infrastructure of the modern surveillance state, and asked how long it would be before American dissidents were targeted by similar operations.[17] It also raised the counter-question of whether the attack, which gravely injured thousands while killing relatively few, would deter opposition to Mossad and [[israel|Israel]] or instead galvanize it.[17]
+
+## Veterans' letter calling for an end to the Gaza war (April 2025)
+
+In April 2025 more than 250 Mossad veterans signed a letter urging the Israeli government to reach an agreement to end the war in Gaza and return the remaining 59 captives.[18] Signatories included three former Mossad directors — Danny Yotam, [[ephraim-halevi|Ephraim Halevi]] and Tamir Pardo — a former deputy head, and dozens of department heads and their deputies; the initiative was reportedly led by David Midan and Gail Shoresh.[18] The letter stated: "We, the Mossad intelligence and special services veterans, who have dedicated many years to safeguarding the country's security, will not continue to stand by," expressing full support for an earlier letter by veteran Air Force pilots and joining the call to act immediately "even at the cost of ceasing fighting."[18] It closed with the line, "The sanctity of life, Mr. Prime Minister, takes precedence over 'God of Revenge.'"[18]
+
+The Mossad letter was published alongside one from nearly 200 reserve medical officers, and followed letters from Air Force pilots and from [[unit-8200|Unit 8200]] signals intelligence personnel.[18] Badlands commentary noted that hundreds of Air Force reservists who signed the earlier letter were expelled from the military, sixty of them active duty, and cited reporting circulated by [[barak-ravid|Barak Ravid]] suggesting the expulsions marked the start of a political purge of the military by [[benjamin-netanyahu|Benjamin Netanyahu]]; it read the letters as a growing pattern of dissent within Israel's intelligence and armed services against a war widely seen internally as futile.[18]
+
 ## References
 1. Badlands Brief — "A Journey of Ever-changing Truths", URL: https://badlands.substack.com/p/a-journey-of-ever-changing-truths
 2. Badlands Brief — "America for Sale - Part 3", URL: https://badlands.substack.com/p/america-for-sale-part-3
@@ -96,3 +110,6 @@ Badlands commentary in April 2024 noted that the [[cia|CIA]] and Mossad were ass
 13. Badlands Brief — "Badlands News Brief: Manhunts, Mental Health, & the Mother of a Monster", URL: https://badlands.substack.com/p/badlands-news-brief-6e5
 14. Badlands Brief — "Badlands News Brief: Trump 2024 Has the Deep State a Little Testy …", URL: https://badlands.substack.com/p/badlands-news-brief-810
 15. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38
+16. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93
+17. Badlands Brief — "Badlands News Brief: Trump Sends Comms as Diddlers Get Indicted", URL: https://badlands.substack.com/p/badlands-news-brief-ce1
+18. Badlands Brief — "Badlands News Brief: Witkoff Woos a Win & Women Go to Space", URL: https://badlands.substack.com/p/badlands-news-brief-cf2

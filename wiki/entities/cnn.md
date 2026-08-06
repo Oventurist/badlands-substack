@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, mainstream-media, cable-news]
-sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-1c6.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-9e7.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-b26.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-1c6.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-9e7.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-bec.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-d21.md]
 confidence: medium
 ---
 
@@ -114,8 +114,27 @@ On June 26, 2023, CNN exclusively obtained and first aired on "Anderson Cooper 3
 
 Badlands contributor [[justin-deschamps|Justin Deschamps]] characterized the exclusive as an example of [[deep-state|Deep State]] media narrative fixation, arguing that CNN and its peers know the legal theory denying a president unilateral declassification authority is dubious yet continue to advance it, betting that most viewers never look beyond the surface.[21]
 
-## References
+## March 2023 ratings collapse
 
+In a column published on March 29, 2023, [[breitbart|Breitbart]] media critic [[john-nolte|John Nolte]] reported that CNN had lost 61 percent of its primetime viewers and 73 percent of its viewers in the 25–54 demographic compared with March of the previous year — a decline of particular commercial significance because the 25–54 demographic sets advertising rates.[22] Across the month CNN averaged only 473,000 primetime viewers and 100,000 demo viewers, and only 425,000 total-day viewers and 83,000 total-day demo viewers.[22]
+
+The network's top-rated program, [[anderson-cooper|Anderson Cooper]] 360, placed 26th among cable news shows with an average of 635,000 total viewers.[22] [[erin-burnett|Erin Burnett]] drew 625,000 viewers, [[jake-tapper|Jake Tapper]] averaged 584,000 and 575,000 across his two hours, and [[don-lemon|Don Lemon]]'s morning show attracted only 346,000.[22] Nolte characterized CNN as "a far-left propaganda outlet that spreads conspiracy theories and political violence."[22]
+
+Writing for [[badlands-media|Badlands Media]], [[ryan-delarme|Ryan DeLarme]] treated the numbers as vindication of the "we are the news, now" mantra, expressing hope that some CNN employees had "seen the light" about how a news organization should not conduct itself.[22] He quoted Joseph Goebbels — whom he called the "Patron Saint of CNN" — to the effect that news policy should make every item of news serve a purpose, and argued that the American public had grown tired of the network's manipulated worldview and that CNN was effectively hoping for [[donald-trump|Donald Trump]]'s return to the White House to save its ratings.[22]
+
+## Firing of Don Lemon (April 2023)
+
+On April 24, 2023 CNN fired anchor [[don-lemon|Don Lemon]] following sexist on-air comments and reported mistreatment of female colleagues over his seventeen years at the network; Lemon, who had hosted "CNN This Morning" that morning, said he was "stunned" when his agent relayed the news.[23] The dismissal came within an hour of [[fox-news|Fox News]]'s announcement that [[tucker-carlson|Tucker Carlson]] was leaving that network immediately.[23]
+
+CNN's own coverage of the Carlson exit described him as "the right-wing extremist who used his prime time perch at the talk network to exert a firm grip over the Republican Party."[23] [[badlands-media|Badlands Media]] writer [[burning-bright|Burning Bright]] quoted that framing deliberately, arguing that the same-day firings served to conflate Fox and CNN as interchangeable [[media-industrial-complex|Media Industrial Complex]] corporations in the public mind and reflected a coordinated deployment rather than coincidence.[23]
+
+## January 2024 coverage and Badlands criticism
+
+CNN reported in late January 2024 that [[xi-jinping|Xi Jinping]] had privately assured [[joe-biden|Joe Biden]] that China would not interfere in the 2024 US presidential election, and that Chinese Foreign Minister [[wang-yi|Wang Yi]] repeated the pledge to [[jake-sullivan|Jake Sullivan]] in Bangkok.[25] [[badlands-media|Badlands Media]] writer [[simon-esler|Simon Esler]] used the piece as a case study in what he called the outlet's self-referential meta-narrative, observing that CNN cited its own 2016 reporting on the alleged Russian hack of the DNC as evidence years later despite what he described as ample evidence the breach was an inside job.[25] He argued the network was weaving a vague network of ideas about Iranian, Cuban, Russian, and AI-driven interference so that any 2024 irregularities could be attributed to foreign actors rather than domestic manipulation.[25]
+
+The network also reported the arrest of [[justin-mohn|Justin Mohn]] after a video showing his father's severed head circulated on [[youtube|YouTube]], framing the case within what it called a fraught national political environment and quoting law enforcement analyst and former [[fbi|FBI]] Deputy Director [[andrew-mccabe|Andrew McCabe]] on the dangers of the coming political season.[25]
+
+## References
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
 2. Badlands Brief — "Spain Wins The [American] World Cup", URL: https://badlands.substack.com/p/badlands-brief-1c6
 3. Badlands Brief — "WAR!", URL: https://badlands.substack.com/p/badlands-brief-eed
@@ -137,3 +156,14 @@ Badlands contributor [[justin-deschamps|Justin Deschamps]] characterized the exc
 19. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
 20. Badlands Brief — "Badlands News Brief: Marauding, Squirrel-Murdering Psychopaths Panic Ahead of the Election", URL: https://badlands.substack.com/p/badlands-news-brief-b01
 21. Badlands Brief — "Badlands News Brief: Trump's Tapes, Putin's Plan & Byrne's Bio", URL: https://badlands.substack.com/p/badlands-news-brief-b26
+22. Badlands Brief — "Badlands News Brief: Trump's Indictment, DeSantis & the Dollar", URL: https://badlands.substack.com/p/badlands-news-brief-bec
+23. Badlands Media — "Badlands News Brief: A Tucker, a Lemon and a Trump Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-bf6
+
+## Attack on Carlson's Trump interview (April 2023)
+
+In April 2023 CNN published a piece arguing that [[tucker-carlson|Tucker Carlson]] "raged against Trump in private" but took a very different tone when interviewing the former president.[24] CNN wrote that Carlson plays a straight-shooter on television and portrays himself from his [[fox-news|Fox News]] prime-time perch as a truth-teller who calls out BS, but that this was "all an act," as evidenced by what it called his weak excuse for an interview with [[donald-trump|Donald Trump]] — Trump's first since being indicted on dozens of felony counts of business fraud.[24] According to CNN, Carlson sat silent while Trump rambled through eyebrow-raising comments on a host of topics without challenge, made no effort to press him as an actual news anchor would, and instead sang his praises.[24]
+
+Badlands writer [[burning-bright|Burning Bright]] used the item to argue that mainstream outlets were cannibalising one another, remarking that it was "pretty fun watching MSM rags self destruct as they attempt to cancel one another while the new media and new era of citizen journalism rises to replace them."[24]
+
+24. Badlands Brief — "Badlands News Brief: Leak Shenanigans, Trump Seeds & Woke Broke", URL: https://badlands.substack.com/p/badlands-news-brief-cdb
+25. Badlands Brief — "Badlands News Brief: Chinese Interference and Narrative Seeding", URL: https://badlands.substack.com/p/badlands-news-brief-d21

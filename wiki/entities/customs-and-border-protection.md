@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cbp, border-patrol, immigration, dhs, funding]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-959.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-409.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-b63.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-959.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-409.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-b63.md, raw/badlands-news-brief-c74.md]
 confidence: medium
 ---
 
@@ -60,3 +60,9 @@ Badlands commentator [[ashe-in-america|Ashe in America]] connected the intercept
 In late July 2020, U.S. Customs and Border Protection captured 19,888 fake driver's licenses — mostly originating from Hong Kong and China — on their way to battleground states in the Midwest, evidence officials said corroborated a recalled [[fbi|FBI]] intelligence report alleging a Chinese scheme to manufacture fraudulent mail-in votes for [[joe-biden|Joe Biden]].[8] See [[fbi-recall-of-2020-china-election-intelligence|FBI recall of 2020 China election intelligence]].[8]
 
 8. Badlands Brief — "Badlands News Brief: Military Strikes, Labor Strikes, & Greenland's Status Upgrade", URL: https://badlands.substack.com/p/badlands-news-brief-b63
+
+## Record single-day encounters, December 2023
+
+CBP sources told Fox News that the U.S. southern border recorded more than 12,600 migrant encounters on Monday, December 18, 2023 — a single-day record — as thousands flooded into [[eagle-pass-texas|Eagle Pass, Texas]].[9] The figure included over 11,000 apprehensions of illegal immigrants and more than 1,600 people encountered at ports of entry, and excluded thousands still awaiting processing in the Del Rio Sector that evening.[9] By the next morning agents were still processing and transporting more than 4,500 migrants at the crossing, with over 5,300 already in custody and facilities at 260% over capacity.[9]
+
+9. Badlands Brief — "Badlands News Brief: The Mask Comes off as the Nation Watches", URL: https://badlands.substack.com/p/badlands-news-brief-c74

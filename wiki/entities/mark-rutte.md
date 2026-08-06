@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [nato, diplomacy, transatlantic-alliance]
-sources: [raw/badlands-brief-282.md, raw/badlands-brief-67a.md, raw/badlands-brief-a9f.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-9bc.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b22.md]
+sources: [raw/badlands-brief-282.md, raw/badlands-brief-67a.md, raw/badlands-brief-a9f.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-9bc.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b22.md, raw/badlands-news-brief-bfe.md]
 confidence: low
 ---
 
@@ -95,6 +95,14 @@ On Wednesday, June 26, 2024, the outgoing Dutch prime minister was formally sele
 
 [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] called the appointment "a little concerning," noting that although Rutte and others touted his record of working well with [[donald-trump|President Trump]] during Trump's first term, Trump himself likely does not think highly of NATO.[13] He raised concerns about Rutte's conduct as Dutch premier — while conceding Rutte refrained from imposing full lockdowns in the Netherlands during COVID — and pointed to a viral clip of a young man attacking Rutte in the Dutch Parliament.[13] The commentary also flagged an ominous post on X by [[benjamin-netanyahu|Benjamin Netanyahu]], asserting that Rutte is an [[israel-defense-forces|IDF]] apologist aligned with the Zionist agenda, and speculating about how soon NATO might be fighting alongside the IDF in Lebanon amid an apparently imminent invasion.[13]
 
+## December 2025 warning on China, Taiwan, and Russia
+
+In an interview with Germany's BILD newspaper published on Sunday, December 21, 2025, NATO Secretary General Mark Rutte warned that Russia could attempt to keep Europe "busy" if China launched a military attack on Taiwan, saying Beijing and Moscow were closely aligned and that any escalation in the Indo-Pacific would have direct consequences for European security.[14] "We also see the global connection between China and Russia. China is looking at Taiwan. And I am convinced that if China takes military action there, it will pressure its junior partner, Russia, under Putin's leadership, to keep us busy here in Europe," he said.[14]
+
+Against that backdrop Rutte said [[nato|NATO]] must urgently strengthen its deterrence, warning that Moscow remained prepared to absorb heavy losses: "The reason is Putin. He is prepared to sacrifice 1.1 million of his own people. And this year he has made very little progress – minimal territorial gains, less than 1% of Ukrainian territory compared to the beginning of the year."[14] He underlined that keeping Ukraine strong was central to European security.[14]
+
+Badlands writer [[burning-bright|Burning Bright]] read Rutte's framing alongside a Guardian column asserting that [[donald-trump|Trump]] and [[vladimir-putin|Putin]] "are carrying out a pincer movement on Europe's democracies," treating it as mainstream confirmation of the [[sovereign-alliance|Sovereign Alliance]] thesis he first advanced in his essay "Righteous Russia" — an alliance of East and West forming a nationalist, sovereign pincer around the globalist deep state.[14] He argued the Guardian's "it all feels a bit 1939" line amounted to Axis comms, consistent with his prediction in "Axis & Allies" that the powers that would be were attempting to invert the Axis-and-Allies paradigm against the Sovereign Alliance, and concluded that the alliance is real, is winning, and that its opponents now say so too.[14]
+
 ## References
 1. Badlands Brief — "Jesus Walks", URL: https://badlands.substack.com/p/badlands-brief-282
 2. Badlands Brief — "COVIDian Comeuppance and NATOnian Neglect", URL: https://badlands.substack.com/p/badlands-brief-67a
@@ -110,3 +118,4 @@ On Wednesday, June 26, 2024, the outgoing Dutch prime minister was formally sele
 11. Badlands News Brief — "Trump's Avengers Assemble as Globalists Tremble", URL: https://badlands.substack.com/p/badlands-news-brief-9bc
 12. Badlands News Brief — "Contentious Confirmations & Conflicted Special Counsels", URL: https://badlands.substack.com/p/badlands-news-brief-b02
 13. Badlands Brief — "The Supreme Court Looms Over the First Debate", URL: https://badlands.substack.com/p/badlands-news-brief-b22
+14. Badlands Brief — "Badlands News Brief: Wanker War Hawks, Out-of-Work Wind Mills, & the Biggest, Fastest Battleships", URL: https://badlands.substack.com/p/badlands-news-brief-bfe

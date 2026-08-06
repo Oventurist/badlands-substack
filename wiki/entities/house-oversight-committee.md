@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, oversight, investigations, biden-family]
-sources: [raw/badlands-news-brief-26c.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-3c3.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-743.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-948.md]
+sources: [raw/badlands-news-brief-26c.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-3c3.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-743.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c4f.md]
 confidence: medium
 ---
 
@@ -74,6 +74,14 @@ The inquiry ran alongside oversight by inspectors general: the [[department-of-d
 
 The committee, chaired by [[james-comer|James Comer]], was at the center of a December 2023 standoff over how [[hunter-biden|Hunter Biden]] would testify: Comer rejected an offer of public testimony and demanded a closed-door transcribed deposition on December 13, while Hunter's counsel [[abbe-lowell|Abbe Lowell]] argued that closed sessions were used "to manipulate, even distort, the facts and misinform the American public."[13] The panel's November subpoenas to Hunter Biden, [[james-biden|James Biden]] and other Biden family members and business associates were widely read as a sign that the [[biden-impeachment-inquiry|impeachment inquiry]] into President [[joe-biden|Joe Biden]] was entering a new phase.[13]
 
+## December 2023 Hunter Biden deposition standoff
+
+[[hunter-biden|Hunter Biden]] defied the committee's subpoena for a closed-door interview scheduled for December 13, 2023, appearing outside the U.S. Capitol to say he would testify only publicly.[14] On December 27, committee chairman [[james-comer|James Comer]], together with [[jim-jordan|Jim Jordan]] of the [[house-judiciary-committee|Judiciary Committee]], requested White House records bearing on President [[joe-biden|Joe Biden]]'s alleged involvement in that decision, expanding the impeachment inquiry.[14]
+
+## Clinton depositions in the Epstein-Maxwell investigation (2025)
+
+In November 2025 the Committee ordered former President [[bill-clinton|Bill Clinton]] and former Secretary of State [[hillary-clinton|Hillary Clinton]] to appear for closed-door depositions in December, rejecting an attempt by their attorney to block subpoenas tied to the panel's [[jeffrey-epstein|Epstein]]-[[ghislaine-maxwell|Maxwell]] investigation.[15] In a letter sent that Friday, Chairman [[james-comer|James Comer]] dismissed attorney [[david-kendall|David Kendall]]'s argument that the Committee should rely on written responses rather than question the Clintons directly, writing that the Committee "disagrees" that accepting limited written information would be "the most efficient and equitable way to proceed" and that Kendall's request relied on assertions already "disproved by public information."[15] Badlands host [[ashe-in-america|Ashe in America]] doubted the depositions would happen and objected to the closed-door format, writing that "there must be justice phase if there is to be a golden age."[15]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Russia Collusion is Back ... Unlike Biden's Memories", URL: https://badlands.substack.com/p/badlands-news-brief-26c
 2. Badlands Brief — "Badlands News Brief: Biden Bills, African Coups & Optics", URL: https://badlands.substack.com/p/badlands-news-brief-2d2
@@ -88,3 +96,5 @@ The committee, chaired by [[james-comer|James Comer]], was at the center of a De
 11. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
 12. Badlands Brief — "Badlands News Brief: Putin Postures, Voting Matters & J6 Subpoenas", URL: https://badlands.substack.com/p/badlands-news-brief-8c5
 13. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
+14. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb
+15. Badlands News Brief — "Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f

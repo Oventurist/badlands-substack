@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, oversight, republican]
-sources: [raw/badlands-brief-c7b.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-94b.md]
+sources: [raw/badlands-brief-c7b.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-cf8.md]
 confidence: medium
 ---
 
@@ -23,7 +23,15 @@ Johnson, together with Senator [[chuck-grassley]], pressed the [[national-archiv
 Johnson joined Senate Judiciary Chairman [[chuck-grassley|Chuck Grassley]] in releasing two new FBI FD-1023 records documenting confidential-source allegations of Biden family corruption in [[ukraine|Ukraine]], part of the disclosures around the [[fbi-confidential-source-reports-on-biden-ukraine-corruption|FBI confidential source reports on Biden Ukraine corruption]].[3] [[fbi|FBI]] Director [[kash-patel|Kash Patel]] said there was no record the bureau had sought to thoroughly investigate the claims.[3]
 
 
+## Shutdown pay-bill standoff (October 2025)
+
+During the [[october-2025-government-shutdown|October 2025 government shutdown]], Johnson objected on Thursday, October 23, 2025 to a request by Sen. [[chris-van-hollen|Chris Van Hollen]] that the [[united-states-senate|Senate]] immediately consider and pass the [[true-shutdown-fairness-act|True Shutdown Fairness Act]], a bill to pay all federal workers, military members and federal contractors during the lapse and to bar mass layoffs known as reductions in force.[4] It was one of two Democratic-sponsored pay bills Johnson rejected on the floor that day.[4]
+
+Johnson was himself the sponsor of the competing [[shutdown-fairness-act-of-2025|Shutdown Fairness Act of 2025]], which would have paid active-duty military members and other essential federal employees required to work; Senate Democrats blocked it in a mostly party-line 54-45 vote that fell short of the 60-vote threshold.[4] Sens. [[jon-ossoff|Jon Ossoff]], [[raphael-warnock|Raphael Warnock]] and [[john-fetterman|John Fetterman]] crossed party lines to support Johnson's bill.[4]
+
 ## References
+
 1. Badlands Brief — "TACO Tuesday Returns as the War of Stories Gets Weird", URL: https://badlands.substack.com/p/badlands-brief-c7b
 2. Badlands Brief — "Tucker, Fauci, Biden & Biology", URL: https://badlands.substack.com/p/badlands-news-brief-082
 3. Badlands Brief — "Posse Comitatus & Haggling with Hamas", URL: https://badlands.substack.com/p/badlands-news-brief-94b
+4. Badlands Brief — "Badlands News Brief: B-Ball Bets, Bomber Busts, & 'Bipartisan' Bill Blockage", URL: https://badlands.substack.com/p/badlands-news-brief-cf8

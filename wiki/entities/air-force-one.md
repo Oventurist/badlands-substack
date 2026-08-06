@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [aviation, presidency, qatar, boeing]
-sources: [raw/badlands-brief-c91.md]
+sources: [raw/badlands-brief-c91.md, raw/badlands-news-brief-c14.md]
 confidence: medium
 ---
 
@@ -18,6 +18,11 @@ President [[donald-trump|Donald Trump]] ordered the new aircraft during his firs
 
 The delivery of the aircraft was noted as coinciding with the signing of the [[us-iran-memorandum-of-understanding|US–Iran memorandum of understanding]], in which Qatar had played a backchannel role.[1]
 
+## Proposed Qatari Boeing 747-8 (2025)
+
+In May 2025 the Trump administration was reported to be preparing to accept a super-luxury Boeing 747-8 jumbo jet from the royal family of [[qatar|Qatar]], described as possibly the most valuable gift ever extended to the United States by a foreign government.[2] Sources familiar with the arrangement told ABC News the "palace in the sky" would serve as the new Air Force One for President [[donald-trump|Donald Trump]] until shortly before he leaves office, after which ownership would transfer to the Trump presidential library foundation.[2] Trump confirmed the plan in a social media post, calling it a "very public and transparent transaction" with the Defense Department, while a senior White House official said the gift would not be presented while the president was in Qatar that week.[2]
+
 ## References
 
 1. Badlands Brief — "Trump Rugs the Deltas with an Early MOU", URL: https://badlands.substack.com/p/badlands-brief-c91
+2. Badlands Brief — "Badlands News Brief: Overreach, Obstruction, & Our Boy Blue", URL: https://badlands.substack.com/p/badlands-news-brief-c14

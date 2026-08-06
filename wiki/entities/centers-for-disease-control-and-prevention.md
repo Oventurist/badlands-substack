@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [public-health, federal-agencies, 2026]
-sources: [raw/badlands-brief-835.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-2b1.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-683.md]
+sources: [raw/badlands-brief-835.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-2b1.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-d00.md]
 confidence: medium
 ---
 
@@ -67,6 +67,18 @@ In a September 2024 Badlands News Brief item, contributor [[ghostofbasedpatrickh
 
 The writer argued that this suppression of truthful information had created a public health "time bomb" in his community, and used the episode as an indictment of federal health bureaucracy generally — placing CDC guidance alongside the [[national-institutes-of-health]] as an institution requiring dismantling and investigation of its personnel for malfeasance, with open defiance framed as the only logical response.[12]
 
+## Hepatitis B policy change, December 2025
+
+In December 2025 the CDC officially updated its hepatitis B guidance, recommending "individual-based decision-making" for mothers deciding whether their newborns should receive the hepatitis B vaccine within 24 hours of birth, rather than universally recommending the birth dose for all newborns.[13] Under the new framing, parents and health care providers are to weigh vaccine benefits, vaccine risks, and infection risks together, consulting on if and when a child begins the series; the agency said the change would not affect vaccine supply and that the vaccine would still be offered to interested mothers.[13] The agency's vaccine advisory committee voted for the recommendation earlier that month, uprooting more than three decades of standing CDC advice.[13]
+
+## Grant terminations to the American Academy of Pediatrics
+
+Three of the seven federal grants that the [[department-of-health-and-human-services|Department of Health and Human Services]] canceled for the [[american-academy-of-pediatrics|American Academy of Pediatrics]] in December 2025 had been issued by the CDC, with the other four coming from the Health Resources and Services Administration.[13] CDC Office of Grants Services Director Jamie Legier wrote that the projects' "identity-based language" elements "are not incidental; they are woven through the title, narrative and work plans," and no longer aligned with HHS and CDC priority areas.[13]
+
+## Release of hidden V-safe reports (2024)
+
+The CDC released previously hidden reports of facial paralysis and other adverse events following COVID-19 vaccination, comprising roughly 780,000 reports received shortly after the vaccines were rolled out and describing heart inflammation, miscarriages and seizures among other problems.[14] The reports had been lodged with [[v-safe]], the text-message system the agency created to monitor possible side effects.[14] For years the CDC declined to make the V-safe data public, instead publishing studies describing the reports as providing reassurance about vaccine safety, even though data released in 2022 showed nearly 8 percent of the system's 10 million users required medical attention or hospital care after vaccination.[14] U.S. District Judge [[matthew-kacsmaryk|Matthew Kacsmaryk]] ordered the agency in January 2024 to disclose the free-text entries, dismissing its claim that processing and redacting them would require too much work.[14]
+
 ## References
 
 1. Badlands Brief — "Virginia Democrats Lose the Plot and Go For Tyranny", URL: https://badlands.substack.com/p/badlands-brief-835
@@ -81,3 +93,5 @@ The writer argued that this suppression of truthful information had created a pu
 10. Badlands Brief — "It's Raining Red Pills ... And We Like It", URL: https://badlands.substack.com/p/badlands-news-brief-5ec
 11. Badlands Media — "Badlands News Brief: PsyActs, Leakers & Color Revolutions", URL: https://badlands.substack.com/p/badlands-news-brief-6e3
 12. Badlands Brief — "Israel Invades, MAGA Sues & Ports Close", URL: https://badlands.substack.com/p/badlands-news-brief-683
+13. Badlands Brief — "A Christmas Bonus, War “With” Venezuela, & Prime Time Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-cad
+14. Badlands Brief — "Badlands News Brief: Ukrai-NATO Spins Up as Wokeness Spirals", URL: https://badlands.substack.com/p/badlands-news-brief-d00

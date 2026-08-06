@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, oversight, republican-party, kentucky]
-sources: [raw/badlands-brief-144.md, raw/badlands-brief-1cd.md, raw/badlands-brief-314.md, raw/badlands-brief-6f4.md, raw/badlands-brief-e9e.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-9e7.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-ae3.md, raw/badlands-news-brief-b86.md]
+sources: [raw/badlands-brief-144.md, raw/badlands-brief-1cd.md, raw/badlands-brief-314.md, raw/badlands-brief-6f4.md, raw/badlands-brief-e9e.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-9e7.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-ae3.md, raw/badlands-news-brief-b86.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-c9d.md, raw/badlands-news-brief-d06.md]
 confidence: medium
 ---
 
@@ -117,6 +117,22 @@ In November 2023 Comer, as chairman of the [[house-oversight-committee|House Ove
 
 On December 4, 2023, Comer released subpoenaed bank records through a [[house-oversight-committee|House Oversight Committee]] video posted on Twitter showing that [[hunter-biden|Hunter Biden]]'s business entity [[owasco-pc|Owasco PC]] had made direct monthly payments to [[joe-biden|Joe Biden]], apparently beginning in September 2018.[23] "This wasn't a payment from Hunter Biden's personal account but an account for his corporation that received payments from China and other shady corners of the world," Comer said.[23] He argued the transfers were "part of a pattern revealing Joe Biden knew about, participated in and benefited from his family's influence peddling schemes."[23]
 
+## December 2023 letter on Hunter Biden's subpoena defiance
+
+On December 27, 2023, Representative James Comer, chairing the [[house-oversight-committee|House Oversight Committee]], joined [[jim-jordan|Jim Jordan]] in writing to [[white-house|White House]] counsel Edward Siskel to request documents and communications between Executive Office of the President staff and [[hunter-biden|Hunter Biden]] or his lawyers concerning his defied December 13 deposition, expanding the impeachment inquiry into President [[joe-biden|Joe Biden]].[24]
+
+## Clinton subpoena letter (November 2025)
+
+As chairman of the [[house-oversight-committee|House Oversight Committee]], Comer in November 2025 rejected an attempt by attorney [[david-kendall|David Kendall]] to block subpoenas compelling former President [[bill-clinton|Bill Clinton]] and former Secretary of State [[hillary-clinton|Hillary Clinton]] to testify in the panel's [[jeffrey-epstein|Epstein]]-[[ghislaine-maxwell|Maxwell]] investigation.[25] In a letter sent that Friday, Comer wrote that the Committee "disagrees" with the suggestion that limited written responses would be "the most efficient and equitable way to proceed," and noted that Kendall's request relied on assertions already "disproved by public information."[25] Closed-door depositions were set for December.[25]
+
+## NewsGuard investigation (June 2024)
+
+On Thursday, June 13, 2024, Comer, as chair of the [[house-oversight-committee|House Oversight Committee]], launched an investigation into the misinformation tracking company [[newsguard|NewsGuard]], citing concerns about "protected First Amendment speech" and "censorship campaigns."[26] In a statement announcing the probe he said that "questions now surround the influence of NewsGuard's business relationships and other influences on its ratings process."[26] Badlands contributor [[ashe-in-america|Ashe in America]] welcomed the scrutiny of the ratings firm but questioned the strategy of pursuing individual entities one at a time, noting that the [[department-of-justice|Department of Justice]] had simultaneously refused to act on the congressional contempt referral against Attorney General [[merrick-garland|Merrick Garland]].[26]
+
+## Wray bribery document standoff (June 2023)
+
+In June 2023, House Oversight Chairman Comer prevailed in a confrontation with FBI Director [[christopher-wray|Chris Wray]], who agreed on Friday, June 2 to turn over to Congress a document describing an alleged $5 million criminal bribery plot involving [[joe-biden|Joe Biden]].[27] Members were expected to review the document the following Monday.[27] Comer recounted to [[maria-bartiromo|Maria Bartiromo]] that Wray had told him he did not have the document until Comer informed him that he had already seen it.[27] Commentary in the [[badlands-news-brief|Badlands News Brief]] presented the reversal as evidence that the FBI had finally conceded the existence of bribery evidence after weeks of stonewalling, even as the media disputed its legal significance.[27]
+
 ## References
 
 1. Badlands Brief — "MLKKK Day, Peace Boards and Power Paradigms", URL: https://badlands.substack.com/p/badlands-brief-144
@@ -142,3 +158,7 @@ On December 4, 2023, Comer released subpoenaed bank records through a [[house-ov
 21. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
 22. Badlands Brief — "Badlands News Brief: Debates, Rallies ... and Deep State Implosions", URL: https://badlands.substack.com/p/badlands-news-brief-ae3
 23. Badlands Brief — "Badlands News Brief: Israel & Biden Backlash Mounts ... Deep State Panics", URL: https://badlands.substack.com/p/badlands-news-brief-b86
+24. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb
+25. Badlands News Brief — "Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f
+26. Badlands Brief — "Biden Wanders, Putin Ponders & Ukraine Launders", URL: https://badlands.substack.com/p/badlands-news-brief-c9d
+27. Badlands Brief — "Badlands News Brief: Hunter Hunted, Wray Relents & Wokeness Weakens", URL: https://badlands.substack.com/p/badlands-news-brief-d06

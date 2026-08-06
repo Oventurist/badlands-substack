@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [treasury, bessent, sanctions, venezuela, banking]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-169.md, raw/badlands-brief-577.md, raw/badlands-brief-6bf.md, raw/badlands-brief-6f4.md, raw/badlands-brief-959.md, raw/badlands-brief-b74.md, raw/badlands-brief-a1a.md, raw/badlands-brief-bdc.md, raw/badlands-brief-c07.md, raw/badlands-brief-da2.md, raw/badlands-brief-d17.md, raw/badlands-brief-e9a.md, raw/badlands-brief-f02.md, raw/badlands-brief-f62.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-a64.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-169.md, raw/badlands-brief-577.md, raw/badlands-brief-6bf.md, raw/badlands-brief-6f4.md, raw/badlands-brief-959.md, raw/badlands-brief-b74.md, raw/badlands-brief-a1a.md, raw/badlands-brief-bdc.md, raw/badlands-brief-c07.md, raw/badlands-brief-da2.md, raw/badlands-brief-d17.md, raw/badlands-brief-e9a.md, raw/badlands-brief-f02.md, raw/badlands-brief-f62.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-c14.md]
 confidence: medium
 ---
 
@@ -217,6 +217,15 @@ Bessent first floated the concept of a [[shadow-fed-chair|"shadow" Fed chair]] t
 
 Badlands commentator [[ashe-in-america|Ashe in America]] cited Bessent in May 2025 as the clearest exponent of the argument that tariffs are only one component of [[donald-trump|Donald Trump]]'s economic agenda, with the Treasury Secretary repeatedly explaining that the different levers of American profitability work in concert with one another.[42] She summarized his framing of Trump's economic reform program as a "three-legged stool": cut spending intentionally while avoiding a recession, deregulate to jump-start the private sector, and reorder international trade through tariffs and related measures to bring back manufacturing.[42] Bessent's underlying diagnosis was quoted directly: "The U.S. doesn't have a revenue problem—we have a spending problem."[42] The argument was invoked in the context of the [[2025-april-consumer-price-index-report|April 2025 Consumer Price Index report]], which showed inflation slowing to 2.3 percent despite the year's tariff increases.[42]
 
+
+## Position on tariffs and income tax (December 2025)
+
+As President [[donald-trump|Donald Trump]] predicted at a December 2, 2025 cabinet meeting that federal income tax would be abolished and replaced entirely by tariff revenue, Treasury Secretary Bessent did not go as far as the president in forecasting the total eradication of income taxes, but claimed that Trump's tariffs could deliver Americans "income tax relief."[43]
+
+## Geneva tariff talks with China (May 2025)
+
+Bessent led the US delegation at weekend talks in Geneva that produced the [[2025-us-china-geneva-tariff-agreement|May 2025 US–China tariff agreement]], a 90-day mutual reduction under which US tariffs on Chinese goods fell from 145% to 30% and Chinese duties on US imports fell from 125% to 10%.[44] At a news briefing after two days of talks, Bessent said the prior tariff levels would have amounted to a complete blockage of each side's goods, an outcome neither side wanted.[44] "The consensus from both delegations this weekend is neither side wants a decoupling," he said, describing the earlier posture as "the equivalent of an embargo" and adding, "We do want trade. We want more balanced trade. And I think that both sides are committed to achieving that."[44]
+
 ## References
 
 1. Badlands Brief — "Arctic Escalation and Tropic Trouble for the Financial System", URL: https://badlands.substack.com/p/badlands-brief-02a
@@ -261,3 +270,5 @@ Badlands commentator [[ashe-in-america|Ashe in America]] cited Bessent in May 20
 40. Badlands Brief — "Badlands News Brief: Rug Pulled Reputations, Insubordination, & the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-a65
 41. Badlands News Brief — "Shadow Feds, Activist Courts, & Lasting Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a69
 42. Badlands Brief — "Badlands News Brief: Black Hat Nightmares & A Camelback Caravan of Confirmation", URL: https://badlands.substack.com/p/badlands-news-brief-a64
+43. Badlands Brief — "Bogus Visas, Brazilian Sanctions, and Foreign Boat Battles", URL: https://badlands.substack.com/p/badlands-news-brief-bd7
+44. Badlands Brief — "Badlands News Brief: Overreach, Obstruction, & Our Boy Blue", URL: https://badlands.substack.com/p/badlands-news-brief-c14

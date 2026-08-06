@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [federal-agency, workforce, doge, government-reform]
-sources: [raw/badlands-brief-b24.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-7c9.md]
+sources: [raw/badlands-brief-b24.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-7c9.md, raw/badlands-news-brief-c4f.md]
 confidence: medium
 ---
 
@@ -32,9 +32,14 @@ In late February 2025, ahead of [[linda-mcmahon|Linda McMahon]]'s confirmation a
 
 On Tuesday, January 28, 2025, the White House issued a memo offering to pay federal workers who did not want to return to the office through September 30, provided they resigned by February 6, as part of the [[2025-federal-workforce-buyout-offer|2025 federal workforce buyout offer]].[4] OPM described the arrangement as administrative leave with pay and benefits, and a spokeswoman confirmed that agencies would receive implementation details later that day and would be able to carve out exemptions.[4] A senior administration official said the government-wide email was intended to ensure all federal workers were on board with the administration's return-to-office plan, noting that just 6 percent of federal employees worked full-time in office five years after COVID.[4]
 
+## Absorption of DOGE functions (November 2025)
+
+Asked about the status of the [[department-of-government-efficiency|Department of Government Efficiency]] in November 2025, OPM Director [[scott-kupor|Scott Kupor]] told [[reuters|Reuters]] that "that doesn't exist," adding that DOGE was no longer a "centralized entity" — the first public comments from the [[donald-trump|Trump]] administration on its end.[5] The OPM, the federal government's human resources office, had since taken over many of DOGE's functions, according to Kupor and documents reviewed by Reuters.[5] Badlands writer [[ashe-in-america|Ashe in America]] argued that residual central functions would move back to OPM — or possibly to the [[presidential-personnel-office|Presidential Personnel Office]] headed by [[dan-scavino|Dan Scavino]] — with efficiency metrics reported through the agencies themselves.[5]
+
 ## References
 
 1. Badlands Brief — "Diplomatic Trolling & Colombian Election Denial", URL: https://badlands.substack.com/p/badlands-brief-b24
 2. Badlands Brief — "Climbing Confidence, a Congolese Crisis, & Uncorroborated KGB Claims", URL: https://badlands.substack.com/p/badlands-news-brief-457
 3. Badlands Brief — "Badlands News Brief: “Terrifying” Trade Alliances, Pedagogue Payouts, & A Bondi Barn Burner", URL: https://badlands.substack.com/p/badlands-news-brief-7bb
 4. Badlands Brief — "Badlands News Brief: Opposition Intensifies. So Does Winning.", URL: https://badlands.substack.com/p/badlands-news-brief-7c9
+5. Badlands News Brief — "Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f

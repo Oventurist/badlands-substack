@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [constitution, presidency, donald-trump, jd-vance, term-limits]
-sources: [raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-71f.md]
+sources: [raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-c4f.md]
 confidence: medium
 ---
 
@@ -28,6 +28,11 @@ The obstacle is the 22nd Amendment, which states: "No person shall be elected to
 
 [[burning-bright|Burning Bright]] responded to the DW report on the question with the quip that "the only thing better than three scoops ... is four," urging readers not to dismiss Trump's "latest memetic deployment" about a fourth term and instead to consider it in light of [[devolution|Devolution]] theory.[2]
 
+## Term limits push and the Article V route (November 2025)
+
+A November 2025 item in the Badlands News Brief quoted an advocate working "with various groups to certify both term limits and a balanced budget requirement via state legislatures per [[article-v|Article V]] of the Constitution," noting that 28 states had certified the balanced budget amendment and 12 had certified term limits, with 34 required to propose an amendment and 38 to ratify.[3] Badlands commentator [[chris-paul|Chris Paul]] responded that once Florida acts, term limits "will be used to argue on behalf of the 22nd Amendment which must be dismantled," and grouped term limits with "the [[smith-mundt-act|Smith-Mundt Act]] stuff" as "non-solutions that sound like good solutions to people who don't understand the problems."[3]
+
 ## References
 1. Badlands Brief — "Myanmar's Mayhem, Musk's Marxists, & the Military's Secret Memo", URL: https://badlands.substack.com/p/badlands-news-brief-1c8
 2. Badlands Brief — "Badlands News Brief: Orange Friday, Election Action, & McKinsey's Gives Advice", URL: https://badlands.substack.com/p/badlands-news-brief-71f
+3. Badlands News Brief — "Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f

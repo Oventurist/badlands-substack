@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [dhs, immigration, border-security, trafficking, funding]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-165.md, raw/badlands-brief-323.md, raw/badlands-brief-4ec.md, raw/badlands-brief-52f.md, raw/badlands-brief-5a2.md, raw/badlands-brief-7bf.md, raw/badlands-brief-861.md, raw/badlands-brief-990.md, raw/badlands-brief-c07.md, raw/badlands-brief-e9e.md, raw/badlands-brief-e87.md, raw/badlands-brief-e3b.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-919.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-165.md, raw/badlands-brief-323.md, raw/badlands-brief-4ec.md, raw/badlands-brief-52f.md, raw/badlands-brief-5a2.md, raw/badlands-brief-7bf.md, raw/badlands-brief-861.md, raw/badlands-brief-990.md, raw/badlands-brief-c07.md, raw/badlands-brief-e9e.md, raw/badlands-brief-e87.md, raw/badlands-brief-e3b.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-919.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-c14.md]
 confidence: medium
 ---
 
@@ -141,6 +141,17 @@ On August 28, 2024, DHS Secretary [[alejandro-mayorkas|Alejandro Mayorkas]] anno
 
 Reporting published in April 2023 revealed that former top national security officials had testified to a federal grand jury that they repeatedly told President [[donald-trump|Donald Trump]] and his allies that the government lacked the authority to seize voting machines after the 2020 election.[23] Former acting Homeland Security secretary [[chad-wolf|Chad Wolf]] and his former deputy [[ken-cuccinelli|Ken Cuccinelli]] were questioned about internal administration discussions of DHS seizing voting machines, with Cuccinelli testifying that he "made clear at all times" that DHS had no such authority.[23] Badlands contributor [[just-human|Just Human]] agreed with the legal conclusion, noting that voting machines are the property of the states and localities where they sit and that federal seizure by executive fiat would be a dangerous precedent absent a judicial order.[23]
 
+
+## Minnesota visa fraud review and driver's license data settlement (December 2025)
+
+Secretary [[kristi-noem|Kristi Noem]] told a White House roundtable on December 3, 2025, that a departmental review had found 50 percent of the Minnesota visas examined to be fraudulent, and blamed Governor [[tim-walz|Tim Walz]] for allowing the scheme to proceed.[24]
+
+Separately, four Republican states — Florida, Indiana, Iowa and Ohio — agreed in a settlement filed on Friday, November 28, 2025, in a federal lawsuit to help the department gain access to state driver's license data through a nationwide law enforcement computer network, as part of the administration's hunt for alleged noncitizen voters.[24] The suit had originally been brought by the states against the administration of [[joe-biden|Joe Biden]] for allegedly not doing enough to help states verify voter eligibility.[24] Under the settlement the department must continue developing the citizenship verification program known as SAVE, which federal officials had earlier in the year repurposed into a system capable of scanning millions of state voter records for noncitizen registrations.[24] In return the states agreed to support the department's efforts to access the National Law Enforcement Telecommunications System, or Nlets, an obscure network that lets police look up out-of-state driving records.[24] Badlands contributor [[ashe-in-america|Ashe in America]] welcomed the settlement as bad news for [[david-becker|David Becker]] and called for the prosecution of ERIC states and their accomplices.[24]
+
+## California cash-benefits subpoenas (May 2025)
+
+On Monday, May 12, 2025, the department issued subpoenas to the government of California seeking records related to alleged disbursements of federal funds to illegal immigrants.[25] The subpoenas were filed by the Los Angeles office of Homeland Security Investigations, the investigative arm of [[immigration-and-customs-enforcement|ICE]], and targeted the state's [[cash-assistance-program-for-immigrants|Cash Assistance Program for Immigrants]].[25] Secretary [[kristi-noem|Kristi Noem]] said "radical left politicians in California prioritize illegal aliens over our own citizens" and that the administration was working to ensure people in the country illegally do not receive federal benefits, adding that although the subpoena focused only on Los Angeles County, "it is just the beginning."[25]
+
 ## References
 1. Badlands Brief — "Mixed Gender Crews, Trafficking Stings, & Shadow Cabal Reruns", URL: https://badlands.substack.com/p/badlands-brief-029
 2. Badlands Brief — "Trump Conducts the Chaos as the Uniparty Concentrates Fire", URL: https://badlands.substack.com/p/badlands-brief-165
@@ -165,3 +176,5 @@ Reporting published in April 2023 revealed that former top national security off
 21. Badlands News Brief — "Post Mortems, Dog Fights, & Flight Risks", URL: https://badlands.substack.com/p/badlands-news-brief-721
 22. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889
 23. Badlands Brief — "Badlands News Brief: Trials Galore, Ukraine Backpedal & The Gold Standard", URL: https://badlands.substack.com/p/badlands-news-brief-919
+24. Badlands Brief — "Bogus Visas, Brazilian Sanctions, and Foreign Boat Battles", URL: https://badlands.substack.com/p/badlands-news-brief-bd7
+25. Badlands Brief — "Badlands News Brief: Overreach, Obstruction, & Our Boy Blue", URL: https://badlands.substack.com/p/badlands-news-brief-c14

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence-community, dni, russiagate]
-sources: [raw/badlands-brief-195.md, raw/badlands-news-brief-754.md, raw/badlands-news-brief-7ad.md]
+sources: [raw/badlands-brief-195.md, raw/badlands-news-brief-754.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-cff.md]
 confidence: medium
 ---
 
@@ -26,7 +26,13 @@ Clapper, a former Director of National Intelligence, was a key signer of the [[o
 
 In June 2023, a signed letter from [[donald-trump|Donald Trump]] dated January 19, 2021 was published and reported as declassifying the [[crossfire-hurricane|Crossfire Hurricane]] documents, which [[the-gateway-pundit|The Gateway Pundit]] characterized as proving that Clapper, [[barack-obama|Barack Obama]], [[james-comey|James Comey]], [[john-brennan|John Brennan]], the [[fbi|FBI]], the [[cia|CIA]] and the [[state-department|State Department]] had spied on Trump while aware that the Trump–Russia collusion story was a hoax.[3]
 
+
+## Declassified December 2016 email to Mike Rogers
+
+On August 13, 2025, DNI [[tulsi-gabbard|Tulsi Gabbard]] declassified a Top Secret email showing Clapper's efforts to suppress concerns raised by then-[[national-security-agency|NSA]] Director [[mike-rogers|Mike Rogers]] about the January 2017 Intelligence Community Assessment.[4] On December 22, 2016, Rogers had written to Clapper, then-FBI Director [[james-comey|James Comey]] and then-CIA Director [[john-brennan|John Brennan]] expressing serious concerns over the NSA's lack of "sufficient access," warning that NSA personnel "aren't fully comfortable saying that they have had enough time to review all of the intelligence to be absolutely confident in their assessments."[4] Clapper replied, "We may have to compromise on our 'normal' modalities" and "more time is not negotiable."[4] His response came just hours before the ICA's authors were set to deliver the initial draft to Intelligence Community leaders.[4] Gabbard said Clapper's own words confirmed that complying with the order to manufacture intelligence was a "team sport."[4]
+
 ## References
 1. Badlands Brief — "Crypto Smears, Professional Plotlines, & Meat Probes", URL: https://badlands.substack.com/p/badlands-brief-195
 2. Badlands Brief — "Badlands News Brief: PsyOps and PsyActs EVERYWHERE ...", URL: https://badlands.substack.com/p/badlands-news-brief-754
 3. Badlands Brief — "The Wall Are Closing in Again! (And Other Stories)", URL: https://badlands.substack.com/p/badlands-news-brief-7ad
+4. Badlands Brief — "Letters of Credence, More Evidence of Treason, & Allegedly Super-Intelligent AI", URL: https://badlands.substack.com/p/badlands-news-brief-cff

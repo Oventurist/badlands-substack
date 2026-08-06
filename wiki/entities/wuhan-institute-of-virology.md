@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [covid-19, china, lab-leak, virology]
-sources: [raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-7b8.md]
+sources: [raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-cb9.md]
 confidence: medium
 ---
 
@@ -22,6 +22,11 @@ On Wednesday, February 12, 2025, Chinese Foreign Ministry spokesman [[guo-jiakun
 
 He stressed that China had stated many times that the Wuhan Institute of Virology had never engaged in gain-of-function studies of coronavirus and had never designed, made, or leaked COVID-19, and said it was extremely unlikely that the pandemic was caused by a lab leak — the authoritative conclusion, he said, of the [[world-health-organization|World Health Organization]]-China joint mission.[2] Writing in the [[badlands-news-brief|Badlands News Brief]], [[patrick-gunnels|Patrick Gunnels]] rejected both mainstream explanations, saying the [[lab-leak-theory|lab leak theory]] and the wet market theory were both made up.[2]
 
+## Subject of the 2023 declassification law
+
+The [[covid-19-origin-act-of-2023|COVID-19 Origin Act of 2023]], signed by [[joe-biden|Joe Biden]] on March 20, 2023, specifically directed the [[office-of-the-director-of-national-intelligence|Office of the Director of National Intelligence]] to declassify within 90 days all information on possible links between the Wuhan Institute of Virology and the origins of Covid-19; the institute has been a major center of coronavirus research.[3] The measure followed the Energy Department's low-confidence conclusion that the virus was likely the result of an accidental laboratory leak in China.[3] [[burning-bright|Burning Bright]] described the repeated shifting of official positions on the institute as "the clearest example yet of Overton's Goalpost," and argued that any disclosure would be a limited hangout given what was already public about [[anthony-fauci|Anthony Fauci]] and the [[national-institutes-of-health|NIH]].[3]
+
 ## References
 1. Badlands Brief — "Fauci Squirms, Pollsters Panic & Elections Erupt", URL: https://badlands.substack.com/p/badlands-news-brief-3e8
 2. Badlands Brief — "Badlands News Brief: MAHA, Modi, Musk, & Munich", URL: https://badlands.substack.com/p/badlands-news-brief-7b8
+3. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9

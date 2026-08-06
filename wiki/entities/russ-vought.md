@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [omb, budget, trump-administration, government-shutdown, federal-workforce]
-sources: [raw/badlands-news-brief-09b.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-b53.md, raw/badlands-news-brief-bd2.md]
+sources: [raw/badlands-news-brief-09b.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-b53.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-bfe.md, raw/badlands-news-brief-cb6.md, raw/badlands-news-brief-cf3.md]
 confidence: medium
 ---
 
@@ -47,6 +47,16 @@ In September 2025 Russ Vought, as Director of the [[office-of-management-and-bud
 
 Badlands contributor [[ashe-in-america|Ashe in America]] treated the relative disappearance of the federal "transformation program" from headlines as a positive sign, arguing that "Vought & Co" had been working behind the scenes to finalize permanent cuts and that a shutdown provided "the perfect vehicle to eliminate the next round of wasteful bureaucracy."[6] She predicted the layoffs would come in waves, as private-sector RIFs typically do, since the transformation was being "quarterbacked by private sector guys."[6]
 
+## December 2025 breakup of NCAR
+
+In December 2025 Vought announced that the [[national-science-foundation|National Science Foundation]] would be breaking up the [[national-center-for-atmospheric-research|National Center for Atmospheric Research]] (NCAR) in Boulder, Colorado, calling the facility "one of the largest sources of climate alarmism in the country" and saying a comprehensive review was underway, with any vital activities such as weather research to be moved to another entity or location.[7] Senate Democrats cited President [[donald-trump|Trump]]'s threat to dismantle NCAR as the reason they walked away from a five-bill spending package before the Christmas recess, keeping alive the threat of a government shutdown in late January.[7]
+
+## Acting director of the CFPB (February 2025)
+
+In February 2025 Vought served as acting director of the [[consumer-financial-protection-bureau|Consumer Financial Protection Bureau]] while simultaneously holding the post of OMB Director, and issued stop-work orders that brought the bureau to a virtual standstill.[8] Those orders prompted the 11 February 2025 resignations of supervision director [[lorelei-salas|Lorelei Salas]] and enforcement director [[eric-halperin|Eric Halperin]], both of whom had been placed on leave shortly beforehand by OMB general counsel [[mark-paoletta|Mark Paoletta]].[8] Salas wrote that she did not believe it was appropriate or lawful to stop all supervisory activities and examinations.[8]
+
+Under Vought's leadership the bureau moved to cancel more than $100 million in vendor contracts, with cybersecurity and internal management systems left off the list of "essential" contracts and therefore exposed to cuts, even as [[elon-musk|Elon Musk]]'s [[department-of-government-efficiency|Department of Government Efficiency]] combed the agency's finance and procurement data.[8] An OMB spokesperson said Vought was "wasting no time getting to the bottom of the waste, fraud, and lavish spending at this rogue and weaponized agency and in bringing it to heel."[8] Vought was also listed among the officials already confirmed in the second [[donald-trump|Trump]] administration as of February 2025, holding the position of OMB Director.[8]
+
 ## References
 1. Badlands Brief — "Russian Oil, Turkish Nukes, & American Indictments", URL: https://badlands.substack.com/p/badlands-news-brief-09b
 2. Badlands Brief — "Unprecedented Opportunities & Rich Men's Tricks", URL: https://badlands.substack.com/p/badlands-news-brief-357
@@ -54,3 +64,11 @@ Badlands contributor [[ashe-in-america|Ashe in America]] treated the relative di
 4. Badlands Brief — "Posse Comitatus & Haggling with Hamas", URL: https://badlands.substack.com/p/badlands-news-brief-94b
 5. Badlands Brief — "Hate Groups, Slush Funds, & Shut Downs", URL: https://badlands.substack.com/p/badlands-news-brief-b53
 6. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2
+7. Badlands Brief — "Badlands News Brief: Wanker War Hawks, Out-of-Work Wind Mills, & the Biggest, Fastest Battleships", URL: https://badlands.substack.com/p/badlands-news-brief-bfe
+8. Badlands Brief — "Badlands News Brief: Muslim Migrants, Mad Max, & Even More Money-Laundering", URL: https://badlands.substack.com/p/badlands-news-brief-cb6
+
+## Defunding the CFPB (February 2025)
+
+As Director of the Office of Management and Budget, Vought moved in February 2025 to crack down on the [[consumer-financial-protection-bureau|Consumer Financial Protection Bureau]], which reports said would be shut down for a week.[9] In a late-Saturday social media post he said he had notified the [[federal-reserve|Federal Reserve]] that the CFPB "will not be taking its next draw of unappropriated funding because it is not 'reasonably necessary' to carry out its duties," and argued that the bureau's $711.6 million balance was "excessive in the current fiscal environment."[9] He declared that "this spigot, long contributing to CFPB's unaccountability, is now being turned off," and, according to NBC News, emailed employees a set of directives for the bureau that would take effect instantly.[9]
+
+9. Badlands Brief — "Badlands News Brief: Soaring Eagles & Terminal USAIDs", URL: https://badlands.substack.com/p/badlands-news-brief-cf3

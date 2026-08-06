@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, switzerland, tax-evasion, clinton-foundation, teneo]
-sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-02a.md, raw/badlands-brief-314.md, raw/badlands-brief-9ac.md, raw/badlands-brief-eea.md, raw/badlands-news-brief-9e8.md]
+sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-02a.md, raw/badlands-brief-314.md, raw/badlands-brief-9ac.md, raw/badlands-brief-eea.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-bfb.md]
 confidence: medium
 ---
 
@@ -56,6 +56,10 @@ In August 2019 UBS received a grand jury subpoena for Maxwell's records and comp
 
 On March 19, 2023, UBS agreed to buy [[credit-suisse|Credit Suisse]] for more than $2 billion, in a price that escalated during negotiations from CHF 1 billion to CHF 2 billion and ultimately to CHF 3 billion (about US$3.25 billion), or 0.76 per share, with Credit Suisse shareholders receiving one UBS share for every 22.48 shares held.[6] The Swiss National Bank offered UBS 100 billion francs in liquidity assistance and the Swiss government granted a 9 billion-franc guarantee covering potential losses on assets UBS was taking over, an arrangement ZeroHedge described as a taxpayer-backed bailout.[6] The transaction came days after the failure of [[silicon-valley-bank|Silicon Valley Bank]] set off a cascade of banking-sector distress.[6]
 
+## Headcount reductions after absorbing Credit Suisse
+
+UBS's takeover of [[credit-suisse|Credit Suisse]] had already produced at least 13,000 fewer roles at the combined bank by the end of 2023, with further big redundancy rounds expected, contributing to [[2023-global-bank-job-cuts|the heaviest year of banking job cuts since the financial crisis]].[7]
+
 ## References
 1. Badlands Brief — "America for Sale - Part 2", URL: https://badlands.substack.com/p/america-for-sale-part-2
 2. Badlands Brief — "Arctic Escalation and Tropic Trouble for the Financial System", URL: https://badlands.substack.com/p/badlands-brief-02a
@@ -63,3 +67,4 @@ On March 19, 2023, UBS agreed to buy [[credit-suisse|Credit Suisse]] for more th
 4. Badlands Brief — "Nazi-Related Cover Ups & Formerly Secret Treason", URL: https://badlands.substack.com/p/badlands-brief-9ac
 5. Badlands Brief — "Epstein Fallout & Middle East Madness", URL: https://badlands.substack.com/p/badlands-brief-eea
 6. Badlands Brief — "Badlands News Brief: Trump Arrest ... Panic or No Panic?", URL: https://badlands.substack.com/p/badlands-news-brief-9e8
+7. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb

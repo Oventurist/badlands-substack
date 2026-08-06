@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [california, democrats, politics, media]
-sources: [raw/badlands-brief-285.md, raw/badlands-brief-6a1.md, raw/badlands-brief-7bf.md, raw/badlands-brief-884.md, raw/badlands-brief-774.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-50f.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b39.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-b83.md]
+sources: [raw/badlands-brief-285.md, raw/badlands-brief-6a1.md, raw/badlands-brief-7bf.md, raw/badlands-brief-884.md, raw/badlands-brief-774.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-50f.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b39.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-c4f.md]
 confidence: medium
 ---
 
@@ -163,6 +163,14 @@ In the September 2, 2024 Badlands News Brief, contributor Ashe in America accuse
 
 In June 2023, Newsom called for a new [[28th-amendment-proposal|28th Amendment]] to the U.S. Constitution aimed at curbing gun violence and protecting public safety, proposing stricter regulation of gun ownership that he argued would not infringe [[second-amendment|Second Amendment]] rights.[32] He emphasized the need for "common sense constitutional protections and gun safety measures" that he said enjoyed broad cross-party support, while Second Amendment advocates vowed to fight the effort.[32] Badlands writer [[johnny-q|Johnny Q]] characterized the proposal as a precursor to a 2028 presidential run and an eventual executive-ordered gun confiscation, arguing that California is already among the most gun-restrictive states yet suffers persistent gun crime driven by gangs and the illegal gun trade rather than licensed dealers.[32] Johnny Q predicted the amendment had no chance of passage and would be struck down in the courts, concluding its real function was to pander to the far left while pacifying moderates.[32]
 
+## Reaction to Trump's December 2025 primetime address
+
+The California governor was among the Democrats who ridiculed President [[donald-trump|Donald Trump]]'s primetime address of December 17, 2025, which critics characterized as "angry, desperate and defensive."[33] Newsom posted on X that the roughly 15-minute speech — in which Trump attacked his predecessor [[joe-biden|Joe Biden]] and boasted of his administration's accomplishments — "could have been an email."[33]
+
+## Federal tax withholding proposal
+
+In June 2025 Newsom floated the idea of having California stop paying federal taxes as a way of responding to the [[donald-trump|Trump]] administration's policies.[34] Incoming New Jersey Governor-elect [[mikie-sherrill|Mikie Sherrill]] later said she was considering the same step when she takes office in January, describing the concept as a "great idea" she thinks about "all the time."[34]
+
 ## References
 1. Badlands Brief — "Tuckabee Unites The Arab World As Mexico Courts Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-285
 2. Badlands Brief — "The G7 Laments the G2", URL: https://badlands.substack.com/p/badlands-brief-6a1
@@ -196,3 +204,5 @@ In June 2023, Newsom called for a new [[28th-amendment-proposal|28th Amendment]]
 30. Badlands Brief — "Biden Says Stuff as Nazis Circle in Ukraine", URL: https://badlands.substack.com/p/badlands-news-brief-b39
 31. Badlands Brief — "Badlands News Brief: The Free Speech Battlefield Heats Up", URL: https://badlands.substack.com/p/badlands-news-brief-b52
 32. Badlands Brief — "Trump Indicted ... AGAIN! ... & Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-b83
+33. Badlands Brief — "A Christmas Bonus, War “With” Venezuela, & Prime Time Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-cad
+34. Badlands News Brief — "Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f

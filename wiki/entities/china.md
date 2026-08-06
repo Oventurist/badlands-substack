@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [china, energy, oil, geopolitics, sovereign-alliance]
-sources: [raw/badlands-brief-414.md, raw/badlands-brief-5a2.md, raw/badlands-brief-884.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7e0.md]
+sources: [raw/badlands-brief-414.md, raw/badlands-brief-5a2.md, raw/badlands-brief-884.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-c14.md]
 confidence: medium
 ---
 
@@ -85,6 +85,12 @@ Since the 1990s China's gains had come mainly at the expense of Europe and Japan
 
 [[burning-bright|Burning Bright]] of [[badlands-media|Badlands Media]] read the news "bicamerally," arguing that the diversion of China's economic domination plan toward interior stability and job creation — rather than sustaining production for what he called the American Oligarchy — was simultaneously good for American nationalism and production and for Chinese nationalism and production, and a sign of rising sovereignty and future trade agreements.[11]
 
+## Geneva tariff truce (May 2025)
+
+On Monday, May 12, 2025, the United States and China agreed in Geneva to lower tariffs on each other's imports for 90 days, an attempt to cool an escalating trade war between the world's two biggest economies.[12] Under the [[2025-us-china-geneva-tariff-agreement|joint statement]], US tariffs on Chinese goods fell from 145% to 30% and Chinese duties on US imports fell from 125% to 10%, effective 14 May.[12] Treasury Secretary [[scott-bessent|Scott Bessent]] said neither delegation wanted a decoupling and that the prior levels amounted to "the equivalent of an embargo."[12] Chinese equities were upgraded to a "tactical overweight" by Nomura analysts even as Hong Kong's Hang Seng Index fell 1.74% and the mainland CSI 300 was flat.[12]
+
+Badlands commentary treated the episode skeptically, with [[chris-paul|Chris Paul]] arguing that "China isn't the enemy, the people in Geneva are," and noting the near-identical set of China-related deals Trump had secured in 2020 and 2025 — a trade deal, an agreement with [[xi-jinping|Xi]] to stop the fentanyl trade, and a plan for TikTok.[12]
+
 ## References
 1. Badlands Brief — "Narcissistic Sociopathy & Rebranded Sex Robots For Kids", URL: https://badlands.substack.com/p/badlands-brief-414
 2. Badlands Brief — "Tina Peters' Sentence Commuted; ISIS Killed in Africa", URL: https://badlands.substack.com/p/badlands-brief-5a2
@@ -97,3 +103,4 @@ Since the 1990s China's gains had come mainly at the expense of Europe and Japan
 9. Badlands Brief — "Badlands News Brief: Shutdowns, Shakedowns, & Two Sexes", URL: https://badlands.substack.com/p/badlands-news-brief-762
 10. Badlands Brief — "Brennan Decries Judge Shopping & JD Says It's Okay to Be White!", URL: https://badlands.substack.com/p/badlands-news-brief-795
 11. Badlands Brief — "Badlands News Brief: The Deep State Death Spiral Has Only Just Begun", URL: https://badlands.substack.com/p/badlands-news-brief-7e0
+12. Badlands Brief — "Badlands News Brief: Overreach, Obstruction, & Our Boy Blue", URL: https://badlands.substack.com/p/badlands-news-brief-c14

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [dhs, immigration, trump-administration, congress]
-sources: [raw/badlands-brief-165.md, raw/badlands-brief-4ec.md, raw/badlands-brief-7ed.md, raw/badlands-brief-9ea.md, raw/badlands-brief-990.md, raw/badlands-brief-a20.md, raw/badlands-brief-b74.md, raw/badlands-brief-d17.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-b63.md, raw/badlands-news-brief-bd7.md]
+sources: [raw/badlands-brief-165.md, raw/badlands-brief-4ec.md, raw/badlands-brief-7ed.md, raw/badlands-brief-9ea.md, raw/badlands-brief-990.md, raw/badlands-brief-a20.md, raw/badlands-brief-b74.md, raw/badlands-brief-d17.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-b63.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-c14.md, raw/badlands-news-brief-c9b.md, raw/badlands-news-brief-cf3.md]
 confidence: medium
 ---
 
@@ -114,6 +114,12 @@ In February 2025 Homeland Security Secretary Noem announced that the [[donald-tr
 
 Noem said FEMA had been funding the Roosevelt Hotel, which she described as serving as a [[tren-de-aragua|Tren de Aragua]] base of operations and as housing the killer of [[laken-riley|Laken Riley]] — a reference to [[jose-antonio-ibarra|Jose Antonio Ibarra]], an illegal alien from Venezuela found guilty in November of murdering the Georgia nursing student.[20] "Mark my words," she added, "there will not be a single penny spent that goes against the interest and safety of the American people."[20]
 
+## "Peace Through Strength" essay (June 2024)
+
+On June 18, 2024, Noem published an essay in *[[american-greatness|American Greatness]]* titled "Peace Through Strength: The Stark Contrast Between Trump and Biden," arguing that [[donald-trump|Donald Trump]]'s Reagan-tradition approach had been supplanted by [[joe-biden|Joe Biden]]'s "war through weakness, in the footsteps of Jimmy Carter."[24] She wrote that as the [[white-house|White House]] pressed Israel to accept a ceasefire that would allow [[hamas|Hamas]] to regroup, it was worth taking stock of the mess Biden had made of the Middle East compared with Trump's record.[24]
+
+Her indictment held that Trump kept Europe safe from Russia without risking nuclear war and kept Israel safe by keeping Iran in check, while on Biden's watch Russia invaded Ukraine, Hamas killed 1,200 Israelis and took 251 hostages including eight Americans, Iran attacked Israel with drones and missiles, and Iranian proxies regularly targeted U.S. forces and allies in the region.[24] She credited Trump with brokering the [[abraham-accords|Abraham Accords]] between Israel and the UAE, Bahrain, Morocco and Sudan, setting the region on a path toward peace, prosperity and integration.[24] Badlands writer [[burning-bright|Burning Bright]] noted that the piece appeared the same day [[robert-obrien|Robert C. O'Brien]] published a parallel [[peace-through-strength|peace through strength]] essay in *[[foreign-affairs|Foreign Affairs]]*, reading the pairing as coordinated narrative seeding.[24]
+
 ## References
 
 1. Badlands Brief — "Trump Conducts the Chaos as the Uniparty Concentrates Fire", URL: https://badlands.substack.com/p/badlands-brief-165
@@ -148,3 +154,18 @@ On Tuesday, June 17, 2025, Homeland Security Secretary Noem was transported by a
 At a roundtable meeting with President [[donald-trump|Donald Trump]] on Wednesday, December 3, 2025, Noem said that a review of Minnesota's visa programs had found that 50 percent of the visas examined were fraudulent.[22] "You told me to look into Minnesota and their fraud on visas and their programs: 50% of them are fraudulent, which means that that wacko Gov. (Tim) Walz either is an idiot or he did it on purpose — and I think he's both, sir," she said, referring to Governor [[tim-walz|Tim Walz]].[22] The remarks followed reporting that more than a billion dollars had been siphoned from Minnesota's COVID-era aid programs by Somali-linked fraud networks, with proceeds alleged to have reached [[al-shabaab|Al-Shabaab]].[22] Noem said her department and the governor had discussed the issue early on, but that Walz had sat on his hands and instead came after the whistleblowers who called out the fraud in Minneapolis.[22] Badlands contributor [[ashe-in-america|Ashe in America]] observed that naturalized citizens implicated in such schemes could face loss of citizenship, and said she was awaiting the results of parallel investigations elsewhere, including Colorado.[22]
 
 22. Badlands Brief — "Bogus Visas, Brazilian Sanctions, and Foreign Boat Battles", URL: https://badlands.substack.com/p/badlands-news-brief-bd7
+
+## California benefits subpoenas (May 2025)
+
+On Monday, May 12, 2025, the [[department-of-homeland-security|Department of Homeland Security]] under Noem issued subpoenas to the government of California seeking records related to alleged disbursements of federal funds to illegal immigrants, filed by the Los Angeles office of Homeland Security Investigations and targeting the state's [[cash-assistance-program-for-immigrants|Cash Assistance Program for Immigrants]].[23] Noem said in a statement that "radical left politicians in California prioritize illegal aliens over our own citizens, including by giving illegal aliens access to cash benefits," and that the administration was working to identify abuse and exploitation of public benefits.[23] She added: "If you are an illegal immigrant, you should leave now. The gravy train is over," noting that while the subpoena focused only on Los Angeles County, "it is just the beginning."[23]
+
+23. Badlands Brief — "Badlands News Brief: Overreach, Obstruction, & Our Boy Blue", URL: https://badlands.substack.com/p/badlands-news-brief-c14
+24. Badlands Brief — "Badlands News Brief: Korean Borders, Warmongers & Peacemakers", URL: https://badlands.substack.com/p/badlands-news-brief-c9b
+
+## FBI leak accusation over Los Angeles ICE raids (February 2025)
+
+In February 2025, Homeland Security Secretary Noem called the [[fbi|FBI]] "corrupt" and appeared to accuse the bureau of leaking plans for "large-scale" immigration enforcement operations in the Los Angeles area.[25] The Los Angeles Times had published an article stating that [[immigration-and-customs-enforcement|Immigration and Customs Enforcement]] would lead the operation, focusing on people without legal status or with pending orders of removal, based on an internal government document reviewed by the paper and reportedly circulated among officials the previous week.[25] The Times also reported that a federal law enforcement source, speaking anonymously for fear of reprisal, said Los Angeles FBI and Drug Enforcement Administration personnel were being called in to assist.[25]
+
+Sharing the article on X, Noem wrote: "The FBI is so corrupt. We will work with any and every agency to stop leaks and prosecute these crooked deep state agents to the fullest extent of the law."[25] ICE sources told Fox News they did not know where Noem obtained the information or what she was basing it on.[25] Badlands contributor [[ashe-in-america|Ashe in America]] used the episode to argue for the immediate confirmation of [[kash-patel|Kash Patel]] as FBI Director, noting the committee vote had slipped by a week to February 13 and warning that delay risked chaos, sabotage and even lives.[25]
+
+25. Badlands Brief — "Badlands News Brief: Soaring Eagles & Terminal USAIDs", URL: https://badlands.substack.com/p/badlands-news-brief-cf3

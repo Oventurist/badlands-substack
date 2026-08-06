@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fbi, law-enforcement, media, transparency]
-sources: [raw/badlands-brief-50d.md, raw/badlands-brief-d9f.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-652.md, raw/badlands-news-brief-7e5.md, raw/badlands-news-brief-95a.md]
+sources: [raw/badlands-brief-50d.md, raw/badlands-brief-d9f.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-652.md, raw/badlands-news-brief-7e5.md, raw/badlands-news-brief-95a.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-c93.md]
 confidence: medium
 ---
 
@@ -50,8 +50,19 @@ Bongino framed the action within a wider anti-corruption posture, stating that "
 
 In July 2025 the [[department-of-justice|Justice Department]] and the [[fbi|FBI]] concluded in a two-page memo obtained by Axios that there was no evidence [[jeffrey-epstein|Jeffrey Epstein]] had blackmailed powerful figures, kept a "client list," or been murdered.[7] The findings placed Bongino in an awkward position: as a social-media influencer and commentator before his appointment, he had been among the prominent MAGA-aligned voices questioning the official account of Epstein's death, as had FBI Director [[kash-patel|Kash Patel]].[7] Both men subsequently stated that Epstein committed suicide.[7] Badlands contributor [[jon-herold|Jon Herold]] noted that he and [[chris-paul|Chris Paul]] had warned of an "Epstein Rugpull" on their show exactly one month before the memo surfaced.[7]
 
-## References
+## Departure from the FBI, December 2025
 
+Bongino confirmed in mid-December 2025 that he would leave his position as [[fbi|FBI]] Deputy Director in January, announcing it on X after reports surfaced that he had begun clearing out his office and saying goodbye to colleagues.[8] "I will be leaving my position with the FBI in January," he wrote, thanking President [[donald-trump|Donald Trump]], Attorney General [[pam-bondi|Pam Bondi]], and Director [[kash-patel|Kash Patel]] "for the opportunity to serve with purpose," and adding, "Most importantly, I want to thank you, my fellow Americans, for the privilege to serve you. God bless America, and all those who defend Her."[8]
+
+Trump acknowledged the decision and praised his performance: "Dan did a great job. I think he wants to go back to his show."[8] Badlands contributor [[ashe-in-america|Ashe in America]] observed that Bongino had spent months or years devoting his podcast to exposing what he called the treasonous conspiracy, entered the administration after Trump's 2024 win to clean up the corruption, and was now returning to media — asking what that was about and whether Patel would be next.[8]
+
+## Departure from the FBI (December 2025)
+
+Bongino announced on Wednesday, December 17, 2025 that he would leave his role as deputy director of the [[fbi|Federal Bureau of Investigation]] the following month.[9] He had been recruited out of conservative media by [[kash-patel|Kash Patel]] to serve as his second-in-command, a move that abruptly ended The Dan Bongino Show, hosted by Westwood One.[9] Bongino had built national acclaim as a pugilistic conservative media personality after several failed runs for elected office, appearing as a Fox News contributor before hosting his eponymous radio show and podcast.[9] President [[donald-trump|Donald Trump]] hinted at an imminent return to his old life, telling reporters "Dan did a great job" and "I think he wants to go back to his show."[9]
+
+Badlands contributor [[burning-bright|Burning Bright]] used the departure to ask whether Trump was attempting to preserve federal power or rein it in, citing Trump's stated 2025 theme of dismantling the [[administrative-state|administrative state]] and returning power to the people.[9]
+
+## References
 1. Badlands Brief — "Alternative Annexations & New(ish) Regime Change", URL: https://badlands.substack.com/p/badlands-brief-50d
 2. Badlands Brief — "Dueling Color Revolutions, Economic Escalation, & Superseding Somali Scams", URL: https://badlands.substack.com/p/badlands-brief-d9f
 3. Badlands News Brief — "Pirated Pardons & Delayed Declassifications", URL: https://badlands.substack.com/p/badlands-news-brief-298
@@ -59,3 +70,5 @@ In July 2025 the [[department-of-justice|Justice Department]] and the [[fbi|FBI]
 5. Badlands Brief — "Badlands News Brief: Cocaine & Climate Change", URL: https://badlands.substack.com/p/badlands-news-brief-652
 6. Badlands Brief — "Badlands News Brief: Cartel Cybersnoops & Teenage Spider Hackers", URL: https://badlands.substack.com/p/badlands-news-brief-7e5
 7. Badlands Brief — "Kingmakers, Rainmakers, & Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-95a
+8. Badlands Brief — "A Christmas Bonus, War “With” Venezuela, & Prime Time Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-cad
+9. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93

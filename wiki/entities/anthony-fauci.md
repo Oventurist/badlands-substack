@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [covid, biolabs, public-health, censorship]
-sources: [raw/a-virus-or-a-metaphor.md, raw/anthony-fauci.md, raw/badlands-brief-414.md, raw/badlands-brief-67a.md, raw/badlands-brief-be1.md, raw/badlands-brief-d94.md, raw/badlands-brief-da2.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-238.md, raw/badlands-news-brief-276.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-8f0.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-b6c.md, raw/badlands-news-brief-bad.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/anthony-fauci.md, raw/badlands-brief-414.md, raw/badlands-brief-67a.md, raw/badlands-brief-be1.md, raw/badlands-brief-d94.md, raw/badlands-brief-da2.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-238.md, raw/badlands-news-brief-276.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-8f0.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-b6c.md, raw/badlands-news-brief-bad.md, raw/badlands-news-brief-c9b.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-d32.md]
 confidence: low
 ---
 
@@ -166,6 +166,22 @@ On April 24, 2024, Subcommittee Chair [[brad-wenstrup|Brad Wenstrup]] (R-Ohio) a
 
 Fauci had already testified in a closed-door, two-day hearing in January 2024, in which, according to Wenstrup, he admitted to serious systemic failures in the public health system that deserved further investigation.[23] Among the revelations cited were Fauci's statement that the six-feet social distancing guidance used to shut down small businesses across the country "sort of just appeared" and was likely not based on scientific data; his acknowledgment that he signed off on every foreign and domestic NIAID grant without personally reviewing the proposals; and his admission that the vaccine mandates he promoted could increase public vaccine hesitancy in the future.[23]
 
+## "On Call" memoir (June 2024)
+
+Fauci published an autobiography, *On Call: A Doctor's Journey in Public Service*, on Tuesday, June 18, 2024, detailing his fraught relationship with former President [[donald-trump|Donald Trump]].[24] The book chronicles his decades as director of the National Institute of Allergy and Infectious Diseases and his service as [[joe-biden|President Biden]]'s chief medical adviser, along with his early childhood in Brooklyn.[24] Seventy of the book's more than 400 pages are devoted to the first year of the COVID pandemic, when Trump was in office, according to *The New York Times*.[24] A chapter titled "He Loves Me, He Loves Me Not" recounts mixed messaging from Trump; reviewers said the fallout it describes was not new information but added nuance to their interactions.[24] Axios noted that Fauci was one of several former Trump-administration officials to publish tell-all books, with the release timed as Trump sought a second term.[24]
+
+## AFL suit over HCQ and ivermectin records (December 2023)
+
+A December 2023 lawsuit by [[america-first-legal|America First Legal]] against the [[food-and-drug-administration|FDA]] and the [[department-of-health-and-human-services|Department of Health and Human Services]] sought records to determine when and why government officials — Fauci, then director of the National Institute of Allergy and Infectious Diseases, foremost among them — discouraged and suppressed the use of [[hydroxychloroquine|hydroxychloroquine]] and [[ivermectin|ivermectin]] to treat COVID-19.[25] AFL had filed [[freedom-of-information-act|FOIA]] requests in August and September 2022 that both agencies acknowledged but did not fulfill.[25]
+
+## Badlands commentary on the 2023 origins declassification
+
+Commenting on [[joe-biden|Joe Biden]]'s March 2023 signing of the [[covid-19-origin-act-of-2023|COVID-19 Origin Act]], [[burning-bright|Burning Bright]] argued that any limited hangout on Covid origins would prove ineffective because "the cat's out of the bag" regarding Fauci and the [[national-institutes-of-health|NIH]].[26]
+
+## Badlands commentary on the 2023 origins declassification
+
+Commenting on [[joe-biden|Joe Biden]]'s March 2023 signing of the [[covid-19-origin-act-of-2023|COVID-19 Origin Act]], [[burning-bright|Burning Bright]] argued that any limited hangout on Covid origins would prove ineffective because "the cat's out of the bag" regarding Fauci and the [[national-institutes-of-health|NIH]].[26]
+
 ## References
 
 
@@ -191,3 +207,6 @@ Fauci had already testified in a closed-door, two-day hearing in January 2024, i
 21. Badlands News Brief — "Trump on Wuhan, Flynn Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-af7
 22. Badlands Brief — "Manhatt-Insanity, Biden Gorillas & Muskian Moves", URL: https://badlands.substack.com/p/badlands-news-brief-b6c
 23. Badlands Brief — "Badlands News Brief: Trump Immunity, FED Panic & #MeToo Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-bad
+24. Badlands Brief — "Badlands News Brief: Korean Borders, Warmongers & Peacemakers", URL: https://badlands.substack.com/p/badlands-news-brief-c9b
+25. Badlands Brief — "Badlands News Brief: The System of Systems is a House of Cards", URL: https://badlands.substack.com/p/badlands-news-brief-cce
+26. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack

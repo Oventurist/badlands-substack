@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [q, movement, information-war]
-sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/a-virus-or-a-metaphor.md, raw/are-jack-smith-and-fani-willis-in.md, raw/arabian-nights.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-351.md]
+sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/a-virus-or-a-metaphor.md, raw/are-jack-smith-and-fani-willis-in.md, raw/arabian-nights.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-c5c.md]
 confidence: medium
 ---
 
@@ -46,6 +46,12 @@ Badlands writer [[burning-bright|Burning Bright]] argued in February 2026 that s
 
 During the January 15, 2025 Senate Judiciary Committee hearing for attorney general nominee [[pam-bondi|Pam Bondi]], ranking member [[dick-durbin|Dick Durbin]] raised FBI director nominee [[kash-patel|Kash Patel]]'s past commentary about QAnon conspiracy theories, making the label a line of attack against a nominee who was not even in the witness chair.[6] Badlands commentary noted that the committee was "terribly concerned about Kash Patel and 'QAnon'" and treated the framing as a Democratic messaging device rather than substantive oversight.[6]
 
+## Convergence with Sound of Freedom (2023)
+
+In July 2023 [[bloomberg|Bloomberg]] published an opinion column headlined "QAnon and 'Sound of Freedom' Both Rely on Tired Hollywood Tropes," which described QAnon as a pro-Trump conspiracy cult and argued that the conspiratorial right and Hollywood's default storytelling conventions are not meaningfully different — a similarity the author said helped explain why the polity had difficulty rejecting QAnon, [[donald-trump|Donald Trump]] and fascism.[7] The column observed that Trump planned to screen [[sound-of-freedom|Sound of Freedom]] at his New Jersey golf club, that the film had been embraced by the far right and by Christians, and that it had passed $50 million at the United States box office.[7] It attributed the controversy to QAnon links claimed for [[tim-ballard|Tim Ballard]], the former Homeland Security operative the film depicts, and [[jim-caviezel|Jim Caviezel]], who plays him — Ballard for promoting the Wayfair child-trafficking claim, and Caviezel for speaking at multiple QAnon events and for telling [[steve-bannon|Steve Bannon]] that traffickers drain victims' blood to make an anti-ageing serum.[7]
+
+[[burning-bright|Burning Bright]] of [[badlands-media|Badlands Media]] read the episode as a Streisand effect.[7] He argued that the earlier weaponisation against Q had been partially successful in making the operation radioactive to ordinary observers, but that attacking Sound of Freedom and child-trafficking exposure was instead producing a convergence between the film and Q that caused many people to reevaluate what "those kooky Anons" had been saying for seven years.[7]
+
 ## References
 1. Badlands Brief — "A Hypnotist's Take on Israel, Palestine, and Q", URL: https://badlands.substack.com/p/a-hypnotists-take-on-israel-palestine
 2. Badlands Brief — "A Virus, or a Metaphor?", URL: https://badlands.substack.com/p/a-virus-or-a-metaphor
@@ -53,3 +59,4 @@ During the January 15, 2025 Senate Judiciary Committee hearing for attorney gene
 4. Badlands Brief — "Arabian Nights", URL: https://badlands.substack.com/p/arabian-nights
 5. Badlands Brief — "Bessent's Bounty Hunters and Olympic Phallacies", URL: https://badlands.substack.com/p/badlands-brief-e9a
 6. Badlands News Brief — "Mid-Transition “QAnon” Claims & A Not Quite Final Farewell", URL: https://badlands.substack.com/p/badlands-news-brief-351
+7. Badlands Brief — "Hollywood Crumbles While the Uniparty Is Exposed", URL: https://badlands.substack.com/p/badlands-news-brief-c5c

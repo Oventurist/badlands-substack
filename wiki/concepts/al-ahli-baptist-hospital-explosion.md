@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [gaza, israel, hamas, media, protests]
-sources: [raw/badlands-news-brief-28e.md]
+sources: [raw/badlands-news-brief-28e.md, raw/badlands-news-brief-c07.md]
 confidence: medium
 ---
 
@@ -30,5 +30,14 @@ The explosion collapsed the diplomatic portion of President [[joe-biden|Joe Bide
 
 [[burning-bright|Burning Bright]] argued that the episode had placed Biden in a [[kobayashi-maru|Kobayashi Maru]] — a no-win scenario — with respect to both the actual Israel crisis and its narrative dimension, boxing him in before he had even arrived in Israel and creating pressure to join the chorus of international condemnation of an ally.[1]
 
+## Congressional demands for declassification
+
+During his Tel Aviv visit on Wednesday, October 18, 2023, President [[joe-biden|Joe Biden]] was pressed by reporters as to what convinced him to side with Israel's denial that it had struck the hospital, an explosion that local health officials said killed up to 200–300 people; Biden replied that data from his Defense Department showed the blast was unlikely to have been an Israeli airstrike.[2] Lawmakers were not satisfied, and a group of progressive Democrats in Congress began pushing the White House to publicly declassify the intelligence the United States held on the bombing.[2]
+
+According to Haaretz, administration officials provided senators with a classified briefing on that Wednesday, shortly after the ranking bipartisan members of both the House and Senate Intelligence Committees said they had reviewed the information and reached the same conclusion.[2] Thirteen Democrats brought a two-page resolution that additionally pressed Biden to "immediately call for and facilitate de-escalation and a ceasefire to urgently end the current violence" and to "promptly send and facilitate the entry of humanitarian assistance into Gaza."[2] The push followed the United States' vote against a [[united-nations-security-council|UN Security Council]] resolution that week calling for a humanitarian ceasefire.[2]
+
+The drive was sparked in large part by angry Democratic progressives who had been vocal supporters of the Palestinian cause, and the calls grew louder amid tensions within the Democratic Party over Representative [[rashida-tlaib|Rashida Tlaib]]'s repeated allegation that Israel was responsible, even after Biden indicated that an [[palestinian-islamic-jihad|Islamic Jihad]] rocket launch had caused the blast.[2] [[ashe-in-america|Ashe in America]] wrote that even the progressives did not trust Biden's word, agreed that the intelligence should be declassified if the public was expected to believe the claims, and urged that information also be released on the story of 40 beheaded babies that Biden had claimed to have seen, concluding that "truth matters, even — especially — in times of war."[2]
+
 ## References
 1. Badlands News Brief — "The Week of Rage Continues ... Biden to the Rescue?", URL: https://badlands.substack.com/p/badlands-news-brief-28e
+2. Badlands Brief — "Badlands News Brief: Proxy Presidents & Proxy Wars", URL: https://badlands.substack.com/p/badlands-news-brief-c07

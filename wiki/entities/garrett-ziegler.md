@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [hunter-biden-laptop, marco-polo, litigation, trump-administration]
-sources: [raw/badlands-news-brief-83d.md]
+sources: [raw/badlands-news-brief-83d.md, raw/badlands-news-brief-d06.md]
 confidence: medium
 ---
 
@@ -22,5 +22,10 @@ Ziegler responded to CBS News that neither he nor Marco Polo had been served, an
 
 The material Ziegler published derives from the [[hunter-biden-laptop|Hunter Biden laptop]], the same device that fifty-one former intelligence officials characterized as having "all the classic earmarks of a Russian information operation," and which Antony Blinken — then a senior Biden campaign official — was reported to have played a central role in discrediting after the New York Post's reporting.[1] Badlands coverage frames the laptop as containing evidence relevant to the Biden family's business dealings alongside private photographs, emails and text messages.[1]
 
+## BidenLaptopMedia.com launch (2023)
+
+In mid-2023 Ziegler launched [[bidenlaptopmedia-com|BidenLaptopMedia.com]], an organized website hosting nearly 10,000 photographs and documents from Hunter Biden's abandoned laptop, which was intermittently unavailable after launch because of heavy traffic.[2] Ziegler, described in coverage as a former Trump White House aide who had worked under economic adviser [[peter-navarro|Peter Navarro]], said the site took a couple of months to assemble, most of it spent reviewing about 10,000 photos and redacting genitalia.[2] He said the project's chief aim was "truth and transparency," that the American people would get to see what the first family is like, and that photos favorable to the Bidens would not be excluded.[2] The archive also linked to emails, suspicious activity reports, influence-peddling material and a transcribed diary attributed to [[ashley-biden|Ashley Biden]].[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Kabuki Congress & Closing Walls", URL: https://badlands.substack.com/p/badlands-news-brief-83d
+2. Badlands Brief — "Badlands News Brief: Hunter Hunted, Wray Relents & Wokeness Weakens", URL: https://badlands.substack.com/p/badlands-news-brief-d06

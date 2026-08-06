@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, intelligence, counterintelligence, ukraine-war, sabotage]
-sources: [raw/badlands-brief-f83.md]
+sources: [raw/badlands-brief-f83.md, raw/badlands-news-brief-d1c.md]
 confidence: medium
 ---
 
@@ -22,5 +22,12 @@ Russian officials accused Ukrainian intelligence services of organizing the smug
 
 Badlands contributor GhostofBasedPatrickHenry compared the scheme to Israel's earlier weaponization of consumer electronics against Hezbollah, arguing that the parallel raises the question of Israeli involvement in the insole campaign, and framing the wars in Eastern Europe and the Middle East as two expressions of a single conflict.[1] The commentary closed by asking what [[vladimir-putin|Vladimir Putin]] is prepared to do to protect the Middle East from what it called the Greater Israel Project.[1]
 
+## Claims of Ukrainian recruitment of elderly Russians (2025)
+
+In August 2025 the FSB said that Ukraine's security and intelligence agencies were using Russian citizens, including elderly women, to carry out suicide missions, claiming that at least five people had been targeted in recent plots.[2] According to the agency, Kiev used fraud schemes and psychological pressure to recruit the women through Telegram and WhatsApp while posing as Russian law enforcement officials, and the scammers stole the women's personal funds, including bank savings and proceeds from property sales.[2] Under the pretext of recovering these assets, the women were allegedly tasked with monitoring the homes and vehicles of Russian military personnel, storing improvised explosive devices from hidden caches, and delivering the devices disguised as household items to service members, with the ultimate plan of using them as "human bombs."[2]
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] attributed the alleged campaign to the U.S. [[state-department|State Department]], arguing that its sponsorship of such operations discredited domestic critics of political rhetoric such as [[jonathan-greenblatt|Jonathan Greenblatt]] of the [[anti-defamation-league|ADL]] and [[jules-kroll|Jules Kroll]] of [[newsguard|NewsGuard]], and taking a parting shot at commentator [[mark-levin|Mark Levin]].[2]
+
 ## References
 1. Badlands Brief — "A Mostly Peaceful War Continues to Escalate Toward De-Escalation", URL: https://badlands.substack.com/p/badlands-brief-f83
+2. Badlands Brief — "Badlands News Brief: New Whistleblowers, Cartel Hitlists, & Extended Tariffs", URL: https://badlands.substack.com/p/badlands-news-brief-d1c

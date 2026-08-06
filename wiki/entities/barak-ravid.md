@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [journalism, israel, middle-east]
-sources: [raw/badlands-brief-6b4.md, raw/badlands-brief-708.md, raw/badlands-brief-774.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-8ae.md]
+sources: [raw/badlands-brief-6b4.md, raw/badlands-brief-708.md, raw/badlands-brief-774.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-ce5.md]
 confidence: low
 ---
 
@@ -54,3 +54,9 @@ In July 2024, Ravid reported for Axios that Netanyahu's years-long effort to men
 4. Badlands Brief — "Badlands News Brief: Intelligence Narratives & Seemingly Impossible Deals", URL: https://badlands.substack.com/p/badlands-news-brief-222
 5. Badlands Brief — "Badlands News Brief: The Machine Grows Desperate as Threats to Trump Increase", URL: https://badlands.substack.com/p/badlands-news-brief-55f
 6. Badlands Media — "Badlands News Brief: Vance Takes the Stage as Biden Takes the Basement", URL: https://badlands.substack.com/p/badlands-news-brief-8ae
+
+## Reporting on the Glezmann release (March 2025)
+
+Ravid confirmed the involvement of Trump hostage envoy [[adam-boehler|Adam Boehler]] in the negotiations that led to the [[taliban|Taliban]]'s release of American detainee [[george-glezmann|George Glezmann]] in March 2025.[7] His confirmation was cited in Badlands commentary arguing that mainstream coverage had understated Boehler's role in the episode.[7]
+
+7. Badlands Brief — "Badlands News Brief: Calibrating Education, Recalculating Commands, & Countering Currency Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-ce5

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, funding, ukraine, neoconservatism]
-sources: [raw/a-bright-red-line.md, raw/america-for-sale-part-3.md, raw/badlands-blitz-episode-15.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-7c6.md]
+sources: [raw/a-bright-red-line.md, raw/america-for-sale-part-3.md, raw/badlands-blitz-episode-15.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-cb9.md]
 confidence: low
 ---
 
@@ -34,9 +34,18 @@ The joint Grassley–[[ron-johnson|Johnson]] report alleged that prosecutors byp
 
 The roughly 1,050-page bill passed in March 2024 to avert a government shutdown — authorizing about $1.7 trillion in discretionary spending — contained a provision selling off and shuttering the [[northeast-gasoline-supply-reserve|Northeast Gasoline Supply Reserve]], which [[zerohedge|ZeroHedge]] characterized as a pork-filled free-for-all concealing a measure that would leave the continental Northeast defenseless against a supply shock.[5] In May 2024, two Republican congressmen introduced the [[protecting-americans-in-the-idf-act|Protecting Americans in the IDF Act]], prompting Badlands commentary that Congress 'seems more loyal to foreign nations than to Americans.'[5]
 
+## March 2023: Covid origins and deposit insurance
+
+The House and Senate unanimously passed the [[covid-19-origin-act-of-2023|COVID-19 Origin Act of 2023]] in March 2023, requiring the [[office-of-the-director-of-national-intelligence|Office of the Director of National Intelligence]] to declassify information on possible links between a Chinese laboratory and the origins of Covid-19; President [[joe-biden|Joe Biden]] signed it on March 20.[6] In the same period, Bloomberg reported that [[us-department-of-the-treasury|Treasury Department]] staff were examining whether regulators could temporarily insure all bank deposits above the $250,000 cap without formal consent from a Congress described as deeply divided.[6]
+
+## March 2023: Covid origins and deposit insurance
+
+The House and Senate unanimously passed the [[covid-19-origin-act-of-2023|COVID-19 Origin Act of 2023]] in March 2023, requiring the [[office-of-the-director-of-national-intelligence|Office of the Director of National Intelligence]] to declassify information on possible links between a Chinese laboratory and the origins of Covid-19; President [[joe-biden|Joe Biden]] signed it on March 20.[6] In the same period, Bloomberg reported that [[us-department-of-the-treasury|Treasury Department]] staff were examining whether regulators could temporarily insure all bank deposits above the $250,000 cap without formal consent from a Congress described as deeply divided.[6]
+
 ## References
 1. Badlands Brief — "A Bright Red Line", URL: https://badlands.substack.com/p/a-bright-red-line
 2. Badlands Brief — "America for Sale - Part 3", URL: https://badlands.substack.com/p/america-for-sale-part-3
 3. Badlands Brief — "Badlands Blitz Episode 15", URL: https://badlands.substack.com/p/badlands-blitz-episode-15
 4. Badlands Brief — "TACO Tuesday Returns as the War of Stories Gets Weird", URL: https://badlands.substack.com/p/badlands-brief-c7b
 5. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
+6. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9

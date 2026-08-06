@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [canada, trade, globalism, tariffs, north-america]
-sources: [raw/badlands-brief-a84.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-ae1.md]
+sources: [raw/badlands-brief-a84.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-cf8.md]
 confidence: medium
 ---
 
@@ -39,8 +39,15 @@ Prime Minister [[mark-carney|Mark Carney]] used his address to the January 2026 
 Badlands commentary was sharply critical of the Canadian posture. [[ashe-in-america|Ashe in America]] recalled [[donald-trump|Donald Trump]]'s December Truth Social post asking why the United States subsidizes Canada "to the tune of over $100,000,000 a year" and suggesting many Canadians want to become the 51st state to save on taxes and military protection, argued that Canadian ideology is incompatible with American liberty — "collectivist elitists with a monarch on their money" who align more with Europe — and contended that removing subsidies would force change and leave Canadians to decide whether they want to be a real nation, while allowing that the trucker-protest constituency would make suitable countrymen.[3] [[burning-bright|Burning Bright]] wrote that Canadians have always fancied themselves Rivendell elves superior to mortal American men but are in reality more like hobbits, warning that "if the globalists win, there won't be a Canada."[3] An editor's note recorded that Burning Bright was joined on The Narrative by [[matthew-ehret|Matthew Ehret]] to discuss the history of Canada and the argument that it has never been a real country.[3]
 
 
+## Termination of trade talks over the Reagan ad (October 2025)
+
+On Thursday night, October 23, 2025, President [[donald-trump|Donald Trump]] said he was terminating all trade negotiations with Canada because the [[ontario|Ontario]] provincial government had aired an [[ontario-reagan-tariff-advertisement|advertisement]] featuring former President [[ronald-reagan|Ronald Reagan]] speaking negatively about tariffs.[4] Trump's announcement accused Canada of trying to influence a pending U.S. Supreme Court case that could doom many of his tariffs, including those on Canada.[4] The Ronald Reagan Presidential Foundation and Institute said the ad misrepresented a presidential radio address Reagan delivered in April 1987 and that his remarks had been edited without permission, without specifying what was misleading.[4]
+
+Ontario Premier [[doug-ford|Doug Ford]] had said the province would spend $75 million on ads running in the United States featuring Reagan criticizing tariffs.[4] Badlands contributor [[ashe-in-america|Ashe in America]] characterized the campaign as Canadian information warfare intended to manipulate American courts and turn Americans against Trump, describing the tariffs as a corrective measure for a trade imbalance.[4]
+
 ## References
 
 1. Badlands Brief — "You're Silly, and You Smell Like Syrup", URL: https://badlands.substack.com/p/badlands-brief-a84
 2. Badlands Brief — "Davos Elites Prepare ... for TRUMP-A-MANIA!", URL: https://badlands.substack.com/p/badlands-brief-f02
 3. Badlands News Brief — "Defiant Deportations & Canadian Freeloaders", URL: https://badlands.substack.com/p/badlands-news-brief-ae1
+4. Badlands Brief — "Badlands News Brief: B-Ball Bets, Bomber Busts, & 'Bipartisan' Bill Blockage", URL: https://badlands.substack.com/p/badlands-news-brief-cf8

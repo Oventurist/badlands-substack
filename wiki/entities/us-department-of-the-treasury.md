@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [treasury, ofac, sanctions, terrorism-designation]
-sources: [raw/a-conflict-of-interest.md, raw/a-seismic-shift.md, raw/badlands-brief-2c5.md, raw/badlands-brief-6bf.md, raw/badlands-brief-6f4.md, raw/badlands-brief-861.md, raw/badlands-brief-c5b.md, raw/badlands-brief-dc6.md, raw/badlands-brief-e9a.md, raw/badlands-brief.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-919.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-seismic-shift.md, raw/badlands-brief-2c5.md, raw/badlands-brief-6bf.md, raw/badlands-brief-6f4.md, raw/badlands-brief-861.md, raw/badlands-brief-c5b.md, raw/badlands-brief-dc6.md, raw/badlands-brief-e9a.md, raw/badlands-brief.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-919.md, raw/badlands-news-brief-cb9.md]
 confidence: high
 ---
 
@@ -99,6 +99,14 @@ In early March 2023 the Treasury Department announced a new wave of sanctions ag
 
 Under H.R. 2435, the [[gold-standard-restoration-act|Gold Standard Restoration Act]] introduced in April 2023 by Reps. [[alex-mooney|Alex Mooney]], [[andy-biggs|Andy Biggs]] and [[paul-gosar|Paul Gosar]], the Treasury and the [[federal-reserve|Federal Reserve]] would be given 24 months to publicly disclose all gold holdings and gold transactions, after which the Federal Reserve note "dollar" would be repegged to a fixed weight of gold at its then-market price.[17]
 
+## Deposit guarantee review (March 2023)
+
+Bloomberg reported in March 2023 that Treasury Department staff were reviewing whether federal regulators had enough emergency authority to temporarily insure deposits greater than the $250,000 cap on most accounts, without formal consent from a deeply divided [[us-congress|Congress]], as a coalition of banks pressed for a blanket [[federal-deposit-insurance-corporation|FDIC]] guarantee.[18] Authorities did not yet view the step as necessary, particularly after regulators had acted earlier that month to help banks meet withdrawal demands, but were developing a strategy out of due diligence in case conditions worsened.[18] [[zerohedge|ZeroHedge]] asked "what does the Treasury know that we don't," applying to the department the same question hawks posed about a [[federal-reserve|Fed]] pause.[18] The Treasury had also joined the Fed and FDIC in shoring up the sector after the failures of [[silicon-valley-bank|Silicon Valley Bank]] and [[first-republic-bank|First Republic Bank]].[18]
+
+## Deposit guarantee review (March 2023)
+
+Bloomberg reported in March 2023 that Treasury Department staff were reviewing whether federal regulators had enough emergency authority to temporarily insure deposits greater than the $250,000 cap on most accounts, without formal consent from a deeply divided [[us-congress|Congress]], as a coalition of banks pressed for a blanket [[federal-deposit-insurance-corporation|FDIC]] guarantee.[18] Authorities did not yet view the step as necessary, particularly after regulators had acted earlier that month to help banks meet withdrawal demands, but were developing a strategy out of due diligence in case conditions worsened.[18] [[zerohedge|ZeroHedge]] asked "what does the Treasury know that we don't," applying to the department the same question hawks posed about a [[federal-reserve|Fed]] pause.[18] The Treasury had also joined the Fed and FDIC in shoring up the sector after the failures of [[silicon-valley-bank|Silicon Valley Bank]] and [[first-republic-bank|First Republic Bank]].[18]
+
 ## References
 
 1. Badlands Brief — "A Conflict of Interest", URL: https://badlands.substack.com/p/a-conflict-of-interest
@@ -118,3 +126,4 @@ Under H.R. 2435, the [[gold-standard-restoration-act|Gold Standard Restoration A
 15. Badlands Brief — "Badlands News Brief: North American Trade Troubles & Unipartisan Panic", URL: https://badlands.substack.com/p/badlands-news-brief-52f
 16. Badlands Brief — "J6 Exposure, Biden's Brain and Trump's Agenda", URL: https://badlands.substack.com/p/badlands-news-brief-644
 17. Badlands Brief — "Badlands News Brief: Trials Galore, Ukraine Backpedal & The Gold Standard", URL: https://badlands.substack.com/p/badlands-news-brief-919
+18. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9

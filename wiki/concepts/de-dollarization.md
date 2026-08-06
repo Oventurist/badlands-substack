@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [economics, dollar, reserve-currency, geopolitics, sanctions]
-sources: [raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-528.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-881.md]
+sources: [raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-528.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-bec.md, raw/badlands-news-brief-c40.md]
 confidence: medium
 ---
 
@@ -56,6 +56,18 @@ Financial analyst [[kirk-elliott|Dr. Kirk Elliott]] argued that generations of A
 
 Addressing the [[2023-brics-johannesburg-summit|2023 BRICS summit in Johannesburg]] remotely, Russian President [[vladimir-putin|Vladimir Putin]] said de-dollarization was "gaining momentum" and characterized the dollar's receding global centrality as an "objective and irreversible" process.[5] He argued that the five [[brics|BRICS]] members were becoming the new world economic leaders, with 26% of global GDP and, on a purchasing-power-parity basis, 31% of the global economy against 30% for the [[g7|G7]], and attacked "illegitimate sanctions" and the "unlawful freezing of sovereign states' assets."[5] Badlands contributor [[burning-bright|Burning Bright]] framed the summit's announcements, including rumors of a gold-backed BRICS currency, as an attack on the U.S. [[petrodollar|petrodollar]] whose "Final Fiat Countdown" would begin with Saudi accession to the bloc.[5]
 
+## The China–Brazil settlement deal (March 2023)
+
+At the end of March 2023 the Brazilian government announced that [[china|China]] and [[brazil|Brazil]] had reached a deal to trade in their own currencies, dropping the US dollar as an intermediary entirely.[6] The arrangement covers roughly $150 billion in annual bilateral trade as well as financial transactions, with yuan exchanged directly for reais and vice versa, and extends China's network of dollar-exempting bilateral currency arrangements — previously including Russia, Pakistan and Saudi Arabia — to the largest economy in Latin America.[6] [[zerohedge|ZeroHedge]] called the deal "Beijing's latest salvo against the almighty greenback" and noted that de-dollarization news was by then "dropping fast and furious," with even [[elon-musk|Elon Musk]] commenting on the trend and the dollar "fully weaponized after February 2022 for the entire world to see and fear."[6] See [[china-brazil-currency-agreement|China–Brazil currency agreement]].[6]
+
+[[burning-bright|Burning Bright]] of [[badlands-media|Badlands Media]] argued that while political and cultural distraction events dominated the US media cycle, real and lasting moves were being made on currency, and that with a strong Russian–Chinese bloc emerging, "the days of Petrodollar hegemony appear to be numbered."[6]
+
+## Lula's call to end dollar dominance (April 2023)
+
+In April 2023 Brazilian president [[luiz-inacio-lula-da-silva|Luiz Inácio Lula da Silva]] urged [[brics|BRICS]] countries to develop a new currency and move away from the dollar, coverage of which was carried in the [[badlands-news-brief|Badlands News Brief]] of April 17, 2023.[7] The appeal came as [[brazil|Brazil]] and China strengthened ties, having recently agreed to use the yuan in cross-border trade, although analysts quoted in the reporting saw de-dollarization as unlikely given the lack of good replacements.[7]
+
+Badlands Media sponsor and financial analyst [[kirk-elliott|Dr. Kirk Elliott]] observed that news of shifts from the US dollar to alternative trade arrangements had accelerated over the preceding two years from a monthly to a daily occurrence.[7] He pointed to Mexico, one of the United States' largest trading partners, reportedly considering joining BRICS, and advised readers to anticipate the direction of the trend in their personal careers, finances, and businesses.[7]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Fauci Returns, the Dollar Falls & Stormy Struts", URL: https://badlands.substack.com/p/badlands-news-brief-4a3
@@ -63,3 +75,5 @@ Addressing the [[2023-brics-johannesburg-summit|2023 BRICS summit in Johannesbur
 3. Badlands Brief — "It’s Our Failed ‘Resistance’ and We Can Cry if We Want To", URL: https://badlands.substack.com/p/badlands-news-brief-656
 4. Badlands Brief — "Bank of Epstein, Saudi Arabia & Trump's Reprieve?", URL: https://badlands.substack.com/p/badlands-news-brief-85a
 5. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... But Not on Us", URL: https://badlands.substack.com/p/badlands-news-brief-881
+6. Badlands Brief — "Badlands News Brief: Trump's Indictment, DeSantis & the Dollar", URL: https://badlands.substack.com/p/badlands-news-brief-bec
+7. Badlands Brief — "Badlands News Brief: GART, 9/11 & Deep State Billionaires", URL: https://badlands.substack.com/p/badlands-news-brief-c40

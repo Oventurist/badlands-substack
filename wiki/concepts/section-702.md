@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [surveillance, fisa, civil-liberties, congress, intelligence]
-sources: [raw/badlands-brief-07c.md, raw/badlands-brief-579.md, raw/badlands-brief-c91.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-808.md]
+sources: [raw/badlands-brief-07c.md, raw/badlands-brief-579.md, raw/badlands-brief-c91.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-cce.md]
 confidence: medium
 ---
 
@@ -38,6 +38,12 @@ On Friday, April 12, 2024, the US House of Representatives voted 273 to 147 to r
 
 Contemporary reporting described Section 702 as allowing the US government to collect the electronic communications of non-Americans located outside the country without a warrant, and noted that it had come under scrutiny from lawmakers on both sides of the aisle and from civil liberties groups because it sometimes results in the collection of data on Americans who are in contact with surveilled individuals.[5] An amendment to add a warrant requirement for querying Americans' data narrowly failed on a tied 212 to 212 vote.[5]
 
+## Short-term extension in the FY2024 NDAA
+
+On Thursday, December 14, 2023, the U.S. House of Representatives passed the annual defense policy bill containing a measure extending Section 702 of the [[foreign-intelligence-surveillance-act|Foreign Intelligence Surveillance Act]] until mid-April 2024, punting the question of structural reform into the new year.[6] The provision, folded into the [[national-defense-authorization-act|National Defense Authorization Act]], averted an end-of-year expiration of the surveillance authority while prolonging the dispute over whether the government should obtain a warrant before querying already-collected communications belonging to Americans.[6] Section 702 permits the government to target foreigners located abroad, but Americans who communicate with those targets have their information swept up in the searches — a dynamic that produced broad agreement that reauthorization should be paired with limits on documented abuse of the tool by the [[fbi|FBI]].[6] Several conservative lawmakers objected to the authority's inclusion in a must-pass bill.[6]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] wrote that "this is how liberty dies," noting the new extension ran until at least April 19 and arguing that [[congress|Congress]] had decided "the need to surveil you outweighs your constitutional rights."[6] The commentary observed that 118 House Republicans opposed the measure and were eager to advertise that fact for fundraising purposes, describing the episode as an illustration of the [[uniparty|uniparty]]: "Democracy dies in darkness, but liberty dies under the bright lights of a Congressional floor vote."[6]
+
 ## References
 
 1. Badlands Brief — "Supreme Conflicts, Criminal Probes, & A Ceasefire", URL: https://badlands.substack.com/p/badlands-brief-07c
@@ -45,3 +51,4 @@ Contemporary reporting described Section 702 as allowing the US government to co
 3. Badlands Brief — "Trump Rugs the Deltas with an Early MOU", URL: https://badlands.substack.com/p/badlands-brief-c91
 4. Badlands Brief — "Badlands News Brief: Devastation at Davos & the Dawn of Denuclearization", URL: https://badlands.substack.com/p/badlands-news-brief-53f
 5. Badlands News Brief — "Iranian Walk-backs, Trump Trials & Trans Truths", URL: https://badlands.substack.com/p/badlands-news-brief-808
+6. Badlands Brief — "Badlands News Brief: The System of Systems is a House of Cards", URL: https://badlands.substack.com/p/badlands-news-brief-cce

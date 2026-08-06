@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, comedy, television, democratic-party, 2024-election]
-sources: [raw/badlands-news-brief-942.md, raw/badlands-news-brief-b60.md]
+sources: [raw/badlands-news-brief-942.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-c4f.md]
 confidence: medium
 ---
 
@@ -26,6 +26,11 @@ In March 2024 Stewart criticized [[donald-trump|Donald Trump]]'s New York civil 
 
 Internet sleuths then examined Stewart's own property history, and the New York Post confirmed records showing that his New York City penthouse sold for 829% more than its assessed value — using, per the reporting, the same citation method and metric that New York Attorney General [[letitia-james|Letitia James]] applied to Trump's properties.[2] [[ashe-in-america|Ashe in America]] wrote that hypocrisy from famous regime narrative-peddlers was unsurprising but that the Stewart disclosure was an escalation of a point Trump, developers and bankers had made since the case was filed, arguing that by Stewart's own standard he should be prosecuted to the fullest extent of the law and asking how many honest loan applicants his inflated valuation had disenfranchised.[2]
 
+## Interview with Mikie Sherrill (November 2025)
+
+Speaking to Stewart in November 2025 — the same day she gave up her House seat — New Jersey Governor-elect [[mikie-sherrill|Mikie Sherrill]] said she thinks "all the time" about withholding federal tax dollars from the [[donald-trump|Trump]] administration and called it a "great idea."[3] "If they're not gonna run the programs, then what are we paying them for?" she told Stewart. "It's like, you know, you're paying us for a service and they're not delivering. So let's stop paying for it."[3]
+
 ## References
 1. Badlands Brief — "Kamala on the Media Block as Putin Makes Moves", URL: https://badlands.substack.com/p/badlands-news-brief-942
 2. Badlands Brief — "Badlands News Brief: Baltimore Fallout Continues as Nickelodeon Exposes Itself", URL: https://badlands.substack.com/p/badlands-news-brief-b60
+3. Badlands News Brief — "Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f

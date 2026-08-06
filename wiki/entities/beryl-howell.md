@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [judiciary, grand-jury, january-6, trump]
-sources: [raw/badlands-news-brief-238.md, raw/badlands-news-brief-5b3.md, raw/badlands-news-brief-88b.md]
+sources: [raw/badlands-news-brief-238.md, raw/badlands-news-brief-5b3.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-c14.md]
 confidence: medium
 ---
 
@@ -31,8 +31,15 @@ Also in February 2023, federal prosecutors asked Howell, as chief judge of the W
 
 Howell drew renewed scrutiny in August 2023 for her handling of Special Counsel [[jack-smith|Jack Smith]]'s secret subpoena of Twitter, now [[x-corp|X]], for records connected to [[donald-trump|Donald Trump]]'s account.[3] She imposed a $350,000 fine on the company over a three-day delay while it sought to address the demand, and justified the accompanying nondisclosure order in part on a finding that Trump was a flight risk.[3] Legal commentator [[jonathan-turley|Jonathan Turley]] wrote that both the secrecy and the flight-risk rationale were surprising and concerning, arguing that Trump already knew he was under investigation and that the court's reasoning that he might change his course of conduct seemed unlikely given his consistently undeterred social media practices.[3]
 
+## Perkins Coie injunction (2025)
+
+In 2025 Howell issued an injunction prohibiting implementation of [[donald-trump|Donald Trump]]'s March 6 executive order restricting the law firm [[perkins-coie|Perkins Coie]].[4] Chronicles Magazine commentary excerpted by [[badlands-media|Badlands]] described the ruling as one that "spoils a righteous core with judicial activism," conceding Howell was right that the First Amendment and principles of American justice mandate that lawyers be able to deliver candid advice and zealous advocacy to their clients, but faulting her for ignoring the case that Perkins Coie conspired with [[hillary-clinton|Hillary Clinton]] and [[fusion-gps|Fusion GPS]] to improperly influence the 2016 election through the fraudulent [[steele-dossier|Steele dossier]].[4]
+
+The same commentary noted that Howell, an Obama appointee, previously served as chief judge for the District of Columbia, in which capacity she was a strong supporter of [[jack-smith|Jack Smith]]'s Trump prosecution.[4]
+
 ## References
 
 1. Badlands Media — "Badlands News Brief: Wuhan Leak, AZ Claims & Gender Wars", URL: https://badlands.substack.com/p/badlands-news-brief-238
 2. Badlands Brief — "Badlands News Brief: Election Laws & Justice for the Exploited", URL: https://badlands.substack.com/p/badlands-news-brief-5b3
 3. Badlands News Brief — "The Trump Hunt & the Biden Blitz", URL: https://badlands.substack.com/p/badlands-news-brief-88b
+4. Badlands Brief — "Badlands News Brief: Overreach, Obstruction, & Our Boy Blue", URL: https://badlands.substack.com/p/badlands-news-brief-c14

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [first-amendment, free-speech, constitution, law]
-sources: [raw/a-glaring-double-standard.md, raw/always-fight-back.md, raw/badlands-brief-095.md, raw/badlands-brief-9eb.md, raw/badlands-brief-a1a.md, raw/badlands-brief-c07.md, raw/badlands-brief-f83.md, raw/badlands-brief.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-a15.md]
+sources: [raw/a-glaring-double-standard.md, raw/always-fight-back.md, raw/badlands-brief-095.md, raw/badlands-brief-9eb.md, raw/badlands-brief-a1a.md, raw/badlands-brief-c07.md, raw/badlands-brief-f83.md, raw/badlands-brief.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-c50.md]
 confidence: medium
 ---
 
@@ -80,6 +80,12 @@ At the [[world-economic-forum|World Economic Forum]] in January 2023, [[european
 
 During floor debate before the House passed the TikTok divestment bill 352-65-1 on March 13, 2024, Representative Thomas Massie argued that the measure was "actually a trojan horse" and raised constitutional objections, saying "some of us are concerned that there are First Amendment implications here. Americans have the right to view information, and don't need to be protected by the government from information."[12] The argument framed the proposed ban as a restriction on the audience's right to receive information rather than solely on the speaker's right to publish.[12]
 
+## Missouri v. Biden and government-platform contacts (July 2023)
+
+In [[missouri-v-biden|Missouri v. Biden]], U.S. District Judge [[terry-doughty|Terry Doughty]] — a [[donald-trump|Trump]] appointee — held in a 155-page opinion that federal officials likely violated the First Amendment in how they had communicated with Twitter, Meta, and other technology companies about removing or restricting content related to the pandemic, the 2020 election, and other political subjects.[13] The Justice Department filed a notice of appeal with the [[fifth-circuit-court-of-appeals|5th US Circuit Court of Appeals]] in New Orleans on Wednesday, July 5, 2023, seeking to overturn the injunction that would block federal agencies and officials from communicating with social media companies about platform content.[13]
+
+[[badlands-media|Badlands Media]] contributor [[burning-bright|Burning Bright]] argued that the administration's "public disdain for the 1st Amendment is a massive red pill for the American public," while Doughty's ruling was "a massive white pill."[13] He wrote that the more the "Deep State" publicly resisted the Constitution, the more clearly it revealed itself, while constitutional judges appointed by Trump — "from the Supreme Court all the way down the line" — continued to "erect new bulwarks against further incursions on our God-given rights."[13]
+
 ## References
 1. Badlands Brief — "A Glaring Double Standard", URL: https://badlands.substack.com/p/a-glaring-double-standard
 2. Badlands Media — "Always Fight Back", URL: https://badlands.substack.com/p/always-fight-back
@@ -93,3 +99,4 @@ During floor debate before the House passed the TikTok divestment bill 352-65-1 
 10. Badlands News Brief — "A Biden, a Clinton and a Trump Walk Into a SCIF", URL: https://badlands.substack.com/p/badlands-news-brief-228
 11. Badlands Brief — "Badlands News Brief: Globalist Rage, Biden Docs & Hockey Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-46e
 12. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
+13. Badlands Brief — "Badlands News Brief: The Cocaine White House, False Flags & Free Speech", URL: https://badlands.substack.com/p/badlands-news-brief-c50

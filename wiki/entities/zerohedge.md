@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, alternative-media, finance]
-sources: [raw/badlands-brief-095.md, raw/badlands-brief-625.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b01.md]
+sources: [raw/badlands-brief-095.md, raw/badlands-brief-625.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-c9a.md]
 confidence: low
 ---
 
@@ -125,6 +125,22 @@ In the final days before the November 2024 election, ZeroHedge reported [[cnn|CN
 
 ZeroHedge also drove coverage of the New York seizure and euthanasia of [[peanut-the-squirrel|Peanut the squirrel]], reporting that "the internet is ablaze with rage" after the state took the animal from Mark Luongo's home and killed it along with a raccoon, ostensibly to test for rabies.[24] The outlet separately reported [[dmitry-medvedev|Dmitry Medvedev]]'s Telegram post arguing that the U.S. election outcome was irrelevant to Russia and that [[donald-trump|Donald Trump]] "may get JFK'd" if he attempted to halt the Ukraine war.[24]
 
+## Bud Light coverage (2023)
+
+ZeroHedge's April 2023 report "Bud Light Marketing Executive Goes On Leave After Disastrous Trans-TikTok Stunt" was excerpted at length in the Badlands News Brief, describing [[anheuser-busch-inbev|Anheuser-Busch InBev]]'s abrupt change of [[bud-light|Bud Light]]'s marketing leadership three weeks after the brand sought to position itself as the "queen" of woke beers through its partnership with [[dylan-mulvaney|Dylan Mulvaney]].[25]
+
+## Coverage of the March 2023 banking and geopolitical stories
+
+ZeroHedge supplied two of the items in the March 21, 2023 [[badlands-news-brief|Badlands News Brief]]: a report on the [[2023-xi-jinping-state-visit-to-russia|Xi–Putin Moscow meeting]] and Putin's statement that he was open to a negotiating process on Ukraine, and a report, citing Bloomberg, that US officials were studying how to guarantee all $18 trillion in US bank deposits.[26] In the latter the outlet noted its own March 12 tweet had anticipated the development, catalogued [[bill-ackman|Bill Ackman]]'s reversal from demanding "shock and awe" rate hikes to urging a pause, and posed the rhetorical question "what does the Treasury know that we don't" while conceding the likely answer was nothing, since bank crises are non-linear.[26]
+
+## Coverage of the Macron China visit (April 2023)
+
+In April 2023, ZeroHedge published Michael Every of [[rabobank|Rabobank]] under the headline "France Has Already Surrendered To The Coming Conflict," an analysis of the [[2023-macron-state-visit-to-china|2023 Macron state visit to China]] that was excerpted at length in the [[badlands-media|Badlands Media]] news brief.[27]
+
+## Coverage of the March 2023 banking and geopolitical stories
+
+ZeroHedge supplied two of the items in the March 21, 2023 [[badlands-news-brief|Badlands News Brief]]: a report on the [[2023-xi-jinping-state-visit-to-russia|Xi–Putin Moscow meeting]] and Putin's statement that he was open to a negotiating process on Ukraine, and a report, citing Bloomberg, that US officials were studying how to guarantee all $18 trillion in US bank deposits.[26] In the latter the outlet noted its own March 12 tweet had anticipated the development, catalogued [[bill-ackman|Bill Ackman]]'s reversal from demanding "shock and awe" rate hikes to urging a pause, and posed the rhetorical question "what does the Treasury know that we don't" while conceding the likely answer was nothing, since bank crises are non-linear.[26]
+
 ## References
 1. Badlands Brief — "Moves and Countermoves", URL: https://badlands.substack.com/p/badlands-brief-095
 2. Badlands Brief — "Mr. Nice Guy Leaves the Building (plus, Jewish Terrorism)", URL: https://badlands.substack.com/p/badlands-brief-625
@@ -150,3 +166,6 @@ ZeroHedge also drove coverage of the New York seizure and euthanasia of [[peanut
 22. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
 23. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
 24. Badlands Brief — "Badlands News Brief: Marauding, Squirrel-Murdering Psychopaths Panic Ahead of the Election", URL: https://badlands.substack.com/p/badlands-news-brief-b01
+25. Badlands Media — "Badlands News Brief: A Tucker, a Lemon and a Trump Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-bf6
+26. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9
+27. Badlands Brief — "Badlands News Brief: The France Dance, Crime & J6 Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-c9a

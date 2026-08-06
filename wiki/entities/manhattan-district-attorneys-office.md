@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [prosecution, new-york, swalwell-scandal]
-sources: [raw/badlands-brief-9ea.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-3c1.md]
+sources: [raw/badlands-brief-9ea.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-3c1.md, raw/badlands-news-brief-cb9.md]
 confidence: medium
 ---
 
@@ -28,8 +28,17 @@ By the weekend of March 25–26, 2023, [[donald-trump|Trump]] was publicly decla
 
 On Thursday, May 11, 2023, the office confirmed that former Marine [[daniel-penny|Daniel Penny]] would be charged with second-degree manslaughter over the subway chokehold death of [[jordan-neely|Jordan Neely]], with Penny expected to surrender to authorities the following morning.[3] Legal commentary at the time anticipated that District Attorney [[alvin-bragg|Alvin Bragg]] would punt the charging decision to a grand jury.[3] A witness aboard the F train told the [[new-york-post|New York Post]] that Neely had been threatening passengers before the intervention, and said she was "praying" that Penny "gets treated fairly."[3] [[ashe-in-america|Ashe in America]] argued that the prosecution ignored exculpatory evidence and predicted that the case would end either in a wrongful conviction or in citywide unrest following an acquittal.[3]
 
+## Arraignment logistics planning (March 2023)
+
+On March 20, 2023, the office met with other branches of law enforcement behind closed doors to discuss the logistics of arraigning [[donald-trump|Donald Trump]], including closing streets, erecting lights with generators, and deploying extra barriers and police.[5] A source said the office did not expect an arraignment before the following week because the grand jury, meeting secretly for weeks, had another witness scheduled that Wednesday, and that a virtual arraignment had been ruled out because District Attorney [[alvin-bragg|Alvin Bragg]] opposed it; another source said the virtual option was never seriously considered.[5] [[just-human|Just Human]] observed that Trump's [[truth-social|Truth Social]] posts and public statements had directed unprecedented national attention onto the Manhattan DA's office, in contrast to the earlier failed effort under [[cyrus-vance-jr|Cy Vance]].[5]
+
+## Arraignment logistics planning (March 2023)
+
+On March 20, 2023, the office met with other branches of law enforcement behind closed doors to discuss the logistics of arraigning [[donald-trump|Donald Trump]], including closing streets, erecting lights with generators, and deploying extra barriers and police.[5] A source said the office did not expect an arraignment before the following week because the grand jury, meeting secretly for weeks, had another witness scheduled that Wednesday, and that a virtual arraignment had been ruled out because District Attorney [[alvin-bragg|Alvin Bragg]] opposed it; another source said the virtual option was never seriously considered.[5] [[just-human|Just Human]] observed that Trump's [[truth-social|Truth Social]] posts and public statements had directed unprecedented national attention onto the Manhattan DA's office, in contrast to the earlier failed effort under [[cyrus-vance-jr|Cy Vance]].[5]
+
 ## References
 1. Badlands Brief — "A Politician is Swallowelled Whole as the Middle East Realigns in Real Time", URL: https://badlands.substack.com/p/badlands-brief-9ea
 2. Badlands Media — "Badlands News Brief: Exculpatory Trump Card & China's Moves", URL: https://badlands.substack.com/p/badlands-news-brief-0e0
 3. Badlands Brief — "Russia's Retreat, Dominion's Domain & Street 'Justice'", URL: https://badlands.substack.com/p/badlands-news-brief-2e7
 4. Badlands Media — "Badlands News Brief: Witch Hunt, Woke's Fall & Peacemakers", URL: https://badlands.substack.com/p/badlands-news-brief-3c1
+5. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9

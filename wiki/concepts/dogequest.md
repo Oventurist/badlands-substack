@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [doxxing, tesla, doge, political-violence, hackers]
-sources: [raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-324.md]
+sources: [raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-ce5.md]
 confidence: medium
 ---
 
@@ -26,7 +26,14 @@ Dogequest surfaced publicly alongside a violent incident in Las Vegas in March 2
 
 Authorities investigated the incidents, which prompted widespread social media discussion of possible motives, generally understood as political sentiment directed against Tesla's chief executive [[elon-musk|Elon Musk]].[2]
 
+## Coverage in March 2025
+
+As reported by the New York Post and carried in the Badlands News Brief, the Dogequest site revealed the names, addresses and phone numbers of [[tesla|Tesla]] owners throughout the United States using an interactive map, and used an image of a Molotov cocktail as its cursor.[3] The site's operators also posted the exact locations of Tesla dealerships and said they would remove identifying information about Tesla drivers only if the owners provided proof that they had sold their electric vehicles.[3]
+
+The doxing campaign coincided with a nationwide wave of arson, shootings and vandalism against Tesla property across at least ten states since January 2025, prompting Attorney General [[pam-bondi|Pam Bondi]] to announce "severe charges" carrying potential 20-year sentences against accused vandals.[3] Badlands commentary argued that intimidation and violence directed at Tesla owners because of their support for [[donald-trump|President Trump]] and America First causes constituted a Voting Rights Act and civil rights violation, and that the actual harm suffered gave affected owners standing to sue.[3]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Bengaluru Raids, Bitcoin Bangers, & A Buddhist Execution", URL: https://badlands.substack.com/p/badlands-news-brief-2dc
 2. Badlands Brief — "Badlands News Brief: Extra-Judicial Judges & Master Manipulating Monsters", URL: https://badlands.substack.com/p/badlands-news-brief-324
+3. Badlands Brief — "Badlands News Brief: Calibrating Education, Recalculating Commands, & Countering Currency Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-ce5

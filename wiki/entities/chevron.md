@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [energy, oil, atlantic-council, ukraine, iran]
-sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-243.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-243.md, raw/badlands-news-brief-d00.md]
 confidence: medium
 ---
 
@@ -32,7 +32,12 @@ The new arrangement allowed the company to maintain roughly $7 billion worth of 
 
 Badlands commentary reported that Richard Grenell's plan was to "wait out" Secretary of State [[marco-rubio|Marco Rubio]] — a staunch Maduro critic who advised Trump on the waiver — and to push the White House to let the oil flow again once Rubio was no longer serving in the administration.[2] [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] read this as further signal of a growing rift inside the administration between establishment NeoCon Republicans such as Rubio and the figures who came to Washington with Trump, such as Grenell.[2]
 
+## Honolulu climate litigation
+
+Chevron was among the major fossil fuel companies sued in 2020 by the city of [[honolulu]], which alleged that the companies' products cause greenhouse gas emissions and global warming and were sold without warning consumers of the risks.[3] Honolulu pleaded state-law public nuisance and trespass claims and sought billions of dollars in abatement funding, and the [[hawaii-supreme-court|Hawaii Supreme Court]] allowed the case to proceed to trial.[3] Critics argued a plaintiff victory would let Democrat-run states impose [[green-new-deal|Green New Deal]]-like parameters on the entire country through litigation, with devastating consequences for energy costs and domestic manufacturing.[3] See [[honolulu-climate-lawsuit]].
+
 ## References
 
 1. Badlands Brief — "And Iran, Iran So Far Away", URL: https://badlands.substack.com/p/and-iran-iran-so-far-away
 2. Badlands Brief — "Badlands News Brief #243: Tariffs Back On & Trump: Best Friend of Animals", URL: https://badlands.substack.com/p/badlands-news-brief-243
+3. Badlands Brief — "Badlands News Brief: Ukrai-NATO Spins Up as Wokeness Spirals", URL: https://badlands.substack.com/p/badlands-news-brief-d00

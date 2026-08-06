@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [tariffs, china, trade, markets, decoupling]
-sources: [raw/badlands-news-brief-02a.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-398.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-a9a.md]
+sources: [raw/badlands-news-brief-02a.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-398.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-a9a.md, raw/badlands-news-brief-d1c.md]
 confidence: medium
 ---
 
@@ -74,10 +74,18 @@ The remarks followed Trump's statement the previous Friday that China was violat
 
 Badlands contributor [[burning-bright|Burning Bright]] grouped the episode with Trump's claim that his stance on Israel and Iran could change with "a phone call" and with a planned Trump–Putin call, arguing that backchannels already exist and that "the phone calls are vehicles for disclosure."[6]
 
+## 90-day tariff truce extension (August 2025)
+
+On 11 August 2025 the United States and China extended their tariff truce for a further 90 days, staving off triple-digit duties on each other's goods as U.S. retailers prepared to build inventories ahead of the end-of-year holiday season.[7] President [[donald-trump|Donald Trump]] announced on Truth Social that he had signed an executive order suspending the higher tariffs until 12:01 a.m. EST on 10 November, with all other elements of the truce left in place.[7] China's Commerce Ministry issued a parallel pause early the following day, also postponing for 90 days the addition of U.S. firms it had targeted in April to trade and investment restriction lists.[7] The executive order stated that "the United States continues to have discussions with the PRC to address the lack of trade reciprocity in our economic relationship and our resulting national and economic security concerns."[7]
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that Trump and [[xi-jinping|Xi Jinping]] were deliberately keeping transnational corporatists in a state of whiplash, unable to plan future business development in China with confidence, and that the safe response was to relocate manufacturing to the United States.[7] He characterized executives who instead sought to preserve a system of economic subjugation — exploiting the Third World while flooding First World markets with cheap goods — as enemies of mankind.[7]
+
 ## References
+
 1. Badlands Brief — "Badlands News Brief: World Wealth Whiplash & The Most Secure Memorandum in History", URL: https://badlands.substack.com/p/badlands-news-brief-02a
 2. Badlands Brief — "Badlands News Brief: Terminations, Port Tensions, & Terrifically Terrifying Trade Wars", URL: https://badlands.substack.com/p/badlands-news-brief-364
 3. Badlands Brief — "Satellite Secrets, Spanish Sanctions, & Enslaved Scammers", URL: https://badlands.substack.com/p/badlands-news-brief-398
 4. Badlands Brief — "Badlands News Brief: Mandatory Deprogramming & Military Parades", URL: https://badlands.substack.com/p/badlands-news-brief-574
 5. Badlands Brief — "Familiar Formulas, Blue Skies, & Antisemitic Nonchalance", URL: https://badlands.substack.com/p/badlands-news-brief-6e6
 6. Badlands Brief — "Proxy Wars & The Prevention of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a9a
+7. Badlands Brief — "Badlands News Brief: New Whistleblowers, Cartel Hitlists, & Extended Tariffs", URL: https://badlands.substack.com/p/badlands-news-brief-d1c

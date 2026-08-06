@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [supreme-court, dissent, election-integrity, judiciary]
-sources: [raw/badlands-brief-169.md, raw/badlands-brief-686.md, raw/badlands-brief-6bf.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-2e4.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-757.md]
+sources: [raw/badlands-brief-169.md, raw/badlands-brief-686.md, raw/badlands-brief-6bf.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-2e4.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-c0a.md]
 confidence: medium
 ---
 
@@ -48,6 +48,14 @@ During the December 4, 2024 oral arguments in the challenge to Tennessee's ban o
 
 Badlands contributor [[ashe-in-america|Ashe in America]] called the line of questioning a "legal chess move" that could reshape the transgender debate and reinforce guardrails around protected status, reasoning that if self-identification is fluid and changeable it cannot be immutable, and therefore should not generate special protection.[7] See [[united-states-v-skrmetti]].[7]
 
+## Texas immigration law holds (March 2024)
+
+Alito repeatedly intervened as circuit justice to keep [[texas-senate-bill-4|Texas Senate Bill 4]], the state immigration enforcement law challenged by the [[joe-biden|Biden]] administration, from taking effect.[8] On Monday, March 18, 2024, he issued an order extending the temporary freeze on a lower court decision, stating the law would remain on hold "pending further order" of the Court.[8] It was the third time he had stepped in since the law's original March 10 effective date, and his previous order had been due to expire that evening; the extension blocked the statute indefinitely and gave all nine justices more time to determine next steps.[8]
+
+## Murthy v. Missouri oral argument
+
+At the March 18, 2024 oral argument in [[murthy-v-missouri|Murthy v. Missouri]], Alito was the justice who appeared most sympathetic to the plaintiffs challenging federal contacts with social media platforms, invoking the reporters present in the courtroom: "I cannot imagine federal officials taking that approach to the print media representatives over there. If you did that to them, what do you think the reaction would be?"[8] When the Court agreed to hear the case the previous October, Alito, [[clarence-thomas|Clarence Thomas]] and [[neil-gorsuch|Neil Gorsuch]] had noted their disagreement with the decision to block the appeals court ruling.[8]
+
 ## References
 1. Badlands Brief — "Condemnation, Calibration, & Constitutional Boxes", URL: https://badlands.substack.com/p/badlands-brief-169
 2. Badlands Brief — "To Infinity & Iran!", URL: https://badlands.substack.com/p/badlands-brief-686
@@ -56,3 +64,4 @@ Badlands contributor [[ashe-in-america|Ashe in America]] called the line of ques
 5. Badlands News Brief — "Escalating Elections, Fragmented Forums, & Merry Murder Metrics", URL: https://badlands.substack.com/p/badlands-news-brief-2e4
 6. Badlands Brief — "Badlands News Brief: Robot Runners, Prisoner Swaps, & Control of Crimea", URL: https://badlands.substack.com/p/badlands-news-brief-471
 7. Badlands Brief — "Badlands News Brief: Pardon Me ... No, But Seriously. PLEASE Pardon Me.", URL: https://badlands.substack.com/p/badlands-news-brief-757
+8. Badlands Brief — "Badlands News Brief: White Collar Prisons & Confounding Court Decisions", URL: https://badlands.substack.com/p/badlands-news-brief-c0a

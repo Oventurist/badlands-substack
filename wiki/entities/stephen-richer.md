@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [arizona, maricopa-county, elections, recorder, 2022-midterms]
-sources: [raw/arizona-earthquake.md, raw/badlands-brief-509.md, raw/badlands-brief-f83.md]
+sources: [raw/arizona-earthquake.md, raw/badlands-brief-509.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-ca1.md]
 confidence: medium
 ---
 
@@ -35,3 +35,8 @@ In March 2026 Richer, by then the former [[maricopa-county|Maricopa County]] Rec
 1. Badlands Media — "Arizona Earthquake!", URL: https://badlands.substack.com/p/arizona-earthquake
 2. Badlands Brief — "Election Exposure, Energy Angst & War Rackets", URL: https://badlands.substack.com/p/badlands-brief-509
 3. Badlands Brief — "A Mostly Peaceful War Continues to Escalate Toward De-Escalation", URL: https://badlands.substack.com/p/badlands-brief-f83
+## America First Legal suit over non-citizen registrations (August 2024)
+
+On August 5, 2024, [[america-first-legal|America First Legal]] sued Richer in his capacity as [[maricopa-county|Maricopa County]] Recorder for allegedly refusing to verify the citizenship of registered voters and failing to remove non-citizens from the county's rolls.[4] The action was filed on behalf of the [[strong-communities-foundation-of-arizona|Strong Communities Foundation of Arizona]] and a naturalized-citizen voter, and followed July 16 letters that AFL sent to all 15 Arizona counties demanding compliance with state and federal law.[4] Richer responded through his attorney that he was verifying citizenship as the law required; AFL countered that registrations without confirmed citizenship had increased during his tenure and that the databases needed for verification had not been accessed.[4] The complaint alleged that he had not performed the monthly list maintenance required by state law, and cited a rise in registrations lacking proof of citizenship from 21,595 in April to 26,108 in July — a category of voter eligible in Arizona to vote only in federal elections.[4]
+
+4. Badlands Brief — "Fake Vice Presidents and Effective Lawsuits", URL: https://badlands.substack.com/p/badlands-news-brief-ca1

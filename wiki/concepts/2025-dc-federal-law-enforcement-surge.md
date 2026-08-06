@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [washington-dc, crime, federal-law-enforcement, 2025]
-sources: [raw/badlands-news-brief-50f.md, raw/badlands-news-brief-a31.md]
+sources: [raw/badlands-news-brief-50f.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-d1c.md]
 confidence: medium
 ---
 
@@ -28,6 +28,15 @@ The announcement came a day after President [[donald-trump|Donald Trump]] said h
 
 Badlands writer [[burning-bright|Burning Bright]] argued that Trump's opponents were paralyzed by the pace of his actions, saying they did not know what to do and were reduced to defending themselves while Trump dictated "the pace and flow of the fight."[2] In his framing, Trump had "overloaded the System" — and had done so by design.[2]
 
+## Federal takeover announcement and Guard activation
+
+On 11 August 2025 President [[donald-trump|Donald Trump]] said he was taking over Washington's police department and activating 800 members of the [[national-guard|National Guard]] in the hope of reducing crime, even as city officials stressed that crime in the capital was already falling.[3] Flanked by his attorney general, defense secretary and FBI director, Trump declared a public safety emergency and said his administration would remove homeless encampments, telling reporters "We're going to take our capital back" and that he would be "getting rid of the slums."[3] Reporting noted that the District of Columbia's status as a congressionally established federal district gave him a unique opening for a tough-on-crime agenda, though he proposed no remedies for the root causes of homelessness or crime.[3]
+
+### Commentary
+
+[[burning-bright|Burning Bright]] described the initiative as a diagnostic instrument rather than routine policy — a "narrative incursion" whose optics forced the capital's governing class to reveal existential as well as ideological fissures, and which advanced the argument that sovereignty without security is illusory while security without sovereignty becomes oppression.[3] [[jon-herold|Jon Herold]] noted that the previous time Trump called in the National Guard to restore order in Washington was after the St. John's church walk in June 2020.[3] Former House Speaker [[nancy-pelosi|Nancy Pelosi]] attacked the order as a distraction, prompting a rebuttal from former Capitol Police chief [[stephen-sund|Steven Sund]] over her handling of January 6 Guard requests.[3]
+
 ## References
 1. Badlands News Brief — "Alaska For Peace, Iranian Objections, & A Mid-Decade Census", URL: https://badlands.substack.com/p/badlands-news-brief-50f
 2. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
+3. Badlands Brief — "Badlands News Brief: New Whistleblowers, Cartel Hitlists, & Extended Tariffs", URL: https://badlands.substack.com/p/badlands-news-brief-d1c

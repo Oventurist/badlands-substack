@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [presidency, bin-laden, memorandum-of-notification, china, scandals]
-sources: [raw/a-dereliction-of-duty.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/badlands-brief-314.md, raw/badlands-brief-40d.md, raw/badlands-brief-52f.md, raw/badlands-brief-b74.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-97e.md]
+sources: [raw/a-dereliction-of-duty.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/badlands-brief-314.md, raw/badlands-brief-40d.md, raw/badlands-brief-52f.md, raw/badlands-brief-b74.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-c4f.md]
 confidence: medium
 ---
 
@@ -100,6 +100,10 @@ In January 2023 the New York Post reported that disgraced crypto mogul [[sam-ban
 
 Among a series of social media posts in May 2025, [[donald-trump|Donald Trump]] revived a 2016 video implying that Clinton and former Secretary of State [[hillary-clinton|Hillary Clinton]] were tied to several deaths, an allegation known as the "Clinton body count" conspiracy theory.[12] The Washington Post reported the claims as false and long-standing.[12] Badlands writer Burning Bright framed the sitting president's amplification of the material as evidence of "the timeline war we're engaged in."[12]
 
+## House Oversight deposition order (November 2025)
+
+The [[house-oversight-committee|House Oversight Committee]] ordered Clinton and former Secretary of State [[hillary-clinton|Hillary Clinton]] to appear for closed-door depositions in December 2025, rejecting an attempt by their attorney [[david-kendall|David Kendall]] to block subpoenas tied to the panel's [[jeffrey-epstein|Epstein]]-[[ghislaine-maxwell|Maxwell]] investigation.[13] Chairman [[james-comer|James Comer]] wrote that the Committee "disagrees" that limited written responses would be "the most efficient and equitable way to proceed," and that Kendall's request relied on assertions already "disproved by public information."[13]
+
 ## References
 1. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
 2. Badlands Brief — "America for Sale - Part 1", URL: https://badlands.substack.com/p/america-for-sale-part-1
@@ -113,3 +117,4 @@ Among a series of social media posts in May 2025, [[donald-trump|Donald Trump]] 
 10. Badlands Brief — "Badlands News Brief: Hypocrisy Roundup & Rug-pulls Galore", URL: https://badlands.substack.com/p/badlands-news-brief-378
 11. Badlands Brief — "Badlands News Brief: Mostly Peaceful Riots and Billionaire Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-6db
 12. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
+13. Badlands News Brief — "Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f

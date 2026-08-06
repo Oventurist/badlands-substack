@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [drc, mining, sanctions, corruption]
-sources: [raw/badlands-brief-abf.md, raw/badlands-news-brief-021.md, raw/badlands-news-brief-03a.md, raw/badlands-news-brief-1ba.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-b22.md]
+sources: [raw/badlands-brief-abf.md, raw/badlands-news-brief-021.md, raw/badlands-news-brief-03a.md, raw/badlands-news-brief-1ba.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-b22.md, raw/badlands-news-brief-c9b.md]
 confidence: medium
 ---
 
@@ -72,6 +72,12 @@ In June 2024, [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] reported on 
 
 The commentary tied this to Lieutenant General [[igor-kirillov|Igor Kirillov]]'s claim that US bioweapons research had moved to Africa, and to a web of corruption linking [[mossad|Mossad]], the Israeli diamond cartel, [[benjamin-netanyahu|Benjamin Netanyahu]] and Israeli oligarchs to Executive Order 13818 and the [[sovereign-alliance|Sovereign Alliance]], with South Africa and the [[democratic-republic-of-the-congo|Democratic Republic of the Congo]] as the two main countries involved and Sierra Leone implicitly connected through Gertler's family.[10] Recent reported coups, most recently in Kenya, were said to make more sense in this light, framed as an [[operation-gladio|Operation Gladio]]-versus-Sovereign Alliance dynamic.[10]
 
+## 2024 proposed sanctions relief
+
+In June 2024 the *[[financial-times|Financial Times]]* reported that Gertler was set to receive hundreds of millions of dollars under a controversial U.S. plan to lift restrictions on him if he sold his remaining Congolese mining interests.[11] Sanctioned by the [[us-department-of-the-treasury|US Treasury]] in 2017 for alleged corrupt dealing in Congo, he retained royalty streams from three mining projects; Treasury would issue "special" licences allowing him to sell those streams back to the Congolese government and eventually a "general" licence restoring his access to the U.S. financial system, with the total expected to be around $300 million.[11] U.S. officials argued that removing Gertler from Congo would open opportunities for U.S.-friendly companies to access copper and cobalt.[11] The episode is treated in detail at [[2024-us-congo-gertler-sanctions-deal|the 2024 US-Congo Gertler sanctions deal]].[11]
+
+Badlands commentary held that President [[donald-trump|Donald Trump]] had used [[executive-order-13818|Executive Order 13818]] to seize Gertler's assets because he had maliciously acquired mineral rights in the DRC and used child slaves to mine diamonds, gold and cobalt, extracting billions from Africa and disseminating the funds to Israeli oligarchs.[11] Investigative journalists were said to have documented his evasion of those sanctions through proxy companies, with some reporting personal threats from Gertler and associates.[11] The same commentary noted that Gertler's grandfather was [[moshe-schnitzer|Moshe Schnitzer]], former [[irgun|Irgun]] member and founder of the Israel Diamond Exchange, whose funeral eulogy was delivered by Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]].[11]
+
 ## References
 1. Badlands Brief — "Long-Term Legal Remedies & A Reboot of Russian Relations", URL: https://badlands.substack.com/p/badlands-brief-abf
 2. Badlands Brief — "Seditious Overreactions, Billion Dollar Bailouts, & NATO-Style Guarantees", URL: https://badlands.substack.com/p/badlands-news-brief-021
@@ -83,3 +89,4 @@ The commentary tied this to Lieutenant General [[igor-kirillov|Igor Kirillov]]'s
 8. Badlands Brief — "Badlands News Brief: Fake Poles, HomOlympics & Deal-Making", URL: https://badlands.substack.com/p/badlands-news-brief-4c5
 9. Badlands News Brief — "Shadow Feds, Activist Courts, & Lasting Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a69
 10. Badlands Brief — "The Supreme Court Looms Over the First Debate", URL: https://badlands.substack.com/p/badlands-news-brief-b22
+11. Badlands Brief — "Badlands News Brief: Korean Borders, Warmongers & Peacemakers", URL: https://badlands.substack.com/p/badlands-news-brief-c9b

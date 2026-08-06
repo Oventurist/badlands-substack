@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [elections, voting-machines, colorado, election-integrity]
-sources: [raw/badlands-brief-174.md, raw/badlands-brief-25c.md, raw/badlands-brief-b34.md, raw/badlands-news-brief-001.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-aed.md]
+sources: [raw/badlands-brief-174.md, raw/badlands-brief-25c.md, raw/badlands-brief-b34.md, raw/badlands-news-brief-001.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-c1e.md]
 confidence: medium
 ---
 
@@ -60,6 +60,18 @@ Ahead of the November 2024 general election, Michigan Secretary of State [[jocel
 
 Badlands writer [[ashe-in-america|Ashe in America]] argued the admission matched vote-swapping allegations in ballot-marking-device states, where selections made on accessible tablets reportedly printed incorrectly — behavior previously attributed to human error.[10] Separately, the Colorado Secretary of State's office improperly posted a spreadsheet containing partial BIOS passwords for state voting equipment, an exposure affecting both Dominion and [[clear-ballot|Clear Ballot]] devices, with explanations from Secretary of State [[jena-griswold|Jena Griswold]] contradicted by her own staff's sworn testimony.[10]
 
+## Aftermath of the Fox settlement (April 2023)
+
+Fox's roughly $800 million settlement with Dominion, reached shortly before trial, framed the media coverage of [[tucker-carlson|Tucker Carlson]]'s departure from [[fox-news|Fox News]] on April 24, 2023, which CNBC reported as coming "in wake of Dominion defamation settlement."[11] [[donald-trump|Donald Trump]] said he had been surprised Fox settled a case he believed "should easily be won," and noted he had urged [[rupert-murdoch|Rupert Murdoch]] to embrace his voter-fraud claims before the chairman was due to testify.[11]
+
+[[badlands-media|Badlands Media]] writer [[burning-bright|Burning Bright]] advanced the contrary reading that Fox had never been adversarial to Dominion at all: in his account the network "wasn't going after Dominion" but was "deployed to Shield it," using the litigation to set legal and psychological precedent intended to harm the election reform movement — of a piece, he argued, with Fox's call of Arizona for Joe Biden on November 3, 2020.[11]
+
+## The Byrne discovery leak (2024)
+
+In March 2024, Dominion's defamation lawsuit against former Overstock.com chief executive [[patrick-byrne|Patrick Byrne]] descended into disarray after one of Byrne's attorneys, [[stephanie-lambert|Stephanie (Stefanie) Lambert]], leaked discovery material to law enforcement and others.[12] According to Dominion, Byrne had given Lambert a trove of confidential discovery documents; the company appeared to confirm the material's authenticity by notifying the presiding judge of the leak in a filing that Friday, and Lambert was subsequently arrested over the matter.[12]
+
+Lambert asserted that the leaked material consisted of email communications produced by Dominion in discovery — some written in Serbian and other foreign languages — with and from top-level Dominion employees "directing and tasking foreign nationals to remotely access voting machines utilized in the United States during the November 3, 2020 election."[12] She said the remote access took place while states were still counting votes and before certification, and that the emails indicated background checks had not been performed on the Serbian Dominion employees involved, leaving the United States without oversight of them or knowledge of any prior Serbian military experience.[12] Badlands writer [[ashe-in-america|Ashe in America]] noted the Michigan setting of the dispute and framed Lambert's arrest as punishment for handing evidence of a crime to law enforcement.[12]
+
 ## References
 1. Badlands Brief — "Conflicts, Cartels, & Clemency", URL: https://badlands.substack.com/p/badlands-brief-174
 2. Badlands Brief — "Elections are Fake; as is Trump's Friendship with Bibi", URL: https://badlands.substack.com/p/badlands-brief-25c
@@ -71,3 +83,5 @@ Badlands writer [[ashe-in-america|Ashe in America]] argued the admission matched
 8. Badlands Brief — "Badlands News Brief: Saudi Scoops, Slender Stabbers, & Scorned Scouts", URL: https://badlands.substack.com/p/badlands-news-brief-824
 9. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
 10. Badlands Brief — "Badlands News Brief: The Garbage Man Cometh to Take out the Trash", URL: https://badlands.substack.com/p/badlands-news-brief-aed
+11. Badlands Media — "Badlands News Brief: A Tucker, a Lemon and a Trump Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-bf6
+12. Badlands Brief — "Badlands News Brief: Weaponization, Willis, and World War III", URL: https://badlands.substack.com/p/badlands-news-brief-c1e

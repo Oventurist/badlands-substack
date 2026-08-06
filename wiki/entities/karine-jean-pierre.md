@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [white-house, press-secretary, biden-administration]
-sources: [raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-384.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-85c.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-ac7.md]
+sources: [raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-384.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-85c.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-ac7.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c50.md]
 confidence: medium
 ---
 
@@ -69,6 +69,14 @@ Following revelations that the [[justice-department|Justice Department]] had bur
 
 The press corps pressed her further, with one reporter noting that Kirby had declined to answer and asking whether it was unreasonable to ask if the president had been involved "in some sort of coercive conversation for a business dealing by his son."[12] Jean-Pierre repeatedly deflected and grew defensive, at one point snapping at a dissatisfied journalist: "It's not up to you how I answer the question."[12] Badlands writer [[ryan-delarme|Ryan DeLarme]] cited the exchange as evidence that the [[deep-state|Deep State]] was in panic and disarray.[12]
 
+## December 2023 remarks on Hunter Biden's statement
+
+On December 13, 2023, after [[hunter-biden|Hunter Biden]] defied a congressional subpoena and spoke outside the U.S. Capitol instead, White House press secretary Karine Jean-Pierre told reporters that President [[joe-biden|Joe Biden]] was "familiar with" what his son was going to say in his statement — a remark later cited by House Republicans in their December 27 request for [[white-house|White House]] records.[13]
+
+## Response to the White House cocaine discovery (July 2023)
+
+On Wednesday, July 5, 2023, as the [[united-states-secret-service|Secret Service]] confirmed that a powdery substance found in the West Wing over the July 4 weekend was cocaine, Jean-Pierre characterized the location — a West Wing lobby area where visitors and staff store their phones — as "a heavily traveled area" regularly accessed by both visitors and staff.[14] The framing was widely read as an effort to dilute speculation about which individuals had access to the space; see [[white-house-cocaine-incident|the White House cocaine incident]].[14]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Trump Indicted ... Again, and Other Stories!", URL: https://badlands.substack.com/p/badlands-news-brief-1cc
 2. Badlands Brief — "Badlands News Brief: Debates Set, Funding Found & NGO's Defied", URL: https://badlands.substack.com/p/badlands-news-brief-384
@@ -82,3 +90,5 @@ The press corps pressed her further, with one reporter noting that Kirby had dec
 10. Badlands Brief — "Sudden Independence & Legitimately Toxic Unity", URL: https://badlands.substack.com/p/badlands-news-brief-85c
 11. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
 12. Badlands Brief — "Whose Coup Is It Anyway? ... And Other Questions", URL: https://badlands.substack.com/p/badlands-news-brief-ac7
+13. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb
+14. Badlands Brief — "Badlands News Brief: The Cocaine White House, False Flags & Free Speech", URL: https://badlands.substack.com/p/badlands-news-brief-c50

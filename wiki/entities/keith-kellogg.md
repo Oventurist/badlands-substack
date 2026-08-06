@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [trump-administration, ukraine, diplomacy, envoy]
-sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-688.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-9ba.md, raw/badlands-news-brief-a9a.md, raw/badlands-news-brief-a82.md]
+sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-688.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-9ba.md, raw/badlands-news-brief-a9a.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-c44.md]
 confidence: medium
 ---
 
@@ -63,6 +63,12 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] read 
 
 In June 2024 Kellogg, a retired lieutenant general and one of [[donald-trump|Donald Trump]]'s national security advisers, co-authored with [[fred-fleitz|Fred Fleitz]] a plan to end Russia's war in Ukraine should Trump win the November 5 election.[7] Kellogg said in an interview that under the plan the United States would tell Ukraine it would receive further US weapons only if it entered peace talks, while simultaneously warning Moscow that refusal to negotiate would bring increased US support for Kyiv.[7] Both men had served as chiefs of staff in Trump's National Security Council during his 2017-2021 presidency, and their strategy — which envisioned a ceasefire along prevailing battle lines during talks — was described as the most detailed plan yet produced by Trump associates.[7]
 
+## Divisions over Witkoff and Moscow (April 2025)
+
+In April 2025 the Wall Street Journal reported that Kellogg, along with Secretary of State [[marco-rubio|Marco Rubio]], led a faction of the administration urging greater skepticism toward Moscow's stated interest in a peace settlement, while President [[donald-trump|Donald Trump]] sided with diplomatic aide [[steve-witkoff|Steve Witkoff]], who was seen as more trusting of the Kremlin.[8] After the missile strike on Sumy that Kiev said killed 34 civilians, Trump called the attack a "mistake" while Kellogg said it crossed "any line of decency."[8]
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] reported that Kellogg was said to be upset that Witkoff had been brought in to replace him in the negotiations with Russia, one of several grievances within the administration alongside those attributed to Rubio, National Security Advisor [[mike-waltz|Mike Waltz]] and Ambassador [[mike-huckabee|Mike Huckabee]].[8] He argued that Witkoff's businessman pragmatism was jarring to career officials accustomed to prolonging conflicts, and that Trump had deliberately assembled these rival figures.[8]
+
 ## References
 1. Badlands Brief — "A Meddling Musk & Sanctions for Soros", URL: https://badlands.substack.com/p/badlands-news-brief-048
 2. Badlands Brief — "Preemptive Pardons, Syrian Sanctions, & Preparations for Putin", URL: https://badlands.substack.com/p/badlands-news-brief-09e
@@ -71,3 +77,4 @@ In June 2024 Kellogg, a retired lieutenant general and one of [[donald-trump|Don
 5. Badlands News Brief — "Russian Concessions & Criminal Referrals", URL: https://badlands.substack.com/p/badlands-news-brief-9ba
 6. Badlands Brief - "Proxy Wars & The Prevention of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a9a
 7. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
+8. Badlands Brief — "Badlands News Brief: A British TERF Triumph & A Senator Snubbed in El Salvador", URL: https://badlands.substack.com/p/badlands-news-brief-c44

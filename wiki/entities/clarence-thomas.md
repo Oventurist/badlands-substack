@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [supreme-court, judiciary, voting-rights-act]
-sources: [raw/badlands-brief-6bf.md, raw/badlands-brief-fd9.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-862.md, raw/badlands-news-brief-8ba.md, raw/badlands-news-brief-acf.md, raw/badlands-news-brief-aac.md]
+sources: [raw/badlands-brief-6bf.md, raw/badlands-brief-fd9.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-862.md, raw/badlands-news-brief-8ba.md, raw/badlands-news-brief-acf.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-c9d.md]
 confidence: medium
 ---
 
@@ -47,6 +47,10 @@ Concerns about alleged ethical improprieties among the justices ignited in April
 
 In a concurring opinion to the Court's July 1, 2024 presidential-immunity decision in [[trump-v-united-states|Trump v. United States]], Thomas questioned whether Special Counsel [[jack-smith|Jack Smith]] — appointed by Attorney General [[merrick-garland|Merrick Garland]] — possessed actual authority to prosecute [[donald-trump|Donald Trump]].[8] Badlands contributor [[ashe-in-america|Ashe in America]] described the concurrence as Thomas "dunking on" Garland and Smith and judged it likely that Smith indeed lacked such authority.[8]
 
+## Garland v. Cargill majority opinion (2024)
+
+Thomas authored the majority opinion in [[garland-v-cargill|Garland v. Cargill]], decided 6–3 on June 14, 2024, invalidating the [[bureau-of-alcohol-tobacco-firearms-and-explosives|ATF]] rule that classified bump stocks as machineguns.[9] He wrote that Congress has long restricted access to machineguns, a category defined by the ability to "shoot, automatically more than one shot . . . by a single function of the trigger," and that semiautomatic firearms requiring shooters to reengage the trigger for every shot are not machineguns.[9] Concluding that a [[bump-stock-ban|bump stock]] does not convert a semiautomatic rifle into a machinegun, Thomas held that the agency had exceeded its statutory authority under §5845(b).[9]
+
 ## References
 1. Badlands Brief — "SCOTUS: You Can Be Neither Racist Nor Unilaterally Murdery", URL: https://badlands.substack.com/p/badlands-brief-6bf
 2. Badlands Brief — "Bicameral Courts, Congressional Creeps & Curious Cartels", URL: https://badlands.substack.com/p/badlands-brief-fd9
@@ -56,3 +60,4 @@ In a concurring opinion to the Court's July 1, 2024 presidential-immunity decisi
 6. Badlands Brief — "Badlands News Brief: Netanyahu & Zelenskyy Beg Biden as Exposure Continues", URL: https://badlands.substack.com/p/badlands-news-brief-8ba
 7. Badlands Brief — "Badlands News Brief: China Joe Takes the Stage as Trump's Power Grows", URL: https://badlands.substack.com/p/badlands-news-brief-acf
 8. Badlands Brief — "Badlands News Brief: Wins at Home and Deals Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-aac
+9. Badlands Brief — "Biden Wanders, Putin Ponders & Ukraine Launders", URL: https://badlands.substack.com/p/badlands-news-brief-c9d

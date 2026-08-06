@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [defense, trump-administration, pentagon, industrial-base]
-sources: [raw/badlands-brief-311.md, raw/badlands-brief-52f.md, raw/badlands-brief-5ba.md, raw/badlands-brief-67a.md, raw/badlands-brief-686.md, raw/badlands-brief-708.md, raw/badlands-brief-774.md, raw/badlands-brief-d17.md, raw/badlands-brief-e8d.md, raw/badlands-brief-e9e.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-433.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-592.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-763.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-ac6.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b24.md]
+sources: [raw/badlands-brief-311.md, raw/badlands-brief-52f.md, raw/badlands-brief-5ba.md, raw/badlands-brief-67a.md, raw/badlands-brief-686.md, raw/badlands-brief-708.md, raw/badlands-brief-774.md, raw/badlands-brief-d17.md, raw/badlands-brief-e8d.md, raw/badlands-brief-e9e.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-433.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-592.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-763.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-ac6.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b24.md, raw/badlands-news-brief-bd7.md]
 confidence: medium
 ---
 
@@ -168,6 +168,11 @@ Pete Hegseth's hearing to become Secretary of Defense was the first of the secon
 
 In 2025, Hegseth announced the creation of a new Department of Defense task force to counter drone threats and keep U.S. airspace safe, saying the department wanted to address a growing threat and improve protection of people and equipment at home and overseas.[34] "We're moving fast – cutting through bureaucracy, consolidating resources, and empowering this task force with the utmost authority to outpace our adversaries," he said. "We will innovate, we will lead and we will win."[34] He directed Secretary of the Army [[dan-driscoll|Dan Driscoll]] to establish [[joint-interagency-task-force-401|Joint Interagency Task Force 401]], which a [[pentagon|Pentagon]] memo said would gather top talent from across agencies to address the threat posed by unmanned aircraft systems.[34]
 
+
+## Follow-up strike controversy (December 2025)
+
+At a cabinet meeting on Tuesday, December 2, 2025, President [[donald-trump|Donald Trump]] defended War Secretary Hegseth amid heavy scrutiny of the administration's conduct in the campaign against alleged drug-trafficking boats in the Caribbean, which had killed more than 80 people.[35] Trump said that neither he nor Hegseth had known in advance about the second strike on a suspected drug vessel — a follow-up attack carried out by the U.S. military on September 2 after an initial strike did not kill everyone on board.[35]
+
 ## References
 
 1. Badlands Brief — "Massie Faces Massive Loss as Zionists Get Twitchy", URL: https://badlands.substack.com/p/badlands-brief-311
@@ -204,3 +209,4 @@ In 2025, Hegseth announced the creation of a new Department of Defense task forc
 32. Badlands Brief — "Badlands News Brief: Epsteinian Psyops, Mortgage Madness and Caribbean Chaos", URL: https://badlands.substack.com/p/badlands-news-brief-ac6
 33. Badlands News Brief — "Contentious Confirmations & Conflicted Special Counsels", URL: https://badlands.substack.com/p/badlands-news-brief-b02
 34. Badlands Brief — "Badlands News Brief: A Curious Car Crash, Covid Case Rates, & A Culture of Panic and Dread", URL: https://badlands.substack.com/p/badlands-news-brief-b24
+35. Badlands Brief — "Bogus Visas, Brazilian Sanctions, and Foreign Boat Battles", URL: https://badlands.substack.com/p/badlands-news-brief-bd7

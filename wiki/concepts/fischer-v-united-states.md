@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [supreme-court, january-6, obstruction, litigation]
-sources: [raw/badlands-news-brief-06d.md, raw/badlands-news-brief-2b8.md, raw/badlands-news-brief-505.md]
+sources: [raw/badlands-news-brief-06d.md, raw/badlands-news-brief-2b8.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-c0b.md]
 confidence: medium
 ---
 
@@ -34,8 +34,15 @@ The interpretive fight centers on the word "otherwise." Nearly every judge overs
 
 The statute had been invoked against roughly 327 Capitol riot defendants and against Donald Trump himself.[3] Badlands commentary argued that if the Court found the law misapplied, the result would be "a tidal wave of convictions being overturned and indictments being thrown out," including two of the four counts in Jack Smith's indictments, and suggested the case might vindicate Trump's judicial appointments and explain sustained left-wing attacks on conservative justices such as Clarence Thomas.[3] Commentators also drew a pointed comparison to Representative Jamaal Bowman's pulling of a Capitol fire alarm to delay a vote, asking why that conduct would not fall under the same provision.[3]
 
+## Oral argument, April 16, 2024
+
+The [[supreme-court-of-the-united-states|Supreme Court]] heard oral argument in Fischer v. United States on Tuesday, April 16, 2024, and appeared divided over whether the federal government had properly charged hundreds of alleged January 6 rioters with felony obstruction, with several justices voicing concern that prosecutors' broad reading of a financial-crimes law could be weaponized against political protest.[4] The case, brought by a former Pennsylvania police officer facing charges for his alleged conduct at the Capitol in 2021, could upend the convictions and sentences of more than 300 defendants and potentially invalidate two of the four charges special counsel [[jack-smith|Jack Smith]] brought against former President [[donald-trump|Donald Trump]].[4] At issue was whether the [[sarbanes-oxley-act|Sarbanes-Oxley Act of 2002]], enacted after the Enron scandal to prevent destruction of evidence in financial crimes, could be applied to the events of January 6, 2021, which disrupted congressional certification of the 2020 electoral votes.[4]
+
+[[ashe-in-america|Ashe in America]] reported that the petitioner asked the Court to find the government erred in charging January 6 defendants under 18 U.S. Code § 1512(c)(2), noting that the statute addresses tampering with a witness, victim or informant, that subsection (c) deals with evidence and other obstruction, and that other sections of § 1512 concern killing or coercing witnesses; legal analysts, she wrote, had long challenged the use of the provision against mostly peaceful protesters.[4] She covered the argument for [[badlands-media|Badlands Media]] alongside [[brad-cologero-getz|Brad Cologero Getz]], and the two highlighted a potential "boomerang": because the [[january-6-committee|January 6 Committee]] itself destroyed records in a way that could obstruct incoming House GOP investigations, the Biden Justice Department may have inadvertently made the case for charging committee members under both prongs of 18 U.S.C. § 1512(c).[4]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Devolution Proofs Abroad and White Pills in the Chaos", URL: https://badlands.substack.com/p/badlands-news-brief-06d
 2. Badlands Brief — "Badlands News Brief: Congress Limps Along as the Nation Grits Its Teeth", URL: https://badlands.substack.com/p/badlands-news-brief-2b8
 3. Badlands Media — "Badlands News Brief: The Biden Crime Family Begins to Unravel ...", URL: https://badlands.substack.com/p/badlands-news-brief-505
+4. Badlands Brief — "Badlands News Brief: Jurors Judged, Faces Saved & Memes Made", URL: https://badlands.substack.com/p/badlands-news-brief-c0b

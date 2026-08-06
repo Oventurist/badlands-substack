@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [white-house, chain-of-command, benghazi]
-sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-143.md, raw/badlands-brief-05f.md, raw/badlands-brief-169.md, raw/badlands-brief-559.md, raw/badlands-brief-6f4.md, raw/badlands-brief-6f0.md, raw/badlands-brief-708.md, raw/badlands-brief-b56.md, raw/badlands-brief-f62.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8d8.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-bd2.md]
+sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-143.md, raw/badlands-brief-05f.md, raw/badlands-brief-169.md, raw/badlands-brief-559.md, raw/badlands-brief-6f4.md, raw/badlands-brief-6f0.md, raw/badlands-brief-708.md, raw/badlands-brief-b56.md, raw/badlands-brief-f62.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8d8.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-bfb.md]
 confidence: medium
 ---
 
@@ -186,6 +186,10 @@ In September 2025 the White House unveiled a "Presidential Walk of Fame" near th
 
 In the same period the White House budget office instructed federal agencies to prepare reduction-in-force plans for mass firings during a possible government shutdown, targeting employees in programs not legally required to continue.[35] Press secretary [[karoline-leavitt|Karoline Leavitt]] separately amplified an article alleging that jokes had circulated about stopping a United Nations escalator before Trump's arrival, writing that anyone who intentionally stopped it "need to be fired and investigated immediately."[35] A White House staffer was reported to have been operating the teleprompter during Trump's General Assembly speech.[35]
 
+## December 2023 congressional document request
+
+On December 27, 2023, the Republican leaders of the [[house-oversight-committee|House Oversight]] and [[house-judiciary-committee|Judiciary]] Committees asked the White House to turn over information about President [[joe-biden|Joe Biden]]'s alleged involvement in his son [[hunter-biden|Hunter Biden]]'s decision not to comply with a congressional subpoena.[36] The letter was addressed to White House counsel Edward Siskel and sought communications between Executive Office of the President staff and Hunter Biden or his lawyers.[36] Press secretary [[karine-jean-pierre|Karine Jean-Pierre]] had told reporters that the president was "familiar with" what his son planned to say in his December 13 statement.[36]
+
 ## References
 1. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
 2. Badlands Brief — "All the Classic Earmarks of Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-143
@@ -222,3 +226,4 @@ In the same period the White House budget office instructed federal agencies to 
 33. Badlands Brief — "Badlands News Brief: Black Hat Nightmares & A Camelback Caravan of Confirmation", URL: https://badlands.substack.com/p/badlands-news-brief-a64
 34. Badlands Brief — "Badlands News Brief: The Garbage Man Cometh to Take out the Trash", URL: https://badlands.substack.com/p/badlands-news-brief-aed
 35. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2
+36. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb

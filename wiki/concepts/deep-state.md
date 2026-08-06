@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [deep-state, narrative, censorship, 5gw]
-sources: [raw/5gw-counter-offensive-the-censorship.md, raw/a-startling-contradiction-at-the.md, raw/are-jack-smith-and-fani-willis-in.md, raw/are-we-being-distracted.md, raw/avoiding-wwiii.md, raw/badlands-blitz-episode-25.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-42e.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/a-startling-contradiction-at-the.md, raw/are-jack-smith-and-fani-willis-in.md, raw/are-we-being-distracted.md, raw/avoiding-wwiii.md, raw/badlands-blitz-episode-25.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-cb9.md]
 confidence: medium
 ---
 
@@ -63,6 +63,18 @@ Badlands writer [[burning-bright|Burning Bright]] describes the [[limited-hangou
 
 In the wake of [[joe-biden|Joe Biden]]'s withdrawal from the 2024 race, [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that a stolen election could serve to trigger a public mandate for election integrity and retribution against the Deep State, while [[burning-bright|Burning Bright]] wrote that [[donald-trump|Donald Trump]] had used [[hillary-clinton|Hillary Clinton]] as "his first cypher to expose the Deep State to the American people" before spending his first term absorbing establishment attacks.[9] Burning Bright also described [[volodymyr-zelensky|Volodymyr Zelensky]]'s specialties as including "losing Deep State money & weapons," and characterized 2024 cyber doom-mongering as the Deep State "planting the seeds for an election steal via a false flag cyber attack."[9]
 
+## The "System of Systems"
+
+In December 2023 Badlands contributor [[burning-bright|Burning Bright]], writing on [[jon-herold|Jon Herold]]'s feature "The Illusion of Democracy," described the Deep State as a "System of Systems" composed of four interlocking arms: an administrative arm that originates policy, a clandestine arm that obfuscates, a narrative arm that defends, and a legal arm that prosecutes.[10] He argued that Herold's use of the [[ctil-files|CTIL files]] — and his tracing of who ran the relevant agencies across the Obama-to-Trump and Trump-to-Biden transitions — rendered that structure "more stark and clear than it is in this time."[10]
+
+## Badlands framings, March 2023
+
+In the March 21, 2023 [[badlands-news-brief|Badlands News Brief]], [[burning-bright|Burning Bright]] argued that whatever COVID ultimately was — a virus, a bioweapon or a PsyOp — its net effects were catastrophic to the world and Deep State elements were responsible, and that being forced to declassify material it had previously withheld indicated the Deep State was losing ground in the Mind War.[11] In the same issue [[justin-deschamps|Justin Deschamps]] wrote that the premise that [[xi-jinping|Xi Jinping]] and [[vladimir-putin|Vladimir Putin]] were cooperating in a global white hat sting operation against the Deep State had not been invalidated, arguing the globalist agenda requires pandemics, superpower wars and collapses in food, energy and finance that a Sino-Russian bloc could refuse to participate in.[11]
+
+## Badlands framings, March 2023
+
+In the March 21, 2023 [[badlands-news-brief|Badlands News Brief]], [[burning-bright|Burning Bright]] argued that whatever COVID ultimately was — a virus, a bioweapon or a PsyOp — its net effects were catastrophic to the world and Deep State elements were responsible, and that being forced to declassify material it had previously withheld indicated the Deep State was losing ground in the Mind War.[11] In the same issue [[justin-deschamps|Justin Deschamps]] wrote that the premise that [[xi-jinping|Xi Jinping]] and [[vladimir-putin|Vladimir Putin]] were cooperating in a global white hat sting operation against the Deep State had not been invalidated, arguing the globalist agenda requires pandemics, superpower wars and collapses in food, energy and finance that a Sino-Russian bloc could refuse to participate in.[11]
+
 ## References
 1. Badlands Brief — "5GW Counter-Offensive - The Censorship Regime and the Road to 2024", URL: https://badlands.substack.com/p/5gw-counter-offensive-the-censorship
 2. Badlands Brief — "A Startling Contradiction at the Heart of 'Our' Legal System", URL: https://badlands.substack.com/p/a-startling-contradiction-at-the
@@ -73,3 +85,5 @@ In the wake of [[joe-biden|Joe Biden]]'s withdrawal from the 2024 race, [[ghosto
 7. Badlands Brief — "Preemptive Pardons, Syrian Sanctions, & Preparations for Putin", URL: https://badlands.substack.com/p/badlands-news-brief-09e
 8. Badlands Brief — "Badlands News Brief: Hypocrisy Roundup & Rug-pulls Galore", URL: https://badlands.substack.com/p/badlands-news-brief-378
 9. Badlands Brief — "Badlands News Brief: Change of Batter, Indeed …", URL: https://badlands.substack.com/p/badlands-news-brief-42e
+10. Badlands Brief — "Badlands News Brief: The System of Systems is a House of Cards", URL: https://badlands.substack.com/p/badlands-news-brief-cce
+11. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9

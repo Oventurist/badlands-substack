@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [new-york-city, mayor, icc, netanyahu, politics]
-sources: [raw/badlands-brief-245.md, raw/badlands-brief-a89.md, raw/badlands-brief-8db.md, raw/badlands-brief-e8d.md, raw/badlands-brief.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-a31.md]
+sources: [raw/badlands-brief-245.md, raw/badlands-brief-a89.md, raw/badlands-brief-8db.md, raw/badlands-brief-e8d.md, raw/badlands-brief.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-d1d.md]
 confidence: medium
 ---
 
@@ -102,6 +102,18 @@ In an interview aired Tuesday, November 11, 2025, Mamdani said he intended to ho
 
 In an August 7, 2025 editorial urging President [[donald-trump|Donald Trump]] to endorse Mayor [[eric-adams|Eric Adams]] for re-election, the [[new-york-post|New York Post]] editorial board described Mamdani as a socialist and "defund the police" activist who would reverse the city's public-safety gains.[14] The board argued he would hobble the [[new-york-city-police-department|NYPD]], drive away businesses and make the streets unsafe, concluding that "Mamdani must be stopped."[14] The editorial cited the lowest number of shootings on record for the first half of 2025 as progress it said was at risk.[14]
 
+## White House meeting with Trump (November 2025)
+
+On Friday, November 21, 2025, Mamdani met President [[donald-trump|Donald Trump]] in the Oval Office, and the two men appeared to set aside their differences in what CBS News called a remarkable scene, saying afterward that they looked forward to working together after months of bruising public criticism.[15] Speaking to reporters, both described a productive conversation focused mostly on improving New York; "the better he does, the happier I am," Trump said, while Mamdani, who takes office on January 1, said he was "really looking forward to delivering for New Yorkers in partnership with the president on the affordability agenda."[15] Trump added that "some of his ideas are really the same ideas that I have" and that "we agree on a lot more than I would have thought. I want him to do a great job, and we'll help him do a great job."[15] The tone contrasted sharply with months of hostility, during which Trump — a native New Yorker — had opposed Mamdani's campaign, threatened to arrest and deport him, and repeatedly called him a communist, while Mamdani accused the president of acting like a "despot."[15]
+
+Badlands commentators used the meeting as a lens on political theater. [[jon-herold|Jon Herold]] observed that the news cycle was telling audiences Trump had a better relationship with a communist than with [[marjorie-taylor-greene|Marjorie Taylor Greene]], whom Trump had labeled a traitor.[15] [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] tied the meeting to his framing of [[kayfabe|kayfabe]] and the information battlespace, arguing that most public figures respond continuously to an incentive structure and that the real question is who controls that structure.[15] He cautioned against dismissing a figure merely because their branding is an identity audiences have been trained to hate, noted that he had predicted Mamdani's primary victory because he was the only true populist in the field, and remarked on the irony that Mamdani's most contested position concerns Israel in a city with one of the world's largest Jewish populations.[15]
+
+## Democratic mayoral primary victory (June 2025)
+
+As first-choice votes were tallied in the New York City Democratic mayoral primary held in June 2025, Mamdani, then a state assemblyman, led the field ahead of former New York Governor [[andrew-cuomo|Andrew Cuomo]], who declared his rival the winner even though no candidate was set to secure a majority in the first round of the [[ranked-choice-voting|ranked choice]] election.[16] Mamdani had surged in the race's final weeks while touting a progressive vision for the city that included rent freezes, city-run grocery stores, price caps, and free city buses.[16] He boosted his appeal with energetic direct-to-camera videos and gestures such as spending a weekend night before Election Day walking the length of Manhattan, stopping to chat with voters and record clips along the way, and he won the backing of prominent liberal politicians in the city as the flag-bearer of a unified progressive effort aimed at denying Cuomo a political comeback.[16]
+
+Badlands contributor [[chris-paul|Chris Paul]] dismissed the result as a "Muslim socialist wins fake election decided in comic fashion against Andrew Cuomo," calling the outcome "hilarious."[16]
+
 ## References
 
 1. Badlands Brief — "Trump Roasts The Press; Teases 2028 Run", URL: https://badlands.substack.com/p/badlands-brief-245
@@ -118,3 +130,5 @@ In an August 7, 2025 editorial urging President [[donald-trump|Donald Trump]] to
 12. Badlands Brief — "Fusion Mergers & Fusion-Adjacent Murders", URL: https://badlands.substack.com/p/badlands-news-brief-60c
 13. Badlands Brief — "Badlands News Brief: MAGA Cracks, Fund Funnels, & Devilish Bees", URL: https://badlands.substack.com/p/badlands-news-brief-817
 14. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
+15. Badlands Brief — "Badlands News Brief: Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f
+16. Badlands News Brief — "N-Words, F-Bombs, & Big Balls' Future", URL: https://badlands.substack.com/p/badlands-news-brief-d1d

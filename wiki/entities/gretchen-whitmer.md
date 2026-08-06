@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [michigan, governor, democrats, 2020-election, trump-administration]
-sources: [raw/badlands-news-brief-02a.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-86f.md]
+sources: [raw/badlands-news-brief-02a.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-c50.md]
 confidence: medium
 ---
 
@@ -52,6 +52,10 @@ The previous month Whitmer had announced she would not join the alliance of anti
 
 Badlands contributor [[ashe-in-america|Ashe in America]] paraphrased the shift as "Sorry about that whole Nazi thing, but we should look to the future now, right?", calling Whitmer "one of the worst offenders of weaponized government and regime elitism" and arguing that Democratic authoritarians were tacking back in the hope that voters would forget their conduct under emergency powers.[8] She framed the response as a matter of memory and accountability, writing that "accountability is a requirement for the future of public trust" and that such figures "can't outmaneuver the justice phase, because justice is not political."[8]
 
+## Cited as a cautionary example on emergency powers
+
+In July 2023, The Gateway Pundit invoked Whitmer's record while criticizing a [[united-nations|United Nations]] proposal to acquire "global emergency" powers, writing that Americans should "remember what happened here in the U.S. when tyrannical governors like Gretchen Whitmer of Michigan got their hands on emergency powers," and that "almost all of the bad things came out of that and they didn't want to let them go."[9]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: World Wealth Whiplash & The Most Secure Memorandum in History", URL: https://badlands.substack.com/p/badlands-news-brief-02a
 2. Badlands News Brief — "Lawsuits Can Be Very Effective ...", URL: https://badlands.substack.com/p/badlands-news-brief-051
@@ -61,3 +65,4 @@ Badlands contributor [[ashe-in-america|Ashe in America]] paraphrased the shift a
 6. Badlands Brief — "Badlands News Brief: Kennedy Assassins, Justice Wins & More", URL: https://badlands.substack.com/p/badlands-news-brief-627
 7. Badlands Brief — "Trumpian Trials, Proxy State Shenanigans & Vax Backtracks", URL: https://badlands.substack.com/p/badlands-news-brief-6c1
 8. Badlands News Brief — "Media Apologies, Fake & Gay Drones and Trump Appointments", URL: https://badlands.substack.com/p/badlands-news-brief-86f
+9. Badlands Brief — "Badlands News Brief: The Cocaine White House, False Flags & Free Speech", URL: https://badlands.substack.com/p/badlands-news-brief-c50

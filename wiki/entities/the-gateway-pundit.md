@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, citizen-journalism, election-integrity]
-sources: [raw/badlands-brief-e9e.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-7ad.md]
+sources: [raw/badlands-brief-e9e.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-c9a.md]
 confidence: low
 ---
 
@@ -42,6 +42,10 @@ In March 2024 The Gateway Pundit carried independent journalist [[lara-logan|Lar
 
 In June 2023, The Gateway Pundit reported that [[dc-draino|DC Draino]] had tweeted a signed letter from President [[donald-trump|Donald Trump]] dated January 19, 2021, the day before he left office, declassifying all of the [[crossfire-hurricane|Crossfire Hurricane]] documents.[7] The outlet framed the letter as explaining why the [[fbi|FBI]] raided Mar-a-Lago, describing the documents as proof that [[barack-obama|Barack Obama]], [[james-comey|James Comey]], [[john-brennan|John Brennan]], [[james-clapper|James Clapper]], the [[cia|CIA]], the [[state-department|State Department]] and the Deep State had spied on Trump.[7]
 
+## Reporting on January 6 undercover operatives
+
+In April 2023, [[the-gateway-pundit|The Gateway Pundit]] reported that court documents revealed the Biden [[department-of-justice|Department of Justice]] admitting to at least 40 undercover operatives with the Proud Boys on January 6, 2021 — a disclosure central to the [[fedsurrection|"Fedsurrection"]] thesis.[8] Badlands writer [[ryan-delarme|Ryan DeLarme]] described 40 government confidential human source agents undercover that day in addition to 40 undercover operatives and 8 informants inside the group, with further assets within the [[oath-keepers|Oath Keepers]], putting the confirmed total near 100 excluding non-federal anarchist provocateurs.[8]
+
 ## References
 
 1. Badlands Brief — "Earned Deportations, Irish Knife Fights, & the Eventual "Liberation" of Jerusalem", URL: https://badlands.substack.com/p/badlands-brief-e9e
@@ -51,3 +55,4 @@ In June 2023, The Gateway Pundit reported that [[dc-draino|DC Draino]] had tweet
 5. Badlands Brief — "Badlands News Brief: Gheyliens, Ukrainian Nazis & Post Office Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-423
 6. Badlands Brief — "Badlands News Brief: Dali, Diddy & DJT", URL: https://badlands.substack.com/p/badlands-news-brief-491
 7. Badlands Brief — "The Wall Are Closing in Again! (And Other Stories)", URL: https://badlands.substack.com/p/badlands-news-brief-7ad
+8. Badlands Brief — "Badlands News Brief: The France Dance, Crime & J6 Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-c9a

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [artificial-intelligence, llm, openai, censorship]
-sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-02a.md, raw/badlands-news-brief-8f9.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-02a.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-bfb.md]
 confidence: medium
 ---
 
@@ -40,8 +40,13 @@ In February 2023, Summit News reported an example of apparent political asymmetr
 
 Writing in the [[badlands-news-brief|Badlands News Brief]], [[justin-deschamps|Justin Deschamps]] argued the episode disproved the programmers' claim that the bot carried no bias, and said it confirmed the bias of big tech — quietly revealing the AI future sought by the [[world-economic-forum|World Economic Forum]] and its futurist technocrat globalists.[4] He further argued that marketing the bot as a personification of all human knowledge, an all-knowing entity able to answer every question, associates it with a demigod-like messiah figure cast as the fabled ruler of the New World Order.[4] Deschamps questioned whether materialistic atheists who do not understand consciousness or the origin of intelligence, and who dismiss a transcendent source of personality, are capable of producing AI at all, and concluded that what is called artificial intelligence is "fancy mimicry by a machine that has more in common with a toaster than it does a human being" — while cautioning that the "Pinocchio-like being" and its power should not be disregarded.[4]
 
+## New York Times lawsuit (December 2023)
+
+[[new-york-times|The New York Times]] sued [[openai|OpenAI]], the company behind ChatGPT, and [[microsoft|Microsoft]] on December 27, 2023, alleging that their AI systems "exploit and, in many cases, retain large portions of the copyrightable expression" contained in the newspaper's works.[5] See [[new-york-times-v-microsoft-and-openai|New York Times v. Microsoft and OpenAI]].[5]
+
 ## References
 1. Badlands Brief — "AI Can Help Us Expose the NWO", URL: https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo
 2. Badlands Brief — "Artificial Intelligence", URL: https://badlands.substack.com/p/artificial-intelligence
 3. Badlands Brief — "Arctic Escalation and Tropic Trouble for the Financial System", URL: https://badlands.substack.com/p/badlands-brief-02a
 4. Badlands News Brief — "Deflated Balloons, Sketchy AI & Democrat Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-8f9
+5. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb

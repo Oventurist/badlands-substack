@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [republican-party, house-of-representatives, commentator, georgia]
-sources: [raw/badlands-news-brief-61a.md]
+sources: [raw/badlands-news-brief-61a.md, raw/badlands-news-brief-cad.md]
 confidence: medium
 ---
 
@@ -22,6 +22,11 @@ Gingrich called the invitation alone a "tremendous move," and added, "I think th
 
 Trump had extended the invitation to Xi shortly after defeating Vice President Kamala Harris in November 2024, though it was not clear whether the Chinese leader had accepted.[1] The transition team also raised the possibility of other world leaders attending, including Hungarian Prime Minister Viktor Orbán.[1] Trump had frequently touted his relationship with Xi even while planning hefty tariffs on China — a 10 percent levy on all Chinese goods on top of existing first-term tariffs — and threatening new tariffs on Canada and Mexico on his first day in office.[1] The two leaders had met before, including when Trump hosted Xi at his Mar-a-Lago estate in 2017.[1]
 
+## Reaction to Trump's December 2025 address
+
+Gingrich, appearing on Fox News after President [[donald-trump|Donald Trump]]'s roughly 18-minute primetime address of December 17, 2025, called it "one of the most important" speeches of Trump's career.[2] The assessment drew mockery from political analysts on social media: former GOP speechwriter Tim Miller wrote that he "used to go to meetings with people who swore that Newt was one of the GOP's deepest thinkers," while writer Peter Rothpletz asked, "What is Newt smokin' and can I have some?"[2]
+
 ## References
 
 1. Badlands Brief — "It Was the Trumpest of TIMEs ...", URL: https://badlands.substack.com/p/badlands-news-brief-61a
+2. Badlands Brief — "A Christmas Bonus, War “With” Venezuela, & Prime Time Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-cad

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [department-of-justice, drug-policy, trump-administration]
-sources: [raw/badlands-brief-0fb.md, raw/badlands-brief-195.md, raw/badlands-brief-169.md, raw/badlands-brief-314.md, raw/badlands-brief-509.md, raw/badlands-brief-579.md, raw/badlands-brief-6bf.md, raw/badlands-brief-618.md, raw/badlands-brief-6f0.md, raw/badlands-brief-707.md, raw/badlands-brief-95a.md, raw/badlands-brief-a6b.md, raw/badlands-brief-a89.md, raw/badlands-brief-c91.md, raw/badlands-brief-cd8.md, raw/badlands-brief-cfa.md, raw/badlands-brief-d1a.md, raw/badlands-brief-e60.md, raw/badlands-brief-e3f.md, raw/badlands-brief-e9e.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8a4.md]
+sources: [raw/badlands-brief-0fb.md, raw/badlands-brief-195.md, raw/badlands-brief-169.md, raw/badlands-brief-314.md, raw/badlands-brief-509.md, raw/badlands-brief-579.md, raw/badlands-brief-6bf.md, raw/badlands-brief-618.md, raw/badlands-brief-6f0.md, raw/badlands-brief-707.md, raw/badlands-brief-95a.md, raw/badlands-brief-a6b.md, raw/badlands-brief-a89.md, raw/badlands-brief-c91.md, raw/badlands-brief-cd8.md, raw/badlands-brief-cfa.md, raw/badlands-brief-d1a.md, raw/badlands-brief-e60.md, raw/badlands-brief-e3f.md, raw/badlands-brief-e9e.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8a4.md, raw/badlands-news-brief-c14.md]
 confidence: medium
 ---
 
@@ -115,6 +115,14 @@ In November 2025 the Office of the Deputy Attorney General, led by Blanche, aske
 
 Badlands contributor [[ashe-in-america|Ashe in America]] observed that Blanche was not advancing a specific legal argument but surveying available avenues, and notably was not describing Peters as a federal election whistleblower — an argument she considered legally weak — while suggesting the [[weaponization-of-government|weaponization of government]] theory offered the strongest path.[23]
 
+## Acting Librarian of Congress (2025)
+
+On Monday, May 12, 2025, the Justice Department announced that Blanche — then Deputy Attorney General, and the lawyer who had represented [[donald-trump|Donald Trump]] during his 2024 criminal trial — had been appointed acting Librarian of Congress.[24] He replaced longtime librarian [[carla-hayden|Carla Hayden]], whom the White House had fired the previous week amid conservative criticism that she was advancing a "woke" agenda.[24]
+
+Senate Majority Leader [[john-thune|John Thune]] told reporters that lawmakers were investigating whether Trump has the power to fire the Librarian of Congress, who is technically a legislative branch employee, saying, "We want to make sure congressional equities are respected and protected in this process."[24] Reporting noted the appointment could be far-reaching: a congressional aide speaking anonymously said the librarian could see requests made by lawmakers to the [[congressional-research-service|Congressional Research Service]], which are ordinarily visible only to the requesting office and the CRS itself.[24]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] remarked that she had never cared about the Librarian of Congress until Senate Republicans became concerned about Trump appointing a loyalist, and wondered whether Blanche might find "Cíbola – or maybe something even cooler, like prosecutable evidence of government corruption."[24]
+
 ## References
 1. Badlands Brief — "Time is on Trump's Side ... But Which Regime is he Fighting?", URL: https://badlands.substack.com/p/badlands-brief-0fb
 2. Badlands Brief — "Crypto Smears, Professional Plotlines, & Meat Probes", URL: https://badlands.substack.com/p/badlands-brief-195
@@ -139,3 +147,4 @@ Badlands contributor [[ashe-in-america|Ashe in America]] observed that Blanche w
 21. Badlands Brief — "Badlands News Brief: Non-Binding Motions & Psycho-Emotional Problems", URL: https://badlands.substack.com/p/badlands-news-brief-3ab
 22. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
 23. Badlands Brief — "Embrace Disruption, Point Fingers, & Explore Any and All Options", URL: https://badlands.substack.com/p/badlands-news-brief-8a4
+24. Badlands Brief — "Badlands News Brief: Overreach, Obstruction, & Our Boy Blue", URL: https://badlands.substack.com/p/badlands-news-brief-c14

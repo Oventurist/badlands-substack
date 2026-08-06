@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [impeachment, congress, biden-family, oversight]
-sources: [raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-743.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-b2b.md, raw/badlands-news-brief-bbb.md]
+sources: [raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-743.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-b2b.md, raw/badlands-news-brief-bbb.md, raw/badlands-news-brief-c0b.md, raw/badlands-news-brief-ccd.md]
 confidence: medium
 ---
 
@@ -68,6 +68,18 @@ House Ways and Means Chairman [[jason-smith|Jason Smith]] told Breitbart News in
 
 [[burning-bright|Burning Bright]] argued that events under the Biden administration were slotting into templates set during the Trump administration — that observers were, as [[chris-paul|Chris Paul]] put it, watching "reruns," the latest being the impeachment inquiry itself.[8] More than the legal and political precedents such deployments set, he wrote, the narratives would prove most useful as engineered drama played out before the American mind, adding that those who "cheered during the initial salvo" were "not having as much fun in the Year of the Boomerang."[8]
 
+## White House declaration that the inquiry is "over"
+
+In April 2024 the [[white-house|White House]] formally declined an invitation from House Oversight Committee Chairman [[james-comer|James Comer]] for President [[joe-biden|Joe Biden]] to testify in connection with the business dealings of his son [[hunter-biden|Hunter Biden]].[9] In a letter to Comer dated Monday, April 15, 2024, [[richard-sauber|Richard Sauber]], special counsel to the president, wrote: "As our Office has demonstrated, and you acknowledged in a recent fundraising email, your impeachment investigation is over," adding that it was "past time for the House to focus on the issues that matter to the American people rather than continuing to waste time and taxpayer resources on this partisan charade."[9]
+
+Sauber asserted that the [[house-oversight-committee|House Oversight Committee]]'s inquiry "has succeeded only in turning up abundant evidence that, in fact, the President has done nothing wrong," and charged that Comer's March 28, 2024 letter repeated "the same litany of false allegations that have been repeatedly debunked and refuted by the very witnesses you have called before your Committee."[9] He concluded that Comer's insistence on peddling the allegations made "one thing about your investigation abundantly clear: The facts do not matter to you."[9]
+
+## Final House GOP report (August 2024)
+
+In August 2024, House Republicans concluded their months-long inquiry with a 292-page report — prepared by the [[house-oversight-committee|House Oversight Committee]], the House Judiciary Committee and the House Ways and Means Committee, and obtained by Fox News Digital — finding that President [[joe-biden|Joe Biden]] had engaged in "impeachable conduct," "abused his office" and "defrauded the United States to enrich his family."[10] The report stated that the committees had "accumulated evidence demonstrating that President Biden has engaged in impeachable conduct," and Republicans said there was "overwhelming evidence" that Biden participated in a "conspiracy to monetize his office of public trust to enrich his family."[10] They alleged that the Biden family and their business associates received tens of millions of dollars from foreign interests by "leading those interests to believe that such payments would provide them access to and influence with President Biden."[10]
+
+Writing in the [[badlands-news-brief|Badlands News Brief]], [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] used the report to argue against indulging cynicism while remaining sober about the work ahead, framing the immediate task as "smoking out the enemy" so that networks could be traced and misdeeds exposed.[10] He questioned whether the current Republican roster contained real fighters rather than practitioners of the blustering and bloviating he recalled from the first Trump administration, and raised the possibility that some members of Congress were being blackmailed, citing the [[jeffrey-epstein|Jeffrey Epstein]] scandal.[10] His closing question was whether the report amounted to another sternly worded letter or the beginning of a more aggressive disclosure operation, and he urged readers to evaluate which congressional seats needed replacing with honest actors.[10]
+
 ## References
 
 1. Badlands Media — "Badlands News Brief: A Potato is Threatened with Impeachment & Other Stories ...", URL: https://badlands.substack.com/p/badlands-news-brief-1e2
@@ -78,3 +90,5 @@ House Ways and Means Chairman [[jason-smith|Jason Smith]] told Breitbart News in
 6. Badlands Brief — "Badlands News Brief: Deadline Deals and Crime Families", URL: https://badlands.substack.com/p/badlands-news-brief-a29
 7. Badlands Brief — "Badlands News Brief: Biden Embattled & Trump Betrayed", URL: https://badlands.substack.com/p/badlands-news-brief-b2b
 8. Badlands Brief — "Badlands News Brief: The Info War is Getting Stranger ...", URL: https://badlands.substack.com/p/badlands-news-brief-bbb
+9. Badlands Brief — "Badlands News Brief: Jurors Judged, Faces Saved & Memes Made", URL: https://badlands.substack.com/p/badlands-news-brief-c0b
+10. Badlands News Brief — "The DNC Comes to Town ... And Gets Weird", URL: https://badlands.substack.com/p/badlands-news-brief-ccd

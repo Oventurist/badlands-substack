@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [constitution, reconstruction, citizenship, civil-rights]
-sources: [raw/badlands-brief-686.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-9bf.md, raw/badlands-news-brief-948.md]
+sources: [raw/badlands-brief-686.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-9bf.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-bfb.md]
 confidence: medium
 ---
 
@@ -52,6 +52,10 @@ By the end of October 2023 the Section 3 theory was being litigated simultaneous
 
 Section 3 of the Fourteenth Amendment, which bars from federal or state office those who engaged in insurrection after swearing an oath to support the Constitution, was invoked in more than a dozen states to challenge [[donald-trump|Donald Trump]]'s 2024 candidacy over his conduct surrounding the January 6, 2021 attack on the U.S. Capitol.[7] Enacted after the Civil War and designed to exclude former Confederate civil and military officials from office, the rarely used disqualification clause was argued before the [[colorado-supreme-court|Colorado Supreme Court]] on December 6, 2023 in [[anderson-v-griswold|Anderson v. Griswold]].[7] A threshold question was whether the president is an "Officer" within the meaning of Section 3, and the Colorado argument featured extended discussion of Confederate president [[jefferson-davis|Jefferson Davis]].[7] The outcome was expected to affect 22 other Section 3 challenges around the country and to be appealed to the U.S. Supreme Court.[7]
 
+## Section 3 in the December 2023 ballot cases
+
+The [[supreme-court-of-the-united-states|U.S. Supreme Court]] had never ruled on Section 3 of the Fourteenth Amendment, which was added after the Civil War to prevent former Confederates from returning to government and provides that anyone who swore an oath to "support" the Constitution and then "engaged in insurrection" against it cannot hold government office.[8] In December 2023 the [[colorado-supreme-court|Colorado Supreme Court]] held that the provision applied to [[donald-trump|Donald Trump]] over his role in the January 6, 2021 attack on the U.S. Capitol — the first time in history it was used to block a presidential contender — while the [[michigan-supreme-court|Michigan Supreme Court]] declined to reach the question and kept him on the ballot.[8]
+
 ## References
 1. Badlands Brief — "To Infinity & Iran!", URL: https://badlands.substack.com/p/badlands-brief-686
 2. Badlands Brief — "Badlands News Brief: MAGA Gets Branded as Biden Bungles Everything", URL: https://badlands.substack.com/p/badlands-news-brief-07e
@@ -60,3 +64,4 @@ Section 3 of the Fourteenth Amendment, which bars from federal or state office t
 5. Badlands Brief — "Epstein Boomerangs & Bipartisan Bullsh*t", URL: https://badlands.substack.com/p/badlands-news-brief-6d2
 6. Badlands Brief — "14th Time's the Charm to 'Get Trump?'", URL: https://badlands.substack.com/p/badlands-news-brief-9bf
 7. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
+8. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb

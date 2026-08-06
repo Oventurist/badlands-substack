@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [domestic-terrorism, protest, doj, texas]
-sources: [raw/badlands-brief-095.md, raw/badlands-brief-abf.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-732.md]
+sources: [raw/badlands-brief-095.md, raw/badlands-brief-abf.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-732.md, raw/badlands-news-brief-c9a.md]
 confidence: medium
 ---
 
@@ -84,6 +84,10 @@ Days later, [[jared-dowell|Jared Dowell]] — the child of House Minority Whip [
 
 On September 17, 2025, President [[donald-trump|Donald Trump]] announced he would designate antifa a "major terrorist organization," describing the movement in a Truth Social post as "A SICK, DANGEROUS, RADICAL LEFT DISASTER."[10] He said he would be "strongly recommending" that those funding antifa be thoroughly investigated "in accordance with the highest legal standards and practices," days after saying he would "100%" consider the designation.[10] Badlands commentary characterized antifa's 2020 activity as selective and coordinated, citing Craigslist advertisements and recorded Zoom meetings as evidence of a well-funded effort behind street violence that some described as election interference.[10] See [[antifa-terrorist-designation|Antifa terrorist designation]].
 
+## Alleged infiltration and January 6 (April 2023 commentary)
+
+In April 2023 commentary on the [[fedsurrection|"Fedsurrection"]] disclosures, Badlands writer [[ryan-delarme|Ryan DeLarme]] speculated that local chapters of militant left-wing groups such as ANTIFA or Insurrection USA might each host an agent or informant capable of influencing a dozen additional "oblivious, non-fed anarchists or socialists" to participate on January 6, which would push the total number of assets involved well past one hundred.[11] He stated his belief that "ANTIFA mapping began long ago" and that modern intelligence-gathering capabilities made the task of untangling it feasible.[11] In separate commentary, DeLarme criticized [[jerrold-nadler|Jerrold Nadler]] as "the same guy who claimed that ANTIFA was a myth while small businesses were burning to the ground."[11]
+
 ## References
 
 1. Badlands Brief — "Moves and Countermoves", URL: https://badlands.substack.com/p/badlands-brief-095
@@ -96,3 +100,4 @@ On September 17, 2025, President [[donald-trump|Donald Trump]] announced he woul
 8. Badlands Brief — "Badlands News Brief: Globalist Rage, Biden Docs & Hockey Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-46e
 9. Badlands Brief — "Badlands News Brief: Mostly Peaceful Riots and Billionaire Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-6db
 10. Badlands Brief — "A Terror Designation & A Breath of Fresh Air", URL: https://badlands.substack.com/p/badlands-news-brief-732
+11. Badlands Brief — "Badlands News Brief: The France Dance, Crime & J6 Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-c9a

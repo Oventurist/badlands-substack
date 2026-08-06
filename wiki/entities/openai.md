@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ai, tech, chatgpt, stargate]
-sources: [raw/a-new-hollywood.md, raw/america-has-a-cia-run-economy.md, raw/badlands-brief-02a.md, raw/badlands-brief-165.md, raw/badlands-brief-7bf.md, raw/badlands-brief-95a.md, raw/badlands-brief-a6b.md, raw/badlands-brief-cc3.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-433.md, raw/badlands-news-brief-561.md, raw/badlands-news-brief-7c9.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-a50.md]
+sources: [raw/a-new-hollywood.md, raw/america-has-a-cia-run-economy.md, raw/badlands-brief-02a.md, raw/badlands-brief-165.md, raw/badlands-brief-7bf.md, raw/badlands-brief-95a.md, raw/badlands-brief-a6b.md, raw/badlands-brief-cc3.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-433.md, raw/badlands-news-brief-561.md, raw/badlands-news-brief-7c9.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-a50.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-cb6.md]
 confidence: low
 ---
 
@@ -81,6 +81,14 @@ On Thursday, 30 January 2025, OpenAI announced that the U.S. National Laboratori
 
 Badlands commentary read the announcement as OpenAI putting massive resources behind a large workforce in order to outcompete developers refining DeepSeek, arguing that centralized control over AI was the aim because it was "the only way to get everyone back on the same page."[15]
 
+## New York Times copyright lawsuit (December 2023)
+
+On December 27, 2023, [[new-york-times|The New York Times]] filed suit against OpenAI and [[microsoft|Microsoft]], accusing the makers of [[chatgpt|ChatGPT]] of copyright infringement and of abusing the newspaper's intellectual property, and seeking billions of dollars in statutory and actual damages.[16] The filing characterised the companies' business model as founded on "mass copyright infringement."[16] See [[new-york-times-v-microsoft-and-openai|New York Times v. Microsoft and OpenAI]].[16]
+
+## Musk's $97.4 billion bid (February 2025)
+
+In February 2025 [[elon-musk|Elon Musk]], backed by a consortium of investors, made a $97.4 billion offer for the assets of OpenAI, intensifying pressure on chief executive [[sam-altman|Sam Altman]].[17] Altman had spent months working with investors to determine how fairly to compensate the nonprofit that then controlled the company, as part of a plan to spin the ChatGPT developer out as a for-profit venture in which the nonprofit would retain a stake.[17] Musk's bid could force OpenAI's board of directors to reassess its valuation of the nonprofit, since a higher valuation would translate into a larger nonprofit stake in the converted for-profit entity.[17] At the same time OpenAI was negotiating how much equity [[microsoft|Microsoft]], its largest investor, along with other backers and employees, should receive.[17] [[jon-herold|Jon Herold]] observed that OpenAI's sitting board chairman was the same person who had chaired the board of Twitter Inc. during Musk's 2022 acquisition of that company.[17]
+
 ## References
 1. Badlands Brief — "A New Hollywood", URL: https://badlands.substack.com/p/a-new-hollywood
 2. Badlands Brief — "America Has a CIA-Run Economy", URL: https://badlands.substack.com/p/america-has-a-cia-run-economy
@@ -97,3 +105,5 @@ Badlands commentary read the announcement as OpenAI putting massive resources be
 13. Badlands Brief — "Badlands News Brief: Opposition Intensifies. So Does Winning.", URL: https://badlands.substack.com/p/badlands-news-brief-7c9
 14. Badlands Brief — "Badlands News Brief: Ongoing Judicial Coups. Newly Jailed Judges.", URL: https://badlands.substack.com/p/badlands-news-brief-8a9
 15. Badlands Brief — "Badlands News Brief: Bicameral Puppets & Dark Money Muppets", URL: https://badlands.substack.com/p/badlands-news-brief-a50
+16. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb
+17. Badlands Brief — "Badlands News Brief: Muslim Migrants, Mad Max, & Even More Money-Laundering", URL: https://badlands.substack.com/p/badlands-news-brief-cb6

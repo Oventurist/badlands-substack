@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [colorado, attorney, election-law, fourteenth-amendment, donald-trump]
-sources: [raw/badlands-news-brief-356.md, raw/badlands-news-brief-948.md]
+sources: [raw/badlands-news-brief-356.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-bfb.md]
 confidence: medium
 ---
 
@@ -22,7 +22,12 @@ Following Rudy's testimony, Gessler moved for a directed verdict in Trump's favo
 
 Gessler represented [[donald-trump|Donald Trump]] at the December 6, 2023 argument in [[anderson-v-griswold|Anderson v. Griswold]] before the [[colorado-supreme-court|Colorado Supreme Court]], contending that the events of January 6 must be viewed as more of a "riot" than an insurrection for purposes of Section 3 of the [[fourteenth-amendment|Fourteenth Amendment]].[2] His opposing counsel Eric Olsen argued that the district court's finding of intentional incitement should stand and that Trump's inclusion on the ballot would dilute votes for qualified candidates; Badlands writer [[ashe-in-america|Ashe in America]] considered both sides' arguments weak.[2]
 
+## Argument in the Colorado disqualification appeal
+
+Scott Gessler, representing [[donald-trump|Donald Trump]] in the [[colorado-ballot-disqualification-case|Colorado ballot disqualification case]], argued that a political work product — the [[january-6-committee|January 6 Committee]] report — cannot result in an actionable legal finding of insurrection, especially when accompanied by a Senate acquittal, but did not contest the substance of the report itself.[3] Commentary by [[ashe-in-america|Ashe in America]] questioned whether that approach would suffice to persuade five justices that a finding of insurrection was improper absent due process.[3]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Kash Unleashed, Zelensky Abandoned & Trump Championed", URL: https://badlands.substack.com/p/badlands-news-brief-356
 2. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
+3. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [free-speech, censorship, supreme-court, fbi]
-sources: [raw/badlands-news-brief-06e.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-b22.md]
+sources: [raw/badlands-news-brief-06e.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-b22.md, raw/badlands-news-brief-c0a.md]
 confidence: medium
 ---
 
@@ -26,6 +26,12 @@ The case originated in the Fifth Circuit Court of Appeals in July 2023 and was f
 
 In May 2024, Senator [[mark-warner|Mark Warner]], chairman of the [[senate-intelligence-committee|Senate Intelligence Committee]], told reporters at the RSA Conference that key federal agencies including CISA and the [[fbi|FBI]] had resumed discussions with social media companies about removing disinformation as the November presidential election approached.[2] The move marked a stark reversal after the Biden administration had for months frozen communications with social platforms while the case was pending.[2] According to Warner, contacts resumed roughly around the time that multiple justices appeared to favor the executive branch's position during oral argument.[2]
 
+## Oral argument (March 18, 2024)
+
+Oral argument was heard on Monday, March 18, 2024, in a session scheduled for one hour that ultimately ran nearly two.[4] A majority of justices appeared highly skeptical of claims that the [[joe-biden|Biden]] administration had crossed the line from persuasion to coercion when it told social media platforms to remove problematic content, with the underlying dispute centering on a federal judge's injunction — then on hold — that would have limited contacts between government officials and social media companies across a wide range of issues.[4] Justice [[elena-kagan|Elena Kagan]] questioned whether the nature of the communications was problematic at all, observing that officials sometimes have fraught exchanges with journalists and that "this happens literally thousands of times a day in the federal government."[4] Justice [[samuel-alito|Samuel Alito]] appeared most sympathetic to the plaintiffs, asking of the reporters present in the courtroom, "I cannot imagine federal officials taking that approach to the print media representatives over there. If you did that to them, what do you think the reaction would be?"[4] When the Court agreed to hear the case in October, it had blocked the appeals court ruling over the noted disagreement of three conservative justices — Alito, [[clarence-thomas|Clarence Thomas]] and [[neil-gorsuch|Neil Gorsuch]].[4]
+
+[[badlands-media|Badlands Media]] provided special live coverage of the proceedings, and [[ashe-in-america|Ashe in America]] wrote that it was disturbing to hear the federal government argue in favor of censorship and more disturbing still to hear those arguments affirmed by justices.[4] She singled out Justice [[ketanji-brown-jackson|Ketanji Brown Jackson]] for declaring that the government may coerce private entities to violate Americans' rights so long as it has a compelling government interest, arguing that the [[lab-leak-theory|lab leak theory]] case disproves the logic: the government had a compelling interest in suppressing the theory, coerced private companies to do so, and yet the theory subsequently became the most accepted origin story for COVID — meaning the government coerced private companies to censor the truth to cover up its own crimes.[4] She judged the position anathema to the Constitution in letter, spirit, and case law, and agreed with mainstream reporting that the Court appeared likely to reverse the lower courts' injunction and decline to restrict the public-private partnership model of the [[censorship-industrial-complex|Censorship Industrial Complex]].[4]
+
 ## The June 26, 2024 decision
 
 On Wednesday, June 26, 2024, the [[supreme-court-of-the-united-states|Supreme Court]] threw out the lawsuit brought by state attorneys in Missouri and Louisiana seeking to curtail the Biden administration's efforts to coerce social media companies into removing content officials deemed misinformation.[3] In a 6–3 ruling, the Court found that the group of social media users and states lacked standing to bring such claims: "We begin—and end—with standing," the majority opinion reads. "At this stage, neither the individual nor the state plaintiffs have established standing to seek an injunction against any defendant. We therefore lack jurisdiction to reach the merits of the dispute."[3]
@@ -39,3 +45,4 @@ Writing shortly after the decision, she predicted a repeat of 2020-style censors
 1. Badlands Brief — "Badlands News Brief: Fake Electionception, Sovereign Alliance Digs & Chick Fights", URL: https://badlands.substack.com/p/badlands-news-brief-06e
 2. Badlands News Brief — "Biden Melts Down as Judges Are Themselves Judged", URL: https://badlands.substack.com/p/badlands-news-brief-5fb
 3. Badlands Brief — "The Supreme Court Looms Over the First Debate", URL: https://badlands.substack.com/p/badlands-news-brief-b22
+4. Badlands Brief — "Badlands News Brief: White Collar Prisons & Confounding Court Decisions", URL: https://badlands.substack.com/p/badlands-news-brief-c0a

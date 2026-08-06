@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [academia, harvard, plagiarism, higher-education]
-sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-a9e.md]
+sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-a9e.md, raw/badlands-news-brief-cce.md]
 confidence: medium
 ---
 
@@ -34,8 +34,15 @@ In December 2023, ZeroHedge reported that Harvard College — "led by controvers
 
 [[burning-bright|Burning Bright]] noted this chronology explicitly, observing that the data predated the plagiarism and antisemitism scandals engulfing Gay and that the sensational framing obscured it.[3] He described [[harvard-university|Harvard]] as the epicenter of a "circular firing squad" pattern within academia and the symbolic heart of what he called the Woke Industrial Complex.[3]
 
+## Plagiarism allegations and the Swain dispute
+
+On December 12, 2023, [[harvard-university|Harvard]]'s governing board released a full-throated defense of Gay, a week after her congressional testimony on campus antisemitism and amid allegations that she had plagiarized portions of her dissertation.[4] Among the scholars whose work was allegedly copied was political scientist [[carol-swain|Carol Swain]], who responded on X that she was angry about "the racial double standards" temporarily giving Gay an opportunity to resign, writing that "white progressives created her and white progressives are protecting her."[4] Speaking to journalist [[christopher-rufo|Christopher Rufo]], who broke the story with Christopher Brunet, Swain said Gay's "whole research agenda, her whole career, was based on my work."[4]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] wrote that while Gay's statements providing cover for genocidal speech on campus had drawn fire, the plagiarism allegations were "much more damning," and that the establishment's decision to protect her came at the expense of institutional credibility — reading the defense as "a deviation" and "panic."[4]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: MAGA Gets Branded as Biden Bungles Everything", URL: https://badlands.substack.com/p/badlands-news-brief-07e
 2. Badlands Brief — "Bicameral Lawfare, Trump's Gambit & the Ouroboros", URL: https://badlands.substack.com/p/badlands-news-brief-525
 3. Badlands Brief — "Badlands News Brief: The Simulation Gets Very ... Very Weird", URL: https://badlands.substack.com/p/badlands-news-brief-a9e
+4. Badlands Brief — "Badlands News Brief: The System of Systems is a House of Cards", URL: https://badlands.substack.com/p/badlands-news-brief-cce

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [jfk, us-president, bretton-woods, deep-state]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-4ab.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-4ab.md, raw/badlands-news-brief-cba.md]
 confidence: low
 ---
 
@@ -31,7 +31,14 @@ In November 2023, footage of seven Parkland emergency-room physicians interviewe
 
 [[badlands-media|Badlands Media]] contributor [[burning-bright|Burning Bright]] describes the assassination as a cultural, political and historical inflection point in the global "Collective Mind," and argues its full disclosure could be one of the most powerful mass unification points in world history.[3] He notes that Kennedy is the rare Democrat that Republican voters admire, treating him as an outsider to the [[deep-state|Deep State]] that "went hot" with his killing, and that his policies and rhetoric have largely been mirrored by [[donald-trump|Donald Trump]].[3] Burning Bright characterizes Trump's periodic teasing of declassification as tactical rather than populist bait, predicting that a completed release would be both crescendo and tipping point.[3]
 
+## 1939 letter on Palestine
+
+In 1939, as a young man visiting Palestine, Kennedy wrote a lengthy letter to his father assessing the competing factions in the emerging Zionist project, observing that "Palestine was hardly Britain's to give away."[4] He reported that "the sympathy of the people on the spot seems to be with the Arabs," attributing this in part to what he called the "arrogant, uncompromising attitude" of some Jewish leaders.[4] He described the Jewish side as internally split between a strongly orthodox group unwilling to compromise, a liberal younger element that feared those reactionaries and sought "a very liberal, almost communistic form of government," and intermediates willing to deal — factions presenting a united front that he predicted would break apart once their claims were met.[4] He also characterized Zionist militants as terrorists, accusing them of bombing their own neighborhoods.[4]
+
+Badlands commentary used the letter to argue that Israel's political spectrum was founded on competing socialisms, and cited [[muammar-gaddafi|Muammar Gaddafi]]'s 2009 address to the United Nations, in which the Libyan leader called for the reopening of an investigation into Kennedy's assassination on the belief that Israel was responsible.[4] The letter was also invoked to frame the historical ties between the [[pale-of-settlement|Pale of Settlement]], the Bolsheviks, the Zionist movement organized under the [[world-zionist-organization|World Zionist Organization]], and the Russian-origin share of modern Israel's population that [[vladimir-putin|Vladimir Putin]] was said to be able to leverage against [[benjamin-netanyahu|Benjamin Netanyahu]].[4]
+
 ## References
 1. Badlands Brief — "A Gateway to a New World of Cooperation", URL: https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation
 2. Badlands Brief — "The Reckoning of Fake Elections, Fake Wars and Fake Allies", URL: https://badlands.substack.com/p/badlands-brief-b62
 3. Badlands Brief — "Badlands News Brief: Lindell's Promise & JFK's Legacy", URL: https://badlands.substack.com/p/badlands-news-brief-4ab
+4. Badlands Brief — "Badlands News Brief: Election-Mongering and Electioneering as Shenanigans Abound", URL: https://badlands.substack.com/p/badlands-news-brief-cba

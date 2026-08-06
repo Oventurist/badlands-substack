@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [gaza, israel, hamas, diplomacy]
-sources: [raw/badlands-brief-05f.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-623.md, raw/badlands-news-brief-7e5.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-995.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-623.md, raw/badlands-news-brief-7e5.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-995.md, raw/badlands-news-brief-c0b.md, raw/badlands-news-brief-cf3.md]
 confidence: medium
 ---
 
@@ -84,6 +84,12 @@ On Friday, May 31, 2024, President [[joe-biden|Joe Biden]] announced the terms o
 
 The proposal was transmitted to Hamas via Qatar, though Biden indicated the group had not yet formally accepted the plan.[11] "This is truly a decisive moment. Israel has made their proposal. Hamas says it wants a cease-fire — this deal is an opportunity to prove whether they really mean it. Hamas needs to take the deal," he said.[11] Speaking from the White House podium, Biden also urged Israelis to back the deal, arguing that the military had devastated Hamas to such an extent that October 7 could not be repeated.[11] The announcement was reported by [[the-hill|The Hill]].[11]
 
+## Saudi call for an immediate ceasefire, April 2024
+
+In April 2024 [[saudi-arabia|Saudi Arabia]] issued a renewed call for an immediate ceasefire in Gaza and for the uninterrupted delivery of humanitarian aid.[12] Speaking during a visit to Islamabad, Saudi Foreign Minister [[faisal-bin-farhan|Prince Faisal bin Farhan]] said international efforts toward a ceasefire between [[israel|Israel]] and [[hamas|Hamas]] had been "wholly insufficient," warning that "we are now actively discussing the potential for famine in Gaza, and it means people are starving to death because humanitarian assistance is not getting to them."[12]
+
+Without directly mentioning the Iranian attack on Israel that weekend, bin Farhan said the region was already unstable and that the humanitarian catastrophe in Gaza was inflaming it further, concluding that "we do not need more conflict in our region, we do not need more confrontation in our region, so it is our position that the de-escalation must be everybody's priority."[12] Badlands commentary described him as the most important diplomat in the world at that moment, tying his ceasefire diplomacy to a longer Saudi project of regional stabilization and development.[12]
+
 ## References
 1. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
 2. Badlands News Brief — "New York Insurrection, A Rapturous Reception, & Lying Tools", URL: https://badlands.substack.com/p/badlands-news-brief-0b0
@@ -96,3 +102,12 @@ The proposal was transmitted to Hamas via Qatar, though Biden indicated the grou
 9. Badlands Brief — "Badlands News Brief: Cartel Cybersnoops & Teenage Spider Hackers", URL: https://badlands.substack.com/p/badlands-news-brief-7e5
 10. Badlands Brief — "Badlands News Brief: Unlikely Ambassadors, The Ceasefire Accords, & Predatory Cartoonist", URL: https://badlands.substack.com/p/badlands-news-brief-7ed
 11. Badlands Brief — "Donald Trump, Dennis Quaid and Steven Seagal Walk into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-995
+12. Badlands Brief — "Badlands News Brief: Jurors Judged, Faces Saved & Memes Made", URL: https://badlands.substack.com/p/badlands-news-brief-c0b
+
+## Risk of collapse (February 2025)
+
+In February 2025 a senior [[hamas|Hamas]] official warned that the fragile ceasefire was at risk of "collapse," with the group accusing Israel of failing to uphold its commitments under a truce that had halted intense fighting nearly three weeks earlier.[13] The agreement, brokered by Qatar, Egypt and the United States, was designed in three phases; the first required Hamas to release 33 hostages, including children, female soldiers, the wounded and the sick, in exchange for 1,904 Palestinians imprisoned by Israeli authorities.[13] On Saturday, February 8, 2025, 183 Palestinian detainees were released while Hamas freed three Israeli captives, whose emaciated appearance West Jerusalem called "shocking."[13]
+
+Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] subsequently altered the terms of the deal, demanding that Hamas leadership leave Gaza forever; Badlands commentary argued that the timing, in the midst of Phase Two and just after a hostage release, endangered the arrangement President [[donald-trump|Donald Trump]] had brokered to stave off a wider war.[13]
+
+13. Badlands Brief — "Badlands News Brief: Soaring Eagles & Terminal USAIDs", URL: https://badlands.substack.com/p/badlands-news-brief-cf3

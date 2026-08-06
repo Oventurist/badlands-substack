@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [january-6, congress, republican-party, wyoming]
-sources: [raw/badlands-news-brief-120.md, raw/badlands-news-brief-215.md, raw/badlands-news-brief-536.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-757.md]
+sources: [raw/badlands-news-brief-120.md, raw/badlands-news-brief-215.md, raw/badlands-news-brief-536.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-d22.md]
 confidence: medium
 ---
 
@@ -52,6 +52,12 @@ Speaking at Duke University on September 4, 2024, the former Wyoming congresswom
 
 In December 2024, Politico reported that senior aides to President [[joe-biden|Joe Biden]] were debating whether to issue [[preemptive-pardons|preemptive pardons]] to current and former officials who could be targeted after [[donald-trump|Donald Trump]]'s return to office, and Cheney was named among those who could face exposure.[6] The reporting grouped her with members of Congress' [[january-6-committee|January 6 Committee]] such as Senator-elect [[adam-schiff|Adam Schiff]], noting that Trump had previously said Cheney "should go to Jail along with the rest of the Unselect Committee!"[6] Badlands contributor Burning Bright argued that offering pardons to figures such as Cheney and [[anthony-fauci|Anthony Fauci]] served to seed the "justice phase" in the public mind, and that accepting a pardon would amount to a de facto admission of guilt before any charge was brought.[6]
 
+## Third-party bid consideration and "Oath and Honor" (December 2023)
+
+In an interview with the [[washington-post|Washington Post]] published Monday, December 4, 2023, Cheney said she was weighing a third-party presidential bid against [[donald-trump|Donald Trump]], while issuing dire claims that his return to power in 2024 could mean the end of American democracy.[7] "Several years ago, I would not have contemplated a third-party run … I happen to think democracy is at risk at home, obviously, as a result of Donald Trump's continued grip on the Republican Party, and I think democracy is at risk internationally as well," she said.[7] The following day she released the book [[oath-and-honor|"Oath and Honor: A Memoir and a Warning"]], which focuses on the fallout of the 2020 race and the events around January 6 and describes Trump as "the most dangerous man ever to inhabit the Oval Office."[7]
+
+[[ashe-in-america|Ashe in America]] of [[badlands-media|Badlands Media]] responded that Cheney "should be in prison for engaging in a coup (Nov 3), cover-up of the coup (J6), and cover-up of the cover-up of the coup (J6 committee)," recalling that Cheney lost her 2022 primary to [[harriet-hageman|Harriett Hageman]], whom she praised as an impressive America First leader.[7] Ashe argued it was implausible that a candidate unable to win her own House district primary could meaningfully affect Trump's 2024 general-election chances, and suggested instead that a Cheney run would function as "plausible deniability for election fraud."[7] Citing the work of [[draza-smith|Draza Smith]], who discovered Edison Zero, she wrote that third-party candidates are useful to the regime by masking real-time vote manipulation on election night, and that two such candidates would make this easier while supplying narrative cover about voters defecting from the two-party system — defections she characterized as being from the uniparty, and therefore votes for Trump or possibly [[robert-f-kennedy-jr|RFK]].[7] She closed by quipping that the only people who would seriously consider Cheney were [[ron-desantis|Ron!]] supporters who did not think [[nikki-haley|Nikki Haley]] went far enough — "All five of them."[7]
+
 ## References
 1. Badlands Brief — "J6 Returns to Headlines as Fear Mars AI and Airplanes", URL: https://badlands.substack.com/p/badlands-news-brief-120
 2. Badlands Brief — "Islamic Reruns, Fortune 500 Cartels, & The 119th Speaker", URL: https://badlands.substack.com/p/badlands-news-brief-215
@@ -60,3 +66,4 @@ In December 2024, Politico reported that senior aides to President [[joe-biden|J
 4. Badlands News Brief — "Unearthed Autopens, Inevitable Ceasefires, & 56 Human Kidneys", URL: https://badlands.substack.com/p/badlands-news-brief-541
 5. Badlands Brief — "A Not so Brief Full of Sovereign SIGNAL", URL: https://badlands.substack.com/p/badlands-news-brief-711
 6. Badlands Brief — "Badlands News Brief: Pardon Me ... No, But Seriously. PLEASE Pardon Me.", URL: https://badlands.substack.com/p/badlands-news-brief-757
+7. Badlands Brief — "Badlands News Brief: Trump Hits Back at the Deep State, Confirms Their Fears", URL: https://badlands.substack.com/p/badlands-news-brief-d22

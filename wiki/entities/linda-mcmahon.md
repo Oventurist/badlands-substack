@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [trump-administration, cabinet, education, senate-confirmation]
-sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-9c6.md]
+sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-ce5.md]
 confidence: medium
 ---
 
@@ -50,6 +50,12 @@ Trump said McMahon would use "decades of Leadership experience, and deep underst
 
 Badlands commentary noted that McMahon had described her WWE career in a speech at the 2024 Republican National Convention, that the promotion's highest-rated storylines of all time had involved Trump himself, and that she occasionally appeared as an on-screen character in its fictional universe.[7] The commentary also recalled that the McMahons' wrestling organization had helped fund Evel Knievel's failed Snake River Canyon jump, and that Linda left WWE in 2009 to run unsuccessfully for the U.S. Senate in Connecticut against [[richard-blumenthal|Richard Blumenthal]].[7]
 
+## March 2025 executive order and Democratic pushback
+
+On Thursday, March 20, 2025, [[donald-trump|President Trump]] signed an executive order directing the start of the dismantling of the [[department-of-education|Department of Education]], and instructed McMahon as Education Secretary to do everything within her power to bring about the department's abolition; the order acknowledged that full closure would require congressional action.[8] "Today, we take a very historic action that was 45 years in the making," Trump said at a [[white-house|White House]] signing ceremony. "I will sign an executive order to begin eliminating the federal Department of Education."[8]
+
+Top House Democrats wrote to McMahon the same day urging her and the administration to reverse the decision, saying that "students, teachers, and schools across the country rely on the Department's important work" and that they had "serious doubts the remaining staff at the Department have the capacity to fulfill this mission."[8] The lawmakers asked her to "reverse these short-sighted decisions before they cause any more damage to America's students, families, and educators."[8] Badlands commentary defended the move as a promise kept, arguing that federal spending and intervention in education had risen while measured performance stagnated.[8]
+
 ## References
 
 1. Badlands Brief — "A Meddling Musk & Sanctions for Soros", URL: https://badlands.substack.com/p/badlands-news-brief-048
@@ -59,3 +65,4 @@ Badlands commentary noted that McMahon had described her WWE career in a speech 
 5. Badlands Brief — "Badlands News Brief: “Terrifying” Trade Alliances, Pedagogue Payouts, & A Bondi Barn Burner", URL: https://badlands.substack.com/p/badlands-news-brief-7bb
 6. Badlands Brief — "Badlands News Brief: MAHA, Modi, Musk, & Munich", URL: https://badlands.substack.com/p/badlands-news-brief-7b8
 7. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6
+8. Badlands Brief — "Badlands News Brief: Calibrating Education, Recalculating Commands, & Countering Currency Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-ce5

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [chechnya, russia, ukraine-war, special-forces, kursk]
-sources: [raw/badlands-news-brief-a71.md]
+sources: [raw/badlands-news-brief-a71.md, raw/badlands-news-brief-d43.md]
 confidence: medium
 ---
 
@@ -28,5 +28,12 @@ That group of fifty officers became the nucleus around which the modern [[akhmat
 
 By October 2024 Alaudinov's forces were engaged in the Kursk theatre, where Russian troops had broken through the western flank of Ukrainian positions and threatened to encircle Ukrainian units.[1] Badlands contributor GhostofBasedPatrickHenry framed the Chechen deployment as the decisive element "crushing the NATO blitzkrieg" in Kursk, and connected it to Vladimir Putin's recent visit to Dagestan, where he gave his blessing to the Kadyrovite formation.[1]
 
+## Allegations of Ukrainian war crimes in Kursk
+
+In a Telegram post published on Monday, August 19, 2024 — reported by RT and carried in Badlands Media's August 22, 2024 news brief — Alaudinov accused Ukrainian forces occupying part of Kursk Region of committing atrocities against civilians and of using them as human shields.[2] He recounted an episode in the border town of Sudzha in which Ukrainian troops entered a residential building with children inside, "settled down on the ground floor… and chased children and teachers upstairs to use them as a shield," and said the practice was widespread.[2] Alaudinov claimed that first-person footage filmed by Ukrainian soldiers had fallen into Russian hands and documented the brutality of Kyiv's forces, adding that he had no words for the Ukrainians other than "fascists and Satanists."[2] He further said he had received a large number of photographs showing civilians "simply shot at point-blank [range], in the head and from the back," all of whom died, and he vowed revenge.[2]
+
+Badlands framed these claims as continuous with earlier reporting alleging that the [[azov-battalion|Azov Battalion]] used women and children as human shields in Mariupol in March 2022, and with [[vladimir-putin|Vladimir Putin]]'s September 2022 characterization of the West as "satanic" and of Russia as the champion of traditional values.[2]
+
 ## References
 1. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71
+2. Badlands News Brief — "Trump's Rubber and They're Glue ... Plus Angry Russians", URL: https://badlands.substack.com/p/badlands-news-brief-d43

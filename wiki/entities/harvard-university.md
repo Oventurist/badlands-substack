@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [academia, higher-education, plagiarism, institutions]
-sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-748.md, raw/badlands-news-brief-7d4.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-a9e.md]
+sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-748.md, raw/badlands-news-brief-7d4.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-a9e.md, raw/badlands-news-brief-cce.md]
 confidence: medium
 ---
 
@@ -75,6 +75,10 @@ In December 2023, ZeroHedge, citing new Bloomberg data, reported that Harvard Co
 
 Badlands writer [[burning-bright|Burning Bright]] highlighted that chronology, noting that the application data predated the plagiarism and antisemitism scandals and was obscured by a sensational headline.[11] He described Harvard as the epicenter of a "social circular firing squad" pattern in academia and as the symbolic heart of what he termed the Woke Industrial Complex, arguing that American universities were being allowed to destroy themselves in full public view.[11]
 
+## Board defense of Claudine Gay (December 2023)
+
+On December 12, 2023, Harvard's governing board issued a full-throated defense of President [[claudine-gay|Claudine Gay]], a week after her congressional testimony on campus antisemitism and amid allegations that she had plagiarized portions of her dissertation, including from the work of political scientist [[carol-swain|Carol Swain]].[12] Badlands commentary argued that the Ivy League's "facade of intellectual superiority" collapses when the head of such an institution appears incapable of original thought, and read the establishment's decision to protect Gay at the expense of institutional credibility as "a deviation" and "panic."[12]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: MAGA Gets Branded as Biden Bungles Everything", URL: https://badlands.substack.com/p/badlands-news-brief-07e
@@ -88,3 +92,4 @@ Badlands writer [[burning-bright|Burning Bright]] highlighted that chronology, n
 9. Badlands Brief — "Badlands News Brief: Musical Fed Chairs, Salvadoran Chess, & Cocktails in the Clink", URL: https://badlands.substack.com/p/badlands-news-brief-80e
 10. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72
 11. Badlands Brief — "Badlands News Brief: The Simulation Gets Very ... Very Weird", URL: https://badlands.substack.com/p/badlands-news-brief-a9e
+12. Badlands Brief — "Badlands News Brief: The System of Systems is a House of Cards", URL: https://badlands.substack.com/p/badlands-news-brief-cce

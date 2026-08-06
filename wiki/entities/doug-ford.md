@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [canada, ontario, tariffs, trade-war, energy]
-sources: [raw/badlands-news-brief-071.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-59b.md]
+sources: [raw/badlands-news-brief-071.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-59b.md, raw/badlands-news-brief-cf8.md]
 confidence: medium
 ---
 
@@ -40,9 +40,14 @@ In January 2025 Ford responded to President-elect [[donald-trump|Donald Trump]]'
 
 Badlands contributor [[burning-bright|Burning Bright]] responded by tracing Canada's constitutional history — a French colony ceded to Britain under the Treaty of Paris in 1763 after the Seven Years' War, becoming the Dominion of Canada in 1867 under the British Empire — and argued that the exercise "is not about bringing Canada IN," but "about kicking the Regime OUT."[4]
 
+## The Reagan tariff ad and the end of trade talks (October 2025)
+
+Ford's Ontario government funded the [[ontario-reagan-tariff-advertisement|Reagan tariff advertisement]] that ran in the United States, with Ford saying the province would spend $75 million on ads featuring former President [[ronald-reagan|Ronald Reagan]] criticizing tariffs.[5] On Thursday night, October 23, 2025, President [[donald-trump|Donald Trump]] announced he was terminating all trade negotiations with [[canada|Canada]] over the spot, accusing Canada of attempting to influence a pending U.S. Supreme Court case that could doom many of his tariffs.[5] The Ronald Reagan Presidential Foundation and Institute said the ad misrepresented an April 1987 presidential radio address and that Reagan's remarks had been edited without permission.[5]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Hot Wars Wind Down. Trade & Meme Wars Heat Up.", URL: https://badlands.substack.com/p/badlands-news-brief-071
 2. Badlands News Brief — "Unearthed Autopens, Inevitable Ceasefires, & 56 Human Kidneys", URL: https://badlands.substack.com/p/badlands-news-brief-541
 3. Badlands Brief — "Badlands News Brief: Shutdown Consequences, Canadian Propaganda, & Console War Conclusions", URL: https://badlands.substack.com/p/badlands-news-brief-545
 4. Badlands News Brief — "A Song of Ice and Fire, Fraud, and Foreign Flashpoints", URL: https://badlands.substack.com/p/badlands-news-brief-59b
+5. Badlands Brief — "Badlands News Brief: B-Ball Bets, Bomber Busts, & 'Bipartisan' Bill Blockage", URL: https://badlands.substack.com/p/badlands-news-brief-cf8

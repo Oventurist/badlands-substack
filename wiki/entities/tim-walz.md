@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [minnesota, national-guard, immigration, ice]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-144.md, raw/badlands-brief-577.md, raw/badlands-brief-db7.md, raw/badlands-brief-e8d.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-69d.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-ac8.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-144.md, raw/badlands-brief-577.md, raw/badlands-brief-db7.md, raw/badlands-brief-e8d.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-69d.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-ac8.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-ca1.md, raw/badlands-news-brief-ccd.md]
 confidence: medium
 ---
 
@@ -106,6 +106,15 @@ In commentary on the [[october-surprise|October surprise]] phenomenon published 
 
 At two West Coast fundraisers in October 2024, Walz — then the Democratic Party's vice presidential nominee — suggested that the [[electoral-college|Electoral College]] should be abolished.[16] Speaking to donors in Seattle, he said the system "puts a few states in real focus" and described himself as "a national popular vote guy," while conceding "that's not the world we live in."[16] In Sacramento later that day he was blunter: "I think all of us know, the Electoral College needs to go. We need a national popular vote," before again acknowledging the existing rules and stressing the need to win Beaver County and York in Pennsylvania, western Wisconsin and Reno, Nevada.[16] The [[donald-trump|Trump]] campaign responded on X that the remarks showed Walz hates the U.S. Constitution.[16]
 
+
+## Minnesota visa fraud allegations (December 2025)
+
+At a roundtable with President [[donald-trump|Donald Trump]] on Wednesday, December 3, 2025, Homeland Security Secretary [[kristi-noem|Kristi Noem]] said that 50 percent of the visas her department examined in Minnesota were fraudulent and accused Walz of allowing the scheme to take place under his leadership.[17] "You told me to look into Minnesota and their fraud on visas and their programs: 50% of them are fraudulent, which means that that wacko Gov. (Tim) Walz either is an idiot or he did it on purpose — and I think he's both, sir," Noem said.[17] The claim followed reporting that more than a billion dollars had been siphoned from Minnesota's COVID-era aid program by Somali fraud networks, with funds alleged to have reached [[al-shabaab|Al-Shabaab]].[17] Noem said she and the governor had discussed the matter early on but that Walz sat on his hands and instead came after the whistleblowers who exposed the fraud in Minneapolis.[17]
+
+## House Oversight investigation into CCP ties (August 2024)
+
+Shortly after Walz was named [[kamala-harris|Kamala Harris]]'s running mate, [[house-committee-on-oversight-and-accountability|House Committee on Oversight and Accountability]] Chairman [[james-comer|James Comer]] announced an investigation into the governor's long-standing connections to [[chinese-communist-party|Chinese Communist Party]] entities and officials, writing to [[fbi|FBI]] Director [[christopher-wray|Christopher Wray]] to request related documents and communications as well as any warnings the Bureau had given Walz about CCP influence operations targeting U.S. political figures.[19] Comer said Walz had visited China dozens of times, served as a fellow at a Chinese institution devoted to the CCP, and spoken alongside the president of a Chinese organization the [[state-department|State Department]] had exposed as a CCP effort to influence and co-opt local leaders.[19] The episode is covered in detail at [[house-oversight-investigation-into-tim-walzs-ccp-ties|House Oversight investigation into Tim Walz's CCP ties]].[19]
+
 ## References
 
 1. Badlands Brief — "Somali Shatterpoints, Cartel Countermeasures, & Erosion of the World Order", URL: https://badlands.substack.com/p/badlands-brief-094
@@ -124,3 +133,14 @@ At two West Coast fundraisers in October 2024, Walz — then the Democratic Part
 14. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889
 15. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71
 16. Badlands Brief — "Storms both Real and Political Converge in October", URL: https://badlands.substack.com/p/badlands-news-brief-ac8
+17. Badlands Brief — "Bogus Visas, Brazilian Sanctions, and Foreign Boat Battles", URL: https://badlands.substack.com/p/badlands-news-brief-bd7
+## Selection as Harris's running mate (August 2024)
+
+On Tuesday, August 6, 2024, Vice President [[kamala-harris|Kamala Harris]] chose Walz, then governor of Minnesota, as her running mate, elevating the former teacher and Army National Guard veteran to the Democratic ticket for the party's fight against [[donald-trump|Donald Trump]].[18] Harris delivered the news personally by video call, capping a swift ascent for a Midwestern Democrat who had gone from relative unknown to a leading driver of the party's attacks on the former president and the MAGA agenda.[18] Walz emerged from the most accelerated vice presidential search in modern history, from a shortlist of about half a dozen Democrats that included Pennsylvania Governor [[josh-shapiro|Josh Shapiro]] and Arizona Senator [[mark-kelly|Mark Kelly]]; Harris interviewed Walz, Shapiro and Kelly in person on the preceding Sunday.[18] Aides said Harris, who had little prior relationship with Walz, grew enthused by how he carried himself and was impressed "by his authenticity" at a final meeting at her Naval Observatory residence.[18]
+
+At their first joint appearance, a Tuesday rally in Philadelphia, Walz cast himself as both a folksy Midwestern everyman and an attack dog for the ticket, telling Harris "Thank you for bringing back the joy" and saying he was thrilled to be on the journey with her and second gentleman [[doug-emhoff|Doug Emhoff]].[18] "We've got 91 days. We'll sleep when we're dead," he told the crowd, pledging to have Harris's back every single day.[18]
+
+Writing for [[badlands-media|Badlands Media]], [[burning-bright|Burning Bright]] declined to treat the pick as seismic, framing it instead in terms of its psychological effect on what he calls the War of Stories, and argued that the selection amounted to the Democratic Party branding itself as exactly the hotbed of radical leftism that Trump had long accused it of being.[18]
+
+18. Badlands Brief — "Fake Vice Presidents and Effective Lawsuits", URL: https://badlands.substack.com/p/badlands-news-brief-ca1
+19. Badlands News Brief — "The DNC Comes to Town ... And Gets Weird", URL: https://badlands.substack.com/p/badlands-news-brief-ccd

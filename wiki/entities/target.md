@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [corporations, retail, boycotts]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-b92.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-b92.md, raw/badlands-news-brief-cc9.md]
 confidence: medium
 ---
 
@@ -40,3 +40,11 @@ In November 2023 Target again triggered conservative criticism after rolling out
 3. Badlands Brief — "The Dye's Been Cast Out. The Round Table is Set.", URL: https://badlands.substack.com/p/badlands-news-brief-065
 4. Badlands Brief — "Badlands News Brief: Trump Defiant, Biden Protected & Woke Worn", URL: https://badlands.substack.com/p/badlands-news-brief-7a7
 5. Badlands Brief — "Trump and Elon Set Precedents ... Deep State Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-b92
+
+## September 2023 store closures over theft
+
+On 26 September 2023, Target announced it would close nine stores across four states, saying that theft and organized retail crime had threatened the safety of its workers and customers.[6] The closures, effective 21 October, included one store in New York City's East Harlem neighborhood, three in the San Francisco Bay Area, three in Portland, Oregon, and two in Seattle.[6] The Minneapolis-based retailer said the decision was difficult, that it would still operate a combined 150 stores in the affected markets, and that affected workers would be offered transfers.[6] In a statement reported by the [[associated-press|Associated Press]], the company said: "We know that our stores serve an important role in their communities, but we can only be successful if the working and shopping environment is safe for all."[6]
+
+Writing for [[badlands-media|Badlands Media]], [[american-hypnotist|American Hypnotist]] argued that authorities who permit looting tacitly endorse it, and that officials bear a legally codified duty to protect that ordinary citizens do not.[6] He described the closures as another "canary in the coal mine" signalling an absence of law and order dating to the riots of 2020, and named [[nancy-pelosi|Nancy Pelosi]] and [[maxine-waters|Maxine Waters]] among politicians he accused of encouraging those riots.[6]
+
+6. Badlands Brief — "Badlands News Brief: Hunter Sues, Ukraine Backpedals & Big Mike Preps", URL: https://badlands.substack.com/p/badlands-news-brief-cc9

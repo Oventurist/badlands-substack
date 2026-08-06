@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [technology, artificial-intelligence, semiconductors, electric-vehicles, elon-musk]
-sources: [raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-67e.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-890.md, raw/badlands-news-brief-b2b.md]
+sources: [raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-67e.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-890.md, raw/badlands-news-brief-b2b.md, raw/badlands-news-brief-bd6.md, raw/badlands-news-brief-ce5.md]
 confidence: medium
 ---
 
@@ -56,6 +56,18 @@ In December 2024, Launch i/o CEO Jeff Lutz — a former executive at [[google|Go
 
 On September 28, 2023 the U.S. [[equal-employment-opportunity-commission|Equal Employment Opportunity Commission]] sued Tesla in the U.S. District Court for the Northern District of California, alleging that the company subjected Black employees to an unlawful hostile work environment and retaliated against workers who opposed the harassment.[8] The agency said it had investigated Tesla after EEOC Chair [[charlotte-burrows|Charlotte A. Burrows]] filed a commissioner's charge alleging violations of [[title-vii-of-the-civil-rights-act-of-1964|Title VII of the Civil Rights Act of 1964]].[8] Conservative outlets framed the filing as the Biden administration once again targeting [[elon-musk|Elon Musk]], and [[badlands-media|Badlands Media]] contributor [[justin-deschamps|Justin Deschamps]] argued that few concrete details of the alleged conduct had surfaced and that the case might prove insubstantial.[8] See [[eeoc-lawsuit-against-tesla-2023]].
 
+## Hertz fleet order and unwind
+
+In 2021 rental car company [[hertz|Hertz]] placed a huge order for 100,000 Tesla Model 3 vehicles as the centerpiece of a fleet electrification push promoted by [[tom-brady|Tom Brady]].[9] The arrangement unwound after Hertz chief executive Stephen Scherr told investors in late October 2023 that the company would reduce its EV fleet because of high repair costs relative to the rest of the fleet, and Hertz began dumping 20,000 EVs onto the used car market in December 2023 while planning to reinvest part of the proceeds in internal combustion engine vehicles.[9]
+
+## Attacks on Tesla property (2025)
+
+Beginning in January 2025, Tesla vehicles, dealerships and charging stations were subjected to a nationwide wave of arson, shootings and vandalism across at least ten states, widely characterized as a reaction to CEO [[elon-musk|Elon Musk]]'s role leading the [[doge|Department of Government Efficiency]].[10] Suspects allegedly hurled Molotov cocktails at Tesla vehicles and dealerships and defaced charging infrastructure.[10]
+
+On March 20, 2025, Attorney General [[pam-bondi|Pam Bondi]] announced that those accused of destroying Tesla property would face "severe charges" carrying potential 20-year prison sentences, with the [[department-of-justice|Department of Justice]] specifically targeting three suspects accused of arson and graffiti in Oregon, Colorado and South Carolina.[10] Bondi described the campaign as "domestic terrorism against Tesla properties."[10]
+
+Individual Tesla owners were also targeted: a website called [[dogequest|Dogequest]] published the names, addresses and phone numbers of Tesla owners nationwide on an interactive map, used an image of a Molotov cocktail as its cursor, posted the exact locations of dealerships, and offered to remove owners' identifying information only if they provided proof they had sold their electric vehicles.[10] Badlands commentary argued this amounted to intimidation of owners for their political support of America First causes and constituted a civil rights and Voting Rights Act violation actionable in court.[10]
+
 ## References
 
 1. Badlands News Brief — "Peacemakers, Fake Kennedys & Fear Mongers", URL: https://badlands.substack.com/p/badlands-news-brief-3b2
@@ -66,3 +78,5 @@ On September 28, 2023 the U.S. [[equal-employment-opportunity-commission|Equal E
 6. Badlands Brief — "Badlands News Brief: Biden Baits Israel as Solar Storms Bring the Weird", URL: https://badlands.substack.com/p/badlands-news-brief-83b
 7. Badlands Brief — "Absurdity and MAGAMania as the Year Winds Down", URL: https://badlands.substack.com/p/badlands-news-brief-890
 8. Badlands Brief — "Badlands News Brief: Biden Embattled & Trump Betrayed", URL: https://badlands.substack.com/p/badlands-news-brief-b2b
+9. Badlands Brief — "Badlands News Brief: Houthi's War is it, Anyway?", URL: https://badlands.substack.com/p/badlands-news-brief-bd6
+10. Badlands Brief — "Badlands News Brief: Calibrating Education, Recalculating Commands, & Countering Currency Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-ce5

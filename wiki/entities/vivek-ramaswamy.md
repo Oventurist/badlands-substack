@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [politics, tech, education, culture]
-sources: [raw/a-new-hollywood.md, raw/badlands-brief-6fd.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-53d.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-ac1.md, raw/badlands-news-brief-ae3.md]
+sources: [raw/a-new-hollywood.md, raw/badlands-brief-6fd.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-53d.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-ac1.md, raw/badlands-news-brief-ae3.md, raw/badlands-news-brief-c18.md, raw/badlands-news-brief-c74.md]
 confidence: low
 ---
 
@@ -54,6 +54,16 @@ Ramaswamy dropped out of the 2024 Republican presidential race on the night of t
 
 At the third Republican presidential debate in Miami on November 8, 2023 — held while [[donald-trump|Donald Trump]] rallied a short drive away in Hialeah — Ramaswamy used his opening remarks to demand the resignation of [[republican-national-committee|Republican National Committee]] chairwoman [[ronna-mcdaniel|Ronna McDaniel]] instead of making the case for his own nomination, also turning his ire on the debate moderators.[10] Referring to the previous day’s off-year elections, he said, "I think there’s something deeper going on in the Republican Party here, and I am upset about what happened last night. We’ve become a party of losers at the end of the day. Is it cancer in the Republican establishment?"[10] He catalogued GOP defeats since McDaniel took over in 2017 — 2018, 2020, 2022 with "no red wave," and 2023 — and offered to yield his time if she would come onstage and resign before GOP voters.[10]
 
+## Criticism of Nikki Haley over Israel (October 2023)
+
+In an October 2023 appearance highlighted by [[tucker-carlson|Tucker Carlson]], Ramaswamy blasted rival Republican presidential candidate [[nikki-haley|Nikki Haley]] for what he called a "childish tantrum" over the Israeli attacks, warning Carlson that her posture was "a formula for World War III."[11] The exchange, circulated widely on X, was carried as a bonus item in the Badlands News Brief amid the escalating Israel–[[hamas|Hamas]] war.[11]
+
+## Colorado ballot fight (December 2023)
+
+After the [[colorado-supreme-court|Colorado Supreme Court]] removed [[donald-trump|Donald Trump]] from the state's 2024 ballot on December 19, 2023, Ramaswamy excoriated the decision and called on fellow Republicans to withdraw from the state's primary unless Trump's name appeared on the ballot.[12] He said, "This is what an actual attack on democracy looks like: in an un-American, unconstitutional, and unprecedented decision, a cabal of Democrat judges are barring Trump from the ballot in Colorado," and argued that the bipartisan Establishment, having tried every other trick, was now deploying the [[fourteenth-amendment|14th Amendment]] to bar Trump from ever holding office again.[12] He pledged to withdraw from the Colorado GOP primary himself and demanded that [[ron-desantis|Ron DeSantis]], Chris Christie and [[nikki-haley|Nikki Haley]] do the same immediately, or else be seen as tacitly endorsing an illegal maneuver and the latest election-interference tactic to silence political opponents.[12]
+
+Badlands writer [[justin-deschamps|Justin Deschamps]] speculated that Ramaswamy might be playing along with Trump, wittingly or otherwise, arguing that by drawing this line in the sand the pair were dealing massive blows to a GOP already gutted of respect.[12] He described Ramaswamy as one of only two candidates left undiscredited going into 2024, praised his role while remaining uncertain whether he was genuine, and asked whether Ramaswamy was himself being played by Trump or pursuing a shadowy game with benevolent objectives.[12] Separately, [[tucker-carlson|Tucker Carlson]] told an audience at Turning Point USA's AmericaFest, "I kind of like Vivek" for vice president, saying the campaign process had made Ramaswamy's positions "much more sincere" and praising him for attacking Nikki Haley's views rather than her person.[12]
+
 ## References
 1. Badlands Brief — "A New Hollywood", URL: https://badlands.substack.com/p/a-new-hollywood
 2. Badlands Brief — "Trump Rugs the Zionists; FBI Raids the Virginia Democrats", URL: https://badlands.substack.com/p/badlands-brief-6fd
@@ -65,3 +75,5 @@ At the third Republican presidential debate in Miami on November 8, 2023 — hel
 8. Badlands Brief — "Badlands News Brief: Unlikely Ambassadors, The Ceasefire Accords, & Predatory Cartoonist", URL: https://badlands.substack.com/p/badlands-news-brief-7ed
 9. Badlands Brief — "The Media Melts Down as MAGA Rises Once More ...", URL: https://badlands.substack.com/p/badlands-news-brief-ac1
 10. Badlands Brief — "Badlands News Brief: Debates, Rallies ... and Deep State Implosions", URL: https://badlands.substack.com/p/badlands-news-brief-ae3
+11. Badlands Brief — "Badlands News Brief: Crisis Cascades, Nordstream 3 & Bidenomics", URL: https://badlands.substack.com/p/badlands-news-brief-c18
+12. Badlands Brief — "Badlands News Brief: The Mask Comes off as the Nation Watches", URL: https://badlands.substack.com/p/badlands-news-brief-c74

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [middle-east, diplomacy, israel, iran, trump, badlands-brief]
-sources: [raw/badlands-brief-3d4.md, raw/badlands-brief-e60.md, raw/badlands-brief-f87.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-aac.md]
+sources: [raw/badlands-brief-3d4.md, raw/badlands-brief-e60.md, raw/badlands-brief-f87.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-c4f.md]
 confidence: medium
 ---
 
@@ -105,6 +105,14 @@ Badlands hosts treated the moment as vindication of a long-running prediction: [
 
 Writing in the July 2, 2024 Badlands News Brief, [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] restated his view that the Accords were wielded as a political weapon intended to ignite a peaceful counterinsurgency across the region and within Israel against [[benjamin-netanyahu|Benjamin Netanyahu]] and the Israeli Deep State, and argued that this was visibly happening.[16] In his account the Accords got the Arab states "all playing the same sheet of music" after decades of infighting over what to do about Israel and perceived Zionist aggression.[16] He cited as evidence Arab states working to keep Israel well-provisioned while Iran-linked proxy militias attacked Red Sea shipping, Arab participation in shielding Israel from Iran's missile barrage, and [[hezbollah|Hezbollah]] issuing specific advance warnings about which targets it would strike if the IDF invaded Lebanon — behavior he called a bizarre strategy for anyone actually intending to fight.[16] He credited Saudi foreign minister [[faisal-bin-farhan|Faisal bin Farhan]] with running the diplomacy, working every channel and speaking daily with members of the so-called Sovereign Alliance including Iran, China, and Russia, and predicted that peace would break out but only after further heat.[16]
 
+## Cited as at risk from West Bank annexation (September 2025)
+
+Ahead of a September 2025 meeting between President [[donald-trump|Donald Trump]] and leaders of eight Arab countries at the United Nations, Arab leaders reportedly sought to stress that any Israeli move into the West Bank could jeopardize the Abraham Accords, described as Trump's signature foreign policy achievement of his first term.[17] Trump used the meeting to assure them he would not allow [[benjamin-netanyahu|Benjamin Netanyahu]] to annex the territory.[17]
+
+## Trump's November 2025 remarks
+
+In a Friday interview with [[fox-news|Fox]] in November 2025, President [[donald-trump|Donald Trump]] described broader regional shifts in the Middle East, commenting that the list of those interested in signing onto the historic Abraham Accords normalization program with [[israel|Israel]] "keeps growing."[18] He hailed what he called an unprecedented opportunity for peace, noting that the crisis with [[hezbollah|Hezbollah]] in Lebanon was abating and that [[iran|Iran]] now wanted a nuclear deal.[18]
+
 ## References
 1. Badlands Brief — "Canadian Separatists & Guerilla Campaigns", URL: https://badlands.substack.com/p/badlands-brief-3d4
 2. Badlands Brief — "Abrahamic Rug Pulls, Frivolous Lawfare, & False Statements Under Oath", URL: https://badlands.substack.com/p/badlands-brief-e60
@@ -122,3 +130,5 @@ Writing in the July 2, 2024 Badlands News Brief, [[ghostofbasedpatrickhenry|Ghos
 14. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38
 15. Badlands Brief — "Badlands News Brief: Black Hat Nightmares & A Camelback Caravan of Confirmation", URL: https://badlands.substack.com/p/badlands-news-brief-a64
 16. Badlands Brief — "Badlands News Brief: Wins at Home and Deals Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-aac
+17. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2
+18. Badlands News Brief — "Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f

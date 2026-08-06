@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [democrats, 2024-election, first-lady, speculation]
-sources: [raw/badlands-news-brief-11c.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-484.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-b40.md]
+sources: [raw/badlands-news-brief-11c.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-484.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-b40.md, raw/badlands-news-brief-be1.md, raw/badlands-news-brief-cc9.md, raw/badlands-news-brief-ce5.md]
 confidence: low
 ---
 
@@ -42,6 +42,10 @@ In late June 2024, Axios reported that Michelle Obama had privately expressed fr
 
 [[ashe-in-america|Ashe in America]] dismissed the report as "a (too) long gossip piece" recycling old drama, and argued that the genuinely newsworthy subject was Michelle Obama's [[when-we-all-vote|When We All Vote]], which she called "the mother of all NGOs" and described as the umbrella under which the other election-related NGOs operate.[7] Ashe noted that the organization was established in 2018, shortly before Biden spoke about his "voter fraud" network, adding drily that she was sure the two facts were unrelated.[7]
 
+## 2024 Democratic National Convention
+
+Michelle Obama appeared alongside her husband on Day 2 of the [[2024-democratic-national-convention|2024 Democratic National Convention]] in Chicago, part of an effort by party leaders to lend [[kamala-harris|Kamala Harris]]'s campaign the atmosphere of the 2008 [[barack-obama|Obama]] run.[8] The Badlands News Brief, writing as [[burning-bright|Burning Bright]], argued that the Obamas' reappearance in the central narrative was not the win establishment media assumed, since the party's coalition had drifted toward Marxists and disillusioned centrists whose votes were never at risk, and since the Obamas' standing in the collective American mind had never been lower.[8] The Brief asked whether the Obamas and Clintons were rolling out the red carpet for Harris ahead of an election steal or preparing the psychological ground for an October surprise.[8]
+
 ## References
 
 1. Badlands Brief — "The Turn on Biden Begins", URL: https://badlands.substack.com/p/badlands-news-brief-11c
@@ -51,3 +55,18 @@ In late June 2024, Axios reported that Michelle Obama had privately expressed fr
 5. Badlands Brief — "Trump Trifecta, COVID Concealment & Sorosian Slime", URL: https://badlands.substack.com/p/badlands-news-brief-5a7
 6. Badlands Brief — "Trumpian Rug Pulls, Biden Whispers & NATO Panic", URL: https://badlands.substack.com/p/badlands-news-brief-6c4
 7. Badlands Brief — "Badlands News Brief: Debates, Decisions and Disasters for the Deep State", URL: https://badlands.substack.com/p/badlands-news-brief-b40
+8. Badlands Brief — "Badlands News Brief: Obamas Resurface as the Establishment Hedges", URL: https://badlands.substack.com/p/badlands-news-brief-be1
+
+## Cruz's 2023 replacement speculation
+
+In September 2023, Senator [[ted-cruz|Ted Cruz]] told [[sean-hannity|Sean Hannity]] that "the odds are very significant" that the Democratic Party would jettison [[joe-biden|Joe Biden]] at the 2024 Democratic National Convention and "parachute in instead, Michelle Obama to be their candidate," adding that such an outcome "would be very, very dangerous."[9] Cruz argued the likelihood rose every time a Democrat or a sympathetic journalist highlighted Biden's problems, and reasoned that no other candidate could avoid alienating some part of the Democratic coalition.[9]
+
+[[badlands-media|Badlands Media]] contributor [[paul-fleuret|Paul Fleuret]] wrote that speculation about Biden being replaced — by [[gavin-newsom|Gavin Newsom]], [[hillary-clinton|Hillary Clinton]] or Obama — reflected the [[democratic-national-committee|DNC]]'s reluctance to run him against [[donald-trump|Donald Trump]], and said choosing Obama would underscore how little the party cared about competence.[9] [[ryan-delarme|Ryan DeLarme]] called the scenario "the old switcheroo," argued Obama lacked experience and was generally unlikeable, and said that any such attempt would require confidence in the ability to cheat, though he doubted she would reach the White House.[9]
+
+9. Badlands Brief — "Badlands News Brief: Hunter Sues, Ukraine Backpedals & Big Mike Preps", URL: https://badlands.substack.com/p/badlands-news-brief-cc9
+
+## IMO podcast and March 2025 coverage
+
+In March 2025, Obama's new haircut sparked online discussion, largely among conservative accounts.[10] The former first lady was cohosting a new podcast with her older brother, Craig Robinson, titled *IMO with Michelle Obama & Craig Robinson* — short for "in my opinion."[10] The show focuses heavily on audience questions, with the siblings sharing their opinions each week on topics such as marriage and parenting alongside a special guest.[10] The episode released that Wednesday featured actor Seth Rogen and his wife, filmmaker and actress Lauren Miller Rogen; Obama wore a collared shirt with a blazer and blue jeans, with her hair pulled back into three buns, prompting commentary on social platform X.[10] Badlands commentary noted that the episode drew roughly 14,000 views and argued it was hard to "change the world" once the accompanying propaganda apparatus had been degraded.[10]
+
+10. Badlands Brief — "Badlands News Brief: Calibrating Education, Recalculating Commands, & Countering Currency Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-ce5

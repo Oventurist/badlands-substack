@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, journalism, conservative-media]
-sources: [raw/badlands-news-brief-023.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-0db.md]
+sources: [raw/badlands-news-brief-023.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-cb9.md]
 confidence: high
 ---
 
@@ -20,7 +20,16 @@ In the December 22, 2023 Brief, The Epoch Times supplied a bonus item reporting 
 
 The Epoch Times supplied the reporting behind the [[badlands-news-brief|Badlands News Brief]] item on [[matt-gaetz|Matt Gaetz]]'s reaction to the election of [[mike-johnson|Mike Johnson]] as Speaker of the House, in which Gaetz declared that the "swamp is on the run" and "MAGA is ascendant."[3] Its account documented that after a three-week leadership void the GOP conference chose Johnson as its nominee and that he won 220 votes on the first floor ballot, that Gaetz had led the motion to oust former Speaker [[kevin-mccarthy|Kevin McCarthy]], and that Johnson had been runner-up to [[tom-emmer|Tom Emmer]], the third nominee, after [[steve-scalise|Steve Scalise]] and [[jim-jordan|Jim Jordan]] failed to secure sufficient support.[3]
 
+## Interview with Daniel Lacalle (March 2023)
+
+The Epoch Times published an interview in March 2023 with fund manager and economist [[daniel-lacalle|Daniel Lacalle]], who argued that ordinary Americans would see their wealth repeatedly chipped away as the monetary system degrades and requires progressively more intervention to perpetuate itself, though it might take "a very long time" for the system to break.[4] The piece framed the failures of [[silicon-valley-bank|Silicon Valley Bank]] and [[first-republic-bank|First Republic Bank]] as symptoms of a problem the [[federal-reserve|Federal Reserve]] cannot fix.[4]
+
+## Interview with Daniel Lacalle (March 2023)
+
+The Epoch Times published an interview in March 2023 with fund manager and economist [[daniel-lacalle|Daniel Lacalle]], who argued that ordinary Americans would see their wealth repeatedly chipped away as the monetary system degrades and requires progressively more intervention to perpetuate itself, though it might take "a very long time" for the system to break.[4] The piece framed the failures of [[silicon-valley-bank|Silicon Valley Bank]] and [[first-republic-bank|First Republic Bank]] as symptoms of a problem the [[federal-reserve|Federal Reserve]] cannot fix.[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Chaos in the Middle East Overshadows That at Home", URL: https://badlands.substack.com/p/badlands-news-brief-023
 2. Badlands News Brief — "MAGA Gets Branded as Biden Bungles Everything", URL: https://badlands.substack.com/p/badlands-news-brief-07e
 3. Badlands Brief — "Badlands News Brief: Draft Dodgers, Peacemakers & Warmongers Galore!", URL: https://badlands.substack.com/p/badlands-news-brief-0db
+4. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9

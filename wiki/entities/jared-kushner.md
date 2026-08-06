@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [trump-administration, cbdc, crypto, white-house]
-sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-169.md, raw/badlands-brief-7c6.md, raw/badlands-brief-8db.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-623.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a82.md]
+sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-169.md, raw/badlands-brief-7c6.md, raw/badlands-brief-8db.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-623.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-cad.md]
 confidence: medium
 ---
 
@@ -82,6 +82,15 @@ Kushner accompanied special envoy Steve Witkoff to Moscow in early December 2025
 
 Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote that [[mohammed-bin-salman|Mohammed bin Salman]] made contact with Jared Kushner through back-channels before [[donald-trump|Donald Trump]] was even inaugurated, ensuring that the ascending president would receive a king's welcome when he visited Riyadh in the months ahead.[13]
 
+
+## Kremlin talks on the Ukraine peace plan (December 2025)
+
+On Tuesday, December 2, 2025, Kushner — described as President [[donald-trump|Donald Trump]]'s son-in-law and unofficial diplomat — joined US envoy [[steve-witkoff|Steve Witkoff]] at the Kremlin for high-level talks with President [[vladimir-putin|Vladimir Putin]], at which the American side presented Trump's Ukraine peace plan in its current form.[14] The meeting followed a high-stakes session in Miami with the Ukrainian delegation focused on ceding territory and the shape of future boundaries in the Donbass.[14] Russian presidential aide [[yuri-ushakov|Yury Ushakov]] called the five hours of talks constructive, very useful and substantive, while noting that no compromises had yet been found.[14]
+
+## Miami talks with Russia, December 2025
+
+Trump's son-in-law was expected to join special envoy [[steve-witkoff|Steve Witkoff]] in representing the United States at talks with Russian officials in Miami in mid-December 2025, part of the administration's push to end nearly four years of war between Kyiv and Moscow.[15] The Russian delegation was expected to include sovereign wealth fund head [[kirill-dmitriev|Kirill Dmitriev]], and both sides' plans remained in flux as Moscow held to its demands.[15]
+
 ## References
 1. Badlands Brief — "Are CBDCs The Path To Fear, or Freedom?", URL: https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom
 2. Badlands Brief — "Condemnation, Calibration, & Constitutional Boxes", URL: https://badlands.substack.com/p/badlands-brief-169
@@ -96,3 +105,5 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote
 11. Badlands Brief — "Badlands News Brief: Putin Postures, Voting Matters & J6 Subpoenas", URL: https://badlands.substack.com/p/badlands-news-brief-8c5
 12. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
 13. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
+14. Badlands Brief — "Bogus Visas, Brazilian Sanctions, and Foreign Boat Battles", URL: https://badlands.substack.com/p/badlands-news-brief-bd7
+15. Badlands Brief — "A Christmas Bonus, War “With” Venezuela, & Prime Time Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-cad

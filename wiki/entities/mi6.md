@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence, united-kingdom, cabal]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-69b.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-c93.md]
 confidence: low
 ---
 
@@ -24,7 +24,12 @@ Commenting in August 2025 on the delayed Chinese "super embassy" project in Lond
 
 Badlands Media attributes sponsorship of the [[muslim-brotherhood|Muslim Brotherhood]] to MI6 and describes [[qatar|Qatar]] as hosting both that leadership and a large operational hub for MI6 and the [[cia|CIA]], along with their affiliated NGOs and the US military.[3] The outlet extends the inference to [[al-jazeera|Al Jazeera]], reasoning that if the network is a Muslim Brotherhood outlet it is "probably" connected to London as well.[3]
 
+## Alleged collusion against Trump's Ukraine diplomacy (December 2025)
+
+In December 2025, former US National Security Adviser [[michael-flynn|Michael Flynn]] alleged that the [[central-intelligence-agency|CIA]] was "in cahoots with MI6 and others in the EU intelligence community" in an effort to undermine President [[donald-trump|Donald Trump]]'s attempts to broker peace in Ukraine.[4] Badlands commentary extended the claim, naming MI6 alongside the CIA and [[mossad|Mossad]] as probable participants in the failed assassination attempt against Trump, and listing MI6 among the forces opposing Russian influence in Africa.[4]
+
 ## References
 1. Badlands Brief — "A Journey of Ever-changing Truths", URL: https://badlands.substack.com/p/a-journey-of-ever-changing-truths
 2. Badlands News Brief — "Pre-Dawn Raids, Russiagate Racketeering, & Real-Time Adverse Reporting", URL: https://badlands.substack.com/p/badlands-news-brief-32d
 3. Badlands Brief — "Badlands News Brief: Trump Calls for Peace as the World Heads Toward War", URL: https://badlands.substack.com/p/badlands-news-brief-69b
+4. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93

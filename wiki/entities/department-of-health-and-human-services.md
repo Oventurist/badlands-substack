@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [federal-agency, health, funding, minnesota]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-b62.md, raw/badlands-brief.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-238.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-656.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-b62.md, raw/badlands-brief.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-238.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-cce.md]
 confidence: medium
 ---
 
@@ -45,6 +45,14 @@ In April 2023 HHS employee [[tara-lee-rodas|Tara Lee Rodas]], detailed to an Eme
 
 After [[donald-trump|Donald Trump]] tapped [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] to lead the department, Kennedy's advisers reached out to HHS multiple times in November 2024 hoping to begin coordination before his takeover in late January, and were rebuffed.[8] The inability to communicate with the agency was a consequence of the Trump transition's delay in signing the standard trio of ethics and transparency agreements with the federal government, which blocked formal contact with federal agencies, the dispatch of policy "landing teams," access to cybersecurity support and secure email servers, and FBI background checks for nominees.[8]
 
+## Termination of American Academy of Pediatrics grants, December 2025
+
+HHS canceled seven federal grants worth millions of dollars to the [[american-academy-of-pediatrics|American Academy of Pediatrics]] in December 2025, citing misalignment with agency priorities.[9] Officials said the awards conflicted with HHS priorities because of the group's use of "identity-based language," including references to racial disparities and "pregnant people," and because at least one program placed insufficient emphasis on nutrition and chronic disease prevention.[9] Three grants had been issued by the [[centers-for-disease-control-and-prevention|CDC]] and four by the Health Resources and Services Administration, with several termination notices citing a federal statute allowing cancellation when an award no longer advances agency goals.[9] The AAP had criticized Secretary [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] for unilateral changes to vaccine policy and for dismissing the CDC's independent vaccine advisers.[9]
+
+## America First Legal FOIA lawsuit (December 2023)
+
+HHS was named alongside the [[food-and-drug-administration|Food and Drug Administration]] in a December 2023 suit by [[america-first-legal|America First Legal]] over the agencies' failure to produce records about the government's suppression of [[hydroxychloroquine|hydroxychloroquine]] and [[ivermectin|ivermectin]] as COVID-19 treatments.[10] AFL had submitted [[freedom-of-information-act|FOIA]] requests to HHS in August and September 2022, receiving acknowledgements and tracking numbers, but the department did not comply.[10] The requests aimed to determine when and why officials such as [[anthony-fauci|Anthony Fauci]] discouraged the treatments.[10]
+
 ## References
 
 1. Badlands Brief — "Somali Shatterpoints, Cartel Countermeasures, & Erosion of the World Order", URL: https://badlands.substack.com/p/badlands-brief-094
@@ -55,3 +63,5 @@ After [[donald-trump|Donald Trump]] tapped [[robert-f-kennedy-jr|Robert F. Kenne
 6. Badlands Brief — "Badlands News Brief: MAHA Begins as ESG Dies", URL: https://badlands.substack.com/p/badlands-news-brief-299
 7. Badlands Brief — "Badlands News Brief: FOX Trots, Montana Maintains & Congress Convenes", URL: https://badlands.substack.com/p/badlands-news-brief-49a
 8. Badlands Brief — "It’s Our Failed ‘Resistance’ and We Can Cry if We Want To", URL: https://badlands.substack.com/p/badlands-news-brief-656
+9. Badlands Brief — "A Christmas Bonus, War “With” Venezuela, & Prime Time Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-cad
+10. Badlands Brief — "Badlands News Brief: The System of Systems is a House of Cards", URL: https://badlands.substack.com/p/badlands-news-brief-cce

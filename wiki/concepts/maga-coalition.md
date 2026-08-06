@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [politics, republican-party, foreign-policy, america-first]
-sources: [raw/badlands-brief-c91.md, raw/badlands-news-brief-410.md]
+sources: [raw/badlands-brief-c91.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-cfa.md]
 confidence: medium
 ---
 
@@ -30,7 +30,12 @@ CNN contributor [[scott-jennings|Scott Jennings]] challenged the narrative on CN
 
 Badlands commentary read the episode through an irregular-warfare lens: because one goal of irregular warfare is to attack the legitimacy of its target, Jon Herold asked why self-described MAGA influencers were assisting that effort by portraying Trump as incompetent, and why an incompetent president would pose such a threat to his opponents.[2] Burning Bright described a concentrated effort to undermine Trump's presidency and national mandate emanating from within key nodes of the MAGA core, writing that "the wolves are in the house. They have been the whole time."[2]
 
+## Size claims (October 2024)
+
+During the 2024 campaign Trump boasted about the scale of the movement in a podcast interview, telling WWE legend Mark "The Undertaker" Calaway on his *Six Feet Under* show that "we have MAGA—Make America Great Again—you know all about it. Right now, it's 200 million people, maybe even more, representing a majority of the country."[3] Newsweek noted that the figure was nearly triple his 2020 popular vote of roughly 74 million, that he offered no evidence for it, and that he had often inflated figures regarding his political base and rally attendance throughout the campaign.[3] Trump called MAGA "the greatest movement in the history of any country."[3] The interview formed part of his strategy of engaging male voters through online platforms, and turned to his long involvement with professional wrestling, including appearances at WWE events and his participation in the 2007 "Battle of the Billionaires" at WrestleMania 23.[3]
+
 ## References
 
 1. Badlands Brief — "Trump Rugs the Deltas with an Early MOU", URL: https://badlands.substack.com/p/badlands-brief-c91
 2. Badlands Brief — "New(ish) Negotiations, NATO Nazis, & Neocon Narrative Nonsense", URL: https://badlands.substack.com/p/badlands-news-brief-410
+3. Badlands News Brief — "Trump Talks Taxes as Deep State Shenanigans Abound", URL: https://badlands.substack.com/p/badlands-news-brief-cfa

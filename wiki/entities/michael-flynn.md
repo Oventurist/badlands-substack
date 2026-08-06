@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military, cbdc, intelligence, national-security]
-sources: [raw/are-we-entering-the-millennial-reign.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-579.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-b26.md]
+sources: [raw/are-we-entering-the-millennial-reign.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-579.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-c93.md]
 confidence: low
 ---
 
@@ -84,8 +84,11 @@ Badlands contributor [[justin-deschamps|Justin Deschamps]] argued that because t
 
 Flynn wrote the foreword to the more-than-eighty-page article by [[patrick-byrne|Patrick Byrne]] that headlined the inaugural issue of [[capitol-times-magazine|Capitol Times Magazine]] in June 2023.[14] In it he stated unequivocally, "Patrick's story is for real; he's for real, and the corruption he's exposed is for real, and it only gets worse the further you read."[14]
 
-## References
+## Allegations of CIA collusion against Trump (December 2025)
 
+In a post on X on Sunday, December 21, 2025, Flynn alleged collusion between the [[central-intelligence-agency|CIA]] and European intelligence services to undermine President [[donald-trump|Donald Trump]]'s efforts to broker peace in Ukraine.[15] He wrote that the CIA is "in cahoots with [[mi6|MI6]] and others in the EU intelligence community," reiterating his warning that the [[deep-state|deep state]] is plotting against Trump.[15] Flynn added that "the EU aka [[nato|NATO]] (minus the United States) desperately wants war with Russia" and that "warmongers in our own administration as well as the Congress want perpetual" war.[15] His remarks echoed statements by Director of National Intelligence [[tulsi-gabbard|Tulsi Gabbard]], who accused [[reuters|Reuters]] of spreading "lies and propaganda" about Russian intentions to undermine Trump's diplomacy and promote escalation.[15]
+
+## References
 1. Badlands Brief — "Are We Entering the Millennial Reign?", URL: https://badlands.substack.com/p/are-we-entering-the-millennial-reign
 2. Badlands News Brief — "The Walz Cycle Consumes Itself as Tensions Pause", URL: https://badlands.substack.com/p/badlands-news-brief-0ad
 3. Badlands Brief — "Badlands News Brief: Democrats in Disarray as Globalists Bend the Knee", URL: https://badlands.substack.com/p/badlands-news-brief-099
@@ -100,3 +103,4 @@ Flynn wrote the foreword to the more-than-eighty-page article by [[patrick-byrne
 12. Badlands Brief — "Badlands News Brief: Saudi Scoops, Slender Stabbers, & Scorned Scouts", URL: https://badlands.substack.com/p/badlands-news-brief-824
 13. Badlands News Brief — "Trump on Wuhan, Flynn Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-af7
 14. Badlands Brief — "Badlands News Brief: Trump's Tapes, Putin's Plan & Byrne's Bio", URL: https://badlands.substack.com/p/badlands-news-brief-b26
+15. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93

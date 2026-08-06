@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [space, government-agency, artemis, moon]
-sources: [raw/badlands-brief-282.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-9bc.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-b40.md]
+sources: [raw/badlands-brief-282.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-9bc.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-b40.md, raw/badlands-news-brief-c93.md]
 confidence: medium
 ---
 
@@ -53,6 +53,10 @@ A [[spacex|SpaceX]] crew capsule reached the [[international-space-station|Inter
 
 In late June 2024, NASA announced that [[spacex|SpaceX]] had been selected to develop and deliver the US Deorbit Vehicle, under a contract worth nearly $1 billion, to steer the [[international-space-station|International Space Station]] out of orbit by the end of the decade and into the Pacific Ocean while avoiding risk to populated areas.[8] The station, launched in 1998, had recently had its operational life extended from 2024 to 2030, with Russia planning to withdraw and build its own station.[8] Ken Bowersox, associate administrator for the Space Operations Mission Directorate at NASA Headquarters in Washington, said the selection would help NASA and its international partners "ensure a safe and responsible transition in low Earth orbit at the end of station operations," support plans for future commercial destinations, and allow continued use of space near Earth.[8]
 
+## Isaacman swearing-in and the 2028 lunar goal
+
+[[jared-isaacman|Jared Isaacman]], a billionaire private astronaut and former SpaceX customer, was sworn in as NASA's 15th administrator on December 18, 2025.[9] Hours later President [[donald-trump|Donald Trump]] issued the executive order [[ensuring-american-space-superiority|"Ensuring American Space Superiority"]], which enshrined the US goal of putting humans back on the Moon by 2028, urged efficiency among private contractors, and called for deploying nuclear reactors on the Moon and in orbit, including a lunar surface reactor ready for launch by 2030.[9]
+
 ## References
 1. Badlands Brief — "Jesus Walks", URL: https://badlands.substack.com/p/badlands-brief-282
 2. Badlands News Brief — "New York Insurrection, A Rapturous Reception, & Lying Tools", URL: https://badlands.substack.com/p/badlands-news-brief-0b0
@@ -62,3 +66,4 @@ In late June 2024, NASA announced that [[spacex|SpaceX]] had been selected to de
 6. Badlands News Brief — "Trump's Avengers Assemble as Globalists Tremble", URL: https://badlands.substack.com/p/badlands-news-brief-9bc
 7. Badlands News Brief — "Defiant Deportations & Canadian Freeloaders", URL: https://badlands.substack.com/p/badlands-news-brief-ae1
 8. Badlands Brief — "Badlands News Brief: Debates, Decisions and Disasters for the Deep State", URL: https://badlands.substack.com/p/badlands-news-brief-b40
+9. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93

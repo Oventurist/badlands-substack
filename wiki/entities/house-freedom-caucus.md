@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republicans, spending, america-first]
-sources: [raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-72e.md]
+sources: [raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-bd7.md]
 confidence: medium
 ---
 
@@ -32,6 +32,12 @@ Conservatives in the caucus had pressed for the funding bills to carry more stri
 
 - [[house-freedom-caucus-holdouts|House Freedom Caucus holdouts]]
 
+
+## SCORE Act floor delay (December 2025)
+
+On Tuesday, December 2, 2025, a handful of Freedom Caucus members delayed action on the House floor in protest of the Student Compensation and Opportunity Through Rights and Endorsements (SCORE) Act, a bill regulating compensation college athletes receive for their name, image and likeness.[3] Representatives [[byron-donalds|Byron Donalds]] of Florida, [[scott-perry|Scott Perry]] of Pennsylvania and [[chip-roy|Chip Roy]] of Texas voted with all Democrats against the procedural rule that would have teed up votes on the SCORE Act and other measures, stalling the tally at 207-209.[3] House Majority Leader [[steve-scalise|Steve Scalise]] huddled with Roy, Freedom Caucus Chair [[andy-harris|Andy Harris]], Representative [[andrew-clyde|Andrew Clyde]] and other members and staff; Harris and Clyde eventually voted in favour, and leaders waited for an absent Republican to arrive so the rule could pass.[3] The episode coincided with Representative [[elise-stefanik|Elise Stefanik]]'s public accusation that Speaker [[mike-johnson|Mike Johnson]] was lying and protecting the "deep state," underscoring a Republican conference on a razor's edge.[3]
+
 ## References
 1. Badlands Brief — "Epstein Boomerangs & Bipartisan Bullsh*t", URL: https://badlands.substack.com/p/badlands-news-brief-6d2
 2. Badlands Brief — "Badlands News Brief: Ukraine Bursts, Tucker Returns & Trump Promises", URL: https://badlands.substack.com/p/badlands-news-brief-72e
+3. Badlands Brief — "Bogus Visas, Brazilian Sanctions, and Foreign Boat Battles", URL: https://badlands.substack.com/p/badlands-news-brief-bd7

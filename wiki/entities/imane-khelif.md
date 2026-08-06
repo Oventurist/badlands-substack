@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [olympics, boxing, gender-eligibility, algeria]
-sources: [raw/badlands-news-brief-06e.md]
+sources: [raw/badlands-news-brief-06e.md, raw/badlands-news-brief-ca1.md]
 confidence: medium
 ---
 
@@ -25,3 +25,10 @@ Badlands commentary characterized the bout as a boxer with XY chromosomes compet
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Fake Electionception, Sovereign Alliance Digs & Chick Fights", URL: https://badlands.substack.com/p/badlands-news-brief-06e
+## IBA press conference on chromosome testing (August 2024)
+
+At a press conference on Monday, August 5, 2024, the [[international-boxing-association|International Boxing Association]] categorically stated that Khelif and Taiwan's [[lin-yu-ting|Lin Yu-ting]], both then in the semi-finals of the women's boxing tournament at the [[2024-paris-summer-olympics|Paris Olympics]], are "male" because they had failed a previous gender chromosome test.[2] IBA chief executive Chris Roberts said 2022 results from an independent laboratory in Istanbul "demonstrated the chromosomes we refer to in competition rules that make both boxers ineligible," and that both athletes were told they had tested positive for XY chromosomes and could appeal to the [[court-of-arbitration-for-sport|Court of Arbitration for Sport]] at the IBA's expense.[2] Khelif filed an appeal and then withdrew it, while Lin did not appeal; both were re-tested with the same results in India during the 2023 Women's World Boxing Championships.[2]
+
+[[ashe-in-america|Ashe in America]] wrote that Khelif was scheduled to fight in the welterweight semi-final that day and that both fighters were guaranteed to leave the games with medals, criticizing the [[international-olympic-committee|International Olympic Committee]] for a stance she contrasted with its deference to the governing body of men's volleyball on the eligibility of a convicted child rapist.[2]
+
+2. Badlands Brief — "Fake Vice Presidents and Effective Lawsuits", URL: https://badlands.substack.com/p/badlands-news-brief-ca1

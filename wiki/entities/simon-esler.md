@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, contributor]
-sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-b5a.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-b5a.md, raw/badlands-news-brief-c1e.md]
 confidence: low
 ---
 
@@ -55,3 +55,11 @@ On the Greek objection to the [[netflix|Netflix]] portrayal of [[alexander-the-g
 5. Badlands Brief — "Badlands News Brief: Dali, Diddy & DJT", URL: https://badlands.substack.com/p/badlands-news-brief-491
 6. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
 7. Badlands Brief — "An Embattled Media, Mysterious Outages & Gay History", URL: https://badlands.substack.com/p/badlands-news-brief-b5a
+
+## Commentary in the March 2024 News Brief
+
+In the March 20, 2024 [[badlands-media|Badlands]] News Brief, Esler wrote on two items. On the *[[rolling-stone|Rolling Stone]]* investigation into [[shangela|Shangela]], he called the story shallower than expected, describing much of it as a dispute over consent between heavily intoxicated adults, and criticized the article's insistence that "conservatives may weaponize it against the queer community," arguing that the fears described were largely ideologically self-generated.[8]
+
+On the ruling permitting the [[2022-buffalo-supermarket-shooting|Buffalo shooting]] lawsuit against [[meta-platforms|Meta]], [[google|Alphabet]], [[reddit|Reddit]] and [[4chan]] to proceed, he argued that "extremist" now refers only to right-wing ideologies under a radicalized legal system, and warned that a plaintiff victory would justify further big tech crackdowns.[8] He contrasted the case with the absence of comparable suits over social media's role in youth medical transition, citing detransitioner [[chloe-cole|Chloe Cole]]'s malpractice suit against [[kaiser-permanente|Kaiser Permanente]], and asked whether [[lawfare]] not founded in law is anything but lawlessness — adding that a new respect for the law was being cultivated as people saw the severity of the infection.[8]
+
+8. Badlands Brief — "Badlands News Brief: Weaponization, Willis, and World War III", URL: https://badlands.substack.com/p/badlands-news-brief-c1e

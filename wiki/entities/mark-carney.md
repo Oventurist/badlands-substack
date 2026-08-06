@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [canada, banking, green-finance, goldman-sachs, city-of-london]
-sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-1ce.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-314.md, raw/badlands-brief-577.md, raw/badlands-brief-a84.md, raw/badlands-brief-db7.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-719.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-ae1.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-1ce.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-314.md, raw/badlands-brief-577.md, raw/badlands-brief-a84.md, raw/badlands-brief-db7.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-719.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-c4f.md]
 confidence: medium
 ---
 
@@ -135,6 +135,12 @@ Carney made his first foreign trip to Paris and London on Monday, March 17, 2025
 Badlands commentator [[ashe-in-america|Ashe in America]] characterized the transition as "a bloodline banker at the helm of Maple World," recalling Trump's December Truth Social post asking why the United States subsidizes Canada "to the tune of over $100,000,000 a year" and suggesting many Canadians want statehood; she argued that removing subsidies would force change in Canada and that Canadian ideology — "collectivist elitists with a monarch on their money" — is incompatible with American liberty.[20] [[burning-bright|Burning Bright]] added that Canadians have long imagined themselves as elves superior to mortal Americans while in reality resembling hobbits, warning that "if the globalists win, there won't be a Canada."[20]
 
 
+## "The world can go on without the US" (November 2025)
+
+Speaking to journalists on the sidelines of the [[2025-g20-johannesburg-summit|G20 summit]] in Johannesburg in November 2025, Carney said Washington should not overestimate its role in the international arena, adding that a wide range of issues can be resolved without US involvement and that the economic "center of gravity" is shifting away from America.[21] The United States skipped the meeting; President [[donald-trump|Donald Trump]] cited accusations that South Africa was perpetrating a genocide against white farmers as the reason for his absence, and Washington claimed that only a chairman's summary could be released because the US was not present — though the G20 issued a declaration anyway.[21]
+
+Badlands commentator [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] offered several readings of the remarks, noting that Matt Ehret had taught him to see Carney as "the king of all central bankers," representing interests describable only as globalist and one-world government.[21] On one framing the comments were typical anti-American rhetoric applauding the waning of American society and influence; on a second, "bicameral" framing they were the central banker king conceding the demise of the central banking system and the shift toward a multipolar world with decentralized economic and financial systems.[21] The framing he favored was that Carney had been deployed to subvert the MAGA agenda — particularly the tariff program — which would explain the collapse of Canada–US trade negotiations, with the remarks read as a defiant reaction to Trump's populist-nationalist agenda.[21] He added that he does not assume every major public figure is directly controlled by the Trump team, and that most figures, possibly including Carney, are simply responding to an incentive structure laid out before them.[21]
+
 ## References
 
 1. Badlands Brief — "A Re-Alignment of World Systems", URL: https://badlands.substack.com/p/a-re-alignment-of-world-systems
@@ -157,3 +163,4 @@ Badlands commentator [[ashe-in-america|Ashe in America]] characterized the trans
 18. Badlands News Brief — "Atmospheric Phenomenon & Record Deportations", URL: https://badlands.substack.com/p/badlands-news-brief-719
 19. Badlands News Brief — "Shadow Feds, Activist Courts, & Lasting Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a69
 20. Badlands News Brief — "Defiant Deportations & Canadian Freeloaders", URL: https://badlands.substack.com/p/badlands-news-brief-ae1
+21. Badlands Brief — "Badlands News Brief: Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [sponsor, supplements, badlands-media]
-sources: [raw/badlands-news-brief-7c5.md]
+sources: [raw/badlands-news-brief-7c5.md, raw/badlands-news-brief-bd2.md]
 confidence: medium
 ---
 
@@ -18,5 +18,10 @@ According to the sponsored placement carried in the July 4, 2025 edition of the 
 
 The placement appeared under the Brief's standard "Sponsored" label, consistent with the newsletter's practice of running clearly marked sponsor slots between editorial items.[1]
 
+## Sponsorship of the Badlands News Brief (September 2025)
+
+NativePath Collagen was promoted in the Badlands News Brief of 25 September 2025 as a single-ingredient formula with no fillers, additives, or artificial sweeteners, made with only type 1 and 3 collagen fibers and third-party tested for heavy metals.[2] The sponsored placement directed readers to getnativepath.com/badlands.[2]
+
 ## References
 1. Badlands Brief — "Happy Independence Day!", URL: https://badlands.substack.com/p/badlands-news-brief-7c5
+2. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2

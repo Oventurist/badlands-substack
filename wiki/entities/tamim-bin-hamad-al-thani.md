@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [qatar, monarchy, gulf-states]
-sources: [raw/badlands-brief-805.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-951.md]
+sources: [raw/badlands-brief-805.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-bd2.md]
 confidence: medium
 ---
 
@@ -30,8 +30,13 @@ On December 8, 2025, following a meeting in Riyadh with Saudi Crown Prince [[moh
 
 Badlands commentary presented the agreement as the culmination of a reconciliation that began during the 2017 blockade of [[qatar|Qatar]], when Sheikh Tamim visited President [[donald-trump|Donald Trump]] at the White House in September of that year and Trump pledged to help resolve the dispute with MBS; a peace deal was signed the week Trump left office in 2021.[4]
 
+## Convening the Arab-Muslim meeting with Trump (September 2025)
+
+Badlands commentary credited the Qatari Emir, alongside Saudi Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]], with calling the September 2025 United Nations meeting at which President [[donald-trump|Donald Trump]] pledged to Arab and Muslim leaders that he would not allow [[benjamin-netanyahu|Benjamin Netanyahu]] to annex the West Bank.[5]
+
 ## References
 1. Badlands Brief — "RIP Lindsey Graham", URL: https://badlands.substack.com/p/badlands-brief-805
 2. Badlands News Brief — "SCOTUS Drama and (Altered) Deals Shake Up the Week", URL: https://badlands.substack.com/p/badlands-news-brief-4e1
 3. Badlands Brief — "Badlands News Brief: Trump Calls for Peace as the World Heads Toward War", URL: https://badlands.substack.com/p/badlands-news-brief-69b
 4. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951
+5. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2

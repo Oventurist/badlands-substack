@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [immigration, ice, federalism, law-enforcement]
-sources: [raw/badlands-brief-577.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-215.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-719.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-7e5.md]
+sources: [raw/badlands-brief-577.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-215.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-719.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-7e5.md, raw/badlands-news-brief-c44.md]
 confidence: medium
 ---
 
@@ -60,6 +60,10 @@ On June 30, 2025, the [[department-of-justice|Justice Department]] sued the City
 
 The ordinance, as described by the Los Angeles City Council in November 2024, "permanently enshrines sanctuary policies into municipal law" and prohibits the use of city property and personnel for immigration enforcement or cooperation with federal immigration agents.[8] Badlands contributor Ashe in America framed the suit as the fulfilment of [[tom-homan|Tom Homan]]'s December 2024 pledge to target sanctuary jurisdictions, and asked whether other sanctuary cities would learn from the Los Angeles example.[8]
 
+## Florida and the Orlando Trust Act (2025)
+
+Florida law bars sanctuary policies outright, and in April 2025 state Attorney General [[james-uthmeier|James Uthmeier]] warned Orlando Mayor [[buddy-dyer|Buddy Dyer]] that he could be removed from office if he implemented protections for illegal immigrants under the city's 2018 [[orlando-trust-act|Trust Act]], which forbids city employees and police from asking about immigration status.[9] Uthmeier cited section 908.107 of the Florida Statutes and the Florida Constitution, under which Governor [[ron-desantis|Ron DeSantis]] could remove a non-compliant local official, alongside contempt and injunctive remedies.[9] Badlands commentator [[chris-paul|Chris Paul]] observed that such removal powers exist widely but are almost never used, arguing that this restraint suggests other officials tolerate the violations as participants in the same system.[9]
+
 ## References
 
 1. Badlands Brief — "ICE Getting Boiled, Chinese Coup Chaos, & Carney Bends The Knee", URL: https://badlands.substack.com/p/badlands-brief-577
@@ -70,3 +74,4 @@ The ordinance, as described by the Los Angeles City Council in November 2024, "p
 6. Badlands News Brief — "Atmospheric Phenomenon & Record Deportations", URL: https://badlands.substack.com/p/badlands-news-brief-719
 7. Badlands Brief — "Badlands News Brief: Shutdowns, Shakedowns, & Two Sexes", URL: https://badlands.substack.com/p/badlands-news-brief-762
 8. Badlands Brief — "Badlands News Brief: Cartel Cybersnoops & Teenage Spider Hackers", URL: https://badlands.substack.com/p/badlands-news-brief-7e5
+9. Badlands Brief — "Badlands News Brief: A British TERF Triumph & A Senator Snubbed in El Salvador", URL: https://badlands.substack.com/p/badlands-news-brief-c44

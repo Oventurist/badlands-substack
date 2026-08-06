@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [badlands-media, newsletter, citizen-journalism]
-sources: [raw/a-look-at-recent-features.md, raw/badlands-news-blast.md, raw/badlands-news-brief-001.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-70d.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-7c5.md, raw/badlands-news-brief-aed.md]
+sources: [raw/a-look-at-recent-features.md, raw/badlands-news-blast.md, raw/badlands-news-brief-001.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-70d.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-7c5.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-bd6.md]
 confidence: medium
 ---
 
@@ -25,6 +25,8 @@ Editions carry sponsor placements; the August 15, 2025 issue promoted All Good, 
 ## Format and purpose
 
 The Brief presents itself as a response to a news cycle that is "almost impossible to track" in full: the [[badlands-media|Badlands Media]] team walks readers through a selection of news items from the previous day to give an overview of the biggest developments relevant to the Truth Community, paired with brief original commentary from its "growing team of citizen journalists."[2] Each contributor's name links to their work on other platforms, and issues typically close with the Badlands Media show schedule and an invitation to discuss the items in the comments.[2] The editors describe the project as an effort to "slow things down and find the signal amidst the noise" as the Information War continues.[2]
+
+The January 12, 2024 edition restated the standing format: team members hand-pick news items of interest from the previous days, some carrying original and explicitly subjective commentary, with links to the corresponding writers' Substack accounts so readers can explore their other work.[18] That issue also introduced a "BONUS ITEMS" section for shorter, quoted-only stories carried without Badlands commentary.[18]
 
 ## February 13, 2023 issue
 
@@ -121,3 +123,4 @@ Bonus items covered Harris's response to Biden's remark, the dispatch of [[amos-
 15. Badlands Brief — "Musk the Peacemaker, Constitutional Overreach & POTATUS", URL: https://badlands.substack.com/p/badlands-news-brief-670
 16. Badlands Brief — "Happy Independence Day!", URL: https://badlands.substack.com/p/badlands-news-brief-7c5
 17. Badlands Brief — "Badlands News Brief: The Garbage Man Cometh to Take out the Trash", URL: https://badlands.substack.com/p/badlands-news-brief-aed
+18. Badlands Brief — "Badlands News Brief: Houthi's War is it, Anyway?", URL: https://badlands.substack.com/p/badlands-news-brief-bd6

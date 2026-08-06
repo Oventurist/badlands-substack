@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, host, bitcoin, central-banking]
-sources: [raw/badlands-media-show-schedule-c28.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-a64.md]
+sources: [raw/badlands-media-show-schedule-c28.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-c4f.md]
 confidence: medium
 ---
 
@@ -35,6 +35,10 @@ GMONEY's contribution to the Badlands News Brief of April 4, 2025 noted that the
 
 Responding to the Riyadh deals announced during the [[2025-trump-middle-east-tour|2025 Trump Middle East tour]], GMONEY offered a two-word assessment — "Covfefe" — followed by the declaration that "the [[petrodollar|Petrodollar]] is TOAST!"[6] On efforts to curb NGO influence over migration policy in France, he pointed to [[nayib-bukele|Nayib Bukele]] "going ham" on NGOs, quoting at length the Salvadoran president's announcement of a [[foreign-agents-bill|Foreign Agents Bill]] taxing NGO donations at 30 percent.[6]
 
+## Commentary on state tax withholding (November 2025)
+
+Responding to New Jersey Governor-elect [[mikie-sherrill|Mikie Sherrill]]'s suggestion that her state might stop paying federal taxes in protest of [[donald-trump|Trump]] administration policies, GMONEY quoted her line — "If they're not gonna run the programs, then what are we paying them for? ... So let's stop paying for it" — and praised her as "finally a chik with more balls than most MAGAdonians who still pay their taxes."[7] He listed antifa, "Muslim terrorists," biolabs in Ukraine, abortion, and genocide among the things he said American tax dollars fund.[7]
+
 ## References
 1. Badlands Media — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-c28
 2. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-e18
@@ -42,3 +46,4 @@ Responding to the Riyadh deals announced during the [[2025-trump-middle-east-tou
 4. Badlands Brief — "Based Oklahoma, An African Ambush, & An Allegedly Big Beautiful Bill", URL: https://badlands.substack.com/p/badlands-news-brief-362
 5. Badlands Brief — "Badlands News Brief: Orange Friday, Election Action, & McKinsey's Gives Advice", URL: https://badlands.substack.com/p/badlands-news-brief-71f
 6. Badlands Brief — "Badlands News Brief: Black Hat Nightmares & A Camelback Caravan of Confirmation", URL: https://badlands.substack.com/p/badlands-news-brief-a64
+7. Badlands News Brief — "Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f

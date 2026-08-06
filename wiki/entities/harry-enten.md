@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cnn, polling, data-analysis, media, immigration]
-sources: [raw/badlands-brief-eed.md, raw/badlands-news-brief-a12.md]
+sources: [raw/badlands-brief-eed.md, raw/badlands-news-brief-a12.md, raw/badlands-news-brief-c9b.md]
 confidence: medium
 ---
 
@@ -24,6 +24,13 @@ In July 2025, Enten — identified as CNN's chief data analyst — expressed sur
 
 Badlands contributor [[ashe-in-america|Ashe in America]] reported that when she searched for coverage of the segment, no story existed until she queried Enten's exact quote and found an account at [[fox-news|Fox News]]; instead, search results were dominated by climate-alarm stories published the same day by outlets she characterized as propaganda organs.[2] She concluded that the CNN "narrative buster" was treated as an existential threat requiring immediate action from Google, USA Today and what she called the mockingbirds, and framed the underlying decline in climate fear as the collapse of a behavioral-change program begun with *An Inconvenient Truth* in 2006.[2]
 
+## Black voter support for Biden, 2024
+
+In June 2024 Enten expressed shock on air at how much support [[joe-biden|Joe Biden]] had lost among Black voters, calling [[donald-trump|Donald Trump]]'s polling numbers "historic."[3] He detailed that Trump was on course to win around 20 percent of Black voters — roughly double the usual Republican share — and that among Black voters under 50, Biden's support had halved in four years.[3] "I keep looking for this to change, to go back to a historical norm, and it, simply put, has not yet," Enten declared, in a segment [[modernity-news|Modernity News]] described as leaving the CNN data reporter "speechless."[3]
+
+Badlands writer [[ashe-in-america|Ashe in America]] read the numbers as evidence that Trump was gaining in every demographic and that Biden was objectively the worst candidate in the history of American suffrage, putting Biden 43 points below his 2020 support level among Black voters under 50.[3]
+
 ## References
 1. Badlands Brief — "WAR!", URL: https://badlands.substack.com/p/badlands-brief-eed
 2. Badlands News Brief — "Pentagon Portfolio Plays & Spy Court Sunlight", URL: https://badlands.substack.com/p/badlands-news-brief-a12
+3. Badlands Brief — "Badlands News Brief: Korean Borders, Warmongers & Peacemakers", URL: https://badlands.substack.com/p/badlands-news-brief-c9b

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [politician, republican, israel, free-speech]
-sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-782.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-af5.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-b35.md, raw/badlands-news-brief-b9c.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-782.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-af5.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-b35.md, raw/badlands-news-brief-b9c.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c18.md]
 confidence: medium
 ---
 
@@ -100,6 +100,14 @@ Writing for [[badlands-media|Badlands Media]], [[ashe-in-america|Ashe in America
 
 In the [[2024-nevada-republican-primary|2024 Nevada Republican primary]] held on February 6, 2024, Haley failed to win despite being the only major candidate on the ballot, finishing second to the ballot line "None of These Candidates" by roughly 22,000 votes and taking less than a third of the total.[17] More than 60 percent of participants voted for no one, while 2,705 cast ballots for [[mike-pence|Mike Pence]]; [[ashe-in-america|Ashe in America]] tallied 26,038 votes for "none of these candidates" against Haley's 14,328, a margin of about 27 percent.[17] Turnout was just 42,702 voters — 7.6 percent of the state's registered Republicans — with [[donald-trump|Donald Trump]] absent from the ballot because Nevada was concurrently running a party caucus.[17] Trump joked that Haley would soon be claiming victory.[17]
 
+## December 2023 opposition from Donald Trump Jr.
+
+In a Newsmax interview aired December 25, 2023, [[donald-trump-jr|Donald Trump Jr.]] said he "wouldn't have" Nikki Haley as his father's running mate and would "go to great lengths to make sure that doesn't happen."[18] The remarks followed footage of Haley — a former U.S. ambassador to the United Nations and a GOP presidential candidate — telling ABC News Live Prime that "I don't think he should be president" and that "Donald Trump brings us chaos."[18] Trump Jr. accused her of wanting "never-ending wars" and of being "a puppet of the establishment in Washington, D.C.," and "the new favorite candidate of the billionaire class."[18]
+
+## Ramaswamy clash over Israel (October 2023)
+
+In October 2023, rival Republican presidential candidate [[vivek-ramaswamy|Vivek Ramaswamy]] publicly criticized Haley for what he described as a "childish tantrum" regarding the attacks on Israel, telling [[tucker-carlson|Tucker Carlson]] that her approach was "a formula for World War III."[19] The clip, shared by Carlson on X, was featured as a bonus item in the Badlands News Brief covering the opening days of the Israel–[[hamas|Hamas]] war.[19]
+
 ## References
 
 1. Badlands Brief — "A Glaring Double Standard", URL: https://badlands.substack.com/p/a-glaring-double-standard
@@ -119,3 +127,5 @@ In the [[2024-nevada-republican-primary|2024 Nevada Republican primary]] held on
 15. Badlands Brief — "Badlands News Brief: Lake and Abbott Take a Stand as Haley Falls", URL: https://badlands.substack.com/p/badlands-news-brief-b19
 16. Badlands Brief — "Badlands News Brief: Trump & Musk Meet as RINOs Run for the Hills", URL: https://badlands.substack.com/p/badlands-news-brief-b35
 17. Badlands Brief — "Badlands News Brief: Tucker Does Moscow as the News Cycle Goes Ballistic", URL: https://badlands.substack.com/p/badlands-news-brief-b9c
+18. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb
+19. Badlands Brief — "Badlands News Brief: Crisis Cascades, Nordstream 3 & Bidenomics", URL: https://badlands.substack.com/p/badlands-news-brief-c18

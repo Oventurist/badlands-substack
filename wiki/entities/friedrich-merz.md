@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [germany, europe, politics]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-165.md, raw/badlands-brief-6bf.md, raw/badlands-brief-cfa.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-8fd.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-165.md, raw/badlands-brief-6bf.md, raw/badlands-brief-cfa.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-cad.md]
 confidence: medium
 ---
 
@@ -44,6 +44,12 @@ The other winner of the night was the far-right [[alternative-for-germany|Altern
 
 Merz joined French President Emmanuel Macron on a December 2025 phone call with Vladimir Zelensky, Finnish President Alexander Stubb, European Commission President Ursula von der Leyen, and NATO Secretary General Mark Rutte, in which European leaders voiced deep distrust of the US-led effort to end the Ukraine conflict.[6] Merz was reported to share Macron's assessment that continued peace talks could pose a 'great danger' for Zelensky personally.[6] Badlands contributor GhostofBasedPatrickHenry addressed Merz directly, writing that Trump was going to betray him and his ilk 'because that is the morally righteous thing to do.'[6]
 
+## Warning of direct NATO-Russia conflict, December 2025
+
+In December 2025 the German chancellor said that [[nato|NATO]] forces deployed to [[ukraine|Ukraine]] under a peace deal could potentially engage Russian troops directly.[7] Merz said that under a potential agreement, troops from guarantor states would occupy a demilitarized zone separating Russian and Ukrainian forces and, if a ceasefire were breached, would "very specifically" respond to Russian "incursions and attacks."[7]
+
+Moscow had outright rejected NATO members contributing to a post-conflict peacekeeping force, with President [[vladimir-putin|Vladimir Putin]] maintaining that the bloc's expansion was at the root of the 2022 escalation.[7] Security guarantees discussed by [[volodymyr-zelensky|Vladimir Zelensky]] and the US delegation would require Western forces to act if a ceasefire were breached; Washington had reportedly offered guarantees styled after NATO's Article 5 while still refusing to commit troops on the ground.[7] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] responded dismissively: "Don't threaten me with a good time, Fräulein."[7]
+
 ## References
 1. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
 2. Badlands Brief — "Trump Conducts the Chaos as the Uniparty Concentrates Fire", URL: https://badlands.substack.com/p/badlands-brief-165
@@ -51,3 +57,4 @@ Merz joined French President Emmanuel Macron on a December 2025 phone call with 
 4. Badlands Brief — "Cartel & Comey Indictments Plus War Ripples & Election Fraud", URL: https://badlands.substack.com/p/badlands-brief-cfa
 5. Badlands Brief — "Climbing Confidence, a Congolese Crisis, & Uncorroborated KGB Claims", URL: https://badlands.substack.com/p/badlands-news-brief-457
 6. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
+7. Badlands Brief — "A Christmas Bonus, War “With” Venezuela, & Prime Time Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-cad

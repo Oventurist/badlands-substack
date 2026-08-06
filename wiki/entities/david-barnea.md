@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, mossad, intelligence, iran]
-sources: [raw/badlands-brief-5ba.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-7ed.md]
+sources: [raw/badlands-brief-5ba.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-c19.md]
 confidence: medium
 ---
 
@@ -34,9 +34,16 @@ On December 18, 2023, Barnea met in Poland with [[cia|CIA]] Director [[william-b
 
 As Mossad chief and head of Israel's negotiating team, Barnea was dispatched to Doha on the night of Saturday, January 11, 2025, and remained in the Qatari capital as of the afternoon of Thursday, January 16, according to an official familiar with the talks, while Israel held off on formally declaring that a ceasefire-hostage release deal had been reached with Hamas.[4]
 
+## Secret Qatar trip during the Gaza ground offensive (October 2023)
+
+Axios revealed at the end of October 2023 that Barnea, as head of [[mossad|Mossad]], had made a secretive weekend trip to [[qatar|Qatar]], where he met senior Qatari officials as part of mediation efforts to secure the release of Israeli and foreign hostages.[5] The trip coincided with the expanding Israeli ground operation that had placed tanks outside Gaza City amid heavy firefights with [[hamas|Hamas]] militants, with over 235 captives then held by Hamas and [[palestinian-islamic-jihad|Palestinian Islamic Jihad]] and Qatar serving as the chief third party communicating with both Tel Aviv and Hamas.[5]
+
+Israeli officials said the ground offensive was launched after it became clear the talks had borne no fruit: Israel decided to invade in part because Hamas refused to give it, via Qatar, a list of the names of all hostages it held.[5] Hamas told Qatari officials it was still determining where the hostages were located and who they were, but the feeling in Jerusalem was that this was a tactic to buy time and prevent a ground operation.[5] Barnea was in Doha as the invasion kicked off and progressed, and on the Monday the [[israel-defense-forces|Israel Defense Forces]] unexpectedly announced that one hostage, a military member taken on October 7, had been rescued alive from the battlefield.[5]
+
 ## References
 
 1. Badlands Brief — "Guardians, Shields, & Iranian House Arrest", URL: https://badlands.substack.com/p/badlands-brief-5ba
 2. Badlands Brief — "A Politician is Swallowelled Whole as the Middle East Realigns in Real Time", URL: https://badlands.substack.com/p/badlands-brief-9ea
 3. Badlands Brief — "Badlands News Brief: Trump 2024 Has the Deep State a Little Testy …", URL: https://badlands.substack.com/p/badlands-news-brief-810
 4. Badlands Brief — "Badlands News Brief: Unlikely Ambassadors, The Ceasefire Accords, & Predatory Cartoonist", URL: https://badlands.substack.com/p/badlands-news-brief-7ed
+5. Badlands Brief — "Another Trump Trial Begins ... Regime Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-c19

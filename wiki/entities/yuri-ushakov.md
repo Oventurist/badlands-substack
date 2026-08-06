@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, kremlin, diplomacy, ukraine-war]
-sources: [raw/badlands-news-brief-747.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a40.md]
+sources: [raw/badlands-news-brief-747.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-bd7.md]
 confidence: medium
 ---
 
@@ -30,9 +30,15 @@ On Thursday, August 7, 2025, Ushakov told reporters from Russian state media tha
 
 Ushakov briefed reporters on the roughly hour-long June 2025 telephone call between [[vladimir-putin|Vladimir Putin]] and [[xi-jinping|Xi Jinping]] on the worsening Middle East crisis, describing the conversation as "friendly and constructive."[4] He said Moscow and Beijing share "identical approaches" to the crisis and that both leaders "strongly condemn Israel's actions, which violate the UN Charter and other norms of international law."[4] Ushakov reported that Putin had briefed Xi on his calls with Iranian President [[masoud-pezeshkian|Masoud Pezeshkian]] and Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]], and reaffirmed Moscow's "readiness to carry out possible mediation efforts, if necessary," an initiative Xi welcomed as a step that could defuse the conflict.[4] "Both Moscow and Beijing fundamentally believe that there is no military solution to the current situation or to issues related to Iran's nuclear program. This must be resolved exclusively through political and diplomatic means," the presidential aide stressed, adding that the two leaders had instructed their ministries and agencies to stay in close contact.[4]
 
+
+## Readout of the December 2025 Witkoff talks
+
+Speaking after five hours of talks on Tuesday, December 2, 2025, between President [[vladimir-putin|Vladimir Putin]], envoy [[kirill-dmitriev|Kirill Dmitriev]] and US envoy [[steve-witkoff|Steve Witkoff]] that finished after midnight local time, Ushakov said the discussions were constructive, very useful and substantive.[5] "No compromises have been found as of yet," he said, adding that a meeting between Putin and President [[donald-trump|Donald Trump]] was not currently planned and that "we discussed the substance, not specific wording and solutions," with the parties seeing "enormous potential for cooperation."[5] He stated that "some American proposals are acceptable to Russia... others are not," noted that the issue of territory had also been discussed, and when asked whether peace was closer or further away replied, "Definitely not further."[5]
+
 ## References
 
 1. Badlands Brief — "Afghanis Activate, Witch Hunts End, & Hitler Launches Re-Election Campaign", URL: https://badlands.substack.com/p/badlands-news-brief-747
 2. Badlands Brief — "Badlands News Brief: Saudi Scoops, Slender Stabbers, & Scorned Scouts", URL: https://badlands.substack.com/p/badlands-news-brief-824
 3. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
 4. Badlands News Brief — "A Constellation of Corruption & A Goldilocks Galaxy", URL: https://badlands.substack.com/p/badlands-news-brief-a40
+5. Badlands Brief — "Bogus Visas, Brazilian Sanctions, and Foreign Boat Battles", URL: https://badlands.substack.com/p/badlands-news-brief-bd7

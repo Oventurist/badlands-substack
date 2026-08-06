@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, hollywood, diplomacy, ukraine, vladimir-putin]
-sources: [raw/badlands-news-brief-995.md]
+sources: [raw/badlands-news-brief-995.md, raw/badlands-news-brief-c9d.md]
 confidence: medium
 ---
 
@@ -28,6 +28,11 @@ Seagal told [[piers-morgan|Piers Morgan]] in 2017 that [[donald-trump|Donald Tru
 
 GhostofBasedPatrickHenry connected Seagal's trafficking allegations to an Israeli organ trafficking ring busted in Turkey the prior month, suggesting a possible Black Sea geographic link to Ukrainian trafficking networks.[1] [[burning-bright|Burning Bright]] observed that Seagal had been ridiculed by MMA media for a decade over his pro-Russia stances but that those stances "have aged quite well in the modern zeitgeist," particularly under the [[sovereign-alliance|Sovereign Alliance]] framework.[1] Burning Bright grouped the medal ceremony with Trump's hero's welcome at UFC 302 in Newark and his cage-side encounter with [[khabib-nurmagomedov|Khabib Nurmagomedov]] as a cluster of "Russia-Martial Arts-MAGA" signals, arguing that the [[overton-window|Overton Window]] was shifting as populism reached popular culture.[1]
 
+## Remarks on Ukraine trafficking allegations
+
+After being honored by President [[vladimir-putin|Vladimir Putin]] at a Kremlin award ceremony, Seagal gave a speech in which he stated that Russia's special military operation in Ukraine was about shutting down child trafficking and [[organ-trafficking|organ trafficking]] rings as well as ending Nazism.[2] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]], who had reported on the ceremony, read the framing as implying that the conflict is in some respects a continuation of the Second World War, and paired the remarks with Russian officials' claims about [[child-trafficking|child-trafficking]] rings running through Kherson and Mariupol.[2]
+
 ## References
 
 1. Badlands Brief — "Donald Trump, Dennis Quaid and Steven Seagal Walk into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-995
+2. Badlands Brief — "Biden Wanders, Putin Ponders & Ukraine Launders", URL: https://badlands.substack.com/p/badlands-news-brief-c9d

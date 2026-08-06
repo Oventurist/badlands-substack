@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [media, narrative, censorship, information-war, maga]
-sources: [raw/all-assets-deployed.md, raw/badlands-blitz-episode-19.md, raw/badlands-brief-257.md, raw/badlands-news-brief-46b.md]
+sources: [raw/all-assets-deployed.md, raw/badlands-blitz-episode-19.md, raw/badlands-brief-257.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-cdb.md]
 confidence: medium
 ---
 
@@ -50,3 +50,9 @@ The concept also framed Badlands coverage of [[tucker-carlson|Tucker Carlson]]'s
 2. Badlands Brief — "Badlands Blitz Episode 19", URL: https://badlands.substack.com/p/badlands-blitz-episode-19
 3. Badlands Brief — "Bicameral Deal-Making and Accelerationism Acknowledged", URL: https://badlands.substack.com/p/badlands-brief-257
 4. Badlands Brief — "Badlands News Brief: Sudan Seized, Tucker Trashed & ISIS Eliminated", URL: https://badlands.substack.com/p/badlands-news-brief-46b
+
+## Reading hostile outlets as intelligence (April 2023)
+
+In the April 14, 2023 Badlands News Brief, [[burning-bright|Burning Bright]] explained why the outlet routinely sources mainstream publications, writing that it is often more valuable to examine the current "Game Theory Game Board" through the lens of the obfuscation and control network of the Media Industrial Complex.[5] For those writing about and reading about the [[information-war|Info War]] actively, he argued, one can often learn more from reading false narrative deployments than from reading those who already agree.[5] He cited [[newsweek|Newsweek]] mocking Russian state television for advancing the same talking points as [[donald-trump|Donald Trump]], and [[cnn|CNN]] attacking [[tucker-carlson|Tucker Carlson]] over his Trump interview, as illustrations of mainstream outlets cannibalising one another while citizen journalism rose to replace them.[5]
+
+5. Badlands Brief — "Badlands News Brief: Leak Shenanigans, Trump Seeds & Woke Broke", URL: https://badlands.substack.com/p/badlands-news-brief-cdb

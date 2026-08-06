@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ukraine, israel, taiwan, congress, foreign-aid, 2024]
-sources: [raw/badlands-news-brief-a57.md]
+sources: [raw/badlands-news-brief-a57.md, raw/badlands-news-brief-c0b.md]
 confidence: medium
 ---
 
@@ -24,5 +24,12 @@ Badlands writer Burning Bright argued that the spectacle was useful, since the i
 
 The same package's Israel funding drew attention because it coincided with reported US plans to sanction the [[netzah-yehuda-battalion|Netzah Yehuda Battalion]] of the [[israel-defense-forces|Israel Defense Forces]].[1]
 
+## Johnson's four-bill plan, April 15, 2024
+
+On the evening of Monday, April 15, 2024, after months of inaction, House Speaker [[mike-johnson|Mike Johnson]] unveiled an outline of his plan to address the conflicts in Ukraine and the Middle East, defying Republicans who had threatened to oust him from the speakership if he advanced funding for Ukraine.[2] The convoluted plan sought to placate his critics on the right while giving national security hawks a path to move billions of dollars in aid to Ukraine, [[israel|Israel]] and Taiwan, at the risk of angering many members of his conference.[2]
+
+Johnson planned to put four separate bills on the floor, decoupling aid for Israel — which had faced a barrage of missiles and drones from [[iran|Iran]] over the weekend in retaliation for a deadly airstrike on its consulate in Syria — from aid for Ukraine, which was far more contentious within the Republican conference.[2] Separate votes were then to follow on aid to Taiwan and on a measure satisfying Republican foreign policy demands, including the seizure of Russian assets and a House-approved bill that could ban TikTok in the United States.[2] According to five people familiar with the numbers, a draft of Johnson's plan mirrored the Senate bill but might omit humanitarian assistance directed mainly toward Gaza.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: The Uniparty Celebrates as Warmongers Grow Desperate", URL: https://badlands.substack.com/p/badlands-news-brief-a57
+2. Badlands Brief — "Badlands News Brief: Jurors Judged, Faces Saved & Memes Made", URL: https://badlands.substack.com/p/badlands-news-brief-c0b

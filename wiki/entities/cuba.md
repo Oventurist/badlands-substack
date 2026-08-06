@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cuba, latin-america, diplomacy, regime-change]
-sources: [raw/badlands-brief-095.md, raw/badlands-brief-257.md, raw/badlands-brief-2c5.md, raw/badlands-brief-323.md, raw/badlands-brief-50d.md, raw/badlands-brief-686.md, raw/badlands-brief-740.md, raw/badlands-brief-861.md, raw/badlands-brief-98d.md, raw/badlands-brief-a89.md, raw/badlands-brief-a84.md, raw/badlands-brief-b24.md, raw/badlands-brief-b82.md, raw/badlands-brief-d17.md, raw/badlands-brief-eed.md]
+sources: [raw/badlands-brief-095.md, raw/badlands-brief-257.md, raw/badlands-brief-2c5.md, raw/badlands-brief-323.md, raw/badlands-brief-50d.md, raw/badlands-brief-686.md, raw/badlands-brief-740.md, raw/badlands-brief-861.md, raw/badlands-brief-98d.md, raw/badlands-brief-a89.md, raw/badlands-brief-a84.md, raw/badlands-brief-b24.md, raw/badlands-brief-b82.md, raw/badlands-brief-d17.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-c0a.md]
 confidence: medium
 ---
 
@@ -103,6 +103,10 @@ On February 27, 2026, President [[donald-trump|Donald Trump]] told reporters out
 
 Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] read the comments as pointing to a "Venezuela 2.0 situation with the Castro regime, minus the 'arrest'/extraction," and anticipated a rugpull for audiences hoping for a hardcore regime-change operation, while advocating negotiation with [[raulito-castro|Raulito Castro]].[15]
 
+## 2024 economic crisis and Santiago protests
+
+Cuba fell into a near-unprecedented economic crisis following the COVID-19 pandemic, marked by vast shortages of food, fuel and medicine and a record-breaking exodus in which upwards of 400,000 people migrated to the United States.[16] In March 2024 hundreds of residents of Santiago, the island's second-largest city, staged a rare public protest chanting "power and food" as blackouts in some areas ran 18 hours or more per day.[16] President [[miguel-diaz-canel|Miguel Díaz-Canel]] called for dialogue in an "atmosphere of tranquility and peace" while accusing "terrorists" from the United States of seeking to foment further uprisings; the U.S. embassy in Havana urged the government to respect protesters' human rights, and foreign minister Bruno Rodríguez demanded Washington refrain from interfering in internal affairs.[16] See [[2024-santiago-de-cuba-protests|2024 Santiago de Cuba protests]].[16]
+
 ## References
 
 1. Badlands Brief — "Moves and Countermoves", URL: https://badlands.substack.com/p/badlands-brief-095
@@ -120,3 +124,4 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] read 
 13. Badlands Brief — "Powell's Probe, NATO's Negotiations, & Additional Humiliation Rituals", URL: https://badlands.substack.com/p/badlands-brief-b82
 14. Badlands Brief — "Devolucion, Sedition, Somalis, and Patagonia Pyros", URL: https://badlands.substack.com/p/badlands-brief-d17
 15. Badlands Brief — "WAR!", URL: https://badlands.substack.com/p/badlands-brief-eed
+16. Badlands Brief — "Badlands News Brief: White Collar Prisons & Confounding Court Decisions", URL: https://badlands.substack.com/p/badlands-news-brief-c0a

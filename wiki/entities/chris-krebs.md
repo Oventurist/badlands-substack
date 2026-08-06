@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cisa, elections, 2020-election, election-security]
-sources: [raw/badlands-brief-707.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-80e.md]
+sources: [raw/badlands-brief-707.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-d21.md]
 confidence: medium
 ---
 
@@ -36,9 +36,14 @@ Krebs said the choice to leave was his alone, writing in an email to staffers po
 
 Badlands commentator Ashe in America described Krebs as "patient zero in the 2020 coup," noting that a lawyer with an undergraduate degree in environmental science had become the nation's top "cyber expert" and had assured the public that 2020 was the safest and most secure election in history.[5] She added that while Krebs was out at SentinelOne because the firm did not want the heat, it remained to be seen whether the company was off the hook, given that the presidential memorandum directed the suspension of "any active security clearances held by individuals at entities associated with Krebs, including SentinelOne."[5]
 
+## Cited in election-security criticism
+
+Writing in early 2024, [[badlands-media|Badlands Media]] contributor [[ashe-in-america|Ashe in America]] singled out Krebs — whom she described as a lawyer with an undergraduate degree in environmental science — as the source of the official assurance that American elections are safe from cyberattack.[6] She juxtaposed that assurance against [[fbi|FBI]] Director [[christopher-wray|Christopher Wray]]'s testimony about the [[volt-typhoon|Volt Typhoon]] intrusion into critical infrastructure, arguing that elections run on the same technology stack and are therefore no more secure than the sectors the government admits are under attack.[6]
+
 ## References
 1. Badlands Brief — "TACO Tuesday Reigns Supreme as the Age of Accountability Nears", URL: https://badlands.substack.com/p/badlands-brief-707
 2. Badlands Brief — "Badlands News Brief: World Wealth Whiplash & The Most Secure Memorandum in History", URL: https://badlands.substack.com/p/badlands-news-brief-02a
 3. Badlands Media — "Badlands News Brief: It's a Big Club. And It's Going Down.", URL: https://badlands.substack.com/p/badlands-news-brief-189
 4. Badlands News Brief — "Indian iPhones, A Sovereign Bromance, & Allegedly Real IDs", URL: https://badlands.substack.com/p/badlands-news-brief-520
 5. Badlands Brief — "Badlands News Brief: Musical Fed Chairs, Salvadoran Chess, & Cocktails in the Clink", URL: https://badlands.substack.com/p/badlands-news-brief-80e
+6. Badlands Brief — "Badlands News Brief: Chinese Interference and Narrative Seeding", URL: https://badlands.substack.com/p/badlands-news-brief-d21

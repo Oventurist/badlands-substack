@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [italy, diplomacy, board-of-peace]
-sources: [raw/badlands-brief-144.md, raw/badlands-brief-195.md, raw/badlands-brief-724.md, raw/badlands-brief-98d.md, raw/badlands-brief-9ea.md, raw/badlands-brief-b24.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-215.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-306.md, raw/badlands-news-brief-373.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-8a9.md]
+sources: [raw/badlands-brief-144.md, raw/badlands-brief-195.md, raw/badlands-brief-724.md, raw/badlands-brief-98d.md, raw/badlands-brief-9ea.md, raw/badlands-brief-b24.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-215.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-306.md, raw/badlands-news-brief-373.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-c16.md]
 confidence: medium
 ---
 
@@ -100,6 +100,10 @@ At a joint press conference in Washington on Thursday, April 17, 2025, Meloni to
 
 In April 2025 Italian media reported that Russian President [[vladimir-putin|Vladimir Putin]] would not be at risk of arrest in Italy under an [[international-criminal-court|International Criminal Court]] warrant, because Italian officials never completed the procedures required to make the warrant valid.[15] Badlands commentary treated this as further evidence that Meloni belongs to what its writers call the [[sovereign-alliance|Sovereign Alliance]], noting that Italy had likewise said in January that it would not enforce ICC warrants against [[benjamin-netanyahu|Benjamin Netanyahu]] and former Israeli Defense Minister [[yoav-gallant|Yoav Gallant]].[15] The commentary read a major European nation's treatment of a UN-associated court as illegitimate as a signal that the clout of the United Nations is waning while a multipolar world order rises.[15]
 
+## Warning to the EU on seizing Russian assets (October 2025)
+
+In an address to the Italian Senate on Wednesday, October 22, 2025, ahead of the [[european-council|European Council]] summit in Brussels, Meloni called on the [[european-union|EU]] to increase pressure on Moscow but cautioned the bloc to respect international law in any plan to use [[frozen-russian-assets|frozen Russian assets]].[16] Her intervention came as the [[european-commission|European Commission]] pushed a [[ukraine-reparations-loan|reparations loan]] for [[ukraine|Ukraine]] backed by proceeds from roughly €210 billion in immobilised funds.[16] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] described her as putting "the EU communists on notice" shortly after the Trump administration voiced its own opposition to seizure, while questioning whether EU bureaucrats would listen.[16]
+
 ## References
 1. Badlands Brief — "MLKKK Day, Peace Boards and Power Paradigms", URL: https://badlands.substack.com/p/badlands-brief-144
 2. Badlands Brief — "Crypto Smears, Professional Plotlines, & Meat Probes", URL: https://badlands.substack.com/p/badlands-brief-195
@@ -116,3 +120,4 @@ In April 2025 Italian media reported that Russian President [[vladimir-putin|Vla
 13. Badlands News Brief — "Indian iPhones, A Sovereign Bromance, & Allegedly Real IDs", URL: https://badlands.substack.com/p/badlands-news-brief-520
 14. Badlands Brief — "Badlands News Brief: Musical Fed Chairs, Salvadoran Chess, & Cocktails in the Clink", URL: https://badlands.substack.com/p/badlands-news-brief-80e
 15. Badlands Brief — "Badlands News Brief: Ongoing Judicial Coups. Newly Jailed Judges.", URL: https://badlands.substack.com/p/badlands-news-brief-8a9
+16. Badlands Brief — "Unconvincing Unity, Ukraine Reparations, & Uneasy Cooperation", URL: https://badlands.substack.com/p/badlands-news-brief-c16

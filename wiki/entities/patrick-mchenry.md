@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republican-party, speaker-of-the-house, north-carolina]
-sources: [raw/badlands-news-brief-0f0.md]
+sources: [raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-c07.md]
 confidence: medium
 ---
 
@@ -20,6 +20,11 @@ Following the ouster of [[kevin-mccarthy|Kevin McCarthy]], McHenry — a longtim
 
 McHenry's office also served as the formal recipient of executive branch correspondence during the interregnum: Office of Management and Budget Director [[shalanda-young|Shalanda Young]] addressed the Biden administration's $105 billion national security supplemental request to McHenry in his capacity as Speaker Pro Tempore.[1]
 
+## October 19 caretaker proposal and Republican backlash
+
+On Thursday, October 19, 2023, [[jim-jordan|Jim Jordan]] said he would not hold a third ballot for speaker and would instead let McHenry hold the gavel as interim speaker until January, with Representative [[david-joyce|David Joyce]] of Ohio drafting legislation to give McHenry the full powers of the job.[2] The plan rubbed many Republicans the wrong way because McHenry was backed by Democrats.[2] Representative [[tom-emmer|Tom Emmer]] said that "we should never allow a Democrat-backed coalition government. Ever. The only coalition we should be looking to build is a Republican coalition uniting all of our conference."[2] [[steve-scalise|Steve Scalise]], Jordan's previous opponent for speaker who had pulled out of the race, and [[elise-stefanik|Elise Stefanik]] were likewise opposed to a Democrat-friendly speakership carrying into January.[2] Amid the objections Jordan reversed himself and appeared open to a third vote, saying he wanted to speak with the 20 holdouts who had blocked his first two attempts.[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Escalation ... Acceleration ... and Biden", URL: https://badlands.substack.com/p/badlands-news-brief-0f0
+2. Badlands Brief — "Badlands News Brief: Proxy Presidents & Proxy Wars", URL: https://badlands.substack.com/p/badlands-news-brief-c07

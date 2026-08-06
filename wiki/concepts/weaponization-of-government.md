@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [doj, fbi, lawfare, accountability, investigation]
-sources: [raw/badlands-brief-2c5.md, raw/badlands-brief-6a1.md]
+sources: [raw/badlands-brief-2c5.md, raw/badlands-brief-6a1.md, raw/badlands-news-brief-c1e.md]
 confidence: medium
 ---
 
@@ -35,3 +35,11 @@ In mid-June 2026 several developments were grouped by Badlands under the weaponi
 ## References
 1. Badlands Brief — "Bioweapons Sneak Into the News Cycle as Israeli Shenanigans Ensue", URL: https://badlands.substack.com/p/badlands-brief-2c5
 2. Badlands Brief — "The G7 Laments the G2", URL: https://badlands.substack.com/p/badlands-brief-6a1
+
+## Turley's March 2024 assessment
+
+On March 18, 2024, George Washington University law professor [[jonathan-turley|Jonathan Turley]] told Fox Business host [[larry-kudlow|Larry Kudlow]] that the "improvisational" nature of the prosecutions of [[donald-trump|Donald Trump]] had damaged the legal system's image and proved Trump right about being targeted.[3] "You see a justice that is being weaponized," he said, describing a "pile-on from Florida to Georgia, to Washington, D.C., to New York" that most of the public understood.[3] He pointed to Trump's inability to post a $454 million bond on the civil fraud judgment of Judge [[arthur-engoron|Arthur Engoron]] as a case in which "someone has to say enough."[3]
+
+[[ashe-in-america|Ashe in America]] argued that weaponization during the presidential campaign was making Trump stronger, and that even the establishment press — including a [[columbia-journalism-review|Columbia Journalism Review]] op-ed lamenting that attempts to stop Trump only strengthened him — was beginning to recognize it.[3] [[simon-esler|Simon Esler]], writing about the social media suit arising from the [[2022-buffalo-supermarket-shooting|Buffalo supermarket shooting]], extended the theme to civil [[lawfare]], asking whether a weapon that "bends to their will" can be called law at all.[3]
+
+3. Badlands Brief — "Badlands News Brief: Weaponization, Willis, and World War III", URL: https://badlands.substack.com/p/badlands-news-brief-c1e

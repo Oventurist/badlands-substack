@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [law-enforcement, presidential-protection, mar-a-lago, security]
-sources: [raw/badlands-brief-285.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-74a.md, raw/badlands-news-brief-a0c.md, raw/badlands-news-brief-bcc.md]
+sources: [raw/badlands-brief-285.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-74a.md, raw/badlands-news-brief-a0c.md, raw/badlands-news-brief-bcc.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-cf3.md]
 confidence: high
 ---
 
@@ -59,6 +59,10 @@ Badlands writer [[ashe-in-america|Ashe in America]] argued that the failure of p
 
 Following the [[attempted-assassination-of-donald-trump-2024|July 13, 2024 assassination attempt]], the Secret Service encouraged [[donald-trump|Donald Trump]] not to hold large outdoor rallies in some instances, a shift first reported by the Washington Post and confirmed by Axios on July 24.[8] Sources emphasised that this did not mean the Republican nominee would never again hold a big outdoor event, but that the choice between indoor and outdoor venues would be made case by case as part of increased security measures.[8] With no outdoor events scheduled in the following days, Trump's team began searching for indoor venues capable of accommodating the large crowds he typically drew, while the agency and the campaign held ongoing conversations about how any future outdoor events would be handled.[8] The change underscored how seriously both sides were treating security after the shooting, which led to Director [[kimberly-cheatle|Kimberly Cheatle]]'s resignation on July 23.[8]
 
+## Hawley whistleblower report on the Butler rally (September 2024)
+
+A whistleblower report released by Senator [[josh-hawley|Josh Hawley]] on September 16, 2024 unveiled a series of alarming security lapses by the Secret Service and other federal agencies during the July 13, 2024 assassination attempt on [[donald-trump|Donald Trump]] in Butler, Pennsylvania.[9] Drawing on multiple whistleblowers, the report described incompetence, mismanagement and inadequate preparation, and concluded that systemic failures, poor decision-making and a lack of proper resource allocation contributed to a near-catastrophic breach of presidential security.[9] It alleged that the agency chose not to conduct a standard evaluation of the rally site, that its Counter Surveillance Division — tasked with identifying potential threats — was notably absent from the event, and that the agency repeatedly declined offers from local law enforcement to employ drone surveillance technology, even though the gunman used a drone to reconnoiter the site hours beforehand.[9] The report sparked calls for urgent oversight and reform and raised questions about the agency's ability to protect national leaders, coming as Trump had become the target of two assassination attempts in two months.[9]
+
 ## References
 1. Badlands Brief — "Tuckabee Unites The Arab World As Mexico Courts Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-285
 2. Badlands Brief — "Problems Litter the Game Board; But Solutions Are Coming ...", URL: https://badlands.substack.com/p/badlands-news-brief-10a
@@ -68,3 +72,10 @@ Following the [[attempted-assassination-of-donald-trump-2024|July 13, 2024 assas
 6. Badlands Brief — "Badlands News Brief: They're the Conspiracy Theorists, Now ...", URL: https://badlands.substack.com/p/badlands-news-brief-74a
 7. Badlands News Brief — "Transition Teams at Home and Abroad ...", URL: https://badlands.substack.com/p/badlands-news-brief-a0c
 8. Badlands Brief — "BiBi Goes to DC, Wray Responds & Biden Concedes", URL: https://badlands.substack.com/p/badlands-news-brief-bcc
+9. Badlands Brief — "Badlands News Brief: Trump Sends Comms as Diddlers Get Indicted", URL: https://badlands.substack.com/p/badlands-news-brief-ce1
+
+## Trump demand for assassin information (February 2025)
+
+On Friday, February 7, 2025, President [[donald-trump|Donald Trump]] ordered the Secret Service to provide him "every bit of information" about the two men who had attempted to assassinate him.[10] "I'm entitled to know," he told the New York Post. "I want to find out about the two assassins... Why did the one guy have six cell phones and why did the other guy have [foreign] apps?"[10] He added: "No more holding back because of Biden. I'm entitled to know. And they held it back long enough. No excuses."[10]
+
+10. Badlands Brief — "Badlands News Brief: Soaring Eagles & Terminal USAIDs", URL: https://badlands.substack.com/p/badlands-news-brief-cf3

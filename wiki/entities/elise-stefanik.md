@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, united-nations, trump-administration, foreign-policy]
-sources: [raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-360.md, raw/badlands-news-brief-7b1.md, raw/badlands-news-brief-a15.md]
+sources: [raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-360.md, raw/badlands-news-brief-7b1.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-bd7.md]
 confidence: medium
 ---
 
@@ -30,8 +30,13 @@ As chair of the House Republican Conference, Stefanik questioned the presidents 
 
 At the House Permanent Select Committee on Intelligence's Annual Threat Assessment hearing on March 12, 2024, Stefanik, the third-ranking House Republican, pressed FBI Director Christopher Wray on whether the bureau was conducting counterintelligence investigations into President Joe Biden or former President Donald Trump.[4] She first noted that former FBI Director James Comey had testified he did not follow proper protocol in notifying Congress of the opening of Crossfire Hurricane, the 2016 counterintelligence investigation into Trump, and cited the Intelligence Authorization Act, which directs the FBI to inform congressional leadership of any counterintelligence investigation into a federal candidate for office.[4] When Wray, after a long pause, tried to refer her to Special Counsel Robert Hur, Stefanik demanded a direct answer, prompting his reply that "there is no investigation that I could confirm here, no."[4]
 
+## Feud with Speaker Johnson (December 2025)
+
+On Tuesday, December 2, 2025, Stefanik publicly accused Speaker [[mike-johnson|Mike Johnson]] of lying and of protecting the "deep state" — described as a remarkable development even by the chaotic standards of the 119th Congress, given that the accusation came from a member of his own leadership team.[5] In a separate provocation she signed on to an effort to force a floor vote on legislation Johnson had kept bottled up.[5] Reporting characterized the episode as the latest symptom of a House Republican Conference on a razor's edge, with rank-and-file members increasingly airing their disputes with the speaker in public as his slim majority threatened to narrow further and potentially devastating midterm elections loomed.[5]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Storm Shadows and the Contours of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-1f2
 2. Badlands Brief — "Badlands News Brief: Ethics Complaints & COVID Comeuppance", URL: https://badlands.substack.com/p/badlands-news-brief-360
 3. Badlands Brief — "Badlands News Brief: A Proxy President Manages His Proxy Wars", URL: https://badlands.substack.com/p/badlands-news-brief-7b1
 4. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
+5. Badlands Brief — "Bogus Visas, Brazilian Sanctions, and Foreign Boat Battles", URL: https://badlands.substack.com/p/badlands-news-brief-bd7

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [qatar, weapons, taliban, stingers, funding, terrorism]
-sources: [raw/a-dereliction-of-duty.md, raw/a-conflict-of-interest.md, raw/badlands-brief-169.md, raw/badlands-brief-c91.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-a72.md]
+sources: [raw/a-dereliction-of-duty.md, raw/a-conflict-of-interest.md, raw/badlands-brief-169.md, raw/badlands-brief-c91.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-c14.md]
 confidence: medium
 ---
 
@@ -97,6 +97,14 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] noted
 
 Reporting cited in Badlands coverage of the Huckabee-Witkoff divide described Qatar as the home of the [[muslim-brotherhood|Muslim Brotherhood]], host for years to the late Brotherhood leader Yusuf al-Qaradawi, and a chief sponsor of [[hamas|Hamas]].[16] The account said [[steve-witkoff|Steve Witkoff]], President Trump's chief negotiator, has business ties worth $623 million to the emirate and had praised Qatar's role to Tucker Carlson, calling claims that Qatar is "not well motivated" preposterous.[16] Hamas — the Gaza arm of the Brotherhood, which massacred over 1,200 people on October 7, 2023, including 32 Americans — has been funded with $1.8 billion by Qatar, which also hosted Hamas leaders in luxury hotels as they accrued personal fortunes exceeding $11 billion and funds the Al-Jazeera network, banned in Israel as a Hamas front.[16] Confirmation hearings for [[mike-huckabee|Mike Huckabee]] as Ambassador to Israel were framed as a counterweight to that pro-Qatar strategy.[16]
 
+## Boeing 747-8 gift to the Trump administration (2025)
+
+In May 2025 the Trump administration was reported to be preparing to accept a super-luxury Boeing 747-8 jumbo jet from the royal family of Qatar — described as possibly the most valuable gift ever extended to the United States by a foreign government.[17] Sources familiar with the proposed arrangement told ABC News the aircraft, dubbed a "palace in the sky," would be available for use by President [[donald-trump|Donald Trump]] as the new [[air-force-one|Air Force One]] until shortly before he leaves office, at which point ownership would transfer to the Trump presidential library foundation.[17]
+
+The gift had been expected to be announced during Trump's visit to Qatar on the first foreign trip of his second term, but a senior White House official said it would not be presented or gifted while the president was in the country that week.[17] In a social media post on Sunday night, Trump confirmed his administration was preparing to accept the aircraft, calling it a "very public and transparent transaction" with the Defense Department.[17]
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] used the episode to argue more broadly that the government of [[israel|Israel]] holds significant influence over the United States and particularly over Congress, and called for Americans to reclaim their sovereignty from foreign influence.[17]
+
 ## References
 1. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
 2. Badlands Brief — "A Conflict of Interest", URL: https://badlands.substack.com/p/a-conflict-of-interest
@@ -114,3 +122,4 @@ Reporting cited in Badlands coverage of the Huckabee-Witkoff divide described Qa
 14. Badlands Brief — "Badlands News Brief: Trump 2024 Has the Deep State a Little Testy …", URL: https://badlands.substack.com/p/badlands-news-brief-810
 15. Badlands Brief — "Badlands News Brief: Vigils, Vanguards, & Various Investigations", URL: https://badlands.substack.com/p/badlands-news-brief-8cd
 16. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72
+17. Badlands Brief — "Badlands News Brief: Overreach, Obstruction, & Our Boy Blue", URL: https://badlands.substack.com/p/badlands-news-brief-c14

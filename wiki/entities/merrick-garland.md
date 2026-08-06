@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [doj, attorney-general, mar-a-lago, weaponization]
-sources: [raw/badlands-brief-2c5.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-59b.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-8d8.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b83.md]
+sources: [raw/badlands-brief-2c5.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-59b.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-8d8.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-c9d.md]
 confidence: medium
 ---
 
@@ -95,6 +95,10 @@ The disclosures allowed the group to complete the timeline between the [[nationa
 
 Commenting on the June 8, 2023 [[2023-trump-classified-documents-indictment|indictment of Donald Trump]], legal writer [[technofog|TechnoFog]] said that Attorney General Garland had "done what his predecessors - Comey, McCabe, Mueller - could not," framing the charge as the culmination of years of what he described as prosecutorial and investigative abuses at the [[department-of-justice|Department of Justice]].[15] TechnoFog wrote that the department, which under Garland had instigated the investigation and appointed Special Counsel [[jack-smith|Jack Smith]], had thereby inserted itself into the 2024 presidential election.[15]
 
+## Contempt referral declined (June 2024)
+
+Late on Friday, June 14, 2024, the [[department-of-justice|Department of Justice]] refused to act on the congressional contempt referral against Garland, declining to prosecute the sitting Attorney General.[16] Badlands contributor [[ashe-in-america|Ashe in America]] cited the refusal in questioning the value of Congress's investigative campaigns, including the [[house-oversight-committee|House Oversight Committee]] probe of [[newsguard|NewsGuard]] announced the day before.[16] Garland's name also headed the caption of [[garland-v-cargill|Garland v. Cargill]], the Supreme Court case decided that same day invalidating the [[bump-stock-ban|bump stock rule]] his department had defended.[16]
+
 ## References
 
 1. Badlands Brief — "Bioweapons Sneak Into the News Cycle as Israeli Shenanigans Ensue", URL: https://badlands.substack.com/p/badlands-brief-2c5
@@ -112,3 +116,4 @@ Commenting on the June 8, 2023 [[2023-trump-classified-documents-indictment|indi
 13. Badlands Brief — "Badlands News Brief: Trump's Tapes, Putin's Plan & Byrne's Bio", URL: https://badlands.substack.com/p/badlands-news-brief-b26
 14. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f
 15. Badlands Brief — "Trump Indicted ... AGAIN! ... & Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-b83
+16. Badlands Brief — "Biden Wanders, Putin Ponders & Ukraine Launders", URL: https://badlands.substack.com/p/badlands-news-brief-c9d

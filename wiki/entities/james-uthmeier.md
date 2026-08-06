@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [florida, attorney-general, cuba, law-enforcement]
-sources: [raw/badlands-brief-861.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-3a5.md]
+sources: [raw/badlands-brief-861.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-c44.md]
 confidence: medium
 ---
 
@@ -29,7 +29,12 @@ On May 5, 2026, Uthmeier announced a civil investigation into the Southern Pover
 
 On March 4, 2025, Uthmeier announced the launch of a criminal investigation into social media influencers [[andrew-tate|Andrew Tate]] and [[tristan-tate|Tristan Tate]], saying he had instructed his office "to work with our law enforcement partners to conduct a preliminary inquiry" into the brothers.[3] He added that, "based on a thorough review of the evidence," he had directed the Office of Statewide Prosecution to execute search warrants and issue subpoenas in the now-active criminal investigation.[3] The brothers, who face trial in Romania over an alleged criminal ring that lured women to the country for sexual exploitation, had arrived in Fort Lauderdale, Florida on February 27, 2025 after Romanian authorities lifted a travel ban.[3]
 
+## Orlando sanctuary confrontation (2025)
+
+In April 2025 Uthmeier sent a letter to Orlando Mayor [[buddy-dyer|Buddy Dyer]], posted on X, warning that Dyer could face removal from office if he implemented a policy of protecting illegal immigrants, after Dyer reportedly told the Orlando Police Department that law enforcement should resist immigration enforcement and adhere to the city's [[orlando-trust-act|Trust Act]].[4] The letter stated that "Sanctuary policies are not tolerated or lawful in Florida," and that failure to abide by state law "may result in the enforcement of applicable penalties, including but not limited to being held in contempt, declaratory or injunctive relief, and removal from office by the Governor pursuant to section 908.107, Florida Statutes and the Florida Constitution."[4] Uthmeier's letter made clear that Governor [[ron-desantis|Ron DeSantis]] reserved the right to remove Dyer.[4]
+
 ## References
 1. Badlands Brief — "Floridian Terror Boats, Venezuelan Deck Chairs, & the War on Fraud", URL: https://badlands.substack.com/p/badlands-brief-861
 2. Badlands Brief — "The Reckoning of Fake Elections, Fake Wars and Fake Allies", URL: https://badlands.substack.com/p/badlands-brief-b62
 3. Badlands Brief — "Badlands News Brief: Inbound America: Terrorists, Trillions, & Diplomats", URL: https://badlands.substack.com/p/badlands-news-brief-3a5
+4. Badlands Brief — "Badlands News Brief: A British TERF Triumph & A Senator Snubbed in El Salvador", URL: https://badlands.substack.com/p/badlands-news-brief-c44

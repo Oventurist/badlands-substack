@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, pennsylvania, democrat, government-shutdown, israel]
-sources: [raw/badlands-news-brief-497.md, raw/badlands-news-brief-50a.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-b02.md]
+sources: [raw/badlands-news-brief-497.md, raw/badlands-news-brief-50a.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c19.md]
 confidence: medium
 ---
 
@@ -42,6 +42,18 @@ After announcing that he would vote for a House-passed funding bill to avert a g
 
 In January 2025, John Fetterman became the first Democratic senator to visit President-elect [[donald-trump|Donald Trump]] at [[mar-a-lago|Mar-a-Lago]], flying to Palm Beach, Florida for an unprecedented sit-down with the incoming president.[6] Trump afterwards told the Washington Examiner's Salena Zito that it had been "a totally fascinating meeting," calling Fetterman "a fascinating man" whose wife was lovely and saying he "couldn't be more impressed."[6] Trump added that the Pennsylvania senator was "a commonsense person ... not liberal or conservative," which he called "beautiful."[6] Asked by Capitol Hill reporters why he had met the Republican president-elect, Fetterman answered flippantly: "I demand that I need to be made pope of Greenland."[6] [[badlands-media|Badlands Media]] commentator [[paul-fleuret|Paul Fleuret]] read Trump's warmth as evidence that Fetterman was "just another actor in the 'show,'" noting that the senator's embrace of the "common sense" framing in preceding months was no coincidence.[6]
 
+## December 2023 rebuke of James Carville
+
+In a Politico interview published in late December 2023, Senator John Fetterman (D-Pa.) unprompted told Democratic strategist [[james-carville|James Carville]] to "shut the f---up" over his criticisms of President [[joe-biden|Joe Biden]] and Biden's odds in the 2024 race.[7] Fetterman said Carville "hasn't been relevant since grunge was a thing" and defended Biden as "an incredibly strong and decent and excellent president" facing "an incredibly difficult circumstance."[7] Carville had earlier in 2023 warned Democrats that Biden could lose to [[donald-trump|Donald Trump]].[7]
+
+[[ashe-in-america|Ashe in America]] wrote that the episode dominated the week in narrative impact and produced genuine cognitive dissonance on the right — catharsis at seeing Carville publicly told off, undercut by the fact that the rebuke defended Biden — while both men's public sniping broke the usual pattern of Democratic election-year unity.[7]
+
+## Gaza ceasefire heckler incident (October 2023)
+
+On Sunday, October 29, 2023, a man was forcibly removed from a Fetterman campaign event after approaching the senator and asking why he opposed a ceasefire in the Gaza Strip.[8] The man, Dan Kovalik, posted video of the altercation to his profile on X shortly afterward; according to his website he is a "lawyer and human rights advocate" who taught courses on international human rights law at the University of Pittsburgh's law school, though the university told Insider his contract had expired in June, was not renewed, and that he was no longer affiliated with it.[8] Kovalik also writes occasional op-eds for [[russia-today|Russia Today]], which the [[state-department|US Department of State]] had recently described as a critical element of Russia's "disinformation and propaganda ecosystem," and in that outlet had raged against "Ukraine's atrocities," called Western liberals "woke and war-crazed," and vilified transgender people.[8]
+
+[[burning-bright|Burning Bright]] commented that despite intense tension within the [[truth-community|Truth Community]] over the Israel chaos, the worst response available to individuals or the decentralized collective was to shame or discourage the earnest asking of questions of any party on the game board.[8] He noted that when reactions by Establishment figures mirror sentiments expressed by supposed America First journalists in what Badlands calls Con Inc., [[just-human|Just Human]]'s appeal that "Understanding > Reacting" was made for such times.[8]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Counterterrorism Co-Ops, Chinese Challenges, & Channels for Children", URL: https://badlands.substack.com/p/badlands-news-brief-497
 2. Badlands Brief — "Badlands News Brief: Manipulated Maps, Downed Planes, & A Very Stable Genius", URL: https://badlands.substack.com/p/badlands-news-brief-50a
@@ -49,3 +61,5 @@ In January 2025, John Fetterman became the first Democratic senator to visit Pre
 4. Badlands Brief — "Badlands News Brief: Missing Planes, Missing Funds & Missing Metrics", URL: https://badlands.substack.com/p/badlands-news-brief-82f
 5. Badlands News Brief — "Defiant Deportations & Canadian Freeloaders", URL: https://badlands.substack.com/p/badlands-news-brief-ae1
 6. Badlands News Brief — "Contentious Confirmations & Conflicted Special Counsels", URL: https://badlands.substack.com/p/badlands-news-brief-b02
+7. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb
+8. Badlands Brief — "Another Trump Trial Begins ... Regime Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-c19

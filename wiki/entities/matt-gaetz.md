@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republican, russiagate]
-sources: [raw/badlands-news-brief-01d.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-11b.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-b65.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-ba4.md]
+sources: [raw/badlands-news-brief-01d.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-11b.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-b65.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-d22.md]
 confidence: medium
 ---
 
@@ -90,6 +90,10 @@ Badlands contributor [[burning-bright|Burning Bright]] singled out Gaetz in July
 
 In August 2023, Gaetz introduced a resolution to censure U.S. District Court Judge [[tanya-chutkan|Tanya Chutkan]] and to open an investigation into her "for showing open bias and partisanship in her official duties on the bench."[14] Chutkan was overseeing the [[department-of-justice|Department of Justice]] case against [[donald-trump|Donald Trump]] for conspiracy in his challenge of the 2020 election results, and had handled numerous prosecutions arising from the January 6, 2021 Capitol protest investigated by special counsel [[jack-smith|Jack Smith]], in which about 1,000 people had been sentenced.[14] Gaetz said her "extreme sentencing of January 6th defendants, while openly supporting the violent Black Lives Matter riots of 2020, showcases a complete disregard for her duty of impartiality and the rule of law," a reference to remarks she made at one January 6-related sentencing.[14]
 
+## Response to the Kagan "dictatorship" essay (December 2023)
+
+After the [[washington-post|Washington Post]] published [[robert-kagan|Robert Kagan]]'s essay "A Trump dictatorship is increasingly inevitable. We should stop pretending," Gaetz said on X, "They're obviously green-lighting assassination."[15] The remark came amid a wave of articles warning that a second [[donald-trump|Trump]] term would turn America into a dictatorship, which many readers interpreted as a call to assassinate the former president.[15] [[ashe-in-america|Ashe in America]] of [[badlands-media|Badlands Media]] wrote that "Gaetz is correct," arguing that the outlets were prepping an assassination narrative across multiple regime platforms and that comparable headlines about [[joe-biden|Biden]] would have drawn a Justice Department investigation.[15]
+
 ## References
 
 1. Badlands News Brief — "Durham's Dance, Putin's Warning and Xi's Rebuke", URL: https://badlands.substack.com/p/badlands-news-brief-01d
@@ -106,3 +110,4 @@ In August 2023, Gaetz introduced a resolution to censure U.S. District Court Jud
 12. Badlands Brief — "Badlands News Brief: What's the Deal with the Gaetz Rug Pull?", URL: https://badlands.substack.com/p/badlands-news-brief-b65
 13. Badlands Brief — "Badlands News Brief: Whistleblowers and Witch Hunts", URL: https://badlands.substack.com/p/badlands-news-brief-b76
 14. Badlands Brief — "Badlands News Brief: Trump's Slings and Arrows ... Hunter's Threats", URL: https://badlands.substack.com/p/badlands-news-brief-ba4
+15. Badlands Brief — "Badlands News Brief: Trump Hits Back at the Deep State, Confirms Their Fears", URL: https://badlands.substack.com/p/badlands-news-brief-d22

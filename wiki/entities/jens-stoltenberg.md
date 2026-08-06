@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [nato, norway, ukraine, russia, diplomacy]
-sources: [raw/badlands-news-brief-006.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-3c3.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-b22.md]
+sources: [raw/badlands-news-brief-006.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-3c3.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-b22.md, raw/badlands-news-brief-c18.md]
 confidence: medium
 ---
 
@@ -56,6 +56,10 @@ The following day Stoltenberg announced a "good" phone call with Hungarian Prime
 
 On Wednesday, June 26, 2024, [[nato|NATO]] announced that outgoing Dutch prime minister [[mark-rutte|Mark Rutte]] had been formally selected as the next secretary general, taking office on October 1 when Stoltenberg's ten-year tenure came to an end.[7] Stoltenberg said that he "warmly welcomes" the appointment of his successor.[7]
 
+## Balticconnector damage (October 2023)
+
+After a subsea gas pipeline and telecommunications cable connecting [[finland|Finland]] and [[estonia|Estonia]] were damaged in October 2023, Stoltenberg said [[nato|NATO]] was sharing its information about the incident and stood ready to support the allies concerned.[8] The episode involved two alliance members — Finland having joined in April 2023 and Estonia in 2004 — and Finnish authorities concluded the damage was likely caused by "outside activity."[8] See [[2023-balticconnector-pipeline-damage|2023 Balticconnector pipeline damage]].[8]
+
 ## References
 1. Badlands Brief — "NATO Warmongers & Google Searches for a Way Out", URL: https://badlands.substack.com/p/badlands-news-brief-006
 2. Badlands News Brief — "Trump Responds, a Banker Dies & a Ukrainian Tells the Truth", URL: https://badlands.substack.com/p/badlands-news-brief-119
@@ -64,3 +68,4 @@ On Wednesday, June 26, 2024, [[nato|NATO]] announced that outgoing Dutch prime m
 5. Badlands Brief — "Badlands News Brief: Fake Candidates Engage in Fake Debate; Everyone Loses", URL: https://badlands.substack.com/p/badlands-news-brief-6bf
 6. Badlands Brief — "Badlands News Brief: Lake and Abbott Take a Stand as Haley Falls", URL: https://badlands.substack.com/p/badlands-news-brief-b19
 7. Badlands Brief — "The Supreme Court Looms Over the First Debate", URL: https://badlands.substack.com/p/badlands-news-brief-b22
+8. Badlands Brief — "Badlands News Brief: Crisis Cascades, Nordstream 3 & Bidenomics", URL: https://badlands.substack.com/p/badlands-news-brief-c18

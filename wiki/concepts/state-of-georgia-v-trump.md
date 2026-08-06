@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [georgia, rico, 2020-election, lawfare, fulton-county]
-sources: [raw/badlands-brief-990.md, raw/badlands-news-brief-040.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-9de.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-ba4.md]
+sources: [raw/badlands-brief-990.md, raw/badlands-news-brief-040.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-9de.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-c05.md, raw/badlands-news-brief-d00.md]
 confidence: medium
 ---
 
@@ -102,6 +102,10 @@ On Monday, August 21, 2023, Fulton County Superior Court Judge [[scott-mcafee|Sc
 
 Every defendant's bond agreement contained a provision that the defendant "shall perform no act to intimidate any person known to him or her to be a codefendant or witness in this case or to otherwise obstruct the administration of justice," and Trump's agreement specified that this covered "no direct or indirect threat" against codefendants or witnesses — a term widely read as a constraint on his social media commentary.[15] Writing for [[badlands-media|Badlands Media]], [[burning-bright|Burning Bright]] argued that on the eve of the public arrest and likely mug shot the mood among Trump's supporters was "excited" rather than reactive, that any anxiety in the air belonged to his political enemies, and invited readers to judge whether the week would make Trump look like part of the Establishment or an existential threat to it.[15]
 
+## Rejection of the First Amendment challenge (April 2024)
+
+On Thursday, April 4, 2024, Fulton County Superior Court Judge [[scott-mcafee|Scott McAfee]] rejected [[donald-trump|Donald Trump]]'s bid to dismiss the criminal charges on the ground that they violated his free speech rights.[17] McAfee found that the indictment alleges statements by Trump and the 14 others charged were made "in furtherance of criminal activity" and are therefore not protected by the [[first-amendment|First Amendment]] to the U.S. Constitution.[17] The defendants, charged with racketeering and other offenses over the effort to overturn Trump's defeat in Georgia to [[joe-biden|Joe Biden]], have pleaded not guilty.[17] [[steve-sadow|Steve Sadow]], Trump's lead lawyer on the Georgia case, said in a statement that "President Trump and other defendants respectfully disagree with Judge McAfee's order and will continue to evaluate their options regarding the First Amendment challenges."[17] The case was one of four criminal prosecutions Trump faced as the November 5 election neared, with the first trial — over hush money payments to a porn star — due to begin in New York later that month.[17]
+
 ## References
 
 1. Badlands Brief — "Secret Seizures, Sovereign Signals, & Unnamed Somalis Close to the Matter", URL: https://badlands.substack.com/p/badlands-brief-990
@@ -119,3 +123,12 @@ Every defendant's bond agreement contained a provision that the defendant "shall
 13. Badlands Brief — "Badlands News Brief: The Establishment Goes Full RICO Against Trump", URL: https://badlands.substack.com/p/badlands-news-brief-9de
 14. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
 15. Badlands Brief — "Badlands News Brief: Trump's Slings and Arrows ... Hunter's Threats", URL: https://badlands.substack.com/p/badlands-news-brief-ba4
+
+## Appellate stay, June 2024
+
+On June 5, 2024, the [[georgia-court-of-appeals|Georgia Court of Appeals]] paused proceedings in the trial court while it reviewed pending appeals, including whether Fulton County District Attorney [[fani-willis|Fani Willis]] could remain on the case.[16] Because oral arguments on [[donald-trump|Donald Trump]]'s disqualification bid were not scheduled until October, the stay made a trial before the November 2024 election unlikely and was widely characterized as another win for Trump's strategy of delaying his criminal cases past the election.[16] The appellate court had agreed the previous month to review Judge [[scott-mcafee|Scott McAfee]]'s ruling allowing Willis to stay on the case.[16]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] wrote that no further movement would occur in McAfee's courtroom until then, noting that Fulton County was still obstructing discovery in the most recent pretrial hearing, and that RICO defendant [[harrison-floyd|Harrison Floyd]] rejected [[brian-lupo|Brian Lupo]]'s caution that the pause should not be counted as a win.[16]
+
+16. Badlands News Brief — "Bicameral Jailings, Russian Trolling and Retribution ...", URL: https://badlands.substack.com/p/badlands-news-brief-c05
+17. Badlands Brief — "Badlands News Brief: Ukrai-NATO Spins Up as Wokeness Spirals", URL: https://badlands.substack.com/p/badlands-news-brief-d00

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [space, defense, technology, elon-musk, contracts]
-sources: [raw/badlands-brief-ec9.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-b40.md]
+sources: [raw/badlands-brief-ec9.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-b40.md, raw/badlands-news-brief-cce.md]
 confidence: medium
 ---
 
@@ -56,6 +56,10 @@ In late June 2024, [[nasa|NASA]] awarded SpaceX a contract worth nearly $1 billi
 
 The ISS, launched in 1998, had recently had its operational life extended from 2024 to 2030, while Russia planned to withdraw in the coming years to focus on its own station.[8] Ken Bowersox, associate administrator for the Space Operations Mission Directorate at NASA Headquarters, said the decision would help NASA and its international partners "ensure a safe and responsible transition in low Earth orbit at the end of station operations" while supporting future commercial destinations.[8] [[elon-musk|Elon Musk]] wrote on X the day before the announcement that "The Moon Station that Starship will enable will be great."[8]
 
+## 2023 rejection of the $900 million broadband subsidy
+
+In December 2023 the [[federal-communications-commission|Federal Communications Commission]] rejected a roughly $900 million rural broadband subsidy for SpaceX amid concerns about the weaponization of government agencies against [[elon-musk|Elon Musk]].[9] FCC Commissioner [[brendan-carr|Brendan Carr]] said in a post on X that "President Biden gave federal agencies the green light to go after him [Musk]," a claim treated in coverage as evidence that the decision jeopardized the nation's space race for political reasons.[9]
+
 ## References
 1. Badlands Brief — "Carefree Midterms, Space Networks, & Turned Tables", URL: https://badlands.substack.com/p/badlands-brief-ec9
 2. Badlands News Brief — "New York Insurrection, A Rapturous Reception, & Lying Tools", URL: https://badlands.substack.com/p/badlands-news-brief-0b0
@@ -65,3 +69,4 @@ The ISS, launched in 1998, had recently had its operational life extended from 2
 6. Badlands Brief — "Musk the Peacemaker, Constitutional Overreach & POTATUS", URL: https://badlands.substack.com/p/badlands-news-brief-670
 7. Badlands Brief — "Badlands News Brief: Will the One True POTUS Please Stand Up?", URL: https://badlands.substack.com/p/badlands-news-brief-9ae
 8. Badlands Brief — "Badlands News Brief: Debates, Decisions and Disasters for the Deep State", URL: https://badlands.substack.com/p/badlands-news-brief-b40
+9. Badlands Brief — "Badlands News Brief: The System of Systems is a House of Cards", URL: https://badlands.substack.com/p/badlands-news-brief-cce

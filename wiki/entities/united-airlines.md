@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [aviation, starlink, wifi, elon-musk, airlines]
-sources: [raw/badlands-news-brief-290.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-a72.md]
+sources: [raw/badlands-news-brief-290.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-c0a.md]
 confidence: medium
 ---
 
@@ -26,7 +26,14 @@ On Christmas Eve 2024, United Airlines confirmed that a body was found in the wh
 
 United received clearance from federal regulators to launch its first commercial flight with free [[starlink|Starlink]] Wi-Fi service in May 2025, after the Federal Aviation Administration approved use of the satellite internet service — a division of [[elon-musk|Elon Musk]]'s SpaceX — on a regional jet model.[3] The airline said it planned to install Starlink Wi-Fi on 40 planes per month and complete its fleet of more than 300 regional jets by the end of the year, running beta tests before the first customer flight.[3] United had signed a deal with Starlink the previous September to bring satellite internet to its more than 1,000 planes over several years, and said it would work with the FAA to obtain approval for every aircraft.[3] The service, which United says is 50 times faster than the internet then available on its regional planes, is free for customers enrolled in the airline's free MileagePlus frequent flyer program.[3]
 
+## March 2024 incident cluster
+
+On the morning of Monday, March 18, 2024, United Airlines chief executive [[scott-kirby|Scott Kirby]] informed passengers that the airline was reviewing a series of aviation incidents involving its commercial jets, including [[boeing|Boeing]]-made aircraft.[4] "Unfortunately, in the past few weeks, our airline has experienced a number of incidents that are reminders of the importance of safety," Kirby wrote, adding that while the incidents were "all unrelated," they had the company's attention and had "sharpened our focus."[4]
+
+Badlands contributor [[simon-esler|Simon Esler]] rejected that framing, arguing that the cluster looked less like coincidence than like the "generated instances" described in the [[operation-northwoods|Northwoods Memorandum]] and formed part of a controlled demolition of the airline industry aligned with the [[great-reset|Great Reset]].[4] He cited Denmark's announced green tax on flights, recounted his own eight-hour delay and cancellation on [[american-airlines|American Airlines]], and pointed to the death of a Boeing whistleblower as a sign of desperation.[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Global Grifters, Fleeing Fellows, and a Surprisingly Friendly Funeral", URL: https://badlands.substack.com/p/badlands-news-brief-290
 2. Badlands Brief — "The Biden Era Fades Away as the World is Reshaped", URL: https://badlands.substack.com/p/badlands-news-brief-713
 3. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72
+4. Badlands Brief — "Badlands News Brief: White Collar Prisons & Confounding Court Decisions", URL: https://badlands.substack.com/p/badlands-news-brief-c0a

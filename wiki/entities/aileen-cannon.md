@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [judiciary, federal-courts, florida, trump]
-sources: [raw/badlands-brief-abf.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-365.md, raw/badlands-news-brief-6bc.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-855.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-ac7.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b40.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-ba8.md]
+sources: [raw/badlands-brief-abf.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-365.md, raw/badlands-news-brief-6bc.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-855.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-ac7.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b40.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-ba8.md, raw/badlands-news-brief-bfe.md, raw/badlands-news-brief-d24.md]
 confidence: medium
 ---
 
@@ -105,6 +105,14 @@ At a nearly two-hour hearing in federal court in Fort Pierce, Florida on Tuesday
 
 In a 14-page order issued Tuesday, January 21, 2025, Cannon blocked the [[justice-department|Justice Department]] from showing selected lawmakers portions of special counsel [[jack-smith|Jack Smith]]'s report on the classified documents case against [[donald-trump|Donald Trump]].[19] The judge, a Trump appointee, held that there was no legal basis for the department to confidentially share the report with the leaders of the House and Senate Judiciary Committees.[19] Politico reported that the ruling could make it easier for the incoming Trump administration to bury the report, which recounts Smith's investigation into the classified records Trump stored at his Mar-a-Lago home after his first term and his alleged attempt to obstruct efforts to retrieve them.[19]
 
+## December 2025 order lifting the block on the Smith report
+
+On Monday, December 22, 2025, Cannon took a step toward public release of Special Counsel [[jack-smith|Jack Smith]]'s final report on President [[donald-trump|Donald Trump]]'s handling of classified material stashed at Mar-a-Lago in 2021, agreeing to lift on February 24 the order by which she had blocked the report for nearly a year.[20] She simultaneously invited a possible legal challenge from Trump or his former alleged co-conspirators [[walt-nauta|Walt Nauta]] and [[carlos-de-oliveira|Carlos De Oliveira]] that could delay release further, emphasizing that her timeline could give way to legal claims that the report should not be released at all.[20] Cannon, a Trump appointee, had earlier tossed the case against Trump after ruling that Smith was unconstitutionally appointed as special counsel.[20]
+
+## Setting the classified documents trial date
+
+On 20 June 2023, Cannon set the first court date in [[donald-trump|Donald Trump]]'s [[2023-trump-classified-documents-indictment|classified documents case]] in the U.S. District Court for the Southern District of Florida for 14 August 2023, a little over a week before the first Republican primary debate.[21] In the same filing she set 24 July 2023 as the deadline for both parties to submit pretrial motions and motions in limine.[21] Trump had been arraigned the previous week in Miami, pleading not guilty to 31 counts of willful retention of national defense information plus counts of conspiracy to obstruct justice, withholding a document or record, corruptly concealing a document or record, concealing a document in a federal investigation, a scheme to conceal, and alleged false statements.[21] Badlands writer [[ashe-in-america|Ashe in America]] argued the scheduling would deepen public perception of political motivation, citing a Harvard/Harris poll in which 55% of likely voters called the indictment politically motivated and a CNN poll putting that figure at 71%.[21]
+
 ## References
 
 1. Badlands Brief — "Long-Term Legal Remedies & A Reboot of Russian Relations", URL: https://badlands.substack.com/p/badlands-brief-abf
@@ -126,3 +134,4 @@ In a 14-page order issued Tuesday, January 21, 2025, Cannon blocked the [[justic
 17. Badlands Brief — "Badlands News Brief: Debates, Decisions and Disasters for the Deep State", URL: https://badlands.substack.com/p/badlands-news-brief-b40
 18. Badlands Brief — "Badlands News Brief: Whistleblowers and Witch Hunts", URL: https://badlands.substack.com/p/badlands-news-brief-b76
 19. Badlands Brief — "Badlands News Brief: Hopium for Health AI, Hulk on Hunter, & A Happy WHO Adieu", URL: https://badlands.substack.com/p/badlands-news-brief-ba8
+20. Badlands Brief — "Badlands News Brief: Wanker War Hawks, Out-of-Work Wind Mills, & the Biggest, Fastest Battleships", URL: https://badlands.substack.com/p/badlands-news-brief-bfe

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [saudi-arabia, diplomacy, foreign-minister, iran]
-sources: [raw/badlands-brief-1ae.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-7b7.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-aac.md]
+sources: [raw/badlands-brief-1ae.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-7b7.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-c0b.md]
 confidence: low
 ---
 
@@ -49,6 +49,18 @@ On Wednesday, October 30, 2024, Faisal bin Farhan chaired the first meeting of t
 
 In the July 2, 2024 Badlands News Brief, contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote that "it's Faisal bin Farhan's show now," describing the Saudi foreign minister as working every diplomatic channel and speaking daily — per Foreign Ministry press releases — with members of what Badlands calls the Sovereign Alliance, including Iran, China, and Russia.[8] The commentary placed his statecraft at the center of a regional dynamic in which Arab states, aligned by the [[abraham-accords|Abraham Accords]], restrained escalation against Israel while the broader Muslim world stayed its hand, a posture the author predicted would eventually yield peace after a period of heightened conflict.[8]
 
+## April 2024 ceasefire call and Badlands profile
+
+On a visit to Islamabad in April 2024, bin Farhan issued a renewed Saudi call for an immediate ceasefire in Gaza and for uninterrupted delivery of humanitarian aid, saying that international efforts toward a ceasefire between [[israel|Israel]] and [[hamas|Hamas]] had been "wholly insufficient."[9] He warned that "we are now actively discussing the potential for famine in Gaza, and it means people are starving to death because humanitarian assistance is not getting to them," calling the situation unacceptable.[9] Without directly naming the Iranian attack on Israel that weekend, he added that "we are already in an unstable region, and the humanitarian catastrophe in Gaza is already inflaming the region," concluding that "de-escalation must be everybody's priority."[9]
+
+[[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] called bin Farhan "the most important diplomat in the world right now" and offered an extended profile of his background.[9] By that account, bin Farhan was born in Frankfurt, West Germany in 1974, spent part of his childhood there before schooling in the United States, and returned to the Kingdom to attend business school at King Saud University in Riyadh, later serving as vice chairman of the Saudi Company for Maintenance and Operations, which manages the trades — plumbers, electricians and carpenters — in Saudi Arabia.[9]
+
+In 2003 he founded Shamal Investment Group, a Dubai-based investment house whose portfolio of "extraordinary investments" focused on tourist-centric real estate development and entertainment, and which the commentary credits with a role in Dubai's transformation under [[mohammed-bin-zayed|Mohammed bin Zayed]], appointed Crown Prince the same year — implying a relationship between the two men going back more than twenty years.[9] He led the group until 2017, when Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] asked him to serve as ambassador to Germany, an appointment that reportedly angered Saudi dissidents living there, and in 2019 MBS elevated him to foreign minister.[9]
+
+The Badlands account speculates that bin Farhan used his regional contacts to broker meetings for [[jared-kushner|Jared Kushner]] and facilitate the [[abraham-accords|Abraham Accords]], and notes that around their formal signing in 2020 MBS tasked him with expanding the Accords to include both Saudi Arabia and Palestine, reviving the ten points of the [[saudi-peace-initiative|Saudi Peace Initiative]] presented at the 2002 Arab League summit in Beirut by King Abdullah Al Saud.[9] Both the Bush and Obama administrations admired the initiative's spirit but rejected its terms restoring Palestine's 1967 borders.[9]
+
+Contrasting bin Farhan's cosmopolitan formation with MBS's upbringing entirely inside the Kingdom, the commentary describes the pair as a unique pairing of proud Arab nationalists with personal admiration for Western culture, suggests bin Farhan's West German childhood made him alert to totalitarianism and to efforts to destabilize Europe through weaponized migration, and argues that their shared desire for peace is driven by a vision of transforming the Middle East into the geographic center of the world through ambitious tourist-centric development — including turning the Red Sea coast into "the next French Riviera" — none of which can be achieved amid war and chaos.[9]
+
 ## References
 
 1. Badlands Brief — "DC Exposes Itself as the Middle East Gets Gloriously Strange", URL: https://badlands.substack.com/p/badlands-brief-1ae
@@ -59,3 +71,4 @@ In the July 2, 2024 Badlands News Brief, contributor [[ghostofbasedpatrickhenry|
 6. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
 7. Badlands Brief — "Badlands News Brief: The Garbage Man Cometh to Take out the Trash", URL: https://badlands.substack.com/p/badlands-news-brief-aed
 8. Badlands Brief — "Badlands News Brief: Wins at Home and Deals Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-aac
+9. Badlands Brief — "Badlands News Brief: Jurors Judged, Faces Saved & Memes Made", URL: https://badlands.substack.com/p/badlands-news-brief-c0b

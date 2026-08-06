@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, journalism, department-of-justice, minnesota]
-sources: [raw/badlands-brief-144.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-a15.md]
+sources: [raw/badlands-brief-144.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-bf6.md]
 confidence: medium
 ---
 
@@ -44,8 +44,15 @@ On Wednesday, March 13, 2024, Lemon said his partnership with Elon Musk had coll
 
 Speaking to CNN's Erin Burnett that night, Lemon discussed the exchange and released excerpts of the ninety-minute sit-down, in which he questioned Musk across a range of subjects.[4] Lemon said he pressed Musk on the rise in hate speech on X since his takeover of the platform and on whether Musk and the company bore a responsibility to moderate hateful content; Musk replied, "I don't have to answer questions from reporters, Don. The only reason I'm doing this interview is because you're on the X platform and you asked for it. Otherwise, I would not do this interview."[4] Lemon also asked about Musk's recent meeting with Donald Trump, one of several Trump had held with donors in Palm Beach as he sought funds for a financially strained campaign.[4]
 
+## April 2023 firing by CNN
+
+On Monday, April 24, 2023, [[cnn|CNN]] fired Lemon in the wake of sexist on-air comments and reports that he had mistreated female coworkers during his seventeen years at the network.[5] Lemon, who had hosted "CNN This Morning" as scheduled that morning, said his agent informed him of the termination and that he was "stunned" by the news.[5] The dismissal followed the controversy over his on-air remarks about Nikki Haley and a Variety report documenting a history of misogynistic behavior.[5]
+
+The firing came within an hour of [[fox-news|Fox News]] announcing the immediate departure of prime-time host [[tucker-carlson|Tucker Carlson]], and one day after [[nbcuniversal|NBCUniversal]] said chief executive [[jeff-shell|Jeff Shell]] had left over an "inappropriate relationship with a woman in the company."[5] [[badlands-media|Badlands Media]] writer [[burning-bright|Burning Bright]] presented the "twin & congruent firings" of Carlson and Lemon on the same Monday in April as direct evidence against the existence of coincidence in the [[information-war|Information War]].[5] He argued the paired announcements conflated Fox and CNN as [[media-industrial-complex|Media Industrial Complex]] corporations in the collective mind even though the standing of the two hosts within the America First movement could not have been more different, and that they continued the shared ratings-collapse cascade of legacy media while further decentralizing information dissemination.[5]
+
 ## References
 1. Badlands Brief — "MLKKK Day, Peace Boards and Power Paradigms", URL: https://badlands.substack.com/p/badlands-brief-144
 2. Badlands Brief — "Epstein Clickbait, Lemon's Demise, & Zionists MAD", URL: https://badlands.substack.com/p/badlands-brief-f17
 3. Badlands News Brief — "Israel Strikes Again as The FED Pivots", URL: https://badlands.substack.com/p/badlands-news-brief-2f2
 4. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
+5. Badlands Media — "Badlands News Brief: A Tucker, a Lemon and a Trump Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-bf6

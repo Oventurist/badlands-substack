@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, conservative-media, television]
-sources: [raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-6e5.md]
+sources: [raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-bf6.md]
 confidence: medium
 ---
 
@@ -20,7 +20,11 @@ In August 2023 Newsmax hosted attorney [[alina-habba|Alina Habba]], counsel to [
 
 In September 2025, Newsmax host [[greta-van-susteren|Greta Van Susteren]] asked Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] — citing "online conspiracy theorists" — whether Israel had any involvement in the [[assassination-of-charlie-kirk|assassination of Charlie Kirk]].[2] Badlands commentary called the exchange one of the more bizarre moments in recent memory, suggested Van Susteren appeared to have been fed the question, and judged Netanyahu's response unconvincing.[2]
 
-## References
+## Trump interview on the Carlson exit (April 2023)
 
+Newsmax aired an interview late on Monday, April 24, 2023 in which former president [[donald-trump|Donald Trump]] gave his first reaction to [[fox-news|Fox News]]'s ouster of [[tucker-carlson|Tucker Carlson]], saying he was "shocked" and "surprised," praising Carlson's talent and ratings, and criticizing Fox's settlement of the [[dominion-voting-systems|Dominion Voting Systems]] defamation case.[3]
+
+## References
 1. Badlands Brief — "Con Inc. Introduces a New Candidate ... And Trump Was Right!", URL: https://badlands.substack.com/p/badlands-news-brief-6d6
 2. Badlands Brief — "Manhunts, Mental Health, & the Mother of a Monster", URL: https://badlands.substack.com/p/badlands-news-brief-6e5
+3. Badlands Media — "Badlands News Brief: A Tucker, a Lemon and a Trump Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-bf6

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [diplomacy, israel, united-states, middle-east, ambassador]
-sources: [raw/badlands-brief-285.md, raw/badlands-brief-579.md, raw/badlands-brief-695.md, raw/badlands-brief-625.md, raw/badlands-brief-724.md, raw/badlands-brief-7c6.md, raw/badlands-brief-959.md, raw/badlands-brief-da2.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-a72.md]
+sources: [raw/badlands-brief-285.md, raw/badlands-brief-579.md, raw/badlands-brief-695.md, raw/badlands-brief-625.md, raw/badlands-brief-724.md, raw/badlands-brief-7c6.md, raw/badlands-brief-959.md, raw/badlands-brief-da2.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-c44.md]
 confidence: medium
 ---
 
@@ -74,6 +74,10 @@ Senate confirmation hearings for Huckabee as Ambassador to Israel began in late 
 
 [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that Huckabee's appointment was intended to send signals, particularly to [[benjamin-netanyahu|Benjamin Netanyahu]], given Huckabee's views on Palestine, leaving the Israeli prime minister with a false sense of confidence as he pressed forward with the war.[11] He contended that by appointing both Huckabee and Witkoff — two opposing sides of an issue already defining Trump's second term — the president deliberately set the MAGA movement on a path of self-reflection, division and intense debate.[11] Collin McMahon's Gateway Pundit article, quoted in the brief, described the resulting split as one between "a New York Jew, Witkoff, who seems comfortable with Qatar and [[hamas|Hamas]], and a Christian Zionist ambassador, Huckabee, who recognizes that Hamas must be destroyed to reach any sort of peace in Gaza."[11]
 
+## Objections to Witkoff's Hamas contacts (April 2025)
+
+In April 2025 Badlands reported that Huckabee, as US Ambassador to Israel, had said he shared the resentment felt by other senior officials toward [[steve-witkoff|Steve Witkoff]], attributing his own objection to what he saw as Witkoff's cavalier attitude about meeting with [[hamas|Hamas]].[12] The account grouped Huckabee with Secretary of State [[marco-rubio|Marco Rubio]], [[keith-kellogg|Keith Kellogg]] and [[mike-waltz|Mike Waltz]] as figures uneasy with the special envoy's independent diplomacy.[12]
+
 ## References
 1. Badlands Brief — "Tuckabee Unites The Arab World As Mexico Courts Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-285
 2. Badlands Brief — "Two Cartels, Imminent Indictments, & A French Nun", URL: https://badlands.substack.com/p/badlands-brief-579
@@ -86,3 +90,4 @@ Senate confirmation hearings for Huckabee as Ambassador to Israel began in late 
 9. Badlands Brief — "Epstein Clickbait, Lemon's Demise, & Zionists MAD", URL: https://badlands.substack.com/p/badlands-brief-f17
 10. Badlands Brief — "Amplified Antagonism, Phantom Palestinians, & Hitler's Micropenis", URL: https://badlands.substack.com/p/badlands-news-brief-066
 11. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72
+12. Badlands Brief — "Badlands News Brief: A British TERF Triumph & A Senator Snubbed in El Salvador", URL: https://badlands.substack.com/p/badlands-news-brief-c44

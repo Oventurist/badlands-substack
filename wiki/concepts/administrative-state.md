@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [governance, regulation, separation-of-powers, deep-state]
-sources: [raw/badlands-news-brief-b40.md]
+sources: [raw/badlands-news-brief-b40.md, raw/badlands-news-brief-c93.md]
 confidence: medium
 ---
 
@@ -22,5 +22,10 @@ The decision reached beyond the SEC because agencies including the [[environment
 
 [[burning-bright|Burning Bright]] read the ruling — and the dismay of Slate's Mark Joseph Stern — as evidence that "the promised neutering of the (Deep) Administrative State is WELL underway."[1] [[ashe-in-america|Ashe in America]], surveying the same day's four decisions, added that the term's docket was "a stark reminder that our rights are under assault every day" and predicted the Court itself would remain a major campaign issue.[1] Among those rulings, Ohio v. EPA stayed the agency's air-quality actions pending a challenge in the D.C. Circuit, another marker of judicial pushback against federal regulatory reach.[1]
 
+## Invoked over the Bongino FBI exit (December 2025)
+
+Following [[dan-bongino|Dan Bongino]]'s December 2025 announcement that he would leave the [[fbi|FBI]], Badlands contributor [[burning-bright|Burning Bright]] recalled that President [[donald-trump|Trump]]'s stated core theme for 2025 was "dismantling the Administrative State" and returning power to the people, and asked whether Trump was in practice attempting to preserve federal power or rein it in.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Debates, Decisions and Disasters for the Deep State", URL: https://badlands.substack.com/p/badlands-news-brief-b40
+2. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93

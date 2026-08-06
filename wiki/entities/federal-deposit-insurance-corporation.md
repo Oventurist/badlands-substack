@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, regulation, fdic, finance]
-sources: [raw/a-seismic-shift.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-86f.md]
+sources: [raw/a-seismic-shift.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-cb9.md]
 confidence: medium
 ---
 
@@ -42,8 +42,17 @@ In December 2024 the [[trump-transition|Trump transition team]] began exploring 
 
 Any proposal to eliminate the FDIC or another agency would require congressional action; Washington has never shut down a major cabinet-level agency and has rarely closed non-cabinet bodies of the FDIC's kind.[4] While bank executives were optimistic that the incoming administration would ease rules on capital cushions, consumer protections and merger scrutiny, FDIC deposit insurance was described as near sacred, since any move undermining even the perception of coverage could ripple through the banking system and compound customer fears in a crisis.[4] The concern was grounded in recent experience: after several bank failures the previous year, customers panicked about the safety of deposits at smaller institutions and fled to the largest banks perceived as too important to fail, prompting smaller banks to call for wider deposit insurance protections to stay competitive.[4]
 
+## March 2023 blanket deposit guarantee study
+
+In March 2023 Bloomberg reported that US officials were studying ways to temporarily expand FDIC coverage to all deposits — roughly $18 trillion — a step sought by a coalition of banks arguing it was needed to head off a potential financial crisis.[5] Mid-sized banks had demanded a two-year total deposit insurance scheme from the agency, warning of further forced mergers otherwise, while [[us-department-of-the-treasury|Treasury Department]] staff reviewed whether regulators held enough emergency authority to insure deposits above the $250,000 cap without action by [[us-congress|Congress]].[5] The FDIC had already joined the [[federal-reserve|Federal Reserve]] and the Treasury in shoring up the banking sector with special loans and guarantees of uninsured deposits at the failed banks.[5] The episode is treated at [[2023-proposal-to-guarantee-all-us-bank-deposits|the 2023 proposal to guarantee all US bank deposits]].[5]
+
+## March 2023 blanket deposit guarantee study
+
+In March 2023 Bloomberg reported that US officials were studying ways to temporarily expand FDIC coverage to all deposits — roughly $18 trillion — a step sought by a coalition of banks arguing it was needed to head off a potential financial crisis.[5] Mid-sized banks had demanded a two-year total deposit insurance scheme from the agency, warning of further forced mergers otherwise, while [[us-department-of-the-treasury|Treasury Department]] staff reviewed whether regulators held enough emergency authority to insure deposits above the $250,000 cap without action by [[us-congress|Congress]].[5] The FDIC had already joined the [[federal-reserve|Federal Reserve]] and the Treasury in shoring up the banking sector with special loans and guarantees of uninsured deposits at the failed banks.[5] The episode is treated at [[2023-proposal-to-guarantee-all-us-bank-deposits|the 2023 proposal to guarantee all US bank deposits]].[5]
+
 ## References
 1. Badlands Brief — "A Seismic Shift", URL: https://badlands.substack.com/p/a-seismic-shift
 2. Badlands Brief — "Badlands News Brief: Sudan Spirals, Epstein Entraps & Banks Bail", URL: https://badlands.substack.com/p/badlands-news-brief-070
 3. Badlands News Brief — "More Banks! And Some Weird Stuff, Too ...", URL: https://badlands.substack.com/p/badlands-news-brief-1e0
 4. Badlands News Brief — "Media Apologies, Fake & Gay Drones and Trump Appointments", URL: https://badlands.substack.com/p/badlands-news-brief-86f
+5. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9

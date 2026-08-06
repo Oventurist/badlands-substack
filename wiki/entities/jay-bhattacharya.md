@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [nih, covid-19, public-health, trump-administration, great-barrington-declaration]
-sources: [raw/badlands-news-brief-1ba.md, raw/badlands-news-brief-5a7.md]
+sources: [raw/badlands-news-brief-1ba.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-c50.md, raw/badlands-news-brief-c6a.md]
 confidence: medium
 ---
 
@@ -24,6 +24,16 @@ The consideration of Bhattacharya was first reported by The Washington Post and 
 
 Commenting on the July 2023 release of Slack messages showing that the authors of the [[proximal-origin-paper|Proximal Origin]] paper privately entertained a laboratory origin for SARS-CoV-2, Bhattacharya asked, "How does the public ever trust science again?"[2]
 
+## Criticism of FDA vaccine labeling (July 2023)
+
+In a tweet dated July 2, 2023, Bhattacharya challenged the [[food-and-drug-administration|Food and Drug Administration]] over its refusal to add cardiac risks to COVID-19 vaccine labels: "You know how the FDA makes drug companies list every conceivable side effect of marketed drugs so that patients are aware of potential problems with them? Why is the FDA exempting the covid vax labels from the same treatment?"[3] The remark was highlighted by [[badlands-media|Badlands Media]] contributor [[ashe-in-america|Ashe in America]], who cited it as evidence that Americans lack informed consent with respect to what she called the pharmaceutical cartel.[3]
+
+## Senate confirmation to lead the NIH
+
+On Tuesday night, March 25, 2025, the [[united-states-senate|Senate]] confirmed Bhattacharya to lead the [[national-institutes-of-health|National Institutes of Health]] in a 53–47 party-line vote.[4] Best known for his research arguing that COVID-19 immunity was already widespread by April 2020 and for his vocal opposition to prolonged school closures and vaccine mandates, he was considered a comparatively controversial nominee to head a federal health agency.[4] President [[donald-trump|Donald Trump]] had nominated him the previous year, saying he would work alongside Health and Human Services Secretary Robert F. Kennedy Jr. to restore the NIH to a "gold standard of medical research."[4] In a Truth Social post, Trump noted that "Jay is a Professor of Health Policy at Stanford University, a Research Associate at the National Bureau of Economics Research, and a Senior Fellow by courtesy at the Stanford Institute for Economic Policy Research, Stanford Freeman Spogli Institute, and the Hoover Institution."[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: TrumpaMania Reigns ... with a Russian Twist", URL: https://badlands.substack.com/p/badlands-news-brief-1ba
 2. Badlands Brief — "Trump Trifecta, COVID Concealment & Sorosian Slime", URL: https://badlands.substack.com/p/badlands-news-brief-5a7
+3. Badlands Brief — "Badlands News Brief: The Cocaine White House, False Flags & Free Speech", URL: https://badlands.substack.com/p/badlands-news-brief-c50
+4. Badlands Brief — "SCOTUS Examines Slushy Subsidies as Speaker Weighs Abolishing Courts", URL: https://badlands.substack.com/p/badlands-news-brief-c6a

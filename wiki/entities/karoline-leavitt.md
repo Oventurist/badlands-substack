@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [white-house, media, trump-administration]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-02a.md, raw/badlands-brief-559.md, raw/badlands-brief-7c0.md, raw/badlands-brief-b82.md, raw/badlands-brief-d17.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-322.md, raw/badlands-news-brief-623.md, raw/badlands-news-brief-688.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-ae1.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-02a.md, raw/badlands-brief-559.md, raw/badlands-brief-7c0.md, raw/badlands-brief-b82.md, raw/badlands-brief-d17.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-322.md, raw/badlands-news-brief-623.md, raw/badlands-news-brief-688.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-cf8.md]
 confidence: low
 ---
 
@@ -125,6 +125,15 @@ Announcing the seven-day federal patrol of Washington, D.C. that began at midnig
 
 On Sunday, March 16, 2025, Leavitt defended the removal of alleged [[tren-de-aragua|Tren de Aragua]] members carried out under the [[alien-enemies-act|Alien Enemies Act]] despite Judge [[james-boasberg|James Boasberg]]'s order blocking the law's use, appearing to point to the fact that the judge's written order did not explicitly mention planes already in the air.[27] She stated that the [[department-of-homeland-security|Department of Homeland Security]] had arrested almost 300 members of the Venezuelan gang over that weekend.[27]
 
+## United Nations escalator dispute (September 2025)
+
+After the [[united-nations|United Nations]] attributed a stalled escalator at the General Assembly to a videographer from the U.S. delegation, Leavitt posted an article alleging that jokes had circulated beforehand about stopping the escalator to inconvenience President [[donald-trump|Donald Trump]] by forcing him to walk.[28] "If someone at the UN intentionally stopped the escalator as the President and First Lady were stepping on, they need to be fired and investigated immediately," she wrote on social media.[28]
+
+## October 2025 briefings on Xi and Putin
+
+On Thursday, October 23, 2025, Leavitt announced that President [[donald-trump|Donald Trump]] would meet Chinese President [[xi-jinping|Xi Jinping]] the following Thursday on the sidelines of the [[asia-pacific-economic-cooperation|APEC]] summit, as part of a trip to Malaysia and South Korea, without providing further details.[30] The announcement came amid an escalating trade war in which Trump had threatened an additional 100 percent tariff on Chinese goods from November.[30]
+
+In the same period Leavitt told a press briefing that a summit between Trump and Russian President [[vladimir-putin|Vladimir Putin]] "is not completely off the table," a day after Trump called off a planned Budapest meeting.[30] Asked about the cancellation and recent US sanctions on major Russian oil companies, she said the president and the entire administration hoped such a meeting could happen again one day, and that Trump "has not seen enough interest in enough action" from Russia toward a peace settlement.[30]
 
 ## References
 1. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
@@ -154,3 +163,11 @@ On Sunday, March 16, 2025, Leavitt defended the removal of alleged [[tren-de-ara
 25. Badlands News Brief — "A Constellation of Corruption & A Goldilocks Galaxy", URL: https://badlands.substack.com/p/badlands-news-brief-a40
 26. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
 27. Badlands News Brief — "Defiant Deportations & Canadian Freeloaders", URL: https://badlands.substack.com/p/badlands-news-brief-ae1
+28. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2
+
+## Statement on the January 2025 jobs report
+
+As White House press secretary, Leavitt issued a statement on January's jobs report declaring that "today's jobs report reveals the Biden economy was far worse than anyone thought, and underscores the necessity of President Trump's pro-growth policies."[29] She noted that during his first weeks in office President [[donald-trump|Donald Trump]] had declared a national energy emergency to "Make America Energy Dominant Again," pledged to cut ten regulations for every new regulatory action, and outlined a plan to deliver "the largest tax cut in history for hardworking Americans."[29] The statement concluded that Trump was "delivering on his promise to restore our broken economy, revive small business optimism, create jobs, and ignite a new Golden Age for America."[29]
+
+29. Badlands Brief — "Badlands News Brief: Soaring Eagles & Terminal USAIDs", URL: https://badlands.substack.com/p/badlands-news-brief-cf3
+30. Badlands Brief — "Badlands News Brief: B-Ball Bets, Bomber Busts, & 'Bipartisan' Bill Blockage", URL: https://badlands.substack.com/p/badlands-news-brief-cf8

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [vice-president, january-6, 2020-election, republicans]
-sources: [raw/badlands-brief-e87.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-af7.md]
+sources: [raw/badlands-brief-e87.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-c5c.md]
 confidence: medium
 ---
 
@@ -57,6 +57,14 @@ In a filing submitted secretly in a sealed proceeding on Friday, March 3, 2023, 
 
 Badlands contributor [[just-human|Just Human]] described the situation as an interesting and unprecedented court battle, observing that Trump and Pence were both working to block the testimony and that Pence — arguing that his role that day as President of the Senate is protected by the Constitution's Speech or Debate Clause — had already said he was willing to take the matter to the Supreme Court.[9] Just Human said he would not be surprised if it got there.[9]
 
+## Tucker Carlson interview on January 6 (July 2023)
+
+On Friday, July 14, 2023, former Fox News host [[tucker-carlson|Tucker Carlson]] aggressively pressed Pence at a Family Leader event in Des Moines, Iowa, about how he would characterise the events of January 6, 2021, when a pro-Trump mob invaded the Capitol, forced the evacuation of lawmakers and interrupted the counting of electoral votes in the 2020 election.[10] Carlson opened by asking whether the attack on the Capitol was an "insurrection."[10] Pence answered: "All I know for sure having lived through it at the Capitol is that it was a tragic day. I've never used the word insurrection, Tucker, over the past two years, but it was a riot that took place at the Capitol that day."[10]
+
+[[the-hill|The Hill]] noted that the questioning underscored how Pence's break with [[donald-trump|Trump]] that day would be a defining feature of his presidential campaign, that many of Trump's supporters had never forgiven Pence — who was hanged in effigy that day — and that this remained a major problem in his quest for the presidency.[10] The report also observed that Carlson had himself described the events of January 6 as "mostly peaceful chaos" while at [[fox-news|Fox News]].[10]
+
+[[burning-bright|Burning Bright]] of [[badlands-media|Badlands Media]] argued that figures such as Pence, Ron DeSantis and [[mike-pompeo|Mike Pompeo]] should be assessed through the lens of [[fifth-generation-warfare|Fifth-Generation warfare]] and the net effects of their narrative deployments rather than through isolated clips.[10] In his framing, Trump's first term exposed the DNC and the overtly corrupt political establishment, while the period he called the second term — the Biden administration — was largely about completing the destruction of the Old Guard and exposing the [[uniparty|Uniparty]] establishment in the lead-up to 2024, with figures like Pence advancing that exposure whether intentionally or not.[10]
+
 ## References
 1. Badlands Brief — "Poetic Agitprop, Cold War Reruns, & Kokomo From the Ropes", URL: https://badlands.substack.com/p/badlands-brief-e87
 2. Badlands Brief — "Trans Easter Bait & A Tale of Two Presidents", URL: https://badlands.substack.com/p/badlands-news-brief-092
@@ -67,3 +75,4 @@ Badlands contributor [[just-human|Just Human]] described the situation as an int
 7. Badlands Brief — "The Wall Are Closing in Again! (And Other Stories)", URL: https://badlands.substack.com/p/badlands-news-brief-7ad
 8. Badlands Brief — "Badlands News Brief: Putin Postures, Voting Matters & J6 Subpoenas", URL: https://badlands.substack.com/p/badlands-news-brief-8c5
 9. Badlands News Brief — "Trump on Wuhan, Flynn Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-af7
+10. Badlands Brief — "Hollywood Crumbles While the Uniparty Is Exposed", URL: https://badlands.substack.com/p/badlands-news-brief-c5c

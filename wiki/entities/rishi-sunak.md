@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [uk, politics, prime-minister]
-sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-af5.md, raw/badlands-news-brief-a82.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-af5.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-c07.md]
 confidence: medium
 ---
 
@@ -34,8 +34,13 @@ National service had been abolished in Britain in 1960, but leading figures in t
 
 June 2024 coverage of [[justin-trudeau|Justin Trudeau]]'s by-election defeat grouped the Canadian prime minister with a long list of sinking incumbent governments that left the global pandemic with one foot in the political grave, describing UK Conservative prime minister Rishi Sunak as on track to be obliterated the following week.[4]
 
+## Net zero rollback and Rosebank approval
+
+In late September 2023, citing energy security needs, Sunak walked back a set of UK net zero emissions targets and green-lighted [[equinor|Equinor]]'s North Sea Rosebank field, one of Britain's biggest new oil and gas projects in recent times.[5] The decision framed the subsequent argument between his government — whose Energy Secretary [[claire-coutinho|Claire Coutinho]] warned that North Sea output would halve by 2030 and leave Britain "subservient to foreign regimes" — and the [[labour-party|Labour Party]], which pledged to block new offshore drilling to meet 2050 climate goals.[5]
+
 ## References
 1. Badlands Brief — "5GW Counter-Offensive - The Censorship Regime and the Road to 2024", URL: https://badlands.substack.com/p/5gw-counter-offensive-the-censorship
 2. Badlands Brief — "Sex-Based Hierarchy, Shadow Banking, & Schrödinger's List", URL: https://badlands.substack.com/p/badlands-news-brief-201
 3. Badlands Brief — "Badlands News Brief: Deliberations Begin as Signal Spreads in the Info War", URL: https://badlands.substack.com/p/badlands-news-brief-af5
 4. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
+5. Badlands Brief — "Badlands News Brief: Proxy Presidents & Proxy Wars", URL: https://badlands.substack.com/p/badlands-news-brief-c07

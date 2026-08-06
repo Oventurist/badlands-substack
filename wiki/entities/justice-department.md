@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [government, doj, law-enforcement, prosecutions, epstein, russiagate]
-sources: [raw/badlands-brief-8db.md, raw/badlands-brief-774.md, raw/badlands-brief-a84.md, raw/badlands-brief-ea5.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a71.md]
+sources: [raw/badlands-brief-8db.md, raw/badlands-brief-774.md, raw/badlands-brief-a84.md, raw/badlands-brief-ea5.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-c93.md]
 confidence: medium
 ---
 
@@ -96,8 +96,11 @@ On August 7, 2025, Attorney General [[pam-bondi|Pam Bondi]] announced that the J
 
 In October 2024, the Daily Mail reported that the Justice Department was "prepping" the federal government's death row for a resumption of executions in the event [[donald-trump|Donald Trump]] won the presidential election.[16] According to the report, officials made a visit the previous week to inspect the so-called "death range" at the Terre Haute penitentiary in Indiana, where the 40 prisoners serving federal death sentences are held.[16] No executions had been carried out by the US government during [[joe-biden|Joe Biden]]'s term, but Trump had indicated that lethal injections would quickly resume if he retook the White House.[16]
 
-## References
+## Appeal of the Comey and James dismissals (December 2025)
 
+The Justice Department appealed the dismissal of the criminal cases against former FBI Director [[james-comey|James Comey]] and New York Attorney General [[letitia-james|Letitia James]] on Friday night, December 19, 2025, having also attempted to reindict James.[17] Both cases had been thrown out by Judge [[cameron-currie|Cameron Currie]] on the ground that federal prosecutor [[lindsey-halligan|Lindsey Halligan]] was unlawfully appointed.[17]
+
+## References
 1. Badlands Brief — "Hunters Become the Hunted as Traitors Reveal Themselves", URL: https://badlands.substack.com/p/badlands-brief-8db
 2. Badlands Brief — "Weaponization Woes & Bailing on the Bromance", URL: https://badlands.substack.com/p/badlands-brief-774
 3. Badlands Brief — "You're Silly, and You Smell Like Syrup", URL: https://badlands.substack.com/p/badlands-brief-a84
@@ -114,3 +117,4 @@ In October 2024, the Daily Mail reported that the Justice Department was "preppi
 14. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38
 15. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
 16. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71
+17. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93

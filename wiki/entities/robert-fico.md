@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [slovakia, world-order, globalism]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-a20.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-384.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-7c6.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-a20.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-384.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-cb6.md]
 confidence: medium
 ---
 
@@ -58,6 +58,12 @@ Fico sustained life-threatening injuries on 15 May 2024 when a 71-year-old suspe
 
 Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] emphasized that Fico was the one NATO leader suing for peace between Russia and Ukraine, that he had been elected only the previous October, and that corporate media had rushed to the lone-wolf judgment before facts were established.[9] He noted CNN's framing of Fico receiving 'more votes than expected' despite being a two-time former prime minister, and its treatment of President [[zuzana-caputova|Zuzana Čaputová]]'s request that he form a government as a mere formality.[9] He speculated that 'Ukrainian puppet-masters from Langley, Virginia' had used [[operation-gladio|Operation Gladio]] networks and tactics.[9]
 
+## Letter to Elon Musk on USAID funding (February 2025)
+
+In February 2025 Fico wrote to [[elon-musk|Elon Musk]] complaining about the subsidies and grants that [[usaid|USAID]] had provided to NGOs, media outlets and specific journalists in Slovakia, and congratulated Musk on his appointment and the decisions he was making.[10] In a Facebook post Fico wrote that "it is indisputable that financial resources from USAID were used in Slovakia for political purposes, with the aim of distorting the political system and favouring certain political parties," adding that "even from incomplete public sources, it is clear that the USAID agency supported these entities with subsidies amounting to several million dollars over a relatively short period."[10] He requested more detailed information about money transfers into Slovakia so as to "distinguish between useful and beneficial projects and blatant interference in Slovakia's internal affairs," at a time when the [[donald-trump|Trump]] administration was seeking to abolish USAID and Musk led an agency tasked with improving federal efficiency.[10]
+
+Badlands commentary argued that if Musk granted Fico's request, the disclosures would offer an opportunity to prove that the [[state-department|State Department]] uses proxy NGOs to destabilise foreign countries for regime-change purposes, and might further connect that funding to the assassination attempt on Fico in May of the previous year.[10] The writer held that such a finding would not only prove [[operation-gladio|Operation Gladio]] but would justify the MAGA movement's desire to fundamentally transform the structure of the federal government.[10]
+
 ## References
 
 1. Badlands Brief — "Somali Shatterpoints, Cartel Countermeasures, & Erosion of the World Order", URL: https://badlands.substack.com/p/badlands-brief-094
@@ -69,3 +75,4 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] empha
 7. Badlands Brief - "Badlands News Brief: Tracking Resignations and Treasonous Trials", URL: https://badlands.substack.com/p/badlands-news-brief-576
 8. Badlands Brief — "Badlands News Brief: Shutdowns, Shakedowns, & Two Sexes", URL: https://badlands.substack.com/p/badlands-news-brief-762
 9. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
+10. Badlands Brief — "Badlands News Brief: Muslim Migrants, Mad Max, & Even More Money-Laundering", URL: https://badlands.substack.com/p/badlands-news-brief-cb6

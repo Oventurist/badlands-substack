@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [united-kingdom, political-parties, keir-starmer, lgbtq]
-sources: [raw/badlands-brief-b56.md, raw/badlands-news-brief-536.md]
+sources: [raw/badlands-brief-b56.md, raw/badlands-news-brief-536.md, raw/badlands-news-brief-c07.md]
 confidence: medium
 ---
 
@@ -32,6 +32,11 @@ British political activists have long travelled to the United States ahead of el
 
 Badlands writer [[burning-bright|Burning Bright]] read the episode through his concept of Convergence, arguing that the pillars of the [[deep-state|Deep State]] "System of Systems" were being exposed one by one across financial, political, cultural and clandestine domains.[2] He pointed to [[elon-musk|Elon Musk]] seeding a "this is war" framing around reports of British collusion in U.S. speech platforms and elections, followed by the Trump team's complaint as "a narrative boost masquerading as a lawfare deployment," summarizing the sequence as "Seeding. Germination. Harvest." and concluding that "Coordination = Control."[2]
 
+## 2023 North Sea drilling pledge
+
+Ahead of the next UK general election, Labour vowed to stop any new offshore drilling in the North Sea in an effort to meet the country's 2050 climate goals.[3] Conservative Energy Secretary [[claire-coutinho|Claire Coutinho]] warned in October 2023 that such a policy would see British oil and gas production halve by 2030, forcing the country to import up to 80 percent of its supply and rendering it "subservient to foreign regimes," citing [[north-sea-transition-authority|North Sea Transition Authority]] figures showing output at a record low of 38 million tonnes in 2022.[3] The dispute followed [[rishi-sunak|Rishi Sunak]]'s late-September 2023 decision to approve [[equinor|Equinor]]'s Rosebank field on energy security grounds.[3]
+
 ## References
 1. Badlands Brief — "A Communist Uprising & A Globalist Humiliation Ritual", URL: https://badlands.substack.com/p/badlands-brief-b56
 2. Badlands Brief — "Orange Man Reruns & Scandals Galore", URL: https://badlands.substack.com/p/badlands-news-brief-536
+3. Badlands Brief — "Badlands News Brief: Proxy Presidents & Proxy Wars", URL: https://badlands.substack.com/p/badlands-news-brief-c07

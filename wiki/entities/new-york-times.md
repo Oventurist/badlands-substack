@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, mainstream-media, newspapers, intelligence-community]
-sources: [raw/a-swan-song-for-the-msm.md, raw/assad-day-in-damascus.md, raw/badlands-brief-559.md, raw/badlands-brief-6f0.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-aed.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/assad-day-in-damascus.md, raw/badlands-brief-559.md, raw/badlands-brief-6f0.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-bfb.md]
 confidence: medium
 ---
 
@@ -103,6 +103,10 @@ On October 29, 2024, The New York Times published a report revealing that Ukrain
 
 The report was described as scathing toward Zelenskyy, characterising his lobbying tour for the [[ukraine-victory-plan|Victory Plan]] as a failure while suggesting the plan had been set up to fail: the Times noted that some military analysts and diplomats believed the real audience was domestic, allowing Zelenskyy to show Ukrainians he had done all he could, prepare them for a possible deal, and hand them a convenient scapegoat in the West.[16]
 
+## December 2023 copyright suit against Microsoft and OpenAI
+
+On December 27, 2023, The New York Times sued [[microsoft|Microsoft]] and [[openai|OpenAI]] for copyright infringement and misuse of its intellectual property, seeking "billions of dollars in statutory and actual damages" for the "unlawful copying and use of The Times's uniquely valuable works."[17] The complaint accused the defendants of building a business model on "mass copyright infringement," alleging their AI systems "exploit and, in many cases, retain large portions of the copyrightable expression contained in those works."[17] The case is described in more detail at [[new-york-times-v-microsoft-and-openai|New York Times v. Microsoft and OpenAI]].[17]
+
 ## References
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
 2. Badlands Brief — "Assad Day in Damascus", URL: https://badlands.substack.com/p/assad-day-in-damascus
@@ -120,3 +124,4 @@ The report was described as scathing toward Zelenskyy, characterising his lobbyi
 14. Badlands Brief — "Badlands News Brief: Will the One True POTUS Please Stand Up?", URL: https://badlands.substack.com/p/badlands-news-brief-9ae
 15. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
 16. Badlands Brief — "Badlands News Brief: The Garbage Man Cometh to Take out the Trash", URL: https://badlands.substack.com/p/badlands-news-brief-aed
+17. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb

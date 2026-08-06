@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [immigration, columbia-university, palestine, deportation, british-government]
-sources: [raw/badlands-news-brief-373.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-5c8.md]
+sources: [raw/badlands-news-brief-373.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-c4f.md]
 confidence: medium
 ---
 
@@ -43,7 +43,12 @@ A federal judge temporarily blocked Khalil's deportation while weighing the peti
 
 Khalil, the [[columbia-university|Columbia University]] graduate detained by [[immigration-and-customs-enforcement|Immigration and Customs Enforcement]], was denied permission to attend the birth of his first child, several outlets confirmed on Monday, April 21, 2025.[3] His attorneys had written on the Sunday to Melissa Harper, director of ICE's New Orleans field office where he was held, requesting a two-week release to be with his wife for the delivery; Harper denied the request about 30 minutes later, dismissing the furlough "after consideration of the submitted information and a review" of his case.[3] His wife, Dr. Noor Abdalla, said she welcomed their son into the world alone and called it "a purposeful decision by ICE to make me, Mahmoud, and our son suffer."[3]
 
+## Cited in the UPenn antisemitism probe debate (2025)
+
+Khalil's deportation was invoked in November 2025 commentary on the federal [[equal-employment-opportunity-commission|EEOC]] investigation into antisemitism at the [[university-of-pennsylvania|University of Pennsylvania]], where Jewish groups objected to authorities seeking personal information about Jewish staffers.[4] Badlands host GhostofBasedPatrickHenry noted that Jewish groups had openly expressed concern about deportations ever since the Palestinian activist Khalil was removed for his perceived antisemitism, and argued it was strange that groups which had demanded action against activists like Khalil became alarmed once the [[department-of-justice|DOJ]] investigative apparatus turned in their direction.[4]
+
 ## References
 1. Badlands News Brief — "Shutdown Show Down & British Spies for Palestine", URL: https://badlands.substack.com/p/badlands-news-brief-373
 2. Badlands News Brief — "Unearthed Autopens, Inevitable Ceasefires, & 56 Human Kidneys", URL: https://badlands.substack.com/p/badlands-news-brief-541
 3. Badlands Brief — "Badlands News Brief: A Coming Conclave & More Musical Chairs", URL: https://badlands.substack.com/p/badlands-news-brief-5c8
+4. Badlands News Brief — "Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f

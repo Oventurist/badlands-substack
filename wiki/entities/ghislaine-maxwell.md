@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [epstein, trafficking, clemency]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-4ec.md, raw/badlands-brief-9ac.md, raw/badlands-brief-eea.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-4a6.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a5a.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-4ec.md, raw/badlands-brief-9ac.md, raw/badlands-brief-eea.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-4a6.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a5a.md, raw/badlands-news-brief-c0a.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-ce1.md]
 confidence: low
 ---
 
@@ -73,6 +73,20 @@ In late February 2023 Maxwell was reportedly punished by authorities at [[fci-ta
 
 The interview in question included Maxwell's statement, "I believe that he was murdered," referring to Epstein's death in custody — a line [[badlands-media|Badlands Media]] contributor [[justin-deschamps|Justin Deschamps]] suggested she likely wished she had never uttered.[11] Deschamps wrote that while Maxwell hardly garners sympathy and should pay her debt to society, imposing unusual suffering for crimes committed carries a poorly understood cost to society at large, and that a civilization without a genuine pathway to redemption indirectly fosters greater antisocial behavior.[11] He judged that Maxwell had not fully embraced remorse, perhaps because she was "likely just a pawn in a much bigger criminal enterprise," and framed the episode as a test of how the [[great-awakening|Great Awakening]] generation would deal with the evils of its time for the benefit of future historians.[11]
 
+## Transfer out of the "snake pit" (March 2024)
+
+In March 2024 Maxwell, described as a disgraced British socialite convicted of sex trafficking and multiple counts of conspiracy, was reported to be awaiting an appeals court ruling on her bid to overturn her 20-year sentence.[12] Federal prisoner 02879-509 had in the meantime been transferred out of [[fci-tallahassee|FCI Tallahassee]]'s squalid B South unit — where 120 inmates are crammed into tiny cubicles of four bunks, earning it the nickname "the snake pit" — into a more comfortable wing.[12] She would not be eligible for release until July 2037.[12] Her defense argued that she should never have been tried for grooming [[jeffrey-epstein|Epstein]]'s victims because of a provision in his 2008 plea deal.[12] FCI Tallahassee has often been portrayed as a "Club Fed" where inmates can learn new languages, take yoga classes, and play in softball tournaments.[12]
+
+## Grand jury transcripts and congressional subpoenas (November 2025)
+
+The [[department-of-justice|Department of Justice]] filed an expedited motion in November 2025 seeking release of grand-jury transcripts and the lifting of protective orders tied to the investigations into Maxwell and [[jeffrey-epstein|Jeffrey Epstein]], arguing that the newly enacted [[epstein-files-transparency-act|Epstein Files Transparency Act]] overrode grand-jury secrecy rules that had defeated an earlier July request.[13] Signed on November 19, 2025, the law requires the Attorney General to release within 30 days all unclassified investigative and prosecutorial materials related to Epstein and Maxwell, subject to narrow exceptions.[13] In parallel, the [[house-oversight-committee|House Oversight Committee]] ordered [[bill-clinton|Bill Clinton]] and [[hillary-clinton|Hillary Clinton]] to sit for December depositions in its Epstein-Maxwell investigation.[13]
+
+## Second Circuit upholds conviction (September 2024)
+
+On Tuesday, September 17, 2024, the Manhattan-based [[second-circuit-court-of-appeals|2nd U.S. Circuit Court of Appeals]] upheld Maxwell's conviction for helping the late financier [[jeffrey-epstein|Jeffrey Epstein]] sexually abuse teenage girls, meaning the British socialite would remain in a Florida prison serving her 20-year sentence.[14] Maxwell, then 62, had been convicted in December 2021 on five charges relating to the recruitment and grooming of four underage girls for Epstein, her former boyfriend, to abuse between 1994 and 2004.[14] A three-judge panel rejected her claim that Epstein's 2007 agreement with federal prosecutors in southern Florida shielded her from prosecution in New York, where she was charged in 2020, and also rejected her arguments that the trial was tainted by a juror's failure to disclose childhood sexual abuse and that her sentence was too long.[14] A lawyer for Maxwell signaled she would appeal to the U.S. Supreme Court.[14]
+
+Badlands contributor [[burning-bright|Burning Bright]] noted that the ruling came in the [[southern-district-of-new-york|Southern District of New York]] on the same day as the indictment and bail denial of [[sean-combs|Sean "Diddy" Combs]], and on the 17th of the month — a numerological coincidence he treated as evidence that "you are watching a movie."[14]
+
 ## References
 1. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
 2. Badlands Brief — "Criminal Invader Crashouts & Honeypot Hoaxes", URL: https://badlands.substack.com/p/badlands-brief-4ec
@@ -85,3 +99,6 @@ The interview in question included Maxwell's statement, "I believe that he was m
 9. Badlands Brief — "Dumb Questions, Pentagon Pizzas, & Zero Trust", URL: https://badlands.substack.com/p/badlands-news-brief-669
 10. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
 11. Badlands News Brief — "Ukrainian Backpedal, Maxwell Solitary & Local Heroes", URL: https://badlands.substack.com/p/badlands-news-brief-a5a
+12. Badlands Brief — "Badlands News Brief: White Collar Prisons & Confounding Court Decisions", URL: https://badlands.substack.com/p/badlands-news-brief-c0a
+13. Badlands News Brief — "Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f
+14. Badlands Brief — "Badlands News Brief: Trump Sends Comms as Diddlers Get Indicted", URL: https://badlands.substack.com/p/badlands-news-brief-ce1

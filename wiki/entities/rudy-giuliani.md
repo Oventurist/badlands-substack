@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [republicans, regime-change, iran, commentary]
-sources: [raw/badlands-brief-e87.md, raw/badlands-news-brief-4ee.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-a9e.md, raw/badlands-news-brief-b24.md]
+sources: [raw/badlands-brief-e87.md, raw/badlands-news-brief-4ee.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-a9e.md, raw/badlands-news-brief-b24.md, raw/badlands-news-brief-cc9.md]
 confidence: medium
 ---
 
@@ -56,3 +56,9 @@ On the evening of August 30, 2025, Giuliani, then 81, was severely injured in a 
 4. Badlands Brief — "Trumpian Rug Pulls, Biden Whispers & NATO Panic", URL: https://badlands.substack.com/p/badlands-news-brief-6c4
 5. Badlands Brief — "Badlands News Brief: The Simulation Gets Very ... Very Weird", URL: https://badlands.substack.com/p/badlands-news-brief-a9e
 6. Badlands Brief — "Badlands News Brief: A Curious Car Crash, Covid Case Rates, & A Culture of Panic and Dread", URL: https://badlands.substack.com/p/badlands-news-brief-b24
+
+## Hunter Biden laptop lawsuit (2023)
+
+On 26 September 2023, [[hunter-biden|Hunter Biden]] sued Giuliani in the U.S. District Court for the Central District of California, alleging that Giuliani had violated his privacy rights by illegally disseminating data taken from his laptop.[7] The complaint calls Giuliani "primarily responsible" for the "total annihilation" of Biden's digital privacy and names his former attorney [[robert-costello|Robert Costello]] as a co-defendant.[7] Biden's lawyers characterised the defendants' conduct as hacking, tampering with and disseminating data taken from his devices, and disputed that the material came from a "laptop" at all, describing it instead as an "external drive."[7] Badlands writer [[burning-bright|Burning Bright]] argued the suit represented a shifting of the goalposts, in that Hunter Biden was now conceding the data existed while contesting how it was obtained.[7] See [[hunter-biden-v-giuliani|Hunter Biden v. Giuliani]].[7]
+
+7. Badlands Brief — "Badlands News Brief: Hunter Sues, Ukraine Backpedals & Big Mike Preps", URL: https://badlands.substack.com/p/badlands-news-brief-cc9

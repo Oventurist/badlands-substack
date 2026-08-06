@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [federal-reserve, interest-rates, monetary-policy]
-sources: [raw/a-week-to-remember.md, raw/badlands-brief-094.md, raw/badlands-brief-1ce.md, raw/badlands-brief-9eb.md, raw/badlands-brief-b74.md, raw/badlands-brief-b82.md, raw/badlands-brief-bf7.md, raw/badlands-brief-d9f.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-12b.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-3f5.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-a12.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-a9a.md, raw/badlands-news-brief-b0f.md]
+sources: [raw/a-week-to-remember.md, raw/badlands-brief-094.md, raw/badlands-brief-1ce.md, raw/badlands-brief-9eb.md, raw/badlands-brief-b74.md, raw/badlands-brief-b82.md, raw/badlands-brief-bf7.md, raw/badlands-brief-d9f.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-12b.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-3f5.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-a12.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-a9a.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-cce.md]
 confidence: medium
 ---
 
@@ -174,6 +174,10 @@ Badlands contributor [[burning-bright|Burning Bright]] framed the standoff as a 
 
 Badlands commentary in July 2025 reinterpreted President [[donald-trump|Donald Trump]]'s long-running nickname for Powell — "Too Late," used for months in the context of interest rate policy — in light of the [[genius-act|GENIUS Act]], signed into law on July 18, 2025.[30] The argument held that fully reserved, Treasury-backed U.S. stablecoins would stabilize and decentralize the dollar, rendering the money-printing function of central banks obsolete, and that Powell and his central banking counterparts had been "too late to stop the one move they never saw coming."[30] The same commentary declared that central bank digital currencies were "dead."[30]
 
+## December 2023 dovish reversal
+
+Under Powell's chairmanship the [[federal-reserve|Federal Reserve]] held rates steady on December 13, 2023 and signaled that the tightening cycle of the prior two years had ended, with lower borrowing costs expected in 2024 — a message markets read as decisively dovish, sending the S&P 500 up nearly 1.4% and pushing the 10-year Treasury yield to about 3.96%.[31] Badlands contributor [[burning-bright|Burning Bright]] noted that Powell had signaled hawkish sentiment only two weeks earlier and suggested, citing analysts including [[zerohedge|ZeroHedge]], that the reversal followed a phone call from the [[joe-biden|Biden]] administration amid its retreat from "Bidenomics" messaging — behavior he characterized as partisan politicking or election interference.[31]
+
 ## References
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
 2. Badlands Brief — "Somali Shatterpoints, Cartel Countermeasures, & Erosion of the World Order", URL: https://badlands.substack.com/p/badlands-brief-094
@@ -205,3 +209,4 @@ Badlands commentary in July 2025 reinterpreted President [[donald-trump|Donald T
 28. Badlands News Brief — "Shadow Feds, Activist Courts, & Lasting Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a69
 29. Badlands Brief — "Proxy Wars & The Prevention of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a9a
 30. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f
+31. Badlands Brief — "Badlands News Brief: The System of Systems is a House of Cards", URL: https://badlands.substack.com/p/badlands-news-brief-cce

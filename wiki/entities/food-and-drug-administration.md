@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [agency, fda, medical-devices, regulation]
-sources: [raw/badlands-brief-2c5.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-58c.md, raw/badlands-news-brief-908.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a61.md, raw/badlands-news-brief-b10.md]
+sources: [raw/badlands-brief-2c5.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-58c.md, raw/badlands-news-brief-908.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a61.md, raw/badlands-news-brief-b10.md, raw/badlands-news-brief-c50.md, raw/badlands-news-brief-c44.md, raw/badlands-news-brief-cce.md]
 confidence: low
 ---
 
@@ -101,6 +101,16 @@ On January 26, 2023, the nonprofit [[childrens-health-defense|Children's Health 
 
 Eleven days after a court-ordered settlement required the FDA to remove all social-media posts and directives concerning [[ivermectin]], a webpage and the agency's most infamous post advising against the drug's use remained online, The Epoch Times reported in April 2024.[18] The settlement, filed with a federal court in southern Texas and dated March 21, 2024, followed years of controversy over the drug's use against COVID-19.[18] The agency had already removed a page reading "Should I take ivermectin to prevent or treat COVID-19? No.", but its August 21, 2021 post on X — "You are not a horse. You are not a cow. Seriously y'all. Stop it" — continued to remain live, having been reposted more than 67,000 times at the time of publication.[18]
 
+## Phase-out of animal testing (2025)
+
+In April 2025 the FDA announced that it was phasing out an animal testing requirement for antibody therapies and other drugs in favor of testing on materials that mimic human organs.[20] The move, part of a broader effort alongside the [[environmental-protection-agency|Environmental Protection Agency]] to end animal testing within agency programs, drew an outpouring of support from animal advocacy groups and lawmakers.[20] [[peta|PETA]] senior vice president Kathy Guillermo said the organization "applauds the FDA's decision to stop harming animals and adopt human-relevant testing strategies for evaluating antibody therapies," calling it "a significant step towards meeting the agency's commitment to replace the use of animals" while urging an end to all animal use, including testing on monkeys at federally funded primate centers, and calling on the agency to "further embrace 21st-century science."[20]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] wrote that PETA was simply acknowledging good policy and that MAGA and PETA should be able to find common ground in the MAHA age, in which all parties claim to advocate healthier and more ethical science.[20]
+
+## America First Legal FOIA lawsuit (December 2023)
+
+In December 2023 [[america-first-legal|America First Legal]] sued the FDA and the [[department-of-health-and-human-services|Department of Health and Human Services]] for failing to turn over documents concerning the government's suppression of the COVID-19 treatments [[hydroxychloroquine|hydroxychloroquine]] and [[ivermectin|ivermectin]].[21] AFL had filed [[freedom-of-information-act|Freedom of Information Act]] requests with both agencies in August and September 2022 and received tracking numbers, but neither agency produced responsive records.[21] The requests sought to establish when and why officials, including [[anthony-fauci|Anthony Fauci]], discouraged the two drugs.[21] Badlands commentary accused the FDA and other agencies of "obscuring, obfuscating and even withholding valuable information from the public" that might have saved lives.[21]
+
 ## References
 
 
@@ -122,3 +132,6 @@ Eleven days after a court-ordered settlement required the FDA to remove all soci
 16. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
 17. Badlands News Brief — "Big Pharma, Big Lies and Big Boomerangs", URL: https://badlands.substack.com/p/badlands-news-brief-a61
 18. Badlands Brief — "Badlands News Brief: Middle Eastern Shenanigans & Dasting Data Dominate", URL: https://badlands.substack.com/p/badlands-news-brief-b10
+19. Badlands Brief — "The Cocaine White House, False Flags & Free Speech", URL: https://badlands.substack.com/p/badlands-news-brief-c50
+20. Badlands Brief — "Badlands News Brief: A British TERF Triumph & A Senator Snubbed in El Salvador", URL: https://badlands.substack.com/p/badlands-news-brief-c44
+21. Badlands Brief — "Badlands News Brief: The System of Systems is a House of Cards", URL: https://badlands.substack.com/p/badlands-news-brief-cce

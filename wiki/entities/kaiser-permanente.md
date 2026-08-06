@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [healthcare, labor, strikes, unions, 2023, false-claims-act, medicare]
-sources: [raw/a-time-to-strike.md, raw/badlands-brief-b38.md, raw/badlands-news-brief-050.md]
+sources: [raw/a-time-to-strike.md, raw/badlands-brief-b38.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-c1e.md]
 confidence: medium
 ---
 
@@ -34,3 +34,9 @@ On Aug. 24, 2023, Kaiser Permanente in Santa Rosa, California, reversed a policy
 1. Badlands Brief — "A Time to Strike", URL: https://badlands.substack.com/p/a-time-to-strike
 2. Badlands Brief — "Backchannel Boys & Globalizing Girls", URL: https://badlands.substack.com/p/badlands-brief-b38
 3. Badlands News Brief — "Lake Lasts, Biden Slumps & Powell Blinks", URL: https://badlands.substack.com/p/badlands-news-brief-050
+
+## Chloe Cole litigation
+
+Detransitioner [[chloe-cole|Chloe Cole]] is suing Kaiser Permanente for medical malpractice over the gender-related medical treatment she received as a minor.[4] [[simon-esler|Simon Esler]] cited her case to argue that platform-liability theories advanced in cases such as the [[2022-buffalo-supermarket-shooting|Buffalo shooting]] lawsuit are applied selectively, since detransitioners have described how TikTok and Instagram steered them toward medical transition.[4]
+
+4. Badlands Brief — "Badlands News Brief: Weaponization, Willis, and World War III", URL: https://badlands.substack.com/p/badlands-news-brief-c1e

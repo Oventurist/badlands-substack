@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ice, immigration, enforcement, trafficking, sanctuary-jurisdictions]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-094.md, raw/badlands-brief-165.md, raw/badlands-brief-144.md, raw/badlands-brief-b38.md, raw/badlands-brief-b82.md, raw/badlands-brief-c07.md, raw/badlands-brief-e9e.md, raw/badlands-brief-e3b.md, raw/badlands-brief-eed.md, raw/badlands-brief-fbb.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-69d.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-bd2.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-094.md, raw/badlands-brief-165.md, raw/badlands-brief-144.md, raw/badlands-brief-b38.md, raw/badlands-brief-b82.md, raw/badlands-brief-c07.md, raw/badlands-brief-e9e.md, raw/badlands-brief-e3b.md, raw/badlands-brief-eed.md, raw/badlands-brief-fbb.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-69d.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-c14.md, raw/badlands-news-brief-cf3.md]
 confidence: medium
 ---
 
@@ -163,6 +163,15 @@ Divisions of Immigration and Customs Enforcement participated in the seven-day f
 
 On the morning of Wednesday, 24 September 2025, an ICE facility in Dallas was, in officials' words, "showered with bullets" by a sniper; one detainee was killed and two were critically injured, while no ICE agents were hurt.[30] The gunman, identified as [[joshua-jahn|Joshua Jahn]], fired indiscriminately at the building at around 6:20 a.m., striking a van in the sallyport that held detainees, and was later found dead on the roof of a nearby immigration attorney's office from a self-inflicted gunshot wound.[30] [[fbi|FBI]] Director [[kash-patel|Kash Patel]] said an unspent shell casing recovered at the scene bore the words "ANTI ICE," though the motive remained unclear.[30] The attack is described in detail at [[dallas-ice-facility-shooting|the Dallas ICE facility shooting]].[30]
 
+
+## December 2025 criminal alien arrests
+
+On December 1, 2025, ICE announced the arrest of several migrants convicted of serious crimes, including child sexual assault and armed robbery.[31] Those taken into custody included Juan Ramos-Ramos, a Honduran national convicted in Hudson, New Jersey, of multiple sexual offenses including sexual assault of a minor and endangering a child; Jorge Alberto Menjivar of El Salvador, convicted in Woburn, Massachusetts, of multiple counts of aggravated child rape and rape by force; Jean Saint-Cyr, a Haitian national convicted of assault in Brooklyn, New York; Luis Angel Escobar-Negrete, a Mexican national convicted in Texas of aggravated assault with a deadly weapon; and Raul Rodriguez-Martinez, also of Mexico, convicted of second-degree robbery with a firearm enhancement in Santa Ana, California.[31] DHS Assistant Secretary [[tricia-mclaughlin|Tricia McLaughlin]] said that "despite a more than 1,153 percent increase in assaults against our law enforcement officers, they continue to arrest the worst of the worst criminal illegal aliens," adding that those detained included "pedophiles, sexual predators, and armed robbers."[31]
+
+## Homeland Security Investigations subpoenas in California (2025)
+
+ICE's Homeland Security Investigations (HSI) office in Los Angeles filed subpoenas in May 2025 against the government of California, seeking records related to alleged disbursements of federal funds to illegal immigrants through the state's [[cash-assistance-program-for-immigrants|Cash Assistance Program for Immigrants]].[32] The action was announced by the [[department-of-homeland-security|Department of Homeland Security]] on Monday, May 12, with Secretary [[kristi-noem|Kristi Noem]] saying the subpoena focused only on Los Angeles County but was "just the beginning."[32]
+
 ## References
 1. Badlands Brief — "Mixed Gender Crews, Trafficking Stings, & Shadow Cabal Reruns", URL: https://badlands.substack.com/p/badlands-brief-029
 2. Badlands Brief — "Somali Shatterpoints, Cartel Countermeasures, & Erosion of the World Order", URL: https://badlands.substack.com/p/badlands-brief-094
@@ -195,3 +204,11 @@ On the morning of Wednesday, 24 September 2025, an ICE facility in Dallas was, i
 28. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
 29. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
 30. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2
+31. Badlands Brief — "Bogus Visas, Brazilian Sanctions, and Foreign Boat Battles", URL: https://badlands.substack.com/p/badlands-news-brief-bd7
+32. Badlands Brief — "Badlands News Brief: Overreach, Obstruction, & Our Boy Blue", URL: https://badlands.substack.com/p/badlands-news-brief-c14
+
+## Planned Los Angeles enforcement operation and leak controversy (February 2025)
+
+In February 2025 the Los Angeles Times reported, citing an internal government document, that ICE would lead a "large-scale" immigration enforcement operation in the Los Angeles area targeting people without legal status in the United States or with pending orders of removal.[33] The document had reportedly circulated among some government officials the prior week, and the paper said Los Angeles [[fbi|FBI]] and Drug Enforcement Administration agents were being called in to assist.[33] [[department-of-homeland-security|DHS]] Secretary [[kristi-noem|Kristi Noem]] responded by calling the FBI "corrupt" and vowing to work with any agency to stop leaks and prosecute "crooked deep state agents."[33] ICE sources told Fox News they did not know where Noem obtained the information or what she was basing it on.[33]
+
+33. Badlands Brief — "Badlands News Brief: Soaring Eagles & Terminal USAIDs", URL: https://badlands.substack.com/p/badlands-news-brief-cf3

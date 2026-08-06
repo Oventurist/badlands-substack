@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [south-america, oil, territorial-dispute, venezuela, essequibo]
-sources: [raw/badlands-news-brief-65a.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-adc.md]
+sources: [raw/badlands-news-brief-65a.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-adc.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-cff.md]
 confidence: medium
 ---
 
@@ -28,7 +28,18 @@ Badlands commentary characterised Guyana as a proxy state — the only country i
 
 Badlands commentary connected the late-2023 paramilitary conflict in the Guyana region to Saudi diplomacy, noting that [[mohammed-bin-salman|Mohammed bin Salman]] had hosted CARICOM at Diriyah for the first time less than two weeks earlier, that a photograph of him with Guyana's president had been posted with Guyana, Suriname and Venezuela hashtagged, and that the Saudi Foreign Ministry had unusually included the Venezuelan and Surinamese ambassadors in the same press release the day before the situation escalated.[3] The commentary observed that Britain deployed naval ships to the area to protect exclusive colonial oil rights and that the Russian Ministry of Defense responded by telling London to back off, framing the episode as an element of multipolar devolution.[3]
 
+## Exxon operations and the Venezuela standoff, 2025
+
+During the December 2025 confrontation between Washington and Caracas, Badlands analysis highlighted that [[exxonmobil|Exxon]] — routinely described as the company with the most at stake in Venezuelan oil — actually holds its rights with Guyana, not [[venezuela|Venezuela]].[4] Guyana shares territorial waters with Venezuela where the contested oil reserve is located, making the maritime boundary a central element of the dispute over which President [[donald-trump|Donald Trump]] imposed a naval blockade.[4]
+
+
+## Russian ambassadorial credentials (August 2025)
+
+On August 6, 2025, [[andrey-pritsepov|Andrey A. Pritsepov]], Ambassador of [[russia|Russia]] to Guyana, presented his letters of credence to President [[mohamed-irfaan-ali|Mohamed Irfaan Ali]] in a meeting the Russian Embassy described as covering a wide range of practical bilateral issues.[5] Pritsepov emphasized Russia's readiness to build trusting relations based on equality and to expand cooperation in higher education, agriculture, energy and air services, and underlined the importance of ties within the United Nations system, noting Guyana's service as a non-permanent member of the UN Security Council.[5] Ali highlighted the respect Guyanese people hold for the Russian people and for President [[vladimir-putin|Vladimir Putin]] personally, stressing that bilateral relations rest on both a rich history and shared values.[5] Badlands contributor [[chris-paul|Chris Paul]] noted the timing, with Russia — an ally of Venezuela — engaging Guyana shortly before a Russian meeting with President [[donald-trump|Donald Trump]].[5]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Hunter Hunted, Swamp Exposed & Proxies Disabled", URL: https://badlands.substack.com/p/badlands-news-brief-65a
 2. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72
 3. Badlands Brief — "Badlands News Brief: Globalists Panic as Populism Takes Over the Zeitgeist", URL: https://badlands.substack.com/p/badlands-news-brief-adc
+4. Badlands Brief — "A Christmas Bonus, War “With” Venezuela, & Prime Time Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-cad
+5. Badlands Brief — "Letters of Credence, More Evidence of Treason, & Allegedly Super-Intelligent AI", URL: https://badlands.substack.com/p/badlands-news-brief-cff

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fbi, indictments, lawfare]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-52b.md, raw/badlands-brief-579.md, raw/badlands-brief-6a1.md, raw/badlands-brief-6bf.md, raw/badlands-brief-d1a.md, raw/badlands-brief-cfa.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-09b.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a5d.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-52b.md, raw/badlands-brief-579.md, raw/badlands-brief-6a1.md, raw/badlands-brief-6bf.md, raw/badlands-brief-d1a.md, raw/badlands-brief-cfa.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-09b.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a5d.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-c93.md]
 confidence: medium
 ---
 
@@ -142,8 +142,17 @@ On Monday, May 19, 2025, Comey appeared at a Barnes & Noble in New York City, wh
 
 NBC News paired the scene with the announcement by [[alina-habba|Alina Habba]], acting U.S. attorney in New Jersey, of criminal charges against Representative [[lamonica-mciver|LaMonica McIver]].[25] In the [[badlands-news-brief|Badlands News Brief]] of May 21, 2025, [[ashe-in-america|Ashe in America]] asked what would have happened had [[kash-patel|Kash Patel]] or [[dan-bongino|Dan Bongino]] posted a death threat against the president during the Biden administration while they were media personalities and private citizens — noting that Comey now occupied exactly that role, on a book tour, while Patel and Bongino were running the [[fbi|FBI]].[25] She closed with the outlet's recurring refrain: "No one is above the law."[25]
 
-## References
+## Nearing indictment in the Eastern District of Virginia (September 2025)
 
+In late September 2025 sources confirmed to Just the News that the [[department-of-justice|Justice Department]] was nearing a decision on whether to indict Comey in the Eastern District of Virginia.[26] The report followed by two weeks the subpoena of former Comey adviser and Columbia University law professor [[daniel-richman|Daniel Richman]] as part of a criminal probe, and reflected President [[donald-trump|Donald Trump]]'s argument that Comey broke the law by sharing memos containing classified information with the New York Times.[26]
+
+News of a possible indictment, first reported by MSNBC, came after U.S. Attorney for the Eastern District of Virginia [[erik-siebert|Erik S. Siebert]] resigned, allegedly under pressure from the Trump administration to bring charges against Comey; Trump replaced him on an interim basis with attorney [[lindsey-halligan|Lindsey Halligan]] ahead of a congressional confirmation process.[26] Sources said at least one element of any indictment would contend that Comey lied to [[congress|Congress]] during his testimony in late September 2020, when he denied ever authorizing a leak to the media about the Trump-Russia investigation or Clinton-related investigations; the five-year statute of limitations on that charge was expected to lapse the following Tuesday.[26] Badlands contributor [[burning-bright|Burning Bright]] framed the development as encouraging signal "dropped in plain sight" amid engineered noise in the info war.[26]
+
+## Justice Department appeal of the dismissal (December 2025)
+
+On Friday night, December 19, 2025, the [[justice-department|Justice Department]] appealed the dismissal of the criminal cases against Comey and New York Attorney General [[letitia-james|Letitia James]].[27] Comey had been charged in September with obstruction of justice and making a false statement to Congress in 2020, and pleaded not guilty.[27] US District Judge [[cameron-currie|Cameron Currie]] dismissed both cases after ruling that federal prosecutor [[lindsey-halligan|Lindsey Halligan]] had been unlawfully appointed, holding that "all actions flowing from" her appointment, including the indictments, "constitute unlawful exercises of executive power and must be set aside."[27] Badlands contributor [[ashe-in-america|Ashe in America]] questioned whether a district judge may override a presidential appointment and welcomed the appeal as a route to legal clarity, arguing the appointment should stand and that Comey and James should remain indicted.[27]
+
+## References
 1. Badlands Brief — "Somali Shatterpoints, Cartel Countermeasures, & Erosion of the World Order", URL: https://badlands.substack.com/p/badlands-brief-094
 2. Badlands Brief — "Golgotha & The Metaverse", URL: https://badlands.substack.com/p/badlands-brief-52b
 3. Badlands Brief — "Two Cartels, Imminent Indictments, & A French Nun", URL: https://badlands.substack.com/p/badlands-brief-579
@@ -169,3 +178,5 @@ NBC News paired the scene with the announcement by [[alina-habba|Alina Habba]], 
 23. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
 24. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
 25. Badlands Brief — "Badlands News Brief: Our Boy Victim & Friends Without Benefits", URL: https://badlands.substack.com/p/badlands-news-brief-a5d
+26. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2
+27. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93

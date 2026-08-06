@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [republican-party, colorado, congress, primary-elections]
-sources: [raw/badlands-brief-311.md, raw/badlands-brief-52f.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-860.md]
+sources: [raw/badlands-brief-311.md, raw/badlands-brief-52f.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-bed.md]
 confidence: low
 ---
 
@@ -32,9 +32,16 @@ Boebert was among the Republicans who refused to fall in line behind Majority Le
 
 When the [[donald-trump|Trump]] campaign announced a rally in [[aurora-colorado|Aurora]] for October 2024, Boebert — then representing Colorado's 3rd Congressional District while running to represent the state's 4th — said she was "ready and thrilled" to have the former president in Colorado.[5]
 
+## April 2024 blood clot and surgery
+
+On Monday, April 1, 2024, Boebert was taken to a Colorado hospital after experiencing severe swelling in one of her legs, and her campaign team disclosed the episode in a statement the following night.[6] Doctors found a blood clot and diagnosed her with [[may-thurner-syndrome|May-Thurner Syndrome]], a relatively rare vascular condition.[6] On Tuesday morning she underwent surgery to remove the clot and insert a stent, which her team described as successful, and physicians at UCHealth Medical Center in Loveland said she was expected to make a full recovery without long-term health effects.[6] Boebert thanked Dr. Rebecca Bade and the UCHealth team for their care and said she looked forward to "getting back to Congress to continue fighting for Colorado."[6]
+
+The episode landed while Boebert was seeking to move from Colorado's third congressional district to the fourth, a switch that Badlands Media contributor [[ashe-in-america|Ashe in America]] — herself a CD4 constituent — described as widely expected to succeed as the state GOP headed into its assembly, though not popularly welcomed.[6] Ashe used the diagnosis to argue that showing up is a non-negotiable part of congressional service, comparing the situation to that of [[steve-scalise|Steve Scalise]], who was absent for votes while fighting cancer, and calculating that between them roughly 1.5 million Americans were effectively unrepresented.[6] She also criticized what she called an entitlement factor in Boebert's district switch, contending that after nearly losing her 2022 contest Boebert appeared to believe herself unelectable among her current constituents yet still felt entitled to a seat, while wishing her healing and peace.[6]
+
 ## References
 1. Badlands Brief — "Massie Faces Massive Loss as Zionists Get Twitchy", URL: https://badlands.substack.com/p/badlands-brief-311
 2. Badlands Brief — "As Expected Energy Wars, 'Life Insurance', & Crazies Keeping Their Guns (Maybe)", URL: https://badlands.substack.com/p/badlands-brief-52f
 3. Badlands Brief — "Badlands News Brief: Hypocrisy Roundup & Rug-pulls Galore", URL: https://badlands.substack.com/p/badlands-news-brief-378
 4. Badlands News Brief — "Peacemakers, Fake Kennedys & Fear Mongers", URL: https://badlands.substack.com/p/badlands-news-brief-3b2
 5. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
+6. Badlands Brief — "Badlands News Brief: Immigration Dominates Headlines as Devo Proofs Abound", URL: https://badlands.substack.com/p/badlands-news-brief-bed

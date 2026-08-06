@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republican-party, minnesota, oversight]
-sources: [raw/badlands-brief-144.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-8d8.md]
+sources: [raw/badlands-brief-144.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-8d8.md, raw/badlands-news-brief-c07.md]
 confidence: medium
 ---
 
@@ -28,8 +28,13 @@ During the three-week leadership vacuum that followed the removal of Speaker [[k
 
 As House Majority Whip, Emmer introduced the [[cbdc-anti-surveillance-state-act|CBDC Anti-Surveillance State Act]] in September 2023 to block the [[federal-reserve|Federal Reserve]] from issuing a central bank digital currency to individuals.[4] He argued that [[central-bank-digital-currency|CBDCs]] are "government-controlled programmable money that, if not designed to emulate cash, could give the federal government the ability to surveil Americans' transactions and choke out politically unpopular activity."[4] The bill advanced out of the [[house-financial-services-committee|House Financial Services Committee]] over Democratic objections — ranking member [[maxine-waters|Maxine Waters]] called it "anti-innovation" — and passed the [[us-house-of-representatives|House]] on May 23, 2024, by 216 to 192, with 213 Republicans and three Democrats in favor.[4]
 
+## Opposition to a Democrat-backed caretaker speakership
+
+On Thursday, October 19, 2023, after [[jim-jordan|Jim Jordan]] proposed letting interim speaker [[patrick-mchenry|Patrick McHenry]] hold the gavel until January with expanded powers, Emmer publicly rejected the arrangement because McHenry was backed by Democrats.[5] "As I have made very clear over the last few days, we should never allow a Democrat-backed coalition government. Ever. The only coalition we should be looking to build is a Republican coalition uniting all of our conference," Emmer said.[5] He was joined in opposition by [[steve-scalise|Steve Scalise]] and [[elise-stefanik|Elise Stefanik]], and the backlash led Jordan to reopen the possibility of a third speaker ballot.[5]
+
 ## References
 1. Badlands Brief — "MLKKK Day, Peace Boards and Power Paradigms", URL: https://badlands.substack.com/p/badlands-brief-144
 2. Badlands Brief — "Badlands News Brief: Escalation ... Acceleration ... and Biden", URL: https://badlands.substack.com/p/badlands-news-brief-0f0
 3. Badlands Brief — "Badlands News Brief: Draft Dodgers, Peacemakers & Warmongers Galore!", URL: https://badlands.substack.com/p/badlands-news-brief-0db
 4. Badlands Brief — "Badlands News Brief: Trump Hits the Bronx as the Establishment Panics", URL: https://badlands.substack.com/p/badlands-news-brief-8d8
+5. Badlands Brief — "Badlands News Brief: Proxy Presidents & Proxy Wars", URL: https://badlands.substack.com/p/badlands-news-brief-c07

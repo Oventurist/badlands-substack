@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cisa, elections, election-security, dhs]
-sources: [raw/badlands-brief-707.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-b60.md]
+sources: [raw/badlands-brief-707.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-c19.md]
 confidence: medium
 ---
 
@@ -39,6 +39,12 @@ CISA issued a joint cybersecurity advisory on March 12, 2025 with the [[fbi|Fede
 
 Following the [[francis-scott-key-bridge-collapse|Francis Scott Key Bridge collapse]], an unclassified CISA memo reported that federal officials were monitoring roughly 1.8 million gallons of fuel aboard the container ship [[dali|Dali]] for its "spill potential."[6] A separate memo obtained by ABC News showed that the [[department-of-homeland-security|Department of Homeland Security]] had deemed the water near the crash site unsafe for divers.[6] [[ashe-in-america|Ashe in America]] closed her commentary on the pollution question by noting sardonically that with CISA involved, the episode was "sure to be the safest and most secure boat-crash-turned-fuel-spill in history."[6]
 
+## Senate Republican push against CISA censorship (October 2023)
+
+In late October 2023, Republicans moved to curtail the powers of the [[department-of-homeland-security|Department of Homeland Security]] after CISA purportedly engaged in substantial social media censorship.[7] A Fifth Circuit federal appeals court had recently found that CISA likely violated the [[first-amendment|First Amendment]] by telling social media platforms how to moderate content, and Republicans on the [[senate-homeland-security-committee|Senate Homeland Security Committee]] responded by pushing legislation to address the agency's ability to collaborate with tech companies to censor content, introducing bills to mandate transparency and accountability regarding CISA's activities.[7]
+
+Senator [[rand-paul|Rand Paul]] of Kentucky told the Daily Caller News Foundation that "CISA has blatantly violated the First Amendment and colluded with big tech to censor the speech of ordinary Americans," adding that although federal courts had ordered CISA to stop, the trust it abused could not be restored until the agency gave a full accounting and Congress changed the law to create severe penalties for future offenders.[7] Paul said he would not back cybersecurity bills until CISA earned back Americans' trust, and he introduced a measure titled the Free Speech Protection Act.[7]
+
 ## References
 1. Badlands Brief — "TACO Tuesday Reigns Supreme as the Age of Accountability Nears", URL: https://badlands.substack.com/p/badlands-brief-707
 2. Badlands Brief — "Badlands News Brief: World Wealth Whiplash & The Most Secure Memorandum in History", URL: https://badlands.substack.com/p/badlands-news-brief-02a
@@ -46,3 +52,4 @@ Following the [[francis-scott-key-bridge-collapse|Francis Scott Key Bridge colla
 4. Badlands Brief — "Badlands News Brief: MAHA, Modi, Musk, & Munich", URL: https://badlands.substack.com/p/badlands-news-brief-7b8
 5. Badlands News Brief — "Defiant Deportations & Canadian Freeloaders", URL: https://badlands.substack.com/p/badlands-news-brief-ae1
 6. Badlands Brief — "Badlands News Brief: Baltimore Fallout Continues as Nickelodeon Exposes Itself", URL: https://badlands.substack.com/p/badlands-news-brief-b60
+7. Badlands Brief — "Another Trump Trial Begins ... Regime Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-c19

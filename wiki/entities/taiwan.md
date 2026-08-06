@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [taiwan, china, geopolitics, maritime-disputes, badlands-brief]
-sources: [raw/badlands-brief-25c.md, raw/badlands-brief-323.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-7d4.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-9e7.md]
+sources: [raw/badlands-brief-25c.md, raw/badlands-brief-323.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-7d4.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-9e7.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c9a.md]
 confidence: medium
 ---
 
@@ -70,6 +70,14 @@ Lt. Gen. Hsieh Jih-Sheng, deputy chief of the General Staff for Intelligence, to
 
 In July 2023 the United States announced [[2023-us-military-aid-package-for-taiwan|$345 million in military aid for Taiwan]], the Biden administration's first major package drawn from America's own stockpiles to help the island counter [[china|China]].[10] The [[white-house|White House]] said the package would include defense, education and training, and according to two U.S. officials speaking anonymously it would provide man-portable air defense systems (MANPADS), intelligence and surveillance capabilities, firearms and missiles.[10] Taiwan's representative office in the United States called the drawdown "an important tool to support Taiwan's self-defense" and pledged to work with Washington to maintain "peace, stability and the status quo across the Taiwan Strait," while Chinese diplomats protested the move.[10]
 
+## December 2023 Chinese pressure ahead of the January 2024 elections
+
+With Taiwan just over two weeks from key elections in January 2024, fresh threats from Beijing drew increasing global media attention.[11] On December 27, 2023, China warned of further trade sanctions on Taiwan should the ruling [[democratic-progressive-party|Democratic Progressive Party]] continue to support independence, with [[taiwan-affairs-office|Taiwan Affairs Office]] spokesman Chen Binhua saying Beijing would support "relevant departments taking further measures in accordance with the regulations" if the DPP refused "to repent."[11] The warnings accompanied [[xi-jinping|Xi Jinping]]'s pledge to use "any means" to prevent secession.[11]
+
+## Chinese pressure during the Macron visit (April 2023)
+
+During the [[2023-macron-state-visit-to-china|2023 Macron state visit to China]], Beijing announced it would inspect cargo vessels entering Taiwan and escalated major military exercises encircling the island, moves some military observers viewed as a warm-up for a potential blockade.[12] French President [[emmanuel-macron|Emmanuel Macron]] said the use of force to change the Taiwan status quo would be "unacceptable" but implied there would be no French economic consequences for China, adding, "I am neither Taiwan nor the US," and cautioning that Europeans should not be caught up in the Beijing–Washington standoff over the island's fate.[12] Reporting on the episode noted that China has vowed to regain control of Taiwan while the United States government pledges to help Taiwan defend itself.[12]
+
 ## References
 
 1. Badlands Brief — "Elections are Fake; as is Trump's Friendship with Bibi", URL: https://badlands.substack.com/p/badlands-brief-25c
@@ -82,3 +90,5 @@ In July 2023 the United States announced [[2023-us-military-aid-package-for-taiw
 8. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889
 9. Badlands Brief — "Wray Goes to Sleep, Syria Gets Weird and Xi Gets an Invite", URL: https://badlands.substack.com/p/badlands-news-brief-960
 10. Badlands Brief — "Archer's Testimony & Prussian Roulette", URL: https://badlands.substack.com/p/badlands-news-brief-9e7
+11. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb
+12. Badlands Brief — "Badlands News Brief: The France Dance, Crime & J6 Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-c9a

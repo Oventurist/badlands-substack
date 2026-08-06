@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [industrial-policy, semiconductors, critical-minerals, commerce-department, federal-loans]
-sources: [raw/badlands-brief-db7.md, raw/badlands-news-brief-06d.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-53d.md]
+sources: [raw/badlands-brief-db7.md, raw/badlands-news-brief-06d.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-53d.md, raw/badlands-news-brief-c05.md]
 confidence: medium
 ---
 
@@ -43,3 +43,9 @@ Badlands writer [[burning-bright|Burning Bright]] framed the CHIPS Act as one of
 3. Badlands Media — "Badlands News Brief: Irregular Warfare, Washington & So Much Winning", URL: https://badlands.substack.com/p/badlands-news-brief-18e
 4. Badlands Brief — "Badlands News Brief: Inbound America: Terrorists, Trillions, & Diplomats", URL: https://badlands.substack.com/p/badlands-news-brief-3a5
 5. Badlands Brief — "Badlands News Brief: Ramaswamy Takes Stock and the War Machine Rumbles", URL: https://badlands.substack.com/p/badlands-news-brief-53d
+
+## Badlands "CHIPS shenanigans" commentary (2024)
+
+In June 2024, Badlands contributor [[burning-bright|Burning Bright]] surveyed a run of AI- and CHIPS-related headlines, noting that media hit pieces on [[xi-jinping|Xi Jinping]] credited the Biden administration for the trade war [[donald-trump|Donald Trump]] began and for the CHIPS Act that Trump first proposed and Biden signed into law — which he offered as a proof of the devolution thesis.[6] The same run of stories included reports that the Biden administration could not explain why billions allocated under the Act were flowing to the [[pentagon|Department of Defense]], alongside admissions that [[apple|Apple]]'s push into AI had fallen flat.[6] Burning Bright tied this to [[elon-musk|Elon Musk]]'s diversion of [[nvidia|Nvidia]] chips from [[tesla|Tesla]] to [[xai|xAI]], suggesting patriots were front-running globalist AI expansion by steering chip supply toward national defense.[6]
+
+6. Badlands News Brief — "Bicameral Jailings, Russian Trolling and Retribution ...", URL: https://badlands.substack.com/p/badlands-news-brief-c05

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [arizona, maricopa-county, elections, local-government]
-sources: [raw/an-sos-from-ground-zero.md, raw/badlands-brief-509.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-024.md]
+sources: [raw/an-sos-from-ground-zero.md, raw/badlands-brief-509.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-ca1.md]
 confidence: medium
 ---
 
@@ -40,3 +40,8 @@ In May 2023, county supervisor [[bill-gates-arizona|Bill Gates]] said he was suf
 2. Badlands Brief — "Election Exposure, Energy Angst & War Rackets", URL: https://badlands.substack.com/p/badlands-brief-509
 3. Badlands Brief — "Contempt-able Congress & Quantum Trolling", URL: https://badlands.substack.com/p/badlands-brief-fa4
 4. Badlands Brief — "Badlands News Brief: Pedo Islands, Polling Panic & Cage Fights", URL: https://badlands.substack.com/p/badlands-news-brief-024
+## Voter roll citizenship litigation (2024)
+
+In August 2024 [[america-first-legal|America First Legal]] sued Maricopa County Recorder [[stephen-richer|Stephen Richer]], alleging that the county had failed to remove non-citizens from its voter rolls and that Richer had not performed the monthly list maintenance required under Arizona law to verify the citizenship of registrants who had not provided proof.[5] The suit, brought for the [[strong-communities-foundation-of-arizona|Strong Communities Foundation of Arizona]] and a naturalized-citizen voter, cited an increase in county registrations lacking proof of citizenship from 21,595 in April 2024 to 26,108 in July 2024; such voters may participate in federal but not state elections in Arizona.[5]
+
+5. Badlands Brief — "Fake Vice Presidents and Effective Lawsuits", URL: https://badlands.substack.com/p/badlands-news-brief-ca1

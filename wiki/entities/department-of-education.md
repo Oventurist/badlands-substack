@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [government, agency, education, civil-rights]
-sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-fbb.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-9c6.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-fbb.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-ce5.md, raw/badlands-news-brief-cf3.md]
 confidence: medium
 ---
 
@@ -66,6 +66,16 @@ In February 2025 the department issued a so-called Dear Colleague letter setting
 
 On November 19, 2024, President-elect [[donald-trump|Donald Trump]] selected transition co-chair [[linda-mcmahon|Linda McMahon]] to serve as secretary of the department, despite his and his allies' pledge to abolish the agency.[11] Trump indicated that McMahon would be tasked with giving states a larger role in education policy and with pursuing the nationwide expansion of school choice, saying she would "fight tirelessly to expand 'Choice' to every State in America, and empower parents to make the best Education decisions for their families."[11]
 
+## Executive order to begin elimination (March 2025)
+
+On Thursday, March 20, 2025, [[donald-trump|President Trump]] signed an executive order to facilitate his goal of getting rid of the Department of Education, directing Education Secretary [[linda-mcmahon|Linda McMahon]] to do all she could to bring about its abolition.[12] The order expressly recognized that completely closing the department would require congressional action.[12] "Today, we take a very historic action that was 45 years in the making," Trump said at a [[white-house|White House]] signing ceremony, adding that the order would "begin eliminating the federal Department of Education."[12]
+
+Top House Democrats responded with a letter to McMahon urging the administration to reverse the move, warning that they had "serious doubts the remaining staff at the Department have the capacity to fulfill this mission" and asking her to act "before they cause any more damage to America's students, families, and educators."[12]
+
+### Data cited in support of abolition
+
+Badlands commentary argued that as federal intervention and spending increased, measured performance declined, citing a series of figures: a 280% increase in inflation-adjusted per-pupil spending since 1960 against flat and recently declining NAEP scores; over $800 billion in annual U.S. K–12 spending against a roughly 30th-place ranking in math and reading on PISA; a departmental budget exceeding $80 billion with a significant share spent on bureaucracy rather than classrooms; a Heritage Foundation estimate that 41% of public school administrative costs stem from federal regulations; growth of non-teaching K–12 staff by 700% since 1950 against a 100% increase in enrollment; a $1.7 trillion student debt crisis and tuition inflation attributed by the New York Federal Reserve to federal student loan policy; and stronger outcomes at lower per-pupil cost in school-choice states such as Florida, Texas and Utah.[12] The commentary concluded that the remaining arguments for retaining the department were emotional rather than empirical, and that the data showed a negative return on investment for everyone except administrators.[12]
+
 ## References
 
 1. Badlands Brief — "A Glaring Double Standard", URL: https://badlands.substack.com/p/a-glaring-double-standard
@@ -79,3 +89,10 @@ On November 19, 2024, President-elect [[donald-trump|Donald Trump]] selected tra
 9. Badlands Brief — "Badlands News Brief: “Terrifying” Trade Alliances, Pedagogue Payouts, & A Bondi Barn Burner", URL: https://badlands.substack.com/p/badlands-news-brief-7bb
 10. Badlands Brief — "Badlands News Brief: Ongoing Judicial Coups. Newly Jailed Judges.", URL: https://badlands.substack.com/p/badlands-news-brief-8a9
 11. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6
+12. Badlands Brief — "Badlands News Brief: Calibrating Education, Recalculating Commands, & Countering Currency Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-ce5
+
+## DOGE takeover (February 2025)
+
+In February 2025 the [[doge|Department of Government Efficiency]], led by [[elon-musk|Elon Musk]], began taking control of the Department of Education, with DOGE officials gaining access to "administrator" email accounts at the department.[13] The action drew sharp criticism from American activists and politicians, including Congressman Maxwell Alejandro Frost; responding to that criticism, Musk said, "No such department exists in the federal government."[13] President [[donald-trump|Donald Trump]] had described the department the previous Sunday as ineffective, wasteful and dominated by radical leftists.[13]
+
+13. Badlands Brief — "Badlands News Brief: Soaring Eagles & Terminal USAIDs", URL: https://badlands.substack.com/p/badlands-news-brief-cf3

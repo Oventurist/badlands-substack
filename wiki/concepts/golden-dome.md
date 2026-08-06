@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [missile-defense, trump, russia, china, arms-control]
-sources: [raw/badlands-brief-739.md, raw/badlands-brief-a20.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-a5d.md]
+sources: [raw/badlands-brief-739.md, raw/badlands-brief-a20.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-a5d.md, raw/badlands-news-brief-c93.md]
 confidence: medium
 ---
 
@@ -34,9 +34,14 @@ Speaking in the Oval Office on Tuesday, May 20, 2025, President [[donald-trump|D
 
 Writing in the May 21, 2025 [[badlands-news-brief|Badlands News Brief]], [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] found the desired outcome of the deployment difficult to surmise, noting that many signals pointed toward a coming "Golden Age" of peace and prosperity and an all-time-low likelihood of large-scale war, which made further allocation of resources to an array likely to become obsolete before use seem incongruous.[5] He also expressed wariness of modern missile defense after watching non-hypersonic Iranian missiles penetrate Israel's [[iron-dome|Iron Dome]] with relative ease on multiple occasions.[5] He allowed that none of these objections alone justified forgoing the system, since preparation is key to military success and Trump's "Peace Through Strength" mantra applied, but concluded that the confluence of factors suggested an ulterior motive — that "the narrative of the Golden Dome is the real value of this deployment," possibly as bait or as an old-school flex of military might, consistent with Trump's habit of extracting multiple uses from a single narrative.[5]
 
+## Inclusion in the 2025 space superiority order
+
+President [[donald-trump|Donald Trump]]'s December 18, 2025 executive order [[ensuring-american-space-superiority|"Ensuring American Space Superiority"]] sought demonstrations of missile-defense technologies under the Golden Dome program, alongside directives for the [[pentagon|Pentagon]] and US intelligence agencies to produce a space security strategy.[6]
+
 ## References
 1. Badlands Brief — "Weapons Stockpiles & Bundt Cake Treason", URL: https://badlands.substack.com/p/badlands-brief-739
 2. Badlands Brief — "Prosecutions for Democracy & Double-Hatted Peace Panelists", URL: https://badlands.substack.com/p/badlands-brief-a20
 3. Badlands Brief — "13 Germans, A Seized Smartwatch, & An American Tithe's Worth of Fraud", URL: https://badlands.substack.com/p/badlands-brief-c07
 4. Badlands Brief — "Badlands News Brief: Shutdowns, Shakedowns, & Two Sexes", URL: https://badlands.substack.com/p/badlands-news-brief-762
 5. Badlands Brief — "Badlands News Brief: Our Boy Victim & Friends Without Benefits", URL: https://badlands.substack.com/p/badlands-news-brief-a5d
+6. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93

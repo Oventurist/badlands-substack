@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, wire-service, journalism, legacy-media]
-sources: [raw/badlands-brief-6b4.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-a82.md]
+sources: [raw/badlands-brief-6b4.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-c93.md]
 confidence: medium
 ---
 
@@ -30,8 +30,18 @@ Badlands Media singled out Reuters for the scale of resources it devoted to cove
 
 Reuters reported in June 2024 that advisers [[keith-kellogg|Keith Kellogg]] and [[fred-fleitz|Fred Fleitz]] had presented [[donald-trump|Donald Trump]] with a plan to halt US military aid to Kyiv unless it entered peace talks with Moscow, describing it as the most detailed strategy yet produced by Trump associates.[4] The wire service also published the investigation into the Saudi Royal Purge cited in Badlands coverage of [[mohammed-bin-salman|Mohammed bin Salman]]'s seizure of the [[saudi-binladin-group|Bin Laden Group]].[4]
 
+## DOGE disbandment scoop (November 2025)
+
+Reuters reported exclusively in November 2025 that the [[department-of-government-efficiency|Department of Government Efficiency]] had disbanded with eight months left on its mandate, ending an initiative launched with fanfare as a symbol of [[donald-trump|Trump]]'s pledge to slash the size of government but which critics said delivered few measurable savings.[5] [[office-of-personnel-management|Office of Personnel Management]] Director [[scott-kupor|Scott Kupor]] told the wire service that DOGE "doesn't exist" and was no longer a "centralized entity," and documents reviewed by Reuters showed OPM had taken over many of its functions.[5] Reuters also reported that at least two prominent DOGE employees had moved to the [[national-design-studio|National Design Studio]], created by executive order in August 2025 under Airbnb co-founder [[joe-gebbia|Joe Gebbia]].[5]
+
+## Gabbard accusations (December 2025)
+
+Director of National Intelligence [[tulsi-gabbard|Tulsi Gabbard]] accused Reuters of disseminating "lies and propaganda" about Russian intentions in order to undermine President [[donald-trump|Donald Trump]]'s diplomacy and promote escalation.[6] Reuters separately reported on Trump's December 2025 executive order [[ensuring-american-space-superiority|"Ensuring American Space Superiority"]] and the restructuring of the [[national-space-council|National Space Council]].[6]
+
 ## References
 1. Badlands Brief — "Deliberate Discombobulation Driving Transformational Change", URL: https://badlands.substack.com/p/badlands-brief-6b4
 2. Badlands Brief — "Badlands News Brief: Draft Dodgers, Peacemakers & Warmongers Galore!", URL: https://badlands.substack.com/p/badlands-news-brief-0db
 3. Badlands Brief — "Badlands News Brief: Trump Calls for Peace as the World Heads Toward War", URL: https://badlands.substack.com/p/badlands-news-brief-69b
 4. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
+5. Badlands News Brief — "Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f
+6. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93

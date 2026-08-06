@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [florida, litigation, first-amendment, disney]
-sources: [raw/badlands-news-brief-301.md]
+sources: [raw/badlands-news-brief-301.md, raw/badlands-news-brief-c9a.md]
 confidence: medium
 ---
 
@@ -28,6 +28,11 @@ Disney responded that it would "press forward with our case," calling it "an imp
 
 [[burning-bright|Burning Bright]] situated the ruling within what he calls the Shark Fin Template, the idea that certain high-impact stories resurface at opportune moments in the narrative, spiking awareness and advancing what he describes as the awakening and sifting of the collective mind.[1] He noted that Disney was simultaneously suffering financial losses attributed to ideological content, losing legal battles over special tax status and zoning, and facing a hostile board takeover attempt by two former allies of [[donald-trump|Donald Trump]] seeking to reorient the company toward profitability, predicting that "something BIG is going to break in 2024."[1]
 
+## April 2023 escalation
+
+In April 2023, Florida Governor [[ron-desantis|Ron DeSantis]] promised a new round of measures against Disney in the [[disney-v-desantis|escalating dispute]], including scrutiny of taxes on the company's hotels and tolls on roads serving its theme parks.[2] His administration examined whether an agreement approved between a Central Florida board previously controlled by Disney and the company violated state growth laws.[2] DeSantis accused Disney of having "tried to pull a fast one on the way out the door" and, speaking at [[hillsdale-college|Hillsdale College]], declared that the company is "not superior to the people of Florida."[2] Badlands writer [[burning-bright|Burning Bright]] framed the confrontation as a front in the [[information-war|Information War]], noting Hollywood's long-standing influence over American myth-making.[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Iranian Fireworks & Conspiracy Convergence", URL: https://badlands.substack.com/p/badlands-news-brief-301
+2. Badlands Brief — "Badlands News Brief: The France Dance, Crime & J6 Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-c9a

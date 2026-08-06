@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence, odni, gabbard, declassification]
-sources: [raw/badlands-brief-6f4.md, raw/badlands-brief-70c.md, raw/badlands-brief-990.md, raw/badlands-brief-708.md, raw/badlands-brief-ac2.md, raw/badlands-brief-b56.md, raw/badlands-brief-da2.md, raw/badlands-brief-ea5.md, raw/badlands-brief-f87.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-7e6.md]
+sources: [raw/badlands-brief-6f4.md, raw/badlands-brief-70c.md, raw/badlands-brief-990.md, raw/badlands-brief-708.md, raw/badlands-brief-ac2.md, raw/badlands-brief-b56.md, raw/badlands-brief-da2.md, raw/badlands-brief-ea5.md, raw/badlands-brief-f87.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-cb9.md]
 confidence: medium
 ---
 
@@ -68,6 +68,10 @@ Reported by [[wired|Wired]] in June 2023, the disclosure drew condemnation from 
 
 In April 2023, a former Director of National Intelligence publicly stated that [[anthony-fauci|Anthony Fauci]] had misled Congress and the American public regarding [[gain-of-function-research|gain-of-function research]] and the origins of COVID-19.[12] The acknowledgment, reported by [[zerohedge|ZeroHedge]], was treated in independent media as a significant institutional concession, given that the office's prior posture had aligned with the official rejection of laboratory-origin hypotheses.[12] Commentary published by [[badlands-media|Badlands Media]] listed the former DNI's admission alongside other disclosures then reshaping the information landscape.[12]
 
+## COVID-19 origins declassification mandate (2023)
+
+The [[covid-19-origin-act-of-2023|COVID-19 Origin Act of 2023]], signed on March 20, 2023, required the Office of the Director of National Intelligence to declassify information on any possible links between a laboratory in China and the origins of the Covid-19 pandemic.[13] Director [[avril-haines|Avril Haines]] was given 90 days to declassify all information concerning possible links between the [[wuhan-institute-of-virology|Wuhan Institute of Virology]] and the pandemic's origins.[13] [[joe-biden|Joe Biden]] said in signing that his administration would share as much as possible consistent with protecting national security.[13] [[burning-bright|Burning Bright]] anticipated that any release would amount to a limited hangout.[13]
+
 ## References
 1. Badlands Brief — "Illegal Psychological Warfare Campaigns & Misprision of Treason", URL: https://badlands.substack.com/p/badlands-brief-6f4
 2. Badlands Brief — "Trump Taps Surprising New DNI While Media Freaks Out About Everything", URL: https://badlands.substack.com/p/badlands-brief-70c
@@ -81,3 +85,4 @@ In April 2023, a former Director of National Intelligence publicly stated that [
 10. Badlands Brief — "Badlands News Brief: Intelligence Narratives & Seemingly Impossible Deals", URL: https://badlands.substack.com/p/badlands-news-brief-222
 11. Badlands Brief — "Badlands News Brief: Trump Defiant, Biden Protected & Woke Worn", URL: https://badlands.substack.com/p/badlands-news-brief-7a7
 12. Badlands Brief — "GART is Here! Plus, Exposure & Disclosure Abound", URL: https://badlands.substack.com/p/badlands-news-brief-7e6
+13. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9

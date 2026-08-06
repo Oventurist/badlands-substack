@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cisa, dhs, cybersecurity, personnel, government]
-sources: [raw/badlands-brief-7ed.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-8fd.md]
+sources: [raw/badlands-brief-7ed.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-cba.md, raw/badlands-news-brief-d21.md]
 confidence: medium
 ---
 
@@ -34,8 +34,18 @@ Badlands writer [[ashe-in-america|Ashe in America]] argued that the Chinese hack
 
 Badlands host CannCon raised the possibility that CISA had advised US officials to use the Signal messaging app during the Biden administration, roughly a month before President Donald Trump took office — a scenario he argued would recast the Signalgate controversy surrounding Defense Secretary Pete Hegseth.[4]
 
+## Foreign disinformation warnings before the 2024 election
+
+On the eve of the [[2024-us-general-election|2024 general election]], the director of CISA told NBC News that US adversaries were targeting the vote, with Russian, Chinese and Iranian operators attempting to disrupt it through disinformation.[5] Badlands commentary contrasted that warning with the contemporaneous Colorado voting-system password leak under Secretary of State [[jena-griswold|Jena Griswold]], in which BIOS passwords for more than 600 pieces of equipment sat publicly on the internet for months while officials maintained there was no threat to the state's elections.[5] The writer argued that the agency's emphasis on foreign "disinformation" as the paramount threat, while a concrete credential exposure was dismissed, showed that the officials involved were "not serious professionals."[5]
+
+## Election security assurances questioned
+
+In commentary published by [[badlands-media|Badlands Media]] in early 2024, [[ashe-in-america|Ashe in America]] contrasted [[fbi|FBI]] warnings about Chinese penetration of US critical infrastructure through the [[volt-typhoon|Volt Typhoon]] operation with official insistence that cyberattacks cannot affect elections, an assurance she traced to former CISA head [[chris-krebs|Chris Krebs]].[6] She argued the claim is implausible because election systems rely on the same hardware and software components as the sectors [[christopher-wray|Christopher Wray]] described as endangered, and concluded with a call to decentralize infrastructure, "especially elections."[6]
+
 ## References
 1. Badlands Brief — "Religious Regime Change, Sacked Security Sacked, & More Medicare Malice", URL: https://badlands.substack.com/p/badlands-brief-7ed
 2. Badlands Media — "Badlands News Brief: It's a Big Club. And It's Going Down.", URL: https://badlands.substack.com/p/badlands-news-brief-189
 3. Badlands Brief — "Johnson's Package Goes Flaccid ... And Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-79f
 4. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
+5. Badlands Brief — "Badlands News Brief: Election-Mongering and Electioneering as Shenanigans Abound", URL: https://badlands.substack.com/p/badlands-news-brief-cba
+6. Badlands Brief — "Badlands News Brief: Chinese Interference and Narrative Seeding", URL: https://badlands.substack.com/p/badlands-news-brief-d21

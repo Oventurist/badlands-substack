@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [meta, facebook, big-tech, free-speech, trump]
-sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-143.md, raw/badlands-brief-52b.md, raw/badlands-brief-bce.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-a0c.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-b76.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-143.md, raw/badlands-brief-52b.md, raw/badlands-brief-bce.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-a0c.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-d21.md]
 confidence: medium
 ---
 
@@ -83,6 +83,18 @@ On the evening of Monday, August 26, 2024, Zuckerberg sent a letter to House Jud
 
 Zuckerberg launched [[threads|Threads]] on July 5, 2023 and celebrated its rapid growth past 100 million sign-ups, posting, "Can't believe it's only been five days!"[13] Commentators said he had taken a premature victory lap: within two weeks data from SimilarWeb showed daily active users falling from 49 million to 23.6 million and average US engagement dropping from about 21 minutes to six minutes per day.[13]
 
+## Admission that Threads was failing (2023)
+
+In leaked audio from July 2023, Zuckerberg acknowledged that [[threads|Threads]], Meta's Twitter competitor, was failing despite an enormous launch that drew upwards of 100 million downloads within five days.[14] The app peaked at roughly 50 million daily active users worldwide shortly after its July 5 launch; by August, analytics data from SimilarWeb cited by The Wall Street Journal put daily active users below ten million.[14]
+
+## Censorship reversal criticism (September 2024)
+
+Three weeks after Zuckerberg publicly stated that the Biden White House had pressured [[meta-platforms|Meta]] to censor Americans over COVID-19 content in 2021 — saying "I believe the government pressure was wrong" — his company complied with a new administration directive by banning Russian state broadcaster [[rt|RT]] from its apps globally in September 2024.[15] Badlands contributor [[ashe-in-america|Ashe in America]] cited the three-week interval as evidence that Zuckerberg had learned nothing from the earlier episode, and dismissed the Kremlin's claim that the ban destroyed Meta's credibility on the grounds that neither Meta nor Zuckerberg had been credible since 2015 at the latest.[15]
+
+## January 2024 Senate child safety hearing
+
+On Wednesday, January 31, 2024, Zuckerberg appeared with other leading social media executives before the [[senate-judiciary-committee|Senate Judiciary Committee]] for roughly four hours of questioning about the mental health risks their platforms pose to young people and accusations that their companies had failed to protect children from exploitation and abuse.[16] Senators hammered the executives over lobbying that they said had obstructed federal legislation, and frequently drew applause from families of children who died after encounters with the darkest sides of the platforms.[16] In what [[abc-news|ABC News]] called a remarkable moment, the [[meta-platforms|Meta]] chief executive stood up to address those families with a direct apology for what they had endured.[16] The hearing nonetheless left unresolved whether [[congress|Congress]] would impose new regulations on the platforms.[16]
+
 ## References
 
 1. Badlands Brief — "America Has a CIA-Run Economy", URL: https://badlands.substack.com/p/america-has-a-cia-run-economy
@@ -98,3 +110,6 @@ Zuckerberg launched [[threads|Threads]] on July 5, 2023 and celebrated its rapid
 11. Badlands Brief — "Badlands News Brief: The Free Speech Battlefield Heats Up", URL: https://badlands.substack.com/p/badlands-news-brief-b52
 12. Badlands Brief — "Badlands News Brief: Debates About Debates, RINO Country & Building BRICS", URL: https://badlands.substack.com/p/badlands-news-brief-b5f
 13. Badlands Brief — "Badlands News Brief: Whistleblowers and Witch Hunts", URL: https://badlands.substack.com/p/badlands-news-brief-b76
+14. Badlands Brief — "Badlands News Brief: Trump's Slings and Arrows ... Hunter's Threats", URL: https://badlands.substack.com/p/badlands-news-brief-ba4
+15. Badlands Brief — "Badlands News Brief: Trump Sends Comms as Diddlers Get Indicted", URL: https://badlands.substack.com/p/badlands-news-brief-ce1
+16. Badlands Brief — "Badlands News Brief: Chinese Interference and Narrative Seeding", URL: https://badlands.substack.com/p/badlands-news-brief-d21

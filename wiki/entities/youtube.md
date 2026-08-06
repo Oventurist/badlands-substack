@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [youtube, google, censorship, big-tech, deplatforming]
-sources: [raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-762.md]
+sources: [raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-d21.md]
 confidence: medium
 ---
 
@@ -24,6 +24,11 @@ On Friday, August 9, 2024, [[badlands-media|Badlands Media]]'s YouTube channel w
 
 In September 2025 YouTube became the latest technology and media company to settle a lawsuit brought by President [[donald-trump|Donald Trump]] after the start of his second term.[2] Court papers filed on Monday 29 September showed the Alphabet-owned company agreeing to pay $24.5 million to resolve litigation over the suspension of Trump's account following the 2021 attack on the US Capitol by a mob of his supporters.[2] Of that sum, $22 million is directed to a trust for the National Mall, the entity handling construction of a $200 million [[white-house-ballroom|White House ballroom]], with the remainder earmarked for other plaintiffs including the American Conservative Union, Andrew Baggiani, Austen Fletcher, Maryse Veronica Jean-Louis, Frank Valentine, Kelly Victory and Naomi Wolf.[2] [[chris-paul|Chris Paul]] responded to the [[youtube-settlement-of-trump-lawsuit|settlement]] by asking when ordinary censored users would get paid.[2]
 
+## Removal of the Mohn video
+
+In late January 2024 a video posted by [[justin-mohn|Justin Mohn]] showing the severed head of his father alongside a politically charged rant circulated on YouTube for hours, drawing more than 5,000 views before the platform removed it for graphic violence.[3] The episode coincided with congressional scrutiny of social media companies for allowing graphic and violent material to be posted and to remain online.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: The Deep State has a Rough Weekend", URL: https://badlands.substack.com/p/badlands-news-brief-5aa
 2. Badlands Brief — "Badlands News Brief: Shutdowns, Shakedowns, & Two Sexes", URL: https://badlands.substack.com/p/badlands-news-brief-762
+3. Badlands Brief — "Badlands News Brief: Chinese Interference and Narrative Seeding", URL: https://badlands.substack.com/p/badlands-news-brief-d21

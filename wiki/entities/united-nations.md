@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [united-nations, un-charter, international-law, fdr]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-094.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-7e6.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-094.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-be1.md, raw/badlands-news-brief-c50.md]
 confidence: medium
 ---
 
@@ -73,6 +73,24 @@ In April 2023, attorney [[elizabeth-yore|Elizabeth Yore]] told [[steve-bannon|St
 
 [[the-gateway-pundit|The Gateway Pundit]] presented the episode as grounds for the United States to exit and defund the UN.[10] Accompanying commentary from [[justin-deschamps|Justin Deschamps]] for [[badlands-media|Badlands Media]] situated the report within a broader [[pedophilia-normalization-agenda|pedophilia normalization agenda]], linking it to youth gender medicine and early sexual education curricula.[10]
 
+## Escalator and teleprompter dispute (September 2025)
+
+In September 2025 the United Nations blamed President [[donald-trump|Donald Trump]]'s team for a stalled escalator and an inoperable teleprompter after the president denounced the organization for the mishaps ahead of his General Assembly speech.[11] According to the U.N., a safety mechanism was triggered by a videographer from the U.S. delegation who stepped onto the moving stairway ahead of the president and First Lady; travelling backwards, he reached the top just as they mounted the steps at the bottom, and at 9:50 a.m. the escalator stopped, possibly because he "inadvertently" activated the safety feature.[11] The conclusion followed an investigation, which also found that a White House staffer had been operating the teleprompter during the technical setback.[11]
+
+White House press secretary [[karoline-leavitt|Karoline Leavitt]] countered by posting an article alleging that jokes had circulated about stopping the escalator to force Trump to walk, writing that anyone at the U.N. who intentionally stopped it "need to be fired and investigated immediately."[11] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] called the incident a clear act of sabotage and praised Trump for mocking the U.N. over a shoddy building on which it overpaid by billions, recalling that he had been asked to testify to Congress about the appearance of corruption in its construction.[11] He also noted that a day earlier three leaders of Muslim-majority countries, including [[recep-tayyip-erdogan|Erdogan]] of [[turkey|Turkey]], had their microphones cut as they called for worldwide support for Palestinian statehood, and asked why operators apparently hostile to pro-Palestinian speakers would also sabotage Trump.[11]
+
+## Israeli calls for its dismantling (August 2024)
+
+In August 2024, outgoing Israeli Ambassador to the UN [[gilad-erdan|Gilad Erdan]] said the organization's New York headquarters was "unnecessary" and "should be closed and wiped off the face of the earth," describing the building as "twisted and distorted" and calling on the world to unite in "demanding the closure and dismantling of this organization."[12]
+
+Badlands commentary by [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] used the outburst to advance an argument about the UN's relationship with Israel: that the modern State of Israel was a creation of the UN by way of the 1947 Partition of Palestine document, and that the UN thereafter shielded Israel from accountability, rejecting lawfare filed against it until South Africa's complaint of November 2023 came to trial in February 2024 — a shift the writer read as evidence that outside forces had infiltrated or were influencing the body.[12] The commentary argued that [[international-criminal-court|ICC]] and [[international-court-of-justice|ICJ]] action against Israeli officials provoked retaliation from Israel's ruling faction, redirecting its fury at the globalist institutions in New York and Geneva.[12] It further suggested the original plan had been to use UN peacekeeping troops alongside NATO in a coming war against Iran, and that with the IDF depleted in Gaza, NATO tied up in Ukraine, and UN and EU troops routed across Africa by the [[wagner-group|Wagner Group]], no army remained available — leaving the UN, in the writer's view, at risk of becoming "a failed relic of the past."[12]
+
+## Bid for "global emergency" powers (2023–2024)
+
+In July 2023, The Gateway Pundit — relaying reporting by The Federalist — alleged that the United Nations was moving to seize "global emergency" powers with the support of [[joe-biden|Joe Biden]].[13] The reporting centered on the [[summit-of-the-future|Summit of the Future]], scheduled for September 2024, at which member nations were expected to adopt the [[pact-for-the-future|Pact for the Future]], consolidating reforms proposed under the U.N.'s Our Common Agenda platform.[13] The most significant element identified was a proposed "emergency platform" that would grant the U.N. substantial powers in the event of future "global shocks," such as another worldwide pandemic.[13] The Gateway Pundit argued that many Americans distrust the organization and cited the experience of state emergency powers under governors such as [[gretchen-whitmer|Gretchen Whitmer]] of Michigan.[13]
+
+[[badlands-media|Badlands Media]] contributor [[ryan-delarme|Ryan DeLarme]] described the U.N. as "the granddaddy of all slimy, corrupt globalist institutions" pursuing the same objective already sought via the [[pandemic-treaty|Pandemic Treaty]] and the proposed amendments to the [[international-health-regulations|International Health Regulations]], and warned that temporary emergency authority could become "a stepping stone toward establishing a permanent world-governing body."[13] He expressed skepticism that the plan would succeed, citing armed American military and veterans committed to national sovereignty, and framed gun-control pressure as related to that obstacle.[13]
+
 ## References
 1. Badlands Brief — "A Gateway to a New World of Cooperation", URL: https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation
 2. Badlands Brief — "AI Can Help Us Expose the NWO", URL: https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo
@@ -84,3 +102,6 @@ In April 2023, attorney [[elizabeth-yore|Elizabeth Yore]] told [[steve-bannon|St
 8. Badlands Brief — "Badlands News Brief: Narrative Shielding & Biden Bait", URL: https://badlands.substack.com/p/badlands-news-brief-204
 9. Badlands Brief — "Badlands News Brief: Hypocrisy Roundup & Rug-pulls Galore", URL: https://badlands.substack.com/p/badlands-news-brief-378
 10. Badlands Brief — "GART is Here! Plus, Exposure & Disclosure Abound", URL: https://badlands.substack.com/p/badlands-news-brief-7e6
+11. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2
+12. Badlands Brief — "Badlands News Brief: Obamas Resurface as the Establishment Hedges", URL: https://badlands.substack.com/p/badlands-news-brief-be1
+13. Badlands Brief — "Badlands News Brief: The Cocaine White House, False Flags & Free Speech", URL: https://badlands.substack.com/p/badlands-news-brief-c50

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [prisons, brooklyn, federal-custody]
-sources: [raw/badlands-news-brief-2ad.md]
+sources: [raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-bd2.md]
 confidence: medium
 ---
 
@@ -14,5 +14,10 @@ The Metropolitan Detention Center (MDC) is a federal jail in Brooklyn, New York,
 
 In September 2024 reporting revealed that [[sean-combs|Sean "Diddy" Combs]] and convicted crypto fraudster [[sam-bankman-fried|Sam Bankman-Fried]] were bunking in the same dormitory-style room at the facility.[1] Combs had been held at MDC for almost a week after being denied bail on federal sex trafficking and racketeering charges, while Bankman-Fried had been imprisoned there since the previous year serving a 25-year fraud sentence.[1]
 
+## Sean Combs's "Free Game" class (September 2025)
+
+Ahead of his 3 October 2025 sentencing, [[sean-combs|Sean "P Diddy" Combs]] was reported to be teaching a class called "Free Game" to fellow inmates at the Metropolitan Detention Center in Brooklyn.[2] His legal team gathered letters from inmates who said they had been "inspired" by the class in support of a request for a lenient sentence on two counts of transportation to engage in prostitution.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: New Gotham City, Iranian Mysteries & Wars Galore", URL: https://badlands.substack.com/p/badlands-news-brief-2ad
+2. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [courts, new-york, judiciary, donald-trump]
-sources: [raw/badlands-news-brief-023.md, raw/badlands-news-brief-12b.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-aaf.md]
+sources: [raw/badlands-news-brief-023.md, raw/badlands-news-brief-12b.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-aaf.md, raw/badlands-news-brief-c1e.md]
 confidence: medium
 ---
 
@@ -53,3 +53,9 @@ Engoron presided over the opening day of the New York civil fraud trial on Octob
 6. Badlands News Brief — "Biden Melts Down as Judges Are Themselves Judged", URL: https://badlands.substack.com/p/badlands-news-brief-5fb
 7. Badlands Brief — "Badlands News Brief: DemoCrabs in Biden's Bucket", URL: https://badlands.substack.com/p/badlands-news-brief-845
 8. Badlands Brief — "Badlands News Brief: Supreme Court Rumblings & Witch Hunts Galore", URL: https://badlands.substack.com/p/badlands-news-brief-aaf
+
+## The $454 million bond problem (March 2024)
+
+In March 2024, [[donald-trump|Donald Trump]]'s attorneys reported that he was unable to post a $454 million bond to cover the judgment Engoron issued in the New York civil fraud case in February.[9] Law professor [[jonathan-turley|Jonathan Turley]] cited the figure as evidence that the legal system had been distorted by politics, saying that forcing a litigant "to come up with half a billion dollars just to get an appeal" was a point at which "someone has to say enough."[9]
+
+9. Badlands Brief — "Badlands News Brief: Weaponization, Willis, and World War III", URL: https://badlands.substack.com/p/badlands-news-brief-c1e

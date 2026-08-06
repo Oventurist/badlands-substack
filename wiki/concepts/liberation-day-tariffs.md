@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [tariffs, trade, trump, china, markets]
-sources: [raw/badlands-news-brief-520.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-a0b.md]
+sources: [raw/badlands-news-brief-520.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-a0b.md, raw/badlands-news-brief-c44.md]
 confidence: medium
 ---
 
@@ -78,8 +78,17 @@ Israel had sought to pre-empt the move; Finance Minister [[bezalel-smotrich|Beza
 
 [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] called the sequence "savage," noting that as far as he could tell Israel was the only country that dropped its tariffs and was still penalised, and argued that the pre-speech articulation of Israeli transgressions by an administration official demonstrated the decision was not an oversight or mistake but an intentional signal that, despite the slander against him, Trump "is nobody's puppet."[4]
 
+## "Trump's tariff chaos" (April 2025)
+
+By mid-April 2025 global markets had been rocked by what analysts termed "Trump's tariff chaos" — an onslaught of unilateral executive orders, sharply higher tariffs and resulting volatility that rattled investor confidence and strained international alliances.[5] With bond yields surging and confidence in American leadership waning, the announcement of a 90-day pause on further tariff hikes, while retaining a 10 percent tariff on many imports and an escalated 145 percent tariff on select Chinese goods, offered only temporary relief.[5]
+
+Reporting in The International News described a domino effect across the global economy within ten days: global capital markets shed nearly $10 trillion before partial recovery after the pause, while companies dependent on low-cost supply chains — especially from China — reassessed strategies as production costs rose and logistics were disrupted, with higher retail prices ultimately falling on American consumers.[5] Analysts flagged supply chain disruption, inflation and stagflation risks, and bond market turmoil as continuing hazards.[5]
+
+Badlands contributor [[burning-bright|Burning Bright]] rejected the panic framing, tying the episode to a *Story Hour* discussion of *Top Gun: Maverick* with retired Lieutenant General [[steven-kwast|Steven Kwast]] about the evolution of modern and psychological warfare.[5] He argued that the "Shadow War" theme of Trump 2.0 amounted to a "Trump quicksand" into which many commentators were falling, claiming the episode had exposed financial experts, globalists and establishment conservative media alike, and counselled patience: "It's only April. Chill out."[5]
+
 ## References
 1. Badlands News Brief — "Indian iPhones, A Sovereign Bromance, & Allegedly Real IDs", URL: https://badlands.substack.com/p/badlands-news-brief-520
 2. Badlands Brief — "Badlands News Brief: Orange Friday, Election Action, & McKinsey's Gives Advice", URL: https://badlands.substack.com/p/badlands-news-brief-71f
 3. Badlands Brief — "Badlands News Brief: Vigils, Vanguards, & Various Investigations", URL: https://badlands.substack.com/p/badlands-news-brief-8cd
 4. Badlands Brief — "Badlands News Brief: The Wolf of D.C. & A Portfolio of Highly Organized Crime", URL: https://badlands.substack.com/p/badlands-news-brief-a0b
+5. Badlands Brief — "Badlands News Brief: A British TERF Triumph & A Senator Snubbed in El Salvador", URL: https://badlands.substack.com/p/badlands-news-brief-c44

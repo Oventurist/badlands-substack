@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fcc, broadcast, first-amendment, media, trump]
-sources: [raw/badlands-brief-1c6.md, raw/badlands-brief-7c6.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-12b.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-481.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-b01.md]
+sources: [raw/badlands-brief-1c6.md, raw/badlands-brief-7c6.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-12b.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-481.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-cce.md]
 confidence: medium
 ---
 
@@ -58,6 +58,12 @@ In November 2024 President-elect [[donald-trump|Donald Trump]] named senior Repu
 
 Shortly before the November 2024 election, Carr — then one of five commissioners, having been nominated to the body by both Trump and [[joe-biden|Joe Biden]] — said that Vice President [[kamala-harris|Kamala Harris]]'s surprise cameo on [[saturday-night-live|Saturday Night Live]] alongside [[maya-rudolph|Maya Rudolph]] may have violated the commission's "equal time" rule, which governs equitable broadcast access for political candidates.[10] The FCC is the federal agency responsible for regulating radio and television in the United States.[10]
 
+## Rejection of the SpaceX subsidy and the Musk "green light" claim (2023)
+
+In December 2023 the FCC rejected a $900 million rural broadband subsidy for [[spacex|SpaceX]] amid concerns about government weaponization, and Commissioner [[brendan-carr|Brendan Carr]] stated in a post on X that "President Biden gave federal agencies the green light to go after him [Musk]."[11] Coverage in [[zerohedge|ZeroHedge]] treated the remark as further proof that the [[joe-biden|Biden]] administration was directing agencies against [[elon-musk|Elon Musk]], noting Musk's own September comments to podcast host David Sacks about "a significant increase in the weaponization of government and really sort of misuse of prosecutorial discretion," and his view that "aspects of interests aligned with President Biden ... probably do not wish good things for me."[11]
+
+Badlands contributor [[burning-bright|Burning Bright]] linked the episode to the wave of lawsuits filed by Musk through [[x-corp|X]], [[rumble|Rumble]], [[truth-social|Truth Social]] and the State of Texas against the [[censorship-industrial-complex|censorship industrial complex]], arguing that the FCC commissioner's confirmation supplied additional context for coordination between federal agencies and private enforcement arms posing as independent market actors.[11]
+
 ## References
 
 1. Badlands Brief — "Spain Wins The [American] World Cup", URL: https://badlands.substack.com/p/badlands-brief-1c6
@@ -70,3 +76,4 @@ Shortly before the November 2024 election, Carr — then one of five commissione
 8. Badlands Media — "Badlands News Brief: The Biden Crime Family Begins to Unravel ...", URL: https://badlands.substack.com/p/badlands-news-brief-505
 9. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6
 10. Badlands Brief — "Badlands News Brief: Marauding, Squirrel-Murdering Psychopaths Panic Ahead of the Election", URL: https://badlands.substack.com/p/badlands-news-brief-b01
+11. Badlands Brief — "Badlands News Brief: The System of Systems is a House of Cards", URL: https://badlands.substack.com/p/badlands-news-brief-cce

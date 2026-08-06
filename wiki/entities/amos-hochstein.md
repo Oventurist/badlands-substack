@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [diplomacy, lebanon, israel, ceasefire, white-hats]
-sources: [raw/badlands-news-brief-19a.md, raw/badlands-news-brief-4b9.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-688.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-aed.md]
+sources: [raw/badlands-news-brief-19a.md, raw/badlands-news-brief-4b9.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-688.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-cba.md]
 confidence: medium
 ---
 
@@ -62,6 +62,10 @@ In late October 2024, Hochstein and fellow senior Biden adviser [[brett-mcgurk|B
 
 Israeli and US officials said they believed that after the blows Hezbollah had suffered in the preceding two months — including the assassination of its leader Hassan Nasrallah — the group was finally willing to disconnect itself from Hamas in Gaza, and that an end to the fighting could be reached within a few weeks.[7] Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] convened a meeting with several ministers and senior leaders of the Israel Defense Forces and the Israeli intelligence services on the Tuesday night beforehand to discuss the potential deal.[7]
 
+## Backing of a Russia-brokered arrangement (October 2024)
+
+In late October 2024, reporting indicated that a draft ceasefire between Israel and Hezbollah was being prepared with the backing of Hochstein and fellow US presidential adviser [[brett-mcgurk|Brett McGurk]], and that Israel had asked Russia to take part in the arrangement.[8] Badlands commentary highlighted the apparent contradiction that Hochstein — frequently accused of advancing an escalatory agenda — was, as a diplomat ostensibly serving the [[joe-biden|Biden]] administration, helping assemble a settlement that would place Israel's northern-front diplomacy substantially in the hands of [[vladimir-putin|Vladimir Putin]].[8] The episode was folded into the broader [[trumps-gambit|"Trump's Gambit"]] framing of converging pressure on [[benjamin-netanyahu|Benjamin Netanyahu]].[8]
+
 ## References
 
 1. Badlands News Brief — "Ceasefires, Olive Branches ... and Scare Events?", URL: https://badlands.substack.com/p/badlands-news-brief-19a
@@ -71,3 +75,4 @@ Israeli and US officials said they believed that after the blows Hezbollah had s
 5. Badlands Brief — "Badlands News Brief: Threats, Panic and Signal in the Engineered Noise", URL: https://badlands.substack.com/p/badlands-news-brief-688
 6. Badlands Media — "Badlands News Brief: Vance Takes the Stage as Biden Takes the Basement", URL: https://badlands.substack.com/p/badlands-news-brief-8ae
 7. Badlands Brief — "Badlands News Brief: The Garbage Man Cometh to Take out the Trash", URL: https://badlands.substack.com/p/badlands-news-brief-aed
+8. Badlands Brief — "Badlands News Brief: Election-Mongering and Electioneering as Shenanigans Abound", URL: https://badlands.substack.com/p/badlands-news-brief-cba

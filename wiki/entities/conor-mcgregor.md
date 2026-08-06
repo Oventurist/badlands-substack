@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ireland, immigration, populism, white-house]
-sources: [raw/badlands-news-brief-298.md, raw/badlands-news-brief-4ab.md]
+sources: [raw/badlands-news-brief-298.md, raw/badlands-news-brief-4ab.md, raw/badlands-news-brief-ce5.md]
 confidence: medium
 ---
 
@@ -28,6 +28,13 @@ In November 2023, hours before a mass stabbing outside a Dublin school in which 
 
 The attack, attributed to an Algerian immigrant who was subdued at the scene, was followed by [[2023-dublin-riots|riots in Dublin]] that made parts of the city impassable, and McGregor's remarks gained new prominence, with many calling for him to run for office.[2] [[badlands-media|Badlands Media]] contributor [[ashe-in-america|Ashe in America]] wrote that while the media blamed "the far right," McGregor was "rightly" declaring that the citizens of [[ireland|Ireland]] were at war with their government.[2]
 
+## Irish presidential bid (March 2025)
+
+On Thursday, March 20, 2025, McGregor solidified his bid for Ireland's presidency with a promise to preserve his native country by tackling migration, days after meeting with [[donald-trump|President Trump]] at the [[white-house|White House]].[3] He decided to campaign as a leader in opposition to the European Migration Pact, which would create a streamlined approach to border security and immigration and speed up the asylum process for European Union members.[3]
+
+"The next presidential election must take place by 11 Nov 2025. Who else will stand up to Government and oppose this bill," he wrote in a post on X. "Any other Presidential candidate they attempt to put forward will be of no resistance to them. I will!"[3]
+
 ## References
 1. Badlands News Brief — "Pirated Pardons & Delayed Declassifications", URL: https://badlands.substack.com/p/badlands-news-brief-298
 2. Badlands Brief — "Badlands News Brief: Lindell's Promise & JFK's Legacy", URL: https://badlands.substack.com/p/badlands-news-brief-4ab
+3. Badlands Brief — "Badlands News Brief: Calibrating Education, Recalculating Commands, & Countering Currency Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-ce5

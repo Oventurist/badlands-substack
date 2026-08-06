@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, shin-bet, intelligence, netanyahu]
-sources: [raw/badlands-news-brief-298.md, raw/badlands-news-brief-373.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-ae1.md]
+sources: [raw/badlands-news-brief-298.md, raw/badlands-news-brief-373.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-ce5.md]
 confidence: medium
 ---
 
@@ -47,8 +47,17 @@ On Sunday, March 16, 2025, Prime Minister [[benjamin-netanyahu|Benjamin Netanyah
 Badlands commentator [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] situated the move within a wider confrontation, noting that Bar had signaled he might further expose Netanyahu's ties to [[hamas|Hamas]] by releasing a report showing that money Netanyahu directed to the group originated in [[qatar|Qatar]], and that the dismissal followed Netanyahu's police complaint accusing former Shin Bet director [[nadav-argaman|Nadav Argaman]] of blackmail.[4]
 
 
+## Dismissal by the Israeli cabinet (March 2025)
+
+As the Israeli cabinet deliberated Bar's dismissal in March 2025, an unnamed "Israeli official" — identified by Channel 12 as Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] himself — accused the [[shin-bet|Shin Bet]] chief of having known in advance about the [[hamas|Hamas]] attack of October 7, 2023, and doing nothing to stop it.[5] "Ronen Bar preferred not to attend the government meeting dealing with his case, simply because he was afraid of giving answers," the official said, "and especially of answering one question: Why, after you knew about the Hamas attack many hours before it happened, did you do nothing and did not call the prime minister?"[5] Netanyahu had sought throughout to place responsibility for the failure on the security establishment, arguing he was not woken when warning signs were picked up by Israel's intelligence services in the hours before the invasion.[5]
+
+Around midnight on Thursday, March 20, 2025, the Israeli government unanimously approved Bar's ouster, with his removal set for April 10 or sooner if a successor was named, according to a statement from the prime minister's office.[5] Bar refused to attend the nighttime meeting, instead sending a letter to the government stating that the process was illegal and that the prime minister's motives were "fundamentally flawed."[5] The move was expected to be contested in Israel's Supreme Court.[5]
+
+In the letter, Bar said he was investigating Netanyahu's inner circle over corrupt ties to [[qatar|Qatar]], where Hamas leadership resides.[5] Badlands commentary noted that Netanyahu and Bar were effectively accusing one another of foreknowledge or involvement in October 7, that former Shin Bet director [[nadav-argaman|Nadav Argaman]] had claimed knowledge of Netanyahu's Qatari dealings concerning the funding of Hamas, and predicted the imminent collapse of Netanyahu's government and a political civil war in Israel.[5]
+
 ## References
 1. Badlands News Brief — "Pirated Pardons & Delayed Declassifications", URL: https://badlands.substack.com/p/badlands-news-brief-298
 2. Badlands News Brief — "Shutdown Show Down & British Spies for Palestine", URL: https://badlands.substack.com/p/badlands-news-brief-373
 3. Badlands News Brief — "SCOTUS Drama and (Altered) Deals Shake Up the Week", URL: https://badlands.substack.com/p/badlands-news-brief-4e1
 4. Badlands News Brief — "Defiant Deportations & Canadian Freeloaders", URL: https://badlands.substack.com/p/badlands-news-brief-ae1
+5. Badlands Brief — "Badlands News Brief: Calibrating Education, Recalculating Commands, & Countering Currency Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-ce5

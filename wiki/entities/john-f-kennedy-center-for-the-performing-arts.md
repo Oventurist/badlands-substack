@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [culture, washington-dc, trump-administration, litigation]
-sources: [raw/badlands-brief-c2d.md, raw/badlands-news-brief-7bf.md]
+sources: [raw/badlands-brief-c2d.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-cf3.md]
 confidence: medium
 ---
 
@@ -26,7 +26,16 @@ Trump's statement that "unless I am free to do what I do better than anyone else
 
 In 2025 the Kennedy Center announced that the [[stuttgart-ballet|Stuttgart Ballet]] would return to the venue for the first time since 1992, performing John Cranko's *Onegin* — a balletic setting of Alexander Pushkin's 1825 verse novel *Eugene Onegin* — in the Opera House from October 8 to 12, 2025 to Tchaikovsky's score, opening the Center's 2025–2026 ballet season.[2] Jane Raleigh, the Center's Director of Dance Programming, said the company and Cranko's *Onegin* "were a staple of Kennedy Center ballet programming in the 1970's and 80's" and called the return "such a special moment for Washington audiences," coinciding with the work's 60th anniversary.[2]
 
+## February 2025 board purge
+
+On Friday, February 7, 2025, President [[donald-trump|Donald Trump]] announced that he was firing members of the Kennedy Center's board of trustees and naming himself chairman, and indicated he would dictate programming at one of the nation's premier cultural institutions, specifically declaring that he would end events featuring performers in drag.[3] Writing on his social media platform, Trump said: "At my direction, we are going to make the Kennedy Center in Washington D.C., GREAT AGAIN. I have decided to immediately terminate multiple individuals from the Board of Trustees, including the Chairman, who do not share our Vision for a Golden Age in Arts and Culture," adding that a new board would soon be announced "with an amazing Chairman, DONALD J. TRUMP!"[3]
+
+The announcement came as Trump moved rapidly across official Washington in the first weeks of his second term, attempting to shutter federal agencies, freeze spending and end diversity, equity and inclusion initiatives across the government.[3] Reuters noted that the Kennedy Center receives federal funding, is one of the nation's leading arts facilities, has long enjoyed bipartisan support and national renown, and that presidents appoint members of its board of trustees.[3] The same day, Trump dismissed [[colleen-shogan|Colleen Shogan]], the Archivist of the United States.[3]
+
+The chairman Trump replaced was financier [[david-rubenstein|David Rubenstein]], a point emphasized in Badlands commentary by Jon Herold, who noted he had written an article focused entirely on Rubenstein in December 2021.[3]
+
 ## References
 
 1. Badlands Brief — "Fake News Propaganda Exposed, Iranian Investment Opportunities, and Talibros in Moscow", URL: https://badlands.substack.com/p/badlands-brief-c2d
 2. Badlands News Brief — "The Bilateral Bromance & A Misled Grand Jury", URL: https://badlands.substack.com/p/badlands-news-brief-7bf
+3. Badlands Brief — "Badlands News Brief: Soaring Eagles & Terminal USAIDs", URL: https://badlands.substack.com/p/badlands-news-brief-cf3

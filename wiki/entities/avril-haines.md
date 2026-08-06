@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence, surveillance, odni, biden-administration]
-sources: [raw/badlands-news-brief-7a7.md]
+sources: [raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-cb9.md]
 confidence: medium
 ---
 
@@ -20,6 +20,11 @@ The resulting report — declassified in June 2023 and first reported by Wired �
 
 Because the review was commissioned by Haines herself, coverage in alternative media treated the disclosure as an unusual instance of the intelligence apparatus documenting its own circumvention of privacy protections through what the report called "craven interpretations of aging laws."[1]
 
+## COVID-19 Origin Act declassification mandate (2023)
+
+Under the [[covid-19-origin-act-of-2023|COVID-19 Origin Act of 2023]], signed by President [[joe-biden|Joe Biden]] on March 20, 2023, Director of National Intelligence Avril Haines was given 90 days to declassify all information on possible links between the [[wuhan-institute-of-virology|Wuhan Institute of Virology]] and the origins of Covid-19.[2] The mandate followed unanimous passage of the bill in both chambers of [[us-congress|Congress]] and the Energy Department's low-confidence assessment favouring an accidental laboratory leak.[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Trump Defiant, Biden Protected & Woke Worn", URL: https://badlands.substack.com/p/badlands-news-brief-7a7
+2. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9

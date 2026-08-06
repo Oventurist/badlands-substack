@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [attorney, trump-legal-team, lawfare, 2020-election]
-sources: [raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a5d.md, raw/badlands-news-brief-b4a.md]
+sources: [raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a5d.md, raw/badlands-news-brief-b4a.md, raw/badlands-news-brief-c40.md]
 confidence: medium
 ---
 
@@ -48,6 +48,10 @@ On Monday, May 19, 2025, while serving as acting U.S. attorney in New Jersey, Ha
 
 On Monday, January 22, 2024, the trial of [[e-jean-carroll]]'s defamation suit against [[donald-trump]] was suspended because of illness among jurors and among the parents of one of Trump's lawyers.[6] Habba, who had been exposed to COVID during a visit to her parents, said she had tested negative but was still feeling symptoms, and asked Judge [[lewis-kaplan|Lewis A. Kaplan]] to postpone court for the day, telling him "I'd like to have the full panel."[6] She then asked whether the trial could be postponed until Wednesday, noting that Trump had reminded her of the New Hampshire primary scheduled for Tuesday, and stating "I would need his testimony to be Wednesday."[6] Carroll's lawyer, Roberta Kaplan, said she would prefer to continue on Tuesday because "I'd like to get this trial over with," and Judge Kaplan said he would consider Habba's request rather than deciding in the moment.[6] Commentary by [[ashe-in-america]] in the [[badlands-news-brief]] cast the scheduling as election interference, noting that the recess came only after the judge dismissed Trump's motion for a mistrial over Carroll's admission that she had deleted material evidence.[6]
 
+## Challenge to Carroll's litigation funding (April 2023)
+
+In April 2023 Habba obtained a concession from Carroll's attorney [[roberta-kaplan|Roberta Kaplan]] that [[e-jean-carroll|E. Jean Carroll]] had been told at some point about outside funding by a nonprofit, despite Carroll's earlier denials of outside backing.[7] Habba wrote to Judge [[lewis-kaplan|Lewis A. Kaplan]] raising significant concerns as to "the plaintiff's bias and motive in commencing the litigation."[7] She argued that Democratic mega-donor [[reid-hoffman|Reid Hoffman]] — "one of the largest donors to the Democratic party" and on record saying he would "spend as much as [he] possibly can" to prevent another Trump presidency — had since 2017 been "funding groups to create a bulwark against Mr. Trump's agenda."[7] Habba also noted that Hoffman had contributed more than $600,000 to the legal defense fund of Bean LLC, otherwise known as [[fusion-gps|Fusion GPS]], the firm behind the [[steele-dossier|Steele Dossier]].[7]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: The Trump Card ...", URL: https://badlands.substack.com/p/badlands-news-brief-3b0
 2. Badlands Brief — "Con Inc. Introduces a New Candidate ... And Trump Was Right!", URL: https://badlands.substack.com/p/badlands-news-brief-6d6
@@ -55,3 +59,4 @@ On Monday, January 22, 2024, the trial of [[e-jean-carroll]]'s defamation suit a
 4. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
 5. Badlands Brief — "Badlands News Brief: Our Boy Victim & Friends Without Benefits", URL: https://badlands.substack.com/p/badlands-news-brief-a5d
 6. Badlands Brief — "Badlands News Brief: Border Battles, Trump Trials & COVID Comeuppance", URL: https://badlands.substack.com/p/badlands-news-brief-b4a
+7. Badlands Brief — "Badlands News Brief: GART, 9/11 & Deep State Billionaires", URL: https://badlands.substack.com/p/badlands-news-brief-c40

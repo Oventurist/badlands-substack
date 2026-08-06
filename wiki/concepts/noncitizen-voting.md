@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [elections, citizenship, courts, vermont, municipal-government]
-sources: [raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-2cb.md, raw/badlands-news-brief-aed.md]
+sources: [raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-2cb.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-cb6.md]
 confidence: medium
 ---
 
@@ -36,8 +36,13 @@ Virginia's effort to remove noncitizens from its voter rolls became the highest-
 
 Badlands commentator [[ashe-in-america|Ashe in America]] summarized the legal logic as straightforward: noncitizens do not have voting rights, so Virginia could not violate rights that do not exist.[3] She suggested that a full merits ruling would create precedent useful for blocking election-related [[lawfare|lawfare]], and predicted renewed progressive calls to expand the Supreme Court, while noting that Democratic election attorney [[marc-elias|Marc Elias]] had been enthusiastic about the challenge to the purge.[3]
 
+## New York Court of Appeals arguments (February 2025)
+
+In February 2025 the [[new-york-court-of-appeals|Court of Appeals of the State of New York]], the state's highest judicial body, heard arguments on a contested law allowing noncitizens to vote in local elections.[4] The legislation, passed in 2022, would permit roughly 800,000 noncitizens who are lawful permanent residents or authorized to work in the United States to vote in municipal elections after residing in New York City for at least 30 days.[4] The law had previously been invalidated by the state's Second Judicial Department, which cited violations of the New York State Constitution and the Municipal Home Rule Law and upheld a lower court's ruling.[4] Critics raised concerns that noncitizens could constitute 15 percent or more of the electorate in some future elections, significantly affecting local outcomes.[4]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Archives, Shifty Schiff, PelosiGate and Durham Panic", URL: https://badlands.substack.com/p/badlands-news-brief-2a2
 2. Badlands Brief — "Badlands News Brief: Propagandist Panic. The People Approve.", URL: https://badlands.substack.com/p/badlands-news-brief-2cb
 3. Badlands Brief — "Badlands News Brief: The Garbage Man Cometh to Take out the Trash", URL: https://badlands.substack.com/p/badlands-news-brief-aed
+4. Badlands Brief — "Badlands News Brief: Muslim Migrants, Mad Max, & Even More Money-Laundering", URL: https://badlands.substack.com/p/badlands-news-brief-cb6

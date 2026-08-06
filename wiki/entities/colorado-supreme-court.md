@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [courts, colorado, trump-disqualification, fourteenth-amendment]
-sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-948.md]
+sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c74.md]
 confidence: medium
 ---
 
@@ -41,6 +41,14 @@ The ruling was the first contentious decision issued by the court since [[monica
 
 On December 6, 2023, the court weighed whether former president [[donald-trump|Donald Trump]] should be barred from the state's Republican primary ballot under Section 3 of the [[fourteenth-amendment|Fourteenth Amendment]] in [[anderson-v-griswold|Anderson v. Griswold]], a dispute expected to reach the U.S. Supreme Court.[6] Justices examined whether Section 3 reaches the presidency as an "Officer," discussed Confederate president [[jefferson-davis|Jefferson Davis]] and the Civil War parallels to January 6, and questioned whether excluding Trump would unequally treat Colorado's Republican voters.[6] Eric Olsen argued that Trump's presence would dilute votes for qualified candidates, while [[scott-gessler|Scott Gessler]] contended January 6 amounted to a riot rather than an insurrection.[6] Badlands writer [[ashe-in-america|Ashe in America]] warned that the court — which she noted had repeatedly sent the baker Jack Phillips's cases to the U.S. Supreme Court — might overturn the district court's ruling allowing Trump on the ballot, with a decision due before the statutory deadline of December 29, 2023.[6]
 
+## Appeal of the December 2023 disqualification ruling
+
+The Colorado Supreme Court's 4-3 decision finding former President [[donald-trump|Donald Trump]] ineligible for the presidency was appealed to the [[supreme-court-of-the-united-states|U.S. Supreme Court]] by the [[colorado-republican-party|Colorado Republican Party]] on December 27, 2023, which extended the stay the court had already placed on its own ruling until January 4 or the conclusion of federal appellate review.[7] The court had ruled that Section 3 of the [[fourteenth-amendment|Fourteenth Amendment]] applied to Trump because of his role in the January 6, 2021 attack on the U.S. Capitol, which was intended to stop certification of [[joe-biden|Joe Biden]]'s 2020 victory; it was the first time in history the provision had been used to block a presidential contender's campaign.[7] Two days earlier the [[michigan-supreme-court|Michigan Supreme Court]] had reached the opposite result on procedural grounds, leaving the two states in direct conflict.[7]
+
+## December 19, 2023 disqualification ruling
+
+On Tuesday, December 19, 2023, the Colorado Supreme Court disqualified former President [[donald-trump|Donald Trump]] from appearing on the state's 2024 ballots, ruling under the 14th Amendment of the U.S. Constitution in connection with the Capitol riot of January 6, 2021.[8] The 4–3 decision was stayed until January 4 because of likely appeals, with three justices dissenting.[8] The majority wrote: "We do not reach these conclusions lightly. We are mindful of the magnitude and weight of the questions now before us. We are likewise mindful of our solemn duty to apply the law, without fear or favor, and without being swayed by public reaction to the decisions that the law mandates we reach."[8] The court determined that Trump had engaged in an insurrection by inciting the riot and was therefore ineligible to run; his campaign vowed to appeal to the [[supreme-court-of-the-united-states|U.S. Supreme Court]].[8] Republican candidate [[vivek-ramaswamy|Vivek Ramaswamy]] attacked the ruling as the work of "a cabal of Democrat judges" and pledged to withdraw from the Colorado primary unless Trump appeared on the ballot.[8]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: MAGA Gets Branded as Biden Bungles Everything", URL: https://badlands.substack.com/p/badlands-news-brief-07e
@@ -49,3 +57,5 @@ On December 6, 2023, the court weighed whether former president [[donald-trump|D
 4. Badlands Brief — "Badlands News Brief: Hypocrisy Roundup & Rug-pulls Galore", URL: https://badlands.substack.com/p/badlands-news-brief-378
 5. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
 6. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
+7. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb
+8. Badlands Brief — "Badlands News Brief: The Mask Comes off as the Nation Watches", URL: https://badlands.substack.com/p/badlands-news-brief-c74

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [election-integrity, colorado, clerk, commutation]
-sources: [raw/badlands-blitz-episode-18.md, raw/badlands-brief-174.md, raw/badlands-brief-5a2.md, raw/badlands-brief-774.md, raw/badlands-brief-a9f.md, raw/badlands-brief-b38.md, raw/badlands-brief-c07.md, raw/badlands-brief-e3f.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-8a4.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-951.md]
+sources: [raw/badlands-blitz-episode-18.md, raw/badlands-brief-174.md, raw/badlands-brief-5a2.md, raw/badlands-brief-774.md, raw/badlands-brief-a9f.md, raw/badlands-brief-b38.md, raw/badlands-brief-c07.md, raw/badlands-brief-e3f.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-8a4.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-cad.md]
 confidence: medium
 ---
 
@@ -137,6 +137,12 @@ On Monday, December 8, 2025, a federal judge declined to release Peters, who rem
 
 Her federal petition for bond was dismissed without prejudice under the [[younger-abstention-doctrine|Younger abstention doctrine]], the court holding that it could not answer whether the trial court had improperly punished her more severely for protected First Amendment speech while that question remained pending in Colorado courts.[19] Judge Varholak acknowledged the importance of the constitutional claims but did not reach their merits, and noted that Peters' counsel had never argued for an exception to Younger despite months of briefing.[19] [[ashe-in-america|Ashe in America]] and [[blue-eyes|Blue Eyes]] reviewed the full order on the program Culture of Change, arguing that Peters should be released because her treatment was the product of weaponized government and asymmetrical justice.[19]
 
+## December 2025 DOJ investigation of Colorado prisons
+
+On December 8, 2025 the Justice Department announced an investigation into 33 facilities run by the [[colorado-department-of-corrections|Colorado Department of Corrections]] and the state's Department of Youth Services.[20] *Westword* reported that the probe appeared politically motivated rather than a response to years of complaints by [[disability-law-colorado|Disability Law Colorado]], framing it as an extension of President [[donald-trump|Donald Trump]]'s continued efforts to free Peters, who is serving a nine-year sentence for an election-tampering scheme aimed at proving discredited claims that Trump rather than [[joe-biden|Joe Biden]] won the 2020 election.[20] Trump offered what the outlet called an illegitimate pardon the previous week, noting he has no power to free her because she was convicted on state rather than federal charges.[20] Assistant Attorney General for Civil Rights [[harmeet-dhillon|Harmeet Dhillon]], who announced the probe, reshared several X posts celebrating it as "how we FREE TINA PETERS."[20]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] said sources close to the matter reported staff at the La Vista Correctional Facility, where Peters is held, hurriedly cleaning the place up, and described degraded air handlers at the CDOC mental health hospital in the same Pueblo government complex.[20] She also announced she was set up to interview Peters and invited reader questions, cautioning that everyone monitoring the case was likely listening.[20]
+
 ## References
 1. Badlands Brief — "Badlands Blitz Episode 18", URL: https://badlands.substack.com/p/badlands-blitz-episode-18
 2. Badlands Brief — "Conflicts, Cartels, & Clemency", URL: https://badlands.substack.com/p/badlands-brief-174
@@ -157,3 +163,4 @@ Her federal petition for bond was dismissed without prejudice under the [[younge
 17. Badlands Brief — "Badlands News Brief: Gazan Seizures & Gay Porn Scandals", URL: https://badlands.substack.com/p/badlands-news-brief-8dc
 18. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
 19. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951
+20. Badlands Brief — "A Christmas Bonus, War “With” Venezuela, & Prime Time Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-cad

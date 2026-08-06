@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fbi, arctic-frost, lawfare, january-6]
-sources: [raw/badlands-news-brief-060.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-780.md, raw/badlands-news-brief-79c.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b39.md, raw/badlands-news-brief-bcc.md]
+sources: [raw/badlands-news-brief-060.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-780.md, raw/badlands-news-brief-79c.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b39.md, raw/badlands-news-brief-bcc.md, raw/badlands-news-brief-c44.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-d06.md]
 confidence: medium
 ---
 
@@ -94,6 +94,22 @@ On Wednesday, July 24, 2024, Wray testified before the [[house-judiciary-committ
 
 Badlands commentator [[ashe-in-america|Ashe in America]] wrote that Wray's opening statement focused on the FBI's honor while, following the pattern of prior hearings, he declined to answer substantive questions — invoking an "ongoing investigation," qualifying every answer, and refusing to comment on the July 13 law enforcement response.[15] She characterised this as the essence of plausible deniability, noting that former Secret Service Director [[kimberly-cheatle|Kimberly Cheatle]] had punted substantive questions to the [[fbi|FBI]] at Monday's Oversight Committee hearing, as had witnesses at Tuesday's Homeland Security Committee hearing, implying the FBI director should have had answers.[15] Wray offered no information on shell casings from the counter-snipers.[15] Chairman [[jim-jordan|Jim Jordan]] used his opening to recount the bureau's recent failings, while Ranking Member [[jerrold-nadler|Jerry Nadler]] was accused by Badlands of spreading "blueanon" theories, including that the attacker of Paul Pelosi was a far-right extremist and that the attempt on Trump's life was unsurprising and Trump's own fault.[15] On questions about foreign threats inside the United States and attacks on soft targets, Wray could not say how many terrorist individuals or groups were in the country and affirmed a severe lack of vetting, which Ashe read as prelude to a demand for more money and fewer civil liberties.[15]
 
+## 2022 Tennessee traffic stop of Kilmar Abrego Garcia
+
+On December 6, 2022, a Tennessee Highway Patrol officer stopped [[kilmar-abrego-garcia|Kilmar Abrego Garcia]] and found him transporting seven passengers, eight people in total in the vehicle, and driving without a valid license; the officer suspected human trafficking.[16] Sources told The Tennessee Star that the [[tennessee-highway-patrol|Tennessee Highway Patrol]] contacted the [[fbi|FBI]], then led by Director Wray under the Biden administration, for guidance during the nearly two-hour stop, and that accounts conflicted over whether Abrego Garcia himself or another passenger appeared on a terrorist watch list.[16] The FBI instructed the troopers to photograph all eight occupants and document the vehicle's contents, and within about two hours requested that all eight be released, a request with which the Highway Patrol complied.[16]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] cited the episode as evidence that Abrego Garcia had been "protected by the system for years," pointing to the Wray-era FBI's release order alongside his 2019 arrest with alleged [[ms-13|MS-13]] members and later domestic-violence allegations.[16]
+
+## Volt Typhoon disruption testimony
+
+On Wednesday, January 31, 2024, Wray announced at a hearing of the [[house-select-committee-on-the-chinese-communist-party|House Select Committee on the Chinese Communist Party]] that the [[fbi|FBI]] had shut down [[volt-typhoon|Volt Typhoon]], a major China-backed hacking group that had attacked hundreds of routers while working to compromise United States cyber infrastructure.[17] He said the group had hacked into hundreds of office and home-office routers to give the Chinese government access to their data, and that the routers' outdated condition made them "easy targets."[17] Wray told lawmakers the hackers had been targeting American water treatment plants, the power grid, oil and natural gas pipelines, and transportation systems, adding that "today, and literally every day, they're actively attacking our economic security, engaging in wholesale theft of our innovation, and our personal and corporate data."[17]
+
+[[ashe-in-america|Ashe in America]] urged readers to take Wray's warnings seriously even while mocking official assurances that the same threat landscape somehow cannot touch elections, noting that the guarantee rests on figures such as former [[cisa|CISA]] director [[chris-krebs|Chris Krebs]].[17]
+
+## Bribery document turned over to Comer (June 2023)
+
+On Friday, June 2, 2023, FBI Director Wray agreed to hand over to Congress an FD-1023 document said to detail an alleged $5 million bribery scheme involving [[joe-biden|Joe Biden]], after a standoff with House Oversight Chairman [[james-comer|James Comer]].[18] Lawmakers were expected to view the document the following Monday.[18] Comer told Fox Business host [[maria-bartiromo|Maria Bartiromo]] that Wray had claimed not to possess the document until Comer told him he had already seen it.[18] Badlands writer [[justin-deschamps|Justin Deschamps]] characterized the episode as another stage in a "slow drip" of exposure in which denial gives way to grudging admission while the press minimizes each disclosure.[18]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Quantum Tunneling, Natural Conflicts, & Pirates for Gaza", URL: https://badlands.substack.com/p/badlands-news-brief-060
@@ -111,3 +127,6 @@ Badlands commentator [[ashe-in-america|Ashe in America]] wrote that Wray's openi
 13. Badlands News Brief — "Contentious Confirmations & Conflicted Special Counsels", URL: https://badlands.substack.com/p/badlands-news-brief-b02
 14. Badlands Brief — "Biden Says Stuff as Nazis Circle in Ukraine", URL: https://badlands.substack.com/p/badlands-news-brief-b39
 15. Badlands Brief — "BiBi Goes to DC, Wray Responds & Biden Concedes", URL: https://badlands.substack.com/p/badlands-news-brief-bcc
+16. Badlands Brief — "Badlands News Brief: A British TERF Triumph & A Senator Snubbed in El Salvador", URL: https://badlands.substack.com/p/badlands-news-brief-c44
+17. Badlands Brief — "Badlands News Brief: Chinese Interference and Narrative Seeding", URL: https://badlands.substack.com/p/badlands-news-brief-d21
+18. Badlands Brief — "Badlands News Brief: Hunter Hunted, Wray Relents & Wokeness Weakens", URL: https://badlands.substack.com/p/badlands-news-brief-d06

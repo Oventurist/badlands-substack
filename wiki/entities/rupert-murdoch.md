@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, fox, badlands-news-brief]
-sources: [raw/badlands-news-brief-001.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-2ca.md]
+sources: [raw/badlands-news-brief-001.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-2ca.md, raw/badlands-news-brief-bf6.md]
 confidence: medium
 ---
 
@@ -24,7 +24,12 @@ Commentary published in the [[badlands-news-brief]] was scathing toward Murdoch,
 
 In September 2023 it was announced that Murdoch was stepping down and handing over power to his son, [[lachlan-murdoch|Lachlan Murdoch]].[3] Badlands contributor [[ashe-in-america|Ashe in America]] noted that the succession news broke the same day as the report that [[fox-business|Fox Business]] had aired a misleading graphic about a Trump–Biden poll, and characterized the heir as an "even-more-communist son."[3] The commentary argued that "misleading the audience is critical to manufacturing consent, and manufacturing consent is Fox's prime directive these days," and that the network had been in decline since the 2017 death of [[roger-ailes|Roger Ailes]].[3]
 
+## Dominion litigation and the Carlson exit (2023)
+
+Ahead of Fox's defamation trial, [[donald-trump|Donald Trump]] — the owner and chairman of Fox Corp. being set to testify — had urged Murdoch to embrace his theories about voter fraud in a bid to win the [[dominion-voting-systems|Dominion Voting Systems]] case in court.[4] Fox instead settled, a choice Trump publicly criticized days later while reacting to [[tucker-carlson|Tucker Carlson]]'s ouster from [[fox-news|Fox News]], saying, "I was surprised they made a settlement in that case. I thought that was a case that should easily be won."[4]
+
 ## References
 1. Badlands Media — "Badlands News Brief: FOX Guarding the Hen House?", URL: https://badlands.substack.com/p/badlands-news-brief-001
 2. Badlands Brief — "Tucker, Fauci, Biden & Biology", URL: https://badlands.substack.com/p/badlands-news-brief-082
 3. Badlands Brief — "Badlands News Brief: Ukrainian Nazis, Spirit Cooks & Potato Presidents", URL: https://badlands.substack.com/p/badlands-news-brief-2ca
+4. Badlands Media — "Badlands News Brief: A Tucker, a Lemon and a Trump Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-bf6

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [elections, eric, ceir, election-integrity]
-sources: [raw/badlands-brief-d9f.md, raw/badlands-news-brief-2ad.md]
+sources: [raw/badlands-brief-d9f.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-bd7.md]
 confidence: medium
 ---
 
@@ -20,7 +20,12 @@ Following the denial of the [[wisconsin-elections-commission|Wisconsin Elections
 
 Writing in September 2024 after a federal court ordered Colorado to disclose [[electronic-registration-information-center|ERIC]] reports, [[ashe-in-america|Ashe in America]] argued that if the saga of ERIC "is to end justly, it must end with the criminal indictment of David Becker and his inter-state collaborators," describing the arrangement as "a house of cards" with the wind blowing.[2]
 
+## Reaction to the DHS driver's license settlement (December 2025)
+
+Becker's opposition featured in Badlands commentary on the December 2025 settlement under which Florida, Indiana, Iowa and Ohio agreed to support the [[department-of-homeland-security|Department of Homeland Security]]'s efforts to access driver's license records through the National Law Enforcement Telecommunications System.[3] Contributor [[ashe-in-america|Ashe in America]] relayed Jennifer Asper's framing of the news — "Becker's not happy" — and wrote that Becker being unhappy meant "we're doing it right," pointing readers to prior programming she and [[canncon|CannCon]] had produced on his influence in U.S. elections, including an April episode covering his reaction to President [[donald-trump|Donald Trump]]'s election integrity executive order.[3] She concluded with a call to "prosecute ERIC states and all its accomplices."[3]
+
 ## References
 
 1. Badlands Brief — "Dueling Color Revolutions, Economic Escalation, & Superseding Somali Scams", URL: https://badlands.substack.com/p/badlands-brief-d9f
 2. Badlands Brief — "Badlands News Brief: New Gotham City, Iranian Mysteries & Wars Galore", URL: https://badlands.substack.com/p/badlands-news-brief-2ad
+3. Badlands Brief — "Bogus Visas, Brazilian Sanctions, and Foreign Boat Battles", URL: https://badlands.substack.com/p/badlands-news-brief-bd7

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [aerospace, corporations, europe, deep-state]
-sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-054.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-b19.md]
+sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-054.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-c0a.md, raw/badlands-news-brief-c4f.md]
 confidence: medium
 ---
 
@@ -58,6 +58,14 @@ In late January 2024 an industry source told The Seattle Times that the fuselage
 
 A separate anonymous whistleblower with apparent access to Boeing's manufacturing records for the specific airframe supplied extensive additional detail on an aviation website about how the plug came to be removed and mis-installed.[8] [[simon-esler|Simon Esler]] seized on the insider's line that the error "speaks volumes about the quality culture at certain portions of the business," arguing that Boeing's cultural decline — which he linked to DEI — calls for a conscious return to a culture of exceptionalism, possibly through the parallel economy.[8]
 
+## March 2024 United Airlines statement and whistleblower death
+
+On March 18, 2024, [[united-airlines|United Airlines]] chief executive [[scott-kirby|Scott Kirby]] told passengers the airline was reviewing a series of aviation incidents involving its commercial jets, including Boeing-made aircraft, describing the incidents as unrelated but acknowledging they had sharpened the carrier's focus on safety.[9] Badlands contributor [[simon-esler|Simon Esler]] read the cluster as engineered rather than coincidental, invoking the [[operation-northwoods|Northwoods Memorandum]]'s "generated instances" language and arguing that a Boeing whistleblower had been "suicided," which in his view signaled a panicked establishment pursuing the [[great-reset|Great Reset]] agenda.[9]
+
+## Saudi F-15EX export campaign (2025)
+
+As reported by Aviation Week on November 16, 2025, Boeing again placed [[saudi-arabia|Saudi Arabia]] at the center of its export strategy, promoting the [[f-15ex|F-15EX Eagle II]] as a candidate for the Kingdom's next fighter jet review.[10] Ahead of the Dubai Airshow, the company indicated that it aimed to secure new F-15EX orders in the Middle East and that Saudi Arabia remained a primary focus for both upgrades of existing F-15C/D airframes and possible new-build acquisitions.[10] The proposal competes against the European Eurofighter Typhoon and the Dassault Rafale as well as a potential [[f-35|F-35]] approval, and follows Boeing's first public acknowledgment of Saudi F-15EX interest at the World Defense Show in Riyadh in early 2024.[10]
+
 ## References
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
 2. Badlands News Brief — "Fani Hunts Alone as Putin Keeps the Throne", URL: https://badlands.substack.com/p/badlands-news-brief-054
@@ -67,3 +75,5 @@ A separate anonymous whistleblower with apparent access to Boeing's manufacturin
 6. Badlands Brief — "Trumpian Trials, Proxy State Shenanigans & Vax Backtracks", URL: https://badlands.substack.com/p/badlands-news-brief-6c1
 7. Badlands News Brief — "Post Mortems, Dog Fights, & Flight Risks", URL: https://badlands.substack.com/p/badlands-news-brief-721
 8. Badlands Brief — "Badlands News Brief: Lake and Abbott Take a Stand as Haley Falls", URL: https://badlands.substack.com/p/badlands-news-brief-b19
+9. Badlands Brief — "Badlands News Brief: White Collar Prisons & Confounding Court Decisions", URL: https://badlands.substack.com/p/badlands-news-brief-c0a
+10. Badlands News Brief — "Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f

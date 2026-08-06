@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, minnesota, democratic-party, immigration]
-sources: [raw/badlands-brief-144.md, raw/badlands-brief-25c.md, raw/badlands-brief-40d.md, raw/badlands-brief-b82.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-747.md]
+sources: [raw/badlands-brief-144.md, raw/badlands-brief-25c.md, raw/badlands-brief-40d.md, raw/badlands-brief-b82.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-cff.md]
 confidence: medium
 ---
 
@@ -44,6 +44,11 @@ Writing in the [[badlands-news-brief|Badlands News Brief]], [[justin-deschamps|J
 
 In a Thanksgiving 2025 Truth Social statement on immigration, President [[donald-trump|Donald Trump]] described Omar as the worst member of [[congress|Congress]], writing that she was "always wrapped in her swaddling hijab" and repeating the allegation that she likely entered the United States illegally on the theory that "you are not allowed to marry your brother."[6] He charged that she does nothing but complain about the United States and its Constitution and about how badly she is treated.[6] The statement paired the attack on Omar with criticism of Minnesota Governor [[tim-walz|Tim Walz]] over Somali resettlement and with Trump's announced permanent pause on migration from Third World countries.[6]
 
+
+## Guilty plea of campaign associate Guhaad Hashi Said (2025)
+
+In August 2025, [[guhaad-hashi-said|Guhaad Hashi Said]], a former associate and campaign "enforcer" for Omar, pleaded guilty to conspiracy to commit wire fraud and conspiracy to commit money laundering in connection with a pandemic-era food fraud scheme centered on Minnesota's Somali community.[7] Said had operated a Federal Child Nutrition Program site called [[advance-youth-athletic-development|Advance Youth Athletic Development]] between December 2020 and January 2022, claiming more than one million meals served and collecting over $2.9 million in federal reimbursements on largely fabricated records.[7] Badlands contributor [[ashe-in-america|Ashe in America]] used the case to argue that a sitting congresswoman's staff was stealing from the American people, while separately maintaining that Omar should have her citizenship revoked over alleged immigration fraud.[7]
+
 ## References
 
 
@@ -53,3 +58,4 @@ In a Thanksgiving 2025 Truth Social statement on immigration, President [[donald
 4. Badlands Brief — "Powell's Probe, NATO's Negotiations, & Additional Humiliation Rituals", URL: https://badlands.substack.com/p/badlands-brief-b82
 5. Badlands News Brief — "Mutations, Laptops & Chinese Balloons", URL: https://badlands.substack.com/p/badlands-news-brief-3ae
 6. Badlands Brief — "Afghanis Activate, Witch Hunts End, & Hitler Launches Re-Election Campaign", URL: https://badlands.substack.com/p/badlands-news-brief-747
+7. Badlands Brief — "Letters of Credence, More Evidence of Treason, & Allegedly Super-Intelligent AI", URL: https://badlands.substack.com/p/badlands-news-brief-cff

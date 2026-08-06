@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fcc, telecommunications, regulation, internet, biden-administration]
-sources: [raw/badlands-news-brief-12b.md, raw/badlands-news-brief-1ba.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-8d6.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-b01.md]
+sources: [raw/badlands-news-brief-12b.md, raw/badlands-news-brief-1ba.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-8d6.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-cce.md]
 confidence: medium
 ---
 
@@ -52,6 +52,10 @@ Badlands commentary welcomed the move, noting that Carr had targeted the same or
 
 Days before the November 2024 election, Carr — a Republican member of the five-member [[federal-communications-commission|Federal Communications Commission]] who had been nominated to the body by both [[donald-trump|Donald Trump]] and [[joe-biden|Joe Biden]] — said that Vice President [[kamala-harris|Kamala Harris]]'s surprise cameo on [[saturday-night-live|Saturday Night Live]] may have violated the agency's "equal time" rule governing broadcast access for political candidates.[7] Harris appeared in a sketch alongside [[maya-rudolph|Maya Rudolph]], who has portrayed her during the show's 50th season, poking fun at Trump after flying to New York City en route to campaign in Michigan.[7]
 
+## "Green light" statement on Musk (December 2023)
+
+In December 2023, after the [[federal-communications-commission|FCC]] rejected a $900 million subsidy for [[spacex|SpaceX]], Carr wrote on X that "President Biden gave federal agencies the green light to go after him [Musk]" — a statement cited as evidence that the [[joe-biden|Biden]] administration was weaponizing government agencies against [[elon-musk|Elon Musk]].[8] Badlands commentary treated Carr's confirmation as important context for the lawsuits Musk was then filing through [[x-corp|X]] against the [[censorship-industrial-complex|censorship industrial complex]], and as an illustration of coordination between federal agencies and nominally independent private enforcement arms.[8]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: The Establishment is Collapsing from Within", URL: https://badlands.substack.com/p/badlands-news-brief-12b
@@ -61,3 +65,4 @@ Days before the November 2024 election, Carr — a Republican member of the five
 5. Badlands Brief — "Badlands News Brief: Inadvertent Israeli Attacks, Delightful Deep Fakes, & A Suing Shaman", URL: https://badlands.substack.com/p/badlands-news-brief-8d6
 6. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6
 7. Badlands Brief — "Badlands News Brief: Marauding, Squirrel-Murdering Psychopaths Panic Ahead of the Election", URL: https://badlands.substack.com/p/badlands-news-brief-b01
+8. Badlands Brief — "Badlands News Brief: The System of Systems is a House of Cards", URL: https://badlands.substack.com/p/badlands-news-brief-cce

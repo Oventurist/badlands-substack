@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [telecom, subsidies, supreme-court, nondelegation, fcc]
-sources: [raw/badlands-news-brief-03a.md]
+sources: [raw/badlands-news-brief-03a.md, raw/badlands-news-brief-c6a.md]
 confidence: medium
 ---
 
@@ -24,5 +24,10 @@ Beyond the telecommunications subsidies themselves, the case carried broad poten
 
 Badlands commentary grouped the case with the congressional fight over public broadcasting funding as fronts in an information war, describing the administrative state as being dismantled narratively before being dismantled in fact.[1]
 
+## Questions presented
+
+Badlands coverage the day before argument set out the three questions the Court agreed to consider in the consolidated cases dealing with congressional funding of [[federal-communications-commission|FCC]] "universal service subsidy programs" and its "mandatory contributions from telecommunications carriers": whether Congress violated the [[nondelegation-doctrine|nondelegation doctrine]] by authorizing the Commission to determine, within the limits set forth in Section 254, the amount providers must contribute to the Fund; whether the Commission violated the doctrine by using the administrator's (USAC's) financial projections in computing universal service contribution rates; and whether the combination of Congress's conferral of authority on the Commission and the Commission's delegation of administrative responsibilities to USAC violates the doctrine.[2] The Court additionally directed the parties to be prepared to argue why the case was not moot "in light of the challengers' failure to seek preliminary relief before the Fifth Circuit."[2] [[badlands-media|Badlands Media]] said it would carry the hearing live.[2]
+
 ## References
 1. Badlands Brief — "SCOTUS and Subsidies, Banker Bonuses, and Six More Years of Lindsay Graham", URL: https://badlands.substack.com/p/badlands-news-brief-03a
+2. Badlands Brief — "SCOTUS Examines Slushy Subsidies as Speaker Weighs Abolishing Courts", URL: https://badlands.substack.com/p/badlands-news-brief-c6a

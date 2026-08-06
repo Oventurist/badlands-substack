@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [social-media, trump, platform]
-sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-625.md, raw/badlands-brief-774.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-b60.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-625.md, raw/badlands-brief-774.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-cb9.md]
 confidence: low
 ---
 
@@ -48,6 +48,14 @@ On Monday, November 20, 2023, Truth Social's parent [[trump-media-and-technology
 
 Truth Social's parent, [[trump-media-and-technology-group|Trump Media]], made its stock market debut in late March 2024, closing its first trading day at $57.99 for a 16% gain and a valuation of roughly $8 billion — larger than companies such as Mattel and Western Union — after a frenzy of interest briefly halted trading for volatility.[8] [[donald-trump|Donald Trump]], who holds 60% of the stock, was the primary beneficiary.[8] Trump had helped create Truth Social after being banned from Twitter following the January 6 Capitol riot, and although [[elon-musk|Elon Musk]]'s purchase of the platform reversed that ban, he chose to remain on Truth Social; Similarweb estimated Truth Social had about 5 million active users compared with roughly 500 million for X.[8] Trump also used the platform in March 2024 to attack Judge [[juan-merchan|Juan Merchan]]'s gag order in the New York "hush money" case as a violation of his First Amendment rights.[8]
 
+## Attention on the Manhattan DA (March 2023)
+
+[[just-human|Just Human]] argued in March 2023 that Trump's Truth Social posts and public statements had highlighted the [[manhattan-district-attorneys-office|Manhattan District Attorney's Office]] and focused national attention on it "like never before," a contrast with the earlier failed investigation under [[cyrus-vance-jr|Cy Vance]].[9]
+
+## Attention on the Manhattan DA (March 2023)
+
+[[just-human|Just Human]] argued in March 2023 that Trump's Truth Social posts and public statements had highlighted the [[manhattan-district-attorneys-office|Manhattan District Attorney's Office]] and focused national attention on it "like never before," a contrast with the earlier failed investigation under [[cyrus-vance-jr|Cy Vance]].[9]
+
 ## References
 1. Badlands Brief — "A Virus, or a Metaphor?", URL: https://badlands.substack.com/p/a-virus-or-a-metaphor
 2. Badlands Brief — "Mr. Nice Guy Leaves the Building (plus, Jewish Terrorism)", URL: https://badlands.substack.com/p/badlands-brief-625
@@ -57,3 +65,4 @@ Truth Social's parent, [[trump-media-and-technology-group|Trump Media]], made it
 6. Badlands Brief — "Badlands News Brief: Globalist Rage, Biden Docs & Hockey Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-46e
 7. Badlands Brief — "Badlands News Brief: The Deep State Death Spiral Has Only Just Begun", URL: https://badlands.substack.com/p/badlands-news-brief-7e0
 8. Badlands Brief — "Badlands News Brief: Baltimore Fallout Continues as Nickelodeon Exposes Itself", URL: https://badlands.substack.com/p/badlands-news-brief-b60
+9. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9

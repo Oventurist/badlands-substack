@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [congress, gop, maga, speaker, mike-johnson]
-sources: [raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-254.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-6f0.md]
+sources: [raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-254.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-c07.md]
 confidence: high
 ---
 
@@ -62,6 +62,12 @@ Democrats used the prolonged Republican infighting to argue for a bipartisan com
 
 On Wednesday, October 18, 2023, Rep. [[jim-jordan|Jim Jordan]] (R-Ohio) failed a second time to win the speaker's gavel and told reporters in the Capitol that the House would not hold a third vote that day.[7] Jordan had been nominated the previous week after [[steve-scalise|Steve Scalise]] withdrew, and most likely needed 217 of 221 Republicans, but took only 200 votes on the first ballot and 199 on the second.[7] The chamber had been left leaderless after hard-line conservatives led by [[matt-gaetz|Matt Gaetz]] ousted [[kevin-mccarthy|Kevin McCarthy]]; Democrats backed [[hakeem-jeffries|Hakeem Jeffries]] and said they would be open to working with interim Speaker [[patrick-mchenry|Patrick McHenry]].[7] [[burning-bright|Burning Bright]] of [[badlands-media|Badlands Media]] argued that a paralyzed [[congress|Congress]] might temporarily be preferable, denying lawmakers the power to declare war while showing the public a rudderless United States amid international crisis — "sometimes, bad news is good news in the Mind War."[7]
 
+## October 19 caretaker plan and reversal
+
+On Thursday, October 19, 2023, [[jim-jordan|Jim Jordan]] announced he would not hold a third ballot for speaker and would instead let interim speaker [[patrick-mchenry|Patrick McHenry]] hold the gavel until January, with Representative [[david-joyce|David Joyce]] drafting legislation to grant McHenry the office's full powers.[8] The plan angered many Republicans because McHenry was backed by Democrats; [[tom-emmer|Tom Emmer]] insisted that "we should never allow a Democrat-backed coalition government," while [[steve-scalise|Steve Scalise]] and [[elise-stefanik|Elise Stefanik]] also opposed a Democrat-friendly speakership carrying into January.[8] Later the same day Jordan reversed himself, appearing open to a third vote and saying he wanted to talk to the 20 holdouts who had blocked his first two attempts.[8]
+
+The paralysis had direct policy consequences: during President [[joe-biden|Joe Biden]]'s primetime Oval Office address that evening seeking wartime aid for Israel and Ukraine, the [[us-house-of-representatives|House of Representatives]] remained unable to pass legislation in its second week without a speaker.[8] [[ashe-in-america|Ashe in America]] observed that nearly every engaged eye in the nation was focused on the speaker vote while the United States was engaging in military conflict in the Middle East.[8]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Draft Dodgers, Peacemakers & Warmongers Galore!", URL: https://badlands.substack.com/p/badlands-news-brief-0db
 2. Badlands Brief — "Badlands News Brief: Escalation ... Acceleration ... and Biden", URL: https://badlands.substack.com/p/badlands-news-brief-0f0
@@ -70,3 +76,4 @@ On Wednesday, October 18, 2023, Rep. [[jim-jordan|Jim Jordan]] (R-Ohio) failed a
 5. Badlands News Brief — "Emotional Programming, Congressional Paralysis & Censorship Reign", URL: https://badlands.substack.com/p/badlands-news-brief-254
 6. Badlands News Brief — "The Week of Rage Continues ... Biden to the Rescue?", URL: https://badlands.substack.com/p/badlands-news-brief-28e
 7. Badlands News Brief — "Biden Bumbles & Narrative Whiplash Abounds", URL: https://badlands.substack.com/p/badlands-news-brief-6f0
+8. Badlands Brief — "Badlands News Brief: Proxy Presidents & Proxy Wars", URL: https://badlands.substack.com/p/badlands-news-brief-c07

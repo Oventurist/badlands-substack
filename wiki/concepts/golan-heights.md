@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [israel, syria, territory, russia, geopolitics]
-sources: [raw/badlands-news-brief-24e.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-7a5.md]
+sources: [raw/badlands-news-brief-24e.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-c18.md]
 confidence: medium
 ---
 
@@ -35,8 +35,13 @@ After the December 2024 [[fall-of-the-assad-regime|fall of the Assad regime]], B
 
 The article also recalled a November 2016 incident in which [[al-qaeda|Al Qaeda]] fighters exchanged fire with the IDF in the Golan Heights, after which former Israeli Defense Minister Moshe Ya'alon said that ISIS had apologized for the clash despite the IDF having allegedly killed four of their fighters.[3]
 
+## Syrian missile fire (October 2023)
+
+On the evening of Tuesday, 10 October 2023, the Syrian Army fired missiles toward the Israeli-occupied Golan Heights, an attack confirmed by the [[israel-defense-forces|Israeli Defense Force]].[4] Analysts said the strike raised the risk of a broader regional conflict, coming after an earlier exchange of fire in northern Lebanon between Israel and likely [[hezbollah|Hezbollah]] positions.[4] [[al-jazeera|Al Jazeera]] senior correspondent Zeina Khodr wrote that "it was a matter of time before a message is sent to Israel from this front," describing a "multi front assault possible" scenario.[4] The rocket fire came within an hour of President [[joe-biden|Joe Biden]] confirming in a speech that the United States would begin "surging" defense aid to [[israel|Israel]] — see the [[2023-us-arms-surge-to-israel|2023 US arms surge to Israel]].[4]
+
 ## References
 1. Badlands News Brief — "Shutdown Looms as Game Theory Plays Out", URL: https://badlands.substack.com/p/badlands-news-brief-24e
 2. Badlands Brief - "Badlands News Brief: Tracking Resignations and Treasonous Trials", URL: https://badlands.substack.com/p/badlands-news-brief-576
 
 3. Badlands Brief — "Damascus Has Fallen ... Cui Bono?", URL: https://badlands.substack.com/p/badlands-news-brief-7a5
+4. Badlands Brief — "Badlands News Brief: Crisis Cascades, Nordstream 3 & Bidenomics", URL: https://badlands.substack.com/p/badlands-news-brief-c18

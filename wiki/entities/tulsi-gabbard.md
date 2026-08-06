@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [syria, congress, intelligence, media-narrative]
-sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-05f.md, raw/badlands-brief-1cd.md, raw/badlands-brief-2c5.md, raw/badlands-brief-314.md, raw/badlands-brief-707.md, raw/badlands-brief-6f4.md, raw/badlands-brief-6f0.md, raw/badlands-brief-708.md, raw/badlands-brief-70c.md, raw/badlands-brief-835.md, raw/badlands-brief-949.md, raw/badlands-brief-9ac.md, raw/badlands-brief-990.md, raw/badlands-brief-a89.md, raw/badlands-brief-ac2.md, raw/badlands-brief-d3b.md, raw/badlands-brief-da2.md, raw/badlands-brief-e15.md, raw/badlands-brief-f87.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-9ba.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a50.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b63.md]
+sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-05f.md, raw/badlands-brief-1cd.md, raw/badlands-brief-2c5.md, raw/badlands-brief-314.md, raw/badlands-brief-707.md, raw/badlands-brief-6f4.md, raw/badlands-brief-6f0.md, raw/badlands-brief-708.md, raw/badlands-brief-70c.md, raw/badlands-brief-835.md, raw/badlands-brief-949.md, raw/badlands-brief-9ac.md, raw/badlands-brief-990.md, raw/badlands-brief-a89.md, raw/badlands-brief-ac2.md, raw/badlands-brief-d3b.md, raw/badlands-brief-da2.md, raw/badlands-brief-e15.md, raw/badlands-brief-f87.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-9ba.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a50.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b63.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-cff.md]
 confidence: medium
 ---
 
@@ -210,6 +210,17 @@ Gabbard's team released more than 100 pages of memos, emails, and other material
 
 Gabbard also said she could not understand how the special counsel investigations run by [[robert-mueller|Robert Mueller]] and [[john-durham|John Durham]] had missed evidence of what she called a "years-long coup against President Trump."[38] "I really cannot fathom [it]," she told Fox News' "Sunday Morning Futures," adding: "There is no rational or logical explanation for why they failed."[38]
 
+## Accusations against Reuters (December 2025)
+
+In December 2025, Gabbard accused [[reuters|Reuters]] of disseminating "lies and propaganda" about Russian intentions in order to undermine President [[donald-trump|Donald Trump]]'s diplomacy and promote escalation.[40] Her statements were cited alongside former National Security Adviser [[michael-flynn|Michael Flynn]]'s allegation that the [[central-intelligence-agency|CIA]] was colluding with [[mi6|MI6]] and European intelligence services against Trump's Ukraine peace efforts.[40] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] welcomed Gabbard and Flynn "saying the quiet part out loud" about the agency.[40]
+
+
+## Clapper email declassification (August 2025)
+
+On August 13, 2025, Gabbard, as Director of National Intelligence, declassified a Top Secret email from then-DNI [[james-clapper|James Clapper]] that she said exposed his efforts to suppress concerns raised by then-[[national-security-agency|NSA]] Director [[mike-rogers|Mike Rogers]] regarding the politicized January 2017 Intelligence Community Assessment ordered by President [[barack-obama|Barack Obama]].[41] "The leading figures in the Russia Hoax have spent years deceiving the American public by presenting their manufactured and politicized assessments as credible intelligence," Gabbard said, adding that the email "reinforces what we already exposed: the decision to compromise standards and violate protocols in the creation of the 2017 manufactured intelligence assessment was deliberate and came from the very top."[41] She further stated that "Clapper's own words confirm that complying with the order to manufacture intelligence was a 'team sport.'"[41]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] argued that prosecuting the alleged treasonous conspiracy requires overwhelming and undeniable evidence, and characterized Gabbard's steady stream of declassifications as substantive evidence rather than allegation — a case being tried in the court of public opinion in preparation for a court of law.[41]
+
 ## References
 1. Badlands Brief — "Assad Day in Damascus", URL: https://badlands.substack.com/p/assad-day-in-damascus
 2. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
@@ -249,11 +260,6 @@ Gabbard also said she could not understand how the special counsel investigation
 36. Badlands Brief — "Badlands News Brief: Bicameral Puppets & Dark Money Muppets", URL: https://badlands.substack.com/p/badlands-news-brief-a50
 37. Badlands Brief — "Badlands News Brief: Rug Pulled Reputations, Insubordination, & the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-a65
 38. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f
-
-## June 2025 Trump dismissal of her Iran assessment
-
-Asked by journalists on Tuesday, June 17, 2025, about the assessment of his director of national intelligence, President [[donald-trump|Donald Trump]] said of Gabbard, "I do not care what she said," and insisted that [[iran|Iran]] was "very close" to obtaining a nuclear weapon.[39] In late March 2025 Gabbard had said the U.S. intelligence community "continues to assess that Iran is not building a nuclear weapon and Supreme Leader Ayatollah [[ali-khamenei|Ali Khamenei]] has not authorized the nuclear weapons program he suspended in 2003."[39] Gabbard, a former Democratic congresswoman who joined the Republican Party during the 2024 presidential campaign, had been confirmed as director of national intelligence in February 2025 after heavy scrutiny and heated debate.[39]
-
-Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] rejected the claim that Trump was throwing Gabbard under the bus, arguing instead that Trump was fully embracing a "NeoCon heel" role designed to invigorate public interest in the story while baiting the [[uniparty|Uniparty]] into doubling down and digging its hole deeper.[39] He coupled Gabbard's March congressional testimony — that no evidence suggested Iran had restarted the weapons program ended in 2003 — with the assertion that [[benjamin-netanyahu|Benjamin Netanyahu]] backed out of the [[qassem-soleimani|Soleimani]] strike the day before it occurred, concluding that the wider narrative was fraudulent.[39]
-
 39. Badlands Brief — "Badlands News Brief: Military Strikes, Labor Strikes, & Greenland's Status Upgrade", URL: https://badlands.substack.com/p/badlands-news-brief-b63
+40. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93
+41. Badlands Brief — "Letters of Credence, More Evidence of Treason, & Allegedly Super-Intelligent AI", URL: https://badlands.substack.com/p/badlands-news-brief-cff

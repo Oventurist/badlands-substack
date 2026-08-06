@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [january-6, seditious-conspiracy, justice-department, militia]
-sources: [raw/badlands-brief-ea5.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-8f3.md, raw/badlands-news-brief-ac1.md]
+sources: [raw/badlands-brief-ea5.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-8f3.md, raw/badlands-news-brief-ac1.md, raw/badlands-news-brief-c9a.md]
 confidence: medium
 ---
 
@@ -40,9 +40,14 @@ In January 2023, four Oath Keepers members were convicted of seditious conspirac
 
 In January 2024, Blaze Media journalist [[steve-baker|Steve Baker]] reported that newly released Capitol closed-circuit footage showed [[united-states-capitol-police|United States Capitol Police]] Special Agent [[david-lazarus|David Lazarus]] gave false testimony in the Oath Keepers trial.[5] Lazarus had testified that he saw then-officer [[harry-dunn|Harry Dunn]] interacting with Oath Keepers on January 6, 2021 — testimony that helped convict the defendants — but time-stamped video placed him elsewhere in the Capitol complex at the time.[5] Rep. [[barry-loudermilk|Barry Loudermilk]] released screenshots of Lazarus's movements, saying such an allegation "must be fully investigated," and Badlands commentary called for the convictions to be revisited and for accountability from those who testified falsely.[5]
 
+## Informants on January 6 (April 2023 disclosures)
+
+In April 2023, [[the-gateway-pundit|The Gateway Pundit]] reported that court documents revealed the Biden [[department-of-justice|Department of Justice]] admitting to at least 40 undercover operatives with the Proud Boys on January 6, 2021 — a disclosure central to the [[fedsurrection|"Fedsurrection"]] thesis.[6] Badlands writer [[ryan-delarme|Ryan DeLarme]] described 40 government confidential human source agents undercover that day in addition to 40 undercover operatives and 8 informants inside the group, with further assets within the [[oath-keepers|Oath Keepers]], putting the confirmed total near 100 excluding non-federal anarchist provocateurs.[6]
+
 ## References
 1. Badlands Brief — "Criminal Referrals & Big, Fat Hugs", URL: https://badlands.substack.com/p/badlands-brief-ea5
 2. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... Or So We're Told", URL: https://badlands.substack.com/p/badlands-news-brief-208
 3. Badlands Brief — "Badlands News Brief: North American Trade Troubles & Unipartisan Panic", URL: https://badlands.substack.com/p/badlands-news-brief-52f
 4. Badlands Brief — "Badlands News Brief: FBI Charges, Exorcisms and ... Woke M&M's?", URL: https://badlands.substack.com/p/badlands-news-brief-8f3
 5. Badlands Brief — "The Media Melts Down as MAGA Rises Once More ...", URL: https://badlands.substack.com/p/badlands-news-brief-ac1
+6. Badlands Brief — "Badlands News Brief: The France Dance, Crime & J6 Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-c9a

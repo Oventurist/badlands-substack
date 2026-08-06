@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [afghanistan, cia, national-guard, terrorism, immigration]
-sources: [raw/badlands-news-brief-747.md]
+sources: [raw/badlands-news-brief-747.md, raw/badlands-news-brief-bd7.md]
 confidence: medium
 ---
 
@@ -28,6 +28,11 @@ At approximately 2:15 p.m. on Wednesday, November 26, 2025, Lakanwal allegedly o
 
 Badlands hosts treated the suspect's intelligence-service background as the central fact of the story. [[chris-paul|Chris Paul]] noted that [[michael-flynn|General Michael Flynn]] had predicted on his show two weeks earlier that elements of the CIA would activate Islamic sleeper cells inside the United States in the coming months, characterizing the disclosure of Lakanwal's CIA ties as "spooks admitting their psyops."[1] [[canncon|CannCon]] argued the episode was an attempted [[color-revolution|color revolution]] provoked to justify investigation and escalation against the administration.[1] [[ashe-in-america|Ashe in America]] linked the shooting to [[elissa-slotkin|Elissa Slotkin]]'s forecast of violence involving the National Guard less than a month earlier and to [[john-brennan|John Brennan]]'s earlier public posture, writing that the convergence "makes you think."[1]
 
+## Arraignment (December 2025)
+
+On Tuesday, December 2, 2025, Lakanwal, 29, appeared virtually from his hospital bed and pleaded not guilty to all charges arising from the shooting that killed one National Guardsman and severely injured another in Washington, D.C., the previous week.[2] Terrence Austin, one of his lawyers, argued that his client merited release, citing the Justice Department's delay in bringing charges and Lakanwal's clean criminal history; his wife and five children, all boys, were reported to be living in Bellingham, Washington.[2] Lakanwal was seen lying under a blanket in a hospital gown, his eyes fluttering as he spoke through a Pashto interpreter during the brief hearing in D.C. Superior Court.[2] The judge ordered him held without bond, describing the ambush-style attack as an act that spread terror throughout the nation's capital.[2]
+
 ## References
 
 1. Badlands Brief — "Afghanis Activate, Witch Hunts End, & Hitler Launches Re-Election Campaign", URL: https://badlands.substack.com/p/badlands-news-brief-747
+2. Badlands Brief — "Bogus Visas, Brazilian Sanctions, and Foreign Boat Battles", URL: https://badlands.substack.com/p/badlands-news-brief-bd7

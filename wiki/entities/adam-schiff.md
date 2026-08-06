@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, senate, intelligence, democrats, 2026]
-sources: [raw/badlands-brief-835.md, raw/badlands-brief-9ac.md, raw/badlands-brief-ea5.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-757.md]
+sources: [raw/badlands-brief-835.md, raw/badlands-brief-9ac.md, raw/badlands-brief-ea5.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-d1c.md]
 confidence: low
 ---
 
@@ -72,6 +72,12 @@ His campaign moved quickly to minimize the connections, with spokesperson Mariso
 
 Politico reported in December 2024 that Schiff, then a senator-elect from California, was among the figures named in White House deliberations over [[preemptive-pardons|preemptive pardons]] for officials who could be targeted after [[donald-trump|Donald Trump]]'s return to the presidency.[12] The reporting grouped him with other members of Congress' [[january-6-committee|January 6 Committee]], including former Representative [[liz-cheney|Liz Cheney]], and noted that alarm inside the [[joe-biden|Biden]] White House had accelerated after Trump named [[kash-patel|Kash Patel]] to lead the [[fbi|FBI]].[12]
 
+## Whistleblower allegations on classified leaks (2025)
+
+In August 2025 Just the News reported that a career intelligence officer who had worked for Democrats on the [[house-permanent-select-committee-on-intelligence|House Intelligence Committee]] for more than a decade had repeatedly warned the [[fbi|FBI]], beginning in 2017, that Schiff had approved leaking classified information to smear then-President [[donald-trump|Donald Trump]] over the Russiagate scandal.[13] The account came from FBI 302 interview reports that Director [[kash-patel|Kash Patel]] turned over to Congress.[13] The staffer, a Democrat by affiliation who described himself as a friend of both Schiff and former Republican Intelligence Committee chairman [[devin-nunes|Devin Nunes]], considered the leaking "unethical," "illegal," and "treasonous," but said he was told not to worry because Schiff believed he would be shielded from prosecution by the Constitution's speech and debate clause.[13]
+
+Badlands commentary tied the episode to Schiff's reported expectation that he would have become director of the CIA had Hillary Clinton won in 2016, drawing a parallel with [[rodney-joffe|Rodney Joffe]], who allegedly manipulated internet data to support the collusion narrative while expecting a top cybersecurity post under a Clinton administration.[13] [[ashe-in-america|Ashe in America]] argued that Schiff's access to classified information should be revoked immediately and that Congress, being implicated itself, could not be trusted to deliver justice.[13]
+
 ## References
 
 1. Badlands Brief — "Virginia Democrats Lose the Plot and Go For Tyranny", URL: https://badlands.substack.com/p/badlands-brief-835
@@ -86,3 +92,4 @@ Politico reported in December 2024 that Schiff, then a senator-elect from Califo
 10. Badlands News Brief — "Mid-Transition “QAnon” Claims & A Not Quite Final Farewell", URL: https://badlands.substack.com/p/badlands-news-brief-351
 11. Badlands Brief — "It's Raining Red Pills ... And We Like It", URL: https://badlands.substack.com/p/badlands-news-brief-5ec
 12. Badlands Brief — "Badlands News Brief: Pardon Me ... No, But Seriously. PLEASE Pardon Me.", URL: https://badlands.substack.com/p/badlands-news-brief-757
+13. Badlands Brief — "Badlands News Brief: New Whistleblowers, Cartel Hitlists, & Extended Tariffs", URL: https://badlands.substack.com/p/badlands-news-brief-d1c

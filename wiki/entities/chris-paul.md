@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, info-war, commentary, badlands-brief]
-sources: [raw/badlands-brief-2c0.md, raw/badlands-brief-686.md, raw/badlands-brief-861.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a64.md]
+sources: [raw/badlands-brief-2c0.md, raw/badlands-brief-686.md, raw/badlands-brief-861.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-bd2.md]
 confidence: medium
 ---
 
@@ -105,6 +105,10 @@ Reacting to reporting that Attorney General [[pam-bondi|Pam Bondi]] functioned l
 
 He also criticized [[seth-dillon|Seth Dillon]] of [[babylon-bee|The Babylon Bee]] for joining what Paul described as establishment neoconservatives in labeling "conspiracy theorists" as "woke," calling the [[woke-right|woke right]] framing "a perfect new identifier and a proof of what I was showing people back in 2022."[21] Separately, [[ashe-in-america|Ashe in America]] named Paul, alongside [[burning-bright|Burning Bright]] and [[jon-herold|Jon Herold]], as having gamed out Saudi accession to the [[abraham-accords|Abraham Accords]] as a theory of a potential future for years before the May 2025 Riyadh visit.[21]
 
+## Commentary in the September 25, 2025 brief
+
+Responding to the Dallas [[immigration-and-customs-enforcement|ICE]] facility shooting, Chris Paul quoted a statement about Scranton workers making Pennsylvania "the arsenal of democracy" and standing with Ukraine, noting that a year earlier "the illegitimate governor of Pennsylvania," [[josh-shapiro|Josh Shapiro]], had signed munitions.[22] He compared this to [[israel-defense-forces|IDF]] soldiers signing ammunition after what he called the "Charlie Kirk" trauma event, asking who does such a thing, and mocked Fox News for inviting [[tim-pool|Tim Pool]] on to discuss "the latest ridiculous psyop."[22]
+
 ## References
 1. Badlands Brief — "Southern Hospitality Superseded Plus Cross Burning", URL: https://badlands.substack.com/p/badlands-brief-2c0
 2. Badlands Brief — "To Infinity & Iran!", URL: https://badlands.substack.com/p/badlands-brief-686
@@ -127,3 +131,4 @@ He also criticized [[seth-dillon|Seth Dillon]] of [[babylon-bee|The Babylon Bee]
 19. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
 20. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
 21. Badlands Brief — "Badlands News Brief: Black Hat Nightmares & A Camelback Caravan of Confirmation", URL: https://badlands.substack.com/p/badlands-news-brief-a64
+22. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2

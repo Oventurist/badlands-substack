@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [law, election-integrity, arizona, republican-party]
-sources: [raw/an-sos-from-ground-zero.md, raw/badlands-brief-144.md, raw/badlands-brief-323.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-a89.md, raw/badlands-news-brief-b68.md]
+sources: [raw/an-sos-from-ground-zero.md, raw/badlands-brief-144.md, raw/badlands-brief-323.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-a89.md, raw/badlands-news-brief-b68.md, raw/badlands-news-brief-cad.md]
 confidence: low
 ---
 
@@ -56,6 +56,10 @@ As former Republican National Committee for California chairwoman, Dhillon poste
 
 In July 2025 Dhillon, as Assistant Attorney General for the Civil Rights Division, was the public face of the [[department-of-justice|Justice Department]]'s statement of interest in [[judicial-watch-v-illinois-state-board-of-elections|Judicial Watch v. Illinois State Board of Elections]].[11] "It is critical to remove ineligible voters from the registration rolls so that elections are conducted fairly, accurately, and without fraud," she said, adding that under the [[national-voter-registration-act|National Voter Registration Act]] states have the responsibility to conduct a robust list maintenance program and that the Department would vigorously enforce those requirements.[11]
 
+## Colorado prisons investigation, December 2025
+
+As Assistant Attorney General for Civil Rights, Dhillon announced on December 8, 2025 a Justice Department investigation into 33 facilities operated by the [[colorado-department-of-corrections|Colorado Department of Corrections]] and the state's Department of Youth Services.[12] *Westword* reported that the probe appeared politically motivated rather than a response to years of complaints from [[disability-law-colorado|Disability Law Colorado]], tying it to President [[donald-trump|Donald Trump]]'s efforts to free former Mesa County Clerk [[tina-peters|Tina Peters]]; Dhillon reshared several X posts celebrating the investigation as "how we FREE TINA PETERS."[12] Local disability advocates nonetheless welcomed the federal intervention as "an important step toward accountability."[12]
+
 ## References
 1. Badlands Brief — "An SOS From Ground Zero", URL: https://badlands.substack.com/p/an-sos-from-ground-zero
 2. Badlands Brief — "MLKKK Day, Peace Boards and Power Paradigms", URL: https://badlands.substack.com/p/badlands-brief-144
@@ -68,3 +72,4 @@ In July 2025 Dhillon, as Assistant Attorney General for the Civil Rights Divisio
 9. Badlands Brief — "Badlands News Brief: Gazan Seizures & Gay Porn Scandals", URL: https://badlands.substack.com/p/badlands-news-brief-8dc
 10. Badlands News Brief — "Epstein Fallout Continues as the Biden Admin Implodes", URL: https://badlands.substack.com/p/badlands-news-brief-a89
 11. Badlands Brief — "Badlands News Brief: Free Money & Clean Voter Rolls", URL: https://badlands.substack.com/p/badlands-news-brief-b68
+12. Badlands Brief — "A Christmas Bonus, War “With” Venezuela, & Prime Time Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-cad

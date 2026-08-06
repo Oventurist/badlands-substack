@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [immigration, new-york-city, eric-adams, protests]
-sources: [raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-49d.md]
+sources: [raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-c0b.md]
 confidence: medium
 ---
 
@@ -32,6 +32,13 @@ In January 2024, students at a Brooklyn high school were removed from their clas
 
 The school's neighbors objected to the last-minute decision.[2] One local resident, identifying himself only as Rob, called the move "a litmus test," saying: "They are using a storm, a legitimate situation, where they are testing this out. I guarantee you they'll be here for the entire summer."[2] He added that "there's 1,900 people getting thrown into my neighborhood, half a block from where I live and we don't know who they are."[2]
 
+## April 2024 City Hall protest
+
+In April 2024, hundreds of migrants flooded the grounds of City Hall in Lower Manhattan to protest the scaling down of their hotel accommodations, which [[zerohedge|ZeroHedge]] characterized as luxury rooms funded by taxpayers and a sign that New York City could be on the cusp of social unrest.[3] [[elon-musk|Elon Musk]] responded to footage of the demonstration with "Wow," while another user of X posted video of angry migrants surrounding the City Hall complex as security was reinforced and the situation remained tense.[3]
+
+The protest came one day after pro-Palestinian groups shuttered critical infrastructure in metropolitan areas nationwide, including the Brooklyn Bridge.[3] ZeroHedge argued that the risk of nationwide social instability was elevated because the Biden administration, through open southern borders, together with what it called a shadowy network of NGOs, had facilitated the largest inflow of illegal immigrants in the nation's history.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Trump Surges, COVID Flags & Ukraine Slips", URL: https://badlands.substack.com/p/badlands-news-brief-0ec
 2. Badlands Brief — "Badlands News Brief: Shenanigans Shall Continue Until Morale Improves ...", URL: https://badlands.substack.com/p/badlands-news-brief-49d
+3. Badlands Brief — "Badlands News Brief: Jurors Judged, Faces Saved & Memes Made", URL: https://badlands.substack.com/p/badlands-news-brief-c0b

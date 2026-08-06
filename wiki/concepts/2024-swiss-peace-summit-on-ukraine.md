@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ukraine, switzerland, diplomacy, russia, 2024]
-sources: [raw/badlands-news-brief-67e.md, raw/badlands-news-brief-995.md, raw/badlands-news-brief-b6c.md]
+sources: [raw/badlands-news-brief-67e.md, raw/badlands-news-brief-995.md, raw/badlands-news-brief-b6c.md, raw/badlands-news-brief-c9d.md]
 confidence: medium
 ---
 
@@ -32,8 +32,15 @@ Weeks before the summit, EU foreign affairs ministers met to discuss how to find
 
 On May 28, 2024, [[volodymyr-zelensky|Volodymyr Zelensky]] said during a visit to Brussels that [[vladimir-putin|Vladimir Putin]] would give [[joe-biden|Joe Biden]] a standing ovation if the U.S. president skipped the summit, then scheduled for June 15–16 near Lucerne.[3] He said it would not be "a strong decision," adding that "the peace summit needs President Biden and so do the other leaders who look at the reaction of the United States."[3] The conference had been organised at Zelensky's request to secure "a just and lasting peace," but Russia was not invited, leaving unclear what it could achieve.[3] More than 160 delegations were invited, including members of the G7, the G20, the EU, the Council of Europe and the UN, and Zelensky said he was still awaiting responses from China and Brazil, stressing that "every voice is important."[3]
 
+## Swiss domestic backlash and outcome
+
+The [[swiss-peoples-party|Swiss People's Party]] (SVP), the largest group in the lower house of the Swiss parliament, panned the summit as an "embarrassment," reflecting the view that the talks damaged Switzerland's traditional neutrality.[4] SVP figures argued Switzerland should not have hosted the weekend gathering without Russia, and Nils Fiechter, chief of the party's youth wing, told Russian broadcaster RT on the eve of the talks that "the conference will achieve nothing" and that "the whole thing is an absolute farce and an embarrassment for our country."[4] The party, which holds that neutrality underpins Swiss prosperity, had initiated a referendum to embed the principle in the constitution, and the Buergenstock event sparked heated debate over whether Switzerland should abandon neutrality altogether.[4]
+
+Writing after the summit, [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] described the conference as the first major "battle" in a geopolitical war between what he called the ruling Unipolar Globalist Empire and the rebelling Multipolar [[sovereign-alliance|Sovereign Alliance]].[4] He noted that of roughly 160 invited countries only 78 formally accepted, that none of the [[brics|BRICS]] countries signed the summit declaration and many declined to attend, and that the United States signed without technically attending because [[joe-biden|Biden]] opted instead for a George Clooney fundraiser.[4] He observed that the UN formally recognizes 193 member nations plus the Vatican and the disputed State of Palestine, argued the 78 signatories were likely still under Empire control, and read the outcome as more than a hundred countries in rebellion against unipolar hegemony.[4] He added that [[volodymyr-zelensky|Zelensky]] had spent the preceding week trying to persuade 22 declining nations to send emissaries — most notably [[mohammed-bin-salman|Saudi Arabia]], whose Foreign Minister [[faisal-bin-farhan|Faisal bin Farhan]] he begged Riyadh to dispatch — because without Saudi Arabia the summit would have lacked any real power broker, and speculated that Saudi Arabia persuaded Jordan and Iraq to retroactively withdraw their signatures from the declaration.[4]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Trump Returns to DC as Globalists Panic", URL: https://badlands.substack.com/p/badlands-news-brief-67e
 2. Badlands Brief — "Donald Trump, Dennis Quaid and Steven Seagal Walk into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-995
 3. Badlands Brief — "Manhatt-Insanity, Biden Gorillas & Muskian Moves", URL: https://badlands.substack.com/p/badlands-news-brief-b6c
+4. Badlands Brief — "Biden Wanders, Putin Ponders & Ukraine Launders", URL: https://badlands.substack.com/p/badlands-news-brief-c9d

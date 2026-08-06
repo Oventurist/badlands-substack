@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [national-security-advisor, trump-administration, jack-smith, subpoena]
-sources: [raw/badlands-news-brief-34a.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-919.md]
+sources: [raw/badlands-news-brief-34a.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-919.md, raw/badlands-news-brief-c9b.md]
 confidence: medium
 ---
 
@@ -26,8 +26,15 @@ O'Brien, described as [[donald-trump|Donald Trump]]'s fourth and final national 
 
 In a closed-door interview with federal prosecutors in early 2023, O'Brien recounted conversations about seizing voting machines after the 2020 election, including during a heated Oval Office meeting in which Trump participated.[3] The previously unreported interview, disclosed by CNN in April 2023, accompanied grand jury testimony from [[chad-wolf|Chad Wolf]] and [[ken-cuccinelli|Ken Cuccinelli]] that the [[department-of-homeland-security|Department of Homeland Security]] lacked authority to seize the machines.[3] The material illustrated how special counsel [[jack-smith|Jack Smith]] was examining the various ways Trump sought to overturn his electoral loss despite contrary advice from senior officials.[3]
 
+## "The Return of Peace Through Strength" (2024)
+
+In June 2024 O'Brien published an essay in *[[foreign-affairs|Foreign Affairs]]* titled "The Return of Peace Through Strength," tracing the doctrine from the Latin maxim *si vis pacem, para bellum* and the emperor Hadrian through [[george-washington|George Washington]], Theodore Roosevelt and [[ronald-reagan|Ronald Reagan]].[4] He argued that [[donald-trump|Donald Trump]] brought the ethos back to the [[white-house|White House]] in 2017 after an Obama era in which the president apologized for the alleged sins of American foreign policy and sapped U.S. military strength, citing Trump's September 2020 UN General Assembly line that the United States was "fulfilling its destiny as peacemaker, but it is peace through strength."[4]
+
+Badlands writer [[burning-bright|Burning Bright]] noted that O'Brien's op-ed appeared the same day [[kristi-noem|Kristi Noem]] deployed the identical framing in *[[american-greatness|American Greatness]]*, treating the pairing as deliberately coordinated narrative seeding rather than coincidence.[4] The doctrine itself is covered at [[peace-through-strength|peace through strength]].[4]
+
 ## References
 
 1. Badlands News Brief — "Musk Investigated, Fauci Exposed & Committees Engaged", URL: https://badlands.substack.com/p/badlands-news-brief-34a
 2. Badlands Brief — "Badlands News Brief: Trump 2024 Has the Deep State a Little Testy …", URL: https://badlands.substack.com/p/badlands-news-brief-810
 3. Badlands Brief — "Badlands News Brief: Trials Galore, Ukraine Backpedal & The Gold Standard", URL: https://badlands.substack.com/p/badlands-news-brief-919
+4. Badlands Brief — "Badlands News Brief: Korean Borders, Warmongers & Peacemakers", URL: https://badlands.substack.com/p/badlands-news-brief-c9b

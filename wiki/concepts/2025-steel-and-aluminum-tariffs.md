@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [tariffs, trade, steel, aluminum, reciprocal-trade, trump-administration]
-sources: [raw/badlands-news-brief-7ce.md]
+sources: [raw/badlands-news-brief-7ce.md, raw/badlands-news-brief-cb6.md]
 confidence: medium
 ---
 
@@ -22,5 +22,10 @@ For the time being, Trump had reneged on planned 25% across-the-board tariffs on
 
 [[burning-bright|Burning Bright]] wrote that Trump's most masterful deployments are often the simplest, calling his reciprocal trade stance "quite literally unassailable even by the most skilled narrative setters in the commentariat," because in order to attack the tariffs critics must attack the globalist system that provoked them.[1]
 
+## European industry reaction
+
+On 10 February 2025 President [[donald-trump|Donald Trump]] signed an order enacting a 25% tariff on steel imports, and the following day the European Steel Association [[eurofer|Eurofer]] warned of severe consequences for EU producers.[2] Eurofer President [[henrik-adam|Henrik Adam]] said EU steel exports could drop by up to 3.7 million tonnes, noting that the United States was the second-largest export market for European producers and accounted for 16% of total EU steel exports in 2024, losses he said could not be offset elsewhere.[2] Adam argued that global overcapacity was already being dumped on the vulnerable EU market at very cheap prices from Asia, North Africa and the Middle East, undermining investment in the green transition and driving de-industrialisation; he cited 9 million tonnes of EU capacity closed in 2024 with over 18,000 job cuts announced, and said the executive order would inevitably exacerbate the situation.[2] Badlands commentary treated the warning as evidence that tariffs were the strongest bargaining chip available to Washington against European leaders seeking to sustain the Ukraine war without United States support.[2]
+
 ## References
 1. Badlands Brief — "The Star Spangled Banner, Bureaucrat Bleach Bit, & an Unknown Balance of Bullion", URL: https://badlands.substack.com/p/badlands-news-brief-7ce
+2. Badlands Brief — "Badlands News Brief: Muslim Migrants, Mad Max, & Even More Money-Laundering", URL: https://badlands.substack.com/p/badlands-news-brief-cb6

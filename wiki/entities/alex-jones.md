@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, censorship, infowars, x, free-speech]
-sources: [raw/badlands-news-brief-220.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-4ee.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-b5a.md]
+sources: [raw/badlands-news-brief-220.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-4ee.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-b5a.md, raw/badlands-news-brief-c9d.md]
 confidence: high
 ---
 
@@ -46,6 +46,10 @@ Asked whom the agency had targeted, O'Blennis named Jones, implying the agency h
 
 During the nationwide [[at-and-t|AT&T]] cellular outage of February 22, 2024, Jones — described by Gizmodo as America's most well-known professional conspiracy theorist — insisted on his show that there was an 80 percent chance the disruption was the work of China, with a smaller chance that it was "the globalists themselves" carrying out a "false flag" attack.[6] AT&T said that evening that the outage was not a cyberattack but the result of "the application and execution of an incorrect process" during network expansion.[6]
 
+## Bankruptcy ruling and asset liquidation (June 2024)
+
+On Friday, June 14, 2024, a Texas bankruptcy judge ruled that Jones's personal assets would be liquidated to help repay the $1.5 billion he owes to the families of the victims of the Sandy Hook Elementary School shooting, according to Associated Press reporting relayed by [[axios|Axios]].[7] The same judge later ruled against liquidating Jones's [[infowars|Infowars]] media platform and its parent company Free Speech Systems.[7] Jones had sought to use bankruptcy to shield his personal assets and his media platform in an effort to limit the defamation damages awarded after he repeatedly spread the claim that the shooting was a hoax.[7] In the days before the ruling, Jones told viewers and radio listeners that his media company was on the verge of being shut down and directed them to a new website owned by his father where they could continue buying his supplements.[7]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Tracking Trump & Rootin' for Putin?", URL: https://badlands.substack.com/p/badlands-news-brief-220
 2. Badlands Brief — "Badlands News Brief: MAHA Begins as ESG Dies", URL: https://badlands.substack.com/p/badlands-news-brief-299
@@ -53,3 +57,4 @@ During the nationwide [[at-and-t|AT&T]] cellular outage of February 22, 2024, Jo
 4. Badlands News Brief — "Strategy & Micro Protests", URL: https://badlands.substack.com/p/badlands-news-brief-71c
 5. Badlands Brief — "Badlands News Brief — Fearmongering and Capitulation Rule the News Cycle", URL: https://badlands.substack.com/p/badlands-news-brief-959
 6. Badlands Brief — "An Embattled Media, Mysterious Outages & Gay History", URL: https://badlands.substack.com/p/badlands-news-brief-b5a
+7. Badlands Brief — "Biden Wanders, Putin Ponders & Ukraine Launders", URL: https://badlands.substack.com/p/badlands-news-brief-c9d

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, financial-press]
-sources: [raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-a82.md]
+sources: [raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-cb9.md]
 confidence: medium
 ---
 
@@ -24,8 +24,17 @@ On October 15, 2024, Bloomberg Editor-in-Chief [[john-micklethwait|John Mickleth
 
 Bloomberg reported in June 2024, citing [[knight-frank|Knight Frank]] research, that Saudi Arabia was set to become the world's biggest construction market, with output value forecast to reach $181.5 billion by 2028 as part of Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]]'s [[vision-2030|Vision 2030]] diversification drive.[3]
 
+## Reporting on the 2023 deposit guarantee study
+
+In March 2023 Bloomberg reported that US officials were studying ways to temporarily expand [[federal-deposit-insurance-corporation|FDIC]] coverage to all deposits, and that [[us-department-of-the-treasury|Treasury Department]] staff were reviewing whether regulators had sufficient emergency authority to insure deposits above the $250,000 cap without action by a divided [[us-congress|Congress]].[4] An earlier Bloomberg weekend report had described mid-sized banks demanding a two-year total deposit insurance scheme.[4] The agency noted officials did not yet view such a move as necessary but were developing a strategy out of due diligence.[4]
+
+## Reporting on the 2023 deposit guarantee study
+
+In March 2023 Bloomberg reported that US officials were studying ways to temporarily expand [[federal-deposit-insurance-corporation|FDIC]] coverage to all deposits, and that [[us-department-of-the-treasury|Treasury Department]] staff were reviewing whether regulators had sufficient emergency authority to insure deposits above the $250,000 cap without action by a divided [[us-congress|Congress]].[4] An earlier Bloomberg weekend report had described mid-sized banks demanding a two-year total deposit insurance scheme.[4] The agency noted officials did not yet view such a move as necessary but were developing a strategy out of due diligence.[4]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Escalation ... Acceleration ... and Biden", URL: https://badlands.substack.com/p/badlands-news-brief-0f0
 2. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71
 3. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
+4. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9

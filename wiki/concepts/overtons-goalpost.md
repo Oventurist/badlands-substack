@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [information-war, narrative, badlands, framework]
-sources: [raw/badlands-brief-740.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-8f0.md, raw/badlands-news-brief-948.md]
+sources: [raw/badlands-brief-740.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-8f0.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-cb9.md]
 confidence: medium
 ---
 
@@ -40,6 +40,14 @@ Badlands contributor [[burning-bright|Burning Bright]] invoked Overton's Goalpos
 
 Badlands writer [[burning-bright|Burning Bright]] argued in December 2023 that the Media Machine had taken more than 18 months to begin moving the goalposts on the Ukraine war, but under two months to do so on Israel's campaign in Gaza — an acceleration he read as evidence of lost narrative control and of mass-psychological metrics inverting in favor of the [[great-awakening|Great Awakening]].[6]
 
+## Covid origins as a moving goalpost (2023)
+
+Commenting on the [[covid-19-origin-act-of-2023|COVID-19 Origin Act of 2023]], [[burning-bright|Burning Bright]] described the continual shifting of the officially acceptable position on the [[wuhan-institute-of-virology|Wuhan Institute of Virology]] as "the clearest example yet of Overton's Goalpost," arguing that each forced concession of previously withheld intelligence signals a loss of ground in the Mind War.[7]
+
+## Covid origins as a moving goalpost (2023)
+
+Commenting on the [[covid-19-origin-act-of-2023|COVID-19 Origin Act of 2023]], [[burning-bright|Burning Bright]] described the continual shifting of the officially acceptable position on the [[wuhan-institute-of-virology|Wuhan Institute of Virology]] as "the clearest example yet of Overton's Goalpost," arguing that each forced concession of previously withheld intelligence signals a loss of ground in the Mind War.[7]
+
 ## References
 1. Badlands Brief — "Aliens. A Fake Kid Dies From Fake Measles. And the Princely Prosecution That Was Promised.", URL: https://badlands.substack.com/p/badlands-brief-740
 2. Badlands Brief — "Badlands News Brief: Narrative Shielding & Biden Bait", URL: https://badlands.substack.com/p/badlands-news-brief-204
@@ -47,3 +55,4 @@ Badlands writer [[burning-bright|Burning Bright]] argued in December 2023 that t
 4. Badlands Brief — "Badlands News Brief: Ukraine Bursts, Tucker Returns & Trump Promises", URL: https://badlands.substack.com/p/badlands-news-brief-72e
 5. Badlands Brief — "Badlands News Brief: The Turns on COVID, Ukraine & the Establishment Have Begun", URL: https://badlands.substack.com/p/badlands-news-brief-8f0
 6. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
+7. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9

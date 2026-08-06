@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [pennsylvania, democrats, 2024-election, vice-presidential-shortlist]
-sources: [raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-433.md]
+sources: [raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-433.md, raw/badlands-news-brief-bd2.md]
 confidence: medium
 ---
 
@@ -26,7 +26,12 @@ After [[microsoft|Microsoft]] agreed in September 2024 to buy power from the shu
 
 On Tuesday, April 15, 2025, Shapiro unveiled a comprehensive budget proposal addressing several key challenges facing Pennsylvania, including significantly reducing homeownership costs.[3] For the first time, the budget included a $1 billion property tax relief initiative delivered through the homestead and farmstead exclusion.[3] Coverage framed the plan as easing one of the state's most significant financial burdens amid rising living costs and as a precedent for broader fiscal reform in housing affordability.[3] Badlands contributor [[chris-paul|Chris Paul]] grouped the proposal with Indiana Governor [[mike-braun|Mike Braun]]'s tax bill as part of a [[property-tax-relief-push-of-2025|2025 property tax relief push]] by "Uniparty governors" getting ahead of the collapse of the property tax system.[3]
 
+## Cited over signed munitions (September 2025)
+
+In commentary on the September 2025 Dallas [[immigration-and-customs-enforcement|ICE]] facility shooting, Badlands contributor [[chris-paul|Chris Paul]] recalled that a year earlier the Pennsylvania governor — whom he called "the illegitimate governor of Pennsylvania" — had been photographed signing munitions, paired with a statement invoking Scranton workers making Pennsylvania "the arsenal of democracy" and standing with Ukraine against Russian aggression.[4] Paul compared the episode to [[israel-defense-forces|IDF]] soldiers signing ammunition, asking "Is signing ammo a thing? Who does this?"[4]
+
 ## References
 1. Badlands News Brief — "The Walz Cycle Consumes Itself as Tensions Pause", URL: https://badlands.substack.com/p/badlands-news-brief-0ad
 2. Badlands Brief — "Fake News Attempts to Provoke Real Wars", URL: https://badlands.substack.com/p/badlands-news-brief-13f
 3. Badlands Brief — "POTUS' 'Reverse Kissinger' & Pete's Pentagon Purge", URL: https://badlands.substack.com/p/badlands-news-brief-433
+4. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2

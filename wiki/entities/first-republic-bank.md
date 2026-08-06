@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, finance, bank-failure, fdic, 2023]
-sources: [raw/badlands-news-brief-070.md, raw/badlands-news-brief-1e0.md]
+sources: [raw/badlands-news-brief-070.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-cb9.md]
 confidence: medium
 ---
 
@@ -28,7 +28,16 @@ It was not immediately clear whether the $30 billion in deposits that JPMorgan a
 
 In coverage of the March 13, 2023 selloff, First Republic Bank (FRC) was identified — alongside Western Alliance (WAL) and MYFW — as one of the highest default-risk banks in the Russell 3000 Banks Subsector according to Bloomberg data.[2] Regional bank shares fell dramatically that session despite the emergency backstop announced by the [[federal-reserve|Federal Reserve]], Treasury and [[federal-deposit-insurance-corporation|FDIC]] the previous night, with multiple trading halts through the day following the failures of [[silicon-valley-bank|Silicon Valley Bank]] and [[signature-bank|Signature Bank]].[2]
 
+## Role in the March 2023 banking turmoil
+
+The Epoch Times reported in March 2023 that the recent downfall of two sizable American banks — [[silicon-valley-bank|Silicon Valley Bank]] and First Republic Bank — had rattled financial markets, leaving investors looking to the [[federal-reserve|Federal Reserve]] to reverse its rate-hiking policy within months.[3] Regulators had already guaranteed uninsured deposits at the failed banks and extended special loans to the sector.[3] Economist [[daniel-lacalle|Daniel Lacalle]] characterized the failures as symptoms of a deeper structural problem rather than isolated events.[3]
+
+## Role in the March 2023 banking turmoil
+
+The Epoch Times reported in March 2023 that the recent downfall of two sizable American banks — [[silicon-valley-bank|Silicon Valley Bank]] and First Republic Bank — had rattled financial markets, leaving investors looking to the [[federal-reserve|Federal Reserve]] to reverse its rate-hiking policy within months.[3] Regulators had already guaranteed uninsured deposits at the failed banks and extended special loans to the sector.[3] Economist [[daniel-lacalle|Daniel Lacalle]] characterized the failures as symptoms of a deeper structural problem rather than isolated events.[3]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Sudan Spirals, Epstein Entraps & Banks Bail", URL: https://badlands.substack.com/p/badlands-news-brief-070
 2. Badlands News Brief — "More Banks! And Some Weird Stuff, Too ...", URL: https://badlands.substack.com/p/badlands-news-brief-1e0
+3. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9

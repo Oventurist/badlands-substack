@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [journalism, russiagate, rico]
-sources: [raw/badlands-brief-625.md, raw/badlands-brief-b56.md, raw/badlands-brief-da2.md, raw/badlands-news-brief-7d4.md]
+sources: [raw/badlands-brief-625.md, raw/badlands-brief-b56.md, raw/badlands-brief-da2.md, raw/badlands-news-brief-7d4.md, raw/badlands-news-brief-d04.md]
 confidence: low
 ---
 
@@ -34,8 +34,14 @@ In early September 2025, Solomon reported for Just the News on newly released do
 
 Solomon called the material "bombshell documents" that even surprised him about what was being discussed behind the scenes at the Biden [[white-house|White House]], noting that all of it had been dug out of the [[national-archives-and-records-administration|National Archives]].[4] Badlands contributor [[ashe-in-america|Ashe in America]] previewed the report as due to drop that day and remarked on the relentless pace of such disclosures.[4]
 
+
+## RussiaGate charging theory (August 2025)
+
+In August 2025, Solomon said the overriding charge in the anticipated [[russiagate-hoax|RussiaGate]] accountability cases would be [[deprivation-of-rights-under-color-of-law|deprivation of rights under color of law]], the offense codified at Title 18, U.S. Code, Section 242.[5] Badlands host [[jon-herold|Jon Herold]] connected that theory to [[devin-nunes|Devin Nunes]]'s claim that "people have died" as a result of the conspiracy, noting that the statute permits sentences of any term of years, life imprisonment, or death where a death results from the violation.[5]
+
 ## References
 1. Badlands Brief — "Mr. Nice Guy Leaves the Building (plus, Jewish Terrorism)", URL: https://badlands.substack.com/p/badlands-brief-625
 2. Badlands Brief — "A Communist Uprising & A Globalist Humiliation Ritual", URL: https://badlands.substack.com/p/badlands-brief-b56
 3. Badlands Brief — "America Wins, Zionists Seethe", URL: https://badlands.substack.com/p/badlands-brief-da2
 4. Badlands Brief — "Badlands News Brief: Funding Freezes, Russian Oil, & Imminent Exposes", URL: https://badlands.substack.com/p/badlands-news-brief-7d4
+5. Badlands Brief — "Global Struggles, Civil Alliances, & the Penalty for Treason", URL: https://badlands.substack.com/p/badlands-news-brief-d04

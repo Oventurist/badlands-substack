@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [israel, palestine, west-bank, sovereignty, oslo-accords]
-sources: [raw/badlands-brief-05f.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-592.md, raw/badlands-news-brief-95a.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-592.md, raw/badlands-news-brief-95a.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-c16.md, raw/badlands-news-brief-cf8.md]
 confidence: medium
 ---
 
@@ -52,6 +52,26 @@ A group of Israeli ministers from Prime Minister [[benjamin-netanyahu|Benjamin N
 
 Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] observed that the letter came not from the radical zealots of Netanyahu's Security Cabinet but from fifteen Likud members holding smaller ministerial roles, noting that the only Likud member then in the Security Cabinet was Deputy Prime Minister and Justice Minister [[yariv-levin|Yariv Levin]], whom he characterised as the group's token "yes man."[6] He noted that Levin's earlier public calls for annexation had drawn condemnation from the Saudis and Egyptians, and argued that the core issue had always been preventing Israeli recognition of Palestinian statehood — a defining moment that coincided with a high-profile Trump–Netanyahu meeting.[6]
 
+## Trump's assurance to Arab leaders (September 2025)
+
+At a Tuesday meeting during the [[united-nations-general-assembly|UN General Assembly]] in September 2025, President [[donald-trump|Donald Trump]] assured Arab leaders that he would not allow Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] to annex the West Bank.[7] Two sources said Trump and his team presented a white paper outlining the administration's plan to end the war, including the annexation pledge along with details on governance and postwar security.[7] Ahead of the discussion, Arab leaders reportedly sought to stress that any Israeli move into the West Bank could jeopardize the [[abraham-accords|Abraham Accords]], Trump's signature first-term foreign policy achievement.[7]
+
+Trump called the sit-down with eight Arab countries "most important" of the day but left without speaking to reporters, and participants did not release an official readout; Turkish President [[recep-tayyip-erdogan|Recep Tayyip Erdogan]] described the meeting as "fruitful" on Fox News without elaborating.[7] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote that the meeting had been called by Saudi Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] and Qatari Emir [[tamim-bin-hamad-al-thani|Sheikh Tamim Al-Thani]], bringing together leaders of Muslim-majority states recently at odds with one another in the face of what he called a common threat in Netanyahu.[7]
+
+## Rubio's warning on the Knesset vote (October 2025)
+
+US Secretary of State [[marco-rubio|Marco Rubio]] said in October 2025 that the [[knesset|Knesset]]'s move toward annexation of the West Bank would threaten President [[donald-trump|Donald Trump]]'s plan to end the [[israel|Israel]]–[[hamas|Hamas]] conflict in Gaza.[8] "They passed a vote in the Knesset, but the president has made clear that's not something we'd be supportive of right now," Rubio told reporters before departing for Israel, adding: "We think there's potential for [it to be even] threatening to the peace deal."[8] The previous month Trump had broken his silence on potential Israeli annexation amid mounting Arab opposition, vowing that he would not allow the move.[8]
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] linked the episode to reporting that Saudi Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] was scheduled to visit Trump at the [[white-house|White House]], arguing that the Saudis hold the leverage in negotiations over normalization with Israel and that their terms — a fully recognized Palestinian state with pre-1967 borders — long thought an impasse, now seemed all but certain.[8] He reasoned that the Saudis have no incentive to compromise because time is on their side and they can wait for a more accommodating administration, a calculation Trump understands.[8] In his framing the statehood question had become a test of the Global South's ability to collectively bargain against the Western hegemony, demonstrating multipolarity as a viable geopolitical concept, with Trump and allied leaders restoring bilateral relations whose cumulative overlapping interests should naturally disincentivize kinetic conflict.[8]
+
+## Trump's "all support" warning (October 2025)
+
+In comments published on Thursday, October 23, 2025 by Time magazine from an October 15 interview, President [[donald-trump|Donald Trump]] warned that [[israel|Israel]] would lose "all support" from the United States if it moved ahead with annexation of the [[west-bank|West Bank]], seemingly putting the kibosh on the Israeli right's ambition to apply sovereignty to parts of the territory.[9] The interview preceded the [[knesset|Knesset]]'s passage the day before, in a preliminary reading and against the prime minister's wishes, of a bill applying Israeli sovereignty to all West Bank settlements.[9]
+
+"It won't happen. It won't happen," Trump told Time. "It won't happen because I gave my word to the Arab countries. And you can't do that now. We've had great Arab support... Israel would lose all of its support from the United States if that happened."[9] Underlining the administration's impatience, Vice President [[jd-vance|JD Vance]] said Thursday as he departed Israel that the previous day's vote had offended him and was "very stupid."[9]
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote that he had emphasized for years that Trump gave his word to the Arabs that Palestine would be saved, that [[benjamin-netanyahu|Netanyahu]] would be brought to heel, and that there would be peace in the Middle East — noting Trump's own 1987 bestseller argued a negotiator's word is his most important asset.[9] He characterized the timing of the Knesset vote, as Vance was flying to Israel, as a flagrant act of defiance and disrespect, with Finance Minister [[bezalel-smotrich|Bezalel Smotrich]] going viral for disrespecting the Saudis as "the cherry on top."[9] With Saudi Crown Prince [[mohammed-bin-salman|MBS]] due in Washington the following month, he predicted [[saudi-arabia|Saudi]]–American relations would advance, potentially placing Saudi Arabia ahead of Israel in the prioritization of strategic partnerships.[9] [[chris-paul|Chris Paul]] added that "the right" was helping sell the operation, arguing that much of what appears on screen is programming produced and funded by identifiable interests.[9]
+
 ## References
 1. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
 2. Badlands Brief — "Badlands News Brief: IC Ignitions & Double Detonations", URL: https://badlands.substack.com/p/badlands-news-brief-1a0
@@ -59,3 +79,6 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] obser
 4. Badlands Brief — "Badlands News Brief: Inbound America: Terrorists, Trillions, & Diplomats", URL: https://badlands.substack.com/p/badlands-news-brief-3a5
 5. Badlands Brief — "Annexes, Envoys, & Warmongers", URL: https://badlands.substack.com/p/badlands-news-brief-592
 6. Badlands Brief — "Kingmakers, Rainmakers, & Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-95a
+7. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2
+8. Badlands Brief — "Unconvincing Unity, Ukraine Reparations, & Uneasy Cooperation", URL: https://badlands.substack.com/p/badlands-news-brief-c16
+9. Badlands Brief — "Badlands News Brief: B-Ball Bets, Bomber Busts, & 'Bipartisan' Bill Blockage", URL: https://badlands.substack.com/p/badlands-news-brief-cf8

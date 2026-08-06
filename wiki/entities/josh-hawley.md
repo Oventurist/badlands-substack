@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, republican, ai-policy, populism]
-sources: [raw/badlands-brief-4ec.md, raw/badlands-brief-c07.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-5ec.md]
+sources: [raw/badlands-brief-4ec.md, raw/badlands-brief-c07.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-ce1.md]
 confidence: medium
 ---
 
@@ -44,6 +44,10 @@ The amendment to an existing stock trading ban bill would immediately forbid mem
 
 Hawley, known for his efforts to force the Biden administration to declassify information related to COVID-19's possible laboratory origins at Wuhan, emerged from a classified briefing on Ukraine in September 2023 and expressed shock at what he had heard.[7] "If there is some path to victory in Ukraine, I didn't hear it today. I also heard that there's going to be no end to the funding requests," he said.[7] He indicated Americans would be asked to spend hundreds of billions more dollars in the region under an indefinite blank check justified by the protection of "US standing" on the world stage, at a time when [[volodymyr-zelensky|Zelensky]] had asked [[joe-biden|Biden]] and Congress for another $24 billion, warning Ukraine would lose the war without it.[7] Hawley further said the public was being lied to about the war footing and that Ukraine was definitely "not winning" — a claim relayed alongside polling showing 55% of the American public opposed to more aid.[7]
 
+## Secret Service whistleblower report (September 2024)
+
+On September 16, 2024, Hawley released a whistleblower report detailing security failures by the [[us-secret-service|U.S. Secret Service]] and other federal agencies during the July 13, 2024 assassination attempt against [[donald-trump|Donald Trump]] at a rally in Butler, Pennsylvania.[8] Based on information from multiple whistleblowers, the report described a pattern of incompetence, mismanagement and inadequate preparation by the agencies charged with protecting one of the most high-profile figures in American politics, and characterized the episode as a near-catastrophic breach of presidential security caused by systemic failures, poor decision-making and inadequate resource allocation.[8] Among its most critical allegations were that the Secret Service declined to conduct a standard evaluation of the rally site, that the Counter Surveillance Division was absent from the event, and that the agency turned down multiple offers from local law enforcement to deploy drone surveillance — a decision made more consequential by the fact that the would-be assassin used a drone to survey the site hours before the attack.[8] The findings prompted calls for urgent oversight and reform of the agency.[8]
+
 ## References
 1. Badlands Brief — "Criminal Invader Crashouts & Honeypot Hoaxes", URL: https://badlands.substack.com/p/badlands-brief-4ec
 2. Badlands Brief — "13 Germans, A Seized Smartwatch, & An American Tithe's Worth of Fraud", URL: https://badlands.substack.com/p/badlands-brief-c07
@@ -52,3 +56,4 @@ Hawley, known for his efforts to force the Biden administration to declassify in
 5. Badlands Brief — "Badlands News Brief: Epstein Resurfacing, the Uniparty & Election Fraud", URL: https://badlands.substack.com/p/badlands-news-brief-252
 6. Badlands Brief — "Badlands News Brief: The Presser Heard Round' the World", URL: https://badlands.substack.com/p/badlands-news-brief-33b
 7. Badlands Brief — "It's Raining Red Pills ... And We Like It", URL: https://badlands.substack.com/p/badlands-news-brief-5ec
+8. Badlands Brief — "Badlands News Brief: Trump Sends Comms as Diddlers Get Indicted", URL: https://badlands.substack.com/p/badlands-news-brief-ce1

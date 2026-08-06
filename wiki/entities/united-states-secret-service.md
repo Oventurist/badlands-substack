@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [secret-service, security, 2024, oversight]
-sources: [raw/a-week-to-remember.md, raw/badlands-brief-245.md, raw/badlands-brief-8c2.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-acf.md, raw/badlands-news-brief-b68.md]
+sources: [raw/a-week-to-remember.md, raw/badlands-brief-245.md, raw/badlands-brief-8c2.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-acf.md, raw/badlands-news-brief-b68.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-c50.md]
 confidence: medium
 ---
 
@@ -67,8 +67,15 @@ On the night of Sunday, November 12, 2023, agents protecting [[naomi-biden|Naomi
 
 In July 2025, nearly a year after the Butler shooting, the Secret Service suspended six staffers without pay or benefits over the failures surrounding the attempt on Trump's life.[12] Deputy Director [[matt-quinn|Matt Quinn]] admitted the attempted assassination was an "operational failure" for which the agency was "totally accountable," and said the service was working on fixing the root causes rather than treating the suspensions as a conclusion.[12] Badlands commentator [[ashe-in-america|Ashe in America]] called the action a welcome start while insisting there be "no more cover ups."[12]
 
-## References
+## Thwarted telecom disruption network near the UNGA (September 2025)
 
+The Secret Service announced in September 2025 that it had disrupted a network of electronic devices spread across New York City and the wider tri-state area capable of carrying out telecommunications-related threats against U.S. and foreign officials at the [[united-nations-general-assembly|UN General Assembly]].[13] Investigators recovered approximately 100,000 SIM cards and more than 300 co-located SIM servers, all located within a 35-mile radius of the event, in a system said to be capable of shutting down foreign leaders' cellular networks at the UNGA.[13]
+
+## Confirmation of cocaine in the White House (July 2023)
+
+On Wednesday, July 5, 2023, the Secret Service confirmed that a powdery substance discovered inside the White House over the preceding weekend was cocaine, a day after leaked radio intercepts revealed that a "mystery" substance had been found and had prompted a brief evacuation over hazmat fears.[14] Agency spokesman [[anthony-guglielmi|Anthony Guglielmi]] said the cocaine was discovered in an area of the West Wing lobby where individuals can store their phones, an area White House Press Secretary [[karine-jean-pierre|Karine Jean-Pierre]] described the same day as "a heavily traveled area" regularly accessed by both visitors and staff.[14] The episode, which the Secret Service investigated, is treated at length at [[white-house-cocaine-incident|the White House cocaine incident]].[14]
+
+## References
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
 2. Badlands Brief — "Trump Roasts The Press; Teases 2028 Run", URL: https://badlands.substack.com/p/badlands-brief-245
 3. Badlands Brief — "Trump Springs His Trap as the Deep State Gets Desperate", URL: https://badlands.substack.com/p/badlands-brief-8c2
@@ -81,3 +88,5 @@ In July 2025, nearly a year after the Butler shooting, the Secret Service suspen
 10. Badlands Brief — "Badlands News Brief: Escalation, Litigation & Sovereign Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a3c
 11. Badlands Brief — "Badlands News Brief: China Joe Takes the Stage as Trump's Power Grows", URL: https://badlands.substack.com/p/badlands-news-brief-acf
 12. Badlands Brief — "Badlands News Brief: Free Money & Clean Voter Rolls", URL: https://badlands.substack.com/p/badlands-news-brief-b68
+13. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2
+14. Badlands Brief — "Badlands News Brief: The Cocaine White House, False Flags & Free Speech", URL: https://badlands.substack.com/p/badlands-news-brief-c50

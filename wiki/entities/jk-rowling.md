@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [free-speech, gender-ideology, scotland, hate-crime-law, authors]
-sources: [raw/badlands-news-brief-2db.md]
+sources: [raw/badlands-news-brief-2db.md, raw/badlands-news-brief-d00.md]
 confidence: medium
 ---
 
@@ -24,5 +24,12 @@ Rowling vowed to continue calling biological males men and said she expected to 
 
 Badlands contributor [[simon-esler|Simon Esler]] framed the Rowling case within a transnational pattern, observing that the Scottish measures were being implemented "in lockstep" with [[justin-trudeau|Justin Trudeau]]'s Online Harms Bill in [[canada|Canada]], evidence in his reading of an "apolitical, globalist enemy attacking the very concept of the sovereign nation state."[1] Esler argued that such laws are more symbolic than practical, citing Ontario statutes in force since roughly 2017 treating misgendering as a hate crime that had not produced mass arrests, and concluded that their principal function was psychological rather than as functional lawfare — while still insisting they be "fought against vehemently."[1]
 
+## The #ArrestMe challenge (April 2024)
+
+When Scotland's new hate crime law took effect in April 2024, transgender activists compiled lists of people whose comments they intended to report, with Rowling prominently among them.[2] [[police-scotland|Police Scotland]] announced that Rowling would not be investigated, though commentators noted that the mere fact of being reported could create a "hate incident" file on her that would remain in perpetuity.[2]
+
+Rowling responded by escalating rather than retreating, publicly describing a list of prominent "trans women" as men and attaching the hashtag #ArrestMe.[2] She further declared: "If they go after any woman for simply calling a man a man, I'll repeat that woman's words and they can charge us both at once."[2] Police were then forced to announce that her comments would result in zero charges because they were not criminal.[2] [[simon-esler|Simon Esler]] of [[badlands-media|Badlands Media]] presented this as a model of refusing to grant false authority any power, arguing that "belief in the false authority of treasonous criminals and a lack of citizens prepared to stand up for themselves are what make such laws dangerous, not the laws themselves."[2]
+
 ## References
 1. Badlands News Brief — "Trump Counters, Musk Sues & Biden Lies", URL: https://badlands.substack.com/p/badlands-news-brief-2db
+2. Badlands Brief — "Badlands News Brief: Ukrai-NATO Spins Up as Wokeness Spirals", URL: https://badlands.substack.com/p/badlands-news-brief-d00

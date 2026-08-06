@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [congress, january-6, investigations, subpoenas]
-sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-07f.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-ac1.md]
+sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-07f.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-ac1.md, raw/badlands-news-brief-bfb.md]
 confidence: medium
 ---
 
@@ -72,6 +72,10 @@ In the spring of 2022, the committee provided an early boost to Georgia prosecut
 
 Badlands commentary connected the committee's record to later disputes over Capitol closed-circuit footage, arguing that the footage was withheld not to protect Capitol security but to prevent the public from recognizing perjury committed during the committee's proceedings and in subsequent prosecutions.[9] The January 2024 reporting by [[steve-baker|Steve Baker]] that Capitol Police Special Agent [[david-lazarus|David Lazarus]] gave false testimony in the [[oath-keepers|Oath Keepers]] trial was cited as a case in point.[9]
 
+## Role in the 2023 ballot disqualification litigation
+
+The committee's report supplied the evidentiary backdrop for the state ballot-disqualification suits against [[donald-trump|Donald Trump]]; his attorney [[scott-gessler|Scott Gessler]] argued in the [[colorado-ballot-disqualification-case|Colorado case]] that such a political work product cannot yield an actionable legal finding of insurrection, while declining to contest the report's substance.[10]
+
 ## References
 1. Badlands Brief — "American Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-a1a
 2. Badlands News Brief — "Trump's Trial, Archer's Animus & BRICS' Battle", URL: https://badlands.substack.com/p/badlands-news-brief-07f
@@ -82,3 +86,4 @@ Badlands commentary connected the committee's record to later disputes over Capi
 7. Badlands Brief — "Badlands News Brief: The Trump Train Rolls on ... Fake MAGA Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-89f
 8. Badlands Brief — "Badlands News Brief: January 6 and Nord Stream Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-8f4
 9. Badlands Brief — "The Media Melts Down as MAGA Rises Once More ...", URL: https://badlands.substack.com/p/badlands-news-brief-ac1
+10. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb

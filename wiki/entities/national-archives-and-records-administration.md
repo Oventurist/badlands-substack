@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [federal-agency, records, investigations]
-sources: [raw/badlands-brief-c7b.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-08a.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-3ae.md]
+sources: [raw/badlands-brief-c7b.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-08a.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-c18.md, raw/badlands-news-brief-cf3.md]
 confidence: low
 ---
 
@@ -42,6 +42,14 @@ Historians combing the material did not expect many ground-breaking revelations,
 
 In a letter dated January 22, 2023, [[mike-pence|Mike Pence]]'s lawyer Greg Jacob informed the National Archives that [[fbi|FBI]] agents had collected documents from Pence's Indiana home on January 19 at the [[department-of-justice|Justice Department]]'s request, with Pence's agreement.[7] Pence's legal team later argued that because the documents went directly to the Justice Department rather than first to the Archives, the government had "bypassed the standard procedures" that normally govern the recovery of presidential and vice-presidential records.[7]
 
+## America First Legal FOIA disclosure (October 2023)
+
+In October 2023 [[america-first-legal|America First Legal]] announced that its Freedom of Information Act lawsuit against the National Archives had produced counts of correspondence between then-Vice President [[joe-biden|Joe Biden]]'s office and his family's business entities: 19,335 emails with [[rosemont-seneca-partners|Rosemont Seneca]], 4,243 with [[hunter-biden|Hunter Biden]], 1,751 with [[james-biden|Jim Biden]] and 3,738 with Jim's Lion Hall.[8] Badlands commentary stressed that these were official records held by the Archives and framed the volume as inconsistent with claims of a wall of separation between the vice president and his relatives' enrichment schemes.[8]
+
+## Dismissal of the Archivist (February 2025)
+
+On February 7, 2025, President [[donald-trump|Donald Trump]] dismissed [[colleen-shogan|Colleen Shogan]], the Archivist of the United States, as part of a broader effort to upend Washington institutions.[9] The archivist is responsible for overseeing government records and heads the National Archives, an agency Trump had repeatedly criticized since it alerted the Justice Department to his handling of classified documents in early 2022.[9] Badlands commentator Chris Paul linked Shogan to financier [[david-rubenstein|David Rubenstein]], noting she had been Senior Vice President and Director of the [[rubenstein-center-for-white-house-history|Rubenstein Center for White House History]], and floated an explicitly speculative theory that privately controlled historical centers might house records moved out of NARA.[9]
+
 ## References
 1. Badlands Brief — "TACO Tuesday Returns as the War of Stories Gets Weird", URL: https://badlands.substack.com/p/badlands-brief-c7b
 2. Badlands News Brief — "Lake Lasts, Biden Slumps & Powell Blinks", URL: https://badlands.substack.com/p/badlands-news-brief-050
@@ -50,3 +58,5 @@ In a letter dated January 22, 2023, [[mike-pence|Mike Pence]]'s lawyer Greg Jaco
 5. Badlands Brief — "Badlands News Brief: Archives, Shifty Schiff, PelosiGate and Durham Panic", URL: https://badlands.substack.com/p/badlands-news-brief-2a2
 6. Badlands Brief — "Badlands News Brief: Extra-Judicial Judges & Master Manipulating Monsters", URL: https://badlands.substack.com/p/badlands-news-brief-324
 7. Badlands News Brief — "Mutations, Laptops & Chinese Balloons", URL: https://badlands.substack.com/p/badlands-news-brief-3ae
+8. Badlands Brief — "Badlands News Brief: Crisis Cascades, Nordstream 3 & Bidenomics", URL: https://badlands.substack.com/p/badlands-news-brief-c18
+9. Badlands Brief — "Badlands News Brief: Soaring Eagles & Terminal USAIDs", URL: https://badlands.substack.com/p/badlands-news-brief-cf3

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [white-house, secret-service, biden-family, 2023]
-sources: [raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-652.md, raw/badlands-news-brief-b04.md]
+sources: [raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-652.md, raw/badlands-news-brief-b04.md, raw/badlands-news-brief-c50.md]
 confidence: medium
 ---
 
@@ -14,6 +14,10 @@ The White House cocaine incident refers to the July 2023 discovery of cocaine in
 
 ## Investigation
 
+### Initial confirmation (July 5, 2023)
+
+One day after leaked radio intercepts revealed that a "mystery" substance had been found over the weekend inside the [[white-house|White House]] — prompting a brief evacuation over hazmat fears and being described as "cocaine like" — the [[united-states-secret-service|U.S. Secret Service]] confirmed on Wednesday, July 5, 2023, that the powdery substance was cocaine.[4] Secret Service spokesman [[anthony-guglielmi|Anthony Guglielmi]] said the cocaine was discovered in an area of the West Wing lobby where individuals can store their phones.[4] Press Secretary [[karine-jean-pierre|Karine Jean-Pierre]] described the lobby that day as "a heavily traveled area" regularly accessed by both visitors and staff.[4] [[zerohedge|ZeroHedge]] reported that the discovery came hours after a visit by [[hunter-biden|Hunter Biden]].[4]
+
 On Monday, July 10, 2023, Secret Service spokesman [[anthony-guglielmi|Anthony Guglielmi]] told Breitbart News that the probe into who brought the cocaine into the White House was "still open and active at this time."[1] He said there was no suspect yet, adding that "something like that would come after an investigation is completed."[1] The [[house-oversight-committee|House Oversight Committee]] requested a briefing from the Secret Service by that Friday.[1]
 
 ## Badlands commentary
@@ -21,6 +25,8 @@ On Monday, July 10, 2023, Secret Service spokesman [[anthony-guglielmi|Anthony G
 Writing in the [[badlands-news-brief|Badlands News Brief]], [[ashe-in-america|Ashe in America]] argued that the official posture amounted to a cover-up.[1] She noted that press secretary [[karine-jean-pierre|Karine Jean-Pierre]] had made an easily disputed claim about President [[joe-biden|Joe Biden]]'s whereabouts and had called the question of whether the cocaine belonged to a Biden "irresponsible" — conduct Ashe characterized as lying to reporters and, by extension, the American people, and as impeachable by the standard applied to Bill Clinton.[1]
 
 She further argued that with every inch of the White House under surveillance and more than a week elapsed, investigators would already know the drug's origin, and that the continued absence of a suspect made it more likely the cocaine belonged to "the one known coke head with access to that area," [[hunter-biden|Hunter Biden]].[1] She compared the episode to the handling of the Hunter Biden laptop, concluding that it was "not an investigation at all."[1]
+
+[[burning-bright|Burning Bright]] wrote that the truth would likely never be separated from the psyop in this matter, "like so many other Narrative Deployments in the Info War," but that the episode had "Ghosts in the Machine written all over it."[4] He noted that Hunter Biden had been accompanying President [[joe-biden|Joe Biden]] on virtually all of his photo ops in recent weeks, bucking the trend of the administration's first year and change.[4] He also argued the story felt "TOO perfect for Patriots" given the timing alongside the Hunter Biden plea deal and the [[donald-trump|Trump]] indictments, which together highlighted a two-tier justice system.[4] He described "Hunter the coke head" as low-hanging fruit with significant memetic power — safe summer water-cooler and barbecue talk that continued to expose the hypocrisy of the first family and the media elites defending them.[4]
 
 ## FOIA documents and DNA claims (November 2023)
 
@@ -39,3 +45,4 @@ In May 2025, [[dan-bongino|Dan Bongino]], deputy director of the [[fbi|Federal B
 1. Badlands Brief — "Badlands News Brief: The DOJ's Hypocrisy, Zelensky's Failure and DeSantis' Decline", URL: https://badlands.substack.com/p/badlands-news-brief-3f0
 2. Badlands Brief — "Badlands News Brief: Cocaine & Climate Change", URL: https://badlands.substack.com/p/badlands-news-brief-652
 3. Badlands Brief — "China Joe Strikes Out & Trumpism on Trial", URL: https://badlands.substack.com/p/badlands-news-brief-b04
+4. Badlands Brief — "The Cocaine White House, False Flags & Free Speech", URL: https://badlands.substack.com/p/badlands-news-brief-c50

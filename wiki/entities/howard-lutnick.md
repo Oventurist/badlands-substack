@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [epstein, commerce, trump-administration, congress]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-0a2.md, raw/badlands-brief-7bf.md, raw/badlands-brief-7c6.md, raw/badlands-brief-959.md, raw/badlands-brief-eea.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-4fd.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-95a.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a5d.md, raw/badlands-news-brief-b53.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-0a2.md, raw/badlands-brief-7bf.md, raw/badlands-brief-7c6.md, raw/badlands-brief-959.md, raw/badlands-brief-eea.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-4fd.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-95a.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a5d.md, raw/badlands-news-brief-b53.md, raw/badlands-news-brief-cba.md]
 confidence: medium
 ---
 
@@ -93,6 +93,12 @@ In September 2025 Lutnick's [[department-of-commerce|Commerce Department]] abrup
 
 Badlands contributor [[jon-herold|Jon Herold]] argued that such headlines become comical once one understands [[switch-theory|switch theory]] and that the chips initiative was really [[donald-trump|Trump's]] to begin with.[15]
 
+## Comments on RFK Jr. and vaccines (October 2024)
+
+As co-chair of the Trump–Vance transition team, Lutnick said in a CNN interview with Kaitlan Collins on 30 October 2024 that [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] was seeking federal data in order to demonstrate that certain vaccines are unsafe.[16] He quoted Kennedy as saying that if the data were released and product liability protections were pulled, "the companies will yank these vaccines right off... of the market."[16] Lutnick simultaneously pushed back on reporting that Trump had promised Kennedy the post of Secretary of Health and Human Services, stating flatly, "He's not getting a job for HHS," and adding that Kennedy neither would receive nor wanted it.[16] He said he had recently spent about two and a half hours with Kennedy, who walked him through several vaccine-related theories that Lutnick said made sense to him.[16]
+
+Badlands commentary described Lutnick as having become "activated," pointing to a preceding interview with financial YouTuber Anthony Pompliano in which he recounted his rise through Wall Street in the 1980s and 1990s and the devastation he, his family and his colleagues suffered at Ground Zero on 9/11.[16] The same commentary noted his embrace of Bitcoin as a US stockpile asset and credited him as the figure behind Trump's tariff program, inspired by William McKinley.[16] It characterized him as one of several self-made billionaires who had shielded Trump at various points and who were being brought into public view in the closing days of the [[2024-us-general-election|2024 election]] — evidence, in the writer's view, that "the A Team is being assembled for Trump 2.0."[16]
+
 ## References
 
 1. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
@@ -110,3 +116,4 @@ Badlands contributor [[jon-herold|Jon Herold]] argued that such headlines become
 13. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6
 14. Badlands Brief — "Badlands News Brief: Our Boy Victim & Friends Without Benefits", URL: https://badlands.substack.com/p/badlands-news-brief-a5d
 15. Badlands Brief — "Hate Groups, Slush Funds, & Shut Downs", URL: https://badlands.substack.com/p/badlands-news-brief-b53
+16. Badlands Brief — "Badlands News Brief: Election-Mongering and Electioneering as Shenanigans Abound", URL: https://badlands.substack.com/p/badlands-news-brief-cba

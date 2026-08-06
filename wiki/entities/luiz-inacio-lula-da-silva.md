@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [brazil, brics, diplomacy, energy]
-sources: [raw/badlands-news-brief-966.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-bd7.md]
+sources: [raw/badlands-news-brief-966.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-d04.md]
 confidence: medium
 ---
 
@@ -30,7 +30,22 @@ On Tuesday, December 2, 2025, President [[donald-trump|Donald Trump]] told repor
 
 In a statement posted afterward, Trump said the two had discussed trade, cooperation against organized crime, the sanctions imposed on Brazilian dignitaries and tariffs, adding that the relationship established at a meeting at the United Nations "set the stage for very good dialogue and agreement long into the future" and that "much good will come out of this newly formed partnership."[3] Badlands contributor [[chris-paul|Chris Paul]] quipped that "Brazilian Joe Biden sounds like Our Boy."[3]
 
+## Call for a BRICS trade currency (April 2023)
+
+On April 13, 2023, Lula called on [[brics|BRICS]] nations to devise an alternative to the dollar in foreign trade, backing China's push against U.S. global economic dominance just as he prepared to meet Chinese president [[xi-jinping|Xi Jinping]] in Beijing.[4] He made the remarks during a visit to the Shanghai-based [[new-development-bank|New Development Bank]], the BRICS-created institution then newly headed by former Brazilian president [[dilma-rousseff|Dilma Rousseff]].[4]
+
+Badlands writer [[burning-bright|Burning Bright]] treated the episode as part of a slow-then-sudden paradigm shift in which the BRICS economies were displacing the [[g7|G7]], describing the transition as a planned demolition of the [[petrodollar|petrodollar]] and the globalist West.[4]
+
+
+## Refusal of tariff talks with Trump (August 2025)
+
+As US tariffs on Brazilian goods jumped to 50% on Wednesday, August 6, 2025, Lula told Reuters he saw no room for direct talks with [[donald-trump|Donald Trump]], which he said would likely amount to a "humiliation."[5] He stated that Brazil would not announce reciprocal tariffs and would not abandon cabinet-level negotiations, but that he personally was in no rush to call the White House.[5] "The day my intuition says Trump is ready to talk, I won't hesitate to call him," he said from his presidential residence in Brasilia. "But today my intuition says he doesn't want to talk. And I won't humiliate myself."[5]
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued the posture was itself humiliating, criticizing Lula for accepting a 50% tariff without negotiating and for moving to prosecute Bolsonaro over his own outreach to Trump.[5] He framed the episode as a demonstration that the United States does not need any particular trading partner, summarizing the MAGA message to the world as "We don't need you. You need us."[5]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Mockingbird Meltdowns & DOGE-Driven Dreams", URL: https://badlands.substack.com/p/badlands-news-brief-966
 2. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f
 3. Badlands Brief — "Bogus Visas, Brazilian Sanctions, and Foreign Boat Battles", URL: https://badlands.substack.com/p/badlands-news-brief-bd7
+4. Badlands Brief — "Badlands News Brief: Leak Shenanigans, Trump Seeds & Woke Broke", URL: https://badlands.substack.com/p/badlands-news-brief-cdb
+5. Badlands Brief — "Global Struggles, Civil Alliances, & the Penalty for Treason", URL: https://badlands.substack.com/p/badlands-news-brief-d04

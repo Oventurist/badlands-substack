@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [health, medical-organizations, vaccines, litigation]
-sources: [raw/badlands-brief-9eb.md]
+sources: [raw/badlands-brief-9eb.md, raw/badlands-news-brief-cad.md]
 confidence: medium
 ---
 
@@ -18,6 +18,11 @@ The Academy, joined by other medical organizations, sued over the administration
 
 U.S. District Judge Brian Murphy, sitting in Boston, sided with the Academy and its co-plaintiffs in a ruling issued in March 2026, halting parts of the policy and staying the replacement advisers' appointments and further policy votes.[1]
 
+## Federal grant terminations, December 2025
+
+In December 2025 the [[department-of-health-and-human-services|Department of Health and Human Services]] canceled seven federal grants worth millions of dollars to the Academy, citing misalignment with agency priorities.[2] Officials pointed to the group's use of "identity-based language," including references to racial disparities and "pregnant people," and to insufficient emphasis in at least one program on nutrition and chronic disease prevention; three grants came from the [[centers-for-disease-control-and-prevention|CDC]] and four from the Health Resources and Services Administration.[2] CDC Office of Grants Services Director Jamie Legier wrote that "these elements are not incidental; they are woven through the title, narrative and work plans."[2] The AAP had been an outspoken critic of HHS Secretary [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] over unilateral vaccine policy changes and the dismissal of the CDC's independent vaccine advisers.[2]
+
 ## References
 
 1. Badlands Brief — "Dems Demand a Post-Trump Strategy as Hamas Haggles for Peace", URL: https://badlands.substack.com/p/badlands-brief-9eb
+2. Badlands Brief — "A Christmas Bonus, War “With” Venezuela, & Prime Time Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-cad

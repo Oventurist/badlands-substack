@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, israel, netanyahu, democrats]
-sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-029.md, raw/badlands-brief-618.md, raw/badlands-brief-8c2.md, raw/badlands-brief-990.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-373.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-50a.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-860.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-029.md, raw/badlands-brief-618.md, raw/badlands-brief-8c2.md, raw/badlands-brief-990.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-373.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-50a.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-c6a.md]
 confidence: medium
 ---
 
@@ -93,6 +93,12 @@ On March 7, 2023, Schumer publicly urged [[rupert-murdoch|Rupert Murdoch]] to in
 
 In an October 2024 Badlands commentary on U.S.–Israel relations, contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] cautioned readers not to believe the apparent public friction between Democrats and [[benjamin-netanyahu|Benjamin Netanyahu]], asserting that the person who crafted the first target list for the [[patriot-act|Patriot Act]] apparatus was Schumer, and that the first group taken down was a Palestinian political faction on Netanyahu's list of enemies.[19] The argument advanced was that Schumer and congressional Democrats worked with the Bush administration on the Patriot Act and prioritised using the U.S. military and intelligence national-security apparatus against Israel's perceived enemies.[19]
 
+## March 2025 leadership backlash
+
+In March 2025, Schumer defied calls to step down as Senate minority leader after voting in favor of a GOP-backed government funding bill.[20] Roughly 100 protestors gathered outside his Brooklyn home on a Sunday, holding signs including one that read "Lost spine, if found please return to Chuck."[20] [[indivisible|Indivisible]] Brooklyn, the liberal group that organized the protest, said the vote showed a "devastating lack of leadership as he capitulated to Trump, Musk and the GOP during negotiations over government funding," and added that "It's time for new leadership in the Senate that will fight fascism tooth and nail."[20] Schumer repeatedly explained that he voted for the bill to avoid "the horror of a [government] shutdown," while House Democrats including [[nancy-pelosi|Nancy Pelosi]] began questioning his leadership.[20]
+
+[[ashe-in-america|Ashe in America]] wrote that the episode is "what happens when you, for political power, create a monster you can't control," pointing to a Bernie Sanders–AOC rally in Denver where attendees were recorded calling for assassinations of political leaders, and cautioned that while Schumer was "getting his just desserts," the activists were "legitimately dangerous" and he should not underestimate them.[20]
+
 ## References
 
 1. Badlands Brief — "And Iran, Iran So Far Away", URL: https://badlands.substack.com/p/and-iran-iran-so-far-away
@@ -114,3 +120,4 @@ In an October 2024 Badlands commentary on U.S.–Israel relations, contributor [
 17. Badlands Brief — "Badlands News Brief: Missing Planes, Missing Funds & Missing Metrics", URL: https://badlands.substack.com/p/badlands-news-brief-82f
 18. Badlands Brief — "Badlands News Brief: January 6 and Nord Stream Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-8f4
 19. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
+20. Badlands Brief — "SCOTUS Examines Slushy Subsidies as Speaker Weighs Abolishing Courts", URL: https://badlands.substack.com/p/badlands-news-brief-c6a

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, progressives, democrats, aipac, primaries]
-sources: [raw/badlands-news-brief-040.md]
+sources: [raw/badlands-news-brief-040.md, raw/badlands-news-brief-ce5.md]
 confidence: medium
 ---
 
@@ -22,5 +22,12 @@ Bush's loss, coming after Bowman's, convinced progressive Democrats that the str
 
 In the *Badlands News Brief*, [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] described Bush and Bowman as compromised actors likely financed by oligarchs such as [[george-soros|George Soros]], and read their defeat as a scripted phase in a broader controlled-opposition arrangement around Israel policy.[1]
 
+## Indictment of her husband (March 2025)
+
+On March 20, 2025, Bush's husband [[cortney-merritts|Cortney Merritts]], whom she secretly married in 2023, was charged with defrauding the federal government to illegally collect tens of thousands of dollars in loans under COVID-era small business relief programs.[2] According to the [[department-of-justice|Department of Justice]], Merritts falsified details about his purported businesses to obtain more than $20,000 from the Small Business Administration in 2020 and 2021 under the Paycheck Protection Program and the Economic Injury Disaster Loan Program.[2]
+
 ## References
 1. Badlands Brief — "The Regime is Totally Winning Amidst Continued Meltdown", URL: https://badlands.substack.com/p/badlands-news-brief-040
+
+
+2. Badlands Brief — "Badlands News Brief: Calibrating Education, Recalculating Commands, & Countering Currency Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-ce5

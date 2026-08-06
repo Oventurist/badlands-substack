@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [prosecutor, new-york, manhattan-district-attorney, crime]
-sources: [raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-907.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-b64.md]
+sources: [raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-907.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-b64.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-ccd.md, raw/badlands-news-brief-cb9.md]
 confidence: medium
 ---
 
@@ -91,6 +91,24 @@ Commentators tied the episode to Bragg's broader record, beginning with his Day 
 Badlands Media's [[burning-bright|Burning Bright]] argued that Bragg had "quickly shifted from hero of the Left to national laughing stock" — hated by the Right for partisan lawfare and by the Left for failing to consummate their anti-Trump fantasies — and that the public exposure of a corrupt and partisan establishment justice system was a significant net effect of [[donald-trump|Donald Trump]]'s narrative mastery.[14] Burning Bright further read Bragg's public meltdown, which specifically referenced Trump's own seeding of the indictment narrative, as evidence that the indictment story had been deployed deliberately to smoke out adversaries and pre-empt a media shock-and-awe campaign.[14]
 
 
+## House Judiciary Manhattan crime hearing (April 2023)
+
+On Monday, April 10, 2023, Republicans on the [[house-judiciary-committee|House Judiciary Committee]] announced the [[2023-house-judiciary-manhattan-crime-hearing|2023 House Judiciary Manhattan crime hearing]], a field hearing in New York City on "victims of violent crime in Manhattan" whose notice named Bragg directly and stated it would examine how his "pro-crime, anti-victim policies have led to an increase in violent crime and a dangerous community for New York City residents."[15] The notice cited Bragg's investigation of former President [[donald-trump|Donald Trump]], which had produced a historic indictment at the end of March 2023.[15] A Bragg spokesperson called the hearing a "political stunt" that would not "engage in actual efforts to increase public safety, such as supporting national gun legislation and shutting down the iron pipeline," and pointed to improvements in some categories of violent crime in Manhattan since Bragg took office.[15]
+
+Badlands writer [[ryan-delarme|Ryan DeLarme]] disputed the "safest big city in America" framing attributed to Bragg, arguing that New York City registers as safer only because Bragg downgrades felonies to misdemeanors for violent crimes, and quipping that "if it doesn't involve Trump, it's not a felony."[15]
+
+## Deferral on Trump sentencing (August 2024)
+
+In August 2024, Bragg's office took no position on [[donald-trump|Donald Trump]]'s request to delay sentencing in the [[trump-hush-money-case|hush money case]] until after the November election, saying in a letter that it would defer to Judge [[juan-merchan|Juan Merchan]].[16] [[ashe-in-america|Ashe in America]] described the move as weird in any case — lawyers love to argue, and sitting out the motions cycle waived the prosecution's right to put its position on the record — and downright puzzling given that the matter was the sentencing of Trump in what the regime regarded as one of its greatest perceived victories against him.[16] She noted the office's stated mindfulness that "significant public safety and logistical steps by multiple agencies are necessary to prepare for court appearances in this matter," conceding the district attorney was not wrong about public safety threats while doubting the resulting narrative would reflect genuine concern about the reaction of the left once Trump's immunity claims were granted.[16]
+
+## Arraignment planning and the Vance precedent (March 2023)
+
+As law enforcement met on March 20, 2023 to plan the logistics of a possible arraignment of [[donald-trump|Donald Trump]], sources indicated the [[manhattan-district-attorneys-office|Manhattan District Attorney's Office]] under Bragg did not expect an arraignment before the following week, with another grand jury witness scheduled that Wednesday; Bragg was said to oppose any virtual arraignment.[17] [[just-human|Just Human]] predicted Bragg would repeatedly delay and eventually dismiss the grand jury without an indictment, drawing a direct parallel to [[cyrus-vance-jr|Cy Vance]]'s failed effort, and argued Bragg faced "fire on both sides of the door" — humiliation if he failed to charge, and a dismissible case plus a strengthened Trump if he did.[17] See [[trump-hush-money-case|the Trump hush-money case]].[17]
+
+## Arraignment planning and the Vance precedent (March 2023)
+
+As law enforcement met on March 20, 2023 to plan the logistics of a possible arraignment of [[donald-trump|Donald Trump]], sources indicated the [[manhattan-district-attorneys-office|Manhattan District Attorney's Office]] under Bragg did not expect an arraignment before the following week, with another grand jury witness scheduled that Wednesday; Bragg was said to oppose any virtual arraignment.[17] [[just-human|Just Human]] predicted Bragg would repeatedly delay and eventually dismiss the grand jury without an indictment, drawing a direct parallel to [[cyrus-vance-jr|Cy Vance]]'s failed effort, and argued Bragg faced "fire on both sides of the door" — humiliation if he failed to charge, and a dismissible case plus a strengthened Trump if he did.[17] See [[trump-hush-money-case|the Trump hush-money case]].[17]
+
 ## References
 
 1. Badlands Media — "Badlands News Brief: Based Bodegas, Limp Sanctions & Scared Bankers", URL: https://badlands.substack.com/p/badlands-news-brief-0cd
@@ -107,3 +125,6 @@ Badlands Media's [[burning-bright|Burning Bright]] argued that Bragg had "quickl
 12. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e
 13. Badlands Brief — "Badlands News Brief: Trump Arrest ... Panic or No Panic?", URL: https://badlands.substack.com/p/badlands-news-brief-9e8
 14. Badlands Brief — "Badlands News Brief: Bragg's Panic, Trump's Calm & China's Proposal", URL: https://badlands.substack.com/p/badlands-news-brief-b64
+15. Badlands Brief — "Badlands News Brief: The France Dance, Crime & J6 Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-c9a
+16. Badlands News Brief — "The DNC Comes to Town ... And Gets Weird", URL: https://badlands.substack.com/p/badlands-news-brief-ccd
+17. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9

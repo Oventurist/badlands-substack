@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [neoconservative, nato, ukraine, state-department]
-sources: [raw/a-bright-red-line.md, raw/a-dereliction-of-duty.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-7db.md, raw/badlands-news-brief-a38.md]
+sources: [raw/a-bright-red-line.md, raw/a-dereliction-of-duty.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-7db.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-ce1.md]
 confidence: medium
 ---
 
@@ -42,6 +42,10 @@ Her announced temporary replacement was career diplomat [[john-bass|John Bass]],
 
 Badlands Media commentary published in April 2024 cited Nuland — derisively called "Tori 'The War Pig' Nuland" — as the official who "let the cat out of the bag" regarding biological research facilities in [[ukraine|Ukraine]], after what the writer described as breathless media denials that such laboratories existed.[7]
 
+## 2024 Badlands commentary
+
+In September 2024 commentary on U.S. policy toward the Ukraine war, Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] speculated that officials at the [[state-department|State Department]] such as Nuland were driven by an attachment to what he called the Khazarian, or Pale of Settlement, homeland in the Russian borderlands — an interpretation he attributed in part to remarks by Colonel [[douglas-macgregor|Douglas Macgregor]] in an interview with [[tucker-carlson|Tucker Carlson]].[8]
+
 ## References
 
 1. Badlands Brief — "A Bright Red Line", URL: https://badlands.substack.com/p/a-bright-red-line
@@ -51,3 +55,4 @@ Badlands Media commentary published in April 2024 cited Nuland — derisively ca
 5. Badlands Brief — "Musk the Peacemaker, Constitutional Overreach & POTATUS", URL: https://badlands.substack.com/p/badlands-news-brief-670
 6. Badlands Brief — "Badlands News Brief: Nuland Neutered, Biden Blasted and Trump Triumphant", URL: https://badlands.substack.com/p/badlands-news-brief-7db
 7. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38
+8. Badlands Brief — "Badlands News Brief: Trump Sends Comms as Diddlers Get Indicted", URL: https://badlands.substack.com/p/badlands-news-brief-ce1

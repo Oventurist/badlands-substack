@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [defense-policy, congress, legislation, industrial-policy]
-sources: [raw/badlands-brief-a9f.md, raw/badlands-brief-c2d.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-b98.md]
+sources: [raw/badlands-brief-a9f.md, raw/badlands-brief-c2d.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-b98.md, raw/badlands-news-brief-cce.md]
 confidence: medium
 ---
 
@@ -39,10 +39,15 @@ The FY2026 NDAA also constrained the [[pentagon|Pentagon]]'s ability to draw dow
 
 During final House negotiations in December 2025, the bipartisan [[road-to-housing-act|ROAD to Housing Act]] was stripped from the NDAA; the House-passed version, HR 3838, excluded the ROAD amendment.[4] Advocates had described the housing measure as the most significant federal housing reform in a decade, and its removal delayed the reform indefinitely.[4] Badlands commentator [[jon-herold|Jon Herold]] noted that the bill ran to 3,088 pages and that it remained unclear what lawmakers would ultimately vote on.[4]
 
+## FY2024 bill and the Section 702 extension
+
+The defense policy bill passed by the House on Thursday, December 14, 2023 and sent to the president's desk included a measure extending [[section-702|Section 702]] of the [[foreign-intelligence-surveillance-act|Foreign Intelligence Surveillance Act]] until mid-April 2024.[5] The inclusion averted an end-of-year lapse of the warrantless surveillance authority but prolonged the fight over whether a warrant should be required before the government reviews already-collected information about Americans, and several conservative lawmakers voiced frustration that the provision rode on a must-pass bill.[5] Badlands commentary noted that 118 House Republicans opposed the measure while a bipartisan majority of [[congress|Congress]] allowed the authority to continue.[5]
+
 ## References
 
 1. Badlands Brief — "FaKKKe Racists Plead Not Guilty & You Can Expect More Dugans", URL: https://badlands.substack.com/p/badlands-brief-a9f
 2. Badlands Brief — "Fake News Propaganda Exposed, Iranian Investment Opportunities, and Talibros in Moscow", URL: https://badlands.substack.com/p/badlands-brief-c2d
 3. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951
 4. Badlands Brief — "Badlands News Brief: Blue Flips, Hails Mary, & Greasy Trolls", URL: https://badlands.substack.com/p/badlands-news-brief-b98
+5. Badlands Brief — "Badlands News Brief: The System of Systems is a House of Cards", URL: https://badlands.substack.com/p/badlands-news-brief-cce
 

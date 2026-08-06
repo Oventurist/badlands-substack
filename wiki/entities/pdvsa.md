@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [pdvsa, venezuela, oil, embezzlement, money-laundering]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-95a.md, raw/badlands-brief-d17.md, raw/badlands-brief-d9f.md, raw/badlands-brief-e8d.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-95a.md, raw/badlands-brief-d17.md, raw/badlands-brief-d9f.md, raw/badlands-brief-e8d.md, raw/badlands-news-brief-cad.md]
 confidence: low
 ---
 
@@ -37,6 +37,12 @@ In early January 2026, PDVSA asked some joint-venture partners to reduce oil out
 
 The cutbacks came as energy markets weighed whether sanctions relief following [[operation-absolute-resolve|Operation Absolute Resolve]] could allow increased Venezuelan output.[5] Morningstar analyst Joshua Aguilar said the firm's oil price forecasts would not change, since Venezuela requires years of large capital investment to modernize its oil infrastructure, adding that "regime changes rarely lead to rapid investment and stabilizing supply, particularly as opposing factions vie for power."[5]
 
+## Citgo ownership and the December 2025 forced sale
+
+Badlands reporting in December 2025 described [[citgo|Citgo]] — the holder of the Venezuelan oil rights at issue in Washington's confrontation with Caracas — as owned by PDVSA, the Venezuelan state oil company.[6] That ownership was disrupted when US judges ordered [[venezuela|Venezuela]] to sell Citgo to satisfy owed debts, a court order issued on December 2, 2025.[6]
+
+An exemption granted by President [[donald-trump|Donald Trump]] to Citgo from the 2019 Venezuela sanctions forbids the company from paying taxes or fees to the Venezuelan government for the oil, but does permit Citgo to give PDVSA crude oil, which PDVSA can then sell for money — an arrangement Badlands contributors flagged as evidence that the public narrative around the standoff is incomplete.[6]
+
 ## References
 
 1. Badlands Brief — "Arctic Escalation and Tropic Trouble for the Financial System", URL: https://badlands.substack.com/p/badlands-brief-02a
@@ -44,3 +50,4 @@ The cutbacks came as energy markets weighed whether sanctions relief following [
 3. Badlands Brief — "Devolucion, Sedition, Somalis, and Patagonia Pyros", URL: https://badlands.substack.com/p/badlands-brief-d17
 4. Badlands Brief — "Dueling Color Revolutions, Economic Escalation, & Superseding Somali Scams", URL: https://badlands.substack.com/p/badlands-brief-d9f
 5. Badlands Brief — "Miraflores New Tenant, Walz Awakens, & Kelly's Court Martial", URL: https://badlands.substack.com/p/badlands-brief-e8d
+6. Badlands Brief — "A Christmas Bonus, War “With” Venezuela, & Prime Time Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-cad

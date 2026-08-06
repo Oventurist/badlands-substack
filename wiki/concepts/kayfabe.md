@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [narrative-warfare, trump, media, information-war]
-sources: [raw/badlands-brief-0a2.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-42e.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-c4f.md]
 confidence: medium
 ---
 
@@ -36,12 +36,17 @@ In May 2023, Badlands commentator [[burning-bright|Burning Bright]] applied the 
 ## Trump–DeSantis feud (May 2023)
 
 The same commentary treated the escalating [[donald-trump|Trump]]–[[ron-desantis|DeSantis]] feud as a question whose authenticity did not matter for practical purposes, arguing that Trump remained the past, present and immediate future of the [[america-first-movement|America First movement]] and that anyone attempting to move supporters off the Trump train was seeking to divide rather than unify.[4]
-
+
+
 ## 2024 Republican National Convention and the CrowdStrike outage
 
 Kayfabe became a recurring frame in Badlands Media commentary in July 2024. [[ashe-in-america|Ashe in America]] wrote that on that Friday's Liberty Den the team had discussed "the layers of kayfabe within our reality," adding that she was "significantly more comfortable with the concept" after [[hulk-hogan|Hulk Hogan]] tore his shirt off at the [[2024-republican-national-convention|Republican National Convention]].[5] Hogan's performance was itself a demonstration of the technique: he flexed and revealed a "Trump/Vance 2024" tank top in character, then stepped out of it to speak as Terry Bollea about his friendship with [[donald-trump|Donald Trump]], before returning to character to coin "[[trumpamania|Trumpmania]]."[5]
 
 Applying the concept to the [[2024-crowdstrike-global-outage|CrowdStrike global outage]], Ashe noted that kayfabe is "intended to entertain and elicit certain reactions from the audience" and judged the outage's effect on public awareness of smart devices and networked voting equipment to be "brilliant."[5]
+
+## Trump-Mamdani meeting (2025)
+
+Badlands host GhostofBasedPatrickHenry opened his November 2025 show *Geopolitics with Ghost* with a rant about "Trump-a-Mania" and how President [[donald-trump|Trump]] operates in the information battlespace in relation to an ever-growing cast of television characters and the concept of kayfabe.[6] The subsequent [[white-house|White House]] meeting between Trump and incoming New York City Mayor [[zohran-mamdani|Zohran Mamdani]], followed by [[marjorie-taylor-greene|Marjorie Taylor Greene]]'s announced resignation from [[congress|Congress]], made the framing feel serendipitous to him.[6] He argued it is reasonable to assume most of the television characters respond at all times to an incentive structure laid out before them, and that the real question is who controls that incentive structure — the opportunity to influence specific figures' decision-making being at the heart of game theory.[6] Control comes in many forms, he wrote, and audiences should not be quick to dismiss a character merely because their ostensible branding is an identity trained to be hated, such as "communist"; even characters who earnestly hold antithetical doctrines can serve a useful purpose.[6]
 
 ## References
 1. Badlands Brief — "A Virtual Smash & Grab & Another Impeachment Hoax", URL: https://badlands.substack.com/p/badlands-brief-0a2
@@ -49,3 +54,4 @@ Applying the concept to the [[2024-crowdstrike-global-outage|CrowdStrike global 
 3. Badlands News Brief — "Congressional Kayfabe, Independent Dems & Fire Alarms", URL: https://badlands.substack.com/p/badlands-news-brief-2a9
 4. Badlands News Brief — "FBI Corruption, Kayfabe & Russia, Russia, Russia!", URL: https://badlands.substack.com/p/badlands-news-brief-38a
 5. Badlands Brief — "Badlands News Brief: Change of Batter, Indeed …", URL: https://badlands.substack.com/p/badlands-news-brief-42e
+6. Badlands News Brief — "Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f

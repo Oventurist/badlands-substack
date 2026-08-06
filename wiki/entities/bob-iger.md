@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [disney, hollywood, executives, media]
-sources: [raw/badlands-news-brief-47a.md, raw/badlands-news-brief-4c3.md]
+sources: [raw/badlands-news-brief-47a.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-c74.md]
 confidence: medium
 ---
 
@@ -25,3 +25,4 @@ In March 2024, The Hollywood Reporter ran the headline "Bob Iger's Invincible Er
 ## References
 1. Badlands Brief — "Badlands News Brief: The System of Systems Fades ... and Fights", URL: https://badlands.substack.com/p/badlands-news-brief-47a
 2. Badlands News Brief — "Trump Counters, SBF Pleads & Disney Dies?", URL: https://badlands.substack.com/p/badlands-news-brief-4c3
+3. Badlands Brief — "Badlands News Brief: The Mask Comes off as the Nation Watches", URL: https://badlands.substack.com/p/badlands-news-brief-c74

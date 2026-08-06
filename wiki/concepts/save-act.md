@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [legislation, elections, citizenship, congress]
-sources: [raw/badlands-brief-5a2.md, raw/badlands-brief-733.md, raw/badlands-brief-ac2.md, raw/badlands-brief-bb1.md]
+sources: [raw/badlands-brief-5a2.md, raw/badlands-brief-733.md, raw/badlands-brief-ac2.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-cf2.md]
 confidence: medium
 ---
 
@@ -39,8 +39,15 @@ During the partial government shutdown that began on January 31, 2026, a bloc of
 
 After late mail ballots reversed the election-night result in the [[2026-los-angeles-mayoral-election|2026 Los Angeles mayoral race]], President [[donald-trump|Donald Trump]] and congressional Republicans used the episode to renew calls for the SAVE Act and other measures requiring proof of citizenship and stricter voter identification.[4] Administration officials pointed to California's multi-week counting process and the [[red-mirage|Red Mirage]] pattern as evidence of potential fraud, while the state's top federal prosecutor in Los Angeles said his office had multiple election-fraud investigations underway.[4]
 
+## Senate debate over married women (April 2025)
+
+As the Safeguard American Voter Eligibility Act headed to the Senate in April 2025, debate grew over how the bill might affect voting by millions of married women, particularly those who have changed their last names.[5] The legislation, introduced in response to fears about voter fraud, seeks sweeping reforms to voter registration, most notably a requirement to prove US citizenship before registering.[5] Opponents argued the measure amounted to voter suppression; Democratic Representative [[ilhan-omar|Ilhan Omar]] of Minnesota wrote on social media that "This voter suppression bill will disenfranchise millions of voters, especially married women."[5]
+
+Badlands commentary offered two responses. One held that eliminating the secret ballot would remove the need for voter ID altogether, since people would then be accountable for voting while ineligible.[5] The other argued that critics such as Omar raise married women because the SAVE Act has the potential to identify and prosecute fake voters, and because the public broadly supports the principle that only eligible voters should vote.[5] That commentary contended that keeping illegal, dead, fabricated or otherwise ineligible voters on the rolls sustains an election fraud machine, that long-promised government eligibility checks have repeatedly been shown not to occur meaningfully, and that field registration drives by groups such as Rock the Vote and figures like Michele Obama and Scott Presler do not verify eligibility.[5] It concluded that after years of relaxed registration controls the establishment is watching its machine be exposed and dismantled, leaving "think of the married women!" as its only acceptable argument — from the same actors, the writer said, who demanded vaccine papers to buy food.[5]
+
 ## References
 1. Badlands Brief — "Tina Peters' Sentence Commuted; ISIS Killed in Africa", URL: https://badlands.substack.com/p/badlands-brief-5a2
 2. Badlands Brief — "The Boons & Blessings of Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-733
 3. Badlands Brief — "NeoCon Goggles & Phantom Whistleblowers", URL: https://badlands.substack.com/p/badlands-brief-ac2
 4. Badlands Brief — "Peaceful Retaliations, Futuristic Fusions and Based Puritans", URL: https://badlands.substack.com/p/badlands-brief-bb1
+5. Badlands Brief — "Badlands News Brief: Witkoff Woos a Win & Women Go to Space", URL: https://badlands.substack.com/p/badlands-news-brief-cf2

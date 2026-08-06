@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [government, economics, labor, statistics]
-sources: [raw/a-time-to-strike.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-817.md]
+sources: [raw/a-time-to-strike.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-cf3.md]
 confidence: medium
 ---
 
@@ -39,3 +39,9 @@ The BLS was largely idle for the duration of the 40-plus-day [[october-2025-gove
 2. Badlands Brief — "Rare Earths, Rogue Judges, & Record Downward Revisions", URL: https://badlands.substack.com/p/badlands-news-brief-030
 3. Badlands News Brief — "Lake Lasts, Biden Slumps & Powell Blinks", URL: https://badlands.substack.com/p/badlands-news-brief-050
 4. Badlands Brief — "Badlands News Brief: MAGA Cracks, Fund Funnels, & Devilish Bees", URL: https://badlands.substack.com/p/badlands-news-brief-817
+
+## January 2025 jobs report
+
+According to the Bureau of Labor Statistics report for January 2025, American job growth slowed after months of robust gains, a result experts called "a mixed bag" for the US housing market.[5] Coverage noted the strong correlation between housing and labour markets, since lower unemployment is generally linked to increased housing demand as workers gain home-buying power; although the job market had been strong and unemployment low in preceding years, home prices had appreciated faster than wages, eroding purchasing power.[5] The January report showed wages rising faster than inflation, with average hourly earnings up 4.1 percent year-over-year against headline inflation of 2.9 percent in December.[5] The [[white-house|White House]], through press secretary [[karoline-leavitt|Karoline Leavitt]], used the report to argue that "the Biden economy was far worse than anyone thought."[5]
+
+5. Badlands Brief — "Badlands News Brief: Soaring Eagles & Terminal USAIDs", URL: https://badlands.substack.com/p/badlands-news-brief-cf3

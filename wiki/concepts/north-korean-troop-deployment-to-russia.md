@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [north-korea, russia, ukraine-war, south-korea, intelligence]
-sources: [raw/badlands-news-brief-27c.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-536.md, raw/badlands-news-brief-719.md]
+sources: [raw/badlands-news-brief-27c.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-536.md, raw/badlands-news-brief-719.md, raw/badlands-news-brief-cba.md]
 confidence: medium
 ---
 
@@ -50,8 +50,15 @@ North Korean leader [[kim-jong-un|Kim Jong Un]] ordered the deployment under the
 
 [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote that the confirmation made him happy because the previous summer's "bromance" between Putin and Kim had "blossomed into a full-blown actual in the saga of the [[sovereign-alliance|Sovereign Alliance]]," adding: "Based, Mr Kim. Very based."[4]
 
+## US and South Korean demands for withdrawal (October 2024)
+
+On 30 October 2024, US defence secretary [[lloyd-austin|Lloyd Austin]] called on North Korea to withdraw its troops from Russia, speaking at the [[pentagon|Pentagon]] alongside his South Korean counterpart [[kim-yong-hyun|Kim Yong-hyun]].[5] Washington's assessment at the time was that 10,000 North Korean troops had been deployed for possible action against Ukrainian forces.[5] Austin said such personnel would be "co-belligerents" and that "you have every reason to believe that … they will be killed and wounded as a result of battle," echoing a [[white-house|White House]] statement that Pyongyang's forces would become "legitimate military targets" if they fought against Ukraine.[5] Despite the demand, Austin conceded there was a "good likelihood" Moscow would proceed regardless.[5]
+
+Speaking before the [[united-nations-security-council|UN Security Council]], US envoy [[robert-wood|Robert Wood]] framed the warning more starkly, saying Pyongyang's forces "will surely return in body bags" and advising [[kim-jong-un|Kim Jong-un]] to "think twice about engaging in such reckless and dangerous behaviour."[5] Reporting characterized the deployment as a significant escalation in a deepening Russia–North Korea political and military alliance that had grown as the Ukraine war dragged on.[5]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Abercreepy Elites Versus Sovereign Alliance Alpha Chads", URL: https://badlands.substack.com/p/badlands-news-brief-27c
 2. Badlands Brief — "Badlands News Brief: Energy EOs, Game-Changing AI, & Jewish Election Fraud", URL: https://badlands.substack.com/p/badlands-news-brief-32e
 3. Badlands Brief — "Orange Man Reruns & Scandals Galore", URL: https://badlands.substack.com/p/badlands-news-brief-536
 4. Badlands News Brief — "Atmospheric Phenomenon & Record Deportations", URL: https://badlands.substack.com/p/badlands-news-brief-719
+5. Badlands Brief — "Badlands News Brief: Election-Mongering and Electioneering as Shenanigans Abound", URL: https://badlands.substack.com/p/badlands-news-brief-cba

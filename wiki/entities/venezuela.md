@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [venezuela, icc, latin-america, maduro, sovereignty]
-sources: [raw/badlands-brief-245.md, raw/badlands-brief-1ef.md, raw/badlands-brief-52f.md, raw/badlands-brief-733.md, raw/badlands-brief-861.md, raw/badlands-brief-708.md, raw/badlands-brief-a89.md, raw/badlands-brief-ac2.md, raw/badlands-brief-b56.md, raw/badlands-brief-b82.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-a72.md]
+sources: [raw/badlands-brief-245.md, raw/badlands-brief-1ef.md, raw/badlands-brief-52f.md, raw/badlands-brief-733.md, raw/badlands-brief-861.md, raw/badlands-brief-708.md, raw/badlands-brief-a89.md, raw/badlands-brief-ac2.md, raw/badlands-brief-b56.md, raw/badlands-brief-b82.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-cf8.md]
 confidence: medium
 ---
 
@@ -105,6 +105,22 @@ In late March 2025, Secretary of State [[marco-rubio|Marco Rubio]] warned in Geo
 
 Badlands commentary connected the standoff to high-profile arrests of oil executives worldwide in corruption probes involving Venezuela, probes launched by [[nicolas-maduro|Nicolás Maduro]] in March 2017 after he received a "laptop from hell" from the scorned ex-wife of one of his oil executives, and speculated that Maduro and President [[donald-trump|Donald Trump]] might be cooperating to squeeze the players involved in Guyana and Venezuelan oil graft.[17]
 
+## December 2025 blockade and "oil rights" dispute
+
+In mid-December 2025 President [[donald-trump|Donald Trump]] announced a naval blockade on sanctioned tankers carrying Venezuelan crude and branded the government in Caracas a "foreign terrorist organization," accusing it of stealing US oil and other assets.[18] Speaking to reporters on December 17, Trump said "They took our oil rights. We had a lot of oil there... They threw our companies out, and we want it back," blaming earlier presidents for allowing Caracas to seize assets once held by American companies.[18]
+
+President [[nicolas-maduro|Nicolas Maduro]] responded in a televised address the same day, accusing Washington of seeking to overthrow his government, install a "puppet government" that "would not last even 47 hours," and turn the country into a colony to seize its natural wealth.[18] [[tucker-carlson|Tucker Carlson]] reported that members of [[congress|Congress]] had been briefed that a war with Venezuela was imminent and would be announced in Trump's December 17 primetime address, which in the event made no mention of the country.[18]
+
+Badlands analysis stressed that the ownership picture behind the "oil rights" rhetoric is more tangled than the official story: [[exxonmobil|Exxon]] has held no Venezuelan oil rights since 2007 and instead operates in neighboring [[guyana|Guyana]], which shares territorial waters with Venezuela; the Venezuelan rights sit with [[citgo|Citgo]], which acquired [[hess-corporation|Hess]] in July 2025 and is itself owned by the state oil company [[pdvsa|PDVSA]] — until a US court order of December 2, 2025 forced a sale to satisfy debts.[18] Representative [[thomas-massie|Thomas Massie]] noted that the assets Trump described as stolen were oil company projects nationalized by Venezuela two decades earlier.[18]
+
+## B-1 bomber flights and strike authority debate (October 2025)
+
+On Thursday, October 23, 2025, the United States flew Air Force [[b-1-lancer|B-1 bombers]] near Venezuela, stepping up pressure on President [[nicolas-maduro|Nicolás Maduro]] only days after other American warplanes carried out an "attack demonstration" near the country.[19] Two B-1 Lancers took off from Dyess Air Force Base in Texas and flew near Venezuela while remaining in international airspace, according to a U.S. official and flight-tracking data; the aircraft were not moved to bases in the region because they can reach anywhere in the Caribbean from the continental United States.[19] President [[donald-trump|Donald Trump]] denied the report, saying: "No, that's not accurate. But we're not happy with Venezuela."[19]
+
+The same day, Trump insisted he could continue launching strikes against alleged drug traffickers abroad without [[congress|Congress]] first passing a declaration of war, saying "I'm not going to necessarily ask for a declaration of war" and that "we're just going to kill people that are bringing drugs into our country."[19] He suggested his administration would soon begin targeting those deemed cartel members inside countries like Venezuela, in addition to continuing strikes on alleged drug boats in international waters, while saying he would notify Congress before any operations on land.[19]
+
+Badlands contributor [[chris-paul|Chris Paul]] wrote that the Venezuela war story was going badly for the warmongers and for those who believe it is America's business to dictate who leads a faraway country.[19] [[burning-bright|Burning Bright]] argued that Trump's frequent posting was evidence against imminent escalation rather than for it, writing that whenever readers worry about "fake WW3 or fake nukes," they should look at Trump's timeline: "He feels fine."[19] [[ashe-in-america|Ashe in America]] said the warning to drug runners was adequate and asked what the penalty should be for those who run policy and legislation on behalf of the cartels.[19]
+
 ## References
 1. Badlands Brief — "Trump Roasts The Press; Teases 2028 Run", URL: https://badlands.substack.com/p/badlands-brief-245
 2. Badlands Brief — "Self Incrimination, Crime Magnets, & Gay Tourism", URL: https://badlands.substack.com/p/badlands-brief-1ef
@@ -123,3 +139,5 @@ Badlands commentary connected the standoff to high-profile arrests of oil execut
 15. Badlands Brief — "Brennan Decries Judge Shopping & JD Says It's Okay to Be White!", URL: https://badlands.substack.com/p/badlands-news-brief-795
 16. Badlands Brief — "Badlands News Brief: Saudi Scoops, Slender Stabbers, & Scorned Scouts", URL: https://badlands.substack.com/p/badlands-news-brief-824
 17. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72
+18. Badlands Brief — "A Christmas Bonus, War “With” Venezuela, & Prime Time Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-cad
+19. Badlands Brief — "Badlands News Brief: B-Ball Bets, Bomber Busts, & 'Bipartisan' Bill Blockage", URL: https://badlands.substack.com/p/badlands-news-brief-cf8

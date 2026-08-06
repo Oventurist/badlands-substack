@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [free-speech, scotland, hate-crime-law, gender-ideology, censorship]
-sources: [raw/badlands-news-brief-2db.md]
+sources: [raw/badlands-news-brief-2db.md, raw/badlands-news-brief-d00.md]
 confidence: medium
 ---
 
@@ -26,5 +26,12 @@ Senior police officers expected a deluge of complaints over online posts once th
 
 Writing in the [[badlands-news-brief|Badlands News Brief]], [[simon-esler|Simon Esler]] linked the Act to [[justin-trudeau|Justin Trudeau]]'s Online Harms Bill in [[canada|Canada]], arguing that the synchronized rollout revealed "an apolitical, globalist enemy attacking the very concept of the sovereign nation state."[1] Esler contended that such laws are dangerous chiefly in precedent, being vague and largely unenforceable — pointing to Ontario provisions in force since around 2017 that classify misgendering as a hate crime yet produced no wave of arrests.[1] In his analysis, "woke philosophy is inherently cannibalistic," its illogical nature causing it to consume itself, which is one reason the resulting laws are hard to enforce.[1] He suggested the creation of "maddening, unenforceable laws" is intended more for psychological impact than as functional lawfare, since the enforcing side lacks "the ready, willing and able army of foot soldiers" needed to confront what he called the anti-woke global majority, forcing reliance on cognitive warfare.[1] His conclusion was that belief in the false authority of officials, and a lack of citizens prepared to stand up for themselves, are what make such laws dangerous — "not the laws themselves."[1]
 
+## Weaponization in the first days (April 2024)
+
+[[police-scotland|Police Scotland]] was deluged with nearly 4,000 complaints in the first day alone after the law's passage, which critics said demonstrated that the legislation was being weaponized by activists.[2] Under the legislation, anyone deemed to have been verbally "abusive" — in person or online — to a transgender person, including "insulting" them, could face a prison sentence of up to seven years.[2] Transgender activists compiled lists of people they were waiting on to make such comments, including author [[jk-rowling|J.K. Rowling]], who was ultimately not investigated although the report alone could create a permanent "hate incident" file.[2]
+
+[[simon-esler|Simon Esler]] of [[badlands-media|Badlands Media]] argued that mass reporting should not be conflated with mass arrests, that the first 24 hours had already exposed the law as impractical, and that it was therefore largely symbolic — a [[deep-state|Deep State]]-style illusion of losing rights the authorities have no real power over.[2]
+
 ## References
 1. Badlands News Brief — "Trump Counters, Musk Sues & Biden Lies", URL: https://badlands.substack.com/p/badlands-news-brief-2db
+2. Badlands Brief — "Badlands News Brief: Ukrai-NATO Spins Up as Wokeness Spirals", URL: https://badlands.substack.com/p/badlands-news-brief-d00

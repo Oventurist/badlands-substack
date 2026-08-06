@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [north-korea, russia, ukraine-war, kursk, badlands-brief]
-sources: [raw/badlands-brief-9f2.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-a0c.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-b22.md, raw/badlands-news-brief-bbb.md]
+sources: [raw/badlands-brief-9f2.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-a0c.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-b22.md, raw/badlands-news-brief-bbb.md, raw/badlands-news-brief-cf3.md]
 confidence: medium
 ---
 
@@ -165,3 +165,11 @@ Roughly two hours of one-on-one talks preceded the dinner, with heavy speculatio
 19. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71
 20. Badlands Brief — "The Supreme Court Looms Over the First Debate", URL: https://badlands.substack.com/p/badlands-news-brief-b22
 21. Badlands Brief — "Badlands News Brief: The Info War is Getting Stranger ...", URL: https://badlands.substack.com/p/badlands-news-brief-bbb
+
+## Trump's outreach (February 2025)
+
+Speaking at a press conference on Friday, February 7, 2025, President [[donald-trump|Donald Trump]] expressed a desire to reestablish relations with the North Korean leader, telling reporters, "We will have relations with North Korea and with Kim Jong-un."[22] Reflecting on their earlier interactions, Trump said, "I got along with him very well, as you know. I think I stopped the war," and suggested his 2016 election victory had prevented conflict: "I think if I wouldn't have won that particular election, you would have ended up in a very bad situation."[22] He described the rapport as "a very big asset for everybody," adding "I get along with him, he gets along with me, and that's a good thing, not a bad thing," and noted that other regional powers, particularly Tokyo, saw value in his diplomatic approach.[22]
+
+Badlands commentary connected the outreach to [[dennis-rodman|Dennis Rodman]]'s 2013 visit to North Korea, which came weeks after he left Trump's reality show The Apprentice, and speculated about the establishment of a US embassy in Pyongyang.[22]
+
+22. Badlands Brief — "Badlands News Brief: Soaring Eagles & Terminal USAIDs", URL: https://badlands.substack.com/p/badlands-news-brief-cf3

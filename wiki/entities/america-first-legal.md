@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [legal-advocacy, transparency, intelligence-oversight, conservative]
-sources: [raw/badlands-brief-f83.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-2b8.md, raw/badlands-news-brief-4b7.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-ba4.md]
+sources: [raw/badlands-brief-f83.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-2b8.md, raw/badlands-news-brief-4b7.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-c18.md, raw/badlands-news-brief-ca1.md, raw/badlands-news-brief-cce.md]
 confidence: medium
 ---
 
@@ -56,6 +56,10 @@ On Friday, July 18, 2025, America First Legal released documents it said conclus
 
 In August 2023, AFL and others sued the [[progressive-corporation|Progressive Corporation]] for what the complaint called "patently unlawful" racism, over a program offering $25,000 grants to help black-owned businesses purchase vehicles while barring white, Asian, Latino and other entrepreneurs from applying.[9] The suit was filed on behalf of [[nathan-roberts|Nathan Roberts]], owner of the Ohio-based Freedom Truck Dispatch, who was ineligible because he is white; Progressive said the grants existed to help black-owned firms that had historically struggled to access capital, and did not respond to press requests for comment.[9] AFL lawyer [[gene-hamilton|Gene Hamilton]] described the case as part of a broader assault on big corporations that inject "racial considerations into every aspect of their business operations, employment practices, and so much more."[9]
 
+## National Archives FOIA suit on Biden family emails (October 2023)
+
+In October 2023 America First Legal announced that its Freedom of Information Act lawsuit against the [[national-archives-and-records-administration|National Archives]] had revealed the volume of correspondence between then-Vice President [[joe-biden|Joe Biden]]'s office and entities tied to his family.[10] According to the group, the office exchanged 19,335 emails with [[rosemont-seneca-partners|Rosemont Seneca]], 4,243 emails with [[hunter-biden|Hunter Biden]], 1,751 emails with [[james-biden|Jim Biden]], and 3,738 emails with Jim's Lion Hall.[10] Badlands contributor [[ashe-in-america|Ashe in America]] cited the figures as undercutting longstanding claims of a "wall of separation" between Joe Biden and his family's business dealings, stressing that the communications are official records held in the National Archives and predicting the war narrative would intensify to distract from them.[10]
+
 ## References
 1. Badlands Brief — "A Mostly Peaceful War Continues to Escalate Toward De-Escalation", URL: https://badlands.substack.com/p/badlands-brief-f83
 2. Badlands Brief — "Badlands News Brief: Intelligence Narratives & Seemingly Impossible Deals", URL: https://badlands.substack.com/p/badlands-news-brief-222
@@ -66,3 +70,22 @@ In August 2023, AFL and others sued the [[progressive-corporation|Progressive Co
 7. Badlands Brief — "Badlands News Brief: Will the One True POTUS Please Stand Up?", URL: https://badlands.substack.com/p/badlands-news-brief-9ae
 8. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f
 9. Badlands Brief — "Badlands News Brief: Trump's Slings and Arrows ... Hunter's Threats", URL: https://badlands.substack.com/p/badlands-news-brief-ba4
+10. Badlands Brief — "Badlands News Brief: Crisis Cascades, Nordstream 3 & Bidenomics", URL: https://badlands.substack.com/p/badlands-news-brief-c18
+## Suit against the Maricopa County Recorder (August 2024)
+
+On Monday, August 5, 2024, America First Legal sued [[maricopa-county|Maricopa County]] Recorder [[stephen-richer|Stephen Richer]] over his alleged failure to remove non-citizens from the county's voter rolls.[11] The suit was brought on behalf of the [[strong-communities-foundation-of-arizona|Strong Communities Foundation of Arizona]] and a registered voter who is a naturalized citizen, and alleged that Richer refused to verify the citizenship of voters registered in the county.[11]
+
+AFL had sent letters to all 15 Arizona counties on July 16, demanding that election officials follow state and federal law to ensure non-citizens could not vote and warning that legal action would follow if they did not comply within the week.[11] Richer replied through his attorney that he was following the law, but AFL argued the claim was false because the county's rolls had seen a rise in registrations without confirmed citizenship during his tenure and because the relevant databases had not been accessed to verify citizenship.[11] The complaint alleged a violation of the state law requiring monthly list maintenance for registrants who have not supplied proof of citizenship, and cited a jump in such registrations from 21,595 in April to 26,108 in July; under Arizona law those voters may participate only in federal, not state, elections.[11]
+
+[[ashe-in-america|Ashe in America]] compared the action to [[judicial-watch|Judicial Watch]]'s Colorado litigation against Secretary of State Jena Griswold, which ended in a 2023 consent decree, and argued that voter roll hygiene is "ground zero for scalable election fraud" while predicting that opposing lawfare organizations would intervene in force.[11]
+
+## Suit against the FDA and HHS over COVID-19 treatment records (December 2023)
+
+On Thursday, December 14, 2023, America First Legal sued the [[food-and-drug-administration|U.S. Food and Drug Administration]] and the [[department-of-health-and-human-services|Department of Health and Human Services]] for failing to turn over documents related to the government's suppression of the COVID-19 treatments [[hydroxychloroquine|hydroxychloroquine]] and [[ivermectin|ivermectin]].[12] According to the complaint, AFL had filed a [[freedom-of-information-act|Freedom of Information Act]] request in August 2022 with both agencies seeking HCQ-related records from March 1 to September 1, 2020, and a similar request in September 2022 covering ivermectin, receiving confirmations and tracking numbers in each case.[12] Neither agency complied.[12]
+
+AFL, described in the reporting as a nonprofit working to promote the rule of law, prevent executive overreach and ensure due process and equal protection, said it sought the records to determine when and why officials including [[anthony-fauci|Dr. Anthony Fauci]] discouraged and suppressed the two drugs.[12] Badlands contributor [[paul-fleuret|Paul Fleuret]] framed the filings as part of a broader unravelling of the official COVID-19 narrative, writing that "the truth is an avalanche coming down the mountain."[12]
+
+## References (continued)
+
+11. Badlands Brief — "Fake Vice Presidents and Effective Lawsuits", URL: https://badlands.substack.com/p/badlands-news-brief-ca1
+12. Badlands Brief — "Badlands News Brief: The System of Systems is a House of Cards", URL: https://badlands.substack.com/p/badlands-news-brief-cce

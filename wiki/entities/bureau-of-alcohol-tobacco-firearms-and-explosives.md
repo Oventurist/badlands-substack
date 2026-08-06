@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [atf, law-enforcement, firearms, ohio, doj]
-sources: [raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-275.md, raw/badlands-news-brief-a31.md]
+sources: [raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-275.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-c9d.md]
 confidence: medium
 ---
 
@@ -32,7 +32,14 @@ The [[us-house-of-representatives|House]] voted 219–210 on June 13, 2023 to re
 
 ATF agents were among the federal personnel assigned to the seven-day patrol of Washington, D.C. announced by the [[white-house|White House]] on August 7, 2025 and led by the [[united-states-park-police|U.S. Park Police]], alongside the [[fbi|FBI]], the [[drug-enforcement-administration|DEA]] and divisions of [[immigration-and-customs-enforcement|Immigration and Customs Enforcement]].[3]
 
+## Bump stock rule and Garland v. Cargill (2024)
+
+For many years the ATF consistently took the position that semiautomatic rifles equipped with bump stocks were not machineguns under 26 U.S.C. §5845(b).[4] The agency abruptly changed course after a gunman using bump-stock-equipped semiautomatic rifles fired hundreds of rounds into a crowd in Las Vegas, Nevada, killing 58 people and wounding more than 500, proposing a rule at 83 Fed. Reg. 13442 that repudiated its earlier guidance and "clarified" that bump stocks are machineguns.[4] The [[bump-stock-ban|rule]] ordered owners either to destroy their bump stocks or surrender them to ATF to avoid criminal prosecution.[4]
+
+On June 14, 2024 the [[supreme-court-of-the-united-states|Supreme Court]] invalidated the rule in [[garland-v-cargill|Garland v. Cargill]] by a 6–3 vote, holding that "ATF exceeded its statutory authority by issuing a Rule that classifies a bump stock as a 'machinegun' under §5845(b)."[4] The majority opinion by Justice [[clarence-thomas|Clarence Thomas]] reasoned that semiautomatic firearms requiring the shooter to reengage the trigger for every shot are not machineguns, while Justice [[sonia-sotomayor|Sonia Sotomayor]] dissented that the ruling eviscerated Congress's regulation of machineguns.[4] The suit had been brought by Texas gun dealer [[michael-cargill|Michael Cargill]], who surrendered his own bump stocks to the government before litigating.[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: International Antifa, Hezbollah Strongholds, & Nuclear Options", URL: https://badlands.substack.com/p/badlands-news-brief-1c3
 2. Badlands Brief — "Badlands News Brief: Tucker's Tour de Force, Trump Besieged & More", URL: https://badlands.substack.com/p/badlands-news-brief-275
 3. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
+4. Badlands Brief — "Biden Wanders, Putin Ponders & Ukraine Launders", URL: https://badlands.substack.com/p/badlands-news-brief-c9d

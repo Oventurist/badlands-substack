@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ukraine, russia, nato, peace-plan, trump]
-sources: [raw/badlands-news-brief-021.md, raw/badlands-news-brief-528.md, raw/badlands-news-brief-a82.md]
+sources: [raw/badlands-news-brief-021.md, raw/badlands-news-brief-528.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-c78.md]
 confidence: medium
 ---
 
@@ -36,7 +36,15 @@ He noted the NATO point was not something Trump was espousing publicly, but was 
 
 In June 2024 Reuters reported that [[keith-kellogg|Keith Kellogg]] and [[fred-fleitz|Fred Fleitz]], both former chiefs of staff in [[donald-trump|Trump]]'s National Security Council, had presented him with a plan to end the war if he won the November 5 election: Ukraine would be told it would receive more US weapons only if it entered peace talks, while Moscow would be warned that refusing to negotiate would bring increased US support for Kyiv, with a ceasefire based on prevailing battle lines during negotiations.[3] Fleitz said Trump responded favorably without necessarily endorsing every word, and spokesman [[steven-cheung|Steven Cheung]] said only statements from Trump or authorized campaign members should be treated as official.[3] Badlands contributor [[burning-bright|Burning Bright]] argued the plan mirrored [[vladimir-putin|Putin]]'s own terms — denazification and annexation of the Donbas and a pledge that Ukraine would not join [[nato|NATO]] — and concluded "the deal is already made."[3]
 
+## Secret US-Russia drafting (November 2025)
+
+Axios reported on November 19, 2025 that the Trump administration had been working secretly in consultation with [[russia|Russia]] to draft the plan, inspired by Trump's successful push for a deal in [[gaza|Gaza]], and that a top Russian official was optimistic about it.[4] The 28 points were said to fall into four buckets: peace in Ukraine, security guarantees, security in Europe, and future U.S. relations with Russia and Ukraine; it was unclear how the draft handled contentious issues such as territorial control in eastern Ukraine, where Russian forces had been inching forward but still controlled far less land than the Kremlin demanded.[4] Trump envoy [[steve-witkoff|Steve Witkoff]] led the drafting and discussed it extensively with Russian envoy [[kirill-dmitriev|Kirill Dmitriev]], who runs Russia's sovereign wealth fund and spent three days with Witkoff and other members of Trump's team during a visit to Miami from October 24-26, 2025.[4] Dmitriev told Axios he was optimistic because, unlike past efforts, "we feel the Russian position is really being heard."[4] Witkoff had been expected to meet Ukrainian President [[volodymyr-zelensky|Volodymyr Zelensky]] in Turkey that Wednesday but postponed the trip.[4]
+
+[[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] observed that Europe and Ukraine were apparently not even aware of the negotiations, which he said demonstrated that the real power in the conflict lies with the United States and Russia; when the two make peace — which he judged imminent — it would change the balance of power and signal the start of the [[multipolar-world|multipolar world]].[4]
+
 ## References
+
 1. Badlands Brief — "Seditious Overreactions, Billion Dollar Bailouts, & NATO-Style Guarantees", URL: https://badlands.substack.com/p/badlands-news-brief-021
 2. Badlands Brief — "Badlands News Brief: Biden Pushes Back as Peacemakers Posture", URL: https://badlands.substack.com/p/badlands-news-brief-528
 3. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
+4. Badlands Brief — "Bilateral Bromance, Private Peace Deals & Imminent Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-c78

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [musk-family, commentary, russia]
-sources: [raw/badlands-news-brief-155.md, raw/badlands-news-brief-8f0.md]
+sources: [raw/badlands-news-brief-155.md, raw/badlands-news-brief-8f0.md, raw/badlands-news-brief-bd2.md]
 confidence: medium
 ---
 
@@ -24,6 +24,11 @@ In September 2023, Errol Musk — a retired electromechanical engineer then aged
 
 Reacting to [[ronan-farrow|Ronan Farrow]]'s [[new-yorker|New Yorker]] piece "Elon Musk's Shadow Rule," Errol Musk called it "a hit job, a shadow government-sponsored opening salvo on Elon" and "the artillery-like softening up of the enemy before the actual attack and preparing of the ever-submissive people for the attack."[2] Asked whether he feared the "shadow government" would try to assassinate his son, he answered "Yes."[2] He said he had previously warned Elon to beef up his security and that his son shared the same fear.[2] Badlands contributor [[burning-bright|Burning Bright]] found the comments "relatively dramatic in context" but treated their circulation as a notable development in the [[information-war|War of Stories]].[2]
 
+## New York Times abuse allegations (September 2025)
+
+In September 2025 Errol Musk, then 79, was accused of sexually abusing five of his children and stepchildren since 1993, including one he allegedly touched when she was four years old and with whom he later had a child.[3] The allegations were reported as the reason his son, [[elon-musk|Elon Musk]], had kept his distance from him over the years; despite being outspoken on social media, the 54-year-old had rarely discussed the strained relationship.[3] Errol had previously made headlines for having a baby with his own stepdaughter, who was 40 years his junior.[3] The New York Times reported the accusations after reviewing more than 50 personal letters and emails and conducting interviews with relatives.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: California Crossroads, Selective Insurrection, & Irian Limits", URL: https://badlands.substack.com/p/badlands-news-brief-155
 2. Badlands Brief — "Badlands News Brief: The Turns on COVID, Ukraine & the Establishment Have Begun", URL: https://badlands.substack.com/p/badlands-news-brief-8f0
+3. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2

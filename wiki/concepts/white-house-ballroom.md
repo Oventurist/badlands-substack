@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [white-house, construction, historic-preservation, litigation, trump]
-sources: [raw/badlands-brief-40d.md, raw/badlands-brief-990.md, raw/badlands-brief-9f2.md, raw/badlands-brief-a1a.md, raw/badlands-brief-bdc.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-762.md]
+sources: [raw/badlands-brief-40d.md, raw/badlands-brief-990.md, raw/badlands-brief-9f2.md, raw/badlands-brief-a1a.md, raw/badlands-brief-bdc.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-c16.md]
 confidence: medium
 ---
 
@@ -50,6 +50,10 @@ Badlands contributor CannCon argued the project was effectively "funded by all t
 
 Under [[youtube|YouTube]]'s $24.5 million settlement of President [[donald-trump|Donald Trump]]'s lawsuit, filed in court papers on 29 September 2025, $22 million was directed to a trust for the National Mall — the entity handling construction of the $200 million ballroom at the White House.[7] The remainder was earmarked for other plaintiffs in the case, including the American Conservative Union and Naomi Wolf.[7]
 
+## Demolition of the East Wing (October 2025)
+
+President [[donald-trump|Donald Trump]] confirmed on Wednesday, October 22, 2025 that the entire East Wing of the [[white-house|White House]] was being demolished to make way for the planned ballroom.[8] "In order to do it properly we had to take down the existing structure," Trump told reporters in the Oval Office, flanked by renderings of the ballroom.[8] The acknowledgement followed videos posted on social media earlier that week showing a crane being used to begin tearing down the structure.[8]
+
 ## References
 
 1. Badlands Brief — "Clinton Clashes, Royal Trafficking, & Fond WEF Farewells", URL: https://badlands.substack.com/p/badlands-brief-40d
@@ -59,3 +63,4 @@ Under [[youtube|YouTube]]'s $24.5 million settlement of President [[donald-trump
 5. Badlands Brief — "Reversed Rulings & Reasonable Regimes", URL: https://badlands.substack.com/p/badlands-brief-bdc
 6. Badlands Brief — "Unprecedented Opportunities & Rich Men's Tricks", URL: https://badlands.substack.com/p/badlands-news-brief-357
 7. Badlands Brief — "Badlands News Brief: Shutdowns, Shakedowns, & Two Sexes", URL: https://badlands.substack.com/p/badlands-news-brief-762
+8. Badlands Brief — "Unconvincing Unity, Ukraine Reparations, & Uneasy Cooperation", URL: https://badlands.substack.com/p/badlands-news-brief-c16

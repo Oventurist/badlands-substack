@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cuba, diplomacy, regime-change]
-sources: [raw/badlands-brief-095.md, raw/badlands-brief-686.md]
+sources: [raw/badlands-brief-095.md, raw/badlands-brief-686.md, raw/badlands-news-brief-c0a.md]
 confidence: medium
 ---
 
@@ -22,6 +22,11 @@ On a Thursday evening in March 2026, Diaz-Canel announced that he would hold an 
 
 In mid-March 2026 Díaz-Canel confirmed the existence of largely undisclosed talks between [[cuba|Cuba]] and the Trump administration, in which Havana sought relief from sanctions including eased embargo restrictions, a waiver of Title III of the [[helms-burton-act|Helms-Burton Act]], and removal from the state sponsors of terrorism list.[2] The negotiations, led on the American side by Secretary of State [[marco-rubio|Marco Rubio]], followed a US oil blockade imposed roughly two months earlier, and Cuba's senior diplomat in Washington, [[lianys-torres-rivera|Lianys Torres Rivera]], publicly offered "mutually beneficial discussions" on economic cooperation.[2]
 
+## Response to the 2024 Santiago protests
+
+In March 2024 Díaz-Canel responded to a rare public protest by hundreds of residents in Santiago, [[cuba|Cuba]]'s second-largest city, where demonstrators chanted "power and food" amid blackouts lasting 18 hours or more a day and severe food shortages.[3] He confirmed the protest on X shortly after the rally concluded and called for dialogue in an "atmosphere of tranquility and peace," while also alleging that "terrorists" from the United States were seeking to foment further uprisings.[3] "This context will be taken advantage of by the enemies of the Revolution, for destabilizing purposes," he wrote.[3] See [[2024-santiago-de-cuba-protests|2024 Santiago de Cuba protests]].[3]
+
 ## References
 1. Badlands Brief — "Moves and Countermoves", URL: https://badlands.substack.com/p/badlands-brief-095
 2. Badlands Brief — "To Infinity & Iran!", URL: https://badlands.substack.com/p/badlands-brief-686
+3. Badlands Brief — "Badlands News Brief: White Collar Prisons & Confounding Court Decisions", URL: https://badlands.substack.com/p/badlands-news-brief-c0a

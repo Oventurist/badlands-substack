@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [turkey, geopolitics, sovereign-alliance, middle-east]
-sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-509.md, raw/badlands-brief-67a.md, raw/badlands-brief-6f4.md, raw/badlands-brief-7bf.md, raw/badlands-brief-949.md, raw/badlands-brief-990.md, raw/badlands-brief-be1.md, raw/badlands-brief-e9e.md, raw/badlands-brief-ec9.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-09b.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-7b7.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-b52.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-509.md, raw/badlands-brief-67a.md, raw/badlands-brief-6f4.md, raw/badlands-brief-7bf.md, raw/badlands-brief-949.md, raw/badlands-brief-990.md, raw/badlands-brief-be1.md, raw/badlands-brief-e9e.md, raw/badlands-brief-ec9.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-09b.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-7b7.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-bd2.md]
 confidence: medium
 ---
 
@@ -181,8 +181,13 @@ The September 2, 2024 Badlands News Brief cited Erdogan as a central figure in w
 
 The brief also pointed to a Financial Times article titled "Turkey's expanding leverage in Africa," which described Erdogan's efforts to settle the escalating conflict between Somalia and Ethiopia, as well as Turkey's growing influence in the Sahel region encompassing Burkina Faso, Mali and Nigeria.[30] It further reported that Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] had called Erdogan to discuss the situation in Palestine, matching the dynamics [[sergey-lavrov|Sergey Lavrov]] was describing.[30] Russian diplomacy at the time was aimed at normalizing relations between Damascus and Ankara, long-time adversaries since Turkey's 2012 involvement in Syria alongside [[nato|NATO]] and its continued hold on northern Syrian territory.[30]
 
-## References
+## UN General Assembly meetings and prospective jet deals (September 2025)
 
+Erdogan attended the September 2025 meeting at the [[united-nations|United Nations]] at which President [[donald-trump|Donald Trump]] assured Arab and Muslim leaders he would not permit Israeli annexation of the West Bank, describing the session as "fruitful" on Fox News without providing details.[31] Trump and Erdogan were scheduled to meet again at the [[white-house|White House]] the following Thursday.[31] Badlands commentary reported that Erdogan had been among three leaders of Muslim-majority countries whose microphones cut out during General Assembly speeches as they called for worldwide support for Palestinian statehood.[31]
+
+When Trump had posted about inviting Erdogan to the White House, he teased a potential F-35 deal and also mentioned an [[f-16-fighting-falcon|F-16]] deal described as sounding like a certainty.[31] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that [[turkey|Turkey]] was the ideal candidate to stop [[benjamin-netanyahu|Benjamin Netanyahu]] from annexing southern Syria, which he expected to be used as a land bridge toward a war with Iran.[31]
+
+## References
 1. Badlands Brief — "A Virtual Smash & Grab & Another Impeachment Hoax", URL: https://badlands.substack.com/p/badlands-brief-0a2
 2. Badlands Brief — "Election Exposure, Energy Angst & War Rackets", URL: https://badlands.substack.com/p/badlands-brief-509
 3. Badlands Brief — "COVIDian Comeuppance and NATOnian Neglect", URL: https://badlands.substack.com/p/badlands-brief-67a
@@ -214,3 +219,4 @@ The brief also pointed to a Financial Times article titled "Turkey's expanding l
 28. Badlands Brief — "Badlands News Brief: Rug Pulled Reputations, Insubordination, & the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-a65
 29. Badlands Brief — "Badlands News Brief: Black Hat Nightmares & A Camelback Caravan of Confirmation", URL: https://badlands.substack.com/p/badlands-news-brief-a64
 30. Badlands Brief — "Badlands News Brief: The Free Speech Battlefield Heats Up", URL: https://badlands.substack.com/p/badlands-news-brief-b52
+31. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, mainstream-media, cable-news]
-sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-169.md, raw/badlands-brief-c2d.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-001.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-93d.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-169.md, raw/badlands-brief-c2d.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-001.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-c9a.md]
 confidence: medium
 ---
 
@@ -97,6 +97,24 @@ Taking advantage of New York's broad journalistic protections, Fox countersued u
 
 [[media-matters-for-america|Media Matters]] reported in June 2023 that Fox News had responded to the [[2023-trump-classified-documents-indictment|indictment of Donald Trump]] over withheld classified documents with what it described as a swell of demagoguery suggesting the event signalled the end of American democracy.[18] The watchdog additionally faulted the network for pushing the claim that the indictment had been timed to distract from House Republican corruption accusations against [[joe-biden|Joe Biden]] and [[hunter-biden|Hunter Biden]], pointing out that Fox itself had reported two weeks earlier that special counsel [[jack-smith|Jack Smith]] was about to conclude his months-long investigation.[18]
 
+## Tucker Carlson's departure (April 2023)
+
+Fox News announced on Monday, April 24, 2023 that it and prime-time host [[tucker-carlson|Tucker Carlson]] had severed ties, offering no explanation beyond a statement thanking him "for his service to the network as a host and prior to that as a contributor" and confirming that his final show had aired Friday, April 21.[19] Reporting at the time attributed the decision to Fox Corporation chief executive [[lachlan-murdoch|Lachlan Murdoch]] and Fox News chief executive [[suzanne-scott|Suzanne Scott]], who are said to have made the call on the evening of April 21; Carlson, the network's highest-rated single host, was informed on Monday morning.[19] CNBC framed the exit as coming in the wake of the network's [[dominion-voting-systems|Dominion Voting Systems]] defamation settlement.[19]
+
+[[badlands-media|Badlands Media]] argued the timing exposed Fox to its own audience. [[burning-bright|Burning Bright]] wrote that firing Carlson on the same day [[cnn|CNN]] fired [[don-lemon|Don Lemon]] "outs FOX to 'Normie' MAGA viewers still bestowing misplaced loyalty to a network that provided Narrative Shielding to the Election Fraud machine by calling Arizona for Biden on 11/3/20 and settling with Dominion for $800 Million," and that the network was thereby kicking a hornet's nest of Carlson supporters.[19] [[donald-trump|Donald Trump]], increasingly critical of the network, said he had been surprised Fox settled the Dominion case at all.[19]
+
+## Reporting on Trump arraignment logistics (March 2023)
+
+Fox News reported on March 20, 2023 that law enforcement officials had met behind closed doors to discuss the logistics of arraigning [[donald-trump|Donald Trump]] following a possible indictment in the [[trump-hush-money-case|hush-money case]], citing a law enforcement source on street closures, barriers and extra police, on the expectation that no arraignment would occur before the following week, and on the rejection of a virtual option.[20] The outlet also reported that law enforcement was concerned about safety and that Trump had called on supporters to protest.[20]
+
+## Trump's first post-indictment interview (April 2023)
+
+In April 2023, Carlson hosted [[donald-trump|Donald Trump]] on [[fox-news|Fox News]] for the former president's first mainstream media appearance since his indictment in New York by [[alvin-bragg|Alvin Bragg]].[21] In the interview Trump said the United States had lost global influence since he left office — "You got this crazy world, it's blowing up and the United States has absolutely no say" — and said that [[emmanuel-macron|Emmanuel Macron]], then wrapping up the [[2023-macron-state-visit-to-china|2023 Macron state visit to China]], was "over with China, kissing his ass."[21]
+
+## Reporting on Trump arraignment logistics (March 2023)
+
+Fox News reported on March 20, 2023 that law enforcement officials had met behind closed doors to discuss the logistics of arraigning [[donald-trump|Donald Trump]] following a possible indictment in the [[trump-hush-money-case|hush-money case]], citing a law enforcement source on street closures, barriers and extra police, on the expectation that no arraignment would occur before the following week, and on the rejection of a virtual option.[20] The outlet also reported that law enforcement was concerned about safety and that Trump had called on supporters to protest.[20]
+
 ## References
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
 2. Badlands Brief — "Condemnation, Calibration, & Constitutional Boxes", URL: https://badlands.substack.com/p/badlands-brief-169
@@ -116,3 +134,6 @@ Taking advantage of New York's broad journalistic protections, Fox countersued u
 16. Badlands Brief — "Badlands News Brief: FOX Trots, Montana Maintains & Congress Convenes", URL: https://badlands.substack.com/p/badlands-news-brief-49a
 17. Badlands Brief — "Red States Align While the MSM Craters", URL: https://badlands.substack.com/p/badlands-news-brief-5ff
 18. Badlands Brief — "Badlands News Brief: Trump Trolls, Soros Slithers & Flags Fly", URL: https://badlands.substack.com/p/badlands-news-brief-93d
+19. Badlands Media — "Badlands News Brief: A Tucker, a Lemon and a Trump Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-bf6
+20. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9
+21. Badlands Brief — "Badlands News Brief: The France Dance, Crime & J6 Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-c9a

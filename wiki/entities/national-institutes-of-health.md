@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [public-health, biosecurity, federal-agency, badlands-brief]
-sources: [raw/badlands-brief-2c0.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-409.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-88b.md]
+sources: [raw/badlands-brief-2c0.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-409.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-cb9.md]
 confidence: medium
 ---
 
@@ -39,9 +39,18 @@ Some Republicans argued that the agency's pandemic-era leaders, [[francis-collin
 
 In August 2023 the watchdog group [[openthebooks|OpenTheBooks]] published more than 1,500 pages of unredacted NIH records after a mostly successful Freedom of Information Act battle with the agency, identifying which companies paid which NIH scientists for which inventions and when.[5] The 56,000 transactions added up to more than $325 million, although the individual amounts for each payment and corresponding license were not listed in the records.[5] The records showed that longtime NIH director [[francis-collins|Francis Collins]] and [[national-institute-of-allergy-and-infectious-diseases|NIAID]] director [[anthony-fauci|Anthony Fauci]] personally received 58 royalty payments from companies licensing inventions developed with taxpayer money.[5]
 
+## Badlands commentary on Covid origins disclosure (2023)
+
+Responding to the signing of the [[covid-19-origin-act-of-2023|COVID-19 Origin Act of 2023]], [[burning-bright|Burning Bright]] wrote that further official obfuscation of Covid's origins would fail because knowledge of [[anthony-fauci|Anthony Fauci]] and the NIH's role was already widespread.[6]
+
+## Badlands commentary on Covid origins disclosure (2023)
+
+Responding to the signing of the [[covid-19-origin-act-of-2023|COVID-19 Origin Act of 2023]], [[burning-bright|Burning Bright]] wrote that further official obfuscation of Covid's origins would fail because knowledge of [[anthony-fauci|Anthony Fauci]] and the NIH's role was already widespread.[6]
+
 ## References
 1. Badlands Brief — "Southern Hospitality Superseded Plus Cross Burning", URL: https://badlands.substack.com/p/badlands-brief-2c0
 2. Badlands Brief — "Badlands News Brief: Fake Polls Abound as the Sovereign Alliance Makes Moves", URL: https://badlands.substack.com/p/badlands-news-brief-125
 3. Badlands Brief — "Badlands News Brief: Quid Pro Joe, Biden's Border & Train Track Conspiracies", URL: https://badlands.substack.com/p/badlands-news-brief-409
 4. Badlands Brief — "Israel Invades, MAGA Sues & Ports Close", URL: https://badlands.substack.com/p/badlands-news-brief-683
 5. Badlands News Brief — "The Trump Hunt & the Biden Blitz", URL: https://badlands.substack.com/p/badlands-news-brief-88b
+6. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9

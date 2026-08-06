@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [esg, corporatocracy, finance, woke-capital]
-sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-70d.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-b9c.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-70d.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-b9c.md, raw/badlands-news-brief-c74.md]
 confidence: low
 ---
 
@@ -48,9 +48,14 @@ The retreat extended to corporate communications: [[breitbart|Breitbart]] quoted
 
 [[simon-esler|Simon Esler]] has described the corporate environment created by ESG scores as intentionally destructive — "no less than a social credit score for corporations."[5] In his account, for companies such as Disney that are openly devoted to the woke agenda, ESG scores represent a form of communist warfare that weaponizes culture through a corporatocracy.[5] A second angle of the weapon, he argued, is the further destruction of the middle class: [[anheuser-busch-inbev|Anheuser-Busch]] gave in to the corporate social credit system with the [[dylan-mulvaney|Dylan Mulvaney]] campaign, the people turned on the company, and the resulting boycott was a necessary response — but if [[bud-light|Bud Light]] were to collapse entirely, farmers, blue-collar workers and middle-class families would suffer.[5] Esler urged discernment between American firms struggling to navigate the weaponization of "corporate responsibility" and those that are willing participants in the culture war, and advocated using consumer will to demonstrate the existence of profits outside ESG scores, building a parallel economy at a pace that preserves middle-class stability.[5]
 
+## State-level litigation
+
+In December 2023 the state of [[tennessee|Tennessee]] sued [[blackrock|BlackRock]], alleging the asset manager breached consumer protection laws by making "misleading" statements about its ESG investment strategies — specifically by downplaying how far ESG considerations drive its investment decisions and affect portfolio companies' financial performance and outlook.[6] BlackRock rejected the claims, saying it fully and accurately discloses its investment practices and proxy-voting approach.[6] Tennessee Attorney General [[jonathan-skrmetti|Jonathan Skrmetti]] had earlier in 2023 demanded that ten major asset managers explain how they tackle climate change, and in March 2023 he and twenty other Republican state attorneys general wrote to asset managers suggesting they were breaching fiduciary duties in their handling of environmental and social issues.[6] The partisan split was stark: Democratic leaders including President Joe Biden defended ESG investing — Biden spent the first veto of his presidency on a federal ESG rule — while Republicans, many from energy-producing states, joined a growing chorus challenging the practice.[6]
+
 ## References
 1. Badlands Brief — "AI Can Help Us Expose the NWO", URL: https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo
 2. Badlands Brief — "Badlands News Brief: MAHA Begins as ESG Dies", URL: https://badlands.substack.com/p/badlands-news-brief-299
 3. Badlands Brief — "Badlands News Brief: Firing Squads, Purebloods and Woke's Decline", URL: https://badlands.substack.com/p/badlands-news-brief-70d
 4. Badlands Brief — "Badlands News Brief: Trump Defiant, Biden Protected & Woke Worn", URL: https://badlands.substack.com/p/badlands-news-brief-7a7
 5. Badlands Brief — "Badlands News Brief: Tucker Does Moscow as the News Cycle Goes Ballistic", URL: https://badlands.substack.com/p/badlands-news-brief-b9c
+6. Badlands Brief — "Badlands News Brief: The Mask Comes off as the Nation Watches", URL: https://badlands.substack.com/p/badlands-news-brief-c74

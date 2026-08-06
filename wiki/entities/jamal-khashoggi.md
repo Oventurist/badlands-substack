@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [saudi-arabia, journalism, cia, mossad, epstein]
-sources: [raw/badlands-brief-f17.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-a64.md]
+sources: [raw/badlands-brief-f17.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-bed.md]
 confidence: medium
 ---
 
@@ -43,6 +43,12 @@ Badlands commentary noted that the inaugural Future Investment Initiative summit
 
 Khashoggi's murder continued to define the reference point for shifts in US-Saudi relations. In May 2025, coverage of [[donald-trump|Donald Trump]]'s Riyadh visit contrasted the warm reception given to Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] with the crown prince's difficulty four years earlier in securing a meeting with then-President [[joe-biden|Joe Biden]], who had vowed to make Saudi Arabia a "pariah" over its role in the journalist's killing.[5] At the [[saudi-us-investment-forum|Saudi-US Investment Forum]], Trump made no mention of the Kingdom's human rights record, which had previously been a sticking point in the relationship.[5]
 
+## Badlands reassessment of responsibility (2024)
+
+Coverage of the April 2024 disclosure that [[donald-trump|Donald Trump]] had spoken with Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] revived the Khashoggi killing as a point of attack, with New York Times reporters [[maggie-haberman|Maggie Haberman]] and [[jonathan-swan|Jonathan Swan]] noting that Trump had defended the crown prince against the murder allegations.[6] Badlands Media contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] responded that those allegations came solely from the [[central-intelligence-agency|CIA]], without evidence, trial or official statement — only anonymous comments — and recalled that candidate [[joe-biden|Joe Biden]] had vowed in 2020 to treat the crown prince as a "pariah," which the commentator said matched precisely what the CIA and the [[state-department|State Department]] had demanded of world leaders after the scandal.[6]
+
+The commentary argued outright that the Saudis did not kill Khashoggi, describing him as a prolific scumbag but a relative nobody next to the crown prince, who by the time of the killing had already consolidated control of the Saudi government and had little to gain from fulfilling the stereotype of a violent and vindictive Arab while rebranding the region.[6] Because the CIA's insistence on Saudi guilt was, in the writer's view, propaganda, and because Khashoggi's death benefited the agency's objectives more than it benefited the crown prince, the commentary concluded that the CIA itself killed Khashoggi.[6]
+
 ## References
 
 1. Badlands Brief — "Epstein Clickbait, Lemon's Demise, & Zionists MAD", URL: https://badlands.substack.com/p/badlands-brief-f17
@@ -50,3 +56,4 @@ Khashoggi's murder continued to define the reference point for shifts in US-Saud
 3. Badlands Brief — "Badlands News Brief: Middle Eastern Powder Kegs & Crisis Cascades Abound", URL: https://badlands.substack.com/p/badlands-news-brief-158
 4. Badlands Brief — "Trump Teases Saudi Trillions; Biden Bros Embezzled Billions", URL: https://badlands.substack.com/p/badlands-news-brief-745
 5. Badlands Brief — "Badlands News Brief: Black Hat Nightmares & A Camelback Caravan of Confirmation", URL: https://badlands.substack.com/p/badlands-news-brief-a64
+6. Badlands Brief — "Badlands News Brief: Immigration Dominates Headlines as Devo Proofs Abound", URL: https://badlands.substack.com/p/badlands-news-brief-bed

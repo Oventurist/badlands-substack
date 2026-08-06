@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, election-integrity, mail-in-ballots, legislation]
-sources: [raw/badlands-brief-169.md, raw/badlands-news-brief-6e5.md]
+sources: [raw/badlands-brief-169.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-c78.md]
 confidence: medium
 ---
 
@@ -22,6 +22,11 @@ On Thursday, September 11, 2025, Higgins (R-La.) said he would seek to have soci
 
 Badlands contributor [[chris-paul|Chris Paul]] responded that Higgins was threatening to use state power to silence speech in direct violation of the First Amendment, and that a self-described conservative was flatly encouraging state censorship and cancellation from life.[2]
 
+## Sole vote against the Epstein Files Transparency Act (November 2025)
+
+When the [[us-house-of-representatives|House]] overwhelmingly passed the [[epstein-files-transparency-act|Epstein Files Transparency Act]] on November 18, 2025, demanding that the [[department-of-justice|Justice Department]] release all of its investigative files on [[jeffrey-epstein|Jeffrey Epstein]], Higgins was the only member of the chamber to vote "no."[3] Two other Republicans and three Democrats did not vote, and the measure moved on to the [[united-states-senate|Senate]].[3]
+
 ## References
 1. Badlands Brief — "Condemnation, Calibration, & Constitutional Boxes", URL: https://badlands.substack.com/p/badlands-brief-169
 2. Badlands Brief — "Badlands News Brief: Manhunts, Mental Health, & the Mother of a Monster", URL: https://badlands.substack.com/p/badlands-news-brief-6e5
+3. Badlands Brief — "Bilateral Bromance, Private Peace Deals & Imminent Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-c78

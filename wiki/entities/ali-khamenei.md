@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [iran, supreme-leader, iran-war, middle-east]
-sources: [raw/badlands-brief-165.md, raw/badlands-brief-52f.md, raw/badlands-brief-7ed.md, raw/badlands-brief-774.md, raw/badlands-brief-8db.md, raw/badlands-brief-d9f.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-a38.md]
+sources: [raw/badlands-brief-165.md, raw/badlands-brief-52f.md, raw/badlands-brief-7ed.md, raw/badlands-brief-774.md, raw/badlands-brief-8db.md, raw/badlands-brief-d9f.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-d21.md]
 confidence: medium
 ---
 
@@ -74,6 +74,10 @@ Khamenei's English-language X account said: "The criminal, terrorist Zionist reg
 
 In a speech on April 10, 2024, Khamenei warned that the "evil regime" of [[israel|Israel]] "must be punished and will be punished" for the April 1 airstrike on the Iranian embassy compound in Damascus, which killed a senior general and six other officers of the [[islamic-revolutionary-guard-corps|Revolutionary Guards]].[13] The warning prompted U.S. officials to voice alarm over an imminent strike on Israeli interests and led President [[joe-biden|Joe Biden]] to pledge "ironclad" American support for Israel, while Israeli Foreign Minister [[israel-katz|Israel Katz]] replied that if Iran attacked from its own territory, Israel would strike Iran in return.[13]
 
+## Economic pressure in early 2024
+
+As Iran waited on high alert in late January 2024 to see how [[joe-biden|Joe Biden]] would respond to the killing of three US servicemen by a Tehran-backed militia in Syria, the Iranian rial fell to its weakest level against the dollar in forty years, having lost 15 percent of its value since October 7, 2023.[14] With inflation running at 40 percent, Khamenei called for tighter controls on liquidity at a meeting with business leaders, reflecting his concern that inflation was crushing living standards and creating a difficult atmosphere ahead of nationwide parliamentary elections.[14]
+
 ## References
 
 1. Badlands Brief — "Trump Conducts the Chaos as the Uniparty Concentrates Fire", URL: https://badlands.substack.com/p/badlands-brief-165
@@ -89,3 +93,4 @@ In a speech on April 10, 2024, Khamenei warned that the "evil regime" of [[israe
 11. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
 12. Badlands Brief — "Badlands News Brief: Escalation, Litigation & Sovereign Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a3c
 13. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38
+14. Badlands Brief — "Badlands News Brief: Chinese Interference and Narrative Seeding", URL: https://badlands.substack.com/p/badlands-news-brief-d21

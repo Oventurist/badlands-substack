@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [narrative-warfare, burning-bright, awakening, psyop-theory]
-sources: [raw/badlands-news-brief-9bf.md, raw/badlands-news-brief-adc.md]
+sources: [raw/badlands-news-brief-9bf.md, raw/badlands-news-brief-adc.md, raw/badlands-news-brief-ca7.md]
 confidence: medium
 ---
 
@@ -30,6 +30,13 @@ In June 2024 [[burning-bright|Burning Bright]] revisited the theory against a co
 
 Burning Bright predicted that a "Crisis Cascade" was primed to reach a series of inflection points over that summer, which would make earlier "hot" summers look quaint, and repeated the formulation that "[Their] Scare Event will be transformed into a Mass Unification Event."[2] He closed by telling readers that their role was to enjoy the show while preparing to act as frame and support for the tens of millions who do not yet know.[2]
 
+## The "Gulf of Taiwonkin" variant (April 2023)
+
+In April 2023, [[burning-bright|Burning Bright]] applied the theory to the [[taiwan-strait|Taiwan Strait]], recalling one of his most popular features to date — an exploration of the WHY behind Scare Event theory — and restating his core claim that a Scare Event can ALSO be a unifying event, with a nuclear scare being only one possible template.[3] Surveying China "buzzing" Taiwan, U.S. warships posturing, a resurgent Japan, Australia and India encroaching, and [[xi-jinping|Xi Jinping]] ushering in a [[multipolar-world|multi-polar world]], he asked whether a "Gulf of Taiwonkin" near-miss was coming — an analog to the [[gulf-of-tonkin-incident|Gulf of Tonkin incident]].[3]
+
+He acknowledged that some believe a Gulf of Tonkin-style Scare Event in the strait contradicts the view that Xi is working to usher in a multi-polar world on behalf of the [[sovereign-alliance|Sovereign Alliance]], but disagreed: focusing on potential net effects, he argued Xi could act as a catalyst for solidifying a major Region of Responsibility by consolidating Japan, Australia and India as regional powers — a matter, he concluded, of "optics."[3]
+
 ## References
 1. Badlands Brief — "14th Time's the Charm to 'Get Trump?'", URL: https://badlands.substack.com/p/badlands-news-brief-9bf
 2. Badlands Brief — "Badlands News Brief: Globalists Panic as Populism Takes Over the Zeitgeist", URL: https://badlands.substack.com/p/badlands-news-brief-adc
+3. Badlands Brief — "Badlands News Brief: Ukraine U-Turn, Taiwan Tensions & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-ca7

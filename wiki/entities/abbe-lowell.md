@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [attorney, hunter-biden, legal-defense]
-sources: [raw/badlands-news-brief-13b.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a15.md]
+sources: [raw/badlands-news-brief-13b.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-c05.md]
 confidence: medium
 ---
 
@@ -45,3 +45,9 @@ In a letter to House Oversight Chairman James Comer dated Wednesday, March 13, 2
 4. Badlands Brief — "A Not so Brief Full of Sovereign SIGNAL", URL: https://badlands.substack.com/p/badlands-news-brief-711
 5. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
 6. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
+
+## Defense in the Hunter Biden gun trial (2024)
+
+Lowell served as defense counsel for [[hunter-biden|Hunter Biden]] at his June 2024 federal firearms trial in Wilmington, Delaware.[7] In his opening statement he urged jurors to acquit, arguing that the statutory terms "user of" and "addicted to" a controlled substance were open to interpretation.[7] Prosecutors answered by presenting a section of Biden's memoir among their first evidence, playing audiobook passages narrated by Biden describing a four-year struggle with addiction that overlapped his October 2018 purchase of a .38 Colt Cobra handgun.[7]
+
+7. Badlands News Brief — "Bicameral Jailings, Russian Trolling and Retribution ...", URL: https://badlands.substack.com/p/badlands-news-brief-c05

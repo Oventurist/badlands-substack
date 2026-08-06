@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, dwac, trump, sec]
-sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-7c0.md, raw/badlands-brief-e3b.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-b04.md, raw/badlands-news-brief-b0d.md, raw/badlands-news-brief-b60.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-7c0.md, raw/badlands-brief-e3b.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-b04.md, raw/badlands-news-brief-b0d.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-d04.md]
 confidence: low
 ---
 
@@ -85,8 +85,18 @@ Shares of Trump Media jumped about 9% in extended trading on Monday, March 24, 2
 
 Trump Media, the parent company of [[truth-social|Truth Social]], rose sharply on its stock market debut in late March 2024, closing its first trading day at $57.99 for a gain of 16% and reaching a valuation of roughly $8 billion — greater than established companies such as Mattel and Western Union.[15] A frenzy of interest in the stock briefly halted trading because of extreme volatility.[15] [[donald-trump|Donald Trump]] holds 60% of the company's stock, making him the primary beneficiary of the strong performance.[15] Trump helped create Truth Social after he was banned from Twitter in the aftermath of the January 6 Capitol riot, and although the ban was rescinded once [[elon-musk|Elon Musk]] bought the platform, he chose to stay with Truth Social; research firm Similarweb estimated Truth Social had about 5 million active users against roughly 500 million for X.[15]
 
-## References
+## Fusion pivot and stock surge (December 2025)
 
+On December 18, 2025, Trump Media & Technology Group (Nasdaq: DJT) announced a dramatic strategic pivot that repositioned the company from a social media alternative into a diversified technology and energy conglomerate, sparking a frantic rush for shares.[16] The stock exploded 41.93% on the day of the announcement and was trading at roughly $15.32 on the morning of December 19, 2025, a sharp departure from the steady decline seen through much of 2025.[16] Retail holders had endured a 58% year-to-date decline before the pivot into nuclear fusion and artificial intelligence infrastructure, which observers described as either a visionary masterstroke or a desperate attempt to justify a valuation untethered from current revenue.[16]
+
+Badlands contributor [[burning-bright|Burning Bright]] called it "somewhat surreal" that DJT had merged with a nuclear fusion company planning to build the first commercial fusion reactor in history beginning in 2026, noting that the deal made DJT the first publicly traded fusion company in history and treating the move as a market signal.[16]
+
+
+## Truth Search AI beta (August 2025)
+
+In August 2025 Trump Media, which trades on Nasdaq and NYSE Texas under the ticker DJT and operates [[truth-social|Truth Social]], the streaming platform Truth+, and the FinTech brand Truth.Fi, announced that it had begun public beta testing of [[truth-search-ai|Truth Search AI]].[17] The feature is powered by [[perplexity-ai|Perplexity]], an AI company focused on direct, contextually accurate answers with transparent citations, and was described as intended to exponentially increase the amount of information available to Truth Social users.[17] Chief executive and chairman [[devin-nunes|Devin Nunes]] said the partnership would make Truth Social "an even more vital element in the Patriot Economy."[17] Badlands contributor [[chris-paul|Chris Paul]] linked the deal to earlier reports of a possible Perplexity-TikTok merger and restated his view that TikTok would eventually end up under Trump Media, with [[jeffrey-yass|Jeff Yass]] invested on both sides.[17]
+
+## References
 1. Badlands Brief — "A Virus, or a Metaphor?", URL: https://badlands.substack.com/p/a-virus-or-a-metaphor
 2. Badlands Brief — "Games of Chicken, Spirit Fails, & Rampant Satanism", URL: https://badlands.substack.com/p/badlands-brief-7c0
 3. Badlands Brief — "Mad-Lad Maduro, Media Meltdowns & Weapons of the Future", URL: https://badlands.substack.com/p/badlands-brief-e3b
@@ -102,3 +112,5 @@ Trump Media, the parent company of [[truth-social|Truth Social]], rose sharply o
 13. Badlands Brief — "China Joe Strikes Out & Trumpism on Trial", URL: https://badlands.substack.com/p/badlands-news-brief-b04
 14. Badlands Brief — "Badlands News Brief: Unexpected Allies, Rogue Judges, & Stacked Envoys", URL: https://badlands.substack.com/p/badlands-news-brief-b0d
 15. Badlands Brief — "Badlands News Brief: Baltimore Fallout Continues as Nickelodeon Exposes Itself", URL: https://badlands.substack.com/p/badlands-news-brief-b60
+16. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93
+17. Badlands Brief — "Global Struggles, Civil Alliances, & the Penalty for Treason", URL: https://badlands.substack.com/p/badlands-news-brief-d04

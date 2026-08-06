@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cia, ratcliffe, venezuela, intelligence, diplomacy]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-323.md, raw/badlands-brief-71c.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-22b.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-b63.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-323.md, raw/badlands-brief-71c.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-22b.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-b63.md, raw/badlands-news-brief-ca7.md]
 confidence: medium
 ---
 
@@ -80,3 +80,13 @@ Badlands contributor [[burning-bright|Burning Bright]] argued that "Grand Conspi
 Badlands readers were reminded in June 2025 that as Director of National Intelligence, Ratcliffe wrote a letter alleging that the intelligence community had manipulated and withheld credible intelligence about China for political ends — a document published by [[jon-herold|Jon Herold]] in Part 7 of the [[devolution|Devolution]] series.[12] The letter was cited repeatedly during [[mike-lindell|Mike Lindell]]'s trial as evidence of the basis for his beliefs about American elections.[12] Ratcliffe subsequently became [[central-intelligence-agency|CIA]] Director, and Badlands commentary observed that election disclosure was accelerating around him.[12] See [[fbi-recall-of-2020-china-election-intelligence|FBI recall of 2020 China election intelligence]].[12]
 
 12. Badlands Brief — "Badlands News Brief: Military Strikes, Labor Strikes, & Greenland's Status Upgrade", URL: https://badlands.substack.com/p/badlands-news-brief-b63
+
+## April 2023 testimony on COVID-19 origins
+
+In April 2023, Fox News exclusively obtained Ratcliffe's prepared testimony ahead of his appearance before the [[house-select-subcommittee-on-the-coronavirus-pandemic|House Select Subcommittee on the Coronavirus Pandemic]], in which the former Director of National Intelligence stated that the "only explanation" and "plausible assessment" for the COVID-19 global pandemic is a leak from a Chinese Communist Party-controlled lab.[13] He cited U.S. intelligence and "numerous, diverse and unassailable" sources for that conclusion.[13]
+
+Ratcliffe, who was confirmed as Director of National Intelligence in May 2020 during the pandemic, was expected to deliver an unclassified overview of what the intelligence community had learned about the origins of COVID-19.[13] He was also expected to say that the Biden administration recognized that declaring the assessment would carry "enormous geopolitical implications" that it "seemingly" did "not want to face head-on."[13]
+
+[[burning-bright|Burning Bright]] wrote that Trump's former DNI was corroborating what the Truth Community had said for years as the public mind was slowly guided toward exposure and disclosure, and argued that whatever the eventual reveals, they would further expose the [[deep-state|Deep State]]'s [[system-of-systems|System of Systems]].[13] See [[lab-leak-theory|lab leak theory]].[13]
+
+13. Badlands Brief — "Badlands News Brief: Ukraine U-Turn, Taiwan Tensions & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-ca7

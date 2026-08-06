@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [supreme-court, judiciary, immigration]
-sources: [raw/badlands-brief-07c.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-aac.md]
+sources: [raw/badlands-brief-07c.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-c9d.md]
 confidence: medium
 ---
 
@@ -32,7 +32,12 @@ Badlands contributor [[chris-paul|Chris Paul]] dismissed the dissent bluntly, ch
 
 Sotomayor authored the principal dissent from the Court's July 1, 2024 ruling in [[trump-v-united-states|Trump v. United States]], warning that under the majority's reasoning a president who "uses his official powers in any way" would be insulated from criminal prosecution: "Orders the Navy's Seal Team 6 to assassinate a political rival? Immune. Organizes a military coup to hold onto power? Immune. Takes a bribe in exchange for a pardon? Immune. Immune, immune, immune."[3] Badlands contributor [[ashe-in-america|Ashe in America]] dismissed the dissent as "melodramatic screeching" and told the justice to "take a Xanax," noting that the majority had expressly preserved no immunity for unofficial acts.[3]
 
+## Dissent in Garland v. Cargill (2024)
+
+Sotomayor issued a forceful dissent from the Court's 6–3 decision in [[garland-v-cargill|Garland v. Cargill]] on June 14, 2024, which struck down the [[bureau-of-alcohol-tobacco-firearms-and-explosives|ATF]]'s [[bump-stock-ban|bump stock rule]].[4] She wrote that the majority's reading "flies in the face of this Court's standard tools of statutory interpretation," and that by casting aside the statute's ordinary meaning both at the time of its enactment and today, the majority "eviscerates Congress's regulation of machineguns and enables gun users and manufacturers to circumvent federal law."[4]
+
 ## References
 1. Badlands Brief — "Supreme Conflicts, Criminal Probes, & A Ceasefire", URL: https://badlands.substack.com/p/badlands-brief-07c
 2. Badlands News Brief — "Grand Conspiracies & Massive Reductions", URL: https://badlands.substack.com/p/badlands-news-brief-1e6
 3. Badlands Brief — "Badlands News Brief: Wins at Home and Deals Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-aac
+4. Badlands Brief — "Biden Wanders, Putin Ponders & Ukraine Launders", URL: https://badlands.substack.com/p/badlands-news-brief-c9d

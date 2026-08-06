@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [doj, prosecutors, new-york, corruption, rico]
-sources: [raw/badlands-news-brief-10a.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-9b2.md]
+sources: [raw/badlands-news-brief-10a.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-ce1.md]
 confidence: medium
 ---
 
@@ -27,7 +27,12 @@ Following the September 2024 unsealing of the federal corruption indictment agai
 
 In September 2024 the district was the venue for two high-profile prosecutions running in parallel: the bribery and fraud indictment of New York City mayor [[eric-adams|Eric Adams]], unsealed on September 26 after a months-long investigation into alleged foreign campaign donations from Turkish entities, and the federal case against [[sean-combs|Sean Combs]].[3] US Attorney [[damian-williams|Damian Williams]], asked whether other celebrities might be charged in the Combs matter, said that "nothing is off the table."[3] Badlands Media commentary drew attention to the coincidence of both cases arising in the same district and sharing a common thread of alleged corruption, describing the exposure of organized crime usurping public trust shortly before a national election as a welcome development.[3]
 
+## September 17, 2024 convergence of cases
+
+On Tuesday, September 17, 2024, the Southern District of New York was the venue for two prominent developments on the same day: the unsealing of a 14-page federal indictment against [[sean-combs|Sean "Diddy" Combs]] on sex trafficking and racketeering charges, followed by the denial of his bail application by Magistrate Judge [[robyn-tarnofsky|Robyn F. Tarnofsky]], and the [[second-circuit-court-of-appeals|2nd Circuit]]'s decision upholding [[ghislaine-maxwell|Ghislaine Maxwell]]'s sex-trafficking conviction.[4] Badlands contributor [[burning-bright|Burning Bright]] emphasized that the same district had previously convicted [[anthony-weiner|Anthony Weiner]], and treated the convergence — on the 17th of the month — as narratively significant.[4] Separately, contributor [[ashe-in-america|Ashe in America]] linked the Combs prosecution to federal raids days earlier on the homes and offices of high-profile New York City politicians and the resignation of the city's police commissioner, both amid unconfirmed allegations of payoffs and fixing.[4]
+
 ## References
 1. Badlands Brief — "Problems Litter the Game Board; But Solutions Are Coming ...", URL: https://badlands.substack.com/p/badlands-news-brief-10a
 2. Badlands Brief — "Badlands News Brief: Peacemakers Come in Many Forms …", URL: https://badlands.substack.com/p/badlands-news-brief-601
 3. Badlands News Brief — "Embattled Mayors, Peacemakers & Signal Setters", URL: https://badlands.substack.com/p/badlands-news-brief-9b2
+4. Badlands Brief — "Badlands News Brief: Trump Sends Comms as Diddlers Get Indicted", URL: https://badlands.substack.com/p/badlands-news-brief-ce1

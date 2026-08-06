@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [crime, charlotte, north-carolina, mental-illness, bail-reform]
-sources: [raw/badlands-news-brief-030.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-8cd.md]
+sources: [raw/badlands-news-brief-030.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-c16.md]
 confidence: medium
 ---
 
@@ -34,7 +34,14 @@ Harrowing video appeared to show [[iryna-zarutska|Zarutska]] board the train and
 
 The case, in which Brown — described in reporting as a homeless and mentally ill man — was arrested for the murder of [[iryna-zarutska|Iryna Zarutska]] on August 22, 2025, received extensive attention on [[fox-news|Fox News]] after the release of security video of the stabbing.[3] Discussion of the case on "Fox & Friends" produced a controversy when host [[brian-kilmeade|Brian Kilmeade]] suggested "involuntary lethal injection" for mentally ill homeless people who refuse services, a remark he later apologized for while stating he was "obviously aware that not all mentally ill, homeless people act as the perpetrator did in North Carolina."[3]
 
+## Federal indictment and capital exposure (October 2025)
+
+Brown, 34, faces federal charges that could result in the death penalty for the killing of [[iryna-zarutska|Iryna Zarutska]], the Ukrainian woman fatally stabbed on a Charlotte light rail train.[4] On Wednesday, October 22, 2025, a federal grand jury indicted him on a charge of violence against a railroad carrier and mass transportation system resulting in death, which is a capital offense under federal law.[4]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] wrote that she is fine with the death penalty for Zarutska's murderer, while urging agreement on what she called the mental health imperative, noting that Brown was a known, dangerous schizophrenic who had begged for help and that for every dollar spent on cancer research only about seven cents goes toward serious mental illness research.[4]
+
 ## References
 1. Badlands Brief — "Rare Earths, Rogue Judges, & Record Downward Revisions", URL: https://badlands.substack.com/p/badlands-news-brief-030
 2. Badlands Brief — "Badlands News Brief: Manhunts, Mental Health, & the Mother of a Monster", URL: https://badlands.substack.com/p/badlands-news-brief-6e5
 3. Badlands Brief — "Badlands News Brief: Vigils, Vanguards, & Various Investigations", URL: https://badlands.substack.com/p/badlands-news-brief-8cd
+4. Badlands Brief — "Unconvincing Unity, Ukraine Reparations, & Uneasy Cooperation", URL: https://badlands.substack.com/p/badlands-news-brief-c16

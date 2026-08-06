@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [january-6, political-groups, pardons]
-sources: [raw/badlands-brief-bdc.md, raw/badlands-brief-ea5.md]
+sources: [raw/badlands-brief-bdc.md, raw/badlands-brief-ea5.md, raw/badlands-news-brief-c9a.md]
 confidence: medium
 ---
 
@@ -26,6 +26,11 @@ Badlands contributor Ashe in America described the filing as "the end of an era"
 
 In a May 2023 discussion of the [[allen-texas-mall-shooting|Allen, Texas mall shooting]] on [[the-view|The View]], co-host [[ana-navarro|Ana Navarro]] described the Proud Boys as a "White Nationalist group" while noting that its chairman, [[enrique-tarrio|Enrique Tarrio]], is Hispanic — using the example to argue that ethnicity does not preclude white-supremacist belief.[3] Independent commentators rejected the characterization as a rhetorical device.[3]
 
+## Undercover operatives and informants (April 2023 disclosures)
+
+In April 2023, [[the-gateway-pundit|The Gateway Pundit]] reported that court documents revealed the Biden [[department-of-justice|Department of Justice]] admitting to at least 40 undercover operatives with the Proud Boys on January 6, 2021 — a disclosure central to the [[fedsurrection|"Fedsurrection"]] thesis.[3] Badlands writer [[ryan-delarme|Ryan DeLarme]] described 40 government confidential human source agents undercover that day in addition to 40 undercover operatives and 8 informants inside the group, with further assets within the [[oath-keepers|Oath Keepers]], putting the confirmed total near 100 excluding non-federal anarchist provocateurs.[3]
+
 ## References
 1. Badlands Brief — "Reversed Rulings & Reasonable Regimes", URL: https://badlands.substack.com/p/badlands-brief-bdc
 2. Badlands Brief — "Criminal Referrals & Big, Fat Hugs", URL: https://badlands.substack.com/p/badlands-brief-ea5
+3. Badlands Brief — "Badlands News Brief: The France Dance, Crime & J6 Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-c9a

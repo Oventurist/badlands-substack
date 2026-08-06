@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [foreign-policy, iran-deal, biden, clinton, deep-state]
-sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-acf.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b10.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-acf.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b10.md, raw/badlands-news-brief-bed.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-d21.md]
 confidence: medium
 ---
 
@@ -94,6 +94,16 @@ Badlands commentary described several of these episodes as already constituting 
 
 In early April 2024, Axios reported that Sullivan, then White House national security adviser, would travel to [[saudi-arabia|Saudi Arabia]] to meet Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] about a potential "mega-deal" that would include Saudi normalization with [[israel]].[15] With the war in Gaza ongoing and the US presidential election seven months away, White House officials conceded that the chances of concluding the historic agreement were slim, but the trip was read as evidence that President [[joe-biden|Joe Biden]] remained determined to pursue it.[15] Behind the scenes, according to four US and Israeli officials, the White House continued work on a draft US–Saudi defense treaty and understandings on US support for a Saudi civilian nuclear program.[15] The plan envisioned reaching a bilateral agreement with Riyadh first and then presenting it to Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]], whose side would require committing to a path toward a two-state solution — leaving him to either broker a historic peace or be exposed as a rejectionist.[15]
 
+## Postponed April 2024 Saudi trip
+
+In April 2024, Sullivan postponed plans to travel to Saudi Arabia while recovering from a cracked rib sustained in a minor accident, the White House said on Wednesday, April 3.[16] He had been scheduled to hold talks with Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] amid a United States push for progress toward normalizing relations between Israel and Saudi Arabia.[16] White House spokesperson [[john-kirby|John Kirby]] told reporters that the injury "has affected his ability to travel," adding, "This was a minor accident of his own. It was not caused by anybody. It was not the result of a nefarious act," and said Sullivan looked forward to rescheduling without providing a date.[16]
+
+Badlands Media contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] treated the cancellation as implausible on its face, noting that it came as Iran and Israel appeared to be moving toward war and questioning how the national security adviser could randomly break ribs and why an injury that cannot really be treated would prevent a first-class flight to Riyadh to help avert a wider war.[16] He speculated that Sullivan simply did not want to go, either because he was unwilling to foster a [[two-state-solution|two-state solution]] or because he knew [[benjamin-netanyahu|Netanyahu]] would not accept the terms, and dismissed the adviser in derisive terms.[16]
+
+## Bangkok meeting with Wang Yi
+
+At a meeting in Bangkok on the weekend of January 27, 2024, Sullivan raised the question of Chinese interference in the 2024 US election with Chinese Foreign Minister [[wang-yi|Wang Yi]], who offered him the same assurance that [[xi-jinping|Xi Jinping]] had given [[joe-biden|Joe Biden]] months earlier — that Beijing would not meddle in the American election that fall.[19] Sources familiar with the exchanges told [[cnn|CNN]] that the potential for Chinese interference in or influence over US elections had repeatedly arisen at senior-level meetings between the two nations in recent months.[19]
+
 ## References
 
 1. Badlands Brief — "And Iran, Iran So Far Away", URL: https://badlands.substack.com/p/and-iran-iran-so-far-away
@@ -111,3 +121,19 @@ In early April 2024, Axios reported that Sullivan, then White House national sec
 13. Badlands Brief — "Badlands News Brief: China Joe Takes the Stage as Trump's Power Grows", URL: https://badlands.substack.com/p/badlands-news-brief-acf
 14. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f
 15. Badlands Brief — "Badlands News Brief: Middle Eastern Shenanigans & Dasting Data Dominate", URL: https://badlands.substack.com/p/badlands-news-brief-b10
+16. Badlands Brief — "Badlands News Brief: Immigration Dominates Headlines as Devo Proofs Abound", URL: https://badlands.substack.com/p/badlands-news-brief-bed
+## Conditioning arms to Israel on human rights assurances (March 2024)
+
+On Monday, March 18, 2024, Sullivan confirmed that the Biden administration would consider cutting off arms sales to [[israel]] if it did not submit a report explaining how its use of American weapons complied with international law.[17] He said he expected Israel to provide such a report but did not rule out ending U.S. supplies.[17]
+
+Asked at the [[white-house|White House]] briefing about the Sunday deadline set by the National Security Memorandum, Sullivan clarified what compliance meant: "what they have to do by Sunday is just provide credible and reliable assurances that they will abide by their international obligations, not obligations we've imposed upon them, but ... obligations they have freely accepted with respect to international humanitarian law, which, of course, includes not arbitrarily impeding the flow of humanitarian assistance where they can control that."[17]
+
+## Post-war Gaza governance remarks (December 2023)
+
+In a December 2023 interview with Israel's Channel 12 news, Sullivan, then U.S. National Security Adviser, was asked about differing American and Israeli visions for post-war Gaza, with President [[joe-biden|Joe Biden]] speaking of a revitalized [[palestinian-authority|Palestinian Authority]] and Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] opposing any PA role.[18] Sullivan said the U.S. view "is that ultimately governance of the West Bank and Gaza needs to be connected, and it needs to be connected under a revamped and revitalized Palestinian Authority," adding that this would require reform, an updating of how the PA approaches governance, and financial and other support from countries in the region.[18]
+
+He said consensus could be achieved "if all of us approach it in good faith," and that the goal "should be to have a West Bank and Gaza connected under common leadership that does not represent any form of terrorist threat to Israel."[18] Sullivan reported that the Israeli government had been prepared to discuss governance, civil administration, security and reconstruction, with "work to do to get to clear answers going forward," and said the answers had to reflect "the aspirations of the Palestinian people themselves" while taking Israel's security needs into account.[18]
+
+17. Badlands Brief — "Badlands News Brief: Weaponization, Willis, and World War III", URL: https://badlands.substack.com/p/badlands-news-brief-c1e
+18. Badlands Brief — "Badlands News Brief: The System of Systems is a House of Cards", URL: https://badlands.substack.com/p/badlands-news-brief-cce
+19. Badlands Brief — "Badlands News Brief: Chinese Interference and Narrative Seeding", URL: https://badlands.substack.com/p/badlands-news-brief-d21

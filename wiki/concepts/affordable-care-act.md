@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [health-care, obamacare, subsidies, congress]
-sources: [raw/badlands-news-brief-60c.md, raw/badlands-news-brief-824.md]
+sources: [raw/badlands-news-brief-60c.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-c93.md]
 confidence: medium
 ---
 
@@ -20,7 +20,11 @@ The enhanced ACA tax credits were set to sunset on December 31, 2025, creating a
 
 In November 2025 the White House's silence on how its health care plan would deal with abortion created difficulties for Republicans on Capitol Hill, according to Politico.[2] For many GOP members an expansion of abortion restrictions within the ACA was a must-have, and the administration's decision to leave the issue out of its tentative framework caught them off guard, leaving aides unsure whether President [[donald-trump|Donald Trump]] would take a public position.[2] The fight over the [[hyde-amendment|Hyde amendment]], which bars federal funding for abortion, was described as just one of many landmines to be cleared before any deal extending the expiring ACA subsidies could be reached.[2]
 
-## References
+## Expiration of enhanced subsidies (December 2025)
 
+The enhanced ACA subsidies were set to expire on December 31, 2025, and the [[united-states-senate|Senate]] adjourned for the holidays without a resolution.[3] The fight over their future had consumed the chamber for months, sitting at the center of a record-breaking government shutdown and prompting multiple votes and extended negotiations.[3] A bipartisan group hoped to assemble a deal in January despite the fraught politics of health care and the approaching midterm elections.[3]
+
+## References
 1. Badlands Brief — "Fusion Mergers & Fusion-Adjacent Murders", URL: https://badlands.substack.com/p/badlands-news-brief-60c
 2. Badlands Brief — "Badlands News Brief: Saudi Scoops, Slender Stabbers, & Scorned Scouts", URL: https://badlands.substack.com/p/badlands-news-brief-824
+3. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93

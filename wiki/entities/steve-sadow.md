@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [law, defense-attorney, donald-trump, georgia, fani-willis]
-sources: [raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-4c3.md]
+sources: [raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-d00.md]
 confidence: high
 ---
 
@@ -22,6 +22,11 @@ Bradley offered no persuasive answers, and the judge eventually required Sadow t
 
 On March 28, 2024, Sadow appeared before Judge [[scott-mcafee|Scott McAfee]] to argue that the Georgia indictment against [[donald-trump|Donald Trump]] should be dismissed because the charges sought to criminalize political speech and advocacy conduct protected by the [[first-amendment|First Amendment]].[2] "There is nothing alleged factually against President Trump that is not political speech," Sadow told the judge, adding that a sitting president expressing concerns about an election is "the height of political speech" and remains protected even if what was said turned out to be false.[2] Prosecutor [[donald-wakeford|Donald Wakeford]] responded that the statements were integral to criminal activity and therefore unprotected.[2] Badlands contributor [[ashe-in-america|Ashe in America]] noted that the motion was framed as an "as applied" constitutional challenge to the facts of the case.[2]
 
+## Response to the McAfee ruling (April 2024)
+
+After Fulton County Superior Court Judge [[scott-mcafee|Scott McAfee]] rejected the defense's First Amendment challenge in April 2024, Sadow — [[donald-trump|Donald Trump]]'s lead lawyer on the Georgia case — said in a statement: "President Trump and other defendants respectfully disagree with Judge McAfee's order and will continue to evaluate their options regarding the First Amendment challenges."[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Trump Trounces Haley (Again) as the Media Spins", URL: https://badlands.substack.com/p/badlands-news-brief-3c0
 2. Badlands News Brief — "Trump Counters, SBF Pleads & Disney Dies?", URL: https://badlands.substack.com/p/badlands-news-brief-4c3
+3. Badlands Brief — "Badlands News Brief: Ukrai-NATO Spins Up as Wokeness Spirals", URL: https://badlands.substack.com/p/badlands-news-brief-d00

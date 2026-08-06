@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, democrats, michigan, state-of-the-union]
-sources: [raw/badlands-brief-40d.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-ae3.md]
+sources: [raw/badlands-brief-40d.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-ae3.md, raw/badlands-news-brief-c07.md]
 confidence: medium
 ---
 
@@ -36,6 +36,10 @@ Tlaib, a liberal firebrand representing parts of Detroit and its suburbs, had pr
 
 On November 7, 2023, the House passed a GOP-led resolution censuring Tlaib over comments critical of Israel and supportive of Palestinians amid Israel's war against [[hamas|Hamas]], by a vote of 234 to 188, with four Republicans opposed and 22 Democrats in favor.[5] The resolution, introduced by Georgia Republican [[rich-mccormick|Rich McCormick]], advanced after a Democratic-led effort to block it failed, and constituted a rare and significant rebuke of the Michigan Democrat.[5] Tlaib argued the effort was designed to silence her and that colleagues had "resorted to distorting my positions in resolutions filled with obvious lies."[5] In an emotional floor speech she said, "It is important to separate people and governments. No government is beyond criticism. The idea that criticizing the government of Israel is antisemitic sets a very dangerous precedent," and added, "I can't believe I have to say this, but Palestinian people are not disposable."[5] Badlands commentary held that the [[censure-of-rashida-tlaib|censure]] was a meaningless virtue signal that left her committee assignments intact and likely strengthened her among supporters.[5]
 
+## October 2023 Gaza hospital allegation
+
+In October 2023, Tlaib repeatedly alleged that Israel was responsible for the [[al-ahli-baptist-hospital-explosion|al-Ahli Baptist Hospital explosion]] in Gaza, maintaining the claim even after President [[joe-biden|Joe Biden]] indicated that an [[palestinian-islamic-jihad|Islamic Jihad]] rocket launch had caused the blast.[6] Her stance intensified tensions within the Democratic Party and helped fuel a push by thirteen progressive Democrats for a resolution demanding that Biden declassify the underlying US intelligence and call for a ceasefire and humanitarian access to Gaza.[6] [[ashe-in-america|Ashe in America]] wrote that she had not expected to agree with Tlaib "in this lifetime," but supported the demand that the intelligence be declassified.[6]
+
 ## References
 
 1. Badlands Brief — "Clinton Clashes, Royal Trafficking, & Fond WEF Farewells", URL: https://badlands.substack.com/p/badlands-brief-40d
@@ -43,3 +47,4 @@ On November 7, 2023, the House passed a GOP-led resolution censuring Tlaib over 
 3. Badlands Brief — "Problems Litter the Game Board; But Solutions Are Coming ...", URL: https://badlands.substack.com/p/badlands-news-brief-10a
 4. Badlands Brief — "Badlands News Brief: DemoCrabs in Biden's Bucket", URL: https://badlands.substack.com/p/badlands-news-brief-845
 5. Badlands Brief — "Badlands News Brief: Debates, Rallies ... and Deep State Implosions", URL: https://badlands.substack.com/p/badlands-news-brief-ae3
+6. Badlands Brief — "Badlands News Brief: Proxy Presidents & Proxy Wars", URL: https://badlands.substack.com/p/badlands-news-brief-c07

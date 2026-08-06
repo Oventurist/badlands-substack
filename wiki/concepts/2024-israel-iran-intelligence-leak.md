@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [intelligence-leak, fbi, israel, iran, telegram]
-sources: [raw/badlands-news-brief-27c.md, raw/badlands-news-brief-481.md, raw/badlands-news-brief-536.md]
+sources: [raw/badlands-news-brief-27c.md, raw/badlands-news-brief-481.md, raw/badlands-news-brief-536.md, raw/badlands-news-brief-cfa.md]
 confidence: medium
 ---
 
@@ -40,7 +40,16 @@ Reporting in late October 2024 placed New Zealand in the crosshairs of the U.S. 
 
 The documents were published on an Iranian-aligned Telegram account called "Middle East Spectator," though Kirby said there was no indication that further documents would surface publicly.[3] New Zealand had recently suffered several successful hacks by foreign powers, and its intelligence agency, the [[government-communications-security-bureau|Government Communications Security Bureau]], had absorbed a NZ$7 million (US$4.7 million) budget cut.[3] Because Iran maintains a large and sophisticated cyber-warfare capability, U.S. intelligence agencies and the [[fbi|FBI]] investigated the possibility of a hostile hack.[3]
 
+## Scope of the US investigation
+
+Three U.S. officials told the Associated Press that the United States was investigating the unauthorized release of the classified documents assessing Israel's plans to attack Iran, and a fourth official said the documents appeared to be legitimate.[4] The documents were attributed to the [[national-geospatial-intelligence-agency|National Geospatial-Intelligence Agency]] and the [[national-security-agency|National Security Agency]], and noted that Israel was still moving military assets into place to conduct a strike in response to Iran's ballistic missile attack of October 1.[4] They were sharable within the [[five-eyes|Five Eyes]] — the United States, Great Britain, Canada, New Zealand and Australia — and were marked top secret.[4] Posted to the Telegram messaging app, they were first reported on Saturday by CNN and Axios, with the officials speaking on condition of anonymity because they were not authorized to discuss the matter publicly.[4] The investigation examined how the documents were obtained, including whether the disclosure was an intentional leak by a member of the U.S. intelligence community or the product of another method such as a hack, whether any other intelligence had been compromised, and who had access to the documents before they were posted.[4]
+
+## The "Iranchurian Candidate" timeline
+
+[[burning-bright|Burning Bright]] asked whether the public was being prepped for an October surprise involving [[kamala-harris|Kamala Harris]], and laid out what he called the "Iranchurian Candidate" scenario as a narrative timeline.[4] Its steps: Iran hacks the [[donald-trump|Trump]] campaign and obtains opposition research on behalf of unknown entities; the Trump team withholds that knowledge until strategically useful; the Harris campaign claims it was hacked too while the mainstream press panics over having been offered politically radioactive material; someone attempts to kill Trump in Butler, Pennsylvania, with later reports tying the attempts to Iran; [[hillary-clinton|Hillary Clinton]] warns of an October surprise involving Harris and tells Americans not to believe it; Iran obtains leaked Israeli military intelligence on strategic operations planning that Israel says could only have come from someone near the U.S. chain of command; Trump seeds "traitor" messaging about Harris and her predecessors going back to Obama and Clinton while routinely invoking her Marxist origins; and quid pro quo is already cemented in the American mind through the Trump–Biden–Ukraine affair, the Trump version fake and the Biden version about money.[4] From that sequence he asked whether the Kamala quid pro quo concerned something far worse, why Trump appeared so comfortable and Harris so twitchy, how one shows the public the true depth of the enemy's corruption, and when trials for treason begin.[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Abercreepy Elites Versus Sovereign Alliance Alpha Chads", URL: https://badlands.substack.com/p/badlands-news-brief-27c
 2. Badlands Brief — "Badlands News Brief: Donald's Drive-Thru Goes Viral as Iran Makes Moves", URL: https://badlands.substack.com/p/badlands-news-brief-481
 3. Badlands Brief — "Orange Man Reruns & Scandals Galore", URL: https://badlands.substack.com/p/badlands-news-brief-536
+4. Badlands News Brief — "Trump Talks Taxes as Deep State Shenanigans Abound", URL: https://badlands.substack.com/p/badlands-news-brief-cfa

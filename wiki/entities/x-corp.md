@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [social-media, censorship, brazil, free-speech]
-sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-995.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-b22.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-b68.md]
+sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-995.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-b22.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-b68.md, raw/badlands-news-brief-b9c.md, raw/badlands-news-brief-ca1.md]
 confidence: medium
 ---
 
@@ -153,3 +153,12 @@ On July 9, 2025 [[linda-yaccarino|Linda Yaccarino]] announced her resignation as
 
 21. Badlands Brief — "Badlands News Brief: Free Money & Clean Voter Rolls", URL: https://badlands.substack.com/p/badlands-news-brief-b68
 22. Badlands Brief — "Badlands News Brief: Tucker Does Moscow as the News Cycle Goes Ballistic", URL: https://badlands.substack.com/p/badlands-news-brief-b9c
+## GARM antitrust lawsuit (August 2024)
+
+In August 2024 X filed suit against what ZeroHedge described as an "advertising cartel" that had colluded to control online speech, following an interim staff report released the previous month by the [[house-judiciary-committee|House Judiciary Committee]].[23] The Tuesday filing targeted the [[global-alliance-for-responsible-media|Global Alliance for Responsible Media]] (GARM) and several of its members, including [[cvs-health|CVS Health]], [[mars-incorporated|Mars]], Orsted and [[unilever|Unilever]], alleging that the group abused its influence over marketers and ad agencies to discriminate unfairly against X and prompt an advertiser boycott.[23] The complaint argued that the boycott ran against the unilateral self-interest of individual advertisers and "made economic sense only in furtherance of a conspiracy performed in the confidence that competing advertisers were doing the same."[23]
+
+In an open letter, chief executive [[linda-yaccarino|Linda Yaccarino]] called GARM's behavior "a stain on a great industry" that "cannot be allowed to continue," adding that others had likely suffered from the same activity and that the case was about more than damages — it was about fixing "a broken ecosystem that allows this illegal activity to occur."[23] Shortly after the filing, [[rumble|Rumble]] joined the lawsuit.[23]
+
+[[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote for [[badlands-media|Badlands Media]] that although X remains a censored platform on which he is himself shadow-banned, the fight against the boycott was one that had to be waged, pointing readers to [[mike-benz|Mike Benz]] for background and observing that even selective free speech on X had been devastating for the status quo.[23] He also flagged [[elon-musk|Elon Musk]]'s public invocation of RICO, speculating that the targets might include [[newsguard|NewsGuard]], [[jules-kroll|Jules Kroll]] or [[k2-integrity|K2 Integrity]], and noted Musk's interview with [[donald-trump|Donald Trump]] scheduled for the following Monday.[23]
+
+23. Badlands Brief — "Fake Vice Presidents and Effective Lawsuits", URL: https://badlands.substack.com/p/badlands-news-brief-ca1

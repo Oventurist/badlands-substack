@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fbi, media, january-6, cnn]
-sources: [raw/badlands-news-brief-096.md]
+sources: [raw/badlands-news-brief-096.md, raw/badlands-news-brief-c05.md, raw/badlands-news-brief-d21.md]
 confidence: medium
 ---
 
@@ -18,5 +18,16 @@ Following the May 22, 2023 incident in which a U-Haul truck struck White House b
 
 Badlands writer [[ashe-in-america|Ashe in America]] singled out the remark, emphasizing that it was "that Andrew McCabe" and that he "did use his new career in media to link the alleged brown white supremacist U-Haul driver to January 6 defendants," concluding that "FBI psy-op habits die hard."[1] Her broader argument was that the subsequent downgrading of Kandula's charges to a single count of depredation of federal property undercut the narrative McCabe had advanced.[1]
 
+## Commentary on the Mohn case
+
+As a [[cnn|CNN]] law enforcement analyst and former [[fbi|FBI]] deputy director, McCabe commented on the late-January 2024 arrest of [[justin-mohn|Justin Mohn]], who was charged with murder after posting a video displaying his decapitated father's head with a political rant.[3] McCabe said the "bigger picture is extremely concerning" as the country moved into what he expected to be an incredibly heated political season.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Debt Ceiling, Cancel Culture & Incorruptibility", URL: https://badlands.substack.com/p/badlands-news-brief-096
+
+## Reaction to Trump's 2024 retribution remarks
+
+After [[donald-trump|Donald Trump]] said in June 2024 that he would have "every right to go after" his political opponents if elected, Badlands contributor [[ashe-in-america|Ashe in America]] described McCabe and [[kaitlan-collins|Kaitlan Collins]] visibly panicking on air about the prospect of accountability, writing that McCabe "wants all of us to be terrified of 45 reforming the DOJ and FBI."[2] She countered that polling showed most Americans regard government corruption as the greatest threat to democracy and that retribution against corrupted institutions is what voters want, closing with the admonition directed at McCabe: "No one is above the law. Preserve all records."[2]
+
+2. Badlands News Brief — "Bicameral Jailings, Russian Trolling and Retribution ...", URL: https://badlands.substack.com/p/badlands-news-brief-c05
+3. Badlands Brief — "Badlands News Brief: Chinese Interference and Narrative Seeding", URL: https://badlands.substack.com/p/badlands-news-brief-d21

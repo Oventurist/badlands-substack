@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [first-lady, melania-trump, artificial-intelligence]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-285.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-b01.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-285.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-cf3.md]
 confidence: medium
 ---
 
@@ -46,6 +46,12 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] defen
 
 Days before the November 2024 election, the Daily Beast published recordings of [[jeffrey-epstein|Jeffrey Epstein]], made by author [[michael-wolff|Michael Wolff]] in August 2017, in which Epstein described himself as [[donald-trump|Donald Trump]]'s "closest friend" and claimed that "the first time he slept with her was on my plane" in reference to Melania Trump, the aircraft popularly known as the Lolita Express.[7] [[badlands-media|Badlands Media]] characterized the release as a recycled Trump–Epstein conflation campaign timed to the election rather than as new evidence.[7]
 
+## Rosalynn Carter memorial encounter and Clinton memoir (2024)
+
+In a memoir released on September 17, 2024, [[hillary-clinton|Hillary Clinton]] described encountering Melania Trump at a memorial service for former first lady Rosalynn Carter — their first face-to-face meeting since the 2016 election.[8] Carter's grandson Jason had said it was his grandmother's wish that all the first ladies attend as a show of unity in divisive times.[8] Clinton wrote that Melania stood alone as Laura Bush stepped away to greet the others, and likened her expression to that of "the little kid at the birthday party who doesn't know anyone."[8] According to the account, Jill Biden air-kissed her cheek, [[michelle-obama|Michelle Obama]] embraced her, [[bill-clinton|Bill Clinton]] attempted conversation, and Hillary Clinton shook her hand.[8]
+
+Badlands commentary defended Melania sharply against the characterization, with contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] describing his response as restrained out of respect for her.[8]
+
 ## References
 
 1. Badlands Brief — "Arctic Escalation and Tropic Trouble for the Financial System", URL: https://badlands.substack.com/p/badlands-brief-02a
@@ -55,3 +61,10 @@ Days before the November 2024 election, the Daily Beast published recordings of 
 5. Badlands Brief — "Badlands News Brief: “Terrifying” Trade Alliances, Pedagogue Payouts, & A Bondi Barn Burner", URL: https://badlands.substack.com/p/badlands-news-brief-7bb
 6. Badlands Brief — "Badlands News Brief: A Midflight Collision, Dems Choose Division, Menendez Gets Prison", URL: https://badlands.substack.com/p/badlands-news-brief-93e
 7. Badlands Brief — "Badlands News Brief: Marauding, Squirrel-Murdering Psychopaths Panic Ahead of the Election", URL: https://badlands.substack.com/p/badlands-news-brief-b01
+8. Badlands Brief — "Badlands News Brief: Trump Sends Comms as Diddlers Get Indicted", URL: https://badlands.substack.com/p/badlands-news-brief-ce1
+
+## Absence from the 2025 Super Bowl
+
+President [[donald-trump|Donald Trump]]'s entourage at the Super Bowl in New Orleans on Sunday, February 9, 2025 included Eric Trump, Lara Trump and Ivanka Trump with her son, but first lady Melania Trump was not present as the family watched the Kansas City Chiefs face the Philadelphia Eagles.[9] Coverage noted that she had made few public appearances since Trump's 2020 loss to Joe Biden and was rarely present during the 2024 presidential campaign.[9] In a statement that Sunday, Trump said the first lady "joins me in sending our best wishes for a great Super Bowl Sunday."[9]
+
+9. Badlands Brief — "Badlands News Brief: Soaring Eagles & Terminal USAIDs", URL: https://badlands.substack.com/p/badlands-news-brief-cf3

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [corporations, brewing, bud-light, boycott, woke-capital]
-sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-7a7.md]
+sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-cdb.md]
 confidence: medium
 ---
 
@@ -34,8 +34,23 @@ By June 2023, Anheuser-Busch stood with [[target|Target]] as the paradigm case c
 
 Reporting that month described a "Target and Bud Light stock-market disaster" that led executives across corporate America — including at [[starbucks|Starbucks]] — to quiet their advocacy on green and social initiatives.[3] [[ashe-in-america|Ashe in America]] cited Anheuser-Busch alongside [[disney|Disney]] as a global brand that had lost significant market share to poorly executed virtue signals yet continued "riding the rainbow."[3]
 
-## References
+## Marketing leadership change after the Bud Light backlash (April 2023)
 
+Three weeks after [[bud-light|Bud Light]]'s partnership with transgender TikTok influencer [[dylan-mulvaney|Dylan Mulvaney]] triggered a consumer backlash, Anheuser-Busch InBev abruptly changed the brand's marketing leadership.[4] Ad Age reported on Friday, April 21, 2023 that Bud Light vice president of marketing [[alissa-heinerscheid|Alissa Heinerscheid]] had taken a leave of absence and would be replaced by [[todd-allen|Todd Allen]], previously global marketing vice president for [[budweiser|Budweiser]].[4] A company spokesperson said top-level executives would closely monitor Bud Light's marketing activities so as to "maintain focus on the things we do best: brewing great beer for all consumers, while always making a positive impact in our communities and on our country."[4]
+
+[[zerohedge|ZeroHedge]], which carried the report, framed the episode as the brand's failed attempt to position itself as the "queen" of woke beers.[4] [[badlands-media|Badlands Media]] writer [[burning-bright|Burning Bright]] observed that the controversy had persisted well over a week and a half in the national news cycle, with far more outlets than culture-war-adjacent ones covering it, and that even the legacy financial press was grudgingly admitting the company might have made a catastrophic marketing blunder that would show red in its ledgers for several quarters and more.[4]
+
+## $6 billion market-cap loss (April 2023)
+
+After reaching a three-year high of $66.73 per share, Anheuser-Busch InBev lost more than $6 billion in market capitalisation in the six days following the announcement of the [[dylan-mulvaney|Dylan Mulvaney]] partnership on April 2, 2023, as bar owners and distributors reported a sharp decline in [[bud-light|Bud Light]] sales.[5] The company's market capitalisation fell as low as $125.7 billion, down from $132.8 billion six days earlier — a drop of more than five percent.[5]
+
+The partnership included custom cans featuring Mulvaney's face and pro-LGBTQ language commemorating a year of Mulvaney publicly identifying as a woman, and the campaign launched with a video of Mulvaney drinking Bud Light in a bathtub.[5] While Anheuser-Busch issued a statement of support saying it "works with hundreds of influencers across our brands as one of many ways to authentically connect with audiences across various demographics," the Daily Wire reported — as relayed by [[zerohedge|ZeroHedge]] — that company executives had no knowledge of the ad campaign.[5]
+
+[[burning-bright|Burning Bright]] argued that the most significant effect of the backlash was less about the transgender issue than about ordinary consumers realising they could inflict massive damage on a Fortune 500 company not by taking action but by declining to participate, summarising that to destroy a [[system-of-systems|System of Systems]] "all you have to do is not take part in it."[5]
+
+## References
 1. Badlands Brief — "Badlands News Brief: Pedo Islands, Polling Panic & Cage Fights", URL: https://badlands.substack.com/p/badlands-news-brief-024
 2. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... Or So We're Told", URL: https://badlands.substack.com/p/badlands-news-brief-208
 3. Badlands Brief — "Badlands News Brief: Trump Defiant, Biden Protected & Woke Worn", URL: https://badlands.substack.com/p/badlands-news-brief-7a7
+4. Badlands Media — "Badlands News Brief: A Tucker, a Lemon and a Trump Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-bf6
+5. Badlands Brief — "Badlands News Brief: Leak Shenanigans, Trump Seeds & Woke Broke", URL: https://badlands.substack.com/p/badlands-news-brief-cdb

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [prosecutor, department-of-justice, hunter-biden, delaware]
-sources: [raw/badlands-news-brief-090.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-9de.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b26.md]
+sources: [raw/badlands-news-brief-090.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-9de.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-d24.md]
 confidence: medium
 ---
 
@@ -70,6 +70,10 @@ In June 2023, Republicans argued that Weiss had been blocked from charging [[hun
 
 Weiss had charged the president's son the previous week with federal tax and gun violations after a five-year probe, and House Speaker [[kevin-mccarthy|Kevin McCarthy]] said Weiss must appear before the [[house-judiciary-committee|House Judiciary Committee]].[11] Garland reiterated that Weiss "was given complete authority to make all decisions on his own," a claim [[ashe-in-america|Ashe in America]] argued House investigators should be able to verify readily.[11]
 
+## Role in the June 2023 plea agreement
+
+As U.S. Attorney for Delaware, Weiss negotiated the [[hunter-biden-plea-agreement|plea agreement]] announced on 20 June 2023, under which Hunter Biden would plead guilty to two federal tax violations and enter a pretrial diversion program on a federal gun charge.[12] Weiss agreed to recommend a sentence of probation for the IRS felony tax crimes, an outcome Badlands writers cited as evidence of a [[two-tier-justice-system|two-tier justice system]] given that the firearms count nominally carried a $250,000 fine and a five-year mandatory sentence.[12] Federal prosecutor [[derek-hines|Derek Hines]] was identified as one of the attorneys working the case under Weiss.[12]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Hunter Hunted, Billionaire Boxing & Snopes Nopes", URL: https://badlands.substack.com/p/badlands-news-brief-090
 2. Badlands Brief — "Badlands News Brief: Democrats in Disarray as Globalists Bend the Knee", URL: https://badlands.substack.com/p/badlands-news-brief-099
@@ -82,3 +86,4 @@ Weiss had charged the president's son the previous week with federal tax and gun
 9. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
 10. Badlands News Brief — "Contentious Confirmations & Conflicted Special Counsels", URL: https://badlands.substack.com/p/badlands-news-brief-b02
 11. Badlands Brief — "Badlands News Brief: Trump's Tapes, Putin's Plan & Byrne's Bio", URL: https://badlands.substack.com/p/badlands-news-brief-b26
+12. Badlands Brief — "Badlands News Brief: Hunter's Slap & Trump's Trap", URL: https://badlands.substack.com/p/badlands-news-brief-d24

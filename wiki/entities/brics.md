@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [brics, gold, dollar, international-finance]
-sources: [raw/a-week-to-remember.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-07f.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-175.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-b5f.md]
+sources: [raw/a-week-to-remember.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-07f.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-175.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d21.md]
 confidence: medium
 ---
 
@@ -96,6 +96,20 @@ In August 2024, Palestine announced it would officially apply to join BRICS foll
 
 The move fit a broader pattern of accession interest. The bloc had expanded its membership for the first time since 2001 the previous year, welcoming the United Arab Emirates, Iran, Egypt and Ethiopia in 2023, and had continued discussing further growth as additional nations sought inclusion.[14] Badlands Media argued that integrating Palestine into the bloc would advance its recognition as a state under the [[montevideo-convention|Montevideo Convention]] criteria and grant it autonomy from the United Nations, the United States and Israel, describing the [[2024-brics-kazan-summit|Kazan summit]] in October as effectively "a huge party to celebrate the end of central banking."[14]
 
+## Lula's April 2023 call for a BRICS trade currency
+
+On April 13, 2023, Brazilian president [[luiz-inacio-lula-da-silva|Luiz Inácio Lula da Silva]] called on BRICS nations to develop an alternative to the dollar in foreign trade, supporting China's challenge to U.S. global dominance as he prepared to meet [[xi-jinping|Xi Jinping]] in Beijing.[15] The remarks were made during a visit to the Shanghai-based [[new-development-bank|New Development Bank]], an institution created by the BRICS countries — Brazil, China, Russia, India and South Africa — whose new chief executive was former Brazilian president [[dilma-rousseff|Dilma Rousseff]].[15]
+
+[[burning-bright|Burning Bright]] wrote that paradigms shift slowly and then all at once, argued that observers had underestimated the growing power of the BRICS economies relative to the [[g7|G7]], and placed the inflection point during the COVID-19 period.[15] He framed the transition as a planned demolition of the [[petrodollar|petrodollar]] and the globalist West rather than hopium or conspiracy, concluding: "It's math."[15]
+
+## Parallel economy framing (April 2023)
+
+In April 2023 commentary accompanying coverage of the [[2023-macron-state-visit-to-china|2023 Macron state visit to China]], Badlands writer [[burning-bright|Burning Bright]] described BRICS as "being set up as a parallel economy, built on the Real rather than the unReal of the fiat Central Banking System," and observed that such moves were being made while [[donald-trump|Donald Trump]] was off center stage.[16] He linked the trend to France agreeing to settle energy trades in yuan for the first time and to [[emmanuel-macron|Emmanuel Macron]] "helping to push the multi-polar world order."[16]
+
+## Confirmed 2024 accessions
+
+South African Foreign Minister [[naledi-pandor|Naledi Pandor]] said on Wednesday, January 31, 2024 that Egypt, Ethiopia, [[iran|Iran]], Saudi Arabia, and the United Arab Emirates had confirmed they were joining the BRICS bloc after being invited the previous year.[17] The five had received invitations alongside Argentina at the August 2023 summit in Johannesburg to join the group then comprising Brazil, Russia, China, India, and South Africa, whose members say enlargement would help reshuffle a world order they regard as outdated.[17] Argentina subsequently declined the invitation.[17]
+
 ## References
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
 2. Badlands Brief — "Are CBDCs The Path To Fear, or Freedom?", URL: https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom
@@ -111,3 +125,6 @@ The move fit a broader pattern of accession interest. The bloc had expanded its 
 12. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... But Not on Us", URL: https://badlands.substack.com/p/badlands-news-brief-881
 13. Badlands News Brief — "Embattled Mayors, Peacemakers & Signal Setters", URL: https://badlands.substack.com/p/badlands-news-brief-9b2
 14. Badlands Brief — "Badlands News Brief: Debates About Debates, RINO Country & Building BRICS", URL: https://badlands.substack.com/p/badlands-news-brief-b5f
+15. Badlands Brief — "Badlands News Brief: Leak Shenanigans, Trump Seeds & Woke Broke", URL: https://badlands.substack.com/p/badlands-news-brief-cdb
+16. Badlands Brief — "Badlands News Brief: The France Dance, Crime & J6 Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-c9a
+17. Badlands Brief — "Badlands News Brief: Chinese Interference and Narrative Seeding", URL: https://badlands.substack.com/p/badlands-news-brief-d21

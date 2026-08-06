@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [fusion, energy, merger, trump-media, december-2025]
-sources: [raw/badlands-news-brief-60c.md]
+sources: [raw/badlands-news-brief-60c.md, raw/badlands-news-brief-c93.md]
 confidence: medium
 ---
 
@@ -30,6 +30,10 @@ Quoting his feature "The Master Plan," Burning Bright argued that the "muh China
 
 The merger announcement coincided with the killings of [[massachusetts-institute-of-technology|MIT]] plasma physicist [[nuno-loureiro|Nuno F. G. Loureiro]] and the resolution of the [[brown-university-shooting|Brown University shooting]] case, prompting Badlands contributors to characterize the week's news as "fusion mergers and fusion-adjacent murders."[1]
 
-## References
+## December 2025 market reaction
 
+The fusion pivot announced on December 18, 2025 produced a 41.93% single-day surge in [[trump-media-and-technology-group|Trump Media & Technology Group]] shares, which traded near $15.32 the following morning after a 58% year-to-date decline.[2] Coverage framed the transaction as recasting a social media company as a diversified technology and energy conglomerate combining nuclear fusion with artificial intelligence infrastructure.[2] Badlands contributor [[burning-bright|Burning Bright]] observed that the merger made DJT the first publicly traded fusion company in history, with plans to build the first commercial fusion reactor beginning in 2026.[2]
+
+## References
 1. Badlands Brief — "Fusion Mergers & Fusion-Adjacent Murders", URL: https://badlands.substack.com/p/badlands-news-brief-60c
+2. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ivermectin, covid-19, fda, censorship, early-treatment]
-sources: [raw/badlands-news-brief-47f.md, raw/badlands-news-brief-5fb.md]
+sources: [raw/badlands-news-brief-47f.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-cce.md]
 confidence: medium
 ---
 
@@ -36,6 +36,11 @@ In May 2024, former CNN anchor [[chris-cuomo|Chris Cuomo]] — who had once said
 
 [[ashe-in-america|Ashe in America]] responded that independent researchers had been consulting the same clinicians in real time, and that patients turned to veterinary "horse paste" only because doctors would not prescribe the drug and pharmacists would not fill prescriptions under government pressure and propaganda.[2] She argued many lives could have been saved with ivermectin, hydroxychloroquine and Vitamin D, and that thousands died after being denied these treatments and instead given remdesivir and placed on ventilators.[2]
 
+## America First Legal FOIA lawsuit (December 2023)
+
+In December 2023 [[america-first-legal|America First Legal]] sued the [[food-and-drug-administration|FDA]] and the [[department-of-health-and-human-services|Department of Health and Human Services]] for failing to release documents about the government's suppression of ivermectin and [[hydroxychloroquine|hydroxychloroquine]] as COVID-19 treatments.[3] AFL filed [[freedom-of-information-act|FOIA]] requests concerning ivermectin — described in coverage as a popular antiparasitic medication — in September 2022 and received tracking numbers, but neither agency complied.[3] The organization said it sought to determine when and why officials including [[anthony-fauci|Anthony Fauci]] discouraged and suppressed its use.[3] Badlands contributor [[paul-fleuret|Paul Fleuret]] argued that thousands of doctors and hundreds of peer-reviewed studies had supported the drug's efficacy against COVID-19 while agencies withheld information from the public.[3]
+
 ## References
 1. Badlands Media — "Badlands News Brief: Horse Paste & A Couple of Bloodbaths", URL: https://badlands.substack.com/p/badlands-news-brief-47f
 2. Badlands News Brief — "Biden Melts Down as Judges Are Themselves Judged", URL: https://badlands.substack.com/p/badlands-news-brief-5fb
+3. Badlands Brief — "Badlands News Brief: The System of Systems is a House of Cards", URL: https://badlands.substack.com/p/badlands-news-brief-cce

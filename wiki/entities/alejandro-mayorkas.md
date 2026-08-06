@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [homeland-security, biden-administration, january-6, security]
-sources: [raw/badlands-news-brief-017.md, raw/badlands-news-brief-06d.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-b19.md]
+sources: [raw/badlands-news-brief-017.md, raw/badlands-news-brief-06d.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-d21.md]
 confidence: medium
 ---
 
@@ -52,6 +52,12 @@ Remarks by Mayorkas, alongside those of President [[joe-biden|Joe Biden]] and in
 
 Badlands commentary on the January 2024 [[eagle-pass-border-standoff|Eagle Pass standoff]] highlighted that Mayorkas was set to undergo impeachment proceedings the week following January 24, 2024, with the Texas-federal border litigation scheduled to follow on February 7 — a convergence [[burning-bright|Burning Bright]] flagged with the remark "Such timing."[9]
 
+## Committee approval of impeachment articles
+
+Early on Wednesday, January 31, 2024, the Republican-led [[house-homeland-security-committee|House Homeland Security Committee]] approved two articles of impeachment against Mayorkas for having "willfully and systematically" flouted federal immigration laws and breached the public trust.[10] The 18–15 party-line vote affirmed that Mayorkas failed to detain migrants crossing the border before deciding whether to grant asylum.[10] The articles also stated that he ignored records requests from the committee and misled [[congress|Congress]] about having "operational control" of the border and about his claim that it is "secure."[10] The hearing ran more than fifteen hours and included repeated procedural attempts by Democrats to derail the effort, while Republicans said their year-long investigation had established that Mayorkas violated his oath of office.[10]
+
+[[burning-bright|Burning Bright]] read the vote as one element in a cascade of border narratives converging in early 2024, alongside the Eagle Pass controversy and a Texas appeal before the Fifth Circuit over federal authority at the border, arguing the sequencing was too well-timed to be coincidence.[10]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Tracking Resignations, Scare Events & the Death of Taxes", URL: https://badlands.substack.com/p/badlands-news-brief-017
@@ -63,3 +69,4 @@ Badlands commentary on the January 2024 [[eagle-pass-border-standoff|Eagle Pass 
 7. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889
 8. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
 9. Badlands Brief — "Badlands News Brief: Lake and Abbott Take a Stand as Haley Falls", URL: https://badlands.substack.com/p/badlands-news-brief-b19
+10. Badlands Brief — "Badlands News Brief: Chinese Interference and Narrative Seeding", URL: https://badlands.substack.com/p/badlands-news-brief-d21

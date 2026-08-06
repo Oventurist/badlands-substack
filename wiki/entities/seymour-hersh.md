@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [journalism, nord-stream, investigative-reporting]
-sources: [raw/badlands-news-brief-204.md, raw/badlands-news-brief-420.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-87b.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-9e7.md]
+sources: [raw/badlands-news-brief-204.md, raw/badlands-news-brief-420.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-87b.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-9e7.md, raw/badlands-news-brief-ca7.md]
 confidence: medium
 ---
 
@@ -58,6 +58,12 @@ In a Substack investigative article published in late July 2023, Hersh alleged t
 
 Badlands contributor [[burning-bright|Burning Bright]] situated the report in a sequence running from the alleged [[nord-stream-sabotage|Nord Stream 2 sabotage]] — which he described as a [[cia|CIA]] operation blamed on Russian operators and capable of pushing Europe toward kinetic war with Russia — through subsequent suspected false-flag events including the [[kakhovka-dam-destruction|Kakhovka Dam]] destruction and the bridge strikes.[7] He wrote that he had taken to calling the Biden [[state-department|State Department]] the "(Deep) State Department," observing that the Kremlin rarely addresses [[joe-biden|Joe Biden]] directly but often addresses Secretary of State [[antony-blinken|Antony Blinken]], and argued that the clandestine kinetic arm of the [[deep-state|Deep State]] is the CIA.[7]
 
+## Reporting on Ukrainian embezzlement of US aid
+
+In April 2023, Hersh reported that Ukrainians had embezzled at least $400 million of the money given to them by the United States.[8] According to his reporting, [[volodymyr-zelensky|Volodymyr Zelensky]] was confronted with evidence of the embezzlement by CIA Director [[william-burns|William Burns]] and responded by dismissing a handful of officials while taking no serious action.[8] The account was amplified by [[and-magazine|AND Magazine]], which paired it with [[transparency-international|Transparency International]] survey data on Ukrainian bribery and with a [[security-service-of-ukraine|Security Service of Ukraine]] disclosure of a military food-procurement embezzlement scheme.[8]
+
+[[burning-bright|Burning Bright]] observed that prominent left-leaning writers — "even a Pulitzer Prize winner" — advancing Ukraine corruption headlines were shifting the [[overton-window|Overton Window]] back toward objective analysis of the funding American and European taxpayers had sent to what he called the [[deep-state|Deep State]]'s latest forever-war quagmire.[8]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Narrative Shielding & Biden Bait", URL: https://badlands.substack.com/p/badlands-news-brief-204
 2. Badlands News Brief — "The Hersh Report, Exposure & Disclosure", URL: https://badlands.substack.com/p/badlands-news-brief-420
@@ -66,3 +72,4 @@ Badlands contributor [[burning-bright|Burning Bright]] situated the report in a 
 5. Badlands Brief — "Obama Leaves the Basement as Maduro Enters the Play", URL: https://badlands.substack.com/p/badlands-news-brief-87b
 6. Badlands Brief — "Badlands News Brief: January 6 and Nord Stream Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-8f4
 7. Badlands Brief — "Archer's Testimony & Prussian Roulette", URL: https://badlands.substack.com/p/badlands-news-brief-9e7
+8. Badlands Brief — "Badlands News Brief: Ukraine U-Turn, Taiwan Tensions & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-ca7

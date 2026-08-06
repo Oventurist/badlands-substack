@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, house-judiciary, oversight, jack-smith]
-sources: [raw/badlands-brief-245.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-732.md, raw/badlands-news-brief-79c.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-a7b.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-bcc.md]
+sources: [raw/badlands-brief-245.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-732.md, raw/badlands-news-brief-79c.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-a7b.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-bcc.md, raw/badlands-news-brief-c07.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c9a.md]
 confidence: medium
 ---
 
@@ -111,6 +111,18 @@ As chairman of the [[house-judiciary-committee|House Judiciary Committee]], Jord
 
 As chairman of the [[house-judiciary-committee|House Judiciary Committee]], Jordan opened the panel's July 24, 2024 hearing with [[christopher-wray|FBI Director Christopher Wray]] by meticulously recounting the bureau's recent failings, outlining the many scandals and law enforcement events for which, in Badlands' framing, the American people were still awaiting answers.[23] The hearing centered on the [[fbi|FBI]]'s investigation of the [[attempted-assassination-of-donald-trump-2024|July 13 attempt]] on [[donald-trump|Donald Trump]]'s life.[23]
 
+## October 19, 2023 reversal on a third ballot
+
+On Thursday, October 19, 2023, Jordan said he would not hold a third ballot for speaker and would instead let interim speaker [[patrick-mchenry|Patrick McHenry]] hold the gavel until January, with Representative [[david-joyce|David Joyce]] of Ohio drafting legislation to grant McHenry the full powers of the office.[24] The arrangement rubbed many Republicans the wrong way because McHenry was backed by Democrats, prompting [[tom-emmer|Tom Emmer]] to declare that "we should never allow a Democrat-backed coalition government. Ever."[24] [[steve-scalise|Steve Scalise]], Jordan's previous opponent for speaker who had pulled out of the race, and [[elise-stefanik|Elise Stefanik]] were likewise opposed to a Democrat-friendly speakership running into January.[24] Amid that backlash Jordan reversed course, appearing open to a third vote and saying he wanted to talk to the 20 holdouts who had blocked his first two attempts.[24]
+
+## December 2023 letter on Hunter Biden's subpoena defiance
+
+On December 27, 2023, Representative Jim Jordan of the [[house-judiciary-committee|House Judiciary Committee]] joined [[james-comer|James Comer]] in asking the [[white-house|White House]] for information about President [[joe-biden|Joe Biden]]'s alleged involvement in [[hunter-biden|Hunter Biden]]'s refusal to comply with a congressional subpoena for a deposition.[25]
+
+## Manhattan crime hearing and FBI funding (April 2023)
+
+In April 2023, as chairman of the [[house-judiciary-committee|House Judiciary Committee]], Jordan oversaw the scheduling of the [[2023-house-judiciary-manhattan-crime-hearing|2023 House Judiciary Manhattan crime hearing]] targeting Manhattan District Attorney [[alvin-bragg|Alvin Bragg]].[26] Badlands writer [[ryan-delarme|Ryan DeLarme]] wrote that it was unsurprising [[jerrold-nadler|Jerrold Nadler]] would take shots at Jordan for "rightfully wanting to defund their fully weaponized" [[fbi|Federal Bureau of Investigation]].[26]
+
 ## References
 
 1. Badlands Brief — "Trump Roasts The Press; Teases 2028 Run", URL: https://badlands.substack.com/p/badlands-brief-245
@@ -136,3 +148,6 @@ As chairman of the [[house-judiciary-committee|House Judiciary Committee]], Jord
 21. Badlands Brief — "Badlands News Brief: A Potato Visits Israel; A Ukrainian Does Not ...", URL: https://badlands.substack.com/p/badlands-news-brief-a7b
 22. Badlands Brief — "Badlands News Brief: Trump Skips Debates, FED Paralyzed & Garland Grilled", URL: https://badlands.substack.com/p/badlands-news-brief-b1d
 23. Badlands Brief — "BiBi Goes to DC, Wray Responds & Biden Concedes", URL: https://badlands.substack.com/p/badlands-news-brief-bcc
+24. Badlands Brief — "Badlands News Brief: Proxy Presidents & Proxy Wars", URL: https://badlands.substack.com/p/badlands-news-brief-c07
+25. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb
+26. Badlands Brief — "Badlands News Brief: The France Dance, Crime & J6 Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-c9a

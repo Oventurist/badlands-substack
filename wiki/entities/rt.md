@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, russia, state-media, propaganda]
-sources: [raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-a82.md]
+sources: [raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-ce1.md]
 confidence: medium
 ---
 
@@ -24,8 +24,13 @@ The brief also excerpted RT's report that Venezuelan President [[nicolas-maduro|
 
 RT reported in June 2024 that the [[russian-investigative-committee|Russian Investigative Committee]] had accused senior Kiev military officials of downing a Russian Il-76M carrying Ukrainian prisoners of war with a US-made [[patriot-missile-system|Patriot]] interceptor missile on January 24, killing all 74 people aboard.[3]
 
+## Global Meta ban (September 2024)
+
+On September 17, 2024, [[meta-platforms|Meta]] banned RT and other Moscow-funded outlets, including Rossiya Segodnya, from Facebook, Instagram, WhatsApp and Threads globally, citing "foreign interference activity" and aligning with a Biden administration directive issued the previous Friday urging nations worldwide to block RT broadcasts and close its offices.[4] RT's Facebook page had 7.2 million followers and its Instagram page one million; both were removed.[4] RT responded that "US Big Tech cannot stop RT from making its voice heard," observing that Meta had already blocked it in Europe two years earlier and was now "censoring information flow to the rest of the world."[4] The Kremlin said the action discredited Meta and complicated the normalization of relations with the company.[4]
+
 ## References
 
 1. Badlands News Brief — "Peacemakers, Fake Kennedys & Fear Mongers", URL: https://badlands.substack.com/p/badlands-news-brief-3b2
 2. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71
 3. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
+4. Badlands Brief — "Badlands News Brief: Trump Sends Comms as Diddlers Get Indicted", URL: https://badlands.substack.com/p/badlands-news-brief-ce1

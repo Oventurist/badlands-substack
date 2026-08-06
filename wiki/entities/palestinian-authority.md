@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [foreign-aid, gaza, terrorism-finance, obama, badlands]
-sources: [raw/bad-actors.md, raw/badlands-brief-05f.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-215.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-9b2.md]
+sources: [raw/bad-actors.md, raw/badlands-brief-05f.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-215.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-cce.md]
 confidence: medium
 ---
 
@@ -70,6 +70,10 @@ In his September 2024 address to the United Nations, [[mahmoud-abbas|Mahmoud Abb
 
 Badlands Media recounted the Authority's long antagonism with [[hamas|Hamas]]: its security forces were driven out of Gaza alongside the [[israel-defense-forces|Israel Defense Forces]] in 2007; Abbas subsequently refused dialogue with the group and declined to seat its officials in the Palestinian government unless it recognized Israel; and in 2018 Hamas attempted to assassinate the Authority's prime minister with a roadside bomb while he travelled to Gaza to negotiate a peaceful transfer of governance.[9] The outlet also stated that Abbas had criticized Hamas for launching the October 7 attack without informing the Authority and had blamed the group for the destruction that followed.[9]
 
+## US proposals for post-war Gaza governance (December 2023)
+
+In December 2023, U.S. National Security Adviser [[jake-sullivan|Jake Sullivan]] told Israel's Channel 12 that Washington's view was that governance of the West Bank and Gaza "needs to be connected under a revamped and revitalized Palestinian Authority."[10] He said that outcome would require reform, an updating of how the Authority approaches governance, and financial and other contributions from countries in the region, and that the aim was common leadership posing no terrorist threat to Israel.[10] The proposal set the [[joe-biden|Biden]] administration at odds with Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]], who opposed any PA role in post-war Gaza.[10]
+
 ## References
 
 1. Badlands Brief — "Bad Actors", URL: https://badlands.substack.com/p/bad-actors
@@ -81,3 +85,4 @@ Badlands Media recounted the Authority's long antagonism with [[hamas|Hamas]]: i
 7. Badlands News Brief — "Post Mortems, Dog Fights, & Flight Risks", URL: https://badlands.substack.com/p/badlands-news-brief-721
 8. Badlands Brief — "Corruption Within Corruption & A Offer of Free Elections", URL: https://badlands.substack.com/p/badlands-news-brief-7e8
 9. Badlands News Brief — "Embattled Mayors, Peacemakers & Signal Setters", URL: https://badlands.substack.com/p/badlands-news-brief-9b2
+10. Badlands Brief — "Badlands News Brief: The System of Systems is a House of Cards", URL: https://badlands.substack.com/p/badlands-news-brief-cce

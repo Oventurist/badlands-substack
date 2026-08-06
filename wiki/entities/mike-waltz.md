@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [national-security, trump-administration, israel, first-amendment]
-sources: [raw/badlands-brief-58d.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-688.md, raw/badlands-news-brief-a72.md]
+sources: [raw/badlands-brief-58d.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-688.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-c44.md]
 confidence: medium
 ---
 
@@ -45,9 +45,14 @@ Waltz also addressed the escalation of the war in [[ukraine|Ukraine]], comparing
 
 Waltz resigned his seat in Florida's 6th Congressional District when he became national security adviser to President [[donald-trump|Donald Trump]], triggering an April 2025 special election contested by Republican [[randy-fine|Randy Fine]] and Democrat [[joshua-weil|Joshua Weil]].[5] See [[florida-6th-congressional-district-special-election]].
 
+## Reported friction with Steve Witkoff (2025)
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] reported in April 2025 that Waltz, as national security adviser, was outraged that special envoy [[steve-witkoff|Steve Witkoff]] had arranged several face-to-face meetings with [[vladimir-putin|Vladimir Putin]], placing him among a cluster of administration figures — alongside [[marco-rubio|Marco Rubio]], [[keith-kellogg|Keith Kellogg]] and [[mike-huckabee|Mike Huckabee]] — described as resentful of Witkoff's expanding diplomatic role.[6]
+
 ## References
 1. Badlands Brief — "White Knuckling Weaponized Government", URL: https://badlands.substack.com/p/badlands-brief-58d
 2. Badlands Brief — "Preemptive Pardons, Syrian Sanctions, & Preparations for Putin", URL: https://badlands.substack.com/p/badlands-news-brief-09e
 3. Badlands Brief — "Badlands News Brief: Non-Binding Motions & Psycho-Emotional Problems", URL: https://badlands.substack.com/p/badlands-news-brief-3ab
 4. Badlands Brief — "Badlands News Brief: Threats, Panic and Signal in the Engineered Noise", URL: https://badlands.substack.com/p/badlands-news-brief-688
 5. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72
+6. Badlands Brief — "Badlands News Brief: A British TERF Triumph & A Senator Snubbed in El Salvador", URL: https://badlands.substack.com/p/badlands-news-brief-c44

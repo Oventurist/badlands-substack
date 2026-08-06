@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [china, russia, ukraine, diplomacy, multipolar, 2023]
-sources: [raw/badlands-news-brief-3c1.md, raw/badlands-news-brief-b64.md]
+sources: [raw/badlands-news-brief-3c1.md, raw/badlands-news-brief-b64.md, raw/badlands-news-brief-cb9.md]
 confidence: medium
 ---
 
@@ -29,6 +29,13 @@ As [[xi-jinping|Xi Jinping]] left Moscow on Wednesday, March 22, 2023, he and [[
 The [[white-house|White House]] responded that China's position was not impartial and urged Beijing to pressure Russia into withdrawing from Ukraine's sovereign territory in order to end Europe's largest conflict since the Second World War.[2] Badlands commentator [[burning-bright|Burning Bright]] read the summit as Russia and China forcefully moving the world toward a vision of peace and prosperity, predicting that opposition from the United States and the globalist West would drive states such as Saudi Arabia, Egypt and Turkey further into the [[brics|BRICS]] bloc, and that [[donald-trump|Donald Trump]] would return to power by codifying that mandate and alliance.[2]
 
 
+## Putin's openness to negotiations (March 20, 2023)
+
+At the opening informal meeting of the visit, [[vladimir-putin|Vladimir Putin]] told [[xi-jinping|Xi Jinping]] that Russia was "open for a negotiating process on Ukraine" and that it viewed China's peace initiative "with respect," saying "we have looked at your proposals for the resolution of the Ukraine conflict."[3] Putin also congratulated Xi on securing a third five-year term as head of the Chinese state, and framed the relationship in terms of "a lot of joint tasks, goals" and of both countries fighting common threats; Xi responded that "Russia succeeded in promoting prosperity under Putin's leadership."[3] The United States said at the same time that a ceasefire was "unacceptable."[3]
+
+[[justin-deschamps|Justin Deschamps]] argued in the [[badlands-news-brief|Badlands News Brief]] that the summit could be read as evidence that China had refused to participate in the Western narrative around the war, and that the possibility of Xi and Putin cooperating against the [[deep-state|Deep State]] had not been ruled out — while acknowledging the alternative reading that both were simply positioning for a post-Western order.[3]
+
 ## References
 1. Badlands Media — "Badlands News Brief: Witch Hunt, Woke's Fall & Peacemakers", URL: https://badlands.substack.com/p/badlands-news-brief-3c1
 2. Badlands Brief — "Badlands News Brief: Bragg's Panic, Trump's Calm & China's Proposal", URL: https://badlands.substack.com/p/badlands-news-brief-b64
+3. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9

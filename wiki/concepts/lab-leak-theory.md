@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [covid-origins, wuhan, gain-of-function, accountability]
-sources: [raw/badlands-brief-67a.md, raw/badlands-brief-d94.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-af7.md]
+sources: [raw/badlands-brief-67a.md, raw/badlands-brief-d94.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-ca7.md, raw/badlands-news-brief-cb9.md]
 confidence: medium
 ---
 
@@ -57,6 +57,14 @@ In a March 2023 Daily Mail op-ed, [[donald-trump|Donald Trump]] wrote that three
 Days later, the [[house-select-subcommittee-on-the-coronavirus-pandemic|House Select Subcommittee on the Coronavirus Pandemic]] alleged that [[anthony-fauci|Dr. Anthony Fauci]] had "prompted" the creation of the [[proximal-origin-paper|"Proximal Origin of SARS-CoV-2"]] paper specifically to rule out the laboratory hypothesis, after a February 1, 2020 call on which several scientists had warned the virus may have leaked from a Wuhan lab and may have been intentionally genetically manipulated.[7]
 
 
+## Congressional declassification mandate (2023)
+
+Congressional pressure on the lab-leak question produced the [[covid-19-origin-act-of-2023|COVID-19 Origin Act of 2023]], passed unanimously by both chambers and signed on March 20, 2023, which required the [[office-of-the-director-of-national-intelligence|Office of the Director of National Intelligence]] to declassify within 90 days all information on possible links between the [[wuhan-institute-of-virology|Wuhan Institute of Virology]] and the origins of Covid-19.[9] The push followed the Energy Department's conclusion, held with "low confidence," that the virus was likely the result of an accidental laboratory leak in China.[9] [[burning-bright|Burning Bright]] warned that the resulting release could serve as a pretext for escalating tensions with China by attributing the outbreak to the Chinese state rather than to rogue elements within Wuhan.[9]
+
+## Congressional declassification mandate (2023)
+
+Congressional pressure on the lab-leak question produced the [[covid-19-origin-act-of-2023|COVID-19 Origin Act of 2023]], passed unanimously by both chambers and signed on March 20, 2023, which required the [[office-of-the-director-of-national-intelligence|Office of the Director of National Intelligence]] to declassify within 90 days all information on possible links between the [[wuhan-institute-of-virology|Wuhan Institute of Virology]] and the origins of Covid-19.[9] The push followed the Energy Department's conclusion, held with "low confidence," that the virus was likely the result of an accidental laboratory leak in China.[9] [[burning-bright|Burning Bright]] warned that the resulting release could serve as a pretext for escalating tensions with China by attributing the outbreak to the Chinese state rather than to rogue elements within Wuhan.[9]
+
 ## References
 1. Badlands Brief — "COVIDian Comeuppance and NATOnian Neglect", URL: https://badlands.substack.com/p/badlands-brief-67a
 2. Badlands Brief — "Vagina's Mom Just Can't Get Paid", URL: https://badlands.substack.com/p/badlands-brief-d94
@@ -65,3 +73,11 @@ Days later, the [[house-select-subcommittee-on-the-coronavirus-pandemic|House Se
 5. Badlands Brief — "Badlands News Brief: Robot Runners, Prisoner Swaps, & Control of Crimea", URL: https://badlands.substack.com/p/badlands-news-brief-471
 6. Badlands Brief — "Trump Trifecta, COVID Concealment & Sorosian Slime", URL: https://badlands.substack.com/p/badlands-news-brief-5a7
 7. Badlands News Brief — "Trump on Wuhan, Flynn Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-af7
+8. Badlands Brief — "Badlands News Brief: Ukraine U-Turn, Taiwan Tensions & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-ca7
+
+## Ratcliffe's April 2023 testimony
+
+In April 2023, former Director of National Intelligence [[john-ratcliffe|John Ratcliffe]] said the "only explanation" and "plausible assessment" for the COVID-19 pandemic is a leak from a Chinese Communist Party-controlled lab, citing U.S. intelligence and "numerous, diverse and unassailable" sources.[8] Fox News obtained his prepared testimony ahead of an appearance before the [[house-select-subcommittee-on-the-coronavirus-pandemic|House Select Subcommittee on the Coronavirus Pandemic]], where he was to give an unclassified overview of what the intelligence community had learned about the origins of the virus.[8] Ratcliffe was also expected to state that the Biden administration viewed declaring the assessment as carrying "enormous geopolitical implications" it "seemingly" did "not want to face head-on."[8]
+
+[[burning-bright|Burning Bright]] treated the testimony as corroboration of long-standing Truth Community claims, noting continued internal debate over not only the origins of COVID-19 but its nature — virus, bioweapon, PsyOp, PsyAct, or all of the above — and advising readers to focus less on the actual and more on the potential, since any eventual reveals would further expose the [[deep-state|Deep State]]'s [[system-of-systems|System of Systems]].[8]
+9. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, military, seditious-six, pentagon]
-sources: [raw/badlands-brief-abf.md, raw/badlands-brief-d17.md, raw/badlands-brief-e8d.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-824.md]
+sources: [raw/badlands-brief-abf.md, raw/badlands-brief-d17.md, raw/badlands-brief-e8d.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-cad.md]
 confidence: medium
 ---
 
@@ -41,9 +41,14 @@ Badlands commentator [[ashe-in-america|Ashe in America]] observed that Kelly app
 
 Kelly appeared alongside Senator [[elissa-slotkin|Elissa Slotkin]] and Representatives [[chris-deluzio|Chris Deluzio]], [[maggie-goodlander|Maggie Goodlander]], [[chrissy-houlahan|Chrissy Houlahan]] and [[jason-crow|Jason Crow]] in the November 18, 2025 [[seditious-six-video|"Seditious Six" video]], which told U.S. service members and intelligence personnel to refuse illegal orders from the administration.[5] The video prompted pushback from GOP lawmakers and administration officials, with Defense Secretary [[pete-hegseth|Pete Hegseth]] describing it as a "politically-motivated influence operation" and President [[donald-trump|Donald Trump]] calling the six "traitors"; the participants reported receiving threats afterward.[5]
 
+## Reaction to Trump's December 2025 primetime address
+
+Kelly joined [[gavin-newsom|Gavin Newsom]] and other Democrats in criticizing President [[donald-trump|Donald Trump]]'s primetime address of December 17, 2025, with the group roasting the near-15-minute speech as "angry, desperate and defensive" after Trump used it to attack [[joe-biden|Joe Biden]] and tout his administration's record.[6]
+
 ## References
 1. Badlands Brief — "Long-Term Legal Remedies & A Reboot of Russian Relations", URL: https://badlands.substack.com/p/badlands-brief-abf
 2. Badlands Brief — "Devolucion, Sedition, Somalis, and Patagonia Pyros", URL: https://badlands.substack.com/p/badlands-brief-d17
 3. Badlands Brief — "Miraflores New Tenant, Walz Awakens, & Kelly's Court Martial", URL: https://badlands.substack.com/p/badlands-brief-e8d
 4. Badlands Brief — "Lavish Courtships, Extremely Strong Relations, & Fake Election Rituals", URL: https://badlands.substack.com/p/badlands-news-brief-02f
 5. Badlands Brief — "Badlands News Brief: Saudi Scoops, Slender Stabbers, & Scorned Scouts", URL: https://badlands.substack.com/p/badlands-news-brief-824
+6. Badlands Brief — "A Christmas Bonus, War “With” Venezuela, & Prime Time Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-cad

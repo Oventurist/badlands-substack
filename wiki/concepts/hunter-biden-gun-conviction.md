@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [hunter-biden, second-amendment, justice-department, weaponization, info-war]
-sources: [raw/badlands-news-brief-280.md, raw/badlands-news-brief-2b8.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-a82.md]
+sources: [raw/badlands-news-brief-280.md, raw/badlands-news-brief-2b8.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-c05.md]
 confidence: medium
 ---
 
@@ -49,3 +49,11 @@ On June 25, 2024, following the conviction, the [[dc-court-of-appeals|D.C. Court
 2. Badlands Brief — "Badlands News Brief: Congress Limps Along as the Nation Grits Its Teeth", URL: https://badlands.substack.com/p/badlands-news-brief-2b8
 3. Badlands Brief — "Badlands News Brief: Russian Space Nukes & Uniparty Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-553
 4. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
+
+## Trial coverage, June 2024
+
+Coverage during the trial's opening week described the case as legally simple: [[hunter-biden|Hunter Biden]] bought a .38 Colt Cobra revolver on October 12, 2018, marked "no" on the federal form asking whether he was "an unlawful user of, or addicted to" a controlled substance, and paid $900 in cash.[5] Given the public record of his cocaine use in that period, prosecutors charged him with lying on the form and unlawfully possessing a firearm.[5]
+
+Defense lawyer [[abbe-lowell|Abbe Lowell]] told jurors in the Wilmington, Delaware federal court that terms such as "user of" and "addicted to" were open to interpretation and urged acquittal.[5] Prosecutors immediately countered by introducing a passage from Biden's memoir, playing portions of the audiobook narrated by Biden himself in which he described struggling with addiction across a four-year span overlapping the gun purchase.[5] Commentators concluded he was likely to lose at trial and that his best remaining avenue was an appeal alleging vindictive prosecution.[5]
+
+5. Badlands News Brief — "Bicameral Jailings, Russian Trolling and Retribution ...", URL: https://badlands.substack.com/p/badlands-news-brief-c05

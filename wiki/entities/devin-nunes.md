@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence, trump-media, congress, oversight]
-sources: [raw/badlands-brief-7c0.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-a46.md]
+sources: [raw/badlands-brief-7c0.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-d04.md]
 confidence: medium
 ---
 
@@ -40,6 +40,13 @@ President-elect [[donald-trump|Donald Trump]] announced on Saturday, December 14
 
 As chief executive of [[trump-media-and-technology-group|Trump Media]], Nunes wrote to leading House committee chairmen in a letter dated Wednesday, May 1, 2024, urging them to investigate eight financial firms over concerns about potentially illicit [[short-selling|short selling]] of DJT shares, whose majority shareholder is [[donald-trump|Donald Trump]].[5] "I believe quick action is necessary to protect retail shareholders, identify wrongdoers, and determine whether any laws including [Racketeer Influenced and Corrupt Organizations Act] statutes and tax evasion laws have been violated," Nunes wrote, having first asked top House Republicans to launch a stock manipulation probe on April 24.[5] The eight firms he named were Apex Clearing, Clear Street, Cobra Trading, Cowen and Company, Curvature Securities, StoneX Securities, TradePro and Velocity Clearing, and he asked the committees to seek documents and testimony from each.[5] A spokesperson for Clear Street declined to comment on the letter.[5]
 
+
+## RussiaGate remarks and Truth Search AI (August 2025)
+
+Appearing on Real America's Voice in August 2025, Nunes described the human cost of the [[russiagate-hoax|RussiaGate]] conspiracy in stark terms: "People have died. People have lost their livelihoods. People have lost their careers. People have not been promoted. Families have been destroyed. Finances have been wiped out. Millions of Americans were kicked off social media. News networks were not allowed onto the legacy media platforms."[6] Badlands host [[jon-herold|Jon Herold]] paired those remarks with [[john-solomon|John Solomon]]'s assessment that the overriding charge in any prosecution would be [[deprivation-of-rights-under-color-of-law|deprivation of rights under color of law]], a statute that authorizes sentences up to life imprisonment or death where death results.[6]
+
+In the same month, as chief executive and chairman of [[trump-media-and-technology-group|Trump Media and Technology Group]], Nunes announced the start of public beta testing for [[truth-search-ai|Truth Search AI]], an AI search feature on [[truth-social|Truth Social]] powered by [[perplexity-ai|Perplexity]].[6] He said the company was proud to partner with Perplexity and that the tool would make Truth Social "an even more vital element in the Patriot Economy."[6]
+
 ## References
 
 1. Badlands Brief — "Games of Chicken, Spirit Fails, & Rampant Satanism", URL: https://badlands.substack.com/p/badlands-brief-7c0
@@ -47,3 +54,4 @@ As chief executive of [[trump-media-and-technology-group|Trump Media]], Nunes wr
 3. Badlands Brief — "Fusion Mergers & Fusion-Adjacent Murders", URL: https://badlands.substack.com/p/badlands-news-brief-60c
 4. Badlands News Brief — "Media Apologies, Fake & Gay Drones and Trump Appointments", URL: https://badlands.substack.com/p/badlands-news-brief-86f
 5. Badlands Brief — "Very Fine Marxists and Chinese Finger Traps", URL: https://badlands.substack.com/p/badlands-news-brief-a46
+6. Badlands Brief — "Global Struggles, Civil Alliances, & the Penalty for Treason", URL: https://badlands.substack.com/p/badlands-news-brief-d04

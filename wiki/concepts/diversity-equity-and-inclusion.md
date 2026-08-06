@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [dei, corporate-policy, florida, disney]
-sources: [raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-8ae.md]
+sources: [raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-bed.md]
 confidence: medium
 ---
 
@@ -46,9 +46,16 @@ In July 2024, Business Insider revealed that [[microsoft|Microsoft]] had laid of
 
 Commentary framed the move as part of a broader unraveling of DEI and environmental, social, and governance initiatives across corporate America, arguing that the profit motive had proved incompatible with what it characterized as unproductive virtue signaling.[5] Data from AlphaSense showed that first-quarter mentions of "DEI" had collapsed from their 2021 peak.[5]
 
+## 2024 corporate retreat
+
+By April 2024, reporting described the DEI exodus across corporate America as gaining steam and argued that the peak of the phenomenon had passed, following an earlier assessment that "both the DEI and ESG gravy trains on Wall Street are finally coming to an unceremonious end."[6] The unraveling was visible at the state level as Red states rushed to ban DEI programs in 2023; Google, Facebook and other technology companies slashed DEI staff by late that year; universities began rolling back diversity programs in early 2024; and Harvard President Claudine Gay was demoted.[6] Earnings-call data compiled by AlphaSense and reported by Axios showed mentions of "DEI" collapsing from their 2021 peak, with commentary framing the programs as mindless, profitless and Marxist in origin.[6]
+
+Badlands Media writer [[simon-esler]], who had earlier written about the possibility while reporting on Boeing chief executive Dave Calhoun's resignation, called the corporate turn against DEI glorious but urged caution about long-form statecraft that pushes an agenda to an extreme so that even after it recedes, norms have shifted permanently in its favor — making "a little bit of DEI" seem tame relative to the post-George Floyd period.[6] He characterized DEI and ESG scores as Neo-Marxist warfare that should be identified for what they are within the [[overton-window|Overton window]] and permanently cast out of corporate culture.[6]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: The Trump Card ...", URL: https://badlands.substack.com/p/badlands-news-brief-3b0
 2. Badlands Brief — "Badlands News Brief: North American Trade Troubles & Unipartisan Panic", URL: https://badlands.substack.com/p/badlands-news-brief-52f
 3. Badlands Brief — "Trump's Ballot Battles, Racist Mockingbirds and Dying DEI", URL: https://badlands.substack.com/p/badlands-news-brief-788
 4. Badlands Brief — "Brennan Decries Judge Shopping & JD Says It's Okay to Be White!", URL: https://badlands.substack.com/p/badlands-news-brief-795
 5. Badlands Media — "Badlands News Brief: Vance Takes the Stage as Biden Takes the Basement", URL: https://badlands.substack.com/p/badlands-news-brief-8ae
+6. Badlands Brief — "Badlands News Brief: Immigration Dominates Headlines as Devo Proofs Abound", URL: https://badlands.substack.com/p/badlands-news-brief-bed

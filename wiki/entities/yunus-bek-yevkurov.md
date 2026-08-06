@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, defense-ministry, africa, military-diplomacy]
-sources: [raw/badlands-news-brief-a56.md]
+sources: [raw/badlands-news-brief-a56.md, raw/badlands-news-brief-c05.md]
 confidence: medium
 ---
 
@@ -18,3 +18,9 @@ According to a communiqué from the Burkinabè presidency in Ouagadougou, the ta
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Corruption Probes, Client Lists & Mud Pits", URL: https://badlands.substack.com/p/badlands-news-brief-a56
+
+## June 2024 Sahel mission
+
+In early June 2024, Yevkurov led a high-ranking [[russian-defense-ministry|Russian Defense Ministry]] delegation to [[niger|Niger]] and [[mali|Mali]], with both West African governments announcing the visits in separate statements.[2] In Bamako he and his team met Malian Defense Minister [[sadio-camara|Sadio Camara]] and air force chief [[alou-boi-diarra|Alou Boi Diarra]] before being received by interim leader [[assimi-goita|Assimi Goita]] at the presidential palace; the talks covered Mali-Russia defense and security cooperation and the Sahel security situation.[2] In Niamey, transitional leader [[abdourahmane-tchiani|Abdourahamane Tchiani]] met the delegation to discuss military, security, and economic cooperation.[2] Both states, former French colonies, had cut military ties with France over alleged meddling.[2]
+
+2. Badlands News Brief — "Bicameral Jailings, Russian Trolling and Retribution ...", URL: https://badlands.substack.com/p/badlands-news-brief-c05

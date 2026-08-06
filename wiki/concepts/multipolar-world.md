@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [geopolitics, world-order, badlands-media, sovereignty]
-sources: [raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-21.md, raw/badlands-brief-5a2.md, raw/badlands-brief-739.md, raw/badlands-news-brief-0e0.md]
+sources: [raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-21.md, raw/badlands-brief-5a2.md, raw/badlands-brief-739.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-c93.md]
 confidence: medium
 ---
 
@@ -42,10 +42,14 @@ Badlands commentator [[burning-bright|Burning Bright]] wrote in March 2023 that 
 
 Supporting indicators cited in the same commentary included a Russian ruble stronger than at the start of the war in Ukraine, a banking crisis cascade in the West, and the largest NATO-aligned countries bracing for a "European Spring of discontent" with major populist unions preparing transportation and standard-of-living strikes.[5] Beijing's decision to back Russia's [[united-nations-security-council|UN Security Council]] draft resolution on the [[nord-stream-sabotage|Nord Stream]] probe was read as a further consolidation of the emerging bloc.[5]
 
-## References
+## Framing of Russia-China military cooperation (December 2025)
 
+Commenting on expanding [[russia-china-joint-air-patrols|Russia-China joint bomber patrols]] in December 2025, Badlands contributor [[burning-bright|Burning Bright]] wrote that "in order to have a Multipolar World, you must first win a Multipolar War."[6] He linked the observation to his continuing work on the [[sovereign-alliance|Sovereign Alliance]] and to a long-form essay arguing that the alliance had already won and that the [[deep-state|Deep State]]'s doom was at hand.[6]
+
+## References
 1. Badlands Brief — "Badlands Blitz Episode 19", URL: https://badlands.substack.com/p/badlands-blitz-episode-19
 2. Badlands Brief — "Badlands Blitz Episode 21", URL: https://badlands.substack.com/p/badlands-blitz-episode-21
 3. Badlands Brief — "Tina Peters' Sentence Commuted; ISIS Killed in Africa", URL: https://badlands.substack.com/p/badlands-brief-5a2
 4. Badlands Brief — "Weapons Stockpiles & Bundt Cake Treason", URL: https://badlands.substack.com/p/badlands-brief-739
 5. Badlands Media — "Badlands News Brief: Exculpatory Trump Card & China's Moves", URL: https://badlands.substack.com/p/badlands-news-brief-0e0
+6. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93

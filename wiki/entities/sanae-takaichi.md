@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [japan, geopolitics, maritime-disputes, badlands-brief]
-sources: [raw/badlands-brief-25c.md, raw/badlands-brief-52b.md, raw/badlands-brief-7b5.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-2e4.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-94b.md]
+sources: [raw/badlands-brief-25c.md, raw/badlands-brief-52b.md, raw/badlands-brief-7b5.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-2e4.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-bc7.md, raw/badlands-news-brief-bd7.md]
 confidence: medium
 ---
 
@@ -45,6 +45,16 @@ Badlands commentary identified Takaichi as a political protégé of [[shinzo-abe
 In a historic first, Japan's ruling [[liberal-democratic-party|Liberal Democratic Party]] chose Takaichi as its leader on October 4, 2025, putting her on course to become the country's first female prime minister.[7] None of the five candidates won a clear majority in the first round, and Takaichi defeated Shinjiro Koizumi swiftly in the run-off; a parliamentary vote to replace outgoing premier [[shigeru-ishiba|Shigeru Ishiba]] was expected on October 15.[7] A former economic security and internal affairs minister with an expansionary fiscal agenda, she faced the task of rebuilding confidence in the LDP and fending off opposition groups promising stimulus and clampdowns on migrants in the [[2025-liberal-democratic-party-leadership-election|2025 LDP leadership election]].[7]
 
 
+## US-Japan agreements of October 2025
+
+In Tokyo in late October 2025, Prime Minister Takaichi and President [[donald-trump|Donald Trump]] signed a major series of agreements strengthening US-Japan cooperation across critical minerals, energy, technology and defense, expanding Japan's record $550 billion investment commitment in the United States.[8] The centerpiece, the U.S.-Japan Framework for Securing the Supply of Critical Minerals and Rare Earths, commits both nations to building resilient mining and processing networks, coordinating financing, and creating a Critical Minerals Supply Security Rapid Response Group led by both governments, with a Mining and Metals Investment Ministerial to convene within 180 days.[8]
+
+Japan's public and private sectors are to invest over $450 billion in American energy and technology projects, including $332 billion for power infrastructure with Westinghouse and GE Vernova, plus major commitments in semiconductors, batteries and AI involving Mitsubishi Electric and Panasonic.[8] Additional investments include $3 billion for fertilizer production, $2 billion for a copper refinery, and expanded port facilities for US oil exports, while the two nations also broadened coal and nuclear cooperation and reaffirmed their defense and intelligence partnership.[8] Badlands contributor GhostofBasedPatrickHenry noted that several binational working groups were being formed to issue reports on enhancing critical minerals and mining operations for mutual benefit.[8]
+
+## Senkaku maritime standoff (December 2025)
+
+The severe diplomatic standoff triggered by Takaichi's November 2025 suggestion that Japan would militarily aid Taiwan's defense in the event of a Chinese invasion escalated toward a potential military confrontation in early December.[9] Japan deployed medium-range missiles to Yonaguni, a remote island not far from China and the closest Japanese territory to Taiwan.[9] On Tuesday, December 2, 2025, Chinese coast guard vessels attempted to run off a Japanese fishing boat accused of entering the waters of the islands Beijing calls the Diaoyu and Tokyo calls the Senkaku, in the East China Sea; a Japanese Coast Guard ship escorting the fishing vessel in turn expelled two Chinese Coast Guard ships that approached to enforce Beijing's expansive maritime claims.[9] The area is a long-standing flashpoint between the two historic rivals, with Taiwan situated slightly less than 100 miles southwest of the Senkakus.[9] Badlands contributor [[burning-bright|Burning Bright]] linked the episode to what he described as a scripted escalation cycle running back to Nancy Pelosi's 2022 Taiwan visit, noting that Beijing's foreign ministry warned that right-wing forces in Japan were leading the country and region toward disaster.[9]
+
 ## References
 1. Badlands Brief — "Elections are Fake; as is Trump's Friendship with Bibi", URL: https://badlands.substack.com/p/badlands-brief-25c
 2. Badlands Brief — "Golgotha & The Metaverse", URL: https://badlands.substack.com/p/badlands-brief-52b
@@ -53,3 +63,5 @@ In a historic first, Japan's ruling [[liberal-democratic-party|Liberal Democrati
 5. Badlands News Brief — "Escalating Elections, Fragmented Forums, & Merry Murder Metrics", URL: https://badlands.substack.com/p/badlands-news-brief-2e4
 6. Badlands Brief — "Badlands News Brief: Shutdown Consequences, Canadian Propaganda, & Console War Conclusions", URL: https://badlands.substack.com/p/badlands-news-brief-545
 7. Badlands Brief — "Posse Comitatus & Haggling with Hamas", URL: https://badlands.substack.com/p/badlands-news-brief-94b
+8. Badlands Brief — "Badlands News Brief: Duplicitous Dependence, Precarious Pardons, & A State Sanctioned Kidnapping", URL: https://badlands.substack.com/p/badlands-news-brief-bc7
+9. Badlands Brief — "Bogus Visas, Brazilian Sanctions, and Foreign Boat Battles", URL: https://badlands.substack.com/p/badlands-news-brief-bd7

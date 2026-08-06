@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [monetary-system, oil, dollar, brics, saudi-arabia]
-sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-a64.md]
+sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-cdb.md]
 confidence: medium
 ---
 
@@ -43,3 +43,9 @@ Badlands contributor [[gmoney|GMONEY]] responded to the May 2025 [[saudi-us-inve
 2. Badlands Brief — "Trump Surrenders ... Or Does He?", URL: https://badlands.substack.com/p/badlands-news-brief-4b1
 3. Badlands Brief — "Federal RICO, Disaster Opportunism & Putin's Peace", URL: https://badlands.substack.com/p/badlands-news-brief-62d
 4. Badlands Brief — "Badlands News Brief: Black Hat Nightmares & A Camelback Caravan of Confirmation", URL: https://badlands.substack.com/p/badlands-news-brief-a64
+
+## Lula BRICS currency push (April 2023)
+
+In April 2023 Brazilian president [[luiz-inacio-lula-da-silva|Luiz Inacio Lula da Silva]] called on [[brics|BRICS]] nations to create an alternative to the dollar in foreign trade during a visit to the Shanghai-based [[new-development-bank|New Development Bank]], supporting China push against U.S. global dominance ahead of his Beijing meeting with [[xi-jinping|Xi Jinping]].[5] Badlands writer [[burning-bright|Burning Bright]] framed the episode as part of a planned demolition of the petrodollar and the globalist West rather than speculation, arguing that BRICS power relative to the [[g7|G7]] had passed an inflection point during the COVID period and that paradigms shift slowly and then all at once.[5]
+
+5. Badlands Brief — "Badlands News Brief: Leak Shenanigans, Trump Seeds & Woke Broke", URL: https://badlands.substack.com/p/badlands-news-brief-cdb

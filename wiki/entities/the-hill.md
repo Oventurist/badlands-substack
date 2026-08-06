@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, washington, journalism]
-sources: [raw/badlands-news-brief-110.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-a82.md]
+sources: [raw/badlands-news-brief-110.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-bf6.md]
 confidence: medium
 ---
 
@@ -30,7 +30,12 @@ Badlands contributor [[ashe-in-america|Ashe in America]] read the piece's tone a
 
 The Hill reported in June 2024 that former Secretary of State [[hillary-clinton|Hillary Clinton]] had written in The New York Times that it would be a "waste of time" to try to refute [[donald-trump|Donald Trump]]'s arguments in a debate, noting she is the only person to have debated both Trump and [[joe-biden|Joe Biden]].[3]
 
+## Coverage of Trump on Carlson's exit (2023)
+
+The Hill's report "Trump 'shocked' to hear of Tucker Carlson's departure from Fox News" was excerpted in the Badlands News Brief of April 25, 2023, carrying [[donald-trump|Donald Trump]]'s [[newsmax|Newsmax]] remarks on [[tucker-carlson|Tucker Carlson]] and noting that Trump had urged [[rupert-murdoch|Rupert Murdoch]] to embrace his voter-fraud theories ahead of the [[dominion-voting-systems|Dominion Voting Systems]] trial.[4]
+
 ## References
 1. Badlands Brief — "RON! Throws in the Towel as Globalists Panic", URL: https://badlands.substack.com/p/badlands-news-brief-110
 2. Badlands News Brief — "The Biden Era Fades Away as the World is Reshaped", URL: https://badlands.substack.com/p/badlands-news-brief-713
 3. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
+4. Badlands Media — "Badlands News Brief: A Tucker, a Lemon and a Trump Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-bf6

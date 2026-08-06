@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [canada, liberal-party, prime-minister]
-sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-276.md, raw/badlands-news-brief-2ca.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-397.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-a82.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-276.md, raw/badlands-news-brief-2ca.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-397.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-bed.md]
 confidence: low
 ---
 
@@ -119,6 +119,12 @@ In late June 2024 the heat on Trudeau intensified after his party's candidate su
 
 Badlands contributor [[ashe-in-america|Ashe in America]] wrote that Trudeau was being pressured to leave by the end of summer so his party could choose a new leader before the following year's election, called his answer detached from reality, and argued that the conditions he described were the fault of the G7, Trudeau himself and their global handlers rather than an inexplicable accident.[19] She closed by saying she did not think the regime could replace [[joe-biden|Joe Biden]], and was very curious whether it could replace Trudeau.[19]
 
+## April 2024 admission on mass immigration
+
+In an admission reported in early April 2024, Trudeau stated that Canada had seen a "massive spike in temporary immigrants" that was "far beyond what Canada can absorb."[20] The share of temporary migrants in the Canadian population — described in the reporting as illegal entrants using asylum loopholes to bypass proper immigration standards — had risen from 2 percent of the total population in 2017 to over 7.5 percent in 2024.[20] In 2023 Canada recorded its most rapid population growth in 66 years, with migrants accounting for over 97 percent of all new residents and only about 2 percent coming from natural increase.[20] Even while acknowledging the strain, Trudeau continued to praise mass immigration in general terms, though his national approval rating had fallen to an all-time low of about 30 percent in December 2023 and had hovered near that level since, a slide attributed to growing hostility toward his open-borders policies.[20]
+
+Badlands Media writer [[simon-esler|Simon Esler]] argued that at any other time Trudeau would have answered such criticism by deploying critical race theory framing to brand opponents racist for questioning mass immigration at all.[20] Esler held the "caving to pressure" reading lightly, describing Trudeau as the epitome of a puppet with almost no will of his own, and characterizing Canada as a controlled experiment for the [[world-economic-forum|WEF]] and partners to test transitional phases toward a [[new-world-order|New World Order]].[20] He noted that the Conservative opposition had itself supported mass immigration and failed to exploit the issue, evidence of what he called Canada's very real [[uniparty|Uniparty]] problem, and contended that Trudeau is deeply afraid of [[donald-trump|Trump]]'s influence on Canadian politics — such that if Trudeau's acknowledgment of immigration damage found a home in the [[overton-window|Overton window]], it would harmonize with a Trump win and a major pushback against the same operations in the United States.[20]
+
 ## References
 1. Badlands Brief — "A Re-Alignment of World Systems", URL: https://badlands.substack.com/p/a-re-alignment-of-world-systems
 2. Badlands Brief — "Badlands News Brief: A President's Passing & A Prime Minister's Prostate", URL: https://badlands.substack.com/p/badlands-news-brief-08e
@@ -138,3 +144,4 @@ Badlands contributor [[ashe-in-america|Ashe in America]] wrote that Trudeau was 
 16. Badlands Brief - "Badlands News Brief: Tracking Resignations and Treasonous Trials", URL: https://badlands.substack.com/p/badlands-news-brief-576
 18. Badlands Brief — "GART is Here! Plus, Exposure & Disclosure Abound", URL: https://badlands.substack.com/p/badlands-news-brief-7e6
 19. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
+20. Badlands Brief — "Badlands News Brief: Immigration Dominates Headlines as Devo Proofs Abound", URL: https://badlands.substack.com/p/badlands-news-brief-bed

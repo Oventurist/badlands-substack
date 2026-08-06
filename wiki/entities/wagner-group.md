@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, private-military, africa, sahel, syria]
-sources: [raw/badlands-brief-405.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-a56.md, raw/badlands-news-brief-ac7.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-b5f.md]
+sources: [raw/badlands-brief-405.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-a56.md, raw/badlands-news-brief-ac7.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-c05.md, raw/badlands-news-brief-c93.md]
 confidence: medium
 ---
 
@@ -75,8 +75,11 @@ In his June 26, 2023 address, [[vladimir-putin|Vladimir Putin]] said that "the v
 
 In August 2024, Ukraine's foreign ministry cited intelligence indicating that Wagner mercenaries were among the forces massing in Belarus's Gomel region on the Ukrainian border, alongside Belarusian personnel, Special Operations Forces, weapons and equipment deployed "under the guise of exercises."[13] Kyiv warned Belarusian officials to pull back or risk becoming further embroiled in the war.[13] Badlands commentator GhostofBasedPatrickHenry treated reports of Wagner's departure from Ukraine skeptically, linking them to doubts about the plane crash that killed Yevgeny Prigozhin and suggesting the group's presence in Belarus signalled an impending Russian move to end the war; he also flagged renewed attention to Wagner's operations in Africa.[13]
 
-## References
+## Cited in Badlands commentary on Africa (December 2025)
 
+After [[sergey-lavrov|Sergey Lavrov]] told the [[russia-africa-partnership-forum|Russia-Africa Partnership Forum]] in Cairo that Russia was committed to unlocking Africa's "huge potential," Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] interpreted the phrase as meaning that Russian military and paramilitary forces, including the Wagner Group, were liberating African people from colonial oppression.[15] He described the opposing forces as transnational cartels, the [[central-intelligence-agency|CIA]], [[mi6|MI6]], [[mossad|Mossad]], [[nato|NATO]], the UN, the EU and assorted NGOs and proxy militias, and called Africa "the chessboard where the Sovereign War is playing out, kinetically."[15]
+
+## References
 1. Badlands Brief — "Agencies Aflutter, Corporate Compacts & Discombobulated Drones", URL: https://badlands.substack.com/p/badlands-brief-405
 2. Badlands News Brief — "Fake MAGA Break-ups and Based Accelerationism", URL: https://badlands.substack.com/p/badlands-news-brief-11d
 3. Badlands Brief — "Badlands News Brief: Fake Candidates, Plea Deals & War Drums", URL: https://badlands.substack.com/p/badlands-news-brief-264
@@ -90,3 +93,5 @@ In August 2024, Ukraine's foreign ministry cited intelligence indicating that Wa
 11. Badlands Brief — "Whose Coup Is It Anyway? ... And Other Questions", URL: https://badlands.substack.com/p/badlands-news-brief-ac7
 12. Badlands Brief — "Badlands News Brief: Trump's Tapes, Putin's Plan & Byrne's Bio", URL: https://badlands.substack.com/p/badlands-news-brief-b26
 13. Badlands Brief — "Badlands News Brief: Debates About Debates, RINO Country & Building BRICS", URL: https://badlands.substack.com/p/badlands-news-brief-b5f
+14. Badlands News Brief — "Bicameral Jailings, Russian Trolling and Retribution ...", URL: https://badlands.substack.com/p/badlands-news-brief-c05
+15. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93
