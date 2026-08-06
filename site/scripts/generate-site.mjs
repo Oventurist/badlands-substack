@@ -164,6 +164,7 @@ Search, filter, and browse the ${label.toLowerCase()} index.
     indexData.push({ id: slug, title: p.title, section: p.section, type, tags });
   }
   indexData.sort((a, b) => a.title.localeCompare(b.title));
+  await fs.mkdir(path.join(DOCS, "public"), { recursive: true });
   await fs.writeFile(path.join(DOCS, "public", "index-data.json"), JSON.stringify(indexData), "utf-8");
 
   // graph page removed: its 5.5MB graph-data.json (10K nodes + all wikilink
