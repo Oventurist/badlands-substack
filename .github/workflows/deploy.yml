@@ -40,7 +40,11 @@ jobs:
 
       - name: Build
         working-directory: site
-        # generates site/docs from wiki/, then renders the VitePress site
+        # generates site/docs from wiki/, then renders the VitePress site.
+        # NODE_OPTIONS raises the JS heap cap: the default ~4GB dies on
+        # 8K+ page builds (FATAL ERROR: JavaScript heap out of memory).
+        env:
+          NODE_OPTIONS: "--max-old-space-size=6144"
         run: npm run build
 
       - name: Setup Pages
