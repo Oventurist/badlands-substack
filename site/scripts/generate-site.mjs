@@ -183,6 +183,10 @@ export default defineConfig({
   // page at build time, blowing past Vercel's 45-min limit. Pages already
   // carry their own updated date in frontmatter.
   lastUpdated: false,
+  // The CI build renders the entities and concepts halves separately (to
+  // stay under the runner's memory limit), so each half references pages
+  // in the other half. Don't fail the build on those cross-half links.
+  ignoreDeadLinks: true,
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },

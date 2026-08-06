@@ -44,28 +44,34 @@ jobs:
         working-directory: site
         run: npm ci
 
-      - name: Build
+      - name: Build (split into entities + concepts halves)
         working-directory: site
-        # generates site/docs from wiki/, then renders the VitePress site.
-        # NODE_OPTIONS raises the JS heap cap: the default ~4GB dies on
-        # 11K+ page builds. The 6GB heap is borderline on GitHub's 7GB
-        # runners (runner-to-runner variance — identical commits sometimes
-        # OOM at the final bundling phase), so retry up to 3x; a retry
-        # lands on a different runner and usually completes.
+        # The full 11.5K-page build OOMs GitHub's 7GB runner (6GB heap fits
+        # ~11K pages, not 11.5K). Build the two halves separately (each
+        # ~5.8K pages, well under the limit) and merge the dists. Both
+        # halves render the same theme/nav, so the merged site is complete.
         env:
           NODE_OPTIONS: "--max-old-space-size=6144"
         run: |
-          for attempt in 1 2 3; do
-            echo "=== build attempt $attempt ==="
-            if npm run build; then
-              echo "build succeeded on attempt $attempt"
-              exit 0
-            fi
-            echo "build failed on attempt $attempt (exit $?) — retrying"
-            sleep 10
-          done
-          echo "build failed after 3 attempts"
-          exit 1
+          set -e
+          echo "=== generate site (once) ==="
+          node scripts/generate-site.mjs
+
+          echo "=== build entities half ==="
+          mv docs/concepts docs/concepts.hidden
+          npx vitepress build docs --outDir dist-entities
+          mv docs/concepts.hidden docs/concepts
+
+          echo "=== build concepts half ==="
+          mv docs/entities docs/entities.hidden
+          npx vitepress build docs --outDir dist-concepts
+          mv docs/entities.hidden docs/entities
+
+          echo "=== merge halves ==="
+          mkdir -p dist-final
+          cp -r dist-concepts/. dist-final/
+          cp -r dist-entities/. dist-final/
+          echo "merged $(find dist-final -name '*.html' | wc -l) html pages"
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
@@ -73,8 +79,8 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # upload the built VitePress output
-          path: site/docs/.vitepress/dist
+          # upload the merged (entities + concepts) VitePress output
+          path: site/dist-final
 
   deploy:
     environment:
