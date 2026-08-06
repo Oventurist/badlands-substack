@@ -35,6 +35,10 @@ In February 2025, Trump Media and Technology Group sued de Moraes in U.S. federa
 
 In late August 2024 de Moraes moved against [[x-corp|X]] after the platform refused to comply with orders it characterized as illegal demands to censor his political opponents, prompting X to warn on August 29 that its service in [[brazil|Brazil]] might be shut down imminently.[3] X said the judge had threatened its Brazilian legal representative with imprisonment and froze her bank accounts even after she resigned, and that its legal challenges were either dismissed or ignored while his Supreme Court colleagues were "either unwilling or unable to stand up to him."[3] The company announced it would publish all of his demands and the related court filings, and reporting at the time also noted his blocking of Starlink bank accounts as the confrontation with [[elon-musk|Elon Musk]] escalated.[3]
 
+## Escalation against X (August 2024)
+
+In late August 2024 de Moraes moved against [[x-corp|X]] after the platform refused to comply with orders it characterized as illegal demands to censor his political opponents, prompting X to warn on August 29 that its service in [[brazil|Brazil]] might be shut down imminently.[3] X said the judge had threatened its Brazilian legal representative with imprisonment and froze her bank accounts even after she resigned, and that its legal challenges were either dismissed or ignored while his Supreme Court colleagues were "either unwilling or unable to stand up to him."[3] The company announced it would publish all of his demands and the related court filings, and reporting at the time also noted his blocking of Starlink bank accounts as the confrontation with [[elon-musk|Elon Musk]] escalated.[3]
+
 ## References
 1. Badlands Brief — "American Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-a1a
 2. Badlands Brief — "Trump Teases Saudi Trillions; Biden Bros Embezzled Billions", URL: https://badlands.substack.com/p/badlands-news-brief-745

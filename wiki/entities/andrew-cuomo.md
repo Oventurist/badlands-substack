@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [new-york, politics, mayoral-race, democrats]
-sources: [raw/badlands-news-brief-153.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-448.md]
+sources: [raw/badlands-news-brief-153.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-8d6.md]
 confidence: medium
 ---
 
@@ -32,7 +32,12 @@ Badlands contributor [[ashe-in-america|Ashe in America]] characterised Cuomo as 
 
 On the eve of the [[new-york-city-mayoral-election-2025|2025 New York City mayoral election]], President [[donald-trump|Donald Trump]] endorsed Cuomo, telling New Yorkers in a Truth Social post that they "must vote for" the former governor to prevent the victory of "Communist" candidate [[zohran-mamdani|Zohran Mamdani]].[3] Although Cuomo was running as an independent and Republican [[curtis-sliwa|Curtis Sliwa]] remained in the race, Trump argued that a vote for Sliwa was a vote for Mamdani, adding that he "would much rather see a Democrat, who has had a Record of Success, WIN, than a Communist with no experience."[3] Badlands host Ashe in America questioned whether Cuomo — or anyone — could prevail in what she characterized as a "fake election."[3]
 
+## Apology to Jewish New Yorkers (October 2025)
+
+On 1 October 2025, hours before the beginning of Yom Kippur, Cuomo apologized to Jewish New Yorkers for the COVID-19 lockdowns he had imposed five years earlier, which banned large gatherings, closed schools and disrupted religious traditions.[4] The apology came while Cuomo was running as an underdog in his political comeback bid for mayor, and on the holiest day of the Jewish calendar, when one is meant to atone for sins.[4] In the video Cuomo said he had made decisions to protect the health and safety of New Yorkers during a once-in-a-century pandemic that killed about 80,000 residents.[4] Badlands contributor [[ashe-in-america|Ashe in America]] mocked the message as "Sorry I killed your parents and grandparents. Please elect me governor!", asking what had happened to competent political consultants and concluding that Cuomo is "a terrible product."[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Very Productive Phone Calls & Presidential Memorandums", URL: https://badlands.substack.com/p/badlands-news-brief-153
 2. Badlands Brief — "Badlands News Brief: Sovereign Signals, New(ish) Alliances & Reckonings", URL: https://badlands.substack.com/p/badlands-news-brief-316
 3. Badlands Brief — "Badlands News Brief: Victim Cards, Foreign Inference, & Chessboard Stans", URL: https://badlands.substack.com/p/badlands-news-brief-448
+4. Badlands Brief — "Badlands News Brief: Inadvertent Israeli Attacks, Delightful Deep Fakes, & A Suing Shaman", URL: https://badlands.substack.com/p/badlands-news-brief-8d6

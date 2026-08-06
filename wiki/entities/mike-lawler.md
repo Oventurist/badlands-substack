@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republican, new-york, elections]
-sources: [raw/badlands-brief-7c6.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-222.md]
+sources: [raw/badlands-brief-7c6.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-914.md]
 confidence: medium
 ---
 
@@ -34,8 +34,15 @@ Lawler introduced the [[igo-anti-boycott-act|IGO Anti-Boycott Act]], House Resol
 A vote scheduled for Monday in early May 2025 was cancelled after intense online pushback, including accusations from critics that Lawler was engaging in treason for endorsing the bill.[4] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] endorsed that criticism and called for the entire [[congress|Congress]] to be investigated for potential foreign influence.[4]
 
 
+## Letter to the UN over Israel's status (October 2024)
+
+In late October 2024, Lawler, a Republican representing New York, joined with [[jared-moskowitz|Jared Moskowitz]] of Florida to spearhead a bipartisan letter signed by more than one hundred members of [[congress|Congress]] and addressed to United Nations Secretary-General [[antonio-guterres|António Guterres]].[5] The letter warned that any downgrade in Israel's status or standing at the UN General Assembly would result in a corresponding downgrade of U.S. financial, material and political support for the [[united-nations|United Nations]].[5]
+
+The signatories stated that Congress had taken note of numerous UN actions "aimed to delegitimize Israel's right to self-defense" and concluded that "the UN is not a neutral party but one that has definitively taken sides against Israel," reminding Guterres that the United States is the organization's largest donor, contributing roughly one-third of its collective budget.[5]
+
 ## References
 1. Badlands Brief — "The Democratization of Narrative Distribution. And a New War with Iran.", URL: https://badlands.substack.com/p/badlands-brief-7c6
 2. Badlands Brief — "Plan B for Israel & Ouroborosian Protests Consume Clown World", URL: https://badlands.substack.com/p/badlands-news-brief-0be
 3. Badlands News Brief — "Pedish Patricide, ISIS-Inspired Disarmament, & Trump's Love Language", URL: https://badlands.substack.com/p/badlands-news-brief-143
 4. Badlands Brief — "Badlands News Brief: Intelligence Narratives & Seemingly Impossible Deals", URL: https://badlands.substack.com/p/badlands-news-brief-222
+5. Badlands Brief — "Badlands News Brief: Trump Tours, Bannon Breaks Out & Israel Hesitates", URL: https://badlands.substack.com/p/badlands-news-brief-914

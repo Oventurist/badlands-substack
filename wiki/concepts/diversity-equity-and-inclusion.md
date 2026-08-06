@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [dei, corporate-policy, florida, disney]
-sources: [raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-795.md]
+sources: [raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-8ae.md]
 confidence: medium
 ---
 
@@ -40,8 +40,15 @@ At [[turning-point-usa|Turning Point USA]]'s AmericaFest 2025 in Phoenix, Arizon
 
 [[ashe-in-america|Ashe in America]] countered that DEI was neither dead nor static, reporting that the head of "diversity, equity, inclusion, and belonging" at the [[colorado-department-of-corrections|Colorado Department of Corrections]] had denied her request to see [[tina-peters|Tina Peters]] and doubled down after she objected to her treatment as a member of the media.[4] She argued that DEI was "not only alive and well in Colorado, it's mutating again" into DEIB, and questioned why the concept of "belonging" was being promoted within a prison system.[4]
 
+## Corporate retreat in 2024
+
+In July 2024, Business Insider revealed that [[microsoft|Microsoft]] had laid off an internal team focused on DEI.[5] An email from a Microsoft "team leader" told employees that "true systems-change work associated with DEI programs everywhere are no longer business critical or smart as they were in 2020," and stated that the team had been eliminated due to "changing business needs" as of July 1.[5] The number of affected employees was unclear.[5]
+
+Commentary framed the move as part of a broader unraveling of DEI and environmental, social, and governance initiatives across corporate America, arguing that the profit motive had proved incompatible with what it characterized as unproductive virtue signaling.[5] Data from AlphaSense showed that first-quarter mentions of "DEI" had collapsed from their 2021 peak.[5]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: The Trump Card ...", URL: https://badlands.substack.com/p/badlands-news-brief-3b0
 2. Badlands Brief — "Badlands News Brief: North American Trade Troubles & Unipartisan Panic", URL: https://badlands.substack.com/p/badlands-news-brief-52f
 3. Badlands Brief — "Trump's Ballot Battles, Racist Mockingbirds and Dying DEI", URL: https://badlands.substack.com/p/badlands-news-brief-788
 4. Badlands Brief — "Brennan Decries Judge Shopping & JD Says It's Okay to Be White!", URL: https://badlands.substack.com/p/badlands-news-brief-795
+5. Badlands Media — "Badlands News Brief: Vance Takes the Stage as Biden Takes the Basement", URL: https://badlands.substack.com/p/badlands-news-brief-8ae

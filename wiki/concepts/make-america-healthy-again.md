@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [public-health, food-policy, maha, chronic-disease]
-sources: [raw/badlands-news-brief-03a.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-7b8.md]
+sources: [raw/badlands-news-brief-03a.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-8ce.md]
 confidence: medium
 ---
 
@@ -38,7 +38,13 @@ The action placed particular emphasis on children's health, stating that in 2022
 
 Badlands contributor [[jordan-sather|Jordan Sather]] tied the commission to Kennedy's confirmation, quoting his argument that Trump had promised to restore America's strength but that "we can't be a strong nation if we have a weak citizenry."[3]
 
+
+## Autism initiative, September 2025
+
+The September 22, 2025 [[2025-white-house-tylenol-autism-announcement|White House announcement]] on the causes of autism came as the Make America Healthy Again movement pushed for answers on the disorder.[4] AP News described the diverse coalition of supporters of Health Secretary [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] as including several anti-vaccine activists who have long spread debunked claims that immunizations are responsible for rising autism rates.[4]
+
 ## References
 1. Badlands Brief — "SCOTUS and Subsidies, Banker Bonuses, and Six More Years of Lindsay Graham", URL: https://badlands.substack.com/p/badlands-news-brief-03a
 2. Badlands Brief — "Badlands News Brief: MAHA Begins as ESG Dies", URL: https://badlands.substack.com/p/badlands-news-brief-299
 3. Badlands Brief — "Badlands News Brief: MAHA, Modi, Musk, & Munich", URL: https://badlands.substack.com/p/badlands-news-brief-7b8
+4. Badlands Brief — "Palestinian Promises, Venezuelan Ventures, & Kazakh Considerations", URL: https://badlands.substack.com/p/badlands-news-brief-8ce

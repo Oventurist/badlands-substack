@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ukraine, corruption, law-enforcement, badlands-brief]
-sources: [raw/badlands-brief-a89.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-670.md]
+sources: [raw/badlands-brief-a89.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-91b.md]
 confidence: medium
 ---
 
@@ -30,8 +30,13 @@ On July 23, 2025, NABU announced it had completed its investigation into busines
 
 The December 18, 2015 [[european-commission|European Commission]] progress report on Ukraine, published by the New York Post in September 2023, noted that a newly created specialized anti-corruption prosecution office — whose head Prosecutor-General [[viktor-shokin|Viktor Shokin]] had just appointed — would help the newly established National Anti-Corruption Bureau combat corruption.[4] The Commission described the specialized office as "an indispensable component of an effective and independent institutional framework for combating high-level corruption" and urged Ukrainian leadership to ensure both bodies were "fully operational" by the first quarter of 2016.[4]
 
+## Loss of independence and the July 2025 protests
+
+In July 2025 Ukrainian lawmakers voted to scuttle the independence of the country's two national anti-corruption bodies, of which the Bureau is the principal investigative arm.[5] The vote triggered demonstrations on the night of July 22 in Kyiv, Lviv, Dnipro and Odesa — the largest protests in Ukraine since Russia's full-scale invasion began in February 2022 — with crowds chanting "Veto! Veto! Veto!" outside the office of President [[volodymyr-zelensky|Volodymyr Zelensky]].[5] Badlands commentary characterized such anti-corruption agencies as instruments of the "Regime's [[color-revolution|Color Revolution]] playbook" rather than organic domestic institutions.[5] See [[2025-ukrainian-anti-corruption-law-protests|2025 Ukrainian anti-corruption law protests]].[5]
+
 ## References
 1. Badlands Brief — "Trump's DOJ Gets Busy as the Boss Jets to Beijing", URL: https://badlands.substack.com/p/badlands-brief-a89
 2. Badlands Brief — "Bessent's Bounty Hunters and Olympic Phallacies", URL: https://badlands.substack.com/p/badlands-brief-e9a
 3. Badlands Brief — "Badlands News Brief: Pardon Probes & Russia Gate Redux", URL: https://badlands.substack.com/p/badlands-news-brief-58e
 4. Badlands Brief — "Musk the Peacemaker, Constitutional Overreach & POTATUS", URL: https://badlands.substack.com/p/badlands-news-brief-670
+5. Badlands Brief — "Badlands News Brief: The Corruption of Anti-Corruption & Obama Bites Back", URL: https://badlands.substack.com/p/badlands-news-brief-91b

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, idf, military, october-7, manpower]
-sources: [raw/badlands-brief-5dc.md, raw/badlands-brief-d1a.md, raw/badlands-brief-f17.md]
+sources: [raw/badlands-brief-5dc.md, raw/badlands-brief-d1a.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-91b.md]
 confidence: medium
 ---
 
@@ -36,7 +36,17 @@ Badlands commentator [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] linke
 
 In February 2026 Zamir led a senior Israeli military delegation on a previously undisclosed visit to the [[pentagon|Pentagon]] to present intelligence and discuss military options concerning [[iran|Iran]], amid the growing U.S. force presence in the region.[3] The visit coincided with reporting that U.S. officials were preparing for potential conflict with Iran while able to carry out only limited strikes.[3]
 
+## Warning on the 2025 Gaza seizure plan
+
+In May 2025, as [[israel-defense-forces|IDF]] Chief of Staff, Lt. Gen. Zamir warned that launching the newly approved operation to seize the [[gaza|Gaza Strip]] could mean losing the remaining Israeli hostages held there.[4] Badlands commentary characterized that risk as a price the government of [[benjamin-netanyahu|Benjamin Netanyahu]] appeared willing to pay, noting that Finance Minister [[bezalel-smotrich|Bezalel Smotrich]] had simultaneously urged Israelis to "embrace Gaza occupation."[4]
+
+## Reported support for Gaza "security annexation"
+
+At the [[gaza-riviera-conference|"Gaza Riviera – from vision to reality"]] conference held at the [[knesset|Knesset]] on July 22, 2025, Finance Minister [[bezalel-smotrich|Bezalel Smotrich]] claimed that Zamir, as [[israel-defense-forces|IDF]] Chief of Staff, favored a "security annexation" of the northern Gaza Strip.[5] Smotrich used the claim to bolster his own call for Gaza to become an "inseparable part of the State of Israel" and for the establishment of three Israeli communities along the Strip's northern edge.[5]
+
 ## References
 1. Badlands Brief — "Gay Ayatollahs & Globalist Fragility", URL: https://badlands.substack.com/p/badlands-brief-5dc
 2. Badlands Brief — "Key Indictments at Home and a 'State of Collapse' Abroad", URL: https://badlands.substack.com/p/badlands-brief-d1a
 3. Badlands Brief — "Epstein Clickbait, Lemon's Demise, & Zionists MAD", URL: https://badlands.substack.com/p/badlands-brief-f17
+4. Badlands Brief — "Badlands News Brief: Gazan Seizures & Gay Porn Scandals", URL: https://badlands.substack.com/p/badlands-news-brief-8dc
+5. Badlands Brief — "Badlands News Brief: The Corruption of Anti-Corruption & Obama Bites Back", URL: https://badlands.substack.com/p/badlands-news-brief-91b

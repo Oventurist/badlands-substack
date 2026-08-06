@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, citizen-journalism, commentary, substack]
-sources: [raw/badlands-news-brief-38f.md, raw/badlands-news-brief-644.md]
+sources: [raw/badlands-news-brief-38f.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-8c5.md]
 confidence: medium
 ---
 
@@ -28,6 +28,11 @@ Responding to [[tucker-carlson|Tucker Carlson]]'s March 2023 broadcast of Capito
 
 In the same brief he criticised the refusal to grant [[novak-djokovic|Novak Djokovic]] a vaccine waiver to enter the United States, noting the entry requirement was due to lapse on May 11 and contrasting the exclusion of the world's top-ranked tennis player with the admission of vaccinated [[antifa]] attackers from abroad who targeted an establishment in Atlanta.[2]
 
+## "Voting matters" (February 2023)
+
+In the February 23, 2023 Badlands News Brief, AbsoluteTruth1776 commented on the [[north-carolina-supreme-court|North Carolina Supreme Court]]'s decision to rehear two voting cases, opening with the assertion that "voting matters."[3] He recounted that the court had flipped from a Democratic majority to a Republican supermajority in November 2022 and that, on their way out, the Democratic justices had "legislated from the bench" by holding [[north-carolina-voter-id-law|voter ID]] unconstitutional and finding that Republicans had unfairly gerrymandered districts in [[harper-v-hall|Harper v. Hall]].[3] He wrote that neither assertion was accurate and argued that the high likelihood of both rulings being overturned showed that North Carolinians who went to the polls in November had successfully voted out justices he described as incredibly biased, if not corrupt.[3]
+
 ## References
 1. Badlands Brief — "BANKS BANKS BANKS!", URL: https://badlands.substack.com/p/badlands-news-brief-38f
 2. Badlands Brief — "J6 Exposure, Biden's Brain and Trump's Agenda", URL: https://badlands.substack.com/p/badlands-news-brief-644
+3. Badlands Brief — "Badlands News Brief: Putin Postures, Voting Matters & J6 Subpoenas", URL: https://badlands.substack.com/p/badlands-news-brief-8c5

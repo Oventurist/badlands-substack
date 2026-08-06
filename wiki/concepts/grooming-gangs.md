@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [united-kingdom, child-trafficking, scandal, institutional-failure]
-sources: [raw/badlands-brief-b56.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-59b.md]
+sources: [raw/badlands-brief-b56.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-59b.md, raw/badlands-news-brief-93e.md]
 confidence: medium
 ---
 
@@ -42,7 +42,12 @@ Renewed attention in January 2025 revived the case of [[tauqeer-hussain|Tauqeer 
 
 Badlands contributor [[ashe-in-america|Ashe in America]] wrote that the girl was raped in front of disinterested or impotent and unarmed police, and that despite the convictions the gangs continued to operate.[3] She argued that the "great migration" was a resounding success for the regime, which brandished weaponized empathy and the fear of being labelled a racist or bigot as sticks to ensure populations did not protest the relocation of predators into their communities — with the result that countless underage girls were raped over decades.[3] She concluded that the child rapists must be held accountable, and the politicians who enabled them out of cowardice or political expediency "maybe even more so."[3]
 
+## Police implicated in Rotherham
+
+In late January 2025, two former police officers were arrested after being accused of misconduct in public office and of sexually abusing children in an English town where a Muslim child grooming gang had operated for over a decade.[4] The ex-officers, unnamed at the time of publication, were taken into custody as part of an investigation into child sexual exploitation in the rape gang hotspot of Rotherham, England.[4] The arrests followed complaints from four individuals who alleged they were victims of abuse connected to two former South Yorkshire Police constables, with the offenses reportedly occurring during both on-duty and off-duty periods.[4]
+
 ## References
 1. Badlands Brief — "A Communist Uprising & A Globalist Humiliation Ritual", URL: https://badlands.substack.com/p/badlands-brief-b56
 2. Badlands Brief — "Badlands News Brief: City States, Sabotage, & Soliloquies On Sanctions", URL: https://badlands.substack.com/p/badlands-news-brief-25f
 3. Badlands News Brief — "A Song of Ice and Fire, Fraud, and Foreign Flashpoints", URL: https://badlands.substack.com/p/badlands-news-brief-59b
+4. Badlands Brief — "Badlands News Brief: A Midflight Collision, Dems Choose Division, Menendez Gets Prison", URL: https://badlands.substack.com/p/badlands-news-brief-93e

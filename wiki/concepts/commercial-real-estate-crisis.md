@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [economy, real-estate, banking, badlands-news-brief]
-sources: [raw/badlands-news-brief-001.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-316.md]
+sources: [raw/badlands-news-brief-001.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-942.md]
 confidence: medium
 ---
 
@@ -40,7 +40,14 @@ Politico reported in September 2024 that four and a half years after the pandemi
 
 The troubles drew congressional attention, with one New York lawmaker calling the situation a "ticking time bomb" for banks as nearly $1 trillion in commercial real estate loans came due that year.[3] Facing both vacant office buildings and a shortage of millions of homes, a bipartisan group of lawmakers sought to make it easier for developers to convert underused properties into housing.[3] Representative Mike Carey (R-Ohio), who introduced a bill that summer establishing a temporary 20 percent tax credit for qualified property conversion expenditures alongside Representative Jimmy Gomez (D-Calif.), said the change "would absolutely help lenders recoup some of their investment while allowing them to align with the current needs of the market," adding that "the pandemic caused a seismic shift in work patterns" and that "we see these vacant office buildings as a well of untapped potential."[3]
 
+## Record office vacancy rate (July 2024)
+
+Axios reported in July 2024 that office vacancy rates had reached a record 20.1% in the second quarter — the highest since at least 1979, when Moody's began tracking the figure.[4] The outlet noted that vacancy rates typically rise in economic downturns, so it was outside the normal pattern for them to have climbed for several years while the economy remained, in its telling, on solid ground.[4] Offices were said to be sitting empty because the pandemic appeared to have permanently changed how many Americans work, leaving companies needing less space, while long-term leases were taking a long time to unwind, according to Moody's associate economist Nick Luettke.[4] Moody's projected vacancy rates would keep climbing for several years, peaking at the end of 2026, with worse outcomes if the economy entered a downturn; Luettke concluded there was "just going to be pain over the next coming years."[4]
+
+Badlands writer [[ashe-in-america|Ashe in America]] argued the article said the quiet part out loud, contending that only administration officials and narrative peddlers believed the economic story being told, and that job gains, [[inflation|inflation]] metrics and talking points on housing, energy costs, homelessness and the markets were all manipulated.[4] In that reading, the media's confusion at indicators such as commercial occupancy rates stemmed from changed formulas used to game the metrics, and the underlying explanation was simply that the [[joe-biden|Biden administration]]'s economic narrative was fake.[4]
+
 ## References
 1. Badlands Media — "Badlands News Brief: FOX Guarding the Hen House?", URL: https://badlands.substack.com/p/badlands-news-brief-001
 2. Badlands Brief — "Russia's Retreat, Dominion's Domain & Street 'Justice'", URL: https://badlands.substack.com/p/badlands-news-brief-2e7
 3. Badlands Brief — "Badlands News Brief: Sovereign Signals, New(ish) Alliances & Reckonings", URL: https://badlands.substack.com/p/badlands-news-brief-316
+4. Badlands Brief — "Kamala on the Media Block as Putin Makes Moves", URL: https://badlands.substack.com/p/badlands-news-brief-942

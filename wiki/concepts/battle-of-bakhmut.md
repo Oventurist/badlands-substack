@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ukraine, russia, bakhmut, wagner-group, donbas, war]
-sources: [raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-423.md]
+sources: [raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-919.md]
 confidence: medium
 ---
 
@@ -34,7 +34,12 @@ Burning Bright argued that Russia relies on "maneuver defense" — highly advanc
 
 Writing on June 6, 2023, Badlands contributor [[burning-bright|Burning Bright]] listed the failure of the Bakhmut counter-offensives as the first item in his summary of battlefield reality, describing them as having failed "catastrophically" alongside continued Russian shelling of Ukrainian and NATO munitions.[3] He set this against Western media narratives that he argued were being adjusted to accommodate deteriorating conditions on the ground.[3]
 
+## Bakhmut and the April 2023 negotiation signal
+
+By early April 2023, with the fight for Bakhmut going poorly for Kyiv and Ukrainian casualties in the east believed to be high, talk of compromise accompanied anticipation of a spring counteroffensive.[4] President [[volodymyr-zelensky|Volodymyr Zelensky]] had voiced rare doubts about Bakhmut, appearing to prepare the Ukrainian public for a devastating defeat, and his deputy chief of staff [[andriy-sybiha|Andriy Sybiha]] then told the *Financial Times* that Kyiv was open to discussing the future of [[crimea|Crimea]] with Moscow.[4]
+
 ## References
 1. Badlands Brief — "Russia's Retreat, Dominion's Domain & Street 'Justice'", URL: https://badlands.substack.com/p/badlands-news-brief-2e7
 2. Badlands News Brief — "FBI Corruption, Kayfabe & Russia, Russia, Russia!", URL: https://badlands.substack.com/p/badlands-news-brief-38a
 3. Badlands Brief — "Badlands News Brief: Gheyliens, Ukrainian Nazis & Post Office Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-423
+4. Badlands Brief — "Badlands News Brief: Trials Galore, Ukraine Backpedal & The Gold Standard", URL: https://badlands.substack.com/p/badlands-news-brief-919

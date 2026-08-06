@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [charlie-kirk, ballistics, criminal-case]
-sources: [raw/badlands-brief-282.md, raw/badlands-brief-5ba.md, raw/badlands-brief-805.md, raw/badlands-brief-774.md, raw/badlands-brief-c5b.md, raw/badlands-news-brief-1ed.md]
+sources: [raw/badlands-brief-282.md, raw/badlands-brief-5ba.md, raw/badlands-brief-805.md, raw/badlands-brief-774.md, raw/badlands-brief-c5b.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-8cd.md]
 confidence: medium
 ---
 
@@ -44,6 +44,14 @@ Robinson, 22, of Washington, Utah, was due to appear in court on Tuesday, 16 Sep
 
 Badlands contributor [[ashe-in-america|Ashe in America]] noted the timing — that officials had said the suspect was not cooperating just before the Discord confession surfaced — and argued the case was not a lone-wolf attack by a deranged young man but a sophisticated operation, calling it a test for [[pam-bondi|Pam Bondi]] and [[kash-patel|Kash Patel]].[6]
 
+## Reported ideology and radicalization (September 2025)
+
+Utah Governor [[spencer-cox|Spencer Cox]] said on September 14, 2025 that while authorities still did not know the motive for the shooting, interviews with those close to Robinson had revealed that he held a "leftist ideology."[7] Robinson, arrested after a 33-hour manhunt, had not confessed or cooperated with investigators since being taken into custody the previous Thursday, Cox said in appearances on multiple networks.[7] Relatives told investigators that Robinson, 22, had "very different" political views from his conservative family; state voter records showed him registered as unaffiliated while his parents were registered Republicans.[7]
+
+Cox said Robinson, once a straight-A student, appeared to have been "radicalized" after dropping out of Utah State University, and that friends had confirmed he was going deep into "that deep, dark internet, the Reddit culture, and these other dark places of the internet."[7] Bullet casings recovered at the scene were engraved with messages such as "hey fascist! CATCH!" along with words and symbols from gaming culture.[7] The governor also said Robinson's partner, whom investigators believed had no prior knowledge of the shooting, "is transitioning from male to female."[7]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] rejected the official narrative, saying there is "no universe" in which she believes the "troubled, trans-partnered crazy kid" killed [[charlie-kirk|Charlie Kirk]], describing the process as "investigative gaslighting" with the Utah governor leading the charge, and noting that the gun, the roof jump, and the suspect's clothing do not make sense to her.[7]
+
 ## References
 1. Badlands Brief — "Jesus Walks", URL: https://badlands.substack.com/p/badlands-brief-282
 2. Badlands Brief — "Guardians, Shields, & Iranian House Arrest", URL: https://badlands.substack.com/p/badlands-brief-5ba
@@ -51,3 +59,4 @@ Badlands contributor [[ashe-in-america|Ashe in America]] noted the timing — th
 4. Badlands Brief — "Weaponization Woes & Bailing on the Bromance", URL: https://badlands.substack.com/p/badlands-brief-774
 5. Badlands Brief — "A Christian Court Victory, Sovereign Alliance Comms and Off-Ramps Galore?", URL: https://badlands.substack.com/p/badlands-brief-c5b
 6. Badlands Brief — "Badlands News Brief: Military in Memphis & Patrols in Poland", URL: https://badlands.substack.com/p/badlands-news-brief-1ed
+7. Badlands Brief — "Badlands News Brief: Vigils, Vanguards, & Various Investigations", URL: https://badlands.substack.com/p/badlands-news-brief-8cd

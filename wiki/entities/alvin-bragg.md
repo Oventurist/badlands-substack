@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [prosecutor, new-york, manhattan-district-attorney, crime]
-sources: [raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-85a.md]
+sources: [raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-907.md]
 confidence: medium
 ---
 
@@ -66,6 +66,12 @@ On 29 March 2023, after weeks of media anticipation of an imminent arrest of [[d
 
 The delay coincided with an Epoch Times report by Jack Phillips that an attorney in Trump's orbit who had testified before the Manhattan grand jury earlier that month believed there had been a shift in Bragg's case against the 45th president, saying "I think I got through to them."[10] [[jon-herold|Jon Herold]] mocked the hiatus as "the Trump indictment version of 'two weeks to flatten the curve.'"[10]
 
+## Trump's response to the indictment (April 2023)
+
+After a Manhattan grand jury indicted [[donald-trump|Donald Trump]] over the hush money payment, Trump issued a statement denouncing the case as "Political Persecution and Election Interference at the highest level in history," and describing Bragg as "hand-picked and funded by [[george-soros|George Soros]]" and "a disgrace."[11] Trump accused Bragg of doing [[joe-biden|Joe Biden]]'s "dirty work" and of ignoring "the murders and burglaries and assaults he should be focused on" amid what he called an unprecedented crime wave in New York City.[11] He predicted that his movement would "first defeat Alvin Bragg, and then we will defeat Joe Biden."[11]
+
+The indictment drew supportive reactions from Republican figures, with [[ron-desantis|Ron DeSantis]] indicating Florida would not assist in extradition and [[kevin-mccarthy|Kevin McCarthy]] denouncing the prosecution as an injustice.[11] In the [[badlands-news-brief|Badlands News Brief]], [[burning-bright|Burning Bright]] argued that Trump himself was pushing the indictment narrative hardest, and that commentators within the [[media-industrial-complex|media industrial complex]] and the cultural left who called the move a miscalculation were effectively conceding it would raise Trump's political capital ahead of the [[2024-us-general-election|2024 campaign cycle]].[11]
+
 ## References
 
 1. Badlands Media — "Badlands News Brief: Based Bodegas, Limp Sanctions & Scared Bankers", URL: https://badlands.substack.com/p/badlands-news-brief-0cd
@@ -78,3 +84,4 @@ The delay coincided with an Epoch Times report by Jack Phillips that an attorney
 8. Badlands Brief — "Badlands News Brief: Contempt, Combat Tactics and Cuts?", URL: https://badlands.substack.com/p/badlands-news-brief-70a
 9. Badlands Brief — "Biden Hemorrhages Already-Nonexistent Support", URL: https://badlands.substack.com/p/badlands-news-brief-6fc
 10. Badlands Brief — "Bank of Epstein, Saudi Arabia & Trump's Reprieve?", URL: https://badlands.substack.com/p/badlands-news-brief-85a
+11. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... Or Are They?", URL: https://badlands.substack.com/p/badlands-news-brief-907

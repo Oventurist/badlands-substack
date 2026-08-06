@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [agency, fda, medical-devices, regulation]
-sources: [raw/badlands-brief-2c5.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-58c.md]
+sources: [raw/badlands-brief-2c5.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-58c.md, raw/badlands-news-brief-908.md]
 confidence: low
 ---
 
@@ -85,6 +85,10 @@ In January 2023 The Epoch Times reported that the FDA had quietly changed the en
 
 On Wednesday, November 6, 2024, the day after [[donald-trump|Donald Trump]]'s election victory, [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] said the FDA's bureaucracy should be winnowed down, telling MSNBC that "there are entire departments, like the nutrition department at the FDA … that have to go—that are not doing their job. They're not protecting our kids."[14] Before the election Trump had floated Kennedy as having a role in his administration targeting federal agencies overseeing health care, food, and drugs.[14] Asked whether he would remove any health agencies outright, Kennedy replied that "to eliminate the agencies, as long as it requires congressional approval, I wouldn't be doing that," adding, "I can get the corruption out of the agencies."[14] In a separate Fox News interview that week he said, "we don't know what I'm going to do. I talked to the president about it yesterday, and he asked me what I wanted, and I said, we're developing a proposal now."[14]
 
+## CAALM citizen petition on COVID-19 vaccine labeling (February 2023)
+
+In early February 2023 a coalition of experts known as the [[coalition-advocating-for-adequately-labeled-medicines|Coalition Advocating for Adequately Labeled Medicines]] petitioned the FDA to update the labels of the [[pfizer|Pfizer]] and [[moderna|Moderna]] COVID-19 vaccines to acknowledge limitations of their clinical trials, including a clear statement that the phase III trials leading to clearance did not provide evidence of efficacy against death.[15] The petition was signed by [[peter-doshi|Peter Doshi]], an associate professor at the University of Maryland School of Pharmacy specializing in clinical trials, and eight other experts, who warned that "incomplete, inaccurate, or misleading labeling of any medical product can negatively impact the health and safety of Americans, with global ramifications considering the international importance of FDA decisions."[15] The agency had authorized the vaccines in late 2020 and approved them in 2021, and its own website still stated that "the scientific community does not yet know" whether the vaccines reduce transmission.[15] Badlands contributor [[burning-bright|Burning Bright]] read the petition as one more front opened against [[big-pharma|Big Pharma]] in the Exposure Phase of the [[great-awakening|Great Awakening]], to be followed by a legal Disclosure Phase and eventually justice.[15]
+
 ## References
 
 1. Badlands Brief — "Bioweapons Sneak Into the News Cycle as Israeli Shenanigans Ensue", URL: https://badlands.substack.com/p/badlands-brief-2c5
@@ -101,3 +105,4 @@ On Wednesday, November 6, 2024, the day after [[donald-trump|Donald Trump]]'s el
 12. Badlands Brief — "Badlands News Brief: Media Death Spiral, Vaccine Lawsuits & Beaver Butts", URL: https://badlands.substack.com/p/badlands-news-brief-550
 13. Badlands News Brief — "COVID Coverups, Globalist Schemes and Epstein's Shadow", URL: https://badlands.substack.com/p/badlands-news-brief-580
 14. Badlands Brief — "Badlands News Brief: The Winds of Change Approach DC …", URL: https://badlands.substack.com/p/badlands-news-brief-58c
+15. Badlands Brief — "Badlands News Brief: Satanic Idols, COVID Crimes & Twitter's Sins", URL: https://badlands.substack.com/p/badlands-news-brief-908

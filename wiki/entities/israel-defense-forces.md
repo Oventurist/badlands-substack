@@ -216,6 +216,14 @@ At around 8 p.m. some 100 masked settlers entered Jit, set fire to three cars an
 
 Badlands Media linked the episode to a wider crisis of discipline, citing the arrest of IDF soldiers by military police over the alleged gang rape of a male Palestinian detainee, the storming of two IDF bases by religious zealots demanding their release, and a televised [[knesset|Knesset]] debate in which one lawmaker defended the abuse of detainees identified as Nukhba operatives.[36]
 
+## Jit settler rampage investigation (August 2024)
+
+An IDF investigation released in late August 2024 into a deadly attack carried out by roughly 100 Israeli settlers on the West Bank village of Jit concluded that troops who arrived first on the scene did not act as expected to stop the assailants.[36] The military dismissed two members of a nearby outpost's local security team for acting "outside the scope of their authority" during the incident.[36] According to the probe, the IDF had received an alert from the [[shin-bet|Shin Bet]] on the evening of August 15 warning that a group of Israelis in vehicles was heading to commit a "nationalistic crime" in the Yitzhar area, and a large number of troops and Border Police officers were dispatched in an attempt to prevent it.[36]
+
+At around 8 p.m. some 100 masked settlers entered Jit, set fire to three cars and two buildings, and hurled Molotov cocktails and stones.[36] The IDF concluded that "the first force was unable to fully understand the situation. It tried to disperse the rioters and prevent harm to the Palestinians, but it should have acted with greater determination."[36] A 23-year-old man, Rashid Mahmoud Abdul Qader Sada, was shot and killed and another man wounded; although no arrests were made initially despite troops being present, four Israelis were later detained and charged with terrorism.[36]
+
+Badlands Media linked the episode to a wider crisis of discipline, citing the arrest of IDF soldiers by military police over the alleged gang rape of a male Palestinian detainee, the storming of two IDF bases by religious zealots demanding their release, and a televised [[knesset|Knesset]] debate in which one lawmaker defended the abuse of detainees identified as Nukhba operatives.[36]
+
 ## References
 1. Badlands Brief — "Moves and Countermoves", URL: https://badlands.substack.com/p/badlands-brief-095
 2. Badlands Brief — "All the Classic Earmarks of Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-143

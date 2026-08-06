@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [trump, assassination, deep-state, secret-service, 2024-election]
-sources: [raw/a-week-to-remember.md, raw/are-we-being-distracted.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-4b9.md, raw/badlands-news-brief-74a.md]
+sources: [raw/a-week-to-remember.md, raw/are-we-being-distracted.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-4b9.md, raw/badlands-news-brief-74a.md, raw/badlands-news-brief-8ae.md]
 confidence: medium
 ---
 
@@ -68,9 +68,18 @@ In a leaked recording of a phone call with [[robert-f-kennedy-jr|Robert F. Kenne
 
 The shooting also generated cultural fallout: [[jack-black|Jack Black]] cancelled the [[tenacious-d|Tenacious D]] world tour after bandmate [[kyle-gass|Kyle Gass]] joked onstage in Sydney, "Don't miss Trump next time," prompting Australian calls for the duo's deportation.[5]
 
+## Secret Service explanations and the DHS investigation
+
+In the days after the shooting, the foremost question was how the [[united-states-secret-service|Secret Service]] could have failed to secure a rooftop a little over 400 feet from the stage — a position former Army sniper Rep. [[cory-mills|Cory Mills]] called a "sniper's paradise" so obvious that he wondered aloud whether the failure was "intentional."[6]
+
+Secret Service Director [[kimberly-cheatle|Kimberly Cheatle]], who rejected calls to resign, told ABC News in a Tuesday interview that no agent had been posted on the building because it had a "sloped roof," adding that "there's a safety factor that would be considered there, that we wouldn't want to put somebody up on a sloped roof," and that "the decision was made to secure the building from inside."[6] Critics judged the explanations not to add up, and the [[department-of-homeland-security|Department of Homeland Security]] Inspector General launched an investigation into the security failures.[6]
+
+Badlands commentary paired the security story with [[joe-biden|Joe Biden]]'s abrupt COVID-19 cancellation the same week, framing both as facets of a single effort to strip Americans of political choice, and describing 2024 as a year in which all major narratives — the Trump prosecutions, the Biden panic, the "Shot Heard Around the World," and the attempts at a "Change of Batter" — were converging.[6] Axios also reported that the assassination attempt appeared to have advanced [[benjamin-netanyahu|Benjamin Netanyahu]]'s long effort to repair relations with [[donald-trump|Donald Trump]].[6]
+
 ## References
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
 2. Badlands Brief — "Are We Being Distracted?", URL: https://badlands.substack.com/p/are-we-being-distracted
 3. Badlands Brief — "Badlands News Brief: Change of Batter, Indeed …", URL: https://badlands.substack.com/p/badlands-news-brief-42e
 4. Badlands Brief — "Badlands News Brief: The Shot Heard Around the World", URL: https://badlands.substack.com/p/badlands-news-brief-4b9
 5. Badlands Brief — "Badlands News Brief: They're the Conspiracy Theorists, Now ...", URL: https://badlands.substack.com/p/badlands-news-brief-74a
+6. Badlands Media — "Badlands News Brief: Vance Takes the Stage as Biden Takes the Basement", URL: https://badlands.substack.com/p/badlands-news-brief-8ae

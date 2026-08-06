@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, kremlin, spokesman, ukraine-war, energy]
-sources: [raw/badlands-brief-0bd.md, raw/badlands-brief-1c6.md, raw/badlands-brief-e3f.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-8a9.md]
+sources: [raw/badlands-brief-0bd.md, raw/badlands-brief-1c6.md, raw/badlands-brief-e3f.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-91b.md]
 confidence: medium
 ---
 
@@ -73,6 +73,10 @@ In an interview with the French magazine Le Point published in April 2025, Pesko
 
 Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] read the remarks as signal from the [[kremlin|Kremlin]] that Trump would side with [[steve-witkoff|Steve Witkoff]] in an unfolding feud against [[mike-waltz|Mike Waltz]], [[marco-rubio|Marco Rubio]] and the [[neoconservatives|NeoCons]], noting that critics accused the businessmen-turned-envoys Witkoff and [[adam-boehler|Adam Boehler]] of "legitimizing" adversaries by meeting them face to face, while the envoys maintained they could not negotiate without looking counterparts in the eye.[13]
 
+## Statements on the Azerbaijan rift (July 2025)
+
+On July 22, 2025, Peskov said Russia disagrees with [[azerbaijan|Azerbaijan]]'s stance on the Ukraine conflict but hopes the divergence will not hinder efforts to restore bilateral ties following a recent rift, adding that Moscow wants to resolve the tensions with Baku.[14] He acknowledged the differing positions but insisted this had not been an obstacle in relations, saying Moscow seeks "to move past what we hope is a brief period of cooling in bilateral relations and avoid sacrificing mutually beneficial interests for the sake of a short-term situation."[14] See [[2025-russia-azerbaijan-rift|2025 Russia–Azerbaijan rift]].[14]
+
 ## References
 
 1. Badlands Brief — "Mossad Bait & Labor Tackles", URL: https://badlands.substack.com/p/badlands-brief-0bd
@@ -88,3 +92,4 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] read 
 11. Badlands News Brief — "Post Mortems, Dog Fights, & Flight Risks", URL: https://badlands.substack.com/p/badlands-news-brief-721
 12. Badlands Brief — "Corruption Within Corruption & A Offer of Free Elections", URL: https://badlands.substack.com/p/badlands-news-brief-7e8
 13. Badlands Brief — "Badlands News Brief: Ongoing Judicial Coups. Newly Jailed Judges.", URL: https://badlands.substack.com/p/badlands-news-brief-8a9
+14. Badlands Brief — "Badlands News Brief: The Corruption of Anti-Corruption & Obama Bites Back", URL: https://badlands.substack.com/p/badlands-news-brief-91b

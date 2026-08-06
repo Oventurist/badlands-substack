@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [diplomacy, united-nations, gaza, israel, veto, state-department]
-sources: [raw/badlands-news-brief-1c3.md]
+sources: [raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-8cd.md]
 confidence: medium
 ---
 
@@ -22,5 +22,12 @@ The veto was delivered by Ortagus.[1] Washington's stated position was that UN c
 
 Badlands contributor GhostofBasedPatrickHenry characterized the episode as a "humiliation ritual" for both the United States and the United Nations, arguing that the near-unanimous vote and lone veto demonstrated that international rules are applied selectively.[1] The same commentary argued that the UN is losing its authority and that President [[donald-trump|Donald Trump]] was allowing Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] to expose the character of Zionism to a global audience.[1]
 
+## New York Declaration remarks (September 2025)
+
+After the [[united-nations-general-assembly|UN General Assembly]] voted 142-10, with 12 abstentions, to endorse a declaration outlining "tangible, timebound, and irreversible steps" toward a [[two-state-solution|two-state solution]], Ortagus — as US Representative to the UN — dismissed the declaration as a "publicity stunt" and a "gift to Hamas."[2] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote that she read [[tammy-bruce|Tammy Bruce]]'s July statement word-for-word, apparently unaware that the same move was what had gotten Bruce fired from the [[state-department|State Department]].[2]
+
+He noted that Ortagus then said the only acceptable outcome was for [[hamas]] to surrender, disarm, and release all hostages — precisely the terms stipulated in the Saudi-French [[new-york-declaration|New York Declaration]], which was assembled in July with the [[palestinian-authority|Palestinian Authority]] and the [[arab-league|Arab League]] and demanded that Hamas surrender itself to the Palestinian Authority, hand over its weapons, release the hostages, and have its leadership leave Gaza permanently.[2] GhostofBasedPatrickHenry attacked Ortagus in unusually harsh terms, questioning how someone appointed to represent the United States at such a moment could act so foolishly and suggesting she had missed that the entire Arab League was moving to achieve the very demands she had set out; he concluded that "the State Department is a disgrace" and that its personnel should be replaced regardless of their friendship with [[donald-trump|Donald Trump]].[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: International Antifa, Hezbollah Strongholds, & Nuclear Options", URL: https://badlands.substack.com/p/badlands-news-brief-1c3
+2. Badlands Brief — "Badlands News Brief: Vigils, Vanguards, & Various Investigations", URL: https://badlands.substack.com/p/badlands-news-brief-8cd

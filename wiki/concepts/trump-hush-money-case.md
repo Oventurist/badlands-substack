@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [trump-prosecutions, new-york, lawfare, gag-order, 2023]
-sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-0d4.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-360.md, raw/badlands-news-brief-3c1.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-4f8.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-889.md]
+sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-0d4.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-360.md, raw/badlands-news-brief-3c1.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-4f8.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-907.md, raw/badlands-news-brief-919.md]
 confidence: medium
 ---
 
@@ -124,6 +124,22 @@ The delay coincided with a report by Jack Phillips of The Epoch Times that an at
 
 Late on August 29, 2024, lawyers for [[donald-trump|Donald Trump]] asked a federal court in Manhattan to intervene in the New York hush money prosecution, seeking to overturn his felony conviction and indefinitely delay the sentencing scheduled for the following month.[17] They argued that the federal court should seize the case from the state court where it was tried because the prosecution violated his constitutional rights and conflicted with the Supreme Court's recent presidential immunity ruling.[17] Having failed in a pretrial attempt to move the case in the previous year, Trump's attorneys contended that a transfer would give him an "unbiased forum, free from local hostilities," asserting that in state court he had been subject to "bias, conflicts of interest, and appearances of impropriety."[17] If the case were moved, they said they would then seek to have the verdict overturned and the case dismissed on immunity grounds.[17]
 
+## Bid to move the case to federal court (August 2024)
+
+Late on August 29, 2024, lawyers for [[donald-trump|Donald Trump]] asked a federal court in Manhattan to intervene in the New York hush money prosecution, seeking to overturn his felony conviction and indefinitely delay the sentencing scheduled for the following month.[17] They argued that the federal court should seize the case from the state court where it was tried because the prosecution violated his constitutional rights and conflicted with the Supreme Court's recent presidential immunity ruling.[17] Having failed in a pretrial attempt to move the case in the previous year, Trump's attorneys contended that a transfer would give him an "unbiased forum, free from local hostilities," asserting that in state court he had been subject to "bias, conflicts of interest, and appearances of impropriety."[17] If the case were moved, they said they would then seek to have the verdict overturned and the case dismissed on immunity grounds.[17]
+
+## Reaction to the indictment (April 2023)
+
+When the Manhattan grand jury indicted [[donald-trump|Donald Trump]] over the hush money payment to a pornographic film actress, Trump issued a lengthy statement calling the case "Political Persecution and Election Interference at the highest level in history" and placing it in a sequence with "Russia, Russia, Russia; the Mueller Hoax; Ukraine, Ukraine, Ukraine; Impeachment Hoax 1; Impeachment Hoax 2" and the [[mar-a-lago-raid|Mar-a-Lago raid]].[18] He argued that while Democrats had "cheated countless times over the decades," weaponizing the justice system to punish a political opponent who was also the leading Republican presidential candidate had "never happened before. Ever."[18]
+
+Trump singled out [[alvin-bragg|Alvin Bragg]] as "hand-picked and funded by [[george-soros|George Soros]]," accusing him of doing [[joe-biden|Joe Biden]]'s "dirty work" instead of addressing violent crime in New York City, and predicted the "Witch-Hunt" would "backfire massively on Joe Biden."[18] [[ron-desantis|Ron DeSantis]] signalled Florida would not cooperate with extradition and [[kevin-mccarthy|Kevin McCarthy]] denounced the indictment as an injustice.[18]
+
+In the [[badlands-news-brief|Badlands News Brief]], [[burning-bright|Burning Bright]] compared the dynamic to a counter-striker in combat sports and to the "Matador's Cloak" concept used by Just Human, arguing that the [[deep-state|Deep State]] had long underestimated Trump's narrative deployments.[18] He noted that Trump was the figure pushing the indictment story hardest and that critics within the [[media-industrial-complex|media industrial complex]] and the cultural left were themselves calling the prosecution a miscalculation likely to boost Trump's standing ahead of the [[2024-us-general-election|2024 campaign]].[18]
+
+## Cameras in the courtroom
+
+Trump's April 4, 2023 arraignment drew more cameras to Manhattan than perhaps any case in New York state history, but they were largely kept out of the courtroom itself under a state law dating to the 1930s that is among the most restrictive camera bans in the nation.[19] Only Washington, D.C. is more stringent on in-court media coverage, according to a 2022 report by The Fund for Modern Courts; some state lawmakers mounted a renewed push to change the law amid the arraignment.[19] Badlands contributor [[just-human|Just Human]] noted that cameras are barred from federal courtrooms but permitted in most state courtrooms, and suggested that securing a televised trial might be preferable to having the indictment dismissed.[19] The rule is discussed further at [[new-york-ban-on-cameras-in-courtrooms|the New York ban on cameras in courtrooms]].[19]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Pedo Islands, Polling Panic & Cage Fights", URL: https://badlands.substack.com/p/badlands-news-brief-024
@@ -143,3 +159,5 @@ Late on August 29, 2024, lawyers for [[donald-trump|Donald Trump]] asked a feder
 15. Badlands News Brief — "Iranian Walk-backs, Trump Trials & Trans Truths", URL: https://badlands.substack.com/p/badlands-news-brief-808
 16. Badlands Brief — "Bank of Epstein, Saudi Arabia & Trump's Reprieve?", URL: https://badlands.substack.com/p/badlands-news-brief-85a
 17. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889
+18. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... Or Are They?", URL: https://badlands.substack.com/p/badlands-news-brief-907
+19. Badlands Brief — "Badlands News Brief: Trials Galore, Ukraine Backpedal & The Gold Standard", URL: https://badlands.substack.com/p/badlands-news-brief-919

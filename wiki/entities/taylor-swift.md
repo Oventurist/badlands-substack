@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [entertainment, music, 2024-election, psyop, narrative]
-sources: [raw/badlands-news-brief-06d.md, raw/badlands-news-brief-4b7.md, raw/badlands-news-brief-721.md]
+sources: [raw/badlands-news-brief-06d.md, raw/badlands-news-brief-4b7.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-8d8.md]
 confidence: medium
 ---
 
@@ -30,8 +30,13 @@ Central to the piece was [[michael-benz|Michael Benz]], a former Trump administr
 
 In August 2025, while praising [[sydney-sweeney|Sydney Sweeney]]'s [[american-eagle-sydney-sweeney-ad-controversy|American Eagle advertisement]], President [[donald-trump|Donald Trump]] compared Sweeney favorably against "Woke singer Taylor Swift."[3] Trump had previously said he "hates" Swift after she endorsed his election opponent, Vice President [[kamala-harris|Kamala Harris]], in October, calling the singer "NO LONGER HOT."[3]
 
+## Ticketmaster fiasco and the DOJ suit
+
+Swift was at the center of the 2022 [[ticketmaster|Ticketmaster]] presale failure, when the platform crashed as fans competed with bots for a limited number of tickets to her Eras Tour.[4] More than a year later, on May 23, 2024, the [[department-of-justice|Department of Justice]] announced an antitrust lawsuit against Ticketmaster's parent company, [[live-nation-entertainment|Live Nation Entertainment]], accusing it of unlawfully dominating the market, with Attorney General [[merrick-garland|Merrick Garland]] declaring, "It is time to break it up."[4] [[ashe-in-america|Ashe in America]] wrote that "Taylor Swift is truly privileged," noting that ordinary concertgoers had endured Ticketmaster problems for years without federal action and asking why it took Swift's anger for the DOJ to intervene.[4]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Devolution Proofs Abroad and White Pills in the Chaos", URL: https://badlands.substack.com/p/badlands-news-brief-06d
 2. Badlands News Brief — "Trump Haunts Obama as Clown World Laughs", URL: https://badlands.substack.com/p/badlands-news-brief-4b7
 3. Badlands News Brief — "Post Mortems, Dog Fights, & Flight Risks", URL: https://badlands.substack.com/p/badlands-news-brief-721
+4. Badlands Brief — "Badlands News Brief: Trump Hits the Bronx as the Establishment Panics", URL: https://badlands.substack.com/p/badlands-news-brief-8d8

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [kazakhstan, uranium, uranium-one, clinton-foundation, central-asia]
-sources: [raw/america-for-sale-part-3.md, raw/badlands-news-brief-448.md]
+sources: [raw/america-for-sale-part-3.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-8ce.md]
 confidence: medium
 ---
 
@@ -28,7 +28,14 @@ Kazakhstan reappears later in the story: [[ian-telfer|Ian Telfer]]'s Fernwood Fo
 
 Kazakhstan was one of the five Central Asian states whose leaders President [[donald-trump|Donald Trump]] welcomed to the White House at the [[central-asia-summit-2025|2025 Central Asia Summit]] in early November 2025, alongside Kyrgyzstan, Tajikistan, Turkmenistan, and [[uzbekistan|Uzbekistan]].[2] The summit reflected a US foreign policy calculus centered on supply chain security, critical minerals, and new transport corridors designed to bypass both Russia and China, while offering the participating governments political recognition, investment, and leverage among competing great powers.[2]
 
+## 2025 locomotive deal and strategic geography
+
+On September 22, 2025, President [[donald-trump|Donald Trump]] announced that Kazakhstan had signed a [[kazakhstan-united-states-locomotive-deal|$4 billion deal]] to purchase American locomotives and rail equipment, which he called "the largest railroad equipment purchase in history," following a phone call with President [[kassym-jomart-tokayev|Kassym-Jomart Tokayev]].[3] Earlier that day Tokayev met in New York with US Presidential Special Envoy for South and Central Asia [[sergio-gore|Sergio Gore]] and a [[meta-platforms|Meta]] vice president, reaffirming Kazakhstan's role as Washington's main economic partner in Central Asia.[3]
+
+Badlands contributor GhostofBasedPatrickHenry described Kazakhstan as sitting inside the triangle formed by the capitals of Russia, China, and Iran — the alliance [[zbigniew-brzezinski|Zbigniew Brzezinski]] warned about in [[the-grand-chessboard|*The Grand Chessboard*]] (1998).[3] He noted the 2022 coup in Kazakhstan, which he interpreted as [[vladimir-putin|Vladimir Putin]]'s move to take benevolent control of the country, and identified the capital Astana as the site of the long-running [[astana-process|Astana Process]] concerning Syria.[3] He argued Kazakhstan's flat terrain makes it an ideal site for large infrastructure projects and noted that it is the world's largest producer of uranium, speculating about a future railroad running from Alaska through Kazakhstan to the Middle East and Africa.[3]
+
 ## References
 
 1. Badlands Brief — "America for Sale - Part 3: Sanctions Are a Scam", URL: https://badlands.substack.com/p/america-for-sale-part-3
 2. Badlands Brief — "Badlands News Brief: Victim Cards, Foreign Inference, & Chessboard Stans", URL: https://badlands.substack.com/p/badlands-news-brief-448
+3. Badlands Brief — "Palestinian Promises, Venezuelan Ventures, & Kazakh Considerations", URL: https://badlands.substack.com/p/badlands-news-brief-8ce

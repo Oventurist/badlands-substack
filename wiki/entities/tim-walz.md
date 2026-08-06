@@ -94,6 +94,10 @@ In early March 2025, Minnesota Governor Walz indicated openness to a potential p
 
 Walz appeared beside [[kamala-harris|Kamala Harris]] for the Democratic ticket's first joint televised interview on August 29, 2024, conducted by CNN's [[dana-bash|Dana Bash]].[14] Badlands Media described him as sitting deferentially through the segment and remaining largely silent except when defending his own record, summarized in his statement, "People know who I am."[14]
 
+## August 2024 CNN interview
+
+Walz appeared beside [[kamala-harris|Kamala Harris]] for the Democratic ticket's first joint televised interview on August 29, 2024, conducted by CNN's [[dana-bash|Dana Bash]].[14] Badlands Media described him as sitting deferentially through the segment and remaining largely silent except when defending his own record, summarized in his statement, "People know who I am."[14]
+
 ## References
 
 1. Badlands Brief — "Somali Shatterpoints, Cartel Countermeasures, & Erosion of the World Order", URL: https://badlands.substack.com/p/badlands-brief-094

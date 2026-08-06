@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [state-department, nato, ukraine, diplomacy]
-sources: [raw/a-bright-red-line.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-3f5.md, raw/badlands-news-brief-536.md, raw/badlands-news-brief-53d.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-656.md]
+sources: [raw/a-bright-red-line.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-3f5.md, raw/badlands-news-brief-536.md, raw/badlands-news-brief-53d.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-860.md]
 confidence: medium
 ---
 
@@ -118,6 +118,10 @@ The same week, Blinken met Israeli Prime Minister [[benjamin-netanyahu|Benjamin 
 
 In November 2024 the [[state-department|State Department]] was reported to have held therapy sessions for employees after [[donald-trump|Donald Trump]] won the 2024 election, a report that was never confirmed.[20] Representative [[darrell-issa|Darrell Issa]] wrote to Blinken as secretary of state criticising the alleged sessions, saying he was "concerned that the Department is catering to federal employees who are personally devastated by the normal functioning of American democracy through the provision of government-funded mental health counseling because [[kamala-harris|Kamala Harris]] was not elected President of the United States."[20] Issa added that it was "disturbing that ostensibly nonpartisan government officials would suffer a personal meltdown over the results of a free and fair election, something the United States champions around the world," and asked Blinken how many sessions had been held, how many were planned, and what they cost.[20] [[ashe-in-america|Ashe in America]] placed Blinken alongside [[hillary-clinton|Hillary Clinton]] and [[john-kerry|John Kerry]] as figures for whom departmental staff had "run ops" under the traditional assumption that they were above the law.[20]
 
+## Badlands assessment of the October 2024 U.S.–Israel trust crisis
+
+Amid Axios reporting that the Biden administration had grown deeply distrustful of the Israeli government's stated military and diplomatic plans, Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that the reported rift was largely irrelevant because [[benjamin-netanyahu|Benjamin Netanyahu]] effectively controls Blinken, who he said pledged fealty to the Israeli prime minister after October 7, 2023 with the words, "I come to you, not as an American diplomat, but as a Jew."[21] In the same analysis, [[joe-biden|Joe Biden]] and [[kamala-harris|Kamala Harris]] were described as largely ignored and given busywork, while [[jake-sullivan|Jake Sullivan]] was described as present but disregarded.[21] The contributor concluded that many in the West Wing may genuinely have been in the dark on the evolving situation — not because their hands were clean, but because nobody respected them enough to brief them — while people in the [[state-department|State Department]], parts of the [[white-house|White House]] and probably the [[pentagon|Pentagon]] knew.[21]
+
 ## References
 1. Badlands Brief — "A Bright Red Line", URL: https://badlands.substack.com/p/a-bright-red-line
 2. Badlands Brief — "Badlands News Brief: Tracking Resignations, Scare Events & the Death of Taxes", URL: https://badlands.substack.com/p/badlands-news-brief-017
@@ -139,3 +143,4 @@ In November 2024 the [[state-department|State Department]] was reported to have 
 18. Badlands Brief — "Badlands News Brief: Ramaswamy Takes Stock and the War Machine Rumbles", URL: https://badlands.substack.com/p/badlands-news-brief-53d
 19. Badlands Brief — "Badlands News Brief: Fake Candidates Engage in Fake Debate; Everyone Loses", URL: https://badlands.substack.com/p/badlands-news-brief-6bf
 20. Badlands Brief — "It’s Our Failed ‘Resistance’ and We Can Cry if We Want To", URL: https://badlands.substack.com/p/badlands-news-brief-656
+21. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military, air-force, general, gart, badlands-media]
-sources: [raw/a-mysterious-masterclass-in-multi.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-32e.md]
+sources: [raw/a-mysterious-masterclass-in-multi.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-860.md]
 confidence: low
 ---
 
@@ -32,7 +32,12 @@ In May 2025, the Shawn Ryan Show released a long-form interview with Kwast that 
 
 [[jon-herold|Jon Herold]] urged readers to watch the interview and to note in the comments that Badlands Media had sent them, reiterating that "Kwast is a Badlander."[3] Separately, [[burning-bright|Burning Bright]] cited Kwast's viral sit-down on the show as the occasion for stitching together several recent nuclear-energy headlines into an argument about what he called the Timeline War.[3]
 
+## Comments on Africa's "hero system"
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] recalled that during an August 2024 interview, Kwast described the "hero system" of Africa as broken.[4] The contributor interpreted this as a reference to malevolent colonial interests destroying capable and decent leaders while promoting narcissistic sociopaths who were easy to control — an interpretation he offered as part of his explanation for finding Burkinabè president [[ibrahim-traore|Ibrahim Traoré]] a compelling figure.[4]
+
 ## References
 1. Badlands Brief — "A Mysterious Masterclass in Multi Sensory Deception", URL: https://badlands.substack.com/p/a-mysterious-masterclass-in-multi
 2. Badlands News Brief — "The Walz Cycle Consumes Itself as Tensions Pause", URL: https://badlands.substack.com/p/badlands-news-brief-0ad
 3. Badlands Brief — "Badlands News Brief: Energy EOs, Game-Changing AI, & Jewish Election Fraud", URL: https://badlands.substack.com/p/badlands-news-brief-32e
+4. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860

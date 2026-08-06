@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [venezuela, organized-crime, terrorism, cia, latin-america]
-sources: [raw/badlands-brief-708.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-4bb.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-8a9.md]
+sources: [raw/badlands-brief-708.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-4bb.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-860.md]
 confidence: medium
 ---
 
@@ -73,6 +73,16 @@ Footage that emerged on August 28, 2024 showed a heavily armed group storming an
 
 In April 2025 former Doña Ana County Magistrate Judge [[joel-cano|Joel Cano]] and his wife [[nancy-cano|Nancy Cano]] were arrested in Las Cruces, New Mexico on evidence tampering charges amid allegations that they harbored [[cristhian-ortega-lopez|Cristhian Ortega-Lopez]], an alleged illegal alien believed to be a member of Tren de Aragua.[10] Ortega-Lopez had been apprehended at the Cano residence in February after being hired for home repairs and later housed in the couple's guesthouse.[10]
 
+## Aurora apartment complex takeover (August 2024)
+
+Footage that emerged on August 28, 2024 showed a heavily armed group storming an apartment complex in [[aurora-colorado|Aurora, Colorado]], with one man carrying a high-powered rifle and pounding on a door while others brandished pistols.[9] Local council member Danielle Jurinsky wrote that "A GANG HAS TAKEN OVER several apartment complexes in Aurora!" and told Fox 31 that the building had been overrun by a Venezuelan gang, adding that "this isn't just Americans. Other Venezuelans are being extorted by this gang."[9] Police declined to confirm whether the gunmen belonged to Tren de Aragua, though reporting noted the group had established footholds across the United States, including in Colorado, amid the migration surge overseen by border czar [[kamala-harris|Kamala Harris]].[9]
+
+## Trump's October 2024 Aurora rally
+
+When [[donald-trump|Donald Trump]]'s campaign confirmed on October 7, 2024 that he would hold a rally at the Gaylord Rockies Resort & Convention Center in [[aurora-colorado|Aurora, Colorado]] the following Friday, it described the city as a "war zone," claiming it had seen an "influx of violent Venezuelan prison gang members from Tren de Aragua."[11] Colorado Governor [[jared-polis|Jared Polis]] rejected that framing, saying Trump would instead find "an incredible city with two straight years of rapidly declining crime."[11]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] countered that Colorado's institutional press was gaslighting residents about migrant crime, pointing to store closures, merchandise locked behind glass and rising car thefts, and cited open records published by the *Denver Gazette* which she said proved the government knew about the gang takeover of Aurora apartment buildings and lied to citizens about it.[11]
+
 ## References
 1. Badlands Brief — "AMERICA IS BACK", URL: https://badlands.substack.com/p/badlands-brief-708
 2. Badlands Brief — "A Politician is Swallowelled Whole as the Middle East Realigns in Real Time", URL: https://badlands.substack.com/p/badlands-brief-9ea
@@ -84,3 +94,4 @@ In April 2025 former Doña Ana County Magistrate Judge [[joel-cano|Joel Cano]] a
 8. Badlands Brief — "Badlands News Brief: A Coming Conclave & More Musical Chairs", URL: https://badlands.substack.com/p/badlands-news-brief-5c8
 9. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889
 10. Badlands Brief — "Badlands News Brief: Ongoing Judicial Coups. Newly Jailed Judges.", URL: https://badlands.substack.com/p/badlands-news-brief-8a9
+11. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860

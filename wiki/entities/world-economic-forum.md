@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [globalism, great-reset, institutions]
-sources: [raw/a-look-at-recent-features-84d.md, raw/a-time-to-strike.md, raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-144.md, raw/badlands-brief-40d.md, raw/badlands-brief-a20.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-2e4.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-8a9.md]
+sources: [raw/a-look-at-recent-features-84d.md, raw/a-time-to-strike.md, raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-144.md, raw/badlands-brief-40d.md, raw/badlands-brief-a20.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-2e4.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-93d.md]
 confidence: low
 ---
 
@@ -133,7 +133,20 @@ The panel coincided with the Pentagon's announcement that it had run out of mone
 
 In April 2025 the forum confirmed a Wall Street Journal report that its board of trustees had unanimously supported the Audit and Risk Committee's decision to launch an [[2025-wef-investigation-into-klaus-schwab|independent investigation]] after a whistleblower letter made allegations against former chairman [[klaus-schwab|Klaus Schwab]].[22] Schwab, then 87, denied the accusations, saying there was "not a shadow of proof," and told the Swiss newspaper Blick that he had begun defamation proceedings.[22] He had resigned abruptly the previous Monday "with immediate effect," and the board's statement at the time praised his "outstanding achievements" across 55 years leading the organization.[22]
 
+## Brain monitoring showcase at Davos, January 2023
+
+A presentation at the WEF's January 2023 Davos gathering displayed technology that would allow employers at major companies to monitor their workers' brain activity, with the power to fire employees and report them to government authorities for thinking the "wrong way."[23] The presentation further suggested that brain wave data could be used as evidence in a criminal proceeding, and the presenter characterized these applications as demonstrating the "positive use cases" of brain monitoring — a framing The Gateway Pundit called an Orwellian twist.[23] See [[workplace-brain-monitoring|workplace brain monitoring]] for fuller treatment.[23] Badlands contributor [[ryan-delarme|Ryan DeLarme]] asked what could go wrong when "a close-knit fraternity of sociopaths" gains the ability to observe and punish thought, and argued that a perceived threat plus a pervasive marketing campaign would be enough to secure public participation.[23]
+
+## Urban Mobility Scorecard Tool and the 2050 private-car target
+
+In May 2023 the WEF, under founder and executive chairman [[klaus-schwab|Klaus Schwab]], published the Urban Mobility Scorecard Tool: Benchmarking the Transition to Sustainable Urban Mobility, produced in collaboration with Visa, as part of a broader vision for a "sustainable and low-carbon future."[24] Reporting by [[the-gateway-pundit|The Gateway Pundit]] characterized the paper as setting an authoritarian goal of limiting 76% of private cars by 2050.[24]
+
+The white paper projected that by 2050 people are likely to travel twice as much within cities as they do today, which absent behavioural change would mean 2.1 billion cars, buses and other vehicles on the road emitting 4.6 billion tons of carbon dioxide.[24] It argued that greater use of shared transport such as public buses and ride shares, combined with a shift to electric and self-driving vehicles, could reduce the vehicle count to roughly 500 million by 2050 and cut emissions by about 80%.[24]
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] responded sarcastically that everyone must be eager to "own nothing" and eat bugs, and connected the mobility target to the push for [[15-minute-cities|15-minute cities]], in which all necessities are provided within a fifteen-minute distance of one's front door.[24] He argued that whether the vehicle for it is 15-minute cities or vaccine passports, the Davos globalists persistently devise ways to make the future look bleak, and noted that in his experience even committed leftists were not enthusiastic about that vision — something he expected a sufficiently good propaganda campaign to remedy.[24] He closed by saying he was more preoccupied with "eliminating the World Economic Forum by 100% by 2030."[24]
+
 ## References
+
 1. Badlands Brief — "A Look At Recent Features", URL: https://badlands.substack.com/p/a-look-at-recent-features-84d
 2. Badlands Brief — "A Time to Strike", URL: https://badlands.substack.com/p/a-time-to-strike
 3. Badlands Brief — "AI Can Help Us Expose the NWO", URL: https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo
@@ -156,3 +169,5 @@ In April 2025 the forum confirmed a Wall Street Journal report that its board of
 20. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
 21. Badlands Brief — "Badlands News Brief: The Trump Train Rolls on ... Fake MAGA Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-89f
 22. Badlands Brief — "Badlands News Brief: Ongoing Judicial Coups. Newly Jailed Judges.", URL: https://badlands.substack.com/p/badlands-news-brief-8a9
+23. Badlands News Brief — "Deflated Balloons, Sketchy AI & Democrat Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-8f9
+24. Badlands Brief — "Badlands News Brief: Trump Trolls, Soros Slithers & Flags Fly", URL: https://badlands.substack.com/p/badlands-news-brief-93d

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [journalism, election-integrity, media, 2024-election]
-sources: [raw/badlands-news-brief-747.md]
+sources: [raw/badlands-news-brief-747.md, raw/badlands-news-brief-8fd.md]
 confidence: medium
 ---
 
@@ -22,6 +22,11 @@ Robinson posted the story as more than thirty separate, unthreaded numbered post
 
 The series drew sharp criticism from Badlands contributors. [[burning-bright|Burning Bright]] summarized the implied narrative sarcastically — that Trump "didn't know about election fraud, needed to be saved by a bunch of random Con Inc. influencers who double as intrepid sea captains and now owes them $80 Million" — and framed the episode as a subversive intra-MAGA psychological operation designed to convince the base that Trump was not the heart of the movement.[1] The commentary treated the story as part of an ongoing "sifting" within the truth community.[1]
 
+## Venezuelan election fraud reporting
+
+Badlands host Ashe in America credited Robinson in December 2025 with advancing the Venezuelan election fraud story, saying that after filings in Tina Peters' First Amendment appeal and a Lara Logan interview, Robinson 'has the ball' and that her reporting placed Patrick Byrne at the center of it all.[2]
+
 ## References
 
 1. Badlands Brief — "Afghanis Activate, Witch Hunts End, & Hitler Launches Re-Election Campaign", URL: https://badlands.substack.com/p/badlands-news-brief-747
+2. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd

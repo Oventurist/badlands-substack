@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [january-6, seditious-conspiracy, justice-department, militia]
-sources: [raw/badlands-brief-ea5.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-52f.md]
+sources: [raw/badlands-brief-ea5.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-8f3.md]
 confidence: medium
 ---
 
@@ -32,7 +32,12 @@ In July 2023, [[msnbc|MSNBC]] commentator [[paul-rieckhoff|Paul Rieckhoff]] name
 
 In February 2025 the case of Oath Keeper [[jeremy-brown|Jeremy Brown]] drew attention when the [[department-of-justice|Department of Justice]] acknowledged in court filings that Brown's Florida weapons-possession case — which sent him to prison for more than seven years — was directly related to January 6.[3] Brown's attorney [[carolyn-stewart|Carolyn Stewart]] argued that both of his criminal cases were therefore covered by President [[donald-trump|Donald Trump]]'s January 6 pardon and demanded his release, while the DOJ continued to keep him imprisoned.[3] Badlands contributor [[canncon|CannCon]] noted that Brown had not been permitted to raise January 6 during his trial.[3]
 
+## January 2023 seditious conspiracy convictions
+
+In January 2023, four Oath Keepers members were convicted of seditious conspiracy in Washington, D.C., in proceedings overseen by Obama-appointed judge [[amit-mehta|Amit Mehta]].[4] [[the-gateway-pundit|The Gateway Pundit]] characterised the verdicts as the product of a "DC Kangaroo Court," reporting that the four had been convicted for standing outside the U.S. Capitol without weapons, marching up the steps in a stack and singing the national anthem on January 6, 2021.[4] Badlands contributor [[sean-morgan|Sean Morgan]] argued that the outcome illustrated a "two-tiered system of justice" designed to produce a chilling effect on protest against disputed election results.[4]
+
 ## References
 1. Badlands Brief — "Criminal Referrals & Big, Fat Hugs", URL: https://badlands.substack.com/p/badlands-brief-ea5
 2. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... Or So We're Told", URL: https://badlands.substack.com/p/badlands-news-brief-208
 3. Badlands Brief — "Badlands News Brief: North American Trade Troubles & Unipartisan Panic", URL: https://badlands.substack.com/p/badlands-news-brief-52f
+4. Badlands Brief — "Badlands News Brief: FBI Charges, Exorcisms and ... Woke M&M's?", URL: https://badlands.substack.com/p/badlands-news-brief-8f3

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [redistricting, 2026-midterms, congress, democrats, litigation]
-sources: [raw/badlands-brief-323.md, raw/badlands-brief-7c0.md, raw/badlands-brief-9f2.md]
+sources: [raw/badlands-brief-323.md, raw/badlands-brief-7c0.md, raw/badlands-brief-9f2.md, raw/badlands-news-brief-8fd.md]
 confidence: medium
 ---
 
@@ -38,8 +38,13 @@ The same day, the Virginia Democrats' redistricting push came under scrutiny at 
 
 [[donald-trump|President Trump]] publicly disputed the Virginia result, calling it "A RIGGED ELECTION" in which Republicans were winning all day until "a massive 'Mail In Ballot Drop'" at the end, and complaining that the referendum language was "purposefully unintelligible and deceptive."[3] Ashe in America agreed that the ballot language was deceptive and questioned how it cleared Virginia's title board.[3] Her broader argument is that the nationwide redistricting drama makes visible how representation is "rigged before anyone even registers to vote," with both parties litigating over how to shape the mix of representation — a state of affairs she suggests [[benjamin-franklin|Benjamin Franklin]] would deplore.[3]
 
+## Supreme Court allows Texas map
+
+The Supreme Court gave the Republican redistricting campaign a significant boost on December 4, 2025, agreeing to let Texas use its new Trump-backed congressional map in the midterms while litigation continues.[4] The order temporarily blocked a lower-court ruling that had found the map unlawful, over the dissent of the court's three liberal justices, and was described as a major development in a redistricting war among states to maximize Republican victories and maintain control of Congress.[4] Badlands host Jon Herold responded simply that readers should brace themselves because the midterms are coming.[4]
+
 ## References
 
 1. Badlands Brief — "We're Winning, plus Cuban Dominoes & Weaponized Ethics", URL: https://badlands.substack.com/p/badlands-brief-323
 2. Badlands Brief — "Games of Chicken, Spirit Fails, & Rampant Satanism", URL: https://badlands.substack.com/p/badlands-brief-7c0
 3. Badlands Brief — "Rigged Maps, Russian Grain, & Maduro's Billable Hours", URL: https://badlands.substack.com/p/badlands-brief-9f2
+4. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd

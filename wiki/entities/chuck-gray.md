@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [wyoming, election-integrity, republicans, state-government]
-sources: [raw/badlands-news-brief-2cb.md]
+sources: [raw/badlands-news-brief-2cb.md, raw/badlands-news-brief-91b.md]
 confidence: medium
 ---
 
@@ -22,6 +22,11 @@ One measure, HB 156, stipulates that "qualified elector[s]" must have "been a bo
 
 Badlands Media commentator [[ashe-in-america|Ashe in America]] framed the Wyoming bills as part of a race to restore "accurate and verifiable elections before the midterms," contrasting Wyoming with neighboring Colorado, where she argued that stating that illegal migrant votes are not legal could bring accusations of bigotry, civil suits or prosecution, while in Wyoming it is "a simple fact of law."[1]
 
+## Dismissal of the HB 156 lawsuit (2025)
+
+On July 22, 2025, a federal judge dismissed a lawsuit brought against Gray challenging [[wyoming-house-bill-156|Wyoming House Bill 156]], the state law requiring voters to provide proof of U.S. citizenship and state residency in order to vote.[2] The suit had been filed by the [[equality-state-policy-center|Equality State Policy Center]] through attorney [[marc-elias|Marc Elias]], and was dismissed by U.S. District Court Judge Scott Skavdahl.[2] Gray celebrated the dismissal, calling the law "common sense" and aligned with President [[donald-trump|Donald Trump]]'s priorities on election integrity reform.[2] "We have successfully defended proof of citizenship for registering to vote and fought and defeated this lawsuit," he said, adding that the decision "marks a huge victory for the people of Wyoming and for the truth."[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Propagandist Panic. The People Approve.", URL: https://badlands.substack.com/p/badlands-news-brief-2cb
+2. Badlands Brief — "Badlands News Brief: The Corruption of Anti-Corruption & Obama Bites Back", URL: https://badlands.substack.com/p/badlands-news-brief-91b

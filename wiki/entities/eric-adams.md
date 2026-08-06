@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [new-york-city, mayors, politics]
-sources: [raw/badlands-brief-e8d.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-502.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-7b8.md]
+sources: [raw/badlands-brief-e8d.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-502.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-8f9.md]
 confidence: medium
 ---
 
@@ -111,6 +111,10 @@ In February 2025 the [[justice-department|Justice Department]] under the new Tru
 
 The order prompted the resignation on Thursday, February 13 of [[danielle-sassoon|Danielle R. Sassoon]], the acting U.S. attorney for the Southern District of New York, along with two senior federal prosecutors in Washington, in what NBC News described as a stunning public rebuke of the department's new leadership.[19] Sassoon had appealed the previous day to Attorney General [[pam-bondi|Pam Bondi]], expressing alarm at being ordered to drop the case.[19] Asked about Adams at his reciprocal-trade press conference that Thursday, President Trump stated definitively that he had not spoken with the DOJ about the case at all.[19]
 
+## Changle Association donation
+
+Lu Jianshun, former chairman of the [[american-changle-association|American Changle Association]] — the New York non-profit whose Manhattan headquarters the [[fbi|FBI]] raided in the fall of 2022 over an alleged secret Chinese police station — donated $4,000 to Adams' mayoral campaign in 2021, according to The New York Times.[20]
+
 ## References
 
 1. Badlands Brief — "Miraflores New Tenant, Walz Awakens, & Kelly's Court Martial", URL: https://badlands.substack.com/p/badlands-brief-e8d
@@ -132,3 +136,4 @@ The order prompted the resignation on Thursday, February 13 of [[danielle-sassoo
 17. Badlands Brief — "Trump Takes on Big Pharma and GART Kicks Off!", URL: https://badlands.substack.com/p/badlands-news-brief-62c
 18. Badlands Brief — "Badlands News Brief: President of Precedents ...", URL: https://badlands.substack.com/p/badlands-news-brief-6ff
 19. Badlands Brief — "Badlands News Brief: MAHA, Modi, Musk, & Munich", URL: https://badlands.substack.com/p/badlands-news-brief-7b8
+20. Badlands News Brief — "Deflated Balloons, Sketchy AI & Democrat Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-8f9

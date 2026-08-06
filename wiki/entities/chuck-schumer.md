@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, israel, netanyahu, democrats]
-sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-029.md, raw/badlands-brief-618.md, raw/badlands-brief-8c2.md, raw/badlands-brief-990.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-373.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-50a.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-82f.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-029.md, raw/badlands-brief-618.md, raw/badlands-brief-8c2.md, raw/badlands-brief-990.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-373.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-50a.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-860.md]
 confidence: medium
 ---
 
@@ -85,6 +85,14 @@ While the agreement on funding levels reduced the likelihood of a shutdown, Cong
 
 During the [[september-2023-government-shutdown-standoff|September 2023 government shutdown standoff]], Schumer dismissed the House Republican stopgap funding bill as a "[[house-freedom-caucus|Freedom Caucus]] wish list" and a "hard-right screed" that had no chance of passing the Senate.[17] In the same period he quietly ended enforcement of the chamber's informal [[senate-dress-code|Senate dress code]], instructing the Sergeant at Arms to stop policing attire and allowing senators — most notably [[john-fetterman|John Fetterman]] — to wear whatever they wished on the floor.[17]
 
+## Pressure on Fox News over January 6 footage
+
+On March 7, 2023, Schumer publicly urged [[rupert-murdoch|Rupert Murdoch]] to intervene against [[tucker-carlson|Tucker Carlson]]'s broadcasts of [[january-6-capitol-security-footage-release|previously unreleased Capitol security footage]], saying Murdoch "has a special obligation to stop Tucker Carlson from going on tonight [and] from letting him go on again and again and again [because] our democracy depends on it."[18] His statement came the same evening that Senate Minority Leader [[mitch-mcconnell|Mitch McConnell]] called the release a "mistake," making opposition to the footage a rare point of bipartisan leadership agreement.[18] Badlands contributor [[patel-patriot|Patel Patriot]] responded that both leaders promoted transparency only when it served their political agendas.[18]
+
+## Alleged role in early Patriot Act targeting
+
+In an October 2024 Badlands commentary on U.S.–Israel relations, contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] cautioned readers not to believe the apparent public friction between Democrats and [[benjamin-netanyahu|Benjamin Netanyahu]], asserting that the person who crafted the first target list for the [[patriot-act|Patriot Act]] apparatus was Schumer, and that the first group taken down was a Palestinian political faction on Netanyahu's list of enemies.[19] The argument advanced was that Schumer and congressional Democrats worked with the Bush administration on the Patriot Act and prioritised using the U.S. military and intelligence national-security apparatus against Israel's perceived enemies.[19]
+
 ## References
 
 1. Badlands Brief — "And Iran, Iran So Far Away", URL: https://badlands.substack.com/p/and-iran-iran-so-far-away
@@ -104,3 +112,5 @@ During the [[september-2023-government-shutdown-standoff|September 2023 governme
 15. Badlands Brief — "Badlands News Brief: Devastation at Davos & the Dawn of Denuclearization", URL: https://badlands.substack.com/p/badlands-news-brief-53f
 16. Badlands Brief — "Epstein Boomerangs & Bipartisan Bullsh*t", URL: https://badlands.substack.com/p/badlands-news-brief-6d2
 17. Badlands Brief — "Badlands News Brief: Missing Planes, Missing Funds & Missing Metrics", URL: https://badlands.substack.com/p/badlands-news-brief-82f
+18. Badlands Brief — "Badlands News Brief: January 6 and Nord Stream Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-8f4
+19. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860

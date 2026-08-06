@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, mainstream-media, cable-news]
-sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-169.md, raw/badlands-brief-c2d.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-001.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-5ff.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-169.md, raw/badlands-brief-c2d.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-001.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-93d.md]
 confidence: medium
 ---
 
@@ -93,6 +93,10 @@ On January 24, 2024, a New York judge ruled that Fox News could press claims tha
 
 Taking advantage of New York's broad journalistic protections, Fox countersued under the state's anti-SLAPP statute — aimed at "Strategic Lawsuits Against Public Participation" — arguing that Smartmatic's enormous damages demand had no basis in fact.[17] In a seven-page ruling, Manhattan Supreme Court Justice David Cohen wrote that no court had yet adjudicated whether Smartmatic's claims had a substantial factual basis or whether its damages were "so extenuated from their actual lost profits that they were pleaded and/or sought in order to chill defendants' free speech rights."[17]
 
+## Coverage of the 2023 Trump indictment
+
+[[media-matters-for-america|Media Matters]] reported in June 2023 that Fox News had responded to the [[2023-trump-classified-documents-indictment|indictment of Donald Trump]] over withheld classified documents with what it described as a swell of demagoguery suggesting the event signalled the end of American democracy.[18] The watchdog additionally faulted the network for pushing the claim that the indictment had been timed to distract from House Republican corruption accusations against [[joe-biden|Joe Biden]] and [[hunter-biden|Hunter Biden]], pointing out that Fox itself had reported two weeks earlier that special counsel [[jack-smith|Jack Smith]] was about to conclude his months-long investigation.[18]
+
 ## References
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
 2. Badlands Brief — "Condemnation, Calibration, & Constitutional Boxes", URL: https://badlands.substack.com/p/badlands-brief-169
@@ -111,3 +115,4 @@ Taking advantage of New York's broad journalistic protections, Fox countersued u
 15. Badlands Brief — "Badlands News Brief: Sudan Seized, Tucker Trashed & ISIS Eliminated", URL: https://badlands.substack.com/p/badlands-news-brief-46b
 16. Badlands Brief — "Badlands News Brief: FOX Trots, Montana Maintains & Congress Convenes", URL: https://badlands.substack.com/p/badlands-news-brief-49a
 17. Badlands Brief — "Red States Align While the MSM Craters", URL: https://badlands.substack.com/p/badlands-news-brief-5ff
+18. Badlands Brief — "Badlands News Brief: Trump Trolls, Soros Slithers & Flags Fly", URL: https://badlands.substack.com/p/badlands-news-brief-93d

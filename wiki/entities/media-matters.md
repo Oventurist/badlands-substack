@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, watchdog, nonprofit, censorship, democratic-party]
-sources: [raw/a-cancer-on-modern-journalism.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-4ab.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-5fb.md]
+sources: [raw/a-cancer-on-modern-journalism.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-4ab.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-8d8.md]
 confidence: medium
 ---
 
@@ -60,9 +60,16 @@ In May 2024, Missouri Attorney General [[andrew-bailey|Andrew Bailey]] said he h
 
 According to the attorney general, Media Matters came under scrutiny over allegations that it deceitfully manipulated the algorithm of [[x-corp|X]] (formerly Twitter) so that advertisers' content appeared beside controversial posts, causing the platform to suffer major financial losses as advertisers withdrew.[5] Media Matters subsequently remained outspoken in efforts to defame the platform over its refusal to censor disfavored viewpoints.[5] The Missouri investigation began in November 2023 after evidence emerged regarding solicited donations, conduct the attorney general said violated the Missouri Merchandising Practices Act.[5]
 
+## May 2024 layoffs
+
+In May 2024 Media Matters laid off at least a dozen staffers following federal probes and a lawsuit brought by X chief executive [[elon-musk|Elon Musk]], joining several other liberal outlets in shedding personnel.[6] Staffers, some with the organization for years, announced their sudden departures on social media.[6] The layoffs followed fraud probes opened by Republican attorneys general [[ken-paxton|Ken Paxton]] of Texas and [[andrew-bailey|Andrew Bailey]] of Missouri into whether the outlet had manipulated data on X, formerly known as Twitter.[6] Musk had filed a defamation suit in federal court in November 2023, alleging that Media Matters "knowingly" manufactured images showing advertisements from major corporations alongside posts by white supremacists and neo-Nazis.[6] Laid-off staffer Kat Abughazaleh wrote: "Bad News: I've been laid off from @mmfa, along with a dozen colleagues. There's a reason far-right billionaires attack Media Matters with armies of lawyers: They know how effective our work is, and it terrifies them (him)."[6]
+
+[[burning-bright|Burning Bright]] read Musk's involvement as "not just a mild comm, but a major signal," citing the frequency with which Musk's ties to the Trump-era Department of Defense are discussed on Badlands and on the [[devolution-power-hour|Devolution Power Hour]], and argued that the man who took control of the world's most influential social media platform — described as a communications and mass psychological manipulation weapons system — suing Media Matters and other alleged globalist proxy outfits indicated more was underway than a billionaire feud.[6] He characterized the layoffs as "the first commie chickens... coming home to roost."[6]
+
 ## References
 1. Badlands Brief — "A Cancer on Modern Journalism", URL: https://badlands.substack.com/p/a-cancer-on-modern-journalism
 2. Badlands Brief — "Lawsuits Can Be Very Effective ...", URL: https://badlands.substack.com/p/badlands-news-brief-051
 3. Badlands Brief — "Badlands News Brief: Lindell's Promise & JFK's Legacy", URL: https://badlands.substack.com/p/badlands-news-brief-4ab
 4. Badlands Brief — "Bicameral Lawfare, Trump's Gambit & the Ouroboros", URL: https://badlands.substack.com/p/badlands-news-brief-525
 5. Badlands News Brief — "Biden Melts Down as Judges Are Themselves Judged", URL: https://badlands.substack.com/p/badlands-news-brief-5fb
+6. Badlands Brief — "Badlands News Brief: Trump Hits the Bronx as the Establishment Panics", URL: https://badlands.substack.com/p/badlands-news-brief-8d8

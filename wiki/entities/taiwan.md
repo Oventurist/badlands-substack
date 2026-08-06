@@ -56,6 +56,10 @@ Under the arrangement Ukraine contributes research and development, Poland provi
 
 Taiwan was the central point of contention during US national security adviser [[jake-sullivan|Jake Sullivan]]'s August 2024 trip to Beijing.[8] Chinese Central Military Commission vice chairman [[zhang-youxia|Zhang Youxia]] told Sullivan that reunification with the mainland was the "mission and responsibility" of the [[peoples-liberation-army|People's Liberation Army]], and China's defense ministry publicly demanded that the United States "stop military collusion between the U.S. and Taiwan, stop arming Taiwan and stop spreading false narratives about Taiwan."[8]
 
+## US-China friction over Taiwan (August 2024)
+
+Taiwan was the central point of contention during US national security adviser [[jake-sullivan|Jake Sullivan]]'s August 2024 trip to Beijing.[8] Chinese Central Military Commission vice chairman [[zhang-youxia|Zhang Youxia]] told Sullivan that reunification with the mainland was the "mission and responsibility" of the [[peoples-liberation-army|People's Liberation Army]], and China's defense ministry publicly demanded that the United States "stop military collusion between the U.S. and Taiwan, stop arming Taiwan and stop spreading false narratives about Taiwan."[8]
+
 ## References
 
 1. Badlands Brief — "Elections are Fake; as is Trump's Friendship with Bibi", URL: https://badlands.substack.com/p/badlands-brief-25c

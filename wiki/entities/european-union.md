@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [european-union, trade, tariffs, greenland, transatlantic]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-a84.md, raw/badlands-brief-b62.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-824.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-a84.md, raw/badlands-brief-b62.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-8fd.md]
 confidence: medium
 ---
 
@@ -130,6 +130,10 @@ In October 2025, Hungarian Prime Minister [[viktor-orban|Viktor Orban]] declared
 
 In an interview published on November 25, 2025, Russian Foreign Minister [[sergey-lavrov|Sergey Lavrov]] suggested that people within the European Union could themselves be benefitting from corruption in [[ukraine|Ukraine]], saying it was otherwise difficult to explain the bloc's determination to keep funding Kiev despite repeated graft and embezzlement scandals.[20] At the time Brussels was seeking to assemble €135 billion ($156 billion) to prop up Kiev through 2026 and 2027, whether by direct transfers from member-state budgets, joint borrowing, or the seizure of frozen Russian assets — an option Moscow has warned would amount to theft of its sovereign funds.[20] Lavrov asked whether "Brussels bureaucrats" had explained to their taxpayers why they must "endure and suffer," concluding, "Maybe, there are some beneficiaries as well. I rule out nothing."[20] The EU did not change its funding plans in light of a major graft scandal that had rocked Ukraine earlier that month.[20]
 
+## Distrust of US Ukraine diplomacy
+
+Der Spiegel reported in December 2025 that EU leaders harbored profound distrust of Washington's attempts to help end the Ukraine conflict, citing a transcript of a recent phone call among European leaders that the outlet had obtained.[21] The EU had outright rejected a US-drafted peace plan condition reportedly requiring Ukraine to cede parts of Donbass it still controls, insisting that Kiev should not give up any territory.[21]
+
 ## References
 
 1. Badlands Brief — "Arctic Escalation and Tropic Trouble for the Financial System", URL: https://badlands.substack.com/p/badlands-brief-02a
@@ -152,3 +156,4 @@ In an interview published on November 25, 2025, Russian Foreign Minister [[serge
 18. Badlands Brief — "Badlands News Brief: Orange Friday, Election Action, & McKinsey's Gives Advice", URL: https://badlands.substack.com/p/badlands-news-brief-71f
 19. Badlands Brief — "Dumb Questions, Pentagon Pizzas, & Zero Trust", URL: https://badlands.substack.com/p/badlands-news-brief-669
 20. Badlands Brief — "Badlands News Brief: Saudi Scoops, Slender Stabbers, & Scorned Scouts", URL: https://badlands.substack.com/p/badlands-news-brief-824
+21. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd

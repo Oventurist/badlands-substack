@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [us-senate, republican-party, neoconservatism, death-rumors, kentucky]
-sources: [raw/badlands-brief-805.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-2e8.md, raw/badlands-news-brief-7b8.md]
+sources: [raw/badlands-brief-805.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-2e8.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-8f4.md]
 confidence: medium
 ---
 
@@ -50,6 +50,10 @@ Badlands writer [[paul-fleuret|Paul Fleuret]] asked "what in the bloody hell is 
 
 When the [[us-senate|Senate]] confirmed [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] as Secretary of Health and Human Services by a 52-48 vote on Thursday, February 13, 2025, McConnell voted against him after raising concerns about Kennedy's position on vaccination.[7] McConnell, who survived polio before Jonas Salk's vaccine breakthrough in the 1950s, had as former Republican majority leader angered some of [[donald-trump|Trump]]'s supporters with votes and views that conflicted with the president's.[7]
 
+## Opposition to the January 6 footage release
+
+On March 7, 2023, in his capacity as Senate Minority Leader, McConnell called it a "mistake" for [[tucker-carlson|Tucker Carlson]] and [[fox-news|Fox News]] to broadcast never-before-seen [[january-6-capitol-security-footage-release|January 6 security footage]], a position he took alongside Senate Majority Leader [[chuck-schumer|Chuck Schumer]]'s call for [[rupert-murdoch|Rupert Murdoch]] to stop Carlson from airing further material.[8] Writing in the [[badlands-news-brief|Badlands News Brief]], [[patel-patriot|Patel Patriot]] argued that both McConnell and Schumer had promoted transparency in government only when it benefited their own political agendas, and asked what they were afraid of.[8]
+
 ## References
 1. Badlands Brief — "RIP Lindsey Graham", URL: https://badlands.substack.com/p/badlands-brief-805
 2. Badlands Brief — "TACO Tuesday Returns as the War of Stories Gets Weird", URL: https://badlands.substack.com/p/badlands-brief-c7b
@@ -58,3 +62,4 @@ When the [[us-senate|Senate]] confirmed [[robert-f-kennedy-jr|Robert F. Kennedy 
 5. Badlands Brief — "Badlands News Brief: Border Bill Dead on Arrival ... Just Like Bidenomics", URL: https://badlands.substack.com/p/badlands-news-brief-1ab
 6. Badlands Brief — "Badlands News Brief: Rise and Fall of the Warmongers ... And More", URL: https://badlands.substack.com/p/badlands-news-brief-2e8
 7. Badlands Brief — "Badlands News Brief: MAHA, Modi, Musk, & Munich", URL: https://badlands.substack.com/p/badlands-news-brief-7b8
+8. Badlands Brief — "Badlands News Brief: January 6 and Nord Stream Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-8f4

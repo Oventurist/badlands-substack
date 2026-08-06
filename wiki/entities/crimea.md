@@ -4,13 +4,17 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ukraine, russia, territory, diplomacy]
-sources: [raw/badlands-news-brief-065.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-471.md]
+sources: [raw/badlands-news-brief-065.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-919.md]
 confidence: medium
 ---
 
 # Crimea
 
 Crimea is a peninsula on the northern Black Sea coast annexed by [[russia|Russia]] from [[ukraine|Ukraine]] in 2014, an act the United States and its European allies long regarded as illegal.[1]
+
+## Ukrainian signal of willingness to negotiate (April 2023)
+
+In April 2023 [[andriy-sybiha|Andriy Sybiha]], deputy head of President [[volodymyr-zelensky|Volodymyr Zelensky]]'s office, told the *Financial Times* that Kyiv was willing to discuss the future of Crimea with Moscow if Ukrainian forces reached the border of the Russian-occupied peninsula — described by the paper as the most explicit statement of Ukrainian interest in negotiations since Kyiv cut off peace talks with the Kremlin in April 2022.[5] The remarks came amid the difficult fight for Bakhmut, high Ukrainian casualties in the east and anticipation of a spring counteroffensive, and marked a public reversal from Zelensky's October 2022 declaration that "We will definitely liberate Crimea."[5] Badlands contributor [[burning-bright|Burning Bright]] argued that Zelensky was ceding narrative ground to Russia as US and NATO rhetoric about Ukrainian victory was simultaneously dialled back.[5]
 
 ## 2025 United States recognition proposal
 
@@ -52,3 +56,4 @@ Badlands commentator [[burning-bright|Burning Bright]] linked the Crimea offer t
 2. Badlands Media — "Badlands News Brief: Ukraine U-Turn, Biden Bumbles & Committees Command", URL: https://badlands.substack.com/p/badlands-news-brief-152
 3. Badlands News Brief — "Pirated Pardons & Delayed Declassifications", URL: https://badlands.substack.com/p/badlands-news-brief-298
 4. Badlands Brief — "Badlands News Brief: Robot Runners, Prisoner Swaps, & Control of Crimea", URL: https://badlands.substack.com/p/badlands-news-brief-471
+5. Badlands Brief — "Badlands News Brief: Trials Galore, Ukraine Backpedal & The Gold Standard", URL: https://badlands.substack.com/p/badlands-news-brief-919

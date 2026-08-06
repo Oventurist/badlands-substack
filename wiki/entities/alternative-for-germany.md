@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [germany, elections, nationalism, europe]
-sources: [raw/badlands-brief-50d.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4ee.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-721.md]
+sources: [raw/badlands-brief-50d.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4ee.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-8cd.md]
 confidence: medium
 ---
 
@@ -83,6 +83,14 @@ Although the AfD secured a first-place finish in the Saxony election held that S
 
 An INSA survey reported in August 2025 found that among German party supporters, AfD voters felt the most restricted in expressing their opinions, at 76%.[12] The same survey found 84% of German respondents overall believe people withhold opinions due to fear of consequences and 54% had personally felt unable to speak freely, a perception up 6 points in eight months.[12] Commentary framed free expression as an issue that could become as politically pivotal in [[germany|Germany]] as migration and the pandemic.[12]
 
+## Extremist designation (May 2025)
+
+In a statement released in early May 2025, Germany's domestic intelligence agency, the [[federal-office-for-the-protection-of-the-constitution|Federal Office for the Protection of the Constitution]] (Verfassungsschutz, BfV), formally labeled the AfD a right-wing extremist organization.[13] Reporting indicated the designation opened the door for the German government to intensify surveillance of the party's activities.[13] Badlands coverage framed the designation as a bureaucratic mechanism for surveilling right-wing political opposition more aggressively.[13]
+
+## North Rhine-Westphalia municipal elections (September 2025)
+
+The AfD nearly tripled its support in municipal elections in Germany's most populous state, North Rhine-Westphalia, on Sunday, September 14, 2025, according to initial results, winning nearly 15 percent of the vote and finishing third.[14] The outcome underscored the party's growing appeal to voters outside its strongholds in the states of the former East Germany, where it is the strongest political force.[14] AfD leaders came to see the more populous west of the country — including the declining industrial cities of North Rhine-Westphalia, home to steel factories and a diminishing coal industry — as the key to expanding the party's base, particularly among working-class voters increasingly defecting to the far right.[14]
+
 ## References
 1. Badlands Brief — "Alternative Annexations & New(ish) Regime Change", URL: https://badlands.substack.com/p/badlands-brief-50d
 2. Badlands Brief — "Preemptive Pardons, Syrian Sanctions, & Preparations for Putin", URL: https://badlands.substack.com/p/badlands-news-brief-09e
@@ -96,3 +104,5 @@ An INSA survey reported in August 2025 found that among German party supporters,
 10. Badlands Brief — "Badlands News Brief: Psyops Abound as the Media Landscape Shifts Rapidly", URL: https://badlands.substack.com/p/badlands-news-brief-6f7
 11. Badlands Brief — "A Not so Brief Full of Sovereign SIGNAL", URL: https://badlands.substack.com/p/badlands-news-brief-711
 12. Badlands News Brief — "Post Mortems, Dog Fights, & Flight Risks", URL: https://badlands.substack.com/p/badlands-news-brief-721
+13. Badlands Brief — "Badlands News Brief: Gazan Seizures & Gay Porn Scandals", URL: https://badlands.substack.com/p/badlands-news-brief-8dc
+14. Badlands Brief — "Badlands News Brief: Vigils, Vanguards, & Various Investigations", URL: https://badlands.substack.com/p/badlands-news-brief-8cd

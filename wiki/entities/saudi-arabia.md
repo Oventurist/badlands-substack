@@ -226,6 +226,10 @@ The announcement followed the kingdom's China-brokered restoration of diplomatic
 
 Saudi Arabia reacted with outrage in late August 2024 to Israeli National Security Minister [[itamar-ben-gvir|Itamar Ben-Gvir]]'s call for a synagogue to be built atop the [[al-aqsa-mosque|Al-Aqsa Mosque]].[35] The episode came after years in which Riyadh and [[israel|Israel]] had moved rapidly toward restoring official relations in what was described as a 'deal of the century,' an effort placed on hold by the Gaza war following October 7 and increasingly at risk of collapse.[35] Badlands Media added that Mohammed bin Salman met Mahmoud Abbas the same week.[35]
 
+## Reaction to Ben-Gvir's Al-Aqsa remarks (August 2024)
+
+Saudi Arabia reacted with outrage in late August 2024 to Israeli National Security Minister [[itamar-ben-gvir|Itamar Ben-Gvir]]'s call for a synagogue to be built atop the [[al-aqsa-mosque|Al-Aqsa Mosque]].[35] The episode came after years in which Riyadh and [[israel|Israel]] had moved rapidly toward restoring official relations in what was described as a 'deal of the century,' an effort placed on hold by the Gaza war following October 7 and increasingly at risk of collapse.[35] Badlands Media added that Mohammed bin Salman met Mahmoud Abbas the same week.[35]
+
 ## References
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
 2. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty

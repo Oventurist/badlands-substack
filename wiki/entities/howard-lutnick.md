@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [epstein, commerce, trump-administration, congress]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-0a2.md, raw/badlands-brief-7bf.md, raw/badlands-brief-7c6.md, raw/badlands-brief-959.md, raw/badlands-brief-eea.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-4fd.md, raw/badlands-news-brief-745.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-0a2.md, raw/badlands-brief-7bf.md, raw/badlands-brief-7c6.md, raw/badlands-brief-959.md, raw/badlands-brief-eea.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-4fd.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-914.md]
 confidence: medium
 ---
 
@@ -63,6 +63,12 @@ On July 15, 2025, Lutnick said that [[nvidia|Nvidia]]'s planned resumption of H2
 ### Call to abolish the IRS
 On the evening of February 19, 2025, Commerce Secretary Lutnick said on Fox News' Jesse Watters Primetime that President Donald Trump's goal was to "abolish" the Internal Revenue Service.[10] The remarks came as the IRS was reportedly poised to lay off thousands of workers and built on Trump's pledge to create an "External Revenue Service" to oversee tariffs and other potential foreign revenue.[10] Lutnick said Elon Musk, in his capacity as a senior White House adviser leading DOGE, was "going to cut" $1 trillion, "and then we're going to get rid of all these tax scams that hammer against America, and we're going to raise a trillion dollars of revenue."[10] Asked by Watters whether DOGE savings would be returned to the American people, Lutnick replied: "Think about it, Donald Trump announces the External Revenue Service, and his goal is very simple ... his goal is to abolish the Internal Revenue Service and let all the outsiders pay."[10] Badlands commentary described the newly minted Commerce secretary as beginning his service "with a bang."[10]
 
+## Pre-election financial interview (October 2024)
+
+In late October 2024, while serving as leader of the Trump transition team, Lutnick gave a long financial sit-down interview released under the title "Billionaire Says Bitcoin, Tariffs and Donald Trump Will Make You Rich," ranging across power projection, common-sense trade deals and the idea of replacing income taxes with tariff revenue.[11] [[burning-bright|Burning Bright]] of [[badlands-media|Badlands Media]] wrote that he had not expected the conversation to be as full of signal as it was, and was especially struck by how emotional Lutnick became discussing his experience on September 11, 2001.[11]
+
+In that reading, Lutnick's anecdotes about the actual and mass-psychological damage America suffered in 2001 marked him as a power player who understands precisely what was lost — or what was taken — and his presence in the transition suggested that [[donald-trump|Donald Trump]] not only knew who he needed in key positions entering a second administration but had always known.[11] The commentary tied this to Trump's long-standing public skepticism about the official account of 9/11, arguing that the "Trump 2.0 Revenge Tour" takes on added meaning in that light.[11]
+
 ## References
 1. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
 2. Badlands Brief — "A Virtual Smash & Grab & Another Impeachment Hoax", URL: https://badlands.substack.com/p/badlands-brief-0a2
@@ -74,3 +80,4 @@ On the evening of February 19, 2025, Commerce Secretary Lutnick said on Fox News
 8. Badlands Brief — "Rare Earths, Rogue Judges, & Record Downward Revisions", URL: https://badlands.substack.com/p/badlands-news-brief-030
 9. Badlands Brief — "Badlands News Brief: Autopens, AI Chips, & Astrological Assertions", URL: https://badlands.substack.com/p/badlands-news-brief-4fd
 10. Badlands Brief — "Trump Teases Saudi Trillions; Biden Bros Embezzled Billions", URL: https://badlands.substack.com/p/badlands-news-brief-745
+11. Badlands Brief — "Badlands News Brief: Trump Tours, Bannon Breaks Out & Israel Hesitates", URL: https://badlands.substack.com/p/badlands-news-brief-914

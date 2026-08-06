@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [rwanda, africa, drc, israel, m23]
-sources: [raw/badlands-news-brief-021.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-457.md]
+sources: [raw/badlands-news-brief-021.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-8fd.md]
 confidence: low
 ---
 
@@ -30,8 +30,13 @@ In February 2025 the United States sanctioned Gen. [[james-kabarebe|James Kabare
 
 Badlands commentary described Kagame as "an ardent Zionist and loyal henchman to the Israeli oligarchy," speculating that he was working on behalf of Netanyahu and [[dan-gertler|Dan Gertler]] when mercenaries descended on the eastern Congo from Rwanda.[4] The same analysis noted that Congolese President [[felix-tshisekedi|Félix Tshisekedi]] had turned to President [[donald-trump|Donald Trump]] for assistance against the Rwandan mercenaries, offering American access to mineral rights in return.[4] The European Union, meanwhile, had agreed to pay Rwanda about $935 million for access to minerals including tin, tungsten and gold.[4]
 
+## December 2025 White House summit
+
+Kagame was hosted by President Donald Trump in Washington on December 4, 2025, alongside Democratic Republic of the Congo President Felix Tshisekedi, to sign deals aimed at stabilizing eastern Congo and attracting Western mining investment.[5] The two presidents were expected to pledge commitment to an economic integration compact agreed the previous month and to a US-brokered peace deal reached in June that remained unimplemented.[5] Badlands contributor GhostofBasedPatrickHenry characterized Kagame as a 'lapdog' of what he called the Israeli Diamond Cartel, which he argued had dispatched M23 rebels out of Rwanda to seize chokepoints and recover mineral control lost through Executive Order 13818.[5]
+
 ## References
 1. Badlands Brief — "Seditious Overreactions, Billion Dollar Bailouts, & NATO-Style Guarantees", URL: https://badlands.substack.com/p/badlands-news-brief-021
 2. Badlands News Brief — "Weed Wins, Globalist Whisking, & Lizard-Led Impeachments", URL: https://badlands.substack.com/p/badlands-news-brief-0ef
 3. Badlands Brief — "Badlands News Brief: Extra-Judicial Judges & Master Manipulating Monsters", URL: https://badlands.substack.com/p/badlands-news-brief-324
 4. Badlands Brief — "Climbing Confidence, a Congolese Crisis, & Uncorroborated KGB Claims", URL: https://badlands.substack.com/p/badlands-news-brief-457
+5. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd

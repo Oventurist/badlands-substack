@@ -40,6 +40,10 @@ Badlands writer [[ashe-in-america|Ashe in America]] wrote that four different co
 
 Video published on August 28, 2024 showed armed men moving through an Aurora apartment complex, prompting city council member Danielle Jurinsky to state publicly that a gang had taken over several complexes in the city.[4] Jurinsky told Fox 31 the building had been overrun by a Venezuelan gang, and reporting linked the activity to [[tren-de-aragua|Tren de Aragua]], though police declined to confirm the affiliation.[4] Badlands Media cited the episode as evidence that migration policy under the Biden-Harris administration had produced concrete public safety consequences, contrasting local conditions with California's move to extend home loans to illegal immigrants.[4]
 
+## Venezuelan gang takeover reports (August 2024)
+
+Video published on August 28, 2024 showed armed men moving through an Aurora apartment complex, prompting city council member Danielle Jurinsky to state publicly that a gang had taken over several complexes in the city.[4] Jurinsky told Fox 31 the building had been overrun by a Venezuelan gang, and reporting linked the activity to [[tren-de-aragua|Tren de Aragua]], though police declined to confirm the affiliation.[4] Badlands Media cited the episode as evidence that migration policy under the Biden-Harris administration had produced concrete public safety consequences, contrasting local conditions with California's move to extend home loans to illegal immigrants.[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Sovereign Signals, New(ish) Alliances & Reckonings", URL: https://badlands.substack.com/p/badlands-news-brief-316
 2. Badlands Brief — "Fair Trade, Debt Slavery, & Your Mom", URL: https://badlands.substack.com/p/badlands-news-brief-623

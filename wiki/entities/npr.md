@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, radio, mainstream-media, layoffs]
-sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-363.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-907.md, raw/badlands-news-brief-8fd.md]
 confidence: low
 ---
 
@@ -32,8 +32,20 @@ In July 2023 NPR published a podcast episode titled "This right wing conspiracy 
 
 The commentary was prompted by [[tyson-foods|Tyson Foods]]' October 2023 partnership with the Dutch insect protein firm [[protix|Protix]], and asked rhetorically whether NPR would apply the antisemitism charge to the [[world-economic-forum|World Economic Forum]] or apologize, concluding that the "taxpayer-funded gaslight" would simply continue.[4]
 
+## 2023 layoffs
+
+In March 2023 NPR carried out the [[2023-npr-layoffs|2023 NPR layoffs]], cutting 84 positions and halting production on four seasonal podcasts including *Invisibilia*, *Louder Than a Riot* and *Rough Translation*, after warning in February of a projected $30 million sponsorship shortfall.[5] Thirteen digital-team roles were also slated for elimination, but those employees had unionised through a separate broadcast union and could not be laid off until a contract or separate agreement was reached.[5]
+
+The cuts triggered multiple tense all-hands meetings in which affected staff questioned executives; laid-off employees were given 30 days to transition their work but barred from NPR offices, so the meetings were held over Zoom, with some executives dialling in from home and speaking in scripted or vague terms.[5] Commenting in the [[badlands-news-brief|Badlands News Brief]], [[ryan-delarme|Ryan DeLarme]] derided NPR's correspondents as sounding "freakishly unamused" regardless of subject, called the network "basically a cultural weapon at this point," and said he was thrilled to see it losing staff.[5]
+
+## Signalgate commentary
+
+In December 2025 commentary on the Signalgate report, Badlands host CannCon highlighted that NPR chief executive Katherine Maher simultaneously chairs the board of the Signal Foundation, suggesting the overlap warranted scrutiny of the messaging platform's adoption by US officials.[6]
+
 ## References
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
 2. Badlands Brief — "Amplified Antagonism, Phantom Palestinians, & Hitler's Micropenis", URL: https://badlands.substack.com/p/badlands-news-brief-066
 3. Badlands Media — "Badlands News Brief: Based Bodegas, Limp Sanctions & Scared Bankers", URL: https://badlands.substack.com/p/badlands-news-brief-0cd
 4. Badlands News Brief — "The Free Market of Ideas Condemns the Regime", raw/badlands-news-brief-363.md
+5. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... Or Are They?", URL: https://badlands.substack.com/p/badlands-news-brief-907
+6. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd

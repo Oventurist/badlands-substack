@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [democratic-republic-of-the-congo, africa, heads-of-state]
-sources: [raw/badlands-brief-e8d.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-880.md]
+sources: [raw/badlands-brief-e8d.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-880.md, raw/badlands-news-brief-8fd.md]
 confidence: medium
 ---
 
@@ -40,9 +40,14 @@ Clashes between [[m23|M23]] fighters and government forces had escalated in the 
 
 Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued the key detail was the DRC's claim that Rwanda had increased rather than withdrawn M23 troops, and framed Rwanda as representing what he called the unipolar regime's interest in an estimated $24 trillion in mineral wealth — assets he said were taken from the Israeli Diamond Cartel via Trump's Executive Order 13818 in December 2017, frozen and later stripped by the Biden Justice Department in a British court.[5] He linked the M23 deployment from Rwanda in December to the failed May 2024 coup attempt by Congolese-American Christian Malanga and his son Marcel, describing the militia's seizure of the two major mining hubs as a move to control where raw ore is refined into a saleable commodity, smuggled into Rwanda and laundered with false certifications to conceal child-slave mining.[5]
 
+## December 2025 White House summit
+
+Tshisekedi joined Rwandan President Paul Kagame at the White House on December 4, 2025, where President Donald Trump brought the two leaders together to sign new deals aimed at stabilizing the war-scarred eastern Congo region and attracting Western mining investment.[6] Analysts said US diplomacy had paused escalation of the fighting but failed to resolve core issues, and days earlier the DRC military and M23 rebels had accused one another of violating the ceasefire.[6]
+
 ## References
 1. Badlands Brief — "Miraflores New Tenant, Walz Awakens, & Kelly's Court Martial", URL: https://badlands.substack.com/p/badlands-brief-e8d
 2. Badlands Brief — "Climbing Confidence, a Congolese Crisis, & Uncorroborated KGB Claims", URL: https://badlands.substack.com/p/badlands-news-brief-457
 3. Badlands News Brief — "Treasury Triumphs, TikTok U-Turns, & Trade War Time-Outs", raw/badlands-news-brief-508.md
 4. Badlands News Brief — "Indian iPhones, A Sovereign Bromance, & Allegedly Real IDs", URL: https://badlands.substack.com/p/badlands-news-brief-520
 5. Badlands Brief — "Lawfare Losers & Azov-Adjacent Suicide Attempts", URL: https://badlands.substack.com/p/badlands-news-brief-880
+6. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd

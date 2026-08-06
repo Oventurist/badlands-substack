@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [colorado, democrats, clemency, governors, tina-peters]
-sources: [raw/badlands-brief-174.md, raw/badlands-brief-5a2.md, raw/badlands-brief-b38.md, raw/badlands-news-brief-0ef.md]
+sources: [raw/badlands-brief-174.md, raw/badlands-brief-5a2.md, raw/badlands-brief-b38.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-8fd.md]
 confidence: medium
 ---
 
@@ -42,8 +42,18 @@ The remarks followed an address to the legislature; separately, the legislature 
 
 Following President [[donald-trump|Donald Trump]]'s 11 December 2025 announcement of a full pardon for former Mesa County clerk [[tina-peters|Tina Peters]], Colorado's Democratic leadership — Governor [[jared-polis|Jared Polis]], Attorney General [[phil-weiser|Phil Weiser]], Secretary of State [[jena-griswold|Jena Griswold]] and the state Democratic Party — issued variations on a common statement rejecting the pardon's effect.[4] The statement held that Peters "was convicted by a jury of her peers, prosecuted by a Republican District Attorney, and found guilty of violating Colorado state laws, including criminal impersonation," and that "no President has jurisdiction over state law nor the power to pardon a person for state convictions," adding that the matter was for the courts and that the state would abide by court orders.[4]
 
+## Response to Trump's Aurora rally (October 2024)
+
+After the [[donald-trump|Trump]] campaign announced an October 2024 rally in [[aurora-colorado|Aurora]] and described the city as a "war zone" overrun by [[tren-de-aragua|Tren de Aragua]] gang members, Polis issued a statement disputing the characterization.[5] "Coloradans stand united in our love of our state, and we are proud to be a beacon for personal freedoms, a vibrant economy, and world class outdoor recreational opportunities," he said, adding that Trump would find "an incredible city with two straight years of rapidly declining crime that is filled with hard-working people from many diverse backgrounds and small businesses that are driving Colorado's economy forward."[5] Badlands writer [[ashe-in-america|Ashe in America]] disputed the crime claim, pointing to store closures, merchandise locked behind glass, rising car thefts and Denver Gazette open-records reporting that officials knew of a migrant gang takeover of Aurora apartment buildings.[5]
+
+## Trump's December 2025 attack over Tina Peters
+
+In a December 2025 Truth Social post, President Donald Trump called Polis the 'SLEAZEBAG Governor of Colorado' for refusing to release Tina Peters from jail, described Peters as an elderly cancer survivor unfairly convicted of 'what the Democrats do, cheating on Elections,' and closed with the demand 'FREE TINA!'[6] Trump also accused the governor of allowing his state 'to go to hell,' invoking the Tren de Aragua gang.[6] Badlands host Ashe in America said she took no issue with the characterization of the governor, calling it 'Golden Age Trump.'[6]
+
 ## References
 1. Badlands Brief — "Conflicts, Cartels, & Clemency", URL: https://badlands.substack.com/p/badlands-brief-174
 2. Badlands Brief — "Tina Peters' Sentence Commuted; ISIS Killed in Africa", URL: https://badlands.substack.com/p/badlands-brief-5a2
 3. Badlands Brief — "Backchannel Boys & Globalizing Girls", URL: https://badlands.substack.com/p/badlands-brief-b38
 4. Badlands News Brief — "Weed Wins, Globalist Whisking, & Lizard-Led Impeachments", URL: https://badlands.substack.com/p/badlands-news-brief-0ef
+5. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
+6. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd

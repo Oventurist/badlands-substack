@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [nato, diplomacy, transatlantic-alliance]
-sources: [raw/badlands-brief-282.md, raw/badlands-brief-67a.md, raw/badlands-brief-a9f.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-899.md]
+sources: [raw/badlands-brief-282.md, raw/badlands-brief-67a.md, raw/badlands-brief-a9f.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8fd.md]
 confidence: low
 ---
 
@@ -69,6 +69,10 @@ On Monday, July 14, 2025, Rutte met President [[donald-trump|Donald Trump]] at t
 
 At the NATO summit in The Hague, Rutte defended President Donald Trump's expletive-laden remarks about Iran and Israel as merely "daddy" using "strong language."[8] Trump had told reporters before departing that the two countries had "been fighting so long and so hard that they do not know what the f**k they are doing," hours after announcing a Washington-brokered truce that was reportedly broken soon afterward by both sides.[8] Asked about the remark at a joint press conference the next day, Trump likened the two nations to "kids fighting in a schoolyard," and Rutte, seated beside him, added: "And then daddy has to, sometimes, use strong language."[8] Badlands commentary noted that the funniest moment was not Rutte's line itself but the sight of Secretary of State Marco Rubio breaking into hysterical laughter when a reporter raised it.[8]
 
+## Ukraine peace talks phone call
+
+As NATO Secretary General, Rutte took part in the December 2025 phone call among European leaders about US-led Ukraine peace diplomacy, and according to Der Spiegel shared Emmanuel Macron's assessment that continued talks could pose a 'great danger' for Vladimir Zelensky personally.[9]
+
 ## References
 1. Badlands Brief — "Jesus Walks", URL: https://badlands.substack.com/p/badlands-brief-282
 2. Badlands Brief — "COVIDian Comeuppance and NATOnian Neglect", URL: https://badlands.substack.com/p/badlands-brief-67a
@@ -79,3 +83,4 @@ At the NATO summit in The Hague, Rutte defended President Donald Trump's expleti
 6. Badlands News Brief — "Grand Conspiracies & Massive Reductions", URL: https://badlands.substack.com/p/badlands-news-brief-1e6
 7. Badlands Brief — "Badlands News Brief: Boozing & Brunching While Rome Burns", raw/badlands-news-brief-26f.md
 8. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
+9. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [nord-stream, sabotage, russia, china, energy, geopolitics]
-sources: [raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-420.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-754.md]
+sources: [raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-420.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-754.md, raw/badlands-news-brief-8f4.md]
 confidence: medium
 ---
 
@@ -82,8 +82,15 @@ In February 2023 [[the-gateway-pundit|The Gateway Pundit]] asked whether Preside
 
 [[badlands-media|Badlands Media]] contributor [[ryan-delarme|Ryan DeLarme]] responded that Biden's list of impeachable offences "stretches from here to Ukraine," and that the more useful question was who ultimately benefited from the attack.[10] He characterised Biden as a fall guy positioned to absorb blame for economic collapse and entanglement in a third world war under cover of cognitive decline, noted that the attempted impeachment of [[donald-trump|Donald Trump]] had shown a president could be impeached on hearsay alone, and asked whether [[congress|Congress]] would treat this offence seriously.[10] DeLarme added that in his community's assessment "all roads lead to Switzerland."[10]
 
-## References
+### March 2023 pro-Ukrainian group reporting
 
+On March 7, 2023, the [[new-york-times|New York Times]] reported that new intelligence reviewed by U.S. officials suggested a pro-Ukrainian group had carried out the attack on the pipelines, describing it as a step toward determining responsibility for an act of sabotage that had confounded investigators on both sides of the Atlantic for months.[11] U.S. officials said they had no evidence that President [[volodymyr-zelensky|Volodymyr Zelensky]] or his top lieutenants were involved, or that the perpetrators were acting at the direction of any Ukrainian government officials.[11] The attack on the pipelines linking Russia to Western Europe had fueled public speculation from Moscow to Kyiv and London to Washington, and remained one of the most consequential unsolved mysteries of the war in Ukraine.[11]
+
+A parallel German investigation by [[zeit-online|Zeit Online]] with the ARD-Hauptstadtstudio and SWR identified a yacht rented by a Poland-based company reportedly owned by two Ukrainians as the vessel used in the operation, carried out by a six-person team consisting of a captain, two divers, two diving assistants and a doctor, using professionally forged passports.[11] The operation was said to have departed from Rostock in September 2022, with the boat later seen at Wieck on the Darß and at the Danish island of Christiansø, and returned uncleaned with traces of explosives on a cabin table; a Western intelligence service reportedly warned European partner services in autumn 2022 that a Ukrainian command was responsible.[11]
+
+Badlands contributor [[just-human|Just Human]] called the shift in the New York Times framing — from "Russia and Putin did it" to intelligence officials suggesting Ukrainians — remarkable, and noted the paper's mention of [[seymour-hersh|Seymour Hersh]]'s Substack account.[11] He highlighted several details in the reporting: that no Americans or Britons were involved, that state-actor involvement was unconfirmed, that the explosives were planted without help from a military or agency though the perpetrators may have "received specialized government training in the past," that Ukrainian involvement "could upset the delicate relationship between Ukraine and Germany," and that Western officials had "limited visibility into Ukrainian decision-making."[11] He argued that overlaying the Hersh story, the New York Times piece, the Zeit Online investigation and open-source intelligence would form a "constellation of facts, information and possibilities" pointing closer to the truth.[11]
+
+## References
 1. Badlands Media — "Badlands News Brief: Exculpatory Trump Card & China's Moves", URL: https://badlands.substack.com/p/badlands-news-brief-0e0
 2. Badlands Brief — "Badlands News Brief: Narrative Shielding & Biden Bait", URL: https://badlands.substack.com/p/badlands-news-brief-204
 3. Badlands Brief — "Badlands News Brief: Trump Trounces Haley (Again) as the Media Spins", URL: https://badlands.substack.com/p/badlands-news-brief-3c0
@@ -94,3 +101,4 @@ In February 2023 [[the-gateway-pundit|The Gateway Pundit]] asked whether Preside
 8. Badlands Brief — "Badlands News Brief: President of Precedents ...", URL: https://badlands.substack.com/p/badlands-news-brief-6ff
 9. Badlands Brief — "Badlands News Brief: Ukraine Bursts, Tucker Returns & Trump Promises", URL: https://badlands.substack.com/p/badlands-news-brief-72e
 10. Badlands Brief — "Badlands News Brief: PsyOps and PsyActs EVERYWHERE ...", URL: https://badlands.substack.com/p/badlands-news-brief-754
+11. Badlands Brief — "Badlands News Brief: January 6 and Nord Stream Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-8f4

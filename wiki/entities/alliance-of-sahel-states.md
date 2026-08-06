@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [africa, sahel, geopolitics, russia]
-sources: [raw/badlands-brief-1ce.md, raw/badlands-brief-405.md, raw/badlands-brief-5a2.md, raw/badlands-news-brief-09b.md, raw/badlands-news-brief-448.md]
+sources: [raw/badlands-brief-1ce.md, raw/badlands-brief-405.md, raw/badlands-brief-5a2.md, raw/badlands-news-brief-09b.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-860.md]
 confidence: low
 ---
 
@@ -32,9 +32,16 @@ On September 24, 2025, the foreign ministers of [[burkina-faso|Burkina Faso]], M
 
 Badlands analysis published in November 2025 described the Alliance of Sahel States — formed by Burkina Faso, Mali, and Niger after their departure from [[ecowas|ECOWAS]] — as the target of an ongoing proxy war waged by the bloc, with [[nigeria|Nigeria]] and Ivory Coast accused of subversive action against Sahelian leadership.[5] Russia and others have openly accused France and Ukraine of funding the [[isis|ISIS]] terror cells attacking the Sahel states.[5] The same commentary noted that Burkina Faso's President Captain [[ibrahim-traore|Ibrahim Traoré]] declined President [[donald-trump|Donald Trump]]'s invitation to his January inauguration.[5]
 
+## Traoré on external efforts to break the bloc (October 2024)
+
+In an October 2024 interview with national broadcaster RTB marking his second anniversary in power, Burkinabè interim president [[ibrahim-traore|Ibrahim Traoré]] said that "seeing Africans unite is not good for other people," and that outside actors were therefore doing everything possible to destroy the AES.[6] He said that for this reason his government had moved very early to establish liaison officers in each member country.[6]
+
+Traoré did not name the actors he blamed, but he and allies in Niamey and Bamako had previously accused Ukraine of supporting terrorism in the Sahel, alleging that insurgents used intelligence from Kyiv to carry out a July 2024 attack that killed dozens of Malian soldiers and [[wagner-group|Wagner Group]] personnel.[6] All three military-led states have severed defense ties with their former colonial power, France, citing meddling and the failure of French forces to resolve the unrest, and have instead sought security cooperation with Russia, which agreed to assist them in counter-terrorism efforts.[6]
+
 ## References
 1. Badlands Brief — "African Acceleration, Powell's Replacement, & MEGA Democracy", URL: https://badlands.substack.com/p/badlands-brief-1ce
 2. Badlands Brief — "Agencies Aflutter, Corporate Compacts & Discombobulated Drones", URL: https://badlands.substack.com/p/badlands-brief-405
 3. Badlands Brief — "Tina Peters' Sentence Commuted; ISIS Killed in Africa", URL: https://badlands.substack.com/p/badlands-brief-5a2
 4. Badlands Brief — "Russian Oil, Turkish Nukes, & American Indictments", URL: https://badlands.substack.com/p/badlands-news-brief-09b
 5. Badlands Brief — "Badlands News Brief: Victim Cards, Foreign Inference, & Chessboard Stans", URL: https://badlands.substack.com/p/badlands-news-brief-448
+6. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860

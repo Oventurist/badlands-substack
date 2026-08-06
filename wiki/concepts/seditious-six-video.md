@@ -1,5 +1,5 @@
 ---
-title: "Seditious Six" Video
+title: "Seditious Six Video"
 created: 2026-08-06
 updated: 2026-08-06
 type: concept

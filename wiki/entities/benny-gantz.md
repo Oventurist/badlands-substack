@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, military, politics, iran, idf]
-sources: [raw/badlands-brief-52f.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-8ae.md]
+sources: [raw/badlands-brief-52f.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-860.md]
 confidence: medium
 ---
 
@@ -52,6 +52,10 @@ Gantz had pledged to exclude Netanyahu explicitly from his government, but by th
 
 In a December 21, 2021 interview with Israeli journalist [[barak-ravid|Barak Ravid]], [[donald-trump|Donald Trump]] revealed that while president he had quietly backed Gantz against Netanyahu in the April 2019 election.[6] Gantz shared Trump's opposition to Netanyahu's plans to annex large portions of the West Bank and construct Israeli settlements there.[6] Badlands commentary argued that Netanyahu's determination to keep Gantz from becoming Prime Minister stemmed from the knowledge that Gantz would finalize the [[two-state-solution|two-state solution]].[6]
 
+## Aftermath of the June 2024 resignation
+
+Badlands commentary published in October 2024 traced the internal collapse of [[benjamin-netanyahu|Benjamin Netanyahu]]'s wartime coalition to Gantz's resignation from the government in June 2024, after which the War Cabinet was dissolved.[7] With Gantz gone, Netanyahu became dependent on the continued participation of Defense Minister [[yoav-gallant|Yoav Gallant]], whose own relationship with the prime minister had been strained since Netanyahu fired and immediately rehired him in spring 2023 following Gallant's appearance at a rally calling for Netanyahu's resignation.[7] Netanyahu subsequently diluted that dependency by elevating [[gideon-saar|Gideon Sa'ar]] to the Security Cabinet and forming a new three-man War Cabinet.[7]
+
 ## References
 1. Badlands Brief — "As Expected Energy Wars, 'Life Insurance', & Crazies Keeping Their Guns (Maybe)", URL: https://badlands.substack.com/p/badlands-brief-52f
 2. Badlands Brief — "Badlands News Brief: Fake Polls Abound as the Sovereign Alliance Makes Moves", URL: https://badlands.substack.com/p/badlands-news-brief-125
@@ -59,3 +63,4 @@ In a December 21, 2021 interview with Israeli journalist [[barak-ravid|Barak Rav
 4. Badlands Brief — "Unprecedented Opportunities & Rich Men's Tricks", URL: https://badlands.substack.com/p/badlands-news-brief-357
 5. Badlands Brief — "Badlands News Brief: Contempt, Combat Tactics and Cuts?", URL: https://badlands.substack.com/p/badlands-news-brief-70a
 6. Badlands Media — "Badlands News Brief: Vance Takes the Stage as Biden Takes the Basement", URL: https://badlands.substack.com/p/badlands-news-brief-8ae
+7. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860

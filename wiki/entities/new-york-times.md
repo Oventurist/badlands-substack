@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, mainstream-media, newspapers, intelligence-community]
-sources: [raw/a-swan-song-for-the-msm.md, raw/assad-day-in-damascus.md, raw/badlands-brief-559.md, raw/badlands-brief-6f0.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-881.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/assad-day-in-damascus.md, raw/badlands-brief-559.md, raw/badlands-brief-6f0.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-8f4.md]
 confidence: medium
 ---
 
@@ -81,6 +81,12 @@ Separately, Times reporter Peter Baker reported that Biden engaged in no organiz
 
 In August 2023 the Times published an opinion essay by [[adam-grant|Adam Grant]] arguing that public office would have more integrity if elections were abolished in favor of [[sortition|sortition]] — selection by random lottery, as practiced in ancient Athens and in American jury selection.[12] Badlands noted that the piece originally ran under the headline "Elections are Bad for Democracy" before the paper changed it, and treated the substitution as telling.[12] [[ashe-in-america|Ashe in America]] argued that the essay amounted to open advocacy for "selections," offered no mechanism beyond an unspecified vetting process, and thereby implied the end of consent as a requirement for governance.[12] She further charged that the Times, having peddled divisive narratives for years, was citing the resulting national division as grounds for eliminating elections — an instance of an establishment outlet manufacturing a problem and selling the regime's preferred solution — and proposed watching whether the idea propagated across other outlets, going [[operation-mockingbird|mockingbird]], as the measure of intent.[12]
 
+## Nord Stream pipeline reporting, March 2023
+
+On March 7, 2023, the Times reported that new intelligence reviewed by U.S. officials suggested a pro-Ukrainian group had carried out the attack on the [[nord-stream-sabotage|Nord Stream pipelines]], describing the finding as a step toward determining responsibility for a sabotage operation that had confounded investigators on both sides of the Atlantic.[13] The paper said U.S. officials had no evidence that President [[volodymyr-zelensky|Volodymyr Zelensky]] or his top lieutenants were involved, or that the perpetrators acted at the direction of any Ukrainian government officials, and characterized the attack as one of the most consequential unsolved mysteries of the war in Ukraine.[13]
+
+Badlands contributor [[just-human|Just Human]] treated the article as a significant narrative shift, calling it remarkable that the Times was receiving intelligence-official leaks and moving from "Russia and Putin did it!" toward Ukrainian attribution, and noting that the story cited [[seymour-hersh|Seymour Hersh]]'s Substack account.[13] He argued the piece was "ripe with factoids and indicators of note" for readers applying a "fake news filter," and paired it with the parallel [[zeit-online|Zeit Online]] investigation as complementary inputs into a fuller picture.[13]
+
 ## References
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
 2. Badlands Brief — "Assad Day in Damascus", URL: https://badlands.substack.com/p/assad-day-in-damascus
@@ -94,3 +100,4 @@ In August 2023 the Times published an opinion essay by [[adam-grant|Adam Grant]]
 10. Badlands Brief — "Badlands News Brief: Gheyliens, Ukrainian Nazis & Post Office Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-423
 11. Badlands Brief — "The Old Guard Braces for Impact as Panic Spreads", URL: https://badlands.substack.com/p/badlands-news-brief-447
 12. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... But Not on Us", URL: https://badlands.substack.com/p/badlands-news-brief-881
+13. Badlands Brief — "Badlands News Brief: January 6 and Nord Stream Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-8f4

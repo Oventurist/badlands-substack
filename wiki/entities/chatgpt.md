@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [artificial-intelligence, llm, openai, censorship]
-sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-02a.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-02a.md, raw/badlands-news-brief-8f9.md]
 confidence: medium
 ---
 
@@ -34,7 +34,14 @@ Badlands Media's July 2023 essay on [[artificial-intelligence|artificial intelli
 
 In January 2026 [[openai|OpenAI]] outlined a new approach to advertising and expanding access to its ChatGPT services, saying it would begin testing clearly labeled ads in the free and ChatGPT Go tiers for logged-in adults in the United States in the coming weeks.[3] The company emphasized that ads would be separate from the AI's responses and that it would not sell user conversations to advertisers, framing the policy around mission alignment, answer independence, user control of data, and prioritizing user experience over revenue.[3] OpenAI also noted that ChatGPT Go — offering messaging, image creation, file uploads, and memory — had become available worldwide for $8 USD per month.[3]
 
+## Alleged political bias, February 2023
+
+In February 2023, Summit News reported an example of apparent political asymmetry in ChatGPT's responses, drawing on tech writer Andy Meek's finding that the model refused to write a poem about Republican Congresswoman [[marjorie-taylor-greene|Marjorie Taylor Greene]].[4] The program answered that it could not write about "a controversial figure" and that it was not appropriate for an AI language model "to take a partisan stance or express opinions," describing its role as providing neutral and factual information.[4] When Meek asked for a poem about [[hunter-biden|Hunter Biden]] — in the outlet's characterization, a no less controversial figure — the model produced an effusive piece praising [[joe-biden|Joe Biden]]'s son, including the lines "But through it all, he stands tall, / With a spirit that refuses to fall" and an appeal to judge him "not by his surname, / Or by the actions that bring him shame."[4]
+
+Writing in the [[badlands-news-brief|Badlands News Brief]], [[justin-deschamps|Justin Deschamps]] argued the episode disproved the programmers' claim that the bot carried no bias, and said it confirmed the bias of big tech — quietly revealing the AI future sought by the [[world-economic-forum|World Economic Forum]] and its futurist technocrat globalists.[4] He further argued that marketing the bot as a personification of all human knowledge, an all-knowing entity able to answer every question, associates it with a demigod-like messiah figure cast as the fabled ruler of the New World Order.[4] Deschamps questioned whether materialistic atheists who do not understand consciousness or the origin of intelligence, and who dismiss a transcendent source of personality, are capable of producing AI at all, and concluded that what is called artificial intelligence is "fancy mimicry by a machine that has more in common with a toaster than it does a human being" — while cautioning that the "Pinocchio-like being" and its power should not be disregarded.[4]
+
 ## References
 1. Badlands Brief — "AI Can Help Us Expose the NWO", URL: https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo
 2. Badlands Brief — "Artificial Intelligence", URL: https://badlands.substack.com/p/artificial-intelligence
 3. Badlands Brief — "Arctic Escalation and Tropic Trouble for the Financial System", URL: https://badlands.substack.com/p/badlands-brief-02a
+4. Badlands News Brief — "Deflated Balloons, Sketchy AI & Democrat Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-8f9

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [2024-election, ballot-access, fourteenth-amendment, courts, lawfare]
-sources: [raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-7e0.md]
+sources: [raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-8cb.md]
 confidence: medium
 ---
 
@@ -54,9 +54,18 @@ Badlands writer [[ashe-in-america|Ashe in America]] argued in January 2024 that 
 
 She therefore argued the [[supreme-court-of-the-united-states|U.S. Supreme Court]] must rule on the underlying findings when the Colorado GOP and Trump appeals in [[anderson-v-griswold|Anderson v. Griswold]] reached it, rather than deciding the [[fourteenth-amendment|Fourteenth Amendment]] question alone, because "it's never been about ballot access" but about using progressive courts to punish political opponents and neutralize dissent.[4] An uncorrected finding, she warned, could bar military-veteran January 6 attendees such as [[ron-hanks|Ron Hanks]] from running for office and "green light the uniparty's next phase of lawfare-as-election-interference."[4] Colorado, she added, would remain a lawfare battlefield alongside [[tina-peters|Tina Peters]]' February 2024 trial and a concurrent trial challenging First Amendment activity by the Colorado grassroots.[4]
 
+## Supreme Court grants certiorari (January 2024)
+
+The [[supreme-court-of-the-united-states|U.S. Supreme Court]] accepted a petition for immediate review of the [[colorado-supreme-court|Colorado Supreme Court]] decision striking former President [[donald-trump|Donald Trump]] from the 2024 presidential ballot, with the procedural order reading simply, "The petition for a writ of certiorari is granted."[6] Oral arguments were scheduled for February 8, with petitioners' and amicus briefs due by January 18, respondents' and amicus briefs by January 31, and any reply briefs by February 5.[6]
+
+The Colorado Supreme Court had disqualified Trump as a candidate on December 19 in an order that left little chance for the actual removal of his name from the ballot.[6] On December 27 the Colorado Republican Party filed a petition with the U.S. Supreme Court asking three separate questions regarding the application of Section 3 of the [[fourteenth-amendment|Fourteenth Amendment]] and political parties' First Amendment rights to primary their candidate of choice; on January 3 Trump filed a separate petition posing the simpler question of whether the Colorado Supreme Court had erred.[6] The justices took up Trump's petition and had not yet acted on the Colorado GOP's.[6]
+
+[[ashe-in-america|Ashe in America]] quoted the GOP petition's warning that "the Colorado court has unleashed harms which will creep beyond Colorado's borders," and expressed surprise at both the quality of the filing and the willingness of Colorado GOP attorney Chris Murray to fight the case, noting he was outperforming Scott Gessler's two prior failures.[6] She observed that Murray works for the law firm Brownstein, Hyatt, Farber and Schreck, the registered lobbyist for [[dominion-voting-systems|Dominion Voting Systems]], calling the elections industry "weirdly incestuous" and urging a return to locally controlled precinct-level elections.[6] She also pushed back on weekend clickbait claiming Secretary of State [[jena-griswold|Jena Griswold]] had said she would not count Trump's votes, clarifying that Griswold had said only that if the justices upheld the Colorado decision, Trump would be disqualified and his votes would not count under Colorado law permitting only "qualified" candidates' ballots to be counted.[6] The outcome, she argued, would affect many candidates because everything turned on the insurrection finding, which "must be found to be improper."[6]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: The Witch Hunt Hits a Few Snags as the Landscape Shifts", URL: https://badlands.substack.com/p/badlands-news-brief-2a0
 2. Badlands Brief — "Badlands News Brief: Kash Unleashed, Zelensky Abandoned & Trump Championed", URL: https://badlands.substack.com/p/badlands-news-brief-356
 3. Badlands Brief — "Teflon Don Marches Into the New Year as Biden Stumbles", URL: https://badlands.substack.com/p/badlands-news-brief-37f
 4. Badlands Brief — "Badlands News Brief: Hypocrisy Roundup & Rug-pulls Galore", URL: https://badlands.substack.com/p/badlands-news-brief-378
 5. Badlands Brief — "Badlands News Brief: The Deep State Death Spiral Has Only Just Begun", URL: https://badlands.substack.com/p/badlands-news-brief-7e0
+6. Badlands Brief — "SCOTUS Enters the Fray as Biden Barks at MAGA Hats", URL: https://badlands.substack.com/p/badlands-news-brief-8cb

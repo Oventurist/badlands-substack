@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, host, podcast, narrative-warfare]
-sources: [raw/badlands-media-show-schedule-c28.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-blast.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-6b6.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-7ad.md]
+sources: [raw/badlands-media-show-schedule-c28.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-blast.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-6b6.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-8f4.md]
 confidence: medium
 ---
 
@@ -77,6 +77,18 @@ In March 2023, Just Human examined the United States effort against smuggling an
 
 In the June 8, 2023 [[badlands-media|Badlands Media]] brief, [[burning-bright|Burning Bright]] credited Just Human with the argument that a further indictment of [[donald-trump|Donald Trump]] would provide narrative shielding to the [[justice-department|DOJ]] for future indictments of former heads of state, while establishing legal and psychological templates for such prosecutions.[15]
 
+## Ukraine oversight and J6 subpoenas (February 2023)
+
+In the February 23, 2023 news brief, Just Human wrote that congressional committees were "delivering on their promises," pointing to the [[house-oversight-committee|House Oversight Committee]] demand for an accounting of [[ukraine-aid-funding-controversy|Ukraine spending]] and arguing that the effort coincided with a shift in [[congress|Congress]] and among the public against further aid.[16] He noted that it paired well with work by the [[department-of-defense-office-of-inspector-general|DoD Office of Inspector General]] and other inspectors general, citing the OIG's "Oversight Update: Ukraine Assistance" document describing five potential planned oversight projects.[16]
+
+Commenting on special counsel [[jack-smith|Jack Smith]]'s subpoenas to [[ivanka-trump|Ivanka Trump]] and [[jared-kushner|Jared Kushner]], he predicted that Smith would clear [[donald-trump|Donald Trump]] and his team of wrongdoing while gathering evidence of [[2020-election-fraud-claims|2020 election fraud]] and of what he termed the January 6 coup against Trump, likely indicting figures from both parties — developments he characterized as good news.[16]
+
+## Nord Stream analysis, March 2023
+
+Just Human provided the Badlands commentary on the March 7, 2023 [[new-york-times|New York Times]] report that new U.S. intelligence pointed to a pro-Ukrainian group as responsible for the [[nord-stream-sabotage|Nord Stream sabotage]], calling it "remarkable" that the paper was receiving leaks from intelligence officials and shifting from "Russia and Putin did it!" to suggestions of Ukrainian responsibility.[17] He noted that the article referenced [[seymour-hersh|Seymour Hersh]]'s Substack account of the attack, and said the piece was "ripe with factoids and indicators of note" for readers willing to apply a "fake news filter."[17]
+
+Among the details he flagged were that no Americans or Britons were involved, that state-actor involvement was unconfirmed, that the explosives were planted without help from a military or intelligence agency though the perpetrators may have "received specialized government training in the past," that Ukrainian involvement "could upset the delicate relationship between Ukraine and Germany," and that officials had "limited visibility into Ukrainian decision-making."[17] Turning to the parallel [[zeit-online|Zeit Online]] investigation, he observed that the German account offered "VERY specific details" — the vessel, its rental, the departure point and timing, and explosive residue left on a cabin table — while conceding it could be false.[17] His conclusion was that overlaying the Hersh story, the Times report, the Zeit Online piece and OSINT material with sound deduction would bring readers closer to the truth, forming what he described, invoking [[burning-bright|Burning Bright]]'s phrasing, as "a constellation of facts, information and possibilities."[17]
+
 ## References
 1. Badlands Media — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-c28
 2. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-e18
@@ -93,3 +105,5 @@ In the June 8, 2023 [[badlands-media|Badlands Media]] brief, [[burning-bright|Bu
 13. Badlands Media — "Badlands News Brief: PsyActs, Leakers & Color Revolutions", URL: https://badlands.substack.com/p/badlands-news-brief-6e3
 14. Badlands Brief — "J6 Exposure, Biden's Brain and Trump's Agenda", URL: https://badlands.substack.com/p/badlands-news-brief-644
 15. Badlands Brief — "The Wall Are Closing in Again! (And Other Stories)", URL: https://badlands.substack.com/p/badlands-news-brief-7ad
+16. Badlands Brief — "Badlands News Brief: Putin Postures, Voting Matters & J6 Subpoenas", URL: https://badlands.substack.com/p/badlands-news-brief-8c5
+17. Badlands Brief — "Badlands News Brief: January 6 and Nord Stream Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-8f4

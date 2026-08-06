@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [classified-records, joe-biden, national-archives, special-counsel]
-sources: [raw/badlands-news-brief-082.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-68f.md]
+sources: [raw/badlands-news-brief-082.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-8f1.md]
 confidence: medium
 ---
 
@@ -45,6 +45,12 @@ The Wall Street Journal reported in January 2023 that the [[justice-department|J
 
 [[burning-bright|Burning Bright]] framed the report as "seeding" that added spice to the merging Hunter laptop and Biden documents storylines, noting that this episode also featured the FBI and that a highly respected mainstream outlet doing the reporting left "a copious amount of egg on the face of the U.S. Administrative State."[5] He observed that the public was being told the DOJ appeared to be covering for the Bidens, whether or not that was entirely true, and argued that how the public came to view the U.S. intelligence agencies through the saga bore watching.[5]
 
+## Reports of no charges (November 2023)
+
+In mid-November 2023, multiple reports citing sources familiar with the matter indicated that following a "thorough investigation," Special Counsel [[robert-hur|Robert Hur]] was unlikely to charge anyone in connection with the classified document scandal.[6] Hur's report was expected to sharply criticize [[joe-biden|Biden]] and his aides for their handling of classified documents — described by [[zerohedge|ZeroHedge]] as the standard treatment for a protected establishment class whose name does not end in Trump.[6] The outcome was said to raise obvious questions about [[department-of-justice|DOJ]] sham investigations: if a special counsel probe into potential mishandling of sensitive national documents produces only criticism and no legal repercussions, commentators asked what message that sends about accountability at the highest levels of government.[6]
+
+The investigation, begun in January 2023 after Hur's appointment by Attorney General [[merrick-garland|Merrick Garland]], had spanned nearly a year and involved interviews with roughly 100 Biden aides, including [[hunter-biden|Hunter Biden]], who separately faced federal gun charges; the president himself was interviewed the previous month.[6] [[white-house|White House]] Counsel's Office spokesperson [[ian-sams|Ian Sams]] confirmed the president's interview in a statement.[6] ZeroHedge noted that Hunter Biden had listed Joe Biden's Wilmington, Delaware home — where classified documents were found — as his address when receiving $260,000 in Chinese wire transfers tied to the family's dealings with CCP-linked businessmen.[6]
+
 ## References
 
 1. Badlands Brief — "Tucker, Fauci, Biden & Biology", URL: https://badlands.substack.com/p/badlands-news-brief-082
@@ -52,3 +58,4 @@ The Wall Street Journal reported in January 2023 that the [[justice-department|J
 3. Badlands Brief — "Badlands News Brief: Media Panic, Elitist Advances & Dead Chickens", URL: https://badlands.substack.com/p/badlands-news-brief-2f8
 4. Badlands News Brief — "COVID Coverups, Globalist Schemes and Epstein's Shadow", URL: https://badlands.substack.com/p/badlands-news-brief-580
 5. Badlands News Brief — "Bidens, UFOs and Vaccines", URL: https://badlands.substack.com/p/badlands-news-brief-68f
+6. Badlands News Brief — "Dictators, Sovereigns and Bipartisan Peace", URL: https://badlands.substack.com/p/badlands-news-brief-8f1

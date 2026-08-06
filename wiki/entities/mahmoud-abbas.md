@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [palestinian-authority, israel-palestine-conflict, diplomacy]
-sources: [raw/badlands-news-brief-030.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-721.md]
+sources: [raw/badlands-news-brief-030.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-8ce.md]
 confidence: medium
 ---
 
@@ -48,6 +48,11 @@ In August 2024 Abbas travelled to Moscow, where Russian President [[vladimir-put
 
 Commentary in the Badlands News Brief noted that President [[donald-trump|Donald Trump]] wrote to Palestinian president Abbas after the Butler assassination attempt in 2024, promising him that everything was going to be okay.[6] Trump posted the exchange nine days after receiving Abbas's letter, on the night before [[benjamin-netanyahu|Benjamin Netanyahu]] was scheduled to deliver a widely panned speech about Iran to Congress.[6] Analysts framed the [[palestinian-authority|Palestinian Authority]] under Abbas as a "third suitor" for control of [[gaza|Gaza]], distinguishing the situation from disputed territories with only two claimants.[6]
 
+
+## September 2025 UN address by video
+
+At the September 22, 2025 summit in New York supporting [[palestinian-statehood|Palestinian statehood]], Abbas said the [[palestinian-authority|Palestinian Authority]] would form the government of the West Bank and Gaza, with no role for [[hamas|Hamas]].[7] The United States denied him a visa to attend the events in New York, so he addressed the meeting by video.[7] Speaking to the people of Israel, he said: "Our future and yours depends on peace. Enough war."[7]
+
 ## References
 1. Badlands Brief — "Rare Earths, Rogue Judges, & Record Downward Revisions", URL: https://badlands.substack.com/p/badlands-news-brief-030
 2. Badlands News Brief — "Jordanian Jam Sessions, Unpaused Loans, & Disbanded Brotherhoods", URL: https://badlands.substack.com/p/badlands-news-brief-079
@@ -55,3 +60,4 @@ Commentary in the Badlands News Brief noted that President [[donald-trump|Donald
 4. Badlands News Brief — "The Week of Rage Continues ... Biden to the Rescue?", URL: https://badlands.substack.com/p/badlands-news-brief-28e
 5. Badlands Brief — "Hacks Explain Hacks to other Hacks", URL: https://badlands.substack.com/p/badlands-news-brief-6aa
 6. Badlands News Brief — "Post Mortems, Dog Fights, & Flight Risks", URL: https://badlands.substack.com/p/badlands-news-brief-721
+7. Badlands Brief — "Palestinian Promises, Venezuelan Ventures, & Kazakh Considerations", URL: https://badlands.substack.com/p/badlands-news-brief-8ce

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fbi, arctic-frost, lawfare, january-6]
-sources: [raw/badlands-news-brief-060.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-780.md, raw/badlands-news-brief-79c.md]
+sources: [raw/badlands-news-brief-060.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-780.md, raw/badlands-news-brief-79c.md, raw/badlands-news-brief-8f9.md]
 confidence: medium
 ---
 
@@ -54,6 +54,10 @@ Badlands contributor [[burning-bright|Burning Bright]] characterized the stateme
 
 Wray was the recipient of sustained congressional pressure over the [[january-5-2021-pipe-bombs|pipe bombs placed at the DNC and RNC headquarters]] on January 5, 2021.[8] In early 2023 he told Fox News anchor Bret Baier that the bureau was working very hard on the case, while refusing to discuss informants or agents who might have been involved on January 6.[8] In May 2023 [[house-judiciary-committee|House Judiciary Committee]] chairman [[jim-jordan|Jim Jordan]], Representative [[andy-biggs|Andy Biggs]] and Representative [[bill-posey|Bill Posey]] wrote to Wray documenting briefing requests dating to September 2, 2021 that the FBI had left unanswered for more than a year and a half, and citing a whistleblower disclosure raising questions about the "unusual" nature of the investigation.[8]
 
+## February 2023 House Judiciary subpoena
+
+In early February 2023, Wray was subpoenaed by the [[house-judiciary-committee|House Judiciary Committee]] under Chairman [[jim-jordan|Jim Jordan]] over the [[doj-school-board-memo-2021|2021 Justice Department memo]] on threats against school board members, in the committee's first subpoenas of the new Congress; Attorney General [[merrick-garland|Merrick Garland]] and Education Secretary [[miguel-cardona|Miguel Cardona]] were served at the same time.[9]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Quantum Tunneling, Natural Conflicts, & Pirates for Gaza", URL: https://badlands.substack.com/p/badlands-news-brief-060
@@ -64,3 +68,4 @@ Wray was the recipient of sustained congressional pressure over the [[january-5-
 6. Badlands Brief — "It’s Our Failed ‘Resistance’ and We Can Cry if We Want To", URL: https://badlands.substack.com/p/badlands-news-brief-656
 7. Badlands Brief — "Badlands News Brief: US Carriers, FBI Warnings & Election Wins", URL: https://badlands.substack.com/p/badlands-news-brief-780
 8. Badlands Brief — "Badlands News Brief: Target Tumbles, Trump Tops & Feds Fabricate", URL: https://badlands.substack.com/p/badlands-news-brief-79c
+9. Badlands News Brief — "Deflated Balloons, Sketchy AI & Democrat Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-8f9

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [actblue, campaign-finance, money-laundering, democrats, fundraising]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-1ef.md, raw/badlands-brief-b62.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8a9.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-1ef.md, raw/badlands-brief-b62.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-91b.md]
 confidence: medium
 ---
 
@@ -73,6 +73,10 @@ On June 25, 2025, ActBlue officials were summoned to testify before House Republ
 
 In April 2025 President [[donald-trump|Donald Trump]] issued the [[2025-straw-donor-and-foreign-contributions-investigation-memorandum|Investigation into Unlawful "Straw Donor" and Foreign Contributions in American Elections]], directing the Attorney General, in consultation with the Secretary of the Treasury, to investigate the use of online fundraising platforms to make straw, dummy or foreign contributions and to report back through the Counsel to the President within 180 days.[9] The memorandum cited 52 U.S.C. 30121 and 30122 and pointed to press reports and congressional committee investigations suggesting platforms had been willing participants in laundering excessive and prohibited contributions.[9] Badlands contributor [[canncon|CannCon]] described the directive as "the ActBlue memorandum" and predicted that many additional fundraising platforms on both sides of the aisle — [[winred|WinRed]] among them — would be drawn into the same inquiry.[9]
 
+## 2025 foreign money laundering subpoena
+
+In July 2025 it was announced that ActBlue had been subpoenaed over ostensible foreign money laundering.[10] Reporting the development in the [[badlands-news-brief|Badlands News Brief]], [[ashe-in-america|Ashe in America]] highlighted that [[perkins-coie|Perkins Coie]] and later the [[elias-law-group|Elias Law Group]] had advised ActBlue on legal compliance, tying the platform's exposure to Democratic election attorney [[marc-elias|Marc Elias]], who the same week lost a federal challenge to [[wyoming-house-bill-156|Wyoming House Bill 156]].[10]
+
 ## References
 1. Badlands Brief — "Mixed Gender Crews, Trafficking Stings, & Shadow Cabal Reruns", URL: https://badlands.substack.com/p/badlands-brief-029
 2. Badlands Brief — "Self Incrimination, Crime Magnets, & Gay Tourism", URL: https://badlands.substack.com/p/badlands-brief-1ef
@@ -83,3 +87,4 @@ In April 2025 President [[donald-trump|Donald Trump]] issued the [[2025-straw-do
 7. Badlands Brief — "Badlands News Brief: Predictable Pandemics & A Thespian's Next Steps", URL: https://badlands.substack.com/p/badlands-news-brief-4a9
 8. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
 9. Badlands Brief — "Badlands News Brief: Ongoing Judicial Coups. Newly Jailed Judges.", URL: https://badlands.substack.com/p/badlands-news-brief-8a9
+10. Badlands Brief — "Badlands News Brief: The Corruption of Anti-Corruption & Obama Bites Back", URL: https://badlands.substack.com/p/badlands-news-brief-91b

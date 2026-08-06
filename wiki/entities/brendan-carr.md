@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fcc, telecommunications, regulation, internet, biden-administration]
-sources: [raw/badlands-news-brief-12b.md, raw/badlands-news-brief-1ba.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-505.md]
+sources: [raw/badlands-news-brief-12b.md, raw/badlands-news-brief-1ba.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-8d6.md]
 confidence: medium
 ---
 
@@ -36,9 +36,14 @@ On July 24, 2025, as chairman of the [[federal-communications-commission|Federal
 
 When the Federal Communications Commission reaffirmed in December 2023 its refusal to grant SpaceX's Starlink unit $885.5 million in rural broadband subsidies, Commissioner Brendan Carr dissented alongside the commission's other Republican member.[4] Carr said the FCC was joining "the growing list of administrative agencies that are taking action against Elon Musk's businesses" and argued that the decision "certainly fits the Biden Administration's pattern of regulatory harassment."[4] The dissenters also contended that the agency was improperly holding SpaceX to 2025 performance targets three years early.[4]
 
+## Senate testimony over the Kimmel suspension (2025)
+
+Carr agreed to testify before a Senate panel after receiving backlash from both sides of the political aisle over his perceived role in the brief suspension of comedian [[jimmy-kimmel|Jimmy Kimmel]] from late-night television.[5] Semafor first reported, citing an unnamed source familiar with the matter, that Carr would appear before the Senate Commerce Committee in November 2025, and a committee spokesperson later confirmed the reporting to NBC News; an exact date and the subjects to be discussed had yet to be revealed.[5] Carr had drawn criticism the previous month after pressuring broadcasters to "take action" against Kimmel over comments he made in the wake of the [[assassination-of-charlie-kirk|assassination of conservative activist Charlie Kirk]]; ABC suspended Kimmel's show shortly afterwards but returned him to the air within days.[5]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: The Establishment is Collapsing from Within", URL: https://badlands.substack.com/p/badlands-news-brief-12b
 2. Badlands Brief — "Badlands News Brief: TrumpaMania Reigns ... with a Russian Twist", URL: https://badlands.substack.com/p/badlands-news-brief-1ba
 3. Badlands Brief — "Badlands News Brief: Non-Binding Motions & Psycho-Emotional Problems", URL: https://badlands.substack.com/p/badlands-news-brief-3ab
 4. Badlands Media — "Badlands News Brief: The Biden Crime Family Begins to Unravel ...", URL: https://badlands.substack.com/p/badlands-news-brief-505
+5. Badlands Brief — "Badlands News Brief: Inadvertent Israeli Attacks, Delightful Deep Fakes, & A Suing Shaman", URL: https://badlands.substack.com/p/badlands-news-brief-8d6

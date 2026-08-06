@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [maga, media, war-room, epstein-files, kayfabe]
-sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-7c6.md, raw/badlands-brief-a1a.md, raw/badlands-brief-c7b.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-899.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-7c6.md, raw/badlands-brief-a1a.md, raw/badlands-brief-c7b.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-914.md]
 confidence: medium
 ---
 
@@ -101,6 +101,16 @@ In April 2023, Bannon's [[war-room|War Room]] program hosted attorney [[elizabet
 
 In June 2025 Bannon accused Fox News of being controlled by Mossad and called for a FARA investigation into the network.[16] The remark was cited by Badlands commentators arguing that state media organizations and outlets posing as independent corporate media should both be shut down alongside domestic psychological warfare operations run by the intelligence community.[16]
 
+## Release from prison (October 2024)
+
+Bannon was released from federal prison on October 29, 2024, after serving four months for contempt of Congress, having been held at the Federal Correctional Institution in Danbury, Connecticut.[17] Speaking on his "WarRoom" podcast the same day, the 70-year-old declared that "the four months in federal prison not only didn't break me, it empowered me," adding that he was "more energized and more focused than I've ever been in my entire life."[17] His release followed a federal judge's October 22 denial of his request for early release; he had entered prison in July after the Supreme Court refused to take up his bid to avoid the four-month sentence.[17]
+
+When he began serving the sentence, Bannon called himself a "political prisoner," said he was "proud of going to prison," and framed his imprisonment as standing up to Attorney General [[merrick-garland|Merrick Garland]] and what he termed a "corrupt" Justice Department.[17] A jury had convicted him in 2022 on two counts of [[contempt-of-congress|contempt of Congress]] after he refused to comply with subpoenas from the House select committee investigating the January 6, 2021 Capitol breach; Bannon maintained that former President [[donald-trump|Donald Trump]] had extended executive privilege over his testimony, and his attorney [[david-schoen|David Schoen]] told the U.S. Court of Appeals for the D.C. Circuit that the district court had wrongly excluded evidence that another attorney had advised Bannon he need not comply because of that privilege.[17]
+
+### Badlands commentary
+
+[[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] welcomed the release, recounting the widely circulated story that when the Billy Bush tape surfaced in October 2016, Trump's advisers urged him to step aside in favor of Mike Pence, and that Bannon — who had joined the campaign only weeks earlier — was the lone voice telling Trump the American people were with him and that he should stand in the breach.[17] On that basis the commentator argued that Bannon's 2017 "firing" from the White House was kayfabe, staged so that Bannon could leave a media spotlight that had become obsessive and instead build a new media apparatus, which he duly did.[17] He further suggested the four-month absence functioned as a stress test for the wider movement, revealing who could hold together under pressure, and highlighted Bannon's prison anecdotes about befriending minority and Muslim inmates, his remarks on the "politics of money" and the Great Awakening, and his line that "politics is nothing more than professional wrestling."[17]
+
 ## References
 1. Badlands Brief — "A Virtual Smash & Grab & Another Impeachment Hoax", URL: https://badlands.substack.com/p/badlands-brief-0a2
 2. Badlands Brief — "The Democratization of Narrative Distribution. And a New War with Iran.", URL: https://badlands.substack.com/p/badlands-brief-7c6
@@ -118,3 +128,4 @@ In June 2025 Bannon accused Fox News of being controlled by Mossad and called fo
 14. Badlands Brief — "Badlands News Brief: Orange Friday, Election Action, & McKinsey's Gives Advice", URL: https://badlands.substack.com/p/badlands-news-brief-71f
 15. Badlands Brief — "GART is Here! Plus, Exposure & Disclosure Abound", URL: https://badlands.substack.com/p/badlands-news-brief-7e6
 16. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
+17. Badlands Brief — "Badlands News Brief: Trump Tours, Bannon Breaks Out & Israel Hesitates", URL: https://badlands.substack.com/p/badlands-news-brief-914

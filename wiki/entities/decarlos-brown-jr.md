@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [crime, charlotte, north-carolina, mental-illness, bail-reform]
-sources: [raw/badlands-news-brief-030.md, raw/badlands-news-brief-6e5.md]
+sources: [raw/badlands-news-brief-030.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-8cd.md]
 confidence: medium
 ---
 
@@ -30,6 +30,11 @@ Harrowing video appeared to show [[iryna-zarutska|Zarutska]] board the train and
 
 [[ashe-in-america|Ashe in America]] wrote that Dewitt's account accurately described life with a schizophrenic loved one and used it to indict the [[united-states-mental-health-system|United States mental health system]] as bureaucratic, immoral, and a public safety threat.[2] She noted theories that the killing was a skilled hit with a geopolitical motive — Brown's talk of implanted "materials" evoking MK Ultra and Jason Bourne-style speculation — but concluded that schizophrenia best fit the evidence, including audio of Brown after his arrest.[2] She nonetheless argued Brown should receive the death penalty, quoting his statement that "whoever was controlling the material lashed out at her" and asking at whom else such individuals would lash out.[2]
 
+## Media aftermath
+
+The case, in which Brown — described in reporting as a homeless and mentally ill man — was arrested for the murder of [[iryna-zarutska|Iryna Zarutska]] on August 22, 2025, received extensive attention on [[fox-news|Fox News]] after the release of security video of the stabbing.[3] Discussion of the case on "Fox & Friends" produced a controversy when host [[brian-kilmeade|Brian Kilmeade]] suggested "involuntary lethal injection" for mentally ill homeless people who refuse services, a remark he later apologized for while stating he was "obviously aware that not all mentally ill, homeless people act as the perpetrator did in North Carolina."[3]
+
 ## References
 1. Badlands Brief — "Rare Earths, Rogue Judges, & Record Downward Revisions", URL: https://badlands.substack.com/p/badlands-news-brief-030
 2. Badlands Brief — "Badlands News Brief: Manhunts, Mental Health, & the Mother of a Monster", URL: https://badlands.substack.com/p/badlands-news-brief-6e5
+3. Badlands Brief — "Badlands News Brief: Vigils, Vanguards, & Various Investigations", URL: https://badlands.substack.com/p/badlands-news-brief-8cd

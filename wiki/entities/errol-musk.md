@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [musk-family, commentary, russia]
-sources: [raw/badlands-news-brief-155.md]
+sources: [raw/badlands-news-brief-155.md, raw/badlands-news-brief-8f0.md]
 confidence: medium
 ---
 
@@ -18,5 +18,12 @@ Speaking to journalists in Moscow in June 2025, where he was attending a technol
 
 The dispute had escalated over Trump's "Big Beautiful" tax and spending bill, which Elon Musk criticized as undermining the budget-trimming work of [[doge|the Department of Government Efficiency]].[1] Badlands commentary treated the elder Musk's Moscow remarks as a public signal that a reconciliation between the two men was already in motion.[1]
 
+## Fears of assassination (2023)
+
+In September 2023, Errol Musk — a retired electromechanical engineer then aged 77 — told [[the-sun|The U.S. Sun]] that he had serious concerns for the safety of his firstborn son, [[elon-musk|Elon Musk]], fearing the world's richest man could be assassinated for going up against the US government.[2] Elon Musk was at the time weathering a flurry of legal attacks from the [[department-of-justice|Department of Justice]] and negative press, after [[joe-biden|President Joe Biden]] suggested in July that "there's a lot of ways" of investigating the tech tycoon.[2]
+
+Reacting to [[ronan-farrow|Ronan Farrow]]'s [[new-yorker|New Yorker]] piece "Elon Musk's Shadow Rule," Errol Musk called it "a hit job, a shadow government-sponsored opening salvo on Elon" and "the artillery-like softening up of the enemy before the actual attack and preparing of the ever-submissive people for the attack."[2] Asked whether he feared the "shadow government" would try to assassinate his son, he answered "Yes."[2] He said he had previously warned Elon to beef up his security and that his son shared the same fear.[2] Badlands contributor [[burning-bright|Burning Bright]] found the comments "relatively dramatic in context" but treated their circulation as a notable development in the [[information-war|War of Stories]].[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: California Crossroads, Selective Insurrection, & Irian Limits", URL: https://badlands.substack.com/p/badlands-news-brief-155
+2. Badlands Brief — "Badlands News Brief: The Turns on COVID, Ukraine & the Establishment Have Begun", URL: https://badlands.substack.com/p/badlands-news-brief-8f0

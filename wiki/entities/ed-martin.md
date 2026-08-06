@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [doj, lawfare, maga, narrative]
-sources: [raw/badlands-brief-314.md, raw/badlands-brief-6f0.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-7bf.md]
+sources: [raw/badlands-brief-314.md, raw/badlands-brief-6f0.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-8dc.md]
 confidence: low
 ---
 
@@ -52,6 +52,12 @@ As newly appointed Pardon Attorney, Martin confirmed in May 2025 that pardons is
 
 A prominent America First voice, Martin had initially served President [[donald-trump|Donald Trump]] as Interim U.S. Attorney for the District of Columbia but could not continue after Senator Thom Tillis (R-NC) blocked his confirmation; Trump instead appointed him Pardon Attorney and leader of a Weaponization Working Group in the Department of Justice.[7] Martin's confirmation came as House Oversight Committee Chairman [[james-comer|James Comer]] (R-KY) said investigators had found that not only the pardons but many of Biden's executive orders being used by courts to "Trump-proof" policy "were all signed with the autopen."[7] See [[autopen-scandal|autopen scandal]].[7]
 
+## 2025 confirmation fight for US attorney for Washington, DC
+
+In May 2025, Martin was President [[donald-trump|Donald Trump]]'s nominee to serve as US attorney for Washington, DC, a nomination that faced a difficult confirmation process in the Senate.[8] Trump personally made calls to Republican senators on Martin's behalf, an intervention that had not previously been reported, in an effort to persuade a handful of skeptical Republicans whose opposition put the nomination at risk.[8] The White House and the [[department-of-justice|Department of Justice]] shepherded Martin through the turbulent process, including helping him complete mandated disclosure forms and other paperwork.[8]
+
+Martin failed to disclose nearly 200 media appearances in his initial disclosures, and under oath told members of the [[senate-judiciary-committee|Senate Judiciary Committee]] that he did not recall some of his most controversial past statements.[8] Badlands commentary linked the delay to [[kash-patel|Kash Patel]]'s argument in *Government Gangsters* that the DC US attorney confirmation is a key position, suggesting the holdup was deliberate.[8]
+
 ## References
 1. Badlands Brief — "Nationalized Elections, Nazi Bankers & Sovereign Shielding", URL: https://badlands.substack.com/p/badlands-brief-314
 2. Badlands Brief — "The Bibi Break-Up Begins, As Does The IC Purge...", URL: https://badlands.substack.com/p/badlands-brief-6f0
@@ -60,3 +66,4 @@ A prominent America First voice, Martin had initially served President [[donald-
 5. Badlands Media — "Badlands News Brief: Nuclear Negotiations, Ethics Probes, & American iPhones", URL: https://badlands.substack.com/p/badlands-news-brief-2d5
 6. Badlands Brief — "Badlands News Brief: Energy EOs, Game-Changing AI, & Jewish Election Fraud", URL: https://badlands.substack.com/p/badlands-news-brief-32e
 7. Badlands News Brief — "The Bilateral Bromance & A Misled Grand Jury", URL: https://badlands.substack.com/p/badlands-news-brief-7bf
+8. Badlands Brief — "Badlands News Brief: Gazan Seizures & Gay Porn Scandals", URL: https://badlands.substack.com/p/badlands-news-brief-8dc

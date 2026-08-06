@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fbi, law-enforcement, trump-administration]
-sources: [raw/badlands-brief-d9f.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-656.md]
+sources: [raw/badlands-brief-d9f.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-8fd.md]
 confidence: medium
 ---
 
@@ -34,6 +34,10 @@ On Wednesday, May 8, 2024, Bailey announced he had filed a motion to block Media
 
 Following the withdrawal of [[matt-gaetz|Matt Gaetz]] and the selection of [[pam-bondi|Pam Bondi]] to lead the Justice Department, Missouri Attorney General Bailey was reported by Axios in November 2024 to be under consideration for director of the [[fbi|FBI]] in the second [[donald-trump|Trump]] administration, alongside [[kash-patel|Kash Patel]]; transition sources said no consensus pick had emerged.[5]
 
+## Warnings on private credit
+
+Ahead of the Bank of England's December 2025 stress test of the private equity and private credit industries, Governor Andrew Bailey had said in October that the collapse of two large US companies — car parts maker First Brands and auto dealership and lender Tricolor — might be a warning of bigger problems to come.[6]
+
 ## References
 
 1. Badlands Brief — "Dueling Color Revolutions, Economic Escalation, & Superseding Somali Scams", URL: https://badlands.substack.com/p/badlands-brief-d9f
@@ -41,3 +45,4 @@ Following the withdrawal of [[matt-gaetz|Matt Gaetz]] and the selection of [[pam
 3. Badlands News Brief — "Unearthed Autopens, Inevitable Ceasefires, & 56 Human Kidneys", URL: https://badlands.substack.com/p/badlands-news-brief-541
 4. Badlands News Brief — "Biden Melts Down as Judges Are Themselves Judged", URL: https://badlands.substack.com/p/badlands-news-brief-5fb
 5. Badlands Brief — "It’s Our Failed ‘Resistance’ and We Can Cry if We Want To", URL: https://badlands.substack.com/p/badlands-news-brief-656
+6. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd

@@ -7,6 +7,7 @@ CRITICAL PATH & FILENAME RULES (prevents stray files at project root):
 
 FRONTMATTER RULES (canonical, mandatory):
 - Every page MUST have complete frontmatter: title, created, updated, type, tags, sources, confidence. Use today's date (2026-08-06) for `created` on new pages and `updated` on all pages touched.
+- CRITICAL YAML RULE: the `title:` value MUST be double-quoted when it contains a colon, quote, or other special character — e.g. `title: "JFK: What the Doctors Saw"` (unquoted colons break the site build). Simple titles without special chars may stay unquoted, but quoting all titles is safest.
 - sources MUST be a single inline line in this exact form: `sources: [raw/<file>.md, raw/<file>.md]` — with the `raw/` prefix, comma-separated, inside square brackets. NEVER use a YAML list. NEVER omit the `raw/` prefix.
 
 CITATION RULES (Wikipedia-style numbered inline citations — MANDATORY):
@@ -41,4 +42,4 @@ INGEST PROCEDURE (run every tick):
 QUALITY BAR: real Wikipedia cadence, full coverage of the source, inline [n] citations on every substantive claim, ## References section at the bottom of every page, inline links only to existing/created pages, kebab-case filenames only, always merge into existing pages under the page lock and append sources. Canonical sources: [raw/...] inline form ONLY.
 
 
-CURRENT ARTICLE TO INGEST: C:\Users\14053\hermes-projects\badlands-substack\raw\badlands-news-brief-860.md
+CURRENT ARTICLE TO INGEST: C:\Users\14053\hermes-projects\badlands-substack\raw\badlands-news-brief-960.md

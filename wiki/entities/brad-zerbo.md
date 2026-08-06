@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, filmmaker, september-11, gart]
-sources: [raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-721.md]
+sources: [raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-91b.md]
 confidence: medium
 ---
 
@@ -34,6 +34,10 @@ In September 2025, after [[tucker-carlson|Tucker Carlson]] claimed on [[piers-mo
 
 Zerbo's original film *CODEX 911* was slated to premiere at the GART Deadwood event, and [[badlands-media|Badlands Media]] promoted the premiere as a leading reason to obtain tickets.[5] Viewers unable to attend in person were offered a virtual ticket option to take part in the premiere.[5]
 
+## "September 11th 2001" feature and CODEX 911
+
+In July 2025 Zerbo published a personal Substack feature titled "September 11th 2001," recounting being woken by his friend Sal on the morning of the attacks — "Brad wake up! … a bomb just went off in one of the Towers" — and watching United Flight 175 explode into the second tower as the two walked into the kitchen.[6] He wrote that "everything changed" in that moment, that it was when "Flight 11 became no accident, and crisis became King," and that the event would shape the rest of his life.[6] [[badlands-media|Badlands Media]] promoted the piece as the filmmaker's back story and the source of his personal inspiration for [[codex-911|CODEX 911]], which premiered at [[gart-9-deadwood|GART Deadwood]] and was available for early screening to virtual ticket holders.[6]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Epstein Angst, Autopen Privilege, & Migrant Cash Cards", URL: https://badlands.substack.com/p/badlands-news-brief-1a7
@@ -41,3 +45,4 @@ Zerbo's original film *CODEX 911* was slated to premiere at the GART Deadwood ev
 3. Badlands Brief — "Badlands News Brief: Pardon Probes & Russia Gate Redux", URL: https://badlands.substack.com/p/badlands-news-brief-58e
 4. Badlands Brief — "Manhunts, Mental Health, & the Mother of a Monster", URL: https://badlands.substack.com/p/badlands-news-brief-6e5
 5. Badlands News Brief — "Post Mortems, Dog Fights, & Flight Risks", URL: https://badlands.substack.com/p/badlands-news-brief-721
+6. Badlands Brief — "Badlands News Brief: The Corruption of Anti-Corruption & Obama Bites Back", URL: https://badlands.substack.com/p/badlands-news-brief-91b

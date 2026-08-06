@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [dhs, immigration, border-security, trafficking, funding]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-165.md, raw/badlands-brief-323.md, raw/badlands-brief-4ec.md, raw/badlands-brief-52f.md, raw/badlands-brief-5a2.md, raw/badlands-brief-7bf.md, raw/badlands-brief-861.md, raw/badlands-brief-990.md, raw/badlands-brief-c07.md, raw/badlands-brief-e9e.md, raw/badlands-brief-e87.md, raw/badlands-brief-e3b.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-889.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-165.md, raw/badlands-brief-323.md, raw/badlands-brief-4ec.md, raw/badlands-brief-52f.md, raw/badlands-brief-5a2.md, raw/badlands-brief-7bf.md, raw/badlands-brief-861.md, raw/badlands-brief-990.md, raw/badlands-brief-c07.md, raw/badlands-brief-e9e.md, raw/badlands-brief-e87.md, raw/badlands-brief-e3b.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-919.md]
 confidence: medium
 ---
 
@@ -133,6 +133,14 @@ Badlands commentary noted that DHS posted on X that no such requirement existed 
 
 On August 28, 2024, DHS Secretary [[alejandro-mayorkas|Alejandro Mayorkas]] announced that more than $380 million in Shelter and Services Program grants would go to state and local governments and to non-governmental organizations providing food, shelter, clothing, acute medical care and transportation to migrants recently released from DHS custody while awaiting immigration court proceedings.[22] The SSP was created by the Biden-Harris administration and funded by Congress to channel taxpayer money to cities and NGOs assisting in resettling migrants released into the US interior from the southern border.[22] The award followed an earlier round of hundreds of millions of dollars in 2024.[22] Badlands Media characterized the program as a slush fund and argued that the department was incentivizing sanctuary cities and NGOs while obscuring the flow of money through non-profits.[22]
 
+## Shelter and Services Program grants (August 2024)
+
+On August 28, 2024, DHS Secretary [[alejandro-mayorkas|Alejandro Mayorkas]] announced that more than $380 million in Shelter and Services Program grants would go to state and local governments and to non-governmental organizations providing food, shelter, clothing, acute medical care and transportation to migrants recently released from DHS custody while awaiting immigration court proceedings.[22] The SSP was created by the Biden-Harris administration and funded by Congress to channel taxpayer money to cities and NGOs assisting in resettling migrants released into the US interior from the southern border.[22] The award followed an earlier round of hundreds of millions of dollars in 2024.[22] Badlands Media characterized the program as a slush fund and argued that the department was incentivizing sanctuary cities and NGOs while obscuring the flow of money through non-profits.[22]
+
+## Voting machine seizure question (2020–2023)
+
+Reporting published in April 2023 revealed that former top national security officials had testified to a federal grand jury that they repeatedly told President [[donald-trump|Donald Trump]] and his allies that the government lacked the authority to seize voting machines after the 2020 election.[23] Former acting Homeland Security secretary [[chad-wolf|Chad Wolf]] and his former deputy [[ken-cuccinelli|Ken Cuccinelli]] were questioned about internal administration discussions of DHS seizing voting machines, with Cuccinelli testifying that he "made clear at all times" that DHS had no such authority.[23] Badlands contributor [[just-human|Just Human]] agreed with the legal conclusion, noting that voting machines are the property of the states and localities where they sit and that federal seizure by executive fiat would be a dangerous precedent absent a judicial order.[23]
+
 ## References
 1. Badlands Brief — "Mixed Gender Crews, Trafficking Stings, & Shadow Cabal Reruns", URL: https://badlands.substack.com/p/badlands-brief-029
 2. Badlands Brief — "Trump Conducts the Chaos as the Uniparty Concentrates Fire", URL: https://badlands.substack.com/p/badlands-brief-165
@@ -156,3 +164,4 @@ On August 28, 2024, DHS Secretary [[alejandro-mayorkas|Alejandro Mayorkas]] anno
 20. Badlands Brief — "Unprecedented Opportunities & Rich Men's Tricks", URL: https://badlands.substack.com/p/badlands-news-brief-357
 21. Badlands News Brief — "Post Mortems, Dog Fights, & Flight Risks", URL: https://badlands.substack.com/p/badlands-news-brief-721
 22. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889
+23. Badlands Brief — "Badlands News Brief: Trials Galore, Ukraine Backpedal & The Gold Standard", URL: https://badlands.substack.com/p/badlands-news-brief-919

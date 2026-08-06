@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [2024-election, republican-party, milwaukee, donald-trump, badlands-brief]
-sources: [raw/badlands-news-brief-19b.md, raw/badlands-news-brief-42e.md]
+sources: [raw/badlands-news-brief-19b.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-8ae.md]
 confidence: medium
 ---
 
@@ -30,6 +30,15 @@ Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued tha
 
 Accepting the Republican nomination on Thursday night, Trump boasted that "I will end every single international crisis that the current administration has created, including the horrible war with Russia and Ukraine, which would have never happened if I was president," though the war in Ukraine was not otherwise a major topic at the Milwaukee convention.[2]
 
+## Day 3: Vance's introduction
+
+The convention's third night was devoted both to welcoming [[jd-vance|JD Vance]] as [[donald-trump|Donald Trump]]'s running mate and to blasting President [[joe-biden|Joe Biden]]'s leadership on the world stage.[3] Vance, the 39-year-old Ohio senator, offered his life story as a son of Appalachia to reaffirm Trump's connections to Americans who feel alienated socially, economically, and politically.[3]
+
+Reporting on the evening described the GOP on display as more populist, protectionist, and isolationist: Vance blasted Wall Street and "multinational corporations," hailed Trump as a man who "will stand up for American companies" and "union and nonunion" workers, and spoke of raising wages, battling China in the global marketplace, and making other nations foot the military bill for international security and stability.[3] His nomination effectively coronated him as the heir apparent to Trump's movement, and the night's mix of national security talk, attacks on Biden, and the unveiling of a potential MAGA heir was said to encapsulate what Trump's "America First" agenda means for the party and for the US role as a global superpower.[3] Other takeaways from Day 3 included a January 6 curtain call and continued secrecy about Trump's health following the [[attempted-assassination-of-donald-trump-2024|assassination attempt]] days earlier.[3]
+
+On the convention's first night, July 16, [[cnn|CNN]]'s [[john-king|John King]] used the network's electoral map to argue Trump was on course for a landslide of up to 330 electoral votes, calling Biden's position a "dire strait" sixteen weeks from Election Day.[3]
+
 ## References
 1. Badlands Brief — "Trump Transforms as Biden Goes Into Hiding", URL: https://badlands.substack.com/p/badlands-news-brief-19b
 2. Badlands Brief — "Badlands News Brief: Change of Batter, Indeed …", URL: https://badlands.substack.com/p/badlands-news-brief-42e
+3. Badlands Media — "Badlands News Brief: Vance Takes the Stage as Biden Takes the Basement", URL: https://badlands.substack.com/p/badlands-news-brief-8ae

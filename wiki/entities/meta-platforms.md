@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [facebook, meta, big-tech, cia, free-speech, dei]
-sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-52b.md, raw/badlands-brief-bce.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-7ad.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-52b.md, raw/badlands-brief-bce.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-8ce.md]
 confidence: medium
 ---
 
@@ -60,6 +60,11 @@ The donation marked a sharp reversal in the company's posture. Meta had banned T
 
 In June 2023, a joint investigation by the [[wall-street-journal|Wall Street Journal]] and the [[stanford-internet-observatory|Stanford Internet Observatory]] reported that Meta-owned [[instagram|Instagram]] had hosted an organized and massive network of pedophiles, and that the platform's own recommendation algorithms promoted such content to like-minded users.[9] Researchers documented coded emojis including a map for "minor-attracted person" and "cheese pizza" for child pornography, along with explicit searchable hashtags that connected users to sellers of child-sex material.[9] [[badlands-media|Badlands Media]] commentary by [[justin-deschamps|Justin Deschamps]] contrasted Meta's tolerance of these networks with its banning of accounts posting anti-mainstream content, and compared the episode to YouTube's Elsagate controversy.[9]
 
+
+## Llama approved for federal use
+
+In September 2025 the [[general-services-administration|General Services Administration]] added Meta's artificial intelligence system Llama to the list of AI platforms approved for United States government agencies, after determining it met federal security and legal standards.[10] The system is offered free by Meta and can process text, video, images and audio.[10] Separately, a Meta vice president was among those meeting Kazakh President [[kassym-jomart-tokayev|Kassym-Jomart Tokayev]] in New York on September 22, 2025.[10]
+
 ## References
 
 1. Badlands Brief — "America Has a CIA-Run Economy", URL: https://badlands.substack.com/p/america-has-a-cia-run-economy
@@ -71,3 +76,4 @@ In June 2023, a joint investigation by the [[wall-street-journal|Wall Street Jou
 7. Badlands Brief — "Badlands News Brief: Globalist Rage, Biden Docs & Hockey Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-46e
 8. Badlands Brief — "It Was the Trumpest of TIMEs ...", URL: https://badlands.substack.com/p/badlands-news-brief-61a
 9. Badlands Brief — "The Wall Are Closing in Again! (And Other Stories)", URL: https://badlands.substack.com/p/badlands-news-brief-7ad
+10. Badlands Brief — "Palestinian Promises, Venezuelan Ventures, & Kazakh Considerations", URL: https://badlands.substack.com/p/badlands-news-brief-8ce

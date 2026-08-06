@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [biden-family, congress, subpoena, contempt-of-congress]
-sources: [raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-8ba.md]
+sources: [raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-8ba.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-91b.md]
 confidence: medium
 ---
 
@@ -62,6 +62,14 @@ In April 2024, Hunter Biden threatened to sue [[fox-news|Fox News]] for defamati
 
 The lawyers also demanded that Fox News take down "The Trial of Hunter Biden," a six-part mock trial focused on his foreign business dealings.[10] Tina Glandian, a partner at Geragos & Geragos, wrote that "while routinely defaming and disparaging Mr. Biden, FOX has simultaneously sought to profit by the unlawful exploitation of Mr. Biden's image, name, and likeness for commercial purposes and reprehensible dissemination of salacious photographs depicting Mr. Biden."[10] Glandian further demanded that Fox hosts update viewers about the February 2024 indictment of Alexander Smirnov, a former informant charged with lying to the FBI about Hunter Biden's business dealings.[10]
 
+## ChatGPT poem controversy, February 2023
+
+In February 2023, Summit News reported that [[chatgpt|ChatGPT]] refused to write a poem about Republican Congresswoman [[marjorie-taylor-greene|Marjorie Taylor Greene]] on grounds of her being controversial, yet produced an effusive poem praising Hunter Biden when asked — including lines urging readers to judge him "not by his surname, / Or by the actions that bring him shame."[11] Badlands contributor [[justin-deschamps|Justin Deschamps]] cited the contrast as proof of political bias baked into big tech's AI systems.[11]
+
+## 2025 longform interview remarks on Israel
+
+In July 2025 a widely circulated clip from a Hunter Biden longform interview was used by Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] as a substitute for his own commentary on Israeli annexation politics, in the [[badlands-news-brief|Badlands News Brief]] item covering [[bezalel-smotrich|Bezalel Smotrich]]'s Gaza "security annexation" remarks.[12] The Badlands writer noted approvingly that Biden appeared "smart enough to realize that the entire narrative about paragliding go-karts penetrating the [[iron-dome|Iron Dome]] was complete and total bullshit," and added: "I need moar Hunter Biden longform interviews. The more he talks the more damage he does to the establishment."[12]
+
 ## References
 1. Badlands Brief — "Epstein Boomerangs & Bipartisan Bullsh*t", URL: https://badlands.substack.com/p/badlands-news-brief-6d2
 2. Badlands Brief — "Con Inc. Introduces a New Candidate ... And Trump Was Right!", URL: https://badlands.substack.com/p/badlands-news-brief-6d6
@@ -73,3 +81,5 @@ The lawyers also demanded that Fox News take down "The Trial of Hunter Biden," a
 8. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... But Not on Us", URL: https://badlands.substack.com/p/badlands-news-brief-881
 9. Badlands Brief — "Badlands News Brief: The Trump Train Rolls on ... Fake MAGA Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-89f
 10. Badlands Brief — "Badlands News Brief: Netanyahu & Zelenskyy Beg Biden as Exposure Continues", URL: https://badlands.substack.com/p/badlands-news-brief-8ba
+11. Badlands News Brief — "Deflated Balloons, Sketchy AI & Democrat Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-8f9
+12. Badlands Brief — "Badlands News Brief: The Corruption of Anti-Corruption & Obama Bites Back", URL: https://badlands.substack.com/p/badlands-news-brief-91b

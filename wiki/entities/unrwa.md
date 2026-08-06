@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [united-nations, gaza, humanitarian-aid, israel]
-sources: [raw/badlands-news-brief-08a.md, raw/badlands-news-brief-74c.md]
+sources: [raw/badlands-news-brief-08a.md, raw/badlands-news-brief-74c.md, raw/badlands-news-brief-914.md]
 confidence: medium
 ---
 
@@ -28,6 +28,15 @@ In early November 2024 Israel formally notified the [[united-nations|United Nati
 
 Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] welcomed the move, arguing that by branding UNRWA a terrorist organization [[benjamin-netanyahu|Benjamin Netanyahu]] had effectively accused the United Nations itself of sponsoring terrorism — and that whether the allegations were true was beside the point, since America's "greatest ally" had now made the charge on the eve of the [[2024-us-general-election|2024 general election]].[2]
 
+## Israeli ban (October 2024)
+
+On Monday, October 28, 2024, Israel's parliament, the [[knesset|Knesset]], voted to ban the operations of UNRWA, the main humanitarian aid agency operating in [[gaza|Gaza]].[3] Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] reiterated accusations that UNRWA employees were involved in terrorist activities in the region in a statement accompanying the legislation, and his office said that UNRWA personnel "must be held accountable."[3]
+
+An investigation by the U.N. Office of Internal Oversight Services closed in August 2024, debunking some of the allegations and noting that others lacked sufficient evidence; the agency nevertheless said nine employees may have been involved in the October 7 attack if the evidence were "authenticated and corroborated," and Commissioner-General [[philippe-lazzarini|Philippe Lazzarini]] said their contracts would be terminated.[3] Netanyahu's office stated that in the ninety days before the legislation took effect — and afterward — Israel stood ready to work with international partners to ensure it continued to facilitate humanitarian assistance to civilians in Gaza in a manner not threatening Israeli security.[3]
+
+The ban was reported alongside a bipartisan letter from more than one hundred members of [[congress|Congress]] to Secretary-General [[antonio-guterres|António Guterres]] warning that any downgrade of Israel's standing at the [[united-nations|UN]] would bring a corresponding downgrade in U.S. support for the organization.[3]
+
 ## References
 1. Badlands News Brief — "The Communist Ouroboros Accelerates", raw/badlands-news-brief-08a.md
 2. Badlands News Brief — "The Day of Days Has Arrived ...", raw/badlands-news-brief-74c.md
+3. Badlands Brief — "Badlands News Brief: Trump Tours, Bannon Breaks Out & Israel Hesitates", URL: https://badlands.substack.com/p/badlands-news-brief-914

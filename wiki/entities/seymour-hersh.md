@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [journalism, nord-stream, investigative-reporting]
-sources: [raw/badlands-news-brief-204.md, raw/badlands-news-brief-420.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-87b.md]
+sources: [raw/badlands-news-brief-204.md, raw/badlands-news-brief-420.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-87b.md, raw/badlands-news-brief-8f4.md]
 confidence: medium
 ---
 
@@ -48,9 +48,14 @@ In late July 2024 Hersh published a Substack article, "Leaving Las Vegas," repor
 
 The account was amplified by [[conservative-treehouse|Conservative Treehouse]] under the headline "It All Tracks," which argued that Hersh's reporting aligned with every known datapoint preceding Biden's withdrawal announcement and with the broader pattern of the Obama team operating inside the Biden administration.[5]
 
+## Citation in mainstream coverage, March 2023
+
+When the [[new-york-times|New York Times]] reported on March 7, 2023 that new intelligence pointed toward a pro-Ukrainian group as responsible for the [[nord-stream-sabotage|Nord Stream sabotage]], its article referenced Hersh's Substack piece "How America Took Out the Nord Stream Pipeline."[6] Badlands contributor [[just-human|Just Human]] singled out that reference as notable, arguing that overlaying the Hersh account with the Times report, the parallel [[zeit-online|Zeit Online]] investigation and open-source intelligence would form a "constellation of facts, information and possibilities" bringing readers closer to the truth of the attack.[6]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Narrative Shielding & Biden Bait", URL: https://badlands.substack.com/p/badlands-news-brief-204
 2. Badlands News Brief — "The Hersh Report, Exposure & Disclosure", URL: https://badlands.substack.com/p/badlands-news-brief-420
 3. Badlands Brief — "Badlands News Brief: Fake Poles, HomOlympics & Deal-Making", URL: https://badlands.substack.com/p/badlands-news-brief-4c5
 4. Badlands Brief — "Con Inc. Introduces a New Candidate ... And Trump Was Right!", URL: https://badlands.substack.com/p/badlands-news-brief-6d6
 5. Badlands Brief — "Obama Leaves the Basement as Maduro Enters the Play", URL: https://badlands.substack.com/p/badlands-news-brief-87b
+6. Badlands Brief — "Badlands News Brief: January 6 and Nord Stream Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-8f4

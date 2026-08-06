@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [foreign-policy, iran-deal, biden, clinton, deep-state]
-sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-889.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-860.md]
 confidence: medium
 ---
 
@@ -64,6 +64,16 @@ In late August 2024 Sullivan made a three-day visit to Beijing, the first such t
 
 Sullivan responded in conciliatory terms, remarking that "it is rare that we have the opportunity to have this kind of exchange" and stressing "the need for us to responsibly manage U.S.-China relations," while a follow-up White House statement highlighted "progress in sustained, regular military-military communications over the past 10 months."[10] Badlands Media read the encounter as a humiliation, describing Sullivan as visibly unsettled while Zhang appeared confident, and treating the brief Xi meeting as a photo opportunity rather than a substantive session.[10] The outlet argued the episode illustrated that foreign leaders — including Xi, Vladimir Putin and Mohammed bin Salman — do not regard Sullivan or the wider "Deep State Department" as legitimate representatives of the United States.[10]
 
+## August 2024 Beijing trip
+
+In late August 2024 Sullivan made a three-day visit to Beijing, the first such trip by a sitting US national security adviser in eight years, concluding with a meeting with [[xi-jinping|Xi Jinping]] on Thursday, August 29.[10] The most consequential exchange came immediately beforehand, when Sullivan met [[zhang-youxia|Zhang Youxia]], a vice chairman of China's Central Military Commission, who confronted him over growing US support for [[taiwan|Taiwan]]'s military and stated that reunification of Taiwan with the mainland is "the mission and responsibility" of the [[peoples-liberation-army|People's Liberation Army]] and would not be deterred.[10] A Chinese defense ministry statement accompanying the meeting demanded that the United States "stop military collusion between the U.S. and Taiwan, stop arming Taiwan and stop spreading false narratives about Taiwan."[10]
+
+Sullivan responded in conciliatory terms, remarking that "it is rare that we have the opportunity to have this kind of exchange" and stressing "the need for us to responsibly manage U.S.-China relations," while a follow-up White House statement highlighted "progress in sustained, regular military-military communications over the past 10 months."[10] Badlands Media read the encounter as a humiliation, describing Sullivan as visibly unsettled while Zhang appeared confident, and treating the brief Xi meeting as a photo opportunity rather than a substantive session.[10] The outlet argued the episode illustrated that foreign leaders — including Xi, Vladimir Putin and Mohammed bin Salman — do not regard Sullivan or the wider "Deep State Department" as legitimate representatives of the United States.[10]
+
+## Demand for Israeli "clarity and transparency" (October 2024)
+
+During a call in early October 2024, Sullivan told Israel's minister for strategic affairs [[ron-dermer|Ron Dermer]] that the United States expected "clarity and transparency" from Israel about its plans to retaliate against Iran, because those plans carried implications for U.S. forces and interests in the region.[11] The exchange came as four U.S. officials described a deepening trust crisis, one saying, "Our trust of the Israelis is very low right now and for a good reason."[11] Sullivan was also scheduled to meet Israeli Defense Minister [[yoav-gallant|Yoav Gallant]] in Washington on October 9, a trip cancelled at [[benjamin-netanyahu|Benjamin Netanyahu]]'s direction.[11] Badlands contributor GhostofBasedPatrickHenry characterized Sullivan as "present but forgotten because nobody respects him," part of an argument that the White House was sidelined in Israeli decision-making.[11]
+
 ## References
 
 1. Badlands Brief — "And Iran, Iran So Far Away", URL: https://badlands.substack.com/p/and-iran-iran-so-far-away
@@ -76,3 +86,4 @@ Sullivan responded in conciliatory terms, remarking that "it is rare that we hav
 8. Badlands News Brief — "Iranian Walk-backs, Trump Trials & Trans Truths", URL: https://badlands.substack.com/p/badlands-news-brief-808
 9. Badlands Brief — "Badlands News Brief: Trump 2024 Has the Deep State a Little Testy …", URL: https://badlands.substack.com/p/badlands-news-brief-810
 10. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889
+11. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860

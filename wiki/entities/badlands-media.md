@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, alternative-media, truth-community]
-sources: [raw/badlands-media-weekly-show-schedule.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-44c.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-7c5.md, raw/badlands-news-brief-7e6.md]
+sources: [raw/badlands-media-weekly-show-schedule.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-44c.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-7c5.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-8bd.md]
 confidence: high
 ---
 
@@ -130,6 +130,12 @@ In April 2023, Badlands Media staged the first live gathering of its [[great-ame
 
 The outlet describes the News Brief as a hand-picked digest in which the team selects news items of interest from the preceding days to give readers an overview of developments relevant to what it calls the Truth Community.[19] Items frequently carry original commentary from named contributors such as [[justin-deschamps|Justin Deschamps]], [[burning-bright|Burning Bright]] and [[ryan-delarme|Ryan DeLarme]], each linked to their own independent publications.[19] Badlands Media states that its content will always be free, with paid subscriptions offered as voluntary support for its collective of citizen journalists.[19]
 
+## 2024 election special coverage
+
+Badlands Media produced a live special covering the [[2024-us-general-election|2024 election]], streaming for more than 15 hours through election night and making the replay available to viewers throughout the following week.[20] On the broadcast, [[patrick-byrne|Patrick Byrne]] framed the difference between 2024 and 2020 as the product of four years of "defenses in depth" and called for [[donald-trump|Donald Trump]] to reform US election systems rather than rely on such layers; contributor [[burning-bright|Burning Bright]] wrote that Trump might be declared the winner but that "his and our work is only just beginning."[20]
+
+The accompanying News Brief carried takes from [[ashe-in-america|Ashe in America]] on Trump's mandate and from [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] on Israeli reactions to a second Trump term and [[benjamin-netanyahu|Benjamin Netanyahu]]'s dismissal of Defense Minister [[yoav-gallant|Yoav Gallant]].[20] The edition also promoted longtime sponsor EasyRX, which was offering 25 percent off orders of $100 or more with a Black Friday promo code.[20]
+
 ## References
 1. Badlands Media — "Badlands Media Weekly Show Schedule", URL: https://badlands.substack.com/p/badlands-media-weekly-show-schedule
 2. Badlands Brief — "Badlands News Brief: Tracking Resignations, Scare Events & the Death of Taxes", URL: https://badlands.substack.com/p/badlands-news-brief-017
@@ -150,3 +156,4 @@ The outlet describes the News Brief as a hand-picked digest in which the team se
 17. Badlands Brief — "Badlands News Brief: Shutdowns, Shakedowns, & Two Sexes", URL: https://badlands.substack.com/p/badlands-news-brief-762
 18. Badlands Brief — "Happy Independence Day!", URL: https://badlands.substack.com/p/badlands-news-brief-7c5
 19. Badlands Brief — "GART is Here! Plus, Exposure & Disclosure Abound", URL: https://badlands.substack.com/p/badlands-news-brief-7e6
+20. Badlands Brief — "Badlands News Brief: A New Golden Age Begins ...?", URL: https://badlands.substack.com/p/badlands-news-brief-8bd

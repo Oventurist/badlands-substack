@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republicans, texas, oversight]
-sources: [raw/badlands-news-brief-31b.md, raw/badlands-news-brief-4e1.md]
+sources: [raw/badlands-news-brief-31b.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-8dc.md]
 confidence: medium
 ---
 
@@ -20,6 +20,13 @@ Sessions sent a letter to Rosa Brooks, the project's founder and facilitator, ch
 
 In March 2025 Sessions — whose Brazos Valley district includes Robertson, Leon and Milam counties — announced he was finalizing an election reform bill called the [[make-elections-secure-act|Make Elections Secure Act]] (MESA).[2] According to his news release, MESA would restore paper ballots for all federal elections and primaries receiving public money, make paper poll books the primary voter check-in method, limit early voting to the three days before election day, and restrict mail ballots to active-duty military personnel stationed away from home and to voters with certified physical medical conditions preventing in-person voting.[2] Sessions said the bill would align with the president's commitment to make elections secure again.[2] Badlands contributor [[ashe-in-america|Ashe in America]] said the legislation had the potential to repeal the worst parts of the [[help-america-vote-act|Help America Vote Act]] and called it "the way."[2]
 
+## Comments on due process for noncitizens
+
+In a CNN interview in May 2025, Sessions, a Republican representative from Texas, said the US Constitution "maybe" requires due process for both citizens and noncitizens.[3] His remarks echoed those of President [[donald-trump|Donald Trump]], who had said days earlier in an NBC News interview that he did not know whether due process applies to noncitizens.[3] The comments came as the administration's immigration and deportation policies faced legal challenges over what critics characterized as a lack of due process.[3]
+
+Badlands commentary responded by citing the [[illegal-immigration-reform-and-immigrant-responsibility-act|Illegal Immigration Reform and Immigrant Responsibility Act of 1996]], signed by President Bill Clinton on September 30, 1996, noting that under Section 302 illegal aliens may be "removed from the United States without further hearing or review."[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Government Spending & Unprecedented Unhappiness", URL: https://badlands.substack.com/p/badlands-news-brief-31b
 2. Badlands News Brief — "SCOTUS Drama and (Altered) Deals Shake Up the Week", URL: https://badlands.substack.com/p/badlands-news-brief-4e1
+3. Badlands Brief — "Badlands News Brief: Gazan Seizures & Gay Porn Scandals", URL: https://badlands.substack.com/p/badlands-news-brief-8dc

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, host, founder]
-sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-762.md]
+sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-8fd.md]
 confidence: high
 ---
 
@@ -71,6 +71,10 @@ Commenting on polling for the [[2028-united-states-presidential-election|2028 pr
 
 Reacting to the failure of White House shutdown talks on 29 September 2025, Herold wrote that he did not care who got blamed for the [[october-2025-government-shutdown|shutdown]] because "It's all political theatre," adding that he would cast blame upon whoever voted to avert it or to end one, and concluding that "All of congress sucks. They're all illegitimate."[13] He also flagged the Department of War's [[pentagon-shutdown-contingency-guidance-2025|contingency guidance]] as the department's continuity of operations plan for the shutdown.[13]
 
+## Commentary on the Texas map ruling
+
+In the December 5, 2025 Badlands News Brief, Herold commented on the Supreme Court's decision permitting Texas to use its Trump-backed congressional map in the 2026 midterms, telling readers to brace themselves because the midterms are coming, and linking to his Daily Herold episode covering 'Bombergait, Signalgate and other gayts.'[14]
+
 ## References
 1. Badlands Media — "Badlands Media Weekly Show Schedule", URL: https://badlands.substack.com/p/badlands-media-weekly-show-schedule-36d
 2. Badlands Brief — "Amplified Antagonism, Phantom Palestinians, & Hitler's Micropenis", URL: https://badlands.substack.com/p/badlands-news-brief-066
@@ -85,3 +89,4 @@ Reacting to the failure of White House shutdown talks on 29 September 2025, Hero
 11. Badlands News Brief — "Post Mortems, Dog Fights, & Flight Risks", URL: https://badlands.substack.com/p/badlands-news-brief-721
 12. Badlands Brief — "Brennan Decries Judge Shopping & JD Says It's Okay to Be White!", URL: https://badlands.substack.com/p/badlands-news-brief-795
 13. Badlands Brief — "Badlands News Brief: Shutdowns, Shakedowns, & Two Sexes", URL: https://badlands.substack.com/p/badlands-news-brief-762
+14. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd

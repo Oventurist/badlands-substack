@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, info-war, commentary, badlands-brief]
-sources: [raw/badlands-brief-2c0.md, raw/badlands-brief-686.md, raw/badlands-brief-861.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-762.md]
+sources: [raw/badlands-brief-2c0.md, raw/badlands-brief-686.md, raw/badlands-brief-861.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-8fd.md]
 confidence: medium
 ---
 
@@ -86,6 +86,10 @@ Commenting on early polling for the [[2028-united-states-presidential-election|2
 
 Chris Paul responded to [[youtube|YouTube]]'s $24.5 million [[youtube-settlement-of-trump-lawsuit|settlement]] of President [[donald-trump|Donald Trump]]'s deplatforming lawsuit with a single question — "Cool. When do the rest of us get paid?" — pointing to the absence of any remedy for ordinary censored users.[17] On the Gaza plan's clause barring further Israeli strikes on [[qatar|Qatar]], he noted drily that "The Uniparty Right Zionists told me Qatar supports terrorism," calling the arrangement "Weird."[17]
 
+## December 2025 commentary
+
+In the December 5, 2025 Badlands News Brief, Chris Paul dismissed the FBI's pipe bomb arrest by asking when observers would accept that there were never any real pipe bombs on January 6.[18] He also mocked the Michigan absentee ballot ruling, quipping that 'a few more of these improvements and people will believe our fake elections are even more legitimate than before,' and joked about Halle Berry's appearance at the DealBook Summit.[18]
+
 ## References
 1. Badlands Brief — "Southern Hospitality Superseded Plus Cross Burning", URL: https://badlands.substack.com/p/badlands-brief-2c0
 2. Badlands Brief — "To Infinity & Iran!", URL: https://badlands.substack.com/p/badlands-brief-686
@@ -104,3 +108,4 @@ Chris Paul responded to [[youtube|YouTube]]'s $24.5 million [[youtube-settlement
 15. Badlands Brief — "Badlands News Brief: Orange Friday, Election Action, & McKinsey's Gives Advice", URL: https://badlands.substack.com/p/badlands-news-brief-71f
 16. Badlands Brief — "Brennan Decries Judge Shopping & JD Says It's Okay to Be White!", URL: https://badlands.substack.com/p/badlands-news-brief-795
 17. Badlands Brief — "Badlands News Brief: Shutdowns, Shakedowns, & Two Sexes", URL: https://badlands.substack.com/p/badlands-news-brief-762
+18. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd

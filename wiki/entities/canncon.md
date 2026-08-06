@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, host]
-sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-795.md]
+sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-93d.md]
 confidence: high
 ---
 
@@ -30,6 +30,14 @@ On June 5, 2023 CannCon and [[ashe-in-america|Ashe in America]] presented a deep
 
 Responding to the [[state-department|State Department]]'s visa restrictions on two Honduran election officials, CannCon wrote that "there appears to be an attempt at regime placement in [[honduras|Honduras]]."[6] He noted that congressmen from the [[house-permanent-select-committee-on-intelligence|House Permanent Select Committee on Intelligence]] had traveled to Honduras to "monitor" its most recent election, and that HPSCI Chairman [[rick-crawford|Rick Crawford]] had also monitored elections in person in [[guyana|Guyana]], Suriname and Barbados in April 2025 - all, he said, key narcotrafficking hubs.[6] Three weeks after the Honduran vote no winner had been certified, and the [[white-house|White House]] had revoked or denied visas for two [[libre-party|LIBRE party]] figures, one a member of the National Electoral Council and the other a magistrate with the Electoral Justice Tribunal.[6]
 
+## December 2025 commentary
+
+CannCon questioned the framing of the Signalgate report in the December 5, 2025 Badlands News Brief, asking what it would mean if CISA had advised officials to use Signal during the Biden administration about a month before Trump took office, and pointing to Katherine Maher's chairmanship of the Signal Foundation board alongside her NPR role and prior work for the National Democratic Institute, UNICEF, the World Bank, Access Now, the Atlantic Council, and the US State Department Foreign Policy Affairs Board.[7] He also noted that no screenshot had been produced showing how officials in the chat saw Jeffrey Goldberg's name, and was slated to join Ashe in America and Patrick Byrne on Why We Vote to discuss Venezuelan election fraud.[7]
+
+## Commentary on the 2023 White House Pride display
+
+In June 2023 CannCon responded on Twitter to the [[white-house|White House]] Pride Month flag arrangement, in which a rainbow flag was centered between two American flags, writing: "This is a disgrace. The US flag DOES NOT FLANK *ANY* FLAG. Especially not on OUR White House."[8] The post was cited in Badlands commentary as an example of the objection raised on [[us-flag-code|Flag Code]] grounds, much of which came from active-duty military personnel and veterans.[8]
+
 ## References
 1. Badlands Media — "Badlands Media Weekly Show Schedule", URL: https://badlands.substack.com/p/badlands-media-weekly-show-schedule-36d
 2. Badlands Brief — "Rare Earths, Rogue Judges, & Record Downward Revisions", URL: https://badlands.substack.com/p/badlands-news-brief-030
@@ -37,3 +45,5 @@ Responding to the [[state-department|State Department]]'s visa restrictions on t
 4. Badlands News Brief — "Israel Strikes Again as The FED Pivots", URL: https://badlands.substack.com/p/badlands-news-brief-2f2
 5. Badlands Brief — "Badlands News Brief: Gheyliens, Ukrainian Nazis & Post Office Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-423
 6. Badlands Brief — "Brennan Decries Judge Shopping & JD Says It's Okay to Be White!", URL: https://badlands.substack.com/p/badlands-news-brief-795
+7. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
+8. Badlands Brief — "Badlands News Brief: Trump Trolls, Soros Slithers & Flags Fly", URL: https://badlands.substack.com/p/badlands-news-brief-93d

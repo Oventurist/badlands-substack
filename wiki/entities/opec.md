@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [energy, oil, cartels, geopolitics, opec]
-sources: [raw/badlands-brief-579.md, raw/badlands-brief-d1a.md, raw/badlands-news-brief-201.md]
+sources: [raw/badlands-brief-579.md, raw/badlands-brief-d1a.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-907.md]
 confidence: medium
 ---
 
@@ -36,7 +36,14 @@ Badlands writer [[burning-bright|Burning Bright]] framed the pending exit, effec
 
 In July 2025 an OPEC+ meeting to decide August production levels — expected to be a short routine video call announcing another output hike of 411,000 barrels per day — instead produced a larger-than-expected increase of 548,000 bpd.[3] The eight OPEC+ members unwinding earlier cuts were expected to make another supersized increase in September, at which point the full 2.2 million bpd of cuts would nominally be back on the market.[3] Analysts cautioned that no one is certain how much OPEC+ is actually raising production, since some producers are pumping below quota to compensate for previous overproduction, and concurred that the supersized hikes are not as large as the headline figures suggest.[3]
 
+## April 2023 production cut
+
+In early April 2023 OPEC+ announced a surprise reduction in crude output of about one million barrels per day, including a voluntary cut of 500,000 barrels per day by [[saudi-arabia|Saudi Arabia]] effective in May, sending oil prices sharply higher in early trading.[4] The [[white-house|White House]] responded through a [[national-security-council|National Security Council]] spokesperson that "output cuts aren't advisable right now given market uncertainty."[4]
+
+Analyst [[helima-croft|Helima Croft]] of RBC Capital Markets characterised the decision as "a Saudi-first policy" reflecting a strategy independent of Washington after relations deteriorated under [[joe-biden|Joe Biden]], and said the Kingdom was signalling that "it's no longer a unipolar world."[4] Badlands commentary treated the [[2023-opec-production-cut|episode]] as evidence of the [[sovereign-alliance|Sovereign Alliance]] thesis and of pressure on the [[petrodollar|petrodollar]] system.[4]
+
 ## References
 1. Badlands Brief — "Two Cartels, Imminent Indictments, & A French Nun", URL: https://badlands.substack.com/p/badlands-brief-579
 2. Badlands Brief — "Key Indictments at Home and a 'State of Collapse' Abroad", URL: https://badlands.substack.com/p/badlands-brief-d1a
 3. Badlands Brief — "Sex-Based Hierarchy, Shadow Banking, & Schrödinger's List", URL: https://badlands.substack.com/p/badlands-news-brief-201
+4. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... Or Are They?", URL: https://badlands.substack.com/p/badlands-news-brief-907

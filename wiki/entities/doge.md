@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [government, efficiency, trump-administration]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/badlands-brief-70c.md, raw/badlands-brief-861.md, raw/badlands-brief-b24.md, raw/badlands-brief-a1a.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-7ce.md, raw/badlands-news-brief-7e5.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/badlands-brief-70c.md, raw/badlands-brief-861.md, raw/badlands-brief-b24.md, raw/badlands-brief-a1a.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-7ce.md, raw/badlands-news-brief-7e5.md, raw/badlands-news-brief-8dc.md]
 confidence: medium
 ---
 
@@ -183,6 +183,10 @@ On July 1, 2025, [[donald-trump|President Donald Trump]] suggested that [[elon-m
 
 Trump claimed that the true source of Musk's anger was not the bill but the administration's plans to roll back electric vehicle subsidies, and responded to Musk's criticism in a post on Truth Social.[28] Badlands contributor GhostofBasedPatrickHenry characterised the exchange as "kayfabe" and kabuki theatre, arguing its net effect was to use Musk's platform to expose the Republican Party's spending record and to legitimise a third-party challenge to the two-party system.[28] He further speculated that turning DOGE on SpaceX and its military contracts could be "narrative shielding" to establish a template for using DOGE to investigate other private companies that do extensive business with the federal government.[28]
 
+## Voter fraud referrals (2025)
+
+In late April and early May 2025, the [[department-of-justice|Justice Department]] made a series of moves against voter fraud, in some cases with DOGE's assistance, producing a conviction, three arrests, and the creation of a new task force.[29] Badlands commentary reported that DOGE had referred at least 57 cases of voter fraud to the DOJ.[29] These actions followed President [[donald-trump|Donald Trump]]'s March executive order on election integrity, most of which survived a federal judge's temporary injunction against its proof-of-citizenship registration requirement.[29]
+
 ## References
 1. Badlands Brief — "A Journey of Ever-changing Truths", URL: https://badlands.substack.com/p/a-journey-of-ever-changing-truths
 2. Badlands Brief — "Trump Taps Surprising New DNI While Media Freaks Out About Everything", URL: https://badlands.substack.com/p/badlands-brief-70c
@@ -212,3 +216,4 @@ Trump claimed that the true source of Musk's anger was not the bill but the admi
 26. Badlands Brief — "Badlands News Brief: MAHA, Modi, Musk, & Munich", URL: https://badlands.substack.com/p/badlands-news-brief-7b8
 27. Badlands Brief — "The Star Spangled Banner, Bureaucrat Bleach Bit, & an Unknown Balance of Bullion", URL: https://badlands.substack.com/p/badlands-news-brief-7ce
 28. Badlands Brief — "Badlands News Brief: Cartel Cybersnoops & Teenage Spider Hackers", URL: https://badlands.substack.com/p/badlands-news-brief-7e5
+29. Badlands Brief — "Badlands News Brief: Gazan Seizures & Gay Porn Scandals", URL: https://badlands.substack.com/p/badlands-news-brief-8dc

@@ -38,6 +38,10 @@ German Chancellor [[friedrich-merz|Friedrich Merz]] had already agreed to purcha
 
 Ukrainian lawmaker Maryana Bezuglaya claimed in late August 2024 that a Patriot air defense battery operated by [[ukraine|Ukraine]] shot down one of the country's newly delivered US-made F-16 fighters in a friendly fire incident, killing pilot Alexey "Moonfish" Mes.[3] She attributed the loss to poor coordination between military units and accused the Air Force Command of falsely characterizing the event as a crash.[3]
 
+## Reported downing of a Ukrainian F-16 (August 2024)
+
+Ukrainian lawmaker Maryana Bezuglaya claimed in late August 2024 that a Patriot air defense battery operated by [[ukraine|Ukraine]] shot down one of the country's newly delivered US-made F-16 fighters in a friendly fire incident, killing pilot Alexey "Moonfish" Mes.[3] She attributed the loss to poor coordination between military units and accused the Air Force Command of falsely characterizing the event as a crash.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Mandatory Deprogramming & Military Parades", URL: https://badlands.substack.com/p/badlands-news-brief-574
 2. Badlands Brief — "Badlands News Brief: Double Comey Drama & Magic Moon Soil", URL: https://badlands.substack.com/p/badlands-news-brief-5f2

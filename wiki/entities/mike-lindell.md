@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [election-integrity, 2020-election, business, badlands-brief]
-sources: [raw/badlands-brief-2c0.md, raw/badlands-brief-b34.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-398.md, raw/badlands-news-brief-4ab.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-85c.md]
+sources: [raw/badlands-brief-2c0.md, raw/badlands-brief-b34.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-398.md, raw/badlands-news-brief-4ab.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-85c.md, raw/badlands-news-brief-8fd.md]
 confidence: medium
 ---
 
@@ -56,6 +56,10 @@ At the outset of the Colorado trial Lindell's counsel [[chris-kachouroff|Chris K
 
 On Tuesday, June 3, 2025, the court declined to hold Lindell in contempt but issued a warning, and he agreed not to discuss witness testimony with the press while the trial was underway; the dispute concerned his tweeting about testimony in real time rather than any restriction on reporters, and no gag order or media blackout was imposed.[10] Badlands coverage argued that if Lindell believed his claims — and still does — then he was not speaking lies to harm [[eric-coomer|Coomer]] but stating what he believed, a posture that could not meet Coomer's burden of willful negligence and actual malice.[10] See [[coomer-v-lindell|Coomer v. Lindell]].[10]
 
+## Possible Minnesota gubernatorial bid
+
+In December 2025 the MyPillow founder filed state paperwork indicating he might soon launch a campaign for governor of Minnesota in the following year's midterm elections, telling CBS News by phone that he had 'not 100% decided' but had filed in case he moved forward, that he intended to run as a Republican, and that he would address his plans at a press conference the following week.[11] His potential candidacy came as he remained embroiled in multiple legal disputes tied to his claims about the 2020 presidential election, including a federal judge's ruling that he defamed Smartmatic with 'false statements' about its machines and a June jury verdict awarding $2.3 million to a former Dominion Voting Systems employee he had accused of treason.[11]
+
 ## References
 
 1. Badlands Brief — "Southern Hospitality Superseded Plus Cross Burning", URL: https://badlands.substack.com/p/badlands-brief-2c0
@@ -68,3 +72,4 @@ On Tuesday, June 3, 2025, the court declined to hold Lindell in contempt but iss
 8. Badlands Brief — "Badlands News Brief: Pardon Probes & Russia Gate Redux", URL: https://badlands.substack.com/p/badlands-news-brief-58e
 9. Badlands Brief — "Badlands News Brief: Mandatory Deprogramming & Military Parades", URL: https://badlands.substack.com/p/badlands-news-brief-574
 10. Badlands Brief — "Sudden Independence & Legitimately Toxic Unity", URL: https://badlands.substack.com/p/badlands-news-brief-85c
+11. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd

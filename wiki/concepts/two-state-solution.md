@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [israel-palestine, diplomacy, united-nations, peace-process]
-sources: [raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-762.md]
+sources: [raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-8cd.md]
 confidence: medium
 ---
 
@@ -30,8 +30,15 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] linke
 
 [[burning-bright|Burning Bright]] argued in September 2025 that although Israel and the Western globalist hegemon had emphatically rejected any semblance of a two-state solution, President [[donald-trump|Donald Trump]]'s 20-point Gaza peace plan looked "an AWFUL lot like" one, making the episode a submission by the side least expected to submit.[3] [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] made the related point that the plan was explicitly based on the [[new-york-declaration|New York Declaration]], the Saudi-French two-state proposal.[3]
 
+## General Assembly endorsement (September 2025)
+
+On September 12, 2025, the [[united-nations-general-assembly|United Nations General Assembly]] voted overwhelmingly to endorse a declaration outlining "tangible, timebound, and irreversible steps" toward a two-state solution between [[israel|Israel]] and the Palestinians, ahead of a meeting of world leaders.[4] The seven-page text emerged from an international conference held at the UN in July and hosted by [[saudi-arabia|Saudi Arabia]] and [[france|France]], an event the United States and Israel boycotted.[4] The resolution passed with 142 votes in favor, 10 against and 12 abstentions, ahead of a September 22 leaders' meeting at which Britain, France, Canada, Australia and Belgium were expected to formally recognize a Palestinian state.[4]
+
+The declaration condemns the October 7, 2023 attacks on Israel by [[hamas]] that triggered the war in Gaza, and also condemns Israeli attacks on civilians and civilian infrastructure in Gaza, along with siege and starvation, "which have resulted in a devastating humanitarian catastrophe and protection crisis."[4] The associated [[new-york-declaration|New York Declaration]] demanded that Hamas surrender to the [[palestinian-authority|Palestinian Authority]], disarm, release the hostages, and have its leadership leave Gaza permanently — terms that US Representative to the UN [[morgan-ortagus|Morgan Ortagus]] separately stipulated even while dismissing the declaration as a "publicity stunt."[4]
+
 ## References
 
 1. Badlands News Brief — "Peacemakers, Fake Kennedys & Fear Mongers", URL: https://badlands.substack.com/p/badlands-news-brief-3b2
 2. Badlands Brief — "Badlands News Brief: ICE Swarms, TikTok Pivots, & Shoes Stay On", URL: https://badlands.substack.com/p/badlands-news-brief-6af
 3. Badlands Brief — "Badlands News Brief: Shutdowns, Shakedowns, & Two Sexes", URL: https://badlands.substack.com/p/badlands-news-brief-762
+4. Badlands Brief — "Badlands News Brief: Vigils, Vanguards, & Various Investigations", URL: https://badlands.substack.com/p/badlands-news-brief-8cd

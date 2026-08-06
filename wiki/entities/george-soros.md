@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [plutocrats, philanthropy, canada, green-agenda]
-sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-7c6.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8f3.md, raw/badlands-news-brief-93d.md]
 confidence: low
 ---
 
@@ -66,6 +66,16 @@ Federal filings released in July 2023 showed that George Soros and his son Alexa
 
 In May 2024 Badlands commentary, [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that Soros and [[benjamin-netanyahu|Benjamin Netanyahu]] represent two sides of the same controlled-opposition dynamic: in his telling, Netanyahu benefits from Soros funding and resources that energize Arab populations into militancy against Israel, while Soros benefits from Netanyahu's influence over the military-industrial complex, whose kinetic conflicts prime fundraising, money-laundering and human-trafficking pipelines for NGOs Soros manages.[12] He described their mutual public accusations — documented in articles circa February 2018 — as kabuki theater that animates both ends of the political spectrum, sows division and leaves nations ripe for destabilization while never advancing past tough talk.[12] The same commentary noted claims that Soros created the [[international-criminal-court|ICC]], and separately traced [[zuzana-caputova|Zuzana Čaputová]]'s career at the [[open-society-foundations|Open Society Foundation]] from 2001 to 2017.[12]
 
+## District attorney funding (2023 reporting)
+
+In January 2023, [[breitbart|Breitbart]] reported that Soros had spent more than $40 million getting far-left district attorneys — prosecutors described as having agendas to decriminalize a range of crimes — elected across the United States.[13] The figure came from author Matt Palumbo, writing in the [[new-york-post|New York Post]], who concluded that "Soros-backed DAs (and their ideological allies) now represent at least one-fifth of Americans."[13] Badlands contributor [[ryan-delarme|Ryan DeLarme]] commented sarcastically on Soros's "completely harmless habit of installing district attorneys across the U.S.," noting that Politico had documented the practice as early as August 2016.[13]
+
+## June 2023 succession
+
+In June 2023, reporting by [[breitbart|Breitbart]] and other outlets confirmed that Soros, then 92, was handing control of his $25 billion financial empire to his younger son, 37-year-old [[alexander-soros|Alexander "Alex" Soros]], who told the Wall Street Journal he would broaden his father's interests to include voting and abortion rights as well as "gender equality."[14] The elder Soros said of his successor, "We think alike," and separately that "he's earned it."[14] Alex Soros had already visited the [[white-house|White House]] 17 times in little over a year and met with prominent Democrats.[14]
+
+[[badlands-media|Badlands Media]] contributor [[ryan-delarme|Ryan DeLarme]] wrote that what had been suspected in the wake of those White House visits was now confirmed, and that the most striking feature of the handover was how public it was: Soros, he argued, is a figure who understands the value of discretion and has conducted most of his "philanthropy" quietly, so the sudden visibility of the operation was itself notable.[14] DeLarme also observed that despite Soros being an admitted atheist, merely naming him had previously been enough to attract accusations of antisemitism.[14] Contributor [[johnny-q|Johnny Q]] framed the succession as generational continuity — "like father, like son" — made more concerning by the elder Soros's endorsement, and called for influential globalists in league with what he termed the cabal to be exposed.[14]
+
 ## References
 1. Badlands Brief — "A Re-Alignment of World Systems", URL: https://badlands.substack.com/p/a-re-alignment-of-world-systems
 2. Badlands News Brief — "Lake Lasts, Biden Slumps & Powell Blinks", URL: https://badlands.substack.com/p/badlands-news-brief-050
@@ -79,3 +89,5 @@ In May 2024 Badlands commentary, [[ghostofbasedpatrickhenry|GhostofBasedPatrickH
 10. Badlands Brief — "Trump Trifecta, COVID Concealment & Sorosian Slime", URL: https://badlands.substack.com/p/badlands-news-brief-5a7
 11. Badlands Brief — "Dumb Questions, Pentagon Pizzas, & Zero Trust", URL: https://badlands.substack.com/p/badlands-news-brief-669
 12. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
+13. Badlands Brief — "Badlands News Brief: FBI Charges, Exorcisms and ... Woke M&M's?", URL: https://badlands.substack.com/p/badlands-news-brief-8f3
+14. Badlands Brief — "Badlands News Brief: Trump Trolls, Soros Slithers & Flags Fly", URL: https://badlands.substack.com/p/badlands-news-brief-93d

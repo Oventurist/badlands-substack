@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [elections, voting-machines, venezuela, election-integrity, badlands-brief]
-sources: [raw/badlands-brief-25c.md, raw/badlands-brief-b34.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-5ff.md]
+sources: [raw/badlands-brief-25c.md, raw/badlands-brief-b34.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-8fd.md]
 confidence: medium
 ---
 
@@ -71,6 +71,10 @@ On Wednesday, January 24, 2024, a New York judge ruled that [[fox-news|Fox News]
 
 Taking advantage of New York's broad journalistic protections, Fox countersued under the state's anti-SLAPP statute — "Strategic Lawsuits Against Public Participation" — which is designed to prevent litigation intended to chill free speech.[6] Smartmatic argued that the success of Dominion's suit proved the merit of its own, while Fox contended that Smartmatic's enormous damages demand had no basis in fact.[6] In a seven-page ruling, Manhattan Supreme Court Justice David Cohen wrote that there had yet to be any ruling on whether Smartmatic's claims had a substantial factual basis, noting that the defendants' argument was "that plaintiffs' alleged damages are so extenuated from their actual lost profits that they were pleaded and/or sought in order to chill defendants' free speech rights," and that "that argument has not yet been adjudicated in any court."[6] Smartmatic maintains that Fox bears financial responsibility for giving air time to allegations that the company rigged the 2020 presidential election, an issue it argues a Delaware judge already resolved in Dominion's case.[6]
 
+## Lindell defamation ruling
+
+A federal judge ruled in 2025 that MyPillow founder Mike Lindell had defamed Smartmatic with 'false statements' alleging that the company's machines helped rig the 2020 presidential election, one of several legal disputes still surrounding Lindell as he weighed a run for governor of Minnesota.[7]
+
 ## References
 1. Badlands Brief — "Elections are Fake; as is Trump's Friendship with Bibi", URL: https://badlands.substack.com/p/badlands-brief-25c
 2. Badlands Brief — "The Old Guard Is Very Confused About What's Happening to Them", URL: https://badlands.substack.com/p/badlands-brief-b34
@@ -78,3 +82,4 @@ Taking advantage of New York's broad journalistic protections, Fox countersued u
 4. Badlands Brief — "Badlands News Brief: Energy EOs, Game-Changing AI, & Jewish Election Fraud", URL: https://badlands.substack.com/p/badlands-news-brief-32e
 5. Badlands Brief — "Badlands News Brief: The Deep State has a Rough Weekend", URL: https://badlands.substack.com/p/badlands-news-brief-5aa
 6. Badlands Brief — "Red States Align While the MSM Craters", URL: https://badlands.substack.com/p/badlands-news-brief-5ff
+7. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd

@@ -30,6 +30,10 @@ On September 17, 2024 a U.S. P-8A Poseidon anti-submarine patrol aircraft transi
 
 In August 2024, Central Military Commission vice chairman [[zhang-youxia|Zhang Youxia]] told visiting US national security adviser [[jake-sullivan|Jake Sullivan]] in Beijing that reunification of [[taiwan|Taiwan]] with the mainland is "the mission and responsibility" of the PLA and that the military would not be deterred from pursuing it.[3] The statement accompanied Chinese defense ministry demands that Washington halt arms sales and military cooperation with Taipei.[3]
 
+## Taiwan reunification statement (August 2024)
+
+In August 2024, Central Military Commission vice chairman [[zhang-youxia|Zhang Youxia]] told visiting US national security adviser [[jake-sullivan|Jake Sullivan]] in Beijing that reunification of [[taiwan|Taiwan]] with the mainland is "the mission and responsibility" of the PLA and that the military would not be deterred from pursuing it.[3] The statement accompanied Chinese defense ministry demands that Washington halt arms sales and military cooperation with Taipei.[3]
+
 ## References
 1. Badlands Brief — "Persian Devolution, Minnesotan Maneuvers & Chinese Checkers", URL: https://badlands.substack.com/p/badlands-brief-71c
 2. Badlands Brief — "'Iran Iran Iran!' Is the New 'Russia Russia Russia!'", URL: https://badlands.substack.com/p/badlands-news-brief-421

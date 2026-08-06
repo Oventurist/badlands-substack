@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [2020-election, election-fraud, standing, litigation, due-process]
-sources: [raw/are-jack-smith-and-fani-willis-in.md, raw/badlands-brief-95a.md, raw/badlands-brief-9eb.md, raw/badlands-brief-a20.md, raw/badlands-brief-b56.md, raw/badlands-brief-f87.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-423.md]
+sources: [raw/are-jack-smith-and-fani-willis-in.md, raw/badlands-brief-95a.md, raw/badlands-brief-9eb.md, raw/badlands-brief-a20.md, raw/badlands-brief-b56.md, raw/badlands-brief-f87.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-8c5.md]
 confidence: medium
 ---
 
@@ -64,6 +64,12 @@ Badlands writer [[ashe-in-america|Ashe in America]] criticized the framing as in
 
 One strand of the fraud claims concerns the alleged interstate movement of completed ballots by the [[united-states-postal-service|Postal Service]].[8] The [[amistad-project|Amistad Project]] of the [[thomas-more-society|Thomas More Society]] presented sworn declarations claiming over 300,000 ballots at issue in Arizona, 548,000 in Michigan, 204,000 in Georgia and over 121,000 in Pennsylvania, and alleged multi-state illegal efforts by USPS workers to influence the outcome in at least three of six swing states.[8] Contract driver [[jesse-morgan|Jesse Morgan]] said a trailer of completed ballots he brought from New York vanished in Harrisburg, and attorney [[phill-kline|Phill Kline]] put the figure at 130,000 to 280,000 ballots shipped from Bethpage to Lancaster.[8] A [[united-states-postal-service|USPS]] report completed in June 2022 and briefly posted in December 2022 was said by Badlands commentators to confirm the interstate transport and to have been referred to federal prosecutors.[8]
 
+## Supreme Court denial, February 2023
+
+On February 21, 2023, the [[supreme-court-of-the-united-states|Supreme Court]] again declined to hear a lawsuit alleging that [[joe-biden|Joe Biden]], [[kamala-harris|Kamala Harris]], [[mike-pence|Mike Pence]], 291 House members and 94 senators had violated their oaths of office by refusing to investigate evidence of fraud before accepting the electoral votes on January 6, 2021.[9] The justices considered a petition to reconsider at a private conference and released the denial the following Tuesday; four votes are required to grant review.[9]
+
+[[badlands-media|Badlands Media]] contributor [[justin-deschamps|Justin Deschamps]] wrote that courts had consistently declined to reach the evidence, frequently on standing grounds, and that [[congress|Congress]] had refused to conduct hearings even as ordinary citizens continued to surface material casting doubt on the result.[9] He argued that the recurring dismissals pointed to a problem larger than a rigged election — a system he described as at best defunct and at worst tyrannical — and warned that if the matter were allowed to fade, future generations "won't know enough to ask for the truth."[9]
+
 ## References
 
 1. Badlands Brief — "Are Jack Smith and Fani Willis in on the Plan?", URL: https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in
@@ -74,3 +80,4 @@ One strand of the fraud claims concerns the alleged interstate movement of compl
 6. Badlands Brief — "Tulsi Resigns; Iran Peace Deal on the Horizon", URL: https://badlands.substack.com/p/badlands-brief-f87
 7. Badlands Brief — "The Turn on Biden Begins", URL: https://badlands.substack.com/p/badlands-news-brief-11c
 8. Badlands Brief — "Badlands News Brief: Gheyliens, Ukrainian Nazis & Post Office Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-423
+9. Badlands Brief — "Badlands News Brief: Putin Postures, Voting Matters & J6 Subpoenas", URL: https://badlands.substack.com/p/badlands-news-brief-8c5

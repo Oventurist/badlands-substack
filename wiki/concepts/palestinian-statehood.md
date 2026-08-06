@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [israel, palestine, saudi-arabia, normalization, middle-east]
-sources: [raw/badlands-news-brief-021.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-5b2.md]
+sources: [raw/badlands-news-brief-021.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-5b2.md, raw/badlands-news-brief-8ce.md]
 confidence: medium
 ---
 
@@ -36,6 +36,16 @@ The vote reflected broad global support for full Palestinian membership, with ma
 
 Israeli finance minister [[bezalel-smotrich|Bezalel Smotrich]] warned settlement mayors that the establishment of a Palestinian state had become a "tangible danger" driven by "international involvement" and the "consent of leftist elements" inside Israel, and pressed Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] to convene a body able to approve new West Bank construction.[3] [[israel-ganz|Israel Ganz]] of the [[yesha-council|Yesha Council]] and mayors of the largest settlements attended that meeting.[3]
 
+## September 2025 wave of recognitions
+
+On Monday, September 22, 2025, leaders from across the globe convened in New York to support Palestinian statehood over the opposition of Israel and the United States, as the Gaza Strip neared the two-year mark of a war that had brought mass death, destruction and hunger.[4] A summit organized by France and Saudi Arabia ahead of the annual [[united-nations-general-assembly|United Nations General Assembly]] was portrayed as an urgent effort to salvage the long-deferred vision of a two-state solution, though with Israel continuing its offensive in Gaza City against [[hamas|Hamas]] and rapidly expanding West Bank settlements, the notion seemed more distant than ever.[4]
+
+French President [[emmanuel-macron|Emmanuel Macron]] told the meeting, "We must pave the way for peace… Today, France recognizes the state of Palestine," drawing applause and a standing ovation from the Palestinian delegation, and noted recent statements of recognition — some not yet formalized — by Britain, Canada, Australia, Portugal, Belgium and several others.[4] Israel's ambassador to the United Nations, [[danny-danon|Danny Danon]], said "We will take action" in response, declining to specify whether that meant expanded settlements or outright annexations, and said Israel's response would be announced by Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]].[4]
+
+[[mahmoud-abbas|Mahmoud Abbas]], leader of the [[palestinian-authority|Palestinian Authority]], said the authority would form the government of the West Bank and Gaza with no role for Hamas; denied a US visa to attend, he addressed the meeting by video and told the people of Israel, "Our future and yours depends on peace. Enough war."[4] Badlands contributor Jon Herold asked what happens when the entire world recognizes the state of Palestine other than the one country trying to erase it from existence, while GhostofBasedPatrickHenry argued that country by country the world is adopting a supporting posture toward Palestine and warned that Israel, as a "cornered animal," is at its most dangerous.[4]
+
 ## References
 1. Badlands Brief — "Seditious Overreactions, Billion Dollar Bailouts, & NATO-Style Guarantees", URL: https://badlands.substack.com/p/badlands-news-brief-021
 2. Badlands Brief — "Badlands News Brief: Non-Binding Motions & Psycho-Emotional Problems", URL: https://badlands.substack.com/p/badlands-news-brief-3ab
+3. Badlands Brief — "Badlands News Brief", URL: https://badlands.substack.com/p/badlands-news-brief-5b2
+4. Badlands Brief — "Palestinian Promises, Venezuelan Ventures, & Kazakh Considerations", URL: https://badlands.substack.com/p/badlands-news-brief-8ce

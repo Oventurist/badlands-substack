@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [retail, corporations, tariffs, trade]
-sources: [raw/badlands-news-brief-065.md, raw/badlands-news-brief-677.md]
+sources: [raw/badlands-news-brief-065.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-8f1.md]
 confidence: medium
 ---
 
@@ -22,7 +22,14 @@ Contributor [[burning-bright|Burning Bright]] argued on the Badlands program *Th
 
 In the week before [[target-corporation|Target]]'s May 2024 earnings miss, Walmart — Target's larger rival — reported better-than-expected results and raised its annual outlook as shoppers prioritized food and essentials such as toilet paper and detergent.[2] Analysts used the divergence to argue that Target was losing market share, though Charles Sizemore of Sizemore Capital Management cautioned that it was "not accurate to compare" the two, since Walmart is the biggest U.S. grocery retailer.[2]
 
+## Q3 2023 earnings and consumer-spending warning
+
+On November 16, 2023 Walmart, the world's largest retailer, reported third-quarter results that generally beat on revenue and earnings and raised previous guidance, but the numbers came in shy of Wall Street estimates and the stock tumbled.[3] The disappointment followed [[target|Target]]'s solid, inventory-liquidation-driven earnings the previous day, and Walmart warned that consumer spending was deteriorating.[3] The increase in Walmart's comparable store sales was notable because both Target and [[home-depot|Home Depot]] reported declines in that metric the same week as consumers pulled back from discretionary purchases.[3]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] argued that the results, while not as bad as feared, might be directional for consumer spending and hoped Americans were "reclaiming their personal supply chains from the globalists" ahead of the holiday shopping season, urging readers to shop at Badlands Marketplace or local Main Street businesses instead of Walmart.[3]
+
 ## References
 
 1. Badlands Brief — "The Dye's Been Cast Out. The Round Table is Set.", URL: https://badlands.substack.com/p/badlands-news-brief-065
 2. Badlands Brief — "Badlands News Brief: Globalists Threaten Their Own as Bidenomics Reigns", URL: https://badlands.substack.com/p/badlands-news-brief-677
+3. Badlands News Brief — "Dictators, Sovereigns and Bipartisan Peace", URL: https://badlands.substack.com/p/badlands-news-brief-8f1

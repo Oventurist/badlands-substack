@@ -387,3 +387,116 @@ Try rephrasing the request, narrowing the context, or adding a fallback provider
 [02:11:29] worker11: claimed badlands-news-brief-8d6.md
 [02:11:29] worker6: claimed badlands-news-brief-8d8.md
 [02:11:59] STATUS: done=87 failed=2 alive=12/12 finished=0
+[02:12:29] STATUS: done=87 failed=2 alive=12/12 finished=0
+[02:12:59] STATUS: done=87 failed=2 alive=12/12 finished=0
+[02:13:29] STATUS: done=87 failed=2 alive=12/12 finished=0
+[02:13:59] STATUS: done=87 failed=2 alive=12/12 finished=0
+[02:14:29] STATUS: done=87 failed=2 alive=12/12 finished=0
+[02:14:59] STATUS: done=87 failed=2 alive=12/12 finished=0
+[02:15:29] STATUS: done=87 failed=2 alive=12/12 finished=0
+[02:15:59] STATUS: done=87 failed=2 alive=12/12 finished=0
+[02:16:29] STATUS: done=87 failed=2 alive=12/12 finished=0
+[02:16:31] worker10: OK badlands-news-brief-8a9.md in 1231s (33 pages cite it)
+[02:16:33] worker10: claimed badlands-news-brief-8dc.md
+[02:16:59] STATUS: done=88 failed=2 alive=12/12 finished=0
+[02:17:07] worker4: OK badlands-news-brief-8ae.md in 1055s (31 pages cite it)
+[02:17:10] worker4: claimed badlands-news-brief-8f0.md
+[02:17:29] STATUS: done=89 failed=2 alive=12/12 finished=0
+[02:17:59] STATUS: done=89 failed=2 alive=12/12 finished=0
+[02:18:29] STATUS: done=89 failed=2 alive=12/12 finished=0
+[02:18:40] worker9: OK badlands-news-brief-87b.md in 1844s (14 pages cite it)
+[02:18:42] worker9: claimed badlands-news-brief-8f1.md
+[02:18:54] worker8: OK badlands-news-brief-8c6.md in 581s (3 pages cite it)
+[02:18:57] worker8: claimed badlands-news-brief-8f3.md
+[02:18:59] STATUS: done=91 failed=2 alive=12/12 finished=0
+[02:19:15] worker11: OK badlands-news-brief-8d6.md in 461s (14 pages cite it)
+[02:19:18] worker11: claimed badlands-news-brief-8f4.md
+[02:19:29] STATUS: done=92 failed=2 alive=12/12 finished=0
+[02:19:40] worker1: OK badlands-news-brief-8c5.md in 861s (21 pages cite it)
+[02:19:43] worker1: claimed badlands-news-brief-8f9.md
+[02:19:59] STATUS: done=93 failed=2 alive=12/12 finished=0
+[02:20:08] worker7: OK badlands-news-brief-8cb.md in 651s (13 pages cite it)
+[02:20:11] worker7: claimed badlands-news-brief-8fd.md
+[02:20:13] worker0: OK badlands-news-brief-8bd.md in 1129s (23 pages cite it)
+[02:20:15] worker0: claimed badlands-news-brief-907.md
+[02:20:29] STATUS: done=95 failed=2 alive=12/12 finished=0
+[02:20:59] STATUS: done=95 failed=2 alive=12/12 finished=0
+[02:21:19] worker9: FAIL badlands-news-brief-8f1.md in 153s rc=0 report=None cited=0 rate_limit=False backoff=30s
+[02:21:19]   stderr: 
+[02:21:19]   stdout tail: Response truncated due to output length limit
+[02:21:29] STATUS: done=95 failed=3 alive=12/12 finished=0
+[02:21:59] STATUS: done=95 failed=3 alive=12/12 finished=0
+[02:22:29] STATUS: done=95 failed=3 alive=12/12 finished=0
+[02:22:59] STATUS: done=95 failed=3 alive=12/12 finished=0
+[02:23:29] STATUS: done=95 failed=3 alive=12/12 finished=0
+[02:23:59] STATUS: done=95 failed=3 alive=12/12 finished=0
+[02:24:18] worker10: OK badlands-news-brief-8dc.md in 461s (22 pages cite it)
+[02:24:21] worker10: claimed badlands-news-brief-8f1.md
+[02:24:24] worker9: claimed badlands-news-brief-908.md
+[02:24:29] STATUS: done=96 failed=3 alive=12/12 finished=0
+[02:24:33] worker4: OK badlands-news-brief-8f0.md in 438s (14 pages cite it)
+[02:24:35] worker4: claimed badlands-news-brief-90c.md
+[02:24:59] STATUS: done=97 failed=3 alive=12/12 finished=0
+[02:25:23] worker2: OK badlands-news-brief-8ce.md in 881s (28 pages cite it)
+[02:25:25] worker2: claimed badlands-news-brief-914.md
+[02:25:29] STATUS: done=98 failed=3 alive=12/12 finished=0
+[02:25:37] worker3: TIMEOUT badlands-news-brief-860.md after 2400s
+[02:25:59] STATUS: done=98 failed=4 alive=12/12 finished=0
+[02:26:29] STATUS: done=98 failed=4 alive=12/12 finished=0
+[02:26:41] worker4: OK badlands-news-brief-90c.md in 121s (2 pages cite it)
+[02:26:44] worker4: claimed badlands-news-brief-860.md
+[02:26:46] worker3: claimed badlands-news-brief-919.md
+[02:26:59] STATUS: done=99 failed=4 alive=12/12 finished=0
+[02:27:29] STATUS: done=99 failed=4 alive=12/12 finished=0
+[02:27:51] worker0: OK badlands-news-brief-907.md in 449s (11 pages cite it)
+[02:27:53] worker0: claimed badlands-news-brief-91b.md
+[02:27:59] STATUS: done=100 failed=4 alive=12/12 finished=0
+[02:28:11] worker6: OK badlands-news-brief-8d8.md in 998s (20 pages cite it)
+[02:28:13] worker6: claimed badlands-news-brief-93d.md
+[02:28:29] STATUS: done=101 failed=4 alive=12/12 finished=0
+[02:28:59] STATUS: done=101 failed=4 alive=12/12 finished=0
+[02:29:29] STATUS: done=101 failed=4 alive=12/12 finished=0
+[02:29:59] STATUS: done=101 failed=4 alive=12/12 finished=0
+[02:30:29] STATUS: done=101 failed=4 alive=12/12 finished=0
+[02:30:30] worker8: OK badlands-news-brief-8f3.md in 690s (21 pages cite it)
+[02:30:32] worker8: claimed badlands-news-brief-93e.md
+[02:30:39] worker9: OK badlands-news-brief-908.md in 372s (15 pages cite it)
+[02:30:42] worker9: claimed badlands-news-brief-942.md
+[02:30:59] STATUS: done=103 failed=4 alive=12/12 finished=0
+[02:31:29] STATUS: done=103 failed=4 alive=12/12 finished=0
+[02:31:59] STATUS: done=103 failed=4 alive=12/12 finished=0
+[02:32:29] STATUS: done=103 failed=4 alive=12/12 finished=0
+[02:32:59] STATUS: done=103 failed=4 alive=12/12 finished=0
+[02:33:08] worker5: OK badlands-news-brief-8cd.md in 1355s (26 pages cite it)
+[02:33:10] worker5: claimed badlands-news-brief-948.md
+[02:33:29] STATUS: done=104 failed=4 alive=12/12 finished=0
+[02:33:59] STATUS: done=104 failed=4 alive=12/12 finished=0
+[02:34:29] STATUS: done=104 failed=4 alive=12/12 finished=0
+[02:34:59] STATUS: done=104 failed=4 alive=12/12 finished=0
+[02:35:11] worker1: OK badlands-news-brief-8f9.md in 925s (19 pages cite it)
+[02:35:13] worker1: claimed badlands-news-brief-94b.md
+[02:35:29] STATUS: done=105 failed=4 alive=12/12 finished=0
+[02:35:59] STATUS: done=105 failed=4 alive=12/12 finished=0
+[02:36:29] STATUS: done=105 failed=4 alive=12/12 finished=0
+[02:36:59] STATUS: done=105 failed=4 alive=12/12 finished=0
+[02:37:29] STATUS: done=105 failed=4 alive=12/12 finished=0
+[02:37:45] worker11: OK badlands-news-brief-8f4.md in 1104s (17 pages cite it)
+[02:37:47] worker11: claimed badlands-news-brief-951.md
+[02:37:59] STATUS: done=106 failed=4 alive=12/12 finished=0
+[02:38:24] worker10: OK badlands-news-brief-8f1.md in 841s (8 pages cite it)
+[02:38:27] worker10: claimed badlands-news-brief-959.md
+[02:38:29] STATUS: done=107 failed=4 alive=12/12 finished=0
+[02:38:39] worker2: OK badlands-news-brief-914.md in 789s (23 pages cite it)
+[02:38:41] worker2: claimed badlands-news-brief-95a.md
+[02:38:59] STATUS: done=108 failed=4 alive=12/12 finished=0
+[02:39:29] STATUS: done=108 failed=4 alive=12/12 finished=0
+[02:39:59] STATUS: done=108 failed=4 alive=12/12 finished=0
+[02:40:09] worker3: OK badlands-news-brief-919.md in 801s (23 pages cite it)
+[02:40:10] worker6: OK badlands-news-brief-93d.md in 713s (19 pages cite it)
+[02:40:11] worker3: claimed badlands-news-brief-960.md
+[02:40:12] worker6: claimed badlands-news-brief-966.md
+[02:40:17] worker4: OK badlands-news-brief-860.md in 810s (55 pages cite it)
+[02:40:20] worker4: claimed badlands-news-brief-970.md
+[02:40:29] STATUS: done=111 failed=4 alive=12/12 finished=0
+[02:40:59] STATUS: done=111 failed=4 alive=12/12 finished=0
+[02:41:29] STATUS: done=111 failed=4 alive=12/12 finished=0

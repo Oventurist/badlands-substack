@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [detention, military-commissions, september-11, defense-department]
-sources: [raw/badlands-news-brief-264.md, raw/badlands-news-brief-373.md, raw/badlands-news-brief-36a.md]
+sources: [raw/badlands-news-brief-264.md, raw/badlands-news-brief-373.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-93e.md]
 confidence: medium
 ---
 
@@ -26,7 +26,14 @@ The second [[donald-trump|Trump]] administration's plans to detain migrants at G
 
 Military judge Air Force Col. [[matthew-mccall|Matthew McCall]] issued an order on August 12, 2024 stating that he would examine whether it was legal for Defense Secretary [[lloyd-austin|Lloyd Austin]] to rescind the plea agreements, meaning the prosecution could face another extended delay while lawyers litigated the propriety of Austin's eleventh-hour maneuver.[3] The commissions had been bogged down for years amid disputes over government secrecy, conflicts of interest and the documented U.S. torture of many defendants, and longtime observers of the war court had viewed the deals as a route to overdue resolution and some measure of justice for the victims of the deadliest attack on American soil and the ensuing twenty years of war.[3] Austin's intervention drew praise from some victims' families and blowback from critics of the [[pentagon|Pentagon]]'s oft-maligned judicial proceedings at the base.[3]
 
+## 2025 migrant detention facility
+
+On Wednesday, January 29, 2025, President [[donald-trump|Donald Trump]] said he would order the [[pentagon|Pentagon]] and the [[department-of-homeland-security|Department of Homeland Security]] to prepare a migrant detention facility at Guantanamo Bay for as many as 30,000 migrants.[4] The naval base already housed a migrant facility — separate from the high-security U.S. prison for foreign terrorism suspects — that had been used on occasion for decades, including to hold Haitians and Cubans picked up at sea.[4] Speaking at the [[white-house|White House]], Trump said, "Today I'm also signing an executive order to instruct the Departments of Defense and Homeland Security to begin preparing the 30,000 person migrant facility at Guantanamo Bay."[4] The memorandum he subsequently signed did not specify a number of migrants but called for "additional detention space" at the expanded facility.[4] Border czar [[tom-homan|Tom Homan]] said the administration would expand the existing facility, that [[immigration-and-customs-enforcement|Immigration and Customs Enforcement]] would run it, and that the center would be used for the "worst of the worst."[4]
+
+Badlands contributor [[burning-bright|Burning Bright]] argued that the ground had been laid to fulfill the GITMO order some time earlier, since expansion construction at the base never stopped under the prior administration, and that the public narrative was simply being deployed on a delay relative to what he called the Actuals.[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Fake Candidates, Plea Deals & War Drums", URL: https://badlands.substack.com/p/badlands-news-brief-264
 2. Badlands News Brief — "Shutdown Show Down & British Spies for Palestine", URL: https://badlands.substack.com/p/badlands-news-brief-373
 3. Badlands News Brief — "Monkeypox ... For Real? And Other Info War Oddities", URL: https://badlands.substack.com/p/badlands-news-brief-36a
+4. Badlands Brief — "Badlands News Brief: A Midflight Collision, Dems Choose Division, Menendez Gets Prison", URL: https://badlands.substack.com/p/badlands-news-brief-93e

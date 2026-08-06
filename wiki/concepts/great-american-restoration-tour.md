@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [badlands-media, events, badlands-news-brief]
-sources: [raw/badlands-news-brief-001.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7c5.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-8a4.md]
+sources: [raw/badlands-news-brief-001.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7c5.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-8a4.md, raw/badlands-news-brief-8f0.md]
 confidence: medium
 ---
 
@@ -70,6 +70,10 @@ The tour's inaugural gathering took place in Chandler, Arizona, over three days 
 
 In November 2025 Badlands convened in Cocoa Beach, Florida for the tenth stop along the Great American Restoration Tour, billed as the fourth of the new American Golden Age, with panels beginning at 10 a.m. ET on Thursday, November 6.[16] Attendees used the Space Coast setting to watch rocket launches from the beach, including a [[spacex|SpaceX]] launch and the scrubbed [[united-launch-alliance|United Launch Alliance]] Atlas 5 flight carrying the ViaSat-3 F2 satellite, with [[viasat|Viasat]] personnel staying at the same GART hotel.[16]
 
+## GART Cocoa Beach (September 2023)
+
+In September 2023, [[badlands-media|Badlands Media]] promoted a Cocoa Beach stop of the tour, telling readers they could "experience everything you love about Badlands in the form of a live, ticketed event."[17] In-person tickets, including single-day options, remained available for late-comers, and virtual stream tickets were also on sale.[17] The virtual pass granted access to all three days of GART panels, entry to an exclusive Telegram chat with fellow viewers and attendees that continued beyond the event, and permanent access to the video replay of all GART Cocoa Beach panels.[17]
+
 ## References
 1. Badlands Media — "Badlands News Brief: FOX Guarding the Hen House?", URL: https://badlands.substack.com/p/badlands-news-brief-001
 2. Badlands Brief — "Shutdown Showcase, Attempted Tariff Takedowns, & the Launch of Mammany Hall", URL: https://badlands.substack.com/p/badlands-news-brief-095
@@ -87,3 +91,4 @@ In November 2025 Badlands convened in Cocoa Beach, Florida for the tenth stop al
 14. Badlands Brief — "Happy Independence Day!", URL: https://badlands.substack.com/p/badlands-news-brief-7c5
 15. Badlands Brief — "GART is Here! Plus, Exposure & Disclosure Abound", URL: https://badlands.substack.com/p/badlands-news-brief-7e6
 16. Badlands Brief — "Embrace Disruption, Point Fingers, & Explore Any and All Options", URL: https://badlands.substack.com/p/badlands-news-brief-8a4
+17. Badlands Brief — "Badlands News Brief: The Turns on COVID, Ukraine & the Establishment Have Begun", URL: https://badlands.substack.com/p/badlands-news-brief-8f0

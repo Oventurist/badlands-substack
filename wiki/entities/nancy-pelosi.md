@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, democratic-party, california, swalwell]
-sources: [raw/badlands-brief-949.md, raw/badlands-brief-9ac.md, raw/badlands-brief-98d.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-441.md]
+sources: [raw/badlands-brief-949.md, raw/badlands-brief-9ac.md, raw/badlands-brief-98d.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-441.md, raw/badlands-news-brief-8f3.md]
 confidence: medium
 ---
 
@@ -78,6 +78,10 @@ In August 2024 The New Yorker profiled Pelosi under the heading "Nancy Pelosi's 
 
 [[burning-bright|Burning Bright]] used the profile to revisit Pelosi's 2017 public explanation of the "wrap-up smear," a political dialectic in which claims or rumors are first seeded into the media apparatus and then cited as reporting to justify public comment on them, even by the person who planted them.[10] The practice shields both parties: the politician gets to cite "reporting" while the outlet gets an "unnamed source close to the situation."[10] He argued the same dialectic was being applied to an intra-party civil war over the Democratic ticket, with the party's Old Guard all but admitting it had staged a political coup against Biden, and that patriots including [[donald-trump|Donald Trump]] and [[dan-scavino|Dan Scavino]] recognized this — hence their signaling of the #OurBoyBlue theme back into the central narrative.[10]
 
+## Home exorcism claim (January 2023)
+
+In January 2023, Pelosi's daughter [[alexandra-pelosi|Alexandra Pelosi]] told The New York Times that the [[paul-pelosi-attack|attack on Paul Pelosi]] had weighed heavily on her mother, who over Thanksgiving "had priests coming, trying to have an exorcism of the house and having prayer services" at the family's San Francisco home.[11] The [[archdiocese-of-san-francisco|Archdiocese of San Francisco]] subsequently told [[the-gateway-pundit|The Gateway Pundit]] that it was "unaware of the exorcism question you raised," undercutting the account.[11] Badlands contributor [[ryan-delarme|Ryan DeLarme]] dismissed the story as a publicity stunt or falsehood, while speculating it might have been coded messaging that the house "was now clean."[11]
+
 ## References
 1. Badlands Brief — "Tulsi Exposes Traitors; Peace Talks in Pakistan", URL: https://badlands.substack.com/p/badlands-brief-949
 2. Badlands Brief — "Nazi-Related Cover Ups & Formerly Secret Treason", URL: https://badlands.substack.com/p/badlands-brief-9ac
@@ -89,3 +93,4 @@ In August 2024 The New Yorker profiled Pelosi under the heading "Nancy Pelosi's 
 8. Badlands Brief — "Badlands News Brief: Pence Docs, Ukraine Corruption & Body Doubles", URL: https://badlands.substack.com/p/badlands-news-brief-1cd
 9. Badlands News Brief — "Shutdown Looms as Game Theory Plays Out", URL: https://badlands.substack.com/p/badlands-news-brief-24e
 10. Badlands News Brief — "Kamala Takes the Cheese as Things Get Weird Out East", URL: https://badlands.substack.com/p/badlands-news-brief-441
+11. Badlands Brief — "Badlands News Brief: FBI Charges, Exorcisms and ... Woke M&M's?", URL: https://badlands.substack.com/p/badlands-news-brief-8f3

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [us-senate, new-jersey, corruption, democratic-party]
-sources: [raw/badlands-news-brief-5ec.md]
+sources: [raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-93e.md]
 confidence: medium
 ---
 
@@ -22,5 +22,10 @@ Menendez was defiant. He indicated he had no intention of bowing to the chorus o
 
 Writing for [[badlands-media|Badlands Media]], [[ashe-in-america|Ashe in America]] mocked the senator's defense with the rhetorical question of who does not keep a half million dollars stuffed in random spots all over the house, and lampooned the framing of the case as a politically targeted witch hunt.[1] She argued that the presumption of innocence is applied asymmetrically in American politics: for [[donald-trump|President Trump]], Justice Thomas, and others with anti-communist views, allegations are treated as convictions, while for Menendez, the Clinton campaign, and allied figures, innocence is assumed and the allegations, in her view, never reach a courtroom.[1] She noted that Trump had explicitly called out the double standard on Truth Social and that the post was circulating widely — "it's raining red pills."[1]
 
+## Sentencing
+
+On Wednesday, January 29, 2025, Menendez was sentenced to 11 years in prison for accepting bribes of gold and cash and acting as an agent of Egypt — crimes his lawyer said he had been mocked for as "Gold Bar Bob."[2] The sentence was delivered by U.S. District Judge [[sidney-h-stein|Sidney H. Stein]] after Menendez tearfully addressed the court, saying he had lost everything he cared about except his family.[2] The Democrat had resigned the previous year, becoming one of only a handful of U.S. senators ever convicted while in office.[2] Stein told him in a packed Manhattan courtroom, "You were successful, powerful, you stood at the apex of our political system," adding, "Somewhere along the way, and I don't know when it was, you lost your way and working for the public good became working for your good."[2] The former senator was convicted of selling his once-considerable clout for bribes worth a fortune; FBI agents who searched his house found $480,000, some of it stuffed inside boots and pockets of clothing, along with gold bars worth an estimated $150,000.[2]
+
 ## References
 1. Badlands Brief — "It's Raining Red Pills ... And We Like It", URL: https://badlands.substack.com/p/badlands-news-brief-5ec
+2. Badlands Brief — "Badlands News Brief: A Midflight Collision, Dems Choose Division, Menendez Gets Prison", URL: https://badlands.substack.com/p/badlands-news-brief-93e

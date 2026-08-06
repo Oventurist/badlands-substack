@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, syria, ukraine, geopolitics]
-sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-143.md, raw/badlands-brief-169.md, raw/badlands-brief-5a2.md, raw/badlands-brief-70c.md, raw/badlands-brief-708.md, raw/badlands-brief-bb1.md, raw/badlands-brief-e87.md, raw/badlands-brief-f62.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7c6.md]
+sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-143.md, raw/badlands-brief-169.md, raw/badlands-brief-5a2.md, raw/badlands-brief-70c.md, raw/badlands-brief-708.md, raw/badlands-brief-bb1.md, raw/badlands-brief-e87.md, raw/badlands-brief-f62.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-914.md]
 confidence: medium
 ---
 
@@ -93,6 +93,12 @@ Russia and [[china|China]] expressed support for [[venezuela|Venezuela]] in Dece
 
 On Tuesday, 21 May 2024, Russia's military began drills involving tactical nuclear weapons that authorities had announced on 6 May, in an apparent warning to senior Western officials who had spoken about deeper involvement in the war in Ukraine.[15] It was the first time Russia had publicly announced drills involving tactical nuclear weapons, although its strategic nuclear forces exercise regularly.[15] According to a Defense Ministry statement, the first stage envisioned 'practical training in the preparation and use of non-strategic nuclear weapons,' including nuclear-capable Kinzhal and Iskander missiles.[15] The maneuvers took place in the Southern Military District, comprising Russia's southern regions including the border with Ukraine, Crimea — annexed from Ukraine in 2014 — and four Ukrainian regions Russia annexed in 2022 and partially occupies.[15] The ministry said the drills responded to 'provocative statements and threats of certain Western officials regarding the Russian Federation.'[15]
 
+## Economic resilience under sanctions (2024)
+
+In late October 2024, reporting relayed by ReMix News described Russia as experiencing its "fastest economic growth in the last decade."[16] Richard Connolly, a junior research fellow at the Royal Institute of Shared Services in London and an expert on the Russian economy, told CBS News that the number of small and medium-sized enterprises registered in Russia had reached an unprecedented level.[16]
+
+As many Western companies left the country or suspended operations following the invasion of Ukraine, they were rapidly replaced by domestic equivalents — Stars Coffee in place of Starbucks, Maag in place of Zara, and Dobry Cola in place of Coca-Cola.[16] Dobry reported in April that its 2023 earnings were quadruple its 2022 profits.[16]
+
 ## References
 1. Badlands Brief — "Assad Day in Damascus", URL: https://badlands.substack.com/p/assad-day-in-damascus
 2. Badlands Brief — "All the Classic Earmarks of Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-143
@@ -109,3 +115,4 @@ On Tuesday, 21 May 2024, Russia's military began drills involving tactical nucle
 13. Badlands Brief — "'Iran Iran Iran!' Is the New 'Russia Russia Russia!'", URL: https://badlands.substack.com/p/badlands-news-brief-421
 14. Badlands Brief — "Brennan Decries Judge Shopping & JD Says It's Okay to Be White!", URL: https://badlands.substack.com/p/badlands-news-brief-795
 15. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
+16. Badlands Brief — "Badlands News Brief: Trump Tours, Bannon Breaks Out & Israel Hesitates", URL: https://badlands.substack.com/p/badlands-news-brief-914

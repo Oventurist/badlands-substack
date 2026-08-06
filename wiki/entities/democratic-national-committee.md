@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fundraising, clinton-administration, democratic-party, 1996-campaign]
-sources: [raw/america-for-sale-part-1.md, raw/badlands-brief-245.md, raw/badlands-brief-fcb.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-423.md]
+sources: [raw/america-for-sale-part-1.md, raw/badlands-brief-245.md, raw/badlands-brief-fcb.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-8f9.md]
 confidence: medium
 ---
 
@@ -47,6 +47,10 @@ Alex Floyd, a spokesperson for the committee, said the party was ready to "stand
 
 In mid-2023 the DNC expressed its full support for President [[joe-biden|Joe Biden]]'s re-election bid and announced that it did not plan to host any official primary debates.[8] Badlands contributor [[ashe-in-america|Ashe in America]] argued that this decision left claims about Biden's mental acuity untested and that Democratic voters should demand debates to make him prove them on stage.[8]
 
+## 2024 primary calendar reorder
+
+On Saturday, February 4, 2023, the DNC voted to make South Carolina the first state to hold a 2024 Democratic presidential primary, in order to prioritize black voters, dethroning Iowa and New Hampshire from their traditional leadoff positions.[9] South Carolina's primary was scheduled for February 3, 2024, and the decision was reported by [[just-the-news|Just the News]].[9] Badlands contributor [[justin-deschamps|Justin Deschamps]] argued the reorder was an attempt to sway black voters by appearing to serve them first, and predicted the committee would continue to pander to groups and races to induce blind loyalty rather than field candidates who genuinely represent voters' rights and interests.[9] Further detail appears at [[2024-democratic-primary-calendar-change|the 2024 Democratic primary calendar change]].[9]
+
 ## References
 1. Badlands Brief — "America for Sale - Part 1", URL: https://badlands.substack.com/p/america-for-sale-part-1
 2. Badlands Brief — "Trump Roasts The Press; Teases 2028 Run", URL: https://badlands.substack.com/p/badlands-brief-245
@@ -56,3 +60,4 @@ In mid-2023 the DNC expressed its full support for President [[joe-biden|Joe Bid
 6. Badlands Brief — "Badlands News Brief: Fake Candidates, Plea Deals & War Drums", URL: https://badlands.substack.com/p/badlands-news-brief-264
 7. Badlands Brief — "Badlands News Brief: Abercreepy Elites Versus Sovereign Alliance Alpha Chads", URL: https://badlands.substack.com/p/badlands-news-brief-27c
 8. Badlands Brief — "Badlands News Brief: Gheyliens, Ukrainian Nazis & Post Office Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-423
+9. Badlands News Brief — "Deflated Balloons, Sketchy AI & Democrat Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-8f9

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [china, technology, artificial-intelligence, intellectual-property]
-sources: [raw/badlands-brief-0a2.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-6af.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-8ce.md]
 confidence: medium
 ---
 
@@ -36,8 +36,14 @@ On Friday 4 April 2025 President [[donald-trump|Donald Trump]] announced that he
 
 In July 2025, Business Insider reported that ByteDance had laid out plans to split US users of its popular video-editing app [[capcut|CapCut]] into a separate version called "CapCut US," according to documentation it had viewed.[4] Establishing a US-specific app was described as potentially part of a broader plan to comply with a 2024 law requiring ByteDance to separate from [[tiktok|TikTok]] and its other US assets or essentially cease operating in the country.[4] The Information had reported that ByteDance was similarly planning a separate US version of TikTok, suggesting the company may be making a broader push to separate itself from the United States beyond a TikTok sale.[4] Badlands contributor [[ashe-in-america|Ashe in America]] questioned whether such a split could work without sacrificing user experience and the revenue model, arguing that if the new app runs on the same infrastructure the separation is narrative only.[4]
 
+
+## 2025 divestment terms
+
+Under the [[tiktok-us-joint-venture-deal|TikTok US joint venture deal]] expected to be approved by President [[donald-trump|Donald Trump]] in late September 2025, ByteDance would be limited to under 20% ownership of the new US joint-venture company and permitted to appoint one of seven board seats.[5] The company would duplicate [[tiktok|TikTok]]'s recommendation algorithm and lease it to the joint venture, with the US version retrained, secured and operated entirely outside ByteDance's control under [[oracle|Oracle]]'s supervision.[5]
+
 ## References
 1. Badlands Brief — "A Virtual Smash & Grab & Another Impeachment Hoax", URL: https://badlands.substack.com/p/badlands-brief-0a2
 2. Badlands Brief — "J6 Returns to Headlines as Fear Mars AI and Airplanes", URL: https://badlands.substack.com/p/badlands-news-brief-120
 3. Badlands News Brief — "Treasury Triumphs, TikTok U-Turns, & Trade War Time-Outs", raw/badlands-news-brief-508.md
 4. Badlands Brief — "Badlands News Brief: ICE Swarms, TikTok Pivots, & Shoes Stay On", URL: https://badlands.substack.com/p/badlands-news-brief-6af
+5. Badlands Brief — "Palestinian Promises, Venezuelan Ventures, & Kazakh Considerations", URL: https://badlands.substack.com/p/badlands-news-brief-8ce

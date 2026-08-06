@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [secret-service, security, 2024, oversight]
-sources: [raw/a-week-to-remember.md, raw/badlands-brief-245.md, raw/badlands-brief-8c2.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-627.md]
+sources: [raw/a-week-to-remember.md, raw/badlands-brief-245.md, raw/badlands-brief-8c2.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-8ae.md]
 confidence: medium
 ---
 
@@ -43,6 +43,12 @@ Matt McCool of the Secret Service's Washington Field Office led planning for the
 
 After an armed man was arrested at a Los Angeles campaign event on September 15, 2023, presidential candidate [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] renewed his request to the [[white-house|White House]] for Secret Service protection, saying he was "still entertaining a hope that President Biden will allow me Secret Service protection" and that he was "the first presidential candidate in history to whom the White House has denied a request for protection."[7] The Secret Service states on its website that "major presidential and vice presidential candidates and their spouses within 120 days of a general presidential election" are protected by the agency.[7]
 
+## The "sloped roof" defense and DHS inspector general investigation
+
+After the [[attempted-assassination-of-donald-trump-2024|July 13, 2024 attempted assassination]] of [[donald-trump|Donald Trump]], the agency faced sustained questioning over how it had failed to secure a rooftop a little over 400 feet from the stage.[8] Former Army sniper Rep. [[cory-mills|Cory Mills]] described the position as a "sniper's paradise" and publicly questioned whether the lapse had been "intentional."[8]
+
+Director [[kimberly-cheatle|Kimberly Cheatle]], who rejected calls to resign, told ABC News that no agent had been placed on the building because it had a "sloped roof" that posed a safety concern, and that the decision had been made to secure the building from inside instead.[8] Critics said the agency's explanations were not adding up, and the [[department-of-homeland-security|Department of Homeland Security]] Inspector General opened an investigation into the security failures.[8]
+
 ## References
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
 2. Badlands Brief — "Trump Roasts The Press; Teases 2028 Run", URL: https://badlands.substack.com/p/badlands-brief-245
@@ -51,3 +57,4 @@ After an armed man was arrested at a Los Angeles campaign event on September 15,
 5. Badlands Brief — "Badlands News Brief: Epstein Angst, Autopen Privilege, & Migrant Cash Cards", URL: https://badlands.substack.com/p/badlands-news-brief-1a7
 6. Badlands Brief — "Badlands News Brief: Mandatory Deprogramming & Military Parades", URL: https://badlands.substack.com/p/badlands-news-brief-574
 7. Badlands Brief — "Badlands News Brief: Kennedy Assassins, Justice Wins & More", URL: https://badlands.substack.com/p/badlands-news-brief-627
+8. Badlands Media — "Badlands News Brief: Vance Takes the Stage as Biden Takes the Basement", URL: https://badlands.substack.com/p/badlands-news-brief-8ae

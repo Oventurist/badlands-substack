@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, house, oversight, doj-slush-fund, investigations]
-sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-1ae.md, raw/badlands-brief-1ef.md, raw/badlands-brief-733.md, raw/badlands-brief-a1a.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-899.md]
+sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-1ae.md, raw/badlands-brief-1ef.md, raw/badlands-brief-733.md, raw/badlands-brief-a1a.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8f9.md]
 confidence: medium
 ---
 
@@ -78,6 +78,10 @@ Alongside the [[house-oversight-committee|House Oversight Committee]], the Judic
 
 The committee's Republican chairman joined the chairmen of House Oversight and House Administration in subpoenaing ActBlue officials in June 2025 over alleged widespread fraud on the Democratic fundraising platform.[13] The summonses went to a current senior workflow specialist and to former vice president of customer service Alyssa Twomey, and were issued amid a parallel Justice Department investigation into "straw" or "dummy" contributions authorized by President Donald Trump.[13]
 
+## First subpoenas of the 118th Congress, February 2023
+
+In early February 2023, the committee issued its first subpoenas under the leadership of Chairman [[jim-jordan|Jim Jordan]] (R-Ohio), targeting a trio of Biden administration officials: Attorney General [[merrick-garland|Merrick Garland]], [[fbi|FBI]] Director [[christopher-wray|Christopher Wray]], and Education Secretary [[miguel-cardona|Miguel Cardona]].[14] The subpoenas concerned the short-lived [[doj-school-board-memo-2021|2021 memo]] on threats against school board members, which Garland had signed in October 2021 citing a "disturbing spike in harassment, intimidation, and threats of violence against school administrators, board members, teachers, and staff" amid disputes over COVID-19 policies and the handling of race and gender in schools.[14] They followed more than 100 letters on the memo from Judiciary Republicans, and were reported by [[the-hill|The Hill]].[14] Badlands contributor [[ryan-delarme|Ryan DeLarme]] asked whether the House GOP was finally ramping up against the [[deep-state|Deep State]] and whether the officials would comply, noting that [[eric-holder|Eric Holder]] had defied a congressional subpoena for over two years and citing [[kash-patel|Kash Patel]] on the Sergeant at Arms' avenue to request military arrest of non-compliant witnesses.[14]
+
 ## References
 1. Badlands Brief — "America for Sale - Part 2", URL: https://badlands.substack.com/p/america-for-sale-part-2
 2. Badlands Brief — "DC Exposes Itself as the Middle East Gets Gloriously Strange", URL: https://badlands.substack.com/p/badlands-brief-1ae
@@ -92,3 +96,4 @@ The committee's Republican chairman joined the chairmen of House Oversight and H
 11. Badlands Brief — "Badlands News Brief: FOX Trots, Montana Maintains & Congress Convenes", URL: https://badlands.substack.com/p/badlands-news-brief-49a
 12. Badlands Brief — "Badlands News Brief: The Trump Train Rolls on ... Fake MAGA Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-89f
 13. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
+14. Badlands News Brief — "Deflated Balloons, Sketchy AI & Democrat Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-8f9

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [elections, voting-machines, colorado, election-integrity]
-sources: [raw/badlands-brief-174.md, raw/badlands-brief-25c.md, raw/badlands-brief-b34.md, raw/badlands-news-brief-001.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-824.md]
+sources: [raw/badlands-brief-174.md, raw/badlands-brief-25c.md, raw/badlands-brief-b34.md, raw/badlands-news-brief-001.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-8fd.md]
 confidence: medium
 ---
 
@@ -50,6 +50,10 @@ More than 6,000 Dominion voting machines were used in the primaries, and the com
 
 In November 2025, President [[donald-trump|Donald Trump]] appeared on Truth Social to endorse the discredited theory that [[venezuela|Venezuela]]'s leadership controls electronic voting software worldwide and caused his 2020 election defeat to Joe Biden — a theory ruled false by a judge in 2023.[8] The Guardian noted that Fox News paid $787 million in 2023 to settle Dominion Voting's defamation lawsuit, a case based in part on identical claims about Venezuela's supposed role in the 2020 election.[8] White House officials had previously attributed Trump's increasingly bellicose Venezuela policy to concerns about migration and the drug trade.[8]
 
+## Lindell verdict
+
+In June 2025 a jury found that Mike Lindell had defamed a former Dominion Voting Systems employee by accusing him of treason, awarding $2.3 million in damages.[9] The verdict was among the legal disputes still hanging over Lindell as he filed paperwork signaling a possible run for governor of Minnesota.[9]
+
 ## References
 1. Badlands Brief — "Conflicts, Cartels, & Clemency", URL: https://badlands.substack.com/p/badlands-brief-174
 2. Badlands Brief — "Elections are Fake; as is Trump's Friendship with Bibi", URL: https://badlands.substack.com/p/badlands-brief-25c
@@ -59,3 +63,4 @@ In November 2025, President [[donald-trump|Donald Trump]] appeared on Truth Soci
 6. Badlands News Brief — "Tucker Returns, Trump Fights & Corruption Reigns", URL: https://badlands.substack.com/p/badlands-news-brief-3e5
 7. Badlands Brief — "Badlands News Brief: Contempt, Combat Tactics and Cuts?", URL: https://badlands.substack.com/p/badlands-news-brief-70a
 8. Badlands Brief — "Badlands News Brief: Saudi Scoops, Slender Stabbers, & Scorned Scouts", URL: https://badlands.substack.com/p/badlands-news-brief-824
+9. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd

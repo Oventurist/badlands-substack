@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [pharmaceuticals, public-health, acetaminophen, fertility, narrative-warfare]
-sources: [raw/badlands-news-brief-762.md]
+sources: [raw/badlands-news-brief-762.md, raw/badlands-news-brief-8ce.md]
 confidence: medium
 ---
 
@@ -24,6 +24,11 @@ Working through intrauterine exposure experiments in C57BL/6 mice, the researche
 
 Ashe offered two competing readings. In the first, Tylenol had been falsely credentialed for decades as the "number one, super safest drug ever," raising the question of whether expert reassurance had always been a lie.[1] In the second, she noted that the drug has been linked in some studies to changes in risk perception and emotional processing, suggesting that if those effects render populations more compliant or less emotionally reactive, then restricting or demonizing the drug might amount to withdrawing a subtle social tranquilizer — a real-world analogue to the drug Soma in *Brave New World*.[1] A third reading held that once the public accepts that even Tylenol can be declared dangerous and begins demanding government remedies, regulators are instantly positioned to reset the entire over-the-counter pain-management market under their own control.[1]
 
+## September 2025 White House announcement
+
+On September 22, 2025, President [[donald-trump|Donald Trump]] used a White House news conference to urge pregnant women roughly a dozen times not to take Tylenol and to warn mothers against giving it to infants, while linking the drug and vaccines to autism as part of the [[2025-white-house-tylenol-autism-announcement|administration's autism-causes initiative]].[2] Mainstream coverage described the claims as unproven or discredited, while Badlands commentators read the episode as Trump using Tylenol as a "gateway drug" to open a broader public argument about vaccines.[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Shutdowns, Shakedowns, & Two Sexes", URL: https://badlands.substack.com/p/badlands-news-brief-762
+2. Badlands Brief — "Palestinian Promises, Venezuelan Ventures, & Kazakh Considerations", URL: https://badlands.substack.com/p/badlands-news-brief-8ce

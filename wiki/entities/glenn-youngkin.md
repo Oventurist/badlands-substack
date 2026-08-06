@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [virginia, republican-party, pardons, education]
-sources: [raw/badlands-news-brief-006.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-5aa.md]
+sources: [raw/badlands-news-brief-006.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-8dc.md]
 confidence: medium
 ---
 
@@ -24,7 +24,14 @@ On August 7, 2024, Youngkin issued [[virginia-executive-order-35|Executive Order
 
 [[badlands-media|Badlands Media]] writer [[ashe-in-america|Ashe in America]] called the order bold and "a slap in the face to a regime that prioritizes election access over accuracy," while treating the never-connected-to-the-internet claim as unproven and predicting litigation from [[marc-elias|Marc Elias]].[3] She noted that the August 7 issuance came exactly 90 days before the November 5 election, clearing a timeliness hurdle that had defeated similar efforts elsewhere, and suggested Virginia could function as a control case against jurisdictions with less rigorous procedures.[3]
 
+## 2025 lieutenant governor scandal
+
+In early May 2025, Youngkin asked Republican lieutenant governor nominee [[john-reid|John Reid]] to drop out of the Virginia race amid allegations that Reid operated a social media page containing naked pictures of men.[4] Reid, who is gay and married, denied that the page was his and refused to withdraw, claiming it had been created by hardline Republicans to sabotage his campaign.[4] Press coverage of the episode described Youngkin as a MAGA favorite and presidential heir apparent to [[donald-trump|Donald Trump]], a framing Badlands commentators rejected outright.[4]
+
+Those commentators noted Youngkin's background as the former head of the Carlyle Group and characterized him as a Bush-aligned figure whose administration offered no public support for Trump's 2024 campaign, attributing the "heir" narrative to the [[lincoln-project|Lincoln Project]].[4]
+
 ## References
 1. Badlands Brief — "NATO Warmongers & Google Searches for a Way Out", URL: https://badlands.substack.com/p/badlands-news-brief-006
 2. Badlands News Brief — "Trump Doubles Down as Kamala Crumbles", URL: https://badlands.substack.com/p/badlands-news-brief-020
 3. Badlands Brief — "Badlands News Brief: The Deep State has a Rough Weekend", URL: https://badlands.substack.com/p/badlands-news-brief-5aa
+4. Badlands Brief — "Badlands News Brief: Gazan Seizures & Gay Porn Scandals", URL: https://badlands.substack.com/p/badlands-news-brief-8dc

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cisa, dhs, cybersecurity, personnel, government]
-sources: [raw/badlands-brief-7ed.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-79f.md]
+sources: [raw/badlands-brief-7ed.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-8fd.md]
 confidence: medium
 ---
 
@@ -30,7 +30,12 @@ In December 2024, amid confirmed breaches at major U.S. telecommunications provi
 
 Badlands writer [[ashe-in-america|Ashe in America]] argued that the Chinese hacking narrative served as a "useful cover story" allowing government employees to move communications onto encrypted platforms such as [[signal|Signal]] with auto-deleting messages, in violation of sunshine laws.[3] She said she did not trust CISA, citing its role in declaring the 2020 election the "safest and most secure" in history, and characterized the net effect of the "fake cyber showdown" as plausible deniability for U.S. bureaucrats and elected officials in the final weeks before the change of administration.[3]
 
+## Alleged role in promoting Signal
+
+Badlands host CannCon raised the possibility that CISA had advised US officials to use the Signal messaging app during the Biden administration, roughly a month before President Donald Trump took office — a scenario he argued would recast the Signalgate controversy surrounding Defense Secretary Pete Hegseth.[4]
+
 ## References
 1. Badlands Brief — "Religious Regime Change, Sacked Security Sacked, & More Medicare Malice", URL: https://badlands.substack.com/p/badlands-brief-7ed
 2. Badlands Media — "Badlands News Brief: It's a Big Club. And It's Going Down.", URL: https://badlands.substack.com/p/badlands-news-brief-189
 3. Badlands Brief — "Johnson's Package Goes Flaccid ... And Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-79f
+4. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd

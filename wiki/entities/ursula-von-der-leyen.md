@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [european-union, european-commission, ukraine, davos]
-sources: [raw/badlands-brief-577.md, raw/badlands-brief-9ac.md, raw/badlands-brief-e15.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7e0.md]
+sources: [raw/badlands-brief-577.md, raw/badlands-brief-9ac.md, raw/badlands-brief-e15.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-8fd.md]
 confidence: medium
 ---
 
@@ -68,6 +68,10 @@ A February 2025 Politico report described von der Leyen tightening her grip over
 
 In November 2023 von der Leyen joined Finnish Prime Minister [[petteri-orpo|Petteri Orpo]] in condemning what the two described as Russia's "instrumentalization of migrants" at the [[finland|Finnish]]–Russian border, with von der Leyen calling the practice "shameful."[12] The statements came as Finland's Border Guard reported a sharp increase in undocumented migrants — most originating in Africa and the Middle East — arriving at crossings along the roughly 830-mile frontier, which also forms an external border of the European Union, and as the Finnish military bolstered its border barrier.[12]
 
+## Ukraine peace talks phone call
+
+Von der Leyen joined the December 2025 phone call held by Emmanuel Macron and Friedrich Merz with Vladimir Zelensky and other European leaders, held one day before US envoy Steve Witkoff and Jared Kushner traveled to Moscow for talks with Vladimir Putin.[13] Der Spiegel reported that the leaders on the call harbored profound distrust of Washington's attempts to end the Ukraine conflict.[13]
+
 ## References
 1. Badlands Brief — "ICE Getting Boiled, Chinese Coup Chaos, & Carney Bends The Knee", URL: https://badlands.substack.com/p/badlands-brief-577
 2. Badlands Brief — "Nazi-Related Cover Ups & Formerly Secret Treason", URL: https://badlands.substack.com/p/badlands-brief-9ac
@@ -81,3 +85,4 @@ In November 2023 von der Leyen joined Finnish Prime Minister [[petteri-orpo|Pett
 10. Badlands News Brief — "Post Mortems, Dog Fights, & Flight Risks", URL: https://badlands.substack.com/p/badlands-news-brief-721
 11. Badlands Brief — "Trump Teases Saudi Trillions; Biden Bros Embezzled Billions", URL: https://badlands.substack.com/p/badlands-news-brief-745
 12. Badlands Brief — "Badlands News Brief: The Deep State Death Spiral Has Only Just Begun", URL: https://badlands.substack.com/p/badlands-news-brief-7e0
+13. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd

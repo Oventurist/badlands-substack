@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, legislature, government, gaza-war, detainee-abuse]
-sources: [raw/badlands-brief-559.md, raw/badlands-brief-739.md, raw/badlands-brief-6b4.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-889.md]
+sources: [raw/badlands-brief-559.md, raw/badlands-brief-739.md, raw/badlands-brief-6b4.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-914.md]
 confidence: medium
 ---
 
@@ -68,6 +68,16 @@ The 1996 Knesset elections featured [[natan-sharansky|Natan Sharansky]]'s [[yisr
 
 In 2024 the Knesset held a publicly televised session to debate the case of [[israel-defense-forces|IDF]] soldiers arrested by military police over the alleged gang rape of a male Palestinian prisoner, opening the session with CCTV footage from the base in question.[10] Badlands Media reported that during the debate one member asked, "To insert a stick in a person's rectum, is that legitimate?" and another lawmaker replied, "Shut up! YES, if he is Nukhba (Hamas), everything is legitimate to do."[10] The outlet cited the exchange as evidence of what it described as a broader moral crisis in Israeli political culture.[10]
 
+## Debate over abuse of Palestinian detainees (2024)
+
+In 2024 the Knesset held a publicly televised session to debate the case of [[israel-defense-forces|IDF]] soldiers arrested by military police over the alleged gang rape of a male Palestinian prisoner, opening the session with CCTV footage from the base in question.[10] Badlands Media reported that during the debate one member asked, "To insert a stick in a person's rectum, is that legitimate?" and another lawmaker replied, "Shut up! YES, if he is Nukhba (Hamas), everything is legitimate to do."[10] The outlet cited the exchange as evidence of what it described as a broader moral crisis in Israeli political culture.[10]
+
+## Vote to ban UNRWA (October 2024)
+
+On Monday, October 28, 2024, the Knesset voted to ban the operations of [[unrwa|UNRWA]], the United Nations agency for Palestinian refugees and the main humanitarian aid agency operating in [[gaza|Gaza]].[11] Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] issued a statement on the legislation reiterating accusations that UNRWA employees were involved in terrorist activities in the region, and his office said that UNRWA personnel "must be held accountable."[11]
+
+A U.N. Office of Internal Oversight Services investigation closed in August 2024 had debunked some of the allegations and found others insufficiently evidenced, though the agency said nine employees may have been involved in the October 7 attack if the evidence were authenticated, and Commissioner-General [[philippe-lazzarini|Philippe Lazzarini]] said their contracts would be terminated.[11] The legislation carried a ninety-day delay before taking effect, during which Netanyahu's office said Israel stood ready to work with international partners to keep facilitating humanitarian assistance to civilians in Gaza in a manner that did not threaten Israeli security.[11]
+
 ## References
 1. Badlands Brief — "Narrative Warfare For Your Safety", URL: https://badlands.substack.com/p/badlands-brief-559
 2. Badlands Brief — "Weapons Stockpiles & Bundt Cake Treason", URL: https://badlands.substack.com/p/badlands-brief-739
@@ -79,3 +89,4 @@ In 2024 the Knesset held a publicly televised session to debate the case of [[is
 8. Badlands Brief — "Badlands News Brief: Non-Binding Motions & Psycho-Emotional Problems", URL: https://badlands.substack.com/p/badlands-news-brief-3ab
 9. Badlands Brief — "Badlands News Brief: Fake Poles, HomOlympics & Deal-Making", URL: https://badlands.substack.com/p/badlands-news-brief-4c5
 10. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889
+11. Badlands Brief — "Badlands News Brief: Trump Tours, Bannon Breaks Out & Israel Hesitates", URL: https://badlands.substack.com/p/badlands-news-brief-914

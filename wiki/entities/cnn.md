@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, mainstream-media, cable-news]
-sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-1c6.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-669.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-1c6.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-8f4.md]
 confidence: medium
 ---
 
@@ -84,6 +84,12 @@ CNN also carried the Biden administration's September 4, 2024 announcement of sw
 
 On October 6, 2025, CNN anchor [[boris-sanchez|Boris Sanchez]] pressed White House deputy chief of staff for policy [[stephen-miller|Stephen Miller]] on "CNN News Central" about whether the administration's immigration enforcement amounted to racial profiling, citing Illinois Governor [[jb-pritzker|JB Pritzker]]'s claims; Miller dismissed the query as "a dumb question."[15] [[badlands-news-brief|Badlands News Brief]] commentary argued that the [[white-house|White House]]'s continued willingness to supply guests to CNN and similar outlets legitimizes and financially sustains networks that would otherwise be failing.[15]
 
+## Mass shooting statistics controversy (2023)
+
+On March 6, 2023, CNN reported that "the U.S. has surpassed 100 mass shootings in 2023," using data from the [[gun-violence-archive|Gun Violence Archive]] and noting that America had "reached the grim number by the first week of March."[16] Critics argued that both CNN and the Archive had departed from the standard definition of a mass shooting, which the [[rand-corporation|Rand Corporation]] traces to the [[fbi|FBI]]'s 1980s definition of a "mass murderer" as someone who "kills four or more people in a single incident (not including himself)."[16] Under the counting method used, an incident with no fatalities still qualified, so drive-by shootings, gang hits, homicides and double homicides were relabeled and tallied as mass shootings.[16]
+
+[[ryan-delarme|Ryan DeLarme]] responded in the [[badlands-news-brief|Badlands News Brief]] that CNN and allied institutions would rather Americans face fentanyl in their communities than keep a firearm at home, arguing that an unabated flow of drugs and criminals across the border served agendas including depopulation, launderable federal funding for [[sanctuary-cities|sanctuary cities]], an endless drug war, and the prison industrial complex.[16] He added that groups opposed to the [[second-amendment|Second Amendment]] have long manipulated crime statistics, most cleverly by folding suicides and accidents in with homicides.[16]
+
 ## References
 
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
@@ -101,3 +107,4 @@ On October 6, 2025, CNN anchor [[boris-sanchez|Boris Sanchez]] pressed White Hou
 13. Badlands Brief — "Badlands News Brief: Media Death Spiral, Vaccine Lawsuits & Beaver Butts", URL: https://badlands.substack.com/p/badlands-news-brief-550
 14. Badlands Brief — "Badlands News Brief: Psyops Abound as the Media Landscape Shifts Rapidly", URL: https://badlands.substack.com/p/badlands-news-brief-6f7
 15. Badlands Brief — "Dumb Questions, Pentagon Pizzas, & Zero Trust", URL: https://badlands.substack.com/p/badlands-news-brief-669
+16. Badlands Brief — "Badlands News Brief: January 6 and Nord Stream Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-8f4

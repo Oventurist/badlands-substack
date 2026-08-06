@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [turkey, geopolitics, sovereign-alliance, middle-east]
-sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-509.md, raw/badlands-brief-67a.md, raw/badlands-brief-6f4.md, raw/badlands-brief-7bf.md, raw/badlands-brief-949.md, raw/badlands-brief-990.md, raw/badlands-brief-be1.md, raw/badlands-brief-e9e.md, raw/badlands-brief-ec9.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-09b.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-7b7.md, raw/badlands-news-brief-7e8.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-509.md, raw/badlands-brief-67a.md, raw/badlands-brief-6f4.md, raw/badlands-brief-7bf.md, raw/badlands-brief-949.md, raw/badlands-brief-990.md, raw/badlands-brief-be1.md, raw/badlands-brief-e9e.md, raw/badlands-brief-ec9.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-09b.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-7b7.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-91b.md]
 confidence: medium
 ---
 
@@ -151,6 +151,10 @@ During the [[gulf-cooperation-council|Gulf Cooperation Council]] regional meetin
 
 Turkey featured prominently in the December 1, 2025 news cycle as a point of convergence between Washington and Moscow. The Kremlin condemned Ukrainian sea-drone attacks on tankers off the Turkish coast as an infringement of Turkish sovereignty, while the Washington Post reported that Turkey had emerged as a possible destination for [[nicolas-maduro|Nicolás Maduro]] in the event of a negotiated exit from Venezuela.[24] Badlands commentary observed that Trump was defending Turkey over Syria against Israeli aggression while [[vladimir-putin|Vladimir Putin]] defended Turkey against Ukraine, and argued that unidentified actors were running false-flag operations in Iraqi Kurdistan to blame Erdoğan even as he pursued unprecedented peace talks with the Kurds.[24]
 
+## Positioning in the 2025 Russia–Azerbaijan rift
+
+Badlands analysis in July 2025 identified Erdogan as the decisive variable in the deepening rift between Moscow and Baku, given Turkey's historic ties to [[azerbaijan|Azerbaijan]] and the likelihood that he was being pressured by [[nato|NATO]] to help the Azeris "twist the knife" on [[vladimir-putin|Putin]] and Iran.[25] Cutting against that pressure were Erdogan's flirtation with BRICS and the [[shanghai-cooperation-organization|Shanghai Cooperation Organization]], his rapprochement with Iran and the Arab states, and a collapsing situation in Syria as [[benjamin-netanyahu|Netanyahu]] pushed to expand Israel's borders.[25] Putin and Erdogan had also announced a third round of Russia–Ukraine peace talks to be hosted in Istanbul.[25] The expectation offered was that Erdogan would play his cards close to the chest while continuing to antagonize the Zionists.[25] See [[2025-russia-azerbaijan-rift|2025 Russia–Azerbaijan rift]].[25]
+
 ## References
 
 1. Badlands Brief — "A Virtual Smash & Grab & Another Impeachment Hoax", URL: https://badlands.substack.com/p/badlands-brief-0a2
@@ -178,3 +182,4 @@ Turkey featured prominently in the December 1, 2025 news cycle as a point of con
 22. Badlands Brief — "A Not so Brief Full of Sovereign SIGNAL", URL: https://badlands.substack.com/p/badlands-news-brief-711
 23. Badlands Brief — "Badlands News Brief: Harris Preps, Sovereigns Speak & ... Haitians Eat Cats?", URL: https://badlands.substack.com/p/badlands-news-brief-7b7
 24. Badlands Brief — "Corruption Within Corruption & A Offer of Free Elections", URL: https://badlands.substack.com/p/badlands-news-brief-7e8
+25. Badlands Brief — "Badlands News Brief: The Corruption of Anti-Corruption & Obama Bites Back", URL: https://badlands.substack.com/p/badlands-news-brief-91b

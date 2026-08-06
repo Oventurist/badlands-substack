@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, south-carolina, republicans, iran, neoconservatives]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-1ae.md, raw/badlands-brief-2c5.md, raw/badlands-brief-285.md, raw/badlands-brief-509.md, raw/badlands-brief-708.md, raw/badlands-brief-71c.md, raw/badlands-brief-805.md, raw/badlands-brief-8db.md, raw/badlands-brief-b38.md, raw/badlands-brief-b56.md, raw/badlands-brief-be1.md, raw/badlands-brief-c7b.md, raw/badlands-brief-b82.md, raw/badlands-brief-d9f.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-03a.md, raw/badlands-news-brief-06e.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-502.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-83b.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-1ae.md, raw/badlands-brief-2c5.md, raw/badlands-brief-285.md, raw/badlands-brief-509.md, raw/badlands-brief-708.md, raw/badlands-brief-71c.md, raw/badlands-brief-805.md, raw/badlands-brief-8db.md, raw/badlands-brief-b38.md, raw/badlands-brief-b56.md, raw/badlands-brief-be1.md, raw/badlands-brief-c7b.md, raw/badlands-brief-b82.md, raw/badlands-brief-d9f.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-03a.md, raw/badlands-news-brief-06e.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-502.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-860.md]
 confidence: low
 ---
 
@@ -144,6 +144,10 @@ On Sunday, May 12, 2024, Graham compared Israel's war against [[hamas|Hamas]] to
 
 Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote that "Crisis always exposes the weaklings in the room," calling Graham "among the biggest weaklings in DC," but argued that "Ladybug Lindsey isn't the story here" — the real story being Israel's undeclared nuclear program and the history of the [[negev-nuclear-research-center|Negev Nuclear Research Center]], [[david-ben-gurion|David Ben-Gurion]]'s pursuit of the bomb, and the suppression of scrutiny by figures including [[charles-de-gaulle|Charles de Gaulle]] and [[john-f-kennedy|John F. Kennedy]].[28] He closed by asking whether Israel illegally possesses the very weapons of mass destruction that [[benjamin-netanyahu|Benjamin Netanyahu]] has for decades accused his Muslim neighbours of holding.[28]
 
+## Woodward's "War" (October 2024)
+
+Journalist [[bob-woodward|Bob Woodward]]'s book *War*, details of which were reported by Axios, CNN and *The New York Times* on October 8, 2024, covers Graham's efforts to persuade [[donald-trump|Donald Trump]] to move on from his 2020 election loss.[29] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] read the disclosure as "a shot across the bow at Lady Lindsey," treating the leak as a deliberate signal rather than incidental reporting.[29]
+
 ## References
 
 1. Badlands Brief — "Mixed Gender Crews, Trafficking Stings, & Shadow Cabal Reruns", URL: https://badlands.substack.com/p/badlands-brief-029
@@ -184,3 +188,4 @@ In Axios reporting published on December 4, 2024 about the volatile Middle East 
 26. Badlands Brief — "Badlands News Brief: Pardon Me ... No, But Seriously. PLEASE Pardon Me.", URL: https://badlands.substack.com/p/badlands-news-brief-757
 27. Badlands Brief — "Badlands News Brief: Trump 2024 Has the Deep State a Little Testy …", URL: https://badlands.substack.com/p/badlands-news-brief-810
 28. Badlands Brief — "Badlands News Brief: Biden Baits Israel as Solar Storms Bring the Weird", URL: https://badlands.substack.com/p/badlands-news-brief-83b
+29. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860

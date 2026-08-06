@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, oversight, investigations, biden-family]
-sources: [raw/badlands-news-brief-26c.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-3c3.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-743.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-899.md]
+sources: [raw/badlands-news-brief-26c.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-3c3.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-743.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8c5.md]
 confidence: medium
 ---
 
@@ -64,6 +64,12 @@ In the week beginning January 22, 2024, the committee and the [[house-judiciary-
 
 The GOP chairman of the House Oversight Committee joined the chairmen of the Judiciary and Administration committees in issuing subpoena letters on June 25, 2025 to ActBlue officials over potential "widespread" fraud on the Democratic fundraising platform.[11] The recipients were an unidentified current senior workflow specialist and former vice president of customer service Alyssa Twomey, both of whom had previously been prepared to sit for voluntary transcribed interviews.[11] Their counsel, Danny Onorato, asked the chairmen to withdraw the interview requests until the parallel Justice Department investigation authorized by President Donald Trump concludes or clarifies its position.[11]
 
+## Ukraine spending inquiry (February 2023)
+
+In February 2023, committee Republicans pressed the Biden administration to account for the billions of dollars [[congress|Congress]] had appropriated for [[ukraine|Ukraine]], as questions grew over whether the aid should continue at then-current levels.[12] Chairman [[james-comer|James Comer]] and other panel members said in a February 22 letter that the committee was seeking a detailed record of where funding had gone so far and what safeguards the administration had put in place to prevent wasteful spending.[12]
+
+The inquiry ran alongside oversight by inspectors general: the [[department-of-defense-office-of-inspector-general|DoD Office of Inspector General]] released an "Oversight Update: Ukraine Assistance" the same day noting five potential planned oversight projects.[12] [[badlands-media|Badlands Media]] contributor [[just-human|Just Human]] assessed that the committees were delivering on their promises and that the [[ukraine-aid-funding-controversy|Ukraine spending fight]] coincided with a shift in Congress and among the public against further aid.[12]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Russia Collusion is Back ... Unlike Biden's Memories", URL: https://badlands.substack.com/p/badlands-news-brief-26c
 2. Badlands Brief — "Badlands News Brief: Biden Bills, African Coups & Optics", URL: https://badlands.substack.com/p/badlands-news-brief-2d2
@@ -76,3 +82,4 @@ The GOP chairman of the House Oversight Committee joined the chairmen of the Jud
 9. Badlands Brief — "The Wall Are Closing in Again! (And Other Stories)", URL: https://badlands.substack.com/p/badlands-news-brief-7ad
 10. Badlands Brief — "Badlands News Brief: The Trump Train Rolls on ... Fake MAGA Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-89f
 11. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
+12. Badlands Brief — "Badlands News Brief: Putin Postures, Voting Matters & J6 Subpoenas", URL: https://badlands.substack.com/p/badlands-news-brief-8c5

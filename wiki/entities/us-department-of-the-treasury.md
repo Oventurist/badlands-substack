@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [treasury, ofac, sanctions, terrorism-designation]
-sources: [raw/a-conflict-of-interest.md, raw/a-seismic-shift.md, raw/badlands-brief-2c5.md, raw/badlands-brief-6bf.md, raw/badlands-brief-6f4.md, raw/badlands-brief-861.md, raw/badlands-brief-c5b.md, raw/badlands-brief-dc6.md, raw/badlands-brief-e9a.md, raw/badlands-brief.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-644.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-seismic-shift.md, raw/badlands-brief-2c5.md, raw/badlands-brief-6bf.md, raw/badlands-brief-6f4.md, raw/badlands-brief-861.md, raw/badlands-brief-c5b.md, raw/badlands-brief-dc6.md, raw/badlands-brief-e9a.md, raw/badlands-brief.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-919.md]
 confidence: high
 ---
 
@@ -95,6 +95,10 @@ Treasury Secretary [[scott-bessent|Scott Bessent]] granted representatives of th
 
 In early March 2023 the Treasury Department announced a new wave of sanctions against Russia's metals and mining sector, intended to hinder the country's resupply efforts in its ground war against Ukraine.[16] The measures were coordinated with U.S. allies and [[g7|G7]] partners with the expressed purpose of isolating Russia from the global economy, and were credited with contributing to losses of hundreds of billions of dollars in Russia's financial sector.[16] Since the start of the war, Treasury actions taken with a coalition of more than 30 allies and partners had included sanctions, export controls and price caps, blacklisting thousands of individuals and entities tied to the Russian regime — including senior officials and military manufacturing firms — while more than 1,000 foreign companies scaled back or halted operations in Russia.[16] Badlands contributor [[just-human|Just Human]] questioned whether these Treasury and [[department-of-justice|Justice Department]] actions truly targeted Russia and its enablers or instead a transnational "Swamp" spanning Russia, Europe and the United States.[16]
 
+## Gold disclosure under the Gold Standard Restoration Act (April 2023)
+
+Under H.R. 2435, the [[gold-standard-restoration-act|Gold Standard Restoration Act]] introduced in April 2023 by Reps. [[alex-mooney|Alex Mooney]], [[andy-biggs|Andy Biggs]] and [[paul-gosar|Paul Gosar]], the Treasury and the [[federal-reserve|Federal Reserve]] would be given 24 months to publicly disclose all gold holdings and gold transactions, after which the Federal Reserve note "dollar" would be repegged to a fixed weight of gold at its then-market price.[17]
+
 ## References
 
 1. Badlands Brief — "A Conflict of Interest", URL: https://badlands.substack.com/p/a-conflict-of-interest
@@ -113,3 +117,4 @@ In early March 2023 the Treasury Department announced a new wave of sanctions ag
 14. Badlands Brief — "Sex-Based Hierarchy, Shadow Banking, & Schrödinger's List", URL: https://badlands.substack.com/p/badlands-news-brief-201
 15. Badlands Brief — "Badlands News Brief: North American Trade Troubles & Unipartisan Panic", URL: https://badlands.substack.com/p/badlands-news-brief-52f
 16. Badlands Brief — "J6 Exposure, Biden's Brain and Trump's Agenda", URL: https://badlands.substack.com/p/badlands-news-brief-644
+17. Badlands Brief — "Badlands News Brief: Trials Galore, Ukraine Backpedal & The Gold Standard", URL: https://badlands.substack.com/p/badlands-news-brief-919

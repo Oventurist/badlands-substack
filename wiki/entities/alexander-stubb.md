@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finland, europe, diplomacy, ukraine]
-sources: [raw/badlands-news-brief-3a5.md]
+sources: [raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-8fd.md]
 confidence: medium
 ---
 
@@ -20,5 +20,10 @@ Following the collapse of [[volodymyr-zelensky|Volodymyr Zelensky]]'s February 2
 
 Badlands commentator GhostofBasedPatrickHenry treated the suggestion as emblematic of European irrelevance, arguing that with the risk of a wider war at stake, the Finnish president's remedy of two men sitting naked in an overheated room to work on their "marriage" illustrated why Europe is not taken seriously and could not confront Russia without American backing.[1]
 
+## Ukraine peace talks phone call
+
+Stubb participated in the December 2025 phone call convened by Emmanuel Macron and Friedrich Merz with Vladimir Zelensky and other European leaders about US-led Ukraine peace efforts.[2] According to Der Spiegel's account of the transcript, Stubb shared Macron's assessment that continued peace talks could pose a 'great danger' for Zelensky personally.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Inbound America: Terrorists, Trillions, & Diplomats", URL: https://badlands.substack.com/p/badlands-news-brief-3a5
+2. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd

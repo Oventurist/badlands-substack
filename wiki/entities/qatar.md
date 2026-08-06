@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [qatar, weapons, taliban, stingers, funding, terrorism]
-sources: [raw/a-dereliction-of-duty.md, raw/a-conflict-of-interest.md, raw/badlands-brief-169.md, raw/badlands-brief-c91.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-810.md]
+sources: [raw/a-dereliction-of-duty.md, raw/a-conflict-of-interest.md, raw/badlands-brief-169.md, raw/badlands-brief-c91.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-8cd.md]
 confidence: medium
 ---
 
@@ -87,6 +87,12 @@ Qatar featured in President [[donald-trump|Donald Trump]]'s 20-point Gaza plan o
 Qatar continued to serve as principal mediator in Gaza hostage negotiations in December 2023, with Prime Minister [[mohammed-bin-abdulrahman-al-thani|Mohammad bin Abdulrahman al Thani]] meeting [[cia|CIA]] Director [[william-burns|William Burns]] and [[mossad|Mossad]] chief [[david-barnea|David Barnea]] in Poland on December 18.[14] The same group had convened twice the previous month in Doha alongside Egyptian intelligence officials, and al Thani had held bilateral talks with Barnea days earlier in the first attempt to restart negotiations after the collapse of the Israel–[[hamas|Hamas]] ceasefire on December 1.[14]
 
 
+## Mediation role after the Doha strike (September 2025)
+
+Following [[2025-israeli-strike-on-doha|Israel's attempt to kill Hamas political leaders in Doha]], President [[donald-trump|Donald Trump]] planned to meet Qatari Prime Minister [[mohammed-bin-abdulrahman-al-thani|Sheikh Mohammed bin Abdulrahman Al-Thani]] in New York, a White House official said.[15] The strike, widely condemned across the Middle East and beyond, risked derailing US-backed efforts to broker a truce in Gaza; Trump described it as a unilateral action that did not advance US or Israeli interests.[15] Washington counts Qatar as a strong Gulf ally, and the country has been a main mediator in ceasefire negotiations between [[israel|Israel]] and [[hamas]], in efforts to free Israeli hostages held in Gaza, and in post-conflict planning for the territory.[15] Al-Thani blamed Israel for trying to sabotage the chances for peace but said Qatar would not be deterred from its role as mediator.[15]
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] noted that Trump had already ordered [[marco-rubio|Marco Rubio]] to draft a defense agreement with Qatar that would provide military protection in the event of another Israeli strike.[15]
+
 ## References
 1. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
 2. Badlands Brief — "A Conflict of Interest", URL: https://badlands.substack.com/p/a-conflict-of-interest
@@ -102,3 +108,4 @@ Qatar continued to serve as principal mediator in Gaza hostage negotiations in D
 12. Badlands Brief — "Badlands News Brief: Manhunts, Mental Health, & the Mother of a Monster", URL: https://badlands.substack.com/p/badlands-news-brief-6e5
 13. Badlands Brief — "Badlands News Brief: Shutdowns, Shakedowns, & Two Sexes", URL: https://badlands.substack.com/p/badlands-news-brief-762
 14. Badlands Brief — "Badlands News Brief: Trump 2024 Has the Deep State a Little Testy …", URL: https://badlands.substack.com/p/badlands-news-brief-810
+15. Badlands Brief — "Badlands News Brief: Vigils, Vanguards, & Various Investigations", URL: https://badlands.substack.com/p/badlands-news-brief-8cd

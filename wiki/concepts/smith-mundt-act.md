@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [propaganda, information-warfare, state-department, media, legislation]
-sources: [raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-86f.md]
+sources: [raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-8cd.md]
 confidence: medium
 ---
 
@@ -36,8 +36,19 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] set o
 
 He raised the argument in the context of Niger's suspension of the [[bbc|BBC]], contending that state broadcasters of that kind are not news organizations but "highly funded and highly sophisticated propaganda disseminators" capable of destabilizing societies and toppling governments, and that they are at minimum heavily influenced by intelligence agencies given journalists' routine reliance on anonymous officials "familiar with the situation."[3]
 
+## "Charlie Kirk Act" revival campaign (September 2025)
+
+Following the [[assassination-of-charlie-kirk|assassination of Charlie Kirk]] at [[utah-valley-university|Utah Valley University]] and the arrest of 22-year-old [[tyler-robinson|Tyler Robinson]], TikTok user Ellie May called on President [[donald-trump|Donald Trump]] to reintroduce the Smith-Mundt Act — a law once intended to prevent domestic dissemination of U.S.-backed foreign media — and to rename it the "Charlie Kirk Act."[4] Trump shared the video on his Truth Social account, and a petition calling for the statute's revival gathered more than 5,000 signatures within 13 hours.[4] In her video, May accused media outlets of "spreading propaganda" and of circulating conspiracy theories; AI-generated images and false claims misidentifying the suspect were among the content that spread, some gaining additional reach via [[grok|Grok]], X's AI chatbot, which reportedly acknowledged errors only after several false posts had already gone viral.[4]
+
+### Badlands response
+
+Badlands host [[chris-paul|Chris Paul]] argued on Devolution Power Hour that "you can't legislate truth," saying that "the government cannot determine what's propaganda — the government is the purveyor of propaganda" and that "you cannot legislate to make people tell the truth."[4] He noted that every major trauma event — JFK, 9/11, Las Vegas — remains unsolved "because there is no authority that will ever give us the real answer," and warned that legislating truth would signal to the public that "it's safe to listen to the mainstream media again," which he called the actual purpose of the push.[4] He characterized the proposal as "the free speech version of the [[patriot-act|Patriot Act]]" — sold for safety but destined to be turned against its supporters.[4]
+
+[[jon-herold|Jon Herold]] added that making it "illegal" for the media to lie sounds appealing until one must decide who is in charge of determining what is true, observing that the same movement was up in arms when the Biden administration created the [[disinformation-governance-board|Disinformation Governance Board]], derided as a "Ministry of Truth," and is now "essentially begging for it, just this time it's our side's idea."[4]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Bengaluru Raids, Bitcoin Bangers, & A Buddhist Execution", URL: https://badlands.substack.com/p/badlands-news-brief-2dc
 2. Badlands News Brief — "Strategy & Micro Protests", URL: https://badlands.substack.com/p/badlands-news-brief-71c
 3. Badlands News Brief — "Media Apologies, Fake & Gay Drones and Trump Appointments", URL: https://badlands.substack.com/p/badlands-news-brief-86f
+4. Badlands Brief — "Badlands News Brief: Vigils, Vanguards, & Various Investigations", URL: https://badlands.substack.com/p/badlands-news-brief-8cd

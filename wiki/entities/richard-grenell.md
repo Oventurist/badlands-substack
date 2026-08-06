@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [grenell, diplomacy, venezuela, backchannel, devolution]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-d17.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-86f.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-d17.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-8ce.md]
 confidence: medium
 ---
 
@@ -35,6 +35,11 @@ On Friday, January 31, 2025, President [[donald-trump|Donald Trump]] sent Grenel
 
 On December 14, 2024, President-elect [[donald-trump|Donald Trump]] named Grenell to lead the presidential envoy for special missions, a portfolio Trump described as covering the world's "hottest spots."[6] Badlands contributor [[burning-bright|Burning Bright]] read the appointment through the lens of [[kayfabe|kayfabe]], arguing that the administration would "have to keep the Kayfabe going a while longer with Kim, Maduro and the bois," and that Trump had been threading the needle by simultaneously building and undermining an Axis-and-Allies narrative in what he called a "War of Stories."[6]
 
+
+## Named as Venezuela interlocutor, September 2025
+
+In his September 2025 letter to President [[donald-trump|Donald Trump]], Venezuelan President [[nicolas-maduro|Nicolas Maduro]] specifically named Grenell as the "special envoy" through whom direct and frank conversation with Caracas should proceed, saying such a channel could "overcome media noise and fake news."[7] The offer came days after the first US strike on a boat from Venezuela that Trump said was carrying drug traffickers, and was read by Badlands commentators as evidence of Trump conducting Venezuela policy through personal envoys rather than the [[state-department|State Department]].[7]
+
 ## References
 
 1. Badlands Brief — "Arctic Escalation and Tropic Trouble for the Financial System", URL: https://badlands.substack.com/p/badlands-brief-02a
@@ -43,3 +48,4 @@ On December 14, 2024, President-elect [[donald-trump|Donald Trump]] named Grenel
 4. Badlands Brief — "Badlands News Brief: Quantum Tunneling, Natural Conflicts, & Pirates for Gaza", URL: https://badlands.substack.com/p/badlands-news-brief-060
 5. Badlands Brief — "Badlands News Brief: North American Trade Troubles & Unipartisan Panic", URL: https://badlands.substack.com/p/badlands-news-brief-52f
 6. Badlands News Brief — "Media Apologies, Fake & Gay Drones and Trump Appointments", URL: https://badlands.substack.com/p/badlands-news-brief-86f
+7. Badlands Brief — "Palestinian Promises, Venezuelan Ventures, & Kazakh Considerations", URL: https://badlands.substack.com/p/badlands-news-brief-8ce

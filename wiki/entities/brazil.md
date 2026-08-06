@@ -28,6 +28,10 @@ Platforms including [[x-corp|X]] and [[rumble|Rumble]] that refused to comply fu
 
 Brazil became the focus of an international free-speech confrontation in August 2024 when [[x-corp|X]] warned that its service in the country could be shut down after Supreme Court Judge [[alexandre-de-moraes|Alexandre de Moraes]] penalized the platform for refusing orders it described as illegal demands to censor his political opponents.[2] X said de Moraes had threatened its local legal representative with imprisonment and frozen her accounts, and that it would not break Brazilian law at his instruction.[2] [[elon-musk|Elon Musk]] said [[spacex|SpaceX]] would keep supplying [[starlink|Starlink]] free to Brazilian schools and hospitals despite the dispute.[2]
 
+## X shutdown standoff (August 2024)
+
+Brazil became the focus of an international free-speech confrontation in August 2024 when [[x-corp|X]] warned that its service in the country could be shut down after Supreme Court Judge [[alexandre-de-moraes|Alexandre de Moraes]] penalized the platform for refusing orders it described as illegal demands to censor his political opponents.[2] X said de Moraes had threatened its local legal representative with imprisonment and frozen her accounts, and that it would not break Brazilian law at his instruction.[2] [[elon-musk|Elon Musk]] said [[spacex|SpaceX]] would keep supplying [[starlink|Starlink]] free to Brazilian schools and hospitals despite the dispute.[2]
+
 ## References
 1. Badlands Brief — "American Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-a1a
 2. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889

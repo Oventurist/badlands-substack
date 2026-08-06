@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [commentator, culture-war, white-lives-matter]
-sources: [raw/badlands-brief-282.md, raw/badlands-brief-5ba.md, raw/badlands-brief-805.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-306.md]
+sources: [raw/badlands-brief-282.md, raw/badlands-brief-5ba.md, raw/badlands-brief-805.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-306.md, raw/badlands-news-brief-8f1.md]
 confidence: low
 ---
 
@@ -48,6 +48,12 @@ Turning Point USA abruptly postponed a highly anticipated livestream intended to
 
 Owens began spreading theories about Kirk's death soon after his September 10 assassination, leading an investigation on her podcast that quickly gained millions of followers, and her claims became one of the most radioactive flashpoints in MAGA's sprawling civil war, forcing other influencers to take positions and reshaping alliances across conservative media.[7] Badlands contributor Jordan Sather noted the beef appeared to be settling "maybe," while Chris Paul predicted "scripted, coordinated messaging to begin shortly after," and Burning Bright described 2025 as "the year of the Sifting," warning that audiences who had escaped the left-right paradigm would simply be sorted into new ones — MAGA vs. America First, NeoCons vs. Traditional Conservatives, Q vs. Truther.[7]
 
+## Feud with Ben Shapiro over Israel (November 2023)
+
+In November 2023 Owens, then host of the "Candace Owens" talk show at [[daily-wire|The Daily Wire]], escalated a public feud with co-founder [[ben-shapiro|Ben Shapiro]] over [[israel|Israel]]'s war against [[hamas|Hamas]] in [[gaza|Gaza]], calling him "emotionally unhinged" and "unprofessional."[8] The exchange followed Shapiro's post on X telling her, "Candace, if you feel that taking money from The Daily Wire somehow comes between you and God, by all means quit," itself a response to a post in which Owens quoted a verse from the Book of Matthew.[8] Shapiro, though a co-founder, co-owner and "editor emeritus," has said he lacks the authority to fire her; hiring and firing power rests with Daily Wire CEO [[caleb-robinson|Caleb Robinson]].[8]
+
+[[burning-bright|Burning Bright]] described the episode as the start of a "[[con-inc|Con Inc.]] circular firing squad" unfolding amid the [[uniparty|Uniparty]]'s push for domestic support for a new Forever War, suggesting Owens' turn against her own camp could indicate "patriot assets being activated," or simply truth finding its own level before an increasingly bipartisan audience.[8]
+
 ## References
 
 1. Badlands Brief — "Jesus Walks", URL: https://badlands.substack.com/p/badlands-brief-282
@@ -57,3 +63,4 @@ Owens began spreading theories about Kirk's death soon after his September 10 as
 5. Badlands News Brief — "Pedish Patricide, ISIS-Inspired Disarmament, & Trump's Love Language", URL: https://badlands.substack.com/p/badlands-news-brief-143
 6. Badlands Brief — "Myanmar's Mayhem, Musk's Marxists, & the Military's Secret Memo", URL: https://badlands.substack.com/p/badlands-news-brief-1c8
 7. Badlands Brief — "Truckloads of Proof, Holiday Intifada, & Europe Must Swallow", URL: https://badlands.substack.com/p/badlands-news-brief-306
+8. Badlands News Brief — "Dictators, Sovereigns and Bipartisan Peace", URL: https://badlands.substack.com/p/badlands-news-brief-8f1

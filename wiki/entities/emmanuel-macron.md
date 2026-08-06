@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [france, europe, politics]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-1cd.md, raw/badlands-brief-7ed.md, raw/badlands-brief-cd8.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-561.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-855.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-1cd.md, raw/badlands-brief-7ed.md, raw/badlands-brief-cd8.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-561.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-855.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-8fd.md]
 confidence: medium
 ---
 
@@ -131,6 +131,15 @@ In early May 2024, Macron again raised the possibility of Western "boots on the 
 Days earlier, Macron had declared in a speech that Europe is "mortal" and could "die" if Russia won in Ukraine and continued on an expansionist path, an assumption that a number of analysts rejected as a description of Moscow's actual aims.[19] Speaking to *The Economist*, he further called Russia "a power of regional destabilization" and "a threat to Europeans' security," stating: "I have a clear strategic objective: Russia cannot win in Ukraine. If Russia wins in Ukraine, there will be no security in Europe."[19]
 
 
+
+## French recognition of Palestine
+
+At a summit organized by France and Saudi Arabia in New York ahead of the [[united-nations-general-assembly|United Nations General Assembly]] on September 22, 2025, Macron declared: "We must pave the way for peace… Today, France recognizes the state of Palestine."[20] The statement drew applause from attendees and a standing ovation from the Palestinian delegation.[20] Macron noted recent statements of recognition, some not yet formalized, by Britain, Canada, Australia, Portugal, Belgium and several others, in a diplomatic push over the opposition of Israel and the United States as the Gaza war neared its two-year mark.[20]
+
+## Ukraine peace talks phone call
+
+On Monday, December 1, 2025, Macron and German Chancellor Friedrich Merz held a phone call with Vladimir Zelensky and several other European leaders, including Finnish President Alexander Stubb and European Commission President Ursula von der Leyen, a day before Steve Witkoff and Jared Kushner traveled to Moscow for talks with Vladimir Putin.[21] According to a transcript obtained by Der Spiegel, Macron said there was 'a possibility that the US will betray Ukraine on the issue of territory without clarity regarding security guarantees,' and warned that continued peace talks could pose a 'great danger' for Zelensky personally.[21]
+
 ## References
 1. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
 2. Badlands Brief — "Saving the SAVE Act, Ending the Forever War & What to Make Of Joe Kent", URL: https://badlands.substack.com/p/badlands-brief-1cd
@@ -152,3 +161,5 @@ Days earlier, Macron had declared in a speech that Europe is "mortal" and could 
 
 18. Badlands Brief — "Damascus Has Fallen ... Cui Bono?", URL: https://badlands.substack.com/p/badlands-news-brief-7a5
 19. Badlands Brief — "Panic in DC ... And Israel ... Pretty Much Everywhere, Actually", URL: https://badlands.substack.com/p/badlands-news-brief-855
+20. Badlands Brief — "Palestinian Promises, Venezuelan Ventures, & Kazakh Considerations", URL: https://badlands.substack.com/p/badlands-news-brief-8ce
+21. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd

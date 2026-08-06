@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [hungary, european-union, immigration, nationalism]
-sources: [raw/badlands-brief-07c.md, raw/badlands-brief-949.md, raw/badlands-brief-9ac.md, raw/badlands-brief-a6b.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-2e8.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4b9.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-786.md]
+sources: [raw/badlands-brief-07c.md, raw/badlands-brief-949.md, raw/badlands-brief-9ac.md, raw/badlands-brief-a6b.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-2e8.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4b9.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-942.md]
 confidence: medium
 ---
 
@@ -88,6 +88,14 @@ In early April 2025, Orban joined a telephone call with President [[donald-trump
 
 In an interview with the economic news site EconomX published Monday, October 6, 2025, Hungarian Prime Minister Viktor Orban ruled out adopting the euro, saying it "will definitely not be on my agenda."[14] He argued that "the European Union is in trouble, in the process of disintegration, it is currently falling apart," and said he did not want to tie [[hungary|Hungary]]'s fate to the bloc any further.[14] [[badlands-news-brief|Badlands News Brief]] commentary endorsed the stance, describing the [[european-union|European Union]] as a draconian institution that has subverted the sovereignty of its member nations, while adding that the European fight is not America's.[14]
 
+## Moscow visit and Putin's "president of the Council of the EU" greeting (July 2024)
+
+Days after [[hungary|Hungary]] took over the six-month rotating presidency of the Council of the European Union in July 2024, Orbán flew to Moscow, where President [[vladimir-putin|Vladimir Putin]] gave him a warm Kremlin welcome and greeted him as the "president of the Council of the European Union," even though Brussels disavowed that Orbán represented the 27 EU member states.[16] The other member states were nearly unanimous in condemning the trip, insisting the Hungarian leader had no authorization from the bloc to negotiate, but the rebuke did not faze Putin.[16]
+
+"I understand that you have come here now not only as our partner, but also as the president of the Council of the European Union," Putin said, adding that he hoped to discuss bilateral relations "in these difficult circumstances" and "the biggest European crisis, the situation in Ukraine."[16] Putin told Orbán, "I am at your disposal," said he was ready to talk about all aspects of the situation, and asked Orbán to share his position and the perspective of the European partners; EU leaders were reported to be fuming.[16]
+
+Badlands commentary by GhostofBasedPatrickHenry described the episode as vaulting Orbán up the power rankings of [[sovereign-alliance|Sovereign Alliance]] leaders, arguing that his series of surprise visits to Ukraine, Russia, China and the United States was a "legendary power move" and that Putin's greeting marked Orbán's formal induction into the JACOB Accords.[16] The writer contrasted the moment with the reaction of the [[mockingbird-media|Mockingbird]] press and urged readers not to blackpill, calling the sequence evidence that "this is winning, and we have only just begun."[16]
+
 ## References
 1. Badlands Brief — "Supreme Conflicts, Criminal Probes, & A Ceasefire", URL: https://badlands.substack.com/p/badlands-brief-07c
 2. Badlands Brief — "Tulsi Exposes Traitors; Peace Talks in Pakistan", URL: https://badlands.substack.com/p/badlands-brief-949
@@ -104,3 +112,4 @@ In an interview with the economic news site EconomX published Monday, October 6,
 13. Badlands Brief — "Badlands News Brief: Orange Friday, Election Action, & McKinsey's Gives Advice", URL: https://badlands.substack.com/p/badlands-news-brief-71f
 14. Badlands Brief — "Dumb Questions, Pentagon Pizzas, & Zero Trust", URL: https://badlands.substack.com/p/badlands-news-brief-669
 15. Badlands Brief — "Badlands News Brief: Trump's Plan, Biden's Path & Israel's Dilemma", URL: https://badlands.substack.com/p/badlands-news-brief-786
+16. Badlands Brief — "Kamala on the Media Block as Putin Makes Moves", URL: https://badlands.substack.com/p/badlands-news-brief-942

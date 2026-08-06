@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [health, vaccines, hhs, trump-administration, litigation]
-sources: [raw/badlands-brief-9eb.md, raw/badlands-brief-b62.md, raw/badlands-brief-be1.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-054.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-12b.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-561.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-58c.md, raw/badlands-news-brief-59b.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-69d.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-74a.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-7d4.md, raw/badlands-news-brief-7ce.md, raw/badlands-news-brief-899.md]
+sources: [raw/badlands-brief-9eb.md, raw/badlands-brief-b62.md, raw/badlands-brief-be1.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-054.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-12b.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-561.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-58c.md, raw/badlands-news-brief-59b.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-69d.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-74a.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-7d4.md, raw/badlands-news-brief-7ce.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8ce.md]
 confidence: medium
 ---
 
@@ -241,6 +241,11 @@ As [[donald-trump|Trump]]'s pick to lead the [[department-of-health-and-human-se
 
 As Health and Human Services Secretary, Kennedy dismissed all members of the CDC's Advisory Committee on Immunization Practices over conflict-of-interest concerns.[39] In response, vaccine industry groups with ties to Merck, Sanofi, and Pfizer — joined by pharmacists, medical associations, state health officials, and a new advocacy group — launched a private coalition working with the University of Minnesota's Vaccine Integrity Project to build a "nongovernmental vaccine system" that would order vaccines directly from manufacturers and follow medical-association recommendations instead of ACIP's.[39]
 
+
+## Autism causes initiative
+
+The [[2025-white-house-tylenol-autism-announcement|September 22, 2025 White House announcement]] of a wide-ranging federal effort to study the causes of autism came as the [[make-america-healthy-again|Make America Healthy Again]] movement pressed for answers, with AP News noting that the coalition of supporters of Health Secretary Kennedy includes several anti-vaccine activists who have long spread debunked claims that immunizations are responsible.[40]
+
 ## References
 1. Badlands Brief — "Dems Demand a Post-Trump Strategy as Hamas Haggles for Peace", URL: https://badlands.substack.com/p/badlands-brief-9eb
 2. Badlands Brief — "The Reckoning of Fake Elections, Fake Wars and Fake Allies", URL: https://badlands.substack.com/p/badlands-brief-b62
@@ -281,3 +286,4 @@ As Health and Human Services Secretary, Kennedy dismissed all members of the CDC
 37. Badlands Brief — "Badlands News Brief: Funding Freezes, Russian Oil, & Imminent Exposes", URL: https://badlands.substack.com/p/badlands-news-brief-7d4
 38. Badlands Brief — "The Star Spangled Banner, Bureaucrat Bleach Bit, & an Unknown Balance of Bullion", URL: https://badlands.substack.com/p/badlands-news-brief-7ce
 39. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
+40. Badlands Brief — "Palestinian Promises, Venezuelan Ventures, & Kazakh Considerations", URL: https://badlands.substack.com/p/badlands-news-brief-8ce

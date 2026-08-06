@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [watchdog, foia, litigation, clinton-administration]
-sources: [raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/badlands-brief-a20.md, raw/badlands-brief-abf.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-355.md, raw/badlands-news-brief-3d2.md]
+sources: [raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/badlands-brief-a20.md, raw/badlands-brief-abf.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-355.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-93d.md]
 confidence: medium
 ---
 
@@ -48,6 +48,10 @@ Badlands commentator [[ashe-in-america|Ashe in America]] welcomed the developmen
 
 Judicial Watch brought the Georgia Open Records Act lawsuit that produced an August 2025 court order requiring Fulton County District Attorney [[fani-willis|Fani Willis]] to clarify her searches for Trump-related records.[8] The suit claimed Willis had falsely denied possessing records responsive to an earlier request for communications with Special Counsel [[jack-smith|Jack Smith]]'s office or the [[january-6-committee|January 6 Committee]].[8] A March 7, 2025 order required Willis to turn over 212 pages of records and to submit an affidavit explaining how they were located and why they had initially been withheld; the documents were found only after at least a fifth search of her office.[8] Judicial Watch was awarded $21,578 in attorney's fees and costs, paid ten days after the court deadline.[8] Badlands contributor [[ashe-in-america|Ashe in America]] congratulated the organization on the victory.[8]
 
+## Flag Code criticism of the White House (2023)
+
+In June 2023 Judicial Watch president [[tom-fitton|Tom Fitton]] publicly accused the administration of [[joe-biden|Joe Biden]] of violating the [[us-flag-code|United States Flag Code]] by centering a rainbow Pride flag between two American flags at a [[white-house|White House]] Pride Month display, saying the arrangement disrespected "every American service member buried under its colors."[9]
+
 ## References
 1. Badlands Brief — "America for Sale - Part 1", URL: https://badlands.substack.com/p/america-for-sale-part-1
 2. Badlands Brief — "America for Sale - Part 2", URL: https://badlands.substack.com/p/america-for-sale-part-2
@@ -57,3 +61,4 @@ Judicial Watch brought the Georgia Open Records Act lawsuit that produced an Aug
 6. Badlands News Brief — "Grand Conspiracies & Massive Reductions", URL: https://badlands.substack.com/p/badlands-news-brief-1e6
 7. Badlands Brief — "Mushroom Zombies, Palantir, & Election DAY", URL: https://badlands.substack.com/p/badlands-news-brief-355
 8. Badlands News Brief — "'Heroic' Nazis & Unexpectedly Flaccid Orgy Dome", URL: https://badlands.substack.com/p/badlands-news-brief-3d2
+9. Badlands Brief — "Badlands News Brief: Trump Trolls, Soros Slithers & Flags Fly", URL: https://badlands.substack.com/p/badlands-news-brief-93d

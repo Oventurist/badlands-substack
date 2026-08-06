@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, television, news, paramount, lawsuit]
-sources: [raw/a-new-hollywood.md, raw/badlands-brief-7c6.md, raw/badlands-brief-e3b.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-520.md]
+sources: [raw/a-new-hollywood.md, raw/badlands-brief-7c6.md, raw/badlands-brief-e3b.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-908.md]
 confidence: medium
 ---
 
@@ -38,9 +38,14 @@ On April 10, 2025 a Los Angeles Superior Court judge backed [[sony|Sony]] in its
 
 [[ashe-in-america|Ashe in America]], who included the story partly out of nostalgia for the two shows, framed the ruling as the latest in a CBS legal losing streak: a November 2, 2022 settlement of allegations that its CEO concealed sexual misconduct for $28 million; a March 3, 2023 settlement over the 2019 merger for $122.5 million; and a May 8, 2023 settlement of collusion and antitrust claims for $5 million.[5] She noted CBS had also settled wage disputes and faced a discrimination lawsuit over its diversity policies that a judge allowed to proceed in August 2024, alongside President [[donald-trump|Donald Trump]]'s $20 billion lawsuit over the network's deceptive editing of [[kamala-harris|Kamala Harris]], which the President claimed was intended to affect the election outcome.[5] Calling it "the end of an era," she concluded that CBS "needs a win."[5]
 
+## Deleted Grammy Awards tweet (February 2023)
+
+As broadcaster of the 2023 [[grammy-awards|Grammy Awards]], CBS posted a promotional tweet in the lead-up to the ceremony that critics described as "creepy" and that was widely read as teasing the satanic-themed performance by [[sam-smith|Sam Smith]] and [[kim-petras|Kim Petras]]; the network deleted the tweet after a wave of backlash, as reported by [[the-gateway-pundit|The Gateway Pundit]].[6] Badlands contributor [[ryan-delarme|Ryan DeLarme]] wrote that the episode "certainly doesn't help to dissuade people who claim that Hollywood is infested with Satanists," and cited actress [[gillian-anderson|Gillian Anderson]]'s remark that "you don't have to say the entertainment industry is satanic, they're doing it for you."[6]
+
 ## References
 1. Badlands Brief — "A New Hollywood", URL: https://badlands.substack.com/p/a-new-hollywood
 2. Badlands Brief — "The Democratization of Narrative Distribution. And a New War with Iran.", URL: https://badlands.substack.com/p/badlands-brief-7c6
 3. Badlands Brief — "Mad-Lad Maduro, Media Meltdowns & Weapons of the Future", URL: https://badlands.substack.com/p/badlands-brief-e3b
 4. Badlands Brief — "Badlands News Brief: Escalation ... Acceleration ... and Biden", URL: https://badlands.substack.com/p/badlands-news-brief-0f0
 5. Badlands News Brief — "Indian iPhones, A Sovereign Bromance, & Allegedly Real IDs", URL: https://badlands.substack.com/p/badlands-news-brief-520
+6. Badlands Brief — "Badlands News Brief: Satanic Idols, COVID Crimes & Twitter's Sins", URL: https://badlands.substack.com/p/badlands-news-brief-908

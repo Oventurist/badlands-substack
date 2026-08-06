@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, national-security, prisons, ben-gvir]
-sources: [raw/badlands-brief-1c6.md, raw/badlands-brief-559.md, raw/badlands-brief-724.md, raw/badlands-brief-739.md, raw/badlands-brief-708.md, raw/badlands-brief-7ed.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-4bb.md, raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-7b1.md, raw/badlands-news-brief-87b.md, raw/badlands-news-brief-889.md]
+sources: [raw/badlands-brief-1c6.md, raw/badlands-brief-559.md, raw/badlands-brief-724.md, raw/badlands-brief-739.md, raw/badlands-brief-708.md, raw/badlands-brief-7ed.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-4bb.md, raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-7b1.md, raw/badlands-news-brief-87b.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-914.md]
 confidence: medium
 ---
 
@@ -92,6 +92,20 @@ Badlands Media reported that Ben-Gvir had been leading "prayer groups" onto the 
 
 Ben-Gvir was also criticized by the head of the [[shin-bet|Shin Bet]] and Defense Minister [[yoav-gallant|Yoav Gallant]] for encouraging settler attacks and for failing to deploy the police forces under his ministry to halt incidents or arrest participants.[17] Badlands noted that religious zealots aligned with him stormed two [[israel-defense-forces|IDF]] bases in protest at the arrest of soldiers accused of assaulting a Palestinian detainee.[17] The outlet also drew attention to his mentor [[benzi-gopstein|Benzi Gopstein]], who faced incitement proceedings in 2015 after calling for churches to be burned and Christians expelled from [[israel|Israel]], and argued that [[benjamin-netanyahu|Benjamin Netanyahu]] had turned to such figures out of political desperation.[17]
 
+## Al-Aqsa synagogue call and settler violence (August 2024)
+
+Speaking to Army Radio in late August 2024, Ben-Gvir called for a synagogue to be built atop the [[al-aqsa-mosque|Al-Aqsa Mosque]] compound and said Jews should be permitted unrestricted prayer at the site, remarks that provoked outrage in [[saudi-arabia|Saudi Arabia]] and condemnation even from some Israeli groups as inflammatory and unrealistic.[17] Analysts noted that any such construction would require destroying the mosque, with the potential to ignite region-wide Islamic uprisings.[17]
+
+Badlands Media reported that Ben-Gvir had been leading "prayer groups" onto the compound in violation of rules barring Israeli prayer and protest there, restrictions traceable to earlier attacks by extremists such as Meir Kahane and Baruch Goldstein, a portrait of whom Ben-Gvir reportedly keeps in his home.[17] The outlet situated his conduct within a broader campaign to clear the way for a Third Temple.[17]
+
+Ben-Gvir was also criticized by the head of the [[shin-bet|Shin Bet]] and Defense Minister [[yoav-gallant|Yoav Gallant]] for encouraging settler attacks and for failing to deploy the police forces under his ministry to halt incidents or arrest participants.[17] Badlands noted that religious zealots aligned with him stormed two [[israel-defense-forces|IDF]] bases in protest at the arrest of soldiers accused of assaulting a Palestinian detainee.[17] The outlet also drew attention to his mentor [[benzi-gopstein|Benzi Gopstein]], who faced incitement proceedings in 2015 after calling for churches to be burned and Christians expelled from [[israel|Israel]], and argued that [[benjamin-netanyahu|Benjamin Netanyahu]] had turned to such figures out of political desperation.[17]
+
+## Defense-ministry speculation and the conscription fight (October 2024)
+
+When [[yoav-gallant|Yoav Gallant]] published his "war without a compass" letter in late October 2024, analysts widely surmised that if [[benjamin-netanyahu|Benjamin Netanyahu]] indulged the religious zealots in his coalition and appointed National Security Minister Ben-Gvir as Defense Minister, he could face a potential mutiny from the [[israel-defense-forces|IDF]] brass.[18] Badlands commentary noted that Israeli law permits a minister to hold multiple cabinet titles simultaneously — Netanyahu himself held five until his corruption indictment compelled him to resign from all but the premiership.[18]
+
+Beyond Ben-Gvir's stated desire to see every Arab within reach slaughtered, the commentary argued that the IDF leadership's more concrete objection was his opposition to the edict nullifying the conscription exemption that Orthodox and Hasidic Jews had enjoyed since Israel's founding.[18] The traditional rationale is that Talmudic study constitutes their service to the Jewish state, but the IDF is desperate for soldiers as tens of thousands of Israelis emigrate, and the Israeli Supreme Court has already ruled that yeshiva students must serve.[18] The analysis concluded that although empowering the zealots would invite further international rebuke, it is precisely what Netanyahu needs to secure his hold on government against eventual domestic or international accountability — men of religious conviction who cannot be deterred by secular pressures.[18]
+
 ## References
 1. Badlands Brief — "Spain Wins The [American] World Cup", URL: https://badlands.substack.com/p/badlands-brief-1c6
 2. Badlands Brief — "Narrative Warfare For Your Safety", URL: https://badlands.substack.com/p/badlands-brief-559
@@ -110,3 +124,4 @@ Ben-Gvir was also criticized by the head of the [[shin-bet|Shin Bet]] and Defens
 15. Badlands Brief — "Badlands News Brief: A Proxy President Manages His Proxy Wars", URL: https://badlands.substack.com/p/badlands-news-brief-7b1
 16. Badlands Brief — "Obama Leaves the Basement as Maduro Enters the Play", URL: https://badlands.substack.com/p/badlands-news-brief-87b
 17. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889
+18. Badlands Brief — "Badlands News Brief: Trump Tours, Bannon Breaks Out & Israel Hesitates", URL: https://badlands.substack.com/p/badlands-news-brief-914

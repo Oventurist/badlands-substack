@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [homeland-security, biden-administration, january-6, security]
-sources: [raw/badlands-news-brief-017.md, raw/badlands-news-brief-06d.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-889.md]
+sources: [raw/badlands-news-brief-017.md, raw/badlands-news-brief-06d.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-860.md]
 confidence: medium
 ---
 
@@ -40,6 +40,14 @@ On Tuesday, February 13, 2024, House Republicans voted to impeach Mayorkas over 
 
 As Secretary of Homeland Security, Mayorkas announced on August 28, 2024 that the [[department-of-homeland-security|Department of Homeland Security]] would distribute more than $380 million in Shelter and Services Program grants to sanctuary cities, state and local governments, and NGOs supporting migrants released from DHS custody pending immigration proceedings.[7] Badlands Media described the disbursement as a taxpayer-funded boondoggle rewarding organizations engaged in resettlement.[7]
 
+## 2024 Shelter and Services Program announcement
+
+As Secretary of Homeland Security, Mayorkas announced on August 28, 2024 that the [[department-of-homeland-security|Department of Homeland Security]] would distribute more than $380 million in Shelter and Services Program grants to sanctuary cities, state and local governments, and NGOs supporting migrants released from DHS custody pending immigration proceedings.[7] Badlands Media described the disbursement as a taxpayer-funded boondoggle rewarding organizations engaged in resettlement.[7]
+
+## Warnings on disaster funding (October 2024)
+
+Remarks by Mayorkas, alongside those of President [[joe-biden|Joe Biden]] and insurance analysts, were cited in October 2024 as evidence that the main federal disaster programs — [[fema|FEMA]]'s disaster relief fund and flood insurance program and [[small-business-administration|Small Business Administration]] disaster loans — could be within weeks of running out of cash as [[hurricane-milton|Hurricane Milton]] bore down on Florida following [[hurricane-helene|Hurricane Helene]].[8]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Tracking Resignations, Scare Events & the Death of Taxes", URL: https://badlands.substack.com/p/badlands-news-brief-017
@@ -49,3 +57,4 @@ As Secretary of Homeland Security, Mayorkas announced on August 28, 2024 that th
 5. Badlands Brief — "FEMA's Broke. Ukraine is Collapsing. The EU is Doomed.", URL: https://badlands.substack.com/p/badlands-news-brief-41f
 6. Badlands Brief — "Badlands News Brief: Russian Space Nukes & Uniparty Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-553
 7. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889
+8. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860

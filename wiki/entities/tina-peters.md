@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [election-integrity, colorado, clerk, commutation]
-sources: [raw/badlands-blitz-episode-18.md, raw/badlands-brief-174.md, raw/badlands-brief-5a2.md, raw/badlands-brief-774.md, raw/badlands-brief-a9f.md, raw/badlands-brief-b38.md, raw/badlands-brief-c07.md, raw/badlands-brief-e3f.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-8a4.md]
+sources: [raw/badlands-blitz-episode-18.md, raw/badlands-brief-174.md, raw/badlands-brief-5a2.md, raw/badlands-brief-774.md, raw/badlands-brief-a9f.md, raw/badlands-brief-b38.md, raw/badlands-brief-c07.md, raw/badlands-brief-e3f.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-8a4.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-8fd.md]
 confidence: medium
 ---
 
@@ -121,6 +121,14 @@ In November 2025 the [[justice-department|Justice Department]] asked the [[feder
 
 Badlands contributor [[ashe-in-america|Ashe in America]] assessed that Peters's strongest route out of state custody is the [[weaponization-of-government|weaponization of government]] theory, arguing that what is happening to her is cruel and unusual and is driven by her politics rather than her conduct.[16] She noted that Blanche was not advancing a specific legal argument but exploring available avenues, and specifically was not characterizing Peters as a federal election whistleblower — not because she is not one, in her view, but because that argument is legally weak.[16] She also observed that the forum in which the Department announced its investigation into weaponization in Colorado was Peters's own appeal, closing with the appeal "Free Tina Peters."[16]
 
+## DOJ weaponization investigation (2025)
+
+In May 2025, Badlands writer Ashe in America argued that the [[department-of-justice|Justice Department]] investigation into the weaponization of government against Peters, if conducted properly, would prove high crimes and misdemeanors in the Colorado executive branch beyond a reasonable doubt.[17] She framed Peters' prosecution in Colorado as directly tied to what she described as an interstate and ultimately global conspiracy to defraud the American people by rigging elections, and connected it to President [[donald-trump|Donald Trump]]'s promise to restore election integrity.[17]
+
+## Trump's December 2025 clemency demand and Badlands commentary
+
+President Donald Trump publicly demanded Peters' release in a December 2025 Truth Social post attacking Colorado Governor Jared Polis, saying she had served more than a year in jail with eight years to go, was a cancer survivor, and had been preserving election records she was obligated under federal law to protect.[18] Badlands host Ashe in America endorsed Trump's reading of the participants' intent but added precision: Peters was convicted of misrepresenting to the people she was investigating who was in her office, a response to arbitrary COVID-era rules issued by Secretary of State Jena Griswold about who could be present in county offices, and none of her charges or convictions were for cheating or meddling in elections.[18] Ashe argued the law was changed after the fact to criminalize what Peters did, called her ongoing treatment 'cruel, unusual, and unconstitutional,' and announced a marathon airing of a three-part series on the Peters story on her Rumble channel alongside coverage of the Peters-commissioned Mesa County reports with Colonel Shawn Smith on Why We Vote.[18]
+
 ## References
 1. Badlands Brief — "Badlands Blitz Episode 18", URL: https://badlands.substack.com/p/badlands-blitz-episode-18
 2. Badlands Brief — "Conflicts, Cartels, & Clemency", URL: https://badlands.substack.com/p/badlands-brief-174
@@ -138,3 +146,5 @@ Badlands contributor [[ashe-in-america|Ashe in America]] assessed that Peters's 
 14. Badlands Brief — "Brennan Decries Judge Shopping & JD Says It's Okay to Be White!", URL: https://badlands.substack.com/p/badlands-news-brief-795
 15. Badlands Brief — "Badlands News Brief: “Terrifying” Trade Alliances, Pedagogue Payouts, & A Bondi Barn Burner", URL: https://badlands.substack.com/p/badlands-news-brief-7bb
 16. Badlands Brief — "Embrace Disruption, Point Fingers, & Explore Any and All Options", URL: https://badlands.substack.com/p/badlands-news-brief-8a4
+17. Badlands Brief — "Badlands News Brief: Gazan Seizures & Gay Porn Scandals", URL: https://badlands.substack.com/p/badlands-news-brief-8dc
+18. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd

@@ -24,6 +24,12 @@ In an interview with Army Radio in late August 2024, Israeli National Security M
 
 Badlands Media reported that Ben-Gvir had repeatedly led "prayer groups" onto the compound grounds in violation of longstanding rules barring Israeli prayer and protest at the site, restrictions rooted in past attacks by Israeli extremists such as Meir Kahane and Baruch Goldstein.[2]
 
+## Ben-Gvir synagogue proposal (August 2024)
+
+In an interview with Army Radio in late August 2024, Israeli National Security Minister [[itamar-ben-gvir|Itamar Ben-Gvir]] called for a synagogue to be built atop the Al-Aqsa compound, Islam's third holiest site, and argued that Jews should have unrestricted access to pray there.[2] The remarks triggered immediate controversy, with some Israeli groups condemning them as needlessly inflammatory and unrealistic, and drew outrage from [[saudi-arabia|Saudi Arabia]] at a moment when Saudi-Israeli normalization talks were already stalled by the Gaza war.[2] Commentators noted that constructing a synagogue or a third temple on the site — which sits on the Temple Mount above the Western Wall — would require destroying the mosque and could provoke uprisings across the Islamic world large enough to trigger a broader regional war.[2]
+
+Badlands Media reported that Ben-Gvir had repeatedly led "prayer groups" onto the compound grounds in violation of longstanding rules barring Israeli prayer and protest at the site, restrictions rooted in past attacks by Israeli extremists such as Meir Kahane and Baruch Goldstein.[2]
+
 ## References
 1. Badlands News Brief — "Kamala Takes the Cheese as Things Get Weird Out East", URL: https://badlands.substack.com/p/badlands-news-brief-441
 2. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889

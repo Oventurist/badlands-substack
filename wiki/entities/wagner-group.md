@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, private-military, africa, sahel, syria]
-sources: [raw/badlands-brief-405.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-69b.md]
+sources: [raw/badlands-brief-405.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-860.md]
 confidence: medium
 ---
 
@@ -52,6 +52,10 @@ On this reading, the principal reason [[benjamin-netanyahu|Benjamin Netanyahu]] 
 
 Badlands Media argued in September 2024 that a major obstacle to French President [[emmanuel-macron|Emmanuel Macron]]'s stated ambition of "building bridges" with Africa is the Wagner Group, which has operated on the continent for several years alongside the Russian military, training local security forces to counter forces trained by NATO and the EU.[8] The outlet characterized Macron's "bridges" as a euphemism for violent coups and destabilizing color revolutions, and noted that Wagner and Russia are active in both the Israel theater and the Ukraine theater.[8] The commentary appeared alongside reporting that [[chad|Chad]] — described as the last bastion of French imperialism — was pressing for the expulsion of French forces.[8]
 
+## Sahel operations and the July 2024 Mali ambush
+
+Reporting in October 2024 on Burkina Faso's counter-terrorism campaign noted that interim president [[ibrahim-traore|Ibrahim Traoré]] and his allies in Niamey and Bamako had accused Ukraine of supporting terrorism in the Sahel, alleging that insurgents used intelligence supplied by Kyiv to carry out a July 2024 attack that killed dozens of Malian soldiers along with Wagner Group military personnel.[9] The three [[alliance-of-sahel-states|Alliance of Sahel States]] members, all under military rule, had severed defense ties with France and turned instead to Russia, which agreed to assist them with counter-terrorism.[9]
+
 ## References
 
 1. Badlands Brief — "Agencies Aflutter, Corporate Compacts & Discombobulated Drones", URL: https://badlands.substack.com/p/badlands-brief-405
@@ -62,3 +66,4 @@ Badlands Media argued in September 2024 that a major obstacle to French Presiden
 6. Badlands News Brief — "FBI Corruption, Kayfabe & Russia, Russia, Russia!", URL: https://badlands.substack.com/p/badlands-news-brief-38a
 7. Badlands Brief — "'Iran Iran Iran!' Is the New 'Russia Russia Russia!'", URL: https://badlands.substack.com/p/badlands-news-brief-421
 8. Badlands Brief — "Badlands News Brief: Trump Calls for Peace as the World Heads Toward War", URL: https://badlands.substack.com/p/badlands-news-brief-69b
+9. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [biden-family, diary, justice-department]
-sources: [raw/badlands-news-brief-158.md, raw/badlands-news-brief-298.md]
+sources: [raw/badlands-news-brief-158.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-8dc.md]
 confidence: medium
 ---
 
@@ -30,7 +30,12 @@ On Monday, March 17, 2025, President Donald Trump revoked the Secret Service sec
 
 Badlands commentary characterized the withdrawal of protection as an appropriate end to a taxpayer subsidy, arguing that the Biden children could pay for their own security and would likely need it if they remained in the United States.[2]
 
+## Women's Wellness Spa(ce)
+
+Ashley Biden founded the Women's Wellness Spa(ce), a tax-exempt nonprofit organization, in 2023; it states that it serves women who have experienced trauma.[3] In May 2025, the watchdog group the [[national-legal-and-policy-center|National Legal and Policy Center]] reported that the nonprofit failed to report a total of $500,000 in donations to the Internal Revenue Service during its first year.[3] One of the unreported donations came from a nonprofit affiliated with Prince Harry and Meghan Markle.[3] The findings were presented as part of ongoing financial questions surrounding the family of former president [[joe-biden|Joe Biden]], then three and a half months out of office.[3]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Middle Eastern Powder Kegs & Crisis Cascades Abound", URL: https://badlands.substack.com/p/badlands-news-brief-158
 2. Badlands News Brief — "Pirated Pardons & Delayed Declassifications", URL: https://badlands.substack.com/p/badlands-news-brief-298
+3. Badlands Brief — "Badlands News Brief: Gazan Seizures & Gay Porn Scandals", URL: https://badlands.substack.com/p/badlands-news-brief-8dc

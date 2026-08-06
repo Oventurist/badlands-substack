@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [africa, burkina-faso, coup]
-sources: [raw/badlands-brief-1ce.md]
+sources: [raw/badlands-brief-1ce.md, raw/badlands-news-brief-860.md]
 confidence: medium
 ---
 
@@ -14,5 +14,10 @@ Paul-Henri Sandaogo Damiba is a former President of [[burkina-faso|Burkina Faso]
 
 Togo's justice ministry stated that the charges levelled at Damiba by Burkina Faso's military government included "criminal embezzlement of public funds, illicit enrichment, corruption, aggravated receiving of stolen goods and money laundering."[1] Badlands coverage grouped his case with that of [[joseph-kabila|Joseph Kabila]] as examples of failed coups by former African presidents.[1]
 
+## Removal by Traoré
+
+Damiba served as Burkina Faso's interim president until he was ousted in a September 2022 coup led by Capt. [[ibrahim-traore|Ibrahim Traoré]].[2] Traoré marked the second anniversary of that seizure of power in an interview with national broadcaster RTB in October 2024, in which he pledged to recapture all territory still under terrorist control by 2025 and said his government had recruited more than 30,000 people into the army.[2]
+
 ## References
 1. Badlands Brief — "African Acceleration, Powell's Replacement, & MEGA Democracy", URL: https://badlands.substack.com/p/badlands-brief-1ce
+2. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860

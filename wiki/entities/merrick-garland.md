@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [doj, attorney-general, mar-a-lago, weaponization]
-sources: [raw/badlands-brief-2c5.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-59b.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-70a.md]
+sources: [raw/badlands-brief-2c5.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-59b.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-8d8.md, raw/badlands-news-brief-8f9.md]
 confidence: medium
 ---
 
@@ -51,6 +51,18 @@ Badlands contributor Burning Bright framed the episode through "patriot control"
 
 Garland also featured in the June 2024 [[america-first-legal|America First Legal]] complaint to the [[federal-election-commission|Federal Election Commission]], having declined at a congressional hearing to deny the existence of communications between the Biden Justice Department and the office of Manhattan District Attorney [[alvin-bragg|Alvin Bragg]], while refusing to disclose them.[7]
 
+## Live Nation antitrust suit
+
+On May 23, 2024, Garland announced a [[department-of-justice|Justice Department]] antitrust lawsuit against [[live-nation-entertainment|Live Nation Entertainment]], the parent company of [[ticketmaster|Ticketmaster]].[8] At the press conference he said: "We are not here today because Live Nation-Ticketmaster's conduct is inconvenient or frustrating. We are here because, as we allege, that conduct is anti-competitive and illegal. It is time to break it up."[8] The suit followed the collapse of Ticketmaster's 2022 presale for [[taylor-swift|Taylor Swift]]'s Eras Tour.[8]
+
+## Grassley-Johnson letter on blocked FBI arrests
+
+Garland was among the recipients — alongside Secretary of State [[antony-blinken|Antony Blinken]] and FBI Director [[christopher-wray|Christopher Wray]] — of May 2024 letters from Sens. [[chuck-grassley|Chuck Grassley]] and [[ron-johnson|Ron Johnson]] conveying whistleblower claims that the Obama-Biden [[state-department|State Department]] had actively interfered to stop the [[fbi|FBI]] from executing arrest warrants against people illegally in the United States who were allegedly supporting Iranian weapons-of-mass-destruction financing.[8]
+
+## School board memo and 2023 subpoena
+
+Garland signed the [[doj-school-board-memo-2021|2021 school board memorandum]] in October 2021, citing a "disturbing spike in harassment, intimidation, and threats of violence against school administrators, board members, teachers, and staff" amid broader disputes over COVID-19 policies and how race and gender were addressed in schools.[9] In early February 2023 he was subpoenaed over that memo by the [[house-judiciary-committee|House Judiciary Committee]] under Chairman [[jim-jordan|Jim Jordan]], in the committee's first subpoenas of the Congress, alongside [[fbi|FBI]] Director [[christopher-wray|Christopher Wray]] and Education Secretary [[miguel-cardona|Miguel Cardona]].[9]
+
 ## References
 
 1. Badlands Brief — "Bioweapons Sneak Into the News Cycle as Israeli Shenanigans Ensue", URL: https://badlands.substack.com/p/badlands-brief-2c5
@@ -60,3 +72,5 @@ Garland also featured in the June 2024 [[america-first-legal|America First Legal
 5. Badlands News Brief — "A Song of Ice and Fire, Fraud, and Foreign Flashpoints", URL: https://badlands.substack.com/p/badlands-news-brief-59b
 6.  Badlands Media — "Badlands News Brief: Biden Crime Cascade, Woke Collapse & Establishment Panic", URL: https://badlands.substack.com/p/badlands-news-brief-617
 7. Badlands Brief — "Badlands News Brief: Contempt, Combat Tactics and Cuts?", URL: https://badlands.substack.com/p/badlands-news-brief-70a
+8. Badlands Brief — "Badlands News Brief: Trump Hits the Bronx as the Establishment Panics", URL: https://badlands.substack.com/p/badlands-news-brief-8d8
+9. Badlands News Brief — "Deflated Balloons, Sketchy AI & Democrat Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-8f9

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, advocacy, x-corp, advertising, litigation]
-sources: [raw/badlands-news-brief-65a.md]
+sources: [raw/badlands-news-brief-65a.md, raw/badlands-news-brief-93d.md]
 confidence: medium
 ---
 
@@ -18,5 +18,12 @@ In November 2023 Media Matters released a report on advertisements running on [[
 
 Musk publicly rejected the advertiser pressure at the 2023 DealBook Summit in New York, saying: "If somebody's gonna try to blackmail me with advertising? Blackmail me with money? Go f**k yourself... Don't advertise."[1] In December 2023 he called for Disney CEO [[bob-iger|Bob Iger]] to be "fired immediately."[1]
 
+## Coverage of the 2023 Trump indictment
+
+In June 2023 Media Matters published an analysis arguing that [[fox-news|Fox News]] had responded to the [[2023-trump-classified-documents-indictment|indictment of Donald Trump]] over withheld classified documents with demagoguery suggesting the end of American democracy, while separately advancing what the group called a baseless conspiracy theory that the indictment was timed to distract from House Republican accusations against [[joe-biden|Joe Biden]] and [[hunter-biden|Hunter Biden]].[2] The organization pointed to the length of special counsel [[jack-smith|Jack Smith]]'s inquiry and to Fox's own prior reporting that Smith was about to conclude it.[2]
+
+[[badlands-media|Badlands Media]] contributor [[burning-bright|Burning Bright]] cited the Media Matters piece deliberately, describing the outlet as "perhaps more representative of the Globalist Deep State machine than any other" media mouthpiece and using its framing as a window into establishment narrative management.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Hunter Hunted, Swamp Exposed & Proxies Disabled", URL: https://badlands.substack.com/p/badlands-news-brief-65a
+2. Badlands Brief — "Badlands News Brief: Trump Trolls, Soros Slithers & Flags Fly", URL: https://badlands.substack.com/p/badlands-news-brief-93d

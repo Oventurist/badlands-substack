@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republicans, georgia, iran, america-first]
-sources: [raw/badlands-brief-509.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-533.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-752.md, raw/badlands-news-brief-779.md]
+sources: [raw/badlands-brief-509.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-533.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-752.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-8f9.md]
 confidence: low
 ---
 
@@ -68,6 +68,10 @@ In September 2025, Greene sent an official request to the [[department-of-justic
 
 The request cited [[georgia-state-election-board|Georgia State Election Board]] complaint 2023-025, which the board had in July 2025 made the subject of a resolution asking for an investigation into "outstanding allegations."[13] That complaint was the product of extensive research and investigation conducted by [[kevin-moncla|Kevin Moncla]] of the Election Oversight Group and [[joe-rossi|Joseph Rossi]].[13] [[badlands-media|Badlands Media]] contributor [[canncon|CannCon]], who had covered the underlying work extensively, described the referral as enormously important, writing that "it's yuge."[13]
 
+## ChatGPT refusal episode, February 2023
+
+Greene featured in a February 2023 controversy over political bias in [[chatgpt|ChatGPT]], after tech writer Andy Meek found that the model declined to write a poem about her, replying that she was "a controversial figure" and that it was not appropriate for an AI language model "to take a partisan stance or express opinions."[14] Summit News noted that the same model readily produced an effusive poem praising [[hunter-biden|Hunter Biden]], whom it characterized as no less controversial.[14]
+
 ## References
 
 1. Badlands Brief — "Election Exposure, Energy Angst & War Rackets", URL: https://badlands.substack.com/p/badlands-brief-509
@@ -83,3 +87,4 @@ The request cited [[georgia-state-election-board|Georgia State Election Board]] 
 11.  Badlands Media — "Badlands News Brief: Biden Crime Cascade, Woke Collapse & Establishment Panic", URL: https://badlands.substack.com/p/badlands-news-brief-617
 12. Badlands Brief — "Somali Probes, JD Plots, & A Lawfare RICO", URL: https://badlands.substack.com/p/badlands-news-brief-752
 13. Badlands Brief — "Badlands News Brief: Grand Juries, Pressure Campaigns, & Elaborate Hoaxes", URL: https://badlands.substack.com/p/badlands-news-brief-779
+14. Badlands News Brief — "Deflated Balloons, Sketchy AI & Democrat Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-8f9

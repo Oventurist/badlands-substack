@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [corporations, media, americana, boycotts]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-brief-0a2.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-3c1.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-4c3.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-brief-0a2.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-3c1.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-8ce.md]
 confidence: medium
 ---
 
@@ -54,6 +54,11 @@ In a press release, AFL said Disney had "displayed an inexplicable disregard for
 
 [[burning-bright|Burning Bright]] characterized the week's developments as a "Narrative Crisis Cascade" for the world's biggest entertainment company, pointing to The Hollywood Reporter's headline "[[bob-iger|Bob Iger]]'s Invincible Era Is Over," billionaire [[nelson-peltz|Nelson Peltz]]'s bid for a Disney board seat following his endorsement of [[donald-trump|Donald Trump]], Disney's settlement with the State of Florida over its special status disputes, [[elon-musk|Elon Musk]]'s backing of Gina Carano's lawsuit against the company, and AFL's legal campaign.[7] "Disney WAS a distraction," he wrote. "Now, it's demise has become the very entertainment it used to peddle."[7]
 
+
+## Jimmy Kimmel suspension and reinstatement
+
+In September 2025, Disney-owned ABC took [[jimmy-kimmel|Jimmy Kimmel]]'s late-night program *Jimmy Kimmel Live!* off the air under pressure from the [[trump-administration|Trump administration]], station owners and conservative critics over comments Kimmel made after the killing of activist [[charlie-kirk|Charlie Kirk]].[8] Nearly a week later, The Walt Disney Co. announced his return for Tuesday, September 23, saying in a statement: "Last Wednesday, we made the decision to suspend production on the show to avoid further inflaming a tense situation at an emotional moment for our country. It is a decision we made because we felt some of the comments were ill-timed and thus insensitive."[8] The company said that after "thoughtful conversations with Jimmy," it had reached the decision to return the show.[8]
+
 ## References
 1. Badlands Brief — "A Communist Plot to Take Over America", URL: https://badlands.substack.com/p/a-communist-plot-to-take-over-america
 2. Badlands Brief — "A Virtual Smash & Grab & Another Impeachment Hoax", URL: https://badlands.substack.com/p/badlands-brief-0a2
@@ -62,3 +67,4 @@ In a press release, AFL said Disney had "displayed an inexplicable disregard for
 5. Badlands Media — "Badlands News Brief: Witch Hunt, Woke's Fall & Peacemakers", URL: https://badlands.substack.com/p/badlands-news-brief-3c1
 6. Badlands Brief — "Badlands News Brief: Sudan Seized, Tucker Trashed & ISIS Eliminated", URL: https://badlands.substack.com/p/badlands-news-brief-46b
 7. Badlands News Brief — "Trump Counters, SBF Pleads & Disney Dies?", URL: https://badlands.substack.com/p/badlands-news-brief-4c3
+8. Badlands Brief — "Palestinian Promises, Venezuelan Ventures, & Kazakh Considerations", URL: https://badlands.substack.com/p/badlands-news-brief-8ce

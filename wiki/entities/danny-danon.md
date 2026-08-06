@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, united-nations, diplomacy, free-speech]
-sources: [raw/badlands-brief-58d.md]
+sources: [raw/badlands-brief-58d.md, raw/badlands-news-brief-8ce.md]
 confidence: medium
 ---
 
@@ -20,5 +20,11 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] encou
 
 The episode was folded into a wider argument that international opinion is turning against Israel not for reasons of religion but because of the conduct of its government, described in the commentary as despotic and as relying on accusations of antisemitism to deflect criticism.[1]
 
+
+## Response to the September 2025 recognitions
+
+As Israel's ambassador to the [[united-nations|United Nations]], Danon responded to the wave of recognitions of [[palestinian-statehood|Palestinian statehood]] announced in New York on September 22, 2025 by telling reporters, "We will take action."[2] He declined to say whether that would mean, as some Israeli officials had suggested, expanded settlements or outright annexations in the territory envisioned as a Palestinian state, saying Israel's response would be announced by Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]], who was to address the UN gathering and meet that week with President [[donald-trump|Donald Trump]].[2]
+
 ## References
 1. Badlands Brief — "White Knuckling Weaponized Government", URL: https://badlands.substack.com/p/badlands-brief-58d
+2. Badlands Brief — "Palestinian Promises, Venezuelan Ventures, & Kazakh Considerations", URL: https://badlands.substack.com/p/badlands-news-brief-8ce

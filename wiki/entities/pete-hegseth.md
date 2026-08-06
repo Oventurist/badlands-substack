@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [defense, trump-administration, pentagon, industrial-base]
-sources: [raw/badlands-brief-311.md, raw/badlands-brief-52f.md, raw/badlands-brief-5ba.md, raw/badlands-brief-67a.md, raw/badlands-brief-686.md, raw/badlands-brief-708.md, raw/badlands-brief-774.md, raw/badlands-brief-d17.md, raw/badlands-brief-e8d.md, raw/badlands-brief-e9e.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-433.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-592.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-763.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-824.md]
+sources: [raw/badlands-brief-311.md, raw/badlands-brief-52f.md, raw/badlands-brief-5ba.md, raw/badlands-brief-67a.md, raw/badlands-brief-686.md, raw/badlands-brief-708.md, raw/badlands-brief-774.md, raw/badlands-brief-d17.md, raw/badlands-brief-e8d.md, raw/badlands-brief-e9e.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-433.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-592.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-763.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-8fd.md]
 confidence: medium
 ---
 
@@ -136,6 +136,10 @@ On November 25, 2025, Hegseth publicly denounced the [[seditious-six-video|"Sedi
 
 Separately, Hegseth was reported to have circulated a memo — first reported by NPR — seeking to cut military ties with [[scouting-america|Scouting America]], accusing the organization of attacking boy-friendly spaces and of being "genderless" amid his displeasure with its diversity, equity and inclusion programming.[27] The group responded that it was "surprised and disappointed," noting the military's support for the Scouts since 1937.[27]
 
+## Pentagon inspector general report on Signalgate
+
+On December 4, 2025, the Pentagon inspector general released its long-awaited report on Hegseth's role in the Signalgate affair.[28] Investigators concluded that his use of the Signal messaging app to send updates about strikes in Yemen broke rules for handling sensitive information and risked putting troops in danger, even though he has the power to declassify such information as he sees fit.[28] Reporting on the release listed six takeaways: that he broke the rules, kept a very tight circle, offered up incomplete records, produced findings open to interpretation, failed to satisfy Democrats, and had changed his tune; analysts judged that nothing in it would doom Trump's most embattled Cabinet chief, though it could complicate his political future.[28]
+
 ## References
 
 1. Badlands Brief — "Massie Faces Massive Loss as Zionists Get Twitchy", URL: https://badlands.substack.com/p/badlands-brief-311
@@ -165,3 +169,4 @@ Separately, Hegseth was reported to have circulated a memo — first reported by
 25. Badlands Brief — "Badlands News Brief: MAHA, Modi, Musk, & Munich", URL: https://badlands.substack.com/p/badlands-news-brief-7b8
 26. Badlands Brief — "Corruption Within Corruption & A Offer of Free Elections", URL: https://badlands.substack.com/p/badlands-news-brief-7e8
 27. Badlands Brief — "Badlands News Brief: Saudi Scoops, Slender Stabbers, & Scorned Scouts", URL: https://badlands.substack.com/p/badlands-news-brief-824
+28. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd

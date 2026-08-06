@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [public-health, vaccines, federal-agencies, cdc]
-sources: [raw/badlands-brief-311.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-69d.md, raw/badlands-news-brief-899.md]
+sources: [raw/badlands-brief-311.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-69d.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8cd.md]
 confidence: medium
 ---
 
@@ -34,9 +34,18 @@ Commentary published in mid-June 2025 noted that most of the seventeen dismissed
 
 Following Health and Human Services Secretary Robert F. Kennedy Jr.'s dismissal of all sitting ACIP members over conflict-of-interest concerns, pharmaceutical companies, pharmacists, and medical associations with longstanding ties to vaccine manufacturers including Merck, Sanofi, and Pfizer formed a private coalition aimed at bypassing the committee, according to Washington Post reporting summarized in June 2025.[5] The unnamed coalition, which also includes state health officials and a new advocacy group, is working with the University of Minnesota's Vaccine Integrity Project to develop a "nongovernmental vaccine system."[5] Its plan involves ordering vaccines directly from manufacturers and following recommendations issued by medical associations rather than ACIP.[5]
 
+## Pediatric death data presentation (September 2025)
+
+Trump health officials planned to link coronavirus vaccines to the deaths of 25 children in a presentation to ACIP, according to the Washington Post citing four people familiar with confidential discussions, as the committee weighed new recommendations determining access to coronavirus shots.[6] The findings appeared to stem from reports filed to the [[vaccine-adverse-event-reporting-system|Vaccine Adverse Event Reporting System]], which accepts submissions from patients, doctors, and pharmacists.[6] [[centers-for-disease-control-and-prevention|CDC]] staff had already presented data in June showing at least 25 child deaths tied to COVID-related hospitalizations since July 2023, a figure the agency said was likely undercounted.[6]
+
+FDA Commissioner [[marty-makary|Marty Makary]] confirmed that officials were investigating reports of possible vaccine-related child deaths, reviewing autopsy results and interviewing families; the review could take months, and the analysis being prepared for ACIP was not yet final.[6] The meeting was considered critical because the committee's recommendations shape insurance coverage, pharmacy access, and physician willingness to administer the shots, and [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] — who earlier in the year replaced the panel's membership with his own appointees, many of them vocal critics of COVID vaccines — was weighing adding more such members.[6]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] said that although she usually tunes out news of government committees, this one warranted attention, and argued that many more deaths likely resulted from what she described as mass experimentation on American children without informed consent.[6]
+
 ## References
 1. Badlands Brief — "Massie Faces Massive Loss as Zionists Get Twitchy", URL: https://badlands.substack.com/p/badlands-brief-311
 2. Badlands Brief — "Dems Demand a Post-Trump Strategy as Hamas Haggles for Peace", URL: https://badlands.substack.com/p/badlands-brief-9eb
 3. Badlands Brief — "Badlands News Brief: California Crossroads, Selective Insurrection, & Irian Limits", URL: https://badlands.substack.com/p/badlands-news-brief-155
 4. Badlands Brief — "Badlands News Brief: Assassinations, Celebrations, & Another World War III", URL: https://badlands.substack.com/p/badlands-news-brief-69d
 5. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
+6. Badlands Brief — "Badlands News Brief: Vigils, Vanguards, & Various Investigations", URL: https://badlands.substack.com/p/badlands-news-brief-8cd

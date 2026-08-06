@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [politician, congress, republican, house-speaker]
-sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-05f.md, raw/badlands-brief-1ae.md, raw/badlands-brief-285.md, raw/badlands-brief-314.md, raw/badlands-brief-52f.md, raw/badlands-brief-ac2.md, raw/badlands-brief-fd9.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-215.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-365.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-752.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-8a4.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-05f.md, raw/badlands-brief-1ae.md, raw/badlands-brief-285.md, raw/badlands-brief-314.md, raw/badlands-brief-52f.md, raw/badlands-brief-ac2.md, raw/badlands-brief-fd9.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-215.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-365.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-752.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-8a4.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-91b.md]
 confidence: low
 ---
 
@@ -202,6 +202,14 @@ On December 18, 2024, Johnson withdrew the stopgap spending bill intended to fun
 
 Following the Republican losses in the [[2025-off-year-elections|2025 off-year elections]], Johnson used a news conference to cast [[zohran-mamdani|Zohran Mamdani]], the mayor-elect of New York City and a self-described democratic socialist, as the new leader of the [[democratic-party|Democratic Party]].[40] His framing was part of a broader Republican search for culprits that blamed weak candidates, the [[october-2025-government-shutdown|government shutdown]], a focus on transgender issues, and a weak economic message — while conspicuously avoiding any criticism of President [[donald-trump|Donald Trump]].[40]
 
+## Refusal to recall the House for disaster aid (October 2024)
+
+As [[hurricane-milton|Hurricane Milton]] approached Florida in October 2024 and federal disaster programs — including [[fema|FEMA]]'s disaster fund and flood insurance program and [[small-business-administration|Small Business Administration]] loans — were reported to be weeks from exhaustion, lawmakers of both parties called for Congress to return to Washington before the November election to approve additional funding.[41] Fiscal conservatives in the House balked at the idea, and Johnson said that weekend that he had no plans to bring his members back.[41]
+
+## House member security pilot program (2025)
+
+In July 2025, as Speaker of the [[us-house-of-representatives|House of Representatives]], Johnson announced an increase in security measures for House members structured as a two-month pilot program, prompted by rising political violence and threats as lawmakers prepared to leave Washington for the August recess.[42] Among the changes was a doubling of the funds members may use to install security equipment at their personal residences, from $10,000 to $20,000.[42] Johnson said leaders would in a few months "evaluate all the data points [of the pilot program], see how effective it was, how it was utilized, and then make decisions going forward."[42] See [[2025-house-member-security-pilot-program|2025 House member security pilot program]].[42]
+
 ## References
 
 1. Badlands Brief — "A Glaring Double Standard", URL: https://badlands.substack.com/p/a-glaring-double-standard
@@ -244,3 +252,5 @@ Following the Republican losses in the [[2025-off-year-elections|2025 off-year e
 38. Badlands Brief — "Somali Probes, JD Plots, & A Lawfare RICO", URL: https://badlands.substack.com/p/badlands-news-brief-752
 39. Badlands Brief — "Johnson's Package Goes Flaccid ... And Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-79f
 40. Badlands Brief — "Embrace Disruption, Point Fingers, & Explore Any and All Options", URL: https://badlands.substack.com/p/badlands-news-brief-8a4
+41. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
+42. Badlands Brief — "Badlands News Brief: The Corruption of Anti-Corruption & Obama Bites Back", URL: https://badlands.substack.com/p/badlands-news-brief-91b

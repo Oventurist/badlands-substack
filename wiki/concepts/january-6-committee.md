@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [congress, january-6, investigations, subpoenas]
-sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-07f.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-89f.md]
+sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-07f.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-8f4.md]
 confidence: medium
 ---
 
@@ -58,6 +58,12 @@ Reporting in January 2024 established that the select committee deleted more tha
 
 ZeroHedge framed the episode as continuous with the committee's earlier conduct — the disappearance of deposition videos and the withholding of exculpatory footage — remarking that "nothing says 'legitimate investigation' like deleting deposition videos, withholding exculpatory footage, and now — deleting encrypted files."[7]
 
+## March 2023 challenge to the final report
+
+The committee's credibility came under renewed attack in March 2023 after [[tucker-carlson|Tucker Carlson]] began airing previously unreleased Capitol security footage.[8] Badlands contributor [[patel-patriot|Patel Patriot]] wrote that the committee's final report totaled 845 pages and that after the first release of footage the entirety of the document could be thrown in the trash.[8] He focused on a paragraph describing [[jacob-chansley|Jacob Chansley]] entering the Capitol and praying in the Senate chamber, arguing that two important details were absent when compared with the video, and publicly asked committee member [[adam-kinzinger|Adam Kinzinger]] why the report omitted any mention of [[united-states-capitol-police|Capitol Police]] escorting Chansley around the Senate chamber and included only a portion of his prayer.[8]
+
+Contemporary coverage also noted that the footage ran contrary to narratives advanced by the committee and by former Rep. [[liz-cheney|Liz Cheney]], who had characterized the rioters as having participated in an "insurrection."[8] Former President [[donald-trump|Donald Trump]] responded to the broadcast with the words "Free at Last."[8]
+
 ## References
 1. Badlands Brief — "American Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-a1a
 2. Badlands News Brief — "Trump's Trial, Archer's Animus & BRICS' Battle", URL: https://badlands.substack.com/p/badlands-news-brief-07f
@@ -66,3 +72,4 @@ ZeroHedge framed the episode as continuous with the committee's earlier conduct 
 5. Badlands Brief — "Trump Trifecta, COVID Concealment & Sorosian Slime", URL: https://badlands.substack.com/p/badlands-news-brief-5a7
 6. Badlands Brief — "Red States Align While the MSM Craters", URL: https://badlands.substack.com/p/badlands-news-brief-5ff
 7. Badlands Brief — "Badlands News Brief: The Trump Train Rolls on ... Fake MAGA Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-89f
+8. Badlands Brief — "Badlands News Brief: January 6 and Nord Stream Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-8f4

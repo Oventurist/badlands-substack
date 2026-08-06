@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [election-integrity, 2020-election, badlands-brief]
-sources: [raw/badlands-brief-2c0.md, raw/badlands-brief-5ba.md, raw/badlands-brief-b34.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-8bd.md]
+sources: [raw/badlands-brief-2c0.md, raw/badlands-brief-5ba.md, raw/badlands-brief-b34.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-8fd.md]
 confidence: medium
 ---
 
@@ -34,9 +34,14 @@ During [[badlands-media|Badlands Media]]'s 15-hour live special coverage of the 
 
 Badlands contributor [[burning-bright|Burning Bright]] highlighted that Byrne followed the remark not with a call to preserve existing election systems but with a demand that a returning President [[donald-trump|Donald Trump]] completely reform them, so that elaborate defensive structures would no longer be needed merely to protect the sovereign will of the people.[5]
 
+## Venezuelan election fraud story
+
+In December 2025 Badlands host Ashe in America announced that Byrne would join her and CannCon on Why We Vote to discuss the Venezuelan election fraud story then circulating widely online.[6] She traced the thread from filings in Tina Peters' First Amendment appeal through a Lara Logan interview to reporting by Emerald Robinson, which she said placed Byrne at the center of the matter.[6]
+
 ## References
 1. Badlands Brief — "Southern Hospitality Superseded Plus Cross Burning", URL: https://badlands.substack.com/p/badlands-brief-2c0
 2. Badlands Brief — "Guardians, Shields, & Iranian House Arrest", URL: https://badlands.substack.com/p/badlands-brief-5ba
 3. Badlands Brief — "The Old Guard Is Very Confused About What's Happening to Them", URL: https://badlands.substack.com/p/badlands-brief-b34
 4. Badlands Brief — "Badlands News Brief: Victim Cards, Foreign Inference, & Chessboard Stans", URL: https://badlands.substack.com/p/badlands-news-brief-448
 5. Badlands Brief — "Badlands News Brief: A New Golden Age Begins ...?", URL: https://badlands.substack.com/p/badlands-news-brief-8bd
+6. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd

@@ -18,6 +18,10 @@ In March 2026 a viral video widely attributed to Ben Gvir — purportedly callin
 
 Badlands Media has repeatedly identified Gopstein as the mentor of Israeli National Security Minister [[itamar-ben-gvir|Itamar Ben-Gvir]], noting that Gopstein drew incitement charges in 2015 after calling for churches to be burned and for all Christians to be expelled from [[israel|Israel]].[2] The outlet invoked this record in August 2024 while arguing that Ben-Gvir's call to build a synagogue atop the [[al-aqsa-mosque|Al-Aqsa Mosque]] was the predictable outgrowth of a Jewish supremacist current hostile to Muslims and Christians alike.[2]
 
+## Cited as Ben-Gvir's mentor (2024 coverage)
+
+Badlands Media has repeatedly identified Gopstein as the mentor of Israeli National Security Minister [[itamar-ben-gvir|Itamar Ben-Gvir]], noting that Gopstein drew incitement charges in 2015 after calling for churches to be burned and for all Christians to be expelled from [[israel|Israel]].[2] The outlet invoked this record in August 2024 while arguing that Ben-Gvir's call to build a synagogue atop the [[al-aqsa-mosque|Al-Aqsa Mosque]] was the predictable outgrowth of a Jewish supremacist current hostile to Muslims and Christians alike.[2]
+
 ## References
 1. Badlands Brief — "Religious Regime Change, Sacked Security Sacked, & More Medicare Malice", URL: https://badlands.substack.com/p/badlands-brief-7ed
 2. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889

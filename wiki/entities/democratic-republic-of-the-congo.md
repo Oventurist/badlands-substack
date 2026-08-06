@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [africa, congo, minerals, rwanda, conflict]
-sources: [raw/badlands-brief-1ce.md, raw/badlands-brief-2c5.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-508.md]
+sources: [raw/badlands-brief-1ce.md, raw/badlands-brief-2c5.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-8fd.md]
 confidence: medium
 ---
 
@@ -46,9 +46,14 @@ The United States sanctioned Rwandan deputy foreign minister Gen. [[james-kabare
 
 In April 2025 the United States was reported to be closing in on a [[us-dr-congo-critical-minerals-deal|strategic minerals agreement]] with the DR Congo that could reshape the global critical minerals landscape and bolster American influence in central Africa.[5] The deal would facilitate American private-sector investment in the country's vast lithium, copper and cobalt reserves in exchange for greater U.S. support for President [[felix-tshisekedi|Félix Tshisekedi]]'s embattled government, with the [[development-finance-corporation|U.S. International Development Finance Corporation]] expected to underwrite portions of the investment.[5] Badlands commentary estimated the DRC's subsoil mineral wealth at some $24 trillion and framed the deal as a reversal of Chinese dominance in the sector.[5]
 
+## December 2025 Washington summit with Rwanda
+
+President Donald Trump hosted DRC President Felix Tshisekedi and Rwandan President Paul Kagame in Washington on December 4, 2025 to sign deals intended to stabilize the region and attract Western mining investment, building on an economic integration compact agreed the previous month and an unimplemented US-brokered peace deal from June.[6] Analysts said American diplomacy had paused escalation in eastern Congo without resolving core issues, and Badlands commentary argued the conflict persists because a cartel that lost control of eastern Congolese minerals under Executive Order 13818 wants them back.[6]
+
 ## References
 1. Badlands Brief — "African Acceleration, Powell's Replacement, & MEGA Democracy", URL: https://badlands.substack.com/p/badlands-brief-1ce
 2. Badlands Brief — "Bioweapons Sneak Into the News Cycle as Israeli Shenanigans Ensue", URL: https://badlands.substack.com/p/badlands-brief-2c5
 3. Badlands News Brief — "Weed Wins, Globalist Whisking, & Lizard-Led Impeachments", URL: https://badlands.substack.com/p/badlands-news-brief-0ef
 4. Badlands Brief — "Climbing Confidence, a Congolese Crisis, & Uncorroborated KGB Claims", URL: https://badlands.substack.com/p/badlands-news-brief-457
 5. Badlands News Brief — "Treasury Triumphs, TikTok U-Turns, & Trade War Time-Outs", raw/badlands-news-brief-508.md
+6. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [government-shutdown, congress, federal-budget, appropriations, libertarianism]
-sources: [raw/badlands-news-brief-060.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-398.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-817.md]
+sources: [raw/badlands-news-brief-060.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-398.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-8d6.md]
 confidence: medium
 ---
 
@@ -84,6 +84,10 @@ The administration said most states would receive funds to distribute full SNAP 
 
 [[jon-herold|Jon Herold]] focused his criticism on a provision slipped into the Senate-passed reopening bill that creates a backdated law allowing senators to sue the government and collect money, calling it "extra bullshit" that the carve-out applies to senators only and not to private citizens affected in the same way, and describing it as unconstitutional though unsurprising from "illegitimate government officials."[9]
 
+## Day 1 (October 1, 2025)
+
+The federal government shut down at midnight on 1 October 2025 after a deadlocked [[congress|Congress]] failed to reach a deal on funding, with Republicans and Democrats at odds over enhanced Obamacare subsidies.[10] Federal workers bore the brunt of the lapse, and the [[white-house|White House]] said federal workforce layoffs were "imminent," while agencies and activities deemed essential remained open.[10] Senators left town until Friday, meaning the shutdown would last at least until then and likely longer.[10] Badlands host [[chris-paul|Chris Paul]] responded that the United States is in "$37 trillion of odious debt on paper" which "is not the People's debt," and questioned Vice President [[jd-vance|JD Vance]]'s involvement in the negotiations.[10] The shutdown talks were also the backdrop to the [[deepfake-jeffries-sombrero-video|deepfake Jeffries sombrero video]] Trump posted after meeting [[hakeem-jeffries|Hakeem Jeffries]] and [[chuck-schumer|Chuck Schumer]].[10]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Quantum Tunneling, Natural Conflicts, & Pirates for Gaza", URL: https://badlands.substack.com/p/badlands-news-brief-060
@@ -95,3 +99,4 @@ The administration said most states would receive funds to distribute full SNAP 
 7. Badlands Brief — "Badlands News Brief: Price Floors, Curveballs, & Benevolent Discrimination", URL: https://badlands.substack.com/p/badlands-news-brief-4cf
 8. Badlands Brief — "Badlands News Brief: Shutdowns, Shakedowns, & Two Sexes", URL: https://badlands.substack.com/p/badlands-news-brief-762
 9. Badlands Brief — "Badlands News Brief: MAGA Cracks, Fund Funnels, & Devilish Bees", URL: https://badlands.substack.com/p/badlands-news-brief-817
+10. Badlands Brief — "Badlands News Brief: Inadvertent Israeli Attacks, Delightful Deep Fakes, & A Suing Shaman", URL: https://badlands.substack.com/p/badlands-news-brief-8d6

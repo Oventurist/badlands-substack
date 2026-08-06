@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [germany, europe, politics]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-165.md, raw/badlands-brief-6bf.md, raw/badlands-brief-cfa.md, raw/badlands-news-brief-457.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-165.md, raw/badlands-brief-6bf.md, raw/badlands-brief-cfa.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-8fd.md]
 confidence: medium
 ---
 
@@ -40,9 +40,14 @@ Merz's conservatives won the German federal election of February 2025, finishing
 
 The other winner of the night was the far-right [[alternative-for-germany|Alternative for Germany]], which celebrated a record second-place result of 20.8% and led all parties in the east with a projected 34%.[5] AfD chancellor candidate [[alice-weidel|Alice Weidel]] predicted that Merz's attempt to forge a coalition would end in failure and that fresh elections would follow well before another four years elapsed.[5] Badlands commentary greeted the result by questioning whether German elections are genuine at all.[5]
 
+## Ukraine peace talks phone call
+
+Merz joined French President Emmanuel Macron on a December 2025 phone call with Vladimir Zelensky, Finnish President Alexander Stubb, European Commission President Ursula von der Leyen, and NATO Secretary General Mark Rutte, in which European leaders voiced deep distrust of the US-led effort to end the Ukraine conflict.[6] Merz was reported to share Macron's assessment that continued peace talks could pose a 'great danger' for Zelensky personally.[6] Badlands contributor GhostofBasedPatrickHenry addressed Merz directly, writing that Trump was going to betray him and his ilk 'because that is the morally righteous thing to do.'[6]
+
 ## References
 1. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
 2. Badlands Brief — "Trump Conducts the Chaos as the Uniparty Concentrates Fire", URL: https://badlands.substack.com/p/badlands-brief-165
 3. Badlands Brief — "SCOTUS: You Can Be Neither Racist Nor Unilaterally Murdery", URL: https://badlands.substack.com/p/badlands-brief-6bf
 4. Badlands Brief — "Cartel & Comey Indictments Plus War Ripples & Election Fraud", URL: https://badlands.substack.com/p/badlands-brief-cfa
 5. Badlands Brief — "Climbing Confidence, a Congolese Crisis, & Uncorroborated KGB Claims", URL: https://badlands.substack.com/p/badlands-news-brief-457
+6. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd

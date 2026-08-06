@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, defense-minister, gaza, netanyahu]
-sources: [raw/badlands-news-brief-09d.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-889.md]
+sources: [raw/badlands-news-brief-09d.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-914.md]
 confidence: medium
 ---
 
@@ -88,6 +88,22 @@ Gallant was replaced by Foreign Minister [[israel-katz|Israel Katz]], with minis
 
 In August 2024 Gallant, as defense minister, joined the head of the [[shin-bet|Shin Bet]] in publicly criticizing National Security Minister [[itamar-ben-gvir|Itamar Ben-Gvir]] for encouraging settler attacks in the West Bank and for failing to deploy the police forces under his ministry to shut down the incidents or arrest those involved.[12]
 
+## Criticism of Ben-Gvir (August 2024)
+
+In August 2024 Gallant, as defense minister, joined the head of the [[shin-bet|Shin Bet]] in publicly criticizing National Security Minister [[itamar-ben-gvir|Itamar Ben-Gvir]] for encouraging settler attacks in the West Bank and for failing to deploy the police forces under his ministry to shut down the incidents or arrest those involved.[12]
+
+## "War without a compass" letter (October 2024)
+
+In late October 2024, Gallant sent a letter to Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] and members of the security cabinet stating that "the war is being conducted without a compass" and that its objectives needed to be updated.[13] The letter, first reported by Channel 13 News, was dispatched shortly before Israel's overnight strike on [[iran|Iran]] and was copied to [[shin-bet|Shin Bet]] director [[ronen-bar|Ronen Bar]], [[mossad|Mossad]] chief [[david-barnea|David Barnea]], IDF Chief of Staff [[herzl-halevi|Herzl Halevi]] and cabinet ministers.[13] Gallant argued that operating without a valid compass and without updated war goals harmed both the management of the campaign and the cabinet's decisions, and that the direct exchanges of blows between Israel and Iran made a comprehensive review of objectives across all arenas urgent.[13]
+
+He proposed four new war goals corresponding to the four arenas in which Israel operates — [[gaza|Gaza]], [[lebanon|Lebanon]], Iran and the West Bank.[13] For Gaza, the stated objective was "establishing a reality without a military threat, preventing the enhancement of terror capabilities, securing the return of all hostages, and promoting an alternative to [[hamas|Hamas]] rule."[13]
+
+### Badlands analysis
+
+[[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] situated the letter in the rift between Gallant and Netanyahu dating to March 2023, when Gallant attended an anti-Netanyahu protest against the judicial overhaul and was fired, only to be rehired the following day.[13] He characterized the public letter, issued hours before the Iran strike, as a strange move that underscored the fractured state of Israeli domestic politics at what he called the most critical moment in the nation's short history.[13] Importantly, in his reading Gallant — widely regarded as the Biden administration's "inside man" in the Netanyahu cabinet — was not criticizing the warmongering itself, only the absence of defined objectives.[13]
+
+The commentary predicted that the most likely outcome would be Gallant's dismissal and replacement, a step fraught with risk for Netanyahu given competing pressures within his coalition, with [[gideon-saar|Gideon Sa'ar]] the long-rumored successor and [[itamar-ben-gvir|Itamar Ben-Gvir]] the option most likely to provoke mutiny among the [[israel-defense-forces|IDF]] brass.[13] It also noted that both Gallant and [[benny-gantz|Benny Gantz]] are retired generals who, despite a long history as political rivals, found common ground in criticizing Netanyahu and appear to speak for an IDF leadership that has soured on the lack of strategic objectives.[13]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Iranian Crashes, Israeli Maneuvers & Trumpian Rhetoric", URL: https://badlands.substack.com/p/badlands-news-brief-09d
@@ -102,3 +118,4 @@ In August 2024 Gallant, as defense minister, joined the head of the [[shin-bet|S
 10. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
 11. Badlands Brief — "Badlands News Brief: A New Golden Age Begins ...?", URL: https://badlands.substack.com/p/badlands-news-brief-8bd
 12. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889
+13. Badlands Brief — "Badlands News Brief: Trump Tours, Bannon Breaks Out & Israel Hesitates", URL: https://badlands.substack.com/p/badlands-news-brief-914

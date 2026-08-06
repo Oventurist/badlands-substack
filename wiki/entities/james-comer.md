@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, oversight, republican-party, kentucky]
-sources: [raw/badlands-brief-144.md, raw/badlands-brief-1cd.md, raw/badlands-brief-314.md, raw/badlands-brief-6f4.md, raw/badlands-brief-e9e.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-88b.md]
+sources: [raw/badlands-brief-144.md, raw/badlands-brief-1cd.md, raw/badlands-brief-314.md, raw/badlands-brief-6f4.md, raw/badlands-brief-e9e.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-8c5.md]
 confidence: medium
 ---
 
@@ -87,6 +87,10 @@ On Thursday, August 10, 2023, Comer said he intended to subpoena members of the 
 
 Commenting for [[badlands-media|Badlands Media]], [[burning-bright|Burning Bright]] argued that the [[biden-crime-family|Biden Crime Family]] and Justice Department–versus–Trump storylines were running in parallel rather than converging: on one side almost-daily disclosures seeding Biden corruption into the collective mind with no apparent justice, and on the other exposure of a two-tier justice system in which special counsels and attorneys general appeared to be coordinating a canned hunt on [[donald-trump|Donald Trump]].[16]
 
+## Ukraine aid accounting demand (February 2023)
+
+On February 22, 2023, Comer and other members of the [[house-oversight-committee|House Oversight Committee]] wrote to the Biden administration demanding an accounting of the billions of dollars [[congress|Congress]] had sent to [[ukraine|Ukraine]], amid growing questions over whether aid should continue at existing levels.[17] The letter sought a detailed record of where the funding had gone and what safeguards the administration had established against wasteful spending.[17] The request coincided with the [[department-of-defense-office-of-inspector-general|DoD Office of Inspector General]]'s disclosure that it was planning five potential oversight projects related to Ukraine.[17] [[badlands-media|Badlands Media]] contributor [[just-human|Just Human]] wrote that Comer's committee was "delivering on their promises" and that the effort tracked a broader shift in Congress and among the public against further [[ukraine-aid-funding-controversy|Ukraine aid]].[17]
+
 ## References
 
 1. Badlands Brief — "MLKKK Day, Peace Boards and Power Paradigms", URL: https://badlands.substack.com/p/badlands-brief-144
@@ -105,3 +109,4 @@ Commenting for [[badlands-media|Badlands Media]], [[burning-bright|Burning Brigh
 14. Badlands News Brief — "The Bilateral Bromance & A Misled Grand Jury", URL: https://badlands.substack.com/p/badlands-news-brief-7bf
 15. Badlands Brief — "Badlands News Brief: MAHA, Modi, Musk, & Munich", URL: https://badlands.substack.com/p/badlands-news-brief-7b8
 16. Badlands News Brief — "The Trump Hunt & the Biden Blitz", URL: https://badlands.substack.com/p/badlands-news-brief-88b
+17. Badlands Brief — "Badlands News Brief: Putin Postures, Voting Matters & J6 Subpoenas", URL: https://badlands.substack.com/p/badlands-news-brief-8c5

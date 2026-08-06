@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [middle-east, diplomacy, israel, iran, trump, badlands-brief]
-sources: [raw/badlands-brief-3d4.md, raw/badlands-brief-e60.md, raw/badlands-brief-f87.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-899.md]
+sources: [raw/badlands-brief-3d4.md, raw/badlands-brief-e60.md, raw/badlands-brief-f87.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8ae.md]
 confidence: medium
 ---
 
@@ -81,6 +81,16 @@ Badlands contributor GhostofBasedPatrickHenry offered a speculative reading of t
 
 Middle East envoy Steve Witkoff told CNBC on June 25, 2025 that the White House anticipated "big announcements on countries that are coming into the Abraham Accords."[12] He characterized expansion of the accords as one of President Donald Trump's key objectives and said his team was coordinating with Secretary of State Marco Rubio and the State Department to bring additional states in.[12] Witkoff said the administration hoped for normalization "across an array of countries that people never would have contemplated would come in," and argued that broader accession would act as a stabilizer in the region.[12] The accords originated during Trump's first term in 2020, when the UAE, Bahrain, Morocco, and Sudan agreed to normalize relations with Israel.[12] Badlands commentary speculated about the possibility of Iran itself joining in the wake of the June 2025 strikes and ceasefire.[12]
 
+## Leverage behind the agreement
+
+Badlands commentary, drawing on Israeli journalist [[barak-ravid|Barak Ravid]]'s reporting and his December 2021 interview with [[donald-trump|Donald Trump]], holds that Trump's blockage of [[benjamin-netanyahu|Benjamin Netanyahu]]'s planned Israeli settlements in the [[west-bank-annexation|West Bank]] in May 2020 is exactly what leveraged Netanyahu into agreeing to the Accords.[13]
+
+Netanyahu nonetheless attempted to withdraw at the last moment: twenty-four hours before the signing, Israeli ambassador to the US [[ron-dermer|Ron Dermer]] called the Trump White House to say Netanyahu would not sign, citing "new elections" as the excuse.[13] The account likens this to Netanyahu's backing out of the Soleimani strike the day before it occurred in January 2020.[13] Trump refused to let the deal fall through and pressed Netanyahu until he relented.[13]
+
+## Aftermath
+
+Badlands commentary notes that after the 2020 US election, Netanyahu was the first foreign leader to call [[joe-biden|Joe Biden]] and congratulate him — a move that deteriorated his relationship with Trump and prompted years of subsequent efforts by Netanyahu's allies to repair the rift.[13]
+
 ## References
 1. Badlands Brief — "Canadian Separatists & Guerilla Campaigns", URL: https://badlands.substack.com/p/badlands-brief-3d4
 2. Badlands Brief — "Abrahamic Rug Pulls, Frivolous Lawfare, & False Statements Under Oath", URL: https://badlands.substack.com/p/badlands-brief-e60
@@ -94,3 +104,4 @@ Middle East envoy Steve Witkoff told CNBC on June 25, 2025 that the White House 
 10. Badlands Brief — "Badlands News Brief: Saudi Scoops, Slender Stabbers, & Scorned Scouts", URL: https://badlands.substack.com/p/badlands-news-brief-824
 11. Badlands Brief — "Badlands News Brief: Unlikely Ambassadors, The Ceasefire Accords, & Predatory Cartoonist", URL: https://badlands.substack.com/p/badlands-news-brief-7ed
 12. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
+13. Badlands Media — "Badlands News Brief: Vance Takes the Stage as Biden Takes the Basement", URL: https://badlands.substack.com/p/badlands-news-brief-8ae

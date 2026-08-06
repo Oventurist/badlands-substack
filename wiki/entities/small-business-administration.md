@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [federal-agency, trump-administration, cabinet]
-sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-580.md]
+sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-860.md]
 confidence: medium
 ---
 
@@ -26,7 +26,12 @@ The administration insisted the initiative was a bipartisan endeavor, but House 
 
 In an alert issued on January 30, 2023, the [[pandemic-response-accountability-committee|Pandemic Response Accountability Committee]] estimated that roughly $5.4 billion in coronavirus relief may have gone to small businesses whose applications carried potentially ineligible Social Security numbers, an outcome attributed to the speed with which the SBA processed aid early in the pandemic.[3] Reporting noted that the agency had spared millions of firms from financial ruin but that its haste produced costly errors, and that it had already granted full or partial forgiveness to more than 93 percent of Paycheck Protection Program recipients.[3] The finding surfaced as House Republicans prepared their first hearing into the roughly $5 trillion in federal stimulus aid approved since spring 2020.[3] Badlands Media contributor [[chris-paul|Chris Paul]] argued that the funds frequently flowed to organizations implementing destructive COVID policies and described the programs as payoffs to those willing to advance the agenda.[3]
 
+## Disaster loan funding strain (October 2024)
+
+As [[hurricane-milton|Hurricane Milton]] approached Florida in October 2024, less than two weeks after [[hurricane-helene|Hurricane Helene]], the SBA's loan programs for stricken businesses and homeowners were identified — alongside [[fema|FEMA]]'s disaster fund and flood insurance program — as among the federal disaster programs facing financial instability and potentially within weeks of running out of cash.[4] Lawmakers of both parties urged Congress to return early to approve additional disaster funding, but Speaker [[mike-johnson|Mike Johnson]] said he had no plans to recall members before the November election.[4]
+
 ## References
 1. Badlands Brief — "A Meddling Musk & Sanctions for Soros", URL: https://badlands.substack.com/p/badlands-news-brief-048
 2. Badlands Brief — "Badlands News Brief: Weaponized Governments and Embattled Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-214
 3. Badlands News Brief — "COVID Coverups, Globalist Schemes and Epstein's Shadow", URL: https://badlands.substack.com/p/badlands-news-brief-580
+4. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860

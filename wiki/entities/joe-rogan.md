@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [podcasting, media, 2024-election, alternative-media]
-sources: [raw/badlands-news-brief-27c.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-50a.md, raw/badlands-news-brief-55f.md]
+sources: [raw/badlands-news-brief-27c.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-50a.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-914.md]
 confidence: medium
 ---
 
@@ -40,9 +40,14 @@ In October 2024, [[donald-trump|Donald Trump]] hinted during an appearance on th
 
 [[burning-bright|Burning Bright]] described Rogan as "one of the biggest Mind-Movers at work in the Info War" and predicted his Trump interview would be the most-watched in American history, occurring amid the most contentious national and international power struggle of all time.[5] He argued that Rogan's sometimes-opposition to the emergent MAGA wing — like that of [[elon-musk|Elon Musk]] and RFK Jr. before him — is a feature rather than a bug of such deployments, because these movers can attack the Collective Mind from positions Trump cannot.[5] He framed the interview as a mass culture event of unmatched memetic magnitude, citing Musk's transformed position in American culture pre- and post-Rogan, and predicted Rogan would be attacked relentlessly by the machine, further exposing it in the waning days of its dark empire.[5]
 
+## Vance and Trump interviews (October 2024)
+
+In the closing days of the 2024 campaign, Rogan hosted both figures on the Republican ticket at his podcast studio in Austin, Texas.[6] [[donald-trump|Donald Trump]] recorded a three-hour appearance that spanned the war in Ukraine, his health and whether there is life on Mars, and that also provided a venue for his claims of a "stolen" 2020 election.[6] Days later, a spokesperson confirmed that Senator [[jd-vance|JD Vance]] would record an interview with Rogan on Wednesday, October 30 — his first appearance on the show, though he had by then appeared on dozens of podcasts since joining the ticket, including recent sessions with Theo Von and Tim Dillon.[6] CNN first reported the scheduled Vance appearance.[6]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Abercreepy Elites Versus Sovereign Alliance Alpha Chads", URL: https://badlands.substack.com/p/badlands-news-brief-27c
 2. Badlands Brief — "Badlands News Brief: Global Grifters, Fleeing Fellows, and a Surprisingly Friendly Funeral", URL: https://badlands.substack.com/p/badlands-news-brief-290
 3. Badlands Brief — "Badlands News Brief: Robot Runners, Prisoner Swaps, & Control of Crimea", URL: https://badlands.substack.com/p/badlands-news-brief-471
 4. Badlands Brief — "Badlands News Brief: Manipulated Maps, Downed Planes, & A Very Stable Genius", URL: https://badlands.substack.com/p/badlands-news-brief-50a
 5. Badlands Brief — "Badlands News Brief: The Machine Grows Desperate as Threats to Trump Increase", URL: https://badlands.substack.com/p/badlands-news-brief-55f
+6. Badlands Brief — "Badlands News Brief: Trump Tours, Bannon Breaks Out & Israel Hesitates", URL: https://badlands.substack.com/p/badlands-news-brief-914

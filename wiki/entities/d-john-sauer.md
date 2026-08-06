@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [solicitor-general, department-of-justice, litigation, executive-power]
-sources: [raw/badlands-news-brief-02a.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-617.md]
+sources: [raw/badlands-news-brief-02a.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-8dc.md]
 confidence: medium
 ---
 
@@ -28,8 +28,13 @@ As U.S. Solicitor General, Sauer asked the [[supreme-court-of-the-united-states|
 
 As special assistant attorney general for Louisiana and an attorney for the plaintiffs in [[missouri-v-biden|Missouri v. Biden]], Sauer testified in July 2023 before the House [[house-weaponization-committee|Select Subcommittee on the Weaponization of the Federal Government]] at a hearing on federal censorship of Americans.[4]
 
+## Venezuelan Temporary Protected Status application (2025)
+
+In May 2025, as Solicitor General, Sauer asked the [[supreme-court-of-the-united-states|Supreme Court]] to end the legal [[temporary-protected-status|temporary protected status]] of more than 300,000 Venezuelan migrants, a step that would make it easier for the [[trump-administration|Trump administration]] to deport them.[5] The request followed Homeland Security Secretary [[kristi-noem|Kristi Noem]]'s earlier announcement that she would not renew the protection, which allows certain migrants to remain in the country legally when they cannot return home because of natural disasters, armed conflicts, or other extraordinary events.[5]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: World Wealth Whiplash & The Most Secure Memorandum in History", URL: https://badlands.substack.com/p/badlands-news-brief-02a
 2. Badlands Brief — "Badlands News Brief: A President's Passing & A Prime Minister's Prostate", URL: https://badlands.substack.com/p/badlands-news-brief-08e
 3. Badlands Brief — "Badlands News Brief: Democracy Shields, Entitled Foreigners, & Epstein's Boomerang", URL: https://badlands.substack.com/p/badlands-news-brief-582
 4.  Badlands Media — "Badlands News Brief: Biden Crime Cascade, Woke Collapse & Establishment Panic", URL: https://badlands.substack.com/p/badlands-news-brief-617
+5. Badlands Brief — "Badlands News Brief: Gazan Seizures & Gay Porn Scandals", URL: https://badlands.substack.com/p/badlands-news-brief-8dc

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [special-counsel, justice-department, classified-documents, joe-biden]
-sources: [raw/badlands-brief-1ae.md, raw/badlands-brief-7bf.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7c6.md]
+sources: [raw/badlands-brief-1ae.md, raw/badlands-brief-7bf.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8f1.md]
 confidence: medium
 ---
 
@@ -56,6 +56,12 @@ Badlands writer [[simon-esler|Simon Esler]] argued that even at the superficial 
 
 In May 2024 Badlands commentary, [[ashe-in-america|Ashe in America]] invoked Hur as an illustration that Republicans lack real power to hold [[joe-biden|Joe Biden]] accountable, alongside the observation that legislation dies in the [[united-states-senate|Senate]].[9]
 
+## Advance reports of a declination (November 2023)
+
+By mid-November 2023, months before the report's release, multiple outlets citing sources familiar with the matter reported that Hur was unlikely to charge anyone in connection with the [[biden-classified-documents-scandal|Biden classified document scandal]] following what was described as a thorough investigation.[10] His report was expected to sharply criticize [[joe-biden|Biden]] and his aides over their handling of classified documents without bringing charges, an outcome [[zerohedge|ZeroHedge]] characterized as standard treatment for a protected establishment class.[10]
+
+The probe, launched in January 2023 after Hur's appointment by Attorney General [[merrick-garland|Merrick Garland]], had by then run nearly a year and involved interviews with roughly 100 Biden aides, including [[hunter-biden|Hunter Biden]]; the president himself was interviewed in October 2023, as confirmed by [[white-house|White House]] Counsel's Office spokesperson [[ian-sams|Ian Sams]].[10]
+
 ## References
 1. Badlands Brief — "DC Exposes Itself as the Middle East Gets Gloriously Strange", URL: https://badlands.substack.com/p/badlands-brief-1ae
 2. Badlands Brief — "Entertaining Obstruction & Artificial Shadow Wars", URL: https://badlands.substack.com/p/badlands-brief-7bf
@@ -66,3 +72,4 @@ In May 2024 Badlands commentary, [[ashe-in-america|Ashe in America]] invoked Hur
 7. Badlands Brief — "Badlands News Brief: Change of Batter, Indeed …", URL: https://badlands.substack.com/p/badlands-news-brief-42e
 8. Badlands Brief — "Biden Hemorrhages Already-Nonexistent Support", URL: https://badlands.substack.com/p/badlands-news-brief-6fc
 9. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
+10. Badlands News Brief — "Dictators, Sovereigns and Bipartisan Peace", URL: https://badlands.substack.com/p/badlands-news-brief-8f1

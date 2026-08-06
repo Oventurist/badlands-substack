@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [colorado, elections, secretary-of-state, tina-peters]
-sources: [raw/badlands-brief-174.md, raw/badlands-brief-5a2.md, raw/badlands-brief-707.md, raw/badlands-brief-b56.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-7bb.md]
+sources: [raw/badlands-brief-174.md, raw/badlands-brief-5a2.md, raw/badlands-brief-707.md, raw/badlands-brief-b56.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-8cb.md, raw/badlands-news-brief-8fd.md]
 confidence: medium
 ---
 
@@ -68,6 +68,14 @@ Badlands writer [[ashe-in-america|Ashe in America]] recalled that, in response t
 
 In March 2025, following the [[department-of-justice|Justice Department]]'s announcement that it would review [[tina-peters|Tina Peters]]'s state election tampering conviction, Article III Project founder [[mike-davis|Mike Davis]] summarized the case on X, describing Griswold as a hyper-partisan Democrat Colorado Secretary of State who, together with Attorney General [[phil-weiser|Phil Weiser]] and local District Attorney Dan Rubenstein, brought what he called trumped-up felony charges falsely accusing Peters of unauthorized access to voting machines.[11] Davis further alleged that during the same period Griswold, whom he called "a partisan slob," allowed voting-machine passwords to remain publicly posted online for four months.[11] Badlands contributor Ashe in America referred to Colorado as "the State of Jena Griswold's Corruption" and noted that Griswold was running for Governor.[11]
 
+## Statements on counting Trump's votes (January 2024)
+
+As the [[supreme-court-of-the-united-states|U.S. Supreme Court]] agreed to review the [[colorado-ballot-disqualification-case|Colorado ballot disqualification case]] in January 2024, weekend clickbait circulated claiming Griswold had said she would not count [[donald-trump|Donald Trump]]'s votes.[12] [[ashe-in-america|Ashe in America]] wrote that Griswold had said no such thing: her actual position was that if the justices found the [[colorado-supreme-court|Colorado Supreme Court]] had not erred, Trump would be disqualified and his votes would not count, because Colorado law provides that only ballots for "qualified" candidates may be counted.[12] Ashe characterized this as Griswold simply announcing she would follow the law, adding that "they are way ahead of us in the Centennial state."[12]
+
+## Obstruction claims and the DOJ records dispute
+
+Badlands host Ashe in America wrote in December 2025 that Griswold, whose arbitrary COVID-era rules about who could enter county offices prompted the conduct for which Tina Peters was convicted, remained emboldened and was continuing to obstruct the Trump Justice Department on elections.[13] Griswold said in a statement that 'we will not comply with the Trump Department of Justice's request for Coloradans' sensitive voting information,' that the DOJ 'can take a hike' because it has no legal right to the information, and that Colorado 'will not help Donald Trump undermine our elections and hurt the American people.'[13] Ashe noted that Griswold had been obstructing inquiry since at least 2021, when she banned independent audits.[13]
+
 ## References
 1. Badlands Brief — "Conflicts, Cartels, & Clemency", URL: https://badlands.substack.com/p/badlands-brief-174
 2. Badlands Brief — "Tina Peters' Sentence Commuted; ISIS Killed in Africa", URL: https://badlands.substack.com/p/badlands-brief-5a2
@@ -80,3 +88,5 @@ In March 2025, following the [[department-of-justice|Justice Department]]'s anno
 9. Badlands Brief — "Badlands News Brief: Election Fraud Starts Early While the CIA Whines", URL: https://badlands.substack.com/p/badlands-news-brief-3bc
 10. Badlands Brief - "Badlands News Brief: Tracking Resignations and Treasonous Trials", URL: https://badlands.substack.com/p/badlands-news-brief-576
 11. Badlands Brief — "Badlands News Brief: “Terrifying” Trade Alliances, Pedagogue Payouts, & A Bondi Barn Burner", URL: https://badlands.substack.com/p/badlands-news-brief-7bb
+12. Badlands Brief — "SCOTUS Enters the Fray as Biden Barks at MAGA Hats", URL: https://badlands.substack.com/p/badlands-news-brief-8cb
+13. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd

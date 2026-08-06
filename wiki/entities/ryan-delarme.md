@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, author, post-liberal, labor]
-sources: [raw/a-bright-red-line.md, raw/a-look-at-recent-features-84d.md, raw/a-look-at-recent-features.md, raw/a-more-perfect-labor-union.md, raw/a-swan-song-for-the-msm.md, raw/and-iran-iran-so-far-away.md, raw/assad-day-in-damascus.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-blast.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7a7.md]
+sources: [raw/a-bright-red-line.md, raw/a-look-at-recent-features-84d.md, raw/a-look-at-recent-features.md, raw/a-more-perfect-labor-union.md, raw/a-swan-song-for-the-msm.md, raw/and-iran-iran-so-far-away.md, raw/assad-day-in-damascus.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-blast.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-8f4.md]
 confidence: low
 ---
 
@@ -118,6 +118,16 @@ In the June 15, 2023 brief, DeLarme argued that two stories were unfolding simul
 
 He contended that Trump is protected by the [[presidential-records-act|Presidential Records Act]], which in his reading supersedes the Espionage Act and makes the quantity of retained material irrelevant, while [[joe-biden|Joe Biden]] stood accused of pay-to-play and bribery schemes and of using the [[fbi|FBI]] to cover them up.[22] He cited [[hunter-biden|Hunter Biden]]'s admission that he gave half his salary to his father for three decades and the 459 alleged crimes documented on the [[hunter-biden-laptop|Hunter Biden laptop]], held by the FBI since December 2019, calling the media's focus on Trump "baffling."[22]
 
+## Commentary on the New START suspension (February 2023)
+
+In the February 23, 2023 Badlands News Brief, DeLarme responded to [[vladimir-putin|Vladimir Putin]]'s submission of a draft law suspending the [[new-start-treaty|New START]] treaty by mocking the claim that the "deep-state fixed the election and saved us all from Trump," recalling that the left had believed [[donald-trump|Donald Trump]] would start a war while, in his view, [[joe-biden|Joe Biden]] had undone fifty years of diplomacy and his base now backed war with Russia.[23] He wrote that most of the Badlands team likely agreed there would be no actual nuclear attack and that the posturing was "more theater than anything else," while allowing for the possibility of what he called a mass near-death experience that might wake up "the stubbornly asleep."[23] He added that if he were wrong, [[klaus-schwab|Klaus Schwab]], [[bill-gates|Bill Gates]] and "the depopulation crowd" would be thrilled, and speculated that a Trump-brokered deal averting nuclear annihilation would seal a 2024 win.[23]
+
+## March 2023 commentary: J6 footage and gun statistics
+
+In the March 8, 2023 [[badlands-news-brief|Badlands News Brief]], DeLarme argued that it had been "fairly obvious that Democrats and RINOs were hiding the footage because it completely destroyed their J6 narrative," while cautioning that [[fox-news|Fox News]] was "a bunch of partisan hacks just as much as the other networks" and that [[tucker-carlson|Tucker Carlson]] should have made everything he was given public immediately.[24] He called for the immediate release of January 6 defendants held in pretrial detention in Washington, and read the [[january-6-capitol-security-footage-release|newly aired footage]] as showing that participants were admitted and escorted by [[united-states-capitol-police|Capitol Police]], that they were peaceful, that police escorted [[jacob-chansley|Jacob Chansley]] around the Capitol for photo ops, that imposters were present, and that the protesters simply wanted [[congress|Congress]] to confront election fraud.[24]
+
+In the same brief he attacked [[cnn|CNN]]'s use of [[gun-violence-archive|Gun Violence Archive]] data to claim more than 100 mass shootings in early 2023, writing that CNN and allied interests would rather Americans face "busloads of fentanyl" than keep a firearm at home, and listing depopulation, launderable federal funding for [[sanctuary-cities|sanctuary cities]], an endless drug war and the prison industrial complex among the agendas served by an unabated flow of drugs and criminals across the border.[24] He added that anti-[[second-amendment|Second Amendment]] groups have always manipulated crime statistics, most cleverly by including suicides and accidents alongside homicides.[24]
+
 ## References
 
 1. Badlands Brief — "A Bright Red Line", URL: https://badlands.substack.com/p/a-bright-red-line
@@ -142,3 +152,5 @@ He contended that Trump is protected by the [[presidential-records-act|President
 20. Badlands Media — "Badlands News Brief: PsyActs, Leakers & Color Revolutions", URL: https://badlands.substack.com/p/badlands-news-brief-6e3
 21. Badlands Brief — "The Wall Are Closing in Again! (And Other Stories)", URL: https://badlands.substack.com/p/badlands-news-brief-7ad
 22. Badlands Brief — "Badlands News Brief: Trump Defiant, Biden Protected & Woke Worn", URL: https://badlands.substack.com/p/badlands-news-brief-7a7
+23. Badlands Brief — "Badlands News Brief: Putin Postures, Voting Matters & J6 Subpoenas", URL: https://badlands.substack.com/p/badlands-news-brief-8c5
+24. Badlands Brief — "Badlands News Brief: January 6 and Nord Stream Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-8f4

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, politics, ultranationalism]
-sources: [raw/badlands-news-brief-066.md]
+sources: [raw/badlands-news-brief-066.md, raw/badlands-news-brief-8ae.md]
 confidence: medium
 ---
 
@@ -22,6 +22,13 @@ Israeli Finance Minister [[bezalel-smotrich|Bezalel Smotrich]] issued a similar 
 
 [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] observed in the [[badlands-news-brief|Badlands News Brief]] that this was the same position U.S. Ambassador [[mike-huckabee|Mike Huckabee]] had espoused for decades, and called it projection, noting that most Israelis are of Eastern European descent with a mixture of Turkic heritage.[1]
 
+## Reversal of the Kahanist ban
+
+The party traces its ideological lineage to Rabbi [[meir-kahane|Meir Kahane]], whose political party was banned from the [[knesset|Knesset]] in 1994 for a platform explicitly proclaiming Jewish supremacy over Christians, Muslims, and all others as its ideological foundation.[2] In order to solidify the alliance between [[likud|Likud]] and Otzma Yehudit ("Jewish Power"), [[benjamin-netanyahu|Benjamin Netanyahu]] had to support reversing that ban in 2022.[2]
+
+Badlands commentary describes the movement's current leader as [[benzion-gopstein|Benzion Gopstein]], who — like Kahane before him — has said Christians are their ancient enemy and has condoned the burning of churches, and who was sanctioned by the Biden State Department for "destabilizing" activities in the West Bank.[2] The faction is characterized as demanding [[greater-israel|Greater Israel]] borders, a theocratic state under the [[smotrich-doctrine|Smotrich Doctrine]], and the construction of the [[third-temple|Third Temple]], and as making it impossible for Netanyahu to accept a ceasefire with [[hamas|Hamas]] or [[hezbollah|Hezbollah]].[2]
+
 ## References
 
 1. Badlands Brief — "Amplified Antagonism, Phantom Palestinians, & Hitler's Micropenis", URL: https://badlands.substack.com/p/badlands-news-brief-066
+2. Badlands Media — "Badlands News Brief: Vance Takes the Stage as Biden Takes the Basement", URL: https://badlands.substack.com/p/badlands-news-brief-8ae

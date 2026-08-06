@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [encryption, records, national-security, technology]
-sources: [raw/badlands-news-brief-03a.md]
+sources: [raw/badlands-news-brief-03a.md, raw/badlands-news-brief-8fd.md]
 confidence: medium
 ---
 
@@ -22,5 +22,10 @@ The watchdog group [[american-oversight|American Oversight]] sued in a D.C. fede
 
 Under the [[federal-records-act|Federal Records Act]], officials must preserve communications relating to government business; agencies commonly address encrypted-app usage by requiring that messages be forwarded to official systems or otherwise archived.[1]
 
+## Signalgate and the December 2025 inspector general report
+
+Signal was the platform at the center of the Signalgate affair, in which Defense Secretary Pete Hegseth transmitted updates about US strikes in Yemen; the Pentagon inspector general concluded in a December 4, 2025 report that this broke rules for handling sensitive information and risked putting troops in danger.[2] Commentators noted that the Signal Foundation's board is chaired by NPR chief executive Katherine Maher, and questioned whether CISA had encouraged officials to adopt the app during the Biden administration.[2]
+
 ## References
 1. Badlands Brief — "SCOTUS and Subsidies, Banker Bonuses, and Six More Years of Lindsay Graham", URL: https://badlands.substack.com/p/badlands-news-brief-03a
+2. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd

@@ -34,6 +34,10 @@ Separately, Haaretz reported that Shin Bet chief [[ronen-bar|Ronen Bar]] had war
 
 The Shin Bet alerted the [[israel-defense-forces|IDF]] on the evening of August 15, 2024 that a group of Israelis travelling in vehicles was heading to the Yitzhar area to commit a "nationalistic crime," a warning that preceded the settler rampage in the West Bank village of Jit.[4] Badlands Media reported that the head of the Shin Bet, alongside Defense Minister [[yoav-gallant|Yoav Gallant]], subsequently criticized National Security Minister [[itamar-ben-gvir|Itamar Ben-Gvir]] for encouraging such attacks and for failing to deploy police to stop them or arrest those responsible.[4]
 
+## Warnings over settler violence (August 2024)
+
+The Shin Bet alerted the [[israel-defense-forces|IDF]] on the evening of August 15, 2024 that a group of Israelis travelling in vehicles was heading to the Yitzhar area to commit a "nationalistic crime," a warning that preceded the settler rampage in the West Bank village of Jit.[4] Badlands Media reported that the head of the Shin Bet, alongside Defense Minister [[yoav-gallant|Yoav Gallant]], subsequently criticized National Security Minister [[itamar-ben-gvir|Itamar Ben-Gvir]] for encouraging such attacks and for failing to deploy police to stop them or arrest those responsible.[4]
+
 ## References
 1. Badlands News Brief — "The Communist Ouroboros Accelerates", raw/badlands-news-brief-08a.md
 2. Badlands News Brief — "Pirated Pardons & Delayed Declassifications", URL: https://badlands.substack.com/p/badlands-news-brief-298

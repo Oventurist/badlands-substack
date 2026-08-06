@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [covid, biolabs, public-health, censorship]
-sources: [raw/a-virus-or-a-metaphor.md, raw/anthony-fauci.md, raw/badlands-brief-414.md, raw/badlands-brief-67a.md, raw/badlands-brief-be1.md, raw/badlands-brief-d94.md, raw/badlands-brief-da2.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-238.md, raw/badlands-news-brief-276.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-88b.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/anthony-fauci.md, raw/badlands-brief-414.md, raw/badlands-brief-67a.md, raw/badlands-brief-be1.md, raw/badlands-brief-d94.md, raw/badlands-brief-da2.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-238.md, raw/badlands-news-brief-276.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-8f0.md]
 confidence: low
 ---
 
@@ -142,6 +142,10 @@ Commentary by [[burning-bright|Burning Bright]] for [[badlands-media|Badlands Me
 
 In August 2023 the transparency watchdog [[openthebooks|OpenTheBooks]] published more than 1,500 pages of unredacted records, obtained through a mostly successful Freedom of Information Act battle with the [[national-institutes-of-health|National Institutes of Health]], showing that Fauci and NIH director [[francis-collins|Francis Collins]] had personally received 58 royalty payments from companies licensing inventions developed with taxpayer money.[19] The wider database covered 56,000 transactions totaling more than $325 million, though individual payment amounts were not listed.[19] Fauci received 37 payments from three companies between 2010 and 2021: 15 from Santa Cruz Biotechnology, 14 from Ancell Corp., and eight from Chiron Corp., which was acquired by Novartis in 2006.[19]
 
+## September 2023 mask messaging
+
+In early September 2023, during a renewed COVID-19 surge, Fauci claimed that masks do not work "for the public at large" but do work on an "individual basis."[20] Badlands contributor [[burning-bright|Burning Bright]] called the formulation "patently absurd, and everyone knows it," noting that it clashed with messaging the same week from [[deborah-birx|Dr. Deborah Birx]], who said "We don't need to mandate" while calling for people to be empowered to make their own decisions.[20] Burning Bright framed the divergence as [[overtons-goalpost|Overton's Goalpost]] being deployed around "COVID-23," mask mandates and lockdowns, concluding that "Retreat is Defeat in the Mind War."[20] The same coverage recalled that in March 2020 Fauci and Birx together laid out the unprecedented lockdown and masking strategy that Birx later admitted was improvised.[20]
+
 ## References
 
 1. Badlands Brief — "A Virus, or a Metaphor?", URL: https://badlands.substack.com/p/a-virus-or-a-metaphor
@@ -162,3 +166,4 @@ In August 2023 the transparency watchdog [[openthebooks|OpenTheBooks]] published
 17. Badlands Brief — "Badlands News Brief: Pardon Me ... No, But Seriously. PLEASE Pardon Me.", URL: https://badlands.substack.com/p/badlands-news-brief-757
 18. Badlands Brief — "GART is Here! Plus, Exposure & Disclosure Abound", URL: https://badlands.substack.com/p/badlands-news-brief-7e6
 19. Badlands News Brief — "The Trump Hunt & the Biden Blitz", URL: https://badlands.substack.com/p/badlands-news-brief-88b
+20. Badlands Brief — "Badlands News Brief: The Turns on COVID, Ukraine & the Establishment Have Begun", URL: https://badlands.substack.com/p/badlands-news-brief-8f0

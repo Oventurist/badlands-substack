@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, cnn, republican, maga, commentary]
-sources: [raw/badlands-news-brief-410.md]
+sources: [raw/badlands-news-brief-410.md, raw/badlands-news-brief-860.md]
 confidence: medium
 ---
 
@@ -22,5 +22,10 @@ The exchange occurred on a program where host Abby Phillip had referenced a seni
 
 Badlands commentary situated the episode within a broader information-warfare frame, arguing that one goal of irregular warfare is to attack the legitimacy of its target, and questioning why self-identified MAGA influencers were portraying Trump as incompetent — and why, if he were incompetent, he would remain such a threat to his opponents.[1]
 
+## Criticism of Harris over Hurricane Milton (October 2024)
+
+As CNN senior political commentator, Jennings rebuked Vice President [[kamala-harris|Kamala Harris]] in October 2024 for attacking Florida Governor [[ron-desantis|Ron DeSantis]] over unreturned phone calls as [[hurricane-milton|Hurricane Milton]] approached the state.[2] "She's attacking the governor of a state that's about to get lashed with one of the worst storms," Jennings said, adding, "Is she crazy?"[2]
+
 ## References
 1. Badlands Brief — "New(ish) Negotiations, NATO Nazis, & Neocon Narrative Nonsense", URL: https://badlands.substack.com/p/badlands-news-brief-410
+2. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860

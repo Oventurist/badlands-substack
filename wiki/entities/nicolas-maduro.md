@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [venezuela, maduro, regime-change, oil, sanctions]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-094.md, raw/badlands-brief-1ce.md, raw/badlands-brief-577.md, raw/badlands-brief-95a.md, raw/badlands-brief-990.md, raw/badlands-brief-708.md, raw/badlands-brief-9f2.md, raw/badlands-brief-d17.md, raw/badlands-brief-d9f.md, raw/badlands-brief-e3b.md, raw/badlands-brief-e8d.md, raw/badlands-brief.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-06e.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2f5.md, raw/badlands-news-brief-306.md, raw/badlands-news-brief-355.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-763.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-824.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-094.md, raw/badlands-brief-1ce.md, raw/badlands-brief-577.md, raw/badlands-brief-95a.md, raw/badlands-brief-990.md, raw/badlands-brief-708.md, raw/badlands-brief-9f2.md, raw/badlands-brief-d17.md, raw/badlands-brief-d9f.md, raw/badlands-brief-e3b.md, raw/badlands-brief-e8d.md, raw/badlands-brief.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-06e.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2f5.md, raw/badlands-news-brief-306.md, raw/badlands-news-brief-355.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-763.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-8fd.md]
 confidence: medium
 ---
 
@@ -256,6 +256,15 @@ Axios reported on November 25, 2025, citing administration officials, that Presi
 
 Badlands commentator GhostofBasedPatrickHenry questioned the official portrayal, asking whether Maduro is "really what they say he is" and whether he would be worse than George Bush, Barack Obama, Hillary Clinton or Lindsey Graham, and noted a series of videos of Maduro dancing at public events — including one posted by Matt Gaetz showing him performing the "Trump dance" — as evidence of a self-deprecating humility unusual among dictators.[36]
 
+
+## September 2025 offer of direct talks with Grenell
+
+In a letter to President [[donald-trump|Donald Trump]] viewed by Reuters on September 20, 2025 and published by [[venezuela|Venezuela]] the following day, Maduro offered to engage in direct talks with the [[trump-administration|Trump administration]], days after the first US strike on a boat from Venezuela that Trump said was carrying drug traffickers.[37] Maduro rejected US claims that Venezuela played a large role in drug trafficking, noting that just 5% of drugs produced in Colombia are shipped through Venezuela, of which he said 70% were neutralized and destroyed by Venezuelan authorities.[37] He wrote: "President, I hope that together we can defeat the falsehoods that have sullied our relationship, which must be historic and peaceful… These and other issues will always be open for a direct and frank conversation with your special envoy [[richard-grenell|Richard Grenell]] to overcome media noise and fake news."[37] Badlands contributor Chris Paul read the overture as Maduro and Venezuela being brought back into the geopolitical fold in the same manner Trump had handled Putin, Xi, Mohammed bin Salman and Kim Jong Un, and as another instance of Trump bypassing the [[state-department|State Department]].[37]
+
+## Carvajal's December 2025 letter
+
+Hugo Carvajal Barrios, the former Venezuelan intelligence chief who served as Director of Military Intelligence under both Hugo Chávez and Maduro, alleged in a ten-page letter from a US federal prison that Maduro's government systematically used drug trafficking, criminal gangs, espionage networks, and even electoral technology to undermine the United States.[38] The letter asserts that Venezuela's ruling elite operates as a 'narco-terrorist organization' with global reach and explicit anti-American intent, and argues that President Donald Trump's policies toward the country are necessary to US national security.[38]
+
 ## References
 
 1. Badlands Brief — "Arctic Escalation and Tropic Trouble for the Financial System", URL: https://badlands.substack.com/p/badlands-brief-02a
@@ -295,3 +304,5 @@ Badlands commentator GhostofBasedPatrickHenry questioned the official portrayal,
 34. Badlands Brief — "Brennan Decries Judge Shopping & JD Says It's Okay to Be White!", URL: https://badlands.substack.com/p/badlands-news-brief-795
 35. Badlands Brief — "Corruption Within Corruption & A Offer of Free Elections", URL: https://badlands.substack.com/p/badlands-news-brief-7e8
 36. Badlands Brief — "Badlands News Brief: Saudi Scoops, Slender Stabbers, & Scorned Scouts", URL: https://badlands.substack.com/p/badlands-news-brief-824
+37. Badlands Brief — "Palestinian Promises, Venezuelan Ventures, & Kazakh Considerations", URL: https://badlands.substack.com/p/badlands-news-brief-8ce
+38. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd

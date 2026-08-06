@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, netanyahu, diplomacy, hamas, hostages]
-sources: [raw/badlands-news-brief-071.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-50a.md, raw/badlands-news-brief-7e5.md, raw/badlands-news-brief-8ae.md]
+sources: [raw/badlands-news-brief-071.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-50a.md, raw/badlands-news-brief-7e5.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-860.md]
 confidence: medium
 ---
 
@@ -58,6 +58,10 @@ Badlands commentary on the July 2025 Gaza ceasefire push credited Dermer with pr
 
 As Israeli ambassador to the United States, Dermer called the Trump White House twenty-four hours before the [[abraham-accords|Abraham Accords]] were set to be signed to say that [[benjamin-netanyahu|Benjamin Netanyahu]] would not sign, using "new elections" as the stated reason.[8] Badlands commentary presented this as one instance of a recurring pattern of Netanyahu backing out of commitments at the last moment — comparable to his withdrawal from the Soleimani strike the day before it occurred in January 2020 — and noted that [[donald-trump|Donald Trump]] refused to let the deal collapse, pressing Netanyahu until he signed.[8]
 
+## Sullivan call on Iran retaliation (October 2024)
+
+Amid a reported collapse of U.S. confidence in Israeli statements about its military and diplomatic plans, two U.S. officials told Axios that during a Friday call in early October 2024, [[white-house|White House]] national security adviser [[jake-sullivan|Jake Sullivan]] told Dermer, then Israel's minister for strategic affairs, that the United States expected "clarity and transparency" from Israel about its plans to retaliate against Iran, because those plans carried implications for U.S. forces and interests in the region.[9] One U.S. official said, "Our trust of the Israelis is very low right now and for a good reason," while the administration signalled it did not oppose an Israeli response but wanted it to be measured.[9]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Hot Wars Wind Down. Trade & Meme Wars Heat Up.", URL: https://badlands.substack.com/p/badlands-news-brief-071
@@ -68,3 +72,4 @@ As Israeli ambassador to the United States, Dermer called the Trump White House 
 6. Badlands Brief — "Badlands News Brief: Manipulated Maps, Downed Planes, & A Very Stable Genius", URL: https://badlands.substack.com/p/badlands-news-brief-50a
 7. Badlands Brief — "Badlands News Brief: Cartel Cybersnoops & Teenage Spider Hackers", URL: https://badlands.substack.com/p/badlands-news-brief-7e5
 8. Badlands Media — "Badlands News Brief: Vance Takes the Stage as Biden Takes the Basement", URL: https://badlands.substack.com/p/badlands-news-brief-8ae
+9. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860

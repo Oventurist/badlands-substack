@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [republican-party, elections, litigation, arizona, 2022-midterms]
-sources: [raw/arizona-earthquake.md, raw/badlands-brief-169.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-4f8.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-683.md]
+sources: [raw/arizona-earthquake.md, raw/badlands-brief-169.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-4f8.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-8fd.md]
 confidence: low
 ---
 
@@ -52,6 +52,10 @@ By late September 2024 the RNC said it was involved in more than 120 lawsuits ac
 
 Badlands commentary credited the committee for preparing in advance and apparently learning from its lack of readiness in 2020 and 2022, while cautioning that election [[lawfare]] is usually decided on procedural technicalities rather than merits, per Robert Barnes's formulation that such claims are "Not Ripe in Spring, No Standing by Summer, Laches by Fall, and Moot by Winter."[9] See [[2024-republican-election-litigation-campaign]].[9]
 
+## Michigan absentee ballot litigation
+
+The RNC, together with the Michigan Republican Party and Chesterfield Township Clerk Cindy Berry, won a December 2025 ruling from a Michigan judge over the state's handling of absentee ballots with mismatched identification numbers.[10] The plaintiffs argued that such ballots must be rejected while voters are given a chance to cure the defect, and the court agreed that there is no legal authority to tabulate a mismatched ballot under any category.[10]
+
 ## References
 
 1. Badlands Media — "Arizona Earthquake!", URL: https://badlands.substack.com/p/arizona-earthquake
@@ -63,3 +67,4 @@ Badlands commentary credited the committee for preparing in advance and apparent
 7. Badlands Brief — "Israel Makes a Move While Trump Plays Chicken", URL: https://badlands.substack.com/p/badlands-news-brief-4f8
 8. Badlands Brief — "Hacks Explain Hacks to other Hacks", URL: https://badlands.substack.com/p/badlands-news-brief-6aa
 9. Badlands Brief — "Israel Invades, MAGA Sues & Ports Close", URL: https://badlands.substack.com/p/badlands-news-brief-683
+10. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd

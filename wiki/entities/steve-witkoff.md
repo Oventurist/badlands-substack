@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [diplomacy, iran, special-envoy, negotiations]
-sources: [raw/badlands-brief-169.md, raw/badlands-brief-559.md, raw/badlands-brief-6f0.md, raw/badlands-brief-abf.md, raw/badlands-brief-ac2.md, raw/badlands-brief-b38.md, raw/badlands-brief-8db.md, raw/badlands-brief-c07.md, raw/badlands-brief-eea.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-592.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-899.md]
+sources: [raw/badlands-brief-169.md, raw/badlands-brief-559.md, raw/badlands-brief-6f0.md, raw/badlands-brief-abf.md, raw/badlands-brief-ac2.md, raw/badlands-brief-b38.md, raw/badlands-brief-8db.md, raw/badlands-brief-c07.md, raw/badlands-brief-eea.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-592.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-8fd.md]
 confidence: medium
 ---
 
@@ -149,6 +149,14 @@ In announcing that he would use the momentum of the Gaza ceasefire to expand the
 
 Speaking to CNBC on June 25, 2025, Witkoff said the White House expects "big announcements on countries that are coming into the Abraham Accords," describing expansion of the pact as one of President Donald Trump's key objectives.[28] He noted that he and his team were working in coordination with Secretary of State Marco Rubio and the State Department to "get more countries to come into" the accords.[28] Witkoff added that the administration hoped for "normalization across an array of countries that people never would have contemplated would come in," framing further accession as a stabilizer for the Middle East.[28] Badlands commentary responded to the remarks by asking whether Iran itself might be among the prospective entrants.[28]
 
+## April 2025: envoy feud and Kremlin signaling
+
+Commenting on remarks by Kremlin spokesman [[dmitry-peskov|Dmitry Peskov]] in April 2025 about [[vladimir-putin|Vladimir Putin]]'s respect for [[donald-trump|Donald Trump]], Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued the Kremlin was signaling its belief that Trump would side with Witkoff in an unfolding feud against [[mike-waltz|Mike Waltz]], [[marco-rubio|Marco Rubio]] and the [[neoconservatives|NeoCons]].[29] The NeoCons' criticism of the businessmen-turned-envoys Witkoff and [[adam-boehler|Adam Boehler]] was that face-to-face meetings with Putin, Hamas and the Iranians "legitimized" adversaries; the envoys countered that they could not properly negotiate with anyone without the opportunity to look them in the eye.[29] The commentary noted Trump's announced travel to Riyadh and the Middle East on May 13 and anticipated a matching announcement from Putin.[29]
+
+## December 2025 Moscow trip
+
+Witkoff, President Donald Trump's special envoy, traveled to Moscow with the president's son-in-law Jared Kushner in early December 2025 for talks with Russian President Vladimir Putin.[30] The visit came a day after European leaders held a phone call in which they expressed deep distrust of US peace diplomacy and warned that Washington might betray Ukraine on the question of territory.[30]
+
 ## References
 1. Badlands Brief — "Condemnation, Calibration, & Constitutional Boxes", URL: https://badlands.substack.com/p/badlands-brief-169
 2. Badlands Brief — "Narrative Warfare For Your Safety", URL: https://badlands.substack.com/p/badlands-brief-559
@@ -178,3 +186,5 @@ Speaking to CNBC on June 25, 2025, Witkoff said the White House expects "big ann
 26. Badlands Brief — "Badlands News Brief: Saudi Scoops, Slender Stabbers, & Scorned Scouts", URL: https://badlands.substack.com/p/badlands-news-brief-824
 27. Badlands Brief — "Badlands News Brief: Unlikely Ambassadors, The Ceasefire Accords, & Predatory Cartoonist", URL: https://badlands.substack.com/p/badlands-news-brief-7ed
 28. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
+29. Badlands Brief — "Badlands News Brief: Ongoing Judicial Coups. Newly Jailed Judges.", URL: https://badlands.substack.com/p/badlands-news-brief-8a9
+30. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd

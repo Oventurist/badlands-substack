@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [election-law, democrats, litigation, shadow-cabal]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-618.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-721.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-618.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-91b.md]
 confidence: medium
 ---
 
@@ -49,6 +49,10 @@ According to the coverage, Elias — accustomed to friendly anchors who never cr
 
 Public records cited in newly declassified material show that Elias, as general counsel to the [[hillary-clinton|Hillary Clinton]] campaign, was among the senior figures who joined a coordinated effort to link then-candidate [[donald-trump|Donald Trump]] to Russian president [[vladimir-putin|Vladimir Putin]] during the 2016 race, alongside campaign manager [[robby-mook|Robby Mook]], chairman [[john-podesta|John Podesta]], communications director [[jennifer-palmieri|Jennifer Palmieri]], and policy adviser [[jake-sullivan|Jake Sullivan]].[6] The [[fbi|FBI]] was alerted in 2016 to intelligence describing this plan and then conducted a sweeping investigation into the resulting collusion claims.[6] The question now before the [[department-of-justice|Justice Department]] strike force created by Attorney General [[pam-bondi|Pam Bondi]] is whether the effort was a political dirty trick or a criminal conspiracy.[6]
 
+## Wyoming proof-of-citizenship case (2025)
+
+In July 2025 Elias represented the [[equality-state-policy-center|Equality State Policy Center]] in a federal lawsuit challenging [[wyoming-house-bill-156|Wyoming House Bill 156]], the state law requiring voters to provide proof of U.S. citizenship and state residency to register.[7] U.S. District Court Judge Scott Skavdahl dismissed the case on July 22, 2025, and Secretary of State [[chuck-gray|Chuck Gray]] declared that "Marc Elias and the radical left were no match for our vigorous defense."[7] Badlands commentator [[ashe-in-america|Ashe in America]] marked the loss as "a day to toast justice" and linked Elias to the subpoena of [[actblue|ActBlue]] over alleged foreign money laundering, noting that [[perkins-coie|Perkins Coie]] and later the [[elias-law-group|Elias Law Group]] had advised ActBlue on legal compliance.[7]
+
 ## References
 1. Badlands Brief — "Mixed Gender Crews, Trafficking Stings, & Shadow Cabal Reruns", URL: https://badlands.substack.com/p/badlands-brief-029
 2. Badlands Brief — "Triggering Summits & Allegedly Fair Elections", URL: https://badlands.substack.com/p/badlands-brief-618
@@ -56,3 +60,4 @@ Public records cited in newly declassified material show that Elias, as general 
 4. Badlands Brief — "Real Leaks & Fake News", URL: https://badlands.substack.com/p/badlands-news-brief-08c
 5. Badlands News Brief — "Weed Wins, Globalist Whisking, & Lizard-Led Impeachments", URL: https://badlands.substack.com/p/badlands-news-brief-0ef
 6. Badlands News Brief — "Post Mortems, Dog Fights, & Flight Risks", URL: https://badlands.substack.com/p/badlands-news-brief-721
+7. Badlands Brief — "Badlands News Brief: The Corruption of Anti-Corruption & Obama Bites Back", URL: https://badlands.substack.com/p/badlands-news-brief-91b

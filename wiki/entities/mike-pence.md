@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [vice-president, january-6, 2020-election, republicans]
-sources: [raw/badlands-brief-e87.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-7ad.md]
+sources: [raw/badlands-brief-e87.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-8c5.md]
 confidence: medium
 ---
 
@@ -45,6 +45,12 @@ Badlands contributor [[just-human|Just Human]] compared the episode to the searc
 
 In June 2023, [[badlands-media|Badlands Media]] commentary noted that Pence, like [[joe-biden|Joe Biden]] and [[barack-obama|Barack Obama]], had been found to have retained classified documents, yet the prevailing media narrative continued to treat [[donald-trump|Donald Trump]] as uniquely unlawful in his handling of such material.[7] The observation accompanied the publication of Trump's January 19, 2021 [[crossfire-hurricane|Crossfire Hurricane]] declassification letter.[7]
 
+## Grand jury subpoena and the 2020 election suit (February 2023)
+
+In early February 2023, it was revealed that special counsel [[jack-smith|Jack Smith]] had subpoenaed Pence to testify before a federal grand jury investigating [[donald-trump|Donald Trump]]'s efforts to remain in power after the 2020 election.[8] Pence planned to fight the subpoena, invoking his role as president of the Senate to argue that it violated the Constitution's "speech or debate" clause.[8] Two weeks later Smith subpoenaed [[ivanka-trump|Ivanka Trump]] and [[jared-kushner|Jared Kushner]], a step reported as showing how deeply into Trump's inner circle the investigation reached.[8]
+
+Separately, on February 21, 2023 the [[supreme-court-of-the-united-states|Supreme Court]] declined to hear a 2020 election lawsuit naming Pence alongside [[joe-biden|Joe Biden]], [[kamala-harris|Kamala Harris]], 291 House members and 94 senators, which alleged that they had violated their oaths of office by refusing to investigate [[2020-election-fraud-claims|evidence of fraud]] before accepting the electoral votes on January 6, 2021.[8]
+
 ## References
 1. Badlands Brief — "Poetic Agitprop, Cold War Reruns, & Kokomo From the Ropes", URL: https://badlands.substack.com/p/badlands-brief-e87
 2. Badlands Brief — "Trans Easter Bait & A Tale of Two Presidents", URL: https://badlands.substack.com/p/badlands-news-brief-092
@@ -53,3 +59,4 @@ In June 2023, [[badlands-media|Badlands Media]] commentary noted that Pence, lik
 5. Badlands News Brief — "Musk Investigated, Fauci Exposed & Committees Engaged", URL: https://badlands.substack.com/p/badlands-news-brief-34a
 6. Badlands News Brief — "Mutations, Laptops & Chinese Balloons", URL: https://badlands.substack.com/p/badlands-news-brief-3ae
 7. Badlands Brief — "The Wall Are Closing in Again! (And Other Stories)", URL: https://badlands.substack.com/p/badlands-news-brief-7ad
+8. Badlands Brief — "Badlands News Brief: Putin Postures, Voting Matters & J6 Subpoenas", URL: https://badlands.substack.com/p/badlands-news-brief-8c5

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, banking, central-bank]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-seismic-shift.md, raw/a-week-to-remember.md, raw/americas-greatest-threat.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-094.md, raw/badlands-brief-169.md, raw/badlands-brief-9eb.md, raw/badlands-brief-bf7.md, raw/badlands-brief-b82.md, raw/badlands-brief-c7b.md, raw/badlands-brief-d9f.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-71f.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-seismic-shift.md, raw/a-week-to-remember.md, raw/americas-greatest-threat.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-094.md, raw/badlands-brief-169.md, raw/badlands-brief-9eb.md, raw/badlands-brief-bf7.md, raw/badlands-brief-b82.md, raw/badlands-brief-c7b.md, raw/badlands-brief-d9f.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-919.md]
 confidence: medium
 ---
 
@@ -179,6 +179,10 @@ In April 2025 the Fed became the central front of a public confrontation with [[
 
 Attention turned to the Federal Reserve immediately after President [[donald-trump|Donald Trump]]'s [[liberation-day-tariffs|"Liberation Day" tariffs]] triggered the worst one-day US equity declines since 2020 on April 3, 2025, with the March employment report and Chairman [[jerome-powell|Jerome Powell]] both due the following morning.[29] Traders treated the payrolls release as a read on the health of the economy and on the outlook for monetary easing, amid fears that a full-blown trade war could trigger a global recession, fuel inflation, or produce stagflation.[29]
 
+## Gold Standard Restoration Act (April 2023)
+
+In April 2023, three Republican congressmen — [[alex-mooney|Alex Mooney]], [[andy-biggs|Andy Biggs]] and [[paul-gosar|Paul Gosar]] — introduced H.R. 2435, the [[gold-standard-restoration-act|Gold Standard Restoration Act]], which would give the Federal Reserve and the [[us-department-of-the-treasury|U.S. Treasury]] 24 months to publicly disclose all gold holdings and gold transactions, after which the Federal Reserve note "dollar" would be formally repegged to a fixed weight of gold at its then-market price.[30] Sponsors presented the measure as a response to the twin threats of inflation and bank failures, allowing the Federal Reserve note to regain stable footing for the first time in more than half a century.[30] Badlands contributor [[justin-deschamps|Justin Deschamps]] argued that while a gold peg could be a step in the right direction, the deeper problem is a money system controlled by bankers and hidden actors rather than transparently by the people, and predicted that international bankers pursuing [[central-bank-digital-currency|Central Bank Digital Currencies]] would resist such a reversal.[30]
+
 ## References
 1. Badlands Brief — "A Journey of Ever-changing Truths", URL: https://badlands.substack.com/p/a-journey-of-ever-changing-truths
 2. Badlands Brief — "A Seismic Shift", URL: https://badlands.substack.com/p/a-seismic-shift
@@ -209,3 +213,4 @@ Attention turned to the Federal Reserve immediately after President [[donald-tru
 27. Badlands Brief — "Badlands News Brief: North American Trade Troubles & Unipartisan Panic", URL: https://badlands.substack.com/p/badlands-news-brief-52f
 28. Badlands Brief — "Badlands News Brief: A Coming Conclave & More Musical Chairs", URL: https://badlands.substack.com/p/badlands-news-brief-5c8
 29. Badlands Brief — "Badlands News Brief: Orange Friday, Election Action, & McKinsey's Gives Advice", URL: https://badlands.substack.com/p/badlands-news-brief-71f
+30. Badlands Brief — "Badlands News Brief: Trials Galore, Ukraine Backpedal & The Gold Standard", URL: https://badlands.substack.com/p/badlands-news-brief-919

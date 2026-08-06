@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, republican-party, kentucky, oversight]
-sources: [raw/badlands-brief-144.md, raw/badlands-brief-414.md, raw/badlands-brief-67a.md, raw/badlands-brief-be1.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-7ce.md]
+sources: [raw/badlands-brief-144.md, raw/badlands-brief-414.md, raw/badlands-brief-67a.md, raw/badlands-brief-be1.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-7ce.md, raw/badlands-news-brief-8f1.md]
 confidence: medium
 ---
 
@@ -54,6 +54,12 @@ In July 2025, Paul urged the [[department-of-justice|Department of Justice]] to 
 
 In February 2025 Paul publicly backed a physical audit of the gold reserves at [[fort-knox|Fort Knox]] after [[zerohedge|ZeroHedge]] suggested that [[elon-musk|Elon Musk]]'s [[doge|Department of Government Efficiency]] investigate the depository; the suggestion went viral on X and Paul, whose home state of Kentucky hosts the installation, replied to Musk with "Let's do it."[9]
 
+## Push for federal prosecution of Fauci (November 2023)
+
+In a November 2023 interview with Jan Jekielek on EpochTV's "American Thought Leaders," Paul said he was pursuing federal criminal action against Dr. [[anthony-fauci|Anthony Fauci]] for perjury before [[congress|Congress]], having asked Attorney General [[merrick-garland|Merrick Garland]] to prosecute him for false testimony given during multiple congressional hearings.[10] "We haven't had a lot of luck," Paul said. "Garland is not paying attention to the referral, but [Dr. Fauci] did lie to Congress."[10]
+
+Paul alleged that Fauci and multiple other parts of the federal government engaged in an "extensive" coverup of the origin, threat, and potential treatments for COVID-19, a two-year misdirection he detailed in his book *Deception: The Great Covid Cover-Up*, published in October 2023.[10] "Virtually everything they said in private, they said the opposite in the public at the same time," he said.[10] At the time Fauci was employed by Georgetown University, which he had joined in July 2023 as a distinguished university professor in its school of medicine's department of medicine.[10]
+
 ## References
 1. Badlands Brief — "MLKKK Day, Peace Boards and Power Paradigms", URL: https://badlands.substack.com/p/badlands-brief-144
 2. Badlands Brief — "Narcissistic Sociopathy & Rebranded Sex Robots For Kids", URL: https://badlands.substack.com/p/badlands-brief-414
@@ -64,3 +70,4 @@ In February 2025 Paul publicly backed a physical audit of the gold reserves at [
 7. Badlands News Brief — "Indian iPhones, A Sovereign Bromance, & Allegedly Real IDs", URL: https://badlands.substack.com/p/badlands-news-brief-520
 8. Badlands Brief — "Badlands News Brief: Pardon Probes & Russia Gate Redux", URL: https://badlands.substack.com/p/badlands-news-brief-58e
 9. Badlands Brief — "The Star Spangled Banner, Bureaucrat Bleach Bit, & an Unknown Balance of Bullion", URL: https://badlands.substack.com/p/badlands-news-brief-7ce
+10. Badlands News Brief — "Dictators, Sovereigns and Bipartisan Peace", URL: https://badlands.substack.com/p/badlands-news-brief-8f1

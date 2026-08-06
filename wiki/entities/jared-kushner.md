@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [trump-administration, cbdc, crypto, white-house]
-sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-169.md, raw/badlands-brief-7c6.md, raw/badlands-brief-8db.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-623.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-8c5.md]
+sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-169.md, raw/badlands-brief-7c6.md, raw/badlands-brief-8db.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-623.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-8fd.md]
 confidence: medium
 ---
 
@@ -74,6 +74,10 @@ In February 2023, Kushner and his wife [[ivanka-trump|Ivanka Trump]] were subpoe
 
 It was unclear whether Trump would seek to block Kushner and Ivanka Trump from testifying on executive privilege grounds, as he had attempted with other witnesses; both had served as White House officials in his administration, and Trump had declined to try to stop them from testifying before the [[january-6-committee|House select committee]] that investigated the attack.[11] [[badlands-media|Badlands Media]] contributor [[just-human|Just Human]] argued that Smith's investigation would ultimately clear Trump and his team while gathering evidence of 2020 election fraud, and predicted indictments of figures from both parties.[11]
 
+## December 2025 Moscow talks
+
+Kushner accompanied special envoy Steve Witkoff to Moscow in early December 2025 for talks with Russian President Vladimir Putin on ending the Ukraine conflict.[12] European leaders, on a phone call the previous day, voiced fears that the United States would betray Ukraine on the territorial question without clarity on security guarantees.[12]
+
 ## References
 1. Badlands Brief — "Are CBDCs The Path To Fear, or Freedom?", URL: https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom
 2. Badlands Brief — "Condemnation, Calibration, & Constitutional Boxes", URL: https://badlands.substack.com/p/badlands-brief-169
@@ -86,3 +90,4 @@ It was unclear whether Trump would seek to block Kushner and Ivanka Trump from t
 9. Badlands Brief — "It’s Our Failed ‘Resistance’ and We Can Cry if We Want To", URL: https://badlands.substack.com/p/badlands-news-brief-656
 10. Badlands Brief — "Badlands News Brief: Shutdowns, Shakedowns, & Two Sexes", URL: https://badlands.substack.com/p/badlands-news-brief-762
 11. Badlands Brief — "Badlands News Brief: Putin Postures, Voting Matters & J6 Subpoenas", URL: https://badlands.substack.com/p/badlands-news-brief-8c5
+12. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd

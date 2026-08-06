@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [california, democrats, politics, media]
-sources: [raw/badlands-brief-285.md, raw/badlands-brief-6a1.md, raw/badlands-brief-7bf.md, raw/badlands-brief-884.md, raw/badlands-brief-774.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-50f.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-889.md]
+sources: [raw/badlands-brief-285.md, raw/badlands-brief-6a1.md, raw/badlands-brief-7bf.md, raw/badlands-brief-884.md, raw/badlands-brief-774.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-50f.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-8fd.md]
 confidence: medium
 ---
 
@@ -121,6 +121,14 @@ On Wednesday, November 12, 2025, Newsom's former chief of staff [[dana-williamso
 
 In late August 2024 Newsom was left to decide the fate of a bill making illegal immigrants eligible for up to $150,000 in home loans for first-time buyers, after the California State Assembly passed a final version on August 28.[23] Assemblyman Bill Essayli (R-Corona) led Republican opposition, but Democrats approved the measure by a three-to-one veto-proof majority and sent it to the governor's desk.[23] The measure would expand an existing program that requires no down payment or interest payments but obliges borrowers to repay the principal plus a share of the home's appreciation.[23] Badlands Media framed the bill as part of a pattern of creating incentives for illegal migration by extending taxpayer-funded benefits, contrasting it with reports of Venezuelan gang activity in [[aurora-colorado|Aurora, Colorado]].[23]
 
+## AB 1840 home loans for illegal immigrants (August 2024)
+
+In late August 2024 Newsom was left to decide the fate of a bill making illegal immigrants eligible for up to $150,000 in home loans for first-time buyers, after the California State Assembly passed a final version on August 28.[23] Assemblyman Bill Essayli (R-Corona) led Republican opposition, but Democrats approved the measure by a three-to-one veto-proof majority and sent it to the governor's desk.[23] The measure would expand an existing program that requires no down payment or interest payments but obliges borrowers to repay the principal plus a share of the home's appreciation.[23] Badlands Media framed the bill as part of a pattern of creating incentives for illegal migration by extending taxpayer-funded benefits, contrasting it with reports of Venezuelan gang activity in [[aurora-colorado|Aurora, Colorado]].[23]
+
+## Halle Berry's DealBook criticism
+
+At The New York Times' DealBook Summit in early December 2025, actress Halle Berry publicly attacked Newsom for vetoing the Menopause Care Equity Act (AB 432) for the second consecutive year, saying that having overlooked and devalued 'half the population' he 'probably should not be our next president either.'[24] Her remarks reportedly drew gasps from an audience awaiting Newsom's own appearance later that afternoon.[24] Badlands host Ashe in America sided with the veto, arguing the bill was about who pays for menopause care rather than access to it.[24]
+
 ## References
 1. Badlands Brief — "Tuckabee Unites The Arab World As Mexico Courts Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-285
 2. Badlands Brief — "The G7 Laments the G2", URL: https://badlands.substack.com/p/badlands-brief-6a1
@@ -145,3 +153,4 @@ In late August 2024 Newsom was left to decide the fate of a bill making illegal 
 21. Badlands Brief — "Badlands News Brief: Familiar Formulas, Blue Skies, & Antisemitic Nonchalance", URL: https://badlands.substack.com/p/badlands-news-brief-6e6
 22. Badlands Brief — "Badlands News Brief: MAGA Cracks, Fund Funnels, & Devilish Bees", URL: https://badlands.substack.com/p/badlands-news-brief-817
 23. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889
+24. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd

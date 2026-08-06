@@ -182,6 +182,10 @@ Addressing an extraordinary virtual meeting of the [[brics|BRICS]] grouping on t
 
 Xi met US national security adviser [[jake-sullivan|Jake Sullivan]] in Beijing on August 29, 2024, at the close of Sullivan's three-day visit — the first by a sitting US national security adviser in eight years.[32] Badlands Media characterized the meeting as a brief and largely ceremonial photo opportunity that followed a far more pointed exchange between Sullivan and Central Military Commission vice chairman [[zhang-youxia|Zhang Youxia]] over [[taiwan|Taiwan]].[32]
 
+## Meeting with Jake Sullivan (August 2024)
+
+Xi met US national security adviser [[jake-sullivan|Jake Sullivan]] in Beijing on August 29, 2024, at the close of Sullivan's three-day visit — the first by a sitting US national security adviser in eight years.[32] Badlands Media characterized the meeting as a brief and largely ceremonial photo opportunity that followed a far more pointed exchange between Sullivan and Central Military Commission vice chairman [[zhang-youxia|Zhang Youxia]] over [[taiwan|Taiwan]].[32]
+
 ## References
 1. Badlands Brief — "A Gateway to a New World of Cooperation", URL: https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation
 2. Badlands Brief — "Badlands Blitz Episode 17", URL: https://badlands.substack.com/p/badlands-blitz-episode-17

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [china, surveillance, biden, us-china-relations]
-sources: [raw/badlands-news-brief-01d.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-420.md, raw/badlands-news-brief-754.md]
+sources: [raw/badlands-news-brief-01d.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-420.md, raw/badlands-news-brief-754.md, raw/badlands-news-brief-8f9.md]
 confidence: medium
 ---
 
@@ -21,6 +21,8 @@ The episode became public on Wednesday, February 1, 2023, when residents of the 
 Writing in the [[badlands-news-brief|Badlands News Brief]], [[ryan-delarme|Ryan DeLarme]] noted that the first question in such sightings is always "ours or theirs" — whether an unidentified object belongs to the US military, a foreign state, or a defense contractor such as Raytheon, Boeing or Lockheed Martin — and argued that China's interest in Montana lay not in farmland but in the state's US intercontinental ballistic missile facilities.[2]
 
 ## Political aftermath
+
+Democratic Representative [[mike-quigley|Mike Quigley]] of Illinois said on CNN's "CNN Newsroom" on Friday, February 3, 2023 that while the balloon was a serious issue, "the low orbit Chinese satellites have been there for years, they're there all the time," adding that he did not want Americans to believe the concern was new.[5] Quigley also argued that Secretary of State [[antony-blinken|Antony Blinken]] should not have canceled his trip to China over the balloon, saying grievances should be raised "nose-to-nose" rather than through the press.[5] Writing in the [[badlands-news-brief|Badlands News Brief]], [[ryan-delarme|Ryan DeLarme]] rejected that framing, asking whether US airspace had become meaningless and whether the balloons served purposes satellites could not, and called it a poor look for an American politician to play devil's advocate for the nation's most competent adversary.[5]
 
 ## Debris recovery (February 2023)
 
@@ -52,3 +54,4 @@ Contributor [[absolutetruth1776|AbsoluteTruth1776]] read the Chinese counter-cla
 2. Badlands News Brief — "Mutations, Laptops & Chinese Balloons", URL: https://badlands.substack.com/p/badlands-news-brief-3ae
 3. Badlands News Brief — "The Hersh Report, Exposure & Disclosure", URL: https://badlands.substack.com/p/badlands-news-brief-420
 4. Badlands Brief — "Badlands News Brief: PsyOps and PsyActs EVERYWHERE ...", URL: https://badlands.substack.com/p/badlands-news-brief-754
+5. Badlands News Brief — "Deflated Balloons, Sketchy AI & Democrat Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-8f9

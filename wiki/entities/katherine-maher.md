@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, npr, censorship, executives]
-sources: [raw/badlands-news-brief-0cd.md]
+sources: [raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-8fd.md]
 confidence: medium
 ---
 
@@ -20,5 +20,10 @@ Berliner resigned from NPR on April 17, 2024, explicitly citing Maher's response
 
 Commentary aggregated in [[badlands-news-brief|Badlands News Brief]] highlighted two sets of Maher's prior public statements that circulated widely during the controversy: remarks in which she pointed to the First Amendment as "the number one challenge" in the establishment's fight against disinformation, and a TED talk in which she cautioned that "our reverence for the truth might be a distraction that's getting in the way of finding common ground and getting things done."[1] Critics treated these statements as confirmation of Berliner's underlying thesis about ideological capture in legacy media.[1]
 
+## Scrutiny during Signalgate
+
+Badlands host CannCon pointed to Maher's role as chair of the Signal Foundation board — held alongside her position as chief executive of NPR, and following prior work with the National Democratic Institute, UNICEF, the World Bank, Access Now, the Atlantic Council, and the US State Department Foreign Policy Affairs Board — as grounds for questioning how and why senior US officials came to conduct sensitive discussions on Signal.[2]
+
 ## References
 1. Badlands Media — "Badlands News Brief: Based Bodegas, Limp Sanctions & Scared Bankers", URL: https://badlands.substack.com/p/badlands-news-brief-0cd
+2. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd

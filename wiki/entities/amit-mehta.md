@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [judiciary, january-6, federal-courts]
-sources: [raw/badlands-news-brief-06d.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-62c.md]
+sources: [raw/badlands-news-brief-06d.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-8f3.md]
 confidence: low
 ---
 
@@ -28,9 +28,14 @@ From the bench Mehta said what he found disappointing was that "in all of this, 
 
 Mehta presided over the September 2023 contempt of Congress trial of former Trump trade adviser [[peter-navarro|Peter Navarro]], for which a jury was seated on September 5, 2023.[4] In pre-trial hearings he characterized Navarro's legal arguments as "pretty weak sauce" and rejected the executive privilege defense, stating that "there was no formal invocation of executive privilege by [Trump] after personal consideration nor authorization to Mr. Navarro to invoke privilege on his behalf."[4] Badlands Media commentary held that Mehta had "already demonstrated bias in the case," making a conviction and subsequent appeal the likely outcome.[4]
 
+## Oath Keepers convictions
+
+In January 2023, Mehta oversaw the proceedings in which four members of the [[oath-keepers|Oath Keepers]] were convicted of seditious conspiracy in connection with January 6, 2021.[5] [[the-gateway-pundit|The Gateway Pundit]] described him as a "Wicked Obama Judge" presiding over what it called a "DC Kangaroo Court," and Badlands contributor [[sean-morgan|Sean Morgan]] cited the convictions as evidence of a two-tiered system of justice intended to chill protest over disputed elections.[5]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Devolution Proofs Abroad and White Pills in the Chaos", URL: https://badlands.substack.com/p/badlands-news-brief-06d
 2. Badlands News Brief — "Monkeypox ... For Real? And Other Info War Oddities", URL: https://badlands.substack.com/p/badlands-news-brief-36a
 3. Badlands Brief — "Red States Align While the MSM Craters", URL: https://badlands.substack.com/p/badlands-news-brief-5ff
 4. Badlands Brief — "Trump Takes on Big Pharma and GART Kicks Off!", URL: https://badlands.substack.com/p/badlands-news-brief-62c
+5. Badlands Brief — "Badlands News Brief: FBI Charges, Exorcisms and ... Woke M&M's?", URL: https://badlands.substack.com/p/badlands-news-brief-8f3

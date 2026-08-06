@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, contributor, fifth-generation-warfare, epistemology]
-sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-blast.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-6b6.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-82f.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-blast.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-6b6.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-8c5.md]
 confidence: medium
 ---
 
@@ -177,6 +177,12 @@ Deschamps speculated that the purpose served by mass data aggregation is calibra
 
 In the September 19, 2023 Badlands News Brief, Deschamps wrote on the recurring autumn budget crisis, arguing that Democratic outrage at the House GOP stopgap was disproportionate to a bill that mainly cut discretionary spending by up to 8 percent, and asking what the seasonal budget fight was distracting the public from.[27] In the same edition he published an extended essay on [[clinical-presentation-and-medical-diagnosis|clinical presentation and medical diagnosis]], contending that doctors are trained to accept rather than verify medical dogma, that diagnosis is often impossible without laboratory tests, and that the resulting dependence on medical authority allows harmful public-health policy - he cited gender-affirming care, COVID-19 treatment protocols, and en masse cesarean section - to go unchallenged.[27]
 
+## "Who will do something?" (February 2023)
+
+Responding to the [[supreme-court-of-the-united-states|Supreme Court]]'s February 2023 refusal to hear a lawsuit over the [[2020-election-fraud-claims|2020 election]], Deschamps asked "Who will do something?" and argued that courts high and low had consistently ignored the evidence, sometimes citing lack of standing, so that no official with real authority had given the claims a fair day in court.[28] He conceded that there might be merit in the technical grounds for those decisions while noting that [[congress|Congress]] refused to conduct hearings and that many election officials continued to call 2020 the most secure election in history even as ordinary citizens kept surfacing new material.[28]
+
+He concluded that the problem might be far greater than a rigged election — a system "at best defunct" in defending the rights of the people and "at worst, a total tyranny" — and asked, after petitions, lawsuits and protests had been exhausted, "if not us, then who? If not now, then when?"[28] Comparing the refusal to investigate to declining to pursue a murder over a clerical defect, he warned that if the matter faded into "the fog of history," future generations would not know enough to ask for the truth.[28]
+
 ## References
 
 1. Badlands Brief — "AI Can Help Us Expose the NWO", URL: https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo
@@ -206,3 +212,4 @@ In the September 19, 2023 Badlands News Brief, Deschamps wrote on the recurring 
 25. Badlands Brief — "The Wall Are Closing in Again! (And Other Stories)", URL: https://badlands.substack.com/p/badlands-news-brief-7ad
 26. Badlands Brief — "Badlands News Brief: Trump Defiant, Biden Protected & Woke Worn", URL: https://badlands.substack.com/p/badlands-news-brief-7a7
 27. Badlands Brief - "Badlands News Brief: Missing Planes, Missing Funds & Missing Metrics", URL: https://badlands.substack.com/p/badlands-news-brief-82f
+28. Badlands Brief — "Badlands News Brief: Putin Postures, Voting Matters & J6 Subpoenas", URL: https://badlands.substack.com/p/badlands-news-brief-8c5

@@ -22,6 +22,10 @@ The interview became a focal point of commentary because it coincided with the s
 
 Bash conducted the first joint television interview of the 2024 Democratic ticket on August 29, 2024, questioning [[kamala-harris|Kamala Harris]] and [[tim-walz|Tim Walz]] on CNN.[2] Badlands Media characterized her questioning as consisting mostly of softballs that allowed Harris to rehabilitate her record of policy reversals, though Bash did raise [[donald-trump|Donald Trump]]'s comments about Harris's racial identity, which Harris deflected as the "same old tired playbook."[2]
 
+## Harris-Walz interview (August 2024)
+
+Bash conducted the first joint television interview of the 2024 Democratic ticket on August 29, 2024, questioning [[kamala-harris|Kamala Harris]] and [[tim-walz|Tim Walz]] on CNN.[2] Badlands Media characterized her questioning as consisting mostly of softballs that allowed Harris to rehabilitate her record of policy reversals, though Bash did raise [[donald-trump|Donald Trump]]'s comments about Harris's racial identity, which Harris deflected as the "same old tired playbook."[2]
+
 ## References
 1. Badlands Brief — "Sovereign Signals, Israeli Subversion, and the SAVE America Ultimatum", URL: https://badlands.substack.com/p/badlands-brief-f62
 2. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889

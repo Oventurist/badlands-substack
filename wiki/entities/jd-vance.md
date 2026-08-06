@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [republican, vice-president, 2024-election]
-sources: [raw/a-week-to-remember.md, raw/are-we-being-distracted.md, raw/badlands-brief-029.md, raw/badlands-brief-05f.md, raw/badlands-brief-094.md, raw/badlands-brief-165.md, raw/badlands-brief-4ec.md, raw/badlands-brief-6b4.md, raw/badlands-brief-739.md, raw/badlands-brief-708.md, raw/badlands-brief-861.md, raw/badlands-brief-8c2.md, raw/badlands-brief-9ac.md, raw/badlands-brief-a6b.md, raw/badlands-brief-abf.md, raw/badlands-brief-a84.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-467.md, raw/badlands-news-brief-4fd.md, raw/badlands-news-brief-50f.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-74a.md, raw/badlands-news-brief-752.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-8ae.md]
+sources: [raw/a-week-to-remember.md, raw/are-we-being-distracted.md, raw/badlands-brief-029.md, raw/badlands-brief-05f.md, raw/badlands-brief-094.md, raw/badlands-brief-165.md, raw/badlands-brief-4ec.md, raw/badlands-brief-6b4.md, raw/badlands-brief-739.md, raw/badlands-brief-708.md, raw/badlands-brief-861.md, raw/badlands-brief-8c2.md, raw/badlands-brief-9ac.md, raw/badlands-brief-a6b.md, raw/badlands-brief-abf.md, raw/badlands-brief-a84.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-467.md, raw/badlands-news-brief-4fd.md, raw/badlands-news-brief-50f.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-74a.md, raw/badlands-news-brief-752.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-914.md]
 confidence: medium
 ---
 
@@ -222,6 +222,12 @@ Coverage of the speech described Vance as underscoring a more populist, protecti
 
 Badlands commentator [[burning-bright|Burning Bright]] acknowledged not having predicted the Vance pick, having floated names ranging from a returned Mike Pence to Michael Flynn and Robert C. O'Brien, and having described Vance in the lead-up as too much of a "Normie Build-a-Republican" candidate.[40] Following the selection, [[just-human|Just Human]] devoted a lengthy segment of the [[devolution-power-hour|Devolution Power Hour]] to Vance's attributes.[40] What stood out most to Burning Bright was not the backing of [[peter-thiel|Peter Thiel]] — whom many anons believe is at least tangentially involved in patriot plans — but how far back that backing goes, suggesting there may be more to Vance's ability to force a paradigm shift in Silicon Valley than meets the eye, with the intervening speculation acting as smoke and shielding on the informational battlefield.[40]
 
+## Joe Rogan appearance (October 2024)
+
+In the closing days of the 2024 campaign, Vance's spokesperson confirmed that the Ohio senator and Republican vice-presidential nominee would record an interview with [[joe-rogan|Joe Rogan]] on Wednesday, October 30, at Rogan's podcast studio in Austin, Texas, days after [[donald-trump|Donald Trump]] sat down with the podcaster; CNN first reported the scheduled appearance.[41] Vance was also expected to hold a campaign event in Pennsylvania later that day.[41]
+
+Though it would be his first appearance on Rogan's show, Vance had appeared on dozens of podcasts since joining the Republican ticket, including two separate recordings the previous week — with Theo Von and Tim Dillon — totaling nearly four hours of content.[41] Trump's own three-hour appearance had spanned the war in Ukraine, his health and whether there is life on Mars, and also gave a venue to his claims of a "stolen" 2020 election.[41]
+
 ## References
 
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
@@ -264,3 +270,4 @@ Badlands commentator [[burning-bright|Burning Bright]] acknowledged not having p
 38. Badlands Brief — "Badlands News Brief: “Terrifying” Trade Alliances, Pedagogue Payouts, & A Bondi Barn Burner", URL: https://badlands.substack.com/p/badlands-news-brief-7bb
 39. Badlands Brief — "Badlands News Brief: MAHA, Modi, Musk, & Munich", URL: https://badlands.substack.com/p/badlands-news-brief-7b8
 40. Badlands Media — "Badlands News Brief: Vance Takes the Stage as Biden Takes the Basement", URL: https://badlands.substack.com/p/badlands-news-brief-8ae
+41. Badlands Brief — "Badlands News Brief: Trump Tours, Bannon Breaks Out & Israel Hesitates", URL: https://badlands.substack.com/p/badlands-news-brief-914

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [immigration, crime, north-carolina, state-of-the-union]
-sources: [raw/badlands-brief-fbb.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-6e5.md]
+sources: [raw/badlands-brief-fbb.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-8cd.md]
 confidence: medium
 ---
 
@@ -23,7 +23,12 @@ Zarutska, 23, was stabbed in Charlotte, North Carolina on August 22, 2025; [[dec
 In September 2025 [[michelle-dewitt|Michelle Dewitt]], the mother of accused killer [[decarlos-brown-jr|DeCarlos Brown Jr.]], spoke publicly about the attack, saying local authorities had failed her son by turning him away when the family sought help for his schizophrenic fantasies and that he should never have been left free.[3] Reporting recounted that harrowing video appeared to show Zarutska, a 23-year-old Ukrainian refugee, board the train and sit in front of Brown, who moments later allegedly drew a knife and stabbed her several times; Brown was charged with first-degree murder over the unprovoked attack and later faced federal charges as well.[3] [[ashe-in-america|Ashe in America]] closed her commentary on the case with "Rest in peace, Iryna Zarutska," while arguing that the failures of the [[united-states-mental-health-system|American mental health system]] had made the killing possible.[3]
 
 
+## Fox News coverage and the Kilmeade controversy
+
+The August 22, 2025 stabbing murder of Zarutska on a light rail train in Charlotte, North Carolina received extensive attention on [[fox-news|Fox News]] following the release of a security video of the attack.[4] During a "Fox & Friends" discussion of the case, host [[brian-kilmeade|Brian Kilmeade]] said of mentally ill homeless people who refuse services, "or involuntary lethal injection, or something — just kill 'em," a remark he publicly apologized for the following Sunday as "extremely callous."[4] [[decarlos-brown-jr|DeCarlos Brown Jr.]], a homeless and mentally ill man, was arrested for the murder.[4]
+
 ## References
 1. Badlands Brief — "Unity, Patricide, & Political Violence", URL: https://badlands.substack.com/p/badlands-brief-fbb
 2. Badlands Brief — "Rare Earths, Rogue Judges, & Record Downward Revisions", URL: https://badlands.substack.com/p/badlands-news-brief-030
 3. Badlands Brief — "Badlands News Brief: Manhunts, Mental Health, & the Mother of a Monster", URL: https://badlands.substack.com/p/badlands-news-brief-6e5
+4. Badlands Brief — "Badlands News Brief: Vigils, Vanguards, & Various Investigations", URL: https://badlands.substack.com/p/badlands-news-brief-8cd

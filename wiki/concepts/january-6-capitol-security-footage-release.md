@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [january-6, congress, media, transparency, 2023]
-sources: [raw/badlands-news-brief-12a.md, raw/badlands-news-brief-644.md]
+sources: [raw/badlands-news-brief-12a.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-8f4.md]
 confidence: medium
 ---
 
@@ -28,6 +28,14 @@ On the evening of Monday, March 6, 2023, Carlson aired footage from the archive 
 
 Commentary in the [[badlands-news-brief|Badlands News Brief]] by [[absolutetruth1776|AbsoluteTruth1776]] argued that the broadcast proved the public had been shown only edited and chopped video for two years in service of a narrative against [[donald-trump|Donald Trump]] and his supporters, characterized the official account as "one of the largest psyops ever run against the American people," and predicted the January 6 narrative would keep crumbling as further video was released.[2]
 
+## Reaction to the March 2023 broadcast
+
+Former President [[donald-trump|Donald Trump]] reacted to the broadcast by declaring "Free at Last," casting the newly aired material as portraying a different picture from the one painted by former House Speaker [[nancy-pelosi|Nancy Pelosi]].[3] Coverage of the segment noted that the footage ran contrary to narratives advanced by figures such as former Rep. [[liz-cheney|Liz Cheney]] and the [[january-6-committee|January 6 committee]], which had characterized the participants as having taken part in an "insurrection."[3] The most widely circulated clip, amplified by commentator [[greg-price|Greg Price]], showed Chansley being led through the building by police the entire time he was inside.[3]
+
+Congressional leaders of both parties objected to the release. Senate Minority Leader [[mitch-mcconnell|Mitch McConnell]] called it a "mistake" for Carlson and [[fox-news|Fox News]] to air the never-before-seen footage, while Senate Majority Leader [[chuck-schumer|Chuck Schumer]] said that [[rupert-murdoch|Rupert Murdoch]] "has a special obligation to stop Tucker Carlson from going on tonight," adding that "our democracy depends on it."[3] Writing in the Badlands News Brief, [[patel-patriot|Patel Patriot]] argued that both leaders had promoted transparency in government only when it suited their political agendas, and asked what they were afraid of.[3]
+
+[[ryan-delarme|Ryan DeLarme]] argued that Democrats and RINOs had hidden the footage because it destroyed their January 6 narrative, faulted Carlson for not immediately releasing everything he was given, and called for the immediate release of defendants held in pretrial detention in Washington.[3] In his reading the evidence showed that participants were admitted and escorted by [[united-states-capitol-police|Capitol Police]], that they were peaceful, that police escorted Chansley around the Capitol for photo ops, that imposters were present, and that the protesters simply wanted Congress to confront claims of election fraud.[3]
+
 ## Political reading
 
 Badlands contributor [[chris-paul|Chris Paul]] framed the release as evidence that McCarthy was "beginning to silence the doubters," calling the turnover of January 6 footage — particularly to Carlson, described as "as big as it gets in mainstream media" — a significant development capable of rapidly disrupting the mainstream media narrative surrounding January 6.[1] The same commentary linked the footage decision to McCarthy's parallel maneuvering over [[ukraine-aid-funding-controversy|Ukraine aid]] in must-pass spending bills.[1]
@@ -36,3 +44,4 @@ Badlands contributor [[chris-paul|Chris Paul]] framed the release as evidence th
 
 1. Badlands Brief — "Badlands News Brief: Dueling Presidents, Establishment Secrets & Info Wars", URL: https://badlands.substack.com/p/badlands-news-brief-12a
 2. Badlands Brief — "J6 Exposure, Biden's Brain and Trump's Agenda", URL: https://badlands.substack.com/p/badlands-news-brief-644
+3. Badlands Brief — "Badlands News Brief: January 6 and Nord Stream Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-8f4

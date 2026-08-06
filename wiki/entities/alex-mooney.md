@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republican, west-virginia, sound-money]
-sources: [raw/badlands-news-brief-12e.md]
+sources: [raw/badlands-news-brief-12e.md, raw/badlands-news-brief-919.md]
 confidence: low
 ---
 
@@ -16,6 +16,9 @@ In April 2023 Mooney introduced H.R. 2435, the [[gold-standard-restoration-act|G
 
 Explaining the measure, Mooney said in a statement that "a gold standard would protect against Washington's irresponsible spending habits and the creation of money out of thin air."[1] The bill was introduced against a backdrop of inflation and bank failures that sponsors argued demonstrated the instability of the fiat monetary system.[1]
 
+Contemporaneous coverage of the bill's introduction framed it as a pivotal sound-money response to the twin threats of inflation and bank failures, enabling the Federal Reserve note "dollar" to regain stable footing for the first time in more than half a century.[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Trans Mayhem, WW3 & Trump's Travels", URL: https://badlands.substack.com/p/badlands-news-brief-12e
+2. Badlands Brief — "Badlands News Brief: Trials Galore, Ukraine Backpedal & The Gold Standard", URL: https://badlands.substack.com/p/badlands-news-brief-919

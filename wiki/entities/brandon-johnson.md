@@ -4,13 +4,17 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [chicago, illinois, immigration, national-guard, protests]
-sources: [raw/badlands-news-brief-060.md, raw/badlands-news-brief-4e1.md]
+sources: [raw/badlands-news-brief-060.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-919.md]
 confidence: medium
 ---
 
 # Brandon Johnson
 
 **Brandon Johnson** is the mayor of Chicago, whose rhetoric during the October 2025 federal deployment to Illinois drew sharp criticism from Badlands commentators.[1]
+
+## 2023 election as mayor
+
+Johnson won the April 2023 runoff for mayor of Chicago as the far-left, self-professed "progressive" candidate, campaigning on a plan to defund the Chicago Police and raise the city's taxes.[3] He defeated moderate Democrat [[paul-vallas|Paul Vallas]], the former Chicago Public Schools chief, who had run as a business-friendly, law-and-order candidate and whom Johnson's campaign labelled a racist who was "really a Republican."[3] Vallas led for most of election night until roughly 8 p.m., when Johnson began overtaking him; more than 500,000 Chicagoans cast ballots and Johnson held a slight lead as absentee and mail-in counting continued past Election Night.[3] Badlands contributor [[ryan-delarme|Ryan DeLarme]] flagged the late vote surge as a possible sign of foul play and wondered aloud whether Chicago had been at risk of flipping Republican.[3]
 
 ## "Civil War" remark
 
@@ -26,3 +30,4 @@ On Wednesday, March 5, 2025, Johnson testified before the Republican-led [[house
 
 1. Badlands Brief — "Badlands News Brief: Quantum Tunneling, Natural Conflicts, & Pirates for Gaza", URL: https://badlands.substack.com/p/badlands-news-brief-060
 2. Badlands News Brief — "SCOTUS Drama and (Altered) Deals Shake Up the Week", URL: https://badlands.substack.com/p/badlands-news-brief-4e1
+3. Badlands Brief — "Badlands News Brief: Trials Galore, Ukraine Backpedal & The Gold Standard", URL: https://badlands.substack.com/p/badlands-news-brief-919
