@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [conspiracy, elites, banking]
-sources: [raw/1913.md, raw/ai-can-help-us-expose-the-nwo.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-we-being-distracted.md, raw/balance-necessary-for-control.md, raw/expand-your-thinking.md]
+sources: [raw/1913.md, raw/ai-can-help-us-expose-the-nwo.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-we-being-distracted.md, raw/balance-necessary-for-control.md, raw/expand-your-thinking.md, raw/money-and-oil.md, raw/power-to-the-people.md, raw/q-is-our-best-fren.md]
 confidence: low
 ---
 
@@ -50,6 +50,10 @@ The essay "Expand Your Thinking" (May 25, 2023) built on the [[qanon|Q]] stateme
 
 On this view, right-brained associative and linguistic thinking is described as "a vital key we need to develop for defeating the cabal," and the website [[decoding-symbolism|Decoding Symbolism]] is recommended to [[anons|anons]] as a training ground for spotting symbolic correspondences within the framework of the Q drops.[6] The same essay treats mainstream culture and academia as vehicles for installed maps of reality, arguing that people credulously accept whatever comes from the mainstream and that this deference is itself a form of captured perception.[6]
 
+## The "Babylon system" framing
+
+Writing in October 2022, Badlands Media contributor [[pepe-lives-matter|Pepe Lives Matter]] described the prevailing order as "the Babylon system" and cast the cabal as modern Pharaohs holding a population in a slavery it had grown comfortable with.[8] In this account the cabal's overreach was self-defeating: "the harder they push, the greater the awakening," and its blatant targeting of children was said to be "startling a sleeping giant" with a hubris unseen in the modern era.[8] The essay named [[hillary-clinton|Clinton]], [[barack-obama|Obama]] and [[george-soros|Soros]] among the high-level players it considered complicit in treason, and argued that the movement's purpose was to replace a failed political establishment and return power to the people.[8] It cited the fall of the [[georgia-guidestones|Georgia Guidestones]] — read as a monument to depopulation and slavery — and the overturning of [[roe-v-wade|Roe v. Wade]] as losses the cabal would never have permitted had it retained control, and predicted the cabal would "soon be a distant memory."[8]
+
 ## References
 1. Badlands Brief — "1913: The Year the Cabal Enslaved America", URL: https://badlands.substack.com/p/1913
 2. Badlands Brief — "AI Can Help Us Expose the NWO", URL: https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo
@@ -57,3 +61,22 @@ On this view, right-brained associative and linguistic thinking is described as 
 4. Badlands Brief — "Are We Being Distracted?", URL: https://badlands.substack.com/p/are-we-being-distracted
 5. Badlands Brief — "Balance, Necessary for Control", URL: https://badlands.substack.com/p/balance-necessary-for-control
 6. Badlands Brief — "Expand Your Thinking", URL: https://badlands.substack.com/p/expand-your-thinking
+
+## Money and oil as the cabal's two weapons (November 2022)
+
+Joe Lange's essay "Money and Oil" frames the cabal as the true adversary in an unconventional global war, arguing that American Democrats are merely puppets and that the real fight is against their puppet masters, with the entire world at stake.[7] On this account the cabal has controlled most of the world for longer than most people realise by controlling the money supply, beginning with the [[rothschild-family|Rothschilds]], who are said to have controlled banks, then kings, and then most governments.[7]
+
+The essay identifies [[oil|oil]] as the cabal's second weapon, describing the abandonment of the [[gold-standard|gold standard]] and the creation of the [[petrodollar|petrodollar]] as the mechanism by which it bound the world's energy trade to a fiat dollar it controlled.[7] Lange argues that by late 2022 the cabal had lost control of both levers: [[federal-reserve|Federal Reserve]] rate rises had crushed foreign currency exchanges and pushed the [[global-debt-system|global debt system]] to the brink, while [[saudi-arabia|Saudi Arabia]]'s realignment toward [[russia|Russia]], [[china|China]] and [[brics|BRICS]] ended its control of the oil price.[7] He also charges the cabal with using [[ukraine|Ukraine]] as a launchpad against Russia, hosting illegal bio labs, Nazi divisions and a money laundering operation there, and with using the "Plandemic" as a catalyst for a global reset.[7]
+
+7. Badlands Brief — "Money and Oil", URL: https://badlands.substack.com/p/money-and-oil
+8. Badlands Brief — "Power to the People", URL: https://badlands.substack.com/p/power-to-the-people
+
+## The cabal as parasitic organism (March 2025)
+
+The essay "Q is Our Best Fren" (March 25, 2025) profiles the cabal chiefly through the lens of [[psychopathy-and-parasitism|psychopathy and parasitism]], arguing that these two concepts alone are sufficient to explain almost everything about the group and to infer the finer details of its plans.[9] On this account the cabal's entire system is built to siphon energy and resources from the population back to itself, and to use what it takes to further enslave and torture the masses; even its propaganda is characterised as a form of psychological torture.[9] Its dark occultism is described as an elaborate way of consuming other people's energy, its banking systems as serving the same end, and its media as designed to hypnotise people into permitting their own exploitation.[9]
+
+Drawing on [[anthony-napoleon|Anthony Napoleon]]'s [[shadow-men|Shadow Men]], the essay reports that cabal elites regard themselves as gods above ordinary people, and claims some will not eat food that has not been subjected to torture.[9] Unlike atheists, the cabal is said to acknowledge the Divine Creator while hating Him and wishing to usurp His place.[9] Its members are described as born infiltrators who band together only where interests align and who hold one another in line through blackmail rather than trust.[9]
+
+The essay likens the cabal's operational mode to the [[strongyloides-stercoralis|*Strongyloides stercoralis*]] parasite, which colonises a host undetected for decades before triggering deadly complications when the immune system finally responds; in the same way the cabal is said to have infiltrated nearly all the organs of society and to be able to mount a system-wide response whenever a local branch of its network is threatened.[9] The Covid pandemic is presented as exactly such a system-wide counterstrike — originally intended as an endgame of total enslavement, repurposed against the threat posed by [[donald-trump|Donald Trump]] and an awakening public — which inadvertently exposed the cabal by showing supposedly independent governments acting in lockstep.[9] The remedy proposed is an orchestrated [[societal-immune-response|societal immune response]] that extracts the parasite without killing the patient.[9]
+
+9. Badlands Brief — "Q is Our Best Fren", URL: https://badlands.substack.com/p/q-is-our-best-fren

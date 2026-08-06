@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [religion, occult, judaism, history, cabal]
-sources: [raw/badlands-news-brief-023.md]
+sources: [raw/badlands-news-brief-023.md, raw/menticide-the-rape-of-the-mind.md]
 confidence: medium
 ---
 
@@ -32,3 +32,9 @@ Sabbateanism forms one link in Deschamps' longer chain running from [[neoplatoni
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Chaos in the Middle East Overshadows That at Home", URL: https://badlands.substack.com/p/badlands-news-brief-023
+
+## Cited in the menticide essay (January 2023)
+
+A January 27, 2023 Badlands Media essay on [[menticide]] described "satanic groups infiltrating our religious and social institutions," naming the Sabbateans and Frankists of the 17th and 18th centuries as the same people who went on to form the [[bavarian-illuminati|Bavarian Illuminati]] in 1776.[2] The essay stated that these groups used infiltration to corrupt society and "literally weaponized sin," citing the researcher and anthropologist [[robert-sepehr|Robert Sepehr]]'s book *1666 Redemption Through Sin*.[2]
+
+2. Badlands Brief — "Menticide: The Rape of the Mind", URL: https://badlands.substack.com/p/menticide-the-rape-of-the-mind

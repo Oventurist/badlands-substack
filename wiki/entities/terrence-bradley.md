@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [georgia, fulton-county, 2020-election, testimony]
-sources: [raw/badlands-news-brief-119.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-b35.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-ea1.md]
+sources: [raw/badlands-news-brief-119.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-b35.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-ea1.md, raw/of-punishment-and-profit.md]
 confidence: medium
 ---
 
@@ -51,3 +51,12 @@ On cross-examination, Willis's attorney [[anna-cross|Anna Cross]] sought to impe
 3. Badlands Brief — "Badlands News Brief: Trump & Musk Meet as RINOs Run for the Hills", URL: https://badlands.substack.com/p/badlands-news-brief-b35
 4. Badlands Brief — "Hunter Hunted as Metrics Turn Sharply on Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-d8f
 5. Badlands Brief — "Badlands News Brief: An Astonishing Fani, Angry Truckers & a Russian Ruse", URL: https://badlands.substack.com/p/badlands-news-brief-ea1
+6. Badlands Brief — "Of Punishment & Profit", URL: https://badlands.substack.com/p/of-punishment-and-profit
+
+## Origin of the disclosure and alleged intimidation
+
+Testimony by defense attorney [[ashleigh-merchant|Ashleigh Merchant]] to the [[georgia-senate-committee-on-special-investigations|Georgia Senate Committee on Special Investigations]] in March 2024 described Bradley as the original source of the defense's knowledge of the relationship between [[fani-willis|Fani Willis]] and [[nathan-wade|Nathan Wade]].[6] According to Merchant, Bradley was angered by Wade's treatment of his wife [[joycelyn-wade|Joycelyn Wade]] in their divorce — she had been a stay-at-home mother through nearly thirty years of marriage, and Wade told her to move out immediately after the couple dropped their youngest child at college — and Bradley told Merchant, "I handle my business… I don't leave my wife without alimony."[6]
+
+Merchant also alleged that Bradley was subsequently intimidated. In September 2023 Willis telephoned him in the presence of Cobb County prosecutor [[cindi-lee-yeager|Cindi Lee Yeager]] and said, "They are coming after us. You don't need to talk to them about anything about us."[6] Yeager stated in a sworn declaration that she came forward after watching Bradley perjure himself.[6] Attorney [[gabe-banks|Gabe Banks]] — a friend of Bradley's whose wife reportedly works for Willis — then called him, after which Bradley told Merchant he believed Banks was trying to silence him and described the contact as a "first shot over the bow."[6] A second episode involved Wade contacting a lawyer friend of Bradley's with a message that Bradley should "remember his privilege."[6] Merchant testified that Bradley took these approaches as intimidation and that she was sufficiently worried about him to leave a family gathering to speak with him.[6]
+
+Merchant further speculated that a secret lawyer trust account maintained by Wade — allegedly used to hide his county income from his wife — may have been what broke up Bradley and Wade's legal partnership.[6]

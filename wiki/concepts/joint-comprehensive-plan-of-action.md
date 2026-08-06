@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [iran, nuclear-deal, obama, sanctions, geopolitics]
-sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-168.md, raw/does-the-cia-still-control-iran.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-168.md, raw/does-the-cia-still-control-iran.md, raw/panic-in-dc.md]
 confidence: medium
 ---
 
@@ -45,3 +45,11 @@ Badlands commentary reinterpreted [[donald-trump|Trump]]'s withdrawal from the a
 
 Carlson's explanation was that Iran was "running on fumes" and needed cash to survive, and that bailing out a mortal enemy makes sense only for a government heavily infiltrated in that enemy's own state — a move he likened to helping an opponent off the canvas at the count of eight.[3] The funds, he argued, restored Iran's place at "the big money table in the game of terrorism," allowing it to fund factions such as [[isis|ISIS]] in Syria and Iraq.[3] He noted that [[donald-trump|Trump]] announced withdrawal from the deal on 8 April 2018 and called for the bombing of Syria five days later, which he read as Trump acting on knowledge that Iran was developing nuclear weapons and hosting terrorist headquarters there — or, more precisely, that the Obama [[deep-state|Deep State]] was funding both through money routed via Iran.[3] He added that ISIS "quickly ceased to exist" after Trump became president.[3]
 3. Badlands Brief — "Does the CIA Still Control Iran?", URL: https://badlands.substack.com/p/does-the-cia-still-control-iran
+
+## The pallets-of-cash conflation
+
+"Panic in DC" argues that the deal has been systematically conflated with a separate covert operation.[4] [[joe-lange|Joe Lange]] identifies as "the first media lie" the claim that the January 2016 [[pallets-of-cash-to-iran|pallets of cash]] flown to Tehran were part of the nuclear agreement, contending instead that the airlift was a [[central-intelligence-agency|CIA]] operation entirely separate from it, presented as related by the [[barack-obama|Obama]] administration and the press alike.[4]
+
+The article also charges that a central selling point of the agreement was false. Investor's Business Daily, citing a Senate Permanent Subcommittee on Investigations report, reported that one of the deal's linchpins was a near-ban on Iranian access to the U.S. banking system, and that Obama told [[congress|Congress]] the administration would bar Iran from the financial system if the deal were not blocked — while officials simultaneously pressed the [[us-department-of-the-treasury|Treasury]] for an undisclosed February 2016 license letting Iran convert roughly $5.7 billion from rials into dollars and then euros.[4] The article further alleges that the administration's desire for a negotiated nuclear settlement produced a reluctance to act against senior [[hezbollah|Hezbollah]] operatives under [[project-cassandra|Project Cassandra]], and cites Trump's remark that access to more than $100 billion under the deal served as "a slush fund for weapons, terror, and oppression."[4] Lange notes that [[iran|Iran]] later sued the United States at the [[international-court-of-justice|ICJ]] over Trump's withdrawal and reimposition of sanctions.[4]
+
+4. Badlands Brief — "Panic in DC", URL: https://badlands.substack.com/p/panic-in-dc

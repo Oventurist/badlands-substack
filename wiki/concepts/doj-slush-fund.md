@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [doj, settlements, activist-groups, obama, corruption]
-sources: [raw/america-for-sale-part-2.md]
+sources: [raw/america-for-sale-part-2.md, raw/q-for-dummies-chapter-18.md]
 confidence: medium
 ---
 
@@ -24,5 +24,11 @@ The disclosures came just ahead of a House vote on a bill that would prohibit go
 
 A [[qanon|Q]] drop of November 2, 2017 asked: "What SLUSH FUND did AG Sessions (through DOJ) put an end to? How does Soros, Obama, Clinton, Holder, Lynch, etc all net many millions of dollars (normally within a single tax year)."[[1]](https://badlands.substack.com/p/america-for-sale-part-2) The author concludes that [[jeff-sessions|Jeff Sessions]] terminated the mechanism that had been enriching that circle.[[1]](https://badlands.substack.com/p/america-for-sale-part-2) The $780 million [[ubs]] penalty is cited in the same context as an example of a settlement extracted from a financial institution.[[1]](https://badlands.substack.com/p/america-for-sale-part-2)
 
+
+## Chapter 18 account
+
+Chapter 18 of the [[q-for-dummies|Q for Dummies]] series states that [[jeff-sessions|Jeff Sessions]] ended an [[barack-obama|Obama]]-era program that in essence provided a means for slush funds to be created and distributed, linking to Fox News coverage of the Justice Department's termination of Holder-era payouts to outside groups.[2] The chapter treats the termination as a definite blow to the [[deep-state|Deep State]] and as evidence of why Q identified Sessions as a figure to be trusted.[2]
+
 ## References
 1. Badlands Brief — "America for Sale - Part 2", URL: https://badlands.substack.com/p/america-for-sale-part-2
+2. Badlands Brief — "Q for Dummies - Chapter 18", URL: https://badlands.substack.com/p/q-for-dummies-chapter-18

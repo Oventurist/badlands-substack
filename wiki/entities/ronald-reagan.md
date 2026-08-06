@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [presidents, hollywood, cold-war, military]
-sources: [raw/a-new-hollywood.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-cf8.md, raw/dope-inc.md, raw/has-trumps-whole-life-been-a-sting.md, raw/is-generation-x-saving-america.md]
+sources: [raw/a-new-hollywood.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-cf8.md, raw/dope-inc.md, raw/has-trumps-whole-life-been-a-sting.md, raw/is-generation-x-saving-america.md, raw/operation-cyclone-the-seeds-of-terror.md]
 confidence: medium
 ---
 
@@ -30,6 +30,12 @@ In October 2025, the government of [[ontario|Ontario]] aired an [[ontario-reagan
 
 [[erik-carlson|Erik Carlson]] observes that beyond being former Republican US presidents from California, Reagan and [[richard-nixon|Richard Nixon]] shared two things: each declared a [[war-on-drugs|war on drugs]], and each faced an attempt to remove him from office.[4] Nixon was removed through what Carlson calls a hoax led by [[george-hw-bush|George Bush Sr.]] and the [[cia|CIA]], while Reagan was shot by an assassin with close ties to the Bush family.[4] Bush was Vice President at the time of the assassination attempt and a former Director of the CIA.[4] The [[iran-contra-affair|Iran-Contra Affair]], funded in part by CIA cocaine trafficking into Los Angeles, was exposed during Reagan's presidency in 1986.[4]
 
+## Operation Cyclone
+
+[[operation-cyclone|Operation Cyclone]] expanded tremendously during the Reagan administration, which increased both the funding and the volume of equipment delivered to the Afghan [[mujahideen]].7 Among the weapons the [[central-intelligence-agency|CIA]] provided under Reagan was the state-of-the-art [[fim-92-stinger|FIM-92 Stinger]] man-portable air-defense system, with at least 2,300 shipped into [[afghanistan|Afghanistan]].7
+
+Reagan met with mujahideen representatives in the Oval Office on multiple occasions, providing the public with a photo op and an emotional narrative used to justify continued U.S. support.7 Massive refugee camps were established along the Pakistan border with millions of dollars in American aid — camps that Badlands Media describes as the fertile ground in which the seeds of terror were planted.7
+
 ## References
 1. Badlands Brief — "A New Hollywood", URL: https://badlands.substack.com/p/a-new-hollywood
 2. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71
@@ -52,3 +58,4 @@ Two months after taking office Reagan survived an assassination attempt that Car
 Carlson credits the Reagan era with a wholesale cultural shift after the 1984 Los Angeles Olympics: upbeat music, more masculine movie heroes, the normalization of TV sitcoms, and even fluorescent color fads, with *Rambo* replacing *The Deer Hunter*, *The Cosby Show* replacing *Good Times*, *Vacation* replacing *Kramer vs. Kramer*, and *Red Dawn* replacing *All the President's Men*.[6] He asserts that the movie studios were commissioned by the Reagan administration to make films that inspired Americans, while the 1983 nuclear-war telefilm *The Day After* served the opposite purpose of instilling fear.[6] Carlson adds that he does not consider Reagan perfect, only that the decade before and the decade after his presidency were markedly darker.[6]
 
 6. Badlands Brief — "Is Generation X Saving America?", URL: https://badlands.substack.com/p/is-generation-x-saving-america
+7. Badlands Brief — "Operation Cyclone - The Seeds of Terror", URL: https://badlands.substack.com/p/operation-cyclone-the-seeds-of-terror

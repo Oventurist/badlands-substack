@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ukraine, nationalism, world-war-ii, oun, badlands-brief]
-sources: [raw/badlands-brief-3d4.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-a12.md]
+sources: [raw/badlands-brief-3d4.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-a12.md, raw/operation-gladio-a-primer.md]
 confidence: medium
 ---
 
@@ -42,7 +42,12 @@ Polish President [[andrzej-duda|Andrzej Duda]] said that Ukrainian President [[v
 
 Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] called Bandera one of the more important and least known figures of the Second World War, arguing that his propensity for reckless violence alienated him from the Third Reich while drawing him into the good graces of the [[cia|CIA]], which recruited him as a top operative in the postwar regime-change program [[operation-gladio|Operation Gladio]].[3]
 
+## Training by Otto Skorzeny
+
+Colonel [[roxane-watkins|Roxane Watkins]] writes that Bandera and [[andriy-melnyk|Andriy Melnyk]] of the [[organization-of-ukrainian-nationalists|Organization of Ukrainian Nationalists]] were trained by SS officer [[otto-skorzeny|Otto Skorzeny]], and that Ukraine's [[right-sector|Right Sector]] and [[azov-battalion|Azov]] battalions trace their heritage to them.[4] She offers this lineage as evidence that the [[operation-gladio|Operation Gladio]] network remains operative in the present day, noting that the OUN is now a political party of Ukraine.[4]
+
 ## References
 1. Badlands Brief — "Canadian Separatists & Guerilla Campaigns", URL: https://badlands.substack.com/p/badlands-brief-3d4
 2. Badlands Brief — "Badlands News Brief: A New Era of Terror & Monumental Lightning Strikes", URL: https://badlands.substack.com/p/badlands-news-brief-12c
 3. Badlands News Brief — "Pentagon Portfolio Plays & Spy Court Sunlight", URL: https://badlands.substack.com/p/badlands-news-brief-a12
+4. Badlands Brief — "Operation Gladio - A Primer", URL: https://badlands.substack.com/p/operation-gladio-a-primer

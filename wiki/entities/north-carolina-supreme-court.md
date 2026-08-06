@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [north-carolina, courts, redistricting, voter-id, elections]
-sources: [raw/badlands-news-brief-8c5.md]
+sources: [raw/badlands-news-brief-8c5.md, raw/q-for-dummies-chapter-19.md]
 confidence: medium
 ---
 
@@ -22,6 +22,11 @@ One of the cases, Harper v. Hall, held that North Carolina Republicans had drawn
 
 Writing in the [[badlands-media|Badlands]] news brief, [[absolutetruth1776|AbsoluteTruth1776]] argued that the episode demonstrated that "voting matters," contending that the outgoing Democratic justices had "legislated from the bench" against the wishes of state residents by striking down voter ID and finding unlawful partisan gerrymandering, and that both findings were inaccurate.[1] The commentary framed the likely reversal of the two rulings as a direct consequence of North Carolinians turning out in November 2022 to vote out justices the author described as biased if not corrupt.[1]
 
+## Cited as election-integrity progress
+
+Chapter 19 of the [[q-for-dummies|Q for Dummies]] series cites the North Carolina Supreme Court's ruling to remove [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] from the ballot as one of several state-level actions showing that many states have made significant progress in cleaning up elections.[2] The court's decision is grouped with the [[pennsylvania-supreme-court|Pennsylvania Supreme Court]]'s ruling on defective mail-in ballots and with the [[save-act|SAVE Act]], though the author adds that whether enough progress has been made remains to be seen.[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Putin Postures, Voting Matters & J6 Subpoenas", URL: https://badlands.substack.com/p/badlands-news-brief-8c5
+2. Badlands Brief — "Q for Dummies - Chapter 19", URL: https://badlands.substack.com/p/q-for-dummies-chapter-19

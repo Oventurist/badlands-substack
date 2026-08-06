@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [finance, crime, cia, drug-trafficking, banking]
-sources: [raw/follow-the-money.md]
+sources: [raw/follow-the-money.md, raw/q-for-dummies-chapter-17.md]
 confidence: medium
 ---
 
@@ -26,5 +26,12 @@ Recurring jurisdictions in the Lange account are Panama, Curaçao, Switzerland, 
 
 Laundering also occurred inside the United States. Milian Rodriguez testified that he laundered hundreds of millions of dollars in cocaine profits through US banks operating in Panama, and named Citicorp — the predecessor of [[citigroup]] — and [[bank-of-america]] as institutions whose representatives he dealt with off the official employment rolls.[1] He further testified that the cartel held some $11 billion in assets inside the United States as of 1983.[1]
 
+## War as a laundering mechanism (Q drop #117)
+
+Chapter 17 of the [[q-for-dummies|Q for Dummies]] series defines money laundering plainly as the process of cleaning the path from which money is derived — funneling illegally obtained money through a front so that the earnings appear legitimate.[2] It then applies the concept to Q drop #117's question about the single biggest event capable of generating payouts of billions from many nation states, answering: war.[2]
+
+The chapter cites Ukraine as the contemporary example, arguing that billions raised and sent there are siphoned off by the [[deep-state|Deep State]], and answers Q's follow-up question of who audits the money by asserting that the same actors do, so that no true accountability for the funds exists.[2] It characterizes the arrangement as one gigantic money laundering operation built on American taxpayers, and closes on Q's final question — what money buys — with the answer: power.[2]
+
 ## References
 1. Badlands Brief — "Follow The Money: The CIA is the World's Filthiest Laundromat", URL: https://badlands.substack.com/p/follow-the-money
+2. Badlands Brief — "Q for Dummies - Chapter 17", URL: https://badlands.substack.com/p/q-for-dummies-chapter-17

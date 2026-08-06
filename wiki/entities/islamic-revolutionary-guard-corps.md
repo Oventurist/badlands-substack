@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [iran, military, irgc, middle-east]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-3d4.md, raw/badlands-brief-509.md, raw/badlands-brief-7b5.md, raw/badlands-brief-71c.md, raw/badlands-brief-c7b.md, raw/badlands-brief-fcb.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-ff6.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-3d4.md, raw/badlands-brief-509.md, raw/badlands-brief-7b5.md, raw/badlands-brief-71c.md, raw/badlands-brief-c7b.md, raw/badlands-brief-fcb.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-ff6.md, raw/panic-in-dc.md]
 confidence: medium
 ---
 
@@ -90,3 +90,9 @@ Seven members of the Revolutionary Guards, including two generals, were killed w
 The Wall Street Journal reported in October 2023 that IRGC officers had planned and signed off on the [[october-7-attacks|Hamas assault on Israel]] that killed at least 900 people.[14] The report fueled criticism in Washington of the Biden administration's Iran policy and of suspended envoy [[rob-malley|Rob Malley]], with critics arguing that Tehran had aided both [[hamas|Hamas]] and Hezbollah in carrying out terrorist attacks against Israel.[14]
 
 14. Badlands News Brief — "Escalation Abroad, Subversion at Home ...", URL: https://badlands.substack.com/p/badlands-news-brief-ff6
+
+## Sanctions designation and the 2016 cash transfers
+
+"Panic in DC" lists the Islamic Revolutionary Guard alongside [[qasem-soleimani|Qasem Soleimani]], the [[quds-force|Quds Force]], [[hezbollah|Hezbollah]] and Hamas among the entities designated as terrorists and sanctioned, which made it illegal for banks to conduct transactions with them or with associated companies.[15] [[joe-lange|Joe Lange]] argues that this designation is precisely why the [[barack-obama|Obama]] administration allegedly delivered value to [[iran|Iran]] in [[pallets-of-cash-to-iran|physical foreign banknotes]] rather than dollars — a means of getting around the sanctions regime.[15] Washington Times reporting quoted in the article states that some of the $1.7 billion released to Iran was traced to the Quds Force, described as an element of the Islamic Revolutionary Guard Corps.[15]
+
+15. Badlands Brief — "Panic in DC", URL: https://badlands.substack.com/p/panic-in-dc

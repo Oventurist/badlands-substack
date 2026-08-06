@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [justice-department, russiagate, nso-group, pegasus, litigation]
-sources: [raw/badlands-news-brief-e3e.md, raw/do-you-believe-in-coincidences.md, raw/disinformation-is-necessary.md, raw/irregular-warfare.md]
+sources: [raw/badlands-news-brief-e3e.md, raw/do-you-believe-in-coincidences.md, raw/disinformation-is-necessary.md, raw/irregular-warfare.md, raw/q-for-dummies-chapter-2.md]
 confidence: medium
 ---
 
@@ -53,3 +53,8 @@ Lange contends Trump nominated Rosenstein knowing he was compromised, because [[
 2. Badlands Brief — "Do You Believe in Coincidences?", URL: https://badlands.substack.com/p/do-you-believe-in-coincidences
 3. Badlands Brief — "Disinformation is Necessary", URL: https://badlands.substack.com/p/disinformation-is-necessary
 4. Badlands Brief — "Irregular Warfare", URL: https://badlands.substack.com/p/irregular-warfare
+5. Badlands Brief — "Q for Dummies - Chapter 2", URL: https://badlands.substack.com/p/q-for-dummies-chapter-2
+
+## Q for Dummies Chapter 2
+
+Badlands' "Q for Dummies" Chapter 2, reading Q drop #10 (October 29, 2017), states the author's opinion that Rosenstein, alongside [[james-comey|James Comey]] and [[robert-mueller|Robert Mueller]], was "actually working for us" — a claim he says unfolds across subsequent drops and is developed further by [[just-human|Just Human]].[5]

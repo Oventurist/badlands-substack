@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [banking, housing, bailouts, citigroup, 2008]
-sources: [raw/friends-in-high-places.md, raw/generational-dependence-syndrome.md, raw/has-trumps-whole-life-been-a-sting.md]
+sources: [raw/friends-in-high-places.md, raw/generational-dependence-syndrome.md, raw/has-trumps-whole-life-been-a-sting.md, raw/one-of-the-most-transformative-moments.md]
 confidence: low
 ---
 
@@ -31,3 +31,9 @@ A February 11, 2025 Badlands Media essay cited the 2008 financial crisis as a ca
 A June 15, 2024 Badlands feature by [[erik-carlson|Erik Carlson]] noted that the 2008 financial crisis caused a sudden decline in [[donald-trump|Donald Trump]]'s hotel and casino business, and that within five years he was seeking to exit the casino space altogether.[3] Trump's 2013 attempt to sell the Trump Plaza Hotel and Casino in Atlantic City was blocked by [[carl-icahn|Carl Icahn]], the senior lender on its mortgage; the property closed in 2014 and was demolished in 2021.[3]
 
 3. Badlands Brief — "Has Trump's Whole Life Been a Sting Operation?", URL: https://badlands.substack.com/p/has-trumps-whole-life-been-a-sting
+
+## Catalyst for digital assets
+
+Badlands Media identified the 2008 financial crisis and the ensuing "Great Recession" as the primary catalysts for the rise of new digital asset classes over the following ten to fifteen years.[4] As more people became aware of the power held by the central banks, solution-oriented innovators sought to reclaim some of that power through decentralization and digitization — the impulse that produced [[bitcoin|Bitcoin]], [[ethereum|Ethereum]], and eventually more than 21,000 cryptocurrencies.[4]
+
+4. Badlands Brief — "One of the Most Transformative Moments in Money Since Jekyll Island", URL: https://badlands.substack.com/p/one-of-the-most-transformative-moments

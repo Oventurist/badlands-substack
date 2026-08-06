@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [propaganda, information-warfare, state-department, media, legislation]
-sources: [raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-c4f.md, raw/four-pillars-of-government-control.md]
+sources: [raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-c4f.md, raw/four-pillars-of-government-control.md, raw/q-for-dummies-chapter-21.md]
 confidence: medium
 ---
 
@@ -62,3 +62,8 @@ Badlands contributor [[erik-carlson|Erik Carlson]] cites [[barack-obama|Barack O
 4. Badlands Brief — "Badlands News Brief: Vigils, Vanguards, & Various Investigations", URL: https://badlands.substack.com/p/badlands-news-brief-8cd
 5. Badlands News Brief — "Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f
 6. Badlands Brief — "Four Pillars of Government Control", URL: https://badlands.substack.com/p/four-pillars-of-government-control
+7. Badlands Brief — "Q for Dummies - Chapter 21", URL: https://badlands.substack.com/p/q-for-dummies-chapter-21
+
+## Chapter 21 argument against repeal
+
+Chapter 21 of [[q-for-dummies|Q for Dummies]] offers an unusual defence of the Act's continued operation.[7] Reading Q drop #128's question "Who controls the narrative," [[paul-fleuret|Paul Fleuret]] concludes that patriots do, and argues that this is precisely why [[donald-trump|Trump]] did not repeal Smith–Mundt: [[white-hats|white hats]] also have to be able to use propaganda.[7] The claim is embedded in a broader argument that undoing the "spell" cast on the public by the [[operation-mockingbird|Mockingbird]] media required using the same media apparatus to circulate stories absurd enough to make people take notice.[7]

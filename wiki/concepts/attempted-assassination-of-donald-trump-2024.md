@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [trump, assassination, deep-state, secret-service, 2024-election]
-sources: [raw/a-week-to-remember.md, raw/are-we-being-distracted.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-4b9.md, raw/badlands-news-brief-74a.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-b68.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-de1.md, raw/badlands-news-brief-e3e.md, raw/donald-trump-and-george-washington.md]
+sources: [raw/a-week-to-remember.md, raw/are-we-being-distracted.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-4b9.md, raw/badlands-news-brief-74a.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-b68.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-de1.md, raw/badlands-news-brief-e3e.md, raw/donald-trump-and-george-washington.md, raw/q-for-dummies-chapter-16.md]
 confidence: medium
 ---
 
@@ -118,6 +118,12 @@ Carlson described a rapid reversal in public sentiment: attacking Trump verbally
 
 He contrasted the absence of rioting, looting or arson by [[maga-coalition|MAGA]] supporters after the attempt with the 2020 riots that followed the death of a career criminal, presenting this as a refutation of the narrative that MAGA incites violence.[11] Trump's survival, he argued, was divine intervention, and he compared it to the preservation of [[george-washington|George Washington]] at the [[battle-of-the-monongahela|Battle of the Monongahela]] in 1755, some 30 miles from Butler.[11] He concluded that both men were chosen and protected by God — one to make America, the other to make America great again — and that the "shot heard around the world" resulted not in the death of Trump, MAGA or America but in the death of the Deep State Cabal, in what he characterised as a spiritual war the enemy cannot win.[11] He explicitly rejected the claim that the attempt was staged, while holding that the incident was being used to heal and unite the country.[11]
 
+## Q board resonance and the divine-intervention reading
+
+Chapter 16 of the [[q-for-dummies|Q for Dummies]] series opens with an extended discussion of the assassination attempt, which its author calls the elephant in the room and describes as an event that "smacked the bejeebus out of the board."[12] He points to the "fight, fight, fight" comms in the drops, to the red carpet [[donald-trump|Trump]] was standing on, and to the van belonging to the shooter that was reported to contain homemade bombs.[12]
+
+The author states that he leans toward the belief that the survival was divine intervention, while also invoking Looking Glass and reserving fuller treatment of that topic for a later chapter.[12] He cites a pastor who described an April vision in which Trump would become "on fire" for Jesus Christ, and observes that Trump has spoken about God more often since the attempt.[12] At the same time he declines to dismiss the possibility that the event was an operation intended to wake people up en masse and to begin tearing away at decades of cover-up surrounding alphabet-agency-led assassinations, saying he dismisses nothing from divine rescue to a staged op.[12] The prayer that opened the fourth night of the [[2024-republican-national-convention|Republican National Convention]] is described as a bang-on match for Q drop #109 of November 5, 2017.[12]
+
 ## References
 
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
@@ -130,3 +136,4 @@ He contrasted the absence of rioting, looting or arson by [[maga-coalition|MAGA]
 9. Badlands Brief — "Badlands News Brief: The Pick Is in ... As Is the Panic", URL: https://badlands.substack.com/p/badlands-news-brief-de1
 10. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e
 11. Badlands Brief — "Donald Trump and George Washington", URL: https://badlands.substack.com/p/donald-trump-and-george-washington
+12. Badlands Media — "Q for Dummies - Chapter 16", URL: https://badlands.substack.com/p/q-for-dummies-chapter-16

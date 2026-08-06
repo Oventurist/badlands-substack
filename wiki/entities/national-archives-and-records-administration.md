@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [federal-agency, records, investigations]
-sources: [raw/badlands-brief-c7b.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-08a.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-c18.md, raw/badlands-news-brief-cf3.md]
+sources: [raw/badlands-brief-c7b.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-08a.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-c18.md, raw/badlands-news-brief-cf3.md, raw/nothing-is-as-it-appears.md]
 confidence: low
 ---
 
@@ -50,6 +50,14 @@ In October 2023 [[america-first-legal|America First Legal]] announced that its F
 
 On February 7, 2025, President [[donald-trump|Donald Trump]] dismissed [[colleen-shogan|Colleen Shogan]], the Archivist of the United States, as part of a broader effort to upend Washington institutions.[9] The archivist is responsible for overseeing government records and heads the National Archives, an agency Trump had repeatedly criticized since it alerted the Justice Department to his handling of classified documents in early 2022.[9] Badlands commentator Chris Paul linked Shogan to financier [[david-rubenstein|David Rubenstein]], noting she had been Senior Vice President and Director of the [[rubenstein-center-for-white-house-history|Rubenstein Center for White House History]], and floated an explicitly speculative theory that privately controlled historical centers might house records moved out of NARA.[9]
 
+## Historical custody controversies
+
+The agency is headed by the [[archivist-of-the-united-states|Archivist of the United States]], a presidential appointee confirmed by the Senate who is responsible for safeguarding and making available all permanently valuable federal records, including the original Declaration of Independence, Constitution and Bill of Rights, and who carries extensive duties regarding the preservation of presidential papers and materials.[10] Badlands contributor [[joe-lange|Joe Lange]] argues that the office's second function — making records available to the public through presidential libraries, museums and [[freedom-of-information-act|FOIA]] responses — is the one past presidents have worked hardest to neutralize.[10]
+
+The clearest example he cites is [[don-w-wilson|Don W. Wilson]], who on [[george-hw-bush|George H.W. Bush]]'s last full day in office signed an agreement granting the outgoing president "exclusive legal control of all Presidential information," including more than 4,000 computer tapes from the [[national-security-council|National Security Council]], and then resigned three weeks later to run the [[george-bush-presidential-library|Bush presidential library]].[10] Judge Charles R. Richey found that Wilson had violated federal record-keeping law by failing to establish guidelines for preserving electronic messages, and twice ordered the material preserved out of concern that Bush officials would destroy it.[10]
+
+Lange also recounts the agency's later posture under [[david-ferriero|David Ferriero]], who described the Archives as custodian of a 10-billion-item trove and framed his role as oversight of every agency's records practices.[10] The article notes that NARA had fought the [[george-w-bush|George W. Bush]] administration over access to records following the September 11, 2001 attacks and was accused by The New York Times of needing "spine-stiffening" in its dealings with the White House, and that in 2003 [[sandy-berger|Sandy Berger]] removed and destroyed classified memos on terrorist plots taken from the Archives.[10] The Archives publicly refuted Trump's claims that [[barack-obama|Barack Obama]] had transported over 30 million pages of documents to a former furniture store in Chicago, saying the agency itself was responsible for relocating unclassified documents to a secure federal facility there.[10]
+
 ## References
 1. Badlands Brief — "TACO Tuesday Returns as the War of Stories Gets Weird", URL: https://badlands.substack.com/p/badlands-brief-c7b
 2. Badlands News Brief — "Lake Lasts, Biden Slumps & Powell Blinks", URL: https://badlands.substack.com/p/badlands-news-brief-050
@@ -60,3 +68,4 @@ On February 7, 2025, President [[donald-trump|Donald Trump]] dismissed [[colleen
 7. Badlands News Brief — "Mutations, Laptops & Chinese Balloons", URL: https://badlands.substack.com/p/badlands-news-brief-3ae
 8. Badlands Brief — "Badlands News Brief: Crisis Cascades, Nordstream 3 & Bidenomics", URL: https://badlands.substack.com/p/badlands-news-brief-c18
 9. Badlands Brief — "Badlands News Brief: Soaring Eagles & Terminal USAIDs", URL: https://badlands.substack.com/p/badlands-news-brief-cf3
+10. Badlands Brief — "Nothing Is as It Appears", URL: https://badlands.substack.com/p/nothing-is-as-it-appears

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [world-economic-forum, technocracy, artificial-intelligence]
-sources: [raw/badlands-news-brief-2f8.md, raw/combating-the-transhumanist-religion.md, raw/dark-equation.md]
+sources: [raw/badlands-news-brief-2f8.md, raw/combating-the-transhumanist-religion.md, raw/dark-equation.md, raw/poison-fruit-of-the-decision-tree.md]
 confidence: medium
 ---
 
@@ -36,3 +36,11 @@ Badlands contributor [[matthew-ehret|Matthew Ehret]] describes the promoters of 
 The Badlands Media article "Dark Equation" invoked the fourth industrial revolution as one half of the Davos rhetoric it accused [[sam-altman|Sam Altman]]'s [[worldcoin|Worldcoin]] project of repackaging, alongside the [[great-reset|Great Reset]].[3] [[ryan-delarme|Ryan DeLarme]] wrote that the "globalist Davos crowd" had been consistently open about wanting AI-powered biometric digital identities, digital currencies and the transhuman integration of the Internet-of-Things into human bodies — ideas that seem far-fetched but are advanced by people with the power and connections to realize them.[3]
 
 3. Badlands Brief — "Dark Equation", URL: https://badlands.substack.com/p/dark-equation
+
+## As a neo-slavery framework
+
+In "Poison Fruit of the Decision Tree," [[justin-deschamps|Justin Deschamps]] described the fourth industrial revolution as the substrate on which the [[great-reset|Great Reset]] rests, the point at which the world's economic framework is rebooted around [[central-bank-digital-currency|central bank digital currencies]], and defined it by reference to [[klaus-schwab|Klaus Schwab]] of the [[world-economic-forum|World Economic Forum]] as the moment when the lines between man, machine, biology and reality begin to blur.[4] He quoted a Project Syndicate essay, "Shaping the Fourth Industrial Revolution," noting that the concept builds on the Digital Revolution but differs in that innovations diffuse faster than ever, falling marginal production costs and aggregating platforms augment returns to scale, and the transformation will affect and be shaped by all countries with a systems-level impact — while conceding it could also marginalize some groups, exacerbate inequality, create new security risks and undermine human relationships.[4]
+
+Deschamps summarized the concept bluntly as "an update to the neo-slavery systems dreamed up by the globalists in the 17th and 18th centuries."[4] His specific concern was that under such a system the technology fuses with the human body, mind and emotions, making biofeedback and consciousness-steering capabilities nearly limitless — technology so good that declining to use it holds a person back in life, and human-to-machine interfaces so addictive that the human brain would likely be rewired to an unrecognizable state within a few decades.[4] As precedent he cited the mentally distorting effects of infinite scroll systems and reporting that heavy use of [[tiktok|TikTok]] can produce tics in young women, and invoked the work of Jonathan Haidt in support of his broader claim that internet media can distort primary desires.[4]
+
+4. Badlands Brief — "Poison Fruit of the Decision Tree", URL: https://badlands.substack.com/p/poison-fruit-of-the-decision-tree

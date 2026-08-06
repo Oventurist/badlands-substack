@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [united-kingdom, monarchy, epstein]
-sources: [raw/badlands-brief-740.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-561.md]
+sources: [raw/badlands-brief-740.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-561.md, raw/q-for-dummies-chapter-14.md]
 confidence: medium
 ---
 
@@ -28,7 +28,12 @@ King Charles III and Queen Camilla were greeted by loud cheers from a large crow
 
 Badlands contributor [[ashe-in-america|Ashe in America]] mocked the framing, noting the incongruity of a British monarch travelling to deliver a "throne speech" to reassure "his colony" of its sovereignty, and questioning the use of the title "Queen Camilla."[3]
 
+## Diana's letter
+
+Chapter 14 of the [[q-for-dummies|Q for Dummies]] series raises Charles in connection with the death of [[diana-princess-of-wales|Diana, Princess of Wales]], noting that Diana wrote a letter to her butler expressing concern that Charles — then Prince of Wales — would use a car accident to remove her.[4] The chapter links to Telegraph coverage of the letter and treats it as supporting its theory that Diana was killed to stop her exposing the royal family.[4] The claim is the author's interpretation and no finding of responsibility is established in the source.[4]
+
 ## References
 1. Badlands Brief — "Aliens. A Fake Kid Dies From Fake Measles. And the Princely Prosecution That Was Promised.", URL: https://badlands.substack.com/p/badlands-brief-740
 2. Badlands Brief — "Badlands News Brief: Overexposed Engagement Farmers & Maple-Flavored Monarchs", URL: https://badlands.substack.com/p/badlands-news-brief-42b
 3. Badlands Brief — "Badlands News Brief: Pro Putin Propaganda & A Parisian Proxy President", URL: https://badlands.substack.com/p/badlands-news-brief-561
+4. Badlands Brief — "Q for Dummies - Chapter 14", URL: https://badlands.substack.com/p/q-for-dummies-chapter-14

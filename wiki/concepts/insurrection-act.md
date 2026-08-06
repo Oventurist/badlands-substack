@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [law, domestic-deployment, immigration, minneapolis, trump-administration]
-sources: [raw/badlands-brief-b38.md, raw/badlands-news-brief-5c8.md]
+sources: [raw/badlands-brief-b38.md, raw/badlands-news-brief-5c8.md, raw/q-for-dummies-chapter-2.md]
 confidence: medium
 ---
 
@@ -29,3 +29,8 @@ On his first day back in the White House in January 2025, [[donald-trump|Preside
 
 1. Badlands Brief — "Backchannel Boys & Globalizing Girls", URL: https://badlands.substack.com/p/badlands-brief-b38
 2. Badlands Brief — "Badlands News Brief: A Coming Conclave & More Musical Chairs", URL: https://badlands.substack.com/p/badlands-news-brief-5c8
+3. Badlands Brief — "Q for Dummies - Chapter 2", URL: https://badlands.substack.com/p/q-for-dummies-chapter-2
+
+## Invocation in "Q for Dummies" Chapter 2
+
+Badlands' "Q for Dummies" Chapter 2 identifies the Insurrection Act as the statute the author has focused on most among the tools a president could use to take over investigations from the three-letter agencies, describing it as allowing the President to mobilize the military domestically as needs arise, and predicting that Q "will be pointing towards the Insurrection Act in due time."[3] Discussing drop #14, the chapter argues that if elected officials and law enforcement fail in their sworn duty while "Soros thugs" operate unfettered, the result is a Constitutional Crisis — "the exact scenario the Insurrection Act was written for."[3]

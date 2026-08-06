@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [media, journalism, decentralized-media, badlands-media]
-sources: [raw/a-swan-song-for-the-msm.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/q-is-our-best-fren.md]
 confidence: medium
 ---
 
@@ -34,3 +34,10 @@ A recurring argument is that mainstream commentators inflate journalism into a d
 
 ## References
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
+2. Badlands Brief — "Q is Our Best Fren", URL: https://badlands.substack.com/p/q-is-our-best-fren
+
+## A self-selected "counter intelligentsia"
+
+The March 25, 2025 essay "Q is Our Best Fren" traces one strand of citizen journalism directly to the [[qanon|Q]] drops, arguing that by withholding straightforward answers and presenting a jigsaw puzzle instead, Q created an entire new class of citizen journalists made up of those who saw the drops for what they were.[2] This group is described as self-selected and motivated by truth rather than fame or clout, in contrast to low-information grifters and trolls.[2] The essay notes that many who tried to profit quickly from Q material were discredited when their shallow analyses came up short.[2]
+
+Because years of what the author calls utterly fake coverage — in both pseudo-praise and pseudo-condemnation — left Q apparently discredited, the essay argues that a near-perfect smokescreen formed around this group, so that only the highest-calibre [[anons]] remained while the wider world assumed the subject had been debunked.[2] The result is characterised as a "counter intelligentsia" whose activities are largely indecipherable to outsiders but whose work is expected to help the public identify the [[cabal]] and weather [[the-storm|The Storm]].[2]

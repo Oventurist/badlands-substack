@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [information-warfare, demoralization, psychology, narrative, online-culture]
-sources: [raw/gaslighting-from-all-sides.md]
+sources: [raw/gaslighting-from-all-sides.md, raw/poisoning-the-well.md]
 confidence: medium
 ---
 
@@ -43,3 +43,9 @@ Carlson likened the black-pilled to sheep lured out of the pen by a wolf in shee
 ## References
 
 1. Badlands Brief — "Gaslighting From All Sides", URL: https://badlands.substack.com/p/gaslighting-from-all-sides
+
+## As a designed outcome of poisoning the well
+
+[[erik-carlson|Erik Carlson]] treated black-pilling as one of the two intended end-states of narrative contamination in his January 26, 2024 essay "Poisoning the Well."[2] Describing the repeated exposure of implanted traitors within the [[truth-movement|truth community]], he wrote that when this occurs often enough the community becomes fractured and off balance — which he called the best outcome the [[deep-state|Deep State]] Cabal can hope for in many cases.[2] Of those affected, "some become confused, others become black pilled; they become demoralized and lose hope."[2] The consequence he identified in a single line: "They give up."[2]
+
+2. Badlands Brief — "Poisoning the Well", URL: https://badlands.substack.com/p/poisoning-the-well

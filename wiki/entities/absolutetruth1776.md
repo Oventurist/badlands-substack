@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, citizen-journalism, commentary, substack]
-sources: [raw/badlands-news-brief-38f.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-8c5.md, raw/happy-thanksgiving.md]
+sources: [raw/badlands-news-brief-38f.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-8c5.md, raw/happy-thanksgiving.md, raw/q-for-dummies-chapter-13.md, raw/q-for-dummies-chapter-14.md, raw/q-for-dummies-chapter-15.md, raw/q-for-dummies-chapter-10.md, raw/q-for-dummies-chapter-2.md, raw/q-for-dummies-chapter-19.md, raw/q-for-dummies-chapter-5.md]
 confidence: medium
 ---
 
@@ -41,3 +41,51 @@ Writing as "Abs," the contributor supplied a short reflection to the [[badlands-
 2. Badlands Brief — "J6 Exposure, Biden's Brain and Trump's Agenda", URL: https://badlands.substack.com/p/badlands-news-brief-644
 3. Badlands Brief — "Badlands News Brief: Putin Postures, Voting Matters & J6 Subpoenas", URL: https://badlands.substack.com/p/badlands-news-brief-8c5
 4. Badlands Brief — "Happy Thanksgiving!", URL: https://badlands.substack.com/p/happy-thanksgiving
+9. Badlands Brief — "Q for Dummies - Chapter 2", URL: https://badlands.substack.com/p/q-for-dummies-chapter-2
+
+## Q For Dummies series
+
+AbsoluteTruth1776 is the author of the Badlands Media "Q For Dummies" series, which sets out to "dumb down" what it calls one of the most significant open-source intelligence drops of all time and which it credits with partly triggering the period known as the [[great-awakening|Great Awakening]].[5] The series is addressed to newcomers and to longtime readers looking for a review, and each installment walks sequentially through numbered [[qanon|Q]] drops.[5]
+
+Chapter 13, covering Drops #96 and #97, was published under the byline and closed by directing readers to more of "Paul's work" at the Substack Beyond the Veil, hosted at absolute1776.substack.com.[5] In the chapter the author addressed readers as "frens," signed off with "WWG1WGA," and framed the material in explicitly religious terms, urging readers to keep hope and faith intact on the grounds that "God wins."[5] He also referenced joint broadcasting work with [[stormy-patriot-joe|StormyPatriotJoe]], including a special livestream of The Storm produced the evening of [[donald-trump|Donald Trump]]'s New York conviction and episodes of [[eye-of-the-storm|Eye Of The Storm]] discussing coincidences around [[hunter-biden|Hunter Biden]]'s trial.[5]
+
+## Chapter 14
+
+Chapter 14, published June 22, 2024, covers drops #98 through #100 and again thanks readers for their support of the series and of [[eye-of-the-storm|Eye Of The Storm]].[6] The author frames the moment against the coming debate, Trump's pending sentencing and awaited Supreme Court opinions, writing that "[They] are panicked beyond belief" and that the "change of batter" Q foretold cannot be far off.[6] He acknowledges that the chapter's later material — covering the [[vanderbilt-family|Vanderbilt family]], [[spirit-cooking|spirit cooking]] and the death of a child — is heavy, but argues that such exposure would be impossible if the accused still held control.[6] The instalment closes with the byline's characteristic register: "God wins," an exhortation to keep spreading the truth, and the sign-off "Until next time, frens! Be blessed!"[6] Badlands appends its standard disclaimer and points readers to Beyond the Veil.[6]
+
+5. Badlands Brief — "Q For Dummies - Chapter 13", URL: https://badlands.substack.com/p/q-for-dummies-chapter-13
+6. Badlands Brief — "Q for Dummies - Chapter 14", URL: https://badlands.substack.com/p/q-for-dummies-chapter-14
+
+## Chapter 15 (July 2024)
+
+Chapter 15 of the series, published July 13, 2024 and covering Q drops #101 through #110, opens with a survey of the intervening news cycle: the June presidential debate, Democratic pressure for a new nominee, the Supreme Court's [[presidential-immunity|presidential immunity]] ruling and the reversal of [[chevron-deference|Chevron deference]], the meetings of a "Tri-Sovereign Alliance," speculation over [[donald-trump|Trump]]'s running mate, and a growing sense of world-war risk.[7] The author signals a departure from his usual format, saying the chapter would emphasise connections between drops that could function as [[future-proves-past|"future proves past"]] markers.[7]
+
+The instalment credits and reproduces analytical graphics from [[patriots-in-progress|Patriots In Progress]], and closes on the author's characteristic religious register: reading drop #109's prayer of the Archangel St. Michael as evidence that the conflict is above all a spiritual war, warning that anyone lacking God will ultimately lose regardless of guns, gold or accumulated bitcoin, and invoking the "4-6% lost forever" figure from the drop corpus.[7] He signs off with "Adorn your Armor Of God," "God wins," and "Until next time, be blessed," and Badlands appends its usual disclaimer and a pointer to his own Substack, Beyond the Veil.[7]
+
+7. Badlands Brief — "Q for Dummies - Chapter 15", URL: https://badlands.substack.com/p/q-for-dummies-chapter-15
+
+## Q for Dummies Chapter 10
+
+Chapter 10 of the [[q-for-dummies|Q for Dummies]] series, published April 5, 2024, covers drops #72 through #80 and concentrates on [[saudi-arabia|Saudi Arabia]] in the autumn of 2017.[8] The author opens with seasonal greetings to Christian and non-Christian readers after Easter weekend and a survey of a news cycle he calls unprecedentedly frantic, before arguing that knowledge of the [[q-operation|Q Operation]] reveals much of what is visible to be theater.[8] He discloses that he holds unpublished working theories linking the [[2017-trump-twitter-account-deactivation|November 3 Twitter takedown]] to the [[insurrection-act|Insurrection Act]] and [[devolution|Devolution]], with an article forthcoming, and closes the chapter urging readers not to take the black pill.[8] Badlands Media appends its standard disclaimer and directs readers to his own Substack, Beyond the Veil.[8]
+
+8. Badlands Brief — "Q for Dummies - Chapter 10", URL: https://badlands.substack.com/p/q-for-dummies-chapter-10
+
+## Q for Dummies Chapter 2
+
+AbsoluteTruth1776 published "Q for Dummies - Chapter 2" on December 15, 2023, covering drops #6–14 and thanking readers for the reception of Chapter 1.[9] The chapter reiterates his editorial stance — that readers should not take his decodes "as gospel," should do their own research, and should draw their own conclusions, since independent thought was "the very point of the Q operation."[9] He directs readers to [[patriots-in-progress|Patriots in Progress]], [[stormy-patriot-joe|Stormy Patriot Joe]], [[just-human|Just Human]] and [[eye-of-the-storm|Eye of the Storm]] on [[badlands-media|Badlands Media]], and promotes his own Substack, Beyond the Veil.[9]
+
+## Q for Dummies Chapter 19
+
+AbsoluteTruth1776 published "Q for Dummies - Chapter 19" on September 14, 2024, covering drops #120 and #121 and greeting readers as "fine frogs and frogettes."[10] He frames the two drops as concentrating on the corruption and near-total institutional infiltration of Washington, D.C., and remarks that the accelerating news cycle "reeks of 'Drip, Drip … Flood.'"[10] The instalment covers the [[2024-trump-harris-presidential-debate|Trump–Harris debate]], the [[springfield-ohio-haitian-migrant-controversy|Springfield, Ohio]] story, [[john-legend|John Legend]], [[operation-mockingbird|Operation Mockingbird]], [[edward-snowden|Edward Snowden]], Admiral [[michael-rogers|Michael Rogers]], the [[saudi-purge|Saudi purge]], [[voter-id-laws|Voter ID]] and [[george-soros|George Soros]]'s influence over election administration.[10]
+
+As in earlier chapters, he refers readers seeking higher-level analysis to [[patriots-in-progress|Patriots In Progress]], credits that outlet for supporting graphics, and closes with the exhortation to keep moving forward, the assurance that "Patriots are in control, and God wins," and a promotion of his own Substack, Beyond the Veil.[10]
+
+10. Badlands Brief — "Q for Dummies - Chapter 19", URL: https://badlands.substack.com/p/q-for-dummies-chapter-19
+
+## Q for Dummies Chapter 5
+
+Chapter 5 of the series, published February 2, 2024, covers drops #31 through #40 and opens with thanks to readers at a moment when, the author writes, "more shills and trolls are throwing around more baseless nonsense than ever before."[11] He surveys January 2024 — an escalating border standoff he describes as approaching a constitutional crisis, states lining up behind Texas, and what he calls a sham judgment against [[donald-trump|Donald Trump]] he expects to be overturned on appeal — and argues that footage from Davos shows elites "in a state of panic and fear."[11] From that he advances a signature argument: if the [[deep-state|Deep State]] still controlled elections as it did in 2020, it would not be expending such effort to stop Trump, and would simply steal the next one.[11]
+
+The chapter reflects his usual hedged method, repeatedly assigning drops to the [[future-proves-past|"future proves past"]] category and cautioning that some Q material may be deliberate misinformation.[11] He discloses a forthcoming article on his own Substack dealing with the [[insurrection-act|Insurrection Act]], [[devolution|Devolution]] and the possible role of 11.3, and notes that [[john-podesta|John Podesta]]'s return to prominence may be a prelude to public accountability.[11] He states his belief that "Military is the only way" refers primarily to [[military-intelligence|Military Intelligence]] rather than troops in the streets, and that [[james-comey|James Comey]] was working for the operation.[11] The instalment closes by directing readers to [[eye-of-the-storm|Eye Of The Storm]] on [[badlands-media|Badlands Media]] every Tuesday and Friday with [[stormy-patriot-joe|StormyPatriotJoe]], urging readers to do their own research, to "Wear your Armor Of God," and pointing to Beyond the Veil.[11]
+
+11. Badlands Brief — "Q for Dummies - Chapter 5", URL: https://badlands.substack.com/p/q-for-dummies-chapter-5

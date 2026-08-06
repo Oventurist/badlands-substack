@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [europe, nord-stream, investigations, baltic-sea]
-sources: [raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-a56.md]
+sources: [raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-a56.md, raw/obamas-legacy-to-destroy-america.md]
 confidence: medium
 ---
 
@@ -32,7 +32,16 @@ In early September 2023, Sweden's government introduced a mandatory requirement 
 
 [[badlands-media|Badlands Media]] contributor [[ashe-in-america|Ashe in America]] argued that Sweden had gone from a showcase of the [[nordic-model|Nordic Model]] and the open society to "a cautionary tale for the impact of open borders," and warned that the biometric remedies arriving simultaneously with official acknowledgment of the problem pointed toward a "slow and ongoing descent into digital slavery."[3]
 
+## Sweden as an asylum test case
+
+In an October 2023 essay, Badlands contributor [[erik-carlson|Erik Carlson]] presented Sweden as the original laboratory for what he called [[mass-immigration-as-a-weapon|mass immigration as a weapon]].[4] Drawing on a 1994 visit to Stockholm, he described a clean, safe and socially cohesive city in which he estimated only about 5% of people were non-Swedish — immigrants from the Middle East, Africa and Eastern Europe supported by a welfare system that Sweden's high tax rates could sustain at that ratio, though at the cost of Swedes doing without.[4] He recalled that many wealthy Swedes had relocated to England to escape those taxes, that his cousin reported immigrant men publicly beating wives for being too "Swedish," that drug and prostitution rings were often immigrant-run, and that Swedes declined to act for fear of being called racist.[4]
+
+Carlson set out the asylum figures underpinning his argument: roughly 20,000 asylum-seeking refugees admitted between 1960 and 1982, against about 278,000 between 1982 and 2024, including 163,000 Syrians in 2015 alone before Sweden cut back.[4] In a country of some 10 million, he wrote, 278,000 is proportionally equivalent to the United States admitting 9 million, and the 2015 figure to 5 million in a single year — and these were asylum seekers only, excluding other immigration streams.[4] The source countries were predominantly Iran, Syria, Iraq, Afghanistan and Somalia.[4]
+
+He attributed to this policy the emergence since the mid-2010s of [[swedish-no-go-zones|no-go zones]] and a shift from one of Europe's lowest per-capita rates of deadly shootings to its highest.[4] Carlson stated his belief that Sweden was deliberately made a "test country" for destroying a nation through mass immigration, identifying the person he held responsible only by the initials "G.S." — [[george-soros|George Soros]].[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Trump Trounces Haley (Again) as the Media Spins", URL: https://badlands.substack.com/p/badlands-news-brief-3c0
 2. Badlands Brief — "Badlands News Brief: Will the One True POTUS Please Stand Up?", URL: https://badlands.substack.com/p/badlands-news-brief-9ae
 3. Badlands Brief — "Badlands News Brief: Corruption Probes, Client Lists & Mud Pits", URL: https://badlands.substack.com/p/badlands-news-brief-a56
+4. Badlands Brief — "Obama's Legacy to Destroy America", URL: https://badlands.substack.com/p/obamas-legacy-to-destroy-america

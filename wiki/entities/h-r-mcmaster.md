@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military, national-security, trump-administration, media]
-sources: [raw/badlands-news-brief-cf2.md]
+sources: [raw/badlands-news-brief-cf2.md, raw/purple-revolution.md]
 confidence: medium
 ---
 
@@ -24,3 +24,11 @@ The Badlands News Brief treated the episode as comic rather than damaging to Tru
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Witkoff Woos a Win & Women Go to \"Space\"", URL: https://badlands.substack.com/p/badlands-news-brief-cf2
+
+## National Security Advisor tenure and the Purple Revolution
+
+Badlands Media's [[purple-revolution|Purple Revolution]] analysis treats McMaster as a case study in the infiltration of the [[donald-trump|Trump]] White House by compromised military figures.[2] He was appointed National Security Advisor on February 20, 2017, replacing General [[michael-flynn|Michael Flynn]], whom the article describes as a target of the Deep State and too great a liability for Trump to keep in the Oval Office at that time, and was fired thirteen months later.[2] During his tenure McMaster is said to have ordered surveillance on Trump's family and on [[steve-bannon|Steve Bannon]].[2]
+
+After [[january-6-capitol-protest|January 6]], McMaster wrote in a series of tweets that "President Trump and other officials have repeatedly compromised our principles in pursuit of partisan advantage and personal gain," and that those who engaged in "disinformation and demagoguery in pursuit of self-interest abdicated their responsibility to the American people" in what was "in every sense of the phrase, a dereliction of duty."[2] The article contrasts this with Bannon and Flynn, both also removed early, who spent the following years defending Trump — the distinction the author uses to separate saboteurs placed inside the administration from allies pushed outside it.[2]
+
+2. Badlands Brief — "Purple Revolution", URL: https://badlands.substack.com/p/purple-revolution

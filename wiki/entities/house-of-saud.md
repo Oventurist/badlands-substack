@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [saudi-arabia, dynasty, najd, wahhabism]
-sources: [raw/arabian-nights.md]
+sources: [raw/arabian-nights.md, raw/q-for-dummies-chapter-20.md]
 confidence: medium
 ---
 
@@ -28,3 +28,8 @@ Notably, per the terms al-Wahhab set in 1744, no tax is imposed or collected by 
 
 ## References
 1. Badlands Brief — "Arabian Nights", URL: https://badlands.substack.com/p/arabian-nights
+2. Badlands Brief — "Q for Dummies - Chapter 20", URL: https://badlands.substack.com/p/q-for-dummies-chapter-20
+
+## The "+++" designation in the Q drops
+
+Chapter 20 of the [[q-for-dummies|Q for Dummies]] series identifies the House of Saud as the referent of the [[q-plus-symbols|"+++" marker]] used in the November 2017 Q drops, alongside "+" for [[george-soros|Soros]] and "++" for [[rothschild-family|Rothschild]], a decode supplied in drop #133.[2] The chapter reconstructs a sequence on November 6, 2017 in which [[donald-trump|President Trump]] tweeted "+++" at 4:15 p.m., Q posted drop #123 with a "+++" at 5:07 p.m., and Trump tweeted about the [[saudi-purge|Saudi Arabian purge]] at 6:03 p.m., treating it as a [[q-proofs|Q proof]].[2] On the author's reading, Q Team had thereby made clear that the House of Saud had been removed from the playing field as an active player.[2]

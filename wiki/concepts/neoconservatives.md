@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [politics, republican-party, neocons]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-brief-165.md, raw/badlands-news-brief-dbd.md, raw/deep-state-spotlight-victoria-nuland.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-brief-165.md, raw/badlands-news-brief-dbd.md, raw/deep-state-spotlight-victoria-nuland.md, raw/president-trumps-call-to-arms.md]
 confidence: medium
 ---
 
@@ -36,8 +36,11 @@ Badlands Media's August 2023 "Deep State Spotlight" on [[victoria-nuland|Victori
 
 The movement's intellectual machinery is traced to the [[project-for-the-new-american-century|Project for the New American Century]], founded by [[robert-kagan|Robert Kagan]] and [[william-kristol|William Kristol]], whose document [[rebuilding-americas-defenses|Rebuilding America's Defenses]] advocated global military domination, and to the [[military-industrial-congressional-complex|Military-Industrial-Congressional Complex]] that funds it.[4] DeLarme describes an "unholy matrimony" between the establishment left and the neoconservatives, driven together by bipartisan support for the war in [[ukraine|Ukraine]] and above all by their shared hatred of [[donald-trump|Donald Trump]], whose 2016 platform condemned endless-war policies and whose administration marked the only period when these forces were out of power.[4] The result, in his account, is that liberals now sympathize with the very war hawks they once loathed, though he sees the arrangement's growing visibility as an opening for common ground between MAGA conservatives and disillusioned liberals who remember the post-9/11 world.[4]
 
+In Badlands commentary on the [[2023-trump-cpac-speech|2023 Trump CPAC speech]], [[brad-getz|Brad Getz]] argued that neoconservatism was the mechanism by which the American right acquired its war-making reputation: for a century, he wrote, Democratic presidents had presided over the major wars — Wilson and World War I, Roosevelt and World War II, Truman and Korea, Johnson and Vietnam — and "it wasn't until Neo-conservatism blurred party lines, allowing [[rino|RINOs]] to emerge in the Republican party, that the right followed in the left's War-like footsteps."[5] He attributed the shift to the "Neo-con Bushes and their fellow [[council-on-foreign-relations|CFR]] infiltrators," traceable back to [[prescott-bush|Prescott Bush]], and characterized the process as "infiltration over invasion."[5] [[donald-trump|Trump]]'s CPAC line naming [[paul-ryan|Paul Ryan]], [[karl-rove|Karl Rove]] and [[jeb-bush|Jeb Bush]] as figures the party would never return to was read as the public repudiation of that faction.[5]
+
 ## References
 1. Badlands Brief — "A Communist Plot to Take Over America", URL: https://badlands.substack.com/p/a-communist-plot-to-take-over-america
 2. Badlands Brief — "Trump Conducts the Chaos as the Uniparty Concentrates Fire", URL: https://badlands.substack.com/p/badlands-brief-165
 3. Badlands Brief — "Badlands News Brief: Destination Deportations, Alligator Alcatraz, & WWIII Gets Rugged", URL: https://badlands.substack.com/p/badlands-news-brief-dbd
 4. Badlands Media — "Deep State Spotlight: Victoria Nuland", URL: https://badlands.substack.com/p/deep-state-spotlight-victoria-nuland
+5. Badlands Brief — "President Trump's Call to Arms", URL: https://badlands.substack.com/p/president-trumps-call-to-arms

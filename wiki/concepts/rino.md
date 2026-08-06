@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [republican-party, uniparty, political-terminology, maga]
-sources: [raw/badlands-news-brief-132.md, raw/badlands-news-brief-960.md, raw/balance-necessary-for-control.md]
+sources: [raw/badlands-news-brief-132.md, raw/badlands-news-brief-960.md, raw/balance-necessary-for-control.md, raw/president-trumps-call-to-arms.md]
 confidence: medium
 ---
 
@@ -30,7 +30,10 @@ Badlands commentary rejected the premise, arguing that "RINOs aren't real" becau
 
 Carlson also argued that RINOs lost their utility once [[donald-trump|Donald Trump]] exposed them in office: figures such as [[mitt-romney|Mitt Romney]], [[mitch-mcconnell|Mitch McConnell]] and [[lindsey-graham|Lindsey Graham]] have been largely out of the spotlight since Trump left, holding no real value to the Cabal on the current stage because no one on the Right still believes they fight for them.[3]
 
+Badlands contributor [[brad-getz|Brad Getz]] located the origin of the RINO phenomenon in [[neoconservatives|neoconservatism]], writing that it was only when neoconservatism "blurred party lines, allowing RINOs to emerge in the Republican party" that the American right adopted the war-making posture previously associated with Democratic administrations.[4] In the [[2023-trump-cpac-speech|2023 Trump CPAC speech]], [[donald-trump|Donald Trump]] told the audience that "people are tired of RINOs and globalists; they want to see America First."[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Speaker Trump, Proxy War Funding & Emergency Alerts", URL: https://badlands.substack.com/p/badlands-news-brief-132
 2. Badlands Brief — "Wray Goes to Sleep, Syria Gets Weird and Xi Gets an Invite", URL: https://badlands.substack.com/p/badlands-news-brief-960
 3. Badlands Brief — "Balance, Necessary for Control", URL: https://badlands.substack.com/p/balance-necessary-for-control
+4. Badlands Brief — "President Trump's Call to Arms", URL: https://badlands.substack.com/p/president-trumps-call-to-arms

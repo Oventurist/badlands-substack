@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, judiciary-committee, oversight, declassification, treason]
-sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-165.md, raw/badlands-brief-245.md, raw/badlands-brief-314.md, raw/badlands-brief-9ac.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-561.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-e31.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-f14.md, raw/badlands-news-brief-ed9.md, raw/badlands-news-brief-f7d.md, raw/badlands-news-brief-ffa.md]
+sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-165.md, raw/badlands-brief-245.md, raw/badlands-brief-314.md, raw/badlands-brief-9ac.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-561.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-e31.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-f14.md, raw/badlands-news-brief-ed9.md, raw/badlands-news-brief-f7d.md, raw/badlands-news-brief-ffa.md, raw/q-for-dummies-chapter-6.md]
 confidence: medium
 ---
 
@@ -164,3 +164,11 @@ Speaking on Fox News on Thursday, July 31, 2025, Grassley said the newly release
 23. Badlands Brief — "Badlands News Brief: Israeli Arms, Bondi's Back Peddle, & Assassins' Creeds", URL: https://badlands.substack.com/p/badlands-news-brief-ed9
 24. Badlands Brief — "Badlands News Brief: The All-Out Biden Blitz Boomerang ... And More", URL: https://badlands.substack.com/p/badlands-news-brief-f7d
 25. Badlands Brief — "Badlands News Brief: Prolonged Conflicts, Deep State Panic, & Shrinking Unions", URL: https://badlands.substack.com/p/badlands-news-brief-ffa
+
+## Q drop #49 and "Trust Grassley"
+
+Badlands' "[[q-for-dummies|Q for Dummies]]" Chapter 6 discusses [[qanon|Q]] drop #49 of November 2, 2017, noting that around that time Grassley was heavily involved in hearings and investigations relating to [[russiagate-hoax|Russiagate]] and the [[uranium-one-deal|Uranium One]] scandal, and that he and several others were granted tighter security — which the author attributes to the sensitivity of what they were investigating and the indictments they might deliver.[26] The drop refers to secret meetings involving Grassley and others centred on a Uranium One informant; the chapter assumes those meetings were held inside a [[sensitive-compartmented-information-facility|SCIF]], a subject Q had earlier told readers to research.[26]
+
+The chapter defends Grassley against criticism from supporters who objected to his vote on Ukraine funding, arguing that he knew the bill was dead on arrival in the House and that the vote was therefore costless — asking rhetorically whom he might have "greased" with a meaningless yes vote in exchange for information.[26] The author concludes that Q told readers to trust Grassley and that he has "hit the board" too many times to be regarded as anything other than a patriot.[26]
+
+26. Badlands Brief — "Q for Dummies - Chapter 6", URL: https://badlands.substack.com/p/q-for-dummies-chapter-6

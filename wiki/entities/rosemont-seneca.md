@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [hunter-biden, ukraine, biolabs, covid-19-origins]
-sources: [raw/badlands-news-brief-d76.md, raw/badlands-news-brief-f39.md, raw/biden-inc-flips.md]
+sources: [raw/badlands-news-brief-d76.md, raw/badlands-news-brief-f39.md, raw/biden-inc-flips.md, raw/quid-pro-joe.md]
 confidence: low
 ---
 
@@ -29,3 +29,8 @@ The commander of the Russian Nuclear, Biological and Chemical Protection Forces 
 
 2. Badlands News Brief — "Hunter Hunted, Biden's Bane & Ukraine Fatigue", URL: https://badlands.substack.com/p/badlands-news-brief-f39
 3. Badlands Brief — "Biden, Inc. Flips", URL: https://badlands.substack.com/p/biden-inc-flips
+4. Badlands Brief — "Quid Pro Joe", URL: https://badlands.substack.com/p/quid-pro-joe
+
+## Blue Star Strategies correspondence
+
+Rosemont Seneca appears as a party to the October–November 2015 email chain "Revised Burisma Proposal, Contract and Invoice," exchanged with [[sally-painter|Sally Painter]] of [[blue-star-strategies|Blue Star Strategies]] and Burisma executive [[vadym-pozharskyi|Vadym Pozharskyi]].[4] [[eric-schwerin|Eric Schwerin]], writing from the Rosemont Seneca side, assured [[devon-archer|Devon Archer]] and [[hunter-biden|Hunter Biden]] that the deliberate omission of US officials' names from Blue Star's written scope was understood by all parties.[4] A later Blue Star message to Rosemont Seneca, sent about a month after Painter sought a meeting with [[antony-blinken|Antony Blinken]] about "troubling events" in Ukraine, noted "No help from our friend(s) however."[4]

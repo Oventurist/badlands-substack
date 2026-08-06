@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, blackrock, davos, artificial-intelligence]
-sources: [raw/badlands-brief-a20.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-f4c.md, raw/blackrock-inc-and-the-vanguard-group.md, raw/get-woke-go-broke.md]
+sources: [raw/badlands-brief-a20.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-f4c.md, raw/blackrock-inc-and-the-vanguard-group.md, raw/get-woke-go-broke.md, raw/no-honor-among-thieves.md]
 confidence: medium
 ---
 
@@ -62,3 +62,9 @@ The confusing element, in Carlson's telling, was that when [[donald-trump|Donald
 5. Badlands Brief — "Badlands News Brief: Dollars, Saudis and Globalist Elites", URL: https://badlands.substack.com/p/badlands-news-brief-f4c
 6. Badlands Brief — "BlackRock, Inc. And the Vanguard Group", URL: https://badlands.substack.com/p/blackrock-inc-and-the-vanguard-group
 7. Badlands Brief — "Get Woke, Go Broke", URL: https://badlands.substack.com/p/get-woke-go-broke
+
+## Restatement of the DEI thesis (May 2024)
+
+In a May 2024 essay, Badlands contributor [[erik-carlson|Erik Carlson]] restated his earlier argument that Fink, as chief executive of [[blackrock|BlackRock]], the world’s largest asset manager, devised the [[diversity-equity-and-inclusion|DEI]] master plan — or is at minimum the muscle that enforces it.[8] Carlson described American companies as caught between a rock and a hard place: refusing the DEI overlords meant exclusion from the investment portfolios of BlackRock, [[vanguard-group|Vanguard]] and [[state-street|State Street]], while complying risked permanently alienating their customer base.[8]
+
+8. Badlands Brief — "No Honor Among Thieves", URL: https://badlands.substack.com/p/no-honor-among-thieves

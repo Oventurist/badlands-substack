@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [saudi-arabia, obama, black-panthers, harvard, puppet-master, badlands]
-sources: [raw/bad-actors.md]
+sources: [raw/bad-actors.md, raw/q-for-dummies-chapter-16.md]
 confidence: medium
 ---
 
@@ -32,5 +32,12 @@ Lange notes that al-Mansour is a prolific author whose books he characterises as
 
 The Q drops cited in the article — including drop 1948 of August 28, 2018 — pose the questions "Who paid _Hussein's Harvard Law Degree? Who financed _Hussein's political life? Who is Prince Al-Waleed bin Talal? Why are Hussein's school records under seal?", which Lange reads as identifying Alwaleed as the ultimate financier and al-Mansour as his agent.[1] "Puppet masters are supposed to stay hidden," he writes, "not be exposed funding the education of the future president of the United States."[1]
 
+## Treatment in Q for Dummies Chapter 16
+
+Chapter 16 of the [[q-for-dummies|Q for Dummies]] series, devoted to [[q-drop-111|drop #111]], gives the same account in compressed form: al-Mansour wrote a letter to former Malcolm X lawyer [[percy-sutton|Percy Sutton]] imploring him to write on [[barack-obama|Obama]]'s behalf to help him gain admission to Harvard Law School.[2] The chapter characterises al-Mansour as a man who hates America and white people, and notes his close ties to [[alwaleed-bin-talal|Prince Alwaleed bin Talal]], who owned the majority stake in [[twitter|Twitter]] for a long period and owned the Mandalay Bay, from which the [[las-vegas-shooting|Las Vegas shooting]] was carried out.[2]
+
+Its recap places the intervention in 1988 — al-Mansour vouching for Obama and getting him into [[harvard-university|Harvard]] while Alwaleed financed him and brought him up through the ranks — and frames the timing as coinciding with the ascent of George H. W. Bush and what the author calls his Saudi-aligned circle.[2] The chapter further states that the [[muslim-brotherhood|Muslim Brotherhood]] is affiliated with al-Mansour and also has ties to [[huma-harvard-university-muslim-alumni|HUMA]].[2]
+
 ## References
 1. Badlands Brief — "Bad Actors", URL: https://badlands.substack.com/p/bad-actors
+2. Badlands Media — "Q for Dummies - Chapter 16", URL: https://badlands.substack.com/p/q-for-dummies-chapter-16

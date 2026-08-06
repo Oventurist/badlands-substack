@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [watergate, richard-nixon, cia, george-hw-bush, war-on-drugs]
-sources: [raw/dope-inc.md, raw/four-pillars-of-government-control.md]
+sources: [raw/dope-inc.md, raw/four-pillars-of-government-control.md, raw/patsies-of-the-cia-and-fbi.md]
 confidence: low
 ---
 
@@ -29,3 +29,11 @@ Carlson points to two television series, *Gaslit* and *White House Plumbers*, as
 ## As a CIA operation against Nixon
 
 Badlands contributor [[erik-carlson|Erik Carlson]] characterizes Watergate as a badly botched break-in run by the [[central-intelligence-agency|CIA]] to remove [[richard-nixon|Richard Nixon]] from power, motivated by the agency's recognition that Nixon was not its friend after Director [[richard-helms|Richard Helms]] refused to give him access to the [[bay-of-pigs|Bay of Pigs]] and [[john-f-kennedy|JFK]] assassination files.[2] George Bush Sr. is described as heavily involved in the plan to remove Nixon.[2]
+
+## As a CIA operation against Nixon
+
+The Badlands essay "Patsies of the CIA and FBI" treats Watergate not as a scandal that Nixon brought upon himself but as an operation run against him.[3] It states that the Watergate break-ins were performed to get [[richard-nixon|Nixon]] out of office, and that the [[cia|CIA]] viewed him as a threat to its power.[3] The essay further suggests that [[george-hw-bush|Bush Sr.]] may have had his hands all over the Watergate set-up, from behind the scenes, as it alleges was also the case with the [[john-f-kennedy|JFK]] assassination.[3]
+
+The claim is offered as an addendum to the essay's list of individuals used as patsies, extending the same logic from violence to political sabotage: the agency removes leaders who oppose it, by bullet or by plot.[3] See also [[intelligence-patsy|intelligence patsy]].[3]
+
+3. Badlands Brief — "Patsies of the CIA and FBI", URL: https://badlands.substack.com/p/patsies-of-the-cia-and-fbi

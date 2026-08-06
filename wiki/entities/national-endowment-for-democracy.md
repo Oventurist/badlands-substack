@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ned, cia, democracy-promotion, grantmaking]
-sources: [raw/a-more-perfect-labor-union.md, raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-747.md, raw/how-to-rent-a-riot-the-plausible.md, raw/how-to-rent-a-riot-the-history-of.md, raw/killing-the-peace.md]
+sources: [raw/a-more-perfect-labor-union.md, raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-747.md, raw/how-to-rent-a-riot-the-plausible.md, raw/how-to-rent-a-riot-the-history-of.md, raw/killing-the-peace.md, raw/oligarchism-and-the-great-game.md]
 confidence: medium
 ---
 
@@ -50,6 +50,10 @@ During Ukraine's [[orange-revolution|Orange Revolution]], NED joined [[usaid|USA
 
 In August 2025 Badlands contributor [[ryan-delarme|Ryan DeLarme]] described NED as "one of the most subversive and toxic institutions in the game," recalling the outlet's earlier criticism of House Republicans for voting to renew its funding.[7] He argued that while NED remained intact, another major node of the same NGO web — the [[united-states-institute-of-peace|United States Institute of Peace]] — had been successfully taken over, and framed USIP as a further plausible-deniability layer stacked atop NED in a Matryoshka-doll arrangement descending from the [[state-department|State Department]] through the [[central-intelligence-agency|CIA]] and [[usaid|USAID]].[7] DeLarme called for a "seize the institutions" template to be applied to NED, the [[international-republican-institute|International Republican Institute]], the [[national-democratic-institute|National Democratic Institute]] and the [[center-for-international-private-enterprise|Center for International Private Enterprise]], and for a declassification dump of the NED files comparable to the [[twitter-files|Twitter Files]].[7]
 
+## Moldova
+
+The National Endowment for Democracy made vast investments in "democracy building" in [[moldova|Moldova]] in the years surrounding the 2009 [[2009-moldovan-twitter-revolution|"Twitter Revolution"]], which the author cites — alongside the growth of [[vlad-plahotniuc|Vlad Plahotniuc]]'s media empire — as evidence of the causal hand behind the near color revolution in Chisinau, even though the culprits never came to light at the time.[8]
+
 ## References
 1. Badlands Brief — "A More Perfect (Labor) Union", URL: https://badlands.substack.com/p/a-more-perfect-labor-union
 2. Badlands Brief — "And Iran, Iran So Far Away", URL: https://badlands.substack.com/p/and-iran-iran-so-far-away
@@ -58,3 +62,4 @@ In August 2025 Badlands contributor [[ryan-delarme|Ryan DeLarme]] described NED 
 5. Badlands Brief — "How to Rent a Riot - The Plausible Deniability Network", URL: https://badlands.substack.com/p/how-to-rent-a-riot-the-plausible
 6. Badlands Media — "How to Rent a Riot - The History of 'Nonviolence'", URL: https://badlands.substack.com/p/how-to-rent-a-riot-the-history-of
 7. Badlands Brief — "Killing the Peace", URL: https://badlands.substack.com/p/killing-the-peace
+8. Badlands Brief — "Oligarchism and the Great Game", URL: https://badlands.substack.com/p/oligarchism-and-the-great-game

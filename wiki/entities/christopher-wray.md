@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fbi, arctic-frost, lawfare, january-6]
-sources: [raw/badlands-news-brief-060.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-780.md, raw/badlands-news-brief-79c.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b39.md, raw/badlands-news-brief-bcc.md, raw/badlands-news-brief-c44.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-d06.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-f0e.md, raw/badlands-news-brief-f32.md, raw/irregular-warfare.md]
+sources: [raw/badlands-news-brief-060.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-780.md, raw/badlands-news-brief-79c.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b39.md, raw/badlands-news-brief-bcc.md, raw/badlands-news-brief-c44.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-d06.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-f0e.md, raw/badlands-news-brief-f32.md, raw/irregular-warfare.md, raw/purple-revolution.md, raw/q-for-dummies-chapter-17.md]
 confidence: medium
 ---
 
@@ -156,3 +156,20 @@ On June 27, 2023, a source familiar with the situation told [[new-york-post|The 
 
 21. Badlands Brief — "Badlands News Brief: Trump's Strength Grows & Ukraine's Support Slows", URL: https://badlands.substack.com/p/badlands-news-brief-f32
 22. Badlands Brief — "Irregular Warfare", URL: https://badlands.substack.com/p/irregular-warfare
+
+## Purple ties and the 2020 election
+
+Badlands Media's [[purple-revolution|Purple Revolution]] analysis places Wray among the officials said to have signalled participation in a domestic [[color-revolution|color revolution]] by wearing purple: he wore a purple tie when sworn in as FBI Director on Capitol Hill on July 12, 2017, and again on February 5, 2020, when he addressed a congressional committee on election interference.[23]
+
+In that February 2020 testimony to the House Judiciary Committee, Wray said Russia was engaged in "information warfare" ahead of the 2020 presidential election through a covert social media campaign of fictional personas, bots and disinformation aimed at dividing public opinion, while stating that law enforcement had not seen ongoing efforts to target election infrastructure as it had in 2016.[23] He added that in a country with a First Amendment, "the FBI is not going to be in the business of being the truth police and monitoring disinformation online."[23] The article contrasts that statement with disclosures following Elon Musk's purchase of Twitter indicating that the FBI had 80 agents working full time at Twitter alone monitoring and censoring users, and treats his repetition of the claim that Russia hacked [[hillary-clinton|Hillary Clinton]]'s emails as continued promotion of a hoax.[23]
+
+The author offers three readings of Wray: that he was wholly ignorant of what his own bureau was doing, that he was a senior Deep State player, or that he was a "grey hat" compelled to advance implausible narratives so that events would unfold as required.[23] Wray was among the officials [[donald-trump|Donald Trump]] did not fire, alongside General [[mark-milley|Mark Milley]] and CIA Director [[gina-haspel|Gina Haspel]].[23]
+
+23. Badlands Brief — "Purple Revolution", URL: https://badlands.substack.com/p/purple-revolution
+24. Badlands Brief — "Q for Dummies - Chapter 17", URL: https://badlands.substack.com/p/q-for-dummies-chapter-17
+
+## "Trust Wray" in Q drop #117
+
+Chapter 17 of the [[q-for-dummies|Q for Dummies]] series notes that Wray also served under [[george-w-bush|George W. Bush]], and argues it is very possible that he knows the truth about the Bush family, [[saudi-arabia|Saudi Arabia]] and [[september-11-attacks|9/11]].[24] The chapter recalls Q's instruction to "Trust Wray" and leaves the question of whether that instruction will prove justified explicitly open, saying only that time will tell.[24]
+
+The same drop's reference to FOIA releases is read as concerning documents relating to the investigation of [[hillary-clinton|Hillary Clinton]] and her emails; the chapter judges that nothing huge was contained in those releases but suggests the release itself may have prevented the documents from remaining permanently hidden.[24]

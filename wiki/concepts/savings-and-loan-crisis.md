@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [savings-and-loan, banking, fraud, money-laundering, cia, bush-family]
-sources: [raw/never-let-a-crisis-go-to-waste.md]
+sources: [raw/never-let-a-crisis-go-to-waste.md, raw/profiting-from-war.md]
 confidence: medium
 ---
 
@@ -36,5 +36,11 @@ Lange contends the public narrative of the scandal was deliberately concentrated
 
 Several writers cited in the article treat the episode as a premeditated conspiracy to move funds out of the country for use by the [[central-intelligence-agency|CIA]], with many of the dodgiest figures connected to Mafia families, the agency, or both.[1] Institutions such as [[palmer-national-bank|Palmer National Bank]] — seeded with $2.8 million from Beebe and holding the account of the [[national-endowment-for-the-preservation-of-liberty|National Endowment for the Preservation of Liberty]] — channeled money to [[oliver-north|Oliver North]]'s [[iran-contra-affair|Iran-Contra]] network, supporting the claim that thrift deregulation helped pay for covert operations Congress would not fund.[1] Estimates of the money that vanished from S&Ls during the 1980s range from $20 billion to $50 billion or more, with no one certain of the true figure.[1]
 
+
+## Reference in "Profiting From War"
+
+"Profiting From War" describes [[jeb-bush|Jeb Bush]] as involved in the Savings and Loan scandal, which it characterizes as having stolen taxpayer money through a massive federal bailout while his father [[george-hw-bush|George H.W. Bush]] was president.[2] The article separately notes that [[neil-bush|Neil Bush]] was best known for the corrupt practices at Colorado's [[silverado-savings-and-loan-association|Silverado Savings & Loan]], where he served as a director during the 1980s.[2]
+
 ## References
 1. Badlands Brief — "Never Let a Crisis Go to Waste", URL: https://badlands.substack.com/p/never-let-a-crisis-go-to-waste
+2. Badlands Brief — "Profiting From War", URL: https://badlands.substack.com/p/profiting-from-war

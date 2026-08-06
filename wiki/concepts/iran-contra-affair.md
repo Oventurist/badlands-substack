@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [cia, reagan, iran, nicaragua, covert-operations]
-sources: [raw/badlands-news-brief-50f.md, raw/dollars-dope-and-deception.md, raw/missed-opportunities.md]
+sources: [raw/badlands-news-brief-50f.md, raw/dollars-dope-and-deception.md, raw/missed-opportunities.md, raw/profiting-from-war.md]
 confidence: low
 ---
 
@@ -24,6 +24,11 @@ Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] connects the scandal to
 
 The financing arrangements that produced the affair followed from [[congress|Congress]] cutting off official funding to the [[nicaraguan-contras|Contras]] through the [[boland-amendment|Boland Amendment]], after which the [[central-intelligence-agency|CIA]] and its allies allegedly turned to drug money.[2] The 1989 [[kerry-committee-report|Kerry Committee report]] documented [[state-department|State Department]] payments to firms owned by known traffickers supplying the Contras.[2]
 
+
+## BCCI financing and Bush's role
+
+"Profiting From War" quotes a 2004 [[los-angeles-times|Los Angeles Times]] account stating that it was never entirely clear what [[george-hw-bush|George H.W. Bush]]'s connection to the affair was, in which clandestine arms shipments to Iran — some of them financed by the [[bank-of-credit-and-commerce-international|BCCI]] bank — helped illegally fund the anti-Sandinista Contra rebels in Nicaragua.[4] In 1992, however, special prosecutor Lawrence E. Walsh asserted that Bush, despite his protestations, had indeed been "in the loop" on multiple illegal acts.[4] [[joe-lange|Joe Lange]] argues Bush used BCCI to fund [[central-intelligence-agency|CIA]] operations during both Iran-Contra and [[iraqgate]] while being shielded by subordinates as an "untouchable," and maintains that the BCCI scandal itself was more dangerous to him than either affair because it implicated his whole family.[4] The arms dealer [[adnan-khashoggi|Adnan Khashoggi]], a BCCI investor, is named as an Iran-Contra figure who helped the CIA arm both Iran and the Contras.[4]
+
 ## References
 1. Badlands News Brief — "Alaska For Peace, Iranian Objections, & A Mid-Decade Census", URL: https://badlands.substack.com/p/badlands-news-brief-50f
 2. Badlands Brief — "Dollars, Dope, and Deception", URL: https://badlands.substack.com/p/dollars-dope-and-deception
@@ -35,3 +40,4 @@ The financing arrangements that produced the affair followed from [[congress|Con
 [[j-stanley-pottinger|J. Stanley Pottinger]], a former Assistant Attorney General, was cited in indictments for advising Iranian arms exporters including [[cyrus-hashemi|Cyrus Hashemi]] on evading U.S. embargoes with shell companies and phony invoices — methods aligning with the covert pipelines that supplied Iran to fund the Nicaraguan Contras.[3] [[robert-maxwell|Robert Maxwell]], widely regarded as an asset of Israeli intelligence, collaborated on arms transfers to Iran in the mid-1980s, and former Israeli intelligence figure [[ari-ben-menashe|Ari Ben-Menashe]] handled Iran-Contra deals.[3] Logistics ran in part through [[southern-air-transport|Southern Air Transport]], a CIA-affiliated carrier whose aircraft, after the scandal erupted in 1986, relocated to Ohio bases servicing the empire of [[les-wexner|Les Wexner]].[3] Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] argued that [[jeffrey-epstein|Jeffrey Epstein]] was embedded in these networks as a financial fixer.[3]
 
 3. Badlands Brief — "Missed Opportunities", URL: https://badlands.substack.com/p/missed-opportunities
+4. Badlands Brief — "Profiting From War", URL: https://badlands.substack.com/p/profiting-from-war

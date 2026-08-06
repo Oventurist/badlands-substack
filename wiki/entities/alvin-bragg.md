@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [prosecutor, new-york, manhattan-district-attorney, crime]
-sources: [raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-907.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-b64.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-ccd.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-ef9.md, raw/badlands-news-brief-ea7.md, raw/badlands-news-brief-f0e.md, raw/disinformation-is-necessary.md]
+sources: [raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-907.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-b64.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-ccd.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-ef9.md, raw/badlands-news-brief-ea7.md, raw/badlands-news-brief-f0e.md, raw/disinformation-is-necessary.md, raw/no-honor-among-thieves.md]
 confidence: medium
 ---
 
@@ -160,3 +160,9 @@ In "Disinformation is Necessary," [[joe-lange|Joe Lange]] describes Bragg as an 
 Lange notes that Trump's lawyers succeeded in delaying sentencing until after the 2024 election, after which the judge imposed only an unconditional discharge, making the conviction itself the sole punishment.[22] He also highlights that on the very day Bragg arraigned Trump, Daniels was ordered to pay him $121,972 in legal fees from her failed defamation suit — a juxtaposition he treats as more than coincidence.[22] These claims reflect Badlands Media interpretation rather than established fact.
 
 22. Badlands Brief — "Disinformation is Necessary", URL: https://badlands.substack.com/p/disinformation-is-necessary
+
+## The near-alternative: Tali Farhadian Weinstein
+
+Badlands contributor [[erik-carlson|Erik Carlson]] observed in May 2024 that [[tali-farhadian-weinstein|Tali Farhadian Weinstein]] — the wife of hedge fund manager [[boaz-weinstein|Boaz Weinstein]] — ran in the 2021 New York County District Attorney race and, had she won, would have been the prosecutor conducting the "hush money" case against [[donald-trump|Donald Trump]] in Bragg's place.[23] Carlson wrote that the case was going badly for the prosecution and offered this as further evidence that events are staged, adding that he believes Bragg was "hand-picked to expose the [[deep-state|Deep State]] manipulation of the justice system."[23]
+
+23. Badlands Brief — "No Honor Among Thieves", URL: https://badlands.substack.com/p/no-honor-among-thieves

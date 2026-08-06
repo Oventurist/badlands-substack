@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [lobbying, podesta-group, mueller, ukraine, manafort]
-sources: [raw/disinformation-is-necessary.md]
+sources: [raw/disinformation-is-necessary.md, raw/q-for-dummies-chapter-8.md]
 confidence: medium
 ---
 
@@ -26,5 +26,12 @@ Q drop 62 (November 2, 2017) stated that "PODESTA's attorney was just notified,"
 
 Lange concludes that the Podesta brothers, though an important target, "were just puppets" who would lead to someone much bigger, and connects the Q drop's references to post-9/11 aircraft groundings to a forthcoming argument linking the Podestas, [[huma-abedin|Huma Abedin]], and [[september-11-attacks|9/11]].[1] These claims are Badlands Media interpretation, not established fact.
 
+## Treatment in Q for Dummies Chapter 8
+
+Chapter 8 of the [[q-for-dummies|Q for Dummies]] series, covering drops #61–67, states that at the time of Drop #67 it had been over a month since anyone had seen or heard from Tony Podesta, whereas [[john-podesta|John Podesta]] had last been seen at a speaking engagement at Georgetown University.[2] The series adds that the [[podesta-group|Podesta Group]] dissolved merely three days after Q began to post, and reads the combination of facts as an indication that Tony Podesta had escaped the country.[2]
+
+The chapter also notes that Q's earlier reference to Podesta's attorney being notified was never sourced or confirmed, while arguing that Q said it for a reason and that Podesta is once again in the news.[2] On the claim that Podesta's plane received a military escort, the author writes that he was never able to confirm it and therefore assumes it is a "future proves past" event still worth watching.[2]
+
 ## References
 1. Badlands Brief — "Disinformation is Necessary", URL: https://badlands.substack.com/p/disinformation-is-necessary
+2. Badlands Brief — "Q for Dummies - Chapter 8", URL: https://badlands.substack.com/p/q-for-dummies-chapter-8

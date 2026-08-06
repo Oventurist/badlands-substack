@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [russiagate, fisa, surveillance, spygate, qanon]
-sources: [raw/do-you-believe-in-coincidences.md, raw/durham-continues-to-reveal-previously.md]
+sources: [raw/do-you-believe-in-coincidences.md, raw/durham-continues-to-reveal-previously.md, raw/moves-and-countermoves.md]
 confidence: low
 ---
 
@@ -27,3 +27,8 @@ Between 2022 and the close of the [[durham-special-counsel-investigation|Durham 
 ## References
 1. Badlands Brief — "Do You Believe in Coincidences?", URL: https://badlands.substack.com/p/do-you-believe-in-coincidences
 2. Badlands Brief — "Durham Continues To Reveal Previously Undisclosed SpyGate Evidence", URL: https://badlands.substack.com/p/durham-continues-to-reveal-previously
+3. Badlands Brief — "Moves and Countermoves", URL: https://badlands.substack.com/p/moves-and-countermoves
+
+## The Five Eyes dimension
+
+In "Moves and Countermoves," [[joe-lange|Joe Lange]] frames Spygate as a foreign-intelligence operation rather than a purely domestic one, arguing that the [[barack-obama|Obama]] intelligence community led by the [[cia|CIA]] tasked [[five-eyes|Five Eyes]] partners with surveilling [[donald-trump|Trump]] associates in order to evade the legal bar on CIA spying on Americans and to avoid congressional oversight.[3] On this account [[crossfire-hurricane|Crossfire Hurricane]] was only one component of a broader treasonous conspiracy that also swept up candidate [[ted-cruz|Ted Cruz]], members of [[congress|Congress]] and the media, and the [[steele-dossier|dossier]]-based FISA warrants on [[carter-page|Carter Page]] and [[george-papadopoulos|George Papadopoulos]] were a retroactive cover for surveillance that had already occurred.[3] Lange points to the Obama administration's 2013 wiretapping of the Associated Press, flagged at the time in a [[donald-trump|Trump]] tweet linking it to [[benghazi-attack|Benghazi]] and the IRS scandal, as evidence that the practice long predated the 2016 campaign, and he argues the scandal is larger than [[watergate|Watergate]].[3] Admiral [[mike-rogers|Mike Rogers]]'s November 2016 warning to Trump and [[michael-flynn|General Michael Flynn]]'s cooperation with grand juries are cast as the countermoves that forced the conspirators into exposing errors.[3]

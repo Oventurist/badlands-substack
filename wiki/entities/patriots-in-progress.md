@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [substack, badlands-media, citizen-journalism, bitcoin, prophecy]
-sources: [raw/are-we-entering-the-millennial-reign.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-e40.md, raw/celebrating-15-years-of-indictments.md, raw/dont-bring-shiny-rocks-to-digital.md, raw/happy-thanksgiving.md, raw/kekistani-code-talkers.md]
+sources: [raw/are-we-entering-the-millennial-reign.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-e40.md, raw/celebrating-15-years-of-indictments.md, raw/dont-bring-shiny-rocks-to-digital.md, raw/happy-thanksgiving.md, raw/kekistani-code-talkers.md, raw/q-for-dummies-chapter-12.md, raw/q-for-dummies-chapter-15.md, raw/q-for-dummies-chapter-1.md]
 confidence: medium
 ---
 
@@ -51,6 +51,13 @@ Patriots in Progress contributed a reflection to the [[badlands-media|Badlands M
 Patriots in Progress authored the April 2024 Badlands Brief essay [[kekistani-code-talkers|"Kekistani Code Talkers"]], subtitled "Understandably Irregular, Totally Misunderstood ... Entirely Expected."[8] The piece surveys five historical case studies in [[information-warfare|information warfare]] — the parables of [[jesus|Jesus]], the ciphers of [[mary-queen-of-scots|Mary, Queen of Scots]], the [[culper-spy-ring|Culper Spy Ring]], the [[enigma-machine|Enigma machine]], and the [[navajo-code-talkers|Navajo Code Talkers]] — before arguing that [[covfefe|Covfefe]] functions as both ciphertext and cryptographic key.[8] Readers are directed to more of the author's work on the Patriots in Progress Substack.[8]
 
 
+
+## Contribution to Q for Dummies Chapter 12
+
+Chapter 12 of the [[q-for-dummies|Q for Dummies]] series departs from its usual simplified format to reproduce research by Patriots In Progress on the October 2017 [[las-vegas-shooting|Las Vegas shooting]], with the author describing him as an engineer who broke the drop down from a high level on his own Substack and recommending that readers subscribe to it.[9]
+
+The material reproduced consists of two data graphics.[9] The first sets out the parameters of the attack — roughly 600 seconds in duration, about 1,100 rounds discharged from 23 weapons at a 78 percent hit rate, with multiple reloads — which the author presents as evidence that the official account of a single shooter is untenable.[9] The second tabulates the individual weapons with their capacities, optics, accessories, rates of fire and assessments, noting that five of the firearms carried no optics at all.[9]
+
 ## References
 1. Badlands Brief — "Are We Entering the Millennial Reign?", URL: https://badlands.substack.com/p/are-we-entering-the-millennial-reign
 2. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-78b
@@ -63,3 +70,16 @@ The essay listed decentralised and centralised blockchains, AI, virtual reality,
 6. Badlands Brief — "Don't Bring Shiny Rocks to Digital Gunfights", URL: https://badlands.substack.com/p/dont-bring-shiny-rocks-to-digital
 7. Badlands Brief — "Happy Thanksgiving!", URL: https://badlands.substack.com/p/happy-thanksgiving
 8. Badlands Brief — "Kekistani Code Talkers", URL: https://badlands.substack.com/p/kekistani-code-talkers
+9. Badlands Media — "Q for Dummies - Chapter 12", URL: https://badlands.substack.com/p/q-for-dummies-chapter-12
+
+## Graphics used in Q for Dummies Chapter 15
+
+Chapter 15 of the [[q-for-dummies|Q for Dummies]] series reproduces two analytical graphics from Patriots In Progress and its associated Q Drop Publication, which the chapter's author recommends to readers.[10] The first charts the timestamps of Q drop #107 and the [[barack-obama|Barack Obama]] tweet that followed it, showing a 43-minute interval that the series treats as evidence of a coded response.[10] The second maps the connections between drop #66, the [[central-intelligence-agency|CIA]]'s alleged attack on the Commander in Chief, the [[2017-trump-twitter-account-deactivation|takedown of Donald Trump's Twitter account]], and the [[saudi-purge|Saudi purge]], which the chapter presents as an exemplary piece of dot-connecting analysis.[10]
+
+10. Badlands Brief — "Q for Dummies - Chapter 15", URL: https://badlands.substack.com/p/q-for-dummies-chapter-15
+
+## Recognition as the high-level Q analyst
+
+Launching [[q-for-dummies|Q for Dummies]] in December 2023, [[paul-fleuret|Paul Fleuret]] credited Patriots In Progress with having "the high-level take on Q articles completely covered" through his Substack series.[11] Fleuret positioned his own series as the direct opposite — a low-level breakdown for newcomers — precisely because that high-level ground was already occupied.[11]
+
+11. Badlands Brief — "Q for Dummies - Chapter 1", URL: https://badlands.substack.com/p/q-for-dummies-chapter-1

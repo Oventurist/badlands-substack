@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [argentina, world-cup, milei, fifa, fbi]
-sources: [raw/badlands-brief-1c6.md, raw/badlands-brief-990.md, raw/badlands-brief-d17.md]
+sources: [raw/badlands-brief-1c6.md, raw/badlands-brief-990.md, raw/badlands-brief-d17.md, raw/one-of-the-most-transformative-moments.md]
 confidence: medium
 ---
 
@@ -33,7 +33,14 @@ Wildfires consumed nearly 12,000 hectares of forest and scrubland in Chubut prov
 
 Argentina's subsurface wealth continues to attract global interest: geological assessments identify roughly 190,395 tons of rare earth element resources and 3.3 million tons of potential resources across several provinces, part of a critical mineral portfolio including lithium, copper, cobalt, chromium, graphite, nickel, platinum-group elements, and zinc.[3] Allegations that Israeli nationals started some of the fires fueled mass protests demanding their expulsion from Patagonia.[3] The episode is covered in detail at [[patagonia-wildfires-2026|Patagonia wildfires of 2026]].[3]
 
+## 2023 IMF bailout and crypto restrictions
+
+In March 2023 Argentinean senators approved a $45 billion bailout with the [[international-monetary-fund|International Monetary Fund]], a deal whose terms included a clause requiring the country "to discourage the use of cryptocurrencies with a view to preventing money laundering, informality, and disintermediation" so as to "further safeguard financial stability."[4] The IMF Executive Board approved the agreement on March 25, 2023.[4] Badlands Media presented the clause as evidence that multilateral lenders regard [[bitcoin|Bitcoin]] and other digital assets as a threat to centralized monetary power rather than merely a money-laundering risk.[4]
+
+The article contrasted Argentina's acceptance of these conditions with [[el-salvador|El Salvador]]'s defiance of similar IMF pressure: when the bailout news broke on April 24, 2023, Salvadoran Bitcoin advocates pointed out that Argentina was defaulting while El Salvador had paid off its bonds.[4]
+
 ## References
 1. Badlands Brief — "Spain Wins The [American] World Cup", URL: https://badlands.substack.com/p/badlands-brief-1c6
 2. Badlands Brief — "Secret Seizures, Sovereign Signals, & Unnamed Somalis Close to the Matter", URL: https://badlands.substack.com/p/badlands-brief-990
 3. Badlands Brief — "Devolucion, Sedition, Somalis, and Patagonia Pyros", URL: https://badlands.substack.com/p/badlands-brief-d17
+4. Badlands Brief — "One of the Most Transformative Moments in Money Since Jekyll Island", URL: https://badlands.substack.com/p/one-of-the-most-transformative-moments

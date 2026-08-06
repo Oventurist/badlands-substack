@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [think-tank, establishment, foreign-policy, media]
-sources: [raw/a-swan-song-for-the-msm.md, raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-6e6.md, raw/is-the-censorship-war-over.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-6e6.md, raw/is-the-censorship-war-over.md, raw/operation-cyclone-the-seeds-of-terror.md, raw/president-trumps-call-to-arms.md]
 confidence: medium
 ---
 
@@ -26,6 +26,12 @@ In October 2025, [[thomas-bollyky|Thomas Bollyky]], director of the Council's gl
 
 Badlands contributor [[ashe-in-america|Ashe in America]] argued that the Council was not truly lamenting the death of health cooperation but the death of globalism, upon which its existence depends, and noted that the experts providing analysis in the article were themselves impacted entities — evidence, in her framing, that the [[invisible-enemy|invisible enemy]] is becoming visible in time for observers to watch its demise.[3]
 
+## Dov Zakheim
+
+[[dov-zakheim|Dov Zakheim]], comptroller of the [[pentagon]] on September 11, 2001, was a member of both the Council on Foreign Relations and the [[project-for-the-new-american-century|Project for a New American Century]], according to Badlands Media's retrospective on [[operation-cyclone|Operation Cyclone]].5
+
+Badlands contributor [[brad-getz|Brad Getz]], writing on the [[2023-trump-cpac-speech|2023 Trump CPAC speech]], described the war-making turn of the modern American right as "a symptom of the Neo-con Bushes and their fellow CFR infiltrators," a lineage he traced back through the Bush family to [[prescott-bush|Prescott Bush]] and summarized as "infiltration over invasion."[6]
+
 ## References
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
 2. Badlands Brief — "And Iran, Iran So Far Away", URL: https://badlands.substack.com/p/and-iran-iran-so-far-away
@@ -38,3 +44,5 @@ Badlands Media's April 2025 analysis of the censorship war grouped the Council o
 It characterized the standard globalist method as creating a problem and then posing as the hero by offering a meagre solution to it, always in exchange for something, and argued that these actors escaped public scrutiny because until recently they held near-total dominance in the information war waged in the [[cognitive-warfare|cognitive battlespace]].[4]
 
 4. Badlands Brief — "Is the Censorship War Over?", URL: https://badlands.substack.com/p/is-the-censorship-war-over
+5. Badlands Brief — "Operation Cyclone - The Seeds of Terror", URL: https://badlands.substack.com/p/operation-cyclone-the-seeds-of-terror
+6. Badlands Brief — "President Trump's Call to Arms", URL: https://badlands.substack.com/p/president-trumps-call-to-arms

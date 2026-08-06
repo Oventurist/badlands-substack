@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [iraq, inspector-general, corruption, bush, badlands]
-sources: [raw/bad-actors.md]
+sources: [raw/bad-actors.md, raw/profiting-from-war.md]
 confidence: medium
 ---
 
@@ -28,5 +28,11 @@ The investigation was obstructed. When Bowen and his staff tried to move the sea
 
 Lange argues Bush installed Bowen expecting a friendly whitewash that would make congressional investigations of Iraq war waste disappear, but that "Mr. Bowen was actually a man of character, and put his country over his friendship."[1] The Lebanon destination is treated as the key revelation, Lebanon being both the base of Hezbollah and, in Lange's account, the place where [[prince-alwaleed-bin-talal|Prince Alwaleed bin Talal]] was raised and retains extensive family connections.[1] The "Iraqi money stolen by Iraqis" line is characterised as the narrative manufactured to close down inquiry once Congress and the public learned billions had gone missing.[1] By 2011 the [[pentagon|Pentagon]] and the Iraqi government claimed to have accounted for all but $6 billion of the missing funds — a result Lange treats as an admission of failure that also depends on believing the audit.[1]
 
+
+## Unaccounted Iraqi reconstruction funds
+
+"Profiting From War" cites [[reuters|Reuters]] reporting that Bowen, as special inspector general for Iraqi reconstruction, stated in a January 2005 report that $8.8 billion was unaccounted for after being given to the Iraqi ministries.[2] The figure appears in the article alongside the [[federal-reserve|Federal Reserve]]'s shipment of more than $4 billion in cash on pallets to Baghdad before the June 2004 handover of sovereignty, and is used to argue that wartime spending was systematically unaudited.[2]
+
 ## References
 1. Badlands Brief — "Bad Actors", URL: https://badlands.substack.com/p/bad-actors
+2. Badlands Brief — "Profiting From War", URL: https://badlands.substack.com/p/profiting-from-war

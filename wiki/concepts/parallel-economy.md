@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [economics, monetary-policy, sovereignty, banking]
-sources: [raw/badlands-news-brief-bf6.md]
+sources: [raw/badlands-news-brief-bf6.md, raw/menticide-the-rape-of-the-mind.md]
 confidence: medium
 ---
 
@@ -24,3 +24,9 @@ Deschamps's proposed remedy was explicitly constructive rather than defensive: "
 
 ## References
 1. Badlands Media — "Badlands News Brief: A Tucker, a Lemon and a Trump Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-bf6
+
+## As a parallel structure (January 2023)
+
+A January 27, 2023 Badlands Media essay on [[menticide]] listed [[dan-bongino|Dan Bongino]]'s "parallel economy" among examples of [[parallel-structures|parallel structures]] opposed to a totalitarian order, positioning it against PayPal and Venmo.[2] The same passage named uncensored [[rumble|Rumble]] as the parallel to YouTube, Signal as the parallel to Facebook Messenger, Protonmail as the parallel to Gmail, and cryptocurrency as a possible parallel to the deteriorating US dollar.[2]
+
+2. Badlands Brief — "Menticide: The Rape of the Mind", URL: https://badlands.substack.com/p/menticide-the-rape-of-the-mind

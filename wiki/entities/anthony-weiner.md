@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, democrat, new-york, clinton-emails, scandal]
-sources: [raw/badlands-news-brief-b26.md, raw/badlands-news-brief-ce1.md, raw/clowns-in-america.md, raw/disinformation-is-necessary.md]
+sources: [raw/badlands-news-brief-b26.md, raw/badlands-news-brief-ce1.md, raw/clowns-in-america.md, raw/disinformation-is-necessary.md, raw/q-for-dummies-chapter-6.md]
 confidence: medium
 ---
 
@@ -44,3 +44,9 @@ In "Disinformation is Necessary," [[joe-lange|Joe Lange]] cites Real Clear Inves
 Lange argues that because that period covered the [[uranium-one-deal|Uranium One]] deal, the laptop held material exposing [[robert-mueller|Robert Mueller]]'s role in the cover-up, giving Comey reason to protect his longtime friend as well as Clinton.[4] The Weiner/Abedin laptop was among the investigations overseen by the [[southern-district-of-new-york|SDNY]], where [[rudy-giuliani|Rudy Giuliani]]'s law-enforcement relationships are said to have given him access to far more than was disclosed publicly.[4] These claims reflect Badlands Media interpretation rather than established fact.
 
 4. Badlands Brief — "Disinformation is Necessary", URL: https://badlands.substack.com/p/disinformation-is-necessary
+
+## The laptop in "Q for Dummies" Chapter 6
+
+Badlands' "[[q-for-dummies|Q for Dummies]]" Chapter 6 places the breaking news of the Weiner laptop at the time of [[qanon|Q]] drop #45 of November 2, 2017 — specifically the report that [[huma-abedin|Huma Abedin]] and [[hillary-clinton|Hillary Clinton]] had been sending classified information back and forth over unsecured servers, with one of the devices Abedin used being the laptop of her then-boyfriend Weiner.[5]
+
+5. Badlands Brief — "Q for Dummies - Chapter 6", URL: https://badlands.substack.com/p/q-for-dummies-chapter-6

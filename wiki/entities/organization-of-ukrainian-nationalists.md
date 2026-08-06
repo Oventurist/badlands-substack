@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ukraine, nationalism, world-war-ii, oun, history, badlands-brief]
-sources: [raw/badlands-brief-3d4.md]
+sources: [raw/badlands-brief-3d4.md, raw/operation-gladio-a-primer.md]
 confidence: medium
 ---
 
@@ -28,5 +28,10 @@ In May 2026 the Ukrainian government held a state reburial ceremony in Kyiv hono
 
 [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] argued that the ethnic and imperial complexity of the Ukrainian steppe — conquered in turn by Vikings, Greeks, Mongols, Muslims, and Cossacks, and hosting every major religion — means modern Ukraine can never be the homogeneous ethno-state the OUN founders envisioned.[1] He posited the Bolsheviks, emerging from Jewish militant currents in the Russian Pale of Settlement in eastern and southern Ukraine, as the OUN's structural counterpart: both hyper-violent organizations harboring a historic hatred of Russia for their respective cultures' subjugation.[1]
 
+## Gladio lineage and present-day status
+
+Colonel [[roxane-watkins|Roxane Watkins]] states that Ukraine's [[right-sector|Right Sector]] and [[azov-battalion|Azov]] battalions trace their heritage to [[otto-skorzeny|Otto Skorzeny]]-trained [[stepan-bandera|Stepan Bandera]] and [[andriy-melnyk|Andriy Melnyk]] of the OUN, and that the OUN is now a political party of Ukraine.[2] She presents this continuity, alongside the descent of Taiwan's [[kuomintang|KMT]] party from the army of [[chiang-kai-shek|Chiang Kai-shek]], as evidence that the [[operation-gladio|Operation Gladio]] networks continue to operate today.[2]
+
 ## References
 1. Badlands Brief — "Canadian Separatists & Guerilla Campaigns", URL: https://badlands.substack.com/p/badlands-brief-3d4
+2. Badlands Brief — "Operation Gladio - A Primer", URL: https://badlands.substack.com/p/operation-gladio-a-primer

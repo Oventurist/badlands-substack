@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ukraine, nationalism, world-war-ii, oun, badlands-brief]
-sources: [raw/badlands-brief-3d4.md]
+sources: [raw/badlands-brief-3d4.md, raw/operation-gladio-a-primer.md]
 confidence: medium
 ---
 
@@ -20,5 +20,10 @@ In May 2026 the Ukrainian government held a state reburial ceremony honoring Mel
 
 Melnyk, like Bandera, is viewed by many Ukrainians as an anti-Soviet independence fighter, while Israeli and Polish critics cite documented OUN collaboration with Nazi Germany, including involvement in atrocities against Jews and Poles.[1] [[israel|Israel]] and Poland jointly condemned state-sponsored glorification of both men as early as 2020.[1]
 
+## Gladio lineage
+
+Colonel [[roxane-watkins|Roxane Watkins]] describes Melnyk, together with [[stepan-bandera|Stepan Bandera]] of the [[organization-of-ukrainian-nationalists|Organization of Ukrainian Nationalists]], as having been trained by SS officer [[otto-skorzeny|Otto Skorzeny]].[2] She writes that Ukraine's [[right-sector|Right Sector]] and [[azov-battalion|Azov]] battalions trace their heritage to the two men, and that the OUN is now a political party of Ukraine — evidence, in her argument, that the [[operation-gladio|Operation Gladio]] network remains active.[2]
+
 ## References
 1. Badlands Brief — "Canadian Separatists & Guerilla Campaigns", URL: https://badlands.substack.com/p/badlands-brief-3d4
+2. Badlands Brief — "Operation Gladio - A Primer", URL: https://badlands.substack.com/p/operation-gladio-a-primer

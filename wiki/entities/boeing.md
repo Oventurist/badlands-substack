@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [aerospace, corporations, europe, deep-state]
-sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-054.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-c0a.md, raw/badlands-news-brief-c4f.md, raw/control-through-language.md]
+sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-054.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-c0a.md, raw/badlands-news-brief-c4f.md, raw/control-through-language.md, raw/nikki-haley-establishment-gops-last.md]
 confidence: medium
 ---
 
@@ -85,3 +85,9 @@ He placed the episode inside a broader economic-warfare argument: Boeing's bigge
 9. Badlands Brief — "Badlands News Brief: White Collar Prisons & Confounding Court Decisions", URL: https://badlands.substack.com/p/badlands-news-brief-c0a
 10. Badlands News Brief — "Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f
 11. Badlands Brief — "Control Through Language", URL: https://badlands.substack.com/p/control-through-language
+
+## Nikki Haley board seat
+
+Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] highlighted Boeing's role in the financial rise of former United Nations ambassador [[nikki-haley|Nikki Haley]], who joined the company's board in one of her first private-sector positions after leaving government, a seat reported to pay roughly $300,000 a year in cash and stock.[12] Financial disclosures cited in that account showed Haley still owned up to $250,000 in Boeing stock, and [[vivek-ramaswamy|Vivek Ramaswamy]] repeatedly raised the board seat during the 2024 Republican primary debates.[12] DeLarme described Boeing as one of the primary aircraft and arms manufacturers and a stimulator of the perpetual war economy, situating it within the broader [[military-industrial-complex|military-industrial complex]].[12]
+
+12. Badlands Brief — "Nikki Haley: The Establishment GOP's Last Hope", URL: https://badlands.substack.com/p/nikki-haley-establishment-gops-last

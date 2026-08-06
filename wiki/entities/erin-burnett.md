@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, cnn, journalism, 2024-election]
-sources: [raw/badlands-news-brief-5fb.md]
+sources: [raw/badlands-news-brief-5fb.md, raw/q-for-dummies-chapter-8.md]
 confidence: medium
 ---
 
@@ -20,5 +20,10 @@ Burnett then asked Biden whether he was worried that he was running out of time 
 
 The interview was framed by aggregators such as [[modernity-news|Modernity News]] under the headline "Look at his face," referring to Biden's visible reaction as Burnett read the economic figures.[1]
 
+## Identification in Q Drop #67
+
+Chapter 8 of the [[q-for-dummies|Q for Dummies]] series identifies Burnett as the answer to Q Drop #67's question about which news anchor would not be appearing on air on the evening of November 2, 2017.[2] The series notes that she is a member of the [[council-on-foreign-relations|Council on Foreign Relations]] and that her husband, David Rubolotta, is a trader with [[lehman-brothers|Lehman Brothers]] with what the author describes as Saudi ties.[2] Because the drops were, on the author's reading, days away from the toppling of the [[saudi-royal-family|Saudi Royal Family]], the absence is presented as significant rather than coincidental.[2]
+
 ## References
 1. Badlands News Brief — "Biden Melts Down as Judges Are Themselves Judged", URL: https://badlands.substack.com/p/badlands-news-brief-5fb
+2. Badlands Brief — "Q for Dummies - Chapter 8", URL: https://badlands.substack.com/p/q-for-dummies-chapter-8

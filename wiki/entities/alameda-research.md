@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [crypto, ftx, fraud, sam-bankman-fried, hedge-fund]
-sources: [raw/badlands-news-brief-356.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-cad.md]
+sources: [raw/badlands-news-brief-356.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-cad.md, raw/one-of-the-most-transformative-moments.md]
 confidence: medium
 ---
 
@@ -31,3 +31,9 @@ Alameda's former co-chief executive [[caroline-ellison|Caroline Ellison]] report
 1. Badlands Brief — "Badlands News Brief: Kash Unleashed, Zelensky Abandoned & Trump Championed", URL: https://badlands.substack.com/p/badlands-news-brief-356
 2. Badlands News Brief — "Tucker Returns, Trump Fights & Corruption Reigns", URL: https://badlands.substack.com/p/badlands-news-brief-3e5
 3. Badlands Brief — "A Christmas Bonus, War “With” Venezuela, & Prime Time Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-cad
+
+## Cited in Badlands coverage of crypto fraud (2023)
+
+A May 2023 Badlands Media feature on digital assets stated that [[ftx|FTX]] and Alameda "swindled an estimated $8 Billion from investors," presenting the pair as the archetype of large-scale, mainstream-covered crypto fraud in which a scapegoat is offered while the broader network escapes accountability.[4]
+
+4. Badlands Brief — "One of the Most Transformative Moments in Money Since Jekyll Island", URL: https://badlands.substack.com/p/one-of-the-most-transformative-moments

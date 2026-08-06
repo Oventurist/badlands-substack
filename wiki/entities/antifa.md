@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [domestic-terrorism, protest, doj, texas]
-sources: [raw/badlands-brief-095.md, raw/badlands-brief-abf.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-732.md, raw/badlands-news-brief-c9a.md]
+sources: [raw/badlands-brief-095.md, raw/badlands-brief-abf.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-732.md, raw/badlands-news-brief-c9a.md, raw/q-for-dummies-chapter-2.md]
 confidence: medium
 ---
 
@@ -101,3 +101,8 @@ In April 2023 commentary on the [[fedsurrection|"Fedsurrection"]] disclosures, B
 9. Badlands Brief — "Badlands News Brief: Mostly Peaceful Riots and Billionaire Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-6db
 10. Badlands Brief — "A Terror Designation & A Breath of Fresh Air", URL: https://badlands.substack.com/p/badlands-news-brief-732
 11. Badlands Brief — "Badlands News Brief: The France Dance, Crime & J6 Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-c9a
+12. Badlands Brief — "Q for Dummies - Chapter 2", URL: https://badlands.substack.com/p/q-for-dummies-chapter-2
+
+## Q drop #12 in "Q for Dummies" Chapter 2
+
+Badlands' "Q for Dummies" Chapter 2 reads Q drop #12 (October 30, 2017) as indicating that Antifa "is being allowed to operate for a reason" — namely that its members and networks are being mapped and followed, and that friendly infiltrators had probably been placed inside the movement.[12] The author generalizes the point: "infiltration is a two-way street. There is nothing that says 'only black hats can infiltrate.'"[12]

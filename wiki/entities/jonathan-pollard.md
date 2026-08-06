@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, espionage, nuclear-weapons, yom-kippur-war]
-sources: [raw/badlands-brief-b62.md, raw/badlands-news-brief-021.md]
+sources: [raw/badlands-brief-b62.md, raw/badlands-news-brief-021.md, raw/on-infiltration-and-israel.md]
 confidence: medium
 ---
 
@@ -26,6 +26,11 @@ In July 2025, Ambassador [[mike-huckabee|Mike Huckabee]], Trump's envoy to Israe
 
 [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] noted that Huckabee had traveled to Israel in 2011 to quarterback the lobbying effort for Pollard's release, and asked why Huckabee advocated so strongly for a confessed traitor and whether Huckabee is himself compromised by the [[israel-lobby|Israel lobby]].[2]
 
+## Assessment of Trump (2025 commentary)
+
+The May 2025 Badlands essay "On Infiltration and Israel" cited Pollard, described as an Israeli spy, as a witness against the claim that [[donald-trump|Donald Trump]] is an Israeli puppet.[3] According to the author, Pollard has said Trump is anything but a friend to Israel, because everything Trump does that appears to benefit Israel comes at a cost the Israeli state sorely wishes not to pay.[3]
+
 ## References
 1. Badlands Brief — "The Reckoning of Fake Elections, Fake Wars and Fake Allies", URL: https://badlands.substack.com/p/badlands-brief-b62
 2. Badlands Brief — "Seditious Overreactions, Billion Dollar Bailouts, & NATO-Style Guarantees", URL: https://badlands.substack.com/p/badlands-news-brief-021
+3. Badlands Brief — "On Infiltration and Israel", URL: https://badlands.substack.com/p/on-infiltration-and-israel

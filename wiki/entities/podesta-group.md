@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [lobbying, washington, ukraine, mueller, manafort]
-sources: [raw/disinformation-is-necessary.md]
+sources: [raw/disinformation-is-necessary.md, raw/q-for-dummies-chapter-18.md]
 confidence: medium
 ---
 
@@ -24,5 +24,10 @@ Within days of the Manafort indictment being unsealed, Tony Podesta stepped down
 
 Q drop 1286 (April 27, 2018) asked, "Can the investigation officially/publicly drop POTUS from review & continue? Why did the PODESTA Group close shop?"[1] Lange treats the juxtaposition as the answer to who the [[mueller-special-counsel-investigation|Mueller special counsel investigation]] had turned toward once [[donald-trump|Trump]] ceased to be a target: the Podesta Group, whose sudden dissolution he attributes to sealed indictments rather than reputational fallout.[1] The public narrative that Manafort was being pursued for Russian collusion is described as a lie, since his connections — and the Podestas' — were Ukrainian.[1] These are Badlands Media interpretations rather than established findings.
 
+## Saudi business ties
+
+Chapter 18 of the [[q-for-dummies|Q for Dummies]] series draws on a November 2017 Gateway Pundit report to answer Q drop #118's question about the backgrounds of those detained in the [[saudi-purge|Saudi purge]], noting that several of the top Saudi officials arrested that weekend were linked to the Podesta Group.[2] The chapter observes that the Saudis had extensive business dealings with the firm, which it treats as significant given the material Q had already published concerning [[john-podesta|John Podesta]], and highlights the firm's subsequent closure — reported by Politico in November 2017 — as more interesting still.[2]
+
 ## References
 1. Badlands Brief — "Disinformation is Necessary", URL: https://badlands.substack.com/p/disinformation-is-necessary
+2. Badlands Brief — "Q for Dummies - Chapter 18", URL: https://badlands.substack.com/p/q-for-dummies-chapter-18

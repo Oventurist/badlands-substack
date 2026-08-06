@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [january-6, congress, republican-party, wyoming]
-sources: [raw/badlands-news-brief-120.md, raw/badlands-news-brief-215.md, raw/badlands-news-brief-536.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-d22.md, raw/badlands-news-brief-dcb.md]
+sources: [raw/badlands-news-brief-120.md, raw/badlands-news-brief-215.md, raw/badlands-news-brief-536.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-d22.md, raw/badlands-news-brief-dcb.md, raw/president-trumps-call-to-arms.md]
 confidence: medium
 ---
 
@@ -58,6 +58,8 @@ In an interview with the [[washington-post|Washington Post]] published Monday, D
 
 [[ashe-in-america|Ashe in America]] of [[badlands-media|Badlands Media]] responded that Cheney "should be in prison for engaging in a coup (Nov 3), cover-up of the coup (J6), and cover-up of the cover-up of the coup (J6 committee)," recalling that Cheney lost her 2022 primary to [[harriet-hageman|Harriett Hageman]], whom she praised as an impressive America First leader.[7] Ashe argued it was implausible that a candidate unable to win her own House district primary could meaningfully affect Trump's 2024 general-election chances, and suggested instead that a Cheney run would function as "plausible deniability for election fraud."[7] Citing the work of [[draza-smith|Draza Smith]], who discovered Edison Zero, she wrote that third-party candidates are useful to the regime by masking real-time vote manipulation on election night, and that two such candidates would make this easier while supplying narrative cover about voters defecting from the two-party system — defections she characterized as being from the uniparty, and therefore votes for Trump or possibly [[robert-f-kennedy-jr|RFK]].[7] She closed by quipping that the only people who would seriously consider Cheney were [[ron-desantis|Ron!]] supporters who did not think [[nikki-haley|Nikki Haley]] went far enough — "All five of them."[7]
 
+In Badlands commentary on the [[2023-trump-cpac-speech|2023 Trump CPAC speech]], contributor [[brad-getz|Brad Getz]] cited "the Liz Cheneys of the world" as figures who had been exposed as part of the establishment wing of the [[republican-party|Republican Party]], arguing that their political defeat demonstrated that "there is no going back" to the pre-2016 party.[9]
+
 ## References
 1. Badlands Brief — "J6 Returns to Headlines as Fear Mars AI and Airplanes", URL: https://badlands.substack.com/p/badlands-news-brief-120
 2. Badlands Brief — "Islamic Reruns, Fortune 500 Cartels, & The 119th Speaker", URL: https://badlands.substack.com/p/badlands-news-brief-215
@@ -74,3 +76,4 @@ At the end of December 2024, ZeroHedge reported that Cheney appeared to be prepa
 
 Text messages obtained by Representative [[barry-loudermilk|Barry Loudermilk]], chair of the House subcommittee examining the J6 committee, were said to show that Cheney had colluded behind the scenes with star witness [[cassidy-hutchinson|Cassidy Hutchinson]], who dramatically changed her testimony after connecting with Cheney.[8] The report characterized the communications as potentially amounting to witness tampering, subornation of perjury, and obstruction, noting that every former White House official — including the driver of the presidential vehicle on January 6 — had refuted Hutchinson's account of Trump's behavior that day.[8] Based on his ongoing inquiry, Loudermilk determined that "numerous federal laws were likely broken by Liz Cheney" and called for the FBI to investigate her.[8]
 8. Badlands Brief — "Badlands News Brief: AI Energy Solutions & Turning Water Into White Gold", URL: https://badlands.substack.com/p/badlands-news-brief-dcb
+9. Badlands Brief — "President Trump's Call to Arms", URL: https://badlands.substack.com/p/president-trumps-call-to-arms

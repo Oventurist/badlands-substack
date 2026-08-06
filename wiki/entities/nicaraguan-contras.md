@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [nicaragua, contras, cia, cocaine, cold-war]
-sources: [raw/dollars-dope-and-deception.md]
+sources: [raw/dollars-dope-and-deception.md, raw/operation-gladio-a-primer.md]
 confidence: medium
 ---
 
@@ -26,5 +26,10 @@ Journalist [[gary-webb|Gary Webb]]'s 1996 "Dark Alliance" series pushed the alle
 
 The Contra resupply network run by [[oliver-north|Oliver North]] connected the movement to the airstrip at [[mena-arkansas|Mena, Arkansas]], where the pilot [[barry-seal|Barry Seal]] operated; the October 1986 crash of Seal's former aircraft in Nicaragua with a cargo of weapons pulled Mena into the [[iran-contra-affair|Iran-Contra]] scandal.[1]
 
+## Framing in the Gladio primer
+
+Colonel [[roxane-watkins|Roxane Watkins]] uses the Contras as her central example of how the vocabulary of anti-communism was deployed as cover.[2] She writes that the United States spent millions upon millions of dollars funding the Contras in Central America and that the Reagan and Bush administrations repeatedly told the public they were the good guys — a characterization she rejects, just as she rejects the parallel claim that the [[sandinista-national-liberation-front|Sandinistas]] were communists.[2] In her account the Sandinistas were fighting a [[central-intelligence-agency|CIA]]-installed dictator put in place after a previous government objected to [[united-fruit-company|United Fruit]] owning 42% of the country's farmable land, and once that dictator fell the United States dispatched Special Forces, [[operation-gladio|Gladio]]-trained Cuban exiles and mercenaries to overthrow the new government on behalf of the [[international-syndicate|International Syndicate]].[2]
+
 ## References
 1. Badlands Brief — "Dollars, Dope, and Deception", URL: https://badlands.substack.com/p/dollars-dope-and-deception
+2. Badlands Brief — "Operation Gladio - A Primer", URL: https://badlands.substack.com/p/operation-gladio-a-primer

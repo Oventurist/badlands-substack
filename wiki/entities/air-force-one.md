@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [aviation, presidency, qatar, boeing]
-sources: [raw/badlands-brief-c91.md, raw/badlands-news-brief-c14.md]
+sources: [raw/badlands-brief-c91.md, raw/badlands-news-brief-c14.md, raw/q-for-dummies-chapter-21.md]
 confidence: medium
 ---
 
@@ -26,3 +26,8 @@ In May 2025 the Trump administration was reported to be preparing to accept a su
 
 1. Badlands Brief — "Trump Rugs the Deltas with an Early MOU", URL: https://badlands.substack.com/p/badlands-brief-c91
 2. Badlands Brief — "Badlands News Brief: Overreach, Obstruction, & Our Boy Blue", URL: https://badlands.substack.com/p/badlands-news-brief-c14
+3. Badlands Brief — "Q for Dummies - Chapter 21", URL: https://badlands.substack.com/p/q-for-dummies-chapter-21
+
+## Q drop #130
+
+Q drop #130 of November 9, 2017 consisted of a photograph taken aboard Air Force One while [[donald-trump|President Trump]] was travelling across South Asia.[3] In Chapter 21 of [[q-for-dummies|Q for Dummies]], [[paul-fleuret|Paul Fleuret]] presents that image, together with a similar one in drop #125, as a [[q-proofs|Q proof]]: no anonymous poster working from a parent's basement could plausibly have supplied firsthand photographs from the presidential aircraft.[3]

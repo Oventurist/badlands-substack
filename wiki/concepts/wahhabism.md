@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [islam, saudi-arabia, reform, ideology]
-sources: [raw/arabian-nights.md]
+sources: [raw/arabian-nights.md, raw/q-for-dummies-chapter-16.md]
 confidence: medium
 ---
 
@@ -26,5 +26,12 @@ Wahhabism acquired durable political force through the [[pact-of-diriyah|Pact of
 
 The article notes that Muhammad's successors, especially under Wahhabism, adopted a far less tolerant disposition than the Prophet had shown in the [[constitution-of-medina|Constitution of Medina]], which guaranteed religious freedom to Jews and other non-Muslims.[[1]](https://badlands.substack.com/p/arabian-nights) A promised sequel connects Wahhabism's 20th-century exportation across the Middle East, via British sponsorship of Abdulaziz bin Abdul Rahman Al Saud and the creation of the Ikhwan (Brotherhood), to the rise of radical Islamic terrorism.[[1]](https://badlands.substack.com/p/arabian-nights)
 
+## Treatment in Q commentary
+
+Chapter 16 of the [[q-for-dummies|Q for Dummies]] series, unpacking [[q-drop-111|Q drop #111]], answers Q's question about which faith [[huma-harvard-university-muslim-alumni|HUMA]], the [[muslim-brotherhood|Muslim Brotherhood]] and [[huma-abedin|Huma Abedin]] represent by arguing that the correct label is not simply "Muslim" but Wahhabi extremism.[2] It characterises Wahhabism as an extremist Muslim belief in which anyone outside the belief system is regarded as an infidel who must be eradicated, and holds that America is the extremists' biggest target and that they have spent as long infiltrating American culture and government as the communists have.[2]
+
+The chapter lists [[barack-obama|Obama]], [[hillary-clinton|HRC]], [[john-mccain|No Name]], [[valerie-jarrett|Valerie Jarrett]], Huma Abedin, [[alwaleed-bin-talal|Alwaleed bin Talal]] and [[john-brennan|John Brennan]] among bad actors it says are involved with the Muslim Brotherhood and therefore support Wahhabism.[2] It concludes that the values of Wahhabism do not align with American values and that placing people holding such beliefs in positions of governmental power is dangerous.[2]
+
 ## References
 1. Badlands Brief — "Arabian Nights", URL: https://badlands.substack.com/p/arabian-nights
+2. Badlands Media — "Q for Dummies - Chapter 16", URL: https://badlands.substack.com/p/q-for-dummies-chapter-16

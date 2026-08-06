@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [drugs, cia, covert-operations, narcotics, us-foreign-policy]
-sources: [raw/dollars-dope-and-deception.md, raw/dope-inc.md]
+sources: [raw/dollars-dope-and-deception.md, raw/dope-inc.md, raw/operation-gladio-how-its-funded.md]
 confidence: medium
 ---
 
@@ -34,6 +34,11 @@ In the account given in [[dope-inc-book|*Dope, Inc.*]] and summarized by [[erik-
 
 Carlson notes that [[ronald-reagan|Ronald Reagan]] likewise declared a war on drugs and likewise faced an attempt to remove him from office, in his case an assassination attempt by a shooter with close ties to the family of [[george-hw-bush|George Bush Sr.]], then Vice President and a former Director of the [[cia|CIA]].[2]
 
+## The Gladio cover-story thesis
+
+The Badlands Media Gladio funding article argues that the war on drugs functioned as cover for the trafficking network that financed [[operation-gladio]].[3] Heroin supplied by [[lucky-luciano]] was pushed to black musicians in New York City's jazz venues in what the article calls a targeted effort, later providing a network to spread drugs through black communities and set up inner-city young black men whose arrests gave the [[cia]] its cover stories — the arrests being, in the article's phrase, simply the low hanging fruit.[3] DEA agents routinely described their investigations being shut down as they worked their way up the network with the stamp "national security."[3] The article adds that the arrangement supplied a prison labour force for the syndicate's corporate prisoner work projects, making it a win-win for the syndicate.[3]
+
 ## References
 1. Badlands Brief — "Dollars, Dope, and Deception", URL: https://badlands.substack.com/p/dollars-dope-and-deception
 2. Badlands Brief — "Dope, Inc.", URL: https://badlands.substack.com/p/dope-inc
+3. Badlands Brief — "Operation Gladio - How It's Funded", URL: https://badlands.substack.com/p/operation-gladio-how-its-funded

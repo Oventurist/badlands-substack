@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [dnc, 2016-election, wikileaks, fbi, unsolved-murder]
-sources: [raw/badlands-news-brief-6bf.md, raw/bernie-sanders-establishment-tool.md, raw/from-ye-to-oy-vey.md]
+sources: [raw/badlands-news-brief-6bf.md, raw/bernie-sanders-establishment-tool.md, raw/from-ye-to-oy-vey.md, raw/q-for-dummies-chapter-12.md, raw/q-for-dummies-chapter-11.md]
 confidence: medium
 ---
 
@@ -34,8 +34,22 @@ Badlands Media's December 2023 essay "From Ye to Oy Vey!" described Rich as the 
 
 After the emails were published, Rich was killed while walking home from a bar late at night in Washington, D.C.; the killing was described as a robbery even though nothing was taken from him.[3] The essay repeated the claim that two MS-13 assassins were later found dead execution-style blocks from Rich's body, speculating they had been hired to kill him and then eliminated to tie up loose ends.[3] It added that the controlled media attributed the leak to Russian hackers despite forensic analysis showing the files were copied at a speed consistent only with a thumb drive, and argued that this framing primed the ground for the [[russiagate-hoax|Russiagate hoax]].[3]
 
+## Treatment in Q drops #91–92
+
+Chapter 12 of the [[q-for-dummies|Q for Dummies]] series holds that Q made repeated inferences that [[ms-13|MS-13]] was used to murder Rich, the speculated motive being that he was about to expose election fraud within the [[democratic-national-committee|DNC]].[4] The author describes Rich as a Democrat but "a patriot first and foremost," whose discovery implicated extremely powerful figures.[4]
+
+In drop #92 Q stated that Rich had been mentioned only because his case ties directly to [[saudi-arabia|Saudi Arabia]] and Las Vegas.[4] The author speculates that Rich uncovered a link between [[hillary-clinton|Hillary Clinton]] and the Kingdom, and that MS-13 was the instrument used both in his killing and in the [[las-vegas-shooting|Las Vegas shooting]].[4]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Fake Candidates Engage in Fake Debate; Everyone Loses", URL: https://badlands.substack.com/p/badlands-news-brief-6bf
 2. Badlands Media — "Bernie Sanders: Establishment Tool", URL: https://badlands.substack.com/p/bernie-sanders-establishment-tool
 3. Badlands Brief — "From Ye to Oy Vey!", URL: https://badlands.substack.com/p/from-ye-to-oy-vey
+4. Badlands Media — "Q for Dummies - Chapter 12", URL: https://badlands.substack.com/p/q-for-dummies-chapter-12
+5. Badlands Media — "Q for Dummies - Chapter 11", URL: https://badlands.substack.com/p/q-for-dummies-chapter-11
+
+## Treatment in Q drops #85 and #90
+
+Chapter 11 of the [[q-for-dummies|Q for Dummies]] series, covering drops #81–90 of November 5, 2017, treats Rich's killing as an illustration of Q's question in drop #85, "who do you hire for a hit?" — the author's answer being a gangster, on the reasoning that the hired party can be disposed of afterward without anyone raising a fuss.[5] He notes that the two men who murdered Rich turned up dead a couple of days later and were [[ms-13|MS-13]] members.[5]
+
+Drop #90 is described as Q's reply to an anon asking him to confirm a connection found on the boards: that the two men who killed Rich were tied to both MS-13 and the [[democratic-national-committee|DNC]].[5] Q confirmed that connection, and further indicated that [[hillary-clinton|HRC]] was a player in Rich's murder but that the information remained classified.[5]

@@ -23,3 +23,9 @@ Badlands commentary highlighted a dig by [[jon-herold|Jon Herold]] into Daggett'
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Sidecar Debates at Home, Missile Barrages Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-502
+
+## Numerological reading in Q for Dummies
+
+Chapter 20 of the [[q-for-dummies|Q for Dummies]] series, published October 5, 2024, treats Daggett as a figure surrounded by Q "comms" following the suspension of the port strike until January 15.[2] The author notes that [[donald-trump|President Trump]] has a relationship with Daggett and had met him at Mar-a-Lago some months earlier.[2] A list of details is then offered as significant: the $1.7 million worth of Daggett's home; its size of 7,163 square feet, whose digits sum to 17; his 76-foot yacht, read as an allusion to 1776; his statement that 17 deaths had occurred at ports within three months; and the figure of 45,000 workers going on strike.[2] The author concludes that the situation is "laden with far too many comms" to ignore and that more lay behind the strike than was publicly known, invoking the Q instruction to [[watch-the-water|watch the water]].[2]
+
+2. Badlands Brief — "Q for Dummies - Chapter 20", URL: https://badlands.substack.com/p/q-for-dummies-chapter-20

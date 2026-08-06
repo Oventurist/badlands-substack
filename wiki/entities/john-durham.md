@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [special-counsel, russiagate, department-of-justice]
-sources: [raw/badlands-brief-195.md, raw/badlands-brief-a20.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-6b6.md, raw/durham-continues-to-reveal-previously.md]
+sources: [raw/badlands-brief-195.md, raw/badlands-brief-a20.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-6b6.md, raw/durham-continues-to-reveal-previously.md, raw/power-to-the-people.md]
 confidence: medium
 ---
 
@@ -66,6 +66,10 @@ Writing in October 2022 as the [[igor-danchenko|Danchenko]] trial wound down in 
 
 Through the [[michael-sussmann|Sussmann]] and Danchenko trials Durham placed on the record the [[hillary-clinton|Clinton]] campaign's private spy ring, its target list and database trawling, the construction of the [[alfa-bank-hoax|Alfa Bank Hoax]], the February 2017 approach to the [[central-intelligence-agency|CIA]] using data taken from [[executive-office-of-the-president|Executive Office of the President]] servers after the inauguration, the [[fbi|FBI]]'s failure to verify any [[steele-dossier|Steele Dossier]] allegation, its $1 million corroboration offer to [[christopher-steele|Christopher Steele]], and its knowledge that Danchenko had been investigated for espionage.[9] He also demonstrated that more than 80 percent of the attorney–client privilege claims raised by the campaign, [[perkins-coie|Perkins Coie]], [[fusion-gps|Fusion GPS]] and [[rodney-joffe|Rodney Joffe]]'s contractors to resist grand jury subpoenas were bogus on their face.[9] Cates concluded that Durham could, if he chose, bring charges for theft of classified information, espionage and treason.[9] See [[durham-special-counsel-investigation|Durham Special Counsel investigation]].[9]
 
+## Reception among Badlands commentators
+
+Writing days after the Alexandria verdict, [[pepe-lives-matter|Pepe Lives Matter]] acknowledged that "Durham failed to convict Danchenko with a low-level lying crime" but dismissed the outcome as beside the point, arguing that the investigation's significance lay in what it exposed rather than in convictions obtained.[10] The essay placed Durham's work within a wider indictment of the [[cabal|cabal]], contending that the real charges owed were crimes against children and treason and that figures such as [[hillary-clinton|Clinton]], [[barack-obama|Obama]] and [[george-soros|Soros]] were the appropriate targets.[10]
+
 ## References
 1. Badlands Brief — "Crypto Smears, Professional Plotlines, & Meat Probes", URL: https://badlands.substack.com/p/badlands-brief-195
 2. Badlands Brief — "Prosecutions for Democracy & Double-Hatted Peace Panelists", URL: https://badlands.substack.com/p/badlands-brief-a20
@@ -76,3 +80,4 @@ Through the [[michael-sussmann|Sussmann]] and Danchenko trials Durham placed on 
 7. Badlands Brief — "Badlands News Brief: Media Panic, Elitist Advances & Dead Chickens", URL: https://badlands.substack.com/p/badlands-news-brief-2f8
 8. Badlands Brief — "Badlands News Brief: The Wheels of Justice Roll On", URL: https://badlands.substack.com/p/badlands-news-brief-6b6
 9. Badlands Brief — "Durham Continues To Reveal Previously Undisclosed SpyGate Evidence", URL: https://badlands.substack.com/p/durham-continues-to-reveal-previously
+10. Badlands Brief — "Power to the People", URL: https://badlands.substack.com/p/power-to-the-people

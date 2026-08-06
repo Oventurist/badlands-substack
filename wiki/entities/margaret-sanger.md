@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [eugenics, abortion, badlands-media]
-sources: [raw/control-through-language.md]
+sources: [raw/control-through-language.md, raw/operation-gladio-a-primer.md]
 confidence: low
 ---
 
@@ -14,5 +14,10 @@ Margaret Sanger is described by [[erik-carlson|Erik Carlson]] in the February 5,
 
 He writes that at least some, if not all, of that circle supported [[eugenics|eugenics]] — the belief in controlling who reproduced and how often — and that Adolf Hitler drew many of his ideas from eugenics supporters in early twentieth-century America and England.[1]
 
+## Association with the Fabian Society
+
+In her primer on [[operation-gladio|Operation Gladio]], Colonel [[roxane-watkins|Roxane Watkins]] presents Sanger of Planned Parenthood as a product of the [[fabian-society|Fabian Society]] milieu, describing her role as culling what that circle regarded as an inferior herd.[2] Watkins situates this within the Society's broader embrace of [[eugenics|eugenics]] — the selective killing or euthanasia of non-productive people — driven by a wish that only strong members reproduce in order to maximize the elite's investments.[2]
+
 ## References
 1. Badlands Brief — "Control Through Language", URL: https://badlands.substack.com/p/control-through-language
+2. Badlands Brief — "Operation Gladio - A Primer", URL: https://badlands.substack.com/p/operation-gladio-a-primer

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [crypto, fraud, finance, badlands-news-brief]
-sources: [raw/badlands-news-brief-252.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-b0f.md, raw/biden-inc-flips.md]
+sources: [raw/badlands-news-brief-252.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-b0f.md, raw/biden-inc-flips.md, raw/one-of-the-most-transformative-moments.md]
 confidence: medium
 ---
 
@@ -43,3 +43,9 @@ The article tied FTX to alleged election manipulation in 2020 through the financ
 3. Badlands News Brief — "Trump Counters, SBF Pleads & Disney Dies?", URL: https://badlands.substack.com/p/badlands-news-brief-4c3
 4. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f
 5. Badlands Brief — "Biden, Inc. Flips", URL: https://badlands.substack.com/p/biden-inc-flips
+
+## As emblem of unpunished crypto fraud (2023)
+
+Badlands Media's May 2023 feature on digital assets cited FTX and [[alameda-research|Alameda]] as having swindled an estimated $8 billion from investors, a scandal still being covered in the mainstream press at the time.[6] The article characterized that coverage as crafted narrative and mockingbird talking points, arguing that "authorities" pretend they will hold people accountable, nothing happens, and investors are then scolded about informed investing and personal responsibility.[6] It described [[sam-bankman-fried|Sam Bankman-Fried]] as a scapegoat while "the whales, shadow players, and broader networks escape unscathed," and grouped FTX with what it called large, government-sanctioned scams whose perpetrators have been getting away with it.[6]
+
+6. Badlands Brief — "One of the Most Transformative Moments in Money Since Jekyll Island", URL: https://badlands.substack.com/p/one-of-the-most-transformative-moments

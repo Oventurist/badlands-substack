@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [arms-dealing, iran-contra, saudi-arabia, epstein, bcci]
-sources: [raw/missed-opportunities.md]
+sources: [raw/missed-opportunities.md, raw/profiting-from-war.md]
 confidence: medium
 ---
 
@@ -24,5 +24,11 @@ Public records and contemporary accounts list Khashoggi as the earliest major cl
 
 Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] argued that the [[new-york-times|New York Times]]' December 2025 investigation of Epstein's wealth exemplified selective framing by acknowledging Khashoggi only as an early client and portraying him as an eccentric figure, rather than as a pivotal participant in Iran-Contra who used institutions like BCCI to orchestrate off-the-books deals spanning U.S., Israeli and Saudi interests.[1]
 
+
+## Bush-era connections
+
+"Profiting From War" describes Adnan Khashoggi as one of the biggest arms dealers of his era, a [[bank-of-credit-and-commerce-international|BCCI]] investor and an [[iran-contra-affair|Iran-Contra]] figure who helped [[central-intelligence-agency|the CIA]] arm both Iran and the Contras.[2] Quoting the [[los-angeles-times|Los Angeles Times]], the article notes that two business associates of [[jeb-bush|Jeb Bush]] — Guillermo Hernandez-Cartaya and Camilo Padreda, both indicted for financial dealings — were longtime associates of Khashoggi.[2] The article also identifies him as the father of [[jamal-khashoggi|Jamal Khashoggi]], the journalist killed by Saudi agents at the Istanbul consulate in October 2018.[2]
+
 ## References
 1. Badlands Brief — "Missed Opportunities", URL: https://badlands.substack.com/p/missed-opportunities
+2. Badlands Brief — "Profiting From War", URL: https://badlands.substack.com/p/profiting-from-war

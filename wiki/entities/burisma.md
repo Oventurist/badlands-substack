@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ukraine, energy, corruption, biden-family]
-sources: [raw/badlands-news-brief-099.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-409.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-da5.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-d7d.md, raw/biden-inc-flips.md]
+sources: [raw/badlands-news-brief-099.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-409.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-da5.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-d7d.md, raw/biden-inc-flips.md, raw/quid-pro-joe.md]
 confidence: medium
 ---
 
@@ -66,6 +66,12 @@ A December 2024 Badlands feature described Burisma Holdings as a conduit for lau
 
 Burisma was listed alongside [[ftx|FTX]], [[chinese-communist-party|CCP]]-linked business dealings, and pharmaceutical and [[national-institutes-of-health|NIH]] connections as one of the pillars of an alleged criminal enterprise the author said was prosecutable under the [[racketeer-influenced-and-corrupt-organizations-act|RICO statutes]].[15] No such prosecution has been brought, and the allegations remain unsubstantiated commentary.[15]
 
+## Blue Star Strategies contract (2015)
+
+Emails from [[hunter-biden-laptop|Hunter Biden's abandoned laptop]] document Burisma's retention of the Washington consultancy [[blue-star-strategies|Blue Star Strategies]] in the autumn of 2015, after prosecutor general [[viktor-shokin|Viktor Shokin]] opened a corruption investigation into Zlochevsky.[16] Burisma executive [[vadym-pozharskyi|Vadym Pozharskyi]] reviewed Blue Star's draft proposal and objected that it lacked "tangible results" and named no "top US officials in Ukraine," while accepting that the omission might have been made to stay "on the safe and cautious side."[16] He described the engagement's "ultimate purpose" as bringing "widely recognized and influential current and/or former US policy-makers" to Ukraine in order "to close down for any cases/pursuits against Nikolay in Ukraine."[16] [[hunter-biden|Hunter Biden]] told Pozharskyi that "I trust Sally and Karen implicitly so I believe we are all aligned" and urged him to sign; the contract was executed in mid-November 2015.[16]
+
+Within weeks of signing, Blue Star joined a conference call with [[white-house|the White House]] regarding Vice President [[joe-biden|Joe Biden]]'s December 2015 trip to Ukraine, and Burisma and Blue Star held "strategy calls" while Biden was in the country.[16] Biden later said publicly that he had withheld $1 billion in loan guarantees to force Shokin's removal.[16] A [[us-department-of-justice|Justice Department]] investigation into Blue Star's lobbying was closed in May 2022 with no finding of wrongdoing.[16]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Democrats in Disarray as Globalists Bend the Knee", URL: https://badlands.substack.com/p/badlands-news-brief-099
 2. Badlands Media — "Badlands News Brief: A Potato is Threatened with Impeachment & Other Stories ...", URL: https://badlands.substack.com/p/badlands-news-brief-1e2
@@ -102,3 +108,4 @@ In August 2023 [[viktor-shokin|Viktor Shokin]], the Ukrainian prosecutor fired w
 
 14. Badlands Brief — "Badlands News Brief: Trump's Trap, Musk's Decree & Obama's Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-d7d
 15. Badlands Brief — "Biden, Inc. Flips", URL: https://badlands.substack.com/p/biden-inc-flips
+16. Badlands Brief — "Quid Pro Joe", URL: https://badlands.substack.com/p/quid-pro-joe

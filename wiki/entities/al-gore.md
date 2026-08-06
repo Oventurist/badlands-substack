@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [politics, climate, democrats]
-sources: [raw/badlands-news-brief-065.md, raw/badlands-news-brief-46e.md]
+sources: [raw/badlands-news-brief-065.md, raw/badlands-news-brief-46e.md, raw/on-golden-bridges-and-the-art-of.md]
 confidence: medium
 ---
 
@@ -30,3 +30,9 @@ At the [[world-economic-forum|World Economic Forum]]'s January 2023 meeting in D
 
 1. Badlands Brief — "The Dye's Been Cast Out. The Round Table is Set.", URL: https://badlands.substack.com/p/badlands-news-brief-065
 2. Badlands Brief — "Badlands News Brief: Globalist Rage, Biden Docs & Hockey Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-46e
+
+## Invoked as a foil in Badlands commentary (2025)
+
+In the January 28, 2025 Badlands Media feature "On Golden Bridges and the Art of War," [[american-hypnotist|American Hypnotist]] used Gore's film *An Inconvenient Truth* as a rhetorical foil, writing that the doomsday predictions made about global warming — "nowadays called 'climate change'" — could by then be said with certainty to have been completely bogus.[3] The author described Gore as a "climate grifter" and argued that the real inconvenient truth was that anyone on Earth had listened to him, before pivoting to what he called a far less convenient truth: the presence of tens of millions of hostile "invaders" in America and Europe, many of them holding legal immigration status.[3]
+
+3. Badlands Brief — "On Golden Bridges and the Art of War", URL: https://badlands.substack.com/p/on-golden-bridges-and-the-art-of

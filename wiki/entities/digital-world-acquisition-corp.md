@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [spac, dwac, trump-media, markets, truth-social]
-sources: [raw/badlands-news-brief-47f.md, raw/badlands-news-brief-a6e.md, raw/badlands-news-brief-b4a.md, raw/badlands-news-brief-f0b.md, raw/control-through-language.md]
+sources: [raw/badlands-news-brief-47f.md, raw/badlands-news-brief-a6e.md, raw/badlands-news-brief-b4a.md, raw/badlands-news-brief-f0b.md, raw/control-through-language.md, raw/no-honor-among-thieves.md]
 confidence: medium
 ---
 
@@ -53,3 +53,11 @@ Badlands Media contributor [[erik-carlson|Erik Carlson]] described DWAC in a Feb
 3. Badlands Brief — "Badlands News Brief: Border Battles, Trump Trials & COVID Comeuppance", URL: https://badlands.substack.com/p/badlands-news-brief-b4a
 4. Badlands Brief — "Badlands News Brief: Musk vs. the ADL, Truth Social's Future & More", URL: https://badlands.substack.com/p/badlands-news-brief-f0b
 5. Badlands Brief — "Control Through Language", URL: https://badlands.substack.com/p/control-through-language
+
+## Boaz Weinstein's stake and the institutional sell-off
+
+Badlands contributor [[erik-carlson|Erik Carlson]] noted that DWAC was announced in September 2021 as the SPAC that would merge with [[trump-media-and-technology-group|Trump Media]] — a SPAC being, in his description, essentially a holding tank that collects investors' money pending a future merger.[6] Hedge fund manager [[boaz-weinstein|Boaz Weinstein]] held 2.4 million DWAC shares at the time of the announcement and sold the entire position immediately on learning the merger target, out of antipathy toward [[donald-trump|Trump]], capturing only a fraction of the roughly 1,400% two-day run-up.[6]
+
+Carlson argued that Wall Street subsequently tried to destroy the stock: as retail investors poured money into DWAC to support Trump, large institutional investors sold out and took that money with them.[6] He further charged that the [[securities-and-exchange-commission|SEC]] — which he called as corrupt as the industry it regulates, comparing it to the [[food-and-drug-administration|FDA]]'s relationship with Big Pharma — dragged its feet for more than two years before permitting the DWAC–DJT merger, suppressing the share price and denying Trump access to billions.[6] In Carlson's reading the delay was providential: Trump received the money seven to eight months before the [[2024-us-general-election|2024 election]] rather than two years earlier, consistent with his view that events are timed to culminate in the election year.[6]
+
+6. Badlands Brief — "No Honor Among Thieves", URL: https://badlands.substack.com/p/no-honor-among-thieves

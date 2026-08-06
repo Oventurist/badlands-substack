@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [judiciary, georgia, election-integrity, dominion-voting-systems]
-sources: [raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-4ab.md, raw/badlands-news-brief-dc1.md]
+sources: [raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-4ab.md, raw/badlands-news-brief-dc1.md, raw/previously-sealed-report-on-dominion.md]
 confidence: low
 ---
 
@@ -32,3 +32,9 @@ The bench trial in [[curling-v-raffensperger|Curling v. Raffensperger]] was set 
 
 In a ruling issued Monday, March 31, 2025, U.S. District Judge Totenberg dismissed the long-running lawsuit challenging the security of Georgia's electronic voting machines, holding that the plaintiffs in [[curling-v-raffensperger|Curling v. Raffensperger]] had not demonstrated that the state's electronic voting system disenfranchises them from exercising their right to vote.[3] She wrote that the election activists of the Coalition for Good Governance and the Georgia voters joining them lacked standing, and that some of their legal objections to the touchscreen ballot marking devices amounted to policy disagreements rather than constitutional violations.[3] Totenberg nonetheless wrote that she retained substantial concerns about the electronic voting technology, which has long faced allegations that it risks being hacked and compromising Georgia elections.[3]
 3. Badlands Brief — "Badlands News Brief: Cognitive Cyphers & African Amnesty", URL: https://badlands.substack.com/p/badlands-news-brief-dc1
+
+## Sealing and unsealing of the Halderman Report
+
+Totenberg sealed the [[halderman-report|Halderman Report]] on Georgia's [[dominion-imagecast-x|Dominion ImageCast X]] machines when it was submitted in [[curling-v-raffensperger|Curling v. Raffensperger]], and it remained sealed for almost two years before being unsealed in June 2023.[4] Separately, after a display problem with the Dominion [[ballot-marking-device|ballot marking devices]] was discovered during testing in September 2020, a court battle ensued over how to correct it; the resulting changes were ruled "de minimis," and Totenberg permitted the change in October 2020.[4] It is unclear whether the permitted change was applied to the machine [[j-alex-halderman|Halderman]] and [[drew-springall|Drew Springall]] had received before the order.[4] Totenberg had earlier, in 2020, ordered Georgia to replace its [[diebold-election-systems|Diebold]] machines, a directive that led the state to adopt the Dominion ICX system.[4]
+
+4. Badlands Brief — "Previously *SEALED* Report on Dominion Voting Machines in Georgia Shows Critical Vulnerabilities", URL: https://badlands.substack.com/p/previously-sealed-report-on-dominion

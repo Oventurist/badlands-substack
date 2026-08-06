@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [international-law, united-nations, geopolitics, badlands-brief]
-sources: [raw/badlands-brief-25c.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-ac3.md, raw/badlands-news-brief-d68.md, raw/badlands-news-brief-efd.md, raw/badlands-news-brief-f44.md]
+sources: [raw/badlands-brief-25c.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-ac3.md, raw/badlands-news-brief-d68.md, raw/badlands-news-brief-efd.md, raw/badlands-news-brief-f44.md, raw/panic-in-dc.md]
 confidence: medium
 ---
 
@@ -62,3 +62,11 @@ On August 5, 2024, Turkish Foreign Minister [[hakan-fidan|Hakan Fidan]] said [[t
 5. Badlands Brief — "Globalists Are Having a Bad Time ...", URL: https://badlands.substack.com/p/badlands-news-brief-d68
 6. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd
 7. Badlands Brief — "Markets Crash as Tensions Rise Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-f44
+
+## Use as a rationale for payments to Iran
+
+"Panic in DC" argues that the ICJ served as a pretext for two large cash transfers to [[iran|Iran]].[8] The [[judgment-fund|Judgment Fund]] from which both the 1991 and 2016 payments were drawn exists to settle litigation claims, and the litigation in question was before the court at The Hague; [[barack-obama|Obama]] justified the $1.3 billion payment on the ground that the United States would have lost the case anyway.[8] [[joe-lange|Joe Lange]] questions whether a case arising from a deal made with an entirely different Iranian government, unruled upon since the early 1980s, was genuinely going to be lost.[8]
+
+He supports the skepticism with Reuters coverage of Iran's 2018 suit asking the court to order the United States to lift sanctions imposed by the Trump administration. That report noted that during decades of animosity both countries have ignored some rulings at the court, that the ICJ's rulings are binding but it has no power to enforce them, and that Iran itself ignored a 1980 U.S. suit over the seizure of American diplomats in Tehran which the court found illegal.[8] Secretary of State [[mike-pompeo|Mike Pompeo]] described Iran's suit as meritless and an attempt to interfere with the sovereign right of the United States to take lawful actions necessary to protect national security.[8]
+
+8. Badlands Brief — "Panic in DC", URL: https://badlands.substack.com/p/panic-in-dc

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [neoconservative, nato, ukraine, state-department]
-sources: [raw/a-bright-red-line.md, raw/a-dereliction-of-duty.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-7db.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-db1.md, raw/deep-state-spotlight-victoria-nuland.md]
+sources: [raw/a-bright-red-line.md, raw/a-dereliction-of-duty.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-7db.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-db1.md, raw/deep-state-spotlight-victoria-nuland.md, raw/oligarchism-and-the-great-game.md]
 confidence: medium
 ---
 
@@ -70,6 +70,10 @@ The article devoted a section to Nuland's role in repurposing NATO after the Col
 
 Nuland, called "Toria" by fellow operatives, is the daughter of [[sherwin-b-nuland|Sherwin B. Nuland]], the surgeon and writer who taught bioethics, history of medicine and medicine at the Yale School of Medicine.[10] Her husband is neoconservative scholar [[robert-kagan|Robert Kagan]], co-founder with [[william-kristol|William Kristol]] of the [[project-for-the-new-american-century|Project for the New American Century]], a think tank tied to the [[american-enterprise-institute|American Enterprise Institute]] whose policy document [[rebuilding-americas-defenses|Rebuilding America's Defenses]] openly advocated global military domination.[10] DeLarme noted that many PNAC members held top posts in the George W. Bush administration, that Kagan was a leading booster of the Iraq war and author of an essay on the "growing split" between the U.S. and Europe, and that the instability, strengthened Iran and ISIS-producing power vacuum France and Germany predicted were precisely what the [[neoconservatives|neoconservatives]] wanted.[10] He closed by describing an "unholy matrimony" between the establishment left and the neoconservatives, cemented by shared hatred of Trump and bipartisan support for the Ukraine war, and compared PNAC's pre-9/11 agitation for war with Iraq to the establishment's pre-January 6 desire for a domestic war on MAGA Republicans — arguing that Nuland's career is nonetheless useful common ground with disillusioned liberals.[10]
 
+## Moldova
+
+Nuland is also identified as a key patron of the Moldovan oligarch [[vlad-plahotniuc|Vlad Plahotniuc]], with whose support he took charge of the pro-EU [[democratic-party-of-moldova|Democratic Party]] from December 2016.[11] Plahotniuc met with Nuland in Washington in 2016 while a guest of the pro-NATO [[atlantic-council|Atlantic Council]], alongside other members of the Obama administration.[11] WikiLeaks emails also connect Nuland closely to [[asif-chaudhry|Asif Chaudhry]], the U.S. Ambassador to [[moldova|Moldova]] from 2008 to 2011 who brokered that country's post-2009 turn toward European integration.[11]
+
 ## References
 
 1. Badlands Brief — "A Bright Red Line", URL: https://badlands.substack.com/p/a-bright-red-line
@@ -82,3 +86,4 @@ Nuland, called "Toria" by fellow operatives, is the daughter of [[sherwin-b-nula
 8. Badlands Brief — "Badlands News Brief: Trump Sends Comms as Diddlers Get Indicted", URL: https://badlands.substack.com/p/badlands-news-brief-ce1
 9. Badlands Brief — "Badlands News Brief: Super Tuesday Goes as Planned & the Deep State Loses a Player", URL: https://badlands.substack.com/p/badlands-news-brief-db1
 10. Badlands Media — "Deep State Spotlight: Victoria Nuland", URL: https://badlands.substack.com/p/deep-state-spotlight-victoria-nuland
+11. Badlands Brief — "Oligarchism and the Great Game", URL: https://badlands.substack.com/p/oligarchism-and-the-great-game

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [dei, corporate-policy, florida, disney]
-sources: [raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-bed.md, raw/badlands-news-brief-d50.md, raw/death-to-dei.md]
+sources: [raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-bed.md, raw/badlands-news-brief-d50.md, raw/death-to-dei.md, raw/no-honor-among-thieves.md]
 confidence: medium
 ---
 
@@ -75,3 +75,11 @@ He further argued that DEI "intentionally sets people up to fail," comparing the
 6. Badlands Brief — "Badlands News Brief: Immigration Dominates Headlines as Devo Proofs Abound", URL: https://badlands.substack.com/p/badlands-news-brief-bed
 7. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50
 8. Badlands Brief — "Death to DEI", URL: https://badlands.substack.com/p/death-to-dei
+
+## Enforcement through asset managers
+
+Badlands contributor [[erik-carlson|Erik Carlson]] has argued that [[larry-fink|Larry Fink]], chief executive of [[blackrock|BlackRock]], originated the DEI master plan or at least serves as the muscle enforcing it, using it to control American companies.[9] In his account DEI compels adherence to woke policies by placing firms between a rock and a hard place: a company that refuses is excluded from the investment portfolios of BlackRock, [[vanguard-group|Vanguard]] and [[state-street|State Street]], while one that submits risks alienating its customer base, in many cases permanently.[9]
+
+Carlson pointed to shareholder pushback through the annual [[shareholder-proxy-voting|proxy vote]] as the emerging counter-force, citing the attempted boardroom mutiny at [[disney|Disney]] and the company's 15% five-year share-price decline against a 74% rise in the S&P 500.[9]
+
+9. Badlands Brief — "No Honor Among Thieves", URL: https://badlands.substack.com/p/no-honor-among-thieves

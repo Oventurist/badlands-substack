@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [nfl, celebrity, media, covid-19, pfizer]
-sources: [raw/badlands-news-brief-b01.md]
+sources: [raw/badlands-news-brief-b01.md, raw/q-for-dummies-chapter-6.md]
 confidence: medium
 ---
 
@@ -22,5 +22,10 @@ Kelce's relationship with Swift became a persistent subject of public comment, i
 
 Writer GhostofBasedPatrickHenry argued that public shaming — historically the mechanism by which societies ostracized undesirable behavior, later weaponized as elite "false decorum" and again as "Cancel Culture" — should be reclaimed and turned against celebrity intermediaries.[1] The reasoning offered was one of incentive structures: if the promise of clout is inverted through shaming, money alone may not be sufficient to induce celebrities to serve as, in Badlands' phrasing, "puppets of the oligarchs."[1]
 
+## The parade shooting and the gun-control post
+
+Badlands' "[[q-for-dummies|Q for Dummies]]" Chapter 6 cites Kelce in connection with the [[kansas-city-super-bowl-parade-shooting|Kansas City Super Bowl parade shooting]] of February 14, 2024, noting that he had posted in favour of gun control three days before the incident — a find the chapter credits to the Substack writer JuliansRum.[2] The author treats the timing as consistent with what he calls the [[false-flag-operation|false flag]] pattern, and describes the venue as further suspicious given the "propaganda machine" he says was built out of the relationship between [[taylor-swift|Taylor Swift]] and Kelce.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Marauding, Squirrel-Murdering Psychopaths Panic Ahead of the Election", URL: https://badlands.substack.com/p/badlands-news-brief-b01
+2. Badlands Brief — "Q for Dummies - Chapter 6", URL: https://badlands.substack.com/p/q-for-dummies-chapter-6

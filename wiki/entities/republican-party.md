@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [politics, republicans, midterms, election-integrity, messaging]
-sources: [raw/badlands-brief-9eb.md, raw/badlands-news-brief-b01.md]
+sources: [raw/badlands-brief-9eb.md, raw/badlands-news-brief-b01.md, raw/president-trumps-call-to-arms.md]
 confidence: medium
 ---
 
@@ -28,7 +28,10 @@ Other Republicans remained supportive of Trump raising election integrity concer
 
 The prospective inclusion of Paul in a new Trump administration through the proposed [[doge|Department of Government Efficiency]] was welcomed on the grounds that Old Guard GOP figures were simultaneously being boxed out of [[donald-trump|Donald Trump]]'s orbit.[2]
 
+In the [[2023-trump-cpac-speech|2023 Trump CPAC speech]], [[donald-trump|Donald Trump]] described the party he entered in 2015 as one "ruled by Freaks, Neocons, Globalists, Open Border Zealots, and Fools" and declared that "we are never going back to the party of Paul Ryan, Karl Rove, and Jeb Bush."[3] Badlands contributor [[brad-getz|Brad Getz]] argued that "the infiltrated version of the Republican party is dead" — its members "may still hold seats, but their days are numbered" — and cited the exposure of figures such as [[liz-cheney|Liz Cheney]] as proof that there was no going back.[3] Getz held that Trump's first term "drew them out and made us aware of just how different the Republican party was than voters realized," a claim he said was shocking in 2015-2017 but accepted by 2023.[3]
+
 ## References
 
 1. Badlands Brief — "Dems Demand a Post-Trump Strategy as Hamas Haggles for Peace", URL: https://badlands.substack.com/p/badlands-brief-9eb
 2. Badlands Brief — "Badlands News Brief: Marauding, Squirrel-Murdering Psychopaths Panic Ahead of the Election", URL: https://badlands.substack.com/p/badlands-news-brief-b01
+3. Badlands Brief — "President Trump's Call to Arms", URL: https://badlands.substack.com/p/president-trumps-call-to-arms

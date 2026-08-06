@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [elections, voting-machines, colorado, election-integrity]
-sources: [raw/badlands-brief-174.md, raw/badlands-brief-25c.md, raw/badlands-brief-b34.md, raw/badlands-news-brief-001.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-f1d.md, raw/badlands-news-brief-f94.md, raw/badlands-news-brief-fcb.md]
+sources: [raw/badlands-brief-174.md, raw/badlands-brief-25c.md, raw/badlands-brief-b34.md, raw/badlands-news-brief-001.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-f1d.md, raw/badlands-news-brief-f94.md, raw/badlands-news-brief-fcb.md, raw/previously-sealed-report-on-dominion.md]
 confidence: medium
 ---
 
@@ -105,3 +105,9 @@ In a letter dated Friday, May 5, 2023, lawyers for [[fox-news|Fox News]] asked o
 Badlands commentator [[ashe-in-america|Ashe in America]] mocked the exchange as a strongly worded letter demanding that Dominion investigate itself "again," and characterized the storyline as having jumped the shark after the network "inexplicably folded a straight flush with $787M in the pot."[15] She noted that a week after the settlement Carlson was out effective immediately, replaced by "Fox News Tonight" before an audience barely half his average with a 1.7 million debut, after which the leaks began.[15]
 
 15. Badlands Brief — "Badlands News Brief: Devolution Digs, Storm Stirring & Leverage", URL: https://badlands.substack.com/p/badlands-news-brief-fcb
+
+## Georgia ImageCast X vulnerabilities (2023)
+
+In June 2023, a previously sealed 96-page security analysis of Georgia's [[dominion-imagecast-x|Dominion ImageCast X]] [[ballot-marking-device|ballot marking devices]], prepared by [[j-alex-halderman|Dr. J. Alex Halderman]] and [[drew-springall|Prof. Drew Springall]] for [[curling-v-raffensperger|Curling v. Raffensperger]], was unsealed.[16] It documented a directory traversal vulnerability in the ICX software permitting a maliciously modified election definition file to overwrite arbitrary files and install malware, and an arbitrary-code-execution vulnerability capable of spreading malware from a county's central election management system to every ballot marking device in a jurisdiction, running as root and without physical access.[16] The report's findings were shared with the [[cybersecurity-and-infrastructure-security-agency|Cybersecurity and Infrastructure Security Agency]] in June 2022, which allowed Dominion to update its software to "purportedly address at least some of the problems."[16] Georgia Secretary of State [[brad-raffensperger|Brad Raffensperger]] nevertheless announced that the statewide move to Democracy Suite 5.17 would occur only after the 2024 election cycle.[16]
+
+16. Badlands Brief — "Previously *SEALED* Report on Dominion Voting Machines in Georgia Shows Critical Vulnerabilities", URL: https://badlands.substack.com/p/previously-sealed-report-on-dominion

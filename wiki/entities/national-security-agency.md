@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence, signals-intelligence, leaks, 2026]
-sources: [raw/badlands-brief-835.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-e79.md, raw/badlands-news-brief-e99.md, raw/badlands-news-brief-f46.md, raw/kekistani-code-talkers.md]
+sources: [raw/badlands-brief-835.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-e79.md, raw/badlands-news-brief-e99.md, raw/badlands-news-brief-f46.md, raw/kekistani-code-talkers.md, raw/panic-in-dc.md, raw/q-for-dummies-chapter-19.md, raw/q-for-dummies-chapter-21.md]
 confidence: medium
 ---
 
@@ -55,3 +55,22 @@ The Secure Hash Algorithm 2 (SHA-2) family of computer security cryptographic al
 NSA-attributed documents, alongside material from the [[national-geospatial-intelligence-agency|National Geospatial-Intelligence Agency]], appeared on Telegram in October 2024 detailing Israel's preparations to strike Iran after Iran's October 1 missile barrage, and were sharable within the [[five-eyes|Five Eyes]] partnership.[7] Their disclosure produced federal charges in November 2024 against [[asif-william-rahman|Asif William Rahman]], a government employee holding top secret clearance who was arrested by the [[fbi|FBI]] in Cambodia.[7]
 7. Badlands Brief — "Badlands News Brief: A 'Smooth Transition' Into the Second Trump Administration", URL: https://badlands.substack.com/p/badlands-news-brief-f46
 8. Badlands Brief — "Kekistani Code Talkers", URL: https://badlands.substack.com/p/kekistani-code-talkers
+
+## Collection as the basis for Trump's knowledge
+
+"Panic in DC" invokes the NSA to answer the question of how [[donald-trump|Donald Trump]] could know the details of a covert [[central-intelligence-agency|CIA]] operation.[9] Reading a Q post that ends with the line "What agency collects all forms of data?", [[joe-lange|Joe Lange]] identifies the answer as the NSA, which he describes as military intelligence, and concludes with the phrase "We have it all."[9] On this basis he asserts that Trump knows how many planes carried the [[pallets-of-cash-to-iran|cash to Iran]], where and when they landed, how the money was divided and who received it, including the effort to avoid wire-transfer logs and to disguise flows as foreign aid routed through Europe.[9]
+
+9. Badlands Brief — "Panic in DC", URL: https://badlands.substack.com/p/panic-in-dc
+
+## Surveillance capabilities and the Rogers directorship
+
+Chapter 19 of the [[q-for-dummies|Q for Dummies]] series states that, thanks to [[edward-snowden|Edward Snowden]], it is now known that the NSA possesses effectively unlimited means and methods of extracting data and information from the general public, including phone records, internet history and facial recognition.[10] The author treats Snowden's exposure of those practices as grounds for regarding him as something other than a black hat.[10]
+
+The same chapter identifies Admiral [[michael-rogers|Michael Rogers]] as the 17th Director of the NSA and as a white hat whom [[donald-trump|Donald Trump]] declined to replace on taking office, because Rogers had warned Trump that he was being spied on.[10] It adds that [[james-clapper|James Clapper]] was among those who sought Rogers's removal from Barack Obama, and speculates that Snowden was working with Rogers to expose the agency's mass spying.[10]
+
+10. Badlands Brief — "Q for Dummies - Chapter 19", URL: https://badlands.substack.com/p/q-for-dummies-chapter-19
+11. Badlands Brief — "Q for Dummies - Chapter 21", URL: https://badlands.substack.com/p/q-for-dummies-chapter-21
+
+## Chapter 21 and the takeover reading of drop #129
+
+Chapter 21 of [[q-for-dummies|Q for Dummies]] reads Q drop #129 of November 9, 2017 as suggesting that the NSA had taken over operations of the [[central-intelligence-agency|CIA]], in the context of Q's statement that cleaning up the Agency as it stood was impossible.[11] [[paul-fleuret|Paul Fleuret]] presents this as consistent with the series' running position that the NSA sits on the white-hat side of the conflict.[11] He closes the section with a reminder that [[michael-rogers|Admiral Mike Rogers]] was the 17th Director of the NSA — a numerological point of significance within the [[q-operation|Q]] framework.[11]

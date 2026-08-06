@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [federal-reserve, treasury, monetary-policy]
-sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-2b1.md, raw/badlands-news-brief-38f.md, raw/badlands-news-brief-47a.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-f00.md, raw/is-jerome-powell-a-patriot.md]
+sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-2b1.md, raw/badlands-news-brief-38f.md, raw/badlands-news-brief-47a.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-f00.md, raw/is-jerome-powell-a-patriot.md, raw/nobel-winning-economist-revives-2013s.md]
 confidence: medium
 ---
 
@@ -64,6 +64,10 @@ In his April 2023 essay "Is Jerome Powell a Patriot?", [[erik-carlson|Erik Carls
 
 Carlson further alleged that Yellen "has gone out of her way to undo any good that Powell has done," using the US Treasury to counter [[federal-reserve|Federal Reserve]] moves and thereby slowing what he characterized as the deliberate weakening of offshore [[eurodollar|Eurodollar]] holdings through higher interest rates.[11]
 
+## Rejection of the trillion-dollar coin
+
+In January 2023, as Treasury Secretary, Yellen publicly dismissed the [[trillion-dollar-coin|trillion-dollar coin]] proposal — the idea that Treasury could mint a $1 trillion platinum coin to circumvent the [[debt-ceiling|debt ceiling]] — as a "gimmick."[12] Speaking to the Wall Street Journal, she said: "It truly is not by any means to be taken as a given that the Fed would do it, and I think especially with something that's a gimmick. The Fed is not required to accept it, there's no requirement on the part of the Fed. It's up to them what to do."[12] Badlands contributor [[ashe-in-america|Ashe in America]] argued that Yellen's dismissal was largely irrelevant to the outcome, since the authority to accept and monetize such a coin rests with the Federal Reserve rather than with the Treasury Secretary.[12] The proposal was revived that May by economist [[paul-krugman|Paul Krugman]], who claimed it would not be inflationary.[12]
+
 ## References
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
 2. Badlands Brief — "Badlands News Brief: World Wealth Whiplash & The Most Secure Memorandum in History", URL: https://badlands.substack.com/p/badlands-news-brief-02a
@@ -76,3 +80,4 @@ Carlson further alleged that Yellen "has gone out of her way to undo any good th
 9. Badlands Brief — "It’s Our Failed ‘Resistance’ and We Can Cry if We Want To", URL: https://badlands.substack.com/p/badlands-news-brief-656
 10. Badlands Media — "Badlands News Brief: Intel Leaks, Cartel Extraditions, & Terror Designations", URL: https://badlands.substack.com/p/badlands-news-brief-f00
 11. Badlands Brief — "Is Jerome Powell a Patriot?", URL: https://badlands.substack.com/p/is-jerome-powell-a-patriot
+12. Badlands Brief — "Nobel-Winning Economist Revives 2013's Ridiculous 'Platinum Trill'", URL: https://badlands.substack.com/p/nobel-winning-economist-revives-2013s

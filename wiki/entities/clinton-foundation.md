@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [clinton, donations, uranium, disclosure, corruption]
-sources: [raw/america-for-sale-part-3.md, raw/america-for-sale-part-2.md, raw/bad-actors.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-a15.md, raw/infiltration-not-invasion.md]
+sources: [raw/america-for-sale-part-3.md, raw/america-for-sale-part-2.md, raw/bad-actors.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-a15.md, raw/infiltration-not-invasion.md, raw/q-for-dummies-chapter-11.md, raw/q-for-dummies-chapter-12.md, raw/q-for-dummies-chapter-2.md]
 confidence: medium
 ---
 
@@ -60,6 +60,11 @@ The [[durham-report|Durham Report]] released in May 2023 disclosed that the [[fb
 
 Commenting on the March 2024 collapse of order in Haiti and the deployment of US Marines to protect the American embassy, Badlands writer Burning Bright argued that the chaos had been seeded during the Clinton, Bush and especially Obama administrations, and observed that "the Clinton Foundation is firmly entrenched in the Collective Mind re: Haiti."[7] He framed the episode as a convergence of actual events and narrative, closing with the question "Is it 2024 ... or 2017?"[7]
 
+
+## Saudi donations in Q drops #94
+
+Chapter 12 of the [[q-for-dummies|Q for Dummies]] series recounts drop #94, in which an Anon asked how the money sent from [[saudi-arabia|Saudi Arabia]] to the Clinton Foundation was to be repaid after [[hillary-clinton|Hillary Clinton]] lost the 2016 election.[10] The chapter notes that donors had assumed she would win, leaving a great many favours outstanding when she did not.[10] Q pointed the Anon back to prior threads and indicated that [[barack-obama|Barack Obama]] settled the debts, which the author links to the pallets of cash delivered to [[iran|Iran]].[10]
+
 ## References
 1. Badlands Brief — "America for Sale - Part 3", URL: https://badlands.substack.com/p/america-for-sale-part-3
 2. Badlands Brief — "America for Sale - Part 2", URL: https://badlands.substack.com/p/america-for-sale-part-2
@@ -68,9 +73,23 @@ Commenting on the March 2024 collapse of order in Haiti and the deployment of US
 5. Badlands Brief — "Cartels, Crucibles, & Convictions", URL: https://badlands.substack.com/p/badlands-news-brief-144
 6. Badlands News Brief — "FBI Corruption, Kayfabe & Russia, Russia, Russia!", URL: https://badlands.substack.com/p/badlands-news-brief-38a
 7. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
+11. Badlands Brief — "Q for Dummies - Chapter 2", URL: https://badlands.substack.com/p/q-for-dummies-chapter-2
 
 ## Qatari financing of the Arab Spring
 
 Citing Sada Elbalad English News reporting on leaked emails, Badlands contributor Joe Lange states that [[hillary-clinton|Hillary Clinton]] asked [[qatar|Qatar]] to finance the so-called [[arab-spring|Arab Spring]] revolutions through a fund dedicated to the Clinton Foundation.[8] He presents this as one of two parallel money channels for the uprisings, the other being Senator [[john-mccain|John McCain]]'s use of the [[international-republican-institute|International Republican Institute]].[8] The emails surfaced after President Donald Trump announced the declassification of documents related to federal investigations into Clinton's use of a private email server, a step Lange reads as deliberate exposure of activity around the Arab Spring.[8]
 
 8. Badlands Brief — "Infiltration, Not Invasion", URL: https://badlands.substack.com/p/infiltration-not-invasion
+
+## Treatment in Q drops #81–90
+
+Chapter 11 of the [[q-for-dummies|Q for Dummies]] series, covering drops #81 through #90 of November 5, 2017, presents the foundation as a central node in the [[alice-and-wonderland|Alice & Wonderland]] comm linking [[hillary-clinton|Hillary Clinton]] to [[saudi-arabia|Saudi Arabia]].[9] The author argues that researchers digging into Clinton and the foundation quickly find that both played a major role in human rights violations and war crimes in Saudi Arabia.[9]
+
+Drop #89 addressed the foundation directly, stating that the [[fbi|FBI]] and Military Intelligence both had open investigations into it — prompting the author's question of why [[james-comey|James Comey]], if he were a bad actor, did not end the FBI's investigations.[9] Q also asked who had been Director of the FBI during the Haiti crisis; the answer given is [[robert-mueller|Robert Mueller]], which the author pairs with the observation that such a figure "knows where the bodies are buried."[9] The chapter states that upwards of $15 billion is believed to have been sent to [[haiti|Haiti]] through the Clinton Foundation, with only a very small fraction actually delivered, alongside dozens of reports of child abductions and trafficking during the same period — which the author offers as the reason the Haitian people are no admirers of the Clintons or the foundation.[9] Saudi Arabia was only one of the donor countries at the time; France, Germany and the United Kingdom are named as also heavily involved.[9]
+
+9. Badlands Media — "Q for Dummies - Chapter 11", URL: https://badlands.substack.com/p/q-for-dummies-chapter-11
+10. Badlands Media — "Q for Dummies - Chapter 12", URL: https://badlands.substack.com/p/q-for-dummies-chapter-12
+
+## Q for Dummies Chapter 2
+
+Badlands' "Q for Dummies" Chapter 2 argues that [[james-comey|James Comey]] closed the [[hillary-clinton|Clinton]] email investigation because investigations into the Clinton Foundation were running at the same time, and that those inquiries concerned drug and human trafficking and "a myriad of other crimes" of greater significance than the email case.[11] The chapter also states that the Foundation "was heavily involved with the UN in Haiti."[11]

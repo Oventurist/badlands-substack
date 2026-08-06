@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [crypto, fraud, litigation, badlands-news-brief]
-sources: [raw/badlands-news-brief-252.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-bbc.md, raw/badlands-news-brief-dfa.md, raw/badlands-news-brief-f61.md]
+sources: [raw/badlands-news-brief-252.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-bbc.md, raw/badlands-news-brief-dfa.md, raw/badlands-news-brief-f61.md, raw/one-of-the-most-transformative-moments.md]
 confidence: medium
 ---
 
@@ -106,3 +106,9 @@ A federal judge revoked Bankman-Fried's bail in August 2023, citing probable cau
 11. Badlands Brief — "Badlands News Brief: Israel's Package, Biden's Border and Putin's Nukes", URL: https://badlands.substack.com/p/badlands-news-brief-bbc
 12. Badlands Brief — "Hunter's Plea, Powell's Plight & Trump's Plan", URL: https://badlands.substack.com/p/badlands-news-brief-dfa
 13. Badlands Brief — "Badlands News Brief: Special Counsels, Island Fires & White Pills", URL: https://badlands.substack.com/p/badlands-news-brief-f61
+
+## Characterized as a scapegoat (2023)
+
+Badlands Media's May 2023 examination of cryptocurrency fraud described Bankman-Fried as a scapegoat rather than the principal culprit, writing that "there may be a scapegoat, like Sam Bankman-Fried, but the whales, shadow players, and broader networks escape unscathed."[14] The article placed the roughly $8 billion [[ftx|FTX]] and [[alameda-research|Alameda]] collapse among what it called government-sanctioned scams whose perpetrators face no real consequences, after which investors are lectured about informed investing and personal responsibility.[14]
+
+14. Badlands Brief — "One of the Most Transformative Moments in Money Since Jekyll Island", URL: https://badlands.substack.com/p/one-of-the-most-transformative-moments

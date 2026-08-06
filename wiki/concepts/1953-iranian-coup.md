@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [cia, iran, regime-change, oil, britain]
-sources: [raw/badlands-news-brief-24e.md, raw/does-the-cia-still-control-iran.md, raw/how-to-rent-a-riot-the-plausible.md]
+sources: [raw/badlands-news-brief-24e.md, raw/does-the-cia-still-control-iran.md, raw/how-to-rent-a-riot-the-plausible.md, raw/rainbow-color-revolution.md]
 confidence: medium
 ---
 
@@ -31,3 +31,11 @@ Carlson identified the coup's director as [[kermit-roosevelt-jr|Kermit Roosevelt
 In its survey of engineered civil unrest, Badlands Media dates the practice of intentionally manufacturing and directing protest to 1953, when the CIA and British MI6 orchestrated the overthrow of Iran's democratically elected Prime Minister Mohammad Mossadegh in Operation Ajax, also known as TPAJAX.[3] The article calls this the first major documented instance of Western intelligence agencies using paid and staged protests as the core mechanism for regime change, and argues that the tactic was subsequently employed countless times abroad before being turned inward on domestic populations through programs such as COINTELPRO and, later, the NGO cut-outs of the plausible deniability network.[3]
 
 3. Badlands Brief — "How to Rent a Riot - The Plausible Deniability Network", URL: https://badlands.substack.com/p/how-to-rent-a-riot-the-plausible
+
+## Carlson's account (2023)
+
+In "Rainbow Color Revolution," [[erik-carlson|Erik Carlson]] recounted that Iran democratically elected [[mohammad-mosaddegh|Mohammad Mosaddegh]] as Prime Minister in 1953, and that Mosaddegh soon began examining British control of Iranian oil production to verify Britain was paying Iran the agreed share from its oil fields.[4] Following an audit, Iran nationalized its oil production and expelled foreign companies, prompting Britain to initiate a worldwide boycott of Iranian oil.[4]
+
+As a favor to Britain, Carlson wrote, the [[central-intelligence-agency|CIA]] launched a coup to remove Mosaddegh and install a US- and Britain-friendly leader, the Shah, using propaganda, rigging Iran's election, and paying and busing in thugs to create chaos in Tehran; pro-Shah riots caused 200 to 300 deaths.[4] After Mosaddegh's removal and replacement by [[mohammad-reza-pahlavi|the Shah]], he was convicted of treason in court.[4] Carlson drew an explicit parallel to what he called the Rainbow Color Revolution in the United States, noting that [[donald-trump|Donald Trump]] — whom he said the CIA helped remove from office through propaganda, election rigging and paid rioting — had just been indicted under the [[espionage-act|Espionage Act]].[4] He further observed that the CIA was formed in 1947 after World War II out of the wartime [[office-of-strategic-services|OSS]], and that by 1953 it was covertly overthrowing the Iranian government at the same time Joseph McCarthy was pursuing Communists in the United States.[4]
+
+4. Badlands Brief — "Rainbow Color Revolution", URL: https://badlands.substack.com/p/rainbow-color-revolution

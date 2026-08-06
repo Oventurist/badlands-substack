@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [cryptography, qanon, trump, information-warfare]
-sources: [raw/kekistani-code-talkers.md]
+sources: [raw/kekistani-code-talkers.md, raw/pepe-the-trump-train-and-hillarys.md]
 confidence: medium
 ---
 
@@ -28,6 +28,13 @@ The article's distinctive claim is that Covfefe functions simultaneously as ciph
 
 Background for the Covfefe thesis is spread across the COVFEFE Dig and COVFEFE 2.0 Dig, the article "Celebrating 15 Years of Indictments and Justice!", the "Trump Doctrine: Peace Through Space" essay, and roughly seventy-five episodes of [[rugpull-radio|Rugpull Radio]].[1]
 
+## Covfefe as a numerical signal
+
+In the Badlands Brief article "Pepe, the Trump Train, and Hillary's Automobile," Covfefe is treated operationally as any combination of the digits 1, 3 and 5 appearing in dates, timestamps, or token metadata.[2] On that reading, [[dan-scavino|Dan Scavino]]'s posts of 5/13/24 carrying orange and rocket-ship symbols are a Covfefe signal, as is his 3/15/24 Truth Social post resurfacing a Tweet of 3/15/16.[2] The date 11/11 is folded into the same scheme because it is the 315th day of a non-leap year, which the author uses to read Q drop #36 of 11/2/17 — parsed as 11 11 — as a Covfefe connection.[2]
+
+The same framework is applied to blockchain artifacts on [[counterparty|Counterparty]]: the [[rarepepe|RAREPEPE]] and PEPETRAIN tokens are said to carry Covfefe in their series, supply and issuance data.[2] The article situates Covfefe alongside [[qanon|Q]], [[bitcoin|Bitcoin]] and [[pepe-the-frog|Pepe the Frog]] as one of the "major elements" whose interconnection the [[trump-train|Trump Train]] supposedly unlocks, and asks whether Scavino's 2016 Periscope Tweet was a clue toward discovering another cryptographic key of the same kind.[2]
+
 ## References
 
 1. Badlands Brief — "Kekistani Code Talkers", URL: https://badlands.substack.com/p/kekistani-code-talkers
+2. Badlands Brief — "Pepe, the Trump Train, and Hillary's Automobile", URL: https://badlands.substack.com/p/pepe-the-trump-train-and-hillarys

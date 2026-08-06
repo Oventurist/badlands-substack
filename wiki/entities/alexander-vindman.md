@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [national-security, ukraine, free-speech, media]
-sources: [raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-db6.md, raw/badlands-news-brief-f6e.md]
+sources: [raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-db6.md, raw/badlands-news-brief-f6e.md, raw/no-honor-among-thieves.md]
 confidence: medium
 ---
 
@@ -38,3 +38,13 @@ In late November 2024, [[elon-musk|Elon Musk]] accused Vindman — the retired A
 Badlands contributor [[ashe-in-america|Ashe in America]] responded that, while statists had relished their own side centralising power and building the surveillance state, "you should never wish for powers you don't want your enemies to one day wield," and concluded that Democrats like Vindman had reason to be concerned.[2]
 2. Badlands Brief — "The Syrian Powder Keg Ignites as Russia Speaks Out", URL: https://badlands.substack.com/p/badlands-news-brief-db6
 3. Badlands Brief — "Badlands News Brief: Ghost Puppeteers, Sudanese Solutions, & Pam Bondi's Desk", URL: https://badlands.substack.com/p/badlands-news-brief-f6e
+
+## Nomination to a BlackRock fund board (2024)
+
+In 2024 Vindman was one of three candidates that [[boaz-weinstein|Boaz Weinstein]]'s hedge fund [[saba-capital|Saba Capital]] sought to install on the board of BlackRock Capital Allocation Trust, part of a campaign to seize control of ten [[blackrock|BlackRock]] [[closed-end-fund|closed-end funds]].[4] Badlands contributor [[erik-carlson|Erik Carlson]] treated his inclusion as the decisive tell that the campaign was a [[deep-state|Deep State]] operation rather than a shareholder revolt.[4]
+
+## Role in the first impeachment
+
+Carlson described Vindman as the "weaselly" former White House National Security Council official who claimed to have overheard the "perfect call" between [[donald-trump|President Trump]] and Ukrainian president [[volodymyr-zelensky|Volodymyr Zelenskyy]] that led to the [[first-impeachment-of-donald-trump|first impeachment]].[4] He emphasised that the call was not on speakerphone and that Vindman professed to have discerned its contents from across a room, yet Trump was impeached on that testimony for allegedly pressuring Zelenskyy to investigate [[joe-biden|Joe Biden]] — an irony Carlson underlined.[4] He placed Vindman within a broader pattern in which corrupt military officials were embedded in the White House to sabotage the Trump presidency, a pattern he links to the refusal to deploy the National Guard against the 2020 riots and again on January 6.[4] Carlson also recalled the interview in which Arnold Schwarzenegger, appearing with Vindman, told mask and vaccine refusers to "screw your freedom."[4]
+
+4. Badlands Brief — "No Honor Among Thieves", URL: https://badlands.substack.com/p/no-honor-among-thieves

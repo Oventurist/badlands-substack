@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [propaganda, information-warfare, media]
-sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/a-look-at-recent-features-84d.md, raw/disinformation-is-necessary.md]
+sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/a-look-at-recent-features-84d.md, raw/disinformation-is-necessary.md, raw/q-for-dummies-chapter-13.md, raw/q-for-dummies-chapter-10.md]
 confidence: medium
 ---
 
@@ -34,3 +34,15 @@ A further example offered is the judiciary: the narrative that the entire judici
 1. Badlands Brief — "A Hypnotist's Take on Israel, Palestine, and Q", URL: https://badlands.substack.com/p/a-hypnotists-take-on-israel-palestine
 2. Badlands Brief — "A Look At Recent Features", URL: https://badlands.substack.com/p/a-look-at-recent-features-84d
 3. Badlands Brief — "Disinformation is Necessary", URL: https://badlands.substack.com/p/disinformation-is-necessary
+
+## "Disinformation is necessary" in Drop #97
+
+The Badlands Media "Q For Dummies" series drew attention to the line at the foot of Drop #97 stating that disinformation is necessary.[4] The author endorsed the proposition, cautioning readers that not everything [[qanon|Q]] says is directed at them and not everything Q says is true, because red herrings must sometimes be thrown out to keep an adversary off track.[4] He connected the practice to the drops' explicit acknowledgement that both friends and enemies monitor the boards, and to his own inference that some crumbs function as instructions to operators rather than as messages to anons.[4] Within the chapter the concept is treated as an element of [[game-theory-strategy|game theory]] rather than as deception of followers.[4]
+
+4. Badlands Brief — "Q For Dummies - Chapter 13", URL: https://badlands.substack.com/p/q-for-dummies-chapter-13
+
+## "Disinformation is necessary" in the Q drops
+
+Chapter 10 of the [[q-for-dummies|Q for Dummies]] series treats [[qanon|Q]] drop #72 of November 4, 2017 as the clearest statement of the operation's use of disinformation, in which Q told readers that both disinformation and distractions are real and necessary.[5] The commentary explains this on the grounds that hostile actors read the drops alongside anons, so that mixing falsehood with truth kept those actors guessing: if researchers could not determine exactly what was happening, neither could the [[deep-state|Deep State]].[5] The cited example is the set of earlier drops implying imminent arrests of [[hillary-clinton|Hillary Clinton]] and [[john-podesta|John Podesta]], characterised as red herrings and markers for future events while the actual target was the [[house-of-saud|Saudi Royal Family]].[5] Drop #74 adds that everything has meaning, including disinformation and typos.[5]
+
+5. Badlands Brief — "Q for Dummies - Chapter 10", URL: https://badlands.substack.com/p/q-for-dummies-chapter-10

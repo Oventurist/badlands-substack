@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [biden-family, congressional-testimony, burisma, influence-peddling]
-sources: [raw/badlands-news-brief-07f.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-9e7.md, raw/badlands-news-brief-b4a.md, raw/badlands-news-brief-da5.md]
+sources: [raw/badlands-news-brief-07f.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-9e7.md, raw/badlands-news-brief-b4a.md, raw/badlands-news-brief-da5.md, raw/quid-pro-joe.md]
 confidence: medium
 ---
 
@@ -79,4 +79,9 @@ In the closed-door interview conducted on Monday, July 31, 2023, Archer told the
 7. Badlands Brief — "Archer's Testimony & Prussian Roulette", URL: https://badlands.substack.com/p/badlands-news-brief-9e7
 8. Badlands Brief — "Badlands News Brief: Border Battles, Trump Trials & COVID Comeuppance", URL: https://badlands.substack.com/p/badlands-news-brief-b4a
 9. Badlands News Brief — "Archer Spills, Musk Targets & Fauci Squirms", URL: https://badlands.substack.com/p/badlands-news-brief-da5
+10. Badlands Brief — "Quid Pro Joe", URL: https://badlands.substack.com/p/quid-pro-joe
+
+## Role in the Blue Star Strategies contract
+
+Archer appears throughout the October–November 2015 emails documenting [[burisma|Burisma]]'s engagement of [[blue-star-strategies|Blue Star Strategies]], recovered from [[hunter-biden-laptop|Hunter Biden's abandoned laptop]].[10] A 23 October 2015 scheduling email showed a meeting on hold between Archer, [[hunter-biden|Hunter Biden]], [[vadym-pozharskyi|Vadym Pozharskyi]] and [[sally-painter|Sally Painter]].[10] When Pozharskyi objected that Blue Star's proposal named no "top US officials in Ukraine," [[eric-schwerin|Eric Schwerin]] wrote to Archer and Hunter Biden confirming the omission was deliberate and that "Sally and company understand the scope and deliverables," after which Archer asked Hunter to relay the assurance to Pozharskyi.[10] On 7 December 2015, while Vice President [[joe-biden|Joe Biden]] was in [[ukraine|Ukraine]], Archer requested a call between "the Blue Star and Burisma teams."[10]
 

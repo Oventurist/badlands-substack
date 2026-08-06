@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fbi, indictments, lawfare]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-52b.md, raw/badlands-brief-579.md, raw/badlands-brief-6a1.md, raw/badlands-brief-6bf.md, raw/badlands-brief-d1a.md, raw/badlands-brief-cfa.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-09b.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a5d.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-f00.md, raw/clowns-in-america.md, raw/disinformation-is-necessary.md, raw/irregular-warfare.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-52b.md, raw/badlands-brief-579.md, raw/badlands-brief-6a1.md, raw/badlands-brief-6bf.md, raw/badlands-brief-d1a.md, raw/badlands-brief-cfa.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-09b.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a5d.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-f00.md, raw/clowns-in-america.md, raw/disinformation-is-necessary.md, raw/irregular-warfare.md, raw/q-for-dummies-chapter-11.md, raw/q-for-dummies-chapter-2.md, raw/q-for-dummies-chapter-5.md]
 confidence: medium
 ---
 
@@ -198,6 +198,12 @@ Q drop 1807 (August 3, 2018) is cited listing the FBI chain of command for the "
 27. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93
 28. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46
 29. Badlands Media — "Badlands News Brief: Intel Leaks, Cartel Extraditions, & Terror Designations", URL: https://badlands.substack.com/p/badlands-news-brief-f00
+34. Badlands Brief — "Q for Dummies - Chapter 2", URL: https://badlands.substack.com/p/q-for-dummies-chapter-2
+35. Badlands Brief — "Q for Dummies - Chapter 5", URL: https://badlands.substack.com/p/q-for-dummies-chapter-5
+
+## Drop #36 and the reopening of the email investigation
+
+Chapter 5 of [[q-for-dummies|Q for Dummies]], covering drops #31–40, extends the white-hat reading to the timing of Comey's actions in 2016.[35] Its author states that drop #36 indicates Comey "was pushed to do what he did at the time he did by the good guys," and argues that reopening the email investigation when he did materially damaged [[hillary-clinton|Hillary Clinton]]'s position in the election.[35] He adds that regular viewers of [[eye-of-the-storm|Eye Of The Storm]] will know he believes "Comey is working for us," and reads the drop as pointing to that conclusion.[35] The same drop situates Comey's conduct alongside the [[clinton-lynch-tarmac-meeting|Clinton–Lynch tarmac meeting]] and [[national-security-agency|NSA]] collection under Admiral [[mike-rogers|Mike Rogers]].[35]
 
 ## Reopening the Clinton investigation (Badlands account)
 
@@ -213,3 +219,13 @@ Because that period covered the [[uranium-one-deal|Uranium One]] deal, Lange arg
 
 31. Badlands Brief — "Disinformation is Necessary", URL: https://badlands.substack.com/p/disinformation-is-necessary
 32. Badlands Brief — "Irregular Warfare", URL: https://badlands.substack.com/p/irregular-warfare
+
+## Q drop #89 and the Clinton Foundation investigations
+
+Chapter 11 of the [[q-for-dummies|Q for Dummies]] series, covering drops #81–90 of November 5, 2017, records that Q stated both the [[fbi|FBI]] and Military Intelligence had open investigations into the [[clinton-foundation|Clinton Foundation]] at that time.[33] The chapter's author poses the resulting puzzle directly: if Comey is a bad guy, why did he not end those FBI investigations?[33] The same drop asked who had been Director of the FBI during the Haiti crisis, an answer the author gives as [[robert-mueller|Robert Mueller]].[33]
+
+33. Badlands Media — "Q for Dummies - Chapter 11", URL: https://badlands.substack.com/p/q-for-dummies-chapter-11
+
+## The "white hat" reading in Q for Dummies Chapter 2
+
+Badlands' "Q for Dummies" Chapter 2 advances the author's stated opinion that Comey, [[rod-rosenstein|Rod Rosenstein]] and [[robert-mueller|Robert Mueller]] "were all actually working for us," an interpretation he concedes is difficult to accept but says later drops support, crediting [[just-human|Just Human]] with detailed treatments of the theory.[34] On this reading, Comey shut down the [[hillary-clinton|Clinton]] email investigation because concurrent investigations into the [[clinton-foundation|Clinton Foundation]] — involving drug and human trafficking and other crimes of greater significance — took priority; Comey, the author argues, was "yielding to a more serious investigation."[34]

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [saudi-arabia, lebanon, jeddah, finance, cia]
-sources: [raw/a-conflict-of-interest.md, raw/a-dereliction-of-duty.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-1.md, raw/arabian-nights.md, raw/bad-actors.md, raw/badlands-news-brief-a82.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-dereliction-of-duty.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-1.md, raw/arabian-nights.md, raw/bad-actors.md, raw/badlands-news-brief-a82.md, raw/profiting-from-war.md, raw/q-for-dummies-chapter-18.md]
 confidence: low
 ---
 
@@ -48,6 +48,17 @@ Lange further argues that Alwaleed was the creditor repaid when Obama, hours bef
 
 During the Royal Purge, Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] seized control of Alwaleed bin Talal's Kingdom Holdings, a $12 billion investment fund, along with the [[saudi-binladin-group|Bin Laden Group]], the largest construction firm in Saudi Arabia.[7]
 
+
+## Money flow disruption and the Lebanese connection
+
+"Profiting From War" identifies Alwaleed as the billionaire "puppet master" implied by Q drop #119's question "What is [[money-flow-disruption|money flow disruption]]?", noting that the drop was posted on November 6, 2017 — the day after his arrest in Saudi Arabia.[8] [[joe-lange|Joe Lange]] argues the arrest severed the money flow to American politicians who promoted wars in the Middle East, wars that in turn funded Alwaleed and proxy forces such as [[hezbollah]].[8]
+
+The article stresses Alwaleed's Lebanese ties: his mother was Lebanese, he was raised there for part of his childhood, and his grandfather was the first Prime Minister of Lebanon.[8] These ties are used to connect him to the Lebanese media holdings of [[jamal-daniel|Jamal Daniel]], the business partner of [[neil-bush|Neil Bush]], and thereby to the [[bush-family|Bush family]], whom the article asks whether Alwaleed was directing when they publicly attacked [[donald-trump|Donald Trump]] in October 2017.[8] The article also asserts that the Bush family helped promote and fund Alwaleed's proxy groups, and that drug trafficking constituted a valuable money stream for [[central-intelligence-agency|the CIA]], Hezbollah and Alwaleed alike.[8]
+
+## Twitter control and human trafficking allegations
+
+Chapter 18 of the [[q-for-dummies|Q for Dummies]] series recalls that "Prince Dopey" — the drops' nickname for Alwaleed — held the controlling interest in [[twitter|Twitter]], a fact the author treats as newly significant given the state of what he calls the information war.[9] Reading Q drop #118's pairing of human trafficking with the [[saudi-purge|Saudi purge]], the chapter assumes Alwaleed most likely had his hands in that sector as well, and predicts that much more concerning the 2017 purge has yet to surface.[9]
+
 ## References
 1. Badlands Brief — "A Conflict of Interest", URL: https://badlands.substack.com/p/a-conflict-of-interest
 2. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
@@ -56,3 +67,5 @@ During the Royal Purge, Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]]
 5. Badlands Brief — "Arabian Nights", URL: https://badlands.substack.com/p/arabian-nights
 6. Badlands Brief — "Bad Actors", URL: https://badlands.substack.com/p/bad-actors
 7. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
+8. Badlands Brief — "Profiting From War", URL: https://badlands.substack.com/p/profiting-from-war
+9. Badlands Brief — "Q for Dummies - Chapter 18", URL: https://badlands.substack.com/p/q-for-dummies-chapter-18

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [microsoft, philanthropy, gates-foundation, ai, nuclear]
-sources: [raw/america-has-a-cia-run-economy.md, raw/artificial-intelligence.md, raw/badlands-brief-e9e.md, raw/badlands-news-blast.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-68f.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/artificial-intelligence.md, raw/badlands-brief-e9e.md, raw/badlands-news-blast.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-68f.md, raw/q-for-dummies-chapter-12.md]
 confidence: medium
 ---
 
@@ -60,6 +60,11 @@ In a Reddit "Ask Me Anything" session reported on January 17, 2023, Gates was as
 
 [[jordan-sather|Jordan Sather]] wrote that Gates had used the AMA to promote plant-based fake meat and nuclear technology while avoiding any question related to [[jeffrey-epstein|Jeffrey Epstein]], attributing the advocacy to his large investments in both "green" initiatives.[8] Sather argued that nuclear power remains a centralized energy source requiring a meter and a grid — "exactly what the Powers that Be would want" — and that its promoters never champion decentralized zero-point energy technologies, while suggesting plant-based meat substitutes were likely genetically engineered.[8]
 
+
+## Mandalay Bay ownership and the Las Vegas shooting
+
+Chapter 12 of the [[q-for-dummies|Q for Dummies]] series names Gates, alongside [[alwaleed-bin-talal|Prince Alwaleed bin Talal]], as an owner of the top floors of the Mandalay Bay hotel from which the October 2017 [[las-vegas-shooting|Las Vegas shooting]] was carried out, and states that Gates bought out the prince's stake after the attack.[9] The author treats ownership of those floors as ownership of the high ground required for an attack of that scale and describes both men as possible [[deep-state|Deep State]] assets.[9]
+
 ## References
 
 1. Badlands Brief — "America Has a CIA-Run Economy", URL: https://badlands.substack.com/p/america-has-a-cia-run-economy
@@ -70,3 +75,4 @@ In a Reddit "Ask Me Anything" session reported on January 17, 2023, Gates was as
 6. Badlands News Brief — "'Heroic' Nazis & Unexpectedly Flaccid Orgy Dome", URL: https://badlands.substack.com/p/badlands-news-brief-3d2
 7. Badlands News Brief — "COVID Coverups, Globalist Schemes and Epstein's Shadow", URL: https://badlands.substack.com/p/badlands-news-brief-580
 8. Badlands News Brief — "Bidens, UFOs and Vaccines", URL: https://badlands.substack.com/p/badlands-news-brief-68f
+9. Badlands Media — "Q for Dummies - Chapter 12", URL: https://badlands.substack.com/p/q-for-dummies-chapter-12

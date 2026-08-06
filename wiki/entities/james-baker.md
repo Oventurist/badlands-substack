@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [bush-family, banking, houston, cia]
-sources: [raw/a-family-affair.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-617.md]
+sources: [raw/a-family-affair.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-617.md, raw/profiting-from-war.md]
 confidence: medium
 ---
 
@@ -24,8 +24,14 @@ The bombshell revelations involving Baker and Rybicki were memorialized in docum
 
 According to [[mike-benz|Mike Benz]]'s reporting on the [[transition-integrity-project|Transition Integrity Project]], Baker — former FBI general counsel and a central figure in the original Twitter Files — led the National Task Force on Election Crises as part of the project's 2020 election work.[4]
 
+
+## Carlyle and Kuwait
+
+"Profiting From War" quotes the [[los-angeles-times|Los Angeles Times]] describing Baker as one of the ex-officials, alongside former Defense Secretary Frank C. Carlucci, whose leadership gave the [[carlyle-group|Carlyle Group]] its specialty in buying defense companies and multiplying their value.[5] [[george-hw-bush|George H.W. Bush]] joined the firm in 1993 as investor, Asia Advisory Board member and rainmaker, attracting twelve wealthy Saudi families including the Bin Ladens.[5] Baker remained a Carlyle senior counselor after Bush's retirement in October 2003, having lobbied U.S. allies to forgive Iraq's debt.[5] The article also places Baker on the 1993 trip to [[kuwait|Kuwait]] with the former president, Barbara Bush, [[neil-bush|Neil]] and [[marvin-bush|Marvin Bush]].[5]
+
 ## References
 1. Badlands Brief — "A Family Affair", URL: https://badlands.substack.com/p/a-family-affair
 2. Badlands Brief — "Cartels, Crucibles, & Convictions", URL: https://badlands.substack.com/p/badlands-news-brief-144
 3. Badlands News Brief — "Pre-Dawn Raids, Russiagate Racketeering, & Real-Time Adverse Reporting", URL: https://badlands.substack.com/p/badlands-news-brief-32d
 4.  Badlands Media — "Badlands News Brief: Biden Crime Cascade, Woke Collapse & Establishment Panic", URL: https://badlands.substack.com/p/badlands-news-brief-617
+5. Badlands Brief — "Profiting From War", URL: https://badlands.substack.com/p/profiting-from-war

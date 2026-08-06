@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [politics, tech, education, culture]
-sources: [raw/a-new-hollywood.md, raw/badlands-brief-6fd.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-53d.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-ac1.md, raw/badlands-news-brief-ae3.md, raw/badlands-news-brief-c18.md, raw/badlands-news-brief-c74.md, raw/badlands-news-brief-d5c.md, raw/badlands-news-brief-d68.md, raw/badlands-news-brief-f1d.md, raw/badlands-news-brief-f9f.md, raw/believe-half-of-what-you-see.md]
+sources: [raw/a-new-hollywood.md, raw/badlands-brief-6fd.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-53d.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-ac1.md, raw/badlands-news-brief-ae3.md, raw/badlands-news-brief-c18.md, raw/badlands-news-brief-c74.md, raw/badlands-news-brief-d5c.md, raw/badlands-news-brief-d68.md, raw/badlands-news-brief-f1d.md, raw/badlands-news-brief-f9f.md, raw/believe-half-of-what-you-see.md, raw/nikki-haley-establishment-gops-last.md, raw/poisoning-the-well.md]
 confidence: low
 ---
 
@@ -109,3 +109,19 @@ In the November 2023 essay "Believe Half of What You See," [[erik-carlson|Erik C
 15. Badlands Brief — "Badlands News Brief: Illegal Abortionists, Vendor Rebrands, & The End of War", URL: https://badlands.substack.com/p/badlands-news-brief-f1d
 16. Badlands Brief — "Badlands News Brief: Trump Trolls, Tucker Trends & Ukraine Rages", URL: https://badlands.substack.com/p/badlands-news-brief-f9f
 17. Badlands Brief — "Believe Half of What You See", URL: https://badlands.substack.com/p/believe-half-of-what-you-see
+
+## Treatment at the third 2023 debate
+
+[[ryan-delarme|Ryan DeLarme]] wrote that during the [[2023-third-republican-debate|third Republican debate]] of November 2023 the audience — largely composed of donor-class representatives — greeted Ramaswamy with "bitter contempt" while applauding [[nikki-haley|Nikki Haley]], a contrast he read as evidence that the debates function as a contest for donor approval rather than voter approval.[18] DeLarme also credited Ramaswamy with repeatedly calling attention to Haley's seat on the board of [[boeing|Boeing]], one of the primary arms manufacturers sustaining the perpetual war economy.[18] He noted that Haley's polling was nonetheless notable relative to Ramaswamy's and to that of [[chris-christie|Chris Christie]], though all remained far behind [[donald-trump|Donald Trump]].[18]
+
+18. Badlands Brief — "Nikki Haley: The Establishment GOP's Last Hope", URL: https://badlands.substack.com/p/nikki-haley-establishment-gops-last
+
+## The pre-Iowa feud and Carlson's reading
+
+[[erik-carlson|Erik Carlson]] used Ramaswamy as his central worked example in the January 26, 2024 essay "Poisoning the Well."[19] He recorded that a narrative had recently emerged casting Ramaswamy as a traitor turning on [[donald-trump|Donald Trump]] — easy enough to believe given Trump's statement that Ramaswamy "isn't MAGA," Ramaswamy's Big Pharma background, and the argument that no genuine ally would run against Trump at all.[19] Carlson noted that this last framing implies that everyone running against Trump, [[robert-f-kennedy-jr|RFK Jr.]] included, is a traitor — unless certain figures are playing assigned parts in a scripted sequence.[19]
+
+Arguing the case that Ramaswamy was in fact Deep State, Carlson observed that after Trump's 2016 and 2020 performances the opposition had learned what Americans want in a leader, and that if Trump cannot be defeated head-to-head the logical countermove is to manufacture a candidate who says everything Trump says with less baggage while remaining under Cabal control.[19] Arguing the case against, he asked why Trump waited until the day before the [[2024-iowa-caucus|Iowa Primary]] to criticise Ramaswamy rather than doing so six to twelve months earlier, concluding that Ramaswamy was either a willing or an unwilling participant in Trump's plan — a question he applied equally to [[ron-desantis|Ron DeSantis]] and RFK Jr.[19]
+
+Ramaswamy's withdrawal after the first primary, his full endorsement of Trump, and Trump's warm remarks about working together afterward created for Carlson "a heavy lean toward Vivek having been working with Trump the whole time."[19] He noted that commentators who had called Ramaswamy a "snake" felt vindicated by the one-day feud and then, after the reconciliation, pivoted to reading a "weird look" from Trump as continued distrust — behaviour Carlson identified as [[confirmation-bias|confirmation bias]] and self-validation.[19] The episode also served as his illustration of the 48-hour rule, since the feud resolved well within that window; and he concluded that the truth of the Trump–Ramaswamy relationship does not finally matter, because "Vivek is saying to vote for Trump."[19]
+
+19. Badlands Brief — "Poisoning the Well", URL: https://badlands.substack.com/p/poisoning-the-well

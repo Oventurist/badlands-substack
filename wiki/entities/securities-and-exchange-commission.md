@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [regulator, sec, trump-media, dwac]
-sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-d73.md, raw/badlands-news-brief-e79.md, raw/badlands-news-brief-f94.md, raw/control-through-language.md, raw/did-israel-possess-foreknowledge.md, raw/is-jamie-dimon-directing-the-priorities.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-d73.md, raw/badlands-news-brief-e79.md, raw/badlands-news-brief-f94.md, raw/control-through-language.md, raw/did-israel-possess-foreknowledge.md, raw/is-jamie-dimon-directing-the-priorities.md, raw/no-honor-among-thieves.md, raw/one-of-the-most-transformative-moments.md]
 confidence: low
 ---
 
@@ -107,3 +107,15 @@ On October 5, 2023, the SEC sued [[elon-musk|Elon Musk]] in the Northern Distric
 In a Bloomberg interview published May 11, 2023, [[jpmorgan-chase|JPMorgan Chase]] chief executive [[jamie-dimon|Jamie Dimon]] said the SEC "has the enforcement capability to look at what people are doing by name in options, derivatives, short sales," and that such actors "should be punished to the full extent the law allows it."[16] Dimon acknowledged that his own team had concluded [[short-selling|short sellers]] were not the primary driver of the [[2023-banking-crisis|2023 banking crisis]], but urged the commission to enforce existing regulations against anyone engaged in "wrong practices," collusion, or the spreading of false information about banks.[16] Badlands contributor [[ashe-in-america|Ashe in America]] argued that this amounted to a demand for enforcement against potential rather than proven wrongdoing, and questioned whether "wrong practices" was a legal standard at all.[16]
 
 16. Badlands Brief — "Is Jamie Dimon a Prophet?", URL: https://badlands.substack.com/p/is-jamie-dimon-directing-the-priorities
+
+## Allegations over the DWAC–Trump Media merger
+
+Badlands contributor [[erik-carlson|Erik Carlson]] argued in May 2024 that the SEC, as the regulator of Wall Street, is "as corrupt as anyone they regulate," drawing an explicit parallel to the [[food-and-drug-administration|FDA]]'s relationship with the pharmaceutical industry.[17] He charged that the commission dragged its feet for more than two years before finally permitting the merger of [[digital-world-acquisition-corp|Digital World Acquisition Corp]] with [[trump-media-and-technology-group|Trump Media]], a delay that both suppressed the share price and kept [[donald-trump|Donald Trump]] from accessing billions of dollars.[17] Carlson nonetheless read the timing as favourable, since the funds arrived seven to eight months before the [[2024-us-general-election|2024 election]] rather than two years earlier.[17]
+
+17. Badlands Brief — "No Honor Among Thieves", URL: https://badlands.substack.com/p/no-honor-among-thieves
+
+## Position on investor fraud recovery (2023)
+
+Badlands Media's May 2023 examination of cryptocurrency fraud invoked the SEC's enforcement framework, noting that in financial services deliberately misleading investors violates [[securities-exchange-act-of-1934|Section 10(b) of the Securities Exchange Act of 1934]] and citing the commission's statement that "victims in these cases have the right to recover their investment losses they suffered as a result of the fraud."[18] The article applied that standard to the [[saitama-token|Saitama Token]] affair, in which developers advertised a [[fair-launch|fair launch]] while reserving undisclosed team tokens, and observed that as of publication no accountability or recovery had followed.[18] It also framed reliance on the SEC as a dilemma for the [[decentralized-finance|DeFi]] community, since enforcement necessarily means government intervention in a sector premised on decentralization.[18]
+
+18. Badlands Brief — "One of the Most Transformative Moments in Money Since Jekyll Island", URL: https://badlands.substack.com/p/one-of-the-most-transformative-moments

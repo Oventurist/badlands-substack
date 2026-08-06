@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [el-salvador, immigration, deportation, latin-america]
-sources: [raw/badlands-news-brief-426.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-adc.md]
+sources: [raw/badlands-news-brief-426.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-adc.md, raw/one-of-the-most-transformative-moments.md]
 confidence: medium
 ---
 
@@ -36,9 +36,16 @@ The same commentary revisited the public dispute in which Trump criticized Bukel
 
 In June 2024 Badlands commentary described El Salvador as the smallest nation on the American mainland — situated solely on the Pacific coast of Central America and therefore not a Caribbean state — yet one that "casts a pretty big shadow," citing the guest list at [[nayib-bukele|Nayib Bukele]]'s presidential inauguration.[4] The country was noted for getting along very well with [[vladimir-putin|Vladimir Putin]], and was placed alongside the Russian naval deployment to the Caribbean in a broader account of maneuver warfare and multipolar realignment.[4]
 
+## Bitcoin as legal tender
+
+In September 2021 El Salvador became the first country to make [[bitcoin|Bitcoin]] legal tender and to require businesses to accept it.[5] In January 2022 the [[international-monetary-fund|IMF]] Executive Board "urged the authorities to narrow the scope of the Bitcoin law by removing bitcoin's legal tender status," and called for stricter regulation of the country's wallet, according to a Reuters report on the Fund's yearly consultation.[5]
+
+In contrast to [[argentina|Argentina]], which accepted an IMF bailout carrying an anti-cryptocurrency clause, El Salvador defied the Fund and, despite a whole-of-institution pressure campaign warning of the risks, Badlands Media reported the country to be thriving.[5] When news of Argentina's bailout hit on April 24, 2023, Salvadoran Bitcoiners took a victory lap, noting that "a year ago, the IMF told El Salvador to stop using bitcoin and focus on fiat debt slavery. Yet it is Argentina that is defaulting today, while El Salvador paid off its bonds."[5] The article held up the Salvadoran example as a path the United States could take to unwind its economy from the private central banks.[5]
+
 ## References
 
 1. Badlands Brief — "The Fantasy Team & The Gaza Purchase", URL: https://badlands.substack.com/p/badlands-news-brief-426
 2. Badlands Brief — "Russia, the MSM and El Salvador Call Out Joe Biden", URL: https://badlands.substack.com/p/badlands-news-brief-6b1
 3. Badlands Brief — "Badlands News Brief: Escalation, Litigation & Sovereign Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a3c
 4. Badlands Brief — "Badlands News Brief: Globalists Panic as Populism Takes Over the Zeitgeist", URL: https://badlands.substack.com/p/badlands-news-brief-adc
+5. Badlands Brief — "One of the Most Transformative Moments in Money Since Jekyll Island", URL: https://badlands.substack.com/p/one-of-the-most-transformative-moments

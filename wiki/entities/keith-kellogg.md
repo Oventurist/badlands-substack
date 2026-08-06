@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [trump-administration, ukraine, diplomacy, envoy]
-sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-688.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-9ba.md, raw/badlands-news-brief-a9a.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-c44.md]
+sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-688.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-9ba.md, raw/badlands-news-brief-a9a.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-c44.md, raw/q-for-dummies-chapter-18.md]
 confidence: medium
 ---
 
@@ -69,6 +69,11 @@ In April 2025 the Wall Street Journal reported that Kellogg, along with Secretar
 
 Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] reported that Kellogg was said to be upset that Witkoff had been brought in to replace him in the negotiations with Russia, one of several grievances within the administration alongside those attributed to Rubio, National Security Advisor [[mike-waltz|Mike Waltz]] and Ambassador [[mike-huckabee|Mike Huckabee]].[8] He argued that Witkoff's businessman pragmatism was jarring to career officials accustomed to prolonging conflicts, and that Trump had deliberately assembled these rival figures.[8]
 
+
+## Remarks on the Socratic method
+
+Chapter 18 of the [[q-for-dummies|Q for Dummies]] series notes that Kellogg had recently spoken publicly about the Socratic method, and points readers to a Devolution Power Hour clip explaining his remarks.[9] The author finds it significant that the question-driven technique used throughout the Q drops to engage and awaken readers is the same method now being discussed openly by figures such as Kellogg and [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]].[9]
+
 ## References
 1. Badlands Brief — "A Meddling Musk & Sanctions for Soros", URL: https://badlands.substack.com/p/badlands-news-brief-048
 2. Badlands Brief — "Preemptive Pardons, Syrian Sanctions, & Preparations for Putin", URL: https://badlands.substack.com/p/badlands-news-brief-09e
@@ -78,3 +83,4 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] repor
 6. Badlands Brief - "Proxy Wars & The Prevention of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a9a
 7. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
 8. Badlands Brief — "Badlands News Brief: A British TERF Triumph & A Senator Snubbed in El Salvador", URL: https://badlands.substack.com/p/badlands-news-brief-c44
+9. Badlands Brief — "Q for Dummies - Chapter 18", URL: https://badlands.substack.com/p/q-for-dummies-chapter-18

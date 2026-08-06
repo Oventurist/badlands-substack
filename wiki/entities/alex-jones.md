@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, censorship, infowars, x, free-speech]
-sources: [raw/badlands-news-brief-220.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-4ee.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-b5a.md, raw/badlands-news-brief-c9d.md, raw/badlands-news-brief-ec8.md]
+sources: [raw/badlands-news-brief-220.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-4ee.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-b5a.md, raw/badlands-news-brief-c9d.md, raw/badlands-news-brief-ec8.md, raw/poisoning-the-well.md]
 confidence: high
 ---
 
@@ -63,3 +63,9 @@ In late December 2025 Jones escalated his public battle with [[candace-owens|Can
 6. Badlands Brief — "An Embattled Media, Mysterious Outages & Gay History", URL: https://badlands.substack.com/p/badlands-news-brief-b5a
 7. Badlands Brief — "Biden Wanders, Putin Ponders & Ukraine Launders", URL: https://badlands.substack.com/p/badlands-news-brief-c9d
 8. Badlands Brief — "Badlands News Brief: Mandate Cultivation, Uppity Government, & the Dawn of Mam", URL: https://badlands.substack.com/p/badlands-news-brief-ec8
+
+## Cited as a possible controlled-opposition case
+
+In his January 26, 2024 essay "Poisoning the Well," [[badlands-media|Badlands Media]] contributor [[erik-carlson|Erik Carlson]] named Jones, alongside [[fox-news|Fox News]], as a possible example of [[controlled-opposition|controlled opposition]] — an operation that may put out 80% truth while pushing 20% lies, or while remaining silent on the 20% it is paid not to discuss.[9] Carlson did not treat the designation as settled, writing that he had begun to wonder whether Jones's "constant flip-flopping is a part of the plan" and that in a world of agents, double agents and triple agents Jones might be "a triple agent, pretending to be controlled opposition."[9] He framed the uncertainty as a general blind spot in his community, which readily accepts that a black hat can become a grey hat working with the [[white-hats|white hats]] but rarely entertains the possibility that an influencer labelled controlled opposition had their strings cut along the way.[9]
+
+9. Badlands Brief — "Poisoning the Well", URL: https://badlands.substack.com/p/poisoning-the-well

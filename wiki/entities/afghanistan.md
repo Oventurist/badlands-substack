@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [afghanistan, taliban, state-department, detention, counterterrorism]
-sources: [raw/badlands-brief-509.md, raw/badlands-news-brief-f61.md, raw/everything-is-connected.md]
+sources: [raw/badlands-brief-509.md, raw/badlands-news-brief-f61.md, raw/everything-is-connected.md, raw/operation-cyclone-the-seeds-of-terror.md]
 confidence: low
 ---
 
@@ -26,6 +26,12 @@ The designation was presented in the March 10, 2026 [[badlands-brief|Badlands Br
 
 Badlands contributor Joe Lange places Afghanistan's poppy fields at the origin of the narcotics network he attributes to the [[central-intelligence-agency|CIA]], with [[pakistan|Pakistan]] serving as a safe haven for the traffic and for the terrorists protecting it.[3] Because [[iran|Iran]] lies geographically between the Afghan poppy fields and the West, it forms the starting point of the world's major heroin trade routes to Russia, Western Europe and the United States, with the corridor continuing through [[armenia|Armenia]] and the occupied territories of [[azerbaijan|Azerbaijan]] before reaching Europe.[3] Lange argues the 81-mile border strip recovered in the [[second-karabakh-war|Second Karabakh War]] was the gateway for that Afghan heroin into Europe, and notes that Afghanistan's removal from the global financial system, alongside Iran and [[north-korea|North Korea]], allowed the agency to operate on a cash basis inside those countries' own banking systems, beyond congressional oversight.[3]
 
+## Operation Cyclone era
+
+The Soviet Union invaded Afghanistan in December 1979, assuming military and political control of Kabul and large portions of the country, and met resistance from Afghan rebel groups formed during the chaos of the earlier communist-friendly regime of Nur Muhammad Taraki.4 The resulting [[soviet-afghan-war|war]] became the setting for [[operation-cyclone|Operation Cyclone]], the [[central-intelligence-agency|CIA]] program that channeled roughly $3 billion to the [[mujahideen]] between 1979 and 1992.4
+
+American funds also corrupted the Afghan education system: the United States spent millions supplying Afghan schoolchildren with textbooks filled with violent images and militant Islamic teachings, primers that afterward served as the school system's core curriculum and were used even by the [[taliban]].4 The country was also transformed into the world's largest supplier of [[opium-production-in-afghanistan|opium]], rising from about 100 tons annually at the start of the war to upward of 2,000 tons, roughly 80% of the global trade.4 Soviet troops began withdrawing in 1987 and the last left in early 1989.4
+
 ## References
 
 1. Badlands Brief — "Election Exposure, Energy Angst & War Rackets", URL: https://badlands.substack.com/p/badlands-brief-509
@@ -36,3 +42,4 @@ Afghanistan, which until recently produced 90% of the world's heroin, saw opium 
 
 2. Badlands Brief — "Badlands News Brief: Special Counsels, Island Fires & White Pills", URL: https://badlands.substack.com/p/badlands-news-brief-f61
 3. Badlands Brief — "Everything Is Connected", URL: https://badlands.substack.com/p/everything-is-connected
+4. Badlands Brief — "Operation Cyclone - The Seeds of Terror", URL: https://badlands.substack.com/p/operation-cyclone-the-seeds-of-terror

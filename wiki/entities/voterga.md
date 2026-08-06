@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [election-integrity, georgia, 2020-election, advocacy]
-sources: [raw/badlands-news-brief-e31.md]
+sources: [raw/badlands-news-brief-e31.md, raw/previously-sealed-report-on-dominion.md]
 confidence: medium
 ---
 
@@ -20,3 +20,8 @@ Favorito, who has sought access to Fulton's ballots through two pending lawsuits
 
 ## References
 1. Badlands News Brief — "Disagreements Among Allies & Pausing Kash for Cash", URL: https://badlands.substack.com/p/badlands-news-brief-e31
+2. Badlands Brief — "Previously *SEALED* Report on Dominion Voting Machines in Georgia Shows Critical Vulnerabilities", URL: https://badlands.substack.com/p/previously-sealed-report-on-dominion
+
+## Advocacy on Georgia voting machine vulnerabilities
+
+In June 2023, VoterGA's [[garland-favorito|Garland Favorito]] appeared on Bannon's [[war-room|War Room]] to review the newly unsealed [[halderman-report|Halderman Report]] on Georgia's [[dominion-imagecast-x|Dominion ImageCast X]] machines, arguing that the disclosed vulnerabilities could be used to alter the QR codes on printed ballots and thereby change voter selections without detection.[2] Favorito's own 2020 election lawsuit, which the Georgia Supreme Court remanded to a lower court after finding he had standing, was described at the time as one of the only such cases still alive in the country.[2]

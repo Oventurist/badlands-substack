@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [deep-state, narrative, censorship, 5gw]
-sources: [raw/5gw-counter-offensive-the-censorship.md, raw/a-startling-contradiction-at-the.md, raw/are-jack-smith-and-fani-willis-in.md, raw/are-we-being-distracted.md, raw/avoiding-wwiii.md, raw/badlands-blitz-episode-25.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-d50.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-dae.md, raw/believe-half-of-what-you-see.md, raw/biden-inc-flips.md, raw/death-to-dei.md, raw/energy-consolidation.md, raw/fake-news-until-proven-real.md, raw/generational-dependence-syndrome.md, raw/four-pillars-of-government-control.md, raw/has-trumps-whole-life-been-a-sting.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/a-startling-contradiction-at-the.md, raw/are-jack-smith-and-fani-willis-in.md, raw/are-we-being-distracted.md, raw/avoiding-wwiii.md, raw/badlands-blitz-episode-25.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-d50.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-dae.md, raw/believe-half-of-what-you-see.md, raw/biden-inc-flips.md, raw/death-to-dei.md, raw/energy-consolidation.md, raw/fake-news-until-proven-real.md, raw/generational-dependence-syndrome.md, raw/four-pillars-of-government-control.md, raw/has-trumps-whole-life-been-a-sting.md, raw/no-honor-among-thieves.md, raw/president-trumps-call-to-arms.md, raw/q-for-dummies-chapter-1.md]
 confidence: medium
 ---
 
@@ -107,6 +107,8 @@ Carlson maintained that the elites promoting these causes are themselves sexist,
 
 Historically, Carlson tied the Cabal's methods to the [[fbi|FBI]] and [[cia|CIA]] presence in the Civil Rights and [[feminist-movement|Feminist]] movements, to the [[frankfurt-school|Frankfurt School]] origins of [[political-correctness|political correctness]] and [[critical-race-theory|critical race theory]], and to the [[tavistock-institute|Tavistock Institute]] as the source of the Trans Movement.[17] He concluded that the exposure of DEI is now being used to take down the Cabal, and that "the weapons the Deep State has used to control and divide society are now being used to destroy them."[17]
 
+Closing the [[2023-trump-cpac-speech|2023 Trump CPAC speech]], [[donald-trump|Donald Trump]] pledged: "I will totally obliterate the Deep State."[24] Badlands contributor [[brad-getz|Brad Getz]] argued that Trump's public rejection of "unlimited money" for [[forever-wars|endless wars]] was itself a signal to the Deep State "that you know what it really is," since war functions as "possibly the biggest operation currently set in place to wash and re-distribute American taxpayer money."[24] Getz further contended that Trump's personal wealth had let him "traverse our Globalist Usurpers' Monetary Debt Control Matrix freely," quoting Trump's claim that his enemies "cannot steer me, they cannot shake me and they will never, ever control me and they will never ever, therefore control you."[24]
+
 ## References
 1. Badlands Brief — "5GW Counter-Offensive - The Censorship Regime and the Road to 2024", URL: https://badlands.substack.com/p/5gw-counter-offensive-the-censorship
 2. Badlands Brief — "A Startling Contradiction at the Heart of 'Our' Legal System", URL: https://badlands.substack.com/p/a-startling-contradiction-at-the
@@ -168,3 +170,24 @@ A June 15, 2024 Badlands feature by [[erik-carlson|Erik Carlson]] framed [[donal
 Carlson wrote that Trump's powerful allies must downplay their support in order to swim in "the Trump-hating, shark infested waters of the Deep State-controlled financial system," citing [[carl-icahn|Carl Icahn]] and [[nelson-peltz|Nelson Peltz]].[22] He named Trump Deep State public enemy number one and [[elon-musk|Elon Musk]] number two since the 2022 [[twitter|Twitter]] acquisition, and speculated that suppressed technologies inherited via [[john-g-trump|John G. Trump]]'s study of [[nikola-tesla|Nikola Tesla]]'s papers — advanced medicine, free energy, free internet and a new monetary system freeing people from debt servitude — are being withheld from Big Pharma, Big Energy and the military-industrial complex until the world is ready.[22]
 
 22. Badlands Brief — "Has Trump's Whole Life Been a Sting Operation?", URL: https://badlands.substack.com/p/has-trumps-whole-life-been-a-sting
+
+## "No honor among thieves" — infighting within the cabal
+
+In a May 20, 2024 essay, [[erik-carlson|Erik Carlson]] argued against the common assumption that the Deep State is a single cohesive unit moving in unison toward one-world totalitarian government.[23] While a group genuinely shares that goal and cooperates toward it, he wrote, there is also constant infighting and backstabbing, with jockeying for money and position — and throwing a fellow Deep Stater under the bus or stealing from them is an accepted part of the game.[23]
+
+Carlson illustrated the thesis with the 2024 attempt by [[boaz-weinstein|Boaz Weinstein]]'s [[saba-capital|Saba Capital]] to take over ten [[blackrock|BlackRock]] [[closed-end-fund|closed-end funds]], which he read as a hostile raid on a fellow cabal institution rather than genuine governance reform, and with the 2012 [[london-whale|London Whale]] trade in which Weinstein engineered a $6 billion loss for [[jp-morgan|JP Morgan]].[23]
+
+He also argued that the network is far smaller than it appears. Comparing it to the film *The Truman Show*, in which a few hundred actors and stagehands sustain an entire fabricated world, he wrote that a small, densely interconnected group casts a shadow far larger than its numbers — echoing [[qanon|Q]]'s claim that there are many more good people than bad.[23] The operative core, in his account, amounts to a few people atop the [[cia|CIA]] and [[fbi|FBI]], a few at the [[department-of-justice|DOJ]], a figure such as [[george-soros|George Soros]] funding politicians at federal, state and local level, and a handful inside corporations, Wall Street, the [[securities-and-exchange-commission|SEC]] and the [[food-and-drug-administration|FDA]].[23]
+
+Carlson closed by arguing that every Deep State attack on [[donald-trump|Trump]] has fallen flat or backfired, which he took as proof that counter-measures were planned years in advance and that the exposure of corruption was deliberately timed to culminate in the [[2024-us-general-election|2024 election]] year: "traps have been set," and the Patriots remain in full control.[23]
+
+23. Badlands Brief — "No Honor Among Thieves", URL: https://badlands.substack.com/p/no-honor-among-thieves
+24. Badlands Brief — "President Trump's Call to Arms", URL: https://badlands.substack.com/p/president-trumps-call-to-arms
+
+## Treatment in the first Q drops
+
+The opening [[q-operation|Q]] drops of October 2017 present the deep state as an entrenched but outmatched adversary.[25] In Chapter 1 of [[q-for-dummies|Q for Dummies]], [[paul-fleuret|Paul Fleuret]] summarizes Drops #2 and #4 as reassuring readers that no deep state player — [[hillary-clinton|Clinton]], [[george-soros|Soros]] or the Rothschilds among them — possessed more power than [[donald-trump|President Trump]].[25] He reads Drop #5's reference to [[ms-13|MS-13]] as identifying the gang as "what amounts to a hit squad for the deep state," and describes 9/11 as "the deep state's most diabolical attack on America."[25]
+
+The same drops introduce [[military-intelligence|military intelligence]] as the capability able to combat the three-letter agencies, and [[operation-mockingbird|Operation Mockingbird]] and the [[4-am-talking-points|4 AM talking points]] as the mechanism by which the network controls public narrative.[25] Fleuret closes the chapter by describing the enemy as deeply entrenched and in position for hundreds, if not thousands, of years, and the resistance as a worldwide movement of patriots.[25]
+
+25. Badlands Brief — "Q for Dummies - Chapter 1", URL: https://badlands.substack.com/p/q-for-dummies-chapter-1

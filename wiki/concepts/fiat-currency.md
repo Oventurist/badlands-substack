@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [monetary-policy, central-banking, inflation]
-sources: [raw/1913.md, raw/a-week-to-remember.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-news-brief-6b6.md]
+sources: [raw/1913.md, raw/a-week-to-remember.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-news-brief-6b6.md, raw/project-trump-card.md]
 confidence: medium
 ---
 
@@ -34,8 +34,15 @@ In February 2023 [[agustin-carstens|Agustin Carstens]], head of the [[bank-for-i
 
 [[justin-deschamps|Justin Deschamps]] responded that monetary policy is one of the few fields where a mere declaration can move an entire industry, and that the "self-declared and government endorsed international banking cartel" was repeating the strategy it used before the [[federal-reserve|Federal Reserve]] was pushed through in 1913.[4] He argued that the free-banking era functioned as a long-term psychological operation to strip public confidence in citizen-based currency systems, pointing to the debt-free and interest-free [[colonial-scrip|Colonial Scrip]] of the American colonies as a lost model of competent citizen money, and concluded that cryptocurrency represented a return to citizen-produced money that the central bankers were, for the moment, defeating.[4]
 
+## "Fiat currency is DEAD" (December 2022)
+
+In her December 2022 article on the [[trump-digital-trading-cards|Trump Digital Trading Cards]], [[badlands-media|Badlands Media]] contributor [[kitty-gillespie|Kitty Gillespie]] declared flatly that "fiat currency is DEAD," arguing the United States financial system was heading for collapse after decades of uncontrolled national debt and Federal Reserve money printing that devalued the dollar with every sheet issued.[5] She compared the expected outcome to the hyperinflation of the Weimar Republic in 1933, when a wheelbarrow of cash was needed to buy a loaf of bread.[5]
+
+Gillespie read [[donald-trump|Donald Trump]]'s remark in the NFT unveiling video that he would be "better than Lincoln, better than Washington" as monetary signalling — [[abraham-lincoln|Lincoln]] standing for U.S. coinage and [[george-washington|Washington]] for the U.S. dollar — indicating that a new currency associated with his presidency was coming.[5] She placed the replacement in the framework of asset-backed money held in [[digital-wallets|digital wallets]], as distinct from [[central-bank-digital-currency|central bank digital currency]], and linked it to the rise of [[brics|BRICS]] and the promise of [[nesara-gesara|NESARA/GESARA]].[5]
+
 ## References
 1. Badlands Brief — "1913: The Year the Cabal Enslaved America", URL: https://badlands.substack.com/p/1913
 2. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
 3. Badlands Brief — "Are CBDCs The Path To Fear, or Freedom?", URL: https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom
 4. Badlands Brief — "Badlands News Brief: The Wheels of Justice Roll On", URL: https://badlands.substack.com/p/badlands-news-brief-6b6
+5. Badlands Brief — "Project Trump Card", URL: https://badlands.substack.com/p/project-trump-card

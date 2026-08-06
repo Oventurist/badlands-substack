@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [globalism, world-economic-forum, technocracy]
-sources: [raw/a-look-at-recent-features-84d.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/ai-can-help-us-expose-the-nwo.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-news-brief-948.md, raw/dark-equation.md]
+sources: [raw/a-look-at-recent-features-84d.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/ai-can-help-us-expose-the-nwo.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-news-brief-948.md, raw/dark-equation.md, raw/oppenheimer-and-the-central-narrative.md, raw/poison-fruit-of-the-decision-tree.md]
 confidence: low
 ---
 
@@ -32,6 +32,10 @@ In his telling the dismantling of the [[debt-slavery|global debt slavery system]
 
 Commenting on the [[daily-wire|Daily Wire]] and [[the-federalist|Federalist]] lawsuit against the [[state-department|State Department]], Badlands writer [[ashe-in-america|Ashe in America]] argued that the purpose of the government's censorship apparatus was "the managed decline of America with the intent of removing the remaining barrier obstructing the Great Reset to the New World Order," which she characterized as treason.[5]
 
+## Great Reset as the resolution of competing decision rights
+
+In her July 2023 review of Christopher Nolan's *Oppenheimer*, Badlands contributor [[ashe-in-america|Ashe in America]] framed the Great Reset as the mechanism by which the conflict between national and global decision rights is to be resolved en route to the [[new-world-order|New World Order]].[7] Because governance is about decision rights and [[global-governance|global governance]] is about global decision rights, national interests and autonomy become barriers to be overcome — and the film, she argued, moves the needle by painting the nuclear threat as an imperative worth sacrificing national and individual liberty for.[7]
+
 ## References
 1. Badlands Brief — "A Look At Recent Features", URL: https://badlands.substack.com/p/a-look-at-recent-features-84d
 2. Badlands Brief — "A Gateway to a New World of Cooperation", URL: https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation
@@ -44,3 +48,10 @@ Commenting on the [[daily-wire|Daily Wire]] and [[the-federalist|Federalist]] la
 In the Badlands Media article "Dark Equation," [[ryan-delarme|Ryan DeLarme]] characterized [[sam-altman|Sam Altman]]'s [[worldcoin|Worldcoin]] iris-scanning cryptocurrency project as "a repackaging of the same old Great Reset / [[fourth-industrial-revolution|fourth industrial revolution]] malarky we've been hearing come out of Davos for years now."[6] Although the venture was marketed as a way to offset the disruption artificial intelligence was expected to cause, DeLarme read it as a step in a broader push by the United Nations, the [[world-economic-forum|World Economic Forum]] and a growing number of governments toward a global biometric identification system tied to a [[central-bank-digital-currency|central bank digital currency]].[6]
 
 6. Badlands Brief — "Dark Equation", URL: https://badlands.substack.com/p/dark-equation
+7. Badlands Brief — "'Oppenheimer' & The Central Narrative", URL: https://badlands.substack.com/p/oppenheimer-and-the-central-narrative
+
+## Relation to the fourth industrial revolution
+
+In "Poison Fruit of the Decision Tree," [[justin-deschamps|Justin Deschamps]] described the Great Reset initiative as looming on the horizon, an event in which the world's economic framework is rebooted and [[central-bank-digital-currency|central bank digital currencies]] become the new standard.[8] He wrote that this revolution rests upon the [[fourth-industrial-revolution|fourth industrial revolution]] concept popularized by [[klaus-schwab|Klaus Schwab]] of the [[world-economic-forum|World Economic Forum]], and framed the [[artificial-intelligence|artificial intelligence]] agenda item at the May 2023 [[bilderberg|Bilderberg]] meeting as timely for the globalists pursuing it.[8]
+
+8. Badlands Brief — "Poison Fruit of the Decision Tree", URL: https://badlands.substack.com/p/poison-fruit-of-the-decision-tree

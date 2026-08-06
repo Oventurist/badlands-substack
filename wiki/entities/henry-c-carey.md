@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [economics, american-system, anti-malthusian, history]
-sources: [raw/combating-the-transhumanist-religion.md, raw/in-defense-of-alexander-hamilton.md, raw/in-defense-of-abraham-lincoln-and.md]
+sources: [raw/combating-the-transhumanist-religion.md, raw/in-defense-of-alexander-hamilton.md, raw/in-defense-of-abraham-lincoln-and.md, raw/on-ted-kaczynski-and-false-prophets.md]
 confidence: medium
 ---
 
@@ -36,7 +36,16 @@ In the Badlands Media "Founders & Foundations" series, Carey is presented alongs
 
 In his 1865 essay *How to Outdo England Without Fighting Her*, Carey, identified as Lincoln's economic advisor, wrote that "the 'greenback' has fallen on the country as the dew falls, bringing with it good to all and doing injury to none."[3] The remark is cited by Ehret in defense of the [[greenbacks|greenback]] currency issued during the [[american-civil-war|Civil War]] and against the postwar campaign for gold-based "honest money" that culminated in the [[specie-resumption-act|Specie Resumption Act]].[3]
 
+## The two systems
+
+In *The Harmony of Interests*, Carey outlined a concept of world systems locating value in the power of creation of each individual citizen and each individual nation state, in opposition to what Ehret calls the rapacious British System.[4] Carey wrote that "two systems are before the world": one looking to increase the proportion of persons and capital engaged in trade and transportation and therefore diminishing the proportion producing commodities, with diminished return to the labour of all; the other looking to increase the proportion engaged in production, "giving the labourer good wages, and to the owner of capital good profits."[4] One, he wrote, "looks to underworking the Hindoo, and sinking the rest of the world to his level; the other to raising the standard of man throughout the world to our level. One looks towards universal war; the other towards universal peace… One is the English system; the other we may be proud to call the American system."[4]
+
+In the Lincoln–Carey system of American Constitutional economics, every nation had the obligation to supply its own vital needs through protectionism, regulation and national banking, as seen in Lincoln's [[greenbacks|greenbacks]]; internal improvements driven by new discoveries and large-scale infrastructure would allow humanity to create more energy than the system consumed, leaping over the limits to growth.[4]
+
+Carey attacked [[thomas-malthus|Malthus]] by name, writing: "Of all contrivances for crushing out all Christian feeling and for developing self-worship, that the world yet has seen, there has been none entitled to claim so high a rank as that which has been, and yet daily is, assigned to the Malthusian Law of Population."[4] Ehret sets this heritage against the [[morges-manifesto|Morges Manifesto]] of 1961 and the [[malthusianism|Malthusian]] ecology movement it founded.[4]
+
 ## References
 1. Badlands Brief — "Combating the Transhumanist Religion", URL: https://badlands.substack.com/p/combating-the-transhumanist-religion
 2. Badlands Brief — "In Defense of Alexander Hamilton", URL: https://badlands.substack.com/p/in-defense-of-alexander-hamilton
 3. Badlands Brief — "In Defense of Abraham Lincoln and the Greenbacks", URL: https://badlands.substack.com/p/in-defense-of-abraham-lincoln-and
+4. Badlands Brief — "On Ted Kaczynski and False Prophets", URL: https://badlands.substack.com/p/on-ted-kaczynski-and-false-prophets

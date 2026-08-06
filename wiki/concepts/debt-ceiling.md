@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [fiscal-policy, congress, debt, spending]
-sources: [raw/badlands-news-brief-24e.md, raw/badlands-news-brief-f26.md]
+sources: [raw/badlands-news-brief-24e.md, raw/badlands-news-brief-f26.md, raw/nobel-winning-economist-revives-2013s.md]
 confidence: medium
 ---
 
@@ -28,6 +28,11 @@ On 26 April 2023 House Republicans narrowly passed a bill to raise the debt ceil
 
 Badlands contributor [[jon-herold|Jon Herold]] wrote that the showdown would have major implications for the financial collapse the team had been discussing for months, describing the parties as at a stalemate and warning that failure to agree would deal the "already shaky economy" a potential death blow.[2]
 
+## The trillion-dollar coin workaround
+
+Successive debt ceiling standoffs have generated proposals to bypass the limit altogether, the most prominent being the [[trillion-dollar-coin|trillion-dollar coin]] — the suggestion that the Treasury use its platinum coinage authority to mint a coin denominated at $1 trillion and deposit it with the [[federal-reserve|Federal Reserve]], funding government operations without incurring new debt.[3] The idea originated on finance blogs in the summer of 2011 as a way for Treasury Secretary Timothy Geithner to avert the ceiling, gained mainstream traction during the 2013 standoff, and was revived in May 2023 by economist [[paul-krugman|Paul Krugman]], who claimed it would not be inflationary.[3] A December 2012 [[business-insider|Business Insider]] endorsement argued it was "even crazier to think that the U.S. would default arbitrarily just because of a dumb law" — the "dumb law" in question being the debt ceiling itself.[3] Treasury Secretary [[janet-yellen|Janet Yellen]] rejected the maneuver as a "gimmick" in January 2023, noting the Fed is under no obligation to accept such a coin.[3]
+
 ## References
 1. Badlands News Brief — "Shutdown Looms as Game Theory Plays Out", URL: https://badlands.substack.com/p/badlands-news-brief-24e
 2. Badlands Brief — "Badlands News Brief: Debt Limits, Counter Offensives & Winning Signs", URL: https://badlands.substack.com/p/badlands-news-brief-f26
+3. Badlands Brief — "Nobel-Winning Economist Revives 2013's Ridiculous 'Platinum Trill'", URL: https://badlands.substack.com/p/nobel-winning-economist-revives-2013s

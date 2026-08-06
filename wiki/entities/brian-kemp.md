@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [georgia, 2020-election, election-integrity, governor]
-sources: [raw/badlands-brief-990.md, raw/grand-jury-testimony-from-senator.md]
+sources: [raw/badlands-brief-990.md, raw/grand-jury-testimony-from-senator.md, raw/previously-sealed-report-on-dominion.md]
 confidence: medium
 ---
 
@@ -32,3 +32,8 @@ Badlands Media reported that Reynolds was the third Georgia official connected t
 
 1. Badlands Brief — "Secret Seizures, Sovereign Signals, & Unnamed Somalis Close to the Matter", URL: https://badlands.substack.com/p/badlands-brief-990
 2. Badlands Brief — "Grand Jury Testimony From Senator David Perdue Suggests Gov. Brian Kemp Halted Investigation Into 2020 Election", URL: https://badlands.substack.com/p/grand-jury-testimony-from-senator
+3. Badlands Brief — "Previously *SEALED* Report on Dominion Voting Machines in Georgia Shows Critical Vulnerabilities", URL: https://badlands.substack.com/p/previously-sealed-report-on-dominion
+
+## Tenure as Secretary of State and the Diebold machines
+
+Kemp served as Georgia Secretary of State from 2010 to 2018 before becoming governor.[3] In 2017, during his tenure, the [[curling-v-raffensperger|Curling v. Raffensperger]] lawsuit was filed over concerns with the [[diebold-election-systems|Diebold]] paperless touchscreen voting machines then used in Georgia.[3] Although a source code review co-authored by [[j-alex-halderman|Dr. J. Alex Halderman]] had led California to de-certify the same equipment, Georgia continued to use the machines for another decade, until the end of 2019, "without even patching the security flaws."[3] Badlands compared Kemp's handling of the issue to Secretary of State [[brad-raffensperger|Brad Raffensperger]]'s later decision to defer [[dominion-voting-systems|Dominion]] software updates until after the 2024 presidential election.[3]

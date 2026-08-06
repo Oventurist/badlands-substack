@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [moldova, russia, breakaway-region, eastern-europe]
-sources: [raw/badlands-news-brief-533.md]
+sources: [raw/badlands-news-brief-533.md, raw/oligarchism-and-the-great-game.md]
 confidence: medium
 ---
 
@@ -24,6 +24,13 @@ Badlands writer [[burning-bright|Burning Bright]] argued that the plea Transnist
 
 Burning Bright found it most notable that globalist institutions appeared to anticipate the sequence, having warned EU citizens of Russia's inevitable "invasion" of Moldova as far back as 2022.[1] He also observed that the Council of Europe formally "upgraded the status" of Transnistria in 2023 from territory "under the effective control of the Russian Federation" to "Russian-occupied territory," and summarized the affair with the Hegelian formula "Problem > Reaction ..."[1]
 
+## Strategic position and the 2025 Moldovan elections
+
+Transnistria is described as an incredibly strategic Russian autonomous province held as a protectorate, forming a thin strip that separates [[moldova|Moldova]] from Ukraine and occupied by roughly 1,500 Russian soldiers.[2] Its position makes Moldova a potential cauldron of war within NATO's broader effort to open additional fronts against Russia.[2]
+
+During the September 2025 Moldovan elections, analyst Lorenzo Maria Pacini reported that only 12 polling stations were set up in Transnistria instead of the 30 planned — four of which were moved further into Moldova on the day of the vote — while seven bridges connecting the Transnistrian Moldovan Republic to the right bank of the river were closed to prevent voters from reaching them.[2] As a result only about 12,000 of roughly 200,000 eligible voters in the region cast ballots, a suppression the author counts among the undemocratic practices that returned [[maia-sandu|Maia Sandu]]'s [[party-of-action-and-solidarity|Party of Action and Solidarity]] to power.[2]
+
 ## References
 
 1. Badlands News Brief — "A Presidential Border Bash and Russophobia End the News Week", URL: https://badlands.substack.com/p/badlands-news-brief-533
+2. Badlands Brief — "Oligarchism and the Great Game", URL: https://badlands.substack.com/p/oligarchism-and-the-great-game

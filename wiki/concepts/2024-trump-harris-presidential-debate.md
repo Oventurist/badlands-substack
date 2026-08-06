@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [2024-election, debates, abc-news, donald-trump, kamala-harris]
-sources: [raw/badlands-news-brief-441.md, raw/badlands-news-brief-ea6.md]
+sources: [raw/badlands-news-brief-441.md, raw/badlands-news-brief-ea6.md, raw/q-for-dummies-chapter-19.md]
 confidence: medium
 ---
 
@@ -30,6 +30,13 @@ Burning Bright added that he remained far from certain Harris would be on any ti
 
 Trump, for his part, went through the greatest hits of the 2024 campaign, which mirror those of 2020 and 2016; Badlands conceded this does not win voters with Trump Derangement Syndrome but argued it presents the one thing the Establishment cannot — consistency of presence, of vision, and of principles.[2] The framing concluded that "it's all about the story," that Trump has told the same one since before he came down the golden escalator, and that "you can't win a War of Stories with a story AGAINST ... you must have a story FOR."[2]
 
+## Assessment in Q for Dummies Chapter 19
+
+Chapter 19 of the [[q-for-dummies|Q for Dummies]] series, published four days after the debate, rejects the widespread claim that [[donald-trump|Trump]] lost or that [[kamala-harris|Kamala Harris]] got the better of him.[3] The author argues that Harris effectively admitted she is comfortable with third-trimester abortion and "tripled down" on every hoax ever generated about Trump, while [[abc-news|ABC]] fact-checked Trump at every turn and left her own easily disprovable claims unchallenged.[3] He characterises the encounter as three against one and credits Trump with staying on target and on message despite those odds, predicting that the "boomerang" from the debate had only just begun.[3]
+
+The chapter also reproduces a graphic — credited to RevDQ — arguing that Q Drop 4657 foretold the exact scenario witnessed, including an alleged earpiece and other advantages held by Harris, and says only time will tell what will come of them.[3]
+
 ## References
 1. Badlands News Brief — "Kamala Takes the Cheese as Things Get Weird Out East", URL: https://badlands.substack.com/p/badlands-news-brief-441
 2. Badlands Brief — "Badlands News Brief: Trump-a-Mania Rages On, Brother!", raw/badlands-news-brief-ea6.md
+3. Badlands Brief — "Q for Dummies - Chapter 19", URL: https://badlands.substack.com/p/q-for-dummies-chapter-19

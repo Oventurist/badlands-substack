@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [plutocrats, philanthropy, canada, green-agenda]
-sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8f3.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a6e.md, raw/badlands-news-brief-d36.md, raw/badlands-news-brief-d68.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-e86.md, raw/badlands-news-brief-f44.md, raw/badlands-news-brief-fde.md, raw/get-woke-go-broke.md, raw/george-soros-shadow-network.md, raw/george-soros-a-british-creation.md, raw/is-the-censorship-war-over.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8f3.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a6e.md, raw/badlands-news-brief-d36.md, raw/badlands-news-brief-d68.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-e86.md, raw/badlands-news-brief-f44.md, raw/badlands-news-brief-fde.md, raw/get-woke-go-broke.md, raw/george-soros-shadow-network.md, raw/george-soros-a-british-creation.md, raw/is-the-censorship-war-over.md, raw/power-to-the-people.md, raw/q-for-dummies-chapter-12.md, raw/q-for-dummies-chapter-1.md, raw/q-for-dummies-chapter-19.md, raw/q-for-dummies-chapter-2.md]
 confidence: low
 ---
 
@@ -124,6 +124,15 @@ In its commentary on the August 2024 riots in Britain, Badlands Media attributed
 
 [[erik-carlson|Erik Carlson]] wrote in April 2023 that Soros-run and Soros-funded organizations such as the Human Rights Campaign create corporate credit scores "kind of like the CCP" and force corporations to comply or face the wrath of those politically motivated groups.[26] In his account, a company that does not toe the Soros line is barred from the funds of investment giants including [[blackrock|BlackRock]], [[vanguard-group|Vanguard]] and [[state-street|State Street]], making Soros-linked NGOs the enforcement arm of the [[esg|ESG]] system.[26]
 
+## Named in Badlands commentary on accountability
+
+Badlands Media contributor [[pepe-lives-matter|Pepe Lives Matter]] named Soros alongside [[hillary-clinton|Clinton]] and [[barack-obama|Obama]] in an October 2022 essay as among the "high-level players" he held complicit in treason, and framed them as the true targets of accountability rather than the low-level defendants actually prosecuted.[30]
+
+
+## Q for Dummies Chapter 12
+
+Chapter 12 of the [[q-for-dummies|Q for Dummies]] series notes that in drop #94 Q asked where Soros fits in and immediately followed with a reference to Godfather III.[31] The author reads this, in keeping with Q's habit of double meanings, as identifying Soros as [[hillary-clinton|Hillary Clinton]]'s "Godfather" — while observing that in that film the family falls.[31]
+
 ## References
 1. Badlands Brief — "A Re-Alignment of World Systems", URL: https://badlands.substack.com/p/a-re-alignment-of-world-systems
 2. Badlands News Brief — "Lake Lasts, Biden Slumps & Powell Blinks", URL: https://badlands.substack.com/p/badlands-news-brief-050
@@ -141,6 +150,7 @@ In its commentary on the August 2024 riots in Britain, Badlands Media attributed
 14. Badlands Brief — "Badlands News Brief: Trump Trolls, Soros Slithers & Flags Fly", URL: https://badlands.substack.com/p/badlands-news-brief-93d
 15. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
 16. Badlands Brief — "Badlands News Brief: A Fiery Fani, a Plotting Putin & a Bumbling Biden Walk into a Bar", URL: https://badlands.substack.com/p/badlands-news-brief-a6e
+34. Badlands Brief — "Q for Dummies - Chapter 2", URL: https://badlands.substack.com/p/q-for-dummies-chapter-2
 
 ## Funding of the 2024 campus anti-Israel protests
 
@@ -218,3 +228,23 @@ Carlson concludes that Soros and those connected to him manipulate financial mar
 In April 2025 Badlands Media reported that Soros' [[open-society-foundations|Open Society Foundations]], together with the [[tides-foundation|Tides Foundation]] and the [[rockefeller-brothers-fund|Rockefeller Brothers Fund]], funded [[jewish-voice-for-peace|Jewish Voice for Peace]] and other NGOs organizing pro-Palestine campus protests.[29] Contributor [[ryan-delarme|Ryan DeLarme]] wrote that this meant the protests bore "CIA fingerprints," and that the Open Society Foundation and its spin-offs work directly with NATO — a link he said conservative media declines to mention.[29] The stated purpose, in his reading, was a domestic one: assembling a "rent-a-riot mob" for future use, following the [[gene-sharp|Gene Sharp]] [[color-revolution|color revolution]] playbook.[29]
 
 29. Badlands Brief — "Is the Censorship War Over?", URL: https://badlands.substack.com/p/is-the-censorship-war-over
+30. Badlands Brief — "Power to the People", URL: https://badlands.substack.com/p/power-to-the-people
+31. Badlands Media — "Q for Dummies - Chapter 12", URL: https://badlands.substack.com/p/q-for-dummies-chapter-12
+
+## Fund transfers in the first Q drops
+
+Soros appears in the earliest [[q-operation|Q]] drops of October 2017. Drop #2 asks why Soros would be donating so much of his fortune, a question [[paul-fleuret|Paul Fleuret]] reads in Chapter 1 of [[q-for-dummies|Q for Dummies]] as pointing to the possibility that he was not donating at all but having his assets seized.[32] Drop #5 returns to the same conduct, noting that Soros was at that time offloading large sums to his various non-profits.[32]
+
+Fleuret treats the transfers as either a seizure or an attempt to move money beyond the reach of seizure, calling the move random and odd and referring to Soros derisively as "Mr. Ballsack Eyes."[32] Drop #4 reiterates that the belief that Soros, [[hillary-clinton|Clinton]], the Rothschilds and their associates held more power than [[donald-trump|President Trump]] was, in Fleuret's phrase, "a complete pipe dream."[32]
+
+32. Badlands Brief — "Q for Dummies - Chapter 1", URL: https://badlands.substack.com/p/q-for-dummies-chapter-1
+
+## Chapter 19: election machinery and secretaries of state
+
+Chapter 19 of the [[q-for-dummies|Q for Dummies]] series names Soros as the answer to Q Drop #121's question about who stands behind the manipulation of American elections.[33] Taking up Q's follow-up question of who decides which voting machines are used in each state, the author answers that the choice belongs to each state's secretary of state, and urges readers to research how many secretaries of state are Democrats and how many were funded by Soros or are Soros affiliates, citing Colorado's [[jena-griswold|Jena Griswold]] as a good example.[33] The chapter adds that some counties still hand-count ballots because they are controlled by patriots and therefore run clean elections.[33]
+
+33. Badlands Brief — "Q for Dummies - Chapter 19", URL: https://badlands.substack.com/p/q-for-dummies-chapter-19
+
+## Q for Dummies Chapter 2
+
+Badlands' "Q for Dummies" Chapter 2 invokes Soros in its reading of Q drop #14, asking what would happen if elected officials and law enforcement failed in their sworn duty while "Soros thugs are allowed to operate unfettered while destroying America" — a scenario the author labels a Constitutional Crisis warranting the [[insurrection-act|Insurrection Act]].[34]

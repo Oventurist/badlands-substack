@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [qanon, information-warfare, truth-community, badlands-media]
-sources: [raw/in-defense-of-q-we-were-never-told.md, raw/mental-fortitude-for-5g-warriors.md]
+sources: [raw/in-defense-of-q-we-were-never-told.md, raw/mental-fortitude-for-5g-warriors.md, raw/on-predators-and-prey-exploring-the.md, raw/on-golden-bridges-and-the-art-of.md]
 confidence: medium
 ---
 
@@ -32,10 +32,15 @@ Writing days after the [[attempted-assassination-of-donald-trump-2024|July 2024 
 
 The author argued that the ultimate object of Digital Soldier activity is to spread what he called "real hope," which he considered "utterly incalculable" in value in an increasingly bleak and violent world.[1] He cautioned explicitly against pushing Q — or Trump — on others "as if Q were some kind of messiah," insisting that Q is simply an insider who shared breadcrumbs and supplied a rational basis for hope.[1] He further suggested that helping others understand Q before [[the-storm|the Storm]] arrives "could spell the difference between life and death," because people who believe that everything is over and irrecoverable tend to act destructively toward themselves and others.[1]
 
+## Role in awakening the left
+
+In his August 2025 essay on the left-right paradigm, [[american-hypnotist|American Hypnotist]] assigned Digital Soldiers a specific role in relation to [[leftism]]: he argued that once the mind-control apparatus of the [[deep-state|Deep State]] is dismantled, most leftists will "snap out of it" sooner or later, and that Digital Soldiers can help that process along.[3] Invoking Q's maxim that "the news is fake, but the war is real," he held that propaganda aimed at liberals and conservatives amounts largely to phony theatrics while the objectives it serves belong to a very real war, and that different types of propaganda are required for different types of minds.[3] He expressed the hope that every leftist would undergo the awakening he himself experienced.[3]
+
 ## References
 
 1. Badlands Brief — "In Defense of Q - We Were Never Told to Sit Still", URL: https://badlands.substack.com/p/in-defense-of-q-we-were-never-told
 2. Badlands Brief — "Mental Fortitude for 5G Warriors", URL: https://badlands.substack.com/p/mental-fortitude-for-5g-warriors
+3. Badlands Brief — "On Predators and Prey - Exploring the Left-Right Paradigm", URL: https://badlands.substack.com/p/on-predators-and-prey-exploring-the
 
 ## Self-help curriculum for Digital Soldiers (2023)
 
@@ -54,3 +59,11 @@ The second pillar holds that emotional self-control is a prerequisite for intell
 The third pillar treats leading people to the truth as analogous to sales, citing [[donald-trump|Donald Trump]]'s talent for it as making a critical difference, and holding that truth must sometimes be packaged before people will buy it.[2] The author argues that clumsy communication and unchecked emotion can lose an otherwise receptive audience, that introverts are as valuable as extroverts, and that each reader should refine his own style for reaching deserving, receptive others.[2] He tells readers they inherit sound social instincts from ancestors who all successfully reproduced, advises taking nothing personally, and prescribes for shyness a single remedy — focusing one hundred percent on the other person rather than on saying the right thing, since people respond to feeling truly seen and heard.[2]
 
 The stated justification for the whole program is that mainstream propaganda is literally killing people, so that mental self-control and persuasion may save lives; the Digital Soldier's job is to counter the mainstream narrative by talking to people and showing them a side of reality they have not considered.[2]
+
+## Role in the MIL-CIV alliance (2025)
+
+In "On Golden Bridges and the Art of War" (January 28, 2025), [[american-hypnotist|American Hypnotist]] restated the task of Digital Soldiers as placing current events and the utterances of public figures within the context of the [[fifth-generation-warfare|5G war]], rather than taking anyone's statements — including those of [[donald-trump|Donald Trump]] — at face value.[3] He repeated the disclaimer that "soldier" refers only to a person who tells the truth in order to combat lies, and that all references to combat mean verbal combat and narrative battles, disavowing unlawful violence of all kinds.[3]
+
+The essay assigned Digital Soldiers a specific function within what the author called the [[mil-civ-alliance|MIL-CIV alliance]]: because public officials cannot raise "far out conspiracy" topics directly, ordinary citizens must raise them until public awareness is sufficient for officials to follow.[3] He urged readers to reach conclusions that are genuinely their own, contrasting this with modern academic training that produces people able only to parrot memorised factoids, and stated his own aim as being either correct or producing "errors of sufficiently high quality that they're still useful."[3]
+
+3. Badlands Brief — "On Golden Bridges and the Art of War", URL: https://badlands.substack.com/p/on-golden-bridges-and-the-art-of

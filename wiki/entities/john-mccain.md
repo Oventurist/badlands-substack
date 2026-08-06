@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, libya, syria, weapons, lobbying, benghazi, immigration, obamacare]
-sources: [raw/a-dereliction-of-duty.md, raw/a-conflict-of-interest.md, raw/bad-actors.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-204.md, raw/hes-not-a-war-hero.md, raw/infiltration-not-invasion.md, raw/moves-and-countermoves.md]
+sources: [raw/q-for-dummies-chapter-4.md, raw/a-dereliction-of-duty.md, raw/a-conflict-of-interest.md, raw/bad-actors.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-204.md, raw/hes-not-a-war-hero.md, raw/infiltration-not-invasion.md, raw/moves-and-countermoves.md, raw/money-and-oil.md, raw/q-for-dummies-chapter-1.md, raw/q-for-dummies-chapter-7.md]
 confidence: medium
 ---
 
@@ -96,6 +96,33 @@ McCain is described as Trump's biggest obstacle in [[congress|Congress]] to buil
 
 ## Response to the Trump Tower surveillance claim
 
-In March 2017 McCain publicly demanded that Trump either produce evidence that he had been surveilled at [[trump-tower|Trump Tower]] or retract the claim, telling CNN's "State of the Union" that he had no reason to believe the allegations were true while conceding that if a president had violated the law "we've got a serious issue here."[8] He suggested Trump could resolve the matter with a phone call to the directors of the [[cia|CIA]] and national intelligence.[8] Lange argues McCain already knew the CIA was involved in spying on Trump through foreign partners, that he was himself tied to the [[five-eyes|Five Eyes]] operation, and that he never apologized after Circa News reported that FBI surveillance of a Trump Tower server had produced no evidence of Russian collusion.[8]
+In March 2017 McCain publicly demanded that Trump either produce evidence that he had been surveilled at Trump Tower or retract the claim, telling CNN's "State of the Union" that he had no reason to believe the allegations were true while conceding that if a president had violated the law "we've got a serious issue here."[8] He suggested Trump could resolve the matter with a phone call to the directors of the [[cia|CIA]] and national intelligence.[8] Lange argues McCain already knew the CIA was involved in spying on Trump through foreign partners, that he was himself tied to the [[five-eyes|Five Eyes]] operation, and that he never apologized after Circa News reported that FBI surveillance of a Trump Tower server had produced no evidence of Russian collusion.[8]
 
 8. Badlands Brief — "Moves and Countermoves", URL: https://badlands.substack.com/p/moves-and-countermoves
+9. Badlands Brief — "Money and Oil", URL: https://badlands.substack.com/p/money-and-oil
+
+## Quoted on oil (November 2022)
+
+In his November 2022 essay "Money and Oil," Joe Lange quoted McCain — referring to him as "the traitor 'no name'" while asking forgiveness for citing him — as saying that "whoever controls oil controls much more than oil," a remark Lange judged "right on target."[9] The quotation serves in the essay as the entry point to its argument that every economy, all manufacturing, transportation, supply chains and militaries depend on [[oil|oil]].[9]
+
+## Appearance in the fifth Q drop
+
+McCain enters the [[q-operation|Q]] drops as early as Drop #5 of October 29, 2017.[10] In Chapter 1 of [[q-for-dummies|Q for Dummies]], [[paul-fleuret|Paul Fleuret]] notes that McCain would soon be known in the drops as "No Name," and declines to elaborate at that stage, saying only that what is to come concerning McCain eventually becomes one of the biggest — if not the biggest — [[q-proofs|Q proofs]] in all the drops.[10]
+
+10. Badlands Brief — "Q for Dummies - Chapter 1", URL: https://badlands.substack.com/p/q-for-dummies-chapter-1
+
+## "No Name" in Q drops #51–60
+
+Chapter 7 of [[q-for-dummies|Q for Dummies]], covering drops #51 through #60 of November 2, 2017, describes McCain as one of the most frequently referenced figures of that stretch of drops, always under the epithet "No Name."[11] Drop #52 asked readers to reconcile the net worth of [[barack-obama|Obama]], [[nancy-pelosi|Pelosi]], "No Name" and [[maxine-waters|Maxine Waters]] with the published salaries of the offices they held, a comparison the author says does not reconcile and which he attributes in part, though not entirely, to insider trading.[11] The same drop directed anons to examine the [[mccain-institute|McCain Foundation]] for correlations and patterns shared with the [[clinton-foundation|Clinton Foundation]], the inference being that both functioned as front operations.[11]
+
+Drop #52 also asked where "No Name" had had his surgery; the author identifies the venue as the [[mayo-clinic|Mayo Clinic]], noting that the clinic's board at the time contained what he calls "swampy creatures," and that McCain returned to work days after a reported operation for a subdural hematoma.[11] The chapter treats these questions as preliminary, promising much more on McCain later in the series.[11]
+
+Drop #57 is read as explaining McCain's motive for suppression: when [[michele-bachmann|Michele Bachmann]] and four other members of the [[house-permanent-select-committee-on-intelligence|House Permanent Select Committee on Intelligence]] and [[house-judiciary-committee|House Judiciary Committee]] raised concerns in 2012 about [[huma-abedin|Huma Abedin]]'s connections to the [[muslim-brotherhood|Muslim Brotherhood]], the criticism that met them spanned both parties and was led by Senator "No Name."[11] The chapter pairs this with the drop's question about who travelled to [[saudi-arabia|Saudi Arabia]], answering that McCain went to conduct face-to-face meetings regarding the training of Syrian rebels tied to [[isis|ISIS]] and [[abu-bakr-al-baghdadi|al-Baghdadi]], and concluding that he was "actively selling this country out."[11]
+
+11. Badlands Brief — "Q for Dummies - Chapter 7", URL: https://badlands.substack.com/p/q-for-dummies-chapter-7
+
+## The "No Name" convention in Chapter 4
+
+Chapter 4 of the [[q-for-dummies|Q for Dummies]] series treats drop #25 of November 1, 2017 as tying the wave of congressional resignations then under discussion to what was being seen at the time with McCain and [[nancy-pelosi|Nancy Pelosi]].[12] The author writes that the eventual McCain outcome is the most undeniable [[q-proofs|Q proof]] ever, declining to spoil it, and states that this is the drop in which Q explained that the surname was withheld for a reason — the reason being, in his reading, that the senator was a traitor undeserving of having his name spoken.[12] Accordingly the chapter marks the last time the author will use the name in the series, adopting "No Name" thereafter.[12]
+
+12. Badlands Media — "Q for Dummies - Chapter 4", URL: https://badlands.substack.com/p/q-for-dummies-chapter-4

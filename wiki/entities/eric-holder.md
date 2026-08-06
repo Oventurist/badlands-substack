@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [attorney-general, democrats, elections, obama-administration]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-618.md, raw/badlands-news-brief-7e8.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-618.md, raw/badlands-news-brief-7e8.md, raw/q-for-dummies-chapter-18.md]
 confidence: medium
 ---
 
@@ -25,8 +25,14 @@ In May 2026 President [[donald-trump|Donald Trump]] said that Senate Democratic 
 
 On December 1, 2025, President Trump attacked Holder in a Truth Social post, calling him an "Obama sycophant" and citing a speech in which Holder said Democrats would pack the Supreme Court if given the chance.[3] Trump claimed the reported target had risen from fifteen to twenty-one "Radical Left Activist Judges" and used the claim to demand that Senate Republicans terminate the [[filibuster|filibuster]], arguing that doing so would produce midterm and 2028 presidential victories and prevent a January 30 government shutdown.[3]
 
+
+## Fast and Furious and the settlement payouts
+
+Chapter 18 of the [[q-for-dummies|Q for Dummies]] series describes [[operation-fast-and-furious|Operation Fast and Furious]] as an operation run by the [[department-of-justice|Department of Justice]] under [[barack-obama|Obama]] with Holder as Attorney General, in which assault weapons were sold to Mexican drug cartels under the stated pretext of entrapping and prosecuting them.[4] The author rejects that rationale, arguing the true purpose was to flood American streets with guns so that a crime surge would justify gun control, while those responsible profited on the back end.[4] The chapter also credits [[jeff-sessions|Jeff Sessions]] with ending the Holder-era practice of directing corporate settlement money to outside groups, which it characterises as a slush-fund mechanism and a definite blow to the [[deep-state|Deep State]].[4]
+
 ## References
 
 1. Badlands Brief — "Mixed Gender Crews, Trafficking Stings, & Shadow Cabal Reruns", URL: https://badlands.substack.com/p/badlands-brief-029
 2. Badlands Brief — "Triggering Summits & Allegedly Fair Elections", URL: https://badlands.substack.com/p/badlands-brief-618
 3. Badlands Brief — "Corruption Within Corruption & A Offer of Free Elections", URL: https://badlands.substack.com/p/badlands-news-brief-7e8
+4. Badlands Brief — "Q for Dummies - Chapter 18", URL: https://badlands.substack.com/p/q-for-dummies-chapter-18

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [donors, israel, neoconservatives, trump-administration]
-sources: [raw/badlands-brief-257.md, raw/badlands-news-brief-6e6.md]
+sources: [raw/badlands-brief-257.md, raw/badlands-news-brief-6e6.md, raw/our-greatest-ally.md]
 confidence: low
 ---
 
@@ -22,7 +22,12 @@ The Brief's author extends this into the claim that Bolton "was a spy sent by th
 
 The claim resurfaced in October 2025, days before the [[indictment-of-john-bolton|indictment of John Bolton]], when Colonel [[douglas-macgregor|Douglas Macgregor]] told [[andrew-napolitano|Judge Napolitano]] that it was Adelson who convinced President [[donald-trump|Donald Trump]] to bring Bolton into the administration.[2] [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] cited the interview as proof of "drafting," the idea that Trump used the inertia of the NeoCon and Zionist agenda to advance his own plan.[2]
 
+## Media ownership and the GOP's pro-Israel shift
+
+The late casino mogul, philanthropist and political donor's family owns [[israel-hayom|Israel Hayom]], described as the most widely distributed newspaper in Israel.[3] Adelson was a self-proclaimed Jewish "social liberal" who was simultaneously a conservative megadonor, and is often credited with fueling the Republican Party's pro-Israel shift.[3] The Badlands essay "Our 'Greatest Ally'" cites that ownership as context for Israel Hayom's March 2024 Mar-a-Lago interview with [[donald-trump|Donald Trump]] about the war in [[gaza|Gaza]].[3]
+
 ## References
 
 1. Badlands Brief — "Bicameral Deal-Making and Accelerationism Acknowledged", URL: https://badlands.substack.com/p/badlands-brief-257
 2. Badlands Brief — "Familiar Formulas, Blue Skies, & Antisemitic Nonchalance", URL: https://badlands.substack.com/p/badlands-news-brief-6e6
+3. Badlands Brief — "Our 'Greatest Ally'", URL: https://badlands.substack.com/p/our-greatest-ally

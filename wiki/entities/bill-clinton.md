@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [presidency, bin-laden, memorandum-of-notification, china, scandals]
-sources: [raw/a-dereliction-of-duty.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/badlands-brief-314.md, raw/badlands-brief-40d.md, raw/badlands-brief-52f.md, raw/badlands-brief-b74.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-f54.md]
+sources: [raw/a-dereliction-of-duty.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/badlands-brief-314.md, raw/badlands-brief-40d.md, raw/badlands-brief-52f.md, raw/badlands-brief-b74.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-f54.md, raw/q-for-dummies-chapter-12.md]
 confidence: medium
 ---
 
@@ -110,6 +110,11 @@ Pope [[pope-francis|Francis]] received Clinton in a private audience at the Casa
 
 In commentary on the Biden family investigation in the same brief, [[ashe-in-america|Ashe in America]] contrasted Clinton's impeachment — described as being for lying to the American people — with the impeachments of [[donald-trump|Donald Trump]] and the conduct alleged against [[joe-biden|Joe Biden]].[14]
 
+
+## Q for Dummies Chapter 12
+
+Chapter 12 of the [[q-for-dummies|Q for Dummies]] series reports that in drop #94 Q informed readers that Clinton was seeking a deal, and was invoking his status as a former president in order to obtain one.[15]
+
 ## References
 1. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
 2. Badlands Brief — "America for Sale - Part 1", URL: https://badlands.substack.com/p/america-for-sale-part-1
@@ -125,3 +130,4 @@ In commentary on the Biden family investigation in the same brief, [[ashe-in-ame
 12. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
 13. Badlands News Brief — "Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f
 14. Badlands Brief — "Meta vs. Twitter, Shark Fins, Popes & Clintons", URL: https://badlands.substack.com/p/badlands-news-brief-f54
+15. Badlands Media — "Q for Dummies - Chapter 12", URL: https://badlands.substack.com/p/q-for-dummies-chapter-12

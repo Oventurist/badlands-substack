@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [doj, attorney-general, huber, investigations, trump]
-sources: [raw/america-for-sale-part-2.md, raw/do-you-believe-in-coincidences.md, raw/disinformation-is-necessary.md, raw/irregular-warfare.md]
+sources: [raw/america-for-sale-part-2.md, raw/do-you-believe-in-coincidences.md, raw/disinformation-is-necessary.md, raw/irregular-warfare.md, raw/profiting-from-war.md, raw/q-for-dummies-chapter-18.md, raw/q-for-dummies-chapter-12.md, raw/q-for-dummies-chapter-2.md]
 confidence: medium
 ---
 
@@ -55,8 +55,30 @@ In "[[irregular-warfare|Irregular Warfare]]," Joe Lange presents Sessions' recus
 [[qanon|Q]] drop 1318 (May 8, 2018) asked why Sessions and [[christopher-wray|Christopher Wray]] would be "cleaning their respective houses" if they were themselves deep state, noting that any dismissal of DOJ officials required Sessions' approval and any FBI dismissal required both his and Wray's.[4] Lange also notes that Democrats fought hard against Sessions' confirmation while Rosenstein's sailed through, and that Sessions himself recommended Rosenstein — a choice Q framed with the line "Everyone has an opinion. Few have the facts. Few know the plan."[4] At a May 8, 2017 meeting Trump informed Sessions and Rosenstein of his intent to fire [[james-comey|James Comey]]; Lange treats the absence of any Democratic accusation that Sessions violated his recusal as proof that Russian collusion was never discussed.[4]
 
 
+
+## Ending the settlement payout program
+
+"Profiting From War" treats Sessions' termination of an Obama-era settlement practice as an act of [[money-flow-disruption|money flow disruption]].[5] Citing The Newstalkers, the article reports that Sessions ended a program allowing prosecutors to require companies to make payouts to political groups as part of settlement agreements — a practice Republicans had criticized as a slush fund for far-left organizations.[5] In a memo to 94 United States Attorneys' offices, he ended the practice of allowing companies to satisfy settlement terms by donating to organizations that were neither victims nor parties to the case, directing instead that money go to victims or to the U.S. Treasury.[5] Sessions stated that settlement funds "should go first to the victims and then to the American people – not to bankroll third-party special interest groups or the political friends of whoever is in power."[5] [[joe-lange|Joe Lange]] argues that [[barack-obama|Barack Obama]] had used the Justice Department to force corporate settlements that funded left-wing groups supporting him.[5]
+
+## Chapter 18 on the slush fund
+
+Chapter 18 of the [[q-for-dummies|Q for Dummies]] series, covering Q drop #119, states that Sessions ended an [[barack-obama|Obama]]-era program that in essence provided a mechanism for slush funds to be created and distributed, citing Fox News coverage of the Justice Department's termination of Holder-era payouts to outside groups.[6] The author describes the move as a definite blow to the [[deep-state|Deep State]] and as further evidence of why Q identified Sessions as someone to be trusted.[6]
+
+
+## Gang enforcement in the Q drops
+
+Chapter 12 of the [[q-for-dummies|Q for Dummies]] series notes that under the [[trump-administration|Trump administration]], [[ms-13|MS-13]] and gangs generally were a very large focus of Attorney General Sessions's enforcement plan.[7] The chapter offers as the underlying reason its claim that MS-13 had been converted into a political hit squad for the [[deep-state|Deep State]].[7]
+
 ## References
 1. Badlands Brief — "America for Sale - Part 2", URL: https://badlands.substack.com/p/america-for-sale-part-2
 2. Badlands Brief — "Do You Believe in Coincidences?", URL: https://badlands.substack.com/p/do-you-believe-in-coincidences
 3. Badlands Brief — "Disinformation is Necessary", URL: https://badlands.substack.com/p/disinformation-is-necessary
 4. Badlands Brief — "Irregular Warfare", URL: https://badlands.substack.com/p/irregular-warfare
+5. Badlands Brief — "Profiting From War", URL: https://badlands.substack.com/p/profiting-from-war
+6. Badlands Brief — "Q for Dummies - Chapter 18", URL: https://badlands.substack.com/p/q-for-dummies-chapter-18
+7. Badlands Media — "Q for Dummies - Chapter 12", URL: https://badlands.substack.com/p/q-for-dummies-chapter-12
+8. Badlands Brief — "Q for Dummies - Chapter 2", URL: https://badlands.substack.com/p/q-for-dummies-chapter-2
+
+## Leak investigations in Q drop #8
+
+Badlands' "Q for Dummies" Chapter 2 presents Sessions as central to the information war implied by Q drop #8, describing him as "extremely strict on leaks" and making "no secrets about it," and citing USA Today reporting that the Justice Department under Sessions tripled the number of leak investigations.[8] The chapter notes that Q repeatedly instructed readers to "Trust Sessions," and the author endorses that instruction.[8]

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [occult, performance-art, elites, symbolism]
-sources: [raw/badlands-news-brief-2ca.md]
+sources: [raw/badlands-news-brief-2ca.md, raw/q-for-dummies-chapter-14.md]
 confidence: medium
 ---
 
@@ -22,6 +22,13 @@ The same commentary argued that the artistic framing functions as a class filter
 
 Spirit cooking is treated in Badlands writing as the visible surface of an alleged "cult of Lucifarian pedovores" said to sit behind an epidemic of child sex and organ trafficking, a claim publicly dismissed as "a dangerous QAnon conspiracy theory."[1] The September 2023 reports that Ukrainian President Volodymyr Zelensky had invited Abramovic to serve as an ambassador working with displaced Ukrainian children made the theme newly concrete for these writers.[1] See also [[child-trafficking|child trafficking]].[1]
 
+## Q drop #100
+
+Chapter 14 of the [[q-for-dummies|Q for Dummies]] series notes that Q drop #100, dated November 5th, 2017, directly asks readers what spirit cooking is, and the author answers by linking to an outside explainer and reproducing images of the practice.[2] The chapter rejects the description of spirit cooking as mere performance art, insisting instead that it is a Satanic ritual.[2] It concedes that the public has only seen dinner parties and gatherings that look innocent enough, but argues that what is shown is "merely the tip of the iceberg" and that what happens behind closed doors is far darker.[2]
+
+The same drop is read as touching on related occult symbolism, including the inverted cross — which the author notes originally represented the crucifixion of St. Peter but has been repurposed as a Satanic emblem — and identifies [[chelsea-clinton|Chelsea Clinton]], who has been photographed wearing one, as the likely subject of Q's reference.[2] The broader assertion in the chapter is that a large share of officials in government "worship Satan."[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Ukrainian Nazis, Spirit Cooks & Potato Presidents", URL: https://badlands.substack.com/p/badlands-news-brief-2ca
+2. Badlands Brief — "Q for Dummies - Chapter 14", URL: https://badlands.substack.com/p/q-for-dummies-chapter-14

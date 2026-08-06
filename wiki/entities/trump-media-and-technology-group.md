@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, dwac, trump, sec]
-sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-7c0.md, raw/badlands-brief-e3b.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-b04.md, raw/badlands-news-brief-b0d.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-d04.md, raw/badlands-news-brief-f0b.md, raw/badlands-news-brief-f0e.md, raw/control-through-language.md, raw/donald-trump-and-george-washington.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-7c0.md, raw/badlands-brief-e3b.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-b04.md, raw/badlands-news-brief-b0d.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-d04.md, raw/badlands-news-brief-f0b.md, raw/badlands-news-brief-f0e.md, raw/control-through-language.md, raw/donald-trump-and-george-washington.md, raw/no-honor-among-thieves.md]
 confidence: low
 ---
 
@@ -142,3 +142,9 @@ Nunes wrote that the pattern was particularly troubling because [[naked-short-se
 [[erik-carlson|Erik Carlson]] treated the behaviour of DJT stock in July 2024 as circumstantial evidence of foreknowledge of the [[attempted-assassination-of-donald-trump-2024|attempted assassination of Donald Trump]].[21] He observed that the share price fell hard after [[joe-biden|Joe Biden]]'s poor showing in the [[2024-presidential-debate|presidential debate]] — the opposite of what he would have expected — and that the decline was subsequently explained by Wall Street participants shorting the stock in anticipation of a fall.[21] Carlson asked what those traders knew, concluded that they had anticipated an attempt on [[donald-trump|Trump]]'s life, and argued the [[deep-state|Deep State]] players involved had "stepped right into a bear trap."[21]
 
 21. Badlands Brief — "Donald Trump and George Washington", URL: https://badlands.substack.com/p/donald-trump-and-george-washington
+
+## The DWAC merger timeline
+
+Badlands contributor [[erik-carlson|Erik Carlson]] wrote in May 2024 that [[digital-world-acquisition-corp|Digital World Acquisition Corp]] was announced in September 2021 as the SPAC that would merge with Trump Media, and that hedge fund manager [[boaz-weinstein|Boaz Weinstein]] dumped his 2.4 million DWAC shares the moment the target was revealed.[22] Carlson argued that institutional investors subsequently sold into retail buying and that the [[securities-and-exchange-commission|SEC]] delayed approval of the merger for over two years, keeping the share price depressed and denying [[donald-trump|Trump]] access to billions.[22] With the company now trading publicly under the ticker DJT, he read the timing as deliberate: the money arrived seven to eight months before the [[2024-us-general-election|2024 election]] rather than two years earlier.[22]
+
+22. Badlands Brief — "No Honor Among Thieves", URL: https://badlands.substack.com/p/no-honor-among-thieves

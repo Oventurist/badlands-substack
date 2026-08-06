@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [social-media, trump, platform]
-sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-625.md, raw/badlands-brief-774.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-df8.md, raw/badlands-news-brief-f0e.md, raw/control-through-language.md, raw/has-trumps-whole-life-been-a-sting.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-625.md, raw/badlands-brief-774.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-df8.md, raw/badlands-news-brief-f0e.md, raw/control-through-language.md, raw/has-trumps-whole-life-been-a-sting.md, raw/power-to-the-people.md, raw/project-trump-card.md]
 confidence: low
 ---
 
@@ -63,6 +63,10 @@ In the February 5, 2024 Badlands Media essay "Control Through Language," [[erik-
 
 Carlson also linked the platform's stalled development to the [[securities-and-exchange-commission|SEC]]'s blocking of the [[digital-world-acquisition-corp|DWAC]] merger with [[trump-media-and-technology-group|Trump Media and Technology Group]], writing that [[donald-trump|Trump]] launched Truth Social two years earlier but has been unable to build it out without access to the raised funds — meaning no cable channels, movies, or news and entertainment apps until a merger completes.[12]
 
+## Q-adjacent reposts
+
+An October 2022 Badlands Media essay by [[pepe-lives-matter|Pepe Lives Matter]] cited [[donald-trump|Donald Trump]]'s activity on Truth Social as deliberate affirmation of the anon movement, noting that less than a month earlier he had "retruthed" the message that nothing can stop what is coming, and pointing readers to a widely circulated clip of Trump re-posting an overtly [[qanon|Q]]-themed video.[14]
+
 ## References
 1. Badlands Brief — "A Virus, or a Metaphor?", URL: https://badlands.substack.com/p/a-virus-or-a-metaphor
 2. Badlands Brief — "Mr. Nice Guy Leaves the Building (plus, Jewish Terrorism)", URL: https://badlands.substack.com/p/badlands-brief-625
@@ -96,3 +100,10 @@ Truth Social's parent, [[trump-media-and-technology-group|Trump Media and Techno
 In a June 15, 2024 Badlands feature, [[erik-carlson|Erik Carlson]] cited the Truth Social domain name as evidence that [[donald-trump|Donald Trump]] had been preparing his confrontation with the [[deep-state|Deep State]] for many years.[13] Carlson wrote that the domain was purchased in 2011 — four years before Trump descended the escalator to announce his presidential bid — and argued that Trump therefore understood a decade in advance that social media platforms would eventually ban him and his supporters.[13]
 
 13. Badlands Brief — "Has Trump's Whole Life Been a Sting Operation?", URL: https://badlands.substack.com/p/has-trumps-whole-life-been-a-sting
+14. Badlands Brief — "Power to the People", URL: https://badlands.substack.com/p/power-to-the-people
+
+## December 2022 "announcing the announcement"
+
+On December 14, 2022, [[donald-trump|Donald Trump]] used Truth Social to release a video promising a "major announcement" the following day, a practice [[badlands-media|Badlands Media]] contributor [[kitty-gillespie|Kitty Gillespie]] described as his standard operating procedure of "announcing the announcement."[15] Overnight speculation across anon circles concerned his campaign, running mate, or a possible bid for Speaker of the House; the announcement itself proved to be the [[trump-digital-trading-cards|Trump Digital Trading Cards]] NFT collection.[15]
+
+15. Badlands Brief — "Project Trump Card", URL: https://badlands.substack.com/p/project-trump-card

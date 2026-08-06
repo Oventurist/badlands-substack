@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence-community, pentagon, counterintelligence, israel]
-sources: [raw/badlands-brief-6f0.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-d1d.md, raw/clowns-in-america.md]
+sources: [raw/badlands-brief-6f0.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-d1d.md, raw/clowns-in-america.md, raw/q-for-dummies-chapter-2.md]
 confidence: medium
 ---
 
@@ -49,9 +49,14 @@ A preliminary classified U.S. report, disclosed publicly on June 24, 2025, found
 4. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
 5. Badlands News Brief — "Trump on Wuhan, Flynn Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-af7
 6. Badlands News Brief — "N-Words, F-Bombs, & Big Balls' Future", URL: https://badlands.substack.com/p/badlands-news-brief-d1d
+8. Badlands Brief — "Q for Dummies - Chapter 2", URL: https://badlands.substack.com/p/q-for-dummies-chapter-2
 
 ## Flynn's dismissal (2014)
 
 The August 2023 Badlands article "Clowns in America," citing PJ Media, states that President [[barack-obama|Barack Obama]] fired [[michael-flynn|Michael Flynn]] as head of the Defense Intelligence Agency in April 2014 because Flynn's opposition to the Iran nuclear deal threatened the agreement's completion.[7] On the same day, FBI officials [[peter-strzok|Peter Strzok]] and [[lisa-page|Lisa Page]] exchanged texts about drama involving one of Obama's [[presidents-daily-brief|presidential daily briefings]], a coincidence Badlands writer [[joe-lange|Joe Lange]] rejected as accidental.[7]
 
 7. Badlands Brief — "Clowns in America", URL: https://badlands.substack.com/p/clowns-in-america
+
+## Q for Dummies Chapter 2
+
+Badlands' "Q for Dummies" Chapter 2, decoding Q drop #14, cites General [[michael-flynn|Michael Flynn]]'s tenure as Director of the Defense Intelligence Agency — following his command of the [[111th-military-intelligence-brigade|111th Military Intelligence Brigade]] — as part of the drop's emphasis on military intelligence channels.[8]

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military, joint-chiefs, ukraine, negotiations, pentagon]
-sources: [raw/badlands-news-brief-324.md, raw/badlands-news-brief-b24.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-e7c.md]
+sources: [raw/badlands-news-brief-324.md, raw/badlands-news-brief-b24.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-e7c.md, raw/purple-revolution.md]
 confidence: medium
 ---
 
@@ -43,3 +43,11 @@ Speaking to CNN on September 17, 2023, as Chairman of the Joint Chiefs of Staff,
 [[badlands-media|Badlands Media]] writer [[ryan-delarme|Ryan DeLarme]] treated the convergence of the two men's messaging as a marker of deep-state alignment, arguing that the US government excels at creating long, unwinnable wars and that the profit motive — exemplified by [[raytheon|Raytheon]]'s roughly 40% stock gain since the war began — made the outcome a win either way for its architects.[4]
 
 4. Badlands Brief — "Badlands News Brief: A Fed, a Ukrainian & a DeSimp Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-e7c
+
+## Role in the alleged Purple Revolution
+
+In Badlands Media's [[purple-revolution|Purple Revolution]] analysis, Milley is a central and deliberately ambiguous figure.[5] On October 1, 2020, one month before the presidential election, he met [[national-security-agency|NSA]] director General [[paul-nakasone|Paul M. Nakasone]] to discuss securing the democratic process, an encounter the article presents as an unresolved question of whether the two were working with or against [[donald-trump|Donald Trump]].[5] Citing a [[department-of-defense|Department of Defense]] inspector general report, the article asserts that the DOD rather than the Justice Department was the lead agency for [[january-6-capitol-protest|January 6]] and that Milley was in charge of the operation.[5]
+
+Milley was not among the officials Trump dismissed after the election, alongside [[christopher-wray|Christopher Wray]] and CIA Director [[gina-haspel|Gina Haspel]], though the author cautions that non-removal does not establish loyalty since some officials were merely left out of the loop or fed misinformation.[5] The article floats the contrary possibility that Milley's conduct under Biden — his back-channel communications with China, "woke" military inclusion policy, the Taliban's capture of some $850 billion in US military equipment, the Chinese spy balloon overflight, and the Russian pipeline demolition — was so consistently damaging that it may have been deliberate sabotage of the Biden administration by a double agent working with Trump.[5] On this reading, Milley's activity during Trump's final month in office served to convince Biden's handlers that he could be trusted to protect the Deep State.[5] The article notes his retirement at the end of September 2023 and asks whether the Israel-Hamas conflict beginning a week later carried any significance.[5]
+
+5. Badlands Brief — "Purple Revolution", URL: https://badlands.substack.com/p/purple-revolution

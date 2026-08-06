@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [taiwan, china, geopolitics, maritime-disputes, badlands-brief]
-sources: [raw/badlands-brief-25c.md, raw/badlands-brief-323.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-7d4.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-9e7.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-ee9.md, raw/brightlands-taiwan-tipping.md]
+sources: [raw/badlands-brief-25c.md, raw/badlands-brief-323.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-7d4.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-9e7.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-ee9.md, raw/brightlands-taiwan-tipping.md, raw/operation-gladio-how-its-funded.md]
 confidence: medium
 ---
 
@@ -78,6 +78,10 @@ With Taiwan just over two weeks from key elections in January 2024, fresh threat
 
 During the [[2023-macron-state-visit-to-china|2023 Macron state visit to China]], Beijing announced it would inspect cargo vessels entering Taiwan and escalated major military exercises encircling the island, moves some military observers viewed as a warm-up for a potential blockade.[12] French President [[emmanuel-macron|Emmanuel Macron]] said the use of force to change the Taiwan status quo would be "unacceptable" but implied there would be no French economic consequences for China, adding, "I am neither Taiwan nor the US," and cautioning that Europeans should not be caught up in the Beijing–Washington standoff over the island's fate.[12] Reporting on the episode noted that China has vowed to regain control of Taiwan while the United States government pledges to help Taiwan defend itself.[12]
 
+## Formosa, Chiang Kai-shek and the Gladio opium supply
+
+The Badlands Media Gladio funding article states that [[claire-chennault]], [[william-pawley]] and [[allen-dulles]] set [[chiang-kai-shek]] up on Formosa — an island off the Chinese coast from which the Japanese had recently been expelled — to continue supplying the opium that paid for the covert operations of [[operation-gladio]].[15] Chiang, described as allegedly the world's largest drug trafficker at that point, renamed the island Taiwan and declared martial law in the immediate aftermath of establishing his regime.[15] For roughly the next forty years, well into the 1980s, the article contends that Taiwan functioned as a drug-dealing dictatorship, forming the source end of the pipeline code-named "[[operation-x]]" that ran through Sicily and Cuba into the United States.[15]
+
 ## References
 
 1. Badlands Brief — "Elections are Fake; as is Trump's Friendship with Bibi", URL: https://badlands.substack.com/p/badlands-brief-25c
@@ -107,3 +111,4 @@ In the October 2022 Badlands Media essay "Taiwan Tipping," [[burning-bright|Burn
 The essay noted that many analysts had expected the situation to "go hot" in August 2022 on the back of [[nancy-pelosi|Nancy Pelosi]]'s contentious visit to the island, and that the repeated escalation and de-escalation since then had produced [[narrative-whiplash|Narrative Whiplash]] even among close observers.[14] The author argued that the public came away from those scares believing the ruling powers were incapable of rational decisions and that their attempts to contain the eastern theater might themselves trigger catastrophic consequences.[14] He predicted that if the situation did go kinetic it would mirror the Russia–Ukraine deployment, and that whatever the outcome the [[biden-administration|Biden administration]] would be made to look foolish while [[donald-trump|Donald Trump]] appeared prophetic.[14]
 
 14. Badlands Brief — "Taiwan Tipping: The Curious Case of Intermittent Escalation", URL: https://badlands.substack.com/p/taiwan-tipping
+15. Badlands Brief — "Operation Gladio - How It's Funded", URL: https://badlands.substack.com/p/operation-gladio-how-its-funded

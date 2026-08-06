@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, international-institutions, debt, middle-east]
-sources: [raw/badlands-brief-bf7.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-f8a.md]
+sources: [raw/badlands-brief-bf7.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-f8a.md, raw/one-of-the-most-transformative-moments.md]
 confidence: low
 ---
 
@@ -42,9 +42,16 @@ Milei had taken office in December 2023 vowing to tackle triple-digit inflation,
 
 [[badlands-media|Badlands Media]] commentator [[ashe-in-america|Ashe in America]] framed the announcement as an IMF flex — a subtle attempt to reassert dominance while its decades-long narrative crumbles — and argued that economic populism remains an existential threat to the institution.[4]
 
+## Anti-cryptocurrency conditions on lending (2022–2023)
+
+Badlands Media documented the IMF's use of loan conditionality to suppress digital assets. In March 2023 Argentinean senators approved a $45 billion bailout with the Fund whose terms required [[argentina|Argentina]] "to discourage the use of cryptocurrencies with a view to preventing money laundering, informality, and disintermediation" in order to "further safeguard financial stability."[5] The IMF Executive Board approved the deal on March 25.[5] AMBCrypto observed that the requirement underlined an ongoing debate over the place of digital assets in the global financial system, between those who see cryptocurrencies as a vehicle for financial inclusion and those who believe they encourage illegal activity, tax evasion, and instability.[5] The Fund also warned that banking-dependent financial systems in Europe and Asia "may face financial stability risks following widespread substitution from bank deposits to crypto assets."[5] Badlands' interpretation was blunter: that Bitcoin is a threat to the Fund's centralized power.[5]
+
+In January 2022 the IMF Executive Board "urged" [[el-salvador|El Salvador]] to abandon [[bitcoin|Bitcoin]]'s legal tender status and to impose stricter regulation of the country's wallet, according to a Reuters report on the Fund's annual consultation statement.[5] El Salvador defied the pressure campaign; by April 2023, as news of Argentina's bailout broke, Salvadoran Bitcoiners noted that Argentina was defaulting while El Salvador had paid off its bonds.[5]
+
 ## References
 
 1. Badlands Brief — "Border Battles & Diplomatic Duets", URL: https://badlands.substack.com/p/badlands-brief-bf7
 2. Badlands Media — "Badlands News Brief: Based Bodegas, Limp Sanctions & Scared Bankers", URL: https://badlands.substack.com/p/badlands-news-brief-0cd
 3. Badlands Brief — "A Not so Brief Full of Sovereign SIGNAL", URL: https://badlands.substack.com/p/badlands-news-brief-711
 4. Badlands Brief — "Badlands News Brief: Economic Strife Prompts a Squeeze on the Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-f8a
+5. Badlands Brief — "One of the Most Transformative Moments in Money Since Jekyll Island", URL: https://badlands.substack.com/p/one-of-the-most-transformative-moments

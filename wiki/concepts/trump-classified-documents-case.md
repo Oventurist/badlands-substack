@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [lawfare, trump, classified-documents, presidential-immunity, courts]
-sources: [raw/badlands-news-brief-092.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-6bc.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-de1.md, raw/badlands-news-brief-fcb.md]
+sources: [raw/badlands-news-brief-092.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-6bc.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-de1.md, raw/badlands-news-brief-fcb.md, raw/nothing-is-as-it-appears.md]
 confidence: medium
 ---
 
@@ -98,3 +98,10 @@ Before charges were filed, *The New York Times* reported in May 2023 that federa
 Badlands commentator [[johnny-q|Johnny Q]] dismissed the coverage as a recycled October 2022 storyline resurrected to slow Trump's momentum, arguing that the DOJ had threatened to prosecute aide [[walt-nauta|Walt Nauta]] after he changed his testimony having wanted to plead the Fifth, and that the star witness may have been entrapped by [[jack-smith|Jack Smith]]'s team.[12] He called the implied theory — that Trump told "his beverage boy" to move boxes of classified documents — unbelievable, and characterized the episode as another instance of "Get Trumpism."[12]
 
 12. Badlands Brief — "Badlands News Brief: Devolution Digs, Storm Stirring & Leverage", URL: https://badlands.substack.com/p/badlands-news-brief-fcb
+13. Badlands Brief — "Nothing Is as It Appears", URL: https://badlands.substack.com/p/nothing-is-as-it-appears
+
+## Sting-operation interpretation
+
+In "Nothing Is as It Appears," [[joe-lange|Joe Lange]] argues that the investigation into [[donald-trump|Donald Trump]]'s storage of classified documents is a sting operation designed not to catch Trump but to trap [[joe-biden|Joe Biden]] and former presidents.[13] On this reading Trump deliberately drew attention to the subject, calling out [[george-hw-bush|George H.W. Bush]] for hiding classified documents at a converted bowling alley and [[barack-obama|Barack Obama]] for moving over 30 million pages to a former Chicago furniture store, in order to expose the [[two-tier-justice-system|two-tier justice system]] under which past presidents were never investigated for the same conduct.[13]
+
+Lange contends that Trump is "willingly taking the slings and arrows" as part of a deliberate plan, using his presidential authority to declassify material and his litigation over [[executive-privilege|executive privilege]] to strip away the legal defenses that would otherwise shield former presidents from prosecution.[13] He frames the case within the [[presidential-records-act|Presidential Records Act]] framework, arguing that all official documents — classified ones included — legally belong to the public.[13]

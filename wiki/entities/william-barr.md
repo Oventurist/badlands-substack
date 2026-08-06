@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [doj, attorney-general, durham, sdny]
-sources: [raw/disinformation-is-necessary.md, raw/do-you-believe-in-coincidences.md]
+sources: [raw/disinformation-is-necessary.md, raw/do-you-believe-in-coincidences.md, raw/q-for-dummies-chapter-13.md]
 confidence: low
 ---
 
@@ -37,3 +37,9 @@ Democrats demanded Barr testify, and the article reports he defended Trump vigor
 ## References
 1. Badlands Brief — "Disinformation is Necessary", URL: https://badlands.substack.com/p/disinformation-is-necessary
 2. Badlands Brief — "Do You Believe in Coincidences?", URL: https://badlands.substack.com/p/do-you-believe-in-coincidences
+
+## Prediction that the Trump conviction would not stand
+
+Following [[donald-trump|Donald Trump]]'s New York conviction, Barr publicly stated that the verdict would not stick, a remark cited by the Badlands Media "Q For Dummies" series as corroboration of its argument that the prosecution was legally baseless.[3] The series linked to reporting by The Hill on Barr's assessment that the hush-money case would be overturned, and used it alongside the sentencing of [[steve-bannon|Steve Bannon]] and the trial of [[hunter-biden|Hunter Biden]] to argue that the episode had exposed a weaponized justice system.[3]
+
+3. Badlands Brief — "Q For Dummies - Chapter 13", URL: https://badlands.substack.com/p/q-for-dummies-chapter-13

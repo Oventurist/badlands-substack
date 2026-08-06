@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [terrorism, 9-11, deep-state, history]
-sources: [raw/badlands-news-brief-433.md, raw/badlands-news-brief-988.md, raw/badlands-news-brief-c40.md]
+sources: [raw/badlands-news-brief-433.md, raw/badlands-news-brief-988.md, raw/badlands-news-brief-c40.md, raw/operation-cyclone-the-seeds-of-terror.md, raw/q-for-dummies-chapter-18.md]
 confidence: medium
 ---
 
@@ -34,8 +34,22 @@ Canestraro interviewed eleven ex-FBI agents, two ex-CIA officers, a CNN investig
 
 The 22-page report states that the CIA "used their liaison relationship with the Saudi Intelligence Services to conduct an operation on U.S. soil" because the Agency is forbidden by law from running intelligence operations domestically, and that after the attacks FBI personnel in San Diego and at headquarters were told not to reveal to Congress the full extent of Saudi involvement with al Qaeda.[3] Badlands contributor [[just-human|Just Human]] noted that the investigation came from a DEA veteran working inside the Pentagon's own defense apparatus for Guantanamo detainee [[ammar-al-baluchi|Ammar al-Baluchi]], and concluded that while it is "not the full story of 9/11," it "does expose a significant strand of it."[3]
 
+## Roots in Operation Cyclone
+
+Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] argues that the notion that the attacks of September 11, 2001 completely took the world off guard becomes increasingly improbable as one examines the geopolitical dramas of the preceding decades, and that understanding the deliberate path to 9/11 requires rewinding to the [[soviet-afghan-war|Soviet-Afghan War]] and [[operation-cyclone|Operation Cyclone]].4 In that reading, the CIA-funded radicalization of the Afghan [[mujahideen]] produced both the fighters and the ideology that would later be blamed for the attacks, with [[osama-bin-laden|Osama bin Laden]] posed as "the new perfect villain and inevitable fall guy."4
+
+The article catalogues indicators it treats as evidence of foreknowledge: [[philip-zelikow|Philip Zelikow]]'s 1998 essay imagining a "Transformative Event" prompting draconian curbs on civil liberties; the [[project-for-the-new-american-century|PNAC]] document's "new Pearl Harbor" language; [[donald-rumsfeld|Donald Rumsfeld]]'s September 10 announcement that the [[pentagon]] was missing $2.3 trillion under comptroller [[dov-zakheim|Dov Zakheim]]; the [[odigo]] warning messages; the abrupt exit of [[zim-integrated-shipping-services|ZIM]] from the North Tower on September 4; and the [[dancing-israelis|"Dancing Israelis"]] arrested in New Jersey.4 It concludes that far more remains unknown than known, and that allowing the anomalies to be memory-holed does a disservice to those who were lost.4
+
+## The Saudi flights in Q drop #118
+
+Chapter 18 of the [[q-for-dummies|Q for Dummies]] series reads Q drop #118, posted November 6, 2017, as a Socratic sequence of questions about the attacks.[5] Pointing to a Judicial Watch archive listing departures from the country after September 11, the chapter observes that although air traffic was grounded nationwide immediately after the attacks, a list of passengers permitted to leave shows that all of them were Saudi, and notes how many of those flights originated from John F. Kennedy International Airport in the very city that had just been attacked.[5] An April 2004 Los Angeles Times piece by Craig Unger is cited as further illustration of how irregular the departures were.[5]
+
+The chapter stresses that most of the flights were private charters, to which the usual security checks do not necessarily apply, meaning anything — or anyone — could be transported; it reads Q's adjacent references to a private plane and Iran as invoking [[barack-obama|Obama]]'s cash shipments to Tehran to make the same point.[5] Asked whether any members of the [[bin-laden-family|Bin Laden family]] were in the United States at the time of the attacks, the author answers yes and rejects coincidence.[5] The decisive question, he argues, is who signed off on allowing them to leave — a decision he places within the [[george-w-bush|Bush]] administration, without asserting that Bush himself gave the order.[5] The chapter also links [[osama-bin-laden|Osama bin Laden]]'s wealth to his father's construction fortune and recalls that bin Laden fought with the [[mujahideen]] in Afghanistan, calling it another case of the United States funding, arming and equipping a future enemy.[5] Q's related question about the relevance of the [[saudi-purge|Saudi purge]] is answered with the suggestion that some of those detained had a hand in 9/11 and that the record may be revealed in a future [[donald-trump|Trump]] administration.[5]
+
 ## References
 
 1. Badlands Brief — "POTUS' 'Reverse Kissinger' & Pete's Pentagon Purge", URL: https://badlands.substack.com/p/badlands-news-brief-433
 2. Badlands Brief — "They LOST the story. They WANT the war.", URL: https://badlands.substack.com/p/badlands-news-brief-988
 3. Badlands Brief — "Badlands News Brief: GART, 9/11 & Deep State Billionaires", URL: https://badlands.substack.com/p/badlands-news-brief-c40
+4. Badlands Brief — "Operation Cyclone - The Seeds of Terror", URL: https://badlands.substack.com/p/operation-cyclone-the-seeds-of-terror
+5. Badlands Brief — "Q for Dummies - Chapter 18", URL: https://badlands.substack.com/p/q-for-dummies-chapter-18

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [transparency, foia, litigation, federal-agencies]
-sources: [raw/badlands-news-brief-cce.md, raw/clowns-in-america.md, raw/irregular-warfare.md]
+sources: [raw/badlands-news-brief-cce.md, raw/clowns-in-america.md, raw/irregular-warfare.md, raw/nothing-is-as-it-appears.md]
 confidence: medium
 ---
 
@@ -35,3 +35,11 @@ The August 2023 Badlands article "Clowns in America" argues that the Freedom of 
 
 2. Badlands Brief — "Clowns in America", URL: https://badlands.substack.com/p/clowns-in-america
 3. Badlands Brief — "Irregular Warfare", URL: https://badlands.substack.com/p/irregular-warfare
+
+## Presidential libraries and FOIA avoidance
+
+In "Nothing Is as It Appears," [[joe-lange|Joe Lange]] argues that past presidents are "deathly afraid" of the Freedom of Information Act because the statute gives power to the people, and that housing records at personal presidential libraries rather than in a secure facility in Washington, D.C. was a deliberate means of retaining control over self-incriminating material.[4] The [[archivist-of-the-united-states|Archivist of the United States]] is charged not only with safeguarding federal and presidential records but with making them available for public viewing in libraries and museums or in fulfilment of court orders arising from FOIA requests — the half of the job Lange says has been systematically frustrated.[4]
+
+He pairs FOIA with the [[presidential-records-act|Presidential Records Act]] as the two statutes that establish public ownership of all official documents, including classified ones, and predicts both will be enforced to safeguard the power of the people and to expose the conduct of prior administrations.[4]
+
+4. Badlands Brief — "Nothing Is as It Appears", URL: https://badlands.substack.com/p/nothing-is-as-it-appears

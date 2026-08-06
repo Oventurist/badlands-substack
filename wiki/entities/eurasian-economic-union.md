@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [eaeu, eurasia, finance, multipolar]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-re-alignment-of-world-systems.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-re-alignment-of-world-systems.md, raw/oligarchism-and-the-great-game.md]
 confidence: medium
 ---
 
@@ -24,6 +24,11 @@ The EAEU forms part of the broader multipolar alliance whose leaders convened at
 
 In October 2013 Ukrainian President [[viktor-yanukovych|Viktor Yanukovych]] chose to throw Ukraine's destiny into the Eurasian Economic Union rather than sacrifice the country on the altar of the collapsing European Union, a decision that in [[matthew-ehret|Matthew Ehret]]'s account reclassified him from a "good" plutocrat to a bad one in the estimation of figures such as [[chrystia-freeland|Chrystia Freeland]].[[2]](https://badlands.substack.com/p/a-re-alignment-of-world-systems) The 2014 coup in Ukraine followed, and Ehret treats it as the point after which the unipolar script began visibly failing.[[2]](https://badlands.substack.com/p/a-re-alignment-of-world-systems)
 
+## Moldova observer status
+
+[[moldova|Moldova]] obtained observer status in the Eurasian Economic Union on March 14, 2018, an accession accelerated by President [[igor-dodon|Igor Dodon]], who paired it with a simultaneously pro-Europe and pro-Russia policy that some technocrats treated as blasphemy.[3] At the time [[vladimir-putin|Vladimir Putin]] laid out the philosophy of EU–EAEU cooperation, saying that "the Eurasian Union will be built on universal integration principles as an integral part of a harmonious community of economies from Lisbon to Vladivostok."[3] Dodon later cited the retention of EAEU observer status alongside deals signed with the European Union as evidence of a successfully balanced foreign policy.[3]
+
 ## References
 1. Badlands Brief — "A Gateway to a New World of Cooperation", URL: https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation
 2. Badlands Brief — "A Re-Alignment of World Systems", URL: https://badlands.substack.com/p/a-re-alignment-of-world-systems
+3. Badlands Brief — "Oligarchism and the Great Game", URL: https://badlands.substack.com/p/oligarchism-and-the-great-game

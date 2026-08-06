@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [saudi-arabia, journalism, cia, mossad, epstein]
-sources: [raw/badlands-brief-f17.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-bed.md, raw/badlands-news-brief-f6e.md]
+sources: [raw/badlands-brief-f17.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-bed.md, raw/badlands-news-brief-f6e.md, raw/profiting-from-war.md]
 confidence: medium
 ---
 
@@ -53,6 +53,13 @@ The commentary argued outright that the Saudis did not kill Khashoggi, describin
 
 The 2018 killing of Khashoggi, a Washington Post opinion columnist and Virginia resident who was dismembered in the Saudi Consulate in Turkey in a killing US intelligence officials concluded Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] had ordered, resurfaced during the crown prince's November 2025 visit to Washington.[7] Rep. [[eugene-vindman|Eugene Vindman]] called on President [[donald-trump|Donald Trump]] to release the transcript of a phone call with the crown prince that took place in the aftermath of the assassination, saying the call "was about the murder of an American resident — a Virginia resident — and a Washington Post reporter."[7] The Washington Post noted that many tech and Wall Street executives who had shunned the kingdom after the killing attended the November 18 [[white-house|White House]] dinner in the crown prince's honor.[7]
 
+
+## Treatment in "Profiting From War"
+
+Joe Lange's "Profiting From War" identifies Jamal Khashoggi as the son of the arms dealer and [[bank-of-credit-and-commerce-international|BCCI]] investor [[adnan-khashoggi|Adnan Khashoggi]], who helped [[central-intelligence-agency|the CIA]] arm Iran and the Contras.[8] The article asserts that Khashoggi was himself a CIA operative wanted in Saudi Arabia on criminal charges he was avoiding by staying abroad, and that he "made the mistake of going to a Saudi Arabian consulate."[8] It frames his killing as an act of war against an enemy rather than the murder of a journalist, and argues that CIA-controlled media used his death to attack Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] and to drive a wedge between him and [[donald-trump|Donald Trump]].[8]
+
+Citing [[rolling-stone|Rolling Stone]], the article records that Trump, asked repeatedly whether he believed bin Salman ordered the killing, answered "He says he didn't do it," while the CIA had concluded that he did; intelligence reporting indicated fifteen Saudi agents flew to Istanbul in October 2018, murdered Khashoggi inside the consulate, dismembered his body and removed it in plastic bags.[8] Members of both parties advanced measures to hold bin Salman accountable, including a resolution labeling him complicit.[8] Secretary of State [[mike-pompeo|Mike Pompeo]] said there was no "direct reporting" of guilt and Defense Secretary [[james-mattis|James Mattis]] said there was no "smoking gun."[8] In 2019 bipartisan majorities in the House and Senate passed legislation to block or limit weapons sales to Saudi Arabia, the United Arab Emirates and Jordan after the administration used an emergency declaration to conclude an $8.1 billion arms deal without congressional approval, but the bills never became law because Trump vetoed them and lawmakers could not override.[8]
+
 ## References
 1. Badlands Brief — "Epstein Clickbait, Lemon's Demise, & Zionists MAD", URL: https://badlands.substack.com/p/badlands-brief-f17
 2. Badlands News Brief — "Trump Doubles Down as Kamala Crumbles", URL: https://badlands.substack.com/p/badlands-news-brief-020
@@ -61,3 +68,4 @@ The 2018 killing of Khashoggi, a Washington Post opinion columnist and Virginia 
 5. Badlands Brief — "Badlands News Brief: Black Hat Nightmares & A Camelback Caravan of Confirmation", URL: https://badlands.substack.com/p/badlands-news-brief-a64
 6. Badlands Brief — "Badlands News Brief: Immigration Dominates Headlines as Devo Proofs Abound", URL: https://badlands.substack.com/p/badlands-news-brief-bed
 7. Badlands Brief — "Badlands News Brief: Ghost Puppeteers, Sudanese Solutions, & Pam Bondi's Desk", URL: https://badlands.substack.com/p/badlands-news-brief-f6e
+8. Badlands Brief — "Profiting From War", URL: https://badlands.substack.com/p/profiting-from-war

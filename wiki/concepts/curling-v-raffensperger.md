@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [litigation, election-integrity, georgia, dominion-voting-systems]
-sources: [raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-4ab.md, raw/badlands-news-brief-dc1.md]
+sources: [raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-4ab.md, raw/badlands-news-brief-dc1.md, raw/previously-sealed-report-on-dominion.md]
 confidence: medium
 ---
 
@@ -38,3 +38,9 @@ In November 2023, Judge [[amy-totenberg|Amy Totenberg]] granted a bench trial in
 
 U.S. District Judge [[amy-totenberg|Amy Totenberg]] dismissed the case in a ruling issued Monday, March 31, 2025, even while maintaining substantial concerns about the security of Georgia's electronic voting system.[3] Totenberg held that the plaintiffs — the Coalition for Good Governance and a group of Georgia voters — lacked standing because they could not demonstrate that the electronic voting system disenfranchises them from exercising their right to vote, and she characterized some of their objections to the touchscreen ballot marking devices as policy disagreements rather than constitutional violations.[3] The dismissal came a day after Attorney General [[pam-bondi|Pam Bondi]] directed the [[department-of-justice|Department of Justice]] to drop a separate Biden-era challenge to [[georgia-senate-bill-202|Georgia Senate Bill 202]].[3]
 3. Badlands Brief — "Badlands News Brief: Cognitive Cyphers & African Amnesty", URL: https://badlands.substack.com/p/badlands-news-brief-dc1
+
+## Origins and the unsealing of the Halderman Report
+
+The suit was filed in 2017, during [[brian-kemp|Brian Kemp]]'s tenure as Georgia Secretary of State, over concerns with the [[diebold-election-systems|Diebold]] paperless touchscreen voting machines then in use.[4] In 2020, Judge [[amy-totenberg|Amy Totenberg]] ordered Georgia to replace those machines, and the state adopted the [[dominion-imagecast-x|Dominion ICX]] [[ballot-marking-device|ballot marking devices]] against the advice of election security experts, including the lone cybersecurity expert on the governor's commission to recommend a new voting system.[4] The [[halderman-report|Halderman Report]] prepared for the case by [[j-alex-halderman|Dr. J. Alex Halderman]] and [[drew-springall|Prof. Drew Springall]] was unsealed in June 2023, almost two years after submission.[4] Also in the litigation, Halderman testified regarding an October 2020 order permitting a "de minimis" software change to fix a ballot display problem, criticizing [[pro-v-and-v|Pro V&V]] for having performed "only cursory testing" of the new software.[4]
+
+4. Badlands Brief — "Previously *SEALED* Report on Dominion Voting Machines in Georgia Shows Critical Vulnerabilities", URL: https://badlands.substack.com/p/previously-sealed-report-on-dominion

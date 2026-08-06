@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [journalism, badlands-media, canada, historiography]
-sources: [raw/a-re-alignment-of-world-systems.md, raw/a-new-american-renaissance.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/avoiding-wwiii.md, raw/badlands-news-brief-a69.md, raw/brics-vs-the-wef.md, raw/combating-the-transhumanist-religion.md, raw/defeating-the-depopulation-agenda.md, raw/dont-be-symbol-minded.md, raw/in-defense-of-abraham-lincoln-and.md, raw/how-to-stop-civil-war-20.md, raw/john-bobby-and-marilyn.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/a-new-american-renaissance.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/avoiding-wwiii.md, raw/badlands-news-brief-a69.md, raw/brics-vs-the-wef.md, raw/combating-the-transhumanist-religion.md, raw/defeating-the-depopulation-agenda.md, raw/dont-be-symbol-minded.md, raw/in-defense-of-abraham-lincoln-and.md, raw/how-to-stop-civil-war-20.md, raw/john-bobby-and-marilyn.md, raw/oligarchism-and-the-great-game.md]
 confidence: medium
 ---
 
@@ -58,6 +58,10 @@ On July 27, 2024 Ehret published "John, Bobby ... and Marilyn," an examination o
 
 Ehret argued that the claims attributed to Monroe's unseen diary invert the record: the Kennedys opposed toppling Castro, worked against the [[bay-of-pigs|Bay of Pigs]] invasion, issued [[nsam-263|NSAM 263]] to withdraw from Southeast Asia, and rejected [[operation-northwoods|Operation Northwoods]], which was authored by General [[lyman-lemnitzer|Lyman Lemnitzer]] and later linked through NATO's [[operation-gladio|Gladio]] stay-behind networks to the murders of [[ngo-dinh-diem|Diem]], Trujillo, Lumumba, Mattei, JFK, RFK and Martin Luther King Jr.[12] He stated that he agrees Monroe was murdered, but attributes it to her psychiatrist and [[mk-ultra|MK Ultra]]-connected Monarch operations and the occult capture of Hollywood, subjects entirely absent from the mainstream narratives.[12] He compared the exercise to his earlier study debunking claims that Martin Luther King Jr. was a rapist and sex maniac, and warned that credulity toward consistent multi-witness gossip had produced the inquisitions, witch hunts, Jacobin terror trials and McCarthyism.[12]
 
+## Oligarchism and the Great Game
+
+Ehret authored the December 2025 Badlands Media essay "Oligarchism and the Great Game," subtitled "The Crimes of Vlad Plahotniuc and the Strategic Position of Moldova," which built on [[joe-lange|Joe Lange]]'s report "The Bridge" to examine the career of the fugitive oligarch [[vlad-plahotniuc|Vlad Plahotniuc]] and the geopolitical contest over [[moldova|Moldova]].[13] The piece traced the 2009 [[2009-moldovan-twitter-revolution|"Twitter Revolution"]], the [[moldovan-billion-dollar-bank-fraud|billion-dollar bank fraud]], the multipolar turn under [[igor-dodon|Igor Dodon]], and the Western-backed restoration under [[maia-sandu|Maia Sandu]].[13]
+
 ## References
 1. Badlands Brief — "A Re-Alignment of World Systems", URL: https://badlands.substack.com/p/a-re-alignment-of-world-systems
 2. Badlands Brief — "A New American Renaissance", URL: https://badlands.substack.com/p/a-new-american-renaissance
@@ -103,3 +107,4 @@ On July 12, 2025 Ehret published "In Defense of Abraham Lincoln and the Greenbac
 10. Badlands Brief — "In Defense of Abraham Lincoln and the Greenbacks", URL: https://badlands.substack.com/p/in-defense-of-abraham-lincoln-and
 11. Badlands Brief — "How to Stop Civil War 2.0", URL: https://badlands.substack.com/p/how-to-stop-civil-war-20
 12. Badlands Brief — "John, Bobby ... and Marilyn", URL: https://badlands.substack.com/p/john-bobby-and-marilyn
+13. Badlands Brief — "Oligarchism and the Great Game", URL: https://badlands.substack.com/p/oligarchism-and-the-great-game

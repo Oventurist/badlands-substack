@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [vatican, finance, catholic-church, cabal]
-sources: [raw/control-the-financial-system-control.md]
+sources: [raw/control-the-financial-system-control.md, raw/operation-gladio-how-its-funded.md]
 confidence: low
 ---
 
@@ -18,6 +18,11 @@ The article then notes the sequence of events by which England became the first 
 
 These interpretations are the author's opinion and are presented as symbolic reading of events rather than documented financial fact.
 
+## CIA drug money
+
+The Badlands Media Gladio funding article identifies the Vatican Bank as the venue of choice for the [[cia]]'s drug money, alongside the Miami shell company [[general-development-corporation]] through which the finances of "[[operation-x]]" were managed.[2]
+
 ## References
 
 1. Badlands Brief — "Control the Financial System, Control the World", URL: https://badlands.substack.com/p/control-the-financial-system-control
+2. Badlands Brief — "Operation Gladio - How It's Funded", URL: https://badlands.substack.com/p/operation-gladio-how-its-funded

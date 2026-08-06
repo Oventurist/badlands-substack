@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [manson-family, cults, crime, california]
-sources: [raw/badlands-news-brief-153.md]
+sources: [raw/badlands-news-brief-153.md, raw/patsies-of-the-cia-and-fbi.md]
 confidence: medium
 ---
 
@@ -18,3 +18,11 @@ Manson's control over his followers has remained a recurring factor in Californi
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Very Productive Phone Calls & Presidential Memorandums", URL: https://badlands.substack.com/p/badlands-news-brief-153
+
+## Alleged MK ULTRA role
+
+The Badlands essay "Patsies of the CIA and FBI" names Manson among the figures suspected by many of having taken part in the [[cia|CIA]]'s [[mk-ultra|MK ULTRA]] mind-control program, alongside [[lee-harvey-oswald|Lee Harvey Oswald]], [[jack-ruby|Jack Ruby]], [[sirhan-sirhan|Sirhan Sirhan]], [[jim-jones|Jim Jones]], [[john-hinckley-jr|John Hinckley Jr.]], [[mark-david-chapman|Mark Chapman]], [[david-koresh|David Koresh]], [[timothy-mcveigh|Timothy McVeigh]] and [[john-salvi|John Salvi]].[2]
+
+Within the essay's taxonomy of alleged uses, Manson and Jones were used to create fear and race wars — as distinct from those deployed against people in power, or those used to discredit anti-government and pro-life constituencies.[2] MK ULTRA itself is described there as the mind-control system the CIA developed, using LSD and other drugs together with physical and psychological torture to break people's minds and reprogram them as assets.[2] See also [[intelligence-patsy|intelligence patsy]].[2]
+
+2. Badlands Brief — "Patsies of the CIA and FBI", URL: https://badlands.substack.com/p/patsies-of-the-cia-and-fbi

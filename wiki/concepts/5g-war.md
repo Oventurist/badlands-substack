@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [information-war, q-movement, propaganda, badlands-media]
-sources: [raw/expand-your-thinking.md, raw/mental-fortitude-for-5g-warriors.md]
+sources: [raw/expand-your-thinking.md, raw/mental-fortitude-for-5g-warriors.md, raw/q-is-real-because-math-says-so.md]
 confidence: low
 ---
 
@@ -33,3 +33,8 @@ The essay set out three trainable domains for the 5G warrior — emotional self-
 ## References
 1. Badlands Brief — "Expand Your Thinking", URL: https://badlands.substack.com/p/expand-your-thinking
 2. Badlands Brief — "Mental Fortitude for 5G Warriors", URL: https://badlands.substack.com/p/mental-fortitude-for-5g-warriors
+3. Badlands Brief — "Q is Real, Because Math Says So", URL: https://badlands.substack.com/p/q-is-real-because-math-says-so
+
+## An invitation to participate
+
+The closing passage of "Q is Real, Because Math Says So" (June 27, 2024) casts the 5G war as a conflict to which ordinary citizens have been expressly invited: "There's a 5G battle going on, and we were invited to PARTICIPATE," a role [[american-hypnotist|American Hypnotist]] says he can hardly think of a greater honor than filling.[3] On his argument, if [[q-operation|Q]] is genuine then piecing the "comms" together and broadcasting the findings online constitutes a real service to America and the world, and is among the most important uses of an [[anons|anon]]'s time.[3]

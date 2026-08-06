@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [erik-prince, blackwater, private-military-contractors, venezuela]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-257.md, raw/badlands-brief-52f.md, raw/badlands-brief-eed.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-257.md, raw/badlands-brief-52f.md, raw/badlands-brief-eed.md, raw/purple-revolution.md]
 confidence: medium
 ---
 
@@ -40,3 +40,11 @@ Following the opening of major U.S. combat operations against [[iran|Iran]], Pri
 2. Badlands Brief — "Bicameral Deal-Making and Accelerationism Acknowledged", URL: https://badlands.substack.com/p/badlands-brief-257
 3. Badlands Brief — "As Expected Energy Wars, 'Life Insurance', & Crazies Keeping Their Guns (Maybe)", URL: https://badlands.substack.com/p/badlands-brief-52f
 4. Badlands Brief — "WAR!", URL: https://badlands.substack.com/p/badlands-brief-eed
+
+## The 2016 transition and the Trump Tower meeting
+
+Badlands Media's [[purple-revolution|Purple Revolution]] analysis raises Prince, founder of the private military company [[blackwater|Blackwater]], as evidence that the incoming [[donald-trump|Trump]] team distrusted the US military.[5] Prince at first denied having any role in Trump's transition team, then later admitted to being present at the Trump Tower meeting with Donald Trump Jr. in August 2016.[5] The article asks why the Trump team would seek advice from someone in the private military space rather than from the US Military, and answers that the military may have been too compromised.[5]
+
+It further notes that Trump appointed Prince's sister [[betsy-devos|Betsy DeVos]] as Secretary of Education and pardoned four former Blackwater employees convicted over a 2007 shooting in Iraq that killed 17 people, while observing that Blackwater's US government contracts declined sharply after Barack Obama took office.[5]
+
+5. Badlands Brief — "Purple Revolution", URL: https://badlands.substack.com/p/purple-revolution

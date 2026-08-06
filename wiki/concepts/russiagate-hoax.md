@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [russiagate, intelligence, accountability, hoax, media]
-sources: [raw/badlands-blitz-episode-14.md, raw/badlands-brief-625.md, raw/badlands-news-brief-07f.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-d04.md, raw/badlands-news-brief-dbb.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-fde.md]
+sources: [raw/badlands-blitz-episode-14.md, raw/badlands-brief-625.md, raw/badlands-news-brief-07f.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-d04.md, raw/badlands-news-brief-dbb.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-fde.md, raw/q-for-dummies-chapter-2.md]
 confidence: medium
 ---
 
@@ -129,3 +129,8 @@ When [[john-durham|John Durham]]'s final report was released in May 2023, [[dona
 13. Badlands News Brief — "A Moscow Mission, Historic Agreements, & A New Fed Chair", URL: https://badlands.substack.com/p/badlands-news-brief-dbb
 14. Badlands News Brief — "Trump Lawsuits, Media Amnesty and Biden's Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-e40
 15. Badlands Brief — "Badlands News Brief: The Durham Report, Epstein Suit & Border Bags", URL: https://badlands.substack.com/p/badlands-news-brief-fde
+16. Badlands Brief — "Q for Dummies - Chapter 2", URL: https://badlands.substack.com/p/q-for-dummies-chapter-2
+
+## Q for Dummies Chapter 2 reading
+
+Badlands' "Q for Dummies" Chapter 2 argues that the ultimate product of [[robert-mueller|Robert Mueller]]'s investigation was proof that Russiagate was a hoax, and offers that outcome as evidence for its broader claim that Mueller — along with [[james-comey|James Comey]] and [[rod-rosenstein|Rod Rosenstein]] — was working on the white-hat side rather than against [[donald-trump|Trump]].[16]

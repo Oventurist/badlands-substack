@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [central-banking, debt, monetary-policy, financial-system]
-sources: [raw/master-and-commander.md]
+sources: [raw/master-and-commander.md, raw/money-and-oil.md]
 confidence: low
 ---
 
@@ -34,3 +34,10 @@ The essay attributes recent dollar strength to three factors: rapid rate rises a
 
 ## References
 1. Badlands Brief — "Master and Commander", URL: https://badlands.substack.com/p/master-and-commander
+2. Badlands Brief — "Money and Oil", URL: https://badlands.substack.com/p/money-and-oil
+
+## Oil prices and the brink of collapse (November 2022)
+
+Joe Lange's November 2022 essay "Money and Oil" argues that the entire global debt system stands on the brink of collapse because the dollar is strengthening while every other world currency weakens.[2] He notes that three central banks — those of the United Kingdom, [[japan|Japan]] and Switzerland — had recently required [[federal-reserve|Federal Reserve]] bailouts for this reason, and that the whole world was pressuring the Fed to stop raising rates because oil must be purchased in U.S. dollars.[2]
+
+The exchange rate, in this account, is what bankrupts commercial banks: they lack sufficient dollars on hand and must convert weakening local currencies into stronger dollars, so they need the Fed to print money and kill the dollar to make [[oil|oil]] cheaper.[2] Lange reads a Q post as referring not to the Federal Reserve but to a "Federal Exchange Department" for commercial banks, concluding that the [[cabal|cabal]] controls the world's money supply through exchange rates for the dollars needed to buy oil, and that the Fed's strong dollar is dismantling that mechanism.[2] Because the world is at the end of the debt cycle and drowning in debt, he argues, inflationary oil prices — with [[saudi-arabia|Saudi Arabia]] cutting output rather than raising it — will be what pushes the system over the edge.[2]

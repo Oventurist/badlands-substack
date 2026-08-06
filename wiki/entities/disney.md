@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [corporations, media, americana, boycotts]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-brief-0a2.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-3c1.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-a3b.md, raw/has-trumps-whole-life-been-a-sting.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-brief-0a2.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-3c1.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-a3b.md, raw/has-trumps-whole-life-been-a-sting.md, raw/no-honor-among-thieves.md]
 confidence: medium
 ---
 
@@ -91,3 +91,9 @@ The filing reported fiscal 2023 revenues of $88.9 billion, a seven percent incre
 A June 15, 2024 Badlands feature by [[erik-carlson|Erik Carlson]] noted that billionaire investors [[carl-icahn|Carl Icahn]] and [[nelson-peltz|Nelson Peltz]] had both recently been in the news for unsuccessfully attempting to take control of Disney, which Carlson described as a "money-bleeding and woke corporation."[11]
 
 11. Badlands Brief — "Has Trump's Whole Life Been a Sting Operation?", URL: https://badlands.substack.com/p/has-trumps-whole-life-been-a-sting
+
+## The 2024 boardroom "mutiny"
+
+Badlands contributor [[erik-carlson|Erik Carlson]] cited Disney as the leading example of shareholders using the annual [[shareholder-proxy-voting|proxy vote]] to push back against woke corporate policy.[12] Investors attempted what he called a mutiny, seeking to seat directors focused on growing the share price and potentially to remove chief executive [[bob-iger|Bob Iger]].[12] Carlson attributed Disney's performance to its [[diversity-equity-and-inclusion|DEI]]-driven policies, noting the stock was down 15% from its level five years earlier while the S&P 500 had risen 74% over the same period.[12]
+
+12. Badlands Brief — "No Honor Among Thieves", URL: https://badlands.substack.com/p/no-honor-among-thieves

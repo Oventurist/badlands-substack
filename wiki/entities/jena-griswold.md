@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [colorado, elections, secretary-of-state, tina-peters]
-sources: [raw/badlands-brief-174.md, raw/badlands-brief-5a2.md, raw/badlands-brief-707.md, raw/badlands-brief-b56.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-8cb.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-cba.md]
+sources: [raw/badlands-brief-174.md, raw/badlands-brief-5a2.md, raw/badlands-brief-707.md, raw/badlands-brief-b56.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-8cb.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-cba.md, raw/q-for-dummies-chapter-19.md]
 confidence: medium
 ---
 
@@ -84,6 +84,10 @@ Badlands writer [[ashe-in-america|Ashe in America]], who reported on the episode
 
 Badlands commentary returned to the episode on 1 November 2024 to contrast it with warnings from the [[cisa|Cybersecurity and Infrastructure Security Agency]] that Russian, Chinese and Iranian operators were attempting to disrupt the vote with disinformation.[15] The writer noted that Griswold's team had left machine BIOS passwords for more than 600 pieces of equipment publicly available on the internet for months while her office concealed the breach for days, yet officials insisted there was no threat to Colorado elections — a juxtaposition summarized as "these are not serious professionals."[15]
 
+## Cited as a Soros-affiliated secretary of state
+
+Chapter 19 of the [[q-for-dummies|Q for Dummies]] series takes up Q's question of who decides which voting machines are used in each state, answering that the choice belongs to each state's secretary of state.[16] The author urges readers to research how many secretaries of state are Democrats and, more pointedly, how many were funded by or are affiliated with [[george-soros|George Soros]], naming Griswold as a good example.[16] The same passage identifies Soros as the answer to Q's question about who exerts outsized influence over American elections, and notes that some counties still hand-count ballots because they are controlled by patriots and therefore run clean elections.[16]
+
 ## References
 1. Badlands Brief — "Conflicts, Cartels, & Clemency", URL: https://badlands.substack.com/p/badlands-brief-174
 2. Badlands Brief — "Tina Peters' Sentence Commuted; ISIS Killed in Africa", URL: https://badlands.substack.com/p/badlands-brief-5a2
@@ -100,3 +104,4 @@ Badlands commentary returned to the episode on 1 November 2024 to contrast it wi
 13. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
 14. Badlands Brief — "Badlands News Brief: The Garbage Man Cometh to Take out the Trash", URL: https://badlands.substack.com/p/badlands-news-brief-aed
 15. Badlands Brief — "Badlands News Brief: Election-Mongering and Electioneering as Shenanigans Abound", URL: https://badlands.substack.com/p/badlands-news-brief-cba
+16. Badlands Brief — "Q for Dummies - Chapter 19", URL: https://badlands.substack.com/p/q-for-dummies-chapter-19

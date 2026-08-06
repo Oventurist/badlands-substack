@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [wwii, wwi, britain, history, revisionism]
-sources: [raw/badlands-news-brief-6f7.md]
+sources: [raw/badlands-news-brief-6f7.md, raw/operation-gladio-a-primer.md]
 confidence: medium
 ---
 
@@ -26,5 +26,12 @@ The Brief argues that in choosing total warfare against the European continent C
 
 The Brief traces Churchill's motivations partly to the [[battle-of-gallipoli|Gallipoli campaign]] of the First World War, when as First Lord of the Admiralty he pursued a naval solution to the stalemate of trench warfare.[1] The attack was a total failure: Turkish artillery sank several British ships, and after about a year of fighting each side had lost 250,000 men, after which British and Australian forces withdrew, leaving Churchill humiliated and seeking redemption.[1] The Brief concludes that Churchill was not the hero he is depicted to be, that the extent of his culpability remains debatable, and that attempts to shut the conversation down reflect a Uniparty position rather than a purely left-wing one.[1]
 
+## Boer War and stay-behind units
+
+Colonel [[roxane-watkins|Roxane Watkins]] records that a young British reporter covering the Boer campaign in southern Africa was Winston Churchill, and that he went on to institute the use of [[stay-behind-units|stay-behind units]] throughout the United Kingdom.[2] During the Second World War he set up the Jedburgh version of the stay-behind concept, at the same time that [[adolf-hitler|Adolf Hitler]] was instituting the identical concept across Axis-conquered territory.[2] Watkins alludes to discussions said to have taken place between Hitler and Churchill through cut-outs, pointing readers to the Mitford sisters as a starting point for research while placing the subject outside the scope of her series on [[operation-gladio|Operation Gladio]].[2]
+
+The campaign Churchill covered is also where, in her telling, the Boers demonstrated the stay-behind tactic by caching weapons along the British attack route, and where the victorious British later interned Boer women, children and the elderly in what she calls the first known use of concentration camps.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Psyops Abound as the Media Landscape Shifts Rapidly", URL: https://badlands.substack.com/p/badlands-news-brief-6f7
+2. Badlands Brief — "Operation Gladio - A Primer", URL: https://badlands.substack.com/p/operation-gladio-a-primer

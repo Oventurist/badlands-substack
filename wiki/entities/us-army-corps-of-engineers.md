@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [us-government, engineering, baltimore, salvage]
-sources: [raw/badlands-news-brief-b10.md]
+sources: [raw/badlands-news-brief-b10.md, raw/moves-and-countermoves.md]
 confidence: medium
 ---
 
@@ -22,3 +22,8 @@ At the time of the article, no local, state, or federal official had offered a t
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Middle Eastern Shenanigans & Dasting Data Dominate", URL: https://badlands.substack.com/p/badlands-news-brief-b10
+2. Badlands Brief — "Moves and Countermoves", URL: https://badlands.substack.com/p/moves-and-countermoves
+
+## "RED CASTLE" in the Q drops
+
+In "Moves and Countermoves," [[joe-lange|Joe Lange]] identifies the Corps of Engineers as the "RED CASTLE" of the [[qanon|Q]] drops — a reference to the castle in the Corps' insignia — and as the body that was always intended to build the wall on the southern border.[2] He pairs it with Q's instruction to "Think Green/RED CASTLE," decoding "Greencastle" as Greencastle, Indiana, and treats Q drop #2582 of December 11, 2018 as confirmation of an anon's earlier decode.[2] On this reading, [[donald-trump|Trump]]'s push for more than $700 billion in new military spending was never only about rebuilding the armed forces: the plan from the outset was to have the military fund and construct the wall under the president's constitutional national security powers, bypassing opposition in [[congress|Congress]] from [[john-mccain|John McCain]], [[nancy-pelosi|Nancy Pelosi]] and [[chuck-schumer|Chuck Schumer]].[2] CNN reported on March 27, 2018 that Trump had privately floated funding wall construction through the U.S. military budget, a report press secretary Sarah Sanders declined to address directly.[2]

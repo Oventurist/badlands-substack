@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [saudi-arabia, intelligence, syria]
-sources: [raw/badlands-news-brief-311.md]
+sources: [raw/badlands-news-brief-311.md, raw/operation-cyclone-the-seeds-of-terror.md]
 confidence: medium
 ---
 
@@ -20,6 +20,11 @@ According to a former Qatari defense minister who went public with details of th
 
 Bandar was ousted from his post on January 29, 2015, the stated reason being that his office and his entire agency had been abolished.[1] That same date saw the death of Saudi King Abdullah and the accession of Crown Prince Salman, who immediately appointed his young son — [[mohammed-bin-salman|Mohammed bin Salman]] — as Defense Minister; MBS then reorganized the Saudi government from scratch within about ten days.[1]
 
+## Account of bin Laden
+
+Badlands Media's retrospective on [[operation-cyclone|Operation Cyclone]] notes that Prince Bandar bin Sultan appeared on *Larry King* and recounted an interaction he had had with [[osama-bin-laden|Osama bin Laden]].2
+
 ## References
 
 1. Badlands Brief — "Theatrical Judges, Syrian Statements & Canadian Defections", URL: https://badlands.substack.com/p/badlands-news-brief-311
+2. Badlands Brief — "Operation Cyclone - The Seeds of Terror", URL: https://badlands.substack.com/p/operation-cyclone-the-seeds-of-terror

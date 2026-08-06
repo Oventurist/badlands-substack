@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [arizona, secretary-of-state, elections, democratic-party]
-sources: [raw/an-sos-from-ground-zero.md, raw/anthony-fauci.md, raw/arizona-earthquake.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-e99.md]
+sources: [raw/an-sos-from-ground-zero.md, raw/anthony-fauci.md, raw/arizona-earthquake.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-e99.md, raw/operation-wake-up-america-20.md]
 confidence: medium
 ---
 
@@ -38,6 +38,10 @@ Badlands Media writer [[ashe-in-america|Ashe in America]] wrote that Hobbs had p
 
 On Tuesday, February 25, 2025, Hobbs signed an executive order "to combat the cartels, stop drug smuggling, and secure Arizona's border," establishing a joint task force named [[operation-desert-guardian|Operation Desert Guardian]].[5] The order directs the Arizona Department of Public Safety, the Arizona Department of Homeland Security, and the Department of Emergency and Military Affairs to focus on the identification, deterrence, interdiction, and dismantling of transnational criminal organizations, with the state homeland security department convening the task force alongside county sheriffs and local and federal law enforcement.[5] Hobbs said her administration had been in contact with the federal government and local sheriffs about the operation and a shared commitment to keeping criminals and drugs out of Arizona communities.[5] Badlands contributor Chris Paul dismissed the announcement with the line "Fake governors don't have choices."[5]
 
+## Portrayal in "Operation Wake Up America 2.0" (December 2022)
+
+Writing on December 2, 2022, [[badlands-media|Badlands Media]] contributor [[kitty-gillespie|Kitty Gillespie]] predicted that, despite [[kari-lake|Kari Lake]]'s election challenge, "a judiciary that's as corrupt as our leftist state government" would ensure Hobbs was "crowned" Governor of Arizona.[6] Gillespie characterized her as "a complete nightmare" and "a Communist," while insisting she was "just a puppet" who would attempt "to drive Arizona into the ground."[6] The essay framed the coming "impotent and corrupt Hobbs regime" as an installed administration that would command no respect from Arizonans, and cast the chaos it was expected to generate — inflation, gas prices, immigration, drug and sex trafficking, and fentanyl poisoning — as fuel for the growth of the [[america-first-movement|America First movement]] in the state.[6] It cited a [[rasmussen-reports|Rasmussen]] poll finding that 71% of likely U.S. voters, including 40% saying "very likely," believed problems with the election in [[maricopa-county|Maricopa County]] had affected the outcome of Arizona's Senate race.[6] Gillespie also anticipated that Lake would run a "shadow governorship" whose work would often require disrupting the Hobbs administration's plans.[6]
+
 ## References
 
 1. Badlands Brief — "An SOS From Ground Zero", URL: https://badlands.substack.com/p/an-sos-from-ground-zero
@@ -45,3 +49,4 @@ On Tuesday, February 25, 2025, Hobbs signed an executive order "to combat the ca
 3. Badlands Media — "Arizona Earthquake!", URL: https://badlands.substack.com/p/arizona-earthquake
 4. Badlands Brief — "Trump Takes on Big Pharma and GART Kicks Off!", URL: https://badlands.substack.com/p/badlands-news-brief-62c
 5. Badlands Brief — "Ukrainian Whiplash & NatSec Fetishes", URL: https://badlands.substack.com/p/badlands-news-brief-e99
+6. Badlands Media — "Operation Wake Up America 2.0", URL: https://badlands.substack.com/p/operation-wake-up-america-20

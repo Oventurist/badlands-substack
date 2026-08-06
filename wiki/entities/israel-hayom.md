@@ -4,13 +4,19 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, media, antisemitism, security]
-sources: [raw/badlands-news-brief-306.md]
+sources: [raw/badlands-news-brief-306.md, raw/our-greatest-ally.md]
 confidence: medium
 ---
 
 # Israel Hayom
 
-**Israel Hayom** is described in Badlands coverage as the largest online media outlet in Israel.[1]
+**Israel Hayom** is described in Badlands coverage as the largest online media outlet in Israel.[1] It is also characterized as the most widely distributed newspaper in the country, owned by the family of the late casino mogul, philanthropist and political donor [[sheldon-adelson|Sheldon Adelson]].[2]
+
+## March 2024 Trump interview
+
+In March 2024 the paper dispatched its editor-in-chief Omer Lachmanovitch and journalist Ariel Kahana to Mar-a-Lago in an effort to obtain a definitive statement on the Gaza war from [[donald-trump|Donald Trump]], then widely regarded as the favorite to win the 2024 election.[2] The Badlands essay "Our 'Greatest Ally'" argues the journalists did not walk away with the answers they were hoping for: asked whether he supported the complete destruction of [[hamas|Hamas]], Trump pivoted to arguing the attack would never have occurred had he remained in office and that [[iran|Iran]] had been financially broken by his sanctions and tariff diplomacy.[2] Pressed on the rise in antisemitic attacks since October 7, Trump replied that Israel "made a very big mistake" in broadcasting images of bombs falling on buildings in [[gaza|Gaza]], calling it "a very bad picture for the world."[2]
+
+Adelson, a self-described Jewish "social liberal" who was simultaneously a conservative megadonor, is often credited with fueling the Republican Party's pro-Israel shift, which the article offers as context for the paper's editorial posture.[2]
 
 ## Call for a global Jewish security architecture
 
@@ -21,3 +27,4 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] chara
 ## References
 
 1. Badlands Brief — "Truckloads of Proof, Holiday Intifada, & Europe Must Swallow", URL: https://badlands.substack.com/p/badlands-news-brief-306
+2. Badlands Brief — "Our 'Greatest Ally'", URL: https://badlands.substack.com/p/our-greatest-ally

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [neoconservatism, pnac, bush-administration]
-sources: [raw/assad-day-in-damascus.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-f14.md]
+sources: [raw/assad-day-in-damascus.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-f14.md, raw/q-for-dummies-chapter-17.md]
 confidence: medium
 ---
 
@@ -32,3 +32,8 @@ Cheney died at the age of 84, his family announced on November 4, 2025, from com
 1. Badlands Brief — "Assad Day in Damascus", URL: https://badlands.substack.com/p/assad-day-in-damascus
 2. Badlands Brief — "Shutdown Showcase, Attempted Tariff Takedowns, & the Launch of Mammany Hall", URL: https://badlands.substack.com/p/badlands-news-brief-095
 3. Badlands Brief — "Badlands News Brief: Delays in Fake Justice & Signs of the Real Thing", URL: https://badlands.substack.com/p/badlands-news-brief-f14
+4. Badlands Brief — "Q for Dummies - Chapter 17", URL: https://badlands.substack.com/p/q-for-dummies-chapter-17
+
+## Halliburton and the Iraq invasion in Q drop #117
+
+Chapter 17 of the [[q-for-dummies|Q for Dummies]] series answers Q drop #117's question about which senior-level officials were affiliated with [[halliburton|Halliburton]] by naming Cheney and [[george-w-bush|George W. Bush]], noting that Cheney served on the company's board.[4] The chapter reduces its case to the formula "Iraq + Oil + Halliburton + Cheney/Bush 2.0 = Iraq invasion," arguing that the [[iraq-war|Iraq War]] had nothing to do with Saddam Hussein or weapons of mass destruction — which were never found — and was always about oil.[4]

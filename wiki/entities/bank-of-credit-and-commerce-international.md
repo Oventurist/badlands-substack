@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [bcci, cia, money-laundering, drug-trade, iran-contra, banking]
-sources: [raw/killing-the-peace.md, raw/missed-opportunities.md]
+sources: [raw/killing-the-peace.md, raw/missed-opportunities.md, raw/profiting-from-war.md]
 confidence: medium
 ---
 
@@ -38,3 +38,13 @@ Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] characterized BCCI as a
 BCCI facilitated billions in flows for entities including the CIA, Saudi intelligence and arms networks supporting anti-Soviet efforts in Afghanistan and other proxy conflicts, and [[adnan-khashoggi|Adnan Khashoggi]] borrowed heavily from the bank to finance arms purchases backed by Saudi and U.S. elements.[2]
 
 2. Badlands Brief — "Missed Opportunities", URL: https://badlands.substack.com/p/missed-opportunities
+
+## The Bush family connection
+
+"Profiting From War" describes BCCI as one of the biggest [[central-intelligence-agency|CIA]] money streams ever disrupted — a CIA bank that turned into a $20 billion fraud funding both agency operations and individuals.[3] Quoting a 2004 [[los-angeles-times|Los Angeles Times]] opinion piece, it identifies BCCI as Abu Dhabi-based and known by the nickname "Bank of Crooks and Criminals International," and links [[george-hw-bush|George H.W. Bush]]'s persistent bent toward the Middle East, covert operations and rogue banks to his combined oil and intelligence background.[3] Bush worked closely with [[kamal-adham|Kamal Adham]], head of Saudi intelligence and an early BCCI insider, after taking the CIA helm in January 1976.[3]
+
+Some of the clandestine arms shipments to Iran in the [[iran-contra-affair|Iran-Contra affair]] were BCCI-financed, and [[joe-lange|Joe Lange]] argues Bush used the bank to fund CIA operations during both Iran-Contra and [[iraqgate]].[3] The article contends the BCCI scandal was more dangerous to Bush than either affair because it implicated the whole [[bush-family|family]]: all four sons — [[george-w-bush|George W.]], [[jeb-bush|Jeb]], [[neil-bush|Neil]] and [[marvin-bush|Marvin]] — lined up deals with Saudi, Kuwaiti and Bahraini moneymen and "cozied up" to the bank, making the Middle East a "family money spigot."[3]
+
+Specific links cited include Texas businessman [[james-bath|James Bath]], North American representative for billionaire [[salem-bin-laden|Salem bin Laden]] and BCCI insider [[khalid-bin-mahfouz|Khalid bin Mahfouz]], whose $50,000 went into George W. Bush's 1979 [[arbusto-energy|Arbusto]] oil partnership; the "mosaic of BCCI connections" surrounding [[harken-energy|Harken Energy]] noted by the Wall Street Journal in 1991; and the conclusion by Time reporters Jonathan Beaty and S.C. Gwynne in *The Outlaw Bank* that Mahfouz or other BCCI players steered Harken's 1990 Bahrain drilling contract to the president's son.[3] Jeb Bush's business associates Guillermo Hernandez-Cartaya and Camilo Padreda were longtime associates of BCCI investor and arms dealer [[adnan-khashoggi|Adnan Khashoggi]], and Jeb also socialized with Adbur Sakhia, the Miami BCCI branch chief and later its top U.S. official.[3] The article argues that congressional and criminal investigations into BCCI drove Bush to start the [[gulf-war|Gulf War]] as a distraction.[3]
+
+3. Badlands Brief — "Profiting From War", URL: https://badlands.substack.com/p/profiting-from-war

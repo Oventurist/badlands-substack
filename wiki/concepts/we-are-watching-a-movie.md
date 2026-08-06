@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [q-movement, badlands-media, deep-state, narrative]
-sources: [raw/how-do-you-remove-a-potus.md]
+sources: [raw/how-do-you-remove-a-potus.md, raw/on-golden-bridges-and-the-art-of.md]
 confidence: low
 ---
 
@@ -24,6 +24,13 @@ Related to the same framing, Carlson described the situation as "5-D chess" in w
 
 Carlson conceded that his analysis was "purely speculation," while comparing it to claims about election fraud, January 6, COVID-19 and vaccines that he said were also still dismissed as speculation by some.[1] He invited skeptical readers who regarded his theorizing as "throwing darts at a wall" to nonetheless ask why [[cbs-news|CBS]] delayed reporting the [[biden-classified-documents-scandal|classified documents story]] until after the [[2023-speaker-of-the-house-election|Speaker election]] and the concessions that followed it.[1]
 
+## Actors and scripts
+
+In the January 28, 2025 Badlands Media feature "On Golden Bridges and the Art of War," the pseudonymous contributor [[american-hypnotist|American Hypnotist]] pressed the metaphor to its literal conclusion: movies feature actors who perform a script, and an actor is by definition "someone who pretends to be someone else."[2] On that basis the author argued that recognizing one is watching a movie is a fundamental prerequisite for effective participation in the [[fifth-generation-warfare|5G war]], and that the task of [[digital-soldiers|Digital Soldiers]] is to place current events and the utterances of public figures within that context rather than take anyone's words — including [[donald-trump|Trump]]'s — at face value.[2]
+
+The framing was applied to the apparent abandonment by Trump and [[elon-musk|Elon Musk]] of core [[america-first-movement|MAGA]] tenets during the [[h-1b-visa-program|H-1B visa]] controversy, which the author read as a theatrical production aimed at directing mass consciousness, with the [[qanon|Q]] proofs partly designed to reveal that fact.[2] The associated tactic was identified as the [[golden-bridge-strategy|golden bridge]] drawn from [[sun-tzu|Sun Tzu]].[2] The author closed by framing the choice for readers: either Trump and Musk are "a couple hapless billionaires" repeatedly misled by their enemies, or they are actors playing roles in a movie designed to wake the masses — a choice the author held to be resolved in favour of the latter by an honest review of the Q proofs.[2]
+
 ## References
 
 1. Badlands Brief — "How Do You Remove a POTUS?", URL: https://badlands.substack.com/p/how-do-you-remove-a-potus
+2. Badlands Brief — "On Golden Bridges and the Art of War", URL: https://badlands.substack.com/p/on-golden-bridges-and-the-art-of

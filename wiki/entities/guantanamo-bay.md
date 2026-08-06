@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [detention, military-commissions, september-11, defense-department]
-sources: [raw/badlands-news-brief-264.md, raw/badlands-news-brief-373.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-93e.md, raw/celebrating-15-years-of-indictments.md]
+sources: [raw/badlands-news-brief-264.md, raw/badlands-news-brief-373.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-93e.md, raw/celebrating-15-years-of-indictments.md, raw/q-for-dummies-chapter-22.md]
 confidence: medium
 ---
 
@@ -44,3 +44,9 @@ The essay's author argued that while such a spectacle "would provide for some gr
 3. Badlands News Brief — "Monkeypox ... For Real? And Other Info War Oddities", URL: https://badlands.substack.com/p/badlands-news-brief-36a
 4. Badlands Brief — "Badlands News Brief: A Midflight Collision, Dems Choose Division, Menendez Gets Prison", URL: https://badlands.substack.com/p/badlands-news-brief-93e
 5. Badlands Brief — "Celebrating 15 Years of Indictments and Justice!", URL: https://badlands.substack.com/p/celebrating-15-years-of-indictments
+
+## Appearances in Q research commentary (December 2024)
+
+Chapter 22 of the Badlands "Q for Dummies" series noted that during the December 2024 [[2024-army-navy-game|Army–Navy game]] broadcast, the soldiers shown watching the game from a base were stationed at Guantánamo Bay.[6] The author observed that the segment aired one day before a delta of Q Drop #3692, which pairs a photograph of Gitmo with the text "Operators are standing by."[6] The same chapter cited news breaking on December 17 that [[joe-biden|Joe Biden]] had returned a Kenyan terrorist to Kenya after releasing him from Guantánamo, connecting the release to Q material the author reproduced alongside it.[6]
+
+6. Badlands Brief — "Q for Dummies - Chapter 22", URL: https://badlands.substack.com/p/q-for-dummies-chapter-22

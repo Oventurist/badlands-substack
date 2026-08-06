@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [national-security, 9-11-commission, national-archives]
-sources: [raw/a-dereliction-of-duty.md]
+sources: [raw/a-dereliction-of-duty.md, raw/nothing-is-as-it-appears.md]
 confidence: medium
 ---
 
@@ -18,3 +18,8 @@ The article frames this as a panicked act tied to the [[nine-eleven-commission|9
 
 ## References
 1. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
+2. Badlands Brief — "Nothing Is as It Appears", URL: https://badlands.substack.com/p/nothing-is-as-it-appears
+
+## Legal outcome and archival context
+
+A later Badlands article summarising the episode records that in 2003 Berger, described as former national security adviser to President Bill Clinton, took classified memos on terrorist plots from the [[national-archives-and-records-administration|National Archives]] and destroyed them, and that he subsequently pleaded guilty to unauthorized removal of classified documents.[2] The incident is cited as part of the difficult period preceding [[david-ferriero|David Ferriero]]'s tenure as [[archivist-of-the-united-states|Archivist of the United States]], during which the Archives fought the [[george-w-bush|George W. Bush]] administration over access to post-9/11 records and was accused by The New York Times of needing "spine-stiffening."[2] [[joe-lange|Joe Lange]] argues that the classified material concerning the September 11 attacks caused panic across the Clinton, Bush and [[barack-obama|Obama]] administrations, and that Clinton had Berger steal and destroy the documents to keep the American people from learning the truth.[2]

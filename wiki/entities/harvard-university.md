@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [academia, higher-education, plagiarism, institutions]
-sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-748.md, raw/badlands-news-brief-7d4.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-a9e.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-df2.md, raw/badlands-news-brief-e0a.md, raw/badlands-news-brief-f0e.md, raw/hijacked-consciousness-sacred-origins.md]
+sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-748.md, raw/badlands-news-brief-7d4.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-a9e.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-df2.md, raw/badlands-news-brief-e0a.md, raw/badlands-news-brief-f0e.md, raw/hijacked-consciousness-sacred-origins.md, raw/q-for-dummies-chapter-14.md]
 confidence: medium
 ---
 
@@ -121,4 +121,10 @@ The Harvard action was reported alongside similar disruptions elsewhere, includi
 In "Hijacked Consciousness - Sacred Origins," the July 8, 2025 opening installment of the [[hijacked-consciousness-series|Hijacked Consciousness]] series by [[observing-consciousness|Observing Consciousness]], Harvard is named as a node in what the author calls the "Ivy obedience grid."[16] Describing a credential class of "groomed handlers of empire" consolidating power behind the visible reform of curriculum, the essay asserts that "Harvard wasn't brilliance. It was obedience, well-dressed," pairing the university with [[skull-and-bones|Skull and Bones]] as "the ritual dressing room of power."[16] The passage forms part of the article's wider argument that the [[industrial-model-of-schooling|industrial model of schooling]] used testing to sort and filter students into institutional advancement rather than to educate them.[16]
 
 16. Badlands Brief — "Hijacked Consciousness - Sacred Origins", URL: https://badlands.substack.com/p/hijacked-consciousness-sacred-origins
+
+## HUMA and the Saudi purge
+
+Chapter 14 of the [[q-for-dummies|Q for Dummies]] series brings Harvard into its discussion of the November 2017 [[saudi-purge|Saudi purge]].[17] Examining the backgrounds of those detained, the author reports that a few of them had ties to Harvard University, and that some held dual U.S.–Saudi citizenship.[17] On that basis the chapter revisits the earlier Q reference "HUMA," arguing it denotes not Huma Abedin but the Harvard University Muslim Alumni — an organisation the author says maintains chapters and foundations across the country, many of them funded by [[george-soros|Soros]].[17] The claim is presented without documentation and functions in the article as a bridge between Saudi and American networks.[17]
+
+17. Badlands Brief — "Q for Dummies - Chapter 14", URL: https://badlands.substack.com/p/q-for-dummies-chapter-14
 

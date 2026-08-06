@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [north-korea, hostages, bill-clinton, 2009, diplomacy]
-sources: [raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/badlands-brief-9f2.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-d74.md, raw/badlands-news-brief-f76.md, raw/does-the-cia-still-control-iran.md, raw/everything-is-connected.md]
+sources: [raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/badlands-brief-9f2.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-d74.md, raw/badlands-news-brief-f76.md, raw/does-the-cia-still-control-iran.md, raw/everything-is-connected.md, raw/panic-in-dc.md, raw/q-for-dummies-chapter-2.md]
 confidence: medium
 ---
 
@@ -104,6 +104,7 @@ Badlands contributor Joe Lange argues that North Korea was one of a set of "rogu
 10. Badlands Brief — "Badlands News Brief: “Terrifying” Trade Alliances, Pedagogue Payouts, & A Bondi Barn Burner", URL: https://badlands.substack.com/p/badlands-news-brief-7bb
 11. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71
 12. Badlands Brief — "Badlands News Brief: Defamation, Deportation & Deals, Deals, Deals", URL: https://badlands.substack.com/p/badlands-news-brief-d74
+17. Badlands Brief — "Q for Dummies - Chapter 2", URL: https://badlands.substack.com/p/q-for-dummies-chapter-2
 
 ## Suspected hypersonic warhead test (January 2025)
 
@@ -125,3 +126,13 @@ Carlson cited the Q-drop photograph of [[eric-schmidt|Eric Schmidt]] standing ov
 He argued that Trump cut the agency's strings in North Korea: rather than the predicted outbreak of war, relations improved to the point of the handshake between Trump and [[kim-jong-un|Kim Jong-un]] at the demilitarized zone, and he expected the same severing of CIA control to occur in [[iran|Iran]] once Trump returned to the White House.[14]
 14. Badlands Brief — "Does the CIA Still Control Iran?", URL: https://badlands.substack.com/p/does-the-cia-still-control-iran
 15. Badlands Brief — "Everything Is Connected", URL: https://badlands.substack.com/p/everything-is-connected
+
+## Alleged CIA control
+
+"Panic in DC" argues that the conventional account of North Korea as a Chinese puppet is false, and that the country was in fact a puppet of the [[central-intelligence-agency|CIA]], which supplied the technology and money to produce nuclear weapons.[16] [[joe-lange|Joe Lange]] draws this from Q drop 430 of December 22, 2017, which he reads as being entirely about the agency, and notes that a later Q post tying the [[pallets-of-cash-to-iran|Iran cash payments]] to both the CIA and North Korea appeared days before the arrest of [[alwaleed-bin-talal|Alwaleed bin Talal]].[16] He further asserts that [[john-brennan|John Brennan]] lied to the incoming Trump administration about the nuclear capabilities of both North Korea and [[iran|Iran]].[16]
+
+16. Badlands Brief — "Panic in DC", URL: https://badlands.substack.com/p/panic-in-dc
+
+## Q drop #13 in "Q for Dummies" Chapter 2
+
+Badlands' "Q for Dummies" Chapter 2 revisits the early Q drops concerning North Korea, South Korea and the President, arguing that Q was signalling in October 2017 that "the deal with North Korea was done already," and that this would not be publicly confirmed until June 2018.[17] The author offers this as evidence against the claim that Q was a LARP — a live-action role-player or scammer.[17]

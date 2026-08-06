@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [january-6, capitol, qanon, prosecution]
-sources: [raw/badlands-news-brief-082.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-8d6.md, raw/badlands-news-brief-8f4.md]
+sources: [raw/badlands-news-brief-082.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-8d6.md, raw/badlands-news-brief-8f4.md, raw/patsies-of-the-cia-and-fbi.md]
 confidence: medium
 ---
 
@@ -30,9 +30,18 @@ Badlands contributor [[patel-patriot|Patel Patriot]] compared the newly aired fo
 
 In late September 2025, Chansley — still widely referred to as the "QAnon Shaman" — brought a lawsuit connected to federal action in Portland, Oregon in which President [[donald-trump|Donald Trump]] was named as a codefendant, an action Esquire framed as a challenge to the validity of Trump's presidency.[3] The suit surfaced alongside Trump's decision to order the [[national-guard|National Guard]] into Portland after a conversation with Oregon Governor [[tina-kotek|Tina Kotek]].[3] Badlands contributor [[ashe-in-america|Ashe in America]] used the episode to attack Esquire columnist Charles Pierce's broader commentary, speculating that "Esquire and the QAnon Shaman have the same clandestine employer."[3] The episode is covered in more detail at [[qanon-shaman-lawsuit-over-portland-deployment|the QAnon Shaman lawsuit over the Portland deployment]].[3]
 
+## As alleged patsy
+
+The Badlands essay "Patsies of the CIA and FBI" makes Chansley — referred to there as the QAnon Shaman, Jake Angeli — the contemporary case study in its account of how agencies manufacture the appearance of extremism.[5] The video showing him being escorted through the Capitol with a police escort is described as impossible to ignore or spin, and the [[january-6-committee|J6 committee]] as able only to lie and say it had not watched the footage, which the author says makes the members look worse still.[5]
+
+Author [[erik-carlson|Erik Carlson]] states plainly that he does not know whether Chansley is or was working with the [[cia|CIA]] or [[fbi|FBI]]; he pled guilty and was sentenced to 41 months in prison, and would likely have been released much earlier even without the videos being released.[5] Three possibilities are left open: that he worked with Deep State agencies and his sentence was part of the deal; that the agencies turned on him and he became their patsy; or that he is simply an attention seeker who was taken advantage of.[5]
+
+The article's governing image compares him to a football fan who paints his whole body in team colours and attends sub-ten-degree games shirtless: in a stadium seating 70,000 only a handful are "done up" that way, yet the cameras stay on them nonstop, making the whole crowd seem crazy.[5] The [[deep-state|deep state]] cabal, in this reading, wanted it to appear that [[donald-trump|Trump]] supporters are crazy and violent, and it was no coincidence they picked a man in face make-up and a furry horned hat to showcase.[5] See also [[intelligence-patsy|intelligence patsy]].[5]
+
 ## References
 
 1. Badlands Brief — "Tucker, Fauci, Biden & Biology", URL: https://badlands.substack.com/p/badlands-news-brief-082
 2. Badlands Brief — "J6 Exposure, Biden's Brain and Trump's Agenda", URL: https://badlands.substack.com/p/badlands-news-brief-644
 3. Badlands Brief — "Badlands News Brief: Inadvertent Israeli Attacks, Delightful Deep Fakes, & A Suing Shaman", URL: https://badlands.substack.com/p/badlands-news-brief-8d6
 4. Badlands Brief — "Badlands News Brief: January 6 and Nord Stream Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-8f4
+5. Badlands Brief — "Patsies of the CIA and FBI", URL: https://badlands.substack.com/p/patsies-of-the-cia-and-fbi

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [national-security, cold-war, deep-state, foreign-policy]
-sources: [raw/badlands-news-brief-1ae.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-f14.md, raw/defeating-the-depopulation-agenda.md]
+sources: [raw/badlands-news-brief-1ae.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-f14.md, raw/defeating-the-depopulation-agenda.md, raw/operation-cyclone-the-seeds-of-terror.md]
 confidence: medium
 ---
 
@@ -46,6 +46,14 @@ The analysis stresses that Brzezinski explicitly identified a triumvirate allian
 
 Asked whom these specialists would represent, Ehret answers from the book itself: "The nation-state as a fundamental unit of man's organized life has ceased to be the principal creative force: International banks and multi-national corporations are acting and planning in terms that are far in advance of the political concepts of the nation-state."[6] In Ehret's reading this post-nation-state "masterclass" operated through both left and right mainstream parties across the Trans-Atlantic, using "noble lies" and psychological warfare to keep populations fearful, ignorant and complacent.[6]
 
+## Architect of Operation Cyclone
+
+Badlands Media's September 2024 retrospective casts Brzezinski as the quintessential high-ranking deep-state operative, often referred to as the "Democrat counterpart to Kissinger," a member and product of the international think-tank class and one of only 46 people known to have attended both [[bilderberg]] and [[le-cercle|Le Cercle]] meetings.7 With the blessing of the Bilderberg Group, he and [[david-rockefeller|David Rockefeller]] founded the [[trilateral-commission|Trilateral Commission]], a body created to coordinate imperialist strategy between Washington, Western Europe and Japan, whose membership ranged from Antony Blinken to Jeffrey Epstein.7 The late author Jim Marrs observed that President Carter's administration "was so filled with members of the Trilateral Commission that conspiracy researchers had a field day."7
+
+It was Brzezinski who convinced [[jimmy-carter|Jimmy Carter]] of the importance of funding the Afghan resistance, after Pakistani intelligence officials privately lobbied Washington for assistance.7 In a 1998 interview with *Le Nouvel Observateur* he conceded that, contrary to the official version of history, Carter signed the first directive for secret aid to opponents of the pro-Soviet regime in Kabul on July 3, 1979 — before the Soviet invasion of December 24, 1979.7 Once the Soviets took the bait, Brzezinski traveled to the Khyber Pass, where he was recorded giving a religiously charged pep talk to Pashtun rebels in early 1980.7
+
+Asked in 1998 whether he regretted an operation that had indisputably led to the creation of the [[taliban]], Brzezinski replied: "What is more important in world history? The Taliban or the collapse of the Soviet empire? Some agitated Moslems or the liberation of Central Europe and the end of the Cold War?"7 He had predicted that Afghanistan would become a "Vietnamese quagmire" for Moscow, and the [[soviet-afghan-war|war]] did indeed strain the Soviet economy until the last troops withdrew in early 1989.7
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Playing the Opposite Game with Deep State Propaganda", URL: https://badlands.substack.com/p/badlands-news-brief-1ae
 2. Badlands Brief — "Badlands News Brief: North American Trade Troubles & Unipartisan Panic", URL: https://badlands.substack.com/p/badlands-news-brief-52f
@@ -53,3 +61,4 @@ Asked whom these specialists would represent, Ehret answers from the book itself
 4. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44
 5. Badlands Brief — "Badlands News Brief: Delays in Fake Justice & Signs of the Real Thing", URL: https://badlands.substack.com/p/badlands-news-brief-f14
 6. Badlands Brief — "Defeating the Depopulation Agenda", URL: https://badlands.substack.com/p/defeating-the-depopulation-agenda
+7. Badlands Brief — "Operation Cyclone - The Seeds of Terror", URL: https://badlands.substack.com/p/operation-cyclone-the-seeds-of-terror

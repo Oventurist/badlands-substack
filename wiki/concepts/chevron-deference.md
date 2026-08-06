@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [supreme-court, administrative-state, regulation, law]
-sources: [raw/badlands-news-brief-447.md, raw/badlands-news-brief-aac.md]
+sources: [raw/badlands-news-brief-447.md, raw/badlands-news-brief-aac.md, raw/q-for-dummies-chapter-15.md]
 confidence: medium
 ---
 
@@ -29,3 +29,9 @@ In the following week's brief, [[burning-bright|Burning Bright]] returned to the
 ## References
 1. Badlands Brief — "The Old Guard Braces for Impact as Panic Spreads", URL: https://badlands.substack.com/p/badlands-news-brief-447
 2. Badlands Brief — "Badlands News Brief: Wins at Home and Deals Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-aac
+
+## Framing in Q for Dummies Chapter 15
+
+Chapter 15 of the [[q-for-dummies|Q for Dummies]] series, published in July 2024, cited the reversal of the Chevron deference doctrine together with the [[presidential-immunity|presidential immunity]] ruling as monumental Supreme Court decisions that dealt a major blow to the [[deep-state|deep state]], and treated the two rulings as a partial cause of what the author described as establishment panic heading into the November election.[3]
+
+3. Badlands Brief — "Q for Dummies - Chapter 15", URL: https://badlands.substack.com/p/q-for-dummies-chapter-15

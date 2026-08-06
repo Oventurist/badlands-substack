@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [elections, voting-systems, georgia, 2020-election, audits]
-sources: [raw/grand-jury-testimony-from-senator.md]
+sources: [raw/grand-jury-testimony-from-senator.md, raw/previously-sealed-report-on-dominion.md]
 confidence: medium
 ---
 
@@ -22,3 +22,8 @@ The independent journalist [[canncon|CannCon]] publicized the records findings, 
 
 ## References
 1. Badlands Brief — "Grand Jury Testimony From Senator David Perdue Suggests Gov. Brian Kemp Halted Investigation Into 2020 Election", URL: https://badlands.substack.com/p/grand-jury-testimony-from-senator
+2. Badlands Brief — "Previously *SEALED* Report on Dominion Voting Machines in Georgia Shows Critical Vulnerabilities", URL: https://badlands.substack.com/p/previously-sealed-report-on-dominion
+
+## Criticism of its 2020 BMD software testing
+
+In September 2020, a display problem was discovered on Georgia's Dominion [[ballot-marking-device|ballot marking devices]] during testing, prompting litigation over how to correct it and an eventual ruling that the resulting changes were "de minimis."[2] Testifying in that hearing, [[j-alex-halderman|Dr. J. Alex Halderman]] said the certification report "makes clear that Pro V&V performed only cursory testing of this new software," that the company "did not attempt to independently verify the cause of the ballot display problem, nor did it adequately verify that the changes are an effective solution," and that it "appears to have made no effort to test whether the changes create new problems that impact the reliability, accuracy, or security of the BMD system."[2]

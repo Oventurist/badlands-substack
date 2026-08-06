@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [artificial-intelligence, bilderberg, big-tech, national-security, google]
-sources: [raw/dark-equation.md, raw/does-the-cia-still-control-iran.md, raw/everything-is-connected.md]
+sources: [raw/dark-equation.md, raw/does-the-cia-still-control-iran.md, raw/everything-is-connected.md, raw/moves-and-countermoves.md]
 confidence: medium
 ---
 
@@ -36,3 +36,8 @@ Badlands contributor Joe Lange identifies Eric Schmidt, cofounder of [[google|Go
 Carlson attached significance to that date: [[donald-trump|Donald Trump]] had issued [[executive-order-13818|Executive Order 13818]], blocking the property of persons involved in serious human rights abuse, on 20 December 2017 — literally the day before, which Carlson called "kind of suspicious."[2] He also recalled the photograph of Schmidt circulated in the Q drops showing him standing over North Korean military personnel busy at their computers, asking what Schmidt would be doing in a country foreigners were said to be barred from, and reading the image as implying that Schmidt and the [[central-intelligence-agency|CIA]] were training the North Koreans and that the agency in fact controlled [[north-korea|North Korea]].[2]
 2. Badlands Brief — "Does the CIA Still Control Iran?", URL: https://badlands.substack.com/p/does-the-cia-still-control-iran
 3. Badlands Brief — "Everything Is Connected", URL: https://badlands.substack.com/p/everything-is-connected
+4. Badlands Brief — "Moves and Countermoves", URL: https://badlands.substack.com/p/moves-and-countermoves
+
+## "ES is KEY" and the Gmail drafts channel
+
+Reading Q drop #1504 of June 15, 2018, [[joe-lange|Joe Lange]] decodes the line "ES is KEY" as a reference to Eric Schmidt, identifying him as a founder of [[google|Google]] and as the figure who helped the [[cia|CIA]] build its seven supercomputers named for the [[snow-white-supercomputers|seven dwarfs of Snow White]].[4] Lange further alleges that Schmidt helped set up the shared "Gmail drafts" folders through which conspirators believed they could communicate covertly, and that those communications were surfaced in an inspector general report with assistance from [[michael-flynn|General Michael Flynn]] because the [[national-security-agency|NSA]] captures all electronic communications.[4] He ties Schmidt to [[alwaleed-bin-talal|Prince Alwaleed]], whom [[donald-trump|Trump]] nicknamed "Dopey."[4]

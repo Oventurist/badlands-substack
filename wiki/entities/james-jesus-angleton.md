@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cia, counterintelligence, israel, deep-state]
-sources: [raw/henry-kissinger-british-cabal-puppet.md]
+sources: [raw/henry-kissinger-british-cabal-puppet.md, raw/operation-gladio-how-its-funded.md]
 confidence: medium
 ---
 
@@ -24,5 +24,10 @@ The subsequent Senate investigation headed by Senator [[frank-church|Frank Churc
 
 Writing for Badlands Media, [[erik-carlson|Erik Carlson]] cited the existence of a monument to Angleton in Israel as evidence that the CIA "doesn't work for the American people," but rather for what he termed the [[british-cabal|British Cabal]] families — arguing that the agency's color revolutions, secret bombings, and trafficking operations were executed on the Cabal's behalf.[1]
 
+## Role in the Gladio funding network
+
+The Badlands Media account of [[operation-gladio]]'s financing places Angleton, then of the [[office-of-strategic-services]], at the meeting with [[allen-dulles]] and British Security Coordinator [[william-stephenson]] of [[mi6]] at which the covert funding network was designed.[2] Under the plan money would be funnelled to Colonel [[paul-helliwell]], who would forward it to the [[world-commerce-corporation]] created by OSS chief [[william-donovan]].[2]
+
 ## References
 1. Badlands Brief — "Henry Kissinger: British Cabal Puppet", URL: https://badlands.substack.com/p/henry-kissinger-british-cabal-puppet
+2. Badlands Brief — "Operation Gladio - How It's Funded", URL: https://badlands.substack.com/p/operation-gladio-how-its-funded

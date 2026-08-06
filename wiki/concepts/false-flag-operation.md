@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [information-war, psychological-operations, media]
-sources: [raw/badlands-news-brief-096.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-c50.md, raw/death-blossom.md, raw/false-flags-and-the-occult.md]
+sources: [raw/badlands-news-brief-096.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-c50.md, raw/death-blossom.md, raw/false-flags-and-the-occult.md, raw/q-for-dummies-chapter-17.md, raw/q-for-dummies-chapter-6.md]
 confidence: medium
 ---
 
@@ -58,3 +58,18 @@ Deschamps situated false flags within a broader structure in which elite oligarc
 The article's central claim is that the number of suspected false flag attacks falling on alleged occult holidays suggests an occult-religious significance, and specifically that a disproportionate share cluster in the forty-day [[season-of-sacrifice|season of sacrifice]] between March 19th and May 1st.[5] The [[oklahoma-city-bombing|Oklahoma City bombing]] of April 19, 1995 is presented as the archetypal case.[5]
 
 5. Badlands Brief — "False Flags and the Occult", URL: https://badlands.substack.com/p/false-flags-and-the-occult
+6. Badlands Brief — "Q for Dummies - Chapter 17", URL: https://badlands.substack.com/p/q-for-dummies-chapter-17
+
+## Q drop #112 and the 2024 convention season
+
+Q drop #112, of November 5, 2017, instructed readers to remain alert — especially in large cities, around Washington, D.C., and at sporting events — and stated that "more false flags are imminent."[6] Chapter 17 of the [[q-for-dummies|Q for Dummies]] series argues that the warning carried as much weight in August 2024 as when it was written, on the grounds that the actors it describes were panicking and desperate in the run-up to the election.[6]
+
+Applying that warning to the [[2024-democratic-national-convention|2024 Democratic National Convention]], the chapter raises the scenario of an engineered incident that would dispose of [[joe-biden|Joe Biden]] while blaming a "crazy MAGA terrorist," creating the pretext for [[kamala-harris|Kamala Harris]] to issue gun-control executive orders.[6] The author draws an explicit parallel to 1968 — a candidate withdrawing from the race, a convention in Chicago, and a climate tense enough that little would be needed to spark civil unrest.[6] He also notes reported irregularities with [[donald-trump|Donald Trump]]'s plane en route to a rally in Bozeman, leaving open whether it was another attempt on his life.[6]
+
+## The "clockwork" thesis in Chapter 6
+
+Chapter 6 of the [[q-for-dummies|Q for Dummies]] series, published February 16, 2024, advances what it presents as a recurring pattern: that every time damaging news breaks against Democrats, a false flag follows, usually a mass shooting subsequently used to advance the gun-control agenda.[7] The author describes the sequence as operating "like clockwork," arguing that once seen it cannot be unseen, and attributes it to actors unwilling to let their control slip as more of the public becomes aware.[7]
+
+The case study offered is the [[kansas-city-super-bowl-parade-shooting|Kansas City Super Bowl parade shooting]], which followed within days of Special Counsel [[robert-hur|Robert Hur]]'s report on [[joe-biden|Joe Biden]]'s mental decline, the House vote to impeach DHS Secretary [[alejandro-mayorkas|Alejandro Mayorkas]], and Speaker [[mike-johnson|Mike Johnson]]'s rejection of the Ukraine spending bill.[7] The chapter also notes that the shooting fell on the anniversary of the Parkland shooting and produced identical immediate calls for gun control.[7] Separately, it forecasts that the [[deep-state|Deep State]]'s reaction to [[donald-trump|Trump]]'s campaign against [[isis|ISIS]] was a commitment to further false flags in Syria.[7]
+
+7. Badlands Brief — "Q for Dummies - Chapter 6", URL: https://badlands.substack.com/p/q-for-dummies-chapter-6

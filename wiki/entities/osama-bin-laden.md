@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [al-qaeda, cia, 9-11, stand-down]
-sources: [raw/a-dereliction-of-duty.md, raw/badlands-news-brief-e44.md, raw/from-ye-to-oy-vey.md]
+sources: [raw/a-dereliction-of-duty.md, raw/badlands-news-brief-e44.md, raw/from-ye-to-oy-vey.md, raw/operation-cyclone-the-seeds-of-terror.md, raw/q-for-dummies-chapter-18.md]
 confidence: medium
 ---
 
@@ -28,7 +28,22 @@ Badlands Media's December 2023 essay "From Ye to Oy Vey!" noted that a 21-year-o
 
 The essay restated the Badlands view of bin Laden as a CIA-created boogeyman, noted that the bin Laden family were close friends of the Bush family, and that the bin Ladens were the only civilians permitted to fly out of the United States immediately after the [[september-11-attacks|September 11 attacks]] that bin Laden was alleged to have orchestrated.[3] It further asserted that the "CIA-created" [[barack-obama|Barack Obama]] had bin Laden killed and his body thrown into the ocean shortly before Obama's second election.[3]
 
+## Role in Operation Cyclone
+
+Badlands Media's account of [[operation-cyclone|Operation Cyclone]] identifies bin Laden as one of the hardline fundamentalist clerics [[saudi-arabia|Saudi Arabia]] sent — with the unofficial blessing of the U.S. security state — into the refugee camps along the Pakistani border, where tens of thousands of young rebels were slowly indoctrinated into religious extremism.4 Despite warnings that he was preaching a dangerous fundamentalist version of Islam, the United States government not only looked the other way but continued to arm those same militants to the teeth.4
+
+Bin Laden and his divisions were trained, armed and funded by the [[central-intelligence-agency|CIA]], with the Pakistani [[inter-services-intelligence|ISI]] acting as a middleman so that Western intelligence officials could deny involvement and pin responsibility on [[pakistan]].4 Before founding [[al-qaeda]] in 1988 he ran the precursor organization [[maktab-al-khidamat|Maktab al-Khidamat]] (MAK), which according to investigative reporter Joseph Trento received CIA money because it was recruiting young Muslim men to join the jihad in Afghanistan.4
+
+In a 1995 interview bin Laden himself stated: "To counter these atheist Russians, the Saudis chose me as their representative in Afghanistan... I set up my first camp where these volunteers were trained by Pakistani and American officers. The weapons were supplied by the Americans, the money by the Saudis."4 FBI special agent Jack Cloonan called the Egyptian double agent [[ali-mohamed|Ali Mohamed]] "bin Laden's first trainer."4 The article poses the question of whether bin Laden was deliberately molded into "the new perfect villain and inevitable fall guy" for [[september-11-attacks|9/11]], noting that CIA Director [[george-tenet|George Tenet]] did not inform President [[george-w-bush|George W. Bush]] that bin Laden and al-Qaeda were responsible until 9:30 PM on the night of the attacks.4
+
+
+## Chapter 18 treatment
+
+Chapter 18 of the [[q-for-dummies|Q for Dummies]] series answers Q drop #118's question about the source of bin Laden's wealth by pointing to his father and the family construction fortune.[5] It reminds readers that bin Laden fought with the [[mujahideen]] in Afghanistan, calling this another case of the United States funding, arming and equipping a future enemy, and describes the subject as a very deep rabbit hole beyond the scope of that chapter.[5] The chapter also confirms Q's implication that members of the [[bin-laden-family|Bin Laden family]] were inside the United States at the time of the [[september-11-attacks|September 11 attacks]] and were among those flown out afterwards.[5]
+
 ## References
 1. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
 2. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44
 3. Badlands Brief — "From Ye to Oy Vey!", URL: https://badlands.substack.com/p/from-ye-to-oy-vey
+4. Badlands Brief — "Operation Cyclone - The Seeds of Terror", URL: https://badlands.substack.com/p/operation-cyclone-the-seeds-of-terror
+5. Badlands Brief — "Q for Dummies - Chapter 18", URL: https://badlands.substack.com/p/q-for-dummies-chapter-18

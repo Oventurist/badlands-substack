@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [georgia, fulton-county, divorce-case, fani-willis, nathan-wade]
-sources: [raw/badlands-news-brief-89f.md, raw/badlands-news-brief-b4a.md]
+sources: [raw/badlands-news-brief-89f.md, raw/badlands-news-brief-b4a.md, raw/of-punishment-and-profit.md]
 confidence: medium
 ---
 
@@ -26,3 +26,10 @@ On January 22, 2024, Cobb County Superior Court Judge [[henry-thompson]] placed 
 
 1. Badlands Brief — "Badlands News Brief: The Trump Train Rolls on ... Fake MAGA Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-89f
 2. Badlands Brief — "Badlands News Brief: Border Battles, Trump Trials & COVID Comeuppance", URL: https://badlands.substack.com/p/badlands-news-brief-b4a
+3. Badlands Brief — "Of Punishment & Profit", URL: https://badlands.substack.com/p/of-punishment-and-profit
+
+## Circumstances of the separation
+
+Testimony given by defense attorney [[ashleigh-merchant|Ashleigh Merchant]] before the [[georgia-senate-committee-on-special-investigations|Georgia Senate Committee on Special Investigations]] in March 2024 described the circumstances of the Wades' separation as the trigger for the disclosure of [[nathan-wade|Nathan Wade]]'s relationship with [[fani-willis|Fani Willis]].[3] Merchant recounted that [[terrence-bradley|Terrence Bradley]], Wade's former law partner, was upset by the divorce: the Wades had been married for almost thirty years, Joycelyn had been a stay-at-home mother throughout, and Wade told her to move out immediately after the couple dropped their youngest child off at college.[3] Bradley reportedly objected to Wade leaving his wife without alimony, saying "I handle my business."[3]
+
+Wade filed for divorce the day after signing his contract as special prosecutor on November 1, 2021.[3] Merchant alleged that he then hid the resulting county income from his wife in a secret lawyer trust account, an arrangement she believed may also have contributed to the breakup of his partnership with Bradley.[3]

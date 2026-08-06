@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [middle-east, gaza, governance, israel-palestine, board-of-peace]
-sources: [raw/badlands-brief-9eb.md, raw/badlands-brief-774.md, raw/badlands-news-brief-08a.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-a04.md]
+sources: [raw/badlands-brief-9eb.md, raw/badlands-brief-774.md, raw/badlands-news-brief-08a.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-a04.md, raw/our-greatest-ally.md]
 confidence: medium
 ---
 
@@ -99,3 +99,11 @@ The [[israel-defense-forces|IDF]] announced "localized humanitarian ceasefires" 
 12. Badlands Brief — "Badlands News Brief: Shutdowns, Shakedowns, & Two Sexes", URL: https://badlands.substack.com/p/badlands-news-brief-762
 13. Badlands News Brief — "The Bilateral Bromance & A Misled Grand Jury", URL: https://badlands.substack.com/p/badlands-news-brief-7bf
 14. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
+
+## Surveillance, destruction and reconstruction (2024 analysis)
+
+The May 2024 Badlands essay "Our 'Greatest Ally'" argues that pre-war Gaza, while not resembling Dubai, was technologically sophisticated in ways that did not benefit Gazans and was probably one of the most highly surveilled places in the world.[15] Since 2014 its reconstruction had been managed through the [[gaza-reconstruction-mechanism|Gaza Reconstruction Mechanism]], a real-time database of all building material entering the strip, which critics say placed Israel in an "ultimate supervisory role."[15] Reporting quoted in the piece describes the monitoring network as a variation on the data-intensive "[[smart-cities|smart city]]" concept and the territory as a proving ground for purpose-built surveillance technology.[15]
+
+On that basis the essay questions the claim that [[hamas|Hamas]] planned and launched [[al-aqsa-flood|Al-Aqsa Flood]] undetected.[15] It further contends that the [[benjamin-netanyahu|Netanyahu]] government's response has gone beyond targeting Hamas to rendering the strip unlivable, with the eventual aim of assimilating the land into greater Israel — "not completely unfair," the author writes, to call a land grab or real estate project, with bombing clearing the ground for what follows.[15] The article notes that contractors and institutions, including the [[united-nations|United Nations]], are already positioning themselves around the reconstruction process much as Chase, BlackRock and the Ukrainian government did with Ukraine's "reconstruction bank."[15] It argues the campaign has violated all four principles of the [[law-of-armed-conflict|Law of Armed Conflict]].[15]
+
+15. Badlands Brief — "Our 'Greatest Ally'", URL: https://badlands.substack.com/p/our-greatest-ally

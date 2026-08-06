@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, defense, republican, alabama]
-sources: [raw/badlands-news-brief-ce5.md, raw/badlands-news-brief-cff.md, raw/irregular-warfare.md]
+sources: [raw/badlands-news-brief-ce5.md, raw/badlands-news-brief-cff.md, raw/irregular-warfare.md, raw/moves-and-countermoves.md, raw/q-for-dummies-chapter-2.md, raw/q-for-dummies-chapter-5.md]
 confidence: medium
 ---
 
@@ -34,3 +34,19 @@ Declassified material released by DNI [[tulsi-gabbard|Tulsi Gabbard]] on August 
 1. Badlands Brief — "Badlands News Brief: Calibrating Education, Recalculating Commands, & Countering Currency Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-ce5
 2. Badlands Brief — "Letters of Credence, More Evidence of Treason, & Allegedly Super-Intelligent AI", URL: https://badlands.substack.com/p/badlands-news-brief-cff
 3. Badlands Brief — "Irregular Warfare", URL: https://badlands.substack.com/p/irregular-warfare
+4. Badlands Brief — "Moves and Countermoves", URL: https://badlands.substack.com/p/moves-and-countermoves
+5. Badlands Brief — "Q for Dummies - Chapter 2", URL: https://badlands.substack.com/p/q-for-dummies-chapter-2
+
+## The Trump Tower briefing and the SCIF meeting
+
+"Moves and Countermoves" describes Admiral Rogers as a genuine hero of the intelligence war, quoting attorney Joe DiGenova's account that Rogers, then head of the [[national-security-agency|NSA]], discovered that American citizens were being spied upon and traveled to Trump Tower on November 17, 2016 to brief President-elect [[donald-trump|Trump]] that communications from the building were being tapped, without notifying his superior, Director of National Intelligence [[james-clapper|James Clapper]], beforehand.[4] [[joe-lange|Joe Lange]] argues Rogers withheld the trip from Clapper because he judged Clapper corrupt.[4] Q's drop opening with the word SCIF, with the [F] in targeted brackets denoting "foreign," is read as describing a meeting on foreign-sourced intelligence attended by Rogers and [[michael-flynn|General Michael Flynn]], and Lange contends the pair supplied both [[five-eyes|FVEY]] and non-FVEY classified material on the Obama-era surveillance operation to grand juries.[4] He also treats Rogers "getting caught" warning Trump as part of the plan, an act that forced [[barack-obama|Obama]] and [[john-brennan|John Brennan]] to accelerate and thereby expose their conspiracy.[4]
+
+## Q for Dummies Chapter 2
+
+Badlands' "Q for Dummies" Chapter 2, reading Q drop #14, states that Admiral Rogers met with President [[donald-trump|Trump]] at Trump Tower to advise him that he was being spied on by the [[barack-obama|Obama]] administration, both at Trump Tower and in the White House.[5]
+
+## Q for Dummies Chapter 5
+
+Chapter 5 of the series, covering drops #31–40, reads drop #36 as indicating that the [[national-security-agency|NSA]] under Rogers's direction "had all the info they needed" on the [[clinton-lynch-tarmac-meeting|Clinton–Lynch tarmac meeting]] and more.[6] The chapter appends a side note recording that Rogers was the 17th Director of the NSA — a detail treated as significant within [[q-operation|Q]] circles because 17 is the alphabetical position of the letter Q.[6]
+
+6. Badlands Brief — "Q for Dummies - Chapter 5", URL: https://badlands.substack.com/p/q-for-dummies-chapter-5

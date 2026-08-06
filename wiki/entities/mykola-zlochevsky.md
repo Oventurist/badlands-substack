@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [burisma, ukraine, hunter-biden, bribery-allegations]
-sources: [raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-f7d.md]
+sources: [raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-f7d.md, raw/quid-pro-joe.md]
 confidence: medium
 ---
 
@@ -29,3 +29,8 @@ On June 12, 2023, Senator [[chuck-grassley|Chuck Grassley]] told the Senate that
 
 2. Badlands Brief — "Badlands News Brief: Trump's Trap, Musk's Decree & Obama's Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-d7d
 3. Badlands Brief — "Badlands News Brief: The All-Out Biden Blitz Boomerang ... And More", URL: https://badlands.substack.com/p/badlands-news-brief-f7d
+4. Badlands Brief — "Quid Pro Joe", URL: https://badlands.substack.com/p/quid-pro-joe
+
+## The Blue Star lobbying effort (2015)
+
+Zlochevsky — referred to in internal correspondence by the first name "Nikolay" — was the direct beneficiary of [[burisma|Burisma]]'s autumn 2015 contract with the Washington consultancy [[blue-star-strategies|Blue Star Strategies]].[4] After prosecutor general [[viktor-shokin|Viktor Shokin]] began investigating him for corruption, Burisma executive [[vadym-pozharskyi|Vadym Pozharskyi]] pressed Blue Star for deliverables that would produce public and private expressions of "positive opinion" and support for "Nikolay/Burisma" from high-ranking US officials to Ukraine's president, chief of staff and prosecutor general.[4] Pozharskyi wrote that the "ultimate purpose" of the engagement was to bring "widely recognized and influential current and/or former US policy-makers" to Ukraine in order "to close down for any cases/pursuits against Nikolay in Ukraine."[4] [[hunter-biden|Hunter Biden]] endorsed the arrangement and told Pozharskyi to sign the contract, which was executed in mid-November 2015.[4]

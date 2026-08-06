@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [occult, mind-control, elites, history]
-sources: [raw/false-flags-and-the-occult.md, raw/god-and-the-declaration-of-independence.md, raw/is-the-united-states-a-nation.md]
+sources: [raw/false-flags-and-the-occult.md, raw/god-and-the-declaration-of-independence.md, raw/is-the-united-states-a-nation.md, raw/q-is-our-best-fren.md]
 confidence: low
 ---
 
@@ -35,3 +35,9 @@ A separate March 14, 2023 Badlands Media essay on the [[declaration-of-independe
 The full title is given elsewhere as *Shadow Men: an Encyclopedia of Mind Control*, and the November 1, 2023 essay "Is the United States a Nation?" calls it [[anthony-napoleon|Anthony Napoleon]]'s "masterwork."[3] That essay highlights a single 91-page chapter devoted entirely to demonstrating the extraordinary vision and circumstances that gave birth to America centuries ago.[3] [[american-hypnotist|American Hypnotist]] uses the chapter to support his claim that America's early years posed an exceptional obstacle to mankind's would-be masters, and that the phrase "the land of the free" reflects a historical reality rather than a stereotype.[3]
 
 3. Badlands Brief — "Is the United States a Nation?", URL: https://badlands.substack.com/p/is-the-united-states-a-nation
+
+## Cited on elite psychology
+
+The March 25, 2025 essay "Q is Our Best Fren" recommends *Shadow Men* as a book about the [[cabal]] written by an author who, as a plastic surgeon, served many cabal elites as clientele.[4] It cites the book for the claim that these elites see themselves as "gods" above ordinary humanity, and reports [[anthony-napoleon|Napoleon]]'s account that some will not consume food unless it has been subjected to torture.[4] The reference supports that essay's framing of the cabal through [[psychopathy-and-parasitism|psychopathy and parasitism]].[4]
+
+4. Badlands Brief — "Q is Our Best Fren", URL: https://badlands.substack.com/p/q-is-our-best-fren

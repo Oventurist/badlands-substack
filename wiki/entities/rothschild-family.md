@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, central-banking, debt-system, cabal]
-sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-fbb.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-547.md, raw/cracks-in-the-curtain.md, raw/master-and-commander.md]
+sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-fbb.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-547.md, raw/cracks-in-the-curtain.md, raw/master-and-commander.md, raw/money-and-oil.md, raw/on-infiltration-and-israel.md, raw/q-for-dummies-chapter-18.md]
 confidence: low
 ---
 
@@ -44,6 +44,15 @@ Lange traced the pattern to the Napoleonic Wars, alleging the family manipulated
 
 The essay's central claim is that this control has ended: with [[donald-trump|Donald Trump]] appointing six of seven Fed governors and rolling the Fed into the [[us-department-of-the-treasury|Treasury]] via the [[exchange-stabilization-fund|Exchange Stabilization Fund]] in March 2020, the family can no longer manipulate the dollar and can only react to Fed policy.[6] Lange described the [[global-debt-system|Rothschild central bank debt system]] as now competing with the Federal Reserve rather than controlling it, and hanging on the edge of a cliff as rising rates crush foreign central bank asset values and expose $65 trillion of hidden dollar debt in [[foreign-exchange-swaps|foreign exchange swaps]].[6] He concluded that the "Rothschild puppet masters" had used the dollar and the Fed as a weapon against the world since the end of WWII, and that this had come to an end.[6]
 
+## Role in the creation of Israel (2025 commentary)
+
+The May 2025 Badlands essay "On Infiltration and Israel" noted that the [[balfour-declaration|Balfour Declaration]], which paved the way for the creation of [[israel|Israel]], was addressed to "none other than 'Lord Rothschild'," and stated that the family funded much of Israel's creation.[8] The essay placed the Rothschilds within the financier class it terms [[ziobanksters|ziobanksters]], the same class said to have funded and promoted the [[kalergi-plan|Kalergi Plan]].[8]
+
+
+## Chapter 18 and bankers' wars
+
+Chapter 18 of the [[q-for-dummies|Q for Dummies]] series answers Q drop #119's question about which family's history predates the First and Second World Wars with the Rothschilds, and restates the maxim that all wars are bankers' wars.[9] The chapter connects the family to the [[bush-family|Bush family]], whose long association with the Rothschilds it offers as the explanation for the Bushes' public attacks on [[donald-trump|Donald Trump]], and invites readers to pursue that line of research themselves.[9]
+
 ## References
 1. Badlands Brief — "Are CBDCs The Path To Fear, or Freedom?", URL: https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom
 2. Badlands Brief — "Unity, Patricide, & Political Violence", URL: https://badlands.substack.com/p/badlands-brief-fbb
@@ -51,3 +60,14 @@ The essay's central claim is that this control has ended: with [[donald-trump|Do
 4. Badlands Brief — "Badlands News Brief: State of Confusion, Kamala Mayhem & Boiled Eggs", URL: https://badlands.substack.com/p/badlands-news-brief-547
 5. Badlands Brief — "Cracks in the Curtain", URL: https://badlands.substack.com/p/cracks-in-the-curtain
 6. Badlands Brief — "Master and Commander", URL: https://badlands.substack.com/p/master-and-commander
+7. Badlands Brief — "Money and Oil", URL: https://badlands.substack.com/p/money-and-oil
+
+## "Money and Oil" account of the dynasty
+
+Joe Lange's November 2022 essay "Money and Oil" presents the Rothschilds as the original "puppet masters" who have controlled most of the world for longer than most people know, by controlling the money supply.[7] The family is described as having first controlled banks, then kings, and now most governments around the world — a claim Lange supports with a widely circulated quotation attributed to [[mayer-amschel-rothschild|Mayer Amschel Rothschild]].[7]
+
+The essay stresses that the family's wealth and power came not from lending to individuals but from lending to governments and kings.[7] It recounts the Napoleonic episode in which the Rothschilds, knowing before anyone else in London that Napoleon had lost, are said to have deliberately caused a panic sell-off of British bonds in order to buy them cheaply — a gain Lange calls trivial next to the debt into which they had already placed England by funding its war.[7]
+
+On this account wars have been the family's biggest money maker ever since: they fund both sides and are indifferent to the outcome, since the winner is indebted to them forever and the loser must sell assets and resources at bargain prices.[7] [[world-war-i|The First World War]] is presented as the template, with Rothschild-controlled central banks funding both sides as millions died and countries went into massive debt, after which a bankrupted Germany saw its companies and resources bought up cheaply and its currency collapse — conditions Lange says set the stage for [[adolf-hitler|Hitler]] and [[world-war-ii|the Second World War]].[7]
+8. Badlands Brief — "On Infiltration and Israel", URL: https://badlands.substack.com/p/on-infiltration-and-israel
+9. Badlands Brief — "Q for Dummies - Chapter 18", URL: https://badlands.substack.com/p/q-for-dummies-chapter-18

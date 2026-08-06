@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence, israel, cabal]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/america-for-sale-part-3.md, raw/badlands-brief-029.md, raw/badlands-brief-0bd.md, raw/badlands-brief-282.md, raw/badlands-brief-5ba.md, raw/badlands-brief-6f0.md, raw/badlands-brief-805.md, raw/badlands-brief-9ac.md, raw/badlands-brief-9ea.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-cf2.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-e79.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-ee8.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/america-for-sale-part-3.md, raw/badlands-brief-029.md, raw/badlands-brief-0bd.md, raw/badlands-brief-282.md, raw/badlands-brief-5ba.md, raw/badlands-brief-6f0.md, raw/badlands-brief-805.md, raw/badlands-brief-9ac.md, raw/badlands-brief-9ea.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-cf2.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-e79.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-ee8.md, raw/on-infiltration-and-israel.md, raw/our-greatest-ally.md, raw/operation-cyclone-the-seeds-of-terror.md]
 confidence: low
 ---
 
@@ -111,7 +111,24 @@ Badlands commentary in July 2024 noted that [[nso-group|NSO Group]], the Israeli
 
 Reporting by Bloomberg (2021) and Haaretz (2022) established that then-Mossad director [[yossi-cohen|Yossi Cohen]] made three trips to the [[democratic-republic-of-the-congo|Democratic Republic of the Congo]] in 2019 on Israel's behalf, accompanied by billionaire [[dan-gertler|Dan Gertler]], before being deported and banned from the country; Israel's military censor barred publication of information about the visits.[22] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that this record makes it plausible that Cohen and Mossad were involved in the failed May 2024 coup attempt against President [[felix-tshisekedi|Félix Tshisekedi]].[22]
 
+## Position in the pyramid of power (2025 commentary)
+
+The May 2025 Badlands essay "On Infiltration and Israel" cited [[qanon|Q]] post 1871 as showing that Mossad — abbreviated "MOS" in the post — holds a top position in the pyramid of power.[23] The accompanying graphic was read as indicating that one of Mossad's main purposes is to control the media, with connecting lines to both alternative and US media.[23]
+
+The author argued that Mossad's control over media largely explains the degree to which criticism of [[israel|Israel]] and Israel-adjacent subjects is dismissed and vilified as antisemitism, invoking the saying that to find out who rules over you, find out who you are not allowed to criticize.[23] He further speculated that a number of right-wing influencers promoting the claim that Trump's antisemitism orders abolish the First Amendment may be directly or indirectly funded by Mossad.[23]
+
+## Weaponization of the antisemitism charge
+
+The Badlands essay "Our 'Greatest Ally'" states that former employees of Mossad have publicly acknowledged deliberately weaponizing the term "anti-Semite" in order to silence Israel's critics.[24] The same piece describes Mossad as "arguably the most sophisticated Intelligence service on earth," and uses that reputation to question the official account of [[al-aqsa-flood|Al-Aqsa Flood]] — arguing it strains credulity that Mossad and the entire U.S. intelligence community, including the [[central-intelligence-agency|CIA]], ODNI, DIA, NSA and DoD, could all have failed to detect preparations by a comparatively unsophisticated militant group.[24] The article closes by posing, as an unresolved question for readers, how much control Israel and Mossad in particular exert over American politics.[24]
+
+## Operation Cyclone and 9/11 allegations
+
+Badlands Media's September 2024 retrospective on [[operation-cyclone|Operation Cyclone]] argues that "the fingerprints of the Israelis are all over 9/11" and that many researchers have neglected the role played by [[israel]] and its intelligence arm.25 Mossad's founding director [[isser-harel|Isser Harel]], also the first head of [[shin-bet|Shin Bet]], is said to have predicted in a 1980 interview that "Islamic terrorists" would one day attack the "tallest building in NYC," and had earlier been behind the 1954 [[lavon-affair|Lavon Affair]], a false flag operation in which Egyptian-Israeli agents bombed British, American and Egyptian targets hoping Muslim groups would be blamed.25
+
+The article further identifies [[urban-moving-systems|Urban Moving Systems]] — the New Jersey company whose van was used by the men known as the [[dancing-israelis|"Dancing Israelis"]] — as a Mossad front company managed by Dominic Suter, and describes the five men arrested on September 11, 2001 as Mossad agents.25
+
 ## References
+
 1. Badlands Brief — "A Journey of Ever-changing Truths", URL: https://badlands.substack.com/p/a-journey-of-ever-changing-truths
 2. Badlands Brief — "America for Sale - Part 3", URL: https://badlands.substack.com/p/america-for-sale-part-3
 3. Badlands Brief — "Mixed Gender Crews, Trafficking Stings, & Shadow Cabal Reruns", URL: https://badlands.substack.com/p/badlands-brief-029
@@ -134,3 +151,5 @@ Reporting by Bloomberg (2021) and Haaretz (2022) established that then-Mossad di
 20. Badlands Brief — "Badlands News Brief: Biden Commutations and Mossad Confessions", URL: https://badlands.substack.com/p/badlands-news-brief-e79
 21. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e
 22. Badlands Media — "Badlands News Brief: Cohen Clown Show Continues as the Iranian Blame Game Begins", URL: https://badlands.substack.com/p/badlands-news-brief-ee8
+23. Badlands Brief — "On Infiltration and Israel", URL: https://badlands.substack.com/p/on-infiltration-and-israel
+25. Badlands Brief — "Operation Cyclone - The Seeds of Terror", URL: https://badlands.substack.com/p/operation-cyclone-the-seeds-of-terror

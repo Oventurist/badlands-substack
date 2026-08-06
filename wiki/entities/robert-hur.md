@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [special-counsel, justice-department, classified-documents, joe-biden]
-sources: [raw/badlands-brief-1ae.md, raw/badlands-brief-7bf.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8f1.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-df8.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-f39.md, raw/badlands-news-brief-efd.md]
+sources: [raw/badlands-brief-1ae.md, raw/badlands-brief-7bf.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8f1.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-df8.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-f39.md, raw/badlands-news-brief-efd.md, raw/q-for-dummies-chapter-6.md]
 confidence: medium
 ---
 
@@ -122,3 +122,9 @@ Badlands contributor [[just-human|Just Human]] noted that Hur officially took ov
 
 17. Badlands News Brief — "Hunter Hunted, Biden's Bane & Ukraine Fatigue", URL: https://badlands.substack.com/p/badlands-news-brief-f39
 18. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd
+
+## Cited in "Q for Dummies" Chapter 6
+
+Badlands' "[[q-for-dummies|Q for Dummies]]" Chapter 6, published February 16, 2024, described Hur's report of the previous week as damning and as bringing into serious focus the mental decline of [[joe-biden|Joe Biden]], arguing it further demonstrated that he should be nowhere near the Oval Office.[19] The chapter grouped the report with the House vote to impeach DHS Secretary [[alejandro-mayorkas|Alejandro Mayorkas]] and Speaker [[mike-johnson|Mike Johnson]]'s rejection of the Ukraine spending bill as a run of bad news for the [[deep-state|Deep State]] that, in the author's reading, was immediately followed by the [[kansas-city-super-bowl-parade-shooting|Kansas City Super Bowl parade shooting]].[19]
+
+19. Badlands Brief — "Q for Dummies - Chapter 6", URL: https://badlands.substack.com/p/q-for-dummies-chapter-6

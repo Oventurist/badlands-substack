@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, cia, oversight, mockingbird, 1975]
-sources: [raw/america-has-a-cia-run-economy.md, raw/clowns-in-america.md, raw/four-pillars-of-government-control.md, raw/how-to-rent-a-riot-the-plausible.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/clowns-in-america.md, raw/four-pillars-of-government-control.md, raw/how-to-rent-a-riot-the-plausible.md, raw/poisoning-the-well.md]
 confidence: medium
 ---
 
@@ -43,3 +43,9 @@ What the sessions exposed included [[mk-ultra|MK ULTRA]], a CIA-run mind control
 Badlands Media pairs the Church Committee with the [[pike-committee|Pike Committee]] as the two 1960s-70s investigations that exposed the intelligence community's "dirty laundry" to the public for the first time — assassination plots, human experimentation, domestic surveillance, mail interception, propaganda dissemination, media manipulation and inhumane covert operations.[4] The article argues that because the exposure made the [[central-intelligence-agency|CIA]] radioactive in the eyes of foreign governments while its functions were still considered essential to Western hegemony, the response was the construction of the [[plausible-deniability-network|plausible deniability network]] of NGO cut-outs headed by the [[national-endowment-for-democracy|National Endowment for Democracy]].[4]
 
 4. Badlands Brief — "How to Rent a Riot - The Plausible Deniability Network", URL: https://badlands.substack.com/p/how-to-rent-a-riot-the-plausible
+
+## Cited on CIA media control
+
+[[erik-carlson|Erik Carlson]] invoked the committee in his January 26, 2024 essay "Poisoning the Well," writing that "The Church Committee of 1975 exposed that the [[cia|CIA]] has been controlling the media since at least the early 1960s."[5] He used the finding as a baseline from which to advance a stronger claim of his own — that the job of the media had never been to inform but only to control — and paired it with the observation that Americans, unlike audiences under Soviet or Chinese state media who understood the game and merely pretended to believe, had assumed their press existed to report the news honestly.[5]
+
+5. Badlands Brief — "Poisoning the Well", URL: https://badlands.substack.com/p/poisoning-the-well

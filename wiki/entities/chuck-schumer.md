@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, israel, netanyahu, democrats]
-sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-029.md, raw/badlands-brief-618.md, raw/badlands-brief-8c2.md, raw/badlands-brief-990.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-373.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-50a.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-c6a.md, raw/badlands-news-brief-e48.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-029.md, raw/badlands-brief-618.md, raw/badlands-brief-8c2.md, raw/badlands-brief-990.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-373.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-50a.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-c6a.md, raw/badlands-news-brief-e48.md, raw/moves-and-countermoves.md]
 confidence: medium
 ---
 
@@ -126,3 +126,8 @@ On 21 September 2025 Schumer publicly urged President [[donald-trump|Donald Trum
 19. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
 20. Badlands Brief — "SCOTUS Examines Slushy Subsidies as Speaker Weighs Abolishing Courts", URL: https://badlands.substack.com/p/badlands-news-brief-c6a
 21. Badlands Brief — "Energy Acceleration, Foreign Escalation, & Another Looming Shutdown", URL: https://badlands.substack.com/p/badlands-news-brief-e48
+22. Badlands Brief — "Moves and Countermoves", URL: https://badlands.substack.com/p/moves-and-countermoves
+
+## The 2018–2019 border wall standoff
+
+"Moves and Countermoves" casts Schumer, alongside [[nancy-pelosi|Nancy Pelosi]] and [[john-mccain|John McCain]], as a principal obstacle to [[donald-trump|Trump]]'s border wall, and describes the on-camera December 11, 2018 Oval Office meeting as a deliberate exposure of Democratic opposition to border security.[22] In the joint televised response to Trump's border address, Schumer told viewers that the president, "having failed to get Mexico to pay for his ineffective, unnecessary border wall, and unable to convince the Congress or the American people to foot the bill," had shut down the government, and insisted the border could be secured "without an expensive, ineffective wall."[22] [[joe-lange|Joe Lange]] argues the appearance was widely mocked and left Democrats permanently on the defensive on immigration.[22]

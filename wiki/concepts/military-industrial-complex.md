@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [military-industrial-complex, war, propaganda, defense]
-sources: [raw/a-bright-red-line.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a61.md, raw/badlands-news-brief-d24.md, raw/bernie-sanders-establishment-tool.md, raw/how-to-stop-civil-war-20.md]
+sources: [raw/a-bright-red-line.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a61.md, raw/badlands-news-brief-d24.md, raw/bernie-sanders-establishment-tool.md, raw/how-to-stop-civil-war-20.md, raw/nikki-haley-establishment-gops-last.md, raw/operation-cyclone-the-seeds-of-terror.md]
 confidence: medium
 ---
 
@@ -34,6 +34,10 @@ A 2023 Badlands Media essay by [[ryan-delarme|Ryan DeLarme]] cited [[bernie-sand
 
 Badlands contributor [[matthew-ehret|Matthew Ehret]] describes 1968 as the year in which endless sums of money were absorbed into the American military industrial complex that [[john-f-kennedy|John Kennedy]], [[martin-luther-king-jr|Martin Luther King Jr.]] and [[robert-f-kennedy|Robert Kennedy]] had died resisting.[7] The complex is presented as one pole of a choice between two futures: a space-based economic system embodied by the [[apollo-program|Apollo program]], and a dystopian path of race riots and an insane war in [[vietnam-war|Vietnam]].[7] With the choice made, the moon program was killed in 1973 and the New Left came to equate the space program, atomic technology and the American constitution itself with the evils of the war machine.[7]
 
+## Operation Cyclone and the War on Terror
+
+Badlands Media argues that when it comes to the Military Industrial Complex, war is good for business, and long, drawn-out wars are preferable to brief conflicts.9 By the mid-1980s it was becoming clear the Cold War would not last forever, and the article frames [[operation-cyclone|Operation Cyclone]] as the bridge the complex used — alongside the [[central-intelligence-agency|CIA]] and the security state — to move from endless Cold War to the endless [[war-on-terror|War on Terror]].9
+
 ## References
 
 1. Badlands Brief — "A Bright Red Line", URL: https://badlands.substack.com/p/a-bright-red-line
@@ -45,3 +49,10 @@ Badlands writer [[justin-deschamps|Justin Deschamps]] treated the [[pentagon|Pen
 5. Badlands Brief — "Badlands News Brief: Hunter's Slap & Trump's Trap", URL: https://badlands.substack.com/p/badlands-news-brief-d24
 6. Badlands Media — "Bernie Sanders: Establishment Tool", URL: https://badlands.substack.com/p/bernie-sanders-establishment-tool
 7. Badlands Brief — "How to Stop Civil War 2.0", URL: https://badlands.substack.com/p/how-to-stop-civil-war-20
+
+## Haley and the 2024 primary
+
+In November 2023 [[ryan-delarme|Ryan DeLarme]] described the military-industrial complex as the network of companies that produce and profit from military weapons and technology and, in his framing, the largest driving force behind most wars worldwide.[8] He argued that former UN ambassador [[nikki-haley|Nikki Haley]] had a long history of serving its interests, citing repeated votes for increased military spending and support for arms sales to [[saudi-arabia|Saudi Arabia]] and other governments with poor human-rights records, as well as her paid seat on the board of [[boeing|Boeing]].[8] DeLarme contended that the press labels politicians "foreign policy experts" chiefly for supporting U.S. involvement in foreign wars, and that the same dynamic explained media affection for [[john-mccain|John McCain]]: outlets and their donors prefer die-hard supporters of the complex to populist candidates.[8]
+
+8. Badlands Brief — "Nikki Haley: The Establishment GOP's Last Hope", URL: https://badlands.substack.com/p/nikki-haley-establishment-gops-last
+9. Badlands Brief — "Operation Cyclone - The Seeds of Terror", URL: https://badlands.substack.com/p/operation-cyclone-the-seeds-of-terror

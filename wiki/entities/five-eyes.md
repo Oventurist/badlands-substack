@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence, ukraine, deep-state, alliances]
-sources: [raw/badlands-news-brief-144.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-f46.md]
+sources: [raw/badlands-news-brief-144.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-f46.md, raw/moves-and-countermoves.md]
 confidence: medium
 ---
 
@@ -42,3 +42,11 @@ Badlands contributor [[simon-esler|Simon Esler]] wrote in February 2024 that [[j
 The classified documents at the center of the November 2024 prosecution of [[asif-william-rahman|Asif William Rahman]] were sharable within the Five Eyes partnership — the United States, Britain, Canada, New Zealand and Australia — before they appeared on a Telegram channel.[4] Attributed to the [[national-geospatial-intelligence-agency|National Geospatial-Intelligence Agency]] and the [[national-security-agency|National Security Agency]], the material assessed Israel's movement of military assets ahead of a strike on Iran in response to Iran's October 1, 2024 ballistic missile attack.[4]
 
 4. Badlands Brief — "Badlands News Brief: A 'Smooth Transition' Into the Second Trump Administration", URL: https://badlands.substack.com/p/badlands-news-brief-f46
+
+## Alleged use against the 2016 Trump campaign
+
+"Moves and Countermoves" presents the Five Eyes arrangement — a Cold War–era intelligence-sharing agreement among the United States, the United Kingdom, Canada, New Zealand and Australia — as the mechanism by which the [[barack-obama|Obama]] administration circumvented the prohibition on [[cia|CIA]] surveillance of American citizens.[5] Citing The Federalist's February 2024 report, [[joe-lange|Joe Lange]] writes that the U.S. Intelligence Community asked its FVEY partners to surveil [[donald-trump|Trump]]'s associates and share the product with American agencies, and that multiple credible sources described the IC, including the CIA, illegally mobilizing foreign intelligence services against Trump advisors long before the summer of 2016.[5] British intelligence sources, including GCHQ, are said to have begun targeting Trump possibly as early as 2015, and Australian intelligence supplied the tip that ostensibly launched [[crossfire-hurricane|Crossfire Hurricane]] on July 31, 2016 — a tip Special Counsel John Durham later concluded did not justify the investigation.[5]
+
+Lange argues that [[barack-obama|Obama]] and [[john-brennan|John Brennan]] used the alliance to evade congressional oversight while spying not only on the Trump campaign but on candidate [[ted-cruz|Ted Cruz]], members of [[congress|Congress]] and the press, and that the absence of any regular-channel record for the released transcripts of [[michael-flynn|Flynn]]'s calls with the Russian ambassador proved they originated with FVEY sources.[5] He contends the resulting need to launder this material through legitimate process drove the [[steele-dossier|fake dossier]] and the FISA warrants on Carter Page and George Papadopoulos, and that [[john-mccain|John McCain]] was himself tied to the FVEY operation.[5]
+
+5. Badlands Brief — "Moves and Countermoves", URL: https://badlands.substack.com/p/moves-and-countermoves

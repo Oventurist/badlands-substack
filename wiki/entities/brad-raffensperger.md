@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [elections, georgia, 2020-election]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-695.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-e31.md, raw/grand-jury-testimony-from-senator.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-695.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-e31.md, raw/grand-jury-testimony-from-senator.md, raw/previously-sealed-report-on-dominion.md]
 confidence: low
 ---
 
@@ -76,3 +76,9 @@ Open records responses obtained by Georgia resident [[bob-coovert|Bob Coovert]] 
 Separately, prosecutor [[nathan-wade|Nathan Wade]] cited investigations by the Secretary of State's office, alongside those of the [[georgia-bureau-of-investigation|GBI]], when pressing former Senator [[david-perdue|David Perdue]] before the Fulton County special grand jury to concede that nothing illegal had occurred at [[state-farm-arena|State Farm Arena]] on election night 2020.[9]
 
 9. Badlands Brief — "Grand Jury Testimony From Senator David Perdue Suggests Gov. Brian Kemp Halted Investigation Into 2020 Election", URL: https://badlands.substack.com/p/grand-jury-testimony-from-senator
+
+## Deferral of Dominion software updates past 2024
+
+In June 2023, shortly after the [[halderman-report|Halderman Report]] on Georgia's [[dominion-imagecast-x|Dominion ImageCast X]] machines was unsealed, Raffensperger announced that Georgia would not update the Dominion software until after the 2024 presidential election.[10] His office said there would be pilots in 2023 of the [[election-assistance-commission|Election Assistance Commission]]-certified Democracy Suite 5.17, which had not been deployed in any election in any jurisdiction, and that a statewide rollout would require updating nearly 45,000 pieces of voting equipment plus acceptance testing — "tens of thousands of manhours" — so the move to 5.17 would "occur following the 2024 election cycle."[10] [[j-alex-halderman|Dr. J. Alex Halderman]] criticized Raffensperger not only for declining to fix the documented vulnerabilities but for publicly announcing the delay, which he said gave "would-be adversaries a whole 18 months to develop and execute attacks that exploit the unknown-vulnerable machines."[10] Badlands compared the posture to that of [[brian-kemp|Brian Kemp]] during his own tenure as Georgia Secretary of State.[10]
+
+10. Badlands Brief — "Previously *SEALED* Report on Dominion Voting Machines in Georgia Shows Critical Vulnerabilities", URL: https://badlands.substack.com/p/previously-sealed-report-on-dominion

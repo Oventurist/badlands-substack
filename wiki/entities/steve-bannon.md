@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [maga, media, war-room, epstein-files, kayfabe]
-sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-7c6.md, raw/badlands-brief-a1a.md, raw/badlands-brief-c7b.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-b63.md, raw/badlands-news-brief-c05.md, raw/badlands-news-brief-c9b.md, raw/badlands-news-brief-d1d.md, raw/days-of-thunder.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-7c6.md, raw/badlands-brief-a1a.md, raw/badlands-brief-c7b.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-b63.md, raw/badlands-news-brief-c05.md, raw/badlands-news-brief-c9b.md, raw/badlands-news-brief-d1d.md, raw/days-of-thunder.md, raw/project-trump-card.md, raw/q-for-dummies-chapter-13.md]
 confidence: medium
 ---
 
@@ -168,3 +168,15 @@ Bannon had been found guilty in 2022 of failing to appear for a deposition order
 Following [[donald-trump|Donald Trump]]'s January 2025 inauguration, Bannon coined the phrase "[[days-of-thunder|days of thunder]]" to describe the administration's opening campaign to dismantle both the deep and administrative states.[23] The label was widely adopted in pro-Trump media and supplied the title of a February 20, 2025 progress report by Badlands contributor [[ryan-delarme|Ryan DeLarme]] surveying the administration's first month, which covered the exposure of [[usaid|USAID]], the border crackdown, and the proposed closure of the [[department-of-education|Department of Education]].[23]
 
 23. Badlands Brief — "Days of Thunder", URL: https://badlands.substack.com/p/days-of-thunder
+
+## Criticism of the December 2022 NFT launch
+
+On the night of December 15, 2022, and the following morning, Bannon and [[steve-cortes|Steve Cortes]] — both normally strongly pro-Trump commentators — publicly attacked [[donald-trump|Donald Trump]] and his team for releasing the [[trump-digital-trading-cards|Trump Digital Trading Cards]] NFT collection on the same day as the [[digital-bill-of-rights|Digital Bill of Rights]] free-speech rollout, calling it a "grievous error," saying "heads should roll," and insisting "people need to be fired RIGHT NOW."[24] [[badlands-media|Badlands Media]] contributor [[kitty-gillespie|Kitty Gillespie]] rejected the premise that Trump could have failed to notice the conflict, writing "there's NOTHING he doesn't catch," and argued instead that Bannon and Cortes were knowing participants in the misdirection whose job was to "poo-poo the NFT launch."[24]
+
+24. Badlands Brief — "Project Trump Card", URL: https://badlands.substack.com/p/project-trump-card
+
+## Ordered to surrender for contempt of Congress (2024)
+
+The Badlands Media "Q For Dummies" series recorded that Bannon had been ordered to surrender himself for incarceration on July 1 to serve a four-month sentence, with the underlying offence being his refusal to comply with a congressional subpoena.[25] The series author pointed out that [[hunter-biden|Hunter Biden]] had done "the very same thing" without comparable consequence, and treated the contrast as part of a broader pattern of two-tiered justice.[25] He argued that the sequence of prosecutions — Bannon's sentencing, [[donald-trump|Donald Trump]]'s New York conviction, and Hunter Biden's trial — was orchestrated, with the net result being a mass exposure of a corrupt and weaponized justice system that would eventually boomerang.[25]
+
+25. Badlands Brief — "Q For Dummies - Chapter 13", URL: https://badlands.substack.com/p/q-for-dummies-chapter-13

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [iran, irgc, middle-east, paramilitary, intelligence]
-sources: [raw/badlands-news-brief-2db.md, raw/everything-is-connected.md]
+sources: [raw/badlands-news-brief-2db.md, raw/everything-is-connected.md, raw/panic-in-dc.md]
 confidence: medium
 ---
 
@@ -23,3 +23,9 @@ Citing the Jerusalem Post, Badlands contributor Joe Lange notes that in March 20
 ## References
 1. Badlands News Brief — "Trump Counters, Musk Sues & Biden Lies", URL: https://badlands.substack.com/p/badlands-news-brief-2db
 2. Badlands Brief — "Everything Is Connected", URL: https://badlands.substack.com/p/everything-is-connected
+
+## Funding through the Iran cash transfers
+
+"Panic in DC" places the Quds Force among the designated entities that made dollar transactions illegal for banks, alongside [[qasem-soleimani|Qasem Soleimani]], the [[islamic-revolutionary-guard-corps|Islamic Revolutionary Guard]], [[hezbollah|Hezbollah]] and Hamas — the reason, [[joe-lange|Joe Lange]] argues, that value was moved to [[iran|Iran]] in physical foreign banknotes rather than by wire.[3] Washington Times reporting quoted in the article states that the U.S. government traced portions of the $1.7 billion released to Iran under the [[barack-obama|Obama]] administration to the Quds Force, described as Iran's main foreign intelligence and covert action arm and an element of the Islamic Revolutionary Guard Corps, as well as to Hezbollah and Houthi rebels in Yemen.[3] The article also alleges that the [[us-department-of-justice|Justice Department]] declined a [[project-cassandra|Project Cassandra]] request to charge a central player in a U.S.-based Quds Force cell.[3]
+
+3. Badlands Brief — "Panic in DC", URL: https://badlands.substack.com/p/panic-in-dc

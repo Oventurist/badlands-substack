@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [president, gold-standard, petrodollar, 1970s]
-sources: [raw/a-week-to-remember.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-099.md, raw/dope-inc.md, raw/four-pillars-of-government-control.md]
+sources: [raw/a-week-to-remember.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-099.md, raw/dope-inc.md, raw/four-pillars-of-government-control.md, raw/patsies-of-the-cia-and-fbi.md]
 confidence: medium
 ---
 
@@ -53,3 +53,11 @@ Badlands contributor [[erik-carlson|Erik Carlson]] writes that when Nixon took o
 In 1973 Nixon appointed [[william-colby|William Colby]] as the new Director of the CIA; two years later Colby testified under oath before the [[church-committee|Church Committee]], divulging [[mk-ultra|MK ULTRA]], domestic surveillance, foreign assassination and coup operations, and [[operation-mockingbird|Operation Mockingbird]].[5] The agency treated Colby as a traitor and installed [[george-hw-bush|George H. W. Bush]] as a loyalist successor in 1976.[5]
 
 5. Badlands Brief — "Four Pillars of Government Control", URL: https://badlands.substack.com/p/four-pillars-of-government-control
+
+## Removal by CIA plot (Badlands account)
+
+The Badlands essay "Patsies of the CIA and FBI" argues that Nixon was taken out by the [[cia|CIA]] — "maybe not by a CIA bullet, but by a CIA plot."[6] It states that the [[watergate|Watergate]] break-ins were performed to get Nixon out of office because the agency viewed him as a threat to its power.[6] The essay adds that [[george-hw-bush|Bush Sr.]] may have had his hands all over the Watergate set-up, from behind the scenes — as it also alleges was the case with the assassination of [[john-f-kennedy|John F. Kennedy]].[6]
+
+Nixon's removal is presented as a variant of the essay's central pattern: where figures such as [[lee-harvey-oswald|Lee Harvey Oswald]] and [[sirhan-sirhan|Sirhan Sirhan]] were allegedly used to eliminate leaders who opposed the agency by violence, Nixon was eliminated by scandal.[6] See also [[intelligence-patsy|intelligence patsy]].[6]
+
+6. Badlands Brief — "Patsies of the CIA and FBI", URL: https://badlands.substack.com/p/patsies-of-the-cia-and-fbi

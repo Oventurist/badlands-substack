@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [january-6, capitol, testimony, perjury, defamation]
-sources: [raw/badlands-news-brief-082.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-484.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-e18.md, raw/badlands-news-brief-e7c.md]
+sources: [raw/badlands-news-brief-082.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-484.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-e18.md, raw/badlands-news-brief-e7c.md, raw/patsies-of-the-cia-and-fbi.md]
 confidence: medium
 ---
 
@@ -53,3 +53,9 @@ On September 19, 2023, Epps was charged with a single count of disorderly or dis
 [[ashe-in-america|Ashe in America]] responded that Epps had received one count of disorderly conduct "after two and a half years of being protected by the government," citing again his text to his nephew reading "I orchestrated it."[6] She called the charge poor cover-up material, argued that Epps was widely understood to be an asset for [[nancy-pelosi|Nancy Pelosi]] and the coup-plotters, and noted polling indicating that roughly two thirds of Americans believed the "Insurrection" had been orchestrated by the government.[6] Coming a day after former Capitol Police Chief [[steven-sund|Steven Sund]]'s testimony at the [[2023-house-capitol-security-oversight-hearing|House Capitol security oversight hearing]], the charging decision struck her as an afterthought meant to distract from the ongoing exposure of the [[fedsurrection|FedSurrection]].[6]
 
 6. Badlands Brief — "Badlands News Brief: A Fed, a Ukrainian & a DeSimp Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-e7c
+
+## Calls for exposure (2023 commentary)
+
+The Badlands essay "Patsies of the CIA and FBI," published in March 2023 after the release of Capitol footage on [[tucker-carlson|Tucker Carlson]]'s program, expressed the hope that more would be exposed and said Epps "should be exposed as being a CIA/FBI stooge," asking whether he would be thrown under the bus and answering that time would tell.[7] The essay situates Epps within its broader argument that [[january-6-capitol-protest|January 6]] was a staged show coordinated by government agencies to make [[donald-trump|Trump]] and his supporters seem like violent nut jobs — a narrative it says the Left absorbed easily because it is what they had been conditioned to believe.[7] See also [[intelligence-patsy|intelligence patsy]].[7]
+
+7. Badlands Brief — "Patsies of the CIA and FBI", URL: https://badlands.substack.com/p/patsies-of-the-cia-and-fbi

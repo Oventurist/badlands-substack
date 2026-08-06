@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [brics, gold, de-dollarization, monetary-policy]
-sources: [raw/badlands-news-brief-c5b.md]
+sources: [raw/badlands-news-brief-c5b.md, raw/project-trump-card.md]
 confidence: medium
 ---
 
@@ -30,3 +30,11 @@ Deschamps also argued that money functions as a unit of account and must be stab
 
 ## References
 1. Badlands Brief — "Badlands News Brief: BRICS' Gold, Biden's Fury & Guardians of the Pedo's", URL: https://badlands.substack.com/p/badlands-news-brief-c5b
+
+## Early reporting and expansion context (2022)
+
+Coverage in December 2022 traced the initiative to the aftermath of the 2009 Yekaterinburg summit, at which the original BRIC nations announced the need for a new global reserve currency that would be "diverse, stable and predictable" — a statement that, without naming the dollar, precipitated a fall in its value against other major currencies.[2] [[vladimir-putin|Vladimir Putin]] announced in June 2022 that [[brics|BRICS]] was already setting up such a currency.[2]
+
+Badlands contributor [[kitty-gillespie|Kitty Gillespie]] wrote that numerous news reports pointed to BRICS moving toward a gold-backed global reserve currency that "would totally shake up the world's economies and destroy the American dollar," placing it within a broader worldwide return to asset-based money and the death of [[fiat-currency|fiat currency]].[2] She argued that because one cannot break a piece off a gold bar to buy groceries, any metal-backed system requires a digital representation held in [[digital-wallets|digital wallets]], distinct from a [[central-bank-digital-currency|central bank digital currency]], and speculated that a beta version had already been deployed to a small group worldwide.[2]
+
+2. Badlands Brief — "Project Trump Card", URL: https://badlands.substack.com/p/project-trump-card

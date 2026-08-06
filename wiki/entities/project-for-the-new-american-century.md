@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [neoconservatism, foreign-policy, regime-change, think-tank]
-sources: [raw/assad-day-in-damascus.md, raw/deep-state-spotlight-victoria-nuland.md]
+sources: [raw/assad-day-in-damascus.md, raw/deep-state-spotlight-victoria-nuland.md, raw/operation-cyclone-the-seeds-of-terror.md]
 confidence: medium
 ---
 
@@ -30,6 +30,13 @@ Badlands Media's August 2023 "Deep State Spotlight" on [[victoria-nuland|Victori
 
 According to that profile, PNAC was the mid-1990s think tank that laid the groundwork for the brand of [[neoconservatives|neoconservatism]] that has shaped global affairs in the decades since, relentlessly pressuring then-President Bill Clinton to adopt a more aggressive posture toward Iraq and planting the seeds of war with Iraq and Iran well before the September 11 attacks provided the pretext its members wanted.[2] Many PNAC figures went on to hold the highest-level positions in the [[george-w-bush|George W. Bush]] administration, a cohort the article dryly summarizes as "all Yale boys together" given their shared [[yale-university|Yale]] background.[2] Contributor [[ryan-delarme|Ryan DeLarme]] compares this pre-9/11 agitation to what he characterizes as the liberal establishment's desire for a domestic war on MAGA Republicans before January 6, arguing that the [[deep-state|deep state]] reuses a small number of plays.[2]
 
+## Role in the post-Cold War transition
+
+As the Cold War wound down and the situation in the Middle East escalated, PNAC — a neoconservative think tank — laid the groundwork for a policy that would cast the United States as the "world's police" and preserve the "Pax Americana."3 Badlands Media describes the organization as a who's who of neoconservative deep politicians, including Bill Kristol, Robert Kagan, Dick Cheney, [[donald-rumsfeld|Donald Rumsfeld]], John Bolton, Max Boot, Steve Forbes, Paul Wolfowitz and Jeb Bush.3 [[dov-zakheim|Dov Zakheim]], Pentagon comptroller on September 11, 2001, was a member of both PNAC and the [[council-on-foreign-relations|Council on Foreign Relations]].3
+
+PNAC's policy document "Rebuilding America's Defences," drafted in the 1990s, ominously noted that a "catastrophic and catalyzing event" akin to a "new Pearl Harbor" would likely speed up implementation of its desired policies, and many of its recommendations were reflected in the White House's National Security Strategy of September 2002.3 The organization is thereby placed within the article's argument that [[operation-cyclone|Operation Cyclone]] served as the bridge from the Cold War to the [[war-on-terror|War on Terror]].3
+
 ## References
 1. Badlands Brief — "Assad Day in Damascus", URL: https://badlands.substack.com/p/assad-day-in-damascus
 2. Badlands Media — "Deep State Spotlight: Victoria Nuland", URL: https://badlands.substack.com/p/deep-state-spotlight-victoria-nuland
+3. Badlands Brief — "Operation Cyclone - The Seeds of Terror", URL: https://badlands.substack.com/p/operation-cyclone-the-seeds-of-terror

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, citizen-journalism, newsletter, substack]
-sources: [raw/coming-soon.md, raw/last-call-for-gart-cocoa-beach.md, raw/death-blossom.md, raw/gart-myrtle-beach-is-almost-here.md, raw/get-woke-go-broke.md, raw/happy-new-year.md, raw/happy-thanksgiving-badlands.md, raw/happy-thanksgiving.md, raw/introducing-badlandsmediatv.md, raw/join-us-again-at-gart-deadwood.md, raw/join-us-in-nashville-for-gart-11.md, raw/last-call-for-gart-2.md, raw/last-call-for-gart-3-irvine.md, raw/kekistani-code-talkers.md, raw/last-call-for-gart-4-dallas.md, raw/last-call-for-gart-az.md, raw/last-call-for-gart-las-vegas.md, raw/join-us-in-deadwood-for-gart-12.md, raw/join-us-in-cocoa-beach-for-gart-10.md, raw/lt-general-steve-kwast-usaf-ret-on.md, raw/last-call-for-gart-plymouth.md]
+sources: [raw/coming-soon.md, raw/last-call-for-gart-cocoa-beach.md, raw/death-blossom.md, raw/gart-myrtle-beach-is-almost-here.md, raw/get-woke-go-broke.md, raw/happy-new-year.md, raw/happy-thanksgiving-badlands.md, raw/happy-thanksgiving.md, raw/introducing-badlandsmediatv.md, raw/join-us-again-at-gart-deadwood.md, raw/join-us-in-nashville-for-gart-11.md, raw/last-call-for-gart-2.md, raw/last-call-for-gart-3-irvine.md, raw/kekistani-code-talkers.md, raw/last-call-for-gart-4-dallas.md, raw/last-call-for-gart-az.md, raw/last-call-for-gart-las-vegas.md, raw/join-us-in-deadwood-for-gart-12.md, raw/join-us-in-cocoa-beach-for-gart-10.md, raw/lt-general-steve-kwast-usaf-ret-on.md, raw/last-call-for-gart-plymouth.md, raw/project-trump-card.md, raw/q-for-dummies-chapter-1.md]
 confidence: medium
 ---
 
@@ -125,3 +125,16 @@ In April 2025 Badlands Media promoted the eighth stop of its [[great-american-re
 
 21. Badlands Brief — "Last Call for GART: Plymouth", URL: https://badlands.substack.com/p/last-call-for-gart-plymouth
 
+## "Project Trump Card"
+
+In December 2022 Badlands Media published "Project Trump Card" by contributor [[kitty-gillespie|Kitty Gillespie]], an analysis arguing that [[donald-trump|Donald Trump]]'s [[trump-digital-trading-cards|Trump Digital Trading Cards]] launch was a misdirection covering the [[digital-bill-of-rights|Digital Bill of Rights]] rollout and a step toward normalizing [[digital-wallets|digital wallets]].[22] As with other contributor pieces, the article carried the outlet's standard disclaimer that "Badlands Media articles and features represent the opinions of the contributing authors and do not necessarily represent the views of Badlands Media itself," and repeated the outlet's positioning that its content will always be free, supported by paid subscribers, as a "collective of citizen journalists" working to "take back the narrative from the MSM."[22]
+
+22. Badlands Brief — "Project Trump Card", URL: https://badlands.substack.com/p/project-trump-card
+
+## The Q for Dummies series
+
+In December 2023, contributor [[paul-fleuret|Paul Fleuret]] launched [[q-for-dummies|Q for Dummies]] on the Badlands Substack, a serialized low-level primer on the [[q-operation|Q]] drops intended for newcomers, planned at seven to ten drops per bi-weekly installment.[23] Fleuret described his participation in several Badlands Media shows, including [[eye-of-the-storm|Eye Of The Storm]] with [[stormy-patriot-joe|Stormy Patriot Joe]], and credited fellow contributor [[patriots-in-progress|Patriots In Progress]] with covering high-level Q analysis on Substack.[23]
+
+Each installment carries the network's standard disclaimer that Badlands Media articles and features represent the opinions of the contributing authors and do not necessarily represent the views of Badlands Media itself, followed by the standing note that the outlet always publishes its content for free while inviting paid subscriptions to help its collective of citizen journalists "take back the narrative from the MSM."[23]
+
+23. Badlands Brief — "Q for Dummies - Chapter 1", URL: https://badlands.substack.com/p/q-for-dummies-chapter-1

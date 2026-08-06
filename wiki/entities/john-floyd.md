@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [georgia, fulton-county, fani-willis, testimony]
-sources: [raw/badlands-news-brief-ea1.md]
+sources: [raw/badlands-news-brief-ea1.md, raw/of-punishment-and-profit.md]
 confidence: medium
 ---
 
@@ -21,3 +21,8 @@ The concealment described by Floyd was relevant to the defense theory that the W
 ## References
 
 1. Badlands Brief — "Badlands News Brief: An Astonishing Fani, Angry Truckers & a Russian Ruse", URL: https://badlands.substack.com/p/badlands-news-brief-ea1
+2. Badlands Brief — "Of Punishment & Profit", URL: https://badlands.substack.com/p/of-punishment-and-profit
+
+## John Floyd, RICO special counsel (billing comparison)
+
+Separately, an attorney named John Floyd — described as the RICO expert on the Fulton County prosecution team — figured prominently in testimony by defense attorney [[ashleigh-merchant|Ashleigh Merchant]] before the [[georgia-senate-committee-on-special-investigations|Georgia Senate Committee on Special Investigations]] in March 2024.[2] Merchant testified that this Floyd was paid $150 per hour and billed less in total for the case than [[anna-cross|Anna Cross]], who herself billed under $100,000, whereas [[nathan-wade|Nathan Wade]] billed over $700,000 at $250 per hour.[2] She said that expected work product existed for both Cross's and Floyd's billings but was severely lacking for Wade's, and that Floyd did not bill for the "team meetings" Wade invoiced.[2] According to Merchant, neither Cross nor Floyd still held contracts with [[fani-willis|Fani Willis]]'s office at the time of her testimony.[2]

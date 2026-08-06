@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [activism, political-theory, commentary]
-sources: [raw/badlands-news-brief-bbc.md, raw/george-soros-shadow-network.md]
+sources: [raw/badlands-news-brief-bbc.md, raw/george-soros-shadow-network.md, raw/q-for-dummies-chapter-17.md]
 confidence: medium
 ---
 
@@ -22,6 +22,11 @@ A June 2023 Badlands Media essay by [[ryan-delarme|Ryan DeLarme]] cast Alinsky a
 
 The same article identified the PICO National Network — a group it described as Alinskyite, founded by the liberal Jesuit Father John Baumann — among the organizations that lobbied the Vatican ahead of [[pope-francis|Pope Francis]]' 2015 visit to the United States, extending the Alinsky lineage into religious organizing.[2]
 
+## Mentorship of Obama and Clinton in Q drop #117
+
+Chapter 17 of the [[q-for-dummies|Q for Dummies]] series lists Alinsky among the mentors of [[barack-obama|Barack Obama]], alongside [[jeremiah-wright|Jeremiah Wright]] and [[khalid-al-mansour|Khalid al-Mansour]], characterizing the group as figures unsympathetic to America and its way of life.[3] The chapter adds that [[hillary-clinton|Hillary Clinton]] was also mentored by Alinsky, and argues that reading his [[rules-for-radicals|Rules for Radicals]] makes it plain what such figures have been doing to the country.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Israel's Package, Biden's Border and Putin's Nukes", URL: https://badlands.substack.com/p/badlands-news-brief-bbc
 2. Badlands Brief — "George Soros' Shadow Network", URL: https://badlands.substack.com/p/george-soros-shadow-network
+3. Badlands Brief — "Q for Dummies - Chapter 17", URL: https://badlands.substack.com/p/q-for-dummies-chapter-17

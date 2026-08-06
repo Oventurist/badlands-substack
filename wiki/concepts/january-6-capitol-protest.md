@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [january-6, capitol, fbi, election-integrity, protests]
-sources: [raw/believe-half-of-what-you-see.md]
+sources: [raw/believe-half-of-what-you-see.md, raw/patsies-of-the-cia-and-fbi.md]
 confidence: medium
 ---
 
@@ -25,3 +25,15 @@ Carlson used the episode as the precedent for his suspicion that other filmed co
 ## References
 
 1. Badlands Brief — "Believe Half of What You See", URL: https://badlands.substack.com/p/believe-half-of-what-you-see
+
+## The 2023 "staged show" reading
+
+The Badlands essay "Patsies of the CIA and FBI," published in March 2023, argues that the release of the J6 videos on [[tucker-carlson|Tucker Carlson]]'s program produced evidence of what most of its readers already believed — that government agencies possibly coordinated the whole thing.[2] It characterises the day as a staged show intended to make [[donald-trump|Trump]] and his supporters seem like violent nut jobs, a narrative easily absorbed by the Left because it is what they had been conditioned to believe and wanted to believe.[2]
+
+The footage showing [[jacob-chansley|Jacob "Jake Angeli" Chansley]], the QAnon Shaman, being escorted through the Capitol with a police escort is described as impossible to ignore or spin, and the [[january-6-committee|J6 committee]] as able only to lie and claim it had not watched the videos — which the author says makes its members look worse.[2] [[ray-epps|Ray Epps]] should, in the essay's view, be exposed as a CIA/FBI stooge.[2]
+
+The article also recalls early videos and pictures of Azov soldiers — described as Ukrainian Nazis — taking part in the demonstration, as well as members of the [[chinese-communist-party|CCP]], and asks what the odds are that [[antifa|Antifa]], [[black-lives-matter|BLM]], [[azov-battalion|Azov]] and the CCP, all accused of being foot soldiers of the [[deep-state|Deep State]] cabal, happened to be present, and why there is no longer any talk of Azov and the CCP at J6.[2]
+
+On Q and Trump's foreknowledge, the essay argues it makes sense that the Q Team stopped posting exactly four weeks before January 6 because they probably knew the cabal's plan, and states that Trump knew what was going to happen — which is why he asked for the [[national-guard|National Guard]] to be brought in and delayed his speech to keep more people away from the Capitol.[2] After three years of teaching Anons how to fish, the Q Team judged itself too big a target and distraction, and stepped back.[2] The essay concludes that the cabal specifically tried to make Anons appear violent and crazy, which tells the author that Anons are a huge threat to their plan, their power and their existence.[2] See also [[intelligence-patsy|intelligence patsy]].[2]
+
+2. Badlands Brief — "Patsies of the CIA and FBI", URL: https://badlands.substack.com/p/patsies-of-the-cia-and-fbi

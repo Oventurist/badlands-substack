@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [club-of-rome, trilateral-commission, chase-manhattan, finance]
-sources: [raw/defeating-the-depopulation-agenda.md]
+sources: [raw/defeating-the-depopulation-agenda.md, raw/operation-cyclone-the-seeds-of-terror.md]
 confidence: medium
 ---
 
@@ -20,5 +20,10 @@ Engdahl's account, reproduced by Ehret, ties Rockefeller to the Italian industri
 
 In Ehret's framing, Rockefeller's sponsorship of the Club of Rome links the post-1968 Malthusian revival directly to Anglo-American financial power, and situates the later [[limits-to-growth|*Limits to Growth*]] study and the [[green-new-deal|Green New Deal]] within a continuous banker-directed program rather than a grassroots ecological awakening.[1]
 
+## Trilateral Commission and Operation Cyclone
+
+Badlands Media's retrospective on [[operation-cyclone|Operation Cyclone]] states that Rockefeller, together with [[zbigniew-brzezinski|Zbigniew Brzezinski]] and with the blessing of the [[bilderberg]] Group, founded the [[trilateral-commission|Trilateral Commission]] — a body created to coordinate imperialist strategy between Washington, Western Europe and Japan.2 Brzezinski is described in the same account as a "Rockefeller-acolyte" and the quintessential high-ranking deep-state operative.2
+
 ## References
 1. Badlands Brief — "Defeating the Depopulation Agenda", URL: https://badlands.substack.com/p/defeating-the-depopulation-agenda
+2. Badlands Brief — "Operation Cyclone - The Seeds of Terror", URL: https://badlands.substack.com/p/operation-cyclone-the-seeds-of-terror

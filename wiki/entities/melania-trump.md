@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [first-lady, melania-trump, artificial-intelligence]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-285.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-d74.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-285.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-d74.md, raw/project-trump-card.md]
 confidence: medium
 ---
 
@@ -73,3 +73,11 @@ President [[donald-trump|Donald Trump]]'s entourage at the Super Bowl in New Orl
 ## Amazon documentary deal (January 2025)
 
 In January 2025 it was reported that the former and future first lady had signed a $40 million agreement with [[amazon|Amazon]] to license a documentary about her life, with cameos from her husband [[donald-trump|Donald]] and son Barron.[10] Directed by "Rush Hour" filmmaker Brett Ratner and slated for release later that year, the project was said by one source close to the agreement to have the potential to spawn multiple further projects.[10] The price tag, first reported by Puck News, covered rights to projects involving Mrs. Trump over the following four years; Disney had also bid, at $14 million, before being outmatched.[10] Sources told Page Six the deal was the latest sign that Melania had "gotten more comfortable" with opening herself to the public.[10]
+
+## "Melania's Vision" NFT (December 2021)
+
+In December 2021 Melania Trump announced an NFT titled "Melania's Vision," sold on a newly launched NFT platform of her own that she said planned to release NFTs regularly.[11] In her statement she described the venture as embodying "my passion for the arts" and as supporting "my ongoing commitment to children through my Be Best initiative."[11] Asked about it by Maria Bartiromo, Donald Trump said, "She's going to do great … She got a great imagination. And people love our former first lady, I can tell you that."[11]
+
+[[badlands-media|Badlands Media]] contributor [[kitty-gillespie|Kitty Gillespie]] noted that the launch fell on December 16, 2021, one day shy of a year before Donald Trump's own [[trump-digital-trading-cards|Trump Digital Trading Cards]] drop of December 15, 2022, and argued that both releases functioned to normalize [[digital-wallets|digital wallets]] among ordinary Americans ahead of a shift away from [[fiat-currency|fiat currency]].[11]
+
+11. Badlands Brief — "Project Trump Card", URL: https://badlands.substack.com/p/project-trump-card

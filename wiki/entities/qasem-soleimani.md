@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [iran, irgc, quds-force, assassination, middle-east]
-sources: [raw/badlands-news-brief-f14.md]
+sources: [raw/badlands-news-brief-f14.md, raw/panic-in-dc.md]
 confidence: medium
 ---
 
@@ -26,3 +26,9 @@ Badlands Media contributor Burning Bright argued that disclosures of this kind s
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Delays in Fake Justice & Signs of the Real Thing", URL: https://badlands.substack.com/p/badlands-news-brief-f14
+
+## In "Panic in DC"
+
+Badlands contributor [[joe-lange|Joe Lange]] describes Soleimani as the biggest puppet of [[alwaleed-bin-talal|Alwaleed bin Talal]] in the Middle East, and argues that [[donald-trump|Trump]] removed Alwaleed from the chessboard first and only afterward killed Soleimani.[2] The article notes that Soleimani, his [[quds-force|Quds Force]] and the [[islamic-revolutionary-guard-corps|Islamic Revolutionary Guard]] were all designated as terrorists and sanctioned, which made it illegal for banks to transact with them and — in Lange's argument — explains why the [[barack-obama|Obama]] administration allegedly delivered [[pallets-of-cash-to-iran|value to Iran in physical foreign banknotes]] instead.[2] Lange frames the question of how Soleimani's network could fund the terrorists it controlled while under sanctions as the central puzzle of the piece.[2]
+
+2. Badlands Brief — "Panic in DC", URL: https://badlands.substack.com/p/panic-in-dc

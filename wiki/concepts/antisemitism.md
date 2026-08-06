@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [antisemitism, free-speech, israel, definitions]
-sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-6e6.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-6e6.md, raw/on-infiltration-and-israel.md, raw/our-greatest-ally.md]
 confidence: medium
 ---
 
@@ -36,7 +36,31 @@ Lindsay observed that antisemitism, like misogyny, is very old and constantly mo
 
 The column ran alongside a UK government announcement of an urgent review of antisemitism and other racism in the [[nhs|National Health Service]], led by Lord [[john-mann|John Mann]], plus strengthened mandatory antisemitism and antiracism training and an [[nhs-england|NHS England]] review of uniform guidance.[3] Badlands contributor [[chris-paul|Chris Paul]] responded that if antisemitism is racism, then pro-semitism is also racism, "and nothing could be more obvious."[3] [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] used the same segment to argue that the truth movement's biggest problem is its failure to define what winning means, and that calls for "unity" often function as demands to silence dissent rather than to permit discourse and dialogue.[3]
 
+## "On Infiltration and Israel" (2025)
+
+The May 2025 Badlands essay "On Infiltration and Israel" opened by observing that any criticism whatsoever of Israel results in accusations of antisemitism, and accepted that consequence explicitly.[4] The author attributed the strength of that taboo in part to [[mossad|Mossad]]'s alleged influence over media, and invoked the saying that to find out who rules over you, find out who you are not allowed to criticize.[4]
+
+The essay also examined the executive orders on the subject, arguing that the January 29, 2025 order affirming [[executive-order-13899|Executive Order 13899]] does not strip Americans of free speech and that EO 13899 explicitly reaffirms the primacy of the First Amendment.[4] The author's reading was that Trump is turning the cabal's own weapon around: because opponents made all criticism of Israel a hate-speech issue, the "boogieman" of antisemitism can be used to target criminal and terror cells operating through the university system and behind the post–October 7 campus protests.[4]
+
+The author further argued that rising anti-Jewish hatred is a manufactured product of [[infiltration|infiltration]], contending that ordinary Jews are endangered by the actions of the financiers he calls [[ziobanksters|ziobanksters]], and that blaming the entire Jewish population makes as little sense as blaming all White people for systemic oppression.[4]
+
+## "The Great Silencer" (2024)
+
+The May 2024 Badlands essay "Our 'Greatest Ally'" by [[ryan-delarme|Ryan DeLarme]] characterizes the charge of antisemitism as an effective weapon for dealing with critics of Israel and its lobby, and notes that it has also been used against people who are not discussing Israel at all — offering criticism of [[george-soros|George Soros]] as an example that is invariably met with "the scarlet letter."[5] The essay observes the irony that the Foundation to Promote Open Society, part of the Soros network, funds NGOs involved in the pro-Palestine campus protests that conservative media condemn.[5]
+
+DeLarme notes that the term was originally coined roughly 150 years ago by a genuine anti-Semite, Wilhelm Marr, and has since been applied indiscriminately to everything from virulent Jew-hatred to legitimate criticism of Israel and the [[israel-lobby|Israel lobby]], with no attempt to distinguish bigotry from informed critique.[5] He compares its function to that of the labels "fascist," "Nazi" and "white nationalist," which he says render critics radioactive and surgically remove their arguments from public discourse.[5] He further reports that former employees of [[mossad|MOSSAD]] have publicly acknowledged weaponizing the term on purpose, and that the Israeli government also applies it to Jews whose philosophies contradict its own.[5]
+
+## Labelling dissenting Jews
+
+The essay identifies the 2007 [[american-jewish-committee|American Jewish Committee]] paper [[progressive-jewish-thought-and-the-new-antisemitism|*Progressive Jewish Thought and the New Anti-Semitism*]] by [[alvin-h-rosenfeld|Alvin H. Rosenfeld]] as the point at which this tendency peaked, and cites Rabbi [[michael-lerner|Michael Lerner]]'s account of legislators privately afraid to criticize Israeli policy lest they be labelled.[5] It presents [[norman-finkelstein|Norman Finkelstein]] as another prime target.[5] DeLarme argues that by 2024 the term "has essentially lost all weight and meaning."[5]
+
+## The 2023–24 online surge
+
+DeLarme also observes a surge in what he considers genuine antisemitism across social media, spread by anonymous accounts and "sh-t posters," which he judges inorganic and consistent with an influence operation of the kind the Department of Defense calls [[interactive-internet-activities|Interactive Internet Activities]].[5] He contrasts the tolerance of such content with the shadow-banning of discussion of rigged elections, Hunter Biden's laptop and COVID origins, and links the surge to a congressional push for legislation penalizing criticism of Israel.[5] He stresses these are personal observations and that his aim is not to cast shade on the Jewish people, naming Rabbi Marvin Antelman and Dr. Zev Zelenko as personal heroes marked as undesirables by "the Israel machine."[5]
+
 ## References
 1. Badlands Brief — "A Glaring Double Standard", URL: https://badlands.substack.com/p/a-glaring-double-standard
 2. Badlands Brief — "Dems Demand a Post-Trump Strategy as Hamas Haggles for Peace", URL: https://badlands.substack.com/p/badlands-brief-9eb
 3. Badlands Brief — "Badlands News Brief: Familiar Formulas, Blue Skies, & Antisemitic Nonchalance", URL: https://badlands.substack.com/p/badlands-news-brief-6e6
+4. Badlands Brief — "On Infiltration and Israel", URL: https://badlands.substack.com/p/on-infiltration-and-israel
+5. Badlands Brief — "Our 'Greatest Ally'", URL: https://badlands.substack.com/p/our-greatest-ally

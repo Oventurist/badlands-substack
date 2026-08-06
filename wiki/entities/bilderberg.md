@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [think-tank, deep-state, elite-networks]
-sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-862.md, raw/badlands-news-brief-d61.md, raw/canadas-transition-to-collectivist.md, raw/dark-equation.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-862.md, raw/badlands-news-brief-d61.md, raw/canadas-transition-to-collectivist.md, raw/dark-equation.md, raw/legacy-of-the-bavarian-illuminati-8f0.md, raw/poison-fruit-of-the-decision-tree.md, raw/operation-cyclone-the-seeds-of-terror.md]
 confidence: low
 ---
 
@@ -46,6 +46,22 @@ In "Dark Equation," [[ryan-delarme|Ryan DeLarme]] reported that the [[2023-bilde
 
 [[henry-kissinger|Henry Kissinger]], cited as the archetypal deep-state figure to pass through the group, has attended its meetings on and off since 1957 and said his interest in artificial intelligence began after Schmidt persuaded him to attend a Bilderberg lecture on the subject in 2016.[5] Against claims that the group is a shadow of its former self, DeLarme argued that Schmidt's documented influence inside the Biden administration shows Bilderberg "still has its tendrils in the various halls of power, whether it be the board room or the Oval Office."[5] He also criticized the severe lack of transparency around the meetings, in which the public receives a list of talking points but almost no context about what was actually discussed.[5]
 
+## Legal critique of the annual meetings
+
+In the May 2023 essay "Poison Fruit of the Decision Tree," Badlands Media contributor [[justin-deschamps|Justin Deschamps]] argued that the Bilderberg meetings amount to a violation of the [[sunshine-act|Government in the Sunshine Act]], the 1976 open-meetings law requiring that every portion of every meeting of a US agency be open to public observation.[7] He wrote that when officeholders attend a closed gathering where global policy and related national interests are discussed, the meeting constitutes agency business and its content should be disclosed, so that the annual conclaves are "illegal, unlawful, a breach of trust, and a violation of the spirit of their oaths of office."[7] He noted that the group has met every year since 1954 without any major pushback from citizens, government regulators, or oversight committees, and compared the arrangement to two coaches of opposing sports teams meeting in secret to decide who will win the game on behalf of players who do not know it is rigged.[7]
+
+Deschamps identified the [[chatham-house-rule|Chatham House Rule]] as the device that allows such meetings to proceed without scandal, since it lets participants use information received while barring disclosure of any speaker's identity or affiliation.[7] He treated the 69th annual meeting, held in May 2023 with an agenda covering "transnational threats, artificial intelligence, and America's leadership in world affairs," as the occasion for the essay, and quoted [[ryan-delarme|Ryan Delarme]]'s "The Men Behind the Curtain – Part 4" describing the Bilderbergers as extremely powerful men and women, many belonging to royal European bloodlines, who convene annually in semisecret to discuss the issues of the day, with more conspiracy-minded observers claiming the group conspires to manufacture and manage world events.[7] Delarme's account, quoted at length, held that the group emerged in the wake of the creation of the European Union, a project some believe had been the goal of ancient orders dating to the era of Merovingian King Dagobert II — an alleged brotherhood concealed within Freemasonry and hidden from lower-degree Masons that he called the supposed progenitor of modern globalism.[7]
+
+Deschamps further argued that acts of Congress are effectively written by think tanks, lobbyists and globalists in foreign lands within shadowy conferences of the Bilderberg type, and asked readers to conclude from the group's existence that their own power to influence their lives, families, communities, states and nation amounts to very little.[7]
+
+## Claimed continuity with the Illuminati
+
+The Badlands feature "Legacy of the Bavarian Illuminati – Part 2" cites the Masonic researcher [[william-stuart|William Stuart]] for the claim that the agenda of the suppressed [[bavarian-illuminati|Bavarian Illuminati]] has reappeared in multiple later incarnations, of which the Bilderberg Group and the [[fabian-society|Fabian Society]] are named as among the more recent examples.[6] The article links this point to an earlier Badlands installment, "Men Behind the Curtain pt.4: The Bilderberg Group."[6]
+
+## Cited in Operation Cyclone coverage
+
+Badlands Media identifies Bilderberg and [[le-cercle|Le Cercle]] as the two most exclusive gatherings of the "deep-state milieu," noting that [[zbigniew-brzezinski|Zbigniew Brzezinski]] — architect of [[operation-cyclone|Operation Cyclone]] — was one of only 46 people known to have attended both.8 The same account holds that the [[trilateral-commission|Trilateral Commission]] was founded by Brzezinski and [[david-rockefeller|David Rockefeller]] with the blessing of the Bilderberg Group.8
+
 ## References
 
 1. Badlands Brief — "And Iran, Iran So Far Away", URL: https://badlands.substack.com/p/and-iran-iran-so-far-away
@@ -53,3 +69,6 @@ In "Dark Equation," [[ryan-delarme|Ryan DeLarme]] reported that the [[2023-bilde
 3. Badlands News Brief — "Bakhmut Kaput, Legal Lake & Elitist Exposure", URL: https://badlands.substack.com/p/badlands-news-brief-d61
 4. Badlands Brief — "Canada's Transition to Collectivist Green Dystopia", URL: https://badlands.substack.com/p/canadas-transition-to-collectivist
 5. Badlands Brief — "Dark Equation", URL: https://badlands.substack.com/p/dark-equation
+6. Badlands Brief — "Legacy of the Bavarian Illuminati - Part 2", URL: https://badlands.substack.com/p/legacy-of-the-bavarian-illuminati-8f0
+7. Badlands Brief — "Poison Fruit of the Decision Tree", URL: https://badlands.substack.com/p/poison-fruit-of-the-decision-tree
+8. Badlands Brief — "Operation Cyclone - The Seeds of Terror", URL: https://badlands.substack.com/p/operation-cyclone-the-seeds-of-terror

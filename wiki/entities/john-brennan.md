@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cia, benghazi, drones, counterterrorism]
-sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-07c.md, raw/badlands-brief-143.md, raw/badlands-brief-1ef.md, raw/badlands-brief-625.md, raw/badlands-brief-8db.md, raw/badlands-brief-a89.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-ffa.md, raw/everything-is-connected.md]
+sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-07c.md, raw/badlands-brief-143.md, raw/badlands-brief-1ef.md, raw/badlands-brief-625.md, raw/badlands-brief-8db.md, raw/badlands-brief-a89.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-ffa.md, raw/everything-is-connected.md, raw/panic-in-dc.md]
 confidence: medium
 ---
 
@@ -117,3 +117,9 @@ Badlands contributor Joe Lange writes that [[hezbollah|Hezbollah]] was a major w
 14. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
 15. Badlands Brief — "Badlands News Brief: Prolonged Conflicts, Deep State Panic, & Shrinking Unions", URL: https://badlands.substack.com/p/badlands-news-brief-ffa
 16. Badlands Brief — "Everything Is Connected", URL: https://badlands.substack.com/p/everything-is-connected
+
+## Hezbollah policy and the Iran files
+
+"Panic in DC" assigns Brennan a pivotal role on two fronts. It asserts that he lied to the incoming Trump administration about the nuclear capabilities of both [[north-korea|North Korea]] and [[iran|Iran]].[17] More substantively, drawing on Politico's reporting, it identifies him as the key figure whose policy preferences shielded [[hezbollah|Hezbollah]] from criminal investigation: as [[barack-obama|Obama]]'s top counterterrorism adviser and later [[central-intelligence-agency|CIA]] director, Brennan authored a policy paper recommending that the next president pursue not only direct dialogue with Iran but "greater assimilation of Hezbollah into Lebanon's political system."[17] He told a Washington conference that Hezbollah was "a very interesting organization" that had evolved from "purely a terrorist organization" into a militia and ultimately a political party with representatives in the Lebanese Parliament and Cabinet.[17] According to [[project-cassandra|Project Cassandra]] members, that posture, combined with the administration's desire for a nuclear settlement, translated into a reluctance to move aggressively against top Hezbollah operatives.[17]
+
+17. Badlands Brief — "Panic in DC", URL: https://badlands.substack.com/p/panic-in-dc

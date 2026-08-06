@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [information-war, narrative, media, psychology]
-sources: [raw/badlands-brief-774.md, raw/badlands-news-brief-3c3.md]
+sources: [raw/badlands-brief-774.md, raw/badlands-news-brief-3c3.md, raw/open-borders-finally-make-sense.md]
 confidence: medium
 ---
 
@@ -26,6 +26,15 @@ Badlands contributor [[burning-bright|Burning Bright]], who has said he discusse
 
 He applied the frame in August 2023 to [[nato|NATO]]'s handling of the war in Ukraine, after [[stian-jenssen|Stian Jenssen]], chief of staff to Secretary General [[jens-stoltenberg|Jens Stoltenberg]], floated and then retracted the suggestion that Ukraine might cede territory in exchange for peace and alliance membership — asking readers which stage of the sequence NATO had reached.[2]
 
+## Individual windows and the limits of good news
+
+In a November 12, 2024 essay, Badlands contributor [[erik-carlson|Erik Carlson]] extended the concept beyond governmental policy, arguing that the Overton Window applies to "everything" and that things fall outside it not because they are false but because the collective or individual window does not expand far enough to admit them.[3] He proposed that the collective window is controlled by the media while the individual window is set by personal experience and discernment, and he likened the variation between people to the difference between a bay window and a porthole on a ship.[3] Quoting the Wikipedia definition — that the window identifies "the ideas that define the spectrum of acceptability of governmental policies," within which politicians can act, and that shifting it requires persuading the public — he treated window expansion as the central task of dissident writing.[3]
+
+Carlson described his own experience after reading the [[qanon|Q]] posts in late 2017: statements such as "the world is run by corrupt people" fell inside almost everyone's window, "the media is completely fake" inside some, and claims about a Satanic [[deep-state|Cabal]] outside nearly all of them.[3] The 2019 arrest of [[jeffrey-epstein|Jeffrey Epstein]], he wrote, "seemed to broaden their window a few inches," prompting people who had previously avoided him to begin asking questions.[3]
+
+He also used the frame to explain an asymmetry in his own readership. His July 25, 2024 article predicting that [[donald-trump|Donald Trump]] intended to eliminate the [[federal-income-tax-elimination-proposal|federal income tax]] drew 185 likes, while his October 1, 2024 article on the Satanic Cabal drew 940 — the most any Badlands article had received at the time.[3] Carlson concluded that his audience could more readily accept that Satanic pedophiles run the world than that America might soon have no income tax, and argued that "we are a beaten down, abused society that has a hard time accepting good news," urging readers to adopt "much more panoramic expectations."[3]
+
 ## References
 1. Badlands Brief — "Weaponization Woes & Bailing on the Bromance", URL: https://badlands.substack.com/p/badlands-brief-774
 2. Badlands Brief — "Badlands News Brief: From Hunter to NATO, It's All About Ukraine", URL: https://badlands.substack.com/p/badlands-news-brief-3c3
+3. Badlands Brief — "Open Borders Finally Make Sense", URL: https://badlands.substack.com/p/open-borders-finally-make-sense

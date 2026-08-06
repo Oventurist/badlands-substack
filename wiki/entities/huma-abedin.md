@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [clinton-network, cabal, dynasty, muslim-brotherhood, state-department]
-sources: [raw/a-week-to-remember.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/bad-actors.md, raw/child-sacrifice-as-a-pillar-of-deep.md, raw/disinformation-is-necessary.md, raw/infiltration-not-invasion.md, raw/irregular-warfare.md]
+sources: [raw/a-week-to-remember.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/bad-actors.md, raw/child-sacrifice-as-a-pillar-of-deep.md, raw/disinformation-is-necessary.md, raw/infiltration-not-invasion.md, raw/irregular-warfare.md, raw/q-for-dummies-chapter-2.md, raw/q-for-dummies-chapter-6.md, raw/q-for-dummies-chapter-7.md, raw/q-for-dummies-chapter-9.md]
 confidence: medium
 ---
 
@@ -60,6 +60,7 @@ Abedin also figures in the article's account of the secret 2009 mission to [[nor
 2. Badlands Brief — "America for Sale - Part 1", URL: https://badlands.substack.com/p/america-for-sale-part-1
 3. Badlands Brief — "America for Sale - Part 2", URL: https://badlands.substack.com/p/america-for-sale-part-2
 4. Badlands Brief — "Bad Actors", URL: https://badlands.substack.com/p/bad-actors
+9. Badlands Brief — "Q for Dummies - Chapter 2", URL: https://badlands.substack.com/p/q-for-dummies-chapter-2
 
 ## The Moloch email
 
@@ -85,3 +86,31 @@ Senator [[john-mccain|John McCain]] and others roundly criticized Bachmann for r
 
 7. Badlands Brief — "Infiltration, Not Invasion", URL: https://badlands.substack.com/p/infiltration-not-invasion
 8. Badlands Brief — "Irregular Warfare", URL: https://badlands.substack.com/p/irregular-warfare
+
+## Q drop #8 in "Q for Dummies" Chapter 2
+
+Badlands' "Q for Dummies" Chapter 2 discusses Q drop #8 (October 29, 2017), which the author reads as centering on Abedin's "deep family ties" to the [[muslim-brotherhood|Muslim Brotherhood]] while she served as [[hillary-clinton|Hillary Clinton]]'s top aide.[9] The chapter cites reporting in The Hill on those ties as supporting material.[9]
+
+## Q drop #45 in "Q for Dummies" Chapter 6
+
+Chapter 6 of the same series treats [[qanon|Q]] drop #45 of November 2, 2017 as coinciding with the breaking news of the [[anthony-weiner|Weiner]] laptop — specifically the report that Abedin and [[hillary-clinton|Hillary Clinton]] had been exchanging classified information over unsecured servers, one of the devices used being the laptop of Abedin's then-husband Anthony Weiner.[10] Writing in February 2024, the author remarks on Abedin's reappearance in the news through her relationship with [[alex-soros|Alex Soros]], and notes that both Abedin and [[john-podesta|John Podesta]] — two figures Q named very early and pointed to as facing indictment — had resurfaced in the public narrative within a matter of weeks, which he does not regard as coincidental.[10]
+
+10. Badlands Brief — "Q for Dummies - Chapter 6", URL: https://badlands.substack.com/p/q-for-dummies-chapter-6
+
+## Q drops #56–58 (Q for Dummies Chapter 7)
+
+Chapter 7 of [[q-for-dummies|Q for Dummies]] treats Abedin as the central subject of Q drops #56 through #58, all posted November 2, 2017.[11] Drop #56 shared a report on her ties to the [[muslim-brotherhood|Muslim Brotherhood]] and, in the chapter's reading, showed how the Clintons worked to keep that connection out of public view; the author stresses that one of the Brotherhood's stated goals is the destruction of America, making the ties of Abedin and [[barack-obama|Barack Obama]] to it a matter of infiltration "plain and simple."[11] The drop also excerpted material on [[media-matters-for-america|Media Matters]] and its role, with the [[democratic-national-committee|DNC]] and the Clintons, in debunking coverage of the subject.[11]
+
+Drop #57 is read as recounting the 2012 effort by [[michele-bachmann|Michele Bachmann]] and four other members of the [[house-permanent-select-committee-on-intelligence|House Permanent Select Committee on Intelligence]] and [[house-judiciary-committee|House Judiciary Committee]] to raise Abedin's Brotherhood connections with five national security agencies, an effort met with bipartisan criticism led by Senator [[john-mccain|"No Name"]].[11] Drop #58, which reposted the Bachmann material alongside an earlier drop, is interpreted as Q signalling that the subversion is connected and dates back at least to 2012; the chapter's author says the Brotherhood connection is "far more sinister than many can even fathom" but declines to expand so as not to spoil later drops.[11]
+
+11. Badlands Brief — "Q for Dummies - Chapter 7", URL: https://badlands.substack.com/p/q-for-dummies-chapter-7
+
+## Drops #68 and #71 (Q for Dummies Chapter 9)
+
+Chapter 9 of [[q-for-dummies|Q for Dummies]], covering drops #68 through #71 of November 3–4, 2017, opens with Q's question "what data just dropped?" and answers that it refers to the [[anthony-weiner|Weiner]] laptop and the classified information found on it that Abedin was transmitting along with [[hillary-clinton|Hillary Clinton]].[12] The chapter says this information became public a little more than a month after the drop, and that it matters both because it shows Clinton and Abedin transmitting classified material over non-secure networks and because of undisclosed material on the device — in the author's phrasing, connections between the [[muslim-brotherhood|Muslim Brotherhood]] and the U.S. government.[12]
+
+The chapter treats Q's capitalised "HUMA" as a deliberate double meaning, pointing at once to Abedin and to the [[huma-harvard-university-muslim-alumni|Harvard University Muslim Alumni]], with [[prince-alwaleed-bin-talal|Prince Al Waleed Bin Talal]] identified as the first connection of note.[12] Where Q asks about Abedin's family history, the chapter says the reference is unambiguously to her: her parents moved to [[saudi-arabia|Saudi Arabia]] when she was two, her father became heavily involved in establishing Muslim causes and was closely engaged with and passionate about championing the Muslim Brotherhood's cause, and the author argues it would be no stretch to say Abedin was moulded by the same belief system.[12] The family is described as "literally one of the definitions of '[[infiltration|infiltration, not invasion]].'"[12]
+
+The chapter repeats that Abedin met Clinton as a White House intern assigned to Clinton's staff in 1996.[12] In its reading of drop #71, Q's renewed instruction to "Follow HUMA" is paired with the question of who connects the [[clinton-foundation|Clinton Foundation]] and Clinton to Saudi Arabia; the answer given is Abedin, with the significance lying in the Brotherhood's stated goal of destroying Western culture and America.[12]
+
+12. Badlands Brief — "Q for Dummies - Chapter 9", URL: https://badlands.substack.com/p/q-for-dummies-chapter-9

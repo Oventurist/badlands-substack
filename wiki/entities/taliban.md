@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [afghanistan, terrorism, weapons-trafficking]
-sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-509.md, raw/badlands-brief-c2d.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-b40.md, raw/badlands-news-brief-b6c.md, raw/badlands-news-brief-bbb.md, raw/badlands-news-brief-e48.md, raw/badlands-news-brief-f18.md, raw/badlands-news-brief-f61.md]
+sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-509.md, raw/badlands-brief-c2d.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-b40.md, raw/badlands-news-brief-b6c.md, raw/badlands-news-brief-bbb.md, raw/badlands-news-brief-e48.md, raw/badlands-news-brief-f18.md, raw/badlands-news-brief-f61.md, raw/operation-cyclone-the-seeds-of-terror.md]
 confidence: medium
 ---
 
@@ -117,6 +117,12 @@ On Saturday, January 25, Secretary of State [[marco-rubio|Marco Rubio]] indicate
 
 The Taliban government drastically reduced opium cultivation in [[afghanistan|Afghanistan]] — a country that until recently produced 90% of the world's heroin — after announcing a prohibition on poppy farming in April 2022, citing religious belief and the social harms of opioids.[18] Geospatial analysis by Alcis found production down roughly 80% nationally within a year and 99% in Helmand Province, with enforcement carried out by counter-narcotics brigades armed with little more than sticks.[18] The success prompted questions about the seriousness of two decades of U.S. eradication efforts and raised expert concern that shrinking heroin supply could accelerate [[fentanyl-crisis|fentanyl]] use.[18] See [[taliban-opium-eradication-campaign|Taliban opium eradication campaign]].[18]
 
+## Origins in Operation Cyclone
+
+Badlands Media traces the Taliban directly to [[operation-cyclone|Operation Cyclone]]: of the seven [[mujahideen]] groups supported by the Pakistani government, four espoused Islamic fundamentalist beliefs and received most of the funding, weapons and training, and it was these same fundamentalist factions that would one day form the Taliban.19
+
+The movement also inherited the American-produced Afghan school primers filled with talk of jihad and drawings of guns, bullets, soldiers and mines; the Taliban used the U.S.-funded textbooks, scratching out human faces in keeping with its strict fundamentalist code.19 Asked in 1998 whether he regretted an operation that had indisputably led to the creation of the Taliban, [[zbigniew-brzezinski|Zbigniew Brzezinski]] responded: "What is more important in world history? The Taliban or the collapse of the Soviet empire?"19 The article closes that thread by asking why the Biden administration was still funneling taxpayer dollars to Taliban-controlled [[afghanistan|Afghanistan]].19
+
 ## References
 
 
@@ -138,3 +144,4 @@ The Taliban government drastically reduced opium cultivation in [[afghanistan|Af
 16. Badlands Brief — "Energy Acceleration, Foreign Escalation, & Another Looming Shutdown", URL: https://badlands.substack.com/p/badlands-news-brief-e48
 17. Badlands Brief — "Corruption, Mad Science & Colombian Defiance", URL: https://badlands.substack.com/p/badlands-news-brief-f18
 18. Badlands Brief — "Badlands News Brief: Special Counsels, Island Fires & White Pills", URL: https://badlands.substack.com/p/badlands-news-brief-f61
+19. Badlands Brief — "Operation Cyclone - The Seeds of Terror", URL: https://badlands.substack.com/p/operation-cyclone-the-seeds-of-terror

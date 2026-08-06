@@ -57,3 +57,9 @@ Badlands commentary framed the strike as a potential turning point that could de
 3. Badlands Brief — "Badlands News Brief: Sidecar Debates at Home, Missile Barrages Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-502
 4. Badlands Brief — "Badlands News Brief: Trump Calls for Peace as the World Heads Toward War", URL: https://badlands.substack.com/p/badlands-news-brief-69b
 5. Badlands Brief — "Israel Invades, MAGA Sues & Ports Close", URL: https://badlands.substack.com/p/badlands-news-brief-683
+
+## Q for Dummies reading
+
+Chapter 20 of the [[q-for-dummies|Q for Dummies]] series describes the walkout as "a very short-lived port strike" that had, for the moment, been averted and suspended until January 15.[6] The author frames the episode as a set of Q communications rather than an ordinary labour dispute, citing [[harold-daggett|Harold Daggett]]'s prior meeting with [[donald-trump|President Trump]] at Mar-a-Lago and a cluster of numbers — a $1.7 million home of 7,163 square feet, a 76-foot yacht, 17 port deaths in three months, and 45,000 striking workers — as evidence of hidden significance.[6] The chapter closes the passage by recalling the Q instruction to [[watch-the-water|watch the water]].[6]
+
+6. Badlands Brief — "Q for Dummies - Chapter 20", URL: https://badlands.substack.com/p/q-for-dummies-chapter-20

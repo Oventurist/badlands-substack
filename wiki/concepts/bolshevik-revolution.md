@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [russia, communism, history, cabal]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-virus-or-a-metaphor.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-virus-or-a-metaphor.md, raw/rainbow-color-revolution.md]
 confidence: low
 ---
 
@@ -29,3 +29,11 @@ On this basis he reads Q's repeated references to [[the-hunt-for-red-october|The
 ## References
 1. Badlands Brief — "A Journey of Ever-changing Truths", URL: https://badlands.substack.com/p/a-journey-of-ever-changing-truths
 2. Badlands Brief — "A Virus, or a Metaphor?", URL: https://badlands.substack.com/p/a-virus-or-a-metaphor
+
+## The 1917 sequence as a color revolution
+
+[[erik-carlson|Erik Carlson]] presented the Russian Revolution as an early [[color-revolution|color revolution]], noting that it began in early 1917 amid growing unrest in the Russian military and population as World War I went badly and trust that Tzar Nicholas II could run the empire in wartime collapsed, leading the Tzar to abdicate to a new government led by the Russian Parliament.[3] In October 1917 a group of far-left radicals known as the Bolsheviks, led by [[vladimir-lenin|Vladimir Lenin]], overthrew the monarch and the newly created government — an effort involving only a small percentage of the population but creating a false perception of broad support, with protests, strikes and street violence staged to manufacture unrest.[3]
+
+Civil war followed between the "Reds" and the "Whites," the Bolsheviks against supporters of the monarchy, ending in the creation of the Soviet Union under Lenin and the Bolsheviks; in 1918 the Tzar and his family were murdered by the same people.[3] Carlson noted the episode has been called the "Red Revolution" and used it as the direct historical analogue for what he termed the Rainbow Color Revolution in contemporary America, in which he saw far-left elitists propagandizing the country and creating division and unrest to gain and hold power.[3] He also relayed the claim that Wall Street bankers funded the Bolsheviks in Russia as well as the Nazis in Germany, financing the creation of totalitarian governments abroad.[3]
+
+3. Badlands Brief — "Rainbow Color Revolution", URL: https://badlands.substack.com/p/rainbow-color-revolution

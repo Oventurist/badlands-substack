@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [covid, biolabs, public-health, censorship]
-sources: [raw/a-virus-or-a-metaphor.md, raw/anthony-fauci.md, raw/badlands-brief-414.md, raw/badlands-brief-67a.md, raw/badlands-brief-be1.md, raw/badlands-brief-d94.md, raw/badlands-brief-da2.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-238.md, raw/badlands-news-brief-276.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-8f0.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-b6c.md, raw/badlands-news-brief-bad.md, raw/badlands-news-brief-c9b.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-d32.md, raw/badlands-news-brief-da5.md, raw/badlands-news-brief-da3.md, raw/behold-a-trojan-horse.md]
+sources: [raw/q-for-dummies-chapter-4.md, raw/a-virus-or-a-metaphor.md, raw/anthony-fauci.md, raw/badlands-brief-414.md, raw/badlands-brief-67a.md, raw/badlands-brief-be1.md, raw/badlands-brief-d94.md, raw/badlands-brief-da2.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-238.md, raw/badlands-news-brief-276.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-8f0.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-b6c.md, raw/badlands-news-brief-bad.md, raw/badlands-news-brief-c9b.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-d32.md, raw/badlands-news-brief-da5.md, raw/badlands-news-brief-da3.md, raw/behold-a-trojan-horse.md]
 confidence: low
 ---
 
@@ -240,3 +240,9 @@ A May 2023 Badlands Media article, "Behold, a Trojan Horse," cited Fauci's state
 27. Badlands Brief — "It Was Always About the Children", URL: https://badlands.substack.com/p/badlands-news-brief-d32
 30. Badlands Brief — "Biden, Inc. Flips", URL: https://badlands.substack.com/p/biden-inc-flips
 31. Badlands Brief — "Behold, a Trojan Horse", URL: https://badlands.substack.com/p/behold-a-trojan-horse
+
+## The "40,000 foot view" reading
+
+Chapter 4 of the [[q-for-dummies|Q for Dummies]] series uses Fauci as its worked example of what it calls the "big picture" or "40,000 foot view."[32] The author asks whether [[donald-trump|Trump]] placed Fauci front and center because he liked him and was working with him — the knee-jerk reaction at the time — or in order to put him in the spotlight so the public would begin digging into him and exposing his conduct.[32] He states that he himself had no idea of Fauci's alleged deeds until Trump gave him that prominence, and offers this as an illustration of how the higher-perspective reading of events is meant to work.[32]
+
+32. Badlands Media — "Q for Dummies - Chapter 4", URL: https://badlands.substack.com/p/q-for-dummies-chapter-4

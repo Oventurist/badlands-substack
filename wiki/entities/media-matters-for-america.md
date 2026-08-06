@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, advocacy, x-corp, advertising, litigation]
-sources: [raw/badlands-news-brief-65a.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-b92.md, raw/from-ye-to-oy-vey.md]
+sources: [raw/badlands-news-brief-65a.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-b92.md, raw/from-ye-to-oy-vey.md, raw/q-for-dummies-chapter-7.md]
 confidence: medium
 ---
 
@@ -48,3 +48,10 @@ The piece further connected the organization to the [[pizzagate|Pizzagate]] mili
 3. Badlands Brief — "Badlands News Brief: The Free Speech Battlefield Heats Up", URL: https://badlands.substack.com/p/badlands-news-brief-b52
 4. Badlands Brief — "Trump and Elon Set Precedents ... Deep State Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-b92
 5. Badlands Brief — "From Ye to Oy Vey!", URL: https://badlands.substack.com/p/from-ye-to-oy-vey
+
+## In the Q drops (drop #56)
+
+Chapter 7 of [[q-for-dummies|Q for Dummies]] notes that Q drop #56 of November 2, 2017, which shared a report on [[huma-abedin|Huma Abedin]]'s ties to the [[muslim-brotherhood|Muslim Brotherhood]], included an excerpt highlighting Media Matters and describing how the [[democratic-national-committee|DNC]] and the Clintons used the organisation to obfuscate the story and "debunk" unfavourable articles on the subject.[6] The chapter's author dismisses any organisation that cites [[snopes|Snopes]] as a serious fact checker, and characterises Media Matters as "a gang of internet thugs" that doxes, threatens and harasses critics of the Democratic machine.[6] Writing as a self-described former target of the group, he predicts that [[elon-musk|Elon Musk]]'s litigation will reduce it to "a footnote in the historic overview of this war."[6]
+
+6. Badlands Brief — "Q for Dummies - Chapter 7", URL: https://badlands.substack.com/p/q-for-dummies-chapter-7
+

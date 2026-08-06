@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [doj, federal-government, law-enforcement, prosecution]
-sources: [raw/badlands-news-brief-f26.md, raw/badlands-news-brief-f61.md]
+sources: [raw/badlands-news-brief-f26.md, raw/badlands-news-brief-f61.md, raw/panic-in-dc.md]
 confidence: medium
 ---
 
@@ -32,3 +32,9 @@ Attorney General [[merrick-garland|Merrick Garland]] appointed [[david-weiss|Dav
 A department lawyer, Ashley Cheung Honold, represented the [[food-and-drug-administration|FDA]] at oral argument before the [[us-court-of-appeals-for-the-fifth-circuit|5th Circuit]] on August 8, 2023, conceding that the agency "explicitly recognizes that doctors do have the authority to prescribe [[ivermectin|ivermectin]] to treat COVID" while defending the agency's messaging campaign against the drug.[2]
 
 2. Badlands Brief — "Badlands News Brief: Special Counsels, Island Fires & White Pills", URL: https://badlands.substack.com/p/badlands-news-brief-f61
+
+## Declined prosecutions under Project Cassandra
+
+"Panic in DC" cites Politico's reporting that the Justice Department declined requests from [[project-cassandra|Project Cassandra]] and other authorities to file criminal charges against major figures in [[hezbollah|Hezbollah]]'s trafficking and laundering apparatus.[3] Those targets reportedly included Hezbollah's high-profile envoy to [[iran|Iran]], a Lebanese bank alleged to have laundered billions in drug proceeds, and a central player in a U.S.-based cell of the Iranian paramilitary [[quds-force|Quds Force]].[3] The article presents these declinations, alongside the [[state-department|State Department]]'s refusal to help lure high-value targets into arrest-friendly jurisdictions, as part of a broader pattern of [[barack-obama|Obama]] administration roadblocks that grew more insurmountable as the DEA investigation reached higher into the conspiracy's hierarchy.[3]
+
+3. Badlands Brief — "Panic in DC", URL: https://badlands.substack.com/p/panic-in-dc

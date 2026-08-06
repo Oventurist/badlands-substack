@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, host, bitcoin, central-banking]
-sources: [raw/badlands-media-show-schedule-c28.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-d1d.md, raw/kekistani-code-talkers.md]
+sources: [raw/badlands-media-show-schedule-c28.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-d1d.md, raw/kekistani-code-talkers.md, raw/one-of-the-most-transformative-moments.md]
 confidence: medium
 ---
 
@@ -43,6 +43,10 @@ Responding to New Jersey Governor-elect [[mikie-sherrill|Mikie Sherrill]]'s sugg
 
 Responding to reporting that [[edward-coristine|Edward "Big Balls" Coristine]] was no longer working for the federal government, GMONEY wrote that "Big Balls resigned from the federal govt yesterday, per a White House official," adding, "Gonna miss that guy."[8]
 
+## Views on Bitcoin and personal responsibility (2023)
+
+In a May 2023 Badlands Media feature on digital assets, GMoney framed the shift to digital money as a peaceful revolution: "We're not going kinetic. This is a peaceful revolution for everybody. Everybody gets 'Digital 1776,' everybody is going to be on the same playing field," he said during an episode of [[rugpull-radio|Rugpull Radio]].[10] His central theme was individual responsibility in the face of monetary upheaval: "Everybody gets Bitcoin at the price they deserve, so ignore it at your own peril. Adapt or perish, there's no other way to put it."[10] He closed the piece with the line, "Nobody is going to hand you your freedom. You have to take it."[10] Alongside [[ryan-matta|Ryan Matta]], GMoney was firm in distinguishing [[bitcoin|Bitcoin]] from the wider token market, summarizing the position as "Bitcoin, not crypto."[10]
+
 ## Covfefe research
 
 GMONEY is credited as co-author, with Patriots in Progress, of a body of published background research underpinning the [[covfefe|Covfefe]] thesis, including the COVFEFE Dig and the COVFEFE 2.0 Dig.[9] In the Covfefe dig, GMONEY uses the [[a1z26-cipher|A1Z26 cipher]] as the decode methodology to unlock what the authors call the deep meaning of Covfefe, producing the number sequence 3, 15, 22, 6, 5, 6, 5, which is then linked to 3/15 (the Ides of March), 11/11 as the 315th day of the year, the fall of Rome, and the present situation.[9] The pair present their case across those digs, roughly seventy-five episodes of [[rugpull-radio|Rugpull Radio]], and other posts across their channels.[9]
@@ -58,3 +62,4 @@ GMONEY is credited as co-author, with Patriots in Progress, of a body of publish
 7. Badlands News Brief — "Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f
 8. Badlands News Brief — "N-Words, F-Bombs, & Big Balls' Future", URL: https://badlands.substack.com/p/badlands-news-brief-d1d
 9. Badlands Brief — "Kekistani Code Talkers", URL: https://badlands.substack.com/p/kekistani-code-talkers
+10. Badlands Brief — "One of the Most Transformative Moments in Money Since Jekyll Island", URL: https://badlands.substack.com/p/one-of-the-most-transformative-moments

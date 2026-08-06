@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [monetary-system, oil, dollar, brics, saudi-arabia]
-sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-f4c.md, raw/bric-by-bric.md]
+sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-f4c.md, raw/bric-by-bric.md, raw/money-and-oil.md]
 confidence: medium
 ---
 
@@ -74,3 +74,11 @@ In August 2023, [[burning-bright|Burning Bright]] described the petrodollar as "
 He held that American patriots could root "against" the dollar without rooting against the nation, since the currency had been used both to erode the sovereignty of emerging nations abroad and the purchasing power of citizens at home.[9] He expected the transition to a gold- or commodities-backed system to be rough but "mercifully brief" — long enough for Americans to confront what had been taken from them, short enough to avert wholesale financial devastation and to furnish a public mandate for the successor system.[9]
 
 9. Badlands Brief — "BRIC by BRIC", URL: https://badlands.substack.com/p/bric-by-bric
+
+## "Money and Oil" account of the fiat-energy loop (November 2022)
+
+Joe Lange's November 2022 essay "Money and Oil" attributes the creation of the petrodollar to the same central banks that he says control the world's money supply, arguing that they removed gold — "the only real money in the world for thousands of years" — as backing for the currency and replaced it with an oil-denominated arrangement.[10] With the U.S. dollar serving as the world's reserve currency, they could then demand that all payments for [[oil|oil]] be made in dollars, creating what he calls a fiat and energy feedback loop.[10] The reason such actors can dictate to and wield entire governments, on this reading, is that they control those economies from the ground up, "from the fiat to the energy."[10]
+
+Lange describes the arrangement as having been turned against its architects by late 2022: because oil must be purchased in dollars, [[federal-reserve|Federal Reserve]] rate rises that strengthened the dollar left foreign central banks unable to obtain enough dollars at tolerable exchange rates, bankrupting commercial banks and pushing the [[global-debt-system|global debt system]] toward collapse.[10] He identifies the petrodollar as the [[cabal|cabal]]'s Achilles heel, and argues that with [[saudi-arabia|Saudi Arabia]] aligning with [[russia|Russia]] and [[china|China]] and considering [[brics|BRICS]] membership, "the cabal has no control over the oil price anymore" — so that the very dollar it forced everyone to use has been weaponized against it.[10]
+
+10. Badlands Brief — "Money and Oil", URL: https://badlands.substack.com/p/money-and-oil

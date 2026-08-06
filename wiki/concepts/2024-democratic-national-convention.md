@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [elections, democrats, chicago, 2024]
-sources: [raw/badlands-news-brief-040.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-be1.md, raw/badlands-news-brief-ccd.md, raw/badlands-news-brief-d43.md, raw/badlands-news-brief-d50.md]
+sources: [raw/badlands-news-brief-040.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-be1.md, raw/badlands-news-brief-ccd.md, raw/badlands-news-brief-d43.md, raw/badlands-news-brief-d50.md, raw/q-for-dummies-chapter-18.md, raw/q-for-dummies-chapter-17.md]
 confidence: medium
 ---
 
@@ -70,6 +70,11 @@ Badlands contributor [[burning-bright|Burning Bright]] read the Obamas' appearan
 
 [[kamala-harris|Kamala Harris]] closed the convention on the night of Thursday, August 22, 2024 with an acceptance speech framing the election as a "fight for America's future" and depicting a second [[donald-trump|Donald Trump]] presidency as chaotic and dangerous.[7] She promised to be "a president who leads and listens, who is realistic, practical, and has common sense," pledged to push through the derailed bipartisan immigration bill, and affirmed goals such as ending the housing shortage and supporting [[nato|NATO]], while leaving most implementation questions to after Election Day.[7] [[the-atlantic|The Atlantic]] reported that across four days among Democrats in Chicago its correspondent never heard the words "white paper" or "study," and that speakers dwelt more on the [[heritage-foundation|Heritage Foundation]]'s [[project-2025|Project 2025]] than on Harris's own program.[7] Badlands commentary from [[ashe-in-america|Ashe in America]] dismissed the proceedings as an astroturfed joy campaign and the speech as a word salad.[7]
 
+
+## Badlands commentary in Q for Dummies
+
+Chapter 18 of the [[q-for-dummies|Q for Dummies]] series declines to dwell on the convention beyond calling it a shambles and contrasting it unfavourably with the [[2024-republican-national-convention|Republican National Convention]].[8] The author does highlight one event from Chicago the day after the convention wrapped: an impromptu religious revival attended by thousands, which he compares to the response in Paris after the [[2024-paris-summer-olympics|Olympic opening ceremony]] mocked the Last Supper and Christianity, presenting both as evidence that God answers hostile spectacle with His own message.[8] The chapter frames the November election as a choice between electing [[donald-trump|Trump]] and watching the United States fall to Marxist communism, and argues that the endorsements of [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] and [[tulsi-gabbard|Tulsi Gabbard]] within a day of the convention's close neutralised whatever momentum it had produced.[8]
+
 ## References
 1. Badlands Brief — "The Regime is Totally Winning Amidst Continued Meltdown", URL: https://badlands.substack.com/p/badlands-news-brief-040
 2. Badlands Brief — "The Turn on Biden Begins", URL: https://badlands.substack.com/p/badlands-news-brief-11c
@@ -78,3 +83,13 @@ Badlands contributor [[burning-bright|Burning Bright]] read the Obamas' appearan
 5. Badlands News Brief — "The DNC Comes to Town ... And Gets Weird", URL: https://badlands.substack.com/p/badlands-news-brief-ccd
 6. Badlands News Brief — "Trump's Rubber and They're Glue ... Plus Angry Russians", URL: https://badlands.substack.com/p/badlands-news-brief-d43
 7. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50
+8. Badlands Brief — "Q for Dummies - Chapter 18", URL: https://badlands.substack.com/p/q-for-dummies-chapter-18
+9. Badlands Brief — "Q for Dummies - Chapter 17", URL: https://badlands.substack.com/p/q-for-dummies-chapter-17
+
+## Pre-convention warnings in Q for Dummies Chapter 17
+
+Writing on August 17, 2024, days before the convention opened, the author of [[q-for-dummies|Q for Dummies]] Chapter 17 said it looked as though there might be "shenanigans" planned and described having voiced concern on air about a scenario in which an incident at the convention would remove [[joe-biden|Joe Biden]] while being blamed on a "crazy MAGA terrorist," clearing the way for [[kamala-harris|Kamala Harris]] to issue gun-control executive orders.[9]
+
+He drew a sustained parallel to 1968: a candidate withdrawing from the race — Lyndon Johnson then, Biden now — a convention held in Chicago, and a political climate tense enough that little would be required to spark civil unrest.[9] The chapter connects those conditions to the [[false-flag-operation|false flag]] warnings in Q drop #112 and urges readers to keep "eyes open and heads on a swivel."[9]
+
+The same passage reports that [[donald-trump|President Trump]] and General [[michael-flynn|Michael Flynn]] appeared to be signaling that Biden was looking to re-enter the race, and that [[nancy-pelosi|Nancy Pelosi]] seemed to align with the notion, having said the letter announcing Biden's withdrawal "didn't sound like him."[9] The author also singles out [[jd-vance|J.D. Vance]] walking up in front of Harris's plane and taking over her press corps as the moment that cemented Vance for him as a legitimate vice-presidential pick.[9]

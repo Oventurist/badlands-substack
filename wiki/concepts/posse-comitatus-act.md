@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [law, military, domestic-deployment, national-guard, supreme-court]
-sources: [raw/badlands-news-brief-2e4.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-94b.md]
+sources: [raw/badlands-news-brief-2e4.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-94b.md, raw/q-for-dummies-chapter-1.md]
 confidence: medium
 ---
 
@@ -31,7 +31,12 @@ On Monday, October 6, 2025, Illinois and the city of Chicago sued to block Presi
 On September 2, 2025, Federal Judge [[charles-breyer|Charles Breyer]] enjoined the [[trump-administration|Trump administration]] from using the remaining federalized California Guard members — or any military force — for domestic law enforcement inside California, citing violations of the Posse Comitatus Act.[3] Badlands described the ruling as a partial victory for Governor [[gavin-newsom|Gavin Newsom]] that blocked active enforcement in the state without fully reversing federalization.[3] The combined effect of that injunction and a separate Oregon court order barring federalization of the Oregon Guard led President [[donald-trump|Donald Trump]] to send 300 California Guard personnel to Portland instead, in the [[2025-portland-national-guard-deployment|2025 Portland National Guard deployment]].[3]
 
 
+## In the Q drops
+
+[[paul-fleuret|Paul Fleuret]] identifies the Posse Comitatus Act as the Supreme Court decision referred to in Drop #4 of the [[q-operation|Q]] drops, dated October 29, 2017.[4] Writing in Chapter 1 of [[q-for-dummies|Q for Dummies]], he summarizes the act as limiting the use of the American military on American soil, while noting that laws and provisions exist that would permit such a deployment.[4] He places the reference alongside the drop's mentions of military generals and [[military-intelligence|military intelligence]], which he treats as the capability able to counter the three-letter agencies.[4]
+
 ## References
 1. Badlands News Brief — "Escalating Elections, Fragmented Forums, & Merry Murder Metrics", URL: https://badlands.substack.com/p/badlands-news-brief-2e4
 2. Badlands Brief — "Dumb Questions, Pentagon Pizzas, & Zero Trust", URL: https://badlands.substack.com/p/badlands-news-brief-669
 3. Badlands Brief — "Posse Comitatus & Haggling with Hamas", URL: https://badlands.substack.com/p/badlands-news-brief-94b
+4. Badlands Brief — "Q for Dummies - Chapter 1", URL: https://badlands.substack.com/p/q-for-dummies-chapter-1

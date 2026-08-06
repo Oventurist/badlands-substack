@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [occult, ancient-history, mystery-schools, religion]
-sources: [raw/false-flags-and-the-occult.md, raw/in-defense-of-benjamin-franklin-part.md]
+sources: [raw/false-flags-and-the-occult.md, raw/in-defense-of-benjamin-franklin-part.md, raw/legacy-of-the-bavarian-illuminati-8f0.md]
 confidence: low
 ---
 
@@ -23,9 +23,14 @@ The article asserts that these same mystery schools are alive and well today in 
 ## References
 1. Badlands Brief — "False Flags and the Occult", URL: https://badlands.substack.com/p/false-flags-and-the-occult
 2. Badlands Brief — "In Defense of Benjamin Franklin", URL: https://badlands.substack.com/p/in-defense-of-benjamin-franklin-part
+3. Badlands Brief — "Legacy of the Bavarian Illuminati - Part 2", URL: https://badlands.substack.com/p/legacy-of-the-bavarian-illuminati-8f0
 
 ## Eighteenth-century revival in England
 
 A separate Badlands essay, "In Defense of Benjamin Franklin," states that in the eighteenth century the ceremonies of the Eleusinian Mysteries were performed by leading figures of London's satanic [[hellfire-club|Hellfire Club]] in underground caverns beneath [[medmenham-abbey|Medmenham Abbey]], leased by [[francis-dashwood|Sir Francis Dashwood]].[2] The essay holds that, like all Mithraic cults, the site was chosen for caverns that had served as Mithraic altars in Roman times.[2]
 
 Club member [[john-wilkes|John Wilkes]] referred directly to "the English Eleusinian Mysteries of the Chapter Room where the Monks assembled on solemn occasions," describing secret rites and libations to the Bona Dea — a name the essay glosses as the earth mother Magna Mater, known variously as Demeter, Aphrodite, Venus and Cybele.[2]
+
+## Influence on the Bavarian Illuminati
+
+"Legacy of the Bavarian Illuminati – Part 2" attributes the symbolism of the [[bavarian-illuminati|Order of the Illuminati]] — the point within a circle, and the candidate names "Perfectibilists" and "Bees" — to [[adam-weishaupt|Adam Weishaupt]]'s fascination with the Eleusinian and Pythagorean Mysteries, which he is said to have encountered early through the library of his godfather [[johann-adam-ickstatt|Baron Johann Adam Ickstatt]].[3] The same article reports the Masonic researcher [[william-stuart|William Stuart]]'s definition of "[[red-masonry|Red Masonry]]" as the fusion of the old Pagan Celtic religion with the Eleusinian Mystery School of ancient Greece, the tradition under which hundreds of clandestine orders, the Illuminati among them, were said to have been founded.[3]

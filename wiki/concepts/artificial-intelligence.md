@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [artificial-intelligence, technology, singularity, censorship, globalism]
-sources: [raw/artificial-intelligence.md, raw/badlands-brief-f62.md, raw/dark-equation.md, raw/dont-bring-shiny-rocks-to-digital.md]
+sources: [raw/artificial-intelligence.md, raw/badlands-brief-f62.md, raw/dark-equation.md, raw/dont-bring-shiny-rocks-to-digital.md, raw/oppenheimer-and-the-central-narrative.md]
 confidence: medium
 ---
 
@@ -62,6 +62,12 @@ Writing in May 2023, [[ryan-delarme|Ryan DeLarme]] surveyed the conflicting publ
 
 The article situated these developments alongside [[elon-musk|Elon Musk]]'s warnings about [[artificial-super-intelligence|Artificial Super Intelligence]], the AI-focused [[2023-bilderberg-meeting|2023 Bilderberg meeting]], [[eric-schmidt|Eric Schmidt]]'s leadership of the [[national-security-commission-on-artificial-intelligence|National Security Commission on Artificial Intelligence]], and Altman's [[worldcoin|Worldcoin]] biometric identity venture, presenting AI governance as inseparable from an agenda of biometric digital identity and digital currency.[3]
 
+## Nuclear weapons as the governing AI metaphor
+
+In a July 2023 review of Christopher Nolan's *Oppenheimer*, Badlands contributor [[ashe-in-america|Ashe in America]] argued that the primary metaphor used to drive AI hysteria and push for [[global-governance|global governance]] is the [[nuclear-arms-race|nuclear arms race]].[5] The talking points she identified — "AI is an arms race" and "nukes can't create more nukes, but AIs can create more AIs" — mirror the film's themes: listen to the [[communism|communists]], treat the technology as a world-destroying capability, and globalize decision rights because national interests are barriers to safety.[5]
+
+She recalled her earlier piece *Artificial Intelligence: Hysteria vs. Reason*, noting the open letter of March 22, 2023 in which AI researchers including Tristan Harris, Ava Raskin, [[yuval-noah-harari|Noah Yuval Harari]] and [[elon-musk|Elon Musk]] called on all AI labs to pause for at least six months the training of systems more powerful than GPT-4, and Gawdat's "three inevitables": AI is happening, AI is becoming far smarter than humans, and really bad things will happen.[5] The pause-and-debate demand, she argued, is precisely the counterfactual the film applies to the atomic bomb, transposed onto AI.[5] Preparing an episode of [[raising-a-nation|Raising a Nation]], she cited *The Saturday Evening Post*'s normie-targeted explainer on the coming AI apocalypse as an example of how pervasive the framing had become.[5] The distilled message, in her reading, is: fear us and submit, for we have the power to destroy you.[5]
+
 ## References
 1. Badlands Brief — "Artificial Intelligence", URL: https://badlands.substack.com/p/artificial-intelligence
 2. Badlands Brief — "Sovereign Signals, Israeli Subversion, and the SAVE America Ultimatum", URL: https://badlands.substack.com/p/badlands-brief-f62
@@ -75,3 +81,4 @@ An April 2023 essay by [[patriots-in-progress|Patriots in Progress]], written fr
 The essay drew on Jeff Booth's book *The Price of Tomorrow* for the claim that Moore's law-style doubling produces exponential rates of change with small early effects and large late ones, quoting Booth's observation that "the explosion in knowledge and positive feedback loop from learning is accelerating to the point that we are finding it hard to keep up with the changes."[4] It cited the launch of [[openai|OpenAI]]'s [[chatgpt|ChatGPT]], and an episode in which Major Jason Lowery, [[preston-pysh|Preston Pysh]] and an AI voice tool jointly produced a summary of [[softwar|Softwar]] delivered in the voice and style of comedian Kevin Hart although no human wrote or spoke the words.[4]
 
 The author argued the danger is not that digital forensics will be unavailable but that, absent an explicit and easy-to-execute verification process, the public will capitulate to "the sea of infinite opportunity of convenience and fantasy" — noting that basic human-generated scams such as the long-running "Nigerian prince" email fraud still cost Americans hundreds of thousands of dollars a year.[4] He connected the hazard to [[fifth-generation-warfare|fifth-generation warfare]] and AI-enabled psychological operations, and pointed to BlackRock's Aladdin system as evidence of how long AI tools have been operating and how much control they have already accumulated.[4] His proposed mitigation was to impose "severe physical costs" on AI-generated data via [[bitcoin|Bitcoin]] micro-transactions.[4]
+5. Badlands Brief — "'Oppenheimer' & The Central Narrative", URL: https://badlands.substack.com/p/oppenheimer-and-the-central-narrative

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [cia, qanon, surveillance, narrative-war, armenia, north-korea]
-sources: [raw/everything-is-connected.md]
+sources: [raw/everything-is-connected.md, raw/q-for-dummies-chapter-11.md]
 confidence: low
 ---
 
@@ -33,3 +33,10 @@ The four Armenian supercomputers were all taken offline on the same day, August 
 ## References
 
 1. Badlands Brief — "Everything Is Connected", URL: https://badlands.substack.com/p/everything-is-connected
+2. Badlands Media — "Q for Dummies - Chapter 11", URL: https://badlands.substack.com/p/q-for-dummies-chapter-11
+
+## Appearances in Q drops #81–90
+
+Chapter 11 of the [[q-for-dummies|Q for Dummies]] series notes that "Snow White" recurs throughout the November 5, 2017 drops, closing drop #81 alongside the unexplained signature "[[wizards-and-warlocks|Wizards & Warlocks]]."[2] The chapter's author states that, at that point in the drops, he believes Snow White refers to CIA programs and operations.[2]
+
+Snow White appears again in drop #84, in the context of Q's statement that events in [[saudi-arabia|Saudi Arabia]] were already under control and that what the public was seeing amounted to a staged rollout; the author speculates that the tables may have been turned and the CIA's supercomputers used against their operators.[2] It recurs once more in drop #87, which the author reads together with Q's assertion that his closing signatures were nods toward incoming events — a claim tied to the [[future-proves-past|future proves past]] refrain.[2]

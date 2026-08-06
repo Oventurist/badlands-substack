@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [influencer, con-inc, tyler-robinson-case, media]
-sources: [raw/badlands-brief-805.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-644.md, raw/dear-america-are-you-ready-to-do.md]
+sources: [raw/badlands-brief-805.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-644.md, raw/dear-america-are-you-ready-to-do.md, raw/project-trump-card.md]
 confidence: medium
 ---
 
@@ -33,3 +33,9 @@ In October 2022 Posobiec, described as an investigative journalist and media per
 2. Badlands Brief — "Badlands News Brief: The DOJ's Hypocrisy, Zelensky's Failure and DeSantis' Decline", URL: https://badlands.substack.com/p/badlands-news-brief-3f0
 3. Badlands Brief — "J6 Exposure, Biden's Brain and Trump's Agenda", URL: https://badlands.substack.com/p/badlands-news-brief-644
 4. Badlands Brief — "Dear America: Are You Ready To Do Your Global Duty And Send Your Child To Die For Ukraine?", URL: https://badlands.substack.com/p/dear-america-are-you-ready-to-do
+
+## Digital Bill of Rights video (December 2022)
+
+On December 15, 2022, Posobiec published what he described as an exclusive video in which [[donald-trump|Donald Trump]] unveiled the major planks of his official free speech policy proposal, later referred to as the [[digital-bill-of-rights|Digital Bill of Rights]], noting it was the first video drop in a planned series from Trump's 2024 presidential campaign.[5] The post drew roughly 8,150 reposts and 19,700 likes, far exceeding engagement on the same day's mocking commentary about the [[trump-digital-trading-cards|Trump Digital Trading Cards]] NFT launch.[5]
+
+5. Badlands Brief — "Project Trump Card", URL: https://badlands.substack.com/p/project-trump-card

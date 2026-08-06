@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ideology, politics, collectivism, information-war]
-sources: [raw/badlands-brief-2b2.md, raw/glimpses-into-hell.md]
+sources: [raw/badlands-brief-2b2.md, raw/glimpses-into-hell.md, raw/oppenheimer-and-the-central-narrative.md]
 confidence: medium
 ---
 
@@ -32,6 +32,13 @@ In "Glimpses into Hell — Part 1," [[ryan-delarme|Ryan DeLarme]] argues that co
 
 DeLarme uses Cuba as his principal case study, describing a monolithic state in which almost all enterprise is nationalized, dissenters risk becoming [[desaparecidos|desaparecidos]], and the party deployed [[rapid-reaction-brigades|Rapid Reaction Brigades]] and an internet blackout to crush the [[2021-cuban-protests|2021 protests]].[2] He quotes the Cuban writer [[reinaldo-arenas|Reinaldo Arenas]] to the effect that both communism and capitalism kick you, but only under capitalism may you scream.[2] Americans should care, he writes, about the ten million people living under communism just 90 miles from US territory.[2]
 
+## Communism in Nolan's *Oppenheimer*
+
+Badlands Media's review of Christopher Nolan's 2023 biopic *Oppenheimer* argued that the film presents communism throughout its three hours as a misunderstood ideology.[3] Most of the scientists and intellectuals are portrayed as either practicing communists or non-committal sympathizers, and the smartest people in Nolan's version of the [[nuclear-arms-race|nuclear arms race]] are the communists, whose socially conscious and pragmatic positions are contrasted against the military war machine and the ambitions of corrupted politicians.[3]
+
+[[j-robert-oppenheimer|J. Robert Oppenheimer]]'s documented communist associations are treated as those of a sympathizer using the central-planning ideology in part to advance his romantic life, and his lover [[jean-tatlock|Jean Tatlock]] was an active member of the Bay Area Communist Party.[3] The review contends the theme sets up an alternate history in which Hiroshima and Nagasaki might have been spared and the Cold War prevented had American authorities listened to the communists, shared information with the Soviets, and paused development to debate the bomb's ethics.[3] Badlands connects this to what it calls the global corporate communist agenda now visible in [[esg|ESG]] initiatives and calls for [[global-governance|global governance]].[3]
+
 ## References
 1. Badlands Brief — "God Bless The USA", URL: https://badlands.substack.com/p/badlands-brief-2b2
 2. Badlands Brief — "Glimpses into Hell - Part 1", URL: https://badlands.substack.com/p/glimpses-into-hell
+3. Badlands Brief — "'Oppenheimer' & The Central Narrative", URL: https://badlands.substack.com/p/oppenheimer-and-the-central-narrative

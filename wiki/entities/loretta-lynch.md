@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [department-of-justice, attorney-general, clinton-email-investigation, obama-administration]
-sources: [raw/badlands-news-brief-168.md, raw/badlands-news-brief-ffa.md]
+sources: [raw/badlands-news-brief-168.md, raw/badlands-news-brief-ffa.md, raw/q-for-dummies-chapter-5.md]
 confidence: low
 ---
 
@@ -28,3 +28,8 @@ In "Do You Believe in Coincidences?", Badlands Media identifies Lynch as the "bi
 
 1. Badlands Brief — "Badlands News Brief: Thumb Drive Theories & Early Dismissals", URL: https://badlands.substack.com/p/badlands-news-brief-168
 2. Badlands Brief — "Badlands News Brief: Prolonged Conflicts, Deep State Panic, & Shrinking Unions", URL: https://badlands.substack.com/p/badlands-news-brief-ffa
+3. Badlands Brief — "Q for Dummies - Chapter 5", URL: https://badlands.substack.com/p/q-for-dummies-chapter-5
+
+## Treatment in the Q drops
+
+Lynch appears in Q drop #36 of November 2, 2017, which pairs her with former president [[bill-clinton|Bill Clinton]] and their private meeting.[3] Chapter 5 of [[q-for-dummies|Q for Dummies]] relays the claim that Lynch was offered a Supreme Court seat in exchange for adhering to what the author calls the Russiagate lie and playing her assigned part.[3] The same drop is read as indicating that the [[national-security-agency|NSA]], then led by Admiral [[mike-rogers|Mike Rogers]], possessed complete intelligence on the [[clinton-lynch-tarmac-meeting|tarmac meeting]] and related conduct.[3]

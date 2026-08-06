@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ukraine, 2014, coup, russia, donbass]
-sources: [raw/badlands-news-brief-561.md, raw/how-to-rent-a-riot-the-history-of.md]
+sources: [raw/badlands-news-brief-561.md, raw/how-to-rent-a-riot-the-history-of.md, raw/rainbow-color-revolution.md]
 confidence: medium
 ---
 
@@ -31,3 +31,11 @@ Contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] endorsed Putin
 ## Sequel to the Orange Revolution
 
 Badlands Media's "How to Rent a Riot" series treats the 2013 Maidan uprising as the sequel to the [[orange-revolution|Orange Revolution]] of 2004–05, describing both as U.S.-sponsored regime-change efforts that used the power of [[nonviolent-action|nonviolent action]] to undermine the democratic process, and as precursors to the ongoing Russian invasion of Ukraine.[2] Contributor [[ryan-delarme|Ryan DeLarme]] argues the Orange Revolution's success was pyrrhic — [[viktor-yushchenko|Viktor Yushchenko]]'s government fractured through infighting, paving the way for [[viktor-yanukovych|Viktor Yanukovych]]'s 2010 return and the 2014 Maidan events, which he calls "yet another U.S. orchestrated coup using the exact same tactics and funding mechanisms."[2] The article situates both episodes within the Western foreign policy establishment's undeclared second Cold War against Russia and cites [[gene-sharp|Gene Sharp]]'s 1985 advocacy of civilian-based methods for [[nato|NATO]] as their doctrinal origin.[2]
+
+## Carlson's account (2023)
+
+[[erik-carlson|Erik Carlson]] wrote that in 2014 the [[central-intelligence-agency|CIA]] fomented a [[color-revolution|color revolution]] in Ukraine to remove a pro-Russia, pro-Putin president and install a pro-America, pro-CIA leader, using the standard means of propaganda, election rigging and street violence.[3] He alleged that thugs were paid to protest violently while CIA snipers shot people from tall buildings, and that the [[azov-battalion|Azov Nazis]] were created at this time through CIA training and money, used to generate chaos and instability and later to impose control in Ukraine.[3]
+
+Once Ukraine became what he called a CIA puppet, Carlson argued, US-run bioweapon labs appeared along with trafficking in women, children, drugs and body parts, and US politicians including [[barack-obama|Obama]] and the Biden family became deeply involved in what he described as a crime syndicate.[3] He held this to be a major reason for the ongoing Russia–Ukraine war and for continued US funding of Ukraine, and urged readers to research the episode themselves.[3]
+
+3. Badlands Brief — "Rainbow Color Revolution", URL: https://badlands.substack.com/p/rainbow-color-revolution

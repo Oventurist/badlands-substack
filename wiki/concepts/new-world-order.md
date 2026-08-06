@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [globalism, world-government, cabal, new-world-order]
-sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-blitz-episode-9.md, raw/badlands-brief-95a.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-d68.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-blitz-episode-9.md, raw/badlands-brief-95a.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-d68.md, raw/oppenheimer-and-the-central-narrative.md]
 confidence: low
 ---
 
@@ -49,6 +49,10 @@ Badlands commentary in May 2024 treated the standoff between the Hague courts, I
 
 The same framing was applied to the passage of foreign-agent transparency laws in Slovakia and [[georgia-country|Georgia]], which the brief read as smaller nations defying the global hegemony, and to the alleged EU threat against Georgian prime minister [[irakli-kobakhidze|Irakli Kobakhidze]].[5]
 
+## Nuclear fear and the road to global decision rights
+
+In her July 2023 review of Christopher Nolan's *Oppenheimer*, Badlands contributor [[ashe-in-america|Ashe in America]] described a conflict between national and global decision rights that "must be dealt with through the [[great-reset|Great Reset]] to the New World Order."[6] The film's three themes — sympathetic [[communism|communists]], nuclear weapons as the destroyer of worlds, and [[global-governance|global governance]] as the only solution — are read as narrative preparation for the sacrifice of national sovereignty, with the [[nuclear-arms-race|nuclear arms race]] serving as the metaphor now attached to [[artificial-intelligence|artificial intelligence]].[6]
+
 ## References
 
 1. Badlands Brief — "AI Can Help Us Expose the NWO", URL: https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo
@@ -56,3 +60,4 @@ The same framing was applied to the passage of foreign-agent transparency laws i
 3. Badlands Brief — "Sorry for using state power to unlawfully punish your wrong think. Friends?", URL: https://badlands.substack.com/p/badlands-brief-95a
 4. Badlands Brief — "Badlands News Brief: Dali, Diddy & DJT", URL: https://badlands.substack.com/p/badlands-news-brief-491
 5. Badlands Brief — "Globalists Are Having a Bad Time ...", URL: https://badlands.substack.com/p/badlands-news-brief-d68
+6. Badlands Brief — "'Oppenheimer' & The Central Narrative", URL: https://badlands.substack.com/p/oppenheimer-and-the-central-narrative

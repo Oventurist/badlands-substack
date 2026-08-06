@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [monetary-policy, deflation, hard-money]
-sources: [raw/1913.md, raw/a-seismic-shift.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/cracks-in-the-curtain.md]
+sources: [raw/1913.md, raw/a-seismic-shift.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/cracks-in-the-curtain.md, raw/money-and-oil.md]
 confidence: medium
 ---
 
@@ -41,3 +41,11 @@ A further objection is historical manipulation: a de facto gold standard operate
 2. Badlands Brief — "A Seismic Shift", URL: https://badlands.substack.com/p/a-seismic-shift
 3. Badlands Brief — "Are CBDCs The Path To Fear, or Freedom?", URL: https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom
 4. Badlands Brief — "Cracks in the Curtain", URL: https://badlands.substack.com/p/cracks-in-the-curtain
+
+## Abandonment and the petrodollar (November 2022)
+
+Joe Lange's essay "Money and Oil" attributes the United States' departure from the gold standard to the same central banks he says control the world's money supply, describing gold as "the only real money in the world for thousands of years" whose removal as backing enabled the creation of the [[petrodollar|petrodollar]].[5] With the dollar as the world's reserve currency, those banks could then require all payments for [[oil|oil]] to be made in dollars, producing a fiat and energy feedback loop.[5]
+
+Lange presents a return to the gold standard as the intended endpoint of [[donald-trump|Trump]]'s strategy against the central banks, citing a Q post that he reads as revealing a plan to destroy the global debt system and restore gold backing.[5] He also notes that [[russia|Russia]] responded to Western sanctions by demanding payment for its oil and gas in rubles or gold, which strengthened the ruble.[5]
+
+5. Badlands Brief — "Money and Oil", URL: https://badlands.substack.com/p/money-and-oil

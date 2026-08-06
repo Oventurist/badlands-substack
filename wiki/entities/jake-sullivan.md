@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [foreign-policy, iran-deal, biden, clinton, deep-state]
-sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-acf.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b10.md, raw/badlands-news-brief-bed.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-d21.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-acf.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b10.md, raw/badlands-news-brief-bed.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-d21.md, raw/quid-pro-joe.md]
 confidence: medium
 ---
 
@@ -137,3 +137,8 @@ He said consensus could be achieved "if all of us approach it in good faith," an
 17. Badlands Brief — "Badlands News Brief: Weaponization, Willis, and World War III", URL: https://badlands.substack.com/p/badlands-news-brief-c1e
 18. Badlands Brief — "Badlands News Brief: The System of Systems is a House of Cards", URL: https://badlands.substack.com/p/badlands-news-brief-cce
 19. Badlands Brief — "Badlands News Brief: Chinese Interference and Narrative Seeding", URL: https://badlands.substack.com/p/badlands-news-brief-d21
+20. Badlands Brief — "Quid Pro Joe", URL: https://badlands.substack.com/p/quid-pro-joe
+
+## Truman National Security Project board
+
+Reporting in 2023 revealed that Sullivan had served on a national security advisory board — the [[truman-national-security-project|Truman National Security Project]] — alongside [[hunter-biden|Hunter Biden]].[20] Badlands writer [[jon-herold|Jon Herold]] noted that the same board also included [[sally-painter|Sally Painter]] of [[blue-star-strategies|Blue Star Strategies]], the firm retained by [[burisma|Burisma]] in 2015 while Hunter Biden sat on its board.[20] Sullivan did not join the Truman board until roughly 2017, after he had left the [[state-department|State Department]].[20]

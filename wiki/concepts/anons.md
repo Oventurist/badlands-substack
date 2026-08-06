@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [citizen-journalism, q-movement, open-source-intelligence, badlands-media]
-sources: [raw/biden-inc-flips.md, raw/expand-your-thinking.md]
+sources: [raw/biden-inc-flips.md, raw/expand-your-thinking.md, raw/q-for-dummies-chapter-1.md, raw/q-is-real-because-math-says-so.md]
 confidence: low
 ---
 
@@ -30,6 +30,18 @@ The essay "Expand Your Thinking" (May 25, 2023), by [[american-hypnotist|America
 
 To that end it pointed anons to the website [[decoding-symbolism|Decoding Symbolism]] as a training ground — recommended for its methodology rather than endorsed for its conclusions — and framed the exercise as one that develops right-hemisphere associative thinking while furthering the mission at the same time.[2] The author warned against the reflex to jump prematurely to belief or disbelief, which narrows thinking rather than expanding it, and against expecting even erudite researchers to be free of blind spots.[2] He closed by suggesting that any reader who trains in this mode of thought may be the next anon to piece together a communication that changes the game for everybody.[2]
 
+## Presence on 4chan before the drops
+
+[[paul-fleuret|Paul Fleuret]] writes that [[4chan|4chan]] was "chock-full" of Anons before [[q-operation|Q]] ever posted there, describing them as people with a particular talent for digging and finding any information one might want to find, and who hold a particular dislike for the cabal and Satanists.[3] He treats their presence, alongside the board's anonymity and lack of moderation, as a principal reason the Q team chose the platform in October 2017.[3]
+
 ## References
 1. Badlands Brief — "Biden, Inc. Flips", URL: https://badlands.substack.com/p/biden-inc-flips
 2. Badlands Brief — "Expand Your Thinking", URL: https://badlands.substack.com/p/expand-your-thinking
+3. Badlands Brief — "Q for Dummies - Chapter 1", URL: https://badlands.substack.com/p/q-for-dummies-chapter-1
+4. Badlands Brief — "Q is Real, Because Math Says So", URL: https://badlands.substack.com/p/q-is-real-because-math-says-so
+
+## The intended audience of the drops
+
+In "Q is Real, Because Math Says So" (June 27, 2024), [[american-hypnotist|American Hypnotist]] argues that the [[q-operation|drops]] were never meant for a general audience but were a gift to anons specifically, because anons possess the intellectual wherewithal to look beneath the surface of things and the ability to render complex coded intelligence into a form others can digest — Q himself having said the boards were chosen for a reason.[4] Because the drops are read simultaneously by anons and by the opposition, the author reasons, Q must speak in riddles, and it falls to anons to use [[q-proofs|Q proofs]] to separate the real message from the cover story.[4]
+
+The essay closes by casting anon work as consequential rather than hobbyist: if Q is real, then assembling the "comms" and broadcasting the findings online is a genuine service to America and one of the most important things a person could be doing with their time, a role the author describes as an invitation to participate in the [[5g-war|5G battle]].[4]

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, politics, military, gaza, diplomacy]
-sources: [raw/badlands-news-brief-12b.md, raw/badlands-news-brief-1f2.md]
+sources: [raw/badlands-news-brief-12b.md, raw/badlands-news-brief-1f2.md, raw/operation-cyclone-the-seeds-of-terror.md]
 confidence: medium
 ---
 
@@ -36,7 +36,12 @@ Badlands contributor GhostofBasedPatrickHenry noted the significance of such pub
 
 The same commentary grouped Barak with [[benny-gantz|Benny Gantz]] and [[yoav-gallant|Yoav Gallant]] as figures from different ideological camps converging in opposition to Netanyahu's government, and speculated openly about whether Barak had communicated with Trump.[2]
 
+## September 11, 2001 remarks
+
+Not hours after the [[september-11-attacks|September 11 attacks]], Barak — described by Badlands Media as another Israeli "terror expert" — gleefully advocated a "War on Terror" against "a kind of bin Laden Organization," well before [[osama-bin-laden|Osama bin Laden]] was officially named as the perpetrator.3 It was not until 9:30 PM that night that CIA Director [[george-tenet|George Tenet]] told President [[george-w-bush|George W. Bush]] and other senior officials that the agency's Counterterrorism Center had determined bin Laden and [[al-qaeda]] were responsible.3
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: The Establishment is Collapsing from Within", URL: https://badlands.substack.com/p/badlands-news-brief-12b
 2. Badlands Brief — "Badlands News Brief: Storm Shadows and the Contours of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-1f2
+3. Badlands Brief — "Operation Cyclone - The Seeds of Terror", URL: https://badlands.substack.com/p/operation-cyclone-the-seeds-of-terror

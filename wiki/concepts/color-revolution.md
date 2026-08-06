@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [regime-change, propaganda, communism, elections]
-sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-blitz-episode-4.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-579.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-fbc.md, raw/how-to-rent-a-riot-the-history-of.md, raw/how-to-rent-a-riot-the-plausible.md, raw/is-the-censorship-war-over.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-blitz-episode-4.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-579.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-fbc.md, raw/how-to-rent-a-riot-the-history-of.md, raw/how-to-rent-a-riot-the-plausible.md, raw/is-the-censorship-war-over.md, raw/purple-revolution.md, raw/rainbow-color-revolution.md]
 confidence: low
 ---
 
@@ -82,3 +82,23 @@ Badlands Media applied the color revolution framework domestically in its April 
 The article characterized the objective as the construction of a "rent-a-riot mob" for future use, following the [[gene-sharp|Gene Sharp]] playbook and citing the Arab Spring as the template, financed through the same tax-exempt cut-outs that support the [[censorship-industrial-complex|censorship apparatus]].[11] It nonetheless insisted that ordinary student protesters retain [[first-amendment|First Amendment]] protection.[11]
 
 11. Badlands Brief — "Is the Censorship War Over?", URL: https://badlands.substack.com/p/is-the-censorship-war-over
+
+## The domestic "Purple Revolution"
+
+Badlands Media contributor [[erik-carlson|Erik Carlson]] applied the color revolution template directly to the United States, arguing that a [[purple-revolution|Purple Revolution]] went into effect immediately after [[donald-trump|Donald Trump]]'s 2016 victory, when a group of Deep State officials vowed to slow down or take down the incoming president by any means necessary.[12] He defined a color revolution as the removal or attempted removal of a duly elected political figure through censorship, propaganda, violence and election tampering, after which the saboteurs' puppet takes their place, citing the CIA and MI6 installation of the Shah in Iran in 1953 as the model.[12] Because such operations are conventionally identified by a color, he read the purple neckwear worn by [[bill-clinton|Bill Clinton]] and [[hillary-clinton|Hillary Clinton]] on November 9, 2016, by [[rod-rosenstein|Rod Rosenstein]] at his June 3, 2020 Senate testimony, and by FBI Director [[christopher-wray|Christopher Wray]] at his 2017 swearing-in and February 2020 congressional appearance, as deliberate signalling.[12]
+
+The domestic variant is described as combining pandemic-era social control with the 2020 [[2020-george-floyd-riots|George Floyd riots]], a June 2020 revolt by serving and former military leaders against Trump's proposed deployment of federal troops, a stolen presidential election, and the staging of [[january-6-capitol-protest|January 6]] to portray Trump as an insurrectionist.[12]
+
+12. Badlands Brief — "Purple Revolution", URL: https://badlands.substack.com/p/purple-revolution
+
+## Definitional survey and historical scope (Carlson, 2023)
+
+In "Rainbow Color Revolution" (23 June 2023), [[erik-carlson|Erik Carlson]] surveyed competing definitions of the term, quoting Urban Dictionary's description of a revolution or coup in a country negatively perceived by the US Government that aligns it with a pro-US domestic government, "often with covert or open American support," and Wikipedia's account of a term used since around 2004 for anti-regime protest movements and changes of government in post-Soviet Eurasia and the former Yugoslavia, later extended to the Middle East, the Asian Pacific and South America.[13] He noted that the "color" element is simply a distinguishing label assigned to each episode, while "revolution" refers to a government being overthrown.[13]
+
+Carlson offered his own definition: non-traditional warfare, the covert overthrow of a government without an overt declaration of war, in many cases led by the [[central-intelligence-agency|CIA]], using propaganda, orchestrated protests and street violence to create unrest, after which a US-friendly and US-controlled government is installed.[13] He argued the phenomenon long predates the late 1980s, counting the [[french-revolution|French Revolution]] and certainly the [[bolshevik-revolution|Russian Revolution]] as color revolutions, and held that the technique has evolved toward heavier propaganda and manipulation and away from conventional force.[13]
+
+On his account the CIA "found their groove" with the fall of the Soviet Union, intervening in newly independent Eastern Bloc states whose leaders appeared anti-American or pro-Russian.[13] He listed Georgia's 2003 Rose Revolution, Ukraine's 2004 [[orange-revolution|Orange Revolution]], Kyrgyzstan's 2005 Tulip Revolution and Egypt's 2011 [[arab-spring|Arab Spring]] as examples marketed as "forwarding democracy," exporting "American values" and supporting humanitarian rights, but in his reading covert coups for control.[13] He asserted that in the previous thirty years 90% of government overthrows involved non-violent revolutions.[13]
+
+Carlson also set out what he called the CIA's template: identify the target, launch psychological war, find or create political activists and supply them with information and funding, organize them into political protests with NGO and media support, and provide financial backing to the country's opposition parties.[13] The result, he argued, is not democracy or prosperity but chaos and instability, with participants convinced they are doing right while being manipulated.[13]
+
+13. Badlands Brief — "Rainbow Color Revolution", URL: https://badlands.substack.com/p/rainbow-color-revolution

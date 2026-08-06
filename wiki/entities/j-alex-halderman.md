@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [election-integrity, cybersecurity, academia, dominion-voting-systems, georgia]
-sources: [raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-a40.md]
+sources: [raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-a40.md, raw/previously-sealed-report-on-dominion.md]
 confidence: medium
 ---
 
@@ -29,3 +29,10 @@ Badlands writer [[ashe-in-america|Ashe in America]] noted that Halderman cited [
 ## References
 1. Badlands Brief — "Badlands News Brief: Election Fraud Starts Early While the CIA Whines", URL: https://badlands.substack.com/p/badlands-news-brief-3bc
 2. Badlands News Brief — "A Constellation of Corruption & A Goldilocks Galaxy", URL: https://badlands.substack.com/p/badlands-news-brief-a40
+3. Badlands Brief — "Previously *SEALED* Report on Dominion Voting Machines in Georgia Shows Critical Vulnerabilities", URL: https://badlands.substack.com/p/previously-sealed-report-on-dominion
+
+## Unsealing of the Georgia report (June 2023)
+
+Halderman's report was unsealed in June 2023, nearly two years after submission in [[curling-v-raffensperger|Curling v. Raffensperger]], and he published a Twitter thread and a blog post, "Security Analysis of the Dominion ImageCast X," summarizing the 96-page document.[3] He described a directory traversal vulnerability in the [[dominion-imagecast-x|Dominion ICX]] software allowing a maliciously modified election definition file to overwrite arbitrary files and thereby "execute arbitrary code and install malware," and an arbitrary-code-execution vulnerability able to spread malware from a county's central election management system to all [[ballot-marking-device|ballot marking devices]] in the jurisdiction and run it as root.[3] He wrote that "despite our responsible disclosure efforts, the flaws remain unpatched in GA," and that the flaws made it possible to attack devices "at scale, over a wide area, without needing physical access to them," including by changing ballot QR codes.[3] He added that he was not aware of evidence the vulnerabilities had been exploited to change votes in past elections but warned of serious future risk.[3]
+
+Halderman and [[drew-springall|Drew Springall]] had been granted access to a Georgia ballot marking device in September 2020, before that year's presidential election.[3] Halderman testified that [[pro-v-and-v|Pro V&V]] performed "only cursory testing" of the new software issued to fix a ballot display problem, did not independently verify the cause of that problem, and made "no effort to test whether the changes create new problems that impact the reliability, accuracy, or security of the BMD system."[3] Earlier in his career he co-authored a "Source Code Review of the Diebold Voting System," which led California to de-certify [[diebold-election-systems|Diebold]] machines; Georgia, he noted, continued using them for another decade until the end of 2019 "without even patching the security flaws."[3] He criticized [[brad-raffensperger|Brad Raffensperger]] for publicly announcing the deferral of the patch, thereby giving "would-be adversaries a whole 18 months to develop and execute attacks that exploit the unknown-vulnerable machines."[3] Badlands reporter [[brian-lupo|Brian Lupo]] characterized Halderman as one of the "good guys" genuinely interested in election integrity and said he had invited him to discuss evidence from the 2020 and 2022 elections.[3]

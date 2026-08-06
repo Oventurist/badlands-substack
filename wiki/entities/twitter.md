@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [social-media, free-speech, elon-musk, big-tech]
-sources: [raw/badlands-news-brief-090.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-908.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-d50.md, raw/has-trumps-whole-life-been-a-sting.md]
+sources: [raw/badlands-news-brief-090.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-908.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-d50.md, raw/has-trumps-whole-life-been-a-sting.md, raw/q-for-dummies-chapter-18.md]
 confidence: medium
 ---
 
@@ -66,6 +66,11 @@ The July 2023 launch and rapid unraveling of Meta's [[threads|Threads]] was wide
 
 In August 2024 a federal judge ordered [[x-corp|X]] to unseal the roster of shareholders in X Holdings Corp., providing the first official public accounting of the investors who backed [[elon-musk|Elon Musk]]'s $44 billion acquisition of Twitter in October 2022.[10] Twitter founder and former chief executive [[jack-dorsey|Jack Dorsey]] was among the named investors, along with [[andreessen-horowitz|Andreessen Horowitz]], [[alwaleed-bin-talal|Alwaleed bin Talal]] and [[8vc|8VC]].[10]
 
+
+## Alwaleed's controlling interest
+
+Chapter 18 of the [[q-for-dummies|Q for Dummies]] series reminds readers that [[prince-alwaleed-bin-talal|Prince Alwaleed bin Talal]] — "Prince Dopey" in the Q drops — held the controlling interest in Twitter before his detention in the 2017 [[saudi-purge|Saudi purge]], and treats the platform's subsequent change of ownership as significant to what the author calls the information war.[12]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Hunter Hunted, Billionaire Boxing & Snopes Nopes", URL: https://badlands.substack.com/p/badlands-news-brief-090
 2. Badlands Brief — "Badlands News Brief: FOX Fights, Trump Trolls & Twitter Turns?", URL: https://badlands.substack.com/p/badlands-news-brief-148
@@ -84,3 +89,4 @@ In August 2024 a federal judge ordered [[x-corp|X]] to unseal the roster of shar
 A June 15, 2024 Badlands feature by [[erik-carlson|Erik Carlson]] argued that [[elon-musk|Elon Musk]]'s purchase of Twitter formed part of a decades-long operation against the [[deep-state|Deep State]].[11] Carlson asked whether Musk "was asked to buy Twitter," and wrote that in buying it Musk released "a major free speech platform from its chains, while gaining access to all of its Deep State secrets."[11] He added that since Musk announced the acquisition in 2022 he had become Deep State public enemy number two behind [[donald-trump|Donald Trump]], and may briefly have taken the top spot that year.[11]
 
 11. Badlands Brief — "Has Trump's Whole Life Been a Sting Operation?", URL: https://badlands.substack.com/p/has-trumps-whole-life-been-a-sting
+12. Badlands Brief — "Q for Dummies - Chapter 18", URL: https://badlands.substack.com/p/q-for-dummies-chapter-18

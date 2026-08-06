@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [organized-crime, hollywood, las-vegas]
-sources: [raw/a-journey-of-ever-changing-truths.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/operation-gladio-how-its-funded.md]
 confidence: low
 ---
 
@@ -24,5 +24,10 @@ Carlson reports discovering that the book *[[the-godfather|The Godfather]]* was 
 
 Carlson places the [[cia|CIA]] above the Jewish Mafia, noting that the agency could not allow the public to learn that Lansky ran its drugs out of the Golden Triangle during the Vietnam War.[[1]](https://badlands.substack.com/p/a-journey-of-ever-changing-truths) He then extends the same logic upward: just as the Jewish Mafia stood above the Italian Mafia, he suggests Jews and Israel may themselves be a scapegoat for the [[deep-state-cabal|Cabal]] centred on the [[city-of-london|City of London]].[[1]](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
 
+## Gladio-era account
+
+The Badlands Media Gladio funding article identifies a second American criminal network of the early 1900s consisting of Jewish mobsters including Louis "Pretty" Amberg, Moses Annenberg of Hearst Corp newspapers and media, Abe Bernstein of the Purple Gang, [[mickey-cohen]] in Los Angeles, [[meyer-lansky]] — who formed the National Crime Syndicate focused on Cuba and Las Vegas — and [[bugsy-siegel]] in New York and Las Vegas.[2] While they were involved in the same rackets as the Italian mafia, they were also used by large business enterprises that needed assistance making things happen with dock workers, newspapers and bankers.[2] Lansky went on to co-found [[the-commission-mafia|the Commission]] with [[lucky-luciano]] and attended the Cuba meeting that framed the [[operation-gladio]] drug network.[2]
+
 ## References
 1. Badlands Brief — "A Journey of Ever-changing Truths", URL: https://badlands.substack.com/p/a-journey-of-ever-changing-truths
+2. Badlands Brief — "Operation Gladio - How It's Funded", URL: https://badlands.substack.com/p/operation-gladio-how-its-funded

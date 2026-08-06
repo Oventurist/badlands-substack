@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cia, state-department, iran, neoconservatism]
-sources: [raw/badlands-brief-d9f.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-275.md, raw/everything-is-connected.md]
+sources: [raw/badlands-brief-d9f.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-275.md, raw/everything-is-connected.md, raw/profiting-from-war.md]
 confidence: medium
 ---
 
@@ -29,9 +29,15 @@ In the third episode of [[tucker-on-twitter|"Tucker on Twitter"]] on June 13, 20
 
 Badlands contributor Joe Lange argues that a principal reason for placing Mike Pompeo as director of the [[central-intelligence-agency|CIA]] was to locate and take down the agency's seven [[snow-white-supercomputers|Snow White supercomputers]].[4] According to this account Pompeo cleansed the top of the CIA and put the three machines located in [[north-korea|North Korea]] — numbers 1, 2 and 5 — offline, which severed the mechanism of control over [[kim-jong-un|Kim Jong Un]] and prevented [[barack-obama|Barack Obama]] from making secret contact with him.[4] The remaining four systems, located in [[armenia|Armenia]], were all taken offline on the same day, August 30, 2018, months after the velvet revolution that removed the CIA-aligned Armenian leadership.[4]
 
+
+## Khashoggi statements
+
+"Profiting From War" cites [[rolling-stone|Rolling Stone]] reporting that Pompeo, as Secretary of State, said there was no "direct reporting" of Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]]'s guilt in the murder of [[jamal-khashoggi|Jamal Khashoggi]], a position that contradicted the U.S. intelligence community's assessment.[5] Defense Secretary [[james-mattis|James Mattis]] similarly maintained there was no "smoking gun."[5] [[joe-lange|Joe Lange]] presents these statements as part of a deliberate administration refusal to let a [[central-intelligence-agency|CIA]] assessment fracture the alliance between [[donald-trump|Trump]] and the crown prince.[5]
+
 ## References
 
 1. Badlands Brief — "Dueling Color Revolutions, Economic Escalation, & Superseding Somali Scams", URL: https://badlands.substack.com/p/badlands-brief-d9f
 2. Badlands Brief — "Badlands News Brief: Trans Easter Bait & A Tale of Two Presidents", URL: https://badlands.substack.com/p/badlands-news-brief-092
 3. Badlands Brief — "Badlands News Brief: Tucker's Tour de Force, Trump Besieged & More", URL: https://badlands.substack.com/p/badlands-news-brief-275
 4. Badlands Brief — "Everything Is Connected", URL: https://badlands.substack.com/p/everything-is-connected
+5. Badlands Brief — "Profiting From War", URL: https://badlands.substack.com/p/profiting-from-war

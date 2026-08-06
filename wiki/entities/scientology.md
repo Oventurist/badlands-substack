@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [religion, cults, coercive-control]
-sources: [raw/badlands-brief-ac2.md]
+sources: [raw/badlands-brief-ac2.md, raw/q-for-dummies-chapter-10.md]
 confidence: medium
 ---
 
@@ -16,3 +16,9 @@ In an account published in *Evie* magazine, Villa described the organization as 
 
 ## References
 1. Badlands Brief — "NeoCon Goggles & Phantom Whistleblowers", URL: https://badlands.substack.com/p/badlands-brief-ac2
+
+## Operation Snow White in Q commentary
+
+Chapter 10 of the [[q-for-dummies|Q for Dummies]] series cites [[operation-snow-white|Operation Snow White]] — described as Scientology's infiltration of the United States government — as one possible referent for the "Snow White" mentions in [[qanon|Q]] drop #80 of November 5, 2017.[2] The series author states that he personally favours the alternative reading in which Snow White denotes the [[snow-white-supercomputers|CIA supercomputers]] named for the film's characters, while presenting the Scientology operation as a plausible secondary interpretation.[2]
+
+2. Badlands Brief — "Q for Dummies - Chapter 10", URL: https://badlands.substack.com/p/q-for-dummies-chapter-10

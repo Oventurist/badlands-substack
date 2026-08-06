@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [state-department, benghazi, libya, weapons]
-sources: [raw/a-dereliction-of-duty.md, raw/always-fight-back.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/and-iran-iran-so-far-away.md, raw/bad-actors.md, raw/badlands-brief-314.md, raw/badlands-brief-40d.md, raw/badlands-brief-52f.md, raw/badlands-brief-b74.md, raw/badlands-brief-8db.md, raw/badlands-brief-c91.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-547.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-b86.md, raw/badlands-news-brief-b78.md, raw/badlands-news-brief-b9e.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-ea7.md, raw/clowns-in-america.md, raw/child-sacrifice-as-a-pillar-of-deep.md, raw/durham-continues-to-reveal-previously.md, raw/four-pillars-of-government-control.md, raw/has-trumps-whole-life-been-a-sting.md, raw/infiltration-not-invasion.md]
+sources: [raw/a-dereliction-of-duty.md, raw/always-fight-back.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/and-iran-iran-so-far-away.md, raw/bad-actors.md, raw/badlands-brief-314.md, raw/badlands-brief-40d.md, raw/badlands-brief-52f.md, raw/badlands-brief-b74.md, raw/badlands-brief-8db.md, raw/badlands-brief-c91.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-547.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-b86.md, raw/badlands-news-brief-b78.md, raw/badlands-news-brief-b9e.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-ea7.md, raw/clowns-in-america.md, raw/child-sacrifice-as-a-pillar-of-deep.md, raw/durham-continues-to-reveal-previously.md, raw/four-pillars-of-government-control.md, raw/has-trumps-whole-life-been-a-sting.md, raw/infiltration-not-invasion.md, raw/power-to-the-people.md, raw/q-for-dummies-chapter-12.md, raw/q-for-dummies-chapter-11.md, raw/q-for-dummies-chapter-1.md, raw/q-for-dummies-chapter-10.md, raw/q-for-dummies-chapter-2.md]
 confidence: medium
 ---
 
@@ -249,6 +249,17 @@ Badlands contributor [[simon-esler|Simon Esler]], writing in February 2024 about
 
 In March 2023, Clinton attended a performance of *Some Like It Hot* at the Shubert Theater in New York alongside her daughter [[chelsea-clinton|Chelsea Clinton]] when human excrement was found in the aisle near their seats as the lights came up for intermission, in an episode attributed by sources to an alleged "serial pooper" or, alternatively, to an elderly patron.[41] House staff cleaned the aisle and both Clintons stayed for the second act.[41] [[ryan-delarme|Ryan DeLarme]] treated the story as the "headline of the week" in the [[badlands-news-brief|Badlands News Brief]], using it as an occasion for satire at the Clintons' expense.[41]
 
+## Named in Badlands commentary on accountability
+
+An October 2022 essay by [[pepe-lives-matter|Pepe Lives Matter]] named Clinton, alongside [[barack-obama|Obama]] and [[george-soros|Soros]], as among the "high-level players" the writer considered complicit in treason and the appropriate targets of any genuine reckoning.[48] The piece asserted that "Clinton is guilty of crimes against children" and argued that minor false-statements prosecutions such as the failed case against [[igor-danchenko|Igor Danchenko]] were pawns sacrificed in pursuit of "the King and Queen."[48]
+
+
+## Q for Dummies Chapter 12 (drops #91–95)
+
+Chapter 12 of the [[q-for-dummies|Q for Dummies]] series revisits the question of why Clinton was never prosecuted, answering that [[barack-obama|Barack Obama]] had approved and known about the conduct at issue and that other cabinet members were engaged in the same practices, so an indictment of Clinton would have exposed the entire cabinet up to the president himself.[49] In drop #93 an Anon asked whether Clinton was merely a puppet whose overlords were the real target, and Q replied that her strings had been cut and that she was fighting for her life on her own.[49] The chapter concedes there is no tangible evidence for this but points to her diminished prominence within the [[democratic-national-committee|DNC]] and her reduced public profile as circumstantial support.[49]
+
+Drop #94 addressed an Anon's question about how the money sent from [[saudi-arabia|Saudi Arabia]] to the [[clinton-foundation|Clinton Foundation]] would be repaid once Clinton lost the 2016 election, with Q indicating that Obama settled the debts.[49] The chapter also reads Q's question about where [[george-soros|Soros]] fits in, followed by a reference to Godfather III, as identifying Soros as Clinton's "Godfather" — while noting that in that film the family falls.[49] It closes by describing the Clinton–Saudi connection as a very deep line of inquiry Q was urging researchers to pursue.[49]
+
 ## References
 
 1. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
@@ -292,6 +303,7 @@ In March 2023, Clinton attended a performance of *Some Like It Hot* at the Shube
 39. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46
 40. Badlands Brief — "Badlands News Brief: Toothless Sanctions and Ouroboros Patterns", URL: https://badlands.substack.com/p/badlands-news-brief-d6a
 41. Badlands Brief — "Badlands News Brief: Trump Mania, Insider Banking & ... Poop?", URL: https://badlands.substack.com/p/badlands-news-brief-ea7
+53. Badlands Brief — "Q for Dummies - Chapter 2", URL: https://badlands.substack.com/p/q-for-dummies-chapter-2
 
 ## The private server, the PDB trap and Weiner's laptop (Badlands account)
 
@@ -341,3 +353,32 @@ Badlands contributor Joe Lange argues the timing is decisive: Clinton was alread
 Citing Sada Elbalad English News, Lange reports that leaked emails revealed a close relationship between Clinton and the [[qatar|Qatari]] network [[al-jazeera|Al Jazeera]], including a May 2010 visit in which she met director Waddah Khanfar and the channel's board and arranged a delegation visit to Washington.[47] Another email is said to show Clinton requesting that Qatar finance the [[arab-spring|Arab Spring]] revolutions through a fund dedicated to the [[clinton-foundation|Clinton Foundation]], a channel Lange compares to [[john-mccain|John McCain]]'s use of the [[international-republican-institute|International Republican Institute]].[47] He also cites the Center for Security Policy's claim that Clinton was an enthusiastic supporter of figures such as Muslim Public Affairs Council president Salam al-Marayati, and argues she would have continued promoting [[sharia-law|Sharia]]-aligned policy had she won the presidency, with [[huma-abedin|Huma Abedin]] at her right hand throughout.[47]
 
 47. Badlands Brief — "Infiltration, Not Invasion", URL: https://badlands.substack.com/p/infiltration-not-invasion
+48. Badlands Brief — "Power to the People", URL: https://badlands.substack.com/p/power-to-the-people
+49. Badlands Media — "Q for Dummies - Chapter 12", URL: https://badlands.substack.com/p/q-for-dummies-chapter-12
+50. Badlands Media — "Q for Dummies - Chapter 11", URL: https://badlands.substack.com/p/q-for-dummies-chapter-11
+
+## Treatment in Q drops #81–90
+
+Chapter 11 of the [[q-for-dummies|Q for Dummies]] series holds that the November 5, 2017 drops used the [[alice-and-wonderland|Alice & Wonderland]] comm as a direct correlation: Alice stands for Clinton and Wonderland for [[saudi-arabia|Saudi Arabia]], with the accompanying reposted material titled "Saudi Arabia — The Bloody Wonderland."[50] The author argues both are deep rabbit holes, and that digging into Clinton and the [[clinton-foundation|Clinton Foundation]] reveals a major role in human rights violations and war crimes in Saudi Arabia.[50]
+
+Drop #86 is read as Q commending an anon for locating a book whose closing pages compiled Clinton quotations showing, in the author's view, her hypocrisy and willingness to lie to gain control — a theme he ties to the movement's creed of not letting such hypocrisy pass.[50] Drop #90 is described as Q confirming an anon's finding linking [[ms-13|MS-13]] and the [[democratic-national-committee|DNC]] to the killers of [[seth-rich|Seth Rich]], and indicating that Clinton was a player in Rich's murder, though the supporting information remained classified.[50]
+
+## Detention in the first Q drops
+
+The opening posts of the [[q-operation|Q]] drops concern Clinton directly. Drop #1 of October 28, 2017 stated that she would be arrested and that extradition was in motion; Drop #2, posted the same day, clarified that she had not been arrested but detained.[51] In Chapter 1 of [[q-for-dummies|Q for Dummies]], [[paul-fleuret|Paul Fleuret]] writes that nothing beyond speculation supports an actual arrest, and treats the sequence as the first illustration of [[future-proves-past|future proves past]] — with the takeaway that Clinton was "on the radar."[51]
+
+Fleuret connects the detention reading to Clinton's near-collapse on September 11, 2016, when she required assistance getting into a van; he rejects the official explanation that she was overheated, and speculates that this may have been the day she was detained, calling the date fitting from a "think mirror" perspective given the [[deep-state|deep state]]'s associations with the 9/11 anniversary.[51] He adds that Drop #2 reassures readers that no deep state player — Clinton, [[george-soros|Soros]] or the Rothschilds among them — held more power than [[donald-trump|President Trump]].[51]
+
+51. Badlands Brief — "Q for Dummies - Chapter 1", URL: https://badlands.substack.com/p/q-for-dummies-chapter-1
+
+## Alice & Wonderland in the Q drops
+
+Chapter 10 of the [[q-for-dummies|Q for Dummies]] series identifies Clinton as the "Alice" of the [[alice-and-wonderland|"Alice & Wonderland"]] code phrase used in [[qanon|Q]] drops #72 through #80 of November 2017.[52] The reading holds that "Alice" denotes Clinton and how far down the Saudi rabbit hole she had gone, while "Bloody Wonderland" denotes [[saudi-arabia|Saudi Arabia]]; drop #80 is said to confirm this by pointing to a reimagined edition of *Alice in Wonderland* featuring a young Clinton in place of Alice.[52] The same chapter argues that the earlier drops suggesting the imminent arrest of Clinton and [[john-podesta|John Podesta]] were deliberate [[disinformation|disinformation]] and markers for future events, with the real target of the November 2017 operation being the corrupt establishment within the [[house-of-saud|Saudi Royal Family]].[52] The author further contends that anons had initially assumed the Clinton family was the one then being taken down, and that this consensus proved mistaken.[52]
+
+52. Badlands Brief — "Q for Dummies - Chapter 10", URL: https://badlands.substack.com/p/q-for-dummies-chapter-10
+
+## Q for Dummies Chapter 2 readings
+
+Badlands' "Q for Dummies" Chapter 2 treats drop #7 as establishing that Clinton's use of a private email system to communicate and share state secrets was not an isolated act: the entire [[barack-obama|Obama]] administration used private email, which the author offers as the explanation for the absence of indictments over private-server use of government information.[53] Drop #8 is read as flagging [[huma-abedin|Huma Abedin]], described as Clinton's top aide, for her family's ties to the [[muslim-brotherhood|Muslim Brotherhood]].[53]
+
+Drop #9 asks who Clinton's mentor was; the chapter answers [[robert-byrd|Robert Byrd]], a former Ku Klux Klan figure, and notes that Clinton, Obama, George W. Bush and Joe Biden all eulogized him.[53] The author calls this projection by a side that labels its opponents racist while elevating a "high ranking KKK member within their own government."[53] Chapter 2 further asserts that Clinton "was supposed to win" in 2016 and that an attempt to steal that election was thwarted by white hats safeguarding the vote.[53]

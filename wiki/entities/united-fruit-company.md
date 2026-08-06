@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [united-fruit, chiquita, latin-america, railroads, drug-cartels]
-sources: [raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-280.md]
+sources: [raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-280.md, raw/operation-gladio-a-primer.md]
 confidence: low
 ---
 
@@ -28,7 +28,12 @@ In 1899 Keith merged his company with the Boston Fruit Company, which held an es
 
 The same account holds that the Spanish-American conflict of 1898 destabilized the region while the law firm [[sullivan-and-cromwell|Sullivan & Cromwell]] — inventor of the holding company and longtime employer of the Dulles brothers and other notable CIA figures — was on the ground and may have helped foment the unrest.[2] The relationship between those lawyers and United Fruit is said to have led the company to play a starring role in the Iran-Contra scandal, among lesser-known revolutions.[2] After exposure of its CIA connections in the 1980s, United Fruit rebranded as Chiquita Banana, now [[chiquita-brands-international|Chiquita Brands International]], which in June 2024 was found liable by a Florida jury for funding the Colombian paramilitary group [[autodefensas-unidas-de-colombia|AUC]].[2] The broader Badlands argument is that bananas were created and marketed as a product so that oligarchs could cultivate the political clout needed to control Central American governments and thereby trade in other commodities from the region.[2]
 
+## Land holdings in Central America
+
+Colonel [[roxane-watkins|Roxane Watkins]] identifies United Fruit as a component of the [[international-syndicate|International Syndicate]] and writes that a Central American government's decision that the company should not own 42% of the country's farmable land triggered the installation of a [[central-intelligence-agency|CIA]]-backed dictator.[3] That land, she says, had been acquired by paying off government officials to confiscate it, primarily from middle-class coffee farmers.[3] When the [[sandinista-national-liberation-front|Sandinistas]] removed the dictator, the United States responded on the syndicate's behalf by sending Special Forces, [[operation-gladio|Gladio]]-trained Cuban exiles and mercenaries to overthrow the new government, while the [[nicaraguan-contras|Contras]] were publicly presented as the good guys.[3]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Military in Memphis & Patrols in Poland", URL: https://badlands.substack.com/p/badlands-news-brief-1ed
 2. Badlands Brief — "Let's Talk About Hunter Biden ... and Bananas", URL: https://badlands.substack.com/p/badlands-news-brief-280
+3. Badlands Brief — "Operation Gladio - A Primer", URL: https://badlands.substack.com/p/operation-gladio-a-primer

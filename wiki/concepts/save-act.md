@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [legislation, elections, citizenship, congress]
-sources: [raw/badlands-brief-5a2.md, raw/badlands-brief-733.md, raw/badlands-brief-ac2.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-cf2.md, raw/badlands-news-brief-dca.md]
+sources: [raw/badlands-brief-5a2.md, raw/badlands-brief-733.md, raw/badlands-brief-ac2.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-cf2.md, raw/badlands-news-brief-dca.md, raw/q-for-dummies-chapter-19.md]
 confidence: medium
 ---
 
@@ -51,6 +51,10 @@ In March 2025 the [[brennan-center-for-justice|Brennan Center for Justice]] clai
 
 The same week, President [[donald-trump|Donald Trump]] signed an executive order to promote election integrity whose provisions included a mandate that prospective voters provide proof of citizenship in order to register to vote.[6] Badlands contributor GhostofBasedPatrickHenry argued that even when election fraud is exposed it is not addressed and the cheating side still wins, concluding that Trump's election integrity executive order was absolutely necessary.[6] A second Badlands take from [[burning-bright|Burning Bright]] objected that beginning any purported sociopolitical analysis with "the Democrats" or "the Left" betrays a complete lack of foundational logic, holding that "there is only truth, and everything else."[6]
 
+## Treatment in the Q for Dummies series
+
+Chapter 19 of the [[q-for-dummies|Q for Dummies]] series cites the SAVE Act as evidence of "a big push to clean up our elections," placing it alongside the [[pennsylvania-supreme-court|Pennsylvania Supreme Court]]'s ruling against unmarked, inaccurate or unsigned mail-in ballots and the [[north-carolina-supreme-court|North Carolina Supreme Court]]'s removal of [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] from the ballot.[7] The passage forms part of the chapter's broader argument that a federal [[voter-id-laws|Voter ID]] requirement would make election theft far harder, and that its absence is deliberate.[7]
+
 ## References
 1. Badlands Brief — "Tina Peters' Sentence Commuted; ISIS Killed in Africa", URL: https://badlands.substack.com/p/badlands-brief-5a2
 2. Badlands Brief — "The Boons & Blessings of Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-733
@@ -58,3 +62,4 @@ The same week, President [[donald-trump|Donald Trump]] signed an executive order
 4. Badlands Brief — "Peaceful Retaliations, Futuristic Fusions and Based Puritans", URL: https://badlands.substack.com/p/badlands-brief-bb1
 5. Badlands Brief — "Badlands News Brief: Witkoff Woos a Win & Women Go to Space", URL: https://badlands.substack.com/p/badlands-news-brief-cf2
 6. Badlands Brief — "Elise UNnominated, 41% Frauds, & Escalating Canadian Conflicts", URL: https://badlands.substack.com/p/badlands-news-brief-dca
+7. Badlands Brief — "Q for Dummies - Chapter 19", URL: https://badlands.substack.com/p/q-for-dummies-chapter-19

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [think-tank, united-kingdom, iran, color-revolution]
-sources: [raw/badlands-brief-d9f.md, raw/canadas-transition-to-collectivist.md]
+sources: [raw/badlands-brief-d9f.md, raw/canadas-transition-to-collectivist.md, raw/poison-fruit-of-the-decision-tree.md]
 confidence: medium
 ---
 
@@ -24,7 +24,14 @@ Badlands writer [[ashe-in-america|Ashe in America]] flagged Chatham House's prom
 
 Ehret further names Farhana Yamin and Sam Gaell of Chatham House among the British intelligence figures he says managed the [[extinction-rebellion|Extinction Rebellion]] movement, describing Chatham House as the controlling institution behind the New York-based Council on Foreign Relations overseen by Carney.[2]
 
+## Institutional identity and the Chatham House Rule
+
+In the May 2023 essay "Poison Fruit of the Decision Tree," Badlands Media contributor [[justin-deschamps|Justin Deschamps]] identified Chatham House as the Royal Institute of International Affairs, describing it as the older brother of the [[council-on-foreign-relations|Council on Foreign Relations]] and both as "political think tanks that focus on international affairs and foreign policy."[3] He emphasized the word *policy* — defined as "a course or principle of action adopted or proposed by a government, party, business, or individual" — as the key to the institute's significance, since policy is the mechanism by which decisions reached in private are pushed down through the layers of society.[3]
+
+Deschamps devoted a section of the essay to the institute's best-known contribution to the conduct of closed meetings, the [[chatham-house-rule|Chatham House Rule]], quoting its formulation that participants are free to use the information received but may not reveal the identity or affiliation of any speaker or other participant.[3] He argued that in effect the rule allows government officeholders to conspire with people they should not, because it does not conform to the spirit of the [[sunshine-act|Government in the Sunshine Act]], which exists so that voters can keep an eye on their elected officials rather than to provide privacy to officeholders.[3] He applied the same criticism to the annual [[bilderberg|Bilderberg]] meetings and any gathering conducted on similar terms.[3]
+
 ## References
 
 1. Badlands Brief — "Dueling Color Revolutions, Economic Escalation, & Superseding Somali Scams", URL: https://badlands.substack.com/p/badlands-brief-d9f
 2. Badlands Brief — "Canada's Transition to Collectivist Green Dystopia", URL: https://badlands.substack.com/p/canadas-transition-to-collectivist
+3. Badlands Brief — "Poison Fruit of the Decision Tree", URL: https://badlands.substack.com/p/poison-fruit-of-the-decision-tree

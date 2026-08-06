@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [history, religion, intelligence-operations, native-americans, colonial-america]
-sources: [raw/a-new-american-renaissance.md]
+sources: [raw/a-new-american-renaissance.md, raw/legacy-of-the-bavarian-illuminati-8f0.md]
 confidence: low
 ---
 
@@ -22,5 +22,10 @@ The article describes Jesuitical intelligence operations as conducting slanders 
 
 Friedrich Schiller wrote about these methods in his 1792 study *The Jesuit Government in Paraguay*.[[1]](https://badlands.substack.com/p/a-new-american-renaissance) [[samuel-morse|Samuel Morse]] later exposed the operation in the Americas in his 1841 *Foreign Conspiracy Against the Liberties of the United States*, describing Prince Metternich's Holy Alliance deploying Jesuits throughout the Americas to undo the American Revolution.[[1]](https://badlands.substack.com/p/a-new-american-renaissance)
 
+## Suppression and the Illuminati
+
+Pope Clement XIV dissolved the Jesuit Order in 1773.[2] In that same year [[adam-weishaupt|Adam Weishaupt]] — himself educated by the Jesuits — became the first layman to occupy the chair of canon law at the [[university-of-ingolstadt|University of Ingolstadt]], a prestigious position that had been held by a Jesuit for the previous ninety years.[2] When Weishaupt founded the [[bavarian-illuminati|Order of the Illuminati]] on May 1, 1776, the Order was secret, hierarchical and explicitly modeled on the Jesuits.[2] [[baron-von-knigge|Baron von Knigge]], on breaking with Weishaupt in 1784, was convinced of his Jesuitism and accused him of being "a Jesuit in disguise."[2]
+
 ## References
 1. Badlands Brief — "A New American Renaissance", URL: https://badlands.substack.com/p/a-new-american-renaissance
+2. Badlands Brief — "Legacy of the Bavarian Illuminati - Part 2", URL: https://badlands.substack.com/p/legacy-of-the-bavarian-illuminati-8f0

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [isis, syria, terrorism, weapons, libya, lobbying]
-sources: [raw/a-dereliction-of-duty.md, raw/a-conflict-of-interest.md, raw/assad-day-in-damascus.md, raw/badlands-brief-509.md, raw/badlands-brief-db7.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b40.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-ea6.md]
+sources: [raw/a-dereliction-of-duty.md, raw/a-conflict-of-interest.md, raw/assad-day-in-damascus.md, raw/badlands-brief-509.md, raw/badlands-brief-db7.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b40.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-ea6.md, raw/q-for-dummies-chapter-19.md, raw/q-for-dummies-chapter-6.md]
 confidence: medium
 ---
 
@@ -142,6 +142,10 @@ In the September 11, 2024 *Badlands News Brief*, [[ghostofbasedpatrickhenry|Ghos
 
 In his account, it was President [[barack-obama|Barack Obama]] and Secretary of State [[hillary-clinton|Hillary Clinton]] who created ISIS, by overthrowing and murdering Libyan leader [[muammar-gaddafi|Muammar Gaddafi]], raiding his private armory, and sending those weapons to the "freedom fighters" in [[syria|Syria]] — fighters who, in this telling, became ISIS.[19] The argument was offered as context for the September 2024 reopening of the Saudi embassy in Damascus, which Badlands presented as evidence that the Middle East is healing after generations of strife exploited by western oligarchs.[19]
 
+## Q drop on Gulf funding
+
+Drop #120, analysed in Chapter 19 of the [[q-for-dummies|Q for Dummies]] series, asks which email connects Saudi Arabia and Qatar to ISIS.[20] The Badlands author presents an email he says proves beyond doubt that [[hillary-clinton|Hillary Clinton]], [[john-podesta|John Podesta]], Barack Obama and others knew of the rapid expansion of ISIS and were aware that its funding came from Saudi Arabia and Qatar.[20] He stresses that, despite that knowledge, nothing was done, and that ISIS continued to grow stronger until it was brought to its knees after [[donald-trump|Donald Trump]] took office.[20] Asked whether Clinton was connected, the chapter answers that she was, by way of Podesta and [[huma-abedin|Huma Abedin]], which in turn brings the [[muslim-brotherhood|Muslim Brotherhood]] into the picture.[20]
+
 ## References
 1. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
 2. Badlands Brief — "A Conflict of Interest", URL: https://badlands.substack.com/p/a-conflict-of-interest
@@ -162,3 +166,11 @@ In his account, it was President [[barack-obama|Barack Obama]] and Secretary of 
 17. Badlands Brief — "Badlands News Brief: Debates, Decisions and Disasters for the Deep State", URL: https://badlands.substack.com/p/badlands-news-brief-b40
 18. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44
 19. Badlands Brief — "Badlands News Brief: Trump-a-Mania Rages On, Brother!", raw/badlands-news-brief-ea6.md
+20. Badlands Brief — "Q for Dummies - Chapter 19", URL: https://badlands.substack.com/p/q-for-dummies-chapter-19
+21. Badlands Brief — "Q for Dummies - Chapter 6", URL: https://badlands.substack.com/p/q-for-dummies-chapter-6
+
+## Q drop #47 in "Q for Dummies" Chapter 6
+
+Chapter 6 of the [[q-for-dummies|Q for Dummies]] series reads [[qanon|Q]] drop #47 of November 2, 2017 as asserting that the [[barack-obama|Obama administration]] did nothing to stop ISIS because the group supplied a justification for continued American involvement in Middle East conflict — described as "a never-ending cash cow for the warmongers within, and behind that administration."[21] The author leaves the question of who created ISIS, and when, to readers' own research, adding the hint that "'No Name' [[john-mccain|McCain]] is heavily involved."[21]
+
+He attributes [[donald-trump|President Trump]]'s rapid success against the group to his not being a traitor and to his upholding his oath by using the military against what the chapter calls an existential threat, and argues that this further angered the [[deep-state|Deep State]] and led it to commit to more [[false-flag-operation|false flags]] in Syria.[21]

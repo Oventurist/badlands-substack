@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence-community, dni, russiagate]
-sources: [raw/badlands-brief-195.md, raw/badlands-news-brief-754.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-cff.md, raw/badlands-news-brief-ffa.md]
+sources: [raw/badlands-brief-195.md, raw/badlands-news-brief-754.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-cff.md, raw/badlands-news-brief-ffa.md, raw/moves-and-countermoves.md, raw/q-for-dummies-chapter-19.md]
 confidence: medium
 ---
 
@@ -45,3 +45,14 @@ Badlands commentary observed that the piece appeared one day before the [[durham
 3. Badlands Brief — "The Wall Are Closing in Again! (And Other Stories)", URL: https://badlands.substack.com/p/badlands-news-brief-7ad
 4. Badlands Brief — "Letters of Credence, More Evidence of Treason, & Allegedly Super-Intelligent AI", URL: https://badlands.substack.com/p/badlands-news-brief-cff
 5. Badlands Brief — "Badlands News Brief: Prolonged Conflicts, Deep State Panic, & Shrinking Unions", URL: https://badlands.substack.com/p/badlands-news-brief-ffa
+6. Badlands Brief — "Moves and Countermoves", URL: https://badlands.substack.com/p/moves-and-countermoves
+
+## Bypassed in the 2016 Trump Tower briefing
+
+"Moves and Countermoves" recounts that Admiral [[mike-rogers|Mike Rogers]], then director of the [[national-security-agency|NSA]], traveled to Trump Tower on November 17, 2016 to warn President-elect [[donald-trump|Trump]] that communications from the building were being tapped, and deliberately did not inform Clapper, his superior as Director of National Intelligence, beforehand.[6] [[joe-lange|Joe Lange]] states plainly that Rogers acted this way because he knew Clapper was corrupt.[6]
+
+## Effort to have Rogers fired
+
+Chapter 19 of the [[q-for-dummies|Q for Dummies]] series states that Admiral [[michael-rogers|Michael Rogers]] was so effective at rooting out and identifying corruption that Clapper was one of the officials who went to Barack Obama seeking to have him fired.[7] The chapter contrasts that effort with [[donald-trump|Donald Trump]]'s decision to retain Rogers as the 17th Director of the [[national-security-agency|NSA]], which it reads as a mark of trust between the two men.[7]
+
+7. Badlands Brief — "Q for Dummies - Chapter 19", URL: https://badlands.substack.com/p/q-for-dummies-chapter-19

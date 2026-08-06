@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [think-tank, european-union, public-opinion, polling]
-sources: [raw/badlands-news-brief-ba8.md]
+sources: [raw/badlands-news-brief-ba8.md, raw/rattling-a-broken-saber.md]
 confidence: medium
 ---
 
@@ -18,3 +18,4 @@ The ECFR published a major study titled "Alone in a Trumpian World," examining t
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Hopium for Health AI, Hulk on Hunter, & A Happy WHO Adieu", URL: https://badlands.substack.com/p/badlands-news-brief-ba8
+2. Badlands Brief — "Rattling a Broken Saber?", URL: https://badlands.substack.com/p/rattling-a-broken-saber

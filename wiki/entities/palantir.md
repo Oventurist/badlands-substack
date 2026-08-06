@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [defense-tech, surveillance, military-industrial-complex]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-brief-861.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-355.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-ac6.md, raw/badlands-news-brief-d50.md, raw/badlands-news-brief-f76.md, raw/dark-equation.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-brief-861.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-355.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-ac6.md, raw/badlands-news-brief-d50.md, raw/badlands-news-brief-f76.md, raw/dark-equation.md, raw/q-for-dummies-chapter-22.md]
 confidence: low
 ---
 
@@ -67,3 +67,9 @@ Reporting that [[ukraine|Ukrainian]] forces were fielding AI-coordinated drone s
 The Badlands Media article "Dark Equation" identified [[peter-thiel|Peter Thiel]] as a co-founder of both PayPal and Palantir when listing him among the attendees of the [[2023-bilderberg-meeting|2023 Bilderberg meeting]] in Lisbon, Portugal, a conference devoted primarily to artificial intelligence.[9]
 
 9. Badlands Brief — "Dark Equation", URL: https://badlands.substack.com/p/dark-equation
+
+## Army/Navy game advertising (December 2024)
+
+Chapter 22 of the "Q for Dummies" series read Palantir's messaging around the December 2024 [[2024-army-navy-game|Army–Navy game]] as deliberate signalling, describing a company post with notably pointed wording and an advertisement run during the broadcast.[10] The author's first association with the ad was the Q phrase "Watch the water," and he noted that drones appear at the seventeen-second mark while ships are shown earlier being halted by a geofence — evidence, in his argument, that the government could geofence areas against drones during the ongoing sightings but is not doing so.[10] The same commentary argued that [[peter-thiel|Peter Thiel]]'s long-standing support for [[donald-trump|Donald Trump]] makes it plausible that Thiel is not the figure he has been portrayed as, and may have served as a "white hat" counterweight inside the technology sector.[10]
+
+10. Badlands Brief — "Q for Dummies - Chapter 22", URL: https://badlands.substack.com/p/q-for-dummies-chapter-22

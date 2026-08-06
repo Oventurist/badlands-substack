@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, democratic-party, california, swalwell]
-sources: [raw/badlands-brief-949.md, raw/badlands-brief-9ac.md, raw/badlands-brief-98d.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-441.md, raw/badlands-news-brief-8f3.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-d1c.md, raw/badlands-news-brief-d73.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-e7c.md, raw/badlands-news-brief-f61.md, raw/everything-is-connected.md]
+sources: [raw/q-for-dummies-chapter-4.md, raw/badlands-brief-949.md, raw/badlands-brief-9ac.md, raw/badlands-brief-98d.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-441.md, raw/badlands-news-brief-8f3.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-d1c.md, raw/badlands-news-brief-d73.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-e7c.md, raw/badlands-news-brief-f61.md, raw/everything-is-connected.md, raw/moves-and-countermoves.md, raw/q-for-dummies-chapter-2.md]
 confidence: medium
 ---
 
@@ -120,6 +120,7 @@ Badlands contributor Joe Lange treats two of Nancy Pelosi's foreign trips as evi
 13. Badlands Brief — "Badlands News Brief: New Whistleblowers, Cartel Hitlists, & Extended Tariffs", URL: https://badlands.substack.com/p/badlands-news-brief-d1c
 14. Badlands News Brief — "Speaker Deception, Ukraine Fatigue & FBI Corruption", URL: https://badlands.substack.com/p/badlands-news-brief-d73
 15. Badlands Brief — "Badlands News Brief: Globalists Cry, Trump Plots and the Saudis Hold Court", URL: https://badlands.substack.com/p/badlands-news-brief-e6c
+21. Badlands Brief — "Q for Dummies - Chapter 2", URL: https://badlands.substack.com/p/q-for-dummies-chapter-2
 
 ## "I take responsibility" video (released June 2024)
 
@@ -138,3 +139,18 @@ In episode 15 of [[tucker-on-twitter|Tucker on Twitter]], former [[us-capitol-po
 
 18. Badlands Brief — "Badlands News Brief: Special Counsels, Island Fires & White Pills", URL: https://badlands.substack.com/p/badlands-news-brief-f61
 19. Badlands Brief — "Everything Is Connected", URL: https://badlands.substack.com/p/everything-is-connected
+20. Badlands Brief — "Moves and Countermoves", URL: https://badlands.substack.com/p/moves-and-countermoves
+
+## The December 2018 Oval Office confrontation
+
+"Moves and Countermoves" treats the televised December 11, 2018 White House meeting on border wall funding as a trap [[donald-trump|Trump]] set for Pelosi and [[chuck-schumer|Chuck Schumer]], who were reportedly not told in advance that the press would be present.[20] As the Daily Caller reported, both Democratic leaders repeatedly expressed a desire to talk privately while Trump embraced the word "transparency"; talks soured when Pelosi used the phrase "Trump shutdown."[20] [[joe-lange|Joe Lange]] argues the ensuing shutdown fight let Trump fix public attention on the border, and that the joint Pelosi–Schumer televised rebuttal to his address — in which Pelosi called the wall "expensive and ineffective" and an obsession, and Schumer said "the symbol of America should be the Statue of Liberty, not a thirty-foot wall" — was widely mocked and confirmed to voters that the party would never support a border wall.[20]
+
+## "Follow the money" in Q drop #6
+
+Badlands' "Q for Dummies" Chapter 2 reads Q drop #6 (October 29, 2017) as directing readers to investigate Pelosi specifically under the instruction "follow the money."[21] The author invites readers to compare her net worth with the salary of a member of Congress and to examine her stock deals, "specifically the timing of them."[21]
+
+## Reference in Q drop #25
+
+Chapter 4 of the [[q-for-dummies|Q for Dummies]] series reads drop #25 of November 1, 2017 as pointing back to the previous drop and indicating that the resignations under discussion also related to what was then being seen with [[john-mccain|John McCain]] and Pelosi.[22] The author notes that Pelosi subsequently stepped down from her leadership role, treating the sequence as consistent with the drop.[22]
+
+22. Badlands Media — "Q for Dummies - Chapter 4", URL: https://badlands.substack.com/p/q-for-dummies-chapter-4

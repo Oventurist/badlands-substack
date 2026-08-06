@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [oklahoma-city-bombing, terrorism, people]
-sources: [raw/false-flags-and-the-occult.md]
+sources: [raw/false-flags-and-the-occult.md, raw/patsies-of-the-cia-and-fbi.md]
 confidence: medium
 ---
 
@@ -22,3 +22,11 @@ The Badlands Media essay "False Flags and the Occult" argues that both the media
 
 ## References
 1. Badlands Brief — "False Flags and the Occult", URL: https://badlands.substack.com/p/false-flags-and-the-occult
+
+## Alleged MK ULTRA role
+
+The Badlands essay "Patsies of the CIA and FBI" lists McVeigh, identified with the OKC Bombing, among those suspected by many of having taken part in the [[cia|CIA]]'s [[mk-ultra|MK ULTRA]] mind-control program.[2] In the essay's classification of alleged uses, McVeigh is grouped with [[david-koresh|David Koresh]] as a figure used to make anti-government groups look violent and crazy.[2]
+
+That function sits at the centre of the essay's wider argument: that when a group forms which is anti-government, for limited government, or simply demanding accountability, the CIA and the [[fbi|FBI]] infiltrate it and try to turn it into a hate group — or, failing that, into something that appears to be one — so the public will equate anti-government sentiment with hatred.[2] [[ruby-ridge|Ruby Ridge]] and the [[waco-siege|Waco siege]] are cited as the formative examples of the technique.[2] See also [[intelligence-patsy|intelligence patsy]].[2]
+
+2. Badlands Brief — "Patsies of the CIA and FBI", URL: https://badlands.substack.com/p/patsies-of-the-cia-and-fbi

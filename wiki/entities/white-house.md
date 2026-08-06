@@ -282,3 +282,9 @@ In February 2025 the White House launched the [[maga-minute|MAGA Minute]], a sho
 In October 2022 the Biden White House placed the [[101st-airborne-division|101st Airborne Division]] on the border of the territories newly annexed by the [[russia|Russian Federation]] in [[ukraine|Ukraine]], which [[badlands-media|Badlands Media]] columnist [[brian-cates|Brian Cates]] described as a dramatic escalation between the US/[[nato|NATO]] bloc and Russia.[46] Cates urged the White House to pause and put to the American people the question it had not yet asked — whether the country consented to sending its sons and daughters to die in Eastern Europe — before taking a further step that he warned could spiral into a nuclear exchange.[46]
 
 46. Badlands Brief — "Dear America: Are You Ready To Do Your Global Duty And Send Your Child To Die For Ukraine?", URL: https://badlands.substack.com/p/dear-america-are-you-ready-to-do
+
+## Alleged surveillance devices and the 2017 renovation
+
+Chapter 4 of the [[q-for-dummies|Q for Dummies]] series reads drop #30 of November 1, 2017 as indicating that the White House contained devices in certain rooms capable of causing harm while going undetected, and infers from their presence that wiretaps were likely present as well.[47] The chapter notes that [[donald-trump|Trump]] had the building renovated in 2017 at a reported cost of $1.7 million, and surmises that the main purpose of the work was to remove bugs and devices left behind by prior occupants.[47] The author presents this alongside the claim that spying and attacks on Trump and his family were far more expansive than the public could imagine, citing surveillance of the president, the framing of his national security adviser, and the [[russiagate-hoax|Russiagate]] campaign within his first year in office.[47]
+
+47. Badlands Media — "Q for Dummies - Chapter 4", URL: https://badlands.substack.com/p/q-for-dummies-chapter-4

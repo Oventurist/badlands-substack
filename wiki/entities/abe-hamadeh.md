@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [arizona, elections, republican-party, attorney-general, 2022-midterms]
-sources: [raw/arizona-earthquake.md, raw/badlands-brief-509.md, raw/badlands-news-brief-e38.md]
+sources: [raw/arizona-earthquake.md, raw/badlands-brief-509.md, raw/badlands-news-brief-e38.md, raw/operation-wake-up-america-20.md]
 confidence: medium
 ---
 
@@ -34,3 +34,9 @@ As a member of Congress from Arizona, Hamadeh asked the [[department-of-justice|
 
 ## Request for a DOJ investigation of the 2024 election (June 2025)
 In June 2025 Hamadeh, by then a Republican congressman from Arizona, asked U.S. Attorney General [[pam-bondi|Pam Bondi]] to investigate "credible claims" that an elections service provider breached protocols during the 2024 election.[3] According to a news release from his office, the request focused on the handling of ballots by Arizona-based [[runbeck-election-services|Runbeck Election Services]] in several western states.[3] Newsweek said it had sought comment from the Department of Justice, from Hamadeh's office and from Runbeck.[3] Commentary from [[ashe-in-america|Ashe in America]] expressed hope that "this effort from Hamadeh goes somewhere," while acknowledging the possibility of being "on a rug" given the elections industry's record of obstruction.[3]
+
+## Role in the "Operation Wake Up America 2.0" framing (December 2022)
+
+In her December 2, 2022 Badlands Media essay, contributor [[kitty-gillespie|Kitty Gillespie]] singled out Hamadeh as a key piece of the Arizona phase of [[operation-wake-up-america|Operation Wake Up America]].[4] Writing while his attorney-general race was still unresolved, she predicted he would prevail in the runoff, which in her framing would give the [[america-first-movement|America First movement]] "a highly-placed and powerful operative deep inside the machine" — an outcome she called "gonna be FUN to watch."[4] She also named him among the figures, alongside [[mark-finchem|Mark Finchem]] and Blake, whom [[kari-lake|Kari Lake]] would include in a "shadow administration" of America First candidates who had won or lost in the 2022 midterms, operating in parallel to the incoming [[katie-hobbs|Katie Hobbs]] administration.[4]
+
+4. Badlands Media — "Operation Wake Up America 2.0", URL: https://badlands.substack.com/p/operation-wake-up-america-20

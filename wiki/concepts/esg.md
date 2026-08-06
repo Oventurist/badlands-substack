@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [esg, corporatocracy, finance, woke-capital]
-sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-70d.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-b9c.md, raw/badlands-news-brief-c74.md, raw/badlands-news-brief-f4c.md, raw/get-woke-go-broke.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-70d.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-b9c.md, raw/badlands-news-brief-c74.md, raw/badlands-news-brief-f4c.md, raw/get-woke-go-broke.md, raw/oppenheimer-and-the-central-narrative.md]
 confidence: low
 ---
 
@@ -67,6 +67,10 @@ The resulting dilemma supplied the title of his April 2023 essay: "Get woke, go 
 
 On enforcement, Carlson pointed to Soros-funded organizations such as the Human Rights Campaign, which he said issue corporate credit-style scores comparable to the Chinese Communist Party's social credit system and compel compliance; non-compliant firms are barred from the funds of investment giants including [[blackrock|BlackRock]], [[vanguard-group|Vanguard]] and [[state-street|State Street]].[8] He also raised the 5GW possibility that ESG is being turned against the deep state itself — forcing cabal-aligned corporations to destroy their own franchises — while conceding he could not be certain whether that, or simple institutional insanity, was the correct reading.[8]
 
+## ESG and the global corporate communist agenda
+
+In her July 2023 review of Christopher Nolan's *Oppenheimer*, Badlands contributor [[ashe-in-america|Ashe in America]] placed corporate Environmental, Social and Governance initiatives within a broader institutional push presenting globalism as the answer to every societal problem — from climate change and migration to global health and pandemic response to technology innovation and [[artificial-intelligence|artificial intelligence]].[9] Adding ESG's ongoing impacts to that list, she argued, puts "the global corporate communist agenda" on full display for anyone willing to look, and connects to the wider conflict between national and global decision rights she describes as [[global-governance|global governance]].[9]
+
 ## References
 1. Badlands Brief — "AI Can Help Us Expose the NWO", URL: https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo
 2. Badlands Brief — "Badlands News Brief: MAHA Begins as ESG Dies", URL: https://badlands.substack.com/p/badlands-news-brief-299
@@ -76,3 +80,4 @@ On enforcement, Carlson pointed to Soros-funded organizations such as the Human 
 6. Badlands Brief — "Badlands News Brief: The Mask Comes off as the Nation Watches", URL: https://badlands.substack.com/p/badlands-news-brief-c74
 7. Badlands Brief — "Badlands News Brief: Dollars, Saudis and Globalist Elites", URL: https://badlands.substack.com/p/badlands-news-brief-f4c
 8. Badlands Brief — "Get Woke, Go Broke", URL: https://badlands.substack.com/p/get-woke-go-broke
+9. Badlands Brief — "'Oppenheimer' & The Central Narrative", URL: https://badlands.substack.com/p/oppenheimer-and-the-central-narrative

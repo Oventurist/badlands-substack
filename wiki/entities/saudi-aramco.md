@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [saudi-arabia, oil, lithium, critical-minerals, vision-2030]
-sources: [raw/badlands-news-brief-351.md, raw/badlands-news-brief-70d.md, raw/badlands-news-brief-dcb.md, raw/badlands-news-brief-e1a.md]
+sources: [raw/badlands-news-brief-351.md, raw/badlands-news-brief-70d.md, raw/badlands-news-brief-dcb.md, raw/badlands-news-brief-e1a.md, raw/q-for-dummies-chapter-10.md]
 confidence: high
 ---
 
@@ -41,3 +41,9 @@ In November 2024 Badlands Media identified [[yasir-al-rumayyan|Yasir Al-Rumayyan
 2. Badlands Brief — "Badlands News Brief: Firing Squads, Purebloods and Woke's Decline", URL: https://badlands.substack.com/p/badlands-news-brief-70d
 3. Badlands Brief — "Badlands News Brief: AI Energy Solutions & Turning Water Into White Gold", URL: https://badlands.substack.com/p/badlands-news-brief-dcb
 4. Badlands Brief — "Rug Pulls and Riddles Abound as the Trump Victory Tour Continues", URL: https://badlands.substack.com/p/badlands-news-brief-e1a
+
+## The pre-purge Trump tweet
+
+Chapter 10 of the [[q-for-dummies|Q for Dummies]] series notes that [[qanon|Q]] drop #73 of November 4, 2017 asked what [[donald-trump|President Trump]]'s last tweet before the [[saudi-purge|Saudi purge]] had been, and answers that it was a tweet commenting on ARAMCO.[5] The surface implication is described as a signal that the United States would be willing to work with the Saudis going forward; the deeper reading advanced by the series is that the tweet served as approval for the operation about to take place in [[saudi-arabia|Saudi Arabia]].[5]
+
+5. Badlands Brief — "Q for Dummies - Chapter 10", URL: https://badlands.substack.com/p/q-for-dummies-chapter-10

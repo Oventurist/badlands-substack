@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [al-qaeda, terrorism, afghanistan, libya, qatar]
-sources: [raw/a-conflict-of-interest.md, raw/a-dereliction-of-duty.md, raw/assad-day-in-damascus.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-dae.md, raw/badlands-news-brief-e44.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-dereliction-of-duty.md, raw/assad-day-in-damascus.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-dae.md, raw/badlands-news-brief-e44.md, raw/operation-cyclone-the-seeds-of-terror.md]
 confidence: medium
 ---
 
@@ -50,6 +50,12 @@ In November 2024, the Syrian government told RT that Ukrainian agents had been [
 
 Badlands' July 2024 commentary asserted that both Al Qaeda and [[isis|ISIS]] are creations of the [[central-intelligence-agency|CIA]].[7] It traced Al Qaeda to [[operation-cyclone|Operation Cyclone]], the 1979 plan by [[zbigniew-brzezinski|Zbigniew Brzezinski]] to arm the Afghan mujahideen, under which [[osama-bin-laden|Osama bin Laden]] was recruited and equipped, and held that when bin Laden formed the group in 1988 he named it after the CIA base at which its fighters had trained.[7] The same commentary noted that [[benjamin-netanyahu|Benjamin Netanyahu]]'s 2002 congressional testimony claiming Al Qaeda used Iraq as a base was false — [[saddam-hussein|Saddam Hussein]] had in fact kept the group out — and that Iraq became a haven for Al Qaeda and ISIS only after U.S. forces took Baghdad on April 9, 2003.[7]
 
+## Origins
+
+Al-Qaeda was formed in 1988; before its founding, [[osama-bin-laden|Osama bin Laden]] ran a precursor organization called [[maktab-al-khidamat|Maktab al-Khidamat]] (MAK), which according to investigative reporter Joseph Trento received [[central-intelligence-agency|CIA]] money because it was recruiting young Muslim men to join the jihad in Afghanistan.8 The term "Al Qaeda" itself only came into popular use long after the [[mujahideen]] label had served as the Western media's catch-all for Afghan guerrilla factions.8
+
+Badlands Media's account of [[operation-cyclone|Operation Cyclone]] holds that bin Laden's divisions were trained, armed and funded by the CIA with Pakistan's [[inter-services-intelligence|ISI]] acting as middleman, and that the Egyptian double agent [[ali-mohamed|Ali Mohamed]] — called "bin Laden's first trainer" by FBI agent Jack Cloonan — trained both bin Laden and Ayman al-Zawahiri, the organization's future leaders.8 On the night of [[september-11-attacks|September 11, 2001]], CIA Director [[george-tenet|George Tenet]] told President [[george-w-bush|George W. Bush]] at 9:30 PM that the agency's Counterterrorism Center had determined bin Laden and al-Qaeda were responsible — hours after Israeli official [[ehud-barak|Ehud Barak]] had already publicly attributed the attacks to "a kind of bin Laden organization."8
+
 ## References
 1. Badlands Brief — "A Conflict of Interest", URL: https://badlands.substack.com/p/a-conflict-of-interest
 2. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
@@ -59,3 +65,5 @@ Badlands' July 2024 commentary asserted that both Al Qaeda and [[isis|ISIS]] are
 5. Badlands Brief — "Damascus Has Fallen ... Cui Bono?", URL: https://badlands.substack.com/p/badlands-news-brief-7a5
 6. Badlands Brief — "Last Chance at WW3 as the MAGAvengers Assemble", URL: https://badlands.substack.com/p/badlands-news-brief-dae
 7. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44
+
+8. Badlands Brief — "Operation Cyclone - The Seeds of Terror", URL: https://badlands.substack.com/p/operation-cyclone-the-seeds-of-terror

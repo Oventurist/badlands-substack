@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [uranium, russia, clinton-foundation, corruption, qanon]
-sources: [raw/america-for-sale-part-3.md, raw/badlands-news-brief-49a.md, raw/disinformation-is-necessary.md, raw/everything-is-connected.md, raw/irregular-warfare.md]
+sources: [raw/america-for-sale-part-3.md, raw/badlands-news-brief-49a.md, raw/disinformation-is-necessary.md, raw/everything-is-connected.md, raw/irregular-warfare.md, raw/q-for-dummies-chapter-6.md]
 confidence: medium
 ---
 
@@ -57,9 +57,18 @@ The Hill's reporting quoted in the article notes that the evidence accumulated w
 In this account the [[russiagate-hoax|Russian collusion]] investigation was itself the cover-up for Uranium One, serving both to remove [[donald-trump|Trump]] from office and to gather and shield the underlying evidence from disclosure.[5] Q drop 3473 (July 24, 2019) links "[MUELLER]" directly to "U1."[5]
 
 
+## Treatment in "Q for Dummies" Chapter 6
+
+Badlands' "[[q-for-dummies|Q for Dummies]]" Chapter 6 devotes much of its discussion of drops #46, #48 and #50 (all November 2, 2017) to the deal.[6] It argues that the [[barack-obama|Obama administration]] made specific public claims that it would not permit the export of American uranium, while the Uranium One transaction allowed exactly that, with yellowcake uranium — the material needed for nuclear weapons — reaching [[russia|Russia]] and [[iran|Iran]].[6] The chapter characterises this as the administration knowingly lying to the public and then allowing foreign adversaries to acquire a key component of nuclear weapons.[6]
+
+The chapter reads drop #46 as indicating that the public had been given only a selected taste of the truth about the scandal, that those now in control possess the full evidence from multiple sources, and that the [[deep-state|Deep State]] no longer controls that information.[6] Drop #48 is read as saying that the source of the Uranium One information holds [[q-clearance|Q Clearance]] — the [[department-of-energy|Department of Energy]]'s highest classification level — but does not work within the DOE, implying a person with very high clearance across multiple agencies, with Admiral [[mike-rogers|Mike Rogers]] and the President himself offered as candidates.[6]
+
+On Russia, the chapter argues Democrats habitually cast Russia as the enemy so that any Russian disclosure of Democratic wrongdoing can be dismissed as propaganda, and that Obama's "reset" of relations with Russia was specifically intended to ease uranium exports.[6] [[justin-trudeau|Justin Trudeau]] is said to be alluded to without being named, on the grounds that Canada played a vital role in the transaction.[6] Drop #50 is read as asking how Iran and [[north-korea|North Korea]] both procured uranium, with the answer being the Uranium One deal, and as implying that the Iran hostage exchange was a cover for cash payments connected to the scandal and possibly to promises made to Iran and the [[muslim-brotherhood|Muslim Brotherhood]] that could not be kept after [[hillary-clinton|Hillary Clinton]] lost the election.[6] The chapter also links the deal to the drop #49 account of secret meetings involving Senator [[chuck-grassley|Chuck Grassley]] and a Uranium One informant.[6]
+
 ## References
 1. Badlands Brief — "America for Sale - Part 3", URL: https://badlands.substack.com/p/america-for-sale-part-3
 2. Badlands Brief — "Badlands News Brief: FOX Trots, Montana Maintains & Congress Convenes", URL: https://badlands.substack.com/p/badlands-news-brief-49a
 3. Badlands Brief — "Disinformation is Necessary", URL: https://badlands.substack.com/p/disinformation-is-necessary
 4. Badlands Brief — "Everything Is Connected", URL: https://badlands.substack.com/p/everything-is-connected
 5. Badlands Brief — "Irregular Warfare", URL: https://badlands.substack.com/p/irregular-warfare
+6. Badlands Brief — "Q for Dummies - Chapter 6", URL: https://badlands.substack.com/p/q-for-dummies-chapter-6

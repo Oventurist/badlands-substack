@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [pakistan, isi, regime-change, nuclear, geopolitics]
-sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-625.md, raw/badlands-brief-707.md, raw/badlands-brief-9ea.md, raw/badlands-brief-bb1.md, raw/everything-is-connected.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-625.md, raw/badlands-brief-707.md, raw/badlands-brief-9ea.md, raw/badlands-brief-bb1.md, raw/everything-is-connected.md, raw/operation-cyclone-the-seeds-of-terror.md]
 confidence: medium
 ---
 
@@ -47,6 +47,12 @@ During the June 2026 Iran–Israel de-escalation, Tehran's foreign ministry and 
 
 Badlands contributor Joe Lange writes that Pakistan was not merely a safe haven for terrorists and for heroin trafficking out of [[afghanistan|Afghanistan]], but also a safe haven for nuclear proliferation around the world, and that all of it was a purposeful [[central-intelligence-agency|CIA]] operation.[6] He places Pakistan at the center of nuclear proliferation while it simultaneously protected the agency's terrorist networks and narcotics operations, and treats it as the template for understanding [[armenia|Armenia]], whose proliferation activity the media ignored in the same way it ignored Pakistan's.[6] Rogue nuclear states, in this framing, exist to provide protection for the CIA's proxy terror and drug networks.[6]
 
+## Operation Cyclone
+
+Pakistan was the indispensable channel for American and Saudi support to the Afghan [[mujahideen]] during [[operation-cyclone|Operation Cyclone]].7 The program originated in the late 1970s when Pakistani intelligence officials privately lobbied the United States and its allies to send material and financial assistance to the Afghan resistance.7
+
+The decision to route U.S. aid through Pakistan's [[inter-services-intelligence|ISI]] led to massive misappropriation of funds, with many weapons ending up sold in markets in Karachi rather than delivered to Afghan rebels; Karachi soon "became one of the most violent cities in the world."7 Of the seven mujahideen groups supported by the Pakistani government, the four espousing Islamic fundamentalist beliefs received most of the funding, weapons and training, and those factions later formed the [[taliban]].7 Refugee camps along the Pakistani border, sustained by millions in U.S. aid, became the setting for the radicalization campaign conducted by Saudi-sent clerics including [[osama-bin-laden|Osama bin Laden]].7
+
 ## References
 
 1. Badlands Brief — "And Iran, Iran So Far Away", URL: https://badlands.substack.com/p/and-iran-iran-so-far-away
@@ -55,3 +61,4 @@ Badlands contributor Joe Lange writes that Pakistan was not merely a safe haven 
 4. Badlands Brief — "A Politician is Swallowelled Whole as the Middle East Realigns in Real Time", URL: https://badlands.substack.com/p/badlands-brief-9ea
 5. Badlands Brief — "Peaceful Retaliations, Futuristic Fusions and Based Puritans", URL: https://badlands.substack.com/p/badlands-brief-bb1
 6. Badlands Brief — "Everything Is Connected", URL: https://badlands.substack.com/p/everything-is-connected
+7. Badlands Brief — "Operation Cyclone - The Seeds of Terror", URL: https://badlands.substack.com/p/operation-cyclone-the-seeds-of-terror

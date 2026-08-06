@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [law, executive-power, trump, courts]
-sources: [raw/badlands-news-brief-092.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-484.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-528.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-a66.md, raw/badlands-news-brief-bad.md]
+sources: [raw/badlands-news-brief-092.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-484.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-528.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-a66.md, raw/badlands-news-brief-bad.md, raw/q-for-dummies-chapter-15.md]
 confidence: medium
 ---
 
@@ -89,3 +89,9 @@ Reporting on the argument concluded that the already-slim likelihood of a crimin
 8. Badlands Brief — "Trumpian Rug Pulls, Biden Whispers & NATO Panic", URL: https://badlands.substack.com/p/badlands-news-brief-6c4
 9. Badlands Brief — "The President of Precedent & a Trapped Economy", URL: https://badlands.substack.com/p/badlands-news-brief-a66
 10. Badlands Brief — "Badlands News Brief: Trump Immunity, FED Panic & #MeToo Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-bad
+
+## Framing in Q for Dummies Chapter 15
+
+Writing in July 2024, the author of Chapter 15 of the [[q-for-dummies|Q for Dummies]] series listed the Supreme Court's presidential immunity ruling alongside the reversal of [[chevron-deference|Chevron deference]] as "monumental" decisions that struck a major blow to the [[deep-state|deep state]], and argued that the pair of rulings — combined with the fallout from the June presidential debate — had left the establishment in "full blown panic mode."[11]
+
+11. Badlands Brief — "Q for Dummies - Chapter 15", URL: https://badlands.substack.com/p/q-for-dummies-chapter-15

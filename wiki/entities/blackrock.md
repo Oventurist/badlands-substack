@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, asset-management, media-ownership]
-sources: [raw/a-swan-song-for-the-msm.md, raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-c74.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-f4c.md, raw/blackrock-inc-and-the-vanguard-group.md, raw/dont-bring-shiny-rocks-to-digital.md, raw/get-woke-go-broke.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-c74.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-f4c.md, raw/blackrock-inc-and-the-vanguard-group.md, raw/dont-bring-shiny-rocks-to-digital.md, raw/get-woke-go-broke.md, raw/no-honor-among-thieves.md, raw/open-borders-finally-make-sense.md]
 confidence: medium
 ---
 
@@ -92,3 +92,23 @@ An April 2023 Badlands Media essay on the hazards of [[artificial-intelligence|a
 
 11. Badlands Brief — "Don't Bring Shiny Rocks to Digital Gunfights", URL: https://badlands.substack.com/p/dont-bring-shiny-rocks-to-digital
 12. Badlands Brief — "Get Woke, Go Broke", URL: https://badlands.substack.com/p/get-woke-go-broke
+
+## Saba Capital's 2024 closed-end fund challenge
+
+In 2024 the hedge fund [[saba-capital|Saba Capital]], run by [[boaz-weinstein|Boaz Weinstein]], moved to replace the boards of directors of ten BlackRock [[closed-end-fund|closed-end funds]].[13] Weinstein's stated justification was that BlackRock had illegally constructed a situation in which incumbent directors could not realistically be challenged by shareholders.[13] The alleged mechanism was manipulation of [[shareholder-proxy-voting|shareholder proxy voting]]: BlackRock counted every non-vote as a vote in favour of its own recommendations, which — given that most shareholders never vote and those who do generally defer to management — meant no director was ever unseated.[13]
+
+For the board of BlackRock Capital Allocation Trust, Saba nominated [[shavar-jeffries|Shavar Jeffries]], [[jennifer-raab|Jennifer Raab]] and Lieutenant Colonel [[alexander-vindman|Alexander Vindman]].[13] Badlands contributor [[erik-carlson|Erik Carlson]] wrote that he had initially welcomed a challenge to a firm he considered "as Deep State as they come," but concluded after examining the slate that the campaign was a hostile takeover intended to "churn and burn" the funds — one [[deep-state|Deep State]] faction robbing another rather than genuine reform.[13]
+
+The same essay restated Carlson's earlier argument that BlackRock chief executive [[larry-fink|Larry Fink]] originated or at least enforces the [[diversity-equity-and-inclusion|DEI]] agenda, leaving American companies caught between exclusion from the portfolios of BlackRock, [[vanguard-group|Vanguard]] and [[state-street|State Street]] and the loss of customers alienated by woke policies.[13]
+
+13. Badlands Brief — "No Honor Among Thieves", URL: https://badlands.substack.com/p/no-honor-among-thieves
+
+## Residential home buying and the open-borders thesis (November 2024)
+
+In a November 12, 2024 essay, [[erik-carlson|Erik Carlson]] placed BlackRock at the centre of what he called a [[open-borders-ponzi-scheme-thesis|Deep State Ponzi scheme]] built on residential real estate.[14] Comparing national statistics — roughly six million homes sold in 2021 against four million in 2023, alongside a fall in mortgage originations from $4.51 trillion to $1.5 trillion over the same period — he concluded that cash buyers, principally large investment companies such as BlackRock, accounted for the majority of 2023 sales.[14]
+
+Carlson recounted that when he asked Google about BlackRock's purchases of residential homes, the search engine's AI told him the firm was not buying houses, and the first result returned was a BlackRock publication making the same denial; he compared trusting AI to trusting the mainstream media, on the grounds that "information is preselected" and "garbage in, garbage out."[14] He argued that buying at an all-time-high price only makes sense if the buyer has non-public knowledge, comparing the situation to [[nancy-pelosi|Nancy Pelosi]]'s trading record, and suggested BlackRock either was told in advance that interest rates would rise in 2022 or deduced it by running simulations on its [[aladdin|Aladdin]] supercomputer.[14]
+
+In his account the strategy required tenants: opening the borders to more than 20 million migrants, who would not compete for home purchases but would fill rental units, allowed rents to be raised on Americans priced out of ownership, with the government funding the tenants through taxpayer money.[14] He also relayed a claim that [[kamala-harris|Kamala Harris]] was controlled by BlackRock, noting her role as border czar.[14] Carlson concluded that a rapid removal of migrants under [[donald-trump|Donald Trump]], absent fast interest-rate cuts, would leave BlackRock and similar "monolithic asset collectors" holding vacant properties at great risk of failure.[14]
+
+14. Badlands Brief — "Open Borders Finally Make Sense", URL: https://badlands.substack.com/p/open-borders-finally-make-sense

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [think-tank, deep-state, foreign-policy]
-sources: [raw/and-iran-iran-so-far-away.md, raw/brics-vs-the-wef.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/brics-vs-the-wef.md, raw/operation-cyclone-the-seeds-of-terror.md]
 confidence: low
 ---
 
@@ -20,7 +20,12 @@ A September 2024 analysis by [[matthew-ehret|Matthew Ehret]] describes Trilatera
 
 Ehret identifies [[james-schlesinger|James Schlesinger]] as "an important Trilateral Commission ideologue" who moved from the directorship of the CIA in 1973 to the Department of Defense and then the Department of Energy, where he oversaw the cancellation of nearly all nuclear projects planned for the 1980s.[2] The same account holds that the Commission imposed a development trap on China beginning in the 1970s, from which China broke free by banning [[george-soros|George Soros]] and his operatives starting in 1989.[2]
 
+## Founding and Cold War role
+
+Badlands Media's account of [[operation-cyclone|Operation Cyclone]] states that the Trilateral Commission was founded by [[zbigniew-brzezinski|Zbigniew Brzezinski]] and [[david-rockefeller|David Rockefeller]] with the blessing of the [[bilderberg]] Group, as a body created to coordinate imperialist strategy between Washington, Western Europe and Japan.3 Its membership has included a range of household names, from Antony Blinken to Jeffrey Epstein.3 The late author Jim Marrs wrote that President [[jimmy-carter|Jimmy Carter]]'s administration "was so filled with members of the Trilateral Commission that conspiracy researchers had a field day. Even the Establishment media began to talk."3
+
 ## References
 
 1. Badlands Brief — "And Iran, Iran So Far Away", URL: https://badlands.substack.com/p/and-iran-iran-so-far-away
 2. Badlands Brief — "BRICS vs. The WEF", URL: https://badlands.substack.com/p/brics-vs-the-wef
+3. Badlands Brief — "Operation Cyclone - The Seeds of Terror", URL: https://badlands.substack.com/p/operation-cyclone-the-seeds-of-terror

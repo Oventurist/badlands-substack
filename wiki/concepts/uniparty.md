@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [congress, politics, uniparty]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-blitz-episode-23.md, raw/badlands-brief-165.md, raw/badlands-brief-1ae.md, raw/badlands-brief-58d.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-a57.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-d6a.md, raw/believe-half-of-what-you-see.md, raw/bernie-sanders-establishment-tool.md, raw/fake-news-until-proven-real.md, raw/from-ye-to-oy-vey.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-blitz-episode-23.md, raw/badlands-brief-165.md, raw/badlands-brief-1ae.md, raw/badlands-brief-58d.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-a57.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-d6a.md, raw/believe-half-of-what-you-see.md, raw/bernie-sanders-establishment-tool.md, raw/fake-news-until-proven-real.md, raw/from-ye-to-oy-vey.md, raw/nikki-haley-establishment-gops-last.md]
 confidence: medium
 ---
 
@@ -119,3 +119,9 @@ Writing in May 2024, [[erik-carlson|Erik Carlson]] argued that the Uniparty is "
 
 He cited the Uniparty's banning of [[tiktok|TikTok]] as an example of the coalition simultaneously courting and infuriating young voters whom the [[biden-administration|Biden Administration]] needed in the 2024 election.[16]
 17. Badlands Brief — "From Ye to Oy Vey!", URL: https://badlands.substack.com/p/from-ye-to-oy-vey
+
+## The 2024 restoration attempt
+
+[[ryan-delarme|Ryan DeLarme]] framed the promotion of [[nikki-haley|Nikki Haley]] in late 2023 as an attempt to restore the traditional election model in which the establishment controlled both general-election candidates, offering voters "the illusion of a choice between two uniparty stooges."[18] He identified the [[barack-obama|Obama]] versus [[mitt-romney|Romney]] race of 2012 as the last such contest before [[donald-trump|Donald Trump]] — who in his account owed no allegiance to the entrenched political network — disrupted the pattern in 2016 and 2020.[18] DeLarme argued that while the [[deep-state|deep state]] retains tools such as ballot removal and election rigging, it would far prefer a [[joe-biden|Biden]] versus Haley matchup that guarantees an establishment outcome either way.[18]
+
+18. Badlands Brief — "Nikki Haley: The Establishment GOP's Last Hope", URL: https://badlands.substack.com/p/nikki-haley-establishment-gops-last

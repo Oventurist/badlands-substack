@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, broadcasting, show]
-sources: [raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule.md, raw/badlands-media-weekly-show-schedule.md, raw/badlands-media-show-schedule-e18.md]
+sources: [raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule.md, raw/badlands-media-weekly-show-schedule.md, raw/badlands-media-show-schedule-e18.md, raw/oppenheimer-and-the-central-narrative.md]
 confidence: medium
 ---
 
@@ -18,8 +18,13 @@ The week of December 5–11, 2022 — the “Badlands Media Weekly Show Schedule
 
 A second Badlands Media schedule post, published January 3, 2023 to open the 2023 broadcast year, carried the same listing and description, and reiterated that all network shows air live on the Patel Patriot Rumble channel with replays archived on the Badlands Media library channel.[4]
 
+## Referenced in Ashe's *Oppenheimer* review
+
+In her July 2023 review of Christopher Nolan's *Oppenheimer*, [[ashe-in-america|Ashe in America]] described preparing for an episode of *Raising a Nation* and finding *The Saturday Evening Post*'s explainer on artificial intelligence, a normie-targeted account of the coming AI apocalypse that she forwarded to co-host Kate as a potential discussion topic.[5] The exchange became the starting point for her argument that the [[nuclear-arms-race|nuclear arms race]] is the governing metaphor in the [[artificial-intelligence|AI]] debate.[5]
+
 ## References
 1. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-78b
 2. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule
 3. Badlands Media — "Badlands Media Weekly Show Schedule", URL: https://badlands.substack.com/p/badlands-media-weekly-show-schedule
 4. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-e18
+5. Badlands Brief — "'Oppenheimer' & The Central Narrative", URL: https://badlands.substack.com/p/oppenheimer-and-the-central-narrative

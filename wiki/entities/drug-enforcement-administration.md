@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [drug-policy, federal-agency, marijuana]
-sources: [raw/badlands-brief-0fb.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-aed.md]
+sources: [raw/badlands-brief-0fb.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-aed.md, raw/panic-in-dc.md]
 confidence: medium
 ---
 
@@ -41,3 +41,11 @@ When [[donald-trump|Donald Trump]] announced on October 29, 2024 that his admini
 3. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
 4. Badlands Brief — "Badlands News Brief: Rug Pulled Reputations, Insubordination, & the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-a65
 5. Badlands Brief — "Badlands News Brief: The Garbage Man Cometh to Take out the Trash", URL: https://badlands.substack.com/p/badlands-news-brief-aed
+
+## Hezbollah investigations
+
+"Panic in DC" recounts the DEA's decade-long pursuit of [[hezbollah|Hezbollah]]'s narcotics and money-laundering networks.[6] The agency stumbled onto the group's drug activity by chance in 2006, when Colombian wiretaps monitoring the Medellín-based Oficina del Envigado — targeted since 2004 under Operation Titan — picked up conversations in Arabic; a translator brought in by the DEA determined that Hezbollah was arranging multi-ton cocaine shipments to the Middle East.[6] This opened what the article calls a Pandora's box and led to [[project-cassandra|Project Cassandra]], launched in 2007–2008.[6]
+
+Agents worked from a top-secret DEA facility in Chantilly, Virginia, using wiretaps, undercover operations and informants with the help of some thirty U.S. and foreign security agencies, mapping cocaine routes from Latin America to West Africa, Europe and the Middle East, and through Venezuela and Mexico into the United States.[6] They traced laundering conducted by buying American used cars and shipping them to Africa, and connected the conspiracy to Hezbollah's inner circle and its state sponsors in [[iran|Iran]].[6] The largest network encountered was that of [[ayman-joumaa|Ayman Joumaa]], which worked with the [[los-zetas|Los Zetas]] cartel and washed roughly $200 million a month through about 300 used-car dealerships.[6] A former DEA official quoted in a Begin-Sadat Center study described Hezbollah as "the Gambinos on steroids."[6] The article alleges that the [[barack-obama|Obama]] administration erected roadblocks as the investigation reached higher into the hierarchy.[6]
+
+6. Badlands Brief — "Panic in DC", URL: https://badlands.substack.com/p/panic-in-dc

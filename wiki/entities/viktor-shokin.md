@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ukraine, prosecutor, corruption, biden-family, burisma]
-sources: [raw/badlands-news-brief-670.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-da5.md]
+sources: [raw/badlands-news-brief-670.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-da5.md, raw/quid-pro-joe.md]
 confidence: medium
 ---
 
@@ -44,3 +44,8 @@ In August 2023 Shokin spoke publicly for the first time since 2019, telling Fox 
 [[devon-archer|Devon Archer]]'s July 31, 2023 testimony to the [[house-committee-on-oversight-and-accountability|House Oversight and Accountability Committee]] described [[burisma|Burisma]] pressuring the Bidens to have Shokin removed before then-Vice President [[joe-biden|Joe Biden]] acted, according to lawmakers familiar with the transcribed interview.[4] Badlands contributor [[ashe-in-america|Ashe in America]] paired that testimony with Biden's own account, delivered at a 2018 [[council-on-foreign-relations|Council on Foreign Relations]] event, of threatening Ukrainian President [[petro-poroshenko|Petro Poroshenko]] in March 2016 with the loss of $1 billion in U.S. loan guarantees unless Shokin was fired within six hours - "Well, son of a bitch, he got fired."[4] She argued the testimony undercut the claim that the ouster was disinterested foreign policy, and that CNN's fact check asserting Shokin was not investigating Burisma had debunked itself.[4]
 
 4. Badlands News Brief — "Archer Spills, Musk Targets & Fauci Squirms", URL: https://badlands.substack.com/p/badlands-news-brief-da5
+5. Badlands Brief — "Quid Pro Joe", URL: https://badlands.substack.com/p/quid-pro-joe
+
+## The Blue Star lobbying campaign
+
+Shokin's investigation of [[mykola-zlochevsky|Mykola Zlochevsky]] for corruption was the trigger for [[burisma|Burisma]]'s late-2015 engagement of the consultancy [[blue-star-strategies|Blue Star Strategies]], according to emails from [[hunter-biden-laptop|Hunter Biden's abandoned laptop]].[5] Burisma executive [[vadym-pozharskyi|Vadym Pozharskyi]] wrote that the contract's "ultimate purpose" was to bring influential current and former US policy-makers to Ukraine to press Ukraine's president, chief of staff and prosecutor general and "close down for any cases/pursuits against Nikolay in Ukraine."[5] Weeks later Blue Star joined a White House conference call about Vice President [[joe-biden|Joe Biden]]'s December 2015 Kyiv trip, during which Biden threatened to withhold $1 billion in loan guarantees unless Shokin was fired.[5]

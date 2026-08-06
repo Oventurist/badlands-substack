@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [nazi-germany, genetics, history, world-war-ii]
-sources: [raw/badlands-news-brief-066.md]
+sources: [raw/badlands-news-brief-066.md, raw/operation-gladio-a-primer.md]
 confidence: medium
 ---
 
@@ -22,6 +22,13 @@ The most striking reported finding was a mutation on the gene PROK2.[1] Variants
 
 Writing in the [[badlands-news-brief|Badlands News Brief]], [[ashe-in-america|Ashe in America]] framed the finding sardonically as four years of scientific research culminating in the "Prussian Micropenis" becoming "a matter of trusting the science."[1] She also flagged a broader pattern, noting that an unusual volume of Nazi-invoking news items appeared that weekend — including a cancelled German auction of concentration camp artefacts — and suggested that media reminders that "Nazis are bad" typically precede an attempt to label a contemporary political figure a Nazi.[1] A parallel commentary from [[chris-paul|Chris Paul]] on the antifascist-designation story argued that a planned "Weimar phase" of American politics was meant to set up blaming a Nazi narrative on nationalists, populists, and Christians.[1]
 
+## Role in the stay-behind networks
+
+Colonel [[roxane-watkins|Roxane Watkins]] writes that Hitler instituted [[stay-behind-units|stay-behind units]] throughout every territory the Axis powers conquered, mirroring the concept [[winston-churchill|Winston Churchill]] was establishing in the United Kingdom.[2] He used intelligence officers including General [[reinhard-gehlen|Reinhard Gehlen]] and General [[karl-wolff|Karl Wolff]] to build the network of [[werewolf-units|werewolf units]], and relied on SS officer [[otto-skorzeny|Otto Skorzeny]] — with whom he had a special, close relationship — for training and for high-profile missions such as the rescue of [[benito-mussolini|Mussolini]].[2] Watkins alludes to communications between Hitler and Churchill conducted through cut-outs, pointing readers to the Mitford sisters for further research.[2]
+
+In her account of the [[fabian-society|Fabian Society]], Watkins presents Hitler as one of the figures through whom the elite broadcast and test-drove favoured models of government, and cites [[antony-sutton|Antony Sutton]]'s finding that the same financial group funded the Bolshevik revolution, Hitler and [[franklin-d-roosevelt|Franklin D. Roosevelt]].[2]
+
 ## References
 
 1. Badlands Brief — "Amplified Antagonism, Phantom Palestinians, & Hitler's Micropenis", URL: https://badlands.substack.com/p/badlands-news-brief-066
+2. Badlands Brief — "Operation Gladio - A Primer", URL: https://badlands.substack.com/p/operation-gladio-a-primer

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [immigration, labor, h-1b, guest-workers, america-first]
-sources: [raw/badlands-brief-0bd.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-09b.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-9cd.md, raw/badlands-news-brief-dcb.md]
+sources: [raw/badlands-brief-0bd.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-09b.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-9cd.md, raw/badlands-news-brief-dcb.md, raw/on-golden-bridges-and-the-art-of.md]
 confidence: medium
 ---
 
@@ -59,4 +59,12 @@ On Sunday, December 29, 2024, in what Breitbart described as a surprising revers
 Badlands commentary framed the episode as an operation observed in real time, arguing that Trump's tariffs enforce game theory at the manufacturing level and that the same logic should and would be applied to employment: firms unable to survive by hiring and training Americans should relocate abroad, though tech companies given the choice would choose the United States every time.[6] The commentary held that when oligarchs speak of a skill gap they mean skill per dollar — profits — counting on foreign workers to undercut Americans while remitting earnings abroad, and that the remedy is "mutually assured sovereign game theory" incentivizing each nation to produce from within.[6] Being America First, the piece concluded, means being American first.[6]
 
 A related report that [[susie-wiles|Susie Wiles]] had ordered all intended nominees to stop posting on social media was read as a signal that Trump did not share Musk's enthusiasm for the program.[6]
+
+## "Golden bridge" interpretation
+
+In a January 28, 2025 Badlands Media feature, the pseudonymous contributor [[american-hypnotist|American Hypnotist]] argued that Musk's late-December 2024 defence of the H-1B program was a scripted role rather than a sincere position, noting that because Musk had personally benefited from the program he was ideally placed to play the part of an "advocate."[7] The author contended that Musk and Trump could not plausibly have been unaware that such posts would enrage millions of Americans, and inferred a deliberate agenda whose finer details were obscured by its method of deployment.[7] On this reading the episode was an application of the [[golden-bridge-strategy|golden bridge]] maxim from Sun Tzu, intended to make immigration less popular among Western publics and to advance the [[great-awakening|Great Awakening]] by making the disenfranchisement of citizens undeniable.[7]
+
+The article claimed that awareness of H-1B fraud rose significantly after the controversy began, citing an unnamed X user who said the visas "were nowhere near to the top of my mind until I realized the government and the media were gaslighting us about them," and referring to a post the author had seen indicating that 80–90 per cent of X conversation on the subject was against the program, let alone its expansion.[7] The author also disputed the premise of a domestic skills shortage, arguing that there is more than enough talent among American citizens to fill supposed gaps in the technology sector and that such gaps exist because of citizen disenfranchisement rather than a lack of available talent.[7]
+
 6. Badlands Brief — "Badlands News Brief: AI Energy Solutions & Turning Water Into White Gold", URL: https://badlands.substack.com/p/badlands-news-brief-dcb
+7. Badlands Brief — "On Golden Bridges and the Art of War", URL: https://badlands.substack.com/p/on-golden-bridges-and-the-art-of

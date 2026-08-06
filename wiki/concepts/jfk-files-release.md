@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [declassification, jfk, transparency, executive-order]
-sources: [raw/badlands-news-brief-298.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-b0d.md, raw/badlands-news-brief-fe4.md]
+sources: [raw/badlands-news-brief-298.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-b0d.md, raw/badlands-news-brief-fe4.md, raw/on-infiltration-and-israel.md]
 confidence: medium
 ---
 
@@ -74,6 +74,10 @@ Weeks before the March tranche, the [[fbi|FBI]] disclosed that it had discovered
 
 [[badlands-media|Badlands Media]] contributor [[paul-fleuret|Paul Fleuret]] described the JFK files as the topic that first drew him into the research community and expressed "cautious optimism" about the release, noting that [[kash-patel|Kash Patel]] and Ezra Watnick had both counseled the public not to expect much beyond what was already known.[7] He observed that it is "one of the worst kept secrets in history" that the [[central-intelligence-agency|CIA]] withheld files from the [[warren-commission|Warren Commission]] and the public, and that many researchers — himself included — had assumed those missing files were long since destroyed.[7] That the material apparently survived, and surfaced "as the rot is being ripped away from DC," led him to conclude that Patel and Watnick may have been offering "a bit of a head-fake" and that his optimism about the truth finally emerging had "risen significantly."[7]
 
+## Cited as evidence against the "Trump is Israel's puppet" claim
+
+The May 2025 Badlands essay "On Infiltration and Israel" argued that the recently released JFK files did not redact the portions implicating [[israel|Israel]] in crimes against the United States, and that citizen journalists consequently have access to key information against Israel that no other administration would have released.[8] The author treated this as a simple fact sufficient to throw into question the idea that [[donald-trump|Donald Trump]] is an Israeli puppet.[8]
+
 ## References
 1. Badlands News Brief — "Pirated Pardons & Delayed Declassifications", URL: https://badlands.substack.com/p/badlands-news-brief-298
 2. Badlands Brief — "Badlands News Brief: Bengaluru Raids, Bitcoin Bangers, & A Buddhist Execution", URL: https://badlands.substack.com/p/badlands-news-brief-2dc
@@ -82,3 +86,4 @@ Weeks before the March tranche, the [[fbi|FBI]] disclosed that it had discovered
 5. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72
 6. Badlands Brief — "Badlands News Brief: Unexpected Allies, Rogue Judges, & Stacked Envoys", URL: https://badlands.substack.com/p/badlands-news-brief-b0d
 7. Badlands Brief — "Badlands News Brief: International Dealmaking & Collectible Pennies", URL: https://badlands.substack.com/p/badlands-news-brief-fe4
+8. Badlands Brief — "On Infiltration and Israel", URL: https://badlands.substack.com/p/on-infiltration-and-israel

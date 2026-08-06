@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [cbdc, digital-currency, blockchain, monetary-policy, federal-reserve]
-sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-we-entering-the-millennial-reign.md, raw/badlands-brief-579.md, raw/badlands-news-brief-2b8.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-f4c.md, raw/badlands-news-brief-fbc.md, raw/badlands-news-brief-fcb.md, raw/dark-equation.md]
+sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-we-entering-the-millennial-reign.md, raw/badlands-brief-579.md, raw/badlands-news-brief-2b8.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-f4c.md, raw/badlands-news-brief-fbc.md, raw/badlands-news-brief-fcb.md, raw/dark-equation.md, raw/one-of-the-most-transformative-moments.md, raw/project-trump-card.md]
 confidence: medium
 ---
 
@@ -87,3 +87,17 @@ In "Dark Equation," [[ryan-delarme|Ryan DeLarme]] described the Davos crowd as o
 DeLarme characterized Worldcoin as a repackaging of [[great-reset|Great Reset]] and [[fourth-industrial-revolution|fourth industrial revolution]] rhetoric, and as part of a push by the United Nations, the [[world-economic-forum|World Economic Forum]] and a growing number of governments toward a global biometric identification system attached to a central bank digital currency controlled by "the generations-old money lender class."[9] He explicitly declined to argue that all CBDCs or cryptocurrencies are inherently bad, stating instead that the involvement of the [[bilderberg|Bilderberg Group]], Silicon Valley and the World Economic Forum is the cause for concern: "It's not necessarily the tool that is the problem; it is allowing the same international cabal of ruthless failures to be in charge of how it's used."[9]
 
 9. Badlands Brief — "Dark Equation", URL: https://badlands.substack.com/p/dark-equation
+
+## FedNow as a first step (2023)
+
+Badlands contributor [[ashe-in-america|Ashe in America]] wrote in May 2023 that the Federal Reserve's [[fednow|FedNow]] instant payment service, then slated for a phased launch beginning in July 2023, was "the first step in the US towards a Central Bank Digital Currency."[10] She quoted the Fed's stated position that it had made no decision on whether to pursue a CBDC but was exploring the benefits and risks through technological research, with a focus on whether a CBDC could improve on the existing domestic payments system.[10] The article contrasted the US trajectory with [[el-salvador|El Salvador]]'s adoption of [[bitcoin|Bitcoin]] as legal tender, arguing that the United States could similarly unwind its financial system from the private central banks but that this was highly unlikely under the [[joe-biden|Biden]] administration.[10]
+
+10. Badlands Brief — "One of the Most Transformative Moments in Money Since Jekyll Island", URL: https://badlands.substack.com/p/one-of-the-most-transformative-moments
+
+## "CBDC = BAD" (December 2022)
+
+In "Project Trump Card," [[badlands-media|Badlands Media]] contributor [[kitty-gillespie|Kitty Gillespie]] set out the blunt formulation "CBDC = BAD," calling central bank digital currency a trap.[11] She quoted Investopedia's framing that CBDCs aim to provide privacy, transferability, convenience, accessibility and financial security while reducing cross-border transaction costs, and highlighted its accompanying note that a CBDC gives a central bank the means to implement monetary policy to control growth and influence inflation.[11]
+
+Against that framing she argued that the control such a system would grant "the cabal" over the world's population would be catastrophic: authorities could switch a person's currency on and off, cap their purchases, or restrict the geography in which money could be spent, destroying economic freedom worldwide.[11] Her proposed alternative was an asset-backed digital currency — gold- or silver-denominated — held in privately controlled [[digital-wallets|digital wallets]], which she believed had already been beta-tested with a small global group and would be secured by blockchain or quantum technology.[11] In this reading the [[trump-digital-trading-cards|Trump Digital Trading Cards]] served to normalize wallet ownership ahead of that transition, distinguishing the wallet technology itself from the CBDC model.[11]
+
+11. Badlands Brief — "Project Trump Card", URL: https://badlands.substack.com/p/project-trump-card

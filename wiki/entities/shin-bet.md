@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, intelligence, security-services]
-sources: [raw/badlands-news-brief-08a.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-889.md]
+sources: [raw/badlands-news-brief-08a.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-889.md, raw/operation-cyclone-the-seeds-of-terror.md]
 confidence: medium
 ---
 
@@ -38,8 +38,13 @@ The Shin Bet alerted the [[israel-defense-forces|IDF]] on the evening of August 
 
 The Shin Bet alerted the [[israel-defense-forces|IDF]] on the evening of August 15, 2024 that a group of Israelis travelling in vehicles was heading to the Yitzhar area to commit a "nationalistic crime," a warning that preceded the settler rampage in the West Bank village of Jit.[4] Badlands Media reported that the head of the Shin Bet, alongside Defense Minister [[yoav-gallant|Yoav Gallant]], subsequently criticized National Security Minister [[itamar-ben-gvir|Itamar Ben-Gvir]] for encouraging such attacks and for failing to deploy police to stop them or arrest those responsible.[4]
 
+## Isser Harel
+
+Badlands Media notes that [[isser-harel|Isser Harel]] was the founding director of both Shin Bet and [[mossad]], known as the "Father of Israeli Intelligence," and that he is said to have predicted in a 1980 interview that "Islamic terrorists" would one day attack the tallest building in New York.5 Harel is also identified as the figure behind the 1954 [[lavon-affair|Lavon Affair]].5
+
 ## References
 1. Badlands News Brief — "The Communist Ouroboros Accelerates", raw/badlands-news-brief-08a.md
 2. Badlands News Brief — "Pirated Pardons & Delayed Declassifications", URL: https://badlands.substack.com/p/badlands-news-brief-298
 3. Badlands News Brief — "SCOTUS Drama and (Altered) Deals Shake Up the Week", URL: https://badlands.substack.com/p/badlands-news-brief-4e1
 4. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889
+5. Badlands Brief — "Operation Cyclone - The Seeds of Terror", URL: https://badlands.substack.com/p/operation-cyclone-the-seeds-of-terror

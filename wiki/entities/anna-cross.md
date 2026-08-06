@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [georgia, fulton-county, fani-willis, disqualification-hearing]
-sources: [raw/badlands-news-brief-ea1.md]
+sources: [raw/badlands-news-brief-ea1.md, raw/of-punishment-and-profit.md]
 confidence: medium
 ---
 
@@ -25,3 +25,10 @@ Commentators noted a significant risk in the tactic: by attacking her own side's
 ## References
 
 1. Badlands Brief — "Badlands News Brief: An Astonishing Fani, Angry Truckers & a Russian Ruse", URL: https://badlands.substack.com/p/badlands-news-brief-ea1
+2. Badlands Brief — "Of Punishment & Profit", URL: https://badlands.substack.com/p/of-punishment-and-profit
+
+## Billing and work product
+
+In March 2024 testimony before the [[georgia-senate-committee-on-special-investigations|Georgia Senate Committee on Special Investigations]], defense attorney [[ashleigh-merchant|Ashleigh Merchant]] described Cross as a former district attorney with extensive relevant experience who was paid $250 per hour and billed under $100,000 in total for the Fulton County case.[2] Merchant said that Cross and [[john-floyd|John Floyd]] prepared the pleadings in the case, while [[nathan-wade|Nathan Wade]] — paid at the same $250 hourly rate — billed over $700,000 despite never having prosecuted a felony before his appointment.[2] Notably, Cross and Floyd did not bill for the "team meetings" that Wade invoiced.[2]
+
+Merchant testified that expected work product existed corresponding to Cross's and Floyd's billings but that there was a severe lack of work product for Wade's, and that neither Cross nor Floyd still held contracts with [[fani-willis|Fani Willis]]'s office by that time.[2]

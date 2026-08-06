@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fbi, special-counsel, russiagate, obituary]
-sources: [raw/badlands-brief-7b5.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-b24.md, raw/disinformation-is-necessary.md, raw/do-you-believe-in-coincidences.md, raw/irregular-warfare.md]
+sources: [raw/badlands-brief-7b5.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-b24.md, raw/disinformation-is-necessary.md, raw/do-you-believe-in-coincidences.md, raw/irregular-warfare.md, raw/q-for-dummies-chapter-1.md, raw/q-for-dummies-chapter-11.md, raw/q-for-dummies-chapter-2.md]
 confidence: medium
 ---
 
@@ -67,6 +67,10 @@ The article stresses that Mueller was a Marine officer who fought in Vietnam, an
 
 Lange presents the Special Counsel appointment as serving two enemy purposes: removing Trump from office through impeachment pressure, and gathering the Uranium One and Obama-era evidence in order to shield it from public disclosure.[7] Quoting the Rush Limbaugh Show, he notes that Rosenstein never specified a predicate crime and gave Mueller "free rein," making the inquiry a fishing expedition; the conviction of [[paul-manafort|Paul Manafort]] concerned 2010–2014 tax evasion unrelated to Russia.[7] Q drop 3473 (July 24, 2019) labels Mueller a [BLOCKADE] and connects him to U1, the Epstein "bury & cover-up," and the "plot to remove duly elected POTUS."[7] Lange also notes that Mueller was among the officials represented in federal court by [[lisa-barsoomian|Lisa Barsoomian]] and R. Craig Lawrence.[7]
 
+## The 2017 FBI directorship meeting in the Q drops
+
+Drop #3 of the [[q-operation|Q]] drops, dated October 29, 2017, points to the fact that [[donald-trump|President Trump]] met with Mueller under the guise of interviewing him for the [[fbi|FBI]] Director position — a post Mueller could not lawfully have accepted, having already served the maximum term.[8] In Chapter 1 of [[q-for-dummies|Q for Dummies]], [[paul-fleuret|Paul Fleuret]] argues that this impossibility raises the question of what the two men actually met about.[8] He notes that Q makes many references to Mueller not being who the public is told he is, states his own belief that Mueller "is not a black hat," and concludes that time will tell.[8]
+
 ## References
 1. Badlands Brief — "Trump's Ultimatum to the Ayatollah, who is gay (allegedly)", URL: https://badlands.substack.com/p/badlands-brief-7b5
 2. Badlands News Brief — "Durham's Dance, Putin's Warning and Xi's Rebuke", URL: https://badlands.substack.com/p/badlands-news-brief-01d
@@ -75,3 +79,14 @@ Lange presents the Special Counsel appointment as serving two enemy purposes: re
 5. Badlands Brief — "Disinformation is Necessary", URL: https://badlands.substack.com/p/disinformation-is-necessary
 6. Badlands Brief — "Do You Believe in Coincidences?", URL: https://badlands.substack.com/p/do-you-believe-in-coincidences
 7. Badlands Brief — "Irregular Warfare", URL: https://badlands.substack.com/p/irregular-warfare
+8. Badlands Brief — "Q for Dummies - Chapter 1", URL: https://badlands.substack.com/p/q-for-dummies-chapter-1
+9. Badlands Media — "Q for Dummies - Chapter 11", URL: https://badlands.substack.com/p/q-for-dummies-chapter-11
+10. Badlands Brief — "Q for Dummies - Chapter 2", URL: https://badlands.substack.com/p/q-for-dummies-chapter-2
+
+## Q drop #89 and Haiti
+
+In drop #89 of November 5, 2017, Q asked who had been Director of the [[fbi|FBI]] during the Haiti crisis; Chapter 11 of the [[q-for-dummies|Q for Dummies]] series gives the answer as Mueller and follows it with the remark "who knows where the bodies are buried?"[9] The same drop stated that the FBI and Military Intelligence both had open investigations into the [[clinton-foundation|Clinton Foundation]].[9] The chapter reports the belief that upwards of $15 billion was routed to [[haiti|Haiti]] through the foundation with only a small fraction actually delivered, accompanied by dozens of reports of child abductions and trafficking in the same period.[9]
+
+## Q for Dummies Chapter 2
+
+Badlands' "Q for Dummies" Chapter 2 places Mueller among the figures the author believes were secretly working for the white hats, together with [[james-comey|James Comey]] and [[rod-rosenstein|Rod Rosenstein]].[10] It recalls that Q had already noted Mueller was a highly decorated Marine, and poses two leading questions to readers: what Mueller's middle name is, and how that relates to Q's recurring question "when does a bird sing?"[10] The chapter's second point is that the ultimate result of Mueller's investigation was to prove that [[russiagate-hoax|Russiagate]] was a hoax.[10]

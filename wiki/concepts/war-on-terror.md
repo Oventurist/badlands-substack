@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [fbi, informants, domestic-terrorism, security-state]
-sources: [raw/badlands-news-brief-07f.md, raw/badlands-news-brief-862.md, raw/hysteria-and-error.md]
+sources: [raw/badlands-news-brief-07f.md, raw/badlands-news-brief-862.md, raw/hysteria-and-error.md, raw/operation-cyclone-the-seeds-of-terror.md]
 confidence: medium
 ---
 
@@ -26,6 +26,12 @@ A May 2023 report by the [[costs-of-war-project|Costs of War Project]] at [[brow
 
 Badlands Media contributor [[burning-bright|Burning Bright]] used the figure to argue that the Truth Community risks losing the forest for the trees by focusing on narrative rather than actual consequences, citing the frequency with which the [[cia|CIA]] and U.S. intelligence agencies have dominated the media cycle — from alleged international sabotage operations and drip-fed disclosures about JFK and 9/11 to their alleged role in the [[russiagate-hoax|Russiagate hoax]] targeting [[donald-trump|Donald Trump]] and the suppression of the [[hunter-biden-laptop|Hunter Biden laptop]] story.[2] He concluded that the net effects of these clandestine moves against American sovereignty have "touched every man, woman and child on this earth," and that "justice is coming."[2]
 
+## Origins in Operation Cyclone
+
+Badlands Media presents [[operation-cyclone|Operation Cyclone]] as the bridge that the [[central-intelligence-agency|CIA]], the security state and the [[military-industrial-complex|Military-Industrial Complex]] used to move from endlessly fighting the Cold War to endlessly fighting the War on Terror.4 By the mid-1980s it was becoming clear the Cold War would not last forever, prompting the article's central question: whether the funding, training, arming and intentional radicalization of Afghan militants was part of an operation to create America's next great enemy.4
+
+The vocabulary of the War on Terror was itself reshaped during Cyclone, when [[benjamin-netanyahu|Benjamin Netanyahu]]'s 1986 book redefined [[terrorism]] as Islamic extremism against the West rather than state violence against a population.4 Within hours of the [[september-11-attacks|September 11 attacks]], Israeli official [[ehud-barak|Ehud Barak]] was already publicly advocating a "War on Terror" against "a kind of bin Laden Organization."4
+
 ## References
 1. Badlands News Brief — "Trump's Trial, Archer's Animus & BRICS' Battle", URL: https://badlands.substack.com/p/badlands-news-brief-07f
 2. Badlands Brief — "Badlands News Brief: Kari Counters, Elites Gather & Data Talks", URL: https://badlands.substack.com/p/badlands-news-brief-862
@@ -38,3 +44,4 @@ In "Hysteria and Error," Badlands Media contributor [[ryan-delarme|Ryan DeLarme]
 DeLarme wrote that watching conservative media in the week after the [[new-orleans-bourbon-street-attack|New Orleans]] and [[las-vegas-cybertruck-explosion|Las Vegas]] attacks felt like being transported back to 2002 at the height of terror hysteria, and that such attacks are valuable to those seeking militarism, war, or crackdowns on civil liberties because they steer consensus.[3] He drew parallels to the emotional management of Western audiences in the weeks after the invasion of Ukraine and following the October 7 attack in Israel, arguing the same technique was now being aimed at conservatives.[3]
 
 He contended that Islamist terror was itself a United States-sponsored creation, with [[al-qaeda|al-Qaeda]] and [[isis|ISIS]] emerging from intelligence-community grooming during the Soviet-Afghan war with Saudi and Pakistani support, a history he said figures in the movement should acknowledge rather than memory-hole — pointing to Badlands' own [[operation-cyclone|Operation Cyclone]] treatment of the subject.[3] Data he cited showed extremist Muslim plots trending toward nil in recent years, which he offered against the claim that Muslims lie in wait around every corner.[3]
+4. Badlands Brief — "Operation Cyclone - The Seeds of Terror", URL: https://badlands.substack.com/p/operation-cyclone-the-seeds-of-terror

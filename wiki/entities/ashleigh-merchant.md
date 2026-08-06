@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [law, georgia, defense-attorney, fani-willis, disqualification]
-sources: [raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-b35.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-ea1.md]
+sources: [raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-b35.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-ea1.md, raw/of-punishment-and-profit.md]
 confidence: high
 ---
 
@@ -41,3 +41,12 @@ When Willis's attorney [[anna-cross|Anna Cross]] then attempted to impeach Bradl
 2. Badlands Brief — "Badlands News Brief: Trump & Musk Meet as RINOs Run for the Hills", URL: https://badlands.substack.com/p/badlands-news-brief-b35
 3. Badlands Brief — "Hunter Hunted as Metrics Turn Sharply on Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-d8f
 4. Badlands Brief — "Badlands News Brief: An Astonishing Fani, Angry Truckers & a Russian Ruse", URL: https://badlands.substack.com/p/badlands-news-brief-ea1
+5. Badlands Brief — "Of Punishment & Profit", URL: https://badlands.substack.com/p/of-punishment-and-profit
+
+## Testimony before the Georgia Senate (March 6, 2024)
+
+On Wednesday, March 6, 2024, Merchant testified before the [[georgia-senate-committee-on-special-investigations|Georgia Senate Committee on Special Investigations]], producing extensive new detail about how the defense first became aware of the relationship between District Attorney [[fani-willis|Fani Willis]] and special prosecutor [[nathan-wade|Nathan Wade]].[5] Her account traced the disclosure to [[terrence-bradley|Terrence Bradley]], Wade's former law partner, who was upset by the way Wade had treated his wife [[joycelyn-wade|Joycelyn Wade]] — a stay-at-home mother of nearly thirty years whom Wade told to move out immediately after they dropped their youngest child off at college.[5] Merchant recalled Bradley saying, "I handle my business… I don't leave my wife without alimony."[5]
+
+Merchant's testimony was based largely on open records requests and her own investigation.[5] She laid out a financial chronology of Willis's September 2021 funding request, Wade's November 1, 2021 appointment, his fee-cap increase from $15,000 to $35,000 per month following the pair's Bahamas and Aruba trips, and his more than $700,000 in billings — contrasted with the far smaller totals billed by [[anna-cross|Anna Cross]] and [[john-floyd|John Floyd]], both of whom she said had demonstrable work product where Wade did not.[5]
+
+She additionally alleged that the District Attorney's office was obstructing her open records requests, that the county had stopped publishing Wade's payable checks after she filed her motion — a matter she pursued in a separate lawsuit — and that Bradley had been subjected to intimidation, including a call from Willis witnessed by [[cindi-lee-yeager|Cindi Lee Yeager]] and a call from attorney [[gabe-banks|Gabe Banks]].[5] Merchant testified that she left a family gathering to speak with a frightened Bradley after the Banks call.[5] She also characterized Willis's January 14, 2024 "church speech" as publicly condemning the accused before trial, and cited Willis's cooperation with the authors of [[find-me-the-votes|Find Me the Votes]] as further misconduct, noting Willis had been disqualified from prior cases for similar public statements.[5] The committee indicated it might recall Merchant to testify at a later date.[5]

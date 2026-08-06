@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [yemen, red-sea, iran-proxies, shipping]
-sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-53d.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-a89.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-bd6.md, raw/badlands-news-brief-d36.md, raw/badlands-news-brief-d5c.md, raw/badlands-news-brief-e37.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-f6f.md]
+sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-53d.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-a89.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-bd6.md, raw/badlands-news-brief-d36.md, raw/badlands-news-brief-d5c.md, raw/badlands-news-brief-e37.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-f6f.md, raw/q-for-dummies-chapter-10.md]
 confidence: medium
 ---
 
@@ -135,3 +135,9 @@ The decision followed dozens of Houthi attacks on commercial vessels, including 
 In May 2025 the Houthis continued launching ballistic missiles at Israel despite a ceasefire deal reached with the United States, prompting Senator [[lindsey-graham|Lindsey Graham]] to say he was "very sad and disappointed" that the attacks persisted after all the efforts to deal with the group.[19] Graham suggested that President [[donald-trump|Donald Trump]]'s desire to resolve conflicts quickly might not serve US interests and said he expected [[israel|Israel]] might act against Iran directly in response.[19] Badlands commentary argued that the Houthis would continue attacking Israel only so long as the IDF operated in Gaza, and that negotiating peace would end the strikes.[19]
 
 19. Badlands Brief — "Another Ardah, Optimus Prance, & the Right Deal Arms", URL: https://badlands.substack.com/p/badlands-news-brief-f6f
+
+## Riyadh missile interception of November 2017
+
+Chapter 10 of the [[q-for-dummies|Q for Dummies]] series identifies the "flying object" referenced in [[qanon|Q]] drop #73 of November 4, 2017 as a missile fired by Houthi rebels toward Riyadh and shot down shortly before the drop.[20] Q's follow-up question about the precision of non-civilian geo-tracking is read by the series as a hint tied to a later alleged attempt on [[air-force-one|Air Force One]], with the interception treated as part of the backdrop to the [[saudi-purge|Saudi purge]].[20]
+
+20. Badlands Brief — "Q for Dummies - Chapter 10", URL: https://badlands.substack.com/p/q-for-dummies-chapter-10

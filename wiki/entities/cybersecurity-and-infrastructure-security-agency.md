@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cisa, elections, election-security, dhs]
-sources: [raw/badlands-brief-707.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-c19.md]
+sources: [raw/badlands-brief-707.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-c19.md, raw/previously-sealed-report-on-dominion.md]
 confidence: medium
 ---
 
@@ -53,3 +53,8 @@ Senator [[rand-paul|Rand Paul]] of Kentucky told the Daily Caller News Foundatio
 5. Badlands News Brief — "Defiant Deportations & Canadian Freeloaders", URL: https://badlands.substack.com/p/badlands-news-brief-ae1
 6. Badlands Brief — "Badlands News Brief: Baltimore Fallout Continues as Nickelodeon Exposes Itself", URL: https://badlands.substack.com/p/badlands-news-brief-b60
 7. Badlands Brief — "Another Trump Trial Begins ... Regime Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-c19
+8. Badlands Brief — "Previously *SEALED* Report on Dominion Voting Machines in Georgia Shows Critical Vulnerabilities", URL: https://badlands.substack.com/p/previously-sealed-report-on-dominion
+
+## Role in the Georgia ImageCast X disclosure
+
+[[j-alex-halderman|Dr. J. Alex Halderman]]'s security report on Georgia's [[dominion-imagecast-x|Dominion ImageCast X]] [[ballot-marking-device|ballot marking devices]] was shared with CISA in June 2022, which allowed [[dominion-voting-systems|Dominion]] to update its software to "purportedly address at least some of the problems" identified.[8] Despite the responsible-disclosure process running through the agency, Halderman noted a year later that the flaws remained unpatched in Georgia, where the state had deferred deployment of the updated software until after the 2024 presidential election.[8]

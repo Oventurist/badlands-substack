@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [president, american-history, founding-fathers]
-sources: [raw/avoiding-wwiii.md, raw/badlands-brief-095.md, raw/badlands-news-brief-017.md, raw/donald-trump-and-george-washington.md, raw/kekistani-code-talkers.md]
+sources: [raw/avoiding-wwiii.md, raw/badlands-brief-095.md, raw/badlands-news-brief-017.md, raw/donald-trump-and-george-washington.md, raw/kekistani-code-talkers.md, raw/q-for-dummies-chapter-2.md]
 confidence: medium
 ---
 
@@ -49,3 +49,8 @@ As a general struggling to win a war with an army that was perpetually undermann
 3. Badlands Brief — "Badlands News Brief: Tracking Resignations, Scare Events & the Death of Taxes", URL: https://badlands.substack.com/p/badlands-news-brief-017
 4. Badlands Brief — "Donald Trump and George Washington", URL: https://badlands.substack.com/p/donald-trump-and-george-washington
 5. Badlands Brief — "Kekistani Code Talkers", URL: https://badlands.substack.com/p/kekistani-code-talkers
+6. Badlands Brief — "Q for Dummies - Chapter 2", URL: https://badlands.substack.com/p/q-for-dummies-chapter-2
+
+## Q for Dummies Chapter 2
+
+Badlands' "Q for Dummies" Chapter 2 notes that Q attached to drop #14 the iconic image of Washington crossing the Delaware River, and treats the choice as significant — the crossing being, in the author's words, "the beginning of the end for the British in the Revolutionary War."[6]

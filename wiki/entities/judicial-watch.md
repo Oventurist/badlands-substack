@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [watchdog, foia, litigation, clinton-administration]
-sources: [raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/badlands-brief-a20.md, raw/badlands-brief-abf.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-355.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-b63.md, raw/badlands-news-brief-b68.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-e8f.md]
+sources: [raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/badlands-brief-a20.md, raw/badlands-brief-abf.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-355.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-b63.md, raw/badlands-news-brief-b68.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-e8f.md, raw/q-for-dummies-chapter-18.md]
 confidence: medium
 ---
 
@@ -64,6 +64,11 @@ Judicial Watch said it was pursuing the next steps in preparation for litigation
 
 [[ashe-in-america|Ashe in America]] praised Judicial Watch for taking on the fight but offered a reality check: the matter was a genuinely ongoing investigation less than a month old, and although the administration appeared to be engaged in a coverup — evidenced by non-responsive testimony across more than four public hearings and a failure to comply with congressional subpoenas — it had legal cover for withholding records from a private entity.[11] She argued that answers would have to come from Congress exercising its full authority in both chambers, describing the dispute as a potential graduate-level examination of the separation of powers.[11]
 
+
+## Post-9/11 departure records
+
+Chapter 18 of the [[q-for-dummies|Q for Dummies]] series cites a Judicial Watch archive document listing departures from the United States in the days after the [[september-11-attacks|September 11 attacks]], using it to show that Saudi nationals were permitted to fly out while air traffic was otherwise grounded nationwide.[16]
+
 ## References
 
 1. Badlands Brief — "America for Sale - Part 1", URL: https://badlands.substack.com/p/america-for-sale-part-1
@@ -101,3 +106,4 @@ In August 2023 Judicial Watch announced that it had obtained 18 pages of records
 In December 2025, Judicial Watch filed a Freedom of Information Act lawsuit against the [[department-of-justice|Justice Department]] seeking the release of all FBI investigative records tied to [[hunter-biden|Hunter Biden]]'s abandoned laptop, after the FBI failed to respond to a January 29, 2025 FOIA request.[15] The case was filed in U.S. District Court for the District of Columbia and seeks all FBI investigative reports, witness interview summaries, memoranda and related records concerning the [[hunter-biden-laptop|laptop]] investigation, along with all emails, text messages, Lync messages and other electronic communications connected to the case.[15] "The Justice Department's refusal to release these basic investigative records raises serious questions about transparency and potential interference in one of the most consequential political stories in recent history," Judicial Watch President [[tom-fitton|Tom Fitton]] said, pledging to fight in court for answers.[15]
 
 15. Badlands News Brief — "Turkish Delight, Somali Expansion, & The Racist History of Jingle Bells", URL: https://badlands.substack.com/p/badlands-news-brief-e8f
+16. Badlands Brief — "Q for Dummies - Chapter 18", URL: https://badlands.substack.com/p/q-for-dummies-chapter-18

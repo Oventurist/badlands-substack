@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [texas, attorney-general, investigation, media-matters]
-sources: [raw/a-cancer-on-modern-journalism.md, raw/badlands-brief-174.md, raw/badlands-brief-2c5.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-a43.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-adc.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-f00.md, raw/badlands-news-brief-f1d.md]
+sources: [raw/a-cancer-on-modern-journalism.md, raw/badlands-brief-174.md, raw/badlands-brief-2c5.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-a43.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-adc.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-f00.md, raw/badlands-news-brief-f1d.md, raw/money-wars-part-1.md]
 confidence: medium
 ---
 
@@ -88,7 +88,12 @@ On Wednesday, October 8, 2025, Paxton announced the arrests of eight people accu
 
 Paxton said the individuals "endangered the very people they pretended to help" by operating outside the law, adding: "In Texas, life is sacred. I will always do everything in my power to protect the unborn, defend our state's pro-life laws, and work to ensure that unlicensed individuals endangering the lives of women by performing illegal abortions are fully prosecuted."[16] The arrests followed the closure of a major [[planned-parenthood|Planned Parenthood]] facility in Houston, once among the largest abortion clinics in the country.[16]
 
+## 2023 impeachment as financial lawfare
+
+In the first installment of the [[money-wars|Money Wars]] series, [[justin-deschamps|Justin Deschamps]] cited Paxton's mid-2023 impeachment — during which his salary was unilaterally suspended on the prosecution's claim that the crimes under investigation were sufficiently serious — as an example of the financial system being used as a weapon against freedom and the rule of law, a case Paxton himself discussed in an interview with [[tucker-carlson|Tucker Carlson]] on X.[17] Deschamps wrote that the prosecution used taxpayer money to fund a secret investigation and to hire attorneys to prosecute Paxton while denying him access to public funds for his own defense, that the [[ken-paxton-impeachment|impeachment]] was quietly pushed through over Memorial Day weekend, and that legal process was used to freeze his pay and impose a gag order on a man later acquitted of all charges.[17]
+
 ## References
+
 
 1. Badlands Brief — "A Cancer on Modern Journalism", URL: https://badlands.substack.com/p/a-cancer-on-modern-journalism
 2. Badlands Brief — "Conflicts, Cartels, & Clemency", URL: https://badlands.substack.com/p/badlands-brief-174
@@ -106,3 +111,4 @@ Paxton said the individuals "endangered the very people they pretended to help" 
 14. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46
 15. Badlands Media — "Badlands News Brief: Intel Leaks, Cartel Extraditions, & Terror Designations", URL: https://badlands.substack.com/p/badlands-news-brief-f00
 16. Badlands Brief — "Badlands News Brief: Illegal Abortionists, Vendor Rebrands, & The End of War", URL: https://badlands.substack.com/p/badlands-news-brief-f1d
+17. Badlands Brief — "Money Wars - Part 1", URL: https://badlands.substack.com/p/money-wars-part-1

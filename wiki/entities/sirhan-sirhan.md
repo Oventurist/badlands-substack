@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [rfk-assassination, 1968, mkultra, conspiracy]
-sources: [raw/how-to-stop-civil-war-20.md]
+sources: [raw/how-to-stop-civil-war-20.md, raw/patsies-of-the-cia-and-fbi.md]
 confidence: medium
 ---
 
@@ -24,5 +24,14 @@ Sirhan's attorneys William Pepper and Laurie Dusek maintained in a 2011 filing s
 
 In 2021, Covert Action Magazine writer Jeremy Kuzmarov published an analysis titled "New Evidence Implicates CIA, LAPD, FBI and Mafia as Plotters in Elaborate 'Hit' Plan to Prevent RFK From Ever Reaching White House," which Badlands describes as the best available reconstruction of who carried out the murder and cover-up and why.[1] That account places Sirhan at the visible edge of an operation involving the [[cia|CIA]], the [[lapd|LAPD]], the [[fbi|FBI]] and organised crime.[1]
 
+## The hypnosis claim and Thane Eugene Cesar
+
+The Badlands essay "Patsies of the CIA and FBI" summarises the official narrative as holding that [[robert-f-kennedy|Robert F. Kennedy]] was killed by Sirhan acting alone, an angry supporter of the Palestinians supposedly upset by Kennedy's support of Israel — an account the essay calls ironic, since the Kennedys in fact fought to keep Israel from getting nuclear weapons, one of the many reasons people believe [[john-f-kennedy|JFK]] was killed.[2]
+
+The article reports that in 2010 Sirhan's lawyers accused the [[cia|CIA]] of hypnotizing him and making him "an involuntary participant," believing the agency feared Kennedy because he opposed it.[2] It also states that Robert F. Kennedy Jr. believes his father was actually killed by [[thane-eugene-cesar|Thane Eugene Cesar]], an employee of [[lockheed-martin|Lockheed]]'s Burbank facility, which manufactured CIA-produced U-2 spy planes, and who worked in an "off limits" area under CIA control.[2]
+
+Sirhan is named among the figures the essay says are suspected of having taken part in the CIA's [[mk-ultra|MK ULTRA]] mind-control program, and is grouped with [[lee-harvey-oswald|Oswald]], [[jack-ruby|Ruby]] and [[john-hinckley-jr|Hinckley]] as those used to eliminate or attempt to eliminate people in power who opposed the agency.[2] See also [[intelligence-patsy|intelligence patsy]].[2]
+
 ## References
 1. Badlands Brief — "How to Stop Civil War 2.0", URL: https://badlands.substack.com/p/how-to-stop-civil-war-20
+2. Badlands Brief — "Patsies of the CIA and FBI", URL: https://badlands.substack.com/p/patsies-of-the-cia-and-fbi

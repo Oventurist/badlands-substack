@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [secret-societies, syria, middle-east, conspiracy]
-sources: [raw/badlands-news-brief-53f.md, raw/badlands-news-brief-f18.md, raw/false-flags-and-the-occult.md]
+sources: [raw/badlands-news-brief-53f.md, raw/badlands-news-brief-f18.md, raw/false-flags-and-the-occult.md, raw/legacy-of-the-bavarian-illuminati-8f0.md]
 confidence: medium
 ---
 
@@ -39,7 +39,16 @@ On January 19, 2025, one day before leaving office, former President [[joe-biden
 1. Badlands Brief — "Badlands News Brief: Devastation at Davos & the Dawn of Denuclearization", URL: https://badlands.substack.com/p/badlands-news-brief-53f
 2. Badlands Brief — "Corruption, Mad Science & Colombian Defiance", URL: https://badlands.substack.com/p/badlands-news-brief-f18
 3. Badlands Brief — "False Flags and the Occult", URL: https://badlands.substack.com/p/false-flags-and-the-occult
+4. Badlands Brief — "Legacy of the Bavarian Illuminati - Part 2", URL: https://badlands.substack.com/p/legacy-of-the-bavarian-illuminati-8f0
 
 ## Claimed descent from the mystery schools
 
 The March 2023 Badlands essay "False Flags and the Occult" places Freemasonry in a lineage running back to the ancient [[eleusinian-mysteries|Eleusinian Mystery Schools]], describing modern initiation lodges such as Free Masonry as the schools' living continuation.[3] In that framing the mystery schools were the esoteric counterpart to the exoteric worship of publicly endorsed gods, and were later used to recruit and bind members of the general population into a secret power cult serving the [[shadow-men|shadow men]] operating behind the scenes.[3]
+
+## Relationship to the Bavarian Illuminati
+
+"Legacy of the Bavarian Illuminati – Part 2" presents the [[bavarian-illuminati|Bavarian Illuminati]] as only one order among hundreds operating under the umbrella of Freemasonry, specifically the Rosicrucian stratum that the researcher [[william-stuart|William Stuart]] calls "[[red-masonry|Red Masonry]]" or *Fratres Lucis*.[4] [[ryan-delarme|Ryan DeLarme]] suggests these could be viewed as the "Cabal" degrees, since not everyone in Freemasonry is part of the Deep State — "some are actually God-Fearing patriots."[4]
+
+[[adam-weishaupt|Adam Weishaupt]] was initiated into Freemasonry at the Lodge Theodore of Good Counsel in Munich in 1776, and by the middle of 1779 his "Insinuators" had completely wrested control of that lodge, which was thereafter regarded as part of the Order of the Illuminati.[4] At the [[congress-of-wilhelmsbad|Congress of Wilhelmsbad]] of July 1782 — convoked by Ferdinand, Duke of Brunswick, Grand Master of the Order of Strict Observance, with delegates from Upper and Lower Germany, Holland, Russia, Italy, France and Austria — the Illuminati were represented by [[baron-von-knigge|Baron von Knigge]], and Nesta H. Webster held that it was there that "the alliance between Illuminism and Freemasonry was finally sealed."[4]
+
+[[carl-theodore|Duke Carl Theodore]]'s second Bavarian edict of March 2, 1785 named both the Illuminati and Freemasonry explicitly, and forbade members of the order to assemble as lodges under any name or circumstance.[4]

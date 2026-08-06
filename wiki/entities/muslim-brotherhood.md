@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [muslim-brotherhood, syria, smuggling, libya, obama]
-sources: [raw/a-dereliction-of-duty.md, raw/a-conflict-of-interest.md, raw/america-for-sale-part-2.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-dd8.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-f00.md, raw/infiltration-not-invasion.md]
+sources: [raw/a-dereliction-of-duty.md, raw/a-conflict-of-interest.md, raw/america-for-sale-part-2.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-dd8.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-f00.md, raw/infiltration-not-invasion.md, raw/q-for-dummies-chapter-19.md, raw/q-for-dummies-chapter-2.md]
 confidence: medium
 ---
 
@@ -69,6 +69,7 @@ On August 12, 2025, Secretary of State [[marco-rubio|Marco Rubio]] said the Unit
 7. Badlands Brief — "Badlands News Brief: Quick Reaction Forces, Still Unexplained Anomalies, N-Word Options", URL: https://badlands.substack.com/p/badlands-news-brief-dd8
 8. Badlands Brief — "Badlands News Brief: Globalists Cry, Trump Plots and the Saudis Hold Court", URL: https://badlands.substack.com/p/badlands-news-brief-e6c
 9. Badlands Media — "Badlands News Brief: Intel Leaks, Cartel Extraditions, & Terror Designations", URL: https://badlands.substack.com/p/badlands-news-brief-f00
+12. Badlands Brief — "Q for Dummies - Chapter 2", URL: https://badlands.substack.com/p/q-for-dummies-chapter-2
 
 ## Media assets and identification methodology
 
@@ -85,3 +86,13 @@ In Egypt, the overthrow of Mubarak led to an election, promoted by U.S. governme
 Citing the Center for Security Policy and Breitbart, the article describes the Brotherhood's doctrine of [[civilization-stealth-jihad|civilization jihad]] — a pre-violent, "stealth" phase of jihad consisting of cultural subversion, co-opting of senior leaders, influence operations and propaganda intended to insinuate Sharia gradually into Western societies.[10] The Brotherhood's *Explanatory Memorandum* describes the Islamic Movement in the United States as a "settlement process" leading to a "grand jihad" under Brotherhood direction.[10] Lange applies the Q formulation "infiltration, not invasion" to this program and points to Representative [[michele-bachmann|Michele Bachmann]]'s 2012 letters warning inspectors general about Brotherhood infiltration of the U.S. government, which named [[huma-abedin|Huma Abedin]] and drew sharp criticism from McCain.[10] He also states that the Brotherhood helped the [[central-intelligence-agency|CIA]] smuggle shoulder-fired missiles into Syria with the help of Turkey.[10]
 
 10. Badlands Brief — "Infiltration, Not Invasion", URL: https://badlands.substack.com/p/infiltration-not-invasion
+
+## Link to the ISIS funding question
+
+Chapter 19 of the [[q-for-dummies|Q for Dummies]] series brings the Brotherhood into its reading of Q Drop #120, which asks whether [[hillary-clinton|Hillary Clinton]] was connected to the expansion of [[isis|ISIS]].[11] The Badlands author answers that she was, by way of [[john-podesta|John Podesta]] and [[huma-abedin|Huma Abedin]], and states that the Abedin link is what "then brings the Muslim Brotherhood into the equation."[11]
+
+11. Badlands Brief — "Q for Dummies - Chapter 19", URL: https://badlands.substack.com/p/q-for-dummies-chapter-19
+
+## Treatment in "Q for Dummies" Chapter 2
+
+Badlands' "Q for Dummies" Chapter 2 reads Q drop #8 as a warning about the Brotherhood, stating flatly that the organization "is not a benevolent organization, at least not to America," and pointing readers to an Investor's Business Daily editorial on radical Islamist officials in the White House for background.[12] The chapter links the Brotherhood to [[huma-abedin|Huma Abedin]], [[hillary-clinton|Hillary Clinton]]'s top aide, through her family connections.[12]

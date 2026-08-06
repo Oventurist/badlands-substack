@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [information-war, narrative-warfare, psyops]
-sources: [raw/badlands-news-brief-e5c.md, raw/death-blossom.md, raw/dont-be-symbol-minded.md]
+sources: [raw/badlands-news-brief-e5c.md, raw/death-blossom.md, raw/dont-be-symbol-minded.md, raw/poisoning-the-well.md]
 confidence: low
 ---
 
@@ -40,3 +40,13 @@ In "Don't Be Symbol-Minded" (November 15, 2025), [[matthew-ehret|Matthew Ehret]]
 Ehret argued that this conclusion follows naturally only for those conditioned to evaluate reality solely through pattern recognition or pure bottom-up empiricism, without regard for the higher realm of causality treated by Plato, Cicero, St. Augustine, Leibniz and [[lyndon-larouche|Lyndon LaRouche]].[3] He warned that its logical endpoint is the belief that all power in the present age belongs to segments of the same "Team Evil," leaving nothing meriting the term "good" beyond a survivalist fantasy of outlasting an apocalypse with a small tribe.[3] The same reasoning, he noted, underlies the corollary claim that the [[multipolar-world-order|multipolar alliance]] is simply another depopulation-fixated controlled opposition — a claim he rejected while conceding that genuine saboteurs operate inside multipolar-leaning states.[3]
 
 3. Badlands Brief — "Don't Be Symbol-Minded", URL: https://badlands.substack.com/p/dont-be-symbol-minded
+
+## Carlson's definition and the three audience classes
+
+In "Poisoning the Well" (January 26, 2024), [[erik-carlson|Erik Carlson]] defined controlled opposition as "creating and promoting an opposition to the narrative, while actually being controlled by the same people who create and control the narratives one is opposing."[4] He described the characteristic output ratio as roughly 80% truth to 20% lies — or 80% truth with a 20% silence the operator is paid to maintain — and warned that such an actor may appear genuinely oppositional for years before being "activated to turn on the people who trust them."[4] He named [[fox-news|Fox News]] and [[alex-jones|Alex Jones]] as possible examples, while adding that he had begun to wonder whether Jones's constant flip-flopping was itself part of a plan, and that in a world of agents, double agents and triple agents Jones might be "a triple agent, pretending to be controlled opposition."[4] Carlson observed an asymmetry in how his own community reasons: it readily accepts that a black hat can cut a deal and become a grey hat working with the [[white-hats|white hats]], but rarely entertains the possibility that a controlled-opposition influencer had their strings cut along the way or occupies a more complex role.[4]
+
+Carlson placed the technique within a three-part taxonomy of narrative targets. The easy to manipulate are handled by saturation disinformation across roughly 95% of media; the impossible to manipulate are simply silenced, villainised and deplatformed; and it is the middle group — the difficult to manipulate — against whom controlled opposition is specifically deployed, because they cannot be controlled outright but can be kept off balance by disinformation that validates what they already believe, sending them down endless rabbit holes that waste time, damage credibility and divert them from the truth.[4] He paired the technique with [[poisoning-the-well|poisoning the well]] as the newer methods required once the "awake" share of the population grew past the point where simple suppression sufficed.[4]
+
+On the specific question of who counts as controlled opposition, Carlson counselled restraint: "Just because someone says something bad about [[donald-trump|Trump]], or had a different opinion in the past, it doesn't automatically make them Deep State, and just because someone says something good about Trump, it doesn't make them a patriot."[4] Some players, in his framing, are simply performing roles assigned by one side or the other, and while a few cases are obvious — Trump on the side of the patriots, [[george-soros|George Soros]] on the side of the [[deep-state|Deep State]] — most are not, and identifying them is unnecessary.[4]
+
+4. Badlands Brief — "Poisoning the Well", URL: https://badlands.substack.com/p/poisoning-the-well

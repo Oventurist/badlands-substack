@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ukraine, maidan, ned, solidarity-center, nato]
-sources: [raw/a-more-perfect-labor-union.md, raw/assad-day-in-damascus.md, raw/badlands-brief-07c.md, raw/badlands-brief-0bd.md, raw/badlands-brief-169.md, raw/badlands-brief-6f4.md, raw/badlands-brief-70c.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-ea6.md, raw/badlands-news-brief-f76.md, raw/death-blossom.md]
+sources: [raw/a-more-perfect-labor-union.md, raw/assad-day-in-damascus.md, raw/badlands-brief-07c.md, raw/badlands-brief-0bd.md, raw/badlands-brief-169.md, raw/badlands-brief-6f4.md, raw/badlands-brief-70c.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-ea6.md, raw/badlands-news-brief-f76.md, raw/death-blossom.md, raw/money-and-oil.md]
 confidence: medium
 ---
 
@@ -183,3 +183,10 @@ Badlands Media contributor [[burning-bright|Burning Bright]] alleged in "Death B
 He further argued that the episode advanced public re-evaluation of Ukraine itself, contending that reachable minds were beginning to grasp that Ukraine and its leadership "aren't quite what the [[media-industrial-complex|Media Industrial Complex]] first portrayed" in the opening months of the [[russia-ukraine-war|war]].[25]
 
 25. Badlands Brief — "Death Blossom", URL: https://badlands.substack.com/p/death-blossom
+26. Badlands Brief — "Money and Oil", URL: https://badlands.substack.com/p/money-and-oil
+
+## "Money and Oil" account of the war (November 2022)
+
+Joe Lange's essay "Money and Oil" describes Ukraine as the [[cabal|cabal]]'s launchpad in a plan to destroy [[russia|Russia]], and [[vladimir-putin|Vladimir Putin]]'s invasion as a brilliant chess move that changed everything in Europe.[26] In this telling Putin exposed illegal bio labs in Ukraine, Nazi divisions and a cabal money laundering operation, and protected ethnically Russian Ukrainians from what Lange calls continual slaughter by their own government.[26]
+
+The essay further credits the war with exposing [[nato|NATO]] as a puppet of the cabal alongside Europe's central banks, and argues that European sanctions backfired by spiking energy prices, driving inflation and pushing the [[european-union|European Union]] into recession — producing a rise in European public sentiment for ending the war.[26]

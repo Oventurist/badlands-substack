@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [crt, education, neo-marxism, ideology]
-sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-6db.md, raw/death-to-dei.md, raw/how-to-stop-civil-war-20.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-6db.md, raw/death-to-dei.md, raw/how-to-stop-civil-war-20.md, raw/on-predators-and-prey-exploring-the.md]
 confidence: low
 ---
 
@@ -30,9 +30,14 @@ Badlands contributor [[erik-carlson|Erik Carlson]] wrote that critical race theo
 
 Badlands contributor [[matthew-ehret|Matthew Ehret]] concedes that white Christian culture has genuinely come under attack over decades of woke and Critical Race Theory infiltration of education and political institutions.[4] His argument is that this real grievance is then harvested: movements such as the [[unite-the-kingdom-rally|Unite the Kingdom]] rallies channel it into tribal conflict with immigrants rather than toward the financier oligarchy he identifies as the actual oppressor.[4]
 
+## Described as child grooming
+
+Badlands contributor [[american-hypnotist|American Hypnotist]] has argued in a companion article titled "Critical Race Theory is Child Grooming" that teaching young children to hate their ancestry and to feel guilty for destroying the world is an insidious form of child grooming.[5] In his August 2025 essay on the left-right paradigm he restated the position as an "iron law" of human development: a child can either be taught self-love and self-respect, enabling them to set boundaries, or taught self-hatred, which primes them to be exploited by predators — but not both at once.[5] He connected this directly to the [[grooming-gangs|UK rape gangs]], which he said often begin grooming young British girls by playing on their "White guilt" before relieving it with feigned affection and gifts.[5] He recounted his own American public schooling as a case in point, having been taught by age eight that the world was ending because of people like him, and cited [[charlotte-iserbyte|Charlotte Iserbyte]]'s [[the-deliberate-dumbing-down-of-america|The Deliberate Dumbing Down of America]] as evidence that Soviet brainwashing methods were in use in US schools by the 1990s.[5]
+
 ## References
 
 1. Badlands Brief — "AI Can Help Us Expose the NWO", URL: https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo
 2. Badlands Brief — "Badlands News Brief: Mostly Peaceful Riots and Billionaire Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-6db
 3. Badlands Brief — "Death to DEI", URL: https://badlands.substack.com/p/death-to-dei
 4. Badlands Brief — "How to Stop Civil War 2.0", URL: https://badlands.substack.com/p/how-to-stop-civil-war-20
+5. Badlands Brief — "On Predators and Prey - Exploring the Left-Right Paradigm", URL: https://badlands.substack.com/p/on-predators-and-prey-exploring-the

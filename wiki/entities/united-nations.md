@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [united-nations, un-charter, international-law, fdr]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-094.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-be1.md, raw/badlands-news-brief-c50.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-ed9.md, raw/badlands-news-brief-f8a.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-094.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-be1.md, raw/badlands-news-brief-c50.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-ed9.md, raw/badlands-news-brief-f8a.md, raw/oppenheimer-and-the-central-narrative.md]
 confidence: medium
 ---
 
@@ -103,6 +103,10 @@ In May 2024 the United Nations halved its published estimate of Palestinian wome
 
 [[badlands-media|Badlands Media]] commentary by [[ashe-in-america|Ashe in America]] argued that if the "fog of war" explanation is accepted then nothing the UN publishes should be believed going forward, and predicted the correction would be largely ignored by the truth community because the underlying information operation had been effective.[16]
 
+## The UN as nuclear oversight body in *Oppenheimer*
+
+In Christopher Nolan's 2023 film *Oppenheimer*, [[j-robert-oppenheimer|J. Robert Oppenheimer]], struggling with the capability he had created, raises the possibility of sharing the science with the Soviets and engaging the United Nations in an oversight capacity.[17] Badlands contributor [[ashe-in-america|Ashe in America]] argued the film highlights the nationalistic rejection of that proposal in order to tee up globalism as the answer in hindsight, making the UN a vehicle in the film's broader case for [[global-governance|global governance]].[17]
+
 ## References
 
 1. Badlands Brief — "A Gateway to a New World of Cooperation", URL: https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation
@@ -128,3 +132,4 @@ Badlands commentary noted the irony that the UN itself created Israel in 1947 th
 
 15. Badlands Brief — "Badlands News Brief: Israeli Arms, Bondi's Back Peddle, & Assassins' Creeds", URL: https://badlands.substack.com/p/badlands-news-brief-ed9
 16. Badlands Brief — "Badlands News Brief: Economic Strife Prompts a Squeeze on the Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-f8a
+17. Badlands Brief — "'Oppenheimer' & The Central Narrative", URL: https://badlands.substack.com/p/oppenheimer-and-the-central-narrative

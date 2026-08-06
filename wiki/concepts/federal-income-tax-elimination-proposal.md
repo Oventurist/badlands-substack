@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [tariffs, taxation, irs, trump-administration, economics]
-sources: [raw/badlands-news-brief-f18.md]
+sources: [raw/badlands-news-brief-f18.md, raw/open-borders-finally-make-sense.md]
 confidence: medium
 ---
 
@@ -20,5 +20,12 @@ The federal income tax elimination proposal refers to President [[donald-trump|D
 
 Commentator GhostofBasedPatrickHenry urged that the idea be discussed as widely as possible — "Abolish the [[federal-reserve|Federal Reserve]]. Abolish the IRS." — precisely so that opponents in Washington would reveal themselves by coming out against it.[1] He predicted that tariffs would gut corporate America while American small businesses "feast on the corpse," and framed the policy as Trump going after "the mob's life savings," warning that things might get ugly and calling to "Accelerate."[1]
 
+## Earlier prediction by Erik Carlson
+
+Badlands contributor [[erik-carlson|Erik Carlson]] had anticipated the proposal months in advance. In a July 25, 2024 article, "A Week to Remember," he argued that the assassination attempt on [[donald-trump|Donald Trump]] stemmed from Trump's intention to dismantle the financial system, and went further in stating his belief that Trump ultimately meant to eliminate the income tax altogether.[2] Writing in November 2024, Carlson noted that Trump had confirmed exactly that intention three months later, and compared the prediction to forecasting the attack on Pearl Harbor three months before it happened.[2]
+
+Carlson also treated the muted response to that article as an [[overton-window|Overton Window]] problem: the piece drew 185 likes against 940 for his article on the Cabal, which he read as evidence that his own community could accept the existence of a Satanic ruling class more easily than a United States without income tax.[2] In the same essay he tied income tax directly to his broader thesis, asking how the [[deep-state|Deep State]] could fund what he called its Ponzi schemes — including payments housing migrants in hotels, apartments and houses — without American taxpayer money.[2]
+
 ## References
 1. Badlands Brief — "Corruption, Mad Science & Colombian Defiance", URL: https://badlands.substack.com/p/badlands-news-brief-f18
+2. Badlands Brief — "Open Borders Finally Make Sense", URL: https://badlands.substack.com/p/open-borders-finally-make-sense

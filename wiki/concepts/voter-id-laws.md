@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [elections, election-integrity, voting-rights, department-of-justice]
-sources: [raw/badlands-news-brief-db1.md]
+sources: [raw/badlands-news-brief-db1.md, raw/q-for-dummies-chapter-19.md]
 confidence: medium
 ---
 
@@ -24,5 +24,12 @@ Badlands writer [[ashe-in-america|Ashe in America]] argued it almost defied beli
 
 Her argument linked the voter ID fight to border policy: videos of criminal migrants crossing the border were a daily occurrence, some migrants had been recorded claiming they could vote because they believed themselves to be present legally — likely, she suggested, because NGO traffickers told them so — and in Colorado and other ERIC states local election officials are prohibited from asking about citizenship during voter registration.[1] With millions of new arrivals who are by definition ineligible but who believe themselves eligible, she asked how the chief law enforcement officer of the nation responding by removing election security measures could be characterized as anything other than treason.[1]
 
+## Treatment in the Q for Dummies series
+
+Chapter 19 of the [[q-for-dummies|Q for Dummies]] series argues that Voter ID laws are few and far between precisely because a federal Voter ID requirement would make stealing elections exponentially harder.[2] The author points to the [[save-act|SAVE Act]] and to state-level rulings — the [[pennsylvania-supreme-court|Pennsylvania Supreme Court]]'s decision to disallow unmarked, inaccurate or unsigned mail-in ballots, and the [[north-carolina-supreme-court|North Carolina Supreme Court]]'s removal of [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] from the ballot — as signs of a broader push to clean up elections.[2]
+
+Responding to a Q prompt to list activities that require identification, the chapter contends that the hypocrisy of requiring ID for those activities while not requiring it to vote is absurd.[2] It rejects the argument that Voter ID is racist, asserting instead that the argument is itself racist because it presumes minorities are incapable of obtaining identification.[2] The chapter links the issue to illegal immigration and open borders, arguing that opening the border and extending voting rights to illegal immigrants would allow any election to be stolen at will.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Super Tuesday Goes as Planned & the Deep State Loses a Player", URL: https://badlands.substack.com/p/badlands-news-brief-db1
+2. Badlands Brief — "Q for Dummies - Chapter 19", URL: https://badlands.substack.com/p/q-for-dummies-chapter-19

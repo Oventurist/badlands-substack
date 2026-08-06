@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [foreign-aid, gaza, terrorism-finance, obama, badlands]
-sources: [raw/bad-actors.md, raw/badlands-brief-05f.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-215.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-e31.md, raw/badlands-news-brief-f76.md, raw/badlands-news-brief-f8a.md]
+sources: [raw/bad-actors.md, raw/badlands-brief-05f.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-215.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-e31.md, raw/badlands-news-brief-f76.md, raw/badlands-news-brief-f8a.md, raw/q-for-dummies-chapter-13.md]
 confidence: medium
 ---
 
@@ -115,3 +115,11 @@ Badlands commentary linked the episode to the PA's earlier attempt at the same a
 Ahead of the September 2025 [[united-nations-general-assembly|United Nations General Assembly]], Palestinian officials sought to reverse the United States' decision to bar PA President [[mahmoud-abbas|Mahmoud Abbas]] and some 80 other officials from the meeting, a measure Washington adopted in response to the intended Western recognition of a Palestinian state.[13] Multiple Palestinian sources said the PA, which governs day-to-day affairs in parts of the [[west-bank|West Bank]], was working through various channels to persuade the Americans to lift the visa restrictions.[13] The lobbying coincided with reports that [[benjamin-netanyahu|Benjamin Netanyahu]] was weighing annexation of parts of the West Bank in response to the recognition wave.[13]
 13. Badlands Brief — "Badlands News Brief: Sinking Confidence & A Loss Of Command", URL: https://badlands.substack.com/p/badlands-news-brief-f76
 14. Badlands Brief — "Badlands News Brief: Economic Strife Prompts a Squeeze on the Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-f8a
+
+## The $221 million transfer in Q For Dummies commentary
+
+The Badlands Media "Q For Dummies" series recounted that [[barack-obama|Barack Obama]] sent $221 million to the Palestinian Authorities immediately before transitioning power to [[donald-trump|President Trump]], despite objections from members of [[congress|Congress]], and noted it was not the only occasion on which he did so.[15] The article cited a January 2017 Breitbart report on the transfer as its source.[15]
+
+The series presented the payment as a concrete answer to Q's Drop #96 request that anons dig into how the outgoing administration would repay Middle Eastern backers of [[hillary-clinton|Hillary Clinton]] and the [[clinton-foundation|Clinton Foundation]], describing a pattern of payments delivered to entities in the region that the author characterised as harbouring no intention of being allies to the United States.[15]
+
+15. Badlands Brief — "Q For Dummies - Chapter 13", URL: https://badlands.substack.com/p/q-for-dummies-chapter-13

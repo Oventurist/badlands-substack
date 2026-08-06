@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [think-tank, nato, foreign-policy, deep-state, energy]
-sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-617.md, raw/how-to-rent-a-riot-the-plausible.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-617.md, raw/how-to-rent-a-riot-the-plausible.md, raw/oligarchism-and-the-great-game.md]
 confidence: medium
 ---
 
@@ -32,6 +32,10 @@ According to revelations from the [[twitter-files|Twitter Files]], the State Dep
 
 [[mike-benz|Mike Benz]] identified the Atlantic Council, alongside [[john-podesta|John Podesta]], as a leader of the [[transition-integrity-project|Transition Integrity Project]], the non-governmental effort that wargamed responses to the 2020 U.S. election outcome.[3]
 
+## Moldova program
+
+During the height of blowback over the Moldovan banking scandal in 2016, the Moldovan oligarch [[vlad-plahotniuc|Vlad Plahotniuc]] was a guest of the pro-NATO Atlantic Council in Washington, where he met with [[victoria-nuland|Victoria Nuland]] and other members of the Obama administration; on returning home he moved speedily to take full control of the [[democratic-party-of-moldova|Democratic Party]].[5] The 'Atlantic Council Moldova Program' also advanced a steady stream of pro-NATO commentary funded by Jashi's Trans Oil Group, on whose board sat former U.S. Ambassador [[asif-chaudhry|Asif Chaudhry]].[5]
+
 ## References
 
 1. Badlands Brief — "And Iran, Iran So Far Away", URL: https://badlands.substack.com/p/and-iran-iran-so-far-away
@@ -43,3 +47,4 @@ According to revelations from the [[twitter-files|Twitter Files]], the State Dep
 Badlands Media describes the Atlantic Council as an "extremely militaristic" NATO think tank and notes that [[maria-stephan|Maria Stephan]] — former director of the Nonviolent Action Program at the [[united-states-institute-of-peace|United States Institute of Peace]] and chief organizer of the [[horizons-project|Horizons Project]] — is a fellow there.[4] The affiliation is offered as evidence that the leading organizers of ostensibly grassroots [[nonviolent-action|nonviolent action]] are embedded in the same establishment institutions that direct Western foreign policy.[4]
 
 4. Badlands Brief — "How to Rent a Riot - The Plausible Deniability Network", URL: https://badlands.substack.com/p/how-to-rent-a-riot-the-plausible
+5. Badlands Brief — "Oligarchism and the Great Game", URL: https://badlands.substack.com/p/oligarchism-and-the-great-game

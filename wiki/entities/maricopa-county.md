@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [arizona, maricopa-county, elections, local-government]
-sources: [raw/an-sos-from-ground-zero.md, raw/badlands-brief-509.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-ca1.md]
+sources: [raw/an-sos-from-ground-zero.md, raw/badlands-brief-509.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-ca1.md, raw/q-for-dummies-chapter-13.md]
 confidence: medium
 ---
 
@@ -45,3 +45,9 @@ In May 2023, county supervisor [[bill-gates-arizona|Bill Gates]] said he was suf
 In August 2024 [[america-first-legal|America First Legal]] sued Maricopa County Recorder [[stephen-richer|Stephen Richer]], alleging that the county had failed to remove non-citizens from its voter rolls and that Richer had not performed the monthly list maintenance required under Arizona law to verify the citizenship of registrants who had not provided proof.[5] The suit, brought for the [[strong-communities-foundation-of-arizona|Strong Communities Foundation of Arizona]] and a naturalized-citizen voter, cited an increase in county registrations lacking proof of citizenship from 21,595 in April 2024 to 26,108 in July 2024; such voters may participate in federal but not state elections in Arizona.[5]
 
 5. Badlands Brief — "Fake Vice Presidents and Effective Lawsuits", URL: https://badlands.substack.com/p/badlands-news-brief-ca1
+
+## Reference in Q For Dummies Chapter 13
+
+The Badlands Media "Q For Dummies" series observed that Maricopa County is the only county in the United States that [[qanon|Q]] mentions by name.[6] The point was raised while discussing [[michael-flynn|General Michael Flynn]]'s command of the [[111th-military-intelligence-brigade|111th Military Intelligence Brigade]] at [[fort-huachuca|Fort Huachuca]], Arizona, which the author noted placed Flynn in charge of an intelligence unit just south of the county — a juxtaposition he flagged as interesting without asserting a definite connection.[6]
+
+6. Badlands Brief — "Q For Dummies - Chapter 13", URL: https://badlands.substack.com/p/q-for-dummies-chapter-13

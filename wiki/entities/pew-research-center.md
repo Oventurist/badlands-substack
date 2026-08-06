@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [polling, research, media, social-media]
-sources: [raw/badlands-news-brief-85c.md, raw/badlands-news-brief-ba4.md]
+sources: [raw/badlands-news-brief-85c.md, raw/badlands-news-brief-ba4.md, raw/one-of-the-most-transformative-moments.md]
 confidence: medium
 ---
 
@@ -29,3 +29,9 @@ Badlands contributor [[paul-fleuret|Paul Fleuret]] read the polling as evidence 
 ## References
 1. Badlands Brief — "Sudden Independence & Legitimately Toxic Unity", URL: https://badlands.substack.com/p/badlands-news-brief-85c
 2. Badlands Brief — "Badlands News Brief: Trump's Slings and Arrows ... Hunter's Threats", URL: https://badlands.substack.com/p/badlands-news-brief-ba4
+
+## Cryptocurrency ownership survey (2021)
+
+A 2021 Pew Research Center study found that only 16 percent of Americans had ever invested in, traded, or otherwise used a cryptocurrency.[3] Badlands Media cited the figure alongside a March 2023 Financial Health Network report showing ownership had fallen to 11 percent of consumers following the late-2022 market collapse, down from pre-collapse estimates of 16 to 17 percent.[3]
+
+3. Badlands Brief — "One of the Most Transformative Moments in Money Since Jekyll Island", URL: https://badlands.substack.com/p/one-of-the-most-transformative-moments

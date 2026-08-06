@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [canada, protest, covid-mandates, emergencies-act, lawfare]
-sources: [raw/badlands-news-brief-11c.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-e1a.md, raw/badlands-news-brief-ea1.md]
+sources: [raw/badlands-news-brief-11c.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-e1a.md, raw/badlands-news-brief-ea1.md, raw/money-wars-part-1.md]
 confidence: medium
 ---
 
@@ -42,9 +42,16 @@ In February 2024 the Freedom Convoy was invoked as a precedent when American tru
 
 Esler documented how Marxist commentators processed the convoy, quoting Marxist.ca's claim that angry, distrustful truck drivers had been won over by fringe anti-vaccine movements because they felt powerless, and that the vaccine mandate was merely an easy target while the true cause of their difficulties was employers keeping wages low.[4] He argued this analysis was blind to the fact that working people had developed a nuanced understanding of [[lawfare|lawfare]] as a cover for election interference, that the awakening was identifying and rejecting elite power in a way Neo-Marxist groups astroturfed by figures such as [[george-soros|George Soros]] had failed to, and that worker-led uprisings against corruption were being carried out by devoutly anti-communist citizens.[4] He also recalled that Canadian elites and media were sufficiently alarmed by the convoy to construct a narrative claiming that honking was a dogwhistle for "Hail Hitler."[4]
 
+## Account freezes as weaponized finance
+
+The first installment of the [[money-wars|Money Wars]] series by [[justin-deschamps|Justin Deschamps]] treats the convoy as its leading example of money used as a weapon against a political movement.[5] Citing the Canadian lawyer and commentator [[viva-frei|Viva Frei]], Deschamps wrote that banks in Canada and elsewhere unlawfully froze the bank accounts of protestors and organizers, and that while the authors of the unprecedented move could not be confirmed it undoubtedly benefited the globalists.[5] Because the [[justin-trudeau|Trudeau]] government could not shut down the lawful protests, he argued, it performed an end run around the rights of its citizens by starving the protestors of money.[5]
+
+The crowdfunding platform [[gofundme|GoFundMe]] unilaterally confiscated over $10 million in trucker donations, intending to send the money to charities of its own choosing on the claim that the funds supported "white supremacy and hate."[5] Deschamps concluded that every actor involved — the Canadian government, GoFundMe, and the banks — was guilty of one of the highest crimes known to man: breach of trust and contract, a violation of fiduciary duty, or complicity therein.[5]
+
 ## References
 
 1. Badlands Brief — "The Turn on Biden Begins", URL: https://badlands.substack.com/p/badlands-news-brief-11c
 2. Badlands Brief — "Badlands News Brief: The Trump Train Rolls on ... Fake MAGA Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-89f
 3. Badlands Brief — "Rug Pulls and Riddles Abound as the Trump Victory Tour Continues", URL: https://badlands.substack.com/p/badlands-news-brief-e1a
 4. Badlands Brief — "Badlands News Brief: An Astonishing Fani, Angry Truckers & a Russian Ruse", URL: https://badlands.substack.com/p/badlands-news-brief-ea1
+5. Badlands Brief — "Money Wars - Part 1", URL: https://badlands.substack.com/p/money-wars-part-1

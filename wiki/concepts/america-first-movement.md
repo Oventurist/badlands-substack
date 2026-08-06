@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [maga, america-first, populism, sovereignty, badlands-media]
-sources: [raw/all-assets-deployed.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-0db.md, raw/introducing-badlandsmediatv.md]
+sources: [raw/all-assets-deployed.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-0db.md, raw/introducing-badlandsmediatv.md, raw/nikki-haley-establishment-gops-last.md, raw/president-trumps-call-to-arms.md]
 confidence: medium
 ---
 
@@ -44,9 +44,18 @@ The October 2023 election of [[mike-johnson|Mike Johnson]] as Speaker of the Hou
 
 The movement's economic dimension is expressed in efforts to build parallel commercial networks.[4] In March 2023 [[badlands-media|Badlands Media]], describing itself as "an America First media company," launched [[badlandsmedia-tv|BadlandsMedia.tv]] and the attached [[badlands-marketplace|Badlands Marketplace]], a directory where "Patriot-owned businesses can proudly hang their shingle and connect with like-minded customers."[4] The accompanying appeal urged readers to stop financially supporting companies that do not share their values so that "our America First economy" might grow.[4]
 
+In the [[2023-trump-cpac-speech|2023 Trump CPAC speech]], [[donald-trump|Donald Trump]] tied the America First banner directly to opposition to the party establishment and to [[forever-wars|endless wars]], telling the audience: "We have no choice. If we don't do this, our country will be lost forever. People are tired of [[rino|RINOs]] and globalists; they want to see America First."[6] Badlands contributor [[brad-getz|Brad Getz]] framed the resulting programme as the restoration of "the REAL United States of America" and a break from "the stifling system of debt slavery."[6]
+
 ## References
 
 1. Badlands Brief — "All Assets Deployed", URL: https://badlands.substack.com/p/all-assets-deployed
 2. Badlands Brief — "TACO Tuesday Returns as the War of Stories Gets Weird", URL: https://badlands.substack.com/p/badlands-brief-c7b
 3. Badlands Brief — "Badlands News Brief: Draft Dodgers, Peacemakers & Warmongers Galore!", URL: https://badlands.substack.com/p/badlands-news-brief-0db
 4. Badlands Brief — "Introducing BadlandsMedia.tv!", URL: https://badlands.substack.com/p/introducing-badlandsmediatv
+
+## Contest with the donor class in 2023
+
+Writing in November 2023, [[ryan-delarme|Ryan DeLarme]] described the America First contingent as the anti-corporate and anti-militarist bloc that emerged within the [[republican-party|Republican Party]] alongside [[donald-trump|Donald Trump]], and argued that international interests long accustomed to using the United States military for regime change were "desperate to steal back" the party from it.[5] He identified [[nikki-haley|Nikki Haley]] as their chosen vessel for that effort.[5] DeLarme characterized the movement's constituency as prioritizing immigration, trade, nationalism and domestic economic issues over interventionist foreign policy, and as extending beyond Republicans to disillusioned and post-liberal voters drawn to populist figures such as Trump and [[robert-f-kennedy-jr|RFK Jr.]] because of their criticism of Washington [[neoconservatives|neoconservatism]].[5] Against this shift, he argued, Haley's appeal to the Republicans of [[george-w-bush|George Bush]], [[dick-cheney|Dick Cheney]], [[john-mccain|John McCain]] and [[mitt-romney|Mitt Romney]] addressed a rapidly dwindling share of the electorate.[5]
+
+5. Badlands Brief — "Nikki Haley: The Establishment GOP's Last Hope", URL: https://badlands.substack.com/p/nikki-haley-establishment-gops-last
+6. Badlands Brief — "President Trump's Call to Arms", URL: https://badlands.substack.com/p/president-trumps-call-to-arms
